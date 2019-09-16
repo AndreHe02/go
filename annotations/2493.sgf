@@ -1,0 +1,203 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+GN[2004, PANDA-NET,]
+PB[abennun]
+BR[5k]
+PW[Papaya]
+WR[4k]
+KM[0.5]
+DT[2004-05-14]
+PC[PANDA-NET]
+RE[W+Resign]
+RU[Japanese]
+
+C[Hi,
+Have you ever felt that you played well, but still your opponent wins?
+Well, this is one of these games...
+I am playing Black, and during the game I felt I am behind although I made the right moves.
+Could you help me out and point where I went wrong?
+
+Thanks!];B[pd];W[dp];B[pp];W[dd];B[pj];W[mp]LB[pn:A][jp:C][oq:B]
+C[Black A or B to defend or pincer at C to launch an early attack.
+
+O3 is typical helping move.];B[nq];W[gq];B[jd];W[gd]LB[nd:A]
+SQ[jd]C[Black A better.
+
+Pls note that after white G16, black K16 is sort of weaken.]
+;B[cf];W[ch];B[cc];W[cd];B[dc];W[ed];B[bd];W[be];B[bc];W[bf]
+;B[fb];W[mq];B[np];W[mo]LB[dk:A]C[Maybe black A to split white's moyo is a better move.]
+;B[cn]LB[dk:A]C[This is the first critical point.
+Each player has his 'own' side of the board, and the question is who will make most of it and at the same time who will reduce more the opponent's side.
+
+Now - is it the right approach? I could not find a better alternative!
+
+Black A is another good point you should consider.];W[dn];B[dm]
+;W[en]LB[cp:A]C[Black A better, pls look at the variation.]
+
+(;B[co]C[Black C5 gave white a corner too big.];W[cp]C[White's corner is far  too big, this is not acceptable.]
+;B[ck];W[em]LB[dl:A]C[White should play A, E7 is crude move.]
+;B[dl];W[fk]LB[di:A][jn:B]C[Black A is not a good move.
+
+Top left is a minor moyo, bottom left is the major one.
+
+Black should play around B to reduce the moyo.]
+(;B[di]
+(;W[ld]C[Now it's White turn to invade.
+
+Did I find the correct answers?];B[hc]C[Nice move.];W[bp];B[jf]
+;W[ci];B[dj];W[eg];B[fi]LB[bj:A][ek:B]C[You can consider A or B too.
+
+A is better in material, B is for eye-shape.];W[pc];B[od];W[oc]
+LB[nc:A]C[You should have counter-attack at A instead.
+
+Give up the corner, you might get a huge moyo in the center.
+
+Pls look at the variation.]
+(;B[qc];W[nd]LB[nc:A]C[White O16 is an overplay.
+
+You should have cut at A here, white will be in trouble.];B[ne]
+;W[mc]LB[qd:A]C[Now you have to protect the cut at A.
+
+Pls look at the variation.]
+(;B[lf]LB[qd:A]C[Sealing the center is important, but R16 is very big. What is the right answer?
+
+Sorry, you did not get the right answer.
+
+You should have done a lot better if you play R16 instead of M14.]
+;W[qd];B[qe];W[rd];B[re];W[rc]LB[oe:A]SQ[qd][lf]C[No choice, you have to play A for good aji.
+
+White shouldn't have get a corner this big.];B[me];W[pe];B[oe]
+;W[qj]LB[qk:A]C[Bad move by white, clearly R8 is the proper invasion.
+
+Black should play A, drive the white stone towards your wall.]
+;B[qi];W[pi];B[qh];W[pk];B[oj];W[qn]LB[rp:A]C[Even though you are behind now, you should play A and wait for chances.]
+;B[ql];W[pl];B[qm];W[pm];B[qk];W[qp]LB[pn:B][qq:A]C[It is wrong to cut at B, rather you should play A.]
+;B[pn];W[po];B[on]LB[pq:A]C[White A better.];W[op];B[no];W[pq]
+LB[jo:A]C[The outcome of this invasion is that Black had to give the corner away to White. Could he have done better?
+
+Yes, play S4 instead of R8.
+
+Now, your last chance is to invade deeply at A, it is a do-or-die move, if you can't make it alive there, you resign.]
+;B[mn]TR[lf][ql][co]SQ[di][qi]C[And now to the next critical point.
+As far as I could see, White leads now:
+
+Black has about 15 on the top left, maybe 10 on the left, and about 45 on the right - total = 70.
+
+White has 20 on top right, 15 on top left, 15 on bottom right and 50 on the bottom - total = 100.
+
+This was quite surprising to me because I did not feeI made a severe mistake so far. ???
+
+From what I see, you made at least 5 major mistakes.
+
+3 involved in giving away too much material (those in triangle).
+
+2 involved in wrong direction (those in square).
+
+Maybe you should reflect on this?];W[ln]
+(;B[jn]LB[lm:B][jn:A]C[... and what is the right way now?
+
+I felt I must somehow reduce White's teritory, so the sequence K6 started. But this of course also reduced my territory in the center. So?
+
+Your judgement is correct, no choice but to invade.
+
+White territory is over 90 points, Black about 75 points.];W[mm]
+;B[nn]LB[ll:B][io:A]C[White should have play A, rather than B.
+
+Your chance is now... Pls look at the variation at the next move.]
+;W[ll]
+(;B[nl]LB[il:A]TR[pk][pl][pm]C[O8 is the losing move.
+
+You have tesuji at P8, clearly the 3 white stones are dead.
+
+If white play A, the game is over.];W[mr];B[ko]LB[jk:A]C[White can consider to cap at A instead.]
+;W[jl];B[km];W[lm];B[kl];W[kk];B[jk];W[lj];B[il]LB[jj:A]C[White should play A.]
+;W[nj];B[oi];W[jj];B[ik]LB[hj:B][ij:A][hk:C];W[nk];B[ok];W[jp]
+LB[ij:A]SQ[ko]C[This move was very big for White. I tried to look back and see where I could put a stone nearby before White, but it seems to me that all the preceding White's moves were sente.
+Am I right?
+
+O8 is not necessary, you overlook the simple tesuji.
+
+You should play A to connect somehow, the marked stone can be sacrificed.]
+;B[kn];W[ij];B[hj];W[hk];B[hl];W[gk];B[ip]LB[ho:C][io:A][jo:B]
+C[What if white play A, black B then white C?];W[iq];B[hp];W[hq]
+;B[gn]LB[hn:A]C[Black A better.];W[gp]C[In this seqence Black has a bad shape, and White could even kill the group by J5 at the right time. How could Black get a better shape?
+
+Black H6 instead of G6.];B[go];W[gm];B[hm];W[ih]LB[ek:A]C[White A will give black more trouble.]
+;B[hi]LB[ek:A][bl:B][io:C]C[Black A better.
+
+Same thing, white should play A instead of H12.
+
+If white got A, he has 2 killing moves, B or C.];W[hh]LB[ek:A]
+C[Last chance to play A.];B[fg]LB[io:A]C[Interesting, white A can't kill, pls look at the variation.]
+
+(;W[eh];B[ek]LB[ei:A]SQ[fg][fi][hi][hj]C[White A will cut the 4 black stones.
+
+Sorry, I can't figure out what black trying to do here.];W[fj]
+;B[ei];W[kg]LB[gi:A][io:B]C[White should play A, force black to play B.]
+;B[gh];W[kc]LB[jc:A]C[Black A is huge.];B[hg];W[ib]LB[hb:A]
+[jb:B]C[Black A better, you have B as the next arrow.];B[gc]
+;W[ff]LB[rn:A][qo:B][ro:E][rp:F][or:C][pr:D][rr:J][os:I][ps:G]
+[qs:H]C[You need not respond to this at all.
+
+You should play A to J to reduce the corner.];B[gf];W[mh];B[ni]
+;W[mi];B[mk];W[mj];B[ml];W[nm];B[om];W[ng]LB[lo:A]C[Bad move by white, far too greedy, should have safely connect at A.]
+;B[lo];W[lk];B[ol]LB[ki:A]C[No choice, white must play A.];W[nr]
+
+(;B[ki]LB[ki:A][fl:B]C[Suddenly, White is in trouble!]
+(;W[kh]
+(;B[ii];W[ji]
+(;B[jg]LB[jg:A][gi:B]C[But oops...! Black made a severe mistake and looses his main chance...]
+;W[gi]C[From now on Black is trying badly to do something, but he is too much behind.
+
+Thanks for your comments!
+
+I should end my review here, hope you learn from your mistakes :)
+
+Best regards, 
+Jimmy Koh];B[gl];W[fl];B[fm];W[el];B[fh];W[ef];B[ig];W[jh];B[bj]
+;W[bi];B[an];W[ao];B[bm];W[pf];B[of];W[pg];B[og];W[rf];B[ph]
+;W[rg];B[rn];W[ro];B[qo];W[rp];B[fp];W[kq];B[eo];W[eq];B[fq]
+;W[fr];B[ep];W[do];B[fo];W[dr];B[bo];W[ap];B[ge];W[fd];B[hd]
+;W[ic];B[ae];W[cg];B[ag];W[af];B[ai];W[ah];B[bh];W[bg];B[rh]
+;W[id];B[ie];W[sn];B[sm];W[so];B[sg];W[se];B[jo];W[kp];B[oq]
+;W[or];B[jc];W[jb];B[kd];W[kb];B[md];W[nc];B[le];W[lc];B[mg]
+;W[nh];B[oh];W[gj];B[hb];W[ec];B[eb];W[qn];B[qg];W[qf];B[qo]
+;W[io];B[ho];W[qn];B[aj];W[ah];B[rm];W[kf])
+(;B[gi]LB[jg:A][gi:B];W[lg];B[li];W[ig];B[jg]))
+(;B[fl]LB[gl:A][fm:B]SQ[fj][fk][gk][hk]C[Play this, you could have reverse the game!
+
+A or B miai, the 4 white stones are captured!]))
+(;W[io];B[ho];W[jo];B[in]))
+(;B[fl]LB[ki:A][fl:B];W[gl];B[fm];W[el];B[fn];W[ii];B[gi];W[ki]
+
+(;B[eo]LB[eo:A][jo:B];W[do];B[jo];W[rm];B[rl];W[rn]
+(;B[am]LB[am:A][bo:B])
+(;B[bo]LB[am:A][bo:B];W[bj];B[bk];W[pf]))
+(;B[jo]LB[eo:A][jo:B];W[rm];B[rl];W[rn];B[bo];W[bj];B[bk])))
+(;W[io];B[ho];W[jo];B[gl]LB[fl:B][fm:A][in:C]C[Black alive here, if white A then black cut the 3 white stones.
+
+If white B, then black take A sente and C to make another eye.]
+))
+(;B[gm];W[el];B[hp];W[hq];B[km];W[lm];B[jp];W[nl];B[ol]LB[nk:B]
+[ok:A][nm:D][om:C]C[White A then black B.
+
+White C then black D.
+
+You failed to spot a simple tesuji.]))
+(;B[lm]LB[lm:B][jn:A];W[mm];B[nn];W[km];B[ll];W[kl];B[lk];W[kk]
+;B[lj]))
+(;B[qd];W[me];B[nf];W[mf];B[mg];W[lg];B[lf];W[mh];B[ng];W[kf]
+;B[lh];W[kg];B[li]C[Somehow, you can't seal completely but still get a big territory.]
+))
+(;B[nc];W[nd];B[mc];W[md];B[lc];W[kc];B[kb];W[qd];B[qe];W[qc]
+;B[pf]TR[kc][ld][md][nd]C[The white group is floating.]))
+(;W[ml];B[pm];W[qc];B[qd];W[pc];B[oc];W[ob];B[nc];W[nb];B[mc]
+;W[rd];B[re];W[rc];B[qf];W[mj]C[White should have go for this.]
+))
+(;B[jn];W[jp];B[nd]C[This is what I will play.
+
+Reduce in sente, capture the big point.]))
+(;B[cp]
+(;W[cq];B[co];W[dq];B[cl]C[Black is solid.])
+(;W[co];B[bo];W[do];B[bm];W[cq];B[bp];W[em];B[dl];W[fk];B[jn]
+;W[jp];B[nd]C[B is ahead.])))

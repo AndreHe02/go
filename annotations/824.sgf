@@ -1,0 +1,61 @@
+(;FF[4]GM[1]SZ[9]AP[SGFC:1.13b]
+
+PB[Richard B.]
+PW[Igo for windows]
+KM[0]
+RE[W+20]
+
+C[Human strength is 9 Kyu.  Computer playing at level 5
+
+phi: hi. My strength is 10 Kyu (european countin) I hope I still can give you some comments.
+I made some variations (normally you will find them atached to the previous move.]
+;B[ee]LB[gd:A][gc:B][fd:C]C[phi: Tengen is a good start on a 9x9 board. I personally prefer one of A, B or C.]
+;W[dg];B[cd];W[ff]
+(;B[gd]LB[fe:A]C[phi: to play at a is also possible. See variations]
+
+(;W[gg];B[cf];W[cg];B[he];W[hf];B[bf];W[bg];B[af];W[ag];B[fe]
+;AB[hd]C[phi: something was wrong with the file: here: black plays two moves after each other.
+by the way: black H6 is a bad move: It generates an "empty triangle" at G5.]
+;W[hc];B[ie]LB[ef:A][if:B]C[Should have attacked at g7? Or g8?
+
+phi: At G7. J5 has not much  potential: It is one point in gote. Worse: It leaves another empty triangel at J6. I you are sure, that you can ignore White H7, play at A (E4) in sente or B (J4) in gote.
+On the other hand: White has no chance to connect under H5-H6.
+See variation, how white could live.]
+(;W[fb]
+(;B[eb]LB[gc:A]C[phi: this (E8) is not stable. Better play at A (G7). See Variations how to kill white.]
+;W[ec]
+(;B[dc]C[Bad move! Better at d8? Yes: See variation.];W[db]
+
+(;B[gc]C[phi: I think it is stronger to push from the left (C8) see variation.]
+;W[if]
+(;B[gb]C[phi: Still I prefer C8 (See variation on move 24).]
+;W[cb]
+(;B[bc];W[bb];B[ab];W[cc];B[dd];W[ga]
+(;B[ea]C[Really bad move! Should have played h9 or protected the cutting point at b6?
+phi: My words. See variation on Move 32. Protecting B6 you probably kill white. I don't see how white could live.]
+;W[fa];B[ha];W[da];B[hb];W[ba];B[ed]LB[bd:A]C[phi: better protect at A (B6).]
+;W[bd];B[be];W[ac];B[fc];W[eb];B[df];W[eg];B[ef];W[gf];B[ge]
+;W[ad];B[ae];W[aa]TW[ca][ea][ab][bc][fg][hg][ig][ah][bh][ch]
+[dh][eh][fh][gh][hh][ih][ai][bi][ci][di][ei][fi][gi][hi][ii]
+TB[ia][ib][hc][ic][fd][id][ce][de]C[phi: it's all over. White wins with 20 Points.
+The game is over.  Final score:
+   White = 25 territory + 4 captures + 0 komi = 29
+   Black = 8 territory + 1 captures = 9
+White wins by 20.])
+(;B[bd]
+(;W[fc];B[ha];W[ea])
+(;W[hb];B[ic]
+(;W[ib];B[ha];W[ia];B[ha])
+(;W[fc];B[ea];W[ba];B[da]))))
+(;B[fa]))
+(;B[cb]
+(;W[gb];B[da])
+(;W[ea];B[gb];W[ga];B[hb])))
+(;B[cb];W[ea];B[gc];W[gb];B[hb]))
+(;B[db];W[dc];B[cc];W[fc];B[gc];W[hb];B[gb]))
+(;B[gc]
+(;W[hb];B[gb];W[ga];B[ec];W[eb];B[db];W[fc];B[dc])
+(;W[gb];B[ec];W[hb];B[eb])))
+(;W[gc];B[fc];W[fb];B[eb];W[ga];B[ec];W[hb]C[White lives.]))
+(;W[fd];B[fe];W[ge];B[he];W[gf];B[hd]))
+(;B[fe];W[ge];B[gd];W[gf];B[hd]))

@@ -1,0 +1,243 @@
+(;FF[4]GM[1]SZ[19]ST[0]CA[UTF-8]AP[SGFC:1.15]VW[]
+
+PB[dslimmon]
+BR[22k]
+HA[2]
+PW[Nyaaa]
+WR[22k]
+KM[6.5]
+DT[2005-04-04]
+PC[The Kiseido Go Server (KGS) at http://kgs.kiseido.com/]
+RE[W+Resign]
+TM[1800]
+OT[5x60 byo-yomi]
+RU[Japanese]
+
+AB[pd][dp]C[Hi, Dan:
+
+I'm Bob - I'm about 11k. I'm SirBowen on KGS and GTL, so I'll preface my remarks with SB.
+
+Your play was generally solid. You probably would have won except for missing one key connection at move 188 that would have prevented the connect-and-die sequence. This only cost you a small group, but it allowed White to save his larger group, and that made all the difference in the score.
+
+As for what cost this particular game, then, I think you mainly just need to keep playing and develop an eye for seeing these things coming.
+
+However, I have commented the game fairly extensively - concentrating on things that I think will carry your game forward. In particular, there are 3 key principles that I've pointed out; if nothing else from my comments stick with you, make sure these do. You'll find that you almost magically have fewer of those tricky situations coming up.
+
+I've also included several other ideas as "tips". These are important but less so than the key principles.]
+;W[pp];B[dc];W[ce];B[fc];W[dh];B[de];W[df];B[ef];W[dg];B[jd]
+LB[dd:B][ee:A]C[SB: Under other circumstances, this would be a very nice move. It's an excellent way to make best use of the positions you have.
+
+But it needs to wait, because of Key Principal #1
+
+     Don't wait on urgent defensive moves!
+
+It's easy to feel like making defensive moves wastes time compared to a large move like the one you made. And this is certainly a balance to keep with respect to "regular" defensive moves.
+
+But when there are urgent defensive moves, there is no choice. You just have to do it.
+
+So, what makes a move urgent? I think of an urgent move as one that prevents you from losing what you've already invested in to gain. There's no point in making big moves if they just get whittled away afterward.
+
+Here, if White plays at either A or B, he will severely damage your position, negating any gain that you got by being bold two moves ago.
+
+(postscript: I just came back after going forward in the game record. White doesn't take advantage of this until quite late in the game, but when he does it costs you at least 30 points).]
+;W[hc]LB[gd:A][jc:B][he:C]C[This invasion was successful, much to my dismay.  What would have been a better way to deal with it?
+
+----------
+SB: This was a bad invasion on White's part - there's not enough space (especially with so many other big moves on the board).
+
+The question of how to deal with it brings us to Key Principle #2:
+
+     Don't touch the weak stones!
+
+It's a bit like jiu-jitsu. A weaker contestant wants to come in close on a stronger one. It gives the weaker fellow the opportunity to even the playing field at bit - by getting some leverage, or throwing his opponent off-balance.
+
+Same thing in Go. When two groups come into contact, they both tend to get stronger. Since Black is already WAY stronger here, White is the only one who will gain from such an exchange.
+
+So in response to an invasion, you'll generally want to defend from a distance. Point A is as close as you want to come, and even there you have to be careful. B and C are ideas, too.
+
+Don't forget that when the tables are turned, and you're the one with the weak group, you can take advantage of this same idea. Try to find a stronger enemy group nearby that you can make contact with, to build up your weak group.]
+;B[hd];W[ic]
+(;B[id]C[I think this was too heavy.  Should I have played something like L18?
+
+--------
+SB: No, at this point it's the only play. Nice and solid.
+
+This brings up a tip: Minimize your cutting points.
+
+If you had neglected this move, White could have pushed through here on the next move. You would have almost had to block him (lest he just run to the center, gaining safety for himself and cutting your positions nine ways to Sunday.)
+
+But look at the variation to see the cutting points that creates for you. You saved yourself a lot of trouble by connecting here.]
+;W[kb];B[gb];W[gc];B[jc];W[jb];B[hb];W[ib];B[gd];W[nc];B[pg]
+;W[pc];B[oc];W[ob];B[qc];W[od];B[pb]C[I made this type of move several times throughout the game... now I realize it's rather a thank you move, isn't it?
+
+----------
+SB: Yes, avoid this. You essentially give White a free move. After he connects you STILL have to make defensive moves here since you're left with quite a few cutting points.
+
+Besides that, what threat are you making if he doesn't connect? You'll only take 1 stone, and you'll still be in a ko position yourself and will need to make another move to connect.]
+;W[oc]
+(;B[qe]LB[qd:B][pe:A]TR[pb]C[I was worried about white cutting Q13 away from Q16, but was this too slow?
+
+-----
+SB: You picked the right general area to defend, but A would have been better.
+
+One thing to realize is that you need to forget about saving the marked stone. You simply have too many cutting points and, after all, it is just one stone.
+
+Given that, you don't have to worry that playing at A will leave you cuttable at B. This cut is easily defendable as long as you aren't also trying to save the triangle stone (see variation).]
+;W[mq];B[pn]C[I clearly should have been more conservative with this move. Something around Q8 or 9.
+
+-----
+SB: Probably true.];W[pl]
+(;B[ql]LB[qp:B][nn:A]TR[pl]C[SB: Touched the weak stone again. 
+
+Much better would have been to jump out at A, which gets you moving toward the middle.
+
+Even better, try making contact with White's corner stones first, say at B. He pretty much has to respond locally, letting you build up strength before jumping out to A. See the variation for one possibility.
+
+Either way, White's marked stone would suddenly start to look kind of lonely on the side. He's kind of pre-pincered himself against your upper-right group, and is too far away from the edge to make a base.]
+;W[qk];B[ol];W[qm];B[pk];W[rl];B[pm]C[SB: Again, notice all of your cutting points.
+
+You may start to see that the "minimize cutting points" tip goes right along with the "don't touch weak stones" principle. One of the problems of playing in contact is that it gives the opponent the chance to push against you and create cutting points.]
+;W[qn];B[ql]C[Now white starts slinking toward the upper right corner, which is extremely bad news for me.  How could I have handled this situation better?
+
+---------
+SB: Well, there's not much to do now. This sequence was set in motion when you touched his pincer stone.
+
+As in the similar case in the upper-right corner, notice that your capture of this single stone didn't buy you anything. You used a move to capture 1 stone, and you still need another move to connect it.]
+;W[qj];B[pj];W[pi];B[qi];W[rj];B[oi];W[ri];B[ph];W[rg];B[rf]
+;W[qg];B[rh];W[qh];B[pi];W[sh];B[sf];W[qf];B[pf];W[qb];B[rb]
+;W[pa];B[rd];W[po];B[iq];W[jq];B[kq];W[kr];B[jr];W[lr]
+(;B[mp]TR[jr]SQ[jq]C[SB:
+
+New Tip: After making a double-threat, you will almost always need to follow up by capturing.
+
+Triangle was a very nice threat on your part, and White had to decide which one he wanted to save. And even saving it didn't buy him much.
+
+But then you are almost obligated to take the other one. Otherwise, why make the double-threat in the first place?
+
+Capturing the White square stone now would have given you a powerful ponuki in the lower-center, and prevented a lot of the trouble in the next section of the game. See variation.]
+;W[np];B[mo];W[no];B[nn]C[I thought this sequence was pretty decent play of me, getting pretty thick and becoming able to connect my invading stones to my group on the right.  Should I have been less excited about it?
+
+----------
+SB: You're right to be happy about it. But now we get to a new tip: Once you build a wall, it's urgent to make an extension from it!
+
+Remember that a wall is only influence - it's leverage that should let you build territory. But It's not territory yet.
+
+A lot of investment went into building your wall, and White got territory along the side in exchange. You need to play well out into the middle now to exercise your influence.
+
+Conversely, if your opponent builds a wall, try to get sente so that you can set up camp in front of it before he gets to.]
+;W[me];B[kc];W[lc];B[ld];W[mc];B[mg];W[lf];B[lg];W[kf];B[kg]
+;W[lj]C[SB: Here White's got the right idea. He's trying to cancel the benefit you get from your wall by getting a position there.
+
+He fails (or would have, except for your small connection mistake later,) but if he had done this just a little sooner or played it a little differently it would have worked.
+
+This emphasizes why it's important to get your own extension in early, before the opponent does.]
+;B[kj]LB[jj:A]C[SB: You've got the right idea; trap him against your wall.
+
+The only problem is that you touch the weak stone again. He doesn't quite take advantage of it this time, but could have.
+
+Just shifting this play to A would have been much better.]
+(;W[kk]C[SB: If he had played the other direction, he would have almost certainly escaped. See variation.]
+;B[lk];W[ll];B[kl];W[mk];B[jk];W[lk]C[Nyaaa [22k?\]: oO?
+dslimmon [22k?\]: What?
+Apparently this was exceedingly stupid, as it made my opponent raise an eyebrow.  What else could I have done?
+
+-----
+SB: I'm not sure what his comment was about. Again, you have too many cutting points now, but this is a result of touching his weak stone and not of any clear mistakes.
+
+White still isn't able to save his group.];B[il]C[Nyaaa [22k?\]: nothiing]
+;W[jp]TR[ll][mk][lj][lk][kk]SQ[jq]C[dslimmon [22k?\]: Heh
+dslimmon [22k?\]: Sure
+
+-----
+SB: Here's where leaving the square stone alive comes back to haunt you. You're forced to choose between keeping his triangle group dead or securing your bottom-left area.]
+;B[kp];W[jo];B[ko];W[jn];B[km]C[Perhaps I should have just taken sente and protected my lower-left framework.  White now proceeds to suck the life out of it mercilessly. Do you think this would have been a better course of action?
+
+-----
+SB: No, I think you made the right choice. Better to secure what you've already worked for, and deal with the lower-left in its turn.]
+;W[gq];B[gp]TR[jr][iq]C[SB: Again, touching the weak stone leads to problems.
+
+Actually, in this particular situation it COULD have been reasonable IF the idea was to try to use this contact to salvage your own weak triangle stones (which would be great, since they're key cutting stones.) But the follow-up play doesn't continue this story.]
+;W[fq];B[eq];W[fp];B[fo];W[ir]C[Somehow I neglected this area so much that white was able to invade it pretty much without fear
+
+----------
+SB: True, but again notice that the underlying problem is that you've ended up with too many cutting points, mostly from touching the weak stone. He's able to use these to isolate and attack your groups.]
+;B[hr];W[js];B[hp];W[hq];B[ip];W[gr];B[ep];W[go];B[ho];W[gn]
+;B[hn];W[gm];B[hm];W[gk]TR[gm][gn][go]SQ[dp][eq][ep][fo]C[And white now has a big wall, making my H13 group more or less useless and threatening to beat the everloving crap out of my stones at F5 and E4.  I suppose I could have prevented this from happening, but I was too busy trying to capture F3.  So what's the moral?
+
+----------
+SB: Actually, your position isn't as bad as you think. White's triangle group is not really a wall, since it's still floating. And your square group still has a lot of options (though a defensive move here is in order about now.)
+
+But speaking of F3, it brings me to key principle #3:
+
+     You should rarely attack with the aim to capture!
+
+This one's a difficult idea to keep in mind, since we talk so much about capturing in go. But 95% of the time you attack a group in order to keep your opponent busy defending while you gain some advantage in the process.
+
+You should only think seriously about capturing when you can actually read out a sequence that will kill the group. Otherwise, use the THREAT of capture to solidify a group, expand some territory, etc.
+
+If you attack severely and end up capturing him after all, so much the better. But there are too many ways for him to live to be confident of this.  So make sure you're getting something in return if he does.
+
+As it is, once it turned out that the White group lived, you hadn't gotten much in return.]
+;B[gl];W[fl];B[hk];W[hl];B[fr];W[hs];B[gl];W[mn];B[ln];W[mm]
+;B[hl];W[em];B[en]LB[dm:A]TR[go][gn][gm]C[SB: This is a nice application of Key Principle #3. You threaten White's 3 stones with a capture by snap-back, while simultaneously moving up the side into the open area.
+
+Even though White can (and does) save them, you gain a big advantage by making a big turn around the end at A. Nice play.
+
+(Actually this is such a nice play that White probably shouldn't have let you do it. He probably should have extended at A himself on the next move, which gains him more than it's worth to save the 3 stones. And then you probably would have done something more valuable than capture them, anyway.)]
+;W[fm];B[dm];W[dl];B[fk];W[gj];B[ek];W[cm];B[dn];W[el];B[cl]
+;W[dk];B[ck];W[ej];B[dj];W[fj];B[di];W[ei];B[ch];W[cg];B[bh]
+;W[bg];B[bj];W[fh];B[eg];W[eh];B[gg];W[if];B[jf];W[je];B[jg]
+;W[ke];B[ie];W[kd];B[li];W[mi];B[ni];W[ki];B[jj];W[lh];B[ji]
+;W[hj];B[lp]C[I thought this would allow me to connect with two eyes, but...]
+;W[kn]TR[mn][mm][ll][mk][lk][kk][lj][mi][ki][lh]C[No such luck.
+
+----------
+SB: Actually, that group is still OK for now.
+
+You miss the key connection in a couple of more moves. If it weren't for that all your stones would be alive and White's marked group is dead.]
+;B[lm];W[pl];B[nm];W[ml];B[nk];W[im];B[jm]LB[jl:A]C[SB: This is the one you missed. If you had just connected directly at A instead, the connect-and-die wouldn't have come up.]
+;W[lq]C[And white set up a connect-and die.  What would have made the previous fighting a little less pathetic for me?
+
+----------
+SB: Again, seeing this coming is mainly a matter of experience. Just play more go!]
+;B[jl];W[lo]C[SB: OK, now White has saved his group, and you're behind.
+
+But not hopelessly behind. There are still enough points left on the board to make up the difference. I'm particularly looking at the upper-left, and a possible invasion in the lower-right.]
+;B[ql]LB[cd:A]C[SB: Again, this didn't buy anything. You needed this move elsewhere to regain momentum (say, at A).]
+;W[hg];B[hf];W[hh];B[ig];W[gf];B[ff];W[dd]C[SB: Now White gets back to exploiting the weak position from early in the game. This takes away any chance you have of catching up in this corner.]
+;B[kh];W[ee];B[ed];W[fe];B[ge];W[cc];B[fd];W[de];B[cb];W[db]
+;B[ec];W[bb];B[da];W[ca];B[eb];W[ea]C[Oops.  That was simply careless.]
+;B[fa];W[da];B[mf];W[le];B[ne];W[md];B[li];W[fg];B[gf];W[gh]
+;B[mh];W[cq]C[This move made me shiver.  At this point, or probably way before it, I should have resigned.  However, I kept on fighting.
+
+---------
+SB: I see later where your opponent goads you for not resigning sooner. I say ignore him.
+
+The goal of playing (except maybe in a tournament) is to have fun and to learn. White still has to earn life for his invasion here. And you get some experience in resisting an invasion in the corner. Still a lot of purpose here.]
+;B[es]LB[dr:A]SQ[cm]C[Here I was trying to stop white from connecting.  If white had played E2 before this move, that would have been it for the whole corner, right?  Could I have made a better move than this one?
+
+-----
+SB: This is a nice invasion on White's part, particularly because of the support from White's square stone, and the cutting point that you mention.
+
+A better way to attempt a defense, though, would have been to simply shift this move to A. That would have both protected the cutting point AND limited White's chances for eye space. Plus, as it is this move leaves a peep at A that White exploits next.]
+;W[dr];B[er];W[cp];B[cr];W[br];B[co];W[bo];B[bn]C[And white's alive.  Could I have killed it?
+
+-----
+SB: I doubt it, assuming White plays correctly.
+
+Also, I'll point out that White also has a similarly-open corner in the lower-right. You should definitely be able to make a living group by invading at the 3-3 point there.
+
+It wouldn't have won the game in this case, but it might in some other game so it's good to try your hand at it.]
+;W[bm];B[am])
+(;W[ki];B[li];W[kk];B[jj];W[ll]C[SB: He's not out yet, but he's got a pretty big hole to get out of, see continuation.]
+;B[im]C[You might try to block, but...];W[jk];B[ik];W[ij];B[ji]
+C[Jiu-jitsu again.];W[il];B[hk];W[hl];B[gl];W[gk]C[And again. He can keep this up all he needs to, and it all comes from that initial contact with his weak stone.]
+;B[hj];W[gm];B[fl];W[hm];B[fm];W[jm];B[in];W[go]))
+(;B[jp]C[SB: Looks much better, huh?]))
+(;B[qp];W[qq];B[qo];W[rq]C[SB: White almost has to do this move. If he doesn't, you get this point, causing him to defend his corner position while you get a base for your group.]
+;B[nn]C[SB: Now, see what I mean about the White Q8 stone?]
+))
+(;B[pe];W[qd];B[qe];W[qb];B[rc];W[rd];B[rb];W[pa];B[re]))
+(;B[kb]C[SB: Variation where you play L18.];W[id];B[ie]C[This is way too many cutting points for Black, and White has none. The following is just one way that White can take advantage of this...]
+;W[jc];B[kc];W[he];B[gd];W[je]C[SB: Double-atari. White is out and Black is disjointed.]
+))

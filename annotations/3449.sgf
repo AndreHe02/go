@@ -1,0 +1,184 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+PB[Quasar]
+BR[22k]
+HA[2]
+PW[Contra]
+WR[20k]
+KM[0.5]
+DT[2005-06-10]
+PC[The Kiseido Go Server (KGS) at http://kgs.kiseido.com/]
+RE[B+Resign]
+TM[1500]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+AB[pd][dp]C[Hello,
+my name is Arnold and I´m looking forward for the review.
+Right away, I´d say the game was good, but I made some mistakes that I afterwards thought about. I found some alternatives that I would appreciate to be rated.
+(Maybe you (reviewer) could spot my weak points during the game, if that´s not too much effort)
+
+So thanks in advance.
+
+---------------------------------------------------------------------------------------
+
+Hi, I've tried my best to answer questions, and point out mistakes in the various stages of the game. I've also added a lot of variations. Please turn off "Show next move" option (or similar option).
+
+My replies will be shown with "GY:"];W[dd];B[qp];W[fq];B[cn]
+;W[dr];B[cq];W[jp]LB[iq:a][hp:b]C[GY: Unusual. Normally, White plays at 'a' or 'b'. I've shown a few variations that can be bad for White here.
+
+See variation at point 'a'.]
+(;B[op]
+(;W[nq]TR[op][qp]LB[mq:a]C[GY: Too close to the marked stones. White can play at 'a' to retain initiative. (See variation)
+ (Second variation showshow Black can take advantage of this move)]
+
+(;B[oq];W[np];B[pj];W[po]LB[nc:a][om:b]C[GY: An overplay. See variation to see how Black can take advantage of this move. A better choice for White would be to approach at 'a' or 'b'.]
+
+(;B[pp];W[oo];B[qm];W[qo];B[om];W[cg];B[ro];W[rn];B[rp];W[qn]
+;B[rm];W[nn];B[nm];W[eo];B[do];W[gc];B[cc];W[dc];B[cd];W[ce]
+;B[be];W[bf];B[db];W[eb];B[bb]
+(;W[bd]C[Beside the whole opening what isn´t bad at all (I think) this is the first mistake of me. I added a variation.
+
+GY: In the actual game, you could have still killed Black at Move 52.  Also look at the variation you provided, there is a flaw in it.]
+;B[de];W[cf];B[ec];W[ed];B[fb];W[fc];B[ea];W[gb];B[bc];W[ae]
+;B[fa];W[ga];B[da]LB[ba:a]C[GY: Black is not alive yet...If White plays at 'a', White can kill Black.]
+
+(;W[ef];B[fd];W[fe];B[gd];W[hd]C[There´s another point that repeated itself during the game:
+I started several ladder that B would definitely win.
+
+GY: There's no need to worry about this group just yet. White can live easily enough, and can resume attacking later.]
+;B[ge];W[kd];B[he];W[id];B[cj];W[gf];B[hf]
+(;W[gg]C[GY: I prefer a double hane here. See variation.];B[ej]
+;W[dl];B[cl];W[dk];B[ck];W[dj];B[di];W[ei];B[ci];W[fj];B[dm]
+;W[fl];B[eq];W[er];B[cr];W[en];B[jq]C[This is always something I´m afraid of: how handle such an invasion? And how to kill B in a way that is good for W?
+
+GY: Well, large, loose areas are often easily invaded, but in this case, I believe White has a method of killing Black, utilising the White thickness nearby.]
+;W[kq];B[iq]
+(;W[ip]C[GY: Rather than this, look at the variation.];B[gr]
+;W[hq];B[fr];W[hr];B[ds];W[gs];B[es];W[gq];B[nr]C[Here I don´t know why B didn´t kill D2
+
+Gy: He probably thought it was too small...(?)];W[mr];B[ns]
+;W[fs]LB[ms:a]C[GY: No, play  'a' first, it is sente (opponent has to respond), then you can capture the stones or play elsewhere.]
+;B[cs];W[ms];B[pr];W[mm];B[mn]
+(;W[ln]C[GY: This might lead to some complicated fights...I would choose to play the safe way. See variation.]
+;B[mo];W[lo];B[mq];W[lr]TR[nq][np][nn][oo][po][qo][qn][rn]LB[no:a]
+[mp:b];B[ml];W[lm];B[ll];W[kl];B[mj];W[lk];B[mk];W[lj];B[li]
+C[Here I had some territory in the middle but B had an enormous right side I think. So I decided to invade.
+( How to count or estimate territory ( own and that of opponent?) Are there any methods or books?)
+
+GY: I think reduction would work better here, an invasion would just help Black strengthen . (For books, try visiting http://gobooks.info It's a bibliography of Go books, read the descriptions, as for counting on your own, it can be done...Simply count :) )]
+
+(;W[qc]C[GY: I wouldn't recommend this...I'm not that good at counting, but I think the outcome of the variation is very bad for White. See variation for Black's method of getting a good result, and the oher variation on how to reduce.]
+
+(;B[pc];W[qd];B[qe];W[re];B[qf];W[rf];B[rg]
+(;W[qg]C[I think that cut was dumb. I added something...
+
+
+GY: Well, Black made a mistake by makig the hane (marked stone), but White should have just continued with the invasion, and not cut. See variation.]
+;B[qb]LB[rh:a]C[When Black played this, I would just play at 'a']
+
+(;W[rb];B[qa];W[ra];B[rh];W[pb];B[ob];W[pa];B[pg]
+(;W[qh]C[GY: No, this leads nowhere. See variation to see how White can get a huge advantage.]
+;B[qi];W[pe];B[pf];W[oe];B[lc]
+(;W[mc]C[GY: Keep things simple. See variation.];B[md];W[nd]
+;B[me];W[nc];B[ld];W[ke];B[ne];W[od];B[of]C[GY: The result has evidently become very bad for White....]
+;W[nf];B[ng];W[mf];B[lf];W[mg];B[mh];W[ph];B[lg];W[oi];B[pi]
+;W[oh];B[oj];W[kc];B[mb];W[nb];B[na];W[oc];B[kb];W[jb];B[ka]
+;W[jg];B[ec];W[ee];B[hc];W[hb];B[kf];W[jf];B[km]
+(;W[jm]LB[kk:a]C[GY: No, simply block. Black is aiming at the cut at 'a'.]
+;B[kn];W[ko];B[kk];W[jl];B[kj];W[ij];B[ji];W[ii];B[jh];W[ih]
+;B[sn]C[I tried to get to play T6 before B but missed it.];W[ai]
+C[So I thought I could compensate with that.];B[on]C[Next reaction was a big mistake by me]
+
+(;W[no]C[GY: Yes, big mistake.
+
+See variation.];B[mp];W[al];B[bh];W[ah];B[bj];W[aj];B[bi];W[ag]
+;B[an];W[bm];B[bn];W[cm]C[Next mistake.
+So are there any good points left on the board for W?
+I didn´t see any and so I resigned
+
+GY: I didn't see any either.];B[bl]C[I hope you (reviewer) help me with my questions.
+Thanks in advance.
+
+GY: In my opinion, the main reason behind White's loss is misjudgement and misreading. That can happen to anyone, really. 
+
+I have tried my best to answer all questions, and show variations (sorry if the variations are too excessive). 
+
+Please contact me if you have further questions.])
+(;W[mp]C[With that I could have saved that group. Or was B still able to kill?
+
+Yes, White can save this group.];B[no];W[nn]C[Et voila.]))
+(;W[kk]))
+(;W[ld];B[mc];W[md];B[nc];W[kb];B[lb];W[nd]C[Black is dead.]
+))
+(;W[pe];B[pf];W[oe]C[With this, White gets a lot of extra points.]
+))
+(;W[rh];B[pg];W[qh];B[rb];W[rd];B[oe];W[nc]))
+(;W[pb];B[ob];W[qb];B[nc]
+(;W[pe];B[pf];W[oe];B[of];W[ne];B[nf];W[me]C[I think that would be better . What are best alternatives?]
+)
+(;W[rh]C[White can now reduce further by moving here...]
+(;B[qg];W[sg];B[qh];W[ri])
+(;B[sg]C[Black can't play here...];W[qg];B[qh];W[pg]
+(;B[of];W[sh])
+(;B[ri];W[pe])))))
+(;B[qd];W[pc];B[oc];W[ob];B[nb];W[nc];B[od];W[mb];B[pb];W[na]
+;B[qb]C[Black just gets a bigger right side, and White is overconcentrated at the top.]
+))
+(;W[pf];B[nc];W[nf];B[qe];W[qf];B[qh];W[lf]C[This result would be very good for White, in my opinion.]
+))
+(;W[mo];B[ln];W[lm]C[This would be good enough.]))
+(;W[kr]C[I would play this to prevent Black from getting a base. The White thickness nearby prevents Black from escaping.]
+;B[fp]C[Black might try this...];W[ep];B[dq];W[gq];B[em];W[fm]
+;B[el];W[ek];B[gp];W[gr];B[hp]C[If Black chooses to play this...]
+;W[gn]
+(;B[fs];W[hq];B[ip];W[ir];B[jr];W[js];B[ds];W[fr];B[es];W[is]
+C[White can kill like this.])
+(;B[hr];W[fs];B[ds];W[hq];B[cs];W[ir];B[es];W[hs];B[fr];W[er]
+C[This is probably the best Black can do, but it caused no real harm to White.]
+)))
+(;W[hg]C[I prefer this move.];B[gg];W[ff];B[ig];W[hh];B[if]
+;W[ih];B[kf];W[kh];B[mf];W[le];B[lf];W[nc]TR[gg]C[White profits, and also kills the marked stone.]
+))
+(;W[ba]C[White can play here and kill Black.]
+(;B[cb];W[ac]C[Black is dead.])
+(;B[ab];W[cb];B[ca];W[cb]C[Black is dead again.])
+(;B[ac]C[If Black tries to live through a ko...]
+(;W[aa]C[White can play this....])
+(;W[cb]C[or this...];B[ca];W[cb]C[And finally Black is dead yet again.]
+))))
+(;W[da];B[cb];W[bd];B[ca];W[fb];B[ac];W[aa]
+(;B[ad]C[Black would not play here...];W[ae]C[I think that would have killed B.
+Are there any other variations good for W and could B live in the corner in this situation?]
+)
+(;B[ae]C[..but here.];W[af];B[ad]C[Black lives.])))
+(;B[oo];W[pn];B[on];W[pm];B[om];W[pl];B[ol];W[pk];B[oj];W[pp]
+;B[pq];W[qo];B[rq];W[rp];B[qq];W[qj];B[qi];W[rj];B[ph];W[rn]
+;B[lp];W[lq];B[kp];W[kq];B[mp];W[mq];B[jo];W[ip];B[io];W[hp]
+C[Something like this would be good for Black, as he has strengthened his upper right-area, retained some teerritory in the corner and gets huge influence outside, while White only gets a little territory .]
+))
+(;B[np];W[mq];B[mp];W[lq];B[qj];W[pr];B[oj]C[This result would be too good for  Black. He has made  his lower right area difficult to invade, and also strengthened his upper-right area.]
+))
+(;W[mq]C[If White plays here...];B[qj];W[or];B[pq]C[White can retain initiative while reducing Black.]
+))
+(;B[iq]
+(;W[ip];B[hq];W[hp];B[gq]
+(;W[fp];B[fr]
+(;W[er];B[gs]C[If Black plays like this, White doesn't get a good result. (Move on with the variations)]
+
+(;W[dq]C[If White blocks here....];B[ep];W[eq];B[gp];W[cr];B[cp]
+;W[fo];B[go]C[This is very bad for White. A double-attack by Black.]
+)
+(;W[gp]TR[dr][er]C[If White blocks here, Black can cut off the marked stones.]
+;B[eq];W[jq];B[cr];W[op]TR[fp][gp][hp][ip][jp][jq][fq]C[This result is better for White, but Black lives comfortably, and can later neutralise the thickness of the marked stones.]
+))
+(;W[gp]C[White can choose to block here....];B[er];W[eq];B[dq]
+;W[em];B[ck];W[op]C[A variation like this might occur, but the result is far better than of the other variations.]
+))
+(;W[gp];B[fr];W[eq];B[jq];W[kq];B[kr];W[lq];B[lr];W[mq];B[ck]
+MA[fp]C[White here gets a lot of influence, but, again, White can later partially neutralise it, and the cut at 'x' has to be defended later.]
+))
+(;W[jq]C[Blocking here would be bad for White....];B[ip];W[io]
+;B[gp];W[fp];B[go];W[ir];B[hr];W[jr];B[gq];W[op]TR[dr][fq][fp]
+C[One group can live this way, but the marked stones are very weak.]
+)))

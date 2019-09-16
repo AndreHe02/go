@@ -1,0 +1,52 @@
+(;FF[4]GM[1]SZ[7]AP[SGFC:1.13b]
+
+PB[Myriam A.]
+PW[White]
+KM[5.5]
+DT[2002-11-13]
+RE[B+11.5]
+TM[30:00 (5x1:00)]
+
+;B[dd];W[cc];B[cd];W[ee];B[ag]C[opponent's a2 or b1 or b2 will enable eliminating this stone]
+
+(;W[bg]C[b2 would be better, because it guarantees the possibility of killing a1 and any potential extension of it anyway, and such position is safer for the white.  a sequence of black a2, a3, a4 etc followed by white b3, b4, b5 etc would be futile for the black and fairly productive for the white (see variation 2)]
+;B[ce];W[af];B[ga]C[the story can repeat];W[gb];B[ec];W[fa]
+C[but while white kills (it took two turns: g6 and f7)];B[cf]
+C[black creates connection between his stones.];W[bf];B[be]
+C[... despite white's past victories];W[db];B[ed];W[eb];B[ae]
+C[not necessary. The corner is clear for the black, while along the upper side a white group is almost complete and ready to extend]
+;W[fc];B[fd];W[fe]TR[gd]C[enables a link at g4 (unless the black take this point, which he'd better do). this would enable winning much territory around g1, which attractive for both sides]
+
+(;B[ac]LB[bc:a]C[ would be more efficient here (see var)];W[bb]
+;B[ba]C[too aggressive, doomed to die alone in the corner];W[ca]
+;B[bc];W[aa];B[ab];W[dc];B[de];W[ge];B[ad]C[not that urgent :)]
+;W[gd]C[okay - accomplished];B[ea]C[no future for this stone]
+;W[da]C[could wait. it made no threat while right bottom waits open for conquerors]
+;B[ba];W[cb];B[ef];W[aa];B[fg];W[dg];B[ba]C[left upper corner is of minor importance: no chance of an eye, and just one point difference]
+;W[cg];B[df];W[aa];B[eg];W[ff];B[ba];W[gg];B[ag];W[aa];B[gf]
+C[white is in danger];W[bg]LB[gc:a]C[no way
+black has two eyes, which makes him practically immortal    a would secure the f2 group instead]
+;B[gc];W[af];B[ba]LB[fb:a][ga:b]C[black's a followed by b would make white extinct]
+;W[gd]LB[ge:a]C[now i would advise black to do a
+to close the gate for white and to try again...];B[ff]MA[dg]
+[cg][bg][bf][af][ag]TR[bd][gg]C[now black is immortal
+two single eyes (triangled) make any attempt at a1 vacancies totally futile]
+;W[aa];B[fe];W[cg]C[.];B[ba];W[bf];B[aa];W[gc]C[now white in right upper corner is safe]
+;B[ge]C[from now on  no change of the situation on the board is possible
+THE RESULT IS FIXED
+
+I suggest that both players:
+1. think how is it possible that future events are of no importance and draw conclusions
+2. find more futile moves throughout the game than those pointed out; any better ideas?
+
+
+Good luck];W[dg];B[ag];W[bg];B[dg];W[af]C[no gain for the white]
+;B[bf];W[ag];B[cg];W[ag];B[bg];W[tt];B[af];W[tt];B[tt];C[The game is over.  Final score:
+   White = 3 territory + 13 living stones + 0 dame + 5.5 komi = 21.5
+   Black = 4 territory + 29 living stones + 0 dame = 33
+Black wins by 11.5.])
+(;B[bc];W[bb];B[ab];W[ba];B[ac]MA[ad][bd][ag][af][bf][bg]C[and thus the black practically has to eyes (crossed)]
+))
+(;W[bf];B[af];W[be];B[ae];W[bd];B[ad];W[bc];B[ac];W[bb];B[ab]
+C[the black group is doomed
+(it actually was so since b2)]))

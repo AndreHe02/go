@@ -1,0 +1,156 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+GN[PANDA-NET]
+PB[abennun]
+BR[4k]
+PW[IGOIGO]
+WR[4k]
+KM[6.5]
+PC[PANDA-NET]
+RE[W+Resign]
+RU[Japanese]
+
+;B[pp];W[dd];B[pd];W[dp];B[pj];W[nc];B[lc];W[ne]TR[lc][nc][pd]
+C[csh: What happens when Black pincers and White jumps out to the center? White will have a weak group, as the marked white stones will not have a base. Black will also need to take care of his marked stones, as they are separated into two groups.
+
+One possible result is a running fight between two groups.]
+;B[pf];W[pb]C[csh: White tries to make a base.];B[qc]C[csh: Okay so far.]
+;W[qb]
+(;B[rb]TR[lc]C[csh: This move presents problems. While it is big in terms of corner territory, this move may be saved until the endgame. Perhaps making a move at the top of the board would make more sense, as it helps to stabilize the marked black stone. See the variation.]
+;W[ra];B[rc]C[This is the basic position.
+
+csh: This move is also slow. Consider extending at the top of the board instead.]
+;W[ng];B[ph]C[This seems a natural response, is not it?
+
+csh: It seems like a natural move, but it is not as urgent as helping out the solitary black stone at the top of the board.]
+
+(;W[le]C[...and now is the problem - how to respond to this move?
+
+csh: I think this is a mistake by White. Consider the variation.]
+
+(;B[jc]C[This seems to me a natural response as well, but now...
+
+csh: I think Black needs to make a larger extension to create more eyespace. See the variation.]
+;W[gc]C[...and now Black seems to me like having a problem: If he struggles to make the M17 group live, White takes the bottom right corner (like it happenned actually in the game). On the other hand, letting it die it even worse since the [top\] side becomes White territory... Does Black have here a good follow up, and is the mistake early on in previous moves?
+
+csh: I already pointed out some variations that I thought were easier, but I think Black still can salvage the position.]
+
+(;B[hd]C[csh: The most important goal is to get out to the center of the board. You do not want to be surrounded. However, this move pushes against the white stones, and will not be beneficial to Black.
+
+Consider the variation.];W[gd];B[he];W[ge];B[gf];W[ff];B[if]
+TR[gd][ge][he][ff][gf]C[csh: Look at the marked white and black stones just played. White gets a secure corner and maybe ten more points, while the black stones don't really help much.
+
+Pushing against the white stones and making the corner strong wasn't the right idea.]
+;W[kg];B[kf]C[csh: The same goes for this move. You are solidifying the weak white group.]
+;W[lf];B[jg];W[kh];B[mb];W[nb];B[hb];W[gb];B[hc]C[csh: The black group will live, but at what cost? It might have been better to leave it a little bit weak, but also leave weaknesses in the surrounding white stones. Now, it's hard to invade the upper left corner, and even invading on the lefthand side will be tough. I think Black caused trouble for himself by trying to live and solidifying the top too much.]
+;W[gg]C[I do not like this result at all as Black. Do you?...
+
+csh: Nope, not at all.]
+(;B[ck]C[Is this the right place to start a new group?
+
+csh: As far as an invasion goes, this move is about as good as you can do. The wall in the upper left really hurt your game.
+
+What about expanding from the lower right? See the variation.]
+;W[cn];B[ch];W[ce]C[csh: This is why pushing against the upper left hurt you. Now, your invasion gave you a group which may have around six points of territory, but there is almost no chance of invasion in the corner. White has more than 25 points there.]
+
+(;B[dm]C[csh: This is the same sort of error. You're pushing against the lower left corner, without much benefit to your group on the left.]
+;W[cm];B[dl];W[dn];B[eh]TR[dl][cm][dm][dn]C[csh: Does the trade of these stones benefit White or Black more? Compare this to the variation before. Is there still an invasion into the corner? Is the black group any more safe?]
+;W[np]C[csh: And White keeps sente, and can expand across the bottom of the board.]
+;B[nq];W[mq];B[oq];W[mp];B[fq]C[csh: This is definitely a bad move.]
+
+(;W[hq]C[Here I think Black gave up too easily - May be invade in K3 in response?
+
+csh: F3 was a bad move because White could extend from his group while pincering the F3 stone.
+
+While H3 may be a bit far, I don't like the K3 invasion. I think you have to be wary of timing. Invasions are beneficial if you can live easily. They are also in your favor if the group you split apart will have two halves that are hard to care for. This isn't the case, though, if you play K3. See the variation.]
+
+(;B[dq];W[cq];B[ep]
+(;W[en];B[cp];W[bp];B[do];W[bq];B[co];W[bo];B[eo];W[jp];B[gr]
+;W[hr];B[pn];W[pl]C[csh: White just needs to reduce Black's territory on the right to win.]
+;B[om];W[ol];B[nj];W[nl];B[mn];W[ll];B[fk];W[nm];B[nn];W[qk]
+
+(;B[oo]C[csh: Keeping White from getting a base is more important than worrying about this cut. If you were worried about this cut, you should not have moved at N6 in the first place.]
+;W[rm];B[ro];W[ri];B[rg]C[csh: White has a base, and Black's territory on the right is significantly reduced. I think it will be hard for Black to win.]
+;W[rn];B[qo];W[rh];B[qg];W[rk];B[nr];W[mr];B[bf];W[be];B[bg]
+;W[ha];B[ia];W[ga];B[ib];W[mc];B[dr];W[cr];B[ae];W[ad];B[af]
+;W[bc];B[ni]C[csh: What was the purpose of this move? Again, if you realize that the peep at P11 is trouble, then you shouldn't be playing O10 in the first place. You end up using two moves to protect one stone, and do not gain territory from it.]
+;W[so];B[sp];W[sn];B[rq];W[bl];B[bk];W[sg];B[sf];W[sh];B[re]
+;W[lb];B[kb];W[ma]C[csh: White is crushing Black in the endgame. White is making all the sente moves.]
+;B[ip];W[iq];B[jo];W[kp];B[io];W[jr];B[jl];W[hp];B[ko];W[lo]
+;B[ln];W[gn]
+(;B[km]C[csh: Another slow move. If White cuts at L6, the ladder works, right? If White peeps at L7, you are only losing one stone, possibly. See the variation]
+;W[ke];B[jf];W[jd];B[id];W[ld];B[kc];W[hf];B[hm];W[gq];B[fr]
+;W[gi];B[hj];W[fj];B[ej];W[gj];B[gk];W[hn];B[in];W[hi];B[ij]
+;W[gm];B[gl];W[mh];B[df];W[de];B[ef];W[ee];B[kj];W[cf];B[cg]
+;W[ii];B[ji];W[kk];B[jk];W[lj];B[al];W[am];B[ak];W[ki];B[jj]
+;W[je]LB[ie:A][jh:B]C[csh: Do you need to respond to this? If White plays A, you can play B, or vice versas.]
+;B[ie]C[csh: This move loses sente. The game is already over by this point, though. Black has no way to expand and make more territory, and White has no weak groups to attack.]
+;W[fh];B[cl];W[bm];B[oc];W[ob];B[nd];W[md];B[od];W[ei];B[di]
+;W[eg];B[dg];W[dh];B[dj];W[oe];B[of];W[nf];B[qj];W[rj];B[ms]
+;W[ls];B[ns];W[pe];B[qe];W[og];B[pg];W[eh];B[ka];W[oh];B[oi]
+;W[qi];B[pi];W[em];B[el];W[pm];B[on];W[gs];B[fs];W[hs];B[hg]
+;W[hh];B[gf];W[ds];B[es];W[cs];B[mo];W[lp];B[pc];W[la];B[mi]
+;W[li];B[mk];W[lk];B[qn];W[qm]C[csh: Black needs to concentrate on creating territory as well as destroying it. While the invasions were successful and all the groups lived, the strengthening of the surrounding white groups resulted in large white territories.
+
+Don't try to shoehorn invasions anywhere where there is open space. Invasions take away territory, but they do not make many points. Look at your invading groups at the top, the left, and the lower left. Combined, they made a total of 19 points. White got more than that in the upper left alone.
+
+Instead, look for areas where you can expand and create more territory. Estimate the amount of territory you have, and compare it to the amount your opponent has. If it is close, maybe expanding your area will be more beneficial than invading your opponent's area.
+
+Hopefully you will find this review helpful.])
+(;B[gh]C[csh: Black needs moves than expand territory, even if only giving the possibility of more points.]
+
+(;W[kn]C[csh: Doesn't work.];B[km];W[jn];B[in])
+(;W[km];B[kn];W[jm];B[hl])))
+(;B[qj]C[csh: This move protects Black's investmen the upper right, but also keeps pressure on White.]
+;W[oo]
+(;B[on];W[po];B[qo];W[qn];B[qm];W[qp];B[rn];W[qq]C[csh: A large loss in the corner, though.]
+;B[kn]C[csh: This looks like a lost game for Black.])
+(;B[po]C[csh: Black may just have to give up on the two stones.]
+;W[on]C[csh: Still a tough game for Black, though. Black might be able to reduce White's center territory by threatening to pull out the N6 stones, though.]
+)))
+(;W[dr]C[csh: This seems harder to handle.];B[cp];W[do];B[er]
+;W[eq]))
+(;B[jq]C[csh: Consider the K3 invasion.];W[ho]C[csh: White will probably jump out.]
+
+(;B[jo]C[csh: If you jump on this side...];W[fo]TR[mp][np][mq]
+C[csh: White can look forward to trying to take a big corner. Other moves are possible, but the idea is the same.
+
+The marked stones are weak, though, so you might be able to chase them. The problem is, though, that your K3 group needs to connect to something as well, so you cannot attack strongly with them until they are settled.]
+;B[oo]C[csh: For example, Black may try to keep White in.];W[mn]
+TR[jo][jq]C[csh: Even if White makes a slow one-space jump, Black has to worry about his marked stones.]
+;B[nm]C[csh: Trying to push from this side will force White to move out...]
+;W[lm]TR[jo][jq]C[csh: further threatening the marked stones. There is the bigger problem that invasions are still possible on the righthand side of the board, too.]
+)
+(;B[fo]C[csh: If you jump out on the other side...];W[jo]C[csh: White will look to solidify by attacking on this side. Unfortunately, because both the K3 and F3 stones are weak, this running fight benefits White.]
+)))
+(;W[iq]C[csh: Even if White makes the "normal" extension from a two-stone wall...]
+;B[dr];W[cq];B[cr];W[br];B[fo]C[csh: Black still fails to secure many points.]
+))
+(;B[eh]C[csh: Compare this to the game.]))
+(;B[jp]C[csh: Black may consider playing here, to try and get more territory on the right. Even if White gets territory on the left, the game may be closer.]
+)
+(;B[fq]C[csh: An approach move to the lower left is also possible.]
+;W[dn];B[jp]))
+(;B[je]C[csh: Consider a move that just moves out to the center. It may put pressure on White on the right, as the group is not fully alive. This move also does not push against the corner on the left, so it leaves the corner open to invasion.]
+;W[kd]C[csh: There is the problem of how to deal with the peep, though.]
+;B[jd]C[csh: If Black connects here...];W[kc];B[kb];W[jb];B[ib]
+;W[lb];B[ja];W[mb]C[csh: The white group is alive, but the black group still doesn't enough room for two eyes. This isn't a great result for Black, but at least the group is out into the center and should be able to manage. The upper left corner is still invadeable.]
+)
+(;B[id]C[csh: This is another move, just to get the group out to the center.]
+;W[ge]C[csh: White may protect the corner, but there may be other moves he will consider.]
+;B[if]C[csh: Black just wants to make sure the group can get out to the center. It is still weak, mostly because of the prior moves, but at least it has a fighting chance. More importantly, the white group on the left is not as solid, so Black will have an easier time invading on the left later.]
+))
+(;B[ic]C[csh: This may look scary, but it will give Black more room to live.]
+;W[kb]C[csh: Even if White makes a move like this...];B[kc]
+C[csh: Black should be able to defend.];W[lb];B[jb];W[mc];B[fc]
+C[csh: And Black still has enough room to live.]))
+(;W[jc]C[What would you do here?];B[le];W[je];B[lg];W[jg]C[csh: Black's stones are running, while White can still connect under at M18. It is also getting harder to invade the upper left.]
+))
+(;B[ic]C[csh: Consider a move like this.];W[qe]C[csh: White can poke at the weakness.]
+;B[pe];W[rc]C[csh: Then connect under.];B[qf];W[qd]C[csh: White is alive in the corner, but B is fine at the top. B probably can make a big moyo (framework) on the right side of the board.]
+
+(;B[jp]C[csh: A move like this starts to develop Black's position.]
+)
+(;B[pc]C[csh: Playing a move like this, to save one stone, is really small. It is a mistake.]
+;W[jp]C[csh: White could make the first extension, and then Black does not have as big prospects for territory.]
+)))

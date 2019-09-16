@@ -1,0 +1,157 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+PB[Ducknow]
+BR[9k]
+PW[bag]
+WR[9k]
+KM[6.5]
+DT[2005-11-17]
+PC[The Kiseido Go Server (KGS) at http://kgs.kiseido.com/]
+RE[B+0.50]
+TM[900]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+C[D:  Reviewer:  Thanks in advance for taking a look at this game.  I am looking forward to getting your feedback.
+
+D:  I am most interested in the fuseki, where I (playing black) felt dominated by white.  Could you comment on the reasoning behind my moves and the direction of play followed?  Thanks again!
+
+Hello, I am Andreas Teckentrup, I am 3k on KGS. I am very interested in Opening Theory, and checked the Opening using Kombilo. I do not think that the main mistakes that black made were in the opening, but rather in the early middle game, especially in the lower left corner.]
+;B[pd];W[dp];B[pq];W[dd];B[fc]LB[pk:C][qk:B][fq:A]C[A: This is an unusual move. In pro games, the lower left star point is approached first in the majority of games because of the 3-4 stone. Of course, Your move cannot be called wrong, but if 36% of the pro games in my database got an approach on f3 and only 4% an approach at f17, thats something to think about. (the 3 most played 5th moves for black in this position are lower left approach, low chinese and high chinese opening)]
+;W[cf];B[db];W[cc];B[ic]C[D:  Many of my games start this way.  However, I don't see this pattern often in higher level games.  Should I be extending from my 3-4 stone first?  Or should I try something like a 3 stone extension from F17, instead of diving into the corner with D18?
+
+Approaching on the lower side first is more usual. But famous pros like Lee Sedol and Cho Chikun also played like this, so there is nothing wrong here yet.]
+;W[qo]
+(;B[op]LB[pl:A]C[This is a bit slow, maybe its the Fault of Hikaru no Go ;) 
+
+Playing a pincer right away might be a good idea, creating a kind of wide double-wing formation in the upper right. The only pro games left in my database for this position played at q8 instead of p4]
+;W[pl]LB[qj:A]C[D:  This seems too wide, but I can't see an immediate way to take an advantage of it.  I followed the joseki and waited to see what would develop; is there a better way?
+
+D:  I considered R4, as that is a big middle-game follow-up and might be sente since Q8 is a little wider than normal, but discarded it because I could see white ignoring it.  Was this a good choice?
+
+A:I would perhaps play a checking extension at r10, which develops the star point stone and strikes at whites weak point. Letting white extend up the right side is contradictory to the idea of the star point. 
+
+Extending from the kosumi at the lower side might be less urgent, since extending to the left and playing r4 in the corner are miai]
+
+(;B[jq];W[qf]C[D:  Normally, I would just play O16.  Here, I want to get a stone in between Q8 and R14, as I believe the Q8 group has some weaknesses.  Is this too rash?
+
+A: It might be too late ;) but i would play a pincer too in this position.]
+
+(;B[ph]LB[pi:A]C[D:  I considered both this pincer and the pincer at A.  I only looked at 4th line pincers because I feared being pressed down and into the Q8 group.  Ultimately, I selected this one to keep white from getting R9 "for free."  If you were to select a pincer (big "if" :), what would you have considered?
+
+A: I think A is better here. A low pincer is out of the question, and Your close pincer ends up too close to the pincered stone after w jumps out]
+;W[of];B[nd];W[mf]C[A: If q12 was at q11, the situation would be less severe now (see variatons from move 14)]
+
+(;B[pj]LB[ld:A][qp:B]C[D:  This was another big decision point.  "A" seems huge, but then white gets a very strong attack on Q12, so I played this move to place pressure on the R5 group and build a (tiny) base for jumping to the center.
+
+D:  Should I have played R4 (B) first?  I did not, as it appeared to solidify the white group and make my Q12 stone weaker.
+
+A: Strengthening the single stone is most important here, otherwise white plays the severe move of p11. (See Variation from move 18)]
+;W[qc]C[D:  I did not expect this but was happy to see it.  Here, I just cut and let white deal.
+
+A: Not a good Idea by white, since white lets You connect. A better Idea for white would be to play m16, aiming to strengthen himself and to attack with a move in the o9 area.]
+;B[qd];W[rd];B[re];W[rb];B[sd];W[rc];B[qe];W[nb];B[oc]C[looks like ajikeshi to me]
+;W[ob]LB[pf:A][qg:B]C[D:  I wish to connect my two groups.  I played "A" in the game but saw "B" while reviewing.  "B" seems much better, as "A" gives me awful shape.  I've included the variations I saw; are they the likely ones to be played, or do you see better ones? 
+
+B is the best way to connect here]
+(;B[pf];W[pg]LB[pe:A][qg:B]C[D:  I considered Q15 (A) and R13 (B) here.  Which is better (see vars)?]
+
+(;B[pe]
+(;W[oh];B[qg]LB[pi:A]C[D:  "A" does not look good for white to me.  Do you see possibilities?
+
+A: p12 was not a good move by white, look at the variation from move 33.]
+;W[og];B[pi];W[qk];B[rj];W[rq]
+(;B[nj]LB[mi:A]C[A: Since white is weak and your group is strong, you can risk playing a stronger attack at A. unfortunately, the exchange of p17 for p18 has lost you all sente moves against the upper right corner.]
+;W[mi]LB[rm:A]C[D:  I paused at this point to take a look at the board.  I wanted O10 to make sure white was separated, now I consider whether to attack or build a new base somewhere.
+
+D:  I decided to attack at "A," as I thought I would get away with sente to break up the left side.  In retrospect, I gave white a much more solid group without making my group much more secure.  Where would you have played?]
+;B[rm];W[qm];B[rk];W[rn]C[D:  I considered approaching D4 from both sides and ended up extending from K3.  Was this the correct choice?
+
+A: according to the rule "play the biggest open space", the left side looks bigger. In the game Rin Kaiho vs Cho Chikun i mentioned before, Cho approached from c6 later in the game.]
+;B[fq];W[fp]C[D:  This feels like the wrong joseki to me.  Yes, it keeps black flat, but I already have the extension stone at K3.]
+;B[gp];W[fo];B[eq];W[dq];B[dn]LB[cn:A]C[D:  Was this move better at "A"?  (I regretted giving white the chance to play contact AND make a bamboo joint.)  Or would you have played elsewhere altogether?
+
+A: A is clearly better. this looks like a "raw peep", allowing white to fix his shape without getting much of an advantage out of it. But it could have been worse... (See Variation)]
+
+(;W[do]
+(;B[cj]C[D:  I realize I have bungled and play to make the D6 stone light.
+
+maybe better to play one line below, making miai of c6 and c12.. but whites gain in the corner is big...]
+;W[cn];B[cm];W[dm];B[bn];W[co]
+(;B[cl]C[B: just b7 instead, threatening to jump into the corner]
+;W[bo];B[dl];W[em];B[cb]LB[ch:A]C[D:  I considered both this move and "A" here.  I felt that this move gave me a little more since the C8 group, while weak, isn't going to be overwhelmed in one move. Was this correct?]
+;W[ch];B[be]C[D:  I see a ghost...this turns out badly, of course.
+
+A: This move looks a bit like s7, which also strengthened white unnecessarily]
+;W[bc];B[bg];W[bh];B[cg];W[dg];B[bf];W[eh];B[ce];W[de]C[D:  This is the move I somehow did not see, and now my C8 group is very weak.]
+;B[di];W[dh];B[fk];W[hp]LB[hq:A]C[D:  "A" seems very submissive; is there another way?
+
+seems ok to me, resisting with g5 is tough since whites groups in the area are all pretty strong.]
+;B[hq];W[go];B[ip]C[D:  In retrospect, this was very greedy.  I thought I had the ko threats to win this, but I didn't realize how lopsided this ko was.
+
+just connecting is best for black, of course.];W[gq];B[gr];W[hr]
+;B[gp];W[qh];B[rf]LB[rg:A]C[D:  Better at "A"?];W[gq];B[dc]
+;W[cd];B[gp];W[rg];B[qf];W[gq];B[df];W[ef];B[gp];W[qj];B[qi]
+;W[gq];B[bi];W[iq];B[ah];W[fd];B[gd];W[fe];B[ge];W[fg];B[lc]
+;W[gf];B[gc];W[rl];B[qq]LB[mq:A]C[D:  I counted at this point and feel that I am behind by about 15 if I can solidify the territory around "A."  Since I have a target to attack at N13, I felt it was worth continuing to play.
+
+D:  Therefore, I tried to get some points around "A" in sente, but I regret playing this move.  It doesn't really do much for my group, and later, I regretted leaving such a wide hole around "A," though white never took advantage of it.]
+;W[rr];B[jr];W[io];B[jp];W[jg];B[qr]C[D:  My attempt wasn't in sente, and white has made his N14 group safe, so I grub for points here.  It feels wrong to do so, however...  Where would you have played?]
+;W[qp];B[ir]
+(;W[hq]C[instead of connecting, w can ply f2 right away];B[hs]
+;W[fr];B[gs];W[fs];B[is];W[er];B[am]LB[dr:A]C[D:  I see another ghost here.  I thought I had a chance for a ko for part of the corner because of the weakness at "A," but "A" wasn't such a weakness.
+
+D:  Does white have a won game at this point?  After playing a few meaningless moves, I am really feeling behind.
+
+A: White is ahead, but no reason to resign yet ;)];W[kc];B[kd]
+;W[ld];B[jc];W[ke];B[kb];W[je];B[hf];W[hg];B[if];W[ig];B[hk]
+C[this is inviting a peep];W[gj];B[gk];W[hj];B[fj];W[fi];B[ij]
+;W[ik]C[white overplayed a bit here, after the capture of the g10 stones black is ahead]
+;B[mj];W[jj];B[li];W[lj];B[ii];W[kj];B[gi];W[ni];B[nl];W[ok]
+;B[mm];W[oj];B[rh]LB[kn:A]C[D:  In retrospect, this move does not seem necessary.  A move at "A" is better?
+
+A: A or k5];W[ln];B[mo];W[lo];B[mp];W[lp];B[lq];W[mn];B[nn]
+;W[jo];B[mq];W[ll];B[il];W[nk];B[jk];W[mk]C[A: I dont see why white captures here. Playing moves like this loses at least 4 points.]
+;B[hn]C[D:  From here, it's clearly yose.  I felt like I did a decent job maintaining sente and won the game here.  Could you point out my yose mistakes when you see them?
+
+D:  Thanks again for reviewing!  I really appreciate your help.]
+;W[ho];B[el];W[fm];B[ei];W[fh];B[ji];W[gh];B[ki];W[hi];B[lg]
+;W[lf];B[mg];W[md];B[nc];W[kg];B[mb];W[pb];B[lh];W[ie];B[he]
+;W[kp];B[sk];W[sl];B[ao];W[bp];B[pk];W[ol];B[bb]LB[ql:B][ap:A]
+C[A: A4 and R8 are sente and should be played first.];W[hm]
+;B[im];W[in];B[ab];W[jm];B[ac];W[jl];B[lm];W[km];B[gm]LB[kk:D]
+[ql:B][ap:A][rs:C]C[2pts gote. S1 is at least 4 points, L9 2 points reverse sente.]
+;W[gn];B[gl];W[on];B[no];W[kk];B[ik];W[om];B[nm];W[ap];B[rs]
+;W[an];B[bm];W[sr];B[ih];W[hh];B[sc];W[sb];B[se];W[ne];B[oe]
+LB[na:B][mc:A]C[A: A or B instead];W[mc];B[na];W[pc];B[od];W[oa]
+;B[ma];W[jd];B[kc];W[ng];B[jf];W[mh];B[le]C[A: nice one];W[me]
+;B[kf];W[nf];B[id];W[le];B[oi];W[nh];B[ql];W[qk];B[kq];W[ec]
+;B[eb];W[ed];B[ci];W[cf];B[bd];W[pp];B[oo];W[po];B[ao];W[sp]
+;B[an];W[df];B[qs];W[tt];B[tt]TW[pa][qa][ra][sa][qb][ee][ff]
+[eg][gg][gi][mj][nj][lk][kl][pm][rm][sm][dn][en][fn][jn][kn]
+[pn][qn][sn][eo][ko][ro][so][cp][ep][gp][rp][aq][bq][cq][eq]
+[fq][sq][ar][br][cr][dr][as][bs][cs][ds][es]TB[aa][ba][ca][da]
+[ea][fa][ga][ha][ia][ja][ka][la][fb][gb][hb][ib][jb][lb][hc]
+[ad][hd][ae][af][sf][ag][rg][sg][qh][sh][ai][ri][si][aj][bj]
+[dj][ej][sj][ak][bk][ck][dk][ek][al][bl][np][nq][oq][kr][lr]
+[mr][nr][or][pr][js][ks][ls][ms][ns][os][ps])
+(;W[fr];B[hq];W[gs]C[also gote, but more points]))
+(;B[bm]))
+(;B[ck]
+(;W[ci];B[cn])
+(;W[cn];B[ch])))
+(;W[gq];B[hq];W[gr];B[hr];W[go];B[hp];W[ep];B[fr];W[er];B[gs]
+;W[dk]))
+(;B[mi]))
+(;W[og]C[this leaves more aji for white];B[qg]LB[oh:A][pi:B]
+C[Tewari analysis: white exchange of A for B looks like bad aji keshi now]
+))
+(;B[qg];W[pe];B[rf];W[qh];B[pf]))
+(;B[qg];W[pf];B[rf]))
+(;B[qp];W[oi]C[tough for black]))
+(;B[pi];W[of];B[nd];W[mf];B[ld];W[oj];B[pg];W[pf];B[ng]
+(;W[nf];B[ni]C[this is not as easy to surround])
+(;W[og];B[ni])))
+(;B[qj]))
+(;B[pl];W[pn];B[np];W[rq];B[jq];W[qj]C[This is Cho Chikun vs. Rin Kaiho]
+))

@@ -1,0 +1,73 @@
+(;FF[4]GM[1]SZ[19]AP[SGFC:1.13b]
+
+PB[Cirrion]
+BR[14k]
+PW[Zotan]
+WR[11k*]
+KM[0.5]
+RE[B+7.5]
+
+C[Dear reviewer,
+
+I played this game as White against a friend of me, we regulary play together, usually on a handicap of 4 stones which gives a good win/loss rate. We played this game even just for the fun of it, and I lost. :)
+Blacks rank is 9k KGS, the 14k on IGS are not confirmed.
+
+However, the game was interesting and we both did a couple of mistakes, especially I (white) overlooked a ladder in the middle game after which I basically should have resigned. Something went wrong in my attack on the black invasion on the left side. If possible, I would appreciate some hints my attack could have been more effective.
+
+If possible, please review for both sides, as Cirrion is interested in the review, too.
+
+Many thanks,
+
+ Peter
+
+n - I'll do my best.  It was an interesting game...both of you played well, I felt.  B had a particularly good sense of the whole game, but played some slow moves.  The whole game wins :)]
+;B[pd];W[dc];B[cq];W[qp];B[op];W[oq];B[nq];W[pq];B[np];W[qn]
+;B[jp];W[nc];B[qf];W[jd];B[qk];W[ce];B[dn];W[cl]C[Is this too far?
+
+n - I think it's interesting.  Let's see what happens...];B[ci]
+;W[dj]MA[el]C[n - This seems maybe a bit too direct.  I think W should build strength with X first.]
+;B[dh];W[fh]MA[cj]C[n - This is quite a difficult shape...the key is to start with X I think.]
+
+(;B[ei];W[fk];B[ef]MA[di]C[n - B is inviting W to cut!];W[fd]
+;B[gf];W[fn];B[gp];W[cg];B[dg]C[n - The W shape is very thin in the middle.]
+;W[fi];B[ej];W[ek];B[hh];W[fg];B[ff];W[fj];B[cj];W[ck]LB[bo:a]
+[ik:b]C[n - This is a slow move.  Now you have traded your thinness for heaviness.  How about A, which makes shape, or B, which leaves potential to attack the corner?]
+;B[hd];W[hc]
+(;B[gd]MA[gc]C[n - How about X?  See variation.];W[gc];B[id]
+;W[jc];B[ne];W[if];B[je];W[ke];B[jf];W[ig];B[kf];W[ie]C[n - B is in trouble now!  You needed to connect.]
+;B[hf];W[ih];B[hi];W[ii];B[hj];W[le];B[lf]C[n - I thought this move was impossible, but you are right, it works.]
+;W[ij];B[hk];W[hg];B[gg];W[gh];B[fc]C[White having a problem now, any way to get away here?
+
+n - Actually, it's not as bad as you think.  You can take the trade and the game is about even.]
+;W[ed];B[ic];W[ib];B[hb];W[gb];B[jb];W[ha];B[kc];W[kd];B[ld]
+;W[me];B[md]C[DOH!
+
+I made a big mistake here. I should have resigned here.];W[ik]
+;B[hl];W[hn]LB[pi:a][qi:b][pj:c]C[n - Why not take A or B or C now while you have the chance?]
+;B[il];W[kk];B[jl];W[lj];B[nj];W[jn];B[kl];W[ll];B[kn];W[ip]
+;B[jo];W[io];B[jm]MA[jq]C[n - This move is unnecesary, you can play X]
+;W[jq];B[kq];W[in];B[lm]C[n - Now W is in trouble, because you have two weak groups, and you cannot afford to sacrifice either one, or the B group comes back alive.]
+;W[do];B[dp];W[co];B[eo];W[cn];B[fo];W[bq];B[br];W[bp];B[hq]
+;W[iq]MA[en];B[gm];W[gn];B[en];W[fm];B[ml];W[dr];B[cr];W[hr]
+;B[gr];W[is];B[er];W[mg];B[mf];W[ni];B[mi];W[mj];B[mh];W[nk]
+;B[oj];W[nh];B[lg];W[ok];B[pj];W[lh];B[ng];W[li];B[mg];W[mk]
+
+(;B[pm];W[pk];B[ql];W[qj];B[oh];W[mm];B[nl];W[om];B[nm];W[nn]
+;B[mn];W[ol];B[lk];W[pn]C[I think black could have successfully cut my group off here. Actually a miracle I could connect it to the corner.
+
+n - It looks like B can kill, but it's quite hard, see previous variation.]
+;B[kh]MA[qi]C[n - B needs to play X];W[qc];B[pc];W[pb];B[ob]
+;W[rb];B[qd];W[rd];B[re];W[oa];B[nb];W[rj]C[Is the upper right corner alive now? I am not sure.
+
+n - Yes.];B[qi];W[ri];B[qh];W[rl];B[rh]C[I think if black plays S9, then he should capture the 3 stones at S10 first.
+
+n - No, his play is correct.];W[rk]C[n - End of review.])
+(;B[pl];W[pk];B[ql];W[mm];B[nm];W[nl];B[mn];W[om];B[nn];W[ol]
+;B[pm];W[on];B[pn];W[oo];B[po];W[no];B[mo];W[qj];B[qi];W[rj]
+;B[pi]C[n - W is dead.]))
+(;B[gc];W[gd];B[ic];W[hb];B[id];W[ib];B[jc]))
+(;B[ei];W[di];B[eh];W[ch];B[cg];W[bh];B[bg];W[bi];B[df];W[de]
+C[n - Not good for B.])
+(;B[cj]C[n - This is the correct direction.];W[dk];B[ei];W[di]
+;B[eh];W[ch];B[cg];W[bh];B[bg];W[bi];B[bj]C[n - OK, now B is protected from the cut.]
+))

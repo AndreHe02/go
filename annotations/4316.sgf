@@ -1,0 +1,141 @@
+(;FF[4]GM[1]SZ[19]CA[UTF-8]AP[SGFC:1.15]
+
+PB[malweth]
+BR[8k]
+PW[SixPack]
+WR[8k]
+KM[6.5]
+DT[2006-06-24]
+PC[The Kiseido Go Server (KGS) at http://kgs.kiseido.com/]
+RE[B+0.50]
+TM[900]
+OT[3x40 byo-yomi]
+RU[Japanese]
+
+C[[Malweth\]: (I was playing Black in this game). Aside from one major mistake I think I was leading this game. I was surprised he turned it around, though I managed a 1/2 point win.
+
+Could you explain what I could have done better and why my lead was lost so easily?
+
+z -- Hello Malweth.  I am Bill, "zinger" in the internet Go community.  We recently played on Dragon.  Good to see you again!  
+
+My comments are marked with "z --".  I hope they are useful.  But remember, I am also a weak amateur.  So be sure to consider my comments and variations critically - almost certainly, I have made a few mistakes.
+
+I prefer to reference move numbers and board markings in my comments, rather than grid coordinates.  Hopefully you have an SGF reader which displays these properly.  I recommend glGo or Drago, which I used to make the review.
+
+To address your two questions from above: how could you have done better? - see the game comments.  And, how was your lead lost? - I would say your lead was lost for three main reasons:
+
+1.  Not appreciating the thickness in the top right.  Black 73 and 105 in particular were poor uses of that pretty wall.
+
+2.  Tactical errors, including: failure to just kill white's group on the top side; 135 which I'm sure you were aware of; and a few others as commented.
+
+3.  Imprecise endgame.  Which is true for all of us :)
+
+I hope the review helped.  Good luck !];B[qd];W[dd];B[nc]C[z -- interesting idea.]
+;W[pp];B[eq];W[qj];B[nq];W[kp];B[no];W[pn]
+(;B[pr]C[z -- 11 seems too easy on white, since his normal extension is already there (white 6).  Since the lower left corner is black, jumping once more and then attacking seems like a good alternative.]
+;W[qq];B[kr];W[mp]LB[cp:a]C[z -- this is rushing things a bit - how can white know now that this is the best way to use the aji here?  14 should be at A.]
+;B[np];W[lr];B[lq];W[kq];B[mr];W[jr];B[ls];W[ip];B[cp];W[dj]
+;B[fc];W[fd];B[pl]TR[qj][pn]LB[ql:a][pm:b][gd:c]C[z -- 27 is a common mistake.  It accomplishes nothing if white responds at A.  If black wants to invade the marked shape, he usually must play A or B.
+
+I think the normal move at C is appropriate here.]
+(;W[ec];B[qm]C[z -- now 27 and 29 look like good moves.];W[om]
+;B[ol];W[nm];B[qh];W[oj];B[qn]LB[ro:a][qo:b][nl:c][nk:d]C[z -- 35 is not good: aji-keshi.  Black A would be better endgame, and B might work better for eye removal.  Instead, black should continue outward with C or D.  Then, if later it turns out that 35 is good, it can still be played.]
+;W[qo];B[oo];W[po];B[nl]LB[qr:a]C[z -- white can still live locally with A if he needs to, so 35 and 37 didn't accomplish much.]
+;W[mm];B[nj];W[oh];B[ll]LB[pf:a][pg:b][qg:c]C[z -- I think it would be better to take territory while attacking with A or B.  This 43 allows white to play C.]
+
+(;W[rg]C[z -- I think this move is off-target.];B[qg];W[rh]
+;B[pi];W[qi];B[oi];W[pj];B[nh];W[qf];B[og];W[pg];B[ph];W[pf]
+;B[re];W[rf];B[qr]LB[rp:a][rr:b][rn:c][cl:d][od:e]C[z -- black 59 is a mistake.  Even after this, white can live in the corner with A (then B and C are miai).  This means that 59 is just a big endgame move, still too small right now.  Black D looks like good alternative, or perhaps E which erases aji and encloses white.]
+;W[kn]LB[cm:a]C[z -- white could switch to A on the left side, treating connecting or living as miai.]
+;B[cl]C[z -- good move];W[pd];B[pc];W[qc]
+(;B[od]LB[rc:a]C[z -- I think black A is better, keeping the corner territory.]
+;W[rd];B[pe];W[qe];B[qb];W[pd];B[oe];W[qd]TR[fc]LB[gc:a][hc:b]
+C[z -- really small !  White should play on the top side instead (A or B, perhaps), to reduce black's thickness and squelch the aji of the marked stone.]
+;B[cg]LB[ce:a][gd:b][hd:c][gc:d][hc:e][cc:f]C[z -- black 73 looks like the wrong direction.  The dominant feature of this position is black's thickness in the top right.  White is in a good position to reduce it, so black must act fast.  B-E all look possible.  I would probably choose B, or perhaps D which also increases the nuissance value of the invasion at F.  I'm not sure what is best, but I don't think 73 is it.
+
+In addition, 73 is risky locally.  Be aware that white could reply at A, and 73 could not connect to 61.]
+;W[eo]C[z -- wrong direction by white.  The top side is biggest. 
+
+Also 74 isn't very good locally.  This kind of reduction is appropriate when black has extended both ways from the shimari.  In this position, it just gives black free territory.]
+;B[dn]C[z -- good move];W[fq]C[z -- from 76-84, either player could, and should, switch to the top.]
+;B[fr];W[dq];B[dp];W[er];B[ep];W[gr];B[dr];W[fs];B[bd]LB[cc:a]
+C[z -- black 85 should still be at the top.  Also, it removes the possibility of black A.]
+;W[cd];B[be];W[bc];B[ic]LB[ci:a][gd:b][hd:c]C[z -- this area is still important, but be aware that your top left group is not settled yet - white can attack at A, and the 3-3 invasion is no longer possible.
+
+z -- also I think that locally, black 89 doesn't quite do full justice to the thickness.  B and C feel better.]
+;W[ie]C[z -- good move by white.  This is why I think 89 should be on the fourth line.]
+;B[gd];W[gc];B[hd];W[jc]
+(;B[fb]LB[jd:a]C[z -- I would play black 95 at A instead, which looks like enough territory to win.  Still, I can't really call 95 bad.]
+;W[gb];B[fe];W[ed];B[hb];W[fa];B[hf]LB[jd:a]C[z -- good move, attacking on a large scale.  Also black A still looks like enough to win.]
+;W[nf];B[of];W[ke];B[lc]LB[jg:a]C[z -- ugh, black 105 is much too submissive, so close to your own thickness.  Instead, attack from the outside at A.]
+;W[kc];B[lb];W[ld]LB[jg:a]C[z -- white should run at A.];B[jg]
+C[z -- good move];W[kg];B[jf]C[z -- looks like white is dead.]
+;W[je];B[el]C[z --  Instead, black 113 can just add a move to absolutely kill the top white group, and cruise to a safe win.  But I understand the desire to take up the challenge of playing tenuki.]
+;W[he];B[ge];W[if];B[hg];W[ig];B[hh];W[jh];B[df]LB[fj:a]C[z -- is this necessary ?  How about A instead.]
+;W[ef];B[ee];W[fj];B[gk];W[gj];B[hk];W[hj];B[ij];W[fl];B[fk]
+;W[ek];B[em]LB[dk:a][ii:b]C[z -- how about black 133 at A, and if white connects, then B?]
+;W[ik];B[hm]C[z -- oops !  I assume this is the major mistake you mentioned at the beginning.]
+;W[hl];B[ei]LB[bj:a]C[z -- it easy, even for strong players, to get psychologically disrupted after a mistake such as 135.  That leads to follow-up mistakes such as 137, which is not really a peep.  Instead, the slide at A looks big.]
+;W[ds];B[cr];W[pb];B[ob];W[oc];B[ej];W[dk];B[pc];W[pm];B[ql]
+;W[oc];B[ln];W[lm];B[pc];W[mo]LB[rp:a]C[z -- not needed.  As noted before, white can live at A.]
+;B[pa];W[bk];B[bi];W[bj];B[bl];W[gm];B[il];W[jk];B[jl];W[ii]
+LB[im:a]C[z -- white 162 could cut at A.];B[kk];W[jj];B[fm]
+;W[gl];B[rq];W[al];B[am];W[ak];B[bn];W[bh];B[ch];W[ci];B[bg]
+;W[di];B[eh];W[dg]
+(;B[de]LB[dh:a]C[z -- black 179 at A works, at saves a few points versus the game.]
+;W[dh];B[eg];W[im];B[go]C[z -- good move];W[fo];B[fp];W[gp]
+
+(;B[gn]LB[hp:a]C[z -- black 187 should hit at A immediately.]
+;W[hn]LB[ho:a]C[z -- white 188 at A is several points better.  Perhaps white would have won.]
+;B[hp];W[gq];B[ho];W[hq];B[io];W[jo];B[fn];W[ml];B[mk];W[lj]
+;B[lk];W[jm]C[z -- too small.];B[kl]LB[ro:a][jb:b][rk:c][ac:d]
+C[z -- black 201 is too small.  A, B, C, and perhaps elsewhere would be bigger.  D is sente.]
+;W[rp];B[rr];W[rb];B[ac]C[z -- good move];W[bb];B[cs]LB[jb:a]
+[rk:b][ab:c]C[z -- A, B, and C are still bigger, maybe others as well.]
+;W[es]C[z -- really small !];B[rk];W[rn];B[rj];W[ri];B[jb];W[kb]
+;B[ka];W[mg];B[kj];W[ki];B[li];W[lh];B[mi];W[md];B[lp];W[lo]
+;B[rm];W[mq];B[ah];W[lr];B[lq];W[mc];B[mb];W[oq];B[or];W[js]
+;B[sq]LB[ab:a]C[z -- black 235 is gote.  A is better.];W[ab]
+C[z -- this is a point black should have got.  It was sente for many moves.]
+;B[ra];W[sb];B[ad];W[ce];B[cf];W[in];B[hc]C[z -- black 243 loses a few ko threats, and gains nothing.]
+;W[eb];B[sn];W[fh];B[fg];W[fi]LB[gh:a]C[z -- why not A ?];B[gh]
+;W[so];B[ro];W[cq];B[bq];W[rn];B[ck];W[cj];B[ro];W[gg];B[gf]
+;W[rn];B[si]TR[hc][eb]LB[iq:a][gs:b][cc:c][ne:d]C[z -- giving up on the ko?  There are several threats left (A-D, at least) - and there would be more without the marked exchange.  Winning the ko would definitely be worth more than black 261.]
+;W[sm];B[sl];W[sh];B[sn];W[bf];B[af];W[sm];B[ne];W[me];B[sn]
+;W[ks];B[lr];W[sm];B[nn];W[mn];B[sn];W[dl];B[dm];W[sm];B[ng]
+;W[mf];B[sn];W[cm];B[bm];W[sm];B[sj]C[z -- there are still some threats out there.]
+;W[sn];B[ok];W[ha];B[ia];W[ga];B[sp];W[ro];B[pq];W[op];B[jd]
+;W[kd];B[id];W[qp];B[ai];W[on];B[nr];W[fk];B[qa];W[tt];B[tt]
+TB[ef][ff][ag][gg][bh][ni][lj][mj][nk][sk][oh][rl][cm][an][cn]
+[en][ao][co][do][eo][fo][ap][bp][aq][cq][dq][ar][br][as][bs]
+[ms][ns][os][ps][oa][qs][rs][ss][sr][ja][la][ma][na][bo][ib]
+[nb][pb][oc][ae][bf]TW[aa][ba][ca][da][ea][cb][db][fb][cc][dc]
+[rc][sc][sd][le][re][se][jf][kf][lf][sf][jg][lg][sg][kh][ji]
+[ij][gk][hk][hm][jn][ln][ko][jp][jq][fr][hr][ir][iq][fc][hs]
+[gs][is]C[z -- a close and interesting game.])
+(;B[hp];W[gq];B[ho]))
+(;B[dh]
+(;W[de];B[cf])
+(;W[cf];B[de]
+(;W[bf];B[ce])
+(;W[ce];B[bf]))))
+(;B[jd];W[ib];B[gb];W[fb];B[hb]))
+(;B[rc]
+(;W[qb];B[pb])
+(;W[oc];B[qb]
+(;W[pb];B[od];W[qc];B[pe];W[pc];B[ob])
+(;W[od];B[ob]))))
+(;W[qg]C[z -- I think white can get settled this way.  No variations, since it's white's alternative not yours, but you might play around with it and see.]
+))
+(;W[ql]
+(;B[qm];W[pm];B[qk];W[rl];B[pk];W[rk]C[z -- black has heavy, floating stones, and white's territory is more secure than it started.]
+)
+(;B[pm];W[qm];B[on];W[po]C[z -- this gives white too much secure territory.]
+)))
+(;B[nm]
+(;W[pl];B[ip]LB[qq:a]C[z -- this way white 6 seems a little inefficient.  Also A is still open, so this results looks OK for black.]
+)
+(;W[gq]C[z -- white may try to ignore 11, in which case things get complicated.  If you don't like this possibility, then black 9 should be at the 3-3 point.]
+
+(;B[pm])
+(;B[ql];W[pl];B[pm]))))

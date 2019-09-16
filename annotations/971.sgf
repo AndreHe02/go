@@ -1,0 +1,193 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.13b]
+
+GN[Snake-nicomerc]
+PB[nicomerc]
+BR[25k]
+PW[Snake]
+WR[15k]
+KM[0.5]
+RE[W+46.50]
+RU[Japanese]
+AN[Christopher Hayashida]
+
+C[Hello I'm nicomerc, I'm 25k on IGS and i have play this game against a very best player than me (15k). I play as black.
+I lost by around 40 points and I think it is due to my openning which is not very optimal.
+What are my big mistakes?? I have try to make several variations but i don't know if they are pertinent.
+
+csh: In this game, the opening wasn't too bad, but there were some strategic errors in the middlegame. I will point them out and try to create variations which will be better.]
+;B[pd];W[dc];B[pq];W[cp]C[csh: At this point, all of the empty corners are taken. In general, after all the empty corners have been taken, the big plays are to either enclose a corner or approach a corner before it is enclosed. Thus, enclosing your lower right corner or approaching the two left corners are all valid moves.]
+
+(;B[eq]C[Better to play at Q9? (see variation)
+
+csh: There is nothing wrong with this kakari (approach move.) There is also nothing wrong with Q9 (high Chinese opening.) The Chinese fuseki plays to create a large moyo (framework.) One isn't better than the other; they are just different ways of playing.]
+;W[gq];B[eo];W[dn]
+(;B[fn]C[F7 better?
+
+csh: The idea behind Black's approach move is to split the corner with White. When White pincers, Black needs to stabilize his group and put pressure on the two groups split apart. This move, as well as F7 (see variation), do neither. I included a joseki variation.]
+;W[ip]LB[jq:A]C[csh: This move stabilizes the white group at the bottom, and now the running black group is in a lot of trouble. White may have played at A, to get a stronger base.]
+;B[kq]C[csh: This is the right idea, pressuring the white group. It is difficult to do, though. Usually this will induce White to strengthen his running group, and in turn making the running black group weaker, relatively.]
+;W[qo]
+(;B[qm]C[csh: This pincer is in the wrong direction. Black does not want to give White the chance to connect to his groups. It also forces White to put more pressure on the group at the bottom.]
+;W[oo];B[np]C[Is this move adequate?
+
+csh: It is for the situation, but you're better off in the variation.]
+;W[qq]LB[pp:A]C[csh: Note that White has a weakness at A.]
+(;B[pr]C[csh: This is too passive.];W[qr]
+(;B[nm]C[csh: A two-space jump is too far. It can be cut apart.]
+;W[pp];B[op];W[qf]C[csh: The more I look at it, the more this looks like the wrong direction for White. White can almost lock up the game by securing a presence along the top and left side of the board.]
+
+(;B[nd]C[Is pincer better? (see variation)
+
+csh: The pincer has a nice effect of helping the two stones at the bottom. I added some variations.]
+;W[lc]
+(;B[mc]C[to offensive move?
+
+csh: This is a bad move. Furthermore, it's not really an attacking move. See the variation.]
+
+(;W[le];B[nf]C[csh: This move separates the white stones and prepares for a fight. Unfortunately, Black is weak on the right side of the board...]
+;W[qd]
+(;B[pc]C[csh: Too passive. Hane. (see variation)];W[qc];B[qb]
+;W[rb];B[pb];W[ra];B[lb];W[kc]
+(;B[kb]C[csh: In general, it is not good to crawl along the second or first line. Your group already has enough eye-space, so look elsewhere. Either the invasion on the left or stabilizing the group on the right with an extension is a big move.]
+;W[ic];B[ib]C[K18 better?
+
+csh: No. Since your group's life is not threatened, stop crawling, and look to invade on the left side.]
+;W[jb];B[ja];W[jc];B[hb];W[md];B[me];W[ld];B[nb];W[hc];B[gc]
+;W[gd];B[fc];W[fd];B[ec];W[ed]
+(;B[dd]MA[jb][hc][ic][jc][kc][lc][ed][fd][gd][ld][md][le]C[I try to cut for reducing weakness of the marked white stones.
+Is it better to play something like H15 or K14?
+
+csh: As they stand, the marked stones are really strong. The cut you made isn't really threatening, and the other two moves you mentioned are playing too close to thickness. If you played there, where would the run to? How would they make life? I included variations, with possible responses.
+
+If you look at possible territory, White has 10 points in the lower right, 10 points in the upper right, and the possibility of a huge amount along the left-hand side. Black has 15 points at the top, and maybe 12 at the bottom, but no place real place to expand. It is much more important to invade the large area to the left, or give the stones at the right a base.]
+;W[cd];B[de];W[cc];B[db];W[cb];B[eb]
+(;W[df]C[csh: This is actually a mistake. It is better for White to stay connected.]
+
+(;B[ce]C[Better to play the variation?];W[be];B[cf];W[ef];B[bf]
+;W[ae];B[af];W[bc];B[ch];W[cj];B[bj];W[bk];B[bi];W[ci]
+(;B[dh]C[Better to play C9?
+
+csh: No, this is fine. I added a variation for C9.];W[dk];B[di]
+;W[dj];B[fh];W[gh]C[csh: Another mistake for White. He shouldn't play contact moves and strengthen you.]
+;B[fg];W[gg];B[ff];W[ee];B[gf];W[hf];B[gi]C[csh: At this point, the white group in the center looks like it's going to live. Your group on the left looks alive, too, as does the one at the top and bottom. You still have the three stones at the lower left to worry about, as well sa the two on the right-hand side.
+
+Looking at the territory, Black has 12 points at the bottom, maybe 15 at the top, and 4 on the left. White has maybe 6 in the upper left, 8 in the upper right, and eight in the lower right. The lower left is also rather large. The most important part of the board for both White and Black is extending along the right-hand side.]
+;W[hi];B[hh];W[hg];B[hj]C[Better to play J12?
+
+csh: Pushing here is completely irrelevant. There are bigger plays.]
+;W[ih];B[fj];W[ij];B[hk];W[mf];B[ne];W[mg];B[ng];W[ph]C[csh: White is starting to expand. Black should also make an extension.]
+;B[nh];W[qj]C[csh: Too late. Now the black stones have to run for their lives.]
+
+(;B[pk]MA[jb][hc][ic][jc][kc][lc][ed][fd][gd][hd][id][jd][kd]
+[ld][md][ee][ge][he][ie][je][ke][le][df][ef][hf][if][jf][kf]
+[lf][mf][gg][hg][ig][jg][kg][lg][mg][gh][hh][ih][jh][kh][lh]
+[mh][hi][ii][ji][ki][li][ij][jj]C[I think after reflexion that i had top play N12 (or another move but i don't know what) for reducing the central white moyo (see marked stone)
+
+csh: The marked area is almost territory, it's way to thick to be only a moyo. Pushing in would only reduce a few points. Losing your stones would be worse. However, you are too far behind at this point in the game.]
+;W[mh];B[mi];W[li];B[mj];W[lj];B[lk];W[kk];B[ll];W[jq]C[I have lost a lot of pooints with the last 15 moves
+
+csh: Yes, you did. The extension along the right-hand side was important for both sides, but it was sitting there for quite a while...]
+;B[kp];W[in];B[il];W[kr];B[lr];W[jr];B[jk];W[jj];B[kl];W[kj]
+;B[gp];W[hp];B[go];W[dq];B[fq];W[gr];B[fr];W[ko];B[lo];W[kn]
+;B[ln];W[jp];B[jn]C[A mistake....];W[jm];B[km];W[jo];B[jl];W[im]
+;B[hm];W[em];B[fm];W[fl];B[gl];W[fk];B[gk];W[ej];B[ei];W[pj]
+
+(;B[ok]C[Better to play R9?
+
+csh: This move was fine. If you let him hane over your stones, you can run into problems. You protected and reduced well with this sequence.]
+;W[qk];B[ql];W[rl];B[rm];W[rk];B[ro];W[rp];B[rn];W[sp];B[so]
+;W[ps]
+(;B[os]C[My habitual mistake.......(no comments)
+Is the variation correct?];W[or];B[oq];W[ns];B[nr];W[os];B[ms]
+;W[qs];B[mr];W[rr];B[no];W[on];B[nn];W[qn];B[om];W[pn];B[pm]
+;W[pe];B[oe];W[pg];B[oj];W[oi];B[ni];W[oh];B[og];W[da];B[ea]
+;W[ca];B[pf];W[qe];B[sl];W[sk];B[sm];W[qi];B[rc];W[rd];B[qa]
+;W[sc];B[gb];W[ak];B[bh];W[ge];B[aj];W[cl];B[do];W[co];B[en]
+;W[dm];B[dp];W[dr];B[er];W[gs];B[fs];W[hn];B[gn];W[ho];B[ds]
+;W[cr];B[cs];W[bs];B[es];W[bq];B[ks];W[js];B[ls];W[dg];B[cg]
+;W[eg];B[lq];W[eh];B[fi];W[lf];B[fe];W[he];B[ia];W[of];B[al]
+;W[bl];B[pf];B[of]TW[aa][ba][sa][ab][bb][sb][ac][rc][ad][bd]
+[hd][id][jd][kd][sd][ie][je][ke][re][se][if][jf][kf][rf][sf]
+[ig][jg][kg][lg][qg][rg][sg][hh][jh][kh][lh][qh][rh][sh][ii]
+[ji][ki][pi][ri][si][rj][sj][ck][ek][dl][el][jn][io][po][qp]
+[cq][hq][iq][rq][sq][hr][ir][sr][hs][is][rs][ss]TB[fa][ga][ha]
+[ka][la][ma][na][oa][pa][fb][mb][ob][nc][oc][od][ag][bg][ah]
+[ai][gj][nj][mk][nk][hl][ml][nl][ol][pl][gm][lm][mm][mn][sn]
+[fo][mo][ep][fp][lp][mp][mq][nq];TW[aa][ba][sa][ab][bb][sb]
+[ac][rc][ad][bd][hd][id][jd][kd][sd][ie][je][ke][re][se][if]
+[jf][kf][rf][sf][ig][jg][kg][lg][qg][rg][sg][hh][jh][kh][lh]
+[qh][rh][sh][ii][ji][ki][pi][ri][si][rj][sj][ck][ek][al][dl]
+[el][am][bm][cm][an][bn][cn][jn][ao][bo][io][po][ap][bp][qp]
+[aq][cq][hq][iq][rq][sq][ar][br][hr][ir][sr][as][hs][is][rs]
+[ss]TB[fa][ga][ha][ka][la][ma][na][oa][pa][fb][mb][ob][nc][oc]
+[od][ag][bg][ah][ai][gj][nj][mk][nk][hl][ml][nl][ol][pl][gm]
+[lm][mm][mn][sn][fo][mo][ep][fp][lp][mp][mq][nq]C[csh: The one thing that hurt Black the most is that his stones did not work together well. While none of Black's groups died, White managed to make a lot of territory while attacking Black's groups. Black had to spend moves to save his groups with little profit. In the opening and middle game, think about your groups and how safe they are compared to the neighboring ones.]
+)
+(;B[or];W[os];B[ns];W[qs]LB[nr:A]C[csh: Um, black needs another move, or else White cuts at A with double atari.]
+))
+(;B[qk]))
+(;B[mh]))
+(;B[ck]
+(;W[dk];B[cl];W[bl];B[dl];W[dj];B[bm];W[el];B[al];W[dm];B[ak]
+)
+(;W[bl];B[dk];W[ej];B[dj];W[di];B[dh];W[ei]LB[el:A]C[csh: The cut just added more weak stones. White just needs to move at A to capture them in a net. Even if they escape, they have no eyes.]
+)))
+(;B[ee];W[fe];B[ef];W[eg];B[ff];W[gf];B[fg];W[dg];B[gg];W[hf]
+;B[hg];W[ig];B[gi]C[His these variation better??]))
+(;W[ce];B[df];W[cg]C[csh: White can jump ahead, and the white group at the top can almost live on its own. The three black stones still have to run for their lives.]
+))
+(;B[he]
+(;W[hd]C[csh: White shouldn't respond so passively.];B[dd];W[cd]
+;B[de];W[cc])
+(;W[hh]C[csh: The black stone will be cut off from any support, and the white groups will have way more liberties than the black one if Black cuts.]
+
+(;B[dd];W[de];B[cd];W[ce];B[hd];W[ee])
+(;B[hd];W[de];B[lf];W[kf];B[kg];W[jf];B[if];W[jg];B[lg]TR[hd]
+[he][if]C[csh: The marked black stones are dead. White can expand up the left to start to enclose a *lot* of territory.]
+)))
+(;B[jf];W[lg]C[csh: White would cut the stone off. Where will Black run? How can the stone make life? It looks like it would become another weak group.]
+))
+(;B[ci];W[ck];B[cf];W[cd];B[ef]C[csh: This invasion takes away more territory from White than pushing along the top.]
+))
+(;B[qc];W[pc]C[csh: The hardest variation is the crosscut, but]
+;B[od]
+(;W[qb];B[rc];W[rd];B[pb]
+(;W[rb];B[sc];W[sd];B[oc])
+(;W[sc];B[rb]))
+(;W[rc];B[qb];W[pb];B[rd];W[qe];B[rb];W[re];B[sc])))
+(;W[ld]LB[hd:A]C[csh: White will create an "iron pillar" and later look to extend to A, claiming the top half of the board. Black's position isn't much more secure. The exchange was in White's benefit.]
+))
+(;B[qh];W[of];B[oh];W[mf];B[rd]C[csh: This is not a good result for Black. The corner is still not secure, and White has escaped.]
+))
+(;B[qh]
+(;W[of]C[csh: White jumping to the center is not always the best response, but in this case, it is necessary.]
+;B[nd];W[oh];B[qe];W[rf];B[qj];W[mf])
+(;W[qc]C[csh: In this case, the 3-3 invasion gives a bad result for White.]
+;B[qd];W[rd];B[re];W[rc];B[qe];W[pc];B[od];W[nc]C[csh: This result is bad for White. White lives in the corner, but Black has a real nice framework on the right side. This is why White would choose to jump instead.]
+))
+(;B[qj]C[csh: Instead of the one-space pincer, you may want to consider a wider one. This pincer give the two marked stones a nice base, and it still threatens the white stone.]
+
+(;W[nc]C[csh: One answer to the pincer is to make another approach.]
+;B[nd];W[md];B[ne];W[oc];B[pc];W[jc];B[qe]C[csh: This result is horrible for White. White is better off having never played the original approach move in the first place.]
+)
+(;W[qc];B[qd];W[pc];B[od];W[rd];B[re];W[rc];B[qe];W[nc];B[pf]
+C[csh: In this case, Black should cap the white stone to prevent any more trouble. This result is not good for White. Black has a large framework on the right side, while White only got a little territory in the corner.]
+)))
+(;B[qj]C[csh: Since the black group at the bottom is stable, it would also make sense to make a two-point extension for the pincer stone.]
+))
+(;B[qr];W[rq];B[qj]C[csh: At this point, you'd probably want to extend for more eye space.]
+))
+(;B[op]TR[kq]C[csh: The kosumi (diagonal move) works a lot better with the marked black stone. The group is stabilized. Now Black can play to stabilize the running group on the left.]
+;W[pm]C[csh: White will extend to protect his stone.];B[cr]
+C[csh: Black can start looking at stabilizing his group, then counterattacking the two white stones.]
+))
+(;B[fm]C[csh: The keima (knight's move) is not much better. It can be cut.]
+;W[en];B[fn];W[fo]TR[fo]C[csh: Now the black stones are cut apart, and Black does not have a way to capture the marked cutting stone. This is a bad result for Black.]
+)
+(;B[hp]C[csh: The joseki is actually the shoulder hit. It is bad for Black to run up the left side, since White would be getting territory on the fourth line. Instead, Black will push on the lower left, strengthening both White and Black, and then attack the white stone at the bottom.]
+;W[dq]C[csh: White plays to take away Black's base. Otherwise, Black will dive into the corner to get an eye.]
+;B[dr];W[cr];B[dp];W[cq];B[gp]C[csh: Black's group is stabilized, and has good shape for making eyes.]
+))
+(;B[pk]C[csh: The Chinese fuseki is also another way to play. It would lead to an entirely different sort of game.]
+;W[nc];B[pf];W[pb];B[qc];W[ld];B[eq];W[gq];B[eo];W[dn]C[csh: Now you're in the same situation, with the other side of the board played out a bit. :)]
+))

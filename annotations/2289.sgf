@@ -1,0 +1,92 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+PB[NukeMarine]
+BR[7k]
+HA[4]
+PW[grumly]
+WR[3k]
+KM[0.5]
+DT[2004-02-10]
+PC[The Kiseido Go Server (KGS) at http://kgs.kiseido.com/]
+RE[W+2.50]
+TM[900]
+OT[5x60 byo-yomi]
+RU[Japanese]
+
+AB[dd][pd][dp][pp]C[NukeMarine [7k\]: hi
+grumly [3k\]: hello
+NukeMarine [7k\]: Hi, I'm Charles and I played Black in this game with 4 handicap.  It was a very close loss.  Any help or suggestion will be appreciated.
+
+runski:  Overall, white made it a close game by capturing black's upper right group.  Black had a few chances in the end game but he lost a few points here and there to lose the game.]
+;W[qf];B[nd];W[qn];B[np]LB[pj:A]C[runski: The game move is perfectly acceptable.  A more aggressive approach is playing at 'A'.  This splits the two stones and leads to fights down the road which are advantageous to black.]
+;W[pj];B[dj];W[fc];B[hc];W[cc];B[cd];W[dc];B[ed];W[bc];B[fd]
+;W[gc];B[gd];W[be];B[cf]LB[ad:B][bd:A]TR[be]C[runski:  Exchange 'A' with 'B' before playing the game move.  Normally this isn't good because it causes shortage of liberties for the black stones.  In this case, it takes away liberties from the marked white stone and makes it difficult to cause trouble.  By the way, white's jumping in to black's area is premature.  It is crawling on the second line making no terrority, while black is buiding a wall on the third line.]
+;W[bd];B[cg]LB[hd:C][df:B][dg:A]C[runski: 'A' gives better shape, because the game move allows a cutting point at 'B'.  White can also cut at 'C' later, putting the 5 black stones in shortage of liberties.  At this time white can't do much, but eliminating this kind of aji is an indication of one's improvement.  Without this aji, black's group is clearly stronger.]
+;W[fq];B[fp];W[gp];B[fo];W[eq];B[dq];W[go];B[fn];W[jq];B[lq]
+LB[gj:B][hq:A]C[runski: Although this move allows an invasion at 'A', it doesn't defend the corner.  White can still invade at the 3-3 point, and so the value of this move is small.  I like 'B' to build up the left side framework.]
+;W[dk];B[qh]LB[dl:A][dn:B]C[runski: Black should respond to white's invasion.  If white is allowed to make two moves in a row in black's terrority, he is sure to make a live group easily.  Now black invades on the right side, but there is no guarantee that he can gain sente during the exchange and come back to the left side to attack white's stone.  
+
+In terms on replying to white's invasion, black's upper group is stronger than his lower group.  Playing at 'A' doesn't allow white to exploit black's weakness, such as a jump to 'B' to threaten to cut.  This way white will have a harder time to setttle his stone.]
+;W[pg]C[runski: White's move is unreasonable.  Maybe he thinks this is a 4-stone game and he can use force even though it is not called for.]
+;B[ql]C[runski: Good.];W[pm];B[qj]C[grumly [3k\]: sorry for that, got disconnected
+NukeMarine [7k\]: not a prob];W[pk];B[qk];W[ph];B[rg]LB[oh:D]
+[oi:B][pi:A][qi:C][oj:E]C[runski: Before playing the game move, go for the 'A' to 'C' exchange first.  This creates two cutting points at 'D' and 'E'.  White can defend one, allowing black a chane to exploit the other cutting point at a later time.]
+;W[re];B[ri];W[rm];B[sk]LB[rl:A][qm:B]C[runski: 'A' is better, allowing black to play 'B' later to cut.]
+;W[cj]C[runski: White should be able to settle easily with two moves in a row on the left.]
+;B[dm];W[ej];B[di];W[cl];B[ek];W[cm];B[dl];W[ck];B[dn];W[ci]
+;B[dh];W[bh]
+(;B[hb]LB[hq:A]C[runski:  Invade at 'A'.  Make white's group baseless.  Please see variation.]
+;W[ld];B[jd];W[mc];B[nc];W[lf];B[jf]LB[rc:A]TR[re][qf][pg][ph]
+[pj][pk][pm]C[runski: Wrong direction.  Black's corner group is surrounded and white has thickness from his marked stones to help out.  Play at 'A' to secure life first, and them aim to separate white's 3 stones from his right side group later.]
+;W[qc]C[runski: Now black is in trouble.];B[nf];W[mg];B[le]
+;W[ke];B[me];W[kd];B[kf];W[jc];B[je];W[nb]
+(;B[lg]LB[ob:B][oi:A]C[runski: I have listed two variations here.  For escaping, black can play 'A' to minimize his loss.  But black can fight back at 'B' as well.]
+;W[mf];B[lh];W[ng];B[pl];W[qp];B[ol]LB[om:B][qq:A]C[runski: Block at 'A'.  Black can still cut at 'B' if white plays the game move.]
+;W[pq];B[oq];W[po];B[op];W[fk];B[el];W[gn];B[gm];W[hm];B[hl]
+;W[gl];B[fm];W[im];B[il];W[jl]
+(;B[gk]LB[ij:A]TR[cd][dd][ed][fd][gd][jd][je][jf][kf][lg][lh]
+C[runski: Play 'A' with the intention of swallowing all three white stones.  Black has tremendous amount of thickness with the marked stones.  White can't fight.  Please see variation.]
+;W[of];B[jm];W[li];B[mh];W[nh];B[mi];W[nj];B[mj];W[nk];B[jn]
+;W[mk];B[lk];W[ll];B[kk];W[pr];B[cn];W[bn];B[bo];W[bm];B[ml]
+;W[io];B[gq];W[hq];B[gr];W[hr];B[in];W[hn];B[jo];W[ip];B[ep]
+;W[fr];B[ec]LB[cr:C][dr:B][er:A]C[runski: With this shape, it is standard to atari at 'A' before playing elsewhere.  That way the exchange of white 'B' and black 'C' is sente for black.  Without this exchange, white can hane at 'B' with sente.]
+;W[nn];B[lo]LB[mm:A]C[runski: 'A' defends better.];W[mm];B[nl]
+;W[ln];B[kl];W[kp];B[ko];W[lp];B[mo];W[mp];B[no];W[mq];B[on]
+;W[bg];B[eb];W[dr];B[cr];W[or];B[pi];W[oi];B[qi];W[ni]
+(;B[ka]LB[jb:A]C[runski:  'A' is better technique, giving black 2 more points.   Please compare my variation and the game sequence to confirm.]
+;W[kb];B[ja];W[la];B[ib];W[mb]LB[ia:B][jb:A]C[runski: For counting purpose, it's white's privilege to force the white 'A' black 'B' exchange.]
+;B[ba];W[ao];B[bp];W[ap];B[bq]LB[aq:A]C[runski: It's ok to block at 'A'.  Black loses 1 point here.]
+;W[om];B[nm];W[oo];B[mn];W[rl];B[qm];W[rn];B[pn];W[qo];B[rk]
+;W[ic];B[id];W[db];B[da];W[rf];B[jb];W[kc]C[NukeMarine [7k\]: hmm, might have missed a kill,]
+;B[aq];W[an];B[ds];W[er];B[ok];W[oj];B[es];W[gs];B[qg]LB[sf:A]
+C[runski: The game move doesn't get you any points.  Play 'A' instead and you gain 2 points.]
+;W[bb];B[ca]LB[bf:A]C[runski: Black loses one point with the game move.  Force at 'A' first.]
+;W[ce];B[de];W[bf];B[ch]LB[sf:A]C[runski:  This isn't necessary.  Comprare to 'A', black loses 2 points.]
+;W[sg];B[sh];W[sf];B[nq];W[nr];B[sl];W[sm];B[jk]LB[ab:A]C[runski:  You don't need to play inside your terrority and you lost a point here.  Besides, playing at 'A' gives you another 1/2 point.]
+;W[ab];B[cs];W[jp];B[ea];W[tt];B[tt]TW[ma][na][oa][pa][qa][ra]
+[sa][lb][ob][pb][qb][rb][sb][ac][lc][nc][oc][pc][rc][sc][ad]
+[md][nd][od][pd][qd][rd][sd][ae][le][me][ne][oe][pe][qe][se]
+[af][nf][pf][ag][og][ah][oh][ai][bi][aj][bj][ak][bk][al][bl]
+[am][sn][ho][ro][so][hp][rp][sp][gq][iq][kq][lq][qq][rq][sq]
+[gr][ir][jr][kr][lr][mr][qr][rr][sr][hs][is][js][ks][ls][ms]
+[ns][os][ps][qs][rs][ss]TB[fa][ga][ha][ia][fb][gb][fc][gc][hd]
+[ee][fe][ge][he][ie][df][ef][ff][gf][hf][if][dg][eg][fg][gg]
+[hg][ig][jg][kg][eh][fh][gh][hh][ih][jh][kh][rh][ei][fi][gi]
+[hi][ii][ji][ki][li][si][ej][fj][gj][hj][ij][jj][kj][lj][rj]
+[sj][fk][hk][ik][fl][gl][jl][ll][em][km][lm][mm][om][pm][en]
+[kn][ln][nn][co][do][eo][cp][cq][ar][br][as][bs]C[NukeMarine [7k\]: good win
+grumly [3k\]: thanks
+NukeMarine [7k\]: That's the game.  Thanks for any help that could be offered.]
+)
+(;B[jb];W[kb];B[ic];W[kc];B[ka];W[la];B[ja];W[lb]))
+(;B[ij];W[ik];B[hk];W[hj];B[jk];W[gk];B[ik];W[ii];B[ji]))
+(;B[oi]LB[ng:A]C[runski:  Black is preparing to pull out his upper right group.  If white blocks at 'A'. black can poke out and cut off white's lower group.]
+;W[pi];B[ol];W[pl];B[ng];W[mh];B[nh];W[mi];B[oj];W[nk];B[ok]
+)
+(;B[ob];W[mb];B[pc];W[qb]LB[jb:A]C[runski: White can live with 'A' but black will live as well.]
+;B[jb];W[kb];B[ic];W[kc];B[na];W[ja];B[ib]C[runski: Black wins the capturing race.]
+))
+(;B[hq];W[ip]C[runski:  If white plays aggressively ...];B[ir]
+;W[jr];B[gq];W[dr];B[cr];W[fr];B[gr];W[hs];B[fs];W[gs];B[ds]
+;W[es];B[er]C[runski: A ko, but light for black and heavy for white.]
+))

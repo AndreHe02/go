@@ -1,0 +1,152 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+PB[glyn]
+BR[21k]
+PW[kanijo]
+WR[20k]
+KM[0.5]
+DT[2005-04-20]
+PC[The Kiseido Go Server (KGS) at http://kgs.kiseido.com/]
+RE[W+Resign]
+TM[1200]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+C[Hello -
+My name is Slava Kozin, and I am about 14k. I made this review for Black using CGoban v. 2.6.12.]
+;B[pp];W[dp]C[glyn [21k\]: hi  - hope you have a good game]
+;B[pd];W[dc];B[de];W[di]LB[ci:C][cj:B][dj:A]C[This move is a bad one for White. White have to play here joseki (openning moves in the corner) or, in the other case, at A, B, or C .]
+
+(;B[jd]C[White has made the mistake, and Black does not use it for the profit here. Take a look at variations.]
+;W[gc]LB[fc:A]C[Probably, A is better here for White.];B[cc]
+;W[nq];B[qn];W[jq];B[fp]LB[pr:A]C[I think it is better for black at this moment to finish joseki at the low right corner - A.]
+;W[fq];B[gq];W[eq]
+(;B[fn]C[It is not the best way. You helps White to build a wall and make points.]
+;W[dm];B[pi];W[pq];B[qq];W[pr];B[qr];W[op];B[oo]C[I often get into these kinds of sequences where I enclose small territory and the opponent gains influence. I would appreciate your suggestions for breaking out of this bad habit. What other options would you recommend here? Or did I go wrong earlier?
+
+Actually, Black did wrong earlier here. Black has not finished joseki, and White used it to make a profit. The best suggestion here is to study joseki. You don't have to memorize them all, but you must understand the ideas of joseki.
+
+For example, Black has not finished joseki at the upper left corner at this moment. If White attacks this corner now, White could get a profit at that part of the board while Black get nothing.  
+
+Also, you are playing too safely. Try to push your opponent.]
+;W[no];B[on];W[nn];B[nm];W[qe];B[qd];W[qh];B[qi];W[pe];B[oe]
+;W[of]
+(;B[ne]C[Here I go again, but at least the top right territory looks a reasonable size. What do you think?
+
+I think you had played here too defensely, too safely. You have to fight to gain a profit. You have to take some risks, if you want to win.
+
+I shown a couple of variations.];W[ri];B[rj];W[rh];B[ge];W[cd]
+;B[dd];W[ec];B[bd];W[cb];B[ce];W[kc];B[jc];W[kd];B[ke];W[le]
+
+(;B[md]C[Too safely. You could try to cut White at M16];W[kf]
+;B[je];W[ld];B[lf];W[mf];B[lg];W[me];B[nc];W[nf];B[oc]C[Again, Black is playing too safely. Black has bigger points to play.]
+;W[mh]LB[jg:A][qk:C][hp:B]C[Now my top right territory doesn't look very stable. On the other hand, it seems premature to start firming up the edges. What suggestions do you have for making better shape?
+
+A, B, and C will do the same job - they will protect from cuts. Don't be cut, stay connected.
+
+Protecting from the cut is an emergency move. It has to be done as soon as possible.]
+;B[jg]C[Good.];W[hp];B[gp]LB[hn:A]C[I think this may be over-concentrated. Would A have been better? Or something else?
+
+It is fine for now because in the other case White will cut the black group. 
+
+From this moment, the G4 group should have been your priority.]
+;W[ho];B[ch]CR[fl][dn][gn][do]C[It seems to me that fighting for the G4  group is much more important for Black now.]
+;W[ci];B[bh];W[bi]LB[dl:B][dn:A]C[In retrospect, while trying to stabilise the C15 group, I prompted my opponent to create a large bottom left corner.
+
+Yes, Black did it. If you want to reduce that group, it is better to start from the point A or B. 
+
+But the black group G4 is still not alive and more important.]
+
+(;B[rd]C[I think that this move is too small for now.];W[re]
+;B[ni];W[ph];B[oh];W[og]C[Keep it simple.]
+(;B[mg];W[nh];B[oj]CR[oi]C[Keep it simple :-)];W[lh];B[kh];W[mi]
+;B[mj]TR[lh][mh][nh][mi]SQ[lf][lg][mg][oh]C[Is there a better way to exploit the bad shape of the marked group?
+
+I don't think so. Black does not have the good shape either.]
+;W[lj];B[mk];W[lm];B[mm];W[mn];B[ll]CR[jm][in][jn][ln][ir]C[Black helps White to secure the territory. There are many others ways to reduce White, but black G4 group is still more important.]
+;W[km];B[oi]C[Black wasted a move. Don't do such kinds of gifts for your opponents.]
+;W[hl]C[At this point I have a sinking feeling about the whole bottom left quarter of the board. What should I have done earlier?
+
+At this point Black is about 30 points behind (if G4 group will survive).
+
+You should have pushed your opponet harder, played more aggressively since you played without a handicap.]
+;B[ki];W[sj]
+(;B[sk]C[Black made a mistake. Fortunately, White did not use it.]
+
+(;W[si];B[qk];W[kl];B[kk]C[Black made a perfect opportunity for the cut. Don't help your opponent.]
+;W[lk];B[kj];W[ml];B[li];W[ng];B[kg];W[nl];B[om];W[nk];B[ll]
+;W[lk]
+(;B[nj];W[ol];B[pl];W[fl]C[Finally, the black group G4 is dead. At this moment the game is over.]
+;B[gj];W[fk];B[ej];W[dj];B[ek];W[dk];B[el];W[em];B[dl];W[cl]
+;B[ei];W[dh];B[dg];W[eh];B[gi];W[fg];B[ff];W[hg];B[gg];W[gh]
+;B[hf];W[ih];B[ig];W[hh];B[ik];W[jk];B[jl];W[jj];B[ii];W[il]
+;B[ij];W[jm];B[ji];W[jl]
+(;B[hc]CR[bb][hb]TR[cb][dc][ec][gc]C[This attack didn't work out and yet the marked collection of stones looks fairly weak and enclosed. How would you have attacked it or otherwise handled this situation?
+
+This group looks alive for me. All I can do is to make it live small.]
+;W[hb];B[ib];W[gb];B[bb];W[da];B[eb];W[fb];B[ed];W[fd];B[gd]
+;W[ha];B[fe];W[eg]
+(;B[ef];W[bg]LB[cg:A]C[The weakness at A now becomes apparent. When should I have protected it earlier?
+
+It is the move 165 for this battle, but the war is over.];B[cg]
+;W[ah];B[bf];W[ag];B[af];W[ai];B[fm];W[dn];B[gl]C[Trying to connect didn't work out. Was it a lost cause? Are there any weaknesses of the lower left white territory which you think could be exploited? Maybe I just left this all too late?]
+;W[gk];B[hk];W[gm];B[fj];W[gl];B[ok];W[ll];B[ps];W[or];B[os]
+;W[ns];B[qs];W[qp]C[Another weakenss becomes apparent. How early should I have protected against this? Maybe I should have avoided this by some means connected with my first comment in this game?
+
+This problem appeared at the beginnig of the game. You should study joseki.
+
+And at this fight Black just misread it.]
+(;B[po];W[rp];B[rq];W[sq];B[sr];W[rs];B[sp];W[so];B[sq];W[rr]
+C[kanijo [19k?\]: thx
+glyn [21k\]: thanks - well played
+
+Summury
+1. You have to play more aggressively. Best defense is offense. Push your opponent, don't be pushed. Learn about sente (http://senseis.xmp.net/).
+2. Study some joseki (http://waterfire.us/joseki.htm)
+3. Stay connected. Good shapes will protect you from the cuts (http://gobase.org/studying/articles/matthews/shape_up/).
+4. Make sure that your groups are alive. Do solve go problems (goproblems.com ; http://gogrinder.sourceforge.net).
+5. First moves first. Take a look at the whole board.  
+
+I hope that it was somehow useful for you.])
+(;B[rp]
+(;W[po];B[qo]
+(;W[pm];B[pn])
+(;W[pn];B[pm]))
+(;W[qo])))
+(;B[bg];W[df];B[cf];W[cg];B[fc];W[db];B[dg])
+(;B[cg];W[ef];B[ee];W[df];B[cf]))
+(;B[bb];W[da];B[hb];W[gb];B[ea];W[eb];B[ba];W[fa];B[ca];W[db]
+;B[hc]))
+(;B[ok];W[nj];B[lj];W[ol];B[pl]))
+(;W[rk]
+(;B[qj];W[sl])
+(;B[si];W[qj];B[sj];W[sl];B[qk];W[sh])))
+(;B[rk]))
+(;B[lh]))
+(;B[dn]
+(;W[cn];B[do];W[co])
+(;W[en];B[eo];W[em];B[do])
+(;W[do];B[cn];W[en];B[em];W[eo];B[dl];W[cm];B[bm];W[cl];B[ck]
+;W[bl];B[bk];W[al];B[ak])))
+(;B[ld];W[md];B[lc];W[kb];B[me];W[lf];B[mc];W[je];B[kf];W[kg]
+;B[jf]))
+(;B[nf];W[ng];B[og];W[pf];B[mf];W[od];B[ne];W[oc];B[re]
+(;W[rf]
+(;B[qf];W[qg];B[pg];W[qf];B[rc];W[ph];B[oh];W[nh];B[oi];W[ni]
+;B[mc];W[se];B[rd];W[sd];B[sf];W[sg];B[sc];W[sf];B[rh];W[ri]
+;B[sh];W[si];B[rg])
+(;B[pg];W[qf];B[rc];W[ri];B[nh];W[mg];B[lg];W[mh];B[mi];W[lh]
+;B[kh];W[li];B[lj];W[ki];B[ji];W[kj];B[kk];W[jj];B[ij];W[jk]
+;B[jl];W[ik];B[hk];W[il];B[im];W[hl];B[gl];W[hm];B[hn];W[gm]
+;B[fm];W[gn];B[go]))
+(;W[oh];B[pg];W[ph];B[qg];W[qf];B[rf])))
+(;B[gp];W[eo];B[gn])
+(;B[hp];W[go];B[ho];W[gr];B[hr];W[gp];B[hq];W[gn];B[hm];W[gm]
+;B[gl];W[hn];B[in];W[fl];B[hl];W[fk];B[jp]))
+(;B[ec];W[eb];B[ed];W[cb])
+(;B[fd]
+(;W[ce];B[dd];W[cd];B[cc];W[cb];B[bc];W[bb];B[ec];W[db];B[cf]
+;W[bd];B[be];W[ac];B[dg])
+(;W[fc]
+(;B[gc];W[gd];B[ec];W[fb];B[fe];W[eb];B[hd])
+(;B[gd];W[gc];B[hd]))))

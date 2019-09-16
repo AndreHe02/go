@@ -1,0 +1,116 @@
+(;FF[4]GM[1]SZ[13]CA[UTF-8]AP[SGFC:1.13b]
+
+GN[methos-miller-20010504]
+PB[JMiller]
+BR[23k]
+HA[2]
+PW[Methos]
+WR[18k]
+KM[0.5]
+DT[2001-05-04]
+PC[The Kiseido Go Server (KGS) at http://kgs.kiseido.com/]
+RE[W+10.5]
+TM[1800]
+RU[Japanese]
+
+AB[dj][jd]C[JM -- After looking over the game, it seems I really botched the opening. Any tips there would be much appreciated. I also had a couple of ko fights -- if you could, point out good ko threats I might have missed, or how I could have better played the ko. Thanks!
+
+bignose: The opening is quite important, as this is where the largest (most profitable) moves are available.  The simple principle of "corners first, then sides, then fight for the middle" would have been a good thing for Black to remember in this game's opening.
+
+Black also needs to learn that a successful attack can only be made from a position of strength; protecting your own weak points must precede looking for your opponent's weak points.
+
+In a handicap game, Black's advantage lies in the fact that he starts out with a framework on the board; it is in Black's interest to keep the game simple for as long as possible and not invite fighting.  Simple plays and maintaining strength in the opening will force White to more desperate tactics and hopefully more mistakes.
+
+I would recommend Black obtain Kagayema's "Lessons In The Fundamentals Of Go" (published by Kiseido) and refer to it often during his progress at Go.  Often we can become blinded to the obvious principles in the thick of play, and Kagayema reminds us of the necessary fundamentals that take priority over clever tricks.
+
+Also, a little more experience will give a feeling for "sente" (having the initiative) and "gote" (losing the initiative), an important principle.]
+;W[jk];B[dc];W[ce];B[fc]LB[dg:a][dh:b][ed:c][fd:d][gd:e]C[JM - In retrospect, it seems I should have played at D7 or C7, correct?
+
+bignose: This response is not bad, although too timid in this case.  The pincer at 'a' or 'b' is stronger, since you have the stone already in the top right corner.  Playing a pincer is asking for a fight early though, which Black generally does not want (the assumption being that White is stronger at fighting).
+
+Alternatively, you can play simply at 'c' or 'd'; in this 13x13 game, 'e' is also possible since it is close to both your upper stones.]
+;W[ci]C[bignose: An unreasonable move by White, but to be expected in a handicap game (White starts out behind, so must rely on unreasonable moves paying off).]
+;B[fk]LB[cj:a]C[bignose: Far too timid.  Make yourself solid and deny White access to areas you already have a stakehold in.  Also remember that the corner is much more valuable than the side.
+
+The standard response would be to block at 'a', making your own stones solid at the same time as pressuring White's left side.]
+;W[hk]LB[ck:a]C[bignose: White's mistake.  He should have immediately punished Black for not defending the corner, by invading at 'a'.]
+;B[cj]C[bignose: White has given Black the opportunity to recover the corner.]
+;W[dg];B[fg]LB[ki:a]C[bignose: Wrong focus.  White has taken the time to make his left group safe; attacking it now is fruitless.
+
+Black has sente, and should use it to go for the most profitable moves; extending along the untouched right side at 'a' is ideal, as White must respond to protect his weak lower-right group.
+
+Notice that this one stone turns out to be a big liability for Black; he spends many moves attempting to save it.]
+;W[kf]C[bignose: White has no need to defend his left-side group, and uses sente to extend along the right side.  Black's opportunity is lost.]
+;B[jg]LB[kh:a][jh:b]C[JM -- Is this the proper response?
+
+bignose: Unreasonable, since you will embroil yourself in a fight you can ill afford.
+
+If you want to attack White's approach stone, a pincer at 'a' or 'b' is better -- White must defend his single stone, while Black's stone would be able to run into the centre or along to the lower left.]
+;W[ie]C[bignose: White can afford to make the game complicated, relying on his stronger skill at fighting.]
+;B[je];W[hc]C[bignose: More unreasonable play from White; he should be running to his established left side.]
+;B[hd]C[bignose: A good response.  If your stones are strong, use them to keep White separated; many small groups are much harder to defend than a few connected groups.
+
+Also, keeping your own groups connected can automatically lead to separating the opponent's groups.]
+;W[kc]C[bignose: the 3-3 point is the fatal weakness of a stone at the 4-4 point.]
+;B[kg]LB[jc:a]C[bignose: I would prefer a play at 'a', keeping White from forming a large group in the corner.  Remember that the corners are worth fighting for.]
+;W[id];B[jf];W[jc];B[kj]C[bignose: Not too bad.  Harrassing a weak group is a good way of gaining some territory.
+
+However, the harrassment would be much more effective if Black was not already weak in this area.]
+;W[kk];B[lk]C[bignose: Black cannot really afford to be this aggressive.  Fighting here will only allow White to settle the lower right, forcing Black onto the back foot.]
+;W[ll];B[li]LB[lj:a]C[bignose: This is inviting White to keep on fighting; Black cannot afford any more fighting on this group, and must instead connect solidly at 'a'.]
+;W[mk];B[mj]LB[gc:a][cd:b]TR[lk]C[bignose: Before forming a ko like this, you must assess the available ko threats for both Black and White.  White has two secure groups (left side, lower right) while Black has only the lower left -- all his other groups have many weak points.
+
+Also a consideration is that forming a ko this way forces you to find the first ko threat.
+
+All things considered, the hane (marked) was perhaps ill-advised, and a strengthening play at 'a' or 'b' would have been better.]
+;W[lj];B[gc]LB[lf:a][di:b]C[bignose: You have started a ko, but have not followed up with a ko threat -- White has no need to respond and should just take the ko.
+
+Better threats are to be found at 'a' or 'b'.];W[gf]C[bignose: A half-thought move for White; better to simply take the ko.]
+;B[hf]LB[gd:a]C[JM -- I think I lost the game with this move. Should I have played at G9?
+
+bignose: I can't really see the reason behind this move; connecting solidly at 'a' is almost essential to keep the pressure on White.
+
+However, White certainly has the stronger position here, and Black's right-side group is still weak.]
+;W[hg];B[gg]LB[if:a]C[bignose: Attempting to save the marked stone is unreasonable; your right side group is still weak and is much more valuable.  Simply connecting at 'a' keeps White from settling, and keeps you in the game.]
+;W[if];B[lk]C[bignose: This will be an expensive way to save the right side group; White gets many opportunities to play elsewhere while Black struggles in the lower right corner.]
+;W[gd];B[ml];W[kl]LB[bc:a][cc:b]C[bignose: This move was not really necessary for White; a more valuable play is found at 'a' or 'b', attacking Black's top left corner.]
+;B[hh]LB[bd:a][gl:b]C[bignose: Black has no hope of doing damage to White here, and the Black group is reasonably secure on the right side.
+
+Much more urgent for Black is recouping some of the losses incurred; plays at 'a' and 'b', in that order, are much larger.]
+;W[ig];B[ih]C[bignose: Another missed opportunity.  Saving these stones is worth little compared to the unsettled territory on the side and corners.]
+;W[cc];B[hb];W[ic];B[fd];W[ge];B[ff]LB[cb:a]C[bignose: Black should attempt to gain life for the top group by increasing its territory; a play at 'a' leaves more opportunities.]
+;W[ib];B[fe];W[he];B[cb]LB[bc:a]C[JM -- Would D9 have been the stronger move?
+
+bignose: No, this move is much stronger, increasing the scope in the corner and threatening a follow-up move at 'a'.]
+;W[bb];B[cd]LB[gb:a][db:b]C[bignose: Black's group is already weak at one end (at 'a'); this move gains nothing and ignores the new weak point at 'b'.
+
+Don't attack unless you have strengthened your weak points; connecting at 'b' is much better.]
+;W[bc];B[de];W[bd]LB[gb:a][db:b][dd:c]C[bignose: Black now has three weak points in this group: 'a', 'b' and 'c'.  It is unreasonable to ignore them for so long.]
+;B[dd];W[cf];B[eb];W[gb];B[fb];W[le]C[bignose: White has learned to protect weak points when the opportunity arises.]
+;B[lg]C[bignose: Notice that protecting a weak point is often a very useful offensive tactic -- White has become stronger in this area, forcing Black to defend against possible attack.]
+;W[fj];B[ke]LB[ek:a][gk:b][di:c]C[bignose: Wrong emphasis again.  White's last move (marked) threatens Black's lower left severely if ignored, while neither Black nor White are in serious danger in the upper right.
+
+Defending at 'a', or counterattacking at 'b' or 'c' if you are feeling confident, is much better.]
+;W[ld];B[lf]C[bignose: Again, Black has much more pressing concerns than this.]
+;W[ek];B[el]C[bignose: The corners are very important.  Allowing White to press this attack will be very costly for Black.]
+;W[fl];B[dk];W[gk];B[ej];W[fk];B[bi];W[bh];B[ch]LB[bj:a]C[bignose: Again, Black is asking for a ko without checking whether he has enough ko threats to win it.
+
+In this case, Black cannot afford a ko and must connect at 'a'.]
+;W[bj];B[di];W[ai];B[bk];W[ci];B[df]C[JM -- Were there any better ko threats?
+
+bignose: Having one good ko threat is not enough, when White has so many -- to gain from a ko fight you must have more ko threats, of a large enough size, that you can either win the ko or gain enough profit when White ignores a threat to take the ko.]
+;W[bi];B[dh];W[cg];B[cl];W[ii];B[ji];W[hi];B[gi]C[bignose: You have done well to connect all your stones together; that in itself can be a very formidable strategy if applied early enough.]
+;W[jj];B[hj]LB[ha:a][ba:b][me:c][fm:d]C[bignose: Black needs to think about maximising end-game territory.  Plays at 'a' or 'b' (sente), 'c' or 'd' (gote) are better.]
+;W[ij];B[fi]C[bignose: Notice that Black's "threat" (marked) cause White to make a move that Black still had to respond to; in the endgame, sente is very important to keep.]
+;W[gj];B[ga]LB[ha:a][ia:b]C[bignose: A play at 'a' would be better, leaving a potential to play later at 'b'.
+Black has correctly found the largest endgame point, but lost sente again.]
+;W[eg]C[bignose: Unreasonable of White; Black need not respond to this at all.]
+;B[eh];W[ef];B[ee];W[ia];B[ha];W[ca];B[db];W[em];B[dl];W[lm]
+;B[dm];W[fm];B[da];W[ba];B[me];W[mc];B[ak];W[bg];B[mf];W[kd]
+;B[md];W[mm];B[mk];TW[aa][ja][ka][la][ma][ab][jb][kb][lb][mb]
+[ac][lc][ad][hd][ae][be][af][bf][hf][ag][ah][hj][ik][gl][hl]
+[il][jl][gm][hm][im][jm][km]TB[ea][fa][gb][ec][ed][kf][mg][fh]
+[gh][jh][kh][lh][mh][ei][ki][mi][lj][ck][al][bl][am][bm][cm]
+C[Methos [18k\]: good game
+JMiller [23k?\]: Thanks.
+Methos [18k\]: thks])

@@ -1,0 +1,255 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+GN[gtl-jm]
+PB[maegima]
+PW[Estrica]
+WR[12k]
+KM[6.5]
+DT[2003-11-23]
+PC[The Kiseido Go Server (KGS) at http://kgs.kiseido.com/]
+RE[W+41.50]
+TM[1800]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+C[HI !
+THANKS FOR REVIEWING MY GAME !
+THIS WAS A COMPLEX GAME IN WHICH BOTH PLAYERS MADE MISTAKES, SO IT WAS QUITE AN EVEN FIGHT.
+BLACK'S MISTAKES IN THE FUSEKI AND EARLY MIDDLEGAME LOST HIM TIME AND PUT HIM WAY BEHIND IN TERRITORY, BUT HE FOUND THE ENERGY TO FIGHT BACK ULTIMATELY.
+AS BLACK WAS IN BYO-YOMI MOST OF THE GAME, HE DID NOT PLAY THE BEST MOVES OUT OF HIS STONES.
+COULD YOU POINT OUT IN YOUR COMMENTS WHICH MOVES COULD HAVE REVERSED THE STEAM OF THE GAME ?]
+;B[pd];W[dq];B[pp];W[dd];B[dj];W[dn];B[cf];W[df];B[dg];W[ce]
+;B[bf];W[ef];B[ch];W[ck];B[cj];W[id];B[pj];W[nc];B[fp];W[hp]
+;B[dp];W[cp];B[eq];W[dr];B[hq];W[gq];B[gp];W[iq];B[hr];W[gr]
+;B[ir];W[ip];B[kr]C[F2 WAS THE PROPER MOVE, WASN'T IT ?
+IS K3 BETTER THAN L2 ?
+
+RGW: Yes, it would be better for B to play F2 here to capture the two white stones and keep his own stones connected.  K3 is probably better than L2.]
+;W[er];B[fr];W[fs];B[fq];W[gs];B[es];W[ds];B[hs];W[es];B[cq]
+TR[eq][fr][fq][fp][gp][dp]C[THIS WAS TOO EARLY I THINK.
+THERE IS A WEAKNESS AT K2, WHICH MAKE ME THINK THAT L2 WAS BETTER AT K2 OR K3.
+SHOULD I HAVE BEEN MORE PATIENT, OR DID I PLAY THE MOVES IN THE WRONG ORDER ?
+
+RGW: Even if L2 were at K3, K2 would still work for W so that would not help B.  Yes, this is too early.  Since K2 captures the four B stones, B needs to secure them first, probably with a move at K3 since this would reduce the liberties of the three W stones.  If W then secures the corner, the marked B stones can then escape by attacking the three W stones.  Once B secures the stones on the H line, this move at C3 becomes deadly to W.]
+;W[do]
+(;B[jq]C[RGW: This is probably the best move for B.  B could make a trade (see the variation), but I don't think it is better for B.]
+;W[eo];B[fn];W[ep];B[hn];W[jo]
+(;B[mp]C[HOW IS N4 STONE ?
+WHAT ABOUT M4, M5 ?
+ANY OTHER MOVE ?
+
+RGW: M4 looks more secure and puts more pressure on the W stones.  I think even L5 would work for B, but it could be dangerous.  (See variations.)]
+;W[jm];B[mm]TR[fn][hn][fp][gp][eq][fq][fr]C[RGW: After the W move at K7, the marked B stones are looking very weak.  B needs to play somewhere around G8 before these stones get surrounded.]
+;W[fl]C[RGW: I think G7 would be more effective for W.];B[em]
+;W[dk]
+(;B[el]C[E9 IS MUCH BETTER, RIGHT ?
+(SEE VARIATION)
+
+RGW: I don't think so.  See my continuation of the first variation.]
+;W[ek];B[fk];W[gl];B[in]C[WAS THIS BAD ?
+SHOULD I HAVE PLAYED H8 OR J8 DIRECTLY ?
+
+RGW: I don't think this is bad.  It should make H8 or J8 more effective.]
+;W[jn]
+(;B[gk]C[RGW: I think this move needs to be at H8 for B to have a chance of escaping.  (See variations.)]
+;W[hl];B[il];W[im];B[hm];W[hk];B[jk];W[gj];B[fj];W[ej];B[fi]
+;W[hi];B[ei]
+(;W[ll]C[RGW: W should have played at C7 to keep his stones connected.  This would almost guarantee the the marked B stones could be captured. (See variation.)]
+;B[kk];W[lk];B[ij];W[hj];B[ki];W[ld];B[cm]SQ[el][em][fn][hm]
+[hn][in][gp][fp][eq][fq][fr]TR[ck][dk][ek][ej]C[WAS C8 BETTER ?
+(WITH THE SECRET KNOWLEDGE THAT MY HIDDEN GOAL WAS D6 GROUP :) )
+
+RGW: Your goal should have been saving the B stones marked with squares since, as I showed before, they could be captured by W if W plays at C7 first.  Since W failed to take advantage of this opportunity, either C7 or C8 for B saves the B stones by capturing the W stones marked with triangles.  The move at C7 is probably better since it does have an effect on the D6 W group, but it seems unlikely that those W stones can be captured.]
+;W[cl];B[dm];W[go];B[fo];W[gn]
+(;B[bm]TR[fl][gl][hl][hk][hj][hi][gj]C[RGW: B would like to play at G7 to keep the marked W stones separated, but this turns into a tricky fight for B and W.  (See variation.)]
+;W[fm];B[en];W[bl];B[jp];W[ho]
+(;B[bo]TR[dn][do][eo][ep][cp][dq][dr][ds][es][er][fs][gs][gr]
+[gq]C[WERE C5 OR B4 BETTER ?
+
+RGW: I think B5 is better since it gives B more liberties.  By attacking the marked W stones, B is in danger of losing his own stones.]
+;W[bp];B[bq];W[cr];B[br];W[bs]C[WHAT ABOUT A2 HERE ?];B[co]
+;W[dp];B[al]C[RGW: Yes, these are the W stones B needs to capture first.]
+;W[mh]SQ[il][ij][jk][kk][ki]TR[hm][hn][in]C[I PLAYED QUITE BADLY IN THIS AREA
+
+RGW: After W captured the three B stones marked marked with X's, the B stones marked with squares were weakened and could be attacked as W now does.]
+;B[lj];W[mj]
+(;B[lm]C[RGW: This move just helps W by forcing W to connect at M8. L8 at least has a chance of splitting the W stones.  (See variations.)  I don't see any good moves for B since there's not enough room for B to get two eyes and there is nowhere for B to run to.  M12 looks like the most interesting move to me, but I don't know that it will go anywhere.  B could sacrifice these stones and play perhaps at P8, but even this is unlikely to secure enough territory.]
+;W[kl];B[mi];W[ni];B[li];W[nk];B[mf]C[RGW: This move is too far from the other B stones.  It would be more helpful at M13.]
+;W[lg];B[oh];W[nh];B[of]TR[il][ij][jk][kk][lj][ki][li][mi]C[RGW: Giving up the marked B stones and grabbing territory could work, but W has too much territory at the top.  B needs to invade the top and secure the lower right corner.]
+;W[ng];B[og];W[nf];B[kg]TR[il][ij][jk][kk][ki][li][mi][lj]C[RGW: The marked B stones are in even worse shape now that W has more stones in the area so this move is unlikely to help.]
+
+(;W[kh]C[RGW: Better at K12.];B[jh];W[lh];B[hg]
+(;W[ji]C[RGW: W misses another chance to capture most of the B stones by playing at J12.]
+;B[ii];W[kj];B[hh]
+(;W[io]C[RGW: Unnecessary.  J9 works better.];B[pm]C[RGW: With the corner so open, B can probably only get the side or the corner but not both.  You decide on the side ...]
+;W[qq]C[RGW: ... so W tries to take the corner.  I don't know that securing the corner and giving W the side would be better or worse so I can't fault your decision.]
+;B[pq];W[qp];B[qo];W[ro];B[rn];W[qn];B[po];W[rm];B[rp];W[sn]
+;B[rq];W[pn];B[on];W[om]C[RGW: W gets too greedy.  He should have played R7 first.]
+;B[qm];W[rn]
+(;B[ol]C[CAN BLACK KILL THIS WHITE S6 ?
+
+RGW: I don't think S8 works, but I think R9 does. (See variations.)]
+;W[ql];B[pl];W[qk];B[qj];W[rk];B[rj];W[sl]
+(;B[pk]C[WAS Q9 NECESSARY ?
+
+RGW: I don't think so although B would have to be careful if he played elsewhere. (See Q17 variation for example.)  O7 would be more efficient than Q9.]
+;W[nm];B[nl];W[nn];B[oo];W[mn];B[ln];W[lo];B[mo];W[kp];B[kq]
+;W[qc];B[qd];W[pc];B[gd]C[RGW: Probably B's last chance to catch up on territory.  G17 would have a better chance of living in W's territory, but G16 has a better chance of connecting out so I can't say which is better.  Something like J17 might even work, but it's difficult to read out.]
+;W[ge];B[fd];W[fe];B[hd];W[ie];B[he];W[hf];B[if];W[gf]
+(;B[ke]TR[hg][hh][if][jh][kg][ii][ij][il][jk][kk][mf]C[RGW: J17 would give B a better shot at living on the top, but then W can attack the marked B stones. (See variation.)]
+;W[jf];B[ig];W[jg]C[BLACK IS BEHIND, CAN HE SACRIFICE THE CENTER STONES TO INVADE THE UPPER EDGE ?
+
+RGW: At this point, that is probably B's only hope because the top is too big to let W get it all.]
+;B[ih];W[kf];B[je]C[RGW: I think J17 is still the best move on the top so B can make a living group.]
+;W[jd];B[lf];W[kg];B[md];W[kd];B[le];W[nd];B[mc];W[mb];B[lc]
+;W[mg];B[me];W[kc];B[nb];W[lb];B[od];W[oc];B[dc]TR[ce][dd][df]
+[ef][fe][ge][gf][hf]C[RGW: This has some potential since it threatens to either live on the top or cut off the marked W stones.  Unfortunately B needs a move at F12 or F13 to save his center stones.]
+;W[cc];B[be]C[RGW: Drawing back at E17 seems more natural since it gives B more eye space at the top.]
+;W[bd]C[RGW: W at E17 first may have been better.];B[ed]
+(;W[ee]C[RGW: E17 might still be better for W here since this only forms a false eye for W.]
+;B[ic];W[gh]C[RGW: This is looking bad for B's center stones.]
+;B[gg];W[fg];B[fh];W[gi];B[eg]C[RGW: This shows how useless W's false eye is.]
+;W[de];B[ff];W[cd]C[I WAS IN BYO-YOMI, I MAY NOT HAVE PLAYED THE BEST MOVES, HOW TO KILL ? (I'M PRETTY SURE IT IS POSSIBLE).
+
+RGW: This has actually turned out better for B than I expected, but it's a hard ko for B because of his weak stones on the top.  I don't see any obvious move for B.]
+;B[cb]C[RGW: B is getting stretched a little too thin here.  D18 might be better although it lets W get more liberties.]
+;W[db]
+(;B[eb]C[RGW: What about A16 instead?  (See variations.)];W[da]
+;B[ca];W[ec];B[ea];W[dc];B[bb];W[fc];B[fb];W[fg]TR[ed][fd][gd]
+[hd][he]C[RGW: Bad move -- H17 for W would have ended the situation by capturing the marked B stones.]
+;B[ik];W[gm];B[ff];W[qr];B[gb]C[RGW: Good move since it eliminates W move at H17.]
+;W[fg];B[ad];W[jj];B[ff];W[gc]C[RGW: Questionable ko threat since B's response reduces W's liberties.]
+;B[hc];W[fg];B[kb]C[WRONG KO THREAT :(
+ I KNOW A4 WAS THERE, BUT I THOUGHT THIS ONE WAS BIGGER BECAUSE I MISREAD.
+
+RGW: Easy to do when you don't have much time.];W[jl];B[jc]
+;W[ne];B[ia];W[rr];B[pr];W[ac];B[ae];W[bc];B[rc];W[rb];B[rd]
+;W[oe];B[pe];W[oi];B[ph];W[pi];B[qi];W[lp];B[lq];W[ko];B[mq]
+;W[ml];B[oj];W[nj];B[ap];W[ar];B[ao];W[aq];B[sb];W[ra];B[la]
+;W[ma];B[ka];W[di];B[eh];W[ci];B[bj];W[bi];B[bk];W[dh];B[bh]
+C[RGW: Wrong -- D8 captures the W stones.];W[sj]C[RGW: Wrong -- C13 captures the B stones!]
+;B[ai]
+(;W[si]C[RGW: W seems to be ahead (not on the board, but because of captured stones) so this move is sufficient.  If W were behind, R12 would be better since it could kill this B group so maybe the move at T10 wasn't so bad after all.]
+;B[rh];W[ri];B[sh];W[sk];B[qs];W[sq];B[rs];W[sp];B[cn];W[ok]
+;B[qh];W[qb];B[tt];W[tt]TW[aa][ba][ca][na][oa][pa][qa][ab][bb]
+[cb][nb][ob][pb][lc][mc][md][je][ke][le][me][ff][if][lf][mf]
+[gg][hg][ig][hh][ih][jh][ii][ki][li][mi][ij][lj][ik][jk][kk]
+[mk][il][rl][hm][sm][hn][in][so][rp][bq][cq][rq][br][as][cs]
+TB[fa][ga][ha][ja][hb][ib][jb][sd][qe][re][se][af][pf][qf][rf]
+[sf][ag][bg][cg][pg][qg][rg][sg][ah][dh][bi][ci][di][aj][ak]
+[am][nm][om][an][bn][mn][nn][no][np][op][nq][oq][jr][lr][mr]
+[nr][or][is][js][ks][ls][ms][ns][os][sc]SQ[bl][cl][ck][dk][ek]
+[ej]C[RGW: The game record says that W won by more than 40 points, but didn't seem to count the captured W stones that are marked with squares so it wasn't quite that bad.
+
+In any case, both B & W made a lot of mistakes, but your mistakes seemed to be more costly.  I know that playing in byo-yomi is difficult so this in not surprising.  Overall, however, not too bad for your current level of play.  Keep practicing and studying.]
+)
+(;W[qh];B[rh];W[qg];B[pf];W[rg];B[si];W[sk];B[sg];W[sf]C[RGW: Another big ko.]
+))
+(;B[ad]
+(;W[ec];B[bc];W[dc];B[bb];W[hc];B[gc];W[hb];B[gb];W[ib];B[da]
+;W[fb];B[fa];W[ea];B[eb]C[RGW: W has to fight the new ko (if W takes the ko at F13, B captures at F17 and W definitely loses), but this is a huge ko so finding a good threat will be tough. G19 is such a threat, I think.]
+;W[ga];B[ha];W[ea];B[ia];W[jb];B[eb]C[RGW: I don't think W has a threat big enough.]
+)
+(;W[bc]
+(;B[ac];W[bb];B[ab];W[ec];B[fb];W[ca];B[eb]C[RGW: Not very good for W, but W may have enough liberties now to fight the ko.]
+)
+(;B[bb];W[ec];B[ac];W[dc];B[fb]C[RGW: Also looks bad for W, but W can fight the ko.]
+))))
+(;W[ec];B[db];W[eb];B[ee];W[de];B[fg];W[ff];B[fh]C[RGW: B connects his center stones to the left side, but now has little chance of living on the top or capturing the W stones.]
+))
+(;B[ic];W[jc];B[ib];W[jb];B[ec];W[dc];B[eb];W[db];B[gb]C[RGW: B is probably alive, but W can cut off the B center stones.]
+;W[gh];B[gg];W[fg];B[fh];W[gi];B[eg];W[ff];B[bd]C[RGW: B can threaten to kill the W stones, but W can probably capture the B stones in the center before B could capture the W stones.]
+))
+(;B[pc];W[pk];B[ok];W[oj];B[nm];W[pi]
+(;B[qh];W[qi];B[ri];W[oi];B[ph]C[RGW: B saves his stones, but loses territory.]
+)
+(;B[oi]C[RGW: B would like to cut, but it leads to a ko.];W[qi]
+;B[nj];W[ri]
+(;B[sj];W[oj]C[RGW: A dangerous ko for B.])
+(;B[oj];W[sj]C[RGW: If B connects instead of fighting the ko, he loses a lot of territory.]
+)))
+(;B[nm];W[pk];B[ok];W[oj];B[oi]))
+(;B[rl];W[ql];B[pl];W[qk];B[rk];W[pk];B[ol];W[ok];B[nm];W[rj]
+C[RGW: Not good for B.])
+(;B[qk]
+(;W[ql];B[pl];W[rl];B[rk];W[ol];B[pk];W[oo];B[nn]C[RGW: Good for B.]
+)
+(;W[pl];B[ql];W[nn];B[oo];W[nm];B[lo]C[RGW: Ok for B.])
+(;W[rl];B[rk];W[ql];B[pl]C[RGW: Ok for B.])
+(;W[rk];B[rj];W[ql];B[pl];W[rl]C[RGW: Ok for B.])))
+(;W[ik]
+(;B[jl];W[jj])
+(;B[jj];W[ki]
+(;B[ih];W[jl])
+(;B[gi];W[jl];B[ih]))))
+(;W[ih]
+(;B[ig];W[ji];B[jg];W[kj];B[gh])
+(;B[ji];W[ig];B[jg];W[if])))
+(;W[jh];B[kh];W[ig]C[RGW: B has nowhere to go and can't possibly get two eyes.]
+))
+(;B[kl]
+(;W[km];B[lm];W[nk])
+(;W[lm];B[km];W[kn];B[ln];W[mn];B[lo];W[mk]))
+(;B[lh]
+(;W[mi];B[kf];W[mf];B[ig];W[gg];B[hh];W[gh];B[ii]C[RGW: B might get two eyes, but it will be hard.]
+)
+(;W[mg];B[mi];W[ni];B[mk];W[li]C[RGW: Not a good ko for B, but B might get some compensation.]
+))
+(;B[kg];W[li];B[lh];W[kj]
+(;B[ji];W[lg];B[kh];W[lf]C[RGW: Not good for B.])
+(;B[mg]C[RGW: B might save some of his stones.])))
+(;B[bp]C[RGW: This move leads to complicated variations.];W[bo]
+
+(;B[bq];W[bn];B[al]
+(;W[ak];B[am];W[cn]C[RGW: B doesn't have enough liberties to play at D8 but A10 works.]
+;B[aj];W[an];B[bk])
+(;W[bj]
+(;B[ak];W[aj];B[dl];W[bk];B[am];W[an]C[RGW: This time, W wins.]
+)
+(;B[dl];W[bk];B[bi];W[cn];B[am];W[an]C[RGW: W wins this way.]
+)))
+(;B[cr];W[bq];B[cs];W[dp];B[ap];W[aq];B[an];W[ao];B[al];W[ak]
+;B[am];W[bj];B[bi];W[cn];B[ai];W[bn]C[RGW: W wins this one.]
+))
+(;B[co]C[RGW: This move also leads to complicated variations.]
+;W[cn]
+(;B[bo];W[bn];B[an];W[dp];B[bp]
+(;W[bq];B[cr]C[RGW: B wins this time.])
+(;W[dl];B[am];W[al];B[ao];W[bq]C[RGW: W wins this one.]))
+(;B[bn];W[bo];B[cr];W[bq];B[cs];W[dp];B[ao];W[am]C[RGW: W wins this one.]
+)))
+(;B[gm];W[ho];B[fm];W[bm]
+(;B[bn];W[bl];B[cn];W[bo])
+(;B[cn];W[co];B[bn];W[bl];B[bp])))
+(;W[cm];B[ij];W[hj];B[ii];W[hh];B[ll];W[go];B[fo];W[gn];B[gm]
+;W[ho];B[fm];W[dm];B[jp];W[io];B[ko];W[dl]))
+(;B[hl]
+(;W[hm]C[RGW: If W plays the obvious move, I think B can escape.  (See the variation, however.)]
+;B[gm]
+(;W[im];B[gk])
+(;W[gk];B[im]))
+(;W[gm]C[RGW: This doesn't look very good for W, but I think it captures at least some B stones.]
+
+(;B[gn];W[hm];B[im];W[il];B[hk];W[gk];B[ik];W[jl];B[fj];W[gj]
+;B[fi];W[gi]
+(;B[cl];W[dl];B[dm];W[cm];B[bl]C[RGW: This looks like it might work for B, but ...]
+;W[en];B[fm];W[fo];B[go];W[io]C[RGW: B loses.])
+(;B[cm];W[dm];B[dl];W[cl];B[bm]C[RGW: Once again, B doesn't have enough liberties inside.]
+))
+(;B[il]C[RGW: If B doesn't connect at G6 ...];W[go]
+(;B[fo];W[gn];B[ho];W[en];B[fm];W[dm])
+(;B[gn]C[RGW: B can escape with some stones and capture some W stones ...]
+;W[fo];B[gk])))))
+(;B[ek];W[el];B[dl]
+(;W[dm]C[RGW: W can give up the 2 W stones.];B[cl];W[hl]TR[em]
+[fn][hn][fp][gp][eq][fq][fr]C[RGW: W can afford to sacrifice the two stones to capture all of the marked B stones since I don't think B can escape.]
+;B[im];W[il];B[jl];W[km])
+(;W[cl];B[dm];W[cm];B[hl];W[gm];B[gn];W[hm];B[in]
+(;W[im];B[jn];W[kn];B[ko])
+(;W[jn];B[im];W[il];B[gl];W[fk];B[fm];W[ej];B[ei];W[fi];B[gj]
+;W[fj];B[jl];W[ik];B[hj]))))
+(;B[ko]
+(;W[kp];B[jp];W[kq];B[jr];W[io];B[lp])
+(;W[jn];B[gl];W[kp];B[jp];W[io];B[lp])))
+(;B[ep];W[jr];B[cr];W[is];B[co];W[bp];B[bo];W[bq];B[br];W[go]
+;B[ap];W[fo];B[aq];W[eo];B[cp]))

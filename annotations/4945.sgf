@@ -1,0 +1,193 @@
+(;FF[4]GM[1]SZ[19]ST[1]CA[utf-8]AP[SGFC:1.15]
+
+GN[FabioCosta17k-mykcs-questions]
+PB[mykcs]
+PW[FabioCosta]
+WR[17k]
+KM[6.5]
+DT[2007-04-21]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[W+Resign]
+TM[1800]
+
+C[That was a game between beginners. Ranked, even.
+
+[Calvin\]: Hi.  I hope you find my comments helpful.  In this review, I'm going to refer to "Sensei's Library" at http://senseis.xmp.net for you to find out more about the concepts I'm covering.  It may be helpful to read the section on "Basic Instinict" before trying to follow this review, because it will make some of my comments easier to understand:
+
+http://senseis.xmp.net/?BasicInstinct];B[pp]LB[pd:A]C[[Calvin\]: In real life, the etiquette is for black to play his first move in his own upper right corner, near white's left hand.  On online servers, the convention is for black to play in the upper right.  Most game records you see from professional games will be recorded this way, so there is no reason not to follow the convention.  Black 1 should therefore be at A (Q16).]
+;W[ec];B[dp];W[pd]C[[Calvin\]: Both players have played in empty corners.  This is good.  One of the first principles of the opening is to play in the most open areas, away from your opponent's strong groups.]
+
+(;B[qq]C[[Calvin\]: This is the first questionable move.  When playing a symmetrical corner point as an opening move (such as the 3-3 or 4-4) , it is usually not urgent to play another move near there immediately.  See variations for possible black ideas.]
+;W[jd];B[po]LB[ce:A][qf:B]C[[Calvin\]: Black 7 is slow.  In the opening, one wants to sketch out large areas rather than adding stones to already strong formations.   Black A or B are better choices.   Think about it this way: does white want to play at Q5?   No.  It will have no effect on black's strong stones here.]
+;W[pj]SQ[jd][pd]C[[Calvin\]: The formation of white's marked threes stones is a good moyo shape.  This is not territory---black can easily invade, but white will profit from attacking.]
+;B[eq]C[[Calvin\]: Also slow.];W[ek];B[co]C[[Calvin\]: So far, white's opening is superior.  White is sketching out a large framework or "moyo" but black is enclosing territory with slow moves.]
+;W[cm]LB[ck:A]C[[Calvin\]: This move is too close to black's strong group.  White could hold back at A.]
+;B[dn]C[[Calvin\]: This contact move may help white get stronger.]
+
+(;W[em];B[cn]SQ[co][dn]C[[Calvin\]: The marked shape forms an "empty triangle" which is a bad shape.   See http://senseis.xmp.net/?EmptyTriangle]
+;W[bm];B[dm];W[dl];B[cl]
+(;W[dk]SQ[dl][ek]LB[ck:A]C[[Calvin\]: Another empty triangle.  The simplest move is to capture black's stone in a ladder at A.  See variation.]
+;B[bl]TR[al][bk][ck]SQ[am][bn]C[This move captures the white stones.  Note that black's group has three liberties (marked with triangles) and white has two (marked with squares).   Capturing races can be complicated, but this one is easy to read out, and it is not possible to rescure the white stones.  It is possible to sacrifice them, however.]
+;W[al]C[[Calvin\]: This move doesn't work.]
+(;B[am]LB[bn:A]C[Black should just play at A.  See variation.]
+;W[an];B[ak];W[bk];B[am];W[aj]
+(;B[al]LB[bn:A]C[For this C9 is forceful... But how could W make it more expensive for B?
+
+[Calvin\]: I don't undestand your question.  In any case black should have captured at A.   If white C9 instead of A10, black will still capture at A.]
+;W[ck]C[[Calvin\]: Lucky white :-)]
+(;B[fp]LB[qc:A]C[When I played this game I thought in maintain max influence in upper side (counting from Tengen). That was good?
+
+[Calvin\]: The position favors white.   Black is still playing slow moves.   Black is behind, and should therefore invade.  A is a natural place.  See variation.]
+;W[hn]LB[cd:A][nd:B]C[[Calvin\]: A nice move to reduce black's bottom side.  White can also play moves such as A (C16) or B (O16) to continue building the moyo.]
+
+(;B[gp];W[fn]C[[Calvin\]: Slow.];B[hq]
+(;W[gn]C[[Calvin\]: White should not copy black's slow moves.  Think: Black cannot play here.  See variation.]
+
+(;B[om]LB[ql:A]C[[Calvin\]: A is better, but black needs to invade instead.  See variations for possible ideas.]
+;W[nl]
+(;B[qm];W[pl]C[[Calvin\]: Black doesn't need to answer this peep.]
+;B[kd]C[[Calvin\]: It's good for black to tenuki.  A tsuke (http://senseis.xmp.net?Tsuke) to invade like this is an interesting idea.  In any case, black must do something on the upper side.]
+
+(;W[md]SQ[kc][jc][je][ke]C[[Calvin\]: White should respond to black's contact move directly by playing at one of the marked points.  See variations.  Also see http://senseis.xmp.net/?BasicInstinct]
+;B[qe]LB[qc:A][jc:B]C[[Calvin\]: It is still easy to invade at A.  This move helps white.   Black can also continue the contact fight by playing at B.]
+;W[qg]SQ[pe]LB[qd:A]C[Playing in square could be better?
+
+[Calvin\]: Yes.  Or at A.];B[pe]CR[qd]TR[oe][pf][qf][re]SQ[od]
+[pc]C[[Calvin\]: Note how black has 5 liberties and white has 3 (the circle point (R16) is a shared liberty.)  This gives black an advantage locally.  White still has more stones in the area, but this way black makes trouble.]
+
+(;W[re]SQ[oe]LB[od:A]C[This was good or playing in squarte should be better? How could I response better from the extension?
+
+[Calvin\]: A (P16) is the shape to remember.   White should try to increase his own liberties rather than decreasing black's.   See variation.]
+
+(;B[od]LB[qd:A]C[[Calvin\]: A (R16) is natural.   See variation.]
+;W[pc];B[oc]
+(;W[ob]LB[rd:A]C[Black pressed myself, but I believe that I made good shape and was able to avoid some danger in upper right corner. That's a good vision?
+
+[Calvin\]: It's still a fight.  Instead of P18, white can consider A.  See variation.]
+
+(;B[nc]C[[Calvin\]: It should feel good to give black a bad shape like this.  In this case, however, black could play differently.]
+;W[mc];B[mb];W[nb];B[nd]LB[oe:A]C[[Calvin\]: Better to just connect at A.]
+;W[oe];B[ne]
+(;W[mf]LB[of:A]C[[Calvin\]: White should connect at A.];B[me]
+;W[of];B[le];W[ld];B[na];W[pb];B[lc]C[[Calvin\]: Black's shape is very strong.  Black's invasion is a resounding success!]
+;W[ke]LB[cd:A]C[[Calvin\]: This move has no effect on black.  White should play away from thickness, perhaps at A.  http://senseis.xmp.net/?PlayAwayFromThickness]
+
+(;B[kf]LB[cd:A][cc:B]C[[Calvin\]: If black is going to play atari, the other one is better, but actually black is settled here.  Now is a great time to invade at A or B.  See variation.]
+;W[je];B[id]C[[Calvin\]: Black cannot capture white by removing liberties, so this move is not effective.]
+;W[kc];B[ld];W[oa];B[jc];W[kb]LB[ic:A]C[[Calvin\]: Normally, it's a good idea to sacrifice more than one stone.  However, in this case the extra stone doesn't give white more sente.]
+;B[jb];W[lb]
+(;B[ik];W[ma]SQ[id][jc][jb]C[[Calvin\]: It is normally not worth saving three stones like this, but since there cutting stones, I think the idea is good.  Now black's marked stones are cut off and black is having some liberty problems.]
+;B[ka];W[mc];B[ja]
+(;W[mb]C[[Calvin\]: Filling in a point like this is usually one of the last moves in the game.  See variation.]
+;B[ie];W[jf];B[if];W[jg];B[kg];W[kh];B[jh];W[ig];B[lh]
+(;W[ji]C[[Calvin\]: Usually best to connect.];B[ki];W[ih];B[mg]
+;W[kh];B[nf];W[li];B[qd];W[kj];B[lf];W[mh];B[mi];W[lg];B[og]
+;W[nh];B[pf];W[jj]SQ[ji][kj]C[[Calvin\]: This move is very slow.  White's shape is already very strong.  Also, we see here another empty triangle.]
+;B[ni]
+(;W[ij]C[[Calvin\]: Removing a liberty from this black stone is not the correct way to attack.  To attack, surround from a distances.  See variation.]
+;B[oh];W[oi];B[lh];W[oj]SQ[oi][pj]LB[ic:A]C[[Calvin\]: Another empty triangle.  Still, A is biggest.]
+;B[ng];W[ii]C[[Calvin\]: Dame point.];B[qa]C[[Calvin\]: A last-ditch attempt for black to get back in the game by killing white.  The problem is, it doesn't work.]
+;W[rb];B[mj]SQ[mi][ni];W[lj]SQ[kj][li];B[rc];W[qc];B[sb];W[ra]
+;B[sa];W[sc];B[sd];W[rd];B[rf];W[rc]C[[Calvin\]: unnecessary.]
+;B[se];W[sf];B[hj]C[[Calvin\]: This has no effect on white.]
+;W[gj];B[gi];W[fj];B[ej];W[ei];B[dj];W[cj];B[gk]
+(;W[di]SQ[oi][oj][pj][nl][pl]C[Should here I lauched an attack to bottom? Or maintaining myself in the upper side should be more ok?
+
+[Calvin\]: These stones were already captured in a ladder, so capturing them explicitly like this is slow, because black doesn't have a good ladder breaker.   At  this point which should ask if he has a weak group.  The marked white group is potentially weak, so the proper idea would be to try to connect it.  See variation.]
+;B[fi]C[[Calvin\]: These black stones should really have no chance.]
+;W[fh];B[ej];W[dj];B[fk];W[ej];B[eh];W[gh];B[fg];W[hi]
+(;B[op];W[ll];B[no]
+(;W[lk];B[ic]SQ[jc][jb]C[[Calvin\]: Finally, black connects.  However, the shape is bad.  Another empty triangle.]
+;W[hh]MA[mb][rc][ii]LB[gc:A]C[Which was the good and bad moments of this game? How could White (me) and black (my opponent) enhance our go skills?
+
+[Calvin\]: At your level, it may be too soon for black to resign even though white is ahead.  (Although white should have played at A (G17) to remove black's base.  H12 is a dame point.)
+
+General comments for black: Try to develop faster in the opening by playing larger extensions and playing in the most open areas.  If your opponent is making a moyo that is larger than yours, invade.  If yours is bigger, you can continue building, but with larger jumps rather than slow moves such as nobi and kosumi.  You will notice how white develops faster in the opening (up to, say, move 10).  Black would do well to play more like that.
+
+General comments for white: Do not imitate your opponent's slow moves!   Also, when attacking, try to surround your opponent's weak group from a distance rather than playing close moves.   At several points in the game where white plays dame points, filling in his own territory or eye shapes.  The moves marked with an X are actually worse than passing, because they reduce the liberty count of the whole group.
+
+For both players: There are very basic reading mistakes in this game.  Practice reading out ladders and nets, and do life & death problems to improve reading ability.  To understand the flow of the opening better, play through the first 50 moves of many professional games.  You can find SGF files at http://gobase.org of many pro games.  It will be very hard at your level to understand the moves, but don't worry about that.  Gradually you will develop a feeling for the big points in the opening.  It is also a good way to learn about Go culture.
+
+The most common bad habits I see in this game are filling in liberties on groups that have many more liberties (these moves generally have no effect) and making the empty triangle shape.  A good introduction to shape is Charles Matthews' articles at http://gobase.org/studying/articles/matthews/shape_up/.  It is a little advanced for your level, but it is not too soon to start thinking about better shapes.
+
+Play lots of games, enjoy simple life&death problems, try to get handicap games from stronger players, and you will both improve quickly!]
+)
+(;W[mk]C[Better shape.]))
+(;B[lo]SQ[id][ie][if][ja][jb][jc][ka]C[[Calvin\]: Better idea if black want's to enclose territory.   But black doesn't have time for this.  Black's marked stones are very weak.]
+)
+(;B[hc]C[[Calvin\]: It is urgent to defend the cut.]))
+(;W[mk]LB[lk:A]C[[Calvin\]: This move is proper defense.  It is hard for black to cut at A.]
+))
+(;W[ll]SQ[ik]C[[Calvin\]: A move like this should remove any worries what has in  and is an effective attack on black's marked stone.  Black has nowhere to run.]
+)
+(;W[ic]C[[Calvin\]: Note that this is pretty big.   White can just end the game now.]
+))
+(;W[ki]))
+(;W[lf]SQ[lc][kd][ld][le][me][ne][nd][od][nc][oc]C[[Calvin\]: Try reading out if black's marked stones can escape from this!]
+))
+(;B[ma]C[[Calvin\]: Black should connect to prevent white's connection.]
+))
+(;B[cd]C[[Calvin\]: This in the best point for black.];W[de]
+;B[ce];W[df];B[cg]SQ[ec][de][df]C[[Calvin\]: If white presses, the influnce produced is negated by the influence of black's strong position on the right.]
+))
+(;W[of]LB[me:A]C[[Calvin\]: This move threatens a ladder at A to capture black's five stones and also surrounds black's two stones.  Black cannot save both.]
+))
+(;B[nb]
+(;W[pb];B[mc]C[[Calvin\]: Stronger shape for black.])
+(;W[nc];B[pb];W[qb];B[oa]C[[Calvin\]: Not good for white.])))
+(;W[rd];B[qd];W[qc];B[rc];W[rb];B[sc];W[qf];B[pb];W[qb];B[oe]
+LB[rf:A]C[[Calvin\]: White can live, but black can make thickness.   Black retains A is a ko threat.]
+))
+(;B[qd]SQ[pd][re]C[[Calvin\]: This is the strongest punishment.  White's marked stones are hurt and separated.]
+))
+(;W[od]C[Now both white and black have 5 liberties, so locally it's a fair fight (although it's black's move.)  See also how this helps connect white to the stone at N16.]
+))
+(;W[kc]C[[Calvin\]: Usually this is a good move.];B[jc]C[[Calvin\]: Black might crosscut, but white can handle this.]
+;W[lc]C[[Calvin\]: By simply extending, white can now capture either L16 in a ladder or K17 in a longer sequence.  See variations for black's next move.]
+
+(;B[ic]C[[Calvin\]: If black saves this stone...];W[ke]C[[Calvin\]: white can ladder this stone.]
+)
+(;B[ke]C[[Calvin\]: If black tries to pull out the outside stone...]
+;W[ic]SQ[jd][kc][lc]C[[Calvin\]: Remember this shape for capturing a stone on the third line.  The M17 stone is key to making it work.]
+;B[jb];W[ib];B[kb];W[lb]C[[Calvin\]: White can capture the other one.]
+))
+(;W[je]C[[Calvin\]: This is one idea to give black fewer forcing moves.]
+))
+(;B[nm];W[ml]LB[qm:A]C[[Calvin\]: This would be the basic instinct sequence.  After this, black can still invade white's moyo.  Black need not fear white's slide at A, because that doesn't threaten black and is better left for the endgame.]
+))
+(;B[qc]C[[Calvin\]: This is the easiest.];W[pc];B[qd];W[qe]
+;B[re];W[qf];B[rf];W[qg];B[pb];W[ob];B[qb];W[nc]C[[Calvin\]: Black gouges out some territory in sente.]
+)
+(;B[qf]C[[Calvin\]: Black can also invade here.];W[qe];B[pf]
+;W[nd];B[qh]SQ[pj]C[[Calvin\]: Now white needs to defend his marked stone while attacking, so black should have no trouble settling his group.]
+)
+(;B[cc]C[[Calvin\]: Black can also invade here.];W[de];B[ce]
+;W[df];B[cf];W[dg];B[eb];W[fc];B[fb];W[gc]C[[Calvin\]: Another idea, although the right side is more open.]
+))
+(;W[nd]C[[Calvin\]: Let's say white takes some big point.];B[gn]
+;W[gm];B[go];W[hm]SQ[fp][gp][go]C[[Calvin\]: White is still fine.  Black gains nothing, and if it goes like this, black gets another empty triangle.]
+))
+(;B[kp]C[[Calvin\]: Better to defend like this if defending.  however, protecting territory like this is not enough.  White's moyo is larger, so black should invade.]
+))
+(;B[qc];W[pc];B[qd];W[qe];B[re];W[qf];B[rf];W[qg];B[pb];W[ob]
+;B[qb];W[nc]C[[Calvin\]: Black should try to take some territory in sente like this, then...]
+;B[cc]C[[Calvin\]: Also invade near here.]))
+(;B[bn];W[al]C[[Calvin\]: If white captures...];B[bm]LB[ck:A]
+C[Black can just connect.  White still has a cutting point at A.]
+))
+(;B[bn]C[White can't save these stones.];W[am];B[ak];W[an];B[ao]
+))
+(;W[ck]SQ[cl]C[[Calvin\]: Capturing black's stone in a ladder is fine.]
+;B[bl];W[al];B[bk];W[bj];B[ak];W[aj]C[[Calvin\]: Of course, black will not play out this ladder.]
+))
+(;W[dm]C[[Calvin\]:  This is the proper response locally for white.   (It's basic instinct.) But actually, black's move is small and white can tenuki (play elsewhere).]
+))
+(;B[cd]LB[df:A]C[[Calvin\]: This is the biggest area, however, white can start complicated fights by playing at A, so some players avoid this particular move.]
+)
+(;B[ce]
+(;W[cc];B[ch]C[[Calvin\]: This is a simple way for black to approach.]
+)
+(;W[cg];B[cc]C[[Calvin\]: If white tries to pincer, black can live easily in the corner.]
+))
+(;B[jp]C[[Calvin\]: Black can also play here.  This is a special strategy called "sanrensei" for building a large moyo.  It emphasizes influences over territory.]
+))

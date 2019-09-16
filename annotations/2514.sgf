@@ -1,0 +1,269 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+GN[MyGame]
+PB[OtherGuy]
+PW[rchueng84]
+WR[25k]
+KM[5.5]
+DT[2004-11-08]
+RE[B+6.50]
+RU[Japanese]
+
+C[Welcome reader/viewer to one of my very first games online.
+
+This game was played on Yahoo and I found it interesting, but then again this was my second game online at this piont.
+
+The weird thing is, the guy I went up against seemed to know what he was doing, yet he let me win.  Keep this in mind please and tell me if I'm right or wrong.
+
+Enjoy,
+
+Roger
+
+***********
+
+Hi!  I'm mwigdahl on KGS, and I generally bounce around 14k to 16k.  I'll summarize the game as I see it up front here and give specific comments and variations as we come to them in the file.
+
+*****
+
+I really think that your opponent (black) was not, as you thought, stronger than you.  Both of you seemed to have a reasonably good command of the basic rules and at times made some excellent moves.  At other times some incredibly huge opportunities went unseen for moves at a time.  There were a few colossal blunders that cost black the game.
+
+I'll make most of my specific comments in the first segment of the game -- once the middle and endgame is reached I'll just comment on particularly large issues.
+
+As a general recommendation for you I would strongly suggest studying problems from books like _Graded Go Problems for Beginners_ and the website goproblems.org, which will give you lots of practice in recognizing safe and unsafe groups, solid and breakable connections, dead shapes, etc.  You will be able to use this knowledge to start realizing which of your groups need additional reinforcement and which of the opponent's groups would be susceptible to attack.  You made one comment about making a series of moves because you didn't know how a ladder worked yet.  Ladders are just the tip of the iceberg in this game; there is a whole pattern language that you can learn that will improve your play a lot.
+
+Once you get better at this, you will start using your stones more efficiently.  Every time you defend a safe group or attack an invulnerable one, you give control of the tempo of the game, or _sente_, to the opponent.  The opponent can then go aggressive against you and generally the player that can keep _sente_ the most is in a stronger position to win.
+
+Anyway, on to the game!];B[dq];W[pd];B[dd];W[op]LB[dj:A][dk:B]
+TR[dq]C[RC:
+Just a general question.
+when everone gets a corner, what would black do then?  Attack or defend?
+
+***
+
+It really depends.  Sometimes black will make a shimari, or two-stone group in the corner.  Generally this is done with a stone on the 3-4 point such as the triangled one.
+
+Stones on the 4-4 point generally don't call for shimaris.  That's not to say that they can't be attacked, but another stone in the area generally doesn't work well with the 4-4 stone.
+
+Personally I would attack or extend.  Defending at this point gives up sente, or the initiative, which is a bad idea unless your non-sente move gives you a large amount of profit.  Making a shimari secures the corner, which is worth quite a bit -- generally enough to be worth giving up sente for.  It's just not something I often do.
+
+A stone in the middle, such as at A or B would also be profitable.  It's not really attacking or defending -- more like extending, and is justified by the potential profit.]
+;B[np]C[Bad move for black.  Contact plays generally strengthen both sides.  He's inviting you to make a strong wall to protect the corner, and he gets little (comparatively) in return.
+
+In particular, when the white stone is so far out (5-4 point) it is usually much better for black to aim at a corner invasion rather than pushing on the outside like this.]
+;W[lp]C[You pincer, which is a way to put pressure on black.  The problem is that this gives him a second move against P4, which could be a problem for you.]
+;B[lq]C[Looks like he is trying to slide underneath you.]
+(;W[kq]C[RC:
+Containment? or should I have gone N3?
+
+****
+
+See previous variations.  It looks like N3 can end up good for white, but there is a lot of close combat.
+
+L3 looks to contain by building strength on the left of the group, but black has several good options...]
+;B[mq]C[Including this one, which is probably the simplest.  He is connected and can run to the middle or try to slip into the corner.]
+;W[kr]LB[qp:B][oq:A]C[RC:  Should I have pushed for M2 instead of L2?  Or would that just be a waste because the other guy is already in position to save that group?
+
+***
+
+M2 would be overagressive.  Personally I would have played P3 or R4 long ago.  The corner is valuable and it's still very vulnerable.]
+;B[lr]C[Empty triangle -- inefficient move.  I would have played P3 instead.]
+;W[jp]LB[fc:E][jd:D][cf:F][pj:C][co:G][qp:B][fq:H][oq:A]C[RC:
+Maybe I should have extended more?
+
+***
+
+What are you trying to accomplish with this?
+
+You have a small wall on the bottom now and some prospects to move into the center, but the potential profit is low, you haven't threatened anything of black's, and your stones weren't that vulnerable to start with.  I would have played A or B to protect the corner, C or D to extend from the upper right, E or F to attack the upper left, or somewhere around G to attack the lower left.  H would work well as a combination extension and attack.]
+;B[or]C[Black is trying hard to live here.];W[oo]C[RC:
+I probably should have defended my corner and extended to the side.
+This was, of course, before I learned the importance of corners and sides
+
+***
+
+Yep.  P5 isn't useless, but defending the corner would be better.]
+;B[no]C[But instead of taking the corner, Black extends into the center.]
+;W[nn]C[There is a proverb "hane at the head of two stones".  Either you knew it already or intuited it.  This was good.]
+;B[oq]C[Black finally plays P3, making it very likely that he will live.]
+;W[mo]C[White now has considerable outside strength, with black having free reign in the corner.  I'd give the advantage to black but not by much.]
+;B[pp]C[RC:
+And I lose that part of the corner because I didn't defend it.
+
+***
+
+Yes.  Black moves to get as much profit as he can take.];W[po]
+C[... and you try to minimize the damage.];B[qo]LB[qp:A][pq:B]
+C[Black does a double hane.  This can be legitimate but can be an overextension.  In this case, I believe it is an overplay.  You can cut at A or B and do damage to his position.]
+;W[qp]C[You choose A.  I would have done the same.];B[pq];W[qn]
+
+(;B[qq]LB[ro:A]C[Black may have had a better result by extending to A.  See variation.]
+;W[ro]C[Good.  Sets you up well on the right.];B[rp];W[qo];B[rr]
+C[Black pretty much sews up the corner with this, though his group would live anyway.]
+;W[sp];B[sq];W[rq]C[Starts a ko.];B[sr];W[rp]C[Weak play by black lets you connect without loss.  The problem with the last few moves is that they are very small, only a few points each.  There are much larger points elsewhere on the board that should have been played, even if you lost a few points in the corner by not responding to something.]
+;B[hp]C[Black finally plays somewhere else.];W[gp]LB[fp:A][fq:B]
+C[RC:
+I thought he might have extended to far so I decided a pincer.  Heh I kinda like pincers =)
+
+***
+
+He did extend too far, and you are strong on the right side of his stone, so this isn't bad.  I would have pincered one space to the left, at A or B.]
+;B[fq];W[fp]C[RC:
+I can't remember what I was thinking...
+but that was somewhat dumb to pincer but not cut...
+What I should have done was gone G3
+
+***
+
+Maybe so, but this gives a good start on keeping black low on the bottom and building up strength on the left.]
+;B[gq];W[ho];B[hq];W[ip]C[
+White now has a lot of strength facing the middle.];B[eo];W[do]
+;B[ep];W[fn];B[en];W[ek];B[fm]LB[gn:A][fo:C][go:B]C[White needs to respond at A, B or C or he is dead.]
+;W[em]C[With this move white is now dead.  See variations.]
+
+(;B[fo]C[Terrible move.  Black fails to kill a dead group!]
+;W[gn]
+(;B[dm]C[RC:
+No idea why he didn't take my F4 group.
+Any ideas why?
+Maybe he wanted the inside more than the center.  Which makes sense now, not then.
+
+***
+
+Yes, capturing your group is small (4 points?)  The black group will live whether white escapes with his two stones or not.  The move at D7 is large, allowing black to push upwards and make territory on the fourth line for a bit.  Compare with what would have happened if black captured and white played there instead.]
+;W[el];B[dn]C[Overly defensive by black.  His group is pretty heavy now.]
+;W[go]C[Low value move for white, and those stones are still vulnerable.]
+;B[gm];W[gl];B[dj];W[fl];B[eg]LB[cc:B][fc:A]C[RC:
+Should I respond by attackin from inside or from out?
+
+***
+
+At this point black is strong on the top left.  I'd attack at A, aiming to follow up at B.  This is a standard attack against the 4-4 stone.]
+;W[he]C[A little high and right to be effective against the corner.]
+;B[ge];W[hd];B[gd];W[hm]LB[hc:A][hf:B]C[You lose much more than you gain by capturing.  If Black plays A or B you will lose a lot more than you gained.]
+;B[hg];W[gg];B[gf];W[hf]C[Effectively you both extended one more up, then crosscut.]
+;B[gh]C[Good move by black, the white is dead.];W[fg]C[RC:
+That was dumb of me...];B[fh];W[ff]C[RC:
+This is because I don't know what ladders look like yet.];B[ef]
+;W[fe];B[fd];W[ee];B[de]LB[gc:B][ig:A]C[Black now has great strength in the upper right.  White has a few things to do to regain some compensation, such as A or B.]
+;W[hh]LB[gc:A][ig:B]TR[he]C[This is substantially worse than A or B.  The reason is that it allows black to cut off your two marked groups by extending to B.  This will result in more fighting for life and less territory acquisition.]
+;B[ig]C[And indeed, that is what black does.];W[lf]C[Good extension, perhaps a bit high.]
+;B[hi]C[He tries to capture you in a ladder, but the ladder doesn't work...]
+;W[ih];B[jh]
+(;W[ij]LB[ii:A]C[All you had to do was play out the ladder normally, with A, etc. and you would have eventually won.  See previous variation.]
+;B[ii];W[ji];B[jj];W[ki];B[kj];W[li];B[lj];W[mi];B[mj];W[ni]
+;B[mm];W[nk];B[mk];W[ml];B[ll];W[nl];B[ik];W[jk]LB[hj:A]C[RC:
+I think it is because I wanted to capture the whole black K10 group.
+
+***
+
+Yes, overagressive.  A, saving your white stone, would have been much better.  Black would have been hard pressed to live anyway -- he has little room and is surrounded by a strong white wall on all sides.]
+;B[jl];W[hk]C[RC:
+Or not...];B[hj];W[jf];B[if];W[ie];B[je];W[kf];B[jd];W[hc];B[gc]
+;W[ib];B[jc];W[jb];B[kc];W[kb];B[gb];W[hb]LB[lc:A]C[Unsure why you did this.  A would have killed the black group, I believe.]
+;B[mc];W[mb];B[lb];W[nc];B[lc]LB[la:A]C[Mistake.  A is huge for black.]
+;W[nb]LB[la:A]C[Now A is huge for both black and white, because white can now save the H18 group with it.]
+;B[mf];W[ne];B[me];W[oe];B[mg];W[ng];B[mh];W[ld];B[md]LB[la:A]
+C[RC:
+At this point I should save the L14 group and extend to the L11 group.
+
+***
+
+Yes, there were a lot of weird moves here.  Given the situation, I'd ignore L14 to either concentrate on trying to reduce the large black territory on the left.  Your territory on the right is bigger, but also vulnerable to invasion.
+
+The absolute biggest move right now, though, is still A.  With it, you save nine stones and a few points of territory.]
+;W[nj]C[RC:
+But I didn't....
+
+***
+
+That's still pretty OK.  You are strengthening a large potential territory.]
+;B[kh];W[nh]C[That territory is looking more secure by the minute.  Black is losing ground with every move.]
+;B[lh];W[qi]C[I'd reduce black on the left instead of defending here.]
+;B[oc];W[od];B[pc];W[pb];B[qc]C[RC:
+And this is when I lose the corner];W[oa];B[qd];W[pe]LB[qe:A]
+C[Why not A instead?  If black tried to play where you did you'd capture him immediately.]
+;B[qe];W[pf]LB[qf:A]C[Again, you should be putting pressure on him with A, not allowing him to push and gain room to live too easily.]
+;B[nf];W[of]C[Now you have a worthless clump of white stones and black can push yet farther.]
+;B[qb];W[qa];B[ra];W[pa];B[sb];W[rc];B[rd];W[og]LB[qf:A]C[Unnecessary.  You could not have been cut successfully there.  Better to seal black in with A.]
+;B[qf];W[pg]C[Same mistake.];B[qg];W[ph];B[rh];W[pj]C[What is the point of this?  What did this gain you?]
+;B[ri];W[qj]LB[rj:A]C[Could have played A with good shape.]
+;B[qh];W[rj]C[Finally stopped the bleeding on the right.];B[sj]
+;W[sk];B[si];W[rk];B[nm];W[lm];B[mn];W[ln];B[on];W[pl];B[mp]
+;W[lo];B[pm];W[kl];B[kk];W[km];B[lk];W[jm];B[il];W[im];B[gk]
+;W[hl];B[fj];W[ej];B[di];W[dk];B[ck];W[cj];B[cl];W[ci];B[ch]
+;W[bk];B[bl];W[cm];B[cn];W[ei];B[dh];W[eh];B[dg];W[bh];B[bi]
+;W[bj];B[ak];W[ai];B[bg];W[aj];B[al];W[ir];B[hr];W[er];B[eq]
+;W[cf];B[cg];W[bf];B[ag];W[af]C[RC:
+I wasn't too bright back then.  I should have gone D14 to seal the deal.
+
+***
+
+Yes, D14 would have killed outright.  If black played there he could live.]
+;B[ah]C[RC:
+Yet, he doesn't respond at D14...
+Why?
+
+***
+
+The only thing I can think of is that he didn't realize he was playing into atari.  He was so focused on killing your group that he didn't see he was dooming his own.
+
+This is a good lesson -- don't get so caught up in what you are trying to do to your opponend that you overlook what your opponent is trying to do to you.]
+;W[df];B[ed];W[ef]C[Pointless, these groups were totally safe already.]
+;B[fi];W[ga];B[fa];W[fb];B[ha];W[ia];B[ce];W[ga];B[eb];W[ea]
+;B[cc];W[db];B[ec];W[bd];B[be];W[ae];B[fc];W[fa];B[ac];W[ad]
+;B[bc];W[dc]C[RC:
+And black should save itself by going C16.  Clear as day...
+Unless someone will tell me otherwise.
+
+***
+
+C16 would connect but not save.  At this point you have the entire black group killed.  See the variation.]
+
+(;B[ca];W[da];B[cb];W[cd]C[RC:
+I don't know.  This guy knows what he was doing...or I'm giving him/her too much credit...
+
+***
+
+I think you are giving the opponent too much credit.  You both have some strengths but he doesn't seem able to read ahead very far at all and does not work hard enough at connecting his groups.]
+;B[qm];W[qr];B[qs];W[ss];B[pr];W[rm];B[rs];W[ol];B[nn];W[om]
+;B[pn];W[ql];B[iq];W[sn];B[ko];W[kp];B[dl];W[io];B[cp];W[ks]
+;B[ls];W[mr];B[nr];W[ms];B[ns];W[hs];B[gs];W[is];B[di];W[dj]
+;B[fc];W[fk];B[gj];W[ge];B[dd];W[ha];B[jq];W[jr];B[cr]
+(;W[tt]C[Pass
+
+RC: What I should have done was attack the top-right group.  Because It is breakable I think.  See var.
+
+***
+
+Your variation is right, but it's even better than that -- the black group is dead as it stands.  There's nothing black can do to save it even if he moves first.  Look at the next move variation for the illustration...]
+
+(;B[tt]C[Pass
+
+RC:
+And that ends the game.
+I personally think that Black knew what he/she was doing and was letting me test stuff out.  Or maybe I'm just crazy ;)
+
+In any case, thank you for your time and replies.])
+(;B[aa];W[bb];B[tt];W[ba];B[ab];W[ba];B[bb];W[ba])
+(;B[ab];W[ba]C[Verify for yourself that no matter where black moves first, white can kill.  Scoring should have removed the black group as dead with no need for further plays.]
+))
+(;W[ab];B[ba];W[bb];B[aa];W[bb];B[ab];W[bb]C[RC:  At least that's what I think would happen.]
+))
+(;B[cd];W[cb];B[bb];W[ba];B[ca];W[ab]C[No hope for black.]))
+(;W[ii];B[ij];W[ji];B[ki];W[jj];B[jk];W[kj];B[lj];W[kk];B[kl]
+;W[lk];B[mk];W[ll];B[lm];W[ml];B[nl];W[mm];B[nm];W[mn]C[Now Black is in extreme trouble.]
+))
+(;B[go];W[dm]LB[hn:A]TR[fm]C[Now it is white with a good position on the left.  Black can threaten with A, but may lose the marked stone if he tries.]
+;B[hn];W[gm];B[io];W[fl]))
+(;B[go]
+(;W[gn];B[fo]LB[hn:A]C[Dead, and white is now weak (A is double atari if black plays it)]
+)
+(;W[fo];B[gn]C[Catastrophe!])))
+(;B[ro];W[rn];B[rp]C[Black gets your one stone and the corner, but you now have great strength on the right and you have sente, which means you can play somewhere else and take one of the big points.]
+))
+(;W[mq];B[mp];W[nq];B[kp]
+(;W[mo];B[lo];W[no];B[oq];W[lp];B[mp];W[pq];B[or];W[pr];B[nr]
+;W[mr]C[Something like this is a good result for white.  The lower stones are dead and although black has a good ponnuki shape he has little profit, while white has the corner locked up.]
+)
+(;W[kq];B[lo];W[lr];B[lp]C[This is reasonably good for both sides...]
+)))

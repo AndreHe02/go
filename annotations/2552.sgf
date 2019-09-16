@@ -1,0 +1,174 @@
+(;FF[4]GM[1]SZ[19]ST[1]CA[UTF-8]AP[SGFC:1.15]
+
+GN[Lunes-tzalewski(B) IGS]
+PB[tzalewski]
+BR[6k]
+HA[0]
+PW[Lunes]
+WR[4k]
+KM[0.5]
+DT[2004-06-07]
+PC[IGS:  igs.joyjoy.net 6969]
+RE[W+6.50]
+TM[60]
+
+C[crux: Hi, my name is Bernd Schmidt; I'm around 2d at my local club.  Please use an sgf reader that clearly shows which moves have variations.  I recommend qgo, gGo, cgoban1 or jago.  There are some problems with cgoban2, the KGS client.]
+;B[pd]C[Hi!
+As this is my best level of playing, I would appreciate any comments on my game style and where I could play better. I've lost about 20 points in gote - that's why I've lost.]
+;W[dp];B[dd];W[pq];B[jd];W[qi]C[crux: Here, I'd consider an approach move in the lower right corner - see example variation.]
+
+(;B[dj];W[qf]
+(;B[qd]C[Isn't it too passive?
+
+crux: It is a little.];W[of];B[md];W[cm];B[jq]C[crux: I think I'd prefer an approach move to the Q3 stone.]
+;W[lq];B[gq];W[eq];B[qo];W[qm];B[qq];W[pp];B[qp];W[po]
+(;B[co]C[crux: Maybe a little overaggressive.  No need to go invading that early; while you succeed in making this stone live, you also damage the left side in the process.]
+;W[do];B[cn];W[dn];B[bm];W[cl];B[bl];W[ck];B[bq];W[cq];B[bp]
+;W[cf];B[ce]C[Isn't it too passive?];W[df];B[fd];W[cj];B[ci]
+;W[di];B[dh];W[ei];B[bh];W[bg];B[bj];W[eh];B[ek]C[crux: This may be a bit premature.  This move says "I'm going to move out", but in the end the two stones are just swallowed up by White and become wasted.]
+;W[em];B[lp];W[kq];B[kp];W[jr]
+(;B[iq];W[mq];B[io];W[be]
+(;B[qk]C[crux: I don't think this is a very good invasion.  White isn't threatening to make that much territory there.  See variations for some suggestions.]
+;W[qn]C[crux: Very good answer.];B[pr];W[or]C[Could I win the corner?
+
+crux: Not exactly a standard life-and death problem after W T2, but I think Black has little to worry about.]
+;B[qr]
+(;W[sr];B[rn];W[rm]
+(;B[sn]C[crux: This move seems a little dangerous, but even so I can't imagine the worst case being anything other than seki.]
+;W[sp];B[rq]C[crux: Now White can kill.]
+(;W[sm];B[ro];W[sq]
+(;B[rr];W[ps];B[qs];W[nq]C[crux: This is now a tricky situation.  If there was a white stone at P1, it would be a standard thousand-year ko.  This means: whoever starts the ko is at a disadvantage, since the opponent gets to take the ko first (having to find the first ko threat is a burden), and because he has to ignore a ko threat to fill an internal liberty.  Hence, there is a good chance that no one will start the ko.  
+
+Without the stone at P1, it seems like Black can live in double ko.
+
+In the variations, ko threats go into the upper left corner for illustration purposes.  (Note, there are two variations, one starting with a Black passing).]
+
+(;B[rp]C[crux: Bad, because the exchange of this move for P1 turns the corner into a better ko for White, and Black needs to add another stone.]
+;W[os]C[I didn't want to start komi at T1 and I didn't want to give a chance to W
+
+crux: "ko", not "komi".];B[rs]TR[rp]C[crux: The marked stone now serves no purpose.  Black loses a full move.]
+;W[cc];B[dc];W[cd]
+(;B[ok]C[crux: It seems like these two stones are going to be weaker than the white groups surrounding them.  It may not be such a good idea to pull the lone stone just now.  The group on the lower side doesn't have two clear eyes yet either.]
+;W[nm];B[mk];W[lm];B[pi];W[qj];B[pj];W[qh];B[pg];W[pf];B[qg]
+;W[rg];B[ph];W[re];B[rj];W[rh];B[rd];W[nh];B[pl]C[crux: This seems a little passive; White has little to fear from the Q6 cut, so this shouldn't be sente.]
+
+(;W[pm];B[kk];W[jm];B[ir];W[ik];B[li];W[lg];B[mh];W[mg]
+(;B[ng]C[crux: I'm not convinced Black gains much by cutting here.  As you saw later the main part of White's group can connect out by cutting at S9.]
+;W[og];B[nf];W[oh];B[jh];W[nj];B[nk];W[ne];B[mf];W[oe]C[crux: Black risks serious damage to the upper side.]
+
+(;B[nd];W[me];B[lf];W[le];B[kf];W[od];B[oc];W[ld];B[nc];W[je]
+;B[ke];W[kd];B[id];W[ie];B[hd];W[he];B[ge];W[kg];B[jf];W[jg]
+;B[if];W[ig];B[hf];W[ih];B[sf];W[rf];B[kc];W[lc];B[kb];W[rk]
+C[I didn't see this tesuji before. I could have blocked it.]
+;B[rl];W[sk];B[ql];W[sl];B[om];W[on];B[ij];W[ol];B[ji];W[hi]
+;B[hj];W[fk];B[gi];W[gh];B[gk];W[fj];B[il];W[im];B[hl];W[fr]
+;B[gr];W[kr];B[dr]C[crux: This may be a good moment to start looking for eyes instead.  As you'll see a little later, that black group isn't entirely alive yet.]
+;W[cr];B[er];W[fq];B[fs];W[br];B[bk];W[gj];B[fl];W[el];B[mm]
+;W[mn];B[hn];W[hm];B[gm];W[gn];B[go];W[fn];B[jl];W[km];B[ii]
+;W[fi];B[cb];W[bb];B[db]
+(;W[mb];B[nb];W[sd];B[sc];W[se];B[rc];W[jo];B[jp];W[in];B[ho]
+
+(;W[mj];B[lj];W[fm];B[pk];W[mi];B[lh];W[gl];B[hk];W[na];B[oa]
+;W[ma];B[pb];W[ch];B[cg];W[dg];B[ch];W[ah];B[bi];W[hs]C[My big mistake. Or maybe I could save D2, E2 and F1?
+
+crux: Since White could have killed the whole group, you actually got lucky here.  I don't see a way to save all black stones.]
+;B[hp];W[gs];B[is];W[es];B[hr];W[aq];B[ap];W[ar];B[gg];W[cp]
+;B[bn];W[ca];B[oj];W[ni];B[da];W[ba];B[mo];W[no];B[mp];W[ml]
+;B[np];W[op];B[fo];W[de];B[ee];W[fg];B[ff];W[fs];B[lb];W[mc]
+;B[ai];W[ag];B[ko];W[kh];B[ki];W[hh];B[js];W[ks];B[jn];W[kl]
+;B[lk];W[nl];B[eo];W[fp];B[ep];W[la];B[ka];W[kn];B[jo];W[ef]
+;B[hg];W[en];B[tt];W[tt];B[tt];TB[aj][ak][al][am][an][ao][bo]
+[ea][eb][ec][ed][fa][fb][fc][fe][ga][gb][gc][gd][gf][ha][hb]
+[hc][he][hq][ia][ib][ic][ie][ik][ip][ja][jb][jc][je][jj][jk]
+[kj][ob][pa][pc][qa][qb][qc][ra][rb][sa][sb]TW[aa][ab][ac][ad]
+[ae][af][as][bc][bd][bf][bs][ce][cs][dj][dk][dl][dm][dq][dr]
+[ds][eg][ej][ek][er][fh][fl][gi][gm][lr][ls][mm][mr][ms][nn]
+[nr][ns][om][oo][oq][pn][ri][rj][sf][sg][sh][si][sj])
+(;W[hp]C[crux: What if White plays here?]
+(;B[gp];W[is];B[hs];W[hq])
+(;B[hq];W[hs])
+(;B[hs];W[hq])))
+(;W[pk]C[crux: Can't imagine why White isn't playing this; it threatens to capture another 5 stones so it ought to be sente at this stage.]
+))
+(;B[me]C[crux: This move doesn't seem to help much...];W[oc]
+;B[od];W[nd];B[nc];W[mc];B[nb];W[mb];B[ob];W[ld])
+(;B[mc]C[crux: This seems to be a strong candidate, but there's still aji left.]
+;W[me];B[lf];W[le];B[kf];W[nc];B[nd];W[od];B[oc];W[nb]
+(;B[ob];W[mb];B[lc];W[kc];B[lb];W[kb];B[ma];W[ld];B[na];W[kd]
+C[crux: White breaks through.])
+(;B[mb];W[ob];B[pc];W[kc]
+(;B[ld];W[kd];B[ke];W[lb])
+(;B[kd];W[ld];B[lc];W[lb]))))
+(;B[ni]C[crux: Like this the black group really ought to be alive.  In a situation like this it can be helpful to live as quickly as possible so that you can turn to other matters again.]
+;W[lh];B[mi];W[oh];B[ji]))
+(;W[rk];B[pn];W[pm];B[on];W[om]
+(;B[nn];W[mn])
+(;B[oo];W[no];B[np];W[mp];B[op];W[oq])
+(;B[no];W[nn];B[oo];W[mo])))
+(;B[lm]C[crux: Maybe it's better to just strengthen the lower group while threatening to pull out the lone stone.]
+)
+(;B[hd]C[crux: Black could think about solidifying his upper side.]
+))
+(;B[os];W[ns];B[ss]
+(;W[rs];B[rp];W[ps];B[ss];W[aa];B[ba];W[rs];B[os];W[ca];B[da]
+;W[ps];B[ss]C[crux: No way for White to win.];W[os];B[so])
+(;W[ps];B[rp];W[rs];B[os];W[aa];B[ba];W[ps];B[ss];W[os];B[so]
+))
+(;B[tt]C[crux: Let's see what happens if White has a stone at P1.]
+;W[os]C[crux: Either side could turn the position into seki, but let's see what happens if they don't.]
+;B[tt]C[crux: Another pass, then we get to the thousand-year ko situation with White to play.]
+;W[rs]C[crux: This is the variation where White tries to kill Black instead of opting for seki.]
+;B[ss];W[aa];B[ba];W[rs];B[ca];W[rp];B[ss];W[da]
+(;B[ea];W[rs];B[fa];W[so]C[crux: White ignored two ko threats to kill, and had to find the first threat.]
+)
+(;B[so]C[crux: One ignored one ko threat each allows Black to live.]
+)))
+(;B[rs]C[crux: This move would directly give a seki, without possibility of ko.]
+))
+(;W[ro]C[crux: White can capture two stones, and the rest of the group has a dead shape.]
+
+(;B[rp];W[sm];B[sq];W[so])
+(;B[sq];W[sm]
+(;B[ss];W[rs];B[rr];W[ss])
+(;B[rr];W[ss]
+(;B[ps];W[rs])
+(;B[rs];W[ps]))
+(;B[rs];W[ps])
+(;B[ps];W[rs]))))
+(;B[sp]C[crux: I think this is the most likely candidate.]
+(;W[ro];B[sn]
+(;W[sm];B[so])
+(;W[sq];B[so]))
+(;W[sq];B[ro]
+(;W[rq];B[sn];W[rp];B[rr];W[so];B[rs];W[sm];B[ss];W[ps];B[sp]
+)
+(;W[sn];B[rq]))
+(;W[sn];B[ro];W[rq];B[rr];W[sq];B[ps];W[rs];B[rp];W[os];B[ss]
+;W[sr];B[sq])
+(;W[rq];B[rr]
+(;W[sn];B[sq])
+(;W[sq];B[rp];W[sn];B[ss]))))
+(;W[ro];B[rp];W[rn];B[sr])
+(;W[rn];B[ro]))
+(;B[bd]C[crux: Could protect the corner.])
+(;B[qn]C[crux: This is still an important point; it increases Black's corner territory while reducing White's area on the right - no need to invade when a reduction works better.]
+;W[pn];B[rm];W[ql];B[rl];W[qk];B[lm]))
+(;B[mq]C[crux: Just to show a different possibility - I don't know whether you considered this idea.  A hane at both ends of a two-stone string is often quite powerful.  Quite a large number of variations are possible.]
+
+(;W[iq];B[jp]
+(;W[hr];B[mr];W[lr];B[ls];W[kr];B[ip];W[hq];B[hp])
+(;W[mr];B[ir];W[kr];B[ip];W[hq];B[hp];W[hr];B[gr];W[is];B[fo]
+))
+(;W[mr];B[ir]
+(;W[jp];B[iq];W[kr];B[jo];W[ip];B[ho];W[hp];B[gp];W[hq];B[hr]
+)
+(;W[iq];B[jp]
+(;W[hr];B[kr];W[is];B[lr])
+(;W[kr];B[ip];W[hq];B[hp];W[hr];B[gr];W[is];B[fo])))))
+(;B[qn]C[crux: This seems like a good point for both sides.]
+;W[pn];B[rm];W[ql];B[rl];W[qk];B[jo])
+(;B[ce]C[crux: This seems like a good move locally once nothing else on the board is urgent.]
+))
+(;B[qe]C[crux: This makes White a little inefficient.];W[pf]
+;B[nd]))
+(;B[qn];W[qp];B[qk];W[qf];B[qe];W[pf];B[nd]))

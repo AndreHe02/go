@@ -1,0 +1,83 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+PB[Rod Ival]
+BR[5k]
+HA[2]
+PW[WhitePlayer]
+WR[4k]
+KM[0.5]
+DT[2003-09-14,2003-10-08]
+RE[B+8.50]
+RU[Japanese]
+
+AB[pd][dp]PL[W];W[pp];B[cd];W[ed];B[hd]LB[cc:D][ce:C][ef:A]
+[dg:B]C[SD : it's a good idea to make a pincer, since it helps developping q16 stone but the pincer you choose enable white to play very complex variations (white can play A, B or C, D is not a good answer with the 2 space pincer). 
+If you're not ready to deal with white C, i recommend you to play D14 instead of h16.]
+;W[cc]C[SD : C17 move doesn't work well with h16. See next comment for explanations.]
+;B[bc];W[dc];B[be];W[ef];B[dg]TR[bc][cc][dc][cd][be]C[SD : if white wanted to run into the center with E14, it would have been better not to play the delta exchanges : this moves allow black to play D13. Without the delta moves, black can only play C14. This makes a big difference.]
+;W[eg];B[dh];W[eh];B[di]C[SD : very good result for black  : white helps black to get territory on the 4th line.]
+;W[jd]
+(;B[ld]C[SD : it's a good idea to discard the pincer stone now white has a wall nearby.
+maybe i would prefer a move at n17, a little bit safer. See variation.]
+;W[ie];B[kc];W[jc]
+(;B[qc]C[SD : you play in a too small area. This is fuseki : you should play faster, not worriyng about points. See variation starting with M16 at N17.
+
+Technically, playing a kosumi (L17) in front of a 2 stones wall is not good shape, you need to add a stone. See variation starting with r17 at m14.]
+;W[le];B[md];W[kb];B[lb];W[kd];B[lc];W[pj];B[jp];W[fq]
+(;B[qn]C[SD : this is too much. You don't need to start a second problem, you have allready one to deal with : what to do with k3 stones. see variation.]
+;W[qo];B[eq];W[np];B[fp]C[SD : white made a mistake : he should respond to e3 at f4. Now black stone at k4 is almost connected to black F4.
+This is a turning point of the game, black has a good game now.]
+;W[pn];B[qg]LB[fj:A]C[SD : i think A is really bigger than R13.]
+;W[fj];B[ek];W[fk];B[el];W[cq];B[cp];W[er];B[gq];W[fr]
+(;B[dq]C[SD : this forcing move doens't help you, and helps white. better not to play there.]
+;W[dr];B[gr]C[SD : dangerous, better at G4.];W[bq];B[bp];W[ap]
+;B[ao];W[aq];B[bo]C[Sd : now what happens if white cut at G4 ? See variation.]
+
+(;W[kh];B[hl]LB[rj:A][hl:C][qq:B]C[SD : during the rest of the game, both players played played frontier moves. At this moment, Black is in advance.
+Bigger moves for black were A, B, C.
+i think B gives black a life by ko : it's enough to win the game. 
+
+End of my comments.];W[hj];B[ik];W[ij];B[jk];W[lq];B[mf];W[lf]
+;B[mg];W[qi];B[jj];W[ji];B[lo];W[qm];B[kr];W[lr];B[mk];W[fl]
+;B[fm];W[gl];B[gm];W[mm];B[lm];W[ll];B[mn];W[km];B[ln];W[ml]
+;B[kl];W[kk];B[jl];W[kq];B[jq];W[nn];B[jb];W[ib];B[ka];W[hc]
+;B[de];W[mi];B[ee];W[fe];B[oh];W[oi];B[nh];W[kj];B[ni];W[nj]
+;B[ei];W[fi];B[df];W[fd];B[fs];W[cs];B[jr];W[lp];B[no];W[oo]
+;B[mo];W[ko];B[kn];W[jn];B[jm];W[mp];B[km];W[kp];B[jo];W[hk]
+;B[im];W[ej];B[dj];W[rh];B[rg];W[me];B[ne];W[mj];B[lg];W[kg]
+;B[es];W[br];B[qh];W[ri];B[ls];W[ms];B[ks];W[nr];B[cb];W[db]
+;B[ba];W[eb];B[lh];W[li];B[sh];W[si];B[sg];W[da];B[ph];W[pi]
+;B[ia];W[ha];B[ja];W[ca];B[bb];W[mh];B[gs];W[ds];TW[ea][fa]
+[ga][fb][gb][hb][ec][fc][gc][ic][gd][hd][id][ge][he][je][ke]
+[ff][gf][hf][if][jf][kf][fg][gg][hg][ig][jg][fh][gh][hh][ih]
+[jh][gi][hi][ii][ki][gj][lj][oj][qj][rj][sj][gk][lk][mk][nk]
+[ok][pk][qk][rk][sk][nl][ol][pl][ql][rl][sl][nm][om][pm][rm]
+[sm][on][qn][rn][sn][po][ro][so][op][qp][rp][sp][mq][nq][oq]
+[pq][qq][rq][sq][ar][cr][mr][or][pr][qr][rr][sr][as][bs][ns]
+[os][ps][qs][rs][ss]TB[aa][la][ma][na][oa][pa][qa][ra][sa][ab]
+[kb][mb][nb][ob][pb][qb][rb][sb][ac][mc][nc][oc][pc][rc][sc]
+[ad][bd][nd][od][qd][rd][sd][ae][ce][oe][pe][qe][re][se][af]
+[bf][cf][nf][of][pf][qf][rf][sf][ag][bg][cg][ng][og][pg][ah]
+[bh][ch][ai][bi][ci][aj][bj][cj][ak][bk][ck][dk][al][bl][cl]
+[dl][il][am][bm][cm][dm][em][hm][an][bn][cn][dn][en][fn][gn]
+[hn][in][jn][co][do][eo][fo][go][ho][io][ep][gp][hp][ip][hq]
+[iq][hr][ir][hs][is][js]C[White: 97 territories + 3 prisoners + 0.5 komi = 100.5
+Black: 106 territories + 3 prisoners = 109
+Result: B+8.5]N[RESULT])
+(;W[gp]LB[go:A][iq:B]C[SD : A doesn't capture the stones, B Is the only move.]
+
+(;B[go];W[hp];B[ho];W[iq];B[ir];W[hr]C[SD : black stones are dead.]
+)
+(;B[iq];W[fo];B[ep];W[go]TR[jp][gq][iq][gr]C[SD : black stones are disconnected. This could be dangerous.]
+)))
+(;B[gp]C[SD : this is safer.]))
+(;B[eq];W[fp];B[dn];W[hp];B[jq];W[gm];B[nq];W[oq];B[np];W[pn]
+;B[jm]C[SD : this may look a little bit strange, but it seems playable for both players.]
+))
+(;B[lf]C[SD : this is better shape. But white still can invade at r17.
+That's why i prefer playing m16 at n17, hoping to get the time to play first at o3.]
+))
+(;B[mc];W[ie];B[nq];W[qn];B[jp]LB[mc:D][jd:A][pd:C][ie:B]TR[di]
+[dp][nq]C[SD : you should seize the initiattve to build a moyo before your opponent in the south.
+The north-east area is not an area where both players can make a lot of territory, because each player have allready stones (A,B and C, D).]
+))

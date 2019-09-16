@@ -1,0 +1,65 @@
+(;FF[4]GM[1]SZ[19]CA[UTF-8]AP[SGFC:1.13b]
+
+GN[lulu]
+PB[lulu]
+BR[7k]
+PW[mjr]
+WR[7k]
+KM[5.5]
+DT[2002-04-10]
+PC[The Kiseido Go Server (KGS) at http://kgs.kiseido.com/]
+RE[W+Resign]
+TM[1800]
+OT[5x60 byo-yomi]
+RU[Japanese]
+
+C[Dear reviewer.
+
+I play black.
+My English is bad. Use English simple.
+I work the fuseki. In this part I did not know which move to make.
+Can you tell me the most critical move in the 50 first.
+
+Thank you.
+
+Frank: I'm not a specialist in big moyo fuseki, but I think I can show you two point where you made strategic mistakes, at move 29 and 61. See my comments.]
+;B[pp];W[dd];B[pd];W[dp];B[pj];W[nq];B[jd];W[kq];B[pn];W[nn]
+;B[pl];W[fq];B[cj];W[cg];B[cm];W[fm]LB[co:a]C[Frank: Up till now nothing wrong, but white 16 seems a little vague. I would prefer to close the corner at C5 (a) to keep the pressure on black.]
+;B[mk]C[Frank: Good, playing on the border of two moyos.];W[nk]
+C[Frank: Bad, only makes black stronger.];B[nj];W[ok];B[oj]
+;W[ml];B[lk];W[ll];B[kk];W[kl];B[pk]C[Frank: Too small. White can easily afford to abandon his two stones and take a big point somewhere else. If white pushes trough, he will have a shortage of liberties himself.]
+;W[nl]
+(;B[hl]C[Frank: I think this is a big mistake.  Black and white are both building a moyo, but since black's moyo is bigger than that of white, he should just continue pushing. The variation shows a possible continuation.]
+;W[jk]C[Frank: This move is perfect for white. It reduces the black moyo + separates black 30]
+
+(;B[hn]C[Frank: Consistent, but allowing white 32 is very, very big.. Black loses more than he destroys himself.
+See variation.];W[jj]
+(;B[fd]C[Frank: Big, but the two black invasion stones need attention first.]
+;W[fk];B[hj]C[Frank Trying to save these two stones now, leads to the destruction of the upper black moyo.]
+;W[fi];B[hh];W[jh];B[bo]C[Frank: Necessary];W[bq]
+(;B[qe]LB[il:a]C[Frank: Now would be the good time to play at a (J8) to protect against the white cut you suffer from later.]
+;W[if];B[gg];W[ke];B[kd];W[ld];B[lc]C[Frank: Cutting at M 15 is possible here, I think.]
+;W[md];B[mc]
+(;W[mj]C[Frank: Better continue chasing the black string of stones in the middle.
+See variation for an example];B[ge];W[hi];B[gi];W[gj];B[ii]
+;W[hk];B[ik];W[gk];B[ij]
+(;W[il]LB[mi:a][ec:b][bh:c]C[Frank: A big upset for black, of course, but not everything is lost yet.
+
+At a moment like this, you should count the game.  According to my rough estimation, black is +/- 15 points ahead (including capturing H6 and H8), but there are some big points to be played, so the game is not decided yet.
+
+Defending the right lower corner for example, as in the variation, is worth (in gote) 14 points. And there are other big point as a (N11), b (E17) and c (B11), reverse sente).
+
+Therefore black should not try to save his two stones, which only increases the loss in the centre and weakens the black group on the left.]
+;B[fo];W[eo];B[en];W[dn];B[fn];W[dm];B[em];W[el];B[gm];W[fl]
+;B[gq];W[fp];B[gp];W[gr];B[hr];W[go];B[gn];W[ho];B[io];W[hp]
+;B[hq];W[ip];B[jp];W[iq])
+(;W[il];B[or];W[nr];B[oq];W[os];B[ps];W[ns];B[pr])
+(;W[il]))
+(;W[he]
+(;B[hc];W[ff])
+(;B[ge];W[hd])))
+(;B[il];W[jl];B[qe]))
+(;B[fk]))
+(;B[jj];W[ij];B[ik];W[jl];B[ji];W[hj];B[hh];W[gl];B[fc]))
+(;B[jk];W[im];B[fc];W[dc];B[bo];W[cq];B[qc]C[Frank: Black's moyo has grown bigger. If white invades, he will have a rough time.]
+))

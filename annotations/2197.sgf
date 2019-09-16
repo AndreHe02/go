@@ -1,0 +1,110 @@
+(;FF[4]GM[1]SZ[19]ST[1]CA[UTF-8]AP[SGFC:1.15]
+
+PB[crhohmann]
+BR[8k]
+PW[hane]
+WR[7k]
+KM[0.5]
+DT[2003-12-27]
+PC[The Kiseido Go Server (KGS) at http://kgs.kiseido.com/]
+RE[W+Resign]
+TM[2100]
+
+C[Dear reviewer,
+
+I played this with Black on the KGS server.
+The game is a mystery I can't solve. In move 86  when I felt like winning, White played the
+Sabaki invasion at E8 which I still don't know how to handle. Seems the two white stones were
+stronger than my 5 stones at the bottom plus my enclosing framework. I lost a group and the
+game, but all other variations I analyzed seem to end up with White ahead as well.
+
+The file was messy with variations, so I've removed most of them. Hopefully, you got some better ideas.
+I'd also like your comments on the opening.
+
+Many  thanks !
+Christoph];B[dp];W[qp];B[dd];W[pd];B[cj]C[olaf: a littlebit uncommon because it contradictes the idea of influence (already 2 hoshis) a little.]
+
+(;W[fc];B[id]C[I play this move to keep the upper side from becoming white, but my continuation may
+be to blame for the result.
+olaf: i think the move isn't bad, but for the reason to build up a wall in the center rather than preventing white territory at the top.]
+
+(;W[hc]C[hane [7k\]: bist du Deuts?];B[fd];W[gd];B[fe];W[ge]
+;B[ff];W[ec];B[dc]C[olaf: the result isn't bad for black.];W[pf]
+;B[gf]C[White has gotten a moyo anyway.
+olaf: sure, but look at blacks. Your turn here is a very big move. Compared it with a white stone here. :-)]
+;W[ie];B[oq];W[pn];B[kp];W[fq]
+(;B[hq]C[This H3 is an "extension and a pincer", usually receiving excellent marks in the opening books, but...
+olaf: the exellent remarks are for extensions from strong positions and a pincer. Here you have to look after a pincer which strengthen your position on the right a bit more. I would play J3. In the game you have weak points around N3 and K3.]
+;W[cn];B[eo];W[cq];B[cp]C[I prefer the left side, of couse.]
+;W[dq]
+(;B[ej]C[olaf: localy not bad, but isn't it a pitty that you wish to play here? What if C10 stands at D10? Than the moyo would be perfect without a second play. Due to this second play you didn't find the time to protect the weaknesses on the bottom. :-(]
+;W[ep];B[do];W[fo];B[fn];W[go]
+(;B[mp]C[After so many moves in that area, the white stone's aji should be taken care of
+and there ought to be time to play this N4. But wait until White plays E8...
+
+olaf: So you are aware of the defects in the position. That should have been a hint that E10 isn't as big as it looks first.]
+;W[qj];B[oj];W[pl];B[ph];W[pi];B[oh];W[oi];B[nh];W[ni];B[ne]
+;W[nc]
+(;B[mi]C[olaf: one to early (in my eyes).];W[mh]C[olaf: your group may come under a shortage of liberties now.]
+;B[mg];W[lh];B[of];W[pg];B[og]C[olaf: this empty triangle doesn't give you an eye if white playes at N14. So your group is heavy and an easy target for attack.]
+;W[mj];B[mc];W[nd];B[md];W[oe];B[mf];W[le];B[me];W[kd];B[kc]
+;W[jc];B[kb];W[jb];B[nb];W[ob];B[mb];W[pq];B[or]
+(;W[pr]C[olaf: too small. The biggest point (in my eyes is R12 now.]
+;B[pb];W[oa];B[oc];W[pc];B[od];W[qb];B[qh];W[pe];B[re];W[rd]
+;B[rf];W[qd];B[cf]C[Now that I destroyed White's moyo and reinforced my own and the bottom group, of
+course I felt like winning - shouldn't  I ?  But wait...];W[el]
+
+(;B[en];W[dl];B[fl];W[fk];B[ek];W[fm]
+(;B[gn]TR[gl]C[I looked at all the variations with G8, but they all seem to lose the black group.
+Best was a seki, but I wouldn't play as risky as that.];W[gl]
+;B[ho]TR[hn]C[I guess I should have played H6 here.];W[hn]
+(;B[hm];W[in];B[gp];W[fp];B[gm];W[im];B[hl];W[hk];B[il];W[ip]
+;B[iq];W[hp];B[jp];W[gq];B[ik];W[hj]
+(;B[bq]C[I didn't know where to run, and still can't find a good continuation. So I lost.
+
+olaf: the whole sequence was a great success for white, white is safe now, so there is nothing left to try.]
+;W[br];B[bo];W[bn];B[em];W[fl];B[bm];W[cm];B[bl];W[ao];B[cl]
+;W[dm];B[dk];W[ij];B[kl];W[kn];B[ln];W[km];B[lm];W[ll]C[Enough is enough, so I resigned.]
+)
+(;B[kl];W[kn];B[ln];W[lm];B[km];W[jn];B[ml];W[mn];B[lo];W[mm]
+))
+(;B[gq]C[olaf: a last try?]
+(;W[hp];B[gp];W[fp];B[ip];W[hm];B[fr];W[eq];B[bq];W[br];B[bo]
+;W[aq];B[bn])
+(;W[hm];B[fp];W[gp];B[hp];W[fp];B[fr];W[eq];B[bq];W[br];B[bo]
+;W[aq];B[bn])))
+(;B[gl]C[I deleted all variations except this one which brings the seki.
+The safer variations all allowed White to escape and take the lead.]
+;W[em];B[gm];W[gn];B[bp];W[bn];B[bq];W[br];B[ar];W[cr];B[cl]
+;W[cm];B[dk];W[dm];B[bl];W[ao];B[bm];W[ap];B[bo];W[an];B[aq]
+;W[bs];B[am];W[as]C[Seki]))
+(;B[dm]C[This was the best safe variation I could find, but it seems to end with White ahead.]
+
+(;W[en];B[dn];W[em];B[dl];W[gk]
+(;B[lm]C[olaf: a littlebit too distructive.];W[gi];B[fh]C[olaf: evan now the game isn't decided for white. I count for black 50 points on the left, 12 points on the bottom and 5 points on the top, 67 points in total. White has 38 points on the right, 10 points at the bottom and 10 points on the top and so must get about 10 additional points in the center.]
+)
+(;B[ek];W[gm];B[hn];W[gn];B[il]C[olaf: is a ladderbreaker too.]
+))
+(;W[dl]C[olaf: what about this?]
+(;B[em];W[fl];B[cl];W[cm];B[bl];W[gn];B[bo];W[iq])
+(;B[cm];W[cl])))
+(;B[em];W[fl];B[dm]))
+(;W[qh]C[olaf: now the game is close, evan if black gets the whole left side of the board.]
+))
+(;B[mh];W[mi];B[kh]C[olaf: any move black expands his wall he gets more power to invade the top. Any move white expands his wall he gets more power to attack/invade what? After N4 is made there isn't a target to attack anymore, so you must be happy that white helps you building power against the top.]
+))
+(;B[bp];W[mq];B[mp];W[np];B[nq];W[lp];B[mo];W[kq];B[lo];W[lq]
+;B[oo];W[ko];B[qq]))
+(;B[go]C[olaf: first try to shut white in while connecting all your stones. That is a natural protection against the weaknesses on the bottom.]
+
+(;W[ej];B[bq];W[br];B[bp];W[ar];B[er];W[eq];B[fr];W[dr];B[gr]
+;W[cs]C[olaf: this is all sente against the corner.])
+(;W[bp];B[bo];W[bq];B[co];W[ej];B[dh])))
+(;B[fp];W[gp];B[fo];W[go];B[fn]))
+(;W[cc];B[cd];W[dc];B[ed];W[fd];B[ec];W[eb];B[db];W[cb];B[fb]
+;W[da];B[fe];W[gb];B[ge]C[olaf: now the stone C10 looks fine (perhaps at D10 evan better?)]
+))
+(;W[ej]C[olaf: not immediatly, but this is one possibility for white.]
+
+(;B[cl];W[cq])
+(;B[dh];W[cc])))

@@ -1,0 +1,251 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+PB[Josh]
+HA[2]
+PW[Gnu Go]
+KM[6.5]
+DT[2004-05-31]
+RE[B+1.50]
+RU[Japanese]
+US[MultiGo]
+
+AB[pd][dp]C[[Malweth\] I'm a KGS 9 kyu player from RI, USA.
+From what it looks like to me, your game is quite strong into the opening and vs gnugo you managed to keep your Handicap lead until a few major mistakes.
+
+The major mistakes you made seems like you are overreaching - the mindset that white has "too much" even when you're leading can weaken a game considerably.
+
+Some work on threats might also be good - when there's a place you can peep (or otherwise attack) without changing the board position for the worse you should always do it.
+
+Working on keeping your stones connected could help -- the fundamentals are "connecting a live group to a live group is bad" (unless it achieves 1 or more other goals) and "connecting two groups without eyes is bad"
+
+Good books, if you haven't read them, are Attack + Defense and Tesuji from the Elementary go series. Kageyama's "Fundamentals of go" is also essential. 
+
+It would be helpful for you to play opponents other than GnuGo as well... I saw some pretty big mistakes from it here too (especially the invasion on the left side). Although GnuGo at Level 10 is rated at 8-9k there are many 15k or worse mistakes it makes.
+
+Good luck in your studies! :)
+----
+This is a game I played against gnugo, and I chose it because there are only two blunders that are obvious to me.  (Since I'm fairly new to the game, especially the 19x19 game, that isn't a lot for me.)  Hopefully the commentor on this game can pick up on some blunders I made that aren't so obvious.  Ultimately, I won by 1.5]
+;W[dd];B[pp];W[qn];B[pk];W[on];B[np];W[rp];B[qq];W[rk];B[mn]
+LB[iq:A][lq:1]TR[np]CR[ip]C[[Malweth\] Typically it's best to finish off a group's base before escaping into the center. The triangled stones are too far away to interact well with the LL 4-4 stone.
+
+A move at K3 looks good, or if prefer a high approach, L4.  Anything further apart than this would invite a white invasion because P6 is now strong (has a base).
+
+With N6, white has options to play at the marked positions. However, this would create a weak group (with a base) (See variation A)
+
+Another point is to determine what the purpose of N6 is. N6 is a capping move, limiting White's access into the center. At this stage of the game, access to the center is not important, so a white play at N6 would also be bad (unless it is sente).]
+
+(;W[lq]LB[lp:1][jq:A]C[[Malweth\] This move seems suspect. See comment on white's move at J3.]
+
+(;B[lp]C[[Malweth\] M4 is an attachment. Typically it's best to attach when defending and keep your distance when attacking. (The only exceptions are for tesuji). See variation.]
+;W[kq];B[kp]LB[cn:1]C[[Malweth\] Joseki are not useful to you at this point. I've gone over some of my thoughts on your opening, but the only "joseki" is the continuation after O4. More interesting than joseki, however, is the reasoning behind it. See "Pass" variation.
+---
+I really don't know a lot about joseki, but at this point I'd been reading up a little... any comments on how I played them would be appreciated.]
+
+(;W[cn]LB[gq:1][jq:A]C[[Malweth\] This is a bad move by GnuGo. Why would one leave the L3 group? It is weak and heavy.
+
+I would consider ignoring C6 to attack L3.]
+(;B[gq];W[jp];B[jo];W[pf];B[qh];W[og]LB[qf:1][oi:A]
+(;B[qf];W[qe];B[pe];W[qg];B[rf];W[rg];B[re]C[[Malweth\] This sequence isn't bad in the UR, but now R12 is harmed. R14 may be a bad move, otherwise you need to save the Q9/R12 group.]
+;W[ck]LB[ph:A][ip:B]
+(;B[en];W[ip];B[ho]TR[io]C[[Malweth\] The defect at Triangle is bad.]
+;W[mq];B[nq];W[rq];B[fc];W[fd];B[gd];W[fe]LB[ec:A][ge:1]C[[Malweth\] Concerning Joseki, it's common to play E17 first to settle your stones.]
+
+(;B[ge];W[ec]C[[Malweth\] This move by white takes the most advantage of the position, giving white:
+
+1) Good shape
+2) An excellent late-game follow-up at G17.
+3) no defects
+
+Compare with joseki variation...];B[hc]C[[Malweth\] This isn't big enough to play now. If W plays G17, you can sacrifice it at H17.
+
+Furthermore, H17 is an inferior play to G17 which is much stronger. With G17 white does not have a play at F18.]
+;W[oe]C[[Malweth\] As I said before, white's group here can act to ruin any chance of moyo you created by building the G16 wall.]
+;B[od]C[[Malweth\] Not necessary, though it prevents a forcing move by W at P16.]
+;W[ne];B[nd];W[me];B[ld];W[kf];B[je];W[fb];B[gc]C[[Malweth\] Too small now.]
+;W[bp];B[cq]C[[Malweth\] 54 is big. A white play at C3 would lose a lot of territory in the corner. G17 was the most suspect.
+
+Hmm, I feel that maybe I should have put 54 at the spot where white places next... I perhaps gave white too much reign in that whole left side.  Comments?]
+;W[fg];B[gg];W[fi]LB[ff:1][gh:A]
+(;B[ff];W[ef];B[ee]C[[Malweth\] This isn't a wall. Black has a wall at G16 facing outward, but it doesn't really do anything. White making territory on the left side cannot be stopped easily. G15 is probably the move that stopped any chance of invading white's moyo.
+
+If you followed the joseki I showed, a reduction play threatening to push through that shape might have worked (or perhaps not.
+
+Even now, with G13, F14, and E15 you're thinking that White shouldn't be allowed such a big space Instead you should be looking to use your power to the south with the varation starting at move 57, G12 
+----
+this was a bit of a silly move where I just wasn't really thinking about what I was doing... the idea was to capture the f15 stones or cut the wall white is forming.  I'd appreciate comments on how I could have played to get through this wall or how I could have stopped it from forming so strongly.]
+;W[gf];B[hf];W[de];B[ff];W[ed];B[fh];W[eg];B[gi];W[eh];B[gh]
+;W[fj];B[gk];W[qr];B[pr];W[ki];B[rh];W[ph];B[sg];W[rr];B[pg]
+;W[qg];B[pi];W[oi];B[oj];W[ni];B[nh]C[[Malweth\] You can't possibly kill this group. Playing on the inside should be reserved for when the outside is closed (unless there is a nakade - killing shape - inside)]
+;W[mh];B[mi]LB[li:1][mj:A]
+(;W[li];B[mj];W[ql];B[rg];W[qi];B[pj];W[lg];B[pg];W[oh];B[of]
+;W[ng];B[jh];W[kk];B[kh];W[nj];B[mk];W[lh];B[nk];W[rj];B[le]
+;W[mf];B[lf];W[ol]LB[pf:1][ok:A]C[[Malweth\] Your position to the south is weakened now. Connecting at P9 is probably good, but very dangerous. 
+
+White is alive above and doesn't need to play o14 until after you play Q14.
+
+See variation 'A'
+
+----
+Well, here I think I should have attached above 111, and this is the first obvious blunder to me, since otherwise I might have won this upper group.  Mind you, maybe gnu would have simply made the attachment above 99... but then that might have been okay, because I think I lost a bit of space while I was fighting so hard to take this group.]
+
+(;B[pf];W[ok]C[[Malweth\] White is confident to play this because, after killing Q10 group, the N13 eye isn't needed.]
+;B[nf];W[bq];B[cr];W[hr];B[gr];W[hq];B[kl];W[io];B[in];W[jn]
+;B[ko];W[jm];B[jl];W[im];B[hn];W[nr];B[hp];W[jq];B[or];W[ms]
+;B[os]C[[Malweth\] This is worth 0 points... or 1 point with double gote!]
+;W[el];B[fl];W[nl];B[ml];W[gb];B[hb];W[em];B[fm];W[gs];B[fs]
+;W[hs];B[jk];W[jj];B[ij];W[dn];B[eo];W[kg];B[jg];W[ji];B[ii]
+;W[lk];B[lj];W[kj];B[ll];W[mg];B[jf];W[pl];B[nn];W[mp];B[mo]
+;W[ri];B[oo];W[br];B[cs];W[nm]LB[pn:A][qp:1]
+(;B[qp]LB[pn:A];W[qo];B[pn];W[om];B[po]C[[Malweth\] If you hadn't played R4 first, Q6 would have been sente. Because W played R5, Q6 became gote.]
+;W[fk];B[gj];W[ns];B[mm];W[bs];B[co];W[bo];B[cp]C[[Malweth\] This is worth 0p gote. G19 is 1p sente.]
+;W[pm];B[si];W[sj];B[sh];W[md];B[mc];W[qk];B[ke];W[qj];B[ga]
+;W[eb];B[fa];W[ea];B[ha];W[qs];B[pq]C[[Malweth\] This is worth -1 p. R1 was not sente. Filling G14 is better.]
+;W[gf];B[rm]C[[Malweth\] This is not a threat. M1 is your best threat. J2 is also good.]
+;W[ff];B[qm];W[rn];B[he]C[[Malweth\] This is not necessary. W has no room for attack.]
+;W[do]LB[fr:A][ps:1]C[[Malweth\] Leaving a stone like F1 without F2 is always dangerous... it's better to lose a point and play F2 if you're unable to read the danger.
+----
+My second obvious blunder... I think I should have spotted the danger here.]
+
+(;B[ps]C[[Malweth\] This is worth 0p gote unless using chinese rules.]
+;W[fr];B[es];W[er];B[ds];W[fp];B[eq]LB[ep:1][fq:A]
+(;W[ep]C[[Malweth\] Bad move by W. See variation.];B[fq];W[fn]
+;B[gp];W[fo];B[gm]C[[Malweth\] Here W loses the E2/F2 points... W could have had an even better endgame.
+
+This type of loss becomes easier to see after you've played more games.]
+;W[gn];B[hm];W[go];B[dr]C[[Malweth\] Not necessary.];W[tt];B[ci]
+LB[cg:A][di:1]C[[Malweth\] It shouldn't be possible. W played poorly.
+----
+I'm pretty happy with this hand... seems pretty difficult to invade such a small area.]
+
+(;W[di];B[cj]C[Maybe I should have ran upwards, but I figured that if I could get down to the 181 group then I might generate some sente, which seemed to work.]
+;W[ch];B[bk];W[bh];B[cl]LB[bi:1][dk:A]
+(;W[bi];B[dk];W[ek];B[bm];W[al];B[bn];W[ao];B[bj];W[dj];B[dl]
+;W[aj];B[ak];W[ai];B[cm];W[dm];B[an];W[tt];B[cc]C[Here my second attempt at invasion didn't work, but it was fun trying :)]
+;W[bd];B[cd];W[bc];B[be];W[ce];B[bb];W[cb];B[tt];W[tt])
+(;W[dk]C[[Malweth\] This can't live.];B[cm];W[bm]))
+(;W[cg]C[[Malweth\] This is better... E11 isn't a danger.];B[ei]
+;W[di]LB[dj:B][ej:A]
+(;B[ej];W[ek];B[dj];W[cj];B[dh];W[dk];B[di];W[bi])
+(;B[dj];W[ej];B[dk];W[dl];B[cj];W[ch];B[cl];W[bk];B[bm];W[bn]
+LB[ak:A][bl:B]
+(;B[ak];W[bl])
+(;B[bl];W[bj];B[bi];W[bh];B[aj];W[am];B[ak];W[bk];B[ek];W[ei]
+C[[Malweth\] I don't think there's any way for this to work, personally...]
+))))
+(;W[fq]LB[ep:B][gp:A]
+(;B[gp];W[ep]LB[fo:A][dr:B]
+(;B[fo];W[dq])
+(;B[dr];W[dq]))
+(;B[ep];W[gp]C[This wins more than the F6 play.])))
+(;B[fr]))
+(;B[pn];W[om]C[[Malweth\] Worth 3p sente instead of 1p gote.
+
+In the late endgame look for sente moves and anything worth over 1p. Both of these should be played before any gote moves.]
+))
+(;B[ok];W[ll]LB[ml:A][nm:B]
+(;B[ml]C[[Malweth\] This fails.];W[mm]LB[lm:A][nm:B]
+(;B[nm];W[lm]LB[om:A][nn:B]
+(;B[om];W[nn];B[pm];W[pn]C[[Malweth\] This looks dangerous.]
+)
+(;B[nn];W[nl];B[pl];W[om]C[[Malweth\] Now what?]))
+(;B[lm];W[nm]C[[Malweth\] Nothing from this side...]))
+(;B[nm]C[This connects.];W[nl];B[ml]C[[Malweth\] Because of this tiger's mouth... but watch what White can do!]
+;W[lm];B[mm]C[[Malweth\] Required move.];W[ko];B[kn];W[lo]LB[ln:B]
+[mp:A]
+(;B[mp];W[ln]C[[Malweth\] This looks painful... better to lose the M4 stones?]
+)
+(;B[ln];W[mp];B[no];W[jn];B[io];W[jm]C[[Malweth\] At least you can definitely live now...]
+;B[oq]C[[Malweth\] By playing here... but if W plays here first...]
+;AW[oq]C[[Malweth\] You look dead... but very big :D (Lots of liberties...)]
+))))
+(;W[mj];B[li];W[lj];B[lh];W[kh]LB[lg:B][mg:A]
+(;B[mg];W[lg];B[mh]C[[Malweth\] This is even better for White.]
+;W[nj];B[oh];W[pg];B[lf];W[kg];B[mf];W[le];B[nf];W[of])
+(;B[lg];W[lf]LB[kg:A][mg:B]
+(;B[kg];W[jg];B[mg];W[ng]C[[Malweth\] This is also possible.]
+)
+(;B[mg];W[ng]C[[Malweth\] B doesn't have much hope...]))))
+(;B[gh];W[fh]C[[Malweth\] Assuming W repairs a defect];B[ph]
+C[[Malweth\] This is forcing.];W[pg];B[lh]C[[Malweth\] This attempts to cut through the L14 group. White's next move is uncertain, but it seems likely you could gather power facing down from most moves.]
+;W[aa]C[[Malweth\] Assume white plays elsewhere.];B[lf];W[le]
+;B[ke];W[md];B[mc];W[lc];B[kd];W[nc];B[mb];W[lg];B[kg];W[mf]
+;B[jf];W[mh];B[li]C[[Malweth\] This reduces white's influence and uses your influence to the left and bottom to make territory further away. A lot can still happen from here, but this puts you ahead by a bit. 
+
+There are many variations possible, but this is something you could definitely try if you're behind.]
+))
+(;B[ec];W[dc];B[jc]C[This is the "Attach and Extend" joseki. See further variations.
+
+This:
+1) hurts W's shape
+2) Strengthens B's shape and prevents cut at G17
+3) creates a defect at E16.
+
+This is one of the easier joseki to understand because there are relatively few variations. W must play at D17 to block access to the corner. B can vary K17 depending on board position, but this is otherwise the best for all sides...
+
+The benefit of a slightly higher position at G15 is almost non-existant compared with the strong territory this gives. G15 would be a better answer if you hope to create a moyo on the top side, but white's P13 group works to prevent that.]
+))
+(;B[ph]LB[pg:A]C[[Malweth\] Strengthening here is good. This is a strong peep
+
+Variations "A" and Pass]
+(;W[pg];B[ni])
+(;W[tt];B[pg];W[of];B[rh]))
+(;B[ip]C[[Malweth\] This is forcing.];W[jq];B[io]C[[Malweth\] It also gives you good outside influence.]
+))
+(;B[oi];W[nd];B[qe];W[qf];B[nc]C[[Malweth\] This may work...]
+;W[od];B[oc];W[pc];B[qc];W[pb];B[qb];W[mc];B[ob]C[[Malweth\] This gives white a strong outside.]
+))
+(;B[jq];W[jp];B[ip];W[jo];B[iq]C[[Malweth\] this could get messy.]
+;W[mp];B[mo];W[mq];B[kn];W[nq]C[[Malweth\] If W really wants to save this group...]
+;B[oq];W[no];B[op];W[rq];B[nr];W[mr];B[pr];W[ns];B[rr]LB[jr:A]
+[or:B]C[[Malweth\] Black is alive here. White can also live by capturing O2.]
+
+(;W[jr]C[[Malweth\] This kills W.];B[ir];W[ks];B[or];W[lr];B[ms]
+)
+(;W[or];B[qp];W[ro]C[[Malweth\] This is required for W, however - so the sequence is gote for white. This is because L3 was abandoned to play C6. This leaves B free to capture K5.]
+;B[im])))
+(;W[tt];AE[mn][kp][lp][kq][lq]CR[hp][ip][jp][kp][hq][iq][jq]
+[kq]C[[Malweth\] my Joseki database stops here. the LR lives for B... it is important to see what follow-ups remain. Because you have the advantage of a black HC stone in the LL, it makes the most sense for you to continue your group toward it. Extending to K3 is safe because it cannot be invaded easily and it also operates as a long extension from D4.
+
+The hard part about fuseki is that even if you know you want to move in one section of the board (marked with circles) you still have a number of options to decide from.
+
+Essentially, memorizing patterns doesn't help. If you know the pattern in the LR is joseki but W approaches at M3 and you don't know what to do, then the pattern you've memorized is useless.]
+))
+(;B[jq]C[[Malweth\] This pincer is required for Black. White may be able to live or escape, but only at a cost. This pincer is also a good extension from D4.]
+;W[lo]C[[Malweth\] White must escape because sliding for a base is not possible here. Getting closed in would be bad, though a play at P3 might be possible (unlikely because of R3).]
+;B[jo]C[[Malweth\] B must follow white and pressure against the corner group. Because of the flaw in the Keima at N5/O5 it seems likely W can escape to live.]
+;W[ln]LB[lp:B][mq:A]
+(;B[mq]C[[Malweth\] This move threatens to cut at L4. The cut could be done immediately, but black could suffer a loss. (Variation at W pass)
+
+A play at O6 might also be possible to keep white seperate and hope to escape to the center, but this can only be bad for B because he would then be on the defensive.]
+
+(;W[tt];B[lp];W[kp];B[mp];W[ko];B[kq]C[[Malweth\] Now white floats. Black does have a defect at K4, but it's manageable.]
+)
+(;W[kp];B[jp];W[mo];B[lr]C[[Malweth\] M2 or S3 are possible for this move to assure life for B.
+
+This is probaby better for B. White gains thickness toward the upper side (an attack on Q9 is imminent), but Black forms a wall at K3 which could easily be used to create a moyo in the LL corner.]
+))
+(;B[lp];W[mp];B[kp];W[mo];B[mq];W[nq];B[mr];W[op]C[[Malweth\] this is bad for black now.]
+)))
+(;W[iq]LB[gq:B][kq:A]C[Variations A and B]
+(;B[kq]C[[Malweth\] L3 is too close to O4 now];W[fq]C[[Malweth\] and W is forced into a kakari (corner attack)]
+)
+(;B[gq]C[[Malweth\] This is a good corner extension from D4...]
+;W[lq]TR[mn][np]C[[Malweth\] But W is forced into this position. M3 is a strong move for two reasons. Firstly, White can attempt to damage your base with a slide at O2. Secondly, White is given the opportunity to cut the marked keima (knight move) (See variation beginning with B Pass)]
+;B[tt]LB[mo:A][no:B][nq:C]C[[Malweth\] A and B are two options to cut the Keima.
+
+B seems better in the current position, but neither would be done immediately. The fact that the possibility to cut exists is bad for B and may occur later in the game to annex a group of stones.
+
+All of this illustrates why N6 is suspect and O4 requires a stronger follow-up. (See variation C for O4 on 3rd line)]
+
+(;W[mo];B[no];W[nn];B[mp];W[lo])
+(;W[no];B[mo];W[mp])
+(;W[nq]C[(continue to next move)];AB[mo][nq]AE[mn][np][gq][iq]
+[lq]C[[Malweth\] Here, Black 6 is played on the 3rd line instead of the fourth. (This isn't suggested in this position, only illustration)
+
+N5 is played similarly (Keima, not a cap in this case, however).
+
+White to play]PL[W];W[iq]C[[Malweth\] Similarly, white chooses to play at J3...]
+;B[fq]C[[Malweth\] And black again blocks on the corner side.]
+;W[lq]C[[Malweth\] Now white still has the possibility of breaking through the Keima, but the low move of O3 means white cannot interrupt black's base.]
+;B[kp]C[[Malweth\] And black would be free to play a forcing move against this group.]
+))))

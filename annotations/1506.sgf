@@ -1,0 +1,350 @@
+(;FF[4]GM[1]SZ[19]AP[SGFC:1.13b]
+
+GN[2003-03-26-gtl]
+PB[theedge]
+BR[20k]
+PW[patricia]
+WR[15k]
+KM[0.5]
+DT[2003-03-25]
+RE[W+51.5]
+
+C[I
+played black in this game.  I'm a pretty weak player and made some
+obvious big mistakes in this game.  I'm now trying to learn and
+implement the concepts of shape and influence  into my game.   Also I'm
+not for sure if I am following the direction of play.  Any way, here it
+is.
+
+---
+[PL\] Hi,
+
+I'm Peter and like you, I'm trying
+to improve my game.  Even though I'm fairly new to GTL, I've already
+met some great people who are walking the same path as you and me,
+except they're just a bit further.
+
+Long, long time ago, my
+"teacher" was the kind who built large moyo (potential territories),
+and who wasn't too strong at fighting.  To get really far, you need
+both, of course.  I myself am currently trying to improve my fighting
+(calculating).  But because you request it, I'll comment on the large
+scale strategy.
+
+My comments always start with [PL\].
+
+Here's a short summary of the comments in the game.
+1)
+Your play is quite good in several respects.  You are quite capable of
+building walls, and your use of them is okay.  Your opponent played
+very agressively (several overplays), and you put him under pressure. 
+That part of the game was very interesting to watch.  I didn't get the
+impression you were intimidated.
+2) The main mistakes are related to
+cutting points.  You had 3 groups cut off.  All could've been avoided
+if you kept a closer eye on cutting points.  A similar thing happened
+in the centre, where you could've encircled a white group on a large
+scale, but white managed to escape.  It's the same thing but the other
+way round: finding the escape routes for the opponent.
+3) I've added several comments on efficiency that I hope you'll find interesting.]
+;B[pp];W[pd];B[dq];W[dd];B[co]TR[pp]C[[PL\] Combines very strongly with the triangled stone.]
+;W[nq];B[qn];W[jq]LB[kq:a]C[[PL\]
+He's overextending a bit ('a' would have been normal), but this is much
+too early to punish him for that.];B[gr];W[qq]C[[PL\] This is quite
+agressive.  He's trying to take the corner AND the bottom side, while
+his bottom is has the weak point at 'a'.  Normally, if he takes the
+corner, his bottom group will become very weak and he will need to
+defend.  That gives you the opportunity to play a big move.
+
+Let's see what happened...];B[pq];W[qp];B[qo];W[pr];B[or];W[rr]
+;B[oq];W[os];B[ns];W[ps];B[nr];W[mq]LB[po:a]TR[jq][mq][nq]C[[PL\]
+Indeed, his bottom group (triangled) is weak, and he defends.  It is
+still a nice target for attack for you.]
+(;B[nn]C[[PL\] Very nice.  You defend the cut at 'a', and keep the pressure up.  I've put another idea in the variation.]
+;W[no];B[oo];W[mo]
+(;B[om]C[[PL\]
+This is small.  Check the variation.];W[jo]C[[PL\] White is starting to
+look okay: a bit of eye space, and possibilities enough to run away.]
+;B[qf]TR[jq][mq][nq][no][mo][jo]C[[PL\] Good.  Just like what I said before, except for 2 things:
+1) White's triangled group is now more difficult to attack
+2)
+This approach on the 3rd line is easier to pincer (which is indeed
+White's next move).  But white can now afford a weak group, because the
+triangled group is stronger.
+
+This is the main difference between playing here now, and one move before: timing.]
+;W[qh];B[of];W[qe];B[pe];W[oe];B[pf];W[qd];B[ne];W[od];B[nd]
+TR[qh]C[[PL\]
+Quite a good continuation for Black.  White now has to take care of the
+triangled stone.  Again, White's position isn't so bad now, because if
+his triangled stone lives, Black cannot make territory on the right
+side.];W[qk];B[nh]TR[qk][qh]LB[fd:a]SQ[nh][ne][nd]C[[PL\] This is a
+very good strategy: you're keeping pressure on the triangled stones. 
+If he lives with a small group, you can play 'a' (for example) and use
+the influence of your wall (squared stones) efficiently.
+
+(Black's
+wall isn't perfect yet, and 'a' by itself isn't safe, but the
+combination puts pressure on white's D16 stone, and threatens to take
+the top side as territory.  This is a double threat, so it's very
+strong for black !)];W[rm];B[rn];W[rl];B[pj]C[[PL\] You're still working on the plan I outlined before...]
+;W[qj];B[pi]MA[ok][ol][pl][pk]LB[rp:a]C[[PL\]
+... but this is a bit dangerous, as white demonstrates.  The hole
+around the XX-area is pretty big.  It's not a big problem to live (in
+the game, you indeed had no problem), but it's nice to keep your stones
+connected.];W[ph];B[oh];W[ol]C[[PL\] This is a nice strategic move by W.]
+;B[nl];W[ok]
+(;B[pk]C[[PL\] I've added a variation to this move.];W[pl];B[nk]
+;W[oj];B[oi];W[nj];B[mj];W[mk];B[mi];W[ml];B[nm];W[lm]C[[PL\]
+White has dramatically improved his position.  His group on the right
+is alive, his bottom group now also radiates power.  Your wall isn't as
+big as it could've been.];B[qm];W[ql];B[rp];W[rq];B[so];W[rs]
+TR[mj][mi][nh][ne][nd]LB[gd:a]C[[PL\] Okay, the bottom right corner is now settled.  Time to use your strength (triangled group) and play around e.g. 'a'.
+
+The go proverb says: first play urgent moves, then play big moves.
+
+Making life were urgent moves.  Now that's done, grab the big ones !]
+;B[qi]C[[PL\] End game !];W[ri];B[qg]C[[PL\] End game !  :-)]
+;W[rg];B[rf]MA[sf][sg][se][re]C[[PL\]
+Well, because of your previous move, it's big if white plays here: he
+connects and grabs territory at XX.];W[rh]C[[PL\] White is now alive.]
+
+(;B[sg]LB[sc:a]C[[PL\] Hm, threatening to kill him is a ko threat.
+
+'a' looks very strong to me.  Do you know the big monkey jump ?  Check the variation.]
+;W[sj];B[sm];W[sl];B[sn];W[sh];B[sf]LB[se:a][re:b][gd:c]C[[PL\]
+Aw, this is a very small gote.  Suppose white takes this stone, you can
+play 'a' and worst case it's a ko (white plays 'b' and threatens to
+connect)
+
+Around 'c' is still the most important & big point
+on the board: if black plays there, he's using his wall.  If white
+plays in that area, he destroys the influence of black's wall.]
+;W[sd];B[nc];W[oc];B[ob];W[pb];B[nb];W[rb]
+(;B[jd]C[[PL\] Right idea, but 'a' would've been more efficient.  I've added two variations.]
+;W[lc]LB[gd:a][gc:b]C[[PL\] White has a severe attitude problem.  He doesn't want to give you any point of territory :-)]
+
+(;B[ld]C[[PL\] A move around 'a' or 'b' would still be interesting.  Check the variations.]
+;W[kc];B[jc];W[kd];B[ke];W[mf]LB[nf:a][le:b]C[[PL\]
+As you remark afterwards, the cuts at 'a' and 'b' are quite dangerous. 
+This white move threatens 'a' specifically.];B[me]TR[of][pf]
+[pe][qf][qg][rf][sf][sg][kd][kc][lc]SQ[mj][mi][nh][oh][oi][pi]
+[pj][pk][qi][mf]CR[ld][me][ne][nd][nc][nb][ob]C[[PL\] This is still quite strong for B.  White can have several plans:
+
+1) cut at 'a' and try to capture the triangled group (or the triangled AND squared groups together)
+2) Work as in the game & capture the circled group
+
+But if black plays solidly, he will have a lot of problems with both his white triangled and squared groups.  No problem yet...]
+;W[lf];B[jf]LB[le:a]TR[lf][mf]C[[PL\]
+Here, you invite W to cut at 'a'.  You should only do this if you
+calculated, and you are certain you can capture white's triangled
+stones first !];W[le]
+(;B[md]C[[PL\] Check the variation.  Even if white connects, it's not necessarily a problem !
+
+In a situation like this, try the following next time:
+
+1)
+White tries a very agressive invasion (move 92).  Black has a lot of
+strength around this white invasion.  So white has the problems.  Stay
+confident !
+2) When white continues adding stones, try to keep them
+separated.  Because you're strong, it's normal that you can cut stones.
+White will try desparate, and strange, moves.  Stay confident !
+3)
+When white threatens to connect all of his stones that are in your
+sphere of influence (there's only a small hole at XX, right ?), then
+stay confident !  He's having the problems !  Calculate if this
+connection is important.  If he uses one move to connect, it means it's
+one move that he's not running away.  So you can spend one move trying
+to surround him on a big scale (as in the variation).
+4) When he
+captures stones (that you sacrifice), stay confident !  If you
+calculate, you can see if he can make eyes or not.  If his capture
+makes him alive, then you must defend.  In this case, the capture
+doesn't make him alive.  So you can still capture him on a big scale !]
+;W[kf];B[je]TR[jf][je][ke][jd][jc]C[[PL\] This is good, because otherwise your triangled stones become very weak.]
+;W[nf]C[It seems I read this one wrong from the start. This cost me alot.]
+;B[kb];W[lb];B[la];W[jb];B[mb];W[ka];B[mc];W[ma];B[ib];W[kh]
+TR[mi][nh][oh][of]C[[PL\]
+Hm, a shame.  Your game was quite good until now.  You were building
+the walls, you were chasing his weak groups.
+
+Now, watch the triangled black group !];B[kg];W[lg];B[jg];W[lh]
+;B[kj];W[jh];B[lk];W[jm];B[ll];W[mm];B[jl];W[im];B[il];W[mn]
+;B[pm];W[og]TR[mi][nh][mj][lk]C[Ouch, mabey I should pay more attention.
+
+[PL\] :-)
+You
+were probably quite focused on saving the triangled group.  Don't
+worry: if a game like this teaches you to watch your cutting points,
+it's not wasted.  Believe me, you'll play several games like this
+before you stop making this kind of mistakes.  I'm still doing it ! 
+And I get *really* angry at myself for it these days !  But I'm doing
+it less and less, so it's a good lesson every time :-)];B[hm]
+LB[hl:a]TR[jg][kg][jf][je][jd][jc][ke][ib]C[[PL\]
+This move is very nice on big scale, if your centre group would've been
+secure.  But it's not yet, and neither is the triangled wall.  This
+makes the cut at 'a' very dangerous.]
+(;W[hn]TR[hm][hn][im][jm][jo][jq][mq][nq][no][mo][mn][mm][ml]
+[mk][lm]LB[cg:a]C[[PL\] Check the variation: white can make your life quite difficult because of your triangled move...
+
+White
+is probably right: he doesn't need to make your life very hard.  He's
+ahead.  If he quietly stabilises the triangled white group, and he can
+play around 'a', he has sufficient.];B[gm];W[gn];B[gj]TR[hn]
+[ib][jc][jd][je][jf][jg][kg][ke]C[[PL\]
+Because of white's quiet reaction with the triangled stone, black now
+has better chances with his center group.  The triangled blacks aren't
+stable yet...];W[fm];B[fl];W[el];B[em];W[fn];B[gk]LB[fk:a]C[[PL\] 'a' would've been fine.]
+;W[dn];B[dm]C[[PL\]
+You're defending a single stone, while white's triangled stone gets
+more powerful.  This weakens your corner.
+
+I will give you an
+advice that I'm also still working on: when you play a stone, and the
+opponent is nearby, then calculate.  What will happen when he reacts ? 
+What's on the other side of the opponent ?  Will he get stronger while
+I get weaker ?
+
+If you are trying to make life for a weak group,
+then it's frequently unavoidable to do this without weakening other
+groups.  But in this case, the corner is important for your territory.]
+;W[cn];B[cm];W[bn];B[ek];W[bm];B[bl];W[cp]C[[PL\] White could've played more agressively.]
+;B[cq];W[bp];B[bq]C[[PL\] ... but you lose some points anyway.]
+;W[en];B[cf]C[[PL\] Very good !  Your centre group is now safe(r), so it's time to play big points !]
+;W[cl]
+(;B[dl]C[[PL\] Check the variation.];W[ck];B[dk];W[cj];B[di]
+;W[hc]C[[PL\] Good tactic of white.];B[ic];W[fc]
+(;B[hd]C[[PL\] Check the variation.];W[gc];B[gd];W[ef]LB[gg:a]
+C[[PL\]
+This is the move that leads to the capture of your stones.  Something
+around 'a' could've saved them, but it has a very big disadvantage:
+check the next moves...]
+(;B[bk]C[[PL\] Check the variation...];W[bi];B[ci];W[bj];B[bh]
+;W[ig]C[[PL\] Aw !];B[ih];W[hh];B[ii]C[Letting myself get closed in now, another big loss.]
+;W[gg];B[if];W[hg];B[gf];W[fg];B[ff];W[dg];B[cg]TR[ff][gf][gd]
+[hd][ic][ib][jc][jd][je][ke][if][jf][jg][kg]C[[PL\]
+The most important thing at this moment is the triangled group, not
+this side territory.  If you lose points on the side, it's probably 10
+points.  The triangled group is 35-40.];W[hf];B[ed];W[fd];B[ee]
+;W[de];B[df];W[eg];B[ec];W[fe];B[dc];W[ge];B[fb];W[gb];B[ea]
+;W[ga];B[dj];W[ak];B[ai];W[al];B[ji];W[fi];B[fj];W[ei];B[hi]
+;W[fq];B[fr];W[eq];B[er];W[ir];B[dp];W[do];B[ep];W[fp];B[ap]
+;W[bo];B[hq];W[ip];B[gp];W[go];B[gq];W[fo];B[hs];W[is];B[ls]
+LB[ks:a]C[[PL\] One further, at 'a', also works.];W[kr];B[lr]
+;W[lq];B[ks];W[js];B[km];W[kn];B[kl];W[iq];B[li];W[dh];B[ch]
+;W[gi];B[ng];W[pg];B[ki];W[oa];B[np];W[mp];B[op];W[mr];B[ms]
+;W[sq];B[sp];W[fa];B[eb];W[cd];B[cc];W[bd];B[bc];W[hp];B[hr]
+;W[ac];B[ab];W[bb];B[ad];W[ae]
+(;B[be]C[[PL\] Check the variation...];W[ac];B[ce];W[aa];B[ad]
+;W[ag];B[ah];W[bd];B[cd];W[ao];B[aq];W[na])
+(;B[ac]LB[be:a]MA[cb][ba]C[[PL\] If white plays around XX, 'a' will capture, and vice versa.]
+))
+(;B[gg];W[cg]C[[PL\] This is very big for white.]))
+(;B[bd]TR[cf][dd]C[[PL\] This is sente, and big for both sides.
+
+When
+you see a combination like the 2 triangled stones, then always think
+about this move.  It's frequently played in the opening game, so it's
+definitely big in this phase of the middle game.]))
+(;B[ck];W[dl];B[dk]C[[PL\] You still have a solid wall.  Next...]
+;W[bk]C[[PL\] This is a very small white endgame move...  Continuation...]
+;B[bj];W[ak];B[ci]C[[PL\] ... for example.  White's corner stone looks pretty grey :-)]
+))
+(;W[hh];B[gd];W[hl]C[[PL\] White first pushes on the upper side, then cuts at the lower side.  Check the continuation..]
+;B[hk];W[gl];B[gk]C[[PL\] Black needs to stick his nose out.]
+;W[ij];B[ik];W[fc];B[gf];W[fh]MA[cd][cc][cb][dc][db][bd][bc]
+[bb][ad][ac][ab][aa][ba][ca][da][ea][eb][ec]C[[PL\]
+White now has a double attack going.  This is a typical splitting
+attack: keeping both sides under pressure.
+
+White isn't certain
+of a capture yet (and doesn't need it), but he's happy if black lives
+in a small way.  If white takes a big corner (XX), and he can stop
+black from taking territory on the side, then it's game over.]
+))
+(;B[nf];W[md];B[kh]TR[mf][lf][le]LB[mc:a]C[[PL\]
+White's group has half an eye.  Even if white plays at 'a', it's false
+because you can atari the three triangled stones.  White has a very big
+problem trying to rescue his group.]))
+(;B[gc]
+(;W[cf]C[[PL\] There's a variation with another possible answer for white...]
+;B[ld]LB[ck:a]TR[jd]C[[PL\]
+This makes the triangled stone stronger, and it grabs some territory at
+the top.  Later, 'a' is a nice big move.])
+(;W[le];B[cf]C[[PL\] Double-check that your wall is safe before playing this.  But I think so: check the continuation...]
+
+(;W[nf];B[mf]C[[PL\] This doesn't work.])
+(;W[mf];B[nf];W[lh];B[kj]C[[PL\] White is still under more pressure than Black.  Next...]
+;W[jf]C[[PL\] suppose white tries to pressurize your stones on the top...]
+;B[cc]TR[jd][gc]C[[PL\] ... play flexibly.  Either your top group (triangled) lives, or you live in the corner.]
+))))
+(;B[gd]
+(;W[df];B[gf]C[[PL\] Black is building a nice sphere of influence at the top.]
+)
+(;W[ie]LB[id:a]C[[PL\] Suppose W tries to limit your moyo ('a' would be dangerous for white)...]
+;B[df]TR[dd][gd][ie]C[[PL\]
+... Then this becomes quite interesting.  Black's triangled stone is
+under pressure, but so are white's two triangled stones.
+
+This
+situation would become complicated (because of white's answer to
+black's triangled stone), but because of the wall, black has the
+advantage in this fight.
+
+I've added some extra stones to give you an impression of how the early part of the fight could go.]
+;W[ge];B[fe];W[fd];B[he];W[gf];B[hd]LB[jc:a][fc:b][ed:c][cc:d]
+[hf:e]C[[PL\]
+Now white has the choice: save his triangled stone, or help his corner.
+Black can connect to his wall by playing 'a', and make more eye space
+by playing 'b'.  In case he becomes stronger later, 'c' is also
+interesting.  Or much later, 'd' of course :-)
+
+On the other
+hand, white still has lots of small pieces.  Suppose white plays at 'c'
+now, then 1) life still isn't certain for the corner, and 2) black 'e'
+is nice.
+
+Suppose white plays 'e', check the continuation !];W[hf];B[ee]
+;W[ig];B[ji];W[hi];B[fi];W[hk];B[fl]TR[he][hd][gd]C[[PL\]
+Just to give you an idea of the strategy: black keeps the pressure up,
+while adding stones to the left side.  White's corner isn't alive yet. 
+If he makes it alive, black can strengthen his left side even more.
+
+Even if white captures the triangled stones, it's not a problem if black gets the whole left side in return.
+
+Of
+course, white will try to capture the triangled black stones, and
+reduce/invade the left side !  Only sacrifice the triangled stones if
+you're certain you can get enough in return.])))
+(;B[sc];W[sd];B[rd];W[rc]C[[PL\] I'm just quickly playing this out...]
+;B[se];W[rb]C[[PL\] White can live, but it's really small.]
+))
+(;B[nk];W[oj];B[nj];W[oi];B[ni]LB[gd:a]C[[PL\]
+Black sacrifices 2 stones, but gets a tremendously strong wall and is
+connected..  Disadvantage: white gets sente to play e.g. 'a' and limit
+the usefulness of your wall.
+
+This sacrifice technique is
+something worth watching out for, though.  Do you play with friends ? 
+Try to sacrifice some stones from time to time.  You will experience
+when the sacrifice is good (like here: very big wall, just over 5
+points lost), and when it's bad (too many stones sacrificed, too little
+gain, or badly executed).  It's also great fun in fast games: you can
+thrown away some stones and win (or lose) spectacularly.]))
+(;B[pf];W[nd];B[nf]C[[PL\]
+Black builds a nice zone of influence.  White can invade, but this is
+not good timing for him.  He has a weak group at the bottom, he doesn't
+want a second weak group.]))
+(;B[kr];W[kq];B[jr];W[ln]LB[po:a][oo:b][pn:c][on:d][pm:e]C[[PL\]
+Suppose white cuts with 'a', you can play 'b', white 'c', black 'd',
+white 'e', and white is still under pressure.];B[nn]TR[kr][jr]
+LB[po:a]C[[PL\]
+By playing the 2 triangled moves, you pressurize him as well.  He
+doesn't have time to cut at 'a'.  But when he moves out, you can
+connect.
+
+When you defend the cut is a matter of playing style. 
+Your choice was nice, though you could've put more pressure on white. 
+No problem for you though: white still needs to defend and/or run.]
+;W[sl]))

@@ -1,0 +1,112 @@
+(;FF[4]GM[1]SZ[19]AP[SGFC:1.13b]VW[]
+
+PB[JYD]
+BR[NR]
+PW[The Many Faces of Go]
+WR[7]
+KM[5.5]
+DT[2000-02-22]
+RE[W+17.5]
+
+C[Black: JYD, NR
+White: Many Faces of Go, Level 7
+
+RE: W+17.5
+
+JD: I left a few comments to try and explain my thinking. Suggestions for better strategies welcome!
+
+Review by SpaceDog, currently 8k* on NNGS, 7 kyu in the UK.]
+;B[pd];W[dp];B[qp];W[dc];B[nq];W[gq];B[de];W[dg]LB[fe:a][dd:b]
+C[JD: At this point I realized I didn't have much of a plan. I
+expected W 8, but was unsure how to answer.
+
+SpaceDog: I'm not too sure myself. I suppose simply jumping out at F15 (a) is an option. One wacky idea might be bumping into the white stone at the top with D16 (b) - see the variations.]
+
+(;B[be]C[JD: Thought this would give me a chance for either corner or
+side territory.
+
+SpaceDog: the move you played before, D15, is really more centre oriented. I think if the stone was on the third line going for territory might be more plausable. See my previous comment and the variations for some ideas about how the stone might be used in ways other than grabbing territory.]
+;W[fg];B[cc];W[dd];B[cd];W[db];B[cg];W[ad];B[ae];W[gd];B[pj]
+LB[ch:a][dh:b]C[SpaceDog: I'd want to respond to the fact that there's a white stone directly against your own stone at C13. Probably a play at C12 (a) before white plays there himself, which seems to both force a reply and help strengthen his moyo (the potential territory on the left) or at D12 (b) which seems more aggressive but just might get complicated.]
+;W[nc];B[pf];W[jd];B[dj]C[JD: It seemed like a good idea at the time, clearly it was a
+little far though.];W[ch];B[bg];W[dh];B[bi];W[bh];B[ah];W[ql]
+;B[qj];W[ol]
+(;B[kq]LB[nj:a]C[SpaceDog: You might consider keeping up the pressure with O10 (a) building up some strength so you can return the invasion or at least play a reducing move later - see variation.]
+;W[nk];B[nj];W[lk];B[dm]LB[mj:a]C[SpaceDog: Although this is big, perhaps the situation on the right is still urgent enough to merit more play there. Certainly if you continue to threated the group I don't see white beating you to the play on the left. At any rate, black might be wise to prevent a white play at N10 (a), which I think gives him a real advantage in the centre (just because it radiates power leftwards).]
+;W[qn];B[po];W[ne]C[SpaceDog: The idea behind my suggestion of attacking more vigourously a few moves ago was this it would allow you to play in this area first. White's move is critical, as it lies at the key point for 2 moyos (potential territories). This means whoever plays it (or very near it) first will have an advantage.]
+;B[nf];W[mf];B[ng];W[me];B[lj];W[kj];B[li];W[pb];B[qc];W[iq]
+;B[co];W[cp];B[bo];W[bp];B[lg]C[JD: White's top territory was looking big, and I was desperate
+for some way to sneak in.
+
+SpaceDog: Yes, I think it would be better to have done something earlier.]
+;W[jg];B[hg]C[SpaceDog: This does look like it might get nasty, but maybe it's not too deep. Invasions aren't my strong point.]
+;W[fj];B[ii];W[fl];B[fm]LB[ko:a][ki:b]TR[hg][ii]C[SpaceDog: This whole area is still open from the bottom (ie black will have moves around L5 (a) later. So it seems wiser to me to play something more like L11 (b) given that that area appears to be in need of urgent attention - the two triangled black stones look a little bit frightened to me.]
+;W[gf]C[SpaceDog: I'm not sure this is white's best though, maybe L11 himself to cut.]
+;B[hf];W[ie];B[jf];W[if];B[kf];W[ig];B[hh];W[ki];B[ik];W[im]
+C[JD: Starting to worry about solidifying a bit at C11, but was
+afraid that H14-J9 would get cut off.];B[gl];W[ek];B[el];W[hj]
+;B[ij];W[hk];B[hl];W[fk];B[gj]C[JD: Never expected this move to work as it did - I thought that
+something like the variation (on W 82) might work to cut off
+White's group at F9.
+
+Wishful thinking, or a true threat?
+
+SpaceDog: I don't think your variation will work. See the comments I've attached to it. And see my own two variations for what I think white should do here.]
+
+(;W[fi]C[SpaceDog: So I don't understand this. Many Faces making a mistake? Or maybe there is something I don't see.]
+;B[gk];W[dk];B[ck];W[cl];B[cm]C[JD: Working on the thought that I was better off making space
+for a 2nd eye for the center Black group, than by trying to protect
+the 3 stones around C10.
+
+In the end it seems as though this area might be what lost the
+game for me. Might there be a better way to have played this?]
+;W[bl];B[eo];W[jl];B[hn];W[in]C[JD: Spent a long time trying to figure out a good next move here.
+Eventually decided White would surely respond to my next move...]
+;B[ep];W[er]C[JD: But I miss the program's reasoning. Why not block at E3?
+
+SpaceDog: Yes, I agree.];B[gp];W[hp];B[fp];W[hm];B[gm];W[qb]
+;B[rc];W[gn]C[JD: Oops];B[fn];W[ho];B[go]LB[ko:a]C[SpaceDog: Unncecessary; you've got eye space no matter what white does. Maybe L5 (a).]
+;W[ro];B[rp];W[rk];B[rj];W[jr];B[kr];W[ee];B[df];W[bj]
+(;B[bk]LB[ci:a]C[SpaceDog: Instead, I think C11 (a) works out best.]
+;W[cj];B[ak];W[ci];B[ai];W[aj];B[ag];W[no];B[ko];W[on];B[oo]
+;W[mn];B[np];W[mp];B[lo];W[mo];B[mq];W[ef];B[cb];W[ca];B[ba]
+;W[da];B[ab];W[pn];B[qo];W[rn];B[oc];W[ob];B[oe];W[lp];B[kp]
+;W[he];B[kd];W[lb]C[JD: Again, not quite sure why White pulls back this far.]
+;B[md];W[nd];B[ld];W[kc];B[ke];W[kg];B[lf];W[bm];B[bn];W[sj]
+;B[si];W[sk];B[ri];W[sp];B[sq];W[so];B[rq];W[ks];B[ls];W[js]
+;B[lr]LB[eq:a]C[SpaceDog: You seem to be being a bit outplayed here in the endgame. When white has threatened something, see if you can make a bigger threat elsewhere. The point is to try and play the biggest moves; if you can make a threat bigger than your opponenent's he will have to respond to it, whereas if you respond to his threat, he can then prevent the threat you could have made. An idea here would be something like E3 (a) which is very threatening.]
+;W[rb];B[jq];W[hr]
+(;B[bq]C[JD: I was trying to come up with some fancy way of reducing White
+more than just pushing at E3.
+
+SpaceDog: Perhaps no need to attempt fancy moves.];W[ap];B[dq]
+;W[cq];B[eq];W[dr];B[aq];W[fr];B[do];W[cr]C[JD: The stone at A3 was clearly useless, but I *think* it was
+a net gain of 1 stone for Black.];B[km];W[kl];B[lm];W[mm];B[ll]
+;W[ml];B[ok];W[gi];B[hi];W[sb];B[sc];W[mg];B[mh];W[ln];B[kn]
+;W[dl];B[em];W[qk];B[pk];W[pl];B[mj];W[mk];B[mc];W[mb];B[gh]
+;W[fh];B[am];W[jo];B[jp];W[ip];B[jn];W[io];B[jk];W[kk];B[lq]
+;W[hn];B[kh];W[jh];B[lh];W[ji];B[od];W[lc];B[le];W[nb];B[pc]
+;W[je]C[SpaceDog: Well, an interesting game. I don't see any absolutely huge errors (by my admittedly not-too-great standards)
+
+Perhaps on move 61 you should have connected the two stones, thus saving yourself the problem of making them alive later. Also, be aggressive in the endgame. You got forced quite a lot. If instead of responding to a threat, you can make a threat of equal or greater value, by all means do so.]
+)
+(;B[eq];W[dq]C[SpaceDog: White can't do this it seems...];B[fr]
+;W[fq];B[dr]))
+(;B[ci];W[cj];B[di]))
+(;W[gk]
+(;B[gi]
+(;W[fi]C[SpaceDog's 1st variation])
+(;W[il]LB[gm:a]C[This is JYD's variation. In fact, the white move is forcing. Black must respond at G7 (a) or white will play there himself.]
+;B[fi]))
+(;B[fi];W[gi];B[gh];W[ei];B[fh];W[hi];B[ih];W[dk]C[SpaceDog's second variation (even worse for black)]
+)))
+(;B[nj];W[po];B[pp];W[op];B[oq];W[oo];B[md];W[mc];B[ld];W[lc]
+;B[nd]C[SpaceDog: Now this seems to have worked quite well for black.]
+))
+(;B[dd]
+(;W[cd]C[SpaceDog: If white plays too concerned about the corner...]
+;B[ce];W[cc];B[di]C[SpaceDog: Possibly an interesting fight; black seems on top here.]
+)
+(;W[ec]C[SpaceDog: Perhaps white's best response?];B[cc];W[cb]
+;B[fe];W[gd];B[fd];W[fc];B[ge];W[hd];B[fg]C[SpaceDog: So black ends up with some quite well placed thickness in exchance for some territory at the top. The point is that the presence of this not-very-easy-to-attack group hampers white's plans for massive expansion on the left. Black will probably come out with sente, since white seems to need a move here at about C10 or so.]
+)))

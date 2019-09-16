@@ -1,0 +1,200 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+PB[masa5]
+BR[3k]
+PW[BlaiddDrwg]
+WR[10k]
+KM[6.5]
+DT[2005-08-19]
+PC[The Kiseido Go Server (KGS) at http://kgs.kiseido.com/]
+RE[B+15.50]
+TM[1650]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+C[Hi there, I am Alfa from Manitoba. I am looking for some tips on attacking and invading.
+
+allfather@mts.net
+
+I am only 9 or 10k on KGS.
+
+I don't even know where to begin on the middlegame. My opponent kept sente for a long time, and I could not see how to get it back.  My shape was bad.
+
+I do not know how to interpret my middlegame without fixing my fuseki first.
+
+csh: Alfa, I will try and see what I can do to help.];B[pd]
+;W[dp];B[pq];W[dd]C[I play 4-4 openings most often now, since that is where I need the most work. I am very familiar with 3-4 openings and variations.
+
+csh: Both 4-4 and 3-4 openings are fine. 4-4 openings can require more thought, as they are symmetrical with respect to the corner. You need to pay attention to play in the correct direction, and make sure that your stones are working together.]
+;B[fq]
+(;W[nc]C[csh: By ignoring Black's move in the lower left, you are accepting that you will take a loss there when Black plays a double kakari.]
+;B[qf]
+(;W[kd]LB[pb:A][kc:C][qc:B][jd:D]C[Is this move viable, or should I have used a different  variation?
+
+A and then C I find are most often played, but A can be ignored, leaving w with C and B as miai.
+
+csh: Locally, since Black played on the third line, the correct move is to slide into the corner with 'A'. If Black played on the fourth line, then your move (or D) makes sense, because you can invade the corner later. Since Black played low, there is no corner invasion, so it is okay to slide into the corner.]
+;B[dn]LB[eo:B][fp:A]C[I am familiar with a few of these variations now, I have Get Strong at Joseki 3 and the Dictionary of Fuseki that covers these.
+
+As the world of go is always changing, and the stones change the way the following move should be, is there a better move than A?
+
+I was thinking of keeping it simple and choosing B.
+
+This early in the fuseki, I cannot feel the flow of the game yet and do not know how to influence it.  I know I will get away with small life, but black should have a weak stone someplace.
+
+csh: 'B' is a simple answer. You are right. You will get a small life or a running group, but Black will have to take care of two groups. It's a trade. Since you do not have supporting stones on either side, though, it will be harder to attack the two black groups.]
+;W[fp];B[gp];W[fo];B[eq];W[do]C[I do not like this result.
+
+csh: Well, you have to live with it. Black gets an extra move in this corner, because you tenukied earlier. The situation will be to his advantage.
+
+Note that if the sequence you played in the upper right was sente, then the tenuki wouldn't have cost so much.]
+
+(;B[dq]C[csh: The slide is better. See the variation.];W[go]
+;B[hp];W[qo]LB[dj:B][po:A]C[Do I need to play against d6?
+
+csh: I think so. If Black gets C6, then the lower left corner becomes hard to manage.
+
+Is r5 to early?
+
+csh: R5 is definitely a big move. It helps to break up Black's right side. However, Black can do a lot of damage if he gets to chase the stones in the lower left.
+
+I can see my influence now.
+
+csh: You get more influence from the stones if they are stable. Your wall would be better with an extension, say around 'B'. I still think the lower left can get into trouble.
+
+Is A Better?
+
+csh: I like A better, because it cannot be pressed down. See the variation for Black's moves.
+
+Or a shimari in the top left?
+
+csh: I think stabilizing the group in the lower left and approaching the lower right are bigger moves than making a shimari in the upper left.]
+
+(;B[np];W[pl]LB[qj:B][ql:A]C[Here I go again with crazy Ogeima.
+
+csh: The ogeima itself isn't bad, but playing on the fourth line (as opposed to 'A') leaves you open to an attack at 'B'.]
+;B[qj]LB[rl:A]C[csh: Black attacks immediately. This move threatens to slide to 'A' and take away the base of the white stones.]
+;W[dk]C[I decided I need this now,  it seems as if it is the biggest move.  I thought the bottom right had life, but it was more flimsy than I thought.
+
+csh: If you make a wall in the lower left, then this stone is a little too close to your wall. But if the marked black stone gets away, the stone isn't quite in the right place to help out your running group. The move is the right idea, though.]
+;B[fc]
+(;W[hc]C[csh: The problem is that the corner is weaker than the group at the top. It would be better to play from that side. However, the group at the top has a weakness, since Black can slide under your stone on the fourth line. 
+
+Note that you need a move on the third line at the top to protect your group. See the variation.]
+;B[df]
+(;W[fe]TR[dd]C[probaby a mistake?  i saw this in a dan game once, thought I would give it a try.
+
+csh: Just because you see it in a dan game doesn't make it right. Dan players make mistakes, too. :)
+
+This move is a little strange because there is no connection between the two marked white stones. The ladder is already broken. Instead, staying connected when running towards the middle puts more pressure on the two black stones.]
+;B[cc];W[cd];B[dc];W[ed];B[bc]LB[bd:A]C[A seems so small right now.  Should I have played it now?  Was there a better time in the future?
+
+csh: I don't think 'A' is small. Since you invested so many stones to make your walls, you really should play 'A' right now to finish it. If Black plays here first, all your moves become wasted.]
+
+(;W[kp];B[qp]C[Now I am in trouble, I left a few groups too weak.  I also know I had too many groups on the board.
+
+After this, I fell apart.  I am sure the fuseki done differently would have prevented the rest, and I would have had a better result.
+
+csh: You do have a few weak groups to worry about, but the game is far from over. Because you expanded quickly, you have more prospects for territory than Black.]
+;W[pb]C[csh: While this move is worth a lot of points, it is an endgame move. Black's group in the upper right is already safe. Your group in the upper right is also safe. Protecting the group in the lower right is more important. There is a saying, "Play urgent moves before big moves."]
+
+(;B[be]TR[cd][dd][ed][fe]C[csh: I would have played in the lower right to attack the group, but this move is good too. Now your marked stones have no meaning.]
+;W[ch];B[eg];W[bd];B[ad];W[cf];B[cg];W[bg];B[ce];W[dg];B[de]
+;W[ef];B[ee];W[fd];B[ff];W[eh];B[fh];W[pj];B[qk];W[pk];B[pi]
+;W[ql];B[qh];W[mq];B[ec];W[he];B[gc];W[hd];B[ro];W[nq];B[cq]
+;W[bp];B[cp];W[co];B[ei];W[dh];B[fi];W[iq];B[hr]C[csh: After this exchange, the health of the weak White groups doesn't look so bad. The left side has also been solidified into territory.  The upper side now has potential to be big. White is starting to catch up.]
+;W[gk]LB[fk:A]C[csh: Try to find moves that either 1) expand your territory, or 2) erase your opponent's territory. This move doesn't really do either. It is easier to keep your stones connected if you only jump to 'A'.]
+;B[ek];W[dl];B[dj];W[cj];B[el]TR[gk]C[csh: After this sequence, the marked stone is just a liability.]
+;W[dm];B[ir];W[jr];B[nj];W[nl];B[lj];W[ll];B[jk];W[nf];B[qc]
+;W[op]C[csh: This move probably saved the white group. If Black played here first, it's quite possible that the side group or the group at the bottom would be cut off and die.]
+;B[oo];W[po];B[pp];W[oq];B[pn];W[on];B[qn];W[no];B[po];W[om]
+;B[jm];W[kk];B[kj];W[oj];B[oi];W[jj];B[ik];W[ji];B[lh]TR[gk]
+C[csh: It was an okay idea to try and cut and capture the marked stones, but they could connect to either the group on the left or the group on the bottom, so it wasn't a good fight. Also, the marked white stone is in danger of being captured, so it is really hard for White to be able to capture the three black stones in the center.]
+;W[jg];B[ih];W[jh];B[em];W[gm];B[en];W[cn];B[hm];W[hn];B[in]
+;W[ho];B[hl];W[gl];B[hj];W[gj]C[csh: This move gets no points. You can tell that Black can still connect if he responds, right? Take sente to play a sente endgame move instead.]
+;B[hi];W[gi];B[gh];W[bq];B[br];W[rl];B[pr]C[csh: Note that instead of answering, Black makes a similar endgame move. If White wrecks Black's territory with a monkey jump, Black can do the same to make things fair.]
+;W[nh];B[ni];W[mh];B[kh]C[csh: Right now, the game is still close.]
+;W[lf];B[kl]
+(;W[lk]C[csh: This isn't worth that many points, so you should look elsewhere. See the variation.]
+;B[lm];W[mm];B[ln];W[mo];B[ip];W[jp];B[qb];W[od]LB[oc:A]TR[pb]
+C[csh: Better to protect at 'A'. Losing the marked stone is big.]
+;B[aq];W[bo];B[oe];W[ne];B[oc];W[nd];B[ob];W[nb]C[csh: After this sequence, White has fallen behind.]
+;B[pc];W[of];B[na];W[ma];B[oa];W[mb];B[gb];W[hb];B[ha];W[ia]
+;B[ga]
+(;W[ib]C[csh: Are you sure you need to protect here? See the variation.]
+;B[ig];W[if];B[or];W[nr];B[di];W[ci];B[rk];W[hg];B[gg];W[pe]
+;B[qe];W[pg];B[qg];W[sk];B[sj];W[sl];B[qi];W[lg];B[mn];W[nn]
+;B[nk];W[mi];B[mj];W[ml];B[kg];W[kf];B[js];W[ks];B[is];W[kr]
+;B[hq];W[jq];B[bf];W[cg];B[ag];W[ah];B[af];W[bk]C[csh: I don't see the attack you are protecting against.]
+;B[ok];W[lo];B[kn];W[sn];B[rn];W[ap];B[ar];W[ol];B[so];W[sm]
+;B[pf];W[og];B[jo];W[os];B[ps];W[ns];B[oe];W[si];B[rj];W[pe]
+;B[hh];W[hf];B[oe];W[li];B[ki];W[pe];B[bh];W[bi];B[oe];W[cr]
+;B[dr];W[pe];B[ai];W[aj];B[oe];W[cs];B[ds];W[pe];B[eo];W[ep]
+;B[oe];W[bs];B[as];W[pe];B[gd];W[ge];B[oe];W[cr];B[cs];W[pe]
+;B[io];W[oe];B[hk];W[jf];B[fj];W[fk];B[fn];W[gn];B[gf];W[ko]
+;B[tt];W[tt]TW[ja][ka][la][jb][kb][lb][ic][jc][kc][lc][mc][id]
+[jd][ld][md][ie][je][ke][le][me][mf][mg][ng][bh][ai][bj][ak]
+[ck][al][bl][cl][am][bm][cm][nm][an][bn][ao][lp][mp][np][kq]
+[lq][lr][mr][ls][ms]TB[aa][ba][ca][da][ea][fa][pa][qa][ra][sa]
+[ab][bb][cb][db][eb][fb][pb][rb][sb][ac][rc][sc][qd][rd][sd]
+[ae][re][se][ef][rf][sf][fg][rg][sg][rh][sh][ri][si][il][jl]
+[im][km][jn][qo][rp][sp][gq][qq][rq][sq][cr][er][fr][gr][qr]
+[rr][sr][bs][es][fs][gs][hs][qs][rs][ss]C[csh: Even though you wanted to concentrate on the opening and middlegame, I think this game was far from over, even in the endgame.]
+)
+(;B[ib];W[ja];B[jb];W[ka];B[kb];W[la]C[csh: Now what?]))
+(;W[km]C[csh: Locally, consider this variation.];B[lk];W[lm]
+C[csh: You lose 1 point, but you may gain more than that in territory.]
+)
+(;W[qb]C[csh: This is a pretty big move in sente.];B[rb];W[ar]
+C[csh: This is also big.];B[bs];W[hb]C[csh: As is the threat to make a monkey jump.]
+;B[gb]))
+(;B[po]C[csh: This move would make it very hard for White to manage his stones.]
+))
+(;W[bd]LB[eb:A]C[csh: Not only does this help seal off the left side, but this move also threatens a move at 'A'.]
+;B[tt];W[eb]C[csh: If Black ignores, then this move is hard to handle.]
+
+(;B[db]C[csh: If Black plays here...];W[ec]C[csh: White connects and the corner is dead.]
+)
+(;B[ec]C[csh: If Black plays here...];W[fb]C[csh: White can pull back and connect to the top group. Black doesn't have enough room for two eyes in the corner. White can look forward to chasing the corner group and enlarging his moyo (framework) on the left.]
+)))
+(;W[ee]C[csh: Maybe the simple move is better. Separate the two marked stones, and force Black to manage two weak groups.]
+))
+(;AW[pb][kc]AB[qc]AE[kd]C[csh: If this were the position in the upper right...]
+;W[ec]C[csh: A move like this would cramp Black.];B[fd];W[df]
+;B[ic]TR[kc]C[csh: The black group is cramped, while White has more potential along the left. The difference between this position and the game is partially because the marked white stone is on the third line.]
+))
+(;B[op]LB[pn:A]C[csh: Black could play here, to prevent being pressed down. This move threatens 'A'. White needs some sort of extension up the right.]
+))
+(;B[cr]C[csh: Black should slide into the corner.]
+(;W[cn]C[csh: This move is necessary to help the white group create eyespace.
+
+If the white group in the lower left did not have a base, when Black invades on the left side, White would have to be cautious when pressuring the invading black stone. If care is not taken, the white group in the lower left may end up in more trouble than the invading black stone.
+
+If White stabilizes his group first, then when Black invades on the left side, the invading black stone can be attacked more fiercely.
+
+Also, see the variation to see what happens when Black gets to play this move first.]
+)
+(;B[cn]C[csh: This move looks like it puts White into trouble. Obviously, it's easy to see that the white group is under a lot of pressure. The group will probably have to run to live. While it won't die, it will be hard for White to make territory, while playing extra moves to ensure the safety of his group.]
+;W[en]C[csh: This is one sequence I came up with.];B[em];W[fm]
+;B[el]C[csh: I think this is a bad result for White. This is why I don't think White has any influence yet. His group is too weak.]
+)))
+(;W[pb];B[qc];W[kc]C[I am sure this is how it should have gone, but I still have this crazy idea that ogeima are good moves.
+
+csh: Ogeima can be good moves. You just need to know the correct time to play them. I think this variation is fine, though.]
+)
+(;W[kc]C[to settle here is acceptable?
+
+Are there better Variations?
+
+csh: I think this is worse than the previous variation.];B[oc]
+C[csh: Black can play the following move.]
+(;W[nd]C[csh: If White responds here, he is overconcentrated.]
+)
+(;B[nd]C[csh: If White doesn't respond, he gets pressed down and is in really bad shape.]
+)))
+(;W[cn]C[csh: You also have the option of playing here. You will take a small loss, but have sente to approach the upper right.]
+;B[dr];W[cq];B[iq]C[csh: Now White has sente.]
+(;W[nc]C[csh: Now you can approach the upper left, but I think approaching the lower right is bigger.]
+)
+(;W[po]C[csh: I like this approach better, to break up Black's side. In opening theory, it is supposedly bigger to prevent your opponent from making a shimari than it is to approach a 4-4 stone.]
+)))

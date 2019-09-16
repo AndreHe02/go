@@ -1,0 +1,78 @@
+(;FF[4]GM[1]SZ[19]AP[SGFC:1.13b]
+
+GN[Mako_Jurkova]
+EV[Turnaj GP]
+RO[2]
+PB[Jurkova Ingrid]
+BR[13k]
+PW[Kovarik Martin]
+WR[12k]
+KM[0.5]
+DT[2000-09-09]
+PC[Jesenik]
+RE[W+8.5]
+TM[3600]
+
+PL[B];B[pd];W[pp];B[dc];W[dp];B[cn];W[cl];B[en]LB[cq:a]C[This move is fine, it aims at controlling the center...]
+;W[fp]LB[dk:a][bp:b][cq:c][bk:d]TR[cl]C[However Bs next move is odd, if black is trying to get outside thickness,
+then (a) is the next move. B usually only plays (b) next, if the marked W stone is at (a). Then, after (b), white (c), and black can play (d). However seeing as the marked white stone is where it is, black cannot play (d), and so playing (b) next is weak.]
+
+(;B[bp];W[cq];B[bq];W[de];B[cg];W[ci];B[ce]LB[dh:a]C[Contact moves are usually played for defense, this move strengthens the
+white stone too much, playing (a) would have split white in two, and given black some good attacking potential.]
+;W[cd];B[dd];W[cf];B[be];W[bf];B[bd];W[dg];B[kq];W[iq];B[nq]
+;W[oq];B[np];W[pn];B[pj]LB[qh:a]C[This looks like too large an extension, given that white is secure in the bottom left, I think (a) would be more appropriate]
+;W[jc];B[hc]LB[lc:a]TR[pj][pd]C[Black doesnt have much potential on the top left. However, if black played at (a) it would have created a powerful double wing formation with the marked black stones]
+;W[nc];B[pc]LB[qg:a]C[This move protects the corner, but playing (a) would give side territory
+and link up black.];W[je];B[he];W[pg];B[qg]LB[qf:a][oe:b]TR[pg]
+C[This helps white settle themselves, if Black wants to protect the corner, then (a) is better. However, I prefer (b) to this move - it moves black out of the corner and splits white, thus putting pressure on both the top white group and the marked stone.]
+;W[qf];B[qh];W[pf];B[re];W[qe];B[qd];W[rf];B[rc];W[qk]LB[se:a]
+[rd:b]C[I think playing the forcing move at (a), then black (b), then this move -
+is better - as it destroys some of Bs eye potential and is sente]
+;B[qj]LB[pi:a]TR[qk]C[I prefer (a) - black is still linked, but is stronger towards the outside, and does not strengthen white's marked stone]
+;W[rk];B[nj];W[ne];B[nb];W[mb];B[ob];W[mc];B[nn];W[ol];B[nk]
+;W[oi];B[oj];W[pi];B[rj];W[pk];B[nl];W[jh];B[io];W[hp];B[ek]
+;W[dm];B[em];W[el];B[fl];W[dl];B[dn];W[fk];B[gl];W[gn];B[fm]
+;W[jm]LB[cr:a]C[White has to protect the bottom left group, (a) is probably best]
+;B[im];W[il];B[hm];W[jn];B[ho];W[jk];B[eq];W[ep];B[cr];W[dq]
+;B[dr];W[er];B[fr];W[fq];B[es];W[gr];B[eq];W[qb];B[sd];W[er]
+;B[fj]LB[rm:a]C[(a) looks like a bigger ko threat];W[fs];B[hj]
+;W[ij];B[kf];W[jf];B[li];W[lh];B[mh];W[lg];B[ph];W[oh];B[mg]
+;W[mf];B[qi];W[ng];B[mi];W[ki];B[jb];W[ib];B[ic];W[id];B[hb]
+;W[hd];B[fc];W[gd];B[gg];W[kb];B[ia];W[kc];B[or];W[pr];B[op]
+;W[pq];B[om];W[pm];B[dj];W[dk];B[ej];W[cj];B[dh];W[ch];B[bm]
+;W[bl];B[eg];W[df];B[jr];W[ir];B[sk];W[sl];B[sj];W[rm];B[go]
+LB[nr:a]C[This move is worth around 4 points in gote, playing at (a) is worth about 8 points in gote]
+;W[eh]LB[nr:a]TR[eh]C[(a) is still bigger then the current (marked) move]
+;B[fh];W[di];B[ig];W[jg];B[nr];W[on];B[nm];W[oo];B[no];W[hk]
+;B[gk];W[hi];B[gj];W[hf];B[gf];W[hg];B[hh];W[if];B[ih];W[ii]
+;B[gh];W[ge];B[ps];W[qs];B[os];W[qr];B[ma];W[la];B[na];W[gc]
+;B[gb];W[lj];B[ll]LB[ln:a]C[better at (a) and then B can make some territory themself]
+;W[ln];B[ko];W[jq];B[kr];W[lm];B[lk];W[kj];B[lo];W[in];B[hn]
+;W[gp];B[al];W[ak];B[am];W[bj];B[rg];W[sf];B[se];W[sg];B[sh]
+;W[od];B[rb];W[jo]LB[ae:a]TR[jo]C[The current (marked) move isn't worth anything, (a) is worth 2pts in gote]
+;B[af];W[ag]LB[cc:a][ae:b]C[Black's next move (a) is unnecessary, just connect at (b)]
+
+(;B[cc];W[ae];B[ad];W[af]TR[af]LB[js:a]C[The current (marked) move is a 1/2 point ko. (a) is worth 2 points]
+;B[fd]LB[is:a][oc:b]TR[fd]C[This move (marked) is only worth a point in gote, (a) is worth two
+points in gote and (b) is worth a point in reverse sente.];W[oc]
+;B[pb];W[co];B[bo];W[kp]LB[js:a]C[The current move is only worth 1 point in gote, (a) is worth 2 in gote.]
+;B[lp]LB[js:a]TR[kp];W[jp];B[br]TR[br]LB[is:a]C[This move is probably worth 1 point, (a) is bigger]
+;W[ds];B[cs]TR[cs]LB[is:a]C[(a) is bigger];W[es]LB[js:a]C[(a) is still bigger]
+;B[is]C[HURRAY!!!];W[hs];B[js];W[mj];B[ni];W[kl];B[ja];W[ka]
+;B[ei];W[dh]TR[dh]LB[mn:a]C[This is another 1/2 point ko, any 1 point move is bigger, i.e. (a)]
+;B[ef];W[ee];B[fe];W[ed];B[ec];W[gi];B[fi];W[mk];B[ml];W[mn]
+;B[mo];W[hl];B[fo];W[kn];B[nh];W[og];B[pe];W[oe];B[ok];W[pl]
+;B[do];W[cp];B[cm]LB[de:a][ce:b][dh:c][pj:d][qh:e][pg:f][qg:g]
+[oe:h][jm:i][cr:j]C[White's major errors were the way they responded to the threat and event of invasion. To begin with, black played (b) contacted under white's stone
+at (a) - this thickened white - instead black should have agressivly split white in two with (c). Secondly white did a full extension to (d), this extension was weak because white was secure in the bottom right - instead black should have played a more restrained extension at (e). When white again invaded at (f), black again contacted underneath at (g). Once again black should have been more aggresive and should have tried to split white with (h).
+
+White was then reasonably safe, but failed to protect the bottom left corner when black became more solid in that area - this  lead to a ko fight.   So for black, the major point is to not overextend towards positions of Black strength, and that when invaded the possibility of moving toward the center, splitting the opponent should be considerd.
+
+For white, the major point is to be careful of groups when your opponent becomes thick near them.]
+)
+(;B[ae];W[cc];B[bc];W[cb];B[bb];W[db];B[eb]C[White is captured]
+))
+(;B[dk]C[This is the joseki to give Black thickness.];W[co]
+;B[bn];W[dl];B[el];W[ck];B[dj];W[cj];B[di];W[ch]LB[eg:a][dm:b]
+C[Black can now play at (a) or (b). Personally, I would prefer (a) and build
+a large moyo, but (b) is also strong.]))

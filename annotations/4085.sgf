@@ -1,0 +1,143 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+PB[Bofinken]
+BR[18k]
+HA[3]
+PW[GnuGoBot1]
+WR[13k]
+KM[0.5]
+DT[2006-04-11]
+PC[The Kiseido Go Server (KGS) at http://kgs.kiseido.com/]
+RE[W+0.50]
+TM[900]
+OT[5x15 byo-yomi]
+RU[Japanese]
+
+AB[pd][dp][pp]C[GnuGoBot1 [13k\]: GTP Engine for GnuGoBot1 (white): GNU Go version 3.7.9
+
+Hi! Thanks for reviewing my game. I played black in this game. In the end I played really bad, and I am aware of that, so please focuse on opening and the middlegame. I think that I played way too many small moves.
+
+I have made some comments about what I thought was good or bad.
+
+Thanks again!
+
+###########################
+
+Hi there!
+Yes, this was a lucky win for the bot. Although you stayed ahead for most of the game, I would judge your playing as too cautious and focused on encircling territory. Invasions and cutting groups are often necessary strategies, which I recommend you to concentrate on more heavily for a while. I hope you find the following comments profitable!]
+;W[dc];B[jp];W[cn];B[dj];W[fq];B[eo];W[cq]
+(;B[cp]C[nojar: see variation];W[dq];B[gp];W[hd]
+(;B[cf]C[Bofinken: I am not sure about this move. If I play on the left side, what should I do?
+
+nojar: This move is a standard shape and probably not very bad. It doesn't seem to do much to white, though.
+
+White played a strange move at H16. Maybe black can find a way to punish what I would consider a mistake. H16 is in the wrong place (too close) as an extension if white gets the shimari (C15), but too loose if the corner is attacked severely. Please see variations.]
+;W[nc];B[nd]C[nojar: I doubt attaching is good here. Attaching always strenghens the opponent, and I don't see what gain black gets in return. Maybe simply Q14 instead?]
+;W[md];B[ne];W[oc];B[pc];W[jc];B[qg]C[nojar: Seems a bit overconcentrated for black. Maybe Q11 instead?]
+;W[pn];B[pk];W[nq];B[np];W[mp];B[no];W[oq];B[po];W[qr]
+(;B[pq]C[nojar: This move doesn't help your position in any way. Even if white answers, it only helps him (to solidify his group). See variations for alternatives.]
+;W[rp];B[qm]C[nojar: should have been R6 for a tighter hold on the white Q6 stone.]
+;W[on];B[mo];W[pr];B[lp]C[nojar: R6 would still be better, getting a solid hold on the P6 group.
+The bottom isn't an interesting area. There's not much black can do to prevent white from crawling in there, but there aren't many points for white to be gained by doing so.]
+;W[ef]
+(;B[dg]C[Bofinken: to small?
+
+nojar: Good question. I think your response is quite a big move. It solidifies your position on the left, but also prepares for an invasion at the top, where there is still room if white doesn't spend even more stones on that area. Please inspect the variation given.]
+;W[qn]
+(;B[rm]C[Bofinken: Endgame move? I am not sure about this one
+
+nojar: white is actually not connected, despite all the effort. This is a difficult position, but the cut given in the variations looks promising.]
+;W[em];B[gm];W[cl];B[fk];W[bj]
+(;B[bi]C[nojar: Maybe tenuki for now instead. The variation shows a big move.]
+;W[cj];B[ci];W[nl];B[nj];W[ll]
+(;B[ck]C[Bofinken: maybe b9 instead?
+
+nojar: the white group looks difficult to kill. See the variation for an alternative suggestion.]
+;W[bk];B[dk];W[bo];B[bp];W[bm];B[gq];W[bq];B[ap];W[dl]
+(;B[el]C[Bofinken: I don't know what I am doing here... locally F6 to connect my groups?
+
+nojar: I believe the groups are connected already. I added one variation, and also a move that looks as if it kills the corner.]
+;W[mq];B[lq];W[kk];B[me];W[ld];B[le];W[mj];B[ni]C[Bofinken: I should try N11 or?
+
+nojar: yes, I think N11 is a bit better, too.];W[nn]
+(;B[ln]C[Bofinken: was afraid of the cut, but I wasn't in a real danger I think.
+
+nojar: it's difficult to read out. I looked at a bunch of variations and I always found a way for white to take profit from the cut, so I do consider it a danger. Some example variations added.]
+;W[mi];B[mh];W[ml]
+(;B[cd]C[nojar: this move is too small when played from such a strong position. White is still a bit fragile here. At least try C17 or maybe something like G16 (variations added).]
+;W[cc];B[bc];W[bb];B[bd];W[ep];B[fp];W[eq];B[dn];W[fl];B[gl]
+C[nojar: E9 instead.];W[gr];B[hr];W[fr];B[fm]C[Bofinken: Small
+
+nojar: not that small, but not the biggest move. G16 still looks tempting. The cut at S5 can still be played. A3, A18 and Q18 are big endgame moves.]
+;W[hs];B[ir];W[ob];B[pb];W[hg];B[je];W[dm];B[fn];W[lr];B[kr]
+;W[ij];B[il]C[Bofinken: K7 instead?
+
+nojar: yes, K7 protects the ~20 points in the centre.];W[lh]
+;B[mg];W[ab];B[kg];W[jm];B[jn];W[im];B[in];W[pa];B[qa];W[oa]
+;B[qb];W[mb]
+(;B[hm]C[Bofinken: F12?
+
+nojar: F12 isn't big, and close to thickness. I would still try to invade the loose white formation in that vicinity (one variation given).]
+;W[ms];B[km];W[fh];B[eh];W[fi];B[ei];W[kh];B[ee];W[fd];B[ed]
+;W[ec];B[fe];W[ge];B[ff];W[kd];B[jg];W[aq];B[co];W[ao];B[id]
+C[Bofinken: :) I really missed that I was in atari];W[ic];B[he]
+;W[en];B[fo];W[do];B[gf];W[gd];B[hf]C[Bofinken: Once again... it's like passing
+
+nojar: Correct, and so are your remaining comments. Since I've said enough now (or maybe too much already), here's where the review ends. Hope to see you on KGS sometime!]
+;W[hj];B[ih];W[ig];B[if];W[hh];B[jh];W[jl];B[ji];W[jj];B[ki]
+;W[ik];B[hl];W[li];B[gj];W[gi];B[kj];W[fj];B[gk];W[rn];B[kl]
+;W[jk];B[lj];W[lk];B[nk];W[mk];B[ol];W[sm];B[rl];W[sl];B[sk]
+;W[sn];B[rk];W[op];B[oo];W[lm];B[kn];W[mn];B[lo];W[jd];B[ie]
+;W[od];B[oe];W[is];B[js];W[gs];B[jr];W[ls];B[ii];W[hi];B[aj]
+;W[ak];B[ai];W[lg];B[lf];W[kf];B[jf];W[ke];B[nf]C[Bofinken: -1 points in gote]
+;W[om];B[pm];W[dd];B[de];W[fg];B[eg];W[qq];B[qo];W[ro];B[ac]
+;W[gg];B[df]C[Bofinken: No need...];W[ej];B[ek];W[nr];B[tt]
+;W[qp];B[tt];W[ks];B[tt];W[hk];B[tt];W[tt])
+(;B[gd]C[nojar: surely there are other options. I keep coming back to G16 because it's the first spot I look at it seems to keep producing something.]
+;W[he];B[dd];W[ed];B[ec];W[eb];B[ee];W[fc];B[fe];W[gc];B[gf]
+))
+(;B[cc];W[cd];B[dd];W[ed];B[de];W[cb];B[bc];W[eb];B[bb])
+(;B[gd];W[gc];B[hc];W[id];B[fc];W[gb];B[fd];W[fb];B[dd]))
+(;B[tt]C[nojar: pass];W[lo];B[ln];W[ko];B[kn];W[jo]
+(;B[in];W[io];B[ip];W[ho]
+(;B[hn];W[go];B[fo];W[mn];B[jn];W[oo];B[op];W[qo])
+(;B[mn];W[gn];B[fn];W[hm]))
+(;B[jn];W[io];B[mn];W[ip];B[jq];W[iq];B[ir];W[hr];B[jr];W[hq]
+;B[gr];W[is];B[js];W[hs];B[lr];W[mr];B[in];W[kp])))
+(;B[er];W[fr];B[eq];W[fp];B[ep];W[fo];B[fn];W[go];B[gr];W[es]
+;B[ds];W[fs];B[dr];W[io];B[jn])
+(;B[tt]C[nojar: a pass to show that black doesn't get cut.]
+
+(;W[fn];B[gn];W[fo];B[fp];W[go];B[ho])
+(;W[fo];B[fp];W[fn];B[gn];W[go];B[ho])))
+(;B[bp]C[nojar: this way black threatens two white groups at the same time.]
+))
+(;B[nl]C[nojar: white can't cut through this, so the centre has become a huge moyo now.]
+))
+(;B[ro]
+(;W[qo];B[rq];W[qp];B[qq];W[rn];B[rr];W[mr];B[lr]C[nojar: looks dead to me.]
+)
+(;W[rn];B[rq];W[qp];B[qq]C[nojar: reverts to the same position as above.]
+)))
+(;B[qn]C[nojar: R6 ist still a very big move. Maybe it's a matter of taste, since white will probably start attacking C14, which feels a bit uncomfortable, although there is plenty of room to settle and reduce white's top.]
+;W[di];B[ci];W[ch];B[dh];W[dg];B[ei];W[cg];B[db];W[ec];B[cc]
+;W[cd];B[bd];W[bc];B[cb];W[be];B[eb];W[fc];B[bb];W[ad];B[ab]
+;W[fb];B[ea]C[nojar: I wanted to give an example. Many other things might have happened instead...]
+))
+(;B[mo]C[nojar: This move makes your bottom right group totally safe, and in conjuction with N15, can become a huge moyo-building maneuver.]
+)
+(;B[cc]C[nojar: There is also still room to challenge white to some of the territory at the top. Following the typical joseki would not turn out well for him here.]
+;W[cd];B[dd];W[bc];B[cb];W[de];B[ed];W[ce];B[bb];W[df];B[fc]
+;W[ch];B[bj]C[nojar: This exchange is good for black.]))
+(;B[de]
+(;W[ce];B[cf];W[cd];B[df]C[nojar: If white plays this way, he still needs F17 or E16 to finish the joseki, and ends overconcentrated in gote, while black achieves a preferable shape.]
+)
+(;W[cg]C[nojar: If white tries something like this, a fight starts, with perfectly good chances for black (many continuations are imaginable, here's one as an example).]
+;B[ef];W[eg];B[fg];W[dg];B[cd];W[fh];B[gf];W[gg];B[ff];W[ei]
+;B[hg];W[gh];B[dl]C[nojar: If white plays C17, there's still the gap to H16. playing G17 or thereabouts leaves C17 open for black, so white won't get much on either side.]
+))
+(;B[pj]C[maybe the top right isn't the biggest point right now.]
+;W[cf]C[After H16, white feels rather overconcentrated if he goes for the shimari immediately.]
+))
+(;B[dq]C[nojar: I would have chosen to block on this side, because Q4 is black, while D17 is white (so F3 becomes more lonely than C6 does in the game).]
+))

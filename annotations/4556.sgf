@@ -1,0 +1,116 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+PB[sockenbert]
+BR[1k]
+HA[3]
+PW[gerard]
+WR[3d]
+KM[0.5]
+DT[2006-11-20]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[W+Resign]
+TM[60]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+AB[pd][dp][pp]C[Chris: Thank you very much for looking at this game. I have added comments where I think I identified mistakes, as well as thoughts/intentions during the moves. I hope this helps you to understand where my problems are in regards to how I look at the game so I can correct those.
+
+[EV\] Hello, this is your reviewer Eric Vella.  First, a few general comments:
+
+In this game, I noticed several places this where you left an unsettled situation to play elsewhere.  Usually kyu players have the opposite problem in handicap games, following the stronger player around everywhere, losing sente and making small moves.  So it is good that you look for opportunities to take sente to play big moves.  But you should not do this in the middle of a fight, when the next move makes a big difference to the relative strength of two opposing groups.
+
+There were also several instances where you attacked at a vital point, but without sufficient strength outside to support the attack.  As a result, you had to break off the attack without accomplishing anything.  It is much better to reserve such attacks until they work.]
+;W[dc];B[de];W[cg];B[cc];W[cb];B[cd];W[eb];B[ef];W[gd];B[dh]
+;W[ci]
+(;B[ck]LB[dh:10][ci:11][ck:12]C[Chris: Here I really dont know if 10-11-12 was a good sequenz
+
+[EV\] The normal joseki continuation for B is to push through and cut (see variation).  Blocking W path like this may be possible, but will certainly lead to a difficult fight.]
+;W[dg];B[eg];W[di];B[eh];W[bj]
+(;B[jq]C[[EV\] The fight in the upper left is not finished!  You played C9 to constrict the W group, preventing it from getting eye space on the side.  You should be consistent now and block at B9 to make sense out of your previous moves.  The placement at B12 would  be a serious threat for later, so W would have no definite eyes yet.]
+;W[bk]C[[EV\] W is quick to take this point, which instantly stabilizes the W group.  Even just territorially, it is easily worth the full value of a move.]
+;B[cl]C[[EV\] Now that the W group is no longer weak, playing here is not worth much.  B already decided last move to break off the attack, so why invest another move here now?]
+;W[nc]CR[qf][qj][qn][jo]C[Chris: What is the correct way for this kakari?
+
+[EV\] This is a reasonable move for W, but maybe a little slow, particularly for a handicap game.  I prefer any of the marked alternatives, moving into the wide open rest of the board.]
+;B[fc]C[Chris: I wanted to create some aji to enable a pincer, but it backfired.
+
+[EV\] More important than this tactical mistake, B should not be looking to pincer here.  Why?
+
+1) The purpose of a pincer seems be to break up the potential W territory extending from G16 to O17.  But this territory is really not so big.  W cannot secure it with a single additional move, and even if he could, it would be only be worth around 20 points.
+
+2) The attack value of a B pincer on W would be weak, since the pincer itself would come under attack.  In fact, B would end up with more running groups to look after than W.
+
+2) The right side of the board is much more open than the top.  Any B move here is worth at least as much as a W move enclosing territory on the top.]
+;W[gc]LB[gc:23][kc:B][fd:A]C[Chris: I was expecting A instead of 23, so a black pincer at B would have had a more severe followup.]
+;B[qf];W[pb];B[lc]C[[EV\] Dangerous and unnecessary, see previous comments.]
+
+(;W[qc]C[[EV\] W should separate B and attack the pincer, particularly in a handicap game.]
+;B[oc];W[ob];B[nd]
+(;W[nb]C[[EV\] A small matter of technique -- W usually plays N16 first as a sacrifice -- see diagram.]
+;B[md]C[[EV\] B ends up with a pretty good result, because W defended passively.]
+;W[qn];B[ql]C[[EV\] Very good.  This is a perfect pincer, extending from a distant strong group to stake out territory while attacking.]
+;W[qq]
+(;B[pq]C[[EV\] I like the other block better, but both are good.]
+;W[qp];B[po];W[rn];B[om];W[jo];B[jm]C[Chris: I am not sure about this move, but I felt like I should attack severely to use all the influence on the board.
+
+[EV\] This may be a good move, if followed up properly.  But there is no real chance to kill W, and it is difficult to make a large territory in the center.  In a handicap game, I would simply defend my territory on the bottom.]
+;W[lo];B[kp];W[ko];B[mq]LB[mp:A];W[lm];B[bh]C[[EV\] This just helps W.  A move like this might be justified if it stops W from getting two eyes in sente, but that is not the case here.  The W group is in most danger if you leave all your inside attacking options open, until the group is surrounded and you are ready to kill it.  By choosing one particular attack now, you simplify W life.  And if W later escapes totally or adds another move on the side to live, you have just given him extra territory.]
+;W[ch];B[ek];W[ei]C[Chris: I intended to build more influence to attack more severely but in retrospective it seems like I only weakened my own group.]
+
+(;B[ed];W[fb];B[bb]LB[hg:A]C[[EV\] Better for both defense and attack to jump out to A.  Extending into the center would have much more influence over the rest of the game than simply making one eye in gote on the side.]
+;W[ba];B[ab];W[be]C[[EV\] Ouch, not even one eye yet for B, while W now is totally alive.]
+;B[hb]
+(;W[gb]C[[EV\] W should force a few times before connecting, gaining useful outside strength.]
+;B[gf];W[bd];B[bc];W[jc];B[ic]LB[gh:A][fj:B]TR[ok][ip]C[Chris: This exchange now looks much too soon. Yet I cannot see a much better move. A was the only other option I could think of, but this would probably induce white to move out around B, helping the bottom group.
+
+[EV\] J17 should be kept in reserve until your group is stronger.  Let W worry about having to invest another move around here.  A would not be a bad move, since your upper left group is a bit weak.  
+
+[EV\] If you don't see any vital attacking or defending moves, just take a big point somewhere else.  If the big point also contributes indirectly to attack or defense, so much the better.  The triangle points for example would be good.]
+;W[id];B[jb];W[jd];B[he];W[hd];B[lk];W[kl];B[ml];W[mm];B[ok]
+;W[rl]
+(;B[hp]C[[EV\] This is a good attack, but defending at S9 is huge.  W plays around S8 look like sente, and in a handicap game I would just defend.
+
+[EV\] Maybe J4 is a better attacking point?  Diagonal attacking moves (like K7) are better for interfering with you opponents eye shape, and J4 would have a great follow-up at H6 if W does not answer.]
+;W[qk];B[jj];W[ho];B[gp];W[kk];B[kj];W[nl];B[nk];W[nm];B[ol]
+;W[il];B[go];W[hn];B[cq]LB[co:A]C[Chris: Should have been at A?
+
+[EV\] If you play at A, could you kill a W invasion at C3?  Without ko?]
+;W[bm];B[kb]LB[kb:B][jf:A]C[Chris: This seems like a mistake as well. I think the exchange Black A White B would have been better.
+
+[EV\] Yes, A is much safer, and does not give up too much territory, since it strengthens the center.  A white move at B does not completely capture the three stones (since B has a clamp at M18 and a possible ko to connect).]
+;W[if]
+(;B[kf];W[jf];B[kg];W[gh]C[[EV\] Nice move.];B[fh]C[[EV\] B cannot live inside, so this was the last chance to escape with H13.]
+;W[fi];B[bf];W[cf];B[gg];W[hh]C[[EV\] B is dead now, with no real chance for any counter-attack.  No more comments.]
+;B[ce]C[Chris: I dont see a way for Black to live now.];W[bg]
+;B[da];W[fe];B[ec];W[db];B[hg];W[ih];B[ig];W[jg];B[jh];W[ff]
+;B[gi];W[hi];B[ik]C[Chris: The only chance I saw to get back in the game would be to kill the bottom group.]
+;W[gj];B[hl];W[im];B[mo];W[lp];B[lq];W[mp];B[no];W[ll];B[mk]
+;W[hm]LB[qj:A]C[Chris: Looking at the game Black at A would have made the game closer again, but considering White is a few stone stronger I did not expect to make up another 15 points I think I needed in yose, so I resigned.
+
+Thank you for looking at this game. I would very much appreciate it if you could point out where my ideas about the game are wrong (strategy) as well as what would be appropiate to improve further. I am working on tsumego to improve my reading.
+
+Thank you
+Chris])
+(;B[fi];W[fj];B[gi];W[kf];B[lg]C[[EV\] This seems safer for B.  W still needs to live, so B should keep some points in the center.]
+))
+(;B[ip];W[qk];B[hn]C[[EV\] This would be a good enough attack to justify losing the right side.]
+))
+(;W[ic];B[ib];W[jc];B[jb];W[gb]C[[EV\] Better sequence for W.  W need not worry about B pushing through and cutting -- he can sacrifice the forcing stones for even more outside thickness.]
+))
+(;B[fi];W[fj];B[ej];W[fh];B[gi];W[gg];B[gf];W[hg];B[hf];W[ig]
+;B[if]C[[EV\] This fight might be possible, difficult for both sides.]
+))
+(;B[qp];W[pq];B[op];W[rp];B[ro];W[rq];B[qo];W[nq];B[np];W[mq]
+;B[mp];W[lq];B[lp]C[[EV\] How about blocking this way?  B gets a dominating position.  The stone at K3 prevents W from playing hane or getting ahead in the pushing fight along the side.]
+))
+(;W[md];B[mc];W[nb]LB[me:A][ne:B]C[[EV\] The W cutting stone creates useful aji, whether B plays A (if the ladder works) or B.]
+))
+(;W[ne]
+(;B[ic];W[qc];B[qi]C[[EV\] If B extends from the pincer, W can still take the corner, and the B group is very weak, sandwiched between two stronger W groups.  This would give W much more scope to exercise his strength in later fighting.]
+)
+(;B[qc];W[kd]C[[EV\] W gets too good a result on top if B takes the corner.  Better for B to not pincer in the first place than to get this result.]
+)))
+(;B[bk];W[ej];B[el];W[gj];B[hg]C[[EV\] Something like this seems like a reasonable flow of moves for both sides.]
+))
+(;B[ch];W[bh];B[bg];W[bi];B[dg];W[cl]C[[EV\] This is joseki.  B gets a strong position, W gets to play on both sides.]
+))

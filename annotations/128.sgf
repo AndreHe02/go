@@ -1,0 +1,99 @@
+(;FF[4]GM[1]SZ[19]AP[SGFC:1.13b]
+
+PB[Ashwolf]
+BR[8k*]
+PW[akmt3]
+WR[6k*]
+KM[0.5]
+DT[2000-05-01]
+
+C[I played black in this game.  I would especially like comments/alternate suggestions on moves 13, 23, 33, 39, 63, 69]
+;B[pp];W[pd];B[cp];W[dd];B[eq]C[My joseki is not very strong so I find this version of Chinese opening works better for me.]
+;W[cj];B[fc]
+(;W[ic]LB[hc:a][jc:b]TR[cj]C[A rather uncommon pincer. In this position white generally prefers to pincer at a or b, even so with the marked stone on the third line 'a' might be questionnable (see variations)]
+
+(;B[fe]LB[cc:a]C[Simply invading the corner at 'a' is ok.];W[df]
+;B[db];W[cc];B[pj]LB[hf:a][ie:b][kd:c]SQ[db][cc]C[This move is very big, but if white attacks black's weak group with a move like 'a', or 'b' he might be able to build a moyo on the upper side, while taking points on the left side.
+
+You should exchange the two marked stones only, if it really allows you to settle your group, else omit it, leaving the possibility of invading the corner later at san-san.
+Once you exchanged the two marked stones, perhaps you should exchange b for c, somewhat taking off the pressure from this group, before playing Q10.]
+;W[nq];B[kq];W[qq];B[qp];W[pq];B[op];W[nr];B[mo];W[qh];B[qj]
+;W[cb];B[hd]LB[ie:a][fg:b]C[This move helps white to strengthen his upper side. Playing a move like 'a' or 'b' is lighter and better.]
+;W[hc];B[id];W[jd];B[gc];W[lc];B[je];W[kd]
+(;B[pf]LB[qc:a][kf:b]C[Usually with a two wing extension from a star point, the best invasion point is 'a'. (see variations)
+Trying to build up the center seems natural, but as white can enter around 'b' threatening your upper side group, your strategy might fail, even more if tou create another floating group.]
+;W[oh];B[nf];W[mh];B[lf];W[nj];B[ol];W[ke];B[qf];W[oe];B[of]
+;W[kg]
+(;B[rd]LB[rh:a]C[Better to play 'a' without exchanging these moves before]
+;W[qc];B[rc];W[rb];B[rh];W[rg];B[qg];W[ri];B[ph];W[qi];B[pi]
+;W[sh];B[rj];W[rf];B[qd];W[pc];B[re];W[sf]
+(;B[hp]LB[cl:a][lr:b][kr:c][ks:d][js:e][ls:f][jr:g]C[This is a territorial move only (it doesn't affect any group on the board) and as white is left with the endgame sequence 'b' to 'g' (or maybe 'd'), it isn't very big. 'a' is much bigger. (see variation)]
+;W[jf];B[ie];W[hg];B[eb];W[iq]LB[cm:a]C[Seeking for trouble. 'a' seems better and sufficient.]
+
+(;B[ip]LB[hq:a];W[jq];B[kp];W[gq]
+(;B[gp];W[fq];B[hq];W[hr];B[fp];W[er];B[dq];W[jr];B[kr];W[js]
+;B[dr];W[fr];B[dl];W[bm];B[bl];W[bk];B[cm];W[al];B[lg];W[lh]
+;B[kh];W[ki];B[jh];W[ji];B[ig];W[ih];B[ij];W[cl];B[dm];W[gk]
+;B[ej];W[gi];B[dh];W[ch];B[gl];W[hk];B[hl];W[ik];B[kl];W[il]
+;B[im];W[fl];B[hm];W[ek];B[fm];W[lk];B[ll];W[ml];B[mm];W[nl]
+;B[nm];W[ok];B[pk];W[rp];B[ro];W[rq];B[qo]LB[sj:a][so:b]C[You should play a and b instead.]
+;W[fg];B[dk];W[dj];B[ef];W[eg];B[de];W[ce];B[ee];W[cf];B[hb]
+;W[ib];B[gb];W[ha];B[sj];W[si];B[md];W[mc];B[nd];W[oc];B[if]
+;W[jg];B[sb];W[qb];B[ca];W[bo];B[bp];W[np];B[no];W[ba];B[co]
+;W[cn];B[dn];W[bn];B[oq];W[or];B[kk];W[lj];B[jj];W[hj];B[ii]
+;W[hi];B[nc];W[nb];B[el];W[fk];B[da];W[gf];B[bb]C[Overplay, white can kill black right now..]
+
+(;W[bc];B[aa];W[ge];B[gd];W[ed]C[Ouch, my misread.  I think w could have killed the whole group with f19 instead of e16.
+
+During last 3 moves white could have killed black with F19!]
+;B[fa];W[fd];B[ga];W[ia];B[mp];W[ap];B[aq];W[ao];B[bq];W[jl]
+;B[jm];W[mg];B[mf];W[pe];B[qe];W[ld];B[mq];W[mr];B[lr];W[es]
+;B[ds];W[so];B[sn];W[sp];B[rn];W[ac];B[ms];W[pr];B[sr];W[rs]
+;B[ns];W[os];B[ls];W[rr];B[mk];W[nk];B[ni];W[nh];B[oi];W[mi]
+;B[jp];W[og];B[pg];W[se];B[ck];W[bl];B[dc];W[ra];B[hf];W[kj]
+;B[jk];W[kf];B[ks];W[sd];B[sc];W[ne];B[me];W[ab];B[ba];W[ff]
+;B[oj];W[mj];B[sa];W[le];B[pm];W[tt];B[od];W[ob]C[?];B[tt];W[tt]
+;AE[dh][ej][sr];B[tt])
+(;W[fa]C[This move kills the black stones.]
+(;B[ed];W[gd];B[dc];W[ga]
+(;B[cd];W[bc];B[bd];W[ab];B[ge];W[he];B[fd];W[hf])
+(;B[bc];W[cd];B[aa];W[bd];B[ac];W[fb];B[ge];W[he]))
+(;B[ge];W[ed];B[fd];W[hf];B[he];W[ga])
+(;B[ga];W[ed];B[ge];W[fd];B[gd];W[hf];B[bc];W[bd];B[ac];W[aa]
+)))
+(;B[hq];W[hr];B[fr]C[This may be better for black];W[kr];B[lr]
+;W[jr];B[lq];W[is]
+(;B[gr];W[ks];B[cl]C[Better for black than in the game.])
+(;B[ks]C[You can also keep white on the run.];W[gr];B[gs]))
+(;B[hr];W[hq];B[gr];W[ir];B[fq];W[kr];B[lr];W[ls];B[ms];W[ks]
+;B[mr];W[lq];B[mq];W[lp];B[mp];W[jp];B[lo];W[gp];B[jo];W[hn]
+;B[io];W[go]))
+(;B[hq]LB[cl:a]C[Probably better. White cannot make a base on the side. If white moves this stone (I cannot find any good sequence for white), you should at least be able to drive him around in sente while building up the left side, then play around 'a'.]
+))
+(;B[cl]LB[ch:a]C[This is the right direction, making your sphere of influence as large as possible, and aiming at 'a'.]
+;W[ej];B[el]))
+(;B[rh];W[rg];B[qg];W[ri];B[ph];W[qi];B[pi];W[sh]
+(;B[rj]LB[rf:a];W[rf]LB[qd:a][qc:b]C[Now 'a' is good for black, even 'b' seems possible.]
+)
+(;B[rf]C[Or maybe];W[rj];B[rk];W[sj];B[qc])))
+(;B[qc]C[In my humble opinion this is the only move.]
+(;W[pc];B[qd];W[qe];B[re];W[qf];B[pb];W[ob];B[qb];W[nc]TR[pj]
+[qj]LB[cl:a]C[Good for black. White is overconcentrated, and the marked stones prevent white from using his strength effectively. Next black 'a' is big.]
+)
+(;W[qd];B[pc];W[oc];B[ob]
+(;W[nb];B[od];W[nc];B[rd];W[re];B[rc];W[pf];B[pa]C[Good for black.]
+)
+(;W[nc];B[rd];W[re];B[rc];W[qf]C[Ok for black.]))))
+(;B[cc]
+(;W[cd]C[Blocking on this side isn't very good for white...]
+;B[dc];W[ed];B[fb]LB[ge:a][hd:b][hc:c]TR[ic]C[If now white 'a', black might be able to poke his head out at 'b'. With the marked stone at 'c', black is confined more properly to the corner.]
+)
+(;W[dc];B[cd];W[de];B[db];W[eb];B[cb];W[ec];B[cf]LB[fd:a][qf:b]
+[pf:c][pj:d]C[Seems ok for black too. Next if white a, black b,c or d are good points.]
+)))
+(;W[hc];B[cc];W[cd];B[dc];W[ed];B[fb];W[ge]TR[cj]LB[ej:a]C[White plays the narrow pincer to build influence down the left side and towards the center, but as the marked stone is on the third line, black could cap at 'a', so white would be unable to use his influence to build a moyo.]
+)
+(;W[jc]LB[cc:a][dc:b]C[Here white intends to cut at 'b' if black plays 'a']
+;B[cc];W[dc];B[cd];W[de];B[db];W[eb];B[cb];W[ec];B[cf]LB[fd:a]
+[df:b]TR[jc]C[Next white 'a' or 'b', and the triangled stone works better with the other white stones than J17 would do.]
+))

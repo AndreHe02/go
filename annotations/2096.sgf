@@ -1,0 +1,169 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+PB[rejiko]
+BR[6k]
+PW[woldsom]
+WR[5k]
+KM[0.5]
+DT[2003-11-28]
+PC[The Kiseido Go Server (KGS) at http://kgs.kiseido.com/]
+RE[B+14.50]
+TM[1800]
+RU[Japanese]
+
+C[Game between me (woldsom on KGS) and a 6k, which I lost horribly due to life and death mistakes mainly I think. I have a feeling I missed many other aspects of the game tho, and have a hard time figuring out my opponents reasoning at alot of places, so I'm submitting it for review. Apart from shortly answering my questions in the commentary, make any comments you think will help me improve.
+
+I'm white.];B[pd];W[pp];B[dq];W[ce]C[I rarely face any diagonal fuseki, but this move seemed fine on the reasoning that it focuses on the left side, where it can help a move at d5]
+;B[dc];W[fc]LB[ed:A][fd:B]C[Trying to provote something so I can utilize the left. Is this joseki? Should I worry about not knowing joseki?
+
+--  Since you are interested in developing the left side, A or B is more common.  The game move indicates you want to develop the top side, which conflicts with the intention of your previous move.
+
+It is important to know some joseki sequences.  If you know what the next move that a joseki calls for, you can use that move as the starting point of your thought process.  Then decide whether you want to deviate from it based on the whole board position.  If you don't know joseki, you will spend more time determining where to play next.]
+;B[de]LB[ed:A]C[Hah, he makes it easy
+
+-- Yes, he makes it easy for you.  A is more common in this situation.]
+;W[df];B[ee];W[cd];B[dd]LB[cc:B][ec:A][gc:C]C[-- Black makes bad shape here.  A is better.  After A, black can either play B to defend the corner or C to attack the white stone.]
+;W[ef]LB[fe:A]C[C17 or C12 instead? I _assumed_ this was sente, but after making it I worried about black playing around C13 or simply taking the corner.
+
+-- This is good as white threatens to seal black in at A.];B[fe]
+TR[fc]C[-- The marked stone is in a perfect position to destroy white's shape.]
+;W[cj]LB[cf:B][ch:C][do:A]C[Again I'm unsure what's more urgent, the side or the corner? I opted on the left to be consequent with my opening plans
+
+--  This move is good.  It aims to approach the lower left corner at A as well as defending the cut at B.  Although black can't cut directly at B, he can exploit it, such as playing a move around C.]
+;B[hd]LB[hc:A][ic:B][id:C]TR[dc][dd][de][ee][fe]C[Seems very slow
+
+-- You can see black's marked stones are overconcentrated.  Not very efficient.  Besides, there's still aji for the white stone, such as the white A to C sequence.]
+;W[cc]LB[do:A]C[-- This is very big in territory but not urgent.  Play A first.]
+;B[cb]C[-- Black should tenuki.];W[bb];B[db];W[do]C[B19 instead? The corner isn't small, and do I get in trouble later...
+
+-- B19 is small at this time.];B[gq];W[eq]C[Realized this was all wrong. C3 right?
+
+-- C3 is the usual move.];B[dp];W[ep];B[co];W[en]LB[eo:A][fo:B]
+[hp:C]TR[gq]C[D6 better? I expected black to atari and connect
+
+-- A is more solid, allowing a follow-up move at C.  With the game move, black can peep at B, making it harder for white to attack the marked black stone.  In this sequence, white's aim is to push hard against black's corner group to build strength.  Then use it to attack the marked black stone.]
+;B[cn]C[Seems to foil my plans, now there is no easy way to fix the flaw in my group.]
+;W[dr];B[cr];W[er];B[cs];W[jq];B[go]LB[eo:B][fo:A][ho:C]C[-- Black A to C sequence gives black a better shape.]
+;W[jo];B[hn];W[pm]LB[el:A]TR[en][do][ep][eq][dr][er]C[Too ambitious?
+
+-- The marked white group is sandwiched between two black groups.  It's urgent to jump out to the center to avoid being attacked.  Such an urgent move is bigger than any other points on the board.  Play A.]
+;B[em]LB[lq:A]C[Does this capture my group?
+
+-- Hard to tell.  Even if white lives, black should gain thickness to invade around A.]
+;W[fm];B[fn];W[dm];B[el]C[Black d6 instead here right?];W[dn]
+;B[gl]LB[dl:A]C[-- Black is too soft.  Playing A is much more severe.]
+;W[fk];B[fl];W[dl];B[ek];W[nd]LB[nc:F][pc:H][qc:G][qf:E][lo:B]
+[lq:A][pq:C][jr:D]TR[ek][el][fl][gl][em][fn][hn][go][gq]SQ[hd]
+CR[jo][jq]C[By now I have massive influence in the bottom right corner (expected black to invade at 3-3 sooner or later), ok-ish framework on the left (more than black anyway) and apart from the top, black has little potential for big territory. Figured this would put the nail in, getting outside influence to pressure any stones played close to the bottom right corner, and removing much of the potential of the top,
+
+--  The marked black group is very strong.  This makes the two marked white stones weak.  Invasion around A is now possible.  If white attacks at B, black can play C to see how white reacts.  He can make life at the bottom or take the corner.  Also, after playing A, D is sente for black.
+
+If black wants to invade the corner, playing C as opposed to 3-3 is more common.  When there is only the 4-4 stone at the corner, invasion at 3-3 is good.  But with a corner enclosure with the extra stone at Q7 for white, invasion at C is generally better.
+
+As for the game move, I like to approach at E instead.  I realize you don't want black to develop the top side, but the market black stone at the top is very solid and there is not much territory opportunity for white.  Let black have some profit on the top and white can make some terroritory on the right to counterbalance.
+
+One more point:  A high approach like the game move against a 4-4 point corner is generally inferior to the low approach move at F.  The reason is that in the event that white invades at G and black blocks at H, a stone at F is in a better position than the game move.  Unless there is a good reason to play the high approach move, a low approach move is always preferred.]
+;B[qg]C[After this move I suddenly feel an urging to play r10, but I figure I must settle my top stone first
+
+-- Right.];W[kc];B[nq]LB[lq:B][pq:A]C[Totally unexpected. Is this the right aproach for black?
+
+-- As explained earlier, this isn't good for black.  Consider A or B.]
+;W[pq]C[To stop him from using the stone to gain more with a 3-3
+
+-- This is good.];B[lq]C[Now what? Surely he can't expect to live? I expected o5 or n5...]
+;W[mo]C[After making it, this seemed a bit too close... Comments?
+
+-- This is good.  if white doesn't play here, black will do it.]
+;B[no];W[mp];B[kp];W[jp];B[mq];W[np];B[ko];W[kn];B[ln];W[lo]
+;B[mn];W[op];B[jn];W[km];B[jm];W[kq];B[lp];W[jl];B[kr];W[jr]
+;B[lr]C[Should I play something like G1 here? Does it connect, or is there any other move that I should make before going for the kill?
+
+-- This is good.  G1 doesn't connect.];W[nr];B[or];W[pr];B[mr]
+;W[ns];B[os];W[ks];B[ir];W[iq]C[This move is correct, right? It's a semeai, so those liberties will be filled anyway, better I grab the points of his territory while I can?]
+;B[hr];W[js];B[ms];W[oq];B[io];W[ps];B[ip];W[nr];B[om];W[ns]
+LB[pl:A]C[I was worried about l7, and wanted to deprive black of h3 sente, but overlooked the aim of p7.
+
+This is unnecesssary.  Black has only two liberties.  Play A instead.]
+;B[pl];W[qm]C[Crosscut at once instead?
+
+No need to create complication since white is leading.];B[ql]
+;W[ol]LB[pc:A]C[--  I don't suggest cutting because white is leading.  Play A to stabilize white's upper group.  If there isn't any weak group for black to attack, he can't win the game.]
+;B[nm];W[ok];B[rl];W[rm];B[pj]LB[ll:A]C[What's the best way to capture/attack n6 here? My attempt failed, and apart from the aji of l7 I can't pinpoint a reason, so any comment is good.
+
+-- A seems to work.  There are multiple ways that black tries to escape.  Please see variation for one of the attempts.]
+
+(;W[mk];B[ll];W[kl];B[lk];W[lj];B[kk];W[mi];B[jj];W[hm]C[Guess I suffer from the "find the fancy move" disease. Not much good comes of this]
+;B[gm];W[il];B[in];W[hj]TR[kc][nd][mi][lj][mk][ok][ol]CR[jj]
+C[What else can I do if I want to chase black? Does something like k11 work without causing more problems than gains for me?
+
+-- Strategy:  black's marked stone is already out to the center, so this group is  hard to kill.  But a more fundamental question  to ask is " what is the profit of this attack?"  Certainly white is leading and there isn't any need to kill this group to win.  And white isn't going to make any territory nor thickness through this attack.  Since white has two weak groups, one approach is to use the attack to connect the two groups and secure life for them.  In this sense, white should attack from the right (weak) side.]
+;B[gj];W[ii]C[Seems like I can capture now];B[ji];W[ih];B[jh]
+;W[ig];B[dk];W[ck]C[Seems to lack shape... Looking at the comming disaster, what are my alternatives?]
+;B[bl];W[cl];B[cg]C[Can I play something like d12 here?
+
+-- Yes, d12 seems to work.  Please see variation.]
+(;W[cf];B[dh];W[ei];B[eh];W[fi];B[di];W[dj];B[fh];W[ej];B[gi]
+;W[gk];B[hk];W[fj];B[gg];W[hi];B[gh];W[hl]C[And I saved the bigger group. Or?]
+;B[bg];W[bf];B[ba]C[Life and death is my bane. My opponent suggested b16 here, and I get a ko. Is there any better options, and if not, can black defeat even this?]
+
+(;W[gd];B[ge];W[hc];B[id];W[ic];B[kf];W[jf];B[ke];W[jd];B[je]
+;W[ie]C[Cutting a group without eyes from an alive one is always good right?
+
+-- Not in this case.  White loses sente with the cut.];B[he]
+;W[if];B[lc];W[kg];B[jk];W[ik];B[nj];W[ml]CR[mi][lj][mk][ok]
+[ol]C[N10 seemed to lead to some hot fighting that I'd lose and lose alot on if I played out.
+
+I don't remember what I thought when I played out the several next moves, I guess I just played on instinct. What should be my reasoning in a situation like this? What do I look for, what should my goals be?
+
+-- The marked white stones are weak.  But white can't afford to lose them or else the game is over.  Try to save as many stones as possible and the way you play in the game is fine.]
+;B[mj];W[lm];B[li];W[oj];B[pi];W[oi];B[lg];W[kh];B[lh];W[jg]
+;B[ni];W[nh];B[mh];W[ki];B[kj]
+(;W[og]LB[ph:A][qh:B]C[-- Play A.  Black can't block at B.  If he did, please see variation.]
+;B[ph];W[oh];B[ld];W[qc];B[pc];W[qd];B[pe];W[pb];B[ob];W[qb]
+;B[oa];W[oc];B[mb];W[mf];B[lf];W[nb]C[Can I kill black with some other move?
+
+The game move is fine.];B[na];W[nc];B[ne];W[me];B[md];W[oe]
+;B[qe];W[pa];B[ma];W[re]LB[kb:A]C[Life and death is not my strong side. Playing it out afterwards it seems like this isn't needed to live, can you confirm?
+
+-- This move isn't necesssary for white to live.  White can kill black's group by playing A.]
+;B[rf];W[rd];B[kb];W[jb]C[Again with the life and death.
+
+Concerning blindness, I at this point still thought I could play m18 then n17 and kill black.]
+;B[ja];W[ia];B[ka]
+(;W[hb]LB[gb:A]C[Wrong?
+
+-- Play A and it results a ko.  Please see variation.];B[ga]
+C[Guess so...
+
+After this it's all downhill, and I've pretty much lost the game here.]
+;W[fb];B[fa];W[gb];B[ea];W[fd];B[ha];W[ib];B[lb];W[da]C[Mistake: Not thinking at all]
+;B[eb];W[rj];B[qj];W[pf];B[qf];W[rk];B[sl];W[rh];B[nf];W[of]
+;B[od];W[ng];B[ne];W[nf];B[ri];W[si];B[qi];W[pk];B[qk];W[sm]
+C[Mistake: thought it was sente]
+(;B[sj];W[sf];B[sg];W[se];B[sh];W[bm];B[bn];W[cm];B[cp];W[hq]
+;B[hp];W[am];B[an];W[bh];B[ag];W[ch];B[ci];W[bi];B[dg];W[aj]
+;B[bc];W[hf];B[gf];W[mm];B[fo];W[eo];B[gr];W[fp];B[gp];W[ds]
+;B[bq];W[ah];B[mc];W[ne];B[le];W[is];B[nk];W[nl];B[lj];W[ij]
+;B[hs];W[ls];B[fr];W[fs];B[gs];W[es];B[pg];W[tt];B[tt]TW[qa]
+[ra][sa][rb][sb][rc][sc][sd][ai][bj][ak][bk][hk][al][bl][nm]
+[om][ln][mn][nn][on][pn][qn][rn][sn][ko][no][oo][po][qo][ro]
+[so][kp][lp][qp][rp][sp][lq][mq][nq][qq][rq][sq][kr][lr][mr]
+[or][qr][rr][sr][ms][os][qs][rs][ss]TB[aa][ca][da][ia][la][ab]
+[bb][fb][gb][hb][ib][jb][ac][cc][ec][fc][gc][hc][ic][jc][kc]
+[ad][bd][cd][ed][fd][gd][jd][kd][ae][be][ce][af][bf][cf][df]
+[ef][ff][eg][fg][rg][qh][rh][mi][si][rj][rk][sk][fm][gn][ao]
+[bo][ho][ap][bp][aq][cq][ar][br][as][bs])
+(;B[pn];W[qn];B[oo];W[po];B[on];W[qo];B[mm];W[sj];B[sk]
+(;W[sh];B[sg];W[sf];B[rg])
+(;W[sg];B[sf];W[pg];B[sh];W[si];B[sj];W[qh];B[sh];W[se];B[rg]
+)))
+(;W[gb];B[ha];W[hb]))
+(;W[ph];B[qh];W[pk];B[qj];W[qk]))
+(;W[bd];B[ab];W[ac];B[bc];W[ff];B[gf];W[bb];B[ca];W[aa];B[ae]
+;W[af];B[ab];W[ag];B[bi];W[aa];B[fo];W[eo];B[ab]C[and I seem to lack options...]
+))
+(;W[dh];B[dg];W[eg];B[ch];W[di];B[bi];W[bj];B[bf];W[cf];B[be]
+;W[bd]))
+(;W[ll];B[mk];W[ml];B[nl];W[nk];B[nj];W[mj];B[lk];W[oj];B[ni]
+;W[oi];B[oh];W[nh];B[mi];W[mh];B[li];W[ph];B[og];W[pi];B[pn]
+;W[qn];B[po];W[qo];B[pg];W[on]))

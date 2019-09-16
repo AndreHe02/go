@@ -1,0 +1,166 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+PB[dshi]
+BR[21k]
+HA[3]
+PW[YusufS]
+WR[18k]
+KM[0.5]
+DT[2007-03-22]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[B+3.50]
+TM[1800]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+AB[pd][dp][pp]C[Hi. I'm reviewing this game for the white side. Yusuf posted this note along with the review request:
+
+"Hi,
+
+The following is a 3-stone handicap game played on KGS between
+myself and a 21k player called Dshi. I ended up losing by 3.5 moku
+at the end, but I thought I was getting along fine the first half of
+the game. Towards the end I think I made some keyy mistakes in the
+upper right and left corners and in the center of the board. I would
+like to know how I could have played better and where the weaknesses
+in my play really were. Finally, thank you for taking the time to
+review this game :D"
+
+Next time you submit a review, go through the SGF file and add your own questions and comments. It's a lot easier to review a game when there's something to work with.
+
+- Kamber];W[dc];B[fd];W[de];B[ff];W[nq];B[no];W[pr]LB[kq:A]
+[pq:B][qq:C]C[Whites play here in the corner seems a bit modest. Black is building strength on the outside, so it's only fair if white makes him pay for it.  
+
+I'd probably just make a base on the side with a two-space-jump, or go more agressively for the corner with Q3 or R3]
+;B[oq];W[or];B[qr];W[pq];B[op];W[qq];B[nr];W[mr];B[mq];W[ns]
+;B[np];W[nr];B[mp]C[Except for blacks overplayed stone on R2, he managed to push white down to the second line.]
+;W[en]TR[cn][dn]SQ[fd][ff][no][mp][np][op][pp][mq][oq]C[This is a weird approach. It's much higher than usual. White does get some influence on the outside, but black gets a huge corner in exchange. Whites wall really has to work hard for the price he ends up paing for it. In most cases, white will be better off with a lower approach on one of the triangled points.
+
+This is particularly so when you consider that black has quite a strong presence in the lower right, and his stones in the upper left have plenty of potential for development.]
+;B[dn];W[dl];B[dm];W[em];B[eo]C[See? Now white has a small wall which really isn't looking like much, and black has managed to make territory along the 4th line.
+
+As a general rule, if you let your opponent move along the 4th line, make sure you get a worthy price, because that's a lot of territory.]
+;W[eh]C[This extension is too long. The large knights move is not a particularly solid connection, and when white does it right in front of a strong black position, he's just asking for a fight. Fighting isn't neccesarily bad, but in this one white won't have much to gain, and that's bad.]
+;B[dg];W[ef];B[eg];W[fg]C[Now, whites corner is starting to look rather lonely and weak.
+
+It's a rather complex battle, so I can't really tell you the best way of fighting it. But it gets a lot easier for white because black makes a couple of bad calls where he ends up pushing white into strengthening his weak corner.
+
+(Never force your opponent to do what he wants to do anyway)
+
+See the variation for another (and better way) for black to fight.]
+
+(;B[ee];W[df]C[Here, blacks two stones are weakened because of the natural response to his own atari]
+;B[fh];W[gg]C[And the same here];B[dh];W[ei]C[And here.];B[dd]
+;W[cd]C[And here black makes white strengthen the corner.];B[ed]
+;W[cf];B[eb];W[gi]C[This is quite a decent result for white, considering the that the fight started with him being cut apart.]
+;B[fi];W[fj];B[di];W[ej];B[dj];W[dk];B[ck]LB[cl:A][el:X]C[Here, white should simply use the strength that black has forced him to build. Cut at the group off at A, and black is forced to fight for his group (see variation)
+
+Black can't really cut at X, since white will just capture the cutting stone.]
+
+(;W[fk]LB[fl:A]C[If you wanted to protect against the cut, playing at A instead of this would have done it in one move, giving you sente.]
+;B[cl];W[fl];B[jq]
+(;W[fp]C[This is to reduce his territory, right?
+
+Reducing is all well, but there's plenty of bigger things white could be doing. See the variations.]
+;B[fm];W[fn];B[gm];W[fo];B[hn];W[ip];B[io];W[jp];B[kq]TR[fm]
+[gm][hn][io]C[Take a look at the marked stones. they're looking kind of weak at the moment. This would be an ideal time to exploit that. If white pushes up from the right, he could get an ideal platform for entering the right side. Not to mention he'd be building up a position right in front of blacks wall. (See var.)]
+
+(;W[lq]C[This is a bad move. White gains almost nothing...]
+;B[lp];W[lr];B[kp]C[... and suddenly blacks weak group isn't looking so weak anymore.]
+;W[kr]C[And this is way too small. This move gets white one point.]
+;B[hp];W[nc];B[oc]
+(;W[od]C[The usual response to this is to simply extend (see var.)]
+;B[pc];W[nd];B[nb];W[jd];B[jc]C[This is a mistake by black, one that white manages to exploit quite well. It almost lost black a game that he was leading quite a bit because of his left side territory.]
+;W[kc];B[kd];W[je];B[ld];W[lc];B[ic];W[md];B[le]TR[kd][ld]C[Now black has a floating group in a center where white has a strong wall.]
+;W[gr]C[Seems pretty small. Exploiting blacks weak group in the center is way more important right now.]
+;B[iq];W[pj]C[And finally, a move on the empty right side :)]
+;B[qj]C[This is another mistake (contact moves are usually not a good way to attack)
+
+And again, white exploits it well.];W[qi];B[qk];W[ph]SQ[kd]
+[ld][le]C[If you listen closely, you can almost hear blacks three stones whimpering pitifully.]
+;B[qg];W[of];B[oe];W[ne];B[pe]C[And black just keeps making it worse. It's remarkable how white is building a strong position in the center despite blacks wall in the bottom.]
+;W[ng];B[mf];W[nf];B[mg];W[mh];B[lh];W[ni];B[ri]C[This is a very small move. Black has secure positions on both sides, so there is little he can gain.
+
+I would just keep up the attack on the center group.];W[qh]
+;B[rh];W[li];B[kg];W[kh];B[lg];W[jh];B[jf];W[if];B[ie];W[jg]
+;B[kf];W[id];B[he];W[hd];B[hc];W[ge]C[Nice manouver. It might have strengthened his top left, but white gets a huge center territory.]
+;B[gd];W[hf];B[fe];W[gf];B[ec]LB[cb:A]C[And by now, white should start watching out for his upper left group, it's really starting to look troubled.
+
+A black move at A would be disastrous.];W[me]C[This isn't really neccesary, that group is dead already.]
+;B[oi]LB[oj:A]C[Just close it at A. There's nowhere for that stone to run, and there's nothing it could kill.]
+;W[oh];B[oj];W[ok];B[nj];W[jn]C[Was that meant as a ladder break? There's no ladder there...]
+;B[jo]C[You just end up with a single stone standing alone against a large wall. Worth almost nothing at all.]
+;W[lm];B[ll];W[gc];B[gb];W[db];B[da];W[ca]C[Uh oh.
+
+You're lucky black didn't spot this one. See the variation.]
+
+(;B[ea];W[cb];B[cg];W[bg]C[And again, this could have gone much worse. See variation.]
+
+(;B[bh];W[be];B[ag];W[bf];B[ah];W[af];B[mj];W[mi];B[lj];W[ki]
+;B[kj];W[qf];B[pf];W[pg];B[rg];W[rf];B[rj];W[qd]C[There's no way that white stone could live. That move would be better spent on another part of the goban]
+;B[qe];W[rd];B[re];W[se];B[sf];W[sd];B[qc];W[mb];B[ma];W[ob]
+;B[pb];W[na];B[pa];W[oa]LB[nb:X]C[Uh oh.
+
+Those stones are in atari...];B[kb];W[lb];B[jb];W[la];B[ka]
+
+(;W[ir]C[At this point, I probably would have gone straight into the corner. See variation.]
+;B[gq];W[fq];B[hq];W[er];B[dq];W[hr];B[jr];W[js];B[eq];W[co]
+;B[do];W[cr];B[dr];W[ds];B[fs];W[es];B[cq];W[br];B[bq];W[aq]
+;B[ap];W[ar]C[But white managed to get in there anyway :)];B[bp]
+;W[bs]C[This move is completely unneccesary.];B[go];W[jl];B[km]
+;W[jm];B[kn];W[jj];B[jk];W[ik];B[kk]
+(;W[ii]C[It's not neccesary to sacrifice those three stones. See variation.]
+;B[il];W[hl];B[im];W[gl];B[gn];W[qp];B[qo];W[ro];B[rn];W[qn]
+;B[po];W[rm];B[qm];W[sn];B[pn];W[rn];B[pl];W[rl];B[rk];W[ql]
+;B[pm];W[sk];B[sj];W[sl];B[pi];W[ia];B[fc];W[ga];B[fa];W[ha]
+;B[tt];W[tt]TW[aa][ba][ma][ab][bb][nb][ac][bc][cc][mc][ad][bd]
+[kd][ld][ae][ce][he][ie][ke][le][jf][kf][lf][mf][hg][ig][kg]
+[lg][mg][og][fh][gh][hh][ih][lh][nh][fi][hi][ji][gj][hj][ij]
+[ek][gk][hk][el][sm][so][rp][sp][rq][sq][fr][qr][rr][sr][as]
+[cs][fs][gs][hs][is][ks][ls][ms][os][ps][qs][rs][ss]TB[ga][ha]
+[ia][ja][qa][ra][sa][fb][hb][ib][qb][rb][sb][gc][rc][sc][qd]
+[rd][sd][se][qf][rf][sg][ch][sh][ai][bi][ci][si][aj][bj][cj]
+[pj][ak][bk][lk][mk][nk][ok][pk][al][bl][jl][kl][ml][nl][ol]
+[am][bm][cm][jm][lm][mm][nm][om][an][bn][cn][in][jn][ln][mn]
+[nn][on][ao][bo][co][ho][ko][lo][mo][oo][cp][ip][jp]C[And it ends up quite close.
+
+I don't quite agree with your evaluation. I think black started off ahead with his large lower left corner and your not quite so large lower right. Particularly once blacks left side started taking shape, things were looking pretty grim for you.
+
+However, I like how you managed to build up a territory in the middle by pushing blacks upper- and right groups. It almost won you the game.
+
+
+All in all, I'd say you should look into the corner play a bit. Take a look at the usual sequences. I wouldn't advice you to start memorizing joseki (in fact, I'd advice you NOT to, that stuff is way above your level and would do more damage than good), but take a quick look the corner positions and enclosures, and the different ways of approaching those:
+
+http://senseis.xmp.net/?Joseki])
+(;W[il];B[ij];W[ji];B[hk];W[hl];B[gl];W[gk];B[hj];W[hi]))
+(;W[cq]
+(;B[dq];W[cp];B[co];W[bo]
+(;B[cr];W[br];B[dr];W[bs])
+(;B[bn];W[bp];B[cr];W[br];B[dr];W[bs]))
+(;B[cp];W[dq];B[bq];W[ep])))
+(;B[bf];W[ce];B[bh]))
+(;B[cb]
+(;W[cc];B[ba])
+(;W[ea];B[cc];W[da];B[ba])))
+(;W[nd];B[pf];W[jd]TR[nb]C[The difference between this and the main line is that you don't have a black stone poking through at O18, which is a pretty major difference really.]
+))
+(;W[ko];B[jm];W[km];B[kl];W[lm];B[jk];W[ll];B[ji];W[hk];B[il]
+;W[mj];B[kh];W[if]C[And now blacks upper left group is being threatened too]
+))
+(;W[db]C[Secure the corner. It makes a lot of things easier. There were plenty of times later during the game where black could have attacked that corner, giving white some serious problems.]
+)
+(;W[gf];B[fe];W[hd]C[Put pressure on blacks group. He's in trouble now, and while he struggles to live, white can expand that wall into something really fearsome.]
+)
+(;W[pj]C[Enter the completely open right. It approaches blasphemy to have a whole, wide open side this late in the game.]
+))
+(;W[cl];B[bk];W[bl];B[ci];W[bg]LB[bg:B][bl:A][cl:A]C[And now black is in deep shit. Even if he manages to live. White has managed to:
+
+A) Break into  blacks corner territory, taking a large chunk out of it.
+
+and
+
+B) Strengthen his corner.]))
+(;B[cf];W[ce];B[cj];W[dh];B[ch];W[df];B[cg];W[fh];B[gf]C[White still saves the corner, but now black has managed to establish strong positions on both sides.
+
+If black plays like this, he can gain a lot from cutting into whites over-extension.]
+))

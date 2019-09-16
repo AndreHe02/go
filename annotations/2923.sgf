@@ -1,0 +1,201 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+PB[ShinJoseki]
+BR[4k]
+PW[alex4]
+WR[3k]
+KM[0.5]
+DT[2004-12-05]
+PC[The Kiseido Go Server (KGS) at http://kgs.kiseido.com/]
+RE[B+5.50]
+TM[1800]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+C[Hi, this game contains a lot of small errors.
+I won this game thanks to a small endgame mistake of my opponent.
+
+My questions are mostly related to joseki decisions. All help is appreciated.
+
+If you know any progames that have simular positions as in my game, please let me know. It is always nice to know what to study.
+
+Try gobase.org, or Combilo, program with pattern search ;)]
+;B[pd];W[dc]
+(;B[pq];W[dq];B[ce];W[ch]C[Something I am not very familiar with ...]
+
+(;B[eg]LB[dd:C][fe:B][df:A][eg:D]C[I guess my move is a bit strange at first sight, but it is something I have more experience with than the A or B. And I am not totally convinced about A yet, as it looks a bit slow.
+
+I used to play C here, but somebody commented to me, it was a bad move here. I have no idea why though ? I assume it is related to the white C12 stones position.
+
+How would you play after the pincer ?]
+(;W[dk]
+(;B[cg]C[not neccessary, so bad];W[dh]TR[cg]C[bad exchange]
+;B[fc];W[ed]LB[dg:A]TR[cg][dh]C[A is threat now, delta is bad exchange ..]
+;B[fd];W[ee];B[cc]
+(;W[cd]C[?];B[bd]TR[cd]C[thx move];W[dd]
+(;B[bf]C[This at B18 would have been better I guess.];W[bc]
+;B[cb];W[bb]
+(;B[ef]C[bad direction
+see variation];W[fe];B[eb];W[db];B[ca];W[da]TR[ca]C[bad...
+at least ko threat];B[jc]LB[jc:B][hd:A]C[It took me about a minute to decide whether to play A or B. See variations as for why I am thinking about these 2 ...]
+
+(;W[lc]C[White overplayed  here]
+(;B[ge]C[bad idea, helps white];W[gf];B[eh]C[I concidered this move as sente when i played it ... wrong I guess ...]
+;W[hc];B[hd];W[gb];B[ic];W[fb]
+(;B[le]C[overestimating my black position a bit ...
+
+bad direction];W[kd];B[je];W[ke]
+(;B[cj]C[I was getting a bit impatient...];W[dj];B[ci];W[di]
+;B[bh]C[too small ...];W[jf];B[hf];W[ie];B[gg]
+(;W[ff];B[if];W[jd];B[id]
+(;W[hg];B[ig];W[hh];B[ih]
+(;W[hi];B[ii];W[hj];B[qo]
+(;W[bk]LB[jp:A]C[A is bigger right ?];B[jq];W[ij];B[kh];W[lf]
+;B[qf];W[pc];B[qc];W[qb];B[rb];W[rc];B[qd];W[ra];B[pb]LB[sb:A]
+C[I think this is actually bigger than extending at A.
+Is this correct ?];W[sb];B[oc];W[me]
+(;B[eq]LB[do:A]C[Attaching here or A ? or something other in mind ?]
+;W[ep]C[good reply];B[dr];W[fq];B[er];W[dp];B[cq];W[cp];B[bq]
+;W[bp];B[ap]
+(;W[bn]
+(;B[gq]
+(;W[gp];B[fr]
+(;W[hp];B[fp];W[fo];B[pj];W[pr]LB[oq:A]C[I wanted to respond with A here first ... and probably should have ... I was just thinking that it might get complicated for black to use that influence correctly]
+
+(;B[qr];W[oq];B[or];W[pp];B[qq];W[nr];B[ps]
+(;W[mo];B[on]C[This is the end of my questions ... No need to comment on the rest of the game. I am only interested till here.
+
+Thank you for your time and efforts ofcourse !!!];W[lr]C[This shouldnt happen, but I didnt concider J2]
+;B[op]C[Too fast decision];W[ir];B[iq];W[hq]
+(;B[jr];W[gr];B[lp];W[np];B[nq];W[mq];B[mp];W[oq];B[oo];W[lo]
+
+(;B[no]C[yup, not enough ... too small];W[kp];B[nq];W[lq];B[lm]
+
+(;W[kn];B[jl];W[kk];B[km];W[mk]C[bringing my top in danger :-s]
+
+(;B[lj];W[lk]TR[lj]C[I dislike this, seems better for white]
+
+(;B[jj];W[jk];B[nm];W[ni];B[mh];W[nh];B[mg]C[2 cutting points ? and 2 weak groups ...]
+;W[ng];B[mf];W[nf];B[ne];W[md];B[mj];W[nj];B[lg];W[kg];B[jg]
+;W[kf];B[mi];W[kj];B[ki];W[ji];B[kb];W[lb]
+(;B[hb];W[gc];B[ib];W[nc]
+(;B[nd];W[oe];B[od];W[nb];B[nk];W[qh];B[qi];W[qg]
+(;B[of];W[og];B[pf];W[rg];B[ph];W[sf];B[pg];W[nl];B[ok];W[ml]
+;B[mm];W[ol];B[jn]C[now or never ...];W[io];B[jo];W[jp];B[pl]
+;W[qk];B[ri];W[pk];B[oj];W[pm];B[ql];W[rl]C[reading mistake ... didnt notice it was a ladder :-s]
+;B[re];W[se];B[sg];W[sh];B[rd];W[sd];B[rn];W[qm];B[hm];W[fm]
+;B[gl];W[fl];B[ko];W[np];B[fj];W[gk];B[gd];W[ec];B[ga];W[ea]
+;B[bj];W[aj];B[ai];W[ak];B[ck];W[cl];B[bi];W[bl];B[ac];W[hl]
+;B[ab];W[ba];B[gm];W[in];B[im];W[jm];B[jn];W[fs];B[bs];W[ao]
+;B[aq];W[df];B[dg];W[de]
+(;B[cf];W[fq];B[ek];W[ej]C[and that is how I won it after all :-s]
+;B[dl]C[alex4 [3k?\]: ^_^];W[dm]C[ShinJoseki [4k\]: :)];B[el]
+;W[fk];B[ei];W[em];B[mp];W[es];B[ds];W[gs]C[ShinJoseki [4k\]: hi]
+;B[pa];W[qa];B[gn];W[fn];B[ns];W[mr];B[gi];W[fg];B[gh];W[fh]
+;B[fi];W[pn];B[po];W[jo];B[jm];W[rm];B[ha];W[fa];B[ms];W[ls]
+;B[os];W[ka];B[ja];W[la];B[kc];W[ob];B[oa];W[na];B[pc];W[sn]
+;B[so];W[sm];B[si];W[qn];B[ro];W[sk];B[rh];W[sg];B[rf];W[sc]
+;B[qj];W[il];B[om];W[mn];B[np];W[lp];B[he];W[ln];B[je];W[ld]
+;B[jh];W[jj];B[rj];W[rk];B[ie];W[tt];B[tt]TW[ca][ma][sa][cb]
+[eb][mb][rb][cc][mc][le][hk][ik][al][pl][ql][sl][am][bm][cm]
+[an][cn][dn][en][bo][co][do][eo][ko][fp][ip][gq][iq][jq][kq]
+[hr][jr][kr][hs][is][js][ks]TB[ia][jb][ae][be][oe][pe][qe][af]
+[nf][ag][bg][ng][og][ah][ch][dh][lh][nh][oh][di][li][ni][oi]
+[pi][dj][ej][nj][dk][pp][qp][rp][sp][oq][rq][sq][ar][br][cr]
+[pr][rr][sr][as][cs][qs][rs][ss])
+(;B[tt];W[ag]C[I was pretty happy having found this answer, and reasonable fast too.]
+;B[af];W[bg];B[ah];W[bg];B[ag];W[cf]))
+(;B[rf];W[ri];B[rj];W[pi];B[qj];W[pf];B[pe];W[of];B[ph];W[oi]
+;B[si]))
+(;B[oe]C[better shape]))
+(;B[ib]
+(;W[ja];B[ka];W[ia];B[hb])
+(;W[nb];B[nc];W[mc];B[oa];W[na];B[la];W[qa])
+(;W[nc];B[oe];W[nb];B[nk])))
+(;B[mh];W[tt];B[jk]C[aji];W[jj];B[kj]))
+(;B[mh]C[simply here]))
+(;W[np];B[mp];W[qj]))
+(;B[kp]C[Extending here is a lot bigger];W[no];B[jn];W[nq];B[jl]
+))
+(;B[hr]C[probably better here and just throw the 2 stones away immediatly.]
+;W[jr];B[kq];W[kr];B[ko];W[lq]
+(;B[nq];W[kn])
+(;B[km]
+(;W[nq];B[mn]C[enough])
+(;W[mm];B[nq];W[lp];B[io]))))
+(;W[po]C[important]
+(;B[qn];W[mo])
+(;B[op];W[qp];B[rp];W[ro]C[big damage])))
+(;B[oq];W[qq];B[qp];W[rq];B[or];W[qs]C[... Ah sente];B[jo]))
+(;W[fp];B[hq]))
+(;W[fp];B[fr]))
+(;B[fp];W[gp];B[fo];W[hq]C[unreasonable for black ?])
+(;B[hp]C[or just jumping a bit to the center like this ?];W[qj]
+))
+(;W[ao]C[correct]))
+(;B[do]
+(;W[cp];B[ep])
+(;W[fq];B[cq];W[cp];B[dp];W[bq];B[eq];W[cr];B[dr];W[cq];B[er]
+;W[ep];B[fp];W[eo];B[fo];W[en];B[gq]C[maybe this])))
+(;W[jq];B[bl];W[bk];B[ck];W[cl];B[cm];W[dl];B[ak];W[bm];B[bj]
+;W[bn]C[W can close side]))
+(;W[ii]))
+(;W[po]C[w is waiting for his chance]))
+(;W[id]C[correct]))
+(;B[kf]C[must settle ur group];W[lf];B[jf];W[me];B[lg];W[mf]
+;B[kh]))
+(;B[nc];W[le];B[jf]C[correct way how to attack])
+(;B[oc]C[big]))
+(;B[je]C[natural]))
+(;AW[eb][fc][fd][pd][de][bf][cf][bg][dj][pp]AB[bb][db][bc][dc]
+[ec][cd][be][df][ff][dg][eh][cp][eq]AE[da][cb][cc][jc][bd][ee]
+[fe][ef][eg][dk][dq][pq]LB[eg:B][eh:1][dj:2][ck:A]C[To me it looked like this situation ... On the other hand ...
+
+this move aims at B])
+(;W[tt];AW[ec][lc][oc][pc][fd][nd][ce][ge][le][me][ff][rf][qg]
+[qj][cp]AB[fb][qc][gd][hd][jd][ld][od][qd][oe][re][cf][df][og]
+[cj][pp]AE[ca][da][bb][cb][db][bc][cc][dc][jc][bd][cd][pd][fe]
+[bf][ef][cg][eg][ch][dh][dk][dq][pq]LB[cc:D][bd:B][be:A][bf:C]
+[ff:1][cj:2]C[This is the 2nd game that came to mind...
+
+a is big]))
+(;B[fe];W[dg];B[db]C[shortage of liberties]
+(;W[eb];B[ef]
+(;W[df];B[de])
+(;W[da];B[df]C[B can settle]))
+(;W[ad];B[be];W[df];B[eb];W[ba];B[ab]C[nothing])))
+(;B[bc]C[I prefer this]
+(;W[cb]C[no sente])
+(;W[tt];B[db];W[eb];B[cb];W[ec];B[fb];W[fe];B[ea]))
+(;B[bb];W[cb];B[bc];W[eb]C[some aji]))
+(;W[cb]C[natural];B[bc];W[dg]))
+(;B[fc]
+(;W[df]C[not good];B[dg];W[cf];B[cg])
+(;W[ed];B[fd];W[ee];B[fe];W[dg];B[cc];W[cb];B[bb]C[B can live]
+)))
+(;W[fd];B[cc];W[cb];B[dd];W[ec];B[di];W[df];B[ef];W[ci];B[dj]
+;W[cj];B[dk];W[cl];B[dg];W[dl]C[Allthough I do think that this result is better for white here.]
+))
+(;B[dd]C[What is wrong about this move ? I saw somebody commenting it is bad here ... ?
+
+yes, this is bad now];W[cc];B[ec];W[ed];B[eb];W[ee];B[cd];W[bc]
+
+(;B[df]
+(;W[ef];B[db];W[dg];B[bd]TR[ch]C[I see that the marked white stone is very efficient here. But still I think black can not be dissatisfied with the corner?]
+)
+(;W[gc]C[difficult fight, but this seems ok];B[gb];W[hb]
+(;B[fd];W[fc]
+(;B[hc];W[hd];B[ic];W[fb];B[gd];W[ga];B[ff];W[fe];B[ge];W[gf]
+;B[he];W[ef];B[fg];W[eg])
+(;B[fb];W[hc]))
+(;B[fc];W[gd]
+(;B[hc];W[ga];B[fa]C[ko, but w will win])
+(;B[fd];W[fe];B[ge];W[db];B[fa];W[da];B[ea];W[ha]))))
+(;B[db];W[cf];B[bf];W[de]C[B's trouble]))
+(;B[df];W[fd];B[bc];W[jc];B[ck];W[eh];B[ff]LB[gd:A]C[joseki, black aims at A]
+))
+(;B[dq]C[this is fashion ;)]
+(;W[pp];B[ce]C[important])
+(;W[co]
+(;B[pp])
+(;B[ce];W[ci]C[pincer and extension]))))

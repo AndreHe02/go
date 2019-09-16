@@ -1,0 +1,70 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+PB[GNU Go 3.6:level 10]
+HA[3]
+PW[User]
+KM[0.5]
+DT[2007-07-19]
+RE[B+0.50]
+RU[Japanese]
+
+AB[dd][pd][dp]C[Hello reviewer, this game is a 3 stone handicap game against GNU go, in which I played as white. Please review for both sides. thank you in advance.
+
+** I'll mark my comments with two asterisks like this.  I believe a lot of the later awkwardness in the game came from an agressive fuseki.  If you make solid groups, rather than floating groups, you'll be able to do aggressive attacks with confidence instead of feeling like each new move hurts some other group on the board.  It is ok to allow your opponent some profit in fuseki.]
+;W[pp];B[dj];W[fq];B[hq];W[go]C[This move is probably abnormal, but I was trying to avoid forcing black to strenthen his left side, and it seemed too early to invade the 3-3 point.
+
+** If black strengthened the left side anyway, would you feel comfortable with this position?]
+
+(;B[qn];W[mq]C[** This feels like a stretch to help the weak left side]
+;B[qk];W[fc]C[** I feel like the bottom is left is now in shambles (or will be if black moves there first).  There's a weak black stone in the middle of two weak white groups.  You owe at least one move to clean it up.]
+;B[id];W[ge];B[kq];W[lo];B[dm];W[cq]C[This jump seemed a little early, but it was the only attempt I could see to avoid running with the f3 stones.]
+;B[cp];W[dq];B[dg]C[** This weak white group *has* to give black protit down the road as fights break out.]
+;W[nc];B[qf];W[ne];B[if];W[gg];B[of];W[lf]C[** Will this move generate profit?  You're getting a lot of awkward jumps into the center.]
+;B[eb]
+(;W[pj]C[probably a little premature, considering the weak group up top
+
+** I agree, but it definitely feels like white is behind.];B[on]
+;W[pg];B[og];W[oh];B[pf];W[ph]
+(;B[rp];W[qq];B[oc];W[pm];B[pn];W[pl];B[rq];W[ri];B[qr];W[pr]
+;B[lc];W[mb];B[mf];W[me];B[lg];W[mg];B[mh];W[kg];B[ib];W[lh]
+;B[mi];W[kb];B[gd];W[fd];B[nf];W[ld];B[mc];W[nb];B[ob];W[kc]
+;B[he];W[gf];B[gc];W[fb];B[dc];W[dh]C[I really had no ideas as to how to break up the moyo on the left, but I figured I'd have to try or I'd have no chance in the game.
+
+** I think that this move is unreasonable given your weak group.  A peep with E16 would make me feel a lot better about attacking.]
+;B[eh];W[eg];B[df];W[ei];B[fh];W[di];B[fi];W[ej];B[cj];W[fk]
+;B[rl];W[fg];B[hi];W[ih];B[hh]C[can't see any way to save the group up top. at this point, I'd normally resign, but I played on to see if I could turn the situation around later.]
+;W[hg];B[ig];W[jh];B[ef];W[ii];B[hj];W[il];B[gl];W[fl];B[fe]
+;W[cg];B[nl];W[nh];B[pk];W[ng];B[bf];W[bg];B[cf];W[bi];B[fm]
+;W[gk];B[hk]
+(;W[dl];B[cm];W[cl];B[bl];W[bk];B[ep];W[eq];B[ko];W[jp];B[hn]
+;W[kp];B[jq];W[lq];B[ho];W[gp];B[hp];W[bm];B[bn];W[al];B[bq]
+;W[br];B[hl];W[bp];B[rr];W[nj];B[oq];W[or];B[nq];W[nr];B[no]
+;W[mk];B[jo];W[kr];B[jr];W[lr];B[ip];W[ms];B[im];W[jl];B[bo]
+;W[aq];B[lp];W[mp];B[gr];W[fr];B[na];W[ma];B[oa];W[op];B[np]
+;W[pq];B[ag];W[ah];B[af];W[bj];B[ln];W[kp];B[jm];W[kl];B[gq]
+;W[fp];B[nd];W[md];B[mo];W[em];B[en];W[fn];B[el];W[gm];B[gn]
+;W[em];B[eo];W[ek];B[ik];W[jk];B[qj];W[qi];B[ok];W[oj];B[rg]
+;W[od];B[oe];W[pc];B[pb];W[qc];B[rd];W[qb];B[nd];W[gh];B[od]
+;W[gi];B[gj];W[fj]C[with this I think I got back into the game.]
+;B[gb];W[lb]C[too small?];B[km];W[ll];B[ml];W[lk];B[jb];W[rj]
+;B[rh];W[rk];B[sk];W[sj];B[sl];W[qh];B[lm];W[lp];B[ff];W[qs]
+;B[rs];W[ps];B[ij];W[jj];B[hm];W[fm];B[ks];W[ls];B[js];W[gs]
+;B[hs];W[fs];B[ka];W[jc];B[ic];W[la];B[ja];W[jd];B[je];W[ke]
+;B[jf];W[kf];B[hf];W[sh];B[sg];W[si];B[qg];W[nk];B[ql];W[qo]
+;B[ro];W[oo];B[po];W[qp];B[jp];W[jg];TW[lc][mc][kd][le][lg]
+[bh][ch][eh][fh][kh][mh][ai][ci][fi][ji][ki][li][mi][ni][oi]
+[pi][aj][cj][dj][kj][lj][mj][ak][ck][dk][kk][bl][el][am][cm]
+[dm][an][bn][cn][dn][en][ao][bo][co][do][eo][fo][ap][cp][dp]
+[ep][bq][ar][cr][dr][er][mr][as][bs][cs][ds][es][ns][os]TB[aa]
+[ba][ca][da][ea][fa][ga][ha][ia][pa][qa][ra][sa][ab][bb][cb]
+[db][fb][hb][qb][rb][sb][ac][bc][cc][ec][fc][hc][pc][qc][rc]
+[sc][ad][bd][cd][ed][fd][hd][qd][sd][ae][be][ce][de][ee][ie]
+[pe][qe][re][se][rf][sf][ol][pl][mm][nm][om][pm][qm][rm][sm]
+[in][jn][kn][mn][nn][rn][sn][io][so][sp][iq][sq][hr][ir][sr]
+[is][ss])
+(;W[hl]C[** If the top group wasn't cut, this whould be effective]
+))
+(;B[mg]C[** Splitting attack, can be very lethal]))
+(;W[kc]C[would this move have been better?]))
+(;B[dn]C[** Where to play now?  White J4 still seems locally best to me.  I don't think I'd ignore D6 by black.]
+))

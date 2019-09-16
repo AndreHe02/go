@@ -1,0 +1,66 @@
+(;FF[4]GM[1]SZ[19]AP[SGFC:1.13b]
+
+PB[Vu Hoang-long]
+PW[Vu Lam-son]
+KM[5.5]
+
+;B[pp];W[jj]C[normally the opening moves are made in the corners.  Then progress to the sides, and finally to the middle.
+
+Remember, Go is a game of territory, not a capturing game.  Territory is easiest to surround in the corners, next easiest along the sides.  The middle is the hardest place to secure territory.]
+;B[pd];W[pj];B[dp];W[jp];B[hn];W[jn];B[im];W[in];B[jm];W[km]
+;B[jk];W[jl];B[il];W[kl]C[Your moves so far show that you have no intention at all of securing territory, but are simply interested in fighting and trying to capture each other.  This can be fun, but is not really the purpose of the game.  Even so, I will go ahead and make a few comments to help your thinking when you do get into this type of fight.]
+;B[ik]C[This is a good move as it keeps blacks stones connected.  It is important not to get your groups cut into small pieces when fighting because small pieces die too easily.]
+;W[hj];B[gk];W[fk]C[White on the other hand, is getting scattered all over and will be cut apart.  Then the pieces will die.]
+;B[gj];W[gi];B[fj];W[ej];B[ek];W[fl];B[dk];W[gl];B[hk];W[ij]
+;B[fi];W[ei];B[hi];W[gh];B[ii];W[fh];B[gm];W[fm];B[el];W[em]
+;B[dm];W[fn];B[gp];W[gn];B[hm];W[ho];B[kj];W[ji];B[jh];W[ki]
+;B[li]C[Very good black.  This is called a ladder and white's stones are caught.]
+;W[go]C[Good white.  Much better not to throw more stones into the ladder to be caught.  Also, this was a good move in that it connects your stones.  If black had been allowed to move there, 7 more white stones would have died eventually.]
+;B[hh];W[hl];B[kh];W[lj];B[mi];W[kk];B[lk];W[mj];B[ll];W[nj]
+;B[kn];W[lm];B[mm];W[ln]C[This time the ladder doesn't work, and the 4 black stones are hopelessly weak and divided.]
+;B[ko];W[mn];B[ol]CR[ml]TR[lk][ll]C[Notice white has a double atari at the mark whenever he wants it.  The two marked stones cannot escape, and white's stones get joined up by the capture.
+
+Capturing stones that separate (cut) groups apart is more valuable than most other stones you might capture because it strengthens you as well as making profit.]
+;W[lo];B[kp];W[kq];B[lp];W[mp];B[lq];W[lr];B[np];W[nq];B[no]
+;W[mo];B[nn];W[mq];B[oq];W[jo];B[or];W[io];B[oj];W[dn];B[cn]
+;W[co];B[do];W[en];B[cp];W[eo];B[bo];W[mk]CR[ml]C[Should have been at the red mark.]
+;B[ml];W[om];B[nm];W[pl];B[ok];W[pk];B[ni];W[oi];B[bm];W[ep]
+;B[er];W[pm];B[gr];W[hp];B[gq];W[dd];B[he];W[hd];B[fe];W[ge]
+;B[gd];W[gf];B[gg];W[hf];B[eh];W[fg];B[hg];W[ff];B[dh];W[di]
+;B[df];W[if];B[ie];W[id];B[je];W[jf];B[jd];W[ic];B[fd];W[ke]
+;B[kf];W[kg];B[lf];W[lg];B[jg];W[ef];B[ee];W[mf];B[le];W[ld]
+;B[kd];W[me];B[mg];W[ke];B[ig];W[kc];B[lf];W[jc];B[lh];W[kf]
+;B[de];W[dg];B[ch];W[cf];B[ce];W[be]CR[eg][cg][bf]C[Leaving too many cutting points to have any possibility of success.]
+;B[cg];W[eg];B[bf];W[ed];B[ci];W[pc];B[od];W[pb];B[oc];W[qc]
+;B[qf];W[qd];B[qe];W[rd];B[re];W[pe];B[oe];W[pf];B[pg];W[of]
+;B[nf];W[og];B[oh];W[ne];B[ng];W[nd];B[nc];W[ob];B[nb];W[mc]
+;B[of];W[na];B[ma];W[oa];B[mb];W[lb];B[la];W[ka];B[fc];W[ec]
+;B[hb];W[ib];B[ha];W[ia];B[hc];W[fb];B[eb];W[db];B[bd];W[se]
+;B[sf];W[sd];B[rb]C[Nice move black.  This sets up a complex situation.
+
+In general, a group needs 2 eyes to live.  With this particular placement, it will be hard for white to make 2 eyes.    There is one exception to the two eyes rule.  Neither black nor white will be able to make two eyes, but in this case, it is possible that neither can be killed either, so both live.   See variation 2.]
+
+(;W[ra];B[qa];W[qb];B[sa];W[pa];B[ra];W[sg];B[rf];W[rg];B[qh]
+;W[rh];B[sc];W[nl];B[nk];W[qi];B[pi];W[ri];B[pn];W[on];B[qn]
+;W[qm];B[sn];W[rn];B[rm];W[ro];B[rl];W[so];B[sm];W[rk];B[qp]
+;W[ql];B[rp];W[sl];B[sp];W[rm];B[oo];W[qo];B[po];W[nr];B[ir]
+;W[dr];B[dq];W[cr];B[cc];W[cb];B[dc];W[bc];B[cd];W[ae];B[af]
+;W[ad];B[ac];W[bb];B[ea];W[da];B[ab];W[fa];B[ec];W[ba];B[ga]
+;W[gc];B[gb];W[eq];B[fr];W[cq];B[bq];W[br];B[ar];W[hq];B[hr]
+;W[iq];B[jr];W[kr];B[ls];W[ks];B[ns];W[ms];B[os];W[js];B[is]
+;W[fq];B[fp];W[es];B[fs];W[ds];B[as];W[gs];B[bs];W[bk];B[ck]
+;CR[ba][bb][bc][cb][db][da][bk][di][ei][ej][cq][cr][br][dr]
+[ds][es][gs][lf][oa][na][pa][ob][pb][qb][pc][qc][qd][rd][sd]
+[se]C[Marked stones are dead.  Black wins by 101 points.
+
+If you have any questions, don't hesitate to ask.  I'll do my best to answer them.
+
+-Darrell-])
+(;W[qa]CR[pa]C[white tries to make an eye at the mark.];B[qb]
+C[Black jumps in and makes it a "false eye"];W[ra];B[sb];W[rc]
+C[Now, neither side can kill the other.  If either one tries, they put themselves into atari and die.
+
+This is called seki.
+
+This is probably too complicated for this particular review, but it was too cool to pass up.]
+))

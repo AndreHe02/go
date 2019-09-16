@@ -1,0 +1,132 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+PB[sockenbert]
+BR[1k]
+PW[naka1]
+WR[1d]
+KM[0.5]
+DT[2006-12-29]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[W+11.50]
+TM[60]
+OT[25/300 Canadian]
+RU[Japanese]
+GC[Reviewed for GTL by Steve Fawthrop, AGA 5d. January 2007]
+
+
+C[Chris: Dear Reviewer,
+Thank you very much for looking at this game. I hope to find fundamental errors in my thinking in this game, and hope you can help me identify the mistakes I make all the time. Not so much the reading but rather strategic decisions, that led to my loss.
+
+I hope to learn a lot from you,
+best regards
+Chris];B[pd];W[dc];B[qp];W[dp];B[fq]C[Chris: My favourite opening as Black for the last few months.]
+;W[op]LB[pn:B][lp:D][eq:C][iq:A]TR[fq]C[Chris: I am not sure how to handle this approach. I was considering A so when White plays B, his thickness would already be reduced, but it seemed like a vague approach, as White might choose not to play B.
+
+SGF: 'A' would be wrong for two reasons.  It is only a 2 point extension and so W can make it overconcentrated by attaching at C.  Second, it is not really a pincer against W's stone as it is too far away.  In this situation both B and W have a chance to pincer the opponent and in the process strength their own approach stone.  The questions, then, are how wide and how high. To extend correctly from the marked stone a 2 or 3 point pincer is best.  To balance with this stone a high pincer seems better.  I would play at D.]
+
+(;B[mq]C[SGF: For the reasons given before this is not optimal.  None of the standard joseki leave the B stone to the left well placed.]
+;W[jp]TR[fq]C[Chris: This feels weird to me, but I find it hard to respond well.
+
+SGF:  This is a funny move.  W should just play a simple joseki and leave B's marked stone badly placed]
+
+(;B[oq]C[SGF: This is not such a good idea.  No doubt it is big but jumping out is more interesting.]
+;W[pp];B[pq];W[qo];B[qq];W[pn]LB[np:A]C[SGF: Not good - 'A' is to good for B and W should play there himself.]
+;B[np]C[Chris: This result feels better for black
+
+SGF:  Yes.  B is definitiely ahead now];W[fo]C[SGF: Another funny move.  W should patch up his shape at the right.]
+
+(;B[qm]C[Chris: I wanted to launch a serious attack. Maybe a play a bit further away would have been better?
+
+SGF: This is not a serious threat.  W can just descend and he will be ok. 'A' is the key point.  See the variations.]
+
+(;W[pm]C[SGF:  Not good.  See variation.];B[qk];W[ql];B[rl]
+;W[pl];B[rm];W[ro];B[qi];W[oj]C[SGF:  B has acheived nothing.  Rather than play this sequence B sould have been better to concentrate on the lower side and come back to this later.]
+;B[pk];W[ok];B[nl];W[ol];B[nm]LB[nn:A]C[SGF: 'A' looks better than this move as the following moves show.]
+;W[nn];B[mn];W[on];B[lm];W[mo];B[lo];W[lp];B[mp];W[no];B[ko]
+;W[kp]
+(;B[hp]LB[jo:A]C[SGF:  This just encourages Wa, which is what he wants to play anyway.]
+;W[jo];B[jm];W[ho]LB[nm:A]TR[jm]C[SGF:  Terrible for B. There was no time for even thought it was a key point.  This whole position came about by playing the heasvy move at 'A'.]
+;B[go];W[hn]
+(;B[gp]C[SGF:  B must push through.];W[gn];B[dr]TR[hp]C[SGF:  Diving to the 2nd line to live here is a disaster. It would have been better to jump into the 3-3 point instead of the marked stone and at leave W's territory undercut from the right.]
+;W[hl];B[kk]LB[mj:A]C[SGF:  Bad shape.  It has no effect on the W group to the right.  I would have played 'A']
+
+(;W[oh]LB[qg:A][kn:B]C[SGF:  I don't like this move.  If W preserves his options he can aim at 'A' later.  I would therefore play the variation shown, starting at B, to see how B responds]
+;B[pi];W[oi];B[pg];W[og];B[pf];W[ki]C[SGF:  Very nice.  More than compensates for the B side.]
+;B[jn];W[ip];B[cq]LB[cf:A]C[SGF: Although a big move it does not seem urgent.  If W plays here B can still live.   I think I would play 'A']
+;W[cp];B[bq];W[ci]C[Chris: Now Whites stones seem to be better coordinated over the whole board. Where was Blacks mistake?
+
+SGF:  Already explained earlier.];B[jj]C[SGF:  Nice move.  Solidifies B's group and reduces W's influence in many directions.   However, I am concerned about the size of W's moyo.  Given that it is open in the lower left I think the playing the top star point is bigger.]
+;W[hi];B[ji];W[kg]
+(;B[jc]LB[jf:A]C[SGF:  This feels unbalanced but it is hard to say exactly why. The W dragon to the right is not severely threatened, but neither is it completely alive, so a 4th line move seems better. This move does not stop a 3-3 invasion in the upper left so it is questionable on that count. 
+
+The point 'A' appeals to me. It puts pressure on the W group while eying the moyo more than the move played.]
+;W[ld];B[de]LB[jf:A]C[SGF:  B is now giving the impression of jumping about with no plan.  The last two moves do not coordinate well.  'A' still looks good.  If the lower left were sealed off I would be more concerned about the left side.]
+;W[fd];B[cc];W[cb]
+(;B[cd]LB[bp:A]C[SGF:  This is not the place for a standard joseki move. if W can attack B in sente then he has 'A' to secure a large territory.  B needs to be more resourceful and cut as shown in the variation.]
+;W[bb];B[cg];W[hc]TR[jc]C[SGF: Very bad for B.W is safe but B is not.  The bad marked move is now a liability.  B's game is now falling apart.]
+;B[mc];W[lc]C[SGF:  Not very imaginative.  A 3-3 invasion first would be more interesting.]
+;B[lb];W[kb];B[mb];W[kc];B[eg];W[ei];B[ck]TR[cc][cd][de][cg]
+[eg]C[Chris: This was overplay. Is this the loosing move?
+
+SGF:  Not really. The game is probably lost already.  But it is an overplay.  B is obviously thinking that this stone can connect above or below, but if W plays correctly he can make the top group live in gote and then seal off the side.  Making the marked heavy group is not a good strategy in a situation like this.]
+;W[bh];B[gg];W[bp]LB[gg:B][bo:A]C[SGF:  This had to be expected. B probably should have jumped to 'A' instead of 'B' and hoped to make the top group live somehow.]
+;B[fn]C[SGF:  Very optimistic.];W[eo];B[gj];W[fh];B[fg];W[hj]
+;B[cn];W[en];B[dj];W[di];B[gk];W[hk];B[bg];W[bj];B[fm];W[em]
+;B[bo];W[ap];B[gh];W[gi];B[fl];W[dl];B[ka];W[ja];B[la];W[jb]
+;B[pc]LB[md:A]C[SGF: Hard to believe that this move is necessary.  With B being as strong as he is I would expect that 'A' would protect the corner as well.]
+;W[hr];B[gr];W[hq];B[gq];W[ad];B[be];W[he];B[jh];W[kh];B[jg]
+;W[jf];B[md];W[me];B[nf];W[ne];B[of];W[mg];B[ng];W[mh];B[nh]
+;W[ni];B[ed];W[ec];B[fe];W[ge];B[if];W[ie];B[kr];W[jr];B[lr]
+;W[aq];B[br];W[ar];B[dq];W[cl];B[ep];W[fp];B[eq];W[do];B[mf]
+;W[lf];B[im];W[hm];B[mj];W[mi];B[rp];W[lj];B[lk];W[ph];B[qh]
+;W[pj];B[qj];W[od];B[oc];W[oe];B[pe];W[mk];B[nk];W[nj];B[ae]
+;W[ml];B[ll];W[ig];B[ih];W[hf];B[hh];W[bc];B[bd];W[ac];B[eh]
+;W[fi];B[il];W[ik];B[jk];W[gs];B[fs];W[hs];B[js];W[is];B[ks]
+;W[jq];B[in];W[io];B[bs];W[ff];B[ee];W[gf];B[ah];W[ai];B[ag]
+;W[ch];B[sp];W[so];B[qn];W[sm];B[sl];W[sn];B[dh];W[ef];B[df]
+;W[nd];B[nc];W[le];B[mm];W[mj];B[hg];W[lq];B[nr];W[if];B[rk]
+;W[po];B[dd];W[tt];B[kq];W[tt];B[tt]TW[aa][ba][ca][da][ea][fa]
+[ga][ha][ia][ab][db][eb][fb][gb][hb][ib][fc][gc][ic][jc][gd]
+[hd][id][jd][kd][je][ke][kf][lg][lh][bi][li][aj][cj][dj][ej]
+[fj][gj][ak][bk][ck][dk][ek][fk][gk][al][bl][el][fl][gl][am]
+[bm][cm][dm][fm][gm][an][bn][cn][dn][fn][ao][bo][co][oo][iq]
+[ir]TB[ma][na][oa][pa][qa][ra][sa][nb][ob][pb][qb][rb][sb][qc]
+[rc][sc][qd][rd][sd][ce][qe][re][se][af][bf][cf][qf][rf][sf]
+[dg][qg][rg][sg][rh][sh][ri][si][rj][sj][sk][jl][kl][km][kn]
+[ln][nq][rq][sq][cr][er][fr][mr][or][pr][qr][rr][sr][cs][ds]
+[es][ls][ms][ns][os][ps][qs][rs][ss])
+(;B[db]
+(;W[eb];B[dd]
+(;W[ec];B[bb];W[da];B[bd])
+(;W[da];B[ec];W[db];B[fc]))
+(;W[bc];B[ec];W[cd];B[ed])))
+(;B[jf]
+(;W[jh];B[ih];W[ig];B[jg];W[kh];B[hh]
+(;W[ii];B[gi];W[hj];B[gf])
+(;W[if];B[je];W[ii];B[gi];W[hj];B[gf]))
+(;W[jg];B[ig];W[if];B[ie];W[hf];B[ih])))
+(;W[kn];B[ln];W[km]
+(;B[kl];W[jn]C[SGF:  Now B has bad shape and W can decide how to play depending how B fixes it up.]
+)
+(;B[jn];W[kl]
+(;B[jl];W[ll];B[mm];W[lk];B[lj];W[kj])
+(;B[ll];W[jl]))))
+(;B[gn];W[gp];B[fp];W[gq];B[eo];W[fn];B[gm]C[SGF:  This is complicated but B cannot afford to be sealed in.]
+;W[en];B[dn]
+(;W[ep];B[hq];W[gr];B[fr];W[hr];B[do])
+(;W[do];B[hq];W[gr];B[fr];W[hr];B[ep])))
+(;B[jo];W[ip];B[go]C[SGF: This looks better than the game but it could get very complicated.]
+))
+(;W[ro]C[SGF: How does B respond to this move?  There isn't really a strong attack.]
+))
+(;B[on]
+(;W[pl];B[qm])
+(;W[pm];B[pk]))
+(;B[nn];W[qk];B[go]C[SGF: Another possiblity]))
+(;B[mo]C[SGF: W doesn't have a good followup. If both players mke a series of one point jumps into the middle then W has no base and B ends up much better.]
+))
+(;B[lp]
+(;W[on];B[qn]C[SGF: This is not good for W because the one point jump usually anticipates a pincer on the B stone, but here it is not good.]
+)
+(;W[pm];B[oo];W[no];B[on];W[pp];B[qo]LB[fq:A]C[Here the presence of the B stone at A impeded W.]
+)))

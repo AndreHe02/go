@@ -1,0 +1,83 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.13b]VW[]
+
+PB[Sewerian]
+BR[6k]
+PW[Ronin2]
+WR[6k]
+KM[5.5]
+DT[2003-02-28]
+RE[B+Resign]
+RU[Japanese]
+
+C[Ronin: Hallo, in this game I'm white and I would like to know the main errors I did. I'm concerned about the opening and/or the attack&defence. Thanks.]
+;B[pd];W[dq];B[pp];W[cd];B[co];W[ep];B[dm]LB[ck:B][jq:A]C[A and B are the follow up moves for white.  It isn't necessary for white to play them at this time.  As you play out the game, keep in mind about these two points.  It will help you to determine how to play the rest of the board.]
+;W[nc];B[nd];W[md];B[ne];W[oc];B[pc];W[ic]LB[jc:A]C[This extension is too wide.  The proper play is at A.  Black can invade easily.  Please see variation.]
+
+(;B[me]C[This is a bad move for black.  He removes the aji of the upper side.]
+;W[ld]C[White says thank you.  Now black can't invade the upper side.]
+;B[pg]
+(;W[qm]LB[ck:A]C[Now that white has developed the upper side, at the appropriate time he can play A to make a good framework.  Please see variation.]
+;B[qk];W[pk];B[ql]LB[pj:A]C[Black overplays here.  The normal response is A.]
+;W[pl];B[pm]
+(;W[qn]LB[qj:A]C[A is better.  Please see variation.];B[pj]
+
+(;W[nl]LB[om:A]C[A is better.  Please see variation.];B[oj]
+;W[nk];B[qi];W[on];B[po];W[pn];B[mq]LB[qq:A]C[Black's corner isn't secure yet.  White can still invade at A.]
+;W[cj]LB[ck:A][cm:D][cn:C][dn:B]C[The usual move is to pincer at A.  That way when white attacks at B, black can't connect at C.  He has to play at D.]
+;B[ck];W[dj];B[gq];W[gp]LB[cp:A][bq:B]C[Play at A to secure the corner.  It's also very big in territory.  Compared to a move at B by black, it's worth about 20 points.  The game move helps black to strengthen the lower side.]
+;B[fq]LB[hq:A]C[Simply playing at A is sufficient for black.  Take profit at the lower side.]
+;W[fp];B[ec]LB[ed:C][hp:A][hq:B]TR[ic]C[A is very big for black.  Likewise, B is huge for white.
+
+For black's kikari at the upper right corner, C is better because of white's marked stone.]
+
+(;W[de]LB[dc:A]C[Play A to punish black for his mistake.  Please see variation.]
+;B[cc];W[bc];B[cb];W[fd];B[dd];W[ed]LB[bd:A]TR[cj][dj]C[A is better.  This seals black in, and goes well with the two marked white stones.]
+;B[bd];W[dc];B[ce];W[dd];B[be];W[bb];B[ch];W[dh]LB[kf:B][eh:A]
+C[Playing at A casts a wider net and avoids contact play, which could help black.  White doesn't have to kill black.  Just seal him in.  Later a move around B would enlarge white's framework nicely.]
+;B[dg];W[cf]LB[eg:B][fg:C][eh:A]C[White is trying too hard to kill black.  Play at A, followed by black B and white C.  The objective is to seal black in.]
+
+(;B[bf]LB[df:A]C[Black should play at A.  Please see variation.]
+;W[df];B[di];W[eh];B[cg];W[eg];B[ci];W[ei];B[bj];W[ek]LB[dk:A]
+[cl:B]C[A is stronger.  Black has to respond at B.];B[dk];W[ej]
+LB[fj:A]C[Tenuki.  If Black captures the two stones, block at A.  Black can't cut through white's wall.]
+;B[jf];W[kf];B[kg];W[lf];B[lg];W[jg];B[le];W[ke];B[kd]
+(;W[je]LB[kc:A]C[A is better.  Please see variation.];B[jd]
+;W[if]LB[id:A]C[A is critical.];B[kb];W[lb];B[mb];W[mc]LB[lc:A]
+C[A gives better shape.];B[la];W[lc];B[kc];W[nb];B[ma];W[na]
+;B[ka];W[pb];B[qb];W[id];B[oa];W[mg];B[li];W[mh];B[jj];W[mi]
+;B[jh];W[ih];B[ii];W[kh]LB[lh:B][ki:C][il:A]C[White is behind and needs to kill the whole black group to have a chance.  Attacck around A to try to capture black's group.  Black only has half an eye so far.  If black plays at B, white can play at C with sente to allow black one eye only.]
+;B[ji];W[lh];B[hh];W[ig];B[hk];W[gl];B[kl];W[mo];B[iq];W[nq]
+;B[np];W[mp];B[op];W[lq];B[mr];W[lr];B[nr];W[kp];B[hp];W[jr]
+LB[im:A]TR[mo][kp][mp][lq][lr]C[Now that white has built up the thickness with the marked stones, play at A to attempt to kill the center black group.  If this group lives, white won't have sufficient territory.  Playing at A also separates the two black groups.]
+;B[in];W[jo]C[Now the two black groups connect and the game is pretty much over.]
+;B[gn];W[ho]LB[hm:A][im:B][hn:D][io:C]C[A is white's last chance.  Black B, then white C.  Black D, then white B.]
+;B[io];W[hn];B[hm];W[go];B[gm];W[em];B[en];W[dl];B[cl];W[el]
+;B[dn];W[bp];B[eq];W[cp];B[do];W[dp];B[cr];W[dr];B[er];W[fn]
+;B[fm];W[fo];B[bo];W[hr];B[hq];W[jp];B[ip];W[hl];B[il];W[fl]
+;B[im];W[lk];B[kk];W[ik];B[hj];W[br];B[ds];W[cq];B[aq];W[ap]
+;B[bs];W[cs];B[db];W[es];B[fb];W[fc];B[eb];W[bi];B[bh];W[bk]
+;B[ai];W[cm];B[bl];W[bm];B[ak];W[an];B[ao];W[eo];B[fs];W[gr]
+;B[ds];W[as];B[ir];W[is];B[hs];W[js];B[fr];W[rp];B[ro];W[qo]
+;B[rq];W[qp];B[qq]C[Ronin2 has resigned the game.])
+(;W[kc];B[jd];W[je];B[ie];W[if];B[lc];W[mc];B[jc];W[lb];B[kb]
+;W[lc]
+(;B[id]LB[ib:A]C[See variation if black plays at A.];W[ib];B[jb]
+;W[gc];B[hf];W[hg];B[ge];W[gf])
+(;B[ib];W[id];B[jb];W[hb];B[hc];W[hd];B[gc];W[gb];B[gd];W[he]
+)))
+(;B[df];W[bf];B[cg];W[ae];B[di];W[eh];B[ei];W[fh];B[ci];W[ej]
+;B[fi];W[fj];B[gi]C[Good for black, as white has two weak groups.]
+))
+(;W[dc];B[ed];W[df];B[ef];W[dg]C[Whie is solidifying his territory on the left side, while black has a weak group.]
+))
+(;W[om];B[pn];W[po];B[on];W[oo];B[nn];W[qp]LB[oj:A][nk:C][ok:B]
+TR[pp]SQ[pk][pl][om]C[Black's marked stone at the corner has been seriously weakened.  Also, the three marked white stones are not completed dead.  There is still aji.  For example, at the appropriate time, whte can hane at A.  If black plays B, white can atari at C to trim down black's thickness.]
+))
+(;W[qj];B[rj];W[pj];B[ri];W[rm];B[rl];W[sl];B[rk];W[pn];B[om]
+;W[on];B[nm];W[nn];B[mm];W[mj];B[mn];W[np]LB[qn:A][rn:C][po:E]
+[qo:B][ro:D]TR[pp]C[It's a fight that white can handle.  Black doesn't want to cut at A yet.  With the A to E sequence, it will hurt his marked stone.]
+))
+(;W[ck];B[bq];W[ed]LB[bm:B][jq:A]C[This is good for white, especially if white has stone at A.  Otherwise, his two lower left stones are a bit thin.  Also, white's move at B is annoying for black sine it takes away black's eye space.]
+))
+(;B[kc];W[jd];B[ld]LB[mc:A][me:B]C[White is in trouble whether he plays at A or B.]
+))

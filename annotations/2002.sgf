@@ -1,0 +1,186 @@
+(;FF[4]GM[1]SZ[19]CA[UTF-8]AP[SGFC:1.15]
+
+GN[gtl]
+PB[Osiris]
+BR[11k]
+PW[Amaito]
+WR[10k]
+KM[0.5]
+DT[2003-10-26]
+PC[The Kiseido Go Server (KGS) at http://kgs.kiseido.com/]
+RE[B+7.50]
+TM[60]
+OT[25/480 Canadian]
+RU[Japanese]
+
+C[Thank you for reviewing my game.
+
+I hope you will comment on all aspects of the game, but I am especially interested in how I could improve my attacking play in the early middle-game. Also if after seeing the game you have any advice on what I should study, I would appreciate it.
+
+Although I won this game, it was close, and I feel it is a good choice for review.
+
+catch22: This is the first game I have ever reviewed. Thanks for giving me an interesting game to work with. I hope you find my comments useful.
+
+First of all a disclaimer. Sometimes I present alternative sequences to illustrate an idea. These sequences are by no means perfect. Players stronger than me (and there are many) can no doubt find faults with them. However, it is the underlying idea that is important.
+
+Well, let's begin...];B[pd];W[dp];B[qp];W[cd];B[fq];W[dn];B[kq]
+LB[jp:a]TR[fq]C[catch22: Playing at "a" is better. The distance to the marked stone is too much. They are easily separated by a White stone at H3 or J3. Also having both stones at the third line gives you a position that is a bit too low.]
+;W[ec];B[ci];W[ck];B[cf];W[op];B[pn]
+(;W[mq]C[catch22: This move is a bit strange. It would be more common for White to play R3 first. See the variation.]
+
+(;B[lo]C[catch22: Because White did not play at R3, you should probably play at Q3 first. See the variation.]
+;W[nn]
+(;B[no]C[catch22: I don't think that this is a good forcing sequence. It does not gain you anything (the stones at N5 and O5 are virtually worthless) and limits your possibilities later in the game. 
+
+For instance, later in the game this could have been a valuable ko threat. Or, later on it may turn out that a different forcing sequence would have been better. See for instance the variation (although you should probably still not play that sequence either)]
+;W[oo];B[mo];W[on];B[pm];W[nl];B[pk];W[pg];B[nj];W[pr];B[pq]
+;W[oq];B[qr];W[ps];B[qs];W[nr];B[nd];W[ng];B[lg];W[qj];B[qk]
+;W[rj];B[of]TR[qj][rj]C[catch22: Do not play a forcing move just because you can. It should have a purpose, e.g. support your next move. 
+
+In this case, it may later turn out that a peep at P12 would have been better. For instance, because it helps you to break the connection with the two marked stones. This does not yet seem possible, but maybe later.
+
+Having the choice of from which side to peep, and when to do so, is a weapon in your arsenal. Keep it in the back of your mind and try to use it when the time is ripe. Even if you never get round to playing the peeping move, you may still gain. The mere fact that you have the option, restricts White's movements locally..]
+;W[og]
+(;B[rk]C[Is it too early for me to descend to the second line here?
+
+catch22: Yes, I would think so. At the moment White's group is still insecure and you can gain by further attacking it. By playing at P9, you enable White to establish a base, effectively ending your potential to attack it. 
+
+If you do not play at S9, White may reduce your territory in the bottom right corner. However, it does not really help white to create eyes. White should probably think about securing his group first before reducing your territory. So even if you do not descend immediately, you may still find most of your territory intact.
+
+See the variation for an alternative way of playing.];W[qe]
+;B[qd];W[re];B[rd];W[pj];B[ok]C[catch22: Why reply? If you play elsewhere, White still cannot connect his groups in one move. Furthemore, both groups are pretty secure already, so keeping them separated (although valuable) does not seem urgent. Instead, take sente to play a big move at the top.]
+;W[ld]
+(;B[me]TR[ld]C[Generally I would like to play a pincer here, since my opponent has played so close to my strong corner, but I felt it necessary to prevent connection here. In retrospect, it seems that White could not connect in one move anyway.
+
+catch22:  I agree, a pincer would be better. Your move does not put significant pressure on the marked White stone. By an extension along the border it can easily create a base, and even claim territory. On the other hand, your move at N15 does not gain you much. The White group at the right seems to be secure already.
+
+A pincer at K17 looks good. See the variation.];W[oc];B[od]
+;W[mc];B[nc];W[mb]
+(;B[nb]TR[ld][mc][mb]C[catch22: Instead of descending, you should still consider attacking the marked stones by playing a pincer. Although you may lose some territory at the top right, the safety of your group is not in immediate danger. It still has a lot of room for eyes, and it's also already out into the center. 
+
+The gains you can make by attacking the marked stones should more than make up for any loss in your corner.
+
+I have shown one possible attack in the variation.];W[id];B[dr]
+;W[cq];B[hp]TR[kq][fq]C[This was very big, but gote. Is there anything I should have done first? It also settles the corner; would it have been better to avoid that, hoping to invade later?
+
+catch22: I think this was a good moment to play this sequence. The gap between the two marked stones was still too big. If you did not reinforce here, White could invade, splitting you into two groups.
+
+Although it does settle the corner, I don't think this is bad. It would be a bit too much for you to expect to invade the corner _and_ take the territory at the side.]
+;W[ig];B[eb]SQ[ci][cf]TR[pj][qj][rj][pg][og][ng][qe][re][mb]
+[mc][ld][id]C[catch22: I think this is a decisive moment in the game. So far, you may have actually slightly fallen behind. This is because you've let White secure his marked stones too easily. Instead of limiting the loss of your own territory, you should have severly attacked these stones.
+
+So you should indeed try something drastic to turn the game in your favour. This move is indeed quite drastic, and gives you a good result in the game.
+
+However, I think White let you of the hook. Because your marked stones at the left are not yet safe, playing at E2 is dangerous. If White keeps you split into two weak groups, and attacks both simultaneously, he should be able to kill at least one group.]
+;W[db];B[fc]
+(;W[fb]C[catch22: This is not a good move by White. It allows you to play at E16 and link up to your group at the left side. See the variation for an alternative way of playing for White.]
+;B[ed];W[dc];B[fd];W[de];B[eg];W[df];B[dg];W[ej];B[gb];W[ea]
+;B[ff];W[hc];B[gc]C[Was there a better way to reduce the upper side, and did White have any more severe way to play?
+
+catch22: I hope I have answered your question by now. By reducing the upper side and keeping your stones at the left alive, I think you got more than you were entitled to. White could have played more severly.]
+;W[hb]C[catch22: The end game is starting now. 
+
+I have tried to comment in much detail on the middle game and how to attack. So I will finish my review here.
+
+Although I may have sounded critical at times, I hope you forgive me. I have focussed mostly on Black's play. As a result, I have mostly pointed out moves where I thought Black could play better. However, given the fact that you won the game, you didn't do badly! :-)
+
+Finally, some simple  tips that may help you to improve your game:
+
+- Try to resist your opponent. Instead of playing the obvious reply (and letting your opponent take control), see if there is an alternative move that is equally good (or better) where you take control.
+
+- Always consider the whole board. It is okay to lose locally when you gain more elsewhere.
+
+- When you attack, be clear of your goal. For instance, try to create territory elsewhere (as opposed to limiting your loss locally) or create influence and strength (which may help you to attack elsewhere)
+
+- Keep your options open. Do not play forcing moves unless there is a clear gain. When locally there are multiple options to choose from and it's now yet clear which is best, don't play yet (unless you really need to).]
+;B[fn];W[eq];B[er];W[fp];B[gp];W[gq];B[fr];W[cr];B[fo];W[lr]
+;B[kr];W[pp];B[qq];W[qo];B[po];W[ro];B[rp];W[sp];B[sq];W[so]
+;B[rr];W[bf];B[bg];W[ce];B[cg];W[af];B[ag];W[be];B[mm];W[gi]
+C[Seems to demonstrate the error of my last move.];B[bj];W[bk]
+;B[he];W[ie];B[hf];W[if];B[hd];W[ic];B[fl];W[cj];B[bi];W[gm]
+;B[fm];W[ik];B[hl];W[jm];B[il];W[jl];B[jk];W[kk];B[jj];W[kj]
+;B[ji];W[mi];B[ni];W[mh];B[hj];W[lm];B[ml];W[mj];B[ll];W[kl]
+;B[kn];W[in];B[jn];W[im];B[io];W[ks];B[js];W[ls];B[ir];W[np]
+;B[do];W[co];B[dm];W[cm];B[en];W[eo];B[ep];W[dl];B[do];W[cn]
+;B[dq];W[cp];B[ak];W[al];B[aj];W[bm];B[ma];W[la];B[na];W[kb]
+;B[pf];W[qf];B[nm];W[sd];B[sc];W[se];B[rb];W[sk];B[sl];W[sj]
+;B[rm];W[di];B[ke];W[le];B[kf];W[lf];B[jg];W[jh];B[kh];W[ih]
+;B[ki];W[jf];B[kg];W[kd];B[gj];W[fj];B[gl];W[gn];B[cs];W[bs]
+;B[ds];W[ar];B[km];W[mn];B[ln];W[dh];B[fh];W[ch];B[bh];W[gg]
+;B[hg];W[gh];B[hh];W[fg];B[gf];W[eh];B[hi];W[fi];B[ef];W[ga]
+;B[el];W[ek];B[fk];W[ii];B[ij];W[om];B[ol];W[oh];B[oi];W[pi]
+;B[lq];W[ns];B[mp];W[ee];B[fe];W[mk];B[nk];W[nf];B[eo];W[oe]
+;B[pe];W[ne];B[md];W[mf];B[je];W[jd];B[em];W[ho];B[go];W[hn]
+;B[dd];W[lk];B[li];W[nh];TW[aa][ba][ca][da][fa][ha][ia][ja]
+[ka][ab][bb][cb][eb][ib][jb][lb][ac][bc][cc][jc][kc][lc][ad]
+[bd][ae][rf][sf][qg][rg][sg][fh][ph][qh][rh][sh][ei][qi][ri]
+[si][dj][dk][bl][cl][am][an][bn][ao][bo][ap][bp][aq][bq][nq]
+[br][mr][or][as][ms][os]TB[oa][pa][qa][ra][sa][ob][pb][qb][sb]
+[oc][pc][qc][rc][gd][ge][ah][ai][gk][hk][ik][nl][pl][ql][rl]
+[lm][qm][sm][qn][rn][sn][jo][ko][qo][ro][so][fp][ip][jp][kp]
+[lp][sp][eq][gq][hq][iq][jq][rq][gr][hr][jr][sr][es][fs][gs]
+[hs][is][rs][ss])
+(;W[ed]C[This gives White good shape, and keeps Black's stones separated.]
+
+(;B[ib]C[Black may try to create a base.];W[ic]C[However, White keeps up the pressure.
+
+I'll show several continuations for Black, but all seem to fail.]
+
+(;B[jb]C[Black may try to expand his base.];W[hb]C[But White's cut is severe]
+
+(;B[hc]C[Black cannot capture White's cutting stone.];W[gb]
+;B[fb];W[gc]C[Black is cut apart.])
+(;B[gb]C[Black can link up.];W[hc];B[ha];W[fd]C[However, black cannot make two eyes and dies.]
+))
+(;B[hc]C[Or Black could play here.];W[gb]C[But White's placement is severe. White can rescue this stone if need be, or create a nakade shape.]
+)
+(;B[gb]C[Or Black could play here to create eye shape.];W[hc]
+C[However, White has a good counter move.];B[hb];W[jb];B[fa]
+;W[gc]C[Black is dead.]))
+(;B[fd]C[Or Black may try to run out.];W[ee]C[However, White keeps black separated]
+;B[gf];W[eg];B[gh]C[Even if Black manages to succesfully escape with his group at the top (unlikely)...]
+;W[ei]C[Black will lose his group at the left.])))
+(;B[jd];W[jc];B[ic];W[jb];B[id];W[ob];B[nb];W[na];B[qb]LB[dk:a]
+[ee:b]C[White still needs a move to secure his group. You have lost some territory in the corner. On the other hand, you have reduced White's territory at the top. Furthermore, a move at "b" starts to look good. If you first play a forcing move at "a" a nice mojo starts to appear in the center. :-)]
+))
+(;B[jc]TR[ld]LB[gc:a][oc:b]C[This looks like a good place to attack the marked White stone. It leaves room for an extension to "a". Or alternatively, you can connect to your corner group. Also, it helps to defend against a peep at "b". Although this does not yet seem feasible (see the continuation), it's a nice insurance.]
+;W[oc]C[What if White peeps? It does not look a good move. See the two possible continuations.]
+
+(;B[od]C[A conservative reply.]
+(;W[mc];B[nc];W[nb];B[ob];W[lb];B[na];W[ma]TR[jc]C[A ko where Black does not risk much. Blacks corner is not in danger, and the marked Black stone nicely interferes with White's stones at the top.]
+)
+(;W[nc];B[mc]TR[jc]C[Here the marked Black stone allows you to cut the two White stones off.]
+;W[md];B[lc];W[kd];B[kc];W[mf];B[pc]C[Here White indeed linked up, but made no significant gains whereas Black secured territory. Not a bad deal. 
+
+Also, instead of the defending at Q17 first, Black can maybe even play at K16 first. As long as Black's corner group does not die (I do not think so, but it does get a bit complicated) he has an even better result.]
+))
+(;B[nc]C[A more forceful reply. It looks like White cannot get a good result from this]
+;W[od];B[oe];W[pc];B[qc]
+(;W[pe]C[One possible continuation for White...];B[pb];W[ne]
+;B[ob];W[nf]C[Good for Black])
+(;W[qb]C[Another move by White to consider...];B[rb];W[nb];B[mb]
+C[White seems to have no good move left.]))))
+(;B[qf]C[A move here starts to reduce White's eyespace. Also the connection between both chains becomes in danger. This looks like a proper attack!]
+
+(;W[qg]C[Let's see what happens when White replies conservatively...]
+;B[rf];W[rg];B[rk]C[Your gain is very clear. White still needs another move to secure his group.]
+)
+(;W[rl]C[What if White tries to reduce your territory immediately?]
+;B[rk];W[sk];B[qh]C[There are various possible continuations for Black. This looks like a good one, as it threatens to break the connection between the White stones and it interferes with White's eyespace.]
+;W[qg];B[rg];W[ph];B[rh];W[pi];B[rn]C[White's group is under severe attack. It does not have any eyes yet.  It will have to run away, and you can gain more profit while continuing your attack. The reduction of your territory in the bottom corner is more than offset by the gains you made at the top. This is a terrible result for White.]
+)
+(;W[rk]C[Another alternative. It helps White to create eyes, and somewhat reduces your territory.]
+;B[rl];W[qg];B[rf];W[pj];B[ok];W[rg]C[A reasonable result for both Black and White? Black has gained at the top and has sente to play a big move elsewhere (e.g. at K17). White has secured his group (for now), and can look forward to reducing Black's territory at the bottom right a bit more in the endgame.]
+)))
+(;B[oo];W[no];B[pp];W[oq];B[mp];W[np];B[pr]C[This strengthens your corner and significantly limits White's eyespace.]
+))
+(;B[pq]C[This limits White's ability to create eyes at the side, and gives you profit in the corner.]
+
+(;W[kp]C[White could play here...];B[jp];W[ko];B[jq]TR[fq]C[... but this only helps your position, as the distance to the marked stone is now ideal.]
+)
+(;W[oq]C[Or White could play here...];B[lo];W[nn]C[... but this too good for Black? It's definitely worse than in the game.]
+)
+(;W[nn]C[But probably White should run out immediately. Unlike the game, however,  it will be difficult for White to create eyes at the border. So the White group could become a nice target of attack later in the game. For now, Black should probably take a big point elsewhere. It is not directly obvious what Black can gain by attacking the White group at this moment.]
+)))
+(;W[qq];B[rq];W[pq];B[ro]LB[mq:a][lp:b]C[Now White can continue playing at "a" (as in the game) to create a base, or at "b" to run out into the center. Compared to the game, White has created more room for eyes and reduced Black's corner.]
+))

@@ -1,0 +1,190 @@
+(;FF[4]GM[1]SZ[19]AP[SGFC:1.13b]
+
+GN[tt]
+PB[woep]
+BR[23k]
+PW[masatsura]
+WR[22k]
+
+C[This is the game woep(23k) (B) / masatsura (22k*) (W).
+I reviewed this game from woep (B) point of vue.
+
+
+woep : 
+Allthough I managed to get 3 out of 4 corners, i was beaten about 50 points.
+
+I would like to know
+a) how do i get all these weak groups
+b) what are the basic mistakes i make (apart from having these
+weak groups ofcourse :-)
+
+Ghost : Some global notes. Black has big difficulties in determining the status of groups : whether they are alive or dead. As a consequence you spent a lot of moves (see the center fight) trying to make something of dead stones, spent a lot of moves trying to kill white groups that were already alive and so on. Also, you do not lose the game if you lose one stone or two... trying to save a group that consists litteraly of one stone is useless. Similarly, you're not going to win the game by capturing a three-stone group.. Like all the beginners, black is way too focused on capturing stones, which inevitably leads to fighting and considering the differing in levels between black and white, this is not to the advantage of black. Black was so sorely focused on capturing groups that white got tremendous thickness and won the game through it. The weak groups woep refer to don't really exist, I mean, it's stones black put in territory that was white : it was impossible to have anything other than dead groups.
+
+My advice number one would be : don't try so much to capture stones. Build some territory instead.
+
+Also, black (white also) should do well to study a little life and death (goproblems.com for example)
+
+ As for woep remarks : 
+> I would like to have this game reviewed.
+> I am looking to know my strength in kyu,
+> and i don't seem to get a decent opponent.
+> They either are too good or not good enough.
+
+Your strenght is probably around 25 kyu, but it's difficult to say precisely at those levels since your skill varies a lot... That you find too good or not good enough and opponent is normal. Both the opponent and you make too many mistakes, but have some interesting ideas, therefore you can loose by 50 points against someone of your level and win the next... As you get stronger this problem will decrease.
+
+The reviewer : 
+
+Ghost (emeric.maury@free.fr)];B[pd];W[dp];B[pp];W[dc]LB[pj:A]
+[de:B][ce:C]C[Ghost : A classic fuseki (opening).
+A normal way of following is playing a san-ren-sei with 'A' for black, or approching the corner at 'B'. ('C' is seen sometimes too.)]
+
+(;B[fq]TR[pp]LB[de:A]C[Ghost : Black approach here is unusual. This move is not very strong because the marked stone is high. It should have been better to approach the other corner at 'A' (see variation) since white did not play on a star point and therefore invaded an approach (aimed at keeping white from making a corner enclosure).]
+
+(;W[iq]LB[dn:A]C[Ghost : Defending at 'A' would have been too passive for white and would have enable black to settle down (see variation) so white countered with a low pincer.]
+
+(;B[dn]TR[iq][fq]LB[fp:A][cq:B]C[Ghost : This is Black's first mistake. This would have been a good move if white marked stone was not present. Now, Black marked stone is under heavy attack, particularly if white next attaches at 'A'. Playing Black 7 at 'B' was the only move (see variation]
+;W[fp]C[Ghost : White doesn't miss the good move.];B[gp];W[fo]
+;B[hp]LB[eq:A][dq:B][hq:C][gq:D]TR[iq]C[Ghost : This last move (Black 11) is a mistake. Black 'A', White 'B', Black 'C' is better : Black's shape is stronger, and white's marked stone is attacked. As it is now, white can even cut directly at 'D' (see variation]
+
+(;W[eq];B[gq]C[Ghost : This makes bad shape for Black. Black 'A' was perhaps better... Anyway, the real mistake was Black 11, after that, it's hard to get anything good here.]
+;W[ip];B[hn]TR[ip][iq]C[Ghost : this sequenced is forced. It's bad for black since White gets stronger with the marked stones, and all black can do is get out in the center, with stones that have no real meaning anymore. All this is the result of Black 11.]
+;W[lp];B[nq]C[Ghost : White played timidly (too small an extension), so Black gets a good point.]
+;W[go];B[fc]LB[de:A][ce:B][cd:C]TR[hp][gp][gq][fq]CR[dn]C[woep : I think now maybe H5 is better / less worse
+
+Ghost : This is a really big mistake.
+Black marked stones (triangle) die, and Black 19 did not even attack the corner ! in order to attack the corner, 'A', 'B', or even 'C' was to be played, in order to use the support of the marked stone (circle). Here, there was no other move than connecting at H5.]
+;W[ho];B[pj]TR[fc]CR[dn]LB[dk:A]C[Ghost : Sure enough this is a big point, but what's the use ? It doesn't fit with Black's sttrategy until then. You sacrificed a group to play Black 19 (triangle), so you have to follow there ! A move in the upper left corner would have been good. extending at 'A' would have been good also, since the marked stone (circle) is weak because of the proximity of white's wall.]
+;W[de]C[Ghost : a good move. This renders useless in terms of attack the move of Black 19. Even more, black has to defend his stone]
+;B[fd]LB[ic:A][fe:B]C[woep :I didn't know what to do here. Shame on me.
+
+Ghost : no commentary.... this is not good. Extending at 'A' was better... jumping two points at 'B' was good too, to build influence. Remember the proverb : "A two space jump is never a bad move".]
+;W[ch]C[Ghost : strong!  White plays very solidly.];B[cj]TR[dn]
+LB[ck:A]C[Ghost : This is too far from Black's stone (triangle) considering the strength of white's position in the upper left corner. 'A' was stronger.]
+;W[dl]C[Ghost : As a result of a too wide extension, white is in position to cut.]
+;B[cl]C[Ghost : this is the correct move];W[dj]C[Ghost : this is also correct :o)]
+
+(;B[dm]LB[cm:A]C[Ghost : this is a mistake. 'A' was the key point. We will see why in 2 or 3 moves. Playing at 'A' creates one less cutting point.]
+;W[ck];B[bk];W[dk]LB[bj:A][bl:B][bm:C]C[Ghost : Now, black has 2 cutting points to defend with one move ('A' and 'B'). Defending the cutting point 'B' with a move at 'C' is now necessary. (see the variation at Black 29 now to get an idea of how things should have gone for black)]
+;B[ci]C[Ghost : this is bad. It defends none of the cutting points.]
+;W[bl];B[cm];W[bj]C[Ghost : White punishment is immediate];B[bi]
+;W[ak];B[di]LB[fm:A]TR[cl][cm][dm][dn]CR[bi][ci][cj][di]SQ[hn]
+C[woep : This is bad. And it happened so fast!
+
+Ghost : not fast. This is the result of two mistakes : Black 29 and Black 33.
+This move (Black 39) is also a mistake. The triangle marked stones can be almost killed by a white move at 'A'. The triangle marked stones have more value than the circle marked stones, because of the squared marked stone that is getting more and more alone. A Black move at 'A' is essential to connect.]
+;W[ei]C[Ghost : White choses to go after these stones...];B[ej]
+LB[dh:A]C[Ghost : mistake. White 'A' kills all. 'A' is the key point]
+;W[ek]LB[eh:A]C[Ghost : white move is a mistake. Playing 'A' enables black to get out (see variation).]
+
+(;B[fj]C[Ghost : what for ? get out directly.];W[fk];B[eh]C[woep : Hoping to get a black wall on the inside...
+
+Ghost : I think getting a wall is secondary... you have to get your stones out... you cannot die everywhere (you two other invasions got killed). The variation was stronger]
+
+(;W[jd]LB[fi:A]C[Ghost : since white did not play 'A' (see variation, which was stronger), black has to profit from it.]
+;B[lc]LB[gi:A][cf:B]C[Ghost : This is weak. Defending at 'A' (because white can still get his stone out) was better. For attacking, 'B' was good. Anyway, this is getting hard for black. White now has a lead of almost 30/40 points (all the bottom right quarter is white's, and he has good prospects in the center.)]
+;W[nd]LB[nc:A][ld:B][mc:C][md:D]C[Ghost : this is a trick move. White wants Black 'A', White 'B', black 'C', white 'D'. Black has to show spirit and cut by playing 'B'.]
+;B[nc];W[ld];B[od];W[md];B[mc]LB[qc:A]C[Ghost : Black may think he has territory, but a 3-3 invasion at 'A' is still possible, and white got a big wall that works well with his thickness in the center... also, if the marked stone get out, things are going to be impossible for black. White gained a little in this exchange.]
+;W[kc];B[kb];W[jb];B[lb];W[hc]TR[fc][fd]C[Ghost : this sequence is White's priviledge. Black marked stones are in big danger]
+;B[hb]LB[gb:A][ff:B]C[Ghost : No, this is a big mistake ! What's the point ? this cannot connect, this cannot make life , this doesn't get the group out in the center. White 'A' messes everything for black. Black should have gotten out and connected by playing 'B']
+;W[gb]C[Ghost:white doesn't miss it.];B[gc];W[ib];B[hd];W[ic]
+;B[fb];W[ha];B[cb];W[cc];B[db];W[bb];B[dd];W[cd]LB[ed:A]C[Ghost : White 'A' was better.]
+;B[ed];W[ee]LB[cf:A]C[Ghost : mistake. 'A' was better];B[cf]
+C[Ghost : Black doesn't miss it. Good move.];W[dg]TR[bi][ci]
+[cj][di][eh][ej][fj]CR[ei]C[Ghost : big mistake. Black marked group is a live if the circled stone doesn't get out, so what's the point of getting his stone out ?]
+;B[ce];W[bf]C[Ghost : mistake.. doesn't connect, doesn't make live... White made a lot of mistakes in the fighting here, after playing a very good game until then..]
+;B[df]LB[be:A]C[Ghost : bad ! this enables white to play 'A' and get a lot better chances to live.]
+;W[ef]C[Ghost : White doesn't see it and probably still thinks he can kill all of black groups.... never run two hares at a time. You can't kill two enemy groups just by playing in the middle of them.]
+;B[be];W[bd];B[bg];W[cg];B[af];W[ad];B[ae];W[ac];B[eg]LB[ba:A]
+[ih:B]TR[hd][fj][ej][eh]CR[ch][cg][dg][ef][ee][de]C[woep : At this point i thought i was still in the game. I really thought i was winning big here.
+
+Ghost : this is a mistake. 'A' killed the white group this move was worth 25 points... Instead black choses to capture the other groups which would still have been killable even after a white move, because of the marked stones. If it was a choice to let the corner live, a more ambitious move like 'B' was way better. It killed the marked white stones and get a lot territory in the center. This concludes a fighting in which black got the upper hand despite mistakes. As for winning big, since white lives at 'A', white still has a lead of more than 10 points.]
+;W[ba];B[ab]C[Ghost : ? useless, and it gives white sente.]
+;W[gj]LB[fi:A]C[Ghost : good point, althought I would have prefered getting out with 'A' and fighting.]
+;B[fi];W[gi];B[ec]C[Ghost : still useless. Moves like that are based on the assuming that the opponent doesn't look at what you play. (and you know what they say about assuming)...]
+;W[gf];B[bc]C[Ghost : Of course sometimes it works.... but it won't for long.]
+;W[ge]LB[qn:A][qq:B][qf:C][cq:D][if:E][gh:F]TR[hn]CR[cl][cm]
+[dm][dn]C[woep : How could i catch E15 group?
+
+Ghost : Look first at the global situation... Things are about equal now, thanks to white's multiple mistakes.. Black caught up the 40 points he was behind. He should take advantage of his strong position on the right to take territory. 'A' enables him to kill any invasion at 'B'. 'C' is getting big too, for the same reasons. Next, getting his triangle marked stone is big. The circle marked group is dead but is usefull for a play at 'D'.
+To answer woep question, white group cannot be cut off since both 'E' and 'F' connect.]
+;B[ff]C[Ghost : useless, cannot cut a bamboo connection. Black just wasted a small ko threat.. (it *is* only three stones...) there are much bigger points on the board.)]
+;W[fe];B[fg];W[gd];B[ie]LB[hg:A]C[Ghost : mistake ! it is only one stone getting out with 'A' is better]
+;W[gg];B[gh];W[hh];B[fh];W[hg]TR[md][nd][ld][kc][jd][ic][hc]
+[gd][ge][gf][gg][hg][hh][gi][gj][fk][ek][go][ho][ip][lp][fo]
+[dl]MA[qf][qn][pg][qg][mj]LB[nj:A]C[woep : White had made up his mind about connecting, and i couldn't bring
+him off this plan. What should i do?
+
+Ghost : it was impossible to cut himm off, so why try it. you did and as the result he got a BIG wall (marked stones) that made it difficult for you to fight in the center. There are a LOT of big points on the board (the crossed ones).  Personnaly, I would have gotten in the center to prevent a white move at 'A'. This is the biggest point, particularly considering the strength of the marked white wall]
+;B[jf]C[Ghost : useless...];W[og];B[pf];W[pg];B[qm]LB[mj:A]
+C[Ghost : this is a good move, but black 'A' was way more urgent]
+;W[nj]C[Ghost : But now the center is white's. In a few moves, white increased his lead to about 30/40 points. In short of having sudden extreme skill in making endangered groups live, blacks cannot do anything to live in the center...
+
+This end the move-by-move commentary. I will now only comment when woep made specific questions or commentaries.
+
+Considering white in the end won by  50 points, the score is only the result of a small superiority in the endgame by white. The game is finished, all that are left are adjustments.]
+;B[nl];W[lm]
+(;B[kn];W[ln]TR[nj]LB[mj:A][mk:B]C[woep : For the next 60 moves or so, both of us fight in the center,
+and i don't get any points out of it.
+What should i have done instead?
+
+Ghost: this is too late. the center is already white's. Like i said earlier, the marked stone occupies the vital point. so a move at 'A' earlier (when I said) was critical. This being said, Black 117 was a bad move, cutting through at 'B' was way better (see variation at B117)]
+;B[ko];W[kp];B[jm];W[in];B[hm];W[im]C[Ghost : this cannot live, all the following moves are wasted]
+;B[hl];W[hk];B[gk]C[woep :This was a mistake, but i was very focussed about not letting
+him get these groups connected.
+
+Ghost : I think you have difficulties discerning which groups are alive and which are dead....]
+;W[gl];B[il];W[jl];B[jk];W[kl];B[jn];W[io];B[ik];W[lk];B[ji]
+;W[jh];B[hj];W[gk];B[li];W[ij];B[ii];W[hi];B[jj];W[hj];B[kh]
+;W[jg];B[if];W[kg];B[kf];W[lg];B[mg];W[lf];B[mf];W[of];B[pe]
+;W[ne];B[me];W[le];B[id];W[ke];B[je];W[lh];B[ig];W[ih];B[nh]
+;W[oi];B[oh];W[ph];B[pi];W[mh];B[ni];W[oj];B[mi];W[mj];B[ki]
+;W[bo];B[mk];W[lj];B[oe];W[ng];B[qh];W[qg];B[qi]C[woep : How to stop black?
+
+Ghost : I suppose you mean white. You cannot it's too late, white cut 100 moves ago....]
+;W[rg];B[rh];W[rd];B[qf];W[rf];B[ok];W[qc];B[pc];W[pb];B[ob]
+;W[qb];B[ja];W[ia];B[ka];W[ml];B[nk];W[nm];B[fa];W[ga];B[om]
+;W[on];B[pn];W[oo];B[nn];W[mm];B[no];W[op];B[oq];W[mq];B[np]
+;W[nr];B[lo];W[mo];B[mp];W[mn];B[mr];W[lq];B[or];W[lr];B[ns]
+;W[gm]C[Ghost : black is dead, what's the point ?];B[jp];W[jq]
+;B[ls];W[ks];B[ms];W[jr];B[bh]C[Ghost : What's the point ?]
+;W[sh];B[si];W[sg];B[re];W[se];B[qd];W[qe];B[oc];W[re];B[na]
+C[Ghost : Good ! We often see these moves forgotten :o) Except of course that if white left the ko and played here, you would be dead..... but since he did not see it, good for you. It's not like white needs it anyway.]
+;W[qp];B[po];W[qq];B[ro];W[qr];B[rp];W[ps]C[Ghost : I don't like players like that. When you are winning a game by a lot, it's not polite to try to ridiculise the opponent by wanting to win by more.]
+;B[rq];W[rr];B[sr];W[qo];B[rn];W[cq];B[fn];W[gn];B[bm];W[en]
+;B[am];W[al];B[ai];W[fm];B[aj];W[bk];B[ao];W[ap];B[bp];W[bq]
+;B[aq];W[cp];B[co]C[woep : I was hoping to get two eyes at A6 and C6.
+But I think i needed one more serious threat for this ko.];W[ap]
+;B[km]C[woep  :Serious enough, i needed two of those.];W[jo]
+;B[bp];W[bn]C[woep  : this was something i hadn't thought about. Now this group is
+dead.
+
+Ghost : yes. The ko was meaning less.];B[an];W[ap];B[rc];W[ar]
+;B[rb];W[sc];B[qa];W[sb];B[pa];W[nf];B[er];W[dr];B[fr];W[hr]
+;B[eo];W[do];B[ds];W[cs];B[cn];W[bp];B[gs];W[hs];B[is];W[js]
+;B[sa];W[sd];B[ra]C[Both players stopped there
+Score : White wins by 50.5
+
+Ghost : But it's not finished :o)))
+see variation for White.]
+(;C[Pass])
+(;W[sj];B[ri];W[pk];B[ol];W[qj]C[Ghost :o)
+Because of this, when white plays T10, black cannot protect, and has to play S9]
+))
+(;B[mk];W[lj];B[mj];W[mi];B[li];W[lk];B[ni];W[mh];B[nh];W[ng]
+))
+(;W[fi];B[fh];W[gi];B[dh];W[jj]C[Ghost : the game is finished. Black cannot keep up.]
+))
+(;B[eh];W[fi];B[dh];W[fh];B[eg];W[fg];B[ef];W[ff];B[ee];W[jj]
+))
+(;B[cm];W[ck];B[bk];W[dk];B[bj]LB[cq:A][er:B][cp:C]TR[fq][gq]
+[gp][hp]C[Ghost : This is a good resultfor black. This group is alive and can mess white's corner by playing black 'A' white 'B', black 'C' (since even if the marked group is dead, it can still be used to connect)]
+))
+(;W[gq];B[hq];W[gr];B[hr];W[fr]C[Ghost : this is catastrophic for Black]
+))
+(;B[cq];W[dq];B[cp];W[do];B[dr];W[er];B[cr];W[eq];B[cn]LB[fp:A]
+C[Ghost : this is the joseki, and a good result for black. Next, a move at 'A' is bog for both players (later in the game)]
+))
+(;W[dn];B[dr];W[cq];B[iq]TR[pp]C[Ghost : Result is good for black because of the marked stone. White wanted to avoid this result.]
+))
+(;B[de];W[ce];B[cf];W[cd];B[df];W[fc];B[dj]LB[cn:A]TR[dp]C[Ghost : Sure, white got territory in the corner, but black's shape is good, black also has strong influence, and white marked stone's influence got a lot reduced, so that a move at 'A' is now very big for both players.]
+))

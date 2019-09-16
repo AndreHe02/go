@@ -1,0 +1,67 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+PB[Thomas]
+BR[3d]
+PW[Ralf]
+WR[3d]
+KM[0]
+RE[B+Resign]
+RU[Japanese]
+
+;B[pd];W[dp];B[pq];W[dc];B[pk];W[nc];B[kd];W[qf]TR[kd][pk]C[when B has two stones like this, you can consider to play R17...]
+
+(;B[nd];W[md];B[ne];W[qc];B[qd];W[pc];B[oc];W[ob];B[od];W[mb]
+;B[me];W[ld];B[le]
+(;W[oi]C[this move is a little questionable, but not really the losing move I think.]
+;B[pi];W[ph];B[oh];W[qh];B[qi];W[ri];B[rj];W[rg];B[si];W[rh]
+;B[qk];W[re];B[rd]C[living in sente is not really a bad result for W... However with the next few moves he loses the game.]
+;W[ke];B[kc]
+(;W[na]C[This is wrong. B gets the good forcing move at M18.]
+
+(;B[mc]C[this does not seem to gain B anything... in fact since W is alive already you're better off playing M18 without throwing in. That way W does not have the possibility to capture at L18.]
+;W[lc];B[lb];W[mc];B[og];W[pg]
+(;B[je]C[try not to play unneccessary moves - it makes your opponent stronger.]
+;W[kf];B[id]
+(;W[ni]C[This is too heavy .. It can be called the losing move. W gets two weak groups to take care of. Also, the P11 stone already served it's purpose by allowing W to live.]
+;B[mh];W[kh];B[jg];W[kg];B[mi];W[nk];B[mj];W[ok];B[ii];W[kj]
+;B[mk];W[om];B[qn];W[mm];B[kk];W[ih];B[ig];W[ij];B[ji];W[jh]
+;B[hh];W[hi];B[hj];W[gi];B[jj];W[hg];B[ik];W[gh];B[fc];W[jp]
+;B[dd];W[cd];B[de];W[ec];B[fd];W[np];B[cc];W[bc];B[cb];W[bb]
+;B[ce];W[bd];B[fj];W[ie];B[jf];W[hd];B[hc];W[ic];B[jd];W[gc]
+;B[hb];W[eh];B[di];W[ei];B[ej];W[dj];B[dh];W[gj];B[gk];W[dg]
+;B[cg];W[cj];B[eg];W[fk];B[ek];W[fl];B[dl];W[dm];B[cm];W[cl]
+;B[ck];W[dk];B[el];W[em];B[bl];W[gl];B[hk];W[fi];B[cl];W[fg]
+;B[df];W[gf];B[fm]C[a bit slow... these W stones are not important anymore.]
+;W[qp];B[po]C[this looks like an overplay. In fact W has several stones on the outside so it's not easy for B to kill the W stone. However, in the subsequent fighting W makes several bad choices and fails to accomplish much.]
+;W[pp];B[op];W[oo];B[oq]
+(;W[pn]C[this is a big mistake.];B[qo];W[qm];B[rm]
+(;W[rn]C[W is better off sacrificing I think.];B[ro];W[rl];B[sn]
+;W[ql];B[no];W[mp];B[on];W[sl];B[nl];W[ol]C[W ends in gote while damaging his lower side potential a lot. Capturing six B stones is not compensation enough.]
+
+(;B[fn]C[this is relatively small.]
+(;W[fp]TR[hp]C[this W move leaves an obvious invasion point, it cannot possibly be good.]
+;B[hp];W[bp];B[eb];W[db];B[mo];W[ml];B[gq];W[fq];B[fr];W[er]
+;B[pm];W[pl];B[io];W[iq];B[gr];W[jl];B[jk];W[lo];B[ln];W[ko]
+;B[kn]LB[nr:1]C[The timing of W's resignation is a bit strange since he can still live by playing at 1. If he lives I think he loses by 5-10pt, so it is possible to play on a little bit. There are still endgame points of this magnitude left so this margin is not impossible to catch up.]
+)
+(;W[gq]C[this is much better balance.]))
+(;B[hp]C[W damaged the marked stones significantly during his escapades in the corner... You should take advantage directly.]
+))
+(;W[rp];B[rn];W[nq];B[qq];W[rq];B[rr];W[or];B[qr];W[gq]C[This way W is not impossibly far behind...]
+))
+(;W[rn]C[this is difficult for both.. W has nothing to lose so I don't think B's way of playing can be reccommended. For example...]
+;B[rm];W[ro];B[qq];W[rq];B[on];W[no];B[rr];W[sr];B[qr];W[nq]
+;B[nr];W[mr];B[or];W[qm];B[pm];W[ps];B[sp];W[rp];B[sq];W[so]
+;B[sq];W[sp];B[ql];W[rs];B[qs];W[ns];B[ss];W[nn];B[pn];W[os]
+;B[sq];W[ms];B[qo];W[sr]C[this ko gives W some chances...]))
+(;W[gc]C[this seems to be in a better direction... if B runs out...]
+;B[ig];W[kh];B[ii];W[kj]C[... then the P11 stone becomes a problem for B, so the game is not bad for W.]
+))
+(;B[id]))
+(;B[lb];W[mc]))
+(;W[lb]))
+(;W[nk]C[personally I think this is a better reduction point. Much safer to stay on the outside.]
+;B[pi];W[pl];B[ql];W[qm];B[pm];W[ol];B[qk];W[pp]C[this kind of maneuver seems also possible.]
+))
+(;B[qc];W[oe];B[pe];W[pf];B[of]C[this fight looks difficult for W since B corner is already more or less alive.]
+))

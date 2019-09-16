@@ -1,0 +1,204 @@
+(;FF[4]GM[1]SZ[19]ST[0]CA[UTF-8]AP[SGFC:1.13b]VW[]
+
+PB[benni]
+BR[7k]
+HA[0]
+PW[ytak]
+WR[7k]
+KM[5.5]
+DT[2001-10-31]
+PC[The Kiseido Go Server (KGS) at http://kgs.kiseido.com/]
+RE[W+Resign]
+TM[1800]
+OT[5x60 byo-yomi]
+RU[Japanese]
+
+C[Hello!
+
+Thanks for reviewing!
+
+I played black. I saw me in front after the middle game, but
+an invasion in the upperside goes wrong. So, my main question
+is: How to win such a won game, like this? Or: Was my estimation,
+that i am in front wrong? There are some detailed questions in
+the sgf, too.
+
+REVIEWER COMMENTS BEGIN:
+
+Greetings and thanks for the chance to review your game. Set
+your SGF file viewer to show the upcoming move as the character
+"a".  (i.e. toggle next move on). When I refer to "a", I mean
+the upcoming move. If your viewer is set as I have asked, then
+you should see the character "a" in the upper right corner at
+Q16.
+
+Please keep in mind that only higher ranking pros know the truth
+about go. Amateurs like myself merely have occassionally interesting
+random opinions. The value in any review is to stimulate your
+own thinking about and enjoyment of your game.
+
+John Stephenson 11/5/2001];B[pd];W[dp];B[pq];W[dd]C[Black plays the high Chinese fuseki pattern. The theme is to
+build a moyo forcing White to invade, and gain benefit from attacking
+the invader.];B[pk];W[nc];B[pf]C[Normally White continues at b to build a counter moyo and exercise
+patience. White a seems too early, (since the middle game starts
+before the opening is done.)]
+(;W[qh]C[Black may play at b to make White heavy, then squeeze. See variation.
+Still, a is not too bad.]
+(;B[me];W[pb];B[qc];W[kc]C[Pushing at a is not necessary. In general, don't push if you
+cannot cut.];B[oc];W[ob];B[nd];W[mc]C[Black may try to confine White to a small life on the right.
+See variation.]
+(;B[qj];W[oh]C[Next at b may be a better direction, because it forces White
+into a narrow area, and Black shall naturally build territory
+on the right.]
+(;B[nj]C[White next plays an endgame move in the middle game. This cannot
+be
+right. The two White stones must run out.];W[qb]C[Black b is easier.]
+
+(;B[ng]LB[mh:A][cj:C][jp:B]C[Better at A? Or is this play to small and i should play at B
+or C?
+
+ANS: Your Black 21 is better at A. I think White will die for
+sure. Both B and C are big points, but, A is an urgent point.
+The principle is   Urgent points before big points.];W[re];B[rf]
+;W[qe];B[qf];W[rc]C[A is in the biggest general area. Good. But since Black got stronger,
+playing at b is right.]
+(;B[jp];W[po]TR[nj][pk][qj]C[An possible idea is Black at b (unusual move) to make White heavy,
+thereby trying to use the marked stones, which are stronger than
+the normal
+Chinese pattern. See variation.]
+(;B[np];W[qq];B[qr];W[qp]C[Black a is a mistake; it looks like a tight defensive move useful
+if this area were a White zone. But Black is stronger
+in this zone. Black must play b to pressure the White's stones.]
+
+(;B[or]C[White must try to make a base with b. In the enemy zone, living
+right away is best if possible.]
+(;W[no]C[Maybe Black at b gives White less forcing moves? On the other
+hand, a is better if you do not have to go back and fix it later
+with b.]
+(;B[mo];W[nn]C[Black next at a is good! Now White is a floater.]
+;B[qn]C[White a is not helpful or necessary.];W[op];B[nq];W[mn]
+C[Play b is put more pressure on White?]
+(;B[lo];W[ln];B[kn];W[ll];B[km];W[nl]C[Black next at b forces White into a narrow area. The flow will
+cause Black
+to naturally cover the two White stone on the right.]
+(;B[lj];W[kl];B[jl];W[kj]C[Continue with b first to punish the White shape.]
+
+(;B[fq]C[I was very happy with this white invasion.now i think i am in
+front in both, territory and influence. is this true?
+
+ANS:
+Up to now Black is winning the game. But Black 51 (f3) is not
+right. It is taking a big point before an urgent point again.
+White a is too nice for White.];W[jk]C[Black a next is very fast. Interesting. But Black lost the pressure
+on White's middle group. Black b seems necessary.]
+(;B[cn];W[fp];B[gp];W[eq];B[fo];W[ep];B[fr];W[dn];B[dm]C[i thougt about an play at c3 at some time in this sequence, but
+i decidet not to do. was this wrong?
+
+Take care of the outside first. If White survives in gote and
+sealed in the corner, White is losing.
+
+White could have cut at b instead of a.]
+(;W[en];B[co];W[cp];B[ck];W[er];B[hq];W[bp]C[Black a is small. The black stones on the left are weakened after
+White did B4 and need some help. Simply playing at b is patient.]
+
+(;B[fn];W[em];B[dl];W[fm];B[gm];W[gl]C[Black's next play at a could be an overplay if White pincers.
+If the Black stones on the lower left were stronger, than going
+all the way to
+a would be okay.];B[cf]C[White a may be passive; White could try something with b.]
+
+(;W[fc];B[bd]C[The pincer with b is more interesting.]
+(;W[cc]C[Now Black is settled nicely. Black's result on the left is good.]
+;B[dh];W[mi]C[Black b seems like the proper tactical defense.]
+
+(;B[nh];W[ni];B[oi];W[oj];B[pi];W[ok]C[A may not be necessary; how about b?]
+
+(;B[ph];W[pl];B[ql];W[pj];B[qk];W[li]C[here white gains some profit in gote. that was ok for me so far.
+but now ...
+
+White gained more than expected in the game sequence.];B[hc]
+C[this is the invasion which leads to much trouble. maybe it was
+to greedy? just play an reduction move at the fourth line? or
+extend territory at the left?
+
+Black can do this invasion. Because Black doesn't have any weak
+group to worry about and Black has enough nearby friends to support
+it. If you are not confident, then it is possible to play the
+4th line.
+
+White a is the honest answer to Black 93, since White cannot
+easily see a way to take advantage of Black 93.];W[bc];B[he]
+;W[le]C[Maybe b helps more, but it requires a deep reading.]
+
+(;B[hh];W[di]C[Playing at b may be severe instead of at a. It helps Black on
+the outside and could swallow White 98. But again, it requires
+a deep reading.]
+(;B[ci];W[ch]TR[dh][ci][di][ch]C[This is a cross cut. So, the first thing Black should ask himself
+is, can he catch one of the cutting stones right away? If so,
+probably do that. How about simply catching a stone by playing
+at b? See variation.]
+(;B[cj];W[dg]C[Now Black does have trouble. If Black gives White a ponnuki capture
+by playing B12 to save his two stones on the upper left in gote,
+his middle group becomes much weaker and dangerous.];B[eh]C[maybe i made some tactical errors in this sequence?
+
+ANS: Yes, see previous comment and variation.];W[cg]C[White gained a lot. This is how Black lost. Black cannot really
+rescue the left stones.];B[df];W[eg];B[ef];W[fh];B[ei];W[ff]
+;B[fe];W[ee];B[gf];W[fg];B[fi];W[fd];B[ge];W[bf];B[be];W[ce]
+;B[bg];W[de];B[gi];W[bh];B[gb];W[fb];B[jb]C[it looks like i played some ugly endgame-moves...]
+;W[kb]C[A is small. B is huge (double sente).]
+(;B[pc]C[this one for example];W[id];B[gc];W[ib]C[Black a does not work. You misread?]
+;B[rd];W[sd];B[qd];W[pe];B[od];W[rb];B[oe];W[se];B[sf];W[sc]
+C[B, c and d are all better than a.]
+(;B[hj];W[ro];B[rn];W[rr];B[qo];W[pp];B[rp];W[rq];B[so];W[oq]
+;B[pr];W[mp];B[lp];W[mq];B[nr];W[jm];B[il]C[here i saw me behind, so i want not to give up this stone.
+
+It is too late.];W[gn];B[go];W[hm]C[B is better than a.]
+(;B[hn];W[im]C[b is better than a.]
+(;B[gm];W[ik]C[benni [8k\]: thx for the game
+ytak [7k\]: thank you
+benni [8k\]: i saw me in front, but you played a better endgame
+
+*** LESSON FOR THIS GAME:
+
+In general, to handle the cross cut, think like this:
+
+ 1. Can you catch one of the opponent's cutting stones? If yes
+do it. Otherwise...
+ 2. Can you save both of your stones? If yes do it. Otherwise...
+ 3. Decide which of your stones is most important. Then, use
+the
+other stone as a sacrifice to get forcing moves that helps the
+more important stone survive.])
+(;B[ik]))
+(;B[jn]))
+(;B[fa])
+(;B[ro])
+(;B[es]))
+(;B[es]))
+(;B[bh];W[cj];B[bi]C[White cannot B10 now because of Black D10.]
+;W[eh];B[dg];W[dj];B[bj]C[It seems that this is the most White can accomplish around here.]
+))
+(;B[ei]))
+(;B[ee]))
+(;B[pl]))
+(;B[ni]))
+(;W[ch]))
+(;W[dh]))
+(;B[ch]))
+(;W[go]))
+(;B[il]))
+(;B[jk];W[kk];B[li];W[ji];B[fq]C[This is clearer.]))
+(;B[jk]))
+(;B[ln]))
+(;B[mp]))
+(;W[qm]))
+(;B[rr]))
+(;B[pp];W[oo];B[np];W[qo];B[rp];W[mn];B[km]TR[qj][pk][nj]C[White has a hard struggle and Black got a nice bottom.]
+))
+(;B[ip]))
+(;B[mh]))
+(;B[mh]))
+(;B[oh];W[rk];B[qk];W[rj];B[rl];W[rf]C[Black is developing nicely.]
+;B[ip]))
+(;B[oc];W[nd];B[kd]C[White has two weak groups so one of them should suffer.]
+))
+(;W[jd]))

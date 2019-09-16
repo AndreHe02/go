@@ -1,0 +1,191 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+GN[right vs ukill]
+EV[right-ukill(B) LGS]
+PB[ukill]
+BR[3k]
+PW[right]
+WR[3k]
+KM[6.5]
+DT[2004-06-17]
+RE[B+Time]
+RU[Japanese]
+US[Smart Go File produced by LGC]
+
+C[reviewed by adum 3d];B[pc];W[dp];B[cd];W[qp];B[qe];W[jc];B[oq]
+;W[mq];B[qq];W[rq];B[pp];W[qr];B[qo];W[pq];B[rp];W[qq];B[po]
+;W[or];B[mo]
+(;W[gc]C[ukill: I guess that W 20 is not good.
+
+adum: slow. better to approach the corner directly]
+(;B[lq]C[ukill: Overplay and Wrong steps.
+
+adum: i don't think this is an overplay, but i'm not sure it's a good direction of play. the right side is bigger than the bottom side, so it's better to play a move there.]
+;W[qj]C[ukill: Overplay, isn't it?
+
+adum: looks a little cramped, but i don't think you can kill it outright. so it's fine, i think.]
+;B[qh]C[right direction];W[qm]
+(;B[mp]C[this move is the wrong direction. black should instead attack on the right]
+;W[ol]C[white can feel good to get this nice shape now];B[dj]
+C[ukill: It's not the best. F3 is much better.
+
+adum: f3 is better after M3 and N4, yes.]
+(;W[ec]C[ukill: Terrible shape for W. If you were W, what would you do?
+
+adum: yes, this is a very slow move. white is playing slow, thick moves on a group which is already strong. this is very inefficient]
+
+(;B[de]C[ukill: I think it's good.
+
+adum: it has a weird relationship with D10. later you will need another move to connet them, so it's a bit inefficient.]
+;W[gq]C[ukill: It's what i regret, B turned weak. And the power of the B wall had reduced.
+
+adum: yes, this is good for white]
+(;B[iq]C[ukill: To stay safely, i choose 31.
+
+this extension is small. you don't need to worry about your group in the bottom-right yet -- they're still strong. so this is a bad move.]
+
+(;W[co]C[ukill: Too timid. This time i think B is going to win the game.
+
+adum: timid, but big. can't say this is so bad.]
+(;B[cm]C[too close to white's strength. this leaves white C9.]
+;W[go]C[ukill: Too weak. I think the possible choices are C9, C17 and O17.
+
+adum: this is slow, but not so bad.];B[eq]C[ukill: Greedy, nonsense.
+
+adum: yes, this is impossible];W[dq]
+(;B[dc]C[ukill: Too big, that time I believe that I won't lose.
+
+adum: white has played a lot of slow moves, so black looks a little ahead, but the game is still on]
+;W[ch]C[ukill: Too late.
+
+adum: really? hard for black to kill this.]
+(;B[ci]C[ukill: Indeed it's the rough move. Please tell me what should i do.
+
+adum: this move says you want to chase white. i think this is okay, but you can't expect to catch white. the other choice is to try to surround]
+;W[dh];B[fj];W[fh];B[eg];W[eh];B[gf];W[fg]
+(;B[ef];W[ff];B[fe]
+(;W[hh]
+(;B[lc]C[too aggressive];W[ge]C[good]
+(;B[gd];W[he];B[fd];W[hd];B[fc];W[gb];B[fb]C[ukill: Up to 59, B move badly.
+
+adum: yes, black is overconcentrated. this move is pretty small too. the game seems pretty even now]
+;W[ke]C[ukill: It's the main reason why W lose.
+
+adum: this move? it seems fine to me. maybe a little slow, but helps to reduce black's corner]
+
+(;B[md]C[a little slow]
+(;W[bf]C[ukill: It must attack the No. 41  B groups first.
+
+adum: this move is very unreasonable. it's impossible to attack black's corner here, it is way too strong. and this move is not worth so many points.]
+
+(;B[bg]C[again, wrong direction... black should ignore white's last move]
+;W[bh];B[be]C[again bad. black does not need to worry about this corner]
+;W[ag]C[bad again for same reasons. anyway, the atari underneath makes no sense. atari on top is better because the black stone cannot escape that way.]
+
+(;B[mr]C[because of black's bad moves on the left, he should play there to fix instead of here]
+
+(;W[nr]C[ukill: Wrong move, just take O3.
+
+adum: locally this is wrong, yes. but still, you should ignore and attack on the left]
+;B[bn]C[now black gets to play here first and white has missed a big chance]
+;W[bo];B[nq]C[ukill: Much better B11? But i can control me from O3.
+
+adum: B11 is better, yes];W[bj]C[ukill: After there is so confusing, please explain to me...]
+;B[bk];W[ck]
+(;B[dk];W[cj];B[cl];W[bl];B[ak]C[this doesn't really help];W[al]
+
+(;B[hj]C[ukill: I want to decrease the power of the upper W.
+
+adum: i think you just need to run since you don't have two eyes. this seems reasonable for running, but probably not the best.]
+;W[el]C[ukill: 82 is strong
+
+adum: yes, this attacks your shape]
+(;B[dl]C[slow]
+(;W[en]C[since it's hard to attack the black group, this move is a bit slow]
+;B[jj];W[oh]C[this move is odd. it's asking black to split, and white isn't very strong here]
+;B[pi]C[yes];W[of]C[looking for trouble -- greedy];B[oi]C[good]
+;W[ri]
+(;B[mg]C[odd shape. lets white push through at O12];W[mf];B[lf]
+;W[nh]
+(;B[me]C[is this move necessary? what are you afraid of here?]
+;W[mh];B[lh];W[mj]
+(;B[nk]C[this move doesn't seem to work];W[nj]
+(;B[pj]C[strange looking move];W[ok];B[pk];W[pl];B[qk];W[rk]
+;B[ql];W[rl]
+(;B[rh];W[pm];B[rn];W[rm];B[ml];W[oj];B[ph]C[it's tough to kill white now]
+;W[pe]
+(;B[qf];W[pd];B[qd];W[oc];B[pb];W[ob];B[nf];W[og];B[nc];W[od]
+
+(;B[io]C[white's dragon isn't alive yet. just one eye on the side! it may be possible to kill]
+;W[ll];B[mm]
+(;W[im];B[jl]C[good];W[jm];B[kl];W[km];B[lk];W[hn]C[all these white moves are in the wrong direction. if white loses the dragon, the game is over. so you have to help it!]
+;B[lj];W[pa];B[rb];W[gk];B[gj];W[mk];B[nl];W[lm];B[ln];W[ik]
+;B[ij];W[jk];B[kk];W[li];B[ki];W[mi];B[kg];W[jh];B[kh];W[sh]
+;B[sg];W[si];B[rf]C[is this move necessary?];W[la];B[tt]C[i presume white resigned here -- there's no way to live]
+)
+(;W[li]C[white should try something like this at least]
+(;B[kh];W[ki];B[ji];W[jh])
+(;B[ki];W[kh];B[lg];W[kj];B[ji];W[kk])))
+(;B[ll]C[where's the other eye?]))
+(;B[qd]))
+(;B[pm]C[cut first];W[rn];B[qn];W[rm];B[rh];W[ro];B[ml]C[hard for white to escape]
+))
+(;B[ok];W[oj];B[pj];W[pk];B[qk];W[pl];B[rj];W[ml]C[white can probably live now]
+))
+(;B[nj]C[this looks uglier but seems to work better]
+(;W[nk];B[mk])
+(;W[mk];B[nk];W[nl];B[ml])
+(;W[ml];B[nk];W[lm];B[mk];W[lk];B[lj])))
+(;B[ni];W[mh];B[lh];W[mi];B[nk]C[white looks dead to me]))
+(;B[lf]C[attack on a large scale])
+(;B[ni];W[mg];B[rl]C[maybe]))
+(;W[rh]))
+(;B[fl]
+(;W[dl];B[em])
+(;W[em];B[fm];W[en];B[dl]C[better way to run])))
+(;B[hm]C[maybe better? trying to connect]))
+(;B[bl]C[this way may create better eyeshape]
+(;W[cj];B[dk]
+(;W[dl];B[cl];W[bi];B[em];W[el];B[fl])
+(;W[cl];B[dl];W[bi];B[en]))
+(;W[cl];B[cj])
+(;W[dk];B[cj];W[bi];B[ek];W[dl];B[em])))
+(;W[ck]C[much bigger])
+(;W[nq]C[here is better locally];B[op];W[nr]))
+(;B[bi])
+(;B[en]))
+(;B[en])
+(;B[bh]C[at least here to create shape];W[bg];B[bj];W[cf]))
+(;W[rh]C[big])
+(;W[qc])
+(;W[ck]))
+(;B[me])
+(;B[fm]))
+(;B[he];W[gd];B[if]C[this way to fight, but white should do fine]
+))
+(;B[gd]C[black should fix the cut in good shape];W[hc];B[if]
+))
+(;W[ed]C[fix the cut];B[ee];W[gd];B[ge];W[hh]C[white gets good shape]
+))
+(;B[ff]C[i like this];W[ef];B[ee];W[df];B[cf];W[dg];B[fd]))
+(;B[dh]
+(;W[dg];B[cg]C[complicated])
+(;W[ci];B[di]
+(;W[cj];B[ck];W[bk];B[bl];W[dk];B[cl];W[dg];B[eg];W[ef];B[df]
+;W[cg];B[eh];W[be]C[complicated])
+(;W[bk]))))
+(;B[mc]C[this side might be bigger?]))
+(;B[cl]C[this is better locally]))
+(;W[cl]C[i like this better to attack above maybe]))
+(;B[cn]C[good direction]))
+(;B[df]C[i like this in this corner])
+(;B[fp]C[or just switch here]))
+(;W[cc])
+(;W[mc])
+(;W[gq]C[some ideas]))
+(;B[oj];W[pi];B[og])
+(;B[pl];W[ql];B[pj];W[pk];B[ok];W[qk];B[pi]))
+(;B[ld]C[build a moyo])
+(;B[pi]))
+(;W[ed])
+(;W[ec]C[something like this]))

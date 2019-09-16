@@ -1,0 +1,129 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+PB[yakan]
+BR[15k]
+PW[fractic]
+WR[15k]
+KM[6.5]
+DT[2006-03-11]
+PC[IGS-PandaNet]
+RE[W+3.50]
+TM[600]
+RU[Japanese]
+
+C[
+R: Hello!
+I will mark my comments with "R:" (reviewer).
+
+Dear reviewer. I'd like to thank you in advance for reviewing my game. I played white in this game and even though I won by a small margin, I know I have made many mistakes. I have added a few questions in the SGF.]
+;B[pd];W[dp];B[pp];W[cc];B[dd];W[cd];B[dc]C[My opponent appearantly doesn't know the normal 3-3 point josekis.
+
+R: It will only matter if you know how to exploit it :-)];W[de]
+;B[ee];W[ef];B[fe];W[cf]C[Is D13 better here?
+
+R: not really. D13 will leave a very bad aji at c15. and a later attack about c12 would be a real pain.
+
+Your move is ok.];B[dj];W[cm];B[dg];W[df];B[cg];W[nq];B[cl]
+;W[dm];B[cq];W[dq];B[cp];W[co];B[dr];W[er];B[cr]
+(;W[bo]LB[bo:A][fq:B]C[This was a mistake. Is the variation a good way to play?
+
+R: sure that is better. (Despite  the weakness i marked) 
+W has no need to kil the corner. The outer strength is good enough.]
+;B[eq]
+(;W[ep]C[R: The corner is weak. you might try your chanche and pull out the weak stone (and fight)]
+;B[fq];W[db];B[eb];W[cb];B[ec];W[bl];B[ck];W[qn];B[pn];W[pm]
+;B[qo];W[on];B[po];W[qm];B[np];W[qi]C[R: it seems to me little bit slow]
+
+(;B[oq];W[qf];B[qd]C[This move is played against me often and I don't really know what to do about it. What might be a good idea here?
+
+R: Your next move is usually good against the corner, however in this particular case double attack might be better. (var)]
+
+(;W[nc]TR[jc][kc][lc]C[R: now Black may play a pincer and make a good extension for his/her wall. W stone and black corner is equally weak, so black is not in trouble.]
+;B[rf];W[rg];B[re];W[kc];B[ic];W[ne];B[md];W[nd];B[kd];W[ld]
+C[R: it seems to be a little bit overplay. its better to simply connect and next  attack the corner]
+
+(;B[ke];W[le];B[jc];W[kb]C[R: Attack on the corner is bigger (sente)]
+;B[oc]LB[bg:2][bk:1]TR[bi]C[R: if W want to take B's base, W can try this. After that 1 and 2 are miai. However its better to close in black group, and if (s)he doesnt answer, kill 'em all.]
+
+(;W[bg];B[bh];W[bf];B[ci];W[jq]TR[fp][gp][hp]C[R: White can push on the 3rd line. B must answer. Then W can use this outer strength to create a large moyo. (and of course, w's group will be secure)
+ This plan would be more effective before attack on the middle left group.]
+;B[fr]LB[dp:A][er:B]C[R: slow for black. If B wants to play here, (s)he should extend or attack the A group. B is dead anyway.]
+;W[mq]LB[kf:B][mo:A][gp:C]C[R: Thats definitely big move. However, let see the whole board. White has a nice framework on the right side. Another plan (instead of living in 5 separate groups) would be, let black to capture some of the bottom side, make a huge center territory.
+
+W can push A-B-C  all of that is somewhat sentes and get a terrific moyo.]
+;B[mp];W[lp];B[fp];W[en];B[lo];W[kp];B[mn];W[kf];B[ie];W[ml]
+;B[ol]LB[bj:A]C[This move gave me a lot of trouble. I was prepared to sacrifice P6 after a cut but wasn't expecting this peep. The following fight didn't go well. Could you please give me some advice on it?
+
+R: interesting move. I think there is no way to keep the whole moyo. Especially if we consider the weakness at the top side. W should cut & chase the stone, make some territory and build outer strength. Plz notice , playing at 'A' will weaken left side group, and this way B will have 2 weak groups to worry about.]
+
+(;W[om];B[oj];W[mj];B[nl];W[nm];B[nj];W[mi]C[The invasion looked too deep for me so I tried to kill it instead of chase it out.]
+;B[pi]
+(;W[ph]LB[qj:B][mm:A]C[From what happens in the next few moves this doesn't 
+seem to be such a good move. Is R12 better?
+
+R: Definitely. However, considering the cutting point at A (can be played in sente) its not a good plan to so hastly try to kill black.  I think secure connection at B is the best. Black will have hard time.]
+;B[qj];W[ri];B[oh];W[rj];B[pg];W[qh];B[of];W[oe];B[pe];W[pf]
+;B[og];W[qg];B[ni];W[qk];B[mh];W[lh]LB[mm:A]C[R: Cut a 'A' would really hurt.]
+;B[mk];W[lk];B[nk];W[mm];B[li];W[lj];B[lg];W[kh];B[mf];W[me]
+;B[kg];W[jg];B[jh];W[ki];B[jf];W[lf];B[ig];W[nf]LB[nd:A]C[R: This is a great ko threat, and +1 life for group A if it will be in trouble in the future. Dont play it now if there is bigger moves. (Black wont play a move that is 3 points in gote)]
+;B[mg];W[pj]C[R: Small too. B should ignore. There are much biger moves.]
+;B[oi];W[ob];B[pb];W[nb];B[pc]LB[qb:A]C[R: strange move. There is a nice opportunity for W at A. See var.]
+
+(;W[fg]TR[fj]C[R: nice plan. Maybe attacking at the triangle would bring more profit.]
+;B[jb];W[lb];B[jn];W[bj];B[bk];W[ak];B[bi];W[aj];B[bm];W[al]
+;B[am];W[bn];B[cj];W[an];B[eg];W[fh];B[fj];W[gi];B[ei]
+(;W[ff]C[R: Hmm. You ignored the connection so far, why to connect now?]
+;B[ij];W[gj];B[fk];W[dh];B[eh];W[gk]
+(;B[ek]C[R: Black frightened.];W[kl];B[iq];W[ip];B[ir];W[jr]
+;B[hp]C[From here on it's just endgame.];W[ln];B[kn];W[lm];B[ko]
+;W[or];B[pr];W[nr]LB[lr:A]C[R: dangerous. "A" would be real pain.]
+
+(;B[kr];W[ks];B[is];W[lr];B[js];W[kq];B[io];W[qq];B[pq];W[ro]
+;B[rp];W[rn];B[rq];W[ge];B[gd];W[fb];B[fc];W[ea];B[gb];W[fa]
+;B[ga];W[da];B[gf];W[gg];B[hf];W[ar]LB[pa:B][qb:C][ps:A]C[R: big endgame move but sentes first.
+(B if you dont like C)];B[br];W[aq];B[bp];W[ap];B[gl];W[fo]
+;B[go];W[il];B[fn];W[eo];B[fm];W[pa];B[qa];W[oa];B[rb];W[ps]
+;B[qs];W[os];B[qr];W[jj];B[ii];W[ik];B[ji];W[hm];B[pk];W[qj]
+;B[pl];W[ql];B[jp];W[nn];B[mo];W[ja]LB[qe:B][ng:A]C[R: This is neither  sente for W nor for  Black. Should be played later. 2 points gote. sentes first.]
+;B[ia];W[ka];B[im]
+(;W[hl]LB[jm:A]C[Play at A first.];B[jk];W[kj];B[jl];W[kk];B[jm]
+;W[hn];B[gm];W[ng];B[nh];W[sf];B[se];W[sg];B[dl];W[sp];B[sq]
+;W[so];B[em];W[hh];B[ih];W[bs];B[cs];W[as];B[es];W[ag];B[ah]
+;W[oo];B[op];W[hi];B[hj];W[hk];B[hg];W[fi];B[in];W[qe];B[rd]
+;W[ao];B[be];W[bd];B[bb];W[tt];B[tt];W[tt]TW[aa][ba][ca][la]
+[ma][na][ab][bb][mb][ac][bc][lc][mc][ad][md][ae][be][ce][af]
+[gh][rh][sh][li][si][sj][rk][sk][ll][rl][sl][am][bm][rm][sm]
+[cn][dn][sn][do][lq][kr][mr][ls][ms][ns]TB[ha][ra][sa][hb][ib]
+[qb][sb][gc][hc][qc][rc][sc][ed][fd][hd][id][jd][sd][ge][he]
+[je][if][jg][ch][dh][di][ej][dk][ok][el][fl][jo][gp][ip][qp]
+[gq][hq][qq][er][gr][hr][rr][sr][ds][fs][gs][hs][rs][ss]C[White wins by 3,5 points.
+
+Thanks again for reviewing this game.
+
+
+
+R: nice game. In general my advice is try to be a little more flexible. You dont have to invade everywhere and struggle to make living groups. (See, U have 5 groups!)
+Sometimes its better to let your opponent to get some points, build (outer) strength and harvest later.]
+)
+(;W[jm];B[in];W[hl]))
+(;B[lr]C[W will die for almost sure.]))
+(;B[fl]))
+(;W[gj];B[ff];W[gl]))
+(;W[qb]
+(;B[qa];W[ra];B[pa];W[rc])
+(;B[pa];W[rc])
+(;B[rc];W[pa];B[rb];W[ra];B[sd])))
+(;W[qj];B[pg];W[qg];B[pf];W[pe];B[oe];W[qe];B[od];W[of]))
+(;W[bj];B[bk];W[ak]))
+(;W[bi]
+(;B[bf];W[bh];B[bg];W[bk])
+(;B[bk];W[bg];B[bm];W[bn];B[al]))
+(;W[fj]))
+(;B[lc];W[le];B[kb]))
+(;W[kc]TR[hc][nc]C[R: Now, the two extensions are miai. Attack Corner or destroy influence of left side wall (and attack in the same time)]
+))
+(;B[mq]))
+(;W[fr]))
+(;W[fq]LB[bo:A][fq:B];B[bo];W[bn]
+(;B[bp];W[jp]TR[do]C[R: There is some weakness at d5.])
+(;B[ap])))

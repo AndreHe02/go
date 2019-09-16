@@ -1,0 +1,86 @@
+(;FF[4]GM[1]SZ[13]ST[2]AP[SGFC:1.15]VW[]
+
+GN[FIRSTW~1]
+PB[Yaacov and Dad]
+BR[27 kyu & n. r.]
+HA[0]
+PW[gnu go]
+KM[0.5]
+DT[2004-03-22]
+PC[IGS]
+RE[B+13.5]
+AN[Ronald Wopereis (woepwoep on KGS, 16k at present)]
+
+C[Hi, my name is Ronald Wopereis, woepwoep on KGS, 16 kyu at present.
+
+Like many other reviewers, I would like to say that any comment of mine is the comment of a 16 kyu. This means i understand only the very basics of go, and even not all of those :-) So be mild on me and don't think I know it all. I don't, really.
+
+I will mark my comments RW>];B[kj];W[dd];B[jd];W[dj];B[hk];W[kf]
+;B[gc];W[ec]
+(;B[jf]C[We thought of trying to build a wall at F, or of challenging at D7, but decided to challenge the L8 intruder.
+
+RW> Basically the strategy in go is two folded. First you make sure that you have no weak groups on the board. After that, you make sure the opponent has weak groups by separating them like you did. Best moves are those that combine the two.
+
+RW> In this case the corner is not safe yet, so by the first rule you must protect the group K10-G11. L10 seems appropriate. See var.
+
+RW> Another rule is that you should not touch what you want to attack. So if attacking L8 is what you want, then chase it, but do not touch. This is a second motivation why L10 is correct, since it chases white AND gets you the territory of the corner.]
+
+(;W[jg]C[RW> White should punish you for not protecting the corner. I hope you don't mind a bit of humour.  See var.]
+;B[ke]C[RW> watch how you need three moves to keep the corner while with L10 you would only need one. 
+
+Ikuro Ishigure, who was a professional shodan at the age of 17, said: <<efficiency means making the maximum of territory with the minimum of stones. This is what go is all about, all other advice is really just guidance on how to play efficiently>>]
+;W[if];B[je]TR[jf][ke]C[RW> the marked stones do not contribute to your territory in the corner. So it is inefficient because L10 does the same job with only one stone.]
+;W[dg];B[ek];W[dk]
+(;B[ei]C[RW> watch out. this way you introduce an new weak group. white has no weak groups at the moment so it is bad news if you get one. E2 (maybe E4) better than E5.
+
+RW> Just a thougth:  if you get all of the area to the right of line G - then you have won. So why not leave white the left and win with only minor difference? Just close him off at the G-line and be happy :-) See var.]
+;W[ej]C[RW> white separates you. now you have two stones under attack. whatever you choose now, you are the one that is defending, so white can dictate (= has sente).]
+;B[fj];W[el];B[fk]TR[fj][ei]C[RW> Remember about efficiency? Here you need three (marked) stones instead of one (E2), whithout any contribution to your territory. And E5 still weak.]
+;W[fi];B[eh];W[gi];B[hh]C[We wanted to break the connection between the lower left hand group and the right hand group.
+
+RW> first you must worry about any weak groups of your own. In this case your e6 group is weak.]
+
+(;W[hg]C[RW> white makes it easy on you. see var. I guess this is where you won the game.]
+;B[gh]
+(;W[fh]C[RW> error by white. he should try to connect at H5. See var.]
+;B[fg];W[hi];B[ii];W[gg];B[ih];W[eg];B[ff];W[he]C[Why didn't he atari the stones on the E line?
+
+RW> i don't know. maybe saving 6 stones against losing 4 stones? anyway, having two weak groups, he must loose either one and therefore has lost the game no matter what he chooses.]
+;B[gj]C[Taking advantage of his failure to atari.];W[kg]
+(;B[ig]C[RW> touching again, it only helps white to escape by an attack on your weak stone G11.
+
+RW> Note that the f8 group is safe, since h4 kills the white f6 group. you could just walk right into white's territory OR like i said before, seal off the G-line (preferrably) thereby making G11 stronger. See var.]
+;W[hd];B[ie]C[RW> Now G11 is lost.];W[hc];B[hf]C[We argued about this move.  Dad liked it, because it prevented white from connecting at H8, and threatened the 7 line; Yaacov preferred F10 to prevent white from connecting to life, or J11, to protect the corner.
+
+RW> your dad is right. K10 group becoming weak is the main reason for capture.]
+;W[fe];B[ic]C[RW> Remember at the end of the game you had the J10 / K11 exchange? it is because of this move. So do not touch if you want to capture h11 group.]
+;W[gb];B[lf]C[Probably should have attacked from the other side, right?
+
+RW> yes. Because of the capture of J8, the white L7 group has died.]
+;W[ib];B[jb];W[ja];B[ka]
+(;W[ia]C[Would white have done better with L12?
+
+RW> No. see var.];B[kc];W[ef];B[gf];W[fl];B[gl];W[dh];B[hj]
+;W[di];B[ge];W[fd]C[Why didn't white play G10?
+
+RW> don't know. G10 is the proper move. No more comments after this move. Have fun playing!]
+;B[gd]C[Saving the stone at G11, which we thought was dead long ago.]
+;W[hb];B[fc]C[We considered F12, but decided that did not work because of the dame.]
+;W[fb];B[fm];W[dl];B[em];W[dm];B[gm];W[id];B[jc])
+(;W[kb];B[ia];W[hb];B[ha];W[ga];B[ja];W[id];B[jc]))
+(;B[gd];W[id];B[ic];W[hd];B[jc];W[ig];B[gf]C[RW> white dead]
+))
+(;W[hi];B[ji];W[ih];B[fh];W[ii];B[ff];W[ge]C[RW> now black is in trouble]
+))
+(;W[fg];B[hg]C[RW> suppose you still want to separate j8...]
+;W[gg]C[RW> ... then you loose the e6 group. AND a big hole at h4 / j4]
+;B[hf]C[RW> now you win one j8 stone and white is on the G-line. BUT: you may have difficulty now to win. This is the punishment when u are too greedy with this E5 stone (I had to go through this experience too you know :-)]
+;W[ij]C[RW> now all hell breaks loose :-)]))
+(;B[el];W[ig];B[hi];W[gf];B[kh];W[kg]C[RW> as you can see, by chasing white while making territory, you make the most efficient moves (and thus win the game)]
+))
+(;W[kc]C[RW> white gets the corner. there is no way black can prevent this. See var.]
+;B[kd];W[ld];B[le];W[lc]
+(;B[jc];W[ke];B[kb];W[lb];B[jb];W[lf]C[RW> white is happy])
+(;B[ke];W[ib];B[jc];W[jb]C[RW> white is happy])))
+(;B[kd]C[RW> Now white must run because there is not much room for a base. Or he must leave the stone for consumption by black. Black can make territory now while chasing white; he has no more weak groups to worry about.]
+))

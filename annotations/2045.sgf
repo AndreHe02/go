@@ -1,0 +1,169 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+PB[kacky]
+PW[Manekineko]
+WR[15k]
+KM[6.5]
+DT[2003-11-08]
+PC[The Kiseido Go Server (KGS) at http://kgs.kiseido.com/]
+RE[W+18.50]
+RU[Japanese]
+
+C[I played white and the komi for this game was 6.5];B[pp];W[dq]
+;B[pd];W[cc]C[I often play one stone on the 3-4 point and the other on the 5-3 or 3-3 point.  For some reason I've found that this suits my taste better than the 4-4 point.
+
+csh: Let's look at the two plays:
+
+Conventional wisdom says that the 3-4 stone (or the 5-3 stone) can surround the corner with another move, so usually Black will approach.
+
+The 4-4 stones can't surround the corner with another move, so usually it isn't as important to approach them. They aim toward making a framework in the center.
+
+The 3-3 stone takes territory in the corner, but it is harder to develop the corner into a large framework.
+
+It's good to experiment with different openings. You don't want to rely on the fact that the other player may not know less common joseki. It is better to try to understand the meaning behind the moves, instead of playing two moves at random.
+
+Keep these points in mind as we look at the game.];B[do]C[csh: Black's next move is to approach, that way you don't get the corner enclosure (shimari.)]
+;W[co];B[cn];W[cp];B[dm]
+(;W[fq]LB[ep:A]C[csh: Playing on the third line does not aim to develop from these stones.]
+;B[ci]C[csh: This joseki traded profit in the corner for a framework along the side.]
+;W[jc]LB[df:A]C[csh: It's good to make an extension from a 3-3 stone. Next, playing a stone in the vicinity of A is big. It will create a framework (moyo) that you can solidify into territory.]
+;B[mc]C[csh: Black makes a checking extension, and also starts to consolidate the corner.]
+
+(;W[qj]LB[pj:A]C[csh: I'm not sure what to think about this invasion. It does have enough room to live, but it will be a small amount of territory. Even if White plays elsewhere and Black plays A, White can still invade. It's a trade-off between reducing Black's territory on the right versus developing your own territory on the left. This stone will not make much territory, only take away some from Black.]
+;B[qm];W[qg];B[de]LB[qe:A]C[csh: Black can also look at playing at A and putting pressure on the white group on the right. Black's play also develops the framework on the left, so this isn't a bad move, either.]
+;W[ed]C[csh: White's potential territory has been squished down.]
+;B[jq]LB[rd:A][pq:B]C[csh: Looking at the board, Black seems to be ahead in potential territory. In part, this is because his stones are expansive and working together. His five stones on the left have created an expansive moyo. In return, White only received about 15 points in the corner.
+
+It seems to me that the upper right and the lower right are unfinished. A and B seem like the proper points to play. I like B instead of the 3-3 invasion because it takes away more territory than along the side.]
+
+(;W[qd]C[csh: I don't like this move or the sequence that follows. See the variation.]
+;B[qc];W[pc]C[csh: This crosscut is bad.];B[rd];W[qe];B[qb]
+;W[pe]C[csh: The ladder doesn't work, so White has to play this way.]
+;B[od]C[csh: When you look at the black corner now, it's 100% alive. It's strong, and White can no longer attack it. Meanwhile, White didn't get more eyespace and his group still has open skirt at the top.]
+;W[nf]LB[pq:B][qq:A]C[csh: Invading the 3-3 is probably more important.]
+
+(;B[hd]C[csh: White's top group does look weak, but I don't think this is the proper attack.]
+;W[hc];B[gc];W[gd];B[fd];W[ge]C[csh: This is playing to be split in half. White's potential territory has been cut in half.]
+;B[fc];W[id];B[he];W[hf]TR[qm]C[I thought i could pull this off without a ladder but I think i was wrong.
+
+csh: Yep. The ladder's broken by the marked stone.];B[fe];W[ie]
+C[It worked out anyway though :)];B[dd];W[dc]
+(;B[ec];W[be];B[bg]C[I always seem to get distracted during the opening and I fail to make the biggest extensions in favor of defending.  Were there any ways I could've done better in this opening?
+
+csh: The invasion on the right was a liability. Black gets an extension for free (you have to respond, and he gets to choose whether to extend from the top or the bottom.)
+
+When you look at the game, Black had his way in the opening. He extended to R7, and you had to respond at R13. Then he extended at D15, and then you responded at E16. Then he makes the big extension at K3. In short, he got to make all three extensions in the opening.
+
+Instead, you might be able to trade big points. If Black takes one big point, you can take the other one. If you respond to his extension and then he takes another big point, you've lost ground both times.
+
+If you had extended to C13, Black is likely to respond to avoid the complications from the ko.]
+
+(;W[hq]C[csh: This trade is bad for White.];B[jo]C[csh: White has gained four points along the edge of the board, but Black has strengthened the border of his moyo. It also cuts off a possible escape route for a white invasion.]
+;W[qq];B[pq]LB[qn:A]TR[qm]C[csh: Since the marked stone is here instead of at A, you can play this way.]
+
+(;W[pr];B[or];W[rr];B[ps];W[qr];B[rp]LB[qn:A]TR[qm]C[csh: Black isn't strong enough at the top to go for the kill. This would work if the marked stone was at A.]
+;W[qp];B[qo];W[oq];B[op];W[nq];B[nr];W[np];B[mq];W[mp];B[lq]
+;W[ro];B[rn];W[po];B[oo];W[qn];B[pn];W[qo];B[om];W[rm];B[rl]
+;W[sn];B[pl]C[csh: This sequence was definitely a windfall for White.]
+;W[qk];B[ql];W[nj];B[ml];W[nk]C[Maybe I should've extended to the center?
+
+csh: This is definitely a slow move.];B[ll]C[csh: But so is this.]
+;W[ki]C[I was lucky and got to do it anyway.];B[le];W[nd];B[nc]
+;W[oe];B[oc];W[md];B[ld];W[mf];B[kc]C[csh: The cut is protected without this move.]
+;W[kf];B[bf];W[cd]
+(;B[gg];W[hg];B[gh];W[hh];B[hj];W[hi];B[gi];W[ij];B[ik];W[hk]
+;B[gj];W[jk];B[il];W[kk];B[jl];W[kl];B[km];W[lk];B[gl];W[nl]
+;B[nm];W[mk];B[ho];W[hl];B[hm];W[lm];B[mm];W[jm];B[im];W[kn]
+;B[lo];W[ln];B[mo];W[ko];B[kp];W[no];B[mn];W[on]C[csh: Obviously, these two mistakes were big.]
+;B[lp];W[ol];B[jn];W[km];B[pm];W[bn];B[bm];W[ce];B[cf];W[eb]
+;B[fb];W[fo]C[I was trying to keep sente with this sequence so I didn't defend B6 or E18.
+
+csh: It's a good idea to keep sente. However, you have to make sure that the "sente" moves you are making are bigger threats.]
+;B[db];W[cb];B[ea]
+(;W[bb]SQ[fa][eb]C[csh: Since you had to protect, Black made about six points in sente. I marked the points here and in the variation.]
+
+(;B[bo];W[bp];B[an];W[en];B[dn];W[fm];B[el];W[fl];B[fk];W[em]
+;B[ep];W[fp];B[eq];W[er];B[ap];W[aq];B[bq];W[ao];B[bn];W[ap]
+;B[dp];W[cq];B[si];W[ri];B[sj];W[sh];B[sk];W[rh];B[re];W[rf]
+;B[ir];W[hr];B[lf];W[lg];B[gf];W[ke];B[jb];W[ib];B[kb];W[kd]
+;B[hb];W[ha];B[gb];W[ja];B[ka];W[ia];B[ga];W[ic];B[ca];W[ba]
+
+(;B[ac];W[ad];B[ab];W[bc];B[af];W[da];B[eb];W[me];B[lc];W[gm]
+;B[ip];W[hn];B[in];W[go];B[gn];W[fn];B[hs];W[iq];B[jr];W[gs]
+;B[is];W[hp];B[hn];W[qs];B[ns];W[se];B[sc];W[nn];B[sd];W[pk]
+SQ[sf][oj][pj][ok]C[I missed this point for quite a while and decided to play it now.  I thought it was worth more points than defending T14.
+
+csh: It is. See the variation.];B[sf];W[sg];B[sl];W[ae];B[sm]
+;W[rn];B[se];W[os];B[mr];W[ps];B[ca]C[Here we fought a rather silly kou sequence over this one point.  I was fighting it as a picnic kou on the off chance that my opponent would make a mistake but I should probably have just let it go.
+
+csh: It's not really a picnic ko because Black has nothing to lose, either. It's a half-point ko (hanmoku ko.) If it was a closer game, it would be worth it to fight it out. As it stands, you are ahead. You can also look at it as good practice for finding ko threats. :)]
+;W[dl];B[ek];W[da];B[br];W[dr];B[ca];W[bl];B[cl];W[da];B[gr]
+;W[fs];B[ca];W[tt];B[da]C[Here I gave it up.];W[tt];B[tt]TW[aa]
+[ab][ac][bd][hd][jd][he][je][ne][if][jf][of][pf][qf][ig][jg]
+[kg][mg][ng][og][pg][rg][ih][jh][kh][lh][mh][nh][oh][ph][qh]
+[ii][ji][li][mi][ni][oi][pi][qi][jj][kj][lj][mj][oj][pj][ok]
+[oo][so][gp][op][pp][rp][sp][bq][gq][pq][rq][sq][ar][br][cr]
+[fr][gr][sr][as][bs][cs][ds][es][rs][ss]TB[fa][la][ma][na][oa]
+[pa][qa][ra][sa][lb][mb][nb][ob][pb][rb][sb][pc][rc][ed][ee]
+[df][ef][ff][ag][cg][dg][eg][fg][ah][bh][ch][dh][eh][fh][ai]
+[bi][di][ei][fi][aj][bj][cj][dj][ej][fj][ak][bk][ck][dk][gk]
+[hk][al][bl][dl][hl][am][cm][io][jp][kq][kr][lr][js][ks][ls]
+[ms]C[I won by 18.5 points.
+
+csh: You definitely outfought your opponent,but if you strengthen your opening, it might be easier to settle your groups and get more reasonable position in the middlegame. Then you don't need to fight to stay in the game.
+
+As a side note, notice how in the upper left ended up being a small group? It was hard for Black to attack the group, but it didn't get much territory. In part, this is because your opening move was a 3-3 point.
+
+It might be helpful if you look at some books on the opening. I like the book, "Opening Theory Made Easy" by Hideo Otake. There is also the first book in the Elementary Go Series, "In the Beginning" by Ishigure Ikuo.
+
+I hope you find this review useful.])
+(;B[ad]C[csh: This gets a seki.];W[ae];B[ab];W[bc];B[ac]))
+(;AW[ea][db][eb]AB[fa]AE[bb][cb]SQ[ca][da][bb][cb]))
+(;B[bb]C[csh: There is a ko for life if you do not make another move.]
+;W[ba];B[bc];W[ab];B[ac];W[ae];B[aa];W[ca]C[csh: This is a ko, but mostly likely will end up as a seki. If it does end up as a seki, then not protecting will cost you eight points in the corner. I don't think you took away that much from Black with your move in the corner, so I don't think this is a good trade.]
+))
+(;B[ce];W[bd];B[db];W[cb];B[eb]
+(;W[bb]C[csh: This move is necessary for life.])
+(;B[ae]C[csh: Otherwise, this kills it.];W[bb];B[ca];W[ba];B[ac]
+
+(;W[ab];B[ad])
+(;W[ad];B[ab]))))
+(;W[qp];B[qo];W[ro];B[rn];W[po];B[qn];W[pr];B[or];W[qr];B[nq]
+;W[rp])
+(;AB[qn]AE[qm]TR[qn]C[csh: If the marked stone was here instead...]
+PL[W];W[pr]C[csh: This is the correct move.];B[or];W[rr];B[ps]
+;W[qs]C[csh: It is now ko for life. White can't get unconditional life.]
+))
+(;W[pq]
+(;B[qq]C[csh: Black can choose to play the inside or the outside.]
+;W[oq];B[qr];W[op];B[po];W[lq]TR[jq]C[csh: The white group is weak, but so is the marked black stone.]
+;AW[hq]AB[jo]TR[jo][hq]C[csh: It should be apparent why the trade of the marked stones is not good for White.]
+)
+(;B[oq]C[csh: Most likely, Black will take the outside.]
+(;W[qq]C[csh: This leads to one variation.];B[or];W[ro];B[pn]
+;W[rr]C[csh: White lives in the corner, but Black has a wall on the outside. White will have to work to reduce Black's territory]
+)
+(;W[or]C[csh: This is another variation.];B[op];W[pr];B[nr]
+;W[qp];B[qo];W[rq];B[rp];W[qq];B[ro];W[rr]))))
+(;B[bd]C[csh: It's better for Black to just keep White contained.]
+;W[ec];B[ee];W[cd];B[ce];W[bc];B[be]
+(;W[eb]C[csh: White still needs one move to live.])
+(;B[eb]C[csh: If White tenukis, this move kills.];W[db];B[fb]
+C[csh: White's group cannot make two eyes.])))
+(;B[pq]C[csh: After this, White will have a tough game.]))
+(;W[rd];B[qc]LB[rf:A]C[csh: A trade like this might be better. You can leave it here, but then Black has a tesuji at A.]
+;W[rc]C[csh: Later on, this solidifies the white group.];B[rb]
+C[csh: Compare this result to the game. White can still threaten the black group, but his group is stable. This is better for White.]
+))
+(;W[cg]LB[cl:A]C[csh: I was considering this move, which threatens an invasion (and potential problems for Black) at A]
+
+(;B[ei]C[csh: Often Black responds to avoid trouble.];W[qj]
+C[csh: Then you can play the invasion. This position is better than what happened in the game.]
+)
+(;W[cl]C[csh: For reference, this is the sequence leads to ko.]
+;B[bm];W[cj];B[bj];W[bk];B[dj];W[dk]C[csh: Fighting this ko will split the black group apart and leave two weak groups. Don't play this if you don't have the ko threats.]
+)))
+(;W[ep]C[csh: This variation of the joseki looks to develop territory along the bottom of the board. It is weaker than the formation you played, though.]
+)
+(;W[en]C[csh: You could also try this forcing move (kikashi.)]
+;B[dn];W[ep];B[ci]))

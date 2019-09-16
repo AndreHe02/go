@@ -1,0 +1,425 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+PB[Kamtre]
+BR[30k]
+PW[Maus]
+WR[19k]
+KM[0.5]
+DT[2005-09-18]
+PC[The Kiseido Go Server (KGS) at http://kgs.kiseido.com/]
+RE[W+2.50]
+TM[2100]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+C[[xedover\] hello and thanks for letting me review your game.  I hope my comments prove useful to you.  let me know if you have any questions about my comments.
+
+Your primary lesson from this game is to learn to count your liberties and to keep your groups together by protecting your cuts:
+
+every time you place a stone on the board, ask yourself these questions:  how many liberties does it have?   is it connected to another group of stones?  if so, how many liberties did it add to that group?  did it make contact with an opponents stone or group of stones? if so, how many liberties did it remove from that group?
+
+your groups can be cut apart easily if they do not have enough liberties.]
+;B[pp];W[dd];B[cp];W[qd]LB[oc:C][od:B][pd:A]C[[xed_over\]  A, B or C?  If A, how many liberties does the white stone (R16) have?  Four.  
+
+After Black plays at A how many?  Three.  
+
+But then how many will black have?  Also only three, and more importantly, whose turn is it next?
+
+Either B or C would be better.];B[pd]LB[pc:1][od:2][pe:3];W[pc]
+LB[qc:A][od:C][pe:B]C[I am not sure how i should've played in these following moves(6-15~)
+
+[xedover\]  now each white stone has 3 liberties, and the black stone only 2.  Suddenly black is behind.
+
+the contact play might be used in preperation for a cross cut play at A.  Sacrificing the corner for influence toward the center.
+
+extending to B or C are also good]
+(;B[pe];W[oc]
+(;B[md]LB[nd:A]C[[xedover\]  feels too far. A seems better.
+
+a provberb says, "A one space jump is never wrong"];W[mc]
+(;B[nc]LB[nb:1][nd:2]C[[xedover\]  count your liberties for each group, the marked stone only has two liberties...  White will say, "thank you for the meal."]
+;W[nd]C[
+Dumb mistake, i should've seen that coming..];B[lc]
+(;W[nb];B[mb];W[nc]
+(;B[me]LB[lb:A][ld:B]C[[xedover\] protecting at A or B is perhaps better]
+;W[lb]LB[kc:1][ld:2]C[Dumbness again.. i was too eager to block white from spreading donw that I forgot about  the side..
+
+[xedover\]  given the current situation, not so bad.  its only one stone -- but don't forget to count your liberties for your remaining groups (M17 has only two - atari is next)]
+;B[qe];W[rd]
+(;B[re]LB[kc:A]C[[xedover\] A is more urgent];W[kc]C[And stupidity wins again..
+
+[xedover\]  not to worry, you're still way ahead in influence]
+;B[cf]C[[xedover\] nice, don't worry about your stones at the top, but keep the pressure on White]
+;W[ch]C[[xedover\] also good move for White]
+(;B[cd]C[[xedover\] although this many be a joseki, for now, try to avoid these contact plays -- count your liberties, and stay ahead in the count
+
+contact plays are used to pick a fight (and possibly sacrifice a few stones) to help make your weak position become stronger.  But you already have a strong position, no need to pick a fight.  Instead keep the pressure on White.  
+
+When you are strong, let your opponent pick the fight so that you can capitalize on his mistakes.]
+;W[cc];B[bd];W[bc];B[de];W[ed]
+(;B[ee]LB[dk:A]C[[xedover\]  not necessary yet.  I wonder if A might have been better]
+;W[ck]LB[cl:A]C[why would he have played there? why not continue with what he was doing?
+
+[xedover\]  white is falling behind, he needs to invade and establish a base, though I think I would have extended out another space or two,  But this two space extension is a good solid move.]
+;B[di]C[[xedover\]  nice pressing move];W[ci]
+(;B[dk]LB[dj:A]C[[xedover\] count your liberties
+
+D11 has only 3, but the White group it touches has 5
+D9 has only three.
+
+Black at A would have been better.]
+(;W[dl]LB[dj:1][ek:2]C[[xedover\] how many liberties do you have now?]
+
+(;B[bm]LB[dj:A]TR[di][dk]C[[xedover\] drawing back at A would have been a better move to strengthen the two triangled stones.  
+
+let White keep that tiny bit of territory on the side, while you keep a strong influence toward the center.]
+;W[cm]TR[di][dk][bm]C[[xedover\] hummm... now you have several weak stones.  which one to protect?]
+;B[ek];W[el]
+(;B[cj]LB[qk:B][bn:D][fp:A][iq:C]TR[dj]C[is this a good move to make?
+
+[xedover\] its certianly better than your earlier move 11, because you now have some protection (triangle mark) but otherwise I would say no.  I think you only help white get stronger with this move at this time.
+
+I would have chosen a bigger move myself.  A, B or C perhaps.  or simply drawing back at D]
+;W[bj];B[dj];W[bl]TR[bm]C[[xedover\]  now white is settled and black is still in trouble.]
+;B[bn];W[cn]
+(;B[eo]LB[bo:A]C[[xedover\]  needed to extend one more];W[bo]
+C[Stupidity is my worst enemy right now.. But later it turns out good..]
+;B[bp];W[an]C[peices lost, but if i could see 250 moves ahead, it would be a really good thing..(you'll see)]
+;B[fl];W[en]TR[fk]C[I'm blocking semi-good
+
+[xedover\] learn to block from a distance instead of making contact plays.
+
+you can let your opponent live small, while you establish a larger (and stronger) territory for yourself.
+
+you leave too many weaknesses by not keeping your own stones connected (and by not protecting your cuts)]
+
+(;B[fn];W[do]
+(;B[em]LB[ep:A]C[I think my opponent missed something here..
+
+[xedover\]  no, you did.  you realize it later at move 58 when you said you should have blocked instead of starting the ko
+
+don't try to capture and kill,try to get more territory.];W[dm]
+;B[dn]C[[xedover\]  nothing to gain here with this ko. white is already alive.  this move doesn't threaten to capture anything, nor does it protect anything.]
+;W[dp]C[should've blocked that instead of starting ko
+
+[xedover\]  yes, compare with the variation for move 55];B[ep]
+;W[en]
+(;B[fm]LB[dq:A]C[[xedover\] I'm not sure which is better. this may be.]
+;W[dq]C[And i allowed him to expand outwards..
+eventually to the whole area..];B[dn]C[[xedover\]  again, nothing to gain here with this ko. white is already alive, and this move doesn't threaten to capture anything, or protect anything.]
+;W[cr];B[hd]C[and lack of wisdom loses me the corner];W[ld]
+LB[jc:D][ke:A][qk:B][jq:C]C[[xedover\]  you chose D, I would have choosen one of the other choices -- see comments at move 71 (then come back for variations)]
+
+(;B[jc];W[jd];B[jb];W[gc];B[fd]C[could I've played better?
+
+[xedover\]  maybe.  I'm not sure the invasion was necessary.  when you're ahead, you can play safer, more defensive moves.  instead of K17,K15 might have been better, or even the bigger moves along the right and bottom sides. (see the variations for move 67)]
+;W[fc];B[gd];W[bf]LB[qk:C][fq:B][nq:A]C[[xedover\]   mistake for white. White should take the bigger moves on the right side or bottom instead.]
+;B[bg];W[be]C[my finest moves..];B[ae];W[af]
+(;B[ad]C[[xedover\] not necessary to connect. white still dies]
+;W[ag];B[ah];W[bh];B[ce]C[YAY!
+
+[xedover\] nicely done indeed. not sure why white fought this losing battle, it only served to strengthen black and weaken white.]
+;W[ai]LB[ak:A]SQ[bi][cl]C[[xedover\] white only has one eye so far. I think Black at A might kill (or at the very least reduce White to nothing and save the lost Black groups).
+
+marked spots are only false eyes.]
+(;B[ac]C[[xedover\]  end game move, save til later.];W[bb];B[ab]
+
+(;W[ba]LB[db:A]C[and now i saw the seki.. (my first one, ya know)
+
+[xedover\] its not seki, white dies
+
+but White could have lived, White A would have been my first choice.]
+;B[dc]
+(;W[ec]C[he could've alternately want to D18 and lost 2 pieces, but saved many more.. But I don't mind that he made the mistake.
+
+[xedover\] yes, that would have been better for White.];B[db]
+;W[eb];B[da];W[ea];B[aa]
+(;W[id];B[hc];W[ic]C[did i play well in the next 3 moves?
+
+[xedover\] sure, it was fine.  White can't killBlack's K18 group, should have played elsewhere.]
+;B[hb];W[ib];B[ia];W[kb];B[ja];W[ka];B[ha]C[i'm sort of happy now.. because i'm starting to catch up
+
+[xedover\] catch up?! so far you're still well ahead]
+(;W[fe]C[[xedover\] white mistake, cut doesn't work, short on liberties - the ladder is good for black, not white]
+;B[ff]C[and the ladder..]
+(;W[ge]LB[qn:A]C[[xedover\] see variation at A];B[he];W[gf]
+;B[gg];W[hf];B[if];W[ie]C[he's gona try to stop the ladder.. i dont know what he was thinking though.
+
+[xedover\] too late for White -- count your liberties.  J16 group had three, now only has two.  I'm sure he's thinking capture race -- trying to capture your H19 group, but White is short on liberties.]
+;B[je]LB[hg:A]C[i played nice..
+
+[xedover\] perhaps better to just take White's stones at A
+
+Your stone at K15 causes problems for you later, allowing White to escape into the center.]
+;W[kd]LB[jf:A]C[[xedover\] protect your cut at A (count your liberties)
+
+White is still caught in a ladder - can't escape, so no need to take now.]
+;B[hg];W[nq]C[[xedover\] finally... but almost too late for White.]
+;B[qm];W[qk];B[ol];W[qh];B[pi]C[could i've played that sequence better?
+
+[xedover\] you're doing fine so far];W[qi];B[rg]LB[ph:A]TR[pd]
+[pe][qe][re]C[dumb move, i should've gone Q12
+
+[xedover\] yes
+
+let white live small along the side, you've got a much larger and stronger area towwardsd the center
+
+when White plays a A instead of Black, your Q15 group becomes cutoff]
+;W[ph]LB[of:A]TR[pi]C[[xedover\] now you have no defense.  your Q15 group is about to be cut off, and Q11 has become useless.]
+
+(;B[kq];W[no]LB[lo:A][np:C][gq:B]C[[xedover\]  where should black play?  Not C]
+
+(;B[np]LB[lo:B][gq:A]C[What alternate move would be best?
+
+[xedover\] this is bad, you're just helping white become stronger, why not A or B instead]
+;W[op];B[mp]LB[po:A]C[[xedover\]  don't throw good stones after bad.  the previous move was a mistake, oh well, you lost a stone.  there are more important stones to save.]
+;W[po];B[oq];W[oo];B[qp];W[qo];B[rp]LB[pq:A][or:B]C[[xedover\]  not necessary.  you're merely helping white connect underneath
+
+instead, protect your weak groups (count your liberties)];W[ro]
+;B[so]LB[pq:A][or:B]C[[xedover\]  end game move, save til later.
+
+protect your groups at A or B instead.];W[sn];B[sp];W[rm];B[qn]
+LB[pq:A][or:B]C[[xedover\] useless move, you force White to make a move he wants to make anyway.  protect your own weak groups first.  Q4 group is in potential danger]
+;W[rn];B[mn]LB[pq:A][or:B];W[pq]C[[xedover\] good move for White]
+;B[qq]C[I really didn't see the atari, but what could've I done to save my group?
+
+[xedover\] count your liberties -- sense a theme yet? :)
+
+almost too late to save that group now.  save them by protecting them earlier.]
+;W[or]C[dumb sequence..];B[pr];W[oq]C[Kamtre [30k?\]: darn..]
+;B[ps];W[os]LB[qr:1][rr:A][qs:2]TR[pr][ps]C[[xedover\]  how many liberties does Q2 group have?  Play at A both protects the cut and makes two eyes.]
+;B[mo]LB[rr:A]C[[xedover\]  big mistake, here's where your game begins to go downhill]
+;W[qr]C[[xedover\] good move for White. White can now catch up and get back in the game.]
+;B[rr]C[[xedover\] black is dead, can't save it now. 
+
+proverb: don't throw good stones after bad.];W[qs]C[Kamtre [30k?\]: forgot about that group]
+;B[rs]C[[xedover\]  black is still dead];W[sq]C[and i'm mad right about now..
+
+[xedover\] yep, your game goes downhill from here. stay calm and think your way out.
+
+when playing mad, you'll make revenge type or greedy moves without protecting your own groups first -- even if you're only mad at yourself and not your opponent.]
+
+(;B[ql]LB[og:A][gq:B]C[[xedover\]  this move doesn't help you -- see possible variation in response to comment at move 166]
+;W[rl];B[pj];W[qj];B[pk];W[oh];B[mi];W[ne]TR[md][je][me]SQ[pd]
+[pe][qe][re][rg]C[better plays?
+
+[xed_over\] sure, go back to the variation at move 158];B[nf]
+;W[of];B[ng];W[og]LB[lf:A]TR[md][me]C[[xedover\]  don't forget to protect your cuts - count your liberties (N15 group has only 2)]
+;B[eq];W[er]LB[lf:A]C[[xedover\]  still time left to protect your cuts]
+;B[fr];W[mf]TR[je][nf][ng]SQ[md][me]C[[xedover\]  too late]
+
+(;B[le]LB[ke:3][le:1][jf:4][lf:2][mg:A]TR[nf][ng]C[[xedover\]  where are you going to run to? those are lost, B1, W2, B3, W4
+
+
+ need to protect the now weakened O13 group.  play at A instead of 1]
+;W[mg];B[nh];W[lf]
+(;B[kf]LB[jf:A]C[dumbness..
+
+[xedover\]  connect at A -- see variation];W[ke];B[jf];W[kg]
+
+(;B[jg]LB[jh:A]C[[xedover\]  bad.  don't let White come out.]
+;W[kh]
+(;B[ki]LB[ji:A]C[[xedover\]  stay away from contact plays, surround from afar -- (study nets)]
+;W[jh]
+(;B[ii]LB[ji:A]TR[ki]C[and i let him spread.. better plays?
+
+[xedover\] yes, see the variation back at move 175.  learn to sacrifice lost stones for a better position.  learn about nets.
+
+this net was a nice attempt, but too many weak stones.  need to back off a little further to give yourself time to regroup and stregthen your groups.]
+;W[ih];B[hh];W[ig];B[hf];W[ji];B[jj]TR[ii][ki]C[[xedover\]  look at all those weak stones.]
+;W[ij];B[hi];W[kj];B[jk];W[li];B[hj]TR[nf][ng][nh][mi]SQ[ij]
+C[[xedover\]  that stone is yours already (so far), you have more urgent moves -- how many liberties does O12 group have?]
+
+(;W[mh]LB[ni:A]C[[xedover\] the variation at A is perhaps better for white]
+;B[ni];W[mj];B[nj];W[mk];B[ml];W[nk];B[nl];W[ok]CR[oi][oj]LB[kk:B]
+[kl:C][gq:A]C[[xedover\]  bamboo joint can't be cut - O11 group and R11 group are already connected.  play at A or B is more urgent.]
+
+(;B[oj]C[[xedover\]  not necessary, the bamboo joint can't be broken.]
+;W[kk]CR[lj][lk]LB[jl:A]TR[jj][jk]C[[xedover\]  how many liberties do your marked stones have?
+
+don't even think of trying to capture White's group that also only has two liberties, because with the bamboo joint it actually has more than two.]
+
+(;B[lk]TR[mj][mk][nk][ok]C[[xedover\]  white can't be captured (see earlier lesson on bamboo joint), you're just helping white steal more and more of your moyo.]
+;W[lj];B[kl]LB[jl:A]TR[jj][jk];W[ll];B[lm]TR[jl][km]C[better plays?
+
+[xedover\]  yes, but you've got to start asking that question about 5 or 6 moves earlier :)
+
+look at your weak cutting points, including this double atari you've created for your opponent.]
+;W[jl]LB[ik:A][km:B]C[[xedover\]  hummm... which side?  A or B?]
+
+(;B[ik];W[km];B[in]C[[xedover\]  your best move yet (but about 20 moves too late).  block from a distance rather than direct contact plays, you'll keep your liberty count high enough to contain his attacks.
+
+however, you're still letting white push down further separating your right side group from your secure central group -- compare with the variation for move 217]
+;W[oi];B[pl];W[ln];B[mm];W[kn];B[lo];W[ko];B[kp];W[lr];B[kr]
+;W[gr]TR[gq]C[[xedover\]  see how a black stone at the mark before now (suggested 20 moves ago) would have prevented this squeeze attack.]
+;B[gq];W[fs]
+(;B[fq]LB[hr:A]TR[fr]C[[xedover\] sacrifice the triangled stone for a better position (compare the end of this variation with the actual move 237)]
+;W[hr];B[jq];W[hq];B[hp];W[go];B[hn];W[ho];B[io];W[fo];B[en]
+;W[ip];B[jp]LB[jo:A][ip:B]C[though i didn't know it then, this was my best play ([xedover\] moved this comment from 246 to 245)
+
+[xedover\]  you mean the marked stone at K4?  Yes, you needed to connect your weak Black group on the right to the strong group in the upper left.
+
+This is miai -- if White takes one, you'll take the other.]
+
+(;W[gp]LB[jo:A]C[[xedover\] White takes, so you can connect]
+;B[iq]LB[jo:A]C[[xedover\] nooooo... bad for Black.  White can now keep you separated with a ko fight]
+;W[hp]LB[jo:A]C[[xedover\] bad for White, should have separated Black with ko fight.]
+;B[jo]C[[xedover\] whew!  you get to connect anyway];W[il];B[hl]
+;W[gn];B[gm];W[gk];B[hk];W[fk];B[fj];W[dh]CR[be][fe][ge][af]
+[bf][gf][ak][bk][cl][bm][bn][co][bp][cp][bq][cq][br][dr]TR[bi]
+[gi][ej][hm][es][gs]C[Kamtre [30k?\]: another seki (semi-seki)
+Kamtre [30k?\]: sortof..
+
+[xedover\]  I admit that I still have trouble seeing seki myself, but this is not even close.  black is alive (all mostly connected and two eyes) and white is alive (all mostly connected and two eyes) - so far.
+
+seki is a form of stalemate where neither one of you can play without putting yourself in atari.  one move too many, and your opponent kills your group and he lives (or visa versa)]
+;B[eh];W[ei];B[ej];W[fi];B[gj];W[eg];B[fh];W[lq];B[lp];W[mq]
+;B[ks];W[ls];B[is];W[gs];B[im];W[fg];B[gi];W[df];B[cg];W[dg]
+;B[ef];W[bi];B[jm];W[kl]LB[nn:B][ir:A]TR[hm][nm][jr][js]C[where should i have moved?  ([xedover\] moving this comment from 283 to 282)
+
+[xedover\]  A is a four point move.  B is only a two point move.]
+
+(;B[nn]
+(;W[ir];B[on]
+(;W[rq]LB[pn:A]C[why did he do that? (not that im complaining)
+
+[xedover\]  white mistake.  should have played A instead]
+(;B[jr]LB[pn:A]C[[xedover\]  dame -- useless, doesn't gain anything
+
+White is giving you a gift, take the third point at A];W[es]
+LB[pn:A]C[[xedover\]  White still lets you take it.];B[pn];W[ag]
+;B[af];W[ah];B[js];W[tt]LB[br:A]C[dame! dame!
+
+[xedover\]  (white passes)  while its not always necessary to fill dame, especially in electronic games, often mistakes in counting liberties can be uncovered -- as you will soon discover.]
+;B[fp];W[tt]LB[br:A];B[hs];W[tt]LB[br:A];B[jn]
+(;W[tt]LB[br:A];B[co]C[then i see it..
+
+[xedover\] a nice find indeed -- yet another example of not counting liberties, this time by white.
+
+but unfortunatly its too little, too late.];W[am];B[cq];W[dr]
+C[Kamtre [30k?\]: and kill that group..];B[br];W[ap];B[bq];W[bs]
+;B[cs];W[ds];B[cs]C[go problems all over again..];W[aq];B[ar]
+;W[ao];B[as];W[tt];B[tt]TW[la][ma][na][oa][pa][qa][ra][sa][mb]
+[ob][pb][qb][rb][sb][lc][qc][rc][sc][md][od][pd][sd][le][me]
+[oe][pe][qe][re][se][pf][qf][rf][sf][lg][pg][qg][rg][sg][lh]
+[rh][sh][ki][ri][si][aj][rj][sj][ak][bk][lk][rk][sk][al][cl]
+[sl][bm][sm][bn][so][pp][qp][rp][sp][qq][mr][nr][pr][rr][sr]
+[ms][ns][ps][rs][ss]TB[ba][ca][ea][fa][ga][bb][cb][eb][fb][gb]
+[bc][cc][ec][fc][gc][dd][ed][be][fe][ge][bf][gf][gh][ei][fi]
+[ij][fk][gk][gl][hm][nm][om][pm][gn][do][fo][go][ho][dp][gp]
+[hp][ip][dq][hq][cr][dr][er][gr][hr][ir][bs][ds][es][fs][gs]
+C[A diff of 2.5 Pts.. a very good game, (one that i COULD'VE won too) Thanks for your time, Reveiwer!
+
+[xedover\] you can't win on tsumego alone.  even if that last minute capture had been big enough to turn the game around, I would have still felt like I had lost the game as black.  because you were 63 points behind just prior to that great find.  but mistakes are indeed part of the game and a win would have been a win -- and it was a great find.
+
+you should concetrate on counting the liberties of your groups and protecting your cuts,  even if you lose the next several games while learning to do that better.
+
+combine that with your go problem solving skills and you'll improve very quickly.
+
+I hope my comments have been helpful, even if not always accurate.]
+)
+(;W[br];B[co];W[am];B[cq];W[dr];B[ap];W[aq]C[[xedover\] White is safe]
+))
+(;B[pn];W[jr];B[js]C[[xedover\]  see, you can still save that stone later]
+))
+(;W[pn];B[pm]TR[nm][om]SQ[hm][js]C[[xedover\] only two points
+
+the other two points are now false eyes -- no points.];W[jr]
+;B[js];W[jn];B[hm]))
+(;W[on]
+(;B[om];W[ir];B[pn]TR[nm][pm]SQ[hm][js]C[[xedover\] only two points
+
+the other two points are now false eyes -- no points.])
+(;B[ir];W[om])))
+(;B[ir];W[on];B[om];W[pn];B[nn]TR[hm][nm][jr][js]C[[xedover\]  and you still get the point at O7 (or Q7)]
+))
+(;W[jo]C[[xedover\] alternatively, white tries to separate Black...]
+;B[iq]C[[xedover\]  ... Black can stay connected]))
+(;B[hr];W[fq];B[fp];W[fr];B[hq]))
+(;B[km];W[ik];B[in]C[[xedover\]  I wonder if this side might have been better.  push White over toward your strength rather than down into your belly.  This direction White soon runs out of places to run, while giving you a chance to strengthen what's left of your moyo.
+
+This also strengthens and connects your right side group]))
+(;B[jl];W[kl];B[jm];W[km];B[kn];W[lm];B[ln]))
+(;B[gq]))
+(;W[ni];B[mh];W[nj];B[mj];W[nl]TR[pi][pj][pk][ol][ql][qm][qn]
+))
+(;B[ji];W[ih];B[hj];W[hi];B[gi]))
+(;B[ji];W[ki];B[kj];W[jh];B[ih];W[jj];B[ii];W[lj];B[kk];W[lk]
+;B[li]))
+(;B[jh];W[kh];B[ki]))
+(;B[jf];W[ke];B[kh]))
+(;B[mg];W[lf];B[lg];W[jf];B[jg]SQ[md][je][me]C[[xedover\]  much better.  sacrifice your weak stones to protect you large center moyo]
+))
+(;B[og];W[oh];B[nh];W[ni];B[mi];W[ng];B[mh];W[nf];B[ne];W[jf]
+;B[jg];W[kf];B[lg];W[kg];B[kh];W[jh];B[ig];W[ki];B[lh];W[lf]
+;B[mf]TR[jh][ki][ni]SQ[nf][ng]C[[xedover\] something like this might have helped you catch up again,  surrounding a large center moyo, making it more difficult for white to invade, and connecting your upper corner group that you lost earlier.]
+))
+(;B[lo];W[op]LB[po:A]C[[xedover\]  now suppose white played here, as in the game, notice you no longer are forced to respond in the wrong direction, so you can strengthen you attacked stone instead
+
+see the difference?];B[po]))
+(;B[of]))
+(;W[qn]C[[xedover\]  this would have been a nice followup move for white,  it threatens to break the ladder, and invades black's moyo at the same time. white will be successful with one or the other.]
+
+(;B[mp]C[[xedover\] if black defends the corner...];W[ge];B[he]
+;W[gf];B[gg];W[hf];B[if];W[hg];B[hh];W[ig];B[jg];W[ih];B[ii]
+;W[jh];B[kh];W[ji];B[jj];W[ki];B[li];W[kj];B[kk];W[lj];B[mj]
+;W[lk];B[ll];W[mk];B[nk];W[ml];B[mm];W[nl];B[ol];W[nm];B[nn]
+;W[om];B[pm];W[on];B[oo];W[pn]C[[xedover\] black can't allow this to happen]
+)
+(;B[ge]C[[xedover\] black can't allow the ladder now, so must take.]
+;W[mp]LB[qj:A]C[[xedover\] white has to sacrifice the top left for influence in the lower right. (or along the side with A)]
+)))
+(;W[ie]LB[fe:A]C[[xedover\] this move for White threatens to make the cut at A work]
+;B[tt];W[fe];B[ff];W[ge];B[he];W[gf];B[gg];W[hf];B[if];W[hg]
+;B[hh];W[ig];B[jf];W[gb]C[[xedover\]  the ladder is broken, now White can capture Black's stones]
+))
+(;W[ga]C[[xedover\]  I wonder if white could have still made this group live? Then the corner would have been in seki.
+
+no don't think so, I don't see it, maybe someone stronger could find a way]
+))
+(;W[db];B[ec];W[eb]))
+(;W[db]))
+(;B[ak];W[bk];B[co];W[en];B[ao];W[dn];B[al];W[eq]SQ[bi][cl]
+C[[xedover\] White now has to find life along the bottom
+
+marked spots are false eyes]))
+(;B[ag];W[ad];B[ce];W[ae];B[ac]))
+(;B[ke];W[jd];B[je];W[id];B[ie];W[gd];B[ge];W[hc];B[he]C[[xedover\]  see, now look at the large moyo you have]
+)
+(;B[qk])
+(;B[jq]))
+(;B[dq];W[fm]))
+(;B[ep];W[dp];B[dq]C[[xedover\]  see, this way you have a better chance of keeping the corner, and your opponent is forced to live small.]
+))
+(;W[fk];B[fj];W[fm];B[gk];W[fo];B[gn];W[do];B[ep];W[dp];B[dq]
+;W[eq];B[fp];W[fq];B[gp];W[cq];B[dr];W[cr];B[er];W[fr];B[bq]
+;W[br]SQ[bp][cp][bq][dq][dr][er]C[[xedover\] square marked stones are all dead]
+))
+(;B[bo]C[[xedover\]  this is as good as a solid connection between the two black groups.]
+))
+(;B[bn];W[dj]C[[xedover\]  what if white pushes through? you can defend easily still]
+;B[ej];W[cj];B[ei]))
+(;B[dj]C[[xedover\] many possibilities for followup]
+(;W[el]
+(;B[fp])
+(;B[cj];W[bj]
+(;B[bk];W[cl];B[bi];W[bl];B[aj];W[fp]C[[xedover\]  hummm... I don't like this so much for black]
+)
+(;B[cl];W[bk];B[cm])))
+(;W[cj];B[el];W[dm];B[fp]C[[xedover\] this look good for Black, I think.]
+)))
+(;W[dj];B[ej];W[cj]SQ[di][ej][dk]C[[xedover\]  look at all your weak groups, not good.]
+))
+(;B[dj];W[cj];B[dk]))
+(;B[dk];W[ee];B[ef]C[[xedover\] this looks better for Black]
+))
+(;B[ef]))
+(;B[kc]))
+(;B[lb];W[ld];B[me])
+(;B[ld];W[lb];B[kb]))
+(;W[mb]C[[xedover\] maybe a better move for White]))
+(;B[nd]))
+(;B[nd];W[od];B[oe];W[nc];B[md]C[[xedover\]  white has small corner territory, black has strong influence towards the center.]
+))
+(;B[qc];W[rd];B[qb];W[oc]C[[xedover\]  the ladder favors black.  black might be glad to sacrifice the two stones at R18 for a better position on the outside.]
+))

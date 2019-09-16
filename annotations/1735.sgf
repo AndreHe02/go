@@ -1,0 +1,268 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.14]
+
+GN[malf-Adalberto(B) IGS]
+EV[Internet Go Server game: malf vs Adalberto]
+PB[Adalberto]
+BR[9k]
+PW[malf]
+WR[4k]
+KM[0.5]
+DT[2003-06-28]
+PC[IGS:  igs.joyjoy.net 6969]
+RE[W+5.50]
+TM[0]
+OT[25/600 Canadian]
+RU[Japanese]
+US[Brought to you by IGS PANDANET]
+
+C[Hi , My name is Adalberto and I am playing Black in this game, I endend up loosing by 5.5 points (komi of 0.5 points) So I would like to know which were my main problems.
+
+
+
+There are some questions in the game, but feel free to add any comments on my main mistakes.
+
+
+
+Thanks in advance
+
+Adalberto];B[qd]C[Hi, I am Bass, and I will be reviewing your game. 
+My comments will be marked with <Bass>.
+
+In general, you play well. You seem to have a good intuition about the direction of moves in the fuseki.
+Your areas of easy improvement are:
+1: ko fighting (yes, I know it is a hideously difficult area)
+2: seeing whether a group is strong or weak (studying pro games will help this)
+3: counting the territory. this is a very important skill, and easy to learn too. (see comments)
+4: joseki (yes, it is boring, but it will bring a great advantage when combined to your fuseki intuition)
+
+and of course, stydying life-and-death situations has hever hurt anyone.
+
+In the comments I will go through the abovementioned areas somewhat elaborately, hope you find it useful.
+
+I have tried to make this review readable for players below your level too, so please do not get annoyed when I point out something that is obvious to you :-)]
+;W[ee];B[pq];W[eo]C[<Bass> White obviously tries to harrass you with an unconvetional fuseki. You did well, not getting confused.]
+;B[oc];W[po]
+(;B[qk]C[<Bass> The simplest response to Q4 is R5 (see var.)
+<Bass> If a hasami is played here, Q8 is the most common one.
+<Bass> Your idea of extending and pincering at the same time is good.]
+;W[mp]C[Q: Which would be the best way to respond to this white stone at N4?
+
+<Bass> Since your hasami stone at R9 is a bit far away (Q8 is a more common hasami), you can probably handle this situation as an 5-4 opening followed by an 3-4 invasion. The joseki move in that situation is (a little surprisingly) tenuki. O3 is ok, and P5 might be playable too.]
+;B[nq]C[Is this response Ok?
+
+<Bass> yes.];W[qp]C[<Bass> This looks like an overplay, cutting might be possible (right away or later). see var at next move.]
+
+(;B[np];W[no];B[qq];W[mo];B[rp];W[ro];B[lq]C[<Bass> This is a good result for black. S5 should have been at N3. 
+<Bass> White can no longer hope to get territory on the lower side, and white's group is not too thick either.]
+;W[kp];B[qh]SQ[oa][ob][pd][qe][qf][qg][qi][qj][rk][sk][mr][rr]
+[sr][ms]C[Is this too low or did I do it right?
+
+<Bass> The problem with this move is that you are now defending a stone that was supposed to attack.
+<Bass> Anyway, for defending, R12 looks like a good, solid move and makes a lot of territory.
+<Bass> Now, in terms of secure territory, black leads big time. (an invasion in the upper right corner will be unreasonable for white, at least for the time being.)
+
+<Bass> Now here's how you count territory. You imagine the borders of the area that can be defended (in gote) from any reasonable moves by the opponent. Then just count the territories. Add prisoners and komi. Voil� . :-)
+
+<Bass> These are the borders I would imagine here. Black has 36, white has 0.
+<Bass> This does _not_ mean that white is badly behind, since white has huge potential at the left side and the center.
+<Bass> Keeping track of the difference in secure territory will be very helpful when deciding eg. whether to invade or reduce a moyo. In the end the difference in secure territory will of course be the result of the game :-)]
+;W[rd]
+(;B[qe]LB[qc:A]TR[pd]C[<Bass> R15 is the solid move. However now that R12 is strong, it feels wrong to give away the corner,
+as white can now live uncontionally with A (R17).
+<Bass> Black could have severely attacked white by playing at Q16 (see var) or at A.. These moves prevent white from playing the standard sabaki sequences, and that's what I meant by the "invasion is unreasonable."]
+;W[kc];B[cj];W[ch];B[cm];W[co];B[cc]C[Is this invasion ok? Or did I miss biger points?
+<Bass> Does not seem too bad, the two stones will come under heavy attack, though.]
+;W[dc];B[db];W[eb]
+(;B[dd]C[<Bass> It would be better to abandon the corner. (see var)]
+;W[ec];B[ce];W[df];B[ke]TR[cb][rc][ej]C[Is this too early?
+<Bass> I think it is a good move, at the crucial point on the border of black and white moyos, and with a good follow-up. Some of the other big plays are marked.]
+;W[qc];B[pc];W[cf];B[bb];W[da];B[bd];W[cb];B[bf];W[bg];B[af]
+C[<Bass> Living with b-E16 w-F16 b-D15 would probably have been sente.]
+;W[em];B[bn];W[bo];B[dk]C[<Bass> this shape looks ugly];W[bl]
+C[Letting white play B8 was a mistake?
+
+<Bass> Could not have been avoided, I think. If black gets confined to the side, white gets a better result here.]
+;B[bm]
+(;W[cl]C[This move looks like a mistake. (see var)];B[dl]LB[bj:A]
+C[A is no longer possible for white.];W[dm]
+(;B[bk];W[al];B[ak];W[an];B[ck];W[bi];B[dq]TR[al][bl][cl]C[And this invasion? I think I did end up with a good result but would it have another better way to play?
+
+<Bass> you only have one eye!];W[eq];B[er];W[cq];B[fq];W[ep]
+;B[cr];W[kq];B[pp];W[qo];B[bq];W[ej]C[Now I ended in a strugle for life after white played this move, so what should I have done? 
+
+<Bass> The invasion at lower left was too early. defend weak groups earlier, and the game will stay simple.
+<Bass> Anyway, you already lived _big_ in the lower left corner, since white played a useless move at L3.
+So this is probably  the only exception to the rule "running is unacceptable". 
+<Bass> Also note that white is driving you towards his weaker group  (the E5 one), which is a mistake.]
+;B[di];W[fh];B[ei];W[fi];B[fk];W[fj];B[fl];W[hk];B[hl];W[il]
+;B[hm];W[ho];B[im];W[qb];B[re];W[id]C[<Bass> this move is very strange. there is an attack going on in the center, a life-and-death situation in the upper right, and white plays a very conservative gote move far away from either.]
+;B[rc]C[<Bass> this is of course big, but sadly, gote, so white can continue attacking. You should secure you weak group by threatening the white group below, and then return to finish off the corner.]
+;W[ik];B[jm];W[lm];B[kl];W[mk];B[ll];W[ml];B[kj];W[ni];B[gk]
+;W[hi];B[lj];W[kh];B[fm];W[rq];B[rr];W[sp]C[I didn´t bother too much in this position because I thought it was alive already, but it wasn´t and white managed to kill it!
+
+<Bass> Even it it were alive, it is a good idea to defend the territory, since any endgame here will now be sente for white.]
+;B[kr];W[jr];B[lr]C[<Bass> good.];W[sr];B[qs]TR[rs]C[<Bass> S1 much better.]
+;W[mq];B[mr];W[or];B[pr];W[nr];B[oq];W[me]C[<Bass> white seems very confident about his weak E5 group.. (see var)]
+
+(;B[mg];W[lf];B[lg];W[kg];B[ji];W[ih];B[jh];W[jg];B[ii];W[hh]
+;B[mc];W[lc];B[md];W[ld];B[ne];W[mf];B[nf];W[ng]
+(;B[mh]C[Was this a mistake? Should I have just left the two stones as sacrifice?
+
+<Bass> Let's see. (see var.)];W[nh];B[mi];W[mj];B[li];W[rj]
+;B[qj];W[rk];B[ri];W[ql];B[pl];W[rl];B[ok];W[oj];B[pm];W[rg]
+;B[rh];W[pg];B[qg];W[of];B[oe];W[pe];B[pd];W[rb];B[sd];W[nb]
+;B[mb];W[lb];B[ma];W[gq]C[<Bass> white finally protects the cut.]
+;B[gr];W[pi];B[qi];W[gn];B[gm]TR[hj]C[<Bass> H10 might have been a more satisfying way to live :-)]
+;W[ba];B[ab];W[hq];B[ed];W[fd];B[de];W[fe];B[la]C[This was a mistake right?
+<Bass> yes, too small.];W[ka];B[le];W[kf];B[pf];W[lp]C[I should have connected at s1 didn´t I?
+
+<Bass> you should have played there in the first place :-)
+<Bass> you can still live if white plays S1 or L1 (or anything else there), so take H10 now.]
+;B[hj]C[<Bass> Good.];W[rs];B[ss]C[<Bass> you can take the ko once to make white lose a ko threat, yes. But there is no way you can fight this ko.]
+;W[nd];B[nc];W[rs];B[jc]C[<Bass> Ok, this is one of the basics of ko:
+Here black risks a ko of about 30 points. White risks about 3 points.
+
+In general, for the ko fight to be profitable, this means that black must make threats worth over 30 points 
+(white will have to ignore two threats to kill, so actually two 15 point threats are enough)
+and white must make threats worth over 3 points.
+
+Anyway, this difference in required threat size means that there is no way white can lose this ko.
+(question is, of course, what will be enough to win the game, but that is a different topic..)
+
+Black has a chance to back away (P1 for example), and since he cannot win the ko, it is what he should do.]
+;W[je];B[ss];W[cn];B[am];W[rs];B[kd];W[jd];B[ss];W[pj];B[pk]
+;W[rs];B[fc];W[gc];B[ss];W[gj];B[ij]C[Was this another mistake?
+<Bass> no. you can still back away from the ko.];W[rs]C[My main questions end here, but please feel free to add any comments you think that might help me improve.
+
+
+
+Thanks a lot
+
+Adalberto];B[fb]C[<Bass> You did not back away, and played a -1 point gote move instead. Now white has a chance.]
+;W[qr];B[os];W[ks]C[<Bass> here is another important thing about ko: 
+<Bass> black O1 forces M1, and white M1 forces O1. This means, that playing these will be a ko threat for either.
+<Bass> this kind of threats must be played before taking the ko.]
+;B[rr];W[ls];B[ns]C[<Bass> Now white got one threat for free.]
+;W[qr];B[eg];W[rr]C[<Bass> it is not simple to see, if there was a better way for white to play.
+<Bass> If white simply answers at E12, he has gained a stone from your ko threat. 
+<Bass> Since white cannot lose more than that even if black wins the ko, white has already gained in the ko.
+<Bass> Moreover, black will still need to ignore a white ko threat to live.
+<Bass> However, black has plenty of threats starting with G18, so white would have to settle with smaller gains
+(like H2), so this is probably ok. (see score calculation a couple of moves ahead)]
+
+(;B[dg]C[<Bass> why not just E14? (see var)];W[fg];B[ef];W[ff]
+SQ[dh][si][jj][sj][kk][rm][rn][ar][gs]C[<Bass> now, let's count the secure territories again.
+Black: 
+upper left: 27
+middle: 9
+upper right: 31
+lower right:9
+prisoners: 12
+total: 88
+
+White:
+top: 37
+lower right: 41
+prisoners: 11
+komi: 0.5
+total: 89.5
+
+Note that white does not yet have any _secure_ territory around J4. (you could add one or two for the potential though)
+
+So, white leads by 1.5 now, and anything can happen in the endgame.
+
+For your convenience, I'll try to follow the score to the end of the game.
+This is what you should do in actual games, too.];B[gb]C[<Bass> This will not work, and thus should be saved as ko threats.]
+;W[hb];B[hc];W[fa];B[gd];W[ga];B[gc];W[ib];B[jb];W[ic];B[fn]
+;W[fo];B[hn];W[io]
+(;B[ms]C[<Bass> This move is worth about -5 points. (see var)
+<Bass> Game over.];W[ir]TR[hp][ip][iq][jq][ms]C[<Bass> Now there are 4 points of secure territory around J4 + the prisoner at N1, so white is ahead by about 6 points]
+;B[qm];W[rm];B[cp]C[<Bass> this gains ~ 2 points for black, and the follow-up at A5 is nice.]
+;W[ki];B[jj];W[lk];B[kk];W[ph]
+(;B[og]C[<Bass> gote. (see var.)];W[kn]C[<Bass> this makes ~ 3 more points for white, so about 6 or 7 points now.]
+;B[nk];W[nj];B[jn];W[jo];B[km];W[mm];B[aa];W[ca];B[en];W[dn]
+;B[hs];W[is];B[on];W[oo];B[nn];W[mn];B[dp];W[do];B[qn];W[rn]
+;B[go];W[gp];B[bp]TR[ln][ko][lo][hp][ip][jp][aq][iq][jq][ar]
+[ms]SQ[cq]C[<Bass> Black is now 6.5 points behind (initial 1.5 and 1 for each triangle, 2 for the square)]
+;W[ao];B[hr]TR[aq][gs]SQ[iq]C[<Bass> 5.5 points now. (White will have to reinforce against J3 unless he wins the  ko at G5.) 
+<Bass> The triangled points "cancel" in the calculations.];W[oh]
+C[<Bass> E12 first.];B[eh]C[<Bass> good.];W[ag]C[<Bass> now thats friendly, 0 point gote, also known as pass :-)]
+
+(;B[sj]C[<Bass> A4 also possible (see var)];W[sk];B[js]C[<Bass> Do not waste your ko threats!]
+;W[ks];B[si]TR[dh][sk]C[<Bass> 4.5 points now, since you got both E12 ad T10.]
+;W[cg];B[ad]C[<Bass> A15 or A17 better, this leaves white an extra ko threat.]
+;W[dj];B[ci];W[ap];B[aq];W[gn];B[ja];W[ia];B[go];W[fp];B[fr]
+;W[gn];B[kb];W[ka];B[go];W[be];B[ae];W[gn];B[pn]C[<Bass> This move threatens to take 1 point in gote, which is what you already could have gotten. In other words, it is a pass. White should fill in at G5, and gain 2 points of secure territory.]
+;W[nm];B[go];W[of];B[gn];W[og]C[<Bass> so white got a stone in the upper ko, for final result of W+5.5]
+;B[in];W[om];B[el];W[ip];TW[ea][ha][ja][db][fb][gb][jb][kb]
+[fc][gc][hc][jc][gd][hd][kd][ge][he][ie][ke][le][gf][hf][if]
+[jf][gg][hg][ig][gh][gi][oi][sl][sm][ln][sn][ko][lo][so][hp]
+[jp][np][op][pp][rp][iq][jq][lq][nq][oq][pq][qq][sq][kr][lr]
+[mr][nr][or][pr][js][ls][ms][ns][os][ps][qs][ss]TB[na][oa][pa]
+[qa][ra][sa][nb][ob][pb][qb][rb][sb][ac][bc][qc][sc][cd][nd]
+[od][rd][be][pe][se][cf][df][qf][rf][sf][ag][bg][cg][rg][sg]
+[ah][bh][ch][dh][sh][ai][bi][aj][bj][hk][ik][jk][al][bl][cl]
+[gl][il][jl][cq][ar][br][dr][as][bs][cs][ds][es][fs][gs])
+(;B[ap]C[<Bass> if white plays elsewhere..];W[si];B[sh];W[sj]
+;B[iq];W[jq];B[el];W[gn]C[<Bass> ..the ko is suddenly more interesting :-)]
+))
+(;B[on];W[oo];B[mm];W[nm];B[mn];W[nn];B[ln];W[kn];B[km];W[lo]
+;B[lm];W[nk];B[om];W[nl]C[<Bass> If it weren't for N1, black could probably win with this sequence.]
+))
+(;B[ir]
+(;W[iq];B[hr]C[<Bass> this way the game is even.])
+(;W[hr];B[jq])))
+(;B[ef]
+(;W[eh];B[dh]TR[dg]C[Damezumari])
+(;W[dh];B[eh];W[dg];B[ah];W[ag];B[ai]C[dead, and if white plays elsewhere..]
+;W[ss];B[gg];W[gf];B[fg];W[hg];B[gh];W[gi]C[nice sente follow-up.]
+)))
+(;B[og];W[nh];B[oh]TR[la][ma][ab][lb][mb][de][eg][lh][mh][ph]
+[qi][qj][rk][sk][am][gm][aq][es][ns][os]SQ[hk][ik][il]C[<Bass>
+these are the borders of territories that both should be able to defend.
+Black has:
+Lower left: 6 points
+Middle: 7 points
+Upper left: 6 points
+Upper right: 41 points
+Lower right: 5 points
+Total: 65 points
+
+White has 47 points on the upper side and a couple of stray points here and there.
+
+so white will have to make over 10 points of territory in the endgame, while rescuing the squared stones
+in the middle. I would take black here :-)]))
+(;B[go]
+(;W[fp];B[gp];W[gq];B[fr];W[gn];B[fn];W[fo];B[hp];W[hq];B[ip]
+)
+(;W[gp];B[fp]
+(;W[fo];B[gn];W[fr];B[gq];W[es];B[dr];W[gr];B[hp];W[hq];B[gp]
+;W[cp];B[hr];W[hs];B[iq];W[ir];B[hq];W[gs];B[jq])
+(;W[gn];B[fo];W[fn];B[hn];W[fr];B[gq];W[gr];B[hp];W[es];B[dr]
+;W[hq];B[io];W[hr];B[cp]))))
+(;B[al];W[cn];B[bk];W[an];B[ck]C[<Bass> This gives slighlty better eye shape.]
+))
+(;W[bj];B[bi];W[bk];B[ci];W[cl];B[dl];W[dm];B[aj];W[cn];B[ag]
+TR[bm][cm][bn]))
+(;B[ec];W[dd];B[fb];W[cb];B[ea];W[bc];B[hc]LB[bh:A]SQ[kc]C[<Bass> Now the lone white stone is in trouble, and if white defends it, black can play A (B12) to reduce white territory while defending his weak group.]
+))
+(;B[pd]C[<Bass> white will probably abandon the S16 stone, but if he doesn't..
+(the variations given are not the whole truth, but these are the simplest ones from black's perspective)]
+
+(;W[qe];B[rc]C[<Bass> because of R12, white cannot extend to the lower side, and is in serious trouble.]
+)
+(;W[qc]C[<Bass> this is not good for white.];B[re]
+(;W[rb];B[pb];W[se];B[rf];W[qb];B[qa]C[<Bass> white dies.])
+(;W[pb];B[ob];W[rb];B[sd];W[sc];B[rc]C[<Bass> Ko. White has to spend two more moves here to live.]
+))))
+(;B[oo];W[op];B[pp];W[on];B[qo];W[no];B[qn]C[<Bass> This does not seem too bad for white, though, the ponnuki works well with the 5-5 stones. P3 is annoying too..]
+;W[oq]
+(;B[qr];W[pr];B[qq]C[<Bass> Black's corner is big, but white's influence seems even better.]
+)
+(;B[pr]C[<Bass> This is a mistake.];W[or]TR[rq]C[P2 will threaten to take the corner away. This is better for white than the previous variation.]
+)))
+(;B[qo];W[qn];B[qp];W[pm];B[nq];W[qi]TR[qg]C[<Bass> I like this joseki for three reasons (in order of importance)
+<Bass> 1: It is so simple that even I can understand it
+<Bass> 2: Black has a nice follow-up at R13
+<Bass> 3: Given the upper right shimari, after Q4 this joseki is played 9 times out of 10 in professional games.]
+))

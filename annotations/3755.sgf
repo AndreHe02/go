@@ -1,0 +1,164 @@
+(;FF[4]GM[1]SZ[19]ST[1]CA[UTF-8]AP[SGFC:1.15]
+
+PB[spyder]
+BR[12k]
+PW[Ginko]
+WR[12k]
+KM[6.5]
+DT[2005-11-21]
+PC[The Kiseido Go Server (KGS) at http://kgs.kiseido.com/]
+RE[W+9.5]
+TM[900]
+
+C[I find that very often in my games i make mistakes in the fuseki that force me to play for center influence and territory.  It works out for me at my current strength, but i fear that i won't be able to rely on middlegame fighting as much to play catch up as i progress.
+
+--
+OK.  Remember that playing for center influence is not a mistake, it is simply one approach, and an approach taken by many strong players.  Your playing suggests that you feel greedy about your opponent making territory.
+
+In a perfect game, neither player would ever be ahead.  The outcome of games is determined by the mistakes made by each player.  If you have strong positions, and thickness in the center, you are often in a good position to benefit from your opponent's mistakes in the chuban, when games are won and lost.
+--
+
+What i'd really like is some suggestions on improving my opening plays and choice of "joseki" (i don't really know many joseki, i just try to imitate patterns i've seen in better player's games)
+
+--
+I will review the whole game, but I do not think you were behind at the end of the fuseki.
+--
+
+Thanks very much in advance!
+
+--
+You're welcome!
+
+Michaeljohn Clement
+mj@mjclement.com
+--];B[pd];W[dp];B[dd];W[pp];B[jc];W[cf];B[ch]C[W now has a choice, either to take the corner or jump out at E14.  Either choice is fine.]
+;W[cc]C[By playing into the corner, you choose immediate territory over outside influence.]
+;B[cd];W[dc];B[ec]C[Im pretty sure B E17 is not joseki, but i don't know how to punish it.
+
+--
+Indeed this is a mistake, see the variation for one possible punishment.]
+
+(;W[bd]C[This move is also not bad, the result should be similar.]
+;B[be];W[bc];B[ce];W[ed]C[This is a good instinct, but you must read.  The move does work but your next move shows that you had not read carefully.]
+;B[ee]
+(;W[eb]C[This is submissive.];B[fc];W[fb];B[gc];W[qf];B[qh]
+;W[qc];B[pc];W[qd];B[qb]C[Once again i do not know how to respond to B's variation
+
+--
+The moves you found were fine.];W[rb]C[This is normal.];B[pb]
+;W[pe];B[re]
+(;W[qe];B[rf]
+(;W[ne];B[mc];W[nc]C[Aji keshi.];B[nb];W[md]C[Again.];B[lc]
+;W[qk]C[A one-space approach at R10 is more severe.  S16 is still double sente.
+
+At this point, who is ahead?  I would say w is ahead, so your fuseki was not bad.]
+;B[rj]C[B chooses a bad way to survive.];W[rk];B[qj];W[pj];B[pi]
+;W[oj];B[oi];W[nj]C[Very nice result for w, now clearly ahead.]
+;B[rd]
+(;W[mg];B[rc]
+(;W[mi]C[This is small.];B[qg]C[This move is one reason why S17 was big.]
+;W[of];B[qn];W[qp]C[Not entirely sure how to respond here.
+
+I figured if B plays O3 or a similar corner reducing move i can take p6 and have a solid side.
+
+--
+B play here is bad, to put a stone against the w wall like this.  Your solid defense of the corner is an excellent response, now b's stone looks helpless.]
+;B[on]
+(;W[pn]C[Strange move, this can only help B stabilize his group. See variation.]
+;B[pm];W[po];B[ql]
+(;W[pl];B[ol];W[pk];B[rl]
+(;W[mp]C[Too soft, see variation.];B[no];W[np];B[mo];W[lo]
+(;B[nm]C[Pointless move by b.];W[lm];B[mn];W[ln];B[oo]
+(;W[ck]C[You should read more carefully in life and death situations.  The b group is *not* alive, you tenuki too soon.
+
+Also, the status of the right side b group is undecided (meaning that if b plays first, it lives, if w, it dies) for the next 171 moves.
+
+W can kill the group and end the game at any time for 171 moves, but you did not because you did not see it.  This means that if you improve your life and death skills you can raise your strength a lot.
+
+Note: there is a way that b can live or escape even after T8, but even if he lives it is gote and helps w a lot.  And if he makes any mistake, he will die and the game is over.]
+;B[cn]C[Best response here?
+
+--
+E6 is very attractive.  Other possibilities are D6, D7, or E7.  Tenuki is also possible.]
+;W[cp]C[This is not the best move for C9.];B[fq];W[hq];B[jq]
+;W[io];B[ip];W[hp];B[jo];W[in]C[B is now hopeless here.  W should kill this group.]
+;B[jn];W[jm];B[im];W[hm];B[il];W[km];B[kp];W[lq];B[lp];W[op]
+;B[kq];W[lr];B[kr];W[ir];B[iq];W[lk];B[ho];W[hn];B[go];W[jr]
+C[Well done, b group is dead.];B[ls];W[mr];B[gr];W[ko]C[I think H2 works here.  Im not sure why i didnt think to play it.
+
+--
+Yes H2 works, this move is a 50-point mistake.  You were far enough ahead that you can still win, but to get to dan level you need to focus strongly on not making these mistakes.  Looking at the liberties and reading every semeai is one way to get better in these situations.  Also you should slow down and take your time in the middle of fighting like this when one bad move will cost you the game.]
+;B[hr];W[kn];B[js];W[jp];B[jo]C[Now that you have M9 in place, there is no chance for b to live after T8.
+
+The move b should play as soon as possible would be S5.];W[dn]
+;B[cm];W[dm];B[cl];W[dl];B[bk]
+(;W[dj];B[cj]
+(;W[di];B[dk];W[ek];B[ci];W[fi];B[jf]C[Too timid, b should play J11.]
+;W[jh];B[od]C[This is ridiculously small and you should ignore it.]
+;W[nd]C[G18 is much bigger, and many other moves.];B[oe];W[pf]
+;B[lf];W[mf];B[le];W[hg];B[hf];W[gf];B[ge];W[if];B[he]
+(;W[fg];B[ff];W[gg];B[eg];W[ie];B[id];W[je];B[ld];W[jg];B[kf]
+;W[eh];B[dh];W[fm];B[fk];W[el];B[ej];W[ei];B[fj];W[gi];B[lh]
+;W[lg];B[kg];W[kh];B[ni];W[mh];B[og];W[ia];B[gb];W[ga];B[fa]
+;W[ea];B[db];W[da];B[ib];W[ha];B[ja];W[cb];B[hb];W[fa];B[ba]
+
+(;W[ca];B[ab];W[ac];B[ae];W[bb];B[dq];W[cq];B[dr];W[cr];B[do]
+
+(;W[co];B[eo];W[bn];B[fl]
+(;W[gm];B[em];W[en];B[fn];W[em];B[ep];W[ro];B[rn]C[T8 now is a clean kill.]
+;W[bm];B[bl];W[ms];B[ks];W[ds];B[er];W[sj];B[ri];W[mm];B[ml]
+;W[ll];B[mk];W[mj];B[ng];W[nf];B[pg];W[nh];B[oh];W[gn];B[fo]
+;W[oc];B[ob];W[am];B[al];W[bo];B[es];W[cs];B[sl];W[sk];B[rq]
+
+(;W[rp];B[qr];W[pr];B[sr];W[rs];B[pq];W[or];B[nq];W[nr];B[so]
+;W[sp];B[sn]C[Now b group is finally alive.];W[kd];B[kc];W[ig]
+;B[jd];W[ke];B[ok];W[nk];B[nl];W[si];B[sh];W[aa];B[ck];W[tt]
+;B[aq];W[ap];B[bq]C[W can pass.];W[br];B[is];W[jn];B[jp];W[tt]
+;B[me];W[li]C[Not necessary, w can pass again.  In yose, try to read these things so you don't lose points when your opponent fills dame.]
+;B[kj]
+(;W[lj]C[Also unnecessary, w should pass again.];B[ki];W[ij]
+;B[ii];W[ji];B[hj];W[jj];B[qo];W[tt];B[sq]C[W should pass again, b cannot make a seki since w has at least one eye.]
+
+(;W[oq];B[tt];W[tt]TB[af][ag][ah][ai][aj][ak][bf][bg][bh][bi]
+[bj][cf][cg][de][df][dg][ed][ef][eq][fd][fe][fp][fr][fs][gd]
+[gp][gq][gs][hc][hd][hp][hq][hs][ic][ir][jb][jr][ka][kb][la]
+[lb][ma][mb][na][nn][oa][om][pa][ph][qa][qi][qm][ra][rb][rg]
+[rh][rm][sa][sb][sc][sd][se][sf][sg][sm]TW[ab][an][ao][aq][ar]
+[as][ba][bp][bq][bs][db][ej][fh][fj][fk][fl][gh][gj][gk][gl]
+[hh][hi][hj][hk][hl][ih][ii][ik][il][im][jk][jl][ki][kj][kk]
+[kl][lh][mq][nq][ns][os][pq][ps][qq][qr][qs][rq][rr][sq][sr]
+[ss])
+(;W[tt];B[oq];W[mq];B[qq];W[qs];B[ps];W[os]C[B stones dead.]
+))
+(;W[tt];B[lj];W[jj]C[B can do nothing.]))
+(;W[sn]C[B is dead with ko.]))
+(;W[fn]))
+(;W[eo];B[co];W[fp];B[gp]))
+(;W[bb]))
+(;W[dg]C[Better.]))
+(;W[dk]C[This is the only move.]))
+(;W[cj]C[Better.]))
+(;W[sl];B[sm];W[sk];B[rn];W[qm];B[rm];W[rp]C[B group has only one eye because of the very bad move at O7 which was like passing.]
+))
+(;B[ln]))
+(;W[sk]C[You must separate.  Allowing B to connect is too easy for b.  You made a similar mistake before by allowing b S17.]
+))
+(;W[ol]C[Shape.]))
+(;W[mn]C[I would play here.  B must now struggle and find something amazing if he wants to win.]
+))
+(;W[je]C[This would be a better direction to strengthen your group.  You could also tenuki, of course.  The left side is big now.]
+))
+(;W[rc]C[It is probably worth saving.  This is worth probably more than twenty points.]
+))
+(;W[rd]C[This threatens to capture, and makes an eye in the corner.]
+;B[tt];W[rg];B[qg];W[sf]))
+(;W[rf]C[Better shape.];B[oe];W[pf]))
+(;W[fd]C[This fight favors W.]))
+(;W[bc]
+(;B[bd]C[B's natural move would be here, but this is an even worse mistake.]
+;W[ed]C[B loses either the three stones or the one, W is left with a large corner in either case.]
+
+(;B[ee];W[fd])
+(;B[fc];W[de]))
+(;B[fd];W[be]C[W connects, and b's stones are now a little less efficient than w's position.]
+)))

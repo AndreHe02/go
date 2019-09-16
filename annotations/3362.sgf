@@ -1,0 +1,242 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+PB[blubben]
+BR[20k]
+PW[GaBuZoMeu]
+WR[18k]
+KM[0.5]
+DT[2005-05-14]
+PC[The Kiseido Go Server (KGS) at http://kgs.kiseido.com/]
+RE[W+5.50]
+TM[900]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+C[Dear Reviewer,
+
+first let me thank you for reviewing this game.
+
+I took black in the game. My overall impression was that I made a better fuseki than my opponent but I gradually lost this advantage. In the end I lost due to two reading errors (I didn't connect a monkey jump at  move 139 and missed a snapback at move 214).
+
+I reviewed it for myself already and whenever I would play otherwise in hindsight, I included the variation and my reasoning why I would play otherwise.
+
+I welcome any advice you do have, I'm especially interested in reading your comments on the following topics:
+- How I lost the advantage I gained in the fuseki (or why my fuseki was not as good as I think)
+- (Im-)Proper use of thickness (it's a concept I still don't understand)
+- (In-)Correct timing
+- Your overall impression which part of my go play most desperately needs improvement and a few suggestions how I could improve it
+
+Thanks again for reviewing and enjoy the game :)
+
+/Axel
+
+alaric: Hello.  I'll be preceding all my comments with "alaric:".  I'm around 15k KGS, so my insights won't be much beyond yours.  You seemed to have a good advantage after the first corner play, and your followup was good, but you lost control after that.  I'll go into that further at that point in the game.]
+;B[pd];W[dp];B[cd];W[pp];B[pj]SQ[ec][ed][dj][cn]C[alaric: This is nonstandard.  In the opening, in general, you first deal with unbalanced corners, then balanced corners, then the sides.   So the shimari at E16 or E17 would be most common, followed by a play along the left side.  If you want to play along the sides the left side is better.  If you get the shimari, or if you opponent prevents it, either way the natural extension of C16 is down the left side.]
+;W[ed];B[ee]C[Because of  the white stone at D4  I chose to play E15 in order to counter D4's influence. Question: Is this nonsense?
+---------------------------
+
+alaric: No, this is perfectly sensible if you are going for influence.]
+;W[dd]C[In Kogo's Joseki Dictionary I don't see a variation for D16 so probably it is not a good move. Obvious question: Took I advantage of this mistake?
+----------------------------------
+
+alaric: Sensei's Library has a good overview of this joseki here: http://senseis.xmp.net/?34PointHighApproachOutsideContactPush .  There assessment is that this is playable, but favors black.  Your response is fairly good though, and the outcome does look favorable.]
+;B[de];W[cc];B[fd]LB[ce:A]C[I'm not sure whether it would have been better to defend against a cut at A.
+----------------------------
+
+alaric: i'd generally perfer A, but this is fine.];W[bd]C[this doesn't look like a proper continuation for white because it forces black into good shape and leaves white with two cutting points.
+---------------------------------
+
+alaric: You assessment is correct, this looks like a poor play for white.]
+;B[ce]LB[eb:A][fc:B]C[I don't see a good continuation for white, I probably would have played at A (which is not a good idea) or B (which neither looks promising for white)
+------------------------------------
+
+alaric: I think D17 (where white plays) is necessary here, otherwise the cut at B17 cuts off a good chunk of the corner.]
+
+(;W[dc];B[dn]LB[bc:E][fc:D][gf:C][cm:A][cn:B]C[Questions:
+a) Do I have thickness in the upper left corner?
+b) Is this a proper extension or is A or B better?
+c) Is this the correct way to use the wall above or should I have played on another side?
+d) Should I have played another move in the upper left corner (C,D or E) ?
+e) How much do I have to worry about the opening at B15?
+
+alaric: 
+
+a) yes, except that your flank is open because of B16.
+b) I would prefer B here, but you have been playing an influence game so far, so D6 is fine.  I'm not sure if A is better here.
+c) Yes, the wall faces down the left side, this direction of play is correct.
+d) I think you should have played E, that would let you close the open flank, probably in sente
+e) a good bit, it undermines your wall, which is why fixing your open flank is needed before D6, otherwise white could rob you of it's value.]
+;W[dk]C[This i a rather typical situation I encounter during my games, I approach a corner from a position I consider thick and then my opponent pincers. IIRC most books don't suggest this move for white but I'm not sure why. Especially I don't know how to continue and take advantage out of this. Could it be the case that whites invasion is way too early?
+-----------------------------
+
+alaric: The approach of the bottom left corner is good because it leaves white with 2 bad replies.  He must either play a standard move such as F4 here, but this allows you to build a rather nice moyo on the left side, or he must pincher near your wall.]
+;B[fn]C[My usual response: Jump out and try keep both white stones separated and threatened.  Although I don't know how a proper attack on either stone would look like.
+------------------------------
+
+alaric: Go proverb "One point jump is never wrong".  This seems the best move in this situation.]
+;W[gp];B[ek]LB[hn:A]C[I played this move because
+a) it is good shape (it is, or?)
+b) I wanted to give the group  some depth
+c) Extending to A doesn't keep the pressure on the white group in the corner
+----------------------------
+
+alaric: A here would not server a purpose.  I don't care for this move though.  My gut is to play D11.  This starves white of an easy life on the side and puts him on the defensive.  Then you can make life with your buttom group while presuring the weak white group.  It is because of this that I think W D9 was bad.  If he wanted to pincher a tight low (C8) pincher would work better.  Your move here forces white to make life on the side, which removes the benefits of your black wall.]
+;W[el]LB[dl:B][fl:A][hn:C]C[I responded to this move with A, but looking at this move now I think that this just strengthens white stones while leaving mine with a lot of cutting points. Probably E9 was already misplaced. Is a crosscut at B possible? Playing somewhere else seems to be out of question since a white stone at C would be a good attack, or isn't it?
+--------------------------
+
+alaric: I think the crosscut would be very good here.  You have help above and below, which should make the coming fight much easier for you.  If white does poorly he could lose the entire left side.
+
+I agree with the rest of your assessment, A is not good here, and a tenuki would be painful.]
+
+(;B[fl];W[dl];B[ej];W[dj]LB[kd:B][ei:A][qn:C][kp:1][nq:D]C[After white played D10 I thought that I could play elsewhere because
+a) a hane of white at A was too early
+b) pushing myself at A would strengthen whites group and bring my black wall above in danger.
+
+Thinking about it again, pushing at A seems to be a good move, since I could build a huge moyo.
+
+Anyway, I continued playing at  B because
+- playing at C would make an invasion around 1 nearly impossible (or at least I don't know how to do it properly)
+- approaching from D/1 doesn't look very good
+
+Later on (move 46) white played at A
+-----------------------------
+
+alaric: Go proverb "Do not push down on the 4th row".  A is bad here, you are forcing white to make 4th line territory.  You do not get moyo from this, you get influence, which is a tenuous thing.  It is too easy to reduce a center facing wall if it has no help, so this would be a bad exchange. 
+
+B is large, but reduced in value because of potential for white F17.
+
+C I think would just force white to claim the entire bottom.
+
+D I like here because another white stone would build a strong moyo at the bottom.
+
+At this point in the game I think white is ahead by a decent amount.  The play along the left side removes the value of your wall.  White gained the top left corner for that wall, and now you will get nothing out of it.  Your formation also has an open flank to both the right and the bottom.
+
+White's group on the left is solid and alive, and has the potential for some good territory.  On the other hand, your left group is disconnected and weak, and secures no territory.  I think W E7 would be quite bad for you here.
+
+White has the beggings of a good bottom moyo.
+
+Black at this point has Q16-Q10 and alot of influence.  To win you will need to take a large profit out of that influence.
+
+B is a solid play here, but I really don't like the thought of W B7, so i'd rather play there.  If white connects his left group to the bottom I think black is in a very bad position.]
+
+(;B[kd];W[qc]C[Looks like it's miai at which side I block.
+--------------------------------------------
+
+alaric: I have heard to invade 3-3 as soon as your opponent gets a double wing, but this still feels a little early to me.
+
+Because the top left is already developed, and white can slide under your flank at F17 I'd rather take the downward facing wall, there is more to gain in that direction.]
+;B[qd];W[pc];B[oc];W[ob];B[nc];W[nb];B[mc];W[rd];B[re];W[rc]
+;B[qf];W[ql]LB[ei:C][qj:A][lp:D][qq:B]C[Again I was unsure what I should do next.  Answering at A seems to be overly defensive, an invasion at B would cancel my thickness above and playing at the top is too early. This leaves the left and the bottom side to choose from. I didn't know how to handle the left side, probably playing at C would be the best move at this side. This leaves only an invasion around D.
+---------------------------------
+
+alaric: A secures little at this point, and would be very slow.  You are playing an influence game, so you want an influence move at this point.
+
+B would be bad here, as I think a wall in either direction is bad for black.
+
+C is not good, but it may be necessary.  The weakness of the black group means that a move at C threatens group while allowing white to enter the center.
+
+D here looks good, as you are likely to get a strong top facing wall, which increases the chance of you getting value out of the center.]
+;B[lp]C[Would this stone be better on the third line? I don't like to play low because it usually - at least in my games - leads to a group under severe attacks
+
+alaric: In this case I think high is better.  In this case we don't mind reducing white and gaining influence, so a high invasion is good.]
+;W[jq];B[cp]TR[dj][dk][dl][el]SQ[dp][gp][jq]C[I don't know anymore why I left  my stone at M4. With this stone I intended to make base, keep both white groups separated and also take advantage of the fact that the white group at the bottom is rather thin.
+
+alaric: This does seem an odd time to tenuki.  The top white group (triangle) is pretty much alive, and the thiness of the bottom group is countered by the weakness of your group.]
+;W[do];B[co]LB[em:B][cn:A][dq:C]C[A cut at A  is unreasonable, for myself I would play at B and separate the black group. White played C,  which looks like a good move.
+
+alaric:  I like B here, but it would have been better before B B4.  C is solid, and black is still weak.  If black solidifies his group white can play to reduce the value of M4, if black tenukis, then B is very strong.]
+
+(;W[dq];B[fc]C[This is probably too early and not really a severe threat.
+
+alaric: Your bottem left group is weak, your M4 invastion stone is unsupported, there are more urgent plays than this.]
+;W[ei]C[Finally white played at E11 and the whole lower left corner ended up being a complete mess for me :(]
+;B[fi];W[fk];B[fj];W[fm];B[gk];W[en];B[gm];W[em];B[bm];W[cn]
+;B[bn];W[cm]LB[cl:B][cq:A]C[prior to playing at A, forcing at B would probably have been a good idea]
+
+(;B[cq];W[np];B[lr]LB[jo:A]TR[fi][ej][fj][ek][gk][fl][gm][fn]
+C[not a good move since a white stone at A attacks the group on the left as well.
+-----------------------------------
+
+alaric: You have a high invasion stone, and lots of influence, so it seems odd to try this.]
+;W[mq];B[lq];W[jo];B[mp];W[nq];B[jr]C[It's not a good idea to try to make base at the bottom in this situation, isn't it? In my opinion white doesn't handle the situation properly in the following moves although I can't say why.
+---------------
+
+alaric: There isn't alot of room to make a base, and it's always better to have an escape root.  In fact, if you survive small on the side and let white wall you in he's gained much by your invasion.]
+;W[ir];B[kq];W[js]C[alaric: I don't think this is proper play from white.  He's trying to steal eye space, but white is not strong enough for this, and black can still run to the center if need be.  I'd prefer K4 here.]
+;B[jp]LB[iq:B][kr:A]C[white now makes a ponnuki by playing at A, would connecting at B be a better choice?
+
+I thought K1 was wrong, and the followup surely is.  He stole eye space,  but let you escape because of it, which does no good.  B is better here.]
+;W[kr];B[iq]LB[ip:B][jr:A]C[white connects at A  which doesn't look pretty, maybe starting a ko fight at B would be a better.
+-------------------------------
+
+alaric: white didn't take the last too chanced to black this black escape, so it's not surprising he continues this way.]
+
+(;W[jr];B[ip];W[hq];B[hp];W[gq];B[go]C[alaric: well done.  I think it was unwise to go low, but it worked out to your advantage.]
+;W[bl]C[alaric: at this point the game will be decided by how much black gets out of the center, this move is large, but not as big as getting shut out of the center would be.]
+;B[eh]SQ[pl][no]C[alaric: this is moderate, but you need to look at the junction point of two moyos for the big points now.  The marked locations are very large now.  If black cuts white off from the center the game is over.]
+;W[cg];B[di];W[ci];B[be];W[bc];B[eb];W[db];B[bg]LB[mb:A][nj:D]
+[rj:B][qq:C]C[too early, what would be a better point? In my opinion
+- A and B secure territory
+- C would be a good idea now
+- D enlarges/strengthens my moyo
+----------------------------
+
+alaric:
+
+I would prefer A over B.  At this point white getting B would not be bad for black as he would just gain a center facing wall out of the exchange.  D is the right idea, but seems too passive.  C looks good here as well, but again, i'd prefer a move on the edge of the moyos.  Also, I believe A18 kills the top left corner.]
+;W[bh];B[bf]C[alaric: gaining second line territory to secure a single stone? surely there are better moves at this point in the game.]
+;W[lj]C[alaric: given the huge center an invasion was inevitable.  If early moves had cut off white then an invasion this deep would be less feasible.]
+;B[ol];W[oi];B[pi];W[oj];B[pl];W[ok];B[pk];W[nl];B[qk]C[alaric: the center is very large, so your threat is not large enough.]
+;W[qm]C[alaric: Better to try to connect or expand the white center group.]
+;B[on]C[I thought that I have to keep the center group separated from a stable group]
+;W[qp];B[mj]C[alaric: I'd rather contain from the outside.  It's going to be hard to kill the white group given how large the space is, and you don't need the entire center to win.]
+;W[mk];B[mi];W[li];B[lk]LB[nh:A]C[yet another terrible reading error, calmly playing at A would have denied white eye space.]
+;W[mh];B[ml];W[nk];B[nh];W[ni];B[oh];W[nj];B[mg]LB[ll:A]TR[lk]
+[ml]C[Defending against a cut at A is better, isn't it?
+
+alaric: I think it would be better to allow for the marked stones to be sacrified and form up a wall protecting as much territory as possible.]
+;W[lg];B[lf];W[ll];B[kg];W[kk];B[lh];W[mi];B[kn]C[alaric: the top looks larger, maybe K12 here.]
+;W[mm];B[pn]C[alaric: smallish, better to contain white.];W[qn]
+;B[dh]C[alaric: very small at this point.];W[ba];B[mb];W[ji]
+;B[kh]C[alaric: K12 protects the cut and blocks white.];W[ij]
+;B[os]C[alaric: J12 looks larger here.];W[or];B[ns];W[ps];B[pr]
+C[don't tell me it's the worst move in this situation :)
+
+alaric: as long as you remember that next time.];W[ms];B[qs]
+;W[nr];B[mr];W[ps];B[os];W[rr];B[ko];W[ig];B[if];W[hg];B[hf]
+;W[gg];B[ls];W[ns];B[ki];W[kj];B[gf];W[jm];B[jn];W[im];B[hm]
+;W[in];B[io];W[cr];B[br];W[dr];B[bp];W[bs];B[ar];W[ap];B[am]
+;W[al];B[ao]C[unnecessary, white can't kill the group by playing at A5]
+;W[rl];B[rk];W[sk];B[sj];W[sl];B[ri];W[ch];B[fg];W[hi];B[mn]
+;W[fo];B[gn];W[pb];B[fp];W[eo];B[fq];W[gr];B[jg];W[fr];B[hh]
+;W[ih];B[gh];W[gi];B[fh];W[ma];B[la];W[na];B[kb];W[ec];B[fb]
+;W[df];B[dg];W[cf];B[ef];W[hl];B[jh];W[ii];B[nm];W[gl]C[another reading error, separating this group doesn't help white because both groups are alive. I managed nevertheless to mess the situation up]
+;B[fk];W[ho];B[hk];W[il];B[ik];W[jk];B[lm];W[km];B[ml];W[ah]
+;B[no];W[po];B[oo];W[op];B[mm];W[da];B[ea];W[ad];B[as];W[cs]
+;B[sd];W[sc];B[se];W[pm];B[om];W[jj];B[ae];W[ag];B[tt];W[tt]
+TW[aa][ca][oa][pa][qa][ra][sa][ab][bb][cb][qb][rb][sb][ac][ai]
+[bi][aj][bj][cj][mj][ak][bk][ck][lk][cl][jl][kl][dm][gm][hm]
+[rm][sm][dn][fn][gn][hn][rn][sn][go][qo][ro][so][ep][fp][rp]
+[sp][eq][fq][oq][pq][qq][rq][sq][er][hr][pr][qr][sr][ds][es]
+[fs][gs][hs][is][os][ps][qs][rs][ss]TB[fa][ga][ha][ia][ja][ka]
+[gb][hb][ib][jb][lb][gc][hc][ic][jc][kc][lc][gd][hd][id][jd]
+[ld][md][nd][od][fe][ge][he][ie][je][ke][le][me][ne][oe][pe]
+[qe][ff][jf][kf][mf][nf][of][pf][rf][sf][eg][lg][ng][og][pg]
+[qg][rg][sg][ph][qh][rh][sh][ei][qi][si][qj][rj][an][ln][nn]
+[bo][jo][lo][mo][ap][kp][aq][bq]C[alaric: The error on the monkey jump and the snapback read were both larger than your margin of defeat, so you could have easily won this game.  I think your main main mistakes where:
+
+1) Your play along the left side.  When you are pinchered you should be glad, because you will get a chance to build territory while attacking the pincher stone.  You played for influence, which negated the benefits you had by a downward facing wall along the left side.  You then left a weak disconnected group alone until white attacked it.
+
+2) Once you decided to make this an influence game you needed to make sure you'd gain from it.  Your invasion on the bottom right  would have been a fine time to trade off bottom territory for center influence.  You also missed oppurtunities to cut white off from the center and secure a large center territory.
+
+You did play well along the bottom, outplaying white quite successfully, and in general played very solidly except for what I mentioned above.  I don't see anything that stands out as a weekness in your play.]
+)
+(;W[ip]))
+(;B[cl];W[dm];B[cq];W[bl];B[dr]))
+(;W[cn];B[cm];W[bn];B[bm];W[dm];B[en])
+(;W[em];B[en];W[fm]))
+(;AW[ei];B[fi];W[fj];B[fk];W[gj];B[eh];W[di])
+(;B[ei];W[di];B[gj]))
+(;B[dl];W[cl];B[dm];W[fl]))
+(;W[eb];B[dc];W[ec];B[bc];W[cb];B[be])
+(;W[fc];B[ec];W[dc];B[gc];W[eb];B[ge]))

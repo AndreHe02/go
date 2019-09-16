@@ -1,0 +1,134 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+PB[AndreyL]
+BR[2k]
+HA[0]
+PW[Ota2ke]
+WR[2k]
+KM[6.5]
+DT[2007-06-16]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[B+Resign]
+TM[900]
+OT[25/1200 Canadian]
+RU[Japanese]
+
+C[Hello Reviewer.  I am white and this is my round five game from the Fourth Iwamoto Tourney on KGS, and my first loss of the tournament.  The variations were all put in the game record by my opponent or his friend, quickly and with no comments - so make of them what you will or just ignore them.  I have added a few questions and comments on the game that might help you to help me.  Thanks, in advance, for taking time to review this game for me.
+
+crux: Hi, I'm Bernd Schmidt.  At 2dan I'm not strong enough to know correct play, but I hope I can give you some ideas what to think about.
+
+I've removed some of the variations and marked the ones I've added with "(*)".
+
+This game appears to have been lost due to shape problems, and one or two slow moves in the middlegame.  Early on, there was also a futile attack that cost you points in the end.  It's important to have a goal while attacking, as killing is usually not feasible.]
+;B[pd];W[dp];B[pq];W[dd];B[fq];W[po];B[qm];W[on];B[mq];W[qq]
+;B[qp];W[pp];B[qo];W[oq];B[pr];W[nq];B[qr];W[mp]C[crux: This joseki gave White thickness in exchange for corner territory.  White must try to make this thickness work for him somehow.]
+
+(;B[cn]
+(;W[eo];B[cq];W[dq]C[crux: I'm not sure I like this without having an extension in place already.  In my eyes, the lower side looks slightly too wide for White to keep.
+Tenuki is possible instead of this move.];B[cp];W[dm];B[dn]
+;W[en];B[em];W[cm];B[bm];W[bl];B[bn];W[ck]LB[dk:A]C[crux: This probably needs to be at A instead, to put more pressure on Black's cutting stone.  It doesn't matter if Black cuts off a single stone on the second line.]
+
+(;B[dr]TR[fq]C[crux: Black probably shouldn't weaken his stone on the side.  See variation.]
+;W[er];B[cr];W[eq];B[fm];W[go];B[fc];W[df];B[jd]SQ[bl][ck][cm]
+[dm]TR[em][fm]LB[dg:A][fr:B][ge:F][hc:G][hm:D][lc:H][lq:C][pl:E]
+C[crux: Let's try to look at the board and decide what's important.  This is the kind of position where I tend to get lost, but I'll try to evaluate it anyway.
+
+Black has two large corners, and a nice setup at the top.  White has two areas with potential; the left side and the bottom, but both have weaknesses.  My feeling is that the right side, while it is the largest open area, is relatively uninteresting for the moment.  Black has a low strong stone, and there doesn't appear to be a way for Black to turn the side into territory quickly.
+
+Black would like to find a way to use the triangled cutting stones which are floating.  An attack on the marked white stones doesn't appear out of the question, e.g. starting with an attachment at A.  On the left side, the corner invasion is also an option for Black at some point.
+
+Black could also think about finding a way to deal with the lower side to prevent it from becoming white territory.  There are a few resources such as the descent at B or the threat to pull out a stone at C, but they don't look attractive to play immediately.
+
+Trying to find a plan for White, I wonder if it's possible to enlarge/secure the bottom side moyo by attacking the marked cutting stones.  Maybe an attack at D would work.  If needed, there are potential moyo-enlarging moves such as a and F, but as they give Black more territory (if answered), I'd hesitate to play these now.
+
+To deal with the top side, it might be best to keep the invasion points G and H in reserve, rather than approaching the top right corner right away.]
+;W[qf];B[nd]
+(;W[rd]TR[qm]C[crux: I'm not sure I like this move.  White sets up a group on the right side, but that side seems uninteresting to me due to Black's strong stone below.  Maybe directly a corner invasion (variation)?]
+;B[qc];W[qi];B[fe];W[ec];B[eb]LB[fb:A]C[crux: Better at A, it leaves aji in the corner unless White adds a move.]
+;W[db]C[At this point white looks fine to me.  Your assessment?
+
+crux: Which side I'd like to take seems to vary every couple of moves, which probably means it's evenish.]
+
+(;B[ed];W[dc];B[de];W[ce];B[ee];W[fb];B[cf];W[cg];B[gb];W[ea]
+;B[gc];W[ek];B[bf];W[be];B[lq];W[lp];B[jq];W[kq];B[kr];W[kp]
+;B[mr];W[nr];B[ls]
+(;W[ir];B[iq];W[hr];B[jr];W[js]LB[io:A]C[crux: Again, how about A to invite Black to live small?  The game move looks like a stronger attack, but Black ends up with more points, and White gets separated.]
+;B[hp];W[gn];B[in];W[io]LB[gm:A]C[I come out badly in this attack and feel I should have been able to do better, but how?
+
+crux: What was the goal of the attack?  Trying to kill was unreasonable.]
+;B[ho];W[jo];B[hn];W[gm];B[gr];W[fr];B[gs];W[gq];B[hq];W[gp]
+;B[is];W[ld];B[lc]LB[ke:A][rc:B]C[crux: Unlikely to do more than help White make shape.  A stronger attack would be at A, or Black could just secure his group with profit at B.]
+;W[kc];B[kd];W[mc];B[le];W[md]C[It still seems about even - he spoils my bottom area and I spoil his top area.]
+;B[me];W[lb];B[nc];W[nb];B[ob];W[oa];B[jb];W[kb];B[mm];W[km]
+;B[kn];W[ln];B[lm];W[jn];B[kl];W[jm];B[jl]TR[kl][lm][mm]C[crux: As I see it, Black just gave you a target.]
+
+(;W[mn]LB[ol:A]C[crux: A passive way of defending this group.  Jumping out at A is one idea that comes to mind.]
+;B[dg];W[gj];B[fk]
+(;W[fl]LB[fj:A]C[crux: Strange.  Why not at A?];B[el];W[gl]
+;B[dk];W[ej];B[cl];W[dj];B[dl];W[ef];B[fi];W[fj];B[bg];W[eg]
+;B[dh];W[eh];B[ch]
+(;W[bi]C[crux: If you're going to abandon the four stones, then you shouldn't play the previous moves.]
+;B[ei];W[di]LB[gi:A]C[crux: Aji-keshi?  Bending at A is likely to be more useful in this position.]
+;B[fh]
+(;W[bk]C[crux: Unimportant.];B[pa];W[na];B[pc];W[jc];B[ic];W[gh]
+;B[fg]
+(;W[hg]C[The left side seems to have been very bad for white, so I could use some advice about that fight.  At this stage I think white has fallen behind a little.
+
+crux: This move looks a little awkward; it's a strange shape.]
+;B[ie];W[of]TR[jl][kl][lm][mm]LB[oi:A][qk:B][rn:C]C[crux: This is playing near strong stones.  You could consider A instead, which threatens Black's marked stones a little more and stays away from his strong ones.  B would threaten C.]
+;B[hk];W[gk];B[pg];W[qg];B[pf];W[ph];B[og];W[qk];B[qe]LB[rc:A]
+[re:B]C[crux: Bad.  If Black gets A, he'd prefer to have the option of B.]
+;W[re];B[oh];W[oi];B[ni];W[jg]C[crux: Unfortunately the shape doesn't work.]
+;B[gi]C[This seemed like the beginning of the end.  Black ended up with a large area around here, which I could not match.]
+;W[hj];B[hi];W[nj];B[mj];W[nk];B[mk];W[mi];B[nh];W[jj];B[ii]
+;W[ij];B[ji];W[ll]
+(;B[ml];W[lk]
+(;B[lj];W[kk];B[kj];W[jk];B[ol];W[pj];B[pm]LB[rl:A]C[crux: Dame point? A looks much bigger.]
+;W[rl];B[rm];W[rb];B[rc];W[sc];B[ae];W[bd];B[ad];W[ac];B[af]
+;W[bc]C[Even though I played on for another 50 moves before resigning I think the game is over for white.  If you agree then you might want to confine your time to looking at just the first 200 moves.
+
+crux: Agreed; this game is over.];B[im];W[il];B[sl];W[sk];B[sm]
+;W[nl];B[nm];W[om];B[pk];W[oj];B[nn];W[no];B[pn];W[oo];B[ki]
+;W[os];B[ms];W[ps];B[qs];W[bh];B[ha];W[ci];B[ff];W[hm];B[ka]
+;W[la];B[ja];W[fa];B[ga];W[do];B[qb];W[co];B[bo];W[sb];B[fn]
+;W[fo];B[ah];W[ra];B[qa];W[qd];B[pe];W[am];B[an];W[al];B[ai]
+;W[aj];B[ds];W[ag];B[ah];W[ql];B[pl];W[qj];B[rq])
+(;B[kj]C[(*)
+crux: Black even has a net.];W[li];B[lj];W[ki];B[kh]))
+(;B[lk];W[nm];B[ml]
+(;W[ki])
+(;W[li];B[kj];W[ki];B[lj];W[jk];B[kh])))
+(;W[ij]C[(*)
+crux: This looks like better shape, and starts to threaten Black's four weak stones.]
+
+(;B[hk];W[ik];B[hj];W[il];B[hi];W[gk];B[ii]
+(;W[ji];B[gi];W[jh])
+(;W[gi]))
+(;B[gi];W[hi];B[hk];W[hj];B[gk];W[il])))
+(;W[rc]C[(*)
+crux: Let's assume tenuki...];B[cj]C[crux: Black cannot capture.]
+;W[ci];B[bk];W[bh];B[cg];W[ag]))
+(;W[ei]C[(*)]
+(;B[cj];W[ci];B[bj];W[bi])
+(;B[bi])))
+(;W[fj]C[(*)];B[dl];W[cl];B[gl];W[hl]))
+(;W[dg];B[mn]
+(;W[lo];B[no];W[np];B[oo];W[im];B[op])
+(;W[ol]C[(*)])))
+(;W[io]C[(*)
+
+crux: How about connecting your stones and sealing Black in?  Black is going to have to live small in gote.]
+;B[ir];W[pl]))
+(;B[fb];W[fd];B[gd];W[ed];B[cc];W[cb];B[cd];W[ce]))
+(;W[qc]C[(*)];B[qd];W[rd];B[pc];W[rb];B[qb];W[rc]))
+(;B[dk]C[(*)];W[cj];B[el];W[cl];B[go]C[crux: This would be an aggressive way of playing.  White might start to feel a little uncomfortable.]
+)
+(;B[ip]C[(*)
+crux: Maybe it's enough just to set up a base on the lower side, so that all of White's thickness goes to waste.]
+))
+(;W[dn]C[(*)
+crux: Maybe this is an alternative.];B[dm];W[en];B[co];W[cp]
+;B[gp];W[eq];B[er];W[fp];B[fr];W[dr];B[fo];W[ep];B[hq]))
+(;B[iq]C[(*)
+crux: A move like this would go a long way towards nullifying White's strength.  This is beginning to look like a lost game.]
+))

@@ -1,0 +1,154 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+PB[yithril]
+BR[9k]
+PW[gladden]
+WR[8k]
+KM[0.5]
+DT[2005-05-16]
+PC[The Kiseido Go Server (KGS) at http://kgs.kiseido.com/]
+RE[W+21.50]
+TM[900]
+OT[3x30 byo-yomi]
+RU[Japanese]
+
+C[My comments are preceded by N:
+I focused on the black side and on your questions in the end and other things that came up to me while reviewing. Enjoy the review
+Nelis (Lambic on KGS)
+
+N:after a quick look, my first impression was that you didn't do so bad, especially before white made territory in the center you where ahead. Afterwards the position whas more ore less equal until the sequence in the upper right corner, where you should have accepeted a small los instead of making it worse. Surprisingly white refused to take advantage there but still gained about 25 points instead in the bottom left corner. 
+You lost by 21,5 points, so, roughly speaking the conclusion is that you lost the game because of that mistake.]
+;B[od];W[dp];B[pp];W[dc];B[de];W[ed]C[N: this is not joseki]
+
+(;B[ee];W[hc];B[cc];W[cb];B[cd];W[fd];B[ci]LB[bb:A][eb:B][hc:C]
+SQ[ed]C[N: now white is badly overconcentrated. Normally the white stone should be at 'a' or 'b' and 'c' would be further away]
+;W[np]C[N: this is a move that should be kept for special purposes. i.e. if white wants to finish a moyo and the normal kakari of o3 is not sufficient.]
+;B[pn]C[ok]
+(;W[kp]C[N: not joseki, now you can take the corner]
+(;B[cn]C[N: this is less urgent i think. The player who plays first in the
+bottom right is likely to end in sente so it is important to play there first, this comment is true for al the next moves to come.]
+;W[gp];B[bp];W[qd]
+(;B[qe]C[Y: I felt that r 17 would not be desireable in this circumstance because of H17, so I'm wondering if this is the correct move.
+
+N: this is a good way of reasoning. However i don't seem to find a move that is clearly better. It is an interesting idea to leave the position as it is and play in the bottom right corner.
+See variations.]
+(;W[pe]LB[ld:A]C[N: this move is unreasonable and can only be played if white has a reinforcement at or around 'A']
+;B[pd];W[qf];B[re];W[qc];B[rf];W[rg];B[pf];W[oe];B[qg];W[nd]
+;B[pb];W[pc];B[oc];W[nc];B[ob];W[ne];B[qb]C[N: this is a very good result for you.]
+;W[ie]LB[dl:B][ip:D][cq:A][nq:C]C[N: white can always take 'a' or 'b' so 'a' may be not that urgent. the biggest point is still 'c' for black. After that you can invade and split white with 'd']
+
+(;B[cq]C[Y: Is this too slow?  I know w's stones are all 4th line so there isn't much territory emphasis there but I don't want him to double back and take it.
+
+N: see the comment on the previous node.];W[ql]
+(;B[qj]C[N: this seems contradictory to 'play away from thickness'
+Your top is thickness but your bottom is higher and more floating, So it seems more logic to me to play from the other side. 
+This is also an answer to your question how to attack.];W[qq]
+;B[pq]C[N: Good direction];W[ol]
+(;B[nn]LB[no:A]C[Y: Is this correct shape?
+N: It doesn't feel right to me, but thats also becaus of the awkward position of O4 kakari. Playing at 'a' seems a better shape and gives you better opportunities to attack the white stones or weaken the bottom.]
+;W[oo];B[po];W[on];B[pm];W[om];B[pl];W[pr];B[or];W[qr];B[oq]
+;W[rn];B[ro];W[rp];B[so];W[qo]
+(;B[qn]LB[qp:A]C[N: Wrong side, it should be at 'a'];W[qp];B[rm]
+;W[sp];B[sn];W[sr];B[dl];W[ei]C[Y: I should come out in center instead of defending here?
+
+N: the variation shows an interesting idea, after wich you sacrifice a bit of the top to get center territory and thickness.
+However, at this  point defending is still ok and easier.]
+(;B[dg];W[el]LB[em:A][ip:B]C[N: now you see whites plan. I would play at 'a' to counter whites centerdreams, put pressure on the two reducing stones and keep an eye on an attack/invasion at 'b'
+After 'Wa' the game should be easy for you.]
+(;B[dk]C[N: this feels like defending to much];W[em]
+(;B[mb]C[N: this is very big but the wrong direction, by now you should be aware of whites centerplan, and that is the biggest side.]
+;W[nj]C[N: this is the right direction];B[gg];W[eg];B[dh];W[gh]
+;B[eh];W[gj];B[ng];W[mh];B[mg];W[ph];B[oi];W[ni];B[oh];W[pk]
+;B[qk];W[ld];B[er]LB[kc:B][fr:A]C[Y: which is biger, l 18 or here or?
+
+N: i think i prefer 'b' because it threatens the white stones more seriously. Playing at 'a' is also possible.]
+;W[lb];B[hh];W[fh];B[fg];W[hg];B[lh];W[bb]LB[lg:A]C[N: i think it was bigger for white to cut at 'a']
+
+(;B[bc]LB[kg:A]C[N: your move is about 7points in reverse sente. 'a' seems better: defending the cut and white can't protect his center efficiently. With 'Bb17' you follow your opponent to submissive.]
+;W[dn];B[co];W[lg];B[ek];W[fk]
+(;B[ep]C[N: see var];W[eo];B[fp];W[fo];B[gq];W[fq];B[eq];W[hq]
+;B[gr];W[hp];B[ok]LB[nb:A][lf:B]C[N: this move gains about 5 points in gote. Both 'a' and 'b' for example are bigger.]
+;W[nk];B[oj];W[lf];B[lq];W[lp];B[mq];W[mp];B[jq];W[kq];B[kr]
+;W[nq];B[nr];W[lr];B[mr];W[jr];B[ls];W[ir];B[hf];W[ig];B[gf]
+;W[dm];B[cm];W[do]
+(;B[mc];W[nb]C[Y: Please ignore this sequence I totally goofed :)
+N: sorry this is to much to ignore ;-)];B[na];W[lc];B[la];W[ka]
+;B[ma];W[oa]C[N: this move should warn you about whites plans]
+;B[pa];W[md]C[N: now you should realize the danger and play the variation.]
+
+(;B[oa];W[rb];B[rc];W[dq]C[N: strange move by white];B[rd];W[dr]
+;B[cr];W[es]
+(;B[ej]C[N: no further comment until the end];W[fj];B[ab];W[jb]
+;B[dd];W[eb];B[if];W[jg];B[jf];W[cs];B[bs];W[ds];B[br];W[of]
+;B[og];W[je];B[gd];W[fe];B[hd];W[gc];B[id];W[jd];B[ic];W[ib]
+;B[ff];W[kf];B[mf];W[jc];B[ef];W[fi];B[me];W[di];B[cj];W[nh]
+;B[ps];W[qs];B[os];W[le];B[ac];W[ba];B[js];W[is];B[ks];W[op]
+;B[dj];W[tt];B[tt]TW[ca][da][ea][fa][ga][ha][ia][ja][db][fb]
+[gb][hb][kb][ec][fc][kc][kd][ke][kg][hh][ih][jh][kh][lh][gi]
+[hi][ii][ji][ki][li][mi][hj][ij][jj][kj][lj][mj][gk][hk][ik]
+[jk][kk][lk][mk][fl][gl][hl][il][jl][kl][ll][ml][nl][fm][gm]
+[hm][im][jm][km][lm][mm][nm][en][fn][gn][hn][in][jn][kn][ln]
+[mn][nn][go][ho][io][jo][ko][lo][mo][no][ep][fp][ip][jp][eq]
+[gq][iq][jq][rq][sq][er][fr][gr][hr][rr][fs][gs][hs][rs][ss]
+TB[qa][ra][sa][rb][sb][pc][qc][sc][ad][bd][qd][sd][ae][be][ce]
+[se][af][bf][cf][df][qf][sf][ag][bg][cg][eg][pg][rg][sg][ah]
+[bh][ch][ph][qh][rh][sh][ai][bi][pi][qi][ri][si][aj][bj][pj]
+[rj][sj][ak][bk][ck][pk][rk][sk][al][bl][cl][ql][rl][sl][am]
+[bm][qm][sm][an][bn][rn][ao][bo][ap][aq][bq][ar][lr][as][ms]
+[ns]C[
+
+Y: Questions :  I felt I defended too much in this game and should've gone on the attack, how should I have done so?  Second question is how to break into center?
+
+N: 
+-There where only a few moments that i felt you defended to much: at move 73 and at move 101 where you could have countered whites centerplans. 
+-By playing to close to thickness on the right side you induced an attack on your corner, safer would have been from the side of your weak position and attack your opponent. A second point to aim at was 'k4' 
+-But also very important to retain is the unfinished position in the bottomright corner where both players refused to take the corner.]
+)
+(;B[kb]C[N: no comment needed.]))
+(;B[rc];W[oa]C[N: here at least you end in sente]))
+(;B[nb]C[Now the game is close.]))
+(;B[hq];W[gq];B[gr];W[hp];B[iq]))
+(;B[kg]C[N: take a moment time];W[ae];B[be];W[ad];B[af];W[bc]
+;B[bd];W[ac];B[bf]C[N: how does white def];W[kj];B[ji];W[jj]
+C[N: the incursion black made is worth more then seven points.]
+))
+(;B[fj];W[gk];B[gj];W[hk];B[nj];W[mk]
+(;B[fr];W[er];B[eq];W[fq];B[dr];W[gr];B[es]C[N: whites territory is now  more reduced.]
+)
+(;B[mb])))
+(;B[em]))
+(;B[gl]C[N: this looks like an interesting move, after wich you sacrifice a bit of the top to get center territory and thickness.]
+;W[ch];B[dh];W[di];B[cj];W[dg];B[eh];W[eg];B[fh];W[fg];B[cg]
+;W[cf];B[bh];W[bg];B[ch];W[df];B[bf];W[be];B[ag];W[ce];B[ae]
+;W[bd];B[ip];W[io];B[ho];W[hp];B[jo];W[iq];B[in];W[jq]C[N: black is ahead here.]
+)
+(;B[dh]C[N: because you are thick in the top playing here looks better.]
+))
+(;B[qp]C[N: white is dead]))
+(;B[no]
+(;W[mo]
+(;B[mn])
+(;B[nn]))
+(;W[mp];B[nm]LB[ip:A]SQ[cq][pq]C[N: probably the white group will escape but then you have time to play at 'a'. Since you played the both marked stones this move should have more power now.]
+)))
+(;B[rm]
+(;W[qm];B[qn];W[rl];B[nq];W[mq];B[oq];W[mr];B[rn];W[qi]C[N: now black can put pressure on the white group and after that play a big point.]
+)
+(;W[ol];B[nq];W[mq];B[oq];W[mr];B[nm])))
+(;B[nq];W[mq];B[oq];W[mr];B[ip]))
+(;W[re];B[pe];W[qf];B[rf];W[rg];B[rd];W[sf];B[qc]C[N: this is normal]
+;W[pf];B[of];W[og];B[nf];W[pq];B[qq];W[oq];B[qr]))
+(;B[nq];W[mq];B[oq];W[mr]
+(;B[cq])
+(;B[qj];W[oc];B[nc];W[pc];B[nd];W[qf];B[kc];W[cq];B[dl]LB[ql:B]
+[ip:A]TR[kc][qf]C[N: this looks like a possible sequence. The trianled stones where both played in a less interesting direction, so this is equal. The invasionpoints of 'a' and 'b' should be miai. Looking like this I think black has a clear advantage]
+))
+(;B[qc];W[rc];B[pc];W[re];B[lc];W[pg];B[nq];W[mq];B[oq]
+(;W[mr];B[qj])
+(;W[qj];B[mr])))
+(;B[nq];W[mq];B[oq];W[mr]
+(;B[qj])
+(;B[cn])))
+(;W[pq];B[qq];W[oq];B[qr];W[jq]C[N: this is a joseki, but note that this the same as a joseki starting form the 4-3 point but black one line higher. This makes me feel this is better for black unless white has a special reason for playing like this.]
+))
+(;B[cc]C[N: this was played by Kobayashi Koichi]))

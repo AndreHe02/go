@@ -1,0 +1,170 @@
+(;FF[4]GM[1]SZ[19]ST[0]CA[UTF-8]AP[SGFC:1.15]VW[]
+
+PB[akimatsu]
+BR[28k]
+HA[3]
+PW[imaginarie]
+WR[13k]
+KM[6.5]
+DT[2005-12-25]
+PC[The Kiseido Go Server (KGS) at http://kgs.kiseido.com/]
+RE[B+12.50]
+TM[3600]
+RU[Japanese]
+AN[Steve Carder 13k <steve@carderfamily.net>]
+
+AB[pd][dp][pp]C[imaginarie [13k\]: GTP Engine for imaginarie (white): GNU Go version 3.7.7
+
+SC: I will start all of my comments with my initials to make them easier to identify.]
+;W[dc];B[ce];W[ci];B[cc]LB[ee:A]SQ[eh]C[i was wondering whether I should go for (A) or C17
+
+SC: Just looking at the upper left corner, either move would be reasonable.  Looking at the whole board, I think that (A) is better.
+Black's handicap stones are on the 4th line.  This means that the handicap stones are to far into the center to control the corners well.  To help understand this, remember that white could make a 3x3 point invasion behind any of the handicap stones and live easily.  If the corners can be invaded and captured this easily, then the 4x4 point is obviously not good for controling the corner.  If it doesn't control the corner, what does a 4x4 point stone do?  The fancy term is "influence", which is hard to define clearly.  One way to explain it would be to say that the 4x4 point stones are best used to help pressure/attack white's stones and to help/support black's other stones.
+This finally gets us back to the move in question.  If black plays out towards the center, the handicap stones can help "influence" events in this corner.  If black is in danger, he can run towards one of the handicap stones.  Black can also try to drive white towards one of the handicap stones.  If black played at A then at the square, white's side stone would be driven towards the handicap stone in the lower left corner.  The likely outcome would be an alive white group with only a few points of territory on the left side and a large black wall facing the center.
+Another reason to pick move (A) would be to keep white seperated and black connected.  When you are receiving a moderate to large handicap, one goal should be to have as few seperate groups as possible. A much stronger white player should have an easy time killing small groups of black's stones.  If black keeps his stones connected into 2-3 groups each spread across a large area, white won't be able to kill anything.  At the end of this game, all of black's living stones are connected into 1 group, and black won.]
+;W[cb];B[bc];W[qn];B[qk];W[dn];B[cn]SQ[jp][fq][jd][jc][gc]C[SC: Black doesn't have play near white's stone to respond to it.  This is still the opening and there are still large areas of empty space.  On good "rule of thumb" in the opening is to find the largest gap between stones and play in it.  Black's stone at R9 is good because, in addition to pressuring white, it also plays in the large gap on the right side.  Black's stone at C6 also pressues white, but it does not fill in any of the two largest gaps between stones.  I think that all of the spaces marked with squares would be good choices for black to at least consider.]
+;W[cm];B[bn];W[nc];B[ld];W[ne];B[pf];W[on];B[mq]LB[ok:A][mp:B]
+TR[ld][pd][pf][pp][dp]SQ[cc][ce][cn][qk]C[i was considering (A) as well.
+
+Would (B) have been better?
+
+SC: Black has more stones on the right side than on the lower side, so playing on the lower side to strengthen it is better. Another way to look at it would be to say that black should play on the lower side to drive white towards his stronger stones on the right side.
+I think that black's actual move is better than B.  One reason for this is another "rule of thumb" for the opening.  Try to have about half of your opening stones on the 4th line and half on the 3rd line.  Stop and think very carefully before playing on any line other than the 3rd or 4th during the opening.  This move gives black 5 stones on the 4th line (triangles) and 5 stones on the 3rd line (squares).
+The second reason to choose N3 over N4 is to help secure the lower right corner.  If black plays at B, white can still easily invade at the 3x3 point.  With the current move, a 3x3 point invasion is much more difficult for white.]
+;W[rp];B[qq];W[rq];B[mn];W[jc];B[je]SQ[jc]C[SC: Good.  White's stone at K17 is only a weak attack on black. Black could easliy view white's move as creating a weak group for black to attack.  Black should not be panicked into running like a rabbit from such a weak attack.]
+;W[lb];B[jg]LB[gc:A]C[I was going to play at (A) which was white's next move but I decided that I had enouch for now so i went for more influence instead.
+
+SC: Playing at (A) would be a severe attack.  It would threaten both of white's weak groups at the top.  This would probably lead to a huge battle across the upper side.  Since black is receiving a handicap, white is presumably better at life and death battles.  So, black should only start a fight like this under two circumstances.  One is if black has a clearly stronger position (to make up for the assumed difference in playing skill). The other reason would be if black is losing and desperate.
+I personally would not play (A), but I tend to avoid fights when receiving a handicap.  Someone who likes to fight and has good fighting skills would probably decide differently than I.]
+;W[gc];B[ef];W[fq];B[eq];W[fp];B[eo]SQ[fq][fp]C[SC: Yes, seperating two weak white groups is good.  Splitting two weak groups essentially attacks both at once. Your opponent can only defend one group at a time, however.
+If we skip ahead to the end of the game, the two marked stones are the beginning of white's only dead group.]
+;W[gn];B[iq]SQ[mn]C[SC:  Good, this takes away White's potential eye space along the side.  If the marked stone was not present, then black should play this move on K3.]
+;W[ol];B[oj]TR[da][db][eb][fb][gb][hb][ib][jb][kb][ka][la][ma]
+[mb][nb][na][aj][bj][bk][sp][ro][rn][sn]SQ[qe][re][se][qj][rj]
+[sj][qi][qh][qg][qf][ps][pr][pq][oq][nq][mr][lr][kr][jr][js]
+[ao][bo][co][cp][cq][dq][dr][ds][ad][bd][be][ae]MA[pc][pi][cg]
+[in]C[SC: White's last move is not much of a threat to any of your goups and so this is a good time to pause and look over the whole board for the best move.  Before we can decide what the best move is, we have to decide how black is doing so far in the game.
+First, does black have any weak groups that are in danger?  If so, then this would be a good time to strengthen them.  The closest thing black has to a weak group is the four stones in the upper left corner.  If pressured, they could either expand along the left side to make eye space or run out to the two black stones around K14.  This means that they are not really in much danger at all. So, no weak groups that need strengthening.
+Second, what is the score at this point? I would count the areas outlined in squares as black territory.  I mean that all of the intersections marked with squares and all the intersections surrounded by the squares are points for black.  Similarly, the areas outlined in triangles are white territory. BTW, I would count 3 more points for white on the left side if white had a stone at B7.
+Counting up these areas shows black is winning by about 27 points.
+If you are winning, then look for conservative moves that help secure what you already have.
+If you are losing, then you have to be more aggressive and do something like try to kill a white group.
+The spots marked with X are all the sort of conservative moves I have in mind.  The two moves on the right side gain the most territory for black. Playing at C13 doesn't gain as much, but also helps strengthen the somewhat weak group.]
+;W[ep];B[dq];W[bm];B[do];W[hp];B[ip]C[SC: This is a nice, solid response]
+;W[qr];B[pr];W[ml];B[in];W[pb];B[qc];W[qb];B[rc];W[ng];B[ni]
+SQ[ph]C[should I have played more in the center instead of in the corner? Looking back at it i think I should have although the corner was pretty big too.
+
+SC: I think that securing the side territory is the best idea. Black is still ahead, so you still just need to secure what you already have.  Also, center territory is very hard to secure so you should never waste much effort trying to gain center territory unless there is nothing else useful for you to do.
+One reason black might want to play towards the center is to keep the upper right and lower right white groups apart.  They both probably have enough space to make eyes against the sides, however. Splitting two alive groups doesn't do any good.]
+;W[oh];B[qh];W[an]
+(;B[ao]TR[dn]SQ[bo]C[SC: No, this move is only good if the stone at D6 is black.  B5 is better.  See variation.]
+;W[bo];B[co];W[ap]SQ[bp]C[SC: White should play on the square.]
+;B[bp]
+(;W[dm]TR[ep][fp][fq][hp][gn]SQ[bm][cm][an][dn][bo][ap]CR[ci]
+C[this move...
+
+was he scared that i could cut the square group off ? could I have with the circled stone there? i have a feeling it will be hard for me to do it.
+
+SC: You are correct that the stone marked with a circle makes the other left side white stones much safer.
+I think that the white group marked with triangles is in the most danger.  This group has no eyes and no space to make eyes on the lower side.  The only way these stones can live is by connecting to the left side white group.  If Black cuts at D7 these stones have no hope of connecting.
+See variations.];B[aq];W[no];B[mo];W[op];B[oq];W[po];B[rr]TR[fo]
+[hq]SQ[cg][kn]MA[qm]C[SC: White is trying to make eyes for his lower right group.  Black's current move is useful only if Black wants to kill white. Black is still winning and this white group would be difficult to kill, so this is not the best move for black.  It is too small.
+The squares both expand black's territory more than the current move does.  The triangles both attack a white group that is still not secure. Even if you don't kill this white group, you should be able to build yourself up while white scambles to save it. In fact, I would not actually plan to kill the group.  Gaining territory while white works to save this group is much safer and black still comes out ahead.
+If you really want to harrass the lower right white group, then the X is better.]
+;W[sr];B[qs];W[qp];B[pq];W[kl];B[il];W[km];B[ko]TR[hp][gn][km]
+[kl]SQ[il][in]C[i was also considering to play this move somewhere in the center and ignore white's possible jump at where i've played.
+
+which one was better?
+
+SC: Your move is better than playing in the center. This move secures territory for black.
+I still think that white can make 2 eyes in the lower right corner. This means that black playing in the center would be seperating/cutting off a live white group, which doesn't accomplish anything.
+Also, a white stone at L5 gives white a chance to connect the two groups marked with triangles and cut off the marked black stones.  This would be very bad for Black.]
+;W[kj]
+(;B[hj]SQ[fo][hq][gm]C[SC: Black is still spending too much time harassing a live white group.  Go after the weakest white group.  The squares are all better for harassing white. I am using the word "harass" rather than attack because I want to emphasize that you don't have to attack and kill to gain territory.
+When you attack and begin a life and death battle, someone's stones are going to die.  When you are playing against a stronger white player, then, more often than you would like, it is your stones that die.
+By "harass" I mean threaten a group enough that your opponent will spend move after move just defending it.  Meanwhile, you can be building a large wall or starting to surround some actual territory.  See the variation.]
+;W[gl];B[ei];W[mp];B[lp];W[np];B[nq];W[ge];B[nn];W[oo];B[gg]
+;W[dj];B[ej];W[nm];B[kn];W[rl];B[rk];W[ql];B[ok];W[cg]C[this really hurt. I was going to play there next. lol.
+
+SC: Well, I first recommended Black play here 60 moves ago! LOEL (Laugh Out Even Louder, I just made that one up)]
+;B[bf];W[bg];B[bb];W[db];B[ed];W[fr];B[er];W[is]
+(;B[kr]C[SC: See variation for a better response.];W[sk];B[sj]
+;W[sl];B[rj];W[rb];B[dd];W[sc];B[sd];W[sb];B[rd];W[lg];B[li]
+SQ[jg][je][ld]C[SC: What does this move accomplish?  Black is still trying to seperate two live white groups. Black should instead make sure that the marked stones are connected to a live black group. They could still be cut off and killed if Black isn't careful.]
+;W[ke];B[kf];W[le];B[kd];W[jd];B[lf];W[me];B[ie];W[mf];B[fc]
+;W[fb];B[ec];W[eb];B[hd];W[hc];B[gd]SQ[ge]C[SC: Now Black has some center territory around the dead white stone.]
+;W[nk]C[SC: Black could ignore this move and play elsewhere.]
+;B[nj];W[mj];B[mi];W[lj];B[ki];W[jj];B[ji];W[pi];B[pj]SQ[qi]
+C[SC: The square is better.];W[qi];B[ri];W[lm];B[nd];W[od];B[md]
+;W[pc];B[pe];W[hq];B[ir];W[js];B[ks];W[ba];B[ab]TR[ij][gj][eg]
+SQ[ag][hr][ph][jr]MA[ic]C[I didn't really need to do that did i?
+
+SC: That is a move for very late in the end game, plus, it is Gote.  There are still several moves worth more on the board. The squares are all Sente, so you should start with them.  The triangles are all Gote, but each helps secure more center territory.
+The potentially biggest move for black, I think, is playing at the X. If white responds at J18, then don't bother saving the stone, just play elsewhere.  If white reponds at J16, then Black plays J18 and damages white severely.]
+;W[eg];B[fg];W[eh];B[fh];W[df];B[de];W[cf];B[be];W[di];B[dk]
+C[SC: This turns out to be a very big move for black. White doesn't respond well and ends up losing the lower side weak group.  See variation for a better white response.]
+
+(;W[fm];B[el];W[ck];B[em]C[SC: Now at least some of the white stones will die.]
+;W[en];B[fo];W[fn];B[go]SQ[ep][fp][fq][fr][hp][hq][is][js]C[SC: And white is dead.]
+;W[gj];B[gi];W[fj];B[fi];W[af];B[ae];W[ag];B[gr]C[SC: Don't waste stones on a dead group.  If you are not sure it is dead, then playing here is OK.]
+;W[dl];B[ek];W[hk];B[ij];W[hm];B[im];W[oe];B[of];W[kg];B[jf]
+;W[ln];B[lo];W[hn];B[ho];W[id];B[he];W[kh];B[jh];W[jm];B[jl]
+;W[jn];B[jo];W[jk];B[ao];W[am];B[aa];W[ca];B[pl];W[pm];B[pk]
+;W[mm];B[ik]SQ[ph]C[SC: This does not change the score any.  Q12 is better.]
+;W[ph];B[pg];W[gk];B[qg];W[mg];B[nh];W[og];B[rs];W[sq];B[fl]
+;W[hl];B[tt];W[oc];B[tt];W[oi]C[SC: White apparently likes to fill in all of the Dame points. You only need to do this with Chinese scoring, not Japanese.]
+;B[tt];W[qj];B[mh];W[ss];B[tt];W[nf];B[tt];W[fk];B[tt];W[lh]
+;B[tt];W[tt]TB[ac][ad][bd][cd][fd][qd][ee][fe][ge][qe][re][se]
+[ff][gf][hf][if][qf][rf][sf][hg][ig][rg][sg][gh][hh][ih][rh]
+[sh][hi][ii][si][bo][io][ap][cp][ep][fp][gp][hp][jp][kp][bq]
+[cq][fq][gq][hq][jq][kq][lq][ar][br][cr][dr][fr][hr][jr][lr]
+[mr][nr][or][qr][as][bs][cs][ds][es][fs][gs][hs][is][js][ls]
+[ms][ns][os][ps]TW[da][ea][fa][ga][ha][ia][ja][ka][la][ma][na]
+[oa][pa][qa][ra][sa][gb][hb][ib][jb][kb][mb][nb][ob][ic][kc]
+[lc][mc][kd][ld][md][nd][dg][ah][bh][ch][dh][ai][bi][aj][bj]
+[cj][ak][bk][kk][lk][mk][al][bl][cl][ll][nl][gm][om][qm][rm]
+[sm][pn][rn][sn][qo][ro][so][sp]C[over all, i thought the computer played some weird moves. Like playing half end-gave moves in between its moves.
+
+any advice on what I could have done better is welcome. Especially on which i should have chosen: territory or influence.
+
+Thanks for your help,
+
+Akimatsu
+
+SC: I hope that my comments have been helpful.])
+(;W[el]C[SC: This move helps connect white's groups, but it also threatens to cut black, forcing black to spend a move connecting.]
+;B[ek];W[ck];B[dl];W[en]TR[eo]SQ[em]C[SC: White loses a few points on the left side by not blocking at C8, but saves the lower side group which is worth a lot more. The move keeps black from cutting at the square and then connecting to E5.]
+;B[cl];W[bl];B[bk]C[SC: Black shouldn't really do this, I just wanted to show that the cut doesn't work]
+;W[cj];B[fo];W[go];B[fn];W[fm]C[SC: White saves the lower side weak group.]
+))
+(;B[hs]C[SC: This stone is a sacrifice.];W[hr];B[ir];W[gs];B[js]
+;W[hs];B[jr]))
+(;B[fo]C[SC: what follows is a very long variation trying to show what I mean by "harass"]
+;W[go];B[fm];W[fn];B[en];W[gm];B[fl];W[hq]C[SC: White tries to make some eye space on the side.]
+;B[ir]C[SC: White has to respond to this move, but then black doesn't have to connect in gote.  If black played this move at H2, the next black stone would have to be at J2 to connect.]
+;W[hr];B[er];W[fr]C[SC: Again, black drops straight down and keeps Sente]
+;B[gs];W[hs];B[fs];W[gr];B[es];W[ho]C[SC: white now has 1 eye.  Black will eventually have to deal with the gap at J1, but that is an endgame move.]
+;B[io];W[im];B[jm];W[hm];B[jl];W[gl]TR[ef]SQ[fm][fl]C[SC: As long as these two stones can either connect or run out to the marked stone, they are not in danger.]
+;B[fk];W[hk];B[jk];W[ij];B[jj];W[ji]C[SC: White is sort of connected but has a lot of cutting points to deal with.]
+;B[jn]SQ[il][jm][jl][jk][jj]C[SC: White could only cut here if the marked black stones were down to 2 Liberties.  I am connecting now so I won't have to worry about tracking the Liberties.  I am also playing a Gote move so that White can fix a cutting point.  I don't want white's group in enough danger that white gives up on it.  I am "wiggling" the bait to make it look more tempting.]
+;W[ii];B[ck]SQ[fm][fl][fk]C[SC: This is an aggressive invasion.  Playing at D9 would be a less aggressive reducing move. The marked stones make the invasion possible.]
+;W[dk];B[dl]C[SC: I want to play on D10.  I am playing here first and sacrificing a stone so that playing D10 next turn will be Atari on white.]
+;W[cl];B[dj];W[el];B[cj]C[SC: I would not have been able to make this connecting move without using the sacrifice.]
+;W[ej];B[di];W[em]SQ[fm][fl][fk]C[SC: Now white is attacking]
+;B[ek];W[dl];B[fj];W[ei];B[fi];W[eh];B[fh];W[dh];B[ch];W[bi]
+;B[dg];W[bj];B[eg];W[bk];B[bh]C[SC: Now white has to make 2 eyes against the left side.]
+;W[al];B[ai];W[aj]SQ[dd]C[SC: In a real game, I would take Sente and play D16 now.  In this example I went ahead and played out the end game moves for clarity.]
+;B[ah];W[am];B[ao]C[SC: White still has cutting points, however.]
+;W[ki];B[hf];W[kk]SQ[dd]C[SC: White has managed to connect the lower side group and make it live. That group only surrounds 2 points of territory, however. White's left side group is a huge clump of stones that surrounds another 2 points of territory.  So, white has spent over 30 moves making 4 points of territory.  Meanwhile, black has Sente to play at the square and has gained a lot more than 4 points of territory.
+So, black has gained a lot without actually killing anything.]
+))
+(;W[ao]C[SC: we will have white play here so we can study black cutting at D7.]
+;B[dm]C[SC: Black cuts.  There are two variations for white starting next move.]
+
+(;W[en];B[dl];W[cl];B[dk];W[ck];B[dj];W[cj];B[eh]SQ[dn][en]
+[gn][fp][ep][fq][hp]C[SC: The left side white group is secure now, but the marked white stones have no eyes and no where to run.]
+)
+(;W[dl];B[em];W[dk]C[SC: This makes good shape for white's side group.]
+;B[hq]SQ[dn][ep][fp][fq][hp][gn]C[SC: The left side white group is secure but the marked stones have no eyes and no where to run.]
+)))
+(;B[bo];W[ao];B[ap];W[bp];B[am]))

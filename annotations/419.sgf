@@ -1,0 +1,270 @@
+(;FF[4]GM[1]SZ[19]AP[SGFC:1.13b]
+
+PB[dhi]
+BR[5k]
+PW[ddt47]
+WR[4k]
+KM[0.5]
+DT[2001-01-27]
+PC[The Kiseido Go Server (KGS) at http://kgs.kiseido.com/]
+TM[900]
+
+C[Hi,
+
+The GTL asked me to do this review, and I'm happy to do so, but I strongly advise you to ask for a second opinion, since the difference in strength between you and me is not too big. But since I have been able to take some time too review your game, you may find interest in my comments.
+
+With hindsight, I recommend you to work the following subjects:
+
+1. Shape: at several occasions, your position suffers from bad shape. There is a very good lecture on shape by Bruce Wilcox, but I don't know whether it is available on the net. A great book where 'shape' (or 'good style') is addressed, is "Suji and anti-suji of Go" by Eio Sakata.
+
+2. Positional judgment: in each game, there are moments to continue a local exchange, and moments to sit back and make a positional judgment. Professionals do it at every move, but we amateurs can do a good job in regularly evaluating the score at the right moment. A great book on this topic is "Positional judgment: a high-speed game analysis" by Cho Chi Kun.
+
+Positional judgment is:  - counting territory
+- evaluating thickness
+- exploring both sides' areas of development
+
+The result of positional judgment serves to determine one's strategy and next move.
+
+3. Fighting: You play quite agressively, and are not afraid. That is good: it will enable you to learn from your mistakes, and fighting spirit is needed when heading for Dan level. Your fighting spirit however, distracts your attention from the whole-board position, and tends to restrict it to the local fight. You should sit back more often and make a positional judgment. If you feel you should not release the pressure on a group, in order to maintain overall advantage, then that's just fine.
+
+
+4. Ko: You are also not afraid of ko. That's also a very good sign. A proverb goes "The strong player seeks ko, the weak player fears it". But the words "strong" and "weak" in this proverb  not only refer to playing skill, but also to how thick one's position is on the board. In other words, when you have a position with few weaknesses, you can play variations where ko is implied. Or you can decide to go for the more ambitious move of the two, being a ko.
+When you have more weaknesses than your opponent, however, you should rather avoid ko.
+
+These four subjects will be emphasized throughout my comments.
+
+Good luck with your Go,
+
+Dieter];B[pd]C[Some syntax:
+
+B(lack)
+W(hite)
+
+T(op side)
+B(ottom side)
+L(eft side)
+R(ight side)
+
+BL: bottom left
+(...)
+
+var: variation
+
+To see a variation for move N, you should step back to move N-1 where the variation tree starts:]
+;W[dp];B[pq];W[dd];B[pk];W[nc];B[pf];W[pb];B[qc];W[kc];B[jp]
+C[no comments so far
+
+You are building a grand position, while white remains low but stable at the top]
+;W[qo]C[W invades deeply];B[qp]C[good];W[po];B[np]C[good];W[qm]
+;B[rl]LB[ql:a][rm:b]C[You implicitly accept this stone to be cut off in the endgame, once white's group is alive. I would myself play kosumitsuke at 'a' instead, but this is more a matter of preference.
+
+Also, white 'b' is now sente, whereas with kosumitsuke, the descent to 'b' is not.
+
+In short: B17 is more a territorial move, and the play at 'a' is more a positive, attacking move]
+;W[nn];B[nk]C[this is good: black is developing exactly how he should do when white invades deeply]
+;W[rp];B[rq];W[rn];B[sp];W[so];B[ro]C[This ko is unimportant for you. See my comments from 27.]
+;W[ln]
+(;B[sn]LB[lp:a]C[In my opinion, this is a big mistake, or at least I can criticize this move:
+
+When white jumps to 26, he has already escaped into the center. The influence of this stone is greatly reduced by 11 and 19, on one condition: that Black plays 27 at 'a'.
+
+B27 at 'a' accomplishes three things
+
+- preserves the connection 11-15
+- makes territory along the 4th line (actually not yet real territory but a stronghold very close to territory)
+- makes the 26 stone nothing but an 'escaper' which will turn out to be on a dame.
+
+When  Black is invited by 26 to play 27 at 'a', he should not hesitate.
+
+The played B27 on the other hand, accomplishes:
+
+- a connection along the first line of two groups who are already very strong; such a connection is nearly worthless
+
+- eye-stealing where there were no eyes. Even if W wins the ko, he has at most one eye at the side, and even so, living small is exactly what Black should concede to white, if in return he can play moves like 'a'
+
+Please compare with the variation given]
+(;W[sm]LB[lp:a][cj:b]C[You can already guess that W28 deserves almost as much scrutiny as B27. W28 validates B27. It prevents the connection underneath, which I already showed to be unimportant
+
+White has two options:
+
+- invade at 'a' : var2
+- play tenuki (b) : var3
+
+In either case, since B has failed to preserve the important connection between 11 and 15, white's group has become less vulnerable, so he has more options to choose from]
+
+(;B[rm]LB[lp:a][dj:b]C[B29 reduces liberties: B17 had 4 liberties, with B29 added, it only has 3. Soon B will realize the burden of this. In  other words: this is a heavy move, making the connection underneath an absolute must.
+
+Black should play like in the variation, occupying the urgent point of 'a' and the large point at 'b']
+;W[so];B[rp]LB[oq:a][ql:b][md:c]C[Once again, a very heavy move.   Black is now clearly in korigatachi.  The aji at 'a' still hasn't been resolved completely and White now threatens 'b'.   Once 29 is played, Black should play a ko threat at 'c', capture 30 and 28. Although B would suffer the pain of having to connect at the first line, it would at least be consistent with 27 and 29.]
+;W[ql]C[From 32 on, the sequence is almost unavoidable. However, you can consider giving up the two stones 17 and 19, and grab sente (see var)]
+
+(;B[rk];W[qk];B[qj]C[Yes, whatever comes, you must block];W[pj]
+;B[qi];W[ok];B[oj];W[pl];B[pi];W[nj];B[pk]C[good: this is kikashi (white must answer)]
+;W[ol];B[ni]LB[mk:a]C[This is the wrong direction. You should play at 'a', cutting off the stone at 42. Now you cut off your own stone at 19.]
+;W[mj]LB[sn:a][mi:b][lp:c][cj:d]C[Let's make a positional judgement after W 46.
+
+Black's moyo has produced about 12 points on the lower side and about 16 on the left side, to which we can add another 4 due to the connection at 'a' in ko.
+
+White has a live group, with about 8 points inside and considerable influence to the center. Moreover, he can choose between turning at 'b' (a VERY thick move, almost imperative)  the invasion at 'c', and the large point at 'd'.   The net advantage of 24 points in this area for Black cannot compete with the overall positional advantage for white. White is ahead.]
+;B[fq]LB[lp:a][mi:b][lj:c][cj:d]C[Since the invasion at 'a' is still possible, there is not much territory at the bottom. I would play 'b'  - white 'c' - black 'd' instead. The large area is the left side, so after the urgent point 'b', it would show good strategic thinking to play there.]
+;W[cn];B[dr];W[cq]LB[mi:a][ck:b]C[While the answer at 48 is defendable, W50 is slow and territory oriented. White should play the thick move at 'a', leaving 'b' and 50 as miai points.]
+;B[fo]LB[lp:a][mi:b]C[Given the position of 26 and the gap at 'a' , this move is not very effective in taking territory, but as a countermeasure against the white moves at 'a' or 'b', it is not a bad point.  I think that even playing 'a' rightaway is better then 51.
+
+Anyway "ikken-tobi is never wrong", goes the saying.];W[cr]
+LB[mi:a][dj:b]C[Again, slow and territory-oriented. White should not start to compete with Black in territory. This way, B will catch up easily. I won't continue to come back to the big points, 'a' and 'b' (the exact spot of 'b' varies in time).]
+;B[ci]C[Absolutely. Black is back in the game.];W[ck];B[cf]
+;W[ce];B[df];W[fd]C[Positional judgment:
+
+W:
+
+L: 14
+R: 8
+TL: a stronghold of 26 = 13 (count half)
+TR: 6
+komi: 5,5
+
+Total: 46,5
+
+B:
+
+BR:  12
+B: stronghold of 20 = 10
+R: 18
+L: 5 (a small strong group)
+
+Total: 45
+
+Black has sente, so he is slightly ahead];B[ei]LB[mi:a][lp:b]
+C[Thick, but  slow. 'a' is still a thick move. 'b' would maintain the territorial balance.]
+;W[lq]C[This hurts];B[lp];W[mq];B[mp];W[jr]
+(;B[kq]LB[ir:a]C[B65 makes bad shape. You should have played at 'a' instead (see var2)]
+;W[kr];B[iq];W[jq];B[ir];W[kp];B[ko];W[or];B[pr];W[oq];B[op]
+
+(;W[nq]LB[mr:a]C[You can consider the agressive 'a' instead of connecting, but the ko is troublesome]
+
+(;B[pp];W[mr]LB[jo:a]C[Either you play 'a', but it is gote now (compared to one of the previous variations) or you don't and, leaving 'a' as a  defect. Black is falling far behind.]
+;B[ic];W[gc];B[cc]LB[ie:a]C[This is not very logical. When W defends his corner territory with 80 , you should jump out with 'a'. B81 would have made more sense if the upper side was left open.]
+;W[cd]LB[be:a]C[I'd definitely play 'a'];B[db];W[ec];B[bd];W[bb]
+;B[be];W[bc];B[cb];W[ba]C[due to the slack move at 82, Black gets away with his invasion.
+
+Positional judgment:
+
+Black:
+
+R: 20
+BR: 6
+B: 5
+L: 7
+
+Total: 38
+
+Black's influence of the stones 51 and 59 is a little bit outdone by the defect at 11.
+
+White:
+
+L: 12
+TL: 14
+TR: 5
+C: 8
+B: 4
+komi: 5,5
+
+Total: 48,5
+
+White is about 10 points ahead but Black is slightly thicker.]
+;B[ac]C[aji-keshi];W[eb];B[ie];W[ke];B[mi];W[lj];B[li];W[kj]
+;B[kn];W[bg]C[This is a  very sharp move by white ...];B[bf]
+;W[bi];B[bj];W[ch]LB[cj:a]C[... but this doesn't work: black connects at 'a' (see var)
+White should himself play at 'a' first.]
+(;B[ai]C[This is not so good];W[di];B[bh];W[cj]C[Now black should connect]
+
+(;B[dh]C[This is very careless play. If you lose the ko, about the whole top left quarter of the board is threatened. The only ko-threats, that would be big enough, are the ones against the white dragon in the center right. But do you have any ?]
+;W[bi];B[lm];W[ah];B[ml];W[mm];B[kl];W[nl];B[mk];W[om]C[Now that your ko-threat turns out not to be one, you 're falling behind. White can easily  afford to give up the four stones in the center, who have no function anymore (once, they werestones that helped a large group escape. That group has now two eyes, and thos 4 stones are cut. If they were genuine cutting stones, they would still be important, but they cut strong black groups.
+
+White can sacrifice those stones and attack black's weak stones at the top instead.]
+;B[jk]C[This is bad shape, as the future will show. But let's have a look first at white's attack.L]
+
+(;W[jj];B[hk]LB[kk:a]C[Black 119 should have been at 'a' Now white has a frightening combination.]
+;W[ll];B[lk];W[kk];B[ll];W[jl];B[km];W[ik];B[im];W[hj]C[The game is becoming difficult. Black is in trouble at the top left and behind in territory.]
+;B[no]C[These are futile attempts to kill a live group. I understand, you were probably desperate about your game.]
+;W[oo];B[pn];W[qn];B[gk]C[Good. White's group is still not safe, although the fighting should be in his favour.]
+;W[gf];B[gh]LB[eh:a]C[better play the simple connection at 'a']
+;W[eh];B[eg];W[dg];B[fh];W[ef];B[dh];W[cg];B[ig];W[gj];B[fj]
+;W[hl];B[il];W[hm];B[in];W[fk];B[gl];W[ej];B[fi];W[fl];B[gm]
+;W[fm];B[hn];W[jh];B[kg];W[hg];B[ih];W[hh];B[hi]LB[ii:a]C[white can't play 'a' now]
+
+(;W[ij]LB[ii:a]C[what's wrong with the connection at 'a' ?]
+
+(;B[ff];W[ge]LB[ii:a];B[ee]C[no ! connect at 'a', that would have been your last chance]
+;W[ii];B[gi];W[jg];B[if];W[jf]C[game over];B[ki];W[ji];B[ed]
+;W[dc];B[hf];W[gg];B[hd];W[gd];B[gb];W[fb];B[hb];W[jb];B[kd]
+;W[ld];B[le];W[jd];B[je];W[kf];B[dl];W[ek];B[do];W[co];B[dn]
+;W[cl];B[cm];W[bm];B[dm];W[qb];B[dk];W[dj];B[mn];W[mo];B[lo]
+;W[mn];B[sn];W[rc];B[rd];W[rb];B[lg];W[sd];B[re];W[se];B[sf]
+;W[sc];B[ep];W[dq];B[er];W[me])
+(;B[ii];W[kh];B[ff];W[ge];B[ki];W[ji];B[lh]C[white loses this one]
+;W[jf]C[so he'll probably play this way];B[jg];W[if];B[ee]))
+(;W[ii];B[gi];W[ij];B[ff];W[ge];B[ki];W[ji];B[jg]))
+(;W[ff];B[eh]LB[gh:a][gi:b][gj:c]C[I'm not strong enough to properly decide between a,b or c, but they will work into white's favour.]
+;W[gh];B[ek];W[ki];B[kh];W[jh];B[kg];W[jg];B[ji];W[ii];B[jj]
+;W[kf]C[Black has to connect.
+
+The white attack has yielded a lot of territory at the top. Komi included, white has about 80 points before the endgame starts. Black has not even 70. Given sente, and the group at the top left which is still weak, white should be able to raise his advantage over 20 points.
+
+I'll platy out the endgame to show.];B[mg];W[qb];B[rb];W[pc]
+;B[qd];W[en];B[fn];W[em];B[fm];W[el];B[fl];W[dk];B[ej];W[gj]
+;B[gk];W[hj];B[hk];W[er];B[eq];W[dq];B[fr];W[ds];B[md];W[mc]
+;B[ld];W[kd];B[nd];W[ps];B[qs];W[os];B[qr];W[ef];B[cg];W[ra]
+;B[sb];W[sn];B[sl];W[qn];B[rj];W[is];B[hs];W[js];B[gs];W[pj]
+;B[oi];W[od];B[oe];W[oc];B[lf];W[le];B[me];W[lc];B[eo];W[do]
+;B[fg];W[gg];B[ij];W[hi];B[ab];W[da];B[ad];W[ca];B[eg];W[af]
+;B[de];W[ee];B[dj];W[ci];B[ep];W[es];B[fs];W[fj];B[fk];W[fi]
+;B[oo];W[on];B[mo];W[mn];B[kq];W[pk];B[kp];W[qa];B[aa];W[ea]
+;B[rc];W[sa];B[dg];W[ag];B[ae];W[aj]))
+(;B[bi];W[dh];B[cg];W[eh];B[bk]C[This is certainly more acceptable than the game.]
+))
+(;B[cj]
+(;W[eh];B[dh];W[dg];B[di];W[cg];B[eg];W[ef];B[fg];W[ah];B[af]
+;W[ag];B[aj];W[de];B[ai];W[ad]C[white is one move down])
+(;W[dh]C[this is a more difficult variation];B[eh];W[di];B[dj]
+;W[ej];B[dk];W[eg];B[dg]C[there is no ladder];W[fg];B[gh];W[gi]
+;B[fh];W[gg];B[hh];W[hg];B[ig];W[ih];B[hi];W[if];B[jg];W[jf]
+)))
+(;B[mr];W[lo];B[pp];W[jo];B[kq]))
+(;W[pp]C[the cut doesn't work];B[os];W[mr];B[ls];W[qr];B[rr]
+;W[ns];B[nq];W[ps];B[qq];W[qs];B[rs];W[os];B[nr];W[ms];B[kq]
+;W[lr];B[js]))
+(;B[ir]LB[iq:a][jq:b]C[white can either choose 'a' or 'b']
+(;W[iq]C[if a  white hane];B[jq];W[hr];B[kr];W[is];B[kq];W[ho]
+;B[fm]C[Both groups run out, but it is black who benefits, because he can connect 73 with 59. White is too thin on the left side to effectively split the black groups. Besides, he has to take care of his bottom group himself.   Black's bottom territory is not small, despite being overconcentrated.]
+)
+(;W[jq]C[if white extends];B[iq];W[kp];B[ko];W[kq];B[jo];W[or]
+;B[pr];W[oq];B[op];W[lo];B[pp];W[nq]LB[os:a][hd:b]C[To figure out whether W lives is a very tough L&D problem. If I had white, I would surely have played this way. As far as I can calculate the variations, white is alive. Black plays 'a' in sente.
+
+Black's territory on the bottom side is a good 10 points, but his shape is MUCH better than in the game, and his thickness is considerable. He can now invade at 'b' and level the score.]
+)))
+(;B[qk];W[rk];B[rj];W[sl];B[cj]LB[lp:a]C[of course, white does well too this way, and the gap at 'a' is there. but at least your shape isn't ruined]
+))
+(;B[lp];W[so];B[cj];W[rp];B[sq]LB[rm:a][pp:b]C[If white now plays 'a', he has an eye in ko. Of course, there is the aji of 'b', but all these moves by white don't outweigh the several free moves black has got. Let's play the aji out.]
+;W[pp];B[qq];W[oq];B[op];W[or];B[nq];W[pr];B[qr];W[nr];B[mr]
+;W[qs];B[rs]LB[sr:a]C[white has no time to play 'a'];W[os]C[if he tries for ko]
+;B[sr]C[... B lives]))
+(;W[lp]C[this might be an overplay];B[mo];W[oq];B[op];W[pp]
+
+(;B[or]C[this is a mistake];W[lo];B[mn];W[mm];B[nm];W[mp];B[no]
+
+(;W[nq];B[on];W[pr];B[qq];W[nr]C[the sacrifice is quite large]
+)
+(;W[on];B[nq];W[nl];B[ml];W[om];B[lm];W[ll];B[km];W[mk];B[jn]
+;W[nj]C[this result is probably even]))
+(;B[nq]C[this is better];W[or];B[pr];W[lo];B[mn];W[mm];B[nm]
+;W[no];B[mp];W[nr];B[mr];W[oo];B[mq];W[lr];B[ns];W[lq];B[os]
+;W[nl];B[om];W[ol]C[W sacrifices one more];B[ml];W[lm];B[pl]
+;W[ll];B[mk];W[dj]C[White's moyo is impressive, but conceding almost 50 points is probably too much.]
+))
+(;W[dj]C[this is probably better than var2: white keeps his options of invading the bottom open, and the exchange of 27 for 28 is definitely in White's favour.]
+))
+(;B[lp];W[rp];B[sq]LB[ml:a][ll:b][km:c][pp:d][qq:e][oq:f]C[White is more or less forced to add another stone at a,b, or c, at which point B would turn to the large points at the left side. If white plays there first, a black move at 'b' would really be desastrous for white.
+
+It is true that there remains some aji with Wd Be Wf, but this aji is outdone by the reinforcement at B27 and the ko left.]
+))

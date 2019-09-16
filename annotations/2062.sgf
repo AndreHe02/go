@@ -1,0 +1,117 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+PB[cloud122]
+BR[7k]
+PW[silverhow]
+WR[7k]
+KM[6.5]
+DT[2003-11-26]
+PC[The Kiseido Go Server (KGS) at http://kgs.kiseido.com/]
+RE[B+0.50]
+TM[600]
+OT[10x30 byo-yomi]
+RU[Japanese]
+
+C[opening ideas and fuseki comments will help
+
+
+
+Thanks for the review];B[pd];W[dp];B[pp];W[dd]LB[pc:1][qd:2]
+[cf:A][cn:B][qp:3][pq:4]C[these are standard openings, sometimes you should have some strategies like developing the sides first with a 3-4 opening like 1,2,3,4.  Black should have went offense since black has the advantage of first move.  Q10 is a protective move.  A and B serves to disconnect the white two stones.]
+
+(;B[pj];W[nq];B[lq]LB[mo:B][no:A]C[Best move would be A allowing white to escape  and this threatens Q4.  B is indirectly affecting M3.]
+
+(;W[qq];B[qp];W[pq];B[op];W[nr];B[mo]C[this move helps keep White trapped in the corner and fortifies M3]
+;W[nc];B[fc]LB[hb:E][hc:D][ic:A][hd:C][id:B]C[Best move at A, B, C,D since it helps defend O17 and attacks F17.  D16 alone can build a group in the corner.  D would probably be the best since it discourages F17 from building a group with E]
+
+(;W[df];B[jc];W[lc];B[db];W[pb];B[pf];W[qc];B[cc];W[cd];B[kb]
+LB[hb:E][hc:A][hd:F][qd:C][re:D][dk:G][fq:B][gq:H][iq:I]SQ[pb]
+[lc][nc][qc]C[C would be extraneous since C is rather safe.  D would be a bolder attack.  Black would definitely respond to D.  A would either lead to a move in E or F.  A is a bad move.  B seems to be a good move but a bolder move at H would lead to a respond at I and this can be followed up with G]
+
+(;W[cj];B[ob];W[oc];B[mb];W[nb];B[mc];W[md];B[lb]LB[ne:A]C[White's move at A actually secured upper right hand corner group.  If white went somewhere else, that group would be cut off]
+
+(;W[ne];B[cm];W[cn];B[fq]LB[fp:A][hp:C][eq:B]C[white should have done something with F3 with A, B or C]
+
+(;W[dm];B[fo]C[Like I said before this keeps you from the lower center region and White doesn't have to overreact to C7]
+;W[dl];B[ng];W[nj]LB[oi:A][om:C][pm:B]C[Black doesn't have to be afraid of White jumping at B since a simple move at C would cover that.]
+;B[ok];W[oi]LB[ph:A][pi:B]C[Black moved at A which forms a rather weak connection.  B would have done the job]
+
+(;B[ph];W[lj];B[dh];W[ch];B[cg];W[dg];B[ci];W[bh];B[di];W[bi]
+;B[dj];W[dk];B[gi];W[ki];B[lg];W[gf]
+(;B[ig]LB[hh:A]C[A would have been a better move since White can pull back easily.  This costed Black part of the center.  If Black played at A Black would have crushed White easily.  This is the vital mistake.]
+;W[hh];B[hi];W[ih];B[fg];W[ff]LB[hg:A][gh:B]SQ[dh][ci][di][gi]
+[hi][dj]C[You went at A which is rather useless and costed you the group marked in the squaresB would have been better]
+
+(;B[hg];W[gh];B[gg];W[fh];B[eg];W[eh];B[ef];W[ee];B[he];W[jg]
+;B[jf];W[fd];B[gc];W[ej];B[jh];W[ji];B[kh];W[gm];B[hn];W[gn]
+;B[go];W[jn];B[hm];W[hl];B[gl];W[il];B[fm];W[gk];B[jp];W[fl]
+;B[cq];W[dq];B[dr];W[er];B[cr];W[eq];B[bo];W[bn];B[co];W[do]
+;B[cp]LB[bq:C][br:A][as:B]C[there seems to be no way to kill Black's group since there are several vital points.  If White went after the vital points earlier than the group would either be reduced or dead.  C7 seems to be the deterant and probably White was cautious of this move.  B is kind of important since white can do a seki there if black needed to]
+;W[io];B[ip];W[ho];B[hp];W[lm];B[bd];W[be];B[bc];W[lh];B[kg]
+;W[mh];B[bf];W[cf];B[ae];W[ce];B[qd];W[rc];B[rd];W[nm];B[pm]
+;W[on];B[rq];W[rr];B[oq];W[or];B[rp];W[sr];B[sc];W[sb];B[sd]
+;W[rb];B[gr];W[pn];B[qn];W[qo];B[qm];W[po];B[ro];W[mg];B[ml]
+LB[mk:3][nk:2][nl:1][mm:6][kn:5][ln:4]SQ[nm][on][pn][po][qo]
+C[This was alittle too deep but Black's tone at  N5 changed the course of the game.  If white went at 1, black at 2, and etc like Black went in the game N8 would be saved and it was a vital move that seperated the white group.  I assumed that white probably thought N8 was pretty much dead so it neglicted it.  If White went at 6, it would have changed the course of the game and allowed the white group to live.]
+;W[nl];B[nk];W[mk];B[ln]LB[km:A][mm:C][kn:B]C[White should also have went at C since black could have went there afterwards.  B seems to be played to simutaneously prevent M6 from extending and would allow white to intrude alittle into black's territory.  this is White's vital mistake]
+;W[kn];B[mm];W[ll];B[mn];W[ks];B[kr];W[pi];B[qi];W[qh];B[qj]
+;W[pg];B[rh];W[qg];B[rg];W[qf];B[rf];W[of];B[oj];W[oh];B[ls]
+;W[ms];B[js];W[pe];B[fn];W[gl];B[ld];W[le];B[kd];W[lf];B[an]
+;W[bm];B[am];W[ao];B[ap];W[al];B[ao];W[cl];B[od];W[nd];B[oe]
+;W[kf]C[no, not a big loss];B[jg];W[je]LB[hf:A][if:B]SQ[ff]
+[gf]C[Actually no loss.  It's the best you can do]
+(;B[ie];W[hf];B[if];W[jd];B[id];W[ke];B[kc];W[ge];B[gd];W[fe]
+;B[ec];W[ed];B[af];W[bg];B[jo];W[in];B[mr];W[ma];B[ic];W[ns]
+;B[np];W[mq];B[mp];W[pr];B[qs];W[ps];B[em];W[ag];B[ad];W[ko]
+;B[kp];W[fr];B[gq];W[el];B[qe];W[pc];B[lr];W[en];B[eo];W[fp]
+;B[gp];W[dn];B[la];W[na];B[sq];W[ds];B[cs];W[es];B[gs];W[bq]
+;B[br];W[ep];B[dc];W[pf];B[lo];W[tt];B[tt]TW[oa][pa][qa][ra]
+[sa][ob][qb][de][me][mf][nf][cg][ng][og][ah][dh][nh][ph][ai]
+[ci][di][ei][fi][gi][hi][ii][li][mi][ni][aj][bj][dj][fj][gj]
+[hj][ij][jj][kj][mj][ak][bk][ck][ek][fk][hk][ik][jk][kk][lk]
+[bl][jl][kl][cm][hm][im][jm][km][hn][qr][os][qs][rs][ss]TB[aa]
+[ba][ca][da][ea][fa][ga][ha][ia][ja][ka][ab][bb][cb][eb][fb]
+[gb][hb][ib][jb][ac][hc][lc][hd][re][se][sf][sg][sh][ri][si]
+[rj][sj][pk][qk][rk][sk][nl][ol][pl][ql][rl][sl][nm][om][rm]
+[sm][nn][on][pn][rn][sn][no][oo][po][qo][so][bp][lp][sp][aq]
+[bq][hq][iq][jq][kq][ar][hr][ir][jr][as][bs][hs][is][ks]C[Both black and whiter need to improve on life and death.  Improve on joseki and fuseki.  Black had uncontested control of the right side because white was not aggressive and also because of the move 5.  Both have to learn to read ahead further.  Be aware of the supposedly dead groups since they caused white to lose.  From the score estimate I learned that Black won by 0.5.  That was great play by Black.
+
+Hope this review helps
+-stuygoclub-])
+(;B[hf]
+(;W[ie];B[id];W[ke];B[ge];W[fe];B[gd]C[this would give black  the same amount of territory black gained in the actual game]
+)
+(;W[if];B[ie];W[ke];B[jd]C[This would be how it would end if white played at B]
+;W[gd];B[ge];W[fe];B[hd]C[this is the most Black can gain])))
+(;B[gh];W[jg];B[if];W[jf]C[It would continue to a certain extent]
+))
+(;B[hh]LB[hc:G][hd:D][gg:A][ij:C][gl:B][ml:E][in:F]C[A, B, C, D, E, F are possible response to  H12.  D would be recommended at this stage and would have lead to the response at G.  F would be a move that black has to respond to but alittle too greedy]
+))
+(;B[pi];W[ph];B[oh];W[nh];B[og]SQ[nh][oi][nj]C[This would lead Black to threaten the group marked withe the boxes]
+))
+(;W[hp]LB[hn:E][fo:A][hq:B][jq:F][dr:C][hr:D]C[Black would simply go with A, B, C or D.  You can extend with E or be a pain in the ass with F or something in that vicinity.  E is recommended to move out and Black would definitely play at F or B to prevent a possible intrusion and such intrusion would seperate F3 and threaten F3]
+))
+(;W[tt];B[nd];W[od];B[ne]))
+(;W[re]LB[qd:B][qe:C][rf:A]C[Black would respond with A, B, or C]
+;B[qd];W[rd]LB[cn:A][fq:B][iq:C]C[Black would consider attack on the upper right hand corner to be futile so A, B, C would be played]
+;B[cn];W[dk];B[en]LB[fl:A]C[A would be good since it gives White influence in the center.  Black has an overwhelming influence in the center.]
+;W[fp];B[bl];W[bk];B[bp];W[bq];B[gn];W[hp]LB[jk:C][kk:D][jl:B]
+[kl:A]C[This would give Black a wide influence in the center.  But White can still fight for the center.  something at A,B,C or D would have given Black parts of the center]
+))
+(;W[hc]
+(;B[fe];W[df]C[This would secure the left side])
+(;B[cf]LB[cc:B][ee:A][ch:F][dh:E][ci:D][di:C]C[B secures the corner while A allows White to gain influence in the center though 
+B seems more complicated.  C, D, E, F can be played by both sides.  These moves would threaten C14.  It is recommended to play here since black can't  and this is an extension from D4 but it would be pretty hard to save D16.  If D16 makes it out, it can form a wall on either  F17 or C14.]
+;W[di]LB[ef:A]C[A would allow Black to escape and if not played but Black may lead to Black losing C14 and White gaining influence in the center]
+;B[ef]LB[cc:C][dc:D][ec:F][kc:A][cd:E][fd:B]C[three moves to consider.  A strengthens the group on the top while B would become a bad variation.  C, D, E, F seems to be kind of harde rto decide between since it is hard for White to survive in the corner.  I woudl recommend F since it kind of indirectly attack F17]
+;W[fd];B[ed];W[ec];B[gd];W[ee];B[fe];W[ed];B[gf];W[gc];B[hd]
+;W[id];B[ie];W[jd];B[je]LB[bd:A][bh:B]C[A and B are moves that would allow Black to reduce White territory and threaten the corner  so best response here.]
+;W[bd];B[bh];W[bi]LB[jj:B][cn:A]C[A would be a risker move for Black but something like B would allow Black to control the center.  So bad variation.]
+)))
+(;W[no];B[pn]C[Black has to respond];W[jp]LB[lo:A][pq:C][jr:B]
+C[White threatens M3 and secures the bottom left side.  Black would repsond with A or B to escape K4 and this simutaneously attacks O3-O5 group.  White would respond with C which literally gives white the corner.]
+))
+(;B[cf]LB[ch:A][dh:B][ci:D][di:C]C[White can respond with A,B,C or D.  B and C are strong attacking moves.  C is is the best move in this situation]
+;W[di];B[ef]C[E14 threatens D16 and could destroy white's base so white has to respond with a move on the 16 line]
+;W[fd]LB[bd:A][gf:C][bh:B]C[A and B allows black to take the side but willallow white to gain influence in the center.  C is a move that gains little territory but influence in the center]
+))

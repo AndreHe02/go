@@ -1,0 +1,175 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+PB[OMGhamster]
+BR[24k]
+PW[sangtae]
+WR[23k]
+KM[6.5]
+DT[2005-12-03]
+PC[The Kiseido Go Server (KGS) at http://kgs.kiseido.com/]
+RE[W+3.50]
+TM[1200]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+C[Hi, my name is Mike. I felt I did fairly well in this game. I ended up losing in the end, by about 3 points. I'd like to know which plays had variations that might have been more profitable for me. If you can find just three or four points that I could have gained (especially in the endgame) I'll be very happy.
+
+I'd like to know which of my moves, which were mistakes, lost me territory.
+
+
+Thank you! I appreciate it.
+
+--Mike Morelock
+
+Hi Mike,
+
+My name is Slava Kozin (zloy), and I will review your game using CGoban  v. 2.6.12.]
+;B[pc];W[dd];B[dp];W[pp];B[nq]LB[qe:A][qj:B][qn:C]C[A, B, or C look better to me.]
+;W[qn];B[kq];W[qq];B[pr];W[pq];B[or];W[qr]
+(;B[pl]LB[rl:A][on:B]C[I'm still don't have a firm grasp of fuseki. This seemed like a solid move. I could always escape to the center if he pincers.
+
+It is a kind of a threat for the white,but white is alive and has ways out. Black did not get points here. Try to make threats and points at the same time.]
+;W[pj]C[Which he does.];B[nl];W[ql];B[qk]LB[fc:C][jc:B][qe:A]
+[cj:D][oo:F][gq:E]C[This move ended up getting me a good amount of territory. Was it too risky? I thought he might have played Q9. See variation.
+
+Yes, it could be risky. It depends from the players' skills. It is too early to fight there.]
+
+(;W[rk];B[qj]
+(;W[rj]C[white made a mistake here];B[qm];W[rl];B[pm]
+(;W[pk];B[qi];W[pi];B[qh];W[pg];B[ph];W[oh]
+(;B[qg]C[Black could cut here];W[pf];B[qf];W[pe];B[qe];W[nc]
+;B[pd];W[od];B[oc];W[md]C[I would cut the white]
+(;B[jd]LB[ic:A]C[I think that A is better if Black does not want to cut. Third line is always better to start building a base.]
+;W[dj];B[gd];W[fq];B[cn]LB[dq:A][hq:C][dr:B];W[iq];B[ec]LB[dq:A]
+[dr:B];W[dc];B[cf];W[ce];B[df];W[bf]
+(;B[de]
+(;W[bd]C[White plays too defensive];B[bg];W[eb];B[fc];W[fb]
+;B[gb]
+(;W[db]C[White just made a present for black - pass move];B[ed]
+;W[dr];B[cq]C[Wasn't sure how to respond to D2. This seemed logical.
+
+It is OK.];W[kf]
+(;B[mj]LB[oe:C][og:A][oi:B]C[Black could still cut the white]
+;W[kc];B[jc];W[ni];B[mi];W[mh];B[oj];W[nj];B[ok];W[oi];B[nk]
+;W[nh];B[ki];W[kh];B[ji]
+(;W[jh];B[rm];W[sm];B[sn];W[jk]LB[ch:C][hi:B][ll:A];B[ck];W[rn]
+;B[sl];W[so];B[sm];W[rp];B[pn];W[po];B[nn];W[no];B[mo];W[on]
+LB[mn:A];B[nm];W[kn];B[fn];W[hn]LB[go:A];B[jp];W[ip];B[fp]LB[cj:A]
+[dk:B];W[gp];B[fo];W[jq];B[kp];W[gl];B[fl];W[gk];B[fk];W[fj]
+;B[ej]LB[cj:A];W[ei];B[ek];W[gi];B[di]
+(;W[eh];B[dh];W[eg];B[dg];W[hf];B[kb];W[lc];B[mb];W[lb];B[ja]
+;W[nb];B[la];W[mc];B[oe];W[og];B[nf];W[nd];B[le];W[ke];B[kd]
+;W[ld];B[lh];W[lg];B[li];W[mg];B[jn];W[jm];B[in];W[im];B[ho]
+CR[mk]C[This was dangerous. White at K5 now would be bad.
+
+Black should be OK. Just stay connected. Cut N9 is dangerous.]
+
+(;W[gm];B[fm];W[hp];B[eq];W[er];B[dq]
+(;W[gr];B[cr];W[kr];B[lr]
+(;W[jr];B[lq];W[qc];B[qd];W[pb]
+(;B[rc];W[qb];B[rb]
+(;W[ma];B[ie];W[if];B[he];W[gf];B[fe]
+(;W[ff]
+(;B[ef]C[It is too small for black];W[ii];B[ij];W[jj];B[ko]
+
+(;W[km];B[np];W[oo];B[mn]
+(;W[ka];B[jb];W[ob]
+(;B[qo]C[it is a waste of the move.];W[ro];B[rr]C[You lost a point here]
+;W[ps];B[os]C[you lost al least one more point here];W[qs];B[kk]
+;W[kl];B[lk];W[kj]
+(;B[lj];W[ll];B[mk];W[oq];B[nr];W[ls];B[ms];W[ks];B[gn];W[hm]
+;B[af];W[be];B[ln]LB[qa:A][ds:B]C[A is bigger. Here you could save the game.]
+;W[ae];B[ag];W[ga];B[ha];W[fa];B[hb];W[cs];B[bs];W[ds];B[br]
+;W[ra]CR[sa][sb][rd]SQ[pa]C[If you go back to move 207 than you could see that Black just lost 3 point + gave 1 point to white.]
+
+(;B[sb];W[qa];B[jf]C[Black lost another point];W[je];B[id];W[sa]
+;B[rd]
+(;W[ge];B[go];W[io];B[jo];W[om];B[ol];W[la];B[cj]LB[ee:A]C[You do not need this move because of A]
+;W[ci]C[You could ignore this move, and it could save another point]
+
+(;B[cg];W[tt];B[ml];W[tt];B[lm];W[tt];B[tt]TW[aa][ba][ca][da]
+[ea][na][oa][pa][ab][bb][cb][mb][ac][bc][cc][ad][cd][le][me]
+[ne][oe][jf][lf][mf][nf][of][fg][gg][hg][ig][jg][kg][ng][fh]
+[gh][hh][ih][fi][hi][gj][hj][ij][hk][ik][hl][il][jl][qo][qp]
+[sp][gq][hq][rq][sq][fr][hr][ir][rr][sr][es][fs][gs][hs][is]
+[js][rs][ss]TB[ia][ib][gc][hc][ic][sc][fd][hd][sd][ee][re][se]
+[rf][sf][rg][sg][ah][bh][ch][rh][sh][ai][bi][ci][ri][si][aj]
+[bj][dj][rj][sj][ak][bk][dk][rk][sk][al][bl][cl][dl][el][ql]
+[rl][am][bm][cm][dm][em][mm][an][bn][dn][en][ao][bo][co][do]
+[eo][lo][ap][bp][cp][ep][lp][mp][aq][bq][mq][ar][mr][as][ns]
+C[Black played very well until the end of the game
+
+At the end you just lost the game because of carelessness. 
+
+Probably the best advise will be to start counting points. I understand that it is too hard to count the whole board situation, but you can count points at least at the end of the game (yose) as one move vs. another move. Which of these two moves make more profit for you. It could make a difference.
+
+Thanks.])
+(;B[ml]
+(;W[bh];B[bi];W[ch]
+(;B[cg];W[bj];B[ah])
+(;B[ah]))
+(;W[ch];B[cg];W[bh]
+(;B[bi])
+(;B[lm];W[ah];B[ee]))))
+(;W[om])
+(;W[go];B[jo];W[io]))
+(;B[om];W[sb];B[sc];W[rd];B[sa];W[qa];B[re];W[sb];B[sd];W[sa]
+))
+(;B[af])
+(;B[ds])
+(;B[qa]))
+(;B[oq];W[ps];B[os];W[qs];B[ds];W[es];B[cs])
+(;B[af];W[be];B[ae];W[ad];B[ag])
+(;B[qs];W[rs];B[ps];W[sr];B[oq]))
+(;W[ob]))
+(;W[io];B[jo];W[go];B[km];W[kl];B[lm];W[ll]))
+(;B[ob];W[oa];B[pa];W[qa];B[ra])
+(;B[hi])
+(;B[hj];W[gj];B[ih]))
+(;W[ka])
+(;W[ob]))
+(;W[ob]))
+(;B[ob];W[oa];B[qb];W[pa];B[qa];W[na];B[rc]))
+(;W[lq];B[jr];W[mr];B[ks];W[mp];B[np];W[mn];B[lo];W[ln];B[ko]
+;W[mk];B[lk];W[ml];B[mm];W[ll];B[lm];W[kl];B[km];W[ii];B[ir]
+;W[hr]))
+(;W[cr];B[fr];W[gq];B[gr];W[hr]))
+(;W[jo];B[io])
+(;W[io];B[jo]))
+(;W[dh];B[ci];W[eh];B[ch];W[dk];B[dl];W[fm];B[cj];W[em]))
+(;W[rm])
+(;W[mk];B[lk];W[ml];B[mm];W[ll]
+(;B[kl];W[lm])
+(;B[lm];W[kl];B[km];W[nm];B[ol];W[jl])))
+(;B[nj]CR[oi]C[Threat to cut]))
+(;W[ch];B[db];W[cb];B[cc];W[da]))
+(;W[bg];B[cd];W[be];B[cc];W[db];B[cb];W[eb];B[fc];W[fb];B[gb]
+;W[ee];B[ef];W[ff];B[ed];W[fe];B[fg];W[eg];B[dg];W[eh]
+(;B[fa];W[dh])
+(;B[dh];W[di];B[ei];W[fh];B[fi];W[gh];B[ch];W[bh];B[ci];W[cj]
+;B[bi];W[bj])))
+(;B[bg];W[be];B[ch];W[de]
+(;B[bj])
+(;B[ff])))
+(;B[og]
+(;W[nh];B[oe])
+(;W[ng];B[oi];W[nh];B[ok];W[ni];B[oj])))
+(;B[oi];W[oj];B[ni]
+(;W[qg];B[nj])
+(;W[nj];B[og];W[nh];B[pf];W[qg];B[rg];W[qf];B[qe])))
+(;W[rm]))
+(;W[pk]
+(;B[qm];W[rl];B[pm];W[rm]
+(;B[qi];W[pi])
+(;B[pi];W[qi]))
+(;B[pm];W[qi];B[rj];W[ri]))
+(;W[pm];B[rl];W[qm];B[rj];W[ol];B[pk];W[ok];B[oj];W[nk];B[om]
+;W[nm];B[on];W[nn];B[ml];W[oo]))
+(;W[pk];B[qj];W[qi];B[rl];W[qm];B[ri]
+(;W[qh];B[rh];W[qg];B[rm];W[rn];B[sn]
+(;W[so];B[sm];W[rp];B[sk];W[rg])
+(;W[sm];B[sl];W[so];B[ro];W[sm];B[qe];W[sn];B[rj];W[sk];B[rk]
+;W[rg];B[sh];W[sj];B[sg]))
+(;W[ol];B[pm];W[om];B[pn];W[oo];B[pi];W[qh];B[ok];W[oj];B[nk]
+;W[on])))
+(;B[qj]))

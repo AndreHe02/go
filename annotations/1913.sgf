@@ -1,0 +1,160 @@
+(;FF[4]GM[1]SZ[13]ST[2]CA[UTF-8]AP[SGFC:1.14]
+
+PB[frs]
+BR[19k]
+HA[3]
+PW[anonym]
+WR[5k]
+KM[0.5]
+DT[2003-08-14,2003-09-19]
+PC[http://www.dragongoserver.net]
+RE[W+Resign]
+RU[Japanese]
+
+AB[kd][dk][jk]C[Hello,
+
+I (frs, 19k) played Black in this 13x13 game with 3 stones handicap because my opponent is 5k.
+
+Despite the handicap, I 've lost 3 corners and many stones without a good idea where my big mistakes are ...
+
+Thanks in advance for your review!
+
+Frank (frs)
+
+
+Hi Frank,
+I'll try to work through the game with your final question in mind, "where did black make the big mistakes."  From my 2 minute once-over, I'd say you made generally a lot of little mistakes, and your opponent knew how to take advantage of them.  Of course the very definition of big mistake and little mistake is rather vague, what would be a tiny mistake for a 5 kyu might be a hopelessy embarrassing disaster for a high dan.  But I will try to put things together and show you some general Big Ideas that I think you may be overlooking to some degree.
+
+I think the best approach with all your games that you lose and don't know exactly why is to do a very thorough review, either just by yourself or with a stronger player if possible.  I've tried to give you some questions to ask and directions to go when looking for the answers in this game.  I think this approach works a lot better than just pointing out your mistakes and saying what moves are better.
+
+Some notes about style:
+I often use the abbreviations "w" and "b" for white and black, and UL, UR, LL, LR, for upper-left, etc.
+
+I tend to create a lot of variations in the SGF file.  I generally won't specifically mention the variations, assuming you will find them on your own using your chosen sgf viewer's features.  But do check out the variations, you may find them useful.
+
+Finally, I'm usually on KGS (and rarely IGS) as "inimino" so if you have any questions please feel free to email me or track me down on KGS and ask away.]
+;W[de];B[dc]C[frs: Aggressive approach.
+
+Yes this is agressive indeed, and that may be good or bad depending on your style and goals for the game.  Some people immediately think that the goal of a go game is to win but this is actually a shallow idea.  I'll leave you to ponder what your own goals are with the games you play, and I wouldn't dare to tell you what they should be, but perhaps I may be allowed to point out some of my own goals when I play a game of go:
+
+- To play honorably and with respect for my opponent.
+- To increase my understanding of go as much as possible.
+- To play the very best I am able.
+
+Sometimes playing an aggressive move may not give you the best chance to win, but is nonetheless the move that feels right and seems the best way to play.
+
+Sometimes a "trick" move may give you a chance to win a lost game, but you may have qualms about winning in this way.  Or you may take this as an opportunity to teach your opponent about a particular kind of pitfall which he will be much more likely to spot in the future.
+
+As is so often the case in Go, there are no simple clear-cut answers to these questions, but they are critical and will greatly impact your development as a go player and an individual.]
+;W[ec]
+(;B[cd]CR[dd][ed]C[This is a little slack in my opinion.  The white shape here can be cut, it has two weak points (circles).  By playing at C10 you do not cut or threaten to cut white, so he is free to begin to compress your corner without much fear for his own stones.]
+;W[ce]
+(;B[bd]C[this is a little passive, it seems you just want to live only]
+;W[db]C[w keeps pushing as long as you let him];B[cb];W[dd]
+;B[cc];W[eb]C[w profited here, your corner is cramped and w has a good position on the outside from which to attack everything else.]
+
+(;B[ab]C[frs: Usually the Black group around C11 is secure now, isn't it?
+
+Yes, your group is now alive.  However, this is a passive way to live.  It would have been better to not come to this ugly circumstance of having to live in gote in the first place.  Also, notice that B9 is now sente for w.  So instead of A12, what if you played at B9 yourself first?]
+;W[be]
+(;B[ae]TR[ac]CR[aa][ba][bb][bc]C[this is wrong.  You have a few potential eyes here, marked with circles, which this move does not affect.  However the triangled point at A11 can be eliminated easily as a potential eye by a w play at A10 as you saw later of course.  Looking at the remaining spaces, you may see a "bent four" and assume you are alive, but look further.  The weakness at C13 means that a play at B13 threatens both C13 and B12, reducing your shape to one eye in either case.  So, your corner is now undetermined, and will become alive or dead depending on who makes the next play there.  However, you do have the option of running out at B8, but where the stone will run to is an open question.]
+;W[ci]C[after this nice move by white, if you play B8 your group is still unable to connect to other friendly stones.  Now your corner is in true mortal danger.]
+;B[fj];W[ji];B[kh]SQ[ld][md][ke][le][me][kf][lf][mf][kg][lg]
+[mg][lh][mh]C[frs: Black claims the L6-N6-N10-L10 area.
+
+
+Hm.  Well b does seem to want that region.  But how strong is his claim on it?  In fact this long jump from the L10 stone leaves a weak point right in the middle, and w may choose to cut these two stones apart at a later time.]
+;W[ki]C[notice w always wants to cut your stones apart.];B[kj]
+C[this looks like you want to connect, but does it work?  The only move for w now is obviously m5.  Consider this position carefully before you play at L4.  Does trying to connect and failing improve your position?  Always look for your opponent's best possible responce to your own move, and evaluate that position, don't fantasize about moves that almost work.]
+;W[li];B[lg]C[Which is more important, the corner or L6?  Which is in greater danger?  What do you need to save and what can you sacrifice to win the game?]
+;W[ik];B[il];W[hl]
+(;B[jl]C[nooooooo, please cut];W[hk];B[lj]C[now again you are living in gote, because of previous passive moves.  It's the upper left revisited.]
+;W[gi]
+(;B[mi]C[frs: prevents White M3
+
+sometimes you have to say that your group may even die, but you will not spend another move on it.  You already played the gote M4, can you afford to take gote again here?  Of course, read the alternatives.]
+;W[mh];B[mj];W[lh]C[so now you must leave an ugly cut for white to exploit, or defend again in gote.  Look back now on your N5 and L6 moves and see if you can see how this situation arose.]
+;B[kg]
+(;W[fi];B[cj];W[bi];B[bj];W[ic];B[jc]TR[kd]C[I count 4 corners now in which you have played this angle move.  Try some alternatives in your future games.  In fact, try to play 10 games in a row without every playing this move, and see what you can learn.]
+;W[id];B[ig]C[frs: Trying to reduce White territory in the center.
+
+Definitely a great idea.  The only thing more important than reducing w's center is the life and death of your groups on the board, but that can be difficult to see.]
+;W[hf]
+(;B[je]C[is this necessary?];W[el]C[A strong attack by white. I boldly predict something will die here!  Oh, wait, I already saw the end. ^^]
+
+(;B[fl]C[frs: Preventing White connection E2-H2
+
+Does it?];W[ek]
+(;B[ej]C[frs: Preventing White connection E3-E5-F5.
+
+
+Yes.  But here you should be more concerned with keeping your own stones connected and alive instead of cutting since the's E3 stones can get out either one way or the other.]
+;W[dl];B[cl];W[fk]C[looks like w managed to connect.  Now you have another corner in grave danger.]
+;B[bg]C[hm... looks like a misread];W[di];B[dj];W[ba]C[uh-oh.  W finally kills the UL corner.]
+;B[ca];W[bb];B[bc];W[ad];B[ei]C[frs: Trying to kill White D5-B5
+
+
+
+It's an excellent thought, in fact it's a great approach to the problem in the corner, but you didn't quite follow through.  The only purpose of this move is to cut next.  Why didn't you?]
+;W[eh]
+(;B[dm]C[no, should cut, see variation.  You can also simply live of course with a move like A2.]
+;W[gj];B[em];W[gk]C[now w strenghened all his defects, and you still are not alive.]
+;B[ib]C[a very expensive tenuki];W[bk]C[dead];B[ak];W[bl];B[bm]
+;W[al];B[af];W[aj];B[hm];W[jj];B[gl];W[ll];B[kl];W[lk];B[kk]
+;W[im];B[jm];W[lm];B[ml];W[hb];B[jb];W[hg]C[frs: Resign by Black:
+
+* Every Black stone at the lines 1 to 5 is dead.
+
+actually, no, see what happens after black N3.  But you cannot make any points on the bottom.
+
+* The Black group around C11 will have only one eye.
+
+Yes.  b in fact has the UR completely alive and most of the rest belongs to w.
+
+But where did Black made the "big" mistakes?
+
+Well I hope you can partly answer that yourself, here's a few other things to consider:
+
+Your strongest group on the board is the UR group, and it is also the biggest.  Look at the moves you spent on that group, and the other groups, and try to see what went right there that didn't go so well in the other corners.
+
+Another interesting idea is to look at the board and pick out the stones that you think are most significant in the current position.  For example, A10 makes your top group dead, so that's pretty big.  Once you've picked some of the most important stones for both players, go back and see when and how they were played.
+
+Life and death problems are always worthwhile, I find a deep study of the problems that arise from your own games, trying every possible variation first mentally and the on the board can be at least as helpful as working through tsumego sets.
+
+That's about it for this review, I think I left a lot of the work up to you, let me know how it goes :)
+
+- MJ Clement])
+(;B[dh]C[this leads to some complications, please check all possible alternatives for both players in this variation and see what other outcomes are possible, and try to find the optimal line - both players making the best moves.  The line I give here contains at least one glaring mistake, but I thought it was an interesting example of how to complicate your opponent's life when he leaves a ton of cutting points.]
+;W[ch];B[dg];W[cg];B[gj];W[hj];B[fh];W[eg];B[hi];W[gh];B[fg]
+;W[ef];B[hh];W[gg];B[hg];W[gf];B[ij];W[bk];B[bl];W[aj];B[ck]
+;W[ak];B[al];W[ai];B[gk];W[gl];B[fm]C[white dies first.
+
+By the way, a pro would read this sequence out in an instant, and wouldn't make any mistakes.  Go back and explore, w can get a better outcome.]
+)
+(;B[al]C[one way to just live]))
+(;B[dl]))
+(;B[dl]))
+(;B[hg]C[you would like to keep pushing.  Perhaps you are worried about white L9.  Read it carefully.]
+))
+(;W[ll]C[what if w plays here now?  Read carefully and analyze, then compare to the position before you played the gote sequence beginning with N5.]
+))
+(;B[ma]C[if you tenuki...]
+(;W[lk]C[the feared M3];B[ll];W[mj]C[try other variations and see if w can do better.  try reading first, then play it out and see if you made some mistake.]
+;B[kk];W[mk];B[ml];W[mi]C[b is alive in sente, you may tenuki and this still lives, please check for yourself.  So w would not want to play this way.]
+)
+(;W[ll]C[this is more promising, I find this shape to be strongly suggestive of seki but I could be wrong, you can check it out yourself.]
+)))
+(;B[hk]C[this is begging to be played, you almost don't even need to read it]
+;W[ij];B[jl];W[gk];B[hj];W[gj];B[hi];W[gl]C[now you have a game and a fight.  you may win or lose, but you will learn something and if you lose you will be able to explore variations and see where you went wrong.]
+))
+(;B[ca]C[this is alive also])
+(;B[ba]C[this is absolute life, but another gote move and the corner looks so small.  Still you may not want to let this group die either.]
+))
+(;B[be];W[bf];B[ab]C[now w has a weakness at C8 and B7 and your corner group is just a wee bit bigger.  Nonetheless having to live in this way is painful for black.]
+))
+(;B[ed]C[an aggressive move certainly shows kiai, whether it is helpful to black's position or not is another question.]
+;W[dd];B[cc];W[fc])
+(;B[eb]C[this pushes out at the borders against w's weak stone]
+;W[dd];B[cc]))
+(;B[dd];W[ed];B[ce]C[this is a variation which pushes w back to the right and keeps b's corner as large as possible in a simple and clear way.]
+))

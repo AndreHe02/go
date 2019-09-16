@@ -1,0 +1,145 @@
+(;FF[4]GM[1]SZ[19]ST[0]CA[UTF-8]AP[SGFC:1.15]VW[]
+
+PB[Berndster]
+BR[30k]
+HA[0]
+PW[DrunkenGnu]
+WR[30k]
+KM[7.5]
+DT[2005-08-24]
+PC[The Kiseido Go Server (KGS) at http://kgs.kiseido.com/]
+RE[W+12.50]
+TM[600]
+OT[10x20 byo-yomi]
+RU[Chinese]
+AN[Steve Carder <steve@carderfamily.net> 15k]
+
+C[DrunkenGnu [30k\]: GTP Engine for DrunkenGnu (white): tuned GnuGo. If I'm too hard, try SimpleBot. If I'm too easy, try humans or LibertyBot. - version 3.6
+
+Basically I had a good feeling through the game, but somehow I lost it. Guess I should have attacked his large territory in the center, but I feared that otherwise he might have invaded my areas more. It would be nice if you could show my biggest blunders. Thanks.]
+;B[dd];W[cj];B[od]C[This move is too far from the corner to really say that black has control of this corner.  It isn't necessarily a bad move, but it is unusual.  If black has a plan for how to use this move, then it is fine.  Without a specific plan, however, black would be better off playing closer in the corner.]
+;W[fc]C[Black should not feel threatened by this move since the white stone at C10 is too far away to really put pressure on black's corner stone.]
+;B[cg]TR[dc]SQ[fe]C[This move is fine.  Be sure to think through your options before choosing a move.  I have put in some other possibilities to give you something to think about.
+Playing at the triangle would secure the corner for black.  This puts pressure on white's upper side stone since, if this stone can no longer extend into the corner, white will have to extend along the upper side before black plays around J17 and takes away white's eye space.
+Playing at the square moves black out into the center and more directly attacks white.  White is likely to respond by diving into the corner.
+Any of these is reasonable, it just depends on what black wants to accomplish.]
+;W[gk];B[pp];W[mc];B[of]TR[qe][qc]SQ[od]C[This is not the best choice.  We are still in the opening phase of the game.  In the opening, your stones should almost always be played on either the 3rd or 4th line.  You should really stop and think and look for other options before playing a stone either higher than the 4th line or lower than the third line.
+The two marked black stones are too far from the right side to actually control it.  White could play on either triangle and live easily.  If these stones don't control the right side, then what is their purpose?
+If you really want to extend down the right side, then play Q14, which is on the 4th line.  I think that a better option would be R16.  Black would still have two stones the same distance apart as in the actual game, but stones on P16 and R16 would do a much better job of controling the corner and the upper right side.]
+;W[nq];B[pm]SQ[qn]C[I think that this is a bit too far from the corner stone to work well with it.  The square is better.  The black stone at Q4 is not really in any danger from white at this point, so black could play in the lower left corner now.  White would then probably play R6 and the black stone at Q4 would need to run out into the center.]
+;W[jd];B[pj]SQ[nq][gk][cj]C[Was it good that I played that move and secured my right side, or should I have played around Q4 to secure the LR corner?
+
+Looking just at the lower right side and ignoring the rest of the board, playing Q3 is better than Q10.  Q3 secures the corner for black and puts pressure on the white stone at O3.  Q10 secures some territory, but doesn't do anything else.  So, Q3 does two different jobs which makes it better than Q10.
+Black should not be looking at just the lower right corner and ignoring the rest of the board, however.
+In the opening, you are sketching out large scale rough drafts of where you would like territory.  One good opening strategy is to find the largest open gap between stones and play in it. If white plays in the lower left corner, then the marked white stones start to look like the boundry of a really large area of territory.  As long as black can invade the lower left corner and make a live group, these marked stones don't make much territory. Once white secures the lower left corner, then this is close to becoming a white territory that covers about 1/3 of the whole board.
+This is a long-winded explanation of why black should play this stone in the lower left corner.]
+;W[pr]C[White should play in the lower left corner now rather than at Q2.
+Both players are too focused on what is happening in the lower right corner.]
+;B[qq]SQ[pr][bj][ej][lp][jo][im][nq][gk][cj]C[This is the best move locally, but it only changes the score by around 9 points. Blocking white's huge enclosure of the lower left corner is worth much more.  If white can secure the area marked with squares, it will be worth around 90 points.  So, taking this away from white is worth much more than the 9 points in the lower right corner.]
+;W[kp];B[dp]SQ[kp][gk][cj]C[Playing in this corner is good.  Black can't run out into the center because of the marked white stones, so black will have to make two eyes in the corner.  To make life in the corner, a 3x3 point invasion is better.  See the variation starting next move.]
+
+(;W[fq]C[See the variation.
+With this move, white plans to allow black to live in the corner without a fight.  Instead of trying to kill black (which might not work), white plans to salvage as much territory as possible in exchange for letting black live easily.]
+;B[dr]C[This is fine but D3 is also good.];W[ge]C[White should play this at C6 to contain black and to make territory on the left side.]
+;B[cn]C[Good, now black has enough space to live easily.];W[dc]
+;B[cc];W[er]C[This move doesn't enlarge white's territory by much and doesn't really threaten black.  Black can ignore it and play a more important move elsewhere.]
+;B[eq]SQ[pb][qr][db][ej][oc][jo]C[The squares are all moves worth more than this one.]
+;W[fr];B[fp];W[iq];B[fe]TR[fc][ge]SQ[oc][pb][db][ej]C[This doesn't do much for black.  I don't think that black can cut the two marked white stones apart.  The squares are all still better moves for black.]
+;W[oc];B[qc]C[Good, the 3x3 point is the usually the best spot to play to defend a corner]
+;W[eb];B[df];W[gh];B[fg]TR[pc][qr][cb]SQ[mj][mm][mf]C[This doesn't really expand black's territory by much and it doesn't threaten any white stones or territory (white has no center territory yet so black can't threaten it).
+The squares are good choices if black wants to expand into the center.  They build from black's strong right side stones.
+The triangles are all moves to secure more corner territory.]
+;W[ki];B[ej];W[mi];B[oh];W[cl];B[el]C[Good, black is blocking one space away from white rather then playing right next to white.]
+;W[cb];B[bc]SQ[cd]C[Connecting at the square is also a good move since this spot is a potential cutting point for white.]
+;W[bm];B[bn]C[Good, white still has no way to escape and no eye space.]
+;W[km]C[Now the center is starting to look like potential white territory. Black should begin to push in from several directions. 
+The problem with center territory is that you have to enclose 4 sides before it is secure.  Black should push as many sides a possible so white won't have time to secure all 4.]
+;B[gn];W[ob];B[lf];W[nn]
+(;B[on]C[This doesn't push against a gap between white stones, so white doesn't have to respond.
+
+See variation for one way black could reduce white's center to almost nothing.]
+;W[fd];B[ed];W[fi];B[ei];W[ig];B[nl];W[bk];B[bi]C[Good, don't let this group make 2 eyes.]
+;W[mh];B[md]SQ[ld][gp][gf][no]C[Don't play against white's stones, play at the gaps between the stones.  The squares are all better ways to push into white's area.]
+;W[lc];B[nd];W[dk];B[ek];W[kk];B[if]SQ[im][hl]C[The squares mark the only remaining big gap in white's center territory.  Black should play here to reduce white's center.]
+;W[he];B[hf];W[im];B[hm];W[bj];B[ci];W[an];B[bo];W[il];B[gl]
+;W[qr];B[rq];W[bb];B[ac];W[ao];B[aq]SQ[ap]C[A4 is fine since it puts white in Atari]
+;W[hp];B[go];W[fj];B[ap];W[ds];B[cr];W[hl];B[fm];W[cs];B[br]
+SQ[bs]C[B1 is Atari on white];W[mf];B[bs];W[no];B[le];W[lg]
+;B[jf];W[oq];B[op];W[lp];B[np];W[mp]
+(;B[hg]C[See variation];W[am]C[Should I have played A7 myself before? I had the feeling that my previous moves were more important.
+
+See the variation starting last move.  Killing the white group on the left side is worth about 25 points.  So, how many of your recent moves have been worth more than 25 points?
+At this point, the score is close enough that this white group's life or death decides who is winning the game at this point. So, yes, playing at A7 was worth more than other recent black moves.]
+;B[es];W[ih];B[hh];W[ld];B[me];W[jg];B[ke]TR[kf]SQ[hi]C[White can't cut at the triangle, so black doesn't have to defend here now.  Playing the square destroys a lot of white center territory.]
+;W[dm];B[dn];W[hi]C[White has finally secured territory in the center.  White has gained about 14 points of territory here.]
+;B[em];W[ab]
+(;B[cd]C[White can't cut here and capture anything, but white could cut here as a ko threat.  So, this is a move black should postpone if losing in favor of something more aggressive.  If black is winning, then "tying up loose ends" like this is OK.  
+See variation];W[id];B[kd];W[hn];B[gm]TR[hh][kd]SQ[kc]C[Playing here saves one stone.  Playing at the square takes away 4 or 5 white points.
+Both here and at H12 black starts to push into white's area, then doesn't follow up and actually get inside and destroy territory.]
+;W[io];B[ll];W[qb];B[pc];W[kc];B[nc];W[pb];B[pd]C[Defending here is a reasonable idea.  This is much more complicated to read out and it is hard to say if white can succeed cutting here.  So, if  you are not sure, defending is good.]
+;W[gp];B[fo]C[White can't cut here so this stone isn't needed.  If white cuts here, then black connects at E4, then white has nothing else to do.]
+;W[rc];B[rd];W[nb];B[sc];W[rb];B[sb]SQ[nj][rr]C[This is an OK endgame move, but there are other endgame moves worth more still on the board.  The squares are the 2 best ones I see.]
+;W[fs];B[ds];W[gg];B[gf];W[fh];B[eh];W[lm];B[ml];W[nf];B[ng]
+;W[mg];B[mj];W[lk];B[mk];W[ec];B[hc]C[Was something like that worth trying?
+
+In this game, it is worth a try.  Against a skilled player, this is a hopeless invasion.  So, playing this against a single digit kyu player would just annoy them.  Against a 30k player, there is a good chance that white will make an error and let black live.]
+;W[gc];B[dj];W[qo];B[qp]SQ[pq]C[Q3 also connects and gets black 1 more point of territory]
+;W[cf];B[bf];W[qf];B[re]SQ[qh]C[The square blocks white from trying to get eye space down the right side.]
+;W[rr];B[sq];W[ql];B[rj]SQ[qj]C[The square blocks better];W[ik]
+;B[oj];W[al];B[cm];W[dl];B[aj];W[fk];B[ak]C[Stupid of course
+
+As long as you learn from it.];W[ai];B[ah];W[aj];B[bh];W[kl]
+;B[om];W[lj];B[ni];W[mm];B[nm];W[oo];B[po];W[pq];B[pn];W[sr]
+;B[sd];W[ho];B[sa];W[ra];B[je];W[hj];B[kg];W[kh];B[kf];W[ne]
+;B[oe];W[nh];B[og];W[ep];B[eo];W[ea];B[hd];W[ie];B[ic];W[jb]
+;B[ib];W[jc];B[fl];W[tt];B[tt]TB[ad][bd][qd][ae][be][ce][de]
+[ee][pe][qe][se][af][cf][ef][ff][pf][qf][rf][sf][ag][bg][dg]
+[eg][pg][qg][rg][sg][ch][dh][ph][qh][rh][sh][di][oi][pi][qi]
+[ri][si][nj][qj][sj][nk][ok][pk][qk][rk][sk][ol][pl][ql][rl]
+[sl][qm][rm][sm][en][fn][qn][rn][sn][co][do][qo][ro][so][bp]
+[cp][ep][rp][sp][bq][cq][dq][ar][as][cs]TW[aa][ba][ca][da][fa]
+[ga][ha][ia][ja][ka][la][ma][na][oa][pa][qa][db][fb][gb][hb]
+[ib][kb][lb][mb][hc][ic][gd][hd][jh][lh][gi][ii][ji][li][gj]
+[ij][jj][kj][ak][ck][hk][jk][bl][jl][jm][in][jn][kn][ln][mn]
+[jo][ko][lo][mo][ip][jp][gq][hq][jq][kq][lq][mq][gr][hr][ir]
+[jr][kr][lr][mr][nr][or][gs][hs][is][js][ks][ls][ms][ns][os]
+[ps][qs][rs][ss]C[White won by making a live group on the left side and by securing some center territory.]
+)
+(;B[nj]C[For purposes of demonstration, black doesn't play in the upper left.]
+;W[cd]C[White tries to cut];B[bd]
+(;W[be]C[See both variations of this move];B[ce])
+(;W[ce]C[See both variations of this move];B[be];W[bf];B[cf]
+;W[ae];B[de])))
+(;B[am];W[al];B[cm]C[Now we have a ko that decides whether the left side white group lives or dies.]
+))
+(;B[gd]C[Again, this sets up black's next move.];W[gc];B[gf]
+;W[he];B[hf];W[ie]C[If white plays at J14, then black will Atari white at J15.]
+;B[im]SQ[fp][gn]C[Pushing in from another direction.  The maked black stones a each a small knight's move apart.  This is the farthest apart you can generally put them and still have the be at least sort of connected.]
+;W[ik];B[jl];W[jk];B[kl];W[ih];B[gj];W[hj];B[fk];W[gi];B[ld]
+SQ[gj]C[Notice that black does not play at F10 to save the marked stone. It is only one stone and black has more worth while moves to make.]
+;W[lc];B[kd];W[kc];B[kf]SQ[kd][ld][lf]C[This is called a bamboo joint and is a strong connection between black's stones.]
+;W[if]SQ[gh][gi][hj][ik][jk][ki][ih]C[The marked white stones don't have much space for making 2 eyes so white wants to keep them connected to at least one of white's side groups.]
+;B[lm]C[Black doesn't want to kill the center white group, just take away it's territory.]
+;W[kn];B[ll];W[ln];B[lj];W[li];B[kj];W[jj];B[gp];W[gq]SQ[hi]
+[ii][ij][ji]C[White has about 4 points of center territory around J11.  Meanwhile, black's left side territory has expanded farther into the middle and gained a lot more than 4 points for black.]
+))
+(;W[cq]SQ[nq][kp][gk][cj]C[In this variation, white responds to black's invasion by playing inside the area black needs to have to make two eyes.  White has invaded black's invasion.   This is a very aggressive response by white and probably means that someone's stones are going to die a spectacular and horrifying death.  If black dies, then white has turned the marked stones into about 90 points of territory and is winning by about a 40 point margin.  If black lives, then black will have a living, strong group in the lower left corner and white's 90 points of territory suddenly becomes about 10 points of territory around N2.  This would put black ahead by about 30 points.  
+Since this battle could essentially decide the game, an aggressive "all or nothing" strategy by white is not unreasonable.]
+;B[dq]C[White is going to go which ever direction black does not .  So, black gets to decide which way to push white.  There is more open space between black and the nearest white stones along the bottom so black has a better chance of making 2 eyes on the lower side than on the left side.]
+;W[cp]C[Black could play C5 and try to surround and kill the two white corner stones.  However, if white doesn't make any errors, then black can't actually kill the two corner stones.  So, black is better off not trying to kill white and instead focusing on making room for 2 eyes on the lower side.  Playing G3 is close enough to black's other stones to keep white from playing between them but doesn't make a lot of room for eyes. Playing H3 makes more room for eyes, but then white will be very tempted to play F3.]
+;B[gq];W[iq]C[White wants to keep black from moving across the bottom side any farther. Playing one space away from your opponent is generally better for blocking than playing right next to them.]
+;B[cr]C[Diagonal moves tend to make better potential eye space.  Black hopes to make D2 into one of the two eyes needed to live.]
+;W[br];B[ds]C[Now white can't Atari black by playing at C1, plus D2 is closer to being a real eye.]
+;W[hr];B[co]C[Black still doesn't really plan to kill white. Black just wants white to focus on defending the corner stones rather than have white focus on taking away black's eye space.]
+;W[bo];B[bp]C[This is a sacrifice played to make black's next move (atari at B6) Sente.  If black played at B6 now, white would Atari at C6.]
+;W[bq];B[bn]C[Because of black's sacrifice stone, white can't play Atari at C6 right now.]
+;W[ap];B[dn]C[This move is to prevent white playing at C6, and to help make D5 into an eye.
+White is nealy alive in the corner with mostly completed eyes at B4 and A3.  In exchange, black has started another eye at D5]
+;W[fr];B[gr];W[gs];B[er]SQ[gq][gr]C[Black has decided to give up on the 2 marked stones and focus on saving the main part of black's group.  When trying to make life for a threatened group, you don't have to save all of your stones. In fact, it is often a good idea to let your opponent waste a few moves "finishing off" stones you have given up on since this allows you more time to save the rest of your stones.]
+;W[fq];B[fp]C[This is another stone played just to make black's next move (E3) Sente.]
+;W[gp];B[eq];W[hq];B[eo];W[fo];B[ep];W[fn]C[If white plays at E6, black can play a double Atari at F6.]
+;B[en]C[Now, black has made a live group that white can't kill (unless black doesn't respond to white's moves here).  
+White also has a live group in the corner that black can't kill.
+The next few moves are done just to complete the groups, but they are actually end game moves and you normally would wait and play them much later in the game.]
+;W[bs];B[cs];W[ao];B[es];W[cm];B[cn]C[Both white and black have 2 eyes and are unditionally alive. White has about 20 points of territory, mostly around L2.  Black has only 2 points of territory in the lower left, but this black group turned a 90 pointe white area into a 20 point area, so black's group moves the final score 70 points in black's favor.]
+))

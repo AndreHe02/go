@@ -1,0 +1,193 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.13b]
+
+PB[magnus]
+BR[28k]
+PW[vazy]
+WR[26k]
+KM[0.5]
+RE[W+7.50]
+RU[Japanese]
+
+C[i am white.
+game won (less than 10 pts), but thanks to magnus's mistake at the end of the game.
+w messed a lot with n3 invasion, how can w play this part?
+
+So, particularly interested in invasion and development(timing, execution) review.
+I'll do a move per move analysis to spot some tesuji with gnugo after the review, so don't sweat about this!]
+;B[cd];W[pd];B[pp];W[dp]C[not used to play diagonal...
+
+JT: diagonal openings are fun, but remember, you can always force a parallel opening.]
+;B[ec];W[dj]LB[cj:A][qn:B]C[JT: Good. This is a big point for both sides. Could be A as well, or simply B.]
+;B[jp];W[pj]LB[qn:A]C[choice of big moves
+
+JT: personally, I think I'd just play A here, but this is certainly a nice point to have.]
+;B[kd];W[md]LB[hc:A][qn:B]C[... option for the corner, not being too far from the corner
+
+JT: Black's previous move seems like an overextension. I'd ignore this and play B now.]
+;B[qk];W[qj]C[... to defend from side high right territory invasion.
+
+JT: right. Black's shoulder hit was a bad move, allowing you to push his moyo back. See variations.]
+
+(;B[qc];W[qd]C[...to throw b on the nearest w stone and make a wall for high right territory.
+
+JT: this block is right (proverb: block on the side of the extension).]
+
+(;B[oc]C[JT: this black move is obviously wrong. I'm giving the usual variation.]
+;W[pc]C[... testing corner's defense];B[pb]
+(;W[rc]C[JT: cutting seems better here. See the variations.]
+;B[qb];W[od]LB[qq:A]C[wall better than several corner's points?!
+
+JT: I think yes. Your two stones are in an ideal position. Now you should start to make your own moyo larger and aim for the invasion at A.]
+;B[nc];W[nd];B[lc];W[hd]LB[pk:B][qq:A]C[... to not allow b to play here and try invasion/ moyo
+
+JT: this is ok as a reduction, but I think I'd rather start to enlarge the right side moyo now (or just invade at A for instant profit).]
+;B[gc];W[hc]SQ[lc][kd]C[JT: good. With the cutting point at N17, this allows you to isolate (and attack) the two marked black stones if he doesn't cover it.]
+;B[rb]
+(;W[rd]C[... to not let him play at this side of the wall
+
+JT: this is small. I'd cut at N17 now (see variation).];B[sb]
+;W[mc];B[nb];W[mb]C[... cut b from the corner.
+
+JT: right. Black shouldn't have allowed this.];B[ma];W[la];B[na]
+;W[lb];B[jc];W[ld];B[hb];W[ib];B[gb];W[kc]LB[ic:A]C[JT: A is better.]
+;B[ic]
+(;W[ke]LB[jb:A]C[JT: should be A. See var.];B[jb]C[JT: now black is connected, and the two white stones at H16 have become quite meaningless.]
+;W[jd];B[id];W[he]LB[cg:A]TR[dj]C[... aiming center and d10
+
+JT: there is no reason to try to rescue these stones. They're not cutting anything and their position is uninteresting, so they're only a burden. If you want to do something here, A looks more interesting, as it strengthens the triangled stone and also prevents a ladder capture of the two stones.]
+;B[ch];W[ci]LB[cf:B][dh:A]C[... prefer defend low right territory, don't like this move!?
+ moyo or pincer d14 better? may be difficult before j15?
+
+This move strengthens black, and should in general be avoided. Black usually replies at A. I'd prefer to play elsewhere here, or invade at B.]
+;B[bi];W[bj];B[bh];W[dm]LB[dh:A][dq:B]C[... may be difficult if b plays a10. Not so, variant seems ok for w.
+
+JT: I think you should push once at A to reduce black's moyo. If you want to defend, I think B is the best - this move leaves you with no good choices if black invades.]
+
+(;B[di];W[cj];B[ei];W[ie]C[happy to close, allow connect and making eye(s)!
+
+JT: this is too small. You don't need eyes for the wall (attempting to kill it would be a huge overplay).]
+;B[jf]C[b sees the danger];W[kb]C[one eye!];B[ja];W[je]LB[le:A]
+C[connect and almost 2 eyes
+
+JT: this is two eyes already, as black can't play the eye-stealing move at A. But as I said, there's no way this wall is going to die unless something goes very badly wrong.]
+;B[eq];W[ep]LB[dq:A][cr:B]C[.. prefer  limit his territory upwards to protect corner
+
+JT: The last black move was quite odd, and I'd be happy to play A now, to secure the the corner. Black could now slide to B.]
+;B[fq];W[dq]C[.. but protect corner
+
+JT: right, this is very big.];B[rj];W[ri]C[... this is w territory!
+
+JT: well, after this exchange it pretty much is, up to the fourth line.]
+;B[rk];W[pk];B[pl]LB[ol:A]C[JT: You shouldn't stop pushing here. The hane at A expands your own moyo and keeps your opponent's back.]
+;W[mq]LB[hq:B][qq:A]C[... invading,  n4 better for q6 later or ?
+
+JT: if you want to invade here, A is the simplest. If you want to attack black's stones to the left, I think B is best. Since you can't really make two eyes on this edge, this invasion hurts your own moyo.]
+;B[nr];W[nq];B[oq];W[mr];B[or];W[mo]C[about k2 better for a base ? o5 better for q6 ou p8?
+
+JT: yes, I'd play K2. You need to settle yourself here, as running upwards hurts your own moyo.]
+;B[nn];W[no];B[oo];W[mn];B[nm];W[kq];B[jr];W[jq];B[iq];W[kr]
+;B[ir];W[kp];B[jo];W[ko];B[km];W[kn];B[jn];W[mm];B[ml];W[lm]
+;B[kl];W[mk];B[ll];W[nk];B[nl]
+(;W[lp]C[JT: you're alive, but the invasion has hurt your own moyo badly, and black has become very strong. Also, this move is unnecessary (see var:tenuki)]
+
+(;B[qi]C[JT: see the variations for an endgame technique black should have used rather than this.]
+;W[qh];B[pi];W[oi]C[JT: right.];B[fm]C[...
+sitation not so good. right low corner very big for b, invasion r3 for w
+seems unreasonable. invasion n3 only 2 pts and a big wall for b on the left
+is a failure.
+
+JT: there's no way you can live in R3.];W[fk]LB[kj:A]C[JT: this side is uninteresting, as black can't create a lot of territory here anyways. I'd play A.]
+;B[ek];W[ej];B[fi];W[fj]LB[el:A]C[JT: Should be A to capture.]
+;B[el];W[fl];B[em];W[dl];B[dn];W[cn];B[do];W[co];B[fo];W[eo]
+;B[en];W[dk]C[JT: only one point, and in gote.];B[gm];W[hg]
+LB[fe:B][ih:C][kj:A]C[too small? m12 better?
+
+JT: I prefer A. You can push in around B later if black doesn't shut this, and if he does, you'll play C.]
+;B[hi];W[hj]LB[jh:A]C[JT: this side is uninteresting. I prefer A now, to defend.]
+;B[ii]LB[jh:A]TR[jf]C[JT: black is threatening to connect his triangled stone to his live group. You should cut at A.]
+;W[li];B[kj];W[lj];B[kh];W[lh];B[kg];W[lg];B[ik];W[ij];B[jj]
+;W[ki];B[ji]C[... bad sequence begining for w];W[gi]LB[ee:A]
+C[JT: I prefer A here.];B[gh];W[gj];B[gg];W[gf];B[fg];W[ff]
+;B[eg];W[ef];B[df];W[de];B[ce];W[dd];B[dc];W[fd];B[gd];W[fc]
+;B[fb];W[fe];B[kf];W[lf];B[if];W[hf];B[ed];W[ee];B[ig];W[hh]
+;B[ih];W[eh]C[useless, bad reading.];B[dg]C[end of the bad sequence, w no pts, b 5 pts + big upper r corner.
+
+JT: it's not so bad. Black let you in very deep in the upper left. Remember, taking away the opponent's territory is often just as good as making territory for yourself.]
+;W[hl];B[im];W[hm];B[hn];W[il];B[jl];W[hk];B[jk];W[er]C[JT: this is possibly the biggest point on the board now.]
+;B[fr];W[es];B[fs];W[dr];B[np];W[mp];B[ls];W[lr];B[ks];W[ms]
+;B[js]LB[fp:A]C[JT: A is looking very nasty for black. See var.]
+
+(;W[ol]C[JT: good, keeps sente.];B[om];W[ok];B[qm];W[ph]LB[sj:A]
+C[JT: no reason to capture these stones. Just play A.];B[si]
+;W[sh];B[sj];W[ai];B[ah];W[aj];B[fp];W[gl];B[lk];W[sc];B[ns]
+;W[op];B[po];W[np];B[cp]C[... invasion, w under time pression about 1mn for 15 moves
+
+JT: black can't succeed here.];W[bp]C[JT: right.];B[cm];W[bm]
+;B[bo];W[cq];B[bn];W[cl];B[tt];W[pq]C[... w invades
+
+JT: although this shouldn't work (see the variations), I'd have been afraid as black to leave this kind of a cutting point. This is a very nice way to try how well your opponent can defend.]
+;B[pr];W[qq]
+(;B[rr]C[.... big mistake!
+
+JT: right. See the variation, this shouldn't succeed.];W[qr]
+C[*magnus*: :(];B[rq];W[qp];B[rp];W[qo];B[ro];W[qn];B[rn];W[ps]
+;B[rs];W[os]LB[pn:A]C[JT: no reason to capture, just push at A.]
+;B[pn];W[qs]C[*magnus*: i guess i lost now
+*magnus*: very bad move by me];B[ap];W[aq];B[am];W[al];B[bk]
+C[JT: you can pass now, for one extra point.]
+(;W[an];B[bl];W[ak];B[br]C[JT: same here, this is no peep as the stones are already connected.]
+;W[ao];B[tt]C[vazy: sure!
+
+end of the time pressure for w.];W[bq];B[rg];W[rh];B[me];W[le]
+C[JT: no reason to connect this. The groups are connected anyways and black can't cut at M15 after this. You could just pass here, too.]
+;B[nf];W[og];B[ng];W[nh];B[mh];W[mi];TW[lc][kd][sd][me][ne]
+[oe][pe][qe][re][se][mf][nf][of][pf][qf][rf][sf][mg][ng][pg]
+[qg][rg][sg][mh][oh][ni][pi][qi][mj][nj][oj][bk][ck][gk][bl]
+[am][cm][bn][ln][bo][lo][ap][cp][lq][oq][ar][br][cr][nr][or]
+[pr][as][bs][cs][ds][ns]TB[aa][ba][ca][da][ea][fa][ga][ha][ia]
+[oa][pa][qa][ra][sa][ab][bb][cb][db][eb][ib][ob][ac][bc][cc]
+[ad][bd][ae][be][af][bf][cf][ag][bg][cg][jg][dh][eh][fh][jh]
+[kk][sk][ql][rl][sl][jm][pm][rm][sm][fn][gn][in][on][sn][go]
+[ho][io][so][gp][hp][ip][sp][gq][hq][sq][gr][hr][sr][gs][hs]
+[is][ss]C[JT: I'd say you made no huge mistakes in the game. It's rather hard
+(at least at my level) to comment a game like this that has very little fighting, but I think you lost somewhat in the endgame (I think you could have gotten more territory in the center). Also, you should apparently have exchanged L19-J19 for one point (some servers score this right automatically).]
+)
+(;W[tt];B[bl];W[an]C[JT: black can't push on either side.]))
+(;B[qr];W[rq];B[rr];W[sr];B[rs];W[ps];B[qp];W[rp];B[ro];W[so]
+;B[sp];W[sq];B[ss]C[Oiotoshi.]))
+(;W[fp]
+(;B[gp];W[go]
+(;B[fn];W[gq];B[hp];W[gr]C[JT: black loses four stones, so he probably won't play this way.]
+)
+(;B[gq];W[fn];B[gn];W[fo]C[JT: nasty reduction for black.];B[ho]
+))
+(;B[gq];W[go];B[gp];W[fn];B[gn];W[fo])))
+(;B[rh]
+(;W[qi];B[si]C[JT: this means bad things for your right side territory.]
+)
+(;W[si];B[qi]C[W can't capture this stone immediately, so this is a big failure.]
+)))
+(;W[tt]
+(;B[np];W[mp];B[ms];W[lr]C[JT: M4 and M5 are miai])
+(;B[lp];W[np];B[ms];W[lr];B[lo]C[JT: seki])))
+(;B[aj]C[JT: if black plays here, just extend once. See variation.]
+
+(;W[ak];B[bk];W[ai];B[ah];W[aj];B[al];W[cj];B[bm];W[ck];B[bl]
+;W[bo];B[dl];W[cl];B[el];W[gp]C[... defending the corner.])
+(;W[bk];B[ak];W[al];B[ai];W[bl])))
+(;W[jb];B[je];W[ie];B[jd];W[jf];B[kf];W[id];B[ke];W[if]C[Black has been forced to a horrible lump with no eye shape. If he tries to run downwards, you'll make territory to the left.]
+))
+(;W[mc];B[mb];W[nb];B[ob];W[lb];B[na];W[kb]C[JT: Black can't capture this group, and his two stones are floating right next to your thickness. If black wants to cut at S16, let him - it's gote.]
+))
+(;W[qb]
+(;B[rc];W[rb];B[rd];W[re]C[B has two liberties, W has 3.])
+(;B[ob]C[In practice, B blocks here.];W[od]
+(;B[mc])
+(;B[lb];W[nc];B[nb];W[mb];B[ma];W[mc];B[lc]))))
+(;B[pc];W[oc];B[ob];W[nc];B[nb];W[mb];B[rd];W[re];B[rc];W[qf]
+LB[pk:A][qq:B]C[Now you have a choice of magari (turn) at A or invasion at B.]
+))
+(;B[rk];W[pk];B[pl];W[ol];B[pm];W[qd]LB[ri:A]C[White has an ideal moyo, and black's moyo has been reduced horribly. There is endgame aji at A, but black's going there now would just make white stronger.]
+)
+(;B[pk];W[ok];B[ol];W[nl];B[om];W[nk]C[Black's moyo has been reduced badly.]
+))

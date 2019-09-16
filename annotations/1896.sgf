@@ -1,0 +1,128 @@
+(;FF[4]GM[1]SZ[19]ST[1]CA[UTF-8]AP[SGFC:1.14]
+
+PB[Jedyte]
+BR[27k]
+PW[Kenn]
+WR[22k]
+KM[6.5]
+DT[2003-08-31]
+PC[The Kiseido Go Server (KGS) at http://kgs.kiseido.com/]
+RE[W+97.50]
+TM[1800]
+
+C[Kenn [22k\]: hi];B[pq]C[Jedyte [27k?\]: hi
+**Hello, I hope you enjoy my comments];W[cd];B[pd];W[dq]C[Good fuseki is still one of go's biggest mysteries to me, but I figure that's normal at my level.]
+
+(;B[nc]LB[jc:A][qc:B]C[Securing corner here. Would it've been better to go for middle side points?
+
+**In this situation the best way for black to develop his corner stone would be the extension at A (see variation). O17 doesn't secure the corner since an invation at B is possible.]
+;W[cj]
+(;B[jq]LB[cd:B][cj:C][co:D][dq:E][ec:A]C[**The stone at A is probably the biggest point on the board at the moment. If white gets this point, stones A, B, and C form very good shape. Notice how stones A and B together are facing C. Notice also that point D is not as urgent since points D and E together are not facing stone C. This opening theory is very common and good to know.]
+;W[qj]
+(;B[qg]TR[jq]LB[qn:B][qo:A]C[**Playing at A or B here would be better due to the marked stone for the same reasons we just discussed. (see variation)]
+;W[qo]LB[qm:A]C[**White is over extended here. There is a good invation point at A.]
+
+(;B[ec]LB[qm:A]C[**good. And A would be also OK.(see variation) but at this point in the game your move is the best.]
+;W[gd]
+(;B[id]TR[ec]LB[ee:A]C[Is this a good way to counter?
+
+** It's ok because it and extension of your stones in the upper right corner except that now white can attack the marked stone and force it to live small in the corner while building a big wall on the outside by playing at A. see variation.]
+;W[fc];B[dd]C[Kinda stuck for next couple of moves here...]
+;W[ed];B[cc];W[de];B[dc];W[fe];B[ce];W[cf];B[bd]LB[be:A]C[Playing at A here makes better shape. Capturing the stone, as tempting as it can be, is not always the solution.]
+;W[be]LB[be:A]C[**Can you see now why descending at A instead of capturing the stone gives a better result?]
+;B[bf]LB[op:B][qm:A]C[** This is interesting if you want to play a ko. There is a proverb that says however that there are no ko threats in the begging of the game. So it's perhaps to early for this. I would have just left it alone for now. There are bigger points such as A or B that can be played.]
+;W[cd];B[bg]TR[bf]C[This is a small move. Trying to save the marked stone is not a good idea. Just leave it alone for now. There are bigger points on the board as mentioned earlier. And there is not much to gain from trying to live so close to thickness.]
+;W[ce];B[bb];W[ae];B[dg]LB[co:B][op:A][qm:C]C[**There are much bigger points on the board at the moment such as A, B or C. I find that one of the hardest things things in go is to keep a whole board perspective. You always have to keep asking yourself if the move you're about to play is the biggest move on the board.
+**There is also a very important concept in go that says to play away from thickness. White's huge thickness on the top left has a big advantage over black's three stones therefore black can't for a good result.]
+;W[cg];B[ch];W[dh];B[bh];W[eg]C[**Whites thickness is getting bigger and bigger and black's stones are dead]
+;B[gf];W[eb];B[fb];W[gb];B[db];W[fa];B[da];W[ea];B[ad];W[bi]
+C[Here I notice that with that one move the black cluster above it can't be rescued no more (I think). I wonder what I should've done to keep it alive...
+** Trying to keep it alive was the mistake.];B[ff];W[ie];B[he]
+;W[hd]
+(;B[if]C[**THis is probably in the wrong direction. See variation]
+;W[je];B[jd];W[ke];B[kd]C[How long should I continue this? Is it really in my advantage?]
+;W[le];B[hc]LB[ib:A]C[I think those 3 stones there will give me sufficient space to make eyes above, so I try to close off to the left
+**Black is still open on the side. White have a very good invation point at A. Black should have played at A to close the left.]
+;W[gc];B[gq];W[fq];B[fp];W[eq];B[en];W[dn];B[dm];W[cm];B[ep]
+;W[do];B[cn];W[co];B[bn];W[bm];B[am];W[bo];B[em];W[ic];B[me]
+MA[id][jd][kd]LB[lc:B][ld:A]C[**This is a mistake. Black should have played at A or B to save the three marked stones.]
+;W[ld];B[lc];W[kc];B[md];W[lb];B[mc];W[jh];B[ji];W[jj];B[ki]
+;W[nq]
+(;B[np]LB[nq:A][qo:B]C[**Black can better attack the stone "A" by first attacking the stone "B". see variation]
+;W[op];B[pp];W[oq];B[oo];W[po];B[no];W[qq]LB[pr:A]C[**White should have played at A here. This kills the two black stones.]
+;B[pr];W[or];B[mq];W[qr];B[nr];W[pl];B[pm]MA[dm][em][en][ep]
+[fp][gq][jq][mq][no][np][nr][oo]LB[nl:A]C[**Playing at A instead works better with the marked stones]
+;W[om]C[Don't know how to ensure connection of the stone at R7 to the cluster below
+**Sacrifising is the way to go here. (see variation)]
+(;B[pn];W[on];B[qn];W[rn];B[qi];W[qc]MA[nc]C[**This is the reason that the marked stone does not secure the corner (remember opening). See variation to see how white can live and how black should handle this.]
+
+(;B[rc];W[rd];B[rb];W[qb]C[I try to crush white in the corner here...]
+;B[qa];W[pa]C[But I only end up killing myself];B[sa];W[ra]
+;B[ol];W[ok];B[nl];W[nm];B[mm];W[qm];B[qa];W[sc];B[pb];W[ra]
+;B[oa];W[sb];B[qa];W[pc];B[oc];W[pa];B[ob];W[mb];B[qa];W[nb]
+;B[kb]C[Is there a way to destroy white's N18 cluster???
+**I can't see how this would be possible.];W[jc];B[la];W[jb]
+;B[qd];W[re];B[rf];W[qe];B[pf];W[pe];B[od]LB[of:A]C[**A is better here because it connects black's two groups. Notice that blacks two groups don't have two eyes yet so the priority should be in connecting a making life instead of saving the two stones.]
+;W[oe];B[se];W[sd];B[sf];W[of];B[nf];W[og];B[oi];W[ng];B[mg]
+;W[pg];B[qf];W[ph];B[qh];W[pi];B[pj];W[oj];B[mi]LB[rj:A]C[**Black should play at A to try to live on the right side.]
+;W[lh];B[lg];W[ne];B[kh];W[mf];B[lf];W[nf];B[ih];W[jg];B[jf]
+;W[ge];B[hf];W[ri];B[dp];W[cp];B[cq];W[bq];B[cr];W[br];B[dr]
+;W[er];B[fr];W[eo];B[fo];W[kj];B[li];W[lj]C[I don't want white bordering off all that center territory]
+;B[mk]C[but I also want to keep the black cluster at M11 alive]
+;W[nk];B[ml];W[mj];B[il]C[Maybe this move is close enough to threaten white, but safe enough too
+**yes, this is good];W[nj];B[ni];W[nh]C[I knew those white stones at M12 and K12 are dead, but when white tried this, I had to capture them of course]
+;B[mh];W[ii];B[ig];W[mn]TR[mk][ml][mm][nl][ol]MA[no][np][oo]
+C[I had expected this attack on the black N8 cluster, or one on the J14 cluster
+**J14 groupe is alive now so don't worry to much about it. Responding to N6 is crucial since it threatens two of blacks groups]
+;B[hi]C[I do this because it seemed wiser no to let white go left.
+I still have a stone at J8, so this seemed safer then playing K10]
+;W[lm];B[kk];W[lk];B[ij];W[jk];B[kl];W[jl];B[km];W[ll];B[jm]
+;W[ik];B[hk];W[im];B[jo]C[Trying to keep L7 cluster alive];W[hl]
+;B[ko];W[gk];B[hj];W[in];B[ef]C[Threatening white D15 cluster and making eyespace for that black cluster]
+;W[df];B[ee];W[fd];B[hb];W[ha];B[fh]C[Closing off eyespace]
+;W[ah];B[ak]C[Maybe I can save stones below at 6 and 7 when making it seem like rescuing cluster above?]
+;W[bk];B[bl];W[an];B[cl];W[dl];B[dk];W[el];B[fk];W[ek];B[ej]
+;W[fl];B[fm];W[gl];B[hm];W[fj];B[gm];W[dj];B[ei];W[eh];B[fi]
+;W[ag];B[di];W[ci];B[fg];W[af];B[gj];W[il];B[ho];W[hn];B[gn]
+;W[io];B[ip];W[jn];B[kn];W[lo];B[lp];W[ln];B[mo];W[qp];B[os]
+;W[qs];B[ps];W[bs];B[es];W[cs];B[ds];W[rh];B[ap];W[bp]C[Just to force white to move. Maybe he makes a mistake, fi not, nothing lost]
+;B[kf];W[tt]C[**I have enjoyed commenting your game and I hope it will be usefull to you. I have noticed a few points were you could improve. 
+1. Don't try to save every single stone you play. Sometimes sacrificing one or several stones is the right strategic choice. 
+2. Reading ability could be improved. Playing lots of games and reading books will help this. 
+3.Play away from thickness. This was definitly an issue in this game.
+Here are a few books that I have found very helpfull in improving my game that you may find usefull as well.
+ -Graded Go Problems for Beginners (Publisher: Kiseido)
+ -Tesuji, Elementary Go Series, Volume 3 (Publisher: Kiseido, Author: James Davis)
+ -Opening Theory Made Easy (Publisher: Kiseido)];B[tt]TB[aa]
+[ab][ac][ba][bc][ca][cb][dq][eq][er][fn][fq][fs][gg][gh][gi]
+[go][gp][gr][gs][hg][hh][hp][hq][hr][hs][ii][iq][ir][is][jg]
+[jh][jp][jr][js][kg][kp][kq][kr][ks][lh][lq][lr][ls][mp][mr]
+[ms][nq][ns][op][oq][or]TW[ai][aj][ak][al][am][ao][ap][aq][ar]
+[as][bf][bg][bh][bj][bl][bn][ch][ck][cl][cn][dg][dk][fb][ga]
+[hb][hc][ia][ib][id][ja][jd][ka][kb][kd][la][lc][ma][mc][md]
+[me][mk][ml][mm][na][nc][nd][nl][oa][ob][oc][od][ol][pa][pb]
+[pd][pf][pj][pk][pm][pn][qa][qd][qf][qg][qh][qi][qk][ql][qn]
+[rb][rc][rf][rg][rj][rk][rl][rm][ro][rp][rq][rr][rs][sa][se]
+[sf][sg][sh][si][sj][sk][sl][sm][sn][so][sp][sq][sr][ss]C[Jedyte [27k?\]: yep
+Kenn [22k\]: thank for the game
+Jedyte [27k?\]: thanx
+Kenn [22k\]: cya
+Kenn [22k\]: bye])
+(;B[qd];W[rd];B[re];W[rb];B[sd];W[sc]C[**White can live with if he wins the ko. Black should play to keep white in the corner.]
+))
+(;B[on];W[pn];B[nm];W[ol];B[nl]C[This is a better result for black.]
+))
+(;B[po];W[pn];B[oo];W[qp];B[oq]MA[nq]C[**By doing so, black is now much stronger and the marked stone is now very week.]
+))
+(;B[je];W[if];B[jf];W[ig];B[ic]C[**I think this is better for black]
+))
+(;B[fe];W[df];B[cc];W[bc];B[dd];W[ce];B[cb]TR[gd]C[**Blacks stones are alive in the upper left corner, they work well with the stones in the upper right corner and white doesn't have a huge wall facing the outside. The marked stone is now very weak.]
+))
+(;B[qm];W[oo];B[np];W[no];B[mp];W[pm];B[pl];W[ql];B[qk];W[rl]
+;B[rk];W[rm];B[pj]C[**One of many possible variations]))
+(;B[qn];W[qg];B[ec]C[**Now black stones at the bottom are working well with each other and black prevents white from getting the big point in the top left corner.]
+))
+(;B[ec]))
+(;B[jc]LB[jc:A];W[qf];B[nd];W[rd];B[qc];W[qi]LB[ed:B][jc:A]
+C[This is a very common joseki for when black plays at A. Black gets a modest amount of territory at the top and white makes a base on the left. Black now have a good move at B.]
+))

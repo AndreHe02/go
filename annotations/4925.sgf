@@ -1,0 +1,81 @@
+(;FF[4]GM[1]SZ[19]ST[1]AP[SGFC:1.15]
+
+GN[Skizo-gerryg-310109-20070511]
+PB[Gerry Gavigan (gerryg)]
+BR[18 kyu]
+PW[Jonathan Schaeffer (Skizo)]
+WR[16 kyu]
+KM[6.5]
+DT[2007-04-21,2007-05-11]
+PC[Dragon Go Server: http://www.dragongoserver.net/]
+RE[B+Resign]
+
+C[Hi,
+
+Here is a game I played on DGS. I am white here.
+Until move 50  I was quite happy on my situation.
+But then everything splashed out. Can you help me understand what I did wrong ?
+
+Thank you.
+
+PS : It is the first time I ask for a review, so you might find my comments unusefull ... forgive me :)
+
+
+Eric: Hello, I'll be your reviewer today. Hopefully you find my comments useful :)
+
+Besides allowing black to have such a large top right (which is a hard thing to see coming sometimes and hard to prevent) you just made a few tactical errors that cause the rest of the board to not go so well.]
+;B[qd];W[dp];B[qq];W[dd];B[iq];W[po]C[My initial goal was to prevent B to build influence.
+
+Therefore I try to split the B stones.
+
+Eric: If you care much about openings, right here, playing somewhere on the top edge probably would have been better.
+
+That and this approach seems too high. maybe R5 or even the non-approach of R10 would have been better.
+
+Because this move and your insitance on pressuring black's corner is what lead to black having such a large amount of territory in the top right.]
+;B[pp];W[qo];B[qk];W[rl];B[rk];W[ql];B[lc];W[nq]C[This is my attempt to isolate the B stones in the corner.]
+;B[op];W[kq];B[no];W[om];B[ok];W[mm];B[lo];W[pr];B[qr];W[jp]
+;B[ip];W[jo];B[kn];W[gq]C[I was happy here to have secured the bottom of the goban]
+;B[dg];W[ci];B[bg];W[be];B[fc];W[eb];B[fb];W[ec];B[ck];W[ei]
+;B[ek];W[gi];B[ih];W[fg];B[bi];W[bj];B[bh];W[cj];B[ch]
+(;W[cf]C[I wanted to kill. Maybe this move was not clever. I should maybe have cap at F16 or F15
+
+
+Eric: I think this move is unnecessary. black can't make two eyes as of yet. Something like E14 to seal him in would probably be better.]
+;B[ef];W[ff];B[bk];W[aj];B[ak];W[di];B[bf]
+(;W[ae]C[Eric: Here, there is no need to close the bottom like that. Since black still has the potential to make an eye on the side if he plays first reguardless of whether bottom is closed, and no potential for two. C15 would have been much stronger.]
+;B[ce]C[From there on, the situation became stinky ...];W[de]
+;B[cd]
+(;W[bd]C[Eric: B16 is a mistake. If it were C17 instead, black is caught in a ladder and you have no worries.]
+;B[cc];W[bc];B[df];W[cb];B[ee];W[ed]C[This is another mistake. D17 was vital.
+
+Eric: Yeah. It would have helped a lot :)];B[fe];W[fd];B[ge]
+;W[gd];B[hb];W[cm];B[cg];W[hn];B[jn];W[io];B[hj];W[gk]C[Eric: I think F9 would have been better here. But I think it works, though things would have been much more complicated for you had black chosen to play F10 instead of G10.]
+
+(;B[gj];W[fj]C[I still wanted to separate  th e black group in the middle and prevent B to connect.]
+;B[fk];W[gl];B[em];W[dl];B[dk];W[dn];B[ll];W[hg]C[I have to make this group alive.]
+;B[he];W[ig];B[je];W[kg];B[mg];W[jh];B[il];W[ii];B[gm]C[This one hurt. I thought B would answar my attacks.]
+;W[fl];B[el];W[fm];B[fn]C[Eric: Here there is still a way to save the F8 group: H7 instead of G6.]
+
+(;W[gn]C[Eric: As you saw, this doesn't work. H7 instead :)]
+;B[hm];W[fo];B[en];W[eo];B[hl];W[mp];B[mo];W[lp];B[ki];W[ke]
+;B[kd];W[jf];B[ie];W[gb];B[gc];W[fa];B[hc];W[ga];B[ha];W[ea]
+;B[hd]
+(;W[dc]C[Eric: Here the treat at D17 will force a response, but it wastes a ko threat and would require a follow up move at C19. D18 is a much stronger move.]
+;B[cf];W[lh];B[mi];W[li];B[lj];W[mh];B[nh];W[mj];B[ni];W[kj]
+;B[lk];W[jj];B[lg];W[lf]C[This is another obvious mistake];B[kh]
+;W[ji];B[le];W[if];B[kf];W[jl];B[in];W[hp]C[Eric: This move seems unnecessary.]
+;B[dm];W[bm]C[Eric: C6 would have been better.];B[cl];W[rp]
+C[Eric: Because here, black could C6.]
+(;B[rq];W[pq];B[qp];W[ro];B[mf];W[nk];B[nl];W[ml];B[mk];W[ol]
+;B[bb];W[ab];B[da];W[ca];B[db]C[Eric: This is why you needed D18 instead of D17 or why you needed to follow D17 with C19.]
+;W[ba];B[nj];W[nm];B[nk];W[ik];B[hk];N[RESULT]C[Result: B+Resign]
+)
+(;B[cn];W[do];B[bn];W[bo];B[am];W[co];B[bl]))
+(;W[db]))
+(;W[hm];B[gn];W[hl]))
+(;B[fj];W[gj];B[fi];W[fh];B[eh];W[fk];B[ej];W[dk];B[el];W[dl]
+;B[dj];W[em];B[fl];W[fm];B[gl];W[hl];B[gm];W[gn]))
+(;W[cc];B[bd];W[bc]))
+(;W[ce]))
+(;W[ef];B[bf];W[ce];B[cf];W[ai];B[ah];W[af];B[aj];W[bk]))

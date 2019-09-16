@@ -1,0 +1,178 @@
+(;FF[4]GM[1]SZ[9]ST[0]AP[SGFC:1.13b]VW[]
+
+PB[Unknown]
+HA[0]
+PW[John Sullivan]
+WR[30 Kyu]
+KM[5.5]
+
+C[9x9 games are a fine way to start playing Go.  They are quick
+and you can get a lot more games played that way.  This small
+of a board removes a lot of the strategy in Go, however.  Move
+up to 13x13 and 19x19 as soon as you can.  It is best to play
+a variety of sizes right from the start, not focus on 9x9.
+
+Also, I don't know who played black.  It is helpful to play as
+many different opponents as you can.  Each person will have a
+different style and you will learn more by being exposed to many
+players.  Computers are OK as opponents, but they are not a great
+substitute for playing a human.
+Reviewed by Steve Carder S_Carder@compuserve.com on May 20, 2000]
+;B[ee]SQ[gg][fg][gf]C[This is an unusual start for black.  Generally one starts near
+a corner, like at one of the squares.];W[dc];B[fg]
+(;W[fc]TR[dg][cf]SQ[gd]C[This is too close to white's other stone.  In the beginning it
+is best to spread stones out to "sketch in" areas of potential
+territory.  Later, each side will fill in the "sketch" with real
+lines of stones.   Playing at the square still starts to take
+the upper right corner, but it also undermines black's center
+stone.  Playing at one of the triangles starts to take the lower
+left corner.
+See the variation.];B[ce]
+(;W[cd]SQ[ge]C[This is rather passive.  Playing at the square is better since
+it is still connected to the upper right corner, but pushes into
+black's area better.   A more difficult move would be to invade
+black's lower left corner.  See the variation for an example
+invasion];B[be]
+(;W[bd]SQ[ge]C[The square is still the best place for either person to play.
+See the variation for a possible way for white to win by playing
+there now instead of at eight.];B[ge]TR[ai][bi][ci][di][ei]
+[fi][gi][hi][ii][ih][hh][gh][fh][eh][dh][ch][bh][ah][ag][bg]
+[cg][dg][eg][gg][hg][ig][if][hf][gf][ff][ef][df][cf][bf][af]
+SQ[ic][ib][ia][ha][hb][hc][gc][gb][ga][fa][fb][eb][ea][da][db]
+[cc][cb][ca][ba][bb][bc][ac][ab][aa]C[This move puts white behind by a large margin.  At this point
+white can expect to get the 24 spaces marked with squares while
+black can expect to get the 35 spaces marked with triangles.
+This sort of estimated score is important to do in your mind
+regularly throughout the game.  Now white would need to do something
+drastic to win.  A desperate invasion might work]
+(;W[gd];B[hd];W[hc];B[fd]
+(;W[gc]C[This is a nice solid response, but a riskier response may be
+in order since white is behind.  See the variation.];B[he];W[ed]
+;B[fe];W[de]TR[id]SQ[ae]C[I would save this move and play at the square first.  Move 18
+probably loses Sente while playing at the square does not.  Playing
+at the triangle does lose Sente for white, so save that for after
+playing at 18.  In the end game, play all of your Sente moves
+first, then play a Gote move];B[df];W[dd];B[cf]C[I don't think that black needs to connect here, so black should
+play somewhere else instead.];W[dg]C[This is a bit late to make an invasion.  It probably won't hurt
+to try, but it would be more likely to work if started before
+black has such solid line of stones.];B[eg];W[cg];B[bg];W[bh]
+;B[ah];W[ci];B[ad]C[Black has decided that the invading stones can't live.  He thus
+plays elsewhere rather than waste another move on them.  I agree
+that they are dead unless black really makes a big mistake.]
+;W[ac]C[If you are serious about the invasion, you could ignore black's
+move and keep trying to make your stones live.  If you agree
+that they are dead, it is OK to give up on them at this time.
+Just be sure you played here because you know they are dead,
+not as a reflex response to black.];B[ae];SQ[bc][id]C[White passes
+
+White should play at one of the squares if he wants to finish
+out the end game.];B[ic];W[ib];B[id];W[hb];W[eh]C[It is unusual to go back to these stones after abandoning them
+a few moves ago.  If you thought that they still had potential
+you should have continued with them then.  If you know they are
+dead then you can't accomplish anything with this move.];B[fh]
+;W[di];B[dh]SQ[bc]C[Someone should play at the square to be really finsihed with
+the end game.  Since black is a head by a large margin, it isn't
+really critical to do this however.
+
+This game go off to a poor start for white in the opening.  After
+that it was almost impossible for white to catch up.  It is important
+to make frequent estimates of how much potential territory players
+have.  Once you are obviously behind it is often too late to
+react.])
+(;W[he];B[gc];W[id];B[gd];W[hf];B[hg];W[gf];B[ff];W[gg];B[gh]
+;W[hh];B[hi];W[ig];B[fh]C[This exchange allows white to live in the corner but lets black
+break into the upper side.  It is hard to tell if white will
+come out ahead, but desperate times call for desperate measures.]
+))
+(;W[hf];B[he];W[gf];B[ff];W[gh];B[gg];W[hg];B[fh];W[gi];B[if]
+;W[ig];B[ie];W[fi];B[ei];W[hh];B[ii]C[This keeps white from making two eyes in the corner.]
+;W[eh]C[Black normally would connect here to prevent this atari.]
+;B[dh];W[di];B[ci];W[ei];B[ch];W[eg];B[ef];W[dg];B[df]SQ[cg]
+C[Black should play at the square here.];W[cg];B[bg];W[bh];B[ah]
+;W[bi];B[cf]C[This reqires black to make some mistakes, so it may not work.]
+))
+(;W[ge];B[bd];W[gg]C[White is giving up the upper left corner in exchange for the
+lower right.  This can be a better strategy than just reacting
+defensively to black];B[cc];W[dd];B[gh];W[hh];B[fh];W[ff];B[ef]
+SQ[hg]C[Black could also play at the square and atari white]
+;W[de];B[df];W[cb];B[bc];W[fe];B[ed];W[ec];B[fd];W[gd];B[bb]
+;W[db];B[ca]
+(;W[hg]C[This is an important cutting point to protect.  It is worth letting
+black have an extra move on the upper side to defend here.  In
+fact it would have been wise for white to defend here sooner
+and let black have a bit more in the upper left.];B[da];W[ea]
+;B[ba];W[gi];B[fi];W[hi]
+(;B[eg]C[Black needs to play here.  See the variation for what happens
+if black jus passes this turn.
+This gives a score of
+Black 22
+White 22])
+(;B[tt]C[Black passes, thinking that the game is over with black ahead
+by one point...];W[eg];B[eh];W[dg]TR[fd][ed][ee][ef][df]C[The stones marked with triangles are in atari]
+;B[cf];W[dh]SQ[fi][gh][fh][fg][eh]C[Now the stones marked with squares are dead and black has lost
+the game.]))
+(;W[da];B[hg];W[gf];B[ih];W[hf];B[hi];W[if]C[See how this result is worse for white than if the cutting point
+was protected])))
+(;W[df];B[de]C[Black has to play here to keep white from pushing out to his
+other stones at the top];W[ef];B[ff]C[Again black plays to contain white]
+;W[cf];B[bf]C[Now the race to make two eyes begins.  This would never work
+if white was on the third line.];W[bg]
+(;B[be]SQ[bf]C[Black has to play here to prevent white from capturing the marked
+stone.  See the variation.];W[eh]SQ[eg]C[Playing down here rather than at the square is better.  This
+moves has more potential to break out into the lower right corner.]
+;B[eg];W[dg];B[dh];W[cg];B[fh];W[ch]SQ[eh]C[white is forced to sacrifice the marked stone.  A sacrifice is
+often a good strategy if it allows a bigger group to live.]
+;B[ei]
+(;W[bi]SQ[ag][ci]C[This is an important place to start making two eyes.  White needs
+to cut the corner into two eyes and this does the job better
+than either of the squares.  See the variation.];B[ag];W[ah]
+;B[af];W[ci]C[This is one way for white to live.  White has only two points
+of territory, but the main purpose of this invasion was to destroy
+black's corner territory.])
+(;W[ci];B[ah];W[ag];B[ai]C[White is dead now.  There is no way to make two eyes here.  Even
+if white captures the two black stones, it will still leave just
+one eye.]))
+(;B[eg];W[be];B[dg];W[af];B[cg];W[bf];B[bd];W[ch];B[dh];W[ci]
+;B[di];W[ah]SQ[bh]C[Playing here rather than at the square is critical.  White has
+very little eye space and needs to divide it into two sections
+to serve as two eyes.  If black plays at 24 then white dies.
+
+Here white lives with four points of territory and black has
+lost a stone.  This is a better result for white than the main
+variation])))
+(;W[gd];B[ce]
+(;W[gf]C[White has a foot-hold in both upper corners.  A move towards
+the lower corner is now in order.  If white plays one line further
+down, black will play at the marked stone and try to cut white
+off.
+See the variation.];B[gg];W[ff]SQ[gf]C[This strengthens the white's marked stone and forces black to
+play a purely defensive move.];B[ef];W[bd]SQ[cd]C[This is another attempt for force a defensive move from black.
+Things get more complicated if black plays at the square instead.]
+;B[be];W[cd];B[dd]C[This is not a great move for black because he loses the initiative
+(ie Sente) when he has to defend this stone next turn];W[ed]
+;B[de]
+(;W[fd]TR[fd][gd][gf][ff]SQ[ed]C[This move keeps black from playing an atari against the marked
+stone.  See the variation.
+It also creates a very solid "bamboo joint" connection between
+the four stones marked with traingles.];B[fe];W[ge];B[hf];W[he]
+;B[hg];W[ae];B[af];W[ad];B[bf];W[if];B[ig];W[ie]C[White wins with a score of
+black 25
+white 28])
+(;W[fe];B[ec];W[fd]C[White has to connect to save the stone.]
+;B[cc];W[db]C[White again has to play a purely defensive move.]
+;B[bc];W[eb]SQ[cd][bd]C[White knows the marked stones are doomed and tries to salvage
+something by catching the black stone.];B[ad]SQ[ec]C[See how the series of ataris allows black to cut white apart.
+Note the the original stone played by black is a sacrifice.  Even with losing that stone, black came out well ahead in this
+exchange.]))
+(;W[gg];B[gf];W[hg];B[hf];W[fh];B[eh];W[gh];B[ig];W[ih];B[fi]
+SQ[ig]C[Even though black's marked stone is in atari, white is so busy
+trying to make two eyes that he should not bother to capture
+it at this time.];W[gi];B[hi]C[This move keeps white from dividing his eye space into two eyes.
+If white could play here the group would be alive.  Thus, it
+becomes critical for black to play here first.  Most of the time,
+if a particular space is a good move for your opponent, it is
+a good idea for you to play there first.];W[if];B[ie];W[ig]
+;B[he];W[ei];B[di];W[fi];B[dg]TR[ie][he][hf][gf]SQ[ff]C[White is not a live yet, so things don't look so good.  White
+could play an atari at the square and then try to capture the
+stones marked with triangles, but it will only work if black
+makes errors.])))

@@ -1,0 +1,56 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+PB[Black]
+BR[2d]
+PW[White]
+WR[4d]
+KM[5.5]
+RE[W+R]
+RU[Japanese]
+
+C[Dear reviewer,
+
+this is a tournament game I played recently. I'm 2d, Black, playing against a 4d, so it's not surprising I lost, but since I felt I played about as well as I could I'd like some insight into what went wrong.  I have transcribed it until about the end of the middle game.  In the end I lost by about 10 points on the board.
+
+[EV\] This is your reviewer Eric Vella.  My comments will be preceded by [EV\].  You played quite well in this game, but I can point out a few problems along the way.]
+;B[qd];W[dd];B[pq];W[dp];B[oc];W[po];B[qo];W[qn];B[qp];W[pm]
+;B[nq];W[rd];B[rc];W[qi];B[cn]LB[cf:B][cj:A]C[Q: Better at A, maybe?
+
+[EV\] A and B are more common, both probably a little better than your move.]
+;W[cl]C[[EV\] This is the correct direction of play for W.  I won't call it a trap, but W is hoping for a standard joseki response ....]
+;B[cq]LB[en:A]TR[nq]C[[EV\] This is the first real problem.  In this position, W will be happy to give you territory on the bottom in return for influence above.  The reason this is good for W is the marked B stone, which is low and limits the potential of this area.  Extending to A looks better -- make W play on the bottom if you can, so that the marked B stone becomes more efficient, limiting W area.]
+;W[cp];B[dq];W[ep];B[bp];W[bo];B[bq];W[co];B[fq]LB[go:B][fp:A]
+[op:C]C[[EV\] B ends up with two low positions on the bottom which do not work well together, even though they are both joseki.  W should be able to force B even lower with A or B and possibly C sometime in the near future.  You can probably see this result is bad now, so the trick is to see it before jumping into the corner, or even before making the original approach move.]
+;W[df];B[id]C[[EV\] Good.];W[gc];B[cc]C[[EV\] Excellent move, perfect timing.  If you played J16 anticipating this continuation, nice strategy.]
+;W[cd];B[db]C[[EV\] The standard D17 also seems possible.];W[bc]
+;B[bb];W[dc];B[cb];W[bd];B[fb];W[gb];B[fc];W[fd];B[ab];W[ed]
+;B[eb];W[he]LB[ie:B][fp:A]C[[EV\] This seems like a reasonable result for B.  Let's pause and evaluate the board.  You have a lead in solid territory, but W has a  moyo on the side which could easily end up larger than all your territory.  It is a tough decision whether to invade or reduce from outside, which also expands your own territory.  You chose invasion, which is fine.  You should also consider whether simple reduction, with sente moves like A and B, would be enough to win.  If it was W's move now, he would certainly play these moves.]
+;B[dk]LB[ek:A][fk:B]C[[EV\] An attractive invasion point, but quite deep.  If you held back to A or B and W protected the side territory, wouldn't the result be good for B?  Fortunately W answers submissively.]
+;W[dl];B[fk]C[[EV\] Good, jump out lightly.];W[ek];B[ej];W[el]
+;B[fj];W[re];B[qe];W[qf];B[pf];W[qg]
+(;B[ie]C[[EV\] I have a hard time deciding if this move is good or bad.  If you just defend at P15 or move out with the center group around J10, I don't think W has any strong continuation against this stone.  Capturing the stone (see variation) would be small for W.]
+;W[if];B[hf]C[[EV\] This is certainly an overplay.  I might even call it the losing move, or at least the losing strategic mistake.  W is strong around here, so it is very dangerous to provoke a complicated fight.  Just force once or twice on the outside, then move out with your center stones before they get surrounded.  It would still be a difficult game, but at least you would have only one weak group.]
+;W[hd];B[hg];W[jf];B[kd];W[ke];B[jd];W[ih]LB[le:A]C[[EV\] This is your last chance to give up the two stones.  Yes, they are cutting stones, but you have no hope of attacking W on either side, given all the W forcing moves around A.  As long as your center stones survive, a W capture of the two cutting stones is not large.  A move at A for example would be equally large and much safer.]
+;B[hh];W[ii];B[hj];W[ij];B[hk];W[ld];B[lc];W[mc];B[md];W[le]
+;B[lb];W[jb]C[[EV\] W does not need this move.  Better to play on the outside and wrap up the game safely.]
+
+(;B[kc]C[[EV\] It is tempting to ignore W instead of defending submissively here.  Playing on the outside seems like it gives B more chances (see variation for one possibility).  It still takes W another move to capture, so the loss of four stones is not large.]
+;W[pe]C[[EV\] Good cut.  B has no way to avoid a big loss here.  If B defends the corner, W closes off a very large center territory.]
+;B[me]C[[EV\] Nice try in a difficult position.  I think W could still block off the center and win, instead of taking the offered corner.  See variation.]
+
+(;W[qc];B[pd];W[rb];B[mf]C[[EV\] Vital point.  B is behind, but keeping the W center in check gives B some chances.]
+;W[mh];B[nj];W[oi];B[nl];W[ok];B[lh];W[lg]C[[EV\] W should block on the other side.]
+;B[mg];W[li];B[kh];W[mi];B[kg];W[ki];B[lf];W[jh];B[fp]C[[EV\] Vital point.  The continuation is dangerous to the center, but a W play here would be intolerable.]
+;W[fo];B[go];W[gn];B[fn];W[eo];B[ho];W[hn];B[in];W[fm]LB[im:A]
+C[[EV\] W could try splitting with A instead of connecting.  B has no time to defend the side and corner, so this would lead to a very difficult fight.]
+;B[im]C[[EV\] If you saw this connection before playing F4, good reading.]
+;W[io];B[hp]C[[EV\] This gives W another useful forcing move.  Better to just connect at G4.]
+;W[ip];B[hq];W[mo]C[[EV\] W finds a safe way to maintain the lead, without trying to run with the J5 stones (which also seems possible).]
+;B[lp];W[lo];B[kp];W[ko];B[jo];W[jn];B[jp];W[jm];B[jl];W[il]
+;B[hm];W[kl];B[gm];W[ci];B[cj];W[bj];B[ch];W[di];B[dh];W[bh]
+;B[eh];W[cg]C[Can't remember the game too well after this point, so I'm stopping here - it seems decided anyway.]
+)
+(;W[mf];B[nf];W[ng];B[of];W[og];B[pd];W[jl]))
+(;B[nc];W[pe];B[pd];W[oe];B[ne];W[of];B[nf]))
+(;B[oe];W[ld];B[ii];W[jf];B[lf];W[ke];B[lb]C[[EV\] W does not profit by capturing the stone.]
+))

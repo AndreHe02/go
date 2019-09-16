@@ -1,0 +1,100 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+PB[Basti Weidemyr]
+PW[GNU Go]
+KM[5.5]
+DT[2003-10-05]
+RE[B+80.50]
+RU[Japanese]
+US[Basti Weidemyr]
+
+C[Hi,
+my name is Basti Weidemyr [sestir\] (18k? on KGS) and I am playing black against a computer program - GNU Go playing white.
+  A good go player should be able to defeat GNU Go with ease so I tried to win as comfortably as possible. This game, however, was everything but comfortable.
+
+I would be grateful if you would give me some feedback on the opening and prioities in the middle game. Thank you.]
+;B[dd];W[pp];B[pd];W[dp];B[jd]C[[sestir\]: My plan was to take most of the upper edge while at the same time exercising influence in the middle, then attack from below.
+
+rehn: This is a standard opening.];W[cf];B[df]C[[sestir\]: Is this advised if I want to build influence toward the middle? Where did it go wrong?]
+;W[dg]C[rehn: see the branch for joseki that works well when you have stone around k16 like now.]
+
+(;B[ce];W[ef];B[de];W[eg];B[cg];W[ch]
+(;B[bf];W[bg];B[cf]C[[sestir\]: Dango. White has a substantial advantage here, does he not?
+
+rehn:yes, I would not have answered at c14, instead play some big move somewhere else. Like R6, Q10 or K4.]
+;W[qf]C[[sestir\]: Is this an overplay by  GNU Go?
+
+rehn: No, I don't think so.];B[qh];W[qc];B[qd]LB[pc:A]C[rehn: I should have considered playing A instead of R16, which, together with k16, should have supported a large framework on the top.]
+;W[pc];B[oc];W[ob];B[nc];W[of]C[rehn: In this situation you must start to worry about both that the stone at R12 might come under attack and the cutting point at p16.]
+;B[nh];W[mf];B[kg];W[pe];B[od];W[lc];B[ld];W[qj];B[pi];W[pg]
+;B[qg];W[ol]C[[sestir\]: Clearly a bad move from white. Where should GNU play? What about K4?
+
+rehn: even if this move is strange, it might be a good idea for him to protect his stone at r10 in some way. But K4 or K3 would have been big moves.]
+;B[ip]C[[sestir\]: Is it adviced to establish presence on the third or fourth line?
+
+rehn: that depends... If you want to establish life at the edge, the 3rd line might be better. If center influence is more important, the 4th line is better. I would have played K3 or K4, wherefrom I can make a better extension regardless from which direction white approaches.]
+;W[kq];B[fp]C[rehn: Both stones at the forth line seems a little high. Harder to get a base at the bottom.]
+;W[dn];B[fn];W[fc]C[[sestir\]: How dangerous is this?
+
+rehn: I think you have to answer in some way. I can be uncomfortable if he invaes the corner. He does reduce your framework, or rather should have done if he made a follow up move.]
+;B[db];W[eq];B[fd];W[gd];B[ge];W[hd];B[he];W[gg];B[kp];W[lp]
+;B[jq]C[rehn:maybe you should avoid this move (its the same you did in the upper left corner. It might be good if you have support from the surroundings to cut later. see later.]
+;W[ko];B[jp];W[kr]C[Now your group at K4 is bad shape and vulnerable to attack. Especially since white is strong on the left side. If a cut at M5 would have been good, if you had been strong on the right side, the move k3 would have been good.]
+;B[jo];W[bh]TR[fc][lc][gd][hd]C[[sestir\]: Who is leading?
+
+rehn: hard to tell. White has large frameworks to the lower right and bottom and on the left side that together is larger than blacks on the upper and right sides even if the triangled stones are dead. On the other hand, whites corners are still open for attack.]
+;B[lo];W[mp];B[mm];W[fl];B[em];W[oo];B[el];W[kn];B[ln];W[km]
+;B[mk];W[mh];B[mi];W[fk];B[di]C[T];W[nb];B[mc];W[lh];B[ki];W[kc]
+;B[kd];W[gb];B[jc];W[jb];B[ib];W[kb];B[ic];W[kh];B[jh];W[mb]
+;B[li];W[re];B[rd];W[ck];B[ek];W[ik];B[jl];W[il];B[jm];W[rc]
+;B[sd];W[ri];B[rh];W[dj];B[ej];W[fj];B[fi];W[gi];B[fh];W[im]
+;B[jn];W[eh];B[gh];W[hh];B[ei];W[hi];B[dh];W[ci];B[cl];W[bl]
+;B[cm];W[gf];B[hg];W[gm];B[bm];W[bj];B[al];W[bk]LB[ai:a]C[[sestir\]: Would A11 (a) kill white's group along the left edge? I guess not.
+
+rehn: I don't think so. White would have got two eyes by playing D9]
+IT[]UC[1];B[dk];W[ai];B[co];W[do]C[[sestir\]: What can black do at this point, in order to surround white's group at D4-6?
+
+rehn: how about b3? Always good to chase opponent away from corner since it is always easier to live there. See branches for general idea.]
+
+(;B[cp];W[hf];B[ig];W[ie];B[fe];W[jf];B[jg];W[id];B[if];W[je]
+;B[lf];W[fq];B[gq];W[gr];B[hq];W[hr];B[ir];W[cr]C[W];B[cq];W[dq]
+;B[br];W[er];B[cs];W[ds];B[dr];W[hs];B[es];W[is];B[fs];W[fr]
+;B[qq]C[[sestir\]: Black try to cut off white by expanding towards the middle of the lower edge. The remaining part is not important so you may skip it if you wish.]
+;W[qp];B[pq];W[rq];B[rr];W[rp];B[sr];W[ho];B[gp];W[sc];B[nq]
+C[[sestir\]: O2 better?
+
+rehn:yes];W[ns];B[mq];W[lq];B[np];W[mr];B[nr];W[ls];B[os];W[ms]
+;B[js]C[[sestir\]: Black misstake. Should have played O5, should I not?
+
+rehn: yes, or maybe Q2];W[jr];B[iq];W[mo];B[no];W[mn];B[lm]
+;W[or]C[rehn: here you can play p3 in sente before playing p6. P6 should not help you very much since white can cut at o7 anyway.]
+;B[nn];W[oq];B[nm];W[qi];B[ph];W[ak];B[om];W[pl];B[pm];W[ql]
+;B[qm];W[rm];B[rn];W[rk];B[sm];W[rl];B[qn];W[sj];B[pk];W[pj]
+;B[ok];W[oj];B[nk];W[sl];B[qk];W[op];B[sh];W[sn];B[so];W[sm]
+;B[ro];W[qr]C[[sestir\]: I believe, white could have saved both groups.
+
+rehn: yes, white should have played t11.];B[si];W[am];B[bn]
+;W[an];B[ao];W[al];B[sp];W[sq];B[po];W[qo];B[pn];W[gn];B[go]
+;W[in];B[io];W[af];B[ae];W[ag];B[fm]C[[sestir\]: Waste of sente. Should have been J19, K10 or E5.]
+;W[ja]C[rehn: you must answer at j19];B[ii];W[hj];B[ij];W[ia]
+;B[hb];W[ha];B[fa];W[eb];B[ea];W[fb];B[da];W[ga];B[ec];W[jk]
+;B[kk];W[jj];B[ji];W[kj];B[lk];W[lj];B[mj];W[ke];B[le];W[dm]
+;B[dl];W[cn];B[eo];W[en];B[ep];W[ks];B[kf];W[gc];B[on];W[ps]
+;B[hp];W[hn];B[ih];W[gk];B[ds];W[cj];B[gs];W[js];B[tt];W[hc]
+;TW[ka][la][ma][na][oa][pa][qa][ra][sa][lb][pb][qb][rb][sb]
+[ah][bi][aj][gj][hk][gl][hl][hm][pq][qq][lr][pr][rr][sr][os]
+[qs][rs][ss]TB[aa][ba][ca][ab][bb][cb][ac][bc][cc][dc][ad][bd]
+[cd][ed][md][nd][be][ee][me][ne][oe][pe][qe][re][se][ef][ff]
+[gf][hf][mf][nf][of][pf][qf][rf][sf][dg][eg][fg][gg][lg][mg]
+[ng][og][pg][rg][sg][eh][kh][lh][mh][oh][ni][oi][qi][ri][nj]
+[oj][pj][qj][rj][sj][rk][sk][kl][ll][ml][nl][ol][pl][ql][rl]
+[sl][km][rm][sm][kn][sn][bo][fo][ko][ap][bp][aq][bq][ar][cr]
+[as][bs]C[You have tendencies to get somewhat overconcentrated. Study good shape.]
+)
+(;B[bq]
+(;W[cp];B[bp];W[cn];B[bo];W[bn];B[an];W[fq];B[gq];W[gr];B[hr]
+)
+(;W[cq];B[cr];W[dr];B[br];W[cp];B[bp];W[fr];B[es];W[gr];B[hr]
+)))
+(;B[bg];W[bh];B[bf]))
+(;B[ef];W[ce];B[cd];W[cj];B[fd]))

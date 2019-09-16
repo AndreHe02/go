@@ -1,0 +1,67 @@
+(;FF[4]GM[1]SZ[19]AP[SGFC:1.13b]
+
+PB[Ben Finney]
+BR[13k]
+HA[8]
+PW[Yoshi Nagami]
+WR[3k]
+KM[0.5]
+DT[2001-01-09]
+RE[W+Resign]
+GC[yoshi v benf]
+
+AB[pd][dp][dd][pp][pj][dj][jp][jd]C[Howdy,
+
+This game was played against one of the stronger players at the club, who gave me nine stnes but then had to rush off so there was no chance for him to comment afterward.
+
+I was trying new thoughts with fuseki in this game, using the handicap stones aggressively.  I would especially appreciate comments on this.
+
+
+Hwa Teng:
+Basically, the biggest problem in the game is that B doesn't seem to be able separating strong and weak groups.  Often, B strength its strong group and leave the weak one under the bless of W.
+
+That's usually how W is able to catch up in high handicap game.  In fact, if every group has two sure eyes, B would be able use more aggressive moves to attack W - attack, not kill; and this is the true meaning of utilizing the handicap stones.
+
+If you've any question, please let me know.  My login name on igs is Guderian.
+
+-Hwa Teng];W[cf];B[ce];W[fc];B[df];W[nc];B[oc];W[ne];B[pf];W[jf]
+;B[gd];W[cg];B[dg]C[C10 might be better.  If W D13, B E14 --- C13 group is still
+under attack.  Also, D16 is stronger than D10; thus, should strength D10 using C10 rather than made D16 even stronger.  By persuing C13 group, F17 die naturally.  That's how B should use the handicap stones.]
+;W[ch];B[dh]C[C10 --- same reason as before.  W D12 does nothing to B.  (Say, B C10 W D12 B D3 - wouldn't this sequence even better?  If W goes elsewhere instead of D12, B D12 kills, doesn't it?)]
+;W[bj];B[cp];W[gc];B[hd];W[fd];B[dc]C[H17 --- it serve two purposes: settle E16 group AND take out the eye making space of F17 group.  Strength the weak group.  Make F15 and D17 as quavlent.  W has to struggle to live F17, B could strike at M15 or B9.]
+;W[ee];B[de];W[gf];B[le];W[ie];B[hc];W[ge];B[ph]C[M17 --- settle R16 group and you could strike at will later.]
+;W[kd]C[Should L17 to settle the group.  B doesn't have the ability to fight with W (or it won't be a H-9 game).   Once under attack, live ASAP.  Only a lived group has no weak sopt for enemy to use.]
+;B[md];W[nd];B[je];W[ke];B[kc];W[kf];B[lc];W[lf];B[jj]C[B9 --- W's C12 group is not alive yet.  B B9, if W C9 B B8 W C8 BC7 W C10 B E9 --- the who group is still under the gun; if W C10 BC9 W D11 B E11 W C11 B E10 --- even if W lives, B is way too strong outside.]
+;W[qn];B[qo];W[pn];B[np];W[fq];B[eq]C[H3 --- Again, B strength the stronger side.  Without C4, E3 is OK.  Since you played C4, H3 is better than E3.   If W D2, B could C8; besides, B C2 has an eye at corner as well --- no way W could threat the corrner at the presence of C4.]
+;W[qc];B[qd]C[If desire attack, P18 is the move.  R16 give up the corner to W --- W will live the corner anyway (either B R16 or P18), so B ought to takethe loss (P18) and get it back by attacking R6/F3 group.  Also, P18 helps the upper group as well.  To live R16, W doesn't have the time to O18; thus, it's likely B will have N18 later.]
+;W[ck]C[Why does W play this move?  If B doesn't understand it, there's no reason to follow.  On board now, F4/R8/S17/H18 are all big moves.]
+;B[cj]C[B played so many moves to get the top left corner, why not C7 here?  C10 doesn't threat W or gain B any territory --- it only helps W get stronger.]
+;W[bi];B[dk];W[cl];B[fp];W[pl];B[qk];W[lq];B[ro]C[B worry about corner too much...
+ Should have K3, if W M5 N4 M4 O6 - text book case of double play.]
+;W[lo];B[nn];W[nl];B[jn]C[N7, never should allow W to connect.  Without K3, W could live easily underneath (K2/O2).]
+;W[nr];B[mm];W[oo];B[op];W[no];B[mp]C[Had to N5 no matter what.  No worry about the corner --- either
+live by itself or S7 to connect.];W[mo];B[lp];W[jq];B[pr]C[L3 --- if W chose to live the bottom, B M8 keep persuing Q6 group.  Afterwards, B D8 --- a territory grows naturally from K10 to D4 --- this is the result of attacking.]
+;W[kq];B[kp];W[hq];B[gq];W[gp];B[fr];W[gr];B[hp];W[fq];B[he]
+;W[hf];B[gq];W[ip];B[go];W[io];B[kn];W[ql];B[rl];W[ml];B[ll]
+;W[lk];B[jl];W[ho];B[gp];W[hm];B[nj];W[lm];B[ln];W[kl];B[kk]
+;W[jc];B[id];W[hb];B[if];W[ic];B[nb];W[mb];B[ob];W[mc];B[hr]
+;W[iq];B[ir];W[im];B[mn];W[li];B[ih];W[jm];B[km];W[ll];B[bm]
+;W[dl];B[gj];W[ei];B[di];W[fj];B[ek];W[fk];B[gh];W[fh];B[ig]
+;W[ie];B[hl];W[gl];B[hk];W[hi];B[gi];W[il];B[ik];W[ji];B[ii]
+;W[kj];B[hg];W[jk];B[ij];W[el];B[eb];W[cn];B[bn];W[be];B[bd]
+;W[af];B[ks];W[or];B[rm];W[ad];B[ac];W[bc];B[ae];W[qg];B[bf]
+;W[pg];B[qf];W[og];B[qh];W[rg];B[ag];W[sd];B[rd];W[se];B[rc]
+;W[sc];B[re];W[sf];B[mg];W[rb];B[qb];W[qa];B[pb];W[nh];B[mi]
+;W[pk];B[qj];W[rn];B[sn];W[mh];B[oi];W[ps];B[qs];W[qr];B[qq]
+;W[rs];B[pq];W[rq];B[rp];W[so];B[sp];W[sm];B[sl];W[sq];B[po]
+;W[on];B[fm];W[fl];B[dn];W[cm];B[mq];W[mr];B[of];W[nf];B[ok]
+;W[ol];B[nk];W[co];B[bo];W[do];B[en];W[eo];B[ep];W[gn];B[ak]
+;W[bk];B[bl];W[fg];B[rh];W[ah];B[ni];W[bg];B[af];W[ci];B[kr]
+;W[jr];B[js];W[is];B[gs];W[lr];B[hs];W[ls];B[is];W[fb];B[fa]
+;W[ga];B[ea];W[ec];B[db];W[na];B[pa];W[sb];B[sh];W[ra];B[oa]
+;W[ma];B[od];W[oe];B[pe];W[ng];B[aj];W[qm];B[nm];W[om];B[in]
+;W[hn];B[fo];W[fn];B[ef];W[ff];B[ed];W[fe];B[eh];W[ej];B[oh]
+;W[rf];B[mk];W[lj];B[al];W[ai];B[mj];W[sg];B[ko];W[jo];B[oq]
+;W[nq];B[eg]C[The character of 4-4 is not for territory; and corner is not the only place that could become
+territory --- so could side and center.  Attack is NOT equal to kill.  Strength the weak group, then you could attack at will.  Identifing the weak and the strong is also part of your ranking.  It's called "directional errors" --- should push enemy groups to the strong side (potential) but you do the oppose.]
+)

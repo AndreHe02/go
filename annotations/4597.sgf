@@ -1,0 +1,131 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[utf-8]AP[SGFC:1.15]
+
+PB[Volkov]
+BR[2k]
+HA[0]
+PW[LiquidH20]
+WR[1k]
+KM[0.5]
+DT[2006-12-04]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[B+Resign]
+TM[1800]
+OT[5x10 byo-yomi]
+RU[Japanese]
+
+C[Volkov [2k\]: hi
+LiquidH20 [1k\]: hi good game
+
+
+I am white.  I felt like he set the pace early with the low chinese.
+
+crux: Hi, I'm Bernd Schmidt.  I'm 2dan at the local club which means I'm too weak to tell you what the correct moves are, but maybe I can give you ideas what to think about.
+Please use an sgf reader that displays variations properly - cgoban1, qgo, jago, gGo, glGo all work, but cgoban2 (the KGS client) has some problems.
+Since you added a number of variations already, I've marked the ones I added with "(*)".]
+;B[pd];W[qp];B[cd];W[dp];B[ic]LB[cj:B][dg:D][dj:C][oq:E][qf:A]
+C[p3 for white feels low, slow, and that leaves the approach at r14
+
+crux: In the GoGoD database, A-E are the most popular continuations for White (in that order).]
+;W[qf];B[nd]C[Seems to low to protect the r14 stone
+
+crux: Sorry, I don't understand this comment.];W[op]LB[pj:A]
+[rd:B]C[crux: This doesn't occur in professional play, the only options I find in my database are A and B.]
+;B[cn]C[Although I do not want to let him double kakari, I cannot see a good response on the left]
+;W[rd]LB[pj:A]C[Looks bigger and more urgent
+
+crux: Not to me.  I really dislike allowing Black the double kakari in this position.  On the right side, I think I'd rather play A than the game move.]
+;B[fq];W[eo];B[ck];W[jq]C[I wasn't sure about the distance I should attack with, I wanted to push him up and then split him with my e5 group, to work my way into the e9 area, to prevent a moyo
+
+crux: This move seems reasonable, I can't see anything better.]
+;B[dr];W[cq];B[hq];W[cr];B[go]
+(;W[em];B[ek]
+(;W[io]C[I think this might have been a mistake because a black move at f6, followed by the g8 keima looks good]
+
+(;B[gm];W[fl];B[dq]
+(;W[fp];B[dn];W[gp];B[cp];W[gq];B[en];W[ed];B[df];W[cc];B[dd]
+;W[dc];B[ec];W[fc];B[eb];W[fb];B[ee];W[fd];B[bc]
+(;W[ea]C[I now see that this is a mistake];B[bb];W[db]
+(;B[fr];W[gr];B[bp];W[cs];B[bq];W[es];B[fm]C[crux: Seems small.]
+;W[qc];B[er];W[fs];B[ep];W[ld]TR[ic]C[clearly the goal is to split him and attack him, and there is a moyo possibility on the bottom right as well
+
+crux: As you mention a little later, White's top left group isn't looking entirely alive.  Encouraging Black to develop the marked stone may not be the best idea.]
+;B[ie]
+(;W[me]TR[ic][ie]LB[of:B][pf:A]C[too slow?
+
+Where is the vital point to attack and split these groups.  I am also worried about the e19 group
+
+crux: Black is very strong on the left side, so the marked stones have nothing to worry about - they have friends they can run towards. The other two stones can develop with moves like A or B.
+See variations for other ideas on this move.]
+(;B[of];W[mg];B[oh];W[hd];B[id];W[gf];B[ig];W[gh];B[do];W[ii]
+;B[lb];W[mc]
+(;B[mb];W[nc];B[oc];W[nb];B[lc];W[ne];B[oe];W[oj];B[ob];W[na]
+;B[ni];W[jf];B[kd];W[ke];B[jc];W[kb];B[ka];W[jb];B[ib];W[ma]
+;B[je];W[la];B[kc];W[kf];B[ja];W[nj];B[qg];W[rg];B[qh];W[rh]
+;B[qj];W[qk];B[qe];W[re];B[pf];W[rf];B[li];W[mj];B[kh];W[if]
+;B[hf]
+(;W[he];B[hg];W[jg];B[gg];W[fg];B[ge];W[ff];B[gd];W[fe];B[hc]
+;W[dh];B[jh]C[and the game is over.
+
+Thank you for your time!];W[nh];B[mi];W[be];B[cg];W[oi];B[ng]
+;W[mh];B[lg];W[nf];B[og];W[bg];B[ch];W[cf];B[ce];W[bf];B[bd]
+C[LiquidH20 [1k\]: Thanks
+Volkov [2k\]: thx])
+(;W[hg]C[(*)
+crux: Seems to be the better alternative.];B[he];W[jg];B[ge]
+;W[hb];B[ga];W[ha];B[gb];W[gc]))
+(;B[md]C[For some reason this worries me although I do not see a great continuation for black]
+;W[lc];B[le];W[ne];B[oe];W[nc];B[od];W[ng];B[og];W[oc]))
+(;B[gf]C[(*)
+crux: Probably this is Black's best continuation; connect out the two stones while threatening to kill the white group and building up the left side to enormous proportions. White could try to ignore it, but it's not entirely clear to me whether the white group could escape.]
+
+(;W[hb];B[pf]
+(;W[qg];B[nf])
+(;W[pg];B[og]
+(;W[pe];B[of];W[oe];B[ne];W[nf];B[qe])
+(;W[of];B[nf];W[pe];B[ne])
+(;W[oe];B[ne];W[nf];B[of])
+(;W[ne];B[oe])
+(;W[oh];B[nf]
+(;W[ph];B[nh])
+(;W[mg];B[ph];W[qg];B[nh];W[oi];B[ng]))))
+(;W[of];B[hb];W[gb];B[ga];W[hd];B[hc]
+(;W[id];B[jd];W[he];B[hf];W[je];B[gd];W[if];B[ge];W[ie];B[lb]
+)
+(;W[fe];B[he];W[ff];B[fg];W[ef];B[eg];W[de];B[ce];W[cf];B[dg]
+;W[bf];B[be];W[ae];B[bd];W[ch];B[cg];W[bg];B[bi];W[bh];B[ci]
+;W[dh];B[eh];W[di];B[ei];W[dj];B[dk];W[ej];B[fj]
+(;W[gg];B[fi]C[crux: I couldn't read this far in a game, but would White neglect to defend if he couldn't read that far either?]
+)
+(;W[fi];B[gg];W[fk];B[gj])))))
+(;W[lf]C[(*)
+crux: This stays a bit farther away from the stones you're attacking, while getting out into the center more quickly.]
+)
+(;W[of]C[(*)
+crux: This might be an idea for moyo-building purposes, although I probably wouldn't play this way myself.]
+;B[me];W[qj];B[le];W[ob]))
+(;B[he]C[crux: This might be a nice move for Black now.]))
+(;W[db]C[(*)
+crux: Correct - in this variation you have more eye space.]
+
+(;B[cb];W[ea])
+(;B[bb];W[hb])))
+(;W[co]C[far better just to connect like this?
+
+crux: Still seems to have weaknesses, see the following...]
+;B[bo]C[(*)]
+(;W[bp];B[dn];W[en];B[do]
+(;W[cp];B[ep];W[bn];B[bm];W[ao];B[cl])
+(;W[ep];B[cp]))
+(;W[dn];B[bp]
+(;W[cp];B[cm])
+(;W[cm];B[bn];W[bm];B[cp];W[bq];B[do];W[ep];B[bs]
+(;W[ap];B[cs];W[an];B[br])
+(;W[cs];B[aq];W[ar];B[ap];W[an];B[ds];W[eq];B[er];W[fr];B[br]
+)
+(;W[aq];B[cs];W[ap];B[ar];W[an];B[br])))))
+(;B[fn];W[en];B[gl]))
+(;W[fl];B[fk];W[gl];B[gk];W[hl]C[but this looks great for black too, perhaps allowing the double kakari earlier on was not a good idea.]
+))
+(;W[dm]C[(*)
+crux: Maybe this as a kind of leaning attack?  The game move has little effect on Black.]
+))

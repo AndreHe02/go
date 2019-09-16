@@ -1,0 +1,158 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+PB[Arister]
+BR[18k]
+PW[Launchpad]
+WR[19k]
+KM[6.5]
+DT[2005-02-07]
+PC[The Kiseido Go Server (KGS) at http://kgs.kiseido.com/]
+RE[B+2.50]
+TM[1500]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+C[Hello,
+
+I'm a 19k on kgs.  Somehow, I wound up with white.  I lost by 2.5.
+
+I have big problems in the middle game. If I make a big moyo it always seems the opponent will play some awful move and live in the middle of my moyo, much to my dismay.  I, also, have big problems with direction.
+
+Constructive criticism is always welcomed.
+
+Also, if you know of any good material on learning how to count, that would be great!
+
+Thanks in advance!!
+J
+
+
+--
+
+Hi Jason,
+
+My name is Josh and I am an 8kyu on KGS. I have gone through your game and made points about areas that I believe were mistakes and have mentioned some of the things that I would have considered.
+
+Things to work on:
+
+(1) reading - I've never meet anyone who couldn't benefit from better reading :) 
+
+(2) counting - the only book that I can recommend for counting is Cho Chikun's "Positional Judgement: High speed game analysis" It is the only book I have read on it. However, an important part of counting is knowing where to draw the boundaries and that comes from reading and experience. Also, factoring in influence is tricky. However, I have shown a few instances during the game when I counted so I hope that will help a little.
+
+(3) direction - I agree that your sense of direction in the game was a bit off in places. This partly follows from counting, i.e. when do you reduce and when do you invade? Counting can help you evaluate when you should take a risk and when you can be conservative. But also you should think to yourself, 'are my stones working together?' This is important so that you don't get yourself into trouble.]
+;B[pd];W[dc];B[dp];W[pp];B[ce];W[ed]C[Josh: the kosumi is a little slow here.]
+;B[df];W[hd];B[jd];W[nc]LB[qf:A][fq:B]C[Josh: Wrong direction. It is often tempting to leap in between two of your opponents stones like this because you feel that you are disrupting your opponents framework and frustrating their attempts to gain territory. But by leaping in there without support you run the risk of creating a weak group that your opponent can benefit from by attacking. Approaching from (A) would be better because it limits blacks development, runs little risk of creating a weak group for white, and work better with the stone in the lower-right corner. (B) is similar.]
+;B[md];W[pc];B[qc]LB[qb:C][od:A][qd:B]C[Here I was a little flustered, but I read out the cut and decided it was the only way...  Any better ideas?]
+
+(;W[qd];B[pb]C[Josh: Black should not atari here.];W[rc];B[oc]
+;W[qe];B[nd];W[qh]TR[da][ea][fa][eb][fb][ec][fc][gc][re][se]
+[rf][sf][rg][sg]SQ[la][ma][na][oa][lb][mb][nb][ob][kc][lc][mc]
+[nc]C[Josh: A rough estimate of the score at this point suggests that white is marginally ahead (I have not marked territory for either of the stones in the bottom corners since they are going to be equal). I would estimate that white leads by less than 10 points, however, black has the next move...]
+;B[qn]C[Josh: This not good for the reason that O17 was not good. Furthermore, black is setting himself up for a severe pincer.]
+;W[qk]C[This move was played more on the feel of the game rather than actually thinking.  What a mistake.
+
+Josh: This is fine. I would play R8 though. Again, this is an issue of making your stones work together.]
+;B[nq];W[oo];B[on]
+(;W[no];B[pr];W[ro]C[I do this keima to block a lot, but is it a good idea?
+
+Josh: Well, I think it is good that you (later) considered connecting at S4 too small. That was correct. However, perhaps playing S4 now, instead of S5, gives black less to work with.]
+;B[qo];W[qp];B[rn];W[nn];B[rp];W[rq];B[so];W[qr]C[Josh: I suspect you are choosing this connection out of habit or perhaps to create eyespace in the corner. However, be wary of giving your opponent forcing moves. Here, black can play Q3 to help secure his weak stones.]
+;B[rl];W[rk];B[om];W[dn];B[cn];W[cm];B[co]
+(;W[cj]C[Should've been D7/D8?
+
+Josh: I don't think so. I think this is fine for white. The reason being that if you connect black can play C10 or C11 destroying any chance white has for a base. Although that means black is not following the joseki in the corner, it is probably a better outcome for him. If white then runs, black can extend from the corner towards his weak stones -- a very poor outcome for white.]
+;B[dm];W[dl];B[em];W[el];B[cl];W[bm];B[en]
+(;W[lp]TR[da][ea][fa][eb][fb][ec][fc][gc][re][se][rf][sf][rg]
+[sg][rh][sh][ri][si][rr][ss]SQ[la][ma][na][oa][lb][mb][nb][ob]
+[kc][lc][mc][nc][sn][ro][cp][aq][bq][cq][ar][br][cr][as][bs]
+[cs]C[Josh: First, I assume you realise that you are giving away your stones at C7. Second, I believe that M4 is not a good use of you thickness to the right. Capturing those two black stones is OK (if you can), but black gets much more by ignoring the threat and taking the bottom left. I would prefer to something like K4. Giving black the chance to escape is not necessarily a bad thing: Gaining territory or influence through attacking a weak group is a good strategy (but don't weaken your own groups as a result.]
+;B[dk];W[ck];B[fl];W[ek];B[fk];W[dj];B[jp];W[lq];B[jq];W[hp]
+TR[gl][hl][im][in][jo]C[H4 at M2 or L2?  Or is that a bad idea?
+
+Josh: Playing within the triangles is dangerous -- H4 is too deep; be prepareed to lose it. M2 or L2 is not really a great idea since it's just going to encourage black to get stronger. The real problem lies in letting black get K4 first.]
+;B[lr];W[mr];B[jn];W[ir];B[kr];W[fq];B[eq];W[er];B[dr];W[ep]
+;B[dq];W[fr];B[fp];W[gp];B[fo];W[go];B[hr];W[hs];B[iq];W[hq]
+;B[jr];W[gr];B[mq];W[or];B[nr];W[pq];B[mp]TR[da][ea][fa][eb]
+[fb][ec][fc][gc][re][se][rf][sf][rg][sg][rh][sh][ri][si][aj]
+[bj][ak][bk][al][bl][cl][gq][qq][hr][pr][rr][gs][qs][rs][ss]
+SQ[la][ma][na][oa][lb][mb][nb][ob][kc][lc][mc][nc][dn][sn][do]
+[eo][ro][cp][ep][aq][bq][cq][ar][br][cr][mr][as][bs][ls][ms]
+C[W = 34 + 4 + 6.4
+B = 30 + 6];W[mm];B[mo];W[ok];B[nm];W[of];B[pe];W[pf];B[qf]
+;W[rf];B[qg];W[pg];B[re]
+(;W[rg]C[Josh: A costly mistake for white.];B[rd];W[qf];B[rb]
+;W[cg];B[cc];W[cb];B[bc];W[ib];B[ic];W[hc];B[jb];W[id];B[jc]
+;W[hb];B[ff];W[if];B[ch];W[dh];B[ci];W[di];B[dg];W[bg];B[eh]
+TR[da][ea][fa][ga][eb][fb][gb][ec][ah][bh][ch][rh][sh][ai][bi]
+[ci][qi][ri][si][aj][bj][qj][ak][bk][al][bl][cl][gq][qq][hr]
+[pr][rr][gs][qs][rs][ss]SQ[la][ma][na][oa][pa][qa][ra][sa][lb]
+[mb][nb][ob][qb][sb][kc][lc][mc][nc][pc][rc][sc][dn][sn][do]
+[eo][ro][cp][ep][kp][lp][aq][bq][cq][kq][lq][ar][br][cr][mr]
+[as][bs][ls][ms]C[W = 37 + 8 + 6.5
+B = 43 + 9];W[ei]C[Josh: Very slow move. Also helps black to make shape.]
+;B[fh];W[ap]C[oops...one of my many mistakes];B[bl]C[oops];W[al]
+;B[bn];W[bk];B[an]TR[da][ea][fa][ga][eb][fb][gb][ec][qg][ah]
+[bh][ch][rh][sh][ai][bi][ci][qi][ri][si][aj][bj][qj][ak][dk]
+[bl][cl][gq][qq][hr][pr][rr][gs][qs][rs][ss]SQ[la][ma][na][oa]
+[pa][qa][ra][sa][lb][mb][nb][ob][qb][sb][kc][lc][mc][nc][pc]
+[rc][sc][dn][sn][ao][bo][do][eo][ro][ap][bp][cp][ep][kp][lp]
+[aq][bq][cq][kq][lq][ar][br][mr][as][bs][ls][ms]C[W = 37 + 9 + 6.5
+B = 46 + 10];W[mk];B[mn];W[io]C[Josh: Again, this is very small.]
+;B[in];W[jo];B[ko];W[hn];B[lm];W[mh]C[Any alternatives to this sequence that makes me come out ahead?]
+;B[nj];W[nk];B[mi]
+(;W[ni];B[mj];W[oi];B[nh]
+(;W[ng]C[Josh: Remember not to give away forcing moves.];B[lh]
+;W[mg];B[lk];W[ih];B[hf];W[he];B[hg];W[ig];B[hh];W[ii];B[fi]
+;W[le];B[ld];W[lg];B[ki];W[ds];B[cs];W[es];B[br];W[ik];B[ke]
+;W[kf];B[kg];W[jg];B[je];W[ie];B[jf]
+(;W[lf];B[kh];W[jl];B[fd];W[fc];B[gd]
+(;W[ee];B[gc]
+(;W[fb];B[db];W[da];B[dd]
+(;W[ec];B[bb];W[ca];B[ba];W[eb];B[gb]
+(;W[ga];B[fa];W[fe];B[ha];W[ia]C[This should be at G15 I know.  I spotted this after I looked over the game.    ....sigh...
+
+Josh: Spending a little time reading would have asaved you a lot in this fight (last comment of review).]
+;B[ge];W[ga];B[gf];W[ea];B[hm];W[jj];B[ji]
+(;W[hl];B[im];W[de];B[cf];W[ad];B[cd]
+(;W[kj];B[lj];W[kk];B[kl]
+(;W[il];B[ml];W[ql];B[qm];W[oj];B[li];W[ja];B[lb];W[ka];B[la]
+;W[kb];B[kc];W[jm];B[km];W[jh];B[ll];W[gm];B[kn];W[fn];B[eo]
+;W[ef];B[eg];W[gj];B[fj];W[hi];B[fm];W[gn];B[gi];W[gk];B[gl]
+;W[ip];B[sl];W[sk];B[pl];W[pk];B[ns];W[ps];B[po];W[op];B[ae]
+;W[be];B[ac];W[af];B[bd];W[bi];B[bf];W[ag];B[ae];W[oe];B[od]
+;W[se];B[sc];W[ol];B[pm];W[sq];B[sp];W[ne];B[js];W[is];B[me]
+;W[mf];B[sd];W[sf];B[oq];W[os];B[tt];W[tt]TW[fa][ha][db][nf]
+[og][qg][sg][ah][bh][ch][nh][oh][ph][rh][sh][ai][ci][pi][qi]
+[ri][si][aj][bj][hj][ij][pj][qj][rj][sj][ak][dk][hk][jk][bl]
+[cl][ho][gq][qq][hr][pr][rr][sr][fs][gs][qs][rs][ss]TB[aa][ma]
+[na][oa][pa][qa][ra][sa][ab][mb][nb][ob][qb][sb][lc][mc][nc]
+[pc][rc][ad][kd][be][fg][gg][gh][mm][rm][sm][dn][ln][pn][sn]
+[ao][bo][do][lo][ro][ap][bp][cp][ep][kp][lp][aq][bq][cq][kq]
+[lq][ar][cr][mr][as][bs][ks][ls][ms])
+(;W[ml];B[ll];W[gm];B[gl]))
+(;W[ll];B[kl];W[ml];B[km];W[kk]))
+(;W[gj];B[fj];W[gm];B[hl];W[im];B[kn];W[gl];B[hk];W[gk]))
+(;W[fa];B[ga];W[im]))
+(;W[eb]))
+(;W[gb];B[fb];W[ec];B[fe];W[bb]))
+(;W[gc]))
+(;W[kh];B[li]))
+(;W[mg]))
+(;W[li]C[Josh: Should be enough.]
+(;B[nh];W[mg];B[pj];W[pk];B[ng];W[nf];B[mj];W[lj];B[oj])
+(;B[lj];W[mj];B[ni];W[lh])))
+(;W[rd];B[rg];W[se];B[rh];W[qi]))
+(;W[jp];B[lp];W[ko];B[lo];W[ln];B[mn];W[mm];B[mo];W[nm];B[kn]
+;W[lm];B[jo];W[kp];B[lq]C[Josh: Here, it is tempting to go for the kill. However, whites stones at L4 are in enemy territory and I would be cautious myself. I would probably play K6.]
+;W[jn]
+(;B[io];W[km];B[jr];W[iq]C[Josh: White now gets to ruin the black moyo.]
+)
+(;B[km];W[io];B[kl];W[jr]C[Josh: Now that white is stronger, I think killing black is a good line to pursue.]
+)
+(;B[jr];W[io];B[fq];W[hq];B[hr];W[iq];B[ir];W[ch]C[Josh: Now pursue the next weak group]
+)))
+(;W[dm];B[cj];W[fn];B[fp]))
+(;W[nn];B[no];W[pn];B[om];W[pm];B[op];W[po];B[pq];W[qq];B[pr]
+;W[mo];B[np];W[ln]))
+(;W[qb];B[pb];W[oc];B[rb];W[qd];B[rc];W[ob];B[qa];W[ne];B[pe]
+;W[oe];B[pg])
+(;W[od];B[pb];W[oc];B[qd];W[oe];B[pf];W[mf]))

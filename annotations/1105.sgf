@@ -1,0 +1,94 @@
+(;FF[4]GM[1]SZ[19]AP[SGFC:1.13b]
+
+PB[Bernard Y.]
+BR[NR]
+PW[GNU Go]
+WR[13k]
+KM[0.5]
+DT[2002-10-07]
+RE[W+3.5]
+RU[Japanese]
+US[System Administrator]
+
+C[pajaro: Hi. This is my review of yor game. I'll add some variations, but I think the most important is that you understand the meaning of the moves rather than the moves themselves. Also keep in minfd that your opponent is a machine. Don't trust it very much ;)]
+;B[od]C[pajaro: The first move, and yet not very good. You should usually start in 4-4, 3-4 or 3-3 points. 5th line is more difficult to handle (I've never played it).]
+;W[dp];B[pp];W[dd]
+(;B[ep]C[pajaro: When you approach a corner, you should not attach an enemy stone. In general: Don't attach what you are atacking. See vars for usual moves.]
+;W[do]C[pajaro: As your move is not usual, the answer isn't either. But you can see that white's position is slightly better.]
+;B[ef]C[pajaro: Again, this isn't an usual approach (see move 4). You seem to be playing toward the centre. We'll see.]
+;W[nq]
+(;B[mq]C[pajaro: Again touching the enemy stone. If you want to attack it from this side, you can do, but keep some space, (see var).]
+;W[np];B[mo];W[mp]C[pajaro: As you touched the white stone, now it can counterattck and split you in two.]
+;B[kp];W[lq];B[kq];W[qd];B[qe];W[re];B[pe];W[qf];B[rd];W[rc]
+
+(;B[qg]C[pajaro: I expected you to play s14. See var.];W[pf]
+;B[of];W[og]
+(;B[pg]C[pajaro: s14 again.];W[rf];B[pd];W[qc];B[pc]C[pajaro: empty triangle. bad]
+;W[oh]
+(;B[ph]C[pajaro: empty triangle again. very bad. you are going to see how white is going to crush black. r11 is a better move.]
+;W[pi];B[oi];W[qh];B[ed];W[dc];B[ec];W[lg];B[le];W[jf]
+(;B[je]C[pajaro: you seemed to want the side. But by touching the enemy stone, it will be easier for white to invade.]
+;W[ie];B[ke];W[id];B[if]C[pajaro: good. you split white in two. now, attack it.]
+;W[ge]
+(;B[gd]C[pajaro: don't touch (again)];W[hf]C[pajaro: good shape for white. it will be easy for him to escape towards the centre.]
+;B[ig];W[hd]
+(;B[fd]C[pajaro: empty triangle. see g17.];W[ib];B[kg]C[pajaro: good shape, now black can fight better.]
+;W[lh];B[kc];W[kb];B[lb];W[oj];B[ni]C[pajaro: you are saving a non-worthy stone. Let white take it, and take sente to keep on attacking white.]
+;W[de]
+(;B[ee]C[pajaro: again, you should make a bamboo joint in f14.]
+;W[cg];B[dh];W[gh];B[jb];W[dg];B[df]C[pajaro: you try to split two connected groups. In the real game, white didn't connect, but anyway, you musn't play it.]
+;W[gc];B[cf]C[pajaro: good, punish white for his mistake.];W[ch]
+;B[eh]C[pajaro: again, don't save this stone, but kill the white corner.]
+;W[eg];B[fg];W[fh];B[gg];W[hg];B[ff]C[pajaro: look, your group can't go to the centre anymore. Your only chance is to kill the d17 group.]
+;W[be];B[ce];W[ei];B[di]C[pajaro: this is a schicho. Forget the dead stones and attack!]
+;W[dj]
+(;B[bf]C[pajaro: better C16];W[bd];B[af]C[pajaro: this doesn't help you. Your only chance is to kill white. Isolation is not enough.]
+;W[eb];B[cd];W[cc];B[fb];W[da];B[ea]C[pajaro: you put yourself in atari! This time you play a computer, and its answer isn't good either, but be careful.]
+;W[db];B[fa];W[ih];B[jg]C[pajaro: The white group has escaped and the game is over.   My comments end here. My advices are:
+- see other people's games. have a look at their openings, where they play,.. and where nobody do ;)  - Don't touch what you are attacking. This is a golden rule.
+- Attack to gain territory or power, not just to kill.
+- Don't try to save every stone. Think whether it is important or not: does it keep a connection? is it the door to a big territory? in a word, why do you want to save it?
+
+Hope this will help.];W[fn];B[gp];W[dq];B[eq];W[qn];B[po];W[lr]
+;B[fc];W[kr];B[jr];W[pk];B[qm];W[im];B[lp];W[ql];B[pm];W[rm]
+;B[pn];W[pr];B[rn];W[rl];B[pl];W[mj];B[nj];W[nk];B[li];W[mi]
+;B[nh];W[rg];B[ng];W[ki];B[nf];W[no];B[ca];W[bc];B[ba];W[ab]
+;B[aa];W[nm];B[nn];W[mn];B[on];W[ln];B[lo];W[jq];B[jp];W[iq]
+;B[ir];W[hq];B[hr];W[gq];B[gr];W[fq];B[fr];W[ip];B[in];W[fp]
+;B[fo];W[io];B[er];W[dr];B[kn];W[eo];B[lm];W[mm];B[ad];W[ae]
+;B[bb];W[cb];B[ba];W[sn];B[bb];W[ro];B[sl];W[pb];B[ob];W[qb]
+;B[pa];W[ja];B[ka];W[qa];B[oa];W[ia];B[bh];W[ci];B[hc];W[ic]
+;B[bg];W[bi];B[ah];W[hb];B[kf];W[jn];B[hn];W[jc];B[kb];W[jh]
+;B[kh];W[lj];B[jd];W[mh];B[mg];W[lf];B[mf])
+(;B[cd]C[pajaro: white is dead.]
+(;W[cc];B[bc]
+(;W[bd];B[cb];W[db];B[eb];W[da];B[ea];W[ca];B[ba])
+(;W[bb];B[bd];W[eb];B[fb];W[db];B[fc];W[ab];B[ca])
+(;W[eb];B[fb];W[db];B[fc];W[bb];B[bd];W[ab];B[ca]))
+(;W[db];B[eb]
+(;W[cc];B[bc];W[bd];B[cb])
+(;W[bd];B[cc];W[cb];B[bb];W[bc];B[ca]))))
+(;B[ff]C[pajaro: Can you see how now white is in a worth position? Black is close to surround white.]
+))
+(;B[gc]C[pajaro: bamboo joint. keeps black connected and puts pressure on white.]
+))
+(;B[ig]C[pajaro: this could help you in the future. also makes you safer for attack stronger.]
+)
+(;B[hf]C[pajaro: denies white playing here.]))
+(;B[jd]C[pajaro: better for black. more solid.]))
+(;B[qi]C[pajaro: black jumps out better.];W[qh];B[ph];W[pi]
+;B[rh];W[rg];B[qh];W[qj];B[rj];W[sh];B[ri];W[pj];B[qk]C[pajaro: black escapes.]
+))
+(;B[rf]C[pajaro: double atari.]
+(;W[pg];B[se]C[pajaro: the corner is black's])
+(;W[sd];B[pg]C[pajaro: white is again confined, and black's shape is powerful.]
+)))
+(;B[rf];W[sd];B[qg]C[pajaro: black captures the white stones, connects all of their stones and keeps white confined in the corner.]
+))
+(;B[lq]C[pajaro: Aiming to take territory on the side.])
+(;B[lp]C[pajaro: Playing toward the centre. White can easily make a base.]
+))
+(;B[fq])
+(;B[fp])
+(;B[cn])
+(;B[dn]))

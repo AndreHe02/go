@@ -1,0 +1,108 @@
+(;FF[4]GM[1]SZ[19]CA[UTF-8]AP[SGFC:1.15]
+
+EV[lorl-defender-274953]
+PB[Juan Pablo Schweitzer (defender)]
+BR[6k]
+BT[Chili]
+PW[Laurent L (lorl)]
+WR[5k]
+WT[France]
+KM[6.5]
+DT[2006-12-20]
+PC[Dragon Go Server: http://www.dragongoserver.net/]
+RE[B+R]
+RU[Japanese]
+GC[Game ID: 274953, rated]
+
+;B[pc]C[z -- hello Laurent.  I am Bill, "zinger" in the internet Go community.  My comments are marked with " z -- ".  Remember, I am also a weak amateur, so make sure to examine my comments and variations critically.  Almost certainly, I have made a few mistakes.
+
+z -- I prefer to reference move numbers and board markings in my comments, rather than grid coordinates.  Hopefully you have an SGF reader which displays these properly.  I recommend Drago, which I used to make the review, or glGo.
+
+z -- this was a mostly peaceful game with little fighting, instead both players trying to win by building their own territory.  Games like this are mostly about finding the biggest moves, and striving to keep sente.  In such games, you must maximize what you accumualte at each turn.  Efficiency is very important.  White made a few moves that were too small and/or gote, which was enough to fall behind.]
+;W[cp];B[cd];W[pq];B[ec]LB[qe:a]C[z -- I think 5 would be better at A, giving black's formation a bit of depth.]
+;W[pe];B[qe];W[qf];B[qd];W[pf];B[nc];W[pj];B[ep];W[gq];B[er]
+C[une variante de ce joseki ou noir privilégie le territoire.
+@ a territory oriented joseki.
+(LL)
+
+z -- nothing so far looks unusual to me.];W[dn];B[fo];W[ip]
+;B[cl];W[dl];B[dk];W[el];B[co];W[do];B[dp];W[bo];B[cq];W[cn]
+;B[bq]LB[qo:A][lp:B]
+(;W[qo]TR[cl][dk][gq][ip]LB[di:a][lp:b]C[z -- OK, first comment for white.  In this postion, there are two areas of weakness: the left side black stones, and the bottom side white stones.  Strength and weakness are more important than territory in the opening.  Therefore, I think white should play around one of the two weaknesses: either attack the left side or defend the lower side.  White 30 does neither, so it is not urgent.  Remember two proverbs: (1) urgent points before big points (2) play away from strength, which implies play close to weakness.  A or B look like better choices to me.]
+;B[lp]LB[np:B][jq:A]SQ[ip][gq]C[bon coup qui sépare le blanc...
+les pierres "carré" deviennent une faiblesse,
+et la pierre noire n'est pas facilement attaquable !
+@ good move wich separates white...
+"square" stones are getting a weakness,
+and black stone is not easy to attack !
+(LL)]
+(;W[jq]LB[in:a][jo:b][ko:c]C[z -- I would prefer to play on the outside, perhaps at A, B, or C.]
+;B[ln];W[in]C[z -- now white runs anyway, but black has gained a move in the running right due to 32 being played on the inside.]
+;B[ll];W[ci]LB[di:a]C[z -- I think the correct move in this area is at A.  36 lets black handle this area more easily by playing A himself.]
+;B[di];W[cj];B[dg];W[ck];B[on];W[pm];B[jd]C[et oui... blanc ayant dû renforçer ses pierres faibles du bas, il n'a pas eu le temps de s'occuper du haut du goban... laissant la zone noire devenir grosse !
+@ yes... white has been occupied to reinforce his lower stones,
+and had no time to take care of the upper part of the board... but, the black area has getting big !
+(LL)
+
+z -- white lost some efficiency due to 32 and 36.  Still, the game is reasonably close.]
+;W[me]LB[lq:a]C[z -- 44 seems like a mistake.  See next comment.  I would prefer to attach at A on the lower side, which makes the white group there definitely alive, is worth a fair number of points, and might even be sente depending on how black answers.]
+;B[ld]TR[me]LB[hc:a][id:b][kd:c]C[z -- the marked exchange helped black alot more than it helped white. Before this exchange, white could hope to invade the upper side at A, B, C, or perhaps elsewhere.  After this exchange, it will be much harder.]
+;W[mj];B[om];W[pl];B[op];W[hf];B[jf];W[hh];B[oq];W[pp]LB[hd:a]
+C[z -- 54 is big, but I think that A on the upper side would be even bigger.  Black's follow through in the lower right would be gote, so white would get a second move elsewhere eventually.]
+;B[kr];W[il];B[hd]C[z -- big.];W[ji]LB[bg:a]C[c'est maintenant la fin de partie, avec une position légèrement inférieure pour blanc...
+@ it's now the endgame, with a slightly inferior position for white...
+(LL)
+
+z -- I agree, white is behind by about 10 points after komi, so there is some catching up to do.
+
+z -- 58 looks like a floating stone which doesn't do much work.  I would prefer a big endgame move such as A on the left side.]
+;B[ch]C[z -- very big !]
+(;W[fj]LB[re:a][or:b]C[z -- 60 is gote and not really all that big.  Standard endgame moves such as A and B look better.]
+;B[dj];W[bl];B[rf];W[rg]
+(;B[se]
+(;W[lg];B[sg];W[rh];B[sh];W[si];B[sf];W[qi];B[or];W[pr];B[ps]
+;W[qs]MA[ge][md][fr][jr]C[z -- 76 is submissive.  White is too willing to answer black's moves.  White should look for sente moves and/or big moves elsewhere, such as the marked points.  Following the opponent around the board is usually a losing endgame strategy.]
+;B[os];W[qr]C[z -- after this move, black leads by about 20 points.  White has lost ground since move 58.  This shows why sente is so important in the endgame.]
+;B[fe];W[pd];B[qc];W[md];B[mc];W[bi];B[bh];W[ah];B[ag];W[ai]
+;B[bf];W[jr];B[lr];W[fr];B[fq];W[gr];B[kf];W[kg];B[lf];W[mf]
+;B[pn];W[qn];B[jg]
+(;W[ii]LB[jh:a]C[z -- 102 can be at A.];B[hg]LB[gi:a][fm:b]
+C[z -- mistake by black.  Better to just chip away with A or B.]
+;W[gg];B[ig];W[ff];B[ef]
+(;W[fh];B[ge];W[gf];B[fm];W[gl];B[gp];W[hp];B[gn]LB[lj:a]C[z -- comletely unnecessary.  Should be at A.]
+;W[eh];B[dh];W[kk];B[lk];W[lj];B[nk];W[nj];B[ok]
+(;W[es]LB[pk:a]C[z -- white needs to defend around A, as the game shows later.]
+;B[ds];W[fs];B[dr];W[ko];B[lo];W[kl];B[km];W[jm];B[oj];W[oi]
+;B[od];W[oe];B[mk];W[kn];B[lm];W[ie];B[id];W[nd];B[oc];W[bp]
+;B[ap];W[le];B[kd];W[ol];B[nl];W[kq];B[lq];W[ao];B[aq];W[po]
+;B[oo];W[hn];B[pk];W[qk];B[rj]C[le coup de grâce. mais de toutes façons, blanc perdait de quelques points...
+@ the death-blow. but anyway, white was loosing by a few points...
+(LL)
+
+z -- yes, black leads without this move, but now by less than 10 points.
+
+z -- thanks for an interesting game to review.  I hope my comments helped.  Good luck!]
+)
+(;W[pk]C[z -- Let's imagine that white defends.  Now black leads by about 15 points.  So white gained a little since the last count at move 78, but not enough to win.]
+))
+(;W[eh];B[fg]
+(;W[fh];B[gf];W[dh];B[gh];W[gi])
+(;W[gf];B[fh]))
+(;W[ge];B[gd];W[ee];B[fd];W[eg];B[df];W[eh];B[dh]C[z -- indeed, this is an improvement over the game (variation by lorl).]
+))
+(;W[jh];B[ig];W[hg];B[ih];W[ii])
+(;W[ih];B[jh];W[kh]))
+(;W[sg];B[lg];W[ng]))
+(;B[re]
+(;W[lg];B[sg];W[sh];B[sf];W[qh])
+(;W[sg];B[lg];W[ng])))
+(;W[dj];B[ei];W[ej];B[fi];W[fj];B[gi];W[hj];B[hi];W[ih]))
+(;W[np]TR[gq][ip]C[est-ce mieux d'attaquer de ce côté ???
+@ is it better to attack by this way ???
+(LL)
+
+z -- no, this is playing on the strong side.  White should play on the weak side, which is the two marked stones.  Play away from strength, play close to weakness!]
+))
+(;W[lp]C[mieux comme ça ???
+@ better like that ???
+(LL)]))

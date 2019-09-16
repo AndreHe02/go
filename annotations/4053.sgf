@@ -1,0 +1,188 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+PB[M]
+BR[2d]
+PW[C]
+WR[2d]
+KM[6]
+RE[B+Resign]
+RU[Chinese]
+AN[Reid Augustin - April 1, 2006]
+
+;B[pd];W[dd];B[pq];W[cp];B[ep];W[qo];B[pl]C[M: I tried this pincer in several games, but I am still not sure whether it is a good strategy. Can you comment on this and maybe make some alternative suggestions?
+
+reid: If there was some perfect theory of go, or a computer program that could completely analyze the game, then we would be able to say that this pincer is good or bad.  But since we don't have such a theory, all we can do is rely on the same method the pros use to analyze early positions: is there some sequence that demonstrates that this move leads to a bad position?  If so, then we can say this move is a mistake.  If not, it is a possible strategy.
+
+That may seem too vague, but it's the best we can do.  What really matters in the long run is this: each move we play must  make effective use the stones we have played previously.
+
+This move is fine.  I have no doubt that this position can be found in modern professional play.
+
+Alternatives?  Any of the pincers in this area are fine.  Extending on the bottom side is fine too.  Or tenuki to attack or defend the other corners works too.
+
+Bottom line?  A pro might spend a few days trying to decide if this is good or bad, but we amateurs should wast our time on it.  We need to worry about much more basic aspects of our play.]
+;W[kq]
+(;B[cq]C[M: My first instinct is to play Q5, but after W Q4 I do not find a good continuation for black. I also considered N3 and J3. What would you suggest?
+
+reid: Go is a fighting game. If we make an analogy with boxing or wrestling, we clearly would like to enter the ring when we have the advantage: bigger, stronger, or faster than our opponent.  In early go positions, the advantage goes to the person with more stones in the area.  By playing Q4, black gets a clear numeric advantage (three to two) which makes this fight good for him locally.  See the variation.
+
+By playing away, black gets a numeric advantage in the lower left, but gives white the initiative in the lower right.  Since the lower right situation covers more board area than the lower left, I think black loses more than he gains.]
+
+(;W[op]C[reid: White's stones are working together now, and black has a clear disadvantage in the lower right corner.  Black probably wants to keep his corner stone alive, but that will lead to more white strength on the outside which damages Q8.  Black will have to find compensation by attacking in the lower left, but that area seems smaller.]
+;B[oq];W[np];B[nq];W[mp];B[qp];W[rp];B[rq];W[pp];B[qq];W[bq]
+C[reid: white moves quickly.  he accepts the exchange of the black territory in the lower right for the damage to Q8, then moves to equalize the power in the lower left.
+
+Black's lower right corner stones are effectively finished.  They will not be a factor in future fighting (except for yose) because they are sealed in by the white wall.  It is true they have acquired territory for black, but as far as the rest of the board is concerned, black has four stones in play, while white has 10.
+
+In clasical terms, white has thickness, black has territory.  It is generally accepted that thickness is more valuable in the early part of the game.  White shold be able to control the game at this point.]
+;B[dq];W[bo];B[iq]LB[gq:A][hq:B]C[reid: Hmmm, A is a potential weak point in black's position.  Black might want to consider B instead to eliminate the weakness.]
+;W[nc]LB[dm:A][gq:B][hq:C]C[reid: Normaly white completes the joseki with A.  White O17 is a faster way to play, but it leaves behind some weakness.
+
+If white plays A, he can look forward to attacking black with B (and he builds up the left side, of course).
+
+Playing white B without white A would be an overplay.
+
+If black had played at C instead of J3, then leaving the joseki incomplete seems more interesting.]
+;B[qf];W[jd];B[cf];W[fd]LB[ch:A]C[reid:  I think a pincer at A would be better for white.  There are many variations, but they all benefit from the many white stones along the left and upper sides.]
+;B[bd]LB[ci:A][cl:B][gq:C]C[reid: Since white should have pincered previously, black should similarly extend to A now instead of sliding.  If white defends the corner, black extends again to B to attack the three lower left white stones (which indirectly defends the weakness at C).]
+;W[ch]C[reid: Yes, this is the problem for black..];B[cc];W[ce]
+LB[de:B][df:A]C[reid: building a white wall now is questionable.  Where will it make future territory?  The black position at R14 and the stones at Q8 makes it difficult for whte to make a  moyo game of it at this point.
+
+Also, if white wants the outside wall, he needs to play A (D14) directly instead of C15.  Black has a rather complicated refutation by playing B (D15) that keeps his access to the center.]
+;B[be];W[df];B[dg]C[M: I played here although the stone can be captured by ladder, as I thought the ladder would be a burdon for white in the fight that might evolve with the white group in the bottom right.
+
+reid: Hmm, you're making a donation now in the hope that something good might happen in the future?  But of course, white will try to arrange it so that the ladder is not a burden.
+
+Better not to try to think too far ahead - it's too easy to fool yourself.]
+;W[cg];B[bf];W[eg];B[qn]LB[db:B][eb:A]C[M: I played here to attack the white group and to make a white invasion on the right side less attractive. What other strategies would you suggest?
+
+This lets white fix the yose at S5, so black needs to get real compensation from attacking the white stones.  If that's the plan, then this is a good way to play.  I would probably rathe play patiently with A.  It's big, and it prevents white's sente play at B.]
+
+(;W[ro];B[pn];W[po]LB[on:A]C[reid: R6 is ok as a probing move so see how white answers, but exchanging Q6 for Q5 is not good.
+
+For one thinig, it is aji-keshi: the cut is now gone, as well as all the other possible ways of threatening the cut.
+
+Secondly, the three black stones are heavy. They are too close to the strong white wall.
+
+If black really has to play here, A is much lighter (and still thretens the cut).]
+;B[mm];W[mq]LB[qj:B][kn:C][lo:D][gq:A]C[reid: Hmmm, looks like white is trying for quick life here.  Probably not the best idea.
+
+White has lots of aji in these stones.  There is the black weakness at A, and the four black stones at R8 could be attacked with a move around B.  The key to make both of these weaknesses work for white is a move somewhere around C (which also helps out the ladder situation).  Black cannot effectively counterattack at D because of the Q6/Q5 exchange.]
+;B[jo]C[reid: Black gets the first move in the key area.
+
+This one exchange (N3 for K5) seems to shift the game from white's favor to black's.]
+;W[dh]LB[mr:C][nr:A][or:B][rs:D]C[reid: white should probably use the A-D sequence beofre taking the ladder.  There is nothing to lose by using this aji now.]
+;B[nr];W[ko]LB[ln:A]C[reid: White A looks like a better way to get out.]
+;B[kn];W[lo];B[jp];W[jr];B[ir];W[nn];B[nm];W[mn];B[fb]LB[ld:B]
+[ne:A][lf:C]C[M: I thought that B E18 is the normal continuation here, but I saw B F18 in a high dan game lately, so I wanted to try it. The continuation is a big success for black, in my opinion, but most likely there are better ways for white to handle the situation. Can you give some variations?
+
+reid:  F18 or E18?  First, we need to consider that white had plenty of opportunity to exchange D18 for black C18.   That exchange makes the question moot (it's considered part of the followup to this group of josekis)
+
+It is always a mistake to say that any particular local  move is best.  That works fine for joseki and life and death, but we are concerned with only one thing here: winning the game.  We must *always* conisder the whole board position.
+
+Here black has just built a strong wall  towards the center (black P7 and most of the moves around M8 are sente to kill the white N4 group with black M2, so the wall is *very* strong).  Black should be thinking about how to make that wall work.
+
+Black A looks like a good start.  White probably defends at B and black can continue at C.
+
+Black E18/F18 is really small potatoes - endgame moves should wait for the endgame.
+
+By the way, you say "The continuation is a big success for black", but given the way the potential of the black wall is destroyed, I think the continuation is great for white.]
+;W[gb];B[gc];W[eb];B[hb];W[fc];B[ga];W[db];B[cb];W[ic];B[ib]
+;W[jb];B[hc];W[ea];B[fa]LB[ca:A][ia:D][bb:B][jg:C]C[reid: black's corner is greatly reduced now.  If white hanes at A, black must pull back to B or suffer the flower-viewing ko.  A white move anywhere towards the center (around C) forces black to make minimal life in gote with D.  This is terrible for black, and the potential of the black wall at N7 is destroyed.]
+;W[ia]C[reid: white tries for a kill.  Might be possible, but it may not be necessary.  White could also try a diversionary attack around A somewhere to see if he can kill the black H17 group indirectly.
+
+This type of situation comes up all the time: white must choose between sealing black in and making him live small, or taking the eye and running him out.  Taking the eye here looks like a gamble.  If black gets out, white may well have preferred the outside move instead.
+
+If you can't decide which one to do, you can often try playing somewhere else to influence the situation indirectly.]
+;B[he];W[if];B[hf];W[gd]C[reid: Fighting technique: don't make moves that are not necessary.  This exchange is not necessary for white (it doesn't cut or remove an eye).  In fact, it helps black by making black K15 effective (after black connects at H16).]
+;B[hd]
+(;W[hg]C[reid: More fighting technique: white is very strong around E12 because of the ladder capture, but he is thin in the K13 direction.  So he should fall back with J13 instead of playing H13.  See variation.]
+;B[gg]LB[je:A][ig:B]C[reid: Black should probably try the cut accross the knight's move with A, looking to cut at B]
+;W[gf]LB[ig:A]C[reid: White shouldn't try to cut right away.  Instead, he should simply defend his weakness solidly with A.  Black can still live inside, but it's very small and white's thickness brings the game back to even again.]
+;B[ig]C[reid: White has too many cuts to be able to hold this together.]
+;W[hh];B[ie];W[jf];B[je];W[ke];B[kf];W[jg];B[kd];W[le];B[kc]
+C[reid: now black is alive, and white would have been better off with J19 somewhere else, instead of a kill attempt.
+
+In go, it often works out that attempting and failing is worse than not attempting at all.]
+;W[kb];B[jc];W[qh]
+(;B[pb]LB[og:D][oh:C][lm:A][lr:B]C[reid: Here's something you should always be on the look out for, particularly in middle-game fighting: the most effective use of your stones is when you can play one move that works in two (or more) directions.  To make this work, you should look for ways to work one weakness against another.
+
+Remember earlier we said that black has some sente moves because the white N4 group isn't quite alive yet?
+
+In particular, it looks like black A followed by black B will kill the group.
+
+Now white has invaded and has a weak stone in the black area of influence near this critical spot.  So black should be thinking about how he can get white's help in playing A in sente.
+
+Certainly if white next plays around C, then black will have no more threats against the R12 stone that help him to play A.  So instead of Q18, black could try playing (for example) D to try to push white towards the critical area near A.  The variation shows the general idea.]
+;W[qk];B[ql];W[lm];B[rk]C[M: Maybe I should have played L13 first, because it is needed as a ladder break in the continuation?
+
+reid: No, probably not.  If you play it now, and the ladder doesn't come up, then it's aji-keshi.  It's important to only take that aji when you need it and you know which direction you need to take.
+
+Anyway. L13 (or K12) may not be sente anymore - the H17 group is already alive, so white might ignore the atari.
+
+But my question is why does black want to hane underneath at all?  White cannot connect from S5 to R9, so black doesn't need to play a move here to keep him split.  Better would be to do something that aims at being able to cut at M6, for example.]
+;W[rj];B[qj];W[pk];B[ri]C[reid: this may feel like black is gaining, but I think it's really more helpful for white.]
+;W[rl];B[sj];W[rm];B[kg];W[ol];B[om]
+(;W[jh]C[M: I think W Q10 would cause black some trouble ...
+
+reid: yes, or perhaps P9.  So L13 really isn't enough for black.  The problem started with the hane at black S9.]
+;B[pj];W[ok];B[nj];W[pm];B[qm];W[on];B[nk];W[rn];B[pm]C[reid: so white managed to make his M5 group alive in sente.  He loses 4 stones but that's a small price to pay.]
+;W[eo]LB[cm:C][fm:E][en:A][fn:D][do:B]C[reid: White wants the center territory, so he should probably fall back a bit with A instead of the contact play at E6.  If black respons to A with B, white C keeps things under control.  If black contacts A with D, white can hane with E and it still looks good.]
+;B[fo]LB[fn:A]C[reid: white would really like to hane at A, to make the H12 wall as effective as possible, but it just won't work very well.]
+;W[dp];B[en]C[reid: black is willing to sacrifice two stones in order to reduce the white center.  That seems correct. The corner is big, but the center could be bigger for white.]
+;W[do];B[fp];W[fn]
+(;B[em]C[M: Maybe I should just have pushed at G6? In what follows, white cuts of E6/E7 and some more stones, but black captures the white stones around K12 in exchange.
+
+reid: black D7 is too heavy.  There's is no aji, no leverage for these two stones to get life.  White just needs to run his F6 stone out and the E7 stones die.
+
+Perhaps black should try the variation?];W[gn]LB[gl:A][gm:B]
+C[reid: white G6 lets black get the good move of A (G8).  White B (G7) would be a bit harder for black to deal with.]
+;B[gl];W[hm];B[ek];W[cl]LB[il:A]C[reid: White needs to make it harder for black here.  Keep surrounding black with A (J8).  The white corner stones always have C2 in an emergency.]
+;B[ik];W[jm];B[ii];W[ih];B[kj]C[M: Maybe better at L9?
+
+reid:Black escapes easily.  L10 looks fine.];W[jk];B[jj];W[hk]
+C[M: Now white cuts of the black stones ...];B[hj];W[il];B[ij]
+;W[gk];B[gj];W[fj];B[fk];W[hl];B[fi];W[ej];B[ei];W[dj];B[gh]
+;W[kh];B[lg];W[mh];B[mg];W[ng];B[nf]
+(;W[mf]C[reid: Well this blunt attempt doesn't work for white.  See variation]
+;B[nh];W[og];B[lh];W[oe]C[M: Now some final attempts of white follow to throw around the game, and after that white resigns.
+
+reid: Looks like both sides had chances to win this game.
+
+In go, it doesn't matter how many good moves you make.  It's the bad moves you make that define your level.  You can get stronger by working to remove your bad moves, rather than by studing to find good moves.  You can be a quite high dan-level player even though you never make briliiant moves, just so long as you don't make big mistakes.
+
+Some bad moves are difficult to see, while others are comparatively easy.  I'd say the ones these players should work on are:
+
+1. aji-keshi
+2. yose during the middle-game
+3. unnecessary moves.
+
+If you can eliminate or at least greatly reduce these particular errors, you should gain at least three stones in strength.]
+)
+(;W[lh]C[reid: How about here instead?  Black needs to connect...]
+;B[mf];W[lj]C[reid: but now white can attack this black group.]
+;B[lk];W[mj];B[kk];W[mk]LB[nl:A]C[reid: now what does black do?  Note that white A captures 9 black stones and saves 4 white ones - 26 points.
+
+Probably black needed to give up the L13 stones and let white live.]
+))
+(;B[fm]C[reid: black is behind enemy lines, so he needs to be fierce and hoep for the best.]
+;W[gn];B[el];W[gm];B[gl];W[dm];B[em]C[reid: hard to see how this fight might go, but black probably needs to try something in this area.]
+))
+(;W[pj]
+(;B[pi];W[qi];B[oj];W[ok];B[nk];W[rj];B[nl];W[sk];B[jh])
+(;B[rh];W[mk])))
+(;B[og];W[qj];B[rk];W[oi];B[mh];W[mj];B[li];W[lj];B[kj];W[ll]
+;B[lm]C[reid: Bingo!  Now white is in trouble.
+
+Of course, it's impossible to say that this is how the game would go, but the point here is that black has many different ways to make M7 (or something similar) be sente.  And since a move in this area works two ways, black should spend some effort to get white to induce black to play it.]
+))
+(;W[ig]C[reid: fall back, then];B[hg];W[hh]C[reid: ... play powerfully!]
+;B[gh];W[gi];B[je]C[reid: black can't get out this way.];W[kf]
+C[reid: white falls back again.]))
+(;W[po]LB[pm:F][qm:D][on:G][pn:E][rn:B][ro:A][sp:C]C[M: After the game, we discussed that maybe connecting on the outside is better for white. What continuation would you suggest after B R6?
+
+reid: Why does white want to give up S4?  If next black A, it doesn't look like white gets anything out of the sequence to G.  White has to connect at A.  Since he can capture a black cut at Q5 in a geta, white has no worries.]
+;B[rn]))
+(;AE[cq]PL[B];B[po]C[reid: Black keeps the white stones split.  It is now difficult for the white stones to work together.  In contrast, the black stones are all working as a team to attack white.]
+;W[pp];B[op];W[qp]LB[pn:A][oo:B][oq:C][qq:E][or:D]C[Black now has a number of possibilities.  A-E all seem possible.  It depends on what kind of game black would like to play.]
+))
+(;B[po];W[pp];B[op];W[qp];B[oq]))

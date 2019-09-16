@@ -1,0 +1,480 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+GN[GTL-3]
+PB[ye]
+BR[22k]
+HA[4]
+PW[jug]
+WR[18k]
+KM[0.5]
+DT[2005-12-14]
+PC[The Kiseido Go Server (KGS) at http://kgs.kiseido.com/]
+RE[B+80.50]
+RU[Japanese]
+
+AB[dd][pd][dp][pp]C[Hi,
+
+i hereby request a review of this game for both players.
+It has been played at 15-Dec-2005 on KGS between ye[22k\] as B and jug[myself,18k\] as W.
+Edited SGF with cgoban-2.6.12.
+
+* Info about the game:
+19x19 with handicap 4 stones, Komi 0.5, without time limit (took ca. 3 hours).
+Actually this was my 2nd handicap-game, so sometimes i was a little helpless.
+
+* Info about my reviewing:
+I've included my and our review-comments, but moved some to the move before (hope that's not confusing).
+Included my thoughts along with questions starting with label 'jug' (instead of 'jug[18k\]' from the normal game-review).
+
+When i marked moves, marker 'A' is always the main-road of playing for the current player, other markers are about alternative thinkings for B or W.
+Maybe you can add reviewer comments starting with a prefix you prefer.
+
+What i would expect:
+- there are many different ways how to play handicap-games. Please comment the main-mistakes (when violating principles that should be considered in handi-games) for both players.
+- i included some of my "understandings" how to play handicap-games. if these are flawed, please correct them
+- correct and/or show better ways to cut/connect
+- when to play locally or tenuki
+- maybe you find some words about order of some moves
+- correct moves that gave up -> propose sente-moves
+
+Well, enough introduction, let's start ...
+
+Thanks in advance for your effort of reviewing this game, Kind regards, jug.]
+;W[qf]C[ye [22k\]: hallo
+ye [22k\]: enjoy
+jug [18k\]: hi
+jug [18k\]: nice game
+Ben:  I wanted to start by first saying that playing a handicap game is pretty much the same as playing an even one.  Your rank is higher than your opponents so you can be confident he will probably make enough mistakes such that you can exploit and overcome the handicap.  That said, there are a few special cases where people employ certain joseki, usually considered inferior in normal terms, in order to bamboozle their opponents into defeat.  Simply put it would be better for someone of your level to play as you would during a normal game and try just keep the biggest point on the board.  If you do this I think you will find yourself pleasantly surprised as you should win at least half your handicap games this way (try to rememeber the handicap is meant to give either player and equal chance to win).]
+;B[qe]C[Ben: Now see here already a mistake.];W[pf]C[jug [18k\]: it's really hard to play handicap games sometimes]
+;B[nc];W[qi]C[Ben: The extension should be one move further (r-10)]
+;B[qm];W[pn];B[qn];W[qo]LB[po:A]C[ye [22k\]: yeah, really tough handi
+
+jug: what about this ? better at 'A' ?
+Ben: Yes A does appear to be the move here.];B[po];W[qp];B[qq]
+;W[oq];B[pq];W[oo];B[rp]C[Ben: Unnecessary.];W[op];B[on];W[nn]
+;B[om];W[nm];B[nl];W[pl]LB[ol:B][pm:A]
+(;B[pm]C[jug [18k\]: bad shape];W[ol]C[Ben: This cuts off one stone.]
+;B[nk]LB[ml:B][ql:A][cn:E][mo:C][fq:D]CR[ol][pl]C[jug: played 'A', where better 'B' ... ?
+Ben: And also now A is necessary for the previous moves to make any sense and you end in gote, otherwise the marked stones are just "heavy."]
+;W[ql];B[cj]C[jug [18k\]: omg, that was hard];W[bd];B[cc];W[bc]
+;B[bb]LB[fc:D][cd:A][cf:B][cg:C]C[jug [18k\]: don't know the joseki for this
+ye [22k\]: don´t either
+ye [22k\]: mostly play intuitive
+jug [18k\]: but anyway, it's not good to play joseki in handi-games, because the situations become to good for B
+jug [18k\]: so W must confuse B
+jug [18k\]: ... without getting confused for himself ;)
+ye [22k\]: :)];W[cd];B[db];W[ec];B[dc];W[ed]C[jug: big no no (make groups weak), better line of play propably starting with move #33]
+;B[de]C[ye [22k\]: maybe i could bring top right corner alive but i didn`t dare
+jug [18k\]: sometimes the contact play R15 is not so good in handi-games
+jug [18k\]: it makes me stronger
+jug [18k\]: and leaves a weakness in corner
+ye [22k\]: i see
+jug [18k\]: but B did a bang-up job in left-corner, or W a very bad one (now 2 weak groups)]
+;W[hc]LB[jc:A][kc:B]C[jug [18k\]: maybe better at 'B', safe
+
+jug: how to approach W here ?
+Ben: A or B have their pros and cons, it's a matter of taste in my opinion.  Tenuki is also an option as k4 is quite large.]
+;B[jc]C[ye [22k\]: hard to keep overview]
+(;W[lc]C[Ben:  White should make their first group stronger, see variation.]
+;B[kd]C[jug [18k\]: good
+jug [18k\]: cut W
+jug [18k\]: into pieces
+Ben: I prefer k-15 for black];W[ld];B[ne];W[me];B[nf];W[lf]
+;B[ke];W[kf]
+(;B[ie]C[ye [22k\]: this was my doom
+jug [18k\]: not neccessarily];W[od]LB[oc:B][pc:C][nd:A]C[ye [22k\]: yes
+jug [18k\]: but i'm not the joseki-knower too
+ye [22k\]: no way out
+ye [22k\]: either this or that
+jug [18k\]: i think, if you are a good fighter, you need not to be afraid]
+
+(;B[nd]C[Ben: This move seems fine.];W[qd];B[pe]C[Ben: Again a fine move.]
+;W[rd]LB[pc:A][re:B]C[Ben:B all the way, white is just dead.]
+
+(;B[pc];W[qb];B[re]C[ye [22k\]: helpless
+jug [18k\]: difficult, I tried moves without reading them];W[pb]
+;B[ob];W[rf]
+(;B[mh]C[jug [18k\]: you know that can be cut ?
+ye [22k\]: i thought to connect either to K-group or elsewhere
+ye [22k\]: maybe i felt too safe
+
+jug: what is best here ? first make life (if possible, how?) then escape ?
+
+Ben: Hmm well white is not alive yet.  I believe it is a ko.  Black could use the ko and make threats to escape or kill the white corner. eg:]
+
+(;W[ng]
+(;B[mg];W[mf];B[og];W[nh];B[oh];W[ni]LB[od:3][qd:4][mf:5][of:B]
+[pf:2][ng:1][rg:A]C[jug [18k\]: better at 'B'
+ye [22k\]: yes
+jug [18k\]: 5 groups now
+jug [18k\]: keep opponent cut
+jug [18k\]: that's very important in handi-games
+Ben: Not sure if I woud play B, white has some outside influence. n18 and t16 are miai although I think its the same ko situation if white tries to play n18 first. So black probably needs to settle his group and get n18 before white so that should preclude black playing at B.]
+
+(;B[rg];W[se];B[mi];W[oi];B[lb];W[mb];B[kb];W[nb]C[Ben: Possibly N17 better?  Less ko threats anyway.]
+;B[ig];W[kh];B[mj];W[of];B[kj]
+(;W[fp]C[Ben: This high move wont do enough for you.  Play low kakari.]
+;B[cn];W[dq];B[cq]
+(;W[cr]C[jug [18k\]: i always make that mistake ;)
+
+jug: better here (maybe variation) ?]
+(;B[dr];W[eq];B[br];W[er];B[cs]
+(;W[eo]C[Ben: White really ought to play around k-4, although even then black can reduce.  For example:]
+;B[do]C[Ben: About a one point move..];W[en];B[dm]C[jug [18k\]: boah, it's soo difficult (that's my 2nd handi-game)
+ye [22k\]: take ur time
+ye [22k\]: (and ur strong)
+jug [18k\]: you play very good too
+ye [22k\]: :)
+ye [22k\]: (try my best)];W[hf]C[jug [18k\]: now tried to give upper-group a base]
+
+(;B[if]C[Ben: The other way looks more damaging to me.  Lets see.]
+;W[je];B[jf];W[id];B[jd];W[he];B[ic];W[ff];B[ce];W[cg];B[be]
+LB[bf:A][eg:C][bi:B][ii:D][fl:H][ll:E][em:G][km:F]C[jug: played at 'A', what's better here ?
+- C: connect
+- D: cut
+- E/F: attack/reduce/enlarge-moyo
+- G/H: more thickness (maybe not good because wide open) ?
+Ben: Well A looks pretty much useless so I would say all of the above on what it is better.  C seems a little timid.  D might be  too aggressive, I mean you would just be making your other group weaker.  I propose g-12 which should give you life and threatens the move at D.  A move at F or k-6 looks necessary at some point.]
+;W[bf]C[jug [18k\]: that was not good
+Ben: You are correct.  He doesn't even need to prevent a-15 due to the snapback.]
+;B[ad]C[Ben:  Here black should just play d-13.];W[dk];B[ck]
+;W[dl];B[cl]LB[hb:H][ib:G][hh:I][ii:F][dj:A][fl:C][ll:D][em:B]
+[km:E]C[jug: played at 'A' (gote), what's better (sente-play) here ?
+Ben:  I dont see any awesome sente plays although certainly I and F are sente and G would take away blacks one eye for that group.  Honestly A seems as good as anything, in a way it threatens to play at B if black doesn't push through there.  Although that could be moot since you still need to make a move like E.]
+;W[dj]LB[lm:D][jp:A][jq:C][nq:B]TR[kh][kf][lf][mf][me][ld][lc]
+[mb][nb]C[jug [18k\]: and that neiter
+jug [18k\]: neither*
+jug [18k\]: you take sente
+ye [22k\]: yes, always same mistake
+ye [22k\]: ok
+
+jug: would interest me if variations are likely to work that way, or if general idea behind that or similar moves is ok ?
+Ben: Okay I added some comments in your lines of play.  Ill give a brief overview of the these moves:
+B is Aji-Keshi, it just doesn't do enough for you and gives him a free monkey jump.
+C is about the same as A.
+D is perhaps to tame.  I would only recommend D if I knew I would get the marked stones. But in fact that is semiai which white wins comfortably.]
+
+(;B[jp]LB[lp:A]C[jug [18k\]: bang
+jug [18k\]: it is still possible
+jug [18k\]: but not on 4th line
+jug [18k\]: you can't make a base there
+
+jug: played at 'A', better to cap or other move ?
+Ben: Well you need to play A at some point to make shape, so doing it now just puts the onus on black, which is what you want to do.]
+;W[lp]C[jug [18k\]: for example here
+ye [22k\]: have to learn more about strategic
+jug [18k\]: this drives you to the left
+ye [22k\]: yes
+jug [18k\]: on the left you can't make territory, but i gain some on the right while attacking]
+
+(;B[lm];W[kn]LB[hg:D][jh:E][jl:B][fm:C][hn:G][in:F][jn:H][mo:A]
+C[jug [18k\]: what do you wanted to do ?
+ye [22k\]: so played there where you would
+jug [18k\]: it's good to think of a plan, then search for moves to accomplish that
+ye [22k\]: ah
+jug [18k\]: for example: "escape with center-group" or "connect upper-groups" or "reduce center" ...
+ye [22k\]: ok
+ye [22k\]: yes
+
+jug: best for B here ? 'B'... or other move ?
+Ben: Well best was not playing m7.  There are a lot of things black could try to complicate the issue.  The question is if he needs too.  If black feels he can win with it then B may be best (looks too close to call to me).  Otherwise he may have to try something like at H or A or F and start trying to muddy the waters.]
+
+(;B[mo]C[ye [22k\]: no, it looks nice
+jug [18k\]: what's looking nice is not always good ;)
+jug [18k\]: this was too ambitious
+jug [18k\]: too many W around
+ye [22k\]: hm
+jug [18k\]: and "stay away from thickness"
+ye [22k\]: i didn´t know what to do];W[ln];B[mn];W[no];B[mm]
+;W[mp]
+(;B[hq]C[jug [18k\]: what was your plan here
+jug [18k\]: ?
+ye [22k\]: ehm
+ye [22k\]: get alive?
+jug [18k\]: though so
+jug [18k\]: thought so*
+ye [22k\]: :)
+jug [18k\]: that's very difficult near thickness, because i can attack from other side
+ye [22k\]: yes
+jug [18k\]: you know thickness ?
+ye [22k\]: yes
+ye [22k\]: now i know
+jug [18k\]: it radiates
+jug [18k\]: influence
+jug [18k\]: big influence
+jug [18k\]: hard to kill];W[in];B[jm]C[ye [22k\]: yes
+ye [22k\]: that´s why i gave it up too
+jug [18k\]: better to play from the distance as you did in fuseki]
+;W[km];B[kl]C[ye [22k\]: ok];W[lk];B[kk];W[jn];B[em]LB[il:C]
+[jl:A][fm:B]C[Ben: B hardly seems different than the mainline.  A and C could become important but I think they are not right now. I would be a little worried about black trying to cut through at m5, if anything he doesn't lose anything and he could get a semedori out of it.]
+;W[jl];B[im];W[gm];B[il];W[gk];B[fl]LB[gl:B][hl:A]
+(;W[hl];B[ik]C[jug [18k\]: was not satisfied with previous move though
+ye [22k\]: who?
+jug [18k\]: after this
+ye [22k\]: ah
+ye [22k\]: yes, i thought this is a good method to get alive]
+;W[ii]
+(;B[hb]LB[lh:B][lj:A][mk:D][ml:C]C[jug [18k\]: J9 or H18
+jug [18k\]: ?
+ye [22k\]: both
+jug [18k\]: yes
+jug [18k\]: i had a plan once to kill center
+ye [22k\]: good plan
+jug [18k\]: but i gave it up for now for later
+ye [22k\]: puh
+ye [22k\]: actually i wanted to kill u
+jug [18k\]: well, 2 eyes propably (as showed up later)
+jug [18k\]: where ?
+ye [22k\]: n14-group
+jug [18k\]: yes
+ye [22k\]: but i didn´t know how
+jug [18k\]: difficult, because short of liberties];W[eb]C[jug: cut, but may be dangerous, no eyes yet, and not connected
+Ben:I would be reluctant to try anything other than g12 here.]
+;B[fb];W[gb]C[jug [18k\]: back in a min (urgent business ;)
+ye [22k\]: jo
+jug [18k\]: back
+ye [22k\]: hm];B[ma];W[oa];B[gc]C[jug [18k\]: i feared that ;)
+ye [22k\]: puh];W[hd]C[jug [18k\]: G18 was a bad move actually]
+;B[fe]C[ye [22k\]: well, it made me think about it hard];W[ee]
+C[ye [22k\]: f15 was really worse
+jug [18k\]: consider it bad aji for me];B[ef];W[eg];B[fg]LB[df:B]
+[gf:A]C[ye [22k\]: i weaken more and more
+ye [22k\]: time 4 tea
+jug [18k\]: it become complexer and complexer
+jug [18k\]: sounds good, make one for me too ;)
+ye [22k\]: ok
+
+jug: now what ? still possible for W to stay connected or live after play at 'B' (gave up reading ahead, see variation - possible) ?
+Ben: Yes I think you should just play B here.]
+(;W[gf]TR[eb][ec][ed][ee]SQ[hc][hd][id][he][ff][hf]C[jug: simpler, but maybe giving up triangled stones (W still ahead, if boxed stones could be saved)]
+;B[fd]LB[df:B][fh:A]C[jug: played at 'A' (keep simple, but now upper-left stones lost)
+better to play at 'B' (still complex reading, too deep for me) ?]
+
+(;W[fh];B[df];W[ji];B[kq];W[lr];B[gr]LB[kr:B][is:A][js:C]C[jug: played bad move at 'A' (probably B get alive), better at 'B' ... ?
+Ben: Or you could make a bamboo joint with l4 and keep everything connected too.  You should have enough eyes to live.  Another idea would be to try to kill black with j2.  It could get very complicated.]
+
+(;W[is]
+(;B[di];W[fk];B[hi];W[gi];B[eh];W[gg];B[dg];W[ei];B[dh];W[fj]
+C[Ben: black did well here.];B[ek];W[fm]LB[ej:A]C[jug: this was mistake (gote), 'A' was sente]
+;B[oj]C[jug: some yose-moves from here: best play here to get some more points ?]
+;W[pj];B[ki];W[jg];B[lh];W[mc];B[jj];W[pr];B[qr];W[or];B[rl]
+;W[rk];B[sm];W[qs];B[rs];W[ps];B[rr];W[hj];B[hh];W[ij];B[lo]
+;W[ko];B[es];W[fs]C[jug: possible to keep cut without ko ?
+Ben: Yes! play e1 before he does.  But dont be afraid of ko's.  They are a natural part of the game.]
+;B[fr];W[ds];B[nj];W[pi];B[es];W[ib];B[ga];W[ds];B[el];W[es]
+LB[pa:4][sb:5][lg:2][gh:B][qk:3][ml:C][rm:A][fq:1]C[jug: better to proceed ko ? ko-threats for W at 'A' ..., are there more ?
+ko-threats of B at '1' ..., more ?
+which ones can be used, who will win this ko-fight ?
+
+Ben:  This was probably an okay time to fill for white.  It's impossible for me to tell the score but I think white is ahead so just fill is fine.  That would be the only thing that would dictate whether or not to keep the ko going for me.  The other thing is people usually reserve their larger ko threats for later in the hope that you will keep it going and white can't really afford to lose this ko (they refer to this is a picnic ko for black).]
+;B[ej];W[gh];B[hm];W[hn]C[Ben:  Unless I miss my guess, black could play j12 here which is a little better (he wont lose 2 stones) and would definetley force white to capture the group around o17.]
+;B[gl];W[hk];B[jk];W[ih];B[je];W[cr];B[kg];W[lg];B[dr];W[rm]
+;B[rn];W[cr];B[gn];W[kc]C[jug: mistake (overlooked liberty)]
+;B[dr];W[fn];B[cr]
+(;W[jb];B[ja];W[hg];B[ia];W[go];B[la];W[jb];B[ib];W[oc];B[sk]
+;W[rj];B[sj];W[si];B[sl];W[ok];B[ep];W[fq];B[dn];W[lq];B[fi]
+C[jug: double ko ?
+Ben: A double ko is pointless, you fill one he fills the other, theres no real reason to fight it out.  Triple ko is the one that causes headaches.]
+;W[lj];B[ll];W[na];B[fg];W[ei];B[qk];W[pk]C[jug: mistake];B[fi]
+;W[eg];B[kp];W[fg];B[gs];W[hp];B[ei];W[gd];B[fc];W[le]C[mistake, better at L2]
+;B[kr];W[ks];B[jr];W[js];B[gq]C[ye [22k\]: your group actually was safe
+ye [22k\]: just connect to G4
+jug [18k\]: searching for the bad move
+jug [18k\]: was too greedy, trying to kill you
+ye [22k\]: then i cannot do nothing about it
+jug [18k\]: hm, overlooked that
+ye [22k\]: thank god
+jug [18k\]: ;)
+
+jug: B now win by a margin of 0,5p]
+(;W[iq]C[jug: actually after this, W is dead (loose 80 points here) => resign-move]
+;B[gp];W[fo]
+(;B[ip]C[ye [22k\]: another cup of tea?
+jug [18k\]: that would be good
+jug [18k\]: bad bad bad reading ;)
+ye [22k\]: i was lucky
+jug [18k\]: luck does not exist in go: luck = mistake of opponent ;)
+ye [22k\]: well, that´s human
+ye [22k\]: hardcore brain trashing game it really is]
+(;W[hr]C[ye [22k\]: shall we make the best of it?
+jug [18k\]: give your best
+ye [22k\]: ok
+
+jug: reduce-move
+Ben: I think you get a seki, it is still bad for white though since he could have killed black.]
+;B[ho];W[ir];B[gn];W[mr];B[io];W[ls];B[tt];W[tt]TW[pa][qa][ra]
+[sa][ob][rb][sb][nc][pc][qc][rc][sc][md][nd][pd][sd][ne][oe]
+[pe][qe][re][nf][sf][kg][og][pg][qg][rg][sg][hh][jh][oh][ph]
+[qh][rh][sh][hi][ri][gj][qj][qk][np][mq][nq][nr][ms][ns][os]
+TB[aa][ba][ca][da][ea][fa][ha][ka][ab][cb][eb][gb][jb][ac][bc]
+[ec][bd][cd][ed][ae][ee][af][bf][cf][ag][bg][cg][ah][bh][ch]
+[ai][bi][ci][li][aj][bj][dj][lj][ak][bk][dk][lk][mk][al][bl]
+[dl][jl][ml][am][bm][cm][fm][gm][km][rm][an][bn][en][fn][hn]
+[in][jn][kn][ln][pn][sn][ao][bo][co][eo][fo][go][jo][ko][qo]
+[ro][so][ap][bp][cp][fp][hp][qp][sp][aq][bq][dq][eq][fq][rq]
+[sq][ar][er][sr][as][bs][ds][es][fs][ss]C[ye [22k\]: thx
+jug [18k\]: thanks
+jug [18k\]: great game
+ye [22k\]: yeah
+ye [22k\]: we should do this again
+
+jug: final comments ?
+
+Ben: Both players played a really tough game.  I predict you will improve a lot if you keep playing and analyizing.  There were some mistakes early on like black's handling of the top right or white's debacle on the bottom.  You both also made some really high level moves especially later in the game. 
+
+For black I would say just work on making strong groups and practicing some of the fundamentals, life and death, good shape and bad shape, bamboo joints and empty triangles and the like. 
+
+For white, I would say try not to be so exhaustive in your analysis when you submit games here again.  It makes it a little difficult to give variaitions.  Let your annotator surprise you with what he comes up with.  Maybe just save some of your more lengthy lines on your own computer unless you think they are really important and you want the annotator to definetly look at some conclusion in them.  Shorter lines are of course much prefered.
+That said I don't think either of you have any deficincies that can't be corrected by simply playing more and watching stronger players play (especially pros).
+my email: benjaminschooley@hotmail.com email me any time.])
+(;W[ho];B[ir]
+(;W[hs]
+(;B[io]C[Ben: wrong];W[hr])
+(;B[jq];W[ls];B[hr]C[Ben: Seki]))
+(;W[jq]C[Ben:sorry I dont know how to delete my mistakes with this thing. this one is wrong too.]
+)))
+(;B[ho]))
+(;W[gp]C[Ben: White is still fine here.  I don't think black can do anything but die.]
+))
+(;W[le]C[better here];B[jb];W[hg]))
+(;B[ir];W[js];B[hs];W[lq];B[kr];W[ks];B[jr];W[ls]LB[ho:B][ip:A]
+
+(;B[ip];W[gq];B[fr];W[fs];B[es]C[jug: ko for life])
+(;B[ho];W[hn];B[io];W[go];B[gq])))
+(;W[kr];B[jr];W[ip];B[iq];W[kp];B[hs];W[gq];B[fr];W[fs];B[ir]
+;W[js];B[es]C[jug: ko for life])
+(;W[js];B[jr];W[ks];B[is];W[lq]
+(;B[ip])
+(;B[iq];W[ip];B[hp];W[io];B[hr];W[gs];B[fs];W[fr]))
+(;W[ir];B[kr];W[lq];B[ep];W[fq];B[go];W[gp];B[hp];W[ho];B[lo]
+;W[kp];B[ko];W[gn];B[io]
+(;W[jq])
+(;W[hn];B[jo];W[jq])))
+(;W[df];B[gg];W[ef]C[Ben: Why play this now?  How about c11 or H13, maybe Cho Chikun could kill the group but I dont your opponent could.]
+;B[eh];W[dh];B[fi];W[ei];B[fk];W[hg];B[hh];W[gh];B[fh];W[gi]
+;B[fj];W[gj];B[gl];W[ih];B[jg];W[lh];B[jh];W[ki];B[ji];W[hk]
+;B[hm];W[ij];B[hi];W[jj];B[jk];W[hj];B[hh]))
+(;W[df];B[gf];W[fc];B[ga];W[ef];B[hg];W[gd];B[ge];W[fd];B[gg]
+;W[ei]C[Ben: White should be okay.];B[hi];W[fj];B[gl];W[dh]
+C[Ben:  Here or earlier white could just go c11 and live I think.  Have a look yourself.]
+;B[ci];W[cf];B[fh];W[ch];B[bh];W[ek];B[di];W[eh];B[fk];W[gb]
+C[jug: ko for life]))
+(;B[kg];W[lg];B[lh];W[jg];B[jh];W[ji];B[ih];W[kg];B[ki];W[mc]
+;B[na];W[ma];B[oa];W[pa];B[oc];W[oe]))
+(;W[gl]C[Ben: Solid connections like this are invariably better.]
+;B[fk];W[fj];B[gj];W[hj];B[gi]TR[ff][hf][kh][dj][fj][hj]C[ye [22k\]: flower
+jug [18k\]: difficult now
+jug [18k\]: for W to stay connected
+ye [22k\]: ah
+Ben: Indeed white needs to live top side now, it will probably cost him some points doing it but he should make it.]
+;W[hh];B[hg];W[gh];B[fi]C[ye [22k\]: can´t estimate where my moves lead to
+jug [18k\]: that comes with time and playing
+ye [22k\]: i was just afraid to get cut off again like top right corner
+jug [18k\]: attack and defense
+ye [22k\]: but nowhere to run
+jug [18k\]: ;)]))
+(;B[kq]C[jug [18k\]: maybe here first, this W-group has no eyes yet
+jug [18k\]: not all is working ;)];W[lq]
+(;B[jn])
+(;B[in])
+(;B[gq])
+(;B[fq];W[gq]C[jug [18k\]: nah];B[gp])))
+(;B[jl])
+(;B[fm]
+(;W[em]C[Ben: This looks too good for black, I reccomend this instead:]
+;B[fl];W[el];B[im]C[jug [18k\]: maybe this
+ye [22k\]: nice])
+(;W[io]C[Ben: White should be able live if black cuts him off.]
+)))
+(;B[jn]C[jug [18k\]: i feared this actually
+ye [22k\]: :)
+
+Ben: This is of course much better, after white plays n4 theres not many options left.]
+;W[ln];B[go]C[ye [22k\]: oh
+Ben: Or k8 is fine too.];W[kl];B[jl];W[jk];B[km];W[kk];B[il]
+C[jug [18k\]: still difficult
+jug [18k\]: by the way: be cautious with my "advice" (i'm also a beginner ;)
+
+Ben:  This looks double-edged.]))
+(;B[nq]TR[or]C[jug [18k\]: threaten to connect];W[or]C[ye [22k\]: yes]
+;B[jq])
+(;B[jq]C[jug [18k\]: or here on 3rd-line]
+(;W[lq]C[ye [22k\]: yes];B[gq]C[Ben: just k-5 is a simple and fine way to play.  White's not gettting any real points anyway so your really not doing anything by playing on g3, and g3 is also to far from k3 to make a reasonable eyeshape.  The pros would say this is too close to the white thickness.]
+)
+(;W[hq];B[nr]C[Ben: Aji-keshi again..just run];W[or];B[lq]C[ye [22k\]: yes]
+
+(;W[ir]
+(;B[jr])
+(;B[kn]C[ye [22k\]: yes
+jug [18k\]: something like that
+ye [22k\]: this looks nice]))
+(;W[kn]C[Ben: White needs this move, actually it should be on m-5 since the cut on p-5 looks violent.]
+)))
+(;B[lm]C[jug [18k\]: or here come from above
+ye [22k\]: yes
+jug [18k\]: that also would help B middle-group
+ye [22k\]: yes
+jug [18k\]: you know that proverb: "stay away from thickness"
+jug [18k\]: ?
+ye [22k\]: now i know
+ye [22k\]: :)
+jug [18k\]: the opposite is: "use thickness to attack", "don't use thickness to make territory"
+ye [22k\]: oh
+jug [18k\]: when opponent invades, drive him from the other side to the thickness
+ye [22k\]: ok]))
+(;B[he];W[ee];B[ef];W[gf];B[ff];W[ge];B[if]C[Ben:  White's group is lacking sufficient eye space although he can probably escape, especially since the black (on k -17) is weak.]
+))
+(;W[jp];B[mo];W[no];B[ko];W[lq];B[ho];W[hp];B[fn]C[Ben:  With a difficult game for white.]
+))
+(;B[eq];W[dr];B[ep]C[Ben: possibly better?]))
+(;W[eq];B[cr];W[eo]TR[nm][nn][oo][fp][op][oq]C[jug [18k\]: joseki is this
+ye [22k\]: yes
+jug [18k\]: aimed for something like that to come in play with thickness to right
+jug [18k\]: i'm sure you saw that
+ye [22k\]: that´s why i went to k3
+jug [18k\]: yes, but too late
+ye [22k\]: yes]))
+(;W[fq]C[Ben:  Black has a plethora of choices but Im guessing he wont want to allow you to take the bottom so that means some kind of pincer.  Ill show you how it might go.]
+;B[hq];W[cq];B[dq];W[cp];B[do];W[dr];B[er];W[cr];B[eq];W[cn]
+CR[nm][nn][oo][op][oq]C[Ben:  Never try to make territory with thickness. (circled stones)]
+))
+(;B[of])
+(;B[se]))
+(;W[mf]C[Ben: Still a ko in the corner, black could even make life with n-18.]
+)
+(;B[mf]
+(;W[le];B[mg]C[Ben: Black maintains the connection.])
+(;W[mg];B[le]C[Ben: Black settles a nice side area.])))
+(;W[mf]))
+(;B[mb]TR[nb][oc][oe]C[jug [18k\]: eye-potential here
+jug [18k\]: but running out possible])
+(;B[sd];W[sc];B[se];W[qc];B[sb];W[rb];B[rc]))
+(;B[re]C[ye [22k\]: i just learning to think two or three steps ahead
+jug [18k\]: that's very good]
+(;W[pc];B[oc]C[ye [22k\]: brain cooking
+jug [18k\]: B has one eye, and W nothing yet
+ye [22k\]: hm];W[of];B[oe];W[ob]
+(;B[nb]C[Ben: Black could consider cutting, for example.];W[qb]
+;B[le];W[mf];B[md];W[mb];B[na];W[rf];B[se];W[ng];B[lb];W[kb]
+;B[la]C[jug [18k\]: B live
+jug [18k\]: but difficult
+jug [18k\]: W corner and thick around (not good for B)])
+(;B[pb];W[nb];B[mb];W[mc];B[oa];W[lb];B[na]))
+(;W[of];B[oe];W[ng]C[Ben:This seems the best white can do, it isn't pretty, p16 was probably a mistake.]
+)))
+(;B[oc];W[pc];B[qc];W[pb];B[qb];W[ob];B[nb]C[jug [18k\]: leading nowhere
+ye [22k\]: what does joseki really mean?
+jug [18k\]: Joseki are generally agreed-upon sequences of play. A joseki is a sequence of moves which results in what is normally considered a fair outcome for both players
+jug [18k\]: see http://senseis.xmp.net/?Joseki
+ye [22k\]: oh])
+(;B[pc]C[ye [22k\]: hm];W[nd];B[nh]C[ye [22k\]: i keep training]
+;W[oc];B[ob];W[nb];B[qb]C[jug [18k\]: both life];W[mc]C[jug [18k\]: both live
+ye [22k\]: yes
+jug [18k\]: go is a game of exchange
+jug [18k\]: take and let take
+ye [22k\]: indeed]))
+(;B[re];W[ie]C[jug [18k\]: corner propably safe, but left-group weak
+Ben: Yes black's play in the game was a good one.]))
+(;W[he]C[Ben: Now black has to decide on something like k15 or c14.]
+))
+(;B[ol];W[pm];B[pk];W[ql];B[rl];W[qk];B[qj]C[JUG: ladder]))

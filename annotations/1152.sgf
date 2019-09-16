@@ -1,0 +1,175 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.13b]
+
+PB[arcin]
+BR[5k]
+HA[2]
+PW[ericosman]
+WR[3k]
+KM[0.5]
+DT[2002-10-24]
+PC[The Kiseido Go Server (KGS) at http://kgs.kiseido.com/]
+TM[60]
+OT[25/600 Canadian]
+RU[Japanese]
+
+AB[pd][dp]C[The game did not last longer than 50 moves (i lost by time). Since the game did not last long, it gives us a chance to have my opening analyzed...
+
+pheno : Hi arcin. This game being quite short, I will try to analyse the opening in detail. I will give my feeling about some moves and give suggestions. Fuseki is my favourite part of the game, but sometimes opening moves are based on feeling more than rigourous explanation, so this commentary doesn't claim to be perfect :-).]
+;W[pp];B[dc];W[de];B[ce];W[cf];B[cd];W[fq]LB[df:A][dg:B][cm:D]
+[cn:C]C[AB: I guess he wanted to my response here before playing at the top.
+
+pheno : Yes, this is a classical yosumiru (probe) move. A high-level strategy : depending on black's answer, white will choose between solid (A) or diagonal (B) connexion. This is possible because c16 is not absolute sente : even if black cuts there is still some aji (potential) in white stones. I give variations for black A and C. D is the game.]
+
+(;B[cm]TR[cm]C[AB:
+I picked this move thinking it would help me after he completed his joseki
+up in the top corner. He would end yp with a stone around C10 and then my
+C7 would be appropriately placed.   This also keeps my hopes high for an
+attack on F3.
+
+pheno : Besides the direct cut or c6, c7 is a possible answer to the probe. Now white choose the solid connection in the upper-left, as with the other joseki the marked stone would be perfectly placed...]
+;W[df];B[fc];W[cj]LB[ch:A][cq:B]TR[cm]C[AB: That was what I expected...
+But the question of course is "Was it correct to lead the game develop like
+this by playing the marked stone there? "
+
+pheno : Yes this is correct, and played sometimes by professionnals. Black doesn't have a very severe invasion on the side like in the other joseki (however A (c12) may become interesting later) and the 3-3 point B is more open to an invasion with c7 than c6, but once again it can't be helped. This was the purpose of the probe.]
+
+(;B[qn]LB[ip:C][dq:A][dr:B]C[AB:
+I contemplated on playing A, B or C for a while. Mostly weighing A and B.
+ Then I thought this would be too slow and it was not the right time. I made
+an approach move.
+
+pheno : A is the proper move, making an ideal shape with c7 and protecting the corner. It may feel slow, but it is sente, as C next would be too severe. See variation for A instead of r6.
+B usually leaves too many weaknesses in relation with the distant c7, B is played when c7 is at c6. Here A is proper shape.
+Pincering directly at C may not be very efficient in this shape because the corner is still wide open, so the pincer is not severe. See examples of variations when r6 is played at C.]
+;W[jp]C[AB: This was a nice, light  move. For a while I did not know how to play.
+
+pheno : This is a strange move. It is not easy to find the right answer, but I'm not sure it is a good move. The reason is that the f3 stone needn't to be defended because the 3-3 point is still open. So answering black's approach move directly, with o4, seems more natural. Or white can try to pincer the approach stone to complicate the game. Here black can take the initiative in the bottom-right corner.]
+
+(;B[qj]LB[ql:1]C[AB:
+I decided to make another light move. I let him develop as he liked and I
+developed myself. Some questions though
+1. Could he invade at R8? (1) If he did, how should I have played.
+2. Let's ask it from another perspective. Is it a good move for White to invade at (1) ?
+
+pheno : This is the first black's move I disapprove of. The reason is not the r8 weakness (as you say r10 is a light move). White may try to settle the shape with the r8 invasion, but the result is not bad for black (see variation). However, r10 feels overly defensive. White ignored your r6 move, you can "punish" him. See the two variations for examples of some more active moves.]
+
+(;W[nc];B[nd]TR[fc]C[AB: I wanted to build a wall facing my 2 stones, partially covering their weakness.
+
+pheno : Usually one doesn't like to attach like this on an approach stone because it strengthens it (the normal move is q14), but here it may be a good idea. The reason is the marked stone (f17) : as black is very strong here, he doesn't mind making white strong on a uninteresting part of the board. In exchange he can build a moyo on the right side, in conjunction with the r6-r10 stones.]
+;W[md];B[ne];W[oc];B[pc]
+(;W[ic]LB[kc:1][mc:A][kd:2]TR[fc]C[AB:
+He wanted to take arisk here. He should have played M17 and finished the
+joseki.   1. Should he have played the joseki? Wasn't that too much risk
+to take?
+
+For a while I thought of cutting him. I did not know how
+the running race would end up. A few moves later in the race, he could try
+to come in thru P16 and I did not know how I could respond. But I did not
+want him to soo easily develop. (1) and (2) were my options. I picked (2)
+because that would give me a chance to build my wall, while he is defending
+for the cut.
+
+(1) would keep me inside.
+
+pheno : This move is definitely an overplay. The weaknesses at (1) and A are too much to deal with. The usual joseki move is one space on the right, at k17. (Then cutting at A doesn't give anything interesting : white ataris at n18 and black's cutting stones will lack of liberties). Moreover here white has no reason to extend so far, because he is approaching a strong stone (f17). With f17 here, even k17 feels a bit far and simply connecting at m17, which is usually too cramped, should be playable here, forcing black to lose the initiative protecting with q14. (If white plays the usual k17, defending with q14 is not necessary, white can't cut without connecting first.) See in the variation a suggested sequence for white.
+Well, how to punish white's overplay? (1) is severe, (2) is too mild. See variation.]
+
+(;B[kd];W[kc];B[ld];W[lc];B[me]LB[od:B][le:A]C[pheno : Now black may have some influence, but with a poor shape. If white connects at n17 now, black has to worry about two cutting points at A and B. White's original overplay stone at j17 is now well-placed and white is strong with some territory. Black failed to punish the overplay.]
+;W[jd]C[pheno : How can white forget to connect? Very funny move.]
+;B[mc];W[mb]C[pheno : Now white has the bad aji of a ko fight with black's o18 later. Black is strong on the outside, so he may have achieved his goal, but white helped him a lot for that... I still disapprove with l16.]
+;B[rp]C[AB: I felt I was strong enough especially after the exchange on N.
+
+With this move, I was hoping I could handle any invasion sucessfully to my benefit.
+
+pheno : It is the right time to take the initiative, but how passive this move is! White ignored both r6 and r10, now a pincer is a must. This second line move is usually intended for stabilizing black, it is a defensive move. If now white defends with o4, nothing severe will happens, and black still has an invasion point at r8. Well, by luck white has fancier ideas than just defending...]
+;W[pf]LB[np:A]C[pheno : White completely loses his temper, leaving his q4 very weak and playing next to black's thickness. He will only give a target to attack. Defending q4 was urgent, and even for reducing the moyo there is no need to play so close to the wall. Now black's strategy must be to keep the white invasion's group weak but above all to take the initiative as soon as possible to pincer at A. Maybe it will be possible to enginer a double attack on the weak groups coming from q14 and q4.]
+;B[pe];W[og]C[AB:
+I find this move too weak.
+
+pheno : p13 is locally normal, light shape to escape, but white has no time to play here. As black's wall is strong and white can't stabilize himself completely with one move, I'd like to play at the bottom right now. If black attacks at the top, white will defend and eventually get to savety. If then black pincers at the bottom white has only one weak group to take care of. He would feel much more unconfortable with two weak groups on the board. Keeping the situation fluid to have more options available is a very important way of thinking in go.]
+;B[qh]C[AB: Finally decided that I did not want
+him create a base. He could try to live on the outside. While chasing him,
+I would also be creating some existence in the center to invade at the bottom
+around (N-O)(3-4)
+
+pheno : As I said I prefer to invade right now. At least be sure to get sente in the upper side fight because if white defends both the top and the bottom, he would have achieve a big success considering the weakness of his position to start with.]
+;W[ph]C[AB: He wants the outside.];B[qg]C[AB: Outside will be his.]
+;W[qf]C[pheno : r14 is a bad and heavy move, it doesn't help to get a base and only create a weakness at q13. Better to jump at n13 instead. Black is strong, there is no point in separating two strong groups.]
+
+(;B[rd]C[AB: I did not want him to go in. My other option was S15.
+
+pheno : This is overly defensive (again a second line move). White has no room to live on the side even without this move. Black is strong and needn't to worry about his base too. Maybe capping with n13 is better here, but in fact I can't find a very severe move. That's why I'd have prefered to delay the attack and to take the initiative at the bottom first.]
+;W[rf]C[AB:
+Here I ignored this move. He seperated my stones, but that is it and it is
+fine.   I wanted to go for the center and chase him and then invade the bottom.
+This was the plan.
+
+pheno : s14 is as bad and heavy as r14 (separating strong groups). Ignoring it is a must, I would have ignore those poor moves a long time before!]
+;B[pi]C[pheno : A thick move. Good shape.];W[mg]TR[pi]C[AB: At this move I thought  " Is "Q11" bad?"
+
+pheno : No it is ok. You can't kill white anyway. Getting strong shape on both sides while white only jump in the center without creating or destroying any territory is a success for black. This was surely not the right place to invade!]
+;B[je];W[mi]TR[je]C[AB: Another flash of thought : "K15 is also very bad ! :( "
+
+pheno : It is ok again! (Maybe l14 is locally better however.) The simple principle of keeping white separated and floating in the center... White has a light shape now, but may still suffer from a double attack with a group emerging from the q4 stone.]
+;B[oh]C[pheno : The proverb says "atari is a bad move". A perfect illustration here. You just threaten one stone. Well, you have already corrected the mistake in the variation you give.]
+
+(;W[oo]C[AB: He did not need to play this. That gave me a chance to crrect all the mistakes I did ...
+
+pheno : Maybe not the best timing to take sente, but defending around here is very urgent, and you failed to pincer first so... If white feels he can handle one more black move on the top-right, defending here may be ok. p5 is a funny shape however, very far from k4 : black still can invade around m4/n4! o4 seems more natural to me.]
+;B[nh];W[ng];B[mh];W[lg];B[lh];W[kg];B[pg];W[of]C[AB:
+After this the chase would continue :)) - but i ran out of time.   Final
+questions:
+1. Were my ideas sound?
+2. Did I mostly play correcly? Were
+my Decisions right? Were my fears realistic? Were my analysis of the board
+at different positions correct?
+
+Thank you very much for the review and your time.
+Arcin
+
+pheno : Oh, pity you lose on time here. White is still on a tight spot. He would have to run a few more, giving black more influence. Once he were out we would see black's attack was a bit premature, especially if p5 was in a more reasonnable place (at o4). But anyway black clearly has the upper hand, q14 was too big a mistake for white. Having a heavy group pressed against a wall like this is very painful.
+
+pheno : Some final remarks now. Above all, you played well in this game, you have a good sense of direction in the fuseki, you make proper and solid shapes, a good way to handle handicap go as black. It is white who made many unreasonable moves. But then you sometimes played mild moves (r10, s4, l16) and failed to punish white efficiently. Try to be more severe and you will have a very nice go style. You may learn from this game another very important idea in go : not to be too direct. When you attack it must be severe or you will just help your opponent to live or escape. If you don't have a severe attack, consider playing elsewhere, for instance to create another weak group... The first attack may come back to life later, with a much more severe flavour.
+
+pheno : Bye for now. Feel free to ask for questions about this review.]
+)
+(;W[nh];B[pg];W[of]C[AB:
+because of this my move was very bad ! This was 3 wrong moves in a row. How
+should I have played this chase??
+
+pheno : Only the last atari was very bad. When you can't see severe attack, it is better to keep the situation open and play elsewhere. When you have a few more stones in the area the attack may be worth considering again. Usually when one attacks too directly he only help the opponent to live or to make shape. A perfect example here. So the better way to play the chase may be to delay it, to invade at the bottom, and see how white can handle both weak groups at the same time.]
+))
+(;B[re];W[rf];B[rd]C[AB: But then I would have to defend. This would be gote, so I did not.
+
+pheno : s16 is gote too (at least it should be).]))
+(;B[kc]TR[ic][md]C[pheno : l17 is the usual invasion point between the marked stones. Playing l16 instead just help white to connect with l17.]
+;W[kd];B[lc]C[pheno : With this simple m17 move white's shape crumbles.]
+;W[ld];B[mc];W[mb];B[jc];W[jd];B[ib];W[hb];B[hc];W[id];B[jb]
+;W[pb];B[qb]C[pheno : The o17 white stones have no way to live. It is a huge loss for white.]
+))
+(;W[me];B[mf];W[kc];B[pf]LB[hc:A]TR[me][mf]SQ[kc]C[pheno : The exchange of the triangle stones ensures white will end in sente (black must protect his cutting points with q14) and then the squared stone makes a good shape, not too close to the strong f17 stone. White even has room for an ideal extension at A later. Now white has the initiative and can think about defending the lower side and reducing black's moyo (what about white p6 for instance?). Black's mild move at r10 can still be punished.]
+))
+(;W[ql];B[on];W[np];B[pk];W[qo];B[rn]C[pheno : This is a standard pattern. White uses r8 to induce the protection of the side, and the stone still has some aji (potential). But it is not too dangerous for black, so the r8 weakness is not worrying. (Others sequences are playable, for instance starting with p6 at s8.)]
+))
+(;B[mp]C[pheno : When one ignores an approach move against a hoshi (star-point) stone, it is natural to pincer. The o3 pincer is usual, I just give you another idea I like here, for a change :). n4 does separate white forces effectively.]
+;W[pn];B[pm];W[on];B[qo];W[qp]TR[mp]C[pheno : For instance, after this sequence, n4 is light and hard to attack. If you have confidence in your fighting strenght, this is interesting. See a more peaceful variation with r3 instead of the pincer.]
+)
+(;B[qq]C[pheno : Invading here is another way to deal with white tenuki. This is a solid move, in the same spirit than the c15 territory-oriented joseki, or the d3 enclosure move. But it is still far more active against white tenuki than the distant r10.]
+;W[pq];B[qp];W[po];B[pn];W[on];B[om];W[nn];B[pl]C[pheno : The white moyo (framework) is reasonable in size, and black has a very strong shape. It will be hard for white to catch up with the handicap.]
+))
+(;B[dq]TR[dq];W[iq]C[pheno : White must protect around this point...]
+;B[qn];W[np];B[rp];W[qq];B[qk]C[pheno : This is natural flow. Black played solidly and white has no way to seek complications. Black has retained the full advantage of the two handicap stones.]
+)
+(;B[ip];W[cq];B[dq];W[cp];B[do]
+(;W[dr];B[er];W[cr];B[eq];W[co];B[cn];W[fo];B[fn];W[go];B[fm]
+TR[ip]C[pheno : This is an example of joseki white can follow if black pincers at the marked stone. I feel the fight is feasible for white, and he succeeded in complicating the game. I also give a quiet variation starting with b6 instead of d2.]
+)
+(;W[bn];B[cn];W[bm];B[cr];W[br];B[bo];W[dr];B[bl]C[pheno : This exchange is another joseki.]
+;W[ej]C[pheno : Maybe white defends against black's strenght with this jump. Now j4 doesn't work so well because separating white f3 is gote. In short, the c3 weakness makes the pincer a bit inefficient.]
+)))
+(;B[df];W[cn]LB[cg:A]C[pheno : Cutting is possible to make a thick shape, but white will take the initiative to pincer at the bottom, and there is a risk that he dictates the flow of the game. Later white can pull out the c14 stone at A, so this is playable for him.
+This immediate cut is seen in some professional games, but here it can lead to complications, maybe this is not wise in a handicap game. It all depends on your feeling.]
+)
+(;B[cn]TR[cn]C[pheno : c6 is locally the usual move, and perhaps the most common answer to the probe. If c6, White will choose the diagonal connexion for the joseki in the upper-left corner.]
+;W[dg];B[fc];W[ck]LB[ch:A]TR[cn]C[pheno : Now, black would prefer to have his marked stone on c7, because it works better with the aji (potential) of invading at A. But this can't be helped : this is exactly the purpose of white's probe : make black decide the move at the bottom before he knows the choice of joseki in the top-left.
+Let's see what happens if black plays c7 instead of c6...]))

@@ -1,0 +1,359 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+PB[chilli]
+BR[27k]
+PW[gringogo]
+WR[25k]
+KM[0.5]
+DT[2004-11-11]
+PC[IGS-PandaNet]
+RE[B+10.50]
+RU[Japanese]
+
+C[Hi, and thank you! ^_^
+
+Basically, I just need info on what would help me to improve my effectiveness (esp. opening/'early game' pointers).  Don't worry I don't expect a comment on EVERY error. I'd feel sorry for you then. ^_^
+As my game goes right now, I think I rely too heavily on my opponent slipping up. I don't want to have to put so much weight on their mistakes, and become more efficient myself.
+This match (regarding my play) isn't at all a numinous game. I did win, but have many questions about where to improve, so I hope that it's appropriate for review.  Thanks again!
+
+xxc : reviewer
+you have already an answer : " do not expect  your opponent DON'T see " in many games he will be arround your level and can read as well as you can !
+
+i have a fast look at the game
+and perhaps you can try something for your next games with just this question : what is the status of the stones on the board ?
+
+this may help you to point out where you have to play
+
+i'll do the review in this way
+
+w=white
+b=black
+7v1= variation 1 starting from stone 7]
+(;B[pd]C[Bit of a proem: I (Black here) do have a tendency to play 'dangerously,' rather precariously avoiding capture most of the time. This will only be a hindrance against strong players, I think, so feel free to make suggestions concerning the matter.
+
+xxc : so we start here
+why Q16?
+
+1 - can extend towards both side and center
+2 - can live easyly
+3 - because it's easier to make territory in the corner then edge and then center
+so starting to construct near the corner is a good idea but it's a 4th line stone so it's main use is to build thickness to strike elsewhere
+
+see 0v1];W[dp]C[xxc : we will stay on stones and group status and perhaps a little on the result after a sequence]
+;B[pp];W[dd]LB[dj:2][pj:1][jp:4][fq:5][nq:3]C[xxc : ok
+4 corners played
+
+now questions
+where next stone and why ?
+
+1 - strong move build a nice side
+2 - cut w to prevent him having his own side
+3 - strengfhen a corner (but it's meaningless with a 4-4 opening ... too early)
+4 - extend toward the side (and reduce D4 space)
+5 - attack the corner
+
+all this is part of fuseki strategy with also corner paterns]
+;B[fq]TR[ip][jp][eq][hq]SQ[cn][dn][dq]C[xxc : attack the corner
+
+but what can w do ?
+remember ... there is no chance he do not SEE
+
+1 - tenuki, is there a good reason to play elsewhere ?
+2 - strenghten D4 at squares
+3 - counter attack at triangles
+
+ho, i forgot something really important
+it's just my feeling and all i'll show is far from being perfect :(]
+;W[dn]LB[cl:B][jp:A][iq:1][dr:2]C[xxc : w chose strenghten
+he also starting to build a big corner
+and attack F3 ! w at A may be dangerous for F3
+w also leaves a weakness at B
+
+b can
+1 - tenuki, but still no reason to play elswhere right now
+2 - strenghten F3 at 1
+3 - go on with attack at 2
+
+and so on ... for each stone]
+(;B[fc]C[Normally I, at least, come a bit closer to finishing one side, before jumping to the other.  I think luck allowed me to get away with this one.
+
+xxc : i do not think it's a good idea
+now w just have to strenghten D16 and will be able to attack one of the two b stones F3-17]
+;W[df]C[xxc : now b have to chose one side];B[kp]LB[jd:1][ip:A]
+C[xxc : perhaps a little to far w is quite strong at the corner
+no more presure on the corner w can strike at top side with 1]
+;W[hp];B[hq];W[gp];B[gq]C[xxc : ok bottom side seems safe
+
+result some points for b
+thickness for w];W[id]LB[db:2][ic:4][hd:3][fe:1]C[xxc : here we are
+
+what can b do ?
+the answer is at stone 7 see 6v1
+1 - escape ? 14v1
+2 - live 14v2
+3-4 - fight 14v3 (long fight with too many var)]
+(;B[ic]LB[hd:1]C[xxc : fight
+w can simply push at 1 threaten to cut
+
+here you also have to think about cut
+does the 2 b stones are connected ?]
+(;W[hc]C[xxc : does this cut ?]
+(;B[dc]C[Would D17 normally be foolish or effective?
+
+xxc : C17 might be cut or ... 16v1
+
+this seems to be your main problem switching from one thing to another one
+J17 was played to fight or escape
+and now D17 is played to live but w H17 now reduce eyespace and it will not be easy]
+;W[cc];B[jc]C[xxc : and fight again];W[ie];B[gc];W[gd];B[hb]
+C[xxc : ok it's over now
+
+result
+b is quite safe at top
+w had an other wall]
+(;W[hd]TR[gb][ib][ec]C[xxc : no need to play this one F16 better 23v1
+
+and now?
+
+w have a nice moyo at left and all stones are safe
+
+can b groups be under attack ?
+bottom have D2 or connection
+top have weakness but can escape at right
+
+two big empty spaces at sides
+construct at right
+invade at left];B[cj];W[di];B[cm]C[HELP! I'm not so much worried about the two just played, but as I look at the rest of the board, it seems dangerously barren in the wrong spots.
+
+xxc : no it's ok, there is enough space to live];W[cn];B[bn]
+;W[bo]
+(;B[el]C[Noting, by this point, that my opponent was clearly the type to go for influence, I made a mild (I think cowardly) attempt to frustrate that idea with E8. Any suggestions?
+
+xxc : comming into the trap at C10 is allready a way to reduce his walls effect
+E8 question is ... connected or not ?
+here you are trying to live, if you offer your opponent a cut, you will have one more group to care about and it will not be helpfull ... or E8 is a sacrifice
+
+enlarge eyespace is the only thing to do here
+B12 first i think];W[dm]C[xxc : here is the cut, because of B7]
+;B[cl];W[dl];B[dk];W[ek]C[xxc : ok it's cut
+but the 2 stones have done a great job, nearly alive and whit an open door to escape toward center]
+
+(;B[fk]C[xxc : wrong side 36v1];W[ej]LB[jj:B][pj:A]C[xxc : is the group alive ?
+else the only way to enlarge eyespace is toward top
+
+i do not think it is
+
+else what to do ?
+
+can be a good idea to start a moyo at right side no ? A
+or reduce w at B
+the two marked stones have already do their job just let them perhaps be usefull latter]
+;B[fm]TR[gp][hp]C[xxc : ok
+an other group to make alive
+
+can be intersting to have the 2 white stones as target];W[fj]
+TR[fp];B[gk];W[fn]LB[gj:1]C[xxc : seems difficult to attack bottom
+
+good idea to turn at 1];B[gn];W[em]C[xxc : is it usefull to save E8 ?]
+;B[fl];W[go]
+(;B[fo]C[xxc : huhu
+
+here it's a reading problem];W[fp];B[en];W[eo]TR[en][fo]C[xxc : b lose 2 stones here and gives a nice shape to white
+
+see 46v1
+
+what is the status of this new b group ?
+no alive yet
+
+2 marked stones useless now 4 points only];B[qj]C[xxc : a big move
+help center group a little and make a nice shape on side];W[ld]
+C[xxc : reduce space for top group];B[lc];W[db]C[xxc : how many points for that stone ?]
+;B[ec]TR[md][bh][kj][eq][qq][dr]C[xxc : bigger moves elsewhere all arround the board]
+;W[qf];B[qe]C[xxc : it's ok];W[mc];B[nc];W[lb];B[kc];W[nd];B[oc]
+;W[nb]C[xxc : status of top groups now ?];B[ob];W[ma];B[kb]
+;W[qc]C[xxc : white can't live here];B[qd];W[re];B[rd];W[od]
+LB[qb:A][pc:1]C[xxc : b can be cut now
+first idea is 1, but can this cut be protect with a better move ?
+1 may be an eye for black !
+what about A ?];B[pc];W[pa];B[oa];W[qb]LB[md:B][pf:1][qj:A]
+TR[re][qf]C[xxc : can w live ?
+and what about the stone just under b group ?
+with A already here, might be difficult to live
+there is also a weakness at B
+
+perhaps a good idea to play center and build a wall between 1 and A to support center group ?]
+;B[rb];W[rc];B[sc];W[se];B[sd];W[rg];B[qg]C[xxc : what for ?
+you divide by 2 the liberties of your stone];W[pg];B[pb]LB[ra:A]
+C[xxc : same result at A but now b have to ad one more stone]
+;W[qh]LB[hb:B][mc:I][pc:A][ie:H][bf:2][df:G][qf:F][kh:3][cl:C]
+[fm:D][dp:E][cq:1][qq:4]TR[qj]C[xxc : and now ?
+
+A alive
+B, C, D not yet
+E, F and G alive
+H and I not yet
+
+where are the point to grab ?
+
+1, 2 and 3 nothing
+4 is big
+
+supporting marked stone might be a good idea now];B[mg]C[xxc : seems too far]
+;W[hn];B[hm];W[fn]C[Another problem I have is leaving things undone only to later watch them come back to haunt me. If you have any ideas as to a remedy it'd be appreciated.]
+;B[in]C[I often somewhat understand [that/how\] a move is a poor one, but not so much that I can decide what are the good ones in some cases.]
+;W[gm];B[hl];W[gj];B[hk]LB[hj:A]TR[mg][qj][hl][in][kp][pp]C[xxc : this one can be at A
+J6 not so bad];W[hj];B[ij];W[pj];B[pi];W[qi];B[pk];W[oj];B[ok]
+;W[qk];B[ql];W[rj];B[rk]LB[rl:1]C[xxc : better at 1 ?];W[qj]
+;B[rm];W[nk];B[nl];W[ml];B[mk];W[nj];B[mm];W[ll];B[lm]TR[ol]
+[pl][nm]C[xxc : leaves too much weakness];W[ol];B[pl];W[nm]
+;B[om];W[nl];B[nn];W[lk]TR[mn][on]C[xxc : can w push anymore ?]
+;B[li]LB[kj:A]C[xxc : seems too far
+A cuts];W[sk]LB[hb:C][bh:1][ih:3][li:D][cl:B][hl:A][ip:4][dr:2]
+C[xxc : can b let this stone ?
+
+now A can connect
+B and C still need help
+D is cut
+
+1, 2, 3 and 4 seems big];B[rl];W[on];B[pm];W[no];B[mn];W[pn]
+;B[qn];W[oo];B[mp]C[xxc : nice white is dead];W[mo];B[lo];W[np]
+;B[nq]LB[mq:1]C[xxc : what about 1];W[mq];B[lp];W[oq];B[nr]
+
+(;W[op]C[Was this a poor choice in W's abandoning a follow-up move aimed to keep the pressure on the pair at O2?  What is a better play here for W (and, of course, B)?
+
+xxc : no choice see 143v1]
+(;B[mr];W[pq];B[qq];W[qp];B[rp];W[po]
+(;B[qo];W[rq];B[qr];W[pr]C[Perhaps another opportunity for atari not taken by W? Other options?
+
+xxc : when i start playing at my club, our teacher always tells us "atari is a bad move"]
+;B[ps];W[rr];B[pp];W[km];B[or];W[ii]LB[li:B][hl:A]TR[bh][ip]
+[dr]C[xxc : does anything change ?
+
+A can be cut ?
+other groups stay in same state
+
+B can be rescued ?];B[ji];W[jj];B[ik];W[jk];B[jl];W[ki];B[jh]
+;W[lj];B[kn];W[jm];B[im]C[Moves 171-177 were simply the result of some form of a plan that was carelessly wasted, in case you're wondering about what possible sense the following exchange could have.]
+;W[jn];B[io];W[jo]
+(;B[ip]LB[kl:B][ip:A]C[The variation, at L8, is what I had envisioned since that large B chain had 4 liberties 'at my disposal' (so to speak).
+
+xxc : see in your var];W[jp];B[jq];W[kl]TR[bh][dr]C[xxc: 2 moves]
+;B[iq]C[xxc : usefull ?];W[kh]LB[kd:A]C[xxc : b is dead in the center
+
+w may add stone at A];B[kg];W[lh];B[jg];W[lg];B[lf];W[mf];B[mh]
+;W[mi];B[kd];W[le];B[ke];W[kf];B[jf];W[je];B[lf]C[xxc : i remember ko at my first games ... never understand it !]
+;W[gb];B[fb];W[kf];B[kj];W[lf]LB[ra:4][ib:3][bk:1][bm:2]C[xxc : w have still some threats]
+;B[kk]C[I thought that W made a good ko-fight effort, but just let the 2 stone capture slide. I suppose a true ko fight would've ended in W's favor? Which brings me to my next query: If there are boldly superfluous moves, which could be better spent on patching threats, feel free to comment. Thanks again.
+
+xxc : i think w do not realise that your ko threat connect your stones or just affraid of going forward with ko battle ?
+
+this ko was big not only the 5 stones but also all the points at left
+
+it is not necessary to fix weakness just to grab a ko threat, without ko it will be a waste move (answer your question here ?)]
+;W[ih];B[ig];W[hg];B[hh];W[hi];B[gh];W[if];B[jj];W[gg];B[fh]
+;W[fg];B[ei]C[I think my brain was on a coffee break for those last few moves.]
+;W[eh]LB[hb:A]TR[bh][dr]C[xxc : becomes clearer
+
+i think A needs attention now
+
+big moves marked];B[ho]TR[bh][ci][bm][eq]C[xxc : too small and seems bad
+hoping w do not see ?
+w should let you the 2 stones for 5 points only
+there is still bigger moves
+
+and at the end of the game H5 will not be played do not change the result]
+;W[gn];B[dq];W[cq];B[eq];W[bm];B[bl];W[am];B[ci];W[ch];B[bh]
+;W[dj];B[al]C[xxc : dangerous 227v1]
+(;W[an];B[ck];W[dr];B[er];W[ds];B[es];W[br];B[cg];W[dh];B[bf]
+;W[cf];B[be];W[bd];B[ad];W[ac];B[ae];W[dg];B[bg];W[eb]LB[bb:A]
+C[xxc : w can't play this A works];B[ga];W[ce];B[ed];W[ee];B[pe]
+;W[oe];B[qa]LB[na:1][pf:2]C[xxc : can wait 2 more stone];W[ng]
+C[xxc : useless];B[pf];W[of];B[sl];W[sj];B[ka];W[bb];B[ea];W[da]
+;B[fa];W[fd];B[ia]C[xxc : needed ?];W[mb];B[ai]C[A11; entirely unnecessary, eh?
+
+xxc : no];W[ko];B[ln];W[ep];B[tt];W[tt];B[tt]TW[aa][ba][ca]
+[ab][cb][bc][cd][md][de][fe][ge][he][me][ne][ef][ff][gf][hf]
+[nf][rf][sf][eg][mg][og][qg][sg][fh][gh][hh][mh][nh][oh][ph]
+[rh][sh][ei][fi][gi][li][ni][oi][pi][ri][si][mj][mk][bn][en]
+[ao][co][do][fo][ap][bp][cp][aq][bq][ar][cr][as][bs][cs]TB[ha]
+[ja][pa][ra][sa][gb][ib][jb][qb][sb][qc][rc][af][ag][ah][bi]
+[aj][bj][ak][bk][jk][il][qm][sm][on][pn][rn][sn][mo][no][oo]
+[po][ro][so][np][op][qp][sp][kq][lq][mq][oq][pq][rq][sq][fr]
+[gr][hr][ir][jr][kr][lr][pr][rr][sr][fs][gs][hs][is][js][ks]
+[ls][ms][ns][os][qs][rs][ss]C[Well, if u got this far THANK YOU for your time and help addressing any, and all, issues you did.
+
+ Much obliged  -chilli ^_^
+
+xxc : thank u
+i hope this material will be usefull for your coming games
+not so much technical things, you may find them by yourself everywhere with better explanations than i can bring
+
+chance may be on your side for a short time ... and vannish arround 15K level
+the faster you drop it away ... (i win with good moves not with chance) ... the faster you raise 15K :)
+
+an other tip really usefull ... make a review of your own games, each game if possible
+remembering the whole game, you will find by yourself what was good or not
+
+thank u])
+(;W[ck];B[bk];W[bj];B[dk];W[bi]
+(;B[ck]C[xxc :  ???])
+(;B[an];W[ck])))
+(;B[kl]LB[kl:B][ip:A]
+(;W[kk];B[il]
+(;W[ip]LB[ip:A][jp:B];B[jp])
+(;W[jp]LB[ip:A][jp:B];B[ip];W[iq];B[jq]))
+(;W[ip];B[jp];W[iq]C[xxc : have to make a count but it not seems so interesting]
+)))
+(;B[qr]))
+(;B[pq]C[xxc : here ?]))
+(;W[or];B[op];W[mr];B[po];W[ns]SQ[nq][nr]C[xxc : can this group live ?
+
+false eye at square];B[kr];W[np];B[nq];W[nr];B[no];W[nq]))
+(;B[ep]C[xxc : threaten to cut];W[eo];B[dq]C[xxc : reduce (extend) corner
+and then center group]))
+(;B[ej]C[xxc : white can't D10];W[fk];B[dj]C[xxc : good result]
+))
+(;B[bh];W[ci];B[bi];W[dj];B[ck]C[xxc : this will be enough
+b can live now and w is left with a wide open moyo quite nothing at both corners]
+))
+(;W[fd];B[hd];W[he]))
+(;B[cc]
+(;W[dc];B[cd];W[ce];B[be];W[bf];B[db];W[eb];B[cb];W[ec];B[bd]
+C[xxc : seems alive but too good result for white];W[hj])
+(;W[cd];B[dc]C[xxc : do not hope white chose this way])))
+(;W[hd];B[hc];W[gc];B[gb];W[gd]SQ[cj][dj][ej]C[xxc : too many weakness for b, have to add a stone to be quiet and then w at line 10]
+))
+(;B[fe];W[if];B[fg];W[dh];B[gh]C[xxc: gives point to w at corner and a little thickness to attack Q16]
+)
+(;B[db];W[cc];B[cb];W[bc];B[hc]C[xxc: may live and do not strenghten w too much at the outside]
+)
+(;B[hd];W[ie];B[ic]
+(;W[jc];B[ib])
+(;W[he];B[jc];W[dj])))
+(;B[dr];W[cq];B[iq];W[cl];B[fc];W[df];B[db];W[cc];B[ic]LB[ch:A]
+C[xxc : here is what can be played
+bottom is safe for both
+top is safe for both
+w leaves a weakness arround A]))
+(;B[pp]TR[nn][oo]SQ[pj][jp]C[xxc : square marks extension from 4-4 point
+other mark is for escape];W[dp]LB[cq:A]C[xxc : if surronded can live with A]
+;B[dd]LB[ec:2][cf:1]C[xxc : with 1 and 2 gives a big corner
+
+but];W[pc]LB[qc:B][jd:2][qe:1][pj:A]SQ[jp][pp]C[xxc : this one only need one more stone at 1 to keep the corner
+with counter part
+can't extend so nicely towards A (perfect work is 1 then 2 at the side stronger than squared shape at righ bottom)
+do not make a so good shape with B to make life
+
+so, just with these few stones you can see that each one have a follow up, a meaning, it's own strengh and weakness
+
+you have to learn that, basic shape, joseki, cut and connect, no one can do it for you, and while playing it's too late if you don't know at least the easier way]
+;B[jj]C[xxc : and here ???
+we can follow the same process
+cut w and connect b
+support for escape toward the center from everywhere
+...
+
+remember each stone migh work and have a purpose
+if you spend too much stones with no meaning, you will offer a nice win to your opponent
+if you don't take care off your stones they will be killed and then useless]
+))

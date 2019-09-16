@@ -1,0 +1,162 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+GN[DGS game]
+PB[Jaakko Särelä (kennuu)]
+BR[12k]
+PW[Yin Kai]
+KM[6.5]
+DT[2007-01-17,03-01]
+PC[Dragon Go Server: http://www.dragongoserver.net/]
+RE[W+Resign]
+RU[Japanese]
+GC[Game ID: 282248]
+
+C[I am black and 12 kyu in Finland. My opponent does not have an official rating. We have played once before, a 4 stone handicap (in my advantage) game, which I lost.
+
+This game is an even DGS server game with enough thinking time, at least a day / move can be used.
+
+This is my first game I give to be reviewed. I would like to thank the reviewer and as well the whole site for the opportunity to learn from stronger players and from the games other have played, too.
+
+[edgy:  This was an interesting game to review.  Although I think you made some tactical mistakes--the lower left corner didn't turn out well, for example--the main problem was that you didn't realize how far behind you had gotten until too late.
+
+Even doing a very rough count is very helpful in deciding on strategy.  If you know that the game is close, you can just play normally, but if your are far behind, you know to try something drastic, like trying to kill enemy groups.  If you don't count, you can't know if a particular plan will be enough to win.
+
+Thank you for submitting your game to be reviewed--doing reviews helps clarify my own thinking.\]]
+;B[pd];W[dp];B[qp];W[op];B[oq]C[[edgy:  I'd be more inclined to take the open corner.\]]
+;W[nq];B[pq];W[dd]C[This tenuki was a bit surprising.
+
+[edgy:  This tenuki seems to come up fairly often in professional games.  I think the idea is to move fast around the board;  if Black takes time to cut, White gets to play twice elsewhere   I suspect this works a lot better for pros than for us mortals.\]]
+;B[np];W[qf]C[But I think this tenuki was a mistake. Maybe black should have punished immediately?
+
+[edgy:  I think you played right.  Black is strong in the lower right now, so a pincer/extension feels good.\]]
+;B[qh]LB[pi:A]C[[edgy:  I do think that a looser pincer might be better;  also maybe a high pincer, to match Black's high position elsewhere.  ('A', for example.) But this shouldn't be bad.\]]
+;W[nd];B[pf];W[qc]
+(;B[qe]C[[edgy:  Blacking the other way is also possible (see variation).\]]
+;W[pc];B[mq]C[[edgy:  I think Black is doing fine here.\]];W[ql]
+
+(;B[ol]LB[qj:A]TR[qf]C[I thought that a capping play would give me outside strength even if white would live inside.
+
+[edgy:  That's not bad thinking, but I wonder if extending to A might have been better, pushing the white stone towards Black's thickness below.. (see variation)  The aji of the marked stone makes Black's position in the top right feel thin to me.\]]
+;W[pj]
+(;B[pk]C[But I think this was not a good move.
+
+[edgy:  I'm not sure Black can has a good move locally.  Maybe he should tenuki.\]]
+;W[qj];B[oj];W[ph];B[pg]TR[qf]C[[edgy:  Seems forced because of the marked stone.\]]
+;W[oi]C[White gets out too easily.];B[qk]C[and the following moves only strengthen white. Should black tenuki immediately?
+
+[edgy: Well, I like this move because it gives White a couple of cutting points...\]]
+;W[rk]
+(;B[ri]LB[rd:C][rj:A][rl:B]C[[edgy: ... but if Black feels this is necessary to strengthen the upper group, then the push was probably bad.  I think, though that Black should tenuki here and hope for a chance to use one of the cuts at A or B later, perhaps after playing C.\]]
+;W[rj];B[cj]LB[ic:A]C[This seems a big point for both sides, now.
+
+[edgy:  Yes.  A move around A is also big, but this is probably a little bigger.\]]
+;W[cg];B[cm];W[jc];B[fq]TR[cj][cm]C[Double-kakari seems good. It seems likely that I can make territory in the lower part, when pressing white's corner stone.
+
+[edgy:  The problem is, that if White plays an attach-and extend in this corner, he can lean on the marked stones.  I think my knee-jerk reaction to White's extension would have been to invade the 3-3 in the upper left.\]]
+;W[fp];B[cq]C[Retrospectively, this does not seem to be a good move. Maybe a simple G4 would be better. If C7 would be C6, then maybe this is correct.
+
+[ed gy:  Yes, I'm not sure I like this for Black.  If Black wanted to invade here, he sholdn't have made the second approach.\]]
+;W[dq];B[cp];W[co]C[[edgy:  Surely this must be an overplay?  Just extending must be right, instead--White counters Black's strength on the lower side.\]]
+;B[do];W[bo]
+(;B[eq]C[[edgy:  This looks odd.  The hane underneath seems obvious.\]]
+;W[dr];B[ep];W[cr];B[cn]TR[dn][eo]C[Should white exploit the cutting points? To me it would seem that white cutting there would be awkward for black. I would cut at E5.
+
+[edgy:  Yes, the cutting points are very bad for Black.  However, playing elsewhere here doesn't seem bad for White--if Black has to come back and defend the cutting points, White gets two moves in a row elsewhere.\]]
+;W[iq];B[fo]LB[dn:A]C[To protect the cutting points.
+
+[edgy:  There's still  potential for a cut at A, and meantime White gets another move on the lower side.\]]
+;W[kp]TR[op][nq]C[I pondered several possibilities, but taking F3 seemed best, though I'm not happy with giving white an extra stone to back up his J3 and L4.
+
+[edgy:  White has soem ideas about using the aji of the marked stones.  This is troublesome for Black.  The stone at F4 is not so important, I think--it's not a cutting stone.\]]
+;B[gp];W[in]C[[edgy: White has had it all his own way now-- he has a nice corner and Black won't make anything on the lower side, plus Black's left-side group is not fully secure.
+
+The territorial balance is in White's favor, _not counting_ his potential on the top left and top center.  The game is very hard for Black.\]]
+;B[il]C[Capping seemed the best idea: I would build some outside strength that I could use to invade/reduce whites upper side.
+
+[edgy:  I don't think that even an invasion of the top will be enough for Black to win.  Black must try to kill White's bottom center or right-side groups, so making central strength is the right idea:   One point to the right might be better here, though, since then if White plays contact moves, Black's thickness will face the right side and weaken White's group there.\]]
+;W[jl]C[This touching seems a good move for white. I think white should welcome the strengthening of both sides here: black has strength already at F5, but white is still weak.
+
+[edgy:  Yes, the strengthing of the White position will reduce Black's chances to make a big gain.  Also, Black could wind up overconcentrated on the left, with a lot of stones surrounding a small central territory.\]]
+;B[ik]LB[jm:A]C[[edgy: So, I think Black should have cut at 'A' to start a big fight.\]]
+;W[ll]C[[edgy:  This not only gives White more shape, it also reaches out to the right side group.\]]
+;B[oo]LB[jm:A]C[Now white crawling with P5 seemed bad for black. Especially since P8 stones are becoming weak.
+
+[edgy:  This is a problem for Black, But after White's next move, White's postion is pretty much alive.  Black needed to cut and take the consequences.\]]
+;W[ln]
+(;B[dc]LB[gc:A][nj:B]C[I decided to invade now since the white group seems rather stable now. If white gets to add one more stone, his upper and right side may become too big and difficult to invade.
+
+[edgy:  As discussed before, a simple invasion probably won't help much.  Both this and the 3-3 invasion sterngthen White's position at the top too much.  Maybe invading around A might be a littel better--leaving the possibility of an other invasion later-- or maybe trying to keep White split by a move around B, and trying to attack both White groups might hold out more prospects. \]]
+;W[cc]
+(;B[cd]C[Here black could have taken an easier route to stabilise D17. See the variation.]
+;W[cb];B[ce];W[de];B[bg]C[[edgy:  Locally, I like this move a lot.  Black settles well.\]]
+;W[bf];B[cf];W[df];B[be];W[bh];B[af]
+(;W[dh];B[ci];W[ch];B[bn]C[I decided to play this forcing move before stabilising my invasion at C16 in gote.]
+;W[bp];B[bc]LB[ec:A]C[[edgy: The problem with the result in the upper left for Black is that White now has a powerful wall.  I wonder if an extension to A, provoking a huge fight, might have given Black better chances to win the game.  It's not an easy fight for Black by any means, but as played, White turns the top side into territory, and the game is over.\]]
+;W[bb];B[ad]LB[ab:A][db:B][ec:C]C[[edgy: A descent staright to the edge, or playing A himself, is a couple of points better for Black.
+
+In particular, if Black plays A, he would be threatening B, so White might have to play at C, which leaves a little more space for invasion in the top left than in the game.\]]
+;W[fc]C[Now drastic measures are needed if black wants to come back in the game. Especially, something needs to be done in the upper side.]
+;B[kd]LB[hc:B][lc:A]TR[id]SQ[je]C[A shoulder move seems like a good idea, but which one? The squared cap could be used for reducing, too. How to choose between them?
+
+Or should black now pressure white's K8 group to get stronger in the centre before the reduction?
+
+[edgy:  Maybe invading at A nd B--not sure which order--might make things harder on White.  Or Black could try once again to kill one of the White groups.
+
+These are not "reasonable" ideas, but being far behind, Black has to do something unreasonable to win.\]]
+;W[jd];B[je]C[Blacks plan is to come out lightly.];W[ke];B[oh]
+C[The forcing moves on the right side are made to get favorable ladders, if needed.]
+;W[nj];B[ok];W[pi];B[jf]C[Though now white has a very good move at O12.
+
+[W O12 would put some pressure on the Black upper-right group, but the move he played is also very good,\]]
+;W[le]C[This white seems passive to me.
+
+[edgy: it's very thick.  White now has secured a very large territory at the top, and Black still has worries in the center and the top right. \]]
+;B[ih]C[Because now black is in contact with his own group.]
+;W[rg]LB[nh:A][li:B]C[Now white attacks the black group. I didn't find any variations, where everything would have lived, so probably I made a bad move earlier on, already. Of course losing one stone is not that important, but in this case it practically stabilises the white group, so I think it is a more important stone.
+
+[edgy:  White is far ahead and probably thinks he can afford to mess around.  I'd just play A, followed by somewhere around B, to link up my weak groups--safety first.
+
+The game is decided in any case.  I won't have much to say about the rest.\]]
+;B[rf];W[rh];B[qg];W[qi];B[oe]C[Black still needs life. I though that not being shut-off the centre might be valuable later on, so I decided to take my second eye there, instead of the border.]
+;W[od];B[qd];W[ii]C[White resists the reduction.];B[hi];W[hh]
+;B[gh]LB[jh:A]TR[je][jf]C[[edgy:  Black needs to play A here of next move to avoid having the marked stones cut off.\]]
+;W[hg];B[ji];W[ig];B[ij];W[jg];B[kf];W[nf]C[Black's eye is not yet full, so this may need defending. On the other hand, black can have a gote eye starting from S17 if needed, so maybe something like L13 or M13 (to get to clearer waters) would have been better.]
+;B[of];W[kh]C[Now black L14 are dead and the reduction ended in disaster. Black cannot come back anymore. Though, I'm not sure if there would still be an attack against K8 group.
+
+Black's last desperate attempt was to deny white's right border group of two eyes, so that O12  would become sente. Then it could be possible to link L14 group to P12 group, possibly utilising the aji left from L16. As  expected, it didn't end well and black lost by resignation. What became crucial was the weakness of the P8 group.
+
+I made no review from this on.];B[si];W[sj];B[rn];W[qn];B[rm]
+;W[qm];B[sl];W[ro];B[qo];W[rp];B[rq];W[rl];B[sp];W[on];B[nn]
+;W[om];B[nm];W[nl];B[nk];W[ml];B[mk];W[li];B[mj];W[nh];B[lj]
+;W[kj];B[kk];W[ki];B[lk];W[jk];B[kl];W[km];B[jm];W[jj];B[lm]
+;W[mm];B[kn];W[mn];B[no];W[im];C[Result: W+Resign]N[RESULT]
+)
+(;W[ch]C[This may have been better for white, since it doesn't give the forcing move of C11.
+
+[edgy:  but it has less effect toward the center, and C11 doesn't look like it adds much to the Black position.\]]
+))
+(;B[ec];W[cd];B[hc]LB[ie:A]TR[pd][qe][pf][pg][qh][ri]C[Maybe something like this.
+
+[edgy:  I think that a White move around A here could be annoying.  Black's group is not really settled, and if white gains enough strength in the center, the Black grou in the upper right could find itself in an awkward spot.  On the other hand, this sequence does seem to take more teritory away from  White than a corner invasion.\]]
+))
+(;B[cc];W[dc];B[cd];W[ce];B[be];W[bf];B[de];W[cf];B[db];W[eb]
+;B[cb];W[fc];B[ad];W[ee]C[[edgy: This is pretty favorable for White.\]]
+)
+(;B[gc];W[ec];B[ib];W[jb];B[ge]C[[edgy:  Maybe something like this?  White still has to worry a little about an invasion in the corner or on the right.\]]
+))
+(;B[dr]
+(;W[dn];B[eo];W[ep];B[cn]C[[edgy: This fight looks very hard for White.\]]
+)
+(;W[eo];B[dn]C[[edgy:  This also looks very bad for White.\]]
+)))
+(;B[rj];W[ri];B[rl];W[sj];B[rm]C[[edgy: Black doesn't want to do this immediately, since he ends in gote and the upper group is weakened, but later it might be worthwhile, since it secures a large territory in the bottom right.\]]
+))
+(;B[qk];W[pk];B[pl];W[rk];B[rl];W[qj]LB[qm:B][mp:A]C[[edgy: Since Black can't win a ko fight (White has several threats starting with A), Black can't play B.\]]
+;B[rm];W[ph]C[[edgy: So, White is fine here.\]]))
+(;B[qj]
+(;W[qn];B[ok]C[[edgy: White is squeezed between two strong Black positions.\]]
+)
+(;W[ol];B[pk];W[pl];B[nj]C[[edgy:  White is not too healthy here.  Black has built thickness above and influence in the center, and White still has to settle his stones.\]]
+)))
+(;B[pc];W[qd];B[pe];W[rf];B[kd]C[[edgy:  Maybe something like this -- Black has a lot of influence.\]]
+))

@@ -1,0 +1,254 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+GN[Yooko-spider8-20060624.sgf]
+PB[Philippe V (spider8)]
+BR[9k]
+HA[2]
+PW[Yooko (Yooko)]
+WR[8k]
+KM[0.5]
+DT[2006-06-06,2006-06-24]
+PC[Dragon Go Server: http://www.dragongoserver.net]
+RE[B+6.50]
+RU[Japanese]
+
+AB[pd][dp]C[Dear Reviewer,
+
+In this game I had black in a 2 stone handicap game on Dragon Go Server. This game had white spread his stones around much more than black in the fuseki. This lead to black trying to attack/reduce whiteÂ¡Â¦s framework in the middle game. However I (black) did not do so well in my view. Entering the endgame it was a very close game but I believe it was slightly better for black and made it possible for me to finally win. However, my assessment is that my middle game play could be improved.
+
+I am hoping that this review will give me hints or teach me how to attack in a more effective manner.
+
+I am also curious about the advantages and disadvantages of my approach against my opponent in the fuseki. I would also be interested in knowing if I played the big endgame points correctly.
+
+I have put comments in the SGF file at different points in the game to highlight my thoughts as the game progressed.
+
+Thank you in advanced for your comments.
+
+Philippe
+
+[DP W will typically spread stones around in a handicap game - it can create a little confusion which is what W wants\]pi]
+;W[pp];B[dd];W[qf];B[nd]C[[DP I don't really like this - prefer going for big points like K16 or D10 straight away - you should be comfortable with the 2 stone kakari when W then follows up with O16 instead. This is really personal preference at this stage though\]]
+;W[fq];B[dn]C[[DP This is starting to look too good for W already.  It's too easy for W to invade at either J17 or C11 and make a two point extension\]]
+;W[jp];B[cj];W[pj]C[[DP W is being very conservative\]];B[jd]
+C[Move 10-11
+
+I debated between playing tengen K10 or K16 and finally opted for K16. I did not play tengen because I was not sure how I would react to white wedging on the upper side.
+
+I was not surprised to see white take tengen. He now had a large yet loose framework that I was not sure how best to attack or invade.
+
+[DP W is playing a waiting game.  He has a sensible, symmetric framework.  I don't like K16 since it means all stones up top are now 4th line.  K17 would have been preferable. You should not play tengen until you have a stone aroud K17\]]
+;W[jj]
+(;B[ej]LB[dc:D][ej:A][qn:C][gp:B]C[Move 12
+
+Too slow for black perhaps? Or a calm and patient move?
+
+[DP Looks like B is playing for territory without a secondary objective - i.e. would W have played there? No!  So not a good idea in a handicap game.  W will immediately erase with a 3-3 invasion. So, what should you have done? Of the 3 options considered I think D17 is best\]]
+;W[cc]
+(;B[cd]LB[dc:B][cd:A];W[dc];B[ec];W[eb];B[fc];W[fb];B[gc];W[bd]
+;B[be];W[bc];B[cf]C[Move 24
+
+My feeling was that white had invaded too early and gave me nice thickness. Although I was not sure how to use this thickness effectively. A handicap strategy from my opponent I guess.
+
+[DP I don't think this was too early for W - if you had played D17 it would have been hard for W to erase the advantage. Nevertheless, it does give you good thickness for a move like G4 or G5\]]
+;W[jf]C[Move 25-26
+
+This move by white left wondering how to make best use of my thickness. I did not want to be over-concentrated in the upper left and so I decided to play L14.
+
+[DP But why the contact move - you could have invaded at R3, or pressed at G4 (which would make nice use of your thickness up top) - contact moves are defensive.  The basic rule for thickness is play away from it, so you should have been thinking about moves in the bottom right area. You can ignore K14. Alternatively attack from distance with a move like Q13, which nicely utilises your left side stones\]]
+
+(;B[kf]LB[kf:A][pg:C][gp:B];W[jg];B[je]C[Move 28
+
+My thinking was to not let white easily erase the potential territory in the upper left.
+
+[DP But the contact move does exactly that.  W builds strength in your area - not what you want\]]
+;W[kg];B[lf];W[pm]C[Move 31-32
+
+With this move by White I felt pressure to get on the right side of the board.]
+;B[jn]C[[DP H3, R12 or R3 are the pressure points\]];W[jo]C[[DP A curious move by W.  I would probably have played F5. Branching off from this move are the R12 invasions.  I have ordered them so the optimal line is the "bottom" variation\]]
+
+(;B[oi]LB[qh:B][oi:A]C[Move 34
+
+I was happy to leave my move at 32 for the moment as a potential ladder block. My aim with 34 was to not let white get too much territory in the upper right and more importantly to attack the 3 white stones at the top.
+
+[DP Wrong point for invading the 3 stone extension.  This is a classic shape and the correct point for invasion is nearly always R12. Attack and Defense has a good chapter on this. I also don't like the idea of leaving K6 unattended - you could simply pull back to J6, so that W really has to play H4 leaving you with sente\]]
+;W[pi]C[[DP W is building 4th line territory happily here\]]
+;B[og];W[ph]
+(;B[mg]LB[qe:C][mg:A][oh:B]C[[DP Horrible move, and I expect you knew it didn't feel right at the time!  You're (correctly) worried about the weakness at P12 - best thing is simply to play it then! Or R15 would be good to pressure R14 and also to secure the corner at the same time\]]
+;W[nj];B[mi]C[Move 40
+
+I am still learning the differences between light/heavy/thick/over-concentrated. These last 4 moves were my attempt at staying light and flexible. I am not sure if this is the best shape but I was happy since I felt I was putting some pressure on the 3 white stones in the upper middle while surrounding an acceptable amount of probable territory in the upper right.
+
+[DP The end result of the exchange you have just had is not good for B.  The corner remains open, W has sente and has secured the right side. Further more around F13 is now open to invasion after your contact moves strengthened W.  So yes, I'm pouring a little cold water on this - better moves would have been a) ignoring K14, b) invading R3, and c) invading at the correct place at R12\]]
+;W[mj]C[[DP Good move by W, securing the lower right quadrant apart from your isolated stone at K6\]]
+;B[li];W[lj]C[[DP Compare where you get to on move 43 of the different variations and it might be easier to see why R12 would have been so much better\]]
+;B[ji];W[ii];B[kj];W[kk];B[ki];W[ij]C[Move 49
+
+Although I surrounded some probable territory in the upper right white is now very strong in the lower right.
+
+[DP You're quite right, and at this point playing W in a handicap game I would expect to win - I have two corners to invade and also bases at J11 to launch attacks into B moyo. So it needs some good moves from B - and you spotted and played them well!\]]
+
+(;B[qq]LB[jk:B][qq:A]C[Move 50
+
+This was the hardest move for me and the one that took me the longest to decide. I did not know how best to attack white in the middle and upper middle. Finally I delayed the decision and invaded the lower right corner as I feared that I may not get any territory in the lower right.
+
+I am not sure about this decision because I knew white would have virtually secured all the other territory in the lower right with all his thickness.
+
+[DP - Good move - W is already too strong here for many other moves to be considered I think the cut at K9 is worth considering here too, to start a big fight\]]
+;W[pq];B[qp];W[qo];B[ro]
+(;W[qn]LB[qn:A][rn:B];B[rn];W[rm];B[pr];W[or];B[qr];W[nq];B[jk]
+C[Move 62
+
+The most difficult decision of the game for me, how to attack the 3 white stones in the middle. I could no longer put it off. The 3 white stones in the middle would probably connect to white on the right side or the lower left. I could not come-up with a move that would prevent white from connecting to his stones on the right side or lower left side.
+
+I considered playing J8 or K8 but white could still connect to the right with K9. Then I felt that my black stones would be under attack from white in the lower left and this would give white an opportunity to attack and make territory in the lower left.
+
+Finally, I decide to cut and thought that I would be able to connect to my stones on the left side or lower left corner.
+
+Any thoughts on this specific point are welcome.
+
+[DP Absolutely spot on.  Good move, and B is now right back in the game. But the fighting is tough from this move\]]
+;W[kl]C[Move 63
+
+This move took me completely by surprise as I expected white to attack from the left side.]
+;B[jl]C[Move 64
+
+If I had to do it again I would probably play diagonal at J8 as I believe this gives me a better chance to connect to my black stones. Again, any thoughts on this specific point are welcome.
+
+[DP Yes, J8 a little better\]];W[il]
+(;B[im]LB[im:A][jm:B]C[[DP Better just to link up and have a strong line\]]
+;W[ik];B[jm];W[hm];B[hn];W[gn]
+(;B[ho]LB[gm:B][ho:A]C[Move 72
+
+I have resigned myself to sacrificing my 5 black stones. My aim is to settle in the lower left.
+
+[DP This is a shame since there's a lot of fighting left in them! But if you can secure an advantage then fair enough\]]
+;W[go];B[gm];W[hl];B[gp];W[fp];B[fo]C[Move 78
+
+I considered F7 two moves up, but I thought I would have a hard time living on the lower side. So more sacrificesÂ¡K
+?];W[fn]
+(;B[eo]LB[fm:B][eo:A];W[hp];B[gq];W[hq];B[gr];W[io];B[fm];W[in]
+;B[fr]C[Move 88
+
+The attack did not work as intended, but as consolation I do have a good chance at getting  territory on the lower left.
+
+[DP Indeed your losses are not too bad, and you have secured the bottom left corner\]]
+;W[cq]C[[DP Oooh - this is rash by W\]];B[dq];W[hg]C[Move 91
+
+It appears we are beginning the endgame. Much to my regret white had many more sente moves than I did. Any comments on how we played the bigger endgame points are welcome. My opinion is that white made one mistake further (at move 105) that allowed me to win.]
+;B[fg];W[rd];B[qc];W[rc];B[gb];W[cp];B[co];W[bo];B[bn];W[dr]
+;B[er];W[br];B[ds]
+(;W[ap]LB[ap:A][cs:B]C[Move 105
+
+In my opinion this is the losing move for white as he should have started a ko at C1.
+
+[DP Correct - this is a big loss for W and turns the game\]]
+;B[bs]C[Move 106
+
+White has some aji in the corner, but the white stones are dead. My assessment is that black can now win this game, but it was closer than I thought. Could black have done better?
+
+[DP No, you did well to kill this - easy to get it wrong\]]
+;W[cm];B[cn];W[em];B[dm];W[el];B[dl];W[he];B[gf];W[hf]C[[DP The large moves are currently at S18 and J2 - don't follow W around the board!\]]
+
+(;B[ge]LB[ge:A][ir:B];W[hr]C[[DP there goes one of them...\]]
+;B[rb]C[[DP - but you did get the other\]];W[qd];B[qb];W[sn]
+;B[fa]C[[DP Good response - asks W well, just how are *you* going to deal with it then??\]\]]
+;W[da];B[sp];W[ni];B[nh];W[oh];B[pf];W[pe];B[oe];W[qe];B[pg]
+C[Move 132
+
+Finally a forcing move for black!];W[qg];B[ek];W[fl];B[hd];W[sb]
+;B[oc];W[fi];B[ei];W[fh]
+(;B[eh]LB[eh:A][hs:B];W[gs];B[cr]C[Move 144
+
+I was waiting for this, I knew I could not have haned at H1 earlier in the game without letting white live in the lower left corner.
+
+END of COMMENTS
+
+[DP End of comments too\]];W[gg];B[ga];W[sm];B[sr];W[ba];B[fs]
+;W[hs];B[fk];W[gj];B[en];W[gl];B[ie];W[ae];B[af];W[ad];B[os]
+;W[ns];B[ps];W[lh];B[lg];W[kh];B[mh];W[if];B[gk];W[hk];B[ea]
+;W[so];B[rp];W[db];B[fj];W[gi];B[jh];W[ih];B[ra];W[sc];TW[aa]
+[ca][ab][bb][cb][ac][sd][re][se][rf][sf][ig][rg][sg][gh][hh]
+[qh][rh][sh][hi][oi][qi][ri][si][hj][oj][qj][rj][sj][jk][lk]
+[mk][nk][ok][pk][qk][rk][sk][jl][ll][ml][nl][ol][pl][ql][rl]
+[sl][fm][gm][im][jm][km][lm][mm][nm][om][qm][hn][jn][kn][ln]
+[mn][nn][on][pn][ho][ko][lo][mo][no][oo][po][ip][kp][lp][mp]
+[np][op][iq][jq][kq][lq][mq][oq][ir][jr][kr][lr][mr][nr][is]
+[js][ks][ls][ms]TB[ha][ia][ja][ka][la][ma][na][oa][pa][qa][hb]
+[ib][jb][kb][lb][mb][nb][ob][pb][hc][ic][jc][kc][lc][mc][nc]
+[pc][ed][fd][gd][id][kd][ld][md][od][ce][de][ee][fe][ke][le]
+[me][ne][bf][df][ef][ff][mf][nf][of][ag][bg][cg][dg][eg][ng]
+[ah][bh][ch][dh][ai][bi][ci][di][aj][bj][dj][ak][bk][ck][dk]
+[al][bl][cl][am][bm][cm][an][ao][bo][do][ap][bp][cp][ep][fp]
+[aq][bq][cq][eq][fq][rq][sq][ar][br][dr][rr][as][cs][es][qs]
+[rs][ss]C[White: 95 territories + 10 prisoners + 0.5 komi = 105.5
+Black: 103 territories + 9 prisoners = 112
+Result: B+6.5]N[RESULT])
+(;B[hs]LB[eh:A];W[gs];B[fs];W[cr];B[cs];W[is];B[gs];W[ar];B[es]
+;W[bq]))
+(;B[ir]LB[ge:A];W[hr];B[hs];W[jr];B[js];W[ks];B[is];W[iq];B[gs]
+;W[kr];B[rb]C[[DP and the game is all over bar the shouting\]]
+))
+(;W[cs]LB[ap:A];B[cr]C[[DP and now there are equal numbers of ko threats for the top left and bottom right groups, but W has loads threatening to invade the left side so he will win the ko\]]
+))
+(;B[fm]LB[eo:A]
+(;W[en]LB[eo:B]C[[DP W can't dop this because of the ladder\]]
+;B[eo];W[em];B[el])
+(;W[eo]LB[en:A];B[en];W[fo];B[hp])))
+(;B[gm]LB[ho:A];W[hl];B[go];W[fn];B[ho];W[fo];B[ln];W[km];B[kn]
+;W[ml]))
+(;B[jm]LB[im:A];W[ik];B[im]C[[DP Would you have played this move? No, I thought not. That's why J7 was wrong\]]
+))
+(;W[rn]LB[qn:A]C[[DP W may also have thought about this option.  You can live as B, but it's not simple\]]
+;B[qn];W[po];B[rm];W[rp];B[sn];W[rq]))
+(;B[jk]LB[qq:A];W[ik];B[jl];W[il];B[jm];W[im];B[in]C[[DP and now W has to either allow you H6 to link back, or lose L9 in a net\]]
+;W[gm];B[lk]))
+(;B[oh]LB[qe:C][mg:A])
+(;B[qe]LB[mg:A][oh:B];W[qc];B[pc];W[re]C[[DP W can get the corner if he wishes, but his losses on the outside are too great\]]
+;B[rd]
+(;W[rf]LB[qd:B]C[[DP W is best off securing this side and keeping sente\]]
+;B[qd])
+(;W[qd]LB[rf:A]C[[DP W can initiate the exchange if he wishes\]]
+;B[pe];W[rc];B[rf];W[sd];B[qg];W[pf];B[pg];W[of];B[nf])))
+(;B[ph]C[[DP This is the bad point to invade, so won't do anything other than show the main variation\]]
+;W[qh];B[qi];W[pi];B[qg];W[rh];B[pg];W[rg]C[[DP End result is W is strengthened and B is heavy and a bit short of liberties\]]
+)
+(;B[qh]LB[oi:A]C[[DP OK, let's talk you through this one.  This is the classic invasion point - the spot to beware of is Q12 which is poor for B.  W now has 3 options depending on how strong he is.]
+
+(;W[pg]C[[DP This is the move W would like to play if stronger, but he can't handle the cut at P13 so this option is not open\]]
+;B[ph];W[oh];B[rf];W[re];B[rg];W[qe]C[[DP W must play here.  Attacking at S11 for example doesn't work , since B will cut at R15 and capture either S15 or R14\]]
+;B[rj];W[oi];B[og]C[[DP and W is in difficulty\]])
+(;W[ph]C[[DP This is nearly always the best response for W. The only other move you're likely to see is Q13\]]
+
+(;B[qi]C[[DP These are the safe options for B\]]
+(;W[pi]LB[pg:B];B[rk]C[ADDITIONAL COMMENT:
+
+PV: I was aware of this as a pressure point, but I was reluctant to give the opportunity to my opponent to build yet more thickness considering he already had more stones in the middle of the board. Invading at the R12 was good for territory but after that I judged my prospects difficult.
+
+[DP General advice - territory in the middle of the board is typically only worth half what it looks like (too many moves to defend it) and often ends up being zero.  So don't concern yourself too much about this\]]
+)
+(;W[pg]LB[pi:A];B[rl]C[ADDITIONAL COMMENT:
+
+PV: I was aware of this as a pressure point, but I was reluctant to give the opportunity to my opponent to build yet more thickness considering he already had more stones in the middle of the board. Invading at the R12 was good for territory but after that I judged my prospects difficult.
+
+[DP General advice - territory in the middle of the board is typically only worth half what it looks like (too many moves to defend it) and often ends up being zero.  So don't concern yourself too much about this\]]
+))
+(;B[pi]C[[DP B's strongest reponse since the ladders work at Q13 (easy to read out) or at Q9 (a bit harder)\]]
+;W[qi];B[oi]
+(;W[rh]C[[DP W is unlikely to go this route since a) ladder at Q9 is good for B and b) it will strengthen B within W sphere of influence\]]
+;B[qj];W[qg];B[pk])
+(;W[qj]C[[DP So this is probably W's best route\]];B[pg]C[[DP This is B's best result, because the ladder works.  Have to check this (earlier!) if you' re going to play this way\]]
+;W[rh];B[oh];W[qg]C[[DP W has linked up but B is now very thick and pointing into W's centre territory, so this is not a good outcome for W. Compare to move 43 of the game, where you got no thickness but strengthened W along the 10th row, and also gave him 4th line territory\]]
+)))))
+(;B[gp]LB[kf:A][pg:C]C[[DP Typically would go like this - giving W some secure 3rd line territory in exchange for your complete domination of the left side\]]
+;W[gq];B[hp];W[hq];B[ip];W[iq];B[fp];W[dr];B[cq])
+(;B[pg]LB[kf:A][gp:B];W[qg];B[ph];W[qh];B[pf]))
+(;B[dc]LB[cd:A]C[[DP Either side is playable\]];W[cd];B[ce]
+;W[be];B[cf];W[bf];B[cg];W[db];B[eb];W[cb];B[fc];W[jf];B[pg]
+C[[DP Now use the thickness created to attack K14 from a distance\]]
+;W[qg];B[ph];W[qh];B[pf]))
+(;B[gp]LB[dc:D][ej:A][qn:C]C[[DP Pressing here or at Q13 doesn't really work because of the stones at K4 and Q10\]]
+;W[gq];B[hp];W[hq])
+(;B[qn]LB[dc:D][ej:A][gp:B]C[[DP You could go for the standard handicap game approach, but will come under pressure from W\]]
+;W[qo];B[pn];W[np];B[ql];W[qk])
+(;B[dc]LB[ej:A][qn:C][gp:B]C[[DP Perhaps best of all is nick the move W would like to do.  Play this side since K16 is high and C10 low. Yes, this is a territorial move, so to be played with caution this early in the game, but given how much W would like the point, there's an extra reason for going there\]]
+))

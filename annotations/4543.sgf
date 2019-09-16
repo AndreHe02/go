@@ -1,0 +1,108 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+PB[Antonio]
+BR[3k]
+PW[unknown]
+WR[1k]
+KM[0.5]
+DT[2006-11-17]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[W+Resign]
+TM[60]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+C[Dear reviewer!
+Hi I am 3k .I played against 1k, in this game I was black.
+I lost by resignation because I was not able to  kill white's group. But I have some question on fuseki and middlegame.
+
+
+Thank you for the review!
+
+MR: I tried to answer your questions and also added comments to other moves that I found strange or important.
+
+I think that the main problem was *not* that you did not kill the white group in the end (although this certainly finalized you losing the game). 
+If you want to improve I feel that it would be worthwhile for you to work on two specific points:
+(1) Solve life & death problems (start with easy ones) - and then start to see game situations with weak enclosed groups als life & death problems to be solved within a game. 
+This way, you will spend less extra moves to stabilize already living groups and to kill already dead groups (see upper left and lower right corner).
+(2) Do not create yourself so many weak groups.
+If you are afraid of your opponents moyos, do not allow him to create them to begin with (e.g. do not allow O3, R6 *and* P5). If you invade your opponents moyo, try to find moves with two meanings (e.g. F3 threatens to take the corner with C3 as follow up).]
+;B[pd];W[dp];B[pp];W[dc];B[de];W[cg];B[cc];W[cb];B[cd];W[eb]
+;B[ef];W[eg]C[MR: The normal joseki ends with white playing again on the upper edge (e.g. F16, G16, H18).]
+;B[fg]
+(;W[eh]LB[ge:A]C[is A better than f14?
+
+MR: No. The usual idea would be to punish white for not answering on the upper edge by directly attacking the white stones. 
+If black wants to connect anyway, F14 is correct. G15 only leaves forcing moves for white to stabilies his groups.]
+
+(;B[ff];W[fh];B[fc];W[nq];B[bb]C[MR: What is your goal? Kill the white group? If you read that this move kills the group, fine. If not, F18 is better as it has "making territory on the upper edge" as second meaning. 
+
+Altogether, the upper corner seems small, probably answering W O3 with e.g. R6 is best.]
+;W[ba];B[bc];W[qn];B[fb]C[MR: How should white live in the upper left corner? W F18, B G17.
+Playing here again is painful. This is another reason why B B18 was bad. It was gote, and if you feel you need to play here again, white could have played in the upper left corner after B17 anyway.
+
+Black has to answer in the lower right corner, e.g. P5!];W[oo]
+C[is this situatioin even?
+
+MR: No, better for white. Black played too often in the upper left corner. See previous comments.]
+;B[oq]C[MR: Such moves are mainly helping white.]
+(;W[or]C[MR: White should not help black to stabilize in the corner.]
+;B[pr];W[op];B[pq];W[nr]C[MR: Now W P2 vs. B Q2 helps black. Also, white would never exchange W P2 for B Q3 now, but would peep with W R3.]
+;B[ro];W[qo];B[qp]C[MR: Shape move is S4.];W[rn];B[rr];W[rp]
+;B[rq];W[so];B[po]C[MR: Black is trying to cut apart two living groups.]
+;W[pn];B[on];W[qf];B[nd];W[of];B[mf]C[MR: Good.];W[mg];B[nn]
+;W[mo];B[mn]C[MR: Do you really plan to run away with this stones? By attacking this stones, white will make territory on the lower side and on the right side. Better points are M13 and F3.]
+;W[lo];B[ng]C[MR: Black is creating himself too many weak groups.]
+;W[nf];B[lf];W[nh]C[MR: If you do not want to follow up on O13, better do not play this move to beginn with.]
+;B[oi];W[oh];B[qs]C[MR: ?
+
+Either you think that the group is dead without this move - then you have to play this kind of move directly. Or you think that the group is alive - then you should not play this move at all.
+
+Black is alive without this move.];W[ln];B[lm];W[km];B[pl];W[qk]
+;B[ql];W[rl];B[rm]C[MR: This move does not work, white can connect at S9.]
+;W[qm];B[rk];W[sm];B[qj]C[MR: The result locally is better for black than to be expected.]
+;W[rj];B[pk];W[ri];B[lg];W[mh];B[ll];W[kl];B[gq]C[MR: Strange move.
+First, did you check that the black group in the right is alive?
+Second, if you want to invade the lower side, F3 is better.]
+;W[iq];B[ip];W[jq];B[dq];W[cq];B[eq];W[cp];B[dk]C[MR: ?
+You are creating yourself too many weak groups!];W[cm];B[ej]
+;W[hh];B[ig];W[lk];B[mk];W[mj];B[kk];W[lj];B[nk];W[nj];B[nl]
+;W[mm];B[ml];W[oj];B[sk]C[MR: This is *not* sente against the lower white group! B T8, W S7 and white has still two eyes!]
+;W[sl];B[qi];W[rh];B[qh];W[qg];B[ok];W[om];B[kn];W[im];B[kp]
+;W[lr];B[kq];W[kr];B[nm];W[pm];B[lq];W[mq];B[ko];W[no];B[jm]
+;W[jl];B[il];W[jk];B[jj];W[ik];B[in];W[hl];B[gi];W[gh];B[hi]
+;W[ih];B[ki];W[ii];B[ij];W[hj];B[gj];W[hk];B[kh];W[kj];B[ji]
+
+(;W[gf]C[MR: White should play at common eyespace of the two left side groups.]
+;B[ci];W[if];B[ge];W[jg];B[gg];W[hg]
+(;B[hf];W[id];B[je];W[ie];B[kc];W[fk];B[fj];W[bk]
+(;B[ch];W[dg]
+(;B[fl];W[gk];B[cl];W[cj];B[dj];W[bl];B[di];W[dm];B[el];W[bi]
+;B[bh];W[bg];B[ai];W[bj];B[fn];W[kg];B[lh];W[jd]
+(;B[ke];W[kd];B[ld];W[jc];B[kb];W[jb];B[mb];W[hb];B[hc];W[gb]
+;B[fa];W[gc];B[gd];W[hd]
+(;B[ha]C[MR: ?
+You are making white alive this way.];W[ia];B[ga];W[ic])
+(;B[ga]
+(;W[ha];B[ia];W[ib];B[ja]C[MR: What do you want to tell me with this variation?]
+)
+(;W[ic];B[ia];W[ha];B[ja];W[ag];B[ah];W[be];B[ae];W[ce]C[MR: Difficult fight.]
+)))
+(;B[kd]C[I was in byo yomi therefore i haven't se some moves]
+))
+(;B[bg];W[bf];B[ah]
+(;W[cf];B[bj]C[what about this
+
+MR: Better, but the main problems are earlier in the game.]
+)
+(;W[ce];B[be];W[df]C[MR: Ko potential.])))
+(;B[bh]C[maybe this is better, right?]))
+(;B[ie]C[what about this move?]))
+(;W[ci]))
+(;W[nr]))
+(;B[fc];W[ff];B[fe];W[gf];B[ge]))
+(;W[ff]C[If white cuts? How I should respond?
+
+MR: When white cuts, he is creating himself a third (!) weak group - this is too much to handle for white.]
+;B[dg];W[eh];B[dh]C[MR: This would be one way to keep things simple for black.]
+))

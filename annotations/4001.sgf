@@ -1,0 +1,288 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+PB[FlintStone]
+PW[GoAnderson]
+WR[30k]
+KM[6.5]
+DT[2006-03-03]
+PC[The Kiseido Go Server (KGS) at http://kgs.kiseido.com/]
+RE[W+72.50]
+TM[1650]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+C[Okay, so, this game was my first real practice at reading stones. I nearly lost it at a few points, but by some miraculous event, I won -- by quite a few points. This mystifies me, and so I'm here to ask for your help in deciphering my game.
+
+Please, pardon my constant comments: I'm a chatty little devil. Well, regardless, here we go!
+
+---
+
+H: Hello, I will mark my comments with H. Review is for both sides (with the focus lying on w, I must say)
+
+Summary:
+w won, because blacks mistake made w's invading groups alive. w won high because black didn't recognize some ataris.
+
+So b should definitively pay more attention to his groups, while w should try to imagine the result for his oponent, when attacking. This is difficult, but it would have prevented e.g. the 3-3 in the lower right corner.
+
+w should at some times in the game take a mental step back, and evaluate the overall score of already secure territory vs. having influence on empty spaces of the board.
+
+Both players should be aware of unnecessary (defending) moves.]
+;B[dp];W[pd];B[pp];W[dc];B[jp]C[A Sanrensei terrified me at the time, since those three stones right in a row look so solid. But, regardless, I went with a territorially-cornered approach on the upper side, thinking "I'll reduce it later." I never got around to that...
+
+H: Well, even if they look impressive, You alredy know that a 4-4 can be invaded by a 3-3. And the invador will live, if there are no additional stones helping the defender. So black has *no* corners, yet. 
+And his stones are not at all connected.
+
+So: San-Ren-Sei goes for influence (i.e. getting in good position for the game to come) instead of territory. And just as you said: Reduce it later.
+
+If you are around 20-30k, it's very hard to use influence to win a game. The usual "corners first, then the sides, then the center" should be your primary strategy]
+;W[ce]C[H: That's the ideal extension if white starts with 3-4. He may loose sente, but gets a secure corner a) for territory, and b) as a base for further extensions or fights.]
+;B[jc]LB[gc:A][mc:B]TR[dj][pj][dl][pl]C[This shook me pretty much right away, since invasions involve reading, and reading is NOT a virtue of mine. I'd just finished reading a Go book's chapter on this exact thing, actually...
+
+H: Hm. Some time, you definitely should become acquainted with reading ;-)
+
+Following his moyo strategy, I would have expected black to play one of the marked points. But his invasion follows a good idea. If w defends around A, b can make the uncuttable 2-space jump to B. And vice versa. In either case, b will end up with a stable base for further action.
+(He will loose sente, though)]
+(;W[lc]LB[gc:A][mc:B]TR[pd]C[Tried to drive B into my stronger left side. As I think about it now, though, would a fortification have been better?
+
+H: Not a bad idea. But if w expected b to respond at A, w could have played at B with the same result, and w's stones being not *that* weakly connected]
+;B[gc];W[gb]LB[le:C][qf:B][ch:A]TR[fb][hb][gc]C[I have doubts about this move, like I did when I first made it. The two-space jump threw me off, so I decided to try for the corner. I also considered bending down with a hane at G16, but that didn't seem like it would be good if I got driven into the sanrensei...
+
+
+H: First about strategy. w cannot expect to make a lot of points here. So he should have played at one of the marked points (A being an extension of his corner, B being both an extension and securing this 4-4, C might be a way to build a bigger, but loose framework.
+
+But even locally, this was not a good choice. First, because moves on the 1st and 2nd line almost never are, so early in the game, but second because there is the immediate danger of the marked shape.
+
+w should try to imagine how this could end up. I'll show two possibilities in the variations]
+
+(;B[hb]
+(;W[fc]LB[gb:A]C[Pull back instead, maybe?
+
+H: No, once you started with A, this gives a much preferrable result (see the variations on #12).]
+;B[fb];W[eb];B[ga]
+(;W[gf]LB[fd:A][gf:B]C[This extension troubles me, if only because I ended up split apart. F14 instead, maybe, for a stauncher defense... or E12 (left-side moyo)?
+
+H: w could anticipate b's atari at A. So B is far to far away from his friends.
+Just playing A would have been better for w (see variation)]
+;B[fd];W[ed];B[ec]C[Too early for a ko, I know... But connecting solidly seemed to be playing right into my opponent's hands. Then the G14 stone would've been potentially isolated much easier, I think?]
+;W[ee];B[fc];W[db]C[I played the solid connection here, because I have a horrid track record with cuts.]
+;B[fe]LB[ff:A]C[H: That move makes white (well, should make white) play A, where he already wants (should want :-) to play. Bad choice by b.]
+
+(;W[eg]LB[ff:A]C[Mistake, right? I was worried about being confined, so I made the one-space jump, but... E14 instead of E15, perhaps?
+
+H: A would have helped w];B[ff];W[ef];B[fg];W[fh];B[pj]C[Tenuki struck me as a bit odd for some reason, but this is a good point. Yonrensei is even worse to have to deal with when you dislike influence-based fights... So this kind of irked me.]
+;W[ck]LB[le:B][qg:C][ch:A][ck:D]TR[aa][ba][ca][da][ab][bb][cb]
+[ac][bc][cc][ad][bd][cd][dd][ae][be][de][af][bf][cf][df]C[I really wasn't sure about this move. It seemed too loose, and as a ladder breaker, I didn't know if it would work. As an extension it strikes me as decent, but I think it also came under heavy attack later on, so, dubious.
+
+H: Let's have a look at the current situation.
+w has the left corner with about 21 points. Simply playing A prevents any attack/invasion and gives about 8 additional points.
+
+b has no territory, as there is no more secure territory on the board.
+
+How about influence?
+
+w has some in the upper right corner and downwards along the left side.
+b has it at the lower and the right side.
+
+b should start turning it into points, while white should either reduce blacks moyo, or try to get more influence (like with B or - more dangerously - C )
+
+By playing D, he invites an invasion that makes him defend the corner and allows black to stop w's downward influence]
+;B[di]LB[ei:C][dj:B][ej:A][cm:D]TR[eg][ck]C[Aaaaand there it is. The heavy attack I was commenting on struck me like a load of bricks, and this is, I think, where things started to get a little rough for me.
+
+
+
+H: So keep in mind, that the marked stones should not be considered being connected ;-)
+
+Good idea by black, though a little to risky (remember that you should start the reducing attack  slightly before, or right at the line between the outermost stones, which would have been A (or B and C).
+
+Another way for black would have been to stop whites extension at D, going to make his potential corner more solid.]
+;W[ej]LB[ej:A]C[H: If w aims at sealing b in, this is be a very clever idea, and it's a good example of the saying that a good point for your opponent (b should have attacked at A) is a good point for you (w cutting the black stone off)]
+;B[dj];W[dk];B[ei];W[fj]LB[fi:A][fj:B][ek:C]TR[ej][ck][dk]C[H: Good move. A would have worked, too (the atari at B or C would not have been dangerous), but now, w gets a powerful line facing the weak b moyo stones.]
+;B[fi];W[gi];B[gh];W[eh]C[I connected after some thought, believing that it would be better to nip the invaders in the bud before I attempted any sort of counterattack.
+
+
+H: There's no other choice here. If w allows b to evade, he looses *lots* of points. w probably misjudged the situation: b has no chance to live inside the white territory. So don't ever let him escape!]
+;B[gj]
+(;W[fk]TR[ej][fj]C[H: Mistake. b evades.
+
+And: The marked group forms the "empty triangle" shape, which is regarded to be extremely weak (having so few liberties for so many stones). If you ever face building this shape, there almost always is a better move avoiding it.]
+;B[hi]TR[ah][bh][ai][bi][ci][cj]C[This capture was unnecessary, right? Actually, it ended up helping me, what with the later capture in this area (which really was dumb luck).
+
+H: No, it saved b's ass (sorry !). And now he has a sting in  w's territory, allowing him to reduce it by at least the marked stones. and the white group below is cut off.]
+;W[dh];B[ci];W[bj]
+(;B[bi]C[H: no reason for black to push against the edge. Running into white territory would have been better.]
+;W[aj];B[ai];W[bg];B[ch];W[cg]C[The most surprising thing about this exchange is that I actually formed a nice mouth unintentionally... Again, dumb luck.]
+;B[gk]
+(;W[co]C[An attempt to seize the corner, ended up with me in control of a tiny area for most of the game. Would 3-3 have worked better?
+
+H: w 3-3 will live, but ends with w sealed in.];B[fl];W[ek]
+;B[em];W[dm];B[dn]TR[fl][em]TB[gi]C[H: well done by black, pushing w back. He does not have to fear the double hane (marked) here, although th is is often very dangerous]
+;W[cn];B[do];W[cp];B[cq];W[bq];B[cr];W[br];B[fn]TR[ak][bk][al]
+[bl][cl][am][bm][cm][an][bn][ao][bo][ap][bp][aq][ar]SQ[en][eo]
+[fo][go][ep][fp][gp][hp][dq][eq][fq][gq][hq][iq][dr][er][fr]
+[gr][hr][ir]C[H: white has another 16 points, but black has a huge space of about 20 stones, now (although not completely save)]
+
+(;W[ap]LB[ap:A]C[H: A was not neccessary (see variation), so w lost one move]
+;B[qf]C[Another big point, this time aiming directly at my upper right stones. I know I stumbled my way out of trouble, but it was still a bit of a shock, you know?]
+;W[qd]C[H: Good. w decides to use his 4-4 for territory now.]
+;B[oe];W[od];B[ne]C[H: b has two aims here: make big territory, and cut w off the middle. Good moves.]
+;W[qq]LB[qm:H][mo:E][kq:F][mq:A][oq:G][jr:C][kr:B][or:D]TR[qn]
+[qo][pq][pr][ps]C[I figured that, hey, the 3-3 would be a good alternative at this point. The end result was sort of haphazard, but I ended up with the corner, so that was good.
+
+
+H: Just like in the lower left corner. 3-3 in a 4-4 without any stones helping the defender will end with the intruder being alive small, and the defender getting a massive wall.
+And if b decides the wall to be vertically (marked points), w will almost have no chance invading the bottom center.
+
+So w should choose another strategy: 
+
+An invasion at A would be possible. w would have three ways to go (B/C ,D and E), so he would be successful, and furthermore, he would either split the lower right corner from the left b stones (if black defends at F or G) or he reduces b's territory by large (if b defends toward the center (E)
+
+H would be another possibility for w];B[pq];W[qp];B[qo];W[ro]
+;B[qn];W[rn];B[qm];W[rm];B[ql];W[pr];B[or];W[qr];B[nq]
+(;W[sq]LB[sq:A]C[Barely made life here! I don't know, though... I think it could still have been attacked and that corner could very well have died. I assumed, though, that a hane at Q1, met by R1, would give me the space to make a second eye. Right?
+
+H: Yes, white lives, but A is not necessary (see variations), so white again looses a move]
+;B[ld];W[md];B[me];W[mc];B[kd];W[kc]C[I don't know what I was aiming for here. It ended up that it didn't do much, so, bad move?
+
+H: yes, no benefit];B[rd];W[rc];B[re];W[qb];B[nd];W[nc];B[kb]
+;W[lb];B[ka];W[la];B[ib];W[nr]C[This is another example of my harebrained style. The hane-connect at P1 would have ended up with the same thing, I think, but I ended up wasting a stone and solidified Black's fomation even further.]
+;B[mr];W[os];B[ns];W[ps];B[rl];W[sl];B[sk];W[sm];B[rj];W[jf]
+C[At this point, my exact thoughts were, I believe, "Aw, &*$($#, that doesn't look good." With a moyo that massive, it didn't really matter if I kept all the corners. So, I took action. What was the correct method of invading, though?
+
+I also considered acting around the star point in the center, but... That didn't seem right.
+
+
+H: Unless w can make some sense of additional cuts, he is surrounded by solid black walls. If b does not make a mistake, w will never live inside.
+
+(There is a nice exercise, see the variation)]
+(;B[kf]LB[jd:B][le:A]C[H: Contact moves often makes the defender stronger. Simply defending the cut at A or B would have been better.]
+;W[je];B[jd];W[id];B[ic];W[hd];B[ig];W[jg]C[J13 left me pretty much in shambles mentally, but I knew as much that I needed to reach the center in some way, hence the lack of finesse during the next few moves. That G14 stone ended up dead and gone by the game's end, but I do recall reading that sacrifice is necessary for sabaki...
+
+
+H: Making a living group right inside b's territory makes almost every sacrifice acceptable, here.]
+;B[kg];W[jh];B[ke]LB[ie:A]C[What was Black trying to accomplish here? Was it preventing a cut at M15?
+
+H: I'd say that b prepared to cut at A, (but he didn't)];W[jj]
+;B[if];W[ie]LB[ie:A]C[I felt bitter. I felt like swearing, this was so submissive. It was around here that I realized the G14 stone was flotsam.
+
+H: actually it doesn't matter. w has to go for eyes, and there is none around A]
+;B[hf];W[mi]C[H: what did w expect here? (see variation)]
+(;B[ge];W[mm];B[mk]LB[mk:B][mm:A]C[Did I mention how much I hate invasions? I think I did. So, perhaps for 134, I could've gone one space up?
+
+
+H: A was far too far away. B would have been perfect (just as it is perfect for b now).]
+;W[lk];B[mj];W[lj];B[ml];W[ll];B[kh];W[ki];B[lh];W[li]TR[ji]
+[kj][jk][kk][jl][kl]C[H: recall that w is going for eyes: and the marked points are potential eye space.]
+;B[ii];W[ji];B[lm];W[km];B[ln];W[ni]LB[il:A]C[H: This one does definitely *not* go for eye space. A would have been a possibility.]
+;B[nm];W[hn]LB[hn:A]TR[ik][il][im]C[H: way too far. A leaves lots of cutting points]
+;B[jk];W[ik];B[jl];W[jm];B[il];W[kk]C[Well, that looks like it was one eye made. I spent the next... fifty or so moves trying to make the second, at least.]
+;B[hl];W[kl];B[im];W[in];B[jn];W[kn];B[jo]C[H: Definitely no way for w now.]
+;W[ko];B[mn];W[pi];B[oi];W[oh];B[oj];W[nh];B[ph];W[pg];B[qi]
+;W[pf];B[pe];W[qe];B[rf];W[qg];B[rg];W[qh];B[rh];W[pi]C[A second ko, of I believe three total, started. Oddly enough, no further movement was made on it, so I ended up solidifying the connection and winning the game.]
+;B[ri]C[H: unnecessary move];W[nf];B[of];W[og];B[mf];W[go]C[Tenuki seemed the only option by now. I was desperate, haggard, and seeing as how a few moves in the upper right would've ensnared my stones there, I was getting rather agitated. Thus began the second sabaki sequence, this time in the lower-left.
+
+H: The free space here too small and surrounded by strong black stones. There is no chance of living inside]
+;B[kp];W[ip];B[io];W[ho];B[iq]C[I think a cut at H4 would've been a lot harder to deal with... When I saw this move, I didn't register anything but the following: "Connect, and then seek life."
+
+Oddly enough, it was through this struggle that I noted Black's shrinking territory.
+
+H: It is not shrinking, as the two white groups do not live.
+If black makes no mistake, whites moves only make him strenghten his territory (and probably adding captured w stones)]
+;W[hp];B[hq];W[gq];B[gr];W[fq];B[fr];W[eq];B[er];W[dq];B[dr]
+;W[fo]TR[fp]C[H: w should see, that he has only one potential eys, and there is no space for another around that w group.]
+;B[en];W[gm];B[gl];W[el];B[fm];W[ia];B[ja];W[jb]C[This capture is where my attitude shifted course slightly, and I recognized that, perhaps, my opponent wasn't as invincible as I'd taken him for.
+
+... I also know that any number of moves could've decapitated my attemtps... which makes it all the more stunning to me.
+
+
+H: A simple mistake. Don't rely on that.];B[ha];W[ja];B[ea]
+;W[da];B[fa];W[nj];B[lf]LB[mg:A]C[H: unnecessary, and A would have been better.]
+;W[pk];B[gg];W[qk];B[ih];W[ph];B[ij];W[qj];B[ok];W[ol];B[nk]
+;W[nl];B[pl];W[mm]C[Aaaand there it is again. This is precisely the kind of moves I'm usually on the receiving end of, so seeing it work -- and getting that second eye -- was intensely rewarding. I remember crying out loud at this.
+
+H: fatal black mistake. now, w lives and leads by about 5 points.]
+;B[ml];W[mk];B[mm];W[lo]LB[ci:F][ml:B][mm:C][lo:A][mp:D][hq:E]
+C[H: good move. b shold have stopped w at A instead of capturing capturing/defending around B/C
+
+now, b should defend at D.
+
+If b would have avoided his big mistakes (and would not have lost the E and the F group, white would have won by about 5 points.]
+;B[mo];W[lp];B[mp];W[jq];B[kq];W[jr];B[lq];W[hr]C[H: this capture makes white's group live]
+;B[om];W[ok];B[ep];W[fp];B[hs];W[ir];B[is]C[H: this move does not accomplish anything.]
+;W[js];B[gs];W[cs];B[ds];W[bs]C[And those stones are now dead, right? I really should've just left it be, but I did put a stone in at F1 in the endgame, which perhaps resulted in them not being counted as dead.
+
+Yes, they are dead. Just one eye and no chance to make it become two.]
+;B[kr];W[ks];B[ls];W[fs];B[ng];W[rk];B[sj];W[sd];B[se];W[sc]
+C[What kills me is that I had reduce the group to one big eye, and all I needed to do was NOT to make any further moves.
+
+Whaddaya know, I ended up giving it life.
+
+H: b has four in a row, and is unconditionally alive];B[mh]
+;W[pn];B[pm];W[op];B[oq];W[sg]LB[sg:A][sh:B]C[This was a panic move, with one second left in normal time. And, it was also the exact move I've made in numerous other situations to donate life to the dead.
+
+H: A and B are miai, i.e. if w plays one, b plays the other,and will be alive no matter what]
+;B[sh];W[ag];B[he]
+(;W[bm]C[H: No need to be afraid of the cut (but it involves quite a lot of reading)]
+;B[gd];W[hc];B[bh];W[ah];B[cj];W[gi]C[This is the third major capture that really rocked me. Ten stones... I gave another yelp at this one.]
+;B[fi];W[ei];B[gi];W[eo];B[gn];W[hm];B[hk];W[tt];B[tt]TW[aa]
+[ba][ca][ka][ma][na][oa][pa][qa][ra][sa][ab][bb][cb][kb][mb]
+[nb][ob][pb][rb][sb][ac][bc][cc][oc][pc][qc][ad][bd][cd][dd]
+[ae][be][de][af][bf][cf][df][dg][bh][ch][ai][bi][ci][di][oi]
+[cj][dj][kj][mj][oj][pj][ak][bk][nk][al][bl][cl][dl][am][cm]
+[an][bn][sn][ao][bo][so][bp][gp][rp][sp][aq][hq][iq][rq][ar]
+[rr][sr][as][qs][rs][ss]TB[gb][le][gf][nf][sf][hg][lg][mg][sg]
+[hh][si][hj][ik][nn][on][pn][no][oo][po][np][op][mq][lr][nr]
+[ms]C[This was the game's end, as you can see. I took the entire left side, the upper right, and the lower left, while my foe took mostly scattered central territory. When I saw that I'd won by... what, fifty, sixty points -- that was another yelp right there.
+
+I played better than usual here, but I also made the same basic mistakes as I've made in every game that I've played. Now, it's in your hands to review, dear reviewer. Your reviewee thanks you, and extends well wishes.
+
+G'day.])
+(;W[cj];B[cm];W[dl]
+(;B[bl];W[bm];B[cl];W[al]C[H: black stones captured])
+(;B[bm];W[bl];B[al];W[bn];B[ak];W[an]C[H: black stondes captured.]
+)))
+(;B[kh];W[ki];B[lk]LB[lk:A]C[H: A destroys whites potential eye space. I'd say, the race is over.]
+))
+(;AB[jj][kj][lj][mj][nj][oj][qj][sj][jk][jl][jm][jn][jo][jq]
+[jr][js]AE[sk][ql][rl][sl][qm][rm][sm][qn][rn][qo][ro][pp][qp]
+[nq][pq][qq][sq][mr][or][pr][qr][ns][os][ps]C[H: Get an oponent nearly as strong as you, and try to start with w and to get a living group inside the black square.
+
+You will find, that even with the help of the corner (even starting with 3-3) w has a hard time.
+
+The pro's say that it is *impossible* for white to live here.
+
+
+And comparing it with  the situation on the board: w is surrounded by black walls and does not even have the corner helping him.
+
+Unless b makes a mistake, or w can use some cuts (or threating to cut), he has no chance to live inside blacks territory.]
+))
+(;W[rl];B[rk]
+(;W[ps])
+(;W[sk];B[rj];W[sj];B[si];W[sl];B[ri]C[H: How should b kill?]
+;W[ps]))
+(;W[os]C[H: w is alive, even if he starts with the wrong move]
+;B[ns];W[ps];B[rl]LB[sp:C][rq:B][rs:A]C[H: w can always make eyes at A, B, C]
+))
+(;W[mq];B[bp];W[ap];B[bo];W[bn]C[H: no way for b]))
+(;W[cq]LB[cp:A][dq:B]C[H: b has the choice where to push white, i.e. what orientation the resulting wall will have: horizontally (then b plays A, or vertically (b plays B).
+
+The variation shows a typical sequence.];B[dq];W[cp];B[co];W[bo]
+;B[cn];W[dr];B[er];W[cr]C[H: now w gets a small corner, and b the wall that makes his moyo into territory (right from the wall)]
+))
+(;B[ch];W[cg];B[bg];W[bf];B[bh]C[H: devastating]))
+(;W[hi];B[ek];W[fk];B[el];W[gk];B[hj];W[gm]TR[dh][ci][cj]SQ[ej]
+[fj][fk][gk]C[H: Even if there might be some struggles, the b stone swithin whites territory have just three liberties, so if pressure comes onto the marked white group, killing the blacks will connect them to whites corner territory.]
+))
+(;W[ff]C[H: w was probably worried about the following cut, but that's no real problem]
+;B[ef];W[eg];B[df];W[dg];B[cf];W[cg];B[bf];W[bg]C[H: b cannot live here.]
+))
+(;W[fd];B[gd];W[ff];B[gf]C[H: White's corner looks quite big, now.]
+))
+(;W[fb];B[fc];W[ec];B[fe];W[ee];B[fg];W[dg]LB[ke:A][kg:B]C[H: Not bad for white, as the jumps make the left corner territory bigger.
+But not bad for black either, as he gets this wall facing teh center. If b continues with A and B, it becomes immediate territory.]
+))
+(;B[fb];W[fc];B[fd];W[ec];B[hb];W[eb];B[ga];W[ee];B[fe];W[eg]
+;B[fg]C[H: Both sides can live with that. w gets a wall that makes his corner territory bigger, black has a wall facing the center]
+)
+(;B[fc];W[fb];B[ec];W[eb];B[ee];W[dg];B[eg]C[H: w gets pushed back]
+))
+(;W[mc];B[gc]))

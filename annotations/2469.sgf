@@ -1,0 +1,195 @@
+(;FF[4]GM[1]SZ[19]ST[1]CA[UTF-8]AP[SGFC:1.15]
+
+PB[Greenback]
+BR[7k]
+PW[chessking]
+WR[6k]
+KM[0.5]
+DT[2004-05-03]
+PC[The Kiseido Go Server (KGS) at http://kgs.kiseido.com/]
+RE[B+1.50]
+TM[1500]
+
+C[This is one of the better games I've played. Usually I know where I went wrong, but the game seemed very even, and I couldn't see any big mistakes. I won by half a point in the end, although white was playing with .5 komi.
+
+I played black in this game.
+
+rika:
+Hi, I'm Chun-Kit, currently 4k IGS and 3k in Germany.
+Even you won that game by 0.5 points, personally I like to play with the usual komi against stronger player. That will boost up your rating if you win that one.
+There are some tactical things which you must keep an eye on it but nothing dramatically (since the game was very even).
+I have added some variations without any comments.];B[pd];W[cp]
+;B[pp];W[ed];B[ep];W[dn];B[cq]
+(;W[dp]C[rika:
+blunder by white, it makes too easy for black to settle a secure group. normal reply was wB3]
+;B[dq];W[eo];B[fp];W[bq];B[br];W[bp]
+(;B[ce]C[rika:
+fine... white ends in gote in the lower left so playing elsewhere is the right choice.
+how to deal with the upper left. There are 2 choices (3-3, 3-4) where 3-4 is the common one.
+3-5 (your play) is possible.
+(see one var for a loose invasion)
+(see vars for 3-4, remark: there are too many possibilities)]
+
+(;W[cd]C[rika:
+helping black so bad (var for easy play)];B[bd];W[cc]
+(;B[ch]C[rika:
+difficult to say if this is the proper play]
+(;W[bc]C[I tried to reduce what white might get on the left and settle these stones as quickly as I could
+
+rika:
+first stable your group (ie. eye shapes) then you can think about reducing (but that is middle-/end game stage)]
+;B[ae]C[rika:
+strange shape, better bB14]
+(;W[cj];B[eh];W[ej];B[bj];W[bk];B[bi];W[cl];B[jp]C[rika:
+but you did fine job... there are too many white stones in the lower left for just 20 points thus overconcentrated.]
+;W[nq]C[rika:
+not good by white. approach from the side where there are no opponents stones (i.e. wR6)]
+
+(;B[lq]TR[jp]C[rika:
+this is unnecessary. you have already a pincer stone at bK4 so make your opponent's group heavy and attack it. (see var)]
+;W[qq];B[pq];W[qp]
+(;B[po]C[I'm told R5 is bad, though I don't know why
+
+rika:
+see var for reason];W[pr];B[or];W[qr];B[oq];W[qn]
+(;B[nn]C[I think I'm a bit overconcentrated here, should I have played o6?
+
+rika:
+you played o6... common continuation is bP7 or tenuki
+(good spot for tenuki: bK17)];W[nc];B[qf];W[pb];B[qc];W[kc]
+;B[pj]C[rika:
+continuation at the right side isn't important (group at the upper right is safe by itself). invade at the top has bigger priority in my eyes]
+;W[hd];B[de]C[in retrospect, this move is a bit small, but I didn't like the thought of W d15, B C14
+
+rika:
+yea... that's why bA15 was strange I mentioned before];W[qk]
+;B[qj];W[rk];B[rj]C[rika:
+I don't think blocking bS10 is big. I like bG6 (moyo expansion) maybe bO15]
+;W[pk]
+(;B[gm]C[I thought this was a big move, black seems ahead now
+
+rika:
+it is big, but you cannot ignore wQ9. There is a difference between wP10 or bP9 (hane at the head of 3 stones)]
+;W[sj];B[si];W[sk];B[rh];W[os];B[ns];W[ps];B[nr];W[ee]
+(;B[qo]C[rika:
+ignoring the upper left is risky. The following sequence could be used for possible ko threats]
+;W[ro];B[rn];W[rm];B[pn];W[qm]
+(;B[me]C[rika:
+little bit optimistic in my eyes];W[ne];B[md];W[mc];B[nd];W[oc]
+;B[od];W[oj]
+(;B[fo]C[rika:
+that stones was necessary because the okeima (F4-G7) has many weaknesses. the small keima (F4-G6) was enough at that time
+
+further more, you cannot ignore white last play];W[jm];B[ml]
+;W[jk]
+(;B[ok];W[nk];B[ol];W[nj]
+(;B[lk];W[nl];B[om]C[my plan here was to cut him into two weak groups, but it didn't work out as well as I had planned
+
+rika:
+well, you need some support by some stones around the bP9-cut.]
+;W[lj];B[mm];W[kj];B[in];W[kn];B[gj];W[fi]
+(;B[gi];W[fh];B[bf];W[hl];B[gl];W[lo];B[mp];W[mo];B[np];W[kp]
+;B[kq];W[jo];B[io];W[mh];B[nf];W[gh];B[jn];W[km];B[ii];W[kh]
+;B[je];W[jd];B[lg];W[lh];B[if];W[oh];B[id]C[rika:
+looks like you gave sente away];W[ic];B[ie];W[ke];B[hh];W[mk]
+;B[ll];W[mi];B[dd];W[dc]
+(;B[qb];W[ac];B[ad];W[eg];B[dg];W[ar];B[ec];W[fc];B[eb];W[fb]
+;B[ef];W[fg];B[ff];W[fd];B[ei];W[fj];B[bs]C[rika:
+nice sequence];W[fn];B[gn];W[fm];B[fl];W[el]
+(;B[im];W[il];B[lp];W[ko]
+(;B[ph];W[og];B[pg];W[of];B[oe];W[pf];B[pe];W[pc];B[qa];W[gf]
+;B[ld];W[kd];B[lc];W[lb]
+(;B[em];W[en];B[ek];W[dl];B[fk];W[dk];B[di]
+(;W[dj];B[ci];W[fe];B[df];W[hg];B[ig];W[jh];B[ih]
+(;W[hk];B[gk];W[pa];B[kf];W[le];B[lf];W[kb];B[hf];W[gg];B[ak]
+;W[al];B[aj];W[jg];B[jf];W[mg];B[mf];W[ji]
+(;B[oi]C[rika:
+reduce from the side where no atari can follow];W[ni];B[pi]
+;W[ng];B[ij];W[jj];B[hj];W[he];B[pl];W[ql];B[no];W[nm];B[mn]
+;W[pm];B[on];W[kl];B[hm];W[ik];B[kk];W[aq];B[cr];W[jl];B[tt]
+;W[tt]TB[af][ag][ah][ai][be][bg][bh][cf][cg][cs][dh][dr][ds]
+[eq][er][es][fq][fr][fs][go][gp][gq][gr][gs][hi][hn][ho][hp]
+[hq][hr][hs][ip][iq][ir][is][jq][jr][js][kr][ks][lr][ls][mq]
+[mr][ms][ne][nq][oo][op][qd][qe][qg][qh][qi][ra][rb][rc][rd]
+[re][rf][rg][ri][sa][sb][sc][sd][se][sf][sg][sh]TW[aa][ab][am]
+[an][ao][ap][ba][bb][bl][bm][bn][bo][ca][cb][ck][cm][cn][co]
+[da][db][dm][do][ea][eb][ec][em][fa][ga][gb][gc][gd][ge][ha]
+[hb][hc][ia][ib][ja][jb][jc][ka][ki][la][li][ma][mb][mj][na]
+[nb][nh][oa][ob][qs][rl][rn][rp][rq][rr][rs][sl][sm][sn][so]
+[sp][sq][sr][ss]C[rika:
+as I mentioned in the beginning there are no obvious mistakes just a matter of style. Why the game is still even? 
+- fixing shape (e.g. bB14, bF5) gave sente to the opponent.
+- missing some big yose play (bA17, bQ19)
+- dangerous tenuki play (after wP10, wE15)
+
+ganbatte ne...
+
+Chun-Kit
+2004/05/11])
+(;B[ng];W[pi];B[qi];W[oi];B[nh]))
+(;W[hj];B[hi];W[ij]))
+(;W[ci]))
+(;B[pa]C[rika:
+about 7 points difference]
+(;W[oa];B[na];W[ob];B[mb])
+(;W[nb];B[na];W[ma];B[oa];W[kb];B[ob];W[mb])
+(;W[mb];B[na];W[ob];B[oa])))
+(;B[pg];W[og];B[of];W[ph];B[qh]))
+(;B[em];W[en];B[ek];W[dl];B[fk];W[dk];B[il];W[im];B[ik];W[hm]
+;B[jl]
+(;W[kl];B[kk];W[hk];B[ij];W[ip];B[jq];W[hn];B[ho])
+(;W[hk];B[ij])))
+(;B[ac]))
+(;B[fh];W[gi];B[il];W[jl];B[hj]))
+(;B[nl];W[lj]))
+(;B[mj]
+(;W[gk];B[ok];W[nk];B[ol];W[nl];B[nj]
+(;W[oi];B[nm])
+(;W[om];B[oi];W[pl];B[oj];W[pm];B[nm];W[on];B[np]))
+(;W[nk];B[mk];W[oh];B[gj];W[ji];B[oi]
+(;W[pi];B[ni];W[ri];B[qi];W[ph];B[rg])
+(;W[ni];B[pi];W[nj];B[nh]))))
+(;B[oi];W[nj];B[ni];W[mj];B[lh]))
+(;B[nk]C[rika:
+expanding your moyo looks impressive]))
+(;B[ef];W[ff];B[fg];W[df];B[eg];W[bf];B[be];W[cf];B[af];W[bg]
+;B[ag];W[bh];B[ah];W[ci];B[ai];W[dh];B[dg]))
+(;B[ok];W[ol];B[nk];W[nl];B[mk];W[pm];B[ne]))
+(;B[om]C[rika:
+white can tenuki or play wR7 (if white fears bR7)]))
+(;B[qo]C[rika:
+with bR5 black wants to close the white group in the corner, but...]
+
+(;W[qr];B[pr];W[po]TR[pp][pq][pr][qo]C[rika:
+... black can save neither the 3 black stones (Q2, Q3, Q4) nor the one stone at R5 so bR5 is an mistake]
+)
+(;W[pr];B[or];W[qr];B[oq];W[qn]
+(;B[po];W[ro]C[rika:
+still black's goal to shut white in has failed])
+(;B[ro];W[po];B[rn];W[nr]))))
+(;B[oq];W[np];B[pn];W[lp];B[kq]
+(;W[mm];B[jn])
+(;W[jo];B[io];W[jn];B[kp];W[ko];B[lq];W[nn];B[in]C[rika:
+this is also handicap joseki, but white got into his mess himself]
+)))
+(;W[bf];B[be];W[cj]))
+(;W[bf]
+(;B[be]
+(;W[cj])
+(;W[cf];B[df]))
+(;B[cf];W[be];B[bg];W[bc];B[ck]))
+(;W[de];B[cf];W[bc];B[be];W[cj]C[rika:
+pretty nasty shape]))
+(;B[de];W[ee];B[ch]))
+(;W[cc];B[ch];W[ic]))
+(;B[dg];W[cd];B[dj]C[rika:
+white thickness of the lower left is nulified, but locally white can be satisfied to get a corner enclosure in the upper left and sente.]
+)
+(;B[cd]
+(;W[df];B[ec];W[fc];B[dc];W[fd]
+(;B[mc])
+(;B[pj]))
+(;W[ce];B[be];W[de]
+(;B[cf];W[bd];B[bc];W[bf];B[ad];W[cg])
+(;B[bf];W[cc];B[bc];W[dd];B[bd];W[cb];B[ch];W[ic]))))
+(;W[bq];B[dq];W[br];B[iq];W[cj]))

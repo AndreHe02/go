@@ -1,0 +1,66 @@
+(;FF[4]GM[1]SZ[19]AP[SGFC:1.13b]
+
+PB[MrFreedom1]
+BR[27k]
+PW[rucker]
+WR[28k*]
+KM[0.5]
+RE[B+Resign]
+
+C[
+Hi,
+
+I play black and won by resign.  I have a question however.
+In this particular game there was quite a ko
+fight in the corner that you can see.  At move 65... should I have gone
+some where like I did to get to center or was F4 a good connect ?  Did
+I take a big risk by not connecting here?  Should I have gone elsewhere
+to avoid the ko fights or did I play them correctly?  If I had played a
+better person...  I would have been in trouble I think....
+
+Thank you for your input.
+
+Mrfreedom
+
+dada (1d in AT): I only comment on the problem of move 65 onwards. Thus it's a very short review.]
+;B[dp];W[pp];B[dc];W[pd];B[gq];W[mq];B[nc];W[oc];B[nd];W[od]
+;B[jd];W[pj];B[qq];W[qp];B[pq];W[oq];B[or];W[nr];B[rp];W[pr]
+;B[op];W[nq];B[qr];W[ps];B[qs];W[os];B[qo];W[po];B[pn];W[oo]
+;B[on];W[no];B[qn];W[ql];B[dj];W[cq];B[cp];W[dq];B[ep];W[eq]
+;B[fq];W[fr];B[gr];W[fs];B[bq];W[br];B[bp];W[ar];B[gs];W[dr]
+;B[jq];W[jo];B[gn];W[dm];B[cm];W[dl];B[cl];W[fl];B[hm];W[hn]
+;B[in];W[ho];B[io];W[hp];B[gk]C[There was quite a ko fight in the corner that you can see.
+
+At move 65... should I have gone some where like I did to get to center or was F4 a good connect ?
+Did I take a big risk by not connecting here?
+
+Should I have gone elsewhere to avoid the ko fights or did I play them correctly?
+If I had played a better person...  I would have been in trouble I think....
+
+dada: Connecting is not necessary. You have nothing to fear in this fight.
+The ko is unnecessary as you will see ...];W[fp];B[gp];W[fo]
+;B[go];W[fn];B[hq];W[gm];B[gl]C[dada: good];W[cn];B[fm]LB[bn:A]
+C[dada: why capture here? just play 'A' b6 and everything is ok. White cannot cuase any trouble here.]
+;W[em];B[en];W[gm];B[dn]LB[bn:A]C[dada: this was your last chance to play at 'A' (b6)]
+;W[bn]C[dada: does not look good, but is it ko? (see variation)]
+
+(;B[fm];W[ip]TR[fp][fo][fn]LB[eo:A]C[dada: this is not a ko threat - B should just capture the marked stones at 'A' (e5) and connects all his groups.]
+;B[jp];W[gm]
+(;B[es]C[dada: end the ko now - see variation];W[er];B[fm];W[im]
+;B[jn]LB[iq:A]TR[hn][ho][hp][ip]C[dada: why not capture the marked stones at 'A' (j3) instead?]
+;W[gm];B[hl]C[dada: same as before - you should capture
+
+*end of comment*];W[ap];B[ao];W[an];B[aq];W[do];B[eo];W[fm]
+;B[fk];W[dk];B[ck];W[bo];B[ek];W[ap];B[el];W[ko];B[jl];W[kn]
+;B[jm];W[kp];B[iq];W[kq];B[df])
+(;B[eo];W[fm];B[dk]C[dada: and the white stones are captured]
+;W[im]C[dada: no need to fear the double-atari];B[iq]))
+(;B[bm]C[dada: seems to be the only move, but it is very dangerous with many pitfalls on the way.
+See how to end this ko more easily later in the game.];W[ao]
+C[dada: seems to be tesuji];B[am]C[dada: black has to play here]
+;W[ck]C[dada: white's strongest response];B[bk]
+(;W[cj];B[bj];W[ci];B[dk]TR[ao][bn][cn][dl][dm][em][fl][gm]
+[fn][fo][fp]C[dada: and B wins. No matter what white tries, one of the two marked groups will be lost and B safes his stones.]
+)
+(;W[dk]TR[ao][bn][cn]C[dada: does not help either. B is at least going to capture the marked group and safes his stones.]
+;B[cj])))

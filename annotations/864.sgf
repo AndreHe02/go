@@ -1,0 +1,748 @@
+(;FF[4]GM[1]SZ[19]ST[0]AP[SGFC:1.13b]VW[]
+
+GN[nicomerc2]
+PB[nicomerc]
+PW[GnuGo]
+KM[5.5]
+RE[W+12]
+
+C[Hello, I'm nicomerc (30k on IGS), I play as black versus gnugo
+and I lose the game by "only" 12 points (It's the first time
+i have a "good" score versus a computer).
+
+After reviewing my game, I don't find big mistakes....but I'm
+only 30k....So I would like to have some comments about my game
+and in particularly about the opening of the game (where I think
+i have certainly lose some points, but I don't know where...).
+
+** zenjutsu:
+
+INTRODUCTION:
+I am the reviewer, Dimitri.  I reside in the USA, and play as
+'zenjutsu' (15k*) on IGS.  I will preface my comments with the
+notation shown above.  After reading this review, please email
+any additional questions to me.  Also, I apologize in advance
+for not having enough skill to offer 'perfect' feedback or move
+suggestions.  Hopefully my suggestions will still be valuable
+to you.
+
+GAME COMMENTS:
+
+First, a score correction.  The score was 94.5 to 77.  White
+won by 17.5.  See end of game for score summary.
+
+Second, a kudos.  Most 30k do not take the time to review their
+own games-- and they should.  Keep up the good work and you will
+find your skill constantly improving.
+
+Third, a general comment.  The Japanese word 'tesuji' translates
+roughly to 'play elsewhere'.  It means that an opponent places
+a stone that is not threatening enough to justify responding
+to it because there are bigger plays to make.  Computer opponents
+are infamous for moving to the 'small game' too soon-- so you
+must decide whether to respond to their play, or ignore it and
+play elsewhere.
+
+Fourth, a commendation.  Overall, I found your play to be much
+stronger than most 30k.  My guess is that your rank will jump
+past 30k in no time.  Many of the plays you make are not typical
+of 30k-- they show better understanding of the game and more
+foresight of where the board is going.  This is very good-- keep
+it up!
+
+Last, an endgame comment.  Go scores under standard IGS scoring
+are composed by adding:
+
+1. surrounded territory (not including stones on the board)
+2. captured stones
+3. the komi (for white)
+
+Therefore, "giving free prisoners" to your opponent is the same
+thing as giving them a free point.  Likewise, filling in your
+own territory without reason is the same thing as subtracting
+a point from yourself.  I'll be pointing out at least 12 end-game
+stones that black played which either unnecessarily reduced black's
+score by 1, or increased white's by 1.];B[pd];W[dp];B[oq]C[Its a mistake....I would play Q3....
+
+** zenjutsu:
+
+Some high-rank players use the 3-5 point as an opening.  Personally,
+I am not strong enough to feel confident using it.  Most fuseki
+guides recommend the 4-4, 3-4, or 3-3 as the safest opening points;
+the 3-5, 4-5, and others are categorized as riskier openings.
+
+Your intention to play the 3-4 point (Q3) is a good one.];W[dd]
+
+(;B[qo]C[Perhaps Q5 is better??
+
+** zenjutsu:
+
+If you originally intended to play the 3-4 point (Q3) followed
+by the 5-3 point (small-knight corner enclosure), then you could
+have played at R4 to get the same result, just flipped sides.
+(See alternative move tree 'b')
+
+Otherwise, this stone looks fine to me.
+
+Regarding Q5, see alternative move tree 'c'.];W[nd];B[pf]C[** zenjutsu:
+
+Good.  Follow standard joseki when possible and/or applicable.]
+;W[pc];B[qc]C[** zenjutsu:
+
+Very good.  Use standard joseki when possible and/or applicable.]
+;W[oc];B[id]SQ[qb]C[I try to invade...
+
+** zenjutsu:
+
+This invasion may be early.  The joseki in the top-right is not
+yet complete; the standard follow-up to P17 is R18.  While leaving
+a joseki in mid-stream is always possible, do so with the knowledge
+that your opponent may come back to take advantage of the incomplete
+joseki before you complete it.
+
+Otherwise, the placing of the invasion is miai (it allows you
+two directions to move and make life) which is good.];W[dg]
+
+(;B[gc]SQ[kc][lc][fc]C[Is this move on the good side (perhaps L or M17 are better) ??
+
+** zenjutsu:
+
+If continuing with the invasion (as opposed to finishing the
+joseki in top right), then there are a few things wrong with
+this move:
+
+1. It is too small.  For a larger move, you could have large-kinght-jumped
+to F17.  However, F17 still suffers from problem 2 (next).
+
+2. It loses sente (initiative).  Playing to the right forces
+white to respond and fight for life.  Personally, of the two
+options to the right, I prefer M17 over L17.
+
+However, you could also apply pressure on white's top-right group,
+solidify your top-right group, and still have miai to make life
+on top-center by finishing the joseki in the top-right.  (see
+alternative move tree 'b')];W[qb];B[rc];W[rb]C[** zenjutsu:
+
+Now white's top-right is very secure, no matter what you do.
+Also, white has sente (initiative).  Last, your top group is
+not yet established.  White has gained a great deal in the exchange
+in the top-right because the joseki was not completed.];B[sd]
+TR[kp][kq][jq][cc][cl][ck][cn][fq][jp][pk][qk][pi][pj][qj][qi]
+[lc]SQ[sc][qd]C[** zenjutsu:
+
+White's move was tesuji.  You don't have to respond to it.  This
+would be an excellent time to play elsewhere on the board.  Think
+big at this point in the game.  Try one of the triangle-marked
+points.
+
+However, if you insist on responding to white's small play, I
+think I prefer either of the square-marked points.  More direct.]
+;W[qh]C[** zenjutsu:
+
+Now white has greatly reduced your territory on the right, while
+simultaneously threatening the survival of your top-right group.
+You _must_ respond to this stone.];B[qj]C[** zenjutsu:
+
+Pincer.  Good.];W[lc]TR[ok][oj][ph][fq][kp][kq][jq][jp][ck]
+[cl][cn][cc]C[** zenjutsu:
+
+White plays here because he needs to secure eyes for the top-right
+group.  However, the play might be tesuji for you.  You can (and
+did) respond to it.  However your top stones are not yet threatened.
+They can still make life toward the top-left, or run to the center.
+
+Perhaps a triangle instead of your play (upcoming, at L17).]
+;B[kc]C[** zenjutsu:
+
+Too small.  See comments at previous move.  Also, white retains
+sente.];W[jp]
+(;B[ck]C[I try to invade the left side...
+
+** zenjutsu:
+
+Good.  At this point, if white establishes a stone there before
+you, you will be battling against a large territory.
+
+However, you may be able to retain sente by playing at the bottom
+right first.  See alternative move tree 'b'.];W[lp];B[cq]C[White doesn't respond so I invade the corner.
+Is it move adequate ? Is a C5 or C6 move better?
+
+** zenjutsu:
+
+I don't like C5.  A three-space jump is too much to make a strong
+shoulder-hit invasion.  C6 would be fine, however I rather like
+this corner invasion stone.  ...but then one of my largest weaknesses
+is playing too aggressive.  If you are concerned that this corner
+move is to aggressive, I'm the wrong person to ask.  Sorry I'm
+not more helpful on this inquiry.];W[dq]C[It the start of the only joseki that I know.. :)
+
+** zenjutsu:
+
+You do very well with this joseki in the corner.  Excellent work!
+
+To learn more about joseki, visit GoBase.org];B[cp];W[co];B[bo]
+;W[cn];B[bn];W[cm];B[dr];W[er];B[cr];W[fq]C[** zenjutsu:
+
+Good job taking the corner.  Also, white's group is weak at the
+bottom-right (due to your group's lower position) and the center
+(due to your C9 stone).
+
+Last, you can maintain sente and dominate the right for big points,
+while simultaneously preventing white from getting the center.]
+;B[bm]TR[cc][nn][no][ph]SQ[ek][ch]C[I try to connect with my C9 stone..
+
+** zenjutsu:
+
+Too small a play.  It only gets you a few points, and your C9
+stone can make life along the side or escape to the center (square
+points)... or make this connection later in the game.
+
+A bigger play would be one of the triangles.  I think I like
+Q12 the most.];W[oh]C[** zenjutsu:
+
+Ouch.  Now white has clearly escaped from the right side.  Also,
+this play is sente.  You _must_ respond (which you do) or risk
+losing your entire top right group.  However, as you play out,
+white builds an opportunity to attack your entire right side
+(which did not happen), and/or build points in the center (which
+white chose to do).];B[nf];W[mh]C[** zenjutsu:
+
+Still sente.  You must respond or risk losing the entire group.
+White is building a large wall.];B[lf]C[** zenjutsu:
+
+Now your right group is secure (connected to top group), but
+white just:
+
+1. ensured the survival of his right stones, thus reducing your
+opportunity to build territory there,
+2. built an opportunity to take-over the right, and
+3. retains sente, thus allowing white to guide the flow of the
+game for a little longer.];W[ci];B[bi]TR[mq][lr][ok][cc]C[B10 better??
+
+** zenjutsu:
+
+This play is too deep.  Playing at B10 would be better.  However,
+white's play is also tesuji.  You don't need to respond.  If
+you ignore this stone, white's follow-up at B10 (just a possible
+follow-up) would gain white a few points and lose a few for you.
+So you playing at B10 is only worth a half-dozen points... perhaps
+up to 10 points, but no more.    On the other hand, playing one of the triangle points will be
+worth much more than 10 points.];W[bj]C[Probably...
+
+** zenjutsu:
+
+Yep.];B[cj];W[bh];B[aj]C[** zenjutsu:
+
+Wrong stone.  First, this battle is too small to fuss with right
+now.  Save this for later in game (comments before about tesuji
+and playing elsewhere for more points).  Second, white can get
+out of this atari.  This stone (if it is played in this area)
+should be at B9.];W[bk]C[** zenjutsu:
+
+Here's where white escapes your atari, thus costing you a point
+or two in lost territory.];B[bl];W[ai];B[cl];W[ec]C[** zenjutsu:
+
+Now it is too late for the proposed C17 invasion.  White's corner
+is becoming secure... and large.];B[fe];W[kb];B[jc]C[** zenjutsu:
+
+Good play.  Too many new go players would block at K18-- which
+is a mistake.  Good job pulling back instead of trying to block.]
+;W[pi];B[pj];W[oj];B[pl]C[** zenjutsu:
+
+Good.  If you played nose-to-nose at P9, it would leave your
+right side open to aji (Japanese word that translates roughly
+as 'bad taste').  White could then press against right side and
+gain points.  Good choice to play where you did.];W[rf]C[** zenjutsu:
+
+Now we're really seeing why letting that white stone survive
+on the right was so painful.  Black's stones in top-right have
+gone from a large-chunk-of-territory to an oversized dragon (winding
+group of stones that do not more than a couple points).]
+(;B[qe]C[S15 better?
+
+** zenjutsu:
+
+Either is fine for defense.  ... or consider R16.  See alternative
+move tree 'b'.];W[ri];B[rj];W[fb]
+(;B[gb]TR[no][nm][nl]SQ[dm]C[** zenjutsu:
+
+I'm not the best at counting territory, but this play looks a
+little small.  It prevents white from getting another three or
+four points, and gives you another three or four.  Very rough
+high-end-estimate of 10 points.
+
+On the other hand, the bottom right can still be built up to
+give more than 10 points, and threaten white's growing center
+influence.  See the triangle points for potential moves.
+
+I also like the square point... but then remember that I tend
+to play a bit too aggressive.  I played out a few moves of the
+square point to show why I like it.  See alternative move tree
+'b'.];W[mk]C[** zenjutsu:
+
+Now white sees the opportunity to build points in the center,
+and threaten your right side.  The difference is that white has
+sente in this battle-- largely because white started it.  This
+battle is worth far more than what happened on the top.]
+(;B[nm]TR[qd][pe][hb][ic][jd][ie][he][gf][ge][gd][hd][hc]SQ[bp]
+[am][cs][an][ao][ap][aq][bq][br][ar][as][bs]MA[bo][bn][bm][bl]
+[cl][ck][cj][lf][kc][jc][id][gb][gc][fe]C[After reviewing I think that I would have to play something like
+G12 for extending to the center for a possible connection between
+the marked groups and extend my influence to the center...
+
+** zenjutsu:
+
+Actually, I like the response you made.  It is quite necessary.
+If you don't make this stone, then white will play near it and
+build territory in the center (just more to the right) while
+simultaneously eroding your bottom-right corner enclosure.
+
+The fact that you played here does two things:
+1. Expands your territory, and
+2. Allows a _third_ major invasion point into the center.  Three
+invasion points should allow you to severly reduce white in the
+center.
+
+Last, your X-marked stones don't need to be connected.  They
+both have eyes to survive (square points, and triangle points).
+Connections are only necessary to make life.  What you need isn't
+a _connection_ but an invasion point to reduce white's center.
+Your play successfully did that.
+
+Just to illustrate, let's see what the board would look like
+if you had played at G12.... see alternative move tree 'b'.]
+;W[mm];B[nn];W[lj];B[jg]TR[hk][hl]SQ[dm][kh][ig]C[Small move?? G12 or something like this is better??
+
+** zenjutsu:
+
+Yes, this move does look small.  However I'm not certain I like
+G12 either.  Your groups are both secure (previous comments).
+
+Perhaps a square-marked play instead?
+
+Or, if you really feel like invading the center, do it with a
+triangle.  It looks dangerous, but can easily connect out of
+the center and live.
+
+Personally, I like D7 to start invading the center.];W[ln]C[** zenjutsu:
+
+This stone by white feels small to me.  Awkward.  It appears
+to be tesuji.];B[mq]C[** zenjutsu:
+
+Good, you didn't respond directly to white's last stone.  It
+felt small and unnecessary.];W[fh]C[** zenjutsu:
+
+I know you were eyeballing playing in this area (you mentioned
+G12 a few times).  I assume that you find the following exchange
+to be painful.  I don't think it was too bad.  There were a few
+stones that could have been different, but overall, your decision
+to not play at G12 in the actual game did not cause you much
+(if any) pain.  I'll try to explain as we progress.
+
+For now, suffice it to say that this stone doesn't hurt you much.]
+;B[hf]SQ[gg]C[Small move too?? J11 or something like this is better??
+
+** zenjutsu:
+
+This feels too small to me too.  However, I do like the idea
+of gaining a few points of territory here (and solidifying eye
+space)-- just not with this particular stone.  Perhaps the square-marked
+point?];W[hh];B[ji];W[ii]
+(;B[ih]C[** zenjutsu:
+
+I think playing K10 may have been a better stone.  See alternative
+move tree 'b'.];W[ij];B[jj]C[** zenjutsu:
+
+The difference with playing K10 now is that white has already
+placed J10, and (more importantly) white currently holds sente
+(allowing white to guide the development of the game).];W[df]
+
+(;B[fj]C[** zenjutsu:
+
+Invasion to center.  Good.
+
+However, white's potential territory below this (where white
+actually makes points in the real game) is much larger than this
+area.  See alternative move tree 'b' for a stronger invasion.]
+;W[gj];B[gk];W[fk];B[fl];W[ek];B[el]C[** zenjutsu:
+
+Good play.  Playing on this side threatens both the E9 stones
+and the C6 stones.];W[en]C[** zenjutsu:
+
+White correctly plays here to prevent you making a direct attack
+at D5.  This allows you to capture the E9 stones.];B[ej];W[hp]
+;B[ik];W[hk];B[gl];W[hl];B[il];W[hj];B[hm];W[gi];B[di]C[Perhaps it was better to play soething like K7 or K6 ??
+
+** zenjutsu:
+
+Definitely.  This stone is only a few points.  It gains one or
+two for you, and costs three or four for white.  However, white
+easily makes 10 additional points on the bottom in the following
+exchange.];W[im]C[Yes ... :)
+I think that the game is play here and that the following moves
+are not very "important" for the final result........
+
+Are the previous analysis correct??
+
+** zenjutsu:
+
+At this point, the game is still _very_ close.  I see the game
+as dead draw... or leaning in black's favor.    In the last plays (starting around move 223 or so), black makes
+some end-move errors that give white at least an additional 12
+points.  Also, there are a few moves that make a point-or-two
+difference, especially regarding use of sente.
+
+Bottom line: black can still win the game.];B[jk];W[hn];B[gm]
+;W[km]
+(;B[kl]TR[jm][kr][sb][ch][fc]C[** zenjutsu:
+
+This play is tesuji.  It does not gain any points for black.
+It costs white a point or two, but white does not need to respond.
+This play loses sente for black.  If you wish to play in that
+region, try the play shown in alternative move tree 'b'.
+
+...or play one of the triangles.];W[fg];B[gn];W[in];B[lq]C[** zenjutsu:
+
+Too small.  A more dynamic extension would be L2.];W[kq];B[kr]
+TR[ch][jb][fc]C[** zenjutsu:
+
+This stone loses sente.  There are still other plays that do
+not lose sente which you can play prior to this stone.  Perhaps
+a triangle?];W[jr];B[lr];W[go];B[fn]C[** zenjutsu:
+
+Too small.  Tesuji, which white correctly ignores and plays elsewhere.
+A different play could have retained sente, and cost more points
+from white.];W[fd];B[gd];W[ee];B[gf];W[fc]C[** zenjutsu:
+
+White just gave you back sente.  Now, you can play a sequence
+of plays that white 'must respond to'.]
+(;B[fa]C[** zenjutsu:
+
+Unfortunately, white 'must respond to' this play, but you must
+respond to white's response.  That means that you lose sente.
+White will return to the driving seat of the game.  See the alternative
+move tree 'b' for a sample of how you could have maintained sente
+and made other plays, then eventually lead to this play.];W[ea]
+;B[ga]C[** zenjutsu:
+
+Now white has sente again.  Remember, holding sente is worth
+points.  Not literally, but rather in strategic terms.  This
+is because you are in the driver's seat when you have sente,
+and can guide where the onesy-twosy plays fall-- to your advantage
+or your opponent's.];W[fo];B[em]C[** zenjutsu:
+
+Tesuji.  Again, too small.  White's play did not necessarily
+require a response.  White played there to secure territory,
+not to threaten yours.];W[sj]C[** zenjutsu:
+
+...and this is where white takes the tesuji.  White retains sente
+and costs two points from black, while retaining one of his own
+_and_ retaining sente.];B[sk];W[si];B[rl];W[dm];B[dl]C[** zenjutsu:
+
+Good response.  Not because it connects your groups (they already
+are via playing the capturing stone at D9), but because it is
+a force-play.  If white does not respond, then you can play at
+D5 and capture white's group (see alternative move tree 'b').]
+
+(;W[eo];B[ch]C[** zenjutsu:
+
+Good.];W[bi];B[dh];W[cg];B[ff];W[ef];B[eh];W[eg];B[gg]C[** zenjutsu:
+
+Oops.  Tesuji.  White can ignore this stone because their groups
+can still connect two ways.  Also, this stone does not gain any
+territory for black.  Therefore, not only does it lose sente,
+but it is a wasted stone.];W[mn];B[mo];W[mp];B[np];W[jb];B[ib]
+;W[sb];B[sc];W[lo];B[no];W[ig];B[jh];W[hg];B[if];W[gh];B[jm]
+;W[jn];B[jl]C[** zenjutsu:
+
+Tesuji again.  White does not need to respond to this play.  You _could_ play elsewhere, thus retaining sente.  If white captures
+K7, his capturing stone will be in ko.  So you'll recapture it.
+Sente is more valuable at this point than protecting against
+a minor ko like this one.];W[re];B[qd];W[oe];B[of];W[ll];B[js]
+C[** zenjutsu:
+
+Good.  This is a force-play which retains your sente (initiative).]
+;W[is];B[ks];W[ir];B[ok];W[nk];B[nl];W[fi]
+(;B[dj]C[** zenjutsu:
+
+This stone is unnecessary.  See alternative move tree 'b' for
+further explanation.];W[ak];B[al];W[qf];B[pe];W[ml];B[se];W[pg]
+;B[sf];W[sg];B[ng];W[nh];B[ne];W[od];B[md];W[mc];B[ld];W[mg]
+;B[mf];W[lg];B[kg];W[lb];B[ja];W[ds];B[cs];W[es];B[nj];W[oi]
+;B[mi];W[li];B[qi];W[rh];B[ka];W[og];B[la];W[ma];B[ia];W[nb]
+;B[kf];W[kk];B[kj];W[ki];B[lk];W[bq];B[bp];W[kk];B[kn];W[lm]
+;B[ko]C[** zenjutsu:
+
+In my opening comments, I stated that go scores under standard
+IGS scoring are composed by adding:
+
+1. surrounded territory (not including stones on the board)
+2. captured stones
+3. the komi (for white)
+
+Therefore, "giving free prisoners" to your opponent is the same
+thing as giving them a free point.  Likewise, filling in your
+own territory without reason is the same thing as subtracting
+a point from yourself.  I'll be pointing out at least 13 end-game
+stones that black played which either unnecessarily reduced black's
+score by 1, or increased white's by 1.
+
+This stone is a sample of a free prisoner.  It cannot capture
+white alone.  White does not need to respond to it.  Therefore,
+you just gave white a point.  _AND_ white now has sente (initiative)
+to play wherever he chooses and try to make himself even more
+points.
+
+There are a few of these sorts of plays.... I'll keep a running
+total from here to the end.
+
+Total: 1];W[kh];B[lk];W[nr];B[nq];W[kk];B[bg];W[bf];B[ag]C[** zenjutsu:
+
+This is another 'gift' to white.  This stone is not a force play.
+It requires another stone to become a force play.  This means
+that you end up giving white two prisoners (two points) in exchange
+for white playing one stone inside his own territory (thus losing
+a point).  White has a net gain of one point, PLUS white gains
+sente.
+
+Total: 2];W[lk];B[be];W[bd];B[af];W[cf];B[ae];W[ce];B[ad];W[ac]
+;B[bc];W[ah];B[ag]C[** zenjutsu:
+
+Another free prisoner given to white.
+
+Total: 3];W[rd]C[** zenjutsu:
+
+This play of white's is unnecessary.  Computer go programs often
+seem to 'need' to fill in all dame (empty spaces that aren't
+territory).  They do not 'see' that the play does nothing for
+them.];B[qg];W[rg];B[or]C[** zenjutsu:
+
+This stone is unnecessary.  I would be amazed if white could
+invade your corner.  However, playing this stone did reduce your
+territory by one point since you filled in your own territory.
+
+Total: 4];W[ei];B[jo]C[** zenjutsu:
+
+Free prisoner.
+
+Total: 5];B[ho];W[io];B[ip];W[kp];B[ko]C[** zenjutsu:
+
+Free prisoner.
+
+Total: 6];B[jo]C[** zenjutsu:
+
+Free prisoner.
+
+Total: 7];B[hq]C[** zenjutsu:
+
+Free prisoner.
+
+Total: 8];B[gp];W[iq];B[hr]C[** zenjutsu:
+
+Free prisoner.
+
+Total: 9];B[hs]C[** zenjutsu:
+
+Free prisoner.
+
+Total: 10];B[gq]C[** zenjutsu:
+
+Free prisoner.
+
+Total: 11];B[fp];W[ep];B[fr];W[eq];B[fs]C[** zenjutsu:
+
+Free prisoner.
+
+Total: 12];B[do];W[dn]
+(;B[br]LB[bs:C][as:C][ar:C][bq:C][aq:C][ap:C][ao:C][an:C][am:C]
+[fm:B][fk:A][ek:A][dk:A]C[** zenjutsu:
+
+Filling in own territory w/o need.  You have at least three eyes
+for this group already (A, B, and C), so there is no need to
+try to make more eyes; also, white simply can NOT survive in
+corner (see alternative move tree 'b' to see).
+
+Total: 13];TB[ss][sr][sq][sp][so][sn][sm][sl][rs][rr][rq][rp]
+[ro][rn][rm][rk][qs][qr][qq][qp][qn][qm][ql][qk][ps][pr][pq]
+[pp][po][pn][pm][pk][os][op][oo][on][om][ol][ns][nr][ms][mr]
+[me][ls][le][ke][kd][jf][je][jd][ie][ic][he][hd][hc][hb][ha]
+[ge][fm][fk][ek][dk][bs][bq][as][ar][aq][ap][ao][an][am]TW[sh]
+[sa][ra][qg][qa][ph][pb][pa][ob][oa][nj][ni][nc][na][mj][mi]
+[mb][lh][ko][kn][jq][jo][ip][hs][hr][hq][ho][hi][gs][gr][gq]
+[gp][fs][fr][fp][ed][eb][do][de][dc][db][da][cd][cc][cb][ca]
+[bg][be][bc][bb][ba][aj][ag][af][ae][ad][ab][aa]C[Black: 77 -- White 89
+
+** zenjutsu:
+
+Score correction:
+
+White has 94.5 points:
+ - 58 surrounded territory points
+ - 31 prisoner points
+ - 5.5 komi points
+
+Black has 77 points:
+ - 71 surrounded territory points
+ - 6 prisoner points
+
+White wins by 17.5 points.
+
+As I said at the start of the review, you did very well.  Keep
+on working, studying, and reviewing games to improve.  Observe
+others, and ask lots of questions.  Play, play, play.  All are
+keys to improving.
+
+Also, I hear that having a 'mentor' helps learn the game too.
+I say that I 'hear' this because I do not know anybody (other
+than over the internet) who plays go.  ...anyway, I hear that
+working with somebody face-to-face is very helpful.  If you have
+such an opportunity, take it.  Whether you find a mentor or not,
+The Go Teaching Ladder is a priceless learning resource-- take
+advantage of it.
+
+Last, I want to stress again that many of your plays were very
+good-- better than most 30k I've seen.    Congratulations on your accomplishments, and best wishes on your
+progress,
+
+Dimitri])
+(;B[rr]C[** zenjutsu:
+
+First, I do NOT recommend this play.  I just placed a 'junk'
+stone here to get this move tree going (I heard that some sgf
+viewers can't view a tree that starts with a 'pass' play).  Imagine
+you actually passed.
+
+This tree is just to illustrate that white could not possibly
+make life in the bottom left.];W[br];B[tt];W[bs];B[tt];W[ar]
+;B[tt];W[ap]C[** zenjutsu:
+
+White's group has only one eye (A1).  A3 is a false eye.  If
+you play at...];B[ao]LB[bs:X][ar:X][br:X][bq:X][ap:X]C[** zenjutsu:
+
+...A5, then the false eye collapses and you can capture white's
+corner group (X) at will.]))
+(;B[ja]C[** zenjutsu:
+
+If you ignore whtie's F11 stone, then white can _try_ to attack
+at 'a', 'b', or 'c'.  All will fail.]
+(;W[ei];B[dj]C[** zenjutsu:
+
+Safe.])
+(;W[dj];B[dk];W[ei];B[dj]C[** zenjutsu:
+
+Safe.  You lose one point (D9 got filled), but you made use of
+the sente white gave you by playing on the top.  The top play
+cost white a point or two, and gave you a point or two.  Thus,
+the net result is positive for black.])
+(;W[dk]C[** zenjutsu:
+
+Still not a threat.  Ignore it.];B[ka]TR[dj]C[** zenjutsu:
+
+Now white can _try_ to continue the attack.  Note, white cannot
+play at the triangle point because it would be self-capture.]
+;W[ei];B[dj]C[** zenjutsu:
+
+Safe.])))
+(;W[jb]C[** zenjutsu:
+
+_IF_ white ignores your previous play, then...];B[do]C[** zenjutsu:
+
+Bang!  White loses group.
+
+_IF_ white makes error of trying to save C6 group via escaping
+out...];W[dn];B[eo]C[** zenjutsu:
+
+Bang!  White loses group PLUS E6.  Ouch.
+
+Anyway, you get the point.  Your D8 play was a force play.  Good
+choice.]))
+(;B[jb];W[lb];B[ch];W[bi];B[js];W[ir];B[dh];W[cg];B[dm];W[dn]
+;B[fo];W[fp];B[eo];W[do];B[ep];W[eq]C[** zenjutsu:
+
+Now, you could continue to play force moves (moves which _require_
+an opponent's response) and retain sente, or play the F19 stone.
+Regardless, your board position is much better... and white had
+very little say in this result.  White's plays were 'must do'
+plays.]))
+(;B[jm];W[in]C[** zenjutsu:
+
+You just cost a point or white's, and white _had_ to respond
+(or else lose more).  Also, you can still (if you want) play
+L8.  ...however I still think other plays are stronger than L8
+at this point.
+
+...such as L2....];B[kr]C[** zenjutsu:
+
+Ouch.  White just lost a TON of points on the bottom.
+
+Let's look at white's attempt to block now...]
+(;W[lq];B[lr];W[mp];B[np];W[mr];B[nq]C[** zenjutsu:
+
+L2 group still alive via capturing N2 stone.])
+(;W[jr]
+(;B[jq])
+(;B[kq]C[** zenjutsu:
+
+L2 group still alive.]))))
+(;B[dm];W[do]SQ[gl][gk][fk][fl]C[** zenjutsu:
+
+Now play a square point to really hurt white.]))
+(;B[jj];W[jh]C[** zenjutsu:
+
+White tries to cut...];B[kh];W[ih];B[ki];W[kg]C[** zenjutsu:
+
+White tries to cut again...];B[lg];W[kf];B[ke];W[jf];B[ig];W[if]
+;B[hg]C[** zenjutsu:
+
+White's K14 group cannot survive.  Black's L11 group will survive,
+and create a dangerous finger poking into the center-- white
+will lose a lot of points.]))
+(;B[gh];W[nn]C[** zenjutsu:
+
+The bottom right is severly deflated for black.  White has also
+gained the potential for points in the bottom-right of center.
+I think this result is much better for white.  Your play in game
+was a good decision.]))
+(;B[dm]C[** zenjutsu:
+
+White must respond, or lose the C5 group (because D5 would kill).]
+;W[do]SQ[gk][gl][fk][fl][no][nm][nl]C[** zenjutsu:
+
+Now black can go back to playing the right side, or extend the
+left invasion.  At this point, I prefer the right side.  The
+invasion on the left is _very_ strong now, and white will gain
+nearly nothing in the center.]))
+(;B[qd];W[pe];B[oe];W[qe];B[qf];W[re];B[od]C[** zenjutsu:
+
+Still safe.]))
+(;B[lq]C[** zenjutsu:
+
+White cannot afford to ignore this stone, or else you might capture
+the entire bottom area.];W[gq]C[** zenjutsu:
+
+White could also play somewhere around this stone.  I'm not being
+too picky about white's play... just illustrating the general
+idea.  However, if white ignores your M3 stone, then he might
+be in trouble.];B[cl]C[** zenjutsu:
+
+Now you have a gigantic enclosure on the bottom-right, and an
+invasion on the left side.]))
+(;B[qb]C[** zenjutsu:
+
+Now white's top group must fight to make life, or run for the
+center.  Either way, your top stone will live because it can
+make eyes to the top-left, or run to center.]))
+(;B[qp]C[** zenjutsu:
+
+A small-knight corner enclosure.])
+(;B[po]C[** zenjutsu:
+
+Perhaps a bit too far from enclosing the corner.  Observe a potential
+white invasion (should white decide to invade immediately)...]
+;W[qq]C[** zenjutsu:
+
+Now white has a foothold in the corner.  If black tries to enclose
+the group, it will likely escape out the top or diagonally to
+the center... or just make two eyes in the corner.  Very dangerous.
+I'd probably NOT advise playing Q5.  For detailed descriptions
+of fuseki, check GoBase.org]))

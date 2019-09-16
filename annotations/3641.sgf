@@ -1,0 +1,88 @@
+(;FF[4]GM[1]SZ[19]ST[0]AP[SGFC:1.15]VW[]
+
+GN[2005_09_17_cwelsh_gnugo_2H_3rd]
+PB[gnugo]
+HA[2]
+PW[cwelsh]
+WR[16k]
+KM[0.5]
+RE[B+6.5]
+
+AB[dp][pd]C[This is a typical sort of game where I seem to lose in the fuseki. I end up relying on killing a major group in order to compensate for the poor opening 50 moves. Which is not always possible, and wasn't achieved in this game.
+
+This is a game against a nominally weaker opponent, I'm playing white and have given him a 2H start.
+
+>>> I'm Tom. I hope my comments help.];W[dd];B[fc];W[df];B[ic]
+;W[dj]SQ[df][dd]C[>>>First fuseki problem is right here. The two marked stones are safe enough for now. They have options if attacked. better to play in the empty corner first.]
+;B[pp];W[qn]C[this was probably wrong, but I really have no idea where the proper move is here.
+
+>>> This approaoch is fine.];B[pn];W[pm];B[on]
+(;W[ql]C[perhaps this is the wrong joseki for white?
+
+>>>R8 isn't joseki. R6 is a good option however. (see variation)]
+;B[qo];W[om]C[>>>the problem now is that the white group on the right side is weak and can be easily attacked later while black's stones have better shape and more options. This is a subtle point, but it is key that all of you moves focus on balancing attack with your own stones stability. You must have a stable base to attack from.]
+;B[cl];W[fq]C[>>>one line higher at F4 would have been perferable. High approaches are typically used when the approaching stone needs to maintain access to the center. Because  white has no support on the bottom, have center access is key here.]
+;B[fp];W[gp];B[fo];W[dq];B[eq];W[er];B[ep];W[gr];B[cq];W[dr]
+;B[go];W[hp];B[cr];W[lp]C[this seemed solid, but is perhaps a waste of thickness? is somewhere more severe required?
+
+>>>You're right when you say that this is not severe. It does help stabilize the bottom for white, however, it does not really attack black. Notice that black's next move is to maintain access to the center with his bottom right stones. 
+
+My preference would be to approach the Q16 stone. This would not only pressure black but would strengthen white's right-side stones, which are weaker than the bottom stones at this point]
+;B[nn];W[ln]C[>>>Again, the stones ont eh right are being ignored. THis move actually weakens these stones rather than strengthening them as it pushes black to make another move that will only weaken the right side stone more.]
+;B[nm];W[nl];B[in];W[ho]C[this was totally ineffective and a wasted move, i'm sure. m17 or thereabouts better?]
+;B[lc];W[qf];B[qh]C[>>>I mentioned the R14 approach earlier. The difference herre is that black had a stone at M17 when you approached giving him the strength necessary to attack immediately after the approach. THis approach earlier would have been better.]
+;W[of];B[nd];W[mf]C[is running again correct? perhaps try to move into the corner at this stage? or squeeze the lonely black stone at r12?
+
+>>>Running is okay as it indirectly attacks the r12 stone.]
+;B[nq];W[mq];B[np];W[hn];B[im];W[jo]C[was the defence correct? perhap H7 would be better before defending
+
+>>>defending is fine. The potential of h7 or even g7 will be there later.]
+;B[db];W[cc];B[cj];W[ci];B[bj];W[bi];B[qe];W[rf];B[rg];W[rj]
+C[does this lack severity? in the end, black's group survives easily enough.]
+;B[qj];W[rk];B[ri];W[rd]C[Q11 was perhaps the correct move here?
+
+>>>With black working to make shape I would agree that Q11 is stronger. however I think it would be better to simply seal black in with P11. Once sealed in black will struggle to live.]
+;B[oj];W[mk];B[oh];W[kf];B[rn]
+(;W[re]C[essentially it's game over already? white about 30-50 points behind
+
+white has very little territory to speak of, and apparently limited opportunities for reductions/invasions.
+
+In the end I invade the bottom right successfully, but still lose by 7 points. No doubt black was aware of his lead and played a conservative middle/end game
+
+Along the way I've obviously made too many poor strategic decisions, but am struggling to pinpoint where they are.
+
+Or perhaps I'm wrong - maybe there are important missed opportunities still to come?
+
+>>>The black group that is surrounded at the right is the key still. If it dies White is in the game. THe vital point now is Q11. Kill this group and white is okay. White can still make some more territory in the center, though it will be limited. (see variation)]
+;B[li];W[fe];B[cb];W[bb];B[kl];W[mm];B[nr];W[mr];B[ai];W[ah]
+;B[aj];W[bg];B[ms];W[ls];B[ns];W[kr];B[el];W[fj];B[dk];W[ej]
+;B[qc];W[hd];B[pf];W[qd];B[hc];W[pe];B[od];W[pg];B[mj];W[lk]
+;B[ji];W[ih];B[ij];W[hi];B[rc];W[ph];B[pi];W[nh];B[nk];W[ok]
+;B[nj];W[gl];B[pk];W[ol];B[mh];W[ng];B[ni];W[id];B[gd];W[ge]
+;B[sh];W[jc];B[jb];W[kc];B[kb];W[ec];B[eb];W[ld];B[md];W[le]
+;B[dc];W[cd];B[ba];W[bc];B[ds];W[es];B[cs];W[ed];B[sd];W[se]
+;B[sc];W[qq]
+(;B[qm]C[>>>With all of the black thickness in the arrea this 3-3 invasion should not have succeeded. (See variations)]
+;W[rm];B[qn];W[pl];B[sm];W[rp];B[rl];W[qk];B[kk]C[Undo];W[pr]
+;B[rr];W[sr];B[lj];W[ll];B[km];W[lm];B[jh];W[jg];B[lg];W[kg]
+;B[ro];W[sp];B[ps];W[qs];B[os];W[rs];B[mo];W[lo];B[hk];W[gk]
+;B[hj];W[gj];B[fl];W[gn];B[ii];W[hh];B[fn];W[io];B[fd];W[qp]
+;B[hl];W[hm];B[pj];W[so];B[kn];W[ko];B[jn];W[sn];B[mg];W[og]
+;B[kh];W[lf];B[pq];W[rq];B[oo];W[or];B[oq];W[qr];B[fm];W[ne]
+;B[oi];W[oe];B[ab];W[ac];B[ca];W[me];B[lb];W[qg];B[sg];W[sj]
+;B[si];W[sk];B[gm];W[mp];B[mn];W[ek];B[sf];W[ml];B[fk];W[sl]
+;B[rm];W[tt]C[Pass];B[gb];W[aa];B[fr];W[fs];B[ab];W[ck];B[bk]
+;W[aa];B[gs];W[hs];B[ab];W[fb];B[fa];W[aa];B[jd];W[kd];B[ab]
+;W[dl];B[dm];W[aa];B[he];W[ie];B[ab];W[cp];B[co];W[aa];B[je]
+;W[if];B[ab];W[bp];B[bq];W[aa];B[bh];W[ch];B[ab];W[bo];B[bn]
+;W[aa];B[cn];W[ab];C[Pass
+
+>>>As my earlier comments indicated, the game was lost in the opening as you feared. The right side was the deciding factor. Focus on balancing your opening by ensuring that you have stable stones in each quadrant of the baod if possible. Then when the fighting starts in the middle game you'll be prepared to fight from strength rather than fractured positions.
+
+Good Luck!])
+(;B[qp]
+(;W[pq];B[rq];W[qr])
+(;W[rq];B[pr];W[qr];B[sr])))
+(;W[pi]C[>>>This sets up a complicated but winable fight for this group. Don't be scared of fighting in situations lilke these. You have nothing to lose! Working life and death problems will help you learn to see the vital points in fights like these.]
+))
+(;W[qo];B[qp];W[ql];B[np]))

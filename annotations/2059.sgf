@@ -1,0 +1,148 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+PB[shachav]
+BR[19k]
+HA[3]
+PW[tomakelife]
+WR[16k]
+KM[0.5]
+DT[2003-11-26]
+PC[The Kiseido Go Server (KGS) at http://kgs.kiseido.com/]
+RE[W+Resign]
+TM[1800]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+AB[pd][dp][pp]C[3 handi game for black.
+
+sam: Hello, I'll be reviewing your game.  I play as samtregar on KGS at 8k.  Please feel free to send questions to sam@tregar.com.  Also, please be aware that I'm not an expert player, but I'll do my best to give you good advice.]
+;W[dd];B[jp]LB[fc:B][cf:A][jq:C]C[sam: I've been told that black should play very aggresively in handicap games.  You have the advantage on the board, but all your stones are high.  That means you must attack, and continute attacking throughout the game to get the best use of your stones.  Thus, a move around A or B is preferable.
+
+Also, with two high stones on either side, a move at C would be locally better.  A high-low-high balance makes for better defense.  This move leaves too much room for a white invasion later.]
+;W[qn];B[qo]LB[qj:A][np:B][nq:C]C[sam: This move is best when you have a stone around A.  That way white extends but can't use the extension to claim territory.  Instead, B or C is good here.]
+;W[pn];B[np];W[rp]LB[qj:A]C[sam: Unusual...  The next move is usually around A.  This looks like an overplay to me.  I would simply play S5 and split white.  Another option is to play A yourself.  Often when an opponent misses an obvious move the best thing to do is play it yourself before he can.  The saying here is "your opponent's best move is your best move."]
+
+(;B[qq];W[ro];B[pl]LB[qj:B][qk:A]C[sam: good idea, but maybe too high and too close.  I think A or B might have been safer.  Still, you have the right idea to press white from your strong position.]
+;W[ql];B[pm]C[sam: running your stones into a wall is usually bad.  You lose liberties and gain little.]
+;W[qk];B[pk];W[nn];B[qh]LB[pi:A][pj:B]TR[pk][pl][pm]C[obviously this didnt follow up as I planned
+
+sam: it's too far from the marked stones to make an escape.  I think I would play A or B, which white cannot easily cut.]
+;W[pj]C[suddenly I have to defend this group where I wanted to connect, should i have extended to Q10 instead of playing R12 ?
+
+sam: yes, Q10 would have been ok.  But don't worry too much about smallish groups like this.  You have bigger things to worry about in the early game.]
+;B[nl];W[oj];B[ll];W[lp]LB[ln:A][lo:B][mo:C]C[sam: ok, you escaped, but now white is using his influence to attack.  Still, this is a bit premature.  White should probably play A before this move, or maybe B.  With this move you can cut off the invader with C.]
+;B[mo]C[sam: Good move.];W[ko];B[ln]C[the right way to play ?
+
+sam: this looks good to me.  You're cutting off white's invading stones and forcing them to run to the middle.  You should chase them from the left and use this to build a nice moyo.]
+;W[oq]LB[nq:A]C[sam: another overplay, I think.  I would decend to O3 or maybe N3 to cut off this stone.  Then it should die easily.]
+;B[nq]C[sam: good.];W[qp];B[op]C[sam: A little slow, but solid.]
+;W[kn];B[km]LB[in:A][ho:B]C[sam: this pushes white towards your relatively weak side.  Instead, a play at A  or B would have been better.  I think this is a good example of how you can build territory while attacking.]
+;W[in]TR[jp]C[sam: this is a very nice move.  It runs to the middle while threatening your weak stone with possible capture.]
+
+(;B[cf]LB[fc:C][gq:B][hq:A]C[given what followed I think it was better to play H5..
+
+sam: H5?  No, I think something simpler like H3 or G3 would have been ok.  Still, this isn't a move white should ignore.  You can play next around C and get a good result.]
+;W[ce];B[ci]LB[fd:B][df:A][cj:C]C[sam: the usual play here is at A.  Then white B, black C.  This move leaves white able to play A, which is a big move.]
+;W[hp]LB[lr:A]C[sam: painful, but it's just one stone.  Better to abandon it and move on.  If you do want to save it, maybe something around A would work.]
+;B[kq]C[sam: this looks doomed to me];W[lq];B[lr];W[ip]LB[mr:A]
+C[sam: strange move... white not A?  Now you can play A and save your stones!]
+;B[mr]C[sam: good.];W[jq];B[kp]C[mistake];W[kr];B[fc]LB[df:A]
+C[sam: good, although it would be better if you had a stone at A.]
+;W[ec];B[ic]LB[jc:B][fd:A]C[sam: same mistake again.  When you have a stone on the third line and your opponent plays a contact move on the third line your first instinct should be to extend to the center.  This makes your stone stronger and you get the chance to play a strong followup 3 stones away.  Thus, A is the obvious move, then B later.]
+;W[rq];B[qr];W[cn];B[cp]LB[cl:A]C[sam: good move.  It's tempting to pincer at A, but your stone is too weak with the mass of white stones so close.]
+;W[eq]C[sam: good move by white.  This move both threatens your corner and expands white's moyo.  Dual purpose moves are worth a lot in Go.]
+;B[dr]LB[dq:A][cr:B]C[sam: looks vulnerable to a play at A, but perhaps ok.  I would prefer B.]
+;W[dq];B[cq];W[er];B[bn]LB[bo:A]C[sam: I think A would be sufficient for life and less dangerous.]
+;W[bm];B[bo];W[cl];B[ds];W[es];B[cr];W[cg]LB[ci:A]C[sam: ouch.  Now you see why A wasn't good enough.]
+;B[df];W[bf];B[dg];W[ch];B[dh];W[bi];B[dj]C[right way to do this ?
+
+sam: this is ok, but painful to have to play like this.];W[cj]
+;B[di];W[nc];B[pc]LB[oc:A][pf:B]C[may be better to play P17 ?
+
+sam: yes, this is exactly the situation where P17 is called for.  Good instinct.  Then you can follow up with B and you'll have a nice safe corner.]
+;W[kc];B[fe]C[sam: this is the right idea, I think.  This joins the two groups and you now have a lot of influence to use in the center.]
+;W[gd]LB[fd:A]TR[ic]C[this one(G16) really puzzled me..
+
+sam: this is called a peep.  The expected response is A.  Anytime you play a one stone jump you are vulnerable to a possible peep.  In this case it looks to me like white is aiming to attack the marked stone, which seems reasonable.]
+;B[ie]TR[fd]C[sam: I think the only move is A.  The cut is too much to bear!]
+;W[fd];B[gc];W[hd];B[id];W[hc];B[hb];W[ib];B[jb];W[gb];B[ia]
+;W[fb];B[ge]LB[he:B][gf:A]C[sam: a better way to connect these groups might be A.  This move leaves open the cut at B, which I think will be hard to fight.]
+;W[ee];B[ef]TR[aa][ba][ca][da][ea][fa][ab][bb][cb][db][eb][ac]
+[bc][cc][dc][fc][gc][ad][bd][cd][ae][be][af][ag][ah][ai][rk]
+[sk][rl][sl][rm][sm][rn][sn][io][jo][so][jp][kp][sp][fq][gq]
+[hq][iq][kq][fr][gr][hr][ir][jr][fs][gs][hs][is]SQ[qa][ra][sa]
+[qb][rb][sb][qc][rc][sc][qd][rd][sd][ao][ap][bp][aq][bq][oq]
+[pq][ar][br][nr][or][pr][as][bs][cs][ns][os][ps][qs]C[Nothing left of my original threats here and white has a very large corner..
+
+sam: yes, that's true, but you did get a lot of influence to the center.  Your job now, if you want to win, is to find a way to use it to attack white.  Not to kill, but to make territory indirectly.
+
+This is a good time to take stock of the game since the sides and corners are mostly mapped out.  I've marked your secure territory, as I see it, with squares and white's with triangles.  By my count you have 32 points of secure territory.  White has 56. 
+
+ The biggest areas of the board which are undecided are along the top right and in the center.  You'll have to win in both areas to win the game.]
+;W[ne];B[ke]LB[md:A][pf:B]C[sam: this isn't going to be enough.  You should take a page from white's book and play the peep at A!  If white can make territory here then you've probably lose.  White also threatens your corner with this move, so a play at B would be ok if you weren't so far behind.]
+;W[ij]LB[bj:B][il:A]C[sam: this is too deep, I think.  You should cut off this stone with A and kill it.  If you do, you might get enough to close the gap.  White can't connect to the left side because you can play B and cut off the white stones.]
+;B[hi]LB[il:A]C[sam: This is your final losing move, in my opinion.  This move asks white to get stronger in the center and prevents you from getting much territory.  The rule to follow here is to force white to go towards your strength.  This means when you have a huge wall you want white to be forced to run towards your wall where it will be hard to escape.  This moves pushes white away from your wall back towards his stones.  White should play A and be happy.]
+;W[hj];B[il]LB[ii:A]C[sam: now this move is useless, and it just lets white attack you easier.  You should play A, although the game is pretty much over now.]
+;W[lg];B[kg];W[lf];B[kf];W[ii];B[ih];W[jh];B[ig];W[gi]C[this was really frustrating White eating away all the centre where it seemed to me I had strong influence]
+;B[gh];W[hh];B[hg];W[fh];B[hi];W[gj];B[fg];W[hl];B[fi]C[sam: very small move, considering the ko it might not even be worth a point!]
+;W[jl];B[im];W[jm];B[hm]C[fighting to connect to either D12 group or C3 group unsuccesfully though
+
+sam: this looks hopeless to me.  White has a lot of strength here.  One thing to do in situations where you can't see a good way out is to just leave it alone and play elsewhere.  Later you might find a way to use the trapped stones to your advantage.  At least you won't make things worse by playing in a hopeless way.]
+;W[gl];B[gm];W[fo];B[en];W[eo];B[dn];W[do];B[fl];W[fk];B[el]
+;W[ek];B[ck]LB[bh:B][bj:A]C[sam: No!  Play at A and you'll threaten a double atari at B.]
+;W[bk];B[bj];W[dk];B[dm];W[dl];B[cm];W[co];B[bh];W[bg];B[ai]
+;W[rr];B[qs];W[qf]TR[qh]C[Here again white plays in the middle of what looks to me as mine and I cant defend it.
+
+sam: If you thought that these stones were strongly connected then you need to reconsider.  The marked stone is much too far away from your corner.  The corner is yours but that stone has been weak from the moment you played it.]
+;B[rf]LB[qe:A]C[sam: this is terrible move, and you should lose the corner as a result.  You must play A, I think.]
+;W[rg];B[pf];W[qg];B[pg];W[qe];B[qd];W[pe];B[on];W[om];B[nm]
+;W[oo]C[After this I end my suffering but it may be clear that I never had control in this game... I think I would have played much better without the handi. However White played very clever and I ran after him all game long. Please advice.
+
+sam: I used to have trouble playing black in handicap games, then I read "Kage's Secret Cronicles of Handicap Go".  You can find it here: 
+
+http://www.samarkand.net/Web_store/web_store.cgi?page=KE11A.html
+
+This is a fun book to read since it's written as a conversation between Kageyama (7d) and his friends.  The basic thrust of the book is that handicap stones are for fighting.  You can't use them to make territory directly.  This means they're quite hard for most beginners (like you and me) to use well.  I still find I win much more often as white in handicap games than as black.  But reading that book has definitely improved my game.
+
+Just keep playing and reading other people's games and I'm sure you'll improve rapidly.  There's a proverb that says you must lose 50 games before you can win 1, and I've definitely found it to be true.  
+
+I hope you've enjoyed my review as much as I enjoyed making it.  Please feel free to send any questions to sam@tregar.com.]
+)
+(;B[hp]C[tomakelife [14k?\]: extend here I think
+
+shachav [19k\]: instead of taking territory ?
+
+shachav [19k\]: but ur right
+
+tomakelife [14k?\]: my group has no base
+
+shachav [19k\]: k4 is weak
+
+shachav [19k\]: i lost it later on
+
+tomakelife [14k?\]: so I have to keep running while you make territory
+
+tomakelife [14k?\]: bye];W[gn];B[fo]C[shachav [19k\]: right]
+;W[cn];B[co];W[dn];B[fn];W[do];B[cp];W[gl]C[tomakelife [14k?\]: I have to keep running
+
+shachav [19k\]: i c];B[fm];W[gm];B[jm]C[shachav [19k\]: but u can like devlop backwards towards ur corner
+
+shachav [19k\]: develop
+
+tomakelife [14k?\]: oh
+
+tomakelife [14k?\]: u mean d 16?
+
+shachav [19k\]: wrong yes
+
+shachav [19k\]: yes
+
+tomakelife [14k?\]: still tho, you already have three corners
+
+shachav [19k\]: thats right
+
+tomakelife [14k?\]: even now,];W[dk];B[cf];W[ch];B[ef];W[fd]
+;B[bd];W[cc];B[dh];W[ci];B[oc];W[jc]C[tomakelife [14k?\]: oh well, thank you for the game, have a good thanxgiving
+
+shachav [19k\]: thank u too :-)]))
+(;B[ro];W[rn];B[so]C[sam: now white is cut off]))

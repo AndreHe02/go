@@ -1,0 +1,116 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+PB[kex]
+BR[6k]
+PW[rillig]
+WR[5k]
+KM[0.5]
+DT[2007-02-14]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[W+Resign]
+TM[600]
+OT[25/600 Canadian]
+RU[Japanese]
+
+C[kex [6k\]: hello
+rillig [5k\]: hello. have a nice game.
+
+* hi,  I would be especially interested on how to deal with the white moyo
+
+You were leading most of the time, but somehow you lose concentration toward the end of the game and lose many points.  Starting from a 12 point lost at the upper right corner, then a pass at A14, to the eventual mistake of letting white live in the upper side.  Based on the game record, this appears to be a 10/25 game.  You should have lots of time in the end game.  I hope you will slow down in the future and be a bit more careful in reading out the moves.  It's all within you capabilities, and it's a shame that you lose this game.
+
+I have listed 4 variations regarding your question of dealing with white's moyo.
+
+You also lose a chance to fight a ko to kill white's group at the end of the game.]
+;B[pd];W[dq]C[kex [6k\]: you too];B[dd];W[pp];B[do];W[fp];B[cq]
+;W[cp];B[dp];W[cr];B[bq];W[eq]
+(;B[dm]LB[br:A]C[I think you labelled A in the game record.  A is bigger.  Not only this move increases black's eyespace, it also makes quite a few points at the corner.  In addition, white can play this move in sente, making it more important for black to play there first.]
+;W[br];B[bp];W[jq];B[jc]LB[jd:A]TR[dd][pd]C[Your move is unusual.  It also contradicts your earlier moves.  You played the two marked stones at star points earlier, indicating you are going to develop a power game on the top side.  However, the game move is geared toward territory, and it deviates from your earlier thoughts.  Besides, black has built up thickness at the lower left corner.  Playing A continues the power game concept, and it goes well with the lower left group.]
+;W[qf];B[nd];W[pj];B[ch]LB[jj:A]C[A is the keypoint.  It is the intersection between black's and white's framework.  Playing A expands black's framework while reducing white's.]
+;W[jj]
+(;B[kk]C[The game move is unusual.  There are several standard ways to reduce white's moyo.  Please see the variations.]
+;W[jk];B[kl];W[oq]C[Amazing, white has to keep up the attack.  The game move is slack.]
+;B[jl];W[cc]C[Amazing again.  The two white stones at the center are key.  Why is white giving them up?]
+;B[dc]LB[kj:A]C[A is the keypoint here.  If black gets there first, it is likely black can capture the two center stones.  In doing so, black has lots of territory in the upper left quadrant.  Given this thought, black should focus on getting sente.  Normally, an invasion of 3-3 point by white gives white sente at the end of the sequence.  However, there are variations that black can gain sente at the expense of a few points.]
+;W[cd];B[ce];W[be]
+(;B[cf]LB[bf:A]C[Playing A allows black to gain sente.  Please see variation.]
+;W[db];B[eb];W[cb];B[fc];W[nf];B[of];W[rd];B[qc];W[og];B[ng]
+;W[pf];B[mf];W[oe];B[ne];W[nh];B[mg];W[mh];B[lh];W[oh];B[li]
+;W[hk];B[gn]LB[ik:B][il:A]C[A is the keypoint for both sides.  If white gets there first, he can increase his chance of make an eye there.  If black gets ther first, he can push up at B and cut.  Learn to recognize the pattern of this shape.  A play by white at A looks like a "tiger mouth".]
+;W[gi];B[hh]LB[hi:B][ii:A]C[A is better to destroy white's eyespace.  With the game move, white can play B to form eyespace.]
+;W[il];B[jo];W[hp];B[in];W[hi];B[ih];W[hm];B[hn];W[fl];B[fn]
+LB[bf:C][dk:A][ek:B]C[You have to make an assessment whether you can kill white's group.  White's group is gaining eyespace and it looks like it is going to live.  The game move invites white to play around A, reducing black's territory at the left.  If white lives, this move by black loses many points.  
+
+It's safer to play at  B to harrass white's group, while in the process making profit on the left side.  Please note black can play C in sente.  So white can not do much damage to the left side.]
+;W[dk];B[cj];W[fg];B[gf];W[qm]C[Let's analyze the situation.  White is under attack at the center and he lives in sente!!!  That shouldn't happen.  If an attack ends in gote for black, that suggests he doesn't attack properly.  Typically the attacker should gain sente as a compensation for white to live.]
+;B[kq];W[kr]
+(;B[lr]LB[lq:A]C[Your suggested alternative move at A is better.]
+;W[lq];B[kp];W[jr]
+(;B[mq]LB[nq:A]C[This only forces white to the center.  Playing A may cause some trouble for white.  Please see variation.]
+;W[lp];B[or];W[pr];B[nr];W[mp];B[qq];W[pq];B[qr];W[ps];B[ro]
+
+(;W[qn]C[White can kill black with a ko.  Please see variation.]
+;B[rn];W[rm]
+(;B[qs];W[qp];B[rp];W[sq];B[sr];W[rr];B[rq];W[ss];B[rs];W[cl]
+;B[cm];W[bl];B[bm];W[dj];B[di];W[ei];B[eh];W[fh];B[ej];W[fi]
+;B[ek];W[dl];B[el];W[em];B[fm];W[fk];B[en];W[fj];B[em];W[eg]
+;B[dg];W[ee];B[fe];W[ed];B[ec];W[je];B[jg];W[ml];B[mn];W[ln]
+;B[lm];W[mm];B[lo];W[mo];B[kn];W[nn]
+(;B[ln]LB[mk:A][nk:B]C[A is a tesuji for black, although black has to fight at a ko.  White can not block at B.  Please see variation.]
+;W[jp];B[ko];W[np];B[rc];W[sc];B[re];W[rf]
+(;B[se];W[sf]
+(;B[qd]LB[qe:A]C[Yes, A is proper.  This is a big loss for black, costing black 12 points and losing sente.]
+;W[qe];B[sb];W[sd];B[qb];W[sn];B[sr];W[dh];B[ci];W[ff];B[ge]
+;W[de];B[fd];W[ef];B[im]LB[gm:A]C[Push at A first.];W[gm];B[mk]
+;W[nk];B[mj];W[nj];B[bf];W[bd];B[da];W[ba];B[ab];W[ac];B[ae]
+;W[bb];B[af]C[?  Did you misread?];W[gg];B[hg];W[kc];B[ic]LB[jd:A]
+[kd:B][ke:C]C[Aim for the A to C sequence.  White cannot live here.]
+;W[lb]LB[ra:B][jb:A]C[A deprives white's an eye.  Don't worry about the corner group.  Black can always live by playing B.]
+;B[nb];W[jb];B[ib];W[ka];B[ld];W[mc];B[od];W[md];B[me]LB[le:A]
+C[A is better.];W[le];B[ke];W[kd];B[lf];W[nc]
+(;B[oc]LB[ob:A]C[As suggested by you, A is the last chance to kill white cleanly.  You also miss a ko.]
+;W[mb]C[kex [6k\]: thank you for the game
+rillig [5k\]: thank you for the game.
+
+Don't stop the game here.  There is a ko.  Read on.];B[ma];W[ob]
+;B[oa])
+(;B[ob]C[I should have moved like this...]))
+(;B[qe]))
+(;B[qd]C[* this I messed up...]))
+(;B[mk];W[nk]C[If white blocks here ....];B[no];W[np]C[Certainly white can play the ko, but if black has more ko threats...]
+;B[nm];W[on];B[nl]))
+(;B[qo];W[po]C[* that should probably be sente, as black could escape otherwise...]
+))
+(;W[qp];B[rp];W[rr];B[rq];W[qs];B[rm];W[ql]LB[rl:A]C[If white blocks at A, it becomes very complicated.]
+;B[rl];W[rk];B[qn];W[pn];B[sn];W[qo];B[sl];W[rn]))
+(;B[nq]LB[lp:B][qq:A]C[Your aim is to invade at A or seal white in at B.]
+;W[lp]C[If white sticks out his head...];B[qq];W[pr];B[qr];W[qp]
+LB[ro:B][pq:A]C[Normally white connects at A, allowing black to play at B.  But if white blocks...]
+;B[pq];W[or];B[op]
+(;W[np];B[oo];W[mq];B[rp])
+(;W[nr];B[rp];W[ro];B[oo];W[rq];B[qo];W[sp];B[po];W[rp];B[lo]
+)))
+(;B[lq]C[* probably I should just have done something like this...]
+))
+(;B[bf];W[cf];B[de];W[bg];B[df];W[af]LB[bd:B][cg:A]C[White needs to capture.  If white plays A instead, black can cut at B later to capture two stones.]
+;B[kj]LB[cg:B][dg:A]C[The upper left moyo is very impressive for black.  Although white may want to make trouble by haning at A when condition allows, black can play B for the ko.  This ko is too heavy for white to fight.  He can lose the entire group.]
+))
+(;B[qn];W[qo];B[pn];W[np];B[pl];W[qk]LB[qj:A]C[White has to play this move.  Otherwise black can play A to live.]
+;B[mm]LB[oj:A]C[This is a standard sequence.  It's not easy for white to kill black.  Black also has the move at A to expand eyespace.]
+)
+(;B[qq]C[Try to live in the corner in sente.];W[qp];B[pq];W[oq]
+;B[or];W[nq];B[nr];W[mq];B[rp];W[ro];B[rq];W[qn];B[jm]C[Then neutralize white's framework.]
+)
+(;B[kp]C[Shoulder hit traditionally is also a good move to reduce framework, but I think in this situation it doesn't work as well as the other variations.  I am listing this variation here for your reference.  It may come in handy in future games.]
+;W[kq];B[mp];W[lq];B[kn];W[lp]C[Normally white will not push up.  In case he does, the following sequence shows what happens.]
+;B[lo];W[mo];B[mn];W[no];B[nn];W[oo]C[The result is not too bad for black.]
+)
+(;B[ko]TR[jq]C[The fourth variation does not work too well here, but again it is a standard sequence.  Hopefully you learn it and use it in some other games.
+
+Aim for a "knight" position relative to a white stone on third line.]
+;W[lp];B[lo]C[Push white to form a wall.];W[mp];B[qq]TR[ko]
+[lo]C[Then invade the 3-3 point to live.  The intention is to make white's wall useless due to the two marked stones.]
+;W[pq];B[qp];W[qo];B[ro];W[qn];B[rn];W[qm];B[pr];W[or];B[qr]
+;W[nq]LB[kl:A]TR[ko][lo]SQ[jj]C[Normally the marked black stones nullify the effectives of white's thickness.  In this case, it is dangerous, and black may not be able to escape.  If the marked white doesn't exist, black can jump to A, and white's thickness isn't all that useful.]
+))
+(;B[br]))

@@ -1,0 +1,297 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+PB[ives]
+BR[11k]
+PW[rygar]
+WR[11k]
+KM[6.5]
+DT[2004-10-14]
+PC[The Kiseido Go Server (KGS) at http://kgs.kiseido.com/]
+RE[W+3.50]
+TM[300]
+OT[5x60 byo-yomi]
+RU[Japanese]
+
+C[buckyyowza:  comments by Mark Fyffe, all prefixed with "buckyyowza:"  I hope you enjoy my comments and find them to be useful.
+
+ives: thanks again for helping me. I've added a few questions that I still have, mainly about estimating the score. Please take a look at the following moves if you can:
+
+51, 182, 236, 238
+
+buckyyowza: certainly.  I have added additional comments on and/or around these moves.
+
+
+
+
+
+Thank you for reviewing this game.
+
+
+
+I was playing as black and lost by 3.5 points. I chose this game because it illustrates what I'm struggling with recently: during the whole game I thought I saw opportunities to gain an advantage because of weak white groups but every time I failed to either kill them or to create some territory of my own while attacking.
+
+
+
+And more generally: how do I break this 10k barrier I seem to be struggling with? What do I need to study?
+
+
+
+Thanks in advance for your help,
+
+-Ives];B[pd];W[dp]C[ives [11k\]: hi, enjoy the game...];B[pq]
+C[rygar [11k\]: hi have a good game];W[dd];B[fp];W[hq]LB[fn:A]
+[go:B]
+(;B[fn]LB[dn:A][go:A][fq:B]C[buckyyowza: I prefer a play at G5 here instead to keep the white pincer stones separated. see var.]
+
+(;W[dn];B[kq];W[fr];B[eq]LB[jo:B][ip:A]TR[hq][fr]C[B: I wanted to keep W groups separated
+
+buckyyowza: yes.  it is important also to keep the white stones on the lower side weak.  they are small, so do not try to kill them, but also do not lose sente so that you can play at J4 or K5 and keep their influence at a minimum.]
+;W[er];B[dq];W[cq];B[cr];W[cp];B[dr];W[jr]LB[fc:C][jo:B][ip:A]
+C[buckyyowza: play J4 or J5 to minimize white's center influence, see comments on #11.  An attack at D8 is too close without a decent fighting framework, and L2 is far too small for concern right now.  Besides, a block at L2 will just push white out into the center, and with one eye facing black's dragon that would make your opening play in this corner a disaster.  Since white dropped sente so early in the game, black should take advantage and take the fight into a new area (I would aim for approach at F17) as soon as possible.
+
+B: didn't know what to choose here:
+
+  - block at L2
+
+  - attack near D8?
+
+  - run & attack white's group at bottom (what I tried)];B[io]
+LB[jo:A]C[buckyyowza: J5 is slighty off target, because it leaves a cutting point at K4.  I prefer K5 here.]
+;W[go];B[fo];W[fq];B[ep];W[gp];B[gn];W[jq]LB[fc:B][kp:A]C[buckyyowza: actually, it is urgent now to play L4 to prevent white from expanding from this settled group, then the outcome is quite good for black:  the corner split evenly and black is very thick.  Although white's left side group is vulnerable, to tenuki I would prefer an approach at F17.
+
+B: I thought W bottom group was settled now, wasn't too happy with the outcome for B, so shifted attack to white's left group.]
+;B[dk]LB[el:A][em:B]C[buckyyowza: Since black has taken a strategy of thickness, and white will have an easy time saving the left side stones, it seems better to lean into the white group from your existing black stones instead of from a new angle, such as with  E8 or E7.  However, I do not think that attacking this group is the right choice at this stage in the game.]
+;W[cl];B[ck];W[cg]LB[ch:A][dl:B]
+(;B[ch]C[B: this seems too weak? But how to play instead?
+
+buckyyowza: D8 seems a good choice, see var.];W[dh];B[dl];W[cm]
+;B[bh];W[bg];B[gd];W[dc];B[jd];W[md]LB[pf:A][dg:B]TR[gd][jd]
+C[B: can W afford this? how should B react?
+
+buckyyowza: Q14 is always the best response to this approach.  black's stones at K16 and G16 are strong enough to make N16 difficult if it does not get easy access to the corner.  By the way, notice that there is a cutting point at D13 that may become useful for black later on, even more good aji for the marked stones.]
+;B[lc]LB[pf:A]C[buckyyowza:  this is a decidedly bad move:  it is a lower shoulder hit (and therefore very small at this stage of the game), and it also pushes black in the wrong direction.  Again, I would prefer to play at Q14.]
+;W[mc];B[oc];W[ld];B[kc];W[gb];B[hc];W[hb];B[ib];W[kd];B[pg]
+CR[sk][pl][sl][pm][sm][on][pn][qn][rn][sn][no][oo][po][qo][ro]
+[so][np][op][pp][kq][lq][oq][kr][lr][mr][pr][is][js][ks][ls]
+[ms]LB[kp:A]TR[pa][qa][ra][sa][pb][qb][rb][sb][ic][jc][pc][qc]
+[rc][sc][qd][rd][sd][qe][re][se][qf][rf][qi][ri][fj][gj][hj]
+[ij][qj][rj][fk][gk][hk][ik][jk][qk][rk][fl][gl][hl][il][jl]
+[ql][rl][im][jm][qm][rm][qp][rp][sp][qq][rq][sq][qr][rr][sr]
+[qs][rs][ss]SQ[aa][ba][ca][da][ea][ab][bb][cb][ac][bc][cc][ad]
+[bd][cd][ae][be][ce][bm][bn][cn][bo][co][bp][gq][gr][hr][ir]
+[gs][hs]C[This time I was more satisfied about the outcome at the top for black.
+
+buckyyowza:  so long as black plays at L4, he should have no worries in this position.  however, white's dragon that started at N17 will be quite messy to kill.  With a considerable (30+ points) lead on potential space on the board, I would focus now on strengthening the right and lower right portions of the board before encouraging any more battle.
+
+ives: so how would one estimate the score at this point? Where would you put the boundaries of the territories to count? Could you please mark them so I can get a feeling for this? I've tried it in the variation below, but I'm obviously not very good at it :^).
+
+buckyyowza: I do not think much of territories or boundaries until they solidify, such as in the end game. Instead when I "count" the early middle game I give thick areas a loose score based on how strong the influence appears to be in a given area. In this manner, I count 58 points for black (_very_ roughly outlined by the triangle points): 20 in the upper right, 10 on the right side, 12 in the lower right, and 16 in the center. This is based more on gut feel than actualy boundaries, they are more a goal for an area than a perceived means of reaching that goal - A single white stone can dramatically change the nature of an area, effectively "moving" the points somewhere else, however the points will still exist.  Since the black group at top is alive, but in itself small I give it two points - one for each eye. A total of 60 for black.
+
+White has three groups: the two around the lower left are small but alive - worth 6 points each, and the upper left looks to be worth about 17.  A total of 29 points for white (squares).
+
+This is how I determined the advice that L4 was the biggest point on the board:  So long as white stays enclosed the lower side group is worth only 6 points, but if that group expands it could potentially erase black's entire center or right side as well as taking another ten points of the lower side (circles).  If black plays L4 instead of white, the lower right is much stronger and worth 30 points (including circles) now instead of 12.  So white gains 26 points by L4, and black gains 18 making L4 worth 44 points in gote for either player.  With a 30 point spread, 44 makes a gote play worth playing.
+
+This is the most difficult part of the game to count, and how to do so is very much a matter of personal preference and thinking style.  I hope this lengthy explanation helps you understand better how I see this position.]
+
+(;W[po]LB[qk:A][pm:B]C[Surprised that W did not defend M16 group and started to create yet another one. But again I don' think I really succeeded in taking advantage.
+
+buckyyowza: The M16 has six liberties, and is therefore "tactically viable".  White is trying now to build a close base for it to run to.  since the upper left is difficult to reach and white is plainly not seeing the L4 exapansion point from his lower group, this Q5 approach is good sense.]
+
+(;B[qk]LB[pm:A]C[Not happy with this, nor the outcome.
+
+buckyyowza: no, this is too far and too low.  A pincer is certainly the right idea, but I would rather play at Q7. see var.]
+;W[qq]LB[pp:A][qr:B]
+(;B[pp]C[buckyyowza: this is too direct.  I would prefer the joeski play at R2, following up as in the variation.  as black in this position, I would focus as much as possible on keeping anything white gets on the lower right from having a positive influence on the M16 group.]
+;W[qp];B[oo];W[pn];B[np]C[buckyyowza: black is especially vulnerable to an attack from white's lower side group now.]
+;W[qi];B[pi];W[pj];B[qj];W[pk];B[pl];W[ql];B[rl];W[qm];B[ol]
+;W[oi];B[ph];W[nj];B[ri];W[rk];B[rj];W[rm];B[sk]LB[sk:2][ml:A]
+[rm:1]C[buckyyowza: this exchange is very small. consider that white and black are both comfortably settled, so white 1 is only 4 points in gote if ignored.  A better idea might be to strengthen black's P8 stones, such as with a one-space jump to N8]
+;W[on];B[nn];W[nm];B[nl];W[mm];B[mk]LB[ml:A]C[buckyyowza: I would prefer to extend the wall with a stone at N8.  This prevents white from gaining any good aji for the Q10 group in sente.]
+;W[nk];B[ml];W[mn];B[no];W[kp]LB[lo:B][qr:A]C[buckyyowza: now black's lower side group is in trouble, although white is ignoring a weakness at P7 that might be exploited as in the variation.]
+
+(;B[qr];W[rr];B[or];W[mq];B[nq];W[mp]LB[mg:A][li:B]C[Ok, so white managed to take the corner and bottom right. I could barely keep my bottom right group alive. Not good :^(.]
+
+(;B[mg]LB[li:A][om:C][mo:B]C[But at least I can now attack two weak white groups at the same time. Or so I thought...
+
+buckyyowza: good thinking.  I would prefer to start at M11 to steal white eyespace (see var) and also to maintain a moyo in the left center.  Also remember that white has weak points at N5 and P7.  This game has become very difficult to count now, because it is very much a center game.  Although it is difficult and messy, black has got to secure some profit in the center now.]
+;W[ng];B[nh];W[oh];B[og];W[nf];B[ni];W[mj];B[oj];W[lj];B[jf]
+TR[mk][ml][nl][ol][pl]C[buckyyowza: it is much better to finish up with P9, to not let black's stones become disconnected.]
+;W[ok];B[kl];W[lk];B[ll];W[lg];B[lh];W[kg];B[kh];W[mf];B[jg]
+;W[mh];B[mi];W[jh];B[jj];W[ki];B[li];W[ji];B[kj]C[buckyyowza: this is well played by black.  If the game continues in this way, it should not be difficult to win.]
+;W[nb];B[ob];W[of]LB[nc:A][pf:B]
+(;B[nc]LB[pf:A]C[buckyyowza: Q14 is more important.  If white's group manages to live it is important to protect against a big incursion into the right side.  Besides, O17 does not take eye space, so it is a wasted move (see var)]
+;W[lb];B[kb];W[pf];B[qf];W[qe];B[pe];W[qg];B[qh];W[rg];B[qd]
+;W[re];B[rd];W[qb];B[rb];W[ra]LB[sb:B][qc:A]
+(;B[qc]C[buckyyowza: should be T18, see var.];W[sb];B[sd];W[pb]
+;B[pa];W[rc];B[sc];W[od];B[rb];W[oi];B[oh];W[rc]LB[oa:A][rh:B]
+C[buckyyowza: no ko here. see var.]
+(;B[oa];W[nd];B[pc];W[rh];B[oj];W[se];B[qa];W[oe];B[rb];W[rf]
+LB[dg:B][ii:A]C[Ok, so I got one of the groups, but the other one survived and nearly killed my corner group. How could this happen...
+
+buckyyowza: see var on W154; white's ko threat S12 also gained the second eye.  since black did not need to win the ko to save the corner black is at a loss in this area.]
+
+(;B[ii]LB[dg:A]TR[jh][ji][ki]C[Last possibility: looks like I can create a nice mojo in the center.
+
+buckyyowza: good thinking! it is only your tactics that are shortsighted. Now is the ideal time to cut at D13.  Without a place to run to white's stones are dead without a direct attack.]
+;W[ih];B[hh];W[hi];B[ig];W[gi];B[ei];W[di];B[eh];W[ej];B[dj]
+;W[eg];B[ci];W[dg];B[fh];W[fg];B[gh];W[qs]C[buckyyowza: black has secured some of the center toward the left, but white has also erased about 10 points worth above.  Up until this point, you could say that black has kept a comfortable lead, but after this concession the game is becoming quite close: within 10 points now and with much more than that at stake.
+
+ives: more stones on the board seems to be easier to count. I've tried it again (see variation) and I do somehow end up with a 10 point advantage for black. Do you agree with the outlined territories? 
+
+buckyyowza: comments on variation.
+ives: But now I have to learn how to do this in my head :^\]. Any tricks there? Do you simply count all points or do you compare similar sized chunks and count the differences?]
+
+(;B[mr];W[lr];B[ns];W[ls];B[ms];W[ps];B[pr];W[rs];B[os];W[bj]
+;B[bk];W[ah];B[ai];W[al];B[bq];W[bp];B[bl];W[bm];B[ak];W[am]
+;B[aq];W[ap];B[br];W[em]LB[ek:A][fl:B]
+(;B[ek]LB[fl:A]C[buckyyowza: should be at F8. This gives white too much of your moyo.]
+;W[fj];B[fk];W[gl];B[fm];W[fl];B[gk];W[el];B[dm];W[en];B[cn]
+;W[bn];B[hl];W[jn];B[mo];W[lo];B[im];W[in];B[hn];W[ho];B[jm]
+;W[kn];B[om];W[km];B[do];W[co];B[eo];W[ao];B[gm];W[cn]LB[gc:B]
+[gf:A][ag:A][lm:E][pm:D][sm:C][rq:F]C[buckyyowza: White is quite solid in the upper left, and has few points that may be reduced.  Trying to secure much profit in the upper left will be (and is) a failure for black.  With the game this close (a tie now by my count), it is better to take a few points safely than to risk a bold invasion.  Probably the biggest play there is G14, though it is gote and not very exciting. G17 is a sente play, but also not very exciting  More interesting reduction plays are T7, Q7, and M7.  See var for an interesting idea for S3.
+
+ives: it's getting very close indeed (that score tool is easy!). I also get the feeling it's easier to estimate the score as the game progresses. But the result of all this counting is sad: I'm steadily loosing the points I earned during the opening.
+
+buckyyowza: it is only sad in review.  If you count during play, the loss of points can still be prevented.  Unforunately, it is not fair to use the scoring tool during play ;-)
+
+
+Again not good: white lives, reduced my center mojo and created some nice territory at the bottom.
+
+Getting desperate now: how do I reduce that top left white corner???]
+
+(;B[ag];W[af]LB[ec:A][gc:B][bf:A][pm:D][sm:C]TR[bh][ch][ci]
+C[buckyyowza: A good way to reduce may be with this ko (B14). white's play here is a mistake.
+
+ives: apart from the obvious ko threats like the atari at M7 (which in the end don't really gain much points), what would be good reducing moves that act at the same time as a ko threat?
+
+buckyyowza: For black, the ko threatens the C12 stones in two steps.  These stones are worth two points each to white: 1 for the stone, and one for the point of territory.  There are also 7 points at stake for black: 4 territory, 1 dead stone, B14, and the ko stone.  So any sente play that _threatens_ at least 13 points will also doubles as a nice ko threat.  In this light, M7 is quite a nice threat. A few others that come immediately to mind are G17, T7, and Q7.  See continuations on my previous variations for the size of the those threats.
+
+For white, the ko threatens to reduce 7 of territory in sente. This ko is favorable for black because it is a two-step ko for white (but not for black), and because black has many more ko threats.]
+
+(;B[ec];W[eb];B[fb];W[fc];B[db];W[fa];B[cb];W[bc];B[ed];W[fd]
+;B[ee];W[fe];B[de];W[bd];B[ge];W[gf];B[hf];W[ke];B[je];W[ic]
+;B[id];W[ia];B[jb];W[gc];B[hd];W[sm];B[sl];W[si];B[sj];W[ja]
+;B[gg];W[ff];B[ka];W[ha];B[lm];W[ln];B[la];W[mb];B[ro]LB[pm:A]
+C[buckyyowza: when every points counts, as in a close endgame, this is a fatal mistake.  Play at Q7 exploits the same weakness, but without dropping a stone in white territory.]
+;W[qo];B[es];W[fs];B[ds];W[ma];B[jc];W[kf];B[sh];W[sg];B[ah]
+;W[be];B[si];W[mg];B[tt];W[tt]TW[aa][ba][ca][da][ea][ga][ab]
+[bb][cb][db][fb][ac][cc][ec][ad][cd][ed][ae][ce][de][ee][le]
+[me][ne][bf][cf][df][ef][lf][qf][sf][an][qn][rn][sn][bo][io]
+[jo][ko][ro][so][hp][ip][jp][lp][rp][sp][gq][iq][kq][lq][rq]
+[sq][gr][hr][ir][kr][sr][gs][hs][is][js][ks][ss]TB[ra][sa][pb]
+[qb][sb][ic][rc][he][ie][if][hg][ih][jh][bi][fi][gi][hi][ji]
+[ki][oi][qi][aj][bj][cj][ej][fj][gj][hj][ij][lj][mj][nj][pj]
+[hk][ik][jk][kk][lk][nk][ok][pk][rk][il][jl][hm][op][oq][ar]
+[nr][as][bs][cs]C[buckyyowza: Thank you for a chance to look over this exciting game!  Unfortunately, though, I think it was a bit too exciting ;-)  Black made some very large and aggressive opening plays and gave a strong followup through the middle game.  At one point, due to a large center moyo, black had a 30 point lead, but something happened.
+
+Black set out to boldly stake out as much of the board as he could, but in his greed was unable to maintain such a large area.  In fact, judging by your questions, I think that you probably did not realize that this was happening and only felt the game begin to slip away from you.  I think that if black gave less thought to battle, and played a more balanced opening that this game would not have been so volatile and so black would not have had so much trouble keeping his space.  A few well timed cuts (or connections!) early on would have made all the difference in this game.
+
+You ask how to "break through" the 10k barrier. I'd suggest playing some slower games and trying to get in the habit of estimating the score every few moves.  Even gaining a rough estimate should be enough to reveal what areas of the board need the most attention and to help you focus your attack (or defense) on more concrete goals.
+
+Thanks again for this opportunity!  I always enjoy a chance to look over a game, and this one was quite exciting.  Please feel free to contact me if you have any questions.  Either contact me by email or look for 'bucky' on KGS.]
+)
+(;B[bf]
+(;W[ah]
+(;B[sm];W[ag];B[rn];W[ro];B[qn];W[qo];B[pm];W[cj];B[sq];W[rq]
+;B[sp];W[so];B[sr];W[bi];B[aj]C[buckyyowza: white got 5 captures + 3 points + 5 points taken from black = 13 points
+black got 3 captures + 3 points + 10 points taken from white (due to seki) = 16 points]
+)
+(;B[pm];W[cj];B[rp]C[buckyyowza: white loses the entire corner, clearly bigger than the ko.]
+
+(;W[qo];B[rq])
+(;W[rq];B[ro];W[qo];B[rn])
+(;W[ro];B[rq];W[qo];B[sr]))
+(;B[gc];W[ag];B[fb];W[cj];B[db];W[cb];B[ec];W[da];B[eb];W[ed]
+;B[ea];W[ca];B[fd];W[bi];B[aj]C[buckyyowza: white gets 5 captures + 3 points + 5 points taken from black = 13 points
+black gets 2 captures + 7 points + 9 points taken from white (compared to white G17) = 18 points]
+)
+(;B[lm];W[ag];B[ln]
+(;W[cj];B[jp];W[ko];B[lq];W[ip];B[lp];W[jo];B[aj];W[bi];B[kr]
+C[buckyyowza: white gets 5 captures + 3 points + 5 points taken from black = 13 points
+black gets 7 captures + 7 points + 12 points taken from white = 26 points]
+)
+(;W[jo];B[cj]C[buckyyowza: black gets 3 captures + 3 points + 1 point taken from white = 7 points
+white gets 2 captures + 1 point taken from black = 3 points.]
+)))
+(;W[ce];B[be];W[bd];B[ae];W[ad];B[af];W[cf];B[ah])))
+(;B[rq];W[rp];B[sm];W[rn];B[sn];W[so];B[sl]C[buckyyowza: now if white doesn't protect...]
+;W[ag];B[qo]LB[ro:B][sq:A]C[buckyyowza: R5 takes some stones.]
+
+(;W[sq];B[pm]LB[qn:A][ro:B]
+(;W[qn];B[ro];W[sp])
+(;W[ro];B[qn]))
+(;W[ro];B[pm]LB[qn:A][sq:B]
+(;W[qn];B[sq]C[buckyyowza: white cannot push, so it all dies.]
+)
+(;W[sq];B[qn])))
+(;AW[ha][ec][fc][gc][ee][ke][ef][kf][ag][sh][lm][sm][es]AB[ia]
+[ka][ge][je][gf][hg][si][sl][ds]TW[aa][ba][ca][da][ea][fa][ga]
+[ab][bb][cb][db][eb][fb][ac][bc][cc][ad][bd][cd][ae][be][ce]
+[de][le][me][ne][af][bf][cf][df][lf][qf][sf][sg][an][ln][qn]
+[rn][sn][bo][io][jo][ko][qo][ro][so][hp][ip][jp][lp][rp][sp]
+[gq][iq][kq][lq][rq][sq][gr][hr][ir][kr][sr][fs][gs][hs][is]
+[js][ks][ss]TB[ja][ra][sa][jb][pb][qb][sb][ic][jc][rc][hd][id]
+[he][ie][hf][if][ih][jh][bi][fi][gi][hi][ji][ki][oi][qi][aj]
+[bj][cj][ej][fj][gj][hj][ij][lj][mj][nj][pj][sj][hk][ik][jk]
+[kk][lk][nk][ok][pk][rk][il][jl][hm][op][oq][ar][nr][as][bs]
+[cs]))
+(;B[fl];W[el];B[ek];W[fk];B[fm];W[fj];B[gk];W[dm];B[ag];W[af]
+;B[gj];W[cj];B[aj];W[ah];B[bi];W[cj];B[fi];W[ag]))
+(;AW[ha][fb][ec][fc][ee][ke][ef][kf][ag][sh][al][bl][sm][do]
+[jp][lp][aq][bq][iq][lr][es][js][ls]AB[ia][ka][ge][je][gf][gg]
+[ah][si][ak][bk][dm][km][en][kn][ho][jo][ko][mr][ms][ns][os]
+TR[fb][gb][ec][fc][ee][ef][cg][dg][eg][fg][dh][di][dl][dm][km]
+[en][fn][kn][io][jo][ko]TW[aa][ba][ca][da][ea][fa][ga][ab][bb]
+[cb][db][eb][ac][bc][cc][ad][bd][cd][ae][be][ce][de][le][me]
+[ne][af][bf][cf][df][lf][qf][sf][sg][am][bm][an][bn][cn][qn]
+[rn][sn][ao][bo][co][qo][ro][so][ap][bp][rp][sp][gq][kq][lq]
+[rq][sq][gr][hr][ir][kr][sr][fs][gs][hs][is][ks][ss]TB[ja][ra]
+[sa][jb][pb][qb][sb][ic][jc][rc][hd][id][he][ie][hf][if][hg]
+[ih][jh][ai][bi][fi][gi][hi][ji][ki][oi][qi][aj][bj][cj][ej]
+[fj][gj][hj][ij][lj][mj][nj][pj][sj][ek][fk][gk][hk][ik][jk]
+[kk][lk][nk][ok][pk][rk][el][fl][gl][hl][il][jl][em][fm][gm]
+[hm][im][jm][hn][in][jn][op][oq][nr]C[buckyyowza: yes, this is quite close to what I see.  If you put a white stone at Q2 to capture the black stone, the result is B+10.5.  You will want to be a bit less generous in your boundaries, however.  Recall that during the endgame the goal is to use sente to reduce your opponent's territories.  The marked boundaries do not take this into account, but in this position they cancel each other out so this count is still accurate.]
+))
+(;B[dg]LB[df:A][eg:B]
+(;W[df];B[eg];W[ef];B[fg])
+(;W[eg];B[df];W[ef];B[cf];W[ee];B[di];W[eh];B[bf]C[buckyyowza: here white has broken into the center, but has lost as much on the left side.]
+)))
+(;B[rh];W[rb];B[oa];W[nd];B[pc];W[oe];B[qa];W[se];B[sa];W[ke]
+;B[kf];W[lf];B[me];W[je];B[hf];W[jc];B[jb];W[id];B[ic];W[sg]
+;B[rf];W[sf];B[qf]C[buckyyowza: white dies]))
+(;B[sb]LB[pa:B][sd:A]
+(;W[sd];B[pb];W[qc];B[rc]C[buckyyowza: black lives, and white has only one eye.]
+)
+(;W[pa];B[oa];W[pb];B[qc]C[buckyyowza: black gets two eyes here as well.]
+)))
+(;B[pf];W[lb];B[kb];W[nc];B[ma]C[buckyyowza: better for black than the game.]
+))
+(;B[li]LB[mi:B][ok:A]
+(;W[ok];B[ni];W[mi];B[nh];W[mj];B[lj])
+(;W[mi];B[nh];W[ni];B[ok];W[lj];B[mj];W[lh];B[ki];W[mh];B[kh]
+;W[oj];B[kk])))
+(;B[lo];W[mo];B[mp];W[lp];B[om];W[ln];B[ko];W[kn];B[jo];W[mq]
+;B[nq];W[lq];B[km];W[jn];B[jm];W[in];B[im];W[hn];B[ho];W[hm]
+;B[hl];W[gm];B[gl];W[fm];B[em];W[fl];B[fk]))
+(;B[qr];W[qp];B[or];W[qn];B[ol]))
+(;B[pm];W[no]LB[nm:B][nq:A]
+(;B[nq]C[buckyyowza: this is normal...])
+(;B[nm]C[buckyyowza: but I would rather sacrifice some of the lower side to maintain thickness against the N16 stones.  in this position, at least one of white's groups becomes weak and the L4 point becomes less interesting.]
+)))
+(;AW[ha][ec][fc][gc][de][df][ag][dg][al][bl][do][hp][aq][bq]
+[iq][es][js]AB[ia][la][oa][lb][ob][hd][id][pe][pf][qg][rg][sg]
+[ah][ak][bk][pp][qp][rp][sp][lq][mq][nq][oq][kr][ks]TR[oc][pd]
+[pg][kq][pq]TW[aa][ba][ca][da][ea][fa][ga][ab][bb][cb][db][eb]
+[fb][ac][bc][cc][ad][bd][cd][ae][be][ce][af][bf][cf][am][bm]
+[an][bn][cn][ao][bo][co][ap][bp][gq][gr][hr][ir][fs][gs][hs]
+[is]TB[ja][ka][pa][qa][ra][sa][jb][kb][pb][qb][rb][sb][ic][jc]
+[pc][qc][rc][sc][qd][rd][sd][qe][re][se][qf][rf][sf][qq][rq]
+[sq][lr][mr][nr][or][pr][qr][rr][sr][ls][ms][ns][os][ps][qs]
+[rs][ss]C[ives: here's my attempt. I suspect I'm too conservative on the right hand side, but the only stones that are actually there yet are the marked ones.]
+))
+(;B[dl];W[cm];B[kp]C[buckyyowza: now white has three groups, two of which are settled but they are also closed in.  In addition, black's position is very thick.]
+))
+(;W[fq];B[eq];W[ep];B[gq];W[fr]LB[gp:B][gr:A]
+(;B[gr];W[gp];B[fo];W[hr])
+(;B[gp];W[gr])))
+(;B[go];W[fq];B[eq];W[ep];B[gq];W[fr];B[gr]))

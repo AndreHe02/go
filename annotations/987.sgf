@@ -1,0 +1,227 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.13b]
+
+GN[2002-PANDA-NET-2002-07-01PANDA NET INC.]
+EV[2002-PANDA-NET-]
+PB[ Kokko]
+BR[19k]
+PW[ zgrossbart]
+WR[17k]
+KM[0.5]
+DT[2002-07-01]
+RE[W+57.50]
+RU[Japanese]
+
+C[
+Hi, this is your reviewer =).
+
+Overall, I think you played well considering your rank. However, what you should do is to think before each move: how much is this worth, and is there a bigger play on board? On several occasions, you get stuck in a local fight, which has very little value, while there are many bigger points still to be played.  I've tried to point these out in a few occasions.
+
+Your opponent knows some things about shape, and he plays a few quite nice tesuji, which land you in trouble.  Overall, black's shape is better throughout the game than whites, and this is what you should look for. Be careful that you don't build inefficient shapes, or weak groups in the middle (like you did now with the group around C8). Weak groups allow your opponent to attack them.  However, black does not read very well or deeply, and has problems counting liberties, which you do better than him. This allows you to make a big capture after the failed black squeeze.  I might call it even decisive, since it was worth about 20 points. The endgame could've then gone either way.
+
+OK.  I hope this helps.  Thanks for using the Go Teaching Ladder :-).
+
+(I have to say that I wonder about the score: By my count W wins by 27.5 points, but the SGF file lists the score as W+57.5.  Strange.)]
+;B[pd];W[cq];B[pq];W[dc];B[qk];W[po];B[qo]
+(;W[np]LB[qn:A][pp:B]C[I wasn't sure if I should invade more here.  I ended up making a lot of outward influence, but maybe i should have taken the corner.
+
+--   Typical answers are A and B.  If your opponent attaches, you should usually either extend or hane (turn the corner). See variations.
+
+Note that you're not really invading, you're reducing. Had you gone lower, such as R5, that would've been more like invading. Fourth line is typically an influence line, third is territory.
+
+The two white stones are not really connected and they can be cut apart, meaning that one of them (or perhaps both) are going to be weak. As you noticed, your opponent uses this to his advantage.]
+;B[nq];W[mq];B[op];W[no];B[oo]C[And white is cut. You will get influence, but the Q5 stone is rather wasted.]
+;W[on]
+(;B[pn]C[Black could also cut from the other side, which would damage white's position more, but it's more difficult. See variation.]
+;W[pm];B[qn];W[nm]C[Black gets now a very  big corner (perhaps worth 25 points). Your influence is okay, but I think you got the short end of this bargain, though a stronger player would probably disagree - they value influence quite a lot. However, using that kind of thickness is quite difficult. Note how your Q5 stone ends up being useless, you could've gotten the same result by playing directly this far away from the black stones anyway.]
+;B[ol];W[nl]C[I think you should've connected.];B[mr]
+(;W[lq]C[Double-hane at M2 is okay. See variation.]
+(;B[pl]C[Black should cut at P7 instead of falling back.];W[nr]
+LB[nc:C][jd:D][ce:B][de:A][cj:F][dj:E][lo:H][ep:G]C[Small, you should play bigger points, like any of the marked ones. The black corner is big enough. You could also be really solid, and make the center group very strong by playing at H.]
+;B[oq];W[lr];B[or]LB[mc:B][de:A][dp:C]C[It's good fortune for you that your opponent answers your moves. Consider if he had instead played at any of the marked points, and given away the couple of points he gets...
+
+C would reduce your framework quite a lot, but it might be a bit too early to play that.]
+;W[nc]C[Good.];B[pf];W[pb];B[qc];W[jd]LB[lc:A]C[This is okay. Perhaps a bit risky, but okay. White is still invadable at A, for example.]
+;B[cj];W[ep];B[co]LB[cl:B][cm:A]C[This is too greedy for black. You can cut the black stones apart at A or B.]
+
+(;W[de]TR[jd]C[I'm not sure, but this feels a little timid.  I might have wanted to clamp a little and make this move at C12 or D12.
+
+--
+
+If you had clamped, you would only have strengthened black. See variation. This works nicely together with the marked stone, even though the area is still invadable.]
+;B[dg]
+(;W[dm]C[You could still cut at C7, which would be better, since you get to harass two weak groups and build your own strength in mean while. However, if you're planning to build two strong white walls, then this move is okay.]
+;B[cm]LB[dn:A]C[If you're planning to build territory between these two white walls, then you should extend at D6 (a). That would be stronger.]
+;W[cl]C[This is too greedy.  If you're reducing, reduce. If you're invading, invade...]
+;B[dn];W[dk];B[em];W[dl];B[dj]C[Now you suddenly have a very weak white group to worry about. You can probably run to the center, but that only means that black is going to get stronger while chasing you.]
+;W[bm]C[This is the right idea, otherwise black would've connected.]
+;B[dp];W[dq]
+(;B[eq]C[No. Black should connect. See variation.];W[cp];B[do]
+;W[eo];B[en];W[fq];B[ek];W[bo];B[el];W[cn];B[fo];W[fp];B[go]
+TR[nl][nm][on][no][np][lq][mq][lr]C[As you can see, your powerful wall (marked) is being made quite inefficient by the black stones, which are all strongly connected. Black could do this by harrassing your weak white group on the left.]
+;W[hq]C[Here I made territory on the bottom.  i'm not sure if this was too timid.  I have a lot of thickness on the left side, and maybe I should have played against black's group on the left side.
+
+--
+
+You have no thickness on the left side. It's territory (thickness does not face towards the sides, unless it's in the centre). Black has thickness, yes.
+
+Your move at H3 is absolutely necessary, unless you want black invading there and destroying all the territory. Good move (though it could've been one line higher as well.]
+;B[lo]C[Nice eye-stealing tesuji from black. It seems that this guy has been studying =).]
+;W[mp];B[ip];W[iq];B[jp]C[Now black is using his strength to press you down and reduce your territory.]
+;W[jq];B[kp];W[kq]C[Not necessary. It's just worth two points, so you should go elsewhere. Plaing around G7 or O15 would probably be a good idea now.]
+;B[ll]C[This is a good idea by black, since a white move in this area would significantly reduce his center.]
+;W[nf];B[jg];W[gd];B[gp];W[gq];B[mn];W[nn];B[om];W[pi]LB[gg:A]
+C[At this point I couldn't decide if I wanted to push against the stones in the center or invade.  The stones in the center appears to be very weak.
+
+--
+
+Well, it's not that weak, since it can run into two directions. However, your invasion is too easy to cut off - it's too far from neighbouring stones, and not close enough to the side.   Playing at A would probably be a better idea to stop black from playing there and getting the center territory.]
+
+(;B[qi]C[You're lucky black answers this very submissively. See variations for other possible responses. White can live or connect.]
+;W[qh];B[qj];W[pg]C[Luckily, black handles this all wrong and lets you crawl into the woodwork...]
+;B[qb];W[pc];B[qe];W[rg];B[re];W[gg]C[Yes, this is necessary and urgent.]
+;B[ke];W[kd];B[le];W[md];B[ld];W[lc];B[mf];W[me];B[mg];W[ng]
+;B[od];W[ne]C[Connecting your stones is a good idea.];B[nk]
+LB[bf:B][mh:A][fi:C]C[Black is separating two white groups here. This play has no real value, in my opinion. It would be much more urgent to play any of the marked places.
+
+A protects against a white hane (which allows white to crawl in, B will reduce white corner territory (and is territorially big), and C protects the cutting point and at the same time, puts a bit of pressure on the white stone.]
+;W[nj];B[mk];W[mj];B[lj];W[mh];B[lh];W[je];B[jf]C[Oops. Black plays shape, not reading =).]
+;W[lf]LB[bf:B][gi:A][ri:D][ej:C]C[This is a nice double-atari, but it is only worth about four points. You should search for bigger moves, such as the marked ones.]
+;B[lg]C[Interestingly, black saves the smaller group, even though he is in no hurry to save either. It's just a couple of points, and he could save them for later.]
+;W[kf];B[kg];W[fi];B[ce]
+(;W[dd]C[C16 is better. See variation.];B[bd]
+(;W[cd]C[I had no idea what to do here.  I was thinking about B17, but I was afraid of that stone getting cut off.
+
+--
+
+No, the stone cannot be cut off.  See variation.  In fact, attempting to cut it off would be devastating for black.]
+;B[cf];W[df];B[dh];W[bc];B[be];W[ej]C[I was hoping to make a big capture in the middle with this cut.  I got some, but maybe i should have been more agressive.
+
+--
+
+Well, black's middle is quite strong, since all stones are connected to each other. Cutting is a good move, but in this case, you should think more about reducing the opponent's area than killing stones.
+
+You should've cut earlier, before black had the chance to make a living group on the left.]
+;B[bk]
+(;W[ho]LB[fk:A][hp:B]C[Playing at a would be much better. Your stone just gets cut off here.  Pushing at B is better than your move, too, since it leaves a cutting point behind, which has some potential. See variation.]
+;B[fj];W[ei];B[hp];W[fk];B[gj];W[lm]C[This move proved to be a mistake.  i was trying to make the cut on the right side of the middle stones, butI couldn't make it happen.  Is there a way I could have made this cut?
+
+--
+
+In my opinion, not really.  The stones are connected, so killing them is really difficult anyway.]
+;B[mm];W[ml];B[km];W[kl];B[ln];W[gk];B[bl]C[Blacks obvious miscalculation...]
+;W[fn];B[ck];W[cm];B[am];W[bn];B[bp]LB[fm:A]C[Obviously, A would've been correct for black =).]
+;W[fm];B[hk];W[fl]C[i didn't know if I should take here or try to expand more.  I know i could have expanded a little more, but I was worried about losing what i had gained and letting black make more of an invasion along the left side.
+
+--
+
+After that capture, the game is essentially over. Black has very little territory to speak of, white can erode most of it away, and white has both the top and bottom territories.
+
+Let's count: Black has 10 points on the left, 30 on the right, 10 on the top right corner, and perhaps 15 in the center (which is generous, probably even less). Total of 70 points. White has 35 points on the bottom, and about 40 points on the top. He also has 10 more prisoners, so white is leading by at least 20 points now.
+
+I am not going to comment the endgame with much detail, since white keeps the lead and continues to win this game. Both sides come about even in the end.]
+;B[hn];W[hj];B[ij];W[gi];B[ik];W[di];B[ci];W[eg]C[J14 is bigger.]
+;B[hf];W[he];B[hi];W[hh];B[ii];W[ih];B[hg];W[gf];B[eh];W[fg]
+;B[oj];W[oi];B[nh];W[ni];B[mi];W[oh];B[of];W[og];B[oc]LB[pa:A]
+C[A is bigger.];W[ob];B[pa];W[nb];B[cb];W[bb];B[db];W[eb];B[ac]
+;W[ab];B[ad];W[da]C[In my opinion, this was unnecessary. You should take sente now and control the endgame. Playing at S11 is important, but unfortunately your opponent gets there first.]
+;B[ri]C[Sad that black gets this.];W[sf];B[ns];W[fh]C[Small. OK, it's sente, so it's not that bad, but could still play elsewhere. The problem is, black does not want to play F12 at all, simply because then you connect at G12, and then he *has* to answer to that by protecting the cutting point, so if he plays F12, you end in sente.]
+;B[bg];W[an];B[se]
+(;W[ch]LB[hm:A]C[I didn't do this right.  I needed to take the stone at A7 before I made this play.
+
+--
+
+I don't think it would've worked anyway. Black's pretty safe. You could still do a lot of damage in the center, like playing at a.]
+;B[cg];W[bh];B[ah];W[al];B[ak];W[jh];B[ji];W[mh];B[li];W[hm]
+;B[gn];W[gm];B[im];W[pj];B[ok];W[pk]C[Just filling in dame. T12 is bigger.]
+;B[sh];W[qf];B[rf];W[qg];B[sg];W[oe];B[pe];W[oa];B[qa];W[qm]
+C[Unnecessary. All black stones are connected to living groups.]
+;B[ql];W[rm];B[rn];W[kk];B[jl]C[I'm not sure black didn't just connect here.  I was able to pressure him a little bit, but not much came of it.  I don't think I could have done much unless he made a mistake.
+
+--
+
+Yes. You should save plays like these for ko fights.];W[ki]
+;B[kh];W[kj];B[nh];W[ai];B[bi];W[mh];B[le];W[ke];B[nh];W[gh]
+;B[jk];W[ig];B[if];W[ie];B[lk];W[mh];B[jj]C[Unnecessary for black, he is connected anyway.]
+;W[hl];B[io]C[Again, unnecessary for black. He loses one point.]
+;W[gj];B[ls];W[ks];B[ms];W[nh];B[am];B[al])
+(;W[al];B[ak];W[ch];B[cg];W[bh];B[bi];W[ah];B[ai]))
+(;W[hp];B[ho]LB[in:B][io:A]C[Later on, you can cut at A, or peep at B, if the neighbouring stones allow it.]
+))
+(;W[bc]
+(;B[cc];W[cd]
+(;B[cb];W[be]C[double-atari. Something's gotta go.]
+(;B[ac];W[ad]C[Black is destroyed.])
+(;B[ad];W[ac]C[Again, black's stones get captured.]))
+(;B[bb];W[ac];B[ab];W[cb];B[ad];W[cc];B[be];W[cf];B[df];W[bf]
+C[Black's area on the left is destroyed.]))
+(;B[bb]C[This is black's most dangerous move, methinks.];W[ac]
+;B[cc];W[cd];B[cb];W[be]C[But it can be thwarted.])))
+(;W[cd]
+(;B[bd];W[be];B[cf];W[bc]C[Not good for black.])
+(;B[be];W[bd];B[df];W[ee]C[Very calm, both get some profit, but white is better off than what actually happened.]
+)))
+(;B[oi]C[This is a possible response, but I think white can live in this case.]
+;W[oh];B[ph]
+(;W[pg];B[qh];W[oj];B[ni];W[nk];B[pj];W[og];B[qg]C[White invasion gets captured, and black territory solidifed.]
+)
+(;W[oj];B[ni];W[qj]
+(;B[nj];W[qh];B[pg];W[ri];B[rg]
+(;W[rk];B[rl]
+(;W[sj];B[rh]C[White dies.])
+(;W[rh];B[sk]C[White dies again.]))
+(;W[qg];B[qf];W[rh];B[rf];W[rk];B[rl];W[sj];B[sh];W[pj]))
+(;B[qi];W[pj];B[nj];W[qh];B[pg];W[ri])
+(;B[qh];W[nk];B[nj];W[ok];B[pk];W[pj]
+(;B[rj])
+(;B[rk]))))
+(;B[ni];W[oh];B[og];W[ng];B[nh];W[pg];B[of];W[qg]C[White might be able to live this way, too.]
+)
+(;B[oh];W[oi];B[ni];W[nh]
+(;B[nj]
+(;W[ph];B[og])
+(;W[og];B[ph];W[pg];B[qh];W[qg];B[qf]))
+(;B[ph];W[nj];B[mi];W[ok];B[qi];W[pk];B[ql]C[Best I can find for black.]
+)))
+(;B[cn];W[fk];B[fl];W[ek];B[fi]C[Splitting B was a good idea, but W is in trouble here.]
+))
+(;W[cm];B[dm];W[cn];B[dn];W[bo]
+(;B[cp];W[bp];B[do];W[dq]C[White has nice profit.])
+(;B[bp];W[cp];B[do]
+(;W[bq];B[bn];W[ap];B[bm]LB[cl:A]TR[cm][cn]C[Some profit, the white stones are very strong, and the two marked stones still have some life in them. Build up some strength around, then come out at a.]
+)
+(;W[bn]C[This also works nicely.];B[bq];W[br];B[dp];W[dq];B[eq]
+
+(;W[fq];B[er];W[cr];B[fp]C[This is not so good, since the ladder works and black can capture white.]
+)
+(;W[fp]
+(;B[er];W[cr])
+(;B[cr];W[dr]
+(;B[er];W[cs];B[es])
+(;B[ds];W[cs];B[er];W[es];B[fs]))
+(;B[dr];W[cr];B[er];W[ap]))))))
+(;W[ch];B[ej]C[Now black can invade around C14.])
+(;W[cm]C[This is a severe invasion. Whatever happens, you'll lower part of the board will be strong.]
+
+(;B[eo];W[em];B[fp];W[fo]
+(;B[go];W[fn];B[dp];W[eq]C[Black has been cleanly separated into three groups. He can probably get the corner, but you'll profit more.]
+)
+(;B[fn];W[go];B[en];W[ej];B[cg];W[eg]C[Black will probably live on the left side, but you'll end up with a very nice wall.]
+))
+(;B[cg];W[em]C[Black C5 is likely to be captured, and you'll get a nice profit on the lower side. The downside is that black can make a strong attack on your top left corner, but you should be able to survive it. Anyway, the bottom is very big.]
+)))
+(;B[om];W[nn];B[pl]C[Leaves much less bad potential.]))
+(;W[lr];B[lq];W[mp];B[kr];W[nr];B[ls];W[oq];B[pp];W[pr];B[qr]
+C[Oops, there goes the corner.]))
+(;B[nn];W[nm];B[mn]
+(;W[pm];B[mp]C[Ouch...])
+(;W[mp];B[om];W[pn];B[pm]
+(;W[mm];B[qn]C[Black wins this race.])
+(;W[qn]
+(;B[qm];W[rn];B[ro];W[pp];B[oq];W[qp];B[rp];W[rq];B[qq])
+(;B[qp];W[qm];B[ql]
+(;W[ol];B[pl];W[ml]C[Black still winning...])
+(;W[rl];B[rk];W[rm];B[mm];W[nl];B[ok]C[Gets complicated, but black should still be able to catch those white stones before white captures the black ones. Black stones can run a lot farther than the white ones...]
+))))))
+(;W[qn];B[qp];W[pm]C[This is a standard form.])
+(;W[pp];B[qp];W[oq]C[This is known as the "avalanche". It can get really hairy :-).]
+))

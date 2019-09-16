@@ -1,0 +1,85 @@
+(;FF[4]GM[1]SZ[19]AP[SGFC:1.13b]
+
+GN[ttori1-GogogadjetoGo.sgf]
+PB[ttori1]
+PW[GogogadjetoGo]
+KM[5.5]
+DT[2001-04-20]
+PC[MSN Gaming Zone - Lotus Table 7]
+RE[B+27.5]
+US[Zone]
+
+;B[dp];W[pd];B[pp];W[dd];B[jc];W[jq];B[gq];W[nq];B[oq]C[Un peu hatif: Noir renforce Blanc et s'enleve ainsi la possibilite d'un attaque plus severe plus tard]
+;W[np];B[qn];W[cj];B[lq]C[L'invasion Noire est donc un peu abusive]
+
+(;W[ko]TR[jq][np][nq]LB[kp:A][lp:B]C[Blanc joue trop vague: cette pierre n'est connectee a aucune des pierres marquees, il vaut mieux jouer A ou B (voir variations)]
+;B[lo];W[ln];B[mo];W[no];B[mn];W[nn];B[mm]C[Noir est sorti et Blanc a deux groupes faibles]
+;W[lr];B[kp];W[kq];B[jp];W[mq];B[lp];W[iq];B[ip]TR[ko][ln]C[Blanc n'est toujours pas vivant et ses deux pierres marquees sont tres abimees, et Noir a une belle influence.]
+;W[hq];B[hp];W[pr]LB[pj:A]C[Trop petit, trop tot.
+Le groupe Noir n'est pas menace car il peut encore s'etendre sur le bord droit, alors que le groupe Blanc n'est pas encore stable.
+Il vaudrait mieux s'etendre sur le bord droit: c'est gros, ca aide le groube Blanc et ca met un peu de pression sur le groupe Noir.]
+;B[or];W[nr];B[ps];W[ns];B[qr]C[Blanc a enfin un oeil, mais a quel prix...]
+;W[cn]C[Bonne idee, mais avec l'influence Noire une extension plus conservative (deux intersections) serait peut-etre plus raisonnable]
+;B[co]LB[cl:A][dm:B]C[Noir renforce a nouveau Blanc pour rien, pire, il se prive d'une attaque et pousse Blanc vers le centre :(
+Si Noir veut jouer ici, A ou B est meilleur car il utilise son influence.]
+;W[dn];B[gr];W[hr]C[Blanc vit et n'en est pas mecontent alors qu'il reste des faiblesses dans le coin (pour plus tard).]
+;B[qf];W[qj]LB[mc:A][nc:B]TR[jc]C[Direction? Ce coup est peu attrayant maintant que la situation du bord sud est reglee, de plus si la pierre noire sort cette pierre de pince est bien isolee, enfin si Noir plonge au san-san, le mur Blanc se retrouve face a une pierre Noire.
+Il vaut mieux jouer simplement en A ou B car Noir ne peut finir le bord droit en un coup, de plus cela met la pression sur la pierre Noire marquee.]
+
+(;B[pl]C[trop tot?];W[oj];B[nc]C[mauvaise direction];W[pf];B[qe]
+;W[pe];B[qd]
+(;W[qc]C[Il vaut mieux connecter (voir variation)];B[pc];W[oc]
+;B[pb];W[ob];B[qb];W[nd];B[mc];W[ph];B[qg];W[qh]C[Connection!]
+;B[pg];W[og];B[oh]C[La position blanche s'effondre :(
+Blanc se retrouve avec deux groupes faibles, Noir a deux coins surs et une belle influence.]
+;W[ng];B[nh];W[mj];B[mi];W[ni];B[mg];W[oi];B[mh];W[md];B[ld]
+;W[le];B[kd];W[lf];B[mf];W[me];B[of];W[oe];B[nf];W[jf];B[nk]
+;W[ok];B[nl];W[ol];B[om];W[pm];B[qm];W[nm];B[on]C[Capturer est plus simple]
+;W[ml];B[mk];W[lj];B[lk];W[kk];B[ll];W[nj];B[kj];W[ki];B[jj]
+;W[li];B[fc];W[ec]LB[df:A]C[Encore!?! Mais a nouveau c'est un mauvais coup qui renfore idealement Noir et le pousse vers le centre ce qui n'est pas bien pour les deux groupes Blancs qui flottent encore.
+A aurait ete plus simple, meilleur pour le centre et pour le bord Ouest.]
+;B[fd];W[cf]C[Le coin reste ouvert! Et les groupes Blancs instables.]
+;B[ch];W[ej];B[eh];W[ef];B[di];W[dj];B[gh];W[kg]C[Blanc est oblige de revenir, mais il perd son attaque sur Noir.]
+;B[dl]C[Noir profite de son influence, mais des coups autour de G ou H 14 semblent plus gros: ils soulagent le groupe Noir, separent le gros dragon Blanc (qui est toujours borgne) et le coin (ouvert).]
+;W[el];B[bl];W[bn];B[em];W[dm];B[ek];W[fl];B[dk];W[fk];B[bk]
+;W[bj];B[fj];W[ck];B[cl];W[bm];B[fm];W[gj];B[gl];W[fi];B[gk]
+;W[fj];B[fh];W[gf];B[ih];W[ji];B[ij];W[ii];B[hf]C[Noir est gourmand!]
+;W[he];B[ge];W[fe];B[ie]
+(;W[hg];B[hd];W[hh];B[gg];W[ff];B[hi];W[ig];B[hj];W[gi];B[if]
+;W[jh];B[gm]C[Noir reste en avance];W[cc]LB[eb:A]C[A meilleur]
+;B[bo];W[eo];B[ep];W[fo];B[go];W[fp];B[fq]
+(;W[cm]C[inutile voir variation.];B[do];W[en];B[ed];W[de];B[eb]
+;W[db];B[dc];W[lb];B[nb];W[ec];B[pk];W[pj];B[rk];W[qk];B[ql]
+;W[rj];B[rl];W[ea];B[fb];W[je];B[jd];W[na];B[ma];W[oa];B[lc]
+;W[mb];B[kb];W[la];B[ka];W[ma];B[pa];W[od];B[rh];W[ri];B[rg]
+;W[gs];B[fs];W[hs];B[gp];W[sh];B[sg];W[si];B[oo];W[ke];B[dc]
+;W[hk];B[ik];W[ec];B[hl];W[lh];B[fa];W[dc];B[da];W[ca];B[og]
+C[0 point];W[sk];B[sl];W[sj];B[os];W[ea];B[jr];W[kr];B[da];W[rc]
+;B[rb];W[ea];B[fn];W[al];B[da];W[sb];B[rd];W[ea];B[an];W[ak]
+;B[da];W[ra];B[sc];W[ea];B[ao];W[da];B[op];W[ee];TB[ga][ha]
+[ia][ja][qa][ra][sa][gb][hb][ib][jb][sb][gc][hc][ic][kc][qc]
+[rc][gd][id][sd][he][re][se][rf][sf][ng][hk][jk][kk][il][jl]
+[kl][ml][hm][im][jm][km][lm][pm][rm][sm][gn][hn][in][jn][kn]
+[ln][pn][rn][sn][ho][io][jo][ko][po][qo][ro][so][ap][bp][cp]
+[qp][rp][sp][aq][bq][cq][dq][eq][pq][qq][rq][sq][ar][br][cr]
+[dr][er][fr][pr][rr][sr][as][bs][cs][ds][es][qs][rs][ss]TW[aa]
+[ba][ab][bb][cb][ac][bc][ad][bd][cd][ae][be][ce][af][bf][df]
+[kf][ag][bg][cg][dg][eg][fg][gg][jg][ah][bh][ch][dh][eh][fh]
+[gh][ih][kh][ai][bi][ci][di][ei][pi][qi][aj][bk][dk][ek][bl]
+[cl][dl][ir][jr][mr][is][js][ks][ls][ms]N[Final Result]C[Le debut de partie a ete tres defavorable a Blanc qui s'est cree trop de groupes faibles et n'a jamais cherche a construire des territoires; c'est dommage car il s'est pas mal recupere sur la fin...]
+)
+(;W[eb];B[do];W[en];B[gp];W[cm];B[am];W[ak]))
+(;W[gd];B[if]C[On se demande si Blanc n'aurait pas du voir grand (il est en retard) et essayer de tuer tout le groupe Noir...]
+))
+(;W[qg];B[pc];W[qc];B[rc];W[qb]
+(;B[pb];W[rf];B[re];W[se];B[rd];W[rg];B[rb]C[Blanc satisfait et sente]
+)
+(;B[rb];W[oc];B[pb];W[ob];B[qa];W[nd]TR[qg]C[A peu pres comme dans la partie mais avec une pierre en plus!]
+)))
+(;B[of];W[nc];B[oj]C[Et maintenant que va faire Blanc? S'il se contente de gigoter sur le bord droit, l'influence Noire va devenir terrible!]
+))
+(;W[kp];B[lp];W[lo];B[mo];W[mp]LB[mq:A]C[Meme si Blanc a une mauvaise forme, il ne craint plus l'atari en A (si noir n'avait pas renforce Blanc) et peut donc se battre... la suite n'est qu'une variation possible]
+;B[ko];W[ln];B[kq];W[jp];B[jr];W[ir];B[ks];W[iq];B[nr];W[mr]
+;B[or];W[mq];B[lr];W[ms];B[ls];W[is];B[no];W[js])
+(;W[lp];B[kp];W[kq];B[mp];W[lr]C[Blqnc se connecte facilement, le coin Noir reste ouvert]
+))

@@ -1,0 +1,127 @@
+(;FF[4]GM[1]SZ[19]CA[UTF-8]AP[SGFC:1.15]
+
+PB[Gowentgone]
+BR[6k]
+PW[sanada1]
+WR[6k]
+KM[-4.5]
+DT[2007-07-01]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[W+19.50]
+TM[1200]
+OT[1x20 byo-yomi]
+RU[Japanese]
+
+C[Gowentgone [6k\]: hi
+
+hi this is a game i won by 20 points sure but only becuse of my opps mistake otherwise i would have lost big so i would like this game reviewed thanks
+
+z -- hello sanada, I am Bill, "zinger" on internet Go servers.  My commetns are marked with " z -- ".  I will try to give helpful comments.  But remember to check my comments critically.  After all, I am only a weak amatuer - almost certainly, I have made a few mistakes.
+
+z -- I prefer to reference board markings and move numbers in my comments, rather than grid coordinates.  Hopefully, you have a SGF reader which displays these correctly.  I recommed Drago, which I used to make the review.
+
+z -- The theme for this game is: how to use your strong stones to attack.  I think white misused his strong stones in the center (88-94), in the top right (118, 124, 140), and also to a lesser extent in the top left (62, 70).]
+;B[pd];W[dp];B[pq];W[dd];B[qk];W[qo]LB[mp:a]C[good choice?
+
+z -- in this situation, usually white approaches from the other side, around A.  To invite white 6 is part of black's plan.]
+;B[qp]C[what do i do now?
+
+z -- well, this is why white doesn't usually play 6.];W[oo]
+;B[op];W[po];B[rp];W[ro]LB[mo:a][no:b]C[z -- 12 is bad - an endgame move in the opening.  Neither white nor black can gain enough from this point to make it worthwhile for a long time.  Moving out with white A or B would be better.]
+;B[qm];W[ok]LB[om:a][ol:b][mo:c]C[z -- 14 is also bad, leaving too big a gap.  Black could cut through with 15 at A or B, and 14 becomes a useless stone.  Moving out at C still looks better.]
+;B[np];W[pm];B[qi];W[ql];B[rl];W[pl];B[rn];W[sn]C[z -- 22 is bad - another endgame move.  White should be very happy if black connects two live groups on the first line in gote!]
+;B[sp];W[sm];B[so]C[z -- black 23 and 25 are very bad.];W[rk]
+;B[rm];W[qj];B[qg];W[sk];B[sl];W[qn];B[sn];W[dj]C[z -- now white is winning.]
+;B[gq];W[jq]LB[eq:a]C[z -- 36 is too risky.  The stones to the right are black, so who is pincering who?  Just white A is simple and good.  Black cannot make the whole bottom side into territory with one move anyway.]
+;B[lq];W[jo];B[dr];W[fq]LB[cq:a]C[was it the right idea and how do i follow up
+
+z -- I would play 40 at A.  Then the black group would still not have two eyes yet.  Also A is worth quite a few points.  White is ahead, so should keep it simple.]
+;B[fr];W[gp];B[eq];W[fp];B[hq];W[hp];B[cq];W[cp];B[bp];W[bo]
+;B[bq];W[dm]LB[cn:a]C[z -- if you are going to defend, just play A.]
+;B[gc];W[fc]LB[ec:a]C[z -- 54 is bad.  Just A is better.];B[gd]
+;W[gb];B[hb];W[fb];B[ic];W[dg];B[ce]
+(;W[de]LB[cd:a]C[z -- because white is strong in this area, it might be more effective to play 62 at A.]
+;B[cg];W[ch]C[what was the right idea here?
+
+z -- 64 is good.];B[df];W[ef];B[cf];W[bh];B[cd]
+(;W[cb]LB[cc:a]C[z -- I think 70 is bad, white should hane at A instead - see variations.]
+;B[dc];W[cc];B[ee];W[ed];B[eg];W[fe];B[dh]
+(;W[gg]LB[di:a]C[z -- black can capture two stones, so 78 does not really attack.  White should protect with A, which takes territory, and the black group is still not safe.]
+;B[ci];W[di];B[bi];W[bj];B[bg];W[cj];B[ah];W[jj];B[jl]
+(;W[ll]LB[kk:a]C[how do i capture black?
+
+z -- if you want to capture, maybe 88 at A is better, blocking black's escape route.
+
+z -- I think this is a worthwhile strategic point.  Among his surrounding stones, white has two very strong groups, and one solitary, much weaker stone on the center point.  The idea is to help the weakest link, and let the strong stones do their job as they are.  88 is biased toward white's strong group on the right.]
+;B[km];W[mn]LB[lp:a][lo:b]C[z -- black cannot run to the right anyway, there are strong white stones there, so 90 is not needed.  90 at A or B has a better chance to kill.]
+;B[ln];W[lo];B[jk];W[hk]LB[kj:a]C[z -- 94 also reinforces in the wrong direction.  White is already strong that way.  94 at A would be better.]
+;B[kj];W[kk];B[ij];W[ji];B[ik];W[hj];B[ii];W[jh];B[ih];W[jg]
+;B[lm];W[ml];B[ig];W[if];B[jf];W[kf];B[hf];W[je];B[hg];W[he]
+;B[gf];W[ge];B[ff]C[z -- so black lives, but white gets nice thickness facing the top and right, and sente as well.  Now what?  White should want to use his thickness to attack or invade.  But ...]
+;W[of]LB[kc:a]C[z -- ... this 118 is trying to make territory in the center.  This is the wrong way to use thickness.  Instead, attack at A, which captures the black group there.]
+;B[lc];W[jc];B[jb];W[kc];B[kb];W[qc]LB[qf:a]C[z -- white should still be thinking of attacking, say with 124 at A.]
+;B[qd];W[pc];B[oc];W[ob];B[nc];W[nb];B[mb];W[od]LB[rd:a]C[z -- just hane and connect at A is better.  Let black connect in gote, then find a big point.]
+;B[nd];W[oe]C[z -- now black could hane and connect in sente.]
+
+(;B[ld]C[z -- black misses the point.];W[rd];B[qe];W[re];B[rf]
+
+(;W[qh]LB[ri:a]C[z -- 140 at A is better.];B[rh];W[ph];B[rj]
+;W[pk];B[sj];W[pi];B[qk];W[rk];B[sk]C[z -- white can't play here, so 149 is a pass.]
+;W[me];B[hl];W[gl];B[hm];W[gm];B[ei];W[fj];B[ej];W[ek];B[fi]
+;W[gi];B[fk];W[gj];B[dk];W[el];B[fh];W[gh];B[fg];W[hd];B[hc]
+;W[id]LB[jd:a]C[can i kill blacks upper group ? could i do it before?
+
+z -- before 170, black could capture two stones with A.  And even now, I think black is safe.]
+;B[aj]LB[bk:a]C[z -- 171 at A is better endgame.]
+(;W[bk];B[ak];W[al];B[ai];W[bm];B[kp];W[jp];B[ko];W[hn];B[mo]
+;W[no];B[lp];W[mm];B[le];W[lf];B[in];W[io];B[jn];W[ir];B[hr]
+;W[kr];B[lr];W[pg];B[se];W[sc]LB[rc:a][rb:b]C[z -- 196 should be at A, which eliminates the invasion at B.]
+;B[na];W[pa];B[rb]C[what was the right response here?
+
+z -- tenuki.  White is already dead.  Now black is winning.]
+;W[rc];B[qb];W[pb]C[z -- 202 dies in gote.  Black could tenuki, and white would still be dead.]
+
+(;B[ra]C[z -- see variation.];W[sb]C[z -- 204 dies in gote again, and this time black sees it.]
+;B[ep];W[eo];B[ao];W[bn];B[iq];W[sh];B[ri];W[sd];B[sf]LB[qf:a]
+[rg:b]C[z -- 213 is a blunder.  Just A or B instead and white is still dead, so black wins.]
+;W[qf];B[pf];W[pe];B[rg];W[qf]C[z -- now the game is over.  No further comments.
+
+z -- Thanks for the game to review.  I hope my comments were helpful.]
+;B[ne];W[nf];B[md]C[sanada1 [6k\]: im very attacked to my stones
+sanada1 [6k\]: attached];W[bc]C[Gowentgone [6k\]: good];B[bd]
+;W[er];B[dq];W[hs];B[gs];W[is];B[es];W[ip];B[gr];W[ls];B[ms]
+;W[ks];B[mr];W[fn]C[was it needed?];B[mf];W[mg];B[ke];W[jd]
+;B[ga];W[fa];B[ha];W[ad];B[ae];W[ac];B[kl];W[lk];B[an];W[am]
+;B[ap];W[ee];B[qk];W[im];B[il];W[rk];B[cl];W[bl];B[qk];W[mp]
+;B[mq];W[rk];B[jr];W[js];B[qk];W[pj];B[rk];W[kq];B[me];W[tt]
+;B[tt]TW[aa][ba][ca][da][ea][qa][ra][sa][ab][bb][db][eb][qb]
+[rb][dc][ec][pd][qd][ie][qe][jf][pf][kg][lg][ng][og][kh][lh]
+[mh][nh][oh][ki][li][mi][ni][oi][kj][lj][mj][nj][oj][ck][dk]
+[fk][gk][mk][nk][cl][dl][fl][nl][ol][cm][em][fm][nm][om][cn]
+[dn][en][gn][nn][on][pn][co][do][fo][go][ho][jr]TB[ia][ja][ka]
+[la][ib][lb][mc][be][af][bf][ag][dg][sg][bh][ch][eh][sh][si]
+[sm][kn][lo][mp][aq][nq][oq][qq][rq][sq][ar][br][cr][er][nr]
+[or][pr][qr][rr][sr][as][bs][cs][ds][fs][ns][os][ps][qs][rs]
+[ss]C[Gowentgone [6k\]: thx
+sanada1 [6k\]: gl
+sanada1 [6k\]: in future
+Gowentgone [6k\]: cu])
+(;B[bc]C[z -- for example ...];W[ra];B[sb]C[z -- black can put white in atari from the outside, so white is dead.]
+))
+(;W[md];B[mc]
+(;W[ha];B[na];W[pb];B[ia];W[ga];B[la])
+(;W[la];B[ma]
+(;W[ha];B[ia];W[ga];B[ka])
+(;W[ka];B[ia]))))
+(;W[ri]C[z -- this puts black's group on the run, since it cannot make two eyes at the edge.  But black has nowhere to run to  - the center is all white - so black should probably die.]
+))
+(;B[rc];W[rb];B[rd];W[sb]C[z -- else white dies.  Black gets sente.]
+))
+(;W[kk]))
+(;W[di]))
+(;W[cc];B[dc];W[ee]C[z -- white must prevent a double atari.]
+
+(;B[cb];W[bc];B[db];W[bd])
+(;B[bc];W[cb];B[bb];W[db]C[z -- black still must live in gote.]
+;B[md]C[z -- for example ...];W[ae]C[z -- ... black dies.])))
+(;W[cd];B[cg];W[ch];B[df];W[bg]))

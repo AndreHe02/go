@@ -1,0 +1,191 @@
+(;FF[4]GM[1]SZ[19]AP[SGFC:1.15]
+
+PB[Jaydee]
+BR[18k]
+PW[ora]
+WR[18k]
+KM[6.5]
+DT[2006-04-03]
+PC[The Kiseido Go Server (KGS) at http://kgs.kiseido.com/]
+RE[W+30.50]
+TM[1200]
+
+C[Jaydee [18k\]: hi
+Jaydee [18k\]: good game
+
+[JB\] Hello. I did not comment all your variations, but I added some comments to some of them. Anyway, there are some conceptual errors, to understand them is better than trying variations.
+What I noticed through the game is that you need to study shape. I suggest you reading the articles on shape in http://gobase.org/studying/articles/matthews/shape_up/
+Also, some basic proverbs will help: do not do empty triangles, do not use a wall to make territory, and do not play close to thickness.
+Then you have both made several yose mistakes, but you will improve that later.]
+;B[pc]C[ora [18k\]: hi, gg];W[qo]LB[qq:a][pq:b][oq:c][op:d]
+C[This was odd.  I should be able to counter it well (possibly take the corner?), but I don’t know how.  Any move I place in the area just makes it look like a standard corner move, just in the wrong order.
+
+[JB\] Standard answers are "a" through "d". I will follow your variations, which correspond to "b" and "c".]
+
+(;B[dc];W[dq];B[pq];W[qq];B[mq]C[[JB\] More common R2 or Q7. This one looks bad because it allows Q4 and black looks a bit overconcentrated.]
+;W[pp];B[oq];W[op];B[np];W[pr]C[[JB\] I think R2 is better here; if black answers, white can O5 which is big.]
+;B[or];W[qr];B[mn]C[[JB\] Good. You may play O6 also.];W[ce]
+;B[de];W[bc]C[[JB\] Mmmm... The joseki is D14. White is playing low moves everywhere, and helping black to build a wall.]
+;B[cd];W[bd];B[cf];W[be];B[df];W[bf]
+(;B[gd]C[This I like.  I think I have "thickness" and a good chance to get a moyo.
+
+[JB\] G16 looks too close to the wall... K16 would be a better alternative. If then white invades, black just extends an makes big territory on the top right (see var.2)]
+;W[cg];B[dg];W[ch];B[dh];W[ci]
+(;B[jd]C[[JB\] Now it is evident that G16 is in the wrong place. Imagine it at K13 or, even better, at Q15... (Var.3)]
+;W[nc];B[pe];W[kc];B[jc]C[Here I am happy.  I have a group with potenital on the left and a live corner on the right.]
+;W[kd];B[je];W[od];B[pd];W[oe]
+(;B[pf]C[[JB\] Since R5 is low, I would play this one at R13, preventing white R11 followed by Q8. P14 also looks fine.]
+;W[ke]
+(;B[gq]TR[hp][ip][jp][kp][lp][mp][hq][iq][jq][kq][lq][hr][ir]
+[jr][kr][lr]C[This is where it all falls apart.  I want to make a group here with the potential to move into the center.  Was G3 too far from the stones on the left or did I fail to defend properly.  I then to screw this up every time I have something like this.
+
+[JB\] Again, all is a matter of strategy. If you want to make territory there, it may be too far, but if closer then you allow white to make many points on the right.
+It is not easy to claim a big territory, but as a rule do never think it is yours. You have to think how to respond to an invasion and how you will use your responses to build something in other place... not easy! :-)
+See your var.2 for more comments.];W[fq];B[gp];W[fp];B[go];W[jo]
+;B[gm];W[lp]C[It did not look like I had to defend at N4, but I could not read out the alternatives.
+
+[JB\] Yes, N4 is not good. You are strong in both sides, so K7 may be ok. I have checked other sequences and it looks like white cannot live. Always think if there is not a better way than doing an empty triangle; even O5 and M3 are better than N4.]
+
+(;B[mp];W[lo];B[mo]C[[JB\] This is bad; again an empty triangle. Locally it is better O6 or P6, aiming at a big point on the right side.]
+;W[lq]
+(;B[lr];W[kr]
+(;B[jq]C[[JB\] I would save the M2 stone. Don't play it if you are going to leave it... it is not a sacrifice. Play K3 directly.]
+;W[mr];B[nr];W[ls];B[kq];W[jr];B[ir];W[jp];B[iq];W[jm]
+(;B[ln];W[kn];B[kp];W[ko]
+(;B[in]C[This move accomplished nothing.
+
+[JB\] You are right. Looking at your variations:
+var.2: you don't need to run now
+var.3 & 4: you don'n need to live, you still can run later and attacking (eg. E6)
+I would play M9 (or M8), when white runs E6 or even D6 are big (var.5)]
+;W[lm];B[jn];W[im];B[io]C[[JB\] I feel that H6 is better.];W[mm]
+;B[kl]C[[JB\] I don't see this is good; after white L7  it will be sticked to the white wall.]
+;W[km];B[nm];W[nl];B[om]C[[JB\] Now this group looks weak. This is mainly because you played M2 and then allowed white to capture it.]
+
+(;W[jk]C[[JB\] White helps. If white P5 and then P8, black is almost dead (ej var.2)]
+;B[pj];W[kk];B[oo]C[I thought I had to worry more about the group on the right and not the one one the left.
+
+[JB\] You are right.];W[po];B[pn];W[qn];B[qm];W[ol];B[pl];W[fn]
+C[[JB\] I was right with J5. If it were at H6, now black would play F7 keeping white from building a big territory.]
+;B[gn]C[[JB\] Since you had to run with the group on the right, now white could play here insted of you.]
+;W[fm]
+(;B[dl]CR[fl][ek][dj]C[[JB\] You should run out now, your group is having problems to live.
+And this is an invasion *after* white strenghtened with F6-F7... not easy. Remember, to reduce play on the circles (eg E9). If you can leave with G5 group and close the G16 territory (ej G12 and K13) the game is even.
+If you want to invade, probably you may try E5 (white F5) before playing D7 or D8.
+
+So far, remember a couple of key moves:
+- M2 and not defending at N2
+- J6 lost one time
+- White could play F6 and F7];W[dn];B[cn];W[co];B[cm];W[di]
+
+(;B[fl]C[[JB\] You should not allow white to play G8...];W[gl]
+
+(;B[em]C[[JB\] ...and now you should run, see var.2];W[en];B[ck]
+;W[hl]C[Still thought I could make life.
+
+[JB\] White J4 kills the group.]
+(;B[fk];W[ip]C[I see many ways to die here and no way to live now, but I did not see that in the game.]
+
+(;B[hp];W[gr];B[hr];W[fr];B[hn];W[fi]C[[JB\] This should have been *your* point.]
+;B[fo];W[eo];B[dm];W[do];B[js];W[ks];B[jg]C[So now I know it is dead and I just try to play aggressively.]
+;W[eh];B[eg];W[fg];B[ff];W[gg];B[gf];W[hg];B[hf];W[ig];B[if]
+;W[jh];B[kg];W[kf];B[jf];W[gk];B[ej];W[fj];B[ei];W[fh];B[ek]
+;W[bj];B[bk];W[bn];B[bm];W[an];B[am];W[bo];B[ph];W[qk];B[pk]
+C[[JB Since you live with O6, you should play R10. When white cuts, just play O6; if white O6, play Q9.]
+;W[qi];B[qj]C[[JB\] Again, R12 is bigger.];W[pi];B[oi];W[ni]
+;B[ri];W[oh];B[qh]C[[JB\] good anyway, thoug the white territory in the center makes him happy to give those stones.]
+;W[oj];B[og];W[pi];B[ng];W[ok];B[qi];W[kh];B[nh]
+(;W[mh];B[lg];W[lh];B[oi];W[mj]
+(;B[ns]C[[JB\] I would attack at N15 now.];W[lr]C[[JB\] White did not need to connect now... He should play N14.]
+;B[me];W[md];B[ob];W[mg];B[mf]
+(;W[le];B[nb]C[Now it is time for white to lose a group.
+
+[JB\] Just because he connected at M2... It is better to not answer automatically.]
+;W[nf];B[lf];W[mb];B[kb]
+(;W[lb];B[lc];W[mc];B[ld];W[rm]
+(;B[ql]C[[JB\] S8 better.];W[rl];B[rk];W[sl];B[sk];W[rn];B[cb]
+;W[cc];B[dd];W[bb];B[ca];W[ba];B[eb];W[aj];B[ak];W[cj];B[dj]
+;W[ps]
+(;B[rp];W[qp];B[os];W[nn]C[This was good for white, I did not see it.  Is there anyway I can learn to see these better?   Is there a way out now?
+
+[JB\] White played here because you played P1. Otherwise he couldn't do this. P1 is nonsense because white is alive in the corner.
+Regarding seen this... it is just a matter of practice. But always double check when you have false eyes: "what will happen if the group is put in atari? how many liberties are left when I connect?"]
+
+(;B[so];W[ms];B[no];W[nq];B[on];W[tt];B[tt]C[Jaydee [18k\]: thanks
+ora [18k\]: thx])
+(;B[no])
+(;B[nq]))
+(;B[nn]))
+(;B[rl];W[rn];B[cb];W[rk];B[ql];W[sl];B[rj];W[sk];B[sm];W[sn]
+;B[sj];W[sm];B[bb]C[[JB\] Much bigger.]))
+(;W[lc];B[lb];W[ne];B[oc])
+(;W[ne];B[lc];W[ld];B[lb]))
+(;W[nb];B[kb];W[lb];B[ka];W[la];B[ib];W[mc]))
+(;B[me]C[[JB\] Probably white can live, but it will be not easy...]
+;W[md];B[ob];W[nb];B[jb];W[kb];B[ne];W[mf];B[lf];W[le];B[mb]
+;W[nf];B[mg];W[of];B[lb]))
+(;W[oi];B[mi];W[ml];B[me];W[md]))
+(;B[fr];W[er];B[fs];W[es];B[hr];W[hp];B[ho]
+(;W[hq];B[hm])
+(;W[hm]
+(;B[hq];W[gs];B[gr])
+(;B[gs];W[hq])))
+(;B[gr];W[fr];B[hp];W[hn];B[ho];W[hm];B[hr];W[is]))
+(;B[ip];W[hn]
+(;B[ho]C[[JB\] ? Black should play H7];W[hq];B[fr];W[hr];B[hs]
+;W[er];B[gr])
+(;B[hm];W[gr];B[ho];W[hr];B[hq])))
+(;B[hl];W[gk];B[hm];W[hk];B[fr];W[er];B[gr]C[[JB\] Black lives, and J8 may cause some problems to white later.]
+))
+(;B[hm];W[fl]))
+(;B[gk]C[If I try to run, I hand them a huge left side.]))
+(;W[oo];B[nn];W[ol];B[qm];W[pl];B[pm];W[ql];B[rn];W[rl];B[rp]
+;W[ro];B[so];W[qp];B[ns];W[rq];B[sp];W[sq];B[sn];W[rs]))
+(;B[gk]C[Run?])
+(;B[ip]C[Try to live?];W[io];B[ho])
+(;B[fr];W[er];B[fs];W[es];B[hr]C[Alive, but small.])
+(;B[lk];W[ll];B[lm];W[kl];B[ml];W[ik];B[gk];W[ii];B[dn]))
+(;B[jk];W[lm]))
+(;B[mr];W[iq]C[Ugh.]))
+(;B[jq];W[mr];B[nr];W[lr];B[km];W[iq];B[ip]))
+(;B[jm];W[ln];B[lm];W[kq];B[kn];W[lo];B[lr];W[lq];B[kr];W[mp]
+
+(;B[mr];W[no];B[nq])
+(;B[no];W[mr];B[nq]
+(;W[ls];B[ks])
+(;W[ks];B[ms])))
+(;B[lq];W[ln];B[lm];W[lo]))
+(;B[hq]C[These move seem to work out well for me, but there are so many options.]
+;W[jq];B[ho]C[Better I guess, but it feels like I am just asking white to make a huge left side]
+;W[fq];B[hr];W[fo]
+(;B[gm]CR[em][dk][fn][el][dj]C[[JB\] Something to say about invasions and reductions... You could invade, but if you are afraid and just want to reduce, I use my rule "play close to the mid of the limit".
+White's limit is marked with circles. If you play E8 for example you can easily run out, and if white does not play properly from there you can enter deeper.
+Just be careful that when white pushes your stone he may reduce your top.
+See Var.2];W[fm];B[dk];W[di];B[fk];W[gl];B[fl];W[gn];B[hm];W[hn]
+;B[in];W[em]
+(;B[hk];W[hl];B[im];W[il];B[jl])
+(;B[hl]))
+(;B[el];W[gm];B[ej];W[ei];B[di];W[dj];B[dk];W[cj]C[[JB\] Then you may play F10, F11 or, if in the mood, C6 or something like that.]
+)))
+(;B[of]C[[JB\] Hypotetic play follows...];W[pf];B[qf];W[pg]
+;B[qg];W[ph];B[nf];W[me];B[mg];W[mf];B[nh];W[lg];B[lh];W[kg]
+;B[oi];W[pi];B[ok];W[qk];B[kf];W[lf];B[jg]))
+(;B[kd]C[Probably should have been here.])
+(;AB[jd]AE[gd];B[pe]C[[JB\] Black is very happy here... he will make big points either at G16 or at N16 (if white invades one side just make him run and consolidate the other side), plus the corner...]
+))
+(;B[jd]C[[JB} Let's try this one, though Q15 may be even better...]
+;W[gd];B[jf];W[gf];B[pf]C[[JB\] This is the strategy I would try, though the exact points may change. There is a proberv: "use a wall to attack, not to make territory".
+You have a wall at D15; use it to push your opponent while you make points at the other side. You build big influence while white plays neutral points.
+And D14 is not in danger... If white C13, black pushes D13 etc and G14 is worst.]
+))
+(;B[pq]LB[op:a][np:b][nq:c][mp:d][mq:e][lq:f][qk:g][qj:h][qi:i]
+C[[JB\] There are many joseki here, ranging from pincers ("a" thru "f") to extensions ("g" to "i").
+I think that now white R3 is too low, but I found several pro games with that move. It depends on the surroundings.]
+;W[qq]C[[JB\] In most cases black plays R2, and then there are many choices.]
+)
+(;B[oq]C[[JB\] White can play tenuki now.];W[pq];B[pp];W[qp]
+;B[pr];W[qq]TR[gq][ho][hn][hm][hl][ik][ij]CR[np][mn]C[[JB\] There is a pro game with this pattern; now black played O4. The idea here was to give Q4 and play N6 later; the Q2-P3-O4-N6 line combined vey well with a wall in the H and J columns... But those stones are not there now.]
+;B[qr];W[rr]C[White gets the corner and I have issues.
+
+[JB\] you may play S1 then O4, but as I said before you need a reason to play this sequence in the first place. If you wanted to play P3, then you better play P4 instead of Q4.]
+))

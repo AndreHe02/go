@@ -1,0 +1,149 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.13b]
+
+GN[BRYAN-~2]
+EV[go19.rt.2003.7.11]
+PB[Adam Buczynski]
+PW[Bryan Rankin]
+KM[0]
+RE[B+9.00]
+RU[Japanese]
+SO[http://www.littlegolem.com]
+
+C[Bryan:
+This is one of my first games against a human on a 19x19 board. 
+Previously all my experiece was against igowin.exe, 9x9.  The game was
+played via a webpage and took 28 days to finish.  I concentrated on
+building territory, while black shut me out from the center completely.]
+;B[dp]C[My name is Ted Schuerzinger, and I'll be reviewing your game.  The rest of my comments will be preceded by my name.]
+;W[pq];B[qo];W[qp];B[po];W[qc]C[Ted:
+I wouldn't play away from the bottom right-hand corner yet.  I think
+it's better to play around O4, and let Black get a stable position by
+playing something like R9, before going to another corner of the board.
+
+Also,
+playing on the 3-3 point is very much aimed at taking territory in the
+corner.  This makes it much easier for Black to get control of the
+center.  (3-3 works in 9x9 go simply because there's almost no
+territory in the center to take, so you *have* to go for the corners.)]
+;B[pd];W[pc]TR[pd][qd][po][qo]C[Ted:
+I think R16 would be better here.  This move allows Black to get
+parallel walls, which work better than perpendicular walls.]
+;B[qe];W[dc];B[oq]C[Ted:
+This is why I think you should have played in the O4 area instead of
+R17.  Now you're going to get sealed into the corner.];W[or]
+;B[pp]
+(;W[qq]C[Bryan: perhaps playing on the second line here is better.
+
+Ted:
+I don't think so.  You have to stop Black from playing the double atari
+at R3, *and* make certain you can get two eyes.  Other moves allow
+Black to atari either the Q3 or R4 stones.  See some variations.]
+;B[nq];W[od];B[oe];W[nd];B[pj];W[dj]C[Ted:
+I think it would have been better for you to have approached the Black
+corner stone by playing either C6 or F3.];B[cl];W[ck];B[dl]
+;W[dq]C[Bryan: I realize now that this is not the best way to attack this stone.  Perhaps playing at F3?
+
+Ted:
+F3 is a reasonable choice, although it proabaly should have come before
+you played at D10.  You might want to look at C3 here, too.]
+;B[cq];W[eq];B[df];W[jq]TR[dq][eq]C[Ted:
+I think this would have been better played around H3, making it more
+difficult for Black to attack the two stones on the left.];B[jd]
+;W[ce];B[hq];W[lq]C[Bryan: Perhaps I should have attacked his stone at H3 instead of playing here.
+
+Ted: I don't think you have any really good choices here, but I'd look at either E4 or K5.]
+;B[fp];W[kc];B[jc];W[ld];B[fc];W[dg];B[de];W[cf];B[eg];W[cr]
+;B[bq];W[gr];B[le];W[mo]C[Bryan:
+I realize that I'm pretty well pressed to the side here, and so begin
+to reach for the middle and try to carve out some territory.]
+;B[nn];W[io];B[gn];W[dd];B[ed]
+(;W[im];B[ej]C[Bryan: I think I needed to jump here before he got this stone down.
+
+Ted:
+Perhaps.  The problem is that Black still has the cut at C13 to
+exploit.  It might have been better to play E14 instead of J7 on your
+last move.  See the variation.];W[mn];B[mm];W[ne];B[of];W[lm]
+;B[ml];W[me]TR[nd][me][ne]C[Ted:
+There's a proverb that says, "The empty triangle is bad".  In this case
+the empty triangle refers to the marked stones which surround the empty
+point at N16.];B[lf];W[ll];B[lk];W[np];B[op];W[qd];B[pe];W[qj]
+;B[qi];W[qk];B[pk];W[ri];B[no];W[mp];B[ik];W[qm];B[pm]
+(;W[rn]C[Ted:
+I think this move is a mistake.  S5 is better because it helps save the
+group in the bottom right, and shouldn't keep you from getting two eyes
+with the group above it.];B[ro];W[so];B[qn];W[sm]
+(;B[kd]C[Ted: I think Black should have played at T4 here and given you a chance to make a mistake in the bottom right.]
+;W[kb];B[ig];W[gq];B[gp];W[hp];B[ho];W[ip];B[hm];W[pi];B[qh]
+;W[ep];B[eo];W[bl];B[bm];W[bj];B[dk];W[am];B[an];W[al];B[cn]
+;W[re];B[rf];W[sd];B[rh];W[sj];B[di];W[bi];B[cj];W[bk];B[cg]
+;W[bg];B[ch];W[bh];B[ci];W[mc];B[il];W[jm];B[kl];W[rp];B[ql]
+;W[rl];B[rm];W[cp];B[do];W[qm];B[rk];W[pl];B[ol];W[bp];B[ap]
+;W[ql];B[oj];W[nr];B[mq];W[lr];B[km];W[ln];B[kn];W[lp];B[jo]
+;W[in];B[kp];W[kq];B[jb];W[nf];B[ng];W[br];B[aq];W[mr];B[db]
+;W[om];B[nm]
+(;W[ec]C[Bryan: I believe that not playing at q6 here hurt me.
+
+Ted: The thing with capturing at Q6 is that you can't immediately play at P6 -- you will be putting your own stones in atari.
+
+I've included a bunch of variations, and don't think White can get anything out of them.]
+;B[fe];W[cb];B[eb];W[cc];B[on];W[ja];B[ia];W[ka];B[hb];W[mg]
+;B[mf];W[og];B[pg];W[nh];B[oh];W[sg]C[Bryan:
+I thought about this move for a long time.  It seemed I was hopelessly
+behind, and I decided to try to capture the stones in the upper right. 
+I figured it would require playing here at T13, at R14, and connecting
+the stone at P11 to the stone at O12.  I have some powerful Ko threats
+in the lower left, but the plan proved to be too ambitious.
+
+Ted:
+I think simply filling in at O13 would have been better.  You have a
+reasonable chance to reduce Black quite a bit in the center, although I
+don't know if it's enough to win.];B[sh];W[oi];B[ng];W[ar];B[ao]
+;W[og];B[lc];W[lb];B[ng];W[bo];B[bn];W[og];B[ph];W[ni];B[ng]
+;W[nj];B[ok];W[og];B[sp];W[sq];B[ng]
+(;W[fb]C[Ted:
+I think you may still have another ko threat at T14.  I've added a few
+variations, but they're unclear.  I suppose it might be worth it to try
+T14 instead of giving up with F18.];B[og];W[gc];B[fd];W[gb]
+;B[hd];W[sf];B[rg];W[qf];B[se];W[sf];B[mh]C[Bryan: My plan failed, as I needed the N13 and o11 groups to live.  I prod around for a bit, then eventually resign.]
+;W[mi];B[lh];W[gd];B[ge];W[hc];B[ic];W[ea];B[jl];W[fq];B[hn]
+;W[si];B[sk];W[rj];B[ha];W[ke];B[je];W[kf];B[lg];W[lj];B[li]
+;W[kj];B[mk];W[mj];B[ji])
+(;W[sf]
+(;B[rg];W[qf];B[se];W[sf];B[mh];W[og])
+(;B[og];W[mh];B[rg];W[qf];B[se];W[sf])))
+(;W[pn];B[oo]
+(;W[mk];B[mj]
+(;W[nk];B[nj];W[kk];B[lj];W[jl];B[jk]C[Ted: Black wins the ladder.]
+)
+(;W[kk]
+(;B[nk];W[lj];B[mk];W[jl];B[jk];W[kj]C[Ted: I can't see White getting two eyes here.]
+)
+(;B[lj]
+(;W[jl];B[jk]C[Ted: Black wins the ladder.])
+(;W[nk];B[ok];W[jk];B[jl]))))
+(;W[nk]
+(;B[mk]
+(;W[ok];B[nl];W[nj];B[oi];W[ph];B[ni]C[Ted: Black wins the ladder.]
+)
+(;W[nl];B[ok];W[nj];B[oi];W[ni];B[ph];W[kk];B[kj];W[jk];B[jl]
+C[Ted: Black wins the ladder.]))
+(;B[ok];W[mk];B[nl]
+(;W[lj];B[kk];W[mi];B[oi])
+(;W[kk];B[lj];W[jl];B[jk]C[Ted: Black wins the ladder.])))
+(;W[kk]
+(;B[mk];W[jl];B[jk];W[kj])
+(;B[kj];W[lj]
+(;B[jk];W[mk];B[kk];W[nk])
+(;B[mk];W[jk];B[jl];W[jj];B[ki]C[Ted: Again, I can't see White getting two eyes in the center.]
+)))))
+(;B[sp];W[rp];B[sn];W[sq];B[rm];W[rl];B[ql];W[rk];B[so];W[rr]
+;B[sj]C[Ted:
+I think both groups are alive here, but if Black plays this way, there
+are a lot more chances for White to make a big mistake than there are
+for Black.]))
+(;W[ro];B[rn];W[rp];B[rm];W[rl];B[qn];W[qh]))
+(;W[ef];B[ee];W[eh]
+(;B[dh];W[fg];B[cg];W[eg];B[ch];W[di])
+(;B[fg];W[dh])))
+(;W[rp];B[pr];W[qq];B[nr];W[qr];B[ps];W[sr])
+(;W[qr];B[rp];W[qq];B[rq];W[rr]))

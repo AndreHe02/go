@@ -1,0 +1,156 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+PB[KHound]
+BR[28k]
+PW[shalety]
+WR[28k]
+KM[6.5]
+DT[2004-09-03]
+PC[IGS-PandaNet]
+RE[B+83.50]
+RU[Japanese]
+
+C[Hi!  I'm mwigdahl on KGS, and I'm somewhere in the 12k range right now.  I'll summarize the game as I see it up front here and give specific comments and variations as we come to them in the file.
+
+*****
+
+The major problem for white in this game was wasted moves.  Many times white had a black group surrounded so that it could not win a capturing race, but instead of playing elsewhere to gain more territory and/or attack another group, white continued to play stones to actually capture and remove the black stones from the board.  Sometimes you have to do this, particularly if the opponent tries to save the group.  But to move like this when it is not required is giving your opponent several free moves to do whatever he wants to do, which is absolutely devastating.  It's like giving the opponent a free handicap stone every time you do this.
+
+Both players missed opportunities to profit, but at this strength level that is expected.  Black played aggressively, cutting and playing contact moves.  In my opinion, black was a bit too aggressive at times, as there were several opportunities for white to devastate the weaker black formations before they could establish themselves.  Black wasted fewer moves but needs to learn to safeguard his groups before moving on to attack elsewhere or he will suffer large group losses against stronger players and have a difficult time making live groups.
+
+White played a more defensive game and seemed to be reasonably good at making living shapes.  The exchange in the lower left corner worked out particularly well.  White needs to avoid wasting moves and learn to take sente (initiative) and use it to make territory by attacking.
+
+Both players need to learn when to tenuki.  To tenuki means to play elsewhere, leaving the area the opponent played in to try to gain more profit elsewhere.  This will come from experience, but one sure sign of inexperienced players is a nice opening followed by a single running battle that spreads out over the whole board.  Usually there is a time to cut your losses and try to profit elsewhere, but until your skills in recognizing live and dead shapes and estimating score improve this will be difficult.
+
+I strongly recommend study of a book like _In the Beginning_, of the Elementary Go series.  This book will help you see how to play in the opening for maximum potential score without being drawn in to a big running battle.  I also recommend general problem books like _Graded Go Problems for Beginners_ and the website goproblems.org, which will give you lots of practice in recognizing safe and unsafe groups, solid and breakable connections, dead shapes, etc.
+
+On to the game!];B[dp];W[pd];B[pp];W[dd];B[jq]C[KHound: Hello.]
+;W[jc];B[qk];W[cj];B[ck]LB[cl:A]C[Black plays contact.  This is generally a bad idea as it will usually strengthen both sides and white has more territory to protect here.  'A' would probably have been better here, or an extension up the right side.]
+;W[dk];B[dl];W[ek];B[dj];W[di]C[White catches black in a ladder.  Looks very good for white so far.]
+;B[ej];W[fj];B[ci];W[ei]C[White correctly captures.];B[bj];W[dj]
+;B[ch]
+(;W[dh]LB[bk:A]TR[di][ei]C[White has one eye already and an almost certain escape route to the top or center, so rather than settle for crawling on the fourth line like this (and making an empty triangle to boot [see marks\]) I'd split black's groups with A.  See variations from previous move for some example continuations.  Note that black gets split in all of them and has to make two groups live while white has one strong group.]
+;B[cg]LB[bk:A]C[Black should protect against the cut at A, although he's looking in better shape to live if white cuts now.]
+;W[df]LB[bk:A]C[White is trading the corner and side for the center.  This is generally not good.  It is most efficient to enclose territory in the corner, then the sides, then the center.  Either the cut at A or an extension on the left side would be bigger than this move.]
+;B[cf];W[ce]C[Good block, at least white is contesting the corner.]
+;B[dg];W[eg];B[ef]C[Black evidently trying to break through.]
+;W[de];B[ee]LB[fg:A]C[A might have been better first.];W[ed]
+;B[fg];W[eh];B[fe];W[gf];B[fd];W[fc];B[gc];W[eb]LB[fb:A]C[A is better, as black will go here if white doesn't.]
+;B[fb];W[ec];B[be];W[bd];B[ga]LB[gd:A]C[Black is really disconnected here and white has several opportunities to profit.  I'd probably try A, as I can threaten not only to kill the black cutting stones in the center, but also the three stones at the top.  Check the following variations...]
+
+(;W[cc];B[ea];W[da];B[fa]LB[gd:A][bk:B]C[White is now alive in the corner barring a large blunder, and black is still very vulnerable to the cuts at A and B.]
+;W[db];B[jb]LB[gd:A]C[Black likely sees his vulnerability at the top and is trying to get away.  A is still strong, though.  See variations for some possible continuations...]
+
+(;W[ib]C[
+Not a good move.  Doesn't do much against the big groups to the left, and doesn't really even guarantee anything against the k18 stone.
+
+
+*******
+KHound: How long have you been playing go.];B[kb];W[kc];B[lb]
+;W[mc];B[ic]C[Although black probably cannot live by crawling, he gained enough strength to be able to cut white and probably live in the process.  See variation for a good response by white.
+
+***
+KHound: What do you mean?]
+(;W[id]C[White chose to atari at j16, I would have chosen h17.  See previous move variation.]
+;B[hc];W[gd];B[ge];W[hd];B[he]LB[hb:A]C[Big mistake for Black, that White unfortunately doesn't pick up on.  A kills, which would be huge for White at this point.]
+;W[if]C[Unfortunately, White doesn't see it.
+
+***
+KHound: You said what happened. I was wondering what you ment.]
+;B[ie];W[jd];B[je];W[ke]C[KHound: Just wondering.];B[lc];W[kd]
+LB[hb:A]C[White is on the run now.  black should be able to free a group, but the potential kill for white is still there at A.]
+;B[jf]C[Not sure why black did this, unless he sees the h18 move and wants to make sure he can save his center group.]
+;W[ld];B[hb]C[Black finally defends against disaster.];W[ia]
+C[Wasted move.  No way to kill black now after h18.];B[lf]C[Black takes advantage to try to push farther ahead.]
+;W[kf];B[kg]C[Black traps white.  If white doesn't connect out, black can kill.  If he _does_ connect out, black can escape.]
+;W[lg]C[White doesn't see the trap, and loses his group.];B[md]
+C[Undo: M15
+KHound: That won't do anything.];W[bk]C[Finally we see the cut.]
+;B[cl];W[bi];B[bh];W[aj]C[Good.  White has isolated black and killed the group, barring major blunders.]
+;B[ah];W[ae];B[bf];W[af]C[Unnecessary.  Black group was already hopeless.]
+;B[ai]C[Likewise useless.  Just gets white stabilized.];W[bj]
+;B[bl];W[bg]C[Wasted move.  No need to kill this dead group.  Doesn't help anything.]
+;B[gg]LB[nc:A][fm:B]C[Unsure what the point of this was.  There are much, much bigger points on the board than this.
+
+In particular, A and B are very big and the whole right side is very big.]
+;W[ag]C[Several wasted moves here.  White throws away the initiative several times in a row with needless captures.]
+;B[ig];W[kh];B[jg];W[nf]LB[qg:A]TR[jc][kc][gd][hd][id][jd][kd]
+[ld][ke][kf]C[I would have played an extension down the right side instead of here.  The marked white group is totally dead, and o14 just doesn't do much for white either tactically or territorially.  A move at R13 or so would at least grab some territory and block black's extension.]
+;B[lh];W[mg];B[ki];W[mh];B[li];W[mj];B[mi];W[ni];B[gj];W[gi]
+;B[hi];W[gh];B[hh];W[fh]C[Why did white play here?  It threatened nothing and only gained one point!  There are much, much more worthwhile places to play.]
+;B[og];W[ng];B[oh];W[nh];B[qc]C[Black shoots for the corner.  Good move, as giving white external thickness now doesn't give up much.]
+;W[pc];B[pb];W[ob];B[nc];W[qb];B[qd];W[rc]LB[qe:A]C[Why?  A seems much better to keep black from scooting down the side.]
+;B[qe];W[pe];B[of];W[qf];B[nj];W[oi];B[oj];W[pi];B[pj];W[oe]
+C[Black is dead; this is the famous "crane's nest" tesuji.  See variation starting on next move.]
+;B[qg]
+(;W[pf];B[pg];W[re];B[ne];W[rd]C[Again, black was dead.  Why give up a free move to black just to kill it?]
+;B[qi]C[Now white is dead down here?  This trade was not worth it.]
+;W[qh];B[rg];W[me];B[nd];W[ri];B[qj];W[mf]LB[le:A]C[Even if White could get Black to ignore this move, it still wouldn't work.  White will have only one eye if he captures at A, and still can't get free.]
+;B[le];W[ph]C[Hopeless.  Wasted move.];B[rh]C[At this point black is overwhelmingly dominant.]
+;W[pa]C[Another wasted move.  There was no possible way for that black stone to escape.]
+;B[nb]LB[gk:C][fm:D][cq:B][qq:A]C[Not much better.  Why waste time in low-value areas when you could cement a corner with A or B, or solidify a moyo (potential territory) with C or D?]
+;W[na];B[ma];W[oa];B[oc];W[od];B[rf];W[sf];B[sg];W[se];B[mk]
+C[This is less of a wasted move than the others, but the corners would probably be better for black.]
+;W[gk]C[This is why I pointed out g9 earlier.  If black had played there it would have stopped this approach.  As it is, white will be able to push deeply into the black moyo.]
+;B[hj];W[hk];B[ik];W[hl];B[fm];W[fl];B[hm];W[el];B[em];W[il]
+;B[jl];W[im];B[hn];W[jm];B[kl];W[km];B[lm];W[kn];B[ko];W[in]
+;B[io];W[ln];B[gm];W[jo];B[jp];W[jn];B[lo];W[mm];B[ll];W[mn]
+;B[om];W[mo];B[mp];W[oo];B[gl];W[np];B[nq];W[op];B[oq];W[pn]
+;B[on];W[po];B[nn];W[no];B[rn];W[qp];B[pq];W[ro];B[qn];W[qo]
+;B[qq];W[rq];B[rr];W[sr];B[qr];W[sp];B[rs];W[so];B[ss];W[sq]
+;B[pm];W[sn];B[rm];W[sm];B[rl];W[sl];B[sk];W[nm];B[nl];W[ml]
+C[With this, the white push is over, but there are huge, huge black weaknesses all over.  White should be punching at black everywhere he can.  This is somewhat like a ladder that failed -- there are cutting points _everywhere_ in the black lines.  I'll show you some in variations at the end of the game...]
+;B[al];W[ak];B[hp];W[cq];B[dq];W[cp];B[co];W[bo];B[cr];W[br]
+;B[bn];W[bp];B[dr];W[cs];B[ds];W[bs];B[ao];W[aq];B[an];W[ap]
+;B[dn];W[tt];B[tt]C[
+Variations for potential white attacks start here.]
+(;W[tt]TW[aa][ba][ca][qa][ra][sa][ab][bb][cb][pb][rb][sb][ac]
+[bc][dc][qc][sc][ad][cd][qd][sd][be][qe][bf][cf][cg][dg][ah]
+[bh][ch][ai][ci][fi][ej][fk][rp][bq][ar][as]TB[ha][ia][ja][ka]
+[la][gb][ib][mb][jc][kc][mc][gd][hd][id][jd][kd][ld][ke][me]
+[ff][gf][hf][if][kf][mf][nf][hg][lg][mg][ng][ih][jh][kh][mh]
+[nh][ph][qh][sh][ii][ji][ni][oi][pi][ri][si][ij][jj][kj][lj]
+[mj][rj][sj][jk][kk][lk][nk][ok][pk][rk][ol][pl][ql][am][bm]
+[cm][dm][qm][cn][en][fn][gn][do][eo][fo][go][ho][ep][fp][gp]
+[ip][kp][lp][eq][fq][gq][hq][iq][kq][lq][mq][er][fr][gr][hr]
+[ir][jr][kr][lr][mr][nr][or][pr][es][fs][gs][hs][is][js][ks]
+[ls][ms][ns][os][ps][qs])
+(;W[lp]TR[ko][lo]SQ[mp]C[This threatens to capture either of the marked groups.  Black can't save both.]
+)
+(;W[jk]TR[ik]C[This is another good one.  Black can save the marked stone, but watch what happens...]
+
+(;B[ij];W[lk];B[kk];W[kj])
+(;B[kk];W[ij];B[jj];W[ik];B[ii];W[lp];B[lq];W[kp];B[mq];W[kq]
+;B[kr];W[ol];B[nk];W[pl];B[qm];W[ql];B[rk]C[This is a stable endpoint for the game.  Black still wins, but by about 15-20 points less.]
+))
+(;W[mq]C[This is worth a try, too.  Let's see what happens...
+
+There are lots and lots of variations; this seems like a plausible line...]
+;B[lp];W[lq];B[kp];W[nr];B[or];W[ps]C[This is the only chance White has to kill.  If Black plays here he lives for sure.]
+;B[mr];W[lr];B[ns];W[ls];B[kr];W[ms];B[nr]C[Black wins this capturing race 3 to 2.]
+))
+(;W[pg];B[ph];W[qh];B[pf];W[pg]))
+(;W[hc];B[id];W[hb]TR[ea][fa][ga][fb]C[Kills the marked group and threatens the one directly below it.]
+;B[hd]))
+(;W[gd];B[hd];W[ge]C[Black gives up the middle for a chance at life at the top.]
+
+(;B[ic]C[This doesn't work, though...];W[hb]
+(;B[gb];W[hc];B[ha];W[ia])
+(;B[hc];W[gb];B[ib];W[ha]))
+(;B[hb]C[Maybe this works...]
+(;W[ic]
+(;B[hc];W[ib];B[ie]C[Black may get away...])
+(;B[ib];W[kb];B[hc]C[And black lives...]))
+(;W[kb]
+(;B[ja];W[ic];B[hc];W[ib];B[ie]C[Black can't live for sure with this, but might be able to get away.]
+)
+(;B[ic];W[ja];B[ib]LB[ha:C][ia:A][ka:D][id:B]C[Black lives.  If White A, then Black B, or vice versa.  White cannot continue to push to C after White A, Black B, or Black captures at D.]
+)))))
+(;W[gd]
+(;B[ge];W[hd];B[he];W[hc]C[And the black stones at the top are dead.]
+)
+(;B[hd];W[ge];B[ff];W[gh]C[And black is dead.])))
+(;W[bk]
+(;B[cl];W[bi];B[bh];W[aj])
+(;B[bi];W[cl])
+(;B[bl];W[ak];B[cl];W[bi];B[al];W[aj])))

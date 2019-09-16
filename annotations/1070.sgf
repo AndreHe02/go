@@ -1,0 +1,97 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.13b]
+
+PB[JerKim83]
+PW[saswiz]
+WR[25k]
+KM[5.5]
+DT[2002-08-31]
+PC[The Kiseido Go Server (KGS) at http://kgs.kiseido.com/]
+RU[Japanese]
+AN[RCarter]
+
+C[I am black.I don't know my ranking.For the opening (moves 1-16), is it go= od to do what I did (i.e. cover more area with a weaker connection of stone=
+s) or is it better to do what white did (i.e. cover less area with a strong= er connection of stones)?
+
+RCarter: First: in a Go game player's goals are different. Black's goal are (in order of importance) 1) make territory 2) Avoid that White make territory;
+White's goal are 1) Avoid that Black make territory 2) Make territory.]
+;B[pd];W[dp];B[op];W[dd];B[ij]C[RCarter: Very unusual move, better and simpler R13, L16, K4 etc.]
+;W[cj];B[hd]C[RCarter: Another unusual move: in the beginning of a game you must define your territory with a few moves, and your territory can't be too weak (that means that you can't leave alone a lot of stones, like Q16, 3). You can't hope to obtain the whole goban, you only need a point  over your enemy to win! You'd better enforce your first moves]
+;W[qj]C[RCarter: White invade where you are weaker];B[ok]C[RCarter: Better Q10 to let white live small]
+;W[gj];B[hm]C[RCarter: Better enforce your corners or contain white's R10]
+;W[fm];B[go];W[eo];B[eg];W[fp];B[gq];W[fq];B[fr];W[er];B[gr]
+;W[gp];B[hp];W[fs];B[gs];W[es];B[fo];W[cq];B[en];W[dq];B[do]
+;W[dn]C[RCarter: White cutted in the wrong place, but you must defend more yorself by cutting (H3, H5, etc.).]
+;B[ep];W[co];B[eq];W[eo];B[dr];W[cr];B[ds]C[RCarter: white is sleeping...]
+;W[cs];B[er]C[RCarter: not useful: if White E2 you capture with E1]
+;W[do];B[dm]C[RCarter: No, better F6, so you connect and you'll be stronger for the center]
+;W[fn]C[RCarter: Too late];B[em];W[fl];B[fk]C[Is move #47 a good one? Would i= t have been better if I had placed that stone diagnally to the 3-stone chai= n?
+
+RCarter: No, I think this is a nice move, but also White help you to win with next moves]
+
+(;W[el];B[dl];W[ek];B[dk];W[dj];B[ej];W[fj];B[ei];W[gk];B[di]
+LB[ed:B][de:C][ee:A][eh:D]C[RCarter: too small move, better A, B, C, or D.]
+;W[ci];B[bk];W[ck];B[cl];W[bm];B[bl]C[RCarter: This group is already died, leave it.]
+;W[ch];B[cf]TR[dd]SQ[ch][ci][cj][dj][ck]C[RCarter: Ok, this is a good move: with this you divide square and triangle groups]
+;W[bg];B[cg]LB[bf:A]C[RCarter: No, better A to be sure white's groups will be divided, now white can connect]
+;W[bf];B[be];W[ce];B[bh];W[bd];B[bi]C[RCarter: no, these stones are captured]
+;W[dh];B[dg];W[eh];B[fi];W[fh];B[gi];W[gh];B[hi];W[hg];B[gf]
+;W[if];B[ie];W[jf];B[kg];W[je];B[jd];W[kd];B[ke];W[kf];B[le]
+;W[ld];B[lf];W[he];B[id];W[ge];B[ig];W[hf];B[fe];W[ff];B[gd]
+;W[ef];B[hh];W[fg];B[jg];W[gg];B[ee];W[df];B[cg];W[cf];B[gl]
+;W[hl]C[JerKim83 [?\]: what does the [2= 5k\] at the end of your name mean?]
+;B[gm]C[saswiz [25k\]: the 25k is a rating, or rank. the lower the number, = the better]
+;W[hk];B[il];W[ik];B[jk];W[jl];B[im];W[jj];B[kk];W[ii];B[gn]
+;W[hj];B[fk];W[ij];B[kj];W[ki];B[li];W[km];B[ih];W[qf];B[ji]
+C[Was it good to capture at move 135? Or should I have waited and reinforce= d the right side of the board?
+
+RCarter: You should have waited and reinforced the right side of the board, white can't escape.]
+;W[rd];B[pf];W[ph];B[oh];W[pg];B[og];W[pe];B[of];W[oe];B[ne]
+;W[od];B[md];W[qd];B[pc];W[oc];B[lc];W[pb];B[qg];W[qh];B[rg]
+;W[rf];B[rh];W[ri];B[qi];W[pi];B[pj];W[pk];B[oj];W[ql];B[oi]
+;W[qi];B[pl];W[qk];B[qm];W[pm]C[In moves 170 - 197, is there a better way t= o stop white?
+
+RCarter: You are too weak in the right side and in the lower right corner, there isn't a lot you can do]
+;B[ol];W[qn];B[pn];W[rm];B[qo];W[po];B[on];W[qp];B[om];W[qm]
+;B[pp];W[ro];B[oo];W[qo];B[qq];W[rq];B[rr];W[pq];B[qr];W[pr]
+;B[ps];W[os];B[or];W[qs];B[oq];W[nr];B[ps];W[ns];B[rs];W[sq]
+;B[sr];W[lq];B[mq];W[mr];B[nq];W[kq];B[lr];W[jp];B[ms];W[mp]
+;B[lp];W[lo];B[cn];W[bn];B[cm];W[bj];B[al];W[ai];B[am];W[ao]
+;B[an];W[bo]C[In moves 222 - 228, was white able to survive from the beginn= ing? Or was there a way to kill white?
+
+RCarter: I think there is no way]
+(;B[bq];W[br];B[ar];W[bp];B[as];W[aq];B[ed];W[ec];B[fd];W[fc]
+;B[dc];W[cc];B[db];W[cb];B[ca];W[eb];B[da];W[ea];B[ba];W[bb]
+;B[bc];W[aa];B[nb];W[kc];B[kb];W[jc];B[ic];W[jb];B[ja];W[mc]
+;B[ib];W[mb];B[nc];W[nd];B[ma];W[ob];B[lb];W[qc];B[oa];W[pa]
+;B[na];W[gc];B[hc];W[gb];B[hb];W[ha];B[ia];W[ga];B[de];W[kr]
+LB[mm:B][ir:A]C[From 272 - 307, I had a little trouble keeping white out... can you give = me some tips to keeping white out effectively without giving up too much te= rritory?
+RCarter: Here you can let white take small territory in the A area and avoid him to spread in the B area]
+
+(;B[jq];W[iq];B[jr]C[RCarter:  No chance to save it.];W[ir]
+;B[js];W[is];B[ip];W[jo];B[jn];W[kn];B[jm];W[kl];B[kp];W[ko]
+;B[mo];W[no];B[mn];W[nn];B[nm];W[mm];B[np];W[lp];B[lm];W[ll]
+;B[ml];W[lk];B[mj];W[lj];B[mk];W[ln];B[mm];W[ks];B[io];W[hq]
+;B[hr];W[ah];B[ak];W[sh];B[ls];W[sg];B[hs];W[aj];B[js];W[jr]
+TW[ba][ca][da][fa][qa][ra][sa][ab][db][fb][qb][rb][sb][ac][bc]
+[dc][pc][rc][sc][ad][cd][pd][sd][ae][be][qe][re][se][af][gf]
+[sf][ag][cg][dg][eg][qg][rg][bh][rh][bi][si][rj][sj][rk][sk]
+[rl][sl][sm][rn][sn][so][ap][cp][kp][rp][sp][bq][jq][ar][as]
+[bs][js]TB[ka][la][jb][mb][jc][kc][mc][kd][ld][me][mf][nf][lg]
+[mg][ng][jh][kh][lh][mh][nh][ii][ki][mi][ni][fj][gj][hj][ij]
+[jj][nj][ek][gk][hk][ik][nk][el][fl][hl][nl][fm][fn][hn][in]
+[nn][ho][no][fp][gp][fq][pq][mr][nr][pr][es][fs][ns][os][qs]
+[ss]C[Thank you for taking the time to look over my=  game and to help me become a better player.
+
+RCarter: In my opinion you have to focus you attention and improve in:
+1) Beginning of the game;
+2) More attention on your cutting point and where you cut
+3) You must know when a group has no chance to live, when you know it, leave it!
+4) Some of your moves weren't necessary and there were more important moves to do
+
+But don't worry, you aren't bad! This  is an avversary you can beat if you pay more attention.
+Hi and see you in KGS (I'm RCarter).])
+(;B[ko];W[kp];B[mn];W[ir]C[RCarter: White must be sure to live here, let him do!]
+;B[nn]))
+(;B[bp];W[bq];B[aq];W[ap];B[ar];W[cp];B[br];W[as];B[bs];W[as]
+))
+(;W[gl]))

@@ -1,0 +1,245 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+PB[oeillet]
+BR[5k]
+PW[edchung]
+WR[5k]
+KM[6.5]
+DT[2006-05-31]
+PC[The Kiseido Go Server (KGS) at http://kgs.kiseido.com/]
+RE[W+0.50]
+TM[900]
+OT[25/60 Canadian]
+RU[Japanese]
+
+C[(oeillet)
+In this game, I found it difficult to handle :
+- the joseki in lower right,
+- the various fights in the left half of the board,
+- the life and death problem in upper left at move 168,
+and I'd like my moves and comments reviewed for these parts of the game.]
+;B[pd];W[pp];B[dd];W[dp];B[qn];W[pn];B[pm];W[qo];B[on];W[po]
+
+(;B[qm]C[(oeillet) This is not the right joseki.];W[om]
+(;B[ol]C[reid: OK, here is the first big problem.  If you want to win, you must *never* help your opponent.  He may be your best friend, but you still want to beat him on the go board, so don't make moves that give him advantage.
+
+Of course white will answer this by extending, and it's going to swallow up your P6 stone.
+
+this atari may be sente, but the exchange of P8 for white O7 is better for white than for black.
+
+Instead, black should just be patient and extend to A (see variation).]
+
+(;W[nm];B[nl];W[ml]LB[mm:A][nn:B]C[reid: hmm, white isn't satisfied with 7'th line territory?  Extending with A or gripping the P6 stone with B are more reasonable choices.]
+;B[mm]LB[mp:A]C[reid: One of the most important things to learn at this stage (between 5k and 5d) is to be extremely careful of aji-keshi (erasing aji).
+
+We start each game with an empty board, and we end when there is nowhere interesting (no points) left to play.  To use a physics metaphor, we start with low entropy and end with maximum entropy.  There are endless ways to get from the start to the finish, but once you use your potential energy (aji), it is gone, transformed into a static formation of stones.
+
+Here, black may choose to invade the lower side later in the game.  Note that there are many moves in the area around A that are sente or nearly sente.  Black doesn't know now which of those moves would be the most helpful.  But when white answers this forcing move, some of black's alternatives are no longer available.]
+;W[nn];B[mn]C[reid: this aji-keshi is even more egregious than the previous move because now these two stones may become a heavy target for attack.
+
+So how to know when to make a forcing move and when it is aji-keshi and should be left?
+
+A lot has to do with the potential alternatives.  If there is only one way a forcing move can be made, then obviously it should be played as soon as possible (just make sure it's really forcing!).  But if it can be taken in more than one way, then you should leave it until you know which direction you want to take it.
+
+Of course, that means your opponent might patch up the aji.  But if he does that, you get to make a free move. So the timing of when to take your aji also depends on the value.]
+;W[no];B[pk]LB[km:A]C[(oeillet) I dislike the idea of playing here or cutting in the middle of a fight.
+
+reid: Hmmm, are you worried about white cutting here? But then you can capture the cutting stone in a ladder.  So the worst you have to worry about is a peep.
+
+Defending against a peep before it happens is really too slow.
+
+Better to jump out to A (L7) in preparation for a fight in the center.  It's not a great fight for black (it's not clear that he has an advantage), but now that black has played N7 and N6, he has to do something with them.]
+;W[qf]LB[ll:A]C[reid: a rather common thread I see in games from the 5-15kyu range is that things don't get settled.  Here white is jumping into black's area of influence far too early and before the situation in the center has any kind of resolution.
+
+It seems that we learn that we should take sente whenever possible and so we start taking it even when we shouldn't.
+
+Here white if white extends to A (M8), the fighting is going to be very good for him (clearly black is at a disadvantage).  So instead of jumping in to an area where white is at a disadvantage (black has more stones on the right side), white should continue the fight in the center until his N8 stone gets strong enough to stand on its own.
+
+Depending on how the center fight goes, white will find the right move for invading or reducing black's territory will become much more obvious.]
+;B[qh]
+(;W[of]LB[qc:A][nd:B]C[reid: by jumping out, white will only get a heay group.  By attacking this group, black should be able to affect the center (N8) fight  so that it's much more in his favor.
+
+Instead, white should sacrifice this stone and either jump into the 3-3 (A), or even better, make a double approach at B - see variation.]
+;B[nd];W[rd]LB[qc:A]C[reid: This is aji-keshi on white's part.  If he leaves S16 unplayed, then later, white A is possible.  But now black defends at A and the white group is heavy.]
+;B[qc];W[rc]
+(;B[jd]C[reid: Ack!  black *must* !must! !*!MUST!*! block at S18.  This is absolutely critical for eye space.  If black takes white's eye space, he enjoys many more free moves while white struggles to live.  This is probably the most important (and simplest) lesson from this game.
+
+Go is all about fighting which in turn is about life and death - eyes.
+
+Remember the proverb says "Play the urgent point, not the big point".  This is a perfect example.]
+;W[qb]C[reid: of course white takes the critical point immediately.]
+;B[pb];W[qd]C[reid: Endgame technique: better to leave the atari unplayed for now - white should simply connect.
+
+It is very important to lose the "It's sente, so it must be good" mindset.  Instead you need to realize that every exchange settles things to some extent.  If you start thinking in terms of exchanges (pairs of moves, one white, one black)  and consider if each exchange is good for one side or the other, you will prepare your mental foundations for getting stronger in the dan levels.]
+;B[pc];W[rb]C[reid: now the white group is alive and black has no more leverage against it.]
+;B[mo];W[mk]LB[ll:A]C[reid: white A is a better direction.  The black stones on the right are obviousl stronger than the three N6 stones, so white should play in their direction.]
+;B[np];W[oo];B[jp]C[(oeillet) This is slack. If black wants to protect N4, L4 is better. Black should play an approch move against D4 or extend sanrensei with D10.
+
+reid: But does black want to protect the cut at N4?  L4 would be very cramped, after all.
+
+See variation.]
+(;W[mp]
+(;B[lp]C[reid: no choice, but now K4 is much too close.];W[mq]
+;B[lq];W[nq];B[kn]LB[fq:A]C[reid: again, black is protecting a cut that cannot be made.
+
+If black does not play L6 and white cuts at M5, how does black respond? (excercise for the student).
+
+Of course, black should approach at A];W[fc]C[(oeillet) Wrong side.
+
+reid: yes.  White seems to like to fight at a disadvantage.]
+;B[ec];W[fd];B[df];W[ch];B[hd];W[ff];B[dh]C[(oeillet) Black is leaning on a weak stone, so kosumi at E13 may be better.
+
+reid: I agree.];W[cg]
+(;B[cf]LB[dg:A]C[reid: connecting at A would be more natural.  White is too busy to defend both these groups, so black just needs to be patient and stay strong.]
+;W[dg];B[eg];W[ef];B[eh];W[ci];B[dj];W[cj];B[ek]LB[dk:A]C[reid: A is better.  white cannot push and cut because the ladder works for black.]
+;W[cl];B[eb]LB[pf:D][hg:A][ng:E][pg:C][dm:B]C[reid: I would play at A to enclose white.  Assuming white lives, black would get tremendous outside thickness in sente, so black can look forward to B (also in sente) and finally C-D-E to lock up a nice center.
+
+E18 is large (and prevents white C17 which could be difficult), but it's a one-directional play with little future potential.
+
+If black encloses white, I would expect white to help harden black's corner as he struggles for life.  White shouldn' have time to both live with F14 and also play C17 and live in the corner.]
+;W[fb];B[hb];W[gg]
+(;B[gi]LB[mf:E][cm:B][dm:A][cn:D][dn:C]C[(oeillet) Wrong direction ?
+
+reid: yes.  Black doesn't need to explicitly white.  White has no eyes so far, and no easy way to connect.  All black needs to do is make his surrounding groups strong enough that he can't change that situation much.  Time for a leaning attack:Black A through white D helps black make his E12 stones pretty strong. Then black can play E to forstall any attacks on his top-side stones while making the capture large-scale.
+
+Even if the F14 stones manage to live somehow, black is well ahead on territory (especially since he can still live with C3 if he needs to).
+
+Here's another way to look at it: G11 cannot make much territory towards the bottom of the board, so if white gets away, G11 isn't worth very much.  Try to make your moves have multiple meanings - threaten to capture a group while taking a few points of territory at the same time.]
+;W[hh];B[jh];W[ii];B[kj]LB[hk:A]C[reid: Now that you've started this direction, it seems better to defend your (possibly) weaker group with A instead.
+
+Even if white connects to his N9 stones it looks like you can still surround and kill the whole group.]
+;W[ik];B[kl];W[di]LB[gl:A]C[reid: woah!  all of a sudden, your E12 stones are looking like they are under attack!  That's not right, it's supposed to be white under attack, not black.
+
+L8 should have been at A to keep out ahead of white.];B[ei]
+;W[dk];B[ej]LB[fj:B][fl:A]C[reid: again, black needs to stay ahead of white in this race.  Black should play A - if white takes at E10, black connects with B.]
+;W[el];B[fl];W[im];B[em];W[dl];B[hl]LB[fm:A][gm:B]C[reid: why is black peeping?  iAji-keshi again.  He doesn't need these moves, and they help white get stronger in this area.
+
+If black simply connects out, (with A or B, for example), white is in serious trouble, and black may still be able to use the peeps from the other side if he needs them.]
+;W[il];B[hj]LB[gn:A]C[reid: again, aji-keshi.  Black A is sufficient.]
+;W[ji];B[ki];W[jk];B[kk]C[reid: oops, black's peep at H10 turns around to bite him.  Now black has lost a tempo (a chess term - essentially, you've wasted a move).]
+;W[mi]LB[gn:A][hn:B]C[reid: Woah!  Does white have time to save two stones?  I think he should be worried about saving 13 stones instead!
+
+The key point for both sides seems to be either A or B];B[hn]
+C[reid: and black gets the key move first!];W[ic]C[reid: white is desperate now.]
+;B[hc];W[id];B[ie];W[jc];B[je]LB[hf:A]C[perhaps safer would be to connect with A an let white live (perhaps even capturing the Q16 stones).  The 13 white stones plus 30 points of territory is plenty for black to win the game (after adding in 15 points on the right plus 16 points in the upper left).]
+;W[jg];B[kg];W[ih];B[kh];W[lc];B[hf];W[me];B[ne]LB[fp:A]C[reid: again, this fight is not necessary for black.  just killing the center stones is plenty.  Something like A strengthens black weaknesses while adding a few more points.  And keeps the game simple.]
+;W[nf];B[md];W[ld];B[le];W[mf];B[mb];W[mc];B[nc];W[lb];B[nb]
+;W[ke];B[lf];W[kf];B[lg];W[jf];B[kd];W[ib];B[kc];W[hm]
+(;B[gm];W[gn]
+(;B[fn];W[go];B[fo];W[gp];B[fp]LB[hk:C][in:A][io:B]C[reid: why not simply kill with A (or B)?  If then white F4, black lives with C.]
+;W[io];B[gq];W[hq];B[fq];W[ip];B[jq];W[iq]
+(;B[dr];W[ho];B[dn];W[cn];B[co];W[do];B[bn];W[cm];B[cp];W[bm]
+;B[bo];W[qj];B[pi];W[oj];B[pj];W[rg];B[rh];W[rn];B[rm];W[ro]
+;B[nh];W[mh];B[mg];W[oh];B[oi];W[ph];B[qi];W[bd]LB[ea:G][ab:F]
+[cb:E][bc:C][cd:A][be:B][bf:D]C[(oeillet) I completely missed that, and even after some analysis, I still dont know how to handle it. Is the Black corner dead ?
+
+reid: no, it should be OK.
+
+Black A makes white choose which direction to go.  If white B, black C, white D, black E.  If instead white C, then black B, white E, black F.  It helps that black G is sente to simply connect to the right.]
+
+(;B[bf]C[reid: How about A instead? see variation.];W[cb]
+(;B[cc];W[bc]
+(;B[cd];W[db];B[ea];W[ab]LB[fa:A]C[reid: well, now black can simply connect with A
+
+Even after losing this large corner, black wins easily.  That shows how far ahead black is.Once you're ahead, you should be looking for ways to finish the game withough complications.
+
+In any case, it looks like white's mistakes were mostly of the overplay variety, while black is perhaps too cautious (protecting when it's not necessary).  Both players should strive to eliminate aji-keshi plays and moves that help their opponents.
+
+good luck, play strong - reid.];B[ba];W[fa];B[be];W[ad];B[ha]
+;W[bg];B[qg];W[rf];B[og];W[pf];B[pg];W[sm];B[sl];W[sn];B[rl]
+;W[kr];B[lr];W[mr]
+(;B[ms]C[(oeillet) Gote.];W[ns];B[ls];W[jr];B[ig];W[hk];B[gl]
+;W[gk];B[fk];W[gr];B[fr];W[hr];B[ge];W[fe];B[gf];W[fg];B[hg]
+;W[gh];B[gj];W[pa];B[oa];W[qa];B[sg];W[sf];B[sh];W[oe];B[od]
+;W[kb];B[cq];W[an];B[ao];W[am];B[jn];W[in];B[jo];W[kq];B[kp]
+;W[jm];B[km];W[ks];B[pe];W[qe];B[gs];W[hs];B[fs];W[dm];B[en]
+;W[fh];B[fi];W[ng];B[tt];W[jj];B[tt];W[ni];B[oh];W[ok];B[nk]
+;W[nj];B[pl];W[tt];B[tt]TW[aa][ba][ca][da][ea][ra][sa][bb][eb]
+[sb][ac][cc][dc][ec][sc][cd][dd][ed][sd][ae][be][ce][de][ee]
+[re][se][af][bf][cf][df][ag][ah][bh][ai][bi][aj][bj][ak][bk]
+[ck][al][bl][hn][on][so][hp][np][op][qp][rp][sp][oq][pq][qq]
+[rq][sq][ir][nr][or][pr][qr][rr][sr][is][js][os][ps][qs][rs]
+[ss]TB[ia][ja][ka][la][ma][na][ib][jb][kb][lb][ob][ic][jc][lc]
+[mc][oc][id][ld][he][lh][mh][ph][li][mi][ni][ri][si][fj][lj]
+[mj][nj][oj][qj][rj][sj][lk][mk][ok][qk][rk][sk][ll][ml][ql]
+[fm][lm][ln][do][eo][ko][lo][ap][bp][dp][ep][aq][bq][dq][eq]
+[ar][br][cr][er][as][bs][cs][ds][es])
+(;B[jr];W[ls];B[kq];W[ks];B[js];W[ms];B[hr]))
+(;B[db];W[cd];B[dc];W[de]))
+(;B[cd];W[cc];B[be];W[ac])
+(;B[bb];W[bc]
+(;B[ab]
+(;W[ba])
+(;W[cc]))
+(;B[cc];W[cd];B[dc];W[de];B[ce];W[ee];B[be];W[ab];B[ba];W[ca]
+;B[ad];W[aa];B[bb];W[ba]))
+(;B[bc];W[cc]))
+(;B[be];W[cd];B[de])
+(;B[cc];W[bc];B[bf];W[cb]))
+(;B[ho]C[(oeillet) Atari ! White is dead.]))
+(;B[ho]C[(oeillet) This is too risky.];W[fn];B[fm]
+(;W[gp];B[hk]LB[fg:B][gh:A]C[reid: black is alive (A and B are both sente.]
+)
+(;W[hk];B[en];W[gk];B[fk];W[fo];B[eo];W[fp];B[ep]LB[eq:A][fq:B]
+C[reid: this looks OK for black too.  if white A, black cuts at B and four white stones will die.  The center white group is still dead.]
+)))
+(;B[gn]C[(oeillet) Maybe this way.
+
+reid: yes, this is better.  the white group is now dead.];W[gl]
+;B[fm]LB[gk:A]C[reid: black A looks a bit better, but white is in trouble either way.]
+;W[gk];B[fk]LB[cc:B][ed:A][ee:E][ge:C][he:D][gf:F]C[reid: one eye.  there's no eye at white A, black B, white C because after black connects at D, white needs both E and F.]
+))
+(;B[ig]C[reid: still not the right direction.  If white jumps out to G11, he'll be attacking your stones - that's not what you want at all!
+
+See my comments in the main line.];W[gi];B[ii];W[gk];B[em];W[gm]
+;B[eo]C[(oeillet) Not sure about that.
+
+reid: looks like black is being attacked, not white.]))
+(;B[dg];W[be]C[(oeillet) I find this annoying.]))
+(;B[mq];W[lp]C[(oeillet) Tough fight for Black.
+
+reid: yes.  even if black lives in the corner, what he loses on the outside more than makes up for it.  losing three N6 stones would be pretty much game over.]
+;B[oq];W[lq];B[pq];W[qq];B[qr]))
+(;AE[jp]C[reid: it is not easy for black here.  The four stones are inside white's sphere of influence with bad shape.  This usually means it's time to start sacrificing (light play).  
+Sacrificing the three N6 stones is not good because they are still useful (they are cutting off the N9 white stones).  But that O4 stone really isn't doing much of anything.  It looks like a good candidate for the chopping block.]
+PL[B];B[fq]C[Black can start with an approach to the corner.]
+
+(;W[mp]C[If white cuts right away,];B[lp];W[mq];B[ko]C[black can make shape while leaving some aji behind.  If white fixes the aji, black gets a second approach on the corner.]
+)
+(;W[hq]C[if white pincers,];B[fo];W[cn];B[ip]C[black can join his stones (and probably protect N4 as a side effect) with this joseki]
+)
+(;W[cn]C[if white simply extends,];B[ip]C[again, black wants to join up his stones.  If white cuts now,]
+;W[mp];B[lp];W[mq];B[lq];W[nq];B[lr]C[this is probably good enough for black.  There is still some corner (R3) aji that black might be able to use, and the N9 stones are not looking useful at all.]
+)))
+(;B[rb]C[(oeillet) This makes live harder for white. Black can attack P14.
+
+reid: very correct - see my comments in the main line.]))
+(;W[nd];B[pf];W[pg];B[qg];W[pc];B[qe];W[qc]C[reid: this is a common joseki.  Black tenukis, and later:]
+;B[tt];W[rf]C[white gets a bit of continuation];B[re];W[of]
+;B[pe]LB[rd:A]C[In the early endgame, white gets A too.]))
+(;AE[ol]PL[B];B[pk]C[This keeps the aji of P6 alive, and white has to worry about it.  That should translate to sente for black.
+
+White has several choices now.]
+(;W[ol]C[the push and cut is terrible, so black needs to defend]
+;B[pj]LB[qi:F][qj:E][qk:C][rk:D][ml:H][pl:A][ql:B][nn:G][np:I]
+C[black makes territory on the fourth line while defending the cut (the A-F sequence leads to a short ladder).
+
+meanwhile, white still has to worry about black pulling  and starting a fight with G through I.]
+)
+(;W[nn]C[If white grips the P6 stone immediately,];B[ol]C[now black doesn't mind the atari since white has played an extra stone]
+;W[nm];B[qf]C[Not too bad for black, even though he made a joseki mistake earlier.  P6 still has a small amount of aji left.]
+)
+(;W[nm]C[White can just extend, but now P8 has a lot of aji left.]
+;B[qf]C[again, not too back for black despite the joseki mistake.]
+)))
+(;B[nn]C[(oeillt) Joseki.
+
+reid: yes.  It is instructive to compare this shape with what happened in your game.  Here, there will be fighting, it looks like no one will get a lot of territory unless something big dies. The fighting looks reasonably well matched - perhaps white has a bit of advantage due to D4.  Probably this is a better joseki choice for black when the lower left corner is black's instead of white's.]
+))
+(;B[om]LB[rn:A]C[(oeillet) After looking at a joseki book, this seems to be the right move.
+
+reid: yes.  descending at A (S6) is also possible.
+
+In this game, the thickness provided by P7 works well with the high Q16 and D16 stones, so this looks like a good continuation.]
+;W[qm];B[ql];W[rn];B[rm];W[np];B[jd]C[(oeillet) This moyo game is fine for Black thanks to P7.]
+))

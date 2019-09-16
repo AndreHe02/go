@@ -1,0 +1,80 @@
+(;FF[4]GM[1]SZ[9]ST[2]CA[UTF-8]AP[SGFC:1.15]VW[]
+
+PB[Igo]
+PW[Bette]
+WR[25k]
+KM[0]
+RE[B+Resign]
+RU[Japanese]
+
+C[I tried several different moves, but the only way I could win is by making the computer make bad moves.  (Not that I knew they were bad until I made them for it.)  So, please comment on the earlier part of the game too, even though I only showed my thoughts on my blunder.  Before that, I don't know where I went wrong.
+
+Max: I will do my best. 9x9 is a different sort of game and I'm still weak on its fuseki. But I think I found a few key areas for improvement. I also showed how black could have been even harder on you in a couple places. 
+
+Please let me know if you have any questions.];B[cd];W[gf]TR[gc]
+C[I think I would prefer to play on 3/3 point at G7.];B[cg]
+;W[fc];B[eg];W[ee]LB[dc:A][gh:B]C[Corner gold, side silver, center grass. I think A or B would be better.]
+;B[dc];W[ce]C[I think this move works against you. Even if you protect it, you can get into serious trouble.]
+;B[be]
+(;W[fg]LB[cf:A]TR[ce]C[Now without a follow up move the marked
+ stone just goes to waste.]
+(;B[eb]
+(;W[dg]LB[fb:A][eh:B]C[This seems a bit much. F8 or E2 I think are better moves.]
+;B[dh];W[df];B[eh];W[fh];B[gb];W[gc];B[hc];W[fb];B[fa];W[hb]
+;B[ga];W[ha];B[ea];W[hd];B[ec];W[ed]LB[ef:A]C[I think black may have been able to win even bigger by playing at A (see variations).]
+
+(;B[cf];W[de];B[ef];W[ff];B[dd]
+(;W[ch];B[fe]LB[fd:A]C[A would have been bad as well. Have to watch out for those double ataris (as you figured out).]
+;W[fd];B[gd]C[White resigned])
+(;W[fd]
+(;B[fi];W[gi]
+(;B[gh];W[ei];B[di];W[fi];B[ch]TW[ia][ib][hc][ic][gd][id][fe]
+[ge][he][ie][hf][if][gg][hg][ig][gh][hh][ih][hi][ii]TB[aa][ba]
+[ca][da][ab][bb][cb][db][ac][bc][cc][ad][bd][ae][af][bf][ag]
+[bg][ah][bh][ai][bi][ci])
+(;B[ei]
+(;W[hh];B[ch]TW[ia][ib][hc][ic][gd][id][fe][ge][he][ie][hf]
+[if][gg][hg][ig][gh][ih][hi][ii]TB[aa][ba][ca][da][ab][bb][cb]
+[db][ac][bc][cc][ad][bd][ae][af][bf][ag][bg][ah][bh][ai][bi]
+[ci][di])
+(;W[ch];B[bh];W[di];B[bi];W[ci]TW[ia][ib][hc][ic][gd][id][fe]
+[ge][he][ie][ef][hf][if][eg][gg][hg][ig][dh][eh][gh][hh][ih]
+[ei][fi][hi][ii]TB[aa][ba][ca][da][ab][bb][cb][db][ac][bc][cc]
+[ad][bd][ae][af][bf][ag][bg][ah][ai]))
+(;B[ch];W[ei];B[di];W[fi]TW[ia][ib][hc][ic][gd][id][fe][ge]
+[he][ie][hf][if][gg][hg][ig][gh][hh][ih][hi][ii]TB[aa][ba][ca]
+[da][ab][bb][cb][db][ac][bc][cc][ad][bd][ae][af][bf][ag][bg]
+[ah][bh][ai][bi][ci]))
+(;B[di];W[ch];B[bh];W[ci];B[bi];W[fi];B[ge];W[he];B[tt];W[tt]
+TW[ia][ib][hc][ic][gd][id][fe][ge][ie][hf][if][gg][hg][ig][gh]
+[hh][ih][gi][hi][ii]TB[aa][ba][ca][da][ab][bb][cb][db][ac][bc]
+[cc][ad][bd][ae][af][bf][ag][bg][ah][ch][ai][ci])
+(;B[ei];W[fi];B[ch]TW[ia][ib][hc][ic][gd][id][fe][ge][he][ie]
+[hf][if][gg][hg][ig][gh][hh][ih][gi][hi][ii]TB[aa][ba][ca][da]
+[ab][bb][cb][db][ac][bc][cc][ad][bd][ae][af][bf][ag][bg][ah]
+[bh][ai][bi][ci][di])))
+(;B[ef]
+(;W[ff];B[fd];W[gd];B[de];W[dd];B[cf];W[cc];B[de];W[fe];B[cb]
+)
+(;W[cf];B[bf];W[de];B[ff];W[fe];B[bh]
+(;W[ei]C[White cannot play here yet because of weaknesses.]
+
+(;B[gd])
+(;B[ge]
+(;W[gd];B[gg];W[he];B[gh])
+(;W[hf];B[gd]
+(;W[fd];B[dd])
+(;W[ic];B[dd]))))
+(;W[fi];B[ei];W[ge]))))
+(;W[fb];B[fh];W[gh];B[ff];W[gg];B[ef];W[fe];B[de]
+(;W[eh];B[dh];W[fi];B[ec];W[df];B[dg];W[dd];B[ed];W[de];B[fd]
+;W[gd];B[cf];W[ge];B[bc];W[ea];B[da];W[fa]C[White leads by three points. Add komi and it's a won game.]
+)
+(;W[ec]
+(;B[db];W[eh])
+(;B[eh];W[db];B[cb];W[ea];B[ed];W[fd];B[dd];W[ca];B[ba];W[da]
+;B[bb];W[fi];B[ei];W[gi]C[Both sides are even. As long as you don't have reverse komi, you win.]
+))))
+(;B[de];W[df];B[cf];W[ef];B[dg]))
+(;W[cf];B[bf];W[fg];B[de];W[df];B[ef];W[dd];B[dg];W[de];B[fe]
+;W[ed];B[ff];W[gg];B[fd];W[ec];B[cc];W[gc]))

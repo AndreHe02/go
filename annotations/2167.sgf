@@ -1,0 +1,137 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+PB[tikuma]
+BR[1d]
+PW[nutcase]
+WR[2d]
+KM[0.5]
+DT[2003-12-23]
+PC[The Kiseido Go Server (KGS) at http://kgs.kiseido.com/]
+RE[B+8.50]
+TM[1200]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+C[This is a game played in KGS, really a great server.
+
+I think I have made some tactical mistake at the fuseki and middle-game.
+
+I did not realized I was behind and lost by 8.5 points.
+
+Feel free to point out my mistakes.];B[pd];W[dp];B[qp];W[dd]
+;B[oq];W[qj];B[fq]LB[ql:A][jp:B]C[Is this move acceptable or better than A?
+
+Should white play around B?
+
+[chingu\]:
+I would rather play at A. This is more active and takes the important extension in front of the shimari.]
+;W[cn];B[jp];W[qm];B[fc];W[jd];B[cf];W[fd]C[[chingu\]:
+Wrong direction. Attach to the other (stronger) stone. White wants to attack F17, so he should not touch it directly.]
+;B[gd];W[fe];B[ec];W[dc];B[hc]LB[ib:A][ce:C][ci:B]C[What is the best move for white in this situation?
+
+I have considered A too, but end up playing B.
+
+[chingu\]:
+Since black played solidly, I would do the same with a move at C. A is clearly an overplay. B looks a bit too thin.]
+;W[ci];B[ed];W[de];B[ee];W[df];B[ef];W[dg];B[ld]LB[md:A][qf:B]
+[qh:C]C[Personally I think black A is better.
+
+What is the best move for white to take advantage of black's thin-ness here?
+
+Is white B better than O17 (the real play)?
+
+[chingu\]:
+As black i would have attacked the white group with C, building a big moyo (framework) in sente. B seems indeed to be a better move for white than the game.]
+;W[nc];B[lb];W[pf]C[[chingu\]:
+The low approach looks better, because the invasion at R17 will then end in better shape.]
+;B[nd]LB[qd:A]C[I have made some reconsideration...
+
+Is white A better?
+
+[chingu\]:
+Yes, the high approach move makes the invasion a bit ineffective.]
+;W[qc];B[qd];W[pc];B[oc];W[ob];B[od];W[nb];B[rc];W[rb];B[rd]
+;W[sb];B[qh]C[Nice invasion by black here...];W[ph];B[qi]C[This move looks like a crude move to me, or it is not?
+
+[chingu\]:
+Looks crude, but somehow black has to take advantage of his thickness.]
+;W[pi];B[qg];W[pg]LB[pj:A]C[[chingu\]:
+This is an overplay. Black should immediately cut at A. White is in trouble then (see variation)]
+
+(;B[rj]C[[chingu\]:
+White is very lucky here.];W[qk];B[rk]LB[fo:A]C[I don't think S9 is necessary, black can tenuki here?
+
+Black A look huge.
+
+[chingu\]:
+Tenuki is no problem.];W[qf];B[rf];W[re];B[rg];W[oj]C[Is this a slow move?
+
+[chingu\]:
+Seems to be necessary, though.];B[fi]LB[lg:B][fh:A]C[Should white play A to break up black here?
+
+[chingu\]:
+With all the black thickness around, A is too aggressive. Better just reduce around B.]
+;W[kc];B[lc];W[jf]C[My bad moves i guess?
+
+Too heavy to move out here, how will you handle this situation?
+
+[chingu\]:
+White creates trouble for himself. See earlier comment.];B[lf]
+;W[ig];B[ii];W[hh];B[hi];W[fh];B[eh];W[gh];B[eg];W[gi];B[gj]
+;W[fj];B[ei];W[lg];B[kg];W[kh];B[kf];W[jh];B[gk];W[he]LB[ih:A]
+C[Somehow, I has to take care of bad aji at A...];B[ge]LB[fo:A]
+C[[chingu\]:
+Big mistake by black. A move like A is much better now.];W[ke]
+;B[le];W[hq];B[fo]C[What is the best option for white here?
+
+[chingu\]:
+White can consider to settle the group as shown in the varation. The actual moves are good too.]
+
+(;W[eq];B[fr];W[kq];B[jq];W[jr];B[ir];W[lr];B[js];W[kr];B[hr]
+;W[nq];B[nr];W[op]C[[chingu\]:
+Nice sequence by white.];B[pq];W[mp];B[mr];W[kp];B[jo];W[ko]
+;B[jn];W[kl]C[I think somehow I misjudged here...];B[no];W[nn]
+LB[oo:A]C[[chingu\]:
+If white wants to resist this peep, he should do so at A. This prevents black from connecting.]
+;B[oo];W[on];B[mo];W[kn];B[mn];W[mm];B[kj];W[jj];B[ji];W[ki]
+;B[jk];W[lj];B[kk];W[lk];B[jl];W[po];B[pp];W[ln];B[np]LB[cj:B]
+[dl:A]C[Is A better than E2?
+
+[chingu\]:
+No, E2 is bigger. If white plays A, black will first reduce the corner and then attach at B, which still works perfectly.]
+;W[er];B[km];W[ll];B[mg];W[mh];B[lh];W[mi];B[cj];W[bi];B[bj]
+;W[en];B[di];W[ch];B[fn];W[em];B[bm];W[cm];B[bl];W[bn];B[es]
+;W[ds];B[fs]LB[br:A]C[Can white A work?
+
+[chingu\]:
+No white has to connect anyway after the other hane, see variation.]
+
+(;W[dr];B[an];W[ao];B[am];W[bp];B[db];W[cb];B[eb];W[bc];B[jb]
+;W[ro];B[qo];W[rn];B[pn];W[pm];B[rp];W[dk];B[dj];W[fm];B[gm]
+;W[fp];B[gp];W[ep];B[go];W[jc];B[ic];W[sp];B[sq];W[so];B[rq]
+;W[mq];B[rl];W[ng];B[ql];W[pl];B[qn];W[rm];B[hf];W[if];B[ie]
+;W[hg];B[hd];W[je];B[fk];W[qe];B[se];W[or];B[pr];W[ms];B[os]
+;W[nf];B[sm];W[sl];B[sk];W[ek];B[ej];W[fl];B[gl];W[cl];B[ck]
+;W[kb];B[ka];W[gf];B[ff];W[he];B[om];W[nm];B[hf];W[gq];B[gr]
+;W[he];B[pk];W[pj];B[hf];W[ib];B[ja];W[he];B[jm];W[lm];B[hf]
+;W[hj];B[ij];W[he];B[bo];W[co];B[hf];W[mf];B[lg];W[he];B[ol]
+;W[ok];B[hf];W[ma];B[mb];W[he];B[ap];W[id];B[bo];W[aq];B[ao]
+;W[cq];B[fg];W[gg];B[eo];W[do];B[la];W[pb];B[na];W[oa];B[ai]
+;W[ah];B[aj];W[sc];B[sd];W[ks];B[is];W[dh];B[lp];W[lq];B[lo]
+;W[da];B[ea];W[ca];B[oe];W[of];B[ma];W[me];B[md];W[ls];B[ns]
+;W[nl];B[ri];W[sn];B[sl];W[li];TW[aa][ba][pa][qa][ra][sa][ab]
+[bb][qb][ac][cc][ad][bd][cd][ae][be][ce][ie][af][bf][cf][hf]
+[ag][bg][cg][og][bh][nh][oh][ni][oi][mj][nj][mk][nk][pk][dl]
+[el][ml][ol][dm][om][dn][cp][bq][dq][ar][br][cr][as][bs][cs]
+TB[fa][ga][ha][ia][fb][gb][hb][ib][gc][fd][fe][sf][sg][rh][sh]
+[si][fj][hj][jj][sj][ak][bk][hk][ik][al][hl][il][hm][im][gn]
+[hn][in][ho][io][po][hp][ip][op][gq][hq][iq][qq][or][qr][rr]
+[sr][gs][hs][ps][qs][rs][ss])
+(;W[br];B[an];W[ao];B[am];W[ss];B[dr];W[cs];B[cr];W[bs];B[bo]
+;W[ap];B[bp];W[aq];B[bq]C[[chingu\]:
+This does not work well for white.]))
+(;W[jq];B[kq];W[kr]))
+(;B[pj];W[qf];B[rf];W[rg];B[rh];W[re];B[sg]LB[qe:B][se:A]TR[pj]
+C[[chingu\]:
+A and B are miai for black, so white cannot cut here. The cutting stone is in an excellent position now.]
+))

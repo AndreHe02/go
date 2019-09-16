@@ -1,0 +1,47 @@
+(;FF[4]GM[1]SZ[19]AP[SGFC:1.13b]
+
+PB[rex]
+BR[1k]
+PW[tf]
+WR[1d]
+KM[0.5]
+DT[2000-11-03]
+PC[The Kiseido Go Server (KGS) at http://kgs.kiseido.com/]
+RE[B+Resign]
+TM[60,3,600,25]
+
+;B[qd];W[pp];B[dc];W[dp];B[qn];W[de];B[ee];W[ef];B[fe];W[dd]
+;B[ec];W[cc];B[df];W[cf];B[dg];W[cg];B[dh];W[ch];B[di];W[ed]
+;B[fd];W[fc];B[cb];W[bd];B[fb];W[gc];B[gb];W[hc];B[bb];W[cj]
+C[klin: W 30 dangerous.  Should B10.];B[ff]C[klin: B 31 misses opportunity.  B can C11, B11, B12 cut, W in trouble.]
+;W[he];B[nq];W[pn];B[pm];W[on];B[om];W[qo];B[qm];W[nn];B[qq]
+;W[pq];B[pr];W[rr];B[qr];W[rq];B[kq];W[hg];B[dj];W[ck];B[qh]
+;W[fg];B[eg];W[fh];B[fj];W[hj];B[el];W[dm];B[em];W[en];B[fn]
+;W[dl];B[dk];W[md]C[klin: W 64 leaves the battle.  Should E5.]
+;B[cq];W[cp];B[dq];W[eq];B[er];W[fq];B[fr];W[gq];B[ci];W[bi]
+;B[bp];W[bo];B[bq];W[cn];B[eo];W[dn];B[oc];W[oh]C[klin: W 82 good.]
+;B[pi];W[rd];B[rc];W[pd];B[qc];W[pf];B[pg];W[og];B[qf];W[pe]
+C[klin: W 92 useless, should play at P11.];B[qe];W[pc]C[klin: W 94 not good either.]
+;B[pb];W[nc];B[od];W[ne];B[nb];W[lc]C[klin: Up to 100, W is gote and no gain.]
+;B[oi]C[klin: B 101 big.];W[ni];B[nj];W[mi];B[mj];W[lj];B[ib]
+C[klin: B 107 not big now.  Should G8.];W[hb];B[ha];W[ic];B[jb]
+;W[jc];B[kb];W[fm];B[fl];W[gm]C[klin: W 114, 116 attack.  B is in danger.]
+;B[gl];W[gn]C[klin: W 118 soft.  Should H7, H8, J7, J8, K8,K9, L8.]
+;B[il];W[hk];B[hl];W[jk];B[km]C[klin: After B 123, it is hard to kill the B group.]
+;W[mq];B[nr];W[lq];B[kp];W[ro];B[mp];W[lp];B[lo];W[mo];B[np]
+;W[ln];B[ko];W[kn];B[jn];W[lm];B[kl];W[mk];B[kk];W[lk];B[kj]
+;W[ki];B[ok];W[nk];B[oj];W[jj];B[kc];W[kd];B[lb]C[klin: B 149, 151 again small.  Should take care of the center dragon.]
+;W[jo];B[in];W[jq];B[kr];W[jl];B[jm];W[jp];B[ho];W[jr];B[lr]
+;W[hm]C[klin: W 162 no good.  Should F5 take one stone.];B[im]
+
+(;W[go]C[klin: W 164 still should F5 take.  It is the last losing move.  (no more comment after this move)]
+;B[ll];W[nm];B[ji];W[hi];B[hq]
+(;W[hr];B[gp];W[fp];B[hp];W[fo];B[gr])
+(;W[hp];B[ip]C[rex: white J5]
+(;W[gp]C[rex: just J5?];B[io]C[rex: just lucky to have the F6 aji
+tf: w still no good])
+(;W[io];B[gp]C[rex: f^ saves black])))
+(;W[fo]C[tf: maybe this f5 may work?
+rex: yes, could be];B[hq];W[hr]C[rex: looks like]
+(;B[gp];W[gr])
+(;B[gr];W[hp])))

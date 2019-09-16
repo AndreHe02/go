@@ -1,0 +1,57 @@
+(;FF[4]GM[1]SZ[19]AP[SGFC:1.13b]
+
+PB[gross]
+BR[2k]
+PW[quickgame]
+WR[1d]
+KM[5.5]
+RE[W+Time]
+
+C[Could you give me a review , please.
+I, gross (2k) , played as black with quickgame (1d).
+The result is White wins by resignation.];B[pd];W[dp];B[pq]
+;W[dd];B[fq];W[jp];B[cn];W[eo];B[cq];W[dq];B[cp];W[cr]LB[br:a]
+C[It is good enough to play the hane at "a" in the corner as in the variation.]
+
+(;B[do];W[dn];B[co];W[fp];B[dm]C[I'm not sure about this move.
+Another sequence I think of is B b2 , W d2 , B E6 , but I think it's hard to fight.
+JH : The exchange in the corner would be OK for Black but then your move is better as you can take sente.]
+;W[en];B[er]C[JH : No need for Black to rush here.];W[dr];B[hq]
+C[Should I play like this. In my opinion I think it's ok.
+JH : Black will now have a hard fight. It's look like handicap game.]
+;W[iq];B[ir];W[jr];B[ip];W[jq];B[hp];W[gr]LB[hr:a]C[I have no idea what to do next.
+JH : Black should connect at "a" as Black 2 stones will not be captured in one move and White four stones are without base.]
+;B[gq];W[hr];B[hm];W[fl]C[The result is not so good for Black]
+;B[dk];W[bq];B[bp];W[aq];B[ap]C[This is too early];W[bs];B[cl]
+C[Black looks too conservative here even is this not clearly a bad move]
+;W[hk];B[jl]C[This move looks thin. The simple tobi is better.]
+;W[im];B[il];W[hl];B[in];W[po]C[I do not understand what White is doing. There is no reason to let Black do a ponnnuki. White must escape.]
+;B[nq]LB[jm:a]C[Is R5 or O4 better?
+R5 is may be slightly better but Black should ignore the corner and take one stone in the center at "a"]
+;W[qq];B[qp]LB[qr:a]C[This move is playable but may be the hane at "a" was simpler. The problem is that white can tenuki after it.]
+;W[pp];B[rq];W[oq];B[qr];W[pr];B[or]C[Black should not go for a ko but connect then take the ponnuki.]
+;W[qq];B[eq];W[pq]C[Now the game is good for White];B[ep];W[ds]
+;B[jm]C[Good];W[ej];B[fc]C[I don't know how to attack,so I leave to see it later when the situation is clearer.
+JH : Good.];W[hc];B[hd];W[id];B[gd];W[ic];B[di]LB[hf:a]C[I think it's time to attack but I don't know how.
+JH : I think you should jump from your stones at "a" to reinforce them and naturally you attack on a big scale.]
+;W[hf];B[hh];W[ef];B[gf];W[gg];B[hg];W[ge];B[gh]LB[he:a]C[JH : Too small. I would play at "a"]
+;W[ff];B[ei];W[ij];B[ji];W[ii];B[jh];W[jj];B[li]C[It looks as if Black cannnot play the hane to block the white stones. So, Black is not so well after the exchange of the upper left corner for the center attack]
+;W[kj];B[mh]LB[lg:a]C[This shape is not good. Playing at "a" might be better]
+;W[lj];B[mj];W[ll];B[ln];W[mk];B[kk]C[Bad as it let White plays the atari that gives Black an ugly shape.]
+;W[kl];B[jk];W[nj];B[mi];W[lk];B[cc];W[cd];B[dc];W[bc];B[bb]
+;W[bd];B[ab]LB[gb:a]C[Wrong move.
+JH : Yes should be played at "a"];W[eb]
+(;B[fb]C[JH : Terrible move !!];W[ec];B[ed];W[cb];B[kd];W[kb]
+;B[nk];W[nl];B[ok];W[oj]C[This move looks like an overplay. It is a good opportunity for Black to recover.]
+;B[pj];W[pk];B[ol];W[pi];B[qj];W[oi];B[pl];W[qi];B[nm]C[Simply taking a stone was very good for Black]
+;W[mm];B[nn]C[Blocking is better.];W[mn];B[mo];W[no];B[ml];W[lm]
+;B[qk];W[qm];B[ql];W[rm];B[ri];W[rh];B[rj]LB[sj:a][lo:b]C[Bad move. The good shape is "a". Black is alive and can attack the White stones after White add a stone at "b"]
+;W[qg];B[rl];W[ih];B[ig];W[jg];B[lo]LB[kg:a][qe:b][kn:c]C[Black must defend in the center as "a" is too good for White. One idea would be to try attacking the White stones with "b" but the game is very difficult for Black.
+Anyway White can still counter with "c" here];W[ki];B[kh];W[kg]
+;B[lh];W[fh];B[gi];W[fi];B[if];W[lf];B[nf];W[je];B[he];W[gf]
+;B[ie];W[ke];B[hj];W[gj];B[hi];W[ik];B[gk];W[gl];B[fj];W[fk]
+C[I lossed.])
+(;LB[ec:a];B[ec];W[fb];B[db];W[gc];B[ea];W[gb];B[ca]C[Black can live.]
+))
+(;B[br];W[dr];B[en];W[fn];B[em];W[gp];B[fm]C[This variation is good for Black according to Ishida as Black is more developped and White is too small]
+))

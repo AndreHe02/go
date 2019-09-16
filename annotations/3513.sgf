@@ -1,0 +1,102 @@
+(;FF[4]GM[1]SZ[19]ST[1]CA[UTF-8]AP[SGFC:1.15]
+
+PB[D55656]
+BR[4k]
+HA[0]
+PW[honk]
+WR[4k]
+KM[6.5]
+DT[2005-06-23]
+PC[IGS-PandaNet]
+RE[W+0.50]
+TM[600]
+
+C[Chris: Hi this a game against a friend on IGS. In the end i won by 0.5 pts. It seems like I made a few mistakes but I cant quite put my finger on it. Any comments are very much appreciated.
+
+Thank you very much in advance.
+
+Chris
+
+crux: Hi, I'm Bernd Schmidt; I'm playing as 2 dan at the local club.  That means I'm not strong enough to tell you what the best moves are, but I hope I can give you ideas what to think about.
+Please use an SGF editor that nicely displays variations - I recommend glGo, gGo, qgo, cgoban1 or Jago.  The KGS client, cgoban2, has some issues.]
+;B[qd];W[do];B[pq];W[dc];B[oc];W[qo]C[Chris: Since I like fighting I wanted to make things a little more complicated than just wedging.
+
+crux: This is perfectly normal - a wedge would allow Black to make two shimaris which is slightly too generous.]
+;B[qm];W[oo]
+(;B[nq]C[Chris: I think this is no good and should be oO4
+
+crux: O4 would be joseki, and I agree there doesn't seem to be a reason not to play it.]
+;W[mo]C[Chris: I thought this was good enough to devalue the right side.]
+;B[lp];W[pk];B[om];W[nm]LB[jp:A]C[crux: I wouldn't play this move right now.  If you go back a little, there's a variation showing the standard corner joseki, and one of the ideas in that sequence may be applicable here - White could play at A to induce black moves that would help White to strengthen his stones.  The game move becomes more efficient if you can make Black force you to play it.]
+;B[ol];W[qh];B[rk]C[crux: This is a bit low.];W[lm]C[crux: Helps your stones, but has no effect on Black.]
+;B[nl];W[jq];B[qq]LB[lo:A][mn:B]C[crux: Somewhat passive.  I'd prefer to play at A, which aims at B next, and protects against White pushing through and cutting.]
+;W[mp];B[mq]LB[lq:A]C[crux: A next is very big for White to solidify the weak group.]
+
+(;W[gp];B[de];W[dh];B[gd];W[ee];B[ef];W[fe];B[dd];W[fc];B[cc]
+;W[ec];B[ff];W[ge];B[bd];W[jd];B[cq];W[dq];B[cp];W[co];B[dp]
+;W[ep];B[eq];W[fq];B[dr];W[dk]LB[lq:A][mc:B][oh:C]C[Chris: Was it right here to go for the left side? I thought i didint have much potential on the bottom.
+
+crux: The game move is quite big, but it doesn't seem urgent.  As far as the bottom is concerned, A is very big since it strengthens one of your weak groups.  B is another big but non-urgent move.  C would strengthen your other weak group, but it is lighter than the other one and can probably take care of itself.
+
+At first I was inclined to agree with the game move, but after thinking about it for a while I think I'd go for A.]
+;B[pi]LB[oe:B][qe:A][qf:D][rd:C]C[Chris: I think I left this group too weak. I am not sure though when to strengthen it.
+
+crux: Strengthen it before its weakness becomes a problem... the trick is knowing when that is :-)
+
+Once you're under attack, the question is how to settle the stones quickly, or give them up in a profitable way.  Personally I'd think about moves like A, B, or C.  Of these, my guess is that C could be best; B probably doesn't turn out well when Black replies at D.]
+;W[og];B[mg];W[qi];B[pj];W[qj];B[qk]
+(;W[qe]TR[qh][qi][qj]C[crux: I think the timing of this is not great, but it's hard to put my finger on an exact reason.  I'd say the marked stones aren't exactly light anymore, which means you must get settled, and I don't think this move helps a lot with making eye shape.  See the variation for a sequence that uses Black's shortage of liberties to escape.]
+;B[rd];W[ph]LB[oj:A]C[crux: Aji-keshi?  I'd still prefer the squeeze starting at A.]
+;B[ni];W[ne];B[le];W[ld];B[me];W[nd];B[md]TR[oc]LB[nc:A]C[crux: On shape grounds alone I'd now play A as White - avoids being sealed in with the next move, gains liberties and damages the marked black stone.]
+;W[pf];B[nc];W[pd];B[pc];W[re];B[sd];W[rj];B[kq];W[jp];B[lo]
+;W[ln]
+(;B[jo]
+(;W[jm];B[io];W[kr];B[lr];W[ko];B[nn]C[crux: Black doesn't gain much with his next two moves.]
+;W[mn];B[on];W[op];B[hd];W[ie];B[he];W[hf];B[if];W[jc];B[gf]
+;W[hg];B[fh];W[cg];B[cf];W[gk];B[ed];W[fd];B[db];W[gb];B[rg]
+;W[qg];B[rh];W[se];B[rf];W[jr];B[oe];W[of];B[nf]C[crux: I guess this is where Black lost the game - taking gote twice while attacking this group while only managing to cut off two stones.]
+;W[ej];B[oh];W[qf];B[il];W[im];B[gl];W[hk];B[ik];W[hl]C[crux: Black has gained nothing here with the last few moves.]
+;B[eo];W[fp];B[bo]
+(;W[cm];B[bm];W[bl];B[cn];W[dn];B[bn];W[dm];B[kk];W[ij];B[kj]
+;W[kg]C[crux: Black's next move looks bigger than this...];B[lc]
+;W[kb];B[je];W[id];B[jf];W[jh];B[fr];W[gr];B[al];W[bk];B[lb]
+;W[la];B[ma];W[ka];B[kc];W[ib];B[mb];W[ki]LB[bf:A][rp:B]C[crux: Smallish.  A or B seem bigger.]
+;B[fj];W[fk];B[ei];W[di];B[ak];W[aj];B[am];W[eg];B[gh];W[df]
+LB[bg:A]C[crux: Better just at A.  Looks like White has more territory, so why complicate things?]
+;B[dg];W[fg]C[crux: This ko threat seems to make winning the ko smaller for White and bigger for Black.]
+;B[gg];W[df];B[ih];W[hc];B[dg];W[oq];B[or];W[df];B[ig];W[gc]
+;B[dg];W[bg]C[Chris: I realised now, that starting the Ko was a mistake.]
+;B[bf];W[jj];B[eh];W[mj];B[mk];W[li];B[lk];W[ng]LB[bi:A][nj:B]
+C[crux: Unless you can threaten to kill the lower group, this move is small.  A is a huge point, and B might be a more serious threat locally.]
+;B[ch];W[ci];B[bh];W[bi];B[ag];W[ok];B[nj];W[nh];B[pl];W[oi]
+;B[oj];W[mi];B[nk];W[rn]C[Chris: Wrong side i suppose.];B[rp]
+;W[eb];B[cb];W[mf];B[od];W[lf];B[nf];W[ne];B[gs];W[hs];B[fs]
+;W[hr];B[gj];W[rl];B[sk];W[rm];B[mm];W[sj];B[ql];W[kd];B[hh]
+;W[he];B[kl];W[hj];B[lq];W[kp];B[km];W[kn];B[ro];W[qn];B[hi]
+;W[ii];B[pn];W[qp];B[pe];W[so];B[rq];W[sp];B[sq];W[sn];B[ea]
+;W[fa];B[da];W[ll];B[ah];W[ai];B[ml];W[ls];B[ms];W[ks];B[nr]
+;W[sl];B[nd];W[nf];B[oh];W[er];B[es];W[oi];B[pp];W[po];B[oh]
+;W[ds];B[cs];W[oi];B[np];W[no];B[oh];W[bp];B[bq];W[oi];B[ia]
+;W[jb];B[oh];W[ap];B[aq];W[oi];B[ek];W[dj];B[oh];W[ao];B[an]
+;W[oi];B[ga];W[ha];B[oh];W[bp];B[ap];W[oi];B[jn];W[oh];B[hm]
+;W[hn];B[gm];W[in];B[jl];W[gn];B[tt];W[tt];B[tt]TB[aa][ab][ac]
+[ad][ae][af][ao][ar][as][ba][bb][bc][be][bg][bp][br][bs][ca]
+[cd][ce][cg][cr][df][dq][ds][eg][er][fg][fi][gi][mc][mr][na]
+[nb][nm][ns][oa][ob][ok][os][pa][pb][pd][pk][pm][pr][ps][qa]
+[qb][qc][qr][qs][ra][rb][rc][rr][rs][sa][sb][sc][sr][ss]TW[bj]
+[cj][ck][cl][dl][ek][el][em][en][eo][fb][fl][fm][fn][fo][ga]
+[gd][gl][gm][go][gq][hb][hd][hm][ho][hp][hq][ia][ic][io][ip]
+[iq][ir][is][ja][ji][jn][jo][js][kh][lg][lh][mg][mh][pg][rf]
+[rg][rh][ri][sf][sg][sh][si][sm])
+(;W[bn]C[crux: This ought to be safe enough.];B[bp];W[cm]))
+(;W[ko]C[crux: Seems like this move to separate Black is quite safe.]
+))
+(;B[ko]C[crux: Ugly, but the only move in this shape (if you must get out).]
+))
+(;W[oj]C[crux: An alternative sequence.];B[oi];W[ni];B[nj];W[oh]
+;B[ok];W[ph];B[pl];W[mh]))
+(;W[lq];B[kq];W[lr]
+(;B[kr];W[kp])
+(;B[kp];W[kr])))
+(;B[np]LB[lp:A]C[crux: The usual move.  The normal continuation has a white move at A, to induce Black to help White strengthen his two stones. A similar idea may have been applicable in the continuation of this game.]
+;W[lp];B[no];W[pm];B[ql];W[nn];B[mn];W[nm];B[lo]))

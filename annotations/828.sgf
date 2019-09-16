@@ -1,0 +1,114 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.13b]
+
+PB[senor]
+BR[8k]
+PW[yfh2]
+WR[8k]
+KM[5.5]
+DT[2002-02-18]
+PC[The Kiseido Go Server (KGS) at http://kgs.kiseido.com/]
+RE[W+12.50]
+RU[Japanese]
+
+C[Note for the reviewer :
+This game was played on KGS, between senor who played black (8k* KGS), and me, as yfh2 (8k* KGS) who played white   I won this game by 12 points.
+I would like to gain understanding of the game development where my analysis was correct, and those where I was wrong.
+I may spread som comments here and there for  enlightening the reason why I played such or such move.
+Also, I think I may have been smarter in the Yose, but don't spend too much time there.
+Thanks.
+
+runski:  I come back to the beginning of the game to write this comment.  After reviewing your game, I think there are three concepts that might help your game.   1.  Don't try to separate your opponent's groups if both of them are already alive.  A stronger opponent will ignore your moves and play else where.  Separate your opponent's groups only if they are weak and you can attack them for profit.
+2.  Don't try to kill your opponent's group if you don't have to.  For groups that are running out to the center, they are more difficult to kill.  Put enough pressure to take profit, but not to kill.
+3.  Before you attack a group, think about how you could profit from it.  Each attack should result some profit.  If you can't see any profit from attacking, then don't do it.  Once you can visualize the profit, then you will know which direction to attack.  Again, killing a group is the exception, not the norm.]
+;B[pd];W[pp];B[dd];W[dq];B[kq]LB[co:A][do:B][jp:D][jq:C]C[Is this josekish by B ?
+runski:  No.  If white has a stone at A, then it is common for black to play at C.  With a corner enclosure at the lower left and a star point at the lower right, an additional move by white at C or D would form a nice moyo at the bottom.  In the game situation, a kikari by black at A or B is more appopriate.  Stopping white from making a shimari (corner enclosure) is bigger than the game move.]
+;W[iq]LB[co:B][do:A][io:C]C[runski: Once you play the game move, a shimari at A or B is very big.  The intent is to make a 3-dimensional framework, so a follow up at C  would gain white good sized territory at the bottom.]
+;B[nq];W[oq];B[np];W[qn]LB[pn:A]C[usually Q6, but I wanted to preserve B from playing R3 later
+runski:  There is always a trade off.  A puts more pressure on black.  The game move is fine, but just keep in mind the corner is still invvadable.  Please see the variations.]
+
+(;B[po];W[qo];B[pn];W[jo]LB[co:A]C[idea was to start a moyoish shape on lower left by pressuring B.
+runski:  A is bigger.  One way to build a moyo is starting with a corner enclousre (unless it is a star point), and then extending to both sides.  If black gets to play A first, your moyo will be flattened out.]
+;B[op]LB[qq:A]C[runski:  This is aji-keshi.  It eliminates the possibility of invading at A.]
+;W[pq];B[pm];W[cj]LB[co:A][do:B]C[continuation of the idea
+runski:  Again, A or B is bigger.];B[do]LB[dl:A][co:B]C[runski:  You played at A next.  This is the wrong direction.  Try to deny black a base and force him to run.  Make profit along the way.  Please see variation.]
+
+(;W[dl];B[cq];W[cr];B[cp];W[er];B[bm];W[fd]LB[fc:A][cf:B]TR[bm]
+C[I wanted to use the C10 stone
+runski:  Your game move is in the right direction.  A kikari at B would be wrong because of the marked black stone.  White can't expect to make much territory on the upper left side.  On the other hand, A is the normal move for the approach.  Your game move is a special purpose move.  The idea is to avoid a pincer by black, but it has less profit and it is more difficult to settle.  Unless you believe a pincer by black is bad for white, A is better.]
+;B[cg]LB[cf:A]TR[cj]C[isn't this too loose ?
+runski:  I would prefer A given the marked white stone.];W[ff]
+;B[dh];W[fl];B[cl];W[ck]LB[dk:A]C[runski:  A is better.];B[dk]
+C[I had seen that, but I had not calculated enough to make sure D8 would live]
+;W[dj];B[ek];W[ej];B[el];W[fk];B[em];W[gi]C[but I was not dissatisfied. Is the trade off OK ? Or do I lose too much in comparison of the center influence I get ?
+runski:  This exchange is good for black.  Black gets good profit and now his group is settled.  He also gains sente.]
+;B[ec];W[fc];B[eb];W[fb]LB[gb:A]C[runski:  This is small at this time.  If black jumps in at A, white could push it down on the second line while building thickness.]
+;B[fh];W[eg];B[eh];W[ce]C[I thought I could make something with Black's loose shape ...]
+;B[de];W[cf];B[df];W[dg];B[ch]LB[bg:A]C[runski:  A is better for black.]
+;W[bg];B[bh];W[cd];B[cc];W[bc];B[bf];W[be];B[ag];W[cb];B[db]
+;W[ad];B[bb];W[ca];B[ba];W[dc];B[fg];W[cc];B[ef];W[ed]LB[fi:A]
+[qp:B]C[I think I was lucky in the end. Black might have had some more severe answers than the ko.
+I did not explore a lot, I did not find a good Black move, but I assume there are several.
+runski:  A and B are more severe threats.];B[gf]C[runski:  This is small.]
+
+(;W[pf]LB[nc:A]TR[fb][fc][fd]C[side OK ?
+runski:  This is the wrong side for approaching the corner.  Because of the circle stones, the right side is small.  White can't expect to make a large territory on the right because it is pushed low.  A is the right direction.  Besides, it works well with the thickness created by the triangle stones.]
+;B[nd];W[qd];B[qc];W[qe];B[pc]LB[qf:A]TR[pf]C[runski:  With respect to the earlier comment that a high approach move by the triangle stone is only applicable in special cases, please see variation to find out why A is better.]
+;W[qj];B[lo];W[kd]C[I wanted to prevent later connexion of B upper right and left groups, and put the right group under pressure.
+runski:  All 4 black groups are alive, so there isn't any need to stop them from connecting.]
+;B[jp];W[ip];B[io]
+(;W[in]LB[jn:A]TR[do]C[Is it the good direction ?
+The idea there was to assume I could get J3 connected with E2, and K5/J6 would work with F8.
+Otherwise (J6 at H5), I feared black moyoing too much.
+runski:  No.  It is unlikely white can capture the cutting stone because black has reinforcement with the triangle stone.  Simply extend at A.  Please see variation.]
+;B[ho];W[hn];B[go]
+(;W[jq]LB[kr:A]C[just strenghtening J3, just in case ...
+runski:  A is better.  Please see variation.];B[kp];W[jn]LB[jm:C]
+[jn:B][gq:A]C[runski:  A is necessary.  If black cuts at B, simply atari at C.]
+;B[gq];W[fq];B[gr];W[fo];B[hq];W[gn];B[ir];W[en];B[dm];W[fm]
+;B[qm];W[rm];B[rl];W[sn];B[qk];W[pj];B[nf];W[nm]LB[lm:A]C[moving either up or left
+runski:  A is the critical point.  If white plays there, white has good potential to make more territory at the center.  If black gets there first, he increases his potential of making more territory at the bottom.]
+;B[nn];W[mm];B[ol];W[ln]C[this is bad. Should have been O11
+runski:  O11 is not urgent.  I assume you wanted to separate black's upper and lower groups.  Since both groups are alive, there is no profit in separating them.]
+;B[mn];W[kn];B[nk];W[ni]LB[lk:A]C[runski:  Let black connect.  It's simply a dame point for him.  A lets white make some center territory.]
+;B[mj];W[mi]C[runski:  Wrong direction.  You are driving black to your potential territory.]
+;B[ll];W[lm];B[lj];W[nl]LB[pk:A]C[runski:  A allows black to connect.]
+;B[om];W[ok];B[li];W[nj]C[I thought of M12, but I was unsure it would work ...
+I knew then B would escape];B[lh];W[ng];B[mf];W[mg];B[lg];W[lf]
+;B[le];W[kf];B[ke];W[jf];B[je];W[ig];B[ih];W[ie];B[jh];W[jd]
+;B[hf];W[me]C[at this time, I gave up the idea to kill M10, and played it safe]
+;B[ld];W[ne];B[md];W[of];B[if];W[jg];B[hh];W[hd];B[kc];W[jc]
+;B[kb];W[jb];B[mb];W[fe];B[gh];W[kk];B[rj];W[ri];B[si];W[rh]
+;B[fj];W[fi];B[gj];W[hj];B[hi];W[gk];B[ij];W[ik];B[jj];W[jk]
+;B[mk];W[sh];B[sj];W[bq];B[bp];W[ar];B[or];W[pr];B[nr];W[sl]
+;B[rk];W[rc];B[rb];W[sd];B[ps];W[qs];B[os];W[rr];B[kl];W[jl]
+;B[bk];W[ro]LB[sk:A]C[runski:  This is too early.  Wait until black starts making his move at A.]
+;B[bj];W[kj];B[ki];W[sb];B[ra];W[hg];B[gg];W[he];B[ja];W[ia]
+;B[ka];W[ib];B[kg];W[mf];B[pk];W[oj];B[fr];W[ep];B[ap];W[aq]
+;B[ge];W[gd];B[mh];W[nh];B[gp];W[fp];B[dn];W[dp];B[ci];W[ei]
+;B[af];W[ae];B[od];W[fs];B[jr];W[gs];B[hs];W[es];B[km];W[jm]
+;B[eo];W[fn];B[ko];W[ml];B[lk];W[tt];B[pe];W[qf];TW[aa][ba]
+[da][ea][fa][ga][ha][ab][bb][db][eb][gb][hb][ac][ec][gc][hc]
+[ic][sc][bd][id][rd][re][se][nf][rf][sf][og][pg][qg][rg][sg]
+[oh][ph][qh][oi][pi][qi][fj][gj][hk][gl][hl][il][gm][hm][im]
+[sm][rn][so][qp][rp][sp][eq][qq][rq][sq][br][dr][qr][sr][as]
+[bs][cs][ds][rs][ss]TB[la][ma][na][oa][pa][qa][lb][nb][ob][pb]
+[qb][lc][mc][nc][oc][bg][dg][eg][ah][kh][ai][bi][ii][ji][aj]
+[ak][al][bl][dl][pl][ql][am][cm][an][bn][cn][on][ao][bo][co]
+[mo][no][oo][hp][ip][lp][mp][iq][jq][lq][mq][hr][kr][lr][mr]
+[is][js][ks][ls][ms][ns])
+(;W[kr];B[lr];W[jr];B[lq];W[gq]LB[jm:B][jn:A]TR[jo]C[runski:  The triangle stone is unimportant.  If black cuts at A, simple atari at B.]
+))
+(;W[jn];B[ho];W[gp];B[go];W[fp];B[fo];W[jl]LB[lq:D][jr:C][kr:A]
+[lr:B]C[runski:  Later white play the A to D sequence to make more profit.]
+))
+(;W[qf];B[nd];W[rd];B[qc];W[qi];W[rc]C[runski:  Later white can play here and is pretty much sente.  Please compare this variation with the game moves to see the difference in territory.  If black ignores this move, please see the following moves.]
+;W[oc];B[od];W[qb];B[pc];W[pb];B[nc];W[ob]C[runski:  White gains even more here.]
+))
+(;W[co];B[cn];W[cp];B[fn];W[dm];B[dn];W[fp]C[runski:  White has solid territory at the bottom.  At the same time black has a weak group and it will be a liability.]
+))
+(;AB[qq]C[runski:  Black can't invade at this time.  He needs some reinforcement.]
+PL[W];W[or];B[ro];W[rn];B[qo];W[po];B[pn]LB[pl:B][ql:A]C[runski: Once black has some stones around A or B, the corner becomes invadable.]
+)
+(;AB[po]C[runski:  This is another way to invade the corner.]
+PL[W];W[qo];B[qq]LB[pl:D][ql:E][om:C][qp:A][pq:B]C[runski: White can connect at A or B.  If at A, black takes B and links under.  If at B, black cuts at A.  Again, the invasion is premature at this time.  Black needs some reinforcement around C, D, and E first.]
+))

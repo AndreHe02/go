@@ -1,0 +1,233 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.14]
+
+GN[C_GTL_~1]
+PB[slade]
+BR[14k]
+PW[inimino]
+WR[12k]
+KM[0.5]
+DT[2003-05-12]
+PC[The Kiseido Go Server (KGS) at http://kgs.kiseido.com/]
+RE[B+Resign]
+RU[Japanese]
+
+C[Hello,
+
+This is a game between White inimino[12k\], and I Black slade[14k\]. This game was played on kgs and it involves a large fight that spans most of the board. Here are some of the things I would like answered:
+
+For White:
+White makes some mistakes in killing black what were they?
+
+For Black:
+Black was forced into a fight that really was in benefit for white. How could of black stopped this fight to begin with?
+
+And of course any other comments are welcome.
+
+Thanks in advance,
+ Slade];B[dp];W[pd];B[dd];W[pq];B[nc];W[qf];B[kc];W[cn];B[jp]
+C[Should  White prefer C14 over F17?
+Are there other moves that are better than either?];W[fc];B[dj]
+;W[cf]
+(;B[ee]C[The opening moves have been quite reasonable so far.  Playing this move at F16 is doable, but I'm not sure it's any better than this move.]
+;W[fq]
+(;B[eo]TR[dj][ee]C[At this point, I'd prefer D13 to connect the marked stones and contain the white stone. Even if white attacks the stone at D4, I think that stone can live or get out.]
+;W[cj];B[dk];W[cl]
+(;B[ci]C[I think black should push through at C9.  You should be able to separate the white stones and weaken one side or the other.]
+;W[dl]
+(;B[dh];W[pk]TR[cj][cl][dl][cn]C[White left the fight on the left a little early since the marked stones are not secure.]
+;B[eq];W[cq];B[fp];W[cc];B[cd];W[dc];B[hc];W[qo];B[ec];W[eb]
+;B[bc]C[Maybe connecting at e16 would have been better?
+
+Yes.  White might live, but at least black is solid.];W[bb]
+;B[bd];W[ed];B[gd]C[Protecting the cut at D15 is more important.  Either D15 or D14 would be better moves here.]
+;W[ef]C[What is the best move for black here?
+
+Definitely D15 would be better than the move played.]
+(;B[ff]C[Looks like a black mistake maybe d15 instead?
+
+Yes, see variations.];W[de]C[Now it's going to be more of a struggle for black.]
+;B[fe];W[eg]
+(;B[cg]TR[bc][bd][cd][dd]C[B plays on the wrong side and lets W capture the four marked stones.  See variation.]
+;W[bf];B[cp];W[bp];B[bo];W[dr]
+(;B[er]TR[cn][cl][dl][cj]C[B could capture at B3 (see var.). This would threaten the marked stones.]
+;W[aq]C[This should probally be W B2.];B[br];W[fr];B[ds];W[iq]
+;B[jq];W[co];B[bq];W[ip];B[io];W[ho]C[Here starts a fight the result of this fight starts the huge fight. Maybe something can be done here to prevent that fight?
+
+It might be better for B to not try so hard to kill the W stones here.  If B can live in the center at the bottom and split W's two week groups in the lower left, he may gain more.  See variations.]
+
+(;B[hp];W[gp];B[hq];W[ir]
+(;B[go]C[B can push down at H2 (see var.) and capture the three stones on line J.]
+;W[hn];B[hr];W[jr];B[kr];W[jo];B[in];W[kq];B[kp];W[lr]
+(;B[lq]C[L1 it probably better -- see var.];W[ks]
+(;B[mr]TR[ip][iq][ir][jr]C[Connecting at L3 looks like bad shape for B, but W is too weak to take advantage of it so B can still capture the key stones (marked) -- see var.
+
+Starting a ko here is unnecessary.];W[kq]
+(;B[mp]C[maybe the solid connection at m4 is better?
+
+That doesn't work very well after a W move at O2 but may be better than this.  (See var.)  Best might be to start the ko immediately. (See var.)]
+;W[ko];B[lp];W[im]C[This is bad news for B since the W stones escape.]
+
+(;B[kn]C[This is not an effective move.  M6 or N6 look better.]
+;W[jn];B[ln];W[lo];B[mo]
+(;W[ml]C[I'm not sure of the purpose of this move.  Just cutting at N6 would seem more direct -- see var.]
+;B[on]C[This seems off the mark since it doesn't actually defend the cut at N6.  (See var. on the next move.)]
+
+(;W[pm]C[What about W L8 instead?
+
+L8 would defend W's bottom center group, but I don't think that necessary yet.
+
+What about the cut at N6?  I think it still works for W -- see vars.]
+;B[kl]C[The cut at N6 is still undefended although perhaps not quite as effective for W now.]
+;W[ll];B[km];W[hs];B[gq];W[gr];B[gp];W[is];B[el]C[Separating W's two groups and attacking the one on the left is a good idea, but B's group in the lower right is too weak for B to leave just yet.]
+;W[kk];B[jk];W[jl];B[kj];W[lk];B[il];W[jm]C[What about W N6 instead?
+
+Since this move makes N6 even more of a threat, I think this is fine for W.]
+;B[mn];W[kr];B[hk]
+(;W[hl]C[W could have played O3 first -- see var.];B[ik];W[io]
+;B[nq];W[or]C[What about W N15 instead?
+
+This move is sente for W so it seems reasonable to make forcing moves here since B only has one eye.
+
+I'm not sure N15 is such a good move for W anyway.];B[oq];W[pr]
+;B[qn]C[This seems like a chancy move for B since he still doesn't have two eyes.]
+;W[pn];B[po]
+(;W[pp]C[What if W had played P5 instead?  (See var.) It seems like B could get in trouble here.]
+;B[oo];W[op];B[qm];W[qp];B[ol];W[pl];B[nk];W[nj];B[nl];W[mj]
+;B[oj];W[pj];B[lj];W[mk];B[oi];W[mh];B[ok];W[qh];B[og]C[i];W[nh]
+;B[oh];W[nf];B[of];W[ne];B[od];W[oe];B[pe];W[pf];B[pi];W[qi]
+;B[qj];W[qk];B[rj];W[rk];B[ng];W[mg];B[mf];W[kg];B[qe];W[qd]
+;B[re];W[me];B[qg];W[rf];B[ri]C[Here is where white gets into trouble i was really worried about W S12 being played. Are my fears justified?
+
+Things get very complicated if W plays S12 (see var. on next move), but I'm not sure W comes out any better off.]
+
+(;W[rg]C[luckily for me this happened];B[rh];W[pg];B[ph];W[rd]
+TR[pn][pm][pl][pk][pj][qk][rk][qj][rj][ri][rh]C[B saves his marked stones, but W doesn't have to worry about the corner.  This could be a fair trade if W can save his marked stones.]
+;B[qg]
+(;W[qh]C[This is a wasted move.  Either W should capture at M14 or try to save his stones in the middle right side.  Is that possible?  Yes, I think so -- see vars.]
+;B[sj]C[T10 looks like the killing move for black can white do anything about it at this point?
+
+I think the move at S7 still saves W.]
+(;W[sh]C[This is another wasted move.];B[rl];W[rn];B[sl];W[lf]
+;B[bj];W[bn];B[ap];W[bk];B[ck];W[em];B[fl];W[fm];B[gm];W[gn]
+;B[fn];W[en];B[gl];W[fo];B[df];W[dg];B[fn];W[sm];B[ql];W[fo]
+;B[cb];W[ca];B[fn];W[rm];B[sk];W[fo];B[ro]C[This is not really a ko threat since W can't do anything to save those three stones anyway.  B would be better off connecting at E4.  Then W could end the ko by connecting at F6 (in which case B can still play S5 and capture those three stones) or W could save his three stones by playing S5 (in which case B can continue the ko).]
+;W[ep];B[rp];W[rq];B[rr];W[sp];B[sn];W[qr];B[sr];W[rs];B[so]
+;W[ms]C[and white escapes can you think of anywhere where black could have played n1 in sente?
+
+No.  I think that no matter what B does, W should be able to live or connect.  But nice try anyway.]
+;B[ns];W[nr];B[ls];W[os];B[sq];W[mc];B[mb];W[lc];B[lb];W[oc]
+;B[ld]C[Given that B loses this stone, it's probably not a useful move.]
+;W[md];B[ob];W[nd];B[pb];W[nb];B[na];W[kd];B[jd];W[ke];B[jc]
+;W[gg];B[ih];W[hi];B[gj];W[ii];B[hh];W[gi];B[gh];W[fi];B[fg]
+;W[fh];B[eh];W[df];B[ji];W[jh];B[hf];W[if];B[hg];W[hb];B[gb]
+;W[gc];B[ib];W[hd];B[ic];W[ie];B[bg];W[af];B[ae];W[ge];B[ag]
+;W[fd];B[gf]C[and white resigns.
+
+Thank you for reviewing my game.
+
+Overall, both sides played reasonably well.  White just made a few more mistakes.]
+)
+(;W[rm];B[rn];W[rl];B[ro];W[rp];B[sm];W[so];B[sk];W[sl]C[I think this still works for W.]
+))
+(;W[rm]C[I think this works for W -- see following vars.];B[rn]
+
+(;W[ro];B[rl]
+(;W[ql];B[sm];W[sk];B[sl];W[so];B[om]C[W is short a liberty.]
+)
+(;W[sm];B[sl]
+(;W[ql];B[sn]C[No good for W.])
+(;W[sk];B[sn]C[Doesn't work for W.])))
+(;W[rl]
+(;B[ro];W[rp];B[sm];W[sl]
+(;B[sn];W[ql]C[This does work for W.])
+(;B[om];W[so]C[Works for W.]))
+(;B[sm];W[ro];B[sk];W[sl];B[sn];W[so]C[Works for W.]))))
+(;W[rh];B[rg];W[pg];B[sg];W[sh]C[W looks OK here, but B may be able to take the corner although it's complicated.]
+;B[rd]
+(;W[rc];B[qc];W[pc];B[qb]
+(;W[rb];B[pb])
+(;W[pb];B[rb]))
+(;W[qc]C[This variation gets complicated and W may be able to get a seki or ko.]
+;B[rc];W[qb];B[rb];W[oc];B[nd];W[ob];B[nb];W[ra];B[pa];W[pb]
+;B[qa];W[oa];B[qa];W[pa];B[sb];W[se];B[sd];W[sf];B[na]C[Seki, I believe.]
+)))
+(;W[oo];B[pp];W[op];B[qp];W[qm];B[ro];W[nn];B[om];W[nm];B[ol]
+;W[no]C[Could be bad for B.]))
+(;W[nq];B[nr];W[oq];B[mq];W[hl];B[ik];W[io]C[W is alive (as before), but now B is in big trouble in the lower right.]
+))
+(;W[mn]
+(;B[nn];W[mm]TR[kn][ln]C[This pretty much captures the two marked B stones and B's stones in this area still don't have two eyes.]
+)
+(;B[mm];W[nn]
+(;B[nm];W[no]
+(;B[oo];W[np];B[mq];W[op]C[Looks very bad for B.])
+(;B[np];W[oo];B[op];W[po];B[pp];W[qp]MA[lm][om]C[B will have to struggle to live and has left too many cutting points (marked) for W.]
+))
+(;B[no];W[nm];B[om];W[lm];B[op]C[B still doesn't have two eyes and W doesn't have that much to worry about.]
+))))
+(;W[mn]
+(;B[nn];W[mm];B[oo];W[km]C[B still has to worry about living and W gets good shape and outside influence.  I don't think B will get much from threatening the W stones in the lower right corner.]
+)
+(;B[mm];W[nn];B[lm];W[nq];B[mq];W[oo]C[B's in trouble.  Fighting the ko may be his only hope now.]
+)))
+(;B[ln];W[lo];B[mo];W[jn];B[mm]))
+(;B[lp]C[This leaves W the move at O2.];W[nr]
+(;B[ms];W[mq];B[nq];W[mp]C[B now has to fight the ko.])
+(;B[nq];W[ms];B[mq];W[or]TR[jq][jp][kp][lp][lq][mq][nq][mr]
+C[W gets away unless B can win the ko.  If W gets to play K6 and then wins the ko, B's stones (marked )can come under attack.]
+)
+(;B[mq]C[B could play solidly, let W save his stones, and then B can take compensation on the outside.]
+;W[ms];B[jn];W[ko];B[ln]C[This lets W save his stones, but B gets good shape and outside influence.]
+))
+(;B[kr]C[This forces W to fight the ko.];W[im];B[jn];W[ko]C[At least this move isn't an atari now.]
+;B[lo];W[kn];B[jm];W[kq];B[lp]C[W can't just fil the ko since this is still not a live group.]
+;W[nr];B[kr];W[ms];B[ls]C[Now it's a two step ko for W.];W[km]
+;B[jl];W[lr];B[mq];W[kq];B[nq];W[or];B[kr]C[It's hard for me to predict how the ko will come out, but it seems better for B.]
+))
+(;B[kq]
+(;W[mr];B[mq];W[nr];B[is]C[B captures and connects his stones.]
+)
+(;W[js];B[mr];W[ls];B[ms])))
+(;B[ks]
+(;W[ls];B[lq])
+(;W[lq];B[is])))
+(;B[hr];W[jo];B[in];W[jr];B[kr];W[kq];B[kp];W[lq];B[lr]
+(;W[lp];B[ko])
+(;W[mr];B[is])
+(;W[ko];B[lp];W[mq];B[lo];W[mr];B[is])))
+(;B[jo];W[gp];B[mq]TR[cg][dh][ci][dj][dk]C[Neither of the W groups in this corner are quite alive yet so B may be able to profit by keeping them separated.  Unfortunately, B's own stones on the left (marked) could come under attack.]
+))
+(;B[bq];W[br];B[ap];W[er];B[gq];W[fr]C[W lives in the corner, but it's a small territory. B can now attack the white stones on the left side.]
+))
+(;B[ab];W[ba];B[bf]
+(;W[cg];B[bg];W[ch];B[bh];W[bi];B[di];W[bj];B[ce];W[df];B[ae]
+TR[ch][cg][cf][df][de][ef][eg][dh][ci][di][dj][dk]C[B lives. The marked stones are in a battle, but I think B is probably better off.]
+)
+(;W[bg];B[ce];W[df];B[cg];W[af];B[be];W[bh];B[bi];W[ch];B[dg]
+;W[eh];B[di];W[ai];B[ag];W[ah];B[aj]C[Bad for W.])
+(;W[bi];B[cg];W[bh];B[bg];W[ch];B[di];W[dg];B[bj]C[Bad for W.]
+)
+(;W[be];B[ce];W[df];B[ae]C[B can live or connect.])))
+(;B[de]
+(;W[fe];B[fd];W[ec];B[df]C[Not good for white.])
+(;W[df]
+(;B[ff];W[fe];B[fd];W[ge];B[he];W[gf];B[fg]
+(;W[ec];B[hg])
+(;W[hf];B[ec]C[It's hard to say how the ko would turn out, but black has threats at J15, A18, and B13 so I think black has a good shot at winning it.]
+))
+(;B[fe]TR[dh][ci][dj][dk]C[A good solid move for black to avoid the ko from playing at F14.  White could then put pressure on the marked black stones, but the cut at C9 leaves black in a better position than white.]
+))))
+(;B[ck];W[bj];B[bk];W[bi];B[ch];W[bh];B[cg];W[bg];B[df];W[ce]
+;B[co]TR[cn][cl][dl]C[The marked white stones can, of course escape, but then black can put a lot of pressure on the white stone at F3.
+
+It does leave the white push at D15 and cut at E14 or E16 (see continuation), but I believe that black should be able to either live in the corner or capture the stone at F17.]
+
+(;W[fl])
+(;W[de];B[ed];W[ef];B[dg];W[ff])))
+(;B[ck]
+(;W[bk];B[bj]
+(;W[bl];B[ci])
+(;W[ci];B[bl];W[bi];B[ak]))
+(;W[ci];B[bk])))
+(;B[dg];W[eo];B[cq]))
+(;B[fd];W[gd];B[fe];W[ec];B[de];W[ic];B[dc]))

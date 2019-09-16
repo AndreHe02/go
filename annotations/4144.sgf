@@ -1,0 +1,213 @@
+(;FF[4]GM[1]SZ[19]ST[0]CA[UTF-8]AP[SGFC:1.15]VW[]
+
+GN[krinid-scotth-20060419.sgf]
+PB[scott hanks (scotth)]
+BR[12k]
+HA[0]
+PW[krinid (krinid)]
+WR[12k]
+KM[0.5]
+DT[2005-11-30,2006-04-19]
+PC[Dragon Go Server: http://www.dragongoserver.net]
+RE[W+3.50]
+RU[Japanese]
+GC[Game ID: 167052]
+
+C[Note from submitter (krinid):
+I'm playing white in this game.
+
+This is a game I won, so it's not a request for a review to see how I might have won, but rather to see where I might have played better.  I don't feel I made any big mistakes in this game (but please tell me if I did) but I do think there are a few places I may have played better.  I think I played relatively well in this game, so anything you can point out would be a good reflection on where I have areas to improve on.
+
+In particular, I'm interested in moves I could have played better to improve my shape, style, territory, misplays, overplays, missed opportunities, played an ooba instead of a kyuuba, played in the wrong ooba, order of play, sente/gote, joseki/tesuji misplays or completely missing the potential to play them, etc, in general, regardless as to whether they would change the outcome of the game or not.  I'm interested in the flow of the game and patterns or ideas I may have missed.  eg: if there was some way to have invaded black's left side.
+
+Thanks in advance for the review.
+
+krinid];B[pd];W[dp];B[oo];W[dc]C[So far all looks normal, although of course the black 5-5 is a little exotic]
+;B[de];W[fd];B[ff]C[this is an abnormal move for black, i see no advantage in leaving the joseki here, black creates himself a cutting point and isn't particulary strong, he gives you some territory and loses sente]
+;W[jc];B[dj]C[black has a high position, half strong, half points..]
+;W[pp];B[oq]C[again an onorthodox move of black, however it does seem to bring him what he wants, i can see]
+
+(;W[po];B[pn]
+(;W[qn]C[After some considerations, (most variations are added in this .sgf) I think your moves so far are the best.]
+;B[pm]
+(;W[qm]
+(;B[ql]C[so i think that pushing there allready was too early, however your result is quite nice]
+;W[op];B[no]TR[np]C[the cut must be too early, since your response after  that seems ok, but, giving away O4 is very unfortunate]
+
+(;W[pl];B[qk];W[ol];B[nm]TR[oj]C[i think the right direction here is up, however, it is all a big pity, because now you have a group running away from black, who has created real thickness]
+
+(;W[nl]
+(;B[np];W[mm];B[om];W[pq];B[or];W[pr];B[mq]C[ok , the corner is still big, but it could have been better ;)
+
+black's group looks secure now, white's four 'cutting' stones do not..]
+;W[nc]C[i am not sure about this move,];B[oc];W[qf]C[this is a nice reaction though, it seems that this helps your weak group]
+;B[nd];W[mc];B[md];W[ld];B[qe];W[qi];B[pi];W[qj];B[qh]C[you let yourself get squeezed totally here, it is ashame, just pop out into the center..]
+
+(;W[pk];B[pj];W[rk];B[ri];W[rj];B[ph];W[mk];B[mi];W[jp];B[cn]
+;W[gq]C[krinid:
+I'm trying to protect my d4 hoshi stone, connect to the k4 stone and take territory on the bottom.  Is this a good move?  Is there something better?]
+;B[eo]
+(;W[bp]LB[cq:C][fq:B][ep:A]C[krinid:
+Is b4 a good way to stop black from advancing into the corner? Against stronger plays, I've seen a lot of plays under my stones like black c3 or e3 and I'm not sure how to respond to those, really.
+
+ThorAvaTahr:
+Yes and no, in fact black has a hard time getting into your corner, but he can be totally satisfied by just seperating and cutting your groups, starting with A as he does, however i'd prefer B. (i've given some variations. 
+
+Splitting you here is enormous and could decide the game at any point from now.
+
+A better move would have been C]
+(;B[ep];W[eq]
+(;B[le];W[kd];B[ke];W[hd];B[cd];W[cc];B[bc];W[bb];B[bd];W[kr]
+TR[gn][gk][hg]SQ[dq]C[this is bad move, maybe your intention is to kill the black group, but instead you make it alive and strong, while obtaining only af few points along the side,
+
+it is better to first seal of all the exits, before attacking this groups, especially because black is playing a moyo game, you need to reduce the influence of the black moyo's. When you do this you automatically seal of blacks escaping plans and may have an excellent fight in the future.
+
+(see the marked points are alternatives, all reducing black's moyo and cannot be cut)
+
+of course the best move still is defending the cutting point at D. When black can cut he gains about 20 points (10 in the corner and 10 because he doesn't need to seal of the side anymore)
+
+when you defend you get about the same, meaning that this corner is more than 30 points big, nowhere else on the board there can be found that many points...]
+;B[lr];W[os];B[ns];W[ps];B[nr];W[ij]TR[hg][gj][gn]SQ[dq]C[krinid:
+Is this a good play?  I'm always confused about when is a good time to play tengen (or somewhere near it).  I've experimented with it, and while I find I don't necessarily gain much by playing there (ie: I don't seem to be able to make much territory from it), I find that my opponents sometimes make a good deal of centre territory (usually in the centre itself or stretching up to a hoshi) by playing it, so I've become accustomed to playing it just to block my opponent from gaining an advantage from it. In general, I figure when there are no kyuuba or ooba left, it's time to start considering tengen (not necessarily time to play it, but to start thinking about it).
+
+ThorAvaTahr:
+As I said, this is a good idea. However your reasoning is not so good. Your move is NOT about making points in the center, in fact there hardly are any points in the center.
+
+First of all, let's count.
+White:
+In the lower right corner: 25 secure territory.
+Upper side: 20-25 points relatively secure territory
+Lower left corner: 2 points if cut (2 eyes ;) )
+                             20-25 points if defended.
+
+
+Black:
+Upper right: 30 points
+Left side:   30 points if no cut at D3/F3
+                  50 points if cut..
+
+Ok, so naturally again the marked point is the biggest on the board, but when this cut is not taken into acount this means that you are ahead by about 10 points.
+
+So what you need to do is play without risk and just calmly try to reduce your oponents territory.
+
+
+Since black has a big moyo on the left side, it is natural to want to reduce this, this can be done by either an invasion or, by placing stones near black's influence to counter this influence and to reduce territory. These latter stones must ofcourse by thereselves be secure, otherwise they are just captured and added to black's territory. However the marked triangles are very well suited to reduce black. since there is a hole (in blacks wall) on the upper side, the right side and the bottom side there are plenty of ways to escape with and any of the marked stones are safe.
+
+An invasion is off course full of risk, and since you are ahead, you need to avoid risks, so no invasion here...]
+;B[gj]C[As you can see your stone was not deep enough, because black could easily play this stone and enlarge his moyo]
+;W[im]LB[gm:A]TR[hh][hg][bn][do][fl][gl][fm][gn]C[this stone is wrong, it seems as if you are trying to make territory in the center, that is not good, it costs far too much effort to build territory in the center and it is much easier to reduce black, for example by playing A yourself]
+;B[gm];W[hh]C[this is a good move, reducing black];B[gh];W[ch]
+C[krinid:
+I realized when I did this that it was all but impossible to live here with this play, but is there some way I could have invaded this territory?  Or would I have had to have invaded earlier?
+
+ThorAvaTahr:
+Off course as said before, you are ahead, so no invasion is necessary, nor advisable, too much risk.
+
+Second off all, it is very unwise to first close all the exits (the last three moves closed black's moyo) and invade after that. It is unwise to enter a locked cage.]
+;B[ci]C[krinid:
+And this play just confirmed the impossibility of it for me. I tested him, he responded correctly, I gave up the invasion.
+
+ThorAvaTahr:
+Good self control ;)]
+(;W[kj]TR[gg][gi][gl][bn][am][fn][kg][lh][ee]C[ThorAvaTahr:
+However your alternative is not good, are you still trying to build territory in the center?
+
+Try the marked stones];B[kh];W[lo];B[mn];W[ln];B[gp];W[fq];B[kq]
+;W[jq]C[krinid:
+Which is better, white K3 or white K2 (or something else)?  I've played through a few K2 variations, but they get fairly complicated unless there's a good response for white that I've missed.]
+;B[jr];W[ir];B[ks];W[hp];B[il];W[jl];B[ik];W[jk];B[hm];W[in]
+;B[hn];W[rh];B[rg];W[si];B[do];W[cp];B[bo];W[hf];B[kp];W[ko]
+;B[lp]C[krinid:
+It's pretty much all end game from here on in.  Let me know if I missed any moves or messed up the order at all.  I try to take notice and play double sente moves first, then sente moves, then reverse sente moves and finally double gote moves, but my order may be off a bit.]
+;W[nb];B[ob];W[oa];B[pa];W[na];B[pb];W[rf];B[qg];W[sg];B[pf]
+;W[re];B[rd];W[sf];B[sd];W[sh];B[ab];W[ba];B[hi];W[ih];B[ge]
+;W[he];B[gd];W[gc];B[ed];W[ec];B[fe];W[fc];B[je];W[li];B[lh]
+;W[mj];B[ni];W[go];B[fp];W[ho];B[fn];W[gg];B[fg];W[hk];B[hl]
+;W[hj];B[gk];W[ii];B[gi];W[is];B[js];W[jg];B[kg];W[jf];B[kf]
+;W[jd];B[gf];W[ie];B[hg];W[nn];B[on];W[mo];B[mp];W[ap];B[co]
+;W[ao];B[an];W[ig];B[gg];W[nj];B[oj];W[ok];B[lm];W[nn];B[ki]
+;W[lj];B[mn];W[ml];B[nn];W[dd];B[ee];W[ji];B[ac];W[gn];B[fm]
+;W[io];B[ce];W[cb];B[tt];W[tt]TB[qa][ra][sa][qb][rb][sb][pc]
+[qc][rc][sc][ad][od][qd][ae][be][me][ne][oe][pe][af][bf][cf]
+[df][ef][lf][mf][nf][of][ag][bg][cg][dg][eg][lg][mg][ng][og]
+[pg][ah][bh][ch][dh][eh][fh][mh][nh][oh][ai][bi][di][ei][fi]
+[oi][aj][bj][cj][ej][fj][ak][bk][ck][dk][ek][fk][al][bl][cl]
+[dl][el][fl][gl][am][bm][cm][dm][em][bn][dn][en][lq][nq][kr]
+[mr][ls][ms]TW[ca][da][ea][fa][ga][ha][ia][ja][ka][la][ma][db]
+[eb][fb][gb][hb][ib][jb][kb][lb][mb][hc][ic][kc][lc][id][if]
+[ri][jj][sj][kk][lk][nk][qk][sk][kl][ll][ql][rl][sl][jm][km]
+[lm][rm][sm][jn][kn][rn][sn][jo][qo][ro][so][ip][qp][rp][sp]
+[aq][bq][cq][dq][hq][iq][qq][rq][sq][ar][br][cr][dr][er][fr]
+[gr][hr][qr][rr][sr][as][bs][cs][ds][es][fs][gs][hs][qs][rs]
+[ss]C[krinid:
+Thanks for the review!
+
+ThorAvaTahr:
+I lost my comments once, i had some more comments on the endgame, but i think you got the main idea, I hope i helped and you learned something. Also people on the internet, i hope you enjoyed my comments.
+
+Bye])
+(;W[gk];B[hk]
+(;W[gg];B[fh];W[fg];B[eg];W[eh];B[ef];W[fj];B[ei];W[gi];B[dh]
+)
+(;W[gi];B[fi];W[hj];B[hi];W[hl];B[fk])
+(;W[hj]
+(;B[gl];W[gi];B[fj];W[fi])
+(;B[fk];W[gi];B[fj];W[fi])
+(;B[fj];W[hl];B[fk];W[ik]))
+(;W[fh];B[gg];W[gi];B[hi])
+(;W[ee];B[ef];W[df];B[dg];W[cf];B[cg];W[bf];B[bg]
+(;W[dd];B[ce])
+(;W[ae];B[ag];W[ac];B[ad];W[dd]))))
+(;B[fq];W[fr];B[dq]
+(;W[er];B[cp])
+(;W[fp];B[er])))
+(;B[fq]
+(;W[eq];B[fr];W[fp];B[ep];W[dq];B[gp];W[fo];B[hq])
+(;W[fp]
+(;B[ep];W[eq];B[dq];W[er];B[dr];W[fr];B[cp])
+(;B[gp];W[ep];B[hq];W[gr];B[hr];W[hp];B[go];W[fr];B[ip];W[ho]
+;B[io];W[hn];B[jq]))))
+(;W[cq]
+(;B[eq];W[ep];B[fp];W[fq])
+(;B[fq];W[fp];B[ep];W[eq];B[fr];W[gp];B[er];W[dq];B[gr];W[hr]
+;B[ir];W[hs];B[hq];W[iq];B[hp];W[ho])))
+(;W[pj];B[pk];W[oj];B[ok];W[nk];B[nj]
+(;W[lk];B[oi];W[rk]C[black again get's a lot of cutting  points and no secure territory, this time you get very strong in the center]
+
+(;B[rh])
+(;B[hq];W[rh]))
+(;W[oi];B[mj];W[lk];B[rm];W[rn];B[rj];W[ri];B[rl];W[sm]
+(;B[sl];W[sn])
+(;B[sk];W[sn]))))
+(;B[ml];W[oj];B[np]))
+(;W[oj];B[pi];W[mk];B[np]))
+(;W[np]TR[mo][qk][pl][on]C[i would have played it right now, giving a huge corner, and leaving black to lick his wounds and finding a way to defend all his cutting points.
+
+At this moment white has gotten a huge corner and black has nothing in return, because his "thickness" although pointed in the right direction has no strength, because of all the cutting and sticking points]
+))
+(;B[pl];W[op];B[np];W[nq];B[mq];W[nr];B[mr];W[no];B[mp];W[or]
+;B[on]))
+(;W[op];B[np];W[nq]C[Here you have a very big corner and black's thickness is aimed at the center, however the thickness is complete, you still have two directions to escape your group to, so for black this must be unsatisfactory..]
+
+(;B[qm];W[no])
+(;B[no];W[qm]
+(;B[ql];W[pl])
+(;B[pl];W[mq]))
+(;B[mq];W[nr];B[mr]
+(;W[no];B[mp];W[on];B[or])
+(;W[or];B[no];W[qm]
+(;B[ql];W[pl])
+(;B[pl]C[ok, so here you are locked in from one side, but black's thickness has weaknesses (cutting points) and is pointed in the wrong direction (reduced by the strenght (thickness) of your star point)]
+)))))
+(;W[op]
+(;B[np];W[qn];B[pm];W[qm];B[pl];W[nq])
+(;B[no];W[qn];B[qm];W[qo])))
+(;W[qo];B[qn]
+(;W[pn];B[po];W[op];B[qp];W[ro];B[np];W[pq];B[qq];W[pr];B[qr]
+;W[no];B[on];W[nq]C[this is no good..])
+(;W[po];B[pn]
+(;W[on];B[op];W[rn];B[rm]C[no good... :s])
+(;W[op]
+(;B[no];W[np]TR[pg]C[this is a nice result, black's outside thickness is not complete, he needs another move there, but than you have time to reduce the thicknes by playing somewhere around the marked point]
+)
+(;B[np];W[no];B[on];W[nq];B[mp];W[or];B[mo]C[no good.. :S])))))

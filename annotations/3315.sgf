@@ -1,0 +1,345 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+PB[omgwtf]
+BR[24k]
+PW[nux]
+WR[23k]
+KM[0.5]
+DT[2005-05-10]
+PC[The Kiseido Go Server (KGS) at http://kgs.kiseido.com/]
+RE[W+33.50]
+TM[1200]
+OT[5x40 byo-yomi]
+RU[Japanese]
+
+C[nux [23k\]: hi
+omgwtf [24k\]: hello.
+wada [26k\]: sup
+
+-- Hi Olaf!
+My name is Sven and I´m somewhere between 12 k (slow game, Dragon Go Server) and 15 k (KGS). I hope I will be able to give some useful hints to you. If something remains unclear, feel free to tell me. 
+I have put "--" in front of  my comments so you can better spot them.
+
+I think you and your opponent were not much apart as in terms of strength, as suggested by your KGS ranking. What made White lead most of the time was the advantages he gained from the opening game. Remember that the 3rd line aims at territory, the 4th line at influence towards the center. And you should try to do more "whole-board-thinking": Don´t stick to complicated fights at one spot, which mostly earns just a few points, but - especially when you find yourself unsatisfied with one local result (!) - look if there are more interesting places to play, above all corners and sides, which have not yet been dealt with; that is the big moves you are looking for.
+Keeping sente (I do not think you gave it away too often) does not mean pushing and harassing your opponent with seemingly forcing moves, but means to play big moves 
+which you opponent can answer or not, and the value of which compensates for the loss you have when the oppenent plays where you just stopped to. (Amen) ;-)
+
+As for the basics (how to link groups, sacrifice another stone to make use of an imprisoned stone, avoid peeping, choosing the right extension, life and death), you 
+can nothing but read and exercise, sorry. Do not try trick plays against White - be realistic, else you just waste stones, sente and nerves!
+
+Well, and for your emotions...hmmm...I think the best is playing more often - when you have reached your rank, you should lose 50 % of all games and get accostomed to it.
+
+Hope this all helps.. :-)
+
+
+{ I have annotated this game (inside curly brackets) with my comments (I am playing black, "omgwtf") to help any reviewer understand my thoughts and afterthoughts.
+
+What I need help with: how to figure out whether a group is dead or alive as early as possible so I don't keep wasting moves on it. E.g. I would be very thankful if any reviewer would comment on when he or she sees a group as dead or alive even though I (or white) keeps playing moves for it.
+
+I also have a problem with playing "big moves" -- I don't know where the big moves are.
+
+Comments like "you should have played ... here instead, because ..." are also very welcome, as many as possible, as they allow me some insights into the stronger player's mind.
+
+In the beginning / middle game, I think my main problem is I keep giving up sente. Confirm, deny?
+
+In the endgame (esp. late endgame) my main weakness is, I think, my emotions. Any practical tips on culling those? I really love Go for the sake of Go, yet I am wearied by feelings of anger at every defeat; I do not wish my own competitiveness or childishness to spoil the game of Go for me. }]
+;B[dp];W[pd];B[pp]LB[qp:A][oq:B]C[-- There cannot really be a mistake at the 3rd move - just a few things to thinks about: you are black, so your oppenent probably is better at fighting... Do you play this stone to get center influence or do you want to secure the bottom right corner? It´s rather some sort of personal style, but if I play black, I prefer to try and get one secure corner, by starting a corner enclosure at A (and continuing later at B).]
+;W[cd]C[-- obviously so does White here :-)];B[qf]LB[ec:B][ed:A]
+C[-- You want to attack white - ok, but then prevent white from finishing his corner enclosure at A or B!]
+;W[nc]
+(;B[qj]LB[df:B][of:A]C[
+{ I was unsure where to extend here, or what was the "biggest play." Is A or B better? Is B a poor configuration? }
+
+-- It was right to extend first, though not at R10 - have a look at the variations.
+B is indeed very bad - it invites White to extend from the corner and is too high for Black to achieve anything on the left side. Remember that the forth line is for (center) influence, the third line is for (side) territory.]
+
+(;W[qn];B[oo]LB[jp:B][np:A]C[
+{ This is my normal response to someone coming in at 6-3 to my 4-4, but I have never played with the joseki he followed (3-3). }
+
+-- I think there is no such thing as a standard response, but if you are looking for a move that fits most situations, you should resort to the answer at A. The diagonal move as an reply to White´s kakari at 6-3 is only seldom played, and then only if there is already some black fortification on the lower side, let´s say on B.
+You do exert some pressure on the attacking stone, but White will nevertheless be able to live, and then there is still enought room for White to invade on the other side.]
+;W[qq];B[qp];W[rp];B[ro];W[rq];B[qo];W[oq]C[
+{ I thought this was bad for me. }
+
+-- No not really, though there are a bit too much black stones at one spot. On the other hand, you have much influence on the right side, and White will be confined to the corner.]
+
+(;B[pq]C[
+{ In retrospect I do not know why I played this. }
+
+--    :-(   a pity, because it is a good move!
+Though O3 might be better (see variations)];W[pr]
+(;B[op]C[-- No!! See variations.];W[nq];B[sp]C[
+{ Shiver. }
+
+-- Yes :-) This one is for the endgame. You lost sente.];W[sq]
+;B[so];W[np]C[-- Let´s pause and have a look onto the board - your next move has to be as big as possible - where do you think are the most points to be claimed by one of the players...]
+;B[no]LB[ed:A][cj:B][gq:C][jq:D]C[-- This move expands Black center influence and limits White´s, but... remember: first the corner, then the sides, then the center!
+
+Better at A, B, C or even D (this would be my personal order)]
+;W[jq];B[df]C[-- (see my earlier comments on move 7)];W[ee]
+;B[hp]LB[gq:B][hq:A]TR[fp][gr]C[-- White can invade or slide beneath you (triangles). Better A or B.]
+;W[dh];B[dj];W[cg]
+(;B[eg]TR[df]SQ[cg][dh]C[-- You try and save the marked stone, right? Black is too weak here to catch white, did you see that? So why save this stone, which will not give any profit, i.e. neither territory nor influence for you? On the other hand, if you sacrifice it, you may still be able to make use of it from the outside.]
+;W[ef];B[eh];W[fg];B[di];W[fh];B[dg];W[ch];B[fi];W[de];B[cf]
+;W[bf];B[ci];W[cn]
+(;B[en]C[
+{ Here I am afraid to play the 5-5 point to repeat what happened in the lower right corner. }
+
+-- Hmm... let´s pause again and think about the direction of play... your primary stone is on the 4-4-point with relatively wide extensions to both sides. This means, White will be able to live one way or the other - you cannot kill him completely!!! (that is, of course, if no major mistakes are made.) White attacks from the top, so he is willing to give the corner to you, and in return hopes to make some territory on the side and perhaps to link up to his top stones.
+Black on the other hand already has some strength around D11, which should be used to exert pressure against the white attacker.
+
+So - by E6 you invite White to invade the corner and don´t get side territory as an compensation, and your strength around D11 is wasted. Have a look at the variation.]
+;W[cq];B[cp];W[bp];B[bo];W[dq];B[bq]
+(;W[ap]C[-- White helps you :-)];B[ao];W[ep]
+(;B[do]LB[eq:A]TR[ap][bp]C[-- What are you afraid of? the marked stones can be captured at any time!
+Punish White by cutting at A!];W[ih];B[gf]LB[gc:B][ff:A]C[
+{ I didn't like how the board looked for black, so here I am attempting "trick play." I was preparing for A, cutting him. If he put there instead, I'd extend to the top, probably B. }
+
+-- The problem is, that the Black stone is too weak to threaten much...]
+;W[hg]
+(;B[ff]LB[gc:B][jd:C]C[-- Now, didn´t you want to play B? Why cut and make both of your stones yet weaker?
+
+(Better even: C and extend to one or the other side)];W[fe]
+;B[he]
+(;W[ge]C[-- now White tries to chase Black (though doing it wrong and strengthening Black by making contact)]
+;B[hf];W[id];B[hd];W[ie];B[gc];W[hc];B[gd];W[ec];B[ic]C[-- right - make a base at the top (sounds paradoxical, doesn´t it :-) )]
+;W[hb]
+(;B[if]LB[ic:A]C[-- no, first extend from A];W[jc];B[je];W[jd]
+;B[jf];W[le]
+(;B[gi]LB[hh:A]C[-- Do you know the clamping tesuji? You can catch the cutting stones by playing at A instead!]
+
+(;W[kh];B[gg]C[-- well, ok, White gives up already...];W[hi]
+;B[gh];W[qh]TR[qf]C[
+{ What do I do. This stone looks weak now. I tried to extend, but maybe I did so from the wrong side. }
+
+-- The white invader is weak itself! Think of your strong bottom group - "play away from strength".
+You are right, you should strenghten your weak stone, but at the same time, you can afford putting pressure on white...]
+
+(;B[oi]LB[of:D][og:C][pg:B][rg:A]C[
+{ Are any of these points better? }
+
+-- Definitely D. Your stone is too close to your bottom group.]
+;W[oh];B[pg]C[-- What do you expect White will do?];W[ph]C[-- yes, of course he did, and you got weaker on both sides of this wall. Why did you peep then?]
+;B[rh];W[og];B[of];W[nf];B[hh]LB[qd:A][rg:B][ri:C]C[-- Try and get to life in the corner at A.
+White can cut at B or C!
+Remember this configuration on the second line!]
+(;W[ii]
+(;B[ig]C[-- you earned 2 points in gote here];W[ni]C[-- and now White spoils you center influence! This is a huge point for both players! Compare with the variation.]
+;B[ce]TR[de][ee][fe][ge][ef]C[
+{ Diversion. I'm looking to capture the marked group. }
+
+-- I don´t think this is possible, sorry.];W[be];B[oj];W[nj]
+;B[nk];W[mk];B[nl];W[gq];B[hq];W[gp];B[go];W[hr];B[ir];W[gr]
+;B[iq];W[ho]TR[hp][hq][iq][ir]C[
+{ Here I thought that the marked stones were (probably) dead, but I played along to see if I could find a way out. }
+
+-- The best you can do now is first running into the center, where your stones cannot be captured as easily - crawling along the second line won´t give life to your stones.]
+
+(;B[jr];W[kq];B[kr];W[lq];B[lr];W[io]C[-- well, your opponent also saw the route of escape as late as now...]
+
+(;B[eo]LB[fo:A]C[-- good idea! - make use of your captured stones and threaten the white bottom group!
+
+At A might be better, see variation.];W[fo];B[gn];W[fn];B[fm]
+;W[fp];B[gm];W[il];B[eq];W[er]
+(;B[mr]C[
+{ At this point I knew I were dead, but I hoped he would be careless and give me two eyes. }
+
+-- I think the best you could get was 7 stones on the second line in gote - that means death. Have a look at the variation]
+;W[mq];B[nr];W[or];B[lo]TR[np][jq][kq][lq][mq][nq][oq][or][pr]
+C[
+{ Poor trick play. Tried to make him think I was trying to capture these stones. }]
+;W[ko];B[kn];W[jn];B[km];W[mo];B[mn];W[mm];B[mp];W[ml];B[nm]
+;W[lp]
+(;B[ln]LB[gb:D][qd:A][bi:B][mj:E][br:C]C[-- Why connect here? White cannot play here. 
+
+Better take a calm look on the board again, and take sente to play in the top right corner, finally, or on some other important point (A-E).]
+;W[kl];B[jm];W[im];B[jp];W[ip];B[hn];W[in];B[os]C[-- "six die but eight live" on the second line]
+;W[ps];B[ns];W[is]C[
+{ No luck. }];B[jl];W[jk];B[kk];W[ll];B[ik];W[jj];B[kj];W[ki]
+;B[ij]TR[ik]TW[qr][rr][sr][qs][rs][ss]C[-- you help White by giving him prisoners!!!]
+;W[ji];B[cr]C[
+{ There is too much going on now. I know I have a large area at the right and left side, but too many of my stones are dead and I am playing carelessly, lashing out. }
+
+-- Yes, looks a bit nervous now... have a look at the variations on move 146 again.]
+;W[dr];B[mi];W[nh]C[
+{ I am wasting moves and he is solidifying. }];B[qd];W[qc];B[pc]
+;W[pb]
+(;B[oc]C[-- no additional liberties this way.];W[od];B[rc];W[qb]
+;B[qe];W[qg];B[pf];W[rg]C[
+{ Ouch. I should have given up on the two stones and put here myself. }
+
+-- yes :-/ now Black is dead.];B[sg];W[sf];B[nd]C[
+
+{ By now I am fairly certain the entire upper left corner is his and all my stones there are dead. I am frustrated, don't know what to do. }
+
+-- With White now leading with some 50 points or so, this would be a good moment to pause, make a rough estimation of the score, ...and if you do not think your opponent will make any major mistakes, resign - this saves you even more frustration in a game you cannot win (and saves your opponent from being bored, knowing he has won already).
+If you decide to play on, doing so elsewhere (tenuki) generally is the best idea!]
+;W[ne];B[md];W[mc];B[ld];W[kd];B[lc];W[lb];B[mb];W[nb];B[kb]
+;W[ma];B[kc];W[ke];B[oe];W[ob];B[gb]C[
+{ Now I am going for this corner. }];W[ha];B[eb];W[db];B[cc]
+
+(;W[bc]C[-- White´s mistake];B[dd];W[ed]C[
+{ And he knows it, becomes nervous, makes mistakes. }];B[bd]
+;W[dc];B[bb];W[cd];B[ac];W[cb];B[dd];W[fb];B[ga]C[
+{ I feared a white stone here. }
+
+-- and you threaten to link up to you dead stones later at L18 later - good!]
+;W[ib]
+(;B[ea]C[-- Nooohohohooo! :-{ White needs two moves to make two eyes here! Connect the ko and he is dead!]
+;W[cd];B[rf]C[
+{ Foolish of me to threaten this with the kos when white's natural response would require me to respond, losing sente. }]
+;W[sh];B[ri]C[-- Why do you have to respond? What´s some points here compared with the capturing of two whole groups - this would have meant victory - take a look at CGOBAN´s score estimation.]
+
+(;W[rb]C[
+{ Was this warranted? Could I have lived? I admit I am poor at reading life and death. Hm.. }
+
+-- no, Black was dead already. This was a huge gift by white, enabling you to take the ko.]
+;B[dd];W[rd];B[cd]C[-- yes!];W[cs];B[br];W[bi];B[bj];W[ag];B[bh]
+;W[sg];B[si];W[qi];B[rj];W[ok]
+(;B[ol]LB[pj:A]C[
+{ This was my most expensive mistake, probably. I think I should have put at A instead. }
+
+-- yes, White can make no points then];W[pj];B[pk];W[pi]
+(;B[ok];W[qk];B[rk];W[ql];B[rl];W[rm]
+(;B[rn]TR[rh][ri][si][qj][rj][rk][rl]C[-- the mistake is here -  you forget about the liberties of the marked group. See variation.]
+;W[sl];B[pn];W[sk];B[qm];W[sj];B[pl];W[sm];B[hk];W[hl]
+(;B[gl]LB[gk:A]C[
+{ More mistakes... Should have played at A instead. }];W[gk]
+;B[gj];W[hj];B[fk];W[hk];B[js];W[ls];B[hs];W[gs];B[bs];W[ds]
+;B[fr];W[fq];B[kg];W[lg];B[mj];W[lj];B[kf];W[lf];B[mo];W[me]
+
+(;B[bg]C[
+{ I guess I still feared white would be able to do some damage with these stones. }
+
+-- no, White cannot live];W[hm];B[fl]C[nux [23k\]: sorry disconnected]
+;W[tt]C[omgwtf [24k\]: it's ok];B[lm];W[lk];B[qr];W[rr];B[qs]
+;W[rs];B[tt];W[tt]TW[ia][ja][ka][la][na][oa][pa][qa][ra][sa]
+[jb][kb][mb][sb][ic][kc][lc][oc][pc][rc][sc][ld][md][nd][qd]
+[sd][oe][pe][qe][re][se][mf][of][pf][qf][rf][mg][ng][pg][lh]
+[mh][rh][li][mi][ri][si][ij][kj][mj][qj][rj][ik][kk][rk][rl]
+[jo][hp][jp][kp][eq][hq][iq][fr][ir][jr][kr][lr][mr][nr][qr]
+[sr][es][fs][hs][is][js][ks][ms][ns][os][qs][ss]TB[aa][ba][ca]
+[da][fa][ab][cb][db][fb][bc][dc][ec][fc][ad][ed][fd][ae][be]
+[de][ee][fe][ge][af][bf][ef][ag][cg][fg][hg][ah][ch][dh][fh]
+[ai][bi][ei][aj][cj][ej][fj][ak][bk][ck][dk][ek][al][bl][cl]
+[dl][el][am][bm][cm][dm][em][om][pm][an][bn][cn][dn][nn][on]
+[qn][co][po][ap][bp][aq][ar][as]C[nux [23k\]: thanks for the game
+omgwtf [24k\]: thank you, too
+nux [23k\]: bye :)
+
+{ Had I not made those two last mistakes I would probably have won, but then again, if HE had not made HIS mistakes, I would have been entirely lost, so I guess it makes no sense thinking like that. }
+
+-- yes, you are completely right!  :-)])
+(;B[tt];W[bg];B[tt];W[ae];B[ai]C[-- you have to pass thrice if White is to live]
+))
+(;B[gk];W[gl];B[fl]))
+(;B[pm];W[qm];B[sm];W[pn];B[on];W[sl];B[sk]))
+(;B[ql];W[ok]C[-- still an option]))
+(;B[pj];W[ol];B[om];W[ql];B[pl]))
+(;W[tt]
+(;B[rb];W[se];B[sd];W[re];B[rd];W[sg];B[ra];W[sb]C[
+{ Not this way. }])
+(;B[se]
+(;W[sg];B[rb];W[rd];B[sd]
+(;W[ra];B[sb];W[pe];B[re]C[
+{ Life?? }])
+(;W[sb];B[ra];W[sc];B[re]C[
+{ Aww. }]))
+(;W[rb]
+(;B[rd];W[sc]C[-- no life])
+(;B[sb];W[rd]C[-- no life])))))
+(;B[cd];W[ea];B[ca]))
+(;W[dd]C[-- this way, White should be safe.];B[cb];W[fb]
+(;B[da];W[ea]
+(;B[dc];W[ca])
+(;B[fc];W[ca]))
+(;B[ca];W[ea];B[bc];W[ad];B[ab];W[ba])))
+(;B[pe]C[-- this way you also prepare eyespace for your group]
+;W[od];B[rc];W[qb];B[re]))
+(;B[bi];W[bg])
+(;B[br];W[dr])
+(;B[gb];W[ib];B[da];W[db];B[ea];W[fb];B[fa];W[cb];B[ca];W[bb]
+;B[ba];W[ab])
+(;B[qd];W[qc];B[pe];W[od]))
+(;B[qr];W[rr];B[or];W[qs];B[nr];W[mq];B[mr];W[os];B[ns];W[is]
+;B[js];W[ls]))
+(;B[fo];W[fp];B[br]
+(;W[cr]C[-- White must defend, else he is dead.];B[cs];W[er]
+;B[ds];W[fs]C[-- some profit for Black in sente...])
+(;W[tt];B[eq];W[er];B[dr];W[fq];B[cr];W[eq];B[hs])))
+(;B[io];W[hn];B[in];W[hm];B[jp];W[kq];B[lo]C[-- alive  :-)]
+))
+(;B[ni];W[mi];B[mj];W[li];B[lj];W[nh]))
+(;W[rg]
+(;B[ri];W[qg])
+(;B[qg];W[ri];B[rf];W[sh])))
+(;B[of]LB[qd:B][oh:A]C[-- you future options are A or B now...]
+
+(;W[oh]C[-- if white runs away...];B[oj]C[-- you can chase him once more.]
+;W[mh]TR[of][qf]C[-- now it´s time to care for your stones...]
+;B[qd];W[qc];B[pe];W[pc];B[rc];W[rb];B[rd]C[-- White still has to tend his center group]
+)
+(;W[re]C[-- if White defends the corner...];B[rf];W[qe];B[oh]
+C[-- you catch the invader])))
+(;W[gg];B[hh];W[ig];B[kg];W[ji]))
+(;B[hh]
+(;W[gg];B[ig])
+(;W[hi];B[gh])
+(;W[ig];B[gg])))
+(;B[ib];W[gb];B[fb];W[fc];B[ga];W[eb];B[ha];W[jc]))
+(;W[gc];B[je];W[kg];B[jc];W[lc];B[le];W[mg]C[-- a "running fight"]
+))
+(;B[jd];W[kc];B[gc];W[fc];B[fd];W[ed];B[ff];W[gd];B[hd];W[fe]
+;B[hf];W[kg];B[gb];W[fb];B[ke]))
+(;B[eq]
+(;W[do]C[-- too bold of White!];B[co]
+(;W[er];B[fq];W[dr];B[fr];W[br];B[aq];W[cs];B[ar];W[es];B[bs]
+C[-- White lives only by a ko - and has no points!])
+(;W[fq];B[er];W[fr];B[fp];W[eo];B[fo];W[dn];B[dr];W[hq]C[-- failure for White - no corner, no center influence, no left side.]
+))
+(;W[fq];B[er];W[fr];B[fp];W[eo];B[dr];W[gp];B[fo];W[go];B[fn]
+;W[hq];B[gn];W[hn]TR[ho][io][jo][ko][lo][ip][jp][kp][lp][gq]
+[iq][kq][lq][gr][hr][ir][jr][kr][lr][gs][hs][is][js][ks][ls]
+SQ[aj][bj][cj][ej][fj][gj][ak][bk][ck][dk][ek][fk][gk][al][bl]
+[cl][dl][el][fl][gl][am][bm][cm][dm][em][fm][gm][an][bn][dn]
+[co][do][aq][ar][br][cr][as][bs][cs][ds][es]C[-- good result - see the potential territory points..]
+)))
+(;W[br];B[ap]
+(;W[eq];B[ep];W[gq])
+(;W[ep];B[eq];W[er];B[fq]C[-- failure for white])))
+(;B[bp]C[-- close the corner...]
+(;W[ck]C[-- if White defends...];B[dm];W[cm];B[dn]C[-- seal him in and get center influence...]
+)
+(;W[en]C[-- if white runs into the center...];B[cl]C[-- attack by stealing him the base...]
+)))
+(;B[ec]C[-- What about threatening the corner with the help of the enclosed black stone?]
+;W[dd];B[dc];W[cc];B[gd];W[cb];B[jc]))
+(;B[qr]C[-- in order to threaten this perhaps? :-)]
+(;W[or]
+(;B[rr];W[sr];B[sp]C[-- Black gained the corner, White has to extend low to get to life.]
+;W[lq])
+(;B[mp]C[-- or concede the corner, which would be yours otherwise, to White, and take sente at the lower side instead!]
+))
+(;W[rr];B[or];W[qs];B[nq]C[-- excellent result for Black this way !
+(max. 5 points of territory and no center influence for White!)]
+)))
+(;B[np]LB[pq:A]C[
+{ This is better? }
+
+-- too close to your other stones. White has still the cut at A to worry about.]
+;W[nq];B[mp]C[-- too much territory for white])
+(;B[nq];W[op];B[np];W[pq];B[mo];W[nr];B[mr]C[-- I like this best - White confined to the corner!]
+))
+(;W[qh]TR[qf]C[-- now the attacking stone  is under attack - the shorter extension is better]
+;B[of];W[oh];B[rd];W[qc];B[qm];W[mh]TR[rd][of][qf]C[-- The marked stones have to struggle for life yet!]
+))
+(;B[of]C[This was good if the right side was Black´s already, but for the moment it is open for invasion...]
+;W[qj];B[ri];W[qm]C[for example])
+(;B[df];W[fd];B[ci];W[bf])
+(;B[qi]LB[pj:A]C[-- generally, the two-space extension is safe from invasion, so you needn´t fear for life.
+A would be an alternative, if you want to extend from the corner simultaneously.]
+;W[qn];B[ql]C[-- now it´s hard for white on the right side]
+)
+(;B[pj];W[qh];B[ph];W[pg];B[qg]
+(;W[qi];B[pi];W[pf];B[qj];W[qe];B[rh])
+(;W[pi];B[qi];W[oh];B[rh];W[ph];B[rj])))

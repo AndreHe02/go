@@ -1,0 +1,84 @@
+(;FF[4]GM[1]SZ[19]AP[SGFC:1.13b]
+
+GN[joub-PnoGo]
+PB[PnoGo]
+BR[16k*]
+HA[0]
+PW[joub]
+WR[15k]
+KM[0.5]
+DT[2000-06-04]
+
+;B[pd];W[dp];B[pq];W[dd];B[fq];W[dn];B[jp];W[qo];B[qm];W[oo]
+;B[np];W[no];B[mp];W[pl]
+(;B[qj]C[I am not convinced that it is a good idea to give up the R7 stone like this. Black ends up building a moyo right next to whites strong position.  See the variation for another way to play here.]
+;W[ql];B[oj];W[rl]C[Now the black moyo in the upper right is easily invadable, so black needs another move to finish it off, while white is pretty strong.]
+;B[ci]C[This looks like the wrong direction to me.  With the moyo in the upper right, black should be trying to develop the top.  Having this weak group will make it difficult to expand the moyo on the upper right side.]
+
+(;W[ck]C[This also looks like the wrong direction.  The biggest place left to develop is the top, so whoever plays there first should have an advantage. I would approach from the other side. White doesn't need to worry about the D4/D6 stones.  They are pretty strong, and if black forces them to get stronger, it will hurt is moyo on the bottom.]
+;B[cf];W[ce];B[df];W[gd];B[mc];W[qc];B[qd];W[rd];B[re];W[rc]
+;B[qe]C[As a minor point of tenique, this should be at S14.  Later, when white plays T14, it won't be sente.]
+;W[ob];B[oc];W[pb]C[This sequence looks good for white to me.  Black doesn't have much territory in the upper right because of the strong group at S8.  White can easily invade at R12 or even jump to T11 in sente.]
+
+(;B[ej]C[I am not sure I understand the purpose of this move.  I think the top should still be the focus of attention.  Perhaps J17 for black would be better.  It reduces white and expands the moyo in the upper right. The C 14 stones are not in any trouble.]
+
+(;W[eq]C[This is not good for white.  It forces black to extend to F4, solidifying his territory on the bottom.]
+;B[fp];W[jc]C[The last big point of the opening. At this point, black's lower territory is about as big as white's upper left,  black's upper left is about the same as white's lower right, and black's upper right is about like white's lower left.  White has the upper right corner, but it is blacks move.  I think white is a little better so far.]
+;B[dl];W[cl];B[cq];W[cp];B[er]
+(;W[bq];B[dq];W[ep]
+(;B[fo]C[This looks pretty small to me.  The biggest place to expand for black is the upper right.]
+;W[dk];B[ek];W[el];B[fl];W[em];B[eh];W[rh]C[Now black finds out that the upper right isn't very big.]
+
+(;B[rj];W[rf];B[se];W[og];B[pg]C[This way is dangerous.  The black stones at R10 are weak.]
+;W[ph];B[qg];W[qh];B[oh];W[oi];B[nh];W[pj];B[ni];W[pi];B[nf]
+C[White gained a LOT here.]
+(;W[ok]C[This is small.  K15 or B2 or F7 are all bigger.
+I think M6 is the biggest of all.];B[mo]C[
+Good. This expands black's center]
+(;W[qq]C[The corner is small now.  If this sequence doesn't end in sente for white, black can get a big center.]
+;B[qr];W[pp];B[oq]
+(;W[rq]C[This is too small. Suppose white moves to limit the center instead, and black moves here.  White has at least 20 in the upper left, 8 in the upper right,  15 in the lower left, and 20 on the right for a total of over 60.  Black has about 35 on the bottom, 10 on the left, and another 10 in the upper right for a total of about 55 or a little more. White just needs to be sure that black doesn't make a big center.]
+;B[fm];W[cc]C[This is much too small.   Black's bottom center is the biggest place to play now.]
+;B[kd];W[jd];B[mk];W[nj];B[mj];W[hg];B[nm];W[hi];B[hk];W[jj]
+;B[ij];W[ii];B[ji];W[mm];B[nn];W[nl];B[ml];W[mn];B[lm];W[ke]
+;B[le];W[lf];B[kf];W[je];B[lg];W[ld];B[me];W[kc];B[en];W[dm]
+;B[ki];W[mb];B[ed];W[ee];B[de];W[ec];B[be];W[cd];B[bd];W[bc]
+;B[ge];W[fe];B[gf];W[jf];B[kg];W[ig];B[br];W[bp];B[rr];W[bg]
+;B[bf];W[bi];B[bh];W[ch];B[bj];W[ah];B[cj];W[eg];B[ef];W[fg]
+;B[ff];W[fd];B[gg];W[fh];B[dg];W[dh];B[ei];W[gh];B[am];W[aj]
+;B[bk];W[bl];B[al];W[bn];B[sq];W[rp];B[ln];W[eo];B[pm];W[pn]
+;B[on];W[rn];B[qn];W[po];B[rg];W[sg];B[sf];W[sh];B[nb];W[lb]
+;B[na];W[sd];B[pa];W[qa];B[oa];W[rb];B[pc];W[sb];B[qb];W[ra]
+;B[fn];W[he];B[af];W[bm];B[ak];W[hf];B[cg];W[ad];B[ai];W[pf]
+;B[qf];W[aj];B[di];W[om];B[ol];W[bh];B[nk];W[rm];B[om];W[oj]
+;B[gj];W[ac];B[ai];W[hj];B[ag];W[ik];B[il];W[jl];B[jm];W[hl]
+;B[im];W[gk];B[hm];W[kl];B[km];W[fj];B[fr];W[gl];B[aq];W[ap]
+;B[ar];W[gm];B[gn];W[fk];B[an];W[ao];B[sp];W[so];B[sr];W[lc]
+;B[fi];W[gi];B[md];W[kj];B[lj];W[jh];B[kh];W[kk];B[jg];W[ih]
+;B[ma];W[la];B[pb];W[op])
+(;W[mn];B[ln];W[lm];B[km];W[ll];B[kl];W[lk];B[kk];W[fm]
+(;B[gm];W[gl];B[hm];W[fk])
+(;B[gm];W[gl];B[gn];W[fk];B[hl];W[hk];B[ik];W[lj];B[rq];W[qp]
+;B[rp]C[Black still has about 20 outside of the bottom, and white still has about 45 outside of the right.  Black now has about 50 on the bottom for a total of 70, while white has about 25 on the right.  The game is about even in points, but white has more potential to expand.
+If white now plays B15 to secure the upper left, the game should be over.]
+)))
+(;W[fm]C[White has to break into the center here])
+(;W[mn]C[Or at least limit black's expansion here.]))
+(;W[je])
+(;W[fm])
+(;W[br])
+(;W[ln]))
+(;B[ph];W[rj];B[li]))
+(;B[li]))
+(;W[dr]C[White should play like this.];B[dq];W[cr];B[ep];W[bq]
+))
+(;W[hq]C[This invasion works much better.]
+(;B[jq];W[dr])
+(;B[hp];W[iq];B[ip];W[gq];B[gp];W[eq]C[This is much better for white.]
+)))
+(;B[ic];W[ej];B[ee];W[ed];B[fe];W[fd];B[hf]))
+(;W[cg];B[cl];W[jd]))
+(;B[qp]C[This move takes some territory in the corner.];W[ro]
+;B[ql]C[Now black takes some side territory, while giving white some center thickness.]
+;W[pk];B[pm];W[om];B[qk];W[pj];B[qi]C[It looks to me like the R11 stone works well with Q16.]
+))
