@@ -280,7 +280,8 @@ def parser_sgf(f_name):
         for node in all_nodes:
             board = node.get_board()
             s = board_rep(board)
-            # print(s)
+            print(s)
+            input()
 
         if debug:
             print_moves(sgf_root)
