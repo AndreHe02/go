@@ -11,14 +11,16 @@ char_map = 'abcdefghijklmnopqrs'
 char_map = {c: idx for idx, c in enumerate(char_map)}
 removed = {'=\\'}
 debug = False
-type_of_interest = {'C', 'W', 'B', 'AW', 'AB'}
+move_types = {'W', 'B', 'AW', 'AB', 'AE'}
+comment_types = {'C'}
+type_of_interest = move_types | comment_types
 AW_count, AB_count = 0, 0
 
 class SGFParseError(Exception):
     pass
 
 Bracket = namedtuple('Bracket', ['type', 'content'])
-Move = namedtuple('Move', ['player', 'r', 'c'])
+Move = namedtuple('Move', ['player', 'r', 'c', 'orig_bracket'])
 
 class Branch:
 
@@ -35,7 +37,7 @@ class Branch:
         bracket_start, bracket_end = bracket
         if self.cur_pointer != bracket_start:
             self.segments.append(('text', (self.cur_pointer, bracket_start)))
-        self.segments.append(('bracket' , (bracket_start, bracket_end + 1)))
+        self.segments.append(('bracket', (bracket_start, bracket_end + 1)))
         self.cur_pointer = bracket_end + 1
 
     def retrieve_str(self, str_start, str_end):
@@ -50,13 +52,15 @@ class Branch:
             if self.segments[idx][0] == 'text':
                 if self.segments[idx + 1][0] != 'bracket':
                     raise SGFParseError('two consecutive text blocks without bracket content.')
-                type_info = self.retrieve_str(*self.segments[idx][1]).strip().replace(';', '')
+                candidate_info = self.retrieve_str(*self.segments[idx][1]).strip().replace(';', '')
+                if candidate_info.strip() != '':
+                    type_info = candidate_info
             else:
                 content = self.retrieve_str(*self.segments[idx][1])[1:-1]
                 if type_info in type_of_interest:
                     self.completed_brackets.append(Bracket(type=type_info,
                                                            content=content))
-                if type_info not in ('AB', 'AW'):
+                if type_info not in ('AB', 'AW', 'AE'):
                     type_info = ''
             idx += 1
         self.completed = True
@@ -66,21 +70,22 @@ class SGF:
     def __init__(self, root, meta_info):
         self.root, self.meta_info = root, meta_info
 
-def valid_coor(coor):
+def valid_coor(board_state, coor):
     r, c = coor
-    return 0 <= r < 19 and 0 <= c < 19
+    _, r_bound, c_bound = board_state.shape
+    return 0 <= r < r_bound and 0 <= c < c_bound
 
-def get_neighbors(coor):
+def get_neighbors(board_state, coor):
     r, c = coor
     candidates = [(r - 1, c), (r + 1, c), (r, c - 1), (r, c + 1)]
-    return [coor for coor in candidates if valid_coor(coor)]
+    return [coor for coor in candidates if valid_coor(board_state, coor)]
 
 def vacant(board_state, coor):
     r, c = coor
     return board_state[0][r][c] == 0 and board_state[1][r][c] == 0
 
 def has_breath(board_state, coor):
-    for neighbor_coor in get_neighbors(coor):
+    for neighbor_coor in get_neighbors(board_state, coor):
         if vacant(board_state, neighbor_coor):
             return True
     return False
@@ -98,28 +103,58 @@ def check_death(board_state, player, coor):
         if has_breath(board_state, current):
             return set()
         examined.add(current)
-        for neighbor in get_neighbors(current):
+        for neighbor in get_neighbors(board_state, current):
             r, c = neighbor
             if board_state[player][r][c] == 1 and neighbor not in examined:
                 todo.append(neighbor)
                 connected_coor.add(neighbor)
     return connected_coor
 
-def update_baord(prev_board, move):
+def update_board(prev_board, move):
     result = np.array(prev_board)
     player = move.player
     r, c = move.r, move.c
 
     has_remove = False
-    if prev_board[0][r][c] == 1 or prev_board[1][r][c] == 1:
+    if (prev_board[0][r][c] == 1 or prev_board[1][r][c] == 1) and player != -1 \
+        and not (move.orig_bracket.type == 'AW' and prev_board[0][r][c] == 1) \
+        and not (move.orig_bracket.type == 'AB' and prev_board[1][r][c] == 1):
+        print(move)
+        print('highlight ====')
+        print(board_rep(prev_board, move))
+        print('prev ====')
+        print(board_rep(prev_board))
         raise SGFParseError('Invalid move, position %d %d has already been occupied.' % (r, c))
-    result[player][r][c] = 1
-    coor = r, c
-    for neighbor in get_neighbors(coor):
-        for removed_coor in check_death(result, 1 - player, neighbor):
-            r_, c_ = removed_coor
-            result[1 - player][r_][c_] = 0
-            has_remove = True
+
+    if player >= 0:
+        result[player][r][c] = 1
+        result[1 - player][r][c] = 0
+        coor = r, c
+        for neighbor in get_neighbors(prev_board, coor):
+            for removed_coor in check_death(result, 1 - player, neighbor):
+                r_, c_ = removed_coor
+                result[1 - player][r_][c_] = 0
+                has_remove = True
+
+    else:
+        if debug and result[0][r][c] == 0 and result[1][r][c] == 0:
+            print(move)
+            print('highlight ====')
+            print(board_rep(prev_board, move))
+            print('prev ====')
+            print(board_rep(prev_board))
+            raise SGFParseError('There is nothing to remove at position %d %d' % (r, c))
+        result[0][r][c] = 0
+        result[1][r][c] = 0
+
+    if debug and move == Move(player=1, r=0, c=5, orig_bracket=Bracket(type='W', content='af')):
+        print('=====')
+        print(result[:, 0:2, 5:7])
+        print(prev_board[:, 0, 6])
+        print(move)
+        print(board_rep(prev_board))
+        print(board_rep(result))
+        # exit(0)
 
     if has_remove and debug:
         print(board_rep(prev_board))
@@ -127,12 +162,14 @@ def update_baord(prev_board, move):
         print('=========')
     return result
 
-def board_rep(board):
+def board_rep(board, move=None):
     result_str = ''
     sz = board.shape[1]
     for r in range(sz):
         for c in range(sz):
-            if board[0][c][r] == 1:
+            if (move is not None) and (move.c == r) and (move.r == c):
+                result_str += '!'
+            elif board[0][c][r] == 1:
                 result_str += '*'
             elif board[1][c][r] == 1:
                 result_str += 'o'
@@ -143,29 +180,41 @@ def board_rep(board):
 
 class SGFNode:
 
-    def __init__(self, parent, move):
+    def __init__(self, parent, move, board_size):
         self.parent, self.move = parent, move
+        self.type = move.orig_bracket.type if move is not None else None
         self.comments = []
         self.children = []
         self.board = None
         if parent is None:
-            self.depth = 1
+            self.depth = 0
         else:
-            self.depth = parent.depth + 1
+            if self.type in ('B', 'W'):
+                self.depth = parent.depth + 1
+            else:
+                if not self.type[0] == 'A' and self.parent.type[0] == 'A':
+                    self.depth = parent.depth + 1
+                else:
+                    self.depth = parent.depth
+        self.board_size = board_size
 
     def get_board(self):
         if self.board is not None:
             return self.board
         elif self.parent is None:
-            self.board = np.zeros((2, 19, 19), dtype='int')
-            self.board[self.move.player][self.move.r][self.move.c] = 1
+            self.board = np.zeros((2, self.board_size, self.board_size), dtype='int')
+            # self.board[self.move.player][self.move.r][self.move.c] = 1
         else:
             prev_board = np.array(self.parent.get_board())
-            self.board = update_baord(prev_board, self.move)
+            self.board = update_board(prev_board, self.move)
         if debug:
             print('move %d' % self.depth, self.move)
             print(board_rep(self.board))
-            input()
+            # input()
+        sum_per_loc = np.sum(self.board, axis=0)
+        if (sum_per_loc > 1).any():
+            print(sum_per_loc)
+            raise SGFParseError('Two stone in one location')
         return self.board
 
     def all_children(self):
@@ -221,28 +270,37 @@ def parse_bracket(s):
         cur = right + 1
     return results
 
-def branch2sgfnode(branch, parent_node=None):
-    start = None
+def branch2sgfnode(branch, board_size, parent_node=None):
+    if parent_node is None:
+        parent_node = SGFNode(parent=None, move=None, board_size=board_size)
+    start = parent_node
     for bracket in branch.completed_brackets:
-        if bracket.type in ('W', 'B', 'AW', 'AB'):
-            player = 0 if bracket.type[-1] == 'B' else 1
+        if bracket.type in move_types:
+            if bracket.type[-1] == 'B':
+                player = 0
+            elif bracket.type[-1] == 'W':
+                player = 1
+            else:
+                player = -1
             if bracket.content =='tt':
                 continue
             if bracket.content == '':
                 continue
             r, c = [char_map[coord] for coord in bracket.content.strip()]
-            new_sgfnode = SGFNode(parent=parent_node, move=Move(player=player, r=r, c=c))
+            new_sgfnode = SGFNode(parent=parent_node, move=Move(player=player, r=r, c=c, orig_bracket=bracket),
+                                  board_size=board_size)
             if start is None:
                 start = new_sgfnode
             if parent_node is not None:
                 parent_node.children.append(new_sgfnode)
             parent_node = new_sgfnode
-        elif bracket.type == 'C':
+        elif bracket.type in comment_types:
             comment = bracket.content
             if parent_node is not None:
-                parent_node.comments.append(comment)
+                parent_node.comments.append((bracket.type, comment))
+
     for child_branch in branch.children:
-        branch2sgfnode(child_branch, parent_node)
+        branch2sgfnode(child_branch, board_size, parent_node)
     return start
 
 def print_moves(node):
@@ -255,11 +313,24 @@ def print_moves(node):
             break
     return cur
 
+def get_board_size(s):
+    if "SZ[13]" in s:
+        return 13
+    if "SZ[19]" in s:
+        return 19
+    if "SZ[9]" in s:
+        return 9
+    if "SZ[7]" in s:
+        return 7
+    raise SGFParseError('size of the board not found.')
+
+
 def parser_sgf(f_name):
     with open(f_name, 'r') as in_file:
         s = in_file.read()
         for x in removed:
             s = s.replace(x, ' ')
+        board_size = get_board_size(s)
         brackets = parse_bracket(s)
         branches = parse_paren(s, brackets)
         root = branches[0]
@@ -275,28 +346,40 @@ def parser_sgf(f_name):
                 cur_bracket_idx += 1
         if not branches[-1].completed:
             branches[-1].complete_segs()
-        sgf_root = branch2sgfnode(root)
+        sgf_root = branch2sgfnode(root, board_size=board_size)
         all_nodes = sgf_root.all_children()
         for node in all_nodes:
             board = node.get_board()
-            s = board_rep(board)
-            print(s)
-            input()
-
         if debug:
             print_moves(sgf_root)
+
+        """
+        for node in all_nodes:
+            br = node.move.orig_bracket
+            if br.type == 'B' and br.content == 'dq':
+                print(node.depth)
+                print(node.comments)
+                print(board_rep(node.get_board()))
+            """
     print('parsing %s successful.' % f_name)
 
 
 if __name__ == '__main__':
     import os
     f_names = os.listdir(annotation_dir)
+    error_set = set()
     for f_name in f_names:
         try:
             print('parsing %s' % f_name)
             parser_sgf(annotation_dir + f_name)
         except UnicodeDecodeError:
+            print('file encoding error')
             pass
         except SGFParseError as e:
+            print(e)
             print(f_name)
+            error_set.add(f_name)
             # raise e
+        # break
+    print(len(error_set))
+    print(error_set)
