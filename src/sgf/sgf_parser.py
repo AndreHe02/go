@@ -188,6 +188,7 @@ class SGFNode:
         self.board = None
         if parent is None:
             self.depth = 0
+            self.history = []
         else:
             if self.type in ('B', 'W'):
                 self.depth = parent.depth + 1
@@ -196,6 +197,7 @@ class SGFNode:
                     self.depth = parent.depth + 1
                 else:
                     self.depth = parent.depth
+            self.history = parent.history[:] + [move]
         self.board_size = board_size
 
     def get_board(self):
@@ -324,7 +326,6 @@ def get_board_size(s):
         return 7
     raise SGFParseError('size of the board not found.')
 
-
 def parser_sgf(f_name):
     with open(f_name, 'r') as in_file:
         s = in_file.read()
@@ -348,6 +349,7 @@ def parser_sgf(f_name):
             branches[-1].complete_segs()
         sgf_root = branch2sgfnode(root, board_size=board_size)
         all_nodes = sgf_root.all_children()
+
         for node in all_nodes:
             board = node.get_board()
         if debug:
@@ -362,6 +364,7 @@ def parser_sgf(f_name):
                 print(board_rep(node.get_board()))
             """
     print('parsing %s successful.' % f_name)
+    return sgf_root
 
 
 if __name__ == '__main__':
