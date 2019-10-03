@@ -20,7 +20,15 @@ def saveb2c(f_name, node):
         if len(comments) != 0:
             all_comments = '\n'.join(comments)
             sgf = create_sgf(state)
-            pkl.dump((sgf, all_comments), open('%s%s-%d.pkl' % (b2cdir, f_name, comment_id), 'wb'))
+            saved_content = {
+                'f_name': f_name,
+                'comment_index': comment_id,
+                'comments': all_comments,
+                'board_state': state.board,
+                'board_viz': board_rep(state.board),
+                'sgf': sgf
+            }
+            pkl.dump(saved_content, open('%s%s-%d.pkl' % (b2cdir, f_name, comment_id), 'wb'))
             comment_id += 1
 
 if __name__ == '__main__':
