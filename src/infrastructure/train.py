@@ -27,6 +27,7 @@ class Perplexity_trainer:
         self.step_counter = 0
         self.optim = optim.Adam(self.model.parameters())
         self.print_every = print_every
+        self.exp_name = exp_name
 
     def train_one_step(self, batch):
         self.model.train()
@@ -49,6 +50,7 @@ class Perplexity_trainer:
                 print('evaluating batch %d.' % batch_idx)
             tok_out = self.model(batch)
             loss += self.eval_loss(tok_out, batch['tok_out']).data.item()
+        torch.save(self.model, '../models/%s%.3f%d' % (self.exp_name, loss, self.step_counter))
         return loss
 
     def train(self, train_step, eval_every):
