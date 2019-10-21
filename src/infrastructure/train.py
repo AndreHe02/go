@@ -18,7 +18,7 @@ class FlattenedLoss(nn.Module):
 
 class Perplexity_trainer:
 
-    def __init__(self, model, train_generator, eval_generator_init, exp_name):
+    def __init__(self, model, train_generator, eval_generator_init, exp_name, print_every=1000):
         self.logdir = 'run_logs/' + exp_name
         self.logger = SummaryWriter(self.logdir, flush_secs=30)
         self.loss = FlattenedLoss(reduction='mean')
@@ -26,10 +26,12 @@ class Perplexity_trainer:
         self.model, self.train_generator, self.eval_generator_init = model, train_generator, eval_generator_init
         self.step_counter = 0
         self.optim = optim.Adam(self.model.parameters())
+        self.print_every = print_every
 
     def train_one_step(self, batch):
         self.model.train()
-        print('training for step %d.' % self.step_counter)
+        if self.step_counter % self.print_every == 0 and self.step_counter != 0:
+            print('training for step %d.' % self.step_counter)
         vocab_logprob = self.model(batch)
         perplexity = self.loss(vocab_logprob, batch['tok_out'])
         perplexity.backward()
@@ -43,7 +45,8 @@ class Perplexity_trainer:
         eval_generator = self.eval_generator_init()
         loss = 0
         for batch_idx, batch in enumerate(eval_generator):
-            print('evaluating batch %d.' % batch_idx)
+            if batch_idx % self.print_every == 0 and batch_idx != 0:
+                print('evaluating batch %d.' % batch_idx)
             tok_out = self.model(batch)
             loss += self.eval_loss(tok_out, batch['tok_out']).data.item()
         return loss
