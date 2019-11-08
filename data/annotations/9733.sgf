@@ -1,0 +1,109 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.16]
+
+PB[Phen]
+BR[1k]
+PW[unknown]
+KM[0]
+DT[2015-03-22]
+RE[W+Resign]
+RU[Japanese]
+
+C[Phen wrote:
+> My opening needs a lot of work (not sure what joseki to choose in
+> most situations), I usually lose to this computer early by not
+> having enough points(computer leads by at least 20-35 secure
+> territory points most of the time). I want to at least play evenly
+> for the first 30-50 moves if possible..I sometimes look up joseki
+> but I still feel like the computer always chooses a superior one so
+> I don't know how to catch up.(See SGF file for more details) Any
+> advice would be extremely appreciated. Thank you so much]
+;B[pd];W[pp];B[qn]
+(;W[ql]LB[qn:A]C[should I just r3 here since nothing is developed around d16? (see how this progresses and white takes stuff up there first)
+
+Well, the presence of White's pincer gives some difficulties, but let us explore what we can.
+1)There's still 2 (not 1) free corners, so they are like miai.
+2) Your 4-4 stone in the upper right is:
+2a) about wide development, so I don't like r3 here - it gives White a wall looking at alone 4-4 stone;
+2b) about support in fighting - so, when you played A but White answered with a hit, start a fight with him.
+
+Please, look at the variations for details.];B[on];W[np]
+(;B[pk];W[pl];B[ol];W[qk];B[pj];W[qj];B[pi];W[qh];B[og];W[om]
+;B[nm];W[pm];B[nl]LB[qg:A]C[move 19, should I have gone to D16 instead? I thought this was the joseki but I feel like I'm losing by too much
+
+No, I suggest your connection is right. And I don't say you're losing, because:
+1)White's corner is still open, so his territory is smaller;
+2)You connected, so your wall is stronger than a couple of moves before;
+3)According to joseki, White missed R14 - so you may hit at A and take your own profit there.]
+
+(;W[dc]LB[qg:A][lq:B][qq:C]C[Move 20-21, should go to q6 now? But White is still safe if r14 so I just chose to tenuki at D4, Was this okay or bad since it's too far from my potential moyo?  and maybe too early for r3?
+
+I can't say White is so safe if you play Q6. You may later attack at A-C, according to the situation, but let me say: in Go we don't build territory (or a moyo) directly, because it's too straightforward and slow - we get territory while attacking. And each attack starts from splitting partner's groups.
+
+On the other hand, if you don't like attacking so much, your choice (a free corner) is OK.]
+;B[dp];W[pn]C[Is r3 still possible for a ko? if so when should I play it?
+
+I think it's possible for a life (see the variation), but it's not so urgent.]
+
+(;B[de];W[dh]LB[fe:A]TR[og][pi][pj][pk][nl][ol][nm][dp]C[I really have no idea what to play after getting pincered like this.. I already feel like I'm losing psychologically
+
+I suggest the same idea: you have a wall and a strong 4-4 stone (marked) - so just split, and then attack. A seems ok for me for this purpose.]
+
+(;B[fd];W[ee];B[ed];W[dd];B[ef]C[Should I have d14 instead so white can't connect up on the left side?
+
+I think no, because this will be a longer fight, and it's harder for both.]
+;W[ce]
+(;B[df]C[This goes against the principle: when you have a stone in a ladder (and therefore some ladder-breaker aji), take it off as soon as possible.]
+;W[cf]C[I let the computer connect up because I thought I could build a huge moyo here
+
+Yes, I see. But did you measure this word 'huge' in terms of real points?]
+;B[jd]C[I think this is necessary, right?
+
+Yes, I agree.];W[cn]C[not sure if I should pincer here..white now feels too strong over there..or c10? possible to cut off white maybe? What would be a good pincer if black wanted to pincer white here? c9? or normal c8?
+
+I think it's too late for a pincer, but we can make White overconcentrated.]
+;B[dn];W[dm]
+(;B[en];W[co]
+(;B[fp]LB[cp:A]C[Why didn't you (naturally) block at A?];W[cp]
+;B[lq]C[thought I could do this now and use aji with p6 + indirectly help my above moyo
+
+Yes, I feel it's a good idea against White's corner (though we can live there directly). But 'indirectly help my moyo' - what do you mean by that?]
+;W[dq];B[ep]LB[cp:A]C[was afraid of getting cut off so didn't play e3, but now that I think about it e3 is better right?
+
+I hope it is, but please remember the joseki move (Black at A) and just get rid of these situations :)]
+;W[jq];B[lo];W[jo];B[ip];W[jp];B[jm]C[I thought I had a chance to capture white with this kind of move]
+;W[kn];B[kl]C[maybe I should just have connected at n6? hmm, I was thinking about my moyo again.. I feel like I'm losing by 30 points here if I can't capture white..]
+;W[km]C[n6 is going to cut me off if I don't do something down there..]
+;B[mp];W[ll];B[lk];W[jl];B[kk];W[im];B[jk]C[I thought my moyo would be huge, but I didn't count, and now my stones on the bottom left aren't safe..]
+;W[il];B[hj]C[Thought about moyo stuff again.. still possible to capture white maybe?]
+;W[fl]LB[lk:3][jm:A][lo:2][fp:1]C[doesn't feel like I can capture it anymore..
+
+Yes, now we should care about our stones first.
+Observe how it goes: White attacks and so gets more profit than you did with the moyo. The problem posiibly is: when you played A, you aimed to hold three goals (left group 1, right group 2, moyo above 3) simultaneously - that's impossible.]
+;B[eq];W[dr];B[er];W[hq];B[gn];W[gk];B[gr]C[attempting to live]
+
+(;W[hs])
+(;W[hr];B[gq];W[fh]C[and now my moyo dream is crushed..I feel like I lost by way to much around here, I resigned in a few moves..]
+;B[gg];W[fb]C[Not sure the best move for blocking these kind of things, g17?
+
+I think your move 75 is right (though it can't win the game now).]
+;B[hc];W[hb];B[ic]LB[cp:A]C[Let me summarize:
+
+1. Be careful about the proper joseki moves - they are important for the future of your groups (like the move at A in this game caused problems with the whole bottom side);
+2. Try to reach your goal fast (in one move), but don't pick up too much goals - you are to win only 0.5 points, you don't need more;
+3. Please, consider this idea: the profit of a single cut (or, vice versa, of a single connection) is sometimes uncountable.
+
+Thank you for providing interesting and researching questions within the game!]
+;W[ib];B[jb];W[gh];B[hh]))
+(;B[cp];W[ck];B[fq]))
+(;B[cm];W[bo];B[co];W[bn];B[bp];W[cq];B[cp];W[en];B[do];W[cl]
+;B[em];W[dl];B[fn]))
+(;B[fe];W[cf]))
+(;B[fe];W[gc];B[cj]TR[dh]C[White's marked stone is very alone now.]
+))
+(;B[qq]
+(;W[pq];B[qp];W[pr];B[rr];W[ro];B[qo];W[rn];B[rp];W[rm];B[sq]
+)
+(;W[qp];B[pr])))
+(;W[tt];B[qg];W[rg];B[qi];W[ri];B[ph];W[rh];B[qf]))
+(;B[rp];W[qq];B[qi];W[ol];B[mn]LB[ml:B][lp:A]))
+(;W[nq];B[pj]))

@@ -1,0 +1,176 @@
+(;FF[4]GM[1]SZ[19]ST[1]AP[SGFC:1.16]
+
+PB[DavodB]
+BR[18k]
+PW[Aya 6.34]
+KM[6.5]
+DT[2013-02-17]
+RE[B+11.5]
+
+C[Hi David,
+My name is Jori, and I'll be reviewing your game against the Aya bot.
+
+In this game you have the potential to make a lot of moyo, but sadly a lot of it doesn't materialize. I'll try to point out moves that helped create the moyo as well as moves that hurt it.
+
+I have also added a lot of comments for the opening.];B[pp]
+;W[cc];B[od]C[This is a good move, but the follow up is in the wrong direction.
+
+P16 is a move that doesn't give black any secure territory in the upper right corner, but because it is further towards the left, it makes any extension in the left direction a good move. 
+
+At the same time, the white stone in the upper left is all the way in the corner, which makes definite territory in upper-left, but makes it hard for white to find a good extension towards the right.
+
+Please see variation for next black move.];W[cp]
+(;B[or]TR[eq][ed]LB[or:A][dd:B]C[This move looks a bit awkward. 
+
+White still has moves like R3 and R4 to create complicated shenanigans, so the black move doesnt protect the corner quite as much as black would like.
+
+Because black already played two moves (P16 and Q4) that do not secure territory directly, it would be natural for black to keep expanding rapidly. Couple alternatives have been marked on the board with triangles.
+
+If you want to secure the bottom right corner, Q3 is stronger. Although both P2 and Q3 are slow.]
+;W[qe]
+(;B[mc]LB[qc:B][mc:A]C[R17 is better. It deprives white of access to the corner (which is generally easier to live in), while at the same time starts creating a base for the black stones on the upper side.
+
+White will obviously be able to live if he really wants to, but black will be able to harass him while making profit. 
+
+I added a sequence so you can get a general idea of how black can harass white and make territory at the same time.]
+;W[cr];B[jp]C[This move shows good thinking: either the white will expand at the bottom, or black can expand at the bottom. It's not as good as playing R17, but the logic behind it is solid.]
+;W[fp]C[David, to reply to your comment This move does make white alive at the bottom left, so you don't have to feel bad about letting that corner be. It is a very small amount of territory]
+;B[cj]C[Good jump, again depriving white of a direction where he would probably want to expand.]
+;W[cf];B[cm];W[gc];B[pj];W[qi]
+(;B[ql]C[This move is far too kind towards white. A straight block at R10 is solid, both solidifying the territory at the bottom right and keeping the pressure on white.]
+;W[rg];B[qd]C[Good move!];W[pi];B[oi];W[dd];B[ic];W[og];B[ng]
+;W[rd];B[qc];W[do];B[fm]C[Good,  not allowing yourself to be sealed in as a tiny group on the left side is the right idea.]
+;W[dm];B[dl];W[kd];B[ie];W[dh];B[ei];W[kf]
+(;B[kc]C[This move looks very solid, but it doesn't guarantee that black stones are connected and it does not apply pressure to the two weak white stones. 
+
+See variation.];W[bh];B[bi]TR[ho][hg]C[Instead of defending couple points worth of territory on the left, black should finish surrounding the center with either H13 (preferred because it also helps make sure that the two white stones WILL die), or H5.]
+;W[ig];B[gd]C[Black should continue to pursue white in the center with G14.]
+;W[hc];B[hb];W[jf];B[lf];W[jc];B[jb];W[fg]C[White managed to connect thanks to all the breaks black gave it :(]
+;B[jr];W[ho];B[bo]C[Good life in the corner.];W[fd];B[hd];W[fb]
+;B[gb];W[bp]
+(;B[ap]C[This black move is an overplay. 
+
+Please see variation for next white move.]
+(;W[aq];B[ao];W[bs];B[cn];W[gi];B[fi]TR[jm]C[Black is already alive on the left and this doesn't really secure more territory for him. Something around K7 would be huge.]
+;W[lh];B[fc];W[ec];B[fe];W[ii];B[gj];W[hq];B[mo]C[Overly defensive, but makes some points.]
+;W[lk];B[mk];W[ci];B[di];W[ik];B[jn];W[ch];B[aj];W[kj];B[kl]
+;W[qj];B[pk];W[mj];B[nj];W[jj];B[mi]C[M8 is better, as it finishes the black territory at bottom right. white M8 would be terrible!]
+;W[ml];B[lj];W[ef];B[ed];W[lg];B[ll];W[db];B[fa];W[ee];B[fd]
+;W[rk];B[rl];W[oh];B[nh];W[pe];B[pd];W[jd];B[je];W[ke];B[le]
+;W[lc];B[kb];W[ld];B[md];W[rc];B[rb];W[lb];B[mb];W[el];B[em]
+;W[cl];B[dn];W[hk];B[fk];W[im];B[eo];W[ep];B[gn];W[ma];B[na]
+;W[la];B[nb];W[ah];B[ai];W[ir];B[is]C[J3 would be better because black would get to keep sente. This way the sequence ends up with him having to come and defend the stones.
+
+Please see the game's last move for couple final comments.]
+;W[hs];B[js];W[jq];B[kq];W[iq];B[kr];W[sl];B[sm];W[sk];B[rm]
+;W[fo];B[en];W[bk];B[bj];W[nf];B[mf];W[dk];B[ck];W[of];B[ne]
+;W[da];B[eb];W[qq];B[qp];W[kk];B[mm];W[li];B[nl];W[jl];B[km]
+;W[kp];B[lp];W[gf];B[hf];W[hg];B[ff];W[hi];B[eh];W[ip];B[ko]
+;W[eg];B[dc];W[cd];B[ea];W[cb];B[ec];W[fh];B[ge];W[gg];B[bl]
+;W[gk];B[ek];W[hj];B[dj];W[go];B[hn];W[fj];B[fl];W[co];B[bn]
+;W[hm];B[io];W[sb];B[ra];W[sc];B[qk];W[rj];B[oj];W[mg];B[me]
+;W[mh];B[ni];W[gl];B[gm];W[ka];B[ja];W[rr];B[rq];W[pr];B[pq]
+;W[qr];B[rp];W[in];B[jo];W[if];B[id];W[mj];B[jm];W[lj];B[ej]
+;W[gj];B[gs]C[I can't find any way of killing the bottom left group. Of course, it doesn't really hurt to try, since for every stone that you play inside white territory, white also plays a stone, so you don't really lose any points although white gets more prisoners.]
+;W[hr];B[gq];W[ds];B[hp];W[gp];B[gr];W[hp];B[bq];W[ar];B[cq]
+;W[dp];B[dr];W[eq];B[es];W[cs];B[fr];W[he];B[ak];W[hf];B[oq]
+;W[oe];B[nd]C[This was a pretty exciting game, considering how odd moves Aya made at times. It looked like you wanted to play a game that was heavy on moyo, but you switched on the defence a lot, which let white reduce a lot of the potential territory at the center. 
+
+If you're not sure whether you're more territory or influence oriented, that's perfectly alright. Just keep exploring new moves until you find a way of playing that feels natural to you.
+
+On the other hand, if you are like me and like huge blobs of what look like could-be-territory (=moyo), you might want to check out the chinese opening and common moves associated with it. 
+
+Other general comments about this game:
+
+-If you see a weak white group, don't be overly defensive. If you see a strong group, don't be overly aggressive.
+
+-Remember to keep looking for moves that make your stones stronger while at the same time threaten to the other player's stones (such as R17).
+
+-It also feels like you have not yet been introduced to how corner stones behave differently in the opening, so I have added a couple of notes on that at the end.
+
+
+
+
+
+If you have any more questions or alternative moves you'd like to ask me about, don't hesitate to email me!
+-Jori];AE[js][is][hs][gs][es][ds][cs][bs][rr][qr][pr][or][kr]
+[jr][ir][hr][gr][fr][dr][cr][ar][rq][qq][pq][oq][kq][jq][iq]
+[hq][gq][eq][cq][bq][aq][rp][qp][pp][lp][jp][ip][hp][gp][fp]
+[ep][dp][cp][bp][ap][mo][ko][jo][io][ho][go][fo][eo][do][co]
+[bo][ao][jn][in][hn][gn][en][dn][cn][bn][sm][rm][mm][km][jm]
+[im][hm][gm][fm][em][cm][sl][rl][ql][nl][ll][kl][jl][gl][fl]
+[dl][bl][sk][rk][qk][pk][mk][lk][kk][ik][hk][gk][fk][ek][ck]
+[ak][rj][qj][pj][oj][nj][mj][lj][kj][jj][hj][gj][fj][ej][dj]
+[cj][bj][aj][qi][pi][oi][ni][mi][li][ii][hi][gi][fi][ei][di]
+[ci][bi][ai][oh][nh][mh][lh][fh][eh][dh][ch][bh][ah][rg][og]
+[ng][mg][lg][ig][hg][gg][fg][eg][of][nf][mf][lf][kf][jf][if]
+[hf][gf][ff][ef][cf][qe][pe][oe][ne][me][le][ke][je][ie][he]
+[ge][fe][ee][rd][qd][pd][od][nd][md][ld][kd][jd][id][hd][gd]
+[fd][ed][dd][cd][sc][rc][qc][mc][lc][kc][jc][ic][fc][ec][dc]
+[cc][sb][rb][nb][mb][lb][kb][jb][hb][gb][eb][db][cb][ra][na]
+[ma][la][ka][ja][fa][ea][da]
+(;B[qc]C[Playing a stone at the 3-3 point gives no influence towards the center, but is very hard to kill and will under most situations survive in the corner.]
+)
+(;B[qd]C[Playing at the 4-3 point has potential for influence, but if black is also allowed the enclosure at P17, it takes huge points in the corner too. Therefore it is common to see a white approaching a stone that is placed at this point at P17 or P16.]
+)
+(;B[pd]TR[qj][pj][jd][jc]C[Playing at 4-4 (star point) is very influence oriented and suffers from the obvious downside of white being able to invade at 3-3 at any time. The direction where black wants to expand next is outwards, either to the left or down the right side.
+
+(the marked triangles here do not show the best spots to play next, but rather the general direction where black wants to go. The real best move depends on where the other stones are)]
+;W[cd]C[Can you see where black should play next if white plays here?]
+;B[ec]C[playing at E17 not only threatens the corner away from white,  but at the same time works perfect to expand the influence of the 4-4 stone in the upper right corner.
+
+E16 is similar, but it allows white to make easy life in the corner by playing at E17 next.]
+)
+(;B[pc]C[Playing at the 3-4 point is the same as the 4-3: it has potential for influence, and if black is also allowed the enclosure at R15, it takes huge points in the corner too. Therefore it is common to see a white approaching a stone that is placed at this point at P15 or Q15.]
+)
+(;B[od]C[This move is rarely seen, but it can be very useful, like in this game.
+
+It is so far from the corner it practically denounces it, but it has strong influence towards the top left.]
+)
+(;B[oc]C[This is similar to P16, but because it is one line lower, it is easier to live on either the upper side or the corner.]
+))
+(;W[bn]
+(;B[bm];W[an])
+(;B[cn];W[co])
+(;B[co];W[cn])))
+(;B[bn]C[Safer alternative.]))
+(;B[ig]C[A simple jump would make white jump out of his skin if he wasn't a bot. The black center should end up eating him alive.]
+)
+(;B[jb]C[Guarantees a black connection to the right side and prevents white. You'll see later in the game why this would have made sense.]
+))
+(;B[qj];W[pi];B[oi];W[oh];B[ni]C[At this point the marked two points are rapproximately miai:
+
+Either white slides to corner to make sure that he will be able to live in exchange for black crawling towards it's stones at the top for a connection
+OR
+white keeps crawling out and black makes life easily at the top right.]
+
+(;W[qc];B[nh])
+(;W[nh];B[mh]C[This result leads to black being able to seal in a the right side and connecting his stones, so it is good for black.
+
+White might prefer to just slide into the corner for easy life.]
+)))
+(;B[qc]LB[qc:B][mc:A];W[qh];B[qj];W[oh];B[oj]TR[eq][ep]C[Black bottom is already huge and white group is still not alive.
+
+Next  E4 or E5 by black would really make the whole bottom right corner come alive for black. If white were to play at the bottom and ignore his weak group...]
+;W[gq];B[mh];W[ni];B[lj];W[nj];B[ok]LB[ok:B][nk:A];W[nk];B[nl]
+;W[nf]LB[mk:A][nf:B];B[md]LB[md:B][mc:A]C[Black now has territory at the top and a huge area mapped out on the right. 
+
+The two black stones at the center have a lot of space to run away and try to live later on.
+
+Harassing white can get complicated very fast, but black has no real weak groups, so he shouldn't be afraid to get a little dirty.]
+))
+(;B[dd]TR[ce][ed][fc][ec]LB[or:A][dd:B]C[Any move around this area works together with the P16 stone.
+Other decent alternatives would be E17, E16, F17, or even C15.
+
+D16 works here because whichever way white extends from the corner, black will be able to profit. Ive added two possible sequences, but a lot more of them exist.]
+;W[cd];B[ce];W[be]
+(;B[bf]LB[bf:A][de:B];W[cf];B[de];W[bg];B[bd];W[af];B[bc]C[This is joseki, and gives a pretty good result for both sides.
+
+It gives black a huge, strong upperside, but it does allow the white left side to become pretty strong too.]
+)
+(;B[de]LB[bf:A][de:B];W[dc];B[ec];W[eb]
+(;B[fc]LB[bf:B][fc:A];W[bf]C[Again, gives a strong upper side to black and it works well together with the P16 stone that takes no territory, but has influence towards the top.]
+)
+(;B[bf]LB[bf:B][fc:A];W[fc];B[ed];W[bd];B[fd]C[This is also playable for black. White will probably want to play G17 next so that black won't be able to make the top territory his, which gives black the freedom to harass the lonely white stone at the bottom any way he wants.
+
+If white plays somewhere else, black F18 is huge.];W[gc]))))

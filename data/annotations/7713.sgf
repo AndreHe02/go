@@ -1,0 +1,202 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.17]
+
+PB[YMCO]
+BR[5k]
+PW[Gelya]
+WR[5k]
+KM[6.5]
+DT[2010-02-13]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[W+4.5]
+TM[1800]
+OT[1x60 byo-yomi]
+RU[Japanese]
+
+C[Hello, i reviewed a half of the game by myself, so it should be very good to understand the meaning of my moves and some correct variations.
+The mostly I want to know is fuseki and how to attack weak groups and, of course, my mistakes.
+Thank You.
+  Gelya
+
+Your game is a very complicated one. I have tried to analyze it the best I can, but there are still some question marks left. 
+On the other hand, in some places I can give some general advice which is not so much open to doubt. The main area where both you and your opponent must improve is in calculating (or, in a fast game, estimating) the status of your groups. (jantje)]
+;B[dp];W[pd];B[dc];W[oq];B[qq]LB[po:b][pp:a]C[Where is the best answer in this position?
+
+Your move (a, Q4) is OK, though b (Q5) is more common. (jantje)]
+;W[pp];B[qp]LB[qo:a]C[Here White can (and probably should) hane at a.]
+(;W[po];B[qo];W[pn];B[qm];W[jq]C[This seems to be a reasonable result for both. (jantje)]
+;B[gq]C[I think its bad from Black, so I tenukied
+
+Black's move is not bad at all, but it carries no direct threat. So tenuki is OK. (jantje)]
+;W[de]LB[ce:A]C[Maybe A might be better
+
+That question is too hard for me, I wouldn't worry about it if I were you (jantje)]
+;B[ce];W[cf];B[cd];W[df];B[fd]LB[fc:a]C[Joseki is a, for a reason that we will shortly see.]
+;W[dj]LB[cj:a][cl:b]C[Maybe "A" is better?
+
+A (C10) aims at immediate stabilization. To judge your move, you must ask yourself whether you have a good answer to Black b which obviously threatens an invasion.]
+(;B[cn];W[hc]LB[jc:B][fd:A]C[Thought "A" was played to play after this B or something, I played here.
+Maybe there is better variations?
+
+I like your move very much, it shows that A is in the wrong position (jantje)]
+(;B[fc]C[I think this is very slow
+
+True, but what else should he do? (jantje)];W[kc]TR[hc]LB[mc:a]
+C[Settling group
+
+Another way of thinking is that H17 is a forcing stone that you need not hold on to at any price. Therefore a (N17) might be just as good as your move (jantje)]
+;B[nc];W[oc]LB[qf:A]C[I think now that this is bad, maybe I should not be very agressive and play around "A"?
+
+I think your move is alright, Black played in a crowded area to begin with and you should make him feel it. (jantje)]
+;B[nd];W[pf];B[nf];W[le]LB[oc:A]C[Don't want my group being attacked, and here I thought "A" was not good.
+
+Why? Black's group seems a lot weaker than yours. But perhaps a peep at N15 would be better than your move (jantje)]
+;B[me]C[How to answer?];W[lf]C[OK! (jantje)];B[ld];W[kd];B[lc]
+(;W[oe]LB[ph:A][qi:B]C[Bad move I think, should be at "A" or "B"?
+
+If Black can play here he is almost alive. So your move is certainly to the point. However, it may be best to build up strength along the right side and for your top side group. If Black is not careful, an attack may still be possible later (jantje)]
+;B[nh];W[ne]C[This is gote, I don't read the continuation here]
+;B[mf];W[ph]LB[ke:A]C[I must have been to protect from A];B[ke]
+;W[je]C[This was bad time for White here from now on];B[kf]
+;W[lg];B[jf];W[if]C[A daring move in a difficult situation (jantje)]
+(;B[ie];W[jg];B[jd];W[kg];B[je];W[he];B[hf]TR[kc][kd]C[Black could have gone for the two stones (K17)]
+;W[jc];B[ig];W[id];B[if];W[ge]TR[le][lf][jg][kg][lg]C[I managed to save this group...
+But marked stones are in danger];B[fe]
+(;W[gf]LB[ih:A]C[Is "A" better play?
+
+No, A is very much worse and loses the game immediately 
+:-Q
+(jantje)];B[ih];W[li]C[Is a slack move?
+
+Your choice is limited to M11, L11, K11 (jantje)];B[mh]LB[nj:a]
+C[This helps White more than Black, better to get out immediately at a (jantje)]
+;W[ji];B[ii];W[jj]C[A time-out seems appropriate here.
+The position that Black and White have created together is really complex. Before we can find the best moves here we must answer basic questions about the weak groups of Black and White.
+
+(see variations)]
+(;B[ij]
+(;W[jk]LB[ff:a]C[Based on the analysis shown at the previuos move, I think that White should play A here to get both the top and the left side group out of danger.]
+;B[ff]C[Exactly!];W[gg];B[fg];W[gh];B[fh];W[hk]LB[gi:A]C[Now I think this was bad
+Even A was better for me
+
+True, this should have been the losing move (jantje)];B[gi]
+(;W[hi]LB[fi:A]C[A very very bad...
+i must have play A
+
+It does not really matter anymore (jantje)];B[hj];W[hh];B[fj]
+;W[gk];B[gj];W[ei];B[fi];W[ib]
+(;B[kb];W[jb];B[lb];W[gb]C[Saved by the bell! The game starts anew.
+How about the status of Black's group at the top now?
+
+Answer: Locally, Black still cannot live unconditionally. And the White centre group has become strong! Therefore, having failed to kill, Black is in danger now. (jantje)]
+;B[ik];W[km];B[nj]C[This is a point that White should have taken earlier (jantje)]
+;W[qj];B[ck];W[cj];B[dk];W[ch]C[A must move? or this was alive?
+
+It seems impossible to find life for the White group if you let Black play here. So you are right, the White move is forced.]
+;B[im]
+(;W[hp];B[gp];W[nm];B[ho];W[jo];B[ip];W[jp];B[io];W[cq]TR[gp]
+C[Can I live here? Or when I can live in this corner? Or how to live if its possible?
+
+That question would have been harder to answer if you had not strengthened Black first. Now, living is out of the question. Before, it just might have worked... (jantje)]
+;B[dr];W[dq];B[er];W[cr];B[cp];W[bp];B[bo];W[aq]SQ[bo][dr]C[can live if one of these stones was not here...]
+;B[bs];W[br];B[cs];W[ds];B[es];W[eq];B[fr];W[ir];B[hq];W[qn]
+;B[rn];W[rl];B[rm];W[ql];B[pm];W[om];B[pl];W[pk];B[ol];W[ok]
+;B[nl]
+(;W[mm]C[You have had any number of chances to attack the Black group. Even now it would still have been very good to do so (see variation)]
+;B[nk];W[oi];B[mj];W[jm]
+(;B[jl]C[Small.
+Now that Black's group is safe, the upper right corner looks rather open  (jantje).]
+;W[kl];B[il];W[ob]C[Very good! (jantje)];B[nb]
+(;W[oa]C[Not big enough, and gote besides (jantje)];B[fb];W[fa]
+;B[ea];W[ga];B[eb]
+(;W[be];B[bd];W[bf];B[bk];W[bj];B[ej];W[ak];B[al];W[aj];B[bl]
+;W[ad];B[ac];W[ae];B[bc];W[eh]
+(;B[hr];W[pr]C[OK! (jantje)];B[qr];W[qs];B[rs];W[ps];B[rr];W[pq]
+;B[rd]C[Really! A complete waste of effort. (jantje)];W[rf]
+;B[qb];W[re];B[qd];W[sb];B[sc];W[rc];B[sd];W[rb];B[qc];W[of]
+;B[qe];W[od];B[qf];W[qg];B[sl];W[sk];B[sm];W[rj];B[gc];W[na]
+;B[ma];W[lj];B[lk];W[kk];B[ll]
+(;W[lm];B[ml];W[in];B[hn];W[jn];B[is];W[js];B[hs];W[iq];B[eg]
+;W[dg];B[lh];W[ki];B[oh]
+(;W[oj];B[og];W[pg];B[mg];W[ka];B[la];W[ja];B[dd];W[ee];B[ed]
+;W[hd];B[ni];W[kh];B[tt];W[tt]TB[cc][ec][ng][mk][sn][hp][cr]
+[gr][ds][aa][ab][ba][bb][ca][cb][da][db][mb][mc][md][ek][fk]
+[gk][hk][cl][dl][el][fl][gl][hl][am][bm][cm][dm][em][fm][gm]
+[hm][an][bn][dn][en][fn][gn][co][do][eo][fo][go][ep][fp][cq]
+[dq][eq][fq][ro][rp][rq][so][sp][sq][bp][bq][br][ao][ap][aq]
+[ar][as][fs][gs][sr][ss]TW[hb][ic][sc][qf][dh][kj][pj][sj][ha]
+[ia][pa][qa][ra][sa][pb][pc][qb][qc][qd][rd][sd][pe][qe][se]
+[sf][bg][cg][rg][sg][qh][rh][sh][af][ag][ah][ai][bh][bi][ci]
+[di][pi][qi][ri][si][qk][rk][kn][ko][kp][ln][lo][lp][mn][mo]
+[mp][nn][no][np][on][oo][op][kq][lq][mq][nq][jr][kr][lr][mr]
+[nr][or][ks][ls][ms][ns][os]C[White: 76 territory + 8 captures + 6.5 komi = 90.5
+Black: 73 territory + 13 captures = 86.0
+
+White wins by 4.5
+
+An exciting game, and I had much fun reviewing it. This game is a perfect illustration of the traditional advice for someone who wants to become stronger: practice Life and Death!
+Black had many chances to win, but he let himself be outplayed in the endgame. (jantje)]
+)
+(;W[mg]))
+(;W[ml]))
+(;B[or]C[Starting here, Black can still win. (jantje)]))
+(;W[bk]))
+(;W[pr]C[Perhaps this one is the most urgent, since Black P2 is so big (jantje)]
+))
+(;B[qc];W[pc];B[rd]C[This will live, and Black wins (jantje)]
+))
+(;W[nk];B[mm];W[no];B[mk];W[mj];B[mi];W[lj];B[ob];W[pb]
+(;B[nb];W[ma]C[This is dead.. Let's see whether B has better moves]
+)
+(;B[mb]
+(;W[na];B[md];W[nb];B[ma];W[oa];B[ka]C[Alive!
+So let's find something for White now...])
+(;W[oa];B[na]C[Ko.]))))
+(;W[cq]C[Worth a try here];B[dq];W[dr];B[er];W[br];B[bp]C[Or Black can play the ko of course]
+;W[cp];B[bo];W[co];B[do];W[bq];B[cs];W[ds];B[aq];W[ar];B[bs]
+;W[bn]C[Well, nobody said that Go is easy. Here, I believe that White lives (which means that B has overplayed) but there are a million other variations.
+Please analyze it for yourself, it will do wonders for your strength! (jantje)]
+))
+(;B[gb]C[This kills the White group (jantje)]))
+(;W[fi];B[gj]C[White cannot contain Black, and the White group at the top is dead. (jantje)]
+))
+(;W[ff];B[il];W[mj];B[oi]C[Still complicated, but it looks as if both the White and the Black group can find safety by making use of the other's weakness (jantje)]
+))
+(;B[tt]MA[de][dj][cf][df]CR[hc][id][kd][gf][jc][kc][ge][he]
+SQ[li][le][lf][jg][kg][lg][ji][jj]TR[jd][ie][je][ke][hf][if]
+[jf][kf][ig][ih][ii]SL[nf][lc][ld][nc][nd][me][mf][mh][nh]C[The Black triangled group and the White squares are running out, pure and simple. They will probably survive by connecting with friendly stones, not by making eyes.
+
+The "crossed" White group, the "circles" White group and the "check marks" Black group each deserve further study (see variations)
+
+Having looked at the variations:
+1. The "crosses" White group can get into difficulties if Black has a lot of stones nearby
+2. The triangled Black group and the squares White group must run for they cannot make two eyes.
+3. The White circled group must not become surrounded or else it will die.
+4. The Black checkmarks group can live in ko if it is surrounded.]
+(;AB[ff][fg][fh][fi][fj]MA[de][dj][cf][df]TR[ff][fg][fh][fi]
+[fj]C[If Black gets the triangled stones in place, the crossed White group is under attack.]
+;W[ch];B[ck];W[cj];B[bk];W[bj];B[bf];W[bg];B[be]C[With sente, the White group can live.]
+)
+(;AB[ff][fg][fh]CR[hc][id][kd][gf][jc][kc][ge][he]C[What happens to the circled White group if it gets surrounded?
+I believe it cannot live, even with White's sente (jantje).]
+(;W[gb];B[ib];W[ic];B[fb]C[As far as I can tell, White is dead]
+)
+(;W[ib];B[gb]C[Dead!]))
+(;AW[mj];W[oj]C[Another difficult question that must be answered before we can understand further play:
+Can the Black group live if White surrounds it?
+Let's try (see variations)];B[ob];W[pb];B[mb];W[oa];B[kb];W[jb]
+;B[la];W[md];B[na]C[Ko])))
+(;W[ih];B[gf];W[ff];B[fg];W[ef]
+(;B[gg]C[B has a better move than this! (jantje)];W[ib]C[like this]
+)
+(;B[hd]C[This really hurts because the white group dies (jantje)]
+;W[ic];B[gc]C[White cannot live (jantje)])))
+(;B[kh]C[This would have been hard to answer (jantje)]))
+(;W[qi];B[nh];W[he]C[Simplest and possibly best (jantje)]))
+(;B[nc]C[For example, if B plays here...];W[ec]C[... this will hurt badly.]
+;B[fc]C[Does this help? Well, not really...];W[eb];B[ed];W[fb]
+;B[dd]C[This is all somewhat unfortunate for B.]))
+(;B[cl];W[bj];B[co]TR[dj]C[If this is the best White can do, his triangled move was indeed not the best. (jantje)]
+)
+(;B[nc]TR[fd]C[But this approach has priority since the top is unstable due to the strange position of the marked stone. (jantje)]
+))
+(;W[qo];B[ro];W[qn];B[rn];W[qm]))

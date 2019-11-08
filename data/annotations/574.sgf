@@ -1,0 +1,229 @@
+(;FF[4]GM[1]SZ[19]AP[SGFC:1.13b]
+
+PB[jefounet]
+BR[19k*]
+PW[nwill]
+WR[18k*]
+KM[0.5]
+DT[1998-04-05]
+RE[W+2.5]
+
+C[Voici le commentaire.];B[dp];W[pd];B[dc];W[pp];B[ce];W[pj]
+;B[nq];W[oq]LB[jp:a][np:b][pn:c][lp:d]C[?
+On joue le kosumi-tsuke si on a déj  une pierre autour de "a" : Noir "b", Blanc "c", et Noir ne peut pas s'étendre plus loin que "d"...]
+;B[np];W[pm]LB[pn:a][jp:b]C[?!
+Le coup normal est en "a".
+
+Noir doit jouer en "b", variation.]
+(;B[kq]LB[jp:a]TR[dp][np][nq]C[?
+"On s'étend de N+1 intersections   partir d'un mur de N pierres", proverbe.
+
+Noir ne profite pas de l'erreur blanche ! Il vaut mieux jouer en "a" :
+c'est une bonne extension   partir du hoshi delta;
+c'est la meilleure extension   partir des deux pierres delta.
+
+L , les deux pierres delta et la pierre 11 sont surconcentrées.]
+;W[cn];B[dn]LB[cl:a][dl:b][dk:c][dj:d][cj:e][ck:f][dm:g][do:h]
+[fp:i]TR[dc][ce]C[Mmhhh...
+
+"Un bon coup a plusieurs objectifs", proverbe...
+
+Ce coup est défensif : Noir et Blanc vont se renforcer (séquence classique du tsuke-nobi).
+Noir est solide dans la région, il peut jouer un peu plus agressivement...
+par exemple en prenant en tenaille (a, b, c, d, e, f), ces coups étant EN PLUS des extensions   partir du shimari delta...   Les variantes sont nombreuses et complexes, alors peut-être Noir peut-il jouer tout simplement en   "i", qui me semble meilleur que le coup de la partie...
+
+Les variations montrent des suites possibles si maintenant Blanc joue en "g" (très classique) ou en "h" (agressif).]
+
+(;W[co]LB[dm:a][do:b]C[?!
+D'habitude, on joue en "a", le plus classique, ou en "b" pour espérer déclencher un combat sauvage...]
+;B[do]C[!
+Construit une influence et fragilise les deux pierres blanches.]
+;W[cm]LB[dm:a]C[Noir devrait jouer en "a"... voir variation.]
+
+(;B[cp]LB[dm:a][nm:b]C[?
+
+"Un bon coup a plusieurs objectifs", proverbe...
+
+Marque une volonté ferme  de garder le coin :-)
+
+Mais jouer en  "a" construit une influence qui rayonne sur toute la partie sud-est du goban, en menaçant ensuite de jouer en "b", ce qui construit un moyo gigantesque, ET EN PLUS jouer en "a" continue la pression sur les pierres blanches...]
+;W[dm]C[!!
+Blanc ne perd pas une seconde pour y jouer !];B[em];W[ci];B[jc]
+C[!
+Bon coup, bonne extension   partir du shimari.];W[mc]LB[el:a]
+C[Noir joue en "a" : variation.]
+(;B[qf]LB[el:a][ck:b][nm:c][je:d]C[Mmhhhh...
+Noir a de l'avance.
+
+Je ne suis pas sûr que l'invasion soit une bonne idée.
+
+Peut-être faudrait-il jouer en "a", qui force Blanc   jouer en "b" (sinon Noir y joue), puis en "c", pour construire un gigantesque moyo, tellement solide que l'on ne voit pas comment Blanc pourrait y pénétrer...
+
+Ou alors jouer très calmement en "d", qui construit également un beau moyo...     Noir risque de se faire attaquer et d'avoir un retour de b ton !]
+;W[qe]LB[qd:a]TR[mc][jc]C[Mmhhh...
+Le coup classique est en "a". La pierre blanche delta est un peu basse et un peu trop près de la pierre noire delta pour pouvoir attaquer Noir très sévérement...]
+;B[pf];W[qh]LB[ph:a]C[Mmhhh...
+Bonne direction, mais jouer en "a" est plus agressif...];B[ph]
+C[!
+Noir profite de l'imprécision de Blanc et joue au contact pour renforcer ses pierres attaquées...]
+;W[pi];B[oh];W[df]LB[me:a][qg:b][hc:c][oc:d][pg:e][rf:f]C[?
+Coup vague.
+
+"Un bon coup a plusieurs objectifs", proverbe...
+
+La situation dans le coin nord-est n'est pas terminée :
+Blanc a un coup en "a", qui menace les pierres noires ET EN PLUS menace d'envahir autour de "c" ET EN PLUS supprime l'aji d'une invasion en en "d"...
+Ou même jouer en "b", qui menace de couper les pierres noires en jouant en "e" ET EN PLUS menace de jouer en "f", construisant du territoire...]
+;B[bg]LB[de:a][cf:b][nf:c][el:d][je:e]TR[pf][qf][ph][oh]C[?
+A coup vague, réponse pas terrible...
+
+Localement, il vaut mieux jouer en "a" ou "b", mais globalement...     Il vaut mieux jouer en "c", qui rend les pierres delta très fortes ET EN PLUS menace très sérieusement le groupe blanc du coin...
+
+Ou jouer en "d", bien que le coup 30 en réduise maintenant un peu la valeur...
+
+Ou jouer en "e", qui menace également le groupe Blanc du coin...]
+;W[cf]C[?
+Va renforcer Noir inutilement en se créant une faiblesse !]
+;B[bf]LB[dh:a][el:b]C[Et maintenant, Noir est solide et menace de jouer en "a", qui combiné avec "b" peut malmener Blanc sérieusement...]
+;W[cg]LB[dh:a][gf:b][hc:c][me:d]C[?
+Mauvaise forme.
+Si Blanc craint pour ses pierres, il peut jouer en "a" (un peu soumis quand même...), ou en "b", qui menace :
+soit d'envahir directement en "c",
+soit de jouer en "d" pour menacer les pierres noires et viser également  l'invasion en "c"...]
+;B[fd]LB[de:a][je:b][ef:c]C[?
+Ne profite pas de la mauvaise forme de Blanc : jouer en "a" la rend VRAIMENT mauvaise :-) (un coup en "c" devient dévastateur) et protège le coin...]
+;W[de]C[Noir n'y ayant pas joué, Blanc y joue.];B[cd];W[fe]
+;B[je];W[ge];B[gd];W[ed];B[ec];W[el]LB[fl:a]C[Variation : Noir en "a".]
+
+(;B[fm]LB[fl:a]C[?
+Timide.
+Il ne faut pas hésiter   jouer en "a"...];W[fl];B[hm]LB[qc:a]
+[oc:b][qq:c][gl:d]C[Noir est en avance.
+
+O  sont les endroits importants ?
+
+Le coin nord-est toujours, o  le groupe blanc est maintenant une cible potentielle avec des attaques en "a" ou "b"...
+
+Le san-san "c" du coin sud-est...
+
+Le point "d" qui limite le moyo Blanc...];W[fq]C[Blanc n'a pas froid aux yeux !!]
+;B[eq]LB[hq:a][dr:b][jp:c][cq:d]C[?
+Mieux vaut jouer en "a" ou en "b" plutôt qu'au contact.
+Blanc peut maintenant jouer en "c" pour éroder, voire en "d" pour essayer de dérober le coin...     Voir les variations pour des coups possibles.]
+
+(;W[fr]LB[jp:a][cq:b]C[?
+Désespéré.
+Blanc devrait plutôt jouer en "a", pour essayer d'éroder le moyo noir... ou tenter en "b"...]
+;B[hq];W[er];B[dr];W[ep];B[dq];W[gp];B[hp];W[en];B[fn];W[eo]
+;B[fo];W[fp];B[ho]C[Blanc est capturé (  peu près).
+Mais les pierres noires du coin n'ont pas une forme terrible, prudence !]
+;W[he];B[hd];W[ni]LB[re:a][or:b][hk:c]C[Coup vague.
+
+Blanc est en retard, et n'a plus beaucoup de possibilités.
+
+"a" ou "b" prennent du territoire et menacent de faire un gros yose.
+
+"c" agrandit le moyo blanc.];B[mg]LB[mf:a][nf:b]C[Un peu vague.
+
+"a" ou "b" protègent les pierres noires en les rendant très solides, et donc menacent fortement le groupe blanc du coin...]
+;W[nh]C[?
+Ne sert qu'  renforcer Noir sans apporter grand-chose   Blanc...]
+;B[ng];W[ig];B[hj];W[gi];B[hi];W[hh];B[nm]C[Construit un gros moyo.
+
+Mais attaquer le coin nord-est doit être maintenant la priorité de Noir... et le défendre la priorité de Blanc.]
+;W[ll];B[mk];W[kk]LB[oi:a]C[Localement, Noir doit maintenant couper en "a"...
+Voir les variations possibles.
+Mais globalement, plutôt que de se disputer quelques points dans le centre, attaquer (pour Noir) et défendre (pour Blanc) le coin nord-est est beaucoup, beaucoup plus gros...
+
+Le coin sud-est est aussi plus gros que les petits points du centre...]
+
+(;B[li];W[mj]LB[oi:a]C[Supprime l'aji de coupe en "a".];B[nj]
+;W[nk];B[oj];W[oi];B[ok];W[nl];B[mi];W[lj]LB[ol:a]C[La variation montre ce qui se passe si Noir joue maintenant en "a"...]
+
+(;B[ml]LB[ol:a]C[?
+Blanc va capturer les trois pierres noires et connecter toutes ses pierres...
+"a" est meilleur...];W[ol];B[om];W[pk];B[mm];W[kn];B[lk];W[kj]
+;B[kl];W[jl];B[km];W[jm];B[lm];W[ik];B[jn];W[hl];B[ji];W[ki]
+;B[jh];W[kh];B[jg];W[mh];B[kg];W[if]C[Blanc et Noir jouent le petit yose dans le centre !!
+
+Le groupe blanc du coin nord-est est PRIORITAIRE !!!];B[jf]
+LB[ke:a][le:b]C[Dans cette situation, si tu veux connecter, jouer en "a" ou "b" est bien meilleure forme.]
+;W[gj];B[jj]C[Le petit yose continue !!];W[jk]LB[oc:a][qc:b]
+C[Les variations montrent quelques coups possibles après Noir "a" ou "b"...]
+
+(;B[pc]C[Enfin !];W[od];B[oc];W[nc];B[qd]LB[qc:a]C[En "a" me semble plus solide.]
+;W[rd];B[qc];W[pe];B[rc];W[rf];B[nd]LB[nb:a]C[Agressif.
+Assurer la vie du groupe en "a" me semble suffisant.];W[ne]
+;B[md];W[ld];B[me];W[lb];B[kb]LB[ob:a][nb:b]C[Dangereux.
+Noir n'est pas encore vivant dans le coin, si maintenant Blanc "a", la situation est confuse.
+
+Jouer en "b" me semble bon pour Noir.];W[kc];B[kd];W[lc];B[ib]
+;W[ke];B[jd];W[mf]C[J'ai l'impression que Noir s'est fait rouler en voulant être trop agressif...]
+;B[lf];W[le];B[nf];W[me];B[qg]C[Mauvaise forme !];W[rg];B[of]
+;W[sc];B[sb];W[sd];B[ra];W[on];B[nn];W[oo];B[qq]C[Enfin ! (bis)]
+;W[pq]LB[rp:a]C[Le coup standard est en "a", voir variation.]
+
+(;B[qp];W[qo]LB[ro:a]C[Si Noir commence par "a", il a l'air de s'en sortir... voir variation.]
+
+(;B[pr]LB[ro:a];W[or];B[qr];W[rp];B[rq];W[ro];B[nr];W[os];B[sr]
+;W[rs];B[ns];W[in];B[jo];W[im];B[hn];W[io];B[ip];W[no];B[mo]
+;W[ko];B[jp];W[bh]C[Très gros.];B[bo];W[bn];B[ap];W[ie];B[nb]
+;W[mb];B[oa];W[pb];B[qb];W[hk];B[lg];W[lh];B[op];W[pn];B[be]
+;W[lo];B[lp];W[ma];B[ka];W[id];B[ic];W[dd];B[oe];W[nd];B[gb]
+;W[ih];B[ah];W[ai];B[ag];W[an];B[ao]LB[br:a][bq:b]C[?
+Dangereux...
+Jouer en "a" ou en "b" est plus sûr !];W[aq];B[bp];W[br];B[bq]
+LB[cr:a]C[Variation : Blanc en "a".]
+(;W[ar]LB[cr:a]C[Si Blanc joue en "a", Noir est mal !];B[cr]
+;W[es];B[bs];W[na];B[ob];W[gm];B[gn];W[gl];B[ps];W[po];B[dl]
+;W[cl];B[dk];W[ck];B[dj];W[cj];B[gh];W[ii];B[ij];W[la];B[tt]
+;W[tt];B[tt];AE[pr][qq][qp][qr][rq][ps][gh][dl][dk][dj][sr]
+[br][aq][ar][en][ep][eo][gp][fq][fr][er][fp][es][kn][ko][lo]
+[pb])
+(;W[cr]
+(;B[ds];W[ar]C[Noir est mort !])
+(;B[ar];W[ds];B[bs];W[es]C[Noir est mort !])))
+(;B[ro];W[qn]LB[rn:a]C[Blanc ne peut pas jouer en "a"...];B[rn]
+;W[rm];B[pr];W[or];B[qr]C[Noir est vivant.]))
+(;B[rp];W[qp];B[rr];W[qr];B[rq];W[pr];B[rn]C[Et Noir devrait s'en sortir.]
+))
+(;B[qc];W[pc];B[re];W[rd];B[qd];W[rc];B[pe];W[qb])
+(;B[oc];W[od];B[nc];W[nd];B[mb]LB[lb:a][pc:b]C[Blanc a encore quelques possibilités ("a" ou "b"), mais Noir va le réduire   deux yeux, et fermer sente des deux côtés : c'est très gros.]
+))
+(;B[ol];W[ml];B[om]LB[qk:a][pn:b]C[Menace de jouer en "a" ou en "b" et de couper Blanc... et le groupe blanc du centre n'a qu'un oeil.]
+))
+(;B[oi]
+(;W[oj];B[nj]C[Les pierres blanches sont prises.])
+(;W[nj];B[oj]
+(;W[ok];B[nk]C[Le combat est bon pour Noir.])
+(;W[nk];B[ok];W[nl];B[ol];W[om];B[qk]C[Le combat est un peu difficile, mais Noir est mieux.]
+))))
+(;W[jp]C[Blanc va jouer léger : son objectif est l'érosion...]
+
+(;B[jq];W[hp]LB[iq:a][jn:b][fo:c]C[Prépare soit un coup en "a", soit un coup en "b"... et vise aussi un coup en "c".]
+)
+(;B[kp];W[jn]))
+(;W[cq];B[bp];W[er];B[dq];W[iq]))
+(;B[fl];W[fm];B[en];W[ek];B[gm]))
+(;B[el]C[Si Blanc ne répond pas, variation...]
+(;W[ck];B[nm]C[Beau moyo Noir.])
+(;TR[el]C[Si Blanc ne répond pas   la pierre noire delta ...]
+;B[ck];W[dk];B[dl];W[cl];B[dj];W[ek]C[Le shisho ne marche pas, mais...]
+;B[ej];W[fk];B[cj]C[Blanc est mal : il a deux groupes faibles, et celui du bord doit vivre...]
+)))
+(;B[dm]C[Continue la pression sur Blanc...];W[cl];B[nm]LB[dl:a]
+C[Noir a un beau moyo sur le bord sud.
+
+Ou Noir peut jouer en "a" plutôt qu'en 19, pour construire une influence imposante...]
+))
+(;W[dm];B[en];W[co];B[cp];W[cj];B[fp]TR[dn]C[Noir et Blanc sont stables et solides tous les deux : c'est l'objectif du coup delta.]
+)
+(;W[do]LB[co:a][eo:b]C[Agressif...
+
+Noir peut jouer agressif également (en "a"), ou calme (en "b")...
+
+Les variations montrent des possibilités.]
+(;B[co];W[eo]C[Et un combat sauvage va s'engager...])
+(;B[eo];W[co];B[en]C[Plus calme.])))
+(;B[jp]C[Toutes les pierres noires du bord sud travaillent bien.]
+))

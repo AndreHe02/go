@@ -1,0 +1,83 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+PB[Byung Soo Lee]
+BR[30k]
+PW[GNU Go]
+KM[6.5]
+DT[2007-07-13]
+RE[B+Resign]
+RU[Japanese]
+US[Byung Soo Lee]
+
+C[CZR: Hi, my name is CaeZaR.  This is my first review of a human/computer match.  In general, I do not find playing computers to be all that interesting or instructional and I suggest only playing real opponents.  *Currently* (and hopefully for a long time yet) computers are have little strategy.
+
+I have tried to be general in my comments overall to bring 'bigger picture' issues out; although there are specific comments as well.
+
+BSL: This is a game against the most difficult setting of gnugo. I have started playing on about the same level with gnugo recently. There were no take-backs. I ask that you evalute both the game and suggest a beginning rating for me when I play on IGS. Please look at the early moves especially carefully. All I know about Go are the rules and what I have guessed from my previous games, so this is a weak area for me. Thank you very much for voluteering your time. I appreciate it.]
+;B[pp];W[dd];B[dp];W[pd];B[nq];W[dn];B[fq]LB[dn:A][fp:B]C[CZR: The usual response to 'A' is 'B'.]
+;W[cp];B[cq];W[co];B[bq];W[cj];B[jq]LB[jp:A]C[CZR: Given the triangled stones, I think 'A' is also possible, or not playing on the lower half at all.]
+;W[fn];B[qn]TR[fc][gc][mc][nc][fd][gd][md][nd][pf][qf][pg][qg]
+[pj][qj]C[CZR: You need to look elsewhere.  Too many of your stones are concentrated on the bottom side of the board.  Better possibilities are marked.]
+;W[hn];B[hp];W[jn];B[lp]C[CZR: The last two exchanges only reinforced the over-concentration of stones on the bottom side.  The last move especially (it is not urgent) should have been ignored in favour of a bigger move (see marked points of move 15).]
+;W[cg];B[ic];W[qh];B[fc];W[ec];B[fb];W[qk];B[nc]C[BSL: I hoped to prevent white from building here, which would have given it a good place from which to take the center.
+
+CZR: That's good thinking.];W[nd];B[md];W[ne]
+(;B[me];W[oc];B[mf]LB[nc:a][mf:b]C[BSL: Stone B sacrifies stone A to build in the center.
+
+CZR: This sacrifice assumes that Black will make more profit in the center than he would have on the side.  In general, it is more difficult to make center territory than side territory, so I think the trade-off is not good.  White gains sure territory for Black's potential territory.  I just don't thin the potential is great enough.]
+;W[mc];B[lc];W[nb];B[lb];W[eb];B[fe];W[gh]TR[cg][cj][dn][fn]
+[hn][jn]C[CZR: Because of the earlier marked stones, this move creates a large moyo.]
+;B[nf];W[pf];B[hi]LB[hh:B][ih:d][gi:A][hi:a][ij:b][jk:c]TR[bl]
+[cl][bm][cm]C[BSL: I felt like A was the weakest point for white out of A, B, and C. I also felt that A would offer me the best chance to build in the center while white scrambled to defend the attacked area.
+
+CZR: Something in this area is definetely needed.  And a deep invasion around the triangled area is probably impossible at this point.  At least it looks difficult to me.  But that could be why the computer plays B4 next.
+
+Your move at 'a' invites a White response at 'A' or 'B'.  After 'B', the stone at 'a' will be difficult to defend.  See variation 1.
+
+I think 'd' works with the existing stones on the upper side and should be considered.]
+
+(;W[bp];B[hk]TR[ch][dh][eh][fh][gh][hh][ih][jh][ci][ji][cj]
+[jj][ck][jk][cl][jl][cm][jm][cn][dn][en][fn][gn][hn][in][jn]
+C[BSL: the primary objective of this move was to prevent white from taking the vast center territory it had begun outlining.
+
+CZR: Correct.  Just keep in mind that these two stones will need to run to safety somewhere, so watch you escape routes.]
+;W[hh]
+(;B[gi];W[ih];B[fi];W[jk]C[CZR: This is what I was talking about when I said to watch your escape routes.  Now the Black stones are in big trouble.]
+;B[fh]
+(;W[ii];B[dh];W[ie]LB[ie:a]C[CZR: If this stone survives, White has seriously reduced your territory. That is why it is better to take sure territory on the side than maybe territory in the center.]
+;B[mi]LB[ie:a][mi:b]TR[fa][la][fb][lb][fc][gc][hc][ic][jc][kc]
+[lc]C[BSL: I felt good about the outline in the upper-middle above A, so I thought that I should prevent white from building around B. Also, I felt that trying to reclaim the area immediately surround A was futile.]
+;W[dl];B[ek];W[rm];B[rn];W[qq];B[pq];W[ch];B[di]TR[kf][kg][kh]
+[oh][oi][oj][lk][mk][nk][ok][ll][ml][nl][ol][lm][mm][nm][om]
+[ln][mn][nn][on]C[CZR: This move and several of the following are quite small compared to the undefined areas remaining on the board (marked).  Moves to gain influence in this area are more important.]
+;W[ci];B[dk];W[ck];B[el];W[em];B[df];W[cf];B[de];W[ce];B[ed]
+;W[dc];B[ij];W[ki];B[jj]TR[gh][hh][ih][ii][ki][mi]C[BSL: This move threatens to connect black and surround white.
+
+CZR: That is a good idea.];W[ql]C[BSL: I have no idea why white felt that this was such an important move. I feel like the next few moves decided the game.
+
+CZR: That's a computer for you.];B[kj]C[BSL: Effectively surrounds white.]
+;W[sn]TR[ie][gh][hh][ih][ii][ki]C[BSL: I felt that white should have played somewhere in the middle to make a live group out of hte surrounded stones.]
+;B[li];W[qp];B[so];W[sm];B[qo];W[nl];B[on];W[mb];B[ld];W[aq]
+;B[ar];W[ap];B[br];W[mn];B[kk];W[ko];B[jl];W[no];B[oo];W[do]
+;B[ep];W[nj];B[ni];W[oi];B[nh];W[kg];B[ig]LB[if:b][hg:a][jg:c]
+C[BSL: I think this move prevents white from making eyes no matter where white surrounds it (A, B, or C).
+
+CZR: White's stones are surrounded and lack much form.  It looks like any stone placed in that general area are lethal.]
+;W[fl];B[fk];W[gl];B[gk];W[dg];B[eg];W[jp];B[kp];W[ip];B[iq]
+;W[ho];B[im];W[in];B[hl];W[hm];B[go];W[gn];B[fo];W[jm];B[qm]
+;W[rl];B[oh];W[pi];B[of]C[BSL: GNU Go resigned here... I didn't know that the computer could resign.
+
+CZR: I hope my comments were useful.])
+(;W[fg]C[CZR: I think White should have made this cut.]))
+(;B[ji]C[CZR: This move is much safer as it keeps some communication with Blacks stones at the top.]
+))
+(;W[hh]
+(;B[ih]C[CZR: If Black hanes, white cuts.];W[ii];B[ji];W[ij]
+;B[jh]C[CZR: Black sacrifices a stone so that this group relates to the other Black stones in the area.  Although White has also made serious gains on the left side.]
+)
+(;B[ii]C[CZR: If Black connects, White keeps them seperated from the group above.]
+;W[ih]TR[hi][ii]C[CZR: These two stones are floating and will be a burden to you.]
+)))
+(;B[oc]C[CZR: This exchange usually follows.];W[pc];B[me];W[mf]
+;B[lf]C[CZR: Compare this with move 37.  White's corner is much smaller in this position.]
+))

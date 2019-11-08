@@ -1,0 +1,144 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+PB[botadeus]
+BR[10k]
+PW[masterlcm]
+WR[10k]
+KM[6.5]
+DT[2008-08-07]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[B+32.50]
+TM[600]
+OT[5x20 byo-yomi]
+RU[Japanese]
+
+C[Thanks for reviewing the game for me. I played white.  Would you mind to give suggestions on moves where you think a bigger extension would be better or a better move gobally would be better? Also, could you point out which move is a crude style? I want to improve my weakness. I would appreciate any advice about my game.
+
+
+* Hello !! I play as Litost 3k on KGS and I'll do my best to review your game. Feel free to contact me via email or KGS if you have any question.
+
+* Overall, I think that you are not aggressive enough. Black had many weak groups on the board that could have been attacked efficiently, giving you an easy game, but you did not attack them. I'll show you some interesting options during the review.
+
+=== More About Attacking ===
+
+* Why do we attack? We do not - never - attack to kill, but rather to get some sort of *advantage*, either free territory or additional influence, which can turn itself into territory or help support more attacking.
+
+* How do we attack? We start by creating weaknesses in the opponent's groups, go on by exploiting these weaknesses (chasing the groups using moves such as keima and boshi), and finish by making free points during the chase.]
+;B[pp];W[dd];B[pd];W[dp];B[fc];W[df];B[cn]
+(;W[gq];B[cj];W[ch];B[pj]LB[cl:A]C[* This move by Black is surely a big point, but this leaves a weakness at A, which may be exploited later.]
+;W[nc];B[pg];W[pb];B[qc];W[kc];B[ic];W[qn]C[* I do not like R6 very much. Locally, Black has excellent options. If you want to approach, I'd therefore recommend going for R3, so that your G3 stone works a bit more efficiently.
+
+* More importantly, I think that attacking the corner should not be your first option. Black has indeed two weak groups on the board, while all your stones are safe. What about attacking them and try making free points in the process? See variations.]
+
+(;B[ql];W[qp];B[qq];W[rp];B[pn];W[pq];B[oq];W[pr];B[qr];W[or]
+;B[nq];W[nr];B[mr];W[rr];B[qo];W[rq]C[* Answering R5 is not necessary, White's life is not endangered, and you're not protecting big territory either. You may play elsewhere.]
+;B[oo]C[* N4 would have been a better move.];W[mq]TR[qn]C[* That cut is very powerful ! Both players overlook the aji of R6.]
+;B[lq];W[mp]TR[op]C[* White N4 is strong. Black has to decide whether to protect from the P4 tesuji or from the M2 cut.]
+;B[kr];W[lp];B[kp]
+(;W[mn];B[mo];W[lo];B[no];W[ko];B[jp];W[jo];B[rn];W[ip]C[* Excellent move! The Black group may now be enclosed.]
+;B[iq];W[hq];B[ir];W[hr];B[io];W[hp];B[in]LB[gd:1][dk:2][hm:3]
+[jq:4]C[* Dangerous. The Black group is not alive yet, White can still play N1 and start a ko.
+
+* The overall situation is not so good for Black, with 3 weak groups and a fourth one depending on a ko to live.]
+
+(;W[km]C[* Good shape, but starting the ko at N1 is best. Black has indeed lots of weak groups, you have therefore an infinite supply of ko threats.]
+;B[bp]C[* Urgent move by Black.];W[cq];B[bq];W[br]LB[ec:B][hm:A]
+C[* Both Black and White groups are already alive, blocking here does not achieve much. You may play elsewhere (A or B would be good choices).]
+;B[gn];W[en]C[* Good move, that isolates the central floating Black group.]
+;B[em]C[* Trying to connect forcefully makes Black too thin. H9 is correct for Black, here.]
+
+(;W[fm]C[* Instead of cutting, consider the proposed variation.]
+;B[fn];W[eo];B[dm];W[fl];B[hl]C[* Now, Black has a splitting attack on two White groups.]
+;W[ek]
+(;B[dk];W[ei];B[jk];W[kk];B[kl];W[ll];B[jl];W[lk];B[jm];W[lm]
+;B[db];W[cc];B[cb];W[ji]C[* Good move, which helps your own group while attacking the Black one.]
+;B[ii];W[jj];B[kj]C[* That cut is strange. It seems to me that White has nothing to fear and can go all out against the Black group, turning at J10 (the Black group does not look completely alive, with its fragile eyespace).]
+;W[li];B[ij];W[jh];B[ih];W[jg];B[ie];W[ig];B[hg];W[hh];B[gh]
+;W[hi];B[hj];W[gi];B[gj];W[fi];B[fg];W[dh];B[hf];W[mf]C[* We enter yose. You have to find sente moves, then take reverse sente moves. The 25-points ko at N1 still remains.]
+;B[ke];W[kf];B[nh];W[mh];B[nj];W[qh]LB[jb:B][qb:A][bi:C]C[* Black has too many stones around for this invasion to succeed. A, B and C are usual sente moves.]
+;B[qg];W[ph];B[oh];W[rg];B[rf];W[rh];B[rj]C[* Instead of S10, protecting at Q11 looks more solid for Black.]
+;W[og];B[of];W[ng];B[qf];W[oi];B[ni];W[oj];B[ok];W[pi];B[nl]
+;W[qj];B[pk];W[rk]TR[qi][ri][si][rj][sj]C[* Note the bulky five area. The vital point for killing this group is S11.]
+;B[qk];W[ri]C[* Good, you have a ko !];B[qi]C[* Playing N1 now gives you a double ko; one of the groups is yours.]
+;W[sj]C[* Why not play the ko? Now you're dead.];B[qj];W[rl]
+;B[rm];W[ro];B[qm];W[nm];B[om];W[oe];B[pe];W[od];B[nf];W[mg]
+;B[ne];W[md];B[le];W[me];B[lf];W[lg];B[jf];W[kg];B[if];W[jb]
+;B[ib];W[fe];B[ge];W[ff];B[gf];W[fd];B[gd];W[ec];B[eb];W[bi]
+;B[bj];W[bb];B[bc];W[bd];B[dc];W[ac];B[ed];W[ee];B[ec];W[eg]
+;B[ml];W[mm];B[qb];W[pc];B[pa];W[oa];B[qa];W[oc];B[pf];W[mk]
+;B[nk];W[mj];B[mc];W[lc];B[mb];W[nb];B[jc];W[kb];B[ld];W[kd]
+;B[je];W[nd];B[jd];W[ma];B[lb];W[la];B[fo];W[fp];B[cp];W[dq]
+;B[do];W[jn];B[dn];W[ep];B[gm];W[ho];B[hn];W[gl];B[gk];W[fk]
+;B[il];W[dj];B[dl];W[ci];B[aj];W[ai];B[sg];W[nn];B[on];W[np]
+;B[op];W[ms]C[* White eventually starts the big ko.];B[lr]C[* Black, by refusing the ko, is now dead.]
+;W[jq];B[kq];W[is];B[jr]C[* Good!];W[js]C[* K1 not necessary to kill.]
+;B[os];W[qs];B[go];W[ia];B[ha];W[ja];B[gb];W[fh];B[gg];W[ca]
+;B[da];W[ba];B[so];W[sp];B[sn];W[aq];B[ap];W[ar];B[gp];W[fj]
+;B[cr]C[* This is overplay.];W[cs]C[* C1 is wrong (atari at D2 was fine). Now Black has a nice sequence.]
+;B[dr];W[er];B[fq];W[eq];B[fr];W[es];B[ks]C[* Black misses the kill! G2 was needed here. Now, White has a tesuji to escape his dull destiny...]
+;W[hs]C[* ... but unfortunately misses it! Consider G1 instead of H1 (Black has tricked you using shortage of liberties - pay him back)   :)
+
+* There are no further comments from this point on.];B[gr];W[ds]
+;B[gs];W[ns];B[ls];W[tt];B[tt]TW[aa][ka][na][ab][lb][mb][ob]
+[bc][mc][ad][cd][ae][be][ce][de][af][bf][cf][ef][ag][bg][cg]
+[dg][ah][bh][eh][kh][lh][di][ki][ej][kj][lj][kn][ln][qq][sq]
+[cr][dr][qr][sr][as][bs][os][ps][rs][ss]TB[ea][fa][ga][ra][sa]
+[fb][hb][rb][sb][gc][hc][rc][sc][hd][id][qd][rd][sd][he][qe]
+[re][se][sf][rg][ph][qh][rh][sh][oi][pi][ri][si][oj][sj][ak]
+[bk][ck][hk][ik][rk][sk][al][bl][cl][ol][pl][rl][sl][am][bm]
+[cm][hm][im][pm][sm][an][bn][qn][ao][bo][co][ho][po][hp][ip]
+[gq][hq][jq][hr][hs][is][js])
+(;B[dj]C[* A better continuation for Black.];W[ej];B[dh];W[hj]
+;B[jl];W[kl];B[ij]))
+(;W[dn];B[dm];W[co];B[bn];W[bo];B[ao];W[fm];B[fn];W[cm];B[bm]
+;W[fl]LB[cl:A][il:B]C[* A and B are miai.]))
+(;W[ms]C[* White can set up a ko for 25 points.]
+(;B[lr]C[* If Black refuses the ko...];W[jq];B[kq];W[is];B[jr]
+C[* ... Black dies.])
+(;B[ls]C[* So Black has no choice.])))
+(;W[op]C[* White has the throw-in which helps him connect if needed.]
+;B[np];W[no];B[op];W[on];B[po];W[pm];B[ro];W[rn]))
+(;AE[qn]TR[fc][ic]C[* Let us consider the top group.
+
+* First, we notice that Black can slide at D17 to try and secure a base. If we let Black do that, the attack ends abruptly.
+
+* If we prevent Black from entering the corner, Black will escape towards the center. Does this damage White? Not at all, as the White top group is robust. The influence of the left group would be reduced, but attacking is precisely what influence should be used for.
+
+* So let's start.];W[ec]C[* Contact plays are normally used for defense. Indeed, touching a stone generally reinforces shapes of both players.
+
+* Conceding a better shape to Black here (say, one eye) looks like a good trade-off for the following benefit: White corner is nearly safe (about 20 points) and Black group can still be chased.]
+;B[fd]C[* Black blocks at F16; descending at F18 is indeed not reasonable, as White could then play F16 himself and dramatically increase his own influence.]
+;W[eb]C[* This move completely closes the corner, and threatens Black's base.]
+;B[ie]LB[jd:A][ke:B][kf:C][ig:D][bp:F][nq:E]C[* Black needs to make shape, so escapes towards the center. Descending at F18 looks too slow (Black might live this way, but at the cost of being enclosed, which would give White quite a lead in the balance of influence).
+
+* White has successfully attacked and made profit, while Black group still isn't safe. That is good. What now?
+
+* With J15, Black has undoubtly gained some influence. If he manages to enclose the White group at the top, then the center will be under his domination - we have to pay attention to that.
+
+* Also, Black still has another weak group at C10.  If we could prepare some move that threatens both groups at the same time, i.e. a splitting attack, we would get some additional advantage. Such moves could be, for instance, "leaning" moves or "ladder-breaker" moves.
+
+* There are, locally, many ways to continue the attack: A and B first come to mind, C and D are also possible. However, the benefit of the attack would not be obvious; you may therefore leave the situation "unsettled", and go play elsewhere (for instance E for corner approach, F to start another attack). You will decide how to settle the top at a later stage, depending on how the global situation has evolved.]
+)
+(;AE[qn]TR[cj][cn]C[* Let us consider the left group.
+
+* First, we notice that Black can slide at B4 to try and secure a base, or play D8 to solidify its formation.
+
+* Two options look feasible : invading immediately at C8, or theatening the base at B4.]
+
+(;W[cl]C[* White invades. The expected result of the attack is additional influence.]
+;B[cq]C[* Black will take the san-san. Where to block?]
+(;W[cp];B[dq];W[ep];B[bp];W[bo];B[bq];W[bn];B[fr];W[gr];B[fq]
+;W[fp];B[eq]LB[ej:A][nq:B]C[* White can now cap at A, or approach the corner at B.]
+)
+(;W[dq];B[cp];W[do];B[bn]LB[em:B][nq:A]C[* White can now approach the corner at A or prevent Black from getting out at B.
+
+* This variation looks somehow inferior to the one where we block from the other direction.]
+))
+(;W[bp]C[* White closes his corner and undermines the Black base. D8 now looks like the correct shape for Black, but White still has good follow-ups.]
+;B[dl];W[bi];B[bj];W[en]C[* We do not infiltrate through A7, but rather build up influence with E6.]
+;B[fl]LB[ec:A][nq:B]C[* Black cannot let White take this important point (F8). Now White can turn to the top group at A, or try the corner approach at B. Black group still isn't secure, and we can come back later to it, when the situation has evolved.]
+)))
+(;W[cl]C[* I would play C8 here. Not only does it attack the C6 stone, but it also extends from the D14 formation; this is a double-purposed, fast move.]
+;B[cq]C[* If Black invades...];W[cp];B[dq];W[ep];B[bp];W[bo]
+;B[bq];W[co];B[fq]C[* ... White obtains good influence, and may now play elsewhere.]
+))

@@ -1,0 +1,66 @@
+(;FF[4]GM[1]SZ[19]ST[1]AP[SGFC:1.15]
+
+PB[global]
+BR[24k]
+PW[HikaruBr]
+WR[22k]
+KM[0.5]
+DT[2005-03-21]
+PC[The Kiseido Go Server]
+RE[W+Resign]
+TM[0]
+
+C[Hi, I'm enfo, a 9k on kgs. I'll be reviewing your game. Hope my comments are helpful.]
+;B[dp];W[pp];B[cc];W[qd];B[nq];W[qn];B[jp]LB[lq:A][lp:B][kp:C]
+C[This move is a bit large. Leaves a weakness for invasion at A. Usually the proper joseki is at B or C.]
+
+(;W[dd];B[cd];W[ce];B[dc];W[ed];B[be];W[cf];B[ec];W[bf];B[bd]
+;W[fd]LB[ck:A]
+(;B[kd]LB[od:A][ck:B]C[This move doesn't really do anything. It doesn't put pressure on white, doesn't claim much territory, only gets a minimal amount of influence. To me the moves at A or B seem much bigger at this point. A is preferable because it puts pressure on the 4-3 stone in the top right. B is needed to mitigate the huge influnece from white's thick wall.]
+;W[jc]TR[od]
+(;B[nd];W[oc];B[nc]TR[nd][kd]C[This shape is overconcentrated. Whenever there is a wall of two stones, there should be three spaces for optimal coverage. Therefore consider the alternate sequence.]
+;W[od];B[kc];W[jd];B[jb]C[This move is a bit small. Good for end-game.]
+;W[ib];B[hc];W[ic];B[gc];W[hd];B[gd];W[ge];B[he];W[id];B[fc]
+;W[hf]C[I got sent, better is - i think...]
+(;B[ie];W[je];B[lf];W[kf];B[ke];W[jf];B[dj];W[pj];B[fe];W[if]
+;B[de];W[ef]LB[df:A][ff:B]C[w want connect and holding the influence to the center, b will get 6 Points in Gote
+
+-- Yeah, classic crane's nest. It might not be gote because white might need to block you from leaking out at A or B.]
+;B[ee];W[ff];B[df];W[dg];B[eg];W[eh];B[fg];W[gf];B[cg];W[dh]
+;B[bg];W[fh]C[black has sente, but there are bigger moves ;)]
+;B[gg]C[same bug like in move 39
+
+Hmm.. this is the ladder. You won't be able to save those two.]
+;W[gh];B[gj]C[try to get influence
+
+
+-- Good idea, your moyo in the bottom left is getting big. But in the future, it's better to get influence while attacking them. Just playing a move to get influence as the primary reason is considerd slow. It's always better to get influence as the secondary objective to a move.]
+;W[jj];B[og];W[pg];B[mi];W[mj];B[gm];W[gp];B[gr];W[iq];B[jq]
+;W[ir];B[jr];W[eq];B[dq];W[er];B[fq];W[ep]
+(;B[fp]C[bad move better i think];W[eo];B[go];W[hq];B[hp];W[ip]
+;B[io]C[dont see the atari];W[ho];B[gq];W[gn];B[hp];W[hn]C[b loose the control, b has to give up]
+;B[im];W[gp];B[fo];W[hp];B[in]LB[fn:A]C[Saving this group at A is more vital than the stone there.]
+;W[fn]C[w lives];B[hr]LB[is:A]C[White should have played here for the kill.]
+;W[en];B[is];W[fs];B[hs];W[fr];B[dl];W[dm];B[cm];W[hm];B[hl]
+;W[gl];B[fl];W[fm];B[gk];W[el];B[fk];W[ek];B[ej];W[dk];B[ck]
+;W[cl];B[bl];W[bm];B[dl];W[cn];B[em];W[cl];B[do];W[dn];B[cm]
+;W[bp]TR[do][dp][dq]C[This group is cut off and dead. No point in trying to save it.]
+;B[bo];W[co];B[bn];W[cl];B[cp];W[ao];B[am];W[an];B[cm];W[al]
+;B[ak];W[cl];B[am];W[el];B[dk];W[al];B[bk];W[am];B[cm];W[dr]
+C[black gaves up because of the lost corner.
+ok he has a outer wall, but i dont think its enough to win.
+
+
+-- Yes. Too far behind at this point. Black has the right idea sometimes, but needs to be more efficient with some moves, and more careful concerning which group are in danger, and which groups can't be saved.]
+)
+(;B[eo]))
+(;B[fe];W[de];B[gf]))
+(;B[od];W[pd];B[oc]TR[od][kd]LB[ld:1][md:2][nd:3]C[This shape here is what you want.]
+))
+(;B[ck]
+(;W[cm];B[ch])
+(;W[ci]
+(;B[dm])
+(;B[ek])))
+(;B[od];W[pf]))
+(;W[lq]C[Correct answer]))

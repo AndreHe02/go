@@ -1,0 +1,157 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+PB[MMenezes]
+BR[16k]
+PW[senryobot]
+KM[6.5]
+DT[2008-08-12]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[W+45.50]
+TM[1800]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+C[senryobot [-\]: GTP Engine for senryobot (white): GNU Go version 3.7.10
+
+[Broege: All comments are placed at the end of a node comment (if any), and marked with square brackets and "Broege:" prefix.
+The game is commented for Black.\]];B[pd];W[cp];B[eq];W[dd]
+;B[pp];W[hp];B[eo]LB[dp:C][bq:B][cq:A]C[[Broege: probably the simple answer would to play A. Then White B and Black C follow.\]]
+;W[dn];B[cr]LB[cq:A]C[[Broege: According to Kogo's Joseki Dictionary Black should play A here. This puts some more pressure on White 3-4 stone and gives Black the corner.\]]
+;W[en];B[gq]LB[fo:A][go:B][bq:C]C[[Broege: This move seems too tight. If you wish to escape to the center then perhaps A or B would be better. And if you wish to live safely - how about C?
+Please note however, that I'm too weak to properly read joseki - so this hints are based on intuition rather than reading.\]]
+;W[nd];B[pf];W[pc];B[qc];W[oc];B[qd]LB[qb:A]TR[rc][sc][rd][sd]
+[qe][re][se][qf][rf][sf]SQ[sa][rb][sb]C[[Broege: The joseki move here is A. This move is again too tight - Black stones are over-concentrated which of course is a waste.
+If one plays a defensive move (which is needed here) it's best to choose one that has some other value as well - like creating territory, giving influence, attacking the opponent or just giving a good possible continuation(s).
+The move played does not give Black any territory (I bet you considered the triangles are your territory) nor does it weaken White in any way.
+The joseki move increases Black territory slightly (squares) but it also provides a possibility for a good yose continuations - like monkey-jump into White territory.\]]
+;W[jc];B[pj];W[nq];B[pn]LB[qh:B][rj:A][ql:C][kq:E][lq:D]TR[hp]
+C[[Broege: Now Black side begins too look like it has too much stones and too little actual territory. If needed White could play at A and cut the Black side at either B or C (or live under the wall).
+Perhaps a pincer at D or E, which also aims slightly at the triangled White stone, would be better here? A pincer looks even more promising after visualising what will follow after the move played (and what happened in the game): White will create a stable group in the lower right which also strengtens the triangled stone pretty well.\]]
+;W[pr];B[qq];W[kq];B[mn]LB[cj:B][mo:A]TR[pn][pp]C[[Broege: A slightly better local move would be at A - it's both standard shape related to the triangled stones and puts at least some pressure on White.
+But I think Black should aim for some global move here and try to make a foothold at the left side. If White ignored this move (which luckily it didn't) and played somewhere around B, Black could have a hard time reducing the created moyo.\]]
+;W[hq];B[hr]LB[bq:A]C[[Broege: Playing at A gives Black more room to live in but I think White move could be ignored here.\]]
+;W[nf];B[ng]LB[og:A][oh:B]C[Was it a good idea to touch here? I was trying to get more territory...
+
+[Broege: Generally there is a saying that one should not touch the opponent's stones as it usually only strengtens them and weakens one's own stones. If you wished to enhance your potential territory A or B would be better.
+The problem here is that White managed to enhance its influence first - and by always answering White moves you risk that it will continue to enhance its influece while reducing yours.
+I think that here the best proverb to apply would be "the best defence is attack" - think of all the space on left side and around top-left corner. If you reply to White, White will play there first. By attacking (preferably with some sequence ending in your sente) before replying you take some gains of your own choosing and can then defend without the fear of loosing more opportunities.\]]
+;W[lf]C[[Broege: Now you can see that White stones are only stonger after the touching move. And the Black stone seems somewhat lonely and cuttable.\]]
+;B[cf]C[[Broege: Good. Perhaps playing here earlier would be better but as long as Black managed it before White it's OK.\]]
+;W[fc];B[bd];W[cc];B[ci];W[bc];B[cd]LB[be:A]C[[Broege: Personally I'd play A here - it doesn't leave any weaknesses behind. After the move played, White can play (in yose) A itself and reduce Black territory quite a bit - see the variation.\]]
+
+(;W[qr]C[[Broege: White must be feeling (if a computer program can feel) it's quite ahead now as it already plays yose moves.\]]
+;B[rr]LB[cl:A]C[[Broege: This was not that necessary. The possible continuation for White is not that painful for Black - so extending to A (which also attacks three White stones) would be better.
+In fact this it probably the biggest Black's weakness - answering White too often instead of attacking on Black's own terms and gaining as much profit as possible. It's worth to remember that by answering the opponent's moves one cannot win the game - which I'm sure you found out yourself in high-handicap games as I did.\]]
+;W[dk];B[bk];W[ir];B[gr];W[fn];B[fo]LB[go:A]C[[Broege: This move does not change much - White can still play A and close Black in the corner.\]]
+;W[mg];B[fg]LB[hd:C][nh:A][mj:B]C[[Broege: Now the touching move seems irrelevant. If you wanted to continue from it play A would be the way to do it.
+The move played does not seem to achieve a lot - for enhancing Black territory prospects A or B would be much better. For reducing White top perhaps Black C and running into the center would be the way.\]]
+;W[og];B[nh]LB[pg:A]C[[Broege: Answering the question from the move #51 (the next Black move) - the mistake is here. Rescuing this stone meant that White had a good way into the Black potential territory. The rescue was still possible a move ago - now it should be abandoned and Black should play A.\]]
+;W[of]
+(;B[oh]LB[pg:A]C[Should I have played Q13 instead?
+
+[Broege: As stated a move back - it's already too late to protect the whole side and the touching stone. Playing A indeed would be better - but as in the variation marked GOOD.\]]
+;W[pg];B[qg]LB[qf:A]C[[Broege: This is a mistake - there is a serious cutting point at A that Black will need to cover. It's better to play A immediatelly and accept the fact that White has already destroyed part of Black right side.\]]
+;W[ph];B[qf];W[qh];B[rg];W[qj];B[qk];W[rj];B[rk];W[mh];B[oi]
+LB[nj:A]C[[Broege: Move at A would be the better shape to rescue those stones.\]]
+;W[mj]
+(;B[nj]LB[nk:A]C[[Broege: Try to play ahead of your opponent - like at A. Please see the variations on what happens when White pushes further in both cases.\]]
+;W[mk];B[nk]
+(;W[hg];B[gi]LB[ei:A][fi:B]C[[Broege: This allows White to play A. Playing B would create a stronger shape and allow Black to go furhter into the centre.\]]
+;W[gn];B[dj]LB[ej:A]C[[Broege: Touching opponent stones again - Black A would cover the same weakness and create a stronger shape.\]]
+;W[fe]C[[Broege: Now White has pretty much won the game. There are no more comments except for answering direct questions and some occasional comments on local moves.\]]
+;B[ef];W[hi];B[jm]LB[qb:C][ml:E][bm:A][kn:D][bq:B]C[Was it too long?
+
+[Broege: I'm not sure White could catch this stone - cutting it from the right side would most probably allowed it to connect to the left-side group.
+But this is rather irrelevant - this area was not anyone potential territory yet - so it would be better to play some bigger yose moves creating own territory directly - A, B or C are some candidates.
+If you wanted to protect against White taking the centre - why not start safely at D or E and build from there?\]]
+;W[in];B[ko];W[ek];B[ej];W[ad];B[ae];W[ac];B[bf]LB[ce:A]C[[Broege: A would be slightly better as now White can play there (in proper time of course - this is a small gote move) and reduce Black further.\]]
+;W[ml];B[nm];W[pb];B[qb];W[pq];B[qp];W[jj];B[cm];W[cn];B[bn]
+;W[bo];B[bm];W[kn];B[lo];W[jn];B[lq];W[lr];B[mp];W[km];B[mq]
+LB[mp:A]C[[Broege: This could have been played instead of A as a way of applying pressure on White.\]]
+;W[mr];B[np];W[gj]
+(;B[fi]LB[gh:A]C[[Broege: Playing A first would give Black some more space - please see the variations which show some of the final versions of this local situation.\]]
+
+(;W[op];B[oo];W[gh]
+(;B[fh]LB[oq:A][nr:B]TR[nq][pq][pr][qr]C[[Broege: Why not play A first? A is sente - if White ignores it the triangled stones die. So most probably White will play B - see the variations to see the exact difference.\]]
+
+(;W[sk];B[sl];W[sj]
+(;B[rm]C[Was it overprotection because of my stone at S2? Or was it good to play safe here.
+
+[Broege: It was necessary - see the variation.\]];W[gg];B[oq]
+;W[nr];B[or];W[os];B[op];W[rs];B[sr];W[ns];B[rq];W[hs];B[ss]
+C[[Broege: This is too small - it only gives Black a half-point ko.\]]
+;W[ps];B[qs];W[qa];B[ra];W[pa];B[sb];W[bq];B[br];W[gs];B[fs]
+;W[is];B[er];W[ee];B[de];W[dc];B[mi];W[li];B[ni];W[pi]
+(;B[pk]C[Overprotection?
+
+[Broege: Definitely not - see the variation.\]];W[go];B[gp]
+;W[oe];B[pe];W[jp];B[kp];W[jq];B[dm];W[fj];B[em];W[fm];B[el]
+;W[fl];B[ck];W[ff];B[eg];W[dp];B[ep];W[nl];B[ol];W[dl];B[cl]
+;W[fk];B[lm];W[ll];B[mm];W[jo];B[rh];W[ar];B[bs];W[an];B[am]
+;W[ao];B[cq];W[dq];B[dr];W[do];B[ri];W[qi];B[si];W[rs];B[kr]
+;W[ks];B[qs];W[ok];B[oj];W[rs];B[ln]C[This was stupid, I know... Should h.
+
+[Broege: Well, I believe White would find more ko threats anyway.\]]
+;W[qs];B[ls]C[That was supposed to be a Ko treat...
+
+[Broege: Only a move too late ;)\]];W[jr];B[od];W[nc];B[tt]
+;W[aq];B[as];W[tt];B[tt]TW[aa][ba][ca][da][ea][fa][ga][ha][ia]
+[ja][ka][la][ma][na][oa][ab][bb][cb][db][eb][fb][gb][hb][ib]
+[jb][kb][lb][mb][nb][ob][ec][gc][hc][ic][kc][lc][mc][ed][fd]
+[gd][hd][id][jd][kd][ld][md][ge][he][ie][je][ke][le][me][ne]
+[gf][hf][if][jf][kf][mf][ig][jg][kg][lg][hh][ih][jh][kh][lh]
+[ii][ji][ki][hj][ij][kj][lj][gk][hk][ik][jk][kk][lk][gl][hl]
+[il][jl][kl][gm][hm][im][jm][hn][co][ho][io][ap][bp][ip][iq]
+[kr][js][ls][ms]TB[sa][rb][rc][sc][rd][sd][be][ce][qe][re][se]
+[af][df][rf][sf][ag][bg][cg][dg][sg][ah][bh][ch][dh][eh][sh]
+[ai][bi][di][ei][aj][bj][cj][ak][ok][al][bl][pl][ql][rl][om]
+[pm][qm][sm][nn][on][qn][rn][sn][mo][no][po][qo][ro][so][fp]
+[lp][rp][sp][fq][sq][fr][cs][ds][es]C[That fight around #55 was terrible for me involving the centre territory(I think). How could I have played it in a better way? Q13 at #51 would have been a good move?
+
+[Broege: I hope this was answered in the comments around those moves.
+This fight meant mostly that Black lost quite a bit of the right-hand side territory. The centre was still open afterwards so we can think that the fight had no big influence on it.
+
+For the summary:
+1. I think that the biggest Black weakness was playing too passively, almost always answering White moves instead of fighting own attacking moves.
+Of course, when White is stronger, it's hard not to answer - but if you try it few times you will learn when it's possible to force your own plan (even if small or very local) and when it's still better to answer White.
+
+2. In the beginning Black played too tight - it's good to spread the stones more, even if sometimes one is faced with an invasion.
+\]])
+(;B[aa]C[[Broege: Black plays elsewhere.\]];W[pk];B[oj]C[[Broege: Big mistake.\]]
+;W[nl]C[[Broege: And the stones are captured.\]]))
+(;B[aa]C[[Broege: This means "Black plays elsewhere" - without protecting the cut.\]]
+;W[rl];B[sm]
+(;W[rm];B[sn];W[ro]C[[Broege: This is the variation which works in most cases (the S2 stone would need to be much, much closer to protect the cut).\]]
+)
+(;W[pk];B[ql];W[rm];B[sn];W[qm];B[pl];W[pm];B[ol];W[ro]C[[Broege: Here White could make even more damage than in the basic variation.\]]
+)))
+(;W[oq]LB[gh:A]C[[Broege: Now White is secure in the bottom-right - this is the variation after answering White A directly.\]]
+))
+(;B[oq];W[nr];B[or];W[os];B[op];W[ps];B[fh]C[[Broege: Now White is reduced in the bottom-right - this is the variation after attacking first.\]]
+))
+(;W[gh]
+(;B[fh];W[gg];B[ff];W[gf];B[ee];W[ed];B[de]C[[Broege: This is one of possible results from the move played in the game (variation 1).\]]
+)
+(;B[gf];W[fh];B[eh];W[fj];B[ei];W[gg];B[ff];W[hf];B[ge];W[hd]
+;B[he];W[ie];B[gd];W[gc];B[fd];W[ed];B[ee];W[de];B[df];W[ce]
+;B[be]C[[Broege: This is another of possible results from the move played in the game and some more aggressive play by Black (variation 2).\]]
+)))
+(;B[gh];W[fj];B[hh];W[ih];B[fi];W[ig]C[[Broege: White has to cover its cutting points.\]]
+;B[gg]LB[gf:A]C[[Broege: This is a very defensive play by Black (A is better) - but it's still better than in the variation 1.\]]
+;W[gf];B[ff];W[ee];B[de];W[ed]C[[Broege: Again White has to cover its cutting points (variation 3 - to be compared with variation 1).\]]
+))
+(;W[ml];B[nl];W[mm];B[nm];W[ln];B[mo]C[[Broege: Black territory is now slightly smaller and White wall outside much stronger.\]]
+))
+(;B[nk];W[mk];B[ml];W[ll];B[mm]C[[Broege: Now Black has slightly more territory and some access to the center - which means that White prospects are not as good as in the other variation.\]]
+))
+(;B[pg];W[oh]
+(;B[ni]LB[ph:A]C[[Broege: Trying to rescue those stones is not worth it. They are only two stones and as they don't cut anything they are not important. It's much better to play A and protect the territory.\]]
+;W[ph];B[qh];W[pi];B[qi];W[oi];B[oj]LB[nj:A]C[[Broege: Now Black is full of cutting points, the Black territory is significantly reduced and the problematic stones are not yet rescued - see the continuations after White A. BAD.\]]
+;W[nj]
+(;B[mj];W[nk];B[mi];W[mk];B[kj];W[lk];B[ki]C[[Broege: The stones may be rescued now but Black top-right is full of cutting points which means that four White stones are pretty secure and may even do some harm to Black.\]]
+)
+(;B[nk];W[mj]C[[Broege: Black stones are captured.\]]))
+(;B[ph];W[oi];B[oj]C[[Broege: Now Black has protected the territory and is trying to create some more in the lower-right quadrant of the board. GOOD.\]]
+)))
+(;W[be];B[ce];W[ad];B[bf];W[ae];B[af];W[ac]C[[Broege: This is a weakness left behind. White ends in gote but the reduction is quite big. What's more - if before yose Black has not some more eye-space to the bottom of the currently placed stones, the whole group can end in big trouble - which may make the sequence shown either sente for White of even a killing sequence.\]]
+))

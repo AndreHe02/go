@@ -1,0 +1,86 @@
+(;FF[4]GM[1]SZ[19]AP[SGFC:1.13b]
+
+PB[Duumvir]
+BR[17k]
+HA[0]
+PW[schwob]
+WR[17k*]
+KM[5.5]
+DT[1999-09-11]
+RE[W+41.5]
+
+;B[pp];W[pd];B[cp];W[cd];B[qf];W[pf];B[pg];W[of];B[qg];W[qe]
+;B[pk];W[ep];B[eq];W[fq];B[dq];W[fr];B[cm];W[ho];B[dj];W[lp]
+;B[id];W[fc];B[ld];W[mc]LB[ak:a][bk:b]MA[ak][bk][bl][al][bm]
+[am][an][bn][bo][ao][ap][bp][bq][aq][cq][br][ar][as][rh][sh]
+[qh][qi][ri][si][sj][rj][qj]SQ[qd][rc][qc][pc][oc][ob][nb][na]
+[oa][pa][pb][qb][qa][rb][ra][sb][sa][cc][bc][ac][ab][bb][cb]
+[dc][db][eb][ec][ea][da][ca][ba][aa]C[With the last 2 moves B enables W to close the 2 corners, without creating a moyo ...
+At this point W is ahead
+B may extend on the left side or on the bottom right];B[oc]
+;W[nd];B[cg]LB[qc:a]C[If B wants to go in the upper right corner, he must insist sooner or later, otherwise it's only a move to consolidate W
+
+An idee could be to go in "a"];W[oq];B[pq];W[pm];B[qn];W[nn]
+LB[qm:a]C[this W move is not agressive and gives B the opportunity to close the right side in "a"]
+;B[jj];W[qm];B[rk];W[re]LB[sh:a][lc:b][mb:c][hc:d][jo:e][or:f]
+C[With this moves W closes the corner and gets the possibility to reduce B on the right later on, playing "a"
+
+B has nothing to gain on the upper side :  - playing "b", W answers "c", gets stronger and can still invade the upper side
+- playing "d" is neither sente nor big
+
+So I think B should reduce the bottom side :
+- using is stone in the middle, with "e"
+- or with "f"];B[ed];W[ec];B[dd];W[dc];B[fd];W[gd];B[gc]C[This move puts B in a very difficult position]
+;W[ge];B[cc];W[ce];B[eb];W[gb];B[hc];W[fb];B[ef];W[ee];B[fe]
+;W[ff];B[de];W[df];B[dg];W[ee];B[bc]C[there is no way to make life in the corner]
+;W[db];B[cf];W[be];B[lc];W[ja];B[mb];W[ob];B[nc];W[md];B[pb]
+;W[pc];B[nb];W[qb];B[od];W[oe];B[ne];W[me];B[nf];W[pa];B[og]
+;W[pe];B[lf]LB[mf:a]C[I think "a" is better to kill the W group, otherwise W can play in a and may get out]
+;W[nk];B[nj];W[mj];B[mk]LB[oj:a]C["a" is better : it's a quite move that secures territory and threatens to cut W]
+;W[oj];B[ni];W[ok];B[pi];W[pj];B[qj];W[pl];B[ml];W[oi];B[oh]
+;W[qi]C[ This invasion is not justified and is a disaster for B]
+;B[qk];W[ph];B[ol]LB[ri:a]C[Don't play moves that don't work !
+B should better connect underneath at a];W[nl];B[om];W[on];B[mm]
+;W[nm];B[rm];W[mn];B[im];W[ln];B[lk];W[nh];B[mi];W[mh];B[li]
+;W[lh];B[kh]LB[pr:a][if:b][fh:c]C[W is playing a hard game : he could have abandoned the 3 stones in the centre an close the bottom side with a or reduce B with b or c]
+;W[ki];B[lj];W[kg];B[jh];W[lg];B[kf];W[jg];B[hf]LB[mf:a][ih:b]
+[ig:c][hh:d][hg:e][fh:f]C[B should not absolutely try to kill the W group
+He can secure the 4 W stones with a or built a territory in the center with b, W c, B d, W e then B f]
+;W[ig];B[hg];W[ih];B[hi];W[mf];B[ng];W[mg];B[ri];W[rg];B[qh]
+;W[pi];B[rh];W[hh];B[gh];W[gg];B[ii];W[ji];B[gi];W[ie];B[if]
+;W[jf];B[he];W[je];B[hd];W[le];B[gn];W[eg];B[kq]LB[eh:a]C[B should go on and close the left side with a
+
+I don't think this B move can make a living group];W[lq];B[jp]
+;W[jo];B[hq];W[gp];B[lr];W[mr];B[kr]
+(;W[is]C[I think W at a is better to kill black, see variations]
+;B[gs];W[gr];B[ir];W[hs];B[js];W[hr];B[ip];W[jq];B[io];W[fn]
+;B[fm];W[en];B[em];W[go];B[hn];W[do];B[dn];W[co];B[bo];W[dp]
+;B[bq];W[cn];B[dm];W[dr];B[nq];W[or];B[nr];W[ns]C[Indeed there is no way to get the B stone out, B should have closed the corner instead]
+;B[mq];W[ms];B[ls];W[os];B[np];W[op];B[pr];W[oo];B[jb];W[ia]
+;B[ib];W[hb];B[kd];W[jd];B[jc]
+(;W[ke];B[ka];W[ha];B[lb];W[eh];B[ei];W[fi];B[fh];W[di];B[ej]
+;W[dh];B[ci];W[ch];B[fg];W[ef];B[bi];W[gf];B[ic];W[bh];B[bn]
+;W[er];B[cq];W[bs];B[km];W[jn];B[in];W[jm];B[jl];W[kn];B[lm]
+;W[bj];B[cj];W[ai];B[bk];W[aj];B[ak];W[ah];B[po];W[ps];B[qr]
+;W[qs];B[rr];W[rs];B[rf];W[rn]
+(;B[ro]LB[rl:a]C[B should not be afraid to play a : see variation
+this kind of answer is often good];W[rl];B[sn];W[sk];B[sj];W[sl]
+;B[sm]LB[sg:a]C[no ! it was time to take the W stone at a, this made all the B stones alive]
+;W[ql];B[sg];W[rj];B[si];W[se];B[cr];W[cs];B[kj];W[sr];B[sq]
+;W[ss];B[rp];W[kp];B[hp];W[gq];B[fo];W[aq];B[ap];W[ar];B[eo]
+;W[fp];B[bp];W[br];B[cb];W[ab];B[rc]C[This is a useless move : no way to live there]
+;W[rb];B[na];W[oa];B[sc];W[bl];B[cl];W[tt];B[sb];W[ra];B[qc]
+;W[sa];B[sf];W[tt];B[tt];W[tt]CR[mc][md][me][nd]C[there are too many B stones dead : 18 prisoners + 16 dead
+
+B can notice that :
+- he has 2 little groups on the right side, that could have been a big one if he had connected at the beginning
+- he finally didn't take the 4 W stones on the upper side (mentioned with the red point), putting his own groups in great danger (the upper one and right one). This is a principle of GO : don't let the opponent disconnect you]
+)
+(;B[rl];W[qo];B[pn];W[rp];B[sn];W[ro];B[rq]C[B wins the running battle (4 liberties against 3)]
+))
+(;W[gf];B[ka];W[ha];B[lb]LB[kb:a]C[B can't connect, otherwise he is dead (W plays a then takes the B stone)]
+;W[ic]))
+(;W[ir]
+(;B[hr];W[ip];B[iq];W[kp];B[jr];W[is];B[js];W[ls]C[B doesn't make 2 eyes]
+)
+(;B[iq];W[hr];B[jr];W[kp]C[B is dead])))

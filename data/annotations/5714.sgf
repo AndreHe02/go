@@ -1,0 +1,144 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+PB[unknown]
+HA[0]
+PW[Allen]
+WR[2k]
+KM[0.5]
+DT[2007-02-12]
+RE[W+15.50]
+RU[Japanese]
+
+C[I'm White. In this game it felt like I missed the point in a few places. I'd like to hear your viewpoint on this game, especially on the middlegame and control of the center.
+
+I won this game but it felt like I got lucky in a few places -- I didn't feel in control of the game, more like I just stumbled into the win.
+
+crux: Hi, I'm Bernd Schmidt.  I'm 2dan at the local club which means I'm too weak to tell you what the correct moves are, but maybe I can give you ideas what to think about.
+Please use an sgf reader that displays variations properly - cgoban1, qgo, jago, gGo, glGo all work, but cgoban2 (the KGS client) has some problems.
+Since you added a number of variations already, I've marked the ones I added with "(*)"]
+;B[dd];W[cp];B[pd];W[qp];B[jd];W[cf];B[be]LB[dj:A][fc:B]C[How to respond?
+
+crux: With Black playing on the second line, you could locally consider your stone light - even if it's captured the loss is probably not too large.  Black's move is territorial but leaves aji.  I'd probably dodge away to A; you could also consider a second approach move at B trying to force B to defend his corner territory.]
+
+(;W[dj];B[ch];W[bf]TR[cf]LB[fc:A]C[crux: I'd probably still not place too great an importance on this stone.  Instead of the game move, how about a play on the upper side around A?  Black still can't capture the marked stone without leaving weaknesses that you can exploit later.]
+;B[ce]
+(;W[df];B[eh]
+(;W[ed]LB[ff:A]C[crux: This helps Black solidify his corner.  Maybe just play at A instead?]
+;B[ec];W[fd];B[fc];W[de];B[cc];W[ff];B[gh];W[hf];B[hd];W[gd]
+;B[hc];W[gc]C[crux: Liberties are usually worth more than the one point or so you gain with this move.]
+;B[gb];W[gj];B[ej]
+(;W[di];B[dh];W[dk];B[gg];W[gf];B[oq]LB[jg:A]C[crux: I think it is slightly too early to tenuki from the fight in the top left - for both players.  I won't mention this at every move, but keep it in mind - A seems like a nice point for either side to surround the other.]
+;W[lp];B[qr];W[op]LB[eq:B][qj:A]C[It feels like this is the shape point. Any other ideas?
+
+crux: Locally this seems like the best point.  It's worth considering whether Black's low move needs an immediate answer.  You might simply extend towards A which is a nice point on the side.  Or you could start moyo-building by enclosing the other corner at B.]
+;B[pq];W[pp];B[np]
+(;W[qq]LB[nq:B][rr:A]C[crux: This just seems bad.  It seems like it's played to make the cut at B work, but Black could protect there now while getting what I'd consider a reasonable result (see variation).]
+
+(;B[rr];W[nq];B[nr];W[mq];B[mr];W[lr];B[no];W[pn];B[on];W[pm]
+;B[ep]
+(;W[gq];B[cn]
+(;W[do];B[dn];W[eo];B[en];W[fp];B[ek];W[fi]LB[el:A][gl:B]C[With my top group not entirely alive I guess I shouldn't start a fight here.
+
+crux: This also eliminates most of the aji left in the three white stones.  I'd try to think about how to make the hane at A work.  How about a white stone at B?
+Generally, a move like this should only be played if you can see clearly that it's going to lead to a good result.]
+;B[ei];W[fh];B[fg];W[eg];B[hj];W[gi];B[hh];W[hi];B[ih];W[ii]
+;B[jg];W[jf];B[if];W[ig]C[crux: Nice tesuji-ish move, but what happens if Black captures?]
+
+(;B[jh];W[ie];B[kf];W[je];B[ke];W[id];B[ic];W[he]
+(;B[kc]
+(;W[fn];B[fm];W[qc];B[pc];W[qd];B[qe];W[re];B[qf];W[rf];B[qg]
+;W[pb];B[ob];W[qb];B[nc]C[Hard to decide on a point for W now.]
+
+(;W[lm];B[gn];W[fo];B[hp]
+(;W[go]C[crux: This looks terrible.  Maybe the cut?];B[kq];W[lq]
+;B[hn];W[ho];B[ln];W[kn];B[lo];W[ko];B[mm];W[ml];B[ll];W[km]
+;B[nm];W[nl];B[ol];W[om];B[nk];W[mk];B[mj];W[lk];B[pl]
+(;W[ql]C[crux: If White wants to convert a bigger part of the right side into territory, playing atari first works better.]
+;B[qk];W[qm];B[ok]C[Looks like B's sacrifice worked.];W[gm]
+;B[hm];W[gl];B[hl];W[hk];B[fl];W[gk];B[jl];W[kl];B[ji];W[jk]
+;B[jj];W[ij];B[lj];W[ai];B[ah];W[bh];B[bi];W[ag];B[bj];W[aj]
+;B[ak];W[ah];B[bl];W[rk];B[qj];W[rj];B[ri];W[ae];B[bd];W[rh]
+;B[qh]
+(;W[bo];B[sj];W[rl];B[so];W[ro];B[sp];W[sn];B[rq];W[rp];B[sq]
+;W[rg];B[rn];W[sm]
+(;B[bn];W[sk];B[si];W[sh];B[qi];W[dg];B[cg];W[co];B[bg];W[af]
+;B[ad];W[hg];B[kj];W[kk];B[pa];W[qa];B[oa];W[ms];B[os];W[an]
+;B[am];W[ao];B[pr];W[fk];B[ns];W[ls];B[el];W[fj];B[tt];W[tt]
+TB[aa][ab][ac][al][ba][bb][bc][bk][bm][ca][cb][cd][ci][cj][ck]
+[cl][cm][da][db][dc][di][dj][dk][dl][dm][ea][eb][em][fa][fb]
+[ga][ha][hb][ia][ib][ja][jb][jc][ka][kb][kd][kg][kh][ki][la]
+[lb][lc][ld][le][lf][lg][lh][li][ma][mb][mc][md][me][mf][mg]
+[mh][mi][na][nb][nd][ne][nf][ng][nh][ni][nj][oc][od][oe][of]
+[og][oh][oi][oj][or][pe][pf][pg][ph][pi][pj][pk][ps][qs][rs]
+[sr][ss]TW[ap][aq][ar][as][bp][bq][br][bs][cq][cr][cs][dp][dq]
+[dr][ds][ee][ef][ep][eq][er][es][fe][fq][fr][fs][ge][gn][gp]
+[gr][gs][hj][hl][hm][hn][hp][hq][hr][hs][if][ik][il][im][in]
+[io][ip][iq][ir][is][jl][jm][jn][jo][jp][jq][jr][js][kp][kq]
+[kr][ks][ll][ln][lo][mm][mn][mo][mp][nm][nn][no][np][on][oo]
+[po][qn][qo][ra][rb][rc][rd][rm][rn][sa][sb][sc][sd][se][sf]
+[sg][sl]C[W+15.5])
+(;B[po]C[Oops?
+
+crux: Not too worrying I think.];W[qn]C[(*)]
+(;B[sk];W[mn]
+(;B[nn];W[mo];B[oo];W[qo])
+(;B[oo];W[qo];B[nn];W[mo]))
+(;B[oo];W[qo]
+(;B[mn];W[mp];B[sk];W[mo])
+(;B[sk];W[mn];B[nn];W[mo]))))
+(;W[rq]C[I can't decide whether this is larger than B5.
+
+crux: This move is sente against Black's corner, so it's obviously larger.]
+;B[bo]
+(;W[bp];B[ap];W[aq];B[ao];W[bq])
+(;W[sr]C[(*)]
+(;B[or];W[ps])
+(;B[rs];W[pr];B[or];W[ps]
+(;B[ms];W[os])
+(;B[os];W[ms]))
+(;B[ps];W[or];B[pr];W[ms];B[os];W[rs])
+(;B[os];W[pr];B[or];W[rs];B[ps];W[ms]))))
+(;W[ok]
+(;B[nj];W[ql];B[pk];W[qk];B[pj];W[qj];B[qi];W[pi];B[oj];W[ri]
+;B[qh];W[rq];B[sr];W[kk];B[gl];W[ki];B[lh];W[bo]C[crux: Might be a good idea to count before playing this way...]
+)
+(;B[ql];W[nj])))
+(;W[gm]C[(*)]
+(;B[hm];W[gl];B[hn];W[hl])
+(;B[hn];W[hm];B[im];W[fl];B[em];W[in]
+(;B[gk];W[ho]
+(;B[hl];W[gl];B[fk];W[go];B[el])
+(;B[gl];W[go];B[ik];W[pj]))
+(;B[io]C[crux: This turns into a semeai I'm not too sure about, but as White I'd probably risk it.]
+;W[jn];B[il];W[ho];B[go];W[gp];B[ho];W[gl]))))
+(;W[qj]C[Something like this?]))
+(;W[pi]TR[no][np][on]C[(*)
+crux: White could think about a move like this to limit Black's influence, and to start surrounding the marked stones on a large scale.]
+))
+(;B[kj]TR[no][np][on]C[(*)
+crux: Threatens White's stones while coming to the aid of the marked black ones.  The cutting points don't seem that critical.]
+
+(;W[jc];B[kd];W[hb];B[ib];W[fb];B[ha];W[eb];B[dc])
+(;W[fb];B[hb];W[jc];B[kd]
+(;W[jb];B[eb];W[lc];B[nc])
+(;W[kc];B[jb];W[kb];B[ia]))))
+(;B[hg]C[(*)];W[jh];B[ig];W[ie];B[kg];W[he];B[je];W[dg]))
+(;W[eq]C[(*)
+crux: Probably better here - the game move induces Black to surround the white stones above.]
+))
+(;W[dn]C[(*)];B[cq];W[bq];B[dq];W[br];B[kq];W[lq];B[iq];W[mn]
+))
+(;B[nq]C[(*)]
+(;W[no];B[mo];W[mp];B[nn];W[oo];B[rr])
+(;W[rr];B[nn])))
+(;W[no]C[(*)
+
+crux: I'd simply play here.];B[nq];W[mo]C[crux: Compare this to the similar position at the end of one of the previous variations.]
+))
+(;W[ek]))
+(;W[ff]C[(*)]
+(;B[fd];W[gh])
+(;B[gh];W[hf];B[ih]C[crux: You still have open spaces at the top once your group is out.]
+)))
+(;W[ef];B[fd]))
+(;W[bf]))

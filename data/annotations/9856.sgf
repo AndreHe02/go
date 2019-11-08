@@ -1,0 +1,226 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.16]
+
+PB[Hanspeter Schmid (hanspi)]
+BR[13k]
+PW[minho choi (jokester)]
+WR[13k]
+KM[6.5]
+DT[2015-07-16,2015-09-03]
+PC[Dragon Go Server: http://www.dragongoserver.net/]
+RE[B+36.5]
+RU[Japanese]
+SO[http://www.dragongoserver.net/game.php?gid=1007848]
+GC[Game ID: 1007848
+Game Type: GO (1:1)
+Rated: Y
+
+White Start Rating: 13k (-14%) - ELO 785
+Black Start Rating: 16k (-13%) - ELO 487
+White End Rating: 13k (+26%) - ELO 825
+Black End Rating: 13k (+11%) - ELO 810]
+
+;B[qf]C[Dear reviewer,
+
+I have written a few comments into the game and would be very happy if you reviewed for black.
+
+The thing that presently bothers me most in my gameplay is that I often feel like going out of the opening with quite some disadvantage and then still win.
+
+Can you shed some light on this, i.e., whether I really have a bad position after the opening?
+
+Here I wanted to try the moves you see in the first variation, but my opponent didn't make it possible.
+
+
+
+
+
+Answer:
+
+The white position, after the opening, looked impressive. However, there were a lot of weaknesses. There was no big framework nicely working together, there were a lot of holes where Black could sneak through. Black, on the other hand, had solid territory. 
+The biggest problem for White was the start of the entire fight in the lower right. White wanted to keep both corner and prevent Black from getting the side. White was in no position to get both, so the strategy would not work, and Black could get a big advantage from it.
+At move 43, Black then made the error of establishing 2 weak groups instead of trying to connect them. However, White was not able to make use of this. Before the endgame started, Black was ahead by about 15 points.
+
+In the endgame (starting from about move 127) it was clear that Black played a much stronger endgame than White. This was probably worth 20 points, at least. A lot of small mistakes quickly add up.]
+;W[pp];B[fc]
+(;W[cd]
+(;B[cc]C[This was, I believe, a mistake. I now think should have taken the other corner (see variation).]
+;W[dc];B[dd];W[cb];B[bc];W[bd];B[ec];W[db];B[bb];W[ba];B[ce]
+;W[be];B[de];W[dq]
+(;B[do];W[hp]C[This is very far away from d3, was my reply (next move) OK?]
+
+(;B[fp]C[Answer to your question:
+
+This move does not cut the white stones. It also does not really succeed in flattening the white position.
+It might be better to extend to the other side, for example to D8. That way, White will later need to come back to reinforce this position, and otherwise you can get some advantage out of the loose position. The move you played strengthens the white position without getting much in return.
+
+Just consider what happens if White plays F4 instead of Black (and White connecting underneath). The white position would be a bit higher, and you would probably extend on the left side, and white would tr to push the black stones down (see variation). There would be nothing really disastrous about this.
+
+Now, if Black already has that extension, White will not be able to get even that. See the second variation.]
+;W[fq];B[cl]C[Black still gets the extension, but now White is stronger on the bottom.]
+;W[cg]
+(;B[jd];W[dj];B[cp]C[This move actually enables a strong attack on the white stones in the bottom left. See variation later.]
+;W[nc];B[pc];W[oe];B[pe];W[kc];B[jc];W[kd]
+(;B[qn]C[Shoud I have gone into the bottom left corner first (variation)? Or played higher (variation)?
+
+
+To summarize my answer:
+G3 would be big, but gote. This move is big. Whether or not it is sente will depend on the variations followed.
+If White chooses to ignore this move, White can get part of the bottom left corner]
+
+(;W[qo];B[pn]
+(;W[pj]C[White wants both corner and prevent the black extension. Black can now do something: threaten the corner to reinforce the stones at Q6, and then attack Q10.
+If White wanted to prevent a black position on this side, White should have pincered at R8 after Black R6.]
+
+(;B[qk]C[This is what White wanted: Black gets a smaller position, White gets the corner.]
+;W[qj]C[Overly aggressive play by White. White needs to choose what they want; corner or side.]
+;B[nq]C[Good.];W[pq]
+(;B[kq];W[mp]
+(;B[mq];W[np]
+(;B[iq]C[This move asks White to reinforce its own position, while not adding much to Black's position.]
+;W[hq];B[ir];W[hr]SQ[ir]C[Here I decided to take the bottom. Is that already dangerous for my group arounf r6..r9?
+
+
+
+
+Answer:
+
+The effect of the marked exchange is that the white bottom left corner is now much stronger. The black group at the bottom is small. There won't be many points here, so the crucial thing is not to get sealed in. The stones around r6 need some defending, but they can still get away.]
+
+(;B[jf];W[nn]
+(;B[pk]
+(;W[ok];B[ol];W[nk];B[rk];W[rj];B[oo];W[op];B[ro];W[rp]
+(;B[sn];W[sk];B[sl];W[sj]
+(;B[po]
+(;W[rl];B[rm];W[sm];B[ql];W[sl];B[nl];W[ml];B[oj];W[oi];B[mk]
+C[This is exactly the kind of sequence Black needs. Break through the white wall]
+;W[nj];B[mm];W[ll];B[nm];W[pm]
+(;B[no];W[mn];B[mo];W[ln];B[lo];W[lm];B[lp];W[om];B[qm];W[pl]
+SQ[rl]C[Could I have played this better since white s8? I basically sacrificed stones to connect two groups, and then attack (next move)
+
+
+Answer: you connected your 2 weak groups. Sacrificing 4 stones is a very small price. This sequence was played well. I tried out different variations, and did not find anything much better. It's hard to review big tactical fights like this, but I did not spot any crucial errors.]
+
+(;B[or];W[pr]
+(;B[ps];W[qs];B[os];W[rr]C[Now White lives.];B[qp];W[qq];B[qo]
+;W[sq];B[hs];W[gs];B[is];W[fr];B[cr];W[cq];B[bq];W[dr]
+(;B[cj]C[Is this better than the variation? I think yes.
+
+
+Answer:
+Yes. The key thing is that the white group at D3 already lives, so a move at B2 is only a handful of points without strategical advantage.
+However, the attachment invites White to strengthen their position. Look at variations]
+;W[ci];B[bj];W[bi];B[dk];W[ej];B[eg];W[fl];B[el];W[lf];B[kg]
+;W[lg]
+(;B[hi]C[This looks a bit dangerous.];W[fh]
+(;B[gg]
+(;W[ji];B[jb];W[kb];B[ka];W[la];B[ja];W[mb];B[eb];W[ab];B[da]
+;W[ac];B[rh];W[gh];B[hg];W[hh];B[fm];W[gl];B[jo];W[jn];B[in]
+;W[io];B[ip];W[ho];B[kn];W[jm];B[of];W[ne];B[nf];W[mf];B[pb]
+;W[fo];B[eo];W[ep];B[fn];W[go];B[dp];W[gp];B[br];W[pg];B[pf]
+;W[qg];B[rg];W[ng];B[og];W[oh];B[ph];W[kh];B[ih];W[ii];B[jh]
+;W[kf];B[jg];W[lh];B[dg];W[fg];B[ff];W[gm];B[ai];W[ah];B[aj]
+;W[bg];B[eh];W[ei];B[fi];W[fj];B[gi];W[hj];B[gj];W[hk];B[ob]
+;W[ek];B[em];W[dh];B[nb];W[od];B[pd];W[cf];B[df];W[ca];B[ea]
+;W[km];B[ko];W[gn];B[oq];W[ma];B[ke];W[le];B[je];W[ds];B[cs]
+;W[na];B[oa]
+(;W[si]C[Huge mistake.];B[mc]
+(;W[lb];B[ld];W[md];B[lc];W[oc];B[qh];W[sh];B[sg];W[sp];B[so]
+;W[gk];B[tt];W[tt];B[tt]TW[aa][bb][bc][cc][ad][nd][ae][me][af]
+[bf][ag][mg][bh][ch][mh][nh][di][ki][li][mi][ni][ij][jj][kj]
+[lj][mj][oj][fk][ik][jk][kk][lk][mk][hl][il][jl][kl][nl][ol]
+[hm][im][mm][nm][hn][in][fp][eq][gq][rq][er][gr][qr][sr][es]
+[fs][rs][ss]TB[fa][ga][ha][ia][la][ma][na][pa][qa][ra][sa][fb]
+[gb][hb][ib][kb][lb][mb][qb][rb][sb][gc][hc][ic][kc][qc][rc]
+[sc][ed][fd][gd][hd][id][kd][qd][rd][sd][ee][fe][ge][he][ie]
+[qe][re][se][ef][gf][hf][if][rf][sf][fg][ig][pg][qg][fh][gh]
+[hh][ak][bk][ck][al][bl][dl][am][bm][cm][dm][an][bn][cn][dn]
+[en][rn][ao][bo][co][ap][bp][jp][kp][aq][jq][lq][ar][jr][kr]
+[lr][mr][nr][as][bs][js][ks][ls][ms][ns]C[White: 55 territories + 2*2 dead stones(B) + 10 prisoners + 6.5 komi = 75.5
+Black: 97 territories + 2*0 dead stones(W) + 15 prisoners = 112
+Result: B+36.5])
+(;W[ld];B[lb]))
+(;W[mc];B[si];W[ri];B[sh];W[qi];B[qh];W[sp];B[so]))
+(;W[fg];B[ff];W[gh];B[hg];W[hh];B[ig];W[ih]))
+(;B[fg];W[gh];B[gg];W[hh];B[hg];W[ih]))
+(;B[hh]C[This is a bit safer, but can still be invaded ...]
+;W[fg];B[fh];W[eh];B[gg];W[ef];B[ff];W[dg])
+(;B[hg]C[This is what I'd recommend. It's safe and not much smaller.]
+))
+(;B[br];W[bp];B[bo];W[dp];B[co];W[cj])
+(;B[bj]C[This might be even better, Of course, remember Black needs to play B14 soon before losing that move !]
+)
+(;B[bf];W[ab];B[ae];W[ac];B[bg]C[I think this is best.];W[ch]
+;B[cf];W[gj];B[br]))
+(;B[rr]C[I think this move kills.]
+(;W[rq];B[qr];W[qs];B[rs];W[ps];B[sr];W[sp];B[qp]C[White is dead.]
+)
+(;W[sp];B[qp])))
+(;B[rq]C[I think this move is the best attack on the white group.
+It's pretty complicated. It seems Black might be able to get a ko. That would be a ko for the entire white group, so Black essentially gets a free move somehere else, White cannot afford to lose this corner.
+I show some variations. There might be others which are better, it's too complex for me to read.]
+
+(;W[sp];B[qq]C[Black kills.];W[qp];B[pr]
+(;W[or];B[qr];W[oq];B[rs];W[sr];B[sq];W[ps];B[nr];W[os];B[ns]
+)
+(;W[qr];B[rr];W[or];B[qs];W[oq];B[nr];W[os];B[ps]))
+(;W[qq];B[sr]
+(;W[rr];B[qp];W[sq];B[sp]
+(;W[rq];B[pr];W[so];B[rn])
+(;W[ss];B[rq];W[qs];B[pr];W[rp])
+(;W[qo];B[rq];W[ss];B[qp];W[sq];B[rp];W[qs];B[pr];W[or];B[oq]
+;W[qr]
+(;B[os])
+(;B[nr];W[ps];B[sr])))
+(;W[sp];B[qp];W[rr];B[so];W[qo];B[bf];W[rn];B[ae]))))
+(;B[om];W[lm];B[qp];W[rq];B[qq];W[qr];B[mn];W[ln];B[no];W[mo]
+C[Black lives locally, but is sealed in. Not great.]))
+(;W[nl]C[If White seals Black in, the resulting influence will dominate the middle game. This would be bad for Black. Black should try to break through and neutralize White's influence.]
+;B[rm];W[cq]C[This would be a hard game for Black.]))
+(;B[rl];W[po];B[on]C[This would have been better]))
+(;B[po]C[First threaten, then connect.];W[qp];B[sn]))
+(;W[oj]C[Black would struggle to live. For White, it's better to attack loosely like this.]
+))
+(;B[ol]C[I think this might be the best move, in terms of shape.]
+;W[pk];B[pl];W[ql];B[rk];W[rl];B[rm];W[rj];B[qm];W[sk];B[ml]
+C[Black has no eyes but should have no trouble running to safety.]
+))
+(;B[nn];W[jf]C[Better for black?
+
+Answer:
+yes. The white position is pretty open, on several sides.];B[bf]
+;W[ab];B[ae];W[ac];B[cf]C[Note that this is still possible for Black, to strengthen their position.]
+)
+(;B[oo];W[op];B[nm]C[You just need to make sure they still have somewhere to run to.]
+))
+(;B[hr]C[This might be a bit better. It stretches out further, giving more eye space, and stealing more from White.]
+))
+(;B[np]C[Sealing White in the corner gives the best fighting chance to Black.]
+))
+(;B[oo]C[It's probably better to try to keep these stones connected, and prevent White from breaking out of the corner.]
+))
+(;B[op];W[oq];B[np];W[po];B[on];W[pq];B[nl];W[mq];B[nj];W[ph]
+C[This is a possible continuation. Black would be happy with this. White has a weak position. Black can play a leaning attack on the group on the top right, to prevent the stones at Q12 and Q10 from escaping.]
+))
+(;W[nq]C[White should just play here instead.];B[pj]))
+(;W[cq];B[nq]C[If White insists on taking the bottom left corner, black can play this.]
+))
+(;B[cq]C[This move works, but it makes the stone at F4 a bit of a wasted move.]
+;W[cr];B[qn])
+(;B[pn]C[The difference between this move and the actual move is subtle. Not sure which works better, I would probably play low myself.]
+;W[np];B[qk];W[qo];B[qn])
+(;B[gq]C[If you want to play in this corner, I would start with this move.]
+
+(;W[gp];B[eq];W[ep];B[fr];W[fo];B[fq];W[eo];B[dp])
+(;W[ep];B[gp];W[eo];B[ho])))
+(;B[bf];W[ab];B[cf]C[This would probably be better. The white stone will be hard to run with, so White will probably tenuki and maybe use the stone's aji later.]
+;W[dj];B[bj]C[Like this, the white stones are floating and will need to build something in the center. Black would get a lot of benefit from that, by building walls while attacking.]
+))
+(;B[tt]C[Reference: if White gets to play F4.];W[fp];B[dl];W[en]
+;B[dn];W[fl]C[This is possibly what would happen.
+Notice that Black passed at the start of the variation, so there would be an extra Black move somewhere else on the board.]
+)
+(;B[dl]C[If Black plays here, White is stuck. The formation on the bottom needs to be reinforced, but that would be a very slow move at this point in the game. White will probably play somewhere else.]
+))
+(;B[bf]C[This move, which is really useful (it seals White into the corner), now is sente. A free move like this should never be ignored.]
+))
+(;B[dq];W[do];B[co];W[cn];B[cp];W[dn];B[fq]))
+(;W[dp];B[ck];W[pc];B[qc]C[This is what I wanted to try.]))

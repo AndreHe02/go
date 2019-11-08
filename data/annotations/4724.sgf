@@ -1,0 +1,230 @@
+(;FF[4]GM[1]SZ[19]ST[1]AP[SGFC:1.15]
+
+PB[Chaghatai]
+BR[13k]
+HA[0]
+PW[babon]
+WR[12k]
+KM[6.5]
+DT[2005-11-16]
+PC[The Kiseido Go Server (KGS) at http://kgs.kiseido.com/]
+RE[W+24.50]
+TM[1650]
+
+;B[pd];W[dp];B[pp];W[dd];B[pj];W[dj];B[jp];W[jd];B[fq]TR[jj]
+C[The biggest move is at K10, but F3 exists also.];W[eq]TR[dn]
+C[wrong.
+Should be D6];B[fp]TR[fq][jp]C[this is why E3 was wrong.
+This is too good for black, while there is still a play at C3 for black.]
+;W[dm]C[too loose. should be C6 or D6.];B[pn]TR[md]C[Correct.
+Pros play N16 after the play at F3];W[nc];B[ne]C[ok];W[md];B[me]
+;W[pb]
+(;B[cf]TR[jj]C[this is correct, (better than sans san), but still now, a play at K10 is required.
+
+C14 is not consistent with the idea of letting the top right corner open :
+- the difference of white or black playing in the corner is about 15 points.
+- what you take with a play at C14 is not more.
+- the san ren sei opening is an influence game, and while you build it consistently, the value of a play at K10 is now larger than anything on the goban, since it both completes influence and acts as a territorry move.]
+;W[ce];B[df];W[gd]C[same comment.
+See variation next move to see why this is slack for white.]
+
+(;B[dh]TR[dm][gd]C[
+see variation to see the refutation of G16 / D7];W[ph]
+(;B[oi]SQ[me][ne][pd]MA[md][nc][pb]C[this is a difficult situation, and I'm not sure I have enough background to help here
+
+The three white stones are strong,
+
+By comparison, the 3 black stones are somewhat weak (no real base) if they come to be cut.
+
+Since the invading white stone will get reinforced, the 3 black stone may suffer if you attack the white stone from P11
+
+I may have chosen a leaning reinforcing attack (see variation)]
+;W[og]SQ[pf]C[should be Q14];B[pf]C[of course];W[mg];B[le];W[ld]
+;B[ng];W[nh]
+(;B[nf]C[Error !
+However, the original idea was good (O13)
+
+see variation];W[oh];B[mh];W[mi];B[lh];W[ni]C[the result is that you are cut and white is out.
+This is a major setback in black command of the game.]
+(;B[mp]SQ[oi][pj]C[second error here :
+N4 is not urgent.
+
+The white stones are not that strong yet, have no base and no eyes.
+
+Attacking them is absolute.
+
+Further more the 2 black stones are in danger.];W[pl]C[ouch]
+;B[ol];W[om];B[pm];W[ok];B[nl];W[oj];B[ql];W[pk];B[qk];W[qj]
+;B[rj];W[qi];B[ri]MA[en][jm][oq]C[too small];W[rh];B[rm]C[??
+
+
+this is a wasted move : absolute gote because there is nothing in danger, and even if there was :
+
+- white is already alive, si his group is not at stake
+- the maximum penalty would be 2 black stones, that is 4 points ...
+
+
+
+Never give away sente for less than 15 or 20 points in the chuban]
+;W[qq];B[pq];W[pr];B[or];W[rr];B[rp]C[correct];W[qp]
+(;B[qo]C[you should have started with the atari];W[rq]
+(;B[ro]C[you should have continued with the atari ...];W[qs]
+;B[os];W[ps];B[cc];W[dc]
+(;B[cd]C[The usual move is B15.
+You explored variation, which is a good thing to do.
+
+However, you missed something in the usual line (see var B15)]
+;W[be];B[de];W[cb];B[bc];W[bb];B[bf];W[ac];B[cq];W[cp];B[bp]
+;W[dq];B[bo];W[bq]
+(;B[cm]C[maybe C6];W[cl];B[bl]
+(;W[bm]C[wrong side for W];B[cn];W[bk];B[dl];W[al];B[dn];W[em]
+;B[en];W[el];B[fn]C[the result is ok for black]
+(;W[cr]C[pretty sure this is bad for white
+
+Yes, this repays your stone at S7 ...
+
+White should get to the D14 stones ...];B[ci];W[cj];B[qc]MA[gl]
+C[I disagree.
+
+There is no potential here.
+You are only despriving white from 15 points in gote
+
+The centre is now beconming huge with a play at G8
+
+10 point left botton
+40 point top
+5 points right
+5 points bottom right
+
+
+Black only territorry is the centre
+
+- 30 point bottom and right centre
+- 10 right
+- 5 left
+
+sente before you play R17
+
+you are behind if you don't try to leverage your centre, which is the biggest potential.
+
+Furthermore, you can still reduce white with a big play at H16, you are strong both sides]
+;W[qb];B[rf];W[rc];B[rd];W[pc];B[qd];W[rb]C[both players here ignored the real area of interest]
+;B[jm]C[you are lucky to get the first to play here.];W[kl]
+;B[km];W[ll];B[mm];W[lm];B[ln];W[jl];B[im];W[lg];B[kg];W[il]
+;B[kh]MA[hm]C[I don't like this.
+
+the hane on 3 stones is not very comfortable ...];W[hm];B[hn]
+;W[mn];B[kn];W[nm];B[mo];W[ml];B[nn];W[mm];B[jj];W[on];B[oo]
+;W[no];B[np];W[fr];B[gr];W[er]
+(;B[fd]C[ok, but H16 seems to me more efficient :
+get where you have the more room to move];W[fc];B[hd];W[hc]
+;B[id];W[ic];B[ke]C[K15 first];W[je]C[here is why k15 should be played first]
+;B[kd];W[kc];B[ge];W[gc];B[he];W[jf];B[hh]C[???
+
+This is a dame point !
+
+you have several bigger yose moves
+
+F1 reverse sente
+A15 double sente
+O16 sente];W[ig];B[ih];W[hg];B[gg];W[fe];B[ff];W[ed];B[ee]C[same comment. value 1/2 point]
+;W[fd]C[white is helping you ...];B[fi];W[di];B[ch];W[fj];B[gj]
+;W[gk];B[hj];W[hk];B[gm];W[hl];B[lj];W[li];B[ki];W[mj];B[ae]
+C[good];W[bd];B[bi];W[ei];B[eh];W[jg];B[qg];W[qh];B[nd];W[mc]
+;B[fs]C[ok, you played all the big yose moves];W[es];B[gs];W[go]
+;B[gp]C[correct];W[ho]
+(;B[io]C[argh !
+you lose the game here.
+
+That was a pure bluff by white, and this is a rip off !];W[gn]
+;B[fm];W[in];B[hp];W[jo];B[ip];W[ko];B[lo];W[jn];B[fo];W[hn]
+;B[kp];W[kf];B[lf];W[oe];B[od];W[of];B[oc];W[ob];B[rg];W[pe]
+;B[qe]C[T12 bigger];W[pg];B[sh]C[yes];W[bn];B[co];W[aq];B[fk]
+;W[ej];B[ek];W[dk];B[fl];W[dl]C[good sequence];B[an];W[bj];B[aj]
+;W[ak];B[ai];W[am];B[lk];W[mk];B[jh];W[jk];B[kj];W[ij];B[hi]
+;W[ii];B[hf];W[jc];B[sc];W[sb];B[sd];W[ik];B[fh];W[ad];B[af]
+;W[ao];B[ap];W[nn];B[sq];W[sr];B[sp];W[an];B[ep];W[do];B[tt]
+;W[tt]C[
+All in all I want to do better in the corner invasions, and I wanted to find a way to break up the top
+I know keeping that huge moyo on the bottom is unreasonable, but my opponent let me, I should have won for that reason alone I think, something told me his top was not so secure
+
+Ok : I see 2 main things, and a small one
+
+- you missed some opportunity in the chuban (#33)
+and in the corner invasions (black and white), but the most critical was the answer to white G5. This is a pure reading problem, and you could usefully practice some tsumego to get trained to a couple of shapes / situations that will help. You had a better opponent at this on this game
+
+- but more serious, you (both) ignored the value of the centre until very late.
+By playing there more early, you could have made the game easier for you.
+
+- last, your reduction of the white top was a good idea, but since it is more difficult to master, you chose a way that was less efficient than it should have.
+
+
+Hope this helped.])
+(;B[in]C[better response];W[io];B[hp];W[ip];B[iq]
+(;W[hq]
+(;B[gq])
+(;B[fo]))
+(;W[fo];B[eo];W[jo];B[ko]
+(;W[kp])
+(;W[jq];B[kp];W[hq];B[ir];W[ep];B[gq]
+(;W[hr];B[hs])
+(;W[jr];B[bj];W[hr];B[hs]))))
+(;B[gn]C[only move
+
+- connects the 2 groups
+- suppress 1 liberty for W];W[fo];B[eo]))
+(;B[hd];W[hc];B[gc];W[id];B[fd]
+(;W[he];B[ge])
+(;W[ge];B[fe];W[fc];B[gb])))
+(;W[gm];B[cr];W[br]))
+(;W[cn];B[bm];W[bn]))
+(;B[cn];W[cm];B[dn];W[en];B[bm];W[bl];B[em]
+(;W[am];B[eo];W[bn];B[co];W[fn];B[do])
+(;W[eo];B[cl];W[dl];B[ck])))
+(;B[db];W[eb];B[cb];W[cd];B[bd];W[be];B[ac]C[don't like this bacause of the monkey jump
+
+
+???
+why ?
+Do you consider that the left side is * your * territorry ??
+
+There is no loss for you with a monkey jump])
+(;B[be]
+(;W[bd]C[white won't play this because black play C16
+
+The usual continuation is White C16]
+(;B[bf];W[cd];B[db];W[cb])
+(;B[cd]))
+(;W[cd];B[bd];W[bc]))
+(;B[cb];W[db];B[cd];W[be];B[de];W[bf];B[bg];W[bb];B[bd];W[ca]
+;B[ae]C[better I think]))
+(;B[ps];W[ro];B[sp];W[qr];B[rn]
+(;W[so])
+(;W[sq];B[so];W[qs];B[ss])))
+(;B[ps]
+(;W[qr];B[qo];W[rq];B[ro]C[now what ?])
+(;W[qo];B[qr];W[ro];B[rs];W[rq];B[sp])
+(;W[ro];B[qr];W[rq];B[sp])))
+(;B[ok];W[mk];B[nl];W[pi];B[oj];W[qj];B[qk];W[rj];B[rk];W[qg]
+;B[rf];W[kj];B[kl])
+(;B[nj];W[pi];B[oj];W[qj];B[qk];W[rj];B[rk];W[qg];B[lk];W[rf]
+;B[en];W[dn];B[oq]))
+(;B[oh]
+(;W[pg];B[nf])
+(;W[nf];B[pg]C[now : a ponnuki is said to be worth 30 points
+However, This ponnuki is worth much less, because it is surrounded by black stones, and you gain the whole right side in exchange]
+)))
+(;B[ld];W[lc];B[nd];W[mc];B[oc];W[ob];B[oi]C[now this makes more sense ...]
+;W[pf]C[possible continuation ...];B[og];W[of];B[mg];W[nf];B[mf]
+;W[ng];B[nh];W[oh];B[mi];W[qe];B[en];W[dn];B[jm]))
+(;B[cp]C[this is possible, and D5 is also possible (about the same idea.)]
+;W[cq];B[do];W[co];B[cn];W[bp];B[dn]C[this is from a pro game.
+The white side is now gone]))
+(;B[cc];W[cd];B[dc];W[ec]
+(;B[bd];W[be];B[bc])
+(;B[eb];W[fc];B[fb];W[gc];B[bd]
+(;W[bc])
+(;W[be];B[bc];W[cf];B[cq];W[cp];B[bp]
+(;W[bo];B[bq];W[dq];B[dr];W[er];B[cs])
+(;W[dq];B[bo];W[bq];B[cm];W[cl];B[bm];W[bl];B[dn];W[en];B[em]
+;W[dl];B[eo];W[fn];B[do])))))

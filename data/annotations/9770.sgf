@@ -1,0 +1,55 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.16]
+
+PB[EzrArzE]
+BR[13k]
+PW[mfgo15kyu0]
+KM[6.5]
+DT[2015-04-18]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[W+Resign]
+TM[0]
+OT[9x30 byo-yomi]
+RU[Japanese]
+
+C[mfgo15kyu0 [-\]: GTP Engine for mfgo15kyu0 (white): Many Faces of Go version 12 (2002, 2008, 2010 world champion), playing at level 15 kyu. Uses Many Faces' knowledge combined with Monte Carlo evaluation. Free evaluation download at www.smart-games.com. iPhone/iPod Igowin app has this full engine.
+
+georg: you played very well. however, you might consider not allowing white big moyos. as a result you are being forced into fighting. with white having multiple options to connect, it is impossible to kill white's big group (see variation 162)]
+;B[qd];W[qq];B[dc];W[eq];B[dp]C[Here I was think that the corner was to open so I played
+d4.];W[dq];B[ep];W[fp];B[cq];W[ce];B[de];W[oc];B[pg];W[qm]
+(;B[iq];W[kq];B[in]LB[dk:A]C[too far away. allows white to play at A]
+
+(;W[dk];B[cm];W[ch];B[ck];W[dj];B[bi]LB[jc:A]C[too small. consider play around A]
+;W[fc];B[eb];W[fb];B[cd];W[qi];B[qg];W[ld];B[pc];W[np];B[kp]
+;W[bh];B[ci]LB[ic:A][id:B]C[consider invading agressively at A or B instead. the play at C11 is worth less than 5 points.]
+;W[di];B[cf];W[dh];B[bf];W[id];B[fn];W[pk];B[fq];W[gp];B[gq]
+;W[cl];B[bl];W[dl];B[cj];W[dm];B[cn];W[dn]
+(;B[do]C[bad form. leaves your stone separated. see variation]
+;W[en];B[fo];W[eo];B[co];W[fm];B[ho];W[gn];B[go];W[gm]LB[lq:A]
+C[consider hane at A.]
+(;B[lp];W[lq];B[no];W[oo];B[nn];W[oq];B[on];W[pn];B[nk];W[jq]
+;B[jp];W[ir];B[hq];W[jr];B[hr];W[od];B[hk];W[bk];B[bj];W[ak]
+;B[al];W[bm];B[aj];W[ol];B[nl];W[mp];B[mo];W[fe];B[ff];W[ge]
+;B[gf];W[hf];B[hg];W[if];B[ig];W[gg];B[fg];W[gh];B[fi];W[gi]
+;B[fj];W[ii];B[jh];W[ji];B[lh];W[fh];B[eh];W[eg];B[ef];W[ei]
+;B[gj];W[pe];B[qe];W[ob];B[pb];W[ea];B[da];W[fa];B[ec];W[jf]
+;B[kg];W[kf];B[lf];W[le];B[mf];W[pf];B[ng];W[qf];B[rf];W[re]
+;B[rd];W[se];B[sf];W[me];B[ne];W[nd];B[oe];W[pd];B[oi];W[of]
+;B[nf];W[og];B[oh];W[rb];B[sd];W[qb];B[qc];W[ph];B[pi];W[qj]
+;B[qh];W[pa];B[ri];W[rj];B[si]TR[eg][gg][bh][ch][dh][fh][gh]
+[di][ei][gi][ii][ji][dj][dk][cl][dl][dm][fm][gm][dn][en][gn]
+[eo]C[What I wanted to do was capture all this stones, but got
+out of hand.
+
+see variation at 162.];W[ki];B[li];W[lj];B[kj];W[lk]
+(;B[kl];W[kk];B[jj];W[jk];B[ij];W[im];B[hi];W[hh];B[ih];W[hj]
+;B[ik];W[hi];B[dg];W[eh];B[hm];W[jl];B[il];W[jm];B[gk];W[hn]
+;B[gl];W[io];B[hp];W[jn];B[tt];W[ll]C[I resign here.])
+(;B[jj];W[ij];B[jk];W[ik];B[jl];W[il];B[hl];W[im];B[hm];W[jm]
+))
+(;B[lq];W[lp];B[nr];W[mq];B[lr];W[mr];B[ms];W[ls];B[ks];W[kr]
+;B[ls];W[js];B[ns];W[jr];B[ir]))
+(;B[en];W[co];B[bo];W[do];B[eo];W[cp];B[bp];W[bq];B[cr]))
+(;W[ip];B[hp];W[hq];B[jp];W[jq];B[io];W[ir];B[ip];W[gq]))
+(;B[cj]C[how about creating a moyo on the left side?];W[kq]
+;B[jc]C[black creates big spheres of influence and forces white to invade.]
+))

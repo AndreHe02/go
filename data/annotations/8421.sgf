@@ -1,0 +1,247 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.17]
+
+PB[trickyness]
+PW[adickson]
+WR[5k]
+KM[6.5]
+DT[2011-07-20]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[W+3.5]
+TM[1800]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+C[hmm lots of dead groups but after the dust settles 3.5 point loss
+
+GP: Hi, I'm Graham Lamburn (johndoe69 on KGS), currently between KGS 1d and 2d. I hope to give useful comments and insights where I can (marked with GL:) and have tried to answer your questions and comments, and I've summarised the key points at the end of the sgf. Where I'm offering or annotating variations that deviate from the game, I mark the game move with a square and the deviation with a triangle (including your variations if you provided them and I commented on them). If I'm simply offering alternative moves as a comment, I normally mark each with a triangle, and most variations have a comment at the end.]
+;B[pq];W[dd];B[cp];W[pd];B[eq]C[not sure which one is better
+
+GL: R5 is more common, particularly if C4 is at D4, as it makes the overall position along the bottom higher. However, with C4, this no longer applies so much, as White can immediately approach at E4 or F3 and make it hard to develop the bottom. I would still prefer R5, as Q16 makes the Q5 approach ideal for White.]
+;W[po]TR[qm][np]SQ[qo]
+(;B[qo]C[GL: Generally not the best choice when White has a stone at Q16, as you give him the ability to create a moyo on a large scale (the normal joseki finishes with R10, but White can play Q10 here to make the most of the high position of Q16). You can consider pincering, or O4 is fine to take territory in sente.]
+;W[qn];B[qp];W[pm];B[nq];W[qi]C[GL: White can play high here.]
+;B[cf];W[fd]TR[dj]SQ[bd]
+(;B[bd]TR[ch]SQ[cc]C[*** Important Point ***
+
+GL: You are playing very flat, with a combination of 2nd and 3rd line stones. You've made the shimari in the lower left, so your stones really want to develop the left side in as big a way as possible. White can opt to hit C12 now and restrict Black's development whilst continuing to build on a larger scale. I'd rather play this at D10.
+
+It's very useful to get into the habit of developing fuseki ideas that have a balance between 3rd and 4th line stones. Yilun Yang covers this subject well in "Fundamental Principles of Go".]
+(;W[cc]TR[di]SQ[ef]
+(;B[ef]C[GL: This is a mistake, as White can too easily take away the left hand side as he can invade with enough space to make a base. Better to play this at D11.]
+;W[ck];B[ci]C[GL: This is the correct side to play, but somewhat painful, as the shimari has lost its impact on the game once White makes a base.]
+;W[cn];B[nc]C[GL: Good.];W[nd];B[md];W[ne]TR[oc][pc][qc]SQ[me]
+(;B[me]C[*** Important Points ***
+
+GL: This must be P17 - it's such a vital shape point for both players that allowing White to take it fixes his entire corner in sente. You can also consider Q17 to make a more solid position (albeit making White thicker in the process, so possibly unwise here because White can develop the right hand side nicely), or even R17, trading the top stones for the coner. Because White has 4th line stones at F16 and can look to develop, I would suggest that the best course of action for Black is to make sure he can get a good foothold up there, which means of the three main choices (P17, Q17 and R17), I'd pick P17 - I've included the three so you can see how the normal end of each sequence looks.
+
+Allowing White to get P17 without being able to trade O17 for the corner is so very painful, it's a very important joseki/opening point to take home from this game.]
+;W[oc];B[hc]C[I sorta planned this
+
+GL: It's a good, big point, but the top right group is a bit more urgent. You've left the stones in a very thin position, and you've reinforced the corner substantially. You'd be better playing this point before the O17 approach if you want to build this sort of attack - it's definitely the key point, and a fun idea, but you've taken too much of a loss with the top right stones to start the attack now.]
+;W[jc]C[GL: Overplay by White. H16 feels like the only move.]
+;B[ge]C[GL: Severe.];W[gd];B[hd];W[he];B[jd]C[GL: Good instinct!]
+;W[mc];B[lc];W[mb];B[lb];W[nb];B[fe];W[gb];B[hb];W[eb]TR[mf]
+[dm]SQ[bm]C[GL: An excellent sequence for Black. H15 still has a lot of aji, but the whole sequence up to here has worked out very nicely.]
+(;B[bm]TR[mf]SQ[cm]C[is the shoulder hit better? (to keep white low)
+
+*** Important Point 1 ***
+
+GL: Yes, I think it's fairly definitively better. You've managed to create a pretty thick position from the top, and you really want to lean over these two stones to expand it further. Using thickness effectively is always urgent, as it can be made redundant surprisingly quickly. The purpose of a thick position is to quickly build a large moyo, ideally in sente, where it is very hard for the opponent to reduce. Having a weak group you can seal in in sente is a thick player's dream :)
+
+*** Important Point 2 ***
+
+GL: However, more urgently than this is to prevent White from getting the hane at N14, which is really huge due to the weaknesses in shape Black has. I've included a tenuki continuation for White here, as well as an alternative variation for Black at D7 instead of B7.]
+(;W[cm];B[bl];W[bj]C[GL: Heavy! Better is E7 for White.];B[cl]
+;W[dl];B[bn];W[en]TR[el]SQ[dk]
+(;B[el]TR[dk]SQ[ek]C[GL: Better to cut at D9 directly.];W[ek]
+C[GL: Somewhat better at D9 to prevent Black from getting D7 in sente, but it's all very heavy for White now.]
+;B[em]C[GL: You must take D7! White can now connect and, although heavy, can look after his group from both sides.]
+;W[fn];B[dm];W[dk];B[dn];W[mf]C[GL: Big, but it's no longer as urgent as the big group fight in the lower left.]
+;B[gl]C[GL: Perfect!];W[lf];B[ke];W[ln]TR[fk][hn]SQ[nf]
+(;B[nf]C[this was a bad idea
+
+GL: Yes, very much so, F9, and H6 are both much more urgent (and less of an overplay ;))]
+;W[ng];B[of];W[og];B[on]C[GL: The peep is good :)];W[om];B[nm]
+TR[ll]SQ[nn]
+(;W[nn]C[GL: White must look after M6 I think, or Black's territory becomes too large]
+;B[mn]TR[mm]SQ[no]C[GL: Better to play N6 directly at move 69 if you are going to play this way.]
+;W[no];B[mo];W[mm];B[lm]TR[mp]SQ[nl]
+(;W[nl]C[GL: White could also consider N4];B[ml];W[nm];B[mp]
+;W[ll];B[km];W[kl];B[jm];W[jl];B[il];W[im];B[jn]C[GL: L5 is better shape.]
+;W[jp];B[mk]C[GL: Big, but H3 is more urgent, and it's hard to read whether or not it would be better just playing J9 in sente. Playing to save N8 is rather overplayish.]
+;W[gq];B[kq];W[jq]
+(;B[ik]C[hmm I thought this was a cranes nest at first glance
+
+GL: Close, but not quite :) Actually, the move to kill, if there is one is probably M10.]
+;W[lk]TR[kj]SQ[lj]
+(;B[lj]C[better to extend?
+
+GL: Better to play L10 and try to build a moyo I think. The N9 stones are unlikely to live, and adding to their number will just cost you points.]
+;W[mj];B[nk];W[kj];B[li];W[ki];B[kk];W[jk];B[jj];W[kk];B[lh]
+;W[kh];B[kg];W[ij];B[ji];W[jh];B[ii];W[ih];B[hi];W[lg]C[GL: Very painful for Black.]
+;B[ni];W[nj]C[knew this failed to attact O& group];B[ok];W[oj]
+;B[pk]TR[ql]SQ[mi]
+(;W[mi]C[GL: White should play R8 first, to secure that group.]
+;B[ql];W[ko];B[jo];W[kp];B[ho];W[rm];B[qm]C[GL: L2 seems big also, threatening to kill the bottom group and saving L2.]
+;W[ro];B[rp];W[lq];B[pi];W[pj];B[qj];W[oi]TR[ri]SQ[ph]
+(;B[ph];W[rj];B[qk];W[qh];B[pg];W[qg]C[GL: Painful. Black is now dead along the right hand side.]
+;B[qf]TR[rf]SQ[pe]
+(;W[pe]C[GL: Aji keshi for White];B[pf];W[rk];B[rl];W[sl];B[so]
+TR[pl][rn]
+(;W[rn];B[ri]C[yeah funny thing in desparation I thought play would continue
+
+GL: :)]
+(;W[pl];B[rg];W[ol];B[rh];W[qj];B[rd]C[GL: Very nice recovery!]
+(;W[qe]C[GL: Aji keshi again.];B[re];W[rf];B[qc];W[oh];B[sf]
+;W[oe];B[rf];W[mq]TR[go]SQ[np]
+(;B[np]C[GL: G5 is much bigger I think, and Q18 is worth taking in sente first.]
+;W[hm];B[gm];W[io];B[in];W[hn];B[ip];W[kn];B[io];W[gn];B[go]
+;W[fp];B[fo];W[eo];B[ep];W[iq];B[do];W[hp]C[somehow missed H8 liberty
+
+GL: It's a hard read :)];B[hl];W[gp];B[hh]C[GL: Good!];W[kf]
+TR[hf]SQ[hg]
+(;B[hg]C[GL: H14 is somewhat better, as you can fix here in sente before looking after the top.]
+;W[if];B[ie]C[GL: Painful to make this move];W[hf];B[bi]C[GL: G14 is bigger.]
+;W[ja];B[jb];W[kb];B[kc]TR[ib]SQ[ha]
+(;W[ha]C[GL: J18 would have been very painful.];B[ka];W[ia]
+;B[ic]C[GL: J18 retains sente.];W[le];B[ld];W[jf];B[ig];W[je]
+;B[jg];W[gf];B[fg];W[gg];B[fh];W[gh]C[GL: Painful.];B[gi];W[ma]
+;B[ff];W[mg];B[la];W[id];B[pb];W[kd];B[ie];W[ke];B[id];W[ga]
+;B[ib];W[ob]TR[bb][bc]SQ[oa]
+(;B[oa]C[GL: You variation doesn't quite work - useful tesuji to learn :)]
+;W[bc];B[cd]C[GL: B15 slightly better, as it makes A17 your privelege.]
+;W[fr];B[er];W[es];B[ds];W[fs];B[cr];W[de];B[df];W[ce];B[be]
+;W[ad]C[GL: Good endgame by White.];B[bf];W[si];B[sh];W[pc]
+;B[qb];W[fm];B[fl];W[mr];B[nr];W[ns];B[os];W[ms];B[lp];W[or]
+;B[pr];W[kr];B[oq]
+(;W[sn]TR[sp][fq]
+(;B[fq]TR[sp][gr]C[GL: Slightly risky endgame because of the lower right, but good spirit for sente.]
+(;W[gr];B[oo];W[pn];B[op];W[sp];B[rq];W[sq];B[sr];W[so];B[rr]
+;W[ae];B[af];W[ac];B[ed];W[ec];B[gc];W[fc];B[ee];W[dc];B[sj]
+;W[sk];B[si];W[na];B[pa];W[qd];B[tt];W[tt]TW[aa][ba][ca][da]
+[ea][fa][ab][bb][cb][db][fb][nc][od][lh][mh][nh][li][ni][lj]
+[mk][nk][ok][pk][qk][ml][ql][rl][jm][km][lm][qm][sm][in][jn]
+[fo][go][ho][io][jo][ip][hq][kq][hr][ir][jr][lr][gs][hs][is]
+[js][ks][ls]TB[qa][ra][sa][kb][rb][sb][jc][rc][sc][sd][se][ag]
+[bg][cg][dg][eg][sg][ah][bh][ch][dh][eh][ai][di][ei][fi][aj]
+[bj][cj][dj][ej][fj][gj][hj][ij][ak][bk][ck][dk][ek][fk][gk]
+[hk][al][dl][am][cm][an][cn][ao][bo][co][ap][bp][dp][aq][bq]
+[cq][dq][qq][ar][br][dr][or][qr][as][bs][cs][ps][qs][rs][ss]
+C[*** Summary ***
+
+In this game, you had a slightly unfavourable opening due to picking a number of sequences that left you low on the 3rd line. It's worth browsing a few joseki sequences that give you alternatives that allow you to mix and match a more balanced opening. Particularly with a shimari or 4-4 style opening, you want to develop adjacent sides with some scope and pace. The left hand side was a good example of ending up with a very inefficient shimari, despite having the opportunity to make considerably more with it.
+
+Despite that, you pulled off a good sequence on the top edge and had the potential to use White's weaknesses to develop nicely in the center, but instead chased White out, making it hard to make the best use of the result at the top.
+
+You played some great fighting sequences in this game :)
+
+*** Important Points ***
+
+15 - Balanced opening combining influence and territory, with a mix of 3rd and 4th line stones.
+25 - Critical joseki shape habit to remember.
+43 - Using thickness is urgent - being able to make further thickness to supplement it in sente is an opportunity never to be missed.
+43 - Hane at head and foot of two stones is so painful, extending to avoid it is urgent.
+
+After this point, I've included a number of variations for thought, but a lot of it was tactical infighting, so hard to make general principles from :)
+
+*** Recommendations ***
+
+Depending on which areas you'd like to work on, I'd recommend the kakari high approach joseki book by Yilun Yang for some interesting ideas in the opening; I'd recommend his Fundamental Principles of Go book as well for discussions of appropriate stone placement, pincer choices, and the balance of high and low stones. I'd also recommend Ishida Yoshio's "All about Thickness" book with how to make the best use of an influential position. All have good material and seem to be relevant to the recommendations from this game.
+
+You can also have a browse around www.josekipedia.com and www.brugo.be for joseki ideas (both are more reliable than Kogo's dictionary), but these obviously won't explain why a choice is better than another one.
+
+I hope these comments are in some way helpful. If you have any responses / queries / comments or would like further input on specific moves or areas, do feel free to ask!]
+)
+(;W[sp];B[gr];W[rq]C[GL: White gets to follow up in sente.]
+;B[rr];W[qq];B[qr];W[pp];B[ir];W[jr];B[is];W[hr];B[hs];W[js]
+;B[gs]CR[oo][op][hq][sq][sr][rs][ss]TR[on][pn][qo][qp][rp][kq]
+[lr][ks][ls]SQ[fr][or][es][fs][ps][qs]C[GL: 3 captures each, plus 10 points for White, and 6 points for Black, and circled areas contested. Even assuming P4 is Black's sente and Black gets T2, it's no better than the alternate variation.]
+))
+(;B[sp];W[fq]TR[hq][kq][gr][hr][ir][jr][lr][gs][hs][is][js]
+[ks][ls]SQ[qq][rq][sq][or][qr][rr][sr][ps][qs][rs][ss]C[GL: 13 points marked for White, 11 for Black.]
+))
+(;W[pp]))
+(;B[bb];W[bc];B[ac];W[be];B[ce];W[cd];B[ad]TR[ab][ae]
+(;W[ae]C[GL: This is a mistake by White];B[ab];W[cb];B[af]C[should have read better in game
+
+GL: This probably wouldn't have worked out this well :)])
+(;W[ab];B[aa];W[ae];B[ab];W[cb]))
+(;B[bc]C[GL: This is almost always better endgame];W[bb];B[cd]
+;W[dc];B[ab];W[ba];B[de]))
+(;W[ib];B[ic];W[la];B[jb]C[GL: Picnic ko for White, as your group sits in the balance.]
+))
+(;B[hf];W[ie];B[id];W[if];B[ig];W[jg];B[hg];W[jf];B[jb]))
+(;B[go]C[GL: H7 is no longer a threat, and you have the followup at F4.]
+))
+(;W[rc]TR[qc][re]C[GL: Better for White.]
+(;B[re]
+(;W[qc];B[sf]C[GL: Lives with R15 and T16 as miai.])
+(;W[sf];B[qc];W[rb];B[qb];W[qd];B[ra]C[GL: No good for White.]
+))
+(;B[qc];W[qd];B[re];W[rb];B[sf]C[GL: Also lives, but slightly worse in the corner.]
+)))
+(;W[rh];B[sk];W[si];B[sm];W[pn];B[sn]))
+(;W[pl];B[rn];W[ol]))
+(;W[rf]C[GL: This is necessary I think.];B[rl];W[sm]TR[qe][re]
+(;B[re];W[qe]TR[pf][rg]
+(;B[pf];W[rg];B[qd];W[pe])
+(;B[rg];W[pf];B[ri];W[rh]))
+(;B[qe];W[re];B[qd];W[qc];B[rd];W[rc];B[se];W[sg];B[rh];W[ri]
+C[GL: Black has two few liberties with Q13 to play this way.]
+)))
+(;B[ri]C[GL: Normally, I'd say extending is a golden rule when in atari, but there's nothing to be gained from those extra liberties when White can atari at S10. Instead, this hane seems promising.]
+;W[qh];B[rl]TR[rh][rj][pl]
+(;W[rj]C[GL: S12 is also ko - Q8 allows Black to live.];B[sm]
+;W[qk];B[pl];W[sn]C[GL: S6 instead allows Black to connect.]
+;B[rn])
+(;W[pl];B[rh]TR[rg][rj]
+(;W[rj];B[qk];W[qg];B[sj])
+(;W[rg];B[qg];W[ph];B[rf];W[rj];B[qk]))
+(;W[rh];B[rk];W[si];B[sm];W[sn];B[rn])))
+(;W[ql];B[qk];W[rj];B[rk];W[rl];B[sk];W[pj]C[GL: Black has no good way to continue.]
+))
+(;B[kj];W[lj];B[jh]C[GL: Now it is hard for White to break in.]
+;W[ki];B[ji];W[jj];B[ij];W[kf];B[jf]))
+(;B[jk];W[ik];B[hl];W[kk];B[jj];W[kj];B[ki];W[lj];B[mj];W[li]
+))
+(;W[mp];B[ml];W[lo];B[mm];W[np];B[lp];W[mq];B[kp];W[oq]C[GL: An exchange of sorts.]
+))
+(;W[ll];B[nl];W[lj]))
+(;B[fk]C[GL: Crucial shape point, and IMO the biggest place on the board, pretty much killing those 5 stones outright.]
+)
+(;B[hn]C[GL: A bit thin, but White is so weak that this threatens on a large scale.]
+;W[hm];B[gm];W[gn];B[ho]C[GL: White has no good continuation now.]
+))
+(;B[dk];W[ek];B[dj];W[el]C[GL: Black takes cash, and White tries to stabilise.]
+))
+(;W[mf];B[lf];W[lg];B[kf];W[mg]C[GL: This changes the dynamic of the board considerably - not only is White developing more points and making it hard for Black to reduce, but it also inhibits Black from harrassing C6 and C9 to create a large scale moyo.]
+))
+(;B[mf];W[nf];B[mg]C[GL: This may look slow, but don't undervalue the thickness you are creating. Sure, it feels unpleasant giving White 6th line territory, but omitting P17 and then letting White capture O17 has left you without much choice. This way you get to remove H15 aji indirectly, and if White takes gote to protect the right ...]
+;W[oh];B[dm];W[cm];B[dk];W[dl];B[el];W[cl];B[dj];W[em];B[fm]
+;W[en];B[fl]C[GL: Now Black is building a large scale plan that more than competes with White's moyo.]
+)
+(;B[dm];W[cm];B[dk];W[dl];B[el];W[cl];B[dj];W[em];B[fm];W[en]
+;B[fl]C[GL: Locally I'd be aiming for something like this, trying to build on the top and keep White tightly concentrated. However, I think that White's N14 is too painful for you now (see continuation), hence recommending that Black fixes his weaknesses there first.]
+;W[mf];B[lf];W[lg];B[kf];W[mh];B[jh]C[GL: Black's position has been reduced fairly heavily.]
+))
+(;B[oc];W[pc];B[jc];W[hc];B[je]C[GL: This can be expected. Sadly, White's approach in the lower right and high development choices are looking strong now, as White has sente to start building his framework. The game is still reasonable enough for Black now though.]
+)
+(;B[pc];W[oc];B[ob];W[od];B[mb];W[qc];B[pb];W[me];B[ld]C[GL: Black settles completely, and White builds a stronger, thicker position. This also seems very viable for Black to me.]
+)
+(;B[qc];W[oc];B[qd];W[mc];B[qf]C[GL: White captures the two stones, and Black makes life in the corner. White's ability to expand the top is good however, so this feels like it's probably not enough profit to compensate - it's better than the game line though.]
+))
+(;B[di]C[GL: Now it is hard for White to invade and make a base, and Black can use his stones to build an attack. Note here that Black played D11 rather than D10, as the invasion joseki I put on the variaion at move 15 doesn't work any more as you've exchanged B16 for C17.]
+))
+(;W[ch];B[cc];W[ce];B[be];W[df];B[dg];W[cg];B[bf];W[ef]C[GL: White will be happy enough keeping Black from developing the left hand side. The shimari is now going to struggle to exert its influence, and the top left corner cannot develop, so the points value is not likely to be as useful as White's thickness.]
+))
+(;B[dj]TR[ch]C[GL: Now Black's development is competing again. The invasion at C12 is not too much of a risk right now, as Black can trade C14 for eating out the corner (see continuation)]
+;W[ch];B[eh];W[dg];B[cc];W[cd];B[bd];W[be]TR[bb][bc]C[GL: Two variations depending on F16 - comments on each.]
+(;B[bb]C[GL: With F16, Black can play this way, as it's slightly faster.]
+;W[ad];B[bc];W[ce];B[fb]C[GL: Black can be happy, and E12 works to continue building influence towards the center.]
+)
+(;B[bc]C[GL: If F16 was at F17, this is the only way to live safely. See continuation.]
+;AW[fc]AE[fd];W[ce];B[eb];W[fb];B[ec];W[ed];B[dc]TR[fd]C[GL: The cut at F16 is now a burden for White]
+)))
+(;B[np];W[qq];B[qr];W[qp];B[rr];W[ql];B[cf]C[GL: This seems acceptable for Black]
+)
+(;B[qm];W[on]))

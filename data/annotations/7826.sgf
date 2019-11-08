@@ -1,0 +1,179 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[utf-8]AP[SGFC:1.17]
+
+PB[DrDango]
+BR[4k]
+PW[elvard]
+WR[3k]
+KM[0.5]
+DT[2010-04-29]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[B+Resign]
+TM[2700]
+OT[5x30 byo-yomi]
+RU[AGA]
+
+C[Hi there.
+
+As usuall, I'm having loosing strike :) And as usuall I need some advices to move on and improve.
+
+In this game, which I lost, was very messy fuseki, then one big fight. Both, I think, I lost. I though the game is close, so I want to make my best in yose, but it was already loose game...
+
+Chris: Hi Tomas, let me see what I can do for you.
+
+Chris: Now after looking through the game, here are my general comments:
+
+1) Work on shape!
+2) Attack only when youre strong. I believe you dont do this on purpose ;) It has something to do with reading abilities regarding shape (hence connected to point 1). When you want to attack the left, attack the right first to become stronger.
+3) Tesuji!
+
+If you have money, I would recommend a good Tsumego and a good Tesuji book. 501 Tesuji problems is often quite difficult, but also very rewarding. I would not spend too much time on goproblems.com, as the problems there are most often taken out of games (and very interesting) but not very instructive in a general way. 
+
+As for life and death, I would recommend Cho Chikuns ABC of life and death and the Korean Baduk Academy problems (I believe the latter is on gobase.org).
+
+As for shape, some pros are notorious for their love of shape ^^ Otake Hideo comes to mind. Also Lee Changho in his earlier years, shows good examples. It is enjoyable, at least for me, to have a quick look over their games (try go4go.net/v2 for an extensive collection).
+
+If you have any other questions, feel free to contact me.
+
+Chris];B[qc];W[dp];B[pp];W[cd];B[bf]C[My oponent said, this one was his mistake as he though my stone is on hoshi.
+
+Chris: True, this is a bad move. Ill show you a few variations you could choose from. It is very hard to say what *exactly* the best move is, especially considering how empty the board is.]
+(;W[df]C[Chris: Attacking move.];B[ch]
+(;W[cg];B[bg];W[dh]LB[cg:A][bg:B][dh:C][ci:D]C[Chris: I dont like the ABCD exchange, suddenly Blacks group is alive.]
+;B[ci];W[nd]LB[de:A][di:B]C[I want to use my "wall"
+
+Chris: There are weak spot like A for example, Black can use to invade. Remember Black doesnt have to worry about the stone in the top right for a *long* time, so he can invade freely. Also the turn at B is probably worth a lot more, than you think. When you build a wall you must come out ahead (faster than your opponent), because turns like B are too big to ignore.]
+(;B[pe];W[kd]C[Maybe this stone is too far from my imaginary "wall" ?
+
+Chris: No this is good play locally.Black just helped you. When he invades the top later, you should be able to make profit elsewhere very easily.]
+;B[ec]C[Chris: Immediatedly o.O];W[gc];B[fd]
+(;W[ee];B[gd];W[hc];B[cc];W[bc];B[dd]
+(;W[ed]C[Chris: Strange plan. The corner becomes too large.]
+;B[ce];W[fc];B[gf];W[fg];B[hg]
+(;W[ff];B[bd];W[ge];B[hd];W[he];B[id];W[ic];B[ie];W[hf];B[if]
+;W[fe]
+(;B[ig]C[Chris: Connection is slow. White is almost alive now]
+;W[gg]LB[ci:A][fd:B]C[My oponent gets both, corner and center, so somewhere I made mistake
+
+Chris: Yes. Pushing Black ahead at A, while building a wall with bad shape was the problem. Second mistake was not attacking Blacks corner hard enough. You cut off a weak group at B but in return became weak in the center as well. Fight when youre strong, defend when youre not.
+
+The main problem was still though the response to the strange low move in the beginning. Dont help your opponent by attaching!
+
+So far this was a very interesting game to look at ^^];B[fq]
+;W[cn];B[dr];W[gq]C[I want to try something different, mainly get thickness in direction of lower right
+
+Chris: Possible and can be very complicated. I like this variation a lot too.]
+;B[gp];W[hq];B[hp];W[fr];B[eq];W[jq];B[ip];W[kr]C[Chris: Correct]
+;B[cq];W[cp]LB[er:A][cp:B][ck:C]C[Chris: Black could have played A, putting White into a bit of a dilemma. Protect the left and leave bad aji on the bottom? I would prefer B at C in this case]
+;B[bq];W[ck]C[Chris:];B[pj]SQ[fd][gd][hd][id][ie][if][ig][hg]
+LB[bb:A][rd:B][jb:C][ir:D][cm:E][cr:F][qn:G]C[Now I had to invade.
+
+Or it's better to attack black's central group first ?
+
+Chris: We have to look at the board.
+
+Black has 15 points at A, 12 points at B, 6 points at F.
+White has 4 points at E, 10 points at C and 6 points at D.
+
+So I count B 33 - W 20+Komi. So the score is less than 10 points difference, that is ok in early midgame. The problem is, where is Whites potential? I dont see any, but the entire right side is potential for Black. 
+
+Hence we need to find a working gameplan now! The marked group does not have any eyes whatsoever. But we cannot attack it immediatedly. Since D is very strong, a splitting invasion at G is a good idea. We have to play steady and wait for our opponent to make a mistake we can exploit (and hopefully attack the marked stones in the process)]
+(;W[qn]C[Chris: Good!];B[qo];W[pn]C[Chris: Strange exchange by Black. This influence, or what will become of it, will help White!]
+;B[nq]
+(;W[qj]LB[qg:A][ig:B]C[Chris: I understand your desire to live fast, but in this case 2 other things happen as well. Black gets much stronger in the process, so an invasion at A becomes more and more difficult and the extra influence will help Black settle the B group.]
+;B[qi];W[qk];B[pk];W[pl];B[ol];W[qm];B[rj];W[rk];B[ri];W[pi]
+LB[ri:A]C[Chris: A was too slow, since white is pretty much alive. Very good cut ^^]
+;B[oi];W[ph];B[qg]
+(;W[og]C[Chris: Im not sure of this move, there seem to be better tesuji for making shape around.]
+;B[nf];W[ng]C[Short fight follow];B[mf];W[kf];B[kg]
+(;W[lf];B[mg];W[lg];B[mh];W[kh];B[ij]C[Chris: Since Black has a few more liberties now, the 4 stones have a little less aji. Lets see what White can make of the attack in the center.]
+;W[kj];B[di]C[Now again, my oponent gets both, his central group is alive and my four stone are almost captured
+
+Chris: I am afraid youre right.]
+(;W[gj]C[Chris: Since you are weakish you cannot attack like this! Black has too many forcing moves to settle! Attack when youre strong, not weak.]
+;B[hi];W[fi]
+(;B[il];W[ni];B[nj];W[mi];B[nh];W[oh];B[oj];W[of];B[li];W[mj]
+;B[lh];W[mk];B[nl]
+(;W[ki];B[md];W[oe];B[me]C[Chris: White should go after the other cutting stones, since 110 damaged black a lot already.]
+;W[mc];B[lc];W[nc];B[ld];W[jd];B[lj];W[ml];B[lk];W[jg];B[mm]
+;W[ll];B[lm];W[kl];B[kk];W[km];B[lo];W[jk];B[jl]C[Too early I think]
+;W[jj]
+(;B[kn];W[ik];B[jm];W[pd];B[qe];W[qd];B[rd];W[pc];B[qb];W[pb]
+;B[pa];W[rc]C[Chris: Good!];B[re];W[rb];B[kb]
+(;W[jb];B[ro]C[Now, I'm dead...];W[rn];B[rl];W[sl];B[sm];W[sk]
+;B[sn];W[rm];B[so];W[om];B[on];W[po];B[qp];W[op];B[nm]
+(;W[oq];B[oo];W[np];B[nn];W[qr]C[At least I took some territory in corner]
+;B[pm];W[ep]LB[bp:A]C[I didn't want to win this ko as it was impossible, but I play move that I want to play anyway and my oponent wasted some ko threats.
+
+Chris: Good idea. Playing "normal endgame" as ko threats during a ko you cannot win is a good idea. yet maybe A bigger?]
+;B[fp];W[om];B[sj];W[ql];B[pm];W[er];B[rl];W[dq];B[cs];W[bp]
+;B[br];W[fn]C[Endgame follow, but I already lost...
+
+Chris: Yes. I will stop my comments here.];B[ek];W[dj];B[ej]
+;W[ei];B[fl];W[hl];B[gm];W[gn];B[cl];W[bl];B[dk];W[cj];B[hm]
+C[cb22 [4k\]: hi glue];W[kp];B[mp];W[mq];B[lq];W[nr];B[lp];W[jn]
+;B[im];W[ko];B[ln];W[iq];B[jo];W[lr];B[ap];W[ao];B[aq];W[dl]
+;B[bo];W[an];B[cm];W[dm];B[bm];W[bn];B[bj];W[bk];B[hk];W[hj]
+;B[gk];W[el];B[fk];W[fm];B[eh];W[fj];B[gl];W[dg];B[fh];W[ii]
+;B[gh];W[eg];B[ke];W[le];B[mb];W[na];B[eb];W[fb];B[es];W[gs]
+;B[fa];W[ga];B[ea];W[ja];B[nb];W[ob];B[ma];W[oa];B[pr];W[pq]
+;B[rr];W[qq];B[rq];W[rs];B[fo];W[en];B[hn];W[bi];B[bh];W[aj]
+;B[eo];W[do];B[jp];W[kq];B[kc];W[la];B[jc];W[je];B[jf]C[elvard [3k\]: thank you
+DrDango [4k\]: thanx for the game!
+DrDango [4k\]: It was a relly fun game :)
+elvard [3k\]: interesting :)
+DrDango [4k\]: indeed...
+elvard [3k\]: hmm, you were winning anyway :)
+elvard [3k\]: sorry, I counted that it's  close
+DrDango [4k\]: I think so, but it was close
+elvard [3k\]: it wasnt :) you won by about 20pts])
+(;W[nn]C[Chris: Ko it seems. But a bad ko for white. Leave it as it is for the moment.]
+))
+(;W[eb]C[Chris: Good timing for kikashi.]))
+(;B[jn]C[Chris: Can White escape? Capturing Blacks center stones would not be enough compensation.]
+))
+(;W[mm]C[Chris: I dont think Black can escape the net.]
+(;B[on];W[nn];B[om];W[nk];B[ok];W[oo];B[ml];W[ll];B[lk];W[lj]
+;B[lm];W[kl];B[mn];W[pm]C[Chris: Huge swing in terretory.])
+(;B[nn];W[nm];B[om];W[on])
+(;B[nm];W[nn];B[mn];W[nk];B[ok];W[ml])
+(;B[oe];W[nk];B[ok];W[ml])))
+(;B[eh];W[eg];B[dg];W[de];B[fh];W[gh];B[gi]C[Chris: Black has a resource like this later. The left White group is looking weaker and weaker by the minute.]
+))
+(;W[eh]C[Chris: Better stay strong.]))
+(;W[lg];B[lf];W[ke];B[mg];W[lh];B[mh];W[ki]C[Chris: Hane is possible as well, the 4 stones still have a lot of aji.]
+;B[ii];W[mi];B[nh];W[oj];B[ok];W[nj]C[Chris: For example.]))
+(;W[pg];B[qf];W[ni];B[oh];W[oj];B[ok];W[ng]C[Chris: Could also try this.]
+))
+(;W[pl];B[qk];W[nk]LB[ig:A][fp:B]C[Chris: How about this? White is aiming to attack A or cut at B. 3-3 is still open.]
+))
+(;W[li]C[Chris: This plan removes the potential attack in the center for a dubious attack of the corner.]
+;B[ij];W[kl];B[il];W[qn]C[Chris: Dont help Black to connect.]
+;B[qo];W[on];B[rn];W[qm];B[rm];W[ql]C[Chris: Black wouldnt push White into the potential terretory like this, but just live in the corner.]
+;B[np]C[At least I had some influence in center...
+
+Chris: You unfortunatedly also helped Black connect his only true weak stones.]
+))
+(;B[jh]))
+(;W[fi]C[Chris: Run.]))
+(;W[ce];B[bb];W[cb];B[db];W[dc];B[cf];W[dg];B[cc];W[ca]C[Chris: Where are the ko threats?]
+;B[dc]C[Chris: This would be too heavy]))
+(;W[cb]C[Better to take corner ?
+
+Chris: It also takes away the standard way to make sabaki for Black, but...]
+(;B[de];W[ce];B[cf];W[dg];B[ee]LB[db:A]C[Chris: This would be troublesome for White. Now both are weak plus theres bad aji if Black A.]
+)
+(;B[gd];W[hc];B[eg];W[dg];B[gg]C[Chris: Black can make shape like this too.]
+)))
+(;B[di];W[eh];B[cn];W[fq];B[kd]SQ[df][cg][dh][eh]LB[kd:A][nd:B]
+C[Chris: Whites shape is strange (compare it to the double keima earlier!). A becomes a strong move, since by attacking B Black can lay waste to your moyo.]
+))
+(;W[cj]C[Chris: So use it to attack!];B[eh];W[ff]C[Chris: See how the attack naturally produces potential for White on the top?]
+)
+(;W[eh];B[ck];W[jc]C[Chris: If you want to build a moyo, this is probably the way, but it feels really really easy for Black. I would not recommend this.]
+))
+(;W[ed]LB[gc:A]C[Better response ? I took profit while oponent was weird position ?
+
+Chris: Possible. Black should tenuki and wait if he can use the stone later. Black can peep at A later. Considering the solid 3-3 stone in the top right, I would prefer a small shimari, as the top side is closed then.]
+)
+(;W[ec]C[Chris: Also possible and doesnt leave a weak spot.]
+))

@@ -1,0 +1,181 @@
+(;FF[4]GM[1]SZ[19]ST[2]AP[SGFC:1.16]VW[]
+
+PB[777v7v777]
+HA[0]
+PW[Seishinsan]
+WR[30k]
+KM[6.5]
+DT[2014-06-08]
+PC[OGS: http://online-go.com/game/review/22771]
+RE[W+R]
+RU[japanese]
+GC[steve@carderfamily.net]
+
+C[In general, black and white both start playing mid game and even end game moves much too early in the game.  Both spend a large part of the early game filling up the left side of the board while ignoring the right side.  Beginning players often focus on just their opponent's last move and a few intersections around it rather than sitting back to consider what is the best move on the whole board.
+The take home points are:
+Keep groups connected as much as possible
+Just because you can capture one stone doesn't mean that you should capture it if there are other moves worth more elsewhere on the board.]
+;B[gd];W[ep]SQ[cp][dq][dp]C[This is an unusual starting move.  Generally, the first few stones are played a bit closer to a corner, like on one of the squares. The idea is that it is easiest to surround territory in the corner so you want to gain control of the corners right at the start. In this game, black could play on one of the intersections marked with squares and take control of this corner away from white.]
+;B[fo];W[dn]SQ[eq][do]C[This helps protect the lower left corner but not as well as the marked spots would.  Another option would be to ignore black's move and play in one of the open corners on the right.  Black's move doesn't really threaten white much since white has the corner to retreat into.]
+;B[eo];W[do]C[Blocking black is good.  Since black has decided to really attack this corner, white should continue to defend here until secure. It shouldn't take white very many moves to secure this corner, however.]
+;B[en];W[jp]TR[qq][qc][cc][cq]SQ[dq]C[Playing this stone on D3 (the square) would make white's position in the lower left corner secure for the moment since it would prevent a 3x3 invation.  I marked the 3x3 point in each corner with a triangle.  The 3x3 point is a good spot to play when invading an opponent's corner, but only if the opponent isn't already strong in that corner.]
+;B[dm];W[cm];B[cn];W[co]C[Good.  It was a mistake for black to try to cut off the C7 stone]
+;B[bn]
+(;W[em]TR[cn][bn]SQ[bm]C[B7 is better because it helps capture the two marked black stones. See the variation.]
+;B[bm]
+(;W[cl]SQ[dl]C[White should capture at D8.  That would connect all of white's stones in this area.  See variation.
+Try to keep your stones connected into a few groups as possible. If you have lots of 1 and 2 stone groups then your opponent has lots of nice places to attack you.]
+;B[dl];W[bl]TR[cn][bn][bm]SQ[cm][cl]C[This creates a capture race where white is trying to capture the marked black stones while black is trying to capture the marked white stones.  In a capture race you need to count liberties. Liberties are open intersections around the group in question. White has 3 liberties at C9, B9, and A8.  Black needs to play on all 3 of these intersections to capture white.  Meanwhile, black has 3 liberties at B5, A6 and A7 that white would need to play on to capture black.
+Each player has to play 3 stones to capture, but it is black's turn so black will finish playing the required 3 stones first and will win the capture race.
+All of this means that white probably shouldn't have played here since white will lose the resulting capture race.  White should continue to extend at C9 instead.]
+;B[el];W[fm];B[fl];W[gl]TR[em][fm]SQ[gm]C[White should extend at G7.  With the current move, black can play at G7 and capture the two marked stones.]
+;B[gm];W[am];B[fn];W[bo];B[al];W[an]SQ[gl]C[White's remaining stones in the corner are now connected into one group and can easily make 2 eyes.  This means that white should play the next move in an open corner on the right.
+The marked white stone is very weak and white shouldn't bother trying to save it now.  It might become useful later in the game.]
+;B[bm];W[ak]SQ[bn]C[This move isn't bad but playing B6 not only captures a black stone and but also makes 2 eyes for white (at B7 and C6) so it is better.]
+;B[bk]C[This isn't much of a threat to white so white should ignore it and play on the right side of the board]
+;W[ck]SQ[qp][pp][pq][qd][pd][pc][cd][dc][dd]C[Playing on one of the marked spots is much better.]
+;B[cj]C[Again, this isn't much of a threat to white since white can capture at B6 or connect at C6 or A8 if needed.  Because this isn't a real threat, white should ignore it and play elsewhere.]
+;W[bj];B[gk]SQ[gl]C[White should not try to save the marked stone. It is too weak.]
+;W[oo]SQ[qq][pp]C[Playing on the right side is good, but this move doesn't secure the lower right corner well.  Black could invade at Q4 or R3.]
+;B[hl]C[This was a wasted move by black since white wasn't going to try to save that stone anyway.  This essentially gives white a free move.]
+;W[dj]SQ[cj]C[White should play in the upper right corner now since it is still empty.  Capturing the marked black stone isn't worth nearly as much as taking control of an entire corner.]
+;B[ci];W[bi]C[Again, stop playing here and take the upper right corner.]
+;B[di];W[ei]SQ[dk]C[D9 is better locally because it connects white's stones together. Better still is playing in the upper right corner.]
+;B[ej];W[dk];B[eh]TR[ei]C[White should not try to save the marked stone.  It is very weak and there are a lot of moves available that are worth more.]
+;W[fi];B[gh]SQ[fi][ei]C[These two stones are very weak and mostly surrounded by black so white should not waste any more time trying to save them.]
+;W[fj];B[fk]C[This is an error.  Black should connect at E9.  This error gives white a chance to save the previously doomed stones.]
+;W[ek];B[aj]C[This move is no threat to white so white should ignore it and play elsewhere.]
+;W[al]C[White didn't need to connect here.  Black couldn't capture the A9 stone anyway.]
+;B[ai];W[ah];B[bh]C[This is not a significant threat to white so white should ignore it and play elsewhere.]
+;W[dh];B[dg];W[ch];B[cg];W[bg];B[bf]C[This is not threat to white so it should be ignored.  If white plays elsewhere and then black plays A13, white either captures at A14 or simply connects at B12.]
+;W[bn]C[This wasn't necessary since white's group is very strong with several eyes.]
+;B[ag];W[af];B[ae];W[ag];B[be]C[Now white is very secure and should play in the upper right corner.]
+;W[pj]C[Playing here isn't bad but the corner is better since it is easier to surround territory in a corner than it is on a side.]
+;B[cf];W[fh]C[This move doesn't accomplish much since black can just connect at E13.  The upper right corner is much better.]
+;B[fg]C[Black makes an error, allowing white to capture one stone.  Even so, this one black stone is worth much less than taking the entire right upper corner.]
+;W[eg];B[ef];W[eh];B[ff];W[fp]C[This helps take territory on the lower left side, so it isn't a bad move.  The upper right corner is still better, however since it is worth more territory than this move is worth.]
+;B[gj]C[Black is building a wall facing the center.  If white takes control of the right side, however, then black's wall won't accomplish much.  This means that white should ignore black's wall creation and instead take the right upper corner and right side.]
+;W[gi];B[hi];W[hh];B[gg];W[hj];B[ii]SQ[hj][hh]C[Now white has two weak stones.  Saving two separate weak stones at the same time is very difficult since you can't focus your attention on either one exclusively.
+At this time, white should not try to save either one and should play in the upper right corner instead.]
+;W[pm]C[This isn't bad since it helps secure the lower right side.  The upper right corner is still better, however.]
+;B[ij];W[mp]C[Again, this isn't bad since it helps take lower side territory. Black could still invade the lower right corner, however.  See variation beginning next move.]
+
+(;B[hk]C[See variation for a black invastion of the lower right corner.]
+;W[pf]C[Good.  White is winning the game by a large margin at this point since white has control of the bottom side, left side and right side while black has control of only half of the top side.]
+;B[ig];W[pd]C[Good.];B[hg];W[kd]SQ[pf]C[Good, white now has a position on the top side as well.  Black can still invade the lower right corner but the stone at Q14 makes a right upper corner invasion nearly impossible.]
+;B[ih];W[md];B[gp];W[go]SQ[gq]C[Since white is winning by a large margin, this is too agressive. This starts a complex fight that white might lose.  White just needs to hold on to territory, not get more.  G3 is better.]
+;B[ho];W[gq];B[gn];W[hp];B[ip];W[go];B[hq];W[gp];B[gr];W[fr]
+SQ[iq]C[J3 is better because it puts 2 black stones in atari.]
+;B[gs];W[fs];B[hr];W[cq]TR[gs][gr][hr][hq]SQ[iq]C[J3 is better since it threatens to capture the marked black stones.]
+;B[es];W[fq];B[er];W[dp];B[eq]C[This is a useless move and white can ignore it. J3 is still a good option.]
+;W[dr];B[dq];W[ds];B[cr];W[iq]C[Good.  Ignoring black's move was the right thing to do.]
+;B[jq];W[ir];B[jr];W[hs];B[is]TR[hs][ir][iq]SQ[mr]C[Now white should try to keep black out of the right lower corner. This territory is worth more than the marked stones.  N2 is a good blocking move.  N3 is also possible but would be easier for black to slip under.
+Blocking 1 or 2 intersections away from your opponent often works better than playing right against his stones.]
+;W[io];B[hn];W[js];B[ks];W[kr];B[is];W[hr]TR[jq][jr][ks][is]
+SQ[kq]C[L3 is better since it allows white to capture the four marked stones.]
+;B[kq];W[lq];B[lr];W[mr];B[in];W[jo]SQ[is][jr][jq][kq][lr][ks]
+[kp]C[L4 is better to seal black in.  The marked black stones only have one eye so white can kill them if they don't escape out into the center.]
+;B[kn];W[ls];B[ms];W[ns];B[ko];W[ls];B[kp]C[Now black has connected these stones to the center.  They are alive.]
+;W[kr];B[jn];W[ip]C[Good.  Some people would have missed making this connection by focusing too much on the area around K1.]
+;B[lr];W[js];B[ms];W[mq]SQ[nr]C[O2 is better since it prevents black from giving a double atari at O2.]
+;B[is];W[ls];B[mo];W[kr]SQ[no]C[Blocking at O5 is worth more than capturing one stone.]
+;B[np];W[op]TR[np]SQ[no]C[Cut off black's marked stone by playing at O5.]
+;B[lr];W[no]C[Good.];B[nq];W[nr];B[ms];W[oq]C[All of the capturing back and forth hasn't accomplished much for either player.  It has made the right lower corner secure from invasion.  White could have secured the corner with a lot less moves, however.]
+;B[lp];W[pr]SQ[mn][hc]C[This isn't necessary.
+N6 would start to reduce black's center territory.  When black connects at M5, white responds with N7 and tries to play a line of stones up the N line.
+H17 would take more of the upper side for white.  Black would probably play G17 and then white could play H16]
+;B[nn];W[on];B[om];W[ol];B[nm]TR[li][mj][mi]SQ[ig]C[Black is trying to make territory in the center. White needs to prevent this as much as possible.  White can't prevent this entirely, however.  White is ahead in the game and so doesn't need to be aggressive.
+Imagine a line from O7 to J13.  Below and to the left of that line is a zone that black controls.  Any white stones played in this zone would most likely die.  To reduce black's potential territory, white should play just to the right and above the imaginary line.  The marked spots are all good choices.
+See variation beginning next turn.]
+(;W[pl]C[See variation for an example of white reducing black's center territory.]
+;B[pn];W[po]SQ[qn]C[R6 is better.  It pushes black down the Q line and into white's Q2 stone.]
+;B[qn];W[qm];B[qo];W[qp];B[ro];W[rp];B[sp];W[sq];B[sr];W[so]
+;B[rq];W[rr]SQ[sp]C[Conecting at T4 is better.  Black doesn't have enough space to make 2 eyes in the corner.]
+;B[sp];W[ss]SQ[rn]C[Capture at S6. 
+The stone you just played is already in atari.];B[sq];W[qq]
+;B[sn];W[qr]C[Capturing at S6 is better.];B[sp];W[sq]SQ[rl]
+C[White doesn't need to keep black out of the lower right corner, white is very strong there.  So, this stone isn't necessary.
+White needs to keep black from extending up the right side to make eyes or connect to the center.  S8 is a good blocking move. As mentioned before, blocking is usually best done 1 or 2 intersections away from your opponent's stones.]
+;B[so];W[rq]SQ[sm]C[This isn't necessary.  T7 is better since it puts black in atari.]
+;B[ok];W[nk]SQ[pk]C[Since white is winning, a more conservative move like Q9 would be better.  Playing this stone at O9 starts a fight that white might lose.]
+;B[pk];W[qk];B[oj];W[oi]TR[pi]SQ[ig]C[This would start a ladder.  Always read ahead to figure out where the ladder would go and then decide who would win.  In this case the marked black stone would break the ladder and allow black to win.  This means that white should not start the ladder.
+Extending at Q11 is better.];B[nj];W[mj];B[ni];W[nh];B[mi];W[li]
+;B[mh]
+(;W[lh]C[This is the wrong way to do a ladder, but white was going to lose this ladder anyway and should have abandoned it at the start.
+
+Someone else added a variation that continues the ladder to the end.  Both players should do this in their heads to see who will win before comitting to playing the ladder.]
+;B[mg];W[lg]SQ[pi][oh][mk]C[Now black can do a double atari at one of the marked spots on either side of the ladder and break out.]
+;B[ng];W[og];B[oh];W[ph];B[pi];W[qj]TR[pj]SQ[sp][sn][so][ro]
+[qo][qn][pn]C[The marked black stones were dead but the black group around P11 might be able to connect to them and bring them back to life. White really needs to prevent this.  White should sacrifice the stone at Q10 in exchange for giving atari at T7.  Once the marked black stones are captured, the white stones around R8 become strong and safe.]
+;B[lj];W[sm]C[Good.];B[rm];W[rn];B[mk];W[rl]TR[qi]C[White doesn't need to actually capture this stone now.  It can't cause any harm at the moment.
+R11 is better because it blocks black from pushing into the right side any more.]
+;B[nl];W[ql]SQ[qi]C[White doesn't need to connect here.  R11 is better.]
+;B[lf];W[pe]C[This is OK, but R11 is still better.];B[kg];W[kj]
+TR[li][lh][lg]C[The marked white stones are doomed so don't try to save them.]
+;B[kh];W[lk];B[ki];W[ml];B[kk];W[ll];B[jj];W[mn];B[mm];W[lm]
+C[White has wasted a lot of moves trying to save the doomed center stones.  There was never a way to save them no matter what white did.]
+;B[ln];W[id]TR[hc]C[This is good but H17 would be slightly better since it gets a bit more upper side territory for white.]
+;B[km];W[od]C[R11 is better.];B[kl];W[hc]C[Good.];B[pg]C[Now black starts to take advantage of the gap in white's right side defences.]
+;W[de]TR[qg]C[This stone is doomed.  This is too far into black's strong area.
+Just capture at R13.];B[of];W[qg];B[qh];W[rh]TR[rg]C[S13 is better because it doesn't leave a cutting point for black. At this point, white should just accept the loss of some right side territory and try to keep the remaining upper right side territory secure.]
+;B[qf]C[Black should cut at S13 here.];W[rg];B[ri];W[qe];B[rf]
+;W[sf];B[re];W[rd];B[se];W[sd]C[White deals with black's cut effectively.]
+;B[oe];W[si]TR[qi][fb][gc]C[G17 or F18 is worth more.  Locally, R11 is better.]
+;B[sj];W[sh];B[nd];W[ne]TR[nc]C[Since white is winning, the more conservative move at O17 is better.]
+;B[me];W[nc];B[nf];W[ld]SQ[ne]C[Good.  Don't worry about the O15 stone for now.]
+;B[nd];W[mc]C[This isn't really necessary.  If black plays at either N17 or P17 then white just captures at O15.]
+;B[ed];W[hb]C[If the score was very close, then this would be too conservative. In this game, since white is winning, this move is fine.]
+;B[cd];W[gc]TR[qi][fb]C[F18 would be a little better than the current move.
+R11 is also still good.];B[dd];W[fd];B[ee];W[ge];B[fe];W[hd]
+;B[fc];W[gd];B[df];W[jd];B[ce];W[ha]TR[fb]C[In this game, this is fine.  If the score was close then F18 followed by F19 would be better.]
+;B[gb];W[fb];B[fa];W[ga];B[eb];W[ea];B[da];W[ec];B[fa];W[gb]
+;B[dc];W[ea];B[fc]C[Both sides apprently like ko fights :)]
+;W[fa];B[ec];W[ca]C[This doesn't accomplish anything.  Black can just connect at D18 and then white's stone is dead.]
+;B[db];W[cc]TR[qi]C[This doesn't accomplish anything either.  R11 is better.]
+;B[ba];W[bb];B[cb];W[aa]C[This stone is already in atari.  Corners are tricky.]
+;B[bc];W[ca];B[ac]C[And white is dead.];W[pb]C[This doesn't really need to be done.
+R11 is worth some points.
+The territory around K14 and K15 is unclaimed but neither side will be able to get much there.]
+;B[ba];W[gf];B[ab];W[qd]C[Again unnecessary.  R11 is still good and H14 gets white one point.]
+;B[oc]C[This invasion can't succeed unless white makes a major error. White doesn't have to viciously attack black, just keep black from getting enough space to make 2 eyes.  This means that white should try to keep all stones connected as much as possible.]
+;W[pc]C[Good response.];B[ob];W[nb]C[Good.];B[oa];W[pa];B[na]
+;W[ma];B[ka];W[kb]C[This is a good way to block black's move.]
+;B[lb];W[mb]TR[kc]C[Connecting at L17 is better.];B[kc];W[jb]
+;B[ja];W[ia];B[jc];W[la];B[ib];W[lc];B[ja];W[ic]C[And the game ends.
+To truely finish the game, someone should still play on R11. If black is the one to play on R11 then someone needs to play on S10.
+Also, the area around K14 is still up for grabs.
+White is winning by a large margin, however, so a black resignation is also reasonable at this point]
+)
+(;W[mg];B[lh];W[kh];B[lg];W[lf];B[kg]
+(;W[kf];B[jg]C[Black wins the ladder and can play double atari on either side of the ladder.]
+)
+(;W[jg];B[kf];W[ke];B[jf];W[if];B[je]TR[jh]C[Black should capture at K12 now.]
+;W[jd];B[ie]
+(;W[he]
+(;B[id];W[ic];B[hd];W[hf])
+(;B[hf];W[hd];B[id];W[gc];B[ic]))
+(;W[hf];B[id]))))
+(;W[mj];B[lk];W[mk];B[ml];W[lj];B[kk];W[kj];B[jj];W[lh]SQ[kf]
+C[White has reduced black's center territory and gained some territory around O12.  White needs to play on L14 to completely secure this area, however.]
+))
+(;B[qq]C[Black invades on the 3x3 point.];W[pq]SQ[qp]C[White decides to save the lower side territory and give black some of the right side territory instead.
+White could equally well play on R4 and save the right side territory at the expense of the lower side territory.  Either is worth about the same.]
+;B[qp];W[qo];B[ro]
+(;W[qn]SQ[rn]C[If white plays S6 then black can cut at R6 and eventually capture white's S6 stone.  See variation.]
+;B[rn];W[rm];B[pp];W[oq]SQ[op]C[If white plays at P4 then black can capture a white stone by playing P3.]
+;B[op];W[np];B[pr];W[or];B[rr]SQ[qr]C[Black could connect at R2 to prevent white from cutting at R2. The current move, however, protects against a cut at R2 while also dividing black's space into 2 areas which makes it easier to for black to make 2 eyes later if needed.]
+;W[po]C[White seals black in.  At this point, black is alive and could play elsewhere.  If you can't read that far ahead, however, then you should continue to play in the corner until you are sure that your stones are alive.]
+;B[ps]C[This move could be saved until the end game but I am showing it now for completeness.]
+;W[os];B[sm];W[rl]SQ[sl]C[If white plays at T8 the black can cut at S8.]
+
+(;B[sp]C[If black plays at T8 now then he loses half of his stones.  See variation.]
+;W[sl];B[sn]C[Black is alive in the corner.])
+(;B[sl]C[Black pushes.];W[sk]C[White gives atari.];B[sn]C[Black connects.]
+;W[rp]C[White cuts.];B[sp];W[so]C[Black might still live but has a much smaller group.]
+))
+(;W[rn]C[White blocks.];B[qn]C[Black cuts.];W[po];B[rm]C[Black captures a white stone.]
+)))
+(;W[dl]C[This conects all of white's corner stones into one group while leaving black with two small groups of 3 stones each.]
+))
+(;W[bm];B[am];W[bo];B[an];W[al];B[bl];W[ao]SQ[bl]C[Black is left with a weak stone at B8.]
+))

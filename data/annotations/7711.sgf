@@ -1,0 +1,315 @@
+(;FF[4]GM[1]SZ[19]CA[utf-8]AP[SGFC:1.17]VW[]
+
+GN[game vs mfgo v12_9k]
+PB[mfgo]
+BR[9k]
+PW[cocoon]
+WR[10k]
+KM[6.5]
+DT[2010-02-12]
+RE[W+R]
+TM[2700]
+OT[10]
+RU[Japanese]
+GC[Black is 'Many Faces of Go 12'
+White is myself
+
+lasted around 40 minutes
+(14 seconds for the computer) ;-)]
+
+C[Black is 'Many Faces of Go 12'
+White is myself
+
+lasted around 40 minutes
+(14 seconds for the computer) ;-)
+
+^^^^^^ game comments^^^^^^
+
+This is the first game that I'm sending to the TL, I hope it meets the guidelines.
+I played against the program Many Faces of Go 12 , which I use exclusively for playing games at the time. (I am aware that it may not be as meaningful as playing against a human opponent but at least it's said to be the most naturally playing program.)
+
+My strength is around 11-9 kyu although I don't know about the comparability between the rating systems (KGS, Go Clubs, ManyFaces).
+
+The game is played against MFG at 9kyu playing strength. During the game there was no editing
+(just the score option was utilized a few times).
+This is the second of two games in which I took white. I added the first one as an alternate string
+but I don't expect to get both reviewed, it is just meant to make certain 'chronic' mistakes perhaps more clear.
+My biggest concerns lie in the opening and early middle game. I often have the impression that I
+completely fall behind.
+A problem I noticed with the opponent being the computer is that it isn't consistent/aggressive enough when my shape is obviously bad. That's probably due to the short thinking time at this strength. What do you think?
+Thanks in advance for your effort, if the game is uninteresting or hopeless please be
+understanding. It will help me ;-)
+
+
+-I added comments in the game as well
+
+Jewdan: Hi, I'm Jewdan, and I will be your reviewer for today. Welcome to the GTL!
+
+From now on, I recommend that you not send in games against computer programs for review. Computers stink at Go. How the human brain comprehends a Go board is so baffling that Go programmers are unable to code Go-playing programs in any way that would result in the AI playing "reasonably". The best they can do is to compare partial board positions with libraries with some brute forcing (calculating all possible continuations) in limited positions. A new technique that has worked well recently when hooked up to dozens of processors is the Monte Carlo method, where the program will rapidly play millions of random games without caring how much sense the moves make and picking the move which statistically led to the most won games. However, MFG 12 does not use this method for anything lower than 3k level of play, and I doubt you own a supercomputer anyway.
+
+In short, computer Go playing programs are idiots. You can only learn so much before you start learning bad habits. It's time for you to move on from MFG and start playing people on KGS.
+
+So much for Go AI; now for the game. In this game, you got away with murder. You were correct in concluding that you were behind after the opening, and if the computer had handled the middle game properly, you would have lost. This is not to say that you are a bad Go player - I myself find that, unless I am playing on a real board across from another person, I play very sloppily. The goal here is to figure out what went wrong, and how it could have gone differently.
+
+I took the liberty of cutting out the alternate branch you mentioned, as I didn't want to spend another eight hours or so reviewing another game ^_^
+
+Regarding this review: I made it using the freeware program MultiGo. I recommend using it to read this review, as I do not know how other programs will handle this file. You can find it through Google. If you do not use Windows, I know that Linux's Wine runs it properly, and I am sure that Mac OS also has some semblance of support.
+
+Oh, my comments will be proceeded by "Jewdan".];B[pc];W[cd]
+;B[qp];W[dq];B[ec];W[ed];B[fd]
+(;W[dc]C[Jewdan: This move works for the hoshi, but not for the komoku. The joseki continues at E15.
+
+See the variation.]
+(;B[eb]CR[ee]C[maybe b the better move..
+
+but even then there is about to start what happens in nearly all of my games (except when
+I take black and get to make a chinese opening) : black is starting to build a good position that
+I don't know how to approach
+
+Jewdan: This is also a deviation as far as I can tell. It makes sense for Black to atari at E15 (marked) now. See the variation.
+
+See my comments on your next move for the answers to your semi-question.]
+(;W[db]LB[ee:A][fe:B]C[Jewdan: The corner is worth eight points gote - a pittance for the opening. By playing here, White allows the atari at E15, which will enable Black to make a strong central position (see the variation on Black's previous move). It is far more important to prevent that from happening by either extending at E15 (A) or playing a hane at F15 (B).]
+;B[ee];W[de]C[no ko threats in the opening..
+
+Jewdan: This proverb means that the first person to capture a ko in the opening is free to connect it.]
+;B[dd]C[Jewdan: Black has gotten a strong position that exerts influence across the top of the board and into the center to a lesser degree. Because of White's cutting points, White has not secured the corner yet. If Black decides to connect the ko with his next turn, White owes him a connection at C15, or Black will capture the D17-18 group.
+
+White has a tough choice here. He can either connect at C15, forcing Black to connect the ko, or he can tenuki. Either way, Black has an early - and sizeable - lead.]
+;W[pe];B[pg]CR[nd]C[Jewdan: Black could either have connected the ko (which I would have done to press the advantage) or played O16 (marked) to work with the wall. This pincer seems wrong to me - it does not help to secure the top, for which Black's upper-left wall is aiming, nor does it feel harmonious with Black's lower-left komoku.]
+;W[ed];B[ne]CR[nd]MA[od][of]C[Jewdan: Typical MFG. I would like to say this move is bad, but I dare not in case I am wrong :)
+
+Let me make my case then. Fundamentally, capping a fourth-line stone is not as severe as capping a third-line stone because a fourth-line stone is in a position to run from the start. Next, because of its relation with the pincer stones, it creates two cutting points (x'ed) at the same time, which is poor style (never hand your opponent good aji if you can avoid it). Finally, Black's stones have been working to control the top, but this move encourages White to push into the top at P16 to live.
+
+Simply put, I think Black exerts far more pressure - and stands to earn far more territory - with a simple keima at 016 (circled).]
+;W[dd];B[gc]CR[nd]SQ[ne]C[Jewdan: This is why I would have connected the ko instead of pincering: White and Black's roles in the upper-left have reversed. Still, if O15 (squared) were at O16 (circled), this would probably be a satisfactory position for Black.]
+;W[of]CR[od]C[Jewdan: As White, I would rather run to P16 (marked) first to disrupt Black's top and to claim a stake in the corner.]
+;B[co];W[fp]CR[ck]C[Jewdan: I suppose this is fine, but a pincer at C9 (marked) works marvelously with your top left.]
+;B[nh]C[Jewdan: More typical MFG. Black is trying too hard. White is nearly unkillable, and White could potentially profit enough elsewhere on the board to let Black take a huge upper-right. Middle game is best played in the middle game :)]
+;W[nf];B[kd];W[mg]CR[lf]C[the pressured white group surely gives black good opportunities..
+
+Jewdan: It is okay to leave weak groups for your opponent to attack, but you need to count the cost before doing so. If you know you can live later, and you can get a large advantage by taking a big point instead, it is okay to leave a weak group. Otherwise, defending groups and leaving no weaknesses tends to give you power to attack your opponent, who is likely leaving weak groups to exploit.
+
+As for your move here, I think a single-point jump to M14 (marked) is better.]
+;B[qj];W[op]C[Jewdan: Good idea. After R10, a shimari would be intolerable.]
+;B[bq]LB[cj:A][kp:B][pn:C]C[why did black tenuki ?
+
+Jewdan: If you study pro games, you will find thousands of examples where, rather than playing out a joseki in an approached corner, the approached player will turn around and play elsewhere. If Black were a reasoning person, Black may have decided that it was permissible to let his komoku be treated as an approach to a takamoku to gain elsewhere.
+
+If I were to tenuki here, I would only consider C10 (A). I would more likely play L4 (B) or Q6 (C) instead.]
+;W[qq];B[rq];W[pq];B[rr]LB[pn:A][qo:B]C[Jewdan: More typical MFG. Black seems to be pretending that he has a stone at Q6 (A), in which case this move is correct. However, he does not, and this is unreasonable. You can get a satisfactory result by playing A yourself, or by attaching at R5 (B).]
+;W[lq]CR[op][pq][qq]TR[rr]MA[mq][nq][oq][nr][mr]LB[pn:A][qo:B]
+[jq:C]C[Jewdan: This move is unsound. The only reason to play this close to your P4 group (circled) is to make territory. S2 (triangled) is beneath your base; you have an open skirt, and, yes, that is the technical term. With this extension, you cannot count on more than five points at the bottom (x'ed).
+
+You are better served playing either A or B, though if you want to form a base along the bottom, C is best.]
+;B[kg];W[mh];B[ni];W[mi]C[up to this point it's probably a failed opening..
+
+Jewdan: Yes. However, Black has not played soundly, so the game is not over yet.]
+;B[os]LB[cl:A][cj:B]C[i'm sure this wasn't the best move on the whole board..
+
+Jewdan: Correct. "A monkey jump is worth eight points." Endgame is best saved for the endgame.
+
+In my mind, the only points worth Black's consideration are C8 (A) for a solid base or C10 (B) to reduce White's potential with his upper-left group.]
+;W[ef]LB[fe:A][cl:B]C[Jewdan: Hmm... I think this is aji-keshi. Technically, you increase your influence with the atari, but it also means that you never get to atari at F15 (A). Should you get a good enough position on the left side, you might want to attack there to prevent Black from making center territory at some point. Plus, it has no good follow-up.
+
+I think that pincering with C8 (B) is preferrable.];B[fe];W[ff]
+CR[cj]C[Jewdan: Not a bad idea, but there are bigger points on the board, and Black C10 (marked) makes this new wall look a little silly.]
+;B[da]C[this was probably a bad move since it allowed me to play a..
+
+Jewdan: My editor did not show what 'a' was, but this is four-point sente endgame. It has no place in the opening :)]
+;W[di]CR[cl]C[Jewdan: Craaaaaamped. "Play close to weakness, away from strength." Black's lower-left is ripe for harassment, and you can get a beautiful extension from your upper-left corner to boot. C8 (marked) looks so much better.]
+;B[dk]
+(;W[cj]LB[cm:A][hq:B]C[Jewdan: This is submissive. Black overextended with D9 and should be punished. White has the strength to jump in at C7 (A) and should do so without hesitation.
+
+In addition, this move induces C9, which strengthens Black enough to endanger you bottom side; with his lower-left secure, he can invade at H3 (B).
+
+See the variation.];B[ck];W[bk]LB[cr:A][hq:B]C[Jewdan: This is endgame. Black does not need to worry about your destroying his side as he can always live with C2 (A). He can play at H3 (B) and be happy.]
+;B[bl]C[is this the right answer to 9B ?
+
+Jewdan: Locally, yes. Whole-board...ly... no.];W[bi]CR[bh][ah]
+[ci][aa][ab][ac][ad][bd][ae][be][ce][af][bf][cf][df][cg][bg]
+[ag][dg][dh][ch]SQ[fa][fb][ga][gb][ha][hb][ia][ib][ja][jb][ka]
+[kb][am][an][bn][bo][ao][ap][aq][sr][sq][sp]LB[fn:A][hq:B]C[to me the left side of the of the board looks fairly harmonic
+
+Jewdan: No, it's just cramped. A solid upper-left position that should have exerted influence across the board throughout the middle game has been reduced to twenty-one points with little influence... in gote. In fact, White can leave without this move and get the same result on the side.
+
+However, where White should play instead is difficult to determine. White and Black are nearly even in secure territory (compare the squared Black territory with White's circled), but Black has much more opportunity to expand himself. White needs to be careful to expand himself without helping Black, in sente if possible.
+
+I think the lower half of the board is the only place where White has any chance of building himself up. White F6 (A) starts a moyo that, if White can convert its majority into territory, he will have a chance. Plus, it makes an invasion at H3 (B) less viable. Its downside is that it's gote, but I see no sente that fails to secure Black territory.]
+;B[jq]CR[jp]C[how to deal with this invasion ?
+
+Jewdan: This is a difficult position. If you try to preserve territory along the bottom, you will lose your chance at influence in the center. I think you need to take your lumps and let Black take bottom territory in exchange for a center-facing wall, but it will be difficult to convert that into enough territory to have a chance.
+
+If I were playing a human, I would resign here. Against a computer... K4 (marked).]
+(;W[kr]CR[jp]C[so that black won't connect to 1P..
+
+Jewdan: He can't connect. You should play K4 (marked).
+
+See the variation to see why they cannot connect.];B[qf];W[me]
+;B[qe]C[wouldn't a have been a better move?
+
+Jewdan: I do not see 'a' in my SGF editor, so I cannot say. This move is fine, as grabbing the territory here gives Black a strong position to take more in the bottom right.]
+;W[nd];B[cb]C[Jewdan: Small endgame. Yay, PC Go.];W[ko]C[Jewdan: Good pressure. However, if you fail to kill Black's stone, White's cramped position will be difficult to use.]
+;B[mc];W[ke];B[nc]C[comment on black's choice ?
+
+Jewdan: It's fine. Black does not need to kill to win, and playing here secures the last large weakness in the wall surrounding the top.]
+;W[ge]CR[ki]MA[kg]C[Jewdan: I'd prefer to jump to L11 (circled) to gain central influence and exert pressure on Black's x'ed stone.]
+;B[ki];W[gd];B[fc];W[ie];B[ic];W[jh];B[kh];W[ji]CR[kk]C[Jewdan: This move does not help much. You should leave your last move as a kikashi, and cap at L9 (marked) to keep up the pressure and to start a moyo.]
+;B[jf];W[je];B[jj];W[ij]CR[mk]C[Jewdan: I suppose this move is fine, but I personally prefer N9 (marked), as it does not touch the attacked group, and it helps split it from the closest Black.]
+;B[ii];W[ih];B[kk];W[gj]C[Jewdan: It's better to capture to eliminate aji.]
+;B[ll]C[Jewdan: Black should live.];W[mk];B[ml];W[nk];B[nl]
+;W[jk];B[kj]CR[mj]C[Jewdan: After this move, White can - and should - be cut at N10 (marked).]
+;W[il];B[ok];W[oj];B[pi]CR[nj]C[maybe better to defend at 7P or something similar ?
+
+Jewdan: Black should cut at O10 (marked).];W[pk];B[ol]CR[nj]
+C[Jewdan: Black should cut at O10 (marked).];W[pl];B[pm];W[pn]
+(;B[qn]CR[qm]C[black intends to connect but..
+
+Jewdan: Black should simply drop down to R7 (marked). White cannot kill Black's corner after that; see the variation.]
+;W[qm]
+(;B[om]CR[po]C[Jewdan: Black should play at the Q5 (marked). A vicious ko would start, but I think Black can profit a lot from it. See the variation.]
+;W[qo];B[ro];W[rn];B[pp];W[po];B[rp]MA[oq]C[could black have been killed in the lower right ?
+
+Jewdan: No. The cutting point at P3 (marked) needs to be mended before anything could be done.]
+;W[pj];B[nj];W[mj];B[oi];W[qk];B[qd]CR[pd]SQ[oc]C[Jewdan: This tenuki is bad for two reasons. First, Black's dragon is in severe danger, as White is alive on all sides. Black needs to try something to make it live, but I am not sure what.
+
+Second, this move locally is wrong. Black can play one line higher at Q16 (marked). This gives Black an extra point and reduces the aji of White P17 (squared).]
+;W[qi];B[oo];W[on]CR[no]C[from this point around I thought it might become good for me..
+
+Jewdan: I recall mentioning getting away with murder :)
+
+Here, if Black extends to O5 (marked), Black's dragon will live.]
+(;B[nn]CR[no]C[Jewdan: This move is a failure. By extending to O5 (marked), Black saves his center dragon. See the variation.]
+;W[no];B[mn];W[mo];B[ln];W[kn];B[km];W[mm];B[rj];W[rk];B[lf]
+;W[le];B[jm];W[jl];B[im];W[io];B[hn];W[fn];B[ho];W[in]CR[ip]
+MA[jq]C[Jewdan: This move feels wrong to me. Black wants to play the tiger's mouth at H8 (his next move), and you induce it. Meanwhile, you are helping to surround your own stones while doing nothing to cut him from his K3 stone (x'ed). I think you should drop to J4 (circled) instead.]
+;B[hl]CR[hi]C[Jewdan: Now, Black H11 (marked) is a move that can give Black life. I'll get back to this later.]
+;W[gn]TR[fp][fn]MA[dq]LB[fl:A][hi:B]C[Jewdan: Another odd move. This move accomplished one thing (keeping your F4 and F6 stones (triangled) from being cut, which was already impossible because of D3 (x'ed)) in gote. Black has no response because it doesn't do anything, and White has no follow-up.
+
+Locally, White should jump to F8 (A) to help his lower-left group run and to surround Black's dragon, but because of the aji, I think White needs to capture J11 with H11 (B).
+
+At this point, there should be nothing White can do to stop Black from living.]
+;B[hi];W[hj]
+(;B[gi]CR[hh]C[Jewdan: Black should play H12 (marked). See the variation.]
+;W[fi];B[dm]
+(;W[gl]CR[fk]C[Jewdan: F9 (marked) is the safest way to cut, as it helps your troubled lower-left group. See the variation.]
+;B[gk];W[fk];B[hk];W[ik];B[hm];W[fj];B[fl];W[gm]C[I would like to have an small analysis on the center black group, and again black's next choice..
+
+Jewdan: See my comments on Black's next move.];B[ri]CR[gq]C[Jewdan: Black is beleaguered; he has no freedom to leave here. He needs to try to either make an eye on the bottom or kill White's lower-left group. I would try G3 (marked).]
+;W[iq]CR[hq]C[Jewdan: A fine move. Be warned, though, that Black can give you a few scares by attaching at H3 (marked) if you're not careful, but this effectively surrounds Black.]
+;B[el];W[ps]CR[gq]MA[hq]C[Jewdan: Black H3 (x'ed) now works. You cannot play here; you need to play G3 (circled) to stay alive.]
+(;B[gp]CR[hq]C[Jewdan: Black should play H3 and end the game (marked). See the variation.]
+;W[hp];B[go];W[fo];B[gq];W[fq];B[fr];W[er];B[oq];W[nq];B[or]
+;W[nr];B[pr];W[ns];B[qr];W[gr];B[hq];W[ip];B[hr];W[fs];B[gf]
+(;W[hf]CR[if]C[Jewdan: J14 (marked) keeps you connected, immediately sealing the White dragon's life, and making it so that Black will die if White's lower left lives. See the variation.]
+;B[hd]
+(;W[gg]CR[he]C[Jewdan: Connecting at H15 (marked) does not mean you lose your three stones; see the variation.]
+;B[od];W[oe];B[if]
+(;W[ig]CR[he]C[Jewdan: You can still connect at H15 (marked). See the variation.
+
+In the end, the semeai was avoidable.];B[he];W[gf];B[hs];W[ir]
+LB[cr:A][do:B]C[Jewdan: I spent half an hour trying to prove that White needs to save his lower-left group only to determine that Black cannot kill it. If Black plays C2 (A), White plays D5 (B). If you saw this, you are better at life and death than I, and I'm a 3k :)]
+;B[is];W[jr]C[most probably MFG hasn't read out the capturing race
+this should make the program the worse alternative to real opponents
+
+last comment in ten moves];B[jc];W[js]LB[kl:A][lk:B][kf:C][jg:D]
+[lg:E][md:F][lm:G]C[Jewdan: If you're taking away liberties, it would be better to play White A, Black B, White C, Black D, then White E. This makes F and G miai: if Black connects at G to secure his eye, F gives you a second eye and ensures his death; but if he plays F, G destroys his eye and makes it a one-eye versus no-eye race, which means he is unconditionally dead.]
+;B[bc];W[bd];B[ad];W[ae];B[ac];W[bf];B[lo];W[lp];B[kf];W[gs]
+;B[md];W[kl];B[lk];W[lm];B[nm];W[lm];B[sn];W[sm];B[sk];W[sl]
+;B[sj];W[so];B[cr]
+(;W[rl]CR[cp]C[Jewdan: This move is unnecessary. I'd start by playing C4 (marked). See the variation.]
+;B[mm];W[jn];B[lm];W[mf]C[black resigns-----------------------------------------------
+
+I fear the verdict...
+
+most probably I lost due to the peculiarity of the program
+if black had read out the capturing race he would have been able to escape I believe,
+so my question would be what could I have done (substantially) better ?
+-Or was it rather obvious that I would win from an early point ?
+-Or was it a normal game between 9k players without much deep thought/reading ?
+
+I appreciate any valuable advice and thank you for your efforts --
+
+Jewdan: It's nice to be appreciated :)
+
+The end of the game is where I like to give a summary of how the requester played and how he can do better in the future, but this game was very odd. All I can say is to start playing people. Even if you are not playing at a board, the fact that you are playing a person will likely sharpen you and drive you to play at least a little better.
+
+Beyond that, if you want to get stronger, I recommend you treat each game you play as though you were playing a single-elimination tournament game. One mistake can mean the end of your chances of success. I do not say that you should stress yourself out each game, but that if you take time to count the board, to determine what your opponent wants in addition to what you want, and read more sequences and read them farthe, silly mistakes will quickly vanish from your play. After that, reviewing games by yourself and with others (yay, GTL!) will correct your misunderstandings.
+
+Good luck with your future Go!])
+(;W[cp];B[bp];W[do];B[cq];W[dp];B[cn];W[al];B[bm];W[am];B[an]
+;W[ak];B[ne];W[mf];B[nd];W[jn];B[id];W[km];B[jd];W[mm];B[ld]
+;W[jg];B[og];W[li];B[pd];W[lg];B[pf];W[lj];B[ng];W[lh];B[ej]
+;W[ei];B[sp];W[sn];B[ds];W[dj];B[ek];W[en];B[cc];W[dr];B[em]
+;W[es];B[cs]C[Jewdan: White wins by 58.5 moku.]))
+(;W[he]
+(;B[ig];W[hh];B[hg];W[gh]CR[jg]C[Jewdan: Of course, White can wait until Black plays K13 (marked) to capture.]
+)
+(;B[hh];W[ig];B[jg];W[hg])))
+(;W[he]
+(;B[ig];W[hg];B[jg];W[hh])
+(;B[hg];W[hh];B[gh];W[ig];B[if];W[gg];B[jg];W[fh])))
+(;W[if]
+(;B[he];W[hd];B[hf];W[id];B[ig];W[hg];B[jg];W[hh];B[gg];W[gh]
+)
+(;B[hf];W[he];B[ig];W[hg];B[jg];W[hh])))
+(;B[hq];W[hp];B[gp];W[ip];B[go];W[fo];B[fq];W[ep];B[eq];W[cp]
+;B[do];W[dp];B[bp]C[Jewdan: Black has many more liberties than White.]
+))
+(;W[fk];B[fl];W[gm]
+(;B[hm];W[gl]C[Jewdan: Connecting is easy.])
+(;B[gl];W[hm];B[hp];W[ip];B[hq];W[iq];B[ir];W[jr];B[fr];W[hr]
+;B[gr];W[is];B[gq];W[eq];B[dr];W[cr];B[er];W[cq];B[br];W[cs]
+;B[ds];W[cp];B[bp];W[do];B[cn];W[eo];B[go];W[fo];B[gs];W[hs]
+;B[fm];W[fs];B[en];W[fq];B[dn];W[gp];B[bs];W[es]C[Jewdan: Black made several unreasonable moves (and White can wait a move before capturing), but this is just to show that White lives.]
+)))
+(;B[hh];W[ig];B[if];W[hg];B[hf];W[gg];B[he];W[hd];B[id];W[od]
+;B[kf];W[gf];B[kl];W[ik];B[gq];W[gp];B[hp];W[fq];B[gr];W[gm]
+;B[hm];W[ir];B[iq];W[kp]CR[lo]C[Jewdan: This move is necessary because of the aji at M5 (marked). Playing here, Black can make a second eye along the bottom.]
+;B[gl];W[fl];B[fk];W[el];B[ek];W[dn];B[cn];W[dm];B[cm];W[eo]
+C[Jewdan: White would like to cut, but this is his last chance to live.]
+;B[go];W[em];B[gk]C[Jewdan: Black connects out, so his dragon lives. White now needs to save his dragon.]
+(;W[jd];B[jc];W[kc];B[ld];W[lc];B[md];W[oc];B[ob];W[pb];B[pd]
+;W[oe];B[mf];W[ne];B[mb];W[ng];B[qh]C[Jewdan: White dies without a lot of fuss.]
+)
+(;W[oc];B[ob];W[nb];B[mb];W[pb];B[na];W[qc];B[pd];W[rb];B[rd]
+;W[qh];B[og];W[pf];B[qg];W[rg];B[rf];W[rh];B[ph];W[se];B[sf]
+;W[sd];B[rc];W[sc];B[qb]C[Jewdan: There are several variations in this line of play, but none of the ones I have tried work. White is dead.]
+)))
+(;B[no]
+(;W[nq];B[nn];W[qn];B[rj];W[rk];B[rl];W[ri];B[ql];W[sj];B[sn]
+;W[rg]C[Jewdan: You live in gote. Black is free to wreck your moyo.]
+)
+(;W[rj];B[nn];W[qn];B[np];W[nq];B[oq];W[or];B[op];W[ns];B[pr]
+;W[ps];B[qs]C[Jewdan: Black's dragon lives. At least you have sente to get something done on the board...]
+)))
+(;B[po];W[om];B[oo];W[nn];B[no];W[mn];B[on];W[nm];B[pm];W[lk]
+;B[jl];W[pn];B[mo];W[ln];B[pm];W[km];B[kl];W[pn];B[lp];W[kp]
+;B[pm];W[nj];B[pj];W[pn];B[ik];W[pm];B[hj];W[hi];B[ij];W[hh]
+;B[hl]
+(;W[im];B[mq]
+(;W[gk];B[kq];W[hk];B[jm];W[jn];B[in];W[io];B[hm];W[ho];B[hq]
+)
+(;W[kq];B[jm];W[jn];B[in];W[io];B[hm];W[ho]C[Jewdan: This is probably the best outcome for White.]
+))
+(;W[mq];B[im])))
+(;B[qm]
+(;W[ro];B[rp];W[qo];B[pp];W[oq];B[po];W[qn];B[oo];W[on];B[no]
+;W[om];B[ql]C[Jewdan: White is dead.])
+(;W[qo];B[ro];W[pp];B[rp])))
+(;W[jp];B[lr];W[mr];B[kr];W[nr]C[Jewdan: After this, Black cannot cut. Your position is assailable, but that will have to wait after he has secured life for his group.]
+))
+(;W[cm]
+(;B[dm];W[ck];B[dl];W[cl];B[cn];W[cj]C[Jewdan: This is a likely outcome. Black does not have time to invade the left side.]
+)
+(;B[ci]C[Jewdan: If Black tries something funny...];W[cj];B[dj]
+;W[ck];B[dh];W[ei];B[cg];W[dl]CR[fh]MA[df]C[Jewdan: ... he is in far more trouble than you, with three groups to care for in one local fight. The one concern I can see is the cutting point at D14 (x'ed), but you can easily connect the two stones to your other cutting stones with F12 (circled).]
+)))
+(;W[cb]))
+(;B[ee];W[dd];B[fe];W[cf];B[eh]C[Jewdan: White currently has thirteen points in the corner and stands to make another five by capturing E17, but I think Black's influence stands to earn more than that. While I have no joseki sources to guide me here, I am fairly certain that this result is intolerable for White.]
+))
+(;W[ee];B[dc];W[cc]
+(;B[ic];W[cj])
+(;B[fe];W[ff]
+(;B[hc];W[cf])
+(;B[ef];W[cf];B[eg];W[gf];B[hc]))))

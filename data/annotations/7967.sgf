@@ -1,0 +1,234 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.17]
+
+GN[gtl]
+PB[ericosman]
+BR[1k]
+HA[2]
+PW[Javaness]
+WR[2d]
+KM[0.5]
+DT[2010-07-25]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[W+6.5]
+TM[60]
+OT[25/300 Canadian]
+RU[Japanese]
+
+AB[pd][dp]C[
+DanielTom [5d\] - Hello, Eric. I am you reviewer. (I marked your comments with *, and mine with "DT".)
+(Check the end of the game record for the summary and advices.)
+
+
+*Helllo .
+
+*I had 2 stones in this game.
+
+*Is that supposed to be a 14 point advantage ?  20 point ?
+
+DT - That depends on how you use the handicap stones. 
+However, if we say that each move in the opening is worth round 8 points, then your initial advantage should be of about 16 points (8+8). We should also add that in handicap games usually White doesn't have komi, so it becomes 16+5,5 = 21,5 points of advantage (when compared to an even game). So your guess is correct, the advantage should be of about 20 points.
+
+*Anyway, I lost by 12, so that means over the game I lost at least 26 points, and would be interested in knowing where I made the biggest mistakes.
+
+*I've asked some specific questions, but I know from taking lessons that often we ask the wrong questions !  So besides answering my questions, I welcome whichever other comments you think would be most helpful.
+
+*Thanks.  /Eric
+
+DT - OK, enjoy the review!];W[pq]
+(;B[jq]LB[dd:A]C[DT - It is probably better to take the last corner. See a possible variation.
+I can't say your move is bad, but it violates the principle that states corners come first and sides second (this is because, as you know, it is easier to make territory in the corner than it is in the side).]
+;W[qf]
+(;B[qj]LB[nd:A]C[DT - This pincer is outdated, it doesn't give Black a good result.
+Personally, I would prefer to play at A instead - see variation.]
+;W[cd]LB[nc:A]C[DT - White could also play at A to punish Black.]
+(;B[cj]LB[qe:B][cq:A]TR[dp][jq]C[DT - I can see that you are trying something new here, but it doesn't seem good at all.
+Of course it is good to try out new ideas and do your own experiments, but I don't think it is wise to simply ignore all the fuseki (opening) theory that is, after all, a study on how the stones interact with each other. Otake Hideo once said: "...if you neglect the fuseki, you can't hope to make progress at go. After all, it's the basis of your whole game".
+The important thing here is not to memorize a bunch of openings that, ultimately, won't be of much use in actual play (let's leave that to the chess players). What really matters is understanding some basic principles (for example, why it is better to play in the corners first) and trying to work on the efficiency of the stones. In this case, for instance, the marked construction is not efficient. Do you know why? An understanding of how the go stones interact with each other gives you the answer. Please remember that you have to take into account the position of your (and your opponent's) stones when playing a move - in other words, think globally - to find where the most efficient move is. This isn't, of course, an easy task: it is said that during a game professionals usually spend half of their time in the first 30 moves. This should give you an idea of how important the opening is. 
+Your opening in this game gives me a bad feeling because I see you simply ignoring all your opponent's moves and not taking into account the position of the stones before deciding where to play. This can never be a good sign.
+Back to the game, let me explain why your move (C10) is not good. You may have heard that it is good to make a double-wing formation. Indeed it is, but you have to be careful with the position of your stones. In this case, both wings, K3 and C10, are low, and that is a big problem because of the weakness at A: if White invades at san-san (3x3), your stones will become really inefficient. See the variation for move 8 for a clearer picture. Black could avoid this problem by playing a high move here instead of another low one.
+Let us consider another option for Black here. White ignored your R10 pincer so it is a good idea to punish White by playing at B, starting the attack. This would be a good way of using your handicap stone. See variation.]
+;W[cq]LB[nc:A]TR[cj][dp][jq]C[DT - Very good! Playing at A was another option.
+What does White want here? In a word, he wants to make the marked construction inefficient. How does that work? See the variation for Black's next move.]
+(;B[jc]C[DT - This is another strange move by Black (it is also the first time I see someone ignoring a san-san invasion). In my opinion, Black's opening is clearly bad!
+
+*I've been experimenting alot lately with taking the 4 side middle lower points as my first moves in the game , whether it be a handicap game or an even game.
+
+*If an even game, how many points "inferior" is such an opening compared to the standard opening of taking corners first ?
+
+DT - That is a hard question because the answer depends on how the opponent will respond. On the one hand, I think that, if your opponent plays correctly, your unusual opening in an even game would leave you with half the potential for points than your opponent. On the other hand, if your opponent is only used to play the conventional openings and is very bookish, this unusual opening might give you the advantage. I have a friend that, when asked a go question, always replies: "It depends". That seems to be the correct answer :)]
+;W[nc]C[DT - This move is painful for Black.];B[oe];W[qc]TR[jc]
+[qj]C[DT - The marked stones are in a strange position...]
+(;B[qo]TR[cq]C[*so often , one answers on one side or the other when a player invades at 3-3 after other player "comes out".  When is it ok to tenuki the 3-3 as I have done here ?
+
+DT - I don't think it is a good idea to tennuki when White invades with the marked stone. Black should answer it - see variation.]
+;W[cp]
+(;B[ec]LB[do:A]TR[dp]C[*here also, I wonder how "you" feel about black playing in top left and tenuki'ing white's move in bottom left ?
+
+DT - I feel very confused! :)
+To let White play at A here is almost unbearable to my eyes.
+In my opinion, Black has to play at A here (see variation).]
+;W[cg];B[cn]LB[bc:4][cc:3][dd:5][ce:6][cf:2][df:1][cl:B][do:A]
+C[DT - This move is strange too! It forces White to play at A (White is happy to do so) and it leaves the weakness at B behind.
+It is probably better for Black to start with the numbered sequence.]
+;W[do];B[co];W[ep];B[dn]C[DT - Good.];W[eo]
+(;B[gq]C[DT - Black can also consider playing for a moyo here. See variation.]
+;W[mq];B[er]C[DT - Good.];W[dq];B[eq];W[gp];B[hq];W[rp]
+(;B[qq]LB[ro:A]C[*what about this fershlugginer move ?
+
+DT - Does "fershlugginer" mean "appalling"? :-)
+Is there something wrong with the normal move at A?];W[qp];B[pp]
+;W[oq];B[ro];W[rq];B[oo]C[DT - The result is bad for Black. See variation for the explanation.]
+(;W[en];B[dl]C[DT - Very solid.];W[gc]
+(;B[ee]LB[df:A]C[DT - Black A is the standard way - see variation.]
+;W[dc]LB[cc:B][ge:A]C[DT - Good move. If White had played at A instead, Black would play at B.]
+(;B[ed]LB[db:B][ed:A]C[DT - Very bad! This is too heavy!
+Making good shape is very important! Good shape is rich in eye-shape potential. This move (A) gives Black no eye-shape so it is heavy. Black B instead would be better - see variation.]
+;W[ge];B[eg];W[kd];B[kc];W[lc]
+(;B[lb]SQ[gc][ge]C[DT - It is not easy for Black to capture the marked stones directly - see variation.]
+;W[ld];B[mb];W[pc];B[mc];W[md]
+(;B[nb]LB[nd:A]C[DT - It is better to cut directly at A (see variation).]
+(;W[ob]C[DT - This is not good. White should connect the groups - see variation.]
+;B[nd]C[DT - Now White is cut and in danger.];W[oc]
+(;B[me]LB[jd:A]C[DT - Black A would be normal.];W[jd];B[id]
+;W[ie];B[je]C[DT - Black overplayed here.];W[ke];B[hd];W[jf]
+C[DT - White is happy to get a ponnuki facing the center in sente.]
+;B[gd];W[eb]LB[bd:C][be:B][ce:A]C[DT - This move prevents the A-B-C sequence. It is very big.]
+;B[fb];W[db]
+(;B[fc]C[DT - Too slow! Black can and should play more actively here: see variation.]
+;W[re];B[mf];W[kh];B[pg];W[pf]
+(;B[of]C[DT - Black should be more careful here: see variation.]
+;W[og]
+(;B[oh]LB[nh:A]C[DT - I think Black A is honte here - see variation.]
+;W[ng];B[mg];W[nh];B[mh];W[ni];B[mi];W[nj]LB[lj:A]C[*black would love to attack middle of course.  is black too weak to do so ?  what's best ?
+
+DT - White here is weak too so in this kind of positions we should try to find a move that threatens the both White's weak groups at the same time. Black A seems to work that way here - see the variation for Black's next move.]
+(;B[ki]LB[lj:A]C[DT - This is not as good as Black A because here you are attaching against weak stones which, as you know, is not a good idea (as a general rule, it makes your opponent's weak stones stronger).]
+;W[ji];B[mj]LB[mg:1][mh:2][mi:3][mj:4]C[DT - Black pushed from behind too many times here.]
+;W[nl];B[mk];W[pn];B[nk]C[DT - The plan is a bit greedy...]
+;W[ok];B[oj];W[oi];B[pj];W[ph];B[ol];W[po]C[DT - Black lost a lot of points here.]
+;B[jj]C[DT - Good. Black's last chance is this attack.];W[ii]
+(;B[kj]C[DT - I can't understand this move... It is so slow... and it makes the shape overconcentrated... please see variation.]
+;W[om];B[pl];W[fa];B[ga];W[ea];B[gb];W[bi]TR[en][do][eo][cp]
+[ep][gp][cq][dq]C[DT - This was a mistake. 
+White is leading on territory so he should just defend the marked group to keep the game simple and easy.]
+;B[cf];W[bf];B[bg]C[DT - The idea is interesting. :-)]
+(;W[bh]LB[be:A]C[DT - A big mistake! For sure, White has to play at A instead - see variation.]
+;B[be];W[ag];B[ce];W[bd];B[ae];W[bb]TR[bf][ag][cg][bh][bi]C[DT - The result is terrible for White (the marked group is almost dead).]
+(;B[bj]LB[dh:A]C[DT - Is this the losing move? It should be possible to kill this group if Black plays at A (see variations).]
+;W[di];B[fi];W[ej];B[fj]C[.];W[ek];B[ig]C[DT - Fine!];W[hg]
+;B[hh];W[ih];B[hf];W[gg];B[he];W[if];B[jg];W[kg];B[lf];W[kf]
+;B[ei];W[dj]
+(;B[gi]C[DT - Unfortunately, it is not possible to kill White's group (see variation).]
+;W[hi];B[gh];W[ik];B[gk];W[hk];B[gl];W[el];B[hm];W[im]
+(;B[bl]LB[in:A]C[DT - The timing is strange. Why were you so soft here? Black should play at A first - see variation.]
+;W[in];B[hn];W[io];B[ri]C[DT - Good.];W[rh];B[lr]C[DT - Good.]
+;W[hp]C[DT - Anyway, after this move it is hard for Black to win this game. White is ahead by too many points ...]
+;B[ip];W[jp];B[iq];W[ho];B[em];W[fm];B[dm];W[fl];B[gn];W[fn]
+;B[ml];W[nm];B[qm]C[DT- Good.];W[op]C[DT - White made a "pass" move here.]
+;B[dr];W[cr]
+(;B[lq]LB[mr:A]C[DT - A (N2) would be better.];W[mr];B[ms]C[DT - Good.]
+;W[ns];B[ls];W[nr];B[dh];W[ci];B[bp];W[bq];B[kp];W[jo]C[DT - White's endgame is bad...]
+;B[qh];W[qg];B[qi];W[sg];B[na]LB[gf:A][bo:B]C[DT - A (G14) and B (B5) are bigger.]
+;W[qn];B[rn];W[pm];B[rl];W[dk];B[ck];W[gf];B[fg];W[bo];B[bn]
+;W[ap];B[fe];W[jh];B[ig];W[jg];B[ff];W[ig];B[fp];W[fo];B[fq]
+;W[hl];B[gm];W[go];B[dd];W[ad];B[dg]LB[mo:A]C[DT - A (N5) is bigger.]
+;W[mo];B[jl];W[jk];B[oa];W[pa];B[qd];W[rd];B[od];W[rb];B[kk]
+;W[km];B[kl];W[nf];B[ne];W[il];B[mm];W[mn];B[si];W[so];B[sn]
+;W[sp];B[lp];W[kn];B[mp];W[np];B[sh];W[rg];B[an];W[ao];B[ai]
+;W[ah];B[aj];W[ds];B[es];W[cs];B[lm];W[jm];B[ch];W[bg];B[lh]
+;W[fk];B[gj];W[ko]C[DT - White's next few moves were strange (Japanese rules: the players don't need to fill the dame points).]
+;B[tt];W[af];B[tt];W[lo];B[tt];W[ln];B[tt];W[ij];B[tt];W[hj]
+;B[tt];W[pi];B[tt];W[qe];B[tt];W[pe];B[tt];W[le];B[tt];W[lg]
+;B[tt];W[tt]TW[aa][ba][ca][da][qa][ra][sa][ab][cb][pb][qb][sb]
+[ac][bc][cc][rc][sc][sd][je][se][rf][sf][pg][oh][jn][nn][on]
+[no][oo][bp][dp][pp][aq][nq][qq][sq][ar][br][or][pr][qr][rr]
+[sr][as][bs][os][ps][qs][rs][ss]TB[ha][ia][ja][ka][la][ma][hb]
+[ib][jb][kb][gc][hc][ic][fd][de][df][ef][eh][fh][li][lj][rj]
+[sj][ak][bk][lk][ok][pk][qk][rk][sk][al][cl][ll][ql][sl][am]
+[bm][cm][rm][sm][kq][fr][gr][hr][ir][jr][kr][fs][gs][hs][is]
+[js][ks]C[Final result: W+6,5
+
+Let us now recapitulate what you can learn from this game:
+
+1 - Do not neglect the FUSEKI. I won't insist much on this point because I understand that you were simply experimenting new ideas when you played such an eccentric opening;
+
+2 – Avoid making heavy SHAPES [see move 42 (E16)\];
+
+3 - Save the endgame to the endgame. Learn to take SENTE and ignore your opponent’s move when there are more important things to do on the board [see move 70 (F17)\];
+
+4 - Being able to make FLEXIBLE shapes is of great importance, particularly when dealing with a cut [see moves 76 (P14) and 78 (P12), as well as the variations that I added\];
+
+5 - Don't attach against weak stones and try to kill two birds with one stone (just for the record, that was a figure of speech… remember, stoning birds is wicked) [see move 86 (L11) and the variation\];
+
+6 - Do not lose golden opportunities to finish the game. Be particularly careful when it seems possible to KILL one of your opponent's groups. Reading is very important! In this game it was possible to capture White's left group after his mistake in move 113 (B12), but you missed it... You need to be sharper! [see move 120 (B10) and, on the last point, move 150 (B8)\];
+
+I hope this review was helpful. If you have any comments/questions, please email me: danielfacto@gmail.com
+
+I would like to thank you, Eric, and Go Teaching Ladder for allowing me to review this game.
+
+P.S.: Now go hunt some dan players!
+Have fun.])
+(;B[mr];W[nr]))
+(;B[in];W[jm];B[lm]C[DT - You can still attack the group: White doesn't have time to attack you back because his dragon is not alive yet.]
+))
+(;B[ij];W[hi];B[gh];W[hj];B[hk];W[gk];B[gj];W[ik];B[hl];W[fh]
+;B[gi];W[jh];B[ig];W[eh]))
+(;B[dh];W[bj];B[bk]
+(;W[af];B[ch])
+(;W[ci];B[dj];W[di];B[ei];W[dg];B[af];W[df];B[de];W[ef];B[ff]
+;W[fg];B[eh];W[fe];B[gf];W[ck];B[dk];W[gg];B[hf];W[he];B[hg]
+;W[gh];B[hh]
+(;W[gi];B[ch];W[bg];B[aj])
+(;W[bl];B[cl];W[ak];B[bm];W[gi];B[hi];W[hj];B[gj];W[fj];B[gk]
+;W[fi];B[fk]))))
+(;W[be];B[ch];W[bh]
+(;B[dg];W[ag]C[DT - White can still connect.])
+(;B[ag];W[dg])))
+(;B[ij];W[kj]C[DT - Were you afraid of this?];B[li]
+(;W[kk];B[hi]TR[ok]C[DT - There is nothing to be afraid here because Black's group is safe.]
+)
+(;W[hj];B[hi])))
+(;B[lj]LB[ph:B][jj:A]C[DT - This would make A and B miai. White would be in trouble.]
+))
+(;B[nh]C[DT - This gives Black a better shape.];W[ph];B[oj]
+C[DT - Here White can't cut you.];W[ng];B[mg];W[mh];B[lh];W[mi]
+;B[li]TR[lc][jd][kd][ld][md][ge][ie][ke][jf][kh]C[DT - The marked group would be in trouble.]
+;W[lg];B[oh];W[qg];B[mj];W[ni];B[oi]))
+(;B[nh]C[DT - This way Black doesn't need to worry about the cut.]
+;W[of];B[nf];W[og];B[oh];W[ng];B[mg];W[mh];B[lh];W[mi];B[li]
+;W[mj];B[kg]C[DT - The result would be bad for White.]))
+(;B[pg];W[rd];B[jh]C[DT - Black's group at the top is safe so he can start the attack.]
+;W[ic]C[DT - There is nothing here...];B[ib];W[hc];B[fc]))
+(;B[jd]C[DT - Better for Black.]))
+(;W[nd]TR[nc][pc]C[DT - Here White is connected.]
+(;B[oc];W[od];B[ob];W[pe])
+(;B[ob];W[jd];B[oc];W[od]TR[qc][qf]C[DT - Black can't cut the marked stones.]
+(;B[qd];W[rd];B[re];W[qe];B[pe];W[rc])
+(;B[qe];W[re];B[rd];W[qd];B[pe];W[rc];B[rf];W[sd];B[qg];W[pf]
+;B[of];W[pg]TR[gp]C[DT - The ladder is good for White.]))))
+(;B[nd];W[oc];B[jd]))
+(;B[jd];W[ke];B[je];W[kf];B[jf];W[kg];B[hf];W[og]C[DT - Black would be in trouble.]
+))
+(;B[db];W[cb];B[dd];W[cc];B[hd]))
+(;B[df];W[cf];B[cc];W[bc];B[dd]))
+(;AE[oo][ro][pp][qp][rp][oq][qq][rq];W[rp];B[ro];W[qp];B[oo]
+;W[tt];B[pp];W[oq]LB[sp:C][qq:A][rq:B]C[DT - In the game, Black plays A, and White is happy to defend at B. The A-B exchange (that gives the same position as in the game) is clearly bad for Black, because here he can play at C instead.]
+(;B[qq];W[rq])
+(;B[sp]LB[rr:A]C[DT - Better endgame (White's correct answer to this move is A).]
+)))
+(;B[ro];W[qp];B[oo]))
+(;B[pg];W[pc];B[op];W[oq];B[mp]))
+(;B[do];W[er];B[gp]))
+(;B[cp];W[dq];B[eq];W[er];B[dr]C[DT - I would try this (a famous trick-move!). Do you know how to answer it as White?]
+))
+(;B[dq];W[cp];B[co];W[bo];B[cn];W[bn];B[cm];W[dr];B[er];W[cr]
+;B[fq];W[jo]TR[cj][jq]C[DT - It is clear that the marked stones here are not efficient at all. C10 is in a strange place, and K3 is too close to the thickness. Not only that, K3 is also too low, so later White can easily reduce this moyo by playing round K5.
+Black is not good here.]))
+(;B[qe];W[pf];B[nd];W[ql];B[oj];W[qh];B[ol]TR[pf][qf][qh]C[DT - This is one possibility. The marked stones are still under attack, and Black can also aim at approaching the Upper Left corner (playing a kakari). Black is looking good.]
+))
+(;B[nd];W[qk];B[dd]LB[dj:A]C[DT - Black is fine here (he can aim at A next).]
+))
+(;B[dd];W[qf];B[nc];W[qk]C[DT - This is the most common strategy for White. Where should Black play now?]
+;B[jq]LB[dd:B][jq:A]C[DT - I am sure you got the correct answer. This move is key.
+Compared to the real game, Black here is better because he still got A (the move that you played in the actual game) and he got the corner too (B).]
+))

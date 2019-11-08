@@ -1,0 +1,103 @@
+(;FF[4]GM[1]SZ[19]ST[1]CA[UTF-8]AP[SGFC:1.15]
+
+GN[gtl_]
+PB[ultra]
+BR[12k]
+PW[BuddyRat]
+WR[11k]
+KM[0.5]
+DT[2008-01-28]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[B+7.50]
+TM[600]
+
+C[BuddyRat [11k\]: Hello
+BuddyRat [11k\]: have a good game
+ultra [12k\]: hi, thanks, you too
+
+Hi, I'm Dmitry, I'll review your game and will try to answer your questions. Enjoy.]
+;B[pd];W[dp];B[pq];W[dc];B[qo];W[ce];B[fq]
+(;W[cn]LB[jp:A]C[Dmitry: Possible, but after black A, he will have ideal extension from two marked stones, see var.]
+;B[iq];W[dr]LB[nc:a][jd:b][dj:c]C[Dmitry: too slow, A or B is better, from shimari like that (marked stones) best extension is at direction of B, not C.]
+;B[eo];W[dn];B[lq];W[qf]LB[nc:a][jd:b][pj:c]C[Dmitry: I prefer A or B here. If you want to prevent black to build double-wing formation just play C.]
+;B[nc];W[rd];B[qc];W[qi];B[kc];W[ql]LB[hc:a][ic:b]C[Would something like 'a' or 'b' be better here?
+Dmitry: too slow, a or b is better];B[ol];W[rn]LB[pm:a][pn:b]
+C[Dmitry: small move, what about A or B?];B[ro];W[qn];B[pn]
+;W[pm];B[on];W[om];B[nm];W[nl];B[mm];W[nk]LB[ok:a]C[Dmitry: just A instead]
+;B[oi];W[ok]LB[of:a]C[Dmitry: now O9 stone is unnecessary, you just let black to move at  A]
+;B[of];W[lk]LB[ic:a][dj:b][ni:c]C[Dmitry: too slow, I prefer A, B or C here]
+;B[hc];W[dj];B[li];W[km];B[ko];W[fn];B[fo];W[gn];B[go]C[What is the best way to reduce black's framework here?]
+;W[jj]C[Dmitry: I'ld like to push once again at H6];B[dg]
+(;W[ch]C[Dmitry: This is a passive move, it just defends few points of your territory, what about A? See var.]
+;B[ee]LB[jh:a][fd:b][ln:c]C[What is the best way to reduce black's framework? I was at a loss.
+
+I felt that I had lost the game already at thist point, althought in the end the difference was only 7.5 moku.
+
+Openings I feel are my main weakpoint so any advice on that front would be well appreciated.
+
+Dmitry: There are two ways to make opponents moyo smaller - reduction from the out of moyo and invasion. Invasion is more risky, because if you invade and die - you lose the game. If you invade and life it can still be not enough to win. So, if it's possible to reduce the opponent's moyo - reduce it! Here I see next examples of reduction moves: A, B, C]
+;W[cg];B[dh];W[di];B[ei];W[jh]C[Dmitry: good!];B[kg];W[ni];B[nh]
+;W[mi];B[mh];W[kh]LB[jg:a]C[Dmitry: A is better];B[lh];W[oj]
+;B[pi];W[pj];B[qh];W[ph];B[pg]
+(;W[oh]C[Dmitry: yes, this is a very big mistake! See var];B[qg]
+
+(;W[rg];B[rh];W[ri];B[sg];W[id]LB[og:a][if:b]C[This was a flop. :s
+
+Dmitry: it's still possible to use aji of dead stones playing A locally, but B is better]
+;B[if];W[jg];B[kf];W[hh];B[gg];W[gh];B[fh];W[in];B[io];W[fc]
+LB[fk:a]C[Dmitry: too slow, you just almost built your own moyo, but black can destroy it in one move, like A.]
+;B[gd];W[gc];B[fd];W[dd];B[gb];W[fb];B[hb];W[df];B[ef];W[ej]
+;B[gi]LB[fj:a]C[Dmitry: strange move, why not just A?];W[hj]
+;B[gj];W[gk];B[hi];W[ii];B[fk];W[eg];B[fi]
+(;W[fj]LB[fg:a]C[Dmitry: What about A instead? See var];B[fg]
+;W[ik];B[eh];W[ln];B[mo];W[mn];B[nn];W[lo];B[lp];W[sf]LB[no:a]
+[so:b][jf:c]C[Dmitry: just one more prisoner, problem with time? If so, moves like A, B or C give more aji.]
+;B[rf];W[jf];B[je];W[hg];B[hf];W[ig]C[Dmitry: just one point gote, very slow]
+;B[hn];W[hm];B[jn];W[ho];B[hp];W[jm];B[kn];W[hn];B[lm]C[BuddyRat [11k\]: aye
+ultra [12k\]: ;)];W[ll];B[en];W[em];B[do];W[co];B[er];W[eq]
+;B[ep];W[dq];B[es];W[gp];B[fp];W[gq];B[fr];W[gr];B[gs];W[hs]
+LB[ds:a]C[Dmitry: Strange move, what if black has a lot of ko threats? See var.  Correct move for white is A.]
+
+(;B[hq];W[fs];B[hr]C[Dmitry: black should try to win the ko.]
+;W[ds];B[is];W[gs];B[de];W[cf];B[ec];W[eb];B[ed];W[cb];B[sn]
+;W[sm];B[so];W[rm];B[si];W[sj];B[sh];W[rj];B[og];W[lj];B[ki]
+;W[ji]C[BuddyRat [11k\]: almost missed that :)
+ultra [12k\]: :)];B[kj];W[kk];B[fa];W[ea];B[ga]
+(;W[ml]LB[hd:a]C[Dmitry: A is a big aji, see var.];B[ic];W[tt]
+TR[qf][rd][sf]C[Dmitry: I think marked stones lost was decisive. 
+
+Good luck!];B[tt]TB[eg][fe][ff][ge][gf][ha][hd][he][ia][ib]
+[id][ie][ip][ir][ja][jb][jc][jd][jo][jp][jq][jr][js][ka][kb]
+[kd][ke][kp][kq][kr][ks][la][lb][lc][ld][le][lf][lg][ln][lo]
+[lr][ls][ma][mb][mc][md][me][mf][mg][mn][mp][mq][mr][ms][na]
+[nb][nd][ne][nf][ng][no][np][nq][nr][ns][oa][ob][oc][od][oe]
+[oo][op][oq][or][os][pa][pb][pc][pe][pf][po][pp][pr][ps][qa]
+[qb][qd][qe][qf][qp][qq][qr][qs][ra][rb][rc][rd][re][rg][rp]
+[rq][rr][rs][sa][sb][sc][sd][se][sf][sp][sq][sr][ss]TW[aa][ab]
+[ac][ad][ae][af][ag][ah][ai][aj][ak][al][am][an][ao][ap][aq]
+[ar][as][ba][bb][bc][bd][be][bf][bg][bh][bi][bj][bk][bl][bm]
+[bn][bo][bp][bq][br][bs][ca][cc][cd][ci][cj][ck][cl][cm][cp]
+[cq][cr][cs][da][db][dk][dl][dm][do][ek][el][en][eo][ep][er]
+[es][fk][fl][fm][fo][fp][fq][fr][gl][gm][go][hk][hl][ih][ij]
+[il][im][jk][jl][kl][mj][mk][nj][oi][ol][pi][pk][pl][qj][qk]
+[qm][rk][rl][sk][sl]C[ultra [12k\]: nice game, thx
+BuddyRat [12k\]: thank you as well
+ultra [12k\]: goodbye])
+(;W[hd]
+(;B[ic];W[gf]
+(;B[ff];W[ie];B[ge];W[ke];B[jd];W[lf];B[lg];W[ng])
+(;B[ie];W[ff];B[eg];W[ge])
+(;B[he];W[ge];B[ie];W[ke];B[jd];W[lf];B[lg];W[ng]))
+(;B[ie];W[ib];B[ic];W[jc])))
+(;B[hr];W[fs];B[ki];W[ji];B[gs]C[Dmitry: so black could win ko if he has enough of threats.]
+))
+(;W[fg]LB[eh:a]C[Dmitry: black cannot play at A];B[fj];W[eh]
+;B[hk];W[gl];B[ij];W[hl];B[il];W[jk];B[ik];W[im]))
+(;W[rh];B[rg];W[sh];B[sg];W[ri]))
+(;W[qg];B[oh];W[rh]C[Much much better. Losing these stones was devastating.]
+)
+(;W[rh];B[qg];W[rg];B[qj];W[ri]))
+(;W[gd];B[hd];W[ge];B[he];W[gf];B[hf];W[hg];B[ig];W[hh];B[ih]
+;W[hi];B[ii];W[ij];B[lg];W[gc]))
+(;W[hq];B[cq];W[dq];B[cp];W[do];B[dr];W[er];B[cr];W[eq];B[bn]
+;W[fp]))

@@ -1,0 +1,236 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.17]
+
+PB[Kibagami]
+BR[11k]
+PW[fiderblool]
+WR[11k]
+KM[6.5]
+DT[2012-09-10]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[B+30.5]
+TM[1500]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+C[fiderblool [11k\]: hello
+Kibagami [11k\]: hello
+Kibagami [11k\]: have fun
+fiderblool [11k\]: yes, enjoy the game
+
+<tom> thank you for the chance to review this game.
+in the next move are comments and an index.];B[pd]C[( to see the move in CGoban, hold shift and click the spot )
+
+>>> How white can setup for more center territory:
+5. e4 when black has a couple stones in the corner, prevent black from extending
+
+>>> How white can keep the upper left more alive:
+try playing slow and boring, complicated games seem random and prone to chance.  
+12. b10 when white pushed against black, white got life,
+however white force black to get strong and take the upper left corner.
+21. b16 cut first, ask questions later
+35. d16 when whites stones are in danger, sacrifice them with forcing moves
+
+>>> General advice:
+101. b2 capture corner using throw in
+125. o6 cut off the black escape
+
+try selecting some stones to die, 
+and use forcing moves to make their sacrifice worth while.
+
+try playing in open spaces, where a single stone can make more difference.
+
+allow your oppenent to attack you, defenders usually win, and can pick
+what side effects the battle will have.
+
+Learning by trial and error is fun, to see what works.  Unfortunately the trial and error lessons learned against 10k or 11k don't work so well against 2k or 3k.  Consider playing a more boring style, building up territory, then attack from those living groups.]
+;W[pp]C[I purposefully allowed the cross-fuseki, I've never played white against a cross-fuseki and wanted to experiment.]
+;B[cp]LB[dc:c][cd:e][dd:d][ep:a][eq:b]C[I considered A B C D and E.
+A and B didn't look very nice if he then played D.
+Playing D myself seemed hesitant, if he followed with a corner enclosure at B I wasn't sure how I would follow that up.
+C seemed like the wrong direction of play.  So I played E.  Was this correct?
+
+<tom> just relax and try out some moves, this will help you find which ones fit your style.  I'll comment on each letter, and how it fits with my style.
+
+A : black can ignore and move at d16, seems like being the first in the corner is better than approaching a low corner stone.
+seems to work well with Q4, if white immediately fills in the lower k3 gap]
+(;W[cd];B[ep]LB[cj:B][gq:A]C[black has two corner stones stacked up.  traditionally they would next extend out to B, what can white do?
+
+A: game move extends from G3, threatening to go under e2 or extend back to k3, or extend out to g5
+
+B: suggested move prevents black from working well with his two black stones.]
+(;W[gq];B[dj];W[ck]LB[cn:a]C[I played the shoulder hit as a forcing move so I could get my base in at A.  But I attacked from inside his territory, was this wrong in this situation?
+
+<tom> seems like attacking directly a bit early.  black has the e4 wall to use on one side, while d10 and another stone will squeeze c9 to live small, while black will build up influence to the center.]
+;B[cf];W[ch]LB[cf:9][ck:8]C[I figured he could run into the middle and allow me to connect 8 and 10, or he could play where he did and allow me to pressure 9]
+;B[cj];W[bj]LB[nd:3][de:2][di:1]SQ[cj][dj][cp][ep]C[But then I changed my mind and decided I wanted to live inside his influence...
+I did not know what the best way was to play here, so I tried to play every way.
+
+<tom> it is fun to explore and try things out.
+in this case you did well to get the c9 stones to live.
+looks like white leaned into c10 while getting life.
+this is good for c9 to live, however it has a side effect.
+
+The side effect of getting C9 to live inside of what was originally black's space
+is that black had a very solid structure directly in contact with c12
+black also has c14 for support.
+White will need to build up defences for c16
+
+Here is the general squence that appears in my mind:
+1. b10 and c10 fight, b10 lives next to c4, while black gets a dragon,
+but the eyeless dragon quickly gets eyes thanks to c14
+
+2. black's dragon at c10 now pushes against c16, reducing the corner,
+and building up influence
+
+3. now that black has formed a bunch of stones and influence around f16 and d10
+black now works with Q16 to get some moyo going
+
+White has life in the corner around c17, White has life under c4 and c10
+Black has strong influence around f16 and q16];B[bi];W[aj];B[ai]
+;W[bl];B[ci];W[bf]LB[df:a]C[Should this have been on top?
+
+<tom> yeah, I think that would be a good change
+
+black has invested many stones around C11, black is very strong here. 
+white cannot win a battle against such a strong wall.
+with such a large board white may want to seek other areas]
+;B[be];W[bg];B[bd]LB[ce:B][df:A]C[<tom> cut first, ask questions later :)
+A: game move looks tricky and may do some cool things
+B: suggested move cuts, threatening to capture c14 or b16]
+(;W[df];B[ce];W[de];B[cg];W[dg];B[dh];W[cc];B[bc];W[nc];B[qf]
+;W[id];B[eh];W[dk];B[dd]LB[dc:A][ed:B]C[the white stones at b13 are lost, and those white stones at d14 are in danger.
+white has some other stones across the top.
+let's use some forcing moves to gain territory.
+
+A = threaten the d16 stone to get c17 a bit sreonger
+B = forcing move to build up white wall and take the top]
+(;W[dc];B[ed];W[ff]LB[fd:A][ef:B]C[<tom> black can capture some more
+A : game move black extends to threaten both D17 and D14
+B: suggested move : cash in right away by capturing D14]
+(;B[fd];W[ec];B[fc];W[fb];B[gb];W[bb];B[ab];W[da];B[eb];W[fa]
+;B[cb];W[db];B[ba];W[gc];B[ga];W[hb];B[ea];W[ha];B[fb];W[gd]
+;B[ge];W[fe];B[hf];W[gf];B[he];W[fh];B[fi];W[gh];B[je];W[jd]
+;B[ie];W[ld];B[kd];W[kc];B[hd]
+(;W[ic];B[hc];W[ke]LB[pj:d][qj:c][kq:a][lq:b]C[I decided to leave the possibility of moving into the middle.  At this point, though, I guess it would have been better to play in the bottom or right.
+What would be best?
+
+<tom> the board is completely played out in the upper left
+in the opposite corner there is only one stone.
+maybe you prefer playing 13x13 games? :)
+
+I would go with C
+
+A : build up some territory below, put some pressure on c4, preparing for c6
+B : feels the same as A
+C : get some wide open space, put some pressure on R14
+low to avoid attack from r14, feels more commited to edge, less to center
+feels like it is working with M16 stuff
+D : wide open space, keep option of going in center or build up edge]
+;B[qn];W[nq];B[pj];W[jp];B[fm];W[cn];B[dn];W[dq];B[eq];W[er]
+;B[dr];W[cr];B[fr];W[ds];B[fq];W[dp];B[co];W[do];B[eo];W[dm]
+;B[en];W[bn];B[cq];W[dr];B[br]LB[bo:A][bq:B]C[<tom> when in a close fight, and looking to use up your opponents space, consider sacrificing a stone or two.
+A: game move forces black to connect his stones.
+B: suggested move, a throw in, forces black to respond, and forms a false eye.]
+(;W[bo];B[bq];W[bs];B[es];W[fs];B[gs];W[gr];B[es]C[<tom> ko battles are no fun when all the fights have been played out.
+many of your forcing moves in the upper left would now be fun to play]
+;W[ql];B[fs]LB[ol:B][ir:A]C[<tom> usually a ko threat is followed by some amazing game shattering move.
+A: game move helps protext the L2 area
+B: suggested move give the ko play power and captures r6 ... well maybe it does :)]
+(;W[ir];B[on];W[qj];B[rp];W[qq];B[qi];W[ol];B[pk];W[pl];B[qk]
+;W[mm];B[mn];W[nm];B[nn]LB[ln:B][lo:A]C[fence in black to keep the pressure on.  maybe a mis click?
+A : game move build up territory and put pressure on black
+B : suggestion to cut off the three stones]
+(;W[lo];B[rj];W[rm];B[ln];W[pn];B[pm];W[po];B[om];W[qm];B[np]
+;W[mp];B[mo];W[lp];B[kl];W[lm];B[kn];W[km];B[jm];W[mk];B[jn]
+;W[gi]C[How could I have set myself up for more territory in the middle?
+
+the side effects of your fights have pushed black into the center.
+
+by sacrificing the stones at c16 you can have more stones in the center.
+by pushing into r14 earlier you can have a stone around p13 or p14
+by cutting off n6 stones you avoid k7
+by killing c4 the stones at e4 are under pressure, you can attack around g7, push black to connect with e12 and jump to center
+by moving around r11  rather than d9 you can pressure q16 and then jump to p11
+
+early in the game, each move can threaten two things, the opponent may respond to defend the larger threat, then you can move into the smaller threat.
+- move around r11 to threaten q16 = they defend the corner, now you can move into p11
+- move around e16, threaten capture of d16, they defend, now you can d17 and g17
+
+try more threats where you have two good next moves, the other guy cannot defend against both.]
+;B[fj];W[fl];B[gk];W[gl];B[hk];W[il];B[jl];W[ik];B[ij];W[jj]
+;B[kj];W[ii];B[hj];W[hl];B[hi];W[jk];B[kk];W[hh];B[ih];W[ig]
+;B[jh];W[hg];B[eg];W[fg];B[jg];W[ef];B[fk];W[ji];B[ki];W[ek]
+;B[ej];W[hn];B[kf];W[lf];B[lg];W[ne];B[oc];W[ob];B[mj];W[od]
+;B[nk];W[nl];B[ok];W[pe];B[rn];W[sn];B[so];W[ro];B[sm];W[qo]
+;B[sn];W[sl]C[Finally I won a fight...
+
+<tom> nice job!];B[qd];W[qe];B[re];W[pc];B[qc];W[qb];B[rb];W[pf]
+;B[qg];W[mg];B[mf];W[le];B[nf];W[ng];B[pg];W[og];B[oh];W[lh]
+;B[kg];W[mi];B[lj];W[ni];B[nj];W[oi];B[pi];W[kh];B[jf]
+(;W[mh];B[ib]C[<tom> I think this move cost 6 points];W[jb]
+;B[ia];W[ja]C[<tom> this move saves one point, S19 gains one, in sente even.]
+;B[qa];W[pb];B[ra];W[gm];B[gp]C[I think that if I had played this better I may have been able to make up the 30 points that I lost by, but I really don't know how I could have done better.]
+;W[hp];B[ho];W[go];B[hq];W[fp];B[hr]
+(;W[gp];B[iq];W[jr];B[jq];W[kq];B[jo];W[io];B[hs];W[fn];B[em]
+;W[el];B[is];W[kr];B[op];W[oq];B[js];W[ks];B[pa];W[oo];B[no]
+;W[ko];B[oa];W[na];B[ph];W[im];B[cs];W[ip];B[fo];W[bp];B[in]
+;W[sj];B[si];W[sk];B[rk];W[sp];B[rl];W[sm];B[rc];W[lk];B[ap]
+(;W[ao];B[cm];W[dl];B[bm];W[aq];B[ar];W[am];B[ap];W[cl];B[aq]
+;W[ll];B[tt];W[tt]TW[ka][la][ma][kb][lb][mb][nb][jc][lc][mc]
+[oc][kd][md][nd][me][oe][mf][nf][of][ak][bk][al][ml][bm][cm]
+[hm][an][qn][rn][sn][ho][so][kp][qp][rp][lq][mq][pq][rq][sq]
+[lr][mr][nr][or][pr][qr][rr][sr][ls][ms][ns][os][ps][qs][rs]
+[ss]TB[aa][ca][da][fa][ha][sa][bb][db][hb][sb][ac][cc][dc][ec]
+[gc][sc][ad][cd][gd][rd][sd][ae][de][ee][fe][se][af][bf][df]
+[ef][ff][gf][if][rf][sf][ag][bg][dg][fg][gg][hg][ig][rg][sg]
+[ah][bh][ch][fh][gh][hh][qh][rh][sh][di][ei][gi][ri][gj][qj]
+[do][dp][dq][cr][dr][er][as][bs][ds]C[I lost some obvious points in the upper left...  How could I have played better to keep that from happening other than the obvious life and death misreads that occured?
+
+1. play at a distance, keep the options open = threaten two things, he defends one, you take the other
+2. threaten to rescue a group while building something else
+3. avoid attacks or invasions with heavy side effects that harm yourself
+4. play simple and boring in the beginning])
+(;W[cm];B[ao];W[an];B[aq]))
+(;W[iq];B[gp];W[gq];B[gr];W[gp]))
+(;W[ib]))
+(;W[ln];B[lm];W[ll]
+(;B[km];W[lo]C[<tom> P6 seems dead to me.]
+(;B[rq];W[rr];B[qp];W[pq];B[po];W[rm];B[rn];W[pm];B[op];W[np]
+;B[so];W[sq])
+(;B[rm]C[<tom> looks like if black threatens to connect first, it also forms another eye. but your opponent won't think of it. :)]
+;W[rl];B[rq];W[rr];B[qp];W[qr];B[po];W[op];B[ro]))
+(;B[lo]C[<tom> black might sacrifice m7 to get something else...]
+;W[km];B[mp];W[np];B[ko];W[in];B[kn];W[lm];B[io];W[jo];B[jn]
+;W[im])))
+(;W[ol];B[rp]
+(;W[qq];B[on]C[<tom> I really hate this, because black has so much around q10, r14, and what can P8 run to?]
+;W[ml];B[mn];W[kl];B[kn];W[il];B[in];W[lh];B[rq]C[<tom> hate it]
+)
+(;W[qo]C[<tom> I don't know if this is a good move, I like it because it prevents black P6, and gets your center access bigger.]
+;B[ro];W[pn];B[qm];W[pm];B[rl];W[rm]C[<tom> sacrifice a stone to seal in black, and threaten to jump under q10]
+;B[rn];W[rk];B[sm];W[qk];B[qr];W[pr])))
+(;W[bq];B[bp];W[ap];B[aq];W[ao];B[es];W[fs];B[gs];W[bo];B[bq]
+;W[bs]))
+(;W[ke]C[white takes a stone in sente, black must capture now]
+;B[hc];W[qj]))
+(;B[ef];W[ee];B[fe];W[eg];B[fg]))
+(;W[ed];B[dc];W[ec];B[db];W[eb];B[cb];W[ff]))
+(;W[ce]
+(;B[df];W[eg];B[cc];W[ee];B[dc];W[ed];B[fb]C[<tom> I'm just randomly clicking, but seems like black would sacrifice D14 while taking the corner.  and please notice that the white stones currently have one eye.]
+)
+(;B[cg]
+(;W[dh])
+(;W[dg];B[df];W[ef];B[de];W[dd];B[ee];W[fe];B[ed];W[ec]))))
+(;W[cj]C[<tom> the two black stones threaten to extend to c10, so take the spot first]
+;B[cl];W[ej];B[el];W[ec];B[jc];W[qj];B[jq];W[qf]))
+(;W[dc];B[ce];W[cg];B[ee];W[eg];B[fc];W[bd];B[cd];W[be];B[bf]
+;W[cf];B[bc];W[bg];B[cc];W[eq]C[Perhaps this is better?
+
+<tom> I find this complicated play confusing.  Maybe I am not so good with the fancy joseki.
+
+It does look nice up top, black has a strong upper left to work with Q16.]
+)
+(;W[eq];B[dd];W[kq]C[This seems very slow
+
+<tom> it might be slow, but for the level we are at I'd say it's good.  White has low stones almost giving territory, while black is floating fairly high.  Try playing slow, let your opponent get cocky and attack you.]
+))

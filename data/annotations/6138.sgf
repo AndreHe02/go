@@ -1,0 +1,235 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+PB[SigmaD]
+BR[16k]
+HA[2]
+PW[Sakugawa]
+WR[14k]
+KM[0.5]
+DT[2007-09-10]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[W+40.50]
+TM[1500]
+RU[Japanese]
+
+AB[pd][dp]C[SigmaD [16k\]: rematch ..
+
+RickMott: Review requested by SigmaD.
+
+My main suggestion is to keep a whole-board focus and not get wrapped up in the local fighting.  Several times in the first huge battle in the lower left, you could have given up something small to get an enormous strategic advantage on the outside which would have let you win easily.
+
+Also, do some life-and-death problems; you left some groups hanging which your opponent could have killed if he knew how.  You need to learn to spot potential eyespace problems ahead of time.  As you move up, you won't be able to depend on your opponent missing the attack.  Your reading skills need work.  They don't have to be hard problems to be useful, just do a lot of them to train your eye to spot typical situations.  "Go problems for beginners" is a good series, as is the "Art of Go" series from Yutopian.  I like these because they are organized thematically (cutting and connecting, etc.)  I think doing problems will improve your play faster than anything else at the moment.
+
+Good luck!    (RickMott)];W[oq];B[dd];W[dq];B[eq]C[RickMott:  I think a hane from the inside, at the 3-3 point, might be better.  But you may not want to start a fight with the stronger player at all.  You could play a strong and simple move like C4.
+
+In a handicap game, you want to take maximum advantage of your extra stones, so building strength facing your own stone is worth a lot.]
+;W[ep]
+(;B[fp]C[RickMott: Again, a hane from above (E5) pushing White to the right would be better.  You will build a position facing your 4th line stone.  See variation.]
+;W[eo];B[cq];W[dr]
+(;B[fr]C[RickMott: Wrong direction, and doesn't pressure White's two stones.  You're building a position facing his stone instead of your own.
+
+Either D5 (threatening a ladder) or C2 (threatening capture) is better.  You will sacrifice the E3 stone to build a position facing up along the left side.]
+;W[cp];B[do];W[bq];B[bp];W[cr];B[co];W[cq];B[ap]C[RickMott: I would capture the two cutting stones E4-E6 in a ladder at E6 instead.   It doesn't matter if White captures B4; you'll get a strong outward-facing formation on both sides, which is worth more than White's small life in the corner.]
+;W[bo];B[bn];W[dn]C[RickMott: Now the ladder doesn't work and the fighting gets much more complicated, which favors White in a handicap game.]
+;B[cn];W[aq];B[ao];W[er]C[RickMott: White B2 is better; it lives immediately and does not force Black to make a strong shape.]
+;B[fq];W[fs]C[I could still have killed here right? Or am I missing something?
+
+RickMott: No, you can't kill him.  If you throw in at E1, White should answer at the vital point B2 and can make two eyes.  If you play B2 immediately, White gets out with G2 and the resulting fight is unclear, but he can probably escape.
+
+That would still be good for you, because you can press white down while he's struggling to make a second eye.
+
+To avoid all this complication, White should descend at E1 instead of the hane.  Then he's alive for sure.  But he still would have been better off to play B2 several moves ago.]
+
+(;B[gs]LB[es:B][gs:A];W[es];B[cs]C[RickMott: This is a mistake.  White should ignore you and play G2 to take your stone and get out.]
+;W[bs];B[hr]C[RickMott: But he responds locally, so you get away with it... :)
+
+Overall, this is a fine result for you.  Strong on both sides, with a weak group to chase between your strong ones.]
+;W[fo]C[I guess I shouldn't have pursued this corner any more right now..]
+;B[en]C[RickMott: Good idea, split White when you can.];W[dm]
+;B[em]C[RickMott: Now you have ladders on both sides.];W[el]
+;B[dl];W[cm];B[cl];W[gp];B[go]C[RickMott: Oops, this is a mistake.   Better to make a bamboo joint at H3.  You don't want to force white to atari you.]
+;W[fn];B[fm];W[gn];B[ho]
+(;W[jq]C[RIckMott: Phew.  White gives up too soon.  You're lucky; there's a sequence here which would give you a lot of trouble.  See variation.]
+;B[hm]C[RickMott: The net doesn't work, because white has an atari at G7.  You have the right idea, but it should be a ladder with black G7.  If you do that, White almost has to resign.  It would be very hard to catch up.]
+;W[gm];B[fl];W[gl];B[ek];W[fk];B[el];W[gq]C[RickMott: This doesn't work for white.]
+;B[gr];W[hn];B[im]C[RickMott: Ouch.  Wrong extension.  You have to extend from your two weak stones at J5 instead.  Now White can capture your bottom stones.]
+
+(;W[in]C[RickMott: Fortunately for you, white doesn't see the sequence.]
+;B[io]
+(;W[jn]C[RickMott: White misses another bet.];B[jo];W[jm];B[il]
+C[RickMott: This can't be a good move.  You're making an empty triangle and your bottom stones still aren't secure.]
+;W[jk]C[RickMott: White goes for the three stones, which is too small; he should attack your bottom group starting with blocking at L5.  Even if he doesn't kill it, he will make a big territory in the bottom right.]
+;B[ik]
+(;W[ij]C[Can J8 escape?
+
+RickMott: The real question is, why do you care?  The J8 group is 8 measly points in the middle of the board.  There are enormously more valuable points everywhere, starting with making really, really sure your bottom group is alive. :)]
+
+(;B[hj]LB[hj:A][jj:B];W[hk];B[jl]C[RickMott: Wasted move.   Save it for a ko threat.]
+;W[kl];B[ko]C[RickMott: Excellent!  Now you've broken into white's moyo and he won't get a giant territory here.  Phew.]
+;W[kp];B[jr];W[ir];B[iq];W[kr];B[is];W[lo];B[jp]C[RickMott: Unnecessary.  You already have two eyes.  Now your priority must be to constrain the size of white's bottom-right territory, maybe R3 or R4.  He is too far from the corner to hold it.  White should ignore this and play R4 himself.]
+;W[kq];B[ln]C[RickMott: Wrong direction, and too close to white strength.  R4 still very important for both sides.]
+;W[kn]
+(;B[mo]C[RickMott: How about the other side?  See variation.]
+;W[lp];B[nn];W[mp];B[np];W[nq];B[op];W[pp];B[pq];W[oo];B[no]
+;W[qq]
+(;B[pr]C[RickMott: White's atari is too aggressive.  You should take the double atari at Q5, let him capture, and extend toward the edge.  You'll get a nice right side.  See variation.]
+;W[or]
+(;B[po]C[RickMott: Consider the other atari, too.  See variation.]
+;W[qp]C[Now I make a big mistake .. should have realized Q3 was dead.]
+;B[os]C[RickMott: This should be at R5, and we'd be in the last variation I showed you which is favorable for you.]
+;W[qr];B[ps];W[ns];B[pn]C[RickMott: Almost right, but you can afford to play R5.]
+;W[qo];B[qn];W[rn];B[rm];W[sn];B[sm];W[rp];B[ll]C[RickMott: You must protect the cut at R7.  It isn't secure, because after you atari white also gets an atari.  See variation.]
+
+(;W[lm];B[mn];W[qm];B[ql];W[pm];B[on];W[rl]C[My opponent once again has read the situation a lot better than me ..
+I didnt evn notice my weakness until now!
+
+RickMott: yep.];B[rk];W[sl];B[pl];W[om];B[nl]C[RickMott: This is a very good move!  It protects your one-eyed group and starts to make a center-facing wall.]
+;W[nm];B[mm];W[lk];B[ml];W[km];B[jj]C[RickMott: I think you forgot your stones were in atari.
+
+You need to start making some territory on the left or top.]
+;W[hl];B[ii]C[Things are starting to look bad .. All I have going for me is my handicap stones above .. I don't think I realized that during the game though.
+
+Still pretty much optimistic.
+
+RickMott: Yes, but you have to stop playing right next to your opponent's stones and make some bigger moves.  The top is wide open for either side right now.]
+;W[ik]C[RickMott: Fortunately, your opponent is following you, but a stronger player would leap at the chance to get a stone around K17.]
+;B[kj];W[kk];B[lj];W[mk];B[nj]C[Idiot move!
+
+RickMott: No, it's OK...];W[nk]C[Punished!]
+(;B[ol];W[ok];B[pk]C[RickMott: Of course, you do have to notice that white's four stones are in atari... :)]
+;W[pj];B[qj];W[rm];B[pi];W[oj];B[oi];W[qi];B[ri];W[qh];B[rh]
+;W[ni]C[White is cutting me like butter now .. How should I have kept this situation contained and still save O6?
+
+RickMott: It's still OK for you.  Don't worry about a couple of stones.    Connect out and make territory in the upper right.  See variation.]
+
+(;B[mj];W[oh];B[qg];W[ph];B[qf]C[RickMott: Ok, but not as much territory as the variation I showed you, and white has sente so you don't get to make the move at the top.  White should play around F17 now.]
+;W[pc];B[qc];W[oc];B[od];W[nc];B[fj];W[gk];B[gj]C[RickMott: Good sequence.  You complete one wall of your moyo in the upper left.]
+;W[sk]C[RickMott: Terrible move!  You should ignore this and extend on the top.]
+;B[sj];W[qb];B[rc];W[rb];B[sb];W[qd];B[rd];W[ji];B[jh];W[ki]
+
+(;B[li];W[kh]C[Realize ladder will fail..]
+(;B[lh]C[RickMott:   Getting sente to complete the top left moyo is bigger than 12 points.  So extend up to K13.   See variation.]
+;W[kg]C[RickMott: This is bad for you, because your moyo is reduced and you still can't save the (now 7) stones.]
+;B[lg];W[lf];B[kf];W[jg]C[From here on everything goes bad ..]
+;B[ig];W[jf]C[SigmaD [16k\]: misclicked
+
+Really did ..];B[ih];W[mg];B[mf]C[Want to make him finish L14.
+
+RickMott: Better to atari J14 to make your moyo stronger.];W[le]
+C[But he of course want to connect];B[ke]C[No real plan here.]
+;W[je]C[RickMott: Now you lost the atari, so your moyo is much reduced.]
+;B[kd];W[ld];B[ne];W[nd];B[oe];W[kc];B[ng];W[mh];B[og];W[pg]
+;B[pf];W[me];B[nf]C[RickMott: All these small moves while the upper left is still wide open!  20 extra points for the first move there for either side.]
+;W[mi];B[hd]C[Desperately I do what I should have done much earlier ..
+I guess I still want to beleive that is mostly my territory.
+
+RickMott:  This is a good move, but you are so far behind now that it's very hard to catch up. and the remaining potential is not big enough.]
+;W[jd];B[ic]C[RickMott: Small move.  You must play to hold the corner, maybe C16 or C14.]
+
+(;W[ec]C[RickMott: wrong place.  Follow standard 3-3 invasion in the variation and do "score estimate".  White wins by 2.5 points.]
+;B[ed];W[fc];B[gd]C[RIckMott: D17 to protect the corner is bigger, and you can attack the stones' eye space.  White's approach was not good.  He could just have invaded the standard 3-3 and probably gotten enough to win.]
+;W[gc];B[hb]C[RickMott: D17 both reduces his eye space and protects your corner.  This just reduces his eye space.]
+;W[dc];B[cc];W[cb];B[cd];W[bc];B[bd];W[ac];B[ad];W[he];B[ge]
+;W[hf];B[hg]C[RIckMott: No, just keep going along G line (G14).]
+;W[gf];B[ff];W[gg];B[gh];W[fg];B[eh]C[RickMott: Not sure what you were thinking, but this does no good.  You might have won if you'd just defended the on the G line.  Besides, white's corner group is not yet alive... (stay tuned)]
+;W[eg];B[dg]C[And now I realize I'm lucky to keep any of it the way I'm playing.]
+;W[ef];B[fe];W[df];B[cg];W[cf];B[bg];W[bf];B[af];W[fh];B[ei]
+;W[fi];B[gi];W[if]
+(;B[gb]C[RIckMott: You can kill here, but this is the wrong way to start.  See variation.]
+;W[fb];B[fa];W[ea];B[jb];W[ga];B[ha];W[fa]C[I just realized GnuGo thinks I should win by 10 points here .. Is GnuGo wrong or can you explain why that is?
+
+RickMott: Maybe it knows you can kill the corner (see variation)... :)]
+
+(;B[kb];W[lb];B[la];W[ma];B[ka];W[mb];B[id];W[jc];B[hc];W[fd]
+;B[ee];W[be];B[ia];W[bb]C[I could have invaded there any time I liked .. well, well.
+
+RickMott: Not just "invaded", killed the group!
+
+Before that move GnuGo had me as winner .. But now its all for White..
+
+RickMott: Then it really did recognize that you could kill the corner!  I'm impressed.  Kudos to a lot of programmers...]
+;B[js];W[ks];B[sa];W[ae];B[dh];W[ag];B[ah];W[af];B[bi];W[dj]
+C[This is a killer .. it still sickens me..];B[cj]C[RickMott: I don't get it.  Why didn't you just connect at E10?  White can't possibly live, and you have two eyes.]
+;W[hh];B[ej];W[hi]C[SigmaD [16k\]: nice];B[ra];W[qa];B[sc];W[pb]
+;B[ie];W[hp];B[ip];W[qs];B[bm]C[Unnecessary I guess..
+
+RickMott: Cost you one point, but you were way behind anyway.]
+;W[rf];B[qe]C[RickMott: No need to respond.  Take the point and say thank you. :)]
+;W[tt];B[tt]TW[aa][ba][ca][da][na][oa][pa][ab][db][eb][nb][ob]
+[lc][mc][kd][md][ke][kf][hg][ig][lg][ih][jh][lh][ii][li][oi]
+[pi][jj][kj][lj][mj][nj][il][jl][hm][im][sm][ro][so][sp][lq]
+[mq][pq][rq][sq][ar][br][lr][mr][nr][pr][rr][sr][as][cs][ds]
+[ls][ms][os][ps][rs][ss]TB[ja][ib][qd][sd][pe][re][se][of][rf]
+[sf][rg][sg][bh][ch][sh][ai][ci][di][si][aj][bj][dj][rj][ak]
+[bk][ck][dk][qk][al][bl][am][cm][dm][an][dn][bo][oo][gp][hp]
+[gq][hq][ir][hs]C[Sakugawa [14k\]: thx
+SigmaD [16k\]: gg])
+(;B[bb];W[db];B[ca];W[da];B[ba]C[Dang.  GnuGo must be smarter than I thought.  At the end of this variation, KGS has you up by 8.5]
+))
+(;B[bb]C[RickMott: Take away the corner...]
+(;W[da];B[eb]C[If white plays here, take the vital point.  No way to get 2 eyes.]
+)
+(;W[db];B[ea]C[A solid connection fails to the monkey jump.]
+)
+(;W[eb];B[gb])))
+(;W[cc];B[cd];W[dc];B[ec];W[eb];B[fc];W[fb];B[gc];W[bd];B[be]
+;W[bc];B[cf];W[ae];B[af];W[ad];B[gb];W[da]))
+(;B[jg]C[RickMott: This threatens to make the ladder work, so you keep sente.  Very important.]
+;W[fc]C[RickMott: If white decides not to respond locally and invade now...]
+;B[lh];W[kg];B[kf];W[lg];B[mg];W[lf];B[le];W[mf];B[nf];W[me]
+;B[md];W[ne];B[nd];W[oe];B[of];W[pe];B[qe]C[Voila!]))
+(;B[kh];W[li];B[lh];W[mi];B[jc]C[RickMott: How's this?  We're looking at a 90-point moyo here.  You won't get all of it, of course, because White will invade somewhere.  But you ought to get net 50, which might be enough to win.]
+))
+(;B[qg];W[ph];B[oh];W[pg];B[pf];W[og];B[qf];W[nh]C[RickMott: white's stones weren't safe, so he has to spend a move protecting them.]
+;B[jc]C[RickMott: Your P5 group is connected out, and you have some territory in the top right with potential on the top and left.  This is playable.]
+))
+(;B[ok];W[ol];B[rm]))
+(;W[qm]
+(;B[ql];W[pm];B[on];W[rl])
+(;B[pm];W[ql]C[RickMott: Your two stones die.])
+(;B[rl]C[RickMott: Painful, but the only possible escape.];W[ql]
+;B[rk];W[qk];B[rj];W[om];B[on];W[ok]C[RickMott: White is out, who knows where it goes from here, but you no longer have a nice secure right side.]
+)))
+(;B[qp];W[po];B[qr];W[rq];B[qo]C[RickMott: Now white faces a dilemma.  Either he loses the corner or the three stones at Q4-Q5-P5.]
+))
+(;B[po];W[qp];B[qo];W[ro];B[rn]
+(;W[pn];B[qn];W[sp]C[RickMott: White cannot connect, or you get a ladder.]
+)
+(;W[on];B[om];W[pn];B[qn]C[RickMott: same ladder])))
+(;B[lp];W[mo];B[mq];W[lq];B[mp];W[mr];B[ks];W[lr];B[no];W[mn]
+;B[nn];W[mm];B[op];W[nq];B[pq];W[np];B[po]))
+(;B[jj]LB[hj:A][jj:B];W[jl];B[hk];W[gj];B[hj];W[ii];B[hi];W[hh]
+;B[gi]C[Guess so..]))
+(;W[ko];B[ir]C[RickMott: I think this is the only move to get two eyes,  but white will get a huge wall on the outside.]
+;W[jr];B[is]))
+(;W[jo]C[RickMott: I'm pretty sure this move kills your stones, because it threatens capture at J4.]
+;B[ip];W[jp];B[iq];W[jr];B[ir];W[is]C[RickMott: You only have one eye.  Try other variations, but I don't think they work for you either.]
+))
+(;W[hp];B[io];W[iq]C[RIckMott: Here or J4, they both work and your bottom stones are history.]
+))
+(;W[gm]C[RickMott: First White forces to get some extra liberties.]
+;B[bm]C[RickMott: Capture is probably the best answer, but...]
+;W[hq]C[RickMott: What do you do now?  White is threatening a snapback at G2.]
+
+(;B[gr]C[RickMott: If you connect to prevent the snapback...]
+;W[iq]C[RickMott: white is out and your bottom stones are unlikely to escape capture.]
+)
+(;B[hp]C[RickMott: If you try to prevent snapback this way...]
+;W[gq]C[RickMott: You're in atari when white connects and your bottom stones are still in trouble.]
+;B[gr];W[iq])))
+(;B[es]LB[es:B][gs:A];W[ds];B[bs];W[es];B[hr];W[gr];B[gq];W[gs]
+;B[hs]))
+(;B[cr];W[cp]C[RickMott: are you worried about this atari?]
+;B[do]
+(;W[co];B[dn];W[er]C[RickMott: Otherwise you capture and connect your stones.]
+;B[fq]C[RickMott: Now this fight is ugly for White.  You threaten to take his three stones at the bottom, or attack the two stones on the left with C6 followed by a net of the cutting stones E4-E5.]
+)
+(;W[er]C[RickMott: If white ataris here...]
+(;B[co]C[... drive this stone to the edge and be content.];W[bp]
+;B[bo])
+(;B[fq]C[RickMott: DON'T connect here or you will be in trouble.]
+;W[bp];B[en]C[RickMott: you have this ladder, but...];W[br]
+C[RickMott: White takes the corner.  This is not terrible, but your position on the left is now open underneath, and white can play a ladder breaker in the top right later in sente.]
+))))
+(;B[eo];W[fp];B[cq];W[dr];B[cp];W[cr];B[br];W[er];B[dm]C[RickMott: Nothing fancy here, maybe not even optimally efficient for you, but it works with your handicap stone while White's potential at the bottom is smaller and lower.]
+))

@@ -1,0 +1,148 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.16]
+
+PB[GreenStick]
+BR[11k]
+PW[cctruc]
+WR[11k]
+KM[6.5]
+DT[2013-03-17]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[W+6.5]
+TM[1500]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+C[GreenStick [11k\]: hi gg
+cctruc [11k\]: hi
+
+Reviewers Comments:
+I think you spent too much time on the center rather than developing and protecting your sides.  Try to find the 'big' moves.  One guideline to consider is if a move:
+
+extends your territory
+reducess your opponents territory
+strengthens your stones
+weakens your opponent's stones
+
+it's a great move.  If it only does 3 of these it's a good move.  If only 2 maybe a fair move, only 1 not so good.  None of them - seek some lessons!
+
+You missed an opportunity to split Black's left side but got lucky with the top right corner invasion.
+
+Check my comments and some variatons within the game: I hope they help.
+
+Thanks
+Robert];B[pd]C[cctruc [11k\]: gg];W[cp];B[pq];W[dc];B[pk];W[mc]
+;B[jq];W[jd];B[qf];W[pn];B[qo];W[ql];B[qk];W[qn];B[po];W[nm]
+;B[eq];W[gq];B[do];W[dp];B[ep];W[co];B[dn]LB[cm:A][dq:B][dr:C]
+C[If you think you have to make an empty triangle with B, it's time to look to see if you can come up with a better move, perhaps A (my pref) to avoid being enclosed or C to hold the corner.]
+;W[dq]TR[cq];B[gp];W[er];B[fr];W[dr];B[fq];W[ro];B[rp];W[rn]
+;B[qq];W[oo];B[ce];W[pp];B[cj];W[ee];B[cc];W[dd];B[cd]LB[oq:A]
+
+(;W[nq]C[You could keep up the pressure on B's lower right corner better with P3 - see variation.  It shoud be painful for B to run along the bottom]
+;B[oq];W[qp];B[rq];W[np];B[cn]C[See how this is a big point for Black working nicely with C10.]
+;W[cb]TR[pb][ne][eg][qh]C[Too slow IMO and loses sente.  I think there are opportunities to attack B on the top right instead with the marked moves or on the left to reduce the Black moyo.  You might be able to get both attacks in to build up your top moyo.]
+;B[bb];W[db];B[jj];W[ej]TR[dg]C[Too far.  D13 does more.];B[me]
+TR[dg]C[Attack!];W[jg]C[Slide into the corner first.  You can attack the center later.]
+;B[dg]TR[pb]C[Still];W[hj]TR[fg]C[Black at J11 threatens this weak move.  F13 grows your moyo at Black's expense.]
+;B[il];W[ni];B[kh];W[lf];B[mf];W[lg];B[lh];W[mg];B[pi];W[og]
+;B[fg];W[ge];B[ih];W[jh];B[ji]
+(;W[hh];B[ig];W[hg];B[jf];W[kg];B[ke];W[le];B[hf];W[ii];B[if]
+;W[gf];B[kd];W[je];B[jc];W[id];B[ic];W[hd];B[md];W[kf];B[ld]
+C[Black has gained much more on the upper side territory than I think White has in the middle.  (Priorities are corner-sides-center).]
+;W[qh];B[nk];W[lj];B[ll]
+(;W[mk];B[ph];W[gl];B[ml];W[nl];B[qg];W[qi];B[qj];W[hc];B[hn]
+;W[kn]TR[ln]C[M6 is more profitable.];B[ln];W[lo];B[km];W[ki]
+;B[ij];W[hi];B[ko];W[mn];B[jn];W[lq];B[lp];W[mo];B[kq];W[lr]
+;B[hk];W[dl];B[cl];W[gk];B[mj];W[mi];B[pg]
+(;W[mh]C[A misclick?];B[lk];W[dk];B[ck];W[dm];B[cm];W[dh];B[eh]
+;W[di];B[ch];W[ci];B[bi]SQ[bh]C[Looks like the cut either threatens Black's corner or severly reduces Black's left side.  See variation.]
+
+(;W[cg];B[bh];W[df];B[kj]C[You don't have to save the 2 stones it's relatively small compared to hitting on Black's top left.  See variations.]
+
+(;W[li];B[dj];W[ei];B[bg];W[cf];B[bf];W[bd];B[bc];W[bn];B[bm]
+;W[bo];B[kc];W[em]C[There's that empty triangle again.];B[eo]
+;W[js];B[hr];W[or];B[pr];W[os];B[ps];W[nr];B[rr];W[pl];B[hb]
+;W[gb];B[ia];W[rk];B[rj];W[fn];B[go];W[fo];B[fp];W[hm];B[im]
+;W[hl];B[ik];W[gn];B[io];W[ir];B[kr];W[ks];B[iq];W[fs];B[gs]
+;W[es];B[gr];W[sl];B[sj];W[nj];B[ok];W[ba];B[de];W[ef];B[sk]
+;W[rl];B[ol];W[om];B[oh];W[ng];B[jr]
+(;W[of];B[oe];W[pf];B[is];W[ls];B[an];W[ao];B[am];W[oj]C[Look for better places to push on Black's walls.]
+;B[mm];W[pe];B[qe];W[ne];B[od];W[nf];B[nd];W[ab];B[be];W[aa]
+;B[ac];W[ca];B[so];W[sn];B[sp];W[mk];B[ga];W[fb];B[fa];W[ea]
+;B[ha];W[mj];B[en];W[fm];B[mp];W[mq];B[kp];W[qc];B[pc];W[re]
+;B[qd];W[rh];B[pj];W[qb];B[rd];W[rc];B[pb];W[sd];B[rf];W[ra]
+C[You got lucky here!];B[se];W[sb];B[sc];W[qa];B[pa];W[op];B[sd]
+;W[tt];B[tt]TW[da][sa][eb][rb][ec][fc][gc][ed][fd][gd][fe][he]
+[ie][ff][hf][if][jf][dg][eg][fg][gg][ig][eh][fh][gh][ih][kh]
+[lh][fi][gi][fj][gj][ek][fk][el][fl][gm][pm][qm][rm][sm][nn]
+[on][no][po][qo][ap][bp][aq][bq][cq][ar][br][cr][mr][as][bs]
+[cs][ds][ms][ns]TB[ja][ka][la][ma][na][oa][ib][jb][kb][lb][mb]
+[nb][ob][lc][mc][nc][oc][ad][bd][ae][re][af][sf][ag][rg][sg]
+[ah][qh][rh][sh][ai][qi][ri][si][aj][bj][ak][bk][jk][kk][al]
+[bl][jl][kl][jm][lm][in][kn][ho][jo][hp][ip][jp][gq][hq][sq]
+[ir][qr][sr][hs][qs][rs][ss]C[GreenStick [11k\]: ty
+cctruc [11k\]: tks!
+cctruc [11k\]: such a nice game
+cctruc [11k\]: thanks a lot
+GreenStick [11k\]: gg
+GreenStick [11k\]: yeah
+cctruc [11k\]: you play very well!!
+GreenStick [11k\]: damn that corner gave it to u
+GreenStick [11k\]: :)
+GreenStick [11k\]: u2
+cctruc [11k\]: yeah...
+cctruc [11k\]: i had to try..
+cctruc [11k\]: tks!
+GreenStick [11k\]: wd on that!
+cctruc [11k\]: yeah
+GreenStick [11k\]: was quite a come back for white
+cctruc [11k\]: were r u from?
+cctruc [11k\]: yeah
+GreenStick [11k\]: south africa
+GreenStick [11k\]: and u?
+cctruc [11k\]: nice
+cctruc [11k\]: brasil
+GreenStick [11k\]: bom
+cctruc [11k\]: hahah
+GreenStick [11k\]: como estas
+cctruc [11k\]: muito bem
+GreenStick [11k\]: thats the only portugese i know ^^
+cctruc [11k\]: hahaha
+cctruc [11k\]: thats awesome already
+GreenStick [11k\]: haha\]
+GreenStick [11k\]: well gg
+GreenStick [11k\]: glad to see im
+cctruc [11k\]: gg!
+GreenStick [11k\]: not the only player in the southern hemisphere
+cctruc [11k\]: say the same
+cctruc [11k\]: huahuahuahuahu
+cctruc [11k\]: yeah
+GreenStick [11k\]: wat time is it in brasil now
+cctruc [11k\]: 11 pm
+cctruc [11k\]: how about there?
+GreenStick [11k\]: 4am
+cctruc [11k\]: wow..
+cctruc [11k\]: you should be sleeping
+cctruc [11k\]: haha
+GreenStick [11k\]: but instead im losing at go!
+GreenStick [11k\]: but it is a pleasure
+cctruc [11k\]: hahahha
+cctruc [11k\]: come on
+GreenStick [11k\]: with such a respectable opponent
+cctruc [11k\]: i was lucky in the last part
+cctruc [11k\]: well
+cctruc [11k\]: have a good night(?)
+cctruc [11k\]: see you!
+GreenStick [11k\]: u2 comrade
+cctruc [11k\]: bye
+GreenStick [11k\]: bye bye])
+(;W[oe]))
+(;W[bg];B[bf];W[cf]C[Black can't connect under.];B[be];W[ah]
+
+(;B[aj];W[ba]C[Black dies.])
+(;B[ba];W[bj]C[or white profits.])))
+(;W[bh];B[cg];W[bj]))
+(;W[oh]))
+(;W[qg]C[Break up Black's side with this variation and get a chance to attack the corner.]
+))
+(;W[ig];B[hh]))
+(;W[oq];B[or];W[nq];B[nr];W[mq]))

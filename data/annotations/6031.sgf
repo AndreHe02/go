@@ -1,0 +1,140 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]VW[]
+
+PB[quantumf]
+BR[4k]
+PW[laskif]
+WR[3k]
+KM[0.5]
+DT[2007-08-04]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[W+16.50]
+TM[1200]
+OT[25/900 Canadian]
+RU[Japanese]
+
+C[I am black in this game. My opponent played mirror go for the first 20 odd moves, which was a bit unusual. However, the opening was pretty even. However, moving into the middle game, I felt I made some slow strategic moves and possibly some incorrect tactical moves, with the result that some arguably unreasonable didn't get punished sufficiently.  Actually identifying them is a little more difficult, tho. Any advice would be gratefully received. 
+
+A: Hi, Im Andreas, I didnt play much Go recently so I might be a bit rusty. The last time I played on KGS, I was somewhere between 2 and 3 dan. My comments are marked with an "A:". This review was made with cgoban
+
+A: One of the important points I noticed is that You answered "sente" endgame moves of your opponents during the early middle game. You have to learn when to tenuki in these situations. In the middle game, Your way of thinking should be: "does this group get endangered if I dont answer?" If the group isnt in danger, look for a bigger place to play. 
+
+A: All in all it can be said that You tended to play a bit submissively on several occasions.]
+;B[pd];W[dp];B[cd];W[qp];B[ic];W[kq];B[dj];W[qj]C[A: the first non-mirror move]
+;B[cn];W[qf];B[fq]C[Is this the appropriate move? is O16/O17 the better move under these mirror go circumstances?
+
+A: I think blacks position is slightly better after Your move because D10 is higher and has more impact on fighting than R10.]
+;W[nc];B[pf]C[Is attaching to the stronger stone like this appropriate in the situation?
+
+A: If You want to attach, attaching to the r14 stone is the right decision. On the other hand, If you just move out at P15, a weakness at r12 remains, which could be exploited later, not only by directly invading there but also by entering the lower right.]
+;W[pg];B[of];W[qc];B[pc]C[black starting to feel a bit over-concentrated..]
+;W[qd];B[qe];W[re];B[pe];W[rg];B[eo]C[This feels bigger than sealing in O17
+
+A: it is bigger];W[cq]C[Is it possible to kill C3?];B[md]C[A: this is not urgent, id prefer entering the lower right, to isolate the L3 stone.]
+;W[pb];B[ob];W[qb]
+(;B[oc]C[A: too early this is only endgame. See variation.]
+;W[kd];B[lc]C[Is this too slow?
+A: its strengthening white if white answers];W[oa];B[na];W[pa]
+;B[nb]C[A: This is really unnecessary, white cutting here is only about 5 points. If You want to defend, defending L17 is bigger. This is already the second time You answer an early endgame play.]
+;W[og];B[ng];W[mg]C[This feels like an overplay?
+
+A: it is, B has to split];B[nh];W[mf];B[nf]C[A: bad shape for w]
+;W[ie];B[gd];W[ed]LB[dc:A][gf:B]
+(;B[dc]C[Would cutting throught at G14 be better? It would allow white to settle in the corner?
+
+A: Id prefer G14 for more pressure on white];W[ge];B[fd];W[fe]
+
+(;B[ec]C[A: think about cutting at E15 instead.];W[hd];B[hc]
+;W[kc];B[lb]C[Black has settled on the top, but on 2nd and 3rd line, so it feels pretty successful for white
+
+A: m18 was unnecessary (submissive again), P4 is still big, D14 the biggest move on the right.]
+;W[me]
+(;B[ne]C[A: again, no need to answer, or if You answer, do so at L18.]
+;W[oq]C[A: w seems to prefer low moves. Nevertheless, the lower right is very big.]
+;B[oo];W[np]
+(;B[qo];W[ro];B[pp]C[A: see variation];W[qq];B[no];W[qn];B[pn]
+;W[pq]
+(;B[nm]LB[do:A]C[A: too close];W[do];B[dn];W[ep]
+(;B[fo]C[A: This is a big shape mistake, You must not let white connect and take all the lower side unless any cut-off group has no chances of escaping. See variation.]
+;W[fp]
+(;B[go]C[It feels like white has got away with too much here?
+
+A: yes, see comment at move 71 and both variations.];W[gp]LB[de:A]
+[df:B]
+(;B[de]C[Perhaps at D14 instead?
+
+A: D14 is slightly better but I dont think the difference matters much.]
+;W[ch]
+(;B[eh]C[Is the cap correct here? It feels like it will help strengthen an attack on the floating white stones in the middle, but it costs a lot of territory that black was counting on.
+
+A: even if B plays c10, I dont see how white could connect with one move. It might be better to take away whites base and start a splitting attack.]
+;W[eg]
+(;B[dg]C[Is this the correct tactical option?
+
+A: maybe the clamp at e14 is better.];W[dh]
+(;B[df]C[A: better atari];W[ei];B[fh];W[ej];B[dk];W[di];B[fg]
+C[Is this too nervous? I can take away white's base, but don't want E12 to get chased/killed?
+
+A: whites stone can still escape, If You want to capture, F14. I dont think that there is a good way to put pressure on the white left side group.]
+;W[cj];B[ck];W[bi];B[bk]C[Is this correct?];W[bg];B[bf];W[bj]
+;B[hf];W[if];B[he];W[hg];B[gf];W[ig];B[pi]C[Is this poor? It's probably too small under this circumstances, as white's central group is still weak.
+
+A: whites central group doesnt look that weak to me. Q11 is a move that does nothing.]
+;W[gi];B[qi];W[rj];B[mp];W[mq];B[lp];W[ho];B[lq];W[hn];B[fm]
+;W[bo];B[bn];W[el];B[ek];W[fl];B[fk];W[gl];B[gm];W[hm];B[gk]
+;W[hk];B[em];W[dl];B[cl];W[li]C[Letting white get something in the middle has left black well behind.]
+;B[dm];W[hl];B[kk];W[km];B[ll];W[jj];B[lr]C[A: N2 instead];W[jr]
+;B[kj];W[ki];B[qm];W[po];B[op];W[nq]
+(;B[qo];W[rn];B[os];W[ko]C[white is about 15-20 ahead by now, and nothing changes particularly between now and the end, so no further comments are necessary (unless there are some endgame tesuji's that I missed)]
+;B[kp];W[jp];B[kr];W[jq];B[js];W[is];B[ks];W[ir];B[ao];W[bp]
+;B[jk];W[ij];B[jm];W[jn];B[mh];W[lh];B[ri];W[lm];B[mm];W[mk]
+;B[ml];W[mj];B[pj];W[rm];B[ql];W[rl];B[qk];W[rk]C[A: It seems both of  You forgot L18, which is obviously very big. M15 might be second.  No comments after this move, only some small endgame variations.]
+;B[ln];W[lo];B[mo];W[ok];B[pk];W[ol];B[kl];W[kn];B[mn];W[im]
+;B[om]C[A: the cut doesnt work but its complicated];W[ms];B[mr]
+;W[nr];B[ns];W[ps];B[ls];W[or];B[ms];W[oi];B[oh];W[ph];B[oj]
+;W[ni];B[nk];W[nj];B[nl];W[jb];B[ib];W[id]
+(;B[jc];W[kb];B[jd];W[ke];B[je];W[kf];B[jf];W[jg];B[gc];W[af]
+;B[be];W[ak];B[al];W[ld];B[mi];W[lj];B[gj];W[gh];B[ff];W[jl]
+;B[hj];W[hi];B[aj];W[ai];B[cg];W[fi]
+(;B[mc];W[ik];B[rh];W[qg];B[sg];W[sf];B[sh];W[rc];B[qh];W[rf]
+;B[ae];W[ag];B[co];W[ap];B[cp];W[br]
+(;B[ka];W[ja];B[la];W[ia];B[ha];W[an];B[am];W[gn];B[fn];W[sj]
+;B[dq];W[eq];B[dr];W[cr];B[er];W[fr];B[gq];W[hp];B[gr];W[fs]
+;B[gs];W[aq];B[lk];W[lg];B[tt];W[po];B[rd];W[sd];B[qo];W[ak]
+;B[po];W[aj];B[ao];W[gg];B[ef];W[an];B[pr];W[qr];B[ao];W[ga]
+;B[hb];W[an];B[qs];W[rs];B[ao];W[gb];B[ee];W[an];B[bh];W[ah]
+;B[ao];W[tt];B[an];W[tt];B[tt]TW[qa][ra][sa][rb][sb][sc][rd]
+[le][se][lf][kg][bh][hh][ih][jh][kh][ci][ii][ji][sk][il][sl]
+[jm][sm][in][sn][io][jo][so][ip][rp][sp][bq][dq][fq][gq][hq]
+[iq][rq][sq][ar][dr][er][gr][hr][pr][rr][sr][as][bs][cs][ds]
+[es][gs][hs][qs][ss]TB[aa][ba][ca][da][ea][fa][ga][ma][ab][bb]
+[cb][db][eb][fb][gb][mb][ac][bc][cc][fc][nc][ad][bd][dd][ed]
+[nd][od][ce][fe][ge][oe][cf][eg][ok][bl][ol][pl][bm][cm][pm]
+[en][nn][on]C[laskif [3k\]: thx
+quantumf [5k\]: thanks])
+(;B[la]))
+(;B[la]))
+(;B[kb]))
+(;B[rn];W[qo]))
+(;B[ef];W[ei];B[fg]))
+(;B[ef]))
+(;B[cj];W[eg];B[ef];W[fg];B[ff];W[gg];B[gf];W[hf];B[hg];W[hh]
+;B[ig];W[ih];B[jg];W[jh];B[kg];W[kh];B[je]C[A: W still has to protect the cut at m12]
+))
+(;B[df]))
+(;B[gp];W[go];B[hp];W[gn];B[fm];W[io];B[jp];W[ip];B[jq];W[iq]
+;B[ir]C[This is worse than the first variation but still, white cannot take all the bottom.]
+))
+(;B[fp];W[fo];B[en];W[go];B[hp]C[Nothing for B to be afraid of]
+))
+(;B[nl]))
+(;B[hf]C[A: ok, I wouldnt see this during one of my own games, but watch this ;)]
+;W[he];B[qo];W[ro];B[rp];W[qn];B[po];W[rq];B[rn];W[sp];B[qm]
+;W[pn];B[pm];W[on];B[nn];W[om];B[ol];W[nm];B[mm];W[nl];B[nk]
+;W[ml];B[ll];W[mk];B[mj];W[lk];B[kk];W[lj];B[li];W[kj];B[jj]
+;W[ki];B[kh];W[ji];B[ii];W[jh];B[jg];W[ih];B[hh];W[ig];B[if]
+))
+(;B[kb];W[ne];B[nd]))
+(;B[ee]))
+(;B[gf]C[A: this looks better];W[cc];B[bc];W[dc];B[be]))
+(;B[op];W[oc];B[mc];W[nb];B[nd]C[Black is strong in the center, white has not gained much.]
+))

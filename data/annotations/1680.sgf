@@ -1,0 +1,188 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.13b]
+
+GN[spHyx-Stepenwolf(B) IGS]
+PB[Stepenwolf]
+PW[spHyx]
+WR[26k]
+KM[0.5]
+DT[2001-10-29]
+PC[IGS:  igs.joyjoy.net 6969]
+RE[W+119.50]
+TM[300]
+RU[Japanese]
+US[Brought to you by IGS]
+
+C[Hello,
+
+I play black. My questions :
+
+Please give me an analysis of the opening.
+
+I have the feeling that around move 30, I have seriously missed the opening.
+
+Black : * maybe 20 points upper left side
+        * not sure about right upper corner (as will show later in game...), 15 to 23 points
+        * middle right side 10 points
+        = total 50 points
+
+White : * upper side 8 points
+        * lower side 65 points
+        * right side 5 points
+        = total 78 points
+
+I am especially interested how White went from invading the upper right corner ending (temporarily) at move 51, to the sequence of attacking my middle right side group until move 71, and how I should have defended.
+
+A last question is about what happened around move White 94.
+
+Many thanks for the review...];B[pd]C[Hi Michel,
+
+I've always considered the fuseki to be the weakest part of my game so I'm going to have a bit of trouble explaining what went wrong.  I quite like the elemntary go series book "In the Beginning" which you might want to try.  You could also do with "The direction of play" though it is a bit advanced.
+
+Also, I've forwarded this review on to be reviewed, I particularly wasn't happy with my description of the fuseki and I'm hoping somebody stronger than me can make it simpler.]
+;W[pp];B[cd];W[dp];B[jc]C[J17 is more common than K17 after C16 but K17 is fine]
+;W[jp];B[pj];W[pf]C[ok, white is agressive.  E16 would have been a more common invasion point because generally if you invade where b is strong you get fewer points.
+
+There are three moves that immediatly jump to mind for me:   O16 forces W up and then you can expand around Q10, perhaps to Q7.
+
+R16 encourages R14, then O16, then O14 and then you expand to Q7 or possibly R7.  The only problem with this is after O16 w might decide to attack Q10.
+
+Q7 directly, and leave w to make a second move in the corner, probably O17, encouraging O16, N16
+
+I've written the variations I see out and entered them in.  I've done both so you get an idea of how far you need to read without playing (only one or two moves in the fuseki because there are so many variations) but I've played the variations a bit further to give you an idea of what direction they will develop.]
+
+(;B[nc];W[qi];B[qj];W[pi];B[qn]C[a little too far given you've got pressure from both directions]
+;W[pn];B[pm];W[on];B[om]C[careful of the R7 cut.. you're ok currently, just given the importance of eyespace right now it is something to bear in mind]
+;W[qo]
+(;B[rn]C[P11 might have been better here, see variation.  Since your group and white's group are both weak here it is a very big point]
+;W[ec];B[dc]C[ok, I would have played G7 personally to emphasise the top, or D13 or D14 in slightly different situations.  The choice of D7 says you want to keep the side and sacrifice the top]
+;W[hc];B[ie]C[j15 is slightly odd, normally you would C14 or E16 here
+J15 is useful if K17 is weaker, but especially since Q14 minimises the moyo I don't like it much]
+;W[fe];B[df]C[slightly odd, but ok];W[dj]C[you need to invade the lower side now]
+
+(;B[ch]C[better to invade on the other side (C7 etc), your corner is safe enough for the moment and enlarging it isn't good
+W just responds C10];W[cn]C[I prefer C10 to c17 but the idea is the same.  B cannot afford to give w almost half the board without a fight so w readies themself to make the fight as unpleasant for b as possible.  There are no trivial invasions anymore]
+
+(;B[cj]C[
+?? Extremely poor move...
+
+no, not extremly poor, the only thing I'd be worried about is you're strengthening winfluence on the points around G4 by cutting off your escape route.
+If w plays D9 and BC9 then you can see an invasion at F3 would now be extremely deep and lucky to live
+
+lets look at the score at this point -- w has from A1 to R5 mostly under their conrol.  you can invade at several places (C3,F3,F4, K3, N3,N4) but they're going to get a heap of points there, probably around 40.
+
+On the right b has under 10 points, while w doesn't have any.
+
+On the top right B has around 18 pts,
+Then white has 2 - 4.
+
+then on the left side b has 20 pts perhaps.
+
+So very roughly I'd say the score was close on the board, but since w has sente I'd say w is ahead by around 10]
+;W[ck];B[di];W[fg]C[that went well, F13 is an escaping move because w is worried about eyespace.  if w had played E10 instead I'm not sure you could have killed the top in one move]
+
+(;B[ig]C[I don't like this, you're pushing w towards their own strength and the moyo you're developing is being neutralised by w's right group]
+;W[ni]C[O11 was good, P11 was a big move by b];B[nj];W[ej];B[oe]
+C[the middle is small, you're better invading the lower side, or trying to steal eyespace from the right group]
+;W[of];B[mf]C[I don't like this move, it encourages w to play a move like r16 and gobble the rest of that side]
+;W[ei]
+(;B[dg]C[that wasn't necessary, w is now safe at the top, and has an enourmous moyo in the bottom.  If they secure the right you might have to resign]
+;W[eh];B[dh]C[again, why?];W[ne]
+(;B[md]C[you needed to cut O15 off];W[pe];B[od];W[qd]
+(;B[pc]C[R17 instead, you need to put pressure on R16 or w will make it strong in sente]
+;W[qc];B[qb];W[nm]C[this is very painful now, w is alive on the right, connected and alive from the top to the bottom and now they are reducing or killing your right group.
+
+So what went wrong?  Well, you didn't invade the bottom early enough, and you've made gote responses when all w was doing was securing their stones.]
+;B[mi];W[oj];B[ok];W[oi];B[mk]C[ah, good.  w lost a lot there]
+;W[ql]C[heh, greedy ;-)]
+(;B[qm]
+(;W[rl]LB[qk:a]C[Here, Black will answer at 'a'. This is very bad reading....as the sequence from 52 to 70 will show :  a disaster. Black thought the zone was his...]
+
+(;B[qk];W[sj];B[rj];W[ri];B[sk];W[pl]C[now you realise... nice by w]
+;B[ol];W[pk];B[si];W[rk];B[ml]C[ok, though I'd have taken the more cautious N12 personally
+
+Remember P9 etc were always connected to N9 so this move is designed to attack the lower side.  the problem is w cna N12 now]
+;W[mm];B[kl];W[kn];B[il];W[ij]C[miscalculation by w, G6 is bigger]
+;B[jj]C[I think I'd invade instead of defending];W[ii];B[ji]
+;W[ih];B[jh];W[jg];B[jf];W[kg]
+(;B[kh]C[no, don't form bent triangles.  N13 or perhaps M13 instead]
+;W[lg];B[lh];W[mg];B[me]C[score now is around W+70,unless you can make something huge from J8 really fast you're going to have to resign]
+;W[nf];B[lf];W[nd];B[lc]C[best to play N17 if this is where you think the weakness is.  Actually J15 means N16 isn't in much danger.  If W plays N17 and B plays Q18 then W L14 then b can safely play L15]
+;W[pb]C[
+ Stepenwolf NR : ich hatte gerade gedacht, ich muss p18 spielen, jetzt zu spaet :)
+
+Ummm, yes, too late now.  but it isn't a massive loss, only 5-6 points, and if you play it right you should get sente]
+;B[oc];W[rb];B[ob];W[qa];B[pa]C[!!?
+
+apart from this you were doing well.  G7 was much bigger than P18]
+;W[oa];B[na];W[mb];B[mc];W[pa];B[lb]C[this is a yose move, leave it until then]
+;W[ro];B[nl]C[scared about eyespace?
+
+at least try to play T5 in sente first.  or how about J9 instead, gives eyes in a much more agressive way]
+;W[bj];B[ci];W[bi];B[bh];W[cq];B[fq];W[hq];B[fo];W[fm]C[good by w, this is going to be really hard now.]
+;B[hn];W[gn];B[go];W[ho]
+(;B[gm];W[fn];B[in];W[io];B[gl];W[fl];B[gk];W[gi];B[ik];W[jn]
+;B[kk]C[now you're getting paranoid];W[mh];B[lj]C[that _really_ wasn't needed.  it is gote moves like this that give w the opportunity to attack.  If you attack w instead then you'll get attacked less]
+;W[kf];B[ke];W[hf];B[if];W[hg];B[he];W[ge];B[ee];W[ed];B[dd]
+;W[ef];B[de];W[ib];B[jb];W[id];B[jd];W[hd];B[je];W[fk];B[eb]
+;W[fc];B[fb];W[gb];B[cb];W[lm];B[ll];W[sj];B[so];W[sp];B[sn]
+;W[rq];B[gj];W[hj];B[hk];W[im];B[hm];W[jm];B[jl]C[you're filling a bamboo joint?]
+;W[ja];B[kb]C[L19 is perfectly safe there];W[fa];B[ea];W[ga]
+;B[ka];W[ia];B[nb];W[bk];B[ai];W[aj];B[ah];W[fj];B[km];W[ln]
+;B[sm];W[sl];B[rm];W[tt];B[eg];W[ff]C[Ok, well, you were behind by about 30 - 40 after the fuseki, but were much too passive through the midgame and let w push you around terribly.
+
+So, take toktok's comments and my comments for the fuseki, but you lost 90 points through the midgame through being bullied and I think that is where you need the most work.
+
+Firstly, sente vs gote - sente is very valuable, if you can possibly ignore a move then do so.  Always think: how much damage can they do with one move, and how valuable is my biggest move elsewhere.  As soon as they play a move that won't do too much damage, play elsewhere. If you don't hold sente for half the game then you lose, so fight for sente.  Even if it isn't accurate, have a count of how many points your best sente move gets you and how many points you lose if you ignore their move.   Secondly, sometimes you have to respond, but there is often more than one way to respond and some responses are better than others.  if you're short on eyes but can see a move that gets you an eye and attacks, then play this instead of one that just gets you an eye.  Often rather than getting eyes you can escape to the middle and you saw w doing this at the top and at the right.
+
+Thirdly: Don't ever let an opponents moyo get too big.  You need to invade when there is still plenty of space and it will be easy.]
+)
+(;B[em]))
+(;B[mg]C[where can white go now?];W[jk];B[kk];W[jl];B[jm];W[ik]
+;B[km]))
+(;B[rj]LB[rj:a]C[Would this answer the attack ?]
+(;W[pl]C[this move is wrong, w would only play it if they hoped to get out through P8]
+;B[ol];W[pk];B[ri];W[rh])
+(;W[pk];B[pl];W[qk];B[rm];W[sl];B[sm];W[ri];B[sk]C[so yes, b gets away, though close]
+))
+(;B[rk]C[how about this?];W[pk];B[qk];W[pl];B[ri];W[ol];B[sl]
+;W[sm]C[no, just too tight, so you were right at first]))
+(;W[rj]C[I prefer this move by w now];B[rk];W[qk];B[pk];W[rl]
+;B[ri];W[sk];B[rh]C[hmmm, dunno, neither group has eyes]))
+(;B[qk];W[rl];B[rj];W[ol];B[pl];W[qm];B[nl];W[ro]C[white's three escape]
+))
+(;B[qc];W[rc];B[rd];W[qe];B[qb];W[rb];B[ra];W[re];B[ij]C[J10 isn't meant to be the best move on the goban.  I only included it to give you an idea of when to leave the area above
+Also not that b hasn't exposed themself to much risk on the top but has greatly reduced w's invasion]
+))
+(;B[nf];W[od];B[pe];W[pc];B[nd]C[w isn't going to get a lot here]
+))
+(;B[rg];W[dh];B[ci];W[dg];B[cg];W[ef];B[de]C[no real loss]))
+(;B[ej];W[dk];B[fi])
+(;B[fi];W[ej];B[ei];W[fj]C[It is a big worry how easily w can close off that bottom though]
+)
+(;B[oi];W[oh];B[nh];W[og];B[nj]C[this looks much better for b to me]
+))
+(;C[Black has anyways only very little territory. Maybe playing around star
+point r4 is not bad idea. I don't know
+how, however...]))
+(;B[cn];W[co];B[dn];W[fp]
+(;B[ck];W[cj])
+(;B[cl]C[maybe]))
+(;B[fq];W[fp];B[gp];W[fo];B[eq];W[dq];B[hq];W[cn]C[maybe this way instead]
+;B[dr];W[cr];B[ds];W[cs];B[fr];W[jr];B[iq];W[jq];B[ir];W[is]
+;B[hs];W[js]C[this is to show you b is alive, you shouldn't play this because of the thickness though :-)]
+))
+(;B[oi];W[oh];B[nh];W[og];B[nj]C[w can take R7 but b no longer needs that eyespace]
+))
+(;B[qe];W[qf];B[nd]
+(;W[qi];B[qj])
+(;W[qj];B[qi];W[pi];B[ri]
+(;W[rf];B[qk];W[oj])
+(;W[oj];B[pk];W[oh]))
+(;W[nf]
+(;B[qj];W[qm]C[this is problematic, much better to have eye space]
+)
+(;B[qm]C[which is why I suggested R7 rather than Q7 in this variation]
+)))
+(;B[nd];W[nf];B[pm])
+(;B[qf];W[qg];B[qe];W[ph]C[actually, I've changed my mind, I like this variation best]
+;B[pm]))

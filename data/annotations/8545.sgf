@@ -1,0 +1,155 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.17]
+
+GN[jusi-Jagon]
+PB[Jagon]
+BR[6k]
+PW[jusi]
+WR[6k]
+KM[6.5]
+DT[2011-11-05]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[B+Resign]
+TM[2700]
+OT[20/300 Canadian]
+RU[Japanese]
+
+C[jusi [6k\]: hello gg
+Jagon [6k\]: hi hf];B[pd];W[dq];B[cd];W[qp];B[do]
+(;W[cp]C[Could you comment my overall opening strategy (from now until stone 31)? I'm in  the process to try to improve it.
+
+A: This move is the first big choice. C4 is rarely seen, because it gives inferior result, but takes sente. Sometime it is good to play in this way, but with a black stone in C16 it gives too much potential to black.
+A pincer may be more appropriate, to avoid bein cramped on a single side of the goban.
+
+There is a coherence problem in your opening strategies, because you switch from a slow sente-taking strategy (C4) to a fast aggressive strategy (S2). Maybe it wasn't a "clear" problem in this game, but surely it is harder to attack using groups that was born to be slow and safe, and it is also harder to play safe with groups born to attack :-)
+
+The direction choices were good, as far as I can tell. You let black build a big framework on the left, but your on the right is comparable, and in game you was the only one able to exploit the black weakness to reduce, while black tried a too dangerous invasion.]
+;B[co]
+(;W[fq];B[dk];W[ed];B[ec];W[fc];B[dc];W[fd];B[cf];W[jd];B[op]
+;W[pn];B[qq];W[rq];B[pq]
+(;W[rr]C[This is an aggressive move, but the bottom is too open to be effective, it is better to draw back at S5]
+;B[kq];W[qf];B[nc];W[qj];B[hq];W[of]TR[rd]C[This is a good tenuki, you bottom-left group is already safe and you play a big point.
+black natural answer is at the triangled point, because there is no good extension for him.]
+;B[ep];W[eq];B[kc];W[jc]TR[ch][dh][ci][di]SQ[ql][qo]C[look like I missed something in this sequence (up to stone 73). Maybe stone 46 was overplay? Probably something else too?
+
+A: So far, the game seems in your favour, in the triangled zone black have no territory yet, and have no way to enclose it easily, so you will reduce later (as you did).
+Your groups are all strong, now, there is some minor weakness on the right, but nothing urgent.
+
+Let's see what happens on the top.];B[kd];W[ke]C[Perfect, the hane is good shape here.]
+;B[hb]
+(;W[kb];B[le]
+(;W[je];B[lb];W[fb];B[jb];W[ib];B[ka]
+(;W[ia]
+(;B[lf]C[This is huge.]
+(;W[ch]C[overplay? I hesitated to play here, But I felt behind so I tried to be agressive. Other possible choices I saw was k12 and d15.
+
+A: D15 is sente and force black to connect, but you can play it anytime you want, no rush. It may be helpful in any battle that will happens!
+D11 feels natural to me, because it is harder to attack, and can get out easily without being chased too much from black, and eventually can do a base with C9 (variation).
+This move have an excellent timing, now there are no urgent moves, it is time to limit back's framework!]
+;B[eg];W[ei];B[gg];W[gi];B[gk];W[ii];B[ig];W[jg];B[jh];W[ih]
+;B[jf];W[kg];B[kf]
+(;W[if]C[l12 would be better?
+
+A: cutting is not worth the risk, both sides of black are already alive and quite strong. It is better to do the same with your groups :-)]
+;B[ie];W[hg];B[ic];W[hc]C[actually I thought it was sente, but it wasn't :-(]
+;B[hd];W[gc];B[hf]
+(;W[ig]C[maybe g14 for a ko instead?
+
+A: Black connects and you get nothing, trying the ko. It is not easy to see. Look at the variations.]
+;B[gf];W[ha]C[No way to live.]
+(;B[gb];W[eb];B[db];W[mg];B[lg];W[lh];B[mh];W[mi];B[nh];W[ng]
+;B[ni];W[mj];B[nj];W[mk];B[nk];W[ml];B[qh];W[ph];B[pi];W[oh]
+;B[oi];W[qi];B[pg];W[og];B[qg];W[pf];B[rf];W[re];B[rg];W[qd]
+;B[ri];W[rj];B[sh];W[sf];B[ql];W[rm];B[om];W[nn];B[on];W[no]
+;B[oo];W[nl];B[rl];W[pk];B[qm];W[rn];B[qn];W[qo];B[sm];W[ro]
+;B[ol];W[ok];B[nm]TR[nn][no]C[This part was very good for you.
+You played calmly and avoided fatal mistakes!
+T10 is the only move who is still dangerous, a connection in ko, you have to fix it soon.
+
+Now there is no way to save the marked stones, staying back at M7 is safer.]
+(;W[ln]C[don't know what was the best choice here? I hesitated between m6 and o7. Maybe I did the wrong choice...]
+;B[mm];W[lm];B[ll];W[li];B[kl]TR[lm][ln][nn][no]C[You can't stop this cut, now your marked stones are really weak and almost dead, without any compensation for you.
+
+This was the move that won the game. It was still playable, even after the dead group at the top, now it is really hard to come back.]
+;W[il];B[jm];W[fo];B[fp];W[gp];B[gq];W[hn];B[jo];W[hp];B[ip]
+;W[gm];B[im];W[hl];B[ij];W[jl];B[km];W[hj];B[hm];W[gl]C[The last moves vas very good, black was already strong and you reduced a lot.]
+(;B[di]C[I lost the game with this sequence (up to stone 182). I don't know exactly where I was wrong even if stone 170 was a mistake.
+
+This cut was a gift to you, because even if you can't live inside, you can use the cutted stone as a sacrifice to build a wall and capture black stones around D5 (see variation at 152).
+If black changes his mind and let you capture midway, it is good anyway, he threw away many stones and you are stronger!]
+;W[dh];B[eh]
+(;W[bk];B[ci];W[bi];B[bh]C[This is a mistake, you can force life, now (variation)]
+(;W[bj];B[cg];W[dj];B[dg]
+(;W[ej];B[cj];W[ck];B[dl];W[cm];B[dm];W[cn];B[bo];W[dn];B[en]
+(;W[em];B[cl];W[bm];B[bl];W[eo];B[fn];W[dp];B[bn];W[fm];B[am]
+;W[gn];B[dn];W[or]C[Here I thought it was overplayed and I finally died... But I was a bit desperate after the lost of the left side :-(. Was it possible to live here in any way?
+
+Not really, I can't find any way, black is too strong in the area, but it was worth the try.
+Even playing the monkey jump at P1 in sente, you have ~20 points to recover from endgame, too many to play safely.]
+;B[pr];W[nq];B[np];W[mp];B[mq];W[pc];B[oc];W[pb];B[ob];W[ps]
+;B[qs];W[os];B[qr];W[oq];B[pp];W[mr];B[lq];W[lr];B[ns];W[kr]
+;B[nr];W[iq];B[ir];W[jq];B[jr];W[jp];B[kp]C[Jagon [6k\]: thnx
+jusi [6k\]: thx for the game
+
+You played well in this game, but it was affected by some mistakes that you paid too much.
+
+Trying to cut unnecessarily at J14, that lead your top group to collapse and die.
+Letting black play M14, that was the key move in the "split or be splitted" battle.
+Not letting the stone at D12 die to get profit from it.])
+(;W[cl]C[This is the strongest answer, you can live, but losing the corner.]
+;B[em];W[bn]
+(;B[eo];W[al];B[bq]C[You can't afford to lose the corner.])
+(;B[ai]C[Back can't kill, now!];W[eo];B[dp];W[bp])))
+(;W[cj];B[ej];W[ek];B[fj];W[el];B[fi];W[dl]SQ[co][do][ep][fp]
+C[Big capture, again.
+Black is the one in danger, here, you shouldn't be afraid]))
+(;W[dj];B[cj];W[ck];B[ej];W[bj];B[dj];W[bg];B[cg];W[ah]TR[bf]
+[bm]C[miai to live.]))
+(;W[ci]C[Trying to live.];B[dj];W[bk];B[bl]C[Black kills anyway.]
+)
+(;W[dj];B[ci];W[cj];B[bi];W[bj]
+(;B[ej];W[fi];B[bh];W[ek]SQ[dk][co][do][fp])
+(;B[fi];W[ej];B[fj];W[ek])))
+(;B[tt];W[cj]))
+(;W[lm]))
+(;B[eb]TR[fa][gb]))
+(;W[gf]C[The ko is not really a good choice, because black can connect and win anyway.
+Even if it seems like you can cut and capture a back group, nothing seems to work.]
+;B[he];W[de];B[ce]
+(;W[ff]C[White thinks to cut back stones!
+Too bad, there is a tesuji to save them :/];B[fg];W[df];B[dg]
+;W[cg];B[dh];W[di];B[ci];W[bi];B[cj]
+(;W[gh];B[ah]C[Tesuji])
+(;W[bf];B[ag]C[The same as the other variation.]))
+(;W[fg]C[If white atari];B[ge]
+(;W[ff];B[fe];W[ef];B[ee])
+(;W[gh];B[fe]
+(;W[ee];B[ef])
+(;W[ff];B[ef])
+(;W[ef];B[ee])))))
+(;W[he]C[You have to defend, in some way, it is too dangerous to let the group be surrounded.]
+))
+(;W[di];B[eg];W[fi]C[You are ahead in the rush!]))
+(;B[ic]C[This is a good exchange for you, because the cut doesn't work.
+Too bad M14 follow up for black is too big to compare :/];W[hc]
+;B[id];W[ie];B[hd];W[he]
+(;B[gd];W[ge];B[gc];W[gb])
+(;B[gc];W[gd];B[hc];W[ha])))
+(;W[lf];B[me];W[mf]))
+(;W[lf]C[The only move, don't be afraid of double hanes, if black cuts, you becomes even stronger.]
+(;B[me];W[kf])
+(;B[je];W[kf];B[jb];W[ib];B[ic];W[ja];B[id];W[jb];B[ie];W[md]
+TR[gb][rd]C[You capture 3 stones, and now if black is greedy and disconnects F16 stones, you can kill the corner with S16]
+;B[rd];W[gb]SQ[ic][id][ie][je]C[The marked stones have to run]
+)
+(;B[kf];W[je]
+(;B[mf];W[lg];B[me];W[jg])
+(;B[me];W[mf];B[ne];W[jg]))))
+(;W[hc]C[This is possible too, there are little point there, you can get sente (if black answers) and start the reduction on the left!]
+))
+(;W[ro];B[lq]C[you get a strong untouchable group and sente, to approach the top-right corner.
+This is coherent with the C4 strategy.]))
+(;W[ep]C[The corner is very safe, you can go in fourth line to have better followups]
+;B[dk]))
+(;W[cm]C[A: There are many variation from here, all of them are quite safe for white stones.]
+(;B[cq];W[cr];B[cp];W[er];B[en];W[dk])
+(;B[bo];W[fp];B[en];W[dk])))

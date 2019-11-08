@@ -1,0 +1,125 @@
+(;FF[4]GM[1]SZ[13]ST[2]CA[UTF-8]AP[SGFC:1.16]
+
+PB[Andreas H (Andreas)]
+BR[12k]
+PW[Bob Gregory (Pathogenix)]
+WR[9k]
+KM[-1.5]
+DT[2013-12-29]
+PC[OGS: http://online-go.com/game/review/6265]
+RE[B+Resign]
+RU[Japanese]
+
+C[Hi,
+
+This is Wonodan from KGS (~1-3 dish), my comments will be starting with W:
+
+I am not familiar with the unorthodox board sizes 9x9, 13x13, 37x37 joseki etc, but I'll do my best to point out any things that seem important.
+
+I have used the "Label Variation" for the viewer to better visualize the branches in the SGF tree.]
+;B[jd];W[dj];B[jj];W[dd];B[gj];W[hc];B[jf];W[kc];B[jc];W[jb]
+;B[ib]LB[kb:A][lb:B]
+(;W[kb];B[ic]LB[ld:A][le:B]
+(;W[ld]LB[fc:A][le:B]
+(;B[fc];W[ec];B[gb]LB[fb:C][fd:B][gd:A][df:D]
+(;W[gd]C[I hate this move with a passion. I think it's the cause of a lot of my problems :) It's weak shape, trying to run with a keima, where you've already half-cut through. I think I like A.]
+;B[fd];W[fe];B[ed];W[ee];B[dc];W[eb]LB[fb:A][de:B]
+(;B[fb];W[cc];B[db];W[cb];B[ea]LB[cd:B][fk:A]
+(;W[fk];B[gk];W[kk];B[kj];W[jk]LB[lj:B][ik:A]
+(;B[ik];W[il];B[hl];W[ij];B[hk];W[lj]LB[li:B][jl:A]
+(;B[jl];W[kl];B[im]LB[ji:B][li:A]
+(;W[li];B[jh]LB[cf:B][ji:A]
+(;W[ji];B[ii];W[ki];B[hi];W[ke];B[ch];W[ci];B[cd]LB[bd:A][de:B]
+
+(;W[bd]LB[ce:A][de:B]C[W: Answering here is impossible.]
+(;B[ce];W[be];B[de];W[bf];B[dg]LB[bh:A][eh:B]C[White really needs to move into the centre here, I think. I failed to count, and blindly assumed that 4 corners == victory
+
+W: 4 corners equal victory in case your opponent does not capture the entire center. In order to win with 4 corners, you need to ensure life in the center as well.]
+
+(;W[bh];B[ck];W[dk];B[cj];W[bj];B[di];W[bi];B[ei];W[cg];B[dh]
+;W[df];B[ef];W[cf];B[dd];W[kg];B[jg];W[fj];B[fi]
+(;W[cl];B[fl];W[dl];B[kf];W[lf];B[kh]LB[le:A][lh:B]
+(;W[le];B[lg];W[mg];B[mh];W[je];B[ie];W[mf];B[lh];W[ia];B[ha]
+;W[ja];B[hb];W[el];B[fm];W[em]C[Gave away sente here, C13 would be the biggest gote move. Got blinded by the thrill of the hunt.]
+;B[km]LB[ll:B][lm:A]
+(;W[lm]LB[ll:B][jm:A]
+(;B[jm];W[ml];B[ej];W[ek];B[ca];W[bb];B[ba];W[eg];B[ff];W[fh]
+;B[gh];W[mi];B[ab]C[W: I hope you enjoyed this reading this review as much as I enjoyed creating it.
+
+Hope this helped!
+
+In case you need more information about something, feel free to contact me via e-mail at lauri.vihavainen@gmail.com]
+)
+(;B[ll]C[W: Black could've gone for a big flower viewing ko (the one with nothing to lose but everything to gain is "viewing flowers").]
+))
+(;W[ll]C[W: Of course this is the proper way to defend.]))
+(;W[lh];B[lg];W[mg]C[W: This way White connects.]))
+(;W[fl]C[W: This would bring White most points in the corner.]
+;B[cl];W[dl];B[bk]LB[al:A][bm:B]C[W: White wins the capturing race with no problems with either playing at A or B.]
+))
+(;W[eh];B[eg]LB[fg:A][fh:B]
+(;W[fg];B[fh];W[fi];B[gh])
+(;W[fh];B[fg]LB[gg:A][gh:B]
+(;W[gg];B[gh];W[bh];B[dh];W[ej];B[ei];W[fi];B[di];W[fj])
+(;W[gh]C[W: Leave the hanes out. What can't cut you can't kill you. :-)]
+))))
+(;B[de]C[W: Immediate capture would probably work best for Black, leaving behind 0% aji.]
+))
+(;W[de]C[W: White has no other choice than to connect here to avoid a bigger catastrophy.]
+;B[bd];W[ce];B[be];W[bf];B[bb];W[cg]C[W: Maybe like this?]))
+(;W[cf]C[White should definitely fix his shape here, at the very, very latest.
+
+W: Protecting the cut with this move does not seem like a good idea.]
+;B[de];W[cd];B[df]C[W: White has no direct way of capturing the two cutting stones.]
+))
+(;W[ji]C[W: Simple ladder. :-)]))
+(;B[li];W[ll];B[mj];W[lk];B[kh];W[jl];B[ii]C[W: Joseki.]))
+(;B[lj]C[W: If I was playing Black, I'd try to kill the corner with the help of G3 wall.]
+;W[hl];B[gl];W[lk];B[il];W[ik];B[hk];W[jl];B[hm]TR[jk][kk][lk]
+[jl]C[W: This is just to show how small the space in the corner is. The triangle marked shape is unconditionally dead as it stands. See previous variations in the top right corner.]
+))
+(;W[cd]LB[cc:A][ee:B]C[W: Protecting the cut is urgent. If Black were to cut A and B into two different groups, it'd be an easy game for Black.]
+))
+(;B[de];W[cd];B[db];W[fb];B[gc];W[hb]))
+(;W[fd]LB[eb:A][gd:B]C[W: Yes, this would be a wonderful move.]
+
+(;B[eb];W[db];B[fb];W[gd])
+(;B[gd];W[gc];B[fb];W[eb]LB[ea:A][hd:B]
+(;B[ea];W[da]LB[fa:A][hd:B]
+(;B[fa]LB[db:A][hb:B]
+(;W[db]LB[hd:B][fe:A]
+(;B[fe];W[ee];B[ff])
+(;B[hd]C[W: Still needed. :-)]))
+(;W[hb]C[W: :-)]))
+(;B[hd]C[W: Needed.]))
+(;B[hd]C[W: Needed.])))
+(;W[fb];B[gc];W[eb])
+(;W[df]C[W: This would also make a fine move.]))
+(;B[le];W[ke];B[kd]LB[lc:A][lf:B]
+(;W[lc];B[lf]LB[la:A][mb:B]C[W: Black could play this variation immediately. White needs another move at A or B to make life in the corner.]
+)
+(;W[lf];B[lc];W[me];B[lb]C[W: White can't play this way, since Black gets too much while White's outer group is not 100% alive yet.]
+)))
+(;W[le]C[W: On a 19x19 board this would be the joseki move in this situation. Surely it will with the 13x13 board as well.]
+;B[lf];W[ke];B[kf];W[je];B[ie]LB[kd:A]
+(;W[kd]LB[kd:7][ie:6][je:4][ke:2][jf:5][kf:3][lf:1]C[W: Later, Black might start this sequence if he wants to block White in. 7 is needed for White to make life in the corner. In case White omits 7, Black can kill the group in the corner unconditionally. See variation.]
+)
+(;W[tt];B[me];W[ld];B[ja]LB[ka:B][la:F][lb:A][mb:C][lc:G][mc:E]
+[md:D]TR[kb][kc][kd][ld]C[W: The marked shape is called the "L-group" and it is unconditionally dead if the surrounding groups live. You can play around with the variations and make sure White is dead here no matter where he responds. :-)]
+
+(;W[lb];B[mc];W[md];B[ka];W[la];B[mb];W[ia];B[ja])
+(;W[ka];B[md];W[mc];B[lb];W[mf];B[me])
+(;W[mb];B[la];W[ka];B[md];W[mc];B[lb];W[mf];B[me])
+(;W[md];B[ka];W[la];B[mb];W[ia];B[ja])
+(;W[mc];B[lb])
+(;W[la];B[mb])
+(;W[lc]C[W: If White were to play here, he couldn't make two eyes even if Black played elsewhere once.]
+;B[tt];W[mb];B[la]LB[ka:A][md:B]
+(;W[ka];B[md])
+(;W[md];B[ka])))))
+(;W[lb]LB[ic:A][lf:B]C[W: By playing the diagonal connection, White makes a miai of A and B. See variations.]
+
+(;B[ja];W[kb];B[ic];W[lf]TR[kc]C[W: There is no cut between the marked stones, you can confirm this yourself. :-)]
+)
+(;B[kd];W[ic];B[lc];W[kb]C[W: If Black decides to block the side, White will be happy to cut one stone and connect the group.]
+)))

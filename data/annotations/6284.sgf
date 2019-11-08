@@ -1,0 +1,89 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+PB[plytho]
+BR[23k]
+PW[Schnitte]
+WR[22k]
+KM[0.5]
+DT[2007-11-25]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[W+0.50]
+TM[1500]
+RU[Japanese]
+
+C[Hi.  I want to make a couple of comments before you go through the game so you know what to look for.  I feel that this game featured a lot of fighting, much of which was unecessary.  An important thing to learn in go is when to start a fight and when to avoid it.  Many times a move that leads to a fight could be replaced by a move that leads to territory.  And the real object of the game is to gain territory.]
+;B[pp];W[dd];B[od];W[dp];B[jd];W[ip];B[jp]SQ[fc][qd][pj]C[Any time you contact a lone stone, you are very likely starting a fight.  Fights in the early stages of the game tend to be very complicated because so much of the board is free.  Also remember (this is key for fighting!) that if you contact your opponent's stone, you are one move behind.  Your opponent always will always get to play before you.  Unless you have strength in the area, playing contact moves is very risky and generally frowned upon.  Rather than contact your opponent and start a fight, look for the biggest place to make territory.  I marked a few options.  One final thing: there is nothing special about the star points (marked with the dots).  Playing on them doesn't make your play better, they are a space like any other.  You should always be thinking "territory."]
+;W[hd]C[Your opponent grants you a favor here.  Now you get to fight one stone ahead.]
+
+(;B[iq]SQ[jq]C[Rather than hane (play around) your opponent's stone, why not stay connected?  You get territory and your opponent must respond.  See the variations for several plays that work in your favor.  Playing the hane here invites a fight.  Now you have the advantage of the extra stone, but fights are still very unpredictable.]
+;W[hq];B[hp]SQ[jo]C[Going for an atari (a move that threatens capture next turn) just because it is there is also a common mistake that beginners make.  Ataris cause your opponent to strengthen him/herself.  Don't think "kill," think "territory."  The marked move is much more territorial-minded.]
+;W[io];B[ho]C[Now we are completely in fight mode.  I won't say too much about how to fight except this.  The MOST IMPORTANT thing is to read.  Try to play as you and your opponent.  Stay two moves ahead.  If I make this move, how can my opponent hurt me?  If he can, avoid that move.  It is very tempting to make a play that looks or feels right, but if you don't read it out you have no way of knowing.  You end up getting punished big time for this fight.]
+;W[hr];B[ir];W[hn]
+(;B[in]SQ[jo]C[Again, don't make the atari just because you can.  That strengthens your opponent.  Here you still have the marked play, which is very territorial and only sacrifices the two stones, almost no loss.]
+;W[jo];B[ko];W[jn];B[im];W[jm];B[hm]C[Atari strenthens your opponent.  Much better would be to play upward.]
+;W[jq]C[This is where you are punished for not staying connected.  Now your opponent has nothing to fear in this fight, and you have to scramble to pick up the pieces.]
+;B[kp];W[jr];B[gn];W[gp]SQ[hj][lr]C[This move is a gift... no need to defend against it.  Make a big move!]
+;B[go];W[fp];B[fo]C[Here you seem to be following your opponent.  Remember, just because your opponent plays there doesn't mean you should.  Look over the whole board.  These moves are very "small" in that they don't gain any real territory.]
+;W[eo];B[en];W[do]C[Another gift.  Move elsewhere.];B[dn];W[gq]
+;B[kq];W[kr];B[lr];W[is]C[This is unecessary by W, another gift.]
+
+(;B[jl]TR[jm][jn][io][jo][ip]C[You cannot kill those 5 stones.  Chasing them will only make you weak and start more fighting (this time your opponent has a BIG advantage, because his stones are assured life.)  Compare what happens if you play for territory (see variation).]
+;W[km];B[kl];W[lm];B[ln];W[lq];B[mq];W[ls];B[mr];W[mm];B[ms]
+;W[om]C[Here your opponent wisely ignored your threat to capture 1 stone.  His gain is much greater.]
+;B[nn];W[nm];B[mn];W[kn];B[lo];W[on];B[oo];W[ok];B[ks]SQ[qd]
+[cf][ph]C[This is so small!!!  One stone!!!  Play for territory!!!]
+;W[oh];B[og]C[Again, a contact move starts a fight.  Play for territory.]
+;W[ll];B[lk];W[mk];B[mj];W[lj];B[kk];W[mi];B[nj];W[oi];B[li]
+;W[kj];B[jj];W[ki];B[lh];W[kh];B[ni];W[mh];B[lg];W[nh];B[jg]
+;W[oj];B[kg];W[jh];B[ih];W[nk];B[ji];W[mj]TR[og]C[Look at that contact stone now... it would be much more useful somewhere else.]
+;B[pn];W[hh]C[Here your opponent makes a contact move that starts a fight... notice that this fight goes badly for him.  Contact moves don't seem so good, do they?]
+;B[ii];W[hi];B[hj];W[di];B[gj];W[gi];B[fi];W[fh];B[hg]C[This atari is good.  It doesn't increase your opponent's strengh, it just rolls him into a ball.  That is what you want to do with ataris.]
+;W[gh];B[ei];W[eh];B[dh];W[ej];B[fj];W[dj];B[ek];W[dg]C[Your opponent ataris you and you become stronger.]
+;B[ch];W[eg];B[dk];W[cg];B[bg];W[bh];B[ci];W[bf];B[bi];W[ah]
+;B[ai];W[ag];B[co];W[cp];B[bo];W[bp];B[ap];W[aq];B[ao];W[br]
+;B[cn];W[ic];B[jc];W[ib];B[id];W[hc];B[he];W[jb];B[kb];W[ka]
+;B[la];W[ja];B[lb];W[ge];B[gf];W[fe];B[ff];W[ef];B[fg]C[This move is a waste.  Quite literally, it gains you nothing.  F13 is a dame a point, which means that neither you nor your opponent can make a point there.  Imagine your opponent plays there instead.  What have you lost?  Nothing, because there is no territory there.  Play for territory.]
+;W[pg];B[pf];W[qf];B[qe];W[qh];B[re];W[of];B[pe];W[ng];B[nf]
+SQ[me]C[Strange move.  Why not at the marked point?  That seals up your territory and doesn't give something for your opponent to attack.]
+;W[mf]C[Now your opponent is on the attack and it will lead into your territory.]
+;B[ne];W[mg];B[lf];W[me];B[md];W[le];B[ke];W[ld];B[oe];W[og]
+;B[rf];W[qg];B[rg];W[lc];B[kc];W[rh];B[mc]SQ[lc][ld][le][me]
+C[The marked stones are there because you made a contact move instead of playing for territory.]
+;W[pm];B[qn];W[qm];B[rm];W[rl];B[rn];W[qq]
+(;B[rp]SQ[qp][pq]C[I think this is my worst move
+
+It is not a contact move, so I disagree ^_^  However, there is a better way to defend this.  The standard response to a 3,3 invasion is to block at either marked point.  See the variation for how this generally continues.]
+;W[rq];B[sq];W[sr];B[sp];W[rs]C[Here W is alive.  Before you try to kill him, read it out and see if he can live.  That way you don't waste stones.]
+;B[qr]SQ[pq]C[If you had read to see that W was alive, you would probably play at the marked point to minimize damage.]
+;W[pr];B[pq];W[qs];B[ps];W[os];B[or];W[rr];B[ns];W[ps];B[sl]
+;W[sk];B[sm];W[rj];B[sh];W[si];B[sg];W[pc];B[qb];W[pb];B[ob]
+;W[pa];B[qd];W[qc];B[rc];W[rb];B[sb];W[qa];B[sa];W[sd];B[rd]
+;W[ra];B[sc];W[oc];B[nb];W[nc];B[nd];W[na];B[mb]C[You don't need this move.  Careful not to blindly follow your opponent.  Read it out.]
+;W[cc];B[qp];W[kd];B[je];W[gg];B[hf];W[js];B[ls];W[tt];B[tt]
+TW[aa][ba][ca][da][ea][fa][ga][ha][ia][ab][bb][cb][db][eb][fb]
+[gb][hb][ac][bc][dc][ec][fc][gc][ad][bd][cd][ed][fd][gd][ae]
+[be][ce][de][ee][af][cf][df][bg][ph][ni][pi][qi][ri][nj][pj]
+[qj][sj][pk][qk][rk][ml][nl][ol][pl][ql][ep][bq][cq][dq][eq]
+[fq][iq][ar][cr][dr][er][fr][gr][ir][qr][as][bs][cs][ds][es]
+[fs][gs][hs][ss]TB[ma][na][oa][pa][qa][ra][pb][qb][rb][nc][oc]
+[pc][qc][pd][sd][ie][se][if][jf][kf][sf][ig][di][aj][bj][cj]
+[dj][ej][ij][ak][bk][ck][fk][gk][hk][ik][jk][al][bl][cl][dl]
+[el][fl][gl][hl][il][am][bm][cm][dm][em][fm][gm][an][bn][fn]
+[hn][sn][mo][no][po][qo][ro][so][lp][mp][np][op][lq][nq][oq]
+[nr]C[A very close game.  I hope I said it enough times to pound it into your brain, but the key is to play territorially.  Don't make contact moves that lead to unecessary fighting.  The object is not to kill your opponent's stones.  In fact, you should nevery try to kill an opponent's group unless you're sure you can do it (because you read it out).  Rather, use your opponent's weakness to make territory.  Attack using moves that don't leave weaknesses in your shape.  Threaten to surround your opponent, but let him go in the end.  That way you get profit and you don't risk disaster.  Every once in a long while you will get a kill.  But that's not even the point.  The point is territory.  Don't forget that.
+
+One thing that can help is to look over the games of players that are more experienced than you.  You will see their habits and how they make territory.  Good luck with your game.
+
+David])
+(;B[pq];W[qp];B[qr];W[rr];B[pr];W[sq];B[rp];W[qo];B[ro]C[W is dead, just make sure not to lose the S6 group.]
+)
+(;B[qp];W[pq];B[oq];W[rp];B[ro];W[rr];B[sp];W[sq];B[rq]C[Even if W wins this ko he will die.]
+))
+(;B[lm];W[jk];B[lk]C[Compare this to what you see after move 52 in the game.  Here you have acres of territory!  In the real game you lose it all by chasing that group.]
+))
+(;B[jo];W[in];B[jn]))
+(;B[jq]
+(;W[io];B[kn])
+(;W[iq];B[io];W[ho];B[hn]
+(;W[jo];B[in];W[ko];B[lq];W[gp];B[mo];W[km];B[hk])
+(;W[go];B[in]))))

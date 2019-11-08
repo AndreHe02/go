@@ -1,0 +1,227 @@
+(;FF[4]GM[1]SZ[19]ST[0]CA[UTF-8]AP[SGFC:1.15]VW[]
+
+PB[martingal]
+BR[4k]
+HA[0]
+PW[Eranorn]
+WR[4k]
+KM[6.5]
+DT[2008-01-10]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[B+7.50]
+TM[1800]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+C[Hello,
+In this game I'm Eranorn (White).
+This days I'm always white on KGS and I don't understand why
+:D
+Well, my opponent made a san-ren-sei and I don't feel comfortable
+with it
+as I like to play it when I'm Black.
+We played something in the lower right that didn't look like
+a joseki, and I would like to have some comments on it.
+I lost by 7,5 points, and I really wish to know what I could
+have done better, as I haven't improved for a while !
+
+Thanks a lot for the comment,
+Mathieu
+
+mathieu.
+
+Went over the game. I hope the review is usefull for you.
+There are, I think, 2 points you should pay attention to:
+- do not follow blindly black moves but see if it is needed to answer or whether there is an alternative,
+- when you play a move (e.g. move 56), count the score and then determine the best way to go forward.]
+;B[pd];W[dp];B[pp];W[dc];B[pj];W[nq];B[lq]LB[qn:A][no:C][qq:B]
+
+(;W[qn]LB[no:B][qq:A]C[* Problem of this move is that one of the 2 stones will be captured
+by Black. Better is to either live in the corner (A) or get out
+(B).]
+(;B[np]LB[mp:A][qp:C][qq:B]
+(;W[mp]C[If you want to play 3-3 omit this move. You have a few different
+scenarios then.];B[mq];W[qq];B[qp];W[op];B[no]LB[oo:A][pq:B]
+
+(;W[oo];B[pq]LB[nn:A][oq:B]C[Eranorn : Here is the move I didn't know how to deal with.]
+
+(;W[nn];B[mo];W[mn];B[lo];W[oq];B[qr];W[ql]LB[qf:B][rj:A]C[Eranorn : Hmmm... Bad isn't it ? Did I lose a move in here, or
+was it just wrong ?
+
+I think N4 was the move that was wrong. This move is not too
+bad since it gives you a change to slide to A or even do a pincher
+at B. You also have a group in the area where black thought his
+influence would be.];B[fq]LB[cm:A][fp:B]C[Eranorn : Of course...]
+
+(;W[cm]C[I do not like this move. The left side is the part of the board
+where you should make your points, this is a move on the 3rd
+line and makes it difficult to make a moyo. This move does not
+force black to answer and white can play first around C14.]
+;B[cf];W[ci]LB[bc:A][cc:B]
+(;B[bc]LB[cc:A]C[Black should play at A.];W[gc]LB[nc:A][qf:B]
+C[Eranorn : I think it is too small too, right ?
+
+Yes, move is not urgent, leave it as is and Play A or B.];B[dr]
+LB[fp:B][cq:A]
+(;W[cq]LB[fp:A]C[Too passive, you are following, better to play A.]
+;B[fn];W[fp]C[Eranorn : Not a good idea... I just strengen his stones
+
+No I think you can cut of the white stone, black played the stone
+one too far.];B[gp];W[fo];B[go]LB[en:A][gn:B]
+(;W[en]LB[gn:A]C[This move should be at A];B[fm];W[ln];B[kn]
+;W[ko]LB[km:A]C[Better omit this move and play A directly.]
+;B[lp];W[km];B[jn];W[ll]LB[pj:D][km:C][ln:A][ko:B]C[Eranorn : Necessary ? Or to small too ?
+
+This move is the resukt of playing at A b and C. However with
+this move it is possilbe now to play around D and attack the
+black stone at D.];B[ic]C[Eranorn : Here is really a big point, isn't it ?]
+;W[qf]C[Good.];B[pg]LB[qc:A][oe:B][pf:C]
+(;W[qc]LB[oe:B][pf:A]C[Better to get out by A or B.];B[pc];W[qd]
+;B[pf];W[qe];B[pe]LB[jb:B][jd:C][lj:A]
+(;W[lj]LB[jb:A][jd:B]C[Eranorn : Hmmm... But couldn't pincer around L17...
+
+White is alive with this group, this move does not do much. If
+you want to invade A, or B might be an option.
+
+At this point you should also count, because this will influence
+how far to go into blacks moyo.
+
+Black:
+Left: 6 
+bottom: 30
+right corner: 9
+Top: 20
+65 points
+White: 
+top right: 10
+top left: 4
+right/centre: 10
+left: 20
+44 points.
+
+So you'r about 15 points ahead and then 56 is too slow.];B[if]
+LB[bb:B][cc:C][bd:D][cd:A][ie:A]C[Should be at A. This puts more pressure on the white group and
+J18 is no monger possible.]
+(;W[cd]LB[bb:A][cc:B][bd:C]C[This move is not good, you should try to get a living group as
+soon as possible. A, B or C are better.];B[bd]C[Eranorn : Probably useless :)]
+;W[id]C[Eranorn : I wanna try this.
+
+It worked out quite well. Even M10 is now perfectly placed.]
+;B[jd];W[hc];B[ie];W[ib];B[jc];W[jb];B[kb];W[lg];B[ld];W[ng]
+LB[qg:A][qh:B][rh:C][cr:D]C[Eranorn : Another odd move.
+
+A, B, C or D are better. D probably best, is worth at least 10
+points.];B[qg];W[rg]C[You are following black again,  Q18 is bigger.
+Also because the right side is open and black will never be able
+to get many points here.];B[rh];W[rf];B[qb];W[rb];B[pb];W[ra]
+C[This is also why playing yourself Q18 was better, black played
+on both ends of your group and got both of the bigger points
+as well.];B[cr]C[Big, after this move black is well ahead.
+
+Black app. 65 points, white 45 points (without the komi).];W[eq]
+;B[fr];W[br];B[ck];W[jm];B[in]LB[bk:B][em:A]
+(;W[em]LB[ci:A]C[This move seems a bit slow and A will come under a severe attack]
+;B[ek];W[el];B[dh];W[di]LB[eh:A][ei:B]
+(;B[eh]LB[ei:A][ck:B]C[Too slow as well, Black should play at A, keeps more pressure
+on the white stones and white will not be able to capture B.]
+;W[ei];B[fk]LB[ej:A]C[A is better. will prevent the cut and keep white seperated.]
+;W[dk];B[bh];W[cj];B[cb];W[db];B[ro]LB[rq:A]C[This was sente for you (if black does not answer, white A and
+the corner is almost dead). So black should never have got the
+oppertunity to play here.];W[ok];B[pk];W[pl];B[oj];W[nj];B[fl]
+C[Black is avoinding compications and white is slowly closing the
+gap.];W[ne];B[nd];W[me];B[md];W[ij];B[fi];W[ch];B[cg];W[bi]
+;B[ag];W[bk];B[hd];W[fe];B[ja];W[ha];B[da];W[ea];B[ca];W[cc]
+;B[bb]LB[fb:A][ce:B]
+(;W[fb]LB[ce:A]C[This move is not needed, Better is A.];B[rk]
+;W[qk];B[qj];W[rl];B[rj];W[ni];B[il];W[im];B[hm];W[jk];B[hl]
+;W[jg];B[ih];W[ig];B[hg];W[jh];B[ii];W[ji];B[hj];W[fg];B[ef]
+;W[ff];B[ed]C[Mistake of black,  cost him a few points.];W[ee]
+;B[de];W[dd];B[ce];W[fd]LB[gd:A][mr:C][cs:B]C[If you want to play here better at A (at least one point better).
+But B and C are bigger. Best is C.];B[bs];W[bq];B[dq];W[eg]
+;B[jl];W[kl];B[df];W[fh];B[dg];W[gi];B[fj];W[qa];B[pa];W[ia]
+;B[ka];W[oe];B[nr];W[or];B[mr];W[od];B[oc];W[ke];B[le];W[lf]
+;B[of];W[sh];B[nf];W[mf];B[si];W[sg];B[oh];W[oi];B[nh];W[qh]
+;B[pi];W[mh];B[ri];W[ph]C[This move cost you one point.];B[og]
+;W[kd];B[kc];W[je];B[jf];W[kf];B[po];W[pn];B[rn];W[rm];B[er]
+;W[ep];B[gh];W[hi];B[hh];W[hf];B[gj];W[he];B[id];W[pr];B[rq]
+;W[ns];B[ms];W[os];B[ik];W[jj];B[ej];W[sk];B[dj];W[cl];B[sm]
+;W[sl];B[sn];W[gg]LB[gd:A]C[Better at A, one point better.
+
+No comments beyond this point.];B[ge];W[gf];B[gd];W[ec];B[mb]
+;W[ai];B[bg];W[ar];B[qs];W[on];B[cs];W[mg];B[as];W[tt];B[tt]
+TB[aa][ba][la][ma][na][oa][ab][lb][nb][ob][ac][lc][mc][nc][ad]
+[ae][be][af][bf][ph][qh][gi][hi][qi][gk][hk][gl][gm][gn][hn]
+[ho][io][jo][ko][so][hp][ip][jp][kp][mp][rp][sp][gq][hq][iq]
+[jq][kq][qq][sq][gr][hr][ir][jr][kr][lr][rr][sr][ds][es][fs]
+[gs][hs][is][js][ks][ls][rs][ss]TW[fa][ga][sa][eb][gb][hb][sb]
+[fc][rc][sc][ed][rd][sd][re][se][sf][kg][kh][lh][ki][li][mi]
+[aj][bj][kj][mj][ak][ck][kk][lk][mk][nk][al][bl][dl][ml][nl]
+[ol][am][bm][dm][lm][mm][nm][om][pm][qm][an][bn][cn][dn][ao]
+[bo][co][do][eo][ap][bp][cp][aq]C[Eranorn : The rest was almost just yose... Is there something
+I missed ? Could I do better ?
+Well thanks for the comment, I'm sure it will be usefull !]
+)
+(;W[ce];B[be];W[df]))
+(;B[ei]LB[dj:A][bk:B]
+(;W[dj];B[dk])
+(;W[bk];B[bl];W[cl];B[bj];W[dk];B[cj];W[dj];B[ak]LB[bi:A][bm:B]
+C[Black lives, A and B are miai.])))
+(;W[bk];B[cl];W[bl];B[dm];W[cn];B[cj];W[bj];B[di];W[dh];B[ei]
+;W[eh];B[fi];W[ee];B[ch];W[bi];B[bh];W[ce];B[be];W[df]C[Now you are connected, but you did not close the gap]
+))
+(;W[bb];B[cc];W[cb];B[dd];W[ec])
+(;W[cc];B[bb];W[bd];B[be];W[cd];B[ad];W[ef])
+(;W[bd];B[cd];W[cc];B[bb];W[ce];B[dd];W[de];B[ed];W[be];B[ec]
+;W[ee]C[This is the worst option since you loose a large corner and you
+do not get enough compensation.]))
+(;W[jb];B[ib];W[kd];B[ie];W[kf]C[This will be a difficult fight for white.]
+)
+(;W[jd];B[id];W[jf]C[Black's top is now reduced]))
+(;W[oe]LB[pe:B][pf:A]
+(;B[pf];W[pe];B[qe];W[qd];B[re];W[rd];B[rf];W[pc])
+(;B[pe];W[pf];B[of];W[og];B[nf];W[ph]))
+(;W[pf];B[of];W[oe];B[pe];W[og];B[nf];W[ph]C[The corner is still open for white to invade.]
+))
+(;W[gn]C[Now black has no good answer anymore.]))
+(;W[fp];B[cq];W[gp]))
+(;B[cc];W[cb]LB[bc:A][dd:B]
+(;B[bc];W[dd];B[ce])
+(;B[dd];W[cd];B[ec];W[bc];B[db];W[cc];B[ed]C[This good enough for black. Whites influence destroyed and black
+created some influence on top.])))
+(;W[fp];B[gp];W[fo]LB[cq:B][dq:C][eq:A]
+(;B[eq];W[dq]C[This looks a bit overconcentrated for black.]
+)
+(;B[cq];W[cp];B[dq];W[eq];B[er];W[ep];B[fr];W[dj]C[Black gets the corner but white gets a lot of influence.]
+)
+(;B[dq];W[eq];B[er];W[ep]C[Black has got diffuculty now to prevent a cut.]
+)))
+(;W[oq];B[qr]))
+(;W[pq];B[oo];W[oq];B[rp];W[rq];B[pn]C[With this sequence white lives]
+))
+(;W[qq];B[qp]LB[pq:A]C[Black must play here A will give a wall in the wrong direction.]
+;W[pq];B[op];W[rp];B[ro];W[rq];B[qo];W[nr];B[lo])
+(;W[qp]LB[pq:B][qq:A]
+(;B[qq];W[pq]LB[oq:A][pr:B]
+(;B[oq];W[pr]LB[or:A][qr:B]
+(;B[or];W[po]LB[op:B][qr:A]
+(;B[qr])
+(;B[op];W[qr]C[White lives.]))
+(;W[or];B[op]LB[rp:A][mq:B]
+(;W[rp];B[nr];W[ns];B[mq];W[rr];B[ps])
+(;W[mq];B[mp];W[lr]LB[qo:B][kr:A]
+(;B[kr];W[kq];B[lp];W[mr];B[jq];W[rp])
+(;B[qo];W[rp];B[ro]LB[lp:A][kq:B]
+(;W[lp];B[kq]LB[ln:A][lo:B]
+(;W[ln])
+(;W[lo]))
+(;W[kq];B[lp];W[jq])))))
+(;B[pr];W[oq];B[rq];W[mp]LB[no:B][mq:A]
+(;B[mq];W[no])
+(;B[no];W[mq])))
+(;B[pq];W[qq];B[po];W[rn]C[Black's wall is facing the wrong side.]
+)))
+(;B[no]))
+(;W[qq];B[qp];W[pq];B[op];W[nr];B[mo]C[With this sequence white lives easily but you do give away a
+lot of influence.])
+(;W[no];B[pn];W[kp];B[kq];W[jp]C[With this variant you will build some influence in the centre.]
+;B[jq]))

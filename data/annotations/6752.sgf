@@ -1,0 +1,233 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+PB[gatsu77]
+BR[9k]
+PW[Iawliet]
+WR[10k]
+KM[6.5]
+DT[2008-07-14]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[W+Resign]
+TM[2400]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+C[Hello reviewer my name is Clément and i'm french (so please excuse me from my bad english).
+In this game I am the black player.
+Can you review and comment my game please and tell me what is the best (or a better) move when I don't play correctly?
+If there is any tactical point (tesuji, cut point, big point, urgent point...), bad shape, overconcentrated stones, weak I didn't see  or other informations about joseki I didn't play don't hesitate to tell me.
+
+Thank you for advance :-)
+
+
+
+R: Hi! I'm Roland, and I'll do your review. At the moment I'm somewhere around 3-4k KGS. My comments are marked with R.
+
+R: I have added some variations. When going through them, try to understand why they work. Also, please verify *if* they work, I can make mistakes, too ;)]
+;B[qd];W[cp];B[dc];W[qp];B[ce];W[qk];B[eq]C[Is my Fuseki and the apporach correct?
+
+R: Yes, looks reasonable.];W[gq]
+(;B[eo];W[gn]LB[cm:B][dn:A][go:C]C[R: This move looks like a mistake, white must take care of the corner. The most popular reply for white is at A. B is also possible.
+
+R: In addition to that, this move leaves a weakness. If white really feels like sacrificing the corner, C is better (although still not really good).]
+;B[cn]C[R: Very good. This already looks bad for white. The corner is at least completely sealed in, if not already dead.]
+;W[rg];B[oc]TR[qk]SQ[op]C[Is that the correct answer or is there better move to exploit the white position in the second line?
+
+R: I would play on the fourth line for more influence, but I can't really say your move is bad either. I think it's a just matter of taste.
+
+R: The white formation on the left side is a bit strange. Not only is there a stone on the second line, the triangled stone seems a bit misplaced. Assume white gets an enclosure at the squared point. Then the triangled stone looks too close. Also it looks a bit too far from the second line stone, so perhaps you'll have a chance to invade later.
+
+R: This kind of move is called "underplay". White played a move that gains less than possible. You don't need to do anything to "punish" this. White already handed you some points for free, so just continue as usual.]
+;W[of]
+(;B[cr]C[I think this move not necessary
+
+R: Yes, no need to play in this corner. If you want to eliminate aji, playing solid at E2 would look a bit better, but I would not play in this corner at all.
+
+R: With P14, white announced he wants a big moyo. This is inconsistent with R9 and S13, which are very low. You should exploit this. See variation.]
+;W[mb]
+(;B[nb]SQ[mb][of]C[I think this is a bad answer to White 16.
+How to split efficiently the square white stones?
+
+R: Never touch the stones you are attacking. See variation.]
+;W[fb];B[hb]CR[hc][ic]C[Here I rushed.
+I think circle position are better, aren't they?
+
+R: Yes.];W[gd]SQ[fb]C[Is it possible to separate the two square stones?
+
+R: That's the wrong question. The question should be: Do I want to seperate the two stones? Why not just attack them both? See variation.
+
+R: That's also the reason why the previous move should have been on the third line. It makes it much harder for white to escape.]
+
+(;B[fc];W[gc]
+(;B[eb]C[R: See variation.];W[fd];B[di]C[Here I did not know where play.
+Please can you tell me what is the most efficient move and why?
+
+R: Locally, the move is fine, but now that you let white off the hook that easy on the top side, the bottom right moyo is starting to look scary. It's not easy, but I would try some invasion.]
+
+(;W[ef];B[dg];W[el];B[fm]TR[gq]SQ[el][gn]C[The same question for this two stones: can I separate them efficiently?
+
+And was it a good idea to separate or should I defend and make territories?
+
+R: Good move.
+
+R: Just passively making territory is a sure way to lose the game. You can only play that way when you are already ahead and can afford to lose a few points.
+
+R: The last move by your opponent was an overplay. The two squared stones can be cut, and the connection to the triangle stone is not really secure either. White was too greedy, you can punish this by cutting. White can only defend one side at a time.]
+;W[fn];B[en];W[em];B[gl];W[fl];B[gm];W[ej];B[gp]C[R: Very good, exploit the weakness in whites formation. The mistake at move 10 comes back to haunt white now.]
+;W[ho];B[hq]C[R: Good. Taking profit while attacking. The bottom side is pretty much destroyed, and the corner is getting bigger and bigger.]
+;W[ip];B[iq];W[jq]
+(;B[mq]C[Here, I did not know how to invade White position; is this move correct?
+
+R: What white position? White doesn't have anything here, except a weak group. So, attack! Cut! (see variation)]
+;W[jr];B[pq];W[rr];B[qr];W[qq];B[pr];W[ms];B[nr];W[ns]
+(;B[mo]C[R: See variation.];W[oo];B[op];W[no];B[np];W[os]C[R: White is trying to kill, but that's almost always wrong. It's risky to try to kill, because it might fail. On the other hand, not trying to kill is risky for the opponent, because he might still die ;)]
+;B[po];W[on];B[qo];W[ro];B[qm];W[mn];B[rn];W[so]
+(;B[sn]C[R: Unneccessary. White can't push out here (see variation).]
+;W[rq];B[sp];W[rp]
+(;B[sq]C[R: See variation.];W[pp];B[rs];W[sr]
+(;B[rl]C[R: See variation.];W[pm];B[qn];W[ql];B[rk];W[rj];B[qs]
+;W[pn]C[Here, I loose the Semeai because I didn't see the T7 move.
+After];B[ss];W[sm];B[rm];W[sk]
+(;B[lo];W[kp]C[R: Now white has protected the cut, and you still have no definite eyes. See variation on previous move.]
+;B[lp];W[or];B[oq]
+(;W[mr]C[R: Big mistake, white takes away his own critical liberties.]
+
+(;B[kn];W[hm];B[hl];W[im];B[kl];W[il];B[kj];W[hk];B[nk];W[ml]
+;B[mk];W[ll];B[lk];W[jk];B[kk];W[lm];B[km];W[pk]
+(;B[mh]C[Is this move correct?
+
+R: You got out in the open, and you can still live locally any time you want with M2, so what are you afraid of? Your group is actually quite strong now, so go find something to attack!]
+;W[ni]
+(;B[mi];W[nj]
+(;B[kh];W[lg];B[lh];W[ji]
+(;B[ki];W[mj]
+(;B[lj]C[R: Now you're really getting paranoid. White is full of cutting points around you. Always try to run away before living. As long as white has to spend moves to keep you surrounded, the move at M10 doesn't go away. And you still have M2.]
+;W[mf]
+(;B[nq]C[R: This is the wrong move for living locally. See variation.]
+;W[lq];B[lr];W[kr];B[kq];W[ln];B[ko];W[lq];B[sp];W[sl];B[kq]
+;W[rc]
+(;B[lq]CR[oh][nm]C[R: For winning the ko, see variation. But this threat is very big, better answer it. You still have two other local ko threats that threaten life, and a few that threaten to run away to the left.]
+;W[se];B[rd];W[sd];B[qc];W[rb];B[qb];W[pa];B[qa];W[lc];B[mc]
+;W[md];B[nc];W[kb]
+(;B[od]C[R: Empty triangle. Don't play this, except when you have already read out a sequence that works.]
+;W[pb];B[pe];W[pc]C[From here, can I esperate to survive?
+
+R: Looks very hard now...];B[oe];W[rf];B[qe];W[na];B[oa];W[ma]
+;B[ob];W[pg];B[ne];W[le];B[nf];W[ng];B[ra];W[re];B[me];W[jf]
+;B[mg];W[lf];B[nh];W[og];B[oh];W[ph];B[oj];W[pi];B[oi];W[cl]
+C[R: Your fuseki was pretty good, except perhaps the unnecessary move in the bottom left corner.
+
+R: Your real problems were in the middle game. White played very greedy invasions at the top, and you failed to attack them efficiently. When white played too greedy at the left, you successfully split white into two weak groups. But then, you failed to continue with the attack and instead played an invasion. Now white could settle the situation easily by attacking the invasion.
+
+R: Then you missed three opportunities to kill the bottom right corner. After white won the semeai, you managed to get out in the open with your weak group, and the game was close again. That's what happens when you try too hard to kill and fail, normally you shouldn't have a chance after the failed invasion ;)
+
+R: But then you played much too defensive, while you still had the chance to attack the top. This is where you had the last chance to turn the game around. Losing the top right corner didn't really make a difference anymore.
+
+R: So to sum up, your biggest problem seems to be weak groups. Both judging how weak a group is, and effectively attacking it. The cut at move 43 is an example of overestimating the strength of a group, while the defensive moves starting at 110 are an example of both underestimating the strength of your own group, and overestimating the white top position.
+
+R: I would suggest doing more tsumego. This will help you better judge the strength of groups. For example, if you had seen the move at M2 (see variation at move 23), white wouldn't have been able to push you around so much. And if you had killed the bottom right corner, you wouldn't even have gotten into this situation.
+
+R: In your games, just remember that running away is almost always better than living locally, even more so when you can simultaneously attack a neighboring group.]
+)
+(;B[oe]C[R: This move seems to work, but I don't think living with this group is enough to win.]
+
+(;W[ne];B[pe]
+(;W[pf];B[nd])
+(;W[nd];B[od]
+(;W[na];B[oa];W[ob];B[pb])
+(;W[pb];B[pc];W[na];B[oa])))
+(;W[pe];B[pd]
+(;W[pf];B[pb])
+(;W[pb];B[pf];W[qe];B[re];W[qf];B[rf];W[qg];B[sf]))))
+(;B[jp]C[R: This is much better. Why just safe your group, when you can actually capture 8 white stones? ;)]
+))
+(;B[lr];W[nq];B[ls]C[R: This time it's not even a ko, because you have another eye.]
+))
+(;B[jg]))
+(;B[jg];W[ig];B[mf]))
+(;B[me]))
+(;B[mf];W[mi];B[li];W[lh];B[kh];W[lg];B[jf];W[mg];B[hi]))
+(;B[id]C[R: For example, with this move you are attacking both the white group at the top left and the single stone. Now black is back in the game.]
+
+(;W[gf];B[md]C[R: If white defends the heavy group on the left, and you take the top.]
+)
+(;W[md];B[if]C[R: If white pulls out the stone, you continue your attack. Note that neither white group is completely safe yet.]
+
+(;W[fh];B[ne];W[me];B[nf];W[mf];B[ng];W[mg];B[lc];W[mc])
+(;W[ne];B[gh]))
+(;W[lr]C[R: If white takes away your backup plan...];B[me];W[mg]
+;B[kg];W[lf];B[kf];W[le];B[mh];W[nh];B[mi];W[ii];B[hg]C[R: Just one of many possibilities, probably not even the best. Do you really think white can kill this?]
+)))
+(;B[lr]C[R: This variation is to demonstrate white's mistake, but I would keep this move in reserve. It's almost always better to run first and only live locally when everything else fails.]
+
+(;W[nq];B[ls]C[R: This ko has so many stages, it's practically impossible for white to win. White has to fill an outside liberty every time he wins the ko. Note that black doesn't want to connect at N4, otherwise white would connect the ko and leave black with a dead shape.
+
+R: This position also shows why it's better to run first and keep this in reserve. The farther you run and the more liberties you have, it's getting harder for white to win this ko. And if you manage to get another eye elsewhere first, this lives unconditionally.]
+)
+(;W[ls];B[ks];W[nq];B[kr]C[R: Now black is unconditionally alive.]
+)))
+(;W[lr]
+(;B[mr];W[lq]C[R: Still only one eye.])
+(;B[lq];W[mr];B[kr];W[kq])))
+(;B[kp]C[R: This peep helps defending your group, and it destroys the eyeshape of the left white group.]
+;W[jp];B[ko];W[jn];B[ln];W[mm]
+(;B[kl];W[km];B[lm];W[ll];B[ml];W[lk];B[nm];W[nn];B[pl]C[R: Now you see why it's usually not a good idea to play out a lost semeai until one move before the capture ;)]
+
+(;W[sl])
+(;AE[sk][rm][sm][ss]TR[sk][rm][sm][ss]C[R: Would be better, wouldn't it?]
+))
+(;B[km]C[R: But it should not really be a problem to get out. You still have a weak white group to attack...]
+;W[jm];B[kl]))
+(;B[jp];W[kp];B[jo];W[ko];B[jn];W[kn];B[jm];W[lq]C[R: The direct cut doesn't work anymore. White can sacrifice the four stones in order to kill the black group in the bottom right.]
+))
+(;B[pm]C[R: This is the critical point for gaining liberties.]
+;W[pn];B[qn]CR[pl][ql][om][rm][sm]TR[sp][sq][qs][ss]C[R: 5 black liberties, 4 white liberties. Even worse, white can't even shut you in.]
+;W[om];B[pl]
+(;W[pk];B[ol];W[ok];B[nl]C[R: Black escapes.])
+(;W[ol];B[pk];W[qj];B[oj])))
+(;B[rs]C[R: This kills.]
+(;W[sr];B[pp])
+(;W[pp];B[sr])))
+(;B[rs]C[R: This move kills right away.]
+(;W[sq];B[rp])
+(;W[pp];B[rq];W[rp];B[sr];W[pm];B[sn])
+(;W[rp];B[sq];W[pp];B[sr];W[pm];B[qn]C[R: You win the semeai.]
+)
+(;W[sn]C[R: White can't push out.];B[sm];W[rp];B[sq];W[pp];B[sr]
+;W[pm];B[rq])))
+(;B[os];W[lr]C[R: Create an eye and a half in sente.]))
+(;B[jp]
+(;W[jo];B[kp];W[ko];B[lp]C[R: Now where is this white position you wanted to invade?]
+;W[gk]C[R: This black group is also not really a problem, because...]
+;B[il];W[hk];B[in];W[io];B[km]C[R: No real problem, white is weaker than black here.]
+)
+(;W[kp];B[jo];W[ko];B[jn];W[kq];B[gj]C[R: If white tries to take what is left of the bottom, you kill the weak group and attack the next one. This is a great result for black.]
+)))
+(;W[op]C[R: Now an invasion is very hard.]))
+(;B[gb]C[R: If you intend to cut, do it...]
+(;W[fd];B[ec]C[R: But now it's harder to attack the white group on the outside, and you have just gained a couple of points on the inside. Still, this is better than in the game, where white's group is even stronger.]
+)
+(;W[ec];B[fd];W[ed];B[fe]C[R: This just leads to two weak groups for white. At least one of them is going to die.]
+)))
+(;B[gc];W[fc];B[hd];W[ge];B[ee];W[fd];B[if];W[gg];B[eh]C[R: White is running, you have the initiative. You have already gained a lot on the left and top side, while all white got is a heavy group that's still not out of danger.
+
+R: Always remember: The goal is not to kill the weak group. It's to keep it weak as long as possible, in order to be able to profit as much as possible from forcing moves against the weak group ;)]
+))
+(;B[nd]C[R: This is the simplest way to cut. White is weak on both sides, and you are pretty solid. You don't need to be afraid of white trying to enter the corner, white has all hands full with trying to make a base. And while attacking the single stone at the top, it's possible you'll gain enough strength to try something with the thin formation on the right side.]
+;W[ob];B[pb];W[nb];B[lc];W[lb];B[kc]C[R: Whoops ;)]))
+(;B[op]C[R: For example, if you invade here right now, you take away almost all of the white potential. Sure white can attack the stone, but ...]
+
+(;W[mq];B[qq];W[rq];B[pq];W[ro]C[R: The result is that the right side looks very low and overconcentrated, and you should have no problem stabilizing your group, especially with the thin white position on the left.]
+;B[on]C[R: Here are some possibilities. Probably they are total crap from the perspective of a dan player, I'm not really good at this. But this shows that no matter what you do, white will always get almost nothing at the right, while you get a pretty stable group in the middle of his moyo and the bottom white moyo is still not that secure.]
+
+(;W[mo];B[ol];W[mm];B[ql];W[rl];B[qm];W[rm];B[pk];W[qj];B[jd]
+)
+(;W[qm];B[lo];W[kp];B[jd]))
+(;W[pn];B[qq];W[rq];B[pq];W[ro];B[lq]C[R: White can't play from this direction. Now you're comfortably ahead. White still has to worry about the two stones on the left side, and the right side looks pretty overconcentrated.]
+))
+(;B[jd]C[R: Or you could play the "my moyo is bigger than your moyo" game. But then you have to be ready for an invasion and gain profit from attacking it.]
+))
+(;B[do]C[This is just a click error xD
+
+R: This is actually joseki, but it's only played with the bottom right corner black.]
+))

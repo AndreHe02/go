@@ -1,0 +1,142 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+PB[inkdarkmoo]
+BR[16k]
+PW[ra88it]
+WR[15k]
+KM[0.5]
+DT[2008-09-28]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[B+22.50]
+TM[1800]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+C[This game was played on KGS. I play white. I am 15k. Thanks in advance to the reviewer for any tips or observations about my game. I am not looking for any particular kind of advice - any and all suggestions will be appreciated!
+
+Of course, it would be nice to learn what I did wrong to let my opponent's group live around move 85!  :)
+
+
+Hi, I'm Thomas. I started to play go again a few weeks ago, so i got help from some sgf files available on the internet:
+
+For the opening:  http://waterfire.us/joseki.htm       ___different ways to play an opening.
+
+                                http://xmp.net/arno/fuseki.html   ___ classical openings]
+;B[cp];W[qc];B[qp]
+(;W[dc]LB[ce:A][qe:B]C[It feels weird leaving both sides for black to attack from his corners (around A and B).
+See variation for common Fuseki ( opening)]
+(;B[cl]C[Tom: This is a weird extension. Usually B would play around here to make a shimari]
+;W[pj]LB[ce:A][op:B]C[So far your play has aimed at territory. So did black's moves. This is aiming at getting influence in the center. I would prefer a shimari (A) or an approach at B.
+
+B looks good because it prevents black from getting a lot of influence at the bottom]
+;B[de];W[cd];B[bf];W[fd];B[oc];W[pe];B[lc];W[jd]LB[jc:A]C[i would have played at A, preventing him from getting settled]
+;B[jb]
+(;W[oq]C[i don't think the sequence is over on the top, your K16 stone is alone.]
+
+(;B[pq];W[op]
+(;B[qm]C[This is not joseki.
+See var.];W[kp];B[fq]
+(;W[dg]C[Good direction of play here. Trying to attack the two stones on the top leftis a good idea, but youi have to be aware of your lonely stone at K16.
+I would have played around C13 to see black's answer, and after that i would have played C10
+See var.];B[bh];W[cj];B[bj];W[dj];B[fl]TR[cl][cp][fq]C[Black has started to get a moyo on the lower left (triangles). Maybe you could play around H3 to prevent it from becoming territory.]
+
+(;W[ce];B[cf];W[df];B[iq];W[kr];B[in]
+(;W[jj]TR[lc][oc][fl]SQ[jd][pj]C[If you want to get a moyo, triangled stones make it hard to turn it into territory.
+I would play around one of your lonely stones (squared).
+
+If you look at the goban, black seems to be ahead, mostly because of the lower left corner.
+He also has the lower right corner, but you have the top left, and top right corner. Since it will be hard to make territory in the center - because of the triangled stones, maybe you should focus on getting territory on the right where you have the best chance to do so.]
+;B[le];W[dl];B[dm];W[el];B[em];W[ck];B[bk];W[cm];B[bl];W[cn]
+;B[fj];W[fm];B[en];W[fn];B[eo];W[gl];B[fk];W[ei];B[fi];W[fg]
+;B[hj];W[hl];B[hh];W[jh];B[lh];W[hn]C[good thing you got to play it.]
+;B[jf];W[ig];B[hg];W[if];B[hf];W[ie];B[he];W[hd];B[fh];W[eh]
+;B[ii];W[ji];B[gk];W[ik];B[ij];W[gi];B[fe]
+(;W[gd]C[I think this is the "i-let-you-live" move];B[ge]
+(;W[ee];B[ef];W[ed];B[ff];W[eg];B[gg];W[hi];B[ih];W[kf];B[lf]
+;W[kg];B[lg];W[ib];B[jc];W[ic];B[ad];W[bc];B[ac];W[bd];B[ae]
+;W[be];B[af]
+(;W[bb]C[You should play somewhere else.];B[ab];W[io];B[jn]
+;W[jo];B[jl];W[jk];B[kl];W[kn];B[km]
+(;W[im]C[This has few chances to become an eye, you should try to thraten the group, and at the same time pressuring the bottom right group]
+;B[jm];W[ln];B[ml];W[ll];B[lk];W[lm];B[kk];W[kj];B[lj];W[mk]
+;B[mj];W[nk];B[nl];W[ok];B[ol];W[pl];B[pm];W[om];B[nm];W[on]
+;B[ql];W[pk];B[rj]
+(;W[rh];B[ph]
+(;W[qi];B[qg];W[rg];B[qf];W[rf];B[qe];W[re];B[qd];W[rd]C[You destroyed your own territory, and gave black a huge one.]
+;B[pc];W[pd];B[of]
+(;W[rb];B[qb];W[rc];B[pa];W[qh];B[pg];W[ni];B[nh];W[mi];B[li]
+;W[oi];B[oh];W[pi]C[useless];B[ia];W[ha];B[ja];W[gb];B[kd];W[ke]
+;B[po];W[oo];B[pn]
+(;W[pp];B[pr];W[or];B[os];W[ns];B[ps];W[mr];B[rq];W[ir];B[hr]
+;W[is];B[hp];W[jq];B[hs];W[ip];B[hq];W[ep];B[fp];W[dp];B[do]
+;W[co];B[dq];W[bp];B[cq];W[fo];B[eq];W[bq];B[an];W[bo];B[ao]
+;W[cr];B[dr];W[cs]
+(;B[br];W[ar]
+(;B[ap];W[bs];B[ds];W[aq];B[bm];W[bn];B[am];W[ho];B[gp];W[go]
+;B[ch];W[cg];B[bg];W[ci];B[bi]
+(;W[ek]C[Oups^^];B[ej];W[di];B[dk];W[dd];B[ba];W[ca];B[aa];W[db]
+;B[si];W[qk];B[rk];W[sh];B[ri];W[qj];B[mh];W[ra];B[qa];W[nj]
+;B[il]
+(;W[hk];B[hm];W[gm];B[tt];W[tt]TW[da][ea][fa][ga][sa][cb][eb]
+[fb][hb][sb][cc][ec][fc][gc][hc][sc][id][sd][je][se][jf][sf]
+[jg][sg][oj][ml][nl][ol][mm][nm][gn][mn][nn][ko][lo][mo][no]
+[jp][lp][mp][np][kq][lq][mq][nq][br][jr][lr][nr][as][js][ks]
+[ls][ms]TB[ka][la][ma][na][oa][kb][lb][mb][nb][ob][pb][kc][mc]
+[nc][ld][md][nd][od][pd][me][ne][oe][pe][gf][mf][nf][pf][ag]
+[mg][ng][og][ah][gh][ai][gi][hi][aj][gj][sj][ak][ek][sk][al]
+[dl][el][rl][sl][rm][sm][qn][rn][sn][qo][ro][so][dp][ep][rp]
+[sp][gq][qq][sq][er][fr][gr][qr][rr][sr][es][fs][gs][qs][rs]
+[ss]C[Your main mistakes were the handling of the top right hand corner. You completely forgot the stones you had already played. Therefore you had to crawl along the second line, and let black get a big territory.
+Before you play, try to think about the status of your groups. Are they alive? Do i need to connect them? 
+Don't let the opponent build a moyo too important, since it's hard to reduce it after; Your bottom left group SHOULD be dead.
+Don't try to kill at all costs, try to threaten a group in order to get something out of it, thickness or territory.
+
+Hopefully, you liked the review. I had fun reviewing it. If you have any questions e-mail me.]
+)
+(;W[hm];B[hk];W[kh]))
+(;W[ej]))
+(;B[bs]C[you're dead.]))
+(;B[ap]C[you're dead.]))
+(;W[pr];B[qr];W[or]C[better]))
+(;W[qb]))
+(;W[qg]TR[ml][nl][ol][nm]C[The triangled group is dead remember? try to make your top right group alive with points instead]
+))
+(;W[qh]C[Better]))
+(;W[ln];B[lk];W[lj]
+(;B[mj];W[li];B[ml];W[pn];B[qn];W[pm];B[qk];W[qj];B[mi];W[nh]
+;B[mh];W[nd];B[nc])
+(;B[ml];W[pn];B[qn];W[pm])))
+(;W[ph];B[bb];W[cb])
+(;W[pn];B[qn];W[kn]))
+(;W[gg]))
+(;W[ff];B[ee];W[ge])
+(;W[gg];B[gd];W[gc]
+(;B[hc];W[ge])
+(;B[ge];W[hc];B[fc];W[ed];B[ee];W[dd];B[fb];W[be])))
+(;W[qj]CR[pn][qn]C[With this you could aim at a play around R6 or R7]
+)
+(;W[ne]))
+(;W[hq];B[fo];W[ho]))
+(;W[cg];B[cf];W[cj])
+(;W[ch];B[cj];W[ce];B[cf];W[df];B[dg];W[ef];B[cg];W[eg];B[dh]
+;W[ib];B[ic];W[jc]
+(;B[hb];W[kb];B[ia];W[kc]TR[lc][oc]C[It is just a possible variation, i don't know if it would actually happen in a game. Here, black's two triangled stones are in trouble]
+)
+(;B[kb];W[hc]C[Good for white.])))
+(;B[pn];W[lo])
+(;B[po];W[lo]))
+(;B[hc];W[hd];B[gd];W[gc];B[ge];W[hb];B[ic];W[fc];B[fe]C[It looks good for black as his top right group is almost settled and his wall faces one of his corners.]
+))
+(;W[jc]
+(;B[kb]C[Black has to draw back.];W[ib];B[oq];W[cg];B[ce];W[cj]
+)
+(;B[ib]C[If not...];W[kb];B[kc];W[lb];B[mb];W[mc]
+(;B[md];W[nc];B[nb];W[nd];B[ne];W[od];B[la];W[ld];B[ka];W[kd]
+C[White gets thickness, and black doesn't get anything.])
+(;B[la];W[ld];B[ka];W[kd]C[White gets thickness, and black doesn't get anything.]
+))))
+(;B[eq]))
+(;W[cd];B[eq]
+(;W[op])
+(;W[ed]LB[dj:A][op:B]C[A and B are the next big points on the board.]
+)))

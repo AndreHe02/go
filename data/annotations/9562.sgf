@@ -1,0 +1,154 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.16]
+
+PB[Bochum34]
+BR[9k]
+PW[Jena34]
+KM[7]
+DT[2014-09-25]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[W+Resign]
+TM[3600]
+OT[15/300 Canadian]
+RU[Japanese]
+
+C[Hello, I'm Julien, 3k from France. I don't know what is your level but I will try to provide some useful comments and variations.
+
+Resume: you have to better identify the weak/strong groups. When playing a move, the priority order must be:
+1) defend your weak group
+2) attack the opponent's weak group if you can profit in some way
+3) extend your own framework in the wider space (if you are ahead or the game is close); or invade/reduce the ennemy's bigger framework is you are behind [ or play in an open space during fuseki \]
+4) play a yose move
+
+Of course, the best move is the one who kill several birds in the same time (defending while attacking for instance).
+
+In this game, you almost never defend your weak group and what should arrive finally arrived ;-).
+
+Also, do not touch stones that you want to attack.];B[pd];W[dp]
+;B[pq];W[dc];B[qk];W[nc];B[pf]TR[dc]C[Maybe this one was to passive.
+
+Julien: I think it is ok. With white D17 is in place, I think a pincer is not so good.]
+;W[qc];B[pc]C[After i played Q14 I didn't want to play R16 because Q14 would become unnecessary.
+
+Julien: That is not true. On the contrary, Q14 then R16 is almost standard in this situation. With the chinese opening, you aim to build a moyo. So build it! But your variation is also playable... If you finish it ;-)]
+;W[pb]
+(;B[ob];W[qb];B[oc];W[re]
+(;B[de]C[I tried not to extend from my wall on the upper right corner but to use it against the white stone at D17. After the game I don't like this move anymore.
+
+Julien: the joseki is not finished yet.]
+(;W[ce];B[cf]C[I should have played D16 instead and build a wall facing my wall on the right side of the board.
+
+Julien: yes, it would have been more consistent. But your variation is still playable.]
+;W[cd];B[dg];W[fc]C[Now my black wall is nearly useless for territory.
+
+Julien: a wall should not be used to make territory. It is strength which should be used to attack (latter) or to develop a large framework (which the aim to be invaded in order to be able to attack).]
+;B[cj];W[cm];B[jq];W[po]
+(;B[qo]C[Julien: This move is wrong. White enters in your sphere of influence. So you should aim to attack it. But a go principle is: "do not touch stones that you want to attack".]
+;W[pp];B[qp];W[oq];B[pr];W[pn]
+(;B[fq]C[I thought that making a base for this stone was urgent.
+
+Julien: I'm not sure that this move is very good because it induces D3 that white wants to play anyway. You would prefer to keep the C3 invasion in reserve. But you're right: you have to play at the bottom. But you could strenghten your stone by attacking the white one (see variation).]
+;W[dq];B[fo];W[or];B[rq]C[Mabye pushing on R6 would have been better.
+
+Julien: definitively. Since the cut does not work right now, you don't need to defend it so passively.]
+;W[qn]C[Julien: R6 was a key point. Now your stones are enclosed in the corner and that is no good.]
+
+(;B[ok]
+(;W[em];B[ej]C[Julien: That is small. What do you want to do with this move? 
+
+Attacking the white group at the bottom right seems urgent. You will develop both the bottom and the right side in the process. The second more important direction is the large open space at the top. Even if white has F17 in place, playing H17 would be big.]
+;W[ko]C[I dind't know what white was up to with this move so I stole his base (see next move).]
+;B[mq]C[Julien: yes, good point.];W[ip];B[jp]C[Maybe this one was to aggressive and J3 would have been better.]
+;W[jo];B[io];W[in];B[ho];W[hn];B[hq];W[gp];B[go];W[fp];B[gq]
+;W[eo];B[hp]C[Julien: this sequence is ok.];W[nb]C[I didn't block white here because I didn't want him to play K16 / K17 naturally. So I put pressure on his lower right group...
+
+Julien: yes you're right. performing a splitting attack at the bottom is very urgent. It should give you an almost won game.]
+
+(;B[mo];W[nm]
+(;B[mm]TR[ok]C[Julien: you create yourself a bad "eye of elephant" shape. Also prevent to touch stones that you want to attack.]
+;W[nl]
+(;B[nk]C[Julien: still don't touch the white stones.];W[ml]
+;B[lm];W[jm]
+(;B[kc]C[...and now played this move. I don't know how to call it. An invasion?
+
+Julien: It looks big but I would propose an "out-of-scope move" ;-). Why do you stop your ongoing attack? Also, you can't attack the top white stones since it could be connected in 1 move.]
+;W[lp];B[np];W[op]
+(;B[lo]C[Julien: bad move. There is no cut at N6, but white L4 is very annoying because it prevents you to link up your 2 groups.]
+;W[kp]
+(;B[lq]C[I now think that M2 would have connected my stones. M3 doesn't work and maybe broke my neck, because I had to run with this group.
+
+Julien: yes, N4 was the only move.];W[kq]
+(;B[km];W[jl];B[lk]C[Should I give up my group and play something like O16?]
+
+(;W[ne];B[ng];W[mp];B[kk];W[oa];B[hc];W[qg];B[qd]C[Julien: that is a bad move. At least, you lost a ko thread. You also lost aji of the cut. Finally you put yourself short of liberties. In exchange, you gain nothing since white cannot cut yet.]
+;W[rd];B[qf];W[rf];B[rh];W[rg]
+(;B[qh]TR[ob][oc][pc][pd][qd][pf][qf]C[Julien: Wrong direction. your marked stones are under attack so you have to defend them first, while you push white agains them with your move.]
+;W[pg];B[of]C[Now there is another of my groups on the run...
+
+Julien: yes :-(];W[ge]
+(;B[gd]CR[qh][rh][nk][ok][qk]LB[kk:A][lk:B][km:C][lm:D][mm:E]
+[lo:F][mo:G]TR[hc][kc]SQ[ob][oc][pc][pd][qd][of][pf][qf][ng]
+C[Maybe H15 or L15 would have been better?
+
+Julien: You have to defend before attacking. None of your 4 marks groups is fully connected and alive. You have to solve this situation before anything else. 1 weak group is manageable. 2 weak groups is a painful situation. More than 2 weak groups and you will die somewhere...]
+;W[fd];B[fe];W[ee];B[ff];W[ef];B[ed];W[fg];B[gf];W[eg];B[he]
+C[Julien: White is so nice to let you strenghten your weak group ;-).]
+;W[ch];B[dh];W[bf];B[cg];W[bg];B[bh];W[nf];B[og];W[ph];B[nd]
+;W[md];B[od];W[lc];B[le]C[Julien: bad move. Either you cut, or you do nothing here waiting that the cut works better.]
+;W[me];B[kd]C[Julien: still the wrong direction. You have to protect your weak group. This one is now settled.]
+;W[lf];B[mg];W[mf];B[bl]C[Julien: still, your weak groups ;-).]
+;W[bm];B[cl];W[ij]
+(;B[eq];W[dr];B[er];W[jr];B[iq];W[dl];B[dk];W[pi]C[Julien: here we come...]
+;B[qj];W[mj]
+(;B[ni];W[mk];B[oi];W[li];B[ki];W[lg];B[jk];W[ik];B[ji]
+(;W[lh];B[ah]C[Julien: protect your weak groups...];W[rl];B[rm]
+C[Is a ko possible on the lower side to connect  my groups?
+
+Julien: I don't think so...];W[ql])
+(;W[ig]TR[ji][ki][jk][kk][lk][km][lm][mm][lo][mo]C[Julien: I guess black is dead now.]
+))
+(;B[mk]C[Julien: still the only move (white should have played here also).]
+))
+(;B[er]C[Julien: locally, the right move is here. During yose, the good move are very often on the 2d lines (or in the 1st line). But still, you have to protect your weak groups ;-).]
+))
+(;B[mk]C[With 1 move, 3 of your 4 groups are connected. That is the more important point of the board.]
+))
+(;B[pg];W[qh];B[ri];W[qi];B[qj];W[oh];B[nf];W[me];B[mk]C[Maybe like this? (But if I would have been white, I would have play N9 whenever possible).]
+))
+(;W[ll];B[kl];W[kk];B[jk];W[kj];B[mk];W[nn];B[mp];W[lr]C[Julien: you're dead: you cannot win this semeai.]
+))
+(;B[kr];W[jr];B[iq];W[lr]C[That would be painful for black ;-).]
+)
+(;B[ll]C[Julien: better.];W[mk];B[jl];W[il];B[jk]))
+(;B[mp]
+(;W[kr]C[If white splits you...];B[ll]C[you can go out, performing a splitting attack.]
+)
+(;W[kk]C[If white aims at connecting...];B[lr]C[You can still link up.]
+)))
+(;B[mp]C[Julien: that is the best move to keep white separated.]
+;W[ll];B[kl];W[km];B[lr]C[Julien: now you could link up whenever required.]
+))
+(;B[ll];W[mk];B[gm]C[Now white has 2 weak groups and the game is very promising for black.]
+))
+(;B[mj]C[Julien: would have been better.]))
+(;B[np];W[op];B[ln];W[ll];B[km]
+(;W[jm];B[kl])
+(;W[kk];B[il]C[Keep white separated and the game will become quickly very painful for white.]
+)))
+(;B[np]C[Julien: Maybe better against white's eye shape and still white cannot connect his 2 groups.]
+))
+(;W[lq]C[Julien: now it would become difficult to attack white: he is almost settled.]
+))
+(;B[np]C[Julien: I think that this kikashi is important because it removes white his eye shape.]
+))
+(;B[np];W[nq];B[mp];W[mq];B[lq];W[op];B[lp]C[White is under attack now and your stones get now a small base.]
+))
+(;B[np];W[qq];B[qr];W[qp];B[rr];W[qm];B[ok];W[om];B[rf]C[Something like that coule be expected.
+
+That is better because white is not yet alive and you also strengthen and get points at the bottom while developing a framework on the right.]
+))
+(;W[rg]C[Now your framework is gone.]))
+(;B[rf]C[That is a possible continuation of the joseki.];W[qe]
+;B[qf];W[nb];B[na];W[pe];B[oe];W[qd];B[nd]C[Now you get your wall on the right.]
+))
+(;B[qd];W[rb];B[rc];W[qb];B[jp]C[Now you get a very nice framework.]
+))

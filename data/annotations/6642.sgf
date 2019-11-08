@@ -1,0 +1,139 @@
+(;FF[4]GM[1]SZ[19]AP[SGFC:1.15]
+
+GN[20080527_PW_VL]
+PB[Vernon]
+BR[7k]
+PW[Paul]
+RE[B+12.5]
+
+C[Game played on May 27, 2008
+Black: Vernon Leighton
+White: Paul Weiner
+Reviewed by: Joe Carl 2k kgs
+
+
+Komi: -34.5
+
+Result: Paul won on the board by 21 points, but after the komi, Vernon won by 13.5.]
+PL[W];B[qp]C[Corners first: Choices are 3-3,3-4,4-4, and others.
+3-3 is corner done -- all territory no influence -- can be sealed in
+4-4 all influence, but can be invaded -- takes 2 more moves to seal it
+3-4 splits influence and territory -- takes 1 more move to seal it (has direction]
+;W[dd];B[pc];W[dp]C[White is all influence no territory, black is splitting the difference
+Hierarchy of move orders says Corners first, corner enclosures or approaches next, side extensions after that]
+
+(;B[cj]LB[pe:a][qe:b][oq:c][op:d]C[Shows black to be a bit jealous of the influence White is trying to build.  this is like a side extension with no support, it's a spoiler move, and inconsistant with black start. 
+A proper move would be to enclose one of his corners.'
+
+A) is the best move -- it encloses the corner and sets up a big move along the top side interfereing with whites influence but supporting his own enclosure
+B) is second best -- encloses the corner supportingn a side extension but not as strong a support as the high move
+C)  is third best -- encloses the corner
+D) is fourth best -- encloses the corner, but is open at the bottom side]
+;W[op]C[personnelly I think the top corner is bigger, as an enclosure there has more influence on the top]
+
+(;B[oo]C[inconsistant - Black has a weak stone on the left side and is now trying to make influence.]
+
+(;W[np]C[This is not joseki]
+(;B[iq]
+(;W[po];B[pp];W[on];B[qo];W[pn]
+(;B[or]C[vernon: Was this a slack move? I was worried that the corner would come under intense attack.
+
+The corner is perfectly safe -access to right side and bottom and plenty of room to live.  This is small]
+;W[cm]C[1 move for the corner and an approach move, 1 more move and whites corner is done.  Because of the weak nature of the black stone on the top, white essentiall gets a free move.]
+;B[cg]
+(;W[nn]C[vernon: I did not think this was a strong move. It gave me the freedom to not respond.
+
+This is a pass, the black stone is still captured in a ladder]
+;B[qe]C[black got to the corner first.]
+(;W[jc]C[I think the corner enclosure for white is bigger as it sets up an attack on J3 stone]
+
+(;B[lc]C[sides extensions is correct but this is a 3 space extension enclosing maybe 10 points.  Extending along the right side is about 15 points, and attacking the white bottome left corner is bigger still (see whites variations chain earlier)]
+;W[je];B[le]C[This only gains 4 more points and very small]
+;W[qi]C[White got the bigger side, it's a spoiler move, but still big,]
+;B[cq]C[invading is bad, J3 can be hurt in return];W[dq];B[cp]
+;W[co];B[bo];W[bn];B[dr];W[er];B[cs]C[vernon: I decided that this would save the group. However, I believe that the following variation kills it.
+
+Black is alive because of the atari at D5 sets him free]
+(;W[bp]C[vernon: This move guarantees life for the corner. See variation for a possible kill.]
+;B[bq]
+(;W[ao]C[vernon: This is actually incorrect. The correct move was A4. See variation.
+
+No this is actually correct: as now the atari at D5 is gone and black must play B2 to live]
+;B[br]
+(;W[fq]C[This move protects the cut at E3, and is not really big at all.  Losing E2 is small, white can take a big top left corner or just directly attack J3]
+
+(;B[lq]C[J3 is safe now];W[nr];B[mr]
+(;W[nq]
+(;B[pr];W[ns];B[ho]C[1 space jumps are for running away, sometimes we lean them in a direction to gain momentum for an attack later.  There isno attack here, so why lean towards strength.  J5 is better,  And if 1 space is good then 2 has to be better as black is not that weak here anymore]
+;W[qn]TR[sj][qj][rj][qk][rk][sk][sl][rl][ql][qm][rm][sm][pm]
+[om][pl][pk][ol]LB[oi:a]SQ[pj][oj][ok][nm][nl]C[These triangled spaces are Whites = 17 points
+a move at A increases the value of this area by maybe 5 more points.]
+;B[pj]C[vernon: A critical shoulder reduction move, in the face of a thick formation. Because this stone lived, B won with the reverse komi.]
+;W[qj];B[ok]TR[rj][sj][sk][rk][rl][sl][qk][ql][qm][rm][sm]C[The shoulder hit cost white 5 points, it's not so big]
+;W[oh];B[mj];W[be]C[YES finanlly a huge move];B[bf];W[ce];B[eg]
+;W[dk];B[ck];W[dj];B[di];W[dl];B[nh]C[vernon: This light group needs to run or make eye space. It can either flee to Q17 (upper right), to J3 (lower side), or to C10 (left side). C10 is being shut away, but ironically, it is the very group with which Q10 connects.]
+;W[oi];B[oj];W[ni];B[mi];W[qg];B[ml];W[ei];B[dh]TR[iq][ho][lq]
+[mr]MA[ml][mj][mi][nh][oj][ok][pj]C[These two groups are weak, splitting the apart first is a good idea, then one might die and white can win with this large komi]
+;W[kr]C[vernon: a strong move that uses P4's thickness. B has no choice but to give up N2 rather than suffer a bigger loss, IMHO.]
+;B[kq];W[lr];B[jr];W[mq];B[lo];W[lm];B[km]C[vernon: J3 uses Q10 to make territory in the lower center, but the connection path to Q10 is cut.]
+;W[ll];B[hm];W[kl];B[jm];W[jl];B[il];W[mh];B[lh];W[mg];B[ki]
+;W[jj];B[lg];W[mf];B[lf];W[mm]C[vernon: M7 wisely connects to P4, as it is about to be surrounded.]
+;B[jg]C[vernon: A different strategy would be to play N15 or O16 to finish Q10's connection to Q17. I decided, however, that reducing W in the upper center would gain more points.]
+;W[fe];B[gg];W[nd];B[nc]C[vernon: I still thought I could connect Q10 to Q17, but I was wrong.]
+;W[oc];B[ob];W[od];B[md];W[nb];B[pb]C[vernon: I decide to save the corner and lose the connection. Now the connection to C10 looks likely.]
+;W[mc];B[hh]C[vernon: This guarantees the cross board connection.]
+;W[rb];B[rc];W[pf]C[vernon: W senses the danger to O16 and protects instead of attacking the corner more severely. Was this correct?]
+;B[rf];W[rg];B[pd]C[vernon: Perhaps not needed. Would there be more points at N18?]
+;W[lb];B[kc];W[kb];B[he]C[vernon: This move is too bold for the weak link between Q10 and C10.]
+;W[hd];B[fn]C[vernon: I decide that this area reduces W more effectively.]
+;W[if];B[ig];W[hf];B[gf];W[ge];B[ej];W[fj];B[ek];W[fi];B[fl]
+;W[ik];B[hk];W[hj];B[ii];W[ij];B[ji]MA[gk]C[vernon: This should probably be at G9 (mark) or F9. Later W takes the E10 group because of that weakness.]
+;W[rd];B[qd];W[me];B[ld];W[sc];B[qc];W[re];B[se];W[hr]C[vernon: Good move takes many points.]
+;B[hq];W[gq];B[fo];W[do];B[gp];W[rn];B[ro];W[nk];B[nj];W[nl]
+;B[ql];W[rk];B[rl]C[vernon: This stab succeeds in taking some points.]
+;W[oe];B[rr]C[vernon: I became too nervous about the viability of this group. Was this correct? F9 and N9 are both possible moves.
+
+S3 seems to be a vital point, but I don't see how to kill black, there is just too much room, it's at least a seki]
+;W[gk];B[hl];W[gl];B[gm];W[el];B[fm];W[fk];B[bl];W[lj];B[li]
+;W[mk];B[kj];W[lk];B[mo];W[no];B[mp];W[qk];B[pl];W[pi];B[ln]
+;W[ef];B[fg];W[jd];B[df];W[de];B[cf];W[af];B[ag];W[ae];B[en]
+;W[ol];B[pk];W[pm];B[oq];W[sk];B[am];W[bm];B[al];W[es];B[ds]
+;W[gh];B[hg]C[vernon: Both the lower left and the upper right corners are good Ko threats for W.]
+;W[hi];B[jf];W[ie];B[ke]C[vernon: Now that Q10 is connected, it also has eyes.]
+;W[so];B[sp];W[sn];B[na];W[ma];B[oa];W[qf];B[sd];W[sg];B[sf]
+;W[ir];B[ks];W[ms];B[is];W[gr];B[dn];W[hs];B[js];W[cl];B[fp]
+;W[os];B[ps];W[ep];B[bk];W[an];B[cn];W[fh];B[aq];W[ap]C[vernon: This is incorrect, but I am not fixing it. Move 36 went on A4, and move 232 captured on A5.]
+;B[ff];W[ee];B[jq];W[ls];B[sm]C[vernon: wasted move.];W[kk]
+C[vernon: last point in the game.];B[eh];W[pe];B[sl];W[sb];B[qa]
+;W[kd];B[mn];W[dm];B[em];W[eo];B[rm];W[qm];AE[nh][rb][sb][sc]
+C[vernon: W wins on the board by 21, but with reverse komi, loses by 13.5.]
+)
+(;B[ns];W[pr];B[oq]C[White can do nothing]))
+(;W[oq];B[pr];W[ns]))
+(;B[bd];W[cc];B[bc];W[fd];B[lq]C[4 corners for Black, and the middle is completely destroyed, I think this will lead to a black win easily even with no  komi.]
+))
+(;W[ce]C[Huge White top, and black is under attack]))
+(;W[ap];B[br]C[This is unecessary as D5 will set him free]))
+(;W[br];B[cr];W[bq];B[bp];W[ar]C[vernon: I think this kills the corner.]
+;B[do];W[eo];B[eq];W[ep];B[fq]C[Black is alive]))
+(;B[pj])
+(;B[fq]C[But I still think this is bigger];W[dr];B[pj]))
+(;W[eq];B[lq];W[jc]))
+(;W[eq]C[Whites corner is done -- some weakness as C7 should be at C6, but black is too weak to take advatage of it.  Additionally J3 is under attack thus E3 is essentially a free move too]
+;B[lq];W[qe]C[And White has the momentum to approact the top right corner]
+))
+(;B[qe]C[Black has 2 weak groups and must keep the game simple]
+))
+(;W[qq];B[rq];W[pq];B[ro];W[kq];B[fq];W[eq];B[fp];W[dn]C[Black now has 3 weak groups]
+))
+(;B[po];W[no];B[pl];W[jq];B[qe]))
+(;W[no];B[po];W[mp];B[nn];W[mn]C[This gives white more influence]
+))
+(;B[oq]
+(;W[nq];B[pq];W[np];B[qn];W[jq];B[qe]C[the only weak group black has is the stone on the left, white has no territory yet and influence is scattered,]
+)
+(;W[pp];B[pq];W[qo];B[qq];W[pn];B[qe])))
+(;B[pe];W[oq]C[some joseki would follow])
+(;B[qe];W[oq];B[po])
+(;B[oq];W[pe];B[qe];W[qf];B[qd];W[pf];B[nc];W[qj])
+(;B[op];W[pe];B[qe];W[qf];B[qd];W[pf];B[nc];W[qj];B[iq]))

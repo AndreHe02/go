@@ -1,0 +1,103 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+GN[gtl]
+PB[Tigerchen]
+BR[10k]
+PW[Inego]
+WR[10k]
+KM[6.5]
+DT[2007-12-04]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[B+13.50]
+TM[1200]
+OT[1x20 byo-yomi]
+RU[Japanese]
+
+C[This is, I hope, an interesting game to analyze. Here I played as White. The game, due to mistakes by both sides, went close almost all the time, but the missed opportunity to kill Black lower right group made the day bad for me.
+First of all, I would like to know whether the fuseki I played had bad mistakes. Second, how the LR black group could be killed (I am sure there is a tricky way to do this).
+
+Thanks to the reviewer in advance.
+
+F: Dear Inego,
+I have 3 big remarks on this game
+
+1) you gave away too easily the upper left corner.
+2) letting black make a strong group on the lower left side (with move 11) was a big fuseki-mistake
+3) the lower right black group couldn't be killed, but it should have given you an excellent opportunity to chase it and in the meantime build your own moyo (framework). Have a look at the variations. 
+This is a general principle in go: attacking your opponent (if he lets you kill him even better) while making territory for your own. If he finaly lives with two points, and you made in between 30 points for your own, that's an excellent result.]
+;B[pd];W[dp];B[dc];W[pq];B[fq];W[hq];B[fo];W[dn];B[ip]
+(;W[kq]C[F: This is not good,  to leave your stone at H3 alone. After catching this stone, the black group is strong. See variation]
+;B[iq];W[ko]C[F: Black is strong now, so this move would be better at O4. Now an invasion at N3 looks promising for black.]
+;B[jd];W[de];B[fd];W[cd]C[F: one further at C17 is better (and also joseki)]
+
+(;B[cg]C[F: Overplay. See variation]
+(;W[ci]C[F: Black shoulf first play in the corner at C17];B[eg]
+;W[ei]C[F: Now black gets a big corner, you have only a moyo (potential territory)]
+;B[ee];W[fm];B[hn];W[pf];B[mc];W[qd];B[qc];W[qe];B[od]C[F: Black should play S17]
+;W[pj];B[qo];W[qm]C[F: Good];B[qq];W[qr];B[rq];W[pp];B[pn]
+(;W[qp]C[F: This is aji-keshi, you can better leave this move for later. See variation.]
+;B[rp]
+(;W[po]C[F: Not good, this forces black to protect one of his cutting point.  Variation]
+;B[qn];W[on];B[pm];W[ql];B[pl];W[pk];B[rr];W[or]C[F: Just connecting at Q2 is better]
+;B[rm];W[rl];B[sn]C[F: The black group is alive now.];W[om]
+;B[cc]C[F: Black should absolutely play at Q8]
+(;W[gn]C[F: Playing at Q8 is very big. The black group at the bottom is very strong, so attacking it has not much use. See variation]
+;B[go];W[eq];B[ep];W[eo];B[fp];W[er];B[fr];W[es];B[fs];W[fn]
+C[F: White should protect the cut at D3, this is small.];B[jr]
+;W[kr];B[nf]C[F: No black makes his moyo bigger, while threatening an invasion at Q12]
+;W[hm];B[in];W[gh];B[ih];W[gf];B[if];W[rc];B[qb];W[rb];B[oh]
+;W[ph];B[oi];W[oj]C[F: White should defend the right side. See variation on next move.
+This is also bad shape. Locally P8 would be better]
+(;B[nj];W[nk];B[mj];W[jm];B[mk];W[ml];B[jk];W[ll];B[lk];W[kk]
+;B[kj];W[kl];B[ik];W[hk];B[im];W[il];B[hj];W[gj];B[hi];W[gi]
+;B[he];W[hg];B[ig];W[og];B[ng];W[pi];B[be];W[lh]C[F: Overplay]
+;B[mh];W[mi]
+(;B[li];W[ki];B[jj];W[lj];B[bk];W[bm];B[li];W[bg];B[bh];W[lj]
+;B[dq];W[ni];B[cq];W[nh];B[mg];W[cp];B[bi];W[kf];B[kg];W[lg]
+
+(;B[jg];W[le];B[ld];W[ne];B[me];W[mf];B[lf];W[of];B[ke];W[mf]
+;B[jf];W[nd];B[nc];W[pb];B[pc];W[md];B[ob];W[le];B[dk];W[ek]
+;B[dj];W[ej];B[di];W[dl];B[cl];W[cm];B[bq];W[bp];B[ge];W[kf]
+;B[sl];W[rk];B[sk];W[sj];B[sm];W[ri];B[ks];W[so];B[rn]C[F: A white stone at P8 would have made a lot of difference, but now, there is no way to kill black.]
+;W[sp];B[qs];W[pr];B[rs];W[lc];B[kd];W[ji];B[ii];W[jl];B[ij]
+;W[ls];B[js];W[jq];B[hr];W[ps];B[ap];W[ao];B[aq];W[cs];B[ds]
+;W[ck];B[cj];W[dh];B[eh];W[bl];B[ck];W[ak];B[bj];W[ef];B[df]
+;W[cf];B[ff];W[mb];B[nb];W[ol];B[ro];W[jo];B[io];W[qa];B[pa]
+;W[ra];B[aj];W[al];B[jn];W[kn];B[jp];W[kp];B[hf];W[gg];B[fh]
+;W[fi];B[kh];W[hc];B[ic];W[ib];B[jb];W[id];B[jc];W[lf];B[jh]
+;W[li];B[hd];W[pe];B[tt];W[tt]TW[sa][sb][sc][rd][sd][me][re]
+[se][nf][qf][rf][sf][mg][ng][pg][qg][rg][sg][mh][oh][qh][rh]
+[sh][oi][qi][si][fj][mj][nj][qj][rj][fk][gk][lk][mk][ok][qk]
+[el][fl][gl][hl][nl][am][dm][em][gm][km][lm][mm][nm][an][bn]
+[cn][en][ln][mn][nn][bo][co][do][lo][mo][no][oo][lp][mp][np]
+[op][lq][mq][nq][oq][lr][mr][nr][ms][ns][os]TB[aa][ba][ca][da]
+[ea][fa][ga][ha][ia][ja][ka][la][ma][na][oa][ab][bb][cb][db]
+[eb][fb][gb][hb][ib][kb][lb][mb][pb][ac][bc][ec][fc][gc][hc]
+[kc][lc][oc][ad][bd][cd][dd][ed][gd][id][ae][ce][de][fe][ie]
+[je][af][bf][cf][ef][ag][bg][dg][ah][ch][dh][ai][ci][ho][so]
+[gp][hp][sp][eq][gq][hq][sq][ar][br][cr][dr][er][gr][ir][sr]
+[as][bs][cs][es][gs][hs][is][ss])
+(;B[lf];W[le];B[mf];W[jg];B[jf];W[kh];B[ke]))
+(;B[lj]C[F: White can't do anything]))
+(;B[pi];W[qi];B[pg];W[qg];B[qh];W[rh];B[qj]))
+(;W[ol])
+(;W[nf]C[F: Making your moyo bigger, while making blacks smaller is a good idea.]
+)
+(;W[dq]C[F: Locally protecting the corner is much bigger. This also threatens to run away with H3 by playing H2 and then connection to the left or the right.]
+))
+(;W[rn];B[ro];W[pm];B[nn];W[np]C[F: Attacking the group, while builiding your territory.]
+)
+(;W[pm];B[rn];W[rm];B[om];W[ol];B[nn];W[np];B[nl];W[ok];B[nk]
+;W[nj]C[F: Same principle]))
+(;W[pm];B[om];W[ol];B[on];W[np];B[nl];W[ok];B[mm];W[mj]C[F: It is better to keep black under pressure. In the meantime you can build your territory at the right and bottom right.]
+))
+(;W[cc];B[cb];W[bb];B[db]))
+(;B[cc];W[bc];B[bb]C[F: Black should first defend his corner, now....]
+
+(;W[ch]C[F: If white plays an extension,....];B[bd];W[be];B[ac]
+;W[cf]C[F: Black gets a big corner.])
+(;W[bd]C[F: If white connects, ....];B[ch]C[F: Black can couter-attack.]
+)))
+(;W[iq];B[jp];W[hp];B[ho];W[jq];B[kp];W[lr]C[F: The joseki goes along this line.]
+;B[gp]C[F: Black can add this stone to protect his connection, but sometimes this move is left for later.]
+))

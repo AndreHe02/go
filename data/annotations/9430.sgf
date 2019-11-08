@@ -1,0 +1,172 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.16]
+
+PB[spiritus4]
+BR[11k]
+PW[Scoby]
+WR[11k]
+KM[6.5]
+DT[2014-04-27]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[B+11.5]
+TM[1500]
+OT[20/420 Canadian]
+RU[Japanese]
+
+C[A Game on KGS against an Oponent from the same region.
+My problems in this game, at least what I think (please tell me, if I'm wrong):
+- My oponent some agressive moves I mishandled
+- I think my oponents position had wakneses, but I wasn't able to use these
+- I missed the big points in midgame
+
+
+Hi Scoby!  Thanks for submitting the game.  I have two pieces of general advice that can greatly improve your game.  I'll lay them out here, then point out where they apply in the game.
+
+1. Look at the whole board before deciding where to play.  It is very easy in Go to get caught thinking locally.  It's sometimes good to keep in mind two or three big points on the board where you'd like to play first if given the opportunity.  Thus, you will always remember that every move you're making a choice: play locally and risk losing a big point, or play the big point?  Often the local play is correct, but there are several times in this game where I think you could have gotten a better result by not playing locally.
+
+2. Read out the result of a play before you make it.  Or conversly, don't make plays just because they look right!  You should know what the outcome will be, or at least several possible outcomes if it's a complicated position.  But there are several times you make "looks right" moves in uncomplicated positions where a little reading would allow you to tenuki and take that big point.
+
+You can see that 1 and 2 above are related.  If you can do those consistently your game will make big strides.]
+;B[pd];W[dd];B[dp];W[pq];B[cf];W[fc];B[ci];W[fq]C[This is the right direction.  You don't want B to get a double-wing formation.]
+;B[dn];W[iq]SQ[jp]C[If this were me I would probably play K4 instead to balance 3rd and 4th line stones.  K4 threatens to make a big moyo with a play around R9.  It is a more flexible move in this situation, since you can still sacrifice F3 and take the corner at C3 if the situation calls for it.  J3 is less flexible.. you pretty much have to consider those stones as territory now.
+
+That's not to say this move is incorrect, it's a perfectly good move.  K4 may be something to experiment with in the future.]
+;B[bd]C[STOP!  Before you go to the next move I want you to consider what happens if you tenuki.  Where would you play?  If Black takes C17 are you in trouble locally?  What can you gain with a tenuki?  Don't move forward until you've thought about this, then you will see my opinion.]
+
+(;W[cc]SQ[pk][qk][ql]C[My opinion:  You have a great opportunity to make a big framework at the bottom.  Black's B16 is a bit slow, since your group isn't threatened and neither is his.  I would play at R8 in this situation.  R9 and Q9 are also options.  I have included a variation showing how you can defend your top group if Black tries to attack it.]
+;B[qo]C[Scoby: Is O4 here as a Response OK, or would P4 would have been better?
+
+Either play is fine.  I think your move is better in this case, as P4 would allow B to play between your territories on the bottom more easily in the future.]
+
+(;W[np];B[ql]C[Here I face the problem: From which side I want to approach Q16? I don't like approching from the top, because it's developable for black (right side), even I like it more for my own development of the top.
+
+
+The rule of thumb is to approach from the more open side.  Here that is definitely the top.  That would be the "correct" approach in most situations.  You don't have to worry about B developing the right, since as you say you will be able to develop the top as well.]
+
+(;W[qf];B[qh]C[Scoby: I didn't jump in the corner here, because it would have resulted in a wall facing black influence. would it have beeen better?
+
+
+This is part of why it's better to approach from the top.  The pincer becomes very good for B in this case.  The R17 invasion is still playable here in my opinion.  Your move is good too.]
+
+(;W[of];B[pf]C[Scoby: I think I attari here the wrong way
+
+
+Both are possible, and I agree that atari at Q15 "looks" better.  But you have to read it out to be sure, you can't play a complex position like this based on a "looks good" feeling.  Reading something like this seems very hard, but it's really not.  I've removed the variations you left and replaced them with examples of how I would actually read this in a game under time constraints (your 25 min + byo-yomi is similar to what I play).  You should get in the habit of actually reading this deep.  You only have to do it a few times per game in complicated situations like this one for it to have a big impact on your play.  But you will gain SO MUCH by actually reading out positions like this one compared to playing what "looks right."
+
+You'll see I've read out 8 lines here.  That's not really all that much, and I think you can work up to it.  Based on those it seems pretty clear that Q15 is in fact better.]
+
+(;W[pg]C[Scoby: perhaps leaving both cuts was bad too];B[pe]
+SQ[og][qg]C[In a real game I would read out each possible connection.]
+
+(;W[qj]C[I agree that this is not good at all unless you read out that you have no good options by connecting.  Leaving B the cut at R13 seems very very bad.  That is a move you should DEFINITELY read out, since it seems like such a good/obvious response for Black.  Do you have a response to R13?]
+;B[qg];W[qc];B[pc];W[qd]C[
+
+Reading to decide on move 20: In a real game I would stop reading here and try to find another option.  It looks like W can maybe live, but will definitely be sealed off and probably not get sente.  Maybe this is the best we can get, but you should try to find another option.]
+
+(;B[qe];W[pb];B[ob];W[qb];B[nc];W[re];B[rf];W[sd];B[og]C[STOP!  Before you go to the next move I want you to consider the whole board.  Your group in the corner is alive and B has separated these stones.  This is the time to consider whether you want to continue locally or move elsewhere.  What would your non-local plays be?  What would be the outcome of your local plays?  Move ahead once you've thought about this.]
+;W[ph]SQ[ic][jd][oj][cl][ol][fo][qp][cq][dr]C[I hope you can see already that this is the one move in the entire game that I hope you never repeat!!!!!  White has almost no local potential here.  If B had taken a move to play Q12 and capture that single stone W would say "thank you for the free move."  That stone has almost no potential.  Don't try to save it!!!!!
+
+I have marked a number of alternatives you could consider.  If it were me I would probably play at the top.]
+
+(;B[nf]C[This is not best for B.  I show how I would punish W here in a variation.]
+;W[oh];B[ng];W[nh];B[hc]C[The fact that B gets this move first is very bad.]
+;W[bc];B[dk]TR[he]C[This move should be at the top.];W[jd];B[jc]
+;W[kc];B[kd];W[ke];B[ld];W[ic];B[jb];W[id];B[ib];W[hd]C[this reduction was reasonably effective.  You can see why B should have played here first.]
+;B[pi]C[Scoby: Here I misread the situation completely
+
+
+Just remember: Any mistake you make here is still a consequence of the initial bad idea to save these stones.  Now that there are 4 instead of 1 they are much harder to sacrifice.]
+;W[qi];B[pj];W[pk];B[oj];W[nk];B[qk];W[rh];B[rg];W[ok];B[rj]
+;W[ri];B[si];W[nj];B[sh]C[Scoby [11k\]: was ich da gelesen hab...]
+;W[mh];B[je];W[jf];B[ie];W[gc];B[hb];W[kf];B[lg]C[Strange move from B.]
+;W[hf];B[he];W[gd];B[ge];W[mg]C[B can actually ignore this and cause you move problems elsewhere.]
+;B[mf];W[lf];B[me];W[kh];B[if]C[STOP!  Before you make a local move look at the whole board.  Your last move ensured your group in the middle is safe and connected.  If you were to tenuki where would you play?  If you do that, can B hurt you locally?  Answer that before you move on.]
+;W[ig]SQ[fo][qp][cq][dq][dr]C[This purpose of this move isn't clear to me.  You definitely can't capture B here.  The H14 stone is not consequential.  This does help create more eyespace for your middle group, but that group doesn't appear to be in danger.  There are several more important points below.  Since you now have lots of thickness in the middle a play like F5 is very attractive.  It will be hard to invade your moyo.]
+;B[hg];W[gf]C[This is more local focus on stones you don't actually need to save.]
+;B[fe];W[hh];B[gg];W[ih];B[gh];W[ef];B[ff];W[ee];B[eg]C[Your gains here have been minimal, but you got away with sente, which is good.]
+;W[rq];B[rp];W[cq]C[This invasion isn't wrong per se, but I think I woul prefer F5 in this game.  You have a lot of potential here and the invasion allows B to eat into that.]
+;B[dq];W[cp];B[co];W[dr];B[er];W[cr];B[eq];W[bo];B[bn];W[ap]
+;B[ds];W[cs];B[bq];W[br];B[an];W[aq];B[gr]TR[fp]C[You can see how the corner invasion affects your overall territory at this point.  This move is actually a mistake by B.  F4 would be better locally.]
+;W[fr];B[fs];W[es];B[qq];W[qr];B[ds];W[eo];B[do];W[es];B[pa]
+;W[rb];B[ds];W[cm];B[cn];W[es];B[fp];W[gs];B[gq];W[fs];B[hp]
+;W[ip]SQ[hr]C[H2 is more important for your territory here as you see shortly.]
+;B[qp];W[pp];B[ir];W[jr];B[hs];W[ds];B[jq];W[kq];B[hq]
+(;W[jp]C[Scoby: I think taking was wrong here. Too scared of K3. It doesn't have much agi
+
+
+Yes, the simple extension is better locally.];B[gl]C[Big point. I should have taken it. His Formation has so manny defects....
+
+
+At this point there isn't too much action left in the game.  B has a strong lead and there aren't many "whole board vs local play" decision left, which I think is the main thing you should work on.  My only remaining comment is at move 178.  The main thing to avoid is trying to save stones that don't have a lot of potential.  If you keep in mind the need to check the whole board whenever the action settles you can avoid plays like that and you will get quite a bit stronger.  I hope this review was helpful!  Please feel free to email if you have any questions.
+
+David];W[go]C[unneccesary fishing for agi...];B[gp];W[il];B[ho]
+;W[gj];B[in];W[jn];B[jm];W[im];B[jo];W[kn];B[io];W[ko];B[hk]
+;W[ik];B[hj]
+(;W[ij];B[hi];W[hm];B[gm];W[gn];B[ep];W[hn];B[fn];W[fo];B[en]
+
+(;W[ce];B[be];W[df];B[cg];W[dg];B[dh]
+(;W[eh]C[Scoby: Way too late for invading this.];B[fg];W[di]
+;B[ch];W[ei];B[gi];W[gk];B[hl];W[fm];B[fl];W[em];B[dm];W[pn]
+;B[po];W[oo];B[qn];W[pm];B[ii];W[ji];B[jj];W[jk];B[kj];W[kk]
+;B[ki];W[jh];B[lj];W[li];B[lh];W[kg];B[lk];W[kl];B[ll];W[km]
+;B[qm];W[gb];B[rr];W[rs];B[sq];W[qs];B[ed]C[Scoby: I should have seen this long time ago ;-)]
+;W[ec];B[de];W[cd];B[qa];W[ra];B[oa];W[pl];B[af];W[ad];B[ao]
+;W[bp];B[sf];W[sc];B[se];W[rd];B[sr];W[fd];B[ee];W[oi];B[ss]
+;W[pr];B[ae];W[ac];B[kb];W[js];B[ga];W[fa];B[ha];W[is];B[hr]
+;W[le];B[md];W[tt];B[tt]TW[aa][ba][ca][da][ea][sa][ab][bb][cb]
+[db][eb][fb][sb][dc][rc][jg][lg][lh][ki][mi][ni][jj][kj][lj]
+[mj][lk][mk][jl][ll][ml][nl][ol][jm][lm][mm][nm][om][ln][mn]
+[nn][on][lo][mo][no][kp][lp][mp][op][bq][jq][lq][mq][nq][oq]
+[ar][kr][lr][mr][nr][or][as][bs][ks][ls][ms][ns][os][ps]TB[ia]
+[ja][ka][la][ma][na][lb][mb][nb][kc][lc][mc][oc][nd][od][ne]
+[oe][bf][df][ef][gf][hf][of][qf][ag][bg][dg][sg][ah][bh][eh]
+[fh][rh][ai][bi][di][ei][fi][qi][ri][aj][bj][cj][dj][ej][fj]
+[gj][qj][sj][ak][bk][ck][ek][fk][gk][rk][sk][al][bl][cl][dl]
+[el][rl][sl][am][bm][cm][em][fm][rm][sm][rn][sn][ro][so][sp]
+[rq])
+(;W[ed])
+(;W[gb]))
+(;W[be]C[This captures the stone.]))
+(;W[hi];B[gi];W[ij]))
+(;W[io])
+(;W[fk]))
+(;B[pi];W[oh];B[ng];W[qi];B[pj];W[ni];B[pk];W[nf];B[mg];W[mf]
+;B[lg]C[Which group does W save?  This is going to be ugly.]
+))
+(;B[qb]C[This is a little bit better for B than what he played in game.]
+;W[rb];B[pb];W[ra];B[qe];W[re];B[rf];W[sd];B[sf];W[sb]))
+(;W[og];B[qg]C[This line is similar to the one you took.  The same result will happen in the corner and B will probably get sente if you live.  What about connecting at R13?]
+)
+(;W[qg]TR[qe][og]C[B probably has 2 options here.]
+(;B[qe];W[ph];B[qi];W[nd]C[B takes the corner but W has reasonable potential but is somewhat thin.  I don't like this as much as some of the options where we atari at Q15.]
+)
+(;B[og]SQ[rd][nf][rh]C[The ladder at O14 works, so B will have to repond over there.  S16 and S12 are also options.]
+;W[nf];B[ph];W[oh];B[ng];W[rh]C[This is a complicated fight, so I wouldn't expect you to read it out in a game when you're still deciding how to deal with B's original play at Q14.  Given the complications, I would probably elect to play at Q15.]
+)))
+(;W[pe]TR[pg]C[Let's try reading this atari.  You can ignore any response other than B extending the atari stone.  If you get a ponnuki here that's an excellent result.  Learning to "prune" your reading in this way is important.]
+;B[pg]SQ[oe][qe]C[Now we have to connect a cutting point.  We can look at each.  You can ignore options other than connecting unless there is some tesuji you know already or you notice something interesting that might work.  It's too hard to read something overly complicated.  If none of the options you read works then you can try to find something else, but there are plenty of options here so keeping it simple is good.]
+
+(;W[qe]TR[od][qd]C[This emphasizes the corner.  What can B to to hurt us here?  The push at R16 and the peep at P16 seem reasonable.]
+
+(;B[qd];W[od]C[This is playable.  We can escape and B's corner is under threat.]
+)
+(;B[od]SQ[qd][oe]C[We can connect or push to the corner.];W[qd]
+TR[qc][oe]C[Here B can hane to the corner or cut.]
+(;B[qc];W[rc];B[qb];W[oe]SQ[nd][qj]C[W connects.  Although the group is weak, W has no other weak groups and B has weaknesses on both sides.  This is acceptable.]
+)
+(;B[oe];W[pc];B[oc];W[qc];B[nf]C[W gets the corner, B gets good influence, but W has sente to play on the top.  Good result.]
+)))
+(;W[oe]TR[qd][qe]C[This emphasizes influence and invites B to take the corner.  B can either cut or peep.]
+;B[qd]SQ[od][qe]C[W can connect or push.]
+(;W[qe];B[nc];W[rd];B[rc]C[W's group is weaker than the alternative where we connected at R15 first (see other variation).  So I would eliminate this option.]
+)
+(;W[od];B[qe];W[oc]C[B gets the corner and W gets influence.  This is acceptable, though I still prefer the outcomes where we connect at R15 instead of P15.]
+))))
+(;W[qc]))
+(;W[nc]))
+(;W[op]))
+(;W[ql]
+(;B[cc];W[ic]C[You are safe.])
+(;B[hc];W[cc]
+(;B[ef];W[fe];B[gg]SQ[ej][ek]C[This is probably the best way to play for Black.  Now W has to consider how to deal with the framework on the left.  Reducing that framework will be the next focus of play.]
+)
+(;B[bc];W[fe]))))

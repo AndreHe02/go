@@ -1,0 +1,66 @@
+(;FF[4]GM[1]SZ[19]AP[SGFC:1.12]VW[]C[Some genaral comments:
+
+Do not make blind invasions: Look, if they are reasonable and if there is a continuation.
+
+Try to look some moves ahead in critical situations. If you put stones on the board, that do nothing but being captured, you are helping your opponent to much.
+
+Do not save allways try to save all your stones. Do give one or two stones away and make profit, by threataning to link them up or something else.]
+PB[Yeow]BR[30k]PW[justinP]WR[30k]GN[justinP-Yeow(B) IGS]DT[1996-12-13]PC
+[IGS:  igs.nuri.net 6969]TM[1200]RE[B+Resign]US[Brought to you by IGS]KM
+[5.5];B[dp];W[dd];B[pp];W[pd];B[cf];W[gc];B[dj];W[pn];B[np];W[pj];B[ee]
+;W[ec]LB[ed:a]C[This move schould be at A. There is no good possibility for Black, to invade your corner.]
+;B[ed];W[dc];B[he];W[jd]C[Good. Your territory grows faster than blacks.]
+;B[jp];W[qo];B[qp];W[pl];B[jj];W[pg]LB[dn:a]C[I would make an invasion around A. Your position at the right is a bit overconcentrated now.]
+;B[hc]C[This is an overplay. You handled it good.];W[hd];B[gd];W[id];B[fc]
+;W[gb];B[ge];W[fb];B[ib];W[dn]TR[hc][ib]C[The marked stones can only live at a very small scale. Tenuki (Playing elsewhere) is a good idea.]
+;B[fp];W[dl];B[cl];W[cm];B[ck];W[cq]LB[co:a][cp:b]C[Probably better at A. If Black plays B, you have a problem, if you want to save both groups. But you are lucky.]
+;B[dq];W[cp];B[cr];W[do];B[bq]C[Bad move, because it is gote for black.]
+;W[bp];B[br];W[ch]LB[mc:a]C[That is an overplay, I think. You have a lead on the board, play simple moves, like A, and be happy with your sente invasion.]
+;B[dh]C[The only move...];W[df];B[de];W[ce];B[ef]LB[dg:a]C[If Black had played A, the ladder had worked directly...]
+;W[dg];B[cg];W[eg];B[fg];W[eh];B[ei];W[di];B[fh];W[dh];B[bh]C[... But so your stones are dead anyway. I have no good alternative. The first stone played there, might be the wrong one.]
+;W[bf];B[bg];W[be];B[bc]TR[bc]LB[bd:a]C[A will kill the marked stone (see variation).]
+
+(;W[fd];B[cd];W[bd]LB[cc:a]TR[be][ce][bf]C[Now there is no chance to hold the marked stones. Better play on A, to hold the stones in the upper corner sureley.]
+;B[cc];W[ac];B[ab];W[bb];B[ad];W[cb];B[ac];W[af];B[ag];W[aa];B[ba];W[ca]
+;B[db];W[aa];B[ae]C[You are lucky, that black don't play the ko. But probably he has no such ko threat and he has a lead now anyway.]
+;W[eb];B[kb];W[mc]LB[lc:a]C[Better on A. If Black plays A, there is no easy continuation for you. Black can live there on a small scale anyway, but you will have a solid outer wall.]
+;B[mb];W[nc];B[lc];W[ld];B[kd];W[ke];B[kc];W[ic];B[hb];W[ha];B[le];W[md]
+;B[je];W[jb];B[kf];W[ia];B[ie]LB[if:a][hf:b]C[This move is useless. If you play there, black can play a. The cut at b is not playable.]
+;W[hl]C[Good. It takes away something of blacks influence in the middle and prepares an invasion at the lower side.]
+;B[jl];W[ll];B[el];W[em];B[dk];W[dm];B[fm];W[fl];B[ek];W[gm]TR[fl][hl]LB
+[fn:a][gn:b][hm:c]C[How do you want to save your three stones, after black had played A? So better blay A for yourself and give the marked stones away. If black saves his endangered stone, you can play B, threatening C, so it is sente. After that you can think of an invasion at the lower side, which is quite open.]
+;B[fn]C[
+ justinP 30k : is entering byo-yomi];W[fo];B[go];W[eo];B[gn];W[lg]LB[bn:a]
+C[Your lower left Group has no living shape, and no possibility of making an eye outside now. A move at A is necessary]
+;B[kg];W[lh];B[kh];W[li];B[om];W[pm];B[ok];W[pk];B[lk];W[kk]LB[ol:a]C[What about A instead? This move threatens so much, that there must be somewhere profit for you.]
+;B[kj]LB[mk:a][lj:b]C[A instead of B next? Give it a try and look at the variation.]
+
+(;W[lj];B[mk];W[kl];B[jk];W[jm];B[hm];W[im];B[gl];W[hn];B[gm];W[il]LB[kn:a]
+C[A is probably better here. It makes someting of an eye. But I don't see, how you can get two there, anyway.]
+;B[km]LB[on:a]C[Serious mistake from black. If he plays simply a, there is still no way for you, making two eyes. You exploited his mistake quite good, even if it had not worked. Look at the variation. I think it does its job.]
+
+(;W[kn];B[lm];W[ml];B[nl];W[mm];B[ln];W[mn];B[lo];W[mj];B[nk];W[on];B[nn]
+;W[no];B[mo];W[oo];B[op];W[nj];B[oj];W[oi];B[me];W[ne]LB[bo:a]C[Even without counting, you can estimate, that blacks territory is bigger than yours. And, if black plays A now, your group on the left side is dead. Probably this is a good place to resign.]
+;B[nf]C[
+ justinP 30k : has entered byo-yomi again];W[of];B[oe];W[nd];B[og];W[pf]
+;B[mg];W[oh];B[ng];W[ni]LB[nh:a][bn:b]C[Not necessary. If black plays there, you play A. Use sente to make two eyes in your lower left group, for examle at B]
+;B[ap]LB[bo:a]C[Black A might be better. But even so, there is no chance for you, to save the group, i think.]
+;W[ao];B[bo];W[aq];B[co];W[bn];B[ap];W[bp];B[cp];W[ap];B[cn];W[bm];B[bl]
+LB[rp:a]C[Around A there is the biggest move left. But what about the (sente!) variation?]
+
+(;W[rp];B[rq];W[sp];B[sq];W[ol];B[nm];W[rn];B[pa]C[See variation for a better example of an answer to the monkey jump.]
+
+(;W[nb];B[na];W[qb];B[pb];W[pc];B[qa];W[rb];B[rd]LB[qd:a][qc:b][rc:c]C[
+ justinP 30k : I resign, Ishould of ages ago, thanks for the game it was fun.
+
+This decision is right anyway. But the invasion, Black played, could be answered by you at A, B or C, where A is the best, I think. It is clearly an overplay.]
+)
+(;W[pb];B[oa];W[qa];B[na];W[qb]))
+(;W[ro];B[rp];W[sp];B[sq];W[so];B[rq]))
+(;W[ol];B[nl];W[nm];B[on];W[ml];B[nk];W[nn];B[oo];W[lm];B[kn];W[ln]LB[ko:a]
+C[Threatening A!];B[ko];W[oj]C[Two liberties vs. three.]))
+(;W[mk];B[lj];W[mj];B[ml];W[nl];B[mm];W[nm];B[on]LB[nn:a][no:b]TR[om][ok]
+C[If Black plays A here, you make blacks move, getting the marked stones. Then he must make someting around B. If he don't, look on, what will happen.]
+;W[nn];B[oo];W[mn];B[lm];W[ln];B[km];W[ol]))
+(;W[bd];B[cc];W[cb];B[bb];W[db];B[cd];W[ba]C[Black has two libberties to three for white.]
+))

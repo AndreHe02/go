@@ -1,0 +1,126 @@
+(;FF[4]GM[1]SZ[13]ST[2]CA[UTF-8]AP[SGFC:1.16]
+
+PB[Scaevola]
+BR[17k]
+PW[salseeg]
+WR[12k]
+KM[5.5]
+DT[2015-01-17]
+PC[OGS: http://online-go.com/game/review/49717]
+RE[W+Resign]
+RU[Japanese]
+
+C[H: Hi, this is Hannes reviewing for Black.
+
+I'll mark my comments with "H:".
+
+Here's what I think about Black's game:
+
+- Especially when not a strong player (let's say 5k or better), you should try to follow the sequence of "corners first, then the sides, then the center".
+Simply because it is most easy to "get" a corner or to extend along a side.
+
+- Above also helps you keep the game simple instead of engaging in complicated fights.
+
+- Especially when engaging in close fights, where you try for every small advantage, take your time to evaluate the whole board and answer the question: is your move really move valuable than moves you could do elsewhere? Try to estimate how much you get by loosing the local fight. Especially early in the game chances are high that your local advantage in close combat may be dwarfed by a move in some empty regions.
+(Actually the most generic advice I can give, sorry, but still true and clearly visible in this game.)
+
+- When multiple moves are available (especially, but not limited to, the endgame), start with those that let you keep sente.]
+;B[jd]C[Aside from how I responded to move 90, how could I have played more strongly?
+
+H: (below is not an answer to your question; we'll come to that in the course of this review)
+
+Playing 4-4 is certainly fine. Just note that the 4-4 on this 13x13 board differs fromn how it "works" on a 19x19. Here, it has more direct influence on the center and the fact that it does not secure the corner may weigh higher on the small board.]
+;W[dj];B[fk]LB[hk:A]TR[jj][kj][jk][kk]C[H: As black has sente, there is no need to attack before addressing the corners - black still can do that afterwards. 
+
+Imagine white responding by playing at A: black would be under immediate pressure, immediately loosing the initiative he has from starting the game.
+
+All of the triangled points would have been better choices (plus their counterparts in the upper left corner).
+
+In a typical opening, one would go for the corners, then for the sides and then extend/attack/reduce/invade.
+
+That being said, none of you followed that route ;)];W[dg];B[jj]
+LB[jd:A][jj:B][fk:C]C[H: Just to illustrate my last comment: black could have reached this situation by playing A, then B and then C. Without putting C in danger of being under pressure right from the start.]
+;W[hd]LB[dg:B][dj:A]TR[cd][dd]C[H: Same issue here: White attacks without necessity. Combining A and B with one of the triangled points would have given him a nice starting point for extensions.]
+;B[fd]LB[fd:E][hd:B][jd:A][jj:C][fk:D]TR[ic][cd][dd][kg][fi]
+[dl]C[H: As Black A is far from being settled (as it's a 4-4 without any support; note that C has D at least), trying to cut off B immediately creates two weak black groups: A and E.
+
+As Black has sente, he may make one of these groups stronger while attacking B, but hardly both.
+
+The triangles show other options for
+- extending the black framework
+- fortifying the black corner
+- settling in the corner that white ignored];W[dd]LB[dd:A][fd:B]
+C[H: see how white A makes B a stone under attack (while he was the attacker before).]
+;B[dc]LB[dc:A][ec:B][fd:C]C[H: This is a very bold attack. A contact move without much support from other black stones. If white decides to attack A from the B side, C is facing a stronger and stronger group on his left.]
+;W[cc];B[ec];W[cb];B[hc];W[gf];B[jg]LB[kg:A]C[H: Playing A would have given the black right hand side a little more support from the right edge.]
+;W[kk];B[jk]LB[kj:A][fk:C][jk:B]C[H: Good decision. Sealing in the white stone at A would have created a black wall facing the side where black already has several stones.
+
+By playing B. black will get more support for his C stone.]
+;W[kj];B[ki];W[li];B[kh];W[lh];B[ck]LB[lg:A][ck:D][jl:B][kl:C]
+C[H: Black misses to end this corner sequence through with moves around A and B/C.
+
+Not playing A makes black vulnerable to a monkey jump, which also is quite close to the upper right hand corner.
+
+Attacking at D makes sense, but should have come after properly sealing white in on the lower right.]
+;W[cj];B[dk]LB[fk:A]C[H: Good response. Works nicely with black A]
+;W[fj];B[hj]LB[hj:B][fk:A][gk:C]C[H: Note that the knight's move (A-B) allows white for cutting at C (cf. variation).
+
+As the A stone already is unconnected, adding an additional cutting point should be avoided. 
+
+Playing C instead of B would have been more stable.]
+(;W[gj];B[gk]C[H: good result for black (as white did not cut)]
+;W[hi];B[ii];W[hh];B[ef]LB[dd:B][gf:A]TR[ee][fe]C[H: good idea, reducing white's territory. But with white A and B around, the knight's move again allows for cutting cutting at the marked points (cf. variation on #34).]
+
+(;W[ee];B[fe];W[df];B[ed];W[de];B[ff];W[fh];B[hg]LB[db:D][hd:C]
+[gf:B][lg:A][bk:E][jl:F]C[H: Unless black is able to cut off the white stones (B and/or C), there is not much to gain in the center. 
+
+A is the most pressing open situation, then there are D and the situation around E and F.]
+;W[gg];B[hf]LB[hd:A][ie:C][if:B]C[H: pushing white against his "friend" at A does not sound like a good idea.]
+;W[ge];B[gd]LB[he:A]C[H: If black plays this forcing move, he must have a plan how to deal with white A.]
+;W[he];B[ie]LB[jd:C][ie:B][hf:A]C[H: Creating a double-hane (A,B.C), this calls for trouble.]
+;W[id];B[ic]LB[jd:C][ie:B][hf:A];W[if]
+(;B[ig]LB[je:A]TR[hf][hg]C[H: Playing A, here (cf. variation on #51) would have stabilized the situation by sacrificing the marked stones.]
+;W[je];B[jf];W[jc];B[kd];W[ie];B[ke];W[lf];B[le];W[jl];B[il]
+;W[kl];B[db];W[da];B[ea];W[ca];B[fg];W[gh];B[kg]TR[eg][bj][im]
+C[H: Not necessary. Black could have gotten more out of being sente by playing the marked points.]
+;W[lg];B[bj];W[bi];B[bk];W[ai];B[ej]TR[eg][im]C[H: At some time, black needs to play this move. But note that black looses sente in this sequence. So he should play other moves first that let him keep sente (cf. the marked points).]
+;W[ei];B[ek];W[hl]
+(;B[ik]LB[hk:A]C[H: Good move. (A is an option, too. Cf. variation.)]
+;W[im]
+(;B[hk]C[H: cf. variation];W[gl];B[fl];W[hm];B[aj];W[ch];B[ih]
+;W[eg];B[kf];W[fb];B[gb]LB[eb:A]C[big mistake apparently
+
+H: only together with the defense at A, later on.];W[fa]
+(;B[eb]C[H: This one creates the snap-back. Cf. variation.]
+;W[gc]
+(;B[ga]LB[ic:A][kd:B]C[H: Black forces white to capture? He should rather be concerned with the A group which is split from the B group.
+
+This does not help wrt. the score, but cf. the variation anyway.]
+;W[fc];B[hb]C[H: Misreading by black. This group has only two liberties and white has sente.]
+;W[ib])
+(;B[jb];W[hb];B[ib];W[ga];B[kb];W[ia];B[ja];W[ha];B[fm];W[me]
+;B[md];W[mf]TW[aa][ba][ea][ab][bb][db][eb][gb][ac][bc][dc][ec]
+[fc][ad][bd][cd][ed][fd][gd][ae][be][ce][fe][af][bf][cf][ef]
+[ff][ag][bg][cg][fg][mg][ah][bh][dh][eh][mh][ci][di][fi][gi]
+[mi][lj][mj][lk][mk][ll][ml][km][lm][mm]TB[ka][la][ma][lb][mb]
+[jc][kc][lc][mc][ld][jh][ji][ij][ak][al][bl][cl][dl][el][am]
+[bm][cm][dm][em]))
+(;B[gc];W[eb];B[jb];W[ga];B[ha]TW[aa][ba][ab][bb][ac][bc][ad]
+[bd][cd][ae][be][ce][af][bf][cf][ag][bg][cg][ah][bh][dh][eh]
+[ci][di][fi][gi]TB[ia][ja][ka][la][ma][hb][ib][kb][lb][mb][jc]
+[kc][lc][mc][ld][md][me][lf][mf][lg][mg][jh][lh][mh][ji][li]
+[mi][ij][kj][lj][mj][ak][kk][lk][mk][al][bl][cl][dl][el][gl]
+[hl][jl][kl][ll][ml][am][bm][cm][dm][em][fm][gm][hm][im][jm]
+[km][lm][mm]C[H: W:33.5, B:72 points]))
+(;B[gl]LB[hk:A]C[H: note that in this sequence, white never can play A without being caught himself.]
+;W[hm];B[gm];W[jm];B[hk]))
+(;B[hk]C[H: This is an option as well. White captures one black stone. but is stopped more quickly.]
+;W[im];B[gl];W[ik];B[gm]))
+(;B[je];W[ig];B[jf]))
+(;W[fe];B[ee];W[ed];B[ff];W[ge];B[cd];W[de];B[df];W[ce]))
+(;W[gk]
+(;B[gj];W[ek];B[fl];W[el]C[H: not good for the left "black" corner]
+)
+(;B[ek];W[gj];B[gl];W[hk];B[ik];W[hl]C[H: white splitting black's groups apart.]
+)
+(;B[ej];W[gj];B[ei];W[gh]C[H: unclear result])))

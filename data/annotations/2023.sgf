@@ -1,0 +1,58 @@
+(;FF[4]GM[1]SZ[9]ST[2]CA[UTF-8]AP[SGFC:1.13b]
+
+GN[game1]
+PB[me]
+PW[me]
+KM[0]
+DT[2002-08-23]
+RE[?]
+RU[Japanese]
+
+C[This is my first game I recorded and it's the first in which I tried to play serious..
+
+I am from germany and I just started to play go but the short explanations
+on the websites I found could not solve my early problem of who wins or even
+when the game is over...
+
+---
+Hallo Sven,
+
+this is Zoran, Angalot at the Kiseido Go Server. In this review I will try to explain some of the main ideas that you should focus on when trying to find your next move, or the appropriate line of play. If you find it hard to understand, please send me an e-mail to bruce@tesla.rcub.bg.ac.yu, and I will elaborate. Have fun!]
+;B[cg]SQ[ah][bh][ai][bi]C[This is a move that is often seen in 9x9 games. It almost guarantees posession of the marked territory by Black.]
+;W[cc]C[White replies similarly.]
+(;B[dh]C[This move is not neccessary, as White has not yet tried to "invade", that is, to reduce Black's control of the lower left corner.
+When playing the first few moves (an opening, or fuseki in Go terminology), you generally want to place your stones as far as possible. Consider the variation for a possible line of play.]
+;W[gc]C[now White takes another corner...];B[gg]LB[hf:A]TR[dh]
+C[...and Black responds similarly, but the tables have reversed in a way: because of the D2 move which didn't bring anything that important to Black, now White is the one who gets to play somewhere interesting. Remember: if you play on the 3x3 point (circled stone), you don't need to add a stone there until your opponent approaches at A or nearby.]
+;W[ed]C[White uses his two corner stones to take the whole upper side.]
+;B[dd]C[this Black move was a bit panicky. It violates the rule I've just exposed, which says that you must place your stones as far *as possible*. In this case, Black has gone too far away from his supporting forces, and White can try to capture this stone.]
+;W[de];B[ce];W[dc]LB[cd:A]C[White would have done better if (s)he played at A instead; still, this is a solid move which prevents Black from intrusion.]
+;B[bd]SQ[ae][be][af][bf][ag][bg]C[Black responds by building some more potential territory along the left side.]
+;W[fe];B[ef];W[gd];B[df];W[he];B[hf];W[ad]C[this is a mistake by White; playing "under" a stone that stands on second line works only in special occasions.]
+;B[ae]LB[ac:A]C[Black responds adequately, although a play at A instead would bring more profit (why?)]
+;W[fc]LB[ff:B][if:A]TR[dd]C[this is a slack (unneeded) move by White; better would be to attack Black's potential territory at A or B, or even to capture the marked stone.]
+;B[ff]C[okay, Black prevents White from attacking there];W[if]
+;B[ig];W[ie];B[ac]LB[bc:A]C[well, that stone had to go anyway, it would have been better for Black to play at A.]
+;W[bc]LB[bb:A]C[White should have played at A to prevent the next move played by Black.]
+;B[bb];W[eb]LB[cb:A]C[and again, a play at A would stop Black from intruding much further.]
+;B[cb];W[da];B[ca]TR[dd][de]C[The game of Go ends when both players "pass", that is, refuse to play a stone. During the game a player may pass at will, but only when both of them pass in succession the game is considered over.  In this position both of you forgot to capture one of the marked stones, which would bring one of you 1 point of score.
+
+Let's do the counting now.];W[fh];AE[fh]TW[ea][fa][ga][ha][ia]
+[fb][gb][hb][ib][ec][hc][ic][fd][hd][id]TB[aa][ba][ab][ad][be]
+[af][bf][cf][ag][bg][dg][eg][fg][hg][ah][bh][ch][eh][fh][gh]
+[hh][ih][ai][bi][ci][di][ei][fi][gi][hi][ii]C[Here you can see how the counting is performed. All of the intersections that are completely surrounded by stones of the same color belong to that player and are counted as his points. To that you add 1 point for each captured stone and that gives you players' total score.
+
+To conclude, I'd like you to think about the following when playing your next games:
+1) place your stones as far as possible, but not too close to enemy
+2) attack to increase your own potential territory and decrease that of your opponent
+3) play a lot, and play for fun!
+
+Hope I helped,
+Zoran Rilak
+bruce@tesla.rcub.bg.ac.yu])
+(;B[gg];W[gc];B[eg];W[ec];B[ge];W[ce];B[hd];W[hc]C[W must play here to stop Black from intruding into his potential territory.]
+;B[bf];W[be]C[here too];B[ee]SQ[he][ef][ff][gf][hf][if][bg]
+[dg][fg][hg][ig][ah][bh][ch][dh][eh][fh][gh][hh][ih][ai][bi]
+[ci][di][ei][fi][gi][hi][ii]C[in this oversimplified example Black has used his moves to both attack opponent's potential territory and to expand his own.
+As I hope you can see, being Black in a 9x9 game puts you in a desirable position of playing first and, as such, playing moves that White must answer unless he wants his potential territory to reduce while Black's increases. Squares mark Black's potential territory and circles mark that of White, and if you count them, you will see that White will have a hard time winning this game.]
+))

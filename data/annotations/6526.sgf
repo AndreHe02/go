@@ -1,0 +1,102 @@
+(;FF[4]GM[1]SZ[19]CA[UTF-8]AP[SGFC:1.15]
+
+PB[blas]
+BR[4k]
+PW[half]
+WR[4k]
+KM[6.5]
+DT[2008-03-04]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[W+Resign]
+TM[300]
+OT[25/420 Canadian]
+RU[Japanese]
+
+;B[dp]C[z -- Hello, I am Bill, "zinger" in the internet Go community.  My comments are marked with "z --".
+
+z -- I prefer to use move numbers and board markings in my comments, rather than grid coordinates.  Hopefully you have an SGF reader which displays these correctly.  I recommend Drago (www.godrago.net), which I used to make the review.
+
+z -- Remember that I am also a weak amateur, and only a little stronger than you.  Be sure to check my comments with a critical eye.  Almost certainly, I have made a few mistakes.
+
+z -- this was a fighting game.  Because of this, I don't have many strategic comments.  However, black missed several tactical chances which would have given him a better game, such as 45, 51, 61, and 75.  So based on this game, I would say you should work on your tactical fighting skills and tesuji.
+
+z -- thanks for the game, and good luck!];W[pq];B[pd];W[cd]
+C[z -- Before going forward, think about this: if white 4 was on the star point, would you play 5 at the 3-3 point underneath it?  Why or why not?]
+;B[po];W[qm];B[qq];W[pp];B[qp];W[qo]
+(;B[ro]C[P: I know now that this is bad but I dont know why
+
+z -- see next comment.];W[qn];B[pr];W[or]TR[ro][qn]C[z -- the reason the marked exchange is wrong is that now white can block with 14.  The result is similar to a direct 3-3 invasion under a star point stone.  But that is bad to do so early, as I suspect you decided back at move 4.]
+;B[qr];W[oq];B[kq]LB[jq:a]C[P: I dont see this as playing near the force, because maybe q5 will not dead
+
+z -- true, black 5 still has potential.  Still I think 17 is too close, I prefer A.]
+;W[mq]C[z -- very bad move];B[ko];W[fq];B[fp]LB[dn:a][cn:b]
+[hq:c][er:d]C[z -- I don't like 21 because it attaches to a weak stone.  This makes the white stones stronger, which in turn weakens 17 and 19.  I like 21 at A, B, C, or D better.]
+;W[gp];B[fo];W[eq];B[dq];W[iq];B[cj]LB[ep:a][eo:b][do:c]C[P: too far?
+
+z -- I'm not sure.  Did you have a plan if white pushed and cut as A-B-C?]
+;W[cl];B[dn];W[el];B[ej];W[bn];B[bp];W[go];B[fm]LB[gn:a]C[z -- 35 should be hane at A, I think.]
+;W[fl];B[gn]C[P:G7?
+
+z -- I think 37 is OK.];W[in];B[ip];W[jq];B[jp];W[kr];B[ho]
+;W[hp]
+(;B[km]LB[hn:a]C[z -- 45 should connect at A.];W[hn];B[io];W[gm]
+C[z -- 46 and 48 are painful for black.];B[fn];W[hl]
+(;B[no]TR[po]LB[jn:a][jr:b]C[z -- 51 is not good.  White can still capture the marked stone if he needs to, so 51 doesn't do very much.  I think 51 should be at A or B.]
+
+(;W[lq];B[kp]C[P: too little
+
+z -- yes, black is getting in trouble now, 45 and 51 are the reasons.]
+;W[jn];B[kn];W[ch];B[dh];W[ci];B[di];W[bj]
+(;B[cg]LB[bi:a]C[z -- 61 at A looks better.  This is a similar technique to the variation at 51, it's a good one to learn.]
+;W[ck];B[dj];W[dg]C[z -- ouch];B[df];W[eg];B[bg];W[bi];B[ef]
+;W[fg]C[P:Now I have two weak groups
+
+z -- really three; see next comment.];B[gj]
+(;W[ec]LB[ce:a]C[z -- 72 should peep at A first.];B[ff];W[be]
+C[z -- 74 is a big mistake.];B[ce]LB[gg:a]C[z -- but 75 is also a big mistake.  It should be at A, which captures the three white stones.  This is a big missed opportunity - black could have turned two weak groups into one strong one, and taken several points in the process.  75 looks like a case of trusting the opponent too much: "he peeps, I have to connect".]
+;W[gg]C[z -- now black is back in trouble again.];B[gf];W[hg]
+;B[ij];W[jl];B[kj]C[z -- 81 just encourages white to split black with 82.  Unfortunately, I don't really see a good move for black.  This is what happens when you have three weak groups to the opponent's one.]
+;W[kl]LB[hf:a]C[z -- probably white should turn at A first, strengthening his only weakness.]
+;B[hf];W[ig];B[ml];W[ll]LB[lk:a][if:b]C[z -- white should just play at A, or again turn at B.]
+;B[mm];W[lk];B[if];W[jg];B[kh];W[lj];B[li]LB[ji:a][ki:b]C[93 leaves behind bad aji of a white peep at A.  Black should connect solidly at B.]
+;W[nj];B[ol];W[pk];B[pn];W[pm];B[om];W[qj];B[qg]LB[mo:a][ke:b]
+[kf:c][lf:d]C[z -- the black group is not alive yet.  White can kill it by playing at A.  
+
+z -- And even if black was alive there, the most important thing is still the weak groups.  There are three of them, two black and one white (assuming black is alive in the lower center).  That is a very urgent situation!  101 is trivially small in comparison.  Specifically, black should play 101 at B, C, or D, any of which have a chance to capture white, or a least make a fair fight out of it.]
+;W[jf];B[hc]LB[je:a]C[z -- 103 should hane at A to keep pressure on white's weak group.  Still, 103 carries a threat ...]
+;W[je];B[dd];W[cc];B[dc]C[z -- ... good so far ...];W[db]
+(;B[fb]LB[eb:a]C[z -- ... but 109 is wrong.  Black should cut at A instead; see variation.]
+;W[ed];B[de];W[eb];B[fc];W[bb]C[z -- I don't think white really needs to defend this corner.]
+;B[jc];W[hi];B[hj];W[ji]C[P: I didnt see that. Now Im lost
+
+z -- yes, that's the consequence of 93.  Last comment.];B[ki]
+;W[jj];B[jh];W[ii];B[ni];W[oj];B[mf];W[le];B[mc];W[qc];B[qd]
+;W[rd];B[re];W[rb];B[sd];W[sc];B[rc];W[rn];B[rp];W[rd];B[jr]
+;W[ir];B[rc];W[mo];B[mn];W[rd];B[lr];W[js];B[rc];W[lo];B[oo]
+;W[rd];B[hq];W[gq];B[rc];W[nk];B[nl];W[nn]C[half [4k\]: thx
+blas [4k\]: thx])
+(;B[eb]
+(;W[fb];B[cb];W[ea];B[bb]C[z -- black captures the corner.  This makes a safe black group, a potentially weak white group, and many points.]
+)
+(;W[cb];B[fb]TR[ec]C[z -- because of 103, the white stone cannot escape.  Again black is safe.]
+)
+(;W[ed]C[z -- this exchange doesn't change anything.];B[de]
+;W[cb];B[fb]C[z -- still captured.])))
+(;W[ce];B[cf];W[ed]C[z -- more severe.]))
+(;B[bi];W[ck];B[cg]
+(;W[dj];B[bh];W[cj];B[dg])
+(;W[bh];B[bg];W[dj];B[dg]C[z -- either way, black's shape is much better than in the game.]
+)))
+(;W[oo]C[z -- this still works.];B[pn];W[om];B[on];W[nn];B[op]
+;W[pm];B[oo];W[mo]))
+(;B[jn]C[z -- this way black is almost alive.])
+(;B[jr];W[ir];B[lr];W[js];B[lq]TR[po]C[z -- or this way, which is sente, because white must capture the marked stone now.]
+))
+(;B[hn];W[io]C[z -- if white cuts ...];B[im];W[jn];B[kl]C[z -- ... he is captured.]
+))
+(;B[pr]C[z -- this is correct as far as I know.]
+(;W[or]C[z -- this is bad now ...];B[qn];W[ro];B[rn];W[pn];B[oo]
+;W[rm];B[oq]C[z -- ... because of this.])
+(;W[oo];B[pn]
+(;W[qn]C[z -- normal])
+(;W[ro]C[z -- complicated !]))))

@@ -1,0 +1,255 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.16]VW[]
+
+PB[EasyBot]
+HA[0]
+PW[Pogue]
+WR[27k]
+KM[6.5]
+DT[2015-02-08]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[W+3.5]
+RU[Japanese]
+US[Curt Siffert]
+GC[steve@carderfamily.net]
+
+C[EasyBot [-\]: GTP Engine for EasyBot (black): HelloBot version 0.6.26.08
+
+[Pogue\] This is the first 19x19 game I've ever won - although I did undo in a few places before I knew the outcome.  I am white. Against a weak computer opponent (KGS says it is about 27kyu). On goproblems.com I am around 22kyu but I'm weaker in games. Top few things I should keep in mind?
+
+Play your opening moves closer to the corners than you did in this game.
+Try to avoid making lots of little, weak groups.  This means protecting cutting points.
+Once stones are dead, don't waste any more moves on them.  Go on to something else.
+Blocking stones by playing one space away from them is often better than playing right against them.]
+;B[pd];W[ep]SQ[dp][dq][cp]C[This is a bit too far from the corner.  One of the marked squares would be better since a stone there controls the corner better.
+Black could easily invade the corner in the current situation.]
+;B[dd];W[po]C[Again this is too far from the corner to control the corner.]
+;B[qm];W[qn]SQ[qo]C[[Pogue\] I know to touch an attack
+
+There are 2 basic ways to handle an approach like this.  One is to attack it, which is what you have done.  This is fine in the current game since you are white.
+The other possibility is to make a defensive move.  The square is an example of a defensive move.  If you were black and white was giving you a handicap, then playing defensively would generally be better than attacking.]
+;B[pm];W[pn]TR[qi][qj]SQ[qn][po]MA[cf][df][dj][cj][cp]C[This move makes an empty triangle (the marked stones).  It is called an empty triangle because there is no black stone at R5. Almost always, making an empty triangle is bad.  Pretty much the only time an empty triangle is good is when you are making eyes.  Any other time, you should try to avoid making empty triangles.
+
+If you want to continue attacking the lower right black stones, then either of the triangles is better.
+
+Since this is still the opening, an even better idea is to play somewhere else on the board.  A good rule of thumb for the opening is to look for the largest open space between stones and play somewhere in it.  In this case, the largest open area is the left side with the top side being almost as wide open.  So, the best idea for this move is to play somewhere on the left side. The spots marked with Xs are all good options.]
+;B[ch];W[dj]TR[jd][jc][nc][fc]C[This move isn't really bad but there are better opening moves available.  Using my rule of thumb for the opening, the top side now has the largest gap between stones so it would be a good idea to play somewhere on the top.  The triangles are all good options.]
+;B[qg];W[jd]C[[Pogue\] I didn't want him to block off the entire upper section
+
+Good.];B[cl]TR[kq][kp]SQ[dj]MA[el][dl][cn][cj]C[This attacks white's marked stone at D10.  Since both of black's attacking stones are on the 3rd line and white's stone is on the 4th line, white has easy access to the center so this is a very weak attack.
+
+White could counter attack.  The Xs are all good ways to counter attack black.
+
+White could also ignore this attack and play in the current largest gap, which is the bottom side.  The trigangles are good options there.
+
+An important point to remember is to look at the whole board for the best move.  Less skilled players often feel compelled to play almost every stone close to their opponent's last stone. Don't fall into the trap of looking only at the area around your opponent's last stone.]
+;W[dl]C[White counter attacks black's stone.];B[bl];W[ck]TR[cn]
+C[Playing at C6 cuts black off from the corner while still applying pressure to black.]
+;B[hq]TR[lq][kq]SQ[bl][cl]C[White can either respond to this move or ignore it and continue attacking the marked black stones.
+
+This is still the opening and one of the triangles would be a good opening type move since the current largest gap between stones is on the bottom side.]
+;W[hp]TR[jq][fq]C[You don't have to touch a stone to attack it.  Often, playing one space away from a stone is a better attack.  The triangles are both good ways to attack black.]
+;B[hr]TR[kq]C[[Pogue\] Second time in a row it extended towards the edge of the board, I guess that's a good thing?
+
+Actually, no.  Black would be better off extending sideways to get more room for making eyes.  L3 would be a better move for black.]
+;W[lp]TR[kq]C[L3 puts more pressure on black.  Black could still extend sideways under the current white stone.  Actually, a good next move for black would be to play at L3.
+
+If you know that your opponent wants to play on a particular space, you should consider playing there first.]
+;B[gp];W[ip]TR[gq]C[Good.  Cross cutting at G3 would be a bad idea.]
+;B[gq];W[fq]TR[eq]C[E3 actually keeps black out of the corner better.]
+;B[co];W[do]TR[cp]C[You want to keep black out of the lower left corner and C4 does this better.]
+;B[bo];W[cn]TR[cq]C[It is still better to keep black out of the corner.  C3 is now the best way to do this.]
+;B[jq];W[jp];B[iq];W[eg]TR[nc][fc]SQ[pj]MA[qm][pm]C[Taking more of the top side would be better.  Either of the triangles would do this.
+
+Another possibility would be to attack the marked black stones by playing at Q10.]
+;B[eh];W[fh];B[dg];W[ei];B[dh]C[[Pogue\] I probably should have joined at F13 because of two liberties?
+
+This isn't bad since it helps keep all of your left side stones sort of connected.  You should play your next move at F13, however, so black can't cut there.]
+;W[di]TR[fg]C[F13 is better];B[fg];W[gg];B[ef];W[ff]TR[gh]C[Connecting at G12 is better.  You could be cut to pieces otherwise.]
+;B[eg];W[fe]TR[gf]SQ[jd]C[This is OK because of the marked white stone.  Without that stone, G14 would be better.  G12 would also be good.
+
+You have forced black to make an ugly shape on the upper left side, which is usually a good sign.]
+;B[fi];W[gh];B[fj]
+(;W[gj]TR[fl]C[This move means that you plan to kill black's stones.  That will be tough since they can run to the center or to the group at G4.
+
+Playing F8 forces black to run into the center.  Then you can follow along the 8 line and make some center territory.  See variation.]
+;B[fk];W[gl];B[dk]C[Black is obviously not being played by an advanced AI :)]
+;W[ek]C[[Pogue\] This whole sequence coming up drove me bonkers, I felt like it was chasing me all over the board.  Maybe I should have focused on connecting D10 to D5.
+
+The best plan is still to drive black into the center while making some territory.]
+;B[gk];W[gi];B[hk]TR[fl][if]MA[gf]C[Black has now escaped so white should stop trying to surround these stones.
+
+Also, black has cut white.  You now need to make sure that all of your groups are stong.
+
+Playing J14 helps connect the K16 stone to the G13 stones and protects the cutting point at G14.
+
+F8 helps connect the two groups of lower left side stones.  Since this area involves more stones and more potential territory, this is what you should do first.]
+;W[ik]C[It is too late to contain black so don't bother trying.]
+;B[gm];W[hl]TR[fl]C[F8 is better because it helps connect several white stones.  If black plays on F8 then white has even more small groups to defend.]
+;B[fl];W[hm];B[fm];W[gn];B[jk];W[il];B[jj];W[hj];B[ij];W[em]
+TR[fn]C[F6 is better because it keeps black away from the G4 stones.]
+;B[fn];W[fo]C[[Pogue\] I think this whole time I was convinced I could surround that F9 group.]
+;B[en];W[eo]TR[dn]C[D6 is better.];B[dn]TR[go]C[Now white has a weak group at D9 that has been surrounded.  Either try to make eyes right away or give them up and move on to something else. You can always use them as ko threats later if needed.
+
+Black can make D9 into a false eye by playing at either D10 or D8 and there is probably only room for one eye around C10.  That is no enough to make life so white should give up on those stones and move on to something else.
+
+G5 connects white's corner stones out into the middle and makes them strong.]
+;W[dm];B[cm];W[bn]C[[Pogue\] I should have already recognized I couldn't escape but I was in denial since the F9 group had only two liberties left.]
+;B[bm];W[an];B[am];W[bk];B[ao];W[ak]C[Don't add stones to a dead group.]
+;B[cn];W[cp];B[el];W[dk]TR[bp][go]C[You are still wasting stones on a dead group.
+
+Either B4 or G5 is better.];B[go];W[bp];B[hn];W[ho];B[im];W[jl]
+;B[in];W[jm];B[jn];W[kn];B[km];W[kl];B[lm];W[ll];B[mm];W[ml]
+;B[nm];W[om]TR[nk][ok]C[This doesn't do much.  White should jump towards the open area of the right side with O9 or P9]
+;B[rm];W[jo];B[gn]TR[nc][ec]C[The top side is still mostly unclaimed.
+
+You should also be thinking about securing both lower corners.
+
+You obviously can't do all of those at once so you need to prioritize. Neither corner group is in immediate danger so I think that you should do something on the top side.  Either of the triangles would be good.]
+;W[mn];B[nl];W[nn]TR[lj][mj]C[You need to save the K8 group right now.  Either triangle is good.]
+;B[nk];W[ji]TR[lj]C[M10 is better because it helps the K8 group escape.]
+;B[lk]C[[Pogue\] Argh... I recognized I was stuck in a net here from go problems.]
+;W[kk]TR[fr][rn][lq][nc][ec]C[This just adds another stone for black to capture.  Any of the triangles is better.]
+;B[kj];W[mk]C[Again, a hopeless move.];B[mj];W[kq]C[[Pogue\] At this point I was tired of tactical losses and figured I'd try and be more strategic.
+
+Good idea.];B[hl]C[Black just wasted a move, which is good for you.]
+;W[md]TR[nc]C[O17 is better];B[ik]C[More wasted black moves.]
+;W[fd]TR[ec]C[E17 is better];B[jm]C[[Pogue\] Kind of feels like EasyBot is giving me moves for free here - I'm guessing it is weak by trying to nail down territory it already has.
+
+You are getting free moves.];W[og]TR[lh]SQ[oc][ec]C[This doesn't help you make much territory because the black stones around N10 can push up into your area.  M12 does a better job of preventing this.  The squares are also good.]
+;B[ln];W[lo]C[Good, this does a better job of connecting white's stones even though it sacrifices one stone.]
+;B[ko];W[kp];B[kn];W[on]TR[rn]C[Don't bother playing here until black forces you to by playing P8 or P5.  If you want to help the lower right corner than S6 is better.]
+;B[fr];W[er];B[gr];W[es]TR[lh][rn][oc][ec]C[This is a small, endgame move.  The triangles are all worth more.]
+;B[jh];W[ih];B[jg];W[jf]TR[ki]C[L11 is better.  It cuts off black's two stones, leaving them easy to kill.]
+;B[ig];W[kg]TR[ki]C[L11 is still better.];B[if];W[ie]TR[ki]
+[id]C[[Pogue\] I'm trying to plan for the lower left and the lower right, along with somehow scraping some stuff together on top.
+
+Either triangle is better.];B[gf]
+(;W[ge]TR[hf]SQ[gf]C[H14 puts the marked black stone into a ladder that ends with black captured against the upper side.  See variation.]
+;B[hf];W[he];B[ii]TR[kh]SQ[ih][hj][gj][gi][fh][gh][gg]MA[mh]
+C[The marked stones are now dead.  L12 is sente since it forces black to capture.  White following up at N12 makes some territory.]
+;W[kh];B[hh];W[kf]TR[mh]SQ[oc][ec]C[N12 is better locally and the squares are better globally.]
+;B[ih]C[Black wastes a move.];W[ki]C[This saves 1 stone but there are other places to play that are worth more.]
+;B[hi]C[Another wasted black move.];W[dc]C[This is good.];B[de]
+;W[ec];B[hs];W[cf]TR[cd][mh][oc][rn]C[[Pogue\] At the time this felt like a good move.
+
+It is too deep of an invasion.  If black doesn't make an error this stone should be easy to kill.
+
+The triangles are all better.];B[gc]TR[ic]C[White should be able to kill this invasion easily.  J17 is a good way to start.]
+;W[fc];B[hc];W[gb]TR[jc]C[You want to keep black from expanding laterally since that helps black make eyes.  K17 is better.]
+;B[qj];W[qf]TR[pf]C[Black can cut this stone off by playing at Q14 so this is not a good idea for white.]
+;B[rg];W[rf];B[qq]TR[qp]C[[Pogue\] Eek, I'm not comfortable fighting off invasions.
+
+You first want to keep black from connecting out.  The S7 stones are closer to black's invasion so you want to block that way first with R4.]
+
+(;W[qr]C[[Pogue\] I decided to try underneath this time, to block off eye creation??
+
+No, black can then surround your stones and capture them.  Then, where your stones used to be usually becomes eyes for black.
+
+See the variation for an example of killing black.];B[qp];W[pp]
+TR[ro]C[You want to keep black from connecting to the S7 stones.  S5 does this.]
+;B[rr];W[rq]TR[pr]C[Black can capture the S3 stone and probably turn that space into an eye.
+
+Extending at Q2 is better.];B[pr];W[rp];B[pq];W[qo];B[sq];W[ro]
+;B[sr];W[sp]TR[oq]C[All black has to do now is capture at R1 to live.  So, white needs to turn his attention to salvaging as much corner territory as possible around O4.  This means that P3 is better.]
+;B[qs];W[oq];B[or];W[nr];B[kr];W[nq];B[jr];W[lr];B[ls];W[ms]
+;B[ks];W[mr]TR[cd][pf][oc]C[This isn't necessary.  Take sente and play one of the triangles.]
+;B[ns]C[[Pogue\] Wouldn't black have been alive here had he gone at P1?
+
+P1 or Q1 would make black alive.];W[os];B[qr]C[Black playing at Q1 makes life.  This move is black suicide.]
+;W[ns]C[[Pogue\] Black dead now :)
+
+Right, black is dead, but this stone isn't necessary so take sente and play elsewhere.]
+;B[oc];W[pl]TR[mc]SQ[ol]C[This stone can be cut off if black plays P8 so this is a bad idea for white.  N17 is better because it helps make top side territory.]
+;B[ol];W[ql];B[rl];W[rk]C[These stones are doomed so give up and move on to something more profitable.]
+;B[sk];W[sj];B[sl];W[sn];B[rj];W[sm];B[qk];W[rn];B[pk]C[[Pogue\] Felt like I missed an opportunity with T8 group...
+
+No, there never was any real hope there.];W[mi]TR[mc]C[This does make some territory but the top side at N17 is worth more.]
+;B[pl]C[Black wastes another move.];W[qi]SQ[ph]C[Black can cut this stone off by playing at Q12 so this is a bad idea for white.]
+;B[ni];W[nh];B[nj];W[li];B[pi];W[ph];B[qh];W[pg];B[oh]
+(;W[oi]C[[Pogue\] I undid another move that felt like a mistake.]
+;B[pj];W[oj]TR[rd][cd][mc][ap]C[This is only worth 1 point.  There are still moves on the board worth more.  The triangles are all worth more.]
+;B[ri];W[sg];B[rh];W[sh];B[lc]C[This is a big move for black.]
+;W[ld];B[kc];W[kd];B[qc];W[qd]C[[Pogue\] I felt content to let black get some upper right, in favor of me grabbing some of that middle area.
+
+You could have had both, however, if you had played on the upper side sooner.]
+;B[pc];W[qe];B[dq]C[[Pogue\] Ack, invasion
+
+It is a hopeless one.  Just stay calm and stay connected.];W[dp]
+TR[eq]C[E3 is better.  If black plays at E3 next then white is dead.]
+;B[cq];W[eq]C[Good.];B[dr];W[br]C[[Pogue\] This might have been a good move
+
+Yes, it is good.];B[bc];W[df]TR[cc]C[This isn't helpful.  C17 is better.]
+;B[cg];W[bg];B[ee]C[[Pogue\] I temporarily forgot that G12 was dead, thinking I could surround D13 group.]
+;W[cd];B[bf];W[ce];B[bh];W[ci]C[Just connect at C17.  The D9 stones are dead but the C15 stones can be saved if you connect them out.]
+;B[ag]
+(;W[be]TR[cc]C[[Pogue\] I undid after concluding I couldn't create life in D10 group.
+
+Connecting at C17 is still better.];B[ah];W[ae];B[bi]C[[Pogue\] All of a sudden I see some eye opportunity.]
+;W[cc];B[bb];W[cb];B[ca];W[da];B[ba];W[db]TR[rd][oe][jc][mc]
+C[You don't have to do this now.  You only need to play here if black plays on E19 first.  The triangles are all better.]
+;B[ad]C[If black can play on both A18 and B16, then he lives.  So, if he plays on either one you must respond by playing on the other. You don't have to do anything now, just if he plays on either of those two spots.]
+;W[ga]TR[hb]C[H18 is better];B[nc];W[fb]C[This isn't necessary now.  You only need to play here if black plays on both H18 and H19.]
+;B[ea]C[[Pogue\] Weak robot];W[jc];B[mc];W[jb]C[[Pogue\] Realizing it's easier to bolt on an additional eye than create three eyes from scratch]
+;B[pb]
+(;W[ja]TR[ma]SQ[oe]C[This would be a good time for a monkey jump to the triangle. See variation.
+
+The square is also good.];B[mb];W[je]C[This isn't necessary.  Black can't cut here because the stone would be in atari and white would just capture it.]
+;B[rb];W[pe];B[nd];W[ne];B[mf];W[oe]C[Good, all you need to do is seal off this black stone and it is dead.]
+;B[ng]C[[Pogue\] Bot can't see I have multiple corner opportunities to join for another eye]
+;W[me];B[lg];W[mh]C[Staying connected is good.];B[ok];W[oh]
+;B[gs]TR[ap][rd][la]C[[Pogue\] Must just be grabbing neutral points
+
+I don't know what black is doing.  S16 is the best remaining move for either player.
+
+M19 and A4 are also good spots for white.];W[ap];B[ej];W[af]
+;B[bg];W[bj]C[This makes one eye but you need two to live so it accomplishes nothing.]
+;B[io]
+(;W[mo];B[fs];W[bq]C[Good.];B[si];W[sf];B[ka];W[bs]TR[kb][rd]
+C[You don't need to do this.  L18 and S16 are better.];B[ar]
+C[[Pogue\] Silly bot.];W[rc];B[kb];W[sb];B[sa];W[ra];B[qb];W[sc]
+;B[qa]
+(;W[rd]C[[Pogue\] undid an oops];B[se];W[nf]C[[Pogue\] This was unnecessary - I could have just filled in T19 and avoided the ko fight.
+
+Correct.];B[sa];W[mg];B[lf];W[ra];B[fp];W[ma]C[[Pogue\] I wonder if it was possible for me to kill the P17 group?
+
+No, it is alive.  Just connect at T19 and be done.];B[sa];W[oa]
+;B[ra];W[na];B[al];W[lj];B[tt];W[tt]TB[ai][aj][ak][an][bj][bk]
+[bn][ci][cj][ck][di][dj][dk][dl][dm][ei][ek][em][fh][gg][gh]
+[gi][gj][gl][hg][hj][hm][il][ir][is][jl][js][kk][kl][la][lb]
+[ll][ma][mk][ml][na][nb][oa][ob][pa][qi][ql][rk][sj]TW[aa][ab]
+[ac][ad][aq][ar][as][ba][bb][bc][bd][ca][cq][cr][cs][dq][dr]
+[ds][ea][eb][fa][gc][gd][ha][hb][hc][hd][ia][ib][ic][id][ke]
+[le][lf][lg][lh][lq][mf][mp][mq][ng][no][np][of][oo][op][or]
+[pf][pq][pr][ps][qp][qq][qr][qs][re][rr][rs][sd][se][so][sq]
+[sr][ss]C[[Pogue\] I didn't count while I was playing (that sounds exhausting, do people really count all the time while playing 19x19 games?) but I ended up winning by 3.5  I guess that makes me around 27kyu too?
+
+But you will learn more from this game than the bot will so you will be better next time :)
+
+BTW, you don't count every space but you do make estimates of what various groups are worth.  Someting like "I have about 10 points here and about 20 points over there while my opponent has about 20 points there and around 20 more points somewhere else.  That means I need to be aggressive to catch up."]
+)
+(;W[sa];B[rd]))
+(;W[ed];B[hg]))
+(;W[ma]C[White does a monkey jump.];B[mb];W[la];B[kb];W[ka]
+;B[na]TR[rd][oe]C[White doesn't have to connect at K19 until after black plays on M18 so white can take Sente here and play on one of the triangles.]
+))
+(;W[bi];B[cc]
+(;W[bj];B[ai])
+(;W[ai];B[bj])))
+(;W[ng];B[oi]))
+(;W[qp];B[pq]C[Black extends to get more space to make eyes]
+;W[nq]C[White blocks];B[rp]C[Black tries to connect.];W[ro]
+C[White blocks again];B[sq]C[Black starts trying to make eye space]
+;W[rr]C[This is the key move for killing black.  If black plays here, he will have made 2 eyes so white has to play here first.  White knows that this stone can be surrounded and captured by black. That is OK.  White can still kill black even if this happens. To kill black, white needs to form his corner stones into a dead shape so that when black does capture he can't make 2 eyes.]
+;B[rq]C[Black connects.];W[qr]C[White threatens to escape.]
+;B[oq]C[Black extends again to get more space for making eyes.]
+;W[or]C[White threatens to connect to the two corner stones.]
+;B[pr]C[Black blocks];W[nr]C[White connects.];B[ps]C[Black cuts off the two white stones.]
+;W[sr]C[White makes a dead shape.  If black captures the three white stones, then white will play at S2 and kill.]
+))
+(;W[hf]C[white give atari.];B[ge]C[black extends.];W[he]C[white gives atari again.]
+;B[gd]C[black extends];W[gc]C[white starts the ladder.];B[hd]
+;W[id];B[hc];W[hb];B[ic];W[jc];B[ib];W[ia];B[jb];W[kb];B[ja]
+;W[ka]C[Ladder ends.]))
+(;W[fl]C[White blocks.];B[hj]C[Black runs];W[hl];B[jj];W[jl]
+;B[li]C[Black escapes.];W[go]C[White makes territory around J6.]
+))

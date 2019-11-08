@@ -1,0 +1,68 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.16]
+
+EV[ut.go19.454.1.8]
+PB[Clement]
+BR[1k]
+PW[gamesorry]
+KM[6.5]
+DT[2013-03-14]
+RE[W+Resign]
+RU[Japanese]
+SO[http://www.littlegolem.com]
+
+C[Hello ! This is a game played on littlegolem (on internet, you connect, play a move and then for your opponent to do the same). My opponent was about 6 stones stronger than I (according to the site's rating), and I don't know what I did wrong, but get crushed :) . Thanks for your advice !]
+;B[pd];W[dp];B[pq];W[dd];B[fc];W[cf];B[jd];W[qf];B[qh];W[qc]
+;B[pc];W[qd];B[pe];W[rf];B[og];W[po]C[Up to here it seems OK for me ...]
+;B[pm]LB[np:A]C[I tried this pincer, which I don't really know.
+
+reid: This looks like the first mistake in the game. So far both sides have played fairly standard, correct moves (which is actually a pretty good accomplishment - most amateur games have a mistake within the first dozen moves!).
+
+The reason this is a mistake is because of the upper right joseki.  The R14/S14 formation is very strong, and the relation between R12 and P13 is rather weak (even though it is joseki - this joseki focusses on the top side for black, not the right side).  Additionally, S14 on the second line "undercuts" the third-line R12 (white can slide to T11 in the endgame).
+
+All of this means that the right side is not important for black, so that pincering Q5 is not the right strategy.  Black A would be a better full-board answer.]
+;W[no];B[nq];W[qq];B[qr];W[qp];B[rr]C[I think this would deny him to get a base for his stones, and that the fight could be good for me.
+
+reid: Well, we need to consider "fight could be good for me" in terms of the area between Q7 and R12 as not very valuable for black.  Since white is "splitting" with Q5/O5, black needs to answer on both sides.  The area along the bottom edge is more valuable (easier to defend) than the center area.]
+;W[qj];B[qi]C[reid: Unfortunately, this doesn't actually connect R12/R11 to P13 - black could have a problem in the future here.]
+;W[oj];B[rm]LB[rj:B][lp:A]C[reid: Now I think black is going to have too many irons in the fire:  He needs to fix the P13/R12 cut, run out his Q7 stones (S7 can't connect to either side), and he'll want to keep extending along the bottom edge to keep white from building up the lower left corner.
+
+It might be better to consider Q7 a sacrifice for now, and simply extend to A or slide under with B instead.
+
+Whenever things start getting difficult, it's time to start looking for ways to sacrifice in order to reduce the difficulties.]
+;W[ql];B[qm]C[reid: this black pillar is heavy now.];W[ol];B[om]
+;W[lo]C[Maybe R11 and S7 are wrong, but he still has two weak groups ...
+
+reid: Unfortunately, black has two and a half weak groups!  The R12/P13 weakness makes R12 one weak group, Q7 is another, and black would rather not ignore moves against the O3 group (it's half-weak).]
+;B[mm]LB[nm:A]C[reid: N7 is not a safe running move here.  Later, black might be able to push in at A (O7) and leave black with two cutting points.  It's safe for now because of white's weakness at P5, but if white can fix that with sente against the lower right corner group, the P7 group is in trouble.]
+;W[mk];B[km];W[jo];B[lq];W[kk];B[im];W[ho];B[ik]LB[hl:A]C[reid: The cap at J9 is a standard attacking move, but here black is not strong enough to be attacking yet.  The string of one-point jumps has a lot of weak points.  Black might be better off with the diagonal move at A (H8).  But even so, white seems to be making points while black is just running away.  At this point it seems unlikely that black can seriously threaten either white group, but he can't abandon the black string - it has become a burden.]
+;W[lh];B[nh];W[ij];B[jk];W[jj];B[kl];W[lk];B[mi];W[li];B[cq]
+C[reid: If black is going to abandon the center fight, then it's better to not play the N11/M11 exchange.  Each move should have a purpose, not just because it's sente.
+
+Later, the situation may change such that black would rather make this exchange a different way.  The japanese phrase for this is aji-keshi which means "erasing the taste".]
+;W[cp];B[dq];W[eq];B[er];W[fq];B[fr];W[bq];B[br];W[bp];B[gq]
+;W[gp];B[gr];W[gm]C[Losing sente was big ...
+
+reid:  Pretty much any time you make an invasion (such as C3 here), you can expect to lose sente.  It's a natural consequence of fighting in an area where you are at a numerical disadvantage.]
+;B[hk]LB[gk:A]C[reid: Hmm, here it would be safe to jump to A and get out ahead a bit further.]
+;W[fk];B[hj];W[ih];B[dh]C[I didn't want white to get a huge territory on the left side, but I really feel behind already here.
+
+There is a proverb that says "Play the urgent point, not the big point".  Saving your center group is clearly the urgent move here and takes precedence of anything else.
+
+Your task, should you wish to prevent white from getting a big left-side moyo, is to figure out how to attack white's center stones while running so that he doesn't have time to build the moyo.
+
+Actually, the "urgent point" when you invaded with C3 was to save your center stones also.  Go is like that: once you take one short-cut or wrong move, it often leads to a whole cascade of difficult choices.
+
+Part of getting stronger involves dealing with what is actually important NOW, and leaving future problems for later in the game when the time is right.]
+;W[cj];B[fh];W[ei];B[eh];W[hc];B[ib];W[hb];B[ic];W[ec];B[gb]
+;W[fd];B[hd];W[gc];B[gd];W[fb];B[bh];W[le];B[lc];W[ne];B[pf]
+;W[mc]C[I resigned here, I have no points and my groups aren't clearly alive anyway. Thanks for your advices !
+
+reid: Yes, probably a good idea.  This game is a good lesson for several reasons.  For one thing, it is very difficult to keep a moyo when you have a weak group.  This means that if you start with a moyo strategy, you should be extra careful that you don't start an orphan group somehow.
+
+Second, don't get so scared of large moyos that you invade too soon.  This can lead to having mutiple weak groups.  I always feel very comfortable when my opponent has more than one weak group - I just need to figure out how to work them against each other.
+
+Remember that moyo means potential - it's not real territory yet.  "Take the urgent point, not the big point."
+
+Third, when fighting, you must be careful not to leave weak points behind.  Weak points are fine if you are prepared to sacrifice some stones later (this is part of light play), but if you want to kill something, or save your own stones, it's better to play strong instead of fast.
+
+Good luck, play strong - reid])

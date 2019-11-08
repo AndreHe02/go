@@ -1,0 +1,146 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+PB[mafutrct]
+BR[2d]
+PW[remake]
+WR[3d]
+KM[0.5]
+DT[2009-11-04]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[B+Resign]
+TM[1800]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+C[Dear Reviewer,
+
+this is a game I (black) played against a 3d recently. I think my opening was mostly solid, but I made a careless mistake and he was able to attack my stones. Afterwards I counted me ahead, but invaded too deeply and barely lived by luck. In the end, he missed a tsumego and died.
+
+I'm very interested in your thought on my moves. Was my direction and my shape ok? Did I miss sharp moves that could have ended the game immediately? Please point out my mistakes.
+
+I'm glad you're taking the time to have a look at this game and I say thank you very much.
+Sebastian.
+
+[EV\] Hi, this is your reviewer.  You played a good solid opening.  I have some comments concerning the direction of play in the early middle game and the fight in the lower left corner.  After capturing a large group there, the game should have been over, but you  missed several chances to preserve the win without complications.  In general, you seemed to be trying a bit too hard to find sharp moves.  This is a good attitude, much better than playing passively, so I dont want to criticize it too strongly, but sometimes solid simple moves are best.]
+;B[qd];W[dp];B[pq];W[dc];B[oc];W[po];B[qo];W[qn];B[qp];W[pn]
+;B[nq];W[qj];B[qh];W[oj];B[ce];W[dh];B[dd]
+(;W[ec];B[cc];W[cb];B[bc];W[hc];B[bh]C[[EV\] This move is good, but B could also tenuki, since B18 makes a base if W attacks around here.]
+;W[ci]C[[EV\] W could also tenuki, treating D12-B12 as a forcing exchange, not requiring immediate followup.  W has several other possible moves here, and B is not likely to invest another move anytime soon, so W can wait to see how things develop elsewhere before fixing the shape here.]
+;B[cn]C[Is this the right side to invade?
+
+[EV\] The other side has more room, so I would prefer an approach from that direction.  The stone at O3 does reduce the value of an approach along the lower side, but here the B12-C11 stones make the left side even smaller.  B has little room to make a base here, and if settling this stone provokes W to play B11, the upper group will be hurt.  On the other hand, if B approaches from below (F3 or F4) and W develops along the left side, B can undercut any W territory by playing B11 himself.]
+
+(;W[cl]C[[EV\] See variation for another idea for W.  This move does not work efficiently with the C11-B12 exchange above.  It would be perfect in a different game, if B had not played B12 and W exchanged C13 for B18.]
+
+(;B[dl];W[dk];B[cp];W[cq];B[dq]C[[EV\] Complicated but certainly playable.  I am not sure what is best for either side after this.  The hane at B3 is an alternative way for B to settle here.]
+
+(;W[co]C[[EV\] The proverb says to extend after a cross-cut, so I would consider some of those sequences first.  The game sequence turned out badly for W.]
+;B[bp]
+(;W[bq]C[Overplay?];B[bo];W[eq];B[dr];W[oe]C[[EV\] Looks like W realized than E2 fails to a ladder.  Unfortunately two moves around here do not make up for the corner loss.]
+;B[ep];W[pd];B[pc];W[qe];B[rd]C[Is this the right shape?
+
+[EV\] Seems forced but good.  Note that even after W blocks here, the B stone at R12 has a lot of aji (see later variation).]
+;W[re]
+(;B[ip]C[[EV\] B is much stronger to the left than to the right, so I would move this stone to the right one or two places.]
+;W[do]LB[kq:a][jp:b][mo:c][mp:d]C[[EV\] This ia a bad idea.  Even if W could escape here, there is no real aji in the corner, so W is only creating a weak group, which will naturally help B consolidate territory along the lower side.  Better to invade or reduce the side (moves like A through D) while it is still open.]
+;B[en]C[Correct idea?
+
+[EV\] Sure, W can do nothing here -- struggling only makes B stronger.]
+;W[eo];B[fo];W[fp];B[dn];W[ep];B[er];W[go];B[fn];W[hp];B[io]
+;W[fr];B[gq];W[gr];B[hq];W[iq];B[gp];W[fq];B[hr]C[[EV\] Game over.  B should count the score to verify this, then play safely to consolidate the win.  B gave W too many unnecessary chances after this.]
+;W[mq];B[mp]C[Would it be better to play Nobi at O4?
+
+[EV\] Either move would be fine.  B can afford to let W live here, since that will naturally provide center thickness useful for keeping the W right side in check.]
+;W[bm];B[jc]C[[EV\] This looks more complicated and no larger than answering the last W move or investing another move around M4 to remove all the aji there.]
+
+(;W[ir];B[hs];W[is];B[ho];W[bn];B[fs];W[nr]
+(;B[lq];W[oq];B[mr];W[op]
+(;B[qr];W[pr];B[ps];W[os];B[or];W[ao];B[gs];W[pr];B[rn];W[rm]
+;B[or];W[bi];B[ns];W[bf];B[bb];W[db];B[be];W[ba];B[cg];W[bg]
+;B[cf];W[ch];B[fb]LB[fe:a][ff:b]C[[EV\] B has no need to seek complications like this.  Just live with the main group and let W worry about this aji.  Moves like A or B would preserve a simple win.]
+;W[fc];B[hb];W[ee]C[[EV\] Now W has real winning chances.];B[ef]
+;W[ff];B[eg];W[dg];B[df]
+(;W[lc];B[gc];W[gd];B[gb];W[hd];B[fg];W[gf];B[fi];W[fk];B[hh]
+;W[je]
+(;B[ld];W[kc];B[kd];W[jd];B[jb];W[md];B[mc];W[le];B[mb];W[ke]
+;B[kb];W[lb];B[la];W[ii]
+(;B[gk];W[gj]
+(;B[hj];W[hi];B[fj];W[gi];B[ek];W[fl];B[dj];W[gh];B[ck];W[bk]
+;B[di];W[gl]
+(;B[mj]C[This is really too deep. I missed that G8 is strong.
+
+[EV\] This is a good time to count the score again.  Please verify that B has enough lead to afford a smaller but completely safe reduction -- see variation.  The rest of the fighting in this game was unnecessary and pretty complicated to analyze, so comments end here.]
+;W[lk];B[mk];W[ll];B[ml];W[mm];B[nm];W[nn];B[lm];W[mn]
+(;B[kj];W[jk];B[kk];W[kl];B[jl];W[jm];B[il]
+(;W[ln];B[ij];W[im];B[lj];W[km];B[hl];W[hm];B[jj];W[hk];B[ik]
+
+(;W[lh];B[mh]
+(;W[kh];B[pf];W[pe];B[oi]C[Now I'm confident I'm alive.];W[nj]
+;B[ni];W[pi];B[ng];W[ph];B[oh];W[ap];B[pg];W[qg];B[ol];W[ro]
+;B[rp];W[sn];B[qf];W[rg];B[rf];W[sf];B[rh];W[sg];B[pk];W[pj]
+;B[ne]C[This was probably bad, should R9 directly.];W[nf];B[mf]
+;W[of];B[og];W[nd];B[me];W[lf];B[mg];W[od];B[qk];W[rk];B[rl]
+;W[nc];B[nb];W[qc];B[qb];W[rc];B[sh];W[se];B[rj];W[ri];B[sk]
+;W[rb];B[pb];W[ic];B[ib];W[si];B[on]C[I don't think white can save enough and the game is over.]
+;W[oo];B[om];W[mo];B[np];W[no];B[gm];W[ko];B[jn];W[jo];B[in]
+;W[kq];B[lp];W[kr];B[jp];W[kp];B[jq];W[jr];B[ks]C[B+R])
+(;W[ni]C[I think white can play here and kills.]))
+(;W[mh]C[I think this is a stronger move.];B[lh];W[nh]C[I think black is dead.]
+))
+(;W[km]C[I think this move kills black easily.]))
+(;B[jk]C[Maybe this move is better...]
+(;W[kj];B[jj]C[Black can probe here.])
+(;W[jl]C[I am not sure what happens after this move...])))
+(;B[kk]C[I think this would be an easy game for black.
+
+[EV\] Even this looks too deep, although it probably works.]
+
+(;W[km];B[jl];W[jm];B[im])
+(;W[ki];B[mk];W[mi];B[se]))
+(;B[ml]C[[EV\] How about a simple move which has no risk of being cut off?]
+;W[mj];B[kl];W[kj];B[il];W[hk];B[nn]C[[EV\] The extra territory which a shallow reduction allows W to make is largely offset by the territory which B makes in return, territory which will not exist if B invades much deeper and W fights back.]
+))
+(;B[fj]C[I misread this move. I think this is a lot better than the game.]
+))
+(;B[gj]LB[hi:a]C[Is this better?
+
+[EV\] The shape move is A, preparing another eye.]))
+(;B[kd]LB[jb:A]C[If black plays here, I was afraid of white A.
+
+[EV\] B could then play M16 and give up four stones, or capture the W stone at A to live, letting the outside stone get cut off.]
+))
+(;W[gh]C[I do not see a way to live for black if white plays here.
+
+[EV\] Yes, this looks dangerous.]))
+(;B[pr];W[or];B[bb]C[I think black is alive here and can tenuki.]
+))
+(;B[np]LB[lq:B][or:A]C[I think this move would have been better. If I read correctly, white A fails, and white B - black A would be good for black. Right?
+
+[EV\] Yes, this move looks best.  B has a won game, even if W lives here, so keep it simple, give W no chance for complications.]
+))
+(;W[bb]LB[dg:A][bi:B]C[This was my plan. Black A or B next. Is this ok?]
+))
+(;B[pf];W[pe];B[nh]C[[EV\] B does not need to play this immediately, but there is still a lot of aji here, so W cannot claim this territory yet.]
+))
+(;W[eq]C[I thought white plays here.];B[dr];W[ep]LB[bq:B][er:A]
+C[I think A or B next give black a good result.
+
+[EV\] But either result would be better for W than the actual game.]
+
+(;B[er];W[bo];B[bq];W[dn])
+(;B[bq];W[er];B[cr];W[dn];B[bo];W[dm];B[kp])))
+(;W[ep]C[[EV\] This might be the simplest good continuation for W, maintaining the aji of atari on either side, depending how B responds.  Some possible continuations are shown.]
+
+(;B[bq];W[cr];B[bo];W[br];B[ar];W[dr])
+(;B[dr]
+(;W[co];B[bp];W[bo];B[bq];W[dn])
+(;W[cr];B[br];W[bp];B[co];W[bq];B[fq];W[ar]))))
+(;B[fp]C[How about this?
+
+[EV\] Good.]))
+(;W[co];B[dn];W[fq]LB[ck:a][bi:b]C[[EV\] How about something like this for W?  Take some territory and give B an awkward position.  The A-B exchange would still leave B cramped on both sides.]
+))
+(;W[cc]C[How about this move for white?
+
+[EV\] This leads to a complicated fight but is certainly playable.  The game move is also fine.]
+))

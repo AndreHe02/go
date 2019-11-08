@@ -1,0 +1,79 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.17]
+
+PB[StanleyLim]
+BR[19k]
+HA[3]
+PW[tcypoon]
+WR[14k]
+KM[0.5]
+DT[2011-08-25]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[W+20.5]
+TM[1500]
+OT[5x60 byo-yomi]
+RU[Japanese]
+
+AB[pd][dp][pp]C[K- hi, thanks for sending your game in for review. I will mark my review comments with "K-" at the start, as you see here.]
+;W[dc]C[tcypoon [14k\]: hi];B[de];W[cd]C[StanleyLim [19k\]: hi]
+;B[ce];W[qf];B[qd];W[qn];B[pj];W[nq]LB[oo:B][qq:A]C[K- up to this point your moves have been good. However, this is where your troubles start. Looking at the game as a whole, it is the 2 cases where white plays a double-approach on your star point corners (this move and move 53) that causes you the problems.
+
+I would recommend one of the moves shown (A, B) as a response to the double approach. Option A, the 3-3 point, provides you with a strong basis for making life in the corner, although you can end up walled in without access to the centre. Option B is the more balanced option, and I have shown a common continuation as a variation.]
+(;B[pn];W[rp]
+(;B[ql]LB[pm:C][pn:A][qo:D][rp:B]C[K- after your previous move (A) and white's response (B), you have the local advantage (same number of stones in roughly equivalent positions, and you have the next move). If you want to connect without a fight, you should play at C, however you can press your advantage starting with D. See variation.]
+;W[pm];B[qm];W[om];B[po]LB[no:B][qo:A]C[K- this moves does not help you. If you want to fight you should attack at A, or if you want to leave this area unresolved until later, play lightly by jumping to B.]
+;W[qo];B[lp]LB[mo:A]C[K- jumped too far; 'A' is where you want to play here]
+;W[np];B[mo];W[no];B[nn];W[on];B[mn];W[pq];B[ph];W[of];B[pf]
+;W[pg];B[pe];W[oh];B[qg];W[og];B[qh];W[nd];B[fd];W[fc];B[gd]
+;W[gc];B[hd];W[hc];B[id];W[jc];B[kd];W[jd];B[je];W[ic];B[ke]
+;W[kc];B[di]LB[dj:A][dk:B]TR[fd][gd][hd][id][kd][ce][de][je]
+[ke]C[K- this whole group of marked stones has worked well for you, but would work even better if you jumped 1 or 2 lines further with this move (to A or B).]
+;W[fq];B[ip];W[cn]LB[di:A][dk:B]C[K- imagine how this position would be different if your stone marked A was at B instead.
+
+Also, this is the other time white played this double approach against you, and as this plays out you end up losing the corner with not enough compensation. My comments on move 9 also apply here.]
+;B[dl];W[dm];B[ep];W[fp];B[fo];W[eo];B[em];W[go];B[fn];W[en]
+;B[fm];W[gp]TR[en][eo]C[K- you have an opportunity to set up a snapback here to capture the 2 marked stones. See variation.]
+(;B[ek];W[cl];B[gn]LB[ck:A]C[K- playing this at A is better]
+;W[ho];B[hq];W[hn];B[io];W[in];B[hm];W[im];B[hl];W[il];B[ik]
+;W[jl];B[jk];W[kk];B[jh];W[jj];B[ij];W[ki];B[gk];W[ji];B[ii]
+;W[kh];B[jg];W[dk];B[ck];W[el];B[dj];W[dl];B[fl];W[cj];B[bj]
+;W[bk];B[ci];W[ck];B[bi];W[aj];B[ai];W[ak];B[fj];W[kl];B[kg]
+;W[lg];B[rf];W[ob];B[pb];W[pa];B[qa]LB[qb:A]C[K- playing at A is  better]
+;W[oa];B[qb];W[oj];B[oi];W[ni];B[pi];W[ok];B[pk];W[lq];B[kq]
+;W[mq];B[kp]LB[mp:B][kr:A]C[K- you can play at A here, white cannot cut without having a stone at B]
+;W[kr];B[jr];W[lr];B[jq];W[js];B[is];W[ks];B[ir];W[jo];B[kn]
+;W[jn];B[ko];W[mp];B[lm];W[ll];B[ml];W[nm];B[ol];W[nl];B[gr]
+;W[fr];B[fs];W[es];B[gs];W[dr];B[mm];W[mk];B[oo];W[pl];B[qk]
+;W[km];B[rn];W[ro];B[rm];W[sn];B[sm];W[so];B[qp];W[qq];B[rq]
+;W[op];B[me];W[ne];B[le];W[ld];B[mg];W[md];B[lh];W[li];B[lf]
+LB[mh:A][mi:B]C[K- as a general rule, there are often alternatives to taking enemy stones immediately, in this case you could play at A or B for example. You will still end up with the points for this white stone, plus you will reduce the space available for white to convert into territory]
+;W[mh];B[lg];W[ng];B[oc];W[nc];B[nb];W[mb];B[na]C[K- you could play this stone later - white cannot save these stones]
+;W[ma];B[oe];W[nf];B[bd];W[bc];B[dd];W[cc];B[ec];W[eb];B[ed]
+;W[be];B[bf];W[ad];B[cf];W[af];B[ag];W[ae]
+(;B[bg]C[K- this stone is not needed; see variation for why white cannot cut]
+;W[od];B[jp];W[hp];B[gq];W[cq];B[mf];W[ih];B[hh];W[ig];B[if]
+;W[hg];B[gg];W[tt];B[tt]TW[aa][ba][ca][da][ea][fa][ga][ha][ia]
+[ja][ka][la][ab][bb][cb][db][fb][gb][hb][ib][jb][kb][lb][ac]
+[lc][mc][bd][nh][mi][kj][lj][mj][nj][lk][nk][al][bl][ol][am]
+[bm][cm][jm][an][bn][dn][pn][ao][bo][co][do][oo][po][ap][bp]
+[cp][dp][ep][pp][qp][sp][aq][bq][dq][eq][oq][rq][sq][ar][br]
+[cr][er][mr][nr][or][pr][qr][rr][sr][as][bs][cs][ds][ls][ms]
+[ns][os][ps][qs][rs][ss]TB[oa][pa][ra][sa][ob][rb][sb][pc][qc]
+[rc][sc][rd][sd][ee][fe][ge][he][ie][qe][re][se][df][ef][ff]
+[gf][hf][jf][kf][qf][sf][cg][dg][eg][fg][hg][ig][rg][sg][ah]
+[bh][ch][dh][eh][fh][gh][ih][rh][sh][ei][fi][gi][hi][qi][ri]
+[si][ej][gj][hj][qj][rj][sj][fk][hk][rk][sk][gl][rl][sl][gm]
+[ln][lo][iq][hr][hs]C[tcypoon [14k\]: thank you
+StanleyLim [19k\]: tq
+
+K- OK, the game is over. Imagine the difference if you had not lost both the corners that white did the double-approach play against you. There are a couple of smaller points I have mentioned in my comments, but this was the single biggest problem that you faced.
+
+I hope my comments are useful. Please email me if you have any further questions.]
+)
+(;B[gg];W[bg];B[ah]LB[bg:B][gg:A]C[K- the stone at A could be anywhere, any move you think is bigger. As you can see, if white cuts at B, he fails immediately]
+))
+(;B[co];W[dr];B[dn];W[do];B[dn]))
+(;B[qo];W[ro];B[qm];W[rn];B[rm]LB[pm:A][on:B]C[K- this position makes you stronger on the right side and white must still play another move if he wants to secure the corner.
+
+If white cuts at A, you should extend to B and white will struggle.]
+))
+(;B[oo];W[qq];B[qp];W[pq];B[mo];W[rp];B[ro];W[rq];B[qo]))

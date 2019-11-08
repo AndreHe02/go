@@ -1,0 +1,94 @@
+(;FF[4]GM[1]SZ[19]AP[SGFC:1.12j]
+
+GN[Addi-chandor(B) IGS]
+EV[A TOURNAMENT game played on the Internet Go Server]
+PB[chandor]
+BR[22k*]
+PW[Addi]
+WR[20k*]
+KM[5.500000]
+DT[1997-10-02]
+PC[IGS:  igs.nuri.net 6969]
+RE[B+6.5]
+TM[1500]
+US[Brought to you by IGS]
+
+;B[pd];W[pp];B[dp];W[ed];B[ci];W[ip];B[gq];W[cn];B[cl];W[en]
+C[Black position in the lower left corner doesn't look good at this point as the two stones are two far apart. Black can probably improve his position by putting preasure on the two white stones above it. See variation]
+
+(;B[ce];W[cd];B[de];W[dd];B[ic];W[jd]C[White G17 looks better. R16 is not really a very affective attack againt the black stone. There is a say in Go: don't attach to lone stones as it makes them stronger. I think that you can say the same about R16 although not an attachment,]
+;B[lc]C[B L17 or G17 looks better. M17 is too far and white can cut, as it did.]
+;W[kc];B[le]C[B should help J17 not M17. How about G16?];W[ld]
+;B[md];W[kd];B[nc];W[lb];B[mc];W[qf];B[qi];W[of];B[ql];W[qn]
+;B[qq]C[Black R3 is a bad move. See more comments  below];W[pq]
+;B[qp];W[qo];B[pr]C[White R2 is of course a bad move. White should play the normal formula; see variation]
+
+(;W[qr];B[rr];W[or];B[qs];W[ep]TR[nq]C[White should have played at makred point here.]
+;B[eq];W[dq];B[fp];W[eo];B[cq];W[dr];B[er];W[cp];B[cr];W[do]
+;B[ds];W[dp];B[bp];W[bo];B[aq];W[br];B[bs];W[ar]TR[bq]C[White A2 is bad. Black doesn't need to resopnd at B3 as he did (waste move) as white will be in atari if he played there.]
+;B[bq];W[be];B[bf];W[bd];B[cg];W[ff];B[fc]C[At last black is doing something for J17...]
+;W[gc];B[gd];W[fd];B[hd];W[gb];B[hf];W[df];B[cf];W[id];B[hc]
+;W[if];B[ie];W[je];B[he];W[ig];B[jf];W[lf];B[mf];W[kg];B[jc]
+TR[ke]C[I guess I'm saying the obvious, that white missed the coming atari at L15, which allowed black to disconnect white at L14. White should play at mark.]
+;W[jb];B[ke]C[Good black move.];W[kb];B[kf]TR[hb]C[White, your group at R1 can be disconnected at mark and killed! you should play at mark instead. see variation]
+
+(;W[lg]TR[hb]C[Black, play at mark to kill the white group!]
+;B[jg];W[jh];B[me];W[ib];B[hb];W[fb];B[ih]TR[ha][hg]C[White group at J1 can be still disconnected by black H19 mark. However, the black group at H18 can also be disconnected at H13 mark, so black my need to play there first.
+Black at J13 is a bad idea. It pushes white to H13 helping him campturing the black group at H18.]
+;W[hg];B[gg];W[hh];B[gh];W[ii];B[gf]TR[ib]C[okay, black got out. is someone going to play at H19? this is the life or death point for the white group at mark.
+Strangely, no one played there for a long time.];W[gi];B[fi]
+;W[gj];B[fj];W[gk];B[mg];W[mh];B[nh];W[lh];B[mi]TR[of][qf][pg]
+C[So far it looked as black is trying to capture the two stones at mark. But last move is not doint anything. Black should attack white stones at mark (R13).]
+;W[li]TR[of][qf]C[White should try to help marked stones.];B[mj]
+;W[oh];B[oi];W[ng];B[ni];W[ph];B[qh];W[pi];B[pj];W[qg];B[nf]
+;W[og];B[oe];W[pf]TR[re]C[Black at mark may do the trick.];B[qe]
+;W[rh];B[ri];W[re];B[rd];W[pe];B[qd];W[sd];B[sc];W[sf];B[se]
+;W[od];B[ne];W[sd];B[rb];W[sg];B[ro];W[rn];B[sp];W[mb];B[nb]
+;W[ha]C[at last...];B[ma];W[la];B[na];W[ja]C[R19 is not required. White stones are save.]
+;B[lj]TR[om]C[That's a very small move. B at mark build some teritory and aim to invade white's land.]
+;W[kj];B[kk];W[jj];B[jk];W[ik];B[iq];W[jq];B[jr];W[hq];B[hr]
+;W[ir];B[is];W[kr];B[iq];W[oc];B[ob];W[ir];B[hp];W[iq];B[gr]
+;W[js];B[hs];W[ho]TR[mo]C[This white move is small. Better play at mark and secure big teritory. mark also aim to reduce possible black teritory above mark.]
+;B[gp]TR[mp]C[Black, don't be so submisive. Invade at mark.]
+;W[go]C[etc., etc.];B[fo];W[fn];B[io]TR[mo]C[Why start the ivasion from a weak point? go to the center.]
+;W[in]TR[jo]C[White should instead play at mark to defend white's teritory.]
+;B[jo];W[hn]TR[go][ho]C[common, who cares about these two white stones? and there not even at much risk.]
+;B[jn];W[jm];B[km];W[jl];B[kl];W[ko];B[kn];W[mo]TR[kp]C[next black move should be at mark.]
+
+(;B[jp];W[kp];B[po];W[pn];B[oo];W[on];B[oq];W[ln]TR[nq]C[This white move doesn't do much. Should play at mark as white black and then at O2 to protect what's left.]
+;B[lm]TR[nr]C[Black should play at mark instead.];W[no];B[op]
+;W[np];B[nr];W[nq];B[os];W[mr];B[mn]TR[nm]C[White should play at mark to secure connection and aim at black teirtory. After white at mark black can't disconnect at o3 - that would put him in atari.]
+;W[nn];B[lo];W[lp];B[nm];W[ln]TR[pl]C[This white move is pointless. mark makes good invasion. T9 another possibility for white.
+
+black doesn't need to connect at N7. if white captures, black can still block him - see variation. Black should play S7 or P7.]
+
+(;B[mm];W[om]TR[pl][sk]C[marks better moves for white.];B[ol]
+;W[pl];B[pk];W[si];B[sj];W[sh];B[rk];W[pm];B[rm];W[sm];B[sl]
+;W[sn];B[qm];W[ok];B[nl];W[qj];B[rj];W[fk];B[ek];W[el];B[dk]
+;W[dl];B[bk];W[cm];B[eg];W[ef];B[fg];W[dg];B[dh];W[af];B[ag]
+;W[ae];B[bm];W[bn];B[an];W[ao];B[am];W[ak];B[aj];W[ee]TR[bh]
+C[This white move seems a waste. However, he saw something that both me and black didn't see - the mark move.   The lesson for black, and for me - when oponent does strange move, check carefully before dismissing it as mistake. Very nice reading from white.]
+;B[ms];W[ls];B[ns];W[bh];B[ch];W[bg];B[bi];W[ah];B[ai];W[ag]
+C[Game over.];B[lo];W[mp];B[so];W[se];B[ln];W[qb];B[pc];W[ra]
+;B[pb];W[fe];B[il];W[im];B[hl];W[hk];B[fl];W[gm]C[black attack is futile. white could pass.]
+;B[ge];W[ej];B[ei];W[sb]C[black, why start ko? just connect at s17.]
+;B[sa];W[ap];B[as];W[sb];B[rc];W[eh];B[fh];W[tt];B[tt];W[tt]
+)
+(;B[om];W[mm];B[ml]))
+(;B[kp];W[lo];B[jp];W[kq];B[lp];W[mq];B[lq];W[lr];B[mp]TR[np]
+[mr]C[White in bad shape. black playing at either mark is very bad.]
+))
+(;W[hb];B[ib];W[ia];B[fb];W[ha]TR[fb]C[Hopefully for white, the white group will win the fight with black two stones at mark.]
+))
+(;W[or];B[qr];W[nq]C[At this point black must play S5. See variation -]
+
+(;B[ro];W[rn];B[rp];W[ir]TR[ip][nq][or]C[Black is alive. However, white has a very stonge position and good prospect for much larget teritory between the marked stones then black 6-8 points in the corner.
+Normally, the 3-3 invasion is better to the player on the outside, although the player in the corner gains 10 points and one side still open for further expansion. Is this case, becasue of white's stone at R6, black is compeltely closed in the corner. This invasion may be good at end of game, if white's expansion options outside of his wall are small.]
+)
+(;B[oh]C[If black failes to play at S5 and play elsewhere he will die in the corner:]
+;W[rp];B[rq];W[ro]TR[sr][rs]C[Black is dead. If he plays any of the marked stone, white plays the other.]
+)))
+(;B[co];W[dn];B[fp]C[At this point, if white plays elsewhere, for example at C16, white stones can be put under more preasure. See next two variations.]
+
+(;W[cd];B[el])
+(;W[gn];B[cf])))

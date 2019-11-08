@@ -1,0 +1,84 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.17]
+
+GN[2011-09-11a]
+PB[StanleyLim]
+BR[15k]
+HA[3]
+PW[Prelle]
+WR[12k]
+KM[0.5]
+DT[2011-09-11]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[W+21.5]
+TM[600]
+OT[5x20 byo-yomi]
+RU[Japanese]
+
+AB[pd][dp][pp]C[Stanley: Hi, I would like to understand about how to improve my attack and defend in this game.
+It seem I am completely controlled by white in this game. No matter where I attack, white seem to be able to gain the upper hand.
+Can U point out where I did wrong?
+Thanks!
+
+Hello Stanley, i made some observations at various points in the game where you made some mistakes.  A mixture of causes here;
+
+blunders - we all make these but as you play more you will make less.
+first line moves - only make these in an emergency.
+protect your stones - look around at the whole board and protect any weak groups.
+good shape - learn good shapes by watching dan and pro players.
+avoid small moves - particularly in the opening.
+
+A book you should read to get stronger is Lessons in The Fundamentals of Go. You should also do life and death problems regularly.  Finally always review your games, particularly your losses!  You will make rapid progress if you do all this.
+
+Good luck,
+David.
+KGS dch888.];W[dd];B[df];W[dh];B[fd]C[usual move is f14.  this keeps black connected and white disconnected - a key theme in go.  your move allows white to separate your stones, creating two weak groups which you must now look after independently.]
+;W[ff]C[white should have played at e15 to separate black];B[ee]
+C[connecting makes your stones overconcentrated and without eyes.]
+;W[ed];B[fe];W[de];B[ef];W[fg];B[cg]C[this is a thank you move, it allows white to answer in a stong way, and black will need another move to follow up. c12 is sharper though i feel in the wrong direction. k16 is big and simple.  You are playing as though your stones are in trouble and are struggling to make eyes.  Just extend with j16 or k16 and you will make eyespace and territory.]
+;W[ch];B[bh];W[bi];B[bf];W[ah];B[ag];W[bg]C[I understand i am a mistake here by not protecting securely.
+yes, connecting at b13 is better for various reasons - better eye potential is one, another is that it activates the cut c11.]
+;B[cf];W[af];B[ae]C[b16 better, reduces white's eyespace.];W[bd]
+;B[be];W[cd];B[fc];W[ec];B[eb];W[db];B[da]C[simple mistake, you will soon learn you can't do this.]
+;W[fb];B[gb];W[ea];B[ga]C[first line moves should only be made in an emergency at this stage of the game.  h17 is more usual to protect the wall and create thickness.]
+;W[ca]C[meaningless];B[jd];W[md];B[mf]C[ambitious.  you are saying with this move "i will capture your lone stone", but the truth is there is so much empty space as your stones are all on the fourth line that white should live easily.  perhaps your intention is to build a wall facing south, but you need to be careful how you would use it.]
+;W[kb];B[jb];W[kc];B[jc];W[oc];B[pc];W[ob];B[pb];W[od];B[oe]
+;W[ne];B[of];W[nf];B[og];W[ng];B[oh];W[qe]
+(;B[pe]C[too passive, the cut is not on for white, see variation.]
+;W[rg];B[qf];W[rf];B[re];W[qi];B[qh];W[rh];B[qg];W[rl];B[qn]
+C[black is still leading];W[pl];B[pi];W[qj];B[ok]C[small move. c6 or c7 is bigger. k3 or k4 is huge.]
+;W[nq];B[pr];W[oo];B[om]C[this is most likely a dame point, and hence a meaningless, wasted move.  previous moves indicated are still the biggest]
+;W[pm];B[ol];W[pn];B[qo];W[po];B[qp]C[r3 has better eye potential]
+;W[sn];B[qm];W[ql];B[ro]C[a butting move like s6 is a more usual reply to the monkey jump.]
+;W[so];B[sp];W[sq];B[rp];W[rq];B[oq];W[op];B[pq];W[nr];B[rm]
+C[disaster.  t7 atari would save your group.];W[sm];B[np];W[mp]
+;B[gq];W[jq];B[ir]C[another thank you move, c6 bigger];W[jr]
+;B[iq];W[jo];B[io];W[jn];B[lm];W[ln];B[km];W[nn];B[in];W[cq]
+;B[dq];W[cp];B[dn];W[cn];B[dm];W[cm];B[dk];W[gm];B[gk];W[il]
+;B[hl];W[hm];B[im];W[gl];B[hk];W[do];B[eo];W[co];B[ep];W[dl]
+;B[el];W[em];B[cl];W[en];B[dl];W[fo];B[jp];W[kp];B[ip];W[jm]
+;B[jl];W[ik];B[jk];W[ij];B[jj];W[hi];B[jh];W[gh];B[fj];W[kf]
+;B[le]C[dangerous];W[ke];B[kd];W[ld];B[mg];W[mh];B[lh];W[lf]
+;B[me]C[costly mistake];W[lg];B[he];W[oj];B[pj];W[pk];B[mi]
+;W[nj];B[mj]C[playing from this side hurts your group of three stones.  n8 is a guaranteed way to keep them safe and also surround your opponent.  when attacking you should not touch your opponents weak stones, keep your distance and restrict their eyespace.]
+;W[nk];B[nl];W[ml];B[mk];W[nm];B[mm];W[ll];B[kk];W[li];B[kh]
+;W[ni];B[nh];W[on];B[mg];W[mf];B[mh];W[ji];B[ki];W[ii];B[lj]
+;W[kl];B[lk];W[nl];B[ig];W[fi];B[ej];W[ei];B[di];W[ci];B[dj]
+;W[bk];B[bl];W[cj];B[bn];W[bm];B[am];W[bo];B[an];W[ao];B[al]
+;W[dr];B[er];W[ds];B[es];W[br];B[hf];W[ak];B[jf];W[je];B[id]
+;W[is];B[hs];W[js];B[hr];W[hp];B[go];W[fp];B[eq];W[fq];B[fr]
+;W[gp];B[ho];W[gn];B[hq];W[fn];B[gs];W[gj];B[fk];W[hj];B[hn]
+;W[ck];B[fl];W[eg];B[os];W[or];B[ps];W[qr]C[you were lucky to live here,  I think at the least white could force a seki.]
+;B[qs];W[rs];B[qq];W[ns];B[rr];W[sr];B[ss];W[sl];B[se];W[sf]
+;B[qd];W[pa];B[qa];W[oa];B[qb];W[ja];B[ia];W[ka];B[ib];W[fa]
+;B[gc];W[ad];B[gf];W[gg];B[hg];W[hh];B[ih];W[dg];B[ie];W[kg]
+;B[jg];W[nd];B[tt];W[tt]TW[da][eb][dc][bh][gi][bj][qk][bs][aa]
+[ab][ac][ba][bb][bc][la][lb][lc][ma][mb][mc][na][nb][nc][cb]
+[cc][le][me][sg][sh][si][sj][sk][eh][fh][ai][aj][ri][rj][rk]
+[ok][ol][om][km][kn][ko][lm][mm][mn][mo][lo][lp][lq][lr][ls]
+[no][np][ap][aq][ar][as][bp][bq][kq][kr][ks][mq][mr][ms][cr]
+[cs]TB[ic][qc][qe][if][li][kj][ek][hm][gr][qr][sr][fs][rs][ha]
+[hb][hc][hd][ra][rb][rc][rd][sa][sb][sc][sd][gd][ge][pf][pg]
+[ph][gl][gm][gn][em][en][fm][fn][fo][fp][fq][gp][hp][rq][sq]
+C[It seem every point white attack, it seem so easy for him to make two eyes, and I am losing many points in our battle. I hope you can teach me how to better defend and attack. Thank you.]
+)
+(;B[qf];W[pe];B[pf]C[white is dead]))

@@ -1,0 +1,166 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[utf-8]AP[SGFC:1.15]
+
+PB[cook777]
+BR[4k]
+PW[taisei]
+WR[3k]
+KM[0.5]
+DT[2009-03-01]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[W+24.50]
+TM[1500]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+C[taisei [3k\]: hi
+cook777 [4k?\]: Hi
+
+Hello !
+
+I'm your reviewer Thomas.
+My comments will begin with [fantomas27\]: as my nickname on kgs is fantomas27.
+Mail me or pm me on kgs if you have any question.
+I added some general comments at the end of the file.
+
+Thomas];B[pd];W[cd];B[dp];W[qp];B[oq];W[oo];B[mp]C[Should have played R3.
+
+[fantomas27\]: well, that's what the kogo is saying but the sequence they show doesn't convince me that it's good for white.]
+;W[pq];B[op]
+(;W[po]
+(;B[ed];W[gd];B[ef];W[ec]
+(;B[dd]C[Acording to kogo's joseki I should have D17.];W[dc]
+;B[ce];W[bc]
+(;B[gf]C[B15 better. Because of next move.];W[be]C[This shape seems bad now.]
+
+(;B[qi]
+(;W[fq];B[er]TR[mp][op][oq]C[Trying ot use thoughs stones as thickness.
+[fantomas27\]:as they are now these stone are not thickness because  they don't have eye shape]
+
+(;W[eq];B[dq];W[fr];B[iq]C[[fantomas27\]:good move because it is an extension-pincering move]
+;W[cn]C[[fantomas27\]:this move seems abusive, just creating another weak group.]
+;B[eo]C[[fantomas27\]:ok];W[go]
+(;B[gp]C[[fantomas27\]:the motto says "don't attach what you are attacking" because it will reinfore your opponent like here.]
+;W[fp];B[fo];W[hp]LB[gp:A][dr:B][kq:C]C[[fantomas27\]: now by capturing the A stone plus the possibility of playing B, white is nearly alive.
+Plus white may have the possibility to play C, that would be troublesome for you.]
+;B[gn];W[gq];B[ip];W[io];B[hn]TR[ip]LB[ho:A]C[[fantomas27\]:this move is bad : after white connects at A you get a broken shape]
+;W[ho]TR[hn][ip]C[[fantomas27\]:here is broken shape, this result is clearly not good for you.]
+
+(;B[jo];W[in]TR[hn][jo]C[[fantomas27\]:broken shape again.]
+;B[jn];W[im]C[[fantomas27\]:what did you gain with your last move ?
+you only got a bad shape];B[cl]TR[im]C[[fantomas27\]:now the triangled stone will help white a lot in this fight]
+;W[dl];B[dk];W[el];B[cm];W[dn];B[dm]LB[ck:A]C[[fantomas27\]: this move will only create a weakness at A. Since you can't cut, don't push.]
+;W[en];B[fn]TR[dm]C[[fantomas27\]:broken shape again];W[em]
+
+(;B[gl]C[[fantomas27\]:If you want to attack a group, you have to be strong, so you have first to defend your weakness before jumping here.]
+;W[ck]C[[fantomas27\]: Now that is not black that is attacking white but white that is torturing the black group]
+;B[bk];W[cj];B[bj];W[di]C[[fantomas27\]:now black is crawling on the 2nd line while white takes influence plus a black stone]
+;B[ci];W[dj];B[ek];W[bn]C[[fantomas27\]: moreover, now you corner look not that strong.]
+;B[al];W[am];B[bl];W[fk];B[ej];W[ch]C[cook777 [4k?\]: ah I see]
+;B[bi];W[dh];B[bh];W[fi]LB[gl:A][bp:B]C[[fantomas27\]: now white's group is absolutly alive and black A stone seems useless (would be better at B for example).]
+;B[cg];W[cf];B[bf];W[de];B[dg];W[af];B[bg];W[ee];B[hk]LB[bp:A]
+C[[fantomas27\]:i would prefer to play A, with A your group become alive and it is also very big move]
+;W[jl];B[fh]C[[fantomas27\]:useless, white's group is already alive]
+;W[ei];B[hi];W[bq];B[bp];W[do];B[cp];W[ep]C[I missread how bad the cut was for me.]
+;B[br];W[hl];B[hm];W[il];B[gk]LB[fh:A][ei:B]C[[fantomas27\]: you can this that is you hadn't played the A for B exchange, your last move would be sente. This is a perfect example of a bad kikashi (=forcing moves).]
+;W[gh]
+(;B[fg]C[[fantomas27\]: you don't have to save this stone];W[gi]
+;B[hh]LB[hg:A]C[[fantomas27\]: you still have a weakness at A]
+;W[gm];B[fm];W[fl];B[gm];W[hj];B[ij];W[gj];B[ik];W[ii];B[jj]
+;W[hg];B[ih];W[ig];B[jh];W[gg];B[je]C[[fantomas27\]: a very vague move : it doesn't close white, doesn't help black to get out nor take territory]
+;W[jg];B[li];W[kh];B[ji];W[hf];B[ag]C[[fantomas27\]: a very humiliating move but you have no choice.]
+;W[ll];B[mj]TR[qn][rn][sn][pr][ps][hc][hb][ha][ad][fd]SQ[cs]
+[cr][ap][or][os][ir][is][no][mo][lo][ko]C[[fantomas27\]: Let's count a bit.
+Imagine triangles are white stones and squares black stones : they show the amount of definite territory both players have.
+White : 23(top left) + 7 (left) + 14(lower right) = 44 points
+Black : 7(lower left) + 4(left) + 19(lower side) = 40 points
+We can't say where the points  are at the top right area, so we simply don't count them, but we have to think about it for the evaluation.
+Evaluation : based on pure territory, your are behind, but if we think about this top right area then you are clearly ahead.]
+;W[md]TR[je]C[[fantomas27\]: I think this move is a very good move : it invades black's area and attacks black marked stone at te same time.
+since you are definitively behind after the sequence beginning with this move (and the fact you were ahead before), the reason of you losing the game is how you answered this move.]
+
+(;B[pc]C[[fantomas27\]: i think this move is the problem, this is your
+moyo so you have to be more offensive];W[nc];B[mg]C[[fantomas27\]: i can't find a way to save k15 without too much damage]
+;W[lf];B[mf];W[me];B[lg];W[kf];B[oe]C[[fantomas27\]: you sure won some points but white as well and white has sente.
+Please compare with the P17 move i showed you
+My comment ends here];W[qk];B[rk];W[rl];B[rj];W[pl];B[mn];W[hr]
+;B[ir];W[oj];B[oh];W[ob];B[pb];W[no];B[mo];W[or];B[nr];W[pr]
+;B[sl];W[rm];B[sm];W[sn];B[sk];W[rn];B[dr];W[nl];B[km];W[kl]
+;B[nm];W[ol];B[ml];W[mk];B[mm];W[lk];B[nj];W[nk];B[oc];W[nb]
+;B[ge];W[he];B[os];W[ps];B[ns];W[pa];B[qa];W[oa];B[qb];W[oi]
+;B[ph];W[ni];B[mh];W[kg];B[lj];W[ne];B[nf];W[qj];B[rh];W[fe]
+;B[ff];W[lm];B[ln];W[np];B[nq];W[nh];B[ng];W[is];B[js];W[hs]
+;B[kr];W[es];B[ds];W[fs];B[pi];W[pj];B[om];W[pm];B[on];W[pn]
+;B[pp];W[qq];B[df];W[ae];B[ao];W[ce];B[eh];W[bo];B[ap];W[jm]
+;B[kn];W[fj];B[tt];W[tt]TB[bq][qd][ra][sa][rb][sb][qc][rc][sc]
+[rd][sd][pe][qe][re][se][of][pf][qf][rf][sf][eg][og][pg][qg]
+[rg][sg][ah][qh][sh][ai][ii][ri][si][aj][sj][ak][ko][lo][jp]
+[kp][lp][aq][cq][jq][kq][lq][mq][ar][cr][jr][lr][mr][as][bs]
+[cs][ks][ls][ms]TW[ql][qm][qn][qo][ro][so][gp][rp][sp][cb][sq]
+[gr][qr][rr][sr][gs][qs][rs][ss][aa][ba][ca][da][ea][fa][ga]
+[rq][ha][ia][ja][ka][la][ma][na][ab][bb][db][eb][fb][gb][hb]
+[ib][jb][kb][lb][mb][ac][cc][fc][gc][hc][ic][jc][kc][lc][mc]
+[ad][bd][dd][ed][le][fd][hd][id][jd][kd][ld][ie][je][ke][if]
+[jf][ej][dk][ek][ok][pk]C[taisei [3k\]: thx
+cook777 [4k\]: Thank you for the game.
+
+[fantomas27\]: This was a good game for both players, very close untill the move 126 where white played an axcellent move that gave him victory.
+My advice for you for further improvement is to study shapes. I noticed this is your weakest point as you made a lot of shape mistakes.
+To study shapes, you have to study tsumegos and/or play teaching games with high dan players that will teach you.
+
+I hope you enjoyed this review.
+
+Thomas])
+(;B[oc]C[[fantomas27\]: i think playing here is the good move.]
+;W[lf]C[[fantomas27\]: a white move here is not good because...]
+;B[mb]C[[fantomas27\]: black palys here and hive territory will be reduced A LOT :-)]
+
+(;W[lb]C[[fantomas27\]: white can't play here];B[lc];W[mc];B[kb]
+;W[nb];B[la];W[nc];B[ic]C[[fantomas27\]: horrible for white]
+)
+(;W[lc]C[[fantomas27\]: white have no choice but to play here]
+;B[lb]
+(;W[kb]C[[fantomas27\]: impossible];B[jb];W[ka];B[kc];W[jc]
+;B[kd];W[ib];B[jd];W[ic];B[ld];W[mc];B[me]C[[fantomas27\]: white 3 stones are dead.]
+)
+(;W[kc]C[[fantomas27\]: no choice];B[kb];W[jb]C[[fantomas27\]: black can play B, A doesn't work but show what B threatens]
+
+(;B[ib]C[[fantomas27\]: it doesn't work now];W[ja];B[jc];W[ic]
+;B[jd];W[hb];B[le];W[me];B[ld];W[mc];B[mf];W[oe]C[[fantomas27\]: with this move, white can't lose the semeai.]
+;B[pe];W[nf];B[mg];W[kf];B[og];W[ke];B[kd];W[jf];B[nd];W[ne]
+;B[ng];W[ie];B[od])
+(;B[nf]C[[fantomas27\]: you can play here in sente. If white doesn't defend then...]
+
+(;W[mg];B[ib];W[ja];B[jc];W[ic];B[jd];W[hb];B[le];W[me];B[ld]
+;W[mc];B[mf]C[[fantomas27\]: ...white's stones are trapped]
+;W[ke];B[kd];W[kf];B[ne];W[jf];B[nc];W[ie];B[nd])
+(;W[ic]C[[fantomas27\]: if he defends here];B[ql]C[[fantomas27\]: black plays here and the game is still close]
+;W[mh];B[oj];W[oh];B[pg]C[[fantomas27\]: black is still in the game]
+))))))
+(;B[hh];W[fg];B[ff];W[eg];B[gg];W[eh];B[df];W[gi];B[gj];W[fj]
+C[[fantomas27\]: looks better]))
+(;B[ci]LB[ck:A]C[[fantomas27\]:i would prefer to play here to protect this cut]
+;AB[bf][cf]AW[ad][cc]C[[fantomas27\]:now we can clearly see that the exchanges i showed you sooner would have made a big difference]
+))
+(;B[cl]C[[fantomas27\]:i would prefer attacking this stone]
+))
+(;B[em]C[[fantomas27\]:this would have been an excellent point]
+))
+(;W[jp]TR[fq]SQ[mp][op][oq]C[[fantomas27\]:is white plays here, he attacks your 3 black stones while expanding the triangled one. This is very good for white.]
+))
+(;W[cf]TR[ce][dd][ed][ef][gf]C[[fantomas27\]:now black's shape is awfull.
+The marked group is weak and white got both sides and the corner : a great result for him.]
+))
+(;B[cf]C[[fantomas27\]:I think you should play here first. black's shape is ok. But it is a bit overconcentrated]
+))
+(;B[bd]C[[fantomas27\]:it is important to make this exchange.]
+;W[cc];B[gf];W[be];B[bf];W[ad];B[cf]C[[fantomas27\]:black's shape is nice isn't it ?]
+))
+(;B[fc];W[fd];B[dc];W[dd];B[eb];W[ee];B[ec];W[de];B[fe]C[[fantomas27\]:indeed this fight looks promising for black]
+))
+(;B[no]C[[fantomas27\]:i think that playing here is very important.]
+;W[nn];B[mn];W[nm]TR[dp][pd]C[[fantomas27\]:with this exchange it seems that white go the inside and black the outside. It works well with the triangled stones (D4 make your of your influence while Q16 limit white's one).
+I can't help you more that i did with this position because my joseki books don't say a word about it]
+))
+(;W[pp]LB[no:A]C[[fantomas27\]: white has an empty triangle, black still have A in sente to make beautiful shape and black got sente]
+;B[no];W[on];B[gq]LB[pl:A]C[[fantomas27\]:this result doesn't seem too bad for b to me : that's right that white has a lot of territory but it's very open (imagine a black stone at A and it's not that big) and black's framework seems interesting]
+))

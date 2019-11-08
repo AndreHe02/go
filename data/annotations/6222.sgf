@@ -1,0 +1,230 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+GN[2007,PANDA-NET]
+PB[gizoku]
+BR[6k]
+PW[abc18]
+WR[5k]
+KM[-5.5]
+DT[2007-09-29]
+PC[PANDA-NET]
+RE[W+Time]
+RU[Japanese]
+
+C[> Hi, here are the conventions used in my review:
+
+> triangles mark bad moves, weak groups, and vital points;
+
+> squares mark good moves, strong groups, and big points.
+
+> --Thomas];B[pd];W[dp];B[pq];W[dd];B[fq]
+(;W[dn]TR[cl]C[> 4th line is the line of development: White starts a framework on the left side.
+
+> However, there is a weak point at C8 that Black can exploit later.
+
+> Compare with variation.];B[jp]C[> Classical Kobayashi opening. Black is going for fast development.]
+
+(;W[dj]C[I think Q10 or 14 would have been better.
+
+> D10 is the logical continuation of D6, growing the left-side framework. Sidewise, it's a very nice move; but on the whole board, the open 3-4 corner is bigger.]
+
+(;B[pk]SQ[pd][jp][pq]C[I'm really bad at fuseki; I was trhinking about E5 or F17, and couldn't decide which was best.  Your thoughts?
+
+> This Q9 is very good, making moyo on a large scale.];W[jd]
+
+(;B[cf]SQ[md][jj]C[> Way too early ! This is a moyo game ! As long as you can grow a bigger moyo than your opponent's, you don't need to invade.
+
+> Invading does reduce the opponent's moyo, but that typically loses sente and lets him grab a free big point.
+
+> Instead, force him to invade your huge moyo and then take sente and attack for profit ! Which can mean consolidating a fair chunk of your moyo, building strength to in turn destroy his moyo.]
+
+(;W[ch]C[> Overconcentrated, see move 21.];B[cc];W[cd];B[dc]
+;W[ed];B[bd];W[be];B[bc];W[ce]
+(;B[fb]TR[ch]SQ[jj]C[Would F17 have been better?, I heard a proverb saying stay off the third line if you can
+
+> I think you mean stay off the second line, a.k.a. the line of defeat. F17 is the local joseki move, I see no reason to deviate in this game.
+
+> Meanwhile, White would prefer C12 at K10 !];W[gc]
+(;B[nc]C[> Too small. Nobody is going to make a lot of territory on top.]
+
+(;W[eq]C[> Very bad move that makes Black strong.];B[fp]SQ[jp]
+C[> Thank you, White !!];W[mq]SQ[fp][jp]C[> Very bad move. Now that Black is strong, such an invasion will only help Black profit while White is forced to defend on dame points.]
+
+(;B[kq]C[> Wrong direction. Black is overconcentrated.]
+(;W[mo]C[> A tobi into the center is proverbially never wrong, but see variation for a more dynamic move.]
+;B[np]C[> Making White heavy, this is good technique.];W[mp]
+;B[no];W[mn]
+(;B[on]C[Necessary?
+
+> Inert shape. Prefer the keima.]
+(;W[jj]TR[mn]C[> The center is big, but White is leaving a weak group behind.]
+
+(;B[kc]TR[mn]SQ[jd]C[This was kinda big, but attacking white's group, but
+attacking white's N5 group with L7 or M8 would have
+been better, right?
+
+> Very small. Black played that flat, boring top side again and made about 6 points.]
+
+(;W[jc];B[kd]
+(;W[je];B[ke];W[kf];B[lf]
+(;W[kg];B[lg]C[> Black is pushing from behind.];W[kh];B[pg]
+LB[cb:9][qc:5][ne:20][gg:30][bi:12][ek:A][qk:B][co:5][cq:5]
+[hq:8][qq:11]TR[mn]SQ[dc][pd][kg][ch][dn][on][fp]C[> The board has settled, time to make a quick positional judgement.
+
+> As a rule of thumb, an open corner is counted 5.
+> A weak group is counted -10.
+
+> Black has say 53 + 5.5 + B moyo
+> White has say 42 + A moyo
+
+Bottom line is, White is behind by a lot and has to take risks, which means leaving the weak group to itself. Even so, prospects are bad since Black is strong everywhere.]
+
+(;W[kb]C[> Too small !!];B[lb]C[> Too small !!];W[gb]C[> Too small !!]
+;B[fc];W[fd];B[jb]C[> Too small !!];W[ib]C[> Too small !!];B[ka]
+C[> Too small !!];W[ec]C[> Wasted a ko threat.];B[eb];W[fa]
+C[> Another one.];B[da];W[fn]TR[mn]C[> Finally a global move !]
+
+(;B[ho]C[> Slack and small.];W[hm]TR[mn]C[> Good move !! White is catching up.]
+;B[jm]TR[mn]C[> Black finally got it. Good attack ! White is still in trouble.]
+;W[ml]
+(;B[il];W[hk]
+(;B[ik]C[Pushing the other seems better now, I could cut and
+probably win the semeai
+
+> Not sure what you mean. But the urgent matter is, how to exploit the White dragon. The center can wait.]
+;W[ij];B[hl];W[mj]C[EH?, cant believe I repsonded now.  Cutting his group
+would have been so much worse for him than his attck on
+my group
+
+> White finally defends. I don't understand which cut you're talking about ?]
+
+(;B[oh]SQ[gk]C[For a local play, was this ok?
+
+> For a local play. But the atari is so much bigger, since it incurs more damage. The same can be said of the next few moves in those areas.]
+
+(;W[oj]C[> Small.]
+(;B[pj];W[ol]C[> Ditto.];B[pm]C[> Black was so obedient that White takes both big points.]
+
+(;W[gk]C[> !];B[gm];W[fm];B[gn]C[> Small and gote.]
+(;W[fr];B[gr];W[er];B[ir];W[gl];B[fo];W[or];B[pr];W[oi];B[pi]
+;W[ok];B[nr];W[mr];B[oq];W[pl];B[ql];W[om];B[pn];W[nh];B[ng]
+;W[mh];B[lh];W[li];B[mg];W[nq];B[os];W[eo];B[ae];W[af];B[ad]
+;W[bf];B[lr];W[ms]C[This seems really small for white; I responded because I
+was low on time and couldn't find an especially good
+move for me];B[ls];W[lq];B[kr];W[kn];B[jn];W[ko];B[kl];W[kk]
+;B[lm];W[mm];B[jk];W[im];B[jl];W[ll];B[jo];W[km];B[ia];W[ha]
+;B[ja];W[kp]
+(;B[qc]C[Necessary?  I thought he could make a ko for life, and he had several ko threats in the upper-left
+
+> No ko here. But, since Black is leading, this underplay can be forgiven.
+
+> This is my last comment before the final summary.];W[ns];B[or]
+;W[qm]C[Eh?];B[rm];W[nn];B[qn];W[bb];B[ba];W[cb];B[ab];W[gs]
+;B[hs];W[fs];B[tt];W[ep];B[tt];W[gq];B[hr];W[hp];B[go];W[ga]
+;B[tt];W[ea]C[Please understand I had 3 sec to make this move, so I had no time to think.
+
+Well, thanks to whoever reviews this :)
+
+> Summary:
+
+> Pay attention to big points in the opening, starting with corner enclosures.
+
+> Look at the big picture. Grow your moyo if you can (K10 vs. C14). Don't develop in unfertile directions (O17).
+
+> Weak groups are a liability: avoid making them ! When cursed with one, helping it is urgent and should take precedence, otherwise the opponent is likely to profit from it.
+
+> This also means attacking a weak group is urgent (as long as you can make some profit from it).
+
+> Take time to assess a positional judgement between each fight. It doesn't matter if your count is rough. The point is to pick a conscious strategy based on your perception of the board: simplify when ahead, complexify and take risks when behind.]
+)
+(;B[ns];W[qc]
+(;B[re]C[> This kills as of my reading.])
+(;B[rd]C[> A friend of mine proposes this, looks good too. Not sure which is best.]
+)))
+(;W[er]C[> Try this for sente.]))
+(;W[gl]C[> Better.]))
+(;B[gk]C[> Big.];W[pj]C[> Small (yes ! it's all relative)];B[hj]
+C[> Big.]))
+(;W[gl]C[> Big.]))
+(;B[gk]C[> Black must finish the job !!]))
+(;B[lm]C[> Big fish.];W[mm];B[lj]TR[ml]))
+(;B[lm]C[> Big fish.];W[mm];B[lj]TR[ml]))
+(;B[hl]TR[mn]C[> Black can erase without worry because of the weak group waiting behind.]
+))
+(;W[jn]C[> Safe move, but not enough...];B[gm]TR[eq]SQ[fp]C[> White's moyo vanishes too fast. This is a consequence of the early bad exchange.]
+)
+(;W[fn]C[> Risky, but still not enough !];B[hl]C[> Reducing the center is to easy.]
+;W[gk];B[nl]C[> And Black can attack from this direction, too.]
+)
+(;W[qm]C[> Takes out a lot of Black territory, but White is making two weak groups...]
+
+(;B[ol]TR[lm]C[> Severe attack, as White has two weak groups.]
+)
+(;B[qo]C[> Conservative, but White is still in trouble.];W[qk]
+;B[qj];W[pj];B[qi];W[ok]C[> This is the driving tesuji.];B[pl]
+;W[pm];B[ol];W[om];B[nl];W[nm];B[ml]C[> White connect but the whole shape is still terrible.]
+)
+(;B[qk]C[> Also conservative yet effective.]
+(;W[om]C[> Useless,];B[pn];W[pm];B[nn]C[> Guzumi is a good fighting move.]
+)
+(;W[qo];B[qp]))))
+(;W[lg]C[> Double hane is stronger.]))
+(;W[ke]C[> "Hane at the head of two stones without even looking" !!]
+))
+(;W[ml]C[Here White must first take care of her weak group.]
+)
+(;W[kd]C[Locally, better for the center.]))
+(;B[kk]TR[mn]SQ[pk][jp]C[> Black may consider this leaning attack.]
+))
+(;W[ml]C[> Help your weaker group. This also builds the center in the long term.]
+))
+(;B[om]SQ[ml]C[> Good shape, aiming at capping White's stick.]
+))
+(;W[pp]TR[qi]C[> Contact to defend. Use the corner to control the side.]
+))
+(;B[op]SQ[pk]C[> Correct direction: attack to build the bigger part of the moyo.]
+))
+(;W[jj]))
+(;B[jj]C[> Think big !])
+(;B[pf]C[> Sidewise, this is better than the game. 
+
+> "Reinforce the side which you which to build". 
+
+> "In the opening, connecting stones more than 5 spaces apart is a good idea."]
+))
+(;B[fc]C[> White has sente moves, but the center is too open.]
+
+(;W[fd];B[gc]TR[gd][jj]C[> Miai.])
+(;W[ge]C[> Not really sente.];B[jj];W[gc];B[fb])
+(;W[jj];B[fd];W[fe];B[ge]TR[jd])))
+(;W[ce]C[> Standard attack.];B[df];W[fd];B[dh];W[ci]C[> White takes profit on both sides while Black defends on dame points. If Black ignores, White will likely drive the dragon into Black's moyo and damage it badly.]
+)
+(;W[be]C[> Or try this.]))
+(;B[md]C[> Big point.])
+(;B[jj]C[> Huge point.]))
+(;B[eo]C[> Poor exchange, helps White more than Black.]
+(;W[do]TR[go]SQ[co]C[> On White's side the C5 peep aji is gone, so invasion will be harder for Black.
+
+> Meanwhile, Black's shape can still be pressed around G5.]
+;B[gn]C[> It's too early to develop the center.];W[pn]C[> This two-space high approach is an excellent whole-board play that limits Black's ambitions.]
+)
+(;W[cq]C[> White can also take territory like this.]))
+(;B[fo]C[> Normal move to expand the moyo into the center, but like E5, the timing is wrong.]
+;W[qn]))
+(;W[qn]C[> The distant approach is meant to discourage pincers. It's the most common move to counter Black's opening.]
+)
+(;W[pn]C[> Also possible.])
+(;W[qo]C[> Bad idea.];B[pl]SQ[jp]C[> Black is going to profit by attacking.]
+)
+(;W[po]C[> Not good either.];B[pl]SQ[jp]C[> Excellent prospects for Black.]
+)
+(;W[pj]C[> Slack move.];B[ql]SQ[jp][pq]C[> Black attacks to maximize his moyo.]
+)
+(;W[pf]C[> Wrong direction.];B[pi]SQ[jp][pq]C[> Black will typically pincer and aim at building a huge moyo.]
+)
+(;W[nd]C[> Sidewise, this is the correct direction to make a moyo vs. moyo game. But in this fuseki, the open 3-4 corner is still bigger.]
+))
+(;W[cn]C[> This is the usual move in this opening. Why ?
+
+> 3rd line is the line of completion: White makes a stable position, so that she can deal with Black's framework without worrying about a counterattack.]
+))

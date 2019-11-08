@@ -1,0 +1,133 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.16]
+
+GN[Guerecon-evan-904415-20140614]
+EV[(Dragon Ladder) Tournament #3: DGS Ladder (19x19)]
+RO[Round 1 of 1]
+PB[Evan (evan)]
+BR[1k]
+PW[Geremias Canya (Guerecon)]
+WR[1d]
+KM[6]
+DT[2014-05-31,2014-06-14]
+PC[Dragon Go Server: http://www.dragongoserver.net/]
+RE[W+Resign]
+RU[Japanese]
+SO[http://www.dragongoserver.net/game.php?gid=904415]
+GC[Game ID: 904415
+
+Game Type: GO (1:1)
+
+(Dragon Ladder) Tournament #3: DGS Ladder (19x19); with 658 participants
+
+Rated: Y
+
+
+
+White Start Rating: 1k (+30%) - ELO 2029
+
+Black Start Rating: 1k (-6%) - ELO 1993
+
+White End Rating: 1d (-36%) - ELO 2064
+
+Black End Rating: 1k (-9%) - ELO 1991]
+
+C[To the reviewer: I took black in this game.  I've made comments on several moves, marked with an "E."]
+;B[qd];W[dd];B[dp];W[pp];B[fc];W[cf];B[kc];W[qj];B[nq];W[pn]
+;B[pr];W[qq];B[kq]LB[fc:C][kc:A][oc:B][cf:D]C[E: Any thoughts on the direction of the opening? I'm trying to improve my opening game, but I still have hazy instincts.
+
+Janr: things still look ok.  Personally, when playing diagonally, I would prefer A to be at B (without the C/D exchange)]
+;W[qg]LB[kc:A][oc:B]C[janr: having A at B would now leave sente to black.]
+;B[db]LB[od:A]C[janr: tenuki may be possible, but still a white move at A is unagreable]
+;W[cc];B[dj]LB[db:A][cc:B][hc:E][hd:D][fe:C]C[janr: If you play the A/B exchange, you usually must also play C or D.  Playing A/B deleted your option to take the corner, while you didn't remove the option for white to attach at D or E]
+;W[fq]
+(;B[hq]C[E: Maybe this is a cramped way to play
+
+janr: looks ok to me.  The important alternative is in variation.]
+;W[dn]C[E: I really didn't know what to do next.];B[fp]C[E: Maybe I should have attached on the other side? Maybe the open skirt on the left side makes it smaller?]
+;W[gp];B[gq];W[cp];B[eq];W[cq];B[cl]LB[co:A]C[E: This can't be right :(
+
+janr: this is a common move after the corner exchange.  It threatens A]
+;W[bn];B[ch]LB[db:A][fc:B]C[E:Bleh I feel bad about these last two moves
+
+Given your choice to give white the corner things look plausible.  The last move puts pressure on the top left corner, decreasing the probability of an attack on AB]
+;W[hc]LB[db:A][fc:B]C[janr: well, it seems I was wrong about that attack on AB.  Still, now white has a not-so-strong group in the upper left corner, and a weak attacking stone on the top side.]
+;B[fe];W[ef];B[id]LB[ff:A]C[janr: good.  Maybe pushing once at A in sente would be even better.]
+;W[od]LB[qg:A]C[janr: as said earlier, I feel uneasy as black here.  Black will survive but gets fragmented into smaller parts.]
+;B[oc]LB[qg:A]C[E: Is this the wrong direction?
+
+janr: The presence of A helps white a lot compared to several normal joseki]
+;W[pc];B[pd];W[qc]
+(;B[ob]LB[rc:A]C[janr: A common move is A (I only give one variation) 
+The game move is rather aggressive, but I can't find a good variation where it actually works.]
+;W[rd];B[re];W[rb];B[sd];W[rc];B[qf];W[nd];B[pg];W[rg];B[of]
+;W[mb]C[E: What a bad result!];B[mc];W[nc];B[nb];W[lb];B[md]
+;W[ne];B[pb];W[qb];B[kb];W[na];B[mf]LB[ff:A][eg:B]C[E: I tried to at least improve the outside influence..
+
+janr: I still like the A-B exchange. wouldn't white have replied B to A to avoid getting fenced in?]
+;W[fr];B[er];W[go]C[janr: atari is the common pattern.
+This move is not sente];B[ff];W[eg];B[fo];W[ip];B[iq];W[io]
+C[janr: it is unclear to me why white wants a heavy group there which is not connected to other stones.]
+;B[ko];W[fn];B[gn]C[E: This attack felt promising, but I feel as though I mishandled it.  I'd love to hear thoughts on the following moves.]
+;W[en];B[gm];W[im]LB[gm:B][gn:A]C[janr: ok, so white indeed has a heavy group.
+It has been cut, even if black passes white needs several moves to connect this useless group.
+There is no urgent need to attack this group.  Black has the right to wait until he knows what direction is best to attack.  Even if in the end white captures AB it is only 4 points.]
+
+(;B[jn]LB[ql:B][km:A]C[janr: even if attacking now, I would avoid to peep, as it makes white stronger.  White not just run with A (if at all attacking now)
+
+For me, I would study the invasion around B.  If a stone at A is definitely needed, then go and play it.  Else, maybe first play one move at B and watch white's reaction.  If in the end A is not needed, then cap at C to help the influence on the top.
+
+The variations are not all fully detailed and realistic but try to give the main idea.]
+;W[hm];B[gl];W[ik];B[ii];W[hk];B[pm]C[E:Trying to build up some strength on the right
+
+janr: I don't think the aim should be to kill the white center group (and hence to"build up strength on the right"), but rather to force white to save his center group and exploit his efforts to destroy the right and make territory in the center.
+
+Moreover, black played now several moves in the center alreay and white is getter stronger.  any indirect attacks by playing elsewhere will have a smaller effect as white has now more options for the center group]
+;W[om];B[qn];W[qo];B[on];W[po];B[pl];W[nm]C[janr: how about attacking (and forcing to live) the right white group now first?  It seems a plan which white can't escape if started by black.]
+
+(;B[nn];W[mn];B[no];W[ok]C[E: Looks like it backfired =\]
+
+;B[ol];W[nl]C[janr: oops, white plays two moves in a row.  Does he resign?]
+;B[kl];W[hi];B[fh];W[ih];B[ji];W[gh];B[fg];W[kk];B[ll];W[mk]
+;B[lk];W[kj];B[lj]C[E: I'm hoping to build up a double attack, but I can't get it to manifest
+
+janr: for a double attack you need two weak groups.  I only see the center group as weak, hence a double attack doesn't seem possible here.]
+;W[ki];B[jh];W[ig];B[gk];W[li];B[mi];W[kg]C[E: Urrrgh];B[mh]
+;W[lg];B[pk];W[pj];B[oj];W[nk];B[tt]C[Result: W+Resign
+
+janr:
+In the beginning,; black got an inferior result in the upper right.  A number of other mistakes appeared but were not exploited by white.
+In the middle game, black tried too hard to attack the white center group, while threatening to attack could make profit at other areas of the board.]
+)
+(;B[ok]C[janr: this move threatens the white group on the right.  Most variations lead to black gaining strength as desired.]
+
+(;W[rl]
+(;B[pj];W[qm];B[kl]
+(;W[kk];B[lk];W[kj];B[lj];W[ki];B[no])
+(;W[no];B[fj]))
+(;B[rm];W[ql];B[qm];W[pk];B[pj];W[qk];B[ol];W[oj];B[nj];W[pi]
+;B[mk];W[lm];B[kl];W[no];B[fj]))
+(;W[no];B[rk];W[qk];B[rl];W[oj];B[nk];W[nj];B[mk];W[ng];B[nf]
+;W[mj];B[pi]
+(;W[lk];B[pj])
+(;W[pj]
+(;B[qi];W[lj];B[rj])
+(;B[lk]
+(;W[qi];B[lj];W[ph];B[fj])
+(;W[lj];B[kk];W[kj];B[jj];W[jk];B[ki];W[kl];B[rn];W[rj];B[sm]
+;W[sk];B[ro];W[rp];B[so]))))))
+(;B[ql]
+(;W[pl];B[qk];W[pk];B[rj];W[qi];B[ri];W[qh];B[rn];W[oj];B[ik]
+;W[km];B[gh])
+(;W[pk];B[pl];W[ol];B[rj];W[ri];B[om];W[pm];B[ok];W[nl];B[rk]
+;W[oj];B[rn];W[ro];B[rm];W[sl];B[kj];W[nk];B[kl];W[hl];B[fl]
+;W[hj];B[fj]))
+(;B[pm];W[qm];B[ql];W[qn];B[pl]
+(;W[oj];B[nl];W[mj];B[ll];W[kj];B[jk];W[jj];B[ik];W[ij];B[hk]
+)
+(;W[rk];B[ml];W[rl];B[ik])
+(;W[ml];B[pj];W[pi];B[oj];W[qk];B[oi];W[rl];B[ik];W[km];B[lj]
+)))
+(;B[rc];W[rb];B[rd];W[ob];B[nc];W[nb];B[mc];W[mb];B[lb];W[sb]
+;B[oe]))
+(;B[eq];W[fp];B[dn];W[iq]LB[jo:A]C[Now I expect that both not-ver-strong groups fight for stability and eye space, e.g. with a move around A.]
+))

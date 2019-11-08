@@ -1,0 +1,193 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]VW[]
+
+PB[DeFrag]
+BR[8k]
+PW[Many Faces of Go v.11]
+KM[5.5]
+DT[2009-04-15]
+RE[W+16.50]
+RU[Japanese]
+
+C[Dear reviewer, thank you very much in advance for your notes about my game.
+
+I'm 8k on KGS. I've noticed that level of my play i very unstable. Sometimes I can beat Many Faces of Go by over 40 points,  once I've even manager to beat MoGo, but sometimes I can't win even after rewinding a lot of moves back and replaying moments, I thought were important.
+
+I belive my problems are rooted in fuseki.
+I read couple of books concerning fuseki (Otake Hideo, Janice Kim) and now every time I play, I'm trying to remember principles of fuseki described in those books, and have a real headache choosing between:
+ - extend or invade
+ - enclose corner from 4-4 point, or prevent double wing formation of the enemy.
+- build moyo or attack corner
+- and so on
+
+Sometimes I make right choices and win, but sometimes...
+
+Here is one of my recent games against Many Faces of Go v11.
+
+I will write comments some of my moves to show my way of thinking.
+
+I hope you can show me my mistakes];B[pd]C[[Ithmatic\] - Hello there, I'll do my best.
+
+By the way, I would avoid playing computers as much as possible, except when you feel like fooling around. They teach a lot of bad habits. Try to play humans as much as possible and review your games after each one :)]
+;W[dc];B[qp];W[dq];B[op]TR[oj][qj]C[[Defrag\] Here I decided to enclose the corner, intending to make moyo on marked points later]
+;W[qj]C[[Defrag\] seems like computer understood what I wanted and broke my plans]
+;B[ql]LB[qg:A][cn:B][qn:C]C[[Defrag\] I tried to get at least small moyo here, simutaneosly attacking the lonely white stone
+
+[Ithmatic\] Hmm i wonder if you are misunderstanding a moyo-based strategy. The idea is not to build a moyo at all costs, but rather to threaten to build large moyos to make profit (sometimes elsewhere) or to build large moyos forcing the enemy to invade into an area that is favorable for you to attack them.
+
+So here, when the computer plays R10, you stubbornly continue making your same moyo, which is now much smaller than you intended. Although the move itself isnt terrible, I wonder if your justification is flawed. Personally I would prefer playing something like A instead for 3 reasons:
+
+1.) To support the top right group (since the bottom right is already quite strong). 
+2.) It pushes the opponent into a stronger group.
+3.) your move still has aji at C that white can take advantage of
+
+I would even consider playing away (e.g. B)];W[co];B[jq]C[[Defrag\] Here I made something like Double Wing Formation, simultaneously preventing  enemy's moyo
+
+[Ithmatic\] This move looks find, since this point is very important for white (because of the D3-C5 shape), and quite important for black as well.]
+;W[gq];B[jo]TR[lp][mp][lq][mq]C[[Defrag\] Here I defended against possible invasion at marked points
+
+[Ithmatic\] Seems OK.];W[ce];B[cj]TR[cg][cm]C[[Defrag\] Here I decided to split enemy groups, intending to extend later to either of the marked points]
+;W[ch];B[cm]C[[Defrag\] ... what I succesfully done];W[oj]
+(;B[ol]LB[qg:A]TR[ql]C[[Defrag\] Here I've extended moyo and prevented marked stone from being capped
+
+[Ithmatic\] This move seems a little passive. Similar to what I said before you seem to be defending the moyo at all costs, and it is getting smaller and smaller (and white retains sente). You should consider being more proactive, like attacking the white group by playing A. Since white didnt take that point, it is now extremely important for you because:
+1.) It helps Q16
+2.) It attacks R10, and you are strong in the area around here.
+3.) You can most likely retain sente, and continue attacking white at your leisure.
+
+You should consider your moyo expendable at any time for solid profit, or else you are just setting yourself up for dissapointment.]
+;W[qf]C[[Ithmatic\] White was able to get both moves.]
+(;B[qe]TR[ph][qh]C[[Defrag\] I decided to play this joseki since invasion at marked points seemed to me unreasonable and dangerous]
+;W[pf];B[nd]TR[lc][nc]C[[Ithmatic\] I would probably prefer O17 to O16 here. Because the black group is alone, and white has the possibility of playing M17 area which threatens to invade underneath O16. O17 helps prevent this a little more.]
+;W[hc];B[kc];W[qh]
+(;B[bi]C[[Defrag\] Here I tried to settle my group in sente]
+;W[bh];B[bn];W[bo];B[jl]LB[go:A]C[[Defrag\] I extended my moyo
+
+[Ithmatic\] Yes, this move is big because it increases the size of your moyo (which is looking more like solid territory at this point). But a bigger move is probably around A because this increases your moyo and also reduces white at the same time. It also helps C7.
+
+Once again you are playing passively and should seek more multi-purpose moves.]
+
+(;W[mc]
+(;B[md]C[[Defrag\] First I wanted to make other move (see variation), but decided to keep stones together
+
+[Ithmatic\] This looks like the right move. You dont want to get seperated from the L17 stone because then white might make a huge moyo on the top left.]
+;W[mq]
+(;B[mo]C[[Defrag\] "Don't touch the weak stones" - the proverb says. So I didn't]
+;W[qc]C[[Ithmatic\] This aji would not be there if you used my variation previously.]
+;B[re]TR[qc][pf][qf]C[[Defrag\] By this move I've prevented connection of marked stones]
+;W[fc]C[[Ithmatic\] Typical computer move, sealing up territory in a small way. G15 or similar would be much bigger. These sort of habits are very bad to pick up from computer players! You have to think proactively all the time, and not be afraid!]
+;B[pc]TR[qc]C[[Defrag\] I didn't want to take risk of loosing corner, and made move to ensure the death of marked stone
+
+[Ithmatic\] If you were scared of this type of move you should not have played that R15 joseki in the first place. Now white gets sente for free.]
+;W[rf]C[[Ithmatic\] Luckily white is kind and gives you sente back :)]
+
+(;B[rd]C[[Defrag\] Another move with same intention
+
+[Ithmatic\] I'm not sure why this is necessary. see variations.]
+;W[no];B[np]C[[Defrag\] Divide and conquer];W[ir];B[jr]C[[Ithmatic\] Black says "Thank you" :)]
+;W[ho]C[[Ithmatic\] Like I said previously H5 area is very big...white got there first.]
+;B[hm]TR[bi][cj][cm][bn]C[[Defrag\] Here, my plan was to connect to marked group]
+
+(;W[dk];B[em];W[dj];B[ck];W[ci];B[bj];W[fk];B[hk]C[[Defrag\] Here I wanted to invade to enemy's sphere of influence
+
+[Ithmatic\] Yes this is very big because it reduces white's moyo and increases yours. Doubly huge!]
+;W[jb];B[kb];W[jd];B[ke]TR[kd]C[[Defrag\] Probably this move was wrong, because of the gap at the marked spot, but later I've managed to fix the situation]
+;W[oe]
+(;B[od]C[[Ithmatic\] Hmm...not sure if this is necessary. You might've missed a good chance to take sente.]
+;W[rk];B[rl];W[sf];B[dl];W[eh];B[ii]C[[Defrag\] Continuing my plan of invading]
+;W[gi];B[mk];W[kd];B[ld];W[le];B[kf]C[[Defrag\] Extending after cut]
+;W[mf];B[lf]TR[kf]C[[Defrag\] I understand that this was an aji-keshi, but my intention was to make a one-point jump from the wall of two marked stones]
+;W[mg];B[lh]C[[Defrag\] ... which I succesfully did.
+
+[Ithmatic\] Why here instead of L12?];W[me];B[kh]C[[Ithmatic\] If you had placed M12 at L12 this move wouldn't be necessary.]
+;W[mi];B[lj];W[pb];B[ob]C[[Defrag\] now goes the series of forced moves]
+;W[js];B[ks];W[is];B[lr];W[sl];B[sm];W[sk];B[rn];W[in];B[jn]
+;W[im];B[il];W[jm];B[km];W[jc];B[mb]TR[kb][kc]C[[Defrag\] I did this move to help the marked two stones, and to reduce potential of enemy stone
+
+[Ithmatic\] yes, without this white can play M18. Hopefully you realized this and didnt play this move just because you were vaguely worried. You should defend only when you have a specific reason to (as you did here). If you get burned, then at least you learn something. This philosophy will help you improve, I believe.]
+;W[if];B[ig];W[hg]
+(;B[ih];W[eo];B[fo]C[[Defrag\] Here I tried to reduce a little bit white's territory]
+;W[fp];B[go];W[hp];B[en]C[[Ithmatic\] A12 is much bigger than this gote reduction.]
+;W[mh];B[qk];W[rj]C[[Defrag\] A forcing move]
+(;B[ok]TR[ja][ah][hh][ao][iq]C[[Ithmatic\] Not sure what this is. There are many moves on the board that are MUCH bigger.]
+;W[iq];B[jp]C[[Defrag\] Well, following moves were mostly defensive, and did not affect overall significantly]
+;W[hn];B[gm];W[an];B[am];W[ao]
+(;B[gn]C[[Ithmatic\] K19 and A12 are HUUUUGE. Both sente! You continue to ignore both.]
+;W[qb];B[sb];W[li];B[ki];W[hh];B[hi]C[White just took H12, one of the big moves, and you gave white sente as well. You could have taken one of the other big moves.]
+;W[jf];B[jg];W[lg];B[kg];W[ka];B[la];W[ja]
+(;B[lb]C[[Ithmatic\] Why?];W[ai];B[aj];W[ah];B[pj];W[pi];B[pk]
+;W[nj];B[nk];W[gj];B[gk];W[fl];B[hj];W[gl];B[hl];W[fm];B[fn]
+;W[dn];B[dm];W[cn];B[bm]C[[Ithmatic\] Seems that throughout the whole endgame you were following white around like a puppy. You need to be more assertive and take sente moves.]
+;W[ne];B[db]C[[Ithmatic\] Far too late for this.];W[pe];B[sd]
+;W[qd];B[rb];W[je];B[ek];W[ej];B[el];W[se];B[pa];W[fj]C[[Ithmatic\] Hmm...white ignored the top left...I think black can live there.]
+
+(;B[gp];W[ep];B[ip];W[mj];B[nn]C[[Ithmatic\] I doubt this is necessary.]
+;W[dd];B[io];W[hq];B[tt];W[tt]TW[aa][ba][ca][da][ea][fa][ga]
+[ha][ia][ab][bb][cb][db][eb][fb][gb][hb][ib][ac][bc][cc][ec]
+[gc][ic][ad][bd][cd][ed][fd][gd][hd][id][ae][be][de][ee][fe]
+[ge][he][ie][af][bf][cf][df][ef][ff][gf][hf][nf][of][ag][bg]
+[cg][dg][eg][fg][gg][ng][og][pg][qg][rg][sg][dh][fh][gh][nh]
+[oh][ph][rh][sh][di][ei][fi][ni][oi][qi][ri][si][sj][do][ap]
+[bp][cp][dp][aq][bq][cq][eq][fq][ar][br][cr][dr][er][fr][gr]
+[hr][as][bs][cs][ds][es][fs][gs][hs]TB[ma][na][oa][qa][ra][sa]
+[nb][pb][qb][lc][mc][nc][oc][qc][rc][sc][qd][jh][ji][ij][jj]
+[kj][ak][bk][ik][jk][kk][lk][al][bl][cl][kl][ll][ml][nl][pl]
+[lm][mm][nm][om][pm][qm][rm][kn][ln][mn][on][pn][qn][sn][ko]
+[lo][no][oo][po][qo][ro][so][kp][lp][mp][pp][rp][sp][kq][lq]
+[mq][nq][oq][pq][qq][rq][sq][kr][mr][nr][or][pr][qr][rr][sr]
+[ls][ms][ns][os][ps][qs][rs][ss]C[I think in general you have two major issues:
+
+1.) You play too passively, letting your opponent gain sente when you could easily tenuki. Several times in the endgame you could have played big sente moves but instead you chose to protect solid groups.
+
+2.) Your strategy is not flexible enough. For example, you decide on building a moyo and you refuse to give it up at all costs. You need to play moves that are the most efficient on the board, not just the ones that adhere to your existing strategy. You should be willing to change your strategy at ANY time if it looks like the best plan on the board. Look how much less moves white played for his top left territory than you did for your bottom right to see the power of flexibility.
+
+
+I would suggest the following:
+
+1.) Study endgame. You can either read up on senseis library, read some books (The book "The Endgame" is really good, though its quite boring), or study stronger players games on KGS. Also, not just during endgame, during your game after EVERY SINGLE MOVE your opponent plays ask yourself "Do I have to respond?" If you believe the answer is no, then play tenuki. If you were wrong, at least you learned something :) If you practice this after every move it will soon become second nature.
+
+2.) Dont get too attached to your strategy. Play moves based on what is important on the board. If you end up in a situationi where you can make a big moyo, then do it, but dont force it regardless of what happens.
+
+Finally, I would like to reiterate that you shouldn't play bots too often. They teach bad habits.
+
+If you have any more questions you can contact me on KGS, my usernames are Ithmatic and Aji
+
+Good luck to you, and I hope that helped!])
+(;B[cc];W[cd];B[bc]C[[Ithmatic\] Tripod group - alive.]))
+(;B[ah];W[lc];B[lb]C[[Ithmatic\] White cannot cut.]))
+(;B[ah];W[ag];B[ai];W[bf];B[ja];W[ia];B[ka];W[hb];B[hh];W[gg]
+;B[gh];W[fh];B[jf];W[ie]C[[Ithmatic\] Very close game now if you took the sente moves.]
+))
+(;B[iq]C[[Defrag\] Had to make that move here];W[hr];B[hq];W[gr]
+;B[gp]TR[im][jm][in][ho][hp]C[[Defrag\] This would give me a chance to kill the marked stones
+
+[Ithmatic\] Yes, and white has to defend the F3 cut as well.]
+))
+(;B[hh]C[[Defrag\] Probably this move woud be better. But at the present moment of play it wouldn't turn the equilibrium to my advantage]
+;W[gh];B[hf]C[[Ithmatic\] The continuation is big.];W[gg];B[ie]
+;W[gf];B[he];W[ge];B[ah];W[ag];B[ai];W[bf];B[ao];W[ap];B[an]
+;W[bq]C[[Ithmatic\] close game now.]))
+(;B[hi];W[od];B[oc];W[nc];B[lc]))
+(;W[in]LB[bl:B][em:A]C[[Ithmatic\] White could have bothered you with one of several troublesome moves.]
+))
+(;B[gg];W[rd];B[qd]
+(;W[se];B[rc])
+(;W[rb];B[sd];W[rc];B[pb])))
+(;B[oq]C[[Ithmatic\] this might be OK as well. Hard for me to say what's best but your move looked pretty good to me.]
+))
+(;B[nc]TR[kc]C[[Defrag\] My first intention was to make this move, but  I thought that this move would wast the marked stone]
+))
+(;W[gh]LB[dc:1][hc:5][ce:2][ch:3][gh:4]C[[Ithmatic\] One thing I find interesting about this position is that white's moyo on the top left uses about 5 stones, while your moyo on the bottom right uses 7 stones. They are roughly the same (admittedly yours is more sollid). I feel you played a lot of moves to make that territory on the bottom right, and it ends up looking over-concentrated. Meanwhile your other two groups look ripe for attack. Once again you seem to have a one-track mind about turning your moyo into territory, which is not what a moyo-based strategy is about (at least not until the middle-to-endgame).]
+))
+(;B[db]LB[cb:B][eb:C][cc:D][ec:A]C[[Ithmatic\] This is a useful probe to know, and experiment with. White has several choices, and black will change his strategy based on white's response. If white plays A, black can live in the corner. I'll show a couple simple variations, the remaining ones involve a lot of cross-cuts, sacrifices, or just playing tenuki so that you can use the aji usefully at a later time.
+
+Anyways, it might be useful to read about probes on senseis library if you are not already familiar with this.]
+
+(;W[ec];B[cc];W[cd];B[bc]C[Tripod group. Unconditionally alive.]
+)
+(;W[cc];B[ec]C[Black might be able to pull something off on the outside.]
+)))
+(;B[qd]C[[Ithmatic\] I would consider playing this move. It threatens white similar to the move you chose, but with less aji afterwards for black.]
+;W[pf]C[If white does the same thing, black looks much stronger in comparison to your variation. The idea here is "dont touch a weak stone". You're just making white stronger and yourself weaker if you do.]
+;B[nd]))
+(;B[qg];W[ol]LB[jc:B][oc:C][og:E][ej:D][pm:A]C[[Ithmatic\] This is not that big of a deal. You can now take one of several big points, or continue attacking white (A or E).]
+))

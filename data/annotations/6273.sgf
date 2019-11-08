@@ -1,0 +1,89 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+PB[fdanaway]
+BR[3k]
+HA[0]
+PW[Flight]
+WR[3k]
+KM[6.5]
+DT[2007-11-09]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[B+10.50]
+TM[1800]
+OT[3x60 byo-yomi]
+RU[Japanese]
+
+C[crux: Hi, I'm Bernd Schmidt, 2 dan at my club.  I'm not strong enough to give you the correct moves, but I hope I can give you some ideas what to think about.
+
+I think one major problem was that you didn't really consider weaknesses in either player's position; I got the feeling you were mainly trying to surround territory.  Another problem is that a couple of moves were unnecessary and achieved nothing other than strengthening Black.  An unnecessary move is a bad move.]
+;B[qd];W[dd]C[fdanaway [3k\]: hi];B[pq]C[Flight [3k\]: hello]
+;W[od];B[mc];W[qc];B[pc];W[pd];B[oc];W[nc];B[nb];W[nd];B[qe]
+C[crux: Interesting.  I hadn't seen this move before.];W[mb]
+;B[ob];W[lc];B[qb]TR[mc]LB[rb:B][rc:A]C[crux: So far, so good.  White could force A for B once, but pretty soon the marked stone is going to become important.  Capturing the stone immediately seems common enought to be called joseki.  The situation is quite unstable, but in this game both players completely ignored it.]
+;W[dp];B[fc]C[should I pincer him? I didn't know what to do, I think i gave him too comfy of a position]
+
+(;W[df];B[db];W[cc];B[ic];W[cj]LB[ej:A][ek:B]C[crux: This gives Black excellent options for ladder breakers around A or B.]
+
+(;B[fq];W[hq];B[hp];W[ip];B[gp];W[jq]LB[dn:A][eq:B]C[crux: You might want to consider whether the other side is more important.  If so, A seems like a better move.  B is also playable.]
+;B[dn];W[en];B[dl];W[em];B[dm];W[eo];B[hn];W[io];B[gn]LB[fn:B]
+[gm:A]C[crux: Should be at A, especially considering the bad-shape peep at B isn't interesting for White.]
+;W[el];B[dk];W[cq]LB[fj:A]C[should I have been more agressive and chase him around?
+
+crux: I rather like this move, as it gives White a solid anchor, while denying both black groups a base.  As an alternative, A is tempting, but I think here the 3-3 point is a strong attacking move.]
+;B[dj];W[di]LB[ci:A]C[crux: I would play at A - White's group pretty much becomes territory, and Black has nothing to exploit.  With the game move, Black easily gets eye shape, and White's attack fizzles.]
+;B[ci];W[ch];B[bi];W[bh];B[bj]LB[ei:A]C[crux: Must obviously play A first.]
+;W[ei];B[bo];W[gi]LB[jm:A][md:B]C[crux: This seems a bit vague.  Also, extending from a strong group?  I'd much rather play A to drive Black towards the white wall, and also to try and settle this white group.  If the intention was to break the ladder, then it's better to capture solidly at B.]
+;B[hk];W[qo];B[mq];W[np];B[nq];W[qq];B[qr];W[pp];B[rq];W[oq]
+;B[qp];W[pr];B[qq];W[nr];B[po];W[op]C[mistake by black
+
+crux: Where do you mean?];B[qn];W[mp];B[qj];W[oj]TR[fq][gn]
+[gp][hk][hn][hp][lc][mb][nc][nd][od][pd]C[Should I have invaded? I was fairly short on territory.
+
+crux: There are already potentially weak groups on the board (marked); it might make sense to try dealing with these first.]
+;B[ph];W[qk];B[rk];W[rj];B[ql];W[pk];B[ri]
+(;W[qi]C[crux: This achieves nothing - you gave better variations yourself.]
+;B[sj];W[pi];B[qh];W[oh];B[jj]C[crux: Cleverly placed so as to not be a ladder breaker?  Odd.]
+
+(;W[fe]LB[cb:A]C[crux: I don't like this move.  A is probably bigger territorially, and likely to be more effective as an attack as well.]
+;B[kn];W[gc];B[gb]
+(;W[hc]C[crux: Playing right into the bad "hane at the head of two" shape.]
+;B[hb];W[fd];B[ec];W[id];B[jd];W[jc];B[ib];W[ie];B[kc];W[kd]
+;B[jb];W[kb];B[jc];W[ih];B[lk];W[pg];B[qg];W[pf];B[je]C[I think I should have sealed him in sooner]
+;W[qf];B[rf];W[il];B[in];W[hl];B[gl];W[ik];B[ij];W[gk];B[hj]
+;W[gm];B[gj];W[fl];B[fj];W[fi]LB[jm:A]C[crux: Is this the biggest move on the board? How about trying to cut Black into pieces, starting with A?]
+;B[kl];W[co];B[bn];W[bp];B[if]C[huge];W[he];B[kp];W[kq];B[lp]
+;W[lq];B[hf];W[gf];B[jg];W[oo];B[ro]
+(;W[jo];B[jn]TR[jo][oo]C[crux: The last two moves don't seem to improve White's position, they just help Black fix weaknesses.  Don't play moves just because they are sente.]
+;W[pe];B[rc];W[lg];B[ld];W[md];B[ke];W[kf];B[jf];W[le];B[lh]
+;W[mg]LB[mh:A]C[crux: Better at A.];B[kg];W[lf];B[gg];W[fg]
+;B[hh];W[gh];B[hg];W[cb];B[mn];W[er];B[fr];W[eq];B[es];W[ds]
+;B[fs];W[cn];B[cm];W[ao];B[bm];W[dr];B[ca];W[mh];B[li];W[ba]
+;B[da];W[dc];B[eb];W[hs];B[ps];W[or];B[gd];W[la];B[hd];W[ge]
+;B[ed];W[ee];B[bb];W[bc];B[aa];W[ai];B[aj];W[ah];B[fk];W[pl]
+;B[pm];W[mi];B[mj];W[ml];B[nj];W[ni];B[nl];W[nm];B[nk];W[mm]
+;B[lm];W[rl];B[qm];W[pj];B[rj];W[gc];B[hc];W[hi];B[ii];W[ko]
+;B[lo];W[os];B[nn];W[om];B[on];W[ol];B[hr];W[ir];B[gr];W[qs]
+;B[rs];W[jk];B[kk];W[jm];B[gl];W[hm];B[im];W[jl];B[km];W[gk]
+;B[an];W[ap];B[mk];W[gl];B[mo];W[kd];B[na];W[ld];B[ja];W[fn]
+;B[fo];W[do];B[ac];W[ad];B[ba];W[ho];B[go];W[ps];B[ab];W[bd]
+;B[ka];W[lb];B[gs];W[is];B[gq];W[iq];B[ll];W[mr];B[rh];W[tt]
+;B[tt])
+(;W[jn]C[crux: At least play here...];B[jm];W[jo];B[im]))
+(;W[fb]C[crux: Should consider this move - in some situations this is a tesuji, and it must be better than the bad-shape move in the game.]
+
+(;B[eb];W[hb];B[fa];W[hc])
+(;B[hc];W[ec];B[gd];W[eb])))
+(;W[gl]C[crux: Maybe it's possible to start attacking like this.]
+;B[hl];W[im];B[hm]))
+(;W[rl];B[sj];W[qm];B[pl]
+(;W[pm]C[crux: There's a trickier move available, see the variation (*) I added.]
+;B[ol]
+(;W[pn];B[rn];W[oo])
+(;W[rn];B[pn];W[on];B[ro];W[oo];B[qo];W[om];B[nl];W[ni]C[This might have been better]
+))
+(;W[pn]C[(*)];B[ro];W[ol])))
+(;B[ej];W[dh];B[md]C[crux: And White can resign.]))
+(;W[ec]C[crux: Maybe like this?];B[fd];W[df];B[ic];W[md])
+(;W[hc];B[cc];W[dc];B[cd];W[de];B[db];W[eb];B[cb];W[ec];B[cf]
+C[crux: Hard to say, but as White I'd feel a little overconcentrated, especially since another move will be necessary to capture the laddered stone.]
+))

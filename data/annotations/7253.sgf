@@ -1,0 +1,229 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+PB[zakuro]
+BR[12k]
+PW[youshe]
+WR[12k]
+KM[6.5]
+DT[2009-04-29]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[B+Resign]
+TM[1500]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+C[Hi,
+
+- Black : Zakuro 12k
+- White : Youshe (me) 12k
+
+I tryed to comment some of my moves with my felling and proposed some variations. Feel free to correct it ;)
+The great questions :
+- what are my mistakes ?
+- Is my intuition good (see my comments) or not realy ?
+
+Thank you
+
+
+-----
+Hello Youshe,
+before I start with the review, I want to give you a short introduction how you should read it: I usually mark weak stones or bad shape with triangles. Strong stones and good shape are marked with squared stones. I try to give you possible variations, but because I'm not a pro there could be other variations as well.
+Sometimes I refer to the white player as 'she' and the black player as 'he'. You can find a summary and general advise at the end of the game.
+If you have further questions you can contact me on KGS or send me an email.
+
+Have fun,
+Felix a.k.a. Djif-Master];B[pd];W[dp];B[pq];W[dd];B[fq]LB[cn:A]
+[dn:C][po:D][ip:B]C[Here, I wasn't sure how to answer. I played A but I think it's not realy good. Perhabs B or a high answer aiming at an invasion around h3 later ?
+What do you think ?
+
+-----
+A to C are possible. I wouldn't say that any of this moves is wrong or bad. Especially the difference between A and C isn't important until you reach dan level.
+B has the advantage, that it prevents the Kobayashi pattern Black is aiming at. As an alternative also D prevents the Kobayashi pattern.]
+
+(;W[cn];B[jp]LB[pm:F][qm:E][pn:D][qn:C][po:B][qo:A]SQ[fq][pq]
+C[Black is playing the so called Kobayashi pattern.
+It is named after Kobayashi Koichi who used it frequently in his games during the 80's.
+As you noticed, it is good to approach the bottom right corner. In general there are 6 possible approach moves. A and B are the most common, but they have the disadvantage of beeing vulnerable to a pincer attack. The Kobayashi pattern is especially "designed" for making profit with a pincer attack. So A and B are NOT recommened! Please have a look in the first two variations to understand why A and B are not good.
+
+White usually play C. Look in the variation for the continuation.]
+
+(;W[qo]LB[pm:B][qm:A]TR[jp][fq]C[Maybe a high move should be better ?
+With the black marked stones, I think the 3-4 stone is too strong for the kind of move I made...
+
+-----
+After low one space approach move, Black will usually pincer with A taking profit at the bottom.
+B is similar, but A is a better because it puts more pressure on the stone.]
+
+(;B[pm];W[oo]C[I should have made a base first, no ?
+But I'm not realy sure of the possible continuations...];B[np]
+;W[nn];B[pj]LB[jc:F][nc:G][qf:H][ci:E][ln:B][lp:C][hq:D][rq:A]
+TR[nn][oo][qo]C[At this point you should think carefully about your next move, because you can probably "feel" that you are in a bad position.
+At first you should analyze the position:
+Your bottom right group is weak, that is also the reason why you played at A.
+But there are other things to consider.
+Black has a big potential territory on the bottom, but there are at least two holes in it: C and D. That makes them also good points to attack.
+Black is also starting to build some potential territory on the right. So you may think about something like H.
+The top and the left side are also good points to play, because both players can make good extensions there (E and F).
+Now, what should we play? You probably considered A a good move, because it makes your weak group strong, because you get a base. That is right, but it is not a forcing move against Black. So it is better to find a forcing move which helps your weak group.
+So my suggestion is to play B in this situation, because you have a good follow up at C. A move at A lacks such a follow up move. But after playing at B, Black is likely to play at C. This surely converts a part of Black's potential territory in solid territory, but your groups is safe, you keep sente and D is left to reduce Black's bottom later.]
+
+(;W[rq]C[You get a base, but this move is not forcing Black.]
+;B[ci]
+(;W[nd]C[In fact, I didn't know what to do after this heigh approch move...
+
+
+-----
+Of course you should think about your move before you place the stone on the board. A low approach would have been better in my opinion.]
+;B[pf]LB[pc:B][kd:A]TR[nd]C[What are the best possibilities after the marked stone ?
+
+-----
+Locally A and B are the best possibilities.]
+(;W[cg];B[cl];W[dr];B[dc]C[What can I answer to this invasion ? I realy don't know what to do from here...
+
+-----
+In such situations you should look at the hole board carefully. Where can you take profit? Where is the most open space left?
+The answer is that you can get most profit on the top, because there is a lot of space to turn into your territory.]
+
+(;W[ec]C[This is a good answer. Let Black take the corner.]
+;B[eb]
+(;W[cc]C[Wrong direction! You want to take the top, not the left side.]
+;B[db];W[ed];B[cb];W[bc];B[gc]
+(;W[jc]C[This was not a realy good move. I should have attacked the lone black group on the left for exemple, don't you think ?
+
+-----
+Attacking the black group on the left is good, but you should do later. Otherwise Black will make an extension on the top and you will be in big trouble.
+Please have a look in the variation, which moves on the top are better in my opinion.]
+;B[lc]C[how to answer this invasion ?
+
+-----
+Your answer is correct in my opinion. I would change the last move a bit, but nothing else.]
+;W[ld];B[kd];W[kc];B[md];W[mc];B[le];W[lb];B[ld]LB[nc:A]C[I prefer a move at A.]
+
+(;W[nb];B[pc];W[jd]LB[ph:B][hq:A]C[This move is far to slow. You need to play A, B or attack the Black group on the left.
+Black's potential territory is twice as big as yours. So you need to do something big.]
+;B[er]
+(;W[cq]C[Is this the correct move?
+
+-----
+Correct, your explanation is right. 
+
+But I wonder why you care so much about gote and sente in this endgame related situation.
+To keep sente is important in every situation and most important in the opening and early middle game!
+Try to find sequences which end in sente for you.];B[fo]LB[hq:A]
+C[Black used your slow move on the top to make the bottom more solid. An invasion at A should is impossible. (You try so later and die.)]
+;W[qr];B[pr];W[ne];B[je]
+(;W[mf]LB[ie:A]C[I think I sould have blocked on the other side at A for exemple to expect something like on the variation ?
+
+-----
+I think this makes no difference. Black can avoid the capture.]
+;B[ie];W[hd];B[hb];W[hc]SQ[jc][hd][jd]C[How should I have answered ? What is the shape move in this situation ?
+
+-----
+This looks good to me. The bamboo is a solid connection.];B[ib]
+;W[gd];B[fc]LB[fd:A][kg:B]TR[lc][kd][ld][md][ie][je][le]C[Your next move is again very slow.  You should remember at this stage of the game, that you are far behind! You've to try to kill the black stones and play at B.]
+;W[fd];B[kg];W[mh];B[qn];W[po];B[ro]
+(;W[qp]
+(;B[mn]
+(;W[qh]LB[rf:B][oh:A]TR[pc][pd][pf]C[Maybe, it was not realy nice to invade here, I should have made something of my group at the bottom right but (see variation)...
+
+About this invasion, what are the correct following ?
+
+
+-----
+Simply connect at A. After that you can attack the corner with B.]
+;B[qj];W[qf]LB[oh:A]C[This contact move makes Black stronger. You help Black to secure the corner. A simple connection at A would be better.]
+;B[qe];W[pg];B[rf];W[of]C[You cannot allow Black to take your stone. First your move is gote and second Black's group is alive after the capture.]
+;B[qg];W[ph]C[I tryed to cut but the both groups are alive but it erased about 10 points]
+;B[gf]
+(;W[ef];B[ei]C[but in fact, it's nearly the same moyo here...
+
+-----
+It's too late to catch up at this point.];W[hq]C[Is this abusive or a good idea ?
+
+Abusive. The invasion is too late.];B[jq];W[ho];B[jn];W[gn]
+;B[en];W[gl];B[el];W[dm];B[em];W[dl];B[dk];W[ek]LB[co:A]C[I wanted to cut but I didn't see the week point at A...]
+;B[ck];W[fk];B[co];W[do];B[dn]
+(;W[cm];B[bn];W[bo];B[bm];W[cp];B[cn];W[eo];B[fn]
+(;W[fp]C[maybe, this is bad because it can't cut the black groups and I get a bad shape after black answer...]
+;B[gp];W[ep];B[gq];W[go];B[hp];W[eq];B[fr];W[io];B[jo];W[ip]
+;B[iq];W[fi];B[fh];W[eh];B[fj];W[gi];B[ej];W[gj];B[gh];W[hh]
+;B[hi];W[hj];B[ii];W[ff];B[hg];W[ij];B[ih];W[jj];B[li];W[ki]
+;B[lh];W[jh];B[jg];W[lj];B[mj];W[lk];B[mi];W[nh];B[mm];W[nm]
+;B[nl];W[ps];B[os];W[qs];B[or];W[pn];B[rn];W[om];B[ol];W[no]
+;B[mo];W[rp];B[ql];W[lf];B[kf];W[kh];B[lg];W[mk];B[nk];W[lm]
+;B[hm]C[Is there a way, from here to make my group live ?
+
+-----
+It's to late. You can make life (go to move 174), but you are still behind with about 50 points.]
+;W[hl];B[gm];W[im];B[in];W[fl];B[jm];W[il];B[jl]C[I resigned here after the death of my group.
+
+(Djif-Master: The group can live. See continuation.)
+
+Thank you for the review
+
+-----
+Summary:
+
+I think your loss began with the Kobayashi Fuseki you weren't used to. After the bad start it was difficult for you to find the right moves. Especially because you made a lot of gote moves during the midgame, it was easy for your opponent to keep the lead.
+It also seemed to me, that you were not really aware of how good or bad your position was. Because if you are behind you need to play a little more aggressive. Sometimes it helps to count territory during the game.
+To understand how the Kobayashi Fuseki works, you should try it yourself next time you play with Black.
+I hope i could answer your question. If there are questions left, feel free to contact me via KGS or email. I would also appreciate your feedback to this review. Thanks!
+
+Felix a.k.a. Djif-Master (djifmaster on KGS)];W[jk]C[White can live...]
+;B[hk];W[ji];B[kk];W[kl])
+(;W[eq];B[fr];W[hr]C[would be better maybe :) but this group would be very thin]
+))
+(;W[bn]C[better maybe];B[cm];W[nl]))
+(;W[rh]C[I could have finalized my cut but...];B[fh]C[maybe this moyo was too big to tolerate]
+))
+(;W[nl];B[ll];W[nj];B[lj]C[maps a very large moyo for black and it would be so hard to invade it...
+
+-----
+True, but Black allready had a big moyo even without this sequence.]
+))
+(;B[qq];W[rp];B[rn];W[rr]))
+(;W[rp]LB[rn:B][qp:A]C[I should have answered here making A and B miai but ...]
+;B[rn];W[qp]C[looks like bad shape for white...
+
+-----
+The variation in the game can produce the same result. So I think there is no big difference.]
+;B[qq];W[rr]))
+(;W[ie]
+(;B[if]LB[jf:A]C[This move looks like an overplay. Black would probably play at A instead.]
+;W[jf];B[ke];W[jg];B[id];W[he];B[hd];W[lg])
+(;B[jf])))
+(;W[dq]LB[cq:E][cr:D][cs:B][ds:A][es:C]C[Or this one is better ? I think I remember something about the yose, if black next A, B, C, I must protect with D but with a stone at E, I don't have to, so It would be gote for black]
+))
+(;W[nc]))
+(;W[pc];B[qc];W[oc];B[qb];W[kc]))
+(;W[db];B[fc];W[ed];B[gb];W[cc];B[ic]C[Black can insist on taking the top, but in this variation White has a much bigger corner.]
+))
+(;W[cc]C[You are forcing Black to take the top, that is not good!]
+;B[ec];W[cb];B[hc]))
+(;W[pc];B[qc];W[oc];B[qb];W[jc])
+(;W[kd]))
+(;W[nc];B[pf];W[jc]C[This is better than the high approach, but you should play a two space jump, not three.]
+;B[lc]C[Black could start a splitting attack.]))
+(;W[ln]C[White should force Black to defend the bottom...];B[lp]
+LB[hq:A]C[...and reduce the bottom later with A.]))
+(;B[qm]LB[oo:B][qq:A]C[White can jump or make a base.]
+(;W[oo];B[np];W[pl];B[ql];W[pk];B[qk];W[pj];B[qi];W[oh]C[Black takes profit on the bottom and the right side.]
+)
+(;W[qq];B[qr];W[pp];B[oq];W[rq];B[mp]SQ[qm]C[Black takes huge profit on the bottom, White is not yet alive and developement on the right side is limited because of the marked stone.]
+)))
+(;W[po]LB[pl:A][pm:B]C[After the one space high approach Black usually pincers with A. B is possible, but worse than A.]
+
+(;B[pm];W[np];B[nq];W[mp])
+(;B[pl];W[no];B[nq]C[Black takes profit on the bottom. White is not alive yet. White's developement on the right is limited.]
+))
+(;W[qn];B[qp];W[qk];B[qi];W[on];B[pm];W[pn];B[np];W[ok]LB[lp:A]
+[hq:B]TR[pm]C[This is the sequence that leads to the so called Kobayashi Fuseki.
+
+The marked Black stone is played to leave some aji for later.
+White has a strong group, because of that it is better than the other variations.
+A and B are left to reduce Black's bottom later.]))
+(;W[ip];B[cq];W[dq];B[cp];W[do];B[dr];W[er];B[cr];W[eq];B[cn]
+;W[po]LB[fp:B][mp:A]C[Possible continuation, allthough i would prefer A as an approach move to enlarge White's bottom area.
+There is also a weakness left around B.])
+(;W[dn];B[jp];W[hq]C[H3 is the right spot to invade, allthough I suggest to leave it for later.]
+))

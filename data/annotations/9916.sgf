@@ -1,0 +1,185 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.16]
+
+GN[parafuso-erge-1028509-20151226]
+EV[(Dragon Ladder) Tournament #3: DGS Ladder (19x19)]
+RO[Round 1 of 1]
+PB[Erge (erge)]
+BR[2k]
+PW[parafuso (parafuso)]
+WR[4k]
+KM[6]
+DT[2015-10-13,2015-12-26]
+PC[Dragon Go Server: http://www.dragongoserver.net/]
+RE[B+Resign]
+RU[Japanese]
+SO[http://www.dragongoserver.net/game.php?gid=1028509]
+GC[Game ID: 1028509
+Game Type: GO (1:1)
+(Dragon Ladder) Tournament #3: DGS Ladder (19x19); with 734 participants
+Rated: Y
+
+White Start Rating: 4k (-18%) - ELO 1681
+Black Start Rating: 2k (-18%) - ELO 1882
+White End Rating: 4k (+4%) - ELO 1703
+Black End Rating: 2k (+37%) - ELO 1937]
+
+C[Hello dear reviewer,
+
+Im a 4k playing W against a 2k.
+
+I think I made a lot of reading mistakes in the game, which led ultimatively to the loss. However, I think my basic strategic decisions (and evaluation of Bs strategic mistakes) were right. It would be great if you could comment on whether my choices and assumptions are correct and highlight where I could play better moves.
+
+Many thanks for reviewing!
+
+para.
+
+Dear Para,
+
+I wrote some comments to the best of my knowledge, I hope you find something in them. I am very uneasy with "correct strategy that fails due to mere tactical mistakes", it happens, but usually it is an excuse. Especially in a turn-based game. Proper reading, judgement of life and death and thus urgency of play are a crucial part of making the correct choices strategically.
+
+Best, tapir.];B[pd];W[dd];B[qp];W[dp];B[oq];W[qj];B[fc];W[cf]
+;B[db];W[cc];B[ic]
+(;W[qf];B[nd];W[rd];B[qc]
+(;W[qm];B[qh]C[Hm, overplay?
+
+tapir: Why? Because you wanted that area for yourself? I still believe lower left as the emptiest area is more important by now.]
+
+(;W[ph]C[better at Q13? ref variation];B[pg];W[qg];B[pi]
+(;W[oh]C[better at S12 and simply connect? ref variation
+
+tapir: This looks dubious to me.];B[qi];W[rj];B[oi];W[nh];B[of]
+LB[pf:A]C[tapir: I don't like it. I would play A locally.];W[rc]
+;B[rb];W[sb];B[qb];W[rh]TR[nh][oh][ph]C[connected on the bottom afterall... but now W got the marked heavy group...]
+;B[ni];W[mh];B[mi];W[lh];B[ri];W[si]
+(;B[fq]LB[lf:A]C[Shouldnt B rather continue to chase the heavy group and profit from it? wouldn't B at A be better?]
+;W[dn]
+(;B[jp]
+(;W[le];B[lc]C[tapir: I think Black is delighted. You just turned the upper side into Black territory.]
+;W[md];B[mc];W[ne]
+(;B[cl]LB[oe:A]C[C8 is indeed important. However, the heavy group is save with A...shouldnt B play at A to keep the chase?
+
+tapir: Yes. A looks correct.];W[oe];B[bn]C[tapir: You spend many moves defending a corner that is open from two sides next.]
+;W[co];B[ci]LB[cq:A]TR[dn][co][dp]C[Shouldnt B rather take the corner with A and make the marked stones float?]
+;W[dr]LB[co:1][dr:2]C[tapir: Two more moves played in the corner, but the corner is still half open. (And in the end it dies.)]
+
+(;B[oc]C[Could not understand this move. this move looks almost like tenuki to me. What is the reasoning? did I miss something?
+
+tapir: Agree. Looks a bit like "I have about won, let us play this safe."]
+;W[hq]LB[oc:G][ci:E][li:C][co:D][hq:B][lq:A][dr:F]TR[qh][mi]
+[ni][oi][pi][qi][ri]C[Looking at the current situation, it looks quite grim for W. W has no significant territory nor influence, and is behind big time. The idea which struck me was to somehow attack the triangle group, which is still heavy and eyeless. However, W has no stones on the bottom and there is currently no possibility to attack them, yet. Apart from A and B, I couldn't detect any significant weaknesses in Bs structures. I decided to go for B, but was ready to shift the attack to A if it should go badly. Is my analysis correct? anything to add?
+
+tapir: A move at C looks like it would have made a lot of difference to strength situation. Exchanging D for E helped Black settle on the left as well. Saving grace is that Black played at G.]
+;B[fo];W[ho];B[fm]
+(;W[em]C[?
+
+tapir: This move seems to be a main culprit for the following results.]
+;B[en];W[dm];B[jn]
+(;W[hm];B[fk];W[dk];B[ck];W[fr];B[dj];W[ek];B[fj];W[ej];B[ei]
+;W[fi];B[hk];W[gl];B[fl];W[gk];B[gj];W[hj];B[gi];W[fh];B[ik]
+;W[ii]C[I was very content whith the result! B has now two weak, eyeless groups. and the initial invasion stone is connected to a, almost, living corner.
+
+tapir: I don't like it. Where is the second eyeless Black group? There would have been calmer ways to keep Black separated without producing 2 weak cutting groups yourself. Since you will have to defend the cutting stones, Black is stronger than it looks or could be with different play.]
+;B[gm];W[hl];B[hn];W[in];B[gn];W[im];B[io];W[ip]TR[qh][gi][mi]
+[ni][oi][pi][qi][ri][fj][gj][fk][fl][fm][gm][en][gn][hn][fo]
+[fq]C[Although the triangle group is cut. I think this is favourable for W. W managed to get stones in the center and the marked B groups are attackable.]
+;B[jo];W[jl]
+(;B[gr];W[gq];B[er];W[eq];B[fs];W[fp];B[gp]
+(;W[ep];B[iq]
+(;W[hr]LB[hp:A]C[Mistake. B is now connected. W must play at A.]
+;B[hp]C[B is connected. Horrible result for W.];W[fr];B[rg]
+;W[sh];B[fq];W[ir];B[jr];W[fr];B[rf];W[qe]C[tapir: White gained in this area by the threats Black played.]
+;B[fq];W[jk]
+(;B[is]C[tapir: ? This does not even resolve the ko, big mistake.]
+;W[fr];B[pe];W[pf];B[fq]
+(;W[ml]C[tapir: Finally. Good.];B[ol];W[fr]
+(;B[re];W[qd];B[fq]
+(;W[nm]LB[nn:A]C[Trying to contain B...maybe better at A?];B[pm]
+;W[pn];B[ql]
+(;W[om]LB[qn:A]C[Mistake? Containment doesnt seem to work...better at A? ref variation]
+;B[pj];W[rl];B[qk];W[rk]C[This obviously doesnt work...
+
+tapir: ... yet you played it in a turn based game (DGS is turn based, right?). It does not work as intended, but capture of three stones here makes only a half-eye.]
+
+(;B[sj];W[sk];B[sg]
+(;W[pl];B[sj]
+(;W[mq]C[Getting desperate now...
+
+tapir: Better try killing Black above now.];B[pk];W[rn];B[hs]
+
+(;W[nk]C[Still trying to kill...];B[se]TR[rc][qd][rd][qe][pf]
+[qf][qg]C[...but nothing to kill due to the limited liberties of W...]
+;W[qq]C[...This again is desperation...];B[pq];W[rq];B[rp];W[sp]
+;B[so];W[ro];B[sq];W[sr];B[qr];W[sp];B[bp];W[cq];B[sq];W[og]
+;B[si];W[sp];B[br];W[bq];B[sq];W[hb]TR[ej][dk][ek][dm][em][dn]
+[co][dp][ep][fp][bq][cq][eq][dr]C[At this point I didnt realise that the W group still needs a move to live... started a last invasion
+
+tapir: You were desperate too early, it did not help. Last comment.]
+;B[rr]TR[hb]C[Was this a mistake from B? Isnt the marked stone a treath?]
+;W[hc];B[ib];W[he];B[eh];W[ff]C[It looks at least like Ws invasion was a success....]
+;B[bo]C[However, B capitalises on Ws omitted move and kills the W group...game is over. this is the last comment.]
+;W[cp];B[aq];W[eo];B[cr];W[tt]C[Result: B+Resign])
+(;W[se]C[tapir: better start, see earlier fighting from B137.]
+;B[nk];W[si];B[mk];W[ll];B[lj];W[nj];B[oj];W[nl]))
+(;W[se]))
+(;W[pk]C[tapir: This looks better, capture a litte more while and protecting S7.]
+;B[sj];W[se];B[ok];W[pl]LB[rh:B][oj:A]C[tapir: I only see two half-eyes at A and B.]
+;B[nk];W[si];B[mk];W[ll];B[lj];W[nj]))
+(;B[pl];W[rm];B[mk]C[tapir: Can't see Black living here.]))
+(;W[qn];B[on];W[om];B[pl]
+(;W[oo];B[nn];W[pp];B[pq];W[rl]C[Does this work?
+
+tapir: Looks like. A lot of assumptions with P5 etc.])
+(;W[rl]))
+(;W[rn]))
+(;W[om]C[tapir: This would be the first move I would consider.]
+;B[nm];W[nl];B[pm];W[pl];B[on];W[ok]))
+(;B[on]C[tapir: The ko is big, but the right side is probably bigger.]
+;W[gs]))
+(;W[nl]C[tapir: Even better?]))
+(;B[fr]))
+(;W[hp];B[hr];W[fr]C[Big Ko, but this way B is still separated.
+
+tapir: Good luck on winning this ko, when you have to answer every move Black does around G11 end of his group. Even if you win the ko, Black is still far from being captured and will gain something for losing the ko.]
+))
+(;W[fr]C[Although a Ko, this would have ensured the disconnection of the two B groups.]
+))
+(;B[gp];W[hp];B[gr]C[tapir: What now for White? In my opinion White will have to accept a compromise here.]
+))
+(;W[fl];B[gm];W[fr]C[tapir: Looks playable.]))
+(;W[dl];B[dk];W[el]C[tapir: Simple and easy move. I would rather lean on the left side group. Black groups stay separated without adding any new groups for White to handle.]
+))
+(;B[aa]
+(;W[nc];B[nb];W[od];B[ob])
+(;W[oc];B[nc];W[od];B[ob])))
+(;B[oe];W[li]C[tapir: This turn would still look good to me, but if White comes back to M11, it is very apparent how little M15 etc. have achieved. See comparison diagram.]
+;AE[lc][mc][md][le][ne][oe]C[tapir: Comparison diagram without M15 exchanges. Much better for White than the previous diagram.]
+))
+(;W[li]LB[hd:A][ld:B][np:D][hq:C]C[tapir: This would be my move. So many things to aim for later, it helps in all directions.]
+))
+(;B[li];W[kh];B[jj];W[ih];B[ip]C[tapir: I like J4 more than K4, especially with sth. like this in the center, White can invade, but has no convenient place to run to. Alternatively, try to run a bit further to H10 first.]
+))
+(;B[lf];W[li]C[tapir: I would not be unhappy as White. Forced to play a good move. Neither you, nor your opponent seem to have considered M11 at any point. I will elaborate this later.]
+)
+(;B[li];W[kh];B[jj]LB[ih:B][fq:A]C[tapir: I would probably play like that as Black, one more push so you can capture a cutting stone in a net and then jump ahead. The influence Black builds looks more useful than the White one.]
+
+(;W[ih]
+(;B[fq])
+(;B[hj]))
+(;W[fq];B[ih])))
+(;W[rh]
+(;B[qi];W[ri]C[tapir: Wishful reading. Black will capture Q12.]
+)
+(;B[oh]LB[ri:A]C[tapir: This threatens a huge ko or cut at A, so White will have to answer (now or a little later).]
+))
+(;W[qi];B[oh];W[rh]C[tapir: A connection, but good for Black.]
+))
+(;W[pg];B[ph];W[oh];B[pj]
+(;W[pk];B[oj]C[better than the actual game?
+
+tapir: Likely yes.])
+(;W[pi]C[tapir: What now?];B[qi];W[oi];B[rj];W[qk]C[tapir: Black trying to live along these lines would be extraordinarily good for White.]
+)))
+(;W[ph]SQ[ql]C[tapir: With an additional Black stone at the square, this would be a good way to play. Just for reference.]
+))
+(;W[gq]LB[qf:D][qg:C][qm:E][fq:A][jq:B]C[tapir: I would consider something like the circled stone or A or B. You already established yourself on the right side and can treat C/D or E as miai, leaving Black the choice from which side to approach.]
+))

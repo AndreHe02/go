@@ -1,0 +1,155 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+PB[hobopan]
+BR[7k]
+PW[bimsbrom]
+WR[7k]
+KM[6.5]
+DT[2006-12-15]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[B+10.50]
+TM[600]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+C[hobopan [7k\]: hallo
+bimsbrom [7k\]: hi
+
+JS: My name is Jürgen Suntinger and I come from Austria. I have just recently reached Shodan and hope to give you new insights in this beatiful game.]
+;B[dp]C[bimsbrom [7k\]: viel spaß];W[pd]C[hobopan [7k\]: dir auch]
+;B[cd];W[pq];B[nq]C[JS: Here Black is attacking from the wrong direction because it doesn't prevent White from playing an ideal extension from his komoku.]
+;W[po]C[JS: Good, this move puts the most pressure on this unnatural approach move by Black.]
+;B[no]
+(;W[fq]C[JS: Because we know that Black has a good answer on this move, ther must be another plan. Look at the variation for my thoughts.]
+
+(;B[eq]C[i would consider this move a mistake.
+
+JS: Yes, this is actually not a good move by White. It just strengthens White what you have already mentioned later on.]
+;W[fp];B[cn];W[jq]C[now the black stones on the right are hurt.
+
+JS: Yes, White has the advantage now.];B[lq]
+(;W[ko]C[JS: Here begins some not so easy thinking, but I try to explain. Generally it is not very easy to build a big territory in the center and here the White group at the bottom has not really good prospects to have really much territory. But the right Area of the board is still open. So why should you force your opponent to run into this open area? Wouldn't it be better, when you force your opponent to run into a place on the board where you have already not so good prospect in making a moyo? Look at the variation.]
+;B[nm];W[pm];B[qk];W[ol]LB[ql:C][pm:A][qm:B]TR[nm][no][lq][nq]
+C[this was a tough decision. i decided to go for the attack rather then making safe territory.
+
+JS: This move can be seen as a splitting attack. A splitting attack is then usefull, when both groups which are splitted apart are both weak, so that if one helps the one group the other should be in some kind of trouble. Here, I don't think that the marked Black stones are really in trouble now, so Black can simply keeping on destroying what should have been your territory.
+
+This all happened because the stone at 'a' is played on the fourth line, which maybe is not so good here. It should have been played on the third line at 'b' or 'c' to make it not so easy for Black to invade the right side.]
+;B[rm]
+(;W[rp]LB[ro:A]C[seems to be urgent, but i think now it is not.
+
+JS: Not blocking here would be counterproductive. I think it is better to block at 'a' not just because it keeps more territory, but also puts more pressure on Black.]
+;B[qg]
+(;W[qi]C[i did this move intuetively, without any reading at all. it failed.
+
+JS: See variation.];B[pi];W[qf];B[qh];W[ec];B[df];W[gd];B[ci]
+;W[cc];B[dd];W[dc];B[nc];W[lc];B[pb]
+(;W[qc]C[JS: I think you will not do very much points in the upper right corner, and Black can easily escape. Therefore it would be better for White to give the corner to Black while sealing him in, see variation.]
+;B[ne];W[of]C[i think white is very good here. black has 2 potentially weak groups and white has none.]
+;B[mb];W[qb];B[rf];W[qe];B[dl];W[lb];B[oe];W[oh];B[ph];W[ob]
+;B[oc];W[pc];B[pf];W[pe];B[og];W[nf];B[ng];W[mf];B[ni];W[oj]
+;B[oi]
+(;W[re]LB[kf:A]C[this was a mistake.
+
+JS: Yes, there is nothing more valuble on the board than capturing thos stones. I would prever the move at 'a' because it has the least defects in its shape.]
+;B[me];W[lf];B[le];W[ke];B[kf];W[kg];B[jf]
+(;W[lh];B[kd];W[mk];B[mh];W[ld];B[jd];W[li];B[lg];W[pg];B[hc]
+;W[mg];B[pf];W[lg];B[gc];W[fc];B[hd];W[nb];B[mc];W[ma];B[na]
+;W[oa];B[fd]LB[md:A]TR[mb][mc][nc][oc]C[JS: Note that you can capture the marked Black stones by simply playing at a due to their shortage of liberties.]
+
+(;W[ed];B[ge];W[ee];B[de];W[bd];B[be];W[rl]C[JS: This move is simply strengthening your opponent.]
+;B[ql];W[rj];B[qj];W[rk];B[qm];W[rh]C[this was a bad sequence by white. black is strenghened and white is dead.]
+;B[rg];W[pj];B[ri];W[kr];B[lr]
+(;W[or]C[JS: Here you are trying to steal the base of the oponent, while you still have weak groups which your opponent can use to make a base. Look at the variation to attacking in a better way.]
+;B[lo];W[ln];B[mn];W[mp];B[lp];W[mr];B[nr];W[mq];B[ms];W[lm]
+;B[oq];W[pr];B[pp];W[op];B[nl];W[nk]
+(;B[pn];W[on];B[oo]
+(;W[qp];B[om]
+(;W[pl];B[qn];W[fm];B[fk]
+(;W[hl];B[np];W[rr];B[kq];W[jp];B[jr];W[ir];B[ks];W[er];B[dr]
+;W[ep];B[dq];W[hj];B[fh];W[ih];B[hg];W[jg];B[ig];W[gj];B[fj]
+;W[el];B[ek];W[dm];B[cm];W[dn];B[fl];W[em];B[do];W[eo];B[dk]
+;W[gl];B[gm];W[gn];B[kn];W[jn];B[hr];W[is];B[hh];W[gi];B[fi]
+
+(;W[gh];B[gg];W[ii];B[km];W[kl];B[ll];W[jm];B[ml];W[lk];B[jb]
+;W[gb];B[hb];W[ga];B[ef];W[fe];B[ff];W[bc];B[ha];W[fb];B[kb]
+;W[fr];B[pp];W[qo];B[so];W[sp];B[nj];W[ok];B[ro];W[ae];B[bf]
+;W[af];B[ag];W[ad];B[bg];W[ds];B[cs];W[es];B[br];W[sf];B[sh]
+;W[pg];B[nh]LB[md:A]C[JS: Capturing at 'a' is still possible, which would win the game easily.]
+;W[pf];B[sg];W[se];B[kc];W[ka]C[stupid. losing the game.];B[ja]
+;W[la];B[md];W[pa];B[na];W[ma];B[la];W[os];B[js];W[iq];B[gk]
+;W[hk];B[lj];W[mj];B[kj];W[mi];B[od];W[op];B[fn];W[hm];B[pp]
+;W[lb];B[lc];W[op];B[en];W[fo];B[nn];W[pp];B[hi];W[na];B[ns]
+;W[gd];B[tt];W[fd];B[tt];W[tt]TW[aa][ba][ca][da][ea][fa][qa]
+[ra][sa][ab][bb][cb][db][eb][pb][rb][sb][ac][rc][sc][qd][rd]
+[sd][jh][kh][ji][ki][ij][jj][kj][lj][ik][jk][kk][il][jl][gm]
+[im][km][en][fn][hn][in][kn][go][ho][io][jo][gp][hp][ip][gq]
+[hq][qq][rq][sq][gr][hr][qr][sr][fs][gs][hs][ps][qs][rs][ss]
+TB[ia][ka][ib][lb][ic][jc][id][ld][nd][ce][he][ie][je][ke][cf]
+[gf][hf][if][cg][dg][eg][fg][ah][bh][ch][dh][eh][oh][rh][ai]
+[bi][di][ei][qi][si][aj][bj][cj][dj][ej][rj][sj][ak][bk][ck]
+[rk][sk][al][bl][cl][rl][sl][am][bm][sm][an][bn][on][rn][sn]
+[ao][bo][co][mo][ap][bp][cp][mp][aq][bq][cq][mq][ar][cr][kr]
+[mr][as][bs][ls]C[black wins by 10,5 points.
+
+JS: Finally I advise you to always look at the areas of the board which have a lot of potential and how to use them. Do not try to use your strong groups to make territory but to attack your opponent by squeezing him through your groups, not allowing them to have a base.
+
+My second advise is when attacking, you should by no means make your opponent stronger by attaching. Try to attack from the distance by simply strengthening your stones by playing the vital points of you and your opponent.]
+V[10.5])
+(;W[ib];B[jb];W[kb];B[jc]
+(;W[hb];B[gb];W[ja];B[ia];W[ha];B[ga];W[ka];B[ic];W[ia];B[da]
+;W[bb];B[db];W[ac];B[ba];W[eb];B[ea];W[ca];B[cb];W[aa]C[ko for life.]
+)
+(;W[gb];B[hb];W[fb];B[ic];W[bc];B[ii];W[jh];B[hi];W[jj];B[ji]
+;W[ki];B[ij];W[ik];B[gk];W[hk]
+(;B[hm])
+(;B[gh];W[fr];B[jk];W[kj];B[hm];W[il];B[jl];W[im];B[hn];W[ho]
+;B[in];W[io]))))
+(;W[np]C[JS: This move is some kind of very big double Sente, so you shoul go for it.]
+))
+(;W[qn];B[pl];W[ok];B[pn]C[white should be able to gain something from this fight.]
+;W[cq];B[cp];W[pm];B[bc];W[bb];B[pn];W[bp];B[bo];W[pm];B[cb]
+))
+(;W[qn];B[qp];W[qq];B[np];W[qo];B[op];W[rn];B[om];W[pl]C[black is dead]
+))
+(;B[on]C[JS: With this move Black can live or link up to his friendly stones.]
+))
+(;W[lo]C[JS: This move attacks at the vital point of Black while also eliminating the White weaknesses. After this, I cannot see how White should survive.]
+;B[mp];W[op];B[or];W[mr];B[pr];W[qr];B[ms];W[ps]))
+(;W[md];B[je];W[nd]))
+(;W[kd];B[lg];W[pg]
+(;B[oa];W[pf];B[nb];W[ma]C[black is still dead])
+(;B[ro];W[mg];B[pf];W[mh];B[qp];W[qq]
+(;B[pp];W[qo];B[op];W[rn];B[qn];W[so];B[pn];W[qm];B[on];W[rl]
+;B[ql]
+(;W[sm])
+(;W[rk];B[rj];W[nk]C[im sure this line isnt correct, but black seems to have huge problems here.]
+))
+(;B[rq];W[rr];B[sp];W[pp];B[nk];W[or]
+(;B[ok])
+(;B[nr];W[sr];B[ok];W[nl]
+(;B[rs];W[qs];B[pr];W[ps];B[oq];W[os])
+(;B[ml];W[om];B[mm];W[lj];B[mi];W[li];B[jg];W[kh];B[kl]))))))
+(;W[je]C[seems to fix whites territory on the top while keeping the black stone dead.]
+))
+(;W[oc];B[ob];W[nd];B[md];W[mc];B[nb];W[ne];B[qc];W[le]C[JS: Now White got a strong position while Black lifes in a small corner. This also works good with the White stones on the upper left side.]
+))
+(;W[qe]LB[qi:A]C[JS: This move makes the invasion at 'a' interesting and also secures a big amount of corner profit. Black has to answer, and so White gets sente for approaching the upper left corner.]
+;B[pi];W[ed]))
+(;W[qh];B[ro];W[rq];B[qp];W[pp];B[qq];W[qr];B[rp];W[rr];B[ri]
+LB[or:A]C[now the white stones in the corner are not settled yet, but so are the black stones and white can easily run here, i think.
+
+JS: I think this is not so good for White because the lower right corner got reduced too much and when Black plays his kikashi at 'a' which he can do quite early in this seqence, then he should not have any problems to live or escape.]
+;W[or];B[nr];W[ec]C[this seems to be good for white.]))
+(;W[om]LB[qj:B][hq:A]C[JS: This is a good move having the open areas of the board in mind. The area around 'a' is already played out, while there will be happening something in the future in the area around 'b'. So it is very good to have a sphere of influence around the places where something is going to happen, while forcing your oppenent to escape towards the areas which are already played out.
+
+This is the same concept as with the proverb: "Don't use your thickness to make territory". You should use your already strong groups to control the flow of the game.]
+))
+(;B[hq]C[seems to be very good here.
+
+JS: Yes, the Black pincer stone is now in a very good position for attackin and defending. It attacks the single White stone and also serves as a good extension from the two Black stones on the right. So it has dual purpose.]
+))
+(;W[jp]LB[fq:A]TR[no][nq]C[JS: I would play here because it makes it harder for the marked Black stones to make a base. Secondly it prepares for the White approach move at 'a' after which a Black pincer is not very likely to be good.
+
+The important thing is that if this stone is attacked immediately from the left side, it only gets strengthend and this has immediate effects on the strength of the two marked Black stones on the right side.]
+))

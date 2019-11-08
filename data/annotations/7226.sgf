@@ -1,0 +1,146 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[utf-8]AP[SGFC:1.15]
+
+PB[moria31]
+BR[6k]
+PW[muraki]
+WR[6k]
+KM[6.5]
+DT[2009-04-03]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[W+5.50]
+TM[900]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+C[Hi, I'm black.
+
+z -- hello moria31, I am Bill, "zinger" on internet Go servers.  My comments are marked with " z -- ".   Remember to check my comments critically.  After all, I am only a weak amatuer - almost certainly, I have made a few mistakes.
+
+z -- I prefer to use move numbers and board markings in my comments, rather than grid coordinates.  Hopefully you have an SGF viewer which displays these correctly.  I recommend Drago, which I used to make the review.
+
+z -- I think the important lesson from this game is how to use thickness.  Black made a great strong wall, but did not use it properly.  Thickness should be used to attack and fight, not to make territory.  Thickness should be played away from, not close to.  Thickness allows you to omit extra defensive moves.  For example, moves 59, 65, 105,  119-123, and others.]
+;B[pc];W[pp];B[dp];W[dd];B[qi]TR[qe]C[z -- making an enclosure at or near the marked point would be more normal.  See comment at 19.]
+;W[fq];B[cn];W[jp];B[fc];W[hc];B[fe];W[df];B[id];W[ic];B[jd]
+;W[jc];B[kd];W[lc]
+(;B[qe]TR[id][jd][kd]C[z - after this move, black 5 doesn't look very good.  If 19 was already there, extending at 5 would be too short and flat and gote.
+
+z -- also the three marked black stones can become short of liberties, so after white 18 it is normal for black to play at N15.  See comment at 22.]
+;W[ld]C[z -- correct by white, I believe.];B[hd];W[db]LB[lf:a]
+[le:b]C[z -- if white played 22 at A or B, black's whole top side group would be almost useless: very little territory or influence.]
+;B[ch]LB[le:a];W[dh];B[ci];W[cg];B[dk];W[gc];B[gd];W[fb];B[le]
+;W[me];B[mf];W[ec]TR[fc]C[z -- mistake.  The marked black stone is meaningless.]
+
+(;B[md]LB[kc:a]C[z -- good to ignore 34!  Black can also consider 35 directly at A (variation).]
+;W[ne];B[kc];W[kb];B[nc]C[z -- good];W[lf];B[ke];W[lb];B[nf]
+C[z -- monster strength wall for black :)];W[oe];B[of];W[oc]
+
+(;B[od]LB[ob:a]C[z -- I think 47 at A would also capture 46, so it's a little bigger.]
+;W[ob]C[z -- mistake: too small]
+(;B[pe]LB[pn:a]C[z -- OK, 49 is black's first really big tactical mistake.  Black can play elsewhere, and white still cannot escape with the three stones.  So 49 is almost the same as a pass: it does nothing that black has not already done.  49 at A looks like a good choice, but almost anything is better than passing.  Working on avoiding wasted moves can gain several stones of strength.]
+;W[nb]LB[pn:a]C[z -- but white 50 is also a misktake.  It is too small (but still quite a bit bigger than 49).  White should play safely to reduce the influence of black's wall, maybe at A.]
+;B[qm]LB[pn:a]C[z -- again, I think A is better.  From a wall this strong, extend as far as possible.  And, playing on the third line instead of the fourth makes it easier for white to find reducing moves - see next move.]
+
+(;W[qj]LB[pl:a]C[z -- for example, white 52 could be at A, and it would be harder for black to use his thickness.]
+;B[pj];W[pk];B[qk];W[rj];B[pl];W[ok];B[oj]LB[nl:a][ml:b]C[z -- I think 59 is in the wrong direction.  The proverb says, play away from thickness.  Black is VERY thick and strong in the upper center.  So I think 59 should be on the other side, to try to push white toward the black thickness.  I like A or B.  White will have a hard time escaping after that.]
+;W[nj];B[nk]C[the ladder doesn't work, but I have a better shape.
+
+z -- this cut is good - when you have thickness nearby, fight!]
+;W[ol];B[om];W[nl]
+(;B[pi]LB[mk:a]C[z -- but this connection is bad.  Allowing white to make a strong ponnuki shape really ruins all the strength of black's thickness.  I think black must extend at A instead.]
+;W[mk]C[z -- white's group is so strong now!  It should be weak.]
+;B[ni]C[z -- too small.  Black is trying to make territory from thickness, which is not good.]
+;W[mi];B[nm];W[mm];B[np]C[R3 seems too good for white...
+
+z -- I'm not sure I understand.  You think white should play R3 now?  Perhaps.]
+;W[pn];B[pm];W[no];B[oo];W[on]TR[pn]LB[op:a]C[z -- 76 should cut at A.  The marked stone was a forcing move (kikashi) so white should ignore it.]
+;B[qn];W[po];B[nn];W[op];B[mn];W[mo];B[lm];W[ml];B[lo];W[mp]
+;B[lp];W[mq];B[lq]C[z -- with some help from white, black has done good damage.  Not only that, but white's center group is not so strong anymore.  Well done by black.]
+;W[mr]
+(;B[hp]C[z -- black could also think about attacking  white's center group now.  See variation.]
+;W[nh];B[oi]LB[lr:a];W[cq];B[dq];W[dr];B[er];W[cr];B[eq];W[bo]
+;B[bn];W[co];B[do];W[cp]
+(;B[fp]TR[hp][dk]LB[lr:a][lj:b]C[z -- 105 is not needed.  Black already has the marked stones nearby, so defending with 105 is redundant; basically another wasted move.
+
+z -- 105 at A would finish capturing a large territory.  Or better yet, black could attack white's center group at B.]
+;W[lr];B[kq];W[kr];B[jq];W[lg];B[jl]C[z -- 111 tries to use thickness to surround territory.  Instead, black should attack.]
+;W[ji];B[gk];W[ir];B[jr];W[js];B[gq]LB[rp:a][pb:b]C[z -- 117 at A or B is much bigger.  A is almost sente.]
+;W[fk]
+(;B[fl]LB[fj:a]C[what is the best reply to F9?
+
+z -- use the proverbs.  Play away from thickness!  Use thickness to fight, not make territory!  Black is thick at the bottom, so 119 should be at A.  See variation.]
+;W[gl]
+(;B[fm]LB[fj:a][gj:b]C[z -- 121 is still playing toward thickness, trying to make territory.  Better to play A or B - away from thickness!]
+;W[hk]
+(;B[hl]C[z -- should draw out of the atari.  Use thickness to fight!]
+;W[gj]
+(;B[gm]LB[hm:a]C[z -- now it's too late to fight.  125 at A is better to keep white a little further out.]
+;W[il];B[im];W[hm];B[hn];W[jm];B[in];W[kl];B[jn];W[jk];B[pb]
+C[z -- good];W[an];B[am]LB[rp:a]C[z -- black should ignore 136 and play at A, which is bigger.  For the next several moves black answers white submissively ...]
+;W[ao];B[bm];W[ek];B[el];W[iq];B[ip];W[bh];B[bi];W[ag];B[di]
+;W[ro]C[z -- ... and so white gets the important point first.  In the endgame you must be willing to ignore your opponent and go your own way.]
+;B[rn];W[rp];B[jg];W[jh];B[ig];W[gh];B[gg];W[fg];B[hg];W[ff]
+;B[gf];W[fd];B[ee];W[oh];B[ph];W[kg];B[og];W[mh];B[hr];W[km]
+;B[kn];W[ai];B[aj];W[ah];B[bk]C[z -- 173 is not needed.  It's like a pass.]
+;W[eh];B[ei];W[de];B[hh];W[hi];B[fi];W[kf];B[jf];W[ef];B[gi]
+;W[ih];B[hs];W[is];B[oa];W[mc];B[nd];W[na];B[pa];W[sn];B[sm]
+;W[so];B[rl];W[ej];B[dj];W[fh];B[fj];W[gk];B[ds];W[cs];B[es]
+C[z -- white's corner is not secure now.];W[qo];B[ll];W[lk]
+;B[ln];W[hl];B[ar]C[z -- good !]
+(;W[aq]LB[bq:a]C[z -- white should settle for seki with 210 at A.  After allowing this ko, white should lose.]
+;B[bq]
+(;W[br];B[ap];W[as];B[bs]C[z -- white has no threat big enough.]
+;W[rk]
+(;B[ql]TR[qj][rj][rk]LB[bp:a]C[z -- 217 is a big mistake.  Even if white saves the marked stones, it is only worth 15 points or so.  The ko is worth about 30 points.  Black should play 217 at A.]
+;W[as];B[hq];W[aq];B[ks];W[ar];B[ls];W[ms];B[js];W[nq];B[mg]
+;W[ed];B[ge];W[tt];B[ng];W[tt];B[tt]TB[gn][me][qa][ra][sa][qb]
+[rb][sb][qc][rc][sc][pd][qd][rd][sd][he][ie][je][ne][oe][re]
+[se][hf][if][pf][qf][rf][sf][pg][qg][rg][sg][qh][rh][sh][ri]
+[si][bj][cj][qj][rj][sj][ak][ck][rk][sk][al][bl][cl][dl][sl]
+[cm][dm][em][rm][dn][en][fn][eo][fo][go][ho][io][jo][ko][ep]
+[gp][jp][kp][fq][iq][fr][gr][ir][fs][gs][is]TW[rs][ss][aa][ba]
+[ca][da][ea][fa][ga][ha][ia][ja][ka][la][ma][ab][bb][cb][qs]
+[gb][hb][ib][jb][mb][ac][bc][cc][dc][fc][ad][bd][cd][ae][be]
+[ce][af][bf][cf][bg][dg][eg][kh][lh][ii][ki][li][hj][ij][jj]
+[kj][lj][mj][ik][kk][nk][jl][oo][ap][bp][np][qp][sp][bq][oq]
+[pq][qq][rq][sq][nr][or][pr][qr][rr][sr][bs][ns][os][ps][eb]
+C[z -- thanks for the game to review.  I hope my comments help.
+
+Good luck,])
+(;B[bp];W[ql]C[z -- not only that, but white hasn't even saved the three stones yet - it's another ko.]
+;B[ri]C[z -- but black can ignore the ko and win by just a little.]
+))
+(;W[ap];B[bs]))
+(;W[bq];B[aq];W[ap];B[bs]C[z -- this way white will still win.]
+))
+(;B[hm]))
+(;B[gj];W[hl];B[ij]))
+(;B[fj];W[hk]C[z -- for example ...];B[ek];W[hl];B[ij]C[z -- things are still difficult for white.]
+)
+(;B[gj];W[el];B[fm];W[ek];B[ei]C[z -- now what for white?]))
+(;B[fj]C[z -- now white cannot get away.]
+(;W[gj];B[fl];W[hk];B[gl]C[z -- compare this to the game position at move 132 and see how much more black has.]
+)
+(;W[gl];B[hk])))
+(;B[lr]C[z -- big.])
+(;B[lj]
+(;W[mj];B[kk]C[z -- again, white will die this way.])
+(;W[kl]C[z -- so white will still have to try this.  But black is much stronger in the lower left now, I don't think white can get away.]
+;B[jj]C[z -- for example.  White is almost surely dead.])))
+(;B[lj]
+(;W[mj];B[kk]C[z -- it is hard to see where white will get another eye.]
+)
+(;W[kl]C[z -- white would be better off trying to escape, but it will be a hard fight to get away.]
+)))
+(;B[mk]C[z -- use thickness to fight!  This way white's stones are cut apart and weak.  Compare to the position after white 66 in the game.]
+))
+(;W[pl]C[z -- the shoulder hit is a common reducing move.  But it would not work so well if 51 was on the fourth line.]
+))
+(;B[pn]C[z - this move works well with black's strong wall.]
+
+(;W[pd]C[z -- white cannot move the three stones ...];B[pe]
+C[z -- snapback])
+(;W[pe];B[pf];W[pd];B[qd]C[z -- also snapback])))
+(;B[ob]))
+(;B[kc];W[kb];B[lb]LB[jb:a][mc:b][md:c]C[z -- black has multiple threats, white cannot defend them all.]
+))
+(;B[me]C[z -- this keeps white enclosed ore cleanly.]))

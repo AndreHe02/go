@@ -1,0 +1,243 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.17]
+
+PB[thoraks]
+BR[26k]
+HA[2]
+PW[egroeg]
+KM[0.5]
+DT[2011-04-28]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[B+77.5]
+TM[1500]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+AB[pd][dp]C[After this game egroeg (white) and I (black) decided to submit it to the go teaching ladder, so if that's possible, maybe also comment
+on white (though i didn't ask as many questions about white's play). Would be great :-)
+
+I'm around 26k on KGS server (as egroeg is, but since he wasn't rated on KGS yet I got two black stones in the beginning).
+
+
+I apologize for my many questions in advance, I hope they're not too beginnerish, but I found the game very interesting and while
+playing it it also seemed quite close at all times so I'm not sure about many situations..
+
+I also tried to analyze a lot of my moves myself and explain my thoughts so (as the website suggests) you can also comment
+on my logic!
+
+
+My first big concern is the opening game, is it any good, is there room for improvement etc. (on both sides)?
+
+[CJT\] - My comments are marked [CJT\] throughout.
+
+I've had a quick first pass through this game - and it's generally the case that I think you'll learn more from general concepts than specific move suggestions - so that's generally what I'll be concentrating on.  Similarly, there are more clear suggestions I can give about the opening, when the board is cleaner, so you won't find much commenting on the later stages.  I will try to address your specific questions though...  Hope you find this useful.
+
+
+
+Summary - after my review
+
+- Read up a bit about the opening - corners/sides/centre
+- Don't play the 19x19 board like it's a 9x9 - you can't win simply by fencing your opponent in - there's too much space for invasion
+- Remember to consider the whole board position when you play a move - rather than just reacting to your opponent every time]
+;W[dd]
+(;B[oq]C[I first wanted to attack white on the left side so i played P3 a little more to the left.
+
+[CJT\] - Your choice of move in this corner is likely to have very little impact on the opposite corner.  If you want to attack the W corner, then why not just do it?  You have the 2 stones already - see variations for ideas.]
+;W[me]LB[nc:a][pf:b][jd:c][qp:d]C[Is that too close for an attacking move?
+I'm normally playing something like at the circle when i'm attacking, but that often seems to be slow.
+Still I fear that such an aggressive move will split my attackers from the base later on...
+
+[CJT\] - It is unusual to play an opening move on the 5th line.  You have the opportunity to severely threaten this stone, while building in the corner.
+
+Play around A threatens to isolate the W stone from the security of the side, where play around B threatens a pincer around C.  Both A and B give B much strength in the corner.
+
+Your circle move (now C) is a much better idea.  However the biggest point is probably arund D - since the corner is still very open there...]
+;B[mg]C[[CJT\] - This is not a good move.
+
+The W stone is not threatened - the natural way to run for W is to the side - exactly where B does not want him to go.
+
+The B stone is now even weaker and more isolated than the W stone.]
+;W[kg]LB[pf:a][mc:b][pc:c][jd:d][nf:e]C[is that actually good placement of white? should she've cut Q16 at A or something instead of this?
+
+[CJT\] - A is not a 'cut' - since either pair of stones can remain connected.  5 is another loose move, not providing any security.  Better to try and make some good of the poor move at 3 - one example would be B, which threatens the corner (e.g. C), threatens to make territory on the side (e.g. D) and also threatens to split the black stone from the corner (e.g. E)]
+;B[ji]C[[CJT\] - This is not a good move either - the B stones are even weaker than the W stones here.
+
+As I often say to beginners, it is important to try and understand the basic strategy of the opening.
+
+Take the corners first - make them secure and/or pressure your opponent's corners.  Doing this allows you to...
+
+...extend along the sides.  After the corners, the sides are the next safest place, and the next easiest to make territory.  Once the fights for the sides begin, you'll find you naturally...
+
+...reach out into the centre - whether it's to pressure weak groups, or make space for your own.
+
+Your game was quite unusual in that W managed to make a decent chunk of territory in the centre - most games there are really only a few points of territory up for grabs there.  W got such a big area because of the B moves just played - creating weakness in the centre.]
+;W[ih];B[ii];W[ig]CR[hh]C[too defensive? H12 = better?
+
+[CJT\] - Yes H12 is better - but there's still plenty of weakness in W's position (and B's)]
+;B[lh]TB[ae][be][ce][de][ee][fe][ge][he][hf][hg][hh][hi][hj]
+[hk][hl][hm][hn][ho][go][fo][eo][do][co][bo][ao][es][er][eq]
+[ep][en][em][el][ek][ej][fj][gj][ij][jj][kj][lj][mj][nj][nk]
+[nm][nn][nl][no][nq][nr][ns][ki][li][mi][ni][oi][pi][qi][ri]
+[si][kk][kl][km][kn][ko][kp][lp][mp][op][np][qp][pp][rp][sp]
+C[[CJT\] - This was a decent move - finally securing a few stones.
+
+You should be aware however, that you aren't going to win 19x19 games by trying to wall your opponent in - there's too much space - I've outlined a few areas that contain no stones, and can easily be invaded.]
+;W[lg]LB[mf:a][nf:b][ng:c][of:d][mh:e]C[I wasn't sure about that one. A seems to be risky (splitting the corner), B too loose.
+C seemed best for maintaining a good connection to N13 while not getting cut of from my corner.
+
+[CJT\] - It's hard to say here, becuase your central group is far to isolated to start with.  D gives the best chance of connecting, but the cut at E is a definite threat]
+;B[ng];W[of]LB[pf:a][pg:b][ph:c][og:d]C[well, that was the theory at least.
+
+In such a situation, should I try maintaining the connection to the corner by playing at A or equal (as I did in the game)
+or should I give up on the connection and let white seperate corner and side (something like B or even C)?
+
+[CJT\] - I like C here (or D).  You shouldn't worry too much about the corner - if you can get the central group towards the safety of the side you will have a very strong lower right corner building.]
+;B[pf]LB[oe:B][og:A]C[i think white could've cut me here at a instead of playing b
+
+[CJT\] - Yes A is much more punishing];W[oe];B[og];W[gj];B[hk]
+;W[fm];B[fl]C[tried to cut here to not lose the lower left corner / even more of my territory
+
+[CJT\] - It's not your territory.  As per my earlier comment, there's plenty of space to invade, and often it's better ro try and control your opponent's invasion than to kill it.]
+;W[gl];B[gm];W[fk];B[el];W[em];B[dm];W[dl]
+(;B[cl];W[ek]C[could i've avoided that outcome? if so, how?]
+;B[cm];W[gn];B[hm];W[hl];B[hj];W[gk];B[ij]MA[ii][hj]LB[jk:a]
+C[[CJT\] - This shape (X-36-X) is known as an 'empty triangle' and is considered inefficient.   A is much stronger here.]
+;W[jo];B[hp];W[ho];B[il];W[im];B[jp];W[do]C[i gave up on the far left there and tried to rescue the lower left corner + the center]
+;B[nd]C[that one was bad i think. other options?];W[od];B[oc]
+;W[ne];B[pc];W[nc];B[md];W[ld]C[that was just luck, i think o16 would've died if white had played at N17.]
+;B[mc];W[lc];B[nb];W[mb];B[lb]C[well, really stupid move there. it should've been O17]
+;W[nc];B[kn];W[io];B[ip];W[fq]LB[gq:A]C[didn't really know how to react to this one, tried to capture it while making sure to rescue the lower side if my capture fails. by playing at A]
+;B[gq];W[gp];B[fp];W[go];B[eq];W[lm]LB[km:B][ln:A]C[wanted to play at A at first, since B was in the middle of white, but i couldn't risk losing the group around J9 so i played risky B
+
+[CJT\] - This the risk of having 'floating' stones like L6.  There is no strong side for them, so it is not clear how to defend them.  
+
+If you're wanting to extricate L6, then L5 is best.];B[km]MA[cl]
+[cm][dm]C[Probably, white could've sacrificed M7 and played L5 instead to capture the whole lower side and corner, not sure about it though
+
+[CJT\] - Yes, after B failed to secure L6, L5 is strong for W.  Neither player has much structure to their territorey here - and there are plenty of weak points all over the board.
+
+R4 is still there as a great move for W - likely taking a chunk of territoty on the side
+
+G11 would give B some opportunity to eat into W's territory
+
+The 3 marked B stones are weak and isolated - C5 is quite a big move for either side - or W could make a strike for the corner with C4 or C5.]
+;W[ln];B[ko];W[jm];B[jl];W[kl];B[ll];W[kk];B[jk];W[kj];B[ki]
+;W[jj];B[ik]MA[hj][ij][ii]C[that's really ugly shape right?
+
+[CJT\] - Yep - and it started from the empty triangle - worked out well for me to make my advice seem true :o)]
+;W[mj];B[mm]C[decided to first make sure L5-L7 lives first by starting to kill of M6-M7 because i could easily connect the wall on the upper board.]
+;W[ml];B[mn]C[sacrificed M8];W[lk];B[ok]
+(;W[ll]C[unneccessary move of white?
+
+[CJT\] - Yes - and W throws away the opportunity to live I think.]
+;B[ni]MA[mg][ng][og]C[tried to surround white there and decided to not only hold white back but capture the whole group (decided huge parts of the game in my opinion)
+
+[CJT\] - This is a good move - your thinking is clear, and you played a suitable move.  The 3 marked stones make this very safe.]
+;W[li];B[kh];W[mh];B[mi];W[hi];B[nh];W[jh];B[lj];W[hq];B[fr]
+;W[li];B[mh]C[that one was close];W[lj];B[iq];W[eo];B[cp];W[ep]
+;B[dr];W[cj];B[fo];W[fn];B[co]C[F3 was urgent there i think.]
+;W[fq];B[fp];W[cn];B[bn];W[dn];B[ao]C[i like how i got that corner, but i think white made some mistakes there, otherwise it wouldn't have worked out that good.]
+;W[ob];B[cc]C[decided to use my seki to capture that corner via 3-3 point invasion (didn't mind any white influence to the center there, would've had no effect
+on the game).
+
+After the game i sent egroeg the 3-3 point invasion joseki, i think i could establish a corner that big here because he didn't know it yet.]
+;W[cb];B[dc]C[seperated the groups there];W[bc];B[bd];W[cd]
+;B[bb];W[de];B[db]C[played some ataris (which also were aimed to become my eyes)]
+;W[gc];B[fc]C[not sure about this one
+
+[CJT\] - This is fine.];W[ec];B[ed]C[[CJT\] - Not great - see variation]
+(;W[fb];B[eb];W[fd];B[ce];W[ec];B[ee];W[df];B[fc];W[fe];B[gb]
+MA[cb][bc]C[decided to not place at e17 because i wasn't sure about my corner's eyes yet
+
+[CJT\] - 2 eyes];W[ec];B[ef]C[E15-E16 were already dead i think]
+;W[be];B[ac];W[cf];B[ae];W[bf];B[fa];W[fc];B[ca];W[ff];B[eg]
+;W[dg];B[fg]C[these are all unneccessary];W[gg];B[lo];W[mo]
+;B[no];W[mp];B[lp];W[nn];B[nm]LB[on:A]C[white should've played an extension at A here, right?
+
+[CJT\] - No - the W group should die - better to try and sneak some territory away.  (Although W is doing this with a group that ends up dead, the point remains...)]
+;W[nl];B[on];W[om];B[nn]
+(;W[rk]C[[CJT\] - This is bad for W - he has a chance to fight for life - see variation]
+;B[np];W[mq]C[Should white give up N4-N5  here and start to focus on pushing me into the lower corner?]
+;B[lq];W[mr];B[lr];W[nq];B[nr];W[ol];B[ms]C[don't know if that was really neccessary]
+;W[eh]C[i think white could've done more with her seki here, my stones were already dead.
+
+[CJT\] - Do you mean sente?  Yes W could have tried to make life - R7 is very strong here.]
+;B[oj];W[qm];B[qn]C[[CJT\] - A good move - preventing any eye space lower down]
+;W[ri]LB[pg:a]C[[CJT\] - The rigt idea from W too - extending for more eye space
+
+A cut at A could have been very interesting here though - there's also a large B group that could come under serious threat.]
+;B[nk]C[played here because I feared white would get an eye by playing O9.]
+;W[sm];B[pl];W[pm];B[pk];W[rl]LB[ql:a]C[[CJT\] - A is better, since it gives W more options for eyes]
+;B[qk]LB[ro:a][rg:b][pg:c]C[[CJT\] - This move seems quite unnecessary.  B needs to block W on either the upper or lower sides - W threatens A and B for almost certain life.
+
+C is even more dangerous now S11 is there...];W[sk]C[was there any chance preventing the eye at T8?
+
+[CJT\] - No];B[rn];W[rm];B[qj];W[rj];B[si]C[i'm a little bit proud about that move and i think it was the right one since it stopped white from getting the second eye!
+
+[CJT\] - You had the right thought process - if you play where your opponent needs to to make an eye, that's a good place to start looking for the best move.  However, both you and your opponent overlooked the most trivial continuation - see variation.]
+(;W[sh];B[rh]C[played an atari here to make sure white kills its own eye]
+;W[sj];B[sg]C[and again];W[si];B[qi];W[rg];B[qh]
+(;W[sf]C[[CJT\] - Again W should not capture, but crawl along the 2nd line...]
+;B[qf];W[rf];B[qg]
+(;W[pe]C[[CJT\] - Even here W can live by crawling.];B[qe];W[qd]
+;B[re];W[qc];B[se];W[pb];B[sg]C[i think from here on the game is nearly decided.
+
+[CJT\] - Yes - and my comments end here.];W[pd];B[mf];W[lf]
+;B[hr];W[nj];B[mk];W[nf];B[sn];W[jn];B[an];W[bm];B[bl];W[bk]
+;B[am];W[ak];B[al];W[en];B[ga];W[jb]C[could white play a better move to stop my corner from expanding earlier?]
+;B[hb];W[hc];B[ib];W[ic];B[ja];W[kb];B[ia];W[ka];B[ea];W[fh]
+C[unneccessary];B[af];W[ef]C[A13 would've been correct I think, building two eyes in white's own territory is unneccessary in my opinion]
+;B[ag];W[bh];B[ah];W[ai];B[bg];W[cg];B[ad]C[did i have to play that move?]
+;W[ch];B[kp];W[tt];B[rd];W[rc];B[sc];W[sb];B[sd];W[jc];B[ck]
+;W[dk];B[bj];W[bi];B[aj];W[ci];B[bk]C[did i have to play this move?]
+;W[dj];B[tt];W[el];B[tt];W[tt]TW[la][ma][na][oa][pa][qa][ra]
+[sa][lb][nb][qb][rb][kc][mc][oc][pc][ed][gd][hd][id][jd][kd]
+[md][nd][ce][ee][ge][he][ie][je][ke][le][gf][hf][if][jf][kf]
+[eg][fg][hg][jg][dh][gh][hh][di][ei][fi][gi][ej][fj][fl][gm]
+[hm][hn][in]TB[aa][ba][da][ha][ab][cb][bc][rf][sf][pg][rg][oh]
+[ph][sh][li][oi][pi][ri][si][jj][kj][lj][mj][nj][pj][rj][sj]
+[ak][kk][lk][rk][sk][kl][ll][ml][nl][ol][ql][rl][sl][bm][lm]
+[om][pm][qm][rm][sm][ln][pn][bo][mo][oo][po][qo][ro][so][ap]
+[bp][mp][op][pp][qp][rp][sp][aq][bq][cq][dq][hq][jq][kq][mq]
+[nq][pq][qq][rq][sq][ar][br][cr][er][gr][ir][jr][kr][mr][or]
+[pr][qr][rr][sr][as][bs][cs][ds][es][fs][gs][hs][is][js][ks]
+[ls][ns][os][ps][qs][rs][ss]C[thoraks [26k?\]: thanks :-)
+egroeg [?\]: Thank you!
+
+
+
+Well, that's it, result was B+78.5 in the end, sounds big, but I think it kinda decided over the huge captured white group on the right.
+
+Would there have been a better way for white to invade my territory? Any general tips at the end? Should we just continue
+gaining experience through playing or are there some topics which we really lack knowledge of?
+
+
+
+Thanks a lot for the time you spent analyzing our game! :-)]
+)
+(;W[re];B[rd];W[qe];B[pe];W[qd]
+(;B[qc];W[rc])
+(;B[rc];W[qc];B[rb];W[qb];B[pb];W[pa])))
+(;W[rf];B[sf];W[re];B[se];W[rd];B[sd];W[rc];B[sc];W[rb];B[sb]
+;W[ra]C[[CJT\] - Oops.]))
+(;W[rh]C[[CJT\] - Now what?  Keep playing in the way of W making an eye?]
+;B[sh];W[rg];B[sg];W[rf];B[sf];W[re];B[se];W[rd];B[sd];W[rc]
+C[[CJT\] - As you can see, this gets very troublesome for B...]
+;B[sc];W[rb];B[sb];W[ra];B[sa];W[sj]C[[CJT\] - Until W lives very easily, and all the B stones on this side and the centre die :o(]
+))
+(;W[ol];B[nk]C[[CJT\] - Take away the eye];W[qm]MA[qj][qp]C[[CJT\] - Now W can extend either way - perhaps getting enough space for 2 eyes...]
+))
+(;W[eb];B[ca];W[fb];B[fd];W[ff]))
+(;W[lo];B[kp];W[nl];B[ol];W[oj]C[[CJT\] - Maybe W lives here?]
+))
+(;B[ek]
+(;W[ej];B[dk]C[[CJT\] - The ladder does not work for W.])
+(;W[dk];B[ej];W[dn];B[cm]C[[CJT\] - This gets messy, but W is weaker.]
+)))
+(;B[cf]C[[CJT\] - Direct attack on the 4-4 stone (a very common move)]
+)
+(;B[df]C[[CJT\] - This looks to build more down the side, and attack the corner less]
+)
+(;B[cc]C[[CJT\] - This is not a fantastic move, due to the influence the standard joseki affords W, but it is the most direct attack.]
+;W[dc];B[cd];W[ce];B[be];W[cf];B[bf];W[cg];B[db];W[eb];B[cb]
+;W[fc]C[[CJT\] - Here B has the corner, but W has good influence, particularly towards the upper side.]
+))

@@ -1,0 +1,164 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.13b]
+
+PB[cranky]
+BR[13k]
+PW[Fedya]
+WR[12k]
+KM[0.5]
+DT[2002-09-21]
+PC[The Kiseido Go Server (KGS) at http://kgs.kiseido.com/]
+RU[Japanese]
+
+C[To the reviewer:
+
+Thank you in advance for reviewing this game.  I don't have any idea where I'm going wrong.  No matter what I try, I fall badly behind early in the game, and have to try to catch up.  Half the time, I seem to fall so far behind that I'm down by 50 or more points less than 100 moves into the game and I have to resign early.  Nothing works, and things seem to be getting worse and worse.  When I attack my opponent, I end up with a bunch of weak groups.  If I try to avoid weak groups, I end up conceding a large moyo.  If I try to take more territory than my opponent by building a larger moyo, my opponent is able to invade my moyo.
+
+I've talked to a bunch of stronger players, and it seems as though each one gives a different opinion of what I'm doing wrong.  (Of course, I'm probably doing a lot of things wrong!)  Several of them have told me to attack more, and so I did, notably at M17, K3, G17, and C3.  The result was not pretty -- I lost by 45 points, although I was under the impression that I was trailing by only 10 or 15 points.
+
+Denis: from a first quick review of your game, it seems that you want or expect too much from your moves. We will see this in details later, but this might be your greatest problem (for now :-) ).
+This note added after the review: I still feel that you expect too much from your moves, but I think that your greatest problem is that you are too confident in your group/shape/position, even when there are weaknesses. Learn to find them, and you'll improve your game.
+Have a good reading.];B[dp];W[pd];B[qp];W[cd]C[In retrospect, I wonder whether I should have approached the R4 stone instead.  After Black plays P3 next, I have to respond in the R10 area, and ended up with a weak group there as a result.  I know stronger players will probably say I should take the empty corner, but I wonder whether that's too passive.
+
+Denis: Both option are playable, but you have to choose as you have only one move, so let's go with this one which is OK for me.]
+;B[oq]LB[pj:A]C[Denis: so what? those 2 stones are not in the right direction. P3 would be very good if there was already a stone at A or if you let black play there later.]
+;W[qj]LB[pj:A]C[Denis: Good. Though I prefer A as I have the feeling your stone is too low.]
+;B[nc];W[lc]TR[qj]LB[pf:A][jd:B]C[Fedya: I thought this was a good attacking move, considering that the pincer attack supposedly works well with the stone at R10.
+
+Denis: wrong supposition. The marked stone is too far. Consider a simple move at A, or a lighter pincer at B which is also an extension of your "top-left" corner stone.]
+;B[pf]TR[qj]C[Fedya: It seems whenever there's a pincer attack on the board, I'm the one who ends up with the weak position.  For the life of me, I don't understand why my pincer attack failed so badly while my opponent's was a great success.
+
+Denis: Because, in my humble opinion, you want too much. You expect the marked stone to be well placed for you pincer, but you find now that it was not well placed.]
+;W[ne]MA[lc]LB[oe:A]C[Fedya: I didn't know what to play here.  It looks to me as there are three possibilities.   1) Try to connect the Q16 stone to either M17 or R10
+2) Try to create a small life in the corner by playing something like P17 or R15.
+3) Play lightly and sacrifice the Q16 stone.
+I didn't think the third choice was viable, and decided to go for option #1.  In retrospect, I think maybe I should have played at P17.
+
+Denis: Why are you in such problem in the first place? This is a lesson to learn. Because you played your previous move (X) without thinking of the black answer. So try to see at least one move ahead.
+To come back to your 3 choices: option 3 is indeed not viable, the corner is too large to sacrifice at this moment of the game. Option 2 is not a good idea. So option 1 is OK But if you call it "try to cut the black stones", this is a new option. If you manage to cut, black will end up with 2 groups that will be weaker that 1 larger.
+What about A? It seems better because you don't have weak point, and if black press from one side, he is weakening his other side.]
+;B[od]C[Denis: Of course. Black is trying to cut.];W[oe];B[pc]
+C[Fedya: I considered myself lucky that Black didn't play at Q15 here.
+
+Denis: yes you are. Black is not consistent here. He first try to cut, now he goes to the corner and lets you connect. This is not a good move. He must cut and enjoy the fight.]
+;W[pe];B[qc];W[md]LB[qd:A][qf:B]C[Fedya: So I've got thicknes.  Where on the board am I supposed to get any territory out of this thickness?  I can't remember a single game where I've gotten anything good out of thickness.
+
+Denis: Who told you that you are supposed to get any territory out of thickness? Don't use thickness to build territory directly. you have to learn how to use the influence of the thickness to threaten weak group (yerk yerk yerk :-) ).
+Please check again your position here. Do you really thing you have thickness?
+Finally, you have played here consistently with your goal (your option 1, connecting the white stones). But if your goal would have been "cuting black" you would have played A or B which continue this goal and give you a better thickness.]
+;B[qf]C[Denis: Black is now almost connected.];W[qm]C[Fedya: I felt I had to play here before Black makes the R10 stone even weaker.
+
+Denis: yes, of course. Good move.];B[pi];W[qi]LB[pj:A]C[Denis: Dubious. What about A instead? It push black in the direction of your thickness (remember? you have to use thickness but not to make territory).]
+;B[qh];W[jq]C[Fedya: Now I thought the group on the right was stable, so I decided to attack.]
+;B[gq];W[mq];B[ed]
+(;W[cf]LB[hd:A]C[Fedya: Would it have been better to play a pincer attack in the G17 area on the grounds that it also serves an as extension from the group in the top right?
+
+Denis: Your move is not bad. I don't think a pincer is correct as it would be too close to your thickness. According to Ishida dictionary of Joseki Vol2, a possible pincer is at A, this leads to complicate variation. In the present situation, I have the feeling that A is overconcentrated with your thickness on the right. Please check the variations for a possible alternative.]
+;B[ic];W[gc]TR[ic][ed]C[Fedya: Every time I play two stones like E16 and J17, my opponent attacks by trying to split them, and I end up with a severe defensive headache.  I don't understand why the splitting attack doesn't work for me.
+
+Denis: may be because you were too greedy. You want both to split, have the left corner and make territory with your right group. You can't have everything with one move.]
+;B[gd];W[ec];B[hc];W[dc]C[Fedya: After some thought I decided to sacrifice the G17 stone in order to take the corner.  I think this is a good trade-off.]
+;B[fc];W[fb];B[gb];W[eb]C[Denis: so you miss the split, but got the corner. and black has a little life and his influence is balanced by yours on the right. Finally, you might be happy with this exchange.]
+;B[jf];W[ng]C[Fedya: The thickness I got does nothing good for me, which is what usually happens.  Now, I have to try to figure out where I'm going to make two eyes.
+
+Denis: You didn't use it very well with the sequence on the left. But it already serve. Please also remember, as I already pointed out, that your thickness is not that great as you think (you have weak points).]
+;B[ni]C[Denis: Good black move.];W[lf]C[Denis: Hmm?];B[og];W[of]
+C[Denis: Don't make shape for eyes yet. Continue to escape in the center.]
+;B[ck];W[cq]C[Fedya: I felt I needed to attack more, and figured that this invasion would have no trouble living.
+
+Denis: I think this is too early. You will live in the corner but without much point. And black will build thickness that you cannot afford now.]
+;B[cp];W[dq];B[eq];W[bp];B[bo];W[bq];B[cn];W[er];B[fq]C[Denis: See what I meant? You have a little corner but black thickness is really impressive.and it hammer your group on the top-right.]
+;W[ci]MA[jq][mq]TR[qm][qj][qi]C[Denis: Might be correct locally. But you have weak position to care about (the 2 stones marked with X and the 3 stones marked with a triangle). Be sure that black will use his influence to attack your weak groups and (indirectly) building territory.]
+;B[fr]C[Denis: Very little at this stage.];W[dr];B[fk];W[jo]
+LB[pj:A][ph:B][om:C]C[Fedya: I thought I had sente, but at the same time had no idea what to do with sente.  After quite a bit of thought, I decided to try to get some territory in the center, as well as stop my opponent from getting territory in the center.  It's probably not valid in this situation, but isn't there a proverb that  "the one space jump to the center is never wrong"?  At any rate, going through this game now, I wonder if I should have tried E15 instead.  Other than that, I don't see anything good.
+
+Denis: E15? no. At this time of the game, you have to stabilize your group, so you move seems OK for the lower side. What about the exchange A for B then C for the right side?]
+;B[ip];W[jp];B[io];W[in];B[hn]C[Fedya: I consider myself lucky that Black didn't play a crosscut.
+
+Denis: I think so. Black should cut and welcome the fight. Instead, he just build some territory.]
+;W[im];B[hm];W[kn]C[Fedya: I have a feeling you're going to criticize this move tremendously, but I realized the ladder was not in my favor.  Consequently, I have to play a ladder breadker.  The only other move that comes to mind is L7.
+
+Denis: Absolutely not. This is a good move which make good shape. This group is stronger now and can be use as support for your group on the right. On the counter part, black has made territory. But this is the result of the too early invasion on the lower left corner.]
+;B[on]C[Denis: Good: Black tries to avoid white from connecting the 2 groups.]
+;W[ao]C[Fedya: I thought I might be in some trouble if Black played at A4, but I can just respond with B1 immediately, which I believe secures two eyes in the corner.
+
+Denis: ?? Too little, Too early. and gote.];B[an];W[ap];B[mp]
+;W[lq]C[Fedya: I didn't like the idea of playing a hane since I feared Black would cross-cut.
+
+Denis: I have no problem with that.];B[lp];W[no]LB[ok:A]C[Fedya: I thought I'd be able to split the two Black groups, but that's not a possibility.
+
+Denis: No, indeed. You have to play A to escape and build some shape.]
+;B[np];W[mn];B[ol];W[ql]LB[ro:A]C[Fedya: I have a feeling you're going to criticize this move, but I didn't think I could let Black play there.  If Black does play here, I have to respond on the second line
+
+Denis: What about A to build some base?];B[di];W[ch];B[dh];W[dg]
+;B[eg];W[ef];B[ff]
+(;W[ee]C[Denis: Why didn't you cut? See variation for a possible follow-up.]
+;B[fe];W[dd]LB[ij:A]C[Denis: ?? Very little move. Play A instead.]
+;B[jj];W[ik];B[hl];W[il];B[hj];W[mh]C[Denis: ??What was you intention?]
+;B[nh];W[mg]C[Denis: 94 was bad. Black is stronger now (but so you are) but you are gote. 94 didn't achieve much? What do yo think?]
+;B[jh]C[Denis: Not very pretty, but black can afford slow move to secure his territory.]
+;W[ro]C[Fedya: Take as much territory as I can.  Once again, I thought I had sente, but also had no idea that the right strategy is.
+
+Denis: At this point, this is good. You build a base for this group. You can keep an eye on the top right corner that can still be attacked. But anyway, black leads is already impressive.]
+;B[rp];W[qo];B[po]
+(;W[qn]C[Fedya: I'm sure you're going to criticize me and say that the empty triangle is bad.  But I really didn't like the idea of Black playing at R6, and Q6 seems pointless since Black is just going to atari at Q7.
+
+Denis: see my variation if white Q6, black Q7.];B[cj];W[bj]
+LB[hr:A][qe:B]C[Denis: Not very good. There are bigger points elsewhere. And this is gote.]
+;B[bk];W[bi];B[ri];W[rj];B[rh];W[ob]C[Fedya: This is a good idea, I think.  But I didn't follow it up correctly.]
+;B[oc]
+(;W[qe]MA[ob][oc][ri][rj][rh]C[Fedya: This is a mistake.  I should have played at O18, but I wanted to try to kill the Black group in the corner, since I thought I'd have a won game if I were able to do so.  See the variation.
+
+Denis: It's too late. Should have been played before the exchange on the top and before the one on the left (X stones), because it would have been more efficient with the black weak points.]
+;B[nb]
+(;W[ke]C[Denis: The black shape of the top right corner is not very good. I really think you can still do something there. Check the variation. I don't know if it works really but it's worth giving a try (black should sacrifice some stone to save the corner).]
+;B[je];W[kd];B[kb];W[nr];B[or];W[nq];B[kp];W[kq];B[ir];W[jr]
+;B[iq];W[lk];B[lm];W[ln];B[ml];W[km];B[oo];W[ll];B[mm];W[li]
+C[Fedya: Now I don't have to worry about eyes.  Each of the original groups definitely had an eye, and not that they're connected, I'm assured of two eyes.]
+;B[nn];W[mo];B[lb];W[jd];B[id];W[hk];B[gk];W[ak];B[al];W[aj]
+;B[ij]C[Denis. Black must connect. See variation (on your next move).]
+
+(;W[is];B[hs];W[js];B[fs];W[es];B[sj];W[sk];B[si];W[rl];B[pj]
+;W[pk];B[ok];W[pl];B[rd];W[re];B[rf];W[os];B[ps];W[ns];B[qr]
+;W[sp];B[sq];W[so];B[rq];W[jk];B[se];W[kj];B[mc];W[kc];B[nd]
+;W[ga];B[ha];W[fa];B[fd];W[mk];B[qd];W[me];B[jc];W[nk];B[nj]
+;W[mj];B[kh];W[nl];B[nm];W[mi];B[ki];W[kg];B[jg];W[kf];B[op]
+;W[lh];B[pn];W[pm];B[om];W[bm]C[Fedya: I decided to try this in the hope that Black would err by playing A7.  It makes no difference, since I'm much further behind than I thought.
+
+Denis: As seen previously, the cut B8 works. But you would still be behind by about 20 points.]
+;B[bn]TB[ia][ja][ka][la][ma][na][oa][pa][qa][ra][sa][hb][ib]
+[jb][mb][ob][pb][qb][rb][sb][gc][rc][sc][hd][sd][ge][he][ie]
+[gf][hf][if][sf][fg][gg][hg][ig][pg][qg][rg][sg][eh][fh][gh]
+[hh][ih][oh][ph][sh][ei][fi][gi][hi][ii][ji][oi][dj][ej][fj]
+[gj][oj][dk][ek][bl][cl][dl][el][fl][gl][am][bm][cm][dm][em]
+[fm][gm][dn][en][fn][gn][co][do][eo][fo][go][ho][ep][fp][gp]
+[hp][pp][hq][pq][qq][gr][hr][pr][rr][sr][gs][qs][rs][ss]TW[aa]
+[ba][ca][da][ea][ab][bb][cb][db][ac][bc][cc][ad][bd][ld][ae]
+[be][ce][de][le][af][bf][df][mf][nf][ag][bg][cg][lg][ah][bh]
+[ai][lj][kk][qk][rk][jl][kl][sl][jm][rm][sm][jn][rn][sn][aq]
+[ar][br][cr][kr][lr][mr][as][bs][cs][ds][ks][ls][ms])
+(;W[bl];B[am];W[cm];B[cl];W[bm];B[bn];W[dm];B[dn];W[eh];B[fg]
+;W[dj];B[dk];W[ej]))
+(;W[pg];B[oh];W[re]LB[rc:A][qg:B]C[If black secure the corner with A, white take 2 stones with B. Otherwise...]
+;B[qg];W[sb]C[White make a monkey jump. and black corner is further reduced.]
+;B[rc];W[sc];B[rd];W[sd];B[rb]))
+(;W[nb]
+(;B[mb];W[mc];B[lb];W[kb]TR[lb][mb]C[Fedya: Now the two Black stones die.
+
+Denis: That's why he would not have played there in the first place.]
+)
+(;B[pb]C[Denis: Black would play here instead.];W[mb];B[re]
+)))
+(;W[pn];B[pm];W[pp]C[If black atari at Q7, you don't connect but cut at Q4. I may be  wrong, but I have tried some variations from here and white result is always favorable.]
+;B[oo]C[Just as an example. If black connect at 4.];W[pq];B[qq]
+;W[pr];B[qr];W[or];B[op];W[nr];B[qn];W[rn];B[sr];W[sm]))
+(;W[fg];B[eh];W[fe];B[gf];W[ee];B[ge];W[ij]C[Denis: This is a possible variation. Black has build much less territory than in the actual game.]
+))
+(;W[ec];B[fc];W[dc]LB[gd:A][fd:B][ff:C]C[Black has 3 alternatives. A and B are normally OK, but not in this case. (See variations) So black must play C which is better for him.]
+
+(;B[ff]LB[cf:A][dj:B]C[white can now play steady at A or lightly at B.]
+;W[cf]LB[dj:A][jd:B]C[The follow up would be somethink like black A or B.]
+)
+(;B[fd];W[cf];B[jd]LB[hc:A]C[Black 3 is the normal variation. But white can attack now at A.]
+)
+(;B[gd];W[cf]LB[kc:A]C[The normal extension for black is A. But he cannot play A in this situation and he has no good move.]
+)))

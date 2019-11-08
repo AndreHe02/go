@@ -1,0 +1,330 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.16]
+
+PB[umgalaxys]
+BR[7k]
+PW[dennjirou]
+WR[7k]
+KM[6.5]
+DT[2014-05-05]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[W+17.5]
+TM[300]
+OT[3x20 byo-yomi]
+RU[Japanese]
+
+C[
+-=-
+
+Hi,
+
+There are 2 main points that continuously come up during this review:
+
+1. Single Objective Moves vs. Multiple Objective Moves
+Many of the moves played by Black are Single Objective Moves while White's game was more dynamic.
+
+The 7k rank is about as far as one can get with moves that pack only one objective.
+
+Typical objectives are: "securing a base", "extending along a side", "attacking a stone or weak group", "building good shape", etc.
+Each objective usually has a reverse for the opponent: "removing a base", "destroying shape", etc.
+
+You recognize these objectives, now you must find moves that accomplishes combinations of these objectives at the same time. This is how you will step up your game.
+
+2. Unfavorable exchange of moves
+Almost all the exchanges that occured during this game were disadvantageous for Black (mostly because of point 1 discussed above).
+
+Go is a game of balance. In the game it feels as though Black moves strive for too much and get nothing. You should train your mind to recognize exchanges (favorable, equal or unfavorable) this will help guide you in finding the right combination of objectives for your moves.]
+;B[pp];W[dd];B[dq];W[qd];B[dj];W[oc];B[jq];W[pj]
+(;B[jj]TR[dj][pp][dq][jq]C[
+-=-
+
+Here Black is building a large sphere of influence. For this purpose it is better to use 4th line moves as shown in the variation below.]
+;W[co];B[cp];W[cm]
+(;B[ck]LB[cf:A][cg:B]C[
+-=-
+
+Is Black's purpose with C9 to attack the 2 white stones?
+
+Attacking just for the sake of attacking is not the proper way to play go.
+The proper way is to use attack as diversion. A good attack should hide a deeper objective.
+
+C9 has no deeper objective.
+
+It only gives White a proper attacking move (at A or B) that will carry the deeper objective of extending from his upper corner corner.
+
+More on C9 later.];W[do];B[fq]TR[ck][cp][dq][jq]C[
+-=-
+
+These 3rd line stones are submitting to White's intention of destroying Black's sphere of influence.
+
+The marked stones are in a flat position. It is important to avoid flat positions and try to cause your opponent to be in a flat position instead.
+This flat position gives White ample room to manage his weak group.
+
+Try switching rapidly between this position and the variation from move 9 so you can see how you should adjust your aim in future games.]
+;W[fm]
+(;B[fo];W[fk]TR[dj][jj][ck]C[
+-=-
+
+White is trying to cut the marked stones on a global scale.
+
+White is using the "Divide and Conquer" strategy. This strategy must be countered by staying connected!]
+
+(;B[em]LB[el:A]TR[dj][ck]SQ[fm]C[
+-=-
+
+This is the sort of move that may take weaker players by surprise, but you will have to rethink your style of play as you confront stronger opponents.
+
+This is unreasonable because the marked black stones are too weak. Before you attack you must make sure your stones are strong otherwise the tables will turn on you and you will be the one that is attacked.
+
+White has a weakness at A but will be able to fix it in sente because of this contact move by Black.
+
+Do not force your opponent to fix his weakness, let him waste his own moves to do that.
+
+Note that if the marked white stone had not been there (i.e. no contact) then E7 would be a beautiful attack. But now it is the opposite.]
+;W[el];B[en];W[dl];B[cl];W[dm];B[cg]LB[cg:25][fi:A][cl:23][dl:22]
+[el:20][dm:24][em:19][en:21]C[
+-=-
+
+19 was the contact move that started this.
+
+The important thing to know about contact moves is that they force the groups involved to become stronger.
+
+Before the contact move, Black had the upper hand and White had a weaker position.
+
+Generally, you use contact moves when your position is weaker and you want to strengthen it. In this situation it is White who should be doing the contact moves, but Black is doing all the work for him.
+
+White can then follow along his divide and conquer strategy at A.]
+;W[fi];B[gj];W[fj]LB[ci:A][fj:28][gj:27]C[
+-=-
+
+The exchange of 27 for 28 really weakens the black group on the left.
+
+I noticed there is a peeping frenzy in the 15k to 5k range where players rush to peep as soon as they see the opportunity. Before the peep, you must think about the consequences.
+
+This is not a proper peep because it forces White to become strong (compare with the one that made White heavy in the variation shown at the beginning).]
+
+(;B[fd]LB[df:A]C[
+-=-
+
+Again we see the "Attack".
+
+It is lacking the "... while [deeper objective\]".
+
+Now White has a proper attacking move at A: "attacking while strengthening his corner stone". We can sense White has global awareness and is trying to keep his stones connected while keeping Black disconnected.]
+;W[df];B[dg];W[ef];B[eg];W[fg];B[ff];W[fe]LB[fe:3][fg:2][fi:1]
+TR[ej][fj][gj]C[
+-=-
+
+This looks familiar.
+
+Instead of 3 stones, 9 stones were added for both sides since the position at 18 and it still looks to be favorable for White!]
+;B[gf];W[ge];B[hf];W[eh]
+(;B[dh]C[
+-=-
+
+Without question this is the losing move.];W[he]LB[he:B][dh:A]
+C[
+-=-
+
+In go there is this notion of exchange of moves where one side will get A and the other will get B. Every game has these exchanges and it is important to spot them in order to get your share.
+
+If White gets B, then Black's move at A must be of equal or greater value.
+
+If it is of lesser value then it must at least serve to prepare a future exchange that will be advantageous.]
+;B[if];W[ie]LB[gj:A][hj:B][gl:C][hl:D]TR[fd][fe][ge][he]SQ[jf]
+[jh][jl][jn]C[
+-=-
+
+What happened at F16?
+
+In the game you reinforce several useless stones, but you don't reinforce F16 ???
+
+For example, A is a useless stone yet you will later add a move at B to reinforce it. Also you will reinforce a later useless stone C with D.
+
+Some soul searching is required for you to find out what is happening within you that makes you play like this.
+
+Probably the best explanation is that you were trying to kill the white group. This is what I mean about striving for too much and getting nothing.
+
+Killing a group is a last resort objective for when your opponent is greedily trying to block all your other balanced objectives.
+
+If you have a choice between killing a group and not killing a group it is better to let it live. To succeed in killing you have to be able to play 3 single objective moves for every move your opponent plays (or pack in 2 extra objectives for every one of your opponent's objectives).
+
+The proper way to have dealt with the white group is to attack it from the center and letting it live with little points. The attacking stones will then form a wall (aligned with the square marks) which will be facing the right side. You can the use this wall to drive a territory building attack on the right side. There are many other possibilities (like using this wall to build a second wall facing the top then invade the top side).
+
+Walls are very good structures to build!
+
+But you can't exchange 5th line territory in order to build a wall! F16 is like a cherry on a sunday. What a feast for white!]
+;B[bd];W[cf];B[bf];W[di];B[ch]TR[ck]C[
+-=-
+
+The tables have turned because the Black group was not strong enough in the beginning.
+
+C9 (the 13th move) is a type of move that is hard to understand why it is bad, but once you understand why you will play at another level.
+
+If you have a stone at D10 then a diagonal play like C9 is not in the good direction (C14 is the proper direction from D10) and it's only 36 moves later that it becomes obvious why. Here is was because it let White get on top of Black and crush him.
+
+C9 only works until 15-10kyu, against stronger players it is asking for defeat.]
+;W[ci];B[bi]
+(;W[bj];B[cj];W[ei];B[bg];W[ed];B[cc];W[gi];B[hj]LB[gj:A]TR[jg]
+[jh][ji]C[
+-=-
+
+Black must sacrifice the stone at A.
+
+Black is in danger of being divided in the center again and this is no time to be reinforcing a single stone that is glued to white's group.]
+;W[jf];B[ih];W[jh]TR[ge][he][ie][jf]C[
+-=-
+
+This can only be called a "one million dollar turn" !];B[hh]
+;W[ke];B[eb]LB[eb:65][cc:57][ke:64][jf:60][hh:63][ih:61][jh:62]
+[gi:58][hj:59]SQ[gj]C[
+-=-
+
+Let's look at this exchange.
+
+For the Black side:
+
+1. Got reinforcement for the single stone that was glued to the white group;
+2. Got corner territory.
+
+For the White side:
+
+1. Terrific influence facing the right side;
+2. A Black weak group in the center the he can attack in order to build even more influence and secure his victory.
+
+-=-
+
+I will stop the review here because the rest of the game follows the same pattern: exchange of moves where you get lesser or no value moves and your opponent gets tremendously valuable moves.
+
+It should be good exercise for you to try to spot such exchanges.]
+;W[fc];B[nq];W[ji];B[ij];W[kj];B[kk];W[lj];B[lk];W[mj];B[mk]
+;W[fn];B[eo];W[hn];B[gl];W[fl];B[go];W[hm];B[hl];W[ho];B[jo]
+;W[hq];B[hp];W[dp];B[cq];W[eq];B[er];W[ip];B[gp];W[ep];B[gq]
+;W[io];B[iq];W[jp];B[kq];W[hr];B[bp];W[kp];B[lp];W[lo];B[mp]
+;W[mn];B[kn];W[ko];B[ok];W[oj];B[nj];W[ni];B[pk];W[nk];B[nl]
+;W[nj];B[mm];W[jn];B[km];W[nn];B[pn];W[ol];B[om];W[pl];B[qk]
+;W[nm];B[ml];W[ql];B[qj];W[rl];B[qh];W[jm];B[jl];W[lm];B[ll]
+;W[ln];B[il];W[kl];B[km];W[on];B[pm];W[po];B[qo];W[oo];B[qn]
+;W[op];B[pq];W[oq];B[or];W[pr];B[qr];W[nr];B[ps];W[mq];B[mr]
+;W[np];B[lr];W[ns];B[ir];W[pg];B[qg];W[qi];B[ri];W[pi];B[rj]
+;W[qf];B[rf];W[re];B[pf];W[qe];B[ph];W[og];B[oh];W[nh];B[ng]
+;W[of];B[nf];W[oe];B[rh];W[ki];B[hb];W[fb];B[kc];W[lb];B[kb]
+;W[ic];B[mb];W[lc];B[la];W[nb];B[mc];W[ld];B[nc];W[ob];B[jg]
+;W[kg];B[ec];W[gd];B[dc];W[bm];B[bl];W[bo];B[an];W[am];B[ao]
+;W[bn];B[ap];W[al];B[ak];W[ej];B[bk];W[dk];B[aj];W[cd];B[be]
+;W[ce];B[sf];W[se];B[sg];W[ea];B[da];W[fa];B[ig];W[ca];B[cb]
+;W[ba];B[bb];W[db];B[kf];W[lf];B[da];W[fr];B[gr];W[db];B[je]
+;W[jd];B[da];W[qp];B[rp];W[db];B[ab];W[da];B[fs];W[nq];B[lq]
+;W[im];B[gh];W[fh];B[gk];W[dn];B[os];W[mo];B[tt];W[ms];B[ls]
+;W[gm];B[gg];W[tt];B[tt]TW[ga][ha][ia][ja][ka][la][ma][na][oa]
+[pa][qa][ra][sa][gb][hb][ib][jb][kb][mb][pb][qb][rb][sb][gc]
+[hc][jc][kc][mc][nc][pc][qc][rc][sc][fd][hd][id][kd][md][nd]
+[od][pd][rd][sd][de][ee][je][le][me][ne][pe][kf][mf][nf][pf]
+[lg][mg][ng][kh][lh][mh][li][mi][ek][cn][in][jo][no]TB[ac][bc]
+[ad][ae][af][ag][hg][rg][ah][bh][sh][ai][si][bj][sj][hk][ik]
+[jk][rk][sk][ol][pl][ql][rl][sl][qm][rm][sm][rn][sn][ro][so]
+[qp][sp][aq][bq][hq][qq][rq][sq][ar][br][cr][dr][fr][hr][jr]
+[kr][pr][rr][sr][as][bs][cs][ds][es][gs][hs][is][js][ks][qs]
+[rs][ss]C[umgalaxys [7k\]: ty])
+(;W[bh];B[bg];W[bj]C[
+-=-
+
+In the game, White let you off easily.]))
+(;B[be]LB[he:A]C[
+-=-
+
+The black group has been sealed in! Now it must live on its own. If death is at hand, the proper way of living would be get more room ... while doing something else: reducing the white corner.
+
+Black can also aim at A which is called a "one thousand dollar turn" (a huge move to reduce white's sphere of influence and increase Black's influence at the same time).
+
+White will probably ignore the corner and play A directly.]
+)
+(;B[he]LB[he:A][dh:B][eh:40]C[
+-=-
+
+So the real question is can Black play at A right now? This requires life and death analysis of the black group on the left.
+
+Since this is a fast paced game there is hardly any time to read everything out. Black should me more confident and trust in his ability to survive the onslaught.
+
+Black B (an empty triangle) is just a meek response to White 40 and does nothing resolve the question of life and death (even worse it seems to resolve the question in the direction of death).]
+))
+(;B[eg]C[
+-=-
+
+Black must not let his group get sealed in.];W[fd];B[gg]LB[hd:A]
+C[
+-=-
+
+Now Black can aim at A and White still has to take care of his lower group.]
+))
+(;AW[fe][fg][fi]LB[fe:3][fg:2][fi:1]TR[ej][fj][gj]C[
+-=-
+
+This is what I visualize when I say that White is trying to cut on a global scale. Black must fight tooth and nail to prevent White from getting this.
+
+To obtain this position I added 3 white stones in successive jumps. To balance this we should add 3 black stones somewhere. No matter where you place 3 black stones, the result will be better for White.
+
+Placing 3 black stones in the triangle positions is unrealistic as White will defend the cut before jumping to 2.]
+)
+(;B[fi]LB[cf:A]C[
+-=-
+
+This move does 2 things:
+1. continues to put a bit of pressure on the white group;
+2. contributes to link up the black stones on a global scale (very important!) = prevent white from dividing you.
+
+"Attack while linking up your stones".
+
+Black should aim at A to build a base and approach the corner (again double objectives).]
+)
+(;B[fj]LB[cf:A]TR[gh][gi][gj]C[
+-=-
+
+Here is a more severe way of playing but it is complex.
+
+I won't put any variations because Black should have been playing severely with the 4th line moves discussed earlier.
+
+Black really wants that move at A to complete his base and White wants to get out while dividing Black's formation.
+
+It feels like White is one step ahead and may be able to get the huge point at A first.]
+))
+(;B[cf]LB[gp:A]C[
+-=-
+
+Black would like to secure his stones on the left side.
+
+This is not without danger since White may ignore and continue to flatten black's position with a pressing move at A.]
+))
+(;B[do]TR[fq][gq][hq][fr][gr][hr]C[
+-=-
+
+Instead Black should pounce with D5. This puts the most pressure on White and at the same time it develops the lower side (a deeper objective).
+
+This is the proper way to attack.
+
+In your mind, you should replace the "attack" with "attack while making territory" where [making territory\] can be changed with other deeper objectives as the situation on the goban demands it.]
+;W[bj]LB[ck:A][dm:B]C[
+-=-
+
+When Black played at A in the game, was it because he wanted to defend against a white extension on the side?
+
+Black has nothing to fear from this side extension, he can just keep the pressure on with B.]
+))
+(;AB[jj][dp][jp]AE[dq][jq]C[
+-=-
+
+With 4th line moves it is easier to contain invasions that will surely occur.]
+PL[W];W[cn];B[cq];W[en];B[dm]C[
+-=-
+
+This is a proper peep because it forces white to become heavy.]
+;W[dn];B[fp]TR[dm]C[
+-=-
+
+After this invasion White is heavy* and Black is developing nicely along the bottom.
+
+Compare this position to move 15 of the game. Your focus should be on the difference between the 3rd line stones and the 4th line stones. Notice how the 4th line stones are more involved in the overall fighting. Notice how the 3rd line moves are submissive in comparison.
+
+* heavy = stuck with stones that cannot be sacrificed.
+Compare to D7 which is a light stone. The D7 stone may be sacrificed to make White even heavier.
+
+Black should not try to reinforce D7.]))

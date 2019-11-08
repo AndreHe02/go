@@ -1,0 +1,126 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.17]
+
+PB[Rodgopolis]
+BR[22k]
+PW[aaaaawe]
+KM[6.5]
+DT[2011-06-09]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[W+Resign]
+RU[Japanese]
+
+C[Michael:
+Hi there.  My name is Michael and I'll be reviewing your game.
+
+Having taken a glance at the game, you are correct that you need to work on your fighting.  I'll try to show you some good moves to look for, but with fighting, in my experience it's a learn by doing sort of thing.  I would also suggest picking up a tesuji problem book and working through it.  You don't need to do hard problems, in this case quantity is what's important. :)
+
+Rodgopolis:
+Greetings, grand and powerful Go instructors,
+
+I haven't been playing for too terribly long but I think this game is wonderfully demonstrative of my biggest pitfall: I'm bad in a fight. I feel like I lose most fights I get into, and my opponents can simply put a stone somewhere near mine and it will end in a dragon for them and sad times for me. I think the only reason I do as well as I do is my deliberate attention to whole board strategy, or at least my best approximation of whole board strategy. :) This is my first review request so I super appreciate you guys taking the time.
+
+
+This was a mega friendly beginner's game. My opponent and I fight over all four corners and I lose all four then resign. How might I avoid this (sadly frequent) fate? How can I trade my Nerf bat for a chainsaw?]
+;B[pd]C[aaaaawe: hi!];W[dp]C[Rodgopolis [22k\]: Hullo];B[dd]
+;W[qp]
+(;B[jd]C[Michael: This position is the sanrensei.  I don't know how much you know about it, so I'll explain.  In this position, you're telling your opponent that you want influence, and a lot of it.  And that you're not expecting to make territory in the corners, that you're more interested in the sides and the center.  This isn't necessarily a bad thing.  It's just important to know the meaning of your moves.]
+;W[qf]
+(;B[jp]C[It's certainly not a bad idea to tenuki in this situation.  But I would consider approaching the opponent's corner (see variation)]
+;W[nc]
+(;B[cq]C[Way too early for the 3-3 invasion!
+
+The 3-3 invasion is small.  Usually around move 30-40 is a good time.  After the rest of the board has had a chance to develop in some way.]
+;W[cp];B[dq];W[eq];B[er];W[fr]
+(;B[ep]C[This cut says I want the corner.  But it's painful  This joseki normally goes as in the variation:]
+;W[fq]
+(;B[do]C[Probably a better way to salvage the corner is in the variation (but hopefully you won't have to play it because it's painful)]
+;W[co];B[eo];W[bq];B[bp];W[bo]
+(;B[qe]C[Because you let white get a double approach it's hopeless to try to defend the corner.  It's better to run and try to keep white seperated.]
+;W[qc]
+(;B[cg]LB[lc:A][op:B][oq:C]C[This is a good move, but it's not urgent.  You have a few urgent points on the board.
+
+A will defend your side, see variation.
+B or C is that corner approach that I've been bugging you about. :)]
+;W[gn]
+(;B[mp]LB[iq:A]TR[gn]C[Right idea, but now that white's stone is on the board I'd be worried about white taking your base by jumping to A.  So I'd be looking at a lower move]
+;W[pk]
+(;B[jf]C[This stone doesn't feel like it's doing enough.  It's slow, because it's not giving you much territory and it's not threatening white in any real way.]
+;W[db]C[A bold invasion.  There's no way for you to stop him from living.]
+(;B[cb]C[This is a very nice tesuji.];W[cc];B[dc];W[bb];B[cd]
+;W[bc];B[eb];W[ca]C[This was a very nice sacrifice tesuji.  White lives small in the corner.  You played exactly the right way in this situation.]
+(;B[da]
+(;W[ea];B[fa];W[da];B[aa]C[Misclick?];W[pc];B[od];W[oc]
+(;B[mc]LB[nd:A]TR[od][pd][qe]C[Too soon!  If you think about your go stones like a river.  If you throw a stone in the river it just goes around it, but if you build up a wall you can direct the flow.  By throwing a stone here you're inviting white to play at A, which would be very bad for your marked stones.  You're directing the river right through your own village!]
+;W[nd]
+(;B[oe]
+(;W[lc];B[md];W[me];B[ld];W[le];B[lb];W[fb];B[ec];W[gc]
+(;B[ng];W[ne];B[qb]C[Misclick?];W[qd];B[re];W[of];B[pe];W[pf]
+;B[rd];W[rc];B[pq]C[This approach is too aggressive.  It doesn't work well with your other stones.]
+;W[pp]
+(;B[qq];W[op]
+(;B[sq]C[Jump to the edge?];W[oq];B[or];W[nr]
+(;B[os];W[ns]LB[pr:1][ps:2]TR[nr][or][os]C[This is a classic beginner's pattern.  You should avoid making this if possible.  After this move your group only has two liberties so you need to defend, and you lose sente.]
+;B[nq];W[pr])
+(;B[ps]))
+(;B[oq]C[This is better.];W[nq]C[White can't cut];B[np]))
+(;B[oq]C[You should keep connected.  You don't want to let white split you up.]
+))
+(;B[ne]C[Cut the two stones.];W[mg];B[og]TR[qf]C[Chase the weak group and at the same time you can build a base and attack the marked stone.]
+)
+(;B[ge]TR[od][pd][oe][qe]C[But you should also consider sealing off white.  You've got two problems right now  Your marked group is weak and close to dying.  And white just invaded your top.]
+))
+(;W[nf]C[You can survive if white plays here.  But it's painful.]
+;B[of];W[og];B[ne];W[me];B[mf];W[ng];B[md];W[le];B[lf];W[pf]
+;B[ke];W[pe];B[ld];W[qd];B[me]C[Now white has a huge corner and a huge side.  And you have a huge mess!]
+))
+(;B[of]C[This is better.  See variation of move 49 for why.]
+))
+(;B[me];W[md];B[ne];W[le];B[ld];W[kd];B[lc];W[ke];B[kc])
+(;B[nd];W[md];B[me]
+(;W[ld];B[le];W[ke];B[kd])
+(;W[le]C[You should always consider the double hane, it can sometimes be a powerful move.  Here it doesn't work though.]
+;B[ld];W[mc];B[lf];W[ke];B[kd])))
+(;W[ec];B[fc];W[ed];B[ee];W[fd];AW[fe][ge][gf][hf][hg][ig][ih]
+[jh][ji][ki][kj][lj][lk][mk][ml][nl][nm][om][on][pn][po]AB[gd]
+[he][ff][if][gg][jg][hh][kh][ii][li][jj][mj][kk][nk][ll][ol]
+[mm][pm][nn][qn][oo];B[pp];W[qo]C[The ladder works for white.]
+))
+(;B[fc]C[You must defend your cutting point though.]))
+(;B[eb]C[It's also thinkable from the other side.];W[ec];B[dc]
+;W[fb];B[cb];W[ea]TR[jd]C[Depending on the situation this might be the superior way to play.  But in this case I prefer giving white the corner.  You don't risk having white link up on the top under your marked stone.]
+;AB[jc][je]AE[jd][jf]C[If black were a space lower];B[gd]C[You'd be able to seal white in.]
+))
+(;B[lc])
+(;B[oq]))
+(;B[oq]TR[do][eo][ep]C[This way gives black a base.  And threatens to release the aji of the marked stones.]
+(;W[po];B[lq];W[pq];B[op];W[pm];B[hq]
+(;W[gp]C[White must respond.])
+(;W[tt]C[If tenuki];B[go];W[fo];B[fp];W[fn];B[gp]TR[fn][gn]
+[fo]C[These stones are lonely.]))
+(;W[mq]TR[jp]C[White can consider a pincer, but it's risky, because of your stone.]
+)))
+(;B[lc]C[A]
+(;W[tt]C[White tenukis];B[pc];W[qd];B[pe];W[pb];B[ob];W[qb]
+;B[oc];W[re])
+(;W[pc]C[If white responds he'll get a good result by exploiting blacks bad shape.  There's just no helping it though.]
+(;B[ne];W[qd]
+(;B[re];W[pe];B[od];W[pf])
+(;B[pe];W[re]))
+(;B[nd];W[od];B[oe];W[oc];B[md];W[qd];B[pe];W[re]))))
+(;B[of];W[qc];B[qd];W[rd];B[re];W[rc];B[qe];W[oc]))
+(;B[bp]C[If you really want the corner, you can play this way, but you get a very small corner.  And white gets a thick wall with lots of eyeshape.]
+;W[bo];B[br];W[ap];B[bq];W[cn];B[dr];W[eo])
+(;B[eo]TR[cq][dq][er]C[If you care more about the outside, then it's better to extend.  But in this situation I wouldn't recommend it.  Your marked stones are too weak.]
+))
+(;B[fq];W[ep];B[gr];W[dr];B[fs];W[cr]C[This is the joseki, you get a strong shape to the side and aji from your two dead stones (that you can use later) and sente.  In return white gets the corner.]
+;B[oq]C[After this, now the bottom is big and it's pretty much your's.]
+))
+(;B[op]C[When you have an unbalanced corner (like a 3-4, a 3-5, or a 4-5) it is usually considered urgent to approach the corner.  This is because if your opponent gets the chance first, it's big for him.]
+)
+(;B[oq]))
+(;B[op];W[oq];B[nq];W[pq];B[np];W[qn];B[jp]C[This is just one possibility.]
+))
+(;B[jc]LB[nc:A]C[This is more balanced, you're saying that you care about the top too.  In this situation it's easier to respond to an invasion around A.  Because you already have a stone on the third line that's acting as a pincer.
+
+This isn't to say that you can *prevent* an invasion at A.  But if your opponent invades at A he or she will wind up living smaller or have a weaker group for you to chase.]
+))

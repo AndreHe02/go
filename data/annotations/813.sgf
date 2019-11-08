@@ -1,0 +1,83 @@
+(;FF[4]GM[1]SZ[9]AP[SGFC:1.13b]
+
+GN[Annalisasboy-TrinityServant2.sgf]
+PB[Annalisasboy]
+HA[0]
+PW[TrinityServant]
+KM[5.5]
+DT[1999-04-02]
+PC[Internet Gaming Zone - Lotus Table 16]
+RE[W+0.5]
+US[IGZ]
+GC[Commented by Mike Malveaux, mm@foxinternet.net, for the Go Teaching Ladder]
+
+
+PL[B];B[cc]C[Since TrinityServant requested this game, i will address most of my comments to White.]
+;W[gc];B[ee]LB[ec:a][dd:b][ce:c][cg:d]C[E5 looks unusual, and probably is not Black's best move. One of the other corners would be more usual. White can take advantage of B's inefficient play by making territory with a stone at E7 "a", which threatens to next cut at D6 "b". Or maybe W could approach from C5 "c", threatening the cut, and follow with C3 "d" -- see variation.]
+
+(;W[fe]LB[ge:a][gf:b][ff:c]N[actual W F5]C[In placing your stone right next to the opponent's stone, you are usually giving the advantage to your opponent. W's stone removes a Black liberty, but it simultaneously removes a White liberty -- and now it is Black's turn. I think G5 "a", G4 "b", or F4 "c" would probably be better.]
+;B[fd];W[ge]C[G5 does seem better than G6.];B[ff];W[cg]LB[ec:a]
+[gd:b]C[The 3-3 point is good, but with Black leaving so many cutting points, i would be tempted to play E7 "a" instead. Also, if B pushes through at G6 "b", W will be split and weak -- see variation -- so W should probably play at G6 "b" to prevent that.]
+
+(;B[df]C[Black is clumping up the stones, but with a cutting point protected now, B's shape is strong.]
+N[actual B D4];W[dg]LB[eg:a][ef:b][gd:c][fc:d][gf:e]C[At first i thought this was too timid, but flashier moves like the peep at E3 "a" don't work after B connects at E4 "b". D3 is good for W in the lower left, but since B does not yet threaten this corner, my impulse would be to spend this move reinforcing the right side with G6 "c", F7 "d", or maybe G4 "e".]
+;B[eg];W[eh]LB[cf:a]C[Gives too much sente to Black. Turning the corner at C4 "a" seems better for White.]
+;B[fh];W[di]LB[dh:a][ci:b]C[Diagonal connections like this can be good for making eye shape, but in this case i prefer the solid connection at D2 "a". It leaves one less ko threat for Black, and in the corner like this there is usually enough room for eyes. Also, it avoids the problem White encountered later when Black played the atari at C1 "b".]
+;B[fi];W[ei]LB[cf:a][be:b][fc:c]C[Yose, E1 saves White only 1 point. White should ignore this for now, and choose a bigger move, such as C4 "a", B5 "b", or F7 "c".]
+;B[hf]LB[gd:a]C[Probably B should play G6 "a" first.]
+(;W[he]LB[gf:a][gg:b]N[actual W H5]C[Often, it's better to play forcing moves first. W can push through at G4 "a", forcing B to connect at G3 "b". Then W's H5 is more threatening, plus W has reduced B's territory a little. Back for variation.]
+;B[gd];W[hd];B[fb]C[B is being unreasonable here -- too many weak spots to play like this.]
+;W[fc];B[ed];W[ec];B[dc];W[eb];B[ea];W[da]LB[db:a]C[White shows good use of sente. This is fine for W, but there are enough liberties to play at D8 "a". Pinned to the wall like this, B cannot get away, and D8 would reduce B's territory a bit more.]
+;B[fa]C[This is pointless, Black's stones are captured. Black should turn elsewhere, like G4.]
+;W[ga];B[hc];W[hb];B[ic]
+(;W[id]TR[fe][ge][he][hd][cc][dc]LB[ib:a][gf:b][ch:c][cf:d]
+N[actual W J6]C[Better to approach from J8 "a" instead, because in playing J6, W has reduced the stones around H5, marked, to 2 liberties. Now B can seal the weak spot at G4 "b" in sente. But i don't think this move is necessary now anyway, since B cannot hope to get more liberties than W. With B's new strength around C7, marked, W must defend the three bottom stones with C2 "c", or better yet, play C4 "d" -- go back for variations.]
+;B[ci]
+(;W[ch]N[actual W C2]C[At first, i thought C2 was an oversight, and that W should have connected at D2. On further examination, however, C2 may offer hope for life in the corner. If W D2, B B2 kills -- go back to see variations.]
+;B[dh];W[bi];B[cf];W[bf];B[bg];W[bh];B[ag];W[af]
+(;B[be]N[actual B B5]C[B had a more devastating attack at A2 "a" -- go back for variation.]
+;W[ah];B[db];W[ib]LB[gb:a]C[An oversight. Instead, W must capture at G8 "a".]
+;B[ca];W[gb]LB[da:a][gf:b][ae:c]C[Unnecessary, since B must connect at D9 "a" before playing at G8 -- otherwise B puts himself in atari. Since W doesn't need to connect until immediately after B connects, why not save this for a ko threat, and play somewhere like G4 "b" or A5 "c" now?]
+;B[da];W[ae];B[ad];W[bd];B[ce];W[ac];B[bc];W[cd];B[dd];W[ad]
+;B[ab];W[bb];B[ba];W[aa];B[gf];W[ab]C[W has nicely taken advantage of several B mistakes, and reduced B's territory by about 12 points on the left.]
+;B[if];W[ie]LB[di:a]C[This is dame. Neither player gains by playing J5. In effect, W has given B a free move. But it's actually a little worse than that, because in playing J5, W has given B a ko threat. Now, if B plays H7 or J7, W must answer because 6 stones would be in atari. Fortunately for W, there is no ko.
+
+Instead of J5, W should play D1 "a" and capture a stone, and win by 3.5 including komi.]
+;B[di];W[cb];B[tt];W[tt]C[Black's 14 points of territory + 4 prisoners = 18 points. White's 7 points of territory + 6 prisoners + 5.5 komi = 18.5, so White wins by half a point.]
+)
+(;B[ah]LB[di:a]N[B A2 kills]C[B A2 atari. W can capture at D1 "a", but it just delays the inevitable.]
+;W[ai];B[ag]C[B can keep W down to just 1 eye.];W[bd]C[If W B5 instead, B B6 stops W from getting a second eye.]
+;B[bc];W[ce];B[cd];W[ad];B[be]C[After B sacrifices a stone, W cannot make a second eye.]
+))
+(;W[dh]N[D2 dies];B[bh]LB[ch:a][bg:b][bf:c][cf:d]C[From here, W has 4 choices; none seems to work.]
+
+(;W[ch]N[W C2]C[Let's look at C2 first.];B[bg];W[cf]C[If W B1 instead of C4, then B C4 kills the whole W group.]
+;B[bf];W[ce];B[be]C[White simply lacks the necessary liberties, and is doomed.]
+)
+(;W[bg]N[W B3]C[Now to consider B3.];B[bf]
+(;W[cf];B[be];W[ce];B[bd];W[ag];B[ai];W[ah];B[bi];W[ch];B[bi]
+C[Black can prevent White from having two eyes.])
+(;W[be];B[cf];W[af];B[bd]C[Black keeps W from getting a second eye.]
+))
+(;W[bf]N[W B4]C[B4 doesn't work either.];B[cf];W[bg];B[be];W[ah]
+C[If W tries A4 instead, then B kills with A2.];B[af];W[ag]
+;B[bi];W[ae];B[bd];W[ad];B[ac];W[af];B[ai];W[ch];B[bi]C[B keeps W from getting 2 eyes.]
+)
+(;W[cf]N[W C4]C[Even C4 does not work.];B[ce];W[be];B[bd];W[bg]
+;B[ag];W[af];B[ah]C[Because of shortage of liberties, White cannot put Black in atari without also putting White in atari. Black captures the entire lower left.]
+)))
+(;W[ch]N[W elsewhere]C[White can wait before defending the upper right. In this example, W uses this chance to defend the lower left.]
+
+(;B[gf]N[B G4];W[ib]C[White's upper right is safe even if he waits to defend.]
+)
+(;B[ib]C[J8 does not work for Black either.]N[B J8];W[id])))
+(;W[gf]N[better W G4];B[gg];W[he]C[Next B would likely connect at H3, and W would be free to make territory or shore up existing groups.]
+))
+(;B[gd]N[B push G6];W[hd];B[he];W[gf];B[hc]C[This looks bad for White.]
+))
+(;W[ce]N[better W C5]C[E7 would also work well.]
+(;B[dd]N[B connects D6];W[cg]C[I think this is a better result for W than what happened in the game. W has solid territory in 2 corners. B has a corner, but B's stones are bunched up.]
+)
+(;B[cg]N[W cuts D6]C[If B doesn't make the diagonal connection at D6, then Black can cut. The fighting can get complicated, so i won't pursue the variations, but i think W has the upper hand.]
+;W[dd];B[ec];W[dc];B[db];W[ed]C[If it goes like this, W seems strong and well connected, but B is fragmented and has likely cutting points.]
+)))

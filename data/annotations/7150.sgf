@@ -1,0 +1,159 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+PB[bialalca324]
+BR[9k]
+PW[EpicNaruto]
+WR[9k]
+KM[6.5]
+DT[2009-03-03]
+RE[W+34.50]
+TM[0]
+OT[25/600 Canadian]
+RU[Japanese]
+
+C[Hi! Just looking to review my moves and see what I can do to improve. I am a moyo player and am currently studying how to play for a moyo as white. Any and all comments are appreciated! Thank you
+-- Brandon
+
+R: Hi! My name is Roland, and I'll review your game. At the moment, I'm 3k on KGS. I will prefix all my comments with R:
+
+I've included a few variations in the fuseki to give you a few ideas about building and playing against moyos. This doesn't mean your moves were bad, I just want to give you a few alternatives to think about. In fact, up to move 12 all your moves were very good (at least as far as I can tell with my limited knowledge ;) ).
+
+There is also a little summary on the last move.
+
+As usual, don't take anything I say as absolute truth. I'm not that strong either ;)]
+;B[pd]
+(;W[dp];B[pq];W[dd]C[R: Generally speaking, if black is building a large moyo, it is not a good idea to just build another moyo as white, because blacks moyo will always be one move bigger. Of course your moves up to now are not wrong, but when (and if) black finishes the chinese formation, you're going to have to disrupt the black moyo at some point. See the variation on move 1 for another idea.]
+;B[qk]
+(;W[fq]C[R: See first variation for a different idea, especially if you want to build a moyo. But I think this move is perfectly playable, see second variation.]
+;B[cf];W[dh];B[ef];W[fd];B[fh];W[dk];B[qo]
+(;W[qf]C[R: This is the wrong direction. You are creating a target for black to attack. See variations on this and next move.]
+
+(;B[jq]C[R: While this is a big point, there is something more urgent on the board. See variation.]
+;W[qi];B[nd]C[R: The standard idea in this position is still R15, preventing your next move at S16.]
+;W[rd]C[R: Very good, now your group is almost alive.]
+(;B[qc]C[R: I don't like this. It doesn't really attack the white group very seriously, it just takes the corner. But when black wants the corner, why play the other two stones on the fourth line? See variation.]
+;W[lc]C[R: Very good, exploits the high position of black.]
+;B[nc]TR[nd]C[R: Again, defending the corner. Now the triangled stone (move 17) is completely useless. If taking the corner was the goal, it should have been at this point in the first place...
+
+Usually, the idea of playing the triangled stone on the fourth line is to put more pressure on the white stones on the right side instead of securing the corner.]
+;W[ic]C[R: This is a disaster for black. All white groups are reasonably secure, and black is overconcentrated in the corner. Compare this to the end of the variation on move 15...
+
+I'd say you're comfortably ahead now.];B[bh];W[ci];B[bd];W[cc]
+;B[rc];W[ip]C[R: Ignoring the last black move seems a bit risky, black could attack the white group on the right side now. See variation on next move.]
+
+(;B[gf]TR[rc]SQ[ip]C[R: I don't understand this black move. Right now there are two interesting areas on the board:
+
+First there is the triangled stone. This stone weakens the white group on the right side, so it would be a good idea for black to attack and for white to defend. Second, there is the squared stone that threatens an invasion on the bottom side.
+
+White ignored the triangled move and played the squared stone. Now black has two options:
+1) If black thinks the squared move can not be ignored, black should defend.
+2) If black thinks the squared stone can be ignored, he should follow up with whatever the threat behind the triangled stone was, attacking the right white group. Otherwise, I don't see the point in playing the triangled stone in the first place...
+
+The move in the game defends a group that's pretty strong to begin with, and does not attack anything.]
+
+(;W[fj]SQ[ip]C[R: This is exactly the same mistake as the previous black move. The squared move threatens an invasion, black played elsewhere, so white should carry out the threat. See variation.
+
+This move just enlarges the white moyo a little bit in gote, it doesn't attack or defend anything.]
+;B[ko]C[R: Black defends and builds a big moyo. Compare this with the variation on move 30...]
+;W[me]C[R: What do you want to achive with this move? The black group in the corner is alive, so it doesn't attack anything. It doesn't enlarge any white area, and it doesn't reduce any black area. At best, this move is just dame. It might even push black into the weak white group on the right side.]
+;B[cq];W[cp]
+(;B[br]C[R: See variation.];W[bp];B[bc]C[R: Why invade the corner, strengthening white, and then abandon the invasion?]
+;W[jn]C[R: The problem with this move is that it induces the next black move, and blacks area is growing more than whites area. I still think defending the right side white group would be a good idea ;)
+
+The good thing about this move is that you correctly saw that B17 is just an endgame move and you could tenuki. Most players at your strength just automatically answer at B18. Sure, it's a big endgame move, but there are more important things on the board right now.]
+;B[lm];W[pk];B[ql];W[pl];B[pm];W[om];B[nn];W[gh]C[R: Why tenuki now? What was the plan with the previous three moves?
+
+This move does nothing for white, and it strenghtens black.]
+;B[gg];W[gi]
+(;B[lk]C[R: See variation.];W[nl];B[on];W[kl];B[ll];W[mj];B[jg]
+;W[jj];B[hr];W[gr];B[hq];W[jp];B[kp];W[iq];B[jr];W[ir];B[gs]
+;W[fs];B[is];W[hs];B[hp];W[js];B[kr];W[ho]C[R: A lot of tactical mistakes by black here, but even if black would have connected the three stones, it wouldn't have made that much of a difference...
+
+The question at this point is: Is the last move (H5) really necessary to capture the three black stones? They have nowhere to run...]
+;B[bi];W[bj];B[jf];W[ng];B[re];W[rf];B[qd];W[qe];B[sd];W[lj]
+;B[cb];W[db];B[bb];W[he];B[hf];W[kn];B[ln];W[ih];B[km];W[jm]
+;B[mb];W[lb];B[da];W[ea];B[ca];W[eb];B[rj];W[qj]C[R: Now that your right side group is practically alive, I don't think there is any chance for black to still win this game. Even when living in the bottom left corner black is still behind by at least 20 points.]
+;B[ri];W[ig];B[if];W[rh];B[qm];W[ke];B[aj]
+(;W[ak]C[R: This is dangerous! See variation.
+
+You made the same kind of move at move 96. First look at the variation of the next black move. Then go back to move 96 and try to work out on your own if something similar could have happened back then.]
+
+(;B[kk]C[R: Again a strange tenuki. What was the point in playing A10, when not finishing the sequence?]
+;W[jk];B[ks];W[is];B[of];W[ne];B[oe];W[og];B[ch];W[cj];B[dg]
+;W[eh];B[ai];W[bl];B[fg];W[fi];B[jh];W[kh];B[ii];W[hh];B[ji]
+;W[ij];B[ie];W[hd];B[nm];W[ol];B[fe];W[ee];B[jl];W[il];B[de]
+;W[ed];B[cd];W[ge]
+(;B[ma]C[R: See variation.];W[eg];B[ff];W[la];B[ki];W[mc];B[nb]
+;W[lh];B[ml];W[mk];B[jo];W[io];B[nf];W[mf];B[li];W[mi];B[id]
+;W[jc];B[dc];W[ec]
+(;B[kg]C[R: See variation.];W[lg];B[md];W[ld];B[kf];W[lf];B[hi]
+;W[hj];B[pf];W[pg];B[pe];W[si];B[sk];W[sh];B[sj];W[sf];B[se]
+;W[kj];B[kl];W[jd];B[cc];W[hc];B[im];W[in];B[df];W[je];B[hg]
+;W[tt];B[tt]TW[fa][ga][ha][ia][ja][ka][fb][gb][hb][ib][jb][kb]
+[fc][gc][kc][gd][kd][le][mg][qg][rg][sg][mh][nh][oh][ph][qh]
+[di][ei][ni][oi][pi][dj][ej][gj][nj][oj][pj][bk][ck][ek][fk]
+[gk][hk][ik][nk][ok][al][cl][dl][el][fl][gl][hl][am][bm][cm]
+[dm][em][fm][gm][hm][im][an][bn][cn][dn][en][fn][gn][hn][ao]
+[bo][co][do][eo][fo][go][ap][ep][fp][gp][hp][aq][bq][cq][dq]
+[eq][gq][hq][ar][br][cr][dr][er][fr][hr][as][bs][cs][ds][es]
+[gs]TB[aa][ba][na][oa][pa][qa][ra][sa][ab][ob][pb][qb][rb][sb]
+[ac][oc][pc][sc][ad][od][rd][ae][be][ce][af][bf][ag][bg][cg]
+[ah][rk][rl][sl][mm][rm][sm][mn][pn][qn][rn][sn][lo][mo][no]
+[oo][po][ro][so][lp][mp][np][op][pp][qp][rp][sp][kq][lq][mq]
+[nq][oq][qq][rq][sq][lr][mr][nr][or][pr][qr][rr][sr][ls][ms]
+[ns][os][ps][qs][rs][ss]C[White wins by 34.5 points.
+
+R: Overall, you played pretty well in this game. Congratulations on the win ;)
+
+Your biggest problem seems to be the attack and defense in the middle game. There were a few points where you failed to defend your groups, but fortunately black did not attack. I've pointed out a few of the mistakes for black as well, to show you what could have happened and why defending is important.
+
+Generally speaking, when you want to play for moyos, attacking is extremely important. When you build a moyo, you should expect an invasion at some point, and usually it's not possible to kill the invasion. In order to make the most out of your moyo, you have to be able to attack the invader properly. For learning this, I can recommend the book "Attack and Defense" from the Elementary Go Series.
+
+In this game, you had the additional problem that black played a moyo game, too. Usually it's not a good idea for white to play the "I have a bigger moyo" game, because black will always be ahead a move. For white it's usually a better idea to disrupt the black moyo. But it's also important to not panic and invade prematurely. When you invade, you always lose something elsewhere, and often it's better to just reduce a bit. This is especially true when there are still big fuseki points on the board, for example at move 14 in this game.]
+)
+(;B[hc];W[gd];B[gc]C[R: This looks dangerous. I'm not 100% sure, but I think black can at least get a big ko, or perhaps a seki.]
+;W[hb];B[gb];W[ia];B[fa]))
+(;B[la];W[ka];B[ma];W[kb]C[R: Two points better, and sente.
+
+See if you can work out why this is sente. It's not as obvious as it looks at first glance, and it definitely pays off to look at this kind of situation more closely instead of just automatically replying.]
+))
+(;B[bk];W[ai];B[cj];W[ck];B[aj]C[R: This kind of ko is dangerous, white could lose most of the left side territory. Black doesn't risk nearly as much, so black will have it a lot easier to win this ko or at least get some compensation elsewhere.]
+))
+(;W[bk]C[R: This is safe. Now black can push once more in sente, so this gives away two more points of territory. Since white is ahead, this is better. See variation on the next black move for what could have happened.]
+))
+(;B[pj]C[R: What was your plan for this cut? Never leave a cut behind when you don't have a plan ready...]
+))
+(;B[bp];W[bo];B[br];W[ap];B[aq]C[R: This ko is standard. Black has lots of ko threats against the white group on the right side...]
+))
+(;W[mp]TR[jq]C[R: Something around here (I'm not sure which exact move is best). This invades the black moyo, and suddenly the triangled black stone is under attack.]
+))
+(;B[rg];W[qg];B[rf];W[rh];B[re]C[R: This is just one possible attack. Now the white stones are floating without a base and have to run.
+
+Even better would be to surround the white group while for example making territory in the bottom right, or building strength to invade the top or bottom left later. The inside moves could be kept in reserve as killing threats, forcing white to defend while black gets outside influence in sente.]
+))
+(;B[jc];W[qc];B[pc]C[R: A lot better for black. The top side looks more important than the corner.]
+))
+(;B[qe]TR[qk]C[R: This would be the normal idea in this kind of situation. It prevents white from settling this stone by blocking the slide into the corner, and makes white heavy.
+
+In a way, this is an attack on the white stone. This might seem counterintuitive, since the proverb says to stay away when attacking and to play contact when defending. But the R15 stone is not the attacking stone. It induces W Q14, making white heavy. The attacking stone is already on the board: It's the triangled stone (R9), that prevents an ideal white extension.]
+;W[pf];B[nd];W[qi]TR[qk]C[R: This move is a bit too near to the wall to be efficient, a three space extension would be ideal, but the triangled black stone is preventing that. The white stones are still not perfectly safe and may come under attack later.]
+;B[jc]C[R: Now the white stones in the upper left corner are in an akward position, and may even come under attack later. This indirectly strenghtens the left black group.
+
+Ok, you reduced the black moyo on the right side quite a lot, but black built another moyo on the top as compensation. So black has not lost anything in terms of potential territory. But the balance of power (strong vs. weak groups) is a lot better for black now than in the variation of move 14.]
+))
+(;W[nc];B[pf];W[kc]C[R: Black gets a moyo on the right, white gets a moyo on the top. There is only one slightly weak group on the board, and it is black ;)
+
+The disadvantage is that black still gets to move next on the bottom side. See next variation.]
+)
+(;W[mp]C[R: A move in this area might be even better. It prevents the black double wing formation, and builds a white double wing formation. I'm not sure about the exact move, perhaps a bit farther away from the corner would be better. Anyway, this area looks huge.]
+))
+(;W[mp];B[po];W[jp]C[R: White gets a big (but not very secure) moyo, while limiting the black moyo on the right.]
+)
+(;AW[dc]AE[dd];W[fq];B[de];W[dh];B[fe];W[fc]C[R: This pattern appeared in a pro game, and it's not so different from what happened in the game, so I can't really say anything against these moves. It's just not really consistent with the idea of building a big moyo...
+
+I've included a few more moves just in case you're interested ;)]
+;B[cc];W[cb];B[he];W[hc];B[cj];W[ei];B[cn]))
+(;W[dd];B[pq];W[cp]C[R: This move 4 indirectly prevents the chinese formation. Of course black can still play Q/R9, but now it's not so good. The stone at C4 makes the lower side less interesting.
+
+See http://senseis.xmp.net/?PreventingTheFormationOfTheChineseOpening, if you're interested in more details.]
+))

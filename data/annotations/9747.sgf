@@ -1,0 +1,226 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.16]
+
+PB[MHenry]
+BR[4k]
+PW[om3]
+WR[3k]
+KM[0.5]
+DT[2015-04-26]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[B+Resign]
+TM[1500]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+C[om3: Hi,
+
+this was a game with heavy fighting in which I ended up losing a big group in the lower right.
+
+I tried my best to analyse the game myself beforehand, but for sure you can improve upon this.
+
+Thank you for taking your time!
+
+Cheers,
+Daniel
+
+[aj\] Hello Daniel! My name is Aaron and my comments are prefaced with [aj\]. I am a KGS 2 dan. Thank you for reviewing the game yourself first. It shows you're interested in learning and gives me a better picture of your thinking process. I'll give a brief summary here so you see it, but it might be best to read it after you go through the game. I've added several variations and comments. I tried to focus on big picture concepts and less about tesujis or straight reading because I think that's a skill best learned by trial and error rather than having someone show you the sequences. But it is an area we can all learn and the single best indicator of go strength, so I encourage you to continue practicing reading!
+
+Big lessons I think you should learn from this review:
+1) Give your opponents more credit.
+
+There are several times when you play a move and expect your opponent to play one way, but he plays better. And some variations you show don't find the best move for your opponent. Try to turn the table and try to find the best move for both. It's actually more important to find the best move for your opponent because you can get into danger if you think a move works when it doesn't. But if you think a move doesn't work when it does, you'll probably find a safer variation.
+
+2) Recognize weak groups and how that changes how you play.
+
+This one is more concrete than the previous one. By move 28 you had a weak group of cutting stones at K6 which you played away from and didn't help out. Then you tried to attack a stronger group than your surrounding groups when you played C7 and ended up dying on the left side. Lastly you had a bad feeling when playing N14, but felt like you had to keep up an attack you already knew wouldn't work. I have a lot of comments at move 36 explaining this in a lot of detail.
+
+3) Direction of play.
+
+This is an easy weakness to have, but it'll slowly get better. Having a good direction of play will make your moves be more efficient overall. This is most obvious when you played move 72 at H16 and just strengthened Black's center. But also when you didn't see Black 47, and ignoring your cutting stones at K6. The reason why direction of play is so difficult is it requires constant reading of the board state too see what's important.]
+;B[pd];W[dc];B[qp];W[dq];B[oq]LB[qf:A][qj:B]TR[pd][qp]C[[aj\] B's formation is called the Orthodox Fuseki. A and B are common responses to keep Black from getting an ideal extension from his extension and 4-4 stone. This is usually considered to be better than an encolure for yourself.]
+;W[de];B[jc];W[qj];B[co];W[ck]C[[aj\] I like this pincer, it works well with your enclosure on the top left.]
+;B[ep];W[eq];B[fp];W[gq];B[gp];W[hq];B[hp];W[ip];B[fq];W[fr]
+;B[io];W[jo];B[jp];W[iq];B[kp];W[in];B[ho];W[jn];B[gm]
+(;W[cp]TR[in][jn][jo]C[[aj\] You can't really play away from the marked stones. They are too big because they are cutting stones. If Black plays like in the variation starting at move B35 White will be in trouble.]
+;B[bp];W[bq];B[dp];W[cq]
+(;B[bn]LB[ci:A][il:C][ln:B]C[om3: At this point, I was quite happy with my position. I got quite some territory on the lower side and w's thickness was countered by my cutting stones (k6) and c9. Would you agree with this judgement?
+
+[aj\] I think C9 and K6 are too thin to counter Black's thickness. In order for that to be effecting they need to be strong enough that they can't be attacked, when I think Black can attack both of them. C9 has a weakness at A. And K6 can be pushed whichever direction Black wants, B or C.]
+
+(;W[cm]LB[ci:4][cl:3][jm:2][ao:A][do:B][go:C][ep:1]TR[ck][in]
+[jn][jo]C[om3: Being very confident with my position, I tried to start an attack on the black group. Is this an overplay or do you think it the attack is justified?
+During the game I also thought of peeping at d6 but was afraid that b might cut instead of defending (see variant).
+
+[aj\] In order for an attack to be successful or profitable, you need to find a weak group or a weakness in your opponent's shape. To be considered weak is actually a complicated question. Two conditions must be true. It needs to have bad eyeshape. And it needs to have no access to the center. A good indicator is if it can be surrounded in a single move. But it is more complicated than that. If there is a nearby enemy group which is also weak, then it is stronger by comparison. likewise if it's close to a strong enemy group, it is weaker. If there are nearby friendly stones that are strong, then it is also stronger. The last thing to consider is if the group is important or not. If you don't care about a group of stones and you can safely discard them, then it doesn't matter how strong or weak they are. The middle game of Go is about wading through all of these conditions and making the best attacks and defenses you can.
+
+Black's group at 1 has eye potential around A,  B, and C, and is already out into the center so it is actually quite strong.
+
+Let's look at White's groups.
+The group at 2 is important since they are cutting stones. You almost always want to keep cutting stones because it directly affects the weakness of the two groups it's cutting. Now let's evaluate it's strength. It has no eye shape, but it is easy to get into the center. Also, there are some weak stones nearby (L4) that it can use to get more strength. But it is also next to strong stones. There are no friendly stones it could conceivably connect to. r10 is too far away and isn't strong enough to rely on. Group 2 is weak.
+
+The group at 3 doesn't have good eye potential because of Black's stone at B6. It is also close to a strong enemy group. it can run out to the center some, but the enemy stone at G7 makes it harder. There are some nearby friendly stones at D15, but there's a nearby weakness at 4 that makes it hard to connect. Lastly, it is close to another friendly group that is also weak. This is very dangerous! Black can get a deadly attack if he can lean on one weak group to attack the other.
+
+See my variation to see a possible way for Black to attack.
+
+Looking at the board and understanding a situation like this is a very valuable skill. Try to make a similar evaluation when reviewing your games for practice. With time it'll become easier. A good understanding of these concepts can drastically improve your go strength.]
+
+(;B[dn];W[jk];B[il];W[jl];B[im];W[jm];B[ci]C[[aj\] This is the reason C7 was an overplay. Black is not nearly as weak as White is, so he can get a good attack.]
+;W[hn];B[gn];W[hm]
+(;B[gk]C[om3: This move impressed me. I was hoping for h8 and so on (see variant). Now it seems I am helping w.]
+;W[di];B[dj];W[cj];B[ch];W[fl];B[el]
+(;W[gl]C[om3: In the game, I accepted the deal without hesitation. Now I think, I should have tried a bit harder here (see variant). Is this correct?
+
+[aj\] Given the other variations, this seems reasonable.];B[fk]
+;W[fm];B[em];W[fn];B[ei];W[id];B[he];W[en]C[[aj\] This is very small.]
+;B[dm]
+(;W[cf]C[[aj\] And this is also small. Black is ahead on territory. He has a big side, and a solid corner. White should strive to play more actively since he's behind on territory.]
+;B[eg];W[dk];B[ej];W[ek]C[[aj\] these moves also helped your opponent. White is totally dead here, there isn't any but ko threats.]
+;B[hk];W[ik]C[[aj\] And these two stones don't matter. This move is almost a pass.]
+;B[bm]
+(;W[hd]C[[aj\] Pushing against this stone just lets Black get strength in the center and gain some territory.]
+;B[ge];W[gd];B[fd];W[fc];B[fe]
+(;W[ie];B[mc]C[[aj\] White's direction of play for the last few moves were off. This allows Black to strengthen his position on top.]
+;W[qf];B[rd]
+(;W[qm]LB[hb:1][dc:A][bg:2][qh:7][qj:D][il:3][gm:4][jm:B][rn:6]
+[eq:C][kr:5]C[[aj\] this is a move that's only for points. It doesn't affect any of Black's groups. this isn't good when you're behind on territory.
+
+Let's count the points. White has points at A, B, C, and D. Rough Estimates of points below:
+A: About 20 points because Black 1 is sente, but 2 is sente for White.
+B: Only has about 5 points. It will capture 3 or 4, and will need to make an eye somewhere else.
+C: About 15 points. Sliding to 5 would be good, and sente, but it's Black's move and he will likely play around that area.
+D: About 10 poitnts. Adding amove at R7 doesn't add many points because Black can reduce at 6 and there is still a weakness at 7. 10 points might even be a little generous.
+The total is about 50 points, with no komi. it is unlikely White can make many points in the middle because it is open to Black at the top and the bottom.]
+;B[lq]LB[hb:4][pd:C][hh:3][di:2][ei:B][ck:1][el:A][ro:6][oq:D]
+[kr:5]C[[aj\] This is a big move because it cover's Black's last weakness.
+
+Now let's count Black's points (estimates):
+A: 25 points. This includes the captured white stones at 1 and on the left.
+B: 10 points. This is the captured stone at 2 and in the middle, on the other side of A. I broke it apart to make it easier to count. Black can expect to gain some extra points, if he gets a move at 3.
+C: 20 points. 20 Might be a little generous, but it's close. I counted all the way over to K17, but Black can also get a move at 4 in sente
+D: 15 points. white can get a reducing move around 5 and maybe one around 6.
+Total: 70. White is behind by quite a lot, and Black doesn't have any weaknesses left. This is a bad situation.]
+;W[of];B[oj]C[om3: At this point I felt that I has somehow lost my advantage from the beginning without exactly understanding how it happened. My idea was that I now had to attack p10 strongly. If I could both maintain territory on the right side and also manage to either kill p10 or gather enough strength to invade one of blacks territories (upper or lower right), I may still stand good chances.
+The question now was how to attack p10, I thought about p7 and n10, but in the end I went for n10, for the reasons explained later. Now, I'm not so sure about it anymore...
+
+
+[aj\] Yes, White is now behind. After losing the stones on the left and playing some slow moves at J8 and the wrong direction at H16. But P10 is too far and give White a chance and a stone to attack.]
+
+(;W[mj];B[om]C[om3: At this point I was sure I could cut off b and somehow win the fight.]
+;W[ol];B[pl];W[pm];B[pk];W[nl];B[oh]C[om3: At this point I started feeling a bit uncomfortable, especially since r7 isn't really connected...]
+;W[qh];B[mi]
+(;W[mf]C[om3: I somehow needed to keep the attack going, although now my position starts looks really fragile.
+
+[aj\] Normally when you feel your position feel fragile it's best to secure yourself and wait to attack later. It's difficult and requires dicipline but it will help you win more games.]
+;B[li];W[jh];B[ji];W[ii];B[ih];W[jg];B[pg];W[pf];B[qg];W[rg]
+;B[lf];W[le];B[me];W[mg];B[lg];W[ke];B[ne];W[og];B[ph];W[ri]
+
+(;B[ql]C[om3: Here, black finally carried out what I was afraid of all the time....]
+;W[rl];B[rk];W[rm];B[qk];W[pi];B[oi];W[rj];B[sk];W[pj];B[ok]
+C[om3: At least my r12 group seems pretty alive now. But s7 remains problematic...]
+;W[po];B[nm];W[ml];B[no];W[rp]C[om3: Desperately, I tried to pull off some magic here, but it failed...
+
+[aj\] yes, this is White's last chance.]
+(;B[ro]C[[aj\] this move actually gives you some chances.]
+(;W[qq]
+(;B[pp];W[qo];B[rq];W[op];B[pq];W[oo];B[mm];W[np]C[om3: It did me no good to ignore b141...]
+;B[mo]
+(;W[rn];B[sp];W[nq];B[ll];W[or];B[pr];W[oc]TR[qm][rm][oo][po]
+C[om3: At this point, I realized that I finally lost the bottom right. I now tried to somehow mix up the game by playing as agressive as possible, scored some medium successes but not nearly big enough to catch up. Then I made some stupid blunders, widening the margin again. But I don't think the rest of the game will be worth closer reviewing.
+
+[aj\] Yes, the game is over after the marked white group is dead. No coments follow.]
+;B[od];W[qc];B[qd];W[pc];B[rc];W[rb];B[sb];W[nc];B[md];W[mb]
+;B[lb];W[ma];B[qb];W[pb];B[ra];W[lc];B[la];W[kb];B[ld];W[kc]
+;B[kd];W[jd];B[kf];W[jf];B[je];W[ki];B[jj];W[kj];B[lj];W[bg]
+;B[bh];W[ah];B[ai];W[ag];B[cg];W[be];B[ed];W[ec];B[dd];W[cd]
+;B[hh];W[kr];B[lr];W[kq];B[lp];W[ef];B[fg];W[ff];B[gf];W[re]
+;B[sd];W[go];B[bl];W[hj];B[fj];W[hl];B[kh];W[kk];B[lk];W[jq]
+;B[sj];W[si];B[se];W[sf];B[qe];W[rf];B[pa];W[oa];B[qa];W[ap]
+;B[bo];W[ls];B[ms];W[ks];B[mr]
+(;W[ke];B[nb];W[ka];B[nd];W[mh];B[lh];W[nh];B[nf];W[ng];B[ni]
+;W[ln];B[lm];W[lo];B[mp];W[mn];B[nn];W[ao];B[an];W[aq];B[hf]
+;W[aj];B[bi];W[do];B[eo];W[fo];B[do];W[dg];B[dh];W[df];B[bj]
+;W[hi];B[gi];W[ig];B[hg];W[ps];B[qr];W[sn];B[sl];W[je];B[le]
+;W[na];B[ob];W[tt];B[lb];W[ib];B[la])
+(;W[nb]))
+(;W[ni];B[nh];W[nj]
+(;B[mh]C[om3: This doesn't seem to work either. B simply has more liberties.]
+)
+(;B[ll]C[[aj\] Black would kill White outright with this move.]
+)))
+(;B[rq];W[pp];B[sp];W[pq]C[om3: I was hoping that I could gain some liberties this way and finally win the capturing race against p11.]
+))
+(;W[pp]C[[aj\] This is the weakness in the shape.]
+(;B[pq];W[qq];B[qo];W[rq])
+(;B[qq];W[pq];B[pr];W[or]
+(;B[nr];W[qr];B[os];W[rq];B[qo];W[rr])
+(;B[qr];W[np]C[[aj\] tesuji.];B[nq];W[mo]C[[aj\] Another tesuji]
+;B[mp];W[nn]))))
+(;B[rq]C[[aj\] this move would firmly kill White, and there's not much aji left.]
+))
+(;B[rk]C[[aj\] To show how perilous your position was, consider Black playing here instead. You can still make life, but it damages R7 even more.]
+))
+(;W[li];B[mh];W[mp]C[[aj\] It might best to play a ladder breaker here]
+;B[mq];W[on]C[[aj\] It's unlikely White can kill black, so it's better to secure your stones so you don't get into trouble later.]
+;B[lh]C[[aj\] It's unlikely White can kill black, so it's better to secure your stones so you don't get into trouble later.]
+))
+(;W[om];B[li]C[om3: During the game I thought that in this position it would be hard to keep on attacking, as b can run in two directions.
+
+[aj\]  You might be right. Black's shape is pretty light and flexible.]
+))
+(;W[mq]C[[aj\] attacking here is good.]))
+(;W[nc]TR[gd][hd][id]C[[aj\] Now White needs to use the wall at H16 and attack somewhere. A Black move up here would secure lots of territory and would mean the marked stones didn't accomplish anything.]
+))
+(;W[jd]C[[aj\] Should be here to attack the stone on top.]))
+(;W[jd])
+(;W[nc]TR[qj]C[[aj\] this is perhaps the best way to start. But it will be a little difficult because the marked stone is weak.]
+;B[qf]C[[aj\] Black might play here to weaken R10 more. Now it can't get a two space extension on the side.]
+;W[jd]C[[aj\] White could continue the attack here, but if Black gets sente from the top...]
+;B[ql]C[[aj\] Black has a good follow up against this stone. I think this is possibly only because White has a very strong wall in the center to run towards.]
+))
+(;W[ek]
+(;B[dk];W[dl];B[ej];W[em];B[fk];W[gl])
+(;B[fk];W[ej])
+(;B[ej];W[fj]
+(;B[ei]C[[aj\] Of course Black won't play like this.];W[dk]
+;B[fk];W[gl];B[em];W[gj];B[hk];W[hj])
+(;B[dk]TR[cj][ck][cm]C[[aj\] This works much better for Black. There's no way to rescue the marked stones.]
+;W[dl];B[fk];W[em];B[ek];W[gl]
+(;B[hl]C[[aj\] Black can probably play here.];W[fm];B[hk];W[fn]
+;B[go];W[dm];B[bm]C[[aj\] But it gets complicated.])
+(;B[fm];W[hl];B[dm]C[[aj\] Black can also play like this. It's safer and still a good result for him.]
+))))
+(;W[em]C[[aj\] This move looks interesting. It took me a long time to find it though. I may not have found it in a game since E9 seems like the more natural move.]
+
+(;B[ej]C[[aj\] Black needs to prevent the ladder at E10.];W[ek]
+LB[fj:A][gl:B]C[[aj\] This moves seems to make miai of A and B. But it is still a complicated position. Feel free to read out a few variations.]
+)
+(;B[ek];W[ej]C[[aj\] Black can't save like this.])
+(;B[dl]C[[aj\] But this ugly looking move might actually save Black. It's a very complicated situation.]
+)))
+(;B[hl];W[gl];B[gk];W[fl];B[hj];W[hk];B[ik];W[ij];B[hk];W[fk]
+;B[fj];W[hi];B[gj];W[ej];B[fi];W[ei];B[fh];W[eh]C[om3: I was hoping for something like this. But my opponent wasn't stupid.
+
+[aj\] Black definitely won't play this way. If you were Black, is this how you would play? It's important to give your opponent at least as much credit as yourself. If you see one variation that's good for you, make sure there isn't another move your opponent could play that is more reasonable.]
+))
+(;B[ln];W[il];B[gk];W[ij];B[ci]))
+(;W[dn]
+(;B[cm]C[om3: This is what I was afraid of.
+
+[aj\] Black has a better response. See my alternate move.];W[dm]
+;B[dl];W[cl]
+(;B[el];W[do]C[om3: This doesn't seem to work for b.];B[cn]
+;W[ap];B[bo];W[ao];B[bl];W[an];B[bm];W[bk])
+(;B[do]C[om3: But b might try this, which would become pretty complicated, since the ladder doesn't work for me.]
+;W[fm];B[fl];W[el];B[dk];W[ek];B[dj];W[bi])
+(;B[em]C[[aj\] This also appears to work for Black.]))
+(;B[do]C[om3: If w had to answer like this, I'd be happy.];W[cm]
+)
+(;B[dm]C[[aj\] It's more likely Black will play here. White doesn't have any good answer to this response.]
+))
+(;W[ln]C[[aj\] This move is aiming at N3 and capturing Black's cutting stones so he should respond.]
+;B[mp];W[ch]C[[aj\] White playing this way would also not be bad. This keeps White at 1 weak group. Black still isn't weak so it can't be attacked effectively. In this variation White has more secure territory than Black.]
+))
+(;B[ln];W[il];B[gk]LB[cg:B][ci:A]C[[aj\] If B were to play like this, W would be really weak and it would help B get into the center. He can also aim to invade at A or B next.]
+))
+(;W[jk];B[gk];W[ch]C[[aj\] Something like this might be better. It would strengthen W in the center, then defend your territory on the right side. Black still isn't fully alive yet and still has some weaknesses at the top and bottom.]
+))

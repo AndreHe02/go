@@ -1,0 +1,231 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+PB[Chris]
+PW[GnuGoCE]
+WR[18k]
+KM[6.5]
+RE[B+3.00]
+RU[Japanese]
+
+C[Black: Chris ?k
+White: GnuGoCE 18k
+Komi: 6.5
+Result: B+3
+
+[Chris\] Hi. I'm quite a beginner in go so any suggestions are welcome. I especially have trouble knowing when to switch to another part of the board or when to play another stone in the current part.
+I'm also having trouble creating eyes while attacking/defending, so any help here would be cool.
+I know, computers are no good enemies as they lack real quality, but I can play sitting in the bus or metro :)
+Thanks in advance. Any strength estimation? I'd guess about 20k.
+
+Degan: You should take some guidance from prverbs: "When in doubt, tenuki."  If you are not sure if you should continue playing in a small fight, then play somewhere else, big.  You might be wrong, but then at least you made a big move.
+
+Degan: You might look to ake some games at DGS (Dragon Go Server) which is turn based, you can play many games at the same time, at whatever pace is appropriate for you.  I generally spend ~10 minutes making ~5 moves.
+
+Degan: Nothing wrong with playing the PC, except that you will find some flaws in its game, exploit them, and they will never learn.  Play agains the program and try different things.  Read books, for your level, I recommend the "Learn to Play Go" series by Janice Kim.  It is very straight foward and easy to read.
+
+Degan: Now I will look to your game...
+
+Degan: I sped through first just looking at the progression of the game.  There are few points (moku) that can be earned in the center of the board, think of making territory on the corners and sides first.  Look at your shapes at the end of this game; look at white's shape.  Black has tall shapes starting on one (!) corner and two sides extending toward the center.  White spreads out from the corners alsong the sides better.  Still, the white computer isn't that good, you won!
+
+Degan: Now see detailed comments and hopefully answers to your questions, as I go through your game slowely.]
+;B[dd];W[pd];B[po]LB[pp:B][qp:C][oq:A][pq:D]C[Degan: You tempt an early fight from white at A.  B, C or D are more conservative.  Generally, white should be stronger, and so should be looking for fights, maybe...]
+;W[ep];B[oq]C[Degan: Good shape.];W[cf];B[co]LB[fc:A][cp:B]
+C[[Chris\] Does this makes sense, or should I first play in upper left corner?
+
+Degan: I would have played A.  You now have two fights started, upper left corner and lower left.  If I were going to start a fight for the lower left corner, I would play at B instead.]
+;W[qm]LB[fc:A][cq:B]C[Degan: Bad move by white. A and B are much more urgent.]
+;B[jd]LB[fc:G][dd:D][gd:A][md:B][cf:C][qk:F][cq:E]C[[Chris\] I thought this ok as I can play either A or B afterwards
+
+Degan: Somewhat.  A two point extension on the fourth line is not a completely solid base.  C is still sitting there approaching D and the lower corners have urgent moves now as well, at E and F for black.  You move still leaves G as a reasonable move for white.  I will branch to this to see how it might work.]
+
+(;W[ro]
+(;B[rp]LB[qn:B][qp:A]C[[Chris\] Or better something like A or B?
+
+Degan: I do not use the 4-5 / 3-5 shimara very often, but this response looks wrong to me.  I will try some branches.  A seems to be better.]
+
+(;W[fc]C[Degan: Inevitable.];B[ee]C[Degan: Corner (3-3) is worth more (to me, I think better players than I might pick your move...).]
+;W[cc];B[dc];W[cd];B[cb];W[bb];B[eb]LB[da:E][db:A][fc:F][md:B]
+[df:D][qk:G][jp:H][cq:C]C[[Chris\] Is this ok? Or should I play A here? I tried to start building an eye?
+[Chris\] I also thought about playing something completely else like B, C or D.
+
+Degan: A move here is urgent.  I generally like E best, but with F sitting there, I would probably choose A.
+
+Degan:  As I wrote in the begining, tenuki can always be OK.  C is huge.B and D are too small.  G forces a response, H is also huge.]
+;W[qj];B[gp]LB[nc:C][pf:B][qj:A]TR[qf][pg][qg]C[[Chris\] Can I invade somewhere at the triangle points instead?
+
+Degan: Yes.  Though with the solid shape at A, B is probably you best approach.  Maybe C.  You are not playing too much for territory.  Line 3 is for territory, line 4 is for influence.]
+;W[en];B[cm]LB[dq:A]C[Degan: look how big A would be instead.  Priority: Corners --> sides --> center.  Do not get side when you can get corner.]
+;W[iq]LB[dq:A]C[Do I have to flee here, or can I abandon g3 for the time?
+
+Degan: Abandoning G4 gives white a base here.  Though I would still take the corner and and abandon G4.]
+
+(;B[kq]LB[lp:B][lq:A][mq:C]TR[gp]C[[Chris\] Do I have to defend G4? I thought I'd better make territory on the right. Or is this to early to leave the guy on G4?
+
+Degan: However, this is creating a nasty and complicated fight that might determine the whole game.  It is very good that you are able to release a single stone to make greater gains.  I would have extended to A instead, maybe B.  Your move invites the fight at C.]
+
+(;W[io];B[ko];W[gn];B[dq]LB[dp:A]C[[Chris\] To deep propably. Maybe A?
+
+Degan: Yours is the right move.  A is too small.];W[eq]LB[dr:A]
+C[Degan:  You should think of reponding to this play.  A is very worthwhile.]
+
+(;B[nc];W[qf];B[ci];W[ca];B[od]LB[hc:A]TR[cb]C[[Chris\] Is C18 worth defending now?
+
+Degan:  Maybe A is better than directly saving C18.];W[pc];B[oe]
+;W[db];B[ec];W[dr];B[pf]C[Degan: Corners --> Sides --> center.  Here you are giving-up a corner to make gains in the center.]
+;W[cp]C[[Chris\] I'm in trouble now!];B[do];W[qh];B[pg]LB[hc:B]
+[mh:C][dp:A]TR[dq]C[[Chris\] Again I was not sure if I should rescue D3?
+
+Degan: A is OK, but most of the value of the corner is gone.  B is still big.  C (or close by) is important.]
+;W[ni];B[nh];W[li]
+(;B[lg]LB[lh:A];W[jh];B[jg]TR[nc][od][oe][pf][pg]C[[Chris\] Those last three moves did not make mem happy. I thought I had some influence due to the triangle stones but I dont like my position now.
+
+Degan:  The tope seems resolved to black.  With the strong base on the right white can afford to extend to center.  Black can push up from bottome right corner.]
+;W[fb];B[ea];W[fd]LB[fe:A]TR[hb][hc][hd]C[[Chris\] How best to defend? Making eyes and keep my influence/territory. I thought about playing to one of the marked stones but prefered stopping white playing top the center.
+
+Degan: I like A.  I think white is dead.];B[fe]
+(;W[hb];B[jb];W[hd];B[ge]TR[df][dg]SQ[ee][fe]C[[Chris\] I'm not really happy with the outcome here as I thought moves to the triangle stones would have made territory but the quad stones are very limited.
+[Chris\] I thought white dead. Am I right?
+
+Degan:  Playing at the triangles is OK.  The squares are correct.  White is dead.]
+;W[dp];B[qo];W[eo];B[pm];W[ql];B[pl];W[bo];B[bn];W[bp];B[dk]
+LB[df:E][ig:F][gh:H][ih:G][nk:D][em:A][jm:C][km:B]C[[Chris\] I was thinking about moves like A-H making territory-effort.
+
+Degan:  The move you did was better than these others.];W[ml]
+LB[ob:C][bg:B][mn:A]C[[Chris\] Now i am afraid about the corner. Should I have played to move before on N8?
+
+Degan: N8 does not threaten the corner group, which has a solid base, it takes away that groups's extension into the center.  It may be worth a defensive response to consolidate gains, like, A.  B & C may be larger.]
+
+(;B[nm]LB[mm:A][mn:B]C[[Chris\] Better A? Or something else?
+
+Degan: I like B here better, but may not matter too much.  See variations.]
+
+(;W[de];B[ed]C[[Chris\] No eyes yet :( although I don't worry about my group there. What did I make wrong?]
+;W[ef];B[ff];W[qg];B[eg];W[ig]
+(;B[jf]LB[hd:D][if:A][lg:C][ih:B]C[[Chris\] I was afraid about A or B but my move seems a bit timid.
+
+Degan: Given C either A or B should work, but your move was good too.  The task is to ensure that D cannot escape.]
+;W[ii];B[kh];W[ki];B[if];W[hg];B[hf];W[rn]LB[bh:A];B[df]LB[bh:A]
+C[[Chris\] I thought white would defend...
+
+Degan: This move may be pretty small, which is why white is working to get gains elsewhere.  A looks big for white.]
+;W[sp];B[rq];W[sq];B[sr];W[so];B[rr];W[jr];B[qn];W[ms]LB[rm:A]
+[kr:B]TR[jr]C[[Chris\] ouch! Now I did not know what to do. Kill on A? Defend on B which did non work out nicely. I think I should have reacted to the triangle stone earlier...
+
+Degan: Allowing the monkey jump (triangle to circle) is about 10 moku.  Not responding to the circle is huge.]
+;B[kr];W[ks]
+(;B[lr];W[ls]
+(;B[mr];W[nr];B[nq];W[rm]C[[Chris\] So now I lost territory AND did not kill the white group :(
+
+Degan:  But you did not lose so much...  This will come from experience.  See some variations.]
+;B[or];W[ob];B[nb];W[km];B[ln];W[gk];B[jn];W[ns];B[os];W[js]
+;B[jm];W[gr];B[cg];W[ce];B[fi]C[[Chris\] I wanted to create some territory there...
+
+Degan: There is not much territory in the center, especially late in the game.  Try for small, achievable goals.]
+;W[jl]
+(;B[il]C[[Chris\] Trying to keep whites territory small];W[im]
+;B[kl];W[ll];B[jk];W[mh];B[ng];W[oi];B[lm];W[bg];B[bh];W[hm]
+;B[nl];W[mg];B[mf];W[lh];B[kg];W[an];B[am];W[af];B[jq];W[ir]
+;B[fk];W[fl];B[fj]LB[ek:B][el:A][dm:C]C[[Chris\] Is this necessary? Or better play to something like A-C?
+
+Degan: C prevents a white snapback here.  Your move is probably the best locally.]
+
+(;W[dm]
+(;B[cn];W[cl];B[bl];W[dl];B[ck];W[ao];B[bk];W[pe];B[hh];W[ih]
+;B[gg];W[hi];B[gh];W[hl];B[ik];W[ph];B[og];W[pk];B[mk];W[lk]
+;B[mm];W[kk];B[kn];W[nk];B[da];W[jj];B[cb];W[ba];B[ok];W[mj]
+;B[pj];W[qk];B[oj];W[db];B[nj];W[jp];B[kp];W[oa];B[na];W[pi]
+;B[ol];W[oc]
+(;B[nd]LB[oh:A]C[[Chris\] Necessary?
+
+Degan:  No, but that may no be obvious.];W[jo];B[in];W[ho];B[ek]
+;W[el];B[ah];W[ag];B[cb];W[gj];B[db]
+(;W[ae]C[[Chris\] ??? :)
+
+Degan: It is a computer...  It sees, seki.  See variation];B[gi]
+;W[mk];B[jl];W[ij];B[hk];W[hj];B[bm];W[hn];B[dn];W[oh];B[tt]
+;W[tt]TW[aa][pa][qa][ra][sa][ab][pb][qb][rb][sb][ac][bc][qc]
+[rc][sc][ad][bd][qd][rd][sd][be][qe][re][se][bf][rf][sf][rg]
+[sg][rh][sh][ji][mi][qi][ri][si][kj][lj][rj][sj][rk][sk][gl]
+[rl][sl][em][fm][gm][sm][fn][sn][fo][go][ap][fp][gp][hp][ip]
+[aq][bq][cq][dq][fq][gq][hq][ar][br][cr][er][fr][hr][as][bs]
+[cs][ds][es][fs][gs][hs][is]TB[fa][ga][ha][ia][ja][ka][la][ma]
+[fb][gb][hb][ib][kb][lb][mb][fc][gc][hc][ic][jc][kc][lc][mc]
+[fd][gd][hd][id][kd][ld][md][he][ie][je][ke][le][me][ne][ef]
+[gf][kf][lf][nf][of][dg][fg][ch][dh][eh][fh][ai][bi][di][ei]
+[aj][bj][cj][dj][ej][ak][al][km][om][mn][nn][on][pn][lo][mo]
+[no][oo][lp][mp][np][op][pp][qp][lq][mq][pq][qq][pr][qr][ps]
+[qs][rs][ss]C[I think I was lucky in the end to win this.
+
+Degan: enjoy your victories. Good game.  Please write wiht any questions.]
+V[3])
+(;W[gi];B[ae];W[bf];B[ac]
+(;W[ab];B[bc]C[Degan: death])
+(;W[bc];B[ab];W[ad];B[bd]C[Degan: seki])
+(;W[bd]
+(;B[ad];W[ab];B[hj];W[bc]C[Degan: White lives])
+(;B[bc]C[Degan: death for white]))))
+(;B[ah];W[nd]
+(;B[md];W[ne];B[of];W[oh];B[nf];W[me];B[le])
+(;B[ne];W[md];B[lb];W[me];B[lf];W[oh];B[nf];W[lc]
+(;B[kc];W[mb])
+(;B[mb];W[mc];B[kc]))))
+(;B[dl];W[cn];B[dn];W[cn]))
+(;W[ek];B[el])
+(;W[el];B[dl];W[dm];B[cn];W[cl];B[bl]))
+(;B[hm];W[im];B[in];W[il];B[hn];W[gl];B[hl];W[hk];B[gm];W[fm]
+;B[go];W[ho];B[fn]))
+(;B[nr];W[mr];B[mq];W[ns];B[os];W[js];B[rm]))
+(;B[nr];W[mr];B[mq];W[lr];B[lq];W[ls];B[ns];W[js];B[nq];W[rm]
+))
+(;B[if];W[jf];B[kg];W[ie];B[hf];W[je];B[hg]
+(;W[hh];B[ih];W[ii];B[gh];W[dg];B[dh];W[eh];B[fg];W[di];B[ch]
+;W[ei];B[ig])
+(;W[ih];B[hh];W[le];B[ld]
+(;W[mg];B[mh];W[mf];B[lh];W[oh];B[ng];W[og];B[nf])
+(;W[kd];B[kc];W[id];B[jc];W[ke];B[lc]
+(;W[ic];B[gc];W[ib];B[gd])
+(;W[gc];B[ic];W[ia];B[ga])))))
+(;W[mm];B[mn];W[nl];B[nn];W[ln];B[lo];W[pk];B[ol];W[ok];B[rn]
+;W[rm];B[qn]))
+(;B[mn];W[nm];B[nn];W[om];B[on];W[ok];B[pk];W[pj];B[qk];W[rk]
+;B[rn];W[rl])
+(;B[mm];W[nm];B[nl];W[nn];B[mn];W[ol];B[ok];W[nk];B[pk];W[no]
+;B[np];W[mo];B[lo];W[ln];B[lm];W[kn];B[kl];W[mp];B[mq];W[lp]
+;B[kp];W[lq];B[lr];W[op];B[nq];W[pp];B[qp];W[pq];B[oo];W[rq]
+))
+(;W[ge];B[gf];W[he];B[hf];W[ic]
+(;B[id];W[hd];B[jc];W[hb];B[ib];W[hc])
+(;B[jc];W[ie];B[ib];W[hb];B[hc];W[id];B[gb];W[gc];B[ha])))
+(;B[lh];W[mh];B[mg];W[mi];B[ng];W[lg];B[kh];W[ki];B[jh];W[ji]
+;B[hg];W[hc];B[ic];W[ge];B[gf];W[fb];B[ea];W[ib];B[jb];W[hb]
+;B[fa];W[ga];B[ia];W[id];B[hd];W[jc];B[kc];W[ie];B[he];W[if]
+;B[hf];W[ic];B[kb];W[kd];B[je];W[jf];B[ke];W[ld];B[le];W[lc]
+;B[lb];W[nd];B[md];W[mc];B[mb]))
+(;B[dr]LB[er:A]C[Degan:  If white does not play A, she will have to run to the center.]
+))
+(;W[mq];B[ko];W[mo];B[lm];W[on];B[ip];W[gq]C[Degan: OK, maybe not a terrible fight...]
+))
+(;B[dq];W[eq];B[er];W[gq];B[fq];W[fr];B[dr]
+(;W[fp])
+(;W[gr];B[fp];W[eo];B[hn];W[ho];B[go];W[gn];B[hp];W[io];B[ip]
+;W[jp];B[jo];W[in];B[hm];W[jm];B[fn];W[gm];B[gl];W[fm]))
+(;B[gn];W[cq];B[fq];W[eq];B[ip];W[lq];B[jq];W[jp];B[hq];W[ir]
+;B[kq];W[kp];B[kr];W[lr]))
+(;W[qp]
+(;B[rq];W[qq];B[rr];W[qr];B[qo];W[rn];B[qs];W[ps];B[rs];W[or]
+
+(;B[nr])
+(;B[sr]
+(;W[sp]C[Degan: Black is dead.];B[pr]
+(;W[pq];B[pp];W[pr];B[nr]C[Degan: No, white is dead...])
+(;W[pp];B[os];W[nr];B[op]))
+(;W[nq];B[sp];W[no]C[Degan: both live, black is tiny.white is huge.]
+)))
+(;B[qq];W[rq];B[rr];W[sp];B[qr]C[Degan: Black saves corner.]
+)))
+(;B[qp]LB[qp:A];W[rp];B[rq]C[Degan: Bigger corner for black.]
+)
+(;B[qn];W[rn];B[qp];W[rp];B[rq];W[qo];B[qq];W[pn]C[Degan: A was a clearly better result than B.]
+))
+(;W[fc];B[cc];W[ee];B[hc];W[dj];B[nc]LB[jd:A]C[Degan: White encloses the upper left corner, get influence toward the center and a strong upper left side.  Black gets a small upper left corner and a good top side.  I would call this OK for black. So, your answer is A was OK.]
+))

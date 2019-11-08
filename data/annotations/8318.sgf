@@ -1,0 +1,161 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.17]
+
+PB[uPWarrior]
+BR[6k]
+PW[garyswart]
+WR[5k]
+KM[0.5]
+DT[2011-04-14]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[B+8.5]
+TM[1200]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+C[[Hi!
+I played black in this game on KGS and eventough I managed a close win I'm at a loss at what I should have done differently.
+
+A rather small KO emerged at the start of yose. I felt like my opponent kept playing ko threats which I had to answer, but that didn't give him any profit while I was able to take most of the big yose points. I eventually won there.\]
+
+GL: Hi, I'm Graham Lamburn (johndoe69 on KGS), currently around KGS 2d. I hope to give useful comments and insights where I can (marked with GL:) and have tried to answer your questions, and I've summarised the key points at the end of the sgf.
+
+Where I'm offering or annotating variations that deviate from the game, I mark the game move with a square and the deviation with a triangle. If I'm simply offering alternative moves as a comment, I normally mark each with a triangle, and most variations have a comment at the end.]
+;B[pd];W[dd];B[qp];W[dp];B[oq];W[qj];B[fc];W[id]TR[fe]SQ[cc]
+(;B[cc]C[[I decided to keep things simple and I think the final result was ok\]
+
+GL: Yeah, this is fine. Because you have Q16 a pincer is also very reasonable, but White's J16 stone is quite hard to attack as it is high.]
+;W[dc];B[cd];W[de];B[db];W[eb];B[cb];W[ec];B[cf];W[nc]TR[fb]
+[qf]SQ[oc]C[GL: Joseki is to only tenuki here as White if J16 is a low tight pincer (at H17). Here, the aji is very high, and Black can simply descend to F18 and connect (see continuation), and normally can do so in sente. Responding to this move is urgent enough to play first, but knowing that White has almost no territory at the top is valuable.]
+(;B[oc]C[*** Don't kick a 4-4 approach unless you already have a pincer ***
+
+GL: This is almost always bad. White's building influence at the top, and hoping to create the beginnings of a moyo. The last thing Black should want to do is force White to increase his strength. Simply pulling back to R14 is fine, and later you may well have pincer or reduction chances on top.]
+;W[nd];B[qf];W[qm]TR[fb][fq]SQ[gp]C[[What are the next big points?
+Bottom seems important and I feel like I chose kakari the lone white stone, but I'm not sure what approach to choose.
+I also considered a move around K4, but it felt small.\]
+
+GL: Because P3 and C14 are both low, the approach to D4 is limited in the scope it gives you to expand. However, they are still the last remaining important fuseki points, so F3 and C6 should probably be first considerations.
+
+However, you can also consider something like O14 or J14 to reduce the potential at the top. White has a joseki continuation with E13 (mostly forcing C13), it would be painful for White to get E13 and O14, as the moyo threatens to grow very large.
+
+Now would also be good timing for F18, which is begging to be played before the aji has gone.]
+(;B[gp]C[GL: A very unusual approach! Playing high like this is normally because you have large influence, or a thick wall, facing this stone from the lower right. As you have a corner shimari facing in the other direction, and is therefore low with respect to the bottom, it will be very hard to convert this move into something valuable. The advantages of approaches at F3 are that you either get the corner or some solid territorial returns (see vars).]
+;W[jp];B[lp]C[GL: A very interesting idea. White is playing with fire a bit, so depriving K4 of a base is very valuable. You might also want to consider M3 here as this gives White some scope for sabaki (contact plays at M3 for example can be hard to handle satisfactorily now).]
+;W[kq]TR[lq]SQ[cn]C[GL: A bad move by White, allowing Black to make his group very heavy.]
+(;B[cn]C[*** Blocking the shoulder hit against a weak group, is both big and urgent ***
+
+GL: A nice change of direction globally, but a blunder locally. Black simply must block at M3, forcing K4 into a very difficult situation. The key shape point of J3 then looms, and White has no way of making two local eyes. White pushing at M3 now is very painful.]
+;W[co]C[GL: Very lucky! Not only did White respond, but he made Black stronger.]
+;B[dn]C[GL: Good, the only move.];W[fq]TR[gq]SQ[dj]C[GL: Again White helps Black, as L3 and K4 are still very destabilised.]
+(;B[dj]C[*** Blocking the shoulder hit against a weak group, is both big and urgent ... again :) ***
+
+GL: There is simply no move other than G3. You seal White into the corner (and can still aim at C3 later to attempt to take the whole corner), and after G3 White has to deal with the L3 group again.]
+;W[gq]C[GL: Very very painful for Black.];B[hp];W[hq];B[fn]
+;W[jn];B[fd]C[GL: F18 is better, making miai of E19 and F15. Here, White can simply undercut too easily, and you make yourself a heavy group.]
+;W[fb];B[ff];W[ce]C[GL: White should just push at D14.];B[be]
+;W[df];B[cg];W[dg];B[ch]TR[ge]SQ[fg]
+(;W[fg]C[GL: White attacks from the wrong side here.];B[hf]
+;W[gf];B[ge];W[gg];B[hd]C[GL: J15 feels better than this, due to the increased access to the center.]
+;W[ie];B[ic]C[[should I just connect? White missed how to kill black, but he certainly could\]
+
+GL: Yes, you should. If you do connect, it is a horrible heavy group, but it has chances of unconditionally living and breaking up the center completely. Here, White got to make a good amount of thickness, and created the possibility of a ko for your group.]
+;W[he];B[gb];W[jc];B[ib]TR[hc]SQ[jb]
+(;W[jb]C[GL: H17 is a ko for the group.];B[gc]C[GL: However, Black gets to live unconditionally, and because of the value of killing H14, in sente too. This is a good example of why White shouldn't omit F16 in the joseki, but even so this is a great result for Black.]
+;W[if]C[GL: White should play J13 - a net is always safer than a ladder.]
+;B[pl]C[GL: A very nice idea. Press down with a ladder breaker.]
+;W[ql]TR[hg]SQ[ri];B[ri]C[GL: Actually, the ladder is annoying enough that it can be played immediately. Locally, R12 is also better - dropping to the second line in this way is rarely profitable, as White pushing over the top has a generally higher points value when the middle is relatively open.]
+;W[qi];B[qh]C[GL: Another odd move, as you give White S10 in effective sente (the purpose of S11 would be to remove White's base, but if you don't respond to S10, White's unconditionally alive with the capture, so why play S11?)]
+;W[rj]TR[cq]SQ[lm]
+(;B[lm]C[GL: Globally, the center has become important, so playing towards the center makes sense. However, it is hard to feel the purpose of this move, as it doesn't earn you any points nor directly deprive White of any. O18 is very large, removing the 3-3 aji in the corner, C3 is very large, reducing White's corner, and the ladder still works, so feels more important than either due to the relative lack of stability of D15.]
+;W[pm];B[ol];W[om];B[nl];W[ro];B[rp];W[sp];B[sq];W[so];B[rq]
+;W[qo];B[oi]C[[should this be played somewhere else? I though that connect P8 group to the top was stronger than allowing white to press it down\]]
+;W[ph];B[pi];W[rh];B[qg];W[nf];B[og]C[GL: Always think twice before playing moves like this. On one hand, we know capturing cutting stones is good, and a net is a completely secure capture. However, there's no urgency to capturing a stone that is cutting two unconditionally alive groups. You have both the connection possibilities to the bottom, and the wide open middle. White will gain very little (and in gote, no less) for saving this stone, so I would prefer to play something in the middle that neutralises any White hopes there whilst securing the central Black group.]
+;W[nr]C[GL: Painful. Another reason for M3 so much earlier on.]
+;B[lq];W[lr];B[or];W[nq];B[np];W[kp];B[ko]C[GL: Sente, but thin. Better to play the simple honte of M5, as you will have to return to defend there anyway.]
+;W[jo];B[kn]C[GL: M5 has less bad aji. If you aren't going to threaten White anyway, you may as well protect in a way that removes the most threats possible.]
+;W[op];B[no];W[pp];B[pq];W[on];B[qr];W[bn];B[bm];W[bo];B[jm]
+;W[in];B[kh];W[ih];B[gi]C[[too greedy?\]
+
+GL: Seems ok to me, although it is optimistic to be aiming for points on both sides at once :)]
+;W[im];B[jl];W[fi];B[fj];W[ei];B[ej];W[gm];B[fm];W[gl];B[gn]
+;W[jj];B[kj];W[ji];B[ki];W[fl];B[el];W[di];B[ci];W[ng];B[kf]
+;W[ke];B[lf];W[le];B[oe];W[ne];B[nb];W[mb];B[ob];W[nh];B[oh]
+C[[O11 might be better\]
+
+GL: Yeah, O11 is definitely bigger.];W[ni];B[nj];W[of];B[pf]
+;W[od];B[pe];W[nm];B[mm];W[rg];B[rf];W[am];B[bl];W[al];B[ak]
+;W[an];B[bk];W[ef];B[fe];W[na];B[oa];W[ma];B[pc];W[mj];B[hh]
+(;W[hg]C[[I've tried a few variations and I couldn't find a way for white to use F10 cut point without risking K10\]
+
+GL: I agree. The timing of J12 is fine :)];B[ii]C[GL: Better just to connect at G10. You are gaining no points here, and pushing White into your stones at L12 for no reason.]
+;W[gh];B[hi];W[jh];B[gk]C[GL: The J11 / K12 exchange did little for Black.]
+;W[il];B[jg];W[ig];B[mi]C[GL: Good!];W[jf]TR[kg]SQ[lj]
+(;B[lj]C[GL: L13 is bigger, you have no need to sacrifice here.]
+;W[kg];B[lg];W[mh];B[mk];W[lh];B[jg]C[[the KO begins\]
+
+GL: A pain to have to fight it ! :)];W[hc];B[hb];W[kg];B[sg]
+;W[si];B[jg];W[bf];B[bd];W[kg];B[ja];W[ka];B[jg];W[se];B[sf]
+;W[kg];B[ia];W[kb];B[jg];W[jk];B[kk];W[kg];B[ep];W[eq];B[jg]
+;W[gj];B[hk];W[kg];B[do];W[cp];B[jg];W[nn]C[[I had a few more threats (such as D12) but N6 seemed smaller than the KO so I took it\]
+
+GL: I agree, you have more threats - but that means you're going to win anyway, so I wouldn't allow White any reduction like this.]
+;B[kg];W[mn];B[mo];W[ln];B[lo];W[fp];B[ip];W[iq];B[pj];W[pk]
+;B[ok];W[qk];B[sh];W[ri];B[oo];W[po];B[mq];W[mr];B[ns];W[eo]
+;B[en];W[fo];B[hn];W[fk];B[ek];W[kr];B[ms];W[ls];B[os];W[hl]
+;B[hj];W[dh];B[fa];W[ea];B[ga];W[da];B[ca];W[mf];B[li];W[ik]
+;B[gj];W[tt];B[tt]TW[la][lb][kc][lc][mc][jd][kd][ld][md][je]
+[me][hf][eg][eh][fh][sj][rk][sk][rl][sl][rm][sm][pn][qn][rn]
+[sn][ao][ap][bp][ep][aq][bq][cq][dq][jq][ar][br][cr][dr][er]
+[fr][gr][hr][ir][jr][as][bs][cs][ds][es][fs][gs][hs][is][js]
+[ks]TB[aa][ba][ha][pa][qa][ra][sa][ab][bb][pb][qb][rb][sb][ac]
+[bc][hc][qc][rc][sc][ad][gd][qd][rd][sd][ae][qe][re][se][af]
+[bf][ag][bg][ah][bh][ai][bi][aj][bj][cj][mj][oj][ck][dk][lk]
+[nk][cl][dl][kl][ll][ml][cm][dm][em][km][mp][qq][pr][rr][sr]
+[ps][qs][rs][ss]C[*** Summary ***
+
+You did really well here overall, and certainly deserved the win. The biggest thing to take away from this game, without doubt, is blocking those third line shoulder hits. Pay particular attention to moves 27 and 31, and try to remember the importance of blocking immediately in these sorts of situations.
+
+There are minor issues that are well worth remembering as well, such as the kick at P17 in the top right at move 19, and the hane at 65, which can pick you up 4 or 5 points each by playing differently (10 points is roughly a full rank in a normal speed game).
+
+There are some relatively useful corner joseki variations on moves 18 and 67, that will also hopefully help to remember in some of your games.
+
+I hope these comments are in some way helpful. If you have any responses / queries / comments or would like further input on specific moves or areas, do feel free to ask!]
+)
+(;B[kg];W[kk];B[mk];W[jk];B[lk]))
+(;W[gj];B[ii];W[gh];B[hi];W[jh];B[hj];W[gk];B[ik]))
+(;B[cq]TR[bo][dq]C[GL: Some useful 3-3 invasion sequences to remember...]
+(;W[dq];B[bo]TR[bp][cp]
+(;W[bp];B[cp];W[bq];B[do];W[cr]C[GL: Probably the most common. Black reduces in sente, but White keeps most of it.]
+)
+(;W[cp];B[bp];W[bq];B[br];W[cr];B[aq]C[GL: Another option. White loses a bit more, but keeps sente - this is a common sequence when the Black stones do not yet have two eyes.]
+))
+(;W[bo]C[GL: The strongest resistance];B[er];W[fr];B[eq];W[ep]
+;B[br];W[fp];B[bp]C[GL: Black lives in the corner, White plays to reduce the left.]
+)))
+(;W[hc];B[gc];W[gd]C[GL: A ko for the group is the only option.]
+;B[hb];W[hd];B[jb];W[kc]C[GL: Black can't get 2 eyes this way.]
+))
+(;W[ge];B[fe];W[fh];B[gf];W[hh]))
+(;B[gq]TR[cq][lq]C[GL: Triangled points are miai to cause White a number of headaches, and F6 is a good honte way of securing your stones. White is hard to play here.]
+))
+(;B[lq]C[GL: Now, White must fight to live with his stones, giving you the opportunity to double approach still if you wish - Black also now has a larger secure territory from his corner.]
+))
+(;B[fq]TR[cn][hq];W[cn];B[jp]TR[hq][dr]C[GL: This at least tries to make a solid development on the lower side. White is hard pressed to invade this jump, as Black's security in the lower right allows him to discard F3 and treat K4 lightly (see continuation on H3)]
+(;W[dr];B[fo]C[GL: Now Black is relatively happy with his development.]
+)
+(;W[hq];B[ho];W[gp];B[cq];W[dq];B[dr];W[er];B[cr];W[eq];B[bo]
+;W[bn];B[co];W[do];B[cp]C[GL: Black takes a 4th corner, and White has to keep the D6 cut in mind as the aji is relatively large. However, C12 is a very big point.]
+;W[ch]C[GL: Threatening B15.];B[df];W[ef];B[eg];W[ff];B[dh]
+;W[di];B[ei];W[dj];B[ej];W[dk]C[GL: Common joseki continuation]
+))
+(;B[fb];W[fd];B[ea];W[gc]TR[df]C[GL: Now the timing of D14 allows Black to make the lower left approach from this side much more interesting.]
+;B[df];W[ef];B[eg];W[ff];B[dh]C[GL: Now C6 would develop the left side very nicely. If White plays to prevent it with C6 himself, C8 is still a very acceptable move for Black, and White's topside moyo potential is damaged badly.]
+))
+(;B[fb]TR[ea][fd]
+(;W[ea];B[fe]C[GL: If White tries to disconnect, this is extremely severe. White risks getting destroyed, particularly as Black can pincer along the top once he's forced the White group out.]
+)
+(;W[fd];B[ea];W[gc]C[GL: Normally White plays to fix this way, keeping some of the territory at the top, but it's a painful reduction for him to take, and Black keeps sente.]
+))
+(;B[qf];W[qm]TR[lc][md]C[GL: Depending on the circumstances in the top right corner, but triangled points are now very playable. Also with respect to the corner itself, Q18 is a better local point than P17 as it virtually eliminates all the 3-3 aji.]
+))
+(;B[fe];W[df];B[fg];W[dh];B[ld];W[if];B[ih]C[GL: There are options like this, but Black is fairly thin and there are no guarantees that White will be able to be confined. As R10 is not really a target at the moment, this looks hard to play, but mostly due to complexity, it certainly seems a consistent opening.]
+))

@@ -1,0 +1,107 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.17]
+
+GN[mschlat-artemy-733215-20120605]
+PB[Artemy Rublev (artemy)]
+BR[9k]
+PW[Mark Schlatter (mschlat)]
+WR[10k]
+KM[3.5]
+DT[2012-05-10,2012-06-05]
+PC[Dragon Go Server: http://www.dragongoserver.net/]
+RE[B+Resign]
+RU[Japanese]
+SO[http://www.dragongoserver.net/game.php?gid=733215]
+GC[Game ID: 733215
+Game Type: GO (1:1)
+Rated: Y
+
+White Start Rating: 10k (+2%) - ELO 1101
+Black Start Rating: 10k (-22%) - ELO 1077
+White End Rating: 10k (-16%) - ELO 1084
+Black End Rating: 9k (+17%) - ELO 1217]
+
+C[Mark: Hi, I'd like feedback on the first hundred moves or so.  I felt at sea for much of the opening and was confused about where the big plays were.
+
+\\m/ : Hi Mark, here your review.
+Interesting game showing how the opening can be important in this game. In my opinion, it's the mistake in direction at move 32 that cost you the game. To gain some good theory about direction, you can consider reading "Direction of Play" by Takeo Kajiwara. With "Lessons in the fundamentals of go" which cover another subjects, these are the two books that I consider a player who want to improve must read. Of course, it's only my opinion and I am far from being a good player ;)]
+;B[pd];W[dq];B[dd];W[pp]
+(;B[cn]C[\\m/ : I don't like it, not really threaten d3 and not taking the maximum of ni ren sei.]
+(;W[fp]C[Mark: Not joseki according to Kogo's.  Okay, IIRC, I am already emphasizing the bottom side with a 3-4 play.  Perhaps I don't need another move?  Clearly, my move puts no pressure on black, while C4 and D5 do.  Both serve a dual purpose --- attack the black stone and extend white's framework near the corner.  My stone does neither.]
+;B[cj];W[qf];B[pf];W[pg];B[qe];W[of];B[pe];W[og];B[mc]TR[oc]
+[nc][qc]C[Mark: Kogo's believes this point should be at O16, but I don't see an easy way to punish black.
+
+\\m/ : some weaknesses here, not urgent]
+(;W[fc];B[fd];W[gd];B[fe];W[dc];B[ec];W[eb];B[ed];W[gb];B[cc]
+;W[db];B[hc];W[gc];B[jc]
+(;W[cb];B[bc]
+(;W[mq]C[\\m/: I'd have chosen the other direction to prevent q13 getting weak.
+
+Maybe the losing move, letting b making points on the right side.]
+(;B[ql]C[\\m/ : kind of "I don't know what to do" move];W[qj]
+;B[qo]C[\\m/ : kosumi approach on the 3rd line is considered bad shape]
+;W[qp];B[rp];W[rq];B[rn];W[sp];B[ro]
+(;W[po];B[pn]
+(;W[oj];B[iq]
+(;W[gq]C[Mark: I'm still giving black a step here.];B[kq];W[mo]
+;B[io]
+(;W[cp];B[em];W[eg]TR[gn]C[Mark: At this point, the left hand side looks huge.  I try this probe, but don't really follow up with it.
+
+\\m/ : I would have kept separating j5 at bottom. j3 will live but the attack will help later invasion like 52 here.]
+;B[cg];W[gn];B[lp];W[mp];B[kn]
+(;W[ce];B[cf];W[cd];B[bb];W[ba];B[bd];W[be];B[bf];W[ad];B[de]
+;W[on];B[pm];W[qc]LB[lc:B][nl:A]C[Mark: Doesn't make sense to me now..  It's big, but I have no support.A seals in black.  B, maybe?  I don't have a good sense of what's big here.]
+;B[pc];W[pb];B[ob];W[qb]TR[mc][nd]C[\\m/ : see that you finally punish the joseki mistake as b feels the need to protect cut. So you had answered your question at move 15 during the game ;)]
+;B[oc];W[rd];B[re]
+(;W[rc];B[me];W[rg];B[gg];W[bo];B[bn];W[hd];B[id]
+(;W[ge]TR[gd][hd]C[\\m/ : 84/85 exchange just help b.];B[gf]
+;W[ff];B[fj];W[hb];B[if];W[ic];B[jd];W[jb];B[kb];W[sb];B[mg]
+;W[mj];B[gl];W[gi];B[fi];W[fh];B[gh];W[ci];B[bj];W[dj];B[co]
+;W[bp];B[hi];W[rk];B[rl];W[nl];B[li];W[lj];B[ki];W[sm];B[sl]
+;W[sk];B[rm];W[di];B[cl];W[dl];B[dm];W[fk];B[gk];W[ab];B[ae]
+;W[im];B[go];W[fo];B[hn];W[hm];B[hr];W[gr];B[hs];W[lq];B[kp]
+;W[gm];B[lr];W[mr];B[kr];W[ls];B[ks];W[mh];B[mi];W[nh];B[lh]
+;W[mf];B[nf];W[lf];B[ne];W[jf];B[he];W[lb];B[ka];W[lc];B[ja]
+;W[ib];B[kc];W[ld];B[sd];W[ra];B[oe];W[le];B[ng];W[lg];B[mb]
+;W[ii];B[ij];W[ji];B[jj];W[je];B[ie];W[jg];B[ih];W[jh];B[kj]
+;W[ig];B[hh];W[tt]C[Result: B+Resign])
+(;W[hf]C[\\m/ : shape again. Try to avoid empty triangle.]))
+(;W[sb]C[\\m/ : shape]))
+(;W[gg]))
+(;W[gn]C[Mark: I could chase instead.];B[go];W[fo];B[fn];W[ho]
+))
+(;W[kq];B[io];W[hp];B[ip];W[fn]C[Mark: Looks bigger for white.
+
+\\m/ : agree]))
+(;W[on]C[Mark: I like the hane here better.]))
+(;W[on]C[\\m/ : don't touch what you're attacking]))
+(;B[pj]TR[og][pg][of]C[\\m/ : attack group])
+(;B[qn]C[\\m/ : or approach corner. But black has to chose]
+))
+(;W[pk];B[nq];W[lq]C[\\m/ : now a pincer here is also an extension of your LL keima]
+))
+(;W[cd]C[Mark: Kogo's suggest this alternative, but it's hard to see how the white stones (as of move 42) will survive.]
+;B[ce];W[bd];B[bc];W[be];B[bf];W[cf];B[ad];W[de];B[ae];W[ce]
+;B[bg];W[dg]))
+(;W[nd];B[nc];W[oc];B[od];W[ne];B[pc])
+(;W[nc];B[nd];W[od];B[oe];W[ne];B[oc];W[md];B[nb];W[me]))
+(;W[cp];B[ck]
+(;W[ci]C[\\m/ : good with a white UL corner. Too early to create a weak group.]
+(;B[ep];W[eq];B[gp];W[fq];B[gn]C[\\m/ : good for b])
+(;B[fq];W[eo];B[iq])
+(;B[cg]C[\\m/ : black will most likely attack this little one]
+;W[ei];B[ek]TR[bi]C[\\m/ : w is weak and b can still connect]
+))
+(;W[gp]))
+(;W[do]
+(;B[dn];W[en])
+(;B[bp]C[\\m/: I'd prefer taking the corner here as black because there's no extension around k4.]
+))
+(;W[dk]TR[dd][pp]C[\\m/ : denying hoshi influence and pushing against q4, I'd chose this pincer.]
+(;B[cq];W[cp];B[dp];W[bq];B[cr];W[do];B[ep];W[co]
+(;B[fq]C[\\m/ : black can afford loss in the corner];W[br];B[dr]
+;W[dn];B[qn]C[\\m/ : to first approach here])
+(;B[br];W[gp]C[\\m/ : joseki];B[fo];W[dn];B[go];W[ip];B[gq]
+C[\\m/ : now it's w sente for r14]))
+(;B[dp];W[cp];B[eq];W[do];B[ep];W[co];B[cq];W[bq];B[dr];W[dn]
+TR[br][iq]C[\\m/ : miai so b keeps sente])))
+(;B[do]C[\\m/ : only move I consider in this opinion]))

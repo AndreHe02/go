@@ -1,0 +1,152 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.14]
+
+PB[atirta1]
+PW[sakao]
+KM[6.5]
+RE[W+9.50]
+RU[Japanese]
+
+C[Hi, my nick is atirta1, playing as black.  I would like to have my game reviewed.
+There are several topics I would like to see come up by the reviewer such as:
+fuseki, joseki, sente, moyo, efficency, direction of play and anything else I fail to mention that are of high importance, whether it be strategy or tactics (local fights), tesujis, etc.
+
+My strength is 18K based on KGS rating.  So maybe this info will give you some idea as to why I made the moves as I did :)
+
+-------------------------------------------------
+Hi, my name is Tobamf on KGS. I am rated 10 k, but probably a bit weaker now since I have not played in a bit. Some preliminaries:
+
+1. Keep in mind that what I see is much less than what a 4 k sees which is much less than a 2d etc... Some of the top amatuer dan's and pros also say that getting adivce from non-pros can be more damaging than good. Keep that in mind when you see what I say. I will try and stick with book recommended ideas. You may want to see what a very high dan has to say about this game.
+
+2. Books that are terrific include Life & Death, Tesuji, Attack and Defense, all by James Davies. Lessons in the Fundamentals of Go by Kageyama is a must. There is a very good chapter by R. Bozulich regarding liberty counting in The Second Book of Go.
+
+3. I am going to try and limit what I say to answering your questions for the most part. I find too much information is often confusing rather than usefull.
+
+Alright. You have some questions regarding definitions. I definitely recommend http://www.gobase.org/online/intergo/ if you want to get some definitions. I will mention some of those Japanese terms during the review.]
+;B[qd];W[dp];B[pp];W[dc];B[oc];W[qj];B[jp];W[qn];B[ql]LB[pp:A]
+C[Remember, take what I say with a bag of salt.
+
+I am not sure that R8 is a particularily good move by black here. Keep in mind that the stone at A doesn't actually secure the corner. I think it is more usual to respond around o4 or o3 (ask a dan). The idea there is that your stones on the side get connected and you have a stonger group thus giving you the advantage to attack.]
+;W[qq];B[qp];W[pq];B[op];W[oq];B[nq];W[rp];B[ro];W[rq];B[qo]
+;W[nr];B[mq];W[qg]CR[ol]C[After this exchange, I think black is in the better position.  Would you recommend other variation besides the pincer at R8?
+
+
+As you know, I didn't really like R8 and preferred o3 or o4. 
+
+Always try and do score estimates in your mind. Don't count big open areas as anything, and moyo's are going to be rough estimates. Also, keep in mind when counting that an invasion into moyo typically gains the invader about 5 pts of territory and the defender about 30 pts.
+
+Here we see that black has a top corner which is a bit bigger than whites bottom corner. white has a weak group on the side at R13 (it is not alive yet) and stones at 2 corners. black has some influence, but it is somewhat neutralized by the white group at R10. 
+
+Black needs to decide how to attack. At this point, R6 still has some aji, and I it is common to defend that point. In this case, I think you can attack the weak white group and defend against the R6 aji. Perhaps P8 is a good start, which aims at keeping white against the side.]
+
+(;B[cn]C[C6 is probably the wrong direction. It probably would be better to play at f3.]
+;W[dj];B[fq];W[eo];B[cq];W[cp];B[dq]C[well lucky you.];W[eq]
+
+(;B[bq];W[er];B[bp];W[fp];B[dm];W[cl];B[dr];W[gq];B[jd]C[Would you recommend other possibilities besides K16?
+
+Well, here, it is good to do an estimate to see how you are doing. One thing to keep in mind is that C15 is pretty big for white, too big for you too ignore. So I would go white C15 here.]
+;W[cg]C[This works even better than C15 for white.];B[de];W[cd]
+;B[fe];W[fc];B[gd];W[gc];B[hd]C[This trade off to here is not good enough for black. White has a hufe corner and lots of side. Blacks wall towards the middle is not nearly enough compensation.
+
+Try counting now. BTW, you do have to give some rough amount of points for influence.]
+;W[fd];B[ge]C[After this move, I think that both positions are even.
+
+Did you count?];W[eg];B[df]C[The reason I made this move is to reinforce my connection for the D15 stone, but can you suggest any other urgent moves or big moves?
+
+Should I make cap at G13?  It seems later on that the G15 group is not as efficent as it could have been.
+
+I suppose D14 is alright. G13 is an okay cap, but maybe h18 is bigger right now. It gives black more of the side. All those walls black has facing the middle are mostly neutralized by whites groups that can all bust into the center.]
+;W[dg];B[hc];W[ld];B[og];W[be];B[oj];W[pk]C[this is terrific.  white is giving you some stuff here. Watch.]
+
+(;B[rn];W[pl];B[qm];W[pm];B[pn];W[ml];B[mj];W[kc];B[jc];W[nc]
+;B[nd];W[mc];B[kd];W[od];B[pc];W[ne];B[pf];W[pe];B[qe];W[qf]
+;B[kj]C[Not much to say here except look at how cut up your groups are. More weak groups means more to defend. Usually, you make your points while you attack, so defense is really only to make you strong enough to attack again.
+
+If you are so well defended that you never need to defend again, then great, but clearly there is a balance between attack and defense.]
+;W[lf];B[jf];W[rf];B[re];W[ph];B[oh];W[li];B[lj];W[jh];B[kg]
+;W[ki];B[lg];W[mg];B[mh];W[mf];B[mi];W[jj];B[kl];W[jk];B[ll]
+;W[hg];B[if]C[I think I should have just connect at M12 so that I wouldn't have to worry creating my top left group to be a weak group.  Then maybe after I should try to invade white's middle framework or reduce it.
+
+Well, this middle is a big fat mess. that top group of yours has little chance of dying, and that bottom group has places to run to, and personally, I like N8 for black. Black as a lot of moves that really would be nice to have: K8, N7, N2, J2, E8.]
+;W[bm];B[bn];W[dl];B[em];W[el];B[fm];W[fl];B[hm];W[gl]C[At this point white is really strong on the left side.  And later on, I did'nt really use the E7 wall effectively to contain the white group on the lower left, which brings me to another topic I would like to be discussed such as using strength and influence.
+
+On the previous note, would you suggest what other moves I should have made earlier to not let white get too strong on the left side?
+
+
+White has simply been in too good of a position for the last several moves. Definitely estimate score, and use that estimate to help you determine what move to do next. the bottom white group is going to live with no problems, so your wall at E7 is playing in neutral territory and the only one benfiting is white.]
+;B[hl];W[hk];B[gk]C[I think this cut was useless, since there's not really a good follow up play and it cannot run anywhere.
+
+Maybe I should try to attack the lower white group.  But I don't really know the approach since white seems stable with that ponnuki.]
+;W[hj];B[mn]C[At this point, white seems to shut me out completely at the left side.]
+;W[gm];B[hn];W[jr]C[This slide made by white took the lower middle area.  Should I secure the lower area first before I play the cap at N6?
+
+Yes, definitely should have secured the lower area. That is the only remaining spot for you to make decent points.]
+;B[mr];W[os]C[See branch in move tree.]
+(;B[hq];W[hr];B[gr];W[fr];B[ir];W[gs];B[iq]C[I failed to cut the K2 stone.  Any suggestion as how I should do that?]
+;W[is];B[fg];W[fh];B[gg];W[gh];B[of];W[oe];B[kb];W[lb];B[nb]
+;W[mb];B[ob];W[jb];B[lc];W[pd];B[le];W[md];B[ke];W[qc]C[At this point the ko fight begin: to kill the top right middle group.
+
+Would you show some variations as how to kill the white group, if any?]
+;B[rc];W[qb];B[rb];W[kc];B[pr];W[qr];B[lc];W[se];B[rd];W[kc]
+;B[or];W[ps];B[lc];W[pa];B[pb];W[kc];B[pi];W[qi];B[lc];W[na]
+;B[qa];W[kc]C[See branches in move tree.]
+(;B[pg];W[ka];B[qh];W[rh];B[rj]C[See branch in tree.]
+(;W[ri];B[rk]C[It seems that I was able to kill white's weak group on the right side.  If I didn't, I would have lost by a huge margin.
+
+If you would have lost by a huge margin, then perhaps your results were not as even as you thought?]
+;W[on];B[nm];W[om];B[oo];W[nl];B[ok];W[jl];B[jm];W[km];B[lm]
+;W[hp];B[ip];W[im];B[jn];W[il];B[in];W[cm];B[dn];W[kq];B[kp]
+;W[sg];B[si];W[ef];B[ee];W[lh];B[hf];W[ff];B[ie];W[gf];B[go]
+C[This peep was useless.  Maybe I should have played elsewhere, say reduce the top area.
+
+Not really a lot left for black now anyways. Don't sweat it.]
+;W[gp];B[fo];W[ho];B[io];W[ma];B[oa];W[hb]C[Now its too late for me to try to reduce the top left as white proceed to shut me out once again.]
+;B[ib];W[ia];B[gb];W[ic];B[id];W[ib];B[ec];W[ed];B[dd];W[eb]
+;B[fb];W[ec];B[cc];W[cb];B[bc];W[bb];B[ab];W[bd]C[Failed attempt to kill top left corner group.]
+;B[cf];W[bf];B[ih];W[ig];B[hi];W[jg]C[Again another wasted stone, bad mistake.
+
+Don't worry about it. Just try and estimate the score once every 15 moves on your next game. The yose in this game isn't about to make you recover and win.]
+;B[kf];W[me];B[lq];W[lr];B[ls];W[kr];B[ks];W[js];B[ms];W[ns]
+;B[do];W[gn];B[fn];W[an];B[ao];W[am];B[co];W[ds];B[ep];W[cs]
+;B[br]C[I should've capture at E6 I think, I lost a few points by defending at B1, which adds up at the end game.
+
+Taking B1 gains you 3 pts. Taking E6 gains you 2 pts. Take your pick.]
+;W[dp];B[cp];W[ep];B[bs];W[kk];B[lk];W[ng];B[nh];W[so];B[sn]
+;W[sp];B[es];W[fs];B[cr];W[es];B[jq];W[hs]C[Good! See how white lives with only 2 pts and so many stones? where is the efficiency there?]
+;B[kh];W[ji];B[mo];W[ce];B[en];W[nf]C[In addition to those topics I mentioned earlier in the comment, please point out trivial mistakes, weak and bad move, etc.  (Don't hold back)
+
+Also, please give any advise regarding the end game, squeezing out those precious few points.
+
+Thank you for the review.
+
+Andrie
+
+
+Good game. Counting points in yose is actually a pretty complicated thing (I learned this from Tictactoe on KGS). I  recommend that you ask a high level dan how to count in yose. Sorry if that disappoints, but if I get into the gote list and go on and on I am afraid I'll do more harm than good. Also, the simple answer is inadequate.
+
+
+Good luck to you in your future games.])
+(;W[rk];B[qk];W[ri];B[pj];W[rl]C[well, your ko threat does yield some gains. Tricky, nice.]
+))
+(;B[me];W[nf];B[lc])
+(;B[pj];W[qk]C[This is really the only threat worth responding to for white now, because white doesn't have any threats that are big enough now to compensate for the loss the of the white group if black takes the ko and fills it.]
+;B[lc]))
+(;B[ir]C[There is no way to cut the K2 stone. Here is a variation for you.]
+;W[iq];B[jq];W[hr];B[kr];W[is]C[This is what black should aim for.]
+))
+(;B[ok];W[pl];B[ol];W[pm];B[gg]C[now black stands to gain a lot in the middle.
+
+What is your score estimate now?]))
+(;B[er]C[must connect. Typically you radiate strength when you have groups that are alive rather than several that are almost alive.]
+;W[ep];B[bq];W[bp]))
+(;B[ol]C[Suppose white goes somewhere else (tenuki's).]
+(;W[ce];B[pi];W[pj];B[oi];W[oj];B[nj];W[qi];B[og]LB[qg:A][qj:B]
+C[if black plays properly, (which I am sure I do not, white is hard pressed to get out without disconnecting his two stones he started with. Notice white doesn't have to sure eyes yet on the bottom (he can get them with S15 though).
+
+ So white pretty much has to respond to black P8 or suffer being locked onto the side. His group will take no part in the center battle, which puts black at an advantage for making points in the middle. 
+
+Notice that S15 is nice for black because black then gets to play S16, making the corner really nice and solid.]
+)
+(;W[pk];B[pl];W[nj];B[ok];W[oj]C[maybe this is what would happen if white responded to black p8.]
+))
+(;B[fq];W[dn];B[dr];W[cq]C[this is typical.];B[hp]C[This one I am not so sure about given that black already has k4. f5 is probably better.]
+;W[ck]))

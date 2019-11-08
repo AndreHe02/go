@@ -1,0 +1,55 @@
+(;FF[4]GM[1]SZ[9]ST[2]CA[UTF-8]AP[SGFC:1.17]
+
+PB[Tom Vanderpoel]
+BR[30k]
+PW[gnugo level 0]
+KM[5.5]
+DT[2011-05-03]
+RE[B+1.5]
+RU[Japanese]
+GC[This is the first game where I managed to win vs. gnugo with 5.5 komi.]
+
+
+C[Hello, my name is Gabriel,
+I will do my best to make a good review. My comments will be marked as GV]
+;B[ee]C[GV: I don't play 9x9 very often, so I had to study a little bit. This is a popular opening on 9x9 though.]
+;W[cg];B[ce];W[gc]TR[ff][gf][eg][fg][gg]C[GV: interresting the computer played on stars, On 9x9 is more usual to play a little bit more to the center. Maybe this is why your "split" pattern worked well.
+See http://senseis.xmp.net/?9x9Openings];B[ge]C[Goal with this move was to divide whiteinto two halves.
+
+GV: I woudn't bet this approach would be very efficient against a live (and stronger) oponent. I made few attempts and seems this work if your opponent playes on stars (low). You created no points yet, now you have to kill something.]
+;W[cc];B[eg]C[Trying to contain white in the lower-left corner.
+
+GV: Good thinking, I found this move the best you had.];W[bf]
+;B[be];W[ec]
+(;B[dc]TR[bf][cg]C[Trying to play into white's territory.
+
+GV: look at the move 18 how these attempts ended up. you could use a "monkey jump" A8 if you want to take a little more territory.
+
+I would play D2 to prevent a survival of the the two marked stones. You may be lucky the computer did not tryed to survive as a human player would. Anyway I found no chance for W since on.
+Look at variations from move 19, let's try to survive / kill the marked group.]
+;W[dd];B[de];W[db];B[fc]C[Trying the same thing as on B11.]
+;W[fd];B[fe];W[hd];B[he]
+(;W[ie];B[if];W[id]
+(;B[hf]C[Maybe H3 would have been better in case white tried to invade lower right corner?
+
+GV: Good move. White has no place to invade and survive (if you play carefully). If you desperately need eyes or make sure your opponent does not invade, you can play H3 of cause. 
+This connection is stronger and doesn't give white an opportunity to play an atari move for KO.]
+;W[gd]
+(;B[cf]TR[bf][cg]C[I'm not sure I played correctly against the two white stones.
+
+GV: Yes, this is correct. I still miss the D2 move, but seems your opponent gave up the stones (correctly)]
+;W[bd];B[bg];W[ad];B[af];W[cd];B[ae];W[ed];B[tt];W[tt]TW[aa]
+[ba][ca][da][ea][fa][ga][ha][ia][ab][bb][cb][eb][fb][gb][hb]
+[ib][ac][bc][dc][fc][hc][ic]TB[bf][df][ef][ff][gf][ag][cg][dg]
+[fg][gg][hg][ig][ah][bh][ch][dh][eh][fh][gh][hh][ih][ai][bi]
+[ci][di][ei][fi][gi][hi][ii]C[B+1.5
+
+GV: Nice play. Keep going, have a nice day :)])
+(;B[dh];W[ch];B[cf];W[ag];B[bi]))
+(;B[hg]))
+(;W[dh]
+(;B[eh];W[bh]C[and white lives])
+(;B[bh];W[eh];B[fh]C[and white is dead])))
+(;B[dh])
+(;B[ab]C[GV: A 3-1 monkey jump, works only on the first line]
+;W[bb];B[ac];W[bc];B[ad]))

@@ -1,0 +1,160 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+PB[shuchan]
+BR[3k]
+PW[Exar]
+WR[2k]
+KM[0.5]
+DT[2008-03-03]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[W+2.50]
+TM[1800]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+C[Dear Reviewer:
+
+Thanks for reviewing my game. I lost this game by a small margin, but i felt that I was winning before the huge loss in the lower left.
+My main questions are:
+
+1) How else should I have handled the invasion on top?
+
+2) how to invade into W's bottom framework?
+
+3)Could you please comment on my beginning and middle game and give pointers on places to improve on?
+
+Thanks very much for the review!
+-------------
+Hi,
+
+First of all, I think you can learn more from a slow paced game, or maybe the lesson is to play more slowly, calculating a few variations, because some of the movesy, especially what happened in the lower left, suggests very fast play without much thinking. On the other hand, you have good fighting spirit, so keep that!
+
+Secondly, I think you have a decent strategic thinking for a 3k, but lack some fundamental technique. In particular, you don't seem to care too much about liberties. This leads to
+- thank you moves
+- moves better left unplayed (aji-keshi)
+- bad shape (in terms of not enough liberties)
+
+Therefore, I advise books and articles on technique.
+- Haengma tutorial for beginners, on Sensei's Library by Minue
+- L'ame du go (translated to English), on sensei's library, by Fan Hui
+- Suji and AntiSuji of Go, by Sakata Eijo
+...
+
+I'll comment hereafter along these lines of thought. You're welcome to discuss more about it, possibly as a BQM on Sensei's Library.
+
+Dieter];B[pd]C[Exar [2k\]: hi
+shuchan [3k\]: hi];W[dp];B[qp];W[op];B[pn];W[on];B[pm];W[om]
+;B[ol]LB[pl:A][po:B]C[You can comfortably stretch along the fourth line on A. White has yet to prove that his wall will outperform your fourth line territory. Yes you can hane at the head of two, but these two are actually stronger than that: White has the tiger mouth at B in sente. This means that the cut at A is stronger than it may seem.]
+;W[po];B[qo];W[pl];B[pp]LB[no:A]C[This move must be left unplayed. It doesn't increase the liberties of your stones and it forces White to make a connection. You hence only lose possibilities: the peep at A or possible ataris.]
+;W[oo];B[ok];W[ql];B[rm]C[Good shape.]
+(;W[pj]C[see var];B[pk];W[qk];B[qj];W[rj];B[qi];W[ri];B[qh]
+;W[rh]
+(;B[qg];W[rl]
+(;B[qm]C[See variation.];W[sk];B[sm];W[sl];B[oi];W[jp]C[White's influence is comparable to Black's. Black has more territory in the corner and also sente. So, IMO, Black has a small advantage now.]
+;B[dd]C[Logical sente.];W[jj]C[This is clearly too close to Black's thick wall.]
+;B[cj]C[Was this the right move? I didnt want to play k17 because I didnt want to play close to my thick wall in the right. Or is it sufficently far enough to warrent k17?
+
+dv: I think you made the right judgment here.];W[jc];B[hc];W[nc]
+;B[ob]C[Good.];W[ne]
+(;B[lc]C[This invasion is not consistent with your previous move, which was territorial. White has responded.
+
+I think it is now time to play at the bottom.];W[oc];B[pc];W[nb]
+;B[le];W[pb];B[qb];W[oa];B[lb];W[qf];B[pf];W[rf];B[pe]LB[of:A]
+C[A would be more efficient.];W[ng]
+(;B[lg]C[right move?
+
+dv: one space jumps do not really attack. See variation.];W[mh]
+;B[mg]C[A thank you move: you don't win any liberties and force White to connect.]
+;W[og];B[pg];W[ni];B[oh];W[nh];B[ki];W[nj];B[oj];W[kj];B[rg]
+;W[fc]LB[id:A]C[How should I have handled this invasion?
+
+dv: A secures the heavy group at the top. That will be best.]
+;B[gd];W[fd];B[df]LB[id:C][fe:A][ie:B]TR[fc][hc][fd][gd]C[You must never leave a diagonal-straight opposition such as the marked stones alone. Either play A or B/C.]
+;W[je];B[gf];W[ib];B[hb];W[kd];B[ld];W[ig]LB[jg:A]C[better at A]
+;B[gh];W[ji];B[db]C[here i was blind, I didnt see the danger to my m18 group
+
+dv: On the contrary: it is captured already, so there is no danger anymore. You correctly took his two stones on a large scale.]
+;W[cm]LB[he:A]C[White now has the advantage. Maybe forcing at A first would be cleaner.]
+;B[jg]C[good rescue move - i did not see it];W[if];B[jf];W[ie]
+;B[ih];W[hh];B[hg];W[hi];B[jh];W[hf];B[gg];W[ge];B[fe];W[hd]
+;B[gc];W[fb];B[he];W[cc];B[dc];W[ge];B[mf];W[nf];B[he];W[di]
+;B[id]C[dv: Good, the capture is huge.];W[ci];B[ml]LB[fj:A]
+[fq:B]C[I felt that N8 was the only move. If i had let W play here, W will have some 30 points secure territory. Is N8 ok?
+
+dv: Your move and A both reduce the moyo. Therefore I would play at the bottom (B). After your move, White still has chances to make much territory.]
+;W[lm]LB[eq:A]C[I think White should play at the bottom too.]
+;B[dq]LB[fq:A]C[right invasion point?
+
+dv: it is ok. I would still go for a simple keima kakari, but it is definitely the right direction.]
+;W[cq]
+(;B[cp]C[see var];W[bq];B[co]LB[eq:A]C[The mistake here is very fundamental. You were in a crosscut in enemy influence. Your task is to sacrifice one part and save the other by doing so. Obviously you have more chances to save your stronger stone, which is the one at the bottom, having more space.
+
+You defend and strengthen the weakest stone in the crosscut, which is good if you want to keep both.
+
+So A would have been better.];W[eq];B[dr];W[er];B[ep];W[do]
+;B[dn];W[eo];B[en];W[fo];B[cn]C[The driving maneuver was nice, but you are in hostile environment with a heavy connected group.]
+;W[fn]LB[dl:A]C[A is better]
+(;B[dl]LB[bm:A]C[It isnt a great turnout for B in the lower left. How could i have secured my group otherwise?
+
+dv: The left side is very much unsettled. There may be a chance with A but this move can also work.]
+;W[fj]LB[bj:A]C[A is better I think];B[gi];W[gj]C[both should play on the left, making or breaking eyespace]
+;B[ii];W[bf]C[idem];B[hj];W[ck];B[fm];W[gm];B[gl];W[em];B[fl]
+;W[dm];B[bm]C[From these moves I gather this was a quick game
+
+It is difficult to learn something about one's mistakes in quick game fights, so I will not comment on them.]
+;W[cl];B[dk]C[You can see here that Black doesn't take time to count liberties. Otherwise this move wouldn't have been played.]
+;W[dj];B[gn]C[This too is a wild cut without calculating risks and possibilities.]
+;W[hm];B[hn];W[in];B[im];W[hl];B[il];W[hk];B[ik];W[gk];B[ij]
+;W[li];B[jn];W[io]SQ[ii][hj][ij][ik][il][im]C[As an end result, Black obtains this intrusion, in exchange for a consolidated White lower left quarter. Black's efforts lacked planning and coordination.
+
+No further comments. See beginning for an overall conclusion.]
+;B[ko];W[kp];B[lo];W[lp];B[lj];W[mj];B[lk];W[lh];B[kh];W[bd]
+;B[mo];W[mp];B[oq];W[nq];B[or];W[nr];B[ns];W[ms];B[os];W[mr]
+;B[cg];W[bg];B[mm];W[sg];B[re];W[se];B[qe];W[rd]C[shuchan [3k\]: oh >.> lol]
+;B[qa];W[pa];B[ma];W[na];B[rc];W[cb];B[ca];W[ba];B[da];W[cd]
+;B[bb];W[ab];B[aa];W[pq];B[pr];W[ba];B[el];W[bj];B[aa];W[qq]
+;B[qr];W[ba]C[Vasher [2d\]: could have ignored as far as i can tell]
+;B[fp];W[go];B[aa];W[rq];B[rr];W[ba];B[od];W[nd];B[aa];W[ro]
+;B[rp];W[ba];B[no];W[np];B[aa];W[qn];B[rn];W[ba];B[sj];W[si]
+;B[aa];W[sp];B[so];W[ba];B[gp];W[ho];B[aa];W[cf];B[ac];W[dg]
+;B[eg];W[dh];B[ef];W[mb];B[la];W[jo];B[mn];W[bc];B[qd];W[sf]
+;B[sd];W[sh];B[ce];W[be];B[de];W[ad];B[ba];W[fi];B[fh];W[mk]
+;B[nl];W[ab];B[fr];W[ds];B[ac];W[sc];B[sb];W[ab];B[fq];W[cr]
+;B[ac];W[kn];B[jm];W[ab];B[eh];W[ei];B[ac];W[ll];B[kk];W[ab]
+;B[me];W[ac];B[tt]C[Again, Thank you for the review!];W[tt]
+TW[ob][ae][af][ag][cg][ah][bh][ch][ai][bi][mi][aj][cj][ej][sj]
+[ak][bk][dk][ek][fk][rk][al][bl][dl][el][fl][gl][am][bm][fm]
+[an][bn][cn][dn][en][gn][hn][ao][bo][co][ap][bp][cp][ep][fp]
+[gp][hp][ip][aq][dq][fq][gq][hq][iq][jq][kq][lq][mq][ar][br]
+[dr][fr][gr][hr][ir][jr][kr][lr][as][bs][cs][es][fs][gs][hs]
+[is][js][ks][ls]TB[ea][fa][ga][ha][ia][ja][ka][ra][sa][eb][fb]
+[gb][ib][jb][kb][rb][ec][fc][ic][jc][kc][qc][sc][ed][fd][hd]
+[jd][kd][rd][ee][ge][ie][je][ke][ff][hf][if][kf][lf][fg][ig]
+[kg][hh][ph][hi][ji][pi][jj][kj][pj][jk][jl][kl][ll][km][lm]
+[kn][ln][qn][sn][ro][sp][pq][qq][rq][sq][sr][ps][qs][rs][ss]
+C[Exar [2k\]: thanks
+shuchan [3k\]: thx])
+(;B[bm]
+(;W[dl];B[cl];W[dm];B[bk];W[bp];B[bo];W[ao];B[an];W[ap];B[em]
+;W[dk];B[dj])
+(;W[cl];B[bl];W[ck];B[bk];W[dj];B[bj];W[bi];B[dk];W[dl];B[ek]
+;W[el];B[fl];W[fk];B[ej];W[fm];B[gl];W[em];B[bp];W[ao];B[ap]
+)))
+(;B[eq]C[This is a simple variation, but Black must still be careful.]
+;W[cr];B[hq];W[jq];B[fo])
+(;B[cr]C[This is probably best.
+
+I'll show a killing attempt by White];W[eq];B[dr];W[bq];B[er]
+;W[fq];B[fr];W[gq];B[br];W[ar];B[gr];W[hr];B[hq];W[ir];B[cp]
+;W[bp];B[ep];W[do];B[gp]))
+(;B[mf];W[nf];B[mh]LB[md:A]C[This is better, but White will live with A.]
+))
+(;B[he]C[Better?]))
+(;B[sl];W[sk];B[sm];W[qm];B[qn];W[rk];B[rn]C[White is in big trouble.]
+))
+(;B[rl]C[dv: I think the game an my variation later are better.]
+;W[qg];B[rk];W[ph];B[qm];W[pi];B[qk]
+(;W[rf];B[nd]C[Better?])
+(;W[pf];B[nd])))
+(;W[rl]LB[qn:A]C[threatening A];B[qm];W[qj]C[better shape for W]
+))

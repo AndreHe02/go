@@ -1,0 +1,143 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+PB[Juukyuu]
+BR[19k]
+PW[kubicekjd]
+WR[18k]
+KM[0.5]
+DT[2007-09-25]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[B+Resign]
+TM[1800]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+C[hello!
+this game is usefull for the understanding of parallel fuseki, then i just underline the global vision of goban]
+;B[pd];W[dp];B[pp];W[cd]TR[jb][jd][jf][jh][jj][jl][jn][jp][jr]
+C[this is a parallel opening, then the goban is divided in two like this
+
+as the purpose of the game is to get a major part of goban, at this moment a simple move  could be to play in the half part of the opponent]
+
+(;B[kc]TR[jb][jd][jf][jh][jj]C[l17 is inside the black half, then black does not makes full use of the 5th move]
+
+(;W[cm];B[lp]TR[jb][jd][jf][jn][jp][jr]C[we can say the same for m4]
+;W[pj]LB[pd:1]TR[jg][ji][jk][jm]C[then it is white the first to invade the other part
+
+this means that black lost his privilege of the first move on the goban, privilege compensate by komi]
+;B[pl];W[qk];B[ql];W[ph];B[qg];W[qh];B[rh];W[ri];B[rg];W[rl]
+;B[rm];W[sl];B[sm];W[rj];B[nk];W[dh]TR[jb][jd][jf][jh][jj][jl]
+[jn][jp][jr]C[here is evident now, the half part of black is invaded and the white part is intact , then up to now it is a white success]
+
+(;B[hd];W[gm];B[hp]TR[jb][jd][jf][jn][jp][jr]SQ[hd]C[according to the same idea h16 and h4 are good moves
+
+we can just try to understand if they are deep enough into white half part
+
+please look at the possible variation i propose and compare the results]
+;W[qm]TR[qq]C[this is a white mistake, of course, that allow black to remove the aji in r3]
+;B[qn];W[pm];B[om];W[pn];B[po];W[on];B[nn];W[oo];B[op];W[no]
+;B[mo];W[gp]
+(;B[np];W[hq];B[ip];W[iq];B[jp];W[jq];B[kq];W[kr];B[lr];W[ks]
+;B[ls];W[ir]
+(;B[hn]C[remember to play as far as you can from your thikness]
+;W[gn];B[go];W[fo];B[ho];W[fq];B[gl];W[fl];B[hl];W[hm];B[im]
+;W[gk];B[hk];W[gj];B[hj];W[nh]
+(;B[oj];W[oi];B[ni];W[mh];B[mi];W[lh]
+(;B[kh];W[lg]
+(;B[kg];W[lf];B[me];W[li];B[lj];W[ki];B[ji];W[mj];B[nj];W[kj]
+;B[mk];W[jj];B[ij];W[jk];B[jl];W[kk];B[lk];W[kl]C[There could be a way I could not let him in.]
+;B[km];W[ll];B[ml];W[lm];B[jm];W[ln];B[kn];W[lo];B[ko];W[mm]
+;B[nm];W[pk];B[ol];W[mf];B[nf];W[ng];B[of];W[og];B[pg];W[pi]
+
+(;B[gi];W[fi];B[fh];W[eh];B[fg];W[ik];B[ef];W[il]
+(;B[hh]C[I think this was a mistake. Better H11?];W[ii];B[hi]
+;W[jh];B[ih];W[ji]
+(;B[jg];W[kf];B[jf];W[ke];B[je];W[kd];B[jd];W[ld];B[md];W[lc]
+;B[mc];W[lb];B[mb];W[kb];B[jc];W[jb];B[ib];W[ia];B[ha];W[ja]
+;B[hb];W[ma];B[na];W[la];B[nb];W[cq];B[cf]LB[bh:1]C[I liked this one, although it's not so good. Normally, I would play more cautious and go up. But this made me cut him. But where should I go?
+...
+
+seems good
+c16 is isolated and there is a followup at 1];W[be]
+(;B[ce];W[bf];B[bg];W[dd];B[ed];W[ec];B[fc];W[ee];B[fd];W[de]
+;B[df];W[fe];B[ge];W[eb];B[fb];W[ea];B[fa];W[cb];B[ag];W[ad]
+;B[af];W[bd];B[cg];W[ch]
+(;B[bh];W[bi];B[ff]C[...and, afterall, I failed to take that stone.]
+;W[ai];B[eg]C[e13 is dame];W[cj];B[si];W[sj];B[sh];W[qq]TR[qn]
+[po][np][op][pp]C[and now, a difficult battle for me
+
+black too strong, r3 is a desperate move]
+(;B[qr];W[rr]C[r2 is dangerous, can lead to a ko];B[rq];W[rp]
+;B[pq];W[sq];B[qp]
+(;W[ro]
+(;B[rq];W[rn];B[rs];W[qq];B[pr];W[sn];B[qm];W[sr]C[already dead]
+;B[rq]C[maybe he could survived here, but failed somehow];W[qc]
+C[another one];B[qd];W[pc];B[rc];W[rb];B[rd];W[qq]C[this ko is meaning less]
+
+(;B[qs];W[sb];B[qa]C[nice];W[pa];B[pb];W[ob];B[oa];W[oc];B[od]
+;W[tt]C[kubicekjd [18k\]: thanks for the game
+
+At this point, he resigned.])
+(;B[fk];W[rq]LB[so:1]C[even if white wins the ko he has only one eye]
+))
+(;B[pr];W[rn];B[rs];W[sn];B[qm]))
+(;W[pr]
+(;B[or];W[qs])
+(;B[rq])))
+(;B[pr];W[qr];B[rp];W[pq];B[or];W[oq];B[nr];W[rq]LB[rr:1][sr:2]
+[rs:3][ss:4]C[dead shape]))
+(;B[bj];W[bh];B[ah]
+(;W[ai];B[bi])
+(;W[bi];B[ai];W[cj];B[bk];W[ck];B[bl]
+(;W[cl];B[bm];W[bn];B[an];W[bo];B[ao];W[ap];B[am];W[bp];B[fm]
+;W[fn];B[fk];W[em];B[ei])
+(;W[bm];B[cl];W[dl]
+(;B[al])
+(;B[fk];W[fj];B[fm];W[fn];B[el];W[dm];B[ej];W[ei];B[dk])))))
+(;B[bf]
+(;W[bh];B[dd];W[dc];B[ce];W[bd];B[ec];W[ed];B[de];W[eb];B[fc]
+;W[cb])
+(;W[ec];B[bh]LB[ei:1][fj:2]C[aiming at 1 and 2])))
+(;B[le]C[better sacrifice];W[ke];B[kd];W[je];B[ed];W[ne];B[oe]
+;W[nd];B[ld];W[oc];B[pc];W[pb];B[qb];W[ob];B[rc];W[lb];B[kb]
+;W[mc];B[pa];W[oa];B[nb]C[no way to live for white]))
+(;B[ii])
+(;B[hi]))
+(;B[ih]C[this defends both cutting points]))
+(;B[li];W[nc]))
+(;B[kj];W[li];B[lj];W[nc];B[pc];W[ne];B[ed]))
+(;B[nd];W[li];B[lk];W[ec]))
+(;B[ed]LB[qc:B][cq:A]C[still better e16
+
+A and B invasions still possible for both]))
+(;B[gq]LB[ed:A][cj:C][km:D][cq:B]TR[jb][jd][jf][jn][no][jp]
+[jr]C[you dont need to capture o5, you can quietly answer g4 or take the initiative in the A area, going deeper into white half part
+
+you can also easily invade at B, or try to experiment an invasion at C, 
+
+D area is less interesting
+
+after r7 mistake it is an easy game for black]))
+(;B[ed];W[ec];B[fc];W[dc];B[fd];W[cf];B[fq];W[fp];B[gp];W[fo]
+;B[eq];W[dq];B[iq]TR[jb][jd][jf][jh][jj][jl][jn][jp][jr]C[in this way black entered deeper into white half part, then should be better than in the game]
+))
+(;W[nq];B[qn];W[pr];B[qq];W[kq]TR[jb][jd][jf][jh][jj][jl][jn]
+[jp][jr]C[if white plays this joseki, we can see that now the black part is reduced and white one is intact
+
+this means that white took the initiative instead of black
+
+in other words, the first who reduced the other part is white instead of black
+
+this means that l17 is a doubtfull move, because l17 did not reduce white half part nor took firmly a territory]
+))
+(;B[ed]TR[jb][jd][jf][jh]C[for example e16 is a move in the half of white]
+;W[ec];B[fc];W[dc];B[fd];W[cf];B[jc]TR[jb][jd][jf][jh][jj]C[this is a simple joseki
+the result is that the black half part of goban is intact and the half part of white is smaller
+
+now white has to do the same to keep the game in balance];W[nq]
+;B[qn];W[pr];B[qq];W[kq]LB[ge:A][no:B]TR[jb][jd][jf][jh][jj]
+[jl][jn][jp][jr]C[this is an other simple joseki
+
+the result is that  A and B are reductions of same size, then the game is in balance
+
+this way of playing improves the all goban wiew]))

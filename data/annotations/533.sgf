@@ -1,0 +1,118 @@
+(;FF[4]GM[1]SZ[19]AP[SGFC:1.13]
+
+GN[redrum-NicklasE(B) IGS]
+PB[NicklasE]
+BR[13k]
+PW[redrum]
+WR[4k*]
+KM[0.5]
+DT[1998-01-02]
+PC[IGS:  igs.nuri.net 6969]
+RE[W+62.5]
+TM[60]
+US[Brought to you by IGS]
+CP[
+  Copyright (c) I.Net Technologies, Inc. 1995
+  Permission to reproduce this game is given, provided proper credit is given.
+  No warrantee, implied or explicit, is understood.
+  Use of this game is an understanding and agreement of this notice.]
+
+
+;B[pd];W[qp];B[dd];W[co];B[op];W[pn];B[lp];W[oq];B[nq];W[pq]LB[np:a][gq:b]
+[nr:c]C[At this point, a white cut at "a" is not very good (can capture
+one stone but b becomes very thick) so a direct response is not  necessary.  probably better to extend along the bottom  towards the left, perhaps to "b" or thereabouts.
+Another possibility is descent to "c".];B[oo]LB[nr:a][mq:b]
+C[I feel this move does more to strengthen white than black.
+It leaves white good points like "a" (grab territory)
+or "b" (all-out assault).];W[pm];B[qo]C[This cut doesn't work and shouldn't be played.  It leaves  the black stones P4, P5 short of liberties.  Now they have
+four liberties...];W[po];B[pp];W[qq]C[...and now only three.  White suffers no such shortage.]
+;B[qj];W[nm];B[oj];W[nc];B[nd];W[md];B[ne];W[oc];B[pc]
+;W[kc]LB[pf:a][me:b]C[When white defends the N17 cutting point, it's good for  B to defend the P16 cut say with "a", possibly after
+forcing at "b".];B[hc];W[od];B[oe];W[pe];B[pf];W[qe];B[qf];W[rd]
+;B[pb];W[rf];B[rc];W[ob];B[qd];W[re]
+C[The best way for b to make eyes in this shape
+is S18.  The move played (t17) leaves a weakness
+at S18.];B[oa];W[mb];B[sc];W[na];B[pa];W[of]TR[oj][qj]LB[rl:a]
+[rh:b]C[This is bad news for black. I can't find a continuation I like.  Best bet might be to play moves like a and b to stabalize  triangled stones and then play an extension like G3.
+(I think a and b are sente).];B[nf];W[og];B[ph]TR[qf][pf]LB[pg:a]
+C[This move does not work.  w pushes at "a" and
+the triangled stones are captured.
+
+Again I can't see a continuation I like.
+With triangle stones captured W is almost alive already.];W[ng];B[le]
+;W[ld];B[lf];W[pg];B[qh];W[qg]
+;B[he]TR[oq][pq][qq][qp][nm][po][pn][pm][rd][re][qe][pe][of]
+[rf][qg][pg][og][ng]C[
+This is a nice point but probably should take s8 first,
+keeping in mind how thick white's marked stones are.
+The black stones need help!]
+;W[cf]
+(;B[ch]LB[cj:a]C[This pincer would be better at "a".
+See the variation (previous node).
+The move played invites W to take the corner, at which point B has no good continuation ---]
+;W[cc]TR[ch][he][hc]LB[dc:a][cd:b]C[Either way B pushes, "a" or "b", leaves B overconcentrated
+with respect to marked stones.  You'd rather have an extension
+out to line 10 or row K.];B[dc];W[cd];B[de];W[bf];B[df];W[cb]
+LB[rl:a][ep:b]C[B should ignore this move.  The territory around F16 is small;
+even after D18, it's only about 20 points.  How about "a"
+or "b" instead.];B[db];W[dq];B[cl]TR[bf][cf]LB[hq:a][jq:b]C[Because of strength of marked stones, B has no hope of  making territory along the left side.   (See variation).
+Better to extend to "a" and secure weak  bottom right group.
+Otherwise, white has a vicious attack waiting at "b".]
+(;W[jp];B[jq];W[iq];B[jr]
+;W[ip]LB[nr:a][kp:b][lq:c]C[How about descending to "a" here to make eyes.
+if white "b", black "c".];B[kp];W[ir];B[js]LB[lr:a][nr:b]C[
+"a" or "b" are better than the played move for eyes.]
+;B[mq];W[mr];B[kn];W[kl];B[ln]
+;W[ml];B[mo];W[rl]C[ouch!]
+;B[mj];W[ni];B[nj];W[lh]C[This is very painful for b but there's nothing you
+can do about it..];B[mi];W[oi];B[mh];W[mg];B[lg]
+;W[pj]LB[ql:a];B[pk];W[pi]LB[ol:a][om:b]C[Now how about "a" for black, threatining to push and cut at "b".]
+(;B[ok];W[qk];B[ql];W[rk];B[pl];W[qm]LB[kh:a]C[Now capture the cutting stone with "a"...]
+
+(;B[li]
+;W[kh];B[ki];W[jh];B[ji];W[ih];B[ll];W[ke];B[jl];W[dg];B[dh]
+;W[cg];B[eg];W[bh];B[cj];W[eh]LB[bi:a][ei:b][fh:c][fg:d]C[black's foremost concern is eyes for side group.
+How about "a" instead of the move played ("b").
+In most cases, when white cross-cuts with a move  like the one played (E12), it is better not to  give atari like "b" or "c" because you form
+weak groups on both sides of white's strengthend
+cutting stone.  It is usually better to defend
+the weaker of your groups, with a move like "a" or "d".]
+;B[ei];W[fh];B[fg];W[gg];B[gh]TR[nd][oe][ne][nf]
+[lg][lf][le]C[All of this cutting helps white make eyes,
+removing any value of the marked stones.];W[fi];B[gf];W[ej]
+;B[dj];W[di];B[ci];W[hg];B[hf];W[hh];B[gi];W[gj];B[hi];W[el]
+;B[dl];W[em];B[ek];W[fk]
+;B[ei];W[fj];B[dk];W[ii];B[hj];W[hk];B[ij];W[kf];B[ik];W[if]
+;B[fl];W[fm];B[gl];W[dn];B[gm];W[gn];B[hn]
+;W[ho];B[in];W[da];B[ea];W[ca];B[fb];W[gr];B[dm];W[en];B[ce]
+;W[be];B[io];W[go];B[om];W[on];B[ol];W[no];B[np];W[nn];B[mm]
+;W[mn];B[lm];W[nl];B[jb];W[jo];B[jn];W[ko]
+;B[lo];W[id];B[ic];W[ie];B[hd];W[bn];B[bm];W[jc];B[kb];W[lb]
+;B[is];W[hs];B[bi];W[ks];B[kq];W[ai];B[aj];W[ah];B[an];W[ao];B[am]
+;W[rb]C[not nice!]
+;B[qb];W[ra];B[sb];W[sd];B[kr];W[ls];B[mk];W[ka];B[ib]LB[ia:a]
+C[Usually played at "a" instead.
+(not sure why)];W[ja];B[ia];W[la];B[nk];W[rm];B[nh];W[oh];B[cn]
+;W[cm];B[ag];W[bg];B[bd];W[bc];B[cn];W[bo];B[cm];
+TW[aa][ab][ac][ad][ae][af][ag][ap][aq][ar][as]
+[ba][bb][bd][bp][bq][br][bs][cp][cq][cr][cs][do][dp][dr][ds]
+[eo][ep][eq][er][es][fn][fo][fp][fq][fr][fs][gp][gq][gs][hp]
+[hq][hr][ig][jd][je][jf][jg][kd][kg][lc][le][lf][lg][ma][mc]
+[me][mf][ms][nb][nd][ne][nf][ns][oe][or][os][pf][ph][pr][ps]
+[qf][qh][qi][qj][qn][qo][qr][qs][rg][rh][ri][rj][rn][ro][rp]
+[rq][rr][rs][se][sf][sg][sh][si][sj][sk][sl][sm][sn][so][sp]
+[sq][sr][ss]TB[ak][al][bj][bk][bl][ck][di][eb][ec][ed][ee][ef]
+[eh][ej][fa][fc][fd][fe][ff][fh][fi][fj][fk][ga][gb][gc][gd]
+[ge][gj][gk][ha][hb][hk][hl][hm][il][im][jj][jk][jm][kj][kk]
+[kl][km][lj][lk][mp][qc])
+(;B[kh];W[li];B[kj]))
+(;B[ol];W[nn];B[rk];W[no];B[np]))
+(;W[bh];B[bi];W[cg]
+(;B[dg];W[ci])
+(;B[dh];W[dg];B[eg]
+(;W[ci];B[bj];W[dj];B[ei];W[ek]TR[cl][bj][bi]C[tough fight ahead for triangled stones...]
+)
+(;W[ai];B[bj];W[aj];B[ak];W[ah];B[bk]C[B's territory reduced to almost nothing.]
+))))
+(;B[dj];W[cc];B[cd];W[dc];B[ed];W[bd];B[be];W[bc];B[ce];W[fc]
+;B[fd]TR[dj]C[The wall works well with the marked stone.]))

@@ -1,0 +1,151 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.14]VW[]
+
+PB[Capslock]
+BR[10k]
+HA[0]
+PW[fremen]
+WR[10k]
+KM[6.5]
+DT[2003-05-19]
+PC[The Kiseido Go Server (KGS) at http://kgs.kiseido.com/]
+RE[W+11.50]
+TM[1300]
+OT[5x20 byo-yomi]
+RU[Japanese]
+
+C[hello, i'm black
+i have two big questions: i think i didn't play a ggod game in
+the upper left. What should have i to do ?
+and i think i had to go into white moyo but i don't know when
+
+Hi -- you show good whole board intuition, so many
+of the mistakes I will comment on are tactical ones.  We will
+get to them as they come.
+
+I did the review in Many Faces of Go and replayed it in CGoban
+(which I use for a KGS connection).  Both allowed me to easily
+view all of the variations I created.  Anytime I play out a variation
+I first mention it in a comment.];B[pd]C[Capslock [10k\]: hi from france]
+;W[dp];B[pq]C[fremen [10k\]: hello];W[dc];B[qk]C[fremen [10k\]: i'm from brazil]
+;W[nc];B[pf];W[kd];B[de]C[i tought that white will play E15 or F16. What have i to play
+against F17 (which seems slow)
+
+F17 is a joseki that is old style, but white can
+certainly get a reasonable result with it.  Additionally, you
+will see there are variations where black can be terribly tricked.]
+;W[fc];B[cc]LB[cd:B][cb:A]C[This is correct - white's options are now A or B.]
+
+(;W[cd]C[See variation for white-c18 joseki.];B[dd];W[bc]
+(;B[ce]C[This is the first mistake -- see variation.];W[cb]
+;B[di];W[po];B[np];W[qq];B[qr];W[qp]
+(;B[or]C[This is a joseki, but when you play the chinese opening and have
+a stone at r9, you should put more pressure on white. See varation.]
+;W[qm];B[nn];W[om];B[fq];W[cn];B[dr]C[D2 is a territorial move.  You want to make a moyo. Hence H4
+is probably best here. (J3 is played a lot but it is too low
+here)]
+(;W[cq]C[I wouldn't have played this way if I were white.  I would play
+the variation instead.];B[ip]C[
+J4 is usually too ambitious (H4 and J3 are more common) but it
+may be ok here because you need to  make your wall useful];W[ck]
+C[C9 is a big point that white is happy to take.];B[dk];W[cl]
+;B[cj];W[fe]
+(;B[pb]C[A little slow -- I would invade first. (see 2 variations)]
+;W[ie];B[eg]LB[bh:B][ch:A]C[I can see why you made this move -- if you don't white can cause
+trouble with moves like A or B.  But it is slow and having to
+make this move is painful.
+
+If you played the joseki in the top left correctly you wouldn't
+have to worry about making this slow move.];W[gg];B[ep];W[ne]
+C[Now your moyo invasion hopes are virtually gone.];B[ng];W[qj]
+C[should i have played Q11 instead of O13 ? But i didn't want white
+to extend more his moyo
+
+Yes Q11 or R11 much better.  White's moyo is already big - O13
+just slightly reduces the size of the moyo.];B[pl]C[Not good -- white can play S9 and connect from below.  Must play
+Q9 or Q10 instead.];W[pj];B[ol];W[pm];B[nm];W[rk]C[This was very bad for you.]
+;B[qh];W[nl];B[nk];W[ml];B[oj];W[pk];B[oi]C[Moves 53-55-57 are not consistent with each other.]
+;W[ok];B[kn];W[ll]LB[cr:C][be:B][ob:A]C[White M8 is gote.  He should instead play A, B, or C.
+
+This slack move gave you a chance to get back into the game.]
+;B[lg];W[nj];B[ni];W[mj];B[ma]C[Good, reduce in sente.];W[mb]
+;B[na];W[la];B[oa];W[lb];B[cr]C[Good.];W[br];B[bs];W[bq];B[dq]
+;W[do];B[bj];W[jg];B[am];W[bm];B[al];W[an];B[ak];W[fn];B[ar]
+;W[aq]C[B5 is the safe move for white.  You did a nice job exposing his
+eye problems but he should have lived comfortably.];B[bo];W[bn]
+;B[cp];W[co];B[bp];W[as];B[cs]LB[rr:B][md:A]C[This is very bad -- this is not a threat -- you should play elsewhere,
+like A or B.  If black responds then take the ko back.];W[ao]
+;B[hm];W[dl];B[ek];W[go];B[gp];W[ho];B[hp];W[io];B[em];W[en]
+;B[dm];W[el];B[fm];W[fl];B[gm];W[gk];B[jo];W[gi];B[in];W[fi]
+;B[ei]C[This move doesn't do much -- should be at B15.];W[fg]
+;B[jl];W[be];B[bf];W[af];B[bg];W[ri];B[rh];W[sh];B[sg];W[si]
+;B[rf];W[oc];B[pc];W[oe];B[le];W[pe];B[qe];W[ld];B[me];W[md]
+;B[rr];W[rq];B[of];W[ed];B[ag];W[ae];B[df];W[jj];B[kk];W[kj]
+;B[lk];W[mk];B[lj];W[li];B[hk];W[hj];B[kh];W[jh];B[ki];W[ji]
+;B[mi];W[ik];B[il];W[hl];B[ln];W[kg];B[lh];W[kl];B[km];W[jk]
+;B[li];W[nf];B[mg];W[ke];B[gl];W[fk];B[ej];W[bk];B[aj];W[ob]
+;B[cm];W[bl];B[od];W[nd];B[pa];W[mf];B[lf];W[pi];B[ph];W[oo]
+;B[no];W[sr];B[kf];W[jf];B[fo];W[gn];B[eo];W[dn];B[on];W[pn]
+;B[op];W[eh];B[dh];W[fh];B[ff];W[gf];B[ef];W[mm];B[mn];W[fj]
+;B[im];W[ee];B[ar];W[ap];B[as];W[hk];B[nb];W[rs];B[qs];W[sq]
+;B[ss];W[ps];B[pr];W[rs];B[lm];W[ql];B[ss];W[er];B[eq];W[rs]
+;B[ac]C[Better at B16 -- then you get one more ko threat out of this
+corner];W[bd];B[ss];W[rg];B[qg];W[rs];B[pp];W[ss];TB[ps][os]
+[ns][ms][ls][ks][js][is][hs][gs][fs][es][ds][nr][mr][lr][kr]
+[jr][ir][hr][gr][fr][er][oq][nq][mq][lq][kq][jq][iq][hq][gq]
+[mp][lp][kp][jp][fp][mo][lo][ko][jn][jm][dj][ci][bi][ai][oh]
+[nh][mh][ch][bh][ah][rg][pg][og][dg][cg][sf][qf][cf][se][re]
+[sd][rd][qd][sc][rc][qc][sb][rb][qb][sa][ra][qa]TW[sp][rp][cp]
+[bp][so][ro][qo][bo][sn][rn][qn][sm][rm][sl][rl][pl][ol][sk]
+[qk][nk][sj][rj][ij][gj][ii][hi][ih][hh][gh][ig][hg][if][hf]
+[je][he][ge][jd][id][hd][gd][fd][ad][mc][lc][kc][jc][ic][hc]
+[gc][ec][cc][ac][kb][jb][ib][hb][gb][fb][eb][db][bb][ab][ka]
+[ja][ia][ha][ga][fa][ea][da][ca][ba][aa]C[
+You play pretty well strategically so there is not one thing
+I can say to make you instantly better.  Just a few small mistakes
+here and there cost you the game.
+
+I play as sergeant on both KGS and IGS.  Look for me and I will
+be happy to play a game with you.
+
+Take care,
+
+Mike LePore])
+(;B[lc]C[One possibility is jumping right in.  Caution: if this doesn't
+work your opponent will not only kill you -- he will get a lot
+of center influence as well so be careful.
+
+Rule: when your opponent has a moyo - invade only if 1) you can
+enter and make two eyes or 2) enter and run out into the center.
+
+If you can do neither of these things, best not to invade but
+reduce instead.];W[ld];B[mc];W[nd];B[md];W[me];B[kc];W[jc];B[jb]
+;W[ic];B[nb];W[ob];B[mb];W[pc];B[ib];W[hc]TR[jd][ne][le]C[This is one of many possibilities.  Black is alive and also has
+a lot of marked cutting points to cause trouble with later.]
+)
+(;B[gd]C[Or threaten from up high...];W[ge];B[jd];W[jc];B[kc]
+C[Crosscutting is one of the best ways to make sabaki.]))
+(;W[gq];B[gp];W[hq];B[hp];W[fr];B[eq];W[jq]C[And there goes your moyo...]
+))
+(;B[rr];W[qm];B[ok];W[om]C[This way you are putting more pressure on white and the top right
+side is almost secure.
+
+This is the spirit of the chinese opening -- invite your opponent
+in and profit while attacking him.]))
+(;B[cb]C[Descending first before you atari at C5 is important.]
+;W[db]LB[bd:B][ce:A]C[Now black has two choices, A or B.  
+Black should take care before playing B as it comes with a nasty
+trick.
+
+Both variations are played out here.]
+(;B[ce];W[bd];B[be]C[Notice that descending at C18 before the atari at C15 made this
+move sente for black.];W[bb];B[ci]C[Nice and clean for both sides.
+
+A good general rule  -- extending before sacrificing is often
+a good thing.  This joseki shows why.])
+(;B[bd]C[Here's the other main line that is played.];W[ce];B[bb]
+;W[cf];B[df];W[cg];B[dg];W[ch]C[At this point, many people think that black is safe in the corner,
+but suppose black plays elsewhere...];B[jp];W[ac]C[later white will descend to A17, a devistating move]
+;B[ab];W[ca]C[Black cannot play B19 -- he is tricked.  So Black should hane
+at d19 before playing elsewhere.])))
+(;W[cb];B[cd];W[bb];B[ci]LB[gd:A]C[Peaceful ending, but white is a bit low on the top and black
+can aim to reduce with a shoulder hit at A.]))

@@ -1,0 +1,282 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+EV[Darmstädter Go-Tage]
+RO[1]
+PB[Sebastian Heuchler]
+BR[1k]
+PW[Stefan Weitzel]
+WR[1k]
+KM[6]
+DT[2008-05-24]
+PC[Darmstadt]
+RE[B+Resign]
+TM[3600]
+OT[20/300 Canadian]
+RU[Japanese]
+US[mafutrct]
+AN[Jonathan Markowitz]
+
+C[Dear reviewer,
+
+this is a tournament game i (black) played against a German 1 kyu.
+
+I misread in the beginning, but i was able to turn the game around later. Everything was chaotic and there are few "simple" moves.
+
+I'd greatly appreciate if you could comment on my mistakes. I'm especially interested in tesuji.
+
+Thank you very much!
+
+--
+
+Hi Sebastian!
+
+My name is Jon and I'll be providing the analysis for your game.   My comments are marked with "Jon:" at the beginning.]
+;B[pd]
+(;W[cd]C[Jon:  When playing white, it's important to watch which direction you place a 3-4 stone in the corner when black has 4-4 stones in play.  You don't want to give black an ideal approach move from his 4-4 stone, but that's what happened here.]
+;B[pp];W[dq];B[ed]LB[pd:A]C[Jon:  A good move, this is an ideal approach from black's top right corner at A.]
+
+(;W[hd]TR[ed]C[Jon:  It's harder to attack black with his ideal setup, but this pincer feels too loose, it allows black's pincered stone to move out easily and counterattack.
+
+What would be a better way to pincer?];B[ef]C[Jon:  The correct plan, black will have a comfortable time counterattacking white's pincer stone.]
+;W[cf]
+(;B[kd]C[Jon:  Too early!   When you're counterattacking a two point pincer, you need to build more strength first before launching the counterattack.]
+;W[dh]
+(;B[hf]TR[ed][ef]C[Sebastian:  This seemed to be the natural move.
+
+Jon:  While it may seem natural, black's shape in relation to the marked stones is very thin, so I'm  concerned about that.  I'd prefer to move out more carefully.]
+;W[ec]TR[ed][ef][hf]C[Jon:  As black, this attachment now worries me with the thin shape of the marked stones.]
+
+(;B[fc];W[fd]
+(;B[gc]C[Sebastian:  I misread the ladder here - there is no ladder >_<
+
+Jon: ><   I provided another route to consider in the variation.]
+;W[gd];B[dc];W[eb];B[db];W[ee];B[dd];W[hc];B[fb];W[gb];B[ea]
+;W[de];B[fe];W[gf];B[ff];W[gg];B[ge];W[he];B[fh];W[fg]C[Sebastian:  Black is surprised - there is no ladder >_<
+Very very stupid. Should i resign?
+
+Jon:  Nah, the game's still perfectly playable, so you can safely continue.]
+
+(;B[do]C[Jon:  Because white has a lot of strength above, I would prefer to play more defensively (i.e. play with the aim of getting a base) and use a low approach.]
+;W[cm]
+(;B[dm]LB[hh:A][cm:B]TR[gf][fg][gg][dh]C[Sebastian:  I thought that i need to play unusual moves to be able to win. I wanted to play the A sequence soon and try to build a big right side.
+
+Jon:  You don't really need to play too unusually, the game's not that far gone yet.  As for this move, I'd prefer to use something else, the marked stones will make the stone at B harder to counterattack, so I don't think black'll be able to get a good result here.]
+;W[dl];B[eg];W[eh];B[hh];W[hg];B[ig];W[if];B[gh];W[hf];B[em]
+;W[cn];B[co]TR[dh][eh]C[Sebastian:  I was happy with this result. Black is behind, but he has potential.
+
+Jon:  Hum...  I'm not really happy with this for black, as he's now forced to stabilize this group, but he won't be able to get much from it due to white's strength above.]
+;W[fp]C[Sebastian:  Is this a good move for white?
+
+Jon:  Definitely, this is perfectly fine.]
+(;B[hq]TR[dh][eh]C[Sebastian:  I needed to play agressive. I considered G12 to be helpful in the fight.
+
+Jon:  This is a dangerous overplay though, as it forces white to separate your groups.  As for the G-12 stones, they need to be closer to be of more assistance.  There's also white's marked stones, which are pivotal here.]
+
+(;W[gr]LB[go:A]C[Sebastian:  This was odd. i expected white to play at A.
+
+Jon:  This is very odd, but also extremely submissive, so the kosumi at A is a must.]
+
+(;B[go]C[Sebastian:  Black's center looks promising. The game becomes even again, i think.
+
+Jon:  Black *is* getting nice influence in the center, but because it's still very loose and open, it's hard to know how much you'll actually get right now.]
+
+(;W[hr]C[Jon:  Another small move.  White really needs to get to the right side.]
+
+(;B[iq]LB[pj:A]C[Sebastian:  Is this move slow?
+
+Jon:  Yeah, I'd want to get to the right side with A now.];W[qj]
+;B[ql]C[Jon:  A good decision, you have better prospects on the bottom.]
+;W[qf];B[qh];W[of]
+(;B[pi]LB[nd:A]TR[hc][hd][he][if]C[Sebastian:  My idea was to make white overconcentrated on the top. The lower right quadrant of the board seemed bigger.
+
+Jon:  You have a good idea, but I'm very worried about white's natural response of A next.  He can shut the top right corner in and try to make a big chunk of points on the top with his marked wall.
+
+With this in mind, I'd prefer to keep the game simple and move out at A myself.]
+;W[nd];B[nc];W[mc];B[oc];W[md];B[rd];W[pj];B[oi];W[qn]LB[pl:A]
+TR[pj][qj]C[Sebastian:  This was weird. Overplay?
+
+Jon:  It looks weird at first, but saving the two marked white stones on their own would be too much of a pain, so this way white can threaten to take a simple base in the corner with the 3-3 invasion or cap the black stone with A.]
+;B[ol];W[qq];B[qp];W[pq];B[op];W[rp];B[ro];W[rq];B[qo];W[nq]
+
+(;B[oj]LB[mo:A]TR[pj][qj]C[Sebastian:  Now the game seems to be fine for black. Is this move good? How about black A instead?
+
+Jon:  I love the solidity of this move, but because white's marked stones aren't going anywhere fast, I'd prefer to go for black A.]
+;W[np]C[Jon:  You can really see the difference between who gets to this area first.]
+;B[no];W[mo];B[nn]
+(;W[mn]C[Jon:  An overplay, white must connect.];B[mp]C[Jon:  White says "Ow!"]
+;W[mr];B[lp];W[nm]
+(;B[pn]LB[om:A]C[Jon:  This feels submissive, black can safely block at A.]
+;W[io]
+(;B[ln];W[lo];B[ko];W[mm];B[kp];W[lk];B[li]C[Jon:  It's going to be a tough fight for white.]
+;W[kn]
+(;B[lm]C[Jon:  I'd prefer to give up this stone and try to attack from the outside.]
+
+(;W[jl]LB[km:A]C[Jon:  White has the right idea, but I feel making the atari at A directly will leave white with a stronger group.]
+;B[kl]C[Sebastian:  I think black missed this move.
+
+Jon:  You mean white?  Probably, and it's going to make things more complicated for white.]
+;W[mj];B[kk];W[mi]LB[el:A]C[Sebastian:  I think this is good enough for black.
+
+Jon:  Looks good.  The last piece in this puzzle will be to get the turn at A.]
+;B[kb]C[I played here to see how white answers. If white plays n18, black will try to split white's groups.]
+;W[mb];B[ng];W[lh]
+(;B[mh]LB[ki:B][kj:A]C[Sebastian:  I misread here. I did not see that white can play at A.
+
+Jon:  Yeah, I'd want to extend at B instead.];W[kj];B[jk];W[jj]
+;B[ik];W[lg]C[Sebastian:  I decided to start endgame soon.
+
+Jon:  That's reasonable,];B[nf];W[od];B[pe];W[oe];B[pf];W[pc]
+;B[qc];W[pb];B[qb];W[ob];B[ih]LB[hb:C][jf:B][og:A][el:D]C[I think this is bigger than A. Black aims at B + C.
+
+Jon:  Agreed.   You also want to try and get D too.];W[pg]
+(;B[qg];W[og];B[hb];W[ib];B[ga];W[ij];B[jf];W[kf];B[ic];W[je]
+;B[jg];W[ke];B[jd];W[ie]
+(;B[el];W[fj];B[gj];W[dk];B[fk]LB[ki:B][gk:A][hk:C]C[Jon:  To keep it simple, I'd prefer to extend straight down at A.  This way you can threaten B later, but it also weakens the bad aji white would have with the hane/wedge at C.]
+;W[hk]LB[bi:A][kl:B][dq:C]C[i dont remember the subsequent moves. It became a giant tsumego. There was a very big fight, black lived at A, died at B and killed C o_O
+
+Jon:  Wow!  XD  Killing C doesn't surprise me as much, black can really smush that thing, but living at A, sounds like the rest of the game was exciting!]
+;LB[ea:25][ga:133][db:19][eb:18][fb:23][gb:24][hb:131][ib:132]
+[kb:107][mb:108][ob:126][pb:124][qb:125][dc:17][ec:12][fc:13]
+[gc:15][hc:22][ic:137][mc:64][nc:63][oc:65][pc:122][qc:123]
+[cd:2][dd:21][ed:5][fd:14][gd:16][hd:6][jd:141][kd:9][md:66]
+[nd:62][od:118][pd:1][rd:67][de:26][ee:20][fe:27][ge:31][he:32]
+[ie:142][je:138][ke:140][oe:120][pe:119][cf:8][ef:7][ff:29]
+[gf:28][hf:46][if:44][jf:135][kf:136][nf:117][of:60][pf:121]
+[qf:58][eg:39][fg:34][gg:30][hg:42][ig:43][jg:139][lg:116][ng:109]
+[og:130][pg:128][qg:129][dh:10][eh:40][fh:33][gh:45][hh:41]
+[ih:127][lh:110][mh:111][qh:59][li:99][mi:106][oi:69][pi:61]
+[fj:144][gj:145][ij:134][jj:114][kj:112][mj:104][oj:81][pj:68]
+[qj:56][dk:146][fk:147][hk:148][ik:115][jk:113][kk:105][lk:98]
+[dl:38][el:143][jl:102][kl:103][ol:71][ql:57][cm:36][dm:37]
+[em:47][lm:101][mm:96][nm:90][cn:48][kn:100][ln:93][mn:86][nn:85]
+[pn:91][qn:70][co:49][do:35][go:53][io:92][ko:95][lo:94][mo:84]
+[no:83][qo:79][ro:77][fp:50][kp:97][lp:89][mp:87][np:82][op:75]
+[pp:3][qp:73][rp:76][dq:4][hq:51][iq:55][nq:80][pq:74][qq:72]
+[rq:78][gr:52][hr:54][mr:88]C[Sebastian:  Any final comments on some moves?
+Thanks a lot for reviewing!
+
+Jon:  To recap, I'd like to summarize two of the more important points for this game:
+
+1.)  In pincer joseki for the one point approach to the 3-4, a one point pincer requires one jump out, the two point pincer requires two jumps out.
+
+2.)  When choosing a joseki, always watch for any nearby stones that may affect what you can and cannot do.  In this game, the white stones at 10 and 40 played a huge part in the bottom left.
+
+
+Thank you very much for allowing me to review your game!  I hope you found it beneficial, and if you have any questions, please feel free to contact me.]
+)
+(;B[cl]C[This is probably better.]))
+(;B[og]C[Sebastian:  Is this possible?
+
+Jon:  It is, so I'd play this instead.]))
+(;B[ki]))
+(;W[km]TR[mn][lo][mo]C[Jon:  White can give up the marked stones to get a stronger group on the outside.]
+;B[ll];W[kl];B[ml];W[mk];B[nl];W[jj]TR[lk][mk][kl][km][kn]C[The marked stones are more solid now.]
+))
+(;B[jn];W[km];B[jm];W[kl];B[jj]C[Sebastian:  Is this possible?
+
+Jon:  Yup!  This is how I would proceed.]))
+(;B[ko]C[Sebastian:  How about this instead?
+
+Jon:  This feels good, it's more solid and simple.]))
+(;B[om];W[rn];B[so];W[on];B[oo];W[pn];B[mm];W[nl];B[lm]))
+(;W[lp]TR[if][of]C[Because white has access to the center from the marked stones, I don't think white needs to act desperately yet.]
+))
+(;B[mo]LB[on:A]C[Jon:  This move is critical for closing off the center, but it also claims some more points around A.]
+))
+(;B[nd]C[Sebastian:  Is this better?
+
+Jon:  I vote "yes".];W[pi];B[rd];W[ph]C[Jon:  The fight in the top right is now finished.  Black strengthened the corner and prevented it from being shut in.  
+
+What should black worry about next?]
+(;B[ol]C[Jon:  Because black's center potential is starting to swell out pretty nicely, I would jump out and keep building it.]
+)
+(;B[ir]LB[bq:A]C[Jon:  Later, you'll want to consider turning here.  It threatens the slide at A, which would put white's bottom left corner group under a lot of pressure.]
+)))
+(;B[pj]C[Sebastian:  Better?
+
+Jon:  Yup!  ^^]))
+(;W[qj]C[Jon:  This move is huge for both sides.]))
+(;B[fo];W[gp];B[kq]TR[dm][em][co][do][fo]C[Jon:  This way, the marked stones are a little more stable.]
+))
+(;W[go]C[Jon:  Separating is really painful for black.];B[kq]
+C[Jon:  If black settles the bottom stone...];W[el]C[Jon:  Then white can continue the attack on the bottom left stones, leaving black in a real quandary.]
+))
+(;B[fo]C[(The basic joseki and an alternative to consider)
+
+Jon:  The safest thing to do is attach onto white's keima to fix the cut.]
+;W[gp]
+(;B[dj]TR[dh][eh]C[(The basic continuation)
+
+Jon:  Normally, black would then counterattack, but because of the marked stones in place, it's not so easy.]
+;W[el];B[fl];W[ek]C[Jon:  Black is in trouble now, having multiple weak groups to worry about.]
+)
+(;B[cq]C[(The alternative route)
+
+Jon:  Black can try to establish some grounding by attaching into the corner.]
+;W[cr];B[dr];W[er];B[eq];W[ds];B[dp];W[dr];B[ep];W[fr]C[Jon:  Black has slightly better prospects for making eyes.]
+)))
+(;B[en]C[Jon:  The kosumi looks more attractive to me.];W[gq]
+;B[dl]LB[gq:A]C[Jon:  This would help keep white's left side from expanding, but the bottom was damaged when white extended to A.]
+))
+(;B[co];W[cm]C[Jon:  If white pincers...];B[gq]C[Jon:  Black can treat the approach stone as light and give it up to establish himself on the bottom.]
+;W[ep]
+(;B[jq]C[(the normal continuation)
+
+Jon:  Extending back right away would be normal, but I'm worried about leaving white the pressing move at A.]
+;W[cp])
+(;B[go]C[(another idea)
+
+Jon:  What about jumping up first?];W[en];B[kq]C[Jon:  This way, black encroached on white's potential on the left side, but also strengthened the bottom.]
+)))
+(;B[gd]C[Jon:  What about the atari down?];W[fe];B[gc];W[ge]
+;B[he];W[ee];B[eb];W[dc]C[Jon:  This looks more playable for black.]
+))
+(;B[dc]C[Sebastian:  Is this better?
+
+Jon:  I feel it's better to hane the other way, this doesn't feel too good for black.]
+
+(;W[dd];B[fc];W[eb];B[fd]
+(;W[db]LB[fb:A][if:B]TR[fc][ed][fd][kd][ef][hf]C[Sebastian:  If this happens, black seems to be very fine.
+
+Jon:  I would be much happier as white here.  He got a solid corner, but black's position around the marked stones has a lot of holes.  White can push through at A, escape down with B, etc.  Also, white doesn't even have to respond with this move, he could take a big move elsewhere.]
+)
+(;W[qj]C[Jon:  White could break apart the right side instead.]
+;B[db]C[Jon:  Later, if black gets this move in...];W[cb]C[Jon:  White has this attachment to protect the corner.]
+;B[fb];W[cc];B[ea]))
+(;W[fd]C[Jon:  This is an interesting idea, but it would damage white's top left corner.]
+;B[dd]C[Sebastian:  I was afraid of this. I dont know what happens now.
+
+Jon:  It's quite a messy fight.  At this point, white's basically committed himself to living on the top, so white would want to work on that next.]
+;W[kc]LB[dc:A]C[Jon:  I would expect white to attach underneath and try to establish a base, but it's tough for black to find a good answer.  This is another reason why I don't like the hane at A.]
+)))
+(;B[gf]C[Jon:  The one point jump wouldn't leave as weak a shape.]
+))
+(;B[eh]C[Jon:  It's important to jump one more time to get your pincered stones safely out of danger.]
+;W[ch];B[cc]C[Jon:  Black also needs to make this exchange to prevent white from sneaking above/underneath black on the top.]
+;W[bc];B[kd]LB[cc:A][dc:B]C[Jon:  Now black is ready to start the counterattack.  The forcing move at A is considered light and not important right now, but drawing back to B is a bigger move for later.]
+))
+(;W[gc]C[Jon:  The one point low pincer will fit better with white's plan, putting more pressure on black's approach stone and threatening to connect underneath.]
+;B[fe]C[Jon:  What should white do now?  
+
+HINT:  In order to come out of this position with a more balanced result, you must think outside of the box and avoid following joseki blindly.]
+
+(;W[kd]C[(Correct answer)
+
+Jon:  White can't afford to let black develop the top so comfortably, so this light extension is a clever way to break black's rhythm in exchange for black getting more control over the top left corner.]
+;B[cf]LB[ec:A]C[Jon:  Black attacks the corner in return, but white still has the option of living in there later with A.
+
+At this point, the top left is finished for now.  What should white do now?]
+;W[cn]LB[nc:A][jq:B]TR[ed][fe][cf]C[Jon:  Enclosing the corner is a solid, steady move that prevents black from zooming down the left side with his marked stones to approach it himself.  Next, white will aim at A or B, depending on how black wants to proceed.]
+
+(;B[mc];W[jq]TR[gc][kd]C[Jon:  White's marked stones are more flexible, so you don't need to defend.  Black makes something useful out of the top right corner and white gets an extension from his enclosure.]
+)
+(;B[jq]C[Jon:  Black can also consider checking the enclosure, but...]
+;W[nc]LB[qj:A]C[Jon:  ...White will strengthen the top stones, putting black's top right corner stone in an awkward position. Breaking apart the side at A is also possible.]
+))
+(;W[cg]C[(Wrong answer)
+
+Jon:  Extending down the side is the joseki move, but it allows black to take control of the top.]
+;B[hd]C[Jon:  Black is happy to press white down.])))
+(;W[dc]LB[dp:A]C[Jon:  This is why white places the top left corner on this 3-4 point.  Now white can wait and see what black does in the bottom right corner before choosing his second corner point.  Taking the diagonally opposite 4-4 point at A wouldn't be a big threat to white, due to the nature of diagonal openings.]
+;B[dp]C[Jon:  Diagonal openings lead to more territorial kind of games, as separating all of the corners makes it hard to build moyo, so using two 4-4 points in such an opening isn't the greatest idea, they're not a good fit for it.]
+))

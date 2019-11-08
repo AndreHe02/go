@@ -1,0 +1,177 @@
+(;FF[4]GM[1]SZ[19]ST[0]CA[UTF-8]AP[SGFC:1.17]VW[]
+
+GN[19x19hand8g1]
+PB[Timo]
+BR[30k]
+HA[8]
+PW[unknown]
+KM[6.5]
+DT[2012-06-16]
+RE[B+16.5]
+RU[Japanese]
+AN[Steve@CarderFamily.net]
+
+AB[dd][jd][pd][dj][pj][dp][jp][pp]C[Hello. I'm rather new at go having started it only a week or
+so ago. I have played igougo on 9x9 board a bit, then
+moved to 13x13 and now have started practicing on
+19x19 board.
+I'll add questions and comments on specific moves.
+
+When receiving a high handicap, you want to play conservatively. White is presumably better than you at fighting so you want to avoid fights when you can.  Try to keep your stones connected.
+
+When you look through this reviewed game, be sure to use a program that will show you the stones and spaces I have marked with squares and triangles.  Also, be sure to look at the variations I have added.
+
+BTW, I am using a notation system that starts in the bottom left corner with letters A through T (no letter I) across the bottom and numbers 1 through 19 up the side.  So, for example, the bottom left corner is A1 and the top right corner is T19.]
+;W[cf];B[cc]TR[cd]C[This takes control of the corner but is probably too conservative. I would play C16.]
+;W[gd]
+(;B[lc]TR[fc]C[This helps control the right top side but leaves the top left corner very small.  In an even game, white shouldn't be able to kill the top left corner, but in a high handicap game, white may try and hope that black makes an error.
+
+Playing F17 expands the top left corner nicely and makes it harder for white to make eyes on the top side.
+
+See Variation.];W[ic];B[jc]C[Good.  This blocks white nicely.]
+;W[dm]
+(;B[co]TR[fj][cl][ch]SQ[dj]C[White's last move starts to surround the marked black stone so black should do something to strengthen this stone.  Playing C12 and then C8 makes a nice base for black.  Black could also start running out into the center with F10.
+
+See Variation];W[fm]C[Should I have out stone somewhere around cm to
+prevent the cutting out that happens next turn?];B[qh]TR[qg]
+[fj]SQ[dj]C[The marked stone is even weaker after white's last move.  Starting to run into the center with F10 is a good idea.
+
+The current move would secure the right side better if played one space higher at R13.]
+;W[bm];B[eg]C[This tries to connect the left side stone to the top left corner. White could cut, however.]
+;W[ff];B[ef];W[ec];B[ee]TR[ed]SQ[ef][dd]C[too slow I think
+
+E16 would connect the marked stones but also put pressure on white's upper side group.]
+;W[he];B[gp];W[fj];B[di]TR[ch][ei]SQ[cf]C[e column better I think?
+
+Yes, I think E11 would be better.  Another possibility is C12 to attack white's marked stone.]
+;W[db]C[This doesn't threaten black much so black could take Sente and play somewhere else on the board.]
+;B[cb]TR[bk][jf][mq][qm][ch]SQ[cf]C[This is an endgame type move.  Black can wait and play it later. White could push into the corner but black won't lose much.  There are other moves worth more on the board.  White is playing this to help make room for 2 eyes.
+
+The triangles are all good choices at this point.
+C12 kills white's marked stone.
+B9 expands black's left side group.
+N3 and R7 help secure territory.
+K14 helps make a Moyo around the top right corner.];W[ca];B[bb]
+TR[ba]C[B19 is also good, but again this is an endgame move and should be saved for later.]
+;W[ck];B[cj];W[eh];B[dh]C[This is a good connecting move.  This is a good way to play when receiving a large handicap.]
+;W[gh];B[lf]TR[bj][jf]C[(sorry. looks I goofballed here when recording match to
+the sgf format)
+
+K14 builds a bigger Moyo than black's move.
+B10 is also good because it blocks white];W[bj];B[bi];W[fg]
+;B[fe]TR[li][qm][mq][bk]SQ[bj]C[This is very small.  It doesn't change the score much at all and should be saved for the end game.  There are several better moves available.
+
+B9 kills the marked white stone.
+M11 expands black's Moyo.
+R7 and N3 secure more territory for black.];W[bk];B[aj]TR[cg]
+C[This is another small endgame move that should be saved for later.
+
+C13 keeps white from cutting at D13.];W[ch]
+(;B[ci]TR[bg]C[I think that B13 is better.
+
+See variation.];W[dg];B[df];W[ce];B[de]TR[cg]SQ[dg]C[meaningless move  costing moku and tempo?
+
+Yes, this doesn't accomplish much.
+
+Capturing the marked stone by playing at C13 is better.  You want to keep your two groups of stones connected.]
+;W[cg]SQ[cj][dj][dh][di][ci][bi][ch][dg][cf][ce]C[Now we have a capture race between the marked stones.  Both groups have 5 liberties.  Since it is black's turn, black has the advantage.]
+(;B[be]TR[bh][cd]C[I think C16 or B12 would be better for capturing white.
+
+See Variation.];W[bf];B[bd];W[ge];B[bh]TR[dk][ej][ei]C[This increases black's liberties to 6 while reducing white's liberties to 3.  Black can leave this alone until white starts filling in around the outside of black's left side group.]
+;W[jb];B[bg]TR[kb]C[L18 is better.];W[ql];B[rj]TR[qn]SQ[qh]
+C[R6 is better.
+
+White already can't expand up the right side much due to the marked black stone so black's current move doesn't accomplish much.  Black should try to keep white from expanding down the right side towards the lower right corner.]
+;W[qo];B[qq]TR[qp]C[R4 is better.  It still secures the corner for black but also makes a bit more territory than black's current move.]
+;W[pn];B[np];W[jg];B[kf]TR[li][mj][jm]SQ[jp][pj][lf]C[White is trying to take territory in the center.  Black should try to stop this.  The marked spots (M11, N10, and K7) are all good ways to do this.  They are each a jump of 3 spaces from a marked black stone.]
+;W[hn]C[Should probably try to counter white's growing influence on the center?
+
+Yes];B[iq]TR[li][mj]C[This doesn't accomplish much.  M11 and N10 are still good ways to reduce white's center.]
+;W[ho];B[hp];W[rp];B[rq];W[kb]
+(;B[kc]TR[lb]C[M18 is better.
+
+See Variation.];W[mb];B[lb]TR[ob]C[Block white out of the top right corner at P18.]
+;W[la];B[mc];W[nb];B[nc];W[pb];B[ob]TR[qc]C[oops. Bad play.
+
+R17 saves some of the corner for black.];W[oa];B[oc];W[qc];B[qd]
+;W[rd];B[re];W[rc];B[se]C[This is another small endgame move that should be saved for later. Black still needs to reduce white's center.]
+;W[nn];B[nh]TR[mj]C[too timid. Maybe I could have been bit more ambitious
+and went for mi?
+
+This is too timid.  N10 is better];W[ok]
+(;B[lq]TR[li]C[too timid I think. Two row above would probably have been better.
+
+Black should still be working on reducing white's center.  M11 would be a good way to do this.
+
+I don't think white can sucessfully invade at M3.
+
+See Variation.];W[mo];B[mp];W[ko]C[And now the center is completely locked from the south.]
+;B[kp]TR[li]C[lj instead to cut to white's center area? Or is that too far going?
+
+Black doesn't need to play here at this time.  M11 is better.]
+;W[lh]
+(;B[oj]TR[mj]C[N10 does a better job of reducing white's center.
+
+See Variation];W[nj]
+(;B[ni]TR[mi]C[N11 is still playable.
+
+See variation.];W[mj];B[mi];W[li];B[lg]C[Now both player's territories have been staked out.  The endgame starts, which is fighting over the boundries.]
+;W[je];B[ke];W[kk]
+(;B[fo]TR[sm]C[The monkey jump to T7 is better because it reduces white's territory more than black's current move expand's black's territory.
+
+See Variation.];W[rk];B[qk];W[pk];B[qj];W[rl];B[sk]TR[fd][kg]
+[qp][jo][gn][ek][jf][pc][dc]SQ[bo]C[This move is Gote, meaning white doesn't have to respond and can play elsewhere.  Play all of the Sente moves you can find first.
+
+All of the spots marked with triangles should be Sente.  Once you have played all of the Sente moves you can find, play the Gote move worth the most.  I think that would be B5 (square) since it prevents a monkey jump by white.]
+;W[sq];B[sr];W[sp];B[rr];W[bo];B[bp];W[an];B[ap]C[This is another Gote move.  You won't lose much if you let white play here first and you can gain a lot more by playing Sente moves elsewhere.]
+;W[qf];B[pf]TR[qe]C[This is OK but white is threatening to cut at R15 so playing there is better.]
+;W[cn];B[do];W[en];B[eo];W[lo];B[lp]TR[fd][dc][ek][kg][jf][jo]
+[qp][pc]C[This doesn't increase black's territory or decrease white's, so it doesn't accomplish much.  Black should take Sente here and play somewhere else.  Again, the triangles should all be Sente moves.]
+;W[jo];B[jf];W[if];B[ie];W[kg];B[id];W[hc];B[ba];W[ig];B[ea]
+C[oops. this was misclick];W[fb];B[da];W[fa];B[ca];W[eb];B[dk]
+TR[ek]C[E9 is better.  It reduces white more.];W[ak];B[dl]TR[el]
+C[E8 is better.];W[el];B[cl];W[bl];B[ao];W[bn];B[dn];W[cm];B[ai]
+;W[oo];B[op];W[sl];B[sj];W[fd];B[io]TR[pc][qp][gn]C[This is Gote because black will have to connect at J4 after white plays.  The triangles are all better.]
+;W[in];B[ip];W[fn];B[mh];W[go];B[eq]C[I don't think this is necessary, but if you are not sure then better to play this move and be cautious.]
+;W[sd];B[pc];W[pa];B[qe];W[qp];B[or];W[cq];B[cp];W[pg];B[qg]
+;W[hd];B[ei];W[fh];B[fi];W[gi];B[ek];W[fk];B[af]C[Good];W[ej]
+;B[cd]C[waste of point I guess...
+
+Right, black didn't need to capture.];W[dc]C[This is a Dame point.  Playing here doesn't change the score.]
+;B[ne];W[of];B[pe];W[po];B[og];W[no];B[tt];W[ed]C[Another Dame point.  White apparently likes to fill these in.]
+;B[tt];W[tt]C[Finally])
+(;B[sm]C[Black does a Monkey jump.];W[rk];B[sk];W[rl];B[sl]
+;W[rn];B[sn];W[so];B[rm];W[qm];B[sj]C[Black has reduced white's territory.]
+))
+(;B[mi];W[lj]C[This is the best way for white to block];B[mj]
+;W[mk];B[li];W[ki];B[lk]C[Black tries to cut.];W[kj];B[ml];W[nk]
+C[Black is contained.]))
+(;B[mj]C[Black plays into white's center.];W[oj]SQ[mj]C[White tries to cut off the marked stone]
+;B[ni]C[Black connects.];W[oi]C[White pushes into black's territory]
+;B[oh]C[black blocks];W[pi];B[qi];W[ph];B[pg]C[White is contained and black has pushed into the center.]
+))
+(;B[li]C[Black reduces white's center.];W[lq]C[White invades.]
+;B[nq]C[Black blocks.];W[jr]C[White expands, trying to get eye space.]
+;B[ir]C[Black blocks];W[mr]C[White expands again.];B[nr]C[Black blocks again.]
+;W[lo]C[White runs out towards the center.];B[lp]C[Black cuts]
+;W[kp];B[mp];W[kq];B[ko]C[Black cuts again.];W[jo];B[kn]SQ[ko]
+C[White could eventually kill the two marked black stones, but black can kill white's lower side invation first so these stones are safe.]
+;W[jq];B[ip];W[ks];B[lr]C[This move kills white.  I am continuing the variation so you can see how it plays out, but white would give up at this point and start playing elsewhere.]
+;W[mq];B[ms];W[ls];B[ns]C[White has one eye and is dead.]))
+(;B[lb]C[Black blocks.];W[kc]C[White tries to cut];B[kd];W[ld]
+;B[md]C[White can't cut successfully.]))
+(;B[bh];W[cd];B[dc];W[dk];B[bg]C[This adds a liberty for black and takes away a liberty from white.]
+;W[ei];B[bf];W[ej];B[bd]SQ[ch][dg][cg][cf][ce][cd]C[White is dead.]
+))
+(;B[bg]C[Black threatens to cut apart white's two stones.];W[cg]
+C[White connects.];B[bh]C[Black connects.];W[ci]C[White cuts.]
+;B[bf]C[Black extends.];W[be]SQ[bf][bg][bh][bi][ci][ch][cg]
+[cf]C[Now we have a capture race between the marked stones.  Black has 4 liberties and white has 3.  It is black's turn so black should win.]
+;B[ce];W[cd];B[de];W[bd];B[dc]SQ[ci][ch][cg][cf][be][bd][cd]
+C[The marked white stones are dead.]))
+(;B[ch]SQ[cf]C[Now the marked white stone has no room to make eyes on the left side.]
+;W[ef]C[White runs into the center.];B[cl]SQ[dm]C[Black has a nice base with room to make eyes if needed.  This also squeezes the marked white stone.]
+))
+(;B[fc]C[Black squeezes white.];W[ic]C[White tries to make eye space.]
+;B[jc]C[Black blocks.  Now white doesn't have room to make eyes on the top and will probably run into the center.]
+))

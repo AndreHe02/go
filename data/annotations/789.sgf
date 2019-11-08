@@ -1,0 +1,83 @@
+(;FF[4]GM[1]SZ[19]AP[SGFC:1.13b]
+
+PB[tokugawa]
+HA[0]
+PW[eviltwin]
+KM[5.5]
+RE[W+2.5]
+DT[1999-03-01]
+
+C[Reviewed by Richard Rumley AGA 5 kyu
+rumley@netcom.com
+Edited by cgoban under X-windows.
+
+I'm around 5 kyu, and not perfect.  If something
+I say doesn't make sence, please email me and I'll
+try to explain it better.
+
+Most of my comments will be regarding black's play.];B[pp];W[cp]
+;B[dd];W[pc]C[So far so good.];B[qe]TR[pe]C[Good approach move,  The 4th line is also good because of the high
+Q4 stone.];W[eq];B[od];W[ck]C[White makes two mistakes with this move.
+
+1.  White needs to protect the stone in the upper left corner.
+Letting black get 3 moves against it is very very bad.
+
+2.  If white extends from the wall, it should be at D10.  White's
+move is too close to the white wall, and is also too low.  Blacks
+stone above is on the 4th line, so it is ok for white to extend on the
+4th line.];B[cg]TR[oc][jd][qk]C[Black should attack the upper right stone.
+
+A go professional once told me that during the opening, always
+play where there is the biggest space.  If you look around, there
+are bigger spaces to play than the C-13 move.  I put triangles
+in 3 places that are big right now.
+
+(K-16, P-17, and R9)];W[ci]C[White needs to read my previous comment about where to play during
+the opening.  This move is so small at this stage of the game.]
+;B[pj]C[Good move by black.  I'm not sure which is better, 3rd line or 4th line.]
+;W[hc]C[Good move, but I still think white should protect the upper right stone]
+;B[lc]C[I can't find anything wrong with this move, but for some reason it
+seems wrong to me.  I think that I would have first played P17 against
+white's corner stone.  If white responds, then extend to M17 or even L17.
+
+Right now, Blacks stone doesn't do much other than push white into the
+upper left corner.  It seems like it will be easy to attack by white.]
+;W[jc]C[Wrong direction.  Go towards the corner.];B[fc]C[Good move by black.]
+;W[lq]TR[if]C[I think that white needs to jump into the middle with the above group.
+Or else those two stones will come under heavy attack.
+
+But this is a big point for white.];B[pm]TR[jq]C[This formation on the right side is weak.  Perhaps it is better
+to directly attack the white stone with a pincer type attack at
+K3.];W[mo];B[mm]C[Now white has a big moyo.  Black does need to do something.  Hope
+that blacks top-right side moyo is bigger.];W[ln];B[lm]C[This exchange hurts white.]
+;W[jn];B[eh];W[jl];B[kk];W[gb];B[fb];W[kb];B[lb];W[ke];B[me]
+;W[kg];B[gi];W[ji];B[ij];W[jk];B[jj];W[kj];B[ki];W[lj];B[ii]
+C[If black does atari from the top, the white stone is caught in a ladder.]
+;W[ll]C[Black is now in trouble.  White now has good influence into the
+black moyo, and black doesn't really have a way into white's moyo.]
+;B[jh]C[Its always good to capture.];W[mg];B[lk]C[oops!  That stone is dead already.]
+;W[mk];B[pg];W[km];B[li];W[kl];B[mi];W[nm];B[nq]C[Good moves, give up those middle stones, and try to capture
+the top white group.  It looks killable to me!];W[on];B[pn]
+;W[nh];B[if];W[he];B[gd];W[hd];B[gf];W[ge];B[fe];W[hf];B[hg]
+;W[ie];B[jf];W[jg];B[ih];W[ig]C[Ouch.  Now white lives.
+
+Black now needs to get some stones in the bottom left part of
+the board.];B[gg];W[oi];B[pi];W[bh];B[bg];W[mr];B[nr];W[ek]
+;B[ol];W[lf];B[md];W[fj];B[fi];W[nj];B[oj];W[nl];B[ok];W[nf]
+;B[ne];W[of];B[pf];W[og];B[ph];W[mj];B[oc];W[mf];B[oe];W[ni]
+;B[kh];W[dh];B[dg];W[ch];B[ei];W[pd];B[pe];W[pb];B[ob];W[fa]
+;B[ea];W[ga];B[ec];W[la];B[ma];W[ka];B[pa];W[qa];B[oa];W[rb]
+;B[qd];W[qb];B[rc];W[ag];B[af];W[ah];B[be];W[ns];B[os];W[ms]
+;B[oq]C[White seems to be getting lots (all) of the endgame points.  Sometimes you
+have to ignore one move, and make a similar threat to your opponent's position.]
+;W[gj];B[hj];W[lh];B[sc];W[mh];B[ej];W[ld];B[mc];W[le];B[fk]
+;W[gk];B[dk];W[fl];B[cj];W[bj];B[dj];W[dl]TR[cl]
+(;B[oo];W[hk];B[ik];W[il];B[no];W[mp];B[nn];W[om];B[mn];W[np]
+;B[op];W[mq];B[sa]C[The white stones are dead];W[sb];B[qc];W[ml]
+;B[kc];W[jb];B[kd];W[jd];B[gc];W[hb];B[oh];W[ra];B[sa]C[No need to capture.  Black gets the points anyway.]
+;W[tt];B[nk];W[tt];B[di];W[ak]C[B 101 + 9 = 110
+W 103 + 9.5 = 112.5
+
+However, Black still has one move left....  This would win the game!]
+;B[ai];W[bi];B[cl];W[bk];B[bl];W[cm];B[al])
+(;B[cl]C[This doesn't work, yet.]))

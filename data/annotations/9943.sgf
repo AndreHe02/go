@@ -1,0 +1,153 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.16]
+
+PB[aike]
+PW[Meolin]
+WR[3k]
+KM[6.5]
+DT[2016-01-30]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[W+Resign]
+TM[1800]
+OT[5x120 byo-yomi]
+RU[Japanese]
+
+C[This is a very good game to review. It includes some very common shapes, so chances are you'll get to use whatever you learn quickly.
+
+This game review focuses on Black. I've added "*Question" to the beginning of questions from the player.
+
+I think Black's biggest mistakes were (1) attacking too early on the bottom, and (2) attacking without protecting Black's weak group. Black also made some tactical and shape mistakes, making moves that helped White and reduced Black's liberties.
+
+I hope this review is helpful. Best of luck.];B[pd];W[dp];B[pp]
+;W[dd];B[fq];W[jp]
+(;B[cq]C[I think this is okay, but see variation.];W[dq];B[cp]
+;W[do];B[dr];W[er];B[cr];W[eq];B[cn];W[nq]TR[lq]C[*Question: Is it good to invade rigth now?
+
+No, I don't think invading immediately (e.g. at M3) is a good idea. If B invades, W will gain strength to pressure Q4 and gain on the right side.]
+;B[qn]C[This is better than invading here, and is probably what I would have played.]
+;W[pr]LB[em:F][cn:D][nn:B][qn:C][no:A][fq:E]TR[jp][nq]C[White's move at Q2 isn't good. Generally, with the marked stones (K4/O3), and the common joseki on the lower left, White would like to build a framework on the bottom. For example, white might start with a move around A or B. 
+
+But white is open on the left, and Black can cause problems with the stone at E. (This is one reason C is a good move for black--without it, black would need to respond to White A/B, and White would have sente to nearly close the left side with F.) White's Q2 stone creates an awkward shape with the marked stones (K4/O3). Further, before this move, if Black invaded with M3, White could have jumped into the corner with R3.]
+;B[qq]LB[fc:D][jd:C][fo:A][lq:B]C[At first, I thought this move was too submissive/defensive. But on second thought, I think it's okay and at worst a little slow.
+
+That said, Black has other options to consider. Although it might be tempting to jump out with A or invade at B, both would make White stronger somewhere. Besides, White can't enclose the bottom on both the left and right sides before Black jumps in. So it is probably too early to invade. (More on this later.) Black can start a framework with C, or approach at D. 
+
+On the other hand, maybe R3 is fine and punishes Q2 by giving White an awkward shape. 
+
+Notice now that, if Black invades at B, White can no longer take the corner at R3, which is one reason White Q2 isn't good.]
+;W[jd]
+(;B[lq]LB[mc:A][cf:B][em:D][cn:C][dn:E][fq:F]C[Locally, this is a good invasion. But it is too early. The right side is open, and the upper corners are unsettled. I'd probably play around A (also consider O17 and M17) because White is open on the top with its high move at K16. Approaching at B is also possible, although black's C6 stone makes the left side a bit less interesting.
+
+Deciding when to invade is among the most difficult parts of the game. In fact, if there's a part of go more difficult than deciding whether and when to invade, I can't think of it. 
+
+First, when you invade, your opponent will almost always get stronger in some way. In this game, if Black lives inside with M3, White will seal Black in and get strength facing the center, which will also help White on the right side (when white invades or reduces, etc.). So for example, if Black controlled the center, it might be a good time to invade because White couldn't benefit as much.
+
+Second, before you invade, consider whether White can close off an area with a single move. If so, it's probably a good time to invade. If not, don't rush. Here, White is open on the right (where black invaded), and has weaknesses on the left--Black C has a lot of aji (potential), especially without a White stone around D or E. 
+
+True, White can play D or E in sente (Black needs to respond), but White will need another move to secure Black F, so Black will still have time to invade. (See variations.)
+
+In sum, because White has two sides open to invasion/reduction, and making White strong toward the center is not good for Black right now, this invasion is too early.]
+;W[lp]
+(;B[mq]LB[kp:A][kq:B]SQ[qn][jp][lp][pp][lq][nq]C[This is a very typical mistake, and an important one to remember. Generally, bumping up against a stone like this isn't a good idea. For one thing, it reduces your own liberties. Black N4 is also usually a mistake (and a another typical one) because White O3 is in an ideal position to cut Black. 
+
+With this shape, the first two moves you should consider are A and B. There are many variations from there, and it can get complicated quickly, so I just show a few examples in the variations.]
+;W[mp];B[nr];W[oq];B[or]LB[jr:A]C[This is also a mistake for similar reasons. Even worse, this move not only reduces Black's liberties, it induces White to fix his shape and severely damage Black's corner. Black needs to stick out the other side, probably at A.]
+;W[os];B[ms];W[pq]C[This is painful for Black and really hurts the corner.]
+;B[jr];W[ir]C[White J3 is better than J2.]
+(;B[jq]C[Black can consider cutting here at J3, but it is complicated and likely requires a sacrifice. (See variation.)]
+;W[iq]
+(;B[kp]C[This helps White fix his shape and reduces Black's liberties. Black needs to cut and fight. (See variation.)]
+;W[ko];B[kq];W[io]
+(;B[lr]C[Black should keep fighting. (See variation.)];W[qr]
+;B[rq];W[oo]
+(;B[op]C[This is another mistake similar to O2 and P2: this reduces Black's liberties and forces White to completely fix the cut at O4.]
+;W[np];B[po];W[on];B[pl]C[I like this move (you just have to be careful about the aji, and know that it gives White a forcing move at Q7).]
+;W[qf]TR[qi]C[*Question: Mb R11 better then i have played?
+
+Black's game move (at R12) was fine, and maybe better than R11, although they aren't much different.]
+;B[qh];W[qc];B[qd];W[pc];B[od];W[rd];B[re];W[rc];B[qe];W[rf]
+LB[pf:A][sf:B]TR[qf]C[*Question: The most important question. How should i respond now to kill this w stones? Probably they are not alive. But in game they are...
+
+The game is pretty difficult for Black now, so it makes sense that you want to fight. But these stones are actually pretty difficult to kill in general. Even here, although White didn't finish the joseki as usual. When White plays S14, Black usually responds at A or B. Black A allows White to connect under, but White gets sealed in on the right. Black B cuts White off, but allows the stones to run out, so Black has to be prepared to fight. As Black, I'd probably play A and secure points on the right and think about attacking the bottom effectively. (See variations.)]
+
+(;B[sd]C[This is the wrong direction. Black wants to take away S14's liberties.]
+;W[nc];B[me];W[nd];B[ne];W[of];B[oe];W[ph];B[qi];W[pi];B[pj]
+;W[oj];B[pg];W[og];B[pk];W[qg];B[oh]LB[lc:A][mg:B]TR[od][pd]
+[qd][me][ne][oe][qe][re]C[This is a mistake. The marked group is cut off and has no eye space, so Black needs to protect it. Attacking when you have a weak group nearby is almost always a bad idea. Black could jump around A and try to get some eye space or maybe out at B to make some running room. Black's move in the game makes White stronger and Black's group weaker.
+
+After this fight, White becomes too far ahead. Other than a minor note on move 95, this is the last comment.]
+;W[oi];B[nh];W[mg];B[oc];W[ob];B[mb];W[nb];B[ng];W[nf];B[mf]
+;W[pf];B[lg];W[mh];B[lh];W[ni];B[lc];W[lf];B[kf];W[le]
+(;B[ld];W[ke];B[md];W[jb];B[qa];W[qb];B[ra];W[pa];B[sb];W[rb]
+;B[sc];W[sa];B[ra];W[na];B[hp];W[ip];B[fr];W[fs];B[fo];W[dn]
+;B[fm];W[co];B[bo];W[bn];B[bp];W[cm];B[dl];W[em];B[fl];W[el]
+;B[ek];W[fk];B[en];W[dm];B[gk];W[fj];B[hl];W[gn];B[fn];W[gj]
+;B[hj];W[ik];B[hk];W[dj];B[ho];W[cd];B[ic];W[jc];B[je];W[kd]
+;B[id];W[jf];B[ie];W[kg];B[ec];W[gc];B[fd];W[gd];B[ge];W[fe]
+;B[hb];W[fc];B[ed];W[ee];B[eb];W[he];B[gf];W[hf];B[gb];W[df]
+;B[cb];W[bc];B[bb];W[if];B[gg];W[hd];B[fb];W[ib];B[hh];W[hi]
+;B[gi];W[ii];B[il];W[ij];B[in];W[jn];B[jm];W[hn];B[im];W[km]
+;B[gm];W[kl];B[nl];W[mk];B[hc];W[ab];B[cc];W[bd];B[dc];W[rj]
+;B[sh];W[qj];B[rh];W[si];B[rk];W[rg]C[aike: сдался
+aike: gg])
+(;B[kd]C[This would capture White's two stones, but the game would still be difficult for Black.]
+))
+(;B[pf]
+(;W[se];B[qg];W[nc]C[White lives and connects, but Black secures some points on the right.]
+)
+(;W[pg]C[This can be tricky, though.]
+(;B[of];W[se];B[qg]C[Again Black secures some points, and White connects and lives.]
+)
+(;B[qg];W[of];B[sf];W[pe];B[rg];W[nc])))
+(;B[sf];W[sg];B[se]
+(;W[of];B[rg];W[qg];B[rh];W[oh]C[White runs.])
+(;W[rh];B[pf];W[qi]
+(;B[pg];W[oi]
+(;B[mi])
+(;B[pj]))
+(;B[qg]
+(;W[rj];B[qk])
+(;W[oi])))))
+(;B[om]C[Black should keep up the attack.]))
+(;B[np]C[This requires reading, but Black can't avoid complications now. First, Black should focus on cutting White's groups. It could go many ways from here; I've added a few sample moves.]
+
+(;W[mn];B[op];W[qr];B[rq];W[rr];B[sr];W[lr];B[mr];W[js]C[Black wins the capturing race.]
+)
+(;W[op];B[no];W[mn];B[oo];W[po];B[qp];W[pn]
+(;B[qo];W[on];B[qr])
+(;B[qr]))))
+(;B[ip]C[Black should fight here. White has multiple cutting points and weak groups.]
+;W[kp];B[lr]
+(;W[io];B[hp];W[ho];B[hq];W[fp];B[hr])
+(;W[hp];B[io];W[ho];B[in];W[nn];B[hn];W[fp])))
+(;B[iq];W[jq];B[hr];W[kr];B[is];W[kq];B[fo]))
+(;B[kq]C[This is one move to consider.];W[kp]
+(;B[ir];W[hq];B[hr];W[gq];B[gr];W[fr];B[fp]C[Things look complicated already.]
+)
+(;B[jq]C[This is usually a mistake, because it allows White to reduce more liberties.]
+)
+(;B[iq]C[This one-space jump can be risky, so read carefully before making it.]
+;W[jq];B[jr];W[kr];B[ir];W[lr];B[fo]))
+(;B[kp]LB[ko:A][kq:B]C[I think this is the better option here. White should carefully decide whether to play A or B, depending on the board position. Here, I like B. See variations (which are just examples).]
+;W[kq];B[ko]
+(;W[jq];B[mp];W[lr]
+(;B[mq];W[mr];B[np])
+(;B[lo]))
+(;W[jo]
+(;B[kn];W[lr];B[jq];W[kr];B[iq])
+(;B[mp];W[lo];B[kn];W[mo]
+(;B[lr])
+(;B[jn])))))
+(;B[mc]C[(Ignore this move; it is just for following variations.)]
+;W[em]C[This is usually sente. If Black doesn't respond, White can seal Black in. Black usually will respond at C7, and White will still need another move to secure Black F3. See variations.]
+
+(;B[cf];W[cm]
+(;B[bn];W[dn])
+(;B[co];W[dn]))
+(;B[cm]
+(;W[fp]LB[fq:B][lq:A]C[White is still open at A, and Black B still has some potential to cause problems.]
+)
+(;W[no]LB[gm:D][fo:C][hp:B][fr:A]C[If White plays this way, Black can use F3 to reduce or invade. This is a common shape with may variations that can get complicated quickly. But Black F3 shouldn't die (or if it does, Black should have a reduction to compensate for it). A few possible starting moves are marked.]
+))))
+(;B[cn]C[I think black's game move is okay. But this is just another idea, and a common response to the high 3-space pincer (K4).]
+;W[fp];B[gp];W[fo];B[cq];W[eq];B[cp];W[go];B[mq]C[Let white worry about the aji (potential) of the G4/F3 stones. Black can cause a lot trouble with them later.]
+))

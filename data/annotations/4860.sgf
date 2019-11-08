@@ -1,0 +1,165 @@
+(;FF[4]GM[1]SZ[19]ST[1]AP[SGFC:1.15]
+
+PB[Peter]
+BR[5k]
+HA[4]
+PW[White]
+WR[1k]
+KM[0.5]
+RE[W+Resign]
+
+AB[dd][dp][pd][pp]C[This was a game against one of the strongest guys at the local club (AGA 5d). In this game even though I made some tactical blunders I felt my biggest problem was direction of play. I'd really like to take a stone off him, so any advice you could give me would be great!
+
+crux: I'm only 2d, so I'm not sure how much stronger I am than you if you take 4 stones from a 5d.  I hope this review will be useful anyhow.  Please use an SGF reader that can display variations properly - I recommend qgo, glGo, gGo, jago or cgoban1.  The KGS client, cgoban2, has problems.
+
+In general, I think part of the problem is that you try to attack groups without deciding first what you want to achieve by doing so.
+
+I've added a number of variations, but especially in complicated fighting you shouldn't take anything I say as gospel.  I can provide ideas, but I'm not strong enough to say which move is correct.]
+;W[fc];B[cf];W[nc];B[jd];W[qf];B[oe];W[qc];B[pc];W[qd];B[pg]
+;W[jc];B[ic];W[kc];B[id];W[qg];B[ph];W[kd];B[jf]LB[ec:A]C[crux: This one seems a little slack, it does not put enough pressure on White.  You could limit the freedom of the single white stone by bumping into it at A.]
+;W[cc];B[dc];W[db];B[eb];W[cb];B[ec];W[be];B[bf];W[ce];B[de]
+;W[cd];B[df];W[cl];B[cn];W[ci]
+(;B[dk]LB[bj:B][bk:A][dj:C][el:D]C[I think this is my first real mistake... this probably should have been D10.
+
+crux: Hard to say; there's a variety of possible moves to attack these two stones, A to D among them.  I agree that the game sequence ends up helping White more than Black.  Black needs to decide first what he wants to achieve with the attack.  The lower side seems to have the biggest potential, so maybe Black can get some stones in place to help develop it.]
+;W[ck]
+(;B[di]LB[dl:A]C[crux: A seems to be the more important point (I notice White immediately plays there), but playing there lets White live relatively comfortably along the side.  Sometimes the best option is to abandon a bad plan early before too much damage is done.]
+;W[dl];B[cj];W[bj];B[dj];W[bh];B[ch]C[I don't know why I thought he would draw back.]
+;W[fl]C[Suddenly I felt almost under attack.];B[md]LB[le:A]
+[mf:B]C[What on Earth was I thinking? What is the right way to attack these stones?
+
+crux: No idea what the right way is.  Sometimes it's better to attack from a distance, e.g. attempting to seal in with with A or B.  The game move isn't necessarily bad, but...]
+;W[mc];B[ld]C[crux: ... this looks crude (pushing White out between your stones and making bad shape for yourself).]
+;W[ke]
+(;B[lc]C[crux: This loses a liberty, so you should be certain it is helpful before playing it.  I believe this move makes it more difficult for Black to keep White sealed in.]
+;W[lb];B[lf]C[I know this gets cut; I just wanted a chance]
+;W[kf]
+(;B[mf]LB[kg:A]C[crux: This is unplayable.  Even if it fails to shut White in, blocking at A is the only real option given your previous move.  You can't just let White push out between your groups.]
+;W[kg]C[I wanted to take advantage of the L18/N18 cuts, but I lost control while defending my groups.]
+
+(;B[ig]LB[kb:C][mb:B][qh:A]C[crux: This move achieves nothing.  I'd be tempted to bend around at A to defend the weak group.
+You could also now play one of the cuts at B or C - you'll succeed in cutting off some stones at least, and if the right-hand side group ends up safe, A is no longer quite as important.]
+;W[ib]C[crux: White lives while creating aji for use in the future.]
+;B[hb];W[jb];B[qh]C[I know there is bad aji left behind there, but I just couldn't end in gote. Looking at the rest of the game, maybe that would have been okay.
+
+crux: Black's stones in the top left are safe enough for the moment, but it doesn't look like you can expect to make much territory.]
+;W[fq];B[dr];W[jp]
+(;B[hq]LB[pn:A]C[After the game my opponent singled out this move as being bad. I had to agree... white's stones weren't surrounding territory yet, so maybe I should attack from the Q4 side, or maybe even try to split the stones first with F5 or D7?
+
+crux: Don't rule out quiet moves like A.  No need try attacking everything in sight.]
+;W[er]
+(;B[cq]C[crux: Solid, but maybe overly defensive.];W[gp]LB[hp:A]
+[ip:C][lq:B]C[crux: Things to consider now... what can be done with the surrounded black stone?  Can it be used to damage White's shape (i.e. what happens if Black pushes at A)?  Can it be sacrificed without undue loss, e.g. by playing at B?  I think it may already have served a function, as it induced White to play a move that made Black's corner totally secure.
+
+The game sequence ends up rather good for White who manages to push Black down and build center strength.  I think this is because the game move at C is a bit crude.  Black's stone in the corner gets hurt by the attempt to live on the side.]
+;B[ip];W[io];B[jq];W[kp];B[kq];W[lq];B[lr];W[mq];B[mr];W[nq]
+
+(;B[jo];W[hp];B[iq];W[lo]
+(;B[or]C[This sequence is poorly thought-out, of course.
+
+crux: First order of business would be to determine if you need another move to live there at all.]
+;W[oq];B[pq];W[nr];B[ns];W[pr];B[ps]C[For some reason I thought he would fight the ko. I blame it putting the moves into the computer as we played. :)]
+;W[qr];B[gr];W[pm]LB[hn:A]C[I felt like resigning after that debacle, but I thought I might try a splitting attack first.
+
+crux: I think what follows is a valiant attempt by Black, but while White may not yet have more points, the game has been going his way up to now, and it'll be hard for Black to win.  As White I'd probably play something safe like A instead of the game move, but what do I know.]
+;B[em];W[el];B[gn]
+(;W[hn];B[gm];W[bi];B[in];W[ho];B[jm];W[im];B[jn];W[hm];B[gl]
+;W[jl]TR[in][jm][jn][jo]LB[bm:B][dh:D][dn:C][fm:A]C[crux: Questions that Black needs to ask... what resources does White have to make eyes on the left (A..C seem likely candidates)?  Is the cut at D dangerous?  Can the marked stones be saved, or will such an attempt just make things worse?]
+
+(;B[dh]C[crux: Does Black really need to defend there?  It seems this lets White live easily, so if the cut is no threat, Black better play elsewhere.]
+;W[dn];B[dm];W[cm];B[en];W[bn];B[co];W[fj];B[gk];W[ej];B[bo]
+;W[bm];B[ae];W[ad];B[af];W[bc];B[om]LB[lm:A]C[crux: Seems like this ended up really complicating the game again, so it can be counted as a success.  Maybe White's best answer is A.]
+;W[ol];B[nl];W[on];B[lm];W[kl];B[ln];W[ml];B[nm];W[nk];B[nn]
+;W[pl];B[oo];W[pn];B[lp];W[mp];B[ko];W[lp];B[mo];W[qs];B[ll]
+;W[lk];B[km];W[mm]C[My opponent said this was a mistake on his part; that he should just let me live with two points.
+
+crux: Yes, that, and kill the top black group.];B[il];W[mk]
+;B[mn];W[fp];B[qq];W[qo];B[rr];W[os];B[rs];W[no];B[np];W[ms]
+;B[op];W[hh]
+(;B[ik];W[fb];B[fd];W[gd];B[gc];W[fe];B[ed];W[ge]
+(;B[gg]C[I couldn't find a good way out of this.];W[hf];B[hg]
+;W[je];B[ie];W[if];B[fa];W[jg];B[qk];W[eg];B[fh];W[eh];B[dg]
+;W[bg];B[ei];W[ef];B[fi];W[gj];B[ha];W[gb];B[ga];W[fb];B[ih]
+;W[ii];B[ji];W[hi];B[jh];W[jj];B[li];W[mh];B[mi];W[ni];B[lh]
+C[Upon reflection O12 seems to be the only move... the M12-M13 exchange seems to hurt me quite a bit.]
+;W[lg];B[nh];W[mg];B[nj];W[oi];B[oj];W[pi]
+(;B[ij];W[pj];B[ok];W[pk]C[This is really the end of the game. I thrashed around a bit before resigning, but I didn't really see anything that worked.]
+;B[mj];W[pf];B[of];W[og];B[qb];W[rb];B[ra];W[rc];B[ob];W[nb]
+;B[rh];W[qi];B[qe];W[re];B[pe];W[rg];B[oc];W[nd]C[Black resigned.]
+)
+(;B[oh]C[crux: Looks like you can capture?]))
+(;B[hg]
+(;W[gg];B[gh]
+(;W[fh];B[gf];W[fg];B[ff];W[ef];B[hf];W[eg];B[ee])
+(;W[fg];B[fh]))
+(;W[fg];B[fh];W[gh];B[gg];W[eh];B[ff])
+(;W[fh];B[ff])))
+(;B[gc]C[crux: Maybe this is the better move, eliminating weaknesses before trying to continue attacking.]
+))
+(;B[om]C[crux: e.g. here, like later in the game...];W[dh];B[eh]
+;W[cg];B[fi]))
+(;W[fn]C[crux: White might be able to try this.  I'm unable to read this situation out completely; I'm just including a few variations that occurred to me.]
+
+(;B[fm];W[gm];B[fo];W[hn];B[go];W[eo]
+(;B[en];W[fp];B[ep];W[ho];B[do];W[hl])
+(;B[hm];W[gl]
+(;B[in];W[ho];B[en];W[fp];B[fn];W[dn])
+(;B[en];W[il]LB[ho:A]C[crux: A is sente for White, so White should be safe.]
+)))
+(;B[fo];W[eo]
+(;B[en];W[fm];B[ep];W[go];B[fp];W[gq];B[in];W[ho];B[hn];W[jn]
+)
+(;B[go];W[en];B[ep];W[ho];B[fp];W[jn]))
+(;B[gm];W[fm];B[fo];W[eo];B[go];W[ep])))
+(;B[ho]C[crux: Black could decide to fight, but for me it's impossible to tell what's going to happen.  Random variations added.  White may have the upper hand, but it's also possible that his left-side group could come under attack.]
+;W[in];B[hn];W[hm];B[im];W[jn]
+(;B[gm];W[gn];B[hl]
+(;W[go]
+(;B[hm];W[fm])
+(;B[fm];W[hm];B[hn]C[crux: This is about the best variation I can see for Black.]
+))
+(;W[fm]
+(;B[go];W[fo];B[fn];W[en])
+(;B[fn];W[en];B[fo];W[eo];B[ep];W[go];B[fp];W[hm];B[hn];W[gq]
+;B[gr])))
+(;B[fo];W[go];B[gn];W[fn];B[gm];W[gl];B[hl];W[fm];B[hm];W[eo]
+)
+(;B[gn];W[fn];B[gm];W[gl];B[fm];W[em];B[hl];W[go];B[hm];W[eo]
+))
+(;B[pr];W[nr];B[in];W[ho];B[gr]LB[jn:A]C[crux: White probably needs to defend against A, so Black gets sente.]
+))
+(;B[hp];W[ho];B[ir]C[Maybe this would be better?]))
+(;B[eq]C[crux: Probably ought to consider playing here.]))
+(;B[bi]C[crux: With all the aji near the top, this move will eventually be quite important.  Black becomes 100% alive, while White has no eyes for his stones.  The difference between W or B moving there is quite large.  Timing is important; at this time it's probably too early - White can more or less connect his groups, and Black is somewhat overconcentrated already.]
+;W[fo]))
+(;B[kb];W[jb];B[mb];W[ka];B[nb]C[crux: Black's right side group is safe.]
+)
+(;B[mb];W[nb];B[kb];W[ma];B[jb];W[pb]C[crux: One white group is without eyes.]
+))
+(;B[kg]TR[lc][ld][md]C[crux: I'd play here and consider giving up the marked stones.]
+;W[le];B[mf];W[me];B[nf]))
+(;B[lf];W[kf];B[kg]))
+(;B[dl];W[cm];B[dm];W[bn];B[co];W[bo];B[bp];W[cq];B[ao];W[am]
+;B[cp];W[dj]C[crux: Maybe the wall Black gets is sufficient.]
+))
+(;B[jp];W[el]C[crux: Somehow I can't help but feel that this would make it too comfortable for White.]
+)
+(;B[bj]C[crux: There is something to be said for just taking away White's base.]
+
+(;W[cj]
+(;B[bi];W[bk];B[ch]C[crux: I like this for Black; there's still a peep left.]
+)
+(;B[bk]C[crux: I dislike this option - it seems to weaken Black's corner.]
+;W[bl];B[ck];W[dk];B[bi];W[dl]
+(;B[dr];W[ch];B[bh];W[ei]C[crux: Probably too easy for White.]
+)
+(;B[ei];W[ch];B[bh];W[ej]C[crux: I can't see a followup.])))
+(;W[bi];B[ck];W[dk];B[bl];W[cj];B[bk]
+(;W[dl];B[ei])
+(;W[ej])))
+(;B[el];W[ei]
+(;B[dj];W[di];B[gi]C[crux: Difficult to say how it would go from here, or whether this is going to be good for Black.]
+)
+(;B[bk];W[bl];B[ck];W[dk];B[dl];W[cj];B[ek];W[dj];B[bm];W[bj]
+;B[cm];W[ak];B[jp]C[crux: This would be the perfect outcome.]
+)))

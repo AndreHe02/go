@@ -1,0 +1,92 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+PB[Parsec]
+HA[3]
+PW[kiyosasa]
+WR[15k]
+KM[-5.5]
+DT[2009-09-10]
+PC[IGS-PandaNet]
+RE[B+28.50]
+TM[600]
+RU[Japanese]
+
+AB[dd][pd][dp]C[Parsec: Hi
+kiyosasa: Hi!
+
+Yuk: Dear Parsec, sadly I have to tell you, that you didn't win.
+The big territory in the lower right simply wasn't counted for white in the end because there were some black stones in there. but theoretically it was all whites territory (the computer isn't to good at figuring such thins out, but the black stones there were all more or less dead).
+but this doesn't matter, let's just look what tipps and tricks I may give to you. Since you seem to be new to this game I won't go to much into the details and try to just give you some more generall hints which, hopefully, will realy help you get better.]
+;W[pq]C[Parsec: Let's have a good game!];B[qf]C[Yuk: this isn't to bad for starters, here you loosely secure the edge.]
+;W[dj]LB[fc:A][di:B]
+(;B[fc]LB[pj:A]C[Yuk: first sorry: this variation should be one stone earlier.
+here you play way to defensive. you have more stones and have clearly the advantage. your goal here is to secure territory while pushing white around and give it as few possibilities to make any territory as possible. but try to play on the save side anyway, you don't need the whole board; just half a point more thant the enemy ;)
+
+see the variation for a better move]
+(;W[pj];B[id]LB[le:B][ph:C][pi:A]C[Yuk: here it's basically the same as on the left side you should have played more offensive(A), forcing white back or, if you want to play at the top, do it more offensive to. something like B.
+If you wonder why you might connect at A in this case: you are near to the corner which belongs to you. If white plays C he ends up beeing caught, not you
+
+to B: no mather where white plays in this region, you may always block him either on the left or the right because your influence on this territory is very stront]
+;W[kd];B[md];W[kf];B[ke]C[Yuk: You shouldn't play here because white can make atari in one move....]
+;W[le]C[Yuk: and does so, pushing you into the defensive along the way.]
+;B[je];W[ld];B[lc];W[kc]
+(;B[jc];W[mc];B[kb];W[lb];B[la]LB[ma:A][jb:B][oc:1][nd:C][me:D]
+C[Yuk: this is certainly not the best move. it was a very fast game and it happens to everyone but you could save yourself a lot of trouble if you look out to not give your enemy so much opportunities for an atari (at A,B,C and D). 
+
+Playing at B or 1  for example would have secured the left side/right corner]
+;W[jb];B[ib];W[ka]LB[nc:A][nh:1]TR[pj]C[Yuk: now you'd definitely have to secure the upper right corner. the left is strong enough at the moment. but the right corner isnt secure at all with pressure coming from both, the left  and the marked white stone. if a group of stones is under pressure, you have two possibilities. you flee and manage to connect with a secure group or you somehow defend your group.
+the first is nearly impossible because with a move like 1, white tracks you in the corner, so your only option is to defend your self ir play at another place on the board if you think you cant do it.
+
+Something like A wouldn't be zo bad, i think....];B[ia];W[qc]
+;B[ja];W[kb];B[lf]TR[jf][dh][dl][fq]C[Yuk: this move is a wasted one. you are just to weak to win in this part of the board plus white can make atari with one move. a much much better move would be one of the marked spots because you make territory and force white to react. there certainly more spots than i marked but that are just some ideas....]
+;W[pc];B[dg]C[Yuk: a bit passive but not to bad ;)];W[me];B[di]
+TR[dg]C[certainly it's now save to play here because the marked stone backs you up.  but you would gain much more influence/territory playing in the lower left. corners are always the easiest spots to secure territory!]
+;W[ej];B[ei];W[fj]
+(;B[fi];W[kg];B[jg];W[jh];B[jf];W[ki];B[hh];W[hi];B[gi];W[gj]
+;B[ig]LB[ih:A]C[the upper left is secure and this move wasn't necessary. if white would have played there, you'd just play A and surround him. but you have no territory elsewhere so once again try to gain something in the lower left corner.]
+;W[ii];B[ci];W[cj];B[bi];W[bj];B[ai];W[aj];B[ih];W[jp];B[eq]
+;W[gq];B[cq];W[fo];B[eo];W[fp];B[fr];W[gr];B[dn];W[em]LB[dm:A]
+C[Yuk: you're very lucky white plays here because i think he could have gained alot more by playing at A. but as mentioned before, this was a realy quick game and such mistakes happen at both sides.
+but all in all you very well defended this corner.];B[es];W[qn]
+;B[dm];W[el];B[dl];W[qh];B[ck];W[og]C[Yuk: From here on the game is settled. you have the big chunk in the upper left and the lower left corner.  since everything from here on is more or less pointless, i wont comment to much till the end...]
+;B[en];W[fn];B[fm];W[ek];B[dk];W[mq];B[bk];W[ql];B[pe]C[Yuk: Here you're going to try save this stones but there simply isn't enough space and no influence from your side to do so]
+;W[nd];B[qd];W[rc];B[rd];W[rg];B[rf];W[of];B[sf];W[rh];B[sd]
+;W[re]C[Yuk: note this move. as you'll see, white hinders you to make two eyes which would make it a living group]
+
+(;B[pf];W[sc];B[oc];W[ob];B[pb];W[qb];B[nb];W[pa];B[qq];W[qp]
+;B[rq];W[rp];B[sq];W[qr];B[rr];W[pr];B[qs];W[ps];B[rs];W[sp]
+TR[la][nb][oc][pd][qd][rd][sd][pe][lf][pf][qf][rf][sf][fm]TW[qa]
+[ra][sa][pb][rb][sb][lc][md][qq][rq][sq][rr][sr][qs][rs][ss]
+TB[aa][ba][ca][da][ea][fa][ga][ha][ab][bb][cb][db][eb][fb][gb]
+[hb][ac][bc][cc][dc][ec][gc][hc][ic][ad][bd][cd][ed][fd][gd]
+[hd][ae][be][ce][de][ee][fe][ge][he][ie][af][bf][cf][df][ef]
+[ff][gf][hf][if][ag][bg][cg][eg][fg][gg][hg][ah][bh][ch][dh]
+[eh][fh][gh]C[Yuk:all the marked stones are dead so in reality you end up with onlin the two left corners, which makes white the winner.
+
+but your opponet was much to strong for a komi of only 3 stones, so don't worry about it.
+aside of that it was a quickgame and there you don't have time to think to much about your moves.
+
+as youe are new to this game i think the best way to get better at the moment is to just play alot of games and getting the hang of it. alot of the mistakes you made are simple ones you won't do anymore with just a little more experience. so just keep playing and you'll get a lot better in no time!
+
+i hope i could help you a little with this review. if you have any more questions feel free to contact me.
+
+Sincerely, 
+
+Yuk.])
+(;B[se];W[od];B[qe];W[pg]C[Yuk:you're trapped now with no chance of forming two eyes]
+))
+(;B[dl]LB[kg:A]TR[dj][ej][fj]C[Yuk: with this move white has no longer a chance to form a secure group on the left, forcing him to save the marked stones. big advantage is, he cant play at A at the moment (which he does in the real game) because of that. also you won a lot of influence un the left!]
+;W[fi];B[gg];W[fg]))
+(;B[mc]C[Yuk: this would be the better move because white threatens to make an atari, bringing you into trouble. dont worry about the left side...]
+;W[jb];B[ib]C[Yuk: your left side is strong and so you always can defend this attack of white. if you play against a stronger player chances are high you lose moste of the close quarter combats often ending up losing alot more territory than you would have if you go for the save way and secure what you very likeli can hold.]
+))
+(;AB[dh]AE[fc]LB[dh:1]TR[dj]C[Yuk:with 1 you do two things: 
+
+- you secure territory in the upper left
+- you threaten white, forcing him to set more stones in this area.
+
+However you should not directli connect to white because he may surround you that way and gain the upper hand (see other variation)]
+;W[cn];B[co];W[do];B[eo];W[dn];B[gq]LB[he:3][gf:2][dh:1]C[Yuk:with playing at one you got a lot of influence in the upper left, stopped white from claiming to much territory, established yourself in the lower right plus if you now play at a spot like 2 or 3 you beginn to secure a huge territory at the top or upper left, depending on whites moves]
+))
+(;B[di];W[dh]C[Yuk:this could end really bad for you, so don't play as close to the enemy]
+))

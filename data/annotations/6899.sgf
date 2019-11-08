@@ -1,0 +1,60 @@
+(;FF[4]GM[1]SZ[19]AP[SGFC:1.15]
+
+PB[Kirby]
+BR[1k]
+PW[Boss]
+WR[1d]
+KM[0.5]
+DT[2008-10-07]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[W+2.50]
+TM[1800]
+
+C[Boss [1d\]: hi
+Kirby [1k\]: hello];B[pd];W[pp];B[cd];W[dq];B[do];W[ck];B[cq]
+;W[cr];B[cp];W[gq]C[klin: With W has a stone at C9, G3 should be at E2.]
+;B[br];W[fm]C[klin: W F8 is a very thin move, meaningless.]
+;B[nq];W[dr];B[cm];W[el];B[ec];W[kq];B[qn];W[oo];B[qq];W[qp]
+;B[pq];W[rq]C[klin: W S3 should be at N4.];B[rr];W[rp];B[no]
+;W[nn];B[op];W[pn];B[mo];W[or];B[oq];W[nr];B[mr];W[lr];B[lq]
+;W[ms];B[mq];W[jr];B[pr];W[qf];B[qh];W[of];B[nd];W[mf];B[ld]
+;W[oi];B[pj]C[klin: B Q10 at R9 better.];W[qk];B[pk]C[klin: B Q9 at R10 better.]
+;W[qj];B[qi]C[klin: R11 should at R8.];W[ql];B[pl];W[qm];B[pi]
+C[klin: After B Q11, B is in a very bad shape.];W[nh]C[Kirby [1k\]: sorry
+Boss [1d\]: n p
+
+klin: P12 is better than O12];B[rf];W[re];B[rg];W[qe];B[rj]
+;W[rk];B[si];W[oc];B[od];W[pc]C[klin: W should play N17 first.  If the next few steps are the same, the Q17 R16 exchanges are bad for white.]
+;B[qd];W[mc];B[nc];W[md]C[klin: W N16 gives up the corner, too big.  Definitely should O18.]
+;B[nb];W[mb];B[ma];W[lb]C[klin: W looks very bad here.];B[rd]
+;W[sd];B[sc];W[se];B[rb];W[ne];B[ch];W[bs];B[ar];W[fe];B[dl]
+;W[dk];B[ek]C[klin: B D8 E9 cut are dangerous moves.  B should play at D14 to secure the territory.]
+;W[ej];B[fk];W[di];B[ci]C[klin: B C11 too agressive.  Sill should D14.]
+;W[bm];B[bn];W[dm];B[cl];W[bl];B[cn];W[cf];B[cj];W[dj];B[bj]
+C[klin: B B10 not needed.];W[bk]C[klin: Now, is B corner alive?  W B5 can kill.  B A7 was a sente before.  B B10 eliminate that sente.]
+;B[dh];W[fj];B[gk];W[gj];B[df];W[hk];B[gl]C[klin: B G8 very bad shape.]
+;W[il];B[gm];W[fn];B[gn];W[fo];B[go];W[gp];B[ep];W[fp];B[hj]
+;W[gh];B[in];W[ko];B[kn];W[ln];B[jo];W[km];B[kp];W[lo];B[jp]
+;W[iq];B[mn];W[jn];B[lp];W[ij];B[lm]C[klin: W should give up the 3 stones here.
+klin: W's moves here are so bad I have no comment beyond this point.]
+;W[kn];B[kl];W[jm];B[hi];W[fg];B[ii];W[jj];B[bo];W[mm];B[nm]
+;W[ll];B[on];W[po];B[pm];W[rn];B[hf];W[gd];B[jg];W[kh];B[id]
+;W[ic];B[jc];W[ib];B[hd];W[hc];B[jb];W[fc];B[eb];W[jd];B[je]
+;W[kd];B[ke];W[kc];B[le];W[me];B[gf];W[ff];B[ge];W[jh];B[ie]
+;W[ig];B[kg];W[if];B[ih];W[hg];B[lh];W[lj];B[li];W[ki];B[mj]
+;W[mi];B[lk];W[kj];B[ml];W[lg];B[gb];W[gc];B[ik];W[jk];B[hl]
+;W[ik];B[sk];W[sl];B[sj];W[qo];B[de];W[lm];B[jq];W[kr];B[hr]
+;W[gr];B[ir];W[hq];B[ls];W[ks];B[ns];W[hs];B[ls];W[is];B[kk]
+;W[nl];B[mk];W[nk];B[im]C[Tame [2d\]: ops];W[mh];B[jl];W[eq]
+;B[pg];W[pf];B[nj];W[dp];B[dn];W[fb];B[fa];W[bd];B[be];W[cc]
+;B[bc];W[dd];B[ad];W[ed];B[cb];W[dc];B[db];W[hb];B[ea];W[ga]
+;B[ee];W[fd];B[dg];W[em];B[og];W[eh];B[na];W[la];B[sq];W[sp]
+;B[sr];W[ng];B[qg];W[sf];B[sg];W[oj];B[oh];W[ni];B[ok];W[aj]
+;B[ai];W[ak];B[am];W[ho];B[hn];W[eo];B[io];W[hp];B[ms];W[oe]
+;B[an];W[ah];B[bi];W[ce];B[bd];W[bf];B[bb];W[ag];B[bg];W[af]
+;B[ae];W[eg];B[cg];W[cs];B[tt];W[as];B[bq];W[ef];B[bh];W[tt]
+;B[tt]C[Kirby [1k\]: thanks
+Boss [1d\]: tnk
+Boss [1d\]: bye
+Kirby [1k\]: bye
+Tame [2d\]: wonderful White])

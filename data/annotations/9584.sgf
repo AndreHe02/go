@@ -1,0 +1,413 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.16]
+
+PB[jarstar]
+BR[2k]
+PW[jrhoak]
+WR[1d]
+KM[6.5]
+DT[2014-10-19]
+PC[OGS: http://online-go.com/game/review/39048]
+RE[W+10.5]
+RU[Japanese]
+
+C[Hi!  My name is Jared and I play black in this game that I played with my friend on OGS (a correspondence server).  I'm a 3k on KGS and I seem to have hit some sort of wall in terms of my understanding of Go.
+
+I'd like to improve on:
+positional judgment (like how much is thickness worth, really?)
+joseki
+the opening in general
+
+After the game, my opponent and I did a little bit of review and this file contains those branches and comments.
+
+Any and all help is appreciated!  Thank you very much!
+
+Hey Jared, I'm Greg, your reviewer. All my comments are in the game. I'll prepend my comments with GC:
+It looks like you had a few directional mistakes (one big one) that may not look so bad at first, but ended up being very costly.
+Basically, it's not the value of thickness you should be worried about but instead how to deal with it. You had plenty of good opporutnities to nullify the thickness instead of playing too close to it.
+
+My thinking is you need to sometimes think about the more peaceful move sometimes.
+
+This is just my opinion, but I think the road to dan level is done by two things: better reading, and willingness to give things up and not be so aggressive. Sometimes it's okay to give the opponent a little space but making sure you are nice and strong too. Time and time again, I have won games where basically the opponent overextends his stones trying to stop from getting anything with my thickness and in return I bite him back and kill a group. It's better to reduce the thickness from far away. You still let me have something, but that something is a lot smaller. For reference, you can look at the ideas i wrote for moves 25, 31, and 57.
+
+Once you start compromising a little more, then positional judgement and score estimation is key. "How much can I give him?" "How much do I need to make with this?" are questions you need to be asking yourself all the time, and generally you want to take enough to just be ahead by a bit. You can't take everything.
+
+I hope this helps,
+
+Greg];B[pd];W[ed];B[pp];W[ep]C[GC: I think it's a matter of preference but I like to split in the middle here. The idea being if you split his side early, he can't get moyo, which is what 5-4 aims at, but I think what you did was just fine.]
+;B[cp];W[dn];B[eq];W[dp];B[dq];W[cq];B[bq];W[cr];B[br];W[co]
+;B[bp];W[fq];B[dr];W[er];B[cs];W[gp];B[fo];W[fp];B[pj]TR[cd]
+[ci]SQ[dg]C[GC: So far this is looking a bit easier for black, which is why the 5-4 is not seen as much in professional play. White will really have to use his thickness to get something. If I were white here, I might to and be a little more bold than C16 or C11 and play D13. The think is both of those moves are on the third line, which counteracts the idea of going moyo style. But between the two moves you showed here, B16 is definitely better.]
+
+(;W[cd]LB[bn:A]TR[cj]SQ[gc][jc][mc]C[GC: I think it's a bit too early to jump into the moyo for black. Since you have A, the area is not as big as it looks. Also, he can't expect to take it all in one more. I would be more afraid of him expanding along the top right. I think the move I would play would depend on how I'm feeling, but it feels like K17 is right. N17 and G17 also look decent. The reason I really like K17 is basically because white would want to play J17 or K17 as an extension, but this move prevents that. He can take H17, but that becomes slightly smaller.
+
+-- chat --
+jarstar: It was interesting
+jrhoak: I thought this was reasonable good];B[cj]C[GC: There is a quick discussion about white way white should play. Here, it should be pretty obvious. Play away from thickness while pushing your opponent towards it. This makes C12 the correct direction.]
+
+(;W[ch];B[cm];W[bn];B[ej];W[nc]TR[gc]SQ[kc][kd]C[GC: Here you tried to approach directly at G17 but now that feels a little too much. White J17 gives him a nice counterattack and reinforce the O17 stone a little. I would prefer a light pincer here. L17 or L16. I added some variations for reference.]
+
+(;B[gc];W[ic];B[ge];W[ne];B[pf]
+(;W[gg]LB[ge:A][ej:B]C[
+GC: I disagree. I don't think this is that silly. It's very important to keep the A and B stones seperated.
+
+-- chat --
+jrhoak: this was a little silly];B[dc]C[GC: Good move. Hard for white to answer.]
+
+(;W[ec];B[dd];W[de];B[cc]
+(;W[bc]C[
+GC: Indeed Mr. hoak is right. Overplay.
+
+-- chat --
+jrhoak: this was a total overplay];B[bd]C[
+
+-- chat --
+jarstar: Heh];W[cb];B[db];W[eb];B[da];W[ce];B[bb];W[ea];B[ac]
+;W[ff]TR[kc]SQ[oc]C[GC: It seems to me you could have been a bit more clever with move order here. Poking at P17 seems to be good because now white should play O18 in response instead of N16. Then there is more aji to work with.]
+
+(;B[kc];W[jd];B[oc]C[
+
+-- chat --
+jrhoak: bad opening  for me]
+(;W[md]TR[jp]SQ[mq][nq]C[
+GC: At this point now you jump out at white's thickness at K4. Again, normally one doesn't like to play close to thickness. Play a little further away, but more strongly, and reduce the thickness' usefulness. Both N3 or O3 seems very good here. After this, it's no longer good for white to extend along the bottom since it will then be overconcentrated.
+
+-- chat --
+jrhoak: this was also bad
+jarstar: N16 is unusual
+jarstar: I expected O28
+jarstar: *19
+jrhoak: yeah
+jarstar: *18
+jarstar: hit
+jrhoak: This was a problem for the rest of the game]
+(;B[jp];W[nq]C[GC: White comes in and K4 is immediately isolated and will be in danger.]
+;B[np];W[mp];B[no];W[pq];B[eg];W[ef]TR[mq]SQ[oq]C[GC: As Mr. Hoak mentions in a bit, you give up a ton of points here due to the mistake at K4. Unforunately, there is no easy way to handle this. At the moment though, K4 is still light and can be sacrificed. I would be tempted to take the left side with P3. See variation.]
+
+(;B[mq];W[oq];B[lp];W[qp];B[mo];W[qn]C[
+
+-- chat --
+jrhoak: you game up a lot here];B[kf];W[kd]TR[bm]SQ[hi]C[GC: At this point, you don't stand to make too much points on the left side with B7, and the white group looks hard to attack. I'm tempted to try and consolidate the center a bit. H11 pops out to me sort of by feeling alone.]
+
+(;B[bm]
+(;W[cn]C[GC: This connection looks like a mistake to me. The white group becomes heavier and has weird shape.]
+;B[dm];W[fn];B[em]C[
+GC: Indeed this was a nice sequence for you.
+
+-- chat --
+jarstar: Yes, the right side's more important at that point
+jrhoak: this was a very nice sequence for you
+jrhoak: I didn't realize how weak these stones were];W[gn];B[en]
+;W[eo];B[ho];W[go];B[po];W[qo];B[pm]C[
+GC: This seems okay. Now that the left side is stronger, H11 doesn't look good anymore. However, the game still looks hard for black. K4 was a costly mistake.
+
+-- chat --
+jrhoak: but I knew your center was getting strong]
+(;W[kh]LB[pm:A]TR[jj]SQ[qm]C[GC: Because White ignored the move at A, I'm tempted to play at Q7. The problem is that even with a move at K10, your center is still so open.]
+
+(;B[jj];W[ih];B[hq];W[hp];B[ip]
+(;W[in];B[hn];W[hm];B[io];W[gl]TR[mg]SQ[ng][lh]C[GC: N13 here was a little awkward. O13 as a follow up later hurts. I would try either O13 or M12. See variations,]
+
+(;B[mg]C[
+
+-- chat --
+jrhoak: still ok though];W[hj];B[qm]C[GC: Huge.];W[bi];B[an]
+;W[ao];B[am];W[bo];B[bg];W[bj];B[ci];W[bh]C[
+
+-- chat --
+jrhoak: your stones were surprisingly hard to attack
+jrhoak: I didn't find any attacks on them the whole game];B[dh]
+;W[cg]C[
+
+-- chat --
+jarstar: I know!  I was pleasantly surprised at that sequence on the side]
+;B[bk];W[ng]
+(;B[nh];W[og]C[GC: This is really painful for black now.];B[pg]
+;W[oh];B[ni];W[ph];B[qh];W[lg]
+(;B[lc]C[
+
+-- chat --
+jarstar: Nope];W[nb]C[GC: Indeed. M17 was a costly mistake.
+
+-- chat --
+jrhoak: not a good exchange of course];B[fm];W[gm]
+(;B[hi]C[
+
+-- chat --
+jarstar: Ok, I can see you doing stuff now];W[ii]TR[mh]SQ[li]
+C[GC: Rather than connecting here, I think M11 is more interesting here. It surround the center a little better and still theatens to let you push at N14.]
+
+(;B[mh];W[mf];B[gr]C[
+
+-- chat --
+jrhoak: a bit slow]
+(;W[oi]C[
+
+-- chat --
+jarstar: Yeah
+jrhoak: this wasn't right];B[oj];W[qc];B[qd];W[pb];B[hk];W[gk]
+;B[ik];W[gj];B[jn];W[kj];B[kk];W[lj]C[GC: Ouch. Getting cut into everywhere.]
+;B[ki];W[li];B[ml];W[nk];B[nj];W[lk];B[ll]C[
+
+-- chat --
+jrhoak: neat];W[kl];B[jk];W[mk];B[ol];W[im];B[jm];W[nl];B[nm]
+C[
+GC: In the end, the enter is so small.
+-- chat --
+jrhoak: I wonder if I could have done that move now]
+(;W[re]C[GC: Er.... what is white doing here?];B[rd];W[rc];B[ji]
+;W[lh]C[
+
+-- chat --
+jrhoak: I should have done that here
+jrhoak: hm
+jrhoak: did you give control?
+jrhoak: it's awkward
+jrhoak: se where it has the people
+jrhoak: with the 2
+jrhoak: next to the chat bubble?
+jrhoak: click on that
+jrhoak: then you click on the name
+jrhoak: in that little window];B[sc]
+(;W[ek];B[dk];W[el];B[fi];W[jh];B[fr];W[km]C[
+GC: Yes this totally works now. This is my last comment from here on out. Regardless of endgame, white now has a solid lead.
+
+-- chat --
+jrhoak: this move
+jrhoak: I think];B[kn];W[mm];B[jl];W[lm];B[gi];W[ij];B[rn];W[ro]
+;B[rm];W[mr];B[lr];W[nr]C[
+
+-- chat --
+jrhoak: cool
+jrhoak: Thanks!
+jrhoak: well, shall we wait a day or so and then get some more going?
+jrhoak: k
+jrhoak: np
+jrhoak: =)
+jrhoak: cya];B[so];W[rq];B[hh];W[hg];B[sp];W[sq];B[ap];W[do]
+;B[rb];W[ob];B[bf];W[be];B[ae];W[ls];B[ks];W[ms];B[kr];W[cf]
+;B[af];W[dg];B[ei];W[oe];B[pe];W[pi];B[of];W[nf];B[qi];W[ok]
+;B[pk];W[dl];B[cl];W[od];B[qb];W[pc];B[qa];W[ln];B[lo];W[fg]
+;B[eh];W[ak];B[al];W[aj];B[mn];W[pn];B[on];W[op];B[oo];W[pa]
+;B[ah];W[ai];B[ad];W[ag];B[sn];W[rp];B[ah];W[qg];B[rg];W[ag]
+;B[fl];W[fk];B[ah];W[sb];B[sa];W[ag];B[qr];W[qq];B[ah];W[se]
+;B[sd];W[ag];B[fe];W[ee];B[ah];W[qf];B[rf];W[ag];B[ll];W[ml]
+;B[ah];W[qe];B[sf];W[ag];B[rr];W[pr];B[ah];W[dj];B[di];W[ag]
+;B[os];W[ps];B[ah];W[lq];B[kq];W[ag];B[tt];W[tt];B[tt];W[ah]
+;B[tt];W[tt]C[
+
+-- chat --
+jarstar: Hm?
+jarstar: Not at the moment
+jarstar: I can't figure out how])
+(;W[km];B[lm];W[ln];B[mm];W[jl];B[il];W[kn];B[jo];W[jh]C[
+
+-- chat --
+jrhoak: Can you see me doing stuff?
+jrhoak: Oh
+jrhoak: You have to give control to me
+jrhoak: click on the people]))
+(;W[km]
+(;B[lm];W[ln];B[mm];W[jl];B[il];W[kn];B[jo];W[ji]C[
+
+-- chat --
+jrhoak: lol yeah
+jrhoak: hah
+jarstar: hang on
+jarstar: go back
+jarstar: I swear I looked at this for hours
+jrhoak: I gave you control])
+(;B[ln];W[jl];B[il]C[
+
+-- chat --
+jrhoak: nice
+jarstar: I think that was the whole point of L11
+jarstar: Or maybe it was something else
+jarstar: it also took away a liberty from the m9 group
+jarstar: Anyway
+jarstar: Really good game
+jrhoak: thanks!
+jrhoak: yeah
+jrhoak: ver deep];W[kn]C[
+
+-- chat --
+jrhoak: oh];B[jo]C[
+
+-- chat --
+jarstar: Thank you!
+jarstar: I think I need a break from ogs for a bi
+jarstar: bit
+jarstar: Yeah, give me at least a few days
+jarstar: Later!])
+(;B[kn])))
+(;W[oj]
+(;B[oi];W[pi];B[qi]C[
+
+-- chat --
+jarstar: hm
+jrhoak: much nicer])
+(;B[nj];W[ok];B[oi];W[pi];B[qi];W[lj];B[nk];W[ll]))
+(;W[lj]C[
+
+-- chat --
+jarstar: Yeah
+jrhoak: or just ignore for now])
+(;W[qc]C[
+
+-- chat --
+jrhoak: or do the corner sequnce]))
+(;B[li];W[mh];B[jm]C[GC: Center looks a little bigger for black.]
+))
+(;B[ii];W[hi];B[km]C[
+
+-- chat --
+jarstar: Ummm
+jarstar: Ohhhh
+jarstar: Ok found it
+jarstar: Ok, how do I give you control?
+jarstar: Ok]))
+(;B[lj]C[
+
+-- chat --
+jarstar: I realized that later that there just wasn't enough aji in the center stones]
+))
+(;B[ph]C[
+
+-- chat --
+jarstar: Hm]))
+(;B[ng];W[mg];B[mh];W[lg];B[nf];W[mf];B[qm])
+(;B[lh];W[lg];B[mg];W[mh];B[li];W[mf];B[ng];W[kg];B[qm]))
+(;W[hn]C[
+
+-- chat --
+jrhoak: this would have been better]))
+(;B[qm]C[GC: Right side is getting bigger.]))
+(;W[rl]C[
+
+-- chat --
+jrhoak: probably better now
+jrhoak: to just play this]))
+(;W[fm]C[GC: This seem so much better for white.]))
+(;B[hi]))
+(;B[oq];W[or];B[op];W[mr];B[mo];W[lp];B[lo];W[ko];B[kn];W[jo]
+;B[jn];W[io];B[qq];W[pr];B[nj]LB[qh:A][qp:B]C[GC: Something like this seems possible, but there are indeed issues. Still looks easy to invade at A, and there is a huge cut at B.]
+))
+(;B[mq])
+(;B[nq]))
+(;W[nd]))
+(;B[oc]
+(;W[nb];B[kc];W[jd];B[kd];W[ke];B[le];W[kf];B[md];W[nd];B[lf]
+C[GC: Black can fight.])
+(;W[md];B[je]C[GC: Now that black plays N16 or something like that, you can play differently here now.]
+;W[kd];B[id];W[jd];B[ie];W[hc];B[ih];W[hd];B[he];W[gd];B[kh]
+)))
+(;W[ee];B[ce];W[bd];B[be]))
+(;W[dd];B[ec];W[cc]C[
+
+-- chat --
+jarstar: That's what I was hoping for
+jrhoak: better just to play simply
+jrhoak: yeah, but it's better than the game
+jarstar: I like simple games, though
+jrhoak: still need to protect F16]
+(;B[pb];W[fd])
+(;B[fd]C[
+
+-- chat --
+jarstar: I feel like I would have a more reasonable idea about what to do after E17]
+;W[nq];B[pn];W[kp];B[kc]C[
+
+-- chat --
+jrhoak: hm])))
+(;W[fc];B[gb];W[ef]))
+(;B[kc]
+(;W[qc];B[qd];W[pc];B[od];W[mc];B[oc];W[ob];B[pb];W[qb];B[nb]
+;W[pa];B[md];W[mb];B[ld]C[This looks okay for black.])
+(;W[qf]C[GC: Slight overplay.];B[qc])
+(;W[ne];B[pf]
+(;W[ke];B[hc]C[GC: Harrd to find a great move for white now.]
+)
+(;W[ng];B[ph];W[ic];B[ke];W[kg];B[ie]C[GC: Running battle, but I think black looks good here. He makes a lot of points on the right, and white's group is still not settled.]
+)))
+(;B[kd]
+(;W[ne];B[pf];W[pb];B[qc];W[kb]TR[pb]C[GC: White's stones are low, black makes nice corner territory, takes sente, and has a nice follow up later. This joseki is rarely seen at the professional level. It is thought that black is better here.]
+)
+(;W[qc];B[qd];W[pc];B[od]
+(;W[mc];B[oc];W[ob];B[pb];W[qb];B[nb];W[pa];B[md]C[GC: Anything after this is pretty good for black.]
+
+(;W[mb];B[nd])
+(;W[lc];B[ld]))
+(;W[oc];B[nd];W[md];B[me];W[le];B[ld];W[mc];B[mf]C[GC: Some nice thickness.]
+))
+(;W[qf]C[GC: Again, this is a slight overplay.];B[qc])))
+(;W[cl]C[
+
+-- chat --
+jrhoak: maybe this way?];B[cg]C[
+
+-- chat --
+jarstar: And then extend along the top?
+jrhoak: less cramped
+jarstar: yes
+jrhoak: yeah];W[eg];B[ej];W[nc];B[qf];W[jd]C[
+
+-- chat --
+jarstar: nice for white, seems
+jrhoak: something like that]))
+(;W[ci]C[
+
+-- chat --
+jrhoak: maybe here
+jrhoak: this would be better
+jarstar: Hm
+jrhoak: and let B invade
+jarstar: Then block black in the upper left?]
+(;B[cc];W[cd]C[
+
+-- chat --
+jarstar: yes]
+(;B[dc];W[dd];B[bd];W[be]C[
+
+-- chat --
+jarstar: Nice];B[bc])
+(;B[dd];W[de];B[dc];W[ce];B[fc]C[
+
+-- chat --
+jarstar: Perhaps C16 for black though];W[ge]))
+(;B[cd]
+(;W[cc];B[bc];W[dc]
+(;B[cg]C[
+
+-- chat --
+jrhoak: yeah, a bit better
+jrhoak: 1 is well placed
+jrhoak: in this variation
+jarstar: yup])
+(;B[be]
+(;W[nc];B[pf];W[jd]C[
+
+-- chat --
+jrhoak: haha
+jrhoak: probably not])
+(;W[bb])
+(;W[df];B[cg];W[jc]C[
+
+-- chat --
+jrhoak: interesting
+jrhoak: I still like 1 better
+jrhoak: than sealing the corner])))
+(;W[cf];B[de]C[
+
+-- chat --
+jrhoak: I don't know many 5-4 variations];W[df]C[
+
+-- chat --
+jarstar: Me neither XD])
+(;W[df];B[ec];W[fc];B[dc];W[fd];B[bf];W[nc];B[qf];W[jd]C[
+
+-- chat --
+jrhoak: this would be the simple variation
+jrhoak: still a balanced game
+jarstar: Nice moyo by white
+jrhoak: yeah])))
+(;W[dg]C[GC: This looks kind of fun. The corner is still open sure, but your moyo is developping.]
+))

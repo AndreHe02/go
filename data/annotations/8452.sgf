@@ -1,0 +1,157 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[utf-8]AP[SGFC:1.17]
+
+GN[dmitriy81 - fleetfeet]
+PB[dmitriy81]
+BR[17k]
+PW[fleetfeet]
+WR[17k]
+KM[6.5]
+RE[W+6.5]
+RU[Japanese]
+
+C[Hello, and thank you for taking the time to look at my game.  I have gone through and put my own comments in specific places... either where I felt I made a mistake, or simply my own rationale.  I have played for about two weeks, but I knew the basic rules before then.  I believe this was my 25th game over those 2 weeks.  As I am a beginner, I would greatly appreciate explanations when you suggest better moves.  Thank you.
+
+(I played this game as white)
+
+pz-hi, i'm pzykr, 9 kyu under a different name on kgs. i'll always preceed my comments with pz- so they're easy to identify. i recommend that you set your sgf viewer to show all move numbers since i will refer in my comments to the move numbers (eg, b5). if i intend to refer to a location on the board, i'll use a capital letter (eg, B5) . in this game, b5 is on F4.]
+;B[pd];W[dd];B[pp];W[dp];B[fp];W[cn]CR[cp][eq]TR[dq][co]C[F: perhaps a weak response, but I wanted to secure the corner.  maybe D6 or D7 is better?
+
+
+pz- w6 is a fine move. in the opening, one seeks a balance between stones on the fourth line and stones on the third line. w6 is the first stone either side played on the third line. it's easier to secure territory from the third line, which is why the third line is called the line of territory. the fourth line is called the line of power or influence because it has more to do with the center and is good for fighting there. in point of fact, though, w6 alone does not secure the corner--it can still be invaded at the 3-3 point (C3). from the star point (hoshi), it takes two extra moves to secure the corner.  in order to secure a corner with only two moves, the first play in the corner should be on the third line. the two black triangles in this diagram show the shape that secures the corner with only two stones. this shape is called "shimari," which means corner enclosure. the two circles show a shimari oriented in the other direction.  the natural direction of play from a shimari depends on which direction it's oriented: from the circles it would be better to develop the left side first (D10 or therebouts). from the triangles the direction of play is on the bottom.
+
+i should qualify the statement that it takes two extra moves from hoshi to secure the corner: one could play directly on san-san (the 3-3 point, here C3), which move alone is sufficient to secure the corner. however, that would be a small, passive move and wouldn't be recommended in this position. if one wanted to secure the corner with 3-3 then the play on hoshi is wasted--just play directly on san-san.]
+;B[kq];W[jd];B[dj];W[ck]C[F: again, defending my corner, though I'm not sure what is best.
+
+pz- b9 is pretty far from the corner... w10 does establish a base, though, on the side. it's very important to establish a base, exactly as you've done with w6 and w10. these two stones by themselves almost are enough to establish a live group.]
+;B[gd]C[F: I have difficulty understanding the best approach when my opponent splits stones like this.  the outcome of the situation ended in my favor this time, but I think that it was a lucky break
+
+pz- yes, invasions like this are difficult to handle. on the other hand, black played one stone against two white stones: white should have the advantage here.]
+;W[hd]C[pz- if your intention is to attack the b stone (a reasonable intention!) then you should not touch it. in the opening (fuseki), one attaches to the opponent's stones generally to make shape or to settle a group quickly. when w12 attaches like this b should extend one point from b11, either to G15 or G17, depending on the chosen strategy.]
+;B[fe]C[pz- a beginner's move];W[df]C[pz- good move. it puts pressure on b11 and b13 without touching.]
+;B[ef];W[dg]C[pz- another good move, which should almost be automatic since b15 attached to your stone.]
+;B[dm];W[cm];B[ci];W[ch]C[F: I felt that I needed to make a decision to defend the top group or bottom group.  I was worried that if I chose the bottom group at B10 or B11 that he would connect with his 3 stones above
+
+pz- in this situation, attaching to b19 with w20 makes sense, as it helps settle the other w stones in the upper left corner. also, your choice of defending the upper stones was correct since the lower stones, being on the third line, probably already cannot be killed. b still can invade the bottom at san-san (C3)]
+;B[dh];W[eh];B[eg]C[F: unexpected move by him.  I thought he would save his stone in atari.]
+;W[di];B[ei];W[fh]C[F:  I was willing to fight the ko position because I saw the possibility of surrounding his 4 stones above.
+
+pz- good thinking, though there is a proverb that "there is no ko in the beginning of a game."  the reason is because there are few ko threats available. the value of w26 is not that it yields a ko, but that it separates b's stones above.]
+;B[dh];W[gf]C[F:  perhaps wishful thinking at this point, but I saw weakness here
+
+pz- w28 seems like a good move to me since it prevents b from playing there. "the opponent's vital point is also my vital point." a black move at w28 would give black a resilient shape and greater possibilities of life. in particular, it makes two hanging connections (tiger's mouths) for black.]
+;B[ed];W[ge]C[F: I think maybe a wasted move and better was F17, but I wanted to squeeze him.
+
+pz- did you forget about the ko? if you could connect all your stones at D12 (where b27 is) that would be a very strong shape.]
+;B[ce];W[de];B[cg];W[di];B[cf];W[cd];B[dh];W[bh]LB[bg:A][bi:B]
+[bj:C]C[F: at this point, I think his 3 stones on line C are lost
+
+pz- they are, though it's a little more complicated than it seems. for example, if b plays B16, w's group has only three liberties, plus the ko stone in question. also consider the sequence b A, w B, b C: only the presence of w10 (and still the ko stone) prevents b from capturing w on the side.]
+;B[di];W[be]C[F: is this necessary?  I'm unsure of what to do, but wanted to make sure I could escape if my other stones were in atari
+
+
+pz- yes. this is now necessary since the sequence in my last comment now works for b.]
+;B[bi];W[bg];B[gi];W[gh];B[hg];W[gg];B[he];W[id]C[F: is it better to atari his G16 stone?
+
+
+pz- your G15 stones are getting low on liberties and his nearly-surrounded stones don't have much scope for action. the way you played it turned out ok, but at this point i think if i were w i'd be looking to increase the liberties of that almost-surrounded w group. w48 gives w the capture via ladder (shicho) of b47, which would solve the shortage of liberties problem. after that i don't see how b could live.
+
+on the ladder: if one wedges in with H14, then starts the ladder, the ladder will fail because b45 will create an atari of one of w's ladder stones. correct is w H14, b J15, w J14, and etc.]
+;B[gc];W[fc];B[fb];W[ec];B[fd];W[eb];B[hc];W[ic];B[hf];W[gb]
+;B[hh];W[hb];B[fi];W[ee]C[pz- spendid move! kills b's stones. had b played here, seki (dual life) would have resulted.  good example of the proverb your opponent's vital point is also your vital point.]
+;B[jf]MA[hi]C[F: that sequence from beginning to end seemed to go my way, but looking back I think he could have won the game early had he played differently.  a lucky break for me
+
+
+pz- indeed. had b played b59 at w60, it would have gotten messy. after b57 of course there's no more ladder. on the other hand, you would then have been able to play your w60 at b59 and may very well have gotten to safety in the center. added advantage would have been cutting his stones. speaking of cuts: what about w64 at H11(x)?]
+;W[ld];B[me];W[md];B[nd];W[nc];B[oc];W[ne];B[od];W[nf]C[F:  I felt that I needed a way to extend down the side, so cut here.  perhaps he should have been more aggressive to shut me in
+
+pz- these stones (w70 and 72) aren't really close to the side.the big point to establish a base on the right side would be a play at R10. that way, whichever direction b approached that stone from w could extend two points in the other direction and establish a base on the third line (the line of territory). one cannot plan on making territory with two stones on the sixth line...]
+;B[pf];W[nh]TR[lf]C[pz- w74 at triangle would capture b65 in a "geta" (named after the shoe the shape resembles). your W70 and 72 stones would then connect to your upper stones, guaranteeing life, and would work well with a cut at H11. there is a proverb, though, that the one-point jump (your w74)is never bad (not ALWAYS true, of course-- proverbs are like that...)]
+;B[mg];W[pk]C[pz- too high, should be on the third line. it's not really close enough to help the upper right stones anyway, against careful play.]
+;B[pi];W[oi];B[ng];W[og];B[ph];W[oh];B[of];W[pg]C[pz- w84 at P10 would keep connection between these four stones and w76, making a better shape than you wound up with. allowing b to cut you at b89 was very dangerous.]
+;B[qg];W[qh];B[qi];W[pj]C[pz- again, w88 one point farther left, at P10 MUCH better]
+;B[oj];W[nj];B[ok];W[rh];B[qj];W[qk]C[pz-first atari b85: if he doesn't protect you get to connenct there. if he defends at R14, you have increased the liberties of w86 and 92 to four. always look for forcing moves like S13 and play them first!]
+;B[rj];W[rk];B[pl];W[sj]C[F: is this a wasted move?
+
+pz- not wasted--necessary (or you could also have ataried at S11 and still captured the stones). in this particular sequence, b helped you out a lot.]
+;B[rg];W[ri]C[F: perhaps another wasted move?  I was worried about keeping the group alive and felt it was necessary, but maybe a better play was on line N or M?
+
+pz- the b stones were in atari, clearly dead. yes, a wasted move.
+
+instead, you might have played N14, placing b65 in atari, and allowing your W70 and 72 to escape, possibly, or at least starting an intense fight. allowing these two stones to be captured solves most of b's problems as it allows him to connect his corner and his center.]
+;B[mi]C[F:  like right there];W[ni]C[pz- "when peeped, close the door" is another proverb (b101 is a peep, as it threatens to cut.  however, it's good to look around for forcing moves before responding by rote in a situation like this. in this case, w102 would be better at O9 to atari b89 and 91. after b plays P8, then w closes the door. that way you have more thickness facing the center. thickness refers to stones that cannot be cut and that exert influence (directed power) especially towards the center.
+
+a different possible strategy here would be, instead of closing the door with 102 to push out between b65 and b75 with your two nearly dead stones: seize the initiative (sente) in other words. it's usually weak play to follow your opponent's moves slavishly as that cedes him sente. it's often worth the loss of one or more stones to seize sente.
+
+if you don't let b's center and right upper corner connect, there still is some possibility of the cut at H11 working.]
+;B[nk];W[qf];B[rf];W[qe];B[re];W[qd];B[qc]C[F:  mistaken hope by me.  he already has the corner and I should just give it to him and play elsewhere
+
+pz- yes];W[mf]C[pz- finally! yes!];B[le];W[lg];B[mh];W[ke]C[pz- very nice sequence!]
+;B[lh];W[lf]C[F:  again, wasted move I think.  those stones were essentially dead and I could have played elsewhere
+
+pz- again, you're right, and your capture was a "gote" move, which means that your opponent did not need to respond to it and could take the opportunity to play sente (taking the initiative) elsewhere. sente and gote are inverses of one another, closely related.
+
+in this position, your w stones on the right are almost completely sealed in, which virtually takes them out of the game as far as fighting is concerned, though there is room to make some more terri on the right side.]
+;B[do];W[co];B[eq];W[dq]C[pz- b119  is an ugly move: it induced you to strenghten your corner, which can no longer, after w120, be invaded at 3-3 so easily, if at all.]
+;B[bk];W[dl]C[F: here I saw the possibility of a similar exchange to the one in the top left corner]
+;B[bl];W[em];B[el];W[dn]C[pz- instead of capturing directly, how about w126 at E5? kills both stones and leaves you with better shape.]
+;B[dk];W[fl];B[ek];W[fm];B[gn];W[eo]C[F:  I'm not sure, but I think it would have been better to play this move much earlier.  he left it open for so long, I think it was lucky that I was able to capitalize on it and keep him from connecting it out
+
+pz- indeed, b helped you here, also];B[fn];W[en];B[gl];W[fo]
+;B[go];W[cl]C[pz- this move gives you a real eye at D7];B[dr]
+;W[cr];B[bq];W[ds];B[er];W[cq];B[bp];W[bm];B[es];W[cs];B[cp]
+;W[ep]C[F:  wasted move?  I was worried if he extended into the corner that the bottom group would be surrounded and he could make life
+
+pz- not a wasted move. this gives you a second real eye. had b played here, the eye at D5 would have been false. also, w150 creates nice cutting points on either side of b5, so it's essentially sente--b really should respond to protect his weakness here.]
+;B[fq];W[al];B[ak];W[am];B[bj];W[qq]C[pz- good timing. this is what sente is about: b had to protect his cutting points on the left: move b155 was gote.]
+;B[qp];W[pq];B[oq];W[or];B[rq];W[op]C[pz- w162 would be better played at S2]
+;B[nq];W[np]C[pz- no! again, S2. your three corner stones are very vulnerable]
+;B[mq];W[lp]C[pz- if you're going to play on the outside instead of for the corner, at least play solid moves that don't allow your opponent to push through and cut!]
+;B[mp];W[mo];B[lo];W[ln];B[ko];W[no];B[mn];W[lm]C[F:  I made some major mistakes it this sequence that could have (and I thought did) cost me the game.  Better here maybe would be to atari at O6.]
+;B[mm]C[pz- easier for b would be to catch your four stones in a ladder by playing b175 at 06. notice the shape around your w166 stones: it's the geta again and w166 is dead.]
+;W[ml];B[nn]C[F:  this surprised me, and I should have seen it]
+;W[oo];B[on]C[F:  at this point I should have let those stones be, but I miscalculated the ladder, and thought it would finish with me connecting with S8]
+;W[po];B[qo];W[pn];B[pm];W[qn]C[F: I realized my mistake finally after making this move and thought they were lost]
+;B[om]C[pz- black gave you a splendid opportunity to save those stones caught in the ladder...]
+;W[nl]C[F: a series of blunders by both of us?  his choice not to kill the ladder, followed by my assumption that it was still dead after he moved elsewhere seems pretty dumb]
+;B[rn];W[qm]C[F:  really not smart for me to keep going, not sure what I was thinking at that point
+
+pz- the proverb says that each move you make in a failed ladder costs you 7 points.]
+;B[ql];W[rm];B[rl];W[sm];B[sl];W[ol]C[F:  I finally did something productive]
+;B[sn];W[mk];B[ll];W[lk];B[kl];W[km]C[F:  would it have been better to try to enclose his group beginning at N11?  I was not sure it that is a possibility, but I realize now I was trying to save stones that were already dead
+
+pz- do you mean N12? at N11 b simply pushes through your stones...]
+;B[jm];W[kk];B[jl];W[jk]C[F:  again, I was not sure if I could surround the group above, and wanted to create enough space to try]
+;B[mc];W[nb];B[lc];W[kc];B[lb];W[kb];B[ij]C[F:  the sequence at the top took me away from what I wanted to do, though I was unsure of how to approach it to begin with]
+;W[jj]C[F:  trying to block the connection];B[ji]C[F:  is it still possible, I don't know]
+;W[kh];B[ki];W[kg];B[kf];W[je];B[jg];W[jh];B[ii];W[gk];B[ob]
+;W[la];B[hk];W[hl];B[hm];W[gm];B[il];W[gl];B[gj];W[ik];B[hj]
+;W[oa]C[pz- b's stones in the center, from b153 all the way to b79, don't have two eyes yet. think big! attack! w234 could have been played at J12 to make the eye at G11 false. b's only move to live would then be A11. if he let you play there, his whole group would have died, with accurate play on your part.]
+;B[pa];W[na];B[lj];W[mj];B[li];W[ai]C[pz- kills the eye at A10. b should now play at J12 to ensure two eyes in the simplest way, fewest number of moves, though the method he chose was just as effective.]
+;B[aj];W[ah]C[pz- no! J12 only move!];B[ie];W[fk];B[fj];W[ih]
+;B[ig]C[pz- b has made his two eyes and now lives. it's an interesting position because he has two separate groups, each with one eye, and the connection at H11 is perfectly safe, though not part of either group. w246 came too late. timing is very important!]
+;W[oe]C[F:  3 point swing for me in last 3 moves];B[pe];W[sg]
+;B[rd];W[sf];B[se];W[sh]C[F:  little did I know, but that sequence at the end probably won it for me.  I believe that was a 6 point reduction from his score and a point added to mine]
+;B[in]C[Final comments
+
+F:  looking at the board, I thought maybe he won a close game, and my blunder with the ladder cost me the win.  this game was played on the panda-tetsuki ipod app, and they scored it as a 6.5 win for white, while this program  scored it as a 7.5 win for white.  after reviewing this myself, I realize that there are many wasted moves that I make, particularly when I kill already dead stones.  the sequence in the top left was good for me, although I think it could have turned out differently, and what happened in the lower right could have been avoided to some extent.  I think that because I was able to squeeze him so much in the central area, I was able to come out on top.
+
+I've only been playing for a short time, and I think with more practice I can improve a lot.  there are many things I don't understand about this game.  thanks for the review!
+
+pz- my sgf viewer (multigo) agrees that you won by 6.5, which is the amount of komi (compensation points for not having the first move) you were given. the situation on the board-not counting the komi- is jigo, a draw. i wonder why you never attacked the vulnerable stone b235? every point helps! a move at Q18 would have meant winning by more than komi...
+
+this is very impressive for one's 25th game. i always tell beginners "lose your first 50 games as quickly as you can."
+
+thanks for giving me the opportunity to review this game. if you get as much out of reading it as i got out of writing then this has indeed been a worthwhile review. good luck in your future progress! 
+
+"go is life is go"];W[tt];B[tt];W[tt]TB[qd][sd][qe][if][qf]
+[hi][ej][im][km][lm][qm][rm][sm][jn][kn][ln][pn][qn][hn][ho]
+[io][jo][mo][no][oo][po][ro][so][gp][hp][ip][jp][kp][lp][np]
+[op][rp][sp][gq][hq][iq][jq][lq][pq][qq][sq][fr][gr][hr][ir]
+[jr][kr][lr][mr][or][pr][qr][rr][sr][qb][fs][gs][hs][is][js]
+[ks][ls][ms][ns][os][ps][qs][rs][ss][qa][ra][sa][pb][nr][rb]
+[sb][pc][rc][sc]TW[aa][ba][ca][da][ea][fa][ga][ha][ia][ja][ka]
+[ma][ab][bb][cb][db][fb][ib][lb][mb][ac][bc][cc][dc][gc][hc]
+[jc][lc][mc][ad][bd][ed][fd][gd][kd][ae][ce][fe][le][me][af]
+[bf][cf][ef][ff][ag][cg][eg][fg][ph][pi][qi][si][oj][qj][rj]
+[nk][ok][an][bn][ao][bo][do][ap][bp][cp][aq][bq][ar][br][as]
+[bs][jb][dm])

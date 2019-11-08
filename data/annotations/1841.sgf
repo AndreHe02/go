@@ -1,0 +1,190 @@
+(;FF[4]GM[1]SZ[9]ST[1]AP[SGFC:1.13b]
+
+GN[chris]
+PB[Chris]
+PW[The Many Faces of Go]
+KM[0]
+DT[2002-04-07]
+
+C[Hi there,
+
+I am a novice at Go. I learned the rules just a few weeks ago. My
+rating might be around kyu 30. I send you a game which I lost with the
+black pieces.
+
+I am not skilled enough to ask specific questions. I think some
+general comments about this game are very helpful for me.
+
+With kind regards
+
+Chris
+
+
+Hello Chris,
+
+I am a novice at review writing. :)
+I am currently playing at 7k on KGS, so my advice may have some flaws.
+If you have further questions, feel free to email me.
+
+ Peter];B[cg];W[gg];B[gc]LB[dc:A]C[(A) would make a good spot here as well.
+As black is one move ahead, black can play for territory on a 9x9 board and just win
+by taking a bit more than white.
+Your G7 is certainly good, too. But it will lead to a hot game as neither player has
+connected groups at the beginning.];W[cc]
+(;B[ce]LB[ee:A]C[I personally would play at (A) here. This move would serve two purposes:
+a) it connects your stones.
+b) it splits the white stones.
+
+A move like (A) does not make any territory yet. But connecting your own
+groups and splitting your opponent is a sure way to win.];W[eg]
+;B[ge]TR[cc]LB[ec:A]C[Playing at (A) instead would attack the marked white stone at C7.]
+;W[ec];B[gd]LB[ee:A]C[This move is very passive. White can ignore it. This is bad, if you make moves
+your opponent does not need to answer.
+
+In Go there are the concepts of sente and gote.
+
+A sente move usually forces your opponent to answer, if he ignores it, it will be a
+local loss. A gote move is a move your opponent does not need to answer, so your
+opponent gets sente next.
+
+Instead I would again play at (A) for the same reasons as before: Connect your
+stones and split your opponent into two groups.];W[bd]TR[be]
+C[Now white ignored your G6 move and starts attacking you while making territory himself.
+Usually it's good to answer this kind of move by playing at the triangle spot. On a big board
+this would be played late in the game, but on the small board it threatens too much.
+The threat is White playing at B4, destroying your territory and threatening the life of your lower
+left group.];B[cf]TR[be][dh][ee]C[One of the triangle spots instead looks better and more active.]
+;W[ee]C[Now White got that point you should have played. White connects his stones and
+splits you in two.
+The upper right black group is fine, but the lower left is threatened by B6 and should be
+reinfoced. The idea is to play a move at your weaker group, not at your stronger group.]
+;B[ed]C[This kind of cut is not good. White will get a better result.
+Don't play those moves in between of a 1-point jump unless
+you have a really good reason. Here, this move does not lead
+you anywhere.];W[ag]TR[bd]C[This is the "monkey jump". White can connect A3 to B6.
+Here you see why White B6 was a good move earlier. He came in through
+the back door into your territory.]
+(;B[fd]LB[dd:A]C[This should have been at (A). See variation.]
+;W[dd];B[be]C[Difficult now. White should play A5 and your group looks pretty dead.]
+;W[bh];B[ch];W[ai]C[I don't understand this move. White should play A5 and connect.]
+
+(;B[fb]C[Argh. You cannot ignore the lower left!
+Your upper right is fine, the C4 group is hot.
+
+I have played a couple of variations. Probably I did not find
+the optimal sequence for white. But maybe you can get some ideas.
+
+At least ignoring the lower left here was wrong.];W[ae]C[White connects.]
+
+(;B[gb]TR[db][hf]C[What does this move do?
+It does not attack white. Nor is it required to defend there.
+I don't want to sound mean, but actually passing here would have the same effect.
+
+H4 looks like a good spot.
+Or D8 to ruin some of whites territory on the top. You can connect D8 to your
+F8 stone.];W[eb];B[bb]C[I dont think this can work. You cannot connect this stone to your own stones.
+Also you cannot live in the corner.];W[de]C[White gets this good point that connects his stones and finally
+should kill your lower left.];B[cb];W[ab]C[I do not understand this move.]
+;B[gf]C[This is ok. H4 would be possible too. Both are good.
+Here you have H3 as ideal follow-up move. White has to play H3 now.]
+;W[dg]C[Another move I don't understand.];B[dh]C[Your group is dead. You are just adding prisoners.]
+;W[eh];B[cd];W[bc];B[db];W[dc]TR[ea][hg]C[Good sequence here.  Question is, is it bigger to connect those 3 stones or play the big hane
+on H3.
+I don't know. H3 looks better.]
+(;B[hg];W[gh]
+(;B[ig]C[This is bad.
+You can now take your chance to connect at E9.
+If you want to play in the lower right, then play H2.
+J3 can be ignored by white, and you throw away points.];W[da]
+LB[fa:A]C[I would have played at (A) instead as white.];B[hf]
+C[H2 gives you some more points.];W[ff];B[fa]C[Good.];W[ea]
+;B[hh];W[hi];B[ih]C[This is filling a neutral point.
+But actually, the game is over now.];W[ba]C[Computer plays bad.
+This is throwing away a point.];B[ii];W[gi];B[fc];W[fe];B[tt]
+;W[df]C[Computer throws away another point... This is not needed.]
+;B[bg];W[di];B[bf]C[Now if you want to do something, then play A4 and have a Ko. But it
+is much too late for that now, you could have tried long ago, see previous
+comments and variations. This move does not help to make eyes, it just
+adds another prisoner for White, so you lose a point.]
+(;W[ci]C[Computer plays very bad here. There is no danger. See variation.]
+
+(;B[fh];W[fi];B[ad];W[ac]C[This is the last move in my record. So I assume here you stopped.
+
+Your main mistakes were to play some moves your opponent could ignore and
+that did not do anything good for you. Also you had ignored the main focus of
+the game, the lower left corner, when it was urgent.
+
+As a rule of thumb, play
+a) Urgent moves first
+b) Moves that attack your opponent and make territory for yourself
+c) Moves that connect your groups and split the opponent
+d) Moves that make territory.
+
+Moves that make two things are good moves. Urgent moves that are needed
+to rescue your own groups should never be ignored.
+
+You lack some basics. Now, I don't want to sound mean, everyone has started
+with Go. But if you want to learn Go, you have to invest some efforts in that.
+First of all, I recommand playing a lot. Computer is fine for the very beginning,
+but please keep in mind computers play very bad Go. Advantage is, you can
+play a lot of games and the AI does not complain. Disadvantage is, you can
+get some bad habits from it. When I started with Go, I played a lot against the
+AI, too, just because it was difficult to find a human opponent as beginner.
+Maybe get some books, for beginner level I like Janice Kim Learn To Play Go
+series, also Graded Go Problems for Beginners Volume I is good. A nice
+webpage for problems is goproblem.com.
+If you can find a local club, go there. And visit one of the internet servers,
+I recommend KGS and IGS.
+
+If you have further questions, feel free to contact me via email, or have a look
+if you find me on KGS or IGS, Im using the nick "Zotan" on both.
+
+Enjoy your Go :*)])
+(;B[tt];W[tt]))
+(;W[tt]
+(;B[af];W[ci])
+(;B[ci];W[ei];B[bi];W[af])))
+(;B[ea])
+(;B[hh]
+(;W[hi];B[ea])
+(;W[fa];B[ga];W[ea];B[gi];W[fi];B[hi])))
+(;B[ea];W[hg]C[Your 3 stones are connected, but White gets the big H3 point.
+Actually, maybe playing H3 instead of connecting at E9 is better.]
+))
+(;B[af]C[This looks interesting.]
+(;W[bf];B[bg]
+(;W[af];B[bi];W[ci];B[di]
+(;W[ah];B[bi];W[ad];B[cd];W[bc];B[de];W[dc];B[ef]C[Maybe this would work.]
+)
+(;W[ad];B[bi]C[This Ko might work.]))
+(;W[ad];B[af]C[Ko for the life of your group.]))
+(;W[ad]
+(;B[bf];W[dh];B[ci];W[cd];B[bg];W[ah];B[bi];W[ah]C[Unfortunately this way black dies. White creates a dead shape and then
+plays on the vital point and kills.])
+(;B[bg];W[bf]C[Ko for the life of your group.];B[cd]
+(;W[af];B[de];W[dc];B[ef]C[Connected.])
+(;W[bc];B[af]
+(;W[ci];B[ah];W[dh];B[bi])
+(;W[hf];B[ah];W[ic];B[bi];W[hb];B[de];W[dc];B[ef]C[Now the top right is ruined, but black is safe.]
+))))))
+(;B[af]
+(;W[dh];B[bg];W[ci];B[ah];W[di]C[White cannot really afford to play this ko here.]
+;B[bi]C[Alive.])
+(;W[bg];B[eh];W[fh];B[dg]
+(;W[ei];B[ef];W[dh];B[ff];W[ci]C[Connected. But ruined territory.]
+)
+(;W[ef];B[di]C[One eye versus one eye. Black should kill white faster here.]
+))
+(;W[ci];B[dh];W[di];B[ei];W[bi];B[eh]C[This does not work for white.]
+)
+(;W[ah];B[bg]C[Alive.])))
+(;B[dd];W[fd];B[fc]
+(;W[fe];B[dc];W[eb];B[db]C[White is cut and you can capture the 2 stones and connect.
+Very good for black here.])
+(;W[dc];B[fe]C[If this, you simply capture and are connected.]
+)))
+(;B[ee];W[ce];B[ec];W[ge];B[eg]C[A bit theoretical, but black definately looks better here because he ony has
+one group, and white has two.
+
+In general, as more separated groups you have, as worse. Connected groups
+are strong, split groups are weak and can be attacked.]))

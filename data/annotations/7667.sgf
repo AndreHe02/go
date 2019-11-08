@@ -1,0 +1,109 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.17]
+
+PB[Ota2ke]
+BR[3k]
+HA[4]
+PW[sorinv]
+WR[2d]
+KM[0.5]
+DT[2009-11-26]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[W+Resign]
+TM[900]
+OT[25/1200 Canadian]
+RU[Japanese]
+
+AB[dd][pd][dp][pp]C[I was Black in this game and resigned much later than I should.  This is one of those "How can I lose so badly with such a handicap?" games.  My estimation is that the first 100 moves were the critical part of this game.  If you agree then concentrating comments there is probably a good idea.  If my evaluation is way off then please feel free to explain your evaluation to me and comment whatever you see as appropriate.  Thank you.
+
+
+Whats seems typical is that you often miss the big picture - you try to solve some situation locally (either attack or defence) but end up in some bigger trouble, having to give up on the previous plan and loose some stones.]
+;W[nc]C[sorinv [2d\]: hi];B[jd];W[qf];B[pf];W[pg];B[of];W[qc]
+LB[pc:A][qg:B]
+(;B[pc];W[pb]LB[ob:B][qd:A]
+(;B[qd]C[This looks like a mistake.  I changed direction becasue he didn't play R16 as I expected.]
+;W[rb];B[rc];W[qb]C[square is the only move.]
+(;B[re]C[And looking back this looks very slow.];W[qh]LB[mb:A]
+[md:B][qj:C]C[Letting white connect here is painful - you lost the base of stones that should have been strong, giving white something to attack. Making a weak group is the main objective when playing handi as white.
+
+For the next move, I would suggest to either settle your group by B or attack right away on C or one below C.]
+;B[mb]TR[pd][of]C[Your main concern now should be to settle the triangle group. You cannot kill the white corner, but even if you could, you now help him with the attack on triangles.]
+;W[nb];B[mc];W[sc];B[rd];W[nd];B[qj];W[md];B[pi]TR[mb][mc][of]
+[pf]C[Right now both marked groups are very vurnerable - you must first settle at least one of them. You cannot attack when you are weak yourself, thats a very basic rule.]
+;W[og];B[nf];W[ng];B[rf]TR[mf]C[You don't really have time for this. Even if white only seals you in in sente at triangle, it's a great result for him.]
+(;W[rg]C[.. but keeping up the attack is even better.];B[qe]
+C[you never want to play a move like this, it only costs you a liberty and gives nothing.]
+;W[qg];B[mf]LB[ke:B][mg:A]
+(;W[mg];B[lf];W[kd]LB[kc:A][ke:B]C[This is too late.]
+(;B[kc];W[oe];B[pe];W[ke]LB[jc:B][lg:A]
+(;B[lg];W[nj];B[mi]LB[ni:A][oi:B]
+(;W[ni];B[mh];W[oi];B[qm];W[jc];B[ic];W[jb]
+(;B[ib]C[a 15kyu move :)];W[kb];B[id];W[jf];B[dj]TR[lk]C[Still, triangle is the best move]
+;W[qk]C[Small, he should go right after your top right group.]
+;B[pk];W[ql];B[pl];W[rj]
+(;B[ri];W[qi];B[pj];W[rk];B[rm]C[c'mon, gote like this? even leaving he cut behind?]
+;W[pm];B[om];W[pn];B[qo];W[on];B[nm]C[Now white is happy, he has two groups to attack. Not that it's simple for him, but it's where he can use his strength.]
+;W[nn];B[mm];W[mn];B[lm];W[oq];B[op];W[np];B[pq];W[nr];B[pr]
+TR[lk]C[Hard to read the corner if you close him by triangle. This safe move looks ok.]
+;W[mj];B[ki];W[kj];B[lj];W[lk];B[li];W[nk];B[nl];W[kl];B[ln]
+(;W[lo];B[ko];W[lp];B[jn];W[kp];B[jp];W[jq];B[ip];W[km];B[kn]
+C[My assessment is that White has already erased my four handicap stones  Is that your evaluation also?
+
+Not really. White is maybe a bit better on the right side, but the left side is still yours, so you have lost max two of the handicaps.]
+;W[iq];B[jj];W[kk]
+(;B[hn];W[ji];B[jh];W[ii];B[jg];W[ij];B[if]C[This is a good result. I would not be so nice if I were white :)]
+;W[cn];B[co];W[dn]
+(;B[fq];W[hp];B[ho];W[gp]
+(;B[fn];W[io];B[jo];W[im];B[in];W[fo];B[eo];W[en];B[fp];W[go]
+;B[gn];W[gr];B[fr];W[gq]
+(;B[el]C[I thought the lower left quadrant looked good for Black at this point.
+
+It cannot look good when you let white connect in the next move. You cannot attack like this when you intend to let him connect.]
+;W[do];B[bo];W[ep]C[This is a huge loss... Now you will have it much more difficult the make points on the upper left side.]
+;B[dq];W[bq];B[cr];W[bn];B[cp];W[ao];B[ap];W[an];B[bp];W[cf]
+;B[ce];W[df];B[dh];W[ed];B[ec];W[dc];B[cc];W[db]
+(;B[fd];W[ee];B[eb];W[cb];B[bc];W[bb];B[be];W[bf];B[ab];W[ad]
+LB[ac:B][ae:A]
+(;B[ae];W[de];B[cd];W[ac];B[bd];W[ac]C[With this corner white is going to win. Last comment.]
+;B[fe];W[ff];B[gf];W[fc];B[fg];W[gc];B[ef];W[ck];B[eq];W[eo]
+;B[hl];W[il];B[hk];W[ik];B[or];W[nq];B[ns];W[ms];B[os];W[lr]
+;B[gs];W[hs];B[fs];W[hr];B[rl];W[si];B[sd];W[qn];B[rn];W[rp]
+;B[ro];W[rr];B[so];W[qp];B[po]C[Maybe S3 instead?];W[qr];B[sp]
+;W[qq];B[sq];W[sl];B[sm];W[sr];B[qs];W[rs];B[rq];W[ps];B[sk]
+;W[rh];B[qs];W[gi];B[ss];W[ei];B[di];W[dk];B[ek];W[ej];B[eh]
+;W[gj];B[em];W[hm];B[gm];W[hg];B[ig];W[gg];B[hf];W[bi];B[bh]
+;W[bj];B[bg];W[af];B[gd];W[ah];B[dg];W[ag];B[cg];W[ad];B[ci]
+;W[lc];B[gb];W[fb];B[hc];W[ea];B[je];W[kf];B[sb];W[ga];B[ha]
+;W[hb];B[no];W[mo];B[gb];W[kg];B[kh];W[hb];B[le];W[ia];B[ld]
+;W[kc];B[oc];W[ob];B[dl];W[cl];B[gk];W[fk];B[fl];W[fj];B[gh]
+;W[hh];B[fh];W[hj];B[gl];W[ih];B[dm];W[sf];B[cm];W[bm];B[oo]
+;W[ra];B[jm];W[jl]C[I finally resigned here.])
+(;B[ac]C[this one seems to work];W[ae];B[ba]))
+(;B[cb]C[what would white do now?]))
+(;B[do]C[I would just connect and see what he can do.]))
+(;B[eo]C[This is the right shape]))
+(;B[fp]C[You might have had less trouble if you played here. But hard to say which one is better.]
+))
+(;B[il]C[Does this work?];W[im];B[jm];W[ik];B[jk];W[jl];B[hl]
+;W[ji];B[ij];W[jh];B[mk]C[You would win the semeai without problems.]
+)
+(;B[im]C[A fail-safe move, definitely better than H6]))
+(;W[kp]C[this is better]))
+(;B[rk];W[rl];B[ri];W[sk];B[qi]TR[si]C[Keep him separated and you might even eventually connect by triangle.]
+))
+(;B[id]C[same, but in sente...];W[kb];B[lk]TR[jf]C[White is in big trouble. You will make a wall by attacking, then close on triangle and make a huge moyo.]
+))
+(;W[oi]C[I like this shape more.]))
+(;B[jc]C[You can connect here, I can't see a way for white to catch you.]
+))
+(;B[ke]C[You should sacrifice the stones here.];W[kc];B[jc]
+;W[jb];B[ib];W[kb];B[ie]C[This result is actually quite ok for black.]
+))
+(;W[ke]C[white needs to attack now]))
+(;W[mf];B[rg];W[rh];B[qg];W[ph];B[sd];W[lg]C[White can attack either top or right side.]
+))
+(;B[qg]C[The only move.]))
+(;B[ob]C[Blocking here doesn't quite work];W[rb];B[pa];W[qb]
+;B[oc];W[qe]C[Bit better for white. But still playable with the moyo at the top.]
+))
+(;B[qe];W[pc];B[qg]C[This joseki is quite ok, you get some power which is what you need in handi.]
+))

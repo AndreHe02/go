@@ -1,0 +1,94 @@
+(;FF[4]GM[1]SZ[19]ST[1]AP[SGFC:1.15]
+
+GN[Rusty2-argybarg-319823-20070831]
+PB[Andy James (argybarg)]
+BR[13 kyu]
+PW[Rusty2 (Rusty2)]
+WR[9 kyu]
+KM[5.5]
+DT[2007-05-29,2007-08-31]
+PC[Dragon Go Server: http://www.dragongoserver.net/]
+RE[W+7.5]
+
+C[Hello Andy,
+
+I reviewed your game, please note that I am 7 kyu on dragon go server, so I can give you a few hints but my strenght is close to your opponent.
+
+In general, considering the gap in your rating and that of your opponent, you played a very good game.
+
+One thing that would help you improve is to pay more attention to making a base for your stones and taking away your opponent's base. I commented with examples in the game.
+
+Another important point is to attack with more of a purpose to make territory instead of trying to kill your oppnent's group. Again, please see specific examples in my comments of the game.
+
+I hope my advice is useful and will help you improve and enjoy the game.
+
+Philippe];B[pd];W[qp];B[cd];W[dq];B[do];W[cp];B[co];W[np]LB[ep:A]
+C[P: Please note that it is more standard for white (joseki) to play at A]
+;B[ed]LB[ck:A]C[P: This move is too soon, extending at A is better for black for 2 reasons: 1) it creates a stable group and gives black a base as well as 2) helps to make future territory.
+
+Basic idea: extend by 3 spaces with a 2 stone wall.];W[qg];B[qe]
+;W[pj];B[nc];W[jc]
+(;B[je]LB[gc:A][hc:B]C[P: a black move at A or B  is preferable.
+
+First, you take away white's chance to make a base for his stones. White A stabilises his group and threatens to take away black territory in the corner.
+
+Second, by taking away white's base with black A you force white to escape in the midlle. You can then keep attacking white (see variation) while making a moyo.
+
+Basic idea: attack the opponent by stealing his base.];W[hd]
+;B[fc];W[ld];B[me];W[jd];B[ke];W[ie];B[kd];W[fe]C[P: white is escaping in your potential area of territory, try to avoid this unless you are thick and very strong (not the case here).]
+;B[ee];W[lb];B[kc];W[kb];B[lc];W[ff];B[gd];W[fd];B[hc];W[ge]
+;B[gc];W[dj];B[dg];W[dm];B[fo]LB[ck:A][ep:B]C[P: this is why black at A was suggested earlier.
+
+Black B is probably better as you can limit the influence on the white group in the lower left by trying to seal it in.]
+;W[jq];B[fh]C[P: interesting splitting attack];W[hg];B[ci]C[P: this is good, you make territory on the upper left while threatening the white stones.
+
+Basic idea: attacking while making territory.];W[cj];B[dl];W[cl]
+;B[el];W[cm];B[em];W[bi];B[ch];W[bn];B[bo]C[P: nice splitting move by black, absolutely necessary.]
+;W[gq];B[gg];W[hf];B[ic];W[id];B[jg];W[ih];B[jh];W[ii]C[P: Unfortunately for black white can escape while splitting your groups. Killing this group is not easy.]
+;B[ji];W[ij];B[jk];W[jj];B[kj];W[ik];B[gj];W[il];B[kk];W[jm]
+;B[pn];W[qm];B[pm];W[qn];B[ql];W[po];B[pl];W[rj];B[nm]C[P: good shape move.]
+;W[ko];B[ej];W[dk]LB[bh:A][ek:B]C[P: Black A is a good endgame move in this area, you close off your corner territory while theatening the life of the white stones.
+
+More territory for black than black at B.
+
+See variation.]
+(;B[ek];W[bh];B[bg];W[oh];B[nj];W[ok];B[nl];W[nk];B[ll];W[mj]
+;B[mk];W[mi];B[bq]C[P: good endgame move. Probably should have been earlier.]
+;W[rl];B[qj];W[qi];B[cr];W[dr];B[fq];W[ho];B[fr];W[gr];B[gp]
+;W[hp];B[di]LB[mb:A]C[P: black A is more urgent, same idea close territory while threatening white stones.]
+;W[bk];B[lh];W[kg];B[kh];W[rf];B[re];W[gk];B[gm];W[gh];B[fg]
+;W[gi];B[fi];W[hj];B[mp];W[mo];B[no];W[lp];B[op];W[nq];B[oo]
+;W[oq];B[pp];W[pq];B[qo];W[ro];B[po];W[rp];B[if];W[ib];B[hb]
+;W[ia]
+(;B[ec]C[P: this move did not seem necessary, see variation.
+
+END OF COMMENTS.];W[oa];B[ob];W[na];B[pa];W[mb];B[nb];W[ma]
+;B[pb];W[fs];B[es];W[gs];B[er];W[nf];B[ne];W[of];B[mf];W[se]
+;B[sd];W[sf];B[rd];W[ef];B[df];W[eg];B[eh];W[ag];B[af];W[ah]
+;B[bf];W[go];B[fp];W[mn];B[qf];W[rg];B[qk];W[rk];B[pf];W[pg]
+;B[oe];W[mg];B[mh];W[nh];B[lg];W[ng];B[lj];W[ni];B[km];W[jn]
+;B[cn];W[an];B[ao];W[bm];B[fj];W[hm];B[gl];W[gn];B[fn];W[dn]
+;B[en];W[ha];B[ga];W[mc];B[md];W[li];B[ki];W[ig];B[jf];W[fk]
+;B[fl];W[hk];B[gf];W[he];B[mm];W[nn];B[ln];W[lo];B[on];W[kn]
+;B[lm];W[oj];B[jl];W[ol];B[om];W[hl];TB[fm][fb][fa][gb][kf]
+[le][kl][eq][ep][ds][dp][dh][ea][eb][eo][ei][lk][ml][rc][rb]
+[ra][sa][sb][cp][sc][qd][qc][od][oc][nd][pc][pe][qb][qa][de]
+[lf][ar][aq][ap][as][ba][bc][bb][ad][ac][dq][dd][dr][kg][ld]
+[ab][aa][bd][ae][cg][cf][ce][cq][cs][dc][da][cc][db][bp][be]
+[bs][br][cb][ca]TW[ps][pi][pr][qh][qs][rh][ph][qr][qq][og][nr]
+[ms][nj][ns][ri][or][oi][os][sr][sn][sm][sl][so][sp][mr][ss]
+[sq][sk][sj][rr][rq][rn][rs][sg][si][sh][rm][aj][hq][hn][hi]
+[hr][hs][io][in][im][hh][ck][ak][ai][mp][al][am][bl][bj][ip]
+[iq][kr][kq][kp][ks][la][ls][lr][lq][ka][js][ja][is][ir][jb]
+[jo][jr][jp][mq]N[RESULT]C[White: 75 territories + 2 prisoners + 5.5 komi = 82.5
+Black: 69 territories + 6 prisoners = 75
+Result: W+7.5])
+(;B[ha]C[Variation];W[ec];B[dc];W[eb];B[fb];W[db];B[cb]C[P: black has 3 liberties and white only 2.]
+))
+(;B[bh]LB[bj:A][bp:B]C[Variation, then White A or B are the best moves for white to save his stones.
+
+But the black has made nice profit in the upper left.]))
+(;B[gc]C[Variation];W[je];B[hf];W[me];B[dj]C[P: this is a simple variation where black can start an attack on white. white tries to connect to his stones on the right but black makes a huge framework on the left.
+
+Furthermore, white's stones are not yet completely safe. It is unlikely that you could kill white, but black can come back to attack later and make more territory.]
+))

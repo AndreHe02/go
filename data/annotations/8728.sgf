@@ -1,0 +1,119 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.17]
+
+PB[TangelLl]
+BR[7k]
+PW[Kurato1]
+WR[7k]
+KM[6.5]
+DT[2012-03-23]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[B+Resign]
+TM[1800]
+RU[Japanese]
+
+C[Dear reviewer, I am Kurato1 and i play white here.
+I am interesting in a fuseki mistakes, urgent points that i miss and weak points in my shapes and connections.
+
+Usually i try to block weak group of my opponent and gain some territory or kill it, But here i have a problems with upper right white group. Please show me ways to kill upper right white group after 129 move. Thanks in advance!
+
+
+Tom: My biggest question: why do you think you lost?  As I count it, white won by about 5 points.  Did you think black's group in the upper left is alive?  It's very dead, I put some variations at move 174.
+
+So this has to be my first piece of advice: don't resign when you are winning!  Otherwise I tried to put some ideas on the opening that might help you.]
+(;B[pp];W[dd];B[cp];W[qd];B[iq];W[qn];B[nq];W[rp];B[oc];W[pe]
+;B[lc];W[qj];B[cf]C[[K\]: Probably pincer here would better? But if w pincer then b will play something around f17, and it should be complicated game for white?
+
+Tom:Pincer is fine. I like F17 more than G17 here.  G17 gives black more space to invade, and it's hard to make good use of a wall with only black stones in the area.]
+(;W[gc];B[ci]
+(;W[dn]C[I think this lets black settle a bit too easily];B[eq]
+;W[ck]
+(;B[cc]C[I think jumping in now is a mistake for black, the two stones on the left are most urgent.]
+;W[cd];B[bd];W[be];B[bc];W[ce];B[eb];W[ec];B[fb];W[fc];B[db]
+C[[K\]: Here w groups nothing to affraid and b now has one weak and one unsettled group. Is it good moment for invasion? or it is better to attack weak group? I feel i have problems with timing.
+
+Tom: I think attacking now is good.  Black made a mistake, allowing white to build a great wall to harrass the two black stones.]
+(;W[ej];B[ef];W[gf];B[eh]
+(;W[gi]C[Black's in a bad position now, but note that your stones on the left can still be cut off.]
+;B[bf];W[ae];B[af]
+(;W[jc];B[le];W[jf];B[in]LB[qb:E][lg:C][mo:D][gp:A][hp:B]C[Which one of these points should i play?
+
+Tom: A,B, and D feel too deep inside black's moyo to me.  C or E are OK, if you want to play on the bottom I think P6 or maybe O6 are good choices, or something like C5 on the lower left.]
+(;W[lg];B[fo]C[Now the cut at F10 starts to worry me a little more.]
+(;W[qc];B[ne];W[og];B[nl]C[Looks big, where is a good move to respond?
+
+Tom: p6 is good.  I'd still like to see white come back to the left side soon.]
+;W[on];B[nn];W[oo];B[no];W[op];B[oq];W[np];B[mp];W[mo];B[nm]
+;W[mq];B[lp];W[pq];B[pr];W[qq];B[mr]
+(;W[pl]C[feels slow to me];B[km];W[nj];B[ok];W[oj];B[pk];W[qk]
+(;B[pm];W[qm];B[ol];W[kk];B[fl]
+(;W[bn];B[bp]
+(;W[dl];B[ik];W[jj];B[pj];W[pi];B[ql];W[rl];B[pn];W[po];B[bj]
+C[big, i think white should have taken this earlier];W[bk];B[pb]
+;W[qb];B[ij];W[gh]
+(;B[ii];W[ih];B[ji];W[ki];B[jh];W[ig];B[kh];W[li]
+(;B[eg];W[bh];B[ch];W[bi];B[ai];W[cj];B[bg];W[aj];B[fe];W[ge]
+;B[dg];W[di];B[ed];W[dc];B[de];W[dh]C[black is dead now.]
+(;B[qr]C[Looks like gote move. Is it time to attack upper black group?
+
+Tom: Yes, this move is too small for black right now]
+(;W[rr];B[lh]
+(;W[mg];B[mi];W[mj];B[mh];W[oh];B[lj];W[lk];B[kj];W[mk];B[ni]
+;W[oi];B[kb];W[jb];B[mb];W[md];B[me];W[nc];B[nb];W[pa];B[oa]
+;W[pc];B[qa];W[od];B[ob];W[nd];B[ld];W[la];B[ka];W[ma];B[rb]
+(;W[rc];B[ja];W[hb];B[jd];W[id];B[kf];W[kg];B[je]
+(;W[lf];B[ke];W[kc];B[jg]C[Time to resign :) After this move there is nothing interesting. Thank you for your time!
+
+Tom: I know it's difficult to get an accurate count in the middle of the game, especially if the time settings are faster, but let's take a rough estimate:
+White:
+Left side - 14 stones captured + territory, about 30 points
+Right side - very roughly looks like about 35.
+Total + komi: about 80 points.
+
+Black:
+bottom is quite large, maybe 60 points.
+top left: 7 points
+top center: 6 points
+total: 73
+
+This is only an approximate count, but if you have time to take a minute or even just try to guess by instinct, you should see that white is ahead.]
+(;W[ng];B[if];W[ie];B[om];W[qp];B[ei];W[dj];B[fj];W[fi];B[gj]
+;W[hf];B[jf];W[hh]C[Tom: From here the black stones are completely dead, white is alive.]
+;B[of];W[pf];B[fn]
+(;W[hp]C[Tom: You're invading quite deeply here, but white should just take some sente endgame to secure the lead.  End of comments.]
+;B[hq];W[ln];B[lm];W[kn];B[jm];W[jo];B[lq];W[mm];B[ml];W[ll]
+;B[mn];W[fp];B[ep];W[fq];B[fr];W[eo];B[gp];W[dr];B[br];W[go]
+;B[gq];W[hn];B[hm];W[fm];B[em];W[gm];B[gl];W[il];B[jl];W[jk]
+;B[bo];W[jn];B[lo];W[ia];B[lb];W[ba];B[ca];W[ab];B[ad];W[fa]
+;B[ea];W[ac];B[cb];W[gb];B[ga];W[ha];B[bb];W[ra];B[sa];W[cn]
+;B[dm];W[cm];B[rs];W[qs];B[ps];W[oe])
+(;W[ia];B[lb];W[lm];B[ln];W[mm];B[mn];W[ad]C[White is comfortably ahead.]
+))
+(;W[if]))
+(;W[kc];B[kd];W[lf];B[jg];W[if];B[ng];W[ke];B[mf];W[kf];B[nh]
+;W[of];B[nf]))
+(;W[kf]))
+(;W[mh];B[mi];W[fd]))
+(;W[nb]))
+(;B[fd];W[ff]C[only 1 eye];B[gd];W[hd]C[white still has to be aware of cuts, but black is dead]
+)
+(;B[ff];W[fd]C[only 1 eye for black]))
+(;B[bh]C[if black played here, these stones would live...]))
+(;B[je]))
+(;W[cj]C[protect and attack at the same time]))
+(;W[co]C[a bit stronger maybe?]))
+(;B[gh];W[hh];B[fi]C[black can still threaten to cut]))
+(;W[kk]C[An interesting center-oriented move])
+(;W[bj]C[I like here also]))
+(;W[bj]C[This is a big point for both sides.]))
+(;W[on]C[this may feel smaller, but it gives white a big framework on the right side, and gives options to attack later if black doesn't protect.]
+))
+(;W[jc]))
+(;W[fi]C[maybe a bit stronger, because it's harder to cut.]
+))
+(;W[df])
+(;W[dj]))
+(;B[ej]C[Now it looks a bit tough for white.]))
+(;W[ep];B[dn];W[cq];B[bq];W[dq];B[br];W[gq]C[just another possibility]
+))
+(;W[cj]C[This is certainly possible];B[fc];W[df]))
+(;B[aa]))

@@ -1,0 +1,189 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.16]
+
+PB[M8674933]
+BR[5k]
+PW[DaVince]
+WR[5k]
+KM[6.5]
+DT[2013-09-04]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[B+3.5]
+TM[1500]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+C[Hi,
+I´m 5 kyu on kgs and was playing white!
+
+I had some trouble to find the right moves in middle game!
+Which group shoul I attack, wich should i def and how to gein profit out of waek groups...
+
+thx for having a look at my game!
+
+---------------------
+
+Hey Vince,
+
+I'm Dave, I'll be reviewing your game.  I'm about 1d on KGS (Osvaldo).  I hope I can provide some helpful comments.  Please take them with a grain of salt because I am far from an expert.
+
+At the end of the file I included some general comments on the game
+
+Thanks!];B[qd];W[dd];B[cp];W[qp];B[jq];W[oc];B[jc];W[lc];B[gc]
+
+(;W[db]C[dave: usually it's not very recommended to play a move on the 2nd line during the opening.  The reason is that this stone doesnt do much in terms of "global influence".  I've shown a couple of slightly better moves]
+;B[cf]C[dave: this was a good move by black, exploiting the strange shape you made with d18.  But now you should definitely start coming out with e15, separating the black groups.  The exchange of c15 for d14 is too conservative and good for black.. You allow him to make a nice little wall that coordinates well with the rest of his stones]
+
+(;W[ce];B[df]
+(;W[qb]C[dave: this move is a bit too conservative.. again on the 2nd line.  You don't really need to worry about this group's safety/stability yet.  You need to prevent black from getting a beautiful formation with a move around d10]
+
+(;B[pc];W[pb];B[od];W[nc];B[ph];W[ge]C[dave: this is a nice move, but i still think the area around c9/d10 is more important]
+;B[kd]
+(;W[ep]C[dave: You are right to ignore l16 and play elsewhere, but I'm not sure if this is the best spot.  in general you should invade in the area where there is the most space.  In this case, I think the left side is a better choice.  I'll show you a few possible ways]
+;B[eq];W[fq];B[dq]
+(;W[fo]LB[fm:B][fn:A]C[dave: this looks like a good shape, but it's actually not that great in this case.. Black can peep at g4 and you would be left with kind of a heavy group.  You should consider a lighter move like A or B which could allow you to perhaps sacrifice a few stones but escape more easily and comfortably.]
+;B[cj]C[dave: here i think you need to play at h3 to create a base for your bottom group]
+;W[nq];B[gp];W[gq]C[dave: I think that this move doesn't actually work, black can play f4 here.]
+
+(;B[hp];W[hq]C[dave: Again this is dangerous.  black could play at f4.]
+
+(;B[iq];W[fp];B[cn]CR[fo][ep][fp][fq][gq][hq]TR[gp][hp][iq]
+[jq]C[Q: How can i make use of this weak stones?
+
+dave: you yourself have a weak group (the circle group).  A famous proverb in go is "Don't try to use a weak group to attack", it simply doesnt work.  So this is kind of a difficult situation for you, and i would recommend trying to strengthen this group somehow before anything else]
+
+(;W[em];B[dl]
+(;W[pj]C[dave: this is a big move, but see variation for another possibility.  I was thinking it might be nice to try to pressure his weak group a little bit before taking it.]
+;B[ql]LB[ql:A][hp:B]C[Q: Can I punish this move?
+
+dave: this is not really an overplay, so I don't there's a way to "punish it". It's not like you are very strong all around.  But maybe you can separate A from his pal at Q12 with a move like p9, and then try to attack both A and B groups simulatenously.]
+
+(;W[qj]C[dave: this move is a bit too overconcentrated, p9 is a bit better and does the same thing]
+;B[qn];W[rh];B[qg];W[rg];B[rf];W[rc]C[dave: way too small, I recommend o10 instead]
+;B[rd];W[me];B[hd]LB[pj:B][fo:A]TR[ql][qn][gp][hp][iq][jq]SQ[qp]
+[nq]C[Q: How can i attack both groups?
+
+dave: you have the right strategic idea.  Black has two weak groups, and you should definitely be trying to take advantage of this with some kind of dual attack.  The problem though is that you have kind of neglected the A and B groups and so they are in weak positions themselves, so it will be very difficult to attack effectively. Also, the connection between the 2 square stones has some serious weaknesses that may become a factor later]
+;W[rm];B[qm];W[rl];B[rn];W[rk];B[nn];W[lp]C[dave: this is a good idea, splitting the groups and attacking both at once]
+;B[kp]C[dave: I don't think you should ignore this move.  I would continue with the theme of splitting blacks groups by playing m5.  In general, you should rarely ignore these kinds of contact moves]
+;W[hm];B[kn];W[lo];B[ko];W[ln];B[nl];W[mm];B[km];W[nm];B[om]
+;W[fb]LB[nm:A][om:B]C[dave: in general, you should never push if you arent going to cut.  the exchange of A for B is "aji-keshi" if you don't cut, because you are spoiling other future possibilities.  For example, if the situation changes slightly at the bottom, in the future you might prefer to play at P7 instead of o7.]
+;B[gb];W[kb];B[jb]
+(;W[el]LB[qq:A]C[dave: too slow and small. f9 would be better if you want to strengthen this group.  However there is a spot that you have both been neglecting and that is the bottom right corner.  A black move at A  would be very hard to deal with.  I would play at q4 or q5 now to preemptively defend against this (and also put more pressure on blacks group)]
+
+(;B[fc];W[rp]C[dave: this seems pretty good, but im wondering if an invasion by black at Q3 might still be possible..]
+;B[ok];W[mk];B[oj]
+(;W[of]C[dave: with both n9 and p14, i think you are playing too close to the group you are trying to attack.  In this case, it would better to play at p11 first, splitting both groups, and then depending on what black does you can then attack more severely.]
+;B[pf];W[og];B[oh];W[pg];B[qh];W[pe];B[qf];W[ri];B[oe];W[jl]
+;B[ll];W[ml];B[lk];W[nk];B[ol];W[mi];B[nh];W[kj];B[lj];W[li]
+;B[im];W[il];B[lq]C[dave: you should play n3 here i think]
+(;W[io];B[mq]C[dave: quite painful];W[nr];B[mp];W[no];B[mo]
+;W[mn];B[np];W[on];B[op];W[pq];B[po];W[ni];B[oi];W[kh];B[if]
+;W[ih];B[gj]TR[ih]C[After this move all my center hpes are gone...
+which move would have been better for my center territory?
+
+dave: I think it was unrealistic to hope to make a lot of territory in the center]
+;W[ej];B[gh]
+(;W[eh]LB[hg:A]C[dave: I think H13 would have been better to continue putting pressure on this group..its unclear how he will escape.  Black should just play A now]
+;B[fg];W[hg];B[di];W[ei];B[ff];W[he];B[ie];W[gg];B[fh];W[dj]
+;B[ci];W[cl];B[dm]
+(;W[cg]C[dave: b14 would be better];B[bg];W[ec]TR[of][cg][og]
+[pg][gp][hp]C[what are the biggest points now?
+Big sente moves?
+
+
+Marked my guess!
+But only gote.
+My move was not so big...
+
+
+dave: this is not a bad move.  B15 might be slightly bigger, im not sure. j4 is also pretty big]
+;B[be];W[bd]C[davE: black should continue w A16];B[ip];W[go]
+;B[nf];W[hj]C[davE: you should first take A15 in sente. Also, im not sure what this move accomplishes.  In general, you should avoid contact moves like this unless you have a specific tactical purpose
+
+end of comments];B[gk];W[gl];B[hk];W[ij];B[hh];W[ig];B[kf];W[do]
+;B[co];W[dn];B[cm];W[ae];B[bf];W[ga];B[ha];W[fa];B[ib];W[ka]
+;B[kc];W[ld];B[ja];W[lb];B[in];W[ho];B[dk];W[ek];B[dg];W[sg]
+;B[qc];W[sc];B[sd];W[rb];B[ik];W[jk];B[hn];W[gn];B[hl];W[gm]
+;B[de];W[cd];B[fe];W[hi];B[gi];W[ji];B[af];W[ad];B[oq];W[or]
+;B[mr];W[fs];B[er];W[pn];B[qo];W[pm];B[pl];W[mg];B[ng];W[ir]
+;B[jr];W[hs];B[fr];W[gr];B[js];W[is];B[ns];W[ps];B[pp];W[qr]
+;B[sm];W[sl];B[sn];W[gd];B[fd];W[dh];B[ch];W[sf];B[se];W[jg]
+;B[lf];W[lg];B[mh];W[kg];B[mf];W[jf];B[je];W[nd];B[es];W[gs]
+;B[sp];W[sq];B[so];W[rr];B[le];W[ne];B[lh];W[fk];B[jo];W[jm]
+;B[jn];W[kk];B[dp];W[eg];B[ef];W[ed];B[ms];W[os];B[qi];W[qk]
+;B[oo];W[nn];B[lm];W[ki];B[gf];W[hf];B[nj];W[mj];B[tt];W[tt]
+TW[aa][ba][ca][da][ea][la][ma][na][oa][pa][qa][ra][sa][ab][bb]
+[cb][eb][mb][nb][ob][sb][ac][bc][cc][dc][mc][md][jh][sh][ii]
+[si][jj][rj][sj][sk][fl][fm][en][fn][eo][qq][rq][hr][pr][sr]
+[qs][rs][ss]TB[ia][hb][hc][ic][id][jd][pd][ke][pe][qe][re][of]
+[ag][cg][og][pg][ah][bh][ai][bi][aj][bj][ak][bk][ck][al][bl]
+[cl][am][bm][an][bn][ao][bo][ap][bp][jp][aq][bq][cq][kq][ar]
+[br][cr][dr][kr][lr][as][bs][cs][ds][ks][ls]C[DaVince [5k\]: thx
+
+dave:
+
+This was an interesting game to review and I hope my comments made sense.  There were a couple reoccuring themes throughout the game that I would like to reemphasize, in no particular order:
+
+1. Throughout the opening, It's important to create safe groups with space for 2 eyes.  If you create a weak group and then a fight breaks out nearby, you are fighting with one hand tied behind your back because you always have to worry about its safety.  Similarly, you can't attack effectively with weak groups, it's impossible.  That's why strong players value "thickness", IE strong positions, because these groups radiate power throughout the board and help in all surround battles.  Often it's a good idea to add an extra move in order to create a strong, stable group.
+
+2. Don't ignore peeps unless you have carefully read that you can.
+
+3. Don't push through a connection if you aren't going to cut.
+
+4. When you are attacking, don't play too close to the group you are attacking.  First you should surround, and then you can try to play in the vital points.  Attacks like n9/p14 are too direct, leave a bunch of weak points and tend not to work. When the opponent has two weak groups, separate them before trying to attack them.
+
+5. Avoid making contact moves except in special circumstances. Don't ignore contact moves except in special circumstances.
+
+6. Always invade in the most open area.])
+(;W[bf];B[bg];W[be]))
+(;W[hg];B[fg];W[eh];B[fe];W[ci]))
+(;W[mq];B[io];W[lr]))
+(;W[oi];B[pi];W[ni];B[ml];W[ll];B[lm];W[mn];B[lk];W[pf]C[dave: will be a tricky fight but i think white can do some damage]
+;B[of];W[og];B[pg];W[oe];B[nf];W[pe];B[ne]
+(;W[pd];B[qc];W[nd])
+(;W[nd];B[pd];W[ng];B[mf];W[lf];B[mg];W[mh])))
+(;B[qq]
+(;W[pp];B[rp])
+(;W[rp];B[pq];W[pp];B[oq];W[op];B[nr];W[mq];B[mr];W[lr];B[rq]
+;W[ok];B[ol];W[mj]C[dave: hard to say what would happen in this fight, but i like black's chances]
+)))
+(;W[fk]))
+(;W[ok]C[dave: note that this move prevents black's connection at r10.  Black's R8 stone can probably build a base with a move like r5, but later you may be able to invade around r14 with the help of these 2 white stones.]
+;B[qj];W[qi];B[pi];W[qk];B[rj];W[rk];B[ri]))
+(;W[io];B[ip];W[hn]
+(;B[jo];W[jn];B[ko];W[lq];B[kq];W[qj])
+(;B[lq];W[mo];B[jo];W[jn];B[ko];W[pj])))
+(;W[fl]C[dave: maybe like this?]))
+(;B[fp];W[ip];B[gn];W[go];B[ho];W[hn];B[io];W[jo];B[in];W[hm]
+
+(;B[jp]C[dave: please ignore, j3 is better];W[iq];B[jn];W[ko]
+)
+(;B[iq]
+(;W[jp];B[hr]
+(;W[gr])
+(;W[fr];B[er];W[im];B[jn]))
+(;W[im];B[jn];W[jp];B[hr]))))
+(;B[fp];W[hp];B[go];W[gn];B[ho];W[io]TR[ph]C[dave: because of the triangle stone, black escapes and white is in huge trouble]
+))
+(;W[fn];B[fp];W[gp];B[fo];W[go];B[eo];W[en];B[do];W[gm])
+(;W[fm]
+(;B[fp];W[gp];B[fo];W[go];B[eo];W[hm])
+(;B[fr];W[gq];B[gr];W[fk])))
+(;W[cn]
+(;B[ep];W[dj])
+(;B[cl];W[cq]
+(;B[dp]
+(;W[dq];B[eq];W[er];B[fq];W[fr];B[gq];W[bp];B[bo];W[bq];B[co]
+;W[ek])
+(;W[bp];B[dq];W[br]))
+(;B[dq];W[dp]C[dave: this can get complicated, but in this situation you are flexible and you will either get the corner or be able to have a relatively comfortable group on the outside.]
+)))
+(;W[ck]
+(;B[ci];W[cn])
+(;B[cm];W[ch])))
+(;B[dj]C[dave: this would be a really nice move for black]))
+(;W[dj])
+(;W[ck];B[cm];W[ch]))
+(;W[ee]))
+(;W[ec];B[je];W[oe];B[qg];W[cg])
+(;W[cj]))

@@ -1,0 +1,137 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+PB[Melyandre]
+BR[11k]
+HA[3]
+PW[dorota]
+WR[7k]
+KM[0.5]
+DT[2009-03-12]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[B+8.50]
+TM[2700]
+OT[25/600 Canadian]
+RU[Japanese]
+
+AB[pd][dp][pp]C[Hello Frederic,
+
+I'm the reviewer of your game. You asked for general advice especially on the middle game and about the fight on the bottom left corner.
+I try to give you some guidance while sticking to simple principles of Go. After I first looked at the game I found two aspects in your game I'd like to focus on in this review.
+First it is the principle of "Staying connected" and second the principle of "Keeping sente". (If you don't know what sente is: http://senseis.xmp.net/?Sente)
+Since you wanted a review on both sides:
+My first impression of White is, that she tends to overplay a bit.
+I hope my advice can be helpful in improving your future play.
+If you still have questions about the game after reading this review, you can contact me via mail: djifmaster@gmail.com
+
+Best regards,
+Djif-Master];W[dd];B[fc]LB[fd:A][cf:C][df:B]TR[dj]C[A is not a good choice in this position. Usually it is used, if there is allready a stone in the marked area, to create a big moyo.
+It also let's Black settle very easily, giving him a lot of territory on the top. Especially because it is a handicap game where White has to catch up a lot, this move is not in White's favour.
+White should play B or C.];W[fd]C[White's move is not favourable.]
+
+(;B[ec]C[This move is bad. See first variation for the common joseki.]
+;W[ed];B[gd]LB[gc:A]C[Now White can punish by playing at A and get a favorable position. See variation.]
+
+(;W[dg]LB[gc:A][de:1][df:2][dg:3][dh:4][di:B]C[White should play A. See variation.
+
+Also the extension is too small to be efficient. There is a rule of thumb: wall height plus one is width of extension.
+3 stones wall + 1 = 4 space extension
+White should make the extension at B.];B[cb]LB[bd:A]C[This move is good, because it takes a big corner and has a big follow up move for later at A.]
+;W[ge];B[hd];W[cn];B[dk]LB[bd:C][fp:A][fq:B]C[This two space high pincer is usually played with an extension at the bottom. The extension is missing, so it is not so good.
+I can understand what Black was probably thinking: "I need to pincer so that White doesn't get a big side." But this thinking is wrong, because White cannot enclose the hole side with two or three moves. And Black can reduce White's territory with C.
+Black should play A or B.];W[en]LB[cq:A]C[This move is ok, but invading at A gives a better result.]
+;B[fp];W[bp];B[cq];W[bq]LB[bk:A]C[White should play at A. See variation how Black can get a better result.]
+
+(;B[ci]LB[dm:A]C[Black should play at A. See variation.];W[bg]
+;B[bl]LB[dm:A]C[Black should still play at A.];W[bm];B[cl]C[Black looses sente and getting almost nothing in return:
+- the Black group is still not settled (only one eye)
+- in the exchange White's group got stronger];W[nq];B[kq]LB[jq:A]
+C[Here the pincer works fine with Black's formation on the bottom left. Three space low pincer at A works even better.]
+;W[no]LB[qq:A]C[Again, White is choosing a non-favorable joseki. White should play at A.]
+;B[pn];W[pr]LB[ko:A]C[With the two space low pincer White plays usually at A.]
+;B[qq];W[iq]
+(;B[ip]LB[ko:A][ip:B]C[Withe's single stone is very weak. A contact move like B makes it only stronger. Therefore Black should play at A to seperate both White groups and prepare for killing on of them. See variation for possible continuation.]
+;W[jq];B[jp];W[kr];B[kp];W[lr];B[hq];W[hr];B[ir];W[jr];B[gr]
+;W[is];B[gp];W[qf];B[qd]LB[nc:A][nd:B]C[Black should play at A or B.]
+;W[qj]LB[qh:A]C[Black should think about invading at A. See possible results.]
+
+(;B[ql];W[ph]C[White got a very good shape.];B[br]C[It's good to continue with attacking the white group.]
+;W[cp];B[dq];W[fl];B[em]C[This move shows good thinking in trying to cut White into pieces.]
+;W[dm];B[el];W[fn];B[fm];W[ho]LB[hp:A]C[But now Black should take care. Black mustn't allow the cut at A.]
+;B[gn]LB[hp:A]C[Black should stay connected and play at A.]
+;W[hp];B[gq];W[in];B[kn]C[Now Black has a running group.];W[im]
+;B[mn];W[go];B[gl];W[fo]C[White stays connected. That is right!]
+;B[do];W[dn];B[fk]C[This move is wasted. You captured only one stone!
+White could run away with this single stone, but it would damage White's top left group.]
+;W[er];B[fr];W[eq];B[dr];W[ep];B[eo];W[fs];B[gs];W[nn];B[ll]
+;W[co];B[es]LB[mc:D][he:A][of:B][nl:C]C[This move is not neccessary. Black should play somwhere else. A, B, C or D are good.]
+;W[an];B[lc];W[aq];B[cs]C[Again a wasted move. Black lives allready.]
+;W[nc]
+(;B[nd]LB[le:A]C[Usually correct defense, but Black should think about keeping at least a bit of the corner. White's group on the right is strong, so a wall facing it is hardly useful.
+A is better, see variation.];W[mc];B[md];W[oc];B[od];W[qb];B[rc]
+;W[lb];B[kc];W[rb];B[re];W[rf];B[kb];W[mb]LB[nl:A]C[A is very urgent.]
+
+(;B[dc]LB[bd:B][nl:A]C[Black should play A.
+B is locally better, White cannot split. See variation.];W[cd]
+;B[nl];W[lo];B[ko];W[ln];B[km];W[mm];B[ml];W[qr];B[rr];W[pq]
+;B[rp];W[op];B[po];W[om];B[pl];W[ol];B[il];W[pm];B[qm];W[jl]
+;B[lm];W[nm];B[jk];W[ik]
+(;B[jj]LB[hl:A]C[Black should stay connected again. The cut doesn't work. See variations for possible results.]
+;W[hl]C[Black is not connected. This is usually leads to complications, especially because Black's center group is not alive yet.]
+;B[kh];W[mi];B[lj];W[nk];B[mg];W[li];B[ki];W[lh];B[kg];W[lg]
+;B[ke];W[mf];B[og];W[ng];B[of];W[kf];B[jf];W[lf];B[je];W[ka]
+;B[ja];W[la];B[ib];W[le];B[ld];W[oh];B[pj];W[pk];B[qk];W[ok]
+;B[rj];W[qi];B[ri];W[rh];B[fg];W[si];B[rk];W[hi];B[ii];W[gj]
+;B[fj];W[mj];B[lk];W[fi];B[gh];W[gi];B[ei];W[hh];B[eh];W[fh]
+;B[ef]LB[eg:A]C[Why not play at A and stay connected? It avoids complication and is often the best move.
+
+This was my last comment. The endgame is ok for both players, so I have nothing to say about.
+
+Overall Black has a solid playing style, but he really needs to think about staying connected. Allthoug he won this game, it might cause trouble in future. I think it would also be very helpful to practice reading sequences, so that you don't make unneccessary moves.
+
+White sometimes needs to think about the hole game situation. Sometimes I did not understand the plan he was following. It is also important to create strong groups. If Black would have been better at life and death, I'm sure White had been crushed, cause White had a lot of weak groups.
+
+If there are quesition left, I'm very happy to answer them.
+Send your questions to: djifmaster@gmail.com];W[eg];B[gf];W[gg]
+;B[fe];W[ff];B[he];W[ee];B[fg];W[ig];B[jg];W[ff];B[pi];W[qh]
+;B[fg];W[df];B[ff];W[bc];B[ij];W[hf];B[ge];W[gk];B[bh];W[dh]
+;B[di];W[ch];B[ai];W[bb];B[lp];W[mo];B[mq];W[mr];B[ag];W[bf]
+;B[nf];W[nh];B[pc];W[pb];B[sj];W[ca];B[da];W[ba];B[cc];W[mp]
+;B[if];W[hg];B[lq];W[hj];B[sb];W[ra];B[sh];W[sg];B[si];W[qe]
+;B[se];W[sf];B[hs];W[rs];B[sr];W[af];B[ah];W[al];B[ak];W[am]
+;B[ar];W[qc];B[rd];W[sc];B[sd];W[dl];B[ck];W[kl];B[ih];W[jm]
+;B[hm];W[kk];B[kj];W[pg];B[gm];W[io];B[me];W[pe];B[oe];W[ir]
+;B[sc];W[qs];B[sa];W[tt];B[oa];W[ob];B[na];W[pa];B[tt];W[tt]
+TW[aa][ma][na][oa][qa][ab][nb][ac][ad][bd][ae][be][ce][de][cf]
+[cg][mg][qg][rg][gh][mh][ni][oi][pi][nj][oj][pj][hk][il][bn]
+[mn][ao][bo][ap][np][oq][nr][or][js][ks][ls][ms][ns][os][ps]
+TB[ea][fa][ga][ha][ia][db][eb][fb][gb][hb][jb][gc][hc][ic][jc]
+[id][jd][kd][ie][ne][jh][bi][ji][aj][bj][cj][dj][ej][bk][ek]
+[sk][fl][rl][sl][rm][sm][qn][rn][sn][qo][ro][so][ep][qp][sp]
+[eq][fq][rq][sq][cr][er][as][bs][ds][fs])
+(;B[hl];W[kk];B[jj]
+(;W[ij];B[jm];W[kl];B[kj];W[lk];B[mj]C[Black stays connected and captures some stones.]
+)
+(;W[jm];B[lj];W[lk];B[mk];W[kj];B[ki];W[kl];B[mi]C[Black has a good thickness to reduce White on the top left and on the right.]
+)))
+(;B[bd];W[dc];B[db];W[bc];B[bb];W[cc];B[ac];W[be]))
+(;B[le]LB[le:A][ne:B]C[A threatens the follow up at B. So White has to answer.]
+;W[ne];B[oc]LB[nd:A];W[nd];B[re];W[rf];B[ob]C[I think this is a better result then building a wall.]
+))
+(;B[qh]
+(;W[ph];B[pi];W[qi];B[pg]
+(;W[oh];B[qg];W[oj];B[pf]C[Black gets a huge corner.])
+(;W[rh];B[oh];W[qg];B[pf]C[Black gets very good center influcence.]
+))
+(;W[of];B[nd];W[oi]LB[rf:A]C[Black has sente and gets a lot on the top. There is a threat of connecting under if Black plays at A.]
+)))
+(;B[ko];W[io];B[hp];W[ip];B[gn];W[im];B[km]C[White has three weak groups now. Black will probably kill one of them.]
+))
+(;B[dm]C[Black should peep here.];W[dn];B[cm];W[bm];B[bl];W[bn]
+;B[br];W[gn];B[hp]C[White has only one eye. Black gets a lot on the bottom and has a settled group on the left.]
+))
+(;W[gc];B[hc];W[gb];B[hb];W[ge];B[hd];W[dc];B[fb];W[eb];B[ga]
+C[White gets a big corner and sente.
+Sente is very important, especially in the beginning of a game. Because the player who moves first has a better control of the game and can decide first where to play.]
+))
+(;B[gd];W[fe];B[ec];W[dc];B[jc];W[cj]LB[cf:A]C[This is the common sequence. White is loosing sente and Black can invade later at A. So Black is very happy with this position.]
+))

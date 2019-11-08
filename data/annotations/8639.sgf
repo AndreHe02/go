@@ -1,0 +1,80 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.17]
+
+PB[leonrobski]
+BR[12k]
+HA[2]
+PW[Chtigas]
+WR[10k]
+KM[0.5]
+DT[2011-12-06]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[B+Resign]
+TM[1800]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+AB[pd][dp];W[dc]C[leonrobski [12k\]: hi];B[de];W[pp];B[cd];W[cc]
+;B[dj];W[cf]
+(;B[df];W[bd]C[white connects underneath, an undeserved advance.]
+;B[cg];W[ce];B[dd];W[bf];B[bg];W[bb];B[jd]C[good];W[fc];B[hc]
+;W[nc];B[pf]LB[oc:A]C[this is questionable - it leaves white with unlimited choices
+and doesn't advance black's position.  More conventional would
+be A which closes the corner and forces white to respond.];W[kc]
+;B[le]LB[jc:A]C[the three diagonal stones are weak and only tenuously connected.
+It's better to make contact with the edge.];W[pb];B[qc];W[qb]
+;B[pj];W[ne];B[nf]LB[cn:B][jp:A]C[The containment black is sketching is full of holes, and also
+there are much bigger points to dispute.  White is not really
+threatening anything by  expanding downward, so containing
+that expansion is not important.];W[oe]C[see the previous comments - if it's not important for black to contain white, it's also not important for white to try to expand.  There are much bigger points to dispute.]
+;B[mf];W[pe];B[qe];W[rc];B[qf];W[rd];B[qd];W[oc];B[nq];W[of]
+;B[og];W[kd];B[ke];W[jc];B[id];W[fe];B[gf];W[ff];B[ge];W[gg]
+;B[ig];W[ql]LB[eg:B][fg:A]C[leaving the cutting point at A is a huge mistake,
+and easily covered (in sente) by threatening at B];B[qq];W[pq]
+;B[qp];W[qo];B[ro];W[rn];B[qn];W[po];B[rm];W[rp];B[sn];W[rq]
+;B[pn];W[no]LB[rf:B][ol:A]C[black traded the corner for the side, but must consolidate at A.
+
+Also, the side/center is not as big as it looks even  then, without
+another gote move at B.  Overall not a good outcome for black.]
+;B[lp];W[cq];B[dq];W[on]LB[ol:A]C[this is the wrong attack for white.  he should jump out
+at A]
+(;B[rl]LB[pl:A]C[wrong - the right move is to keep the white stones separated.]
+;W[qk];B[rk];W[qj];B[qm];W[qi];B[cp];W[cn];B[bp];W[ck]
+(;B[el];W[cj];B[ci];W[dk];B[ej];W[ek];B[fk];W[dl];B[em];W[dm]
+;B[en];W[bi];B[mm];W[ch]C[this is a tiny move, and ends in gote too.  White's
+concern at this point should be to keep blacks potentially
+huge center from materializing.  First, but covering the
+disconnect threatened at A, then by jumping into the center.]
+;B[dh];W[di];B[ei];W[ci];B[eh];W[nk];B[ol];W[ok];B[pk];W[pl]
+;B[mk];W[nl];B[mj];W[oi];B[ni];W[pi];B[op];W[oo];B[fg];W[eg]
+;B[fh];W[ef];B[dg];W[ed];B[hq];W[jp];B[mo];W[np];B[oq];W[mp]
+;B[lq];W[mn];B[ln];W[lo];B[ko];W[ml];B[ll];W[nm];B[mo];W[lm]
+;B[km];W[lo];B[mm];W[mo];B[lm]LB[ng:B][pg:A][kp:C][mq:D]C[white's situation in the center is pretty much hopeless, but
+the exploitable weakness are cuts, not a forlorn hope of making
+a live shape floating in the center.]
+(;W[hp];B[jq];W[mq];B[mr];W[kp];B[kq];W[jo];B[kn];W[nr];B[or]
+;W[pr];B[ns];W[gq];B[iq];W[ip];B[fq];W[gm];B[hn];W[gn];B[hm]
+;W[gl];B[gk];W[hl];B[im];W[hk];B[hj];W[ij];B[hi];W[gr];B[gp]
+;W[fp];B[go];W[fo];B[ho];W[eq];B[fl];W[eo];B[do];W[dn];B[fn]
+;W[fr];B[ep];W[fq];B[dr];W[hr];B[ir];W[ps];B[os];W[cr];B[er]
+;W[ar];B[fs];W[es];B[hs];W[aq];B[bq];W[bo];B[ap];W[bn];B[rh]
+;W[nh];B[oh];W[qh];B[qg];W[pg];B[ph];W[ng];B[pg];W[mi];B[mh]
+;W[nj];B[mg];W[li];B[ni];W[nh];B[kj];W[lj];B[lk];W[ki];B[jj]
+;W[ji];B[ii];W[jg];B[jf];W[kg];B[kf];W[lg];B[lf];W[ri];B[rg]
+;W[re];B[pm];W[om];B[ng];W[ni];B[hb];W[gd];B[hd];W[gb];B[ka]
+;W[ib];B[ia];W[lb];B[la];W[jb];B[ja];W[ga];B[ha];W[gc];B[mb]
+;W[mc];B[nb];W[ob];B[ld];W[ma];B[na];W[oa];B[ma];W[lc];B[nd]
+;W[od];B[md];W[rf];B[rj];W[si];B[sj];W[hf];B[he];W[ih];B[hg]
+;W[hh];B[gh];W[jh];B[if];W[lh];B[ao];W[ik];B[jk];W[jl];B[kk]
+;W[fm];B[il]C[Black's overall direction and pacing is OK, but he's being
+robbed by local tactical errors that ought to be easy to correct.
+
+The biggest problem (for both players) is getting into
+local fights over a few points when huge areas are
+still unclaimed.])
+(;W[kp];B[jo];W[kq];B[mq];W[kr])
+(;W[nh];B[oh];W[pg];B[qg];W[ph];B[ng])
+(;W[pg];B[ph];W[qg];B[qh];W[rg];B[rh];W[oh];B[ng];W[ri];B[nh]
+))
+(;B[cj]))
+(;B[pl]))
+(;B[bd]C[sepatate the white stones]))

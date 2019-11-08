@@ -1,0 +1,187 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.16]VW[]
+
+PB[The Many Faces of Go 12.022]
+BR[12k]
+PW[craig]
+WR[15k]
+KM[6.5]
+DT[2014-05-12]
+RE[B+192.5]
+RU[Japanese]
+
+C[Hi --- my name is Mark Schlatter. I go by mschlat on KGS and DGS and receive email at mschlat@gmail.com.  I will be reviewing your game.  Let me say up front that I got a lot of my go knowledge from shygost on KGS (he teaches in a room called Lance's Go Dojo), and some of what I say will be from him.  I also encourage you to respond with any questions you have --- if I am not clear let me know.  
+
+To start, I'd like you to go to the end position (move 305) just to illustrate some important points.]
+;B[cp];W[pd];B[pq];W[dd];B[fc];W[ee]CR[pd]LB[hc:A][ic:C][jc:E]
+[hd:B][id:D][jd:F][cf:G]TR[fc]C[I would not recommend this move.  The 4-4 stone already emphasizes the center; moving out to the 5-5 just reinforces that emphasis.  Without some support on either side, you get little territory out of this.
+
+If you want to put pressure on the marked black stone, you can consider the pinchers at A-F.  They have the dual purpose of setting up an extension from the marked white stone.  And, of course, G is doable as an extension.]
+;B[qo];W[kc]LB[ic:A]TR[gc][hc]C[The pincer is an okay idea (now that Black has ignored you), but you have given your opponent room for a two space extension at A, so Black is not heavily threatened.]
+;B[ic];W[je]LB[db:D][ep:A][eq:B][jq:C]C[I think you are trying to prevent Black from extending to the center here.  Note that in terms of territory, corners beat sides beat center.  Right now, you could make larger moves at A and B (finishing off a corner), C (getting some influence next to Black's lower right corner), or even D (securing the corner for you and preventing Black from getting there).]
+;B[qf]LB[ap:A];W[pf]LB[am:A]C[A good response --- you have an opportunity to make a big moyo in the top right.]
+;B[pg]
+(;W[og]C[I'm not familiar with this variation on the joseki.  In the branch, I show you a common continuation.]
+;B[of];W[pe];B[nf]
+(;W[qg]C[I think there are other options here --- see the variations.]
+;B[ph];W[rf];B[qh];W[rg];B[rh];W[ne]LB[md:B][nd:A][cj:D][ep:C]
+C[Two notes here:
+
+1) The proverb is "Attack from a distance" (see http://senseis.xmp.net/?AttackFromADistance).  Even if you want to put pressure on the two black stones, a move at A or B is preferred.  When you move this close, Black has the chance to exploit the gap at P15.
+
+2) It's much more important to do something on the left hand side: either start a joseki in the lower left or start working on the center left (C and D).]
+;B[nh];W[mf]C[See the previous note.  It is worth noting that the exchange here has built up a sizable moyo on the right hand side.  At some point (not now!), invading or reducing will be important.]
+;B[ng];W[dj]LB[cj:A]C[Since the stones in the upper left are high, I'd prefer a lower stone here for some balance.]
+;B[cl];W[ck]LB[ep:A][eq:B]SQ[cn]C[Often, when you touch a stone, you strengthen it.  That happens here --- the marked invasion point is much less possible after Black's response.  I would still prefer a move in the corner (A or B).]
+;B[dl];W[el]C[Okay, this is a nail at the head of two stones, but your nail doesn't help any of your other stones (and isn't connected to them).  Moreover, Black can use this to build up more influence towards the bottom.]
+;B[eq];W[jp]C[Again, I might go one line lower to secure territory.]
+;B[hq];W[nq]LB[lq:A]C[This is a weak White position next to two strong Black positions --- okay if you are playing lightly.  If you intend to make a base here, there are issues.  Black can move in at A and separate the stones.]
+;B[db];W[ib]C[Another capping move with a stone not connected to others.  You have also not responded to Black's move to the corner.]
+
+(;B[hb];W[jb];B[jr]C[Black dives under the high stone....];W[kr]
+
+(;B[iq];W[jq];B[ir];W[kq];B[dh];W[dm]LB[cf:A]C[Another attachment move not connected to your other stones.  I like A here to strengthen the stones on the top and put pressure on the Black stone.]
+;B[cm];W[eh]TR[dd][ee][dj][ck]C[Attachment (or capping) works much better here because you have support on both sides.]
+;B[eg];W[dg];B[fg]
+(;W[gg]C[The priority here is to secure your cutting stones and take the left hand side.  See the variation.]
+;B[fh];W[ei];B[ch]
+(;W[gi];B[fi];W[fj];B[ge];W[ff]LB[df:A]C[A is still the move.]
+;B[df];W[cg];B[bg];W[cf];B[ce];W[ef];B[bf];W[gh]
+(;B[cd];W[dg]C[A gift here from Black --- I would have stopped the capture to keep the White groups seperated.]
+;B[bk];W[bj];B[bl];W[cn]C[I think this move opens up too many cutting points.  If I was Black, I would have tried something like the variation to kill a cutting stone and make more territory.]
+
+(;B[bn];W[en];B[co];W[dn];B[or];W[qm]LB[oq:B][nr:A]C[I would have a tough time not responding to the approach here with either A or B (and preferably A).  The move at R8 is important, but I would like the chance to get some eyespace for the bottom group.]
+;B[mr];W[pj]C[Again, I think the third line is more appropriate here --- you want a chance for eyespace with the wall above you.]
+;B[mq];W[mp]TR[np]C[The marked cutting point is a good move for Black --- see the variations.]
+
+(;B[rn];W[rm];B[sm];W[sl];B[dk]C[I would probably ingnore this --- you are saving stones that have little purpose at this point.  I am also nervous about the cutting point at S8.]
+
+(;W[cj];B[bo];W[dc];B[cc]
+(;W[de]C[A good time to use your thickness to attack the four black stones at the top --- see the variation.]
+;B[sn];W[rl];B[nj]
+(;W[ni]C[I don't see the purpose of this move --- perhaps you are trying to separate the stones?  Again, you are making yourself weaker and the Black stones stronger.  See the variation for a related idea that works somewhat better.]
+;B[oi];W[mi];B[mj]
+(;W[lj]C[It starts getting very messy here, with lots of cutting points.  I'll note that the fight here endangers your group on the middle right by giving black thickness.
+
+I'll point out some variations during the fight that could be helpful.]
+;B[li];W[mh];B[mg];W[lh];B[lg]
+(;W[ki];B[kg];W[jg]C[Another cap without much support (and to a group that is almost alive).]
+;B[ke];W[kf];B[lf];W[jf];B[me];W[kd]C[A good way to attack the four Black stones (if they don't connect to D18), but Black does not care about the L15 stone.  Taking your side and corner territory is much more interesting.]
+
+(;B[lk];W[mk];B[kk];W[oj];B[nk]
+(;W[ml]C[At this point, you have to decide to save N9 or the group right above it.  Since the above group is bigger and this White group separates the Black groups, I would save it.]
+;B[kh];W[nl];B[ok];W[jk]C[Another capping move that will make Black stronger.]
+;B[ol];W[om];B[jh];W[ji];B[li];W[kj];B[kl];W[md];B[jl]
+(;W[il];B[ii];W[jj];B[ik];W[jm]C[Forcing Black to take helps you if you get territory out of the deal.  You get some here and set up the possibility of a living group.]
+;B[hl];W[km];B[im]
+(;W[ll]CR[mk][ml][nl]LB[mn:A]C[Note that this move gets you in trouble later on (since the marked stones have a shortage of liberties).  In fact, a Black play at A can be very strong.]
+;B[ij];W[pl]LB[mn:D][oo:A][lp:B][np:C]SQ[qo][mq][pq]C[At this point, if you want to make territory, I would be more concerned about Black's entry into your space with the marked stones.  I would prefer a move like A, B, C, or D.]
+;B[in];W[pk];B[ek]
+(;W[fk];B[fl];W[em];B[gk];W[fm];B[gl];W[hp]LB[io:B][ip:A]C[Why ask to be cut? At least try A or B.]
+;B[ip];W[io];B[ho];W[jo];B[lm]
+(;W[gp];B[nm];W[mm];B[mn];W[hn];B[on];W[go];B[lp];W[ld];B[ec]
+C[Now the potential of territory in the top left is gone.];W[le]
+C[I don't see the purpose of this move beyond gaining one point.  You do not affect the Black group at all.]
+;B[ig];W[if];B[gq];W[hf];B[fp]
+(;W[fn];B[bb];W[fo];B[eo];W[gm];B[he];W[hm];B[oe];W[nd];B[od]
+;W[oc];B[ea];W[lo];B[lq];W[jn];B[il]
+(;W[dp];B[dq];W[do];B[ep];W[cq];B[bq];W[cr];B[mo];W[er];B[fr]
+;W[dr];B[fq];W[fs];B[gs];W[es];B[br];W[hs];B[gr];W[is];B[cs]
+;W[cf];B[gc];W[ha];B[ga];W[ia];B[bi];W[di];B[aj];W[ci];B[ln]
+;W[ah];B[bh];W[cg];B[id];W[ie];B[js];W[nr];B[hj];W[np];B[ns]
+;W[ko];B[fd];W[ms];B[ls];W[lr];B[ks];W[pr];B[qr];W[ps];B[oq]
+;W[op];B[rj];W[pp];B[qp];W[rq];B[qq];W[qn];B[ro];W[po];B[pn]
+;W[pm];B[rk];W[qk];B[sg]
+(;W[sf];B[qe];W[re];B[pc];W[qd];B[pb];W[ob];B[rc];W[qc];B[qb]
+;W[pa];B[sh];W[qa];B[hh];W[rb];B[mf];W[hg];B[ih];W[hi];B[gj]
+;W[ej];B[jc]
+(;W[jd]C[No need to connect here --- both groups are alive.]
+;B[kb];W[hd];B[ja]
+(;W[gf];B[lb];W[fe];B[gd];W[mb];B[lc];W[mc];B[ma]
+(;W[nc];B[na];W[oa];B[ed];W[nb];B[la];W[pi];B[tt];W[ri];B[qi]
+;W[tt];B[tt]TW[ra][sa][pb][qb][sb][pc][rc][sc][rd][sd][ke][qe]
+[se][df][qf][eg][fg][fh][fi]TB[aa][ba][ca][da][fa][ha][ia][ka]
+[ab][cb][eb][fb][gb][ib][jb][ac][bc][hc][ad][bd][hd][ae][be]
+[af][ag][ah][lh][mh][ai][ji][ki][mi][ni][pi][ri][si][jj][kj]
+[lj][oj][pj][qj][sj][ak][hk][jk][mk][pk][qk][sk][al][el][ll]
+[ml][nl][pl][ql][rl][sl][am][bm][dm][em][fm][gm][hm][jm][km]
+[mm][om][pm][qm][rm][an][cn][dn][en][fn][gn][hn][jn][kn][nn]
+[qn][ao][do][fo][go][ho][io][jo][ko][lo][no][oo][po][so][ap]
+[bp][dp][gp][hp][jp][kp][mp][np][op][pp][rp][sp][aq][cq][jq]
+[kq][nq][rq][sq][ar][cr][dr][er][hr][kr][lr][nr][pr][rr][sr]
+[as][bs][ds][es][fs][hs][is][ms][os][ps][qs][rs][ss]C[This is the commentary from the beginning of the game: Not that you have one corner, while black has three.  When possible, you want to try and set up positions where you can easily take corner territory if possible.  I will try and emphasize that during the opening moves.  (Now go back to move 1.)
+
+Okay, some commentary on the game as a whole.  
+
+1) On the tactical side, avoid the attachment/capping moves unless you have nearby support and can crush the stones in question.  Otherwise, you strengthen your opponent and put more of your stones in danger.
+
+2) Put your focus on sides and corners and not the center.  Around move 100 you have a good framework in the top.  With one or two more moves, you secure a huge territory.
+
+3) Do not be distracted by small captures or hanes --- it is important to attack from a strong position.  Attacking for the sake of attacking can lead to big losses.
+
+I hope this was helpful.  Again, contact me if you have questions.
+
+Mark])
+(;W[na]C[Much better move.]))
+(;W[lb]C[So stop the bleeding?]))
+(;W[kb]))
+(;W[re]C[Give up the one point to avoid the shortage of liberties.]
+))
+(;W[ln]C[Second eye!]
+(;B[ko];W[kp];B[mo];W[kn])
+(;B[kp];W[ko])))
+(;W[fo];B[gm];W[ep];B[fq];W[dp];B[dq];W[do]C[One eye --- the second one will be tough.]
+))
+(;W[ln];B[mm];W[mn];B[nm];W[nn]C[Sacrifice the stones, but get a group out of it?]
+))
+(;W[fl]C[Not much of a chance to save the stones, but I think these moves help you more.]
+;B[fk];W[gk];B[gl]
+(;W[go])
+(;W[fn])))
+(;W[in];B[hn];W[io];B[lm];W[ll];B[il];W[mm];B[ln];W[jn];B[mn]
+;W[nm];B[pm];W[pn];B[pl];W[oo];B[qn]C[Hmmm... not much better.  It is hard to keep territory in the center.]
+))
+(;W[ii]C[Much stronger.]))
+(;W[ji];B[kh];W[li];B[jh];W[ii];B[ih];W[hf]))
+(;B[md]))
+(;W[kh]C[You don't have to take --- sometimes the extension is a stronger move.  (At least in the short term, it prevents the death of the N12 stones.)]
+))
+(;W[li];B[lj]
+(;W[oj];B[ki];W[lh];B[lg];W[kh])
+(;W[ki];B[oj])))
+(;W[oi]TR[og]C[Threaten to connect with the marked stone....]
+;B[oh];W[ni]C[... and then move to separate with some helping stones.  The framework is still loose (I'd be concerned about a black stone at R10), but you have better tools for the fight.]
+))
+(;W[eb]
+(;B[ec];W[cb];B[bb];W[da])
+(;B[cb];W[ec])))
+(;W[sn];B[so];W[sm];B[ek];W[fl]))
+(;B[np]
+(;W[op];B[no];W[oq];B[oo];W[pp];B[qp];W[qq];B[pr]C[White stones are dead.]
+)
+(;W[no];B[op];W[mo])))
+(;B[dn];W[em];B[co];W[bn];B[eo];W[dk];B[bo]
+(;W[bm];B[am])
+(;W[an];B[ao];W[ak];B[bm])))
+(;B[dg];W[gf];B[gj];W[gk];B[hj]))
+(;W[df]SQ[ch][dh]C[Extend to make sure you can kill the marked cutting stones!  Then the group at E13 has no base.]
+))
+(;W[ei];B[df];W[cg];B[ef];W[cf];B[de];W[ce];B[cd];W[cc];B[ed]
+;W[dc])
+(;W[df]C[This is the better move, as White has the ladder.]
+;B[ei];W[fh];B[gh];W[fi];B[fj];W[gi];B[hi];W[gj];B[gk];W[hj]
+;B[ij];W[hk];B[hl];W[ik];B[jk];W[il];B[im];W[jl];B[kl];W[jm]
+;B[jn];W[km];B[lm];W[kn];B[ko];W[ln];B[mn];W[lo];B[lp];W[mo]
+;B[no];W[mp];B[mq];W[np]C[White has the ladder!]))
+(;B[kq]
+(;W[jq];B[lr];W[ir];B[ks];W[kp];B[lp];W[lo];B[mp]C[Difficult for White --- the stones have been separated.]
+)
+(;W[lr];B[jq])))
+(;B[cc];W[cd];B[bd];W[be];B[bc];W[hb];B[hc]C[Black's group is fairly secure.]
+))
+(;W[ng]
+(;B[mf];W[mg];B[lf];W[kg]C[Surround the black stones and hope to kill?]
+)
+(;B[mg];W[ph];B[qg];W[oi]C[Threaten to kill one of the black groups?]
+)))
+(;W[of];B[qe];W[qd];B[qh];W[nd]LB[ig:B][jg:A]C[Note the huge area you are mapping out here.  The corner is secure, and you have an open route to the center.  Morever, a move like A or B puts more pressure on the top Black group while extending your moyo.]
+))

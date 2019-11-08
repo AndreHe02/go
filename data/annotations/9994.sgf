@@ -1,0 +1,130 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.16]
+
+PB[Tilwen]
+BR[1d]
+PW[horigome]
+WR[2d]
+KM[0.5]
+DT[2016-03-18]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[W+Resign]
+TM[1500]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+C[  Hi, I am Tilwen (Black in this game) and it went fighty fighty. I tried an opening of Lee Sedol against alphago (game 5) and of course it didn't last long. Help me find the key points that I missed. Thanks !]
+;B[pc];W[dp];B[cd];W[pp];B[qe];W[ed];B[ec];W[fc];B[dc];W[gd]
+;B[cf];W[oc];B[od];W[nc];B[pb];W[nd];B[hc]C[This is Lee Sedol's move (see continuation if you didn't see the game).]
+
+(;W[gb]C[This is ready to fight. I didn't want to play P15 and let H17 like this (but maybe it was a better idea ?) then I defended, trying to play lightly.]
+;B[kd]C[GC: I really like this move.];W[oe];B[pd];W[jc];B[kc]
+;W[ic];B[me];W[ne]
+(;B[kf]C[Up to here I feel OK in the game. Maybe L14 is too tight ?
+
+GC: Agreed. I think your goal here should be to attack black, and I think the N14 peep does a good job of making white heavy, but I think you need to follow it up. Here's anothing way of thinking. If you were going to play the L14 jump anyways, I don't think peeping is the right move, because you are helping black fix a cutting point. However, then white can peep at M13 and make you heavy, showing that the jump isn't really the right move.]
+;W[je]C[GC: This move really make L14 look bad.]
+(;B[qg]
+(;W[mf]C[GC: I think white should have pushed.];B[ke]C[If one reverses the order of moves, I feel like his peep is not so efficitent here (see variation)
+
+GC: I do slightly prefer black right now. You have a lot more actual profit, and both players have a weak group, meaning the fight shouldn't benefit one more than the other. However, white is slightly more flexible than he should be because of N14. I really think black should have extended there.]
+;W[ph];B[pg];W[oh]
+(;B[ri]C[I didn't want to be sealed in and this looked like the shape, is it more urgent to play around L13 ?
+
+GC: I would certainly like to protect the center group. This move feels slow. You're down on the second line. I think something to note is if the center black group is strong, there is a still a cutting point after pushing at P13.]
+;W[kh];B[jh];W[ji];B[lh];W[li];B[kg];W[ki];B[mh]C[Maybe White has been gentle to me here, I feel OK.]
+;W[ng];B[lg];W[oj];B[ih]C[White still has weak groups and potential cutting points.]
+;W[ie]
+(;B[ni]C[GC: I think protecting the cut would have been simpler here.]
+;W[qj]
+(;B[ii];W[jg]C[I am not sure whether this cut is good or not for White … Do you think I should have protected ?
+
+GC: I certainly would have. This does look messy, but I think white has the upper hand here. I don't see this ending well for black.]
+;B[jf];W[ig];B[if];W[hg];B[hf];W[gg];B[gf];W[ij];B[fe];W[fd]
+
+(;B[he]C[I tried a sequence that failed to kill, did I miss a tesuji, or is it a bad idea to play there ? I feel like G12 makes it more complicated, and maybe OK for me (see variation).
+
+ Locally, maybe K18 is the move.
+
+GC: I don't think there's anything here for black. White seems very alive to me. You should just connect back to the corner here. For now, you should stabilize your groups and wait for a change to strike back. You end up losing a lot of ko threats and some points in the corner.]
+;W[hd];B[jd];W[hi]C[He even tenukied … I still feel like K18 is the key move, but it doesn't work here. Do you think it is possible to kill here ? (my attempt failed hehe)]
+
+(;B[hb];W[kb]C[This increases eye space in sente …];B[lb]
+;W[jb];B[mc];W[eb];B[db];W[da]C[Not sure if I should atari or draw back here …
+
+GC: I don't think it matters.];B[ca];W[ea];B[ka];W[ia];B[ga]
+;W[ha]C[I missed this easy move, but it looked like there are possibilities, what do you think ?
+
+Anyway, at this point my group is safe and I can go on the attack of the right White's group.]
+;B[pn];W[nq];B[qp];W[qq];B[qo];W[rq];B[nk]C[I try to enclose. The fight didn't go well here, I think that I missed good opportunities to stay in the game.]
+;W[nj];B[mj];W[mi];B[nh];W[og]
+(;B[ok];W[qh]C[I didn't plan this one.
+
+GC: Yeah. Just connecting would have been better. However, there are some interesting moves here.]
+
+(;B[ml]C[GC: I would connect solidly here. Tiger's mouth doesn't really get you anything and leaves white a peep.]
+;W[lk];B[mk];W[pk];B[oi];W[pj]
+(;B[rh]C[This may be wrong (see variation)
+
+GC: I took a look and this seems quite hard for both players. It does generally look like it leads to ko in your variation where you block on the right. This second line move results in disaster for black.]
+;W[pm];B[om];W[qm];B[op]C[I wanted to protect the cut, but this wasn't enough.]
+;W[pq];B[qn]C[I need to try to kill right ?];W[on];B[oo];W[nn]
+;B[po];W[ol]C[I didn't read properly my lack of liberties. Game is over here, I tried some moves, but that was hopeless. Thanks for your opinions !]
+;B[mn];W[nm];B[mo];W[mm];B[mq];W[nr];B[kq];W[kn];B[cn];W[fq]
+;B[dj];W[iq];B[ko];W[jo];B[jp];W[lo];B[kp];W[ln];B[mp];W[ip]
+;B[lm];W[jn];B[rm];W[rl];B[sn];W[rp];B[sl];W[rk];B[mr];W[jr]
+;B[ro];W[sp];B[kr];W[so];B[or];W[oq];B[ns];W[pr];B[os];W[ps]
+;B[ms];W[rs])
+(;B[pl]
+(;W[ql];B[qm];W[ol];B[pm]C[What for White now ?]
+(;W[rm];B[rn];W[rk]
+(;B[sm];W[sl]C[Easiest ko.])
+(;B[rh];W[pf];B[qf];W[rj];B[sm];W[sl]C[Another ko])
+(;B[rg]C[This may work better …];W[pf]
+(;B[pe];W[sl];B[sn];W[sm];B[rj];W[rh];B[sh];W[si];B[sj];W[qi]
+;B[sg];W[sk];B[si];W[qf];B[rf];W[of];B[re];W[mg]C[White lives here.]
+)
+(;B[qf]C[Better ?]
+(;W[rh];B[sh]
+(;W[sj];B[si];W[sl];B[sn];W[sm])
+(;W[sl];B[sn]))
+(;W[mg];B[sm];W[sl]C[Still ko I guess …]))))
+(;W[rl];B[rh];W[rm];B[rn];W[rj];B[of];W[sm];B[sk];W[sj];B[rk]
+;W[sn];B[so];W[rp];B[ro];W[nm];B[om];W[nn];B[nl];W[po];B[lm]
+;W[sp];B[qn];W[on];B[ol];W[kn]))
+(;W[rh];B[rl];W[ql];B[qm];W[rj];B[of];W[si];B[rg];W[rk];B[sk]
+;W[rm])))
+(;B[pj];W[oi];B[mk]
+(;W[rh];B[qk];W[rj];B[rk]C[GC: This result is not bad for black.]
+)
+(;W[pk];B[pl];W[qk];B[rh]C[GC: This is also pretty good.])))
+(;B[mk]))
+(;B[jb];W[ib];B[kb];W[eb];B[id];W[hb];B[db];W[fa]))
+(;B[gh];W[fg];B[gi];W[ff];B[ee];W[ei];B[hj];W[ik];B[gl];W[ek]
+C[Something like this is to be expected maybe ? Then I come back to the upper left white group.]
+)
+(;B[jb]C[I feel like White will need to play E18 at one point here in order to have two eyes …]
+;W[ib];B[kb];W[eb];B[db];W[fa]C[Now I can connect to the upper right corner so I am safe ?]
+;B[gh];W[fg];B[gi]
+(;W[ff];B[ee];W[ei];B[hj];W[ik];B[gl];W[ek];B[kk]C[This looks like a fight that can be good for Black right ?]
+)
+(;W[eh];B[ee];W[ej]))
+(;B[fg];W[hi];B[fh];W[jp]C[ White definitely has a lead, but I think this would be black's best shot.]
+))
+(;B[hg];W[nj];B[hj]))
+(;B[hg]))
+(;B[kh];W[lg];B[kg];W[qh];B[og];W[ng];B[nh];W[mh];B[ni];W[mi]
+;B[nj]C[GC: Another mess.])
+(;B[hf]C[GC: I might be tempted to try something more clever. It would be really nice to get N12 since that is white's vital point.]
+;W[hd];B[mh]
+(;W[lg];B[og]C[GC: Even crazier fight.])
+(;W[og];B[mg];W[qh];B[nf];W[of];B[lf]C[GC: Both group are settled, and black has some influence in the center, white can make something on the right. I think this is a reasonable game.]
+)))
+(;W[ke];B[le];W[jd];B[ld];W[mg];B[lg];W[mh]))
+(;B[ke]C[If Black connects …];W[mf]C[… White would not play this one …]
+;B[qg]C[… and let Black play here right ? But this is the same position as in the game.]
+))
+(;B[mf]C[GC: Black's shape look weird, but I think it's really not that bad.]
+))
+(;W[oe];B[hd];W[he];B[ge];W[ie];B[gf];W[jc];B[fb];W[hg];B[gg]
+;W[gh];B[hf];W[if];B[fh];W[hh];B[fi];W[fg]C[Alphago played then a couple of moves but these stones are dead, and he got R14 later on.]
+))

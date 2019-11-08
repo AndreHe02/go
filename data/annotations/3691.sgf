@@ -1,0 +1,69 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+PB[fox]
+BR[30k]
+PW[GNU Go]
+KM[0]
+DT[2004-09-09]
+RE[W+25.00]
+RU[Japanese]
+US[MultiGo]
+
+C[Hi, my name is Tim Kington, and I'll be reviewing this game for you.  I'm currently 8k on KGS.]
+;B[pp];W[qd];B[dp];W[dd];B[jp];W[qn];B[ql];W[qq];B[pq];W[qp]
+;B[po];W[rn];B[om]C[This sure doesn't LOOK like it's your first game.  This is a fairly standard opening sequence.]
+;W[od];B[dj];W[fp]C[how can I keep the lower area when w16?
+
+The short answer is, you can't.  What you have at the bottom of the board is a framework, or moyo.  It gives you influence in that area, but is not yet solid territory.  You shouldn't try to keep this area, what you should do is try to give White a hard time while you are making territory nearby.  See the variation for a better sequence.]
+
+(;B[hp];W[fn];B[hn];W[cn]C[You have to be careful here, or your stone in the corner will get into trouble.]
+;B[cl]C[This is almost begging White to kill your corner.  You don't want to push your opponent toward your weak stones.]
+;W[ch];B[fc]C[In Go, you want to try to only have one weak group on the board at a time.  You have two - the lower left corner and the group on the left side.  The most important thing for you to do is to strengthen one of these groups.]
+;W[fd];B[gd];W[fe]
+(;B[gc]C[This makes your stones easy to attack.  See variation.]
+;W[ic];B[hb];W[ec];B[eb];W[db];B[fb];W[qg];B[id];W[jc];B[jd]
+;W[qj];B[ok];W[lc];B[le];W[bp];B[cq];W[bq];B[fq];W[em];B[el]
+;W[eq];B[ep];W[gq];B[fr]
+(;W[er]C[This is a mistake for White.  See variation.];B[gr]
+;W[hr];B[hq];W[eo];B[gp];W[fl];B[ek];W[hm];B[jn];W[hk];B[fi]
+;W[kl];B[gf];W[cr];B[dr];W[mm];B[mn]C[This is too close.  Usually when your opponent plays a move like this, you want to play one line lower.]
+;W[df];B[hi];W[ge];B[hd];W[jk];B[ji];W[he];B[if];W[qr];B[pr]
+;W[hf];B[ie];W[da];B[ea];W[ng];B[qc]C[This is an unreasonable invasion.  White should not let you live here.  See variation.]
+
+(;W[pb];B[rd];W[qb];B[rc];W[re];B[qe];W[pd];B[rf];W[rg];B[qf]
+C[This is a very good move.];W[ne];B[ld];W[mc];B[kc]C[It's too early to make this move.  There are a lot of bigger moves available.  Also, this move gives up sente - it lets your opponent take the initiative.]
+;W[kb];B[kd];W[ps];B[os];W[qs];B[nr];W[bj]C[This move is worth an awful lot of points.  You shoul have played here before White.]
+;B[es];W[bl];B[mg];W[ck];B[dk];W[gg];B[fg];W[nh];B[mi];W[mh]
+;B[lg];W[lh];B[kh];W[gh];B[hg]C[This is probably a mistake.  White's trying to cut your groups apart.  You should be thinking about staying connected, instead of trying to kill White's stones.]
+;W[gi];B[gj];W[fk];B[fj];W[hj];B[hh];W[ff]C[Now your stones on the left should die.]
+;B[fh];W[gf];B[dh];W[dm];B[dl]C[This is a terrible move - you should let that one stone go, and try to make two eyes for the rest.  White should now be able to kill you.  See variation.]
+
+(;W[eg];B[eh];W[dg];B[ci];W[cj];B[cg];W[bh];B[bi];W[bg];B[aj]
+;W[cm];B[bk];W[kn];B[al];W[ln];B[lo];W[nn];B[mo];W[bm];B[am]
+;W[nm];B[no];W[on];B[pn];W[pm];B[ol];W[qm]C[Uh oh.  Now you have another group in trouble.]
+;B[pi];W[oj];B[nj];W[pj];B[pg];W[li];B[lj];W[kj];B[lk];W[rl]
+;B[rh];W[qh];B[qi];W[ri];B[sg];W[sh];B[sf];W[nl];B[ph];W[ki]
+;B[jg];W[an];B[ak];W[ko];B[kp];W[br];B[cs];W[jo];B[io];W[jm]
+;B[in];W[cp];B[dq];W[fo];B[gm];W[gl];B[gn];W[do];B[qo];W[ro]
+;B[md];W[nd];B[lb]
+(;W[mb]C[This is a mistake for White.  See variation.];B[jb]
+;W[la];B[ib];W[im];B[jj];W[rb];B[sb];W[ij];B[ii];W[oo];B[op]
+;W[km];B[nk];W[ll];B[mk];W[kk];B[ni]C[Making one eye here doesn't do you any good.  You're just giving White more prisoners.]
+;W[oi];B[oh];W[bs];B[ds];W[pc];B[pl];W[ml];B[go];W[ra];B[sc]
+;W[mf];B[lf];W[si];B[rh];W[rk];B[qk];W[ah];B[ai];W[cf];B[ja]
+;W[ka];B[pk]C[Just another prisoner for White.];W[rj];B[me]
+;W[nf];B[pe];W[gk];B[of];W[fm];B[og];W[oe];B[tt];W[sa];B[se]
+C[This costs you a point, because you're playing in your own territory.  At the end of the game, you would get to keep that stone anyway.]
+;W[tt];B[tt];W[tt]C[You played EXTREMELY well for your first game.  You should try not to create weak groups of stones, and try to always make the biggest move that you can.  There were a lot of times here where White was threatening a single stone, or a single point gain where you answered his moves.  You should try to ignore White's moves in these situations.]
+)
+(;W[jb]
+(;B[nc];W[mb];B[nb];W[la])
+(;B[mb];W[nc];B[nb];W[ob])))
+(;W[cg];B[ci];W[ei];B[bi];W[bm]C[At this point, you're dead.]
+))
+(;W[pc];B[rd];W[qb]C[This looks pretty bad for you.]))
+(;W[gr];B[er];W[gp]C[This is really bad for you.  Now you will have to make two eyes in the corner, and White can jump into your area at the bottom at any time.]
+))
+(;B[ec];W[dc];B[ic]))
+(;B[dq];W[fn];B[dn]C[Now White is still weak, and you've made a lot of secure territory on the left side.]
+))

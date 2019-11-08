@@ -1,0 +1,107 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+PB[86927]
+BR[10k]
+PW[Fuminshou]
+WR[10k]
+KM[0]
+RE[0]
+TM[1800]
+RU[Japanese]
+
+C[This was a rather interesting game I played on DashBaduk recently.  We were both rated 10k and there was no komi.
+
+I played white stones.
+Komi: 0.0];B[dp];W[qd];B[dd];W[pp];B[nq];W[pn];B[nn];W[fq];B[eq]
+C[Not joseki?  Is that a overplay? If so how do you punish?]
+
+(;W[hp];B[fr];W[gq];B[hr];W[dr];B[er];W[cp]
+(;B[cq];W[co];B[do];W[bq];B[br]C[b2 is a mistake, he can move at C2 or simply connect at D3]
+;W[cr];B[dq];W[bs];B[bp];W[ar];B[cn];W[bo];B[bn];W[ap];B[go]
+;W[dn];B[cl];W[ko];B[kq];W[ho];B[gn];W[gr];B[gs];W[ir];B[en]
+;W[kr];B[jq];W[jr];B[lr];W[hq];B[hs];W[is];B[fs];W[iq];B[lp]
+;W[hn];B[hm];W[km]C[This move felt good but got me into some trouble...]
+;B[jn]
+(;W[im];B[in];W[jm];B[jo];W[jp];B[kp];W[io];B[ip];W[gm];B[gl]
+C[this move also is a huge mistake for black, he should defend at h8, I guess your move at g7 was a ko threat]
+;W[hl];B[kn];W[fm];B[dm];W[lo];B[ln];W[mo];B[no];W[jp];B[mp]
+;W[gk]C[hmm, this looks too small for now, you are out in the center and has no worry about your group]
+;B[qo]
+(;W[qp]C[this is bad for you, better to connect your stones at Q5, see var.]
+;B[po];W[oq];B[op];W[or]
+(;B[qq]C[not good, black is too agresive];W[rp];B[rq];W[pq]
+;B[qr];W[ro];B[qn];W[rn];B[qm];W[rm];B[rl];W[sr];B[qk]C[...]
+;W[sq];B[od];W[oc];B[nc];W[ob];B[nb];W[pd];B[oe];W[qg];B[og]
+C[I played this joseki, but didnt cut at O16 for some reason.]
+;W[lm]C[waste of move...];B[mn];W[pi]C[this area seems to be worthless, black can`t make points here because your center group
+You helped black a little here];B[ni];W[nh];B[oh];W[oi];B[mi]
+;W[ok]C[and you make another "pass", with moves like this you can lose a game]
+;B[nl]C[so black answered to your move, now p9 becomes a good move" reduction in sente" :)]
+;W[jc]C[this is wrong, too close to black wall, I`ll consider f17 here or h17]
+;B[kc]C[this is wrong direction and a wrong move . I`ll suggest h17 here for black to push white into the black wall and he must avoid contact play with the stone he wish to attack]
+;W[gc];B[jb];W[ic];B[ib];W[hb];B[hd];W[id];B[he];W[hc];B[fb]
+;W[kb];B[lb];W[kd];B[lc];W[ie];B[je];W[jf];B[ke];W[kf];B[le]
+;W[hf];B[ge];W[gf];B[fe];W[jh]C[I made this awfully complicated when I shouldn't have...]
+;B[ig];W[if];B[ih];W[ji];B[ii];W[gh];B[gi];W[ij];B[hj];W[ik]
+;B[jg];W[kg];B[kh];W[hg];B[hi];W[fi];B[jj];W[ki];B[lh];W[kj]
+;B[jk];W[kk];B[di];W[hk];B[qf]C[How should I have responded here?  I don't know why I didn't see this coming...]
+
+(;W[pf];B[pg];W[pe];B[qh];W[rg];B[rh];W[rf]
+(;B[of]C[too small, white can`t do much against black here, a move like C14 or D14 will be huge instead]
+;W[lg];B[mg];W[nj];B[mj];W[dg]C[it was about time do something here :)]
+;B[eg]C[like I mentioned before, black is too greedy and wants too much, this is an unresonable move]
+;W[eh];B[dh];W[ef];B[fg];W[ff];B[fj];W[gj];B[df];W[cg];B[cf]
+;W[bg];B[bi];W[bf];B[fd];W[fc];B[ec];W[ee];B[ed];W[de];B[bd]
+;W[cd];B[cc];W[be];B[ei];W[fh];B[fk];W[el];B[dk];W[bj];B[cj]
+;W[db];B[eb];W[bc];B[ce];W[cd];B[ce];W[ad];B[bb];W[ac];B[ab]
+;W[cd];B[cb];W[bd];B[an];W[bh];B[bk];W[ai];B[aj];W[ek];B[ej]
+;W[fn];B[fl];W[fo];B[em];W[rj];B[ph];W[mk];B[nk];W[oj];B[nr]
+;W[ns];B[ms];W[os];B[qb];W[pc];B[rc];W[rd];B[oa];W[pa];B[na]
+;W[pb];B[sg];W[sf];B[sh];W[mf];B[lf];W[me];B[ld];W[ng];B[nf]
+;W[li];B[mh];W[nm];B[mm];W[ml];B[om];W[pl];B[ql];W[ol];B[nm]
+;W[sl];B[sk];W[sm];B[rk];W[lk];B[se];W[re];B[sd];W[sc];B[sb]
+;W[sd];B[ra];W[ah];B[ao];W[bp];B[ds];W[ia];B[ka];W[ga];B[jd]
+;W[fa];B[ea];W[ch];B[ci];W[ks];B[ls];W[ep];B[eo];W[fp];B[sp]
+;W[rr];B[rs];W[so];B[qs];W[pr];B[ja];W[ha];B[es];W[cs];B[ip]
+;W[lq];B[mq];W[jp];B[qa];W[qc];B[ip];W[ak];B[al];W[jp];B[ss]
+;W[ps];B[ip];W[gd];B[jp];C[That was the end of the game.  Since there wasn't any komi the result was a draw.   This actually supprised me, because I thought I was up by at least 10 after I reduced his side.
+
+Any advice would be greatly appreciated.
+Thank you for your time...
+
+Result: Jigo
+
+
+This was a fighting game with some good moves and some bad moves for both sides. It is some balance in your game, keep it this way, I refered to  attack-defence here.
+If you want my advices to improve your strenght, here it is:
+Play and play and play again :)
+Belive me this is the best option you have, second is GTL of course ;)
+If you have other questions about the game or about my comments please feel free t ask me if you see me online on KGS, my nuckname there is RoninRo.]
+)
+(;B[sb];W[of];B[nf];W[ng];B[ph];W[ne];B[mf];W[nd];B[sc];W[ri]
+;B[sh];W[qi];B[mg];W[sg];B[mh];W[ld];B[md];W[jd];B[me]))
+(;W[rf];B[re];W[qe]
+(;B[rg];W[pf];B[qh];W[rh];B[qi];W[ri];B[ph]C[black can`t move at s10, because next q12 is atari and if he defend those 2 stones, white connect at q13.
+
+Now you have sente and must do something with left side])
+(;B[pf];W[rg];B[qh];W[qi];B[rh];W[ph];B[ri];W[rj]TR[qh][rh]
+[ri]C[these are dead so you are connected but only if he doesn`t know how to play and defend R14
+But black end in sente now and catch another move to strenghten his left side.
+So I think it`s better to don`t move right now at s10 and switch the play to the left side]
+)))
+(;B[rp];W[rq];B[ro];W[qr];B[od]C[black should play like this I think, but instead he wants to kill everything on table]
+)
+(;B[ro];W[rp]))
+(;W[po];B[qn];W[qp];B[ql];W[pm];B[qm];W[mm];B[mn];W[nm];B[lm]
+;W[ll];B[om];W[ol];B[on];W[pl];B[ml];W[nl];B[mk];W[lk];B[mj]
+;W[oi]))
+(;W[jo];B[in];W[kn];B[io];W[jp]C[black can`t cut at j4 now, if so, white j7 will cut and kill 4 black stones, so white is out]
+))
+(;B[co];W[bp];B[bo];W[do];B[dq];W[cr];B[cq];W[bq];B[br];W[dn]
+;B[cm];W[gr];B[gs]C[I belive black can play like this and take the corner]
+))
+(;W[fp]C[this is the standard answer against e3]
+(;B[dn];W[jq])
+(;B[jq];W[do];B[co];W[dn];B[cn];W[dm];B[cm];W[dl]C[Or black can choose to play like this.
+Now his lower teritory  looks  thin and easy to be invaded and his lower left corner have some aji left for later]
+)))

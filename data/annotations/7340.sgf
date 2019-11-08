@@ -1,0 +1,90 @@
+(;FF[4]GM[1]SZ[19]ST[1]AP[SGFC:1.15]
+
+PB[HonFu]
+BR[1k]
+PW[ytoshi]
+WR[1k]
+KM[6.5]
+DT[2009-06-19]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[B+Resign]
+TM[1500]
+
+C[Hello, dear reviewer!
+
+I'm Bernd, HonFu in the GTL and on KGS. I have added a few questions about fuseki and fighting decisions, but since this was an endgame decision in the end, I would like to have as much comment on that as possible. In the end I won, but I am not sure how it happened, I didn't really feel ahead.
+
+Thank you!
+
+Comments by Az];B[pd];W[dp];B[pq];W[dc];B[qo];W[kq];B[ce]C[I know, that C6 is a large point, but C15 also is. Was this the right choice?
+
+Az: I would be skeptical of anyone who tells you that there is only a single right move here. Both seem playable to me, though they produce different kinds of games.]
+;W[cg];B[ed];W[ec];B[fd];W[fc];B[gd];W[hc];B[cj];W[eg]
+(;B[gg];W[di]
+(;B[cn]C[Az: A big mistake. Tenuki from the shoulder hit is not an option, it allows W to make his thin stones strong.]
+;W[dj];B[ck];W[co];B[dn];W[fq]LB[fp:A]C[Az: Probably a little better for W at 'a', but either way the result is a sucess since black is over concentrated on the LHS and W is no longer so weak.]
+
+(;B[fi];W[fj];B[gj];W[fk];B[gk];W[fl]
+(;B[jd]C[Az: This is vague and lacking in clear purpose. It contributes a little to the moyo, but the shape is thin.]
+;W[ic]C[Az: A good answer];B[ie];W[jc]LB[kb:A]C[Az: Slow. W should either tenuki or play 'a']
+;B[kc];W[kb];B[lc];W[pf];B[pj]LB[pi:A]C[Az: W's invasion is strange and poorly timed after crawling, so the pincer is natural, but this feels too far. 'a' seems about right]
+;W[qd];B[qc];W[qe];B[rc];W[qi];B[qj];W[pi];B[oi];W[oh];B[nh]
+;W[og]
+(;B[oj]TR[gk][gj][fi][gg][ie][jd][kc][lc]C[Az: This is the normal move, but it might actually be better to tenuki to build the moyo. That way you are really using the power of the stones, since you couldn't tenuki without them.]
+;W[np]C[Az: A good response];B[rj]
+(;W[ri];B[qg]C[Az: ... and now W is in trouble. He should have lived easily here.]
+;W[rg];B[rf];W[rh];B[qf];W[pe];B[se];W[od];B[pc];W[ng];B[mh]
+;W[mg];B[lh]LB[oc:A][ph:B]C[Az: W must not be allowed 'a', this is much more urgent both from a life and death perspective, and from terroritory. Because the cut at 'b' does not work, after W 'a' the corner will have a hard time living without ko (so W will live for sure).]
+;W[me]C[Az: B gets lucky again];B[oc];W[nd]
+(;B[kf];W[lf];B[nf];W[mc];B[lb];W[ld];B[ke];W[nc];B[le];W[mb]
+;B[jb];W[ob];B[pb];W[na];B[pa];W[oa];B[ka];W[ma]LB[lg:A]C[Az: Force at 'a' now]
+;B[rd];W[re];B[sf];W[sg]LB[mn:A][iq:B][fn:C]C[Here probably I should tenuki, but I won't. If I had tenukied, where should I play? Something like A seems to build up a lot, but it's always risky to use walls for making points. So maybe rather invade at B, with the aim of starting a double attack on the two weak white groups? Or should I attack the left group immediately, then invade?
+
+Az: I'm going to take option 'c', no puns intended. Especially now that you have all that thickness, this is a perfect time to attack the left group. Doing so will naturally lead into 'b', after which matters looks very difficult for white. The move in game was inexusable, you might as well have passed a turn.]
+;B[si];W[sd]LB[ra:A]C[Az: 'a' is correct, capturing forces you to risk ko for everything]
+;B[sc]
+(;W[lg];B[kg];W[nn];B[ei];W[dk];B[ci]LB[fn:A]C[Az: The wrong direction. 'a' the only move since it splits white while moving your group out of isolation. You are not likely to kill white, if he has to live small on the side that is fine.]
+;W[ch];B[bc];W[cb];B[bb];W[ib];B[hq]LB[fn:A][ho:B]C[This invasion I didn't play to simply live, but to get this area in motion and help me get an attack on the left group. I play moves of this kind intuitional, so I don't know, was this right? Please help me understand the subsequent fighting!
+
+Az: After 'a' this might be reasonable, but you just don't have enough support to back this up locally right now. W has lots of easy responses, some of which help him link up like 'b'. So my answer is that you didn't prepare enough.]
+;W[gp];B[io];W[ko];B[gn];W[gl];B[bf];W[il];B[hm];W[hl];B[jm]
+;W[bi];B[bj];W[cl];B[bl];W[aj];B[bk];W[bg];B[dl];W[el];B[cm]
+;W[ej];B[ii]LB[hi:A]C[Az: Too loose, better at 'a'];W[cf];B[be]
+;W[jl];B[km];W[pn];B[qn];W[pm];B[ah];W[ai];B[ag];W[de];B[dd]
+;W[ee];B[dh];W[eh];B[ff];W[gi];B[fh];W[hj];B[hi];W[hk];B[gj]
+;W[ef];B[dg];W[kl];B[ml];W[ij];B[im];W[ji]C[So now it's endgame. Please tell me all you see! :-)]
+;B[cq];W[dq];B[bo];W[bp];B[cp];W[bq];B[do];W[cr];B[nr]C[Az: So far the order is good]
+;W[mq];B[po];W[oo];B[qm];W[mr];B[nq];W[ns];B[or];W[ln]
+(;B[lm]LB[cc:A][ak:B]C[Az: This is very slow. Defending the UR is biggest, but failing that the double sente move at 'a' is a good choice. If you're willing to take gote 'b' is huge.]
+;W[jh];B[gr];W[fr];B[jr];W[jq];B[iq];W[cc];B[cd];W[ia];B[gc]
+;W[gb];B[ca];W[da];B[ba];W[eb]C[Az: Everything here was correct. B is winning by a significant amount, all he has to do to win now is defend the UR.]
+;B[mo];W[mn];B[op];W[mp];B[jp]LB[kr:A][ak:B]C[Az: If we ignore the UR for the moment, the biggest move locally is 'a', not this. However, 'b' is more important.]
+;W[kr];B[kp];W[lp];B[is]LB[ak:A][co:B]C[Az: This was way too small to be worth taking gote over. 'a' is the biggest (ignoring UR), then 'b']
+;W[pl];B[ql]C[Az: Again, this is not big enough, see prev.]
+;W[lj];B[lk];W[kj];B[mj]C[Az: Neither of B's last two moves does much of anything.]
+;W[co];B[cp];W[md];B[kd];W[ig];B[hf];W[af];B[ae];W[fg];B[gh]
+;W[fe];B[ak];W[df];B[bh];W[gf];B[hg];W[eo];B[sd]C[Az: ... B escaped a time bomb without ever realizing it was there. At this point the game is over and there is no way of undo'ing blacks lead, so no more comments.]
+;W[ph];B[ih];W[jg];B[ge];W[ll];B[mm];W[kk];B[mk];W[fo];B[pk]
+;W[ol];B[nm];W[hd];B[jf];W[li];B[fs];W[es];B[gs];W[ks];B[os]
+;W[ms];B[pg];W[nk];B[ok];W[nl];B[nj];W[on];B[of];W[oe];B[ra]
+;W[ho];B[hn];W[jo];B[ip];W[kh];B[go];W[hp];B[gq];W[fp];B[mi]
+;W[js];B[ir];W[jn];B[kn];W[ao];B[an];W[ap];B[in];W[lo];B[em]
+;W[gk];B[gi];W[he];B[if];W[ja];B[kb];W[cq];B[co];W[dh];B[ff]
+;W[fm];B[en];W[gf];B[fa];W[ea];B[ff];W[qp];B[pp];W[gf];B[er]
+;W[ds];B[ff];W[bn];B[am];W[gf];B[cs];W[bs];B[ff];W[sj];B[sk]
+;W[gf];B[dr])
+(;B[ra]C[Az: Time to prevent the ko]))
+(;W[ra];B[rb];W[qa];B[sa];W[sb]C[Az: Flower ko any time]))
+(;B[lf]C[Az: The correct move. W is in very serious trouble]
+))
+(;W[qg]C[Az: The vital point]))
+(;B[lp]
+(;W[oj];B[ni];W[ok];B[pl]C[Az: The fighting would be very hard for white]
+)
+(;W[ni];B[oj]C[Az: The ladder is not working for white])))
+(;B[fn]C[Az: The only move]))
+(;B[gi]C[Az: Less blunt. The black group above still has some weakness, so playing the more restrained move feels better.]
+))
+(;B[dj];W[fi];B[ej]))
+(;B[hd];W[ic];B[gg]C[Az: It is slightly painful to push from behind on the top, but it makes a difference in terms of your aji]
+))

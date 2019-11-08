@@ -1,0 +1,97 @@
+(;FF[4]GM[1]SZ[19]AP[SGFC:1.14]
+
+PB[jettero]
+BR[26k]
+HA[3]
+PW[Xelat]
+WR[23k]
+KM[0.5]
+DT[2003-04-13]
+PC[The Kiseido Go Server (KGS) at http://kgs.kiseido.com/]
+RE[W+73.50]
+TM[60]
+
+AB[dp][pd][pp]C[I'm not sure what questions to ask.  It would appear my fuseki is
+bad.  Tips on what to study next and tips on bad overall strategy
+would be excellent.
+ 
+I'm not at all afraid of japanese naming, so go right
+ahead.];W[dd]C[Hello,
+My name is Matt.  I am ranked 15k on IGS as Chamm.  I hope my comments are helpful to you.  I am reviewing this game for Black and I have added some variations mostly in the beginning of the game to show some other possibilities]
+;B[cl]C[Matt: This move seems strange to me. I think it would be better at C10 or D10 if you wanted to gain influence on the side, as it is the midpoint between the stones.]
+;W[nc];B[qi]C[M: Again, I would like to play this stone at R10 or Q10, but I can't be sure of the best move.]
+;W[qn];B[jq];W[nq]C[M: By not protecting your 4-4 corner stones, you are inviting white to play this double pincer.  It is not bad, but you should be comfortable with how to deal with the situation.  I have added a normal continuation from this pattern.]
+
+(;B[oq];W[or];B[pr];W[op];B[pq];W[mq]
+(;B[nr]C[M: Here, it is better to cut the white stones on the top at P5]
+;W[mr];B[os];W[kr];B[jr];W[gq];B[fq]LB[eq:a]C[M: Generally, it is not a good idea to make a contact play to attack a stone.  Contact plays strengthen your opponents stones.  An option that looks good to me is A which encloses the corner and attacks white at the same time.  It is always good when a move has more than one purpose.]
+;W[fr];B[eq];W[er];B[dr];W[hr];B[gp];W[cq]
+(;B[eo]C[M: If you block at D3, White will live small if at all in the corner and Black gains a chance to kill white's F2 group.]
+;W[dq];B[cr];W[hp];B[ho]C[Paul: I do play slightly better than this.  At th
+is point in the game, I wasn't aware it was a rated game.  I suppose if I was playing a bit harder, I would have thought to play f5, or g5, or something.  :)
+
+Paul: Regardless, thanks in advance for the review.  I was a bit overwhelmed in this game, even starting with 3 stones.]
+;W[fp];B[ep];W[go];B[fo];W[gp];B[en]LB[cp:a][bq:b]C[M: This move doesn't seem to have a clear purpose.  To settle your group A or B seems to be the best answer.]
+;W[bp]C[M: Now White gains lots of points in the corner.];B[cp]
+;W[bq];B[bo];W[br];B[bs]LB[cf:a][lc:b][pf:c][oo:d][jd:e][fc:f]
+C[M: Play somewhere else instead.  You can gain more points by playing elsewhere such as A-F, but there are probably other moves to play here.]
+;W[ds];B[ap];W[cs];B[cc]C[M: This is a good time to play somewhere other than the lower left corner, it is hard to tell for a player of my strength to determine if this move is good at this point in the game, but I usually leave the 3-3 invasion until I know whether it will be profitable.  See my earlier comment for other possible places to play.]
+;W[jc];B[oc];W[cd];B[bd];W[be];B[ad];W[bf];B[dc];W[ec];B[eb]
+;W[fb];B[da];W[fd];B[fa];W[gb];B[nb];W[mc];B[ka]C[M: This move does not work if the stone on the second line is not firmly connected as you find out later.]
+;W[ae];B[bb];W[ga]C[M: You could have ignored this move.  If white captures, the black plays D18 and lives.]
+;B[ea];W[ca];B[db];W[ba];B[ab];W[mb];B[oa];W[la];B[of]C[M: Good this move secures a lot of territory for black while aiming at the invasion of white's potential territory on the top]
+;W[qk]C[M: It might have been better to play something like B Q10, W Q9, B P5.  This would force white to find life while you gain points elsewhere.  To me, the play at P5 looks important until the very end of the game.]
+;B[rj];W[cj]C[White ignores your move, and takes the big play threatening a large moyo by White]
+;B[ek];W[dk];B[dl];W[ej];B[fl];W[fk];B[el];W[gk];B[gl]LB[pn:a]
+[rl:b][oj:c][oo:d]C[M: Don't let white dictate your play so much, here was a good time to get back to the lower right corner.  White has weak stones that you can attack.  A-D are all possible plays to start an attack.]
+;W[io];B[hn];W[kp]C[M: Now your stones are captured and whites stones on that side are safe.  But those two white stones are still very weak.]
+;B[fi]C[M: I like the idea of exploiting white's weakness at F10]
+;W[ei];B[gi];W[hi];B[hj];W[gj];B[hk];W[fj];B[hh];W[ii];B[gg]
+;W[fh];B[gh];W[fg];B[il]TR[hn]C[M: White cannot cut you here because of H6 (try playing it out), so this move is unneccessary, you could have taken this move to strengthen your weak group at G13]
+;W[gf];B[ih];W[ji];B[jh];W[bl];B[bm];W[bk];B[ck];W[dj];B[bj]
+;W[bi];B[al];W[aj];B[am];W[in];B[lh]C[M: Very good, White's move doesn't threaten your lower group and you strengthen a weak group]
+;W[hm];B[gn];W[kk];B[im];W[ik];B[hl]C[M: Unneccessary, white will force you to play this later, but by playing it now, you are giving up sente.  (try playing out the sequence to prove to yourself that white cannot do anything here)]
+;W[jj];B[nh];W[jm]C[M: Here, black needs to take advantage of the cut at P4 and K8 and white's two weak stones to prevent white from making large territory here.  Black should be able to greatly reduce whites potential territory maybe even make some of his own, but white is able to seal Black in.]
+;B[hf];W[he];B[ff]C[M: This sequence does not work well after the plays around B10]
+;W[ge];B[eh];W[eg];B[dh];W[ch];B[dg];W[ef];B[if];W[pj];B[pi]
+;W[ni];B[oi];W[oj];B[og]C[M: To reinforce your connection, what about N11?, or to fight what about O10?  White still has many weak points at which you can use to reduce territory]
+;W[rk];B[je]C[M: This is the wrong time to play away from white's territory.  this move only gains you a few points, while a move on the right will be worth much more.]
+;W[id];B[ke];W[me];B[mf];W[li];B[le];W[ld];B[ne];W[md];B[nd]
+;W[mh]C[M: White succeeds at securing a weak point while reducing your territory. Very big.]
+;B[mg];W[mi];B[ki]LB[oo:a][jl:b][pn:c]C[M: Wrong place to reduce.]
+;W[kj];B[kh];W[oo]C[M: And again, white seals you in, and it no longer looks easy for you to invade.]
+;B[po];W[pn];B[ro];W[rn];B[qo];W[qj];B[si];W[kd];B[jd];W[jb]
+;B[ak];W[bj];B[aq];W[ar];B[ao];W[jl]C[M:  And white fixes another place where black could have created problems.]
+;B[ij];W[jk];B[sk];W[rl];B[sl];W[sm];B[sj];W[ph]
+(;B[qg]C[Paul: I'm perfectly aware of what I did wrong here.  I didn't notice the cut threat until far too late. :)]
+;W[rh];B[ri];W[oh]C[M: Even at this point, you can sacrifice that one stone to save your large group.]
+
+(;B[ng];W[qh];B[rg];W[sh];B[pg];W[sg]C[M: See var. 3 for the correct way to handle this.]
+
+(;B[sf]C[Paul: I'm also aware that, here I handled the invasion about as poorly as possible.]
+;W[rf];B[re];W[se];B[qf];W[sf];B[sc];W[rd];B[qe];W[rc];B[rb]
+;W[sd];B[qc];W[sb];B[qa];W[qd];B[pc];W[sa];B[ra];W[sc];B[na]
+;W[ma];B[ie];W[hc];B[ns]C[M: What happens if white plays Q19?]
+;W[ms];B[so];W[sn];C[Paul: And sadly, at the end of this, even taking back t19 - t11, and p11 - t8, I still wasn't the winner of this game. :(
+
+Matt:  I think you played a good game, but you let your opponent dictate the flow.  You answered mostly all of his moves and let him reinforce his weak groups.  You lost a lot of points in the upper right corner, but you lost the game on the bottom side/ right side.  During the game, try assessing the strength of each group on the board and attack/defend weak groups.  You made a few small mistakes, but you can learn by playing more games.]
+)
+(;B[se]
+(;W[sf];B[re];W[rf];B[qf]C[Paul: This woulda have worked a little better.]
+)
+(;W[rf]C[M: What now?];B[sf];W[re];B[sd];W[rd];B[sc]C[M: This move doesn't work either.]
+))
+(;B[re];W[sf];B[se];W[rf];B[qf]C[This is the best way to handle this usually]
+))
+(;B[qh];W[ng];B[pg];W[nh];B[nf]C[M: Looks much better doesn't it?]
+))
+(;B[oh];W[rh];B[ri]C[Paul: This would have been better... White was convinced he could make life in here when we talked about the game later.  I doubt it... I would have come in from q16 to keep him from forming Me.
+
+M: You are correct, White cannot make life here unless you make a mistake.]
+;W[rf];B[rd];W[qe];B[qc]))
+(;B[dq];W[cp];B[co];W[bo];B[cn];W[cr];B[ds];W[ar];B[hq]C[M: White's group is dead at F2, and white's other group is still very weak]
+))
+(;B[oo];W[np];B[po]C[M: This sequence keeps white's group weak and attacks the lone white stone at the same time.  It also keeps open the possibility of capturing a stone at O2 later.]
+))
+(;B[np];W[mp];B[no];W[oq];B[pq]TR[jq]SQ[qn]C[M: Notice how the black stone at K3 is positioned to disturb white's eye space, but white's stone aims at cutting the black stones, so black must be aware of this.]
+))

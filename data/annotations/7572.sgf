@@ -1,0 +1,225 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.17]
+
+PB[GoThicker]
+BR[5k]
+PW[RickMott]
+WR[5k]
+KM[6.5]
+DT[2009-12-11]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[B+18.5]
+TM[1200]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+C[Dear Reviewer:
+
+There's a "click-o" at move 32;  I hit the mouse button while moving the cursor out of the way.  There may be many other moves which make no sense, but they were intentional.  I found some obvious (in retrospect) blunders, but there were probably many more.
+
+I am most interested in fixing direction-of-play problems and fuseki mistakes in my game.
+
+Thanks in advance for your time and effort!
+
+     Rick Mott
+
+
+
+Dear Rick:
+
+My name is Adrien, I am around 1k on kgs, I'll try to do my best. 
+
+I hope my comments can be usefull =)
+
+From what I saw, I'd say black took a small lead in the fuseki, and then triggered a ko and lived inside -your- territory. You could greatly improve by trying to find ideas before playing a move. This sgf didn't include how much time you spent at each move, but I'm quite sure you could spend more time reading. For instance, ask yourself how much time you took to play n4, or the vital point of b17. (maybe I'm wrong, but from your endgame moves like s17, it was the impression I got. Furthremore, it never hurt anyone to read more =D)
+
+please contact me if you have any questions !];B[pd]C[RickMott [5k\]: Hi, nice to meet you. :)]
+(;W[cp]C[GoThicker [5k\]: HI];B[pq];W[dc];B[eq];W[dn];B[gp]
+(;W[cf]C[RM: Completely unsure what's the biggest move at this point.  This almost certainly wasn't it...
+
+comment:
+  hmm, to help you see what my reasoning here is, I added a very common opening pattern at the beginning of the file : the kobayashi opening. Here it is a very similar situation, the shimari at r5 is huge for black]
+;B[jq]C[RM: But this seems small also.
+comment : yeah, it's the wrong direction. In general, everyone wants to play in the direction of the komokus (like you did at c14, which was ok with regard to d17, at least)]
+(;W[nc];B[lc];W[qc];B[pc];W[qd]
+(;B[pe]
+(;W[qe]C[comment:
+I haven't found this on any joseki site, so all my comment about it will be based on my reading or my intuitions =D
+There are two possibilities here :
+ -black plays r14 and you're forced to play like you did :
+   this means this variation is really weaker than the joseki (q18) because you'll be forced on 2nd line
+- black plays r14 but there is a way for white to stay on the 3rd line or to start a good fight, maybe by cutting.]
+;B[qf]C[comment:
+if you answer this on the second line, you really lose something, so after r14, I would feel like playing r13 or q14 or r18 (like in the famous punition where black player r15 instead of q15). The problem is that those black stones are quite strong, so there might be nothing extraordinary about those moves, but they're just about fighting spirit. I don't wanna go on the floor (2nd line) =)]
+;W[rf];B[qg];W[rg];B[qh];W[pb];B[ob];W[qb];B[oc];W[hc]C[RM: Maybe a line further at J17?  Better ideas?  I wanted to limit the effectiveness of the wall.
+comment:
+better here than at j17, you'd be too close from the wall if you got to j17. But the problem is that black has a huge moyo on the bottom. if he were to play q5 or r5, you'd be in trouble. (oh, and he did)]
+;B[qo]
+(;W[kd]C[comment:
+this is a very good local move.];B[kc];W[jd];B[ld];W[pg]C[RM: Clicko.  Did not mean to play this, but conditions were no undo.]
+;B[og]C[RM: But he responded anyway.];W[le];B[me];W[lf]C[RM: Felt happy about the upper right at this point.
+comment:
+indeed, the upper right is locally very good for you.];B[ck]
+;W[ci]C[comment:
+Ah, this is good for white, black will have to run and it will ease white's entry in b's moyo + white will probably make a lot of territory]
+;B[di];W[dh];B[dj];W[dq]C[RM: Too soon to worry about this?  E12 better?
+comment:
+e12 is huge... the question is : can he ignore your e12 and play in the corner (c3) ? I don't think it would be good for him ; his group would be quite weak. So no, I woulnd't play d3 yet.]
+;B[dr];W[cr];B[dp];W[cq];B[do];W[co];B[en]
+(;W[dm];B[em]C[comment:
+ouch !]
+(;W[mp]C[RM: Direction of play again.  Not sure how to deal with black moyo...
+
+comment:
+ouch, this looks bad. it's not a question of direction of play, I think. first of all, I don't see the action on the left as finished. black d8 would make two hane at the head of two stones (a bad shape for white and somewhat connect his stones. (He won't do that now, of course, n4 is much bigger to attack. The move in itself doesn't look very efficient. It looks like it will give black more territory instead of reducing him.]
+;B[mn];W[ip];B[kp];W[in];B[il];W[ko];B[jo];W[jp];B[lo];W[kq]
+;B[kn];W[iq];B[lq];W[kr];B[lr];W[jr];B[lp];W[gr]C[RM: Alive but gote.]
+;B[io];W[eo]C[RM: Mistake.  Invade the right at R10 instead?
+comment, no this looks ok, if your goal is to cut the d10 stones off.]
+;B[ep];W[fo];B[gn];W[el];B[gm];W[fl]C[RM: Thinko.   D9 looks much better.  Got fixated on making use of the two F5 stones.]
+;B[gj];W[gl];B[dl]C[RM: The stones lived, but it wasn't my fault...]
+;W[cl];B[dk];W[hm];B[hn];W[hk];B[hl];W[gk];B[ii]C[RM: Black thinks this captures?  It doesn't.
+comment:
+it's a good shape, not intended to capture. I don't think there are many other good moves for black here.]
+;W[ik];B[jl];W[jk];B[kk];W[ji]
+(;B[kj];W[jj];B[ih];W[fj];B[fi];W[gi];B[gh];W[ei]C[RM: Try to separate Black.]
+;B[fh];W[eh];B[jf];W[cm]C[RM: Maybe wrong direction.  Should have chased top group with something like L13.   Couldn't read out to kill, though.
+comment:
+ok, I actually like c7 (but you should read for yourself if it was really necessary, (I can't help you with life and death, it would be usefull to you)) as for the center group : even though it might not die, you -should- be able to get into black's territory by attacking it. I don't think it can find life in your moyo.]
+;B[kg]
+(;W[ki];B[lg];W[mi]C[RM: I decide to try to break into black's moyo.]
+;B[mg];W[lj];B[nk];W[kl];B[jm];W[oi];B[qj];W[ph];B[pi];W[pj]
+;B[qi];W[oj];B[pl];W[ok];B[ol];W[nl];B[nm];W[ml]C[comment:
+Well, you broke quite far, you should be winning here.];B[db]
+(;W[cb]C[RM: Mistake?  Just extend to C17?
+
+comment:
+honestly, I can't pretend I know the answer to that one, sorry. There is a lot of aji pushing black toward h17 though... so I'd try to get ko in the corner by playing e18 here.]
+;B[cc];W[eb]C[comment:
+good direction];B[dd];W[ec]C[RM: Worried about top group.];B[bb]
+(;W[da]C[RM: Missed the sequence in the variation.  Much better.]
+;B[ce]
+(;W[bc]C[comment:
+this looks risky];B[bd];W[cd]C[RM: Black won the ko fight eventually.]
+;B[ej]
+(;W[fk];B[cc];W[fn];B[fm];W[cd];B[bn];W[cn];B[cc]
+(;W[go];B[ho];W[cd];B[hr];W[hq];B[cc];W[ig];B[ac]C[comment:
+now this game is very good for black.];W[if]C[RM: Horrible mistake.  Meant to cut at K12.  Still playable if I get white's F12 group.]
+;B[fe];W[ef];B[ee];W[ff]C[RM: Still could have cut with K12.]
+;B[jh];W[ls];B[ms];W[ks];B[mr];W[fq];B[fp];W[er];B[gq];W[fr]
+;B[gd];W[gc];B[ie];W[id];B[ib];W[he];B[je]
+(;W[ke]C[RM: Bad again.  Poke with K13.  I win something...]
+;B[hd];W[ic];B[hf];W[hg];B[gf];W[gg];B[ge]
+(;W[jg]C[RM; Brain fade.  I even know how this one happened; before white captured H15, this was atari.  Now it's not.
+comment:
+Even in the other order, I don't get the idea of this =), you 'll end up with less liberties for your group and black won't lose anything. (he's alive in top left corner, right ?
+
+Pay attention to moves like these, it's really those one that drag us all down.]
+(;B[fg];W[eg];B[hi];W[mf];B[ne];W[bf];B[ba];W[jb];B[kb];W[ja]
+;B[ka];W[hb];B[jc];W[ia];B[rh]
+(;W[re]C[comment:
+???
+why did you do that ?];B[oh];W[nh];B[ng];W[nf];B[ae];W[af];B[df]
+;W[ch];B[ll];W[lk];B[lm];W[mk]C[RM: By now the game is settled, and I've lost.]
+;B[mh];W[nj];B[sg];W[sd]C[comment:
+this move feels a bit paranoid !! =D (not that it's a bad thing, but you just don't need to be that carefull if you still have some time, just read that t14 works, it's a much better yose ( t13 sucks, though)]
+;B[of];W[oa];B[na];W[pa];B[nb];W[pk];B[qk];W[ca];B[sf]
+(;W[rc]C[comment:
+you have to be carefull about those move, it's really gote and unnecessary]
+;B[fc];W[ed];B[fd];W[fb];B[be];W[dg];B[de];W[hj];B[gi];W[kh]
+;B[lh];W[li];B[ni];W[kk];B[nh];W[mm];B[on];W[km];B[ln];W[se]
+;B[sh];W[ir];B[tt];W[kf];B[hh];W[tt];B[tt]TW[ea][fa][ga][ha]
+[qa][ra][sa][db][gb][ib][rb][sb][sc][rd][ag][bg][cg][ah][bh]
+[ai][bi][di][aj][bj][cj][dj][ej][kj][mj][ak][bk][ck][dk][ek]
+[nk][al][bl][dl][am][bm][an][bn][ao][bo][ap][bp][aq][bq][jq]
+[ar][br][dr][hr][as][bs][cs][ds][es][fs][gs][hs][is][js]TB[aa]
+[la][ma][ab][lb][mb][bc][mc][nc][ad][cd][md][nd][od][he][oe]
+[if][pf][gg][hg][ig][jg][pg][ph][ri][si][rj][sj][rk][sk][ql]
+[rl][sl][hm][im][om][pm][qm][rm][sm][fn][in][jn][nn][pn][qn]
+[rn][sn][eo][fo][go][ko][mo][no][oo][po][ro][so][mp][np][op]
+[pp][qp][rp][sp][mq][nq][oq][qq][rq][sq][nr][or][pr][qr][rr]
+[sr][ns][os][ps][qs][rs][ss])
+(;W[se]
+(;B[rc];W[rb])
+(;B[rb];W[rc])
+(;B[sb];W[rc])
+(;B[sc];W[rc])
+(;B[sa];W[rc])
+(;B[ra];W[rc])))
+(;W[oh]))
+(;B[kh]C[comment:
+what did white get ? it'll be gote anyways.];W[fg];B[hh]
+(;W[df])
+(;W[tt];B[df];W[eg];B[ch]C[comment:
+it'll be gote anyways])))
+(;W[fg];B[hi];W[df];B[bf];W[bg];B[ag];W[bh];B[ah];W[ai];B[af]
+;W[jb]C[RM: If this line, I think I am ahead.]))
+(;W[jg];B[kh]C[RM: I get the center group if he connects the other way.]
+;W[kf]C[RM: Not huge, but better.]))
+(;W[ho]C[comment:
+ko threat style: maybe you want to save h5 in the end, this might potentially lose less points than g5, which you lose at all rate if black answers the threat (it's just a detail)]
+;B[go]))
+(;W[hj]C[comment:
+I know this gives one more ko threat, but I would really consider playing it, because the k12 cut is still here, and you might capture the 3 stones at f12 with h10. (but maybe I'm wrong here, I'm not sure at all)]
+;B[cc]))
+(;W[bd]C[comment:
+
+What about this ? 
+The fight after this is very muddy, I can't read it correctly, nor would it help you that I did =D. 
+
+Just a few hint : you can try to kill the whole by playing around k12 to cut everything, that could work if black get out eyeless. You must also be carefull about you e10 stones because they can be cut. On the other hand, if b cuts, you capture h10 and you get some pressure move against f12 3 stones.]
+)
+(;W[ff]))
+(;W[cd];B[ca];W[bd];B[bc]C[RM: Forced, correct?];W[ee]C[RM: Think white has reasonable chances this way.]
+))
+(;W[eb];B[ec];W[fb];B[cc];W[dd];B[cd];W[ce];B[bb];W[da];B[ca]
+;W[cb]C[comment:
+ko ?]))
+(;W[mh]))
+(;B[gh];W[jh];B[gf]C[comment:
+black could have profited like this]))
+(;W[el];B[fl]
+(;W[ek])
+(;W[fk]
+(;B[dl];W[ek];B[gl];W[fi];B[cn];W[cm];B[bn];W[bm])
+(;B[ek];W[dl];B[gl];W[fj]C[b sacrifying his stones doesn't look that bad]
+;B[ql];W[er];B[fq]
+(;W[oo]C[comment:
+I think there would still be room for reduction (carefull though, this is really hard to play, you'd have to be very light and not be greedy]
+)
+(;W[ll]C[comment:
+this might be enough to win];B[ln])))))
+(;W[em]C[comment:
+did you consider this double hane ? The corner is safe (can always live with e2 or a simple block at b6 if b ataris)]
+(;B[cn];W[dm];B[cm];W[eo];B[ep];W[fn];B[bo];W[bp];B[bn];W[er]
+;B[fr];W[ds]
+(;B[fq];W[bl];B[cl];W[bk])
+(;B[bj];W[gr]C[good for white ?];B[fq];W[fs];B[gq];W[hr]))
+(;B[fn];W[dm];B[eh];W[dg];B[fj];W[eg];B[fh];W[gf])
+(;B[dm];W[cn];B[fn];W[dl];B[cm];W[fm]
+(;B[gn];W[cl];B[bm];W[bl])
+(;B[cl];W[gn];B[fo];W[go];B[fp];W[gl]C[this looks quite ok for white too]
+;B[hm];W[gm];B[fj]))))
+(;W[oo]C[comment:
+you can also come in and reduce black right away, the game is still even at this point, the problem is that you only have the upper right corner as certain territory, and black only has to play things like r8 or n3 to get a lot. not reducing him right away will make the game harder on white]
+))
+(;W[pb]C[comment:
+This is joseki];B[ob];W[qb];B[oc];W[qf]C[white gets out and black is almost forced to add a move at j17, otherwise w k17, wl16 or such are going to hurt him too much (because white can always fight with w018,bo19,wn19,bp19,wn17 if there is support)]
+;B[ic]))
+(;B[qe]C[(I talk about punishig this a little later, just included it in case you didn't know it)]
+;W[qb];B[pb];W[pe];B[qf];W[od];B[nb];W[ob]))
+(;W[qn]C[Again I'd prefer avoiding a black corner enclosure (by the way, if r6 seems weird to you, know that playing q5 or r5 won't get you into -that- much trouble, it's juste slightly less good)]
+))
+(;W[qn]C[comment:
+Here I would prefer to approach here (I don't play r5 or q5 because the pincer would be too good for black, see my note about kobayashi fuseki) 
+Black has a lot of choices here, so I can't show all, look for them at http://fuseki.info/fuseki.php?demo=1&f=full&sb=full for instance.)]
+(;B[po];W[rp];B[ql];W[pn];B[qo];W[ro];B[qq])
+(;B[qp];W[qk];B[np])))
+(;W[dp]C[comment:
+I added this because I talk about it in my comments later];B[pq]
+;W[dd];B[fq];W[dn];B[jp];W[qn]C[classical opening pattern : kobayashi
+
+white approaches the black komoku because a shimari there would be too painfull. White should normally not play r5 or q5 though, as the pincer is very hard to handle and seems to give black a better position. (You can learn more about this opening here : 
+http://www.msoworld.com/mindzine/news/orient/go/learn/side_cm18.html
+or here : 
+http://senseis.xmp.net/?KobayashiFuseki
+)]))

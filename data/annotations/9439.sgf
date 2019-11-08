@@ -1,0 +1,210 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.16]
+
+GN[Nobones-Somnibus-900632-20140517]
+PB[Eric Hanscom (Somnibus)]
+BR[16k]
+PW[Dave (Nobones)]
+WR[8k]
+KM[7.5]
+DT[2014-05-14,2014-05-17]
+PC[Dragon Go Server: http://www.dragongoserver.net/]
+RE[W+Resign]
+RU[Japanese]
+SO[http://www.dragongoserver.net/game.php?gid=900632]
+GC[Game ID: 900632
+Game Type: GO (1:1)
+Rated: Y
+
+White Start Rating: 8k (+4%) - ELO 1304
+Black Start Rating: 16k (-47%) - ELO 453
+White End Rating: 8k (+6%) - ELO 1305
+Black End Rating: 16k (-48%) - ELO 452]
+
+C[Hi Eric,
+
+I am Miguel Araújo (KGS/OGS 3k) and I will be reviewing your game, I hope I can give you a few useful comments and insights. I will surround my comments in square brackets [ \].
+
+Your ranks in the SGF are shown as 8k and 16k so I'm not really sure to what level I should direct this review. Feel free to email me any questions you might have. You can find a short summary at the end.
+
+Miguel];B[pd];W[dq];B[qp]C[I typically would play q3 for a Chinese or Kobiyashi opening but a recent reviewer suggested this was better as the shimari will face my 4-4 stone.
+
+
+[Both work, the Chinese is consistently played by top pros for a reason. However, I do think there is value in trying new moves so that you face new situations playing both white and black.\]]
+;W[dd];B[oq]C[[In case you want to study it, this is called the Orthodox Fuseki\]]
+;W[co]LB[qf:B][dj:C][qj:A]C[[The split around A or the approach at B are more common.
+
+That's because black's shimari faces his corner stone and the right side can become very big. A move around A for black is bigger than a move around C for white now.\]]
+
+(;B[fc]LB[pj:A]C[[Black should play at A, the move white wants to avoid when he splits on the right. This move is possible as well.\]]
+;W[ic]C[[The 2-space low pincer is strange, the 1-space low or 2-space high are more common.\]]
+
+(;B[cg]LB[cc:A][ff:B]C[Jumping to f14 would provoke white to take 4th line territory. Settling with a 3-3 invasion would give him thickness. So I chose this move instead.
+
+[You explained why you didn't like A and B but didn't say what you were trying to achieve with C13.
+If you want to double pincer, have you considered C14 instead?\]]
+;W[dc]SQ[fc]C[I did not like this move, but didn't know how to respond to black's counter-pincer. Seems too slow and thick.
+
+[ I don't like D17, it doesn't capture F17 and it doesn't give white the corner. Black can probably just tenuki here. \]]
+
+(;B[ff];W[cf];B[df];W[ce];B[dg];W[fd];B[gd];W[gc];B[ed];W[fe]
+;B[ge];W[ee]
+(;B[de];W[ec];B[hc]C[I considered f18 and e14 but I didn't want to miss my chance to block white's growth on the top.]
+;W[fb];B[pj]C[[ I'm afraid black is too thin on the top. \]]
+
+(;W[jq];B[hb]
+(;W[id]C[This was probably a mistake. Too slow. Should have focused on reducing the right side.]
+;B[gb]
+(;W[fc]C[[ Is G17 that important? \]];B[mc]SQ[gb][hb][hc]C[[ No! Don't let him capture H17! \]]
+;W[hd]
+(;B[mj]C[Ultimately I was unsure if I should play this and build huge moyo or extend off of my thickness on the left side. I was trying to apply the proverb about not playing near thickness and also the one that says you shouldn't use thickness to take territory so I went with the moyo strategy.
+
+[ I'm unsure, fixing black's thickness seems very big to me. \]]
+;W[qj]C[I played this not knowing what was going to come of it. I just knew I had to do something on the right side and didn't know where to start.]
+;B[qk];W[pk];B[ql];W[qi];B[pi];W[qh]LB[pk:A][ql:B]SQ[rk]C[[ White traded A for B for free, now he can't hane at S9 in sente. \]]
+
+(;B[jb]C[Here I change tactics and decide to use the 3 stones as a sacrifice in order to keep sente and secure the corner more before blocking white's stones on the right side.]
+;W[ib];B[ia];W[ha];B[ja];W[ga]SQ[ia][ja][jb]C[[ This looked like aji-keshi to me. Black's influence from the approach is weaker and weaker in exchange for two moves on the right. You don't need the marked group to attack white at all. \]]
+;B[qf];W[ph];B[cp]C[I've been reading about probes recently and decided to experiment here. I thought now was a good time to see how white wanted to develop the corner, before progressing with the game.]
+
+(;W[dp];B[bo];W[cn]C[White's move here surprised me as I expected b4. I decide to take the corner here while I have the chance but white's new thickness that he gets is a thorn in my moyo's side.]
+;B[cq];W[cr]C[I chose this sequence in order to build a wall facing the center rather than taking the corner earlier with b4 and allowing black to build territory on the middle left and have even more influence in the center.]
+;B[br];W[bq];B[bp];W[bs];B[aq];W[dr];B[bn];W[cm];B[ck];W[jo]
+;B[ol]C[[ I don't understand the point of this move, did both players miss the ladder? \]]
+;W[nh]C[[ Apparently yes \]];B[og];W[oh];B[ok];W[ng];B[jm]C[[ I don't understand this move, it doesn't threaten anything and I can't see where it is building territory. \]]
+;W[hn]
+(;B[el];W[kh]C[[ Yes, this group needs had to be saved. White should also start thinking about the left before black solidified his wall. \]]
+;B[en];W[eo];B[hl];W[gf]C[This move by white was painful. I hate to say that I didn't see it coming. In my blind spot I guess.]
+
+(;B[lg];W[lh];B[lf]C[I am trying to get some free moves as ladder breaker threats here.]
+;W[jg];B[gg];W[hf];B[fh]SQ[lf][lg]C[[ Black comes back after all, the 2 black stones seem meaningless now. \]]
+;W[ne];B[of];W[nf]
+(;B[nd]C[[ Bad habit. \]];W[oe];B[pe];W[od];B[oc];W[md];B[nc]
+;W[ld]C[[ And now they are cleanly captured, white did a good job. \]]
+;B[lc];W[pm]TR[kc]C[This was probably a mistake. I should have played L16 to ensure life for my group. I was worried that if I played L16 it would be a gote move that would allow black to expand on the bottom right somewhere on the "M" line.
+
+[ You don't need L16 to live, your move at L17 was the mistake. See the variation later. \]]
+;B[pl];W[mo];B[on];W[nm];B[nn]C[[ Good spirit. \]];W[mn];B[mm]
+;W[lm];B[ml];W[nq];B[op];W[nr];B[kd]
+(;W[kc]C[[ This was the mistake. \]];B[me];W[jd];B[ke];W[lb]
+;B[mb];W[kb];B[if]TR[ko][lo][kp][lp][mp][kq][lq][mq][kr][lr]
+[mr][ks][ls][ms]C[This move is the start of my attack on white's eyeless group on the right and center. in retrospect I probably should have just played conservatively but I'm weak in endgame and I wanted a bigger lead.
+
+[ The game is closer than before (white got the marked region), attacking here is the safest route. \]]
+;W[hg];B[ig];W[ih];B[hh];W[he];B[jf]C[This sequence by black that cut off my group was really bad for me. I am already behind in points and now I have to struggle to try to live.
+
+[ Yes, the situation is dire for white now, it will be difficult to make 2 eyes. \]]
+;W[hi];B[gh];W[ji];B[ij];W[ii]
+(;B[kg];W[kk];B[ll];W[lj];B[mi];W[mh]
+(;B[jk]TR[jj]C[[ You clearly saw that this was a mistake as K10 is sente now. \]]
+;W[jj];B[ik];W[li]C[[ White found the right continuation. \]]
+;B[lk];W[kj];B[si]C[[ This move doesn't avoid the 2nd eye, aren't there alternatives that give black more points on the side? \]]
+;W[pf];B[pg];W[qg];B[pf];W[rf];B[re];W[sg];B[rj];W[sh]C[Failure. But it's still close, and I figure I might still be able to pull this one off if I reduce him a bit.
+ 
+[ Black is ahead with normal endgame. \]];B[gn];W[go];B[fo]
+;W[fp];B[fn];W[ho];B[hm]
+(;W[pr]C[Black is ahead by 20 points or so. I need to make something happen in the corner.
+
+[ I agree that black is ahead, but White can greatly reduce the left side territory. \]]
+;B[qr];W[qs];B[or];W[rr]
+(;B[rq];W[qq];B[pq]C[This ko ends up being humongous.
+
+[ White finds another KO (see variation at move 162), but Black didn't have to play this one. \]]
+;W[rp];B[qr];W[pc];B[qc];W[qq];B[sq];W[sp];B[qr];W[qd];B[pb]
+;W[qq];B[rg];W[sf];B[qr];W[qe];B[rd];W[qq];B[se];W[rh];B[qr]
+;W[ej]C[I was out of big ko threats and knew that I would lose the ko. I played here just hoping to reduce black's territory a bit. I didn't know it would turn out as big as it did.
+
+
+
+[ You could activate the left KO now, it would be just as big. \]]
+;B[ps];W[gj];B[gi]C[Here I'm counting on being able to cut at either h10 or f10 to isolate white's last 2 moves and still live by connecting to a living group.]
+;W[eh]C[[ Nice move. \]];B[hj];W[fi]C[I think if black just gives up the 5 stones and connects at C11 the game is still close.
+
+[ Close, but reversed. \]]
+(;B[fg];W[ci];B[di];W[dh];B[dj];W[ef];B[tt]C[Result: W+Resign
+Though I lost I felt really good about. this game and I think it's a marked improvment over my typical territorial style.
+
+
+[ 
+I felt this game was very hard to review right from the start, so let me apologize for a few long stretches without comments. That was partly because I was confused with your ranks, I couldn't see black as a 16k during this game. There were also a couple of invasions/probes I decided not to comment as I'm never sure what the correct play is myself. Furthermore, the game actually jumped to the endgame quite early - boundaries are very well defined by move 100, we can already see them by move 80 or so. 
+
+Black lead most of the game but his comments were not very confident. As this was a 2 days game, my guess is that he didn't step down and assessed the situation often enough. White knew he was behind and planned a comeback - that's important - but black wouldn't have played the KO in the bottom right if he knew better.
+
+I pointed the 2 biggest mistakes during the game:
+- White's missed ladder would lead to a whole different game, favorable to white.
+- Black missed killing the big dragon, that would have sealed it. 
+
+I hope you find this review useful. Please don't hesitate to email me any questions you might have.
+
+Cheers!
+Miguel
+\]])
+(;B[ci];W[fg];B[bl]))
+(;B[qq];W[os];B[rq]C[[ Simple for black. \]]))
+(;W[bm]
+(;B[ar];W[bk];B[bj];W[cl];B[dk];W[aj];B[ai];W[ak];B[bi])
+(;B[bk]C[[ If black doesn't protect the corner directly or undirectly.. \]]
+;W[ar]C[[ .. white can fight this KO. This might be the best option for black as he has more threats than white. White will get a handful of points in compensation elsewhere. \]]
+;B[as];W[se]C[[ There are a few threats here. \]])
+(;B[bl];W[al];B[ak];W[am];B[ar];W[cl];B[bk];W[dk];B[dl];W[ej]
+
+(;B[gj];W[cj])
+(;B[dj];W[ek];B[di];W[gj]))))
+(;B[jj]TR[fl][gl][il][jl][kl]C[[ Black is thin but I couldn't find a way for white to escape. \]]
+))
+(;B[lj]C[[ This seems the simplest move because L13 isn't enough to make an eye and there is only one eye on the right. \]]
+;W[kg];B[ki];W[pf];B[pg];W[qg];B[pf];W[rf];B[re];W[sg];B[rj]
+;W[ri];B[rk]))
+(;W[ke]SQ[lf][lg]C[[ Black can't attack white now because M14 is clearly dead. \]]
+))
+(;B[nc];W[oe];B[pe]C[[ Simpler \]]))
+(;B[gg];W[hf];B[fg]C[[ Are the 2 stones that important? Black is comfortably ahead in territory. \]]
+))
+(;B[lf]SQ[jm]C[[ What about attacking the big group without eyes? K7 might be useful now. \]]
+))
+(;W[oj]C[[ Black tenuki'd in the middle of the fight? Great, I'll just capture this 2 stones in a ladder right in the middle of the moyo he worked so hard to build. \]]
+;B[oi];W[ni];B[oh];W[og];B[nh];W[mh];B[ng];W[nf];B[mg];W[lg]
+;B[mf];W[me];B[lf];W[kf];B[le];W[ld];B[ke];W[je];B[kd];W[kc]
+))
+(;B[ib];W[jb];B[jc];W[kb];B[jd];W[hf];B[gf];W[if]C[[ The 3 black stones were already dead because this doesn't work. \]]
+))
+(;B[gg]C[[ This fixes both cuts. \]]))
+(;W[hd]C[[ I'm not sure what's the best move, but white should at least consider fighting the KO. Having J16 disconnected without a base is bad. \]]
+)
+(;W[md]))
+(;W[hd]TR[ef][gf]C[[ Cutting here is better because of the marked cuts, black can't cross cut here. \]]
+))
+(;W[hd];B[he];W[id];B[gg]C[[ Black's influence doesn't seem very useful because of white's shimari in the bottom left. \]]
+)
+(;W[ef];B[eg];W[fg];B[gf];W[fh]C[[ This would be painful as well. \]]
+;B[dj];W[ig]))
+(;B[hc];W[gb]
+(;B[de]C[[ Why atari here? The cut at C16 it not important now. \]]
+;W[ec];B[hb];W[fb];B[id]TR[hc]SQ[fc]C[[ Similar but better than the result in the game? The trick is to use the stone at F17 to atari and force white to descend before cutting at D15. 
+Also see the other variation. \]])
+(;B[ef]
+(;W[de]C[[ If white connects.. \]];B[hb];W[fb];B[id]C[[ Black has a very thick outside. \]]
+)
+(;W[ec];B[hb];W[fb];B[id]LB[de:B][ef:A]C[[ Similar as well, A is more useful than B. \]]
+))))
+(;B[cj]C[[ White needs to capture F16 or black can go for a splitting atack, but it doesn't seem easy because J17 is too far from F17. \]]
+;W[lc]C[[ This might be white's best option because black can't split immediately \]]
+
+(;B[fe];W[df];B[ie])
+(;B[pj])))
+(;B[cc];W[dc];B[cd];W[de];B[db];W[eb];B[cb];W[ec];B[cf]
+(;W[fd]TR[ic]SQ[hc]C[[This is simple and white would prefer the triangled stone to be at H17 instead.\]]
+)
+(;W[nc];B[qf];W[pb];B[qc];W[ld]TR[fc]C[[ White could try developing like this but black's stone isn't dead yet.\]]
+))
+(;B[cf]C[[There are too many variations to list here, I've added 2 in which black somehow nullifies white thickness as you seem to want to avoid that.\]]
+
+(;W[fd]
+(;B[cc];W[cd];B[dc];W[ec];B[eb];W[ed];B[fb];W[hd];B[ci]C[[ White's influence is nullified by black's 2 space extension, in exchange for a week corner. \]]
+)
+(;B[gd];W[gc];B[ed];W[fe];B[ec];W[ee];B[gb];W[hc];B[dc];W[ce]
+;B[cc];W[df]C[[ This is an alternative, but you didn't want to give him thickness..  \]]
+))
+(;W[ee];B[cc];W[dc];B[cd];W[gd]C[[ This is another simple possibility, it doesn't give much territory or thickness, but black doesn't get much either. \]]
+)))
+(;B[pj]LB[nc:B][jq:A]C[[Black's framework is "deeper" than white's. In this situation, white would probably continue with A or B.\]]
+))

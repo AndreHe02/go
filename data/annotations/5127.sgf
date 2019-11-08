@@ -1,0 +1,203 @@
+(;FF[4]GM[1]SZ[9]ST[1]CA[UTF-8]AP[SGFC:1.15]
+
+PB[enpi]
+PW[MarkW]
+WR[30k]
+KM[6.5]
+DT[2006-05-23]
+PC[The Kiseido Go Server (KGS) at http://kgs.kiseido.com/]
+RE[B+25.5]
+TM[1650]
+
+C[enpi [?\]: You're new to Go?];B[ee]C[MarkW [?\]: hi, yes.
+enpi [?\]: Hi. I've been playing for about 7 years.];W[gg]C[MarkW [?\]: nice :)
+enpi [?\]: Try to encircle large spaces, and don't let me in. Like that bottom right corner. Don't let me in there.]
+;B[ge];W[gc]C[MarkW [?\]: ok
+MarkW [?\]: A friend explained a little earlyer.
+enpi [?\]: One good idea with 9x9 go is to make two groups with White. Black normally wins if there's only one White group. The trick, then is to keep them both alive :)]
+;B[hf]C[MarkW [?\]: alright];W[hg]C[enpi [?\]: It's also better to play where there is more space, unless you are attacking. And you can only attack when you have a local advantage (more stones in the general area).
+enpi [?\]: So g7 probably should have been on the left side, where there is more space.
+MarkW [?\]: ok];B[eg];W[cg]C[enpi [?\]: Now you seem to be trying to make three groups, so it is unlikely they'll all live.
+MarkW [?\]: oops.
+MarkW [?\]: thanks.];B[fg];W[fh];B[eh];W[ff]C[enpi [?\]: One important skill in Go is to be continously thinking about what you can *threaten* to do, and what it will achieve.
+enpi [?\]: There's no point threatening to do something unless it achieves something.
+enpi [?\]: But if you'd played g4 instead of f4, you'd have been threatening to capture h4 with a play at h5.
+MarkW [?\]: k];B[gf]C[enpi [?\]: Then when I defended against that, you could play f4 and be connected back to g4. This way, I cut.
+enpi [?\]: So my move has both removed your threat, and cut off your stone.]
+;W[df];B[ef];W[if]C[enpi [?\]: That sort of move (d4) is good, because I must respond, and more importantly, you have achieved something. In this case, you expanded your space on the left side (a little bit).]
+;B[hd]C[enpi [?\]: j4 wasn't so good, because your stones in the bottom right are already dead, and you have given me an opportunity to attack g7 while still keeping them dead.
+enpi [?\]: Hi to everyone else who's watching, too :)
+enpi [?\]: I hope you're all participating.];W[fd];B[fe]C[fjfaase [30k?\]: White stands no change to win.
+enpi [?\]: Good, another forcing move (that's what they're called).]
+;W[hc]C[fjfaase [30k?\]: e6];B[id];W[ib]C[enpi [?\]: And again, because you threatened to play j6 and make a ko for connection to the lower right (after a Black play at j5).]
+;B[ce]C[MarkW [?\]: "ko"?
+enpi [?\]: Ko is where you aren't allowed to keep capturing each other forever - where it would just repeat.]
+;W[dd]C[enpi [?\]: Do you know that rule?];B[de]C[MarkW [?\]: i think i saw something on it
+MarkW [?\]: sort of a loop];W[bd]C[enpi [?\]: If I capture a stone, you can't play that stone bach to capture mine. That's the rule.
+enpi [?\]: Yeah, it's a loop thing, from a scientific point of view.]
+;B[ed]C[enpi [?\]: It's one of the hardest parts of playing good go, correctly handling kos.]
+;W[cc]C[enpi [?\]: The reason is that if you're not allowed to capture a stone of mine because of ko, you *are* allowed to make a move elsewhere that threatens me (like d4 and f6 did),
+fjfaase [30k?\]: c-7 is not good, I think
+enpi [?\]: And then when I respond, you *are* allowed to capture my ko stone again, because now it's a new board position.]
+;B[ec]C[fjfaase [30k?\]: Yes, I would also have played e-7.
+fjfaase [30k?\]: e-7 might also have been possible];W[eb]C[enpi [?\]: So these ko fights can last a long time - each time a player isn't allowed to capture, he makes a move somewhere else that so needs to be responded to
+fjfaase [30k?\]: I means d-7];B[fb]C[enpi [?\]: that the other player can't ignore it to finish the ko fight.]
+;W[fa];B[fc];W[be]C[fjfaase [30k?\]: b-5 is a good move!
+enpi [?\]: So ko fights can last a very long time, until one player can no longer make any serious threatening moves.]
+;B[cd];W[ei];B[dh];W[dc]C[enpi [?\]: Although all of that only counts if the ko is meaningful, like if winning it means you can connect two groups, to save a dead one for example.
+enpi [?\]: It's obviously not worthing fighting over just the two stones involved in the ko.
+fjfaase [30k?\]: As a beginning player, ko-fights are better to be avoided, I think]
+;B[bf];W[af]C[enpi [?\]: But the possible ko on the right (if you'd been able to play j6) would have been the kind worth fighting over.]
+;B[bg];W[bh]C[enpi [?\]: That's a move well beyond your rank.
+MarkW [?\]: how so?
+enpi [?\]: I can't play a3 to cut it off, because you would capture with c4. Very tricky.
+enpi [?\]: So I'll be tricky too.]
+(;B[bc]C[enpi [?\]: MarkW, fjfaase, can you see what my move achieves?
+MarkW [?\]: you are threatening the c7 and b6 areas?
+Dimyur [?\]: The whole corner i'd say %)
+enpi [?\]: Sort of. White can capture this stone with b8. But it's still worth having, because it means I can play a3. Can you see why?
+MarkW [?\]: not sure
+enpi [?\]: If I'd played a3, it would have gone like this:
+enpi [?\]: White c4, Black a5 (capture)
+enpi [?\]: White a2 (atari)
+enpi [?\]: And that atari would have been inescapable.
+enpi [?\]: That's a hint.
+MarkW [?\]: ok, i think i understand
+enpi [?\]: I'll show you, and then we can go back and play different.y]
+)
+(;B[ag];W[cf]C[enpi [?\]: Go for it. Play atari (threat to capture).]
+;B[ae]C[enpi [?\]: And again.
+enpi [?\]: A2.];W[ah]C[enpi [?\]: Right. Now my stones can't escape.
+enpi [?\]: A6.];B[af];W[ad]C[MarkW [?\]: alright])
+(;B[bc];W[bb]C[enpi [?\]: Now I'm threatening both c7, to capture three stones, and a6, to capture two. You need to play b8 to stop me.
+enpi [?\]: Right.]
+(;B[ag]C[enpi [?\]: Now try.
+enpi [?\]: c4];W[cf];B[ae]C[enpi [?\]: a2];W[ah];B[ad]C[enpi [?\]: And I can capture your stones isntead.
+enpi [?\]: The exchange of b7 for b8 removed one of your liberties (meaning I was one move closer to capturing you).]
+;W[ac]C[enpi [?\]: It's actually very complicated.
+enpi [?\]: But you wouldn't want to play this way...])
+(;B[ag]C[enpi [?\]: This time, don't let me capture b5/b6.]
+;W[ac];B[ae]C[enpi [?\]: Good. And I need a move to save my stones.]
+;W[cf]C[enpi [?\]: Now you have to decide if you can link up all your stones at the top, or if you have better sacrifice the top right.]
+;B[ch];W[gb];B[db];W[ah];B[dg]C[enpi [?\]: A1 actually was bad for you.
+enpi [?\]: Now when you play a6, I can play a4. Before, I couldn't because you'd be able to capture 5 stones with a2.
+MarkW [?\]: ok
+enpi [?\]: But right now you need to be worrying about the top. Forget the bottom.
+enpi [?\]: (for now).
+enpi [?\]: Do you know about needing two eyes?
+MarkW [?\]: nope
+enpi [?\]: Okay, this is the most important thing in go. Seriously. The absolutely most important thing you need to know.
+enpi [?\]: Make absolutely sure you understand this.
+enpi [?\]: If a group of stones surrounds a bit of territory, a few points, and I mean completely surrounds it, like a circle (although this usually happens near an edge, which also counts)...
+enpi [?\]: It can still be captured.
+enpi [?\]: What the opponent has to do is completely surround it from the outside, and then...
+enpi [?\]: Start filling in the middle area.
+MarkW [?\]: ok
+enpi [?\]: Then, when they play the second last stone in the middle area, the defender can capture some stones, but that just leaves a smaller area that the attacker starts filling in again.
+enpi [?\]: Eventually, the middle area is only one point, and the attacker can play there to capture.
+enpi [?\]: This middle area is called an eye.
+enpi [?\]: Okay, now here's the important bit.
+enpi [?\]: If you have two of these enclosed areas, *and they are seperate*, you can never be killed.
+enpi [?\]: Because to play in the middle of one of them is suicide *unless you are capturing*
+enpi [?\]: Ans when you have two, you can't capture at either middle point, because you the other one keeps thr group alive.
+enpi [?\]: (the attacker can't capture, I mean).
+enpi [?\]: Right, so what this means is - you have to make sure of getting two eyes for each of your groups.
+enpi [?\]: If you have one big eye, you need to try to break it up into two smaller eyes.
+MarkW [?\]: so split an enclosed area?
+enpi [?\]: Absolutely.
+enpi [?\]: For example, in the bottom right, you have one bg eye. And I know from experience that you can't break it up into two eyes.
+enpi [?\]:  That's why I can say it's dead.
+MarkW [?\]: ok
+enpi [?\]: There's also the concept of a false eye.
+enpi [?\]: For example, if you played g1, you might think you have two eyes (one at f1, and one at g2, h1, h2, j1, j2 and j3).
+enpi [?\]: But the fact is, f1 doesn't count, because when I play d1 (eventually), I'm threatening to capture e1, and eventually you're going to have to fill in your own (false) "eye" by playing at f1.
+enpi [?\]: j3 doesn't count as being part of your "eye space" for the same reason.
+enpi [?\]: But forget about the bottom for now.
+enpi [?\]: Right now, you need to save your stones at the top.
+MarkW [?\]: ok, so what about B9?
+enpi [?\]: What about b9?
+MarkW [?\]: if i placed a stone there would it have that effect?
+enpi [?\]: Okay, let's analyse this thoroughly.
+MarkW [?\]: haha, sorry.
+enpi [?\]: I'm currently threatening to capture e8.
+MarkW [?\]: which breaks the area
+MarkW [?\]: i see
+MarkW [?\]: (maybe)
+enpi [?\]: Now, you need to decide if you can (a) live on both sides if I capture it, (b) save it and capture d8, or (c) you have to sacrifice one side because you can't save both.
+enpi [?\]: Take a guess at the answer.
+enpi [?\]: And you too, Dimyur.
+enpi [?\]: (of course, I can't see what you type, Dimyur)
+enpi [?\]: Okay, here's some more analysis.
+enpi [?\]: In the top right, you have only one eye, but it's big enough to turn into two eyes by playing h9.
+MarkW [?\]: alright
+enpi [?\]: So what's the best move to save the top left?
+MarkW [?\]: so i would place c9?
+enpi [?\]: That's okay, but it still leaves open the possibility of me  playing c8 later (to take away the eye at b7). Better to play c8 now, and then your eyes are for-sure.
+MarkW [?\]: ok]
+(;W[ha]C[MarkW [?\]: now the eyes are j9 and h8?
+enpi [?\]: That's right, but you didn't answer the other question. That was just analysis.
+MarkW [?\]: ok
+enpi [?\]: (now you request undo)];B[cb]C[enpi [?\]: Now I've killed the top left.
+MarkW [?\]: i was thinking i could keep both sides alive but i would loose some area
+MarkW [?\]: the left would get a lot smaller
+enpi [?\]: Keep both sides alive after I capture, or by capturing my "cutting" stone (d8?
+MarkW [?\]: after you capture
+enpi [?\]: See, now if you save these three stones with b7, I can capture at e9 and you only have one eye in the top left.
+enpi [?\]: Can you see that?
+MarkW [?\]: just a sec
+Dimyur [?\]: But how was it possible to capture d8?
+MarkW [?\]: i think so
+enpi [?\]: Right. So h9 can't be good, because if you can only save one side, you want it to be the bigger side (the top left, in this case).]
+)
+(;W[cb];B[ea]C[enpi [?\]: And this is good because you're threatening my *my* stone.
+enpi [?\]: (oops - said that one move too late).
+enpi [?\]: Now you've got to figure out the best move.
+enpi [?\]: And I'm giving you no help.
+enpi [?\]: (well, maybe a little)
+MarkW [?\]: will i have two eyes if i play c9?]
+(;W[ca]C[enpi [?\]: Which points would be your eyes?
+MarkW [?\]: 7b and the 9a area
+enpi [?\]: b7 and a9, right.
+MarkW [?\]: sorry for the notation :)
+enpi [?\]: But then why do you need b9?
+enpi [?\]: c9 makes one of your eyes bigger, but you've already got two.
+MarkW [?\]: ok
+enpi [?\]: (undo)
+MarkW [?\]: i hate to cut this short but i just relized what time it is :( :(
+enpi [?\]: Okay, well the conclusion is that you should have played h9 to make two eyes in the top right.
+enpi [?\]: And thus saved both sides.
+MarkW [?\]: thanks, i'm sorry, i have to be awake and in class in 6 hours.
+enpi [?\]: And you could only do that after first playing c8.
+enpi [?\]: No worries. What level school are you in?
+MarkW [?\]: College Jr
+enpi [?\]: Do you mind if I give this game to the Go Teaching Ladder, so that other beginners can see our conversation, and the game?
+MarkW [?\]: thanks, i click resign, correct?
+enpi [?\]: No, let's adjourn.
+MarkW [?\]: sure thing.
+enpi [?\]: Hmm. I'm not sure how.
+enpi [?\]: Okay, you resign, because I had enough points to win.
+MarkW [?\]: ok
+MarkW [?\]: Thanks!
+enpi [?\]: No worries.
+enpi [?\]: Hi Dimyur. Any questions, before I go?
+Dimyur [?\]: Well... i'd like you to teach me a little actually %)
+enpi [?\]: And I'd like someone to teach me :) But unfortunately I've got to get back to what I'm actually meant to be doing right now.
+enpi [?\]: But do you have any unanswered questions from this game?]
+)
+(;W[ha]C[(I may as well add a hypothetical conclusion)];B[ga]
+;W[ic];B[af];W[ad];B[ca];W[ba];B[fa];W[da];B[gd];W[eb];B[ab]
+C[(this is what I mwant by a ko threat - White wants to play d8 now, but if he does, Black captures 4 stones with b7)]
+;W[aa];B[db];W[hh]C[(White can threaten to live in the lower right, and Black *definitely* can't allow that)]
+;B[gi];W[eb]C[(Black has no more theats - even with two moves in a row, he can't kill the top right or the top left)]
+;B[tt];W[db];B[tt]
+(;W[tt]TB[ah][ai][bh][bi][cf][cg][ci][df][di][ei][fd][ff][fh]
+[fi][gg][gh][he][hg][hh][hi][ie][if][ig][ih][ii]TW[ab][bc][ca]
+[hb][ia]C[(but how can I say the bottom right is dead? see variations)]
+)
+(;W[hi];B[fi];W[gh];B[fi];W[gi];B[di];W[ig];B[ie];W[tt];B[fi]
+;W[tt];B[tt];W[ei];B[ih];W[tt];B[fi];W[tt];B[ii])
+(;W[ig];B[fi]
+(;W[gh];B[di])
+(;W[hi];B[di];W[gh];B[ei]))
+(;W[fi];B[ig];W[ih];B[hi];W[ig];B[di];W[gh];B[ie];W[ii];B[gi]
+;W[hi];B[gi]))))))

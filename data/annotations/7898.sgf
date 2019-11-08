@@ -1,0 +1,366 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.17]
+
+PB[beauxEIFS]
+BR[17k]
+PW[kuroko14]
+WR[16k]
+KM[-5.5]
+DT[2010-05-22]
+PC[IGS-PandaNet]
+RE[W+30.5]
+TM[600]
+RU[Japanese]
+
+C[Hi
+
+I feel this game is a good representation of where I am at in my Go development.
+
+I am playing black, and my opponent is ranked higher than me (16 kyu compared to my 17).
+
+I am mostly hoping that you will point out what I need to focus on to efficiently work my way through the double digit kyu ranks.
+
+Please also see my notes at moves 74 and 268.
+
+I am looking forward to receiving your comments!
+
+Thank you very much!
+
+Dave
+
+[Broege:
+All the comments are marked as this one - with square brackets.
+Hope you will find them useful.
+\]];B[pd]C[kuroko14: Hi!];W[dp];B[pp];W[ed];B[jc]LB[cd:A][pj:D]
+[fq:B][gq:C]C[[Broege:
+Personally I'd prefer either an immediate karari in the upper corner (consider A for example) or approaching the lower corner from the right side (B or C). D is also a possibility.
+However, I cannot quickly refute the move played.
+\]];W[jq];B[qj]LB[oj:B][pj:A]C[[Broege:
+This is definitely too low. Playing at A is more common. Now White can easily play B and extend to either side, lowering Black position.
+
+Of course, approaching the upper corner is still a viable option.
+\]];W[ej]LB[ed:A][ej:B]C[[Broege:
+On the other hand, White play is too high. With A and now B White is being greedy.
+\]];B[nq]LB[qc:E][cd:C][cj:D][hq:B][lq:A]TR[jc][qj][jq]C[[Broege:
+Again, this is too slow.
+This move does not attack White triangled stone (for this, A would be better - or even B if you prefer to start a fight on the lower edge. On the other hand, it still does not completely secure the corner - see the variant.
+
+Black should either attack the left side (perhaps starting with C or D), the bottom (as stated previously) or find some other useful move.
+Even a defensive move like E would be better - as the corner formation in relation to the triangled stones is quite strong.
+\]]
+(;W[hc];B[je]LB[mc:A]C[[Broege:
+Good, Black is starting to build more influence towards the centre.
+Playing at A would be too defensive.
+\]];W[he];B[jj]C[[Broege:
+Again playing for the influence - good.
+\]];W[mm];B[gm]LB[cj:A][pm:C][fp:B]C[[Broege:
+I must admit that I don't see the plan behind this move and the last White move.
+If it was to be an invasion - it should have been played at A.
+If it was to be a reduction - it should have been played at B probably.
+
+The stone played is neither putting any pressure on White nor helping Black with extending its influence nor taking territory.
+
+One can also "protect" against White move with C, taking territory. But for now White move should probably be ignored completely.
+
+As a general remark, one should always aim at moves that serve some purpose (either attack, defend or extend own influence or territory). If a move can serve more than one purpose (for example attack and at the same time extend own territory)- even better.
+This is especially true during the opening, when a few unnecessary moves may mean that the opponent will gain too much and the game will already be lost.
+\]];W[mj];B[jm]LB[je:A][ig:C][oi:D][jj:B][ko:E]TR[qj]C[[Broege:
+Again a move without any real purpose.
+
+First of all you should decide of your plan - and then follow it, adapting it of course to what your opponent plays.
+
+Plays at A and B suggested that Black is trying to gain some influce. If so - push White further with moves like C or extend the influence while protecting against White moves with D.
+
+If the plan now is to cut White stones - probably E would be better as it is at the same time pressuring the single White stone and cannot be easily ignored on the bottom side. However, please remember that White has quite big a space to live in - it can attack the triangled stone to gain some strength there.
+\]];W[lo];B[jo]LB[kp:A]TR[jj][gm][jm]C[[Broege:
+Try A if you want to separate White stones.
+
+But, as already stated in previous comments, there are more strategically important moves - attacking the left side is still a priority. Playing here only wastes a stone for Black - triangled stones are not in any danger and White stones are strong enough.
+See the variant for what could happen in White ignored this move and played to strengten the left side.
+\]]
+(;W[kp];B[ig]TR[mj]C[[Broege:
+Good, push over the boundaries of the influence spheres.
+However, please note that due to the triangled stone, Black influence here is no longer that important.
+If this move was played at move 15, it would be much stonger then.
+\]];W[gq];B[mh]LB[oi:A]C[[Broege:
+Good thinking - protect your sphere of influence while you can.
+
+However playing at A would be more efficient - if White tries to invade more, Black will take huge territory on the right side.
+
+Please remember that a sphere of influence is not a territory yet - and one should not treat it as such. I remember that while being double-digit kyu it was one of the easiest mistakes to make.
+Moreover, usually the sphere of influence won't be converted to territory directly, it will rather help you gain territory somewhere else by attacking invading stones. Of course, if the opponent does not invade, then you can convert it to territory directly.
+\]];W[pm];B[ok]LB[oi:A][nl:B]C[[Broege:
+Again A would be better. This move attacks White (it can protect easily with B) but does not gain anything for Black.
+And if White wants to fight with A, Black can find itself in a tight place.
+\]];W[nl];B[on]C[[Broege:
+Again a waste of a stone.
+
+Before playing a move always try to imagine what you can gain if your opponent will ignore it and play elsewhere - and what you will lose instead. This might help you to refrain from playing forcing moves which don't have that big a threat behind them.
+Please see sample variants to see how much Black can gain here and how much can be lost on the left side.
+\]]
+(;W[om];B[qm]LB[qn:A]C[[Broege:
+If you wish to protect your territory so hard, play A.
+
+But please remember that the left side is still much, much bigger.
+\]];W[qn];B[ql]TR[qj][ok][qm]C[[Broege:
+Black is getting heavily overconcentrated here.
+Consider the four triangled stones - how much territory do they take? And what if we remove the two bottom ones? Almost no change in Black territory - which means that those two stones could have been used elsewhere, to a better effect.
+\]];W[pn];B[oo]LB[qp:A]C[[Broege:
+Black should rather protect the corner with A than secure a single, unimportant stone.
+Please see the variant what happens if White invades the corner now.
+\]]
+(;W[ni];B[nh]LB[og:A][ph:B][oi:C]C[[Broege:
+In general, a loose move (like A or B) is better at protecting against such creeping in.
+
+The move played invites White C and then Black has to take care about its right-side group.
+\]];W[qp];B[qo]LB[po:A]C[[Broege:
+A mistake. What whould Black play after White A? See the variants.
+\]]
+(;W[ro];B[po];W[rm];B[qq];W[rp];B[oq]LB[rq:A]C[[Broege:
+Not needed. If Black is afraid to be killed here, the best answer (except reading the whole corner, which is probably too much even for 10 kyu) is to take as much space as possible with A.
+\]];W[rl];B[rk];W[pi];B[pj]LB[qi:A]C[[Broege:
+Again, Black should rather extend its living space with A. If White plays A now, Black will be hard-pressed - see the variants.
+\]]
+(;W[oi];B[qi]LB[qh:A]C[[Broege:
+You should jump as far as you can. Here A is still safe and at the same time stops White more tightly.
+\]];W[pg];B[ph]LB[qh:A]C[[Broege:
+As it does not stop White from entering (as seen in the game), it would be better to protect the right-side group more strongly.
+If White decided to play A, Black would have to give up the stone just played - see the variations.
+\]]
+(;W[oh];B[qh];W[ng];B[mg]LB[qf:A]C[[Broege:
+It would be more profitable to protect the side than the centre (e.g. with A).
+
+In general, there is more territory to be gained on the sides than in the centre (unless you're Takemiya Masaki, of course).
+
+This is the last comment related to the opening phase and the strategy. The comments regarding the left side still hold true, though.
+From now on I'll try to concetrate on selected tactical issues only.
+\]];W[nf];B[pf]LB[qf:A]C[[Broege:
+Blocking at A works, the one played not (as shown in the game).
+As a reading exercise, try (as White) to cut through A towards the side. You should not be able to do so - although of course White can still push towards the top.
+\]];W[qg];B[rg];W[qf];B[qe];W[mf];B[lf];W[md];B[nd];W[le];B[rf]
+LB[lg:A][lh:B]C[[Broege:
+This leaves a weakness at A - if Black extends with the stone in atari, White will play B and get 3 stones.
+
+Preferably this weakness should be fixed before attacking those three stones.
+\]];W[og];B[ke]LB[kf:B][lg:A]C[[Broege:
+The weakness at A is still there - so this is clearly a tactical mistake. Playing at B would avoid the problem and still connect the stones.
+\]];W[lg];B[kf];W[lh];B[lj];W[mi]C[Ok.  I was feeling pretty good about my play until he took these three stones.  Then it was obvious that he had me on the defensive.  Please offer advice on how I could have better leveraged our respective starting positions.  Thanks!
+
+[Broege:
+Well, those three stones were not that important. Sure, it's a tactical mistake but by no means it lost the game (I rember doing 20+ points blunders and still winning games when about 15 kyu.
+
+In the current position the left side is still left wide open - so you can still atack there, as already noted a number of times. Please look at the comments once more and try to play for youself how the game could have developed from the variants shown there.
+
+But it's also true that in the current position White has only strong groups while Black groups are separated and the centre stones are slightly scattered. So yes, the game is more or less lost now (at least objectively, at 15-kuy level it might turn out differently).
+\]];B[kh]C[[Broege:
+This is again an overconcentration of stones.
+\]];W[mk];B[lk];W[kd];B[jd];W[kc];B[mc];W[kb];B[jb];W[mb];B[nc]
+LB[nb:A]C[[Broege:
+Why not just A?
+\]];W[nb];B[lc];W[ld];B[oe]LB[ob:A][pb:B][rb:C]C[[Broege:
+You really should block at A, otherwise White can jump at B and then C and take the most of Black's corner.
+\]];W[lb];B[ob];W[ne];B[of]C[[Broege:
+This only one point - if White played there Black would simply connect.
+Such a small play should be left late in the endgame, there are many much biggers plays still left on the board.
+\]];W[em];B[eg]LB[cd:A][cj:B]C[[Broege:
+Black can still go much deeper - both A and B are safe (as in anything between those two points). And of course going deeper means reducing White potential territory much more.
+\]];W[gg];B[gh];W[hh];B[fh];W[hg];B[hi];W[gi];B[fi];W[gj];B[fj]
+;W[hj];B[ii];W[fk];B[ei]LB[gk:A]C[[Broege:
+The cut at A would be better - it captures three stones and, much more importantly, connects the side stones to the centre, making them safe.
+\]];W[gk]C[[Broege:
+Now Black has a problem - the left-side stones are pretty weak and need to be strengtened quickly.
+On the other hand, the centre group is not as strong as it may look - White could gain quite a lot in the lower-left quarter by attacking it from below.
+\]];B[ek];W[el];B[dj];W[fl];B[hl];W[dl];B[de]C[[Broege:
+Good idea, attackig the corner at last.
+\]];W[dd];B[cd];W[cc];B[bd];W[bc];B[fd]LB[ce:A]C[[Broege:
+This is clearly too far, as you can see in the game.
+Moreover, White could play A and Black would have to give up those two stones - see the variations.
+\]]
+(;W[ee];B[fe];W[ce];B[df];W[be];B[ec];W[dc];B[eb];W[ff];B[hd]
+;W[ef];B[cf]LB[gd:A]C[[Broege:
+Again, you're concentrating on small local fights. What if White plays A now?
+\]];W[bf];B[bg];W[ag];B[ah]LB[cg:B][bh:A]C[[Broege:
+Black has to play A here - otherwise White will make a double atari at B and then play A, capturing the stone and extending further down the line.
+\]];W[ad];B[af];W[ae];B[ag]LB[cg:A]C[[Broege:
+White can still cut at A with a profit - the variation shows what happens if Black does not give up the three stones (as it should).
+\]]
+(;W[db];B[gc];W[ge];B[hb];W[gd];B[fc];W[ea];B[ic];W[dk]LB[cg:B]
+[cj:A]C[[Broege:
+Locally, extending to A would be better as gives more territory to Black. By the way - this also secures the cut at B, see the variation.
+\]]
+(;B[ej];W[cj];B[ck];W[cl];B[bk];W[bl];B[bj];W[ak];B[ci];W[aj]
+;B[ai];W[al];B[go];W[fp];B[eo];W[do];B[en];W[dn];B[ep];W[eq]
+;B[dq];W[cq];B[dr];W[cr];B[er];W[fq];B[hq];W[fr];B[gp];W[hr]
+;B[gs];W[fs];B[fo];W[ir];B[iq];W[ip];B[hp];W[jp];B[io];W[lq]
+;B[lr];W[kr];B[mr];W[mq];B[or]LB[rq:A][ls:B][ns:C]C[[Broege:
+This move is completely unnecessary - those stones are connected. If you were afraid of White B - it should be answered with C.
+
+Locally in the corner, A would be the best one.
+\]];W[np];B[ks];W[js];B[ls];W[no];B[nn];W[mn];B[nm];W[ol];B[pl]
+;W[ll];B[kl];W[lm];B[km];W[kn];B[jn];W[ko];B[li];W[kg];B[jh]
+;W[if];B[fa];W[da];B[gb];W[ie];B[id];W[jf];B[jg];W[rq];B[rr]
+LB[qr:A]C[[Broege:
+A mistake - as played out in the game. Black has to be conservative here and play B.
+\]];W[qr];B[pq];W[rs];B[ps]LB[ns:A]C[[Broege:
+A huge mistake. While could kill the whole corner with A.
+\]];W[qs];B[ns]C[[Broege:
+Black was lucky though.
+\]];W[sr];B[pr]C[[Broege:
+This is play is one point in gote (which means that now White chooses what to do). It should be left for the very end of the game.
+\]];W[sk];B[sj];W[sl];B[ri]C[[Broege:
+This is not needed - Black is safe here.
+\]];W[nk];B[oj];W[ik];B[il];W[jk];B[kk];W[fm];B[fn];W[fg];B[dh]
+;W[oa];B[pa]C[[Broege:
+Same mistake as on the left side. This time however it turns out more costly as White does not left in unpunished.
+\]];W[oc];B[od];W[pb];B[pc]LB[qb:B][qc:A]C[[Broege:
+Playing at A would be better - White can play B now and limit the corner even more.
+\]];W[ob];B[qb];W[qa];B[ra]LB[rb:A]C[[Broege:
+Same mistake again - White could play A and get some stones - see the variations.
+
+Black should play A here.
+\]]
+(;W[pa];B[rc];W[ij];B[ji]LB[ih:A]C[[Broege:
+Well spotted. Connecting at A would result in a disaster.
+\]];W[ja];B[ia];W[ka];B[gl];W[cg]C[Ok, I totally didn't see this next sequence coming.  What should I have done to defend against it?]
+;B[dg];W[bi]
+(;B[ch]LB[bh:A]C[[Broege:
+Black should have captured the other stone by playing A - it would protect both groups.
+\]];W[cj];B[bh];W[bj];B[jl];W[tt];B[tt]C[You can check your score with the score command, type 'done' when finished.
+Click on a group of stones to mark it dead and remove it from the board.]
+;W[tt]TW[aa][ba][ca][la][ma][na][ab][bb][cb][ac][bd][cd][me]
+[gf][hf][mg][mh][nh][bk][ck][ml][am][bm][cm][dm][sm][an][bn]
+[cn][ln][rn][sn][ao][bo][co][mo][so][ap][bp][cp][lp][mp][sp]
+[aq][bq][dq][kq][sq][ar][br][dr][er][gr][jr][rr][as][bs][cs]
+[ds][es][gs][hs][is][ss]TB[ga][ha][sa][fb][ib][rb][sb][hc][qc]
+[sc][qd][rd][sd][pe][re][se][sf][cg][sg][eh][rh][sh][di][ki]
+[si][kj][rj][pk][qk][hm][im][gn][hn][in][ho][nr][ms][os]C[Game 403 beauxEIFS is removing @ G1
+Game 403 beauxEIFS is removing @ E2
+You have typed done.
+kuroko14: 73.5 to beauxEIFS: 43.0
+
+[Broege:
+
+To sum up the game:
+
+Black made some tactical blunders but luckily neither of those exploited by White was directly responsible for loosing the game (remember, White could have killed the lower right corner).
+
+I think that the game was lost on strategic level - the left side was left unplayed for much too long and White took quite a lost of territory there. Also the inability of Black to stop White from pushing into the right side played a big role in the final result.
+
+
+As for major areas of improvement I'd suggest:
+
+1. Practice your reading so you make less tactical mistakes; I'd recommend some life&death problems and, probably even more in your case, exercising blocking invading opponent stones and cutting through weak chains.
+
+2. Try to think how big a move is before playing it. As most of the double-kyu players you tend to answer all forcing moves, even if they threaten a single stone. Quite often such forcing moves can be ignored to play a big move (not necessarily a forcing one) by your own.
+
+3. Try to refrain from playing moves without a real purpose. And when you are sure they serve a purpose: - make sure that the move you play is as effective as possible (e.g. takes most territory, connects in a strongest manner)
+- if only possible, make the move that has more than one purpose
+- try to choose a move that your opponent won't ignore (e.g. by imagining what worst can happen to him/her if he/she ignores this move).
+
+4. Try to limit your opponent's area of influence as early as you can. The more you wait, the harder it gets to limit it effectively.
+
+Well, that's about it.
+\]])
+(;B[bh]C[[Broege:
+It's as simple as that.
+\]]))
+(;W[rb]
+(;B[qc];W[sa];B[rc]C[[Broege:
+This is how Black should defend.
+\]])
+(;B[pa];W[qc]C[[Broege:
+This is not a ko - so Black should not play like that.
+\]])))
+(;B[cj];W[cg];B[dg];W[ch];B[bi]))
+(;W[cg];B[dg];W[ch];B[bi];W[bh];B[ai];W[ci];B[bj];W[cj];B[bk]
+;W[ck]))
+(;W[ce];B[be]LB[cf:A]C[[Broege:
+Let's see what happens when Black tries to protect those stones instead of playing A.
+\]];W[cf];B[bf];W[df]
+(;B[ee];W[ef];B[fe];W[ff]C[[Broege:
+White cannot be stoped - it will connect (as shown) or simply capture the stones as in the other variation.
+\]])
+(;B[ef]LB[fd:B][de:A]C[[Broege:
+Black should give up the A stone - so it can rescue the B stone.
+\]];W[ee];B[fe];W[ff]LB[gd:A]C[[Broege:
+This is a mistake by White - see the continuation. While should play A here.
+\]];B[gf];W[fg];B[hf])))
+(;W[qh]LB[rh:A]
+(;B[oh];W[qg]C[[Broege:
+Black has to kill those three stones to live - there is not enough space to live otherwise. See the variant where White manages to live.
+\]];B[rh];W[rg];B[si];W[pl]LB[qk:A][sk:B]TR[ri][rj][sj]C[[Broege:
+Now there is no eye at A and only one eye can be salvaged from the triangled area as White can play B.
+This shows that the four White stones need to be killed in order to live - but how?
+\]])
+(;B[rh];W[qg]TR[ph]C[[Broege:
+So Black has to sacrifice the triangled stone - if not we arrive at the previous variation.]
+;B[rg];W[oh])))
+(;W[qi]
+(;B[ri];W[oh];B[qh]C[[Broege:
+One of the options, the calmer one.
+\]])
+(;B[oi];W[oh]
+(;B[oj];W[ri]C[[Broege:
+Clearly a mistake for Black.
+\]])
+(;B[ri]
+(;W[oj];B[qh]C[[Broege:
+Same as the first option.
+\]])
+(;W[rh];B[ph];W[oj];B[qh];W[oi];B[rg]C[[Broege:
+A mistake by White.
+\]])))))
+(;W[po]
+(;B[ro]C[[Broege:
+This is a mistake - see the continuation.
+\]];W[qq]LB[rn:A]C[[Broege:
+And now Black either looses the two cutting stones (White plays A) or plays A and looses the four stones which are surrounded by White.
+By the way - I'm not sure whether those four stones could be rescued anyway.
+\]];B[rn];W[pq];B[op];W[rp]C[[Broege:
+White is alive in the corner and thus five Black stones are dead.
+\]])
+(;B[qq]C[[Broege:
+A better answer.
+\]];W[rp]
+(;B[oq];W[rq];B[qr]C[[Broege:
+White is save and Black managed to live.
+\]])
+(;B[rq];W[op];B[pq];W[np]LB[ro:A]C[[Broege:
+White can also choose to take the middle and leave A for yose.
+\]]))))
+(;W[rq];B[rp];W[qq];B[qp];W[or]C[[Broege:
+White lives and Black should connect its corner to the upper group to live itself.
+\]];B[rn];W[nr]LB[rn:A]C[[Broege:
+As Black had to play A, White is gaining even more - now almost the whole bottom is White's.
+\]]))
+(;W[cj]C[[Broege:
+So White sacrifices its rightmost stone and strengtens the left side.
+Let's assume that Black continues with the attack - otherwise the previous move made no sense.
+\]];B[om];W[ol];B[pl];W[ql];B[pk];W[qo]
+(;B[qm];W[pn];B[qn];W[po];B[rl];W[rn];B[rm];W[oo]C[[Broege:
+Not good for Black - the attack failed.
+\]])
+(;B[pn];W[qn];B[qm];W[qq];B[qp];W[rp]LB[rm:A][op:B]C[[Broege:
+White lives already and can probably play A during yose to gain more points.
+Also notice the Black weakness at B - it threatens to cut the lower stone.
+\]])))
+(;W[cj];B[kp]C[[Broege:
+I assume that Black continues to split White here.
+\]];W[pl]LB[cd:C][mh:A][oi:B]C[[Broege:
+White already looks safe. It can also extend to A or attack at B to gain more space.
+
+So let's leave White for a moment and try to reduce White left - we want to protect against C.
+\]];B[cd];W[cf];B[dc]LB[qc:D][de:A][qf:E][ig:H][qh:F][dm:C]
+[hp:G][cq:B]TR[jq]C[[Broege:
+Black can choose to live in the corner or try to run to the centre with A - but anyway White has a strong position and Black didn't gain that much. White can afford to sacrifice the triangled stone - as surrounding it would require Black to invest more stones and overconcetrate its positions.
+
+White can play B or C to take territory immediately, invade at D or E, try some fighting moves like F, protect the triangled stone with G (slightly strengtening the corner) or push at H.
+Whichever way White chooses, it seems to be in front.
+\]]))
+(;W[rp]
+(;B[qq];W[qn];B[rq];W[ql]C[[Broege:
+White will live on the side or easily run into the centre. Black has the corner but had to invest four stones here.
+\]])
+(;B[qn];W[qq]LB[qo:A]C[[Broege:
+This Black move does not work - White lives in the corner without any problems.
+Please note that Black A would be answered in the same way.
+\]])))

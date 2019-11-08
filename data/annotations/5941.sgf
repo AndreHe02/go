@@ -1,0 +1,95 @@
+(;FF[4]GM[1]SZ[19]AP[SGFC:1.15]
+
+PB[a00001]
+BR[3d]
+HA[0]
+PW[goboard]
+WR[4d?]
+KM[0.5]
+DT[2007-06-23]
+PC[IGS-PandaNet]
+RE[W+28.5]
+TM[900]
+
+;B[pd]C[goboard: hi];W[dc]C[a00001: Hello.];B[op];W[dq];B[de]
+;W[ce];B[dd];W[cd];B[ec];W[cc];B[df];W[eb];B[fc];W[fb]
+(;B[gc]
+(;W[cg]C[Is this a joseki?
+
+Emp:define joseki? :) this is okay variation, i.e. nither side got too bad or too good result. H17 is better than G17.]
+
+(;B[do];W[fq];B[dg];W[ch]C[Emp: D13 should be E12, because D12 is powerful for w now]
+;B[cq];W[cp]C[Emp: C2 is good enough for W, since there is C12, lower left is of little value for both b&w.]
+;B[dp];W[bq];B[cr];W[dr];B[bp];W[co];B[br];W[bo];B[aq];W[dn]
+C[this should be good for White right?
+
+Emp: the result is normal, considering w invested one more stone there.]
+;B[fo];W[cm];B[en];W[em];B[fm];W[el];B[hq]C[Is this too aggresive?
+
+Emp: should be F8, but strategically, maybe it's not wise for b to fight like this, fight here, E8 for example, afterall affects b's influence above.]
+;W[gp];B[io]
+(;W[gn]LB[hp:A][ip:B]C[I should make A-B exchange first right?
+
+Emp: this is okay for w, easier to fight for w here.];B[go]
+;W[hp];B[ho];W[ip];B[jp];W[jq]
+(;B[iq];W[kp];B[jo];W[jr];B[gq];W[fp]C[Black should cut now right?]
+;B[fr];W[eq];B[eo];W[gr];B[hr];W[hs];B[gs];W[is];B[kq]C[It is a bit too late to cut now right?
+
+Emp: it's ok];W[kr];B[lq];W[lr];B[mq];W[mr];B[nq];W[qj];B[ql]
+C[Emp: since the lower right corner is open, b should focus on the upper side, R12 is from the better direction than R8]
+;W[qg];B[og]C[Emp: the value of P13 is very questionable. R15 is normal.]
+;W[pk]C[Emp: bad move of w]
+(;B[nk]C[how should White deal with this combination
+
+Emp: w doesn't need to, just let b dream about an unrealistic moyo :)]
+;W[pl];B[qm];W[nl];B[mk];W[rd];B[qc];W[ic]C[Emp: as I mentioned earlier]
+;B[rf];W[qf]
+(;B[re]C[B should first play like this right?];W[qe];B[qd];W[rg]
+;B[rc];W[sf];B[sd];W[of]C[Emp: not good for b];B[gb];W[lc];B[nc]
+C[Emp: small move of b];W[md];B[dk];W[ek];B[di];W[dh];B[eh]
+;W[dj];B[ej];W[cj];B[ci];W[bi];B[ei];W[ck];B[bj];W[bh];B[nf]
+;W[oe];B[nd];W[ne];B[me];W[mf];B[le];W[ng];B[lf];W[hb];B[fa]
+C[Emp: no comments for fight like this:)];W[jb];B[mh];W[nh]
+;B[ni];W[oi];B[mi];W[ie];B[ig];W[gk]C[Emp: b likes to invest on non-existing moyo...]
+;B[oj];W[pj];B[jd];W[mb];B[nb]LB[id:A]C[this should be at A right?
+
+Emp: yes, w should have gone for A as well];W[id];B[ld];W[kc]
+;B[mc];W[la];B[oh];W[pi];B[mg];W[nf];B[pe];W[pf];B[rk];W[rj]
+;B[ml]LB[nr:A]C[this should Block at A right?
+
+Emp: the corner is not secured with A];W[qp];B[ro];W[qo];B[rn]
+;W[pn];B[rp];W[qq];B[pm];W[om];B[on];W[oo];B[nn];W[no];B[nm]
+;W[lo];B[ko];W[lp];B[ln];W[mo];B[qn];W[po]C[Can B win this capturing race?
+
+Emp: no race, b is dead];B[pr];W[qr];B[nr];W[pq];B[or];W[sr]
+;B[db]C[Emp: too bad for b... it was supposed to be a b's corner ...]
+;W[cb];B[hk];W[hl];B[gj];W[gl];B[ha];W[ia];B[hc];W[ga];B[cl]
+;W[dl];B[ha];W[kb];B[ib];W[ja];B[jc];W[hb];B[rq];W[rr];B[ib]
+;W[kd];B[je];W[hb];B[sj];W[si];B[ib];W[ke];B[jf];W[hb];B[ds]
+;W[ir];B[ib];W[fj];B[fi];W[hb];B[fk];W[fl];B[ib];W[kf];B[kg]
+;W[hb];B[es];W[gr];B[ib];W[lg];B[lh];W[hb];B[qs];W[rs];B[ib]
+;W[jg];B[jh];W[hb];B[ns];W[ps];B[ib];W[if];B[jg];W[hb];B[bk]
+;W[bl];B[ib];W[ao];B[ap];W[hb];B[cf];W[bf];B[ib];W[ar];B[as]
+;W[hb];B[il];W[ga];B[ea];W[im];B[jl]C[White is ahead by 20 pts right?]
+;W[jm];B[km];W[kl];B[ik];W[lm];B[kn];W[mn];B[mm];W[gf];B[na]
+;W[ma];B[hg];W[fe];B[ee];W[ca];B[ol];W[sk];B[sl];W[od];B[oc]
+;W[fd];B[ed];W[fg];B[gg];W[er];B[hf];W[he];B[ff];W[ef];B[eg]
+;W[ff];B[fh];W[ib];B[da];W[ok];B[nj];W[sj];B[fj];W[sq];B[sp]
+;W[qk];B[rl];W[ep]C[mistake by me];B[fn];W[hm];B[cs];W[fs];B[se]
+;W[sg];B[ha];W[sc];B[sb];W[ga];B[gd];W[ge];B[ha];W[tt];B[ga]
+;C[Emp: b needs to improve on strength of close combat. and b needs to have a deeper understanding about moyo. sth looks like a moyo might not be a moyo at all....
+
+end of comments.])
+(;B[rg]C[Emp: b should be fine doing this, since it's not about moyo anymore]
+
+(;W[rh];B[re];W[qe];B[qd])
+(;W[re];B[qh];W[ph];B[qi];W[pi];B[rj])))
+(;B[pl];W[nk];B[ol];W[ni];B[or]))
+(;B[kq]C[Emp: better for b]))
+(;W[hp];B[ip];W[iq];B[jq];W[ir];B[jr];W[hr]C[Emp: w is carefree now and b can't mend the fence in one move]
+))
+(;B[eh]C[Emp: important demarcation]))
+(;W[ic];B[gb];W[lc]C[Emp: G17 gives w this kind of easy option of invasion]
+))
+(;B[hc]C[Empiror: since the upper part is still wide open, this is more focused on the upper right]
+))

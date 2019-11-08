@@ -1,0 +1,160 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.16]
+
+PB[Leoberos]
+BR[24k]
+PW[mfgo09kyu0]
+KM[6.5]
+DT[2014-08-17]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[W+Resign]
+TM[0]
+OT[9x30 byo-yomi]
+RU[Japanese]
+
+C[Hi, 
+
+I'm Karin, I'm about 11 kyu and I'm reviewing your game. I hope my comments will help you and are not too confusing. If you have any questions about them, just mail me or ask me on KGS (JoeT) when I'm online.
+
+A few general comments:
+
+a) You have some good instincts and moves. 
+You just need to see them trough to the end. It's much better to play at a situation until you are satisfied, that everything is safe and secure than to leave things unfinished. I know it is hard to judge such things in the beginning, but it is even harder to have several open situations on the board and judging which one has the highest priority right now.
+
+b) I'm sure you know basic concepts like a group needing (at least) two eyes to live. You have to remember that theses eyes need space. If you don't have this space, run to and connect to another group which lives or is more likely to live. And surely you know it's much easier to have this "enough space" in the corner or at the edge. 
+
+c) About the Empty Triangle: It's a bad shape with few liberties. Try to avoid it. A 1-space jump works just if not better in most situations.
+
+d) It would have helped me a lot if you commented on you moves, not only if you had specific questions. Sometimes it is essential to know what your intentions are when playing a stone. Even if I can guess it most times, it would help a lot.]
+
+(;B[dp];W[pq];B[cd];W[pc];B[fq];W[ec];B[gc];W[cb];B[eb];W[fb]
+;B[fc];W[db];B[ed]LB[dc:1][dd:2]C[I liked this situation until now.]
+;W[dc]LB[dd:A][fd:B]TR[cd][ed]C[Two possible cutting points (A,B) in minimal area. => The marked stones are weak and should be reinforced! 
+
+Playing at A would make them really strong and B wouldn't be very threatening after that.
+
+Look at the possibilities after White played A. It's always to your disadvantage!]
+
+(;B[cn];W[dd]
+(;B[qj];W[qe];B[ql];W[gb];B[pn];W[qh];B[qi];W[ph];B[cr]LB[fd:B]
+[ee:A]C[Overplay! You are already pretty secure there. Use this stone somewhere where it's needed. Just think about what would happen if White playes A or B.]
+
+(;W[de]TR[fc][gc][ed]C[Weak stones in the upper left. :(];B[pp]
+;W[oq];B[jq];W[hc]C[Now, he's attacking you weak stones. Very hard to get out of there. It won't be pretty, and it will be bad for you.
+
+Here you have a choice: 
+- Either try to save those stones. But I'm sure white will gain much territory and strength while you have trouble getting them to live.
+- Or letting them die while using them as a threat to gain something while you are playing elsewhere.
+
+HOWEVER 
+Since you have just started playing Go, either way you are probably in way over your head.  So ignoring the situation and playing somewhere else might be ok if you get something out of it.]
+
+(;B[op];W[qq];B[nq];W[nr];B[np];W[ro];B[qo];W[rp]
+(;B[rq]C[NO! This stone is already dead. What's the purpose of this stone?]
+;W[rr];B[or];W[pr]
+(;B[fn]LB[cj:C][rn:A][mr:B]C[Overplay. Your stones are very concentrated in this area while the rest of the board is still open. (Not forgetting the unattended and still weak stone at the top.)
+
+If you are not comfortable with wide jumps like C you can simply secure your territory with A or B.]
+;W[rm];B[fj]LB[cj:B][dj:A][ck:C]C[That is very high. What will you do if White A, B or C? 
+Play A, B or C instead of this F10.];W[rk]TR[qi][qj][ql][pn]
+[qo][np][op][pp]C[Meanwhile White is slowly inwding your territory on the right and leves you with nothing but a wall.]
+;B[qk]C[Good, if you have only a wall, at least make it strong.]
+;W[ri]
+(;B[pl]C[Think bigger!];W[dj];B[di];W[ci];B[ei];W[cl]CR[bi]
+[aj][bj][cj][ak][bk][ck][dk][al][bl][bm]TR[df][cg][ch]C[Right now, White has probably enough space to live (circles) and still can reach out and connet to the corner (triangles).]
+;B[dl];W[ck]
+(;B[cm];W[ek]LB[fk:A]TR[di][ei][fj]C[White cuts and seperates your stones. 
+Again you have a group with no basis which have to run, if White gets A.]
+
+(;B[dm];W[fk];B[bl];W[gj]
+(;B[fi]TR[di][ei][fj]C[Empty Triangle. Almost never a good shape. It's very slow and short in liberties.]
+
+(;W[gl];B[fd]TR[di][ei][fi][fj]C[Sorry, can't comment properly here since I don't know your intentions here.
+- Finally saving that group? 
+- Threaten to save this group to gain something for the marked stones?]
+;W[hd]
+(;B[fe]C[Too small. Go for F14.];W[eg]C[Again, White tries to seperate your stones.]
+;B[gn]C[Please don't leave the situation with your weak groups unattended! You still are overly secure down there. :(]
+;W[bk]
+(;B[bm]C[Not neccesary beause of C6. Use this stone elsewhere.]
+;W[gg]LB[gi:A]TR[di][ei][fi][fj]C[Oh dear! Your grupos are separated and whithout eyes (so basicly: dead). Looks bad for you.
+A is your only chance. I don't know if you can get that to live.]
+
+(;B[hn]C[Again: slow.];W[gi]C[He's making sure you won't try anything.]
+;B[fh]C[Well, can't blame you for trying. You probably realised yourself, that there is no way out of there now.]
+;W[fg];B[gh];W[hh];B[nc]C[Your deep in enemy territory now.]
+;W[lc];B[oc];W[pb]
+(;B[nd]TR[nc][oc]C[Empty triangle! Bad!];W[mr]C[Ah, yes, your territory is still open down there. Have you been aware of that?]
+
+(;B[jp];W[dh]C[Overplay, this is not a necessary move. Take your chance now.]
+;B[hi]LB[pd:B][lq:A]C[Well, this group is dead, there is nothing you can do to change that. play somewhere whare your territory (or a group) is in danger. Play A or try B.]
+;W[js];B[hj];W[gk]
+(;B[jr]C[Good, this should stop his invasion.];W[kr];B[is]C[Yes! Stop him from invading!]
+;W[il]TR[hi][hj]C[Again, White cuts. Your stine there look lonely and half-dead.]
+;B[jn]LB[kl:A]TR[hi][hj]C[Overplay, Your territory there is already save.
+This makes White want to play A and the trinagle stone are even more cut off.]
+;W[kl]
+(;B[km];W[ll];B[jl];W[jk];B[jm];W[li]C[Defending his territory.]
+;B[hk];W[hl];B[ik]TR[hi][hj][hk]C[Empty Triangle. You see? Bad shape!]
+;W[ii];B[lm];W[ml];B[mm];W[nl];B[nm];W[me]C[Making sure you won't try anything.]
+;B[om];W[of];B[qm];W[ks]LB[ir:A]C[You have to play A now. There is just no alternative, as you saw in the next few moves.]
+;B[lq];W[ir];B[hr];W[hs]
+(;B[gs]C[No!];W[gr];B[is];W[iq];B[hs];W[hq];B[fs];W[fr];B[es]
+;W[er];B[ds];W[dr];B[cs];W[cq];B[br];W[bq];B[dq];W[ar]C[Everything is gone now. :(]
+;B[ih];W[ij])
+(;B[gr]LB[fq:A]C[Thank god for A.];W[gs];B[fs];W[is];B[iq];W[lr]
+))
+(;B[nj]CR[ng][nh][jj][kj]LB[nj:A]TR[nc][oc][nd][hi][hj]C[I would start attacking this big white territory-like area in the center and top half of the board.  A seems to be near enoug to the wall to be more or less save while it threatens to save one of the triangle groups. And even if I can't reach both groups, I can still walk into his territory, because he has to defend.]
+))
+(;B[il];W[hk];B[ik];W[ij];B[ii];W[jj];B[ih];W[hg];B[kh];W[hr]
+;B[hq]TR[ij][jj]C[In this variation, the situation in the center may be good for you, but for the price that White can continue his invasion at the bottom.
+
+I would probably play this way, but it is a difficult situation. Probably to hard for a beginner. Who knows?]
+))
+(;B[lq];W[lr];B[kr];W[mq];B[lp];W[mp];B[mo]))
+(;B[ne])
+(;B[pd];W[qd];B[ne]))
+(;B[im])
+(;B[gi];W[hi];B[hh]
+(;W[gh];B[hj];W[ii];B[gk];W[ig])
+(;W[hj];B[gh];W[ih];B[hg];W[gf];B[hf];W[ge];B[he];W[gd];B[jf]
+)))
+(;B[fg]
+(;W[gi];B[gh];W[gf];B[ff];W[dh];B[hh]C[Run for your life!])
+(;W[bm];B[bn];W[al];B[ef];W[df];B[dg];W[cg];B[dh];W[gi];B[gh]
+;W[hh];B[hg])))
+(;B[ff]))
+(;W[gi]C[Not good for you.]))
+(;B[gi]))
+(;B[fk];W[el];B[fl];W[em];B[en];W[fm];B[gm];W[gl];B[gn]TR[di]
+[ei][fj][fk][fl]C[It is still on the run, but it's bigger and probably more successful now.]
+;W[gk];B[ef];W[ee];B[dg]))
+(;B[el]))
+(;B[nk]))
+(;B[mr];W[os];B[mq];W[rn];B[qm];W[rm];B[rl])
+(;B[rn];W[mr];B[lq];W[lr];B[kr];W[mq];B[lp];W[mp];B[mo]))
+(;B[rn]TR[pn][qo][pp]C[That's a nice and strong shape.]))
+(;B[ic];W[hd];B[id];W[he];B[mc])
+(;B[hd];W[ic];B[id];W[jc];B[jd])
+(;B[ge];W[gd];B[fd];W[hd];B[fe];W[hf];B[he];W[ie];B[id];W[ic]
+;B[if];W[je];B[ig];W[gf]
+(;B[fg];W[ff];B[ef];W[ee])
+(;B[ef];W[fg]
+(;B[eg])
+(;B[df];W[ce];B[cf];W[eg];B[ch])))
+(;B[dj]))
+(;W[ee];B[fd];W[fe];B[ic];W[ce];B[ge]TR[fc][gc][ic][ed][fd]
+SQ[dh]C[Black is running while White has a huge corner and influence on the left (direction towards the square).]
+)
+(;W[fd];B[ee];W[gd];B[hc];W[hd];B[ic];W[de];B[ef]CR[fd][gd]
+[hd]TR[fc][gc][hc][ic]SQ[ed][ee]C[Two black and one white group on the run. I'm not sure, who will be better of, but it will be a fight. 
+Still, Whites corner is huge.]))
+(;B[de];W[ee];B[fd];W[ce];B[df];W[cf];B[dg])
+(;B[ee];W[de];B[gb];W[fa];B[df]))
+(;B[dd];W[fd]LB[fd:B]C[At this moment, the cut at B could be trapped in a ladder. 
+
+If you don't know what a ladder is, play this sequence to the end. 
+You can't escape a ladder if there are no stones in the way.]
+;B[fe];W[gd];B[hd];W[ge];B[gf];W[he];B[ie];W[hf];B[hg]))
+(;B[ed];AW[de];W[fd];B[cd];W[ce];B[bd];W[bb];B[be];W[bf];B[ae]
+;W[af])
+(;B[ce];AW[de];W[ed];B[cd];W[cf];B[bf];W[be]))

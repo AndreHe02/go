@@ -1,0 +1,104 @@
+(;FF[4]GM[1]SZ[19]AP[SGFC:1.12]DT[1996-09-21]PB[spv]PW[liyi]BR[4k]WR[3k*]
+HA[0]KM[0.5];B[pd];W[dp];B[cd];W[pp];B[id];W[ec]LB[ed:A][dc:B]C[ ** This move is normally played at a), because white gets heavy when black plays at b).]
+;B[dc];W[ed];B[df]C[ ** Good for black - the two white stones are a target for attack.]
+;W[nc]C[ ** White is trying to create complications. But his play here is a little unreasonable for an even game.]
+;B[lc]C[ ** Good.];W[ne];B[pf];W[jc]LB[jd:A][ic:B]C[ ** a) or b) are natural (see variation).]
+
+(;B[jd];W[kc];B[kd];W[ic];B[hc]C[ ** Ok for black so far.];W[hb]LB[hd:A]
+[gb:B][ib:C]C[ ** In this situation black generally considers a), b) or c) (see variations).]
+
+(;B[gb];W[gc];B[hd];W[ib]LB[fb:A]C[ ** a) next is better for black (see variation).]
+
+(;B[fc]LB[fb:A]C[ ** a) next is an interesting alternative for white (see variation).]
+
+(;W[gd]C[ ** A little bit heavy for white.];B[fd]LB[eb:A]C[ ** Better to just connect at a).]
+;W[ge];B[eb];W[fe];B[fb]LB[ee:A]C[ ** The cut at a) is almost worthless. So the main consequence of black's push at f16 is that white is now further out in the centre.]
+;W[lb];B[ld]C[ ** Good.];W[mc];B[ig];W[gh];B[dh]C[ ** Good - take territory while attacking.]
+;W[lg]LB[gj:A][hi:B]C[ ** a) or b) is more important - play from your weaker side.]
+;B[ii];W[if];B[jf];W[hf];B[lf]LB[jg:A]C[ ** This is no good - black should just play a).]
+;W[jg]LB[jh:A]C[ ** Black can still more or less save the situation with a) (see variation).]
+
+(;B[kg];W[jh];B[kh];W[ji];B[ih];W[ij]MA[gh]C[ ** This is very unfavourable for black because the marked stone is right on the vital point.]
+;B[jj];W[ki];B[hj];W[ik];B[lh];W[hi]LB[po:A][kj:B][lj:C]C[ ** a) next (a ladder builder threatening b)) is the natural continuation for black. Otherwise black c) is the tesuji to build thickness in the centre.]
+;B[mg]C[ ** A thick move but not really necessary.];W[kj];B[ob];W[nb];B
+[oc];W[oa];B[pa];W[na];B[pb]LB[qn:A][nq:B][fq:C][cn:D]C[ ** Black can't take gote here - too small. Black Q18 is a big yose move, but there are still good fuseki points left on the board.]
+;W[qj];B[cn];W[cl]C[ ** Aggressive.];B[cq];W[dq];B[cp];W[do];B[bn];W[em]
+C[ ** The play in this corner seems ok for both so far.];B[jq]LB[kq:A]MA
+[dq][dp][do][em]C[ ** a) looks preferable - stay away from that thick white wall.]
+;W[lq]C[ ** Good.];B[gq]C[ ** Feels very cramped. Note also that black can't easily run into the centre due to the white thickness there.]
+;W[qp]C[ ** Ok. Very patient.];B[cj]C[ ** Protecting the two stones below is more important.]
+;W[co];B[bo];W[cr];B[br];W[dr];B[bs];W[hr];B[gr]LB[hq:A]C[ ** Better to stay connected at a).]
+;W[iq];B[ip];W[jr]C[ ** See variation for black.]
+(;B[kq]C[ ** This is very bad shape - remember the proverb "hane at the head of two stones".]
+;W[kr];B[lp];W[mp]LB[mq:A]C[ ** Black has to atari at a) first.]
+(;B[mo];W[kp]C[ ** Absolutely horrible. Black has lost after this.];B[jp]
+;W[lo]C[ ** After this ponnukki black is probably dead on the left.];B[gm]
+;W[fk];B[dn];W[en];B[eo]C[ ** Better to threaten the cut indirectly.];W
+[fo];B[ep];W[fp];B[fl];W[el];B[ek];W[gk];B[hn]C[ ** A desperate counter-attack against the group on the left. It is a very difficult fight for black, however.]
+;W[jo];B[io];W[jn];B[hq];W[ir];B[jl];W[jk];B[kl];W[il];B[go];W[gp];B[hp]
+;W[fn];B[ql];W[rf]LB[pk:A]C[ ** If white plays a) instead of here, it will be very difficult for the black stone to escape.]
+;B[qg];W[rg];B[rh];W[qh];B[qi];W[ph];B[rj];W[pe];B[oe];W[qe];B[of];W[nd]
+;B[od];W[rc];B[rb];W[nf];B[ng]LB[pi:A]C[ ** Black could also play out at a).]
+;W[pi];B[ri];W[og];B[qc]LB[pj:A]C[ ** a) also seems possible - white has very bad shape on the outside.]
+;W[pg];B[qf];W[nh];B[mi];W[ni];B[mj];W[ok];B[om];W[qk];B[rk];W[pl]C[ ** Just shutting white in is much better (see variation).]
+
+(;B[pj];W[pk];B[oj];W[nj];B[pm];W[oi];B[mh];W[qm];B[rl];W[rm];B[qn];W[rn]
+;B[ro];W[qo];B[sn];W[pn];B[sm];W[qn];B[ml];W[je];B[ke]C[ ** Good.];W[kf]
+;B[me];W[mf];B[jf];W[bp];B[bq];W[kf];B[md];W[ma];B[jf];W[nk];B[mk];W[kf]
+;B[ka];W[kb];B[jf];W[de];B[ce];W[kf];B[ja];W[la];B[jf];W[db];B[cb];W[kf]
+;B[ha];W[ia];B[jf];W[cf];B[ie]C[ ** Good. Looks necessary to end the ko here.]
+;W[dg];B[cg]C[ ** Good.];W[ef];B[bf];W[ch]C[ ** Aggressive.];B[df];W[re]
+;B[rd];W[cf];B[bg]LB[eq:A][er:B][es:C][cs:D][jm:E][kn:F]C[ ** This is a rich man's move - black has to fight the ko in this position. He has threats at a)-f) all of which would be big enough. It's the one good thing about dying with a big group - you usually have plenty of ko threats afterwards...]
+;W[di];B[eh]LB[ci:A]C[ ** a) looks better.];W[ci];B[ei];W[dj];B[dk];W[ck]
+;B[ej];W[bj]C[ ** Unfortunately there is no way for black here.];B[bh];W
+[bi];B[eg];W[df];B[hl];W[hk];B[im];W[jm];B[gl];W[in];B[np];W[nq];B[mr];W
+[mq];B[nr];W[oq];B[ln];W[mn];B[ko];W[kn];B[lm];W[no];B[rp];W[rq];B[sg];W
+[sl];B[sk];W[sp];B[sl]C[ ** Better to sacrifice two more stones - retaking at t7 gives you three more liberties and white has to win a ko to capture.]
+;W[sh];B[si]LB[se:A][qd:B][sf:C]C[ ** Has to be at a) or b). White can start a big ko now with c).]
+;W[so];B[qd];W[cm];B[dm];W[dl];B[bm];W[dd];B[cc];W[fg]LB[ff:A]C[ ** Necessary to protect against black a). This move is hence just one point reverse sente, so not so big.]
+;B[bl];W[bk];B[cs];W[eq];B[ds];W[es];B[fr];W[er];B[mm];W[nm];B[nl];W[nn]
+;B[ol]C[ ** 6 points.];W[ah]C[ ** About 3 points.];B[ae]C[ ** Not necessary yet.]
+;W[kk]C[ ** 3.5 points.];B[ag]C[ ** Not sente - white has already gained by playing a12.]
+;W[ga]C[ ** 4 points.];B[lr];W[or];B[ks];W[ns]LB[ak:A][aj:B][al:C][lk:D]
+[ai:E]C[ ** Black is 79 points behind on the board.])
+(;B[pm]C[ ** Now white can't live with just one move.];W[ol];B[nm];W[nj]
+;B[ml]C[ ** This would be much better for black.]))
+(;B[hq];W[ir];B[mq];W[lr];B[mo];W[np]C[ ** But black has to many cutting points now. The reason is the bad-shape move at L3.]
+
+(;B[lo];W[jp];B[kp];W[jo]C[ ** Black looses half his group.])
+(;B[ko];W[jp];B[kp];W[jo];B[jn];W[io];B[in];W[ho];B[kn]C[ ** Again this is not so good for black.]
+;W[hn]C[ ** Playing here is good enough for white, even if black escapes to the left.]
+)))
+(;B[hq];W[ir];B[fo];W[dn];B[ko]LB[fm:A][gm:B]C[ ** This way black will probably survive. He has points at a) or b) to aim at later on.]
+))
+(;B[jh];W[kg];B[mf]C[ ** Black has made things a bit difficult for himself, but he should still be able to save everything.]
+))
+(;W[fb];B[gd];W[ga]LB[gc:A]C[ ** a) next is no good for black.]
+(;B[eb];W[gc];B[md]LB[db:A][nd:B]C[ ** White plays a) or b).]
+(;W[db];B[nd];W[ch]LB[ce:A][qc:B]C[ ** Black has a bad weakness at a). Furthermore, white will have no problems leaving in the top right corner with b).]
+)
+(;W[nd];B[gb];W[qe];B[fa]C[ ** Black has no more threats and so finishes the ko.]
+;W[pe];B[mb]C[ ** If black next kills the six-stone group...];W[dk]C[ ** White's position ot the bottom of the board is satisfactory.]
+;MA[qe][pe][dk]C[ ** White has gained three moves in exchange for the top.]
+))
+(;B[gc];W[db]C[ ** Good for white])))
+(;B[fb];W[gd]LB[eb:A]C[ ** Blocking at a) would be unreasonable for white.]
+;B[eb]LB[gf:A][lb:B]C[ ** But now a) and b) are miai.];W[lb];B[gf]))
+(;B[hd];W[gb];B[kb];W[jb];B[ja];W[ib];B[md];W[lb];B[mb];W[ka];B[mc];W[nd]
+;B[pb];W[nb];B[ma];W[ng]LB[na:A]C[ ** Black can now attack the white stones on the right. In an emergency he has the connection at a). The group on the left hasn't quite got two eyes either.]
+)
+(;B[ib]LB[jb:A][gc:B]C[ ** This move aims mainly at attacking the two stones on the left. White continues a) or b).]
+;W[jb];B[gb]LB[ia:A][gc:B]C[ ** a) next is peaceful, b) is a bit dangerous.]
+
+(;W[ia];B[gc];W[lb];B[ff]LB[hd:A]C[ ** Black protects his cutting point and at the same time captures the two stones.]
+)
+(;W[gc];B[ha];W[hd]LB[hb:A][lb:B]C[ a) next is peaceful, b) gives an exchange.]
+
+(;B[hb]LB[lb:A];W[lb];B[ja];W[kb];B[ld];W[mc];B[eb];W[he];B[kg]C[ ** We next get a running fight between the black and white group. This looks ok for both.]
+)
+(;B[lb]C[ ** This is a strong move if black has good ko threats.];W[hb]
+;B[md]C[ But here he only has this one.];W[ia]C[ ** The ko is big.];B[nd]
+C[ ** This result looks more or less even, maybe slighly in favour of white.]
+))))
+(;B[ic];W[jd];B[jb];W[kb];B[ib];W[kc];B[je];W[ld];B[hf]MA[ec][ed]C[ ** White's marked stones are almost captured.]
+))

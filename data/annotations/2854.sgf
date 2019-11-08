@@ -1,0 +1,142 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.14]
+
+PB[uchihara]
+BR[5k]
+PW[Isawa]
+WR[4k]
+KM[0.5]
+DT[2003-08-14]
+PC[The Kiseido Go Server (KGS) at http://kgs.kiseido.com/]
+RE[B+9.50]
+TM[1800]
+OT[5x40 byo-yomi]
+RU[Japanese]
+
+C[uchihara:
+Hello.
+I played this game on KGS as black. Even though I feel I was leading during the game, it turned out to be a close game (Black +9.5 with komi=0.5).
+I would appreciate pointers on big moves I missed, mistakes I made as well as answers to my questions.
+
+Thank you!
+
+Christian: 9.5 points is not a close game.];B[pd];W[cp];B[pq]
+;W[dc];B[de];W[ce];B[cf];W[cd]
+(;B[df];W[fc];B[cj];W[cl]
+(;B[ej]C[uchihara:
+is this move ok? It seems to be a little passive. Maybe should I have played somewhere else?
+
+Christian: Yes, this move is too slow. 
+See variation at move 9.];W[eq]C[Now white has strong positions on the left.]
+;B[qk];W[po];B[np];W[qq];B[qr];W[qp];B[rr];W[ok]C[I have not seen this move before. I think there is a reason for this ...]
+;B[qn]C[... good! That hurts!];W[pn];B[pm]C[uchihara:
+I don't know if this move is bad. Maybe R7 is better ?
+
+Christian: I'm afraid I'm not strong enough to answer this question.
+
+Since there is a stone at O4, this is not aji-keshi - you can cut at P6 later.
+
+The more I think about it, the more I like Q7.];W[om];B[pl]
+;W[ol]
+(;B[no]C[Ouch! This _is_ aji-keshi!];W[nn]
+(;B[jq]C[uchihara:
+Is K3 a better move than Q11 or R11?
+Being surrounded in the right side was a problem for me later in the game.
+
+Christian: The lower side is more important.];W[qj];B[rj];W[pk]
+
+(;B[rl];W[qi];B[ri];W[rn]
+(;B[qh]C[If you are not confident in this fight, you should play S7 first - this gives you another eye with ko. You could then use R12 as a ko threat.]
+;W[qc]
+(;B[pc]C[uchihara:
+is this the good direction? I thought that R16 would not give enough territory for black.
+
+Christian: I think this is the wrong direction - see the variation.]
+;W[qd];B[pe];W[rf];B[kc]LB[ph:A]TR[dc][fc]C[Christian: The marked stones reduce the value of this extension. And A becomes important now.]
+;W[pg]
+(;B[ph];W[oi];B[qg]C[This _might_ be aji-keshi.];W[qf];B[pi]
+C[This _is_ aji-keshi. Just play at P12.];W[pj];B[oh];W[pf]
+;B[qe]C[Ouch!
+This looses an important liberty.  Why did you play here?];W[re]
+;B[qb];W[rb]
+(;B[ke];W[nf];B[nd]C[uchihara:
+I feel like this move was pretty bad: too much stones and I'm not surround enough territory
+
+Christian: Yes!];W[ni];B[nh];W[mh];B[mg];W[ng]
+(;B[qm]C[Ouch! This is not the right move. See the variation.]
+;W[rm];B[ql];W[ro];B[sk];W[el];B[dm];W[dl]
+(;B[dp]C[This looks like banging your head against a wall.]
+;W[dq];B[fn]C[uchihara:
+I tried to keep my stones light
+
+Christian: F6 is good, but D4 looks heavy.];W[em]C[This move is not good - you get good shape if white wants to capture D7.]
+;B[en];W[dn];B[do];W[cn]
+(;B[fp]C[Christian: Now you missed the opportunity to play at C5. This is _not_ aji-keshi now.]
+;W[co];B[fq];W[ln]
+(;B[lp]C[uchihara:
+again a slow move. Is there a bigger move?
+
+Christian: Yes, L4 is bigger locally.];W[ch];B[di];W[bh];B[bf]
+;W[bj];B[bk];W[ck];B[bi];W[bl];B[aj];W[lh];B[hc];W[oq];B[op]
+;W[jo];B[jj];W[jh];B[ki];W[kh];B[hj];W[ii];B[ij];W[lk];B[gb]
+;W[fb];B[fa];W[ea];B[ga];W[db];B[fr];W[md]
+(;B[mc];W[nc];B[nb];W[lc];B[mb];W[ld];B[lb];W[gc];B[ib];W[rq]
+;B[or];W[pp];B[nq];W[ip];B[iq];W[jl];B[kk];W[kl];B[kd];W[ne]
+;B[od];W[lf];B[ac];W[bc];B[ae];W[ab];B[cr];W[cq];B[dr];W[er]
+;B[es];W[br]
+(;B[ds]C[Christian: Oops. B1 is much better.];W[gm];B[gh];W[ff]
+;B[fg];W[ef];B[eg];W[ed];B[dh];W[gk];B[gj];W[gn];B[hp];W[go]
+;B[fo];W[gp];B[hq];W[gq];B[gr];W[ep];B[eo]LB[pb:A][ad:B][lj:D]
+[ho:C][bs:E]C[Too small. A to E are all bigger than 4 points in gote.]
+;W[hd];B[id];W[ie];B[lj];W[mj];B[ho];W[in];B[ll];W[mk];B[le]
+;W[me]
+(;B[kf]C[uchihara:
+H15 seems bigger.];W[he];B[gf];W[ge];B[ee];W[fe];B[bs];W[ar]
+;B[ko];W[kn];B[jp];W[ad];B[bj];W[be];B[al];W[am];B[bm];W[ak]
+;B[af]
+(;W[al]C[The ko is not that big.];B[pb];W[ra];B[fk];W[fl];B[hl]
+;W[gl];B[il];W[im];B[io];W[jn];B[je];W[hi];B[mo];W[gi];B[fi]
+;W[ek];B[fj];W[lo];B[kp];W[sh];B[si];W[sg];B[rh];W[sm];B[sl]
+;W[qa];B[mn];W[mm];B[oo];W[on];B[sq];W[sp];B[sr];W[li];B[kj]
+;W[oe];B[pa];W[hg];B[gg];W[og];B[kg];W[lg];B[rg];W[sf];B[ig]
+;W[hf];B[jg];W[ih];B[if];W[dj];B[ci];W[dk];B[hk];W[jk];B[hr]
+;W[bq];B[fs];W[as];B[cs];TW[aa][ba][ca][da][sa][bb][cb][eb]
+[sb][ac][cc][ec][rc][sc][bd][fd][gd][rd][sd][se][mf][of][mg]
+[mi][nj][oj][nk][ll][ml][nl][bm][cm][dm][jm][km][lm][nm][an]
+[bn][sn][ao][bo][so][ap][bp][rp][aq]TB[ha][ia][ja][ka][la][ma]
+[na][oa][hb][jb][kb][ob][ic][jc][nc][oc][jd][jf][ag][bg][cg]
+[dg][ah][bh][ch][eh][fh][ai][ei][sj][rk][ip][mp][kq][lq][mq]
+[oq][ir][jr][kr][lr][mr][nr][pr][gs][hs][is][js][ks][ls][ms]
+[ns][os][ps][qs][rs][ss])
+(;W[pb];B[al];W[an];B[bn];W[ao];B[bo];W[ap];B[bp];W[aq]))
+(;B[he];W[gd];B[if];W[ge];B[hf];W[kf];B[jf]))
+(;B[bs]))
+(;B[me];W[ne];B[mc];W[ld];B[le];W[od];B[nc];W[oc];B[oe];W[ob]
+;B[pb]
+(;W[mb])
+(;W[nb];B[mb])))
+(;B[kp]C[Locally, this would have been better.]))
+(;B[co];W[bo];B[bn];W[cm];B[bp]
+(;W[eo];B[cq])
+(;W[cq];B[fp])))
+(;B[dq]C[This move looks better.];W[dp];B[er];W[dr];B[fq];W[cq]
+;B[ep]))
+(;B[rm]C[Christian: This is the way to live!];W[qm];B[ql];W[ro]
+;B[rg];W[sg];B[sh];W[sf];B[sk]))
+(;B[pb]C[This move is bigger than L15.];W[nf];B[md];W[nh];B[rg]
+))
+(;B[qg];W[qf];B[ph];W[oi];B[pf];W[og];B[oh];W[ng];B[nh];W[ne]
+;B[nc];W[kf];B[mg];W[mf]))
+(;B[qd];W[pc]TR[dc][fc]C[Christian: The upper side is not importanrt because white has already a low position.]
+;B[ph];W[oi];B[oc];W[ob];B[nc]))
+(;B[rm];W[qm];B[ql];W[qo];B[ro];W[qm];B[qh]))
+(;B[rk]))
+(;B[qi];W[jq]C[This would be very bad for black.]))
+(;B[on]C[The cut doesn't work immediately, but you should not throw it away!]
+
+(;W[oo];B[nn];W[no];B[mo];W[mn];B[nm];W[mm];B[nl];W[mk])
+(;W[no];B[oo];W[op];B[nn];W[oq];B[pr];W[pp];B[mo])))
+(;B[ep];W[ch]C[This invasion is too deep.];B[di];W[dh];B[eh]
+;W[ei];B[dg];W[bj];B[ci];W[bh];B[bi];W[bf];B[bg];W[ah];B[ag]
+;W[ai];B[bk]))
+(;B[dg];W[fc];B[ck];W[cm]LB[ch:A]C[Even in this position (which is much thinner) you can play tenuki. See Ishida for variations of the white invasion at A.]
+))

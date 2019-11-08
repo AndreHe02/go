@@ -1,0 +1,122 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+PB[ragkgs]
+BR[3k]
+PW[Bruno]
+WR[1k]
+KM[0.5]
+DT[2007-07-23]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[B+Resign]
+TM[1800]
+OT[35x50 byo-yomi]
+RU[Japanese]
+
+C[please advise how to handle white by playing safe, simple moves not requiring long reading.  i feel i was lucky on the lower side; im sure white made many overplays and would be interested to know whether you agree.
+
+my objective is to improve my "feel" for a position, so anything you can suggest at a conceptual level, rather than showing me long sequences that end in a capture, would be really appreciated.  thanks.
+
+N: hello, nice objective, we all want to win games without thinking hard ;-) However at some point in go we will need to think about more complicated lines. However there are some things that have more to do with feeling than with reading (at least at my level) for example:
+
+- miai: make a move so that afterwards there are two equivalent options, either you attack on the left, ether on the right
+
+- play flexible: don't get emotionally attached to your territory or stones, be prepared to give up something in order to get something else. Thinking this way, opponents moves that were sente, won't be sente anymore.
+
+- think about key-points: in fights somethimes there are key-points for shape, meaning that the difference of you playing there first or your opponent first is huge.
+
+My comments are preceded by N:
+I tried to limmit long sequences, but sometimes could not resist ;-)
+
+Nelis];B[qd];W[pp];B[dd];W[dq];B[do]C[N: important to play in this area]
+;W[fp]LB[co:A]C[N: rather one sided move, A is the most popular answer.]
+
+(;B[kq]C[N: difficult to say this is a bad move, but i think there would be nothing wrong with the normal josekis. Ok white will get the side, buth he will have played all his stones on one side of the board. You must accept your opponent shall make territory somewhere on the board.]
+
+(;W[dj]LB[dl:A]C[N: bad, A is the place to play if black plays tenuki.
+this stone doesn't do much.];B[cq]
+(;W[cp]C[N: trick play.];B[dp];W[co];B[eq];W[dr]
+(;B[cn]C[N: this is too easy for white, now he can easily capture this stone.]
+;W[bq];B[er];W[cr];B[dn];W[hq];B[ep];W[go];B[bo];W[bp]
+(;B[fm];W[gm];B[fk];W[fn];B[em];W[df]
+(;B[dh]LB[gl:A]C[N: agressive, i'd be tempted to play the key-point 'A' right away]
+
+(;W[ch];B[cg]
+(;W[ci]C[N: this is a very bad move, giving a very heavy shape and not helping much]
+;B[dg];W[fj]
+(;B[gk];W[de];B[gh];W[fh];B[ei];W[ej];B[fi];W[gj];B[hk];W[gi]
+;B[fg]
+(;W[cd]
+(;B[cc];W[bc];B[ce];W[bd];B[ed];W[cf];B[bh];W[fe];B[bf];W[be]
+
+(;B[gc]
+(;W[ff];B[hh];W[ij]C[N: ok you didn't want variations, but here again i think you could cut, although it is slightly more difficult, it would make the game shorter ;-)]
+
+(;B[ik];W[ii];B[hf];W[he];B[gf];W[hc];B[gd];W[ge];B[hd];W[if]
+;B[hg];W[id];B[ic];W[jm];B[hn];W[hm];B[kk]C[N: good, white has too many problems to fix.]
+
+(;W[mq]C[r];B[jh];W[kj];B[kl];W[km]
+(;B[lo]LB[ml:A]C[N: agressive, but might be possible. If you wanted to play simpler, you could have played around A, it makes you stronger towards the bottom and threathens the white dragon.]
+;W[mn];B[np];W[nq]
+(;B[in]
+(;W[jn];B[ip];W[gn];B[im];W[il];B[jl]
+(;W[hl]C[N: white plays to heavy the last moves, he needs to learn to sacrifice something.]
+;B[lm];W[io];B[ln];W[ll];B[lk];W[ml];B[mm];W[nl];B[hp];W[ho]
+;B[gq];W[jp];B[jq];W[fq];B[hr];W[fr];B[on];W[nm];B[nn];W[jj]
+;B[ck];W[dl];B[jk];W[mj];B[lj];W[li];B[mk];W[nk];B[nj];W[mi]
+;B[oj];W[fl]
+(;B[ek]TR[nk][ll][ml][nl][nm]C[N: hmm, now you make things complicated. Just connecting seems ok since the marked stones are captured.]
+;W[el];B[dk];W[cl];B[bk]
+(;W[gl]C[N: rather complicated things could happen if white did not  connect here.]
+;B[bm]
+(;W[bi]C[N: white should have defended his cuttingpoint, but the game would be over still.]
+;B[kg];W[jg];B[jf];W[ig];B[ih];W[ie];B[ki])
+(;W[kh]))
+(;W[bl];B[gl];W[bj];B[al];W[am];B[ak];W[bm];B[aj];W[ai];B[bi]
+;W[cj];B[ah];W[hj];B[ai];W[af];B[bg];W[bn]))
+(;B[el];W[ek];B[gl];W[hj];B[fl];W[dm];B[en]))
+(;W[io];B[hl];W[ho];B[il];W[jp]))
+(;W[im]))
+(;B[nn]C[N: this seems proper shape, during the following variations, black should be able to get some kind of advantage.]
+;W[mo];B[mp]
+(;W[lp];B[lq];W[kp];B[oq];W[or])
+(;W[no];B[op];W[oq];B[oo];W[lp];B[lq];W[kp])))
+(;B[ml]))
+(;W[lm]))
+(;B[hj];W[hi];B[ii];W[ih];B[ji]
+(;W[hg];B[gg];W[gf];B[eg];W[di];B[eh];W[ig];B[bi];W[bj]
+(;B[bk])
+(;B[ck];W[cj];B[bk];W[ai];B[dk];W[ah];B[bg]))
+(;W[gg];B[eh];W[hg];B[fh];W[jg];B[bi];W[bj];B[ck];W[cj];B[bk]
+;W[ai];B[ah];W[aj];B[dk];W[af];B[bg];W[ae];B[ek];W[ag];B[ak]
+)))
+(;W[cb];B[hh]))
+(;B[hh]))
+(;B[hh]C[N: ok you didn't want variations, but since white didn't play the key-point, i'd be tempted to play there myself. You seal white in, maybe he lives, but in gote, in that case you can go back to the corner or attack the white stones in the lower middle/]
+;W[ij];B[hj];W[hi];B[ii];W[ih];B[ji];W[ig];B[gf];W[cl];B[bm]
+;W[bg];B[bf];W[ah]
+(;B[cf];W[bl];B[ed])
+(;B[ce];W[bl];B[jk])))
+(;W[hh]C[N: white should first play here.];B[gg]C[N: now he has a road to the center.]
+))
+(;B[gl]
+(;W[hm];B[gj])
+(;W[gj];B[hm])))
+(;W[dg]))
+(;W[cd]
+(;B[cc];W[ce];B[dc];W[ch]C[N: better for white])
+(;B[ei];W[dc]C[N: a trade, but:];B[gl]C[N: black plays the key-point first]
+)))
+(;B[fd];W[cd];B[cc];W[ce];B[bc];W[gl])
+(;B[gl]C[N: now the white stones can become weak. The difference with white first playing here is big.]
+))
+(;B[ek]TR[go][fp][hq]C[N: i think i'd play here, if white and black play more moves in this area, the white stones will end up weaker]
+))
+(;B[bq]TR[fp];W[dn]C[N: now this is a variation of the small avelache, with the triangled stone a bit of a trick play.]
+;B[en];W[dm];B[fr]))
+(;W[cr];B[cp];W[er];B[cl]C[N: However, now white's stone would look rather stupid.]
+))
+(;W[dl];B[oc];W[en]C[N: and this is the follow-up move.]))
+(;B[cq];W[cr];B[cp]
+(;W[er];B[ck]C[N: now the side is still open.])
+(;W[br];B[ck];W[jq]C[N: now you have sente to take a big point.]
+)))

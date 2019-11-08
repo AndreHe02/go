@@ -1,0 +1,84 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+PB[Luke22]
+BR[18k]
+PW[bloa]
+WR[16k]
+KM[0.5]
+DT[2009-01-18]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[W+Resign]
+TM[1200]
+OT[5x60 byo-yomi]
+RU[Japanese]
+
+C[Hello, I'm your reviewer. Every time I'll make a remark about the game I'll start it with "R:"
+At the end of the game I will summarize the review.
+I hope you find it useful to improve];B[pp]C[bloa [16k\]: hi]
+;W[qd]C[Luke22 [18k\]: hi
+Luke22 [18k\]: gg];B[dp];W[dd];B[cj];W[nc];B[cc]LB[pj:A][qj:B]
+TR[nc][qd]C[too early for that invasion? It usually works againts 18K under oponnets, so i get used to do it.
+
+R: yes, it is. In fact an extension to A will be very good starting from the powerful white corner. I think that the best move for black is A (or B).]
+;W[cd];B[dc];W[bc]
+(;B[ed]LB[bb:A]C[This is the right move?
+R: I think that A would be a little better. see variations to find out why]
+;W[cb];B[ec];W[db];B[eb];W[df];B[de]LB[bb:B][ic:C][bd:A]SQ[eb]
+[dc][ec][ed]C[R: I think of this as an error. white has many cutting points, A and B are the most self-evident.
+But a cut doesn't bring to a good position for either groups (the variation is quite complicated and so I omitted it).
+Furthermore your group has no base so you should try and make a base on the side with C as soon as you can.
+
+D15 has another bad quality: loses sente, in fact white, after C15, replyed by black E15 can tenuki]
+;W[ce];B[ee];W[jp];B[jq]LB[ic:B][pj:A]C[R: Error. By playing a stone directly in contact with a weak stone you allow it to reinforce itself. 
+The extension at A is huge now, and you should consider playing around B to stabilize the upper group]
+;W[pj];B[jd];W[pg];B[md]LB[qm:A][qn:B]SQ[dp][pp]C[R: this is another error. You should try and expand your territory on the right side, otherwise white won't have any troubles winning. Remember that your hoshi can be invaded in san-san. I think the best move is around A or B. A is more offensive whie B may be too defensive. I prefer A since can be used to attack white's side]
+;W[pm];B[qm];W[ql];B[rm];W[rl];B[pn];W[om];B[on]TR[qm]C[R: By playing the marked stone attached to white you help him making a moyo on the right side while you have far less points]
+;W[qq];B[qp]C[R: wrong direction];W[pq];B[oq];W[rp];B[ro];W[rq]
+
+(;B[pr]C[R: this leaves too many cutting points. (see variations)]
+;W[qr];B[nr]C[R: This move does not protect]
+(;W[ps];B[os];W[or]C[disctracted];B[sp];W[ns];B[ms]LB[qo:4]
+[so:5][op:3][nq:2][mr:1]C[R: this move leaves you with 5 unprotected cutting points. See variations for an example]
+
+(;W[os];B[mr];W[op];B[nq];W[np];B[oo];W[no];B[nn];W[lp];B[mp]
+C[R: this move is almost never good: you reinorce your opp.]
+;W[mo];B[mq];W[kq];B[kr];W[lq];B[lr];W[lo];B[jr];W[ir];B[iq]
+;W[hr];B[hq];W[gq];B[hp];W[gp];B[is];W[hs];B[gr];W[js];B[ks]
+;W[fr];B[is];W[gs];B[ho];W[mm];B[js]C[R: useless... you only lose sente...
+Your game is already heavily compromised so my remarks will be fewer]
+;W[cq]
+(;B[dq]TR[dp]SQ[gp][gq][fr][gs]C[R: Wrong direction. Remember always to block the 3-3point invasion in order to form a wall that faces a big extension. Here your wall is facing enemy stones, thus making no points. see variation]
+;W[do];B[cp];W[cr];B[dr];W[ds];B[es];W[cs];B[er];W[bp];B[co]
+;W[cn];B[bo];W[bq];B[dn];W[eo];B[ep];W[fo];B[bn]C[I'm completely lost at that time]
+;W[cm];B[dm];W[cl];B[bm];W[dl];B[bl];W[em];B[bk];W[ap];B[ao]
+;W[ar];B[cg];W[cf];B[bg];W[bf];B[ag]LB[ef:1][eh:2][jh:3][im:4]
+C[R: never descend to 1st line in the middlegame (unless necessary for killing/living). I think that one of the moves from 1 to 4 is better since it claims much more points]
+;W[eg];B[af];W[ae];B[ad];W[be];B[bd];W[ac];B[ef];W[dg];B[dh]
+;W[eh];B[di];W[hm];B[dj];W[jm];B[go]LB[hm:A][jm:B]C[R: White A and B shut your group (with only one eye) in. you should've tried to escape before. Now even if you can make another eye, it will be worth less points than before]
+;W[fp];B[gn];W[gm];B[fn];W[en];B[fm];W[fl];B[nm];W[nl];B[ol]
+;W[pl];B[ok];W[pk];B[oj];W[ml];B[mn];W[ln];B[lm];W[qn];B[qo]
+;W[po];B[rn];W[pn];B[sl];W[sk]C[R: to summarize:
+- you tend to play too much attaching your stones to the opponent's
+- you should try to make a base (space on the side where your group can make eyes) before engaging combat
+- you tend to be overaggressive, trying to cut everywhere
+- you leave too many cutpoints
+
+I recommend you study a couple josekis and try to use the remarks I gave in this review.
+
+Should you have any doubts regarding the review, don't hesitate and mail me, I'll try to clarify myself.
+enjoy.])
+(;B[cp];W[dq];B[ep];W[eq];B[bp];W[bq]TR[cj]SQ[bp][cp][dp][ep]
+C[R: this way you maximize the effectiveness of your wall, claiming half of the left side]
+))
+(;W[op];B[po];W[nq];B[os];W[mr];B[ls];W[sq];B[so];W[ns]C[R: and your side is gone]
+))
+(;W[op];B[np];W[qo];B[oo];W[rn];B[qn];W[so]))
+(;B[or]LB[qs:B][rs:A]C[R: this is important since threatens to take away white base with A or B]
+;W[pr];B[op];W[qo]C[R: this cut is now uneffective]))
+(;B[bb]
+(;W[bd];B[ec];W[ed];B[gc]LB[bc:A]TR[bd][cd][dd][ed]SQ[cj]C[This is why white A was an error. 
+You make territory whie white has a wall which cannot turn in many points since your marked stone prevents it to create a moyo.]
+)
+(;W[cb];B[bd];W[db];B[ec];W[eb];B[ed];W[be];B[ac]TR[cb][db]
+[eb][cd][dd][be]C[R: this is another variation. White groups are very weak and you can try and kill them while reinforcing your group. I think this is very good for you]
+)))

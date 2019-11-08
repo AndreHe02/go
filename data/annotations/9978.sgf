@@ -1,0 +1,245 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.16]
+
+GN[Jonk-ErichZann-1048246-20160223]
+PB[Olaf Wiemann (ErichZann)]
+BR[7k]
+PW[Jonathan Kay (Jonk)]
+WR[8k]
+KM[6.5]
+DT[2016-01-02,2016-02-23]
+PC[Dragon Go Server: http://www.dragongoserver.net/]
+RE[B+23.5]
+RU[Japanese]
+SO[http://www.dragongoserver.net/game.php?gid=1048246]
+GC[Game ID: 1048246
+Game Type: GO (1:1)
+Rated: Y
+
+White Start Rating: 8k (+2%) - ELO 1302
+Black Start Rating: 8k (-33%) - ELO 1266
+White End Rating: 8k (+38%) - ELO 1337
+Black End Rating: 7k (-34%) - ELO 1366]
+
+C[In this game I am looking at how my early game decisions can be better. I also need to learn how to best count the score and make appropriate invasions when I am behind. Thanks.
+
+Hello! This is Joonas, EGF 1k, I'll be reviewing the game for both sides.]
+;B[pc];W[dd];B[pq];W[dp];B[qk];W[pe];B[nd]
+(;W[qh]C[Another alternative would be A, see comments in variation regarding that.]
+;B[qn];W[cj]SQ[pe][qh]C[Leaving marked group makes it quite easy target for even immediate attack from black. It might be beneficial for black to attack now immediately.]
+
+(;B[fp]C[Rare approach, but considering black bottom right, seems OK.]
+;W[dn];B[dq];W[cq];B[eq];W[iq]LB[cr:A]TR[dn][dp][cq]C[White is skipping a usual move at A, which locally would be beneficial -- it is good even if white is 1 line lower (more left), so with triangled stones higher it is even better.
+
+Of course A will let black strengthen his own group. but then white group is very solid and you can launch an attack easily.]
+;B[cr];W[bq]C[Now black gets an eye in sente here and can pincer more easily.]
+
+(;B[mq]LB[io:C][kp:B][kq:A]TR[qk][qn][pq]C[This pincer is much too conservative, with marked stones, black should play A or B (or C). If I exaggerate a bit, this makes about 4 points for black in gote. See variations.
+
+Such a small extension is like black is admitting his marked stones are inefficient. Don't admit to such things!]
+;W[jd]LB[pe:A]C[I like the direction here, make claim to top, and be prepared to handle attack towards A next.]
+;B[fc]LB[df:A]C[Good counter from black, I would expect white to respond at A]
+
+(;W[hc]LB[kc:B][jd:A]C[Interesting direction. I think the white extension is a bit awkward, so it does not compensate for black getting the corner. If A was at B, I would understand this direction better.]
+;B[cc];W[cd];B[dc];W[dg]LB[jd:2][qf:B][qh:3][fn:A][io:C][iq:1]
+C[Playing A instead of this feels more natural, as it keeps pressure on black while also building the side.
+
+Looking at the board at this point, black has 4 solid groups, white has 1 solid side and 3 weak groups. It seems white has concentrated on taking sente, but left quite a many weaknesses behind. Black is very close on territory and few weaknesses, so the game looks promising for him.
+
+Every time opponent makes a gote move like this, you should stop and think where to play next. My ideas here would be:
+
+A) Prepare to attack group 1, this should give profit on bottom left and leave black bottom left group safer, which can serve as base to reduce left side.
+
+B) Attack group 3 to get immediate profit, and depending on result, prepare for another attack against 2 after this.
+
+C) Another attack on group 1, aiming more towards giving black control of the center, which will make attacks against 2 and 3 more effective.
+
+Group 2 is too easy to connect or save to be attacked right now.]
+;B[dl]LB[iq:A]C[I think black is needlessly spreading his resources thin, but this is acceptable as a probe if you intend to attack A soon.]
+
+(;W[dk]LB[ej:A][cl:B][fn:C]C[I don't know what this move is, looks awkward. A-C spring to mind instead of this.
+
+"Contact play makes opponent stones stronger"]
+(;B[ek]LB[cl:A][dm:B]C[Black is offering white A, and white should take it. This hane feels like an overplay without any clear benefit.
+
+Black should play for example B instead of this, see variation.]
+
+(;W[ej]C[This hane is in the wrong direction, it lets black atari and connect, after which white is cut.]
+;B[ck]C[Good!];W[dj];B[el];W[cm]LB[cl:B][fn:A]C[Will this move make you live? If yes, play it and then play elsewhere. I'm guessing white will still want to jump after black connects, so instead of exchanging this for no good reason (it essentially guarantees a loss of points), play A immediately. Later when white is alive, B instead of this peep might be a lot bigger.]
+;B[cl];W[fn]LB[cl:2][cm:1][fn:3]C[There is a 1-2-3 rule which says that when you consider a sequence of three moves, you often should just play the third immediately.]
+;B[bm]LB[hl:B][hp:A]C[Too early, too small. Black should play A or B instead of this, or something more along those lines.]
+;W[bn];B[dm];W[cn];B[al]LB[br:A]C[Black lost sente and made an eye, and white is now able to live with A, not a very good sequence.]
+
+(;W[hn]LB[iq:A]C[I was trying to keep both groups separate....I should have taken much more advantage of his weak groups here, but I also has weak groups...
+
+Joonas: I think this is a good plan. However, it is hard to connect these two groups. It will be a complicated fight, and you should be prepared to lose A and maybe get some center stones in exchange. But this is hard to avoid, because white had too many weak groups on the board, and when white did not connect left side, something must give.]
+;B[hq]LB[hp:A]C[This seems to let white connect with A, However, hard to find anything 100 % working for black, so maybe this is better -- play calmly and see if you can cut later.]
+;W[ip]C[Excellent, now white is about connected and black almost needs to add a move.]
+;B[ir];W[jr];B[hr];W[gj]LB[kp:A][kq:B]C[White is again leaving debt behind when he doesn't connect at A or B. If you are going to leave it unplayed, don't play K2 at all now.]
+;B[gm]
+(;W[gn]C[Solid plan];B[hl];W[jm]C[Again, very reasonable. White starts to be rather alive.]
+;B[jl];W[kl];B[jk]LB[jd:4][pe:3][dg:2][bj:C][cn:1][kp:B][br:A]
+C[Was there a way to keep him running?
+
+Joonas: Black has a sente eye at A and almost an eye here, so he will not need to run very far. So now is a good place for white to consider his groups.
+
+1 seems like it will make another eye around A or B. So it is more or less safe.
+
+2 is quite settled and not yet time for endgame around C.
+
+3 and 4 are both weak. Could you get D in sente and then return to save 4?]
+;W[qc]C[Excellent!];B[qb]
+(;W[rc]LB[qd:A]TR[qc][pe]C[This shape looks quite bad, I can almost bet that black will get sente. Just A would be better]
+
+(;B[rb]C[Quite small for black.];W[pd];B[oc]C[Ouch, white gets sente.]
+;W[lc]C[Nice combination for white!];B[kk];W[pp]LB[kp:B][jq:A]
+C[invasion point?
+
+Joonas: Problem with black bottom right is, that it is super solid. I would not try to invade, just reduce. Note that black cut of A is quite big, so maybe white B is bigger than this.]
+;B[qp];W[qq];B[pr];W[qo];B[rp];W[ro]
+(;B[rq]C[Black let white off the hook too easily. See variation.]
+;W[pn];B[op];W[qm];B[po];W[rm]C[I am trying to attack his R9 stone....I wish I could have got more advantage from this attack.
+
+Joonas: You got more than I would have guessed, great work. :)]
+
+(;B[rh]
+(;W[rg];B[ri];W[qi];B[qj]
+(;W[rk];B[rj];W[rl];B[qg]C[missed this...
+
+Joonas: yes this looks quite nice. However...]
+(;W[qf];B[pg]
+(;W[rf]
+(;B[pi];W[fd];B[gd];W[ec];B[eb];W[ed];B[gc];W[bk];B[bl]
+(;W[bj]C[I'm not sure black can be killed, in that case just don't play B10, it is too small.]
+;B[hd];W[ic];B[bd];W[be];B[bc];W[cf];B[gg];W[il];B[ik];W[hm]
+;B[gl];W[im];B[hj];W[lr];B[on];W[pm]C[Black is playing very solid endgame.]
+;B[ll]
+(;W[nb];B[nf];W[kf]LB[rd:A]C[This seems like the losing move. Black kills with A (I think that works) and white has no hope of catching up.]
+
+(;B[lg];W[om];B[ok];W[od];B[nc];W[mc];B[km];W[nl];B[nk];W[kg]
+;B[kh];W[lf];B[mg]LB[mf:A]C[In retrospect, black should play A instead of this.]
+;W[ne];B[me];W[oe]
+(;B[md];W[ob];B[mf]C[Quite unfortunate for black. But still feels black is leading.]
+;W[pb];B[jg];W[lp];B[jf];W[ke];B[gi];W[fi];B[fh];W[eh];B[je]
+;W[kd];B[id];W[mp];B[mr];W[nn];B[ko];W[lq];B[ff];W[ef];B[br]
+;W[ar];B[jp];W[jq];B[gb];W[hb]TR[fa][hf][ig][oh][qh][ji][li]
+[ni][lk]SQ[ma][qa][jb][lb][sb][rd][sf]C[I really didn't see how he would get so many points in the middle...I need to learn how to see into these potential territory theats earlier....advice?
+
+Black plays very good endgame, and white follows black around too much here. But the game really became hard after white had 3 weak groups. When you looks at the board now, black made triangled area while attacking and white made squared area when defending. And unless black hadn't been cut, white would have just died and game would've been over even earlier.]
+;B[ha];W[jb];B[ja];W[ka];B[ia];W[ep];B[fr];W[nr];B[nq];W[ms]
+;B[or];W[ns];B[os];W[ls];B[oo];W[jo];B[kp];W[kn];B[ln];W[jn]
+;B[lo];W[np];B[oq];W[gk];B[hk];W[fm];B[fl];W[fj];B[fe];W[ee]
+;B[pf];W[of];B[og]
+(;W[sb]C[huge mistake...];B[qd]C[Yeah, game over.
+
+Very interesting game. I think black played quite solid endgame, and even before that, he got good profit when white left too many weak groups on the board. However, black also had his right side invasion which I think was a bit needless complication.
+
+Hope you found the comments and variations useful. Neither played made grave reading errors (discounting the ones that left white alive here, then made white live again, and then again lost these stones), so with some additional middle game analysis I think both of you have potential to reach 3k-4k level quite soon.
+
+BR, Joonas];W[rd];B[qe];W[re];B[so];W[rn];B[sg];W[sf];B[sh]
+;W[sn];B[sp];W[ml];B[mk];W[mm];B[lm];W[gp];B[gq];W[fo];B[fq]
+;W[hp];B[no];W[mn];B[mo];W[ol];B[kq];W[js];B[is];W[bs];B[dr]
+;W[ad];B[ac];W[ae];B[fg];W[aq];B[cs];W[ak];B[ga];W[jc];B[pl]
+;W[ql];B[pk];W[sj];B[an];W[ao];B[em];W[en];B[ld];W[as];B[ib]
+;W[kb];B[le];W[am];B[pa];W[mb];B[kr];W[ks];B[an];W[hi];B[gh]
+;W[am];B[tt];W[an];B[si];W[sk];B[tt];W[tt]C[thanks for you time and help!]
+;B[tt]TW[la][ma][na][oa][pa][qa][ra][sa][lb][qb][rb][kc][sc]
+[sd][ce][de][se][af][bf][df][ag][bg][cg][ah][bh][ch][dh][ai]
+[bi][ci][di][ei][aj][sl][nm][sm][in][qn][bo][co][do][eo][go]
+[ho][io][ap][bp][cp]TB[aa][ba][ca][da][ea][fa][ab][bb][cb][db]
+[fb][od][pd][ge][he][ie][ne][oe][pe][gf][hf][if][of][hg][ig]
+[ng][hh][ih][jh][lh][mh][nh][oh][ph][qh][hi][ii][ji][ki][li]
+[mi][ni][oi][qi][ij][jj][kj][lj][mj][nj][oj][pj][lk][kl][pp]
+[qq][sq][er][gr][qr][rr][sr][ds][es][fs][gs][hs][ps][qs][rs]
+[ss]C[White: 45 territories + 2*3 dead stones(B) + 3 prisoners + 6.5 komi = 60.5
+Black: 67 territories + 2*4 dead stones(W) + 9 prisoners = 84
+Result: B+23.5])
+(;W[qd]C[huge mistake]))
+(;B[ob];W[ma];B[pa]C[Ko at A will be quite long and hard for white to kill black.]
+))
+(;B[rd]
+(;W[qd];B[re])
+(;W[sc];B[re])
+(;W[re];B[qd])))
+(;W[nf]LB[oc:B][pi:A][jk:C][op:D]C[better way of attacking? and I move into the center...
+
+Joonas: Black groups A-D seem quite alive, but definitely you need to live with this group. Only problem is that your top group is not 100 % live either. White will have a very hard game.]
+))
+(;W[kn];B[bj];W[bi];B[ak];W[ai]LB[mn:A]C[Point-wise, this should be better as black cannot now make much territory near A]
+))
+(;B[of]TR[qh][qi]C[I would play here as black, let white live and marked stones are as good as dead]
+))
+(;W[re]C[This looks more alive.]))
+(;W[pg]C[Another way to play, not sure if it's better];B[qf]
+;W[rf];B[ph];W[qe];B[pi]LB[rd:A][ne:C][og:B]C[White can live with A or jump out with B/C]
+))
+(;W[oi];B[qg];W[pg];B[rf];W[qf];B[sg]
+(;W[re]LB[ok:A][qm:B]C[ko?
+
+Joonas: Yes kind of, but black A will just escape, white still needs to save B. So too fancy sequence for white.]
+)
+(;W[qg];B[re]))
+(;W[nf]LB[eb:A][bd:B][kp:D][br:C]C[attack this group?
+
+Joonas: black groups look very alive. Better to reduce at A, B, C or save at D instead.]
+;B[mb];W[mc];B[nb];W[lb];B[me]
+(;W[mf])
+(;W[oi];B[qg];W[qf];B[rf];W[pg];B[sg];W[re])))
+(;W[ri]C[You may need to fight more aggressively now.]
+(;B[rg];W[pi];B[pf];W[qf];B[qg];W[pg];B[of];W[rf])
+(;B[qi];W[rg];B[rj];W[sh];B[ok];W[om])))
+(;B[on];W[pm];B[ok]LB[jq:A]C[White still needs to live, black stone escapes, and later A will be big for black. Looks very hard for white.]
+))
+(;B[po]C[What will white do now?];W[op]
+(;B[rn]C[Black is fine];W[rq];B[so];W[oq];B[or])
+(;B[rq];W[rn];B[qm]C[Even this looks quite OK for black])))
+(;B[pd];W[qe];B[lc]))
+(;W[qd];B[rb];W[lc];B[nb]C[Now white groups are settled. However, feels like black is leading a bit, so now white would need to reduce a lot.]
+;W[eb]
+(;B[ec];W[fb];B[gb];W[gc];B[db];W[hb];B[bd];W[be];B[bc];W[cf]
+;B[fe]C[Next go for bottom left.])
+(;B[fb];W[bc]LB[bb:A][ec:B]C[Cannot play A because white B]
+;B[ec];W[bb];B[fe])))
+(;W[hm]C[Joonas; Not sure what this variation is for, but it does look like white should just connect instead of this...]
+;B[gn];W[go];B[fo];W[fm];B[gl];W[fl];B[fk]
+(;W[gk];B[en])
+(;W[en];B[gk];W[il])))
+(;W[gr]LB[go:B][hp:A]C[better to take away eyes...
+
+Joonas: I am not sure this is better, it hinges on the assumption that black is in trouble after this, but it just makes black come out with A or B, and this is not enough to make white live. Better to connect in my opinion, if you can.]
+
+(;B[hp])
+(;B[go];W[gn];B[io]LB[qh:B][iq:A]C[It looks like black can get out in sente because A bottom group is really weak. Then black can attack B and should easily lead in points.]
+)))
+(;W[cl]LB[iq:A]C[Now black is thinking "why again did I play these two stones -- to give white territory and connection?"
+
+If the answer is "To attack A", then do it immediately and play these later if there's the need. Don't reduce your options beforehand.]
+))
+(;B[dm]LB[fn:A]C[This splits white for good. However, white can now play A, and gets a splitting attack (not strong attack yet, but still). Which shows that black should not have played here in the first place, it's making things harder for himself.]
+))
+(;W[cl]C[better?
+
+Definitely better. White is connected, black should maybe play elsewhere now and leave this for later.]
+;B[cm];W[dm];B[ck];W[bl];B[dk]C[Until this looks normal.]
+(;W[bj]C[This leaves black 1 extra liberty and maybe an additional ko threat compared to variation.]
+;B[dj];W[di])
+(;W[bk]C[I think this is the common way to connect]))
+(;W[fn]LB[dl:C][eo:A][cq:B]C[White would welcome black trying to cut at A, he could even give up B stones and capture C.]
+)
+(;W[ej]LB[cl:A][fn:B]C["Prevent the connection under if you dare"
+
+However, here white would have spent 5 stones to make 15 points of territory, so feels a bit too concentrated. So A or B are probably better.]
+))
+(;W[df];B[fe]LB[db:A][hd:B][jd:1][pe:2]C[White now has two weak groups, and black should be OK as he has A and B, so this might be an interesting game as well.]
+))
+(;B[io]LB[qh:A]C[This move is saying "My group is stronger than yours so I can afford a fight". Downside is that it makes white expand towards black right corner, but the proverb says that you should drive opponent towards your strong stones, not use strength to build immediate territory.
+
+Also note, that the fight here may later have consequences on weak white group at A, giving black potential territory in the center (attack bottom, build stones towards center, then attack A, and enclose the moyo).]
+)
+(;B[kq]LB[fp:A]C[This is essentially building bottom right and betting that black A group can survive the fight. It should, so a valid approach.]
+)
+(;B[kp]LB[io:A]C[Very similar to the lower approach, but also a bit like the cap at A.]
+))
+(;B[qd];W[oh]LB[fq:A]C[Black gains in sente, and can continue for example now at A. Again, just a consideration as Jonathan asked for ideas regarding very beginning.]
+))
+(;W[qc];B[qb];W[qd];B[ob];W[qh]C[This or A would create small but stable group for white, which is somewhat harder to attack than playing here directly. But I'm not certain if this is any better, a 6 dan might say R12 directly is better, so who knows.]
+))

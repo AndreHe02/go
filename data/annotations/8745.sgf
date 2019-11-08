@@ -1,0 +1,178 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.17]
+
+GN[DIVAD-azahar1-707347-20120416]
+PB[Peter Kober (azahar1)]
+BR[12k]
+PW[David Ayuso Vilacides (DIVAD)]
+WR[10k]
+KM[6.5]
+DT[2012-01-22,2012-04-16]
+PC[Dragon Go Server: http://www.dragongoserver.net/]
+RE[W+7.5]
+RU[Japanese]
+GC[Game ID: 707347, rated]
+
+C[Dear helper, sensei,
+
+I know some of my bad mistakes -   in the beginning and later loosing part of corner a19.
+Still I hope to get more clearness and general rules by your comments.
+
+Thanks for your help,
+
+Peter (azahar1)
+
+R: Hi there, I'm ilfuria (Daniele), your reviewer.
+I'll review this game for black.
+I'll always start my comments by "R:" (meaning reviewer); also check for the variations: sometimes I put comments in there and not in the main line.
+On move 4 I inserted a quite long comment, because I explained in a lot of detail how to choose where to play at the beginning.
+At the end of the game I'll provide a brief summary of the whole review.
+Should you need any more informations or help, please ask!
+I hope you'll enjoy the review];B[pd];W[qq];B[dc];W[dq]C[R: when you're in this situation you have a nice and easy way to determine which side is the best to play on. First you determine the side LENGTH:
+right side -> q16 is on the fourth line from the top, while r3 is on the third line. Since the board is 19 lines long, 19-4-3=12 intersection between q16 and r3. This is the length of the right side.
+left side-> d17 is on the third line from the top and d3 is too on the third line,thus yielding 19-3-3=13 intersections on the left.
+HEIGHT:
+right side-> q16 is on the fourth line from the right while r3 is on the third line from the right. Thus the mean height of the right side is (4+3)/2=3.5 intersections
+left side-> both d3 and d17 are on the fourth line thus the left side is simply 4intersections high
+RESULT:
+The total available point estimate on the sides is obtaining by multiplying LENGHTxHEIGHT. Keep in mind that you won't always to do the actual math (sometimes as in this case, both the length and the height of a specific side will be higher than the others' so you already know the result. I carry on the calculations for completeness sake).
+In this case:
+right side= 12x3.5=42
+left side=13x4=52
+The left side has 10 more "available" points than the right side. This makes the left side more appealing. The biggest move would be on the left side in this case.]
+;B[pn]LB[pp:A]C[R: apart from what I wrote on move 4 I feel this move quite strange since it's almost always better not to approach the 3-3 point unless the approach move is also an extension from a group of ours (this is not the case)
+a common technique, used to deal with the 3-3 point instead of approaching it, is playing at A.
+Please keep in mind that I don't think this is a good move either in this game, since the left side is bigger, but I reported a couple of variations starting with q4 just in case you'd like to know for next time.]
+(;W[qo];B[qn];W[rn];B[rm];W[ro];B[ql]C[R: the cut is not important, you can capture white in a ladder. It's important not to continue locally]
+;W[qf];B[qh]C[R: seems a good pincer];W[qc];B[qd];W[pc]
+(;B[rc]C[R: wrong: this way you let white escape to the center. See variation]
+;W[od];B[oc]C[R: I think this is an overplay. white can atary you, gain liberties and then do p15 to threaten your group]
+;W[ob];B[nc];W[nb];B[mc];W[rb];B[rd];W[oe]
+(;B[qe]SQ[pd][qd]C[R: this move isn't that good since itmakes two empty triangles (bad shape, i marked one) and isn't that efficient in my opinion. See variations on the previous move]
+;W[rf];B[sb];W[qa]C[R: this move is wrong.];B[pb];W[qb];B[mb]
+;W[pe];B[na];W[re];B[oa];W[sd];B[pa];W[sc];B[rh]C[R: this isn't necessary I think. The problem is that the top group of black is very low, but alive, the right group of black is ok. You have kind of a weakness but, due to the horrible exchange in the top corner, you have to try and get back in the game with bigger moves]
+;W[fc];B[ce]LB[de:A]C[R: nice move. Please keep in mind that the direction is good but that A attacks f17 (a mistake) more directly and uses, at the same time, the strong (yet low) group at n17 to attack f17 even more]
+;W[ic]
+(;B[kc]C[R: this is a horrible move. See variations];W[kq];B[co]
+;W[cp];B[do];W[cj]
+(;B[cl]C[R: this is kind of concentrated, see variations for the common response.]
+;W[cg];B[fq];W[eq];B[fp];W[bo];B[bn];W[bq]
+(;B[me]LB[bc:A]TR[dc][ce]SQ[fc][ic][cg][cj]C[R: here this is overconcentrated. I  also think that the corner group I marked can be attached with a move at A. 
+See variation for the move
+Furthermore strengthening this group will pressure both white groups, since their base is not at all secure.
+Remember that you have to play away from your strong groups (such as n17 which has an eye in o-18 and another one will emerge around m18 or at least in the centre.
+Also remember that, in order of priority, you should FIRST defend ((=strengthen) your weak groups, SECOND attack your opponent's weak groups and LAST play the biggest move.
+N15 is accomplishing neither of these];W[eo];B[ep];W[dp];B[cm]
+;W[hq];B[fr]C[R: I think this move is premature. I knwo that you're trying to kill the corner group, which I nevertheless think won't die easily, but the e5 cut can be a problem. Remember, first reinforce then attack.]
+;W[gr];B[fn]LB[gm:A]C[R:A bit close. I think A would've been better]
+;W[er]
+(;B[oo]C[R: I don't see the purpose of this one. see variations]
+;W[op];B[no];W[np];B[lo];W[kp]CR[ql][rm][pn][qn][lo][no][oo]
+LB[ng:B][og:A]TR[fc][ic][cg][cj]SQ[dc][ce]C[R: consider now your position.
+white bottom is more or less secure (except endgame moves), white top right is ok, while middle left and top left white groups are weak.Your top left corner group is kinda weak too, thus you should reinforce it, as I wrote a few moves ago, but follow me for the sake of the argument.
+First priority would be to reinforce your weak groups. 
+Let's just say that you haven't noticed your weakness or that you think you're strong. Now we move to the second priority, that would be to attack the opponent's weak groups. So you should try a move either to attack them both at once (that would be super because white can only reinforce one of them at a time), or at least pick one to attack.
+But again let's just say that you either think of those groups as strong or you don't know how to attack them. Now, all of these reasoning are to say "ok black should really move on the top left, but if that did not exist…" in that case (you have no weak groups nor your opponent has any) you should think to the Third Priority, that would be to play the biggest move.
+You can easily see that you have a couple of group aiming to the center, in particular the bottom right one has a stronger wall. You should, then, try to enclose a large area (make a moyo) with a move around A or B. This territory would be difficult to invade, it would be big and make the difference
+compare the variations with the variations to the next move]
+(;B[mp]C[R: I think this one is a major mistake. see move 74]
+(;W[mq];B[ko];W[go];B[fo];W[gn];B[gm];W[hm];B[gl];W[jo];B[gq]
+;W[hr];B[jn];W[in];B[io];W[jp];B[im];W[ho];B[hn];W[dn];B[en]
+;W[in];B[hl];W[hn];B[hp];W[ip];B[gp];W[io];B[jl];W[oh]C[R: ah! i foresaw this one at move 74 I guess]
+;B[pg];W[og];B[of];W[nf];B[pf];W[ne];B[ng];W[mf];B[mh];W[pi]
+;B[qj];W[nh];B[mg];W[mi];B[kh]C[R: very nice. White is not playing this invasion very well but you're doing really great]
+;W[li]
+(;B[kg]C[R: see variation];W[ki]
+(;B[ii];W[ji];B[ih];W[lf];B[ig]LB[nj:A][nk:A]C[R: you are passively trying to block white. This move is not necessary. The cut can't do any harm. you should concentrate on moves around A to kill once and for all white]
+;W[ij];B[hj];W[ik];B[hk];W[kk];B[jk];W[jj]
+(;B[mk]LB[il:A][km:B][kn:C]C[R:A,B,C are now weaknesses of yours. The battle is difficult. BTW I would've preferred m9 to n9, to clearly prevent the eye in l11. see variation]
+;W[lk];B[mj];W[ml];B[oj];W[lj];B[il];W[km];B[ok];W[kl];B[mm]
+;W[df];B[ed];W[fd];B[ee];W[ff];B[fh];W[eg];B[ej];W[dk];B[dl]
+;W[ek];B[el];W[ei];B[fj];W[fi];B[gi];W[di];B[gg];W[gf];B[hf]
+;W[he];B[ie];W[hd];B[ke];W[kf];B[jf];W[jd];B[kd];W[cc]
+(;B[cb]C[R: see variation.];W[cd];B[bd];W[bc];B[be];W[db];B[bb]
+;W[dd];B[ec];W[de];B[eb];W[ab];B[da];W[fb];B[ba];W[fa];B[ea]
+;W[bk];B[bl];W[fk];B[jb];W[ib];B[jc];W[id];B[je];W[po];B[on]
+;W[lp];B[mo];W[sg];B[sh];W[rg];B[qi];W[dj];B[gj];W[le];B[md]
+;W[lg];B[lh];W[an];B[am];W[ao];B[eh];W[dh]
+(;B[fg];W[fs];B[ef];W[dg];B[fe];W[ge];B[ia];W[ha];B[ja];W[gb]
+;B[aa];W[ac];B[ak];W[aj];B[al];W[fl];B[fm];W[qg];B[ph];W[ld]
+;B[lc];W[sm];B[sl];W[sn];B[ck];W[bj];B[gk];W[nd];TW[ga][ra]
+[sa][hb][sb][gc][hc][rc][ad][bd][gd][pd][qd][rd][ae][be][ce]
+[qe][se][af][bf][cf][sf][ag][bg][ah][bh][ch][ai][bi][ci][so]
+[ap][bp][pp][qp][rp][sp][aq][cq][iq][jq][lq][nq][oq][pq][rq]
+[sq][ar][br][cr][dr][ir][jr][kr][lr][mr][nr][or][pr][qr][rr]
+[sr][as][bs][cs][ds][es][gs][hs][is][js][ks][ls][ms][ns][os]
+[ps][qs][rs][ss]TB[ca][ka][la][ma][db][kb][lb][nb][ob][if][hg]
+[jg][og][gh][hh][jh][nh][oh][hi][ji][ki][li][mi][ni][oi][pi]
+[ri][si][ij][jj][kj][lj][nj][pj][rj][sj][ik][kk][lk][nk][pk]
+[qk][rk][sk][kl][ll][ml][nl][ol][pl][rl][bm][dm][em][jm][km]
+[lm][nm][om][pm][qm][cn][dn][kn][ln][mn][nn][eo]C[R: your main mistakes were in the top corners. the top right corner resulted very badly for you. About the topleft and the two white groups you should've attacked them more.
+In order to improve, apart from specific sequences (top right) I think you should:
+-> learn the Three Principles (again, in order of priority:
+  1) if you have a weak group,    defend
+  otherwise
+  2) if the opponent has a weak    group attack
+  otherwise
+  3) play the biggest move
+->Consider of creating a moyo, by making two walls that face each other (right area)
+
+And remember to play enjoying the games. 
+Thanks for letting me have the chance to review this game, I hope you can learn from my review. Please contact me if you need anything else.
+Cheers!]N[RESULT])
+(;B[ak]C[R: this one before. It's bigger and sente]))
+(;B[cd];W[db];B[cb];W[eb]C[R: this way white gains a lot less than in the other variation. Keep in mind that all of this is due to the fact that you failed to reinforce your corner properly before]
+))
+(;B[lk]CR[kj]SQ[ni][oi][nj][oj]C[R: this is a false eye
+In the marked area White can do one eye if you play well enough, so it shoud die]
+))
+(;B[ji]C[R: I think this can do the trick, but I guess it is inferior to previous variation]
+))
+(;B[jg]C[R: your move is okbut this goes a little further and is effective in case of l11 (see prosecution)]
+;W[ki];B[ji]C[R: white has almost nowhere to go]))
+(;W[og]LB[oh:A]C[R: all of black territory potential is gone. the R6-m5 wall is completely useless. I think A is also possible but a bit looser]
+))
+(;B[og])
+(;B[ng]))
+(;B[po];W[pp];B[op];W[oq];B[np]C[R: this to try and push down white]
+)
+(;B[op]C[R: this to try harder, but you must be aware of the weakness you leave behind, White can think of cutting]
+))
+(;B[ee]C[R: this is the best, strenghtens, prevents cuts and separates white]
+))
+(;B[eq]C[R: usually black attaches here to create a wall];W[er]
+;B[fq];W[fr];B[dp];W[cq];B[ch]C[R: I don't know if this is optimal, especially xtending only to f3 and not pushing to g3, but you can get the idea to strengthen yourself first, then push the opponent towards your wall. C12 incidentally is also a good extension that makes territory. white will have a lot of troubles]
+))
+(;B[mf]LB[me:A]TR[fc][ic]C[R: if you're concerned with the eyespace of your group you can try escaping towards the centre while "swallowing" white marked stones and maybe attack them on a bigger scale.
+Please note that a narrower extension at A is also possible, if you're VERY concerned with the life of your group.
+I think A or this move are the best in this situation])
+(;B[gb]C[R: if your goal is to attack the base of the white stones, this is a possibility. see the followup]
+(;W[gc];B[hb];W[hc];B[fb]C[R: this is the common variation. Black takes away base, white has a "wall" but it's low on the third line]
+)
+(;W[fb]C[R: this is not optimal, if not a mistake.];B[ib];W[jb]
+;B[hc];W[jc];B[hd]C[R: white is split in two. probably one piece will get captured.]
+))
+(;B[hd]C[R: if your goal is to flatten the opponent (I don't think this is the case) this move will be ok]
+;W[hc];B[fd];W[gd];B[ge];W[gc];B[fe];W[he];B[hf];W[ie]C[R: this way you gain influence, but it's not that good on your top group. So I don't like this variation at all]
+))
+(;B[rf]C[R: I think this is better since you're always connected. I added a couple of variations, not to be intended "the best variations for both" but some kind of moves that white can do to try the cut but that result badly for him]
+(;W[rg];B[qg];W[re];B[pf];W[sf];B[pe]C[R: you're connected]
+)
+(;W[re];B[pf]
+(;W[qe];B[pe];W[qg];B[pg];W[rg];B[rh])
+(;W[pe];B[qe])
+(;W[qg];B[rg];W[qe];B[pe];W[pg];B[of]C[R: white has weak groups]
+))))
+(;B[od]C[R: this keeps a solid wall extending the influence and using your other stones. The joseki then follows]
+;W[rd];B[re];W[rc];B[qe];W[nc]LB[me:A][pf:B]TR[qf]C[R: this commonly would be a local joseki, but black is so strong everywhere and white is confined in the corner so I think it's better for black. Keep in mind that a move at A or B is usually possible to completely capture the white stone, but that commonly the joseki is considered to be concluded here]
+))
+(;AW[qc]AE[dc][pn][dq][qq];W[pc];B[od]
+(;W[re]C[R: white threatens to escape withq14]
+(;B[pg]C[R:black keeps white low];W[nb]C[R: white tries again to escape]
+;B[ld]C[R:end of joseki. White territory and sente, black influence]
+)
+(;B[oc]C[R: if the top side is important for black, he can do this move]
+;W[pf]C[R: white then escapes];B[kc]C[R: black upper side, white corner + sente + possibilities on the right. Keep in mind that q14 can be later use to gain influence too]
+))
+(;W[qd]C[R: if the top is important for white too he can choose this variation]
+;B[pf];W[qe];B[ng];W[nc]LB[qf:A]C[R: white gains a big corner, while black has a lot of influence and sente. Usually black concludes the sequence with r14, with a lot of possibilities on the right]
+)))

@@ -1,0 +1,195 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+PB[Litost]
+BR[3k]
+HA[0]
+PW[nonao]
+WR[3k]
+KM[7.5]
+DT[2008-06-21]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[W+18.50]
+TM[300]
+OT[3x60 byo-yomi]
+RU[AGA]
+
+C[Dear reviewer,
+
+I play as Litost[3k\] in KGS. In this game, I felt that I did well in the beginning, but that my opponent outplayed me from the middle game on to the end.
+
+I would be grateful if you could point out places where I went wrong, and maybe suggest some areas for me to work on to improve my go.
+
+Thank you very much in advance.
+
+crux: Hi, I'm Bernd Schmidt.  At 2d, I'm not strong enough to know the correct way to play in many situations, but I hope I can give you some ideas of what to think about in a game.
+It appears to me that your biggest problem is coming up with a good strategy, especially related to fighting: you set yourself unreasonable goals because you do not consider the strength and weakness of groups.
+
+I've added a number of variations; to distinguish them from the one already in the sgf file, I've marked them with "(*)".]
+;B[qd];W[pp];B[dp];W[cc];B[oc];W[fq];B[qn]C[Here I wanted put my shimari into action, but I wonder whether D6 would not have been more appropriate.
+
+crux: I'd probably prefer to play in the lower left corner.  You can choose a joseki where you can expect to end up in sente; then you can come back to this point on the right side.]
+;W[nq];B[rp];W[qq];B[qk];W[cn];B[dn]LB[eo:B][fp:A]C[My objective, here, is to build thickness and then invade around K3, in order to threaten both F3 and O3.
+
+crux: You can't threaten O3. Strong groups make poor targets.
+
+Another way of looking at it (and I honestly don't know if it is an important consideration here) are the motto "lean on strong stones to attack weak ones".  Here, the white stone on the lower side is stronger, because its reinforcements (around O3) are closer.  Therefore, it might make more sense for Black to try and attack the white stone on the left side, i.e. you'd want to play the other attachment at A.  Playing B
+is also possible; White will invade the 3-3 point and you can tenuki to make a good position at the top.]
+;W[dm];B[en];W[co]
+(;B[ep]TR[fq]C[crux: This is terrible.  Black has no eye shape, no territory, and no easy way to kill the marked white stone.  If that stone were one line higher, your move would be a (handicap-ish) joseki.  Maybe this is what you thought of, but the situations are very very different.]
+
+(;W[hp];B[cm]TR[cp][do]LB[bp:A]C[This, I believe, was a mistake, resulting in white's reinforcement on the side.
+
+crux: The cut is an important resource, but it usually becomes active only when White's two marked liberties are filled (and even then Black might prefer to play A as a threat.  Giving White the cutting stone as a gift is terrible.]
+;W[cl]
+(;B[cp];W[bm];B[jq]LB[dr:A][er:B]C[crux: Misguided.  The white stones on the right are safe, Black's left corner group still has eye shape problems (imagine a white move at A), so all in all Black is a lot weaker on the lower side.  That's not the right moment to start an invasion: you've given yourself two weak groups vs at most one.
+
+A better way to attack would be to play B, which has two purposes: strengthen your own group, and weaken White's two stones.  Only after your own group is stable does the move you played in the game start to make sense as an attack.]
+;W[iq];B[jp];W[hn];B[on]TR[jp][jq]LB[dr:B][pj:A]C[This move seemed big to me, as it is starting to confine white and build some moyo. However I wonder whether a play around F7, keeping white stone separated, would not have been better.
+
+crux: The weakest stones on the board are the triangled black ones.  The game move helps them somewhat, but doesn't stop White from keeping them isolated.  You're adding stones to an already strong group, and the moyo is unlikely to be valuable when White has something simple like A to reduce it.
+
+As for F7, it is meaningless as a way to separate White: the group on the left is alive, and White will be happy to take the opportunity to strengthen his other group by attacking the two weak black stones.  It can also live quite easily by sliding to B.
+
+If you play a move to separate live groups, you've played on a dame point: worth 0 points.]
+;W[mo];B[jn];W[mm]C[crux: Attacks your stones and reduces your moyo at the same time.]
+;B[im];W[fm];B[go];W[ho];B[gp]LB[er:A]C[crux: Doesn't help Black, only strengthens White, so it's an unnecessary move.  Something like A would be better as it affects the eye space of both groups.]
+;W[gq];B[em];W[el];B[gn];W[gm];B[hm]C[I managed to cut the white group, but have my own group enclosed. I think this exchange is not that good for me, as White has room to live, and get good thickness on the left side as well.
+
+crux: More importantly, Black's corner group is half-dead.  Subsequent events show that neither player is aware of this, but at this point White should start thinking about how to kill it.]
+;W[dr];B[cr];W[eq]C[Can I kill white?
+
+crux: I don't see a way - variations attached.  The question is "can I avoid dying in the corner"?]
+
+(;B[hr];W[ir];B[jr];W[hs];B[dq];W[es];B[cs];W[gr];B[dk];W[dl]
+;B[ec]
+(;W[de];B[hc];W[qg]C[crux: Probably not the best choice for White.  No followup seems immediately attractive, and Black can build up his top side by attacking.]
+
+(;B[fe]C[I didn't know how to attack R13, so I switched to F15, which threatens to enter the white moyo.]
+;W[qj];B[pk];W[pj];B[ef];W[df];B[dg];W[eg];B[cg];W[eh]
+(;B[ci];W[bf];B[cb];W[bb];B[dc];W[cd];B[cf];W[be];B[db];W[ba]
+;B[bg];W[bj];B[cj];W[bi];B[ej];W[fj];B[fi];W[gg];B[gj];W[fk]
+;B[fh]LB[fd:B][fg:A]C[crux: I'd leave this unplayed.  A white stone at A is helpful for White, as B becomes interesting.]
+;W[fg];B[ei];W[ig];B[hh];W[hg];B[hk]LB[gg:A][pj:B]C[This may look slow, but I thought that this way my groups would avoid being cut and attacked, and that White having two weak groups (A and B) would be enough for me to win the game. I was actually very happy with the position :)
+
+>From now on though (or maybe from even before?), black outplays/crushes me in all aspects of the game.
+
+crux: Connecting is absolutely the right thing to do.  However, even connected, the group has no obvious eye yet.  It's too big to die, and White's surrounding groups are too weak to attack, but it's something to keep in mind.]
+
+(;W[id];B[ic];W[jd];B[jc];W[md];B[oe]C[Trying to build thickness in order to attack the right group. I think the hane at L16 was better.
+
+crux: I like this move.  This is a case where separating first seems like a good plan.]
+;W[kc]
+(;B[mf]C[crux: This move I'm not so sure about; it lacks a clearly defined threat in my eyes.]
+;W[nc];B[nd];W[nb];B[me];W[ld]
+(;B[oj];W[re];B[rd];W[rf];B[rj];W[ri];B[rk];W[ph];B[si]C[crux: Don't play this, it's better for Black if White doesn't get two definite eyes.]
+;W[rh]
+(;B[sg];W[sh];B[ob];W[ko];B[jo];W[rq];B[ke];W[kd];B[mb];W[mc]
+;B[kb];W[lb];B[ka];W[la];B[jb]C[This was a very vad move; I misread the top and felt angry about it :)]
+;W[sd];B[sc];W[se];B[rb];W[ih];B[mr];W[nr];B[mq];W[mp];B[ns]
+;W[os];B[ms]
+(;W[pr];B[lq];W[ro];B[rn];W[qp];B[qo];W[sp];B[oo];W[op];B[ln]
+;W[mn];B[lo];W[ij];B[hi];W[ii];B[bo];W[bh];B[ag];W[bn];B[bp]
+;W[gd];B[gc];W[fd];B[hd];W[ge];B[he];W[ie];B[ed];W[ee];B[fc]
+;W[ff];B[ck];W[bk];B[kg]LB[ok:A]C[crux: Doesn't appear to be a very large endgame move.  Defending the cut at A, for example, might be bigger.]
+;W[ol];B[om];W[nl];B[pl];W[ok];B[og];W[oh]C[Here I think I should have extracted P10; I thought I'd exchange territory in the center, but that didn't turn out good.]
+;B[nh];W[ni];B[mh];W[mi];B[li];W[lm];B[km]C[Hasty move.];W[lj]
+;B[ki];W[lp];B[kn];W[kp];B[kj];W[lk]C[crux: It seems like things went wrong for Black in this area.  White got territory out of nothing in the center, while Black's area on the lower side disappeared.]
+;B[oa];W[kk];B[na];W[ma];B[kl];W[ik];B[il];W[gh];B[gi];W[kr]
+;B[kq];W[js];B[ks];W[is];B[lr];W[pe];B[qe];W[pf];B[pd];W[of]
+;B[nf];W[sn];B[sm];W[so];B[sj]
+(;W[gl];B[hl];W[le];B[lf];W[hf];B[af];W[ce];B[ae];W[ad];B[ll]
+;W[ml];B[jk];W[jj];B[jl];W[dh];B[ch];W[jf];B[kf];W[po];B[pn]
+;W[no];B[rm];W[ao];B[ap];W[an];B[ah];W[jh];B[ds];W[er];B[qf]
+;W[pg];B[ng];W[kh];B[lh];W[ca];B[da];W[di];B[ai];W[ek];B[dj]
+;W[gk];B[hj];W[aj];B[ip];W[do];B[eo];W[hq];B[jg];W[je];B[fp]
+;W[fn];B[in];W[nj];B[dd];W[nn];B[nm];W[fo];B[io]
+(;W[ji];B[bq];W[tt];B[tt]C[Thanks a lot for your comments!]
+)
+(;W[bq]C[B3 seems to kill.];B[br];W[ar];B[as];W[bs]))
+(;W[rm]C[Kiri works for White.];B[sl];W[rl];B[sk];W[pm]))
+(;W[lq]C[This hane works for White.]))
+(;B[rq]C[Maybe S3 now?]))
+(;B[rh]C[(*)
+crux: No idea how it will turn out, but maybe you can try to make life harder for White like this.]
+))
+(;B[rj]C[(*)];W[ri];B[rk];W[og];B[ng]))
+(;W[fd]C[crux: This move is something White can look forward to.  Knowing when to play it is difficult.]
+
+(;B[ge]C[crux: Black would like to play here, but it doesn't look like it would turn out well.]
+;W[ee];B[ff];W[id]LB[ic:A]C[crux: The sequence up to here may be a good way to play in the game position.  Black now has a rather tough choice: give up the cutting stones, or let White block at A.]
+
+(;B[ic];W[gd];B[he];W[hd];B[ie];W[je];B[jd];W[if])
+(;B[gd];W[ic]))
+(;B[ee]C[crux: Black may have to give in and play bad-shape moves.]
+;W[ge];B[ed]TR[fd][ge]C[crux: The result is that White has got two nice forcing moves.]
+
+(;W[gd];B[gb];W[id])
+(;W[jc];B[gd];W[hd];B[gc];W[id]))))
+(;B[be]C[(*)
+crux: This looks like it would be annoying for White.];W[ci]
+;B[cd];W[dd];B[dc];W[bf];B[cf];W[ce];B[bd];W[bg];B[ee]))
+(;B[og]C[(*)
+crux: This should be an immediate idea.]))
+(;W[bp]C[(*)
+crux: So, how do you plan to answer this move?];B[bq];W[bo]
+;B[ar];W[bs]
+(;B[do];W[fp]
+(;B[fo];W[fn])
+(;B[fn];W[fo];B[fl];W[gl];B[fk];W[gk];B[gj];W[fj];B[ek];W[hj]
+;B[gi];W[hk]))
+(;B[fp];W[do];B[fn];W[eo])))
+(;B[ir];W[hr];B[jr];W[fr]C[The hane does not seem to work.]
+)
+(;B[ds]C[(*)
+crux: "There is death in the hane", so let's try this one...]
+;W[es]
+(;B[fr];W[cs];B[ir];W[hr];B[jr];W[cq];B[br];W[bq];B[dq];W[ar]
+)
+(;B[cs];W[dq];B[fr];W[gr]
+(;B[ir];W[hr];B[jr];W[cq])
+(;B[cq];W[jr];B[kr];W[ir];B[fs];W[gs])))
+(;B[fr]LB[ds:A]C[(*)
+crux: Playing the hane at A doesn't seem to work so well, so maybe we can just threaten it...]
+;W[jr];B[kr];W[ir]
+(;B[er];W[dq];B[cq];W[gr])
+(;B[ds];W[er];B[es]LB[lr:A]C[crux: Maybe Black's best attempt, but it still looks like a losing semeai, plus White has the aji of A.]
+
+(;W[gr];B[fs];W[gs];B[cs];W[cq];B[bq];W[br];B[dq];W[bs];B[cq]
+;W[fp];B[eo];W[fo]
+(;B[fn];W[bo];B[ip];W[bp])
+(;B[bo];W[fn]))
+(;W[lr]
+(;B[ks];W[kq];B[lq];W[kp]
+(;B[mr];W[jo])
+(;B[jo];W[ls]))
+(;B[kq];W[ks];B[mr];W[lq];B[mq];W[lp])))))
+(;B[bm]C[(*)
+crux: The normal approach is to sacrifice two stones, so that you get two forcing moves on the outside.  In the current position, that doesn't work as well as it should.]
+;W[bl];B[em];W[dl];B[cp]C[crux: This isn't forcing, so Black ends in gote.]
+))
+(;W[cp]C[(*)
+crux: I'd probably play this rather than the game move.  White has profit.  Black is heavy, with no eye shape.]
+
+(;B[hp]C[crux: There's no attack, because...];W[dr]C[crux: White simply connects.]
+;B[cq];W[cr];B[dq];W[bq])
+(;B[dr]
+(;W[hp]C[crux: White can attack.  Black should be able to make some eye shape in the corner though, and White then needs another move to defend his two stones.]
+;B[cq])
+(;W[em]C[crux: White could also decide that since he has a strong group on the lower side, Black isn't going to make much territory there anyway, and the left is more important.]
+;B[lq];W[rq];B[ip];W[fd])
+(;W[cr]C[crux: Or maybe keep Black out of the corner entirely.  I don't know which of these three ideas is best.]
+))))
+(;B[cp]LB[fp:A]C[(*)
+crux: The only move (well, not quite: A also happens sometimes).
+White mustn't be allowed to get all the territory and eye shape in the corner.]
+
+(;W[do]C[crux: White might push...]
+(;B[eo]LB[cm:A]C[crux: After this block, there's a few possibilities after White cuts.]
+;W[ep];B[bp]LB[cm:A]C[crux: Threatens a capture at A.];W[cl]
+;B[dr]SQ[dn][en][eo]TR[ep][fq]C[crux: A possible example.  Black is alive in the corner, White on the side, and the marked groups will battle it out.]
+)
+(;B[ep]C[crux: Black could give up the two stones in exchange for squashing White's stone.]
+;W[eo];B[fp];W[fo];B[gp]C[crux: There is material out there where giving up two stones is considered too big a loss, but usually this sequence is given as a nice, simple, straightforward way to play, trading profit for thickness.  The surroundings may make a difference.]
+))
+(;W[gp]C[crux: Rather than pushing through directly, this is a more normal continuation for White.  It develops the single stone, and enlarges the threat of the cut.]
+;B[eq];W[er];B[fp];W[fr];B[dr];W[gn];B[fm];W[ck])))

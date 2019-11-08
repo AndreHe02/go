@@ -1,0 +1,207 @@
+(;FF[4]GM[1]SZ[19]AP[SGFC:1.13b]
+
+GN[nanami(W) - EBI(B) on WING]
+PB[EBI]
+BR[NR]
+BT[t-abiko@aurora.dti.ne.jp]
+PW[nanami]
+WR[30k*]
+WT[nanami_takada@mail.goo.ne.jp]
+KM[0.5]
+DT[1999-12-03]
+PC[WING: wing.gr.jp 1515]
+RE[W+29.5]
+TM[300]
+US[Brought to you by WING]
+AN[Mike Malveaux 15k <mm@foxinternet.net>]
+
+;B[pd];W[pp];B[dd];W[dp]
+(;B[jp]TR[qn][cn]N[Actual B K4]C[This is interesting. It is more common to see Black playing on the right or left, near R6 or C6 <triangles>, making a kakari that can also work as a long extension <go back to see example variation>.]
+;W[gp]C[I think this is a nice response. It claims some area for White without being greedy. A more aggressive play like H3 might provoke complicated fighting.]
+;B[no]TR[nq][np]C[This is a strange move. It does not threaten White, and it makes no territory for Black. At this early stage of the game, it probably would be better for Black to play on the 4th line or below, perhaps at O3 or O4.]
+
+(;W[nq]C[This is a good response. O4 probably would also be good <go back to see variation>.]
+N[Actual W O3];B[pn];W[qo]LB[lp:a][ql:b]C[This is too small. Black is wide open for cutting at M4 <a>. If White really wants to play on the side, it would be better to squeeze, perhaps at R8 <b>.]
+;B[qn];W[po];B[oo]
+(;W[op]LB[lp:a]N[Actual W P4]C[This would be better at M4 <a>. White does not have to worry about Black separating the stones <go back to see variation>.]
+;B[np];W[lq];B[lp];W[df]C[It is good for White to take sente and make a big play like this.]
+;B[fd]TR[ch][dh]C[In this situation, it might be better for Black to pinch the White stone with a play near C12 or D12 <triangles>. Black does not want White to get the whole left side. On the other hand, with F16, Black has the beginnings of a huge double-wing moyo, so maybe this is good for Black.]
+;W[ff]LB[di:a][ck:b][kc:c][qi:d]C[This seems wrong. It will provoke Black into crawling along the 4th line, making lots of solid territory for Black. It might be better to claim White territory on the left with a stone near <a> or <b>. L17 <c> or R12 <d> also might be good.]
+;B[hd]C[This is the expected move. It might be conservative, but it seems pretty good.]
+
+(;W[jd]LB[ld:a][lc:b]N[Actual W K16]C[White wants to stop Black's 4th-line crawling, but this is probably not the way. If Black next plays M16 <a>, Black will be able to connect either above or below White <see variation>. White has a better chance with something like M16 <a> or M17 <b> <see variation>.]
+;B[hf];W[hg];B[ig];W[ih]TR[jd]C[Black has cut off the K16 stone <triangle>, and White is leaving behind still more cutting points.]
+;B[gg];W[hh];B[gf];W[fg];B[fh]LB[gh:a]C[Instead, it would be better for Black to play simply at G12 <a>.]
+;W[eh]LB[gh:a]C[White can cut at G12 <a> instead.];B[gh];W[if]
+;B[ie];W[jg];B[jf];W[je];B[ig];W[kf];B[if];W[kh]C[Now White has a group of stones in the middle of the board, up against a strong Black group. White can make eyes and live, but Black can have fun attacking the group, making territory in the process <see variation>.]
+
+(;B[di]N[Actual B D11]C[This is an odd attack, but thanks to the influence of Black's stones around G12 and D16, Black can either capture some White stones or make a living group on the left.]
+;W[ei]C[This is the natural move, splitting the Black stones. Because White has to play this, Black has a second move on the left side.]
+;B[dj]LB[cg:a][cl:b]C[Black D10 is too timid. Something like C13 <a> or C8 <b> would be larger.]
+;W[dl]TR[dp]MA[ej][ek]C[This is good. It is a nice extension from the D4 <triangle> stone, and it squeezes the Black stones. It would be wrong to push from above at F10 or F9 <x>, because that would provoke Black into crawling on the 4th line and making a large, strong territory.]
+;B[ej];W[fi];B[gi];W[fj];B[gj]LB[dh:a]C[Is Black abandoning the left-side invasion? A White stone at D12 <a> would probably damage Black and claim most of the left for White <see variation>.]
+
+(;W[fk]N[Actual W F9];B[gk];W[fl];B[gl]LB[md:a][pf:b][hq:c]
+C[Rather than continue to push along the G line, which causes White to make a large territory on the left, it would be better for Black to take a point like N16 <a>, Q14 <b>, or H3 <c>.]
+;W[fm];B[gm];W[fn]TR[dp][gp]LB[nd:a][qf:b][jq:c][gn:d]C[The new wall is good for White, making secure territory. White does not need to keep crawling here, thanks to the presence of the D4 and G4 stones <triangles>. White should instead consider points like O16 <a>, R14 <b>, or K3 <c>. At the least, White should move up a line to G6 <d>.]
+;B[gn];W[fo]LB[go:a]C[This would be better at G5 <a>. White can benefit from using strong diagonal connections more often.]
+;B[ho];W[hp];B[io];W[ip];B[jo];W[go]LB[jq:a]C[This should be at K3 <a> instead.]
+
+(;B[hn]C[It is not necessary for Black to connect solidly here. White will not be able to cut <see variation>. It would be better to spend this stone someplace more urgent.]
+N[Actual B H6];W[ic];B[cq]TR[mc][cg][qd][pi]C[Though the 3-3 invasion is often good, in this case, there are better things to do -- N17 , C13, R16, or Q11 <triangles>, for example. If Black plays in a way that keeps sente, the 3-3 invasion will still be possible after Black has bolstered some weak areas that need attention.]
+;W[dq];B[cp];W[co];B[bp]LB[bo:a][dr:b]C[This would normally be at B5 <a> or D2 <b>.]
+;W[bo];B[ao];W[an];B[ap];W[bm];B[cr];W[dr];B[ds];W[ar]C[With this, White should be able to capture the corner.]
+;B[br]
+(;W[es]N[Actual E1]C[White has a more decisive play at A3 <see variations>.]
+;B[cs];W[as]LB[aq:a]C[This allows Black to get two eyes. White at A3 <a> would still at least create a seki.]
+;B[aq]C[Black now lives in the corner. This hurts White.];W[hc]
+;B[gd];W[fe];B[gc];W[gb]LB[nc:a][qi:b]C[The sequence started with White G18 gives sente to Black. White probably should instead try something like O17 or R11.]
+;B[fb];W[ga];B[fa];W[hb];B[ee];W[ef];B[de];W[ce];B[cd];W[ec]
+C[White cannot succeed with this attack, so it would be better to save E17 to use as a ko threat.]
+;B[db];W[cb];B[dc];W[be];B[bd];W[ad];B[ac];W[ae];B[bc];W[ge]
+LB[cf:a]C[White G15 is only worth one point. Instead, White must cover the cutting point at C14 <a>.]
+
+(;B[ed]N[Actual B E16]C[This is a wasted move by Black.];W[md]
+LB[nc:a][cf:b]C[Finally, White does something with the stones on the top. Good move, though I might prefer O17 <a>. It is too bad the dangerous cutting point at C14 <b> is still unprotected.]
+;B[dg];W[eg]LB[cg:a][he:b]C[This probably would be better at C13 <a>, considering White's liberty at H15 <b>.]
+;B[dh];W[ek];B[dk];W[ck];B[cj];W[bj];B[bk];W[cl];B[bi];W[ak]
+;B[aj];W[al];B[bf]LB[cf:a]C[Black at B14 forces White to connect. This is a large mistake. Black should take C14 <a> instead.]
+;W[cf];B[cg];W[bg];B[bh];W[af];B[ag]MA[bj]LB[ah:a]C[This is a large mistake by Black. Black throws away the group's second eye. The space at C10 <x> is a false eye, and will not save Black. If Black simply played at A12 <a> instead, the Black group would be alive.]
+;W[ah];B[ai];W[ag];B[he]LB[id:a][qi:b][nc:c]C[This is pointless. H15 and J16 <a> are miai. If White tries to cut at one point, Black connects at the other. Therefore, Black should spend this stone in a place that is still open, such as R11 <b> or O17 <c>.]
+;W[bl]LB[oc:a][ph:b]C[This is pointless. The Black group is already dead, so why spend another stone killing it? It would be better to play in an unsettled part of the board, such as P17 or Q12.]
+;B[er];W[fr];B[eq];W[ep]LB[fs:a]C[If White plays at F1 <a> instead of E4, Black's attack fails and White captures the Black stones.]
+;B[fs];W[gs];B[es];W[gq];B[fq];W[gr];B[fp];W[eo];B[cn];W[dn]
+;B[pj]C[Finally, Black makes a big play in an empty part of the board. Good!]
+;W[pf];B[qf];W[pe]C[White's stones work well with the ones played already in the center and on the top.]
+;B[qe];W[od];B[qc]LB[pc:a]C[Black S17 is too timid. It throws away sente, invites White to play atari, and claims less territory than Black could get. Black should play at Q17 <a> instead.]
+;W[pc];B[qd];W[oc];B[oe]C[White is too strong for Black to successfully cut at P15.]
+;W[of];B[ne];W[nf];B[nd];W[nc];B[ir]LB[jq:a][jr:b]C[This would be better at K3 <a> or K2 <b>.]
+;W[jq];B[kp];W[kq];B[mq];W[mr];B[mp];W[nr]C[What is settled? What is left to fight for? The top left, bottom left, and top right are Black's <~30 pts.>, and with Black's strength, Black should get the right side <~25 pts.>. The left side, bottom, bottom right, and top side are White's <~105 pts.>. White seems to lead by about 50 points. 50 or 60 points in the center are not settled. Black has strong walls that should dominate the center and right side, but White's stones in the center can help in the fighting ahead.]
+;B[ji];W[jh];B[lg];W[lh];B[jc];W[kc];B[ke];W[kd];B[kg];W[le]
+;B[em];W[cm];B[pb];W[ob];B[qb];W[ph]C[Good move, taking territory in the center in sente.]
+;B[qh];W[pi];B[qi];W[qj]C[White's cut at R10 cannot work, except as a sacrifice.]
+;B[pg];W[og];B[qg];W[pk]LB[oj:a]C[This would be better at P10 <a>.]
+;B[oj];W[oi];B[nj];W[mj];B[ni]C[Black takes advantage of White's poor shape.]
+;W[oh];B[nh];W[mh]LB[mg:a]C[White probably should have played atari at N13 <a> instead.]
+;B[ng];W[me];B[mg]C[Good for Black. Now Black can take all the points in the center, and capture several White stones -- and probably win the game by about 20 points.]
+;W[mi];B[lf]LB[qk:a][lj:b]C[Has Black just forgotten to count liberties? Playing at M14 reduces Black's group to 3 liberties. This should be at R9 <a> instead, or perhaps a spot like M10 <b>.]
+;W[ke];B[ne]C[Black cannot possibly cut here. Black misses another chance to settle the large group around O10.]
+;W[nk];B[qk];W[rj];B[ok];W[pl];B[ol];W[ql];B[ri];W[rk];B[si]
+LB[om:a][nl:b][rm:c]C[This is a very small play. Instead, Black should connect the large group in the center with P7 <a> or pressure the eyeless White stones with O8 <b>. Or, since White cannot put Black in a shicho, Black could play S7 <c> to kill White on the right side.]
+;W[rm]C[This is a good play by White. Now White can either connect to the lower right corner, or make two eyes for the group around S8.]
+;B[rn];W[sn];B[so];W[sm];B[ro];W[rp];B[sk]LB[sj:a]C[Black wastes a move trying to kill a group that cannot be killed. If White plays T10 <a>, White lives.]
+;W[om];B[nl];W[mk];B[nm];W[on]LB[sj:a]C[This is an error. Instead, White should capture at T10 <a> and make 2 eyes.]
+;B[pm];W[sp]C[It is good for White to complete the territory in sente with forcing moves like this.]
+;B[nn]
+(;W[qq]LB[sj:a]N[Actual W R3]C[White does not need to defend here. This is the perfect time to play T10 <a> and save 9 White stones. If Black tries to cut in the lower right corner, White will make eyes or connect <see variation>.]
+;B[sj]LB[sl:a][qm:b]C[Amazingly, Black can now capture 9 White stones on the right side <see variation>. White would need to play at both T8 <a> and R7 <b> to save the group. Since White gets only one move at a time, the group is dead. But it is not useless -- it has some value as a ko threat.]
+
+(;W[sl]N[Actual game];B[oa];W[na];B[pa];W[mb]LB[qm:a]C[It is not necessary to defend here. Instead, White could save the small group on the right with R7 <a>.]
+;B[id];W[jb];B[pr];W[oq]CR[nk][mk][mj][mi][mh][lh][kh][jh][ih]
+[hh][hg][jg]LB[qm:a]C[Black and White should not be fooling around with small attacks like Q2 and unneccessary defenses like P3 when the large White group in the center is still unsettled. As far as I can figure, the outcome of the game now depends on what happens with the fighting for the center. There is also the White group on the right, that lives or dies depending on who gets R7 <a>.]
+;B[or];W[qr];B[lr];W[kr];B[qm]C[Black finds the spot that kills.]
+;W[jj]C[Finally, White starts trying to make eyes.];B[hs]LB[ii:a]
+C[Black has no hope of succeeding with this attack. It would be far better to try something like J11 <a>.]
+;W[iq]
+(;B[kj]N[Actual B L10]C[In the game, Black attacks at L10, provoking a fight in which White makes eye shape, lives, and wins. It looks as though Black had a better attack at J11 <see variation>.]
+;W[ki];B[ii];W[kk]
+(;B[hi]LB[lj:a][ll:b]N[Actual B H11]C[Black does not have to connect right away. White cannot put Black in a shicho. Instead, Black should press the attack with something like M10 <a> or M8 <b>.]
+;W[lj]LB[ll:a][jk:b]C[If Black can play at both M8 <a> and K9 <b>, it seems that Black still can kill the White group.]
+
+(;B[jk]N[Actual B K9];W[jl]C[It looks like White now has 2 eyes and lives in the center.]
+;B[mf]C[Black should save N14 for a ko threat, and instead try to keep White as small as possible in the center.]
+;W[oe];B[ik];W[ll]C[Good job by White, making certain the center group is alive and claiming a few more points.]
+;B[ml];W[lm];B[il];W[jm];B[im];W[km]LB[kn:a]C[White would get one point more by playing L6 <a> instead of L5.]
+;B[mm]LB[ln:a]C[Black would get a point or two more by playing at M6 <a> instead of N7.]
+;W[ln];B[ij];W[kj];B[jn]C[Black claims the last point. The rest is dame. White wins by 21.5, thanks to 23 stones living in the center. Both players made some mistakes. Both players will improve rapidly as they remember that the game is about connecting your own stones, and cutting your opponent's, and as they learn to look for the most urgent play on the board, and play it first.]
+;W[lo];B[qs];W[os]C[<Black passes, White passes>
+
+comments by Mike Malveaux, Tacoma WA USA, 15k, "malveaux" on IGS and NNGS, for the Go Teaching Ladder, 1999-12-11
+mm@foxinternet.net
+malveaux@scn.org];TW[hs][is][js][ks][ls][ms][ns][ps][qs][rs]
+[ss][hr][ir][jr][lr][or][pr][rr][sr][hq][pq][rq][sq][qp][do]
+[bn][cn][en][am][dm][em][el][kl][bk][dk][lk][aj][bj][cj][dj]
+[ej][ai][bi][ci][di][li][bh][ch][dh][cg][dg][bf][ne][ld][nd]
+[jc][lc][mc][ib][kb][lb][nb][ha][ia][ja][ka][la][ma]TB[as][bs]
+[ar][bq][in][on][sn][hm][om][rm][sm][hl][pl][ql][rl][sl][hk]
+[pk][qk][rk][hj][qj][rj][rh][sh][rg][sg][rf][sf][re][se][rd]
+[sd][cc][ec][fc][rc][sc][ab][bb][cb][eb][rb][sb][aa][ba][ca]
+[da][ea][qa][ra][sa])
+(;B[ll]N[Black M8 kills]
+(;W[lk]N[White M9];B[jk];W[jl];B[ik];W[ml];B[kl]C[Now White does not have enough room to make a second eye.]
+)
+(;W[kl]N[White L8];B[jk];W[il];B[ik];W[lk];B[lm]C[White can only get 1 eye.]
+)
+(;W[jl]N[White K8];B[ik];W[lm];B[ml];W[lk];B[jk];W[kl];B[km]
+C[Thanks to Black's living wall connected to the upper left corner, Black need not fear a shicho. Black is able to keep White down to only 1 eye.]
+)))
+(;B[ll]N[Black M8];W[ij];B[hi];W[lj];B[jk];W[jl];B[ik];W[ml]
+;B[kl];W[km];B[lm]MA[kj]C[L10 is a false eye for White. It looks like Black can keep White down to only one eye.]
+))
+(;B[ii]N[Black J11];W[ij];B[hi];W[ki];B[kl];W[kk];B[jk];W[ll]
+;B[lj]C[If Black sacrifices a stone on the vital point, White cannot get more than one eye.]
+;W[jl];B[ik];W[km];B[lm];W[ln];B[mm];W[il];B[hk];W[im];B[jn]
+MA[kl]C[L8 is a false eye. Ultimately, Black can keep the White group down to 1 eye -- Black can kill the White group and win the game.]
+))
+(;W[sl]N[W R8, B R7 kills];B[qm];W[rl];B[qk])
+(;W[qm]N[W R7 dies];B[sl]))
+(;W[sj]LB[qq:a]N[W T10 saves]C[White T10 saves the group on the right side. But what about that cutting spot at R3 <a>?]
+;B[qq];W[qp];B[oq];W[pq];B[or];W[pr]TR[qq]C[White does not have to worry about the cut at R3 <triangle>.]
+))
+(;B[cf]N[B C14 kills];W[bf];B[cg];W[bg];B[dh]
+(;W[ch]N[W C12];B[dg];W[eg];B[bh];W[bi];B[ci];W[ah];B[bj];W[ch]
+;B[ag];W[aj];B[ak];W[ai];B[bh])
+(;W[bh]N[W C11];B[bi];W[ch];B[dg];W[ci];B[eg]CR[df][ef][ff]
+[fe][fg][ge]TR[be][ae][ad][ce][bf][bg][bh][ch][ci]C[White can save the group around B15 <triangles> or the group around F14 <circles>, but White cannot save both groups. White should have covered the cutting point at C14.]
+)))
+(;W[aq]N[W A3 kills, B1 dies];B[bs];W[es]TR[ds]CR[ar][aq]LB[er:a]
+[cs:b][as:c]C[White wins the corner. Black's 3 likely choices, E2 <a>, C1 <b>, and A1 <b>, do not save Black.  C1 <b> is a false eye. White can take and fill the ko at D1 <triangle> near the end of the game, and then put the Black group in atari. If Black captures the two White stones around A2 <circles>, it will not bother White, because White will throw in another stone, keeping Black's shape dead.]
+
+(;B[er]N[Black E2];W[cs];B[fs];W[ds])
+(;B[cs]N[Black C1];W[fr])
+(;B[as]N[Black A1];W[jq];B[bq]C[Black's shape is still dead.]
+))
+(;W[aq]N[W A3 kills, B B3 dies];B[bq];W[as];B[bs];W[ar]MA[cs]
+C[C1 <x> is a false eye. Black cannot get two real eyes <see variations with Black at E2>.]
+)
+(;W[aq]N[W A3 kills, B E2 dies];B[er];W[fr];B[fq];W[eq];B[es]
+;W[gq];B[gr];W[fp];B[fs];W[hr];B[fq];W[cs];B[bs];W[fr]C[Black can delay the inevitable with a ko, but White will eventually capture the corner. Black should save the ko threats for use later, and focus now on claiming the empty parts of the board.]
+)
+(;W[aq]N[W A3 kills, BE2 dies];B[er];W[fr];B[eq];W[fq];B[ep]
+;W[do];B[eo];W[fs];B[es];W[en]C[Black cannot get a second eye.]
+))
+(;B[ld]N[Black elsewhere];W[hn]C[White cannot cut here.];B[im]
+;W[in];B[jn]))
+(;W[dh]LB[fk:a][ek:b]N[W D12]C[Black has too likely choices -- F9 <a> or E9 <b>.  F9 <a> seems to lead to White capturing Black.  E9 <b> seems to result in Black connecting to strong Black stones, at the expense of letting White make strong territory.]
+
+(;B[fk]N[B F9 fails];W[ek]C[White can cut.];B[dk]C[Black can try to resist, but White is stronger.]
+;W[el];B[ch];W[cg];B[bh];W[ck];B[ci]C[If Black 51 is somewhere other than C11, such as B13, then White at C11 captures 4 stones.]
+;W[bg]C[White will be able to capture the Black stones on the left.]
+)
+(;B[ek]N[B E9 might connect];W[fk];B[el];W[dm];B[fm];W[em]C[The fighting can become complicated. Black does not quite have enough room to live on the left because White can keep the Black group down to only 1 eye. So, Black must run to connect to the live stones in the upper left or lower right. White probably cannot prevent Black from connecting to one group or the other, so White should attack in a way that builds strong White territory.]
+)))
+(;B[ld]LB[ke:a]N[B M16]C[This threatens to cut at L15 <a>.]
+;W[ke];B[kc];W[jc];B[lg];W[kg];B[lf];W[le];B[me];W[lh];B[ng]
+C[If the game goes this way, Black has no weak groups, and is set to make large territories. White's large center group, however, still has to fight to make two eyes.]
+))
+(;W[jd]N[Black M16]C[This allows Black...];B[ld]C[...to play M16, and probably take the whole top side.]
+;W[jf]C[Now Black will try to connect on the other side.];B[jc]
+;W[ic];B[id];W[kc];B[je]
+(;W[kd]N[W L16];B[ke];W[lc];B[md];W[ie];B[jb]LB[le:a]C[The White shicho at M15 <a> does not work. If the game goes like this, White has thrown away several stones, and Black has no worries.]
+)
+(;W[jb]N[W K18];B[kd];W[jc];B[if]C[White will make a small live group on the top, but Black is set to threaten White on the left, and in so doing, dominate the center and right side.]
+))
+(;W[lc]N[White M17];B[kd];W[oc];B[pc];W[od];B[oe];W[ne];B[pe]
+;W[ld]C[This is still not great for White, but it seems better than having White 22 at K16.]
+))
+(;W[lp]C[If, after White M4, Black tries to push through at P4...]
+N[W M4];B[op]C[...White has little to worry about.];W[oq];B[pq]
+;W[qq];B[ro];W[qp];B[pr];W[qr]))
+(;W[np]C[If White plays O4, this is one likely sequence, which seems favorable for White.]
+N[W O4];B[mp];W[nq];B[mq];W[pm]))
+(;B[qn]N[B 3-6 point]C[A move like this is more common than the move Black actually played, K4. The 3-6 point acts as a kakari against White's corner, and at the same time, a large extension from Black's corner.]
+
+(;W[np]N[W extension]C[White can calmly extend.];B[pk];W[iq]
+)
+(;W[qk]TR[ql][pk][pl]N[W pincer]C[The White pincer is another common response when Black plays the 3-6 kakari / large extension. Any of Q9, Q8, R9, R8 are common.]
+;B[qq];W[qp];B[rp];W[pq];B[rq])))

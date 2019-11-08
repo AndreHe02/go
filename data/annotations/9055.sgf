@@ -1,0 +1,123 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.16]
+
+PB[skirocky]
+BR[5k]
+PW[hc12]
+WR[4k]
+KM[0.5]
+DT[2013-02-25]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[B+11.5]
+TM[600]
+OT[5x20 byo-yomi]
+RU[Japanese]
+
+C[skirocky [5k\]: hi gg
+hc12 [4k\]: hi
+
+dave: Hi I'm dave and I will be reviewing the game for White, focusing mainly on the fuseki. I think you fell behind in the opening which made the rest of the game very difficult for you. If I had one piece of advice for you, it would be: avoid making weak groups in the opening.  Please keep in mind I am only 1dan (KGS), and thus not an expert on the game. Thanks!]
+;B[pd];W[pp];B[cd];W[dp];B[id]
+(;W[fd]LB[qf:B][cg:C][dg:D][cj:A][jp:E]C[dave:  This move goes against the proverb "Play away from strength."  By playing so close to your opponents stones, you put yourself at an immediate local disadvantage.  Besides, there are bigger more important places to play, such as A-E, which are all common moves when playing as white in the high-chinese opening.  What are you trying to do with F16? by playing on the 4th line, it will be difficult to settle that group comfortably, and it is way too early to consider an invasion.  Please see the variation for a common opening]
+;B[ec]LB[fc:A]C[dave: at this point, you should take advantage of blacks submissive response and play elsewhere, such as C10 or R14.  Then, later, you have the option of pushing at A if you so desire]
+;W[ed]C[dave: pushing here is a big mistake, because the end result is quite uncomfortable for white. (see comment at move 15)]
+;B[fc];W[dd];B[dc];W[ce];B[bd];W[be];B[qn]LB[df:A]TR[dd][ed]
+[fd][be][ce]C[dave: now white is in a pretty uncomfortable situation.  He wants to answer R6, but at the same time, white's stones in the top left are very awkward without adding a move at A to give the group good shape.  I think I would probably play at A now, bc if black plays there first, white will be pretty uncomfortable]
+
+(;W[pl]C[dave: this is kind of a strange move in this situation.. what is the meaning of it?  This move is more common when the top right corner is white.  Remember: usually pincers are played because the pincering stone coordinates well the other stones on the board.]
+
+(;B[on];W[np];B[rp]LB[qm:B][qq:A]C[dave: A is the key point in the corner, white must play here now.  B is also possible but I don't think it suits this particular position.  I will show you a variation with B just so you know it, because it is a useful joseki in some situations]
+
+(;W[pi];B[qq];W[lq];B[fq]C[dave: this is a bad move by black, he should play on the left side (always play on the more open side)]
+
+(;W[eq]LB[jp:A][jq:B]C[dave: this move is another mistake.  This move should only be made when white has a stone at A or B.  Since black has enough space for a comfortable extension to j3, it goes against the proverb "Do not touch weak groups", and also "Do not push your opponent towards your own weak groups".  If you want to play at J3, better to play there directly now, and in fact I think that would be a good move because you would finally stabilize your other group]
+;B[fp];W[iq]C[dave: normally, white should play D6 instead of this move.  The reason is that black can now respond with D5]
+
+(;B[cn];W[dn];B[dm];W[en];B[co];W[ep];B[cj]
+(;W[dh]C[dave: this move serves kind of a vague purpose.  It doesnt defend the issue at d15 fully, and it doesnt really give a base to your group.  It would be tempting to play c12 instead, but then black could play at g16 and the group would look pretty silly, and black would take profit at the top.  I think white needs to play G16 now, if not earlier.  It's a key point in that shape (to prevent the hane at the head of 3 stones), it's sente, and it helps defend the cut at d15.]
+;B[kp]TR[dh][pi][pl][np][pp]C[dave: so far, the opening as been kind of a disaster for white because he has a lot of unstable groups that he will have to worry about for the rest of the game. Notice that all of the triangled stones are on the 4th line, not doing much and making those groups difficult to settle. Of course, there are many different styles of play, but in general it's a good idea to make solid, secure groups during the opening, so then you can concentrate on reducing/invading during the middle game and don't have any liabilities to worry about.. 
+
+ Luckily blacks next moves are very bad and strengthen you a great deal, so the game is not over yet!]
+;W[kq];B[jp];W[ip];B[jq];W[jr];B[io];W[ho];B[lp];W[mq];B[hn]
+;W[go];B[gn];W[fo];B[em];W[nn]LB[qf:D][fm:A][in:B][jo:C]C[dave: since this group (bottom middle) is strong and alive, there's no need to try to escape it to the middle.  If black manages to enclose it, you still have a bunch of weaknesses (ABC) to aim at later. Also note that you end up strengthening black in the bottom right and securing him quite a few points.  It would have been nice to get Q3 later if possible.  I think D is the best move now]
+;B[oo];W[no];B[op];W[qf];B[nc]
+(;W[qd]C[dave:  this is a strange move.  normally contact moves like this should only be played when you are locally outnumbered and want to make some kind of shape.  I think the result (up to move 66) is slightly better for black, because he builds a nice big territory, and you still have to close yours off at R7.  Also, you lose the possibility of invading at R17 and stealing the corner, which is valuable. In fact, I think R17 instead of this move would be better.]
+;B[qc];W[rd];B[rc];W[pe];B[oe];W[od];B[pc];W[of];B[ne];W[nf]
+C[dave: this pushing from behind move is not good, because it helps black more than it helps you.  (If black does not have a move at n15, it's much easier to make something happen in the top middle later on if you deem you are behind)]
+;B[me];W[qm];B[pm];W[ql];B[ol];W[ok];B[nl];W[jo];B[in];W[kn]
+;B[ln];W[lo];B[jn];W[ko];B[km];W[mp];B[mm]LB[dd:A]C[dave: ok, now the game is closer.  It's a good idea to count at times like this  (Try to count 3-4 times per game if you can).  Here I count
+
+black: approx 48 at top, 14 bot right, 10 bot left = 72
+white: approx 28 right, 28 bot middle, 4 captured and 6.5 komi = 66.5
+
+so you are still a little behind, so you need to think about how to reduce the top and at the same time limit blacks potential in the middle.  Also note that group A is very weak (it will be very painful if black gets b12), and that b3 is a huge move for both.  I think that because group A is still somewhat baseless, it will be very difficult to pull off a comeback.]
+
+(;W[nk]C[dave:  way too small!!  Also, it's "pushing from behind".  I think you need to play on the left side, and try to help out your group while also limiting blacks possibilities and expanding your own.]
+;B[mk];W[mj];B[lk];W[lj];B[mf]
+(;W[pg]C[dave: way too submissive!  at least play this move at O12 if you want to protect your territory]
+;B[mh];W[df]C[dave: this is indeed an important point, but now it is too slow to play here.  I think C11 is a bit better.  However, now that black has built up strength in the middle, this game seems almost impossible for white now.]
+;B[bh];W[ci];B[bi];W[dj];B[ck];W[dk]C[dave: indeed this is not really sente]
+;B[ni];W[nj];B[dl];W[cp];B[ei];W[di];B[eg];W[dg]
+(;B[kj];W[eh];B[fi];W[fh];B[gi];W[fk];B[gk];W[fj];B[fl];W[gj]
+;B[hj];W[hk];B[gl];W[hi];B[ij];W[gh];B[hh];W[ii];B[ji];W[ih]
+;B[hg];W[ig];B[hf]C[dave: see variation.  end of comments
+ 
+note: From here on out, I think you played a better end-game than black, but since you created weak groups in the opening, it was relatively easy for black to apply pressure to you throughout the game, take big points in sente (IE b12), and get ahead in the game.]
+
+(;W[ff];B[if];W[jg];B[jf];W[gd];B[gc];W[hd];B[hc];W[bc];B[cc]
+;W[ad];B[bb];W[ac];B[ab];W[ae];B[bo];W[bp];B[oq];W[nr];B[or]
+;W[os];B[ps];W[ns];B[qr];W[rn];B[ro];W[sm];B[kg];W[ej];B[jh]
+;W[gi];B[li];W[sc];B[sb];W[sd];B[rb];W[oi];B[nh];W[ng];B[mg]
+;W[oh];B[bg];W[ao];B[an];W[ap];B[fn];W[bm];B[cm];W[bn];B[bl]
+;W[am];B[al];W[an];B[nq];W[mr];B[mi];W[pk];B[gg];W[fg];B[he]
+;W[mn];B[lm];W[nm];B[om];W[do];B[so];W[ge];B[bf];W[cf];B[af]
+;W[sn];B[el];W[tt];B[tt]TW[de][ee][fe][qe][re][se][ef][pf][rf]
+[sf][eg][og][qg][rg][sg][ph][qh][rh][sh][ei][fi][qi][ri][si]
+[oj][pj][qj][rj][sj][qk][rk][sk][rl][sl][rm][eo][mo][fp][gp]
+[hp][jp][kp][lp][aq][bq][cq][dq][fq][gq][hq][jq][ar][br][cr]
+[dr][er][fr][gr][hr][ir][kr][lr][as][bs][cs][ds][es][fs][gs]
+[hs][is][js][ks][ls][ms]TB[aa][ba][ca][da][ea][fa][ga][ha][ia]
+[ja][ka][la][ma][na][oa][pa][qa][ra][sa][cb][db][eb][fb][gb]
+[hb][ib][jb][kb][lb][mb][nb][ob][pb][qb][ic][jc][kc][lc][mc]
+[oc][jd][kd][ld][md][nd][od][ie][je][ke][le][kf][lf][ag][lg]
+[ah][kh][lh][ai][ki][aj][bj][jj][ak][bk][hk][ik][jk][kk][cl]
+[hl][il][jl][kl][ll][ml][fm][gm][hm][im][jm][pn][po][qo][pp]
+[qp][sp][pq][rq][sq][pr][rr][sr][qs][rs][ss]C[skirocky [5k\]: thx]
+)
+(;W[gd];B[gc];W[hd];B[ic];W[if]C[davE: white should win this capturing race (4 liberties to 3).  It would still be a close game though]
+))
+(;B[gd]C[dave: this would be a good move for black, pretty much assuring his victory]
+))
+(;W[nh]))
+(;W[ci]C[dave: this may be your best course of action];B[dj]
+;W[fh]))
+(;W[qc];B[qd];W[rd];B[pc];W[rb];B[qb];W[rc]C[davE: game is still favorable for black, but you took a nice chunk of his territory]
+))
+(;W[ch];B[gd];W[ff];B[qg]C[dave: this would be a nice sequence for black]
+)
+(;W[gd];B[gc];W[ch]C[dave: this would be a bit better for white, at least now his group is not floating.  Also note that black can't cut at d15]
+))
+(;B[do];W[co];B[ep];W[dq];B[dn];W[cn];B[dm]C[dave: this is not a disaster for white, but it isn't a particularly good result for him, since black has managed to pretty much neutralize white's wall in the top left and build some thickness.]
+))
+(;W[iq]C[dave: this would be a good idea.  Notice it does two things at once: strengthen your own group and put pressure on black]
+;B[cq];W[dq];B[cp];W[do];B[dr];W[er];B[cr];W[eq];B[cn];W[df]
+C[davE: maybe like this, though it is kind of annoying to lose a tempo to fix your earlier mistake in the top left]
+))
+(;W[qq]LB[pl:1][qn:2];B[rl];W[df]C[dave: this is not too bad for white, but Q8 is kinda weirdly positioned, so overall I think it's better for black.  That's one of the reasons that Q8 wasn't a great move.]
+)
+(;W[qm]LB[pm:A][qq:B]C[dave: correct move now in this joseki is actually A, see var if black tries to play B immediately]
+
+(;B[pm];W[ql];B[qq];W[rn];B[qo];W[pq];B[ro];W[jq]TR[od][pd]
+[qd][oe][pe][qe][of][pf][qf]C[dave: this is a joseki, but it makes much more sense if white is strong in the triangled area]
+)
+(;B[qq];W[qo];B[pn];W[rn];B[ro];W[rm];B[po];W[pq];B[qp];W[pr]
+TR[qm]C[dave: usually good for white because black only has 1 eye in the corner.]
+)))
+(;B[df];W[de];B[dj]TR[dd][ed][fd][be][ce][de]C[dave: white has invested a fair number of stones in the triangled group, and it is not doing much, in fact it is becoming a liability]
+;W[ef];B[cn]))
+(;W[df];B[nq])
+(;W[gd];B[gc];W[dj]C[dave: another idea to try to salvage the situation]
+)
+(;W[nq]C[dave: If you want to respond, better to play peacefully since you don't have any back-up in the area]
+))
+(;W[dg];B[ed];W[dj];B[qn])
+(;W[qf];B[nd];W[rd];B[dj]))

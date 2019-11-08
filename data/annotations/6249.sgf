@@ -1,0 +1,107 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+PB[schemelab]
+BR[26k]
+PW[panam]
+KM[6.5]
+DT[2007-10-20]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[W+Resign]
+TM[1500]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+C[Hello, my name is Sven and I´m about 8 kyu at Dragon Go Server and around 13 kyu at KGS.
+My comments are all preceded by "--" and I hope they will provide a little bit of help to you.
+
+Your game was lost by some conceptual mistakes in the opening and early middle game. The most important point is to claim the corners first, then the edges and finally the center of the board. Then, you should not try to connect all your stones into one group, but to create a few groups at different places of the board.
+
+Have a look at the number of stones needed to enclose an area of 9 points at different places...(see variation)]
+
+(;B[pd]C[schemelab [26k\]: hi];W[dp]C[panam [?\]: hi];B[dd]
+;W[pp];B[nf]C[-- The most important rule for the opening game:
+First the corners,
+then the sides,
+at last the center!];W[jp];B[qh];W[fc];B[mc];W[ic]TR[mb][nb]
+[ob][pb][qb][rb][bc][cc][nc][oc][pc][qc][rc][bd][cd][md][nd]
+[od][qd][rd][be][ce][de][ne][oe][pe][qe][re][bf][cf][df][of]
+[pf][qf][rf][og][pg][qg][rg][ph][rh]SQ[eb][fb][gb][hb][ib][jb]
+[ec][gc][hc][jc][gd][hd][cp][ep][fp][gp][hp][ip][kp][lp][mp]
+[np][op][qp][rp][cq][dq][eq][fq][gq][hq][iq][jq][kq][lq][mq]
+[nq][oq][pq][qq][rq][cr][dr][er][fr][gr][hr][ir][jr][kr][lr]
+[mr][nr][or][pr][qr][rr]C[He's playing all over. I want to secure the upper right
+
+-- Right. And now compare your respective areas of influcence, as marked by the triangles and squares
+
+At this moment, GnuGo estimates a victory for White by 46 points.]
+;B[lh];W[dj];B[ih]C[-- this move does not secure any territory for Black.]
+;W[ql];B[kk];W[cf];B[ce];W[df];B[db]
+(;W[kc]LB[jm:A]C[-- bad move by White, should play for example around A.
+As a rule, try to build box-like territories, since this takes up the fewest stones.]
+
+(;B[ae]LB[cq:A][gq:B]C[-- not necessary to play here
+better invade at A or B];W[bf];B[lb]C[I have the upper left secured as well. Make sure that L17 does not pose a threat to my upper left.
+
+-- how could L17 pose a threat?];W[kb];B[ld];W[je];B[oj]C[-- again too close to your other stones - they are "overconcentrated"]
+;W[ol]TR[om][pm][qm][rm][on][pn][qn][rn][oo][po][qo][ro][op]
+[qp][rp][oq][pq][qq][rq]C[-- good move by White - building a box-like moyo (sphere of influence)]
+;B[qj];W[nk];B[mk];W[ml];B[ll]C[I need to gain territory elsewhere or he will have more.]
+;W[mj];B[lk];W[nj];B[pj];W[lm];B[kn]C[Another attempt by me to gain control of the  lower part of the board.
+
+-- If White does not make serious mistakes, Black will have a hard life to create a living group in the lower half of the board.]
+
+(;W[mm];B[km]C[Must support L6];W[lp];B[kp];W[kq]C[I got lucky here. He just need to play L5 to isolate my L4.]
+;B[ko];W[lo];B[ln];W[mn];B[lj];W[nh]
+(;B[dm]LB[cm:A]C[-- should be one line to the left at A];W[cn]
+;B[lf];W[gp]
+(;B[en]LB[ck:C][cm:B][gm:A]C[-- do you want to connect D7 to the center group? then you should play A.
+If you, however, want to establish a living group (or threaten to do so), then you must descend to the edge at B or C.]
+;W[cm];B[do];W[co];B[eo]LB[gl:A][hm:B]C[I thinik I will control some central territory since I dont think I can break through on the lower or left ledges
+
+-- If White play at A or B, there will be no central territory left to control]
+
+(;W[ep];B[dl];W[cl];B[io];W[ip];B[go];W[dk]C[uh-oh. he's getting on top of me. applying pressure]
+;B[hp]C[I've gotta break apart his stones.
+
+-- you will at most make some minor dents in your opponent´s wall...]
+;W[hq];B[fp];W[gq];B[ho];W[fq];B[fo];W[jo];B[if]C[Poor move. This is how he broke through in the center]
+;W[jn]
+(;B[jl]LB[jm:A]C[-- Why not at A ?];W[jm];B[kl];W[il]
+(;B[ek]LB[im:A]C[-- no! at A !];W[fl];B[el];W[gm];B[gk];W[fk]
+;B[gl];W[hm];B[fj];W[fm];B[ej];W[gj];B[em]C[-- there´s no need to play here]
+;W[gi];B[hk];W[fi];B[ik];W[ei]C[-- now it´s time to give up. The lower left Black groups is dead, and you won´t be able to establish a living group within the white territory.]
+;B[hi];W[af];B[mi];W[ni];B[og];W[qq];B[oh];W[jf];B[id];W[jd]
+;B[ie];W[de];B[cd]LB[be:A]C[-- no, at A.];W[be]C[More trouble. I thought I had the area secured.]
+;B[ad];W[bd]C[schemelab [26k\]: thank you
+panam [25k?\]: thank you])
+(;B[im]
+(;W[in];B[hm];W[hn])
+(;W[hm];B[in]
+(;W[jq];B[hl])
+(;W[em];B[hl];W[ik];B[hk];W[ij];B[gm];W[hj];B[el]))))
+(;B[jm];W[in];B[im];W[hn];B[hm];W[gn];B[gm];W[fn];B[fm];W[jq]
+))
+(;W[gl];B[gn];W[fj];B[gk];W[fk];B[fl];W[gj];B[hk];W[hj])
+(;W[hm];B[ho];W[gj];B[hk];W[go];B[gn];W[hn];B[io];W[gm];B[fn]
+;W[gk]))
+(;B[gm];W[em];B[el];W[en];B[fl];W[dl];B[dk];W[cl];B[ck];W[ek]
+;B[cm];W[bl];B[bk];W[bm];B[ej])
+(;B[cm];W[bn];B[cj])
+(;B[ck];W[cj];B[cm];W[bn];B[gm]))
+(;B[cm];W[cn];B[cj];W[dm];B[cl];W[dl];B[dk];W[ek];B[ck];W[di]
+;B[bn];W[co];B[bo]))
+(;W[km];B[mm];W[mn];B[nm];W[nl];B[jm];W[ln];B[in];W[jo];B[jn]
+;W[gp]))
+(;B[cq];W[dq];B[cp];W[co];B[bo];W[cn];B[bn];W[cm];B[dr];W[er]
+;B[cr];W[fq])
+(;B[tt];W[be];B[bd];W[de];B[cd]C[-- White cannot kill the black upper left group, nor steal too great a amount of territory here.]
+)
+(;B[gq];W[eq];B[jq];W[kq];B[ip];W[jr];B[iq];W[kp];B[ir];W[lr]
+;B[in]))
+(;W[jm]))
+(;B[tt]
+(;W[pd];AW[pa][pb][pc][qd][rd][sd]C[7 stones])
+(;W[pj];AW[ph][qh][rh][sh][pi][pk][pl][ql][rl][sl]C[11 stones]
+)
+(;W[jh];AW[hh][ih][kh][lh][hi][li][hj][lj][hk][lk][hl][il][jl]
+[kl][ll]C[16 stones])))

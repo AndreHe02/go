@@ -1,0 +1,82 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.16]
+
+PB[Lethe]
+BR[5k]
+PW[hc12]
+WR[4k]
+KM[0.5]
+DT[2013-06-09]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[B+Resign]
+TM[600]
+OT[5x20 byo-yomi]
+RU[Japanese]
+
+C[Lethe [5k\]: good morning];B[pd];W[pp];B[dd];W[dp];B[jd];W[cf]
+;B[ch]
+(;W[ef];B[fd];W[bd];B[cc]C[see variation for another idea. The following is excerpted (I believe) from go seigen's book. Go recommends the variation]
+
+(;W[di];B[dh];W[eh];B[ci];W[dj]
+(;B[dg]C[wrong by black. If he wanted to cut e13 is better]
+
+(;W[df];B[eg];W[fg];B[fh]C[Please help me the fuseki .];W[ei]
+;B[ff]
+(;W[fe]
+(;B[gf];W[ge];B[gg];W[ed];B[ec];W[ee];B[fc];W[hd]C[White has made a mistake to have this bad of a result.]
+;B[ic];W[ie]
+(;B[hc];W[ig]
+(;B[hh]C[this is bad by black. It's basically a pass.];W[ih]
+;B[hi];W[ii];B[cj];W[je];B[kd]C[slow by black];W[jp]C[good tenuki for white.]
+;B[dk];W[qj]C[another good tenuki. It's the correct choice to throw away those 4 stones.]
+;B[nq];W[oq];B[mp]
+(;W[qn];B[kq];W[jq];B[mn]
+(;W[om]C[this does not make many points and the black stones are being pushed toward the solid black group on the left side. This is not a good direction to attack]
+;B[ml]
+(;W[hj]C[what is the purpose of this move?];B[fp];W[cn];B[fn]
+C[the k3 stones are now feeling weak];W[eq];B[fq];W[jm]C[so you have to defend them in a way that doesn't secure points]
+;B[kp];W[jo];B[cl]C[I don't know black's idea here.];W[em];B[en]
+;W[dm];B[do];W[co];B[er];W[dr];B[ep];W[dq];B[gr];W[qf]C[good. Take the last big point. However, black has a very large top and it is hard for white to attack black. End of my comments.
+
+This game got hard after white made a weak group in the top left corner. This gave black many points on the top without black making any weak groups. It was hard then for white to come back.
+
+Hopefully this helped. I had trouble coming up with a good approach to the top left corner. Perhaps it's best to go with go seigen's advice then, and not the d11 shoulder hit that was played. The variation showed from go is from his book "a way to play in the 21st century". I don't own a copy, but I've seen the variation shown a lot. One would assume it's better explained in the book.]
+;B[gl];W[lj];B[mj];W[lk];B[mk];W[nd];B[oe];W[ne];B[og];W[nf]
+;B[of];W[ph];B[oh];W[pi];B[qe];W[rf];B[re];W[oc];B[pc];W[ob]
+;B[pb];W[ke];B[mc];W[lc];B[ld];W[mb];B[lb];W[md];B[kc];W[le]
+;B[qq];W[pq];B[ro];W[qp];B[rp];W[rq];B[qr];W[rr];B[pk];W[qk]
+;B[pl];W[ql];B[pm];W[pn];B[qm];W[rm];B[bc];W[bg];B[bm];W[bn]
+;B[ds];W[cs];B[es];W[br];B[kl];W[oi];B[ni];W[mh];B[mi];W[li]
+;B[jl];W[il];B[ik];W[ll];B[lm];W[hl];B[hk];W[km];B[jk];W[gk]
+;B[gj];W[fk];B[ij];W[gm];B[fm];W[fl];B[el];W[go];B[gn];W[hn]
+;B[ir];W[ek];B[dl];W[dn];B[jr];W[hq];B[hr];W[gp];B[iq];W[ip]
+;B[gq];W[hp];B[fi];W[ln];B[mm];W[lo];B[mo];W[ok];B[ej];W[se]
+;B[sd];W[sf];B[rc];W[nr];B[mr];W[np];B[mq];W[os];B[no];W[aj]
+;B[bj];W[ai];B[ah];W[bh];B[ak];W[ag];B[be];W[ae];B[cd];W[ad]
+;B[ac];W[af];B[lc];W[nb];B[pg];W[qg];B[ko];W[kn];B[fj];W[gl]
+;B[im];W[hm];B[in])
+(;W[co]C[secure points])
+(;W[qg]C[secure points])
+(;W[qc]C[or invade]))
+(;W[jm]C[consider something like this. Black is separated, and if black runs, white can make points on the right. This two space jump from the space at k4 is a common shape.]
+))
+(;W[pn]C[you can play high easily due to the r10 stone. This puts more pressure on the black stones.]
+))
+(;B[hf];W[he];B[if];W[je];B[ld]C[black secures the top]))
+(;B[jg]C[black should play here. blacks corner is not in real danger, and white is in real trouble.]
+;W[hc];B[bc]))
+(;B[gg]C[black should capture. White has a heavy group in bad shape with the e11 stones and a weak group on top.]
+))
+(;W[gg]C[extending here is a must.]
+(;B[fe];W[cj];B[bj];W[bk];B[bi];W[bg]C[white wins this capturing race.]
+)
+(;B[cj];W[fe];B[gf];W[ge];B[hf];W[ee]C[black is in more trouble here than white, because the ladder on the f13 stones is good for white.]
+)))
+(;W[de];B[eg];W[fg];B[fh];W[ei];B[ff];W[gg]))
+(;B[eg];W[fg];B[dg])
+(;B[cj]C[Black should push here first. It's sente, and the cut later is more powerful if the black stones have more liberties.]
+))
+(;W[gf];B[ck];W[cm];B[hd];W[cg];B[dh];W[fh];B[ek];W[em];B[gk]
+;W[fj];B[fk];W[jp];B[pj];W[qf]))
+(;W[cc];B[dc];W[cd];B[de];W[bf];B[eg];W[qf];B[qh];W[qc];B[pc]
+;W[qd];B[pe];W[rf];B[og]C[This has been seen in pro play, so going into the corner is fine.]
+))

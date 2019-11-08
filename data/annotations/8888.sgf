@@ -1,0 +1,135 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.17]
+
+PB[CaoMorto]
+BR[13k]
+HA[2]
+PW[ZMG]
+WR[11k]
+KM[0.5]
+DT[2012-08-16]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[B+0.5]
+TM[1500]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+AB[pd][dp]C[Hi Leandro,
+
+I'm Simon Van Bockstal, a Belgian 6 kyu (around 3-4 kyu KGS). My nickname on KGS is Hushfield, and if you have any more questions, you can add me there, or just send me an email. 
+
+Some important things that I'll try to touch upon in this review:
+- territory vs influence
+- basics of attacking and defending
+- connecting your stones and cutting those of your opponent
+
+All my comments in this review will be marked with H: (for Hushfield). At the end, I'll write some more things that I found useful for my own improvement. Also, I apologize if I seem strict in my language, I'm pointing out moves which are bad, so the first part of the review might sound a bit negative, but that's not the case at all. I feel like you made some choices which weren't the best because I think you lack some insight in the nature of territory and influence, and so I've talked about that in length. Overall, I think you played quite well and congratulations on fighting back to a close win. It was a nice game you can be proud of, and you can learn a lot from.
+
+Hope the review helps you.
+
+Cheers,
+Simon];W[pq];B[qf]LB[dc:B][cd:C][dd:A]C[Sometimes, when I play with handicap stones, I use them not to get more corners, but to make the two who are given more solid.
+
+H: As you can see from the next move, this doesn't turn the corner into territory yet. While it is not a bad move, I feel it's much better for black to play A, B or C here.]
+;W[qc]LB[oc:A]C[It started now. He tried to invade my corner at his second move. I was somehow confident that I could prevent it, but he got away with it.
+
+H: This is where we should stop and take some time to take another look at what has happened. This is not your corner yet. You would need another stone at A to prevent white from invading here. As is, white can live comfortably. So it is not your corner. Yet. 
+
+Go is a subtle exchange between territory and influence (power). Your moves and those of your opponent are constantly shifting the balance of one or the other. When one player forcefully creates territory somewhere, he will usually give his opponent influence in another part of the board, or the other way around.
+Right now, nobody really has territory yet, but the corner stones serve as an excellent point to radiate power throughout the rest of the board.
+
+So: once more: what do you see? White has played a move that says: "I want to build a small territory in this corner where you have influence already". This cannot be stopped, as the corner is not solid black territory yet (no stone at A). But, if white wants to do this, he will have to give something to you in return. That will be outside influence. Now let me be very clear on this: white's move is very bad. It's far too early in the game to play a move like this, because the trade of the small white territory for the massive black outside influence, is very good for black. You should welcome this move. Have a look for yourself at move 11.]
+;B[pc];W[qd];B[qe];W[pb];B[ob];W[rb];B[pa]C[H: Good move! Gives white less flexible shape.]
+;W[qb]LB[ra:1][sa:2][sb:3][nc:A][rc:4][sc:5][dd:B][po:C]TR[ob]
+[pc][pd][qe][qf]C[H: So what do you see? White has at the most 5 points of territory, and spent 5 moves to get this. That's horribly inefficient! What did black get in return? A wall which will give you far more than 5 points in the future, and might help in fighting later in the game. To complete your wall, however, you'll have to defend at A first. This is good flexible shape and means white is not unconditionally alive yet.
+Don't worry about white making a small group in "your" corner (it wasn't yours, by the way). Welcome this move! Rejoice at the possibilities you now have! You can play a large move at B, completing your large framework of inlfuence, or even think of approaching at C later in the game. B is the better direction for now, as that is where your wall is facing and that's where an open corner is. Look at the variation:]
+(;B[sc]LB[nc:A]C[Maybe P19 instead.
+
+H: Completing your wall at A is the only correct move now. Don't worry about white living, you're getting the better end of the deal here.]
+;W[oc]C[H: Because you failed to defend the cutting point, white now has options to live much bigger than he originally could. Don't be greedy and try to kill your opponent all the time. The best players let them live small, and take larger profits elsewhere on the board.]
+;B[nb];W[od];B[pe];W[re];B[rf];W[rd];B[sb]LB[ne:A]C[H: This is another move trying to kill. Your opponent has given you a chance to correct your earlier mistake. Capture the cutting stones in a net at A, and your wall and subsequent options are there again.]
+;W[qa];B[se];W[sa];B[sd];W[sf];B[sg];W[oa];B[na];W[mc]C[H: Because you were trying so hard to kill the group, you failed to defend properly and now white can punish those weaknesses. Trying to kill a group is like doing a ladder: if the ladder works for you, you will catch the stones. If it doesn't you have created a horrible amount of cutting points and your opponent will benefit from exploiting those. So you need to be sure you can kill a group before you start down that path, just the same as you need to be sure a ladder works before you give the first atari. this entire corner went wrong because you failed to protect the initial cutting point at move 12.]
+;B[mb];W[lb];B[pa];W[nc];B[ra];W[oa];B[sa];W[ma]C[CaoMorto [13k\]: Nice :)]
+;B[oe]C[ZMG [11k\]: ty];W[ne];B[nf];W[me];B[dc];W[cc]TR[ma]
+[lb][mc][nc][me][ne]C[He kept on his agression. He wasn't making his space, he was always jumping on my moves.
+
+H: Again, he is picking a fight which will allow you to gain more than he will. It's unfortunate that whiten ow has the strength (marked) in the upper right, but you can still gain from this.]
+;B[cd];W[cb]
+(;B[db]TR[ma][lb][mc][nc][me][ne]C[H: This move is understandable, but it's bad. You are ignoring the direction of play. White already has strength in the upper right. Even if you make a wall facing that strength here now, white will still be able to extend first and negate your wall. Even if you might somehow extend first, there's not much potential here anyway. So instead of building a wall facing the right, build one facing your corner stone in the lower left. Play A instead. See variation]
+;W[bd];B[ca];W[bb];B[ba]LB[ce:A]C[H: again, you're trying to kill and leaving weakneses. Extend at A instead.]
+;W[ce];B[dd];W[ab];B[de];W[cf];B[ch]C[H: This move is very bad, because you're inviting white to come in and separate your stones. For more information on basic moves, connections, etc, check out http://senseis.xmp.net/?HaengMaTutorialForBeginners]
+;W[dg];B[cg];W[df]C[H: Now you have forced white to cut you into two weak groups. You'll have to defend the largest one first.]
+;B[ee]LB[gc:A]C[H: too slow. The empty triangle is bad. Make a base instead with a move like A]
+;W[dh];B[ci];W[fg];B[bg]TR[dd][de][ee][cg][ch]C[H: Again, very slow and bad shape.Try to avoid empty triangles at all costs. Have a look at: http://senseis.xmp.net/?TheEmptyTriangleIsBad]
+;W[bf];B[dj];W[gd];B[ff];W[gf];B[gg];W[gh];B[hg];W[fe];B[fd]
+;W[ef];B[gc];W[fc];B[ec];W[fb];B[gb];W[hd];B[ed];W[da];B[ea]
+;W[fa];B[ga];W[aa];B[eb];W[fb];B[hc];W[ic];B[id];W[jd];B[jc]
+C[I played K17 so that after he J15, I could J18 and save my group. I guess it only worked because he didn't play J18 instead.]
+;W[ie];B[ib];W[jb];B[id];W[ia];B[ic];W[je];B[kc];W[kb];B[kd]
+;W[ke];B[ld];W[le];B[md];W[nd];B[ha]TR[gd][hd][fe][ie][je][ke]
+[le][me][ef][gf][fg][gh]C[I also think I would've lost this group had he played there before - and he had the chance.
+
+H: You have managed to live. With 5 points of territory. in return you have given white a huge wall which radiates influence throughout the entire board. This is notan even trade. Especially the last moves only served to strengthen white. Settle your group as soon as possible, and never help your opponent in this way.]
+;W[ja];B[he]C[H: The cut is good, and shows white still has some problems with his wall. Therefore it is not real power or influence yet, but I still feel Black had better options to make his group at the top live.]
+;W[ge];B[hf];W[ff];B[ih];W[hh];B[ig];W[lg];B[jj];W[kh];B[nh]
+LB[ii:A]C[H: You're "defending" what you believe is yours (but isn't yet) and therefore you're forgetting the most important rule in all of go. Keep your own stones connected, cut the stones of the opponent. Yes, you should have played A instantly]
+;W[ii];B[jh]C[H: Empty triangle, and doesn't help you escape.]
+;W[ji];B[ki];W[if];B[ij];W[jg];B[hj];W[cl]
+(;B[dl]LB[cn:A]C[H: Now you're starting to look at his moves. Don't attack by attaching. Always attack from a distance. A is much better because then the whitestone cannot make a base. See variation.]
+;W[cn];B[dn];W[dm];B[em];W[cm];B[co]LB[el:B][en:A]C[H: You leave too many cutting points again. Play A or B instead. In fact, just play B.]
+;W[dk];B[el];W[ek];B[ck];W[bk];B[cj];W[ej];B[bl];W[bm];B[bn]
+;W[al];B[bj];W[bo];B[aj];W[ak];B[cp];W[bp];B[bq];W[an];B[gl]
+;W[ag];B[ei];W[fj];B[fi];W[gj];B[gi];W[fl];B[fm];W[en];B[fn]
+C[H: this was a good sequence by black, you chose the correct tesuji, well done!]
+;W[do];B[eo];W[dn];B[fp]C[H: You connected in good shape.];W[aq]
+;B[br];W[ah];B[pp]LB[qo:B][nq:A]C[Here I tried to do what he did - jumping on his stones. I could've try for territory, but I figured out he would just touch my stones no matter what.
+
+H: Always attack from a distance. That's why the standard approaches at A or B have become standard in the first place. Now you each have a stone with 3 liberties, but it's your opponent's turn to play. Guess who will end up a liberty short?]
+;W[rq]LB[qp:A]C[H: I'm astounded. Hane at A is the only response for white.]
+;B[oq]C[H: good! Now you hane and you take away a liberty from your opponent.]
+;W[pr];B[nq]C[H: Yes! this was excellent. Works very well with your overall influence.]
+;W[qp];B[po];W[qo];B[qn];W[jq];B[ro]LB[hq:A]C[H: Don't worry about this small group. Take away the base of the invading stone at A!]
+;W[rp]
+(;B[rn]C[H: Especially this is slow. You're saving one stone. The reason you hane, is so that white cannot come here in sente in endgame. See variation.]
+;W[lr]C[Now white will either connect or have a base. You have lost a marvellous chance at attacking this stone.]
+;B[mr];W[lp];B[mp]LB[hq:A]C[H: Play A instead];W[lq];B[mq]C[H: ! This exact example is given on the empty triangle page. Check it out there.]
+;W[hq]C[H: White has finally extended here and now there is no killing this group anymore.
+
+The rest is endgame so I'll stop the review here. the most important things you should remember:
+1) territory and influence are constantly traded. Identify who gains from a trade and who loses, and adjust your play accordingly. (think of the example of crawling on 2nd line is bad for you, 3rd line is even, 4th line is good). Therefore: welcome small invasions!
+2) Attack from a distance, don't attach. 
+3) The empty triangle is bad, mmmkay?
+4) Keep your own stones connected and cut those of your opponent.
+
+Finally, I can really advise some go problem books to improve your general reading. Kano Yoshinori's Graded Go Problems for Beginners are nice, I think volume 2-3 should be around your level.
+
+Hope this review helped you, and don't hesitate to send any questions over at simon.vanbockstal@gmail.com]
+;B[gq];W[gr];B[fr];W[gs];B[fs];W[ir];B[hp];W[ip];B[ho];W[lo]
+;B[io];W[jo];B[jn];W[ko];B[kn];W[mn];B[ln];W[mo];B[no];W[nn]
+;B[on];W[rr];B[or];W[nl];B[om];W[ml];B[ol];W[li];B[kj];W[lj]
+;B[lk];W[mk];B[ll];W[lm];B[km];W[mm];B[ok];W[hi];B[fk];W[in]
+;B[im];W[kl];B[hn];W[kk];B[jl];W[jk];B[ik];W[ni];B[oi];W[oh]
+;B[nj];W[mi];B[pi];W[ng];B[og];W[mh];B[ph];W[nh];B[mf];W[lf]
+;B[of];W[mg];B[ls];W[ks];B[ms];W[kr];B[os];W[ps];B[ar];W[ap]
+;B[qj];W[eq];B[fq];W[ep];B[fo];W[cq];B[cr];W[dq];B[dr];W[er]
+;B[es];W[cp];B[gk];W[eh];B[ai];W[af];B[bh];W[da];B[ca];W[ba]
+;B[da];W[rc];B[sf];W[sp];B[so];W[mj];B[nk];W[lc];B[di];W[fh]
+;B[tt];W[tt]TW[ka][la][na][pa][mb][nb][ob][ac][bc][ad][ae][be]
+[he][hf][jf][kf][eg][gg][hg][ig][kg][ih][jh][lh][lk][bl][ll]
+[am][bn][ao][co][dp][jp][kp][iq][kq][qq][sq][hr][jr][qr][sr]
+[hs][is][js][qs][rs][ss]TB[fa][fb][hb][fc][pf][pg][qg][rg][qh]
+[rh][sh][bi][qi][ri][si][ej][fj][gj][oj][pj][rj][sj][dk][ek]
+[hk][pk][qk][rk][sk][fl][hl][il][pl][ql][rl][sl][gm][hm][jm]
+[pm][qm][rm][sm][gn][in][pn][sn][go][oo][gp][np][op][nr][as]
+[bs][cs][ds][ns])
+(;B[hq];W[rn];B[rm];W[so];B[qm]TR[ro]C[H: White cannot invade because the original black stone made the cut gote for white.]
+))
+(;B[cn];W[el];B[fj]C[H: You need to connect your own stoens first of course, but now the two white stones are in soem trouble, and you will make territory by chasing them around.]
+))
+(;B[bd];W[db];B[ec];W[eb];B[fc];W[gb];B[dj]LB[ba:1][ca:2][da:3]
+[ea:4][ga:5]C[H: Notice again how little white is gaining, and how much black has gained. The trade between influence and territory is again in the favour of black.
+
+As a general rule; when your both pushing at each other like this, if somebody is crawling on the second line, that is bad for that player. On the third line is an even trade, on the fourth line is too much territory for the player near the side of the board.]
+))
+(;B[nc];W[rd]C[H: white has to play here first or he will die.]
+;B[dd]C[H: Now this works perfectly with your wall and your other corner stone. Black is already worlds ahead in this game, and all because of white's hasty invasion.]
+))

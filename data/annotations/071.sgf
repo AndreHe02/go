@@ -1,0 +1,114 @@
+(;FF[1]GM[1]SZ[19]VW[]AB[dd]C[comments by jl  (Jean-loup Gailly 9k*)
+
+
+jl: The go etiquette recommends playing the first stone in the top right  corner (bsdserver.ucsf.edu:/Go/Etiquette).]
+PB[queue]BR[18k*]PW[jean]WR[17k*]GN[jean-queue(B) IGS]DT[1994-11-09]PC[IGS:  hellspark.wharton.upenn.edu  6969]
+TM[600]RE[W+Resign]US[Brought to you by IGS]KM[0.5];W[pp];B[pd];W[dq];B
+[co];W[fp];B[ck];W[nc]L[fc]C[jl: I would prefer w 'a' (f17) to avoid a black  double wing extension from d16 (see variation)]
+
+(;B[qg]C[jl: The large  knight's move (r13) is difficult to master (first lesson of "The  breakthrough to shodan", p 8). It should be played by kyu players only when  the situation really demands it. Here, B k16 would be better (go back to see  variation).]
+;W[pb]L[jd]C[jl: w q18 helps B to secure the corner. w k16  instead is possible to leave open the possibility of a corner invasion at r17  but I'm not sure
+which is better here.];B[qc];W[kd]C[jl: w L16 should be L17 in this context.  The high move is good only if there is already a W stone in top left.]
+;B[gc]C[jl: the large knight's move is good here because it takes advantage of  white's mistake at L16.]
+;W[jp]M[fp][jp][pp]C[jl: W k4 would be better at k3.  Having the 3 marked stones high leaves too much freedom to B for invasion.  The stones on a side must not be all high (too open) or all low (too  small).]
+
+(;B[nq]C[jl: B likes fighting. B r6 here would be simpler and work  well with the top right (go back to see variation).]
+;W[oq];B[np];W[pn];B[kr]L[lp][lq][jr]C[jean 17k*: how did you find your last move (L2) ? looks  strange to me...... was it a mouso ?
+
+
+jl: L2 is indeed strange. B a (m4) is the usual move but b (m3) or c  (k2) are also possible.]
+
+(;W[lq]C[jl: W k2 would be better (see  variation)];B[lr];W[kq];B[jr]
+(;W[mr]C[jl: W is trying too hard to kill.  Since B connects anyway, W o2 instead of n2 would secure the W corner.]
+;B[nr];W[mq];B[ms];W[hr]C[jl: W h2 is bad since W intends to give it up anyway.]
+;B[iq];W[ip];B[hq];W[hp]L[qj][cf][gr][pq][nn]C[jl: W h2 ends up as a wasted  move; all the W bottom side has disappeared; and the W bottom right corner is  much weakened. This is a consequence of W m3 and n2. W ends up with some  central thickness, but this is not enough compensation for the loss of the  bottom side and the weakened corner.
+
+
+At this point, W is behind, so w h4 may be too slow. W could consider a  (r10) or b (c14), or continue the attack with c (g2). Since B has d  (q3) to enter the corner and e (o6) to escape, B is not in real trouble  anyway even after W g2.]
+;B[qk];W[ql];B[pk];W[rl];B[rk]
+(;W[or]L[cf]C[jl: w p2  is not as large as it looks since B will probably reply at g3 to secure his  group, thus destroying any hope for W territory on bottom side.
+
+
+W could play at g3 instead to secure his groups in sente then invade at c14  (see variation).]
+;B[op];W[po]C[jl: W q5 leaves some aji (B q2 or q3); W  r3 instead is simpler.]
+;B[nn]L[gq]C[jl: B o6 might be better at a (g3) because  it makes territory instead of just escaping.]
+;W[gq];B[nl];W[qb]L[cf][be]C[jl: W r18 big but still too small at this point. It should be at a (c14)  or b (b15). W must play agressively since he is behind.]
+;B[ce]C[jl: B c15  good. B is leading.];W[cm]C[jl: W c7 also good. W must play with energy at  this point.]
+;B[bm];W[bn];B[cn];W[bl];B[dm];W[cl];B[dl];W[bk];B[cj];W[dn]C[jl:  W cannot excpect to kill the c6 group, so pushing at b10 would probably have  been better. With W d6, W forces B to take the corner.]
+;B[bo];W[am];B[bj];W[ak];B[ao];W[an];B[dp];W[eo];B[cq];W[dr];B[cr];W[br]
+;B[bs];W[bq];B[do];W[en];B[bp];W[ds]L[ar]C[jl: If W wants to force a ko or seki, W d1 should be a2 because d1  just forces B to live unconditionally at a2 or c1. But W a2 is gote. W d1  also leaves bad adji at B e3, so W will either have to end in gote or  sacrifice d1.
+
+Here W should probably leave the corner as it is and take sente elsewhere.]
+;B[cs]C[jl: B a2 would be simpler, but c1 is a good move which exploits  the aji at B e3.]
+;W[ar]C[jl: W a2 can at best get a seki in gote (if W e4, B  a4) so w a2 should be left as endgame move. But worst, a2 does not work here  because B e3 captures the d1 group, thanks to the B h3 group (see  variation).]
+
+(;B[ej]C[jl: B need not capture at e3 immediately since if W e4  B can get a seki at a4. So B d10 is good.
+
+B has sucessfully kept his lead after the W invasion at c7.];W[ne];B[of]
+;W[oe];B[pe];W[nf];B[ng];W[og];B[pf];W[mg];B[nh];W[mh];B[mi];W[ni];B[oh]
+;W[li];B[mj];W[kh]L[ge]C[jl: W L12 is thick, but a bit slow since W is behind. W could  consider a (g15) instead. W must try to keep sente.]
+;B[gf];W[cc]
+(;B[dc]C[jl: since B is very strong in the area, B should kill instead of giving a  ko (see variation starting with B d18).]
+;W[bd];B[be];W[db];B[eb];W[bb];B[da];W[ca]C[jl: W is happy to get a ko.]
+;B[cb];W[oi]C[jl: W p11 should be at q12  to obtain an extra ko threat.]
+;B[ph];W[db];B[pq];W[ea]C[jl: W still had big  ko threats at a1 and m1, so W could have minimized the damage to the bottom  right corner by answering black's threats two more times.]
+;B[qq];W[qp];B[rq];W[rp];B[sp];W[so];B[sq];W[rn];B[eq]C[jean 17k*: ooops
+
+jl: B e3 is very large because it ensures two eyes instead of a seki.];W
+[fr];B[er];W[ir]C[jl: W j2 is much too small at this point of the game. W j17 is  far bigger. The bottom W group is not in immediate danger, so W must take  some risks since he is behind.]
+;B[hi];W[lj]C[jl: W j17 is bigger.];B[jb];W[mk];B[nj];W[nk];B[oj];W[ok]
+;B[pj];W[ol]C[jl: W p8 is gote and almost worthless.  W need not fear a B cut at m9.]
+;B[im];W[jq];B[kn]C[jl: B L6 is a dame.  Neither B nor W can make territory there. B f7 would be much bigger.]
+;W[rc];B[rd];W[rb];B[id];W[no];B[oo];W[mo];B[on];W[nm]C[jl: W o7 too small. W L18  bigger.]
+;B[gl];W[mn]C[jl: W n6 also very small.];B[om];W[ml];B[pm];W[pl]C[jl:  W q6 should be at r7. W has spent too many moves in the hope of catching the  o2 group, but B still has enough liberties to be safe.]
+;B[qm];W[rm];B[jj];W[sk];B[sj];W[sl];B[ri];W[fb];B[fc];W[aj];B[ai]L[bh]
+C[jl: B a11 should be at c12.];W[bi]C[jl: W b11 is good but only gains a few points in gote. W L18 is  larger.
+
+
+In any case, W is so much behind that only a miracle would save him at this  point.]
+;B[ah]
+(;W[bh]C[jl: B b12 should be at a13 (see variation).];B[ag];W[af];B[bg]
+;W[bf];B[cg];W[ae];B[mb]C[jl: B m18 would be safer. B is leading  so much that he should not take any risk.]
+;W[mc]C[jl: W should resist at L18  instead. If W submits passively at this point of the game, he might as well  resign.]
+;B[lc];W[ld];B[kc];W[nb];B[lb];W[jn];B[jm];W[km];B[kl];W[lm];B[gn];W[el]
+;B[ek];W[em];B[jo];W[in]C[jl: W should be able to see a ladder.];B[io];W
+[ko];B[hn];W[dk];B[ig]C[jl: B d10 was larger.];W[dj];B[di];W[ci];B[dh];W
+[kk];B[jk];W[ll];B[gb];W[ec];B[ed];W[fs];B[es];W[jf];B[if];W[je];B[ie];W
+[jh];B[ih];W[pc];B[qd];W[sd];B[se];W[sc];B[rf];W[fl];B[fk];W[ji];B[jg];W
+[kg];B[cf];W[ad];B[jl];W[ii];B[ij];W[ln];B[jn];W[jd];B[jc];W[qn];B[od]C
+[jl: B p16 is  probably the losing move. W r6 was sente.];W[mp]C[jean 17k*: sorry, it was  worth much more then 2 pts gote ......]
+;B[pr];W[ns]
+(;B[rr]C[jl: B s2 leads to  a ko that B cannot win. B s1 would have lived unconditionally (see  variation). B was so much ahead before p16 that with B s1, the game would  still have been extremely close and B could even have won by 0.5.]
+;W[qs];B[ps];W[rs];B[ss];W[sr]C[B resigns.
+
+
+jl: B has no ko threats. The miracle happened for W, but B played well in  this game (except for two big blunders at p16 and s2) and deserved to win.
+
+
+The main lesson of this game for W should be to avoid like the plague gote  moves and very small moves. First try to keep sente; then keep looking for  the biggest move.]
+)
+(;B[rs];W[ps];B[qs]C[jl: B is alive and the game is still  very close.]
+))
+(;W[ag];B[bh];W[bg];B[ch];W[ae];B[cg];W[af]))
+(;B[db];W[bd];B[be];W[dc];B[ec];W[cb];B[eb]C[jl: W is dead in all variations.]
+
+(;W[bb];B[ac];W[ad];B[ab];W[ca];B[aa];W[cd];B[de]C[jl: W is dead (bent 4 in corner). At the  end of the game, B can fill all outside liberties of W, remove all ko threats  then play b19 and a18.]
+)
+(;W[ab];B[ba];W[ca];B[bb];W[ad];B[bc];W[cd];B[de]C[jl: W is dead. (At the end of the game, B can fill outside liberties then  capture.)]
+)))
+(;B[eq]C[jl: B e3 captures the d1 group.];W[fs];B[er];W[es];B[fr];W[gs]
+;B[gr];W[hs];B[ir]))
+(;W[gq];B[pq];W[qq];B[pr];W[qr];B[op];W[po];B[ir];W[cf]C[jl: W g2 would not be sente since B has either j1 to live or o6 to  escape.]
+))
+(;W[nr];B[mr];W[or];B[mq]))
+(;W[jr];B[kq];W[jq];B[mn]C[jl: W is  satisfied, having secured the bottom left in sente. W couldn't expect to kill  the o3 group anyway.]
+))
+(;B[qn]
+(;W[np]C[jl: the W pincer at r8 is not  reasonable here (see variation)]
+;B[rp];W[qq];B[pk]C[jl: B has no reason to  be dissatisfied with this, particularly in a no-komi game where B should try  to keep the game simple.]
+)
+(;W[ql];B[on];W[np];B[pk]C[jl: this is not good for  W because of the marked stone at r13.]
+)))
+(;B[jd]C[jl: B k16 works well with  d16 and c9. If W takes the corner...]
+;W[qc];B[pc];W[qd];B[pe];W[pb];B[ob];W[qb];B[oc];W[qf];B[nd]C[jl: This result is good for B. W will have to enter at  c14 or f17 but B should be able to control the game.]
+))

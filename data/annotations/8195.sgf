@@ -1,0 +1,64 @@
+(;FF[4]GM[1]SZ[19]AP[SGFC:1.17]
+
+PB[Strategist]
+BR[1k]
+PW[billbell]
+WR[1d]
+KM[0.5]
+DT[2011-01-10]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[W+30.5]
+TM[1200]
+
+C[Dear reviewer,
+I played this game as B and lost by quite a lot.
+However, I think that up until B99 I was not so far behind. The biggest difficulty I have in general is the fuseki stage so I would appreciate any advice You might give me on how to improve that part of the game.
+Thanks for the review!];B[qc];W[dq];B[cd];W[qp];B[do]C[Q: In the game I did not get a good result in the lower left part of the board so I am not sure if D5 was a good move or not. Would it be better if I had played C5?
+
+klin: It has to do with your plan of the game. C5 and D5 both OK]
+;W[dl];B[fo];W[fq];B[ho];W[hq];B[di];W[gl];B[cq]C[Q: At this point I had no idea what to play. I wanted to attack W but did not think of any good move so I played C3 to secure my group.
+In retrospect I think this move was bad. What should I have played here?
+
+klin: C3 a good move.];W[cr];B[cp];W[fc];B[ed];W[ci];B[ch]C[klin: C12 can consider C10 and fight]
+;W[cj];B[dh]C[klin: Now B C12-D10 is too close to C16-E16];W[ic]
+;B[ec]C[Q: Is this move ok or is it too small?
+
+klin: OK];W[jp];B[qj]C[Q: I was worried about W making a double wing formation so I played R10. Waould it have been better if I played L17 instead?
+
+klin: Since W did not respond to E17, so L17 is the better play.]
+;W[lc];B[nc];W[cn];B[br];W[dr];B[em]C[klin: B E7 can play at J6 directly.  E7 helps W become stronger.]
+;W[el];B[fm];W[fl];B[op];W[oq];B[pp];W[pq];B[qo];W[ro];B[rp]
+;W[qq];B[rn];W[np];B[pn];W[on];B[om]C[klin: Now R10 is too close to the "wall" B is building.]
+;W[qd];B[pc];W[rc];B[rb];W[qg];B[rf];W[rg];B[rd]C[klin: B S16 should R15]
+;W[qf];B[qe]C[klin: Now, B r15 should S15];W[sf];B[re];W[ng]
+;B[ne]C[klin: B Q15 can play at N15];W[ri];B[rj];W[fb];B[eb]
+;W[ge];B[oi];W[oh];B[ni];W[lg];B[mf];W[mg];B[ke];W[jd];B[li]
+C[klin: Now, B M11 should attack from K13.  You can see B E7 and F7 have made W strong from D8 to G8.]
+;W[jg];B[lp];W[nm];B[ol];W[no];B[ln];W[jn];B[ll];W[co];B[dp]
+;W[nl];B[mk];W[po];B[qn];W[bh];B[bg];W[bi];B[bp]C[klin: Before B4, B can play at K3]
+;W[dn];B[en];W[ep];B[eo];W[bf];B[ag]C[Q: This was a big overplay. Should I have played C14 earlier to secure the corner?
+
+klin: B could.  But now B C14 W A13 B B15 W C13, B D14, not a big deal.]
+;W[cg]C[klin: W C13 mistake, should C14, B in trouble.];B[cf]
+;W[dg];B[be]C[klin: Now B B15 at E13 can kill W.  Please figure it out yourself.]
+;W[df];B[af];W[fg];B[fi];W[gh];B[gi];W[hi];B[hj];W[gj];B[hh]
+;W[ii];B[fh];W[gg];B[dj];W[dk];B[gk];W[hk];B[fj];W[ij];B[ik]
+;W[hl];B[ih];W[jh];B[gn];W[kq]C[klin: B is killed and the game is over. No comment beyond this point.]
+;B[mn];W[nn];B[lq];W[rq];B[so];W[nk];B[ok];W[oe];B[od];W[lr]
+;B[mr];W[kr];B[mq];W[nr];B[jk];W[ji];B[mb];W[lb];B[an];W[bm]
+;B[je];W[ie];B[of];W[og];B[pf];W[pg];B[kd];W[kc];B[pe];W[nj]
+;B[mj];W[oj];B[pi];W[pk];B[ql];W[pj];B[qi];W[qk];B[rk];W[pl]
+;B[pm];W[km];B[lm];W[gc];B[sq];W[rr];B[bs];W[fp];B[gp];W[gq]
+;B[de];W[eg];B[rh];W[ea];B[da];W[fa];B[db];W[mc];B[nb];W[lf]
+;B[le];W[nf];B[me];W[am];B[bo];W[bn];B[ao];W[dm];B[jf];W[if]
+;B[kn];W[jm];B[jo];W[io];B[ko];W[ip];B[in];W[im];B[nq];W[ms]
+;B[ah];W[bk];B[ai];W[aj];B[sr];W[kj];B[kk];W[lj];B[lk];W[ma]
+;B[na];W[la];B[si];W[fe];B[sg];W[sh];B[hm];W[il];B[sg];W[rl]
+;B[qm];W[sh];B[jc];W[jb];B[sg];W[hn];B[gm];W[sh];B[ck];W[cl]
+;B[sg];W[mh];B[mi];W[sh];B[or];W[ns];B[sg];W[rs];B[sl];W[sh]
+;B[ls];W[ks];B[sg];W[hp];B[go];W[sh];B[os];W[ls];B[sg];W[ae]
+;B[ad];W[sh];B[kh];W[kg];B[sg];W[ss];B[sp];W[sh];B[oo];W[po]
+;B[sg];W[ki];B[lh];W[sh];B[ak];W[al];B[sg];W[md];B[se];W[ee]
+;B[fd];W[gd];B[nd];W[cs];B[in];W[kp];B[lo];W[hn];B[id];W[hd]
+;B[in];W[sn];B[sm];W[hn];B[oo];W[op];B[in];W[dd];B[dc];W[hn]
+;B[er];W[eq];B[in];W[ig];B[hn];W[tt];B[tt])

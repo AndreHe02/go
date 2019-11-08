@@ -1,0 +1,131 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+PB[narushi]
+BR[18k]
+PW[gboggy]
+WR[17k]
+KM[0.5]
+DT[2008-05-28]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[W+Resign]
+TM[1800]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+C[Your questions were:
+1) Were my opening moves useful?
+2) Why did it seem like I was always one step behind?
+3) How did my territory fall apart in the end?
+4) How should I correct these mistakes?
+I'm going to answer them out of order.
+
+Overall, you had some pretty good moves.  If you put more effort into reading, you'll see your game start to improve, and you'll have more confidence as you play.  If you have any questions, or if anything is unclear, feel free to email me.
+
+1) Were my opening moves useful?
+At move 10, I feel like you have a pretty decent advantage.
+
+4) How should I correct these mistakes?
+Perhaps the most important concepts in Go:  Cutting your opponent, not letting your opponent cut you (in a way that weakens you), and creating eye space and eye shape.  Look for these.  I've scattered examples of this throughout the review, like move 96.
+
+2) Why did it seem like I was always one step behind?
+I get the impression that you didn't spend much time thinking about your moves.  You have a general fear of your opponent tearing you to pieces, but don't look for (or don't see) what specific moves might do this.
+
+Each wasted move puts you one step behind.  As examples, take both moves 13 and 31.  By taking the time to consider what would happen if white tried to cut, you could have kept yourself from wasting a move.
+
+3) How did my territory fall apart in the end?
+Looking at move 137, you have a firm grip on three corners.  Let's look at how you lost two.  I've placed comments around move 231 and move 257.
+
+There's lots of good practice on how to live in these life-death situations if you go to goproblems.com. Start with the problems weaker than 20k until all the answers are obvious (and you understand why each answer is right).  This will help you not collapse in the corners at the end.]
+;B[dq];W[pq];B[ce];W[jd];B[pd]C[Great idea taking the corner here.]
+;W[pe];B[qd];W[od];B[oc];W[ne];B[ob];W[nc]CR[oc][pd]LB[pc:A]
+C[The question you were now asking yourself is: Is my top right corner safe?
+I understand how scary it is when people seem to be able to magically invade a corner that looks perfectly strong.  You must not let this fear overcome you.  You are stronger than the fear.  Keep your composure and ask which white move(s) might be most damaging.
+
+You might fear white's move at A, separating your two marked stones.  Pause now and try to figure out how you'd respond if white were to invade there.  Then look at the variation.]
+
+(;B[pc]LB[cj:A][pn:A]C[While having more black stones sometimes makes you stronger, it also sometimes makes you weaker.  This move only makes sense if there was a danger of white separating your two groups.
+
+Often, more important than the number of stones is the amount of space available to make eyes.  Q17 was practically an eye, but by playing Q17, you kind of poked your own eye out, removing lots of possible ways to make two eyes.
+
+I'm not saying that your corner is now weak -- it's still very strong.  But it was already very strong.  This wasted move is one reason you might always be a step behind.  It's your turn to be a step ahead!  Take advantage of the opportunity.  A move near either 'A' might be nice.]
+;W[nb];B[oa]C[What purpose is this move accomplishing?];W[re]
+;B[rd];W[qe];B[dc]SQ[oq][ja][jb][jc][kd][ld][md][nf][ng][nh]
+[ni][nj][nk][nl][nm][nn][no][np][pr][ps]C[Now this looks pretty.  Black's only concern is the big white framework that's forming.]
+;W[if];B[co];W[hh];B[cj];W[gj];B[qo]CR[if][hh][gj]C[Wow!  I'm glad you got this move in.  White's making me uncomfortable my encircling so much.  But if you can do something with R5 (or a similar move like Q6), the marked stones seem like a complete waste of moves.]
+;W[po];B[qq]C[Good thought.];W[qp];B[rp]C[Trying to stay connected -- good!]
+;W[pp];B[pr]MA[ro][rq][qr]C[Too aggressive.  Look at all your cutting points (marked with X's)!  See the variation for a simpler way white could cut this to shreads.  Instead, of trying to build something from a foundation of sand, you must either abandon the foundation completely or you must solidify it first.  To solidify some, play a move that defends the cut at S3 or S5 instead of playing Q2.  Examples of moves to consider: S3, S5, S2, S6]
+
+(;W[or];B[ps];W[qr];B[qs];W[rq]
+(;B[gq]C[Nice.  You could even have been more aggressive.];W[rs]
+C[S1?  What a waste of a move.];B[jq]C[Good job taking advantage of white's wasted move!]
+;W[io];B[iq];W[jp];B[lq];W[mq];B[lr]C[I like this.  This is the kind of nice, simple move that I often overlook.  With one move, you perfectly defend yourself, freeing you up to attack the growing framework with your next move.]
+;W[mr];B[pj]C[YES!];W[oj]C[You can't let this go.  Your left side's pretty safe, certainly not urgent.  When you're invading such a large framework, going so deep into his space, such fighting is super-urgent!  Consider extending, since you're already so high (fourth line).  You'll build some eye space while strengthening your stone.]
+
+(;B[cg];W[pk];B[pi];W[qj];B[qk];W[qi];B[ph];W[ql];B[rk];W[ol]
+;B[rj]CR[qk][rk]C[Great move.  I'd have probably not seen this one.  It strengthens your two weak stones by giving them an extra liberty, while also attacking his weak stones.]
+;W[qh]CR[qi][qj]C[Cutting is SO important.  His marked stones are under attack.  Don't let them connect to the strong wall!]
+
+(;B[ri];W[qg];B[qf];W[pf];B[rf];W[rg];B[rh];W[oh];B[pg];W[sf]
+;B[og];W[ng];B[oi];W[nh];B[ni];W[mi];B[nj];W[ok];B[nk];W[mk]
+;B[nl];W[nm];B[ml];W[ll];B[mj];W[lk];B[om];W[pl];B[pm];W[qm]
+;B[qn];W[pn];B[on];W[ro];B[rn];W[nn]CR[on][om][pm]LB[hc:C][ml:A]
+[gm:D][lq:B]C[Reading is good.  He has your three stones in a ladder.  Don't waste a move trying to escape.  Instead, find something that can be saved and try saving it, for example, trying to connect A to B.  Or extend somewhere, like C or D.]
+
+(;B[oo];W[no];B[op];W[np];B[mm];W[ln]CR[ph][pj][nk][mm][og]
+[pg][ni][oi][pi][mj][nj][ml][nl]C[Your group has no place to even think of making eyes, and has mostly been cut off from connecting to any of your stronger stones.  You should have tried to connect earlier, or to make space for eyes (for example of how, look at move 60's variations).]
+;B[lj];W[kj];B[li];W[lh];B[mh];W[mg];B[ki];W[kh];B[lm];W[km]
+;B[kl];W[kk];B[rm];W[oq];B[rl];W[ji]MA[mh][ph][pj][nk][og][pg]
+[ki][li][ni][oi][pi][lj][mj][nj][ml][nl][lm][mm]C[This group is now dead.  It has no hope to gain even a single eye, nor can it connect to any of your strong stones.  It is dead.]
+;B[so];W[mn];B[sh]C[Wasted move.  It's already alive.];W[lp]
+;B[hc];W[ic];B[ib];W[hd];B[gc];W[jb];B[hb];W[fd];B[fc];W[de]
+;B[dd];W[df];B[dg];W[cf];B[bf];W[be];B[cd];W[bg];B[bd];W[af]
+;B[bh];W[ed];B[ec];W[ch];B[dh];W[ci];B[di];W[bi];B[ah];W[ai]
+;B[bj];W[ag];B[ej];W[aj];B[ak];W[bk];B[al];W[bl];B[am];W[bm]
+;B[bn];W[an];B[ao];W[am];B[ck];W[cn];B[bo];W[cl];B[eo];W[dk]
+;B[dj];W[ad];B[ac];W[ae];B[bc];W[ek];B[ee];W[ef];B[fe];W[gd]
+;B[ge];W[gf];B[he];W[id];B[ie];W[je];B[go];W[hn];B[ho];W[in]
+;B[hp];W[ip];B[hq];W[kq];B[kr];W[kp];B[jr];W[dn];B[do];W[en]
+;B[fo];W[fn];B[eg];W[fg];B[fk];W[fj];B[dl];W[el]
+(;B[kn];W[jl];B[gn];W[gm];B[fm];W[fl];B[ls];W[ms];B[sd];W[na]
+;B[ia];W[ja];B[sp];W[sq];B[gl];W[em]C[narushi [18k\]: End game now?
+gboggy [17k\]: a few moves left];B[sg];W[cq];B[cr];W[bq];B[br]
+C[Great!  White has no room to build eyes.  You have crushed him between your strong stones and your strong wall.  White's invasion has been defeated!]
+;W[ar];B[as]C[Why????];W[bs]
+(;B[cs]SQ[dr][ds][er][es][fr][fs][gr][gs][hr][hs][ir][is]C[Again, why?  It looks like you're trying to keep white out of the marked space.  Instead, simply keep your stones strong so he doesn't kill them.  See variations.]
+;W[dr];B[as];W[aq]
+(;B[ds]C[No.  Atari from the other side.];W[er];B[eq];W[es]
+;B[fr];W[bs];B[ih];W[ig];B[ii];W[ij];B[jh];W[hi];B[jg];W[jj]
+;B[lg];W[mi];B[kg];W[of];B[tt]C[So, what are the key points in the top right?  Think and then look at the answer in the variation.]
+
+(;W[qb];B[tt];W[qc]C[Now, it is harder (though not impossible) for black to live.]
+)
+(;LB[qb:A][rb:B]C[A and B are the vital points.  If you get either, there's a million ways to make two eyes.  Also, if you get either, there's no chance for white to make two eyes.  Therefore, the moment he invades, take one of the remaining points, A or B.]
+))
+(;B[er]
+(;W[ds];B[es]C[White cannot make two eyes, and therefore will surely die eventually.]
+)
+(;W[bs];B[ds]C[White cannot make two eyes, and therefore will surely die eventually.]
+)))
+(;B[er])
+(;B[dr]))
+(;B[lg]))
+(;B[mm];W[lm];B[mn];W[oo];B[lo];W[lp];B[kp];W[mp];B[ko]CR[if]
+[hh][mi][gj][io][jp][lk][mk][ll][lm]C[Suddenly, white has to start worrying about the marked stones.  They are no longer connected to his strong bottom-right.]
+))
+(;B[qg]MA[qh][qi][qj]CR[rj][ph][pi][pj][qk][rk]C[He now has two liberties left and he's cut off from his strong friends.  Killing these three stones will probably give the marked stones enough space to survive.]
+
+(;W[rg];B[rh])
+(;W[rh];B[rg])))
+(;B[pk]CR[qj][qk][ql][rj][rk][rl][sj][sk][sl]C[Building influence]
+)
+(;B[pl]C[Even better.];W[pk];B[qk];W[ok];B[qn];W[ro];B[rn];W[sp]
+;B[qi]CR[qj][rj][qm][rm]C[Lots of room to make two eyes]))
+(;B[ip]))
+(;W[ro];B[qn];W[rq];B[sp];W[so]CR[qn][qo]C[The only stones that have any strength left are the marked stones.]
+))
+(;C[Black plays elsewhere (not shown)]PL[W];W[pc]C[White invades, trying to cut black's two groups.]
+;B[qb]MA[nb][qe]CR[ob][oc][pd][qd]LB[pa:b][pb:a][qc:a][rc:b]
+C[A pretty simple defense; white's invading stone cannot possibly survive.  If white follows up at either point 'a', black responds by blocking white in with 'b'.
+
+However, since the marked stones only have three liberties each, black must keep an eye on them.  If white moves at either of the X points, black may need to respond, or else risk white's cutting stone coming back to life.]
+))

@@ -1,0 +1,205 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.17]
+
+PB[joeb331]
+BR[5k]
+PW[sudashi]
+WR[4k]
+KM[0.5]
+DT[2011-01-08]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[B+10.5]
+TM[1500]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+C[Hi, thank you for reviewing my game. I have some basic questions about josekis in the beginning, and I am also interested in learning how to improve my middle-game/end-game.
+
+*****
+
+GP: Hi, I'm Graham Lamburn (topazg) a British 1k and KGS 1d. I hope to give useful comments and insights where I can (marked with GL:) and have tried to answer your questions, and I've summarised the key points at the end of the sgf. Where I'm offering or annotating variations that deviate from the game, I mark the game move with a square and the deviation with a triangle. If I'm simply offering alternative moves as a comment, I normally mark each with a triangle, and most variations have a comment at the end.]
+;B[pd];W[dp];B[qp]C[My reasoning here was to either aim at something like a mini-chinese fuseki or to create some interesting fighting. Just previous to this game I tried playing this way against one of my friends and it led to some interesting variations, so I figured I'd try it here as well.
+
+GL: Yeah, it's certainly straightfoward and normal enough. As White, I have a habit of playing P4 here, because it works so nicely with the 4-4 stone in the lower left, and makes for a very interesting game. Either way, this looks fine.]
+;W[dc];B[fq]C[GL: 3-4, 3-5 and 4-5 stones are normally a higher approach priority than a 4-4 stone, so I would choose probably to approach the top left or complete the shimari in the lower right here. As a rule, 3-4 stones only have one direction of development that they are primarily interested in, so approaching them deprives them of optimal development. A 4-4 on the other hand is flexible and happy going in both directions - as you can't deprive of a "perfect direction", they are lower priority approaches.
+
+As R4 is aiming to develop the lower side, this approach is still relatively important though as both players want to develop the bottom side, so no big deal.]
+;W[fp]TR[cn][dn][hq]C[This was a bit unexpected, I'm pretty used to white playing one of the marked points after the approach. I'm not sure that I've ever seen this get played similarly, but I assumed that it was alright to play normally.
+
+GL: Yeah, this is normal, and fine if White has an interest in developing the left hand side (which seems very reasonable). The triangled points are also very common.]
+;B[gp];W[fo]TR[cq][dq]SQ[eq]
+(;B[eq]C[GL: Last two moves are absolutely fine. This one can also be at D3 (larger bottom territory but gives White more thickness) and C3 (trading the bottom for the corner). As you want to develop the lower side (primary side to develop of the R4 stone), this move at E3 makes the most sense to me.]
+;W[dq];B[iq]C[GL: Fine, and settled. More normal is K3 to develop the lower side, and H3 is common also.]
+;W[go];B[hp];W[cj]LB[cn:B][dn:A][gq:C]TR[ej]SQ[ep]C[In the game, i knew that c10 was at the wrong spot. After fixing the cut at C, white needs to play something in the A/B region.
+
+I tried to take advantage immediately and was not very successful. I did manage to pull a sente seki out of it, but I didn't feel like I properly punished. I watched a lecture on this scenario before (I believe on the Guo Juan audio lesson site), but have not been able to locate it afterwards and am still unsure how to play this properly.
+
+GL: A sente seki is still valuable, but yeah, the cut here is extremely hard to succeed with. The fact that White has not defended doesn't necessarily mean the push and cut is the punishment. The aji of the push and cut nearly working can still give excellent reduction possibilities. Normal for White would have been "A" without the G5 move, and "B" with it. As Black, I would be hoping to get an opportunity later to play "A" or nearby in sente rather than cut directly, as I can't quite see the cut working out clearly enough.
+
+Right now, this would be very heavy for Black, but in conjunction with a reducing stone at D9, there is a lot of exploitable aji for later that may be useful. The push and cut is only good if it works, but don't assume that White omitting a "honte" move (at D6 or C6) means that the cut now works. Often josekis have moves that have the purpose of completely eliminating bad aji as opposed to fixing something that would be otherwise devastating. I have included a fun possibility involving a cap and the point above "A".]
+(;B[ep];W[eo];B[do];W[dn];B[co];W[cn];B[bp];W[br];B[dr];W[cq]
+;B[bn];W[bm]C[GL: At this point, I read Black as dead in the corner.]
+;B[cm];W[bl];B[en];W[dm];B[em];W[dl];B[hn]C[This was a misread, and a bad one at that. I was struggling to figure out how to properly deal with the corner situation.
+
+GL: Yes, but not a tragic one. To be honest, the outside thickness you can get here is enormously valuable]
+;W[fm];B[el]C[*** Heavy groups and long term burdens ***
+
+GL: This is the beginning of where I think things started to go wrong for you in the opening. It may be that saving this group is important, but if White runs out too, the middle becomes uninteresting as White will have some thickness there. Not only this, but if everyone lives all you did was save yourself the 4 points of not losing those stones. In this position, using outside thickness, it is likely that sacrificing them for outwards facing strength is much more valuable than the 4 points lost by letting them be captured. If White is going to live on both sides of these cutting stones, their value is very limited - making the group heavy by trying to save it could cost you a lot of points in the game.]
+;W[gm];B[fk];W[gk]LB[fk:A][gk:B]TR[el][em][en]C[After this exchange, I felt like trying to run out my three stones was going to be more of a burden than I wanted to deal with, so I felt like the best thing I could do was try to salvage something in the corner. I wasn't certain of my reading, but I saw the possibility of a ko arising and felt that in the worst case scenario, I would atleast have some ko threats with the marked group
+
+GL: Yes, the A-B exchange was painful for Black.];B[bq];W[cr]
+;B[er];W[ao];B[bo]TR[an][ar]SQ[aq]C[This move didn't feel entirely correct, but I'm still at a loss of how to have played this better.
+
+GL: Locally, this move looks spot on to me if anything works, but it's a very hard fight for you.]
+(;W[aq]C[This too felt like a mistake, if white had played a6, would black have been in trouble?
+
+GL: Looks like an awkward ko to me, or a seki. White at A2 however looks very fatal (see variations)]
+;B[ar];W[as];B[ap];W[cs]C[Also, I'm not certain, but would a stronger response for black be to take the ko now and try to prevent the white eye in the corner?
+
+GL: Yes, that sounds like the proper way to play. At the very least, connect at A6 in sente (ok, you got sente anyway, but White should have never played A7 as in the game).]
+;B[ds];W[ar];B[an];W[am];B[oq]C[This move feels a bit slow in my opinion, but I was afraid of what might happen if white were to approach. I felt I could try to play the rest like an orthodox fuseki, but I don't know that that is the best for b here.
+
+GL: Don't worry, it's huge. Maybe P4 is better, but this is a very large area of the board in which to play.]
+;W[fj]C[This seems unneccessary to me, but I guess white was happy to kill the group off. I was okay with sacrificing, as I didn't see an effective way to attack the f4 or d7 groups, and trying to squirm around the board with a weak group did not seem appealing to me at the time. After fixing the corner, should I have returned to attempt to save these instead of worrying about the right side?
+
+GL: No, you did just the right thing. If you carry on trying to save this group, it will become heavier and heavier. That's not to say this was a small move by White (though it is too slow right now) as removing aji is always very important, but Black gets to take P3 and K10 here, and becomes favourable for the game. The top left corner is also large.]
+;B[fd]LB[ce:A][de:B]C[This move was not very comfortable to play for me. I wanted to try to reduce the left side somehow and figured that the best way would be to put some pressure on the corner. Should I have tried playing an approach move directly around A/B instead of threatening A?
+
+*** Push side wedges towards your shimari ***
+
+GL: A very tricky position. Actually, you have space for a two point jump if you approach at A, but this seems unreasonable. You are already in a better global position by some margin, and Q16 really wants to develop the top side. As a result, approaching from here and giving White a decent corner is fine, as Black's position over the rest of the board is incredibly imposing. However, locally, it is more normal to play G16, as White is hard pushed to find useful followups. Your choice to then step back with a two point jump is very appropriate.]
+;W[ee];B[id];W[qj]TR[ql]SQ[qg]
+(;B[qg]C[Not certain of this, but would this have been better played by blocking on the other side? (like in the variations i provided)
+
+GL: Yes, the extension from the shimari is much more stable as the corner aji is lower. What's more, Black has good thickness in the lower bottom, so the double wing is likely to turn into a large amount of territory.]
+;W[qm]TR[dk]SQ[ec]C[After this move, I'm really not certain how to keep pressure on the marked group, later I make an attempt that was ignored enabling me to attack it more, but what would be the best response here to attack? Would it be better if r13 was at r12?]
+(;B[ec]C[GL: Slightly aji keshi, White's E15 feels a big optimistic, and I suspect there is something to be done in the corner as the aji is very high on the left side (see variation)]
+;W[db]TR[pk]SQ[pi]
+(;B[pi]C[GL: A nice idea, although Q9 and Q8 are more common]
+;W[nc]TR[lc]SQ[oc]
+(;B[oc]C[*** Pincer an approach when you have strength on the both sides, but too far away to prevent a two space extension ***
+
+GL: White can make a two space extension, so this kick is to be treated with care. I would prefer the tight pincer because of White's strength in the upper left (see variation).]
+;W[kc]TR[nd]SQ[if]
+(;B[if];W[nd];B[pl];W[ql];B[pj];W[pm];B[qk];W[ol];B[pk];W[rk]
+;B[rj];W[ro];B[qo];W[rp];B[rq];W[rn];B[ob];W[nb];B[jc];W[kb]
+;B[kd];W[jb];B[ib];W[ld];B[le];W[ke];B[jd];W[me];B[lf];W[mc]
+;B[mf];W[nf];B[ng];W[hj];B[om];W[sj];B[ri];W[sl];B[on]C[GL: 69 - 105 were all excellent moves.]
+;W[jl]TR[of]SQ[lm]
+(;B[lm]TR[lj][mj][lk][mk]SQ[jo][ko][lo][jp][kp][lp]C[GL: Some really good play by Black, up until this move. I think L7 looks like a more solid move, but even that fails because of the aji on the left (see var). Better to play L6 and secure your points. Then L9 or something as a followup continues to gain value. I think P14 is urgent though and should be played straight away! Focus on the points you think you can get - The squares are always going to be a safer bet than the triangles, and being thin means White gets to pick which side you lose. Better to take what you really want now, and take the rest too if you get the chance. If you don't, you get sente instead, which is nice :)]
+;W[jn];B[ko];W[jo];B[kp];W[ho]TR[kk]SQ[jp]C[GL: Very painful.]
+(;B[jp]C[*** Loss of momenum / initiative ***
+
+GL: Unnecessary. Better to play L9. Loss of sente here is very big. Actually, although they sound sort of unimportant, this and the move at 115 cost you at least 10 to 15 points between them. It is vitally important to maintain the initiative when both sides want the same area. Responding when it is not worth very much is a good way to steadily lose points.]
+;W[lk];B[li]C[GL: This move is simply responding to White. There is no territory here to secure as White can still play L12. White got a good reducing move that should have been gote, and kept sente. P14 is big. A move like F13 to get into White's territory or connect at F15 is big, but you must call the shots yourself here.]
+;W[gf];B[hh];W[gh];B[gg]C[This feels wrong, but I'm not sure how to keep counter-attacking white.
+
+GL: Not playing M11 or K4 :) This sort of idea is great if White is not able to get a move there first.]
+;W[fg];B[hg];W[fe];B[gd];W[hi]C[GL: White makes a reduction, increases his territory, and has excellent shape. Black suffers another small loss.]
+;B[kk]C[GL: Better to play M8 directly, but the result is close to the same.]
+;W[kl];B[ll];W[kj];B[mk];W[lj];B[mj];W[ki];B[kh];W[lh];B[mi]
+;W[jh];B[kg];W[ih];B[ig]C[GL: Also unnecessary.];W[kn];B[ln]
+;W[oa];B[sp]C[This move feels like it was played too quickly. After the fact I did a lot of reading to try to determine if I could make a clean kill out of this, and I don't see how. I see the potential for ko, but is that worth playing? or should I just reduce like what was done in the game?
+
+GL: There is no kill here. White can play S7 now and lives easily. Playing at T5 was a mistake though, and gives Black a chance for a ko. Is it worth it? Well, if Black loses the ko, he is maybe 5 or 6 points worse off than not starting it. If Black wins the ko, he is a good 20 points better off. The burden is heavy on White, and Black has little to use - it's very worth starting!]
+;W[so]TR[sm]SQ[si]
+(;B[si]C[GL: (see var for ko)];W[sm];B[of];W[ne];B[pa];W[na]
+;B[pb];W[eb];B[jg];W[ii];B[fb];W[ed];B[fc];W[ia];B[ha];W[ja]
+;B[hb];W[sq];B[rr];W[sr];B[rs];W[pn];B[po];W[oe];B[pe];W[he]
+;B[ge];W[hf];B[ie];W[io];B[qn];W[sk];B[km];W[jm];B[ip];W[fa]
+;B[ga];W[ea];B[hd];W[ff];B[od]C[this move was a little unneccessary, but I felt like it would prevent anything with the atari at q14 area and it didn't cost me any points.
+
+GL: I believe in filling in all dame before passing :) You never know when a harmless looking dame was a vital liberty that ends up getting something killed.]
+;W[sp];B[tt];W[tt]TW[aa][ba][ca][da][ka][la][ma][ab][bb][cb]
+[lb][mb][ac][bc][cc][lc][ad][bd][cd][dd][md][ae][be][ce][de]
+[af][bf][cf][df][ef][ag][bg][cg][dg][eg][ah][bh][ch][dh][eh]
+[fh][ai][bi][ci][di][ei][fi][gi][ji][aj][bj][dj][ej][gj][ij]
+[jj][ak][bk][ck][dk][ek][fk][hk][ik][jk][kk][al][cl][el][fl]
+[gl][hl][il][rl][cm][em][hm][im][rm][en][fn][gn][hn][in][sn]
+TB[qa][ra][sa][gb][qb][rb][sb][gc][hc][ic][pc][qc][rc][sc][qd]
+[rd][sd][je][ke][qe][re][se][jf][kf][pf][qf][rf][sf][lg][mg]
+[og][pg][rg][sg][lh][mh][nh][oh][ph][qh][rh][sh][ni][oi][qi]
+[nj][oj][qj][nk][ok][ml][nl][ol][mm][nm][mn][nn][lo][mo][no]
+[oo][lp][mp][np][op][pp][gq][hq][jq][kq][lq][mq][nq][pq][qq]
+[fr][gr][hr][ir][jr][kr][lr][mr][nr][or][pr][qr][es][fs][gs]
+[hs][is][js][ks][ls][ms][ns][os][ps][qs]C[This is the end, black wins by 10.5, so I don't guess I made any drastic errors. Mostly I'm interested in how I could have done better in the bottom left, and also in how to improve my middle-game and end-game. Any comments would be greatly appreciated. Thanks!
+
+*** Summary ***
+
+I think Black actually played really well for most of this game. The cut was overplay in the lower left, but you came out of it well enough. I believe Black handled the top approach softly. The kick is something you reserve for when White cannot make his ideal two space extension. In thist case, the pincer was better I think. I've highlighted the important points as follows:
+
+*** Important Points ***
+
+Move 35 - Heavy groups and long term burdens
+Move 55 - Push side wedges towards your shimari
+Move 65 - Pincer an approach when you have strength on the both sides, but too far away to prevent a two space extension
+Move 113 - Loss of momentum - initiative
+
+*** Recommendations ***
+
+It's actually particularly hard for me to recommend things directly from this game alone. I'd recommend against making heavy burden groups like E8 but, apart from E9, you left it promptly enough. The key points I summarise above are worth remembering, as all were costly to some degree this game, and I'd also recommend you have a look at my variations at moves 15 and 61 for ways of using aji imaginatively. Moves like E17 are best avoided until you know there is little else you can do locally, and finding ways of appreciate a position's "potential" for future use is a skill that requires a) a lot of effort looking and reading possibilities, and b) practice and experience to understand what works and what doesn't.
+
+I hope these comments are in some way helpful. If you have any responses / queries / comments or would like further input on specific moves or areas, do feel free to ask!]
+)
+(;B[sm];W[rm];B[si];W[sn];B[sk]))
+(;B[kk];W[jp];B[jq];W[kn];B[ln];W[kl];B[ll];W[lk];B[kj];W[lo]
+C[GL: None of these cuts work...];B[kq];W[nl];B[mo]))
+(;B[of];W[ne]TR[km][kn]SQ[lm]
+(;B[km];W[io];B[ho];W[in];B[im];W[jm];B[jn];W[hm];B[il];W[ik]
+C[GL: This works for White, so Black must be more patient.]
+)
+(;B[kn]C[GL: 6th line territory is nothing to be unhappy about  :)]
+)))
+(;B[nd]C[I wanted to play here, but I felt like this would be ignored.
+
+GL: Good! Your instincts serve you well. This is exactly the right move I think.]
+;W[ke]C[? not sure how white would continue though...
+
+GL: It is hard, because the kick allows White some fighting freedom. Having got to this point. I think Black wants to borrow strength and attack, but it is a very hard fight.]
+;B[fe];W[ef];B[ff];W[eg];B[jf];W[kf];B[kg]C[GL: I would be tempted with this, but the fight is going to be a long one.]
+))
+(;B[lc];W[qc];B[pc];W[qd];B[qe];W[re];B[rf];W[pb];B[ob];W[qb]
+;B[oc];W[rd];B[fe];W[ef];B[pj];W[qk];B[gg]C[GL: Black has a lot to be happy about now.]
+;W[pe];B[qf];W[oe];B[nd]C[GL: There is no direct risk here.]
+))
+(;B[pk];W[qk];B[pm];W[pl];B[ol];W[ql];B[pn]C[GL: Typical continuation.]
+))
+(;B[dk];W[cl];B[di];W[dj];B[ei];W[ej];B[ce]C[GL: I would not want to be White in this position.]
+))
+(;B[ql];W[qf]TR[mc][qh]
+(;B[qh]C[GL: I'm not keen on this however. I would simply jump out from the corner. Actually, N17 appeals strongly despite the unusually thin shape. It is playable (and has been used at a professional level), and it has the advantage that a followup up at R16 makes both perfect shape in the corner, and perfect shape between J16 and N17 (see variation)]
+;W[of]TR[nc][nd]
+(;B[nd];W[pi])
+(;B[nc];W[pi];B[rd];W[ph]))
+(;B[mc];W[rd];B[qc];W[of];B[ol]C[The game is becoming very hard for White.]
+)))
+(;W[ar]TR[an][aq][cs]C[Black dies here I think.]
+(;B[an];W[am];B[cs];W[aq]TR[ap][bs]
+(;B[bs];W[ap])
+(;B[ap];W[cp]))
+(;B[cs];W[an];B[bs];W[aq])
+(;B[aq];W[an];B[cs];W[cp]))
+(;W[an]C[Seki or Ko.];B[ar]TR[aq][bs]
+(;W[bs];B[ds];W[am];B[aq];W[ap];B[cs])
+(;W[aq];B[ap];W[am];B[bs];W[cs];B[ds])))
+(;B[ej];W[dh];B[dm]TR[ek][dn][co]C[GL: Now the cut works!]
+(;W[dn];B[cm];W[cn];B[ck]TR[ci][dj][dk]
+(;W[dk]C[GL: This cut doesn't work...];B[dj]TR[ci][ek][cl][dl]
+(;W[dl];B[cl];W[fk];B[ci])
+(;W[cl];B[bk];W[bl];B[dl];W[ek];B[bm])
+(;W[ek];B[bj];W[ci];B[bi];W[bh];B[bl];W[em];B[bn];W[bo];B[ao]
+)
+(;W[ci];B[ek]))
+(;W[ci];B[dj])
+(;W[dj];B[ek]C[GL: A move such as this one, maintaining outside shape, is very important - far better to keep good central access than to try to hold on to C9]
+))
+(;W[ek]C[GL: White doesn't believe you...];B[ep];W[eo];B[do]
+;W[dn];B[co];W[cn];B[bp]C[GL: Now D7 is ideally placed.];W[br]
+;B[bn];W[cm];B[bm];W[cl];B[bl];W[bk];B[dr];W[cq];B[bq];W[cr]
+;B[er];W[aq];B[ap];W[ar];B[cs];W[bs];B[ds]C[GL: White dies.]
+)
+(;W[co];B[dn];W[ep];B[fm]C[GL: Black reduces successfully.]
+)))
+(;B[dq];W[eq];B[er];W[ep];B[gr];W[cq];B[dr];W[go];B[hp]C[GL: Common continuation, even for both, but Black must decide how to handle the left side.]
+)
+(;B[cq];W[eq];B[bo];W[gq];B[cm]C[GL: Black trades the corner for the bottom edge.]
+))

@@ -1,0 +1,120 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+PB[m311]
+BR[1k]
+PW[Mitz]
+WR[1k]
+KM[6.5]
+DT[2006-07-11]
+PC[The Kiseido Go Server (KGS) at http://kgs.kiseido.com/]
+RE[B+2.50]
+TM[900]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+C[Hi. My name is Danny Kwon. I'm playing black this game. I won this game by 2.5 points. I chose this game because I felt I had sufficient time to consider each carefully. I included some questions in this sgf file also. Thank you for your review.
+
+[EV\] This is your reviewer Eric Vella.  My comments will be marked like this.]
+;B[pd];W[dp];B[pq];W[dd];B[fc];W[cf];B[jc];W[pn];B[pl]C[Is R8 also possible?
+
+[EV\] Certainly.];W[op];B[oq];W[pp];B[np]C[Is O4 ok here?
+
+[EV\] Yes, this is normal.];W[qq];B[qr]C[[EV\] N3 is a simpler choice.  See later ....]
+;W[rr];B[rq]C[[EV\] Since you are going to connect at Q2 next move anyway, skip this cut and just connect now.  W will have to defend, and there will be more aji left.  (This would be even more true if Q8 was at R8, threatening to undercut W at S6.)]
+;W[qp];B[pr];W[rs];B[mq]CR[qp][rq][pr][qr][rr][rs]C[Should black play L3 or K3 instead?
+
+[EV\] K3 is too far, but L3 might be possible.  Even then, you would have to worry about the N3 invasion point for the rest of the game.
+
+[EV\] Looking at the result now, did B gain anything from the marked exchanges?  Perhaps it was better to just play N3 directly, let W descend to R2, and take sente?]
+;W[fq];B[ck]C[Should I have played 23 at Q11 or maybe C4 instead? Or maybe a play around the top right is better?
+
+[EV\] This move is good.  Q11 or R14 would also be good.];W[ci]
+;B[cn];W[co];B[dn]C[This makes a group on the left side but I'm a little unhappy about the short extension.]
+;W[qf];B[qh]C[maybe O16 is better here. i wanted to protect Q8 too though
+
+[EV\] A pincer seems best.  It would be too soft to simply defend around O16 and let W make an ideal pincer plus extension around R11.]
+;W[qc];B[qd];W[pc];B[od];W[rd];B[re];W[rc];B[qe];W[nc]
+(;B[me]C[[EV\] This is a common follow-up to the corner joseki, but I don't think it works well here with the B position on top.  If you want to make a moyo, you could push directly at O16, intending to continue all the way to make W bump into K17.  This makes efficient use of the existing B stones.]
+;W[ql]C[[EV\] This exchange seems a little negative for W.  The W group is already strong, while B has a potential weakness around R10.  This exchange solidifies both territories, but B gains more than W.  Still, W is leading on territory, so it may be OK.]
+;B[qk];W[qm];B[pk];W[mc];B[cq];W[dq];B[bo];W[bp];B[cp];W[bq]
+;B[do];W[cr];B[cc];W[dc];B[db];W[cd];B[bb];W[bc];B[cb]C[It's big but i didn't want to end in gote. maybe N9 is better?
+
+[EV\] C17 is an offer to take the corner in gote.  You have to finish the sequence by connecting here or the corner loss is huge.  Enlarging the moyo as an alternative to C17 was possible.]
+;W[iq];B[ll]C[i extended further out because i thought O4 group would help against in invasion along that side]
+;W[mg]C[[EV\] Nice invasion point -- deep enough that B does not want to simply defend, but with good possibilities to escape (L13) or settle (M15).]
+;B[og]C[i wanted to play safe. But this looks too submissive. A white descent to S14 and the weakness in the O15 cut bothered me. Is N11 possible?
+
+[EV\] If you count the score, I think you will find that B needs a fairly large territory here (or compensation elsewhere), so playing submissively is not going to work.  You have to at least make it hard for W to settle N13, hoping to pick up points during the attack.  I would consider something like L15, cutting off an easy escape, and be more patient with the attack.]
+;W[kg];B[lh]C[I thought about L15 but white has a lot of room to maneuver.]
+;W[mf];B[le]C[Is cutting at M13 better? I didn't like the result in the next few moves. If I extend from N15 is O15 better?
+
+[EV\] This move looks necessary.  Letting W play here would be too good.]
+;W[kf];B[mh]C[[EV\] W has already escaped, so playing tightly here just leaves weaknesses.  The game looks good for W now, but it is better to be patient.  Just defend at P14.]
+;W[of]C[[EV\] W finds a vital point.  B cannot hope to keep everything now.]
+;B[ng];W[nf];B[pf];W[nd]C[Black shape doesn't look good. But white has an empty triangle too.
+
+[EV\] W is going to capture something, so empty triangles don't matter much anymore :)]
+;B[ne];W[oe];B[pe];W[ke]LB[kd:A]C[[EV\] Capturing directly at A would be simple and good for W.]
+;B[lc];W[kd];B[ld];W[kc];B[kb];W[mb]C[after the game i wished i played N18 instead.]
+;B[lb];W[ic]C[[EV\] W moves at H17 or even G17 would be more difficult for B to handle.  W is now stronger here than B, so direct contact plays which strengthen both sides should be avoided.]
+;B[jd];W[id];B[je];W[if];B[ie];W[he];B[ib];W[jf];B[jb];W[hd]
+;B[gc];W[gf]C[[EV\] This looks like a good time to pause and count.  The game actually looks even at this point.
+
+B upper left = 12+
+B lower left = 6
+B lower right = 6
+B upper right = 28
+B total = 52+
+
+W upper left = 7
+W top thickness = 8
+W upper right = 10
+W lower left = 16
+W lower right = 14
+W total = 55
+
+W did well initially with the invasion at N13, but then let B off the hook.]
+;B[jr];W[jq];B[kr];W[ir];B[di];W[dh];B[dj];W[bj];B[bk]C[[EV\] B has earned E12 sente and should take it now. This way W gets both E12 and B10, more than he is entitled to.]
+;W[eh];B[ji];W[kq];B[lq];W[js];B[ls];W[jl]C[[EV\] Starting around here, W seems to be pushing hard for extra points, which he gets when B plays submissively.  Don't slack off in the endgame.]
+;B[nm]C[i regret M8 now. The black stones in the center look thin. But maybe it's not bad. Is a play at L6 or even K6 possible?
+
+[EV\] Note that B has a nice shape move at P6 to block W from the center later (though in gote), so L6 now does look good.  K6 would start a complicated fight, which might be playable, particularly if B felt he was behind.  A move around G5 would also be good, expanding B while reducing W.  Simply guarding territory which W threatens is not good, falling slowly behind.]
+;W[kj];B[mj];W[jj]
+(;B[ki]C[[EV\] No need to draw back and play a zero point dame, much better to extend.  W cannot really cut (see alternate sequence).  This move lost many points.]
+;W[fl];B[gn]C[[EV\] Good.];W[fj];B[ek];W[fk];B[el];W[fm];B[fn]
+C[F5 seems to work here];W[rl];B[rk];W[se];B[sf];W[sd];B[rf]
+;W[lj];B[li];W[ii];B[bd];W[be];B[ac];W[im];B[gp];W[fp];B[fo]
+;W[ho];B[go];W[co];B[cp];W[ec];B[eb];W[fd];B[gq];W[gr];B[aj]
+;W[ai];B[bh];W[ch];B[bi];W[cj];B[ah];W[bg];B[ak];W[ag];B[ai]
+;W[gd];B[hc];W[oc];B[gm];W[gl];B[hm];W[hl];B[ei];W[fi];B[em]
+;W[jh];B[ko];W[no];B[mo];W[nn];B[pm];W[sk];B[sj];W[sl];B[rn]
+C[i was lucky to get away with this
+
+[EV\] Yes, W was careless.  A normal finish would give W a win.  No further comments.]
+;W[ro];B[qn];W[qo];B[sm];W[om];B[ol];W[on];B[sr];W[rp];B[qs]
+;W[sq];B[mn];W[lk];B[mk];W[kl];B[lm];W[kp];B[lp];W[kn];B[jo]
+;W[jn];B[io];W[in];B[hq];W[hr];B[hn];W[ip];B[is];W[hp];B[ks]
+;W[eo];B[en];W[ep];B[hs];W[gs];B[js];W[ej];B[dk];W[km];B[ap]
+;W[aq];B[ao];W[la];B[ka];W[ma];B[ae];W[af];B[ad];W[cq];B[co]
+;W[so];B[ln];W[fr];B[rm];W[jp];B[lo];W[kh];B[tt];W[tt]TW[na]
+[oa][pa][qa][ra][sa][nb][ob][pb][qb][rb][sb][sc][ed][ce][de]
+[ee][fe][ge][bf][df][ef][ff][hf][cg][dg][eg][fg][gg][hg][ig]
+[jg][fh][gh][hh][ih][gi][hi][gj][hj][ij][gk][hk][ik][jk][kk]
+[il][jm][oo][po][sp][eq][rq][ar][br][dr][er][sr][as][bs][cs]
+[ds][es][fs][ss]TB[aa][ba][ca][da][ea][fa][ga][ha][ia][ja][ab]
+[fb][gb][hb][bc][qf][pg][qg][rg][sg][nh][oh][ph][rh][sh][mi]
+[ni][oi][pi][qi][ri][si][nj][oj][pj][qj][rj][nk][ok][sk][al]
+[bl][cl][dl][ml][nl][ql][rl][sl][am][bm][cm][dm][mm][qm][an]
+[bn][mp][nq][lr][mr][nr][or][ms][ns][os][ps]C[The game ended here. Once again thank you for the review.]
+)
+(;B[ii]C[[EV\] This should be the first move to consider.  Of course you have to read that W cannot profitably cut ....]
+;W[ki];B[kh];W[jh];B[ih];W[jg];B[hg];W[hf];B[gj]C[[EV\] B does not need to fear a cut.]
+))
+(;B[nd];W[mc];B[md]
+(;W[ld];B[oc];W[ob];B[lc]C[[EV\] W has no continuation now, so this line is bad.]
+)
+(;W[lc];B[ld]
+(;W[kd];B[kc]TR[fc][jc]C[[EV\] W could conceivably play this way, but B is much stronger here, so W will be fighting at a disadvantage.  B makes good use of his marked stones.]
+)
+(;W[kc];B[kd];W[jb];B[ic]TR[fc][jc]C[[EV\] B has succeeded in pushing W low and making good use of his marked stones.]
+))))

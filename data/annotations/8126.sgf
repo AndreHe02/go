@@ -1,0 +1,280 @@
+(;FF[4]GM[1]SZ[19]ST[0]CA[UTF-8]AP[SGFC:1.17]VW[]
+
+PB[Koroviev]
+BR[13k]
+HA[0]
+PW[hmanners]
+WR[9k]
+KM[0.5]
+DT[2010-11-04]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[W+32.5]
+TM[1800]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+C[Black: Koroviev [13k\]
+White: hmanners [9k\]
+
+Hi Koroviev
+
+I am Saurus (4-5k on KGS), and I will be reviewing the game (for the black side).
+
+Of all the things that are holding back your play, I would say that the most important is that you play moves that have no effect on your opponent. Even the legendary Takemiya Masaki once said it is the most important stumbling block in amateurs' play, so I hope to shed some light on why this is so, and how you can overcome it.
+
+Let's say you play "big" territory moves which do not affect your opponent.
+
+- Best case scenario: If white plays badly and does the exact same thing, also playing big territory moves,  you will both make equal territory, and it's a 50/50 dice throw as to who will win the game.
+
+- What will actually happen: If white plays correctly, he will keep sente by attacking all your weak groups first, naturally making territory the whole time, and THEN, after there are no groups left to attack, and he has made some substantial territory already, then he will play the "big" territory moves. The difference is now that he has made a whole lot of points from attacking you first, and then you play equal "big" moves, so you will never be able to catch up.
+
+How to combat this: Never play big territory moves that have no effect on your opponent. Always be the first one to attack your opponent's groups and keep him running. Once there are no weak groups left to attack, you will be ahead on territory, and ONLY THEN should you play the remaining "big" moves. (You must understand that if you play "big" moves, you are actually sharing the remaining big moves with white, because he will certainly not let you get them all).
+
+Example of how you played these game-losing "big" territorial moves are on moves 9 (o3) and 39 (r14).
+
+In this game, you set a beautiful stage for a fight. At move 31, you had massive influence over two thirds of the board. In that position, with the strength you had, you would have won every fight on the board. However, whenever white invaded, you backed away and played territorially. On move 31, I have evaluated the position, and showed you how to decide on the correct strategy. I have also explained why you will lose from that position if you don't play aggressively.
+
+The second thing holding you back is underestimating how important it is to prevent your opponent from getting out to the center. This was demonstrated, for example, in moves 19 (c15) and 107 (m4). If you are playing an influence type of game, as you did here, simply containing your opponent will naturally turn the center into your territory. No need to try and enclose it.
+
+I think part of the problem of your failure to attack white is due to you not being sure of how to handle two-space jump along the third line formations. For example, white's h3/L3 and r9/r12 formations. I have given you detailed examples of standard tesujis to attack these groups, and since they occur in almost every game, it is important to memorize and study the reasons behind these sequences.
+
+I hope that my comments are useful, and that you will be able to use them in future games.
+
+Regards
+Mark
+(Saurus)];B[pd];W[dp];B[pp];W[de];B[fq];W[hq];B[fo];W[dn]
+(;B[nq]C[This stone is bad for a number of reasons:
+
+1) It tries to make territory with a 4-4 stone. This is highly inefficient, as this move is gote, and playing r5 later will also be gote. There is still a good chance that white will play r4 or s4 first. 
+
+Strategically, the 4-4 stone is designed to get out into the center, so it is a useful stone for chasing weak opponent groups. This is done by playing a long extension from the 4-4 stone, and forcing your opponent to invade.
+
+Short extensions from 4-4 stones should be avoided, except if the opponent approaches with something like w-r6, but then it's OK, because the opponent must also reply, and you get sente again, so you're then making territory in sente, not in gote. 
+
+If you wanted territory in the corner, play b-r4 at the beginning, and not q4!
+
+2)This move allows white to play where he wants to play. W-l3 settles his group nicely, and the influence of q4 is useless.
+
+3) you are now stuck with a weak group (f3/f5) between two living white groups - a totally unpleasant situation.
+
+This is a common fuseki, so it is important to understand the reasons for the usual continuations here.
+
+Since you have a high stone at q4, which is designed for fighting, you must fight! The correct moves would have been to pressurize white with either b-j4 or a pincer at k3.
+
+[See variations\]];W[kq];B[fm]C[This is a good move, but it is at the cost of white playing a very big move at d8, so it is vital that you get your compensation for this big white move by attacking h3/l3 immediately on your next move.]
+;W[dl]
+(;B[cg]C[Nooooo!!!!
+
+You had a weak group at f5 which needs to be settled. Playing c13 gives you a second weak group. If white splits them with something like f9, you are in big trouble. Fix your weaknesses first.
+
+Furthermore, it forces white to play the move he wants at c11, thus turning much of his left side into territory.
+
+Have a look at the purpose of the f5 group. It makes absolutely no territory, which is fine, because it's purpose is to attack. So attack immediately before white gets in a move like w-h5, which means that those three stones have been for nothing!
+
+So, strategically, our aims are:
+- Settle the three black stones
+- attack the white h3/l3 stones
+
+Is there a way to do both at once? Yes.
+
+Many people don't know what to do with the white h3/l3 formation. Fortunately, there is an established tesuji which you should memorize, because the white formation comes up in almost every game.
+
+[See important variation for tesuji\]];W[ci];B[fd]C[This makes life too easy for white. B-d17 would be better.]
+;W[cc];B[ef]C[Good. Always a good strategy to shut your opponent in.]
+;W[ee]C[White knows it too, and tries to get out...]
+(;B[ce]C[...and suddenly the whole purpose of the three stonesat c13, f16 and e14 have been in vain, as white escapes without a scratch.
+
+You must block with f15, bacause this is the purpose of the previous stones. If you had wanted territory, then b-d17 earlier would have been a much better way.]
+(;W[cd]C[I can't believe that white didn't f15?];B[fe]C[White let you off the hook.]
+;W[cf]C[Try tewari here - if you had blocked at f15 first, and then white played c14, would you have played c15 next? Of course not! Thus c15 was wrong and uneccessary.]
+;B[df];W[bf];B[dd]C[This does nothing but kill aji. The e18 area is not territory, since white can w-e18. Also, you cannot kill the white corner.
+
+Therefore, this move has no purpose at all, and only removes ko threats and valuable aji.]
+;W[be];B[ed];W[ce];B[dh];W[fb]C[See...];B[ej]SQ[ao][bo][co]
+[cn][bn][an][am][bm][cm][cl][bl][al][ck][bk][ak][bj][aj][ba]
+[aa][ab][bb][bc][ac][ad][bd]C[Lets evaluate the board here.
+
+White has about 25 points of territory (squares), whereas black has none.
+
+Black's influence controls the rest of the board.
+
+Black is prepared to fight , and will almost certainly come out better in any fight on the board, due to his vast influence.
+
+Therefore, lets plan a strategy for black for the rest of the game:
+
+Black must:
+- Play big influence moves (like q10) to force white to invade, and then attack white's invading group, thereby making territory on both sides of the invading white group.
+
+What black must not do:
+- Black must NOT try and make territory in his sphere of influence by playing 'territorial moves.' White is 25 points ahead on territory, and black will never catch up if he plays this way. 
+
+If black plays this territorial way, then theoretically, white will do the same and will therefore win by around 25 points (which is actually what happened in the game.)]
+;W[dj];B[ek]C[Good.];W[dk];B[dq]C[Too small to suit your new fighting strategy.
+
+Force white to invade by playing big moyo moves like q10 or r10.]
+;W[cq];B[dr];W[cr];B[qf]C[Noooooooooooooooooooo!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+This move is strategically incorrect.
+
+See moves 9 and 31 for why this is a disaster. 
+
+Q10 was much better.];W[qk];B[qn]C[Too timid. The whole board favours black in a fight.
+
+Play severe moves such as r7. White is the one who should be afraid.]
+;W[qh]
+(;B[jd]C[Strategically, this is the right idea.
+
+However, you should attack the white group first, before he can strengthen it with w-p12.
+
+Here again, you can use the tesuji as in the earlier example.
+
+[See variation for how to attack the two white stones efficiently\]
+
+P.S. Another reminder to memorize this important tesuji.];W[qq]
+;B[pq];W[qp];B[qo];W[ro];B[rn];W[so];B[sn]C[???
+
+Why t6?];W[rp]C[White is feeling suicidal. Two empty triangles in one.]
+;B[qr];W[rr];B[qs]C[Ends in gote, because you must p2. Better to play q2 and keep sente.]
+;W[rs];B[or];W[sq]C[Not necessary.
+If b-t3, then w-t2 lives.
+
+White is being very kind by giving you sente back after your r1/p2 exchange.]
+;B[rk]C[See previous comments for the correct way to handle this group.]
+;W[rj];B[rl];W[oj]
+(;B[nl]C[Wrong side.
+
+Important strategical rule:
+Always attack from your weaker side and push your opponent towards your stronger side.
+
+[See variation\]];W[og];B[ri]C[White's group is out in the center. You cannot kill it, so attacking it only strengthens the group.
+
+Don't ever, ever attack groups which are completely alive.]
+;W[qi];B[rh];W[rg];B[sj];W[pj];B[qg];W[si];B[qj];W[pr];B[ps]
+;W[rj];B[dc];W[sk]C[White mistake.
+
+His insecurity here shows how important it is to do life and death problems.]
+;B[cb];W[bb];B[db];W[bg];B[rf]C[One point in gote. White cannot monkey jump because of the aji of s12.
+
+If I was white, I would have ignored you move altogether.
+
+Furthermore, it makes white unconditionally alive.
+
+Don't kill aji!];W[sh];B[nc]C[:(
+
+Again, playing moves that have no effect on your opponent.
+
+H3/L3 is weak. Attack it, and you will profit in a big way. Now, something like k4 is a good way to attack the group, forcing white to live small on the bottom, and would turn the center into big territory.]
+;W[jc]C[See, white takes sente, because of your gote 'territory' move.
+
+Don't do it. Don't play gote territory moves, especially when you are behind on territory. It is a guarantee of loss.]
+;B[hc];W[kd];B[lc]C[No!
+
+Proverb: Never threaten to cut - just cut.
+
+L17 was good. M17 allows white to connect his invading stone to the center.]
+;W[je];B[id];W[kc];B[hb]C[Another territory move when you should have been fighting.   :(
+
+Cut at L15.
+
+White is playing in your sphere of influence. You will always
+win the fight.
+
+I repeat: If white is playing in your sphere of influence, you will ALWAYS come out of the fight with more than white.]
+;W[kf]C[White is safe, and black's opportunities are lost.]
+;B[ka]C[This is a pass. 
+
+In my opinion, this is the losing move.
+
+Giving white two consecutive moves in this position is handing him the game on a plate.
+
+In fact, I feel a little bit like crying now. The move makes me sad.]
+;W[md];B[mc];W[nd];B[od];W[oe];B[ld];W[le];B[ne];W[me];B[pe]
+;W[of];B[lp]C[Another timid move.
+
+You're stronger in this position. Play bold moves.
+
+B-k4 is much better.
+
+This is perhaps the right time to introduce the other way of attacking this white formation. In addition to the previous tesuji I showed you, k4 is the way to force white to live small on the bottom. It is clear to see that if you keep playing on top of white, pushing him down, that the center area around j7 will naturally and effortlessly turn into territory.
+
+Don't allow white to strengthen himself or to get out into the center!]
+;W[kp];B[lq]C[Oh no, not another territory move.   :(
+
+Remember the proverb:
+Hane at the head of two stones.
+L5 is the head of two stones.
+
+m3 allows white into the center, destroying the potential territory you had there.
+
+How many points did you save with m3?
+
+Count how many points white could have taken from you there if you did not play it.
+
+I count 1 point.];W[kn];B[ln]C[Now you are chasing from behind. This pushes white further into the center.]
+;W[hn];B[hm]C[Why now?
+
+The remaining bit of territory in the center is shared, since black and white have equal influence there.
+
+Why not earlier when you could have made around 20 points around the j6 area?
+
+To make matters worse, your f5/f3 stones are staring to get nervous.]
+;W[in];B[lm]C[One point in gote.];W[km];B[kl]C[The white group can't be killed anymore, and there is no longer territory to be made in the center.
+
+Rather fix the trembling f3/f5 stones, before w-g6 gives you serious problems.]
+;W[im]C[White is too kind.];B[jl];W[gm];B[fl];W[fn];B[en];W[gn]
+;B[eo];W[do];B[dm];W[cm];B[em]C[Lucky escape!];W[il];B[gl];W[hl]
+;B[hi];W[ij];B[hj];W[jk];B[ii];W[ji];B[mj];W[mi];B[kj];W[jj]
+;B[ki];W[kh];B[kr];W[jr];B[ls];W[ih];B[hh];W[ig];B[hf];W[pl]
+;B[pm];W[qm];B[rm];W[om];B[ql];W[ol];B[on];W[nm];B[nn];W[ml]
+;B[lk]C[Was this a misclick?];W[ll];B[nk];W[kk];B[mm];W[jm]
+;B[kb]C[You have an empty triangle at m7. You can't play away without fixing such bad shape first.
+
+[END OF COMMENTS\]];W[lo];B[mo];W[mn];B[no];W[ep];B[fp];W[el]
+;B[ei];W[eq];B[er];W[bn];B[hr];W[ir];B[gr];W[hk];B[gk];W[hg]
+;B[gg];W[if];B[he];W[jb];B[ja];W[ch];B[dg];W[di];B[ib];W[fs]
+;B[gs];W[gq];B[gp];W[hp];B[go];W[ho];B[js];W[is];B[ks];W[hs]
+;B[fr];W[pg];B[pf];W[sf];B[se];W[sg];B[rd];W[sl];B[sm];W[ca]
+;B[da];W[ba];B[sj];W[sk];B[ie];W[ke];B[cs];W[bs];B[ds];W[br]
+;B[ic];W[tt];B[tt]TB[os][ns][ms][fs][es][pr][nr][mr][lr][oq]
+[mq][op][np][mp][po][oo][pn][qm][fk][gj][fj][gi][fi][gh][fh]
+[eh][fg][eg][gf][ff][re][qe][ge][sd][qd][hd][gd][sc][rc][qc]
+[pc][oc][gc][fc][ec][sb][rb][qb][pb][ob][nb][mb][lb][gb][fb]
+[eb][sa][ra][qa][pa][oa][na][ma][la][ia][ha][ga][fa][ea]TW[ss]
+[as][sr][ar][rq][jq][iq][bq][aq][sp][jp][ip][cp][bp][ap][ko]
+[jo][io][co][bo][ao][ln][jn][cn][an][mm][lm][hm][bm][am][nl]
+[kl][jl][cl][bl][al][pk][ok][nk][mk][lk][ik][ck][bk][ak][qj]
+[nj][mj][lj][kj][cj][bj][aj][ri][pi][oi][ni][li][ki][bi][ai]
+[rh][ph][oh][nh][mh][lh][jh][bh][ah][ng][mg][lg][kg][jg][ag]
+[nf][mf][lf][jf][af][ne][ae][bd][ad][bc][ac][ab][aa])
+(;B[og];W[mj];B[mh]C[No more weaknesses for black on top, and look how the territory is appearing naturally out of nowhere.]
+))
+(;B[rl];W[rk];B[ri];W[rh];B[qi];W[pi];B[ph];W[qj];B[oi];W[pj]
+;B[qg];W[si];B[og]C[Look at your big territory developing along the top corner.
+
+No need to clain it with territorial moves such as r14. The territory will come naturally just by attacking white's weaknesses.]
+))
+(;W[fe];B[cd];W[ec]))
+(;B[fe]))
+(;B[lr]C[This is the tesuji.];W[kr]C[White must block, or black takes away his base, and the white group will struggle to live.]
+;B[ir]C[Play here.];W[hr]C[If w-j3, then b-h2, and white is again without a base, and will struggle to live.
+
+Thus, white must block.];B[iq];W[ip];B[hp]C[Cut!]
+(;W[jq]C[White must play here - it's the only move.
+
+White cannot counter-attack at w-g4, because the two stones at L2/L3 will die.
+
+[see variation\]];B[io]C[Atari.];W[jp];B[gq]C[Forcing move - white must respond.]
+;W[is];B[ho]C[If f5 was not present, then this stone should be played at g5.
+
+Black is now alive and strong, and has a lot of influence in the center, and white still does not have the corner.]
+)
+(;W[gp];B[ho];W[gq];B[jp]C[The two stones at w-L2 and w-L3 will die, and black still has b-c3.]
+)))
+(;B[ip]C[This is the first option...];W[iq];B[jp];W[jq];B[kp]
+;W[lq];B[lp];W[mq];B[no];W[hp];B[ho]C[Black now has huge influence over the center and the entire right side of the board.
+
+Now, if w-g4, then b-g5 If white pushes further at w-f4, then b-c3.]
+)
+(;B[jq]C[This is also good...];W[jp];B[iq];W[ip];B[hr];W[hp]
+;B[gq]C[Black's group is settled, alive and strong, and white's group is hanging without a base, and can now be attacked severely.]
+))

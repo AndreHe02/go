@@ -1,0 +1,142 @@
+(;FF[4]GM[1]SZ[9]AP[SGFC:1.16]
+
+PB[aviatto1988]
+BR[23k]
+HA[3]
+PW[mortal]
+WR[14k]
+KM[-2.5]
+DT[2016-03-03]
+PC[OGS: http://online-go.com/game/4149201]
+RE[?]
+RU[japanese]
+
+AB[gg][gc][cg]C[Hello. My name is Michail and I'll review this game. It is strange to review 3 handicaps 9x9 game - looks like black already won by having three corners to whites one. But still, I hope to point some mistakes. I included many varitions with possible continuations.]
+;W[dd]
+(;B[ed]LB[fe:a][ef:b][eb:c][be:d]C[Because all moves on 9x9 board are more or less local, one can say, that black is already attacking weak white stone right from moment, when that white stone touches board. So it would be wise to not attach to weak stone, but attack it from distance. Moves A to D surround gently and attack. Actually black can even play 3-3 right now - possible continuations are shown. But this black move is not end of the world by any means.]
+;W[de]
+(;B[df]TR[ed]LB[ee:a][ec:b][eg:c]C[This move is inducing white A, which hurts marked stones. You can strenghten marked stone with something like B. Then white would have moves against lower left, but nothing deadly (see variation). Also you can just play C and see, what white wants to do.]
+;W[ee]
+(;B[dc]LB[ec:a][fd:b]C[You are giving white forcing moves, better defend solidly A or B.]
+;W[cc]
+(;B[fe]LB[ec:a]C[Again, better protect solidly at A instead. Now there are to many cuts to take advantage of.]
+;W[ef]
+(;B[ff]C[Protect lower left, because even with many cuts, you should be able to get something with so many stones already in upper right (see var). If white gets one more move in lower left, however, it is very hart to live there.]
+;W[eg]
+(;B[eh]LB[dg:a][dh:b][ce:c]C[This again induces your opponent to split you with A or B. Maybe better to directly defend corner with B or C.]
+;W[dh]
+(;B[dg]LB[fh:a][ec:b]C[Hard to live with corner group now, better sacrifice it with A and protect B next.]
+;W[fh];B[ch];W[ei];B[fg];W[ce]C[Now there is no way to live.]
+;B[bf];W[be]
+(;B[eb];W[gh];B[cb];W[bc];B[hh];W[fd];B[ec];W[gd];B[hd];W[he]
+;B[ge];W[hg]C[Nice play by white!];B[fc];W[hf];B[ie];W[bh]LB[ih:a]
+C[Mistake by white. Should play A.];B[bi]LB[ig:a]C[Black can't make two eyes, so you should play A.]
+;W[ag];B[af];W[bb]LB[ih:a]C[A is bigger than this.];B[bg];W[ah]
+;B[ai];W[ah];B[ig]C[Nice!];W[hi];B[ih];W[gi]
+(;B[ba]LB[if:a][gf:b]C[Ouch! A or B are a must.];W[ii];B[if]
+;W[id];B[tt]C[Some advices.
+1) Don't attach to weak stones, because attachments strenghten both sides.
+2) Hane (like black 6) creates cuts. Read out, how you would proceed, if opponent cuts you, before playing it.
+3) When deciding which side to play (like move 10), try to read out, what would be most severe attack on stones, which you ignored by defending other side.
+
+Hope, my review helped!])
+(;B[if];W[ca];B[db]))
+(;B[ah];W[bi];B[ci];W[af];B[ag];W[bh]C[Dead])
+(;B[af];W[ci];B[bi];W[ah]C[Dead by "bulky five"])
+(;B[cf];W[af];B[ag];W[bh]C[Shape point, black is dead])
+(;B[bh];W[ag];B[af];W[ci]
+(;B[bi];W[ah]C[Dead])
+(;B[ah];W[bi]C[Dead])))
+(;B[fh]
+(;W[dg];B[ec]C[Black still ahead.])
+(;W[ec]C[If white does not respond to last move, black can connect back.]
+;B[ch]
+(;W[dg];B[di];W[fd];B[gd]C[Black ahead.])
+(;W[di];B[dg]TR[dh][di]LB[fg:a]C[There are several continuations with white pushing at a and cutting, but short ones. I hope, that idea of connecting lover left back is clear.]
+))))
+(;B[ce];W[dg];B[cf];W[ch];B[bh];W[dh];B[bi]C[Black alive])
+(;B[dh];W[dg];B[cf];W[eh];B[ch];W[be];B[ce];W[cd];B[bf];W[bd]
+;B[ah]C[Black alive]))
+(;B[eg]
+(;W[ec];B[fd];W[db];B[ff])
+(;W[ff];B[fg]
+(;W[ec];B[fd];W[db];B[gf])
+(;W[fd];B[ec]
+(;W[fc];B[fb];W[gd];B[hd];W[ge];B[hb]C[Black is alive on both sides.]
+)
+(;W[ge];B[fc]C[Black alive on both sides.]))
+(;W[gf];B[fc];W[gd];B[fd];W[ge];B[db]))))
+(;B[ec];W[ef];B[eg];W[cf];B[dg];W[bf]))
+(;B[fd];W[ef];B[eg];W[cf];B[dg];W[bf]C[Possible continuation.]
+))
+(;B[ec];W[dg];B[cf]
+(;W[df];B[ce];W[cd];B[bd];W[bc];B[ae];W[ch];B[bh];W[dh];B[bg]
+;W[ac]
+(;B[af]C[This is correct.]
+(;W[ad];B[be])
+(;W[be];B[ad]))
+(;B[ad]C[This is mistake.];W[af];B[be];W[bi];B[cc]C[Black only chance, because cornr can't make two eyes other way.]
+;W[cb];B[dc];W[bb];B[db];W[ah]C[But white wins capturin race.]
+))
+(;W[ch];B[df];W[ef];B[dh];W[eg];B[bh];W[ee];B[ge]C[Black has enough, white is not even alive.]
+))
+(;B[eg];W[ee];B[fd]C[Easy]))
+(;B[cc];W[dc]C[White chooses side, but because it is symmetric, variations are same.]
+;B[cd]C[Standard for 3-3 invasion.];W[ce];B[be]
+(;W[cf];B[bf];W[dg];B[ch]LB[ge:a][gd:b][gf:c][dh:d]C[I don't see, how white could win. But most complicated things on this board would be A to C. Several continuations are shown. Note, that normally white would like to play D, because it is very big for both, but now there is no time at all for this move. If white plays D, black doesn't need to respond, so he can connect right side stones solidly and call it a game.]
+
+(;W[ge]
+(;B[he]C[Standard continuation and only possible local move on bigger boards. Here you could consider attaching from other side. Here black attaches because of tesuji (clever play), not to attack white.]
+;W[hf];B[gf];W[hd];B[fe]
+(;W[gd];B[fd]LB[fc:a][ff:b]C[Now cuts at A and B look most complicated. Below are just several possible variations.]
+
+(;W[ff];B[hc];W[ie]
+(;B[ef];W[fg];B[eg];W[fh]
+(;B[de];W[fc];B[gh];W[ec];B[ee];W[hg]
+(;B[eh];W[hh];B[fi];W[cb];B[bb];W[db]C[White looses even now.]
+)
+(;B[hh];W[eh];B[dh];W[cb];B[bb];W[db]C[Black has much more.]
+))
+(;B[hg];W[ee];B[fc];W[eh];B[ic];W[id];B[ig];W[gh];B[if]))
+(;B[fg];W[fc];B[ic];W[id];B[fb];W[ec];B[eb]
+(;W[db];B[hg]C[White dead])
+(;W[hg];B[db]
+(;W[ef];B[de]C[White center dead])
+(;W[ee];B[ef];W[df];B[ff];W[eg];B[ed];W[de];B[eh]C[White dead]
+))))
+(;W[fc];B[hc];W[ie];B[fb];W[ec];B[hg];W[eb];B[ic];W[id];B[gb]
+C[White dead all over.]))
+(;W[ie];B[gd]C[Ko]))
+(;B[fe];W[fd];B[gd]
+(;W[ff]TR[fe]C[This would be normal move for white, but it lets black connect his right side stones by sacrificing one marked stone. White could try be more sneaky (see var.).]
+;B[he];W[gf];B[hf])
+(;W[he]C[Now black must choose sides, so it is needed to read at least several moves ahead and see weaknesses of white.]
+
+(;B[ed];W[fc];B[ec];W[fb];B[de]TR[ec][ed][fe][cc][cd][be][bf]
+[cg][ch]C[Black sacrifices corner to gain in the center. Stronger players could see further than me and call this variation bad, because it is possible, that lower right could also be killed, but right now I see this game as better for black. I'll explain: a) black marked stones are connected, b) either white small groups in the center can be captured, c) white needs a move in top right, because there are some liberty issues.]
+)
+(;B[fc]C[This is what you read first, but I don't see definitely good result for black, because it would be capturing race. See start of it below.]
+;W[ed];B[eb];W[db];B[ff]TR[de]C[It is capturing race, but white has big weakness at triangle.]
+))))
+(;W[gd];B[hd]
+(;W[hc];B[hb];W[he];B[ic];W[ge];B[eh]C[Black connected])
+(;W[he];B[ge];W[fd];B[hf];W[hc];B[ie];W[gb];B[dh];W[eg];B[eh]
+C[Black all connected.])
+(;W[ge];B[he]C[Black has two alive groups.]))
+(;W[gf];B[hf]
+(;W[hg];B[hh];W[he];B[ig];W[ge];B[eb];W[db];B[hd];W[ie];B[id]
+;W[if];B[hg];W[fg];B[fh];W[eh];B[gi];W[ei];B[fi];W[ec];B[fb]
+;W[ff];B[hb];W[cb];B[bb]C[Black alive everywhere.])
+(;W[he];B[ge];W[ff];B[hd];W[hg];B[ie];W[gh];B[dh];W[eg];B[db]
+;W[eb];B[cb]
+(;W[fb])
+(;W[gb];B[hb];W[fb];B[fd];W[ed];B[fc];W[ec]C[Black alive on both sides and with points.]
+))))
+(;W[bf]C[White could try this.];B[cf];W[de]
+(;B[bd]MA[bg]TR[be][cd][cc]LB[ge:a][gd:b][gf:c]C[This is correct, because if black makes atari at cross, white would take this move himself and capture one of marked groups. Now white got almost nothing, now same as before A to E.]
+)
+(;B[bg]C[This is mistake.];W[bd]
+(;B[af];W[bc];B[cb];W[bb];B[db];W[eb]C[Black four stones are dead.]
+)
+(;B[bc];W[ae]C[Black is split and not alive on both sides.]
+)))))

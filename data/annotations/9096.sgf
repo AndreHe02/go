@@ -1,0 +1,137 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.16]VW[]
+
+GN[HVIT]
+PB[Henrik]
+BR[3k]
+PW[HVIT]
+KM[6.5]
+DT[2013-05-03]
+RE[W+9.5]
+RU[Japanese]
+US[Henrik Sætra]
+
+C[Hello! And thank you very much for taking the time to look at my game, and hopefully give me some pointers on where more work is most desperately needed.
+
+---
+I have played Go for a while, but I haven't played for some years now. I used to be about 3 kyu I suppose, and I'm very unsure about where I'm at now, after having just started to work hard on getting back to where I was at.
+
+
+
+TM—Hello my name is Tim; my comments are prefixed with TM. I am around 2d on KGS. I have commented mostly for Black, as requested, with a few comments on White's moves also.]
+;B[pd];W[dq];B[cd];W[qp];B[do]C[This is an opening I like as black.]
+;W[oq];B[cq];W[cr];B[cp];W[er];B[cl]LB[ck:a]C[I should perhaps jump one further here, to 'a'?
+
+TM—This is a good, solid move.];W[gp];B[pj]C[Trying to reduce the potential for whites corner enclosure.]
+;W[nc];B[kc]LB[lc:A]TR[cd]C[I figured a pincer could work well with my other stones.
+
+TM—A pincer is fine, but you need a special reason to have it so wide. The standard pincer to White's approach is at A.]
+;W[pf]C[TM—Considering Q10, White is probably better off jumping into the corner instead.]
+;B[nd];W[qc]
+(;B[pc]LB[pf:a]C[At this point I was very unsure, but I blocked at that side because I thought I had most potential on the top side. However, 'a' is in a good place for white now, right..?
+
+TM—This is the wrong direction. White will be happy to connect to A, and Black's stone at Q10 will be cut off from its friends.]
+;W[qd];B[pe]LB[qb:A]C[TM—It looks like this and the following moves hurt Q10 by pushing White towards it. An alternative would be to play at A instead.]
+;W[qe];B[of];W[og]LB[nf:A][oo:B]C[TM—Perhaps simply A next. Black can then think about playing around B.]
+;B[pg];W[qf];B[ph];W[nf];B[oe];W[md]C[TM—Ouch.];B[ng]C[TM—A necessary move, but observe how it hurts the stones on the right throughout the rest of the game.]
+;W[oh]
+(;B[mf]LB[mh:a]C[Maybe 'a' first..
+
+TM—An interesting idea. Several things could happen here; see variation. I think the move here is fine, though.]
+;W[nh];B[mg];W[mh];B[lh];W[li];B[kh];W[me];B[ne];W[kd];B[lc]
+C[TM—This is where your pincer wanted to be all along...]
+;W[mc];B[ke];W[pb];B[ob];W[qb];B[oc];W[jd];B[ld];W[le];B[lf]
+;W[jc];B[jb];W[ib];B[kb];W[hc]LB[nj:A]C[I now have a group there, but very few points. My judgement here was that it was ok, since I'm not surreounded, and I have two white groups that could be attacked. I was also constantly afraid of the black group on the right side being attacked before I could help it.
+
+TM—As for the group on the right, consider a move at A to make things awkward for the white group in the centre, and to prepare for life on the side. This is a very important move.]
+;B[fc];W[ec];B[ed];W[dc];B[dd];W[fb];B[qm];W[cc]LB[nj:A]C[TM—Especially now that White ignored R7, think of the impact that A would have. The top left corner can wait.]
+;B[bc];W[bb];B[bd];W[nj]C[TM—White got there first. Now Black's group on the right is unsafe.]
+;B[om];W[nl];B[jq];W[lq];B[gr];W[mn];B[jo];W[pk];B[qk];W[pl]
+;B[ql];W[qi];B[pi];W[qh];B[qg];W[rg];B[rj];W[ri];B[ro];W[qj]
+LB[rp:A]C[TM—This seems to help Black make life. As White I would block at A first.]
+;B[si];W[rh];B[sk];W[ip]C[White's group is safe,
+
+TM—I am not sure which one you mean, but yes, White seems to be safe across the board.]
+;B[jp];W[ir];B[gn];W[hr];B[in];W[rp];B[rm];W[je];B[kf];W[mb]
+;B[nb];W[eo];B[en];W[fo];B[fn]C[I'm thinking mostly of the center/left part for my points now, so I was satisfied with whites play here.
+
+TM—Sure.];W[dp];B[hf]LB[jj:B][co:a]C[I was aware of the problems a 'a' here, but judged the center as more important.
+
+TM—This is a big move. Now consider closing off the centre with B.]
+;W[co];B[dn];W[bo];B[gd];W[gc]LB[jj:A]C[TM—You don't need to respond to this immediately. A move at A would be very big.]
+
+(;B[fd];W[bm];B[bl];W[cm];B[dm];W[ki];B[ji];W[jj];B[kj];W[ii]
+;B[jh];W[kk];B[ij];W[jk]
+(;B[hk]LB[ik:A]C[TM—Slack. There is no reason to let White push into the centre, particularly considering the aji nearby (e.g. with the M11 group). Play at A instead.]
+;W[hl];B[gk];W[il];B[mi];W[oj];B[lj];W[lk];B[oo]LB[qo:A]C[This was obvisouly a mistake from me, something I saw quite fast.
+
+TM—Playing at A instead would have been safer.];W[qo];B[rn]
+;W[pm];B[mp];W[lp];B[lo];W[mo];B[mm];W[np];B[km];W[nm];B[ln]
+;W[ik];B[hj];W[jf];B[ig];W[hd];B[kr];W[ja];B[ma];W[he];B[ge]
+;W[ka];B[lb];W[so]
+(;B[sn]C[TM—Is there an alternative that would guarantee life (i.e., avoid the possibility of ko)? Think about it, then see variation.]
+;W[sl];B[rl]
+(;W[ml];B[mr];W[mq];B[sp];W[rq];B[ab];W[cb];B[sj]C[Making sure I don't have to fight a ko for survival, if I had read that correctly.
+
+TM—Yes, good reading. White missed an opportunity here. As demonstrated earlier, you could have avoided this problem.]
+;W[nr];B[qn];W[pn];B[hp]C[TM—This looks like a trick play of some kind (and it looks like White fell for it).]
+
+(;W[hq]LB[ho:A]C[TM—White should have played the natural response at A.]
+;B[ho];W[gq];B[sq];W[sr];B[so];W[qr];B[am];W[gl];B[fl];W[lm]
+;B[ao];W[bn];B[an];W[bp];B[lr];W[ap];B[al];W[jr];B[kq];W[iq]
+;B[sh];W[sg];B[sm];W[mj];B[la];W[ia];B[el]LB[gm:A]C[TM—Is this necessary? What about A instead?]
+;W[kl];B[jm];W[ms];B[ls];W[ns];B[ba];W[ca];B[ac];W[aa];B[if]
+;W[oa];B[ie];W[id];B[na];W[pa];B[js];W[se]C[TM—Hmm. End of comments.]
+;B[is];W[hs];B[ks];W[gb];B[kp];W[ba];B[gm];W[go];B[io];W[hm]
+;B[hn];W[ni];B[li];W[jg];B[kg];W[im];B[kn];W[jl];B[cn];W[bq]
+;B[tt];W[tt]TW[da][ea][fa][ga][ha][qa][ra][sa][db][eb][hb][rb]
+[sb][ic][rc][sc][rd][sd][re][rf][sf][pg][qg][ph][oi][pi][pj]
+[mk][nk][ok][ll][ol][mm][om][nn][on][no][oo][po][cp][ep][fp]
+[mp][op][pp][aq][cq][eq][fq][nq][pq][qq][ar][br][dr][fr][gr]
+[or][pr][rr][as][bs][cs][ds][es][fs][gs][os][ps][qs][rs][ss]
+TB[mb][mc][nc][ad][md][od][ae][be][ce][de][ee][fe][le][me][af]
+[bf][cf][df][ef][ff][gf][nf][ag][bg][cg][dg][eg][fg][gg][hg]
+[lg][ah][bh][ch][dh][eh][fh][gh][hh][ih][ai][bi][ci][di][ei]
+[fi][gi][hi][ii][ki][aj][bj][cj][dj][ej][fj][gj][ak][bk][ck]
+[dk][ek][fk][rk][dl][sl][em][fm][jn][ko]C[Overall a game on par with what I am capable of now, I think.
+
+Any help with seeing what my main issues are would be greatly appreciated. If you have any idea on what kyu I might be after seeing this, that would also be greatly appreciated.
+
+
+TM—You played steadily, recovered well from the minor disaster in the top right, and made some gains in the endgame. Here are some points to think about:
+
+  —As you know, after an jump inside a 4-4 opening, it is important to know which side to block on. You chose a side that hurt Q10. Remember that stones on star points often want to help each other.
+
+  —Always be aware of weak groups (both yours and your opponent's). Connect your own, or make eyespace for them, and deny the same to your opponent. If possible, find moves that accomplish both tasks at once, such as O10 in this game. These moves are critical.
+
+  —When you're closing off a moyo, look for big moves and weigh the benefit of smaller ones. I'm thinking particularly of moves like #117.
+
+  —As for your rank, it is of course impossible for me to say exactly, but 3k sounds reasonable. I hope this review helps!]
+)
+(;W[ho]C[TM—Black loses a stone and must fix the cut at H6.]
+))
+(;W[sh]C[TM—Trouble.]))
+(;B[rl]C[TM—The shape doesn't look as nice, but White cannot kill. In fact, suppose that White plays the same move 166...]
+;W[sl];B[sm]C[TM—... then Black replies here, of course. Compare to the game at 167, where T6 wishes it were at T7.]
+))
+(;B[ik]C[TM—This seals off the centre.]
+(;W[jm];B[im]C[TM—Simple and solid. Compare to the game at move 133.]
+)
+(;W[il]LB[jl:A]C[TM—White cannot advance any farther like this because the cut at A is too much.]
+;B[jl]
+(;W[jm];B[kl])
+(;W[hm];B[hl];W[im];B[hn]))
+(;W[hm]LB[hj:B][il:A]C[TM—If White plays here, Black should still be fine. Watch out for White A, threatening B.]
+;B[im];W[hn];B[hl];W[ho];B[gm])))
+(;B[jj];W[fd]C[TM—If White captures here...];B[fe];W[ge];B[gf]
+C[TM—... it's not the end of the world. This doesn't put you in any great danger; White hasn't won too many points (is it worth it for him to capture G16 in gote now?); and you took K10 first.]
+))
+(;B[mh]
+(;W[oi]
+(;B[pi];W[ne]C[TM—This doesn't look great for Black, so he would probably be better off sacrificing the stones on the right.]
+)
+(;B[mf];W[pi]C[TM—A reasonable trade.]))
+(;W[ne]
+(;B[oi];W[pb]C[TM—White connects.])
+(;B[pb];W[oi]C[TM—Looks difficult for Black.]))))
+(;B[qd];W[pc];B[od]C[TM—Black's stones are working well together.]
+))

@@ -1,0 +1,123 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.17]
+
+PB[Thomas]
+BR[2d]
+PW[unknown]
+KM[0]
+RE[W+10]
+RU[Chinese]
+
+C[Please review for black.
+
+
+
+It would be nice if you could focus a bit on my logic and direction. It is also very nice if you comment moves that I make that are bad, but do not have any comments attached. Thank you very much for your time and effort.
+
+
+
+- Thomas];B[pd];W[dp];B[pq];W[qo];B[op];W[rq]LB[qm:A]C[I have seen this play several times, is it possible to punish it?
+
+janr: Black at A seems the most natural answer.  White will have no decent base.]
+;B[qp]C[janr: this move makes white stronger and shout therefore be omitted.]
+;W[rp];B[po];W[qn];B[rl]TR[qo][rp]C[I wanted to attack this group, but I am not sure if this is such a good move.
+
+janr: to attach, at least one has to play on the third line.  It is inconsistent to first make white stronger and then try to attack him.  Playng a pincer first would have been more natural.]
+;W[ql];B[qk];W[pl];B[rm];W[qf];B[qm];W[pn];B[pm];W[oo]C[janr: the atari is very painful.]
+;B[pp]C[janr: connecting is very submissive.  Black played to separate the two white stones and should be consistent now.  Connecting here loses liberties.  White can now play at A and the life of the ones-ponnuki will be small and on the third line.]
+;W[om];B[sn]
+(;W[so]C[janr: white answers very locally.];B[rn];W[ro]
+(;B[mp]TR[pk][kq]C[This move was not any good I think. Painful when he later just played here. Or maybe the region above is more important...
+
+janr: extending from the heavy shape is urgent to avoid white's hane.  I feel the game move is playable here.]
+;W[pk];B[qj];W[pj];B[qi];W[pi];B[qh];W[ph]
+(;B[pg]C[janr: the alternative (with the clamp) is probably better.]
+;W[qg];B[pf];W[qe];B[pe];W[qd];B[qc];W[rc];B[qb];W[rb];B[ra]
+C[janr: the cut remains.]
+(;W[rh]C[janr: white should try the cut first, before living on the right side.  It makes living locally unnecessary and gains more]
+;B[ri];W[sg];B[si];W[re];B[jd]C[janr: white can still cut.]
+;W[lc];B[le];W[jc]
+(;B[kd]C[janr: The hane works well here I think];W[jb];B[hd]
+;W[hc]C[janr: getting ahead (1 space further) is better i think]
+;B[gc];W[hb];B[ge];W[ec]
+(;B[nc]C[janr: clearly, black should cut];W[fb]C[janr: white is connected and alive]
+;B[cd];W[dd];B[ce];W[kq]C[janr: it's not consistent to first attach in the upper left corner and now play tenuki.]
+;B[no];W[on];B[nk]C[janr: the peep is not yet interesting now.  Black does not know yet whether the peep here or one point below is better]
+;W[nl];B[ko];W[gq];B[ml];W[mm];B[mk];W[km]C[janr: the effect of peeping is that blacks group becomes weak.  The proverb says "sacrifice stones that served their purpose".  It's better to run with the group below.]
+;B[ok];W[ol];B[nn];W[ll];B[ni];W[nm];B[ln];W[lm];B[ng];W[ip]
+;B[io];W[cm]
+(;B[kj]C[janr: black is forcing white to attack his lower weak group.  It's better to reinforce the lower group.]
+;W[im];B[ho];W[cg];B[jl];W[jm];B[gm];W[il];B[ij];W[gl];B[de]
+C[janr: the 3-3 point is more important];W[cc];B[bc]
+(;W[cb];B[ci];W[eg];B[ei];W[ee];B[df];W[ef];B[dg];W[dh];B[ch]
+;W[di];B[dj];W[eh]
+(;B[qr]LB[cj:B][ck:A]C[This was a big mistake.
+
+janr: defending at A or B is ok but there are other good alternatives, e.g. the invasion in the lower left corner.]
+;W[cj];B[bg];W[ej]LB[bj:A]C[janr: A would have been sente for white]
+;B[bj];W[dk];B[bk];W[fi]C[janr: this move only captures one useless stone.]
+;B[jp];W[iq]LB[jq:A]C[janr: A looks more solid];B[jq];W[jr]
+(;B[lr]C[janr: why not cut?];W[kp];B[jo];W[kr];B[fl];W[gk];B[fp]
+;W[fq];B[ep];W[eq];B[do];W[co];B[cp];W[dq];B[cn];W[bo];B[dn]
+;W[bn]LB[en:E][eo:C][fo:D][go:B][gp:A]C[janr: black lost the 3-3 invasion in the corner by playing sente moves.  The A-B-C-D-E sequence gives white the option of capturing three stones, so playing tenuki now is not good (there is no compensation for the destroyed aji).]
+;B[hh];W[gp];B[go];W[eo]
+(;B[fn]C[This was another silly mistake.];W[en];B[em];W[dm]
+;B[fo];W[jk];B[jj];W[mr];B[nr];W[mq];B[nq];W[lq];B[bb];W[md]
+;B[ne];W[me];B[mf];W[rr];B[rs];W[el];B[fm];W[fk];B[mb];W[mc]
+;B[lb];W[kc];B[ca];W[db];B[gg];W[da]LB[nd:A]C[janr: A is sente and therefore bigger]
+;B[ba];W[nd];B[od];W[oh];B[nh];W[lk];B[lj];W[sb]LB[qq:A]C[janr: A is sente, and hence bigger]
+;B[gb];W[ga];B[hp];W[hq];B[bl];W[id];B[ie];W[ic];B[ld];W[kb]
+;B[nb];W[fc];B[gd];W[hi];B[ii];W[hj];B[kk];W[kl];B[fd];W[gh]
+;B[gf];W[ed];B[lp];W[ns];B[os];W[ls]C[janr: just connecting is better]
+;B[ik];W[hk];B[cl];W[dl];B[bm];W[fg];B[ka];W[ja];B[la];W[mn]
+;B[mo];W[kn];B[lo];W[hn];B[hm];W[hl];B[in];W[og];B[of];W[sr]
+;B[qs];W[am];B[al];W[an];B[ck];W[bi];B[bh];W[dj];B[qq];W[sa]
+;B[qa];W[sd];B[sh];W[rg];B[oj];W[sk];B[rk];W[jl];B[ms]C[After this move, I ponderd if black really have enough ko threats to fight this.]
+;W[sj];B[sl];W[ns];B[tt];W[ss];B[oi];W[ff];B[tt];W[lf];B[je]
+;W[ih];B[hg];W[ig];B[kf];W[lg];B[kg];W[mg];B[nf];W[fe];B[tt]
+;W[kh];B[lh];W[he];B[hf];W[if];B[he];W[ms];B[tt];W[li];B[mh]
+;W[mj];B[mi];W[ki];B[nj];W[bd];B[be];W[ad];B[bf];W[ai];B[ah]
+;W[ab];B[ae];W[ac];B[aa];W[ob];B[oc];W[na];B[tt];W[pa];B[pc]
+;W[jh];B[tt];W[jn];B[tt];W[or];B[ps];W[ji];B[mj]TW[ea][fa][ha]
+[ia][eb][ib][dc][sc][rd][se][rf][sf][fh][ei][gi][fj][gj][ek]
+[cn][dn][ao][do][ap][bp][cp][sp][aq][bq][cq][sq][ar][br][cr]
+[dr][er][fr][gr][hr][ir][lr][as][bs][cs][ds][es][fs][gs][hs]
+[is][js][ks]TB[ma][na][oa][pa][ab][ob][pb][ac][ad][bd][ke][oe]
+[af][cf][if][jf][lf][ag][cg][ig][jg][lg][mg][ih][jh][kh][ai]
+[bi][ji][ki][li][aj][rj][sj][ak][sk][sm][gn][hn][np][oq][or]
+[pr]C[Both black and white made several mistakes.
+Black should especially pay attention to the following three points:              
+(1) at Move 7, white is made stronger.
+(2) at move 63, black should cut, as there is only little cost in doing so.
+(3) around move 75, don't start a new group from a kikashi stone at the expense 
+of another big weak group.  Just save the big weak group.])
+(;B[en];W[fo];B[fn]))
+(;B[ir]
+(;W[hr];B[kr];W[is];B[lr])
+(;W[kr];B[hq];W[hr];B[hp];W[is];B[fl];W[gk];B[gr];W[iq];B[fq]
+)))
+(;B[ck]))
+(;W[di]))
+(;B[jp];W[jq];B[hp];W[iq];B[hm]))
+(;B[gb]
+(;W[nb];B[cc])
+(;W[cd];B[nc]C[black can defend his two stones in sente])))
+(;B[ic]
+(;W[kd];B[ke];W[id];B[je];W[hc];B[ib];W[hb];B[jb];W[kc];B[hd]
+;W[ie];B[gd]
+(;W[if];B[gb])
+(;W[fc];B[if]))
+(;W[ib];B[hc]C[janr: white will live low])))
+(;W[pc]
+(;B[oc];W[pb])
+(;B[pb];W[oc];B[ob];W[nc];B[nb];W[mc];B[mb];W[og];B[of];W[nf]
+;B[ng];W[oh];B[ne];W[mf];B[me];W[oe];B[od];W[nd];B[oe];W[le]
+)))
+(;B[qg];W[pg]
+(;B[pf]C[janr: I prefer the clamp.];W[pe];B[of];W[qe];B[oe]
+;W[qd];B[pc])
+(;B[qe]
+(;W[rf];B[pf];W[of];B[pe])
+(;W[pf];B[rf]))))
+(;B[kq]C[Maybe something in this area.]))
+(;W[on];B[rn];W[np];B[nq];W[mq];B[mp];W[no];B[mr];W[lq];B[or]
+;W[qr];B[pr];W[ro]))

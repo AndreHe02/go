@@ -1,0 +1,994 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+PB[kjhi]
+PW[Some1]
+WR[12k]
+KM[6.5]
+DT[2007-09-10]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[B+16.50]
+TM[1800]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+C[hi
+
+This is a game a played against someone who said who was 12k as me. Well, im very interested in what is the best way to make a good and "solid" moyo, i mean, ¿whats the secret for a good start? As in this game, i feel like i dont start as good as possible and then im always at backwards so i cant win ¿what mistakes do i make in the game?
+
+Hope you can help me with this review.
+
+thanks in advance
+
+----------------------------------------------
+Hi,
+
+I am Jens-Uwe and currently around 5k on KGS (user 'jug'), so please take my comments in this review not as the absolute truth, but I will try and give what insights I can at my level.
+
+All my comments begin with 'JUG'. When introducing go-concepts i mostly use japanese terms, but i've added a short description on first use; a more detailed explanation you may find on Sensei's Library http://senseis.xmp.net/, which is also a great free resource about all topics of Go.
+I've used CGoban v3.3.19 to edit this SGF.
+
+JUG: How to read the review:
+
+Please follow the main-path and the referred variations there, because some basics and concepts are explained in those variations, that are needed to understand some follow-up-comments in the review. I refer to them as "see var before" (var starting from previous move) or "see next var" (var starting with the current node).
+All existing comments except your intro have been removed.
+Used abbreviations are: B=Black, W=White, notation 'X' refers to a letter-mark, wA1=W-move at A1, bT1=B-move at T1.
+
+I've tried to point out what you asked. At the end of the game i finish with a summary and on what to concentrate to improve.
+
+Enjoy the review!
+
+Cheers,
+JUG];B[pd];W[dp];B[pp];W[dc];B[pj]LB[jc:E][kc:F][jd:A][ce:C]
+[cf:D][jp:B]C[JUG: The black formation is called san-ren-sei aiming for a moyo-based strategy
+As you see at the next move countering a moyo with a moyo has disadvantages. An alternative approach is shown in the var.
+
+One of the questions for this review asked for a good start and secrets for it. I would like to answer to that with a simple list of questions referred to as basic three questions from "the LIST" (resembling http://senseis.xmp.net/?Shygost):
+
+1. Am I ok? - Are my groups ok or can they be hassled?
+2. Is the opponent ok? - Can groups be "hassled" (put on pressure to live or escape) or chased to get profit?
+3. Are there undecided areas? - big areas that not yet became solid points for one of the players
+
+One might say, this is silly, but if you manage to apply this questions for each and everyone of your moves, it has the positive effect, that you don't have weak groups. It will take some time to keep up the discipline to apply it on every move, but it's very helpful when you search for your next move.
+
+The list does not spit out a move, but it answers the question what the next move should do, what it should aim at. Then you search for a move to fulfill that aim. This was for an introduction. Because there's more to it, the review contains examples about how to use the list.
+
+This list takes the "desire" of the stones into consideration. What do the stones (your army ;) want on the board. That is about efficiency: bringing your stones on the board to work together.
+You may ask what this "desire"-of-stones-thing is. Some desires in this position as examples:
+- Ws desire is to make a 3-4 shimari (corner enclosure) facing the right with 'C' or 'D' for example
+- The desire of such a shimari would be to make an extension along the top (with 'E' or 'F')
+- Bs desire is to form a double-wing setting up a moyo with 'A' or 'B' for example. Those points could be considered miai (if W takes one, B can get the other and vice versa). But in fact, the point 'A' or 'E' is more desirable for B, because it is a point wanted by both players. It has two purposes: it serves as extension AND it denies a desirable extension for the opponent. The point 'B' would be also an extension for W, but around 'A' is better, as that serves better with Ws potential shimari at the top.]
+
+(;W[dj]LB[dc:A][nc:D][gd:C][jd:B]C[JUG: W also plays for a moyo-based strategy. 'A' (wD17) is placed low (3-4). A moyo is better built with high stones (4th line) aiming for more influence, though the 3-4 is ok. W has to be aware that countering Bs moyo with another moyo, W can quickly fall behind as B had the first move (see next var).
+
+A better move for B would be 'B' or 'C' as this attacks also Ws top left corner and helps in enlarging Bs moyo.]
+
+(;B[de]LB[dc:G][fd:E][ce:F][cg:C][dg:B][ch:D][dj:A]C[JUG: a standard approach to a 3-4 stone.
+It is common to approach a 3-4 stone, but playing this move in the first place as B is not following a moyo-strategy initiated with the san-ren-sei.
+
+The first occasion to apply the three questions to search for Ws next move to Bs approach:
+
+1. Is W ok?
+At this time we only have single stones, which don't count as groups. Stones can be taken into consideration, but here it's not needed. -> so yes, W is ok.
+
+2. Is opponent ok?
+Bs right stones are ok. The issue at hand is Bs approach, which can be hassled if more pressure is put onto it. -> so no, opponent not ok and Bs approach is the next target.
+=> put pressure on bD15 is the aim.
+
+But how? An approach / invasion / reduction move wants to settle a group / make a living group / escape lightly while reducing. So the techniques to be used are: deny B a base or block Bs escape (taking away a running direction in a way making profit).
+
+As we now have the aim, let's look out for a move to achieve that goal. For that you can ask more questions:
+
+1. Are there any W stones, that can help in attacking?
+2. Are there any W stones, that can be helped while attacking?
+3. Are there any B stones, that can be attacked (or hurt) at the same time?
+4. Is there a way to attack AND get territory?
+
+for 1) yes, 'A' is in the vicinity. That stone can help. A move played from that side (e.g. 'BCD') is therefore an attack AND helps 'A' to settle AND could make the side more solid forming potential territory (three purposes).
+for 2) not really, except 'A', that can be made more stable and resilient
+for 3) no other B stones here
+for 4) as (1)
+
+A move like 'E' helps only one stone (wD17) and forms territory at the top, so only two purposes.
+So a W pincer would be more desirable. How to choose between 'BCD' ?
+- 'CD' brings the 'A'-stone down on the 3rd line AND takes Bs base away, 'C' also threatens to connect under with 'F'
+- 'B' makes escaping a bit harder but allows B also more options to settle.
+=> 'C' puts up more pressure AND allows connecting to wD17
+
+Finally we have a move that fulfills three purposes. If you count up the potential connection to 'G' it makes up four.
+So by applying the List, we logically reasoned a move. It's a powerful tool, once you get used to it.]
+
+(;W[fd]LB[cg:B][dj:A]C[JUG: this is ok, but with Ws 'A'-stone in place, a pincer looks much better, putting more pressure on Bs approaching stone. For example with a move at 'B' (see var before).]
+;B[cc]C[JUG: standard move initiating a joseki-sequence (joseki = known sequence that results in a fair result for both sides). A quick reference you can find at http://senseis.xmp.net/?Joseki. A more larger dictionary you can find in books or freely to download as Kogo's Dictionary at: http://waterfire.us/joseki.htm.
+Those are nice references to look them up after your played your game and review it. Search for joseki that would have helped better.]
+
+(;W[dd]LB[cb:A]C[JUG: this is not good, because it helps B to much to make a base for Bs group. This is a move, that B wants W to make, so B can play bC16.
+A joseki variation would start with 'A' instead (see previous var)]
+;B[cd]TR[dc][dd]C[JUG: Now Bs shape is good according to the proverb "play at the head of two stones" (the marked stones). So W forced B into making good shape. Normally we try not to help our opponent. As W was the one with the upper hand (more stones) in the area, this already is a success for B.]
+;W[cg]LB[dd:A]C[JUG: this is too close and forces B to live, leaving a weak stone with Bs next move (as in the game).]
+;B[cf]LB[fd:B][dg:A]C[JUG: good move for B, and as B has touched a weak stone, normally it's good to strengthen it with 'A' for example. But that leaves the 'B'-group alone while B is strong and alive in the corner. 'A' is also a good point for both (a shape move).]
+
+(;W[qc]LB[hc:E][ic:F][fd:A][id:C][jd:B][cg:D][ch:G]C[JUG: Ws leaves back a weak stone (wC13) and the F16-group, that can be subject to an attack, so this is way too early. Also with bQ10 in place, this would make a good wall for B (see numbered joseki in next var).
+
+In general this 3-3 invasion is not urgent as there are so much undecided areas open yet.
+There's a proverb: "play urgent moves before big ones"
+URGENT is to help your 'A'-group, while wR17 is only big. BUT it's not that big, if B attacks your 'A'-group making up profit on the other side. Never allow your opponent to hassle your groups making them weak. To make your groups then safe, your opponent can put pressure on it while making territory at the same time. In the end this can loose you more territory thatn you gained from an attack with a move like wR17.
+
+To avoid that, use the List:
+
+1. Am I ok?
+- 'D' is not ok, but a single stone as are the other on D10 and D4 (this is a weakness as later also a B clamp at 'G' could bring a good result)
+- 'A' is not ok: it doesn't live yet, it has two direction to flee, but B can block from the right forcing W to live small or run. Your group can be hassled.
+=> so helping 'A' is the aim
+
+More questions:
+- Can other W stones be of help? no
+- Can other W stones be helped? no
+- Can W take territory while helping 'A'? yes (top side). That also denies B an extension here to build up a moyo for example with one of 'BCDE'.
+
+That's one of the secrets. Don't create weak groups, so you have time to attack the opponent or get big points!]
+
+(;B[qd];W[pc]
+(;B[rc]LB[oc:A]TR[pd][qd]C[JUG: this is unusual by B and not good, it allows W to get the good point 'A'.]
+
+(;W[oc]LB[rb:A]C[JUG: Very good
+'A' first could be worth while (see var before).];B[qb]LB[lc:C]
+[ld:A][od:B]C[JUG: this is insignificant. That's a yose (endgame) move. It's big, but ends gote (B loose the initiative).
+W could even ignore this and take 'A' or 'B'.or 'C'. 'C' looks good, because that longs for Ws 'D'-group making a B invasion less likely.]
+;W[pb];B[rb];W[lc]C[JUG: good];B[jc]LB[hc:A][lc:C]C[JUG: B is greedy, this is not good. 'A' would make a better point for B as that plays near the weaker group and not near the strong W group 'C'.]
+;W[hc]C[JUG: now B helped W to settle and make his group healthy.]
+;B[je]LB[jb:A]C[JUG: if needed, W can even connect under with 'A']
+;W[nq]LB[jp:A]TR[dj][dm][dn][do][dp][ep][fp][gp]C[JUG: good, 'A' would have been an alternative forming a double-wing with the bottom left corner, but wO3 is more active.]
+;B[kq]LB[qn:A][jp:D][lq:E][qq:C]C[JUG: this is an old joseki that is not played any longer by the professionals (for B simply one of 'ADE' would be an easy way).]
+
+(;W[pq]LB[qn:A][qq:C]C[JUG: touching a weak stone (bQ4) is not good, this would also allow B to make a wall surrounding W in the corner and take points on the right side in exchange (see next var).
+
+The valueable side for B is the right side, so W would like to spoil Bs plan to get the right side with a double pincer (double kakari) for example at 'A' or the natural 'C' (for examples see var before). 'C' makes easier variations, If unsure how to play double approaches.]
+
+(;B[qq]C[JUG: good for B, there's no good continuation for W without giving B a good result.]
+;W[pr]LB[ql:A]C[JUG: Bs valueable side is the right side, living small at the bottom would play into Bs hands. So this is too submissive, but it can't be helped now after wQ3, which was the initial problem-move in this situation. Check out some joseki in Kogo's Dictionary to get a feeling for some joseki, though don't memorize them, try to make up a healthy group while not helping the other too much.]
+;B[qr]
+(;W[lr]C[JUG: the aim should be "not getting surrounded", so get out (see var before).]
+;B[oq];W[or];B[op];W[np]LB[mp:A]C[JUG: 'A' might work too, but this seems ok]
+;B[lq];W[kr];B[mr]C[JUG: forced W to live, so bad reading by B]
+;W[mq]C[JUG: forced];B[jr];W[ms]C[JUG: good, W is alive. So W can turn his interest somewhere else.]
+;B[jp]LB[iq:B][jq:A]C[JUG: a solid connection with 'A' would have been better for B as W now has a peep at 'B' (wJ3).]
+
+(;W[nn]LB[iq:A]C[JUG: the peep at 'A' first makes B heavy (see var before). A "heavy" group is not easily given up and most often has none or only one eye.
+
+wO6 is helping B as it is no immediate threat to any of Bs group, it threatens to invade the right forcing B into protecting it.
+As W was alive at the bottom, W could have invaded directly instead of this forcing move (see var before).]
+;B[pn]
+(;W[nl]LB[oc:C][cd:K][fd:B][qd:G][je:H][dj:E][bl:I][pn:F][dp:J]
+[kq:A][nq:D]C[JUG: this is not doing much. The valueable territory is at the corners and side. The center is least valueable. If open everywhere the center can be reduced easily, so this move is not urgent.
+
+Does B need to answer to this W move ?
+Not at the right as this is stable enough for now (it's big, but nothing can get killed). Urgent for B is to help his 'A'-group, because it's weak. For a (stronger) player loosing sente (as it is the case here), is horrible. That's why stronger player rather sacrifice some stones than give up sente.
+
+Use the question-list to check what to do:
+
+1. is W ok ? for that count your groups (in mind): BCDE (let's 'E' consider a group this time)
+- 'B'-group ok? yes, can connect to 'C'-group (wK18), escape into center or make two eyes
+- 'C'-group ok? yes, can connect to 'C'-group or escape into center or make two eyes
+- interesting would be how you feel about a B move at bK18 ... giving B options to launch an attack on both W groups, so W groups at top could get hassled, but not severly as also Bs group there isn't settled yet, so no big danger here.
+- 'D'-group ok? yes, can make 2 eyes
+- 'E'-group ok? yes, can get hassled a bit, but has room at side, and enough running directions to run
+
+2. Is B ok ? mark B groups (in mind): AFGHK
+- 'A'-group ok? no, no base yet (not alive), only 2 directions
+- 'F'-group ok? yes, plenty of room to make eyes
+- 'G'-group ok? yes, easy to make eyes
+- 'H'-group ok? no, it's not alive, but it has 3 running directions.
+- 'K'-group ok? yes, lives, no problem to make eyes
+=> so 'A' and 'H' group would make good targets: 'A' is weaker as it has fewer running directions and is heavy making up a bigger target => aim is to attack 'A'-group
+
+How to attack?
+- Can other W stones help in the attack? yes, 'J'-stone can give support, 'D'-stones can put up pressure from the right
+- Can other W stones be helped? yes, strengthen 'J'
+- Can other B stones be hurt? no
+- Can W make territory while attacking ? yes (bottom side, center). Proverb "first corner, then side, then center" -> so side first.
+
+Which move to attack?
+- Are there any weaknesses in the 'A'-group? yes, there's a peep at wJ3
+=> see var before as example];B[fq]C[JUG: B happy to get this point
+
+When i would be asked, I would consider wO8 one of the loosing moves. Giving up this sente, was missing a big chance (to attack Bs weak group and gain profit on the attack).]
+
+(;W[cn]LB[iq:A]TR[cg][dj]C[JUG: makes a nice wave-pattern with marked stones) and therefore solidifies the left side, but an immediate peep could be considered (see var before)]
+;B[dr]
+(;W[cq]C[JUG: this is a very big move, but W can ignore bD2, if needed to tenuki or counter-attack (see var before).
+It's most often good following the standard joseki sequences, but carefully think at every move, if taking sente elsewhere could not be better even if your opponent then gets a big move. It's an exchange then (furikawari).]
+;B[cr]LB[gn:B][hp:A]C[JUG: this is a endgame-move and not good for B. 'A' or 'B' would have settled Bs group once and for all and Bs group would be out.]
+;W[iq]C[JUG: good (though it might be a bit late, see next var). In general, a peep like this is not always good, as you may need to answer to moves like bJ4, but here it's ok, but it will start a heavy fight as there already are so many B stones around.]
+
+(;B[jq]
+(;W[hp]LB[gq:C][hr:A][ir:B]C[JUG: the idea of separating B into two groups shows good thinking, but B can simply connect with 'A' or start a fight with 'B' (see next vars).
+W at 'C' could have worked better (see var before).]
+(;B[fo];W[hn];B[fm];W[jn]LB[hl:C][io:B][hr:A]C[JUG: in principle this is a good shape if you are in open space, but B has way too many stones around here and so W can get cut, if not being careful. Check out a play of B at 'B' (see next var). So jumping out with 'C' is better till you have enough running directions to stay out of trouble.
+Actually B missed that he can still connect with 'A' and Ws attack would have failed.]
+
+(;B[mo];W[no];B[kn]
+(;W[ln]LB[kn:A]C[JUG: this goes against the principle of separating stones: the 'A'-stone (bL6) separates wK6 and wM6, so is not a good shape.]
+
+(;B[jm];W[km]LB[hn:D][io:C][no:E][jp:A][hr:B]C[JUG: the original aim is the 'A'-group, but B has 'B' to connect at any time or 'C' to swallow up W. So B has several miai points to get a healthy group. The one with a weak group here is Ws 'D'-group. So there's no good outcome for W.]
+;B[in];W[ko]LB[hn:A][nn:B]C[JUG: This only captures a single stone and is also on the side of the strong (alive) 'B'-group, but put 'A'-group in danger.]
+;B[jo]
+(;W[kn]LB[im:B][hn:E][io:C][br:A][hr:D]C[JUG: this is protecting a single stone (one point) and is gote (giving up sente). Even taking 'A' now would be about making 7 points (though this is just an illustration, you wouldn't take that move now). It's an endgame move and also gote, but much bigger.
+
+W propably played wL6 to cut at 'B' or 'C', but B can now simply connect with 'B' and then have a target 'E' to attack. W had a ponnuki, so if B catches it would be a ko. The other thought here is to save what can be saved (see var before) or to come back into the game.]
+;B[ho]
+(;W[im]LB[hp:A]C[JUG: giving up on 'A'];B[io]
+(;W[kk]LB[je:D][hm:C][jm:B][hp:A]C[JUG: this is much too slow and gives up on 'A' and leaves a weakness at 'C' (double-atari). Sometimes capturing (here 'B') is better to remove the aji.
+
+The idea now should be to attack Bs other weak group 'D' (see var before as example).
+This move indirectly also attacks 'D', but is playing from the side of Ws strong group and makes up not much profit. Bs 'D'-group still has 3 running directions and B has sente now.
+
+One idea of attacking is to drive your opponent into a strong position. W is not (very) strong in the center, but surely stronger than B is.]
+;B[ld]C[JUG: wL9 is not pressuring enough giving B the chance to make a healthy group.]
+;W[mc];B[nd]C[JUG: B misses the point, this is greedy]
+(;W[kb]C[JUG: too easy on B];B[nc];W[nb];B[md];W[jb]C[JUG: W lives, but B has sente again and being pressed down to crawl on the 2nd line is not making many points]
+;B[og]LB[bg:A][mj:C][nj:F][qj:E][cl:B][ql:D]C[JUG: Also B is frightened to loose too much territory. This is a very big move. B could have chosen 'F' to enlarge his moyo. Directly using thickness (with Bs wall on line 16) is not good (goes against proverb "don't play near thickness", which also applies for own stones/walls).
+
+Overall it looks equal, though B looks more settled and seem to have more potential to make territory. Still, there are undecided areas that can be engaged with invasions or reductions: ABCF for Black, DE for White could be worth a try.]
+;W[ki]LB[ma:3][fb:2][bc:1][mc:D][rc:N][cd:L][fd:C][nd:M][dg:H]
+[qg:4][ci:11][hi:12][mi:13][dj:B][pj:O][cl:10][ql:5][im:J][km:F]
+[bp:9][dp:A][np:E][fq:R][iq:K][jq:Q][qq:P][rq:6][br:G][hr:8]
+[ns:7]TR[kk][nl][nn]C[JUG: this (wL11) is too slow as were the other three triangled-marked stones. What does this move threaten or aim at?
+- it attacks no group.
+- Does it make territory (in the center)? no as B has 4 directions (D15, K15, P13, F7) from where to reduce the center from the outside.
+So building territory is not enough. When this is the case, destroying opponents territory is the alternative (or killing a group, if there is a weak one to target).
+
+Let's apply the question-list instead of wL11:
+
+1. Is W ok? mark the groups (often a help is to do it with a direction, e.g. clockwise instead of wild jumping): ABCDEFJK
+- 'A': should be ok, enough room to make 2 eyes (for now), could get hassled a bit with a B invasion around area 10 attacking lower group AND top stones. B at 'G' (bB2) is a big move (about 7 points)
+- 'B': still single stones, but the game is in a stage where every point starts to count. As wC13 is weak, B could target this, so could be ok
+- 'C': ok (alive). 'D': ok (alive), 'E': ok (alive), 'F': consider it connected to 'E' (so alive) and ok
+- 'J': single stones (no group)
+- 'K': dead stones (no group)
+=> 'B' could need a hand (taking the shape point wD13 'H' for example), but it would be a gote-move, sente for B again. So the left side is weak: a reinforcement would be good, but that's gote for W. So let's check the 2nd-question too
+
+2. Is B ok? (marked groups clockwise): LMNOPQR
+- 'L': ok (alive), 'M': ok (strong, no way to attack wall), 'N': ok (alive)
+- 'O': ok (connected to top)
+- 'P': ok (alive)
+- 'Q': should be ok, W has too many cutting points (H7, G6)
+- 'R': as 'K'-stones are dead, this group can be considered as one with 'Q'
+=> so all B groups are ok
+
+3. Are there undecided areas left? (marked all areas undecided and settled areas with numbers): 1-13
+- identify settled areas for B: 1, 4, 6, 8
+- identify settled areas for W: 2, 3, 7, 9
+- that leaves undecided areas (areas that are not settled yet, areas where the owner is still unclear): 5,10,11,12,13. What's considered an undecided area or not comes with playing experience.
+
+Now you need to analyze the characteristics of these areas:
+- area 12 and 13 are in the center: territory in the center can only to be expected to be shared between the two players in this game at best (propably B can reduce it more than 50%) -> so uninteresting
+- area 11 is smaller than area 10, a move to build it is gote in this case, and area 10 eventually still open for an invasion (diving deep into enemy territory trying to live or escape with a group) or reduction (a shallow reduction from outside the enemy territory)
+- defending area 10 is big, but gote and area 11 still open for reduction
+- area 5: wO8 can give a hand to support the invasion, going into this area is within the belly of the beast, so risky, if unsure if W can make a living group or escape, if invasion successful it would be a great deal of damage to B
+=> so area 5 is the one to engage
+
+... to be continued in the next var ...]
+(;B[dl];W[cl];B[ck];W[dk];B[bl];W[cm];B[cj]
+(;W[el]LB[dl:A]C[JUG: the B stone 'A' may separate Ws groups, but only if B survives at the side (see vars before)]
+;B[di]LB[bh:A]C[JUG: allowing this hane is painful for W as now the 'A'-area seems to become B territory, which would be a huge loss of about 15 points or more]
+;W[pl]C[JUG: right idea to invade, but to shallow. W has to inflict greater damage.]
+;B[qm];W[qk];B[qj]
+(;W[gn]LB[rk:A]C[JUG: 'A' right away gives good prospects to jump into Bs right side above or below]
+;B[fn]
+(;W[hl]LB[cm:A]C[JUG: this does get not many points, W needs to make points for himself or destroy points of opponent (see var before as example). Try using the question-list to determine next aim / move ...
+
+- is 'A'-group alive? can it get hassled?
+- is there some B group that can be attacked? ...];B[fl]
+(;W[hi]LB[cf:E][ch:B][cj:C][rk:A][fl:D]C[JUG: 'A' first is bigger, this is a passive move, returning sente to B.
+If you want a fight, 'B' could be a way aiming to separate Bs 'CDE'-groups (see var before).]
+;B[ch]
+(;W[eg]LB[dg:A]C[JUG: if here, then better 'A', but after bB13-connection, W has another 2-stone-group to look after (see var before)]
+;B[dg]LB[eg:A]C[JUG: 'A' now weaker, and B got 5 more points at least]
+;W[gg];B[bo]C[JUG: not a very serious attack, B is a bit too ambitious (see next vars)]
+
+(;W[bm];B[bk];W[co]
+(;B[bp]LB[bq:A]C[JUG: B at 'A' instead would be more serious]
+;W[bq]C[JUG: good]
+(;B[bn];W[an]C[JUG: B misread];B[br];W[aq]C[JUG: next 4 moves you see how B leads the way, W only follows ("blind man walking").
+You have to look out for moves, that are stronger than the ones B made to break the line of sente.]
+
+(;B[mi]C[JUG: also B missed a chance to kill (see var before)]
+;W[mj]LB[mi:A][rk:B]C[JUG: was 'A' such a big threat? What about W at 'B' instead? Would B ignore this?
+wS9 should be a stronger sente than bN11 forcing B to answer, or the damage would be greater than what B could do with his 'A'-stione.
+
+W follows ...];B[ok];W[ol];B[nj];W[lj]C[JUG: W follows];B[hd]
+;W[gc];B[db]LB[cm:A]C[JUG: all the time B missed the chance to kill 'A']
+;W[eb];B[ec];W[ed];B[ea]C[JUG: this is greedy]
+(;W[fb]LB[cb:A]C[JUG: This move is too submissive. B at 'A' would be normal endgame. Always look, if you really need to answer with such calm moves. Use your reading skills to check out other moves.
+What about W at 'A' instead here for example (see var before).]
+;B[cb]
+(;W[qs]LB[gn:B][gp:A]C[JUG: still there are some little sequences starting with 'A' (see var before)]
+;B[rs]
+(;W[qp]LB[qo:B][rp:A][ps:C]C[JUG: This doesn't work for W. B at 'A' or 'B' would be correct (see next vars).
+W at 'C' would keep sente and be the normal continuation (see var before).]
+
+(;B[ps]
+(;W[po]LB[qo:A]C[JUG: this captures some stones, but in gote (loosing sente). Always try to find the best move.
+W at 'A' would be really dangerous for B (see var before).]
+;B[qo];W[oo];B[rp];W[lg]LB[jg:B][rk:A]C[JUG: 'A' first bigger (proverb "first corner, then side, then center"), so side before center. If a move in the center, then better at 'B' as that threatens wM13. But 'B' is smaller than one might think.]
+;B[jg]TR[kh][lh]C[JUG: B threatens to cut and reduce the center]
+;W[kh]
+(;B[kf]LB[mg:A]C[JUG: B mistake, B at 'A' would be protecting the valueable part]
+;W[mg];B[nh];W[nf]LB[od:A]C[JUG: B at 'A' would be better (staying connected)]
+;B[of]C[JUG: another mistake by B as now W can cut ...]
+(;W[ne]C[JUG: This missed a big chance to cut B (see var before) and turn the game in Ws favour.]
+;B[od];W[go]LB[gp:A]C[JUG: better chances with 'A' to bring complications on B]
+;B[gp];W[eh]LB[rk:A]C[JUG: biggest move is still 'A'];B[ei]
+;W[fi];B[ej];W[ek];B[fk];W[em];B[en];W[dm]C[JUG: good. B missed his chance to kill]
+;B[ef];W[ff];B[hk]
+(;W[il]LB[jm:A][as:B]TR[hl][im]C[JUG: this forms an empty triangle (with the marked stones). This is a bad shape, because the played move does not contribute with a liberty (play bA1 for small description).
+
+With the aji of Bs 'A'-stone a  squeezing-sequence like in next var is possible.
+Better to remove the aji of 'A' by capturing it with wK8 (see vars before).]
+
+(;B[ik]
+(;W[jk]LB[jl:A]C[JUG: capturing still better to remove the stones aji as you'll see later.
+Also see vars before as demonstration why an empty triangle is bad.]
+;B[hm]
+(;W[rk]C[JUG: very good];B[rj];W[sn];B[ql]LB[rn:A]C[JUG: a B forcing move, normal response is at 'A']
+;W[pk]
+(;B[so]LB[rn:A]C[JUG: B at 'A' would be normal (see var before).]
+;W[nk]LB[sm:A][sn:B]C[JUG: this may be a forcing move, but B at 'A' annihilates Ws 'B'-stone]
+;B[rn]
+(;W[sm]LB[nk:B][sl:A]C[JUG: this doesn't help, B can simply capture with 'A'.
+
+When you started one plan, then stick to it.
+At least check, where you can get more profit: W played 'B', then answered to Bs bS6. Why not continuing with the plan around 'B' ? (see var before)]
+;B[oj];W[ic];B[kc];W[jd];B[kd];W[id]LB[jd:A]C[JUG: before making a move (here the previous 'A'-move), check if you end sente or not. If B needed, B could have taken sente now.]
+;B[ie]LB[gl:A]C[JUG: 'A' follows the endgame-sequence outline in next move #182 (read there first)]
+
+(;W[he]LB[fa:C][la:6][qa:B][bd:1][ee:D][oe:J][kf:5][hg:9][rg:2]
+[sj:A][al:L][gl:E][jl:F][mm:7][sm:M][co:8][eq:O][qq:N][sq:3]
+[ar:I][gr:4][js:K][ks:H][os:G]C[JUG: wH15 is capturing one stone only and it ends gote. The game now is in yose (endgame-stage). You have to look out for big remaining sente-moves (as now the value of sente has decreased to a few points), each sente-move must make as many points as possible.
+
+In general, it's good to make a count-estimation, who is in lead from time to time. This let you decide between two basic strategies:
+- if you are ahead in points, you only have to bring the win home. That's about "how to win a won game". The other will try invasions, make things complex and you only have to answer calmly securing your lead. Don't get greedy. Read carefully and bring your win home.
+- If you are behind in points, the roles are reversed. Then playing calmly will loose you the game. So in this case you have to make it up. At endgame stage it's harder to reduce a large lead of your opponent. Carefully read out the health status of each of your opponents groups: are they really alive?, can they be reduced in sente (or gote)?, etc.
+
+Let's count here (analyzed without wH15 made); numbers mark areas of solid and potential territories:
+- Bs: 1, 2, 3, 4, around 5
+- Ws: 6, 7, 8, some around 9
+
+Counting the areas (at open borders assume equally shared borders by simply descending to the edge):
+- '1': 24p
+- '2': 28p
+- '3': 3p (assuming it's alive and without the 'M'-stones)
+- '4': 22p (including wG6-stones and bH9-stones connected)
+- '5': 1-2p maybe
+- '6': 18p
+- '7': 18p (assuming B can connect to bN5)
+- '8': 10p
+- '9': difficult to estimate as it's so open, so assuming it's shared between the players: 6-8p for W at best
+
+That makes:
+- for B: 24+28+3+22+2 + 1 prisoner = 80p
+- for W: 18+18+10+8 + 5 prisoners + 6.5 komi = 67.5p
+=> So W is behind by about 12 points at the moment
+
+In fact W can't win this game any more, not only of the 12p difference but also because B has more absolute sente-moves than W has (sente-moves that W must answer). That means, W has more weaknesses left than B has. There is too many aji left, that B can use to threaten the life of Ws groups:
+- B at bA8 is sente, as bA7 would kill W if unanswered
+- B at bG8 is sente, because of the aji of bK7, W must answer with wK8. bG8 allows to connect to bH9 and prevents wG8, threatening to cut off bH9-stones. So it's a big reverse sente for B (reverse sente = a move that prevents a W sente move).
+- B at bQ19 is sente
+- B at bL1 can be considered sente (not life threatening, but big)
+- B at bT8 is not sente, but makes bR3-group unconditionally alive and is very big. B has "capturing wT7" and "capturing wR4" miai for making life, only if W gets both (wQ4 and connect wT7) S5 would be a false eye, leaving the B corner killable. However that would need 3 moves in a row, so B can be considered alive. The miai-concept is nothing more than having a "plan B" (another option) if you are trapped.
+- In constrast W doesn't have such strong sente-moves. So whatever move W takes, B can overrule it with playing one of the life-threatening sente-moves and get all the big points, while W has to answer to them.
+
+For endgame you have to check all the borders of territories for moves that get profit and their characteristics: is a move sente, does it prevent a sente move (reverse sente), is it gote, will it end in sente. Beside of that, you have to read ahead how many points can be gained for those moves and also how many points your opponent would gain if played first at a specific area. Then you compare the two local end-positions. The difference in points is the value of having the first move in that particular area.
+
+After that analysis you have a list of areas and moves, their characteristics and value. Then you can order that list by characteristic (double sente, sente / reverse sente, gote) and value and know in which order you have to play your moves. In such analysises it's important that you also search for the best move of your opponent and not moves you want him to make. In fact it's good if you always apply that attitude in your reading. Hoping for mistakes of your opponent does you no good for becoming better. When you know a move does not work, don't use it, but search for moves that do work.
+
+Let's check, what W can do: letters mark areas (not moves) that need consideration for endgame-moves: ABCDEGHIJLO.
+- 'A': B has bT8, bT9 or bT10 as possible moves. bT8 captures 2 stones, makes 'N'-group alive, but may end gote, if W answers at wT9 -> bS8, then wT10 is a big sente (see next var on bT8/bT9 as example for Bs best shot here).
+What is best for W here? Play at bA1 for vars. Comparing best W first at wT9 or wT10 with bT9 this gives a values of 2 points. if W starts, W end up sente (or good follow-up), if B starts, B ends sente (as outlined, W may take sente, but Bs follow-up is big too, so let's assume this as ending for sente for B too). That makes a move here double-sente (sente for both players). -> W sente, B sente, 2 points
+
+- 'B': bQ19 is sente as is the follow-up of bP19 also ending in sente. wR19 or wQ19 is suicide (see vars before). wP19 would be the move, but is gote. As outlined in the vars before, a W move here does not gain anything, so it's Bs right to engage here -> W gote, B sente, 3 points
+- 'C': bF19, wG19, bD19 (W sente) compared to wF19, bD19 (W sente) shows a value-difference of 2 points -> W sente, B gote, value 2 points
+- 'D': bE15, wF15 or better tenuki (W sente) compared to wE15, bD14 (W sente) -> W sente, B gote, 2 points
+- 'E': bG8 (atari), wK8 (B sente) compared to wG8, B can answer with bG9 or bG7 (play bB1 now to check vars) -> W sente, B sente, value 1p
+- 'G': bP1, wO1, bR1 (W sente) compared to wP1, bR1 (W sente, but B could tenuki instead as this can be a ko) -> W sente, B gote, 2p
+- 'H': bL1, wO2 (B sente) compared to wK1, bJ1, wL1 does not work because of N2-aji, so W only have wL1, bK1 (atari), wO2 (B sente) -> W gote, B sente, 1p
+- 'I': bA2 (W sente) compared to wA2 (later bB1) -> W end in gote, B end in gote, 2p
+- 'J': bP15 (W sente) compared to wP15, bQ15 (W sente) -> W sente, B gote, 1p
+- 'L': bA8, wA7 (B sente) compared to wA8, bA9, wA7 (B sente) -> W gote, B sente, 1p
+- 'O': bE3 (W sente) compared to wE3, bD3, wE4, bE2 (W sente) -> W sente, B gote, 1p
+
+Brought into order: double-sente first (moves ending sente for both, those are valueable for both), then sente and reverse-sente (ending gote for W, but sente for B), then gote makes the following list:
+- double sente: E (1p), A (2p)
+- sente + reverse-sente: O (1p), D (2p), J (1p), B (3p), C (2p), G (2p)
+- gote: I (2p), H (1p), L (1p)
+
+Why 'E' first? 'A' first may be possible too, but 'E' might be a stronger sente than 'A'.
+Why 'H' not reverse-sente? Could also follow move 'O', but 'I'-move is bigger and because a play at 'H' is Bs right.
+Why 'O' before the others? 'O' is a stronger sente and will not be ignored.
+
+As this moves are played, also B does this analysis. With each move the characteristics and value can change for areas, but you don't need to do this whole analysis on all moves again. Only on those where a move have been played to recalculate a good order of moves to do.
+
+You may say, that reading this out all in your head while playing seems a big job and you are right about that. But with time you will get better at it. That's also the reason why computers play so good in late endgame. It's pure calculation.
+
+Check out the var before starting at wG8 for a sequence using this analysis.]
+
+(;B[hf];W[ge]C[JUG: now B has regained sente];B[ii];W[ih];B[jh]
+;W[ig];B[if];W[ji];B[ij];W[kg];B[jf]
+(;W[ir]LB[sk:A][gl:B]C[JUG: from inside this is normally not working, but it depends on Bs answer keeping this stones dead (need some deep reading). bK1 is not the best answer here.
+Doing an endgame analysis, 'A' and 'B' are still there (see var before) as big moves.]
+
+(;B[js];W[gq];B[fp];W[fr]C[JUG: this has no hope of living (see next var), but may be worth trying if you can't read it out.]
+
+(;B[gr];W[hr];B[hq];W[jl]LB[le:D][re:G][bi:F][sk:E][dp:H][pp:C]
+[dr:B][er:A]C[JUG: this is not such a good *first* ko-threat. Search for local threats first like 'A' which here threatens to connect to 'H'-group and kill the B corner.
+Other big ko-threats, which also create more (big) ko-threats are shown as: CDEFG
+
+W has good chances to win this ko-fight and close the gap in points, but it will not suffice to win the game.]
+
+(;B[gm]LB[gl:A]C[JUG: B lost 1p, B at 'A' is one point better capturing the 3 W stones in a snapback (see var before). As alternative B can end the ko and would still be ahead, even when the distance is reduced.]
+;W[gq];B[er];W[gs]
+(;B[ip]LB[is:A]C[JUG: a mistake by B, B at 'A' would stop Ws attempt to make life]
+;W[is];B[hq]C[JUG: very good, now here's another chance to live in ko]
+;W[ke]LB[le:A]C[JUG: this is not a good ko-threat as when B captures, B also gained a point. W at 'A' makes a better threat or the ones shown at move #202.]
+;B[le];W[hp];B[lb]C[JUG: a threat big enough (bigger than bottom making life), so W can't ignore]
+;W[mb];B[hq];W[gk]LB[pp:A]C[JUG: there are no local threats any more, so 'A' would make a better one, also one that B can't ignore.
+The value of the ko-threat must be bigger than the value of the ko (when W manages to live at the bottom), which is about 19p.
+
+'A' would be threatening to kill more than 19p, so B must answer as wG9 is smaller than 19p, so B may end the ko and give up the J10-group in compensation.]
+;B[gj]
+(;W[gl]LB[hp:A]C[JUG: propably W forgot the ko, W at 'A' is bigger if it lives compared to B getting one stone with G8.]
+;B[gi];W[gh];B[fj];W[hh]LB[hp:A]C[JUG: W missed a chance of continuing the ko with 'A']
+;B[hp];W[hj]C[JUG: good, but not enough];B[fh];W[fg]LB[sk:A]
+C[JUG: 'A' would be bigger as B can't approach at bF13.];B[fi]
+;W[rf]C[JUG: too much B around. This implies, that B is stupid and makes some silly mistakes. It's no shame to accept a defeat and resign.
+
+This also might cost W a point, as B need not to answer. There's not enough room to live. So if B don't answer, W donated a stone more to B.]
+;B[re];W[qg]
+(;B[qh]LB[rh:A]C[JUG: B at 'A' would steal Ws potential base, but still B would not need to answer.]
+;W[rh];B[ri];W[ph];B[qi];W[pg];B[sh]C[JUG: not needed by B]
+;W[oe];B[pe];W[pm];B[rm]LB[sl:A]C[JUG: B at 'A' bigger];W[sl]
+C[JUG: good];B[sr]LB[pp:A]C[JUG: -1p for B, capturing at 'A' would be bigger.]
+
+(;W[sk]LB[sj:C][rk:A][sl:B][ar:D]C[JUG: this is dame (gives W zero points, it's like passing) as the 'AB'-stone are surely connected. At least W at 'C' would have taken a point from B (see var before), but in gote.
+'D' is bigger, as it threatens 'E'.];B[rq];W[rl];B[ro]LB[pp:A]
+C[JUG: submissive by B, he should better take at 'A'];W[pp]
+;B[ar];W[dq]LB[fa:C][oa:A][ee:B][al:D][lp:E]C[JUG: this is about 2p (C4 and bD3+bE4 making a point at E3). For W moves 'ABCDE' are bigger, especially at 'E' (5p gote).]
+;B[eq]LB[lp:A]C[JUG: this was not needed by B, saves only one point as B can live in the corner with bE1 after wE3. Taking 'A' would be much bigger for B (5p gote) than this 1p gote.]
+;W[on];B[qn];W[oi];B[oh];W[pi];B[ni];W[fa];B[da]LB[pa:A][lp:B]
+C[JUG: biggest move still at 'B'];W[ee];B[df];W[dh];B[bg];W[al]
+;B[ak];W[am];B[pa];W[ob];B[oa]
+(;W[la]LB[lp:A]C[JUG: 'A' was bigger (see var before)];B[na]
+;W[ma];B[qa];W[lp]C[JUG: good];B[ks];W[nr];B[ls]
+(;W[mr]C[JUG: this is ok here, but be aware that this is about one point. If B captures, W can recapture, so this is often a less severe threat than thought (see var before).]
+;B[kp]C[JUG: dame (zero points), like a pass];W[os];B[qs];W[sj]
+;B[si];W[lf];B[do];W[dn];B[eo]
+(;W[cp]C[JUG: not needed now, only if B approaches (see var before)]
+;B[ep]C[JUG: only dame left, all points are made];W[ng];B[me]
+;W[li]
+(;B[rg]LB[pf:A][sf:B]C[JUG: not needed by B as B has miai 'AB' to connect (see var before).]
+;W[mh]C[JUG: good, B missed a point];B[mf]LB[fe:B][gf:A][jj:C]
+C[JUG: another dame by B, B at 'A' would be -1p for W as W later must connect at 'B' or capture at 'C']
+;W[gf]C[JUG: good];B[tt];W[hg];B[ke];W[tt];B[tt]TW[ga][ha][ia]
+[ja][ka][gb][hb][ib][lb][ec][fc][gd][hd][fe][lh][ii][ij][jj]
+[kj][hk][ik][lk][mk][dl][kl][ll][ml][jm][lm][mm][nm][om][bn]
+[mn][ao][bo][lo][mo][ap][bp][mp][op][oq][ns]TB[aa][ba][ca][ra]
+[sa][ab][bb][sb][ac][bc][sc][ad][bd][rd][sd][ae][be][ce][qe]
+[se][af][bf][pf][qf][rf][sf][ag][cg][pg][qg][sg][ah][bh][ph]
+[rh][ai][bi][ci][oi][pi][aj][bj][gn][hn][go][sp][gq][iq][sq]
+[fr][gr][hr][ir][rr][as][bs][cs][ds][es][fs][gs][hs][is][ss]
+C[JUG: summary:
+
+The game was in favour for B as W made it too easy on B in the opening, for example in the top left corner or with wO6 at move #46 helping B to build the right side while getting as good as nothing as compensation; or also at move #100 (too submissive and small).
+Some typical standard joseki might come in handy (top left and bottom right corner was too good for B).
+W missed some chances to attack Bs weak groups.
+The biggest strategical mistakes surely was loosing sente too often (at important stages) and missing some important cuts.
+At move #182 it was clear, the game was over (B too much ahead). Giving up sente 3 times certainly had something to do with that. In the end, there was an interesting ko-fight (move #202 and #209). Even if the game was lost, W stopped playing the ko at move #218.
+
+
+Advice:
+- Focus on not-loosing sente, read ahead a few moves, if a move end in sente or gote. In the game, W has lost important sente at moves #46, #72, #82 and #183. As you saw, the value of having sente can be enormous being able to lead the way and get the big points playing an active game.
+Also carefully check, if a move really must be answered or if you have a stronger sente-move, that your opponent must answer himself or if going out to inflict mutual damage would be acceptable.
+
+- Good reading skills are important, not only to kill groups or make them alive, but also to check if oneself is alive or other can be cut successfully. Apparent this was at moves #89, #97, #127, #134 and in the endgame-stage and in the overlooking of some important cuts. In the reading category also falls the value of aji (the B stone at K7 for example). Try to develop an awareness of your and the others weaknesses ready to explore it. As long as a stone is on the board it might has some surprising effect.
+Improve your reading by solving life & death problems (also with some emphasis on cutting and connecting): good books are "Graded Go Problems for Beginners, Vol. 1-3" by Kano Yoshinori(9p), http://goproblems.com/, or the go problems at http://gobase.org/studying/problems/academy/ (you'll need an account for the latter).
+
+- Try applying the question-list at least at some of the moves in your games. Best if you apply it on each and every move (you then never have weak groups and don't overlook, when the opponent will get too big areas). Furthermore that's the tool to find multi-purpose moves. It's hard at the beginning but with time you do it automatically.
+To decide what's an undecided area or not, comes with experience: play 100-200 games concentrating on invasions, then you get a feeling what works and what does not, getting to know what is an undecided area and what isn't.
+
+- As a general advice i recommend that you review all of your games (at least those that you lost): try to find better moves, where you messed up, alternatives play (also looking out for the best answers of your opponent). Look up other joseki or joseki where you screwed up in some joseki dictionary.
+If you see that a move does not work, it makes you a better player not even to try it and hoping for an opponents mistake. And if you don't understand what was going on in one of your games, get some help from stronger players (get us GTL-reviewers something to do ;-)
+
+- Finally, to get experience with go-concepts you should play games not to win or loose, but to learn something. Stay emotionally detached and try out invasions or other things to get a feeling for it and get more experience with it, then make a review afterwards. Don't play too fast and think about every move, even it looks obvious. There may be even better moves. If you don't see how to win, accept it and resign as the goal was not winning or loosing but learning how to use certain concepts. Review it and start a new one to learn more. Then for some games, play seriously with the will to win using what you've learned.
+
+Hope that review was of some help.
+
+Have fun with this wonderful game!
+
+Cheers,
+/JUG])
+(;B[mh];W[pf];B[rg];W[qf];B[sf]C[JUG: nothing for W]))
+(;W[mh]
+(;B[cp];W[ap]C[JUG: B can't approach from inside])
+(;B[ep];W[cp]C[JUG: no danger, this is about counting liberties of a group (a reading skill)]
+)))
+(;W[sj];B[pf];W[os];B[mr];W[lr]C[JUG: B won 1p if W recaptures]
+))
+(;W[lp];B[na];W[la]C[JUG: no danger]))
+(;W[sj];B[si];W[sk])
+(;W[ar];B[pa];W[ob]
+(;B[oa]LB[eq:A]C[JUG: if B ignores wA2, it can get complicated again for B.
+Better to lean back and take it easy when the other doesn't see that it's hopeless and resign. Simply connecting with 'A' instead would be enough for B.]
+;W[eq];B[es];W[fs];B[gr]C[JUG: another ko at hand];W[bg]C[JUG: W still has some nice ko-threats]
+;B[bh];W[gq];B[ep]C[JUG: local threat to connect];W[dq];B[gr]
+;W[oi];B[oh];W[gq];B[bs];W[as]C[JUG: problem is, this is a multi-step ko as W can't take wG2 (one liberty missing)]
+;B[gr];W[dh]C[JUG: seems to be biggest ko-threat left for W]
+;B[hs];W[df];B[bf];W[ee];B[ag];W[ce];B[be];W[lp];B[na];W[la]
+;B[ks];W[nr];B[pp]C[JUG: B ahead by ca. 8p])
+(;B[eq]C[JUG: B stays surely ahead by 20p. This is a move about "winning a won game".]
+)))
+(;B[as];W[rh];B[bs];W[ri];B[sj];W[sg];B[si]C[JUG: B played 2 times away (+2p for B) and still no room for 2 eyes.]
+))
+(;W[hp];B[al]C[JUG: Bs biggest threat as it threatens W life.]
+;W[am];B[hq];W[pp]C[JUG: threaten to kill the corner];B[sr]
+C[JUG: B must answer or the corner dies];W[hp]C[JUG: B has no big enough ko-threat any more. Bringing the bottom group to life is about 18-20 points, so Bs ko-threats must be at least that big for W to answer the threat.]
+;B[pa]C[JUG: That should be largest ko-threat B has left, which is smaller than the bottom, so W could end the ko bringing bottom group to life and B captures some stones. BUT W has still some big ko-threats, so W can go on playing the ko as Bs remaining ko-threats are less in value with each move B makes.]
+;W[ob];B[hq];W[re]C[JUG: threatens to capture the whole corner and reduce the right side, so the damage would be bigger, so B must answer.]
+;B[rd];W[hp]C[JUG: B may ask himself, where are my ko-threats now? ;-P]
+;B[es]C[JUG: B has this local threat to kill the W group];W[fs]
+;B[hq]
+(;W[sj]LB[re:A][gr:B]C[JUG: now with 'A' in place, W has another good ko-threat, which in size could be equal to his bottom group. Can B ignore this?
+B may take the chance and end the ko now ... check out at 'B'.
+
+Maybe there's even a better ko-threat than this, that B can't ignore, maybe 'C' (wT4), which opens the chance for another ko and is about 18p (see var before). W has more bigger ko-threats than B.]
+;B[hp];W[sh]C[JUG: giving W the chance to do heavy damage (now the game is close, about 5p or so). There's hope for W to win this. W managed to get back in the game. Showing only some chances, it's unsure if it's enough to turn the game as B also has ways to make points. I think, B may still has also good chances to win.]
+)
+(;W[sp];B[sq];W[hp];B[sk]C[JUG: big reverse-sente threat also preventing some collection of W ko-threats here (there are no big threats left for B)]
+;W[hq]LB[sl:A]C[JUG: this is about 20p, protecting at 'A' is about 6p only.]
+;B[gi];W[gh];B[sl];W[ar]C[JUG: now, this is sente, threatening wE3 to kill the corner]
+;B[eq];W[gl]LB[jj:A]C[JUG: threatening 'A', so sente];B[fj]
+;W[ee];B[df];W[lp]C[JUG: 5p in gote];B[rl];W[oe];B[pe];W[bs]
+;B[ks];W[nr];B[fh];W[fa];B[da];W[oa];B[qa]C[JUG: B still ahead by 10p]
+)))
+(;B[is]
+(;W[hs];B[ip]C[JUG: dead])
+(;W[ip];B[hs]LB[gr:A]TR[fq]C[JUG: 'A' is a false eye (because of the relation of bH1 with the marked B stone)]
+)))
+(;B[gl];W[gm];B[hm]))
+(;B[gm]LB[gk:A]C[JUG: B connected]
+(;W[gr];B[er];W[hs];B[fs];W[eq];B[ip]
+(;W[hq];B[is];W[ar];B[es];W[bs];B[gs]C[JUG: not enough liberties]
+)
+(;W[es];B[ds];W[gs];B[hq];W[es];B[is];W[ar];B[hr]C[JUG: too few liberties]
+))
+(;W[er];B[eq];W[dq]
+(;B[gr];W[hr];B[hq]C[JUG: a promising ko now for W, but B does not need this (see vars 2 moves before)]
+;W[pp];B[sr];W[gq])
+(;B[es]
+(;W[hr];B[fs];W[gr];B[is]C[JUG: too few liberties])
+(;W[gs];B[hr];W[hs];B[ip];W[hq];B[is];W[gr];B[ds];W[ar];B[fs]
+C[JUG: too few liberties])))))
+(;B[is];W[hs];B[js];W[gq];B[fp];W[fr];B[er]
+(;W[gr];B[fs]C[JUG: dead])
+(;W[hr];B[fs];W[gs];B[eq]
+(;W[es];B[ip]C[JUG: only one eye])
+(;W[ip];B[es]C[JUG: still dead, no ko there if B doesn't want to]
+;W[gl];B[gm];W[gk];B[gj];W[jl];B[hj];W[fj];B[hh]C[JUG: B can connect]
+
+(;W[hg];B[fh])
+(;W[gi];B[hg])))))
+(;W[gl]LB[hk:B][gn:A]C[JUG: is letting-go of the 'A'-stones now bigger than letting the 'B'-stones cut off ?]
+;B[gk];W[sk];B[sj];W[gm];B[pa];W[ob];B[ks];W[nr];B[hq]C[JUG: B still ahead by ca. 20p, no hope to win this for W. Resigning would be a proper way to end it now.]
+))
+(;B[sl];W[sk];B[rl];W[sj]
+(;B[rh]LB[si:A]C[JUG: B at 'A' does not work in this case by the way (see var before)]
+;W[sh];B[sg];W[si];B[rg]LB[sm:A][qq:B]TR[sg][rh][sh][ri][si]
+C[JUG: B captured 'A'-stones (5 points) and made 'B'-group unconditionally alive, but W has sente and B lost 6 points above marked by triangles (or +1p if W gets wS11, propably W would as that wouldn't be ignored by B).]
+)
+(;B[si];W[ri];B[sh];W[rh];B[sg];W[rf];B[rg];W[qg]C[JUG: painful for B]
+))
+(;B[sk]LB[rl:A]TR[sl][rm]C[JUG: this looks better for B than the var at bT8 as B has bS8 to capture some W stones making another 2 points (marked) and better protected the S12-area. This move is therefore gote for B, if W is willing to give up the 2 stones (which would be 6 points in gote for B: 2 captures stones + S7 + T8) if gets bS8.]
+;W[sl];B[sj];W[rl]C[JUG: if W wants to rescue his 2 stones, B has sente.
+Compared to bT8, this is 2 points better for B remaining sente!
+If you end up in gote, the value of the move must be halfed, as your opponent can compensate that with the points he should get from using his sente.]
+)
+(;B[as]
+(;W[sk]C[JUG: this protects the 2 stones (wT7) as now B doesn't have bT8 any more, and it threatens wT10 taking 6p away from B in sente. The move itself is gote (B need not to answer) and take sente, but it has good follow-ups. Then also wQ4 is sente against the corner as S5 is a false eye.]
+)
+(;W[sj]LB[si:A][sl:B]C[JUG: B at 'A' would be normal. B at 'B' would be too painful for B.]
+
+(;B[si];W[sk];B[ri]C[JUG: W sente])
+(;B[sl];W[sk];B[rl];W[sh]C[JUG: too painful for B]
+(;B[rg];W[rh];B[qh];W[sg];B[rf];W[sf]
+(;B[se]C[JUG: W can take sente])
+(;B[ri];W[si];B[se]TR[rf][sf][rg][sg][qh][rh][sh][ri][si]C[JUG: or like this, W sente, W gained 10p in sente]
+))
+(;B[ri]C[JUG: same result as in first var];W[si];B[rg];W[sg]
+;B[rf];W[sf];B[se];W[rh];B[qh]))))
+(;B[bs];W[gl]
+(;B[gm]LB[gk:A][jl:B]TR[hk][ik]C[JUG: pushing at 'A' now does not work to capture Bs 2 marked stones (go on to see B connect).
+Therefore W at 'B' (wK8) is gote, but wG9 then would allow to capture the marked B stones (play 'B' to check var).]
+
+(;W[gk];B[gj]LB[jm:A]C[JUG: aji of 'A'-stone. Therefore it's often better to remove the stone before]
+;W[jl];B[hj];W[fj];B[gi];W[fh];B[hh]LB[he:B][ie:A]C[JUG: B can connect to his 'A'-group. The counting-analysis assumed there's no stone at wH15, but that doesn't change the outcome that B can connect.]
+
+(;W[ii];B[gh];W[ih];B[hg];W[ig];B[hf]LB[he:B][if:A]C[JUG: B connects]
+)
+(;W[hg];B[ih]LB[gh:B][ii:A]C[JUG: B has 'AB' miai to connect]
+)
+(;W[ih];B[hg]
+(;W[ii];B[gh];W[ig];B[hf];W[ge];B[if])
+(;W[gh];B[ii];W[jh];B[hf]C[JUG: connected]))
+(;W[ig];B[ih];W[jh];B[hg]C[JUG: connected]))
+(;W[jl]LB[gk:A]C[JUG: a W push at 'A' now let's W capture the 2 B stones. B could not even block with bG10 as wF10 would cut those stones, so B not playing at 'A' now would be about gaining ca. 8-10 points in the center in gote. so bG9 now would be a big reverse sente for B. Therefore this can be assumed as W sente.]
+;B[gk]C[JUG: so this must be compared with bG8 in the first place]
+))
+(;B[gk]C[JUG: this would be good for W];W[gm]C[JUG: B sente, W saved 7 points (3 stones+K8)]
+))
+(;B[gl];W[jl]LB[hm:A]C[JUG: 'A' is captured in a snapback, B need not to play bG7 as that would loose one point, so this is about 1p.]
+))
+(;W[qa];B[ra];W[pa];B[oa];W[ob];B[mb]C[JUG: bad aji here for W]
+)
+(;W[pa]LB[oa:A]C[JUG: B later has the same sequence as in the first var, if B gets bR19 (which then would be sente). As there is nothing to gain here when W plays first, a move here is Bs right.]
+;B[qa];W[oa]C[JUG: B sente])
+(;W[gl]C[JUG: if B does not answer, wG7 gains 9 points in gote (with a follow-up on G9 cutting another 2 stones off). So B would answer this.]
+;B[gm]LB[sk:A]C[JUG: wK8 is gote and we still have 'A' now as double-sente next.]
+;W[sk]LB[pa:A][al:B]TR[sm][sn]C[JUG: connecting 2 marked stones with 7p-follow-up with wT10.
+This is a crucial time for B. bT10 is a 7p reverse-sente-move.
+
+An interesting facette is the concept of mutual damage. bT10 is big, but B may choose to tenuki taking sente. Check out at 'A' to threaten some stones ..., which isn't the wisest for B.
+
+B could also play some absolute sente-moves, which W would not ignore, like bA8 threatening the life of Ws group. So there are moves ('A') that may be ignored for mutual damage and forcing moves that like 'B', that would not be ignored. In this case B at 'B' would be a waste, because it would only win one point more. Often it's better to keep such moves as ko-threats (in case you need some). Only when there are no moves left with a value higher than 1p, then moves like 'B' should be taken.
+
+So B at 'A' is sente, but not absolute sente as would be a move at 'B'. So you have to carefully read, if it's worth while to ignore a move or not.]
+
+(;B[pa]LB[mb:B][ob:A]C[JUG: this threatens to capture 4 stones with 'A' and a good follow-up at 'B' in sente. So would W ignore this and go on with wT10? This requires some reading and calculating what produces the bigger (mutual) damage.
+
+Following this branch shows, that wQ19 is not neccessarily bigger than bT10 if W goes for mutual damage ignoring this B threat, because stopping W from intruding in the right would loose B 9p or more in gote and B capturing at 'A' gets only 8 points dependent on far he wants to go.]
+;W[sj]C[JUG: who can do more damage? That's about to decide if to answer a move (forcing move) or not.]
+
+(;B[ob];W[sh];B[mb];W[lb];B[na];W[rg]C[JUG: who did more damage? Often this is a big furikawari (exchange of territory or groups). B gained 11p (5 stones + P19) at the top, but B needs to limit Ws damage at the right, so in the end the W moves made more damage than B gained by capturing some stones.]
+)
+(;B[rh];W[sh];B[sg];W[si];B[rg];W[ob]C[JUG: B lost 6p at the right, W saved his stones at the top, but B has sente now.]
+))
+(;B[gk]C[JUG: wK8 sente would be sente for cutting through with wG9, so this move (bG9) is a double-sente move worth of 8p for the captured stones +saving K7 + wL8 needed to close the boundary, so in total about 10p.]
+;W[jl];B[sj]C[JUG: reverse-sente of 7p, W sente];W[eq]LB[pa:A]
+C[JUG: live threatening of bottom left corner, so forcing.
+if B at 'A' for example now, this could result in an exchange again, but wE2 makes more damage (about 2-3 points more) than B can do at the top, so wE3 is a stronger sente than bQ19 would be.]
+;B[er]LB[fp:A]C[JUG: B must comply and has bE4 later to make another point at 'A' with bE4. So now W sente.]
+;W[pp]LB[sm:A]C[JUG: this is another sente now, because 'A' is connected and S5 a false eye, so wT2 next would kill the corner (game over). So this saves 2 points in sente for W.]
+;B[sr]C[JUG: B wants to stay alive, W keeping sente];W[ee]LB[pa:B]
+[cg:A]C[JUG: using aji of 'A'. If B doesn't answer, wD14 is double atari to bD15 and bD13. Going on you'll see, that tenuki might be working at 'B' for example.]
+
+(;B[pa];W[df]LB[ob:A][ce:B]C[JUG: B might want to ignore also this for taking at 'A' or win a won game and defend now as the danger might be too big, so playing at 'B'.
+Playing a ko would be too great a risk as W is behind, that would be something W gladly would accept.]
+
+(;B[ob];W[ce];B[bg];W[be];B[bd]C[JUG: is the corner alive? B was ahead, B just needed to win a won game, so this might be considered to risky.]
+)
+(;B[ce];W[dh];B[bg];W[ob]))
+(;B[df];W[lp]C[JUG: 5p in gote for W, B sente now];B[pa];W[ob]
+;B[ks];W[nr];B[ep];W[dq];B[hf];W[ge];B[he];W[hg];B[fj];W[gi]
+;B[ih];W[ig];B[jh];W[ls];B[js];W[fa];B[oa];W[mb];B[da];W[na]
+;B[qa];W[oe];B[pe];W[le];B[al]LB[je:B][cm:A]C[JUG: loosing group 'A' is bigger than capturing Bs 'B'-group, so this is sente for B]
+;W[am];B[lf];W[me];B[ke];W[ji];B[hh];W[gh];B[ij];W[jj];B[kg]
+
+(;W[mh]C[JUG: would be a mistake (empty triangle)];B[ng]LB[mf:A]
+C[JUG: W can't connect at 'A' because of damezumari (shortage of liberties)]
+)
+(;W[lh]C[JUG: this is correct];B[gf];W[gd];B[ii];W[fg];B[os]
+;W[ar];B[bs];W[ns];B[qs];W[rm];B[rl];W[sl];B[qn];W[on];B[rq]
+;W[pm];B[ro];W[mh];B[if];W[li];B[ni];W[do];B[eo]C[JUG: better endgames played for both players, putting B in the lead. B wins by about 25p.]
+)))))
+(;W[oj]C[JUG: would B ignore this ?];B[oi];W[ni];B[mh];W[pi]
+;B[nj]
+(;W[ri];B[qi];W[sj];B[qh];W[rh];B[rg]C[JUG: doesn't work for B]
+;W[qg]LB[pi:A][oj:B]C[JUG: using aji of 'A' and 'B'];B[ph];W[rf]
+)
+(;W[oe];B[pe];W[ni]C[JUG: ... or fight a ko])))
+(;B[rn];W[sm];B[so];W[sl];B[pp]LB[ro:A]C[JUG: B alive as also 'A' is an eye]
+))
+(;W[gl];B[gm];W[gk];B[gj];W[jl];B[fj];W[hj];B[ql];W[pk];B[rk]
+))
+(;W[gk];B[gl];W[gj];B[jl]LB[il:A][jm:B]C[JUG: disadvantage of empty triangle (one liberty less), the aji of 'B' came to pass now for B]
+)
+(;W[gl]LB[gn:A]C[JUG: try to save some stones];B[jl];W[gk];B[gj]
+;W[jk];B[gm];W[kl];B[fj]
+(;W[hj];B[hm]C[JUG: W sente])
+(;W[hm];B[hj]C[JUG: W sente];W[rk])))
+(;B[hm]C[JUG: throw-in starts the squeezing];W[gm];B[gl];W[hm]
+;B[ik];W[jl]C[JUG: all in sente for B])
+(;B[as];AB[lk][ll][lm]AE[kh][fi][hi][ki][mi][lj][mj][nj][fk]
+[hk][kk][fl][nl][fm][jm][km][fn][gn][hn][in][jn][kn][ln][nn]
+[fo][go][ho][io][jo][ko][mo][no]LB[hk:2][ik:3][gl:1][hl:C][il:A]
+[jl:4][ll:B][hm:7][im:D][jm:5][in:6]C[JUG: W forms an empty triangle with the stones 'CAD', but stones 'CD' share a liberty, that makes one liberty less compared to the 'B'-group also with 3 stones but with 8 liberties. This can be a huge difference in fights. Often ONE liberty is all that matters in a fight.
+Avoiding empty triangles alone makes you at least one stone stronger.
+
+There are rare cases where an empty triangle is good, for example when killing or living the (bad) shape of an empty triangle doesn't matter if it provides life.]
+))
+(;W[jl]C[JUG: aji (potential complications) is gone];B[ik];W[gk]
+;B[gl];W[gj];B[hm];W[il]LB[ik:B][hn:A]C[JUG: 'A' captured in a snapback, but B lost his 2 'B'-stones]
+)
+(;W[ik];B[hm];W[gm];B[gl];W[hm]LB[il:A][jm:B]C[JUG: B at 'A' captures, all possible because the aji of the 'B'-stone]
+))
+(;W[od]C[JUG: cutting B (separating groups and stones) is a powerful tactic as the separated groups must make life on their own and cannot use the power of their allies.]
+;B[oe];W[ne]LB[ld:A]C[JUG: now 'A' in really big trouble];B[hf]
+;W[ic];B[id];W[kd];B[if];W[le];B[kg];W[ge];B[he];W[rk]C[JUG: let B live small and take sente. Now the game is very close again.]
+))
+(;B[mg];W[kd]C[JUG: there's a cut here too, but it does not do much]
+;B[ke];W[jd];B[id];W[kc];B[ic]))
+(;W[qo]LB[pp:A][qr:B]C[JUG: now 'A' and 'B' are in danger (B may choose to give up one of them to save at least something instead of loosing all).]
+;B[on];W[qn]C[JUG: there are some variations here ... most lead to complete disaster for B]
+
+(;B[rn];W[pm];B[rp];W[po]C[JUG: W connects in gote, B lives]
+)
+(;B[pm]
+(;W[rm]
+(;B[ql];W[po]
+(;B[oo];W[rl];B[rq];W[sr];B[rp];W[ro]C[JUG: B all dead])
+(;B[rk];W[rl];B[pk];W[rq]C[JUG: corner dead]))
+(;B[rl];W[rn];B[ql];W[rk];B[pk];W[sl];B[rp];W[sr];B[ro];W[po]
+;B[rj];W[sk];B[sm];W[sn];B[sj];W[sm];B[rq];W[sq]C[JUG: B dead]
+))
+(;W[po];B[oo];W[rm];B[rl];W[rn];B[ql];W[rk];B[sr];W[rq];B[rp]
+;W[ro];B[sq];W[sp];B[sm];W[sk];B[sl];W[sn]C[JUG: B all dead]
+))))
+(;B[qo]C[JUG: no chance for W];W[rp];B[rq];W[sq];B[ps];W[ro]
+;B[rn]
+(;W[sr];B[sp];W[so];B[sn];W[sp];B[rr])
+(;W[os];B[so]))
+(;B[rp]C[JUG: no chance for W];W[qo];B[on];W[rk];B[rl];W[qn]
+;B[rn]))
+(;W[ps];B[rq];W[rk]LB[gp:A]C[JUG: then engage at 'A']))
+(;W[gp];B[go];W[fp]LB[ep:A][eq:B]C[JUG: B at 'A' or 'B' lead to desaster for B]
+
+(;B[ep];W[eq];B[eo];W[dq]
+(;B[er];W[fr]LB[cn:C][go:B][dr:A]C[JUG: 'A' dead, 'B'-group eyeless and 'C' alive now as 'A'-group will die because of fewer liberties]
+)
+(;B[fr];W[er]
+(;B[es]LB[hr:A]C[JUG: this won't work for B, so B should save what he can with 'A' instead for example
+Reading ahead should reveal, if you can come out good or bad. Then better stop it sooner than later and restrict the damage made.]
+;W[gr];B[ar];W[gq];B[fs];W[ds];B[cs];W[gs];B[ds];W[bs]LB[gr:A]
+C[JUG: just to show the kill, W need not make so many moves as the 'A'-group has more liberties]
+)
+(;B[hr];W[ir];B[is];W[gr];B[gs];W[gq];B[fs];W[es];B[hs])))
+(;B[eq];W[ir]LB[di:D][fm:C][ep:A][dr:E][js:B]C[JUG: now W has 'AB' miai to connect and 'C' has no eyes (maybe can connect to 'D' somehow) and also 'E' not fully alive yet.
+All facts that are revealed checking all groups on their health-status using the question-list using your reading ability.]
+)))
+(;W[cb];B[fb];W[bb];B[gb];W[hb];B[ga];W[fc];B[eb];W[bc];B[bd]
+;W[ca];B[ac];W[ab];B[ad];W[ha];B[ba]C[JUG: seki, 8 points better than the game and W has kept sente]
+))
+(;B[ej]C[JUG: B missed a chance to kill];W[ek];B[em];W[fk];B[dm]
+LB[co:A]C[JUG: Ws 'A'-group dead (B can create a killing shape in Ws group)]
+))
+(;B[br]
+(;W[ap];B[ej];W[ek];B[em];W[dm];B[fk];W[dl];B[fi]LB[dm:A]C[JUG: W 'A'-group has only one eye and no way to connect to safety]
+)
+(;W[fk];B[gk];W[fj]C[JUG: need to connect instead somehow ...]
+)))
+(;B[bq]C[JUG: this is more severe on W];W[bp];B[ap];W[cp];B[br]
+;W[fj]C[JUG: this could have been more painful on W, must run to safety now]
+))
+(;W[bp]LB[br:A]C[JUG: this also has the option to make an eye in the corner and takes a liberty from the B stone]
+
+(;B[bn];W[bm];B[am];W[bk];B[al];W[an];B[ao];W[ak];B[an];W[co]
+)
+(;B[bm];W[bn];B[an];W[co];B[ao];W[am];B[al];W[ap];B[am];W[bk]
+)))
+(;W[dg];B[bg];W[fg]LB[dg:A][dj:B][cm:C]C[JUG: and now B could attack 'A' from the 'B'-side preventing Ws connection with 'BC' to allied stones when then attacking the 'C'-group.]
+))
+(;W[ch];B[ci];W[eg]C[JUG: maybe a better chance for W, but not enough to win the game]
+;B[fi];W[eh];B[ei];W[fk];B[hi];W[hg];B[bh];W[bg];B[bi];W[bm]
+;B[bk]LB[cd:B][ci:A]C[JUG: 'A' not alive yet and B in jeopardy too]
+))
+(;W[gp]LB[go:A]C[JUG: B at 'A' could be dangerous for B, so therefore better allow W to rescue some stones and live]
+
+(;B[go];W[fp];B[ep];W[eq];B[eo];W[dq]LB[go:B][dr:A]TR[im][gn]
+[hn]C[JUG: with this Bs 'A' and 'B'-group in trouble now. The marked stones can be sacrificed. Bs 'B'-group has only one eye yet and 'A' is cut off. Loosing three stones to get this in exchange would be turning the game around.
+Therefore B could not allow this.];B[fr];W[er];B[es];W[br];B[ds]
+;W[gr]C[JUG: B looses this fight])
+(;B[fp];W[go];B[hr]C[JUG: B connects];W[ir];B[is]LB[fq:B][jr:A]
+C[JUG: B connects 'A' and 'B'];W[hl]C[JUG: protect the cut]
+)))
+(;W[rk]
+(;B[rl];W[ri])
+(;B[rj];W[sn]C[JUG: later, because this may not neccessarily be sente and W wants to keep sente]
+)))
+(;W[ci];B[bi];W[bh]
+(;B[di];W[ch];B[bm];W[bn];B[bj];W[ak]LB[dj:A]C[JUG: B shouldn't be able to live here and B can't capture the 'A'-stones]
+;B[ek];W[ej];B[fj];W[ei];B[dh];W[fi];B[dg];W[ai]
+(;B[bg];W[ah];B[ag];W[aj]C[JUG: does not work for B])
+(;B[bk];W[bf];B[be];W[am];B[af];W[aj]C[JUG: too few liberties for B]
+))
+(;B[bj];W[bm];B[ak];W[ai]C[JUG: no two eyes for B])))
+(;AE[ki]LB[ql:A]TR[od][pe][re][qo][ro]C[JUG: ... continuation from move #82:
+
+But how to engage 'A'-area? Invade or reduce? And Where?
+Question-List:
+- Are there other W stones or moves that can support an invasion or reduction? yes, wO8
+- Are there additional forcing moves (sente moves, moves that must be answered) in the targeted area that can support an invasion? yes, marked with triangles
+- Are there other W stones that can be helped? no
+- Are there other B stones that can be hurt? not really
+- A reduction, for example wP11 would not be enough points (for that decision it's good to count, but let's skip this here for now)
+=> invasion, that means deep (2nd, 3rd or 4th line), wO8 may help
+
+In general: How to handle an invasion is applying a 2-step list:
+1. Is there a move with that I can live? yes -> take it and live, if no -> 2nd step
+2. Search for a sente-move (that must be answered) in such a way, that it can give support in making life or escape. Play the move. Return to step 1.]
+;B[as]LB[qj:D][pk:C][pl:B][ql:A]C[JUG: some examples for a W invasion now at]
+
+(;W[ql];B[pl]C[JUG: invasion-step 1: is there a move W can live with? no -> so search for sente-move]
+;W[qj];B[qk];W[rk];B[pk];W[qi];B[pi];W[qh];B[ph]C[JUG: step 1: is there a move W can live? no -> step 2: Search for sente-move]
+;W[re];B[rd]C[JUG: step 1: is there a move to live? yes -> play it]
+;W[qf]C[JUG: should be alive, B has sente (which is normal when you spend a move making life).
+So making life in sente is even better. For example imagine, W would already had a stone at wP16 for example (go on in var-path).]
+;AW[od]LB[oe:A][qf:B]C[JUG: if B now take sente elsewhere, W at 'A' could kill the B corner, so the previous move 'B' (wR14) is sente against the corner. That's making life in sente as B need to answer and you keep sente.]
+;B[qe];W[rf];B[pf])
+(;W[pl];B[ql];W[qk];B[qm];W[pk];B[qj];W[rk];B[rj]LB[sj:B][sn:A]
+C[JUG: makes later a big endgame move at 'A' and 'B'])
+(;W[pk];B[qk];W[qj];B[qi];W[ql];B[rk];W[rl];B[ok];W[pl];B[rj]
+;W[pm];B[qn])
+(;W[qj];B[qk];W[pi];B[qi];W[qh];B[ri];W[ph];B[rh];W[oj];B[pk]
+;W[ni]LB[od:A]C[JUG: still some aji left with a push at 'A']
+)))
+(;W[kc];B[kd];W[jb]LB[md:A][od:B]C[JUG: W can connect, there is also more room at the top to live and there are still 'AB' to create cutting points in Bs wall.]
+;B[md];W[od];B[oe];W[qj];B[qi];W[pi];B[qk];W[rj];B[ph];W[oi]
+;B[qh];W[pk]LB[ne:B][pe:A]C[JUG: W can still invade to reduce this rendering Bs big wall nearly useless and there's still aji at 'AB']
+;B[cl]C[JUG: B can invade too of course]))
+(;W[le];B[jg];W[kf]C[JUG: make heavy];B[jf]
+(;W[ql]C[JUG: time to reduce B with an invasion at the right]
+;B[pl];W[qj])
+(;W[ji]C[JUG: take away a running direction];B[gf];W[ff]C[JUG: where can B flee to? B may try to live, which is not so easy]
+)))
+(;W[go];B[io];W[gp]C[JUG: a heavy fight, hard to tell the outcome]
+))
+(;W[im];B[kn];W[io];B[jn];W[ir];B[js];W[gq]LB[hn:C][jn:A][fq:B]
+[nq:D][js:E]C[JUG: This might be a chance to come back in the fight:
+- 'A' has to escape using some of the cuts or jumping out
+- W prevented the B connection and put also 'B' in an unhealthy state
+- 'D' has only one eye after B descended with 'E', so both players have 2 groups to care for]
+))
+(;B[km]LB[jn:A][ln:B]C[JUG: this complicates things for W as also the 'A'-group is not fully out yet.]
+))
+(;W[io];B[hr]LB[kn:A]C[JUG: B has two options to save his group (this connecting move or escaping). So W can not really attack B and must care for Ws group.]
+;W[jl]C[JUG: W now is the one with the weak group]))
+(;B[io]
+(;W[gm]C[JUG: this move sometimes help, but need reading if the cuts are protected or not. Here it doesn't work.]
+;B[ho];W[go];B[gp];W[gq];B[fp]C[JUG: W cut making B alive])
+(;W[ho]C[JUG: so W needs to connect here];B[in];W[im];B[hm]
+;W[gm];B[hl];W[gn];B[gl];W[fn];B[en];W[em];B[fl];W[eo];B[hr]
+TR[el][jm]C[JUG: W is out, but B still can connect, and W has no good shape and many more cuts and bruises (marked).]
+)))
+(;B[hr]
+(;W[ir];B[is];W[gr];B[gq];W[hq];B[hs];W[gs];B[js];W[er];B[eq]
+LB[nq:A][js:B]C[JUG: W can't escape and now also the 'A'-group has no 2 eyes any more with 'B' descended.]
+)
+(;W[gr];B[gq];W[hq];B[ir];W[fr];B[er]LB[hp:A]C[JUG: W has not enough liberties to separate B and also has an ugly empty triangle group with 'A'.]
+))
+(;B[ir];W[hr];B[gq];W[hq];B[hn];W[io];B[jm]C[JUG: outcome unclear, but now also W is heavy]
+))
+(;W[gq];B[hr];W[gr];B[gp];W[hp];B[go];W[ho];B[gn];W[hn];B[gm]
+;W[jn]LB[hn:C][fq:A][kq:B]C[JUG: W should have the upper hand in such a fight as B only can help one group at a time (one move after another), so can help 'A' or 'B'. While W on the other hand must only save one group 'C'.
+That's why the one with the ONE group between TWO WEAK groups is in favour. He can spend his move on the single group, while the other would need two moves in a row to help both groups.]
+))
+(;B[ip]
+(;W[hq];B[jq]C[JUG: harder on W])
+(;W[jq];B[hq];W[ir];B[hr];W[js];B[ko]LB[fn:A]C[JUG: or at 'A' first threatening an invasion on the left]
+)))
+(;W[iq];B[jq];W[gq];B[cq];W[io]LB[jq:A]C[JUG: B got the corner, but Bs 'A'-group weak again]
+))
+(;W[iq]
+(;B[jq];W[gq]C[JUG: this may be harder on B (separating Bs stones), but also not easy for W and risky now (since the left side is wide open for invasions)]
+)
+(;B[cn]C[JUG: but B may choose to give up something and double-kakari (working good with the weakness at Ws left)]
+)))
+(;W[iq];B[jq]
+(;W[ir];B[js]C[JUG: this exchange removes the 2nd eye of the W bottom right group, so W would need another move here, so propably this exchange is not the best.]
+;W[ho];B[ks];W[nr]C[JUG: only one eye at the bottom now])
+(;W[ip];B[jn];W[io];B[ln];W[le]C[JUG: target next weak group]
+;B[jg];W[jj]LB[jg:A][jn:B]C[JUG: double attack on 'A' and 'B'-group]
+)))
+(;W[iq];B[jq]
+(;W[ip];B[jn];W[ko];B[jo];W[hn]LB[em:A]C[JUG: chasing B aiming to build 'A'-area while attacking.]
+)
+(;W[nn]LB[jp:A]C[JUG: or follow Ws original plan after the exchange aiming for two purposes (invade the right and put more pressure on 'A'-group).]
+;B[jm])
+(;W[qo]C[JUG: or invade right away. This gives support for an invasion.]
+;B[qp];W[pl]C[JUG: playing lightly (ready to sacrifice some stones to make a living group) as the aim is to reduce the opponents potential territory.]
+;B[qk];W[on];B[no];W[ql];B[rk];W[ro]C[JUG: B corner alive?]
+;B[oo];W[nl]C[JUG: jump out (don't get surrounded)])
+(;W[jn]LB[fq:A]C[JUG: take away a running direction or take 'A' to make it harder for B to get a base.
+However, B is strong, and this move is to near to Bs strength, so a fight would commence.]
+)))
+(;W[op];B[po];W[nn]LB[nl:2][pm:A][ln:1][kq:B]C[JUG: at least 2 running directions, potential to invade at 'A' and 'B'-stone weak.]
+))
+(;B[op];W[oq];B[qp]))
+(;W[qn]
+(;B[pn];W[pm];B[qo];W[on];B[po];W[qm];B[np]
+(;W[rj])
+(;W[nl]C[JUG: or escape lightly]))
+(;B[np];W[qq];B[qp];W[pq];B[oq];W[or];B[op];W[nr];B[lp];W[le]
+;B[jg];W[ph]LB[pd:A][le:C][qn:D][pp:B]C[JUG: invade (staying away from Bs thickness 'A' or 'B' and ready to reach for 'C'-group or make a living group at the right side (maybe using aji of 'D'-stone)]
+))
+(;W[qq]LB[pj:A][qp:B][pq:C]C[JUG: with 'A' high, blocking at 'B' (bR4) would be better, creating a wall facing B stones. Blocking at 'C' (bQ3) would create a wall facing a W stone (wD4) and bL3 is low, so not efficient with a wall.]
+
+(;B[qp];W[pq];B[op];W[oq];B[np];W[mq];B[lo]LB[le:C][qh:B][qj:A]
+C[JUG: right side could still be invaded by W at 'AB' for example or putting pressure on B 2 stones driving a thorne into Bs moyo.]
+)
+(;B[pq];W[qp];B[po];W[pr];B[or];W[qr];B[oq];W[qn]C[JUG: this would be too good for W (destroying Bs valueable right side).]
+;B[np]LB[nq:A]C[JUG: this removes the aji (potential for complications) of the 'A'-stone and W has sente.]
+)))
+(;W[rb];B[rd];W[oc]C[JUG: W still got the point and a bigger corner]
+))
+(;B[oc]C[JUG: "play ahead of 2 stones" pressing W down is normal]
+;W[ob];B[nc];W[nb]
+(;B[mc]LB[mb:A][od:B]C[JUG: can't be at 'A' because there's a cut at 'B', that would work otherwise.
+Instead of this, B may take sente, if there's something urgent. Normally it's wiser to play on with the joseki.]
+;W[rd];B[re];W[rc];B[qf]C[JUG: protect the cut, W lives, W has sente, B got powerful thickness (fair result for both sides).]
+)
+(;B[jp]C[JUG: B might choose to tenuki];W[mc]C[JUG: but this turn sometimes is big too, so following the joseki would be normal]
+)))
+(;AW[nb][ob][pc][rc][rd]AB[mc][nc][oc][qd][re]LB[nb:6][ob:4]
+[mc:7][nc:5][oc:3][pc:2][rc:10][fd:C][qd:1][rd:8][re:9][qf:11]
+[pj:A]C[JUG: Bs wall works good with the 'A'-stone (high on 4th line) and Ws 'C'-group is not alive yet.]
+;B[qf]C[JUG: W has sente, but needs to make a healthy group at the top ...]
+;W[hc];B[fq];W[cn];B[jp]LB[oc:A]TR[pk][pl][pm][pn][po][kp][lp]
+[mp][np][op]C[JUG: ... which leaves the big points to B allowing to make a double-wing structure in good relation to Bs 'A'-wall giving B a big advantage.]
+))
+(;W[dg];B[hc]C[JUG: now W is under pressure as W left with an open skirt at F18.]
+
+(;W[hd];B[id];W[gc];B[ic];W[he];B[ld]LB[qc:A]C[JUG: same here, W lives small (or can escape) and B get the big points by attacking.
+If W would have helped his 'B'-group before with an extension, then W had a big chunk at the top while R17 is still open for an invasion. If B would have wanted to keep the corner, he wouldn't have played a 4-4 stone in the first place.]
+;AE[gc][hc][ic][hd][id][ld][he];W[ic];B[qc]LB[fq:A]C[JUG: B would not play this right now, because "loosing sente" is bigger than taking this corner at this stage of the game.
+
+The value of "having sente" is about 13 points in the early stage of the game as there are so many open areas that can be engaged. That's why W normally gets 6.5 points komi - half the value of the first move - as B starts. As more stones are played and the board fills up, one can't get 13 points any more, so the value of sente decreases till the endgame where the value of sente shrinked to about 2-6 points, and at the very end to 1 point.
+
+Playing bR17 is big, but loosing sente is worse as there are bigger moves like 'A' for example.
+Same goes for W. Having sente (the initiative) to lead the way is an active way to play, because the one who leads often gets more points. If you only answer to your opponents move, you will loose. A metaphor for that is "the blind man walking (by the hand)".
+
+You might say, that if W now invades at wR3, W will end sente, so getting the points and keep sente. But joseki-sequences can be interrupted at some points, at which B may take sente.]
+)
+(;W[ee]C[JUG: W may escape, but B get far too much];B[kd]C[JUG: W still not fully alive yet or surely out.]
+))
+(;W[hc]C[JUG: if W helps out his top group ...];B[dg]C[JUG: B gets the good point and another sente]
+;W[ch];B[fq]C[JUG: (too) good for B];W[cn];B[jp]))
+(;W[cb];B[cd]
+(;W[eb];B[ch]LB[nc:C][dj:A][cm:B][jp:E][nq:D]C[JUG: B settles his group and W has sente (the initiative). Problem here is that 'A' looks a bit alone, B might launch an invasion in the 'B'-area, so W might want to help that stone a bit. On the other hand, an invasion with a weak group nearby can backfire, so W can take sente and go for a big point like 'CDE' for example instead.]
+)
+(;W[bb];B[ch];W[nc]C[JUG: another example])))
+(;W[cg]LB[dj:A]C[JUG: not easy on B, because the B stone is outnumbered by Ws stones. This wC13 makes Ws 'A'-stone efficient: W put enormous pressure on B and make (potential) territory on the left. Always try to look for such multi-purpose moves.]
+
+(;B[ef]LB[dc:B][ec:C][fd:D][de:A]C[JUG: initiating a standard joseki, but this for example is not good for B here. So it's important to choose a *good* joseki taking nearby stones into account (for advanced joseki with ladders even stones on the opposite side of the board). It's hard to say which joseki for B would be good here (maybe attaching at 'C' or try something with 'D' to get a B presence at the top working together with Bs right Q16-stone (see vars before).]
+;W[fd];B[cc];W[cb];B[cd];W[eb]C[JUG: B looking not very healthy here and need more moves to make a healthy group]
+;B[gf];W[he]C[JUG: B would still not be healthy and W can build more territory at the top while attacking.
+"Healthy" does mean, that B is alive, can easily make life or escape without getting the opponent to much.]
+;B[hf];W[ie];B[fi]LB[jg:2][fk:1]C[JUG: now B is healthy: B has enough running directions '1/2' to get to safety and W can take sente ...]
+;W[nd];B[pf];W[le]C[JUG: ... to bring home some profit.])
+(;B[ec]LB[pd:A]C[JUG: Aiming to work together with 'A'];W[dd]
+;B[ed];W[ce];B[ee];W[df];B[jd]C[JUG: Standard joseki, W got big corner, B a small wall, W has sente]
+
+(;W[nq]LB[qc:A]TR[kd][ld][md][nd][od][pe][pf][pg][ph][pi]C[JUG: corner approach or invade Bs double-wing-structure with 'A' (see var before)]
+)
+(;W[qc];B[pc];W[qd];B[qe];W[re];B[qf];W[rf];B[qg];W[pb];B[ob]
+;W[qb];B[nc];W[nq]LB[np:A]C[JUG: or on 'A' to get a better stance in reducing Bs moyo]
+))
+(;B[fd]C[JUG: this would be playable for B letting W connect]
+;W[ce];B[dd];W[cd];B[ec]LB[cc:A][jp:C][nq:B]C[JUG: anwer with 'A' or tenuki (play somewhere else) to 'B' or 'C' for example]
+)))
+(;B[jd];W[jp]
+(;B[jj]C[JUG: B is one move ahead, so has the advantage of making a bigger moyo (framework).]
+)
+(;B[gd];W[de];B[jj]C[JUG: Bs moyo is bigger. One of your questions is how to make a moyo "solid". It's a dream of every player to make a moyo into solid territory. But that's not how it works. It's shown from Bs view now, but the principle is the same for W.
+
+The purpose of a moyo is to give the opponent a hard time in reducing the moyo. One player makes a big moyo, so the other cannot stand it any longer and invades the moyo to reduce its size. As B has the first move, W will propably end up with smaller territory as B, if it's moyo against moyo. So W has to reduce the moyo from inside.
+As the invader is surrounded by the moyo-stones, it's harder to make a healthy group. If W invades, by attacking the intruder more "solid" territory is made (attacking one side gives territory on the other side of the made moves).
+Follow the var for an example invasion and illustration how to use a moyo to make solid territory.]
+;W[nc]C[JUG: W invades];B[oc];W[nd];B[pf];W[ld];B[kc];W[mg]
+;B[kg]C[JUG: W still don't live, so B can apply more pressure and attack W ...]
+;W[og];B[pg];W[oh];B[ph];W[lc];B[cq]C[JUG: W invaded Bs moyo and lives. While attacking, B made the right side solid. Then B may take sente to invade Ws framework as well. So making a moyo is about sharing territory. You normally can't expect to get it all, you have to give something to get the bigger part ;-P]
+)))
+(;W[nc]LB[dc:B][ce:C][nq:A]C[JUG: a calm example.
+Approaching at 'A' is not equivalent here, because this approach at wO17 works better with the W 'B'-stone (wD17). A 3-4 stone wants to make a shimari with 'C' next and so is facing the top side towards the right. Giving that side to B would be missing a chance. That makes wO17 favourable in regard to 'A'.]
+;B[pf]LB[jd:A]C[JUG: making it easy on W ...
+too easy actually, allowing W a perfect extension. A better move for B would be to pinch at 'A' for example. It's called "pinch" as for a "pincer", K16 is too far away.]
+;W[jd];B[ce];W[ed];B[ch];W[kq];B[cn];W[fp];B[bp];W[cq];B[dl]
+;W[nq];B[qn];W[mf]LB[hq:A]C[JUG: a natural flow of stones for both sides: W building a moyo on the top, though A-area is left open]
+))

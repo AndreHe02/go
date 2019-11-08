@@ -1,0 +1,245 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.17]
+
+PB[NOBUM]
+BR[6k]
+PW[kanashige]
+WR[5k]
+KM[0.5]
+DT[2010-07-28]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[W+2.5]
+TM[1500]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+C[kanashige [5k\]: hi
+NOBUM [6k\]: onegaishimasu
+
+In this game, I played black, and
+I lost this game, but I think I had enough chances.
+
+Questions
+1. What were critical errors?
+2. What should I play for white attacks to my right wall?
+3. What should I do to improve my skills?
+
+-----------------------
+
+GP: Hi, I'm Graham Philips (topazg) a British 1k and KGS 1d. I hope to give useful comments and insights where I can (marked with GP:), and I've summarised the key points (and answered your questions) at the end of the sgf. Where I'm offering or annotating variations that deviate from the game, I mark the game move with a square and the deviation with a triangle. If I'm simply offering alternative moves as a comment, I normally mark with a triangle, and most variations have a comment at the end.]
+;B[pd];W[dp];B[pq];W[dd]C[*** FUSEKI STRATEGY ***
+
+GP: At this point, both players are playing for fast development. The key area is the right hand side as that is the direction that Q3 is pointing - all the other stones are simply aiming to build the sides as quickly as possible.]
+;B[pk]C[I usually play chinese style.
+
+GP: Fair enough, and very consistent with the strategy idea of the opening stones. From the point of learning however, trying new things may be an idea too :)]
+;W[nc]TR[qf]SQ[pg]
+(;B[pg]C[GP: This is very thin. With Q9 at Q10 it has been seen in professional games, but it leaves White O15 in virtual sente because of the bad aji against the corner. I would prefer pulling back tightly at R14 or Q14 (probably R14 because Q9 is high, but I'm sure both are playable).]
+;W[ne]TR[kc][pc][pn][jp][fq]SQ[pb]
+(;B[pb]C[Q18 is OK?
+
+GP: Feels slow, but you must do something due to O15 being sente. Because of the awkwardness of the R17 peep here, I would much prefer Q17 to Q18.]
+;W[po]TR[qo][np]SQ[qp]
+(;B[qp]C[*** FUSEKI / JOSEKI - Important point ***
+
+GP: This isn't outright bad, but it is unreasonably helpful to White. You are not building as big a corner as you could if you wanted to prioritise territory (by playing R5 instead), or getting as strong a position on the lower side as you could if that was your priority (with O4). This doesn't quite do either well enough (see variations)]
+;W[qo];B[nq];W[no]TR[lp]SQ[qm]
+(;B[qm]C[*** Important direction of play point ***
+
+GP: This is definitely too slow. Black's Q9 stone is already far enough away not to be in terrible danger (White isn't settled, so he cannot attack it without putting Q5 in danger as well), and you let White crush Black's lower side development.
+
+You can easily use this as the opportunity to take 4th line development while pressuring White with M4. You also want to consider that White's star point stones are designed on large influential games and a big framework - especially with the exchange in the top right. So, by playing on the lower side, you are restricting D4's aim of developing the left edge and the bottom edge, and helping neutralise White's game strategy.]
+;W[jp]TR[fc]SQ[kc]C[GP: A good move by White, and painfully restrictive to Black's hopes - it also works very well with the development of D4.]
+(;B[kc]C[GP: An interesting idea, can't find any obvious refutation for it. It does feel a bit far from the left edge though, which means that even after H17 White can get F17 in almost sente. I would prefer F17 here - if White defends, Black's two space extension to J17 leaves his stones under no real pressure, and Black may get a follow up to attack the O15 stones. If White pincers, Black can take the corner.]
+;W[kf]C[GP: A bit loose by White, I would prefer L15 as the added pressure is more effective at attacking Black. White playing J17 here would be a mistake because of the vulnerability of the O17 stones.]
+;B[hc]C[GP: Now White can use his loose play to keep L14 -> O15 as a light connection. White now should play F17 which is very uncomfortable against the two point jump and try to chase it out for development and points on the left side (see variation). I would have prefered L17 at F17 for this reason, where Black can either extend to K17 with more safety]
+;W[fc];B[he];W[id]TR[ic][hd]SQ[je]
+(;B[je]C[I don't know this was good or not.
+
+GP: It's a tricky position. As long as you are happy throwing away individual stones, this does a good job of punching a whole in White's position too.The variation with J17 is acceptable for small life, but if White is trying to build a position of influence, it is also sensible to keep the best access to the middle as possible for two reasons: A) it helps cancel that influence, and B) it may give opportunities to attack the O15 group.]
+;W[hd]TR[ie]SQ[gd]
+(;B[gd]C[GP: As you have prioritised middle access, I would play J15 for the strongest shape possible - you can throw away H17 (even though it is quite a loss) for the possibility of attacking O15 (see variation).]
+;W[ie];B[if];W[hf];B[ge];W[jf];B[ig];W[jd];B[gc];W[kd];B[gg]
+;W[jb]C[GP: Black has also got an acceptable result here, at the concession of not having an easy target but doing a good job of eliminating White territory and gaining development potential on the left edge.]
+;B[gb]TR[fb]C[GP: This seems slow. As you have shown in your variation, there is no great threat to save L17, you fix some of White's corner weaknesses, and you gain little to nothing for Black here either. You have sente, take something bigger! Approaching the lower left with C6 seems a good time now, although something like C14 in the top left is also good timing - as White cannot connect out at the top, White is forced to be sealed in small in the corner, and if Black's thickness facing the left edge is strong, White will have a hard time catching up.]
+(;W[jc];B[df]C[GP: An excellent choice of move.];W[pi]C[From here,
+how shoud I do for these white attacks?
+
+GP: Well, this is definitely the weak point in a three space jump between single stones. I think the best you can do is play for connection with the ko (see variation at 45), but opting to sacrifice Q9 may be as good (see variation at 43). It is rare to leave the shape of a 3 point jump between two single stones on the 3rd or 4th line, because playing here is so severe - normally it is done only when both sides are completely settled themselves.
+
+White can always choose to hit this point between two single 4th line stones a 3 point jump apart, and Black needs a plan accordingly - this is another reason why R7 was the wrong side to chase White's group, as now you feel more that Q9 and R7 must be saved - it has become harder to treat them lightly.]
+;B[qi];W[qj]TR[ph]SQ[pj]
+(;B[pj]C[GP: Q12 is also possible...];W[qh]TR[ph]SQ[ri]
+(;B[ri];W[ph];B[rk]C[GP: This may well be playable, but Black has not picked up many points on the right hand side, and his corner is in a lot of trouble.]
+;W[rh];B[qk];W[qc]TR[od]SQ[qd]C[GP: Very painful - it would have been much easier to handle if Q18 had been at Q17. This aji is awkward to handle, and the invasion on the right has made it more so.]
+(;B[qd]C[GP: Uncomfortable, but probably the only choice unless P16 is sente... (see variation)]
+;W[pc];B[oc];W[ob];B[qb];W[od];B[rc];W[pe];B[re];W[qe];B[oc]
+;W[rf]TR[cc][cn]SQ[dj]
+(;B[dj]C[GP: Well done for taking tenuki first - it's brave, but necessary. By choice, I would either approach at C6 to prevent the lower left -> Lower edge becoming a White moyo, or I would play C17 and get rid of that corner once and for all. This is too close to your thickness.]
+;W[se];B[rd];W[pc];B[sb];W[ra];B[sd];W[pm];B[cm]C[GP: Well done for ignoring Q7 again. Now C17 is huge.]
+;W[rm]
+(;B[rl];W[qn];B[pl]C[GP: Far too slow. It doesn't get you an eye, and the ko is valueless. Better to take C17 and F3.]
+;W[lq];B[rn];W[sm];B[sl];W[ql];B[sj];W[ro];B[rp];W[or];B[oq]
+;W[nr];B[pr];W[mq];B[rr];W[cc]TR[ce]SQ[en]C[GP: 75 to 90 represent a disaster for Black. He's been squished into the corner in gote, forced to live on the right in gote, allowed White to expand the bottom, and now has life in the top left corner. S8 and Q8 were far too slow at critical moments where the momentum of attacking could have made a large change to the game.
+
+You can play C15 at least, securing a large left side in sente against the corner, and you also have sente to take F3 (see variation).]
+(;B[en]C[GP: That central moyo is hard to convert. I prefer F3 here, launching a full attack against the corner - Black's got a good opportunity for a double pincer, and here you force White to take 4th line territory, which is always very large.]
+;W[fp];B[hn]C[GP: Too loose - your hope for a moyo relies on reasonable thickness. G6 still threatens White's lower side, and doesn't have the weakpoints of the two space jump.]
+;W[hp];B[jj]TR[jh][jn]C[GP: Nice idea, but a bit loose - I would always prefer to expand moyos at the edges - K12 is a very important shape point, and K6 continues the expansion while helping to fix the weakness of that two point jump.]
+;W[il]C[GP: Awkward to handle!];B[jn]TR[jm]C[GP: K7 is more severe ... cap or knight for attack, one point jump for defense!]
+;W[gm];B[gn];W[ih]TR[jh]SQ[jg]C[GP: A good tesuji, but it feels like overplay here.]
+(;B[jg];W[jh];B[kg];W[kh];B[lf];W[hg];B[ke];W[hh]C[GP: I don't feel this is a good result for Black at all. White now has a weak group he can attack, and K10 looks like it will be eaten up - all Black's hope for a central moyo are gone.]
+;B[ld];W[lc]
+(;B[lh];W[md];B[li];W[gf];B[fd];W[ee];B[ff];W[fe];B[ec]TR[ef]
+SQ[dc]
+(;W[dc]C[GP: Lucky - White at E14 would have been awkward.]
+;B[ef];W[hj];B[fi];W[ce];B[kl];W[jm];B[km];W[in];B[io];W[im]
+(;B[jo]C[I missed here, I should have played H5.
+
+GP: Agreed, it's the better side to connect on.];W[ho];B[fm]
+;W[kn];B[ko];W[ln];B[lo];W[mn];B[ik];W[gl];B[hk];W[gi];B[gk]
+;W[fl];B[el];W[kp];B[fk];W[mo];B[jl];W[ip];B[hl];W[lp];B[hm]
+;W[fg];B[eg];W[fh];B[eh];W[gh];B[ii]C[Exciting part!];W[eb]
+;B[fb];W[ed];B[ib];W[fa];B[gj];W[ga];B[ha];W[ea];B[ja]TR[kb]
+SQ[ka]
+(;W[ka]C[GP: White kind of blunders here...];B[ic];W[ia];B[db]
+;W[fc];B[ja]
+(;W[ec];B[kb];W[lb]
+(;B[ng]C[I think this was big mistake.
+I should play C14 or B4.
+
+GP: I agree, the left edge is much bigger than using the aji of Q13.
+
+*** END OF COMMENTS ***
+
+There were some interesting but unusual parts of the endgame from this point onwards, but most of the points that affected the game were early and middle game strategy and tactics, and those have been covered. I have summarised the main points at the end, and discussed variations and thoughts throughout the game up to here :)]
+;W[og];B[of];W[oh];B[nf];W[pf];B[oe];W[qg];B[ml];W[bg];B[bi]
+;W[bo];B[bn];W[ch]
+(;B[me];W[ei];B[fj];W[di];B[hi];W[cf];B[ji];W[dh];B[ki];W[cj]
+;B[ck];W[bj];B[bk];W[aj];B[mb];W[ma];B[la];W[nb];B[mc];W[ak]
+;B[bl];W[ej];B[ek];W[dk];B[dl];W[co];B[ni];W[ol];B[ok];W[nl]
+;B[nk];W[mm];B[lm];W[qm];B[os];W[ms];B[ao];W[ap];B[an];W[bq]
+;B[go];W[gp];B[eo];W[ep];B[sg];W[sh];B[sf];W[nh];B[mh];W[oi]
+;B[oj];W[pp];B[so];W[sn];B[sp];W[np];B[op];W[oo];B[ps];W[al]
+;B[am];W[cn];B[bm];W[dm];B[dj];W[ci];B[dn];W[dk];B[em];W[dj]
+;B[fo];W[dg];B[si];W[de];B[ns];W[mr];B[se];W[rg];B[tt];W[tt]
+TW[aa][ba][ca][da][ab][bb][cb][db][ac][bc][ad][bd][cd][ae][be]
+[af][bf][df][ef][ff][qf][ag][cg][eg][gg][pg][ah][bh][eh][ai]
+[bi][nm][om][jn][nn][on][pn][rn][io][jo][ko][lo][bp][cp][mp]
+[aq][cq][dq][eq][fq][gq][hq][iq][jq][kq][ar][br][cr][dr][er]
+[fr][gr][hr][ir][jr][kr][lr][as][bs][cs][ds][es][fs][gs][hs]
+[is][js][ks][ls]TB[ia][ka][ma][na][oa][pa][qa][ra][sa][hb][jb]
+[lb][nb][ob][rb][jc][lc][nc][oc][pc][qc][sc][hd][id][jd][kd]
+[md][nd][od][ie][le][ne][jf][kf][mf][lg][mg][mi][hj][ij][kj]
+[lj][mj][nj][qj][rj][jk][kk][lk][mk][sk][cl][fl][gl][ll][dm]
+[gm][fn][qq][rq][sq][qr][sr][qs][rs][ss]C[\\kanashige [5k\]: thanks
+NOBUM [6k\]: arigatougozaimasu
+
+------------
+
+So, in summary:
+
+Questions
+1. What were critical errors?
+
+You have a slight habit of leaving too thin a position. 2 point jumps have rare characteristics when making a base on the edge because of the way they relate to the edge of the board. Normally, even on the 4th line, they are quite cuttable and thin. A few of your moves left shapes with a lot of bad aji - moves 7 and 9 being good examples. Move 13 was definitely the wrong direction of play, and you lost a good opportunity to take advantage of White's overplay. If your opponent plays 4-4 stones, he wants to quickly develop adjacent sides. You had chances there to develop the bottom side (hurting his lower left 4-4 stone) and force that group to live small on the edge, either running out without eyes or being sealed in in gote, depending on which options he chose. Removing the base first was too early.
+
+Next was jumping too close to White's strength at the top, giving him too easy a time of attacking your stones - the approach in the top left would have given you the flexibility to use the top more openly, or to take the corner  ... either way you'd have a happier more settled group.
+
+The third critical error for this game was handling the group on the right so slowly. Most of White's moves against it (70, 72 and 74) were not sente, and White had huge moves to play in the upper left and lower left - in the end, you had to live small in gote, including letting White seal you small into that lower right corner and develop the lower edge nicely, and he got the chance to settle his top left corner. This sequence from 70 to 90 probably cost you 40 points.
+
+The final strategic error was trying to build a central moyo  from the left rather than attack that bottom edge. In the end, you forced White to build up a 4th line lower territory (A1 -> M3) which accounted for 36 of his 79 points of territory - almost half of it! Instead, the double pincer at 91 would have been much more effective.
+
+2. What should I play for white attacks to my right wall?
+
+Generally you handled these quite well, the problems were the fuseki moves that left the weaknesses, and you not realising that these attacks White made were not overplays, but valid and sharp invasions. I have included some relevant variations in the game itself.
+
+3. What should I do to improve my skills?
+
+A) Look at corner approaches on the side you would like the middle rather than just playing on the middle. I'm not trying to say playing in the middle is never correct, but you do it too often, and experimenting with how approaches work (particularly to the 4-4 stone when the 3-3 invasion as a followup is possible) will give you more flexibility in how you make your strategic decisions.
+
+B) Always look at the chance to double-pincer a corner stone if your opponent allows it - 91 could have been so effective. Also, if your opponent is harrassing your groups, don't assume you have to respond to it. Having built up such a fabulous position in the top left, you _had_ to kill that corner. If a group looks weak, try to find the earliest possible chance to attack. Even if you have a weak group yourself that your opponent is attacking, assess first which group is bigger / more valuable - you can always just make a trade.
+
+I hope these comments are in some way helpful. If you have any responses / queries / comments or would like further input on specific moves or areas, do feel free to ask!]
+)
+(;B[ci];W[ei];B[di];W[fj];B[ej];W[fi];B[dh];W[mb];B[qs];W[nj]
+;B[lj];W[nk]))
+(;B[cf];W[bf];B[bg];W[be];B[qs])
+(;B[bp];W[co];B[bo];W[cn];B[bn]))
+(;W[kb];B[ec];W[ei]
+(;B[fj]C[GP: Capture is better (see variation) :)];W[fc];B[hi]
+;W[ia];B[ec];W[di];B[ja]
+(;W[ji])
+(;W[fc];B[ji];W[ec]))
+(;B[da];W[di];B[ci])))
+(;W[kb]TR[db][ic][hi]
+(;B[hi];W[ic];B[ki];W[fc])
+(;B[ic];W[ka])
+(;B[db];W[fc]C[GP: White's connection here means that he lives in the middle and Black dies at the top - Black has only L19 as a big enough ko threat.]
+)))
+(;B[ho];W[jo];B[kn];W[fn];B[fo];W[fm];B[eo]))
+(;W[ef];B[fg];W[eg];B[fh];W[eh];B[fi];W[ei];B[ej];W[fj];B[gj]
+;W[fk];B[gi];W[fm];B[fn];W[ij]C[GP: There is so much bad aji to fight against here...]
+))
+(;B[mc];W[lb];B[md];W[mb];B[lh]C[GP: This variation feels better than allowing White N16, I agree.]
+))
+(;B[jh]TR[hg][jg]
+(;W[jg];B[hg];W[ji];B[ii];W[kh];B[hi])
+(;W[hg];B[jg];W[gh];B[gf];W[hh];B[ii])))
+(;B[ce];W[bd];B[fq]C[GP: Now it is hard for White to keep his lower edge and prevent Black from developing a moyo.]
+;W[fp];B[gp];W[fo];B[eq];W[dq];B[hq];W[co];B[fm]))
+(;B[cc];W[ql];B[fq]C[GP: I think you can virtually sacrifice that group for the size of these moves now!]
+))
+(;B[cn]TR[cl][fq]C[GP: Both the pincer and defence positions seem acceptable to Black for me.]
+(;W[fq];B[bp];W[cq];B[dl]C[GP: Now Black has reduced White's framework substantially and started to build one of his own.]
+)
+(;W[cl];B[cq];W[cp];B[dq];W[ep];B[bp];W[bo];B[bq];W[co];B[fq]
+C[GP: Again, Black destroys White's framework and picks up points in the corner instead of making his own framework on the left. Black also now has good attacking prospects - getting a stone at C10 helps Black's left hand side and threatens to rescue C6, and also, Black has an excellent sequence at the bottom (see continuation).]
+;W[ci];B[fp];W[fo];B[go];W[fn];B[mo]C[GP: Now suddenly Black's hope to attack these groups, and hihs decision to live at R9 can be utilised to create a powerful splitting attack.]
+))
+(;B[cc]C[GP: White has no way of keeping his corner alive now.]
+))
+(;B[od]TR[nd][re]
+(;W[re];B[nd];W[md];B[mc];W[lc];B[me];W[ld];B[nf]C[GP: I don't like this, but it's worth reading the P16 peep as the push and connect often works locally]
+)
+(;W[nd];B[qd])))
+(;B[ph];W[ri];B[oi];W[qi]C[GP: If White connects, Black can keep most of the top right corner. and treat the rest of his stones on the right relatively lightly.]
+;B[qg];W[rg];B[rf];W[sh];B[nj]C[GP: Now Black's position is relatively robust.]
+;W[rl];B[qe]C[GP: Fixing all the bad aji here, this result is acceptable for Black.]
+))
+(;B[ph]TR[qh][pj]
+(;W[pj];B[ri];W[rj];B[nk]C[GP: Now Black keeps most of his corner, and these stones are not yet dead.]
+)
+(;W[qh];B[ri];W[rj];B[rh];W[pj];B[nk]C[GP: Same as other variation.]
+)))
+(;W[fb];B[jc];W[ic];B[ib];W[kb];B[lc];W[lb];B[ld];W[ke];B[mb]
+;W[mc];B[nb];W[me]))
+(;B[ie];W[gd];B[jd];W[ic];B[md];W[nd];B[lf]C[GP: Black's shape is slightly odd, but the idea of recovering the position by attacking is good.]
+))
+(;B[hd];W[ic]C[GP: I'm not at all keen on this for Black, the other variation is better.]
+)
+(;B[ic];W[hd];B[gd];W[gc];B[je];W[ge];B[ie];W[fd];B[jd]C[GP: This is one acceptable way out of the situation - it's all tricky - L17 being too easy to attack is most of the reason for this. As you can see, even though the F17 variation that involves taken the corner looks like it gives White a good position on the top, White's position on the left to top left here is at least as good, and Black definitely has less from this sequence.]
+))
+(;B[fc]TR[hc][cf]
+(;W[cf];B[ic])
+(;W[hc];B[cc];W[dc];B[cd];W[de];B[db];W[eb];B[cb];W[ec];B[cf]
+;W[eg];B[cg]C[GP: The top is open enough that reducing should not be difficult, especially with the aji at F18. Black's right hand side is looking strong - the only real shame in the fuseki now is White getting away with K4 in exchange for R7 - clearly now working favourably with White's game plan.]
+)))
+(;B[lp];W[qm];B[fq]C[GP: Now the lower side is Black's development, not White's]
+))
+(;B[qo];W[qn];B[qp];W[pn];B[np]C[GP: This leaves White in a very awkward position, and would do what you did but more strongly.]
+)
+(;B[np];W[qq];B[qr];W[qp];B[rr];W[qm];B[fq]C[GP: Playing for quick development in sente, this way seems very reasonable for Black to develop his position quickly. You could also exchange S8 in sente before tenuki, but as White will play P7 in response, you may want to hold off on that exchange just in case you would rather seal in the White group for thickness (likely to be a good game plan with this lower edge development).]
+))
+(;B[pn]C[GP: This feels overconcentrated. White cannot safely invade here, so the lower edge feels larger (see variation I added with the F3 approach)]
+)
+(;B[jp]C[GP: Right idea, I like this. Develop quickly and consistently with the high placements in the right and lower right corner. If White tries to approach that corner he cannot now get a good result. However, I think the top right is very important to play in, and this may be big but not urgent enough to play just yet.]
+)
+(;B[kc]C[GP: Black can only pincer an already ikken tobi'd approach like this if the top right is very secure. With the bad aji Black has, White can simply counter pincer and activate the corner (see continuation)]
+;W[hc];B[ke];W[qd];B[pe];W[pc]C[e])
+(;B[fq];W[cn];B[jp];W[qo];B[qm];W[qq];B[qr];W[pp];B[oq];W[rq]
+;B[no];W[qd]C[GP: White's small life in the lower right makes this an excellent local result for Black - However, it is gote, and White may opt to play R16 now and damage the top right. It is hard to find a good response to this tesuji in the corner.]
+)
+(;B[pc]C[GP: This is my choice, and the most common local response to the top right shape by professionals - it does much the same as your move, but leaves far less aji for Black to fear.]
+))
+(;B[qf];W[jd];B[fq];W[cn];B[jp]C[GP: A fairly even framework development. I slightly prefer Black's position although White has sente.]
+))

@@ -1,0 +1,275 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.17]
+
+PB[Kurato1]
+BR[10k]
+PW[ORBix]
+WR[8k]
+KM[0.5]
+DT[2012-02-02]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[W+13.5]
+TM[1800]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+C[Dear reviewer, I am Kurato1 (not solid 10k on KGS)
+
+It was a friendly game and i was trying to do my best, but still lose it.
+
+I would like to know which mistakes i have done in the beginning of the game (fuseki mistakes, direction of play, forms).
+Another thing i would like to know what i should do with "moyo reduction moves" in the top of the board in tuban (i feel that there were too much mistakes and black could protect moyo better)
+
+There is some comments in the game tree with my thoughts about situation
+
+Thanks for your time and sorry for my awfull english :)
+
+Kurato1 [10k\]: have fun
+
+--- Hi Kurato.
+
+This is Vinyoo. I will be reviewing your game. Overall, I think the reason you fell behind is due to the combination of several moves:
+
+1) The mistake on the upper-right to allow white secure big territory and gain huge influence.
+2) The wrong direction to attack the invading stone (move 60) to your moyo.
+3) The fighting on the lower side and on the last reduction move by white has gone to white's advantage.
+
+You finally gain a lot of points back by killing lower-right white group.
+
+If you read English Go book, I recommend "Attack and Defence" by Ishida Akira and "Opening Theory Made Easy" by Otake Hideo to improve the direction of play.
+
+No matter of your level, you can improve your Go by studying a lot of life-and-death problems.
+
+Hopefully, this review would be useful to you.
+
+Vinyoo];B[cp]C[ORBix [8k\]: gg];W[pp];B[pd];W[dc];B[np]C[--- Normally, the approach would be at O3 instead of O4.
+
+The 4th-line approach at O4 is not common. Since your stone at C4 is already high (4th line), you should approach at the low (3rd line) to find a nice balance.
+
+Alternatively, you can also consider closing your corner at E3]
+;W[kp]
+(;B[pn]C[here i don't know how to play
+
+--- I think this is OK. It prevents white from playing Q6 in the next move, which would be bad for black.since white would be safe on both sides.]
+;W[oo]
+(;B[no]C[--- I don't think this is a good move. Black cannot seal white in, he should play at R3 to get the corner instead.]
+;W[oq];B[on]C[I feel it is not a best choise, too heavy
+
+--- I think white should play O3 after this. Otherwise, black may be able to seal white in]
+(;W[eq]
+(;B[ep];W[fp];B[eo];W[dq];B[cq];W[gn];B[em]C[im not sure here, would c7-c8 be better?
+
+--- Normally C6 is standard. Or you can leave this corner and play other points.
+
+Lower right corner looks more urgent to me. Maybe O3. See variation.]
+;W[ce];B[jc];W[cj];B[cl];W[ej]
+(;B[dg]TR[ec][cd]C[g17 instead?
+
+--- Yes, I think G17 is better. 
+
+White right side looks flat. C10-E10 would be good if the corner enclosure is facing the different direction (should be E17-C16 instead).
+
+Therefore, the next extension for white would be H17. So, you can play G17 first to spoil his structure.]
+;W[gc]C[--- Should be E15 first for white.]
+(;B[ee]C[--- This move can be dangerous. You should always check what would happen if white cuts you with brute force.
+
+In this case, white surrounding is much stronger than black. It is hard to find a good response.
+
+Just jumping with F13 is OK. You can find a way to isolate white C10 group later on. See variation]
+(;W[gf]C[--- A bit thin for white. G15 is the better jump to keep connection with G15.
+
+Cutting at D14 is still the best for white. See variation];B[fg]
+;W[ef]C[---- I think it is a bit too early for white to cut
+
+Black should play E13 instead. See variation]
+(;B[df];W[eg];B[eh];W[ff];B[ch];W[fh];B[dj];W[di];B[dk];W[dh]
+;B[ci];W[ei];B[bg];W[de]C[--- It looks like white ends up with better position than black in this sequence.
+
+Black only captures one stone at C10, but white has secured the top territory and grown very strong facing the middle.
+
+In the beginning, it is more important to got stones facing outside.]
+;B[ed];W[ec];B[pj];W[qc];B[qd];W[pc]
+(;B[od]C[--- The joseki is P17. See variation];W[oc];B[nc];W[nb]
+;B[mc];W[rd];B[re];W[rc];B[qf];W[ph]
+(;B[qh]C[--- Black is strong here. You should not thinking about securing small territory. 
+
+See variation.];W[pi];B[qi];W[oj];B[ok]C[Is nidan bane playable here? im not sure i play correct here
+
+--- This move is OK.];W[pk];B[qj];W[ol];B[nk];W[nl];B[pl];W[ml]
+;B[mk];W[nn];B[lo];W[km]
+(;B[lm]C[--- To connect black groups, probably N6 is better.
+
+See variation.];W[ll];B[kl]
+(;W[ln]
+(;B[nm]C[My opponent give me advice to play n6 instead of o7, but later in yose o7 looks like good move.
+
+ORBix [8k\]: but u put here
+ORBix [8k\]: do u see?
+Kurato1 [10k\]: yea
+
+
+--- N6 is better since it connect black group together.];W[mn]
+;B[kn];W[jm];B[nq];W[or]
+(;B[kq]
+(;W[lp]C[--- This white move is too aggressive. Black can connect both top and below.]
+;B[lq];W[mp]
+(;B[jp]C[--- Black should force at N5 first. See variation/]
+;W[mq];B[mr];W[mo];B[nr];W[ko]C[--- No need for white to play this move. He can play a move around H3/J3 to try to kill black]
+;B[gq]C[--- This is a bit too far. Black should play at H3.]
+;W[iq];B[ip];W[hq];B[gp];W[hp];B[jr]
+(;W[jq]C[ORBix [8k\]: i mean
+ORBix [8k\]: not that many mistakes
+ORBix [8k\]: do u wann re game?
+Kurato1 [10k\]: no, thanks =) it is too late in my country and i should go sleep soon
+ORBix [8k\]: okay gg
+
+--- White make a mistake here. If he plays J2, black would be dead. See variation.]
+;B[ir];W[hr];B[gr];W[hs];B[kr];W[ls];B[ho];W[io];B[is];W[jo]
+;B[ks];W[ns];B[ms];W[op];B[lr]C[--- Good combination to get live.]
+;W[pm];B[ql];W[qm];B[qn];W[rm];B[rn];W[rl];B[qk];W[qo]
+(;B[ro]C[--- Black should play P7 instead to capture white.]
+;W[rp];B[sn]C[--- You can capture white with P7.];W[om]
+(;B[go]C[--- F5 is better.];W[fo];B[fq];W[fn]C[here g2 group has 3 dame and d3 group has 3 dame, black plays first. Why black group was catched?
+
+--- It is because white can connect with H1 group. Numbers of liberties are not the only factor in capturing race.]
+;B[er];W[dr];B[cr];W[es]C[should i respond f1 and start ko fight?
+
+
+--- At this moment, ko is your only hope.]
+(;B[fr];W[fs];B[dp];W[ds];B[hn];W[hm];B[im];W[il];B[jl];W[in]
+;B[lk];W[jk];B[kk]C[---- You should try to always looking for a chance to play big move over saving some small non-cutting stones.
+
+Instead of this move, playing around L13 should be better.]
+;W[kh]C[I don't know how to respond even now
+
+here i feel i lose lots of points.
+
+--- It is a bit difficult to kill this white stone here because white is strong on both left and bottom side.
+
+Your move is conservative, which may be OK. 
+
+However, the move around J12, trying to cut off white, might get you more points. Though, it starts a complicated fight.]
+(;B[mh];W[lf]
+(;B[je]C[--- To destroy white's shape, black at K14 might be better. Aiming to cut white group later.]
+;W[nf]
+(;B[ne]C[--- I think this is a bit too slow for black. You may also consider other moves such as N13, O13 or P13 to have a chance to cut off white later.]
+;W[mg];B[ni]C[-- Instead of this move, extend at O12 is standard]
+;W[og];B[me];W[jj];B[pg];W[pf];B[qg];W[nh];B[lh];W[kg];B[lg]
+;W[li];B[mi];W[mf];B[kf];W[ke];B[jf];W[kd];B[kc];W[jd];B[le]
+;W[id]
+(;B[hg]C[--- Black should try to fill up white's liberties to win the capturing race. See variation.]
+;W[ig];B[ih];W[if];B[jg];W[jh];B[ji];W[ki];B[ii];W[hj];B[gl]
+;W[fl];B[fm];W[gm];B[fk];W[el];B[ek];W[en];B[dm];W[dn];B[cn]
+;W[gk];B[dl];W[fj];B[hl];W[hk];B[oi];W[oh];B[of];W[oe];B[pe]
+;W[ie];B[of];W[bf];B[cg];W[ib];B[jb];W[ic];B[rk];W[lc];B[lb]
+;W[ld];B[mb];W[ja];B[kb];W[ob];B[do];W[gs];B[sl]C[ORBix [8k\]: damn good move
+Kurato1 [10k\]: yea) just luck];W[sp];B[sm];W[mm];B[qq]C[--- This is quite a difficult situation for white. R2 might live for white.
+
+This wil be the last comment. I hope you my review so far!]
+(;W[rq];B[rr];W[qr]C[--- Big mistake for white to let black capture the stone.]
+;B[pr];W[pq];B[qs];W[os];B[qr];W[qp];B[sr];W[ps];B[so];W[rs]
+;B[sk]C[ORBix [8k\]: omg that is out!];W[cf];B[cs];W[fl];B[lj]
+;W[kj];B[sd];W[sc];B[se];W[na];B[ma];W[pa];B[cc];W[dd];B[db]
+;W[eb];B[bb];W[da];B[be];W[bd];B[af];W[ae];B[bj];W[ag];B[ah]
+;W[af];B[ka];W[ia];B[ng];W[kf];B[el];W[gl];B[tt];W[md];B[nd]
+;W[tt];B[tt]TW[aa][ba][ca][ea][fa][ga][ha][oa][qa][ra][sa][ab]
+[bb][cb][db][fb][gb][hb][pb][qb][rb][sb][ac][bc][cc][fc][hc]
+[ad][cd][ed][fd][gd][hd][be][ee][fe][ge][he][je][hf][jf][fg]
+[gg][hg][jg][eh][gh][hh][ih][fi][gi][hi][ii][ji][gj][ij][ik]
+[hl][im][lm][nm][hn][jn][kn][go][ho][lo][gp][ip][jp][fq][gq]
+[er][fr][gr]TB[la][oe][qe][pf][rf][sf][og][rg][sg][bh][nh][oh]
+[ph][rh][sh][ai][bi][pi][ri][si][aj][cj][mj][nj][oj][rj][sj]
+[ak][bk][ck][pk][al][bl][am][bm][cm][an][bn][ao][bo][co][oo]
+[po][qo][ap][bp][op][pp][qp][rp][sp][aq][bq][oq][pq][rq][sq]
+[ar][br][or][as][bs][js][ls][ns][os][ps][rs][ss]C[ORBix [8k\]: gg
+Kurato1 [10k\]: gg
+Kurato1 [10k\]: could you show me my mistakes?
+ORBix [8k\]: gg
+ORBix [8k\]: i made so many mistakes too])
+(;W[qr]C[--- This is the best move for white.]
+(;B[rr];W[pr]
+(;B[qp];W[rq]
+(;B[sr];W[pq]C[--- White lives.])
+(;B[po];W[sr];B[rs];W[qs]C[--- White lives.]))
+(;B[rq];W[qp];B[rs];W[qs]
+(;B[os];W[sq];B[sr];W[pq])
+(;B[sq];W[os];B[po];W[sr];B[so]C[--- Seki])))
+(;B[qp];W[rq];B[po];W[rr]C[--- White lives.])))
+(;B[of];W[oe];B[pe];W[of];B[oi]C[--- Black wins the capturing race.]
+))
+(;B[ng];W[og]
+(;B[mf];W[me];B[mg];W[nd];B[md];W[ne];B[le])
+(;B[of]))
+(;B[mg];W[mf];B[kg]))
+(;B[mf];W[me]SQ[nd];B[ne]C[--- Black is quite strong here. the cut at M15 looks better]
+;W[nf]))
+(;B[ih]C[--- The move around this area might work. 
+
+However, since white is strong on the left and lower sides, it would be a difficult fight for both sides.]
+;W[ig];B[jh]
+(;W[kg];B[jg];W[jf];B[ki];W[ji];B[ii];W[jj];B[if];W[hg];B[kf]
+;W[je];B[ke];W[kd];B[jd];W[ie];B[kj];W[hj];B[lg])
+(;W[jg];B[kg];W[ki];B[jj];W[ji];B[ii];W[ij];B[ik];W[hj];B[lh]
+;W[kf];B[lg];W[hh];B[li];W[hi];B[lf];W[ke];B[le];W[kd];B[kc]
+;W[ld];B[lc];W[md];B[nd];W[me];B[nf]))
+(;B[hk];W[ik];B[gi]C[--- White is strong. This move does not have any effect.]
+)
+(;B[ji])
+(;B[ik];W[jj];B[hk]C[--- This move does nothing for black.]
+))
+(;B[fs];W[fr];B[hn];W[hm];B[er];W[bj];B[bi];W[fr];B[cd];W[dd]
+;B[er]))
+(;B[fo]
+(;W[fq];B[go]C[--- The whole D3 group is killed. No way it can live.]
+)
+(;W[go];B[fq])))
+(;B[om];W[ro];B[sm];W[sl];B[sn]
+(;W[sp])
+(;W[so];B[rk];W[mm];B[sk])))
+(;W[ir]
+(;B[jq];W[gr];B[fr];W[fq];B[go];W[ho];B[fo];W[er]C[--- Black is dead.]
+)
+(;B[fo];W[fq];B[go];W[gr];B[ho];W[jq]C[--- Black is captured.]
+)))
+(;B[mo];W[mm];B[jp];W[ko];B[jo];W[jn];B[mq];W[kn];B[hq]C[--- Aiming at F3 cut. Black should be alive.]
+;W[gq];B[nr];W[qq];B[gr];W[fr];B[gp];W[fq];B[hr];W[fo]C[--- White ends in gote. Very successful for black.]
+))
+(;W[jq]C[--- White should play here. Trying to contain black and force black to live small.]
+;B[jp];W[ip];B[jo];W[iq];B[lp]))
+(;B[op];W[po];B[pq];W[pr];B[qq];W[qp];B[qr];W[qs];B[nr];W[rr]
+;B[os];W[rq]
+(;B[kr]C[ORBix [8k\]: this would be also good])
+(;B[kq];W[lp];B[lq];W[mp];B[mo];W[mm];B[jp];W[ko];B[jn];W[jo]
+;B[in];W[ip];B[jq];W[io];B[hr])))
+(;B[mn];W[mm];B[nm]C[ORBix [8k\]: right here
+ORBix [8k\]: this was big];W[ko]))
+(;W[mn];B[ln];W[lk];B[jn]
+(;W[im])
+(;W[jm])))
+(;B[mn]C[--- This move is probably better. Secure the connection with M5 group]
+(;W[nm];B[ll];W[lm];B[mm])
+(;W[ll])
+(;W[lk];B[nm])))
+(;B[nh];W[oi];B[nk];W[ni];B[mh];W[mi];B[lh];W[li];B[kh];W[lk]
+C[--- Black ends up with territories on both top and right sides.]
+))
+(;B[oc];W[ob];B[nc];W[nb];B[mc];W[rd];B[re];W[rc];B[qf]))
+(;B[eg];W[df];B[ff];W[fe];B[cf];W[de];B[ge];W[ed];B[hf]C[--- Black is strong on the outside and can pressure the white group at C10-E10.]
+))
+(;W[df];B[ef];W[eg];B[dh];W[fg]C[--- Difficult for black.]))
+(;B[fg];W[ee]C[--- Not much points to gain here for white.]
+;B[di];W[dj];B[bh]C[--- Later you can attack white when the timing is right.]
+))
+(;B[gc]C[--- Good mve for black.]))
+(;B[nq];W[or];B[qo];W[qp];B[nr];W[rp];B[pj]C[--- I think this is OK for black]
+))
+(;W[nq]C[--- Later, white can cut at O6]))
+(;B[qq];W[pq];B[qp];W[no];B[po];W[mp];B[ql]C[--- OK for both sides.]
+))
+(;B[nn];W[pn]C[--- White gets 4th-line territory on the right side.]
+;B[pq]
+(;W[qq]C[--- This is standard for white.];B[oq];W[qr];B[hp]
+;W[kn];B[nl];W[pl]C[--- Not easy for both sides, but I think white is a bit better]
+)
+(;W[oq]C[--- White will not play this.];B[op];W[qq];B[pr];W[or]
+;B[qr];W[qp];B[nr]C[--- Good for black. White will not play this variation.]
+)))

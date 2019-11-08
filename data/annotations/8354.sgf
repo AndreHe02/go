@@ -1,0 +1,288 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[utf-8]AP[SGFC:1.17]
+
+GN[yearofglad-rain55(B) IGS]
+PB[rain55]
+BR[10k]
+PW[yearofglad]
+WR[9k]
+KM[-5.5]
+DT[2011-05-08]
+PC[IGS:  igs.joyjoy.net 6969]
+RE[W+1.5]
+TM[60]
+RU[Japanese]
+
+C[yearofglad 9k : Hello!
+ rain55 10k : Let's begin and enjoy a great game.
+
+I played white in this game and won by 1.5. I put in some variations and comments throughout.  I also put "closing comments" in move 245.
+
+Thanks in advance,
+
+Todd
+[E-mail address censored out by the reviewer for Todd's protection\]
+
+----
+
+jewdan: Hi, I'm jewdan, the reviewer for this game.  All of my comments throughout this file will be preceded by "jewdan:".
+
+You did a fairly good job at exploiting your opponent's mistakes, but made some of your own; this lead to the close score.  You mentioned in your comments that you tend to cut without thinking about what will happen.  This aggressiveness contributed both to your win and your opponent's chances at a comeback.
+
+Reading is important for every aspect of the game.  Reading exposes vulnerabilities of your opponent's for you to exploit (or yours to protect).  This determines how many points your opponent can get in an area.  This directly affects your ability to count, and if you can tell how you are doing in the balances of power and territory, you can play where the board position dictates.
+
+While my Go is far (FAAAAaaaaaaaaa-----------r) from perfect, I hope that I can expose some things that I found while studying your game.  I hope it helps convince you of the importance of studying tsumego.]
+;B[jj]C[Occasionally, I play against someone who opens with this move; I generally don't pay it much attention. Since it affects the board symmetrically in every direction, I basically pretend it isn't there, at least as far as the opening is concerned.
+
+jewdan: The tengen as an opening move is an influence play.  Black will likely focus on playing the fourth line as opposed to the third for his opening moves.  He will either aim for creating strong groups so he can invade deeply into your territory, or he will aim for building moyos so large and strong that your attempts to reduce it will be insufficient to win the game.
+
+My plan against this is to split my opening evenly between opening influence moves (hoshi, takamoku, mokuhazushi) and territory moves (komoku, san-san) so that I start with a slight edge in territory while building some influence with which to hamper his plans.  This is not necessarily right, but meta-thinking like this can help to understand what is happening on the board.
+
+All of this is to say that not paying much attention to the tengen opener is a decent strategy in that it enables you to play your opening without fear, but by understanding what the move means, you can plan your moves better.]
+;W[dp];B[dd];W[pp]C[jewdan: I suppose there is nothing wrong with this, but since Black's next move is almost guaranteed to be Q16, you are declaring an influence war against the man who already holds the tengen.]
+;B[pd];W[nc]CR[jd]TR[jc]C[Here, I approached at O17 instead of, say, R14, because I tend to have more trouble when the opponent has the potential for a large moyo between the two 4-4 stones (in this case, on top of the board).
+
+jewdan:  I believe the outside kakari (approach/approaches, Japanese doesn't really have plurals) are the moves always emphasized by Go book authors.  Still, I can understand your hesitation to let him build a moyo, and then dive in; that requires an intuition of what will work built from a massive amount of reading.  This means playing lots of Go, and solving lots of tsumego.  Try http://tsumego.tasuki.org/?page=tsumego for an excellent set of tsumego to improve your reading.
+
+As for this move in particular, you should see that almost any pincer he plays will work well with his D16 and K10 stones.  Your fear of his building a large moyo only accelerates his building a smaller, and therefore less invadeable, moyo.
+
+If you want to stymie his influence game, something like K17 or possibly K16 (marked triangle and circle respectively) directly interferes with his likely plans.]
+;B[kd]
+(;W[pb]LB[qc:A][ne:B][qf:C][pf:D]C[jewdan: According to Kogo's Joseki Dictionary, this move is not joseki.  The joseki moves are at R17 (A), O15 (B), R14 (C), and Q14 (D).  If your intent is to prevent Black from forming a moyo, O15 may be your best bet.  The main line lets Black take a large amount of territory in the upper-right (15 points, more depending upon future developments) while securing eight points and devestating Black's potential on the top.  Black will need to waste his sente to salvage a moyo after this sequence.
+
+You can look at the variation on this move to see how O15 might turn out.
+
+I have also supplied a variation on Black's next move as a guess as to why this move is not joseki.]
+;B[qc]C[jewdan:  After this, White finds he has a poor choice: he can either make a low base at L18, or he can leap out at M18 and lose his base.  What you chose may be the better choice, but check out my variation on Black's response to your move.]
+(;W[ne]
+(;B[pg]MA[pf]C[jewdan:  This seems an overplay.  This move begs White to play R14 later on.  The conservative Q14 (marked) turns this into a tewari of the joseki I showed in an earlier variation, which has a great result for him.  I also think Black's possibility at M18 should not be overlooked; see the variation.]
+;W[kb]C[Here, L18 seemed the best to establish a base for my white stones, plus it threatens a move like H17, I think. Not sure if it is joseki. Thoughts?
+
+jewdan:  I think this may still be the best move still.  Black owes you a move to fix his mistake at Q13, so things seem to be turning out well for you.]
+;B[ic];W[cf]C[After Black: J17, approaching D16 from the other side seems like a really bad idea, even though it probably means giving up a fair amount of territory in the upper left (which ended up being the case). I think it's the only move for me to make in terms of approaching the side.
+
+However, thinking about it now, I almost wonder if D14 or something would be better, seeing as how Black followed up with an emphasis on the middle. D14 probably makes it easier for me to diminish black in the middle (but also makes it tougher for me to live on the side...)
+
+jewdan:  D14 is not a good idea.  That will likely start a joseki that gives Black a large corner and the top as well, because of the location of his stones J17 and L16.  You will give Black a large territorial lead for little gain playing that way.
+
+I think that this is the correct move here.  Even if Black plays above your stone to increase his moyo (say, D14), there is enough of an opening near the tengen to reduce it.  You cannot invade his top without strength, and it is tough to sacrifice moves for strength unless you catch up or surpass your opponent in strength.]
+;B[di]C[jewdan:  I have no clue why your opponent chose this move.  He stands to ruin his moyo and expose his top to invasion by playing a pincer... this almost screams for you to play at E14.]
+;W[bd]C[jewdan:  I guess that if your opponent does not know it's broken, don't fix it? : )
+
+Random tangent on my joke: You can win games using the above strategy, but you won't get stronger.  I am not saying that I think this was your intention.]
+;B[cc];W[ef];B[cn]C[jewdan:  I guess this is what Black was aiming for when he played D11.  Note that he has left his top terribly vulnerable (F17 is a delicious play against his corner and center).  Still, because of the tengen, I feel you were right to choose to respond to this play.]
+;W[fp];B[bp];W[cq]C[jewdan:  A bitter pill to swallow, but I think your sequence is correct.  Now that you are strong in the corner, he needs to play something to secure his stones in the face of the four line gap.]
+;B[jp]C[jewdan: With this move, I think the advantage swings from his favor to yours.  He has left three weaknesses across the board (R14, F17, and C8) in his pursuit of "big points".  You have two sickly looking groups (upper-left and -right corners), but this move of his deserves no immediate response.  You have a chance to fix your weaknesses in sente and regain initiative in the game.
+
+To your credit, I think you pulled that off a bit : )];W[ck]
+C[Not sure if this was too aggressive, if instead B11 would have been good, but I saw the opportunity to split black's stones in two, and felt fairly confident that my upper left white group could live by attacking the stones at C17 and D16 if necessary.
+
+jewdan:  It is too aggressive, but not in the way you might expect.
+
+I mentioned earlier "Play away from strength and close to weakness."  You might think that Black's two stones are stronger than his one, but look closer.
+
+The two stones are low and have no base.  Even if he pushes into the corner, he does not get any eye space.  Playing close to this group would exert great pressure on it, yes?
+
+The D11 stone is on the fourth line, so it has an easy time running.  Your group in the upper-left exerts some pressure on it, but since they are not yet strong, the D11 stone does not feel any threat from anything you might play around it.
+
+This means that the one stone is stronger than the two, so you should play further away from the one and closer to the two.
+
+C8 meets the criteria for the proverb.  It directly robs Black of eye-space and sets him scrambling to live.  You are almost guaranteed to build influence in the process which will further weaken D11.  You might even get to play the obscenely aggressive F11 boushi and take control of the power balance of the game.
+
+Still, you had the right idea attacking at this time.];B[cl]
+C[jewdan: This does not get the stones out of the woods, but this does help him develop eye-space rather quickly.]
+;W[dk];B[dl];W[ci]C[jewdan:  This move does not help you.  I think the more aggresive hane at E8 maintains the pressure on the lower-left group and will help you gain the power you want.]
+;B[dh];W[ch];B[dg];W[df];B[dj]C[At this point, I feel like I should be able to eventually capture the black group of 4 stones, but with the next two moves, that seems to evaporate. Maybe it wasn't possible in the first place.
+
+jewdan:  No, you can't catch them, but these stones aren't doing much on the board, either.  D11 went from a stone with the potential to fight and build influence to a wall with both ends already capped.  This is a gain in its own right.]
+;W[ek]C[This seems like my best option here, at least in terms of attacking the 4 stones and simultaneously attacking the lower left.]
+;B[fi];W[bn]C[I misread something here, and was maybe too aggressive in trying to diminish or kill the black group - a move like B3 probably would've been sufficient.
+
+Also, at this point, with my white group on the upper left settled, would I have been better off playing somewhere else - an extension in the lower right?
+
+jewdan:  You have some cutting points in that group that you may wish to resolve before leaving.  B9 helps fix the problem and forces Black to decide whether to preserve his meager territory in the lower-left, or whether he will leap out into the center to make the group worth something on the whole board.  The first lets you leave, and the second lets you easily split it from his heavy D11 group and from the K4 stone.]
+;B[bo];W[bl];B[bm];W[bk];B[an]C[This move by black seemed unnecessary - I really should've lost sente at this point.
+
+jewdan:  With his group alive like this, he has made his weak group strong.  Your lower-left group is looking vulnerable.  He may even be able to get away with the audacious E3.]
+;W[hq];B[nq];W[lq]C[Again, agressive - Q6 or R6 maybe would've been better.
+
+jewdan:  I think I'd pick R6.];B[pr];W[qq]C[jewdan:  I'd still pick R6.  If he decides to take the corner with R3, you can wrap around the outside and take a massive lead in the balance of power.  With his remaining weak points on the board, I think that you'd be able to win from there.]
+;B[qr];W[pn];B[rq];W[rp];B[pq];W[qp];B[sq];W[sp];B[rs]
+(;W[qk]C[I feel like in some books I've read, they would play R9 at R10, especially with the strong wall at Q4, but I always feel nervous stretching that far, fearing a move like Black: R8.
+
+jewdan:  The best I can see Black doing is making a small moyo in center.  See the variation on this move.]
+;B[qj];W[pk]C[This move seems to basically concede the territory in the upper left to black.
+
+jewdan:  Yes, it does.  It looks to be at least sixteen points.  But, securing it is gote, so you have sente to do what you want.
+
+Let's do a quick count of what is secure to get a feel for who's in the lead.
+
+Black: UR + BR + LL = 14 + 7 + 3 = 24
+White: UR + R + LL + L + Komi = 4 + 10 + 11 + 8 + 0.5 = 33.5
+
+You are ahead in secure points by 9.5.
+
+If we look at potential for making points, Black can earn a maximum of fifteen points in the upper-left, an additional eight on the right, two in the lower-right, and maybe two in the lower-left.  Because he has no proper moyo in the center, it is hard to say how many points he can earn there, but it seems reasonable to say he earn fifteen to twenty points there, tops.  So, if everything goes his way on the sides, and he does incredibly well on the sides, he can earn another forty-seven points to win by 37.5.
+
+While you do not have the point earning potential that Black has, you have fighting strength.  The weaknesses on the board are almost all his, and you have more points, so you can spend your efforts reducing his chances while increasing your points by small amounts.  If you keep sente, you cannot lose.
+
+The place where Black has the largest potential for gain is on the top, so I would recommend attacking there as quickly as possible.]
+;B[pj];W[jq]C[jewdan:  I do not like your leaving the Q10 stones un-hane'd.  A proverb says, "Hit the head of two stones, and P10 is almost required to keep your power on the board.  The game looks very different if Black gets to play P9...
+
+Furthermore, to connect your stones, K2 is a better choice, as it cannot be cut.]
+;B[lp]
+(;W[ip]LB[ip:A][kp:B][mp:C]C[I put in a couple variations here - I think J4, my actual move, was not nearly aggressive enough and basically lets black connect his stones, despite my intention at M3 to separate them.
+
+I think I played J4 because I felt it was the easiest to predict what would happen, unlike L4 and N4 (although they don't seem so tough to read now.)
+
+jewdan:  Black can let you cut K4 off and get a great result.  This way prevents him from building any real influence, and may be for the best.]
+;B[kp];W[kq];B[mq]MA[mo]C[Seems like I made it too easy for black to connect those stones, especially after the whole point of my M3 was to split them.  My J4 in move 62 should've been somewhere else.
+
+jewdan:  P10 : )
+
+With the stones in this shape, I like a kikari at N5 (marked) to see whether he'll connect at N4 or leap up and out.  It destroys his center influence, too.
+
+But playing in the top seems more urgent.]
+(;W[gc]LB[gb:B][gc:A]C[Thought about playing this on G18 instead, giving the possibility of a connection beneath Black's J17 (or at least causing some trouble) or, if Black played J18, jumping out to G16 or F16 and putting some pressure on black's corner.
+
+jewdan:  I like F17.  See the variation.];B[fc];W[ge];B[bc]
+;W[be];B[gb];W[hc]C[Again, pretty passive in letting black connect - I could've crosscut at F18, maybe?  Suggestions?
+
+jewdan:  The best I see is F16, but that doesn't change anything.  Playing here is fairly important.]
+;B[hb];W[fd];B[ec];W[jc];B[jb]C[jewdan:  Black made a mistake here; he needs to show his L16 stone stome love.  K16 makes miai of J16 and J18, and gives the L16 a chance to fight against White's growing strength.
+
+See the variation on White's next move to see how to exploit this mistake.]
+(;W[kc]C[jewdan:  This is a mistake, as Black gets to reclaim the influence necessary to keep his left group alive.]
+;B[id];W[jd];B[he];W[gd];B[je];W[ke];B[kf];W[le];B[jf];W[gg]
+C[Not sure why I played this, other than to keep pressure on the 5 black stones on the left - I think I was also worried about my two groups becoming separated, although that doesn't seem possible, looking at it now.  A move like M14 (although I think I played that later) would be better, I think.
+
+jewdan:  I'd say O14 does more to reduce Black than M14 or G13 do.  But this move is severe, so Black has to respond to it.]
+;B[gh];W[pe];B[qe];W[pf];B[qf];W[og];B[ph];W[ok]C[jewdan:  This move does not really accomplish much on the board.  N5 makes a nice kikari, N 13 solidly reduces Black's center.
+
+Let's take another count:
+
+Black:  UR + LR + UL = 14 + 7 + 3 + 12 = 36
+White: T + R + B + L + Komi = 11 + 12 + 20 + 6 + 0.5 = 49.5
+
+So you have a solid lead of 13.5 points.
+
+You still have more chances to steal territory, and with solid reductions in the center, the lead should be easy to hold.]
+;B[qb]C[jewdan:  Imagine that you had gotten this move instead of taking P9...  sente is the first priority in the endgame, and moves like N5, B3, and R18 are sente.]
+;W[ob];B[nn]C[jewdan:  It's hard to qualify this move's value, but I'd say it's at least five points.  This move would not work if you had played N5 first...]
+;W[no];B[mo];W[np];B[mp]C[jewdan:  I would play this at N6, since that cutting point hurts worse.]
+;W[mn];B[mm];W[ln];B[nl];W[on];B[nm];W[mk];B[km]C[Evidently, I think, my N9 should've gone more toward developing my 2 stones on line 6?
+
+jewdan:  Yes.  This loss should not be devestating, though, because you can play K6 to force L6.  This keeps Black to about five points.]
+;W[kn];B[jn];W[lm];B[ll];W[jm];B[kl];W[jo];B[in];W[io];B[ko]
+;W[hn];B[im];W[hm]C[The stones at M6 were kind of wasted, I think, allowing black to develop toward the center, but did give me an opportunity to gain some territory in the lower left.
+
+jewdan:  You gave Black twelve points or more in the center.  You can make roughly that amount in the corner, so long as you start with B3.]
+;B[il];W[dn]C[jewdan:  This move is not so threatening as B3.  Black lives easily in the corner, taking six points that could have been yours.]
+;B[bq];W[br];B[ar];W[cr];B[do];W[eo];B[co];W[em];B[lr];W[kr]
+;B[mr];W[hl];B[hk];W[ik];B[jl];W[gk];B[hj];W[gj];B[gi];W[hi]
+;B[ij];W[hh]C[Again, this stone was wasted, I think -  I tend to get over-aggressive and just start cutting and extending without reading and end up wasting stones and giving black strength. Around M6 it worked okay, I think, because of the territory I could develop, but this H12 seems pretty wasteful.
+
+jewdan:  Move this stone to H13 and this becomes a frustrating reduction in sente.
+
+From here on, like you mention later in your comments, there is nothing left but endgame.  You played pretty well, but you could have paid more attention to sente moves and made your win larger.
+
+Please skip to the end for my final comments.];B[hg];W[ei];B[eh]
+;W[hf];B[ig];W[ac];B[ab];W[ad];B[bb];W[lf];B[lg];W[mg];B[lh]
+;W[mh];B[mi];W[ni];B[lj];W[nk];B[lk];W[od];B[pc];W[qa];B[ra]
+;W[pa];B[rb];W[rj];B[ri];W[rk];B[oh];W[ng];B[nh];W[mj];B[li]
+C[The rest of the moves here, while there are probably better options, seem like pretty typical endgame moves.  I don't see much opportunity for black or white to gain large chunks of territory or capture any exising groups.]
+;W[si];B[rh];W[sh];B[sg];W[sj];B[rg];W[op];B[oq];W[el];B[cm]
+;W[fg];B[ej];W[fj];B[ii];W[cj];B[fh];W[ja];B[ib];W[om];B[oc]
+;W[nb];B[oi];W[nj];B[ld];W[me];B[ia];W[lb];B[ka];W[la];B[dm]
+;W[en];B[cp];W[dq];B[if];W[gf];B[cg];W[bg];B[ed];W[ee];B[cd]
+;W[ce];B[al];W[ak];B[am];W[ol];B[lo];W[eg];B[ih];W[ks];B[ls]
+;W[hd];B[ie];W[ja];B[bs];W[cs];B[aq];W[as];B[ka];W[bs];B[ja]
+;W[tt];B[tt];W[tt]C[rain55 10k : rain55 dead @ J9
+ yearofglad 9k : yearofglad dead @ M16
+ rain55 done];TB[bn][cb][aa][ba][ca][da][ea][fa][ga][ha][sa]
+[db][eb][fb][sb][dc][rc][sc][qd][rd][sd][re][se][rf][sf][jg]
+[kg][qg][hh][jh][kh][qh][ei][hi][ji][ki][pi][qi][kj][ik][jk]
+[kk][jm][lm][kn][ln][mn][ao][ap][nr][or][rr][sr][ms][ns][os]
+[ps][qs][ss]TW[iq][dr][er][fr][gr][hr][ir][jr][mf][es][fs][gs]
+[hs][is][js][ma][na][oa][mb][lc][mc][kd][ld][md][ds][nd][ae]
+[fe][oe][af][bf][ff][nf][of][ag][ah][bh][ai][bi][aj][bj][fk]
+[sk][fl][gl][pl][ql][rl][sl][fm][gm][pm][qm][rm][sm][fn][gn]
+[qn][ro][rn][sn][fo][go][ho][oo][po][qo][so][ep][gp][hp][eq]
+[fq][gq]C[So while I won 72.5 to 71, I felt like after the opening I was in good shape to get more. Reviewing the game, I felt I certainly could've done better along the bottom middle when I allowed those two black stones to easily connect.
+
+Apart from that, though, this is a game where I felt like I didn't make any OBVIOUS mistakes or misreads (apart from wasting some stones around M6 and H11), so am not sure what I should've done differently.
+
+Thanks.
+
+Todd
+[E-mail address censored out by reviewer for Todd's protection\]
+
+jewdan:  You played fairly well.  If you work on your attention to shape (what's strong, what's weak, where vital points are) and counting, your playing strength will explode.  Work on reading problems, learn to count, and play your games constantly asking the questions, "Do I HAVE to respond to what my opponent is doing? What ELSE could I do?"
+
+Good luck with your future games!
+
+<end of review>])
+(;W[id];B[ib];W[kc]C[jewdan:  If Black plays passively, L16 is cut off and in danger of getting swallowed up.  But he does not have time to take care of it...]
+;B[hi]C[jewdan:  ... because White's strength is sufficient to take this point and probably kill Black's left group.]
+;W[jf]C[jewdan:  White swallows an extra ten points.  Black has only gained twelve points in the upper-left, so White maintains a healthy lead.
+
+Note that this move can wait until later since it's gote.  This move gets even juicier if you build a wall atop Black's right group by harassing its open edges, and peeping at N5 helps lower Black's potential in the center.
+
+<jewdan>]))
+(;W[gb]LB[gb:B][gc:A])
+(;W[fc];B[fd];W[ed];B[ec];W[gd];B[ee];W[fe];B[ed];W[gf];B[gc]
+;W[hc];B[gb];W[hd];B[hb];W[id];B[jc];W[hi]C[jewdan:  Black makes his fifteen points on the top, but you gain a potentially fatal attack on Black's left group, plus potential to earn more points in the center.  Plus, with the points you earned on the bottom and in the center, you still have a slight lead in solid points.  The game is in your favor.]
+;B[hh];W[gh];B[gi];W[hg];B[hj];W[ii];B[gk];W[ij];B[ik];W[fj]
+;B[gj];W[jk];B[ji];W[ih];B[jh];W[jl];B[gm];W[fl];B[hm];W[en]
+;B[jn];W[im];B[in];W[hn];B[il];W[jm];B[kk];W[km];B[kn];W[lm]
+C[jewdan:  There's a lot of moves in this sequence, so I probably made a mistake somewhere.  However, this should give you a sense as to how the fighting is in your favor on this board.
+
+<end of variation>]))
+(;W[kp]LB[ip:A][kp:B][mp:C]C[Would a move like this be better - this seems more guaranteed to split some of the black stones off, but does create more uncertainty in the reading, I think, which is probably why I opted for J4 - it was a safer, easier-to-read play.
+
+jewdan:  This works.
+
+<end of variation>])
+(;W[mp]LB[ip:A][kp:B][mp:C]C[Likewise here - if black cuts at N3, then L4 and after Black's move I can connect at either O4 or N3, probably.]
+(;B[mq]LB[np:B][mq:A];W[kp];B[lo];W[np]C[jewdan:  This variation allows the following:]
+;B[ko];W[kq];B[jo]C[jewdan:  White can at best annoy Black while attacking the five stones, but they cannot be seriously threatened.
+
+<end of variation>])
+(;B[np]LB[np:B][mq:A];W[mq];B[mo];W[kp];B[lo];W[ko];B[kn]C[jewdan:  Do you know the driving tesuji?]
+;W[jo];B[jn];W[io];B[ok]C[jewdan:  Points are starting to materialize in the center.
+
+<end of variation>])))
+(;W[qj];B[ql];W[pl];B[pk];W[qk];B[pm];W[ol];B[om];W[qm];B[rl]
+;W[rm];B[on];W[qn];B[nl];W[ok];B[nk];W[oj];B[lp]C[jewdan:  This is the best I can see that Black can try.  He tries to claim about twenty points in the center, and has the opportunity to take more if you let him.  However, you have made fourteen solid points on the right side and have sente to invade his upper-right (R14 is looking better than ever.  You'll take more points in sente, then you can turn to the upper-left or to the bottom to save your M3 stone as you please.
+
+I've been mentioning R14 the entire game, so I may as well show it to you now, because Black's next move in the real game kills it.]
+;W[qf];B[qg]C[jewdan:  Assuming an aggressive response...];W[pe]
+;B[pf];W[qd];B[oe];W[qe];B[od];W[rc];B[nd];W[oc];B[pc];W[qb]
+;B[mc];W[mb];B[nb];W[ob];B[md];W[nj]C[jewdan:  White has made a twelve-point corner in sente.  Black will make points from his influence, but White's play here means Black will be reduced either above or below White's group.  Furthermore, White no longer has any real weaknesses on the board, and can make or reduce territory as he sees fit.
+
+<end of variation>]))
+(;B[lb]C[jewdan:  Black directly attacks your base.  His two corner stones may look vulnerable, but there is plenty of aji against your stones to work this to his favor.]
+;W[qe];B[pe];W[qf];B[pf]
+(;W[qg]C[jewdan:  I think White needs to extend one more line like his to have a fighting chance.]
+;B[nf];W[me];B[mf];W[le];B[qb];W[ke];B[jd];W[kg];B[pi];W[oh]
+;B[ph];W[og];B[of];W[pg];B[mh];W[if];B[hd]C[jewdan:  Black has the top in the bag, White's top group is running without profit, and Black can start White's right group running with a move at S12.  Plus, Black can either wriggle his corner group out or live in the corner.
+
+<end of variation>])
+(;W[pg];B[qg];W[qh];B[rg];W[rh];B[og];W[ph];B[nf];W[qb];B[rb]
+;W[me];B[kf]C[jewdan:  I think White's dead.  Even if he isn't, he needs to flail inside without profit to secure a few points while Black fortifies his outside and secures the game.
+
+<end of variation>])))
+(;W[kb];B[ne]C[jewdan:  White should live, but Black has a very flexible group plus the tengen staring down the left side of the board.  He also has potential to threaten White's flimsy top group and start a moyo on the top despite White's efforts.]
+(;W[kc];B[qn]LB[qi:A][qk:B][qf:C][rp:D]C[jewdan:  A proverb says, "Play away from strength, and close to weakness."  This move stays away from Black's very healthy upper-right corner and prods the lower-right corner.  Note that White can invade the right side and probably live at S11 (A), but Black will gladly force R9 (B), R14 (C), S4 (D).  Black trades some of his influence to dominate the lower-left and get a strong fighting position against White's stones at A and C.  The upper-left corner has options for living or escaping easily, so I feel that White is rushing to catch up on such a board.
+
+<end of variation>])
+(;W[ql]C[jewdan:  Truth be told, this may be too close to the upper right, but I'm just trying to show how Black ignores a modest-looking reduction.]
+;B[lb];W[lc];B[kc];W[mb];B[jb];W[la];B[ld]C[jewdan:  Now Black has a moyo at the top, and potential still remains on the right side.  This game looks easy for Black.
+
+<end of variation>])))
+(;W[ne];B[pf];W[pb];B[qc];W[kb];B[qj];W[kc]MA[qn]C[jewdan:  Black has good potential on the right side, and may wish to develop that by playing R6 (marked).
+
+Note that, despite your intentions of preventing Black from making a moyo, he gets one.  I've looked at a few joseki to see if you have any better alternatives, but they all seem to end with similar results.  Black's results benefit from the presence of the tengen stone.
+
+So, you are probably better off approaching from the outside, or playing on the K column as I mentioned.
+
+<end of variation>]))

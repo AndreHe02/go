@@ -1,0 +1,241 @@
+(;FF[1]GM[1]SZ[19]VW[]C[comments by jloup 9k (to be taken with caution :-)]
+PB[mop]BR[14k]PW[Kang]WR[14k*]GN[Kang-mop(B) IGS]EV[A game played on the Internet Go Server]
+DT[1994-04-05]PC[IGS:  hellspark.wharton.upenn.edu 6969]TM[1800]RE[W+Resign]
+US[Brought to you by IGS]KM[5.5];B[dp]C[From the etiquette guide: Tradition has it that Black places the first stone in the
+upper right corner of the board.];W[pd];B[dd];W[qq];B[dj];W[jd];B[oq]C[B p3 is perhaps a bit too far from black's left side.]
+;W[op];B[np];W[oo];B[no]L[pq]C[b should push at a first];W[on];B[pj]
+L[pq]C[B a is still more urgent...];W[nq]C[... and w shows why.];B[mq]
+;W[nr];B[mr];W[or]L[mp]C[w is happy with a large corner and black's wall still has a cutting point at a.]
+;B[qm]C[Consolidating the bottom side first might be better.];W[fc];B[df]
+;W[qg];B[nc]M[pj][qm]C[B is looking for trouble (inviting a splitting attack between o17 and the marked stones).
+B could consolidate the bottom side instead.];W[oc];B[nd];W[lc];B[ld];W
+[kd];B[le];W[og];B[hc]M[nc][nd][ld][le]C[ Kang 14k*: kill what?!
+
+b h17 is an overplay. b must first take care of the marked stones.];W[hd]
+;B[id];W[ic];B[gd];W[ie];B[gc]L[cc][ge]M[nc][nd][ld][le]C[b has stengthened white so the marked group can now become the target of a strong attack.
+Even if b saves itself, the w attack may endanger b q10.
+
+
+W must not force at b before invading the corner otherwise the invasion fails (variation B)]
+
+(;W[cc]L[dc][cd]M[nc][nd][ld][le]C[I think that the attack of the marked group is more urgent than the corner
+invasion. B b resists much more strongly than a; W can probably live but
+only by ko (see long analysis of variation B).]
+(;B[dc]M[gc][hc][gd]L[db][bd]C[W a would be the joseki move in the absence of the marked stones but W b is better
+here (variation B)]
+(;W[db];B[eb]L[bb][bd]M[gc][hc][gd]C[W a would be the joseki move in the absence of the marked stones but W b is better
+here];W[bb]L[cd][bd]C[B b is better here (variation B)]
+(;B[cd];W[bd];B[be];W[ae];B[bf];W[fq]M[no][np][mq][mr]L[dn][hq][da]
+[hp][ip]C[W should have first added a move at c, otherwise the corner dies (variation C).
+
+
+Even if B does not see the move at c, B should make a pincer at b, d or e instead of a.
+
+This would also act as an extension from the marked group. B should welcome the 3-3
+invasion (variation B).]
+(;B[dn]M[no][np][mq][mr]L[hq][hp][ip];W[dr];B[cq];W[iq]M[no][np]
+[mq][mr]C[Now the marked stones start looking rather weak. B has obtained nothing
+in exchange for giving a large corner to white at the beginning.];B[kp]
+;W[qk];B[pl];W[ri];B[pk];W[qj];B[he]M[nc][nd][ld][le]C[B is again looking for trouble (strengthening W and weakening the marked stones).]
+;W[if];B[hf];W[ig]M[nc][nd][ld][le]L[lg]C[W might also play a immediately instead of j13. Ensuring the capture of the marked stones
+is very big.];B[lg];W[ni];B[ph];W[li];B[kh];W[kf];B[lf];W[ii];B[ki];W[lj]
+;B[jj];W[ij];B[jk];W[kg];B[lh];W[ml]L[pg]C[W a would be better. This would keep the B groups separated and maintain the
+double attack.];B[pg];W[qf];B[pf];W[pe];B[of]L[nm]M[og][ni][li][lj]
+[ml]C[B is happy to connect the groups and has an opportunity to attack the marked
+stones at 'a' once the bottom B group has settled itself.];W[gg];B[hg];W
+[hh];B[gh];W[ge];B[id];W[ji]L[qo][kj][nm]M[li][ni][lj][ml][og]C
+[This is not a threat against the big B group which has already one eye and can get
+another one at a. Also if B answers at b, the marked stones become even weaker
+against a B attack at c.];B[kj];W[hd];B[da]L[cb]C[This kills the corner even if W connects at a, as seen previously.]
+;W[gf]C[W gets thickness but the loss of the corner is very big.];B[cb]
+L[nm]C[This move is not urgent since W can at best get a bad double-stage ko.
+B could attack at a immediately.];W[hl]M[li][ni][lj][ml]C[W h8 is not very effective. Defending the marked stones and putting pressure against the
+bottom B group is probably better.];B[ik];W[hk];B[nm]C[good.];W[km];B[jm]
+;W[mn];B[nn];W[ko]L[jo][kl]C[B should force at b first. This probably kills W.]
+
+(;B[jo];W[jn];B[in];W[kn];B[ip]C[ Kang 14k*: w relaxed too early];W[kl]
+;B[im];W[nk];B[nl];W[mm]C[ Kang 14k*: death to whom?
+ Kang 14k*: hopefully not to w...
+
+W is alive now but the attack has permitted B to connect his groups in sente.]
+;B[nj]C[This does not work as the game showed.];W[oj]M[ko]L[pi][mp]
+C[Now B has the cuts at a and b to worry about (because of the marked stone).]
+;B[mk]C[A second gift for W.];W[mj];B[lk]C[... and a third one.];W[kk]L[ok][ll]C[ mop 14k : is entering byo-yomi
+ Kang 14k*: should p9 oprobabaly
+
+If B at a, W simply captures at b and is alive.];B[mh]L[pi]C[ death 16k*: m5
+
+
+B n12 does not threaten the life of the W group since after W a, W can either escape
+or live locally.];W[pi];B[oh]C[
+ Kang 14k*: is entering byo-yomi];W[mp];B[mo];W[lp];B[lo];W[lq];B[kq];W
+[lr];B[kr];W[ms];B[ok];W[ll]L[ln][oi]C[ death 16k*: m8 makes m6, n11 miai
+
+B a is the losing move. B should double atari at b (variation B).]
+(;B[ln]C[This is a gift of one extra prisonner.];W[om]M[ok][pj][pk][pl]
+[qm]L[qp][ol][oi]C[B b does not work anyway (variation B). The best B can do is to save the marked
+stones with variation C.]
+(;B[qp]L[oi]C[B should not try to live locally. Connecting at a is simpler.]
+;W[oi]C[ Kang 14k*: phew
+ death 16k*: Why not p8?!
+
+(answer: because p8 does not work as shown in the previous variation).]
+;B[pq];W[pp];B[qo];W[rq];B[go]L[cr]C[This should be at a to attack W much more strongly.]
+;W[fo];B[fn];W[cr];B[fp]C[Too small.];W[bq];B[bp];W[dq];B[eo]C[B is filling his own territory in gote.]
+;W[cp];B[co]M[co][dn][dp][eo][fp][fn][go]C[The marked stones are very over-concentrated.]
+;W[dh];B[gj];W[hj]L[gi][eg]C[Black's only hope of staying in the game is to kill the invasion (variation B).]
+
+(;B[gi]M[gh]C[B is too concerned about saving a single stone.];W[eg];B
+[ch];W[ob];B[gk];W[ej];B[di];W[ei];B[ek];W[cg];B[bg]L[dg]C[B should resist at a instead.]
+;W[ci]C[
+ mop 14k : has entering byo-yomi again];B[bh];W[dk];B[cj]C[
+ Kang 14k*: has entering byo-yomi again];W[fk];B[el];W[gl]M[gh][gi][gj]
+[gk]C[ mop 14k : waou... resign
+ Kang 14k*: ok
+
+
+B would lose anyway even if he saves the marked stones; white's right side is just too big.]
+)
+(;B[eg];W[fh]M[gh]C[If W wants the marked stone that B was defending...]
+;B[eh]M[gh]C[... B should be happy to give it away.]))
+(;B[ol];W[oi];B[qh];W[rh];B[qi];W[mi]M[pj][pk][pl][ok][ol][nl][nm][nn]
+[no][mo][ln][lo][np][oq][qm]C[W lives and the marked group is dead.])
+(;B[oi];W[ol];B[nj];W[lm]C[B has the consolation of finishing in sente.]
+))
+(;B[oi];W[ln];B[nj];W[mk]M[pj][pk][ok][pl][qm][nl][nm][nn][no][np][mo]
+[lo]C[B saves the marked group in sente.]))
+(;B[kl];W[lm];B[mm];W[ll];B[jo];W[jn];B[in];W[kn];B[ip];W[mo];B[mp];W[lo]
+;B[nk]C[W is dead]))
+(;B[hq];W[cq];B[cp];W[dq];B[ep];W[fr];B[go]C[B should be very happy with this.]
+)
+(;B[da]L[cb][ca]C[The best W can get is a bad double-stage ko at b. If W tries to resist at a...]
+
+(;W[cb]
+(;B[ac]L[ab][ad]C[W a and b both fail]
+(;W[ab];B[ad];W[bc];B[ad];W[fb];B[ec]M[gc][hc][gd]C[W is dead and the marked stones can escape.]
+)
+(;W[ad]L[af][ab]C[B a and b both kill W but a is simpler.];B[af];W
+[bc];B[ab]L[ca]C[W can't play at a because of shortage of liberties.]
+;W[aa];B[ca]L[ec][fb]C[W a and b both fail.]
+(;W[ec];B[fb];W[ba];B[gb];W[ea];B[da]C[W is dead.])
+(;W[fb];B[ec]M[gc][hc][gd]C[W is dead and the marked stones can escape.]
+)))
+(;W[ca];B[cb]C[Bad ko for W.]))
+(;W[ca]L[ec][cb]C[This is a very bad ko for W. B first takes at b, but even if W wins this ko and
+connects at b, B a gets another ko, as shown in the next moves.];B[ec];W
+[cb];B[ac]L[ab][ad]C[W a dies, W b gets another ko.]
+(;W[ab];B[ad];W[bc];B[ad])
+(;W[ad];B[ab];W[aa];B[ba]L[ea]C[Bad ko for W. W can't take at a because...]
+;W[ea];B[af];W[bc];B[da]))))
+(;B[bd];W[cd];B[ce];W[bc];B[be];W[ca]C[this would be better for b than the actual game.]
+))
+(;W[bd];B[bf];W[db];B[eb];W[bb];B[da];W[cb]M[dc][dd][eb][gc][gd][hc]C[w lives easily. The marked stones are overconcentrated.]
+))
+(;B[cd]L[dc][bd]C[W a fails but W can probably live with b.]
+(;W[dc];B[bc];W[bb];B[bd];W[ab];B[eb];W[ec];B[fb];W[db];B[ca];W[ba];B[da]
+;W[fd]L[fe][ge]C[B a fails but b wins.]
+(;B[fe];W[ge];B[ed];W[cb]L[gb][fa]C[B a and b both fail.]
+(;B[gb];W[ea];B[da];W[ib];B[fa];W[hb];B[ac];W[ha];B[ea];W[ga])
+(;B[fa];W[ea];B[da];W[hb];B[gb];W[ha];B[ib];W[jb];B[ac];W[ia];B[ea];W[ga]
+))
+(;B[ge];W[fe];B[gf];W[ff];B[fg];W[eg];B[ef];W[gg];B[fh];W[hf];B[ea]L[cb]
+[he][dg][ac]C[W a and b both fail. If W c, B d also wins.]
+(;W[cb];B[gb];W[ib];B[ed];W[he];B[ee];W[hb];B[ac])
+(;W[he];B[ac]L[cb][hb]C[W a and b both fail]
+(;W[cb];B[gb];W[ib];B[ed];W[hb];B[ee])
+(;W[hb];B[gb];W[ib];B[cb]))))
+(;W[bd];B[be]L[bb][db]C[W a fails but b probably lives (but only by ko).]
+
+(;W[bb];B[db]L[cb][ac]C[W a and b both fail]
+(;W[cb];B[ac];W[dc];B[eb];W[ec];B[fb];W[fd];B[fe];W[ge];B[ed]L[hb][ad]
+C[W a and b both fail.]
+(;W[hb];B[gb];W[ib];B[bc];W[ga];B[ab]L[fa][ba]C[W a and b both fail.]
+
+(;W[fa];B[ba])
+(;W[ba];B[ad];W[fa];B[aa]))
+(;W[ad];B[ae];W[bc];B[ab]L[aa][ca][ba][hb]C[W fails in all variations.]
+
+(;W[aa];B[ca];W[hb];B[gb];W[ib];B[da];W[ga];B[ab]L[ac][fa][ba]C[W a and b both fail (in both cases B plays c).]
+)
+(;W[ca];B[aa];W[ba];B[ab];W[hb];B[gb];W[ib];B[da];W[ga];B[aa];W[ac];B[ab]
+)
+(;W[ba];B[da];W[hb];B[gb];W[ib];B[ca];W[aa];B[ab])
+(;W[hb];B[gb];W[ib];B[ca];W[aa];B[ab];W[ac];B[da];W[ga];B[ba])))
+(;W[ac];B[cb];W[dc];B[ec];W[bc];B[ed]))
+(;W[db];B[bc];W[bb];B[ad]M[gc][hc][gd]L[ab][eb][dc]C[W a and b fail but c probably lives thanks to the weakness of the marked stones.]
+
+(;W[ab];B[eb]L[dc][ec]C[W a and b both fail.]
+(;W[dc];B[ca];W[ec];B[fb];W[ba];B[da];W[cb];B[gb];W[fd]L[fe][ge]C[B a fails but B b wins.]
+
+(;B[fe];W[ge];B[ed];W[ea];B[da];W[ib];B[fa];W[hb];B[ea];W[ha];B[ac];W[ga]
+)
+(;B[ge];W[fe];B[gf];W[ff];B[fg];W[eg];B[ef];W[gg];B[fh];W[hf];B[ea];W[he]
+;B[ed];W[ib];B[ee];W[hb];B[ac]))
+(;W[ec];B[fb];W[dc];B[ca]C[This falls back to the previous variation.]))
+(;W[eb]L[ab][fd][dc]C[B a and b fail, but c probably wins.]
+(;B[ab];W[fd]L[dc][ge]C[W f16 allows a connection at a in sente. This is why W must not push
+at b before invading the corner.];B[ge];W[gb];B[hb];W[dc]L[ed][ba]
+[ga]C[W lives in all variations]
+(;B[ed];W[ca]C[W is alive])
+(;B[ba];W[fa];B[ed];W[ec];B[da];W[cb];B[ca];W[ea];B[ac];W[aa];B[ba];W[ca]
+)
+(;B[ga];W[ca];B[ea];W[fb];B[fa];W[ed]))
+(;B[fd];W[gb];B[hb];W[ab]C[W is alive];B[ga];W[fb];B[fa];W[ea];B[ca];W[ba]
+;B[cb];W[dc])
+(;B[dc];W[gb];B[hb];W[cb];B[ab]L[ga][fd]C[W can't live locally at a but the escape at b does not seem to work either.]
+
+(;W[ga];B[ba];W[ca];B[ea];W[fa];B[ec];W[fd];B[ha];W[da];B[fe];W[ge];B[ed]
+)
+(;W[fd];B[ge];W[fe];B[gf];W[ff];B[fg];W[gg];B[hf];W[eg];B[fh];W[ef];B[eh]
+;W[dg];B[cf];W[dh];B[di];W[bg];B[bi];W[de];B[cg];W[ga];B[ba];W[ca];B[ec]
+;W[ea];B[fb]C[W dead.])))
+(;W[dc]L[ab][ba][fb]C[B fails with b and c but can get a ko with a.]
+
+(;B[ab]L[ca][ba]C[W a gets a ko (W b fails).]
+(;W[ca];B[fb];W[eb];B[gb];W[ea];B[ba];W[aa]L[fd]C[It is difficult for B to win the ko because W has a long chain of threats starting with a.
+
+But since this is the best result for W so far, it seems that W cannot live unconditionally.]
+)
+(;W[ba];B[fb];W[eb];B[gb]L[fd]C[W is dead (escape at a fails as seen in a previous variation).]
+))
+(;B[ba];W[fd];B[ge];W[ab];B[ca];W[fb];B[ed];W[ec]C[W is alive])
+(;B[fb];W[eb];B[gb];W[ab]C[W is alive]))))))
+(;W[ge];B[fd];W[cc]C[This invasion no longer works.];B[cd]L[dc][bd]
+C[W a and b both fail]
+(;W[dc];B[bc];W[bb];B[bd];W[ab];B[eb]L[ec][db]C[W is dead in all variations.]
+
+(;W[ec];B[fb];W[db];B[ca]L[ba][da]C[W a and b both fail]
+(;W[ba];B[da]L[ed][cb]C[variations A and B are equivalent; B wins in both cases.]
+
+(;W[ed];B[ee];W[cb];B[gb];W[ea];B[da];W[fe];B[fa];W[ib];B[ac];W[hb];B[ea]
+;W[ha];B[ca])
+(;W[cb];B[gb];W[ea];B[da];W[ed];B[ee];W[fe]C[this goes back to a previous variation where B wins]
+))
+(;W[da];B[ba]))
+(;W[db];B[ca]L[ec][ba]C[Both W a and b duplicate previous branches where W fails.]
+
+(;W[ec];B[fb]L[ba][da]C[Both W a and b duplicate previous branches where W fails.]
+)
+(;W[ba];B[da];W[ec];B[fb]C[this duplicates a previous branch where W fails]
+)))
+(;W[bd];B[be]L[bb][db]C[W a and b both fail]
+(;W[bb];B[db]L[ac][cb]C[W a and b both fail]
+(;W[ac];B[cb];W[dc];B[ec])
+(;W[cb];B[ac]L[ad][dc]C[W a and b both fail.]
+(;W[ad];B[ab]L[ca][dc]C[W a and b both fail.]
+(;W[ca];B[ae];W[bc];B[aa];W[ba];B[ab];W[dc];B[eb];W[ec];B[fb];W[ed];B[ee]
+;W[fe];B[da];W[hb];B[gb];W[ha];B[aa];W[ac];B[aa])
+(;W[dc];B[eb];W[ec];B[fb];W[ed];B[ee];W[fe];B[ae];W[bc];B[ca];W[aa];B[da]
+;W[hb];B[gb];W[ha];B[ba];W[ga];B[ab]))
+(;W[dc];B[eb];W[ec];B[fb];W[ed];B[ee];W[fe];B[bc];W[hb];B[gb];W[ib];B[ab]
+)))
+(;W[db];B[bc];W[bb];B[ad]M[ge][fd]L[ab][dc][eb]C[W fails in all variations because of the previous exchange of the marked stones.]
+
+(;W[ab];B[dc]L[eb][cb]C[W a and b both fail]
+(;W[eb];B[cb];W[ca];B[cc];W[ba];B[fb];W[ec];B[gb];W[ed];B[ee];W[fe];B[da]
+;W[ea];B[fa];W[da];B[ac])
+(;W[cb];B[eb];W[da];B[ba];W[fb];B[ec]))
+(;W[dc];B[eb];W[ec];B[fb];W[ab];B[ca];W[ba];B[da];W[cb];B[gb];W[ea];B[da]
+;W[ed];B[ee];W[fe];B[fa];W[ib];B[ac];W[hb];B[ea];W[ha];B[ca])
+(;W[eb];B[ab];W[gb];B[hb];W[ba];B[dc];W[cb];B[ec];W[fb];B[ga];W[fa];B[da]
+)))))

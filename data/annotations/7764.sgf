@@ -1,0 +1,184 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.17]
+
+PB[pondfrog]
+BR[8k]
+PW[GPG]
+WR[8k]
+KM[6.5]
+DT[2010-03-28]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[B+7.5]
+TM[1200]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+C[Hi, In this game I played White.  It's somewhat of a close game.  But in the end I lost by 7.5 with komi.  The problem is, I am not quite sure what mistakes I made.  But there are a few parts where I was not sure what to do.  Please comment on my mistakes, point out better moves, and how to punish my opponent for playing bad moves.
+
+Thank you in advance.
+
+Hagios: This was an interesting game where your opponent overplayed a lot, but you responded mostly passively towards him.  I'll try to point out some of the main mistakes and areas you could best work on.]
+;B[pp];W[pd];B[dd];W[cp]C[Ok I am not used to playing games that starts with cross corner openings like this.  Not sure if its coincidence, but i lose most of them.  Is there any tips or anything i should pay special attention to when this happens?
+
+H: Of course if you hate this sort of opening, you will lose it more often.  You have two options here: Play more of this tasuki fuseki (cross fuseki) so you can get better at it, or avoid it by playing a parallel fuseki such as nirensei or sanrensei.
+
+Remember, both players must agree to play this sort of opening for it to occur.  If you don't want it, you have to choose to avoid it.]
+;B[dp]C[this move, I am not quite sure how to repspond to this.  I definitely want to keep the corner if possible, but at the same time I don't want to be closed in.  I have been taught an approach as close as this is not good, but i am not sure how to counter it.
+
+H: This move, I'm also not certain how to respond.  A rule of thumb is, if your opponent plays tsuke, you have two choices: nobi or hane.  We can explore all of these possibilities simply.]
+(;W[cq]C[H: As we saw, the hane variations had a better chance to end favorably for W.  These nobi variations are less forceful, in general.]
+;B[dn]C[H: This threatens to damage W's shape at c5.  It would be wise to play c5, to prevent a bulge by B (see variations)]
+(;W[dq]LB[co:A]C[H: This helps B create a thick shape facing the center, and helps strengthen the ability to play his bulge shape at A later.]
+;B[ep]
+(;W[qj]
+(;B[qd];W[qc];B[pe];W[od];B[re]LB[rc:B][rd:A]C[H: Here, we have to consider A and B as possible moves.]
+(;W[ic]C[H: This neglects the most urgent area of the board.]
+;B[rc];W[qb];B[jc]
+(;W[lc]LB[ic:3][jc:2][lc:1]C[What do you think about this move?
+
+H: I don't like this move.  Let's consider a tewari, with my new move numbers.
+
+After W 1, B plays 2, a checking extension.  You surely wouldn't play 3!  By playing m17, you turned his strange move at k17 into a good one, and you turned your good move at j17 into a strange one!]
+;B[kd]
+(;W[id];B[kb]C[H: B noticed his weakness and fixed it.  Now this fight is hard for W, even with a 1 move advantage]
+;W[lb];B[ib];W[fc];B[hc];W[cf];B[fd];W[cc]C[Was this a good choice?
+
+H: These moves feel natural, so I think this isn't bad.];B[cd]
+;W[dc];B[gc];W[ed];B[ee];W[ec];B[df];W[ce];B[de]C[H: Here I would immediately connect.  Dangerous not to...]
+(;W[cg];B[be];W[bc];B[bd]C[H: Now your c14 group feels weak.  B should profit from this fight.]
+;W[gb];B[hb]
+(;W[ga];B[ge]LB[ha:A]C[H: Now B is safe, and A is always his sente.  W has 2 small corners, and a weak group at c15.  B is favorable in this game.]
+;W[qn];B[qo];W[pn]C[H: The AB exchange is good for W, forcing W to make a good shape (extend 3 spaces from a wall of 2 stones)]
+;B[rp]C[H: I guess this is a shape that B prefers in his games.  This aims at s6.]
+;W[kq];B[mq];W[hq]
+(;B[gq];W[fq]
+(;B[fp];W[gp];B[gr];W[fr];B[hp];W[go];B[iq];W[hr];B[ir];W[gs]
+;B[jp];W[lp];B[rn]TR[qp][nq][oq][pq][qq][rq][sq][nr][or][pr]
+[qr][rr][sr][ns][os][ps][qs][rs][ss]C[I think I lost mainly because of black's bottom right corner territory.  Is there a way to invade or reduce it at this point?
+
+H: 19 points is a big corner, but it's not a game.  There were a lot of areas to improve the game earlier, so this single problem can't be called the losing point.]
+;W[rm];B[mp];W[lo];B[nn];W[mo];B[no];W[ho];B[jn];W[ip];B[io]
+(;W[hp];B[jq];W[lm];B[nl];W[qg];B[qf];W[pg];B[rg];W[rh];B[rb]
+;W[oc];B[qa];W[pb];B[ld];W[ne];B[of];W[mf];B[kf];W[if]C[H: Your 2 stones are heavy now.  Better to have thrown them away.]
+;B[lg];W[lk];B[mk];W[in];B[jo];W[im];B[kr];W[jm];B[lj];W[kk]
+;B[lq];W[ck];B[dj];W[cj];B[dh];W[ch];B[ci];W[bi];B[di];W[dk]
+;B[fj];W[fk];B[gk]
+(;W[ij]C[H: This was the losing move.  After this, there are no chances.]
+;B[ek];W[fl];B[el];W[fm];B[em];W[cm];B[cn];W[bm];B[bn];W[bf]
+;B[ac];W[ab];B[ad];W[cb];B[hj];W[ii];B[ig];W[hg]TR[fe][ff][eg]
+[fg][gg][eh][fh][gh][ei][fi][gi]SQ[ic][id][if]C[Is this any good? I would like to get into the marked areas and save the stones at J17-16.
+
+H: No, there's no way to fix this.  You should have thrown the stones away before.]
+;B[hh];W[ih];B[jg];W[hi];B[hf];W[gh];B[gg]
+(;W[hh];B[dg];W[bh];B[fn];W[gm];B[gn];W[hn];B[hl];W[hm];B[ik]
+;W[jj];B[jk];W[kj];B[li];W[ll]C[H: Not necessary, better played elsewhere.]
+;B[sm];W[rl];B[pl];W[ql];B[am];W[al];B[an];W[bl];B[aq];W[ap]
+;B[bp];W[bq];B[ao]
+(;W[br];B[ar];W[eq];B[en];W[co];B[bs];W[cs];B[ap];W[pk];B[ok]
+;W[pj];B[sh];W[si];B[sg];W[ri];B[oh];W[ph];B[og];W[oi];B[ni]
+;W[oj];B[nj];W[mg];B[mh];W[fg];B[gf];W[fi];B[gj];W[ff];B[fe]
+;W[pm];B[ol];W[sl];B[mn];W[ln];B[md];W[mc];B[la];W[ma];B[ka]
+;W[nb];B[nd];W[oe];B[pf];W[nc];B[ha];W[eb];B[kp];W[sn];B[ro]
+;W[so];B[sp];W[sm];B[pa];W[oa];B[ra];W[oo];B[op];W[kh];B[lh]
+;W[kg];B[jf];W[dl];B[eh];W[fh];B[ki];W[jh];B[lf];W[me];B[ng]
+;W[le];B[ke];W[is];B[js];W[hs];B[on];W[po];B[om];W[qm];B[mm]
+;W[jl];B[kn];W[km];B[ej];W[af];B[as];W[do];B[gl];W[il];B[hk]
+;W[fo];B[eo];W[dm];B[ea];W[da];B[tt]C[In addition, just some tips or suggestions for the end game would be nice too.]
+;W[tt]TW[aa][ba][ca][ea][fa][na][bb][db][fb][mb][ob][pc][ag]
+[bg][ah][qh][ai][pi][qi][aj][bj][rj][sj][ak][bk][qk][rk][sk]
+[cl][kl][gq][cr][dr][er][gr][ds][es][fs]TB[ia][ja][sa][jb][sb]
+[ic][sc][gd][hd][id][jd][rd][sd][he][ie][je][qe][se][if][rf]
+[sf][nh][mi][mj][nk][nm][np][qp][kq][nq][oq][pq][qq][rq][sq]
+[jr][lr][mr][nr][or][pr][qr][rr][sr][ks][ls][ms][ns][os][ps]
+[qs][rs][ss]C[Thank you for your help
+
+H: This game wasn't lost in the endgame.  B ended this game ahead on the board by 14 points.  If you would like to improve your endgame, look into the book Get Strong at the Endgame by Richard Bozulich, published by Kiseido.  In the meantime, the following things you might want to work on, are as follows:
+
+1) Attacking spirit!  If your opponent does something weird (like move 5) then you need to be willing to fight over the validity of the move.  As the game was, you allowed him to make your position worse than his after a strange move.  If that was a normal sequence, then the 3,4 point would be ignored by amateurs and pros alike.
+
+2) Positional judgement.  You should consider each structure's strengths and weaknesses, as well as how it is working with other stones.  s17 is a good example of letting your opponent get a good move that should have been yours.
+
+3) Direction of play and consistency.  You almost could have killed the e4 group, which would have kept you in the game.  At the last minute, you changed your mind and jumped into your opponents (comparatively smaller) territory.  This kind of inconsistency will destroy your game.
+
+I hope this has been helpful to you.  If you have any other questions, please feel free to ask me.]
+)
+(;W[ar]C[H: When you're behind already, avoiding these kos only loses more points.]
+))
+(;W[fg]C[H: This counter-atari is good.];B[dg];W[gf];B[he]C[H: Not enough to win, but better than the game.]
+))
+(;W[ek]C[H: Now your corner is also big.  To me, this looks like W still has a chance to win.]
+))
+(;W[jq]C[H: This ko is favorable for W];B[hp];W[is]
+(;B[ip];W[jr];B[hn];W[gn]C[H: If B plays passively, W connects and B is split.]
+)
+(;B[jr];W[kr];B[js];W[ip]C[H: If B resists connection, then he has even bigger problems.]
+)))
+(;B[eq];W[er];B[fr]C[H: This reverts to the old pattern, but with W playing a bad move at f3]
+))
+(;B[eq];W[er];B[fr];W[dr];B[gq]C[H: This was dangerous for W]
+))
+(;W[fb]C[H: This is better.  A quick descent from a second-line hane is a common high kyu mistake.  I'll demonstrate the differences in this variation.]
+;AW[ga]AE[fb];B[ha]
+(;W[fb]C[Like this we can say that your group has 7 points from the c line on, and B gained no points from g on.  This is our base to compare, so we'll call this 0 points and gote for W.]
+)
+(;W[tt]C[H: If W tenuki (ignored ko threat, etc)];B[fb];W[eb]
+;B[ea];W[da];B[fa];W[cb]C[H: Now W has 2 points in the c file and B gained 4 points, so this variation is -9 points and gote for W.  Tenuki is a giant loss in this variation.]
+)
+(;AE[ga][ha];W[fb]C[H: Now we look at this connection.
+
+As an aside, since both hanes are gote, we normally consider the result as W at g19, B at h19 when considering the endgame.  There is a wonderful video by Catalin Taranu on this subject at the following address: http://www.youtube.com/watch?v=k6fFqhod8L0]
+(;B[ga]
+(;W[fa];B[ha]C[H: Now the hane is gote, and W loses 1 point overall.]
+)
+(;W[tt]C[H: If W tenuki...];B[fa];W[ea];B[ha];W[db]C[H: If W tenuki, then we are looking at -3 points, but W gained another move elsewhere.]
+))
+(;B[ha];W[ga]C[H: So this is how we count this shape normally, which you will notice is the same +0 shape which is the best case scenario if you descended immediately.]
+)
+(;B[tt];W[ha]C[H: And of course, B isn't guaranteed to get the hane!  In the other variation, h19 is always B's sente, here B isn't guaranteed anything.]
+;B[ia];W[ga]C[H: So in this case, B loses a point.  This variation is +1 for W.]
+))))
+(;W[bd]))
+(;W[jb]C[H: Better connect immediately.];B[kb]C[H: If B blocks...]
+;W[kc];B[jd];W[ib]C[H: This fight is easy.]))
+(;W[jd];B[id];W[hc]C[H: I think this was a better idea.]))
+(;W[rd];B[qe]
+(;W[qh]C[H: We have to be careful to make sure we can fight before playing an attacking move like this...]
+;B[rc];W[rb];B[sd];W[qb]LB[qh:A]C[H: In this case, B is safe already, and the attacking move at A didn't work very well]
+)
+(;W[qn];B[nq];W[rp];B[qq];W[pl];B[nf];W[mc]LB[rc:A]C[H: This is a reasonable result, and now we can see that a move at A is slightly less damaging than in the real game.]
+))
+(;W[rc]LB[qh:A]C[H: This converts the northeast into cash, which is a good idea.  B's group looks unsettled, so we can expect a move around A next.]
+(;B[qh];W[qn]LB[ql:B][nq:A]
+(;B[nq]LB[np:A]C[H: B plays simply, keeping in spirit with the idea that he is ahead.  B can also play at A, though this is a bit worse (see var.)]
+;W[rp];B[qq];W[pl]LB[eq:A]C[H: This looks okay for both, B will follow up with A soon.]
+;B[eq];W[er];B[fr];W[dr];B[gq];W[co];B[fn]C[H: The bottom turns big for B]
+)
+(;B[ql];W[on]C[H: This is a complicated joseki, with many variations.]
+;B[nq];W[pk];B[rp];W[pl]C[H: This is the simplest variation, and is a little worse for W (1 more stone played, gote) but it's an easy way to avoid complications if that's your concern.]
+))
+(;B[fc];W[rd];B[qe];W[qh]C[H: W should benefit from this fight if B neglects his weak group.]
+)))
+(;B[co];W[eq]C[H: This is the last chance to end joseki (but now only if B allows)]
+(;B[fp]C[H: B allows joseki.];W[gq];B[nc]C[H: B feels ahead in this game.]
+)
+(;B[fq]C[H: This hane is possible due to the strength of B's group and the helpful presence of the q4 stone.  A cut and fight will probably be bad for W overall.]
+;W[fp];B[gq];W[fo];B[en];W[hp];B[hq];W[ip];B[jq]C[H: One possible end result, overall B seems to have better chances in this game.]
+)))
+(;W[co]C[H: This was needed by all means, or else W's group will be damaged further.]
+))
+(;W[tt];B[co];W[bo];B[bn]C[H: This is difficult for W to accept.]
+)
+(;W[co];B[do];W[dq];B[eq];W[cm]C[H: This is another joseki shape, so even for both locally.  B's shape is a little nicer, facing his p4 stone.]
+))
+(;AE[dp];W[eq]C[H: Let's consider what to do in a situation where W has a shimari here, and B plays a tsuke at b4]
+;B[bp];W[co]LB[cq:A]C[H: Modern thought is that this is the best move in such an open position.  B can live at A]
+;B[cq];W[dq];B[cr];W[bo];B[aq]LB[dp:A]C[H: This group is 100% alive.  A would be a bad move for B...]
+;AB[dp];W[eo]C[...Because W can simply capture him.])
+(;W[dq];B[cq];W[co];B[cr];W[eq];B[bp];W[bo];B[aq];W[eo]C[H: This would revert to the same shape we saw in the first example, which we know is good for W (only a few points for B and overwhelming thickness for W)]
+)
+(;W[co]C[H: This]
+(;B[cq];W[bq];B[cr];W[do];B[ep];W[ck]C[H: In terms of shape this is not bad for W, but B looks a little better here (sente and a nice shape on the 4th line)]
+)
+(;B[do]C[H: B can choose this as well...];W[dq];B[eq]C[H: This reverts to the nadare joseki lines]
+))
+(;W[do];B[ep];W[cq];B[eo];W[dn]C[H: this shape is familiar from another joseki where B attaches at for example r16.  This is overall good for W]
+))

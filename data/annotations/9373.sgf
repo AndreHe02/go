@@ -1,0 +1,198 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.16]
+
+PB[dousitano]
+HA[2]
+PW[UserkaffeI]
+WR[8k]
+KM[0.5]
+DT[2014-03-14]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[B+52.5]
+TM[1500]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+AB[pd][dp]C[This is a game I played at KGS. I always have problems with time running out, which often leads to stupid mistakes in lategame. In this game I was also having trouble with handling my opponent in early-midgame (I think I could have played evenly with my opponent even without handicap stones) so I'd especially like to get some hints for improving in early-midgame.
+
+I included quite many questions and my own thoughts in first half of the game. Please add your own thoughts of those situations. Of course, comments on other situations are welcome as well.
+
+When playing handicap games as white, even results often aren't enough. If you have any ideas how I could have made the game more difficult for my opponent (allowing me to benefit from his mistakes), please let me know. I don't like doing some very basic tricks, because my opponent does not fall to my trick, it sets me more behind.
+
+In lategame, I made a lot of mistakes, because I was running out of time.. If there are mistakes I haven't commented on, please point them out.
+
+Thank you in advance for your review.
+UserkaffeI
+
+
+Hi, I am Laurent L. from France. I play on KGS as "lorl" (1k).
+my comments are followed by "LL". 
+
+Generally speaking on handicap games (especially with small handi like 2 stones), you don't need thinking about trick play to fool your opponent. That is the best way to fool yourself. So, just play active but normally. If the handi is justified, you will be able to detect opponent mistakes and benefit of them.
+(LL)];W[pp];B[dc];W[de]LB[ce:A]C[Is this a good approach? Would A(C15) make more sense?
+(UserkaffeI)
+
+both moves are pretty good
+(LL)];B[ce];W[cf];B[cd]LB[dd:A][dg:B]
+(;W[dd]C[this move is bad : it helps black strenghten his shape.
+(LL)];B[cc]LB[df:B][dg:A]
+(;W[dg]C[this move is doubtful
+(LL)];B[ch]LB[fd:B][di:A]
+(;W[di]LB[fd:C][cj:A][cn:B]C[Looking at this move afterwards, it doesnt look very good. A and B are moves I think could be better, but I dont feel very comfortable with them either. What would be the best of those or are there even better moves somewhere else? I think tenuki would leave D15-group too weak. Am I right or should I also consider tenuki as an option?
+(UserkaffeI)
+
+I agree that this move is not good, but I don't feel A or B are really interesting here.
+I would play something like C, beginning by reinforcing white's group before attacking... 
+-- see variation --
+(LL)];B[dh];W[eh];B[ci];W[dj];B[bf];W[cg]C[this move is a mistake : it has no interest for white and loses a liberty.
+(LL)];B[bg]LB[eg:X][ei:X]C[now, white has two weak points marked X.
+the result is very bad for white.
+(LL)];W[cj]LB[jc:B][cm:A]
+(;B[cm]C[possible but ...
+-- see variation --
+(LL)];W[qf];B[pf];W[pg]LB[qc:B][qd:A]C[Is this correct reaction to black's move? How about A(R16)? 3-3 invasion at B(R17) doesnt feel good, because I think that would give black too much strength for midgame.
+(UserkaffeI)
+
+this move is the correct one.
+(LL)];B[of]LB[qc:C][qd:B][qh:A]
+(;W[qh]LB[qc:X][qd:X][qe:X]C[too defensive : possible joseki moves are on X points.
+(LL)];B[qe];W[pl];B[jd];W[fq]LB[jq:A]C[Is F3 still a good move even though black has stone at C7, or should I play more passively? How about A(K3) instead? That would take some area from bottom-right and still leave me option to 3-3 invade bottom-left corner later.
+(UserkaffeI)
+
+this move is not bad, but I prefer A, which work well with white's framework on the right.
+(LL)];B[dq];W[ip]LB[eg:B][nq:A]
+(;B[nq]LB[lq:B][oq:A]
+(;W[oq]C[I don't like this answer.
+(LL)];B[qp]LB[qo:B][qq:A]
+(;W[qq]C[Am I doing something wrong with the following sequence? Feels like I could have gotten a better outcome somehow.
+(UserkaffeI)
+
+my opinion is that the corner is not the priority here.
+-- see variation --
+(LL)];B[qo];W[po];B[rq];W[qr];B[rr];W[qn];B[rn];W[qm];B[rm]
+;W[rl];B[so];W[lp]LB[eg:B][kq:A]
+(;B[kq]LB[kp:B][lq:A]
+(;W[lq];B[jp];W[iq];B[jo];W[fd];B[ec]LB[gd:A][ge:B]
+(;W[gd]LB[ed:A]C[Is this already a mistake? Should I just play A(E16) instead to keep my stones safe?
+(UserkaffeI)
+
+this move is a mistake as white has a weakness at A. 
+-- see variation for an alternative proposition --
+(LL)];B[ed];W[ee];B[fe];W[ff];B[eg]LB[ef:A][fg:B]
+(;W[ef]C[why playing this move ??? is does nothing and is like a "pass"...
+(LL)];B[df];W[fg];B[dg];W[hc];B[jf]LB[jb:A][ge:B]
+(;W[jb]LB[kc:A][ge:B]
+(;B[kc]C[black is too gentle.
+(LL)];W[ie];B[je];W[ig];B[fo]LB[qc:A][kr:B]
+(;W[qc]C[I think this is a mistake. There is no way to connect from S15, which is what I was planning to do. There is propably no way to live in that corner.
+(UserkaffeI)
+
+it looks that white cannot live here...
+(LL)];B[pc];W[rd];B[rf];W[qg];B[re];W[qb];B[sb];W[rb];B[sc]
+;W[sd];B[pb];W[pa];B[qa];W[oa];B[nb];W[ra];B[ob]C[black is very gentle to add a move as white is already dead in the corner.
+(LL)];W[lb]LB[jg:B][kr:A]C[This move seems to be to aggressive. Maybe it would have been better to play somewhere else. I think A and B are best moves at the moment.
+(UserkaffeI)
+
+this move does not work. 
+paying at A is urgent !
+(LL)];B[kb];W[ka]C[I didnt notice yet it wasnt working as intended.
+(UserkaffeI)];B[ib];W[hb];B[jc];W[ic];B[ja];W[jg];B[lf];W[lg]
+;B[kf];W[mg];B[mf];W[kl];B[in];W[ln];B[kg];W[kh];B[ng];W[nh]
+;B[mh];W[lh];B[oh];W[ni];B[og];W[oi];B[ph]LB[pi:A][qi:B]
+(;W[pi];B[qi];W[qj];B[ri];W[rj];B[rh]C[Is there something I could have done to save R13-group? I felt area in middle was worth sacrificing that group, but could I somehow have saved them both?
+(UserkaffeI)
+
+see variation at move 118.
+(LL)];W[hl]LB[kr:A]C[I think I should have played A(L2) instead?
+(UserkaffeI)
+
+yes !!!
+(LL)];B[jq]C[Now that black has played K3, I can't find a way to save my stones.
+(UserkaffeI)
+
+white stones are surrounded and seems dead.
+(LL)];W[ir]C[This was a timed match, so I didnt have time to think this enough, so I tried saving that group.
+(UserkaffeI)];B[gq];W[jr];B[kr];W[lr];B[js];W[is];B[ks];W[io]
+;B[jm];W[gp];B[gr];W[fr];B[fp];W[hq];B[go];W[hp];B[er];W[gs]
+;B[hr];W[hn];B[ho];W[hs];B[gr];W[im];B[jn];W[jl];B[eq];W[km]
+;B[es];W[ls];B[fs];W[ko];B[gq];W[kn];B[hr]C[At least I got a nice wall and sente in return.
+(UserkaffeI)
+
+but black has already many points and has already won the game.
+(LL)];W[em];B[gm];W[hm];B[fl];W[gn];B[fn];W[fm];B[gl];W[dl]
+;B[hk];W[il];B[ei];W[fh];B[fj];W[ik];B[el];W[dm];B[hj];W[cn]
+;B[bm];W[bn];B[bj];W[bk];B[ck]LB[dk:B][bl:A]
+(;W[bl]C[Again, I played too hastily and made a mistake. Now when I look at it, D9 would still have allowed me to capture black stones at B7.
+(UserkaffeI)];B[dk];W[cl];B[ej];W[bp];B[if];W[hf];B[hg];W[he]
+;B[hh]LB[ii:B][ji:A]
+(;W[ji]LB[ii:A]C[I think A(J11) would have been too risky. It would give me a chance to push at H11 though, and if black plays H11 as respons to that move, I win a few points.
+(UserkaffeI)
+
+I think A is perfectly possible
+(LL)];B[id];W[fc];B[ii];W[jh];B[fb];W[gb];B[hd];W[eb];B[db]
+;W[ea];B[da];W[fa];B[pj];W[oj];B[mi];W[mj];B[li];W[lj];B[qs]
+;W[pr];B[sm];W[cr];B[gf];W[ge];B[gg];W[cq];B[co];W[do];B[cp]
+;W[bo];B[en];W[dn];B[sj];W[sk];B[si];W[ps];B[rs];W[cs];B[gh]
+;W[fi];B[gi];W[fe];B[sl];W[rk];B[pk];W[ok];B[ak];W[al];B[aj]
+;W[ha];B[ij];W[jj];B[eo];W[ia];B[jb];W[tt];B[tt]TW[ga][fb][gc]
+[mh][ki][li][mi][kj][nj][pj][jk][kk][lk][mk][nk][pk][qk][ll]
+[ml][nl][ol][ql][am][bm][cm][lm][mm][nm][om][pm][an][mn][nn]
+[on][pn][ao][lo][mo][no][oo][ap][mp][np][op][aq][bq][mq][nq]
+[pq][ar][br][mr][nr][or][as][bs][ms][ns][os]TB[aa][ba][ca][ka]
+[la][ma][na][oa][pa][qa][ra][sa][ab][bb][cb][lb][mb][qb][rb]
+[ac][bc][lc][mc][nc][oc][qc][rc][ad][bd][kd][ld][md][nd][od]
+[qd][rd][sd][ae][be][ke][le][me][ne][oe][pe][se][af][cf][nf]
+[qf][sf][ag][cg][pg][qg][rg][sg][ah][bh][qh][sh][ai][bi][di]
+[hi][cj][dj][gj][ek][fk][gk][sn][io][ro][ep][gp][hp][ip][rp]
+[sp][fq][hq][iq][sq][fr][ir][jr][sr][gs][hs][is][ss]C[Black wins by 52,5]
+)
+(;W[ii]LB[ih:C][jh:A][ij:B]
+(;B[jh];W[ih];B[ji];W[ij];B[mi];W[ki]C[no problem for white
+(LL)])
+(;B[ij];W[jj];B[ji];W[ki]C[no problem for white
+(LL)])
+(;B[ih];W[jh];B[ij];W[jj]C[no problem for white
+(LL)])))
+(;W[dk];B[bl];W[cl];B[ak];W[ck];B[aj];W[al];B[am];W[an];B[al]
+;W[bi];B[ai];W[ah]C[Of course black wouldn't feed me all his stones as he did in this variation. Still, I would have been able to capture B7-group without losing my C10-group.
+(UserkaffeI)
+
+yes
+(LL)]))
+(;W[qi];B[pi];W[pj]C[by this way, white stones are connected.
+(LL)]))
+(;W[kr]C[white shall connect his stones.
+(LL)]))
+(;B[ge]C[black can now move his stone !!!
+(LL)];W[he];B[gf];W[gg];B[hf];W[if];B[hg];W[hh];B[ig]C[now the shicho is good for black !!!
+(LL)]))
+(;W[ge]C[white should remove aji by taking black's stone.
+(LL)]))
+(;W[fg]LB[ge:B][df:A]
+(;B[df];W[ge]C[a better result for white.
+(LL)])
+(;B[ge];W[he];B[gf];W[gg];B[hf];W[if];B[hg];W[hh]C[the shicho is good for white.
+(LL)])))
+(;W[ge]C[this shape is more effective.
+(LL)]))
+(;W[kp]C[I find better to use influence like that.
+(LL)]))
+(;B[eg]C[this point is still very important to play !
+(LL)]))
+(;W[qo];B[qq];W[ro];B[or];W[np];B[mq];W[nh]C[such a result is good for white.
+(LL)]))
+(;W[lq];B[qq];W[qp];B[pq];W[op];B[nr];W[mo]C[very good for white.
+(LL)]))
+(;B[eg]C[what will do white is black cuts here ???
+(LL)]))
+(;W[qd];B[qe];W[re];B[pe];W[rg];B[qc];W[rd];B[og];W[ph]C[a joseki
+(LL)])
+(;W[qc];B[qe];W[ob];B[mb];W[pc];B[nc];W[pj]C[also a joseki : probably the better option here !?
+(LL)]))
+(;B[jc]C[... if I where black, I would prefer this side to aim at white weak points.
+(LL)]))
+(;W[fd];B[ec];W[ge]TR[ch]C[now that white's group is solid, black's "Triangle" stone becomes weak.
+(LL)]))
+(;W[df]C[this shape has no weakness and is better for white
+(LL)]))
+(;W[dg];B[fc];W[ck]C[this is a joseki
+(LL)]))

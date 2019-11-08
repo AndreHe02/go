@@ -1,0 +1,180 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+PB[dancor]
+BR[10k]
+PW[GNU Go 3.7.12]
+KM[7.5]
+DT[2009-02-11]
+RE[W+8.50]
+RU[Japanese]
+
+C[Hi, I've been playing go for about a year and a half, and I've been trying to play once a day over the past few months.  I mostly play against the computer, but I'm trying to become clearly better than the computer then start playing against humans more.  I do beat the computer a lot, sometimes by a landslide (often because the computer doesn't seem to realize some group has no chance of living).  However, I also often just get kind of slowly taken down by the computer.  This game is my best recent example for analysis, because I'm not sure what my mistakes were in it, or even what part of my game is the weakest.  It's untimed.  I play black, GNU Go 3.7.12 plays white, the komi is 7.5, and the result is W+8.5, a solid but not-landslide loss for me.
+
+` Hello, I'm Kim, aka phantom, and I'll be reviewing this game for dancor (black).  I will begin all of my comments with a ` to make them easy to distinguish from dancor's.
+
+Dan,
+It's great that you're trying to play every day but, I would highly reccomend playing against human opponents more often.  If a computer happens to be the only option, that's fine.  But, if you can play against humans, that would be better.  Try a go server like KGS (gokgs.com) if you haven't already or try a local go club if there happens to be one nearby.  You'll find plenty of opponents online around your strength online and lots of players eager to help in clubs.
+
+You're getting to the point where the computer doesn't know how to play much better than you.  So, you can't really look at the computer's moves and try to figure out why they're better than your own, because, for the most part, they're not.  If you really want to keep improving, it is always good to make sure some of your games are against opponents who are stronger than you, and at this point that means humans.
+
+You didn't make any major mistakes in this game, but you missed some opportunities to really pull ahead and your little mistakes added up so that you fell behind.  I'll try to point out some of the places that those things happened.
+
+The best way to read this review is to follow the main path and move to the variations when directed to do so.]
+;B[pd];W[do];B[pp];W[ce]C[I usually play "two star points" opening so I'll have practice for handicap games.  Similarly I often continue "three star points" opening.
+However, here I'm thinking that gnugo is playing weird corner openings that should allow me to also play in each of them and divide the profit in each of his corners, and have a lead.
+
+` Playing on the star points is a good way to open.  Not only do star point opening appear frequently and both handicap and non-handicap games, star points are flexible and relatively simple to understand.  When you feel you are pretty comfortable with star points or when you want some variety, you should try playing 3-4 points too.  They are also common, very good to know, and somewhat easy to learn.
+
+There is nothing innately wrong with the corner moves that GNU Go played.  They're unusual, especially at your level, but not necessarily bad.  They just require some special strategy and extra thought.  You shouldn't assume that 5-4 and 5-3 points are a major weakness that you'll be able to exploit.  Sure they leave the corners open to invasion, but white will get influence while you take the corners.  So, you shouldn't expect the fact that he played a 5-3 and a 5-4 to give you the opportunity to take the lead.
+
+Still, I do like this opening situation for black.  The particular 5-4 and 5-3 that Gnu Go chose will make it possible for you to nab some corner territory from the direction of your other stones.  It might not give you a lead, but it could give you a least a slight advantage.]
+;B[dc];W[ed];B[ec];W[fd];B[gc];W[cj]
+(;B[eq]LB[gd:B][eq:A]C[I took territory in the top corner and I was worried about trying to get too much territory too early, so in this one I tried more for influence and to think more about later connection with Q4 around K4.
+
+` I know that it's tempting to tenuki here.  The top of the board does look stable enough to leave, and approaching the bottom right has probably been on your to do list since move 2 or 4.
+
+You shouldn't worry about getting too much territory though.  There's such a thing as giving up too much territory or giving up too much influence, but there's really no such thing as getting too much territory.
+
+The main reason you shouldn't leave the top just yet is that there is a sequence that would work very well for you here.  The standard move in this situation is B (G16), and given this specific board, it looks like a very good move for black.  Check the variation to see what I mean.]
+;W[he]LB[gd:B][he:A]TR[cp]C[I didn't understand this move.  I it threatens J3 to really endanger my upper-left group?  I was expecting something like C3.
+
+` I assume you are asking if there is any danger if your opponent follows up with J17, not J3?
+
+When your opponent tenukis and plays a weird move on some part of the board that you weren't expected, the first thing to do is figure out if you need to respond.  You are in no danger of dying here because if white tries to trap you in, you'll have room to live in the corner, and if white tries to keep you out of the corner, you still have room to run out.  Your opponent might make some profit by threatening you in that area, but that's really the biggest danger at this point.
+
+(Note that if white had played B (G16) here instead of A (H15), responding could be a bit more urgent.)
+
+If you don't see much danger in your opponent's weird move, the next step is to think about why you were expecting your opponent to play something else.  If you were right to expect some other move, there is a good chance that your opponent neglected to do something important.  This is especially true when playing computer opponents because they can be very bad when it comes to judging the relative value and urgency of moves on different parts of the board.
+
+Since you were expecting white to play in the corner around C3, you have an opportunity to take advantage of him.  Consider either playing something around C3 yourself, like C4.  See the variation for one possible continuation.]
+
+(;B[id]C[Trying not to get shut-in or endangered, and have some relation to Q16.]
+;W[cq];B[fo]LB[fo:A][gp:B][jp:C]C[At this point I thought I should do something aggressive, I'm not sure why.  So I chose F5 over like G4 or K4..
+
+` I don't think I would call this move aggressive.  An aggressive move is usually one that threatens to do something to your opponent.  This move does not do that.
+
+It's certainly more active than a move like B (G4), but it's also a bit weaker and easier to cut since it doesn't have as much support from the edge of the board.  At the moment, there is no danger in it, but later, you will need another move to support it..  Personally, I think a stable, albeit passive move like B would work better here.
+
+C (K4) would have just been bad, if not worse.  It's too far from E3 to give much support, especially since white has the corner.  If you played it, white would still be able to make a good attack on E3.]
+;W[qf];B[jp]LB[nd:B][jp:A]C[I decided that having a nice situation on the bottom was worth the risk of white playing O17 next to make the upper-right more difficult.
+
+` It sounds like you're gambling here.  Go usually doesn't have to be a gamble.
+
+Note that if you had played G4 instead of F5, you wouldn't be worrying about weaknesses on the bottom of the board so you could just respond to R14 directly.
+
+I'm really not sure what would be more damaging here, to let white have two moves in a row at the top or to let him beat you to playing on the bottom.  While you do have weaknesses in both areas, you also have stones around for a little backup in both areas of the board.  So, either way white has some risks to take in exploiting your weaknesses.
+
+In general, I would say that you should stick to your strategy.  If you were confident of your ability to take care of the bottom when you played F5, you should still be confident of that ability.  White's latest move hasn't done much to change that part of the board.
+
+Furthermore, if you play near white's last move, he will probably want to take care of R14 rather than leave it alone.  If you had just played B (O16), white would have been very likely to make the two point jump that he made in the game, then you  could go play A if you wanted (K4).  In the end, you'd most likely reach the same position you reached in the original game, minus a little of the stress in getting there.]
+;W[qi];B[nd]C[At this point I decided I had gotten away with murder by him not challenging me around K4 after F5, nor at O17 last move.
+
+` Perhaps you did.  Try to take fewer unnecessary risks in the future.  ;-)]
+;W[qn]
+(;B[on]LB[on:A][pn:B]C[Again trying to be more aggressive with a leaning knight-move since I thought the bottom had a nice situation.
+
+` This move actually does count as being aggressive since it threatens to hurt S6, but there is a slightly better way of attacking here.  If you play B (Q6) here, you  can make some really  nice shape.  Check the variation to see what I mean.]
+;W[pl]
+(;B[ie]LB[ie:A][fm:B]C[I've heard that the computer often doesn't answer the shoulder hit enough and this seemed to make a nice relation with O16.  However, later in the game it seems like white has way to much easy territory on the left, so maybe this was a mistake or I just didn't think about the left enough later.
+
+` White started concentrating on the left side of the board at the very beginning of the game.  Since he spent a lot of moves there early, it is not surprising that it gets rather large for him.
+
+At this point in the game you have to make a judgment.  Do you think you can get enough territory elsewhere on the board to make up for your opponent getting a big left side? If so, you should just think about reducing that side and making yourself strong in the center in the process.  If not, you should be planning an invasion.
+
+In this game, I think the answer to that question is going to depend largely on how much of the bottom of the board you think you can turn into your territory.  If you think you can make most of it yours, reducing his side is fine.
+
+Rather than reducing with something like A (J15), you could consider something around B (F7).  White does not have a great deal to lose if he ignores A, but if he doesn't respond to B, black can do some damage.  So, you will probably get a response.  As an added bonus, B makes the bottom of the board a little stronger for you.  If you follow it up with a move on the right side of the board, and you'll be able to help make sure the bottom of the board becomes yours too.  Check the variation to see what I mean.]
+;W[nq]TR[on][pp]C[He's now challenging the bottom the way I feared he would earlier.  However, now I think it's too late and the computer is doing another classic "make a group that can't live" situation.  However, later although I do kill this group I seem over concentrated in doing so, and I'm not sure if I shouldn't try to kill the group or what goes wrong
+
+` I think white should have a chance to make something happen here.  If you defend from the left as you do in the game,  he can go for the corner, and if you defend from the right, he seems to have room to live.  The triangled stones are rather weak and exploiting that weakness can give white a lot of room to run.  In the game, it seems that white just gives up on the invasion eventually, as we'll see a few moves down the line.]
+;B[lq];W[pr];B[qq];W[mp];B[mr];W[mn];B[nm];W[qr];B[rr];W[nr]
+;B[op];W[nk]C[` I have no idea why white plays this move.  By this point, he has invested a lot of stone in the group at the bottom of the board.  But, this move just encourages black to build up strength against them.]
+;B[ll];W[fm];B[hn]C[At this point his bottom right groups seems quite dead.  But maybe I'm not thinking about the left side enough?
+
+` Letting white play F7 first is a bit of a mistake, it does let white make the left bigger than he should.  During the course of the past few moves, white has helped you to replace invadable territory to territory with a dead group inside.  So, the past few moves haven't really been bad for you.]
+;W[fc];B[fb];W[hg];B[hl];W[fj];B[hj]LB[bd:A][qd:B][fj:44][hj:45]
+[hl:43]C[Did my slow advances just help him get the left for free here?  I thought I was winning and was fine being conservative here.
+
+` If you  think you have the lead, playing conservatively is a fine decision.  Unfortunately, the game was close enough that it didn't work here.  More importantly, there were bigger moves to be made on the board.
+
+I would say that the exchange of move 43 for move 44 wasn't entirely bad.  43 helped strengthen and grow the group on the bottom a bit, and it threatened enough of a farther reduction to get the response of 44 from white.  At this point, invading the left is no longer reasonable for black, so reductions are definitely acceptable.
+
+Move 45 was a bad idea though, especially with the options of A and B still on the board.  Both moves are valuable corner moves at this point in the game.  I especially like A at this point.]
+;W[rd];B[qc];W[rc];B[jg]LB[bd:A]C[I'm trying to eventually make territory in the middle instead of following him around the board too much with like S18 here.
+
+` Sometimes you have to respond to your opponent, but you're right that there are bigger moves than a simple response at S18.  Since A (B16) is still an option.  I would have gone with that.
+
+There are two problems with the move you chose.  The first is that it does not demand a response, so you may very well be forced to start following your opponent around again on your next turn. The second is that territory in the center isn't nearly as big as territory on the side.]
+;W[nf];B[me];W[gi];B[mj];W[lm];B[km]LB[km:A][mm:B]C[` I do not think that this is the best possible response.  At this point, there is very little room white to make eyes for this group in the middle.  Rather, the main risk is that white might connect to the group on the right.  B (N7) seems like a better way to deal with that possibility.  But, I have not read out all of the possibilities, so I could be wrong.]
+;W[dr];B[er];W[bc]C[` This move seems harmless, but it sets up G18, and even without that, the corner is quite big.
+
+At this point, the game seems pretty even.];B[mf];W[rb];B[qb]
+;W[qa];B[pa];W[ra];B[ob];W[ng];B[mg];W[nj];B[ni]C[` This move seems a little too aggressive given the weakness that was created when white played M7.
+
+It would be much safer to play something like B (N8) than A (O11) at this point.  White will be able to push in to your territory a little farther, but  his reduction would be much smaller than the reduction he got in the actually game.]
+;W[oi];B[nh]C[Was this little push at O11 trifling and premature?  I thought I would keep sente.
+
+` Trying to ignore the problems with the fact white might play at N8 and cause problems at any time...
+
+I would have expected a response here too.  It does threaten to take quite a few points, but unfortunately, it's not bigger than the move your opponent finds.  I wouldn't call it premature though since if you had tenukied, and your opponent had played N11, you would have had a mess.
+
+Of course, after your opponent responds with P12, the weakness of N11, could still leave you with a mess, so this isn't really sente.]
+;W[gb]C[I don't think this is that bad because I will probably get some endgame aji from the two dead stones.  I'm not sure if I still thought I was winning at this point
+
+` The only reason that this isn't awful for you is that it ends in gote for your opponent.  It's worth quite a few points and your endgame aji is worth very little.]
+;B[hb];W[eb];B[ga];W[db];B[gd]C[` While pushing up here is sente, you should be thinking about tenkiing either here or on your next move.  Your opponent still hasn't played P12, so this could be a good time to exploit that.  It might be an even better time to play something that would ensure N8 doesn't work.]
+;W[ge];B[ih];W[rp];B[rq];W[qp];B[pq];W[ml]C[It gets worrying here with our two weak groups, but I just try to be locally clever to get connection and keep his bottom right group dead and it does end up working here.. did he just make a mistake?
+
+` He does get away with at least a little less than he should here, but you didn't give him a chance to bring his bottom group back to life.  You played well to keep his bottom group dead, and I don't think there was much you could do to keep his reduction smaller.]
+;B[mm];W[nn];B[ln];W[om];B[np];W[nl];B[mo];W[lm];B[no];W[mm]
+LB[lk:B][mm:A]C[` White would do slightly better to play B (M9) here rather than connecting at A (N7).  Getting into the center is bigger than saving a single stone.]
+;B[lk];W[pn]C[Q6 doesn't seem to do much.  I wasn't going to be able to push much anyway and the followup of P5 is only worth like 2/3 of a point right?
+
+` You're right.  It doesn't do much.  I think playing P12 would have been best for white at this point, so I'm glad you play there on your next move.  If white had played there, he would have a pretty sure win at this point.]
+;B[oh];W[ph];B[og];W[es];B[fs];W[ds];B[gr];W[dq];B[pf];W[pg]
+;B[qe];W[re];B[ro]C[` This is a cute tesuji.  Good job spotting it.]
+;W[qo];B[sp];W[rn];B[so];W[sn];B[sq];W[fn];B[gn];W[eo];B[ep]
+;W[if];B[jf];W[gk];B[hk];W[qd];B[pe];W[hd];B[hc];W[ig];B[gl]
+;W[hh];B[hi];W[jh]C[I felt good here because K12 just seemed like desperation..
+
+` Yes, it really shouldn't work.  But, unfortunately white has no need to play desperate moves at this point since he still has a lead.]
+;B[ii];W[fl];B[gj];W[fi];B[ea]C[This is why I didn't mind losing the D17 stones so much earlier.
+
+` While it's nice that this is sente for you, it still isn't that great.]
+;W[cb];B[dp];W[cp];B[da];W[ca];B[fa];W[fk];B[gm];W[oo];B[po]
+;W[on];B[lp]C[I was pretty sure I needed this move to avoid losing M6 or a large semeai after white M5.
+
+` It's good that you saw the problem eventually, but you should have checked for it a couple of moves ago (before playing Q5).]
+;W[fp];B[go];W[kn];B[lo];W[mk];B[lj];W[tt];B[tt];W[tt]TW[aa]
+[ba][sa][ab][bb][sb][ac][cc][dc][ec][sc][ad][bd][cd][dd][sd]
+[ae][be][de][ee][fe][se][af][bf][cf][df][ef][ff][gf][hf][rf]
+[sf][ag][bg][cg][dg][eg][fg][gg][qg][rg][sg][ah][bh][ch][dh]
+[eh][fh][gh][qh][rh][sh][ai][bi][ci][di][ei][pi][ri][si][aj]
+[bj][dj][ej][oj][pj][qj][rj][sj][ak][bk][ck][dk][ek][ok][pk]
+[qk][rk][sk][al][bl][cl][dl][el][ol][ql][rl][sl][am][bm][cm]
+[dm][em][nm][pm][qm][rm][sm][an][bn][cn][dn][en][ao][bo][co]
+[ap][bp][aq][bq][ar][br][cr][as][bs][cs]TB[ha][ia][ja][ka][la]
+[ma][na][oa][gb][ib][jb][kb][lb][mb][nb][pb][ic][jc][kc][lc]
+[mc][nc][oc][pc][jd][kd][ld][md][od][je][ke][le][ne][oe][kf]
+[lf][nf][of][kg][lg][ng][jh][kh][lh][mh][ji][ki][li][mi][ij]
+[jj][kj][ik][jk][kk][il][jl][kl][hm][im][jm][in][jn][kn][ho]
+[io][jo][ko][fp][gp][hp][ip][kp][mp][fq][gq][hq][iq][jq][kq]
+[mq][nq][oq][fr][hr][ir][jr][kr][lr][nr][or][pr][qr][sr][gs]
+[hs][is][js][ks][ls][ms][ns][os][ps][qs][rs][ss]C[` Most of the opportunities to win this game came up early on.  But, it stayed pretty close until the end.  Try trusting your instincts early in the game more the computers and you'll be winning consistently in no time.
+
+I hope the review helped.  If you have any questions, feel free to contact me (gophantom@gmail.com)]
+)
+(;B[fm];W[dm];B[nl]C[` I'm not sure this is the best way to finish this sequence, but given your fondness of knight's moves, I thought  you might like this move.  :-)  It won't stop white from trying an invasion, especially if he just goes for the 3-3.  But, it prepares you to deal with an invasion pretty well.
+
+I think that part of the reason I'm struggling to find a good move in this part of the board is that P6 was an awkward move, so I can't find a nice, efficient way to build on it.  It is problems like this that don't pop up till later that make the case for avoiding moves like P6 in the first place.]
+))
+(;B[pn];W[pm];B[on];W[qo];B[qp];W[pl];B[np]TR[jp]C[` This is a pretty standard sequence.  This makes the bottom of the board look really nice now.  K4 is close enough that it seems a little overconcentrated.  But, at least with this, you'd have no worries on the bottom of the board.]
+))
+(;B[cp];W[co];B[dp];W[eo];B[fp]C[` This is an example of one way that things could continue if you go for the corner right away.  Since white played elsewhere, you get a nice size corner and you get out towards the right.  White is getting a lot of influence in the center left, but black has strong influence over the rest of the board, so black should be pretty happy.]
+))
+(;B[gd];W[ge];B[he];W[gf];B[hf];W[gg];B[fc]LB[de:A]C[` Notice what happens here.  The top left gets pretty big for white, but, that area was likely to get quite large for white anyway, and the territory is not perfect.  There is still a slight weakness at A (D15) that white will have to deal with at some point or end up losing a few points over.
+
+Meanwhile, black gets some solid territory along the top, and some really nice influence facing his right corner.
+
+Overall, I'd say this is a very good result for black.  You  manage to get both territory and some rather useful influence all at the same time.]
+))

@@ -1,0 +1,188 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+PB[xxsorenxx]
+BR[22k]
+PW[rkki]
+WR[22k]
+KM[6.5]
+DT[2009-01-06]
+RE[W+7.50]
+RU[Japanese]
+
+C[I played this game on KGS with someone my same level. I re-created it so i could make it a sgf file. I'm weak and i always loose and i can't figure out why.
+By the way i'm playing Black =\]
+
+-- Hello
+My name is Sven, I´m about 8 kyu on DGS and perhaps some stones weaker on KGS and I´ll try to clear things up a bit for you. My comments are preceeded by "--" so as to be spotted more easily by you. If something remains unclear or you have additional questions, do not hesitate to write me!
+
+-- Basically, you and your opponent were rather well matched as concerns strategy and reading abilitities, as suggested by your rankings. There are some uncertainties about life and death of a group especially in the upper left corner that made the outcome of the game a matter of luck.
+The most important possibility to improve is to look for big moves. This means, stop a moment then and again, and search for places on the board where noone has claimed territory so far, or where a stone gives influence to other parts of the board, so to speak "whole-board-thinking": Don´t stick to complicated fights at one spot, which mostly earns just a few points, but - especially when you find yourself unsatisfied with one local result (!) - look if there are more interesting places to play, above all corners and sides. As a rule, think of "First the corners, then the edges, lastly the center."]
+;B[pd];W[dp];B[qp];W[dc]
+(;B[mq]LB[op:B][oq:A]C[-- this extension seems a bit wide for my taste. If Black wants to make a corn er enclosure, he should play on A instead. B would be an alternative aiming at more influence.
+A and B are at the same time good points for White to invade.]
+
+(;W[jq];B[cf]LB[cd:A]C[-- problay not a "wrong" move, but rather peaceful. White need not answer here and can later take the corner with A]
+;W[ch];B[bc];W[cd];B[bd];W[ce];B[be];W[bg];B[bf];W[dg];B[cg]
+LB[cb:A]C[-- Black's group still needs two eyes to get to life, if it is not to flee into the center. Now or during the next moves, Black should close the corner (A)]
+;W[bh]
+(;B[de];W[df];B[dd];W[cc];B[ee]TR[bc][bd][be][bf][cf][cg]C[-- the marked Black group is dead]
+
+(;W[af];B[ae];W[ag];B[cb];W[db]C[-- but fortunately, White does not realise...
+Black needs one more stone to get the corner group to life!]
+
+(;B[hp]LB[hq:A]TR[jq]C[-- better on the third line (A), so as to put pressure on the White stone]
+
+(;W[qj]C[-- Good point for White - building a group within Black's sphere of influence on the right edge]
+;B[qh];W[qm];B[rn];W[qn];B[qo];W[po];B[pp];W[rm];B[oo];W[pn]
+
+(;B[ro]LB[jc:A][oh:E][cn:C][on:D][fq:B]C[-- saving the marked stone yields only few points - better play for influence and open up new territory!
+
+My suggestions are A to E, in this order, see the variations...]
+;W[on];B[no];W[lp];B[mp]LB[fq:A]C[-- better attack White at A]
+;W[lo];B[mo]TR[no][mp]C[-- this is bad shape (an empty triangle) - there's no need to connect here]
+;W[mn];B[nn];W[mm];B[fo];W[fq]C[-- now White plays here - and Black has no base to live on]
+;B[hr];W[gq];B[hq];W[ip];B[jr];W[kr];B[ir];W[lq];B[bb]C[-- finally! :-)]
+;W[ca];B[ba]
+(;W[ea]C[-- White should better take care of the upper group and create some space for eyes]
+
+(;B[ac]LB[ec:A]C[-- No! Black already is alive, no need to waste a stone here.
+Black can kill White by playing at A for instance!];W[hc];B[ge]
+;W[je];B[do];W[co]
+(;B[dn]LB[cp:A][cq:B]C[-- Black could cut at A or invade at B]
+;W[cn];B[cm];W[bm];B[dm];W[ep];B[gp];W[fp]
+(;B[mr]LB[mc:C][gg:B][dh:A][oh:F][di:E][cq:D]C[-- only a few points. Think big!
+
+My favorites: A, B, C, E, D, F];W[lr];B[io];W[jo];B[in];W[jn]
+;B[jm];W[im];B[hm];W[il];B[ho]
+(;W[kp]LB[nm:A]C[-- White is afraid, but needn't to, if he connects at A]
+;B[iq];W[jp];B[hl];W[ik];B[hk];W[hj];B[ij];W[jj];B[ii];W[gj]
+LB[jk:A]TR[ik][il][im]C[-- Black should capture the marked White stones in order to link up his to center stones to his group - play at A]
+
+(;B[ih];W[hf];B[gf];W[hg];B[gg];W[hh]
+(;B[ig]LB[ec:A][dh:B]TR[dd][de][ee][ge][gf][gg]C[-- not so trivial now for Black to save the marked group - best at A (resulting in a ko), less likely at B]
+;W[if];B[jg];W[ki];B[kf];W[ke];B[jf];W[he];B[ef];W[eg];B[fg]
+;W[eh];B[hi];W[gh];B[gk];W[gi];B[mf]LB[jk:A]C[-- no, just at A]
+;W[le];B[lf];W[rf];B[qf];W[rh];B[rg];W[sg];B[qg];W[sh];B[re]
+;W[qi]
+(;B[sf]LB[mc:A]C[-- this is not necessary - White cannot invade further here, see variation
+Better at A - this point is huge!];W[rj];B[pi];W[pj];B[oi];W[oj]
+;B[nj];W[nk];B[mi];W[mj];B[ni];W[lk];B[lj];W[kj];B[mk];W[ml]
+;B[mj]
+(;W[ol]LB[nm:A]C[-- still White had better connect at A];B[lh]
+;W[kh]
+(;B[kg]LB[ec:D][mc:A][di:B][cq:C]TR[ea][db][cc][dc][cd][ce]
+SQ[dd][de][ee][ge][ef][gf][fg][gg]C[-- those moves make a difference of only a few points for either party and should be spared for the endgame. There are large areas on the board which have not been claimed by White or Black so far:
+
+A, B or C,  and of course, as mentioned before, D!
+The life of the marked groups determines the winner!];W[kl]
+;B[ek];W[ej];B[fj];W[fi];B[fk];W[dk];B[dj];W[ei];B[ck];W[bl]
+;B[cl];W[bk];B[cj];W[bj];B[di];W[ci];B[md];W[me];B[ne];W[mc]
+
+(;B[nd];W[nc];B[oc];W[ob];B[pb];W[nb];B[pa];W[oa];B[pc]C[-- no point here for Black]
+;W[ld];B[nf];W[fd]C[-- now White has won.]
+(;B[fe]C[-- Black is dead already];W[gd];B[ec]
+(;W[ed]C[-- lucky for Black, White makes a fatal mistake here :-)]
+;B[eb];W[fc];B[da];W[fb];B[fa];W[ga];B[ea];W[hb]
+(;B[li]LB[es:A]C[-- If Black doesn't dare invade the corner, at least jump ahead with a large knight's move at A to destroy some of White's territory!]
+;W[gs];B[ks];W[ls];B[js];W[eo];B[en];W[fn];B[go];W[fm];B[dl]
+;W[el]
+(;B[dk]C[-- Black destroys his own eyes!];W[gn];B[hn];W[hs]
+
+(;B[gm]LB[fl:A]C[-- Must be on A]
+(;W[gr];B[fl];W[dh]C[-- White wasting stones - no point. (Or did you play with Chinese rules?)]
+;B[ms];W[sn];B[so];W[sm];B[oq];W[nm]TW[ha][ia][ja][ka][la][ma]
+[na][gb][ib][jb][kb][lb][mb][gc][ic][jc][kc][lc][hd][id][jd]
+[kd][ie][ah][ai][bi][ri][si][aj][sj][ak][ok][pk][qk][rk][sk]
+[al][nl][pl][ql][rl][sl][am][om][pm][an][bn][ao][bo][ap][bp]
+[cp][aq][bq][cq][dq][eq][kq][ar][br][cr][dr][er][fr][as][bs]
+[cs][ds][es][fs]TB[aa][ca][qa][ra][sa][ab][db][qb][rb][sb][cc]
+[dc][qc][rc][sc][ad][cd][od][qd][rd][sd][ce][oe][pe][qe][se]
+[ff][of][pf][rf][lg][mg][ng][og][pg][mh][nh][oh][ph][gl][np]
+[op][rp][sp][nq][pq][qq][rq][sq][nr][or][pr][qr][rr][sr][ns]
+[os][ps][qs][rs][ss]C[White wins by 5.5 points.];B[tt];W[tt]
+TW[ha][ia][ja][ka][la][ma][na][gb][ib][jb][kb][lb][mb][gc][ic]
+[jc][kc][lc][hd][id][jd][kd][ie][ah][ai][bi][ri][si][aj][sj]
+[ak][jk][kk][ok][pk][qk][rk][sk][al][jl][ll][nl][pl][ql][rl]
+[sl][am][jm][km][lm][om][pm][an][bn][kn][ln][ao][bo][ko][ap]
+[bp][cp][aq][bq][cq][dq][eq][kq][ar][br][cr][dr][er][fr][as]
+[bs][cs][ds][es][fs]TB[aa][ca][qa][ra][sa][ab][db][qb][rb][sb]
+[cc][dc][qc][rc][sc][ad][cd][od][qd][rd][sd][ce][oe][pe][qe]
+[se][ff][of][pf][rf][lg][mg][ng][og][pg][mh][nh][oh][ph][el]
+[gl][em][fm][fn][gn][np][op][rp][sp][nq][pq][qq][rq][sq][nr]
+[or][pr][qr][rr][sr][ns][os][ps][qs][rs][ss]C[White wins by 7.5 points.]
+)
+(;W[fl]LB[gr:1][is:2]C[-- If the outside liberties at 1 and 2 are filled, this turns a seki.]
+))
+(;B[fl]))
+(;B[fl]))
+(;B[es];W[fs];B[fr];W[gr];B[gs];W[er];B[fs];W[ds];B[hs];W[cr]
+))
+(;W[eb];B[fb];W[fc];B[ed];W[fh]))
+(;B[ec];W[eb];B[fb];W[fc];B[fa];W[ed];B[da];W[ec];B[gc];W[gd]
+))
+(;B[nc];W[ld];B[mb];W[nd];B[od];W[nb];B[md];W[ed];B[lc]))
+(;B[ec];W[eb];B[fb];W[fc];B[fa];W[ed];B[da];W[fe];B[ec];W[fd]
+))
+(;W[nm]))
+(;B[mc]
+(;W[se];B[sd]
+(;W[rd];B[sf])
+(;W[sf];B[ri]))
+(;W[sf];B[se];W[ri];B[qc]LB[qe:A]C[-- (securing the corner, and preventing White at A)]
+)))
+(;B[ec];W[eb];B[fb];W[fc];B[fa];W[ed];B[da]LB[ec:A]C[-- probably there's no ko threat large enogh for White to prevent Black from playing at A]
+;W[fe];B[ec];W[ff])
+(;B[dh];W[eh];B[di];W[eg]
+(;B[gh];W[fi];B[gi];W[hi];B[ei];W[fh];B[fj];W[ej];B[fk];W[dj]
+;B[ci];W[bi];B[cj];W[ck];B[bj];W[bk];B[dk];W[aj];B[jk])
+(;B[fi];W[ei];B[gi];W[ej];B[hi];W[gh];B[fh];W[fg];B[dj];W[bj]
+;B[dk];W[ek])))
+(;B[jk]))
+(;W[nm]))
+(;B[dh];W[eh];B[di];W[fg];B[eg];W[ef];B[ff];W[eg];B[gg];W[fj]
+;B[ei];W[fh];B[fi];W[gh];B[hh];W[gi];B[hi]))
+(;B[cp];W[cq];B[bp];W[bo]
+(;B[dq];W[ep];B[dr];W[cr];B[es]
+(;W[fs];B[fr];W[gr];B[gs])
+(;W[gs];B[gr];W[fr];B[fs]))
+(;B[ep];W[dq];B[eq];W[er];B[fr];W[gr];B[dr];W[fs];B[cr];W[bq]
+;B[br];W[ap];B[hs];W[ds];B[cs];W[ar];B[es]C[-- ko, White has to make the first ko threat]
+))
+(;B[cq];W[cp];B[dr];W[er]
+(;B[bq];W[bp])
+(;B[br])))
+(;B[ec]
+(;W[eb];B[fb])
+(;W[fb];B[eb])))
+(;W[hc])
+(;W[gc]))
+(;B[jc]TR[lb][mb][nb][ob][pb][qb][rb][lc][mc][nc][oc][pc][qc]
+[rc][qd][rd][le][ne][qe][re][qf][rf][lg][ng][qg]C[-- A builds territory and influence in the upper right quarter of the board]
+)
+(;B[fq]TR[dp][jq]C[-- B prepares a base for a Black group and attacks both two white stones]
+)
+(;B[cn]C[-- C threatens in invasion in the corner or on the left side]
+
+(;W[cl];B[cq];W[cp];B[dq];W[eq];B[er];W[fq];B[fr];W[gq];B[bp]
+;W[bo];B[bq];W[co];B[hq])
+(;W[cp];B[ck];W[fq];B[di];W[dh];B[ge]))
+(;B[on]TR[lm][mm][ln][mn][lo][mo]C[-- D connects the corner group to the center and limits White's influence on the right]
+)
+(;B[oh]TR[qc][rc][qd][rd][qe][re][of][pf][qf][rf]C[-- E secures territory and at the same time limit White's expansion on the right side]
+))
+(;W[bb]C[-- Black is dead]))
+(;B[bb];W[ac];B[ab];W[ca];B[ba])
+(;B[hq];W[jo];B[ho]))
+(;W[bb]))
+(;B[cb];W[db]C[-- Black lives])
+(;B[db]C[-- this Black stone is not so good...];W[cb];B[cc]
+;W[eb];B[dd];W[da]
+(;B[de];W[bb];B[ac];W[ed]C[-- Black lives, but has no contact nor influence towards the center]
+)
+(;B[ed]C[-- this Black move is a failure];W[de];B[df];W[ee]
+;B[fe];W[ef];B[eg];W[ff];B[gf];W[fg];B[fh];W[eh];B[gg];W[eg]
+;B[ei];W[dh])))
+(;W[oq];B[op]
+(;W[pp];B[po];W[pq];B[qq];W[np];B[oo];W[nq])
+(;W[qq];B[pq];W[pr];B[pp];W[rq])))
+(;B[oq];W[qj];B[ql];W[qg]))

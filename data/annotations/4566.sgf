@@ -1,0 +1,165 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+PB[GreenTea83]
+BR[5k]
+PW[saltpepper]
+WR[4k]
+KM[0.5]
+DT[2005-09-26]
+PC[KGS]
+RE[B+Resign]
+TM[60]
+OT[25/360 Canadian]
+RU[Japanese]
+
+C[*X*: Hi, I'm Alex Weldon, 3d in Canada.  My comments will be prefixed by *X*, for Xopods, my KGS username, in order to distinguish them from yours.]
+;B[pd];W[dp];B[oq]C[*X*: What is your plan?];W[dd];B[fc]LB[qp:A]
+C[*X*: Looks like a strange idea.  Could also enclose at A to revert to a more normal opening.]
+;W[df];B[qp]C[*X*: Does the F17/D14 exchange before enclosing at R4 benefit Black or White?  There are no hits at all for this board position on Gobase.  This early in the fuseki, if something never comes up at all in professional play, there has to be something wrong.
+
+In fact, going back to move 5, there are no examples of F17 in any professional game on Gobase either, which backs up my intuition that it is strange and probably not so good.  I don't feel qualified to try to pin down exactly what the problem is, however.  See variation for a typical continuation and some speculation.]
+
+(;W[pj];B[ck];W[qf];B[rd]C[Bernard - Trying something new.
+
+*X*: I don't like this, because Whte can enter the top side around L17.  Then if Black checks from the left, White's two space extension to the right undermines Black's corner.  If Black checks from the right, White's move will be a perfect combination of extension and pincer.  See variations.
+
+The time to play a move like this is after you already have an extension along the top side around N17.  Then this move is probably sente, because it would make the invasion at R12 very severe.]
+
+(;W[nc]C[*X*: I think the wedge is better.];B[oe];W[kc];B[ql]
+;W[of];B[nf]LB[ne:A][pg:B]C[*X*: I like the extension to A better, because it leaves the peep at B as an option and doesn't leave Black with a cutting point to defend.]
+;W[pf];B[me]LB[nd:A]C[*X*: Bad hanging connection.  Invites White A, which strengthens White.]
+
+(;W[qc];B[pc]C[Bernard - R16 and my position looks good. This gave him to much easy territory i think.
+
+*X*: 99.9% of the time, connecting at this type of peep (under a one-space jump on the fourth line) is correct.  Kageyama discusses this in Lessons in the Fundamentals.  Anyway, this is the problem with your move at S16.
+
+All that aside, it isn't about territory.  You can't stop White from connecting to either the group on the right or the group on the top.  Whichever he connects to, he'll get the corner territory and a base for the group.  So the question is which group you'd rather attack.
+
+The group on the top is small, solid, and has room to extend to H17 - a move you'd like to avoid provoking, if at all possible, since it's severe against F17.
+
+The group on the right is larger, heavier, has nowhere to go but the centre, and has its eyespace undercut on both sides (if you connect at R16).
+
+Which one sounds like a more appealing target?];W[qd]
+(;B[pe]C[*X*: Bad move.  Provokes the R18/Q18 exchange, which benefits White, and doesn't really strengthen Black much.  The hane at R18 would have been much better.  See variation.]
+;W[qb];B[pb];W[qe];B[db]C[*X*: No.  J17 is the urgent point.  White's two stones will be weak enough that she needs to defend.]
+;W[hc];B[cc]C[*X*: Now White is safe and your group to the right is heavy, not thick.]
+
+(;W[cd]C[*X*: Slow move.  White should play E17 then F16.];B[ch]
+C[Bernard - I was thinking about playing F15 but H17 already looks settled and black would just play C11.
+
+*X*: Correct thinking.  This move is good.];W[fd];B[gd]C[*X*: Feels like overplay, now that White has played C16.]
+;W[ec];B[eb];W[gc];B[fb];W[fe]
+(;B[fp]C[*X*: Feels a bit dangerous.  Now that White is so thick on the top side and you've still got a weak group in the top right, a reinforcement of the left side group is probably in order.  See variation.]
+;W[cn]
+(;B[ip]C[*X*: A bit odd.  Did you feel that the usual joseki (see var) is too low?]
+;W[bc];B[bb];W[dc];B[cb];W[bd];B[ab]C[*X*: This is painful, which is why I felt that G16 was overplay.  Ordinarily, the idea is to leave aji, but here it feels more like mochikomi, since White is fairly well settled on both sides.]
+;W[rp];B[qq];W[qo];B[po];W[qn];B[pn];W[qm];B[pm];W[pl]C[*X*: Overplay, but your blunder made it good.]
+;B[rl];W[rm];B[ol]C[Bernard - I missed Q9.];W[pk];B[rq]
+(;W[rk]C[*X*: S5 instead would have worked and is several points better.]
+;B[ro];W[sl];B[dq];W[cq];B[eq];W[kp]C[Bernard - This looks like a overplay with the wall to the right.
+
+*X*: Yes, proabably.  However, it's hard to kill and if it lives, it's unlikely that you'll have enough territory to win.
+
+Anyway, C2 is urgent for both sides; if Black plays there, White's corner group becomes weak.]
+;B[jn];W[iq];B[jq]C[*X*: No need to play this aggressively.  This just helps White seek sabaki.  Hane at H3 is better.]
+;W[jp];B[kq];W[lq];B[lr];W[io];B[hp];W[lp]C[*X*: Wrong connection.  K5 more urgent.]
+
+(;B[mr]C[*X*: K5!];W[jo]TR[jn]C[*X*: Now your triangle-marked stone is blighted and White, although heavy, is very hard to catch.  H5 or G5 is sente for White, too.]
+;B[cr];W[bq];B[br]C[*X*: Ordinarily, this is correct, but it induces White to play B8, damaging your group on the left.  Instead, I would play B7.  If White answers at B6, then you can come back to B2.  If she plays B2 instead, then your group on the left is totally safe and you can look forward to pushing at B6 yourself later.]
+;W[go];B[gp];W[en]C[*X*: Too thin.  White is giving you a chance.]
+;B[ho];W[in];B[hm]C[*X*: No.  H6 is the only move.];W[hn];B[gn]
+;W[fo]C[*X*: What is White thinking?  G7 is the only move.]
+;B[gl];W[im];B[il];W[jl];B[jk];W[ik];B[hl];W[kk];B[kl];W[jm]
+;B[jj];W[kj]C[*X*: Why doesn't White just capture L8 and live?]
+
+(;B[ij]C[*X*: No!  If White is going to give you a chance to pull out L8, you must absolutely do so.]
+;W[fn];B[gm];W[ll]C[*X*: This is complete failure for Black.  You've gained nothing except some ugly shape and bad aji in the centre.]
+;B[dm]C[*X*: B7  first is better, I think.  After White answers at D6, there may be a way to resist B7.]
+
+(;W[fl]C[*X*: White has to play E4 in sente. then connect at E6.  F8 is a good move to aim at for later, but just leads to disaster at the moment.]
+;B[fm];W[em];B[el];W[fk];B[dn];W[cm];B[do];W[dl];B[eo];W[cl]
+;B[dk];W[ek];B[em];W[bk];B[bj];W[bl];B[co];W[bi];B[ci];W[aj]
+;B[cj];W[bh];B[bg];W[ak];B[ai];W[ah];B[ag];W[ai];B[bn]C[Bernard - :-)
+
+*X*: White pretty much shot herself in the foot here.  After you let her get away with pushing at L10 before capturing at M8, all she had to do was live peacefully in the lower left and the game would have been easy for her.]
+;W[nd];B[ne];W[kf]C[*X*: Last chance for White, though you could probably just sacrifice this group and start taking the biggest territory points and come out a dozen points ahead.]
+
+(;B[lf]C[*X*: This group should probably find a way to live, but before attempting to do so, ask yourself: who has more territory if it dies at its current size?  If you're still up by 10 or 20 if you let it die as it is and just take the big endgame moves, then you should do so: the only way you can possibly lose this game is if you make the group bigger and then let White kill it.  Why take that chance?]
+;W[kg];B[ke];W[ld]C[Bernard - :-(];B[mh];W[lg];B[oh];W[nj];B[le]
+;W[if];B[jc];W[jb];B[kd];W[lc];B[ic];W[ib];B[hd];W[hb];B[ie]
+;W[hf];B[mg];W[og];B[mj];W[ni];B[ng];W[ji];B[je];W[id];B[he]
+;W[jd];B[gf]C[Bernard - I think we both missed this.];W[gg]
+;B[fg];W[ff];B[hg];W[ge];B[jf];W[jg];B[ig];W[gf];B[ki];W[li]
+;B[mi]
+(;W[nk]C[*X*: White had a chance to kill here.];B[mk];W[nl]
+;B[ml]
+(;W[nm]C[*X*: Here too.];B[mm];W[mn];B[ln];W[lm];B[mo];W[nn]
+;B[kn]
+(;W[ii]C[*X*: And again.];B[km];W[hj];B[lk]C[*X*: So, you end up living, but only White made many, many mistakes in a row.  You also had to give up a lot in the process; notice that your lead now, and in the variation I gave (the one where you let the stones die) is about the same.  However, by letting the stones go and just winning by taking more territory, you eliminate most of the chance of making a blunder, whereas by making the group bigger you give White a chance to kill it and win.
+
+Your biggest problem, and that of your opponent as well, is a lack of positional judgement.  Go is a game of strategy, backed up by tactics, not the other way around.  If you fight wildly without ever stopping to actually make a plan for how you intend to win the game, you may win a game here and there by your opponent's mistakes, but your improvement will slow down and you'll probably plateau before reaching shodan.  Slow down, rein in your aggression and take time to think about what you're actually trying to accomplish before you choose your moves.
+
+Key moments in this game where positional judgement would have helped:
+
+1) Choosing to block at Q17 instead of connecting at R16 when White peeped at R17.  As well as ignoring the fundamental rule about connecting to a peep, it showed a lack of consideration for the direction of play; there was more to be gained by attacking the right side than the top side, so keeping the right side weak should have taken precedence.
+
+2) Defending at N2 instead of cutting at K5.  When there are so many weak groups around the board, the centre is generally going to be more important than territory.
+
+3) For White, realising that simply living with her lower left group would have been enough to win the game - there was no need to try to fight back with F8 immediately.
+
+4) After White killed her own group in the lower left for you, the game should have been over.  You should have realised that your territory on the lower and left side, including the captures, was larger than White's would be on the right and top, even if she captured your stones there.  Instead of trying to save them, then, you should have switched to large territory moves to prevent White from catching up.  Trying to save those stones only made them big enough that White could win if she killed them.]
+)
+(;W[km];B[lj];W[kh]C[*X*: Here, too, Black is dead.  M5 and J11 are miai.]
+))
+(;W[mm]C[*X*: B dies.]
+(;B[lj];W[kh];B[lk];W[km])
+(;B[lm];W[km];B[nm];W[mn]C[*X*: What chance does B have?])))
+(;W[mk];B[lj];W[kh];B[lk];W[km];B[nk];W[ml];B[oj];W[ok];B[oi]
+;W[nl];B[qh]C[*X*: Black has nowhere to run this way.  Should die.]
+))
+(;B[ki];W[li];B[lh];W[mi];B[kh];W[mg];B[mh];W[ng];B[ni];W[km]
+;B[nj];W[mk];B[nh];W[oh];B[jf];W[je];B[lf];W[lg];B[ke];W[kg]
+;B[ie];W[jd];B[jg];W[if];B[ig];W[hf];B[hg];W[gf];B[fh]C[*X*: Looks like B +10-20 to me.]
+))
+(;W[ep];B[fq];W[dn]
+(;B[bm]C[*X*: This appears risky.];W[fl];B[fm];W[em];B[el];W[fk]
+;B[hj];W[dl];B[ek];W[dk];B[ej];W[dj];B[cm];W[ei];B[fj];W[fi]
+;B[gj];W[cj];B[bk];W[di];B[bj];W[bi];B[ci];W[bh];B[cg];W[cl]
+;B[bl];W[bg];B[bo];W[bn];B[an];W[co];B[bp];W[aq];B[ao];W[am]
+;B[al];W[cp];B[ar];W[ap])
+(;B[el]C[*X*: Black probably needs to defend against F8 somehow.]
+;W[bl];B[bk]C[*X*: White is alive in sente.];W[nd];B[ne]C[*X*: Attacking this group should be enough for White to win easily, since Black has little territory.]
+)))
+(;B[ll]C[*X*: What is White going to do now?];W[ij];B[ji];W[fm]
+;B[gm];W[fk];B[hj];W[ii];B[gj]C[*X*: Ladder's no good for W, so her position is in tatters.]
+))
+(;B[jo];W[mr];B[kr];W[nq];B[ir];W[or];B[pr];W[op];B[pq]
+(;W[ns];B[no];W[np]
+(;B[mp];W[mo];B[lo];W[mn];B[ko];W[mq];B[nn]C[*X*: Black does have to worry a bit about the cut at Q4, but if he can connect to O14 while attacking the White group, he should be very happy.]
+)
+(;B[cr]C[*X*: Black could also just hold off on attacking for the time being, leaving the aji of N4 for later.  After harrassing the lower left corner, Black can return to defend his group in the top right, and the game will be close.]
+;W[bq];B[bm];W[br];B[mb];W[mc];B[nb];W[lb];B[ld];W[lc];B[id]
+;W[ic];B[if]C[*X*: All of a sudden, G16 starts looking like not such a bad move.]
+))
+(;W[no];B[os];W[pp];B[nm])))
+(;W[ro];B[rj];W[qj];B[rk];W[ri];B[sn];W[sm];B[sp];W[sj];B[so]
+;W[sk]))
+(;B[dq];W[cq];B[eq];W[cr];B[iq]))
+(;B[cn];W[co]C[*X*:];B[dn];W[fp];B[jq]C[*X*: Feels good for Black]
+))
+(;W[ec];B[eb];W[fd];B[gd];W[gc];B[fb];W[fe]C[*X*: Ladder doesn't work, but it doesn't matter.  Black's stones to the right are too weak to start a fight here.]
+))
+(;B[qb]
+(;W[rb]C[*X*: White can't block.];B[rc];W[qe];B[ra])
+(;W[pe];B[od];W[rc]C[*X*: S18 remains a large endgame move for both sides.]
+)))
+(;W[nd];B[ne]TR[nd][me]C[*X*: Who do you think the exchange of the triangle-marked stones favours?  If it's better for White (I think it is), then Black should have just connected at O15.]
+))
+(;W[kc]
+(;B[ic];W[nc]C[*X*: Exchanging P17 for O16 doesn't fix Black's problems in the corner, so he has no territory there and must move out.]
+)
+(;B[mc];W[hc]C[*X*: This is clearly not much better for Black.]
+)))
+(;W[qj];B[ql];W[qf];B[nd];W[rd];B[qc];W[ph]LB[ic:A][jc:C][kc:E]
+[id:B][jd:D]C[*X*: Maybe the problem is that now none of A through E look just right for Black.  Professionals are loathe to put their stones in an arrangement where no perfect continuation is possible.]
+))

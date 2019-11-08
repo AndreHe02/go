@@ -1,0 +1,196 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.16]
+
+GN[Jonk-halicon5-791220-20130410]
+PB[Shane Singleton (halicon5)]
+BR[19k]
+HA[2]
+PW[Jon Kay (Jonk)]
+WR[16k]
+KM[6]
+DT[2013-02-13,2013-04-10]
+PC[Dragon Go Server: http://www.dragongoserver.net/]
+RE[W+8]
+RU[Japanese]
+SO[http://www.dragongoserver.net/game.php?gid=791220]
+GC[Game ID: 791220
+Game Type: GO (1:1)
+Rated: Y
+
+White Start Rating: 18k (+2%) - ELO 301
+Black Start Rating: 19k (-2%) - ELO 197
+White End Rating: 16k (-37%) - ELO 463
+Black End Rating: 19k (+14%) - ELO 214]
+
+AB[pd][dp]PL[W];W[pq]C[Jonk:  I don't have too much experience against a handicap so I was wondering how to play efficiently against two stones.
+
+mikem:  Hello, I am Mike Malveaux, doing this review in the context of the Go Teaching Ladder, http://gtl.xmp.net  I will try to focus mostly on White's moves.]
+;B[dd];W[fc]TR[pn][qn][po][qo]C[mikem:  Opening orthodoxy suggests that adding a stone to your unbalanced corner, for example at R5, R6, Q5, or Q6 (triangles), is more urgent than approaching the balanced 4-4 stone.  Nevertheless, this seems okay to me.  (But I am not strong in the opening.)]
+;B[fe];W[db]TR[dc]C[Jonk:  D17 would be proper?
+
+mikem:  No, I don't think so.  D17 (tri.) starts a contact fight, and gives the advantage to Black.  That is because the White stone would start out with only three liberties, and it would be Black's turn to play.  Looking at Kogo's Joseki Dictionary at http://eidogo.com/ it seems like this D18 move is ok.]
+;B[id];W[hc]TR[db][cc][fc]SQ[qf][qn]C[mikem:  This feels to me like you have too many stones bunched into too small an area, especially at this early stage of the game.  If you played somewhere else, your two-stone formation at D18-F17 (tri.) would have two directions to run, either into the corner with C17 (tri.), or along the side with this H17 move, if Black were to attack.  Therefore, I think Black could not kill with just one move.  Therefore, I think somewhere like R6 or R14 (sq.) would be more efficient.]
+;B[pj];W[jp];B[io];W[dj]TR[io]C[mikem:  This feels like a mistake.  The 5th-line Black shoulder hit at J5 (tri.) is not directly in contact, but it's still important to respond there.  Also, since it is floating on the fifth line, it will be easy for White to make big profits while harassing it.]
+;B[ek];W[dk]C[mikem:  Yes, that's the right idea.];B[ej];W[cg]
+;B[eh];W[cn]CR[cg][dj][dk]TR[dd]SQ[dp]C[mikem:  At first I didn't like this move -- my instinct is to try to cut off the D16 (tri.) corner stone -- but looking at this longer, it seems like a good dual-purpose move.  It approaches the lower-left C4 (sq.) corner while also building a base for the left-side group (cir.).]
+;B[en]TR[ip]C[mikem:  Black is playing in the wrong direction, I think.  It looks like J4 (tri.) would be better for Black.]
+;W[fq]TR[ip]C[mikem:  This is bold and ambitious, and what will be White's response if Black plays to cut at J4 (tri.)?]
+;B[fp];W[gp];B[fo]
+(;W[mp]TR[po]C[mikem:  Looking at the board overall, I think this would be better at Q5 (tri.).]
+;B[kn];W[pn]C[mikem:  Yes, I like this.];B[ol]C[mikem:  It looks as though Black is building up a large center moyo, but White should not be afraid of this.  White's groups on the edges and corners are secure and relatively efficient, but Black's framework still has large unsecured gaps.]
+;W[kd]TR[ic][jc]SQ[nc]C[mikem:  This seems needlessly risky.  What is White's answer if Black simply cuts wt J17 or K17 (tri.)?  I feel like White should either play J17 first, or approach the corner at O17 (sq.).]
+;B[md];W[pg];B[oh]TR[qe][qi]C[mikem:  Black seems to like playing on the fifth line.  It would be more common to play on the third line, like R15 or R11 (tri.), to more efficiently secure a base for Black while making it hard for White to make a secure base.]
+;W[qe];B[nf]C[mikem:  Black is more worried about the center than about the corner.  White has an opportunity.]
+;W[mm]TR[qc][rc][qd]C[Jonk:  At this point I was beginning to worry about the central moyo he was building.  I was worrying about securing solid points around the sides but my chances of attacking the middle was diminishing...
+
+mikem:  Well, that's a good weak spot for prying into the center; but it's more important to play R16, R17, or S17 (tri.).  There is a Go proverb, "There are no points in the center", which is usually true because the center is hard to seal off.  Even if Black were to get this move at N7, White still would have good ways to reduce Black.]
+;B[ll];W[jc]TR[ll][mm]SQ[ic]C[mikem:  Well, I can't argue about the shoulder hit at M8-N7 (tri.), because this area is more important.  J17 (sq.) looks safer to me.]
+;B[ke];W[qc]C[mikem:  Yes!];B[qd];W[pc]TR[rd]C[mikem:  What?  Why not S16 (tri.)?]
+;B[rd]C[mikem:  Yes, the obvious move.  White is badly hurt here.]
+;W[qj];B[qk];W[qi]TR[qe][pg][qj]C[mikem:  I don't see how this White formation, R15-Q13-R10 (tri.), can live.]
+;B[pi]TR[rk]C[mikem:  Okay, that helps White.  (Black at S9 (tri.) looks more severe.)]
+;W[rk];B[ql];W[nc]C[mikem:  That cannot work.  Can it?];B[nd]
+TR[mc]C[mikem:  Black made a mistake.  Black at N17 (tri.) would make things very hard on White.]
+;W[mc];B[ld];W[ce]TR[lc]C[mikem:  What?  You just spent 3 of the last 6 moves taking the upper-right corner and a chunk of the upper side.  Don't you want to keep it?  Why not M17 (tri.)?]
+;B[jd];W[kc];B[ic]LB[ib:C][lc:B][ce:A]C[mikem:  If C15 (A) had connected at M17 (B), then Black could not push through like this (because White could safely block at J18 (C).]
+;W[hd];B[ib];W[he];B[lc]C[mikem:  Yes, that's painful for White.]
+;W[hg]C[mikem:  That's pretty nice for White, because Black's center is now severely reduced.  But if Black kills the N17-R17 stones in the upper-right, then Black will have gotten the better deal, I think.]
+;B[if];W[hf]C[Jonk:  At this point I thought I will have the chance to destroy most of the middle points and had the edges secure....not the case!
+
+mikem:  Yes, most of Black's possible middle points are destroyed.  No, White is not secure along the upper-right and right-side edges.]
+;B[rn];W[fg]CR[lo]TR[qp]SQ[dd][fe]C[mikem:  This is interesting.  White is basically offering to trade the R4 area (tri.) for Black's D16-F15 stones (sq.).  On one hand, it looks like a good deal for White, because of capturing two stones and a huge corner.  But I think it is not such a good deal for White, because White's stones in the upper left should be alive already, and Black's center is already trashed.  This move at F13 only really adds something like 10 points to White's total -- in other words, it is somewhat inefficient for this stage of the game.  Plus, White has weak spots around M5 (cir.).  So ultimately, I think White would have been better playing R4 (tri.).  Later on at moves 102 and 112, you ask where things went wrong in the lower right.  Things are still more or less ok there, but the Whites are all two-point jumps, whereas the Blacks are mostly more secure one-point jumps; and White is starting to be locally outnumbered by Black.  So right about here, you should be starting to feel uneasy about the lower-right corner.]
+;B[fh];W[eg];B[hi];W[ih];B[ii];W[jh];B[ji];W[kh]C[mikem:  Black's potential center is perhaps 25 points, at most.]
+;B[ki];W[ml];B[mk];W[km]TR[lm]C[mikem:  This looks odd.  Misclick?  I think M7 (tri.) is safer.]
+;B[lm];W[jn];B[ko];W[jo];B[jm];W[im];B[kl];W[jl]TR[in]SQ[kp]
+[qp]C[mikem:  Solid connection at J6 (tri.) seems better.  Even better, something like R4 or L4 (sq.).  Also, note how that sequence weakened your lower-right corner formation.]
+;B[jk];W[il];B[ik];W[gm]TR[ho]SQ[go]C[mikem:  Simply capturing with H5 (tri.) seems sufficient.  I don't really like this G7 move because it leaves a weakness at G5 (sq.).]
+;B[mo];W[no];B[mn];W[nm]TR[ml][mm]C[mikem:  That makes an "empty triangle", which is almost always an inefficient shape.  It would be better to abandon the two stones at N8-N7 (tri.).  I would say that this move is where your lower-right starts getting into real trouble.]
+;B[nn];W[om]C[mikem:  Adding stones to a weak group like this is rarely a good idea.  It's usually better to try to rescue from the outside, rather than trying to run with stones that have no eye shape.]
+;B[oo];W[np];B[on];W[qm];B[rm];W[po];B[nl];W[pm];B[pp]TR[ml]
+[mm]C[Jonk:  I have made weak moves until this point in the bottom right corner but things really start to crumble.  Advice on improving this situation?
+
+mikem:  Yes, here is advice.  Abandon weak groups while they are still small; do not keep adding stones to a group that has no room to make eyes and no easy way to connect to safety.  (And do lots of life-and-death problems to build your pattern recognition abilities, so you can quickly tell which stones are weak, and how best to help them.)  The stage was set for this trouble back around move 63ish, but the problems really began around move 91, when you tried to run two stones (N8-N7, tri.) to safety.  If you temporarily give up on weak stones, later in the game, you often can either save them, or use the threat of saving them as leverage for reducing the opponent's territory.]
+;W[qp];B[op];W[qo];B[rl]TR[qe][pg][qi][qj][rk]C[mikem:  This move basically re-kills White's upper right side formation, R15-Q13-S9 etc. (tri.).]
+;W[cq]TR[oq]C[mikem:  Wow.  I admire the boldness, but I'm sure this would have been better at P3 (tri.).]
+;B[rj];W[ri];B[sk];W[re]TR[qf][rf][sf][qg][rg][sg][qh][rh][sh]
+C[mikem:  Look carefully at the potential eyespace (triangles).  This group gets killed later.  At move 168, you ask how this formation could have lived; and I don't see a way, even if White gets the next move in this area.  I tried some variations at move 113 to see, and I didn't find a way for White to live.]
+;B[oq]C[Jonk:  I wasn't worried about this move because I thought I could live in the corner.  where was my flaw in the next developments?
+
+mikem:  Even if you live in the corner, Black is now destroying White's lower side territory.  And White's upper right stones are looking pretty dead.  It would have been better to give up the N7-N8 stones (tri.) about 20 moves ago.  Still, this is the board that's available, so let's see what's a good way to play from here.]
+
+(;W[pr];B[lp]
+(;W[mq]TR[no][mp][np]SQ[rq]C[mikem:  This move, trying to save the three dead stones around O4 (tri.) -- I think it is not in harmony with living in the corner.  Look at move 118 to see the inevitable result.  I have not analyzed the corner, but S3 (sq.) looks like a good shape point that would let White live in the corner unconditionally.  Oh, what the heck -- let's do at least a little analysis; brb.  Ok, I looked at a handful of variations, and I'm convinced that playing S3 (sq.) lets the White corner live.  After that, White could play to save the weak group on the upper side.]
+;B[lq];W[mr]C[mikem:  This only adds to the number of stones in trouble.]
+;B[or]TR[no][mp][np][mq][mr]SQ[sq]C[mikem:  This is horrible for White.  The corner is cut off; even worse, it is undercut (meaning that Black could safely monkey-jump to T3 (sq.) and destroy the corner territory), Five stones around N4 (tri.) surround zero points of territory, and still are not even fully alive yet.  It would have been better to throw them away (at least temporarily) at move 115.]
+;W[kr]C[mikem:  This is a nice try, but there are too many weak spots and cutting points, as we will see at move 132.]
+;B[lr];W[ls];B[kq];W[jr];B[jq];W[iq];B[ns];W[kp]C[mikem:  This is bad form.  White reduces his own group from 3 liberties to 2 liberties.]
+;B[lo];W[ms];B[ir]
+(;W[hr]TR[ip]C[mikem:  White has too many weaknesses.  I wonder if it's better to connect at J4 (tri.) instead?]
+;B[ip]C[mikem:  Nice sequence by Black.];W[hq];B[in];W[go];B[gk]
+LB[el:B][hn:A]TR[il][jl][im]SQ[en][fo][dp][fp]C[mikem:  We're in the latter stages of midgame fighting, and this is an interesting move.  It connects some stones, while at the same time threatening to cut off three stones around J8 (tri.), by playing at H6 (A).  Meanwhile, it looks like White can cut off four Blacks near F5 (sq.), by playing at D8 (B).  So we can expect some complicated fighting in the lower left.  Meanwhile, I think it would be far bigger to play in the lower right (large unsettled corner) or the upper right (where White is almost, but not quite, dead).]
+;W[em]TR[el]C[mikem:  Ok, White is going for the cut.  I don't think it works from this side -- I think E8 might be better -- but let's see.]
+;B[dm]TR[il][jl][im]C[mikem:  This looks like Black will fail to connect (as long as White is willing to sacrifice the three J8 stones, when the time comes).]
+
+(;W[fn]C[mikem:  This way of playing feels risky.];B[el];W[eo]
+C[mikem:  Wow, that's bold.];B[dn];W[fm]TR[ep]SQ[dl]C[mikem:  What?  That must be an oversight.  White might as well capture at E4 (tri.), since Black can connect anyway at D8 (sq.).]
+;B[ep];W[dl]C[mikem:  Here, cutting Black off from the friendly stones is going to backfire, because Black must then run to the side for life, and in the process Black will destroy White's potential for a nice left-side territory.]
+;B[cp];W[cm];B[do];W[dq]
+(;B[bp]TR[eq]C[mikem:  This doesn't look right.  What would Black do, if White connected at E3 (tri.)?]
+;W[bq];B[aq];W[ar];B[ap];W[br]TR[dm][dn][en][do][fo][ap][bp]
+[cp][dp][ep][fp][aq]C[mikem:  White is very close to capturing a dozen stones near D4 (tri.).]
+;B[hm]
+(;W[hn]CR[rq]TR[il][jl][im]SQ[bn]C[mikem:  Good -- White read out that trying to save the three J8 stones (tri.) does not work.  Very good!  (However, since the three stones can't be saved anyway, it would be even better to use this move to finish killing the large Black group, by playing B6 (sq.).  Or, use this move to save the lower right corner, with S3 (cir.).)]
+;B[hl];W[eq]TR[bn]SQ[no][mp][np][mq][mr][ls][ms]C[mikem:  That's a good point -- the E3 weakness was looming menacingly.  However, taking time to fill there now allows Black to make the second eye by playing at B6 (tri.).  Back at move 157, I tried a couple of variations, and I think that White can afford to not connect here at E3 just yet -- as long as White is willing to sacrifice the seven stones around M1-O5 (sq.).  Give up seven stones, to capture twelve?  Sounds like a good trade to me.]
+;B[bn];W[bm]
+(;B[am]TR[an]C[mikem:  Black's move will not work; this should instead be at A6 (tri.).]
+;W[bo];B[sp]TR[sq]C[mikem:  Finally, Black takes a big move against the lower-right corner.  (Black could have jumped as far as T3 (tri.), thanks to the S6 stone.)]
+;W[rq];B[ro];W[sq]TR[qr]C[mikem:  This actually should not work, because Black can play R2 (tri.).]
+;B[qh]TR[qe][re][pg][qi][ri][qj]SQ[rl]C[Jonk:  Please also advise on the important move I missed in order to keep this group alive
+
+mikem:  We're talking about the S16-Q13-R11 formation (tri.).  This group has been basically dead since Black's move 106 at S8 (sq.).  At move 113, I explored a few variations to see how this group could have been saved; and I don't see a way.]
+;W[rh];B[si];W[qg];B[rg]C[mikem:  Black uses a squeeze to make sure White won't be able to ive.]
+;W[ph];B[sh];W[qh]C[mikem:  This is a painful shape for White -- ten stones making zero points of territory.]
+;B[rf];W[og];B[nh];W[od];B[oe];W[oc];B[se];W[rc];B[pe];W[mg]
+;B[ng];W[lb];B[kb];W[ka];B[jb];W[lh];B[mi];W[dh];B[la]TR[mb]
+C[mikem:  This is a confusing move.  I'm assuming it was a misclick, and was intended for N18 (tri.).]
+;W[ma];B[ja];W[la]
+(;B[ga];W[hb];B[ha];W[fb];B[fa];W[ea];B[nr];W[is];B[qr]C[Jonk:  This was the killer move...I didn't see it...
+
+mikem:  Since you didn't see it, that confirms my advice to study more life-and-death problems.  There are several good books available, as well as problem collections on the internet.]
+;W[qs];B[rr];W[sr];B[rs];W[ps];B[os];W[qq];B[pl];W[ss]TR[qr]
+[rr][rs]C[mikem:  Look at the eyeshape for your group (triangles).  S2 is the vital point.  If White gets to play there, the group lives.  Unfortunately, it is Black's turn.]
+;B[rr];W[gb];B[ia];W[gh];B[gi];W[ei];B[fi];W[di];B[hh];W[jf]
+;B[ie];W[ig];B[kf];W[li];B[lj]C[mikem:  Good.  Considering how close the final score was, it might have been this sequence -- where White made several small reductions while keeping sente -- that made the difference.]
+;W[mf];B[me];W[lf];B[je];W[ho];B[mh];W[gg];B[fl];W[sc];B[sd]
+;W[jg];B[le];W[lg];B[gl];W[gn];B[hp];W[gq];B[nq];W[ks];B[rp]
+;W[tt]C[Jonk:  A very loose game from my side due to carelessness and lack of vision...Advice on minimizing these mistakes?
+
+mikem:  Advice:  1. Do lots of life-and-death problems.  2. Be willing -- eager, even -- to let go of weak stones.  Throwing good stones after bad was a recurring theme in this game.  (The life-and-death work will help you know when stones are weak.)  3. Look around the board, and play first where the most points can be made.  A couple of times, you played complicated fighting moves for just a few points gain, when there were much bigger, much simpler, plays you could have made.  4. Keep playing boldly, and don't get discouraged.  Thank you for the chance to review this game -- I enjoyed it.  -- Mike Malveaux, mikem on KGS and IGS/Pandanet, 2015-05-20]
+;B[tt];W[tt]TW[aa][ba][ca][da][na][oa][pa][qa][ra][sa][ab][bb]
+[cb][eb][mb][nb][ob][pb][qb][rb][sb][ac][bc][cc][dc][ec][gc]
+[ad][bd][cd][dd][ed][fd][gd][ae][be][de][ee][fe][ge][af][bf]
+[cf][df][ef][ff][gf][ag][bg][dg][ah][bh][ch][ai][bi][ci][aj]
+[bj][cj][ak][bk][ck][al][bl][cl][am][dm][an][bn][dn][en][ao]
+[co][do][eo][fo][ap][bp][cp][dp][ep][fp][aq][cr][dr][er][fr]
+[gr][ir][as][bs][cs][ds][es][fs][gs][hs][js]TB[jc][kc][kd][ne]
+[qe][re][of][pf][qf][sf][og][pg][qg][sg][ph][qh][rh][ni][oi]
+[qi][ri][fj][gj][hj][ij][jj][kj][mj][nj][oj][qj][sj][fk][hk]
+[kk][lk][nk][ok][pk][rk][il][jl][ml][sl][im][km][mm][nm][om]
+[pm][qm][sm][jn][ln][pn][qn][sn][jo][po][qo][so][jp][kp][qp]
+[pq][qq][rq][sq][pr][qr][sr][ps][qs][rs][ss]C[White: 82 territories + 2*16 dead stones(B) + 6 prisoners + 6 komi = 126
+Black: 45 territories + 2*30 dead stones(W) + 13 prisoners = 118
+Result: W+8])
+(;B[rb];W[sb];B[na];W[oa];B[mb];W[ra]C[mikem:  I guess that White is alive in the corner.]
+))
+(;B[an]C[mikem:  This is how Black should play to get a second eye and live.]
+))
+(;W[bn];B[eq];W[dr];B[fr];W[gq];B[er];W[cs];B[hn];W[gn];B[is]
+;W[hs];B[nr]
+(;W[js];B[gl];W[gr];B[nq];W[ks];B[ir];W[is];B[fl];W[bo];B[hp]
+;W[ao];B[ho];W[es];B[fs];W[co];B[ds]C[mikem:  I think White loses this capturing race, and the game.]
+)
+(;W[gr];B[ks];W[js];B[nq];W[es];B[fs];W[ds];B[is];W[ao];B[ks]
+;W[ls];B[gl];W[bo];B[fl];W[gs];B[ho];W[co]C[mikem:  By being willing to sacrifice a half-dozen stones, White can win the capturing race, and the game.]
+)))
+(;B[eq]C[mikem:  I'm pretty sure that, for Black, the correct idea is to push through and cut.]
+;W[er];B[bq];W[dr];B[br];W[bs];B[bo];W[co];B[bn];W[bm];B[cr]
+;W[cs];B[ar]))
+(;W[el];B[dl];W[dn];B[gl];W[fm];B[hm]))
+(;W[ip];B[ks];W[js];B[is];W[ks];B[nr]TR[ip]C[mikem:  Ouch.  Ok, so connecting at J4 (tri.) also would not have worked for White.]
+))
+(;W[rq]TR[no][mp][np]C[mikem:  Rather than struggling to save the heavy empty triangle around O4 (tri.), I think this move at least lets the corner live.  Then later, the dead stones may form a useful threat.  So -- can Black capture the corner after S3?]
+
+(;B[or]C[mikem:  There is a sequence of events when fighting to capture some stones (or, from the opposite perspective, when fighting to save some stones).  1st, cut off the group from its friends.  2nd, shrink the potential space for eyes.  3rd, play on the vital point before the opponent.  (When trying to save stones, 1st try to connect to friends; 2nd, play to expand potential space for eyes; 3rd, play on the vital point before the opponent.)  So here, Black plays to isolate the corner from friends, and to limit the potential space for eyes.]
+;W[qr]C[mikem:  White is unconditionally alive.  So, maybe Black has a more deadly move than P2?]
+)
+(;B[rr]C[mikem:  Here Black is trying to play on a vital point...]
+;W[ro]C[mikem:  ... but it seems pretty easy for White to live.]
+)
+(;B[ro]C[mikem:  Here is a third way Black might try to kill the corner, but...]
+;W[rp]C[mikem:  ... it just doesn't seem to work.])))
+(;W[rg]C[mikem:  This looks to me like the best bet for White, and I'll be surprised if it works.  Okay, I tried the most promising-looking variations, and it looks like White should die.  I will now try T13 instead of S13, to see whether that makes a difference.]
+;B[qh]
+(;W[ph];B[rh]C[mikem:  White dies.])
+(;W[rh];B[ph];W[qg];B[sf];W[se];B[pe]
+(;W[pf];B[rf];W[sg];B[si]C[mikem:  White is captured.])
+(;W[sg];B[si];W[pf];B[rf]C[mikem:  I see only one eye for White.]
+)))
+(;W[sg]C[mikem:  No, unless I'm missing something (which is quite probable), White can't live in that area.]
+;B[qh]
+(;W[rh];B[qg];W[pf];B[ph];W[rg];B[qf];W[rf];B[se])
+(;W[qg];B[rh]))
+(;W[qg];B[sg]C[mikem:  This is a nasty move that Black has in reserve.  Black has two directions to jump, but White can block only one at a time.]
+;W[se];B[si];W[sd];B[rc];W[rh];B[sh];W[ph];B[rg]C[mikem:  I just don't see any obvious way for White to get two eyes in this area.]
+)
+(;W[oe]C[mikem:  Ok, last attempt for White to live.  This time let's use the dead upper-side stones as a threat.]
+;B[od]
+(;W[pe];B[of];W[pf];B[rg];W[qh];B[sg];W[se];B[si]C[mikem:  White probably has better moves which are not immediately obvious to me.]
+)
+(;W[og];B[ng];W[rg];B[qh];W[rh]C[mikem:  Ok, this looks promising.  Let's see.]
+;B[ph];W[qg];B[sf];W[se];B[pe];W[pf];B[rf];W[si];B[sd];W[qf]
+;B[sg];W[sh];B[sf]C[mikem:  I just don't see a way for White to live here.]
+)))
+(;W[po]C[mikem:  I can't analyze it exhaustively, but a quick look makes me think that this Q5 would be better than the N4 move that White actually played.  This invites Black to fight inside White's strong area.]
+
+(;B[ip];W[iq];B[jo];W[kp])
+(;B[jo];W[kp];B[ip];W[ko])
+(;B[lp];W[ko];B[mo];W[km])))

@@ -1,0 +1,140 @@
+(;FF[4]GM[1]SZ[19]ST[1]AP[SGFC:1.16]
+
+PB[Adriano]
+BR[23k]
+HA[4]
+PW[GNU Go 3.8:level 1]
+KM[0.5]
+DT[2014-02-28]
+RE[W+36.5]
+
+AB[pp][dd][pd][dp]C[Hi!
+My name is Adriano.
+I played this game with the gnugo engine and I thought this game was interesting. I dont know joseki except the basic initial moves. I want to understand my mistakes.
+
+Hi Adriano,
+My name is Troy I will be conducting your review today. I hope you learn a lot. I will pass comment where necessary.]
+;W[cn];B[fp];W[cj];B[jc];W[qn];B[qi];W[cf];B[fd];W[nc]
+(;B[oc]C[my intentions was isolate Wo17 in upper side but played at Bp17 to avoid a invasion on the corner.
+
+
+
+
+There are a few options that could be played here. and one of them is what you were objectively playing for.]
+;W[nd]
+(;B[nf]C[See variation as this is way too high of a cap which can lead to all sorts of problems.]
+;W[qk]C[See the variations for some example follow ups.]
+(;B[np];W[lq]
+(;B[mq];W[lp]
+(;B[ok]C[This move is bad in this situation as it isnt connected and can be split easily.]
+;W[rp]
+(;B[qq];W[ld]
+(;B[je];W[lf]
+(;B[nh];W[bd];B[cc];W[ef];B[iq];W[ln]
+(;B[on];W[ri]
+(;B[qj];W[rj];B[rh]
+(;W[rq];B[qr];W[bp];B[cq];W[qm]
+(;B[lr]C[Slow move. Try something else.];W[kr];B[mr];W[bq]C[I shoud cut  at BL3 or maybe Bg14...?]
+
+(;B[cp];W[io];B[hp];W[bc]
+(;B[jh];W[oe];B[pe];W[cr];B[dr];W[gg]
+(;B[hf];W[fn]C[Like its trying to now.];B[gn]C[I tried to create a escape route and isolate W around L5 with Bg6.]
+;W[br]
+(;B[ds];W[fl]
+(;B[jp];W[jq];B[jr];W[kq];B[js];W[hj]
+(;B[il]C[maybe Bj7 was better.];W[jo];B[kl];W[ip];B[hq];W[ll]
+;B[lk];W[km];B[ml];W[lm];B[jl];W[kk];B[lj];W[kj];B[lh];W[ki]
+;B[kh];W[ij]
+(;B[gl];W[go];B[ho];W[gm]
+(;B[in];W[jn];B[hn];W[hm];B[im];W[hl]
+(;B[ob]C[Bp18 very defensive?];W[mb]
+(;B[lb];W[kb];B[kc];W[lc];B[jb];W[la];B[me];W[md];B[le];W[bb]
+;B[cb];W[ks];B[hh]C[Bj2 was urgent.];W[gk];B[gi];W[ir];B[hr]
+;W[is]
+(;B[hs]C[Gote];W[fj];B[fi];W[di]
+(;B[ff];W[fg];B[gf];W[ee];B[ed];W[li];B[mk];W[ca];B[da];W[ba]
+;B[db];W[of];B[ne];W[od];B[pf];W[og];B[oh];W[ng];B[mg];W[fo]
+;B[ep];W[rr];B[qo];W[ro];B[pg];W[ei];B[gj];W[fe];B[ge];W[kd]
+;B[jd];W[ke];B[mf];W[hg];B[if];W[ih];B[ii];W[ig];B[ji];W[hi]
+;B[kf];W[ik];B[gp];W[fr];B[eo];W[eq];B[dq]C[That B group with 9 eyes around f2 is unconditionally alive?
+
+Yes, see variations.]
+(;W[mi]MA[fs]
+(;B[mh];W[en];B[co];W[bo];B[sh];W[dn];B[de];W[df];B[ce];W[be]
+;B[ja];W[nb];B[oa];W[ka];B[jg];W[rs];B[qs];W[nj];B[oj];W[qp]
+;B[po];W[pk];B[ol];W[mm];B[nm];W[pj];B[pi];W[pl];B[mo];W[lo]
+;B[ls];W[mp];B[no];W[oq]C[I dont see this possibility for W.
+
+Why? he was either going to get the stones on the left or the right of the invasion. He succeeds with the left.]
+;B[pq];W[nq];B[nr];W[or];B[os];W[ns];B[ps];W[op];B[oo];W[ms]
+;B[mn];W[nk];B[nl];W[ni];B[oi];W[rk];B[pm];W[pn];B[om];W[na]
+;B[jk];W[jj];B[jm];W[pc]C[Is always safe let this cut point at q17 open?
+
+Ah nope.];B[pb];W[qc];B[qb];W[rc];B[rb]
+(;W[si];B[rd];W[cs];B[pr];W[gh];B[mj];W[cd];B[dc];W[do];TB[gs]
+[fs][es][gr][fr][er][gq][fq][eq][nn][qh][ph][sg][rg][qg][lg]
+[kg][sf][rf][qf][lf][jf][se][re][qe][ie][he][sd][qd][id][hd]
+[gd][sc][rc][qc][pc][ic][hc][gc][fc][ec][sb][ib][hb][gb][fb]
+[eb][sa][ra][qa][pa][ia][ha][ga][fa][ea]TW[ss][ls][js][bs][as]
+[sr][nr][mr][lr][jr][ar][sq][mq][aq][sp][kp][jp][ap][so][ko]
+[ao][sn][rn][kn][bn][an][sm][rm][fm][em][dm][cm][bm][am][sl]
+[rl][ql][gl][el][dl][cl][bl][al][sk][hk][fk][ek][dk][ck][bk]
+[ak][sj][gj][ej][dj][bj][aj][gi][fi][ci][bi][ai][hh][fh][eh]
+[dh][ch][bh][ah][eg][dg][cg][bg][ag][bf][af][ae][ad][mc][ac]
+[lb][ab][ma][aa]C[I really recommend you play against real people over bots :) You will be shown your mistakes more accurately. The bots make large mistakes and suddenly make moves that are unrelated to their big plan.
+
+As a side not remember not to follow your opponent around. There is likely better or more urgent moves of which you can make.
+
+All the best and good luck.])
+(;W[re];B[rd];W[qd];B[qe];W[sd];B[rf];W[sb];B[ra];W[pa];B[se]
+C[Can be taken to a KO]))
+(;B[fs];W[gr];B[er]))
+(;W[fs];B[fq];W[er];B[gr]))
+(;B[dn]))
+(;B[ei]))
+(;B[lc];W[kc];B[kb];W[kd];B[lb];W[jd];B[id];W[ic];B[jb];W[ie]
+;B[hd];W[jf];B[if];W[ib];B[hb];W[hc];B[gc];W[ia]))
+(;B[me]C[Better to jab it right in the heart.]))
+(;B[hn];W[hm];B[in];W[im];B[jn]))
+(;B[hn]))
+(;B[jm]C[Put pressure on the group, you want to kill the bottom.]
+))
+(;B[dn];W[dm])
+(;B[gj];W[fj];B[gi];W[fi]))
+(;B[gm]C[Coming in is a lot bigger.]))
+(;B[cl]C[Now maybe?])
+(;B[em]C[You just want to make sure he cant close off this huge moyo.]
+))
+(;B[kg]))
+(;B[br]))
+(;B[cl];W[dl];B[dm];W[cm];B[dk];W[bl];B[ck];W[bk];B[el])
+(;B[ko];W[lo];B[jm]C[Attack or kill this group for example. The top one is still weak also.]
+)
+(;B[lh];W[kg];B[kh];W[jg];B[ko];W[lo];B[jm]))
+(;W[qh];B[qg];W[ph]MA[rg];B[pj];W[rg];B[rf];W[sh]C[Very costly.]
+))
+(;B[rh]C[Always answer this way.];W[rj];B[qh]))
+(;B[ko];W[lo];B[on]C[Places an attack on both groups while you are well connected.]
+))
+(;B[mh])
+(;B[jg];W[lh]
+(;B[ch])
+(;B[dg];W[bd];B[cc];W[cg];B[df];W[nh];B[pf])))
+(;B[ke]C[Come in tighter.]))
+(;B[le]MA[nd]C[Attacking here is a lot larger than answering in the corner, its not urgent yet as its mia - you have an escape plan.]
+))
+(;B[jq]C[Prevent the base, make the group of two stones weak.]
+)
+(;B[jp]))
+(;B[mr]))
+(;B[oi]C[This move is to protect the corner, though if the cap wasnt played this kind of gote move would not be required.]
+)
+(;B[pg]C[This move is a bit nicer because it reinforces the corner plus attacks the group at the top. He cant do anything with it but run.]
+)
+(;B[pm]C[This kind of play trys to emphasise that the group can be attacked while producing a low of influence towards the center - At the same time stabilising your groups.]
+;W[qm];B[pk];W[pl];B[ol];W[ql];B[pj];W[rp];B[nq]))
+(;B[pf]))
+(;B[pc]C[Stone pillar, it doesnt touch him to make him stronger but also doesnt allow him to easily make a base. He will have to come out.]
+)
+(;B[ne]C[The cap, this emphasises the lower groups connectivity but also leases the corner open.]
+;W[qb]))

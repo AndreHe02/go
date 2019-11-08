@@ -1,0 +1,70 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+PB[kyosuke]
+BR[4k]
+PW[ChemBoy613]
+WR[4k]
+KM[7.5]
+DT[2008-05-28]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[W+Resign]
+RU[Chinese]
+
+C[hello
+
+thanks for reviwing my game ive made some comments on the sgf
+hope u can help me :D
+
+csh: I hope my comments prove to be useful.];B[pd];W[dc];B[qp]
+;W[dp];B[oq];W[qj];B[ql];W[qf]
+(;B[nc];W[rd]LB[jc:A][qh:B]C[should i have played A or B instead of R17?
+
+csh: R17 is a fine move. It threatens to play at B if White does not protect. If you play at B right now, there isn't much of an attack on the upper half of the white group. White can play R17 and live.]
+;B[qc];W[ph]LB[ce:B][cj:A]C[I should have gone to the left side i think, but which one should i play A or B
+
+csh: I like approaching the corner better than the splitting move. See the variation.]
+
+(;B[ic]C[csh: The problem with this extension is that it does not secure territory at the top. The area there can still be invaded and split up. White also gets sente, and will secure the upper left.]
+;W[ce]C[csh: White gets a good move which almost secures the entire corner. This is a really big move.]
+;B[cj];W[ch];B[cm];W[co]LB[bk:A][bl:B]C[csh: From here, the black stones can come under attack. Plays at A and B can connect to the surrounding white stones.]
+;B[jq];W[fq]C[csh: This move almost secures the lower left corner for White. Black is falling behind.]
+;B[kd]LB[fc:A]C[csh: This move isn't ambitious enough. An extension to A might be better.]
+;W[rp];B[qo]LB[qq:A]C[csh: Playing this move allows White to live in the corner with A.]
+;W[lq]C[should i have played this instead of M4?
+
+If yes what should i do next?]
+(;B[lp]C[csh: This move is a mistake. It is attaching to his weak stone, and "forcing" him to strengthen his position.]
+;W[mp];B[lo];W[kq];B[jp];W[mo];B[ln]C[csh: After trading these six moves, the white group is pretty stable.]
+;W[mn];B[lm];W[mm];B[ml];W[nl];B[mk];W[om]TR[mk][ml][nl][lm]
+[mm][ln][mn][lo][mo][lp][mp]C[csh: After trading the marked stones, the white group is much stronger than it was before, and much harder to attack. It's near impossible to keep White contained and prevent him from connecting out.]
+;B[pk];W[nk];B[mj];W[nj];B[jn]C[csh: You are protecting the cut here, but it's also a slow move. Since you are behind, you need to play moves that increase your territory to get back in the game. Merely solidly connecting your groups will not create enough territory to win.
+
+It is also much more important to secure the group in the right corner. If your group is cut in half, you can still run the groups out and connect to safety. If you do not protect the corner group, it will have nowhere to run. The white stones are blocking the exit.]
+;W[dl]C[csh: This is an odd direction to play, in my opinion. White can just uproot the black group and then chase it to the center and win the game.]
+;B[cl];W[dj];B[dk];W[ek];B[ck];W[di];B[el];W[fk];B[em];W[gc]
+;B[he];W[qq];B[pq];W[qr];B[ro];W[sq]
+(;B[rr]C[csh: The corner group isn't killable. It's more important now to make sure the outside group lives.]
+;W[rs];B[sr];W[pr];B[or];W[ps];B[mr];W[mq];B[rk];W[rj];B[pm]
+;W[gm]LB[oo:A]TR[kd]C[Game over black lost all his territory
+
+csh: I agree. This would be tough to come back. You could try a probe in the upper left (earlier in the game) and an invasion in the lower left to see if you can get back into the game, but it would be rough.
+
+You still have to worry about White playing at A, too.
+
+I think it might be better to think about trying to maintain a balance in the opening, and not to fall so far behind. It's a lot harder to come back after a weak opening, because it requires invasions and desparate measures to try and even out the game. Try to think about the potential territory you are creating, as well as judging the potential territory of your opponent.
+
+Instead of playing "protective" moves, like the marked stone, try to expand your possible territory before concentrating on solidifying it.
+
+I hope you find this commentary useful. Please let me know if you have any questions.]
+)
+(;B[pr]C[csh: Yep, this is better. :)];W[rr]))
+(;B[kp]LB[ko:A][qq:B]C[csh: Moves like this, or A, are the right idea. You are looking to surround his stones, and kill them, without strengthening them in the process. Note that you still have to worry about the white stone in the cornner living with B.]
+;W[lp];B[lo]))
+(;B[ce]LB[de:A][cf:B]C[csh: This approach move and the high approach move look better. A and B are also playable. There are quite a few variations here, but Black will get a better result than in the game.]
+)
+(;B[cj]C[csh: This is too passive.];W[cf]C[csh: This move allows White to loosely enclose the corner, while also threatening to rob your stong of its base.]
+;B[cm];W[co]C[csh: White looks like he came out ahead in thie exchange.]
+))
+(;B[qh]C[csh: You can invade directly.];W[of];B[nd];W[pi];B[qe]
+;W[rf];B[jc];W[ph]C[csh: White owes this move at some point. Otherwise, pulling out this stone will split White into two groups.]
+))

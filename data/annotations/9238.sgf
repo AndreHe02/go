@@ -1,0 +1,39 @@
+(;FF[4]GM[1]SZ[9]ST[2]CA[UTF-8]AP[SGFC:1.16]
+
+GN[9x9 SmartGo]
+PB[Colin]
+BR[26k]
+HA[4]
+PW[SmartGo]
+KM[0.5]
+DT[2013-08-01]
+RE[W+2.5]
+RU[Japanese]
+
+AB[cc][gc][cg][gg]PL[W];W[cf];B[be]LB[bf:B][dg:A]TR[cg]C[This first move is a bit odd. White attacks the triangled stone, so you should try to help this stone. Especially when there is nothing else to do. You have 4 stones handicap, thus an overwhelming lead.
+
+I would suggest moves like A, or B. Both strengthen the triangled stone.]
+;W[bg];B[dg]C[Now you help this stone, but...];W[bf]TR[be]C[... your other stone gets now problems.]
+;B[ce]LB[ge:A]TR[be]C[This is certainly not a bad move. It helps your weakest stone, which is definitely good. On the other hand, maybe now the triangled stone is not that important. It is on the second row, and not in a corner. Imagine a move like A. Even if white caputres the triangled stone now, you have a really impressive lead over the whole board.]
+;W[df];B[ef];W[eg];B[eh]C[Very good, it captures whites stone firmly in a ladder.]
+;W[ch];B[fg];W[de];B[dd];W[ee];B[fe];W[ed];B[ec];W[db];B[dc]
+;W[fd];B[gd];W[ge];B[he]LB[ff:A]C[Why not at A?];W[fc];B[fb]
+;W[eb];B[gb];W[cb]C[Answering this move is difficult, I show you some variations.]
+
+(;B[bb]TR[cc][dc][ec][dd]C[The marked stones have only two liberties left. You cannot fight that way. Thus you have to play the move mentioned in the variation.]
+;W[bc];B[cd];W[ae];B[gf];W[dh];B[eg];W[bh];B[di];W[ci];B[ei]
+;W[ea];B[fa];W[bd];B[tt];W[tt])
+(;B[bc]C[This one is very important. If you want to win this fight, you absolutely must not compromise your own shape, which you did with your move (have a look at it, and my comment there). Now You have a strong shape yourself.]
+;W[bb];B[ab]C[Up until here it is easy, white has now some possibilities...]
+
+(;W[ad]C[This is the vital point for white, lets have a look.]
+
+(;B[ac];W[ae];B[bd]C[This is important, you cannot just take a liberty from whites stones above. Now you have an eye and white cannot approach]
+;W[af];B[ea]
+(;W[ba];B[da]C[W cannot approach and loses, due to your eye.]
+)
+(;W[da];B[ba];W[fa];B[ga]C[W still cannot approach, and thus cannot win this ko]
+))
+(;B[ae]C[This makes an eye]))
+(;W[ae]C[This one won't work either.];B[ad];W[af];B[ea]C[Like the other variation, white is just dead.]
+)))

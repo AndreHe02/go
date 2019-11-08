@@ -1,0 +1,247 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+PB[mianreg]
+BR[16k]
+PW[Thithus]
+WR[6k]
+KM[0.5]
+DT[2008-01-15]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[W+Resign]
+TM[1620]
+RU[Japanese]
+
+C[Hey !
+
+This game may not be an even one, i (mianreg, Black) learned the rules a few weeks ago. Thithus is a regular player, hence that game was, in a way, pedagogic...
+We ran out of time so I did resign but I guess I played this game seriously until the end.
+
+My e-mail is : azzerrtyyuiiopp@yahoo.fr
+
+Favourite languages :
+French,
+else German or English ; your call :o)
+
+Thanks for helping !
+mianreg
+
+[Broege: All the comments are made as this one - in square brackets, at the end of the node.\]]
+;B[pd];W[dp];B[pq];W[dd];B[fq]LB[qk:A]C[[Broege: Another common pattern is for Black to play A - this is known as Chinese Fuseki. Please refer to http://senseis.xmp.net/?ChineseFuseki if you want to know more about this pattern.\]]
+;W[cn];B[dr];W[cq]C[mianreg [16k\]: bon, on va se la jouer classique]
+;B[iq]LB[cn:B][dn:C][fq:A]C[[Broege: Black A seems to be a suboptimal choice now - the bottom side is very low after the joseki played.
+Please note that White B is not the most common answer - typically White would answer at C, making a higher position for himself.\]]
+;W[qj]C[I don't know joseki so well either, so if you already have critics, please go on :o)]
+;B[qm]LB[ql:A][po:C][qo:B]C[[Broege: This seems too far from the corner to be fully safe and at the same time not really pressuring White - so I would recommend A, B or C, depending whether you want to pressure White (A) or close the corner (B or C).
+But this is more a matter of taste than knowledge.\]];W[qf]
+
+(;B[nd]LB[qf:A][qh:B][qm:C]C[[Broege: I always feel that White A is an overplay, aimed at tricking Black into the standard response - please see the variant two moves down for a possible continuation.
+Yet cutting at B is rather premature for Black (especially that the C stone is further off) as White shoould easily escape.\]]
+;W[rd];B[qc]
+(;W[pj]LB[ph:A][qh:B]C[Is this move a loss of time for w ?
+
+[Broege: No, White should play a move to strengthen this group. I would rather expect a move at A.
+If White ignores this area and Black plays B, White will have a hard time keeping both his groups safe.\]]
+;B[pg]LB[jc:B][lc:C][og:A]C[Relevant ?
+
+[Broege: Depends on your aim.
+If you wanted to cut White - it does not work, as shown by the next White move.
+If you wanted to put a stone as a forcing move - it can be, although I think A would be better - it still threatens to cut and is more strongly connected to the Black group above.
+Typical continuation for Black here is B - the corner group needs to be defended against White C.
+As it is unlikely that after Black B White will play a move around A (it would obtain only overconcentrated stones), Black should finish his shape with B and wait with A or the move played for later.\]]
+;W[qg];B[ph]C[[Broege: This obtains nothing important.
+The two Black stones does not form a wall with the corner group (they are not connected strongly enough), nor do they take any territory.
+The only thing they do is to solidify White group so White does no longer have to worry about it - not something Black should do.\]]
+;W[qh];B[jc]TR[pg][qg][ph][qh]C[[Broege: Imagine this position without the triangled stones.
+Isn't it better for Black? Black stones are practically the same and White still needs to worry (even if only slightly) about his side group.\]]
+;W[dg];B[fc]LB[gc:A]C[[Broege: This is an overplay - extention at A would be safe.\]]
+;W[hc]C[Here, I don't really know what to do.
+My own stone left is in a pincer. I may attack, but if you see the result in the game, I get caught...]
+;B[ge]LB[db:B][cc:C][gd:D][id:E][fe:A]C[I chose : flee and surround...
+
+[Broege: You can't flee and surround the White stone at the same time, at least not yet.
+So Black is left with two main choices:
+A - to escape into the centre quickly
+B - to dive into the corner, expecting White C, and then escape
+Black can also play D to put some pressure on White pincer - but after White E Black is still in danger.\]]
+;W[id];B[jd];W[if];B[gg]LB[ge:A]TR[fd][gd]C[[Broege: Black move at A left a cut (as marked) - so he needs to be careful in his escape into the centre.\]]
+;W[dj]TR[fc][ge][gg]C[[Broege: White is expoiting Black weakness by large extentions - and Black cannot cut as it would put his marked group in grave danger.\]]
+;B[fj]LB[fc:G][ee:F][fh:A][gh:B][fi:C][gi:D][gj:E]C[[Broege: Such a large extension from a weak group is rarely good. White can cut if he chooses so (imagine for example White A, Black B, then C, D and E) - so Black does not really put pressure on White stone.
+And if there is no pressure applied and the stone does not strengten own group - why play such a move anyway?
+Perhaps a move at F would be better? It protects all the cuts and cannot be easily ignored by White. Of course it gives White some solid shape - but that's to be expected following Black overplay at G.\]]
+;W[ih];B[hi];W[ii];B[ij]LB[ee:D][he:B][hg:C][hj:A]C[[Broege: This stone can be disconnected (as shown in the game).
+I understand that you rejected A as being too slow - and perhaps rightly so. In such a situation Black should first cover his cutting points with a few forcing moves (B, C, perhaps D) and only then try to apply force to White stones.\]]
+;W[hh];B[gh];W[gi]
+(;B[hj]LB[fi:A]C[[Broege: This is a very costly mistake - Black allows to cut off his stones and they are already almost captured.
+Perhaps playing A and sacrificing the ataried stone would be better? Please see the variation.
+Automatically protecting a stone in atari is a dangerous instinct - your opponent will for sure make some use of that.\]]
+;W[fi];B[gj];W[ei];B[hb]C[Obviously a mistake
+
+[Broege: I would call it "a nice try" - even if it was not executed properly. Please see the variations.\]]
+;W[gb]
+(;B[cc]C[For I guess I would lose my stone in this area, I get the corner as a little compensation.
+
+[Broege: Good thinking if you were sure to loose your stones.
+Of course saving them would be better ;-)\]];W[dc];B[db];W[eb]
+;B[cb]
+(;W[fb];B[be];W[cf];B[ce]C[b14 wrong ?
+
+[Broege: B14 is OK here - it cannot be cut and it gives Black some more space to live in.\]]
+;W[de]
+(;B[cd]LB[je:C][kg:D][om:B][fo:E][lp:A]C[[Broege: It is not needed - see the variations at the previous move.
+So it's much better to take some bigger move now - perhaps A or B or E or C+D sequence.\]]
+;W[bf]
+(;B[fo]LB[ad:C][nj:B][fo:A][lp:D]C[A18 is gote, so...
+
+[Broege: A18 is not needed, is it?
+My first choice would be D but A also seems OK (well, it was one of the four ideas a move back).\]]
+;W[qo]C[Tricky but I consider it as dubious, for I get thickness in the center, to a giant moyo.
+
+[Broege: You need to use the thickness you obtain. For me this seems a sound strategy for White - at least assuming that Black is much weaker and thus will not be able to put this thickness to a good use. For evenly matched players - I would have reservations but still not reject this move.\]]
+;B[pn]LB[qp:A]TR[qm][qo]C[[Broege: How about A? It protects the corner and puts some good pressure on White. Of course it means an all-out fight between the marked stones so Black should check he knows what he's doing.\]]
+;W[qq];B[pp];W[po];B[oo];W[qn];B[om]LB[qp:A]C[[Broege: Forcing moves first. After Black plays A White will have to connect to the upper group and Black will take the corner and a wall on the outside.\]]
+;W[qp];B[qr];W[rr];B[pr];W[rm];B[ql];W[rl];B[nk]LB[fm:E][km:D]
+[nn:C][np:B][op:A]C[[Broege: White has gained quite a lot - it destroyed a good chunk of Black potential territory and what's more converted it to White territory.
+Black's moyo is still only a moyo and not territory. White can play cut at A and take another chunk of Black territory or play forcing moves at B, C and then invade somewhere around D and hope that he will be able to escape upwards or to the left or to live inside.
+If White does not want to risk everything with such a deep invasion he can reduce at E or play the cut at A.]
+;W[lj]TR[fj][gj][hj][ij][nk][om][pn][fo][oo][pp][fq][iq][pq]
+[dr][pr]C[[Broege: Another way to play a reduction.\]];B[lk]
+C[From that point I guess there are lots of mistakes to come right in the center, and I lose a big part of my moyo.
+
+[Broege: Not yet knowing what lies ahead I would expect that even without any Black mistakes the moyo will be greatly reduced.\]]
+;W[kk]C[Is L10 solid ? I couldn't read through it.
+
+[Broege: Do you mean "can Black cut?". Let's see the variations. Definitely Black can cut - but in the following fight White will be probably better off.\]]
+
+(;B[kl];W[jk];B[jl];W[mk]
+(;B[ll];W[ml];B[mm];W[nl];B[nm];W[nj];B[ok];W[ik]
+(;B[hl]LB[jj:A][il:B]C[What else ?..
+
+[Broege: You can also try to counteratack - for example by playing A. White will connect (if not he will have to live inside Black moyo and then it is slightly weaker.
+Or you could play B and try geta for the next move - as in the variant shown a move earlier.\]]
+;W[il];B[im];W[hk];B[gl];W[hm]
+(;B[hn]LB[jm:D][hn:A][in:C][jn:B]C[[Broege: A bad mistake in a typical shape - atari at D threatens to capture 4 stones.\]]
+
+(;W[jm]LB[jm:A][in:B]C[Thithus [6k\]: aÃ¯e
+mianreg [16k\]: horreur
+Thithus [6k\]: c'est le trou noir, c'est le trou blanc
+Thithus [6k\]: dommage
+Thithus [6k\]: c'Ã©tait presque Ã§a !
+mianreg [16k\]: j6 aurait fait l'affaire])
+(;W[in]LB[jm:A][in:B]))
+(;B[jn]LB[hn:A][in:C][jn:B]C[mianreg [16k\]: enfin je crois
+Thithus [6k\]: lÃ  ?
+mianreg [16k\]: k6 ?
+mianreg [16k\]: non j])
+(;B[in]LB[gk:D][hn:A][in:C][jn:B]TR[hi][fj][gj][hj][ij]C[I trust J6. I played H6 too fast, obviously wrong. Any suggestion here ?
+
+[Broege: It already too late - White can catch the 5 marked stones with D - see the variation.\]]
+
+(;W[em];B[gk]C[sente
+
+[Broege: Yes - and a very important defensive move as is White played here Black would be caught - as shown earlier.\]]
+;W[kj];B[jj];W[ji];B[gn]LB[fm:B][gm:A]C[Gote.. I wanted to be sure my chain around G10 wouldn't be cut apart.
+
+[Broege: But it woulnd be cut - the only possibility - A - is easily protected against with B.\]]
+;W[nf];B[pf];W[oi];B[je];W[jf];B[ie];W[he]C[Thithus [6k\]: quelle pression ^^
+mianreg [16k\]: ironie ? :o)];B[ic];W[hd];B[hf];W[hg];B[gf]
+;W[gc]C[I wanted to build up a semeai, but...];B[ec]LB[ib:A]
+C[... I oversaw f16, that captures these 2 stones.
+
+[Broege: As White has still A he rather safe.\]];W[kf]
+(;B[ea]LB[ea:A][ib:B];W[ib];B[ha];W[ia];B[ga];W[fa]LB[da:A]
+[rc:B][cr:C]TR[ec][fc]C[Should I have played H19 here ? I guess not, for the 2 black stones are still lost, and with them, the stones along G in the white frame. So w lives anyway.
+
+[Broege: H19 is not needed - as you see the marked stones can be easily caught. I would also refrain from A and try to play some sente moves like B or/and C.\]]
+;B[da];W[ha];B[ol];W[mj];B[le]LB[kb:B][rc:C][cr:A]C[I guess, not good. I thought, K18 is not bad. Is there a possibility to hurt the white central zone ?
+
+[Broege: White is very safe in the middle. Now it is time to think about big (and preferably sente) endgame moves - like A, C or B (this one is gote though).\]]
+;W[lf];B[me];W[lb]C[Now I guess the stone is connected to the left.
+
+[Broege: Yes, it is. And it makes a great damage to the Black territory.\]]
+;B[kb];W[ka];B[mb];W[lc];B[ke]C[Feared the cut w L15 then M16 and i would have lost my 5 stones around K16.]
+;W[mc]C[Thought a long time to know if I still could cut. Didn't find anything out.]
+;B[nb]C[So can I live, right ?];W[rc]C[Is it tricky ?
+
+So that was all. Hope you enjoyed :o)
+
+Thanks once more.])
+(;B[ib]LB[ea:A][ib:B]
+(;W[ed]LB[ed:A][fd:B];B[fd]C[Thithus [6k\]: non
+Thithus [6k\]: l'inverse])
+(;W[fd]LB[ed:A][fd:B];B[ed];W[ee])))
+(;W[gk];B[fk];W[fl];B[gm];W[fm];B[gn];W[jj])))
+(;B[il];W[hk];B[gl];W[gk];B[fk];W[hl];B[hm];W[fl];B[gm]LB[kj:A]
+[el:B]C[[Broege: White has to protect from A and Black has time to play B.\]]
+))
+(;B[ml];W[ll];B[lm]C[[Broege: This leads to a picnic ko for White.\]]
+))
+(;B[kj]
+(;W[ki];B[jj];W[mk];B[ll];W[mj];B[ml]C[[Broege: This is not good for White.\]]
+)
+(;W[jj];B[ki];W[jk]
+(;B[mj];W[ji];B[kh];W[ll];B[mk]C[[Broege: White has successfully invaded.\]]
+)
+(;B[ji]
+(;W[li];B[kh];W[mk];B[ll]C[[Broege: This looks too good for Black.\]]
+)
+(;W[ll];B[mk];W[hl]TR[hi][ji][ki][fj][gj][hj][ij][kj]C[[Broege: Black has to protect both the marked groups - so I would bet White will have the upper hand here.\]]
+)))))
+(;B[nj]CR[oi]LB[ad:C][nj:B][fo:A]TR[ph]C[mianreg [16k\]: coup-able
+Thithus [6k\]: mauvise forme "le pas d'Ã©lÃ©phant"
+mianreg [16k\]: izine tite
+mianreg [16k\]: moi non plus
+
+[Broege: This move does not pressure White as the group is very safe after the earlier forcing exchange by Black.\]]
+;W[oi]TR[ph][nj]C[mianreg [16k\]: c 1 pÃ©dago ?
+Thithus [6k\]: et ici nous avons "l'oeil d'Ã©lÃ©phant"
+mianreg [16k\]: un fort bel oeil
+Thithus [6k\]: ben oui, c'est pas ce qui est prÃ©vu ?
+mianreg [16k\]: je sais pas, moi
+Thithus [6k\]: fort bel oeil pataud
+mianreg [16k\]: je suis comme un petit chat domestique
+mianreg [16k\]: trop de place me rebute
+Thithus [6k\]: c'est une forme Ã  Ã©viter tant que possible
+Thithus [6k\]: blanc fout le bordel lÃ]
+(;B[ni]LB[nh:B][ni:A];W[oh];B[ng];W[nh];B[mh];W[og];B[of];W[nf]
+C[mianreg [16k\]: aie];B[mg]
+(;W[pf]LB[oe:B][pf:A])
+(;W[oe]LB[oe:B][pf:A];B[pf];W[pe]))
+(;B[nh]LB[nh:B][ni:A];W[ni];B[mi];W[oh];B[og];W[mh]
+(;B[mj]LB[ng:B][mj:A]C[mianreg [16k\]: trop de points faibles]
+;W[ng])
+(;B[ng]LB[ng:B][mj:A];W[mj];B[li];W[nk];B[lg])))
+(;B[ad]LB[ad:C][nj:B][fo:A]C[Thithus [6k\]: raaaaaaaaaaaaah
+mianreg [16k\]: gote, c ca ?
+Thithus [6k\]: on a dit de ne pas finir gote
+Thithus [6k\]: ben oui
+Thithus [6k\]: sente tu connais ?
+mianreg [16k\]: oui
+Thithus [6k\]: gote c'est el contraire, oui ?
+mianreg [16k\]: certes
+Thithus [6k\]: oui ou non ?
+mianreg [16k\]: sinon j'aurais dit j18 mais c pataud
+Thithus [6k\]: ben lÃ  c'est unltra passif surtout]))
+(;B[lp]C[[Broege: Let's play this tenuki and see what happens in the corner.\]]
+;W[cd];B[bd]
+(;W[bf];B[bb]C[[Broege: For sure Black is alive.\]])
+(;W[ac];B[bf]C[[Broege: Now is gaining.\]])
+(;W[bb];B[ab];W[ba];B[bc]C[[Broege: Black is alive.\]])
+(;W[ab];B[ac];W[bb];B[ba];W[bf];B[ae]C[[Broege: Black is alive.\]]
+)))
+(;W[cd]C[[Broege: Now it's much harder for Black.\]]
+(;B[ec]C[[Broege: This is wrong.\]];W[fb];B[gc];W[ib])
+(;B[fb];W[ec];B[ea];W[gc];B[ga];W[fd];B[ib];W[fa];B[fb]C[[Broege: Black gets the corner but this is still a great win for White.\]]
+)))
+(;B[gc]
+(;W[ib]C[[Broege: White cannot really cut here.\]];B[hd]
+(;W[ic];B[ie];W[je];B[he];W[ke];B[jb];W[ha];B[fb]C[[Broege: White cutting stones are caught.\]]
+)
+(;W[ha];B[ic];W[ie];B[fb]C[[Broege: Black does not have to play ko here - so White is caught again.\]]
+))
+(;W[ic];B[ib]C[[Broege: If White does not try to cut - Black connects easily.\]]
+)))
+(;B[fi];W[hj];B[eh]LB[dg:A]C[[Broege: Black is connected and what's more the latest stone puts a little pressure at A to perhaps White will answer and Black will have more time to escape.\]]
+))
+(;W[ph];B[jc]))
+(;B[qh];W[of];B[oh];W[oj];B[mh];W[mf]C[[Broege: This does not look too good for Black.\]]
+))

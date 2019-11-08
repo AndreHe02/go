@@ -1,0 +1,199 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.16]VW[]
+
+PB[Drewski]
+BR[21k]
+PW[The Many Faces of Go 12.022]
+WR[18k]
+KM[6.5]
+DT[2013-03-08]
+RE[B+Resign]
+RU[Japanese]
+
+;B[pd];W[cp];B[dd];W[qp]LB[jd:D][qf:C][qg:E][pj:B][qj:A][ep:F]
+[eq:G]C[
+After this point, I'm unsure most of the time where exactly to
+play. So I played on the star point
+
+--
+
+There are actually quite a bit different moves one can play, and it depends of one’s playing style. I’d suggest to try whatever you want to.  
+
+To name few, I put a marker for some possible next moves for black.
+
+For extra points, try these out and find out what kind of playing would follow from them.]
+N[Opening];B[pj];W[fc];B[fd]C[
+Was this a good response to white? If not what would be better?]
+
+(;W[ci]C[I would not tenuki here as white.];B[dg]LB[ec:B][gc:A]
+C[I think this move is slow. It hardly gains any points for you, does not attack white? (what this stone threatens?) and does not really even make you stronger. 
+
+Maybe something like A or B would make more sense? A to close white in and B to take corner.]
+;W[ei];B[dh]C[What does this peep gain to you? Even if white answers...]
+
+(;W[qf];B[qe]C[
+Good response? If not what would be better?
+
+--
+
+I think R15 is good here. Looks like white agrees, since white decided to tenuki rather than make itself heavy.]
+;W[pl];B[pk]C[This kind of moves are really bad. Why? Here your stones bumps to white, which will form a wall. So your  stones are not efficient, whereas white gained much more because of your move.]
+
+(;W[dl];B[di];W[dj];B[ej];W[ek];B[fj];W[fk]
+(;B[fi]C[
+During this exchange I was attempting to make territory for
+myself while lowering White's territory.
+
+--
+
+I don’t know, it looks like white made territory where black got little wall to center.]
+;W[jp];B[jd];W[eq];B[mp]C[
+Looking back I think I should have responded with an attack on
+the lower-right (I think)];W[oq];B[op];W[qh];B[of];W[nc];B[nd]
+;W[oc];B[pc];W[od];B[oe];W[pf];B[pe];W[qn];B[ql];W[oh];B[pi]
+;W[ko];B[lp];W[oi];B[qm];W[pm];B[pn]C[
+Was the cut a mistake?
+
+--
+
+Generally, one wants to cut when there is some point dividing opponent’s stones, for example to create two weak groups. I fbot are alive, there is no point, really...
+
+In this case, I would most likely do the cut myself.];W[qk]
+;B[rk];W[qj];B[qi];W[mh]LB[ec:C][gc:E][qo:B][nq:A][pq:D]C[I marked some plays that may be feasible. Maybe try them out?]
+
+(;B[ng]C[
+Should I have played at O12 instead? Or neither of these two?
+Sorry if I'm asking a lot of questions. I just really thrive off of
+feedback.
+
+-- 
+
+I don’t think o13 really gains anything to you, only strengthens your opponents. Better avoid that kind of plays, I think.]
+;W[mg];B[nh];W[ce];B[cd];W[bd];B[bc];W[de];B[be];W[ad];B[ae]
+;W[pq];B[po];W[jg];B[kf];W[kg];B[lg];W[lh];B[lf];W[mf];B[me]
+;W[kc];B[lc];W[jc];B[kd];W[ic];B[kb];W[id];B[je];W[ie];B[if]
+C[
+Not sure how things were going right here. I was really unsure of
+how to play. Thoughts?
+
+--
+
+This move is feasible, because the cut at K14 is not serious.]
+
+(;W[ig];B[hf];W[kj]
+(;B[lj];W[lk];B[mj];W[mk];B[nk];W[nl];B[ok]C[
+Here I was trying to connect and decrease white's middle
+territory. Which seems really strong to me.];W[rj];B[ri];W[sj]
+;B[si];W[hg];B[jf]C[
+Was this a necessary move? I thought for like a minute or so on
+whether I should connect here or extend out at G14
+
+--
+
+I put some variations earlier that should show this.];W[gf]
+;B[he];W[ij];B[hk];W[hj];B[gj];W[gk];B[hl];W[rl];B[sk];W[rm]
+;B[qk];W[ni];B[nj];W[mm]
+(;B[ol]C[The problem is actually this move. 
+
+It lets white to connect while gaining absolutely nothing to black.]
+;W[om]C[
+Had no clue how to respond to this. So I decided to attack while
+adding to my form in the lower right. Unsure if I did well with that
+or not.];B[nn];W[nm];B[mn];W[ln];B[lo];W[km];B[pp];W[mr];B[nq]
+;W[nr];B[lr];W[eh]
+(;B[eg]C[Oops, F11 stones just got captured :(];W[fh]
+(;B[gg];W[gh];B[fg];W[ki];B[hh];W[gi]C[
+Here I got frustrated at myself for not seeing that I could get
+captured right here. I nearly quit the game, but instead decided
+to continue and see how things went.]
+(;B[cq]C[
+Was this a good place to start my attack? I was unsure how to
+approach because White seemed to have the area enclosed well
+already.];W[dq];B[dr]
+(;W[cr];B[bq];W[bp];B[br];W[cs];B[ds];W[er];B[bs];W[og];B[nf]
+;W[mi];B[ph];W[pg];B[rh];W[rg];B[qg];W[rf];B[qh]C[
+Decided to fill in the atari hole and end the ko battle. Was this
+necessary?
+
+--
+
+Is there moves left that would give you one point? If yes, you shouldn’t fill it. Because filling it gives you *zero* points. 
+
+This kind of kos are the very last kos played; the player who fills the ko has eaten one more opponent stone, so gains one point. 
+
+But when you can play atleast one point gote move, opponent takes the ko, you play another, one point move, opponent fills the ko, opponent has gained only one point, where you gained two points.]
+;W[re];B[rd];W[jb];B[ka];W[ja];B[lb];W[mb]C[
+This move threw me off. I really had no idea how to respond. So I
+responded with N17. Should I have played at O18 instead? Or
+somewhere else? If somewhere else please explain why.
+
+--
+
+In this kind of situations, first thing is to read what will happen if you don’t answer to the move. If something looks dangerous, read it, and if you think you’ll die, die what you’d need to play in order to prevent it. 
+
+In this case I  think n17 is sane move, since it at same time makes it harder for white to make eyes and removes your weakness at n16 area.]
+
+(;B[mc];W[rb];B[ob];W[cf];B[ac];W[cg];B[ch];W[bh];B[bg];W[bi]
+;B[bf];W[cj];B[ap];W[ao];B[aq];W[bo];B[dp];W[ep];B[do]LB[pj:A]
+[pp:B]C[
+Here I was COMPLETELY surprised when White resigned. It was
+my first official win against this program. I thought I wasn't doing
+that well. So when it resigned I was proud of myself. Once again
+thanks for reviewing my game, and sorry if there's a lot of simple
+questions.
+-Drewski
+
+--
+
+When you look at the board, black has two weak groups, A and B.
+
+White could’ve tried to just play at R5 and try to win by territory. Which, if you ask me, should be possible for white. Nevertheless, I would say you played well :) 
+
+Simple questions are often best ones.])
+(;B[nb];W[ob]C[O18 doesn’t look wise to me.]))
+(;W[bq];B[cr];W[br];B[er];W[fr];B[fq];W[gr];B[gq];W[es]C[I think something like this would kill black there.]
+))
+(;B[bp]
+(;W[bq]
+(;B[bo])
+(;B[co])
+(;B[cq]))
+(;W[bo];B[cq];W[dq];B[cr])
+(;W[co];B[cq];W[dq];B[cr]C[Something like this. There is many, many variations and I can’t read them out myself. If there is nothing to lose, I suggest to just try them out though :)]
+)))
+(;B[fg];W[gh];B[ch];W[bi];B[bh];W[bj];B[ee]C[If you compare previous variation to this one, now black actually got quite big territory, just by sacrificing F11 stones.
+
+In addition to that, J17 stones are not exactly alive; they may well die since black is so strong here now.]
+))
+(;B[fh];W[eg];B[fg];W[ef];B[ff];W[df];B[ee];W[cg]SQ[ag][bg]
+[dg][ah][bh][ch][dh][ai][bi][di]C[This is even worse for black though. Instead of giving 4 stones, you gave very much of territory in addition to 3 stones.]
+))
+(;B[nm];W[om];B[on];W[nn];B[no];W[pp];B[mn];W[nm]
+(;B[ln])
+(;B[nq]C[Black should be able to live there atleast somehow.]
+)))
+(;B[kl]C[Usually better to jump in a way you can still escape, but white can’t easily strenghten itself. 
+
+This move also has another purpose: maybe capture Q8 stones. If white manages to block the center somehow, black should be able to make some points to O8 area. 
+
+There is still invasion points like B4 (very hard) and maybe H3? So it’s not as big as it looks like.]
+))
+(;W[jf]
+(;B[hf]C[Remember not to just extend, because...];W[le];B[ke]
+C[White will be happy like this.])
+(;B[ld]C[This also removes some aji from p17 stones, so it’s good for black.]
+;W[hf]C[Even if white wants to capture this stone, black can just run out, or in this case, just let it be. If white captures it, it’s only two points to white, and black’s previous move should be so much more worth.]
+)))
+(;B[nh];W[ng];B[ni];W[nj]C[You wouldn’t want to play to ladder :)]
+))
+(;B[gj]C[Better play something like this usually.];W[gk];B[hj]
+;W[hk];B[ij];W[ik];B[jq]C[Then, if white continues pushing, invade here, and white won’t get lower side as whole territory.]
+;W[jj];B[fq];W[nq];B[do]C[If white hanes, white should make some proper territory on bottom side, in order to reduce white’s potential there. There is many ways, maybe try to find out something you’d like yourself.]
+))
+(;W[ol]C[Like this.
+
+I don’t know what that bot thought, this should be only move.]
+))
+(;W[di];B[ep];W[dn]C[It doesn’t really help black in any way. Rather, the opposite.]
+))
+(;W[gd];B[fe];W[ec];B[dc];W[hc];B[df]LB[cj:A]C[For example this joseki would be playable for both. Now white could play at A, if white really wanted to.]
+))

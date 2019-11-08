@@ -1,0 +1,111 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+PB[rod]
+BR[9k]
+HA[0]
+PW[sente5]
+WR[7k]
+KM[0.5]
+DT[2004-03-17]
+PC[The Kiseido Go Server (KGS) at http://kgs.kiseido.com/]
+RE[W+37.50]
+TM[2400]
+OT[5x45 byo-yomi]
+RU[Japanese]
+
+C[Basically what I want to know is, I came close to killing the big black group in the upper right. Could I have killed it?
+
+Also any tips in the opening or especially the endgame would be much appreciated. Thank you very much.
+
+~sente
+
+crux: Hi, my name is Bernd, I'm about 1d at my club.  Please use an sgf viewer that clearly shows which nodes have variations, as I don't explicitly mention all of them.  I recommend qgo, ggo, cgoban1 or jago.  There are some problems with cgoban2, the KGS client.]
+;B[pd];W[dp];B[oq];W[dd];B[cf];W[fc];B[ci];W[qp];B[po];W[qo]
+;B[pn];W[qm];B[mq]LB[iq:B][jq:A]C[crux: Extremely narrow. More usual is to either keep pushing or to extend around A or B]
+
+(;W[pm]C[crux: Maybe not the most urgent point. I'd want to develop the lower left star point somehow.  Maybe the variation.]
+;B[bd];W[cc];B[cn];W[fq];B[bp];W[cq];B[dl]C[crux: Black has a fairly nice side now.]
+;W[qf];B[qh]
+(;W[of]C[crux: Probably playable, but not necessarily the move I'd choose.  What's wrong with the simple corner invasion (see var.)?]
+;B[md];W[pi];B[pg];W[pf];B[qi];W[pj];B[og];W[ng];B[qj];W[ne]
+C[crux: Solidifies Black, but it's hard to judge what will happen if White omits this move and Black cuts.]
+;B[nd];W[nh];B[pk];W[ok];B[oj];W[oi];B[ol]
+(;W[nj];B[pl];W[om];B[nl];W[pq];B[pp]
+(;W[pr];B[qn];W[rn]
+(;B[or];W[rl]TR[pq][pr]C[crux: Protects some of the cuts in sente, but Black can still capture the marked two stones.]
+;B[rk]
+(;W[kc]LB[nm:A]C[crux: My feeling is that A would be a good point for Black to strengthen his weak group and shut you in.  I'd want to play a move that keeps the black groups separated.]
+;B[hq];W[bq];B[gr];W[fr]C[crux: Submissive.  White seems to be alive without this move, so this is merely an endgame move.]
+;B[kd];W[jd];B[ke];W[lc];B[mc];W[je];B[ic];W[jc];B[gc];W[gd]
+;B[hd];W[ge];B[he];W[hf];B[if];W[ie];B[gf];W[hg];B[fd];W[fe]
+;B[fb];W[ec];B[hb];W[eb];B[jb];W[kb];B[ia];W[fa]C[crux: You're playing out all your ko threats.]
+;B[gb];W[ka];B[ja];W[id];B[ga];W[kf]TR[hd][he]LB[qc:A]C[crux: This move does not appear necessary since there is no danger of being shut in with the marked stones being in atari.  How about a 3-3 invasion now?  Black might find it hard to get much eye space for his group.]
+;B[qc];W[rd];B[rc];W[na]C[crux: Not easy to stop, but also only an endgame move since Black shouldn't have trouble living with correct play.]
+;B[mb];W[ma];B[oa];W[ob];B[la];W[lb];B[nb];W[pa];B[re];W[qe]
+;B[qd];W[rf];B[sd];W[oc];B[od];W[ra];B[rb];W[sb];B[qa];W[qb]
+;B[pc]
+(;W[pb]C[crux: This move appears unnecessary.  Just extending as in the variation should be enough to kill.]
+;B[sc];W[qa];B[nc];W[oa];B[sa];W[la];B[lf]
+(;W[kg];B[lg];W[kh];B[lh];W[li];B[mf]
+(;W[nf];B[ld];W[hc];B[me];W[ib];B[mi];W[mj];B[ic];W[hd];B[lj]
+;W[ki];B[mh]C[sente5 [7k\]: do unto others...
+sente5 [7k\]: or is it undo unto others?
+rod [9k\]: ?
+rod [9k\]: its an undo for a stupid move];W[lk];B[go];W[kj]
+C[Should I have played here or is there somewhere better? This seems kind of small.
+
+crux: I'd say it is quite big.  If you are disconnected, your group is weak, and this is a nice thick way of ensuring safety.  Capturing cutting stones is rarely small (unless they are cutting live groups).]
+;B[nm];W[on];B[nn];W[op];B[np]C[crux: Black correctly identifies the more important stones...]
+;W[oo];B[kl];W[ll];B[lm];W[jl];B[jm];W[il];B[im];W[fg]TR[gf]
+LB[bc:C][bo:D][hl:A][os:B]C[Should I have played A instead of here?
+
+crux: Well, certainly not here.  The marked black stone is not a cutting stone, so capturing it is not very valuable.  Black does get some nice forcing moves if White omits A.  There are other big endgame moves (B, C, D).]
+;B[hl];W[hk];B[ik];W[jk];B[gk];W[hj];B[gj];W[gi];B[hi];W[ij]
+;B[fi];W[gh];B[gl];W[ei]C[crux: This doesn't seem big enough.]
+;B[bc];W[ce];B[be];W[df];B[cg];W[dg];B[ej];W[di];B[dj];W[ch]
+;B[bh];W[dh];B[bi];W[os];B[ns];W[ps];B[nr];W[gp];B[hp];W[fo]
+;B[gq];W[fp];B[fn];W[gn];B[ho];W[en];B[fm];W[em];B[el];W[sf]
+;B[ni];W[oh];B[se];W[si]LB[bb:B][bo:A]C[crux: Black can hardly make very much territory here, so this isn't worth very much.  A and B seem bigger.  Of course Black is generous enough to end in gote here.]
+;B[sj];W[rh];B[ri];W[sh];B[rg];W[sg];B[qg];W[bo];B[co];W[cp]
+;B[bn];W[ap];B[fs];W[es];B[gs];W[dr];B[nk];W[oj];B[cd];W[cb]
+C[crux: Good.];B[bb];W[an];B[bm];W[no];B[mo];W[fh];B[ql];W[sl]
+;B[sk];W[am];B[al];W[ao];B[bl];W[ba];B[ab];W[kk];B[km];W[de]
+;B[do];W[eo];B[dm];W[fj];B[fk];W[ml];B[mm];W[fi];B[sb];W[mk]
+;B[ea];W[tt];B[tt]TB[ac][ad][ae][af][ag][ah][ai][aj][ak][bf]
+[bg][bj][bk][cj][ck][cl][cm][dk][ek][fl][gm][gn][hm][hn][hr]
+[hs][in][io][ip][iq][ir][is][jn][jo][jp][jq][jr][js][kn][ko]
+[kp][kq][kr][ks][le][ln][lo][lp][lq][lr][ls][mn][mp][mr][ms]
+[nq][qk][rd][rj]TW[aq][ar][as][bp][br][bs][cr][cs][da][db][dc]
+[dq][ds][ea][ed][ee][ef][eg][eh][ep][eq][er][fa][fb][fd][ff]
+[ga][gb][gc][gf][gg][ha][hb][he][hh][hi][ia][ib][ic][if][ig]
+[ih][ii][ik][ja][jb][jf][jg][jh][ji][jj][lj][pn][po][pp][qn]
+[qq][qr][qs][rm][ro][rp][rq][rr][rs][sm][sn][so][sp][sq][sr]
+[ss]C[Thanks for your comments])
+(;W[me]C[crux: It's probably too late now, as the semeai seems good for Black.]
+;B[ld];W[hc];B[nf];W[oe];B[le]
+(;W[qg];B[ph];W[rh];B[sg];W[sf];B[se]
+(;W[ri];B[pe];W[rg];B[rj];W[sh];B[sj];W[mg];B[si])
+(;W[sh];B[ri];W[mg];B[pe];W[rg];B[si]))
+(;W[rh];B[qg];W[rg];B[ri]
+(;W[mh];B[sh];W[mg];B[sf])
+(;W[sf];B[se];W[sh];B[si];W[mh];B[pe];W[mg];B[sg]))))
+(;W[hc]C[crux: White might have a chance to keep attacking Black if he gets rid of his shortage of liberties now, before giving Black all sorts of forcing moves.]
+)
+(;W[me]C[crux: This move also seems effective in eliminating Black's potential eye.]
+
+(;B[ld];W[hc];B[le];W[kg])
+(;B[kg];W[ld];B[le];W[hc])))
+(;W[lf]
+(;B[pb];W[qa];B[nc];W[oa];B[sc])
+(;B[sc];W[la];B[sa];W[qa];B[pb];W[oa])))
+(;W[mn]))
+(;B[rm]C[This looks dangerous, but it seems Black's weak group prevents him from doing any serious damage.]
+;W[rl];B[ro];W[sm];B[qq];W[rp];B[rq];W[so];B[or];W[qk]C[White's capture is bigger.]
+))
+(;W[qq]TR[qm][qo][qp]C[crux: This is better shape ('jump once after three'); it leaves fewer cutting points.  Black can't push through and cut.]
+))
+(;W[qk]C[crux: At the cost of giving Black a ponnuki you can make a large capture.]
+;B[nk];W[rk]))
+(;W[qc];B[qd];W[pc];B[od];W[rd];B[re];W[rc];B[qe];W[nc]C[crux: White gets territory, and it's not immediately clear how Black can do something useful with his thickness which is facing a solid white position below.]
+))
+(;W[ce];B[df];W[ck]))

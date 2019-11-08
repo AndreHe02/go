@@ -1,0 +1,221 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.17]
+
+PB[derAxel]
+BR[11k]
+PW[vanhala]
+WR[11k]
+KM[6.5]
+DT[2010-02-11]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[B+6.5]
+TM[900]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+C[Dear reviewer,
+
+I won this game by a 6.5 margin, which I consider to be a close game. However my impression of the game was that I should have won by a large margin (>20) instead because:
+- my opponent concentrated on a moyo in the centre and did not care to give me three relatively large corners
+- my opponent invaded instead of reducing, which seems to contrast his strategy of a central moyo
+- I reduced his moyo considerably.
+- I found and used a few of his shape defects.
+
+Obviously, I'm missing something here. Could you please point out my misconception? Moreover, I have a constant problem with invasions. Namely what the expected (fair) outcome would look like and how to response appropriately to an invasion.
+
+Thanks a lot for reviewing,
+/Axel
+
+** Hi, I'm Jouni, 4kyu.
+
+I think you outplayed your opponent in the beginning and middle game.  The problem is the endgame.  You need to study the concepts of sente and gote, reverse sente and double sente.  
+
+A good starting point is here: http://senseis.xmp.net/?Sente
+
+Another thing to study is how to evaluate the value of endgame play.  One introduction to this is in the book "The Endgame" bu Ogawa and Davies in the Kiseido book series.  
+A simple way to calculate the size of play is to play in your mind the move sequence if black plays first, then if white plays first and then look what is the score difference.  For example: if you see that if black gains 4 points if black plays first, and if white gains 2 points if white plays first, the move is worth 6 points.  
+
+The value of simple sente/gote is that if you take a sente move, then that sente move is worth all the points you calculated in the previous step.  But if you take a gote move, it is only worth half the number of points (since you lose your turn).  See
+
+http://senseis.xmp.net/?BasicEndgameTheory
+
+I have included a few points where I gave you some other options for endgame plays, and hope you'll find time to evaluate the size of each move option.]
+;B[pd];W[pq];B[dq];W[jj];B[dd];W[fd];B[dg];W[ee];B[de];W[dj]
+;B[co]LB[dj:A]C[is it okay to ignore W10 (A)?
+
+** yes.  White is building now central influence for fighting.  You have probably some points on the top left corner (although there are weaknesses) and now real territory at the bottom left corner.  White still has almost nothing on the territory, but white is collecting influence.
+
+White's idea seems to be preparing to fight.  White can invade anything and then try run to the center to the tengen stone.  If white plans for this, you can concentrate on making points with stone formations that are low enough and difficult to separate from each other.  Just remember to keep your access to the center open, so white cannot make a big area there.]
+;W[cm];B[jp];W[fq]TR[nc][ch][qo]C[First, the invasion is premature, or? Moreover, given that white plays for influence, an invasion is the wrong strategy on his behalf, or?
+
+Given that, how should I react to the invasion? What should I expect out of the invasion?
+
+** I don't know if it is bad time - the problem is that white in the middle left is perhaps a bit too weak.  But if white waits a longer, it might become uninvadeable.  This move is consistent with white's idea of just trying to fight all the way.
+
+I think that some other point (marked) would have been bigger for white, though...
+
+What you should expect now is that you have a weak target to attack  (F3), so you can attack it and benefit from it.  Typically attacking one enemy stone means the other enemy groups around should suffer.]
+;B[eo]TR[dj][cm]C[I thought keeping access to the centre is correct play, though it looks misplaced.
+
+** I think the move is about right but the thought is wrong.  your corner is stronger than the triangle group and can live there even if it gets cut in the process.  But the lone stone on the bottom line is the weak one, so you need to think that you attack the bottom stone and build thickness against the middle group while doing it.]
+;W[fo];B[ep]C[a shape move. Small?
+
+** no.  It peeps and makes white heavy, so I think it is OK.]
+;W[fp];B[en]C[** this is has been good for black - white has still two separated groups and white has gained nothing]
+;W[iq];B[jq];W[jr];B[kr];W[ir];B[nq];W[lp]C[This seems to be way too aggressive/premature.
+
+** yes.  white generates a lot of weak groups, so you are fine.  Just play calmly.]
+;B[lq];W[mp]
+(;B[pr]LB[mq:A]TR[kr]C[Is it more important to connect at A?
+
+** the triangle move protects the cut.  See some variations.]
+(;W[qr];B[or];W[mq];B[mr];W[np];B[oq];W[pp];B[op];W[oo];B[pj]
+;W[qk];B[qj];W[qo];B[pk];W[ql]
+(;B[pl]C[Should I have played tenuki instead?
+
+** you are actually pushing from behind.  So this is not a very nice move]
+;W[kp];B[kq];W[nc];B[pc]SQ[pj][qj][pk][pl]C[given the marked stone, this seemed to be the correct response.]
+;W[kd];B[fc]LB[ne:A][ip:B]TR[fo][fp][fq][iq][ir][jr]C[Is playing at A, aiming for a moyo, better?
+
+** yes.  It expands your moyo and reduces white's at the same time
+
+Your move is already purely end-game.  It is big, but there are also other moves available.  For example, B threatens the marked group and could lead to an attack leading to black destroying white's centre in sente]
+;W[gc];B[ec];W[hd];B[ci];W[cj]
+(;B[bn]LB[pf:A][er:B]C[** there is no real territory here...  just two points or so. (see the variation).  Make a bigger move instead.
+
+White should consider immediate tenuki, as there are not so many points here for white anyway.  B threatens to rob the black corner, so it is bigger sente, and A could be more points.]
+;W[bm]TR[bo]
+(;B[bi]C[** small];W[bj];B[el];W[qf]C[again, how should I handle this? Given that white aims for a huge moyo, I should be content with outside thickness, or?]
+(;B[qe];W[of];B[rf];W[qg];B[rg];W[rh];B[qh];W[ri]
+(;B[rj];W[qi];B[ph];W[pi];B[pf];W[oh]LB[oi:A];B[pg]SQ[pj][qj]
+[rj][pk][pl]C[this leaves essential stones floating/ heavy, how should I have proceeded instead?
+
+Or is there any way to make eyes for them?];W[oj]
+(;B[rl];W[qm];B[pm];W[nm];B[qn];W[rn];B[pn];W[rm];B[po];W[rp]
+(;B[no];W[on];B[mn];W[ln];B[mm];W[nl];B[kn];W[mo];B[nn];W[om]
+(;B[ko];W[lm];B[lo];W[ml];B[km];W[ll]
+(;B[ej]C[** better to attack the white group  on the bottom, or make a more indirect attack...]
+;W[di];B[dh];W[ei];B[fj];W[fh];B[gi];W[gh];B[hi];W[ii];B[hh]
+;W[gg];B[ig]TR[fo][fp][fq][iq][ir][jr]C[** you have destroyed white's center efficiently, now it would be the time to kill white at the bottom...]
+;W[jf];B[jg];W[fm];B[em];W[er];B[dr];W[im];B[nb];W[mb];B[ob]
+;W[mc];B[fb];W[oe];B[ef]C[** small];W[ff];B[ed];W[fe]
+(;B[qq];W[qp];B[qs];W[rr]
+(;B[js]C[** How many points?  Is this sente or gote?];W[ip]
+;B[io];W[ho];B[in];W[hn]
+(;B[jm]C[** this is again small.  You take one point in sente perhaps]
+;W[il];B[fn];W[gn];B[gm];W[hm]
+(;B[fl];W[gl];B[gk]LB[ia:A][ma:C][aj:E][am:D][rs:B]C[** I think there are again bigger moves around. 
+
+Please count the value of each of these moves and think whether they are sente or gote.  Is any one of them bigger than your move.]
+;W[hl];B[kh];W[lg];B[li];W[mj];B[ni]C[** very nice move :)  At first it seems it does not work ,but actually it does...]
+;W[oi];B[mi];W[nj];B[eq];W[fr];B[ma];W[la];B[na];W[kb];B[oc]
+LB[ha:B][ia:A][hb:F][ie:G][mg:I][ng:H][aj:C][am:D][rs:E]C[** smallish again.  Another exercise - what are the values of each of the moves here (G is tricky ;).  Which ones are sente, or are any?]
+;W[lh];B[ki];W[kg]
+(;B[jh]C[** actually, the cut is covered, so you can try something else that gains points instead...]
+;W[hj];B[hk];W[ik];B[dm];W[cn];B[bo];W[cl];B[if];W[je];B[ie]
+;W[id];B[gb];W[hb];B[ha];W[ia];B[ga];W[ic];B[og];W[ng]LB[od:B]
+[he:I][eh:G][nh:J][aj:D][dk:F][am:C][es:E][is:H][rs:A]C[** your next move purely 0 point move.  White cannot cut here, so you should play somewhere where you can get points.  Examples shown]
+;B[pe];W[kl]C[** luckily, white plays small moves, too.  There are practically no points here]
+;B[od];W[ne];B[nd];W[me];B[sh]LB[md:A]C[** continue pushing  - that is sente, but this move is gote.]
+;W[si];B[sg];W[md]
+(;B[ch]C[** not like this.  See variation];W[eg];B[df];W[hg]
+(;B[ji];W[ij];B[ih]
+(;W[hf];B[gj];W[eh];B[dk];W[ck];B[dn]LB[cr:1][cs:2][fs:3]C[** this one is one point gote, but playing on the lower side is three point reverse sente (points are numbered)]
+;W[is];B[ks];W[ds];B[cs];W[es];B[cr];W[ai];B[ah];W[aj];B[bg]
+LB[he:F][mh:G][dl:E][jl:C][am:B][fm:D][rs:A]C[** again a 0 point move, when there are points on the board.]
+;W[an];B[ao];W[am];B[he];W[ge];B[jl];W[kj];B[lj];W[lk];B[rs]
+;W[sr];B[ps]LB[mh:D][jk:A][dl:B][fm:C]C[** a 0 point move, when there are points on the board]
+;W[jk];B[dl];W[nh];B[mh];W[mg];B[ok]LB[fm:A]C[** don't play inside your opponen'ts territory.  A is your point.]
+;W[nk]C[** unnecessary move again, this time by white];B[fm]
+;W[gp]C[** and again.  White just donated two points to black.]
+;B[tt];W[cb];B[bc];W[cc]
+(;B[bb];W[bd];B[cd];W[be];B[ca];W[da];B[ba];W[tt];B[tt]TW[ja]
+[ka][ib][jb][lb][hc][jc][kc][lc][gd][jd][ld][ke][le][gf][kf]
+[lf][mf][nf][fg][pj][qj][rj][sj][ak][bk][kk][mk][ok][pk][rk]
+[sk][al][bl][ol][pl][rl][sl][pm][sm][pn][qn][sn][go][po][ro]
+[so][hp][sp][gq][hq][qq][rq][sq][gr][hr][fs][gs][hs]TB[aa][da]
+[ea][fa][oa][pa][qa][ra][sa][ab][cb][db][eb][pb][qb][rb][sb]
+[ac][cc][dc][qc][rc][sc][ad][bd][qd][rd][sd][ae][be][ce][re]
+[se][af][bf][cf][qf][sf][ag][cg][qg][bh][ek][fk][jn][do][jo]
+[mo][ap][bp][cp][dp][kp][lp][mp][np][aq][bq][cq][mq][ar][br]
+[lr][nr][as][bs][ls][ms][ns][os])
+(;B[bd]C[** if you want to make this simple, just get out.  white does not have enough room for two eyes.]
+))
+(;W[gj];B[fi];W[fk];B[ek];W[eh];B[gk]TR[ji]C[white just gained 1 pt, because of the marked stone]
+))
+(;B[ih];W[ji];B[kj]C[** white cannot get points here, even if you just make a simple connection]
+))
+(;B[aj];W[ak];B[ai];W[ch];B[bh];W[cg];B[bg];W[cf];B[bf]C[** white cannot cut.  So don't fill your own area in gote.]
+))
+(;B[jk]
+(;W[jh];B[ik])
+(;W[ik];B[kk]C[** the cut again :)  Now it is not many points any more, though.]
+))
+(;B[tt]C[** just to see that tenuki is safe];W[jh];B[ji];W[ih]
+;B[ij]))
+(;B[gl]C[** if you really want, then take a bit more points]
+))
+(;B[il]C[** About local options: How about this?]))
+(;B[ho]C[** this one threatens to cut the white group from its allies, so it would need to live by itself...  Much bigger...]
+(;W[gn];B[il]
+(;W[io];B[ip]
+(;W[in];B[hq];W[hr];B[hl])
+(;W[hn];B[hq]
+(;W[hr])
+(;W[jl]
+(;B[jm];W[hl];B[ik];W[hk];B[ij];W[hj])
+(;B[kl];W[kk];B[ik]
+(;W[jm];B[jk])
+(;W[jk];B[jm];W[hk];B[hl];W[gk];B[gl];W[fk];B[fl];W[ek];B[ij]
+)))))
+(;W[hl];B[jl];W[hj];B[hk];W[gk];B[ik];W[gj];B[fi];W[eh];B[ij]
+))
+(;W[hn]
+(;B[gn];W[fn];B[go];W[io];B[ip];W[gm];B[hq];W[ik])
+(;B[il];W[io];B[ip];W[hp];B[hq];W[go];B[hr]))))
+(;B[ia])
+(;B[qs]C[** playing here directly is better.]
+(;W[rs];B[qq]
+(;W[qp];B[rr])
+(;W[rr];B[qp]))
+(;W[rr]C[** so the result is the same, except you did not lose the ko threat.]
+)))
+(;B[er]C[** white is in trouble here])
+(;B[fj];W[di];B[bg];W[eh];B[eg];W[fh];B[dh];W[ei]TR[fo][fp]
+[fq][iq][ir][jr]C[** and after this attack the marked group is in even worse condition]
+))
+(;B[lm]C[** Better to make the route open to the centre]))
+(;B[nn];W[on];B[nl]C[** this way you can try to get out still, but it is getting worse all the time.]
+))
+(;B[qm];W[rm];B[rl]LB[og:D][oi:C][rn:B][no:A]C[** There is not much to do to make eyes, but there are a lot of potential cuts you can try to use when running out.]
+;W[pm];B[rk];W[ql];B[qk];W[rn]))
+(;B[ph]
+(;W[og];B[rj])
+(;W[rj];B[pf])))
+(;B[of]C[** your groups are two far away from each other.  Have to fight.  This is exactly what white is aiming at - having stones in the middle help in invading, but you are here locally also very strong.]
+))
+(;B[ne]C[** this is bigger.  And if white does not respond, something nasty could happen (the examples are not really beautiful sequences, but there must be something here for black.]
+;W[tt];B[mc];W[md];B[nd]
+(;W[mb];B[lc]
+(;W[ld];B[nb];W[oc];B[ob])
+(;W[nb];B[ld];W[me];B[le];W[mf];B[lb];W[nf];B[pf]))
+(;W[lc];B[mb];W[nb];B[me];W[ld];B[ob];W[lb];B[oc];W[ma];B[mi]
+)))
+(;B[tt];W[bn];B[bo];W[cn]TR[bm]))
+(;B[nd]C[** this would also make a black moyo stronger on the upper quadrant]
+)
+(;B[pf]CR[rl][rm][sm][qn][rn][sn][ro][so][qp][rp][sp][qq][rq]
+[sq]TR[bc][cc][qc][rc][sc][bd][cd][qd][rd][sd][be][ce][qe][re]
+[se][bf][qf][rf][sf][rg][sg][rh][sh][ri][bp][cp][dp][aq][bq]
+[cq][ar][br][cr][dr][nr][as][bs][cs][ds][ms][ns][os]C[** playing just something like this would leave white behind in points and with not really any useable influence against black...
+
+if you look at the board at this place, you see white has very little territory, and black has quite a lot already.]
+))
+(;W[mq];B[mr];W[or];B[oq]
+(;W[qr]
+(;B[nr];W[ps];B[oo]C[** this way white is floating in the middle - not very useful for white]
+)
+(;B[pp];W[nr];B[qq]C[** again total disaster for white]))
+(;W[nr];B[os];W[op];B[ns];W[np];B[pp];W[qq];B[po]C[** Black is totally safe and has two whie groups to harrass after this cut.]
+)))
+(;B[mq];W[or]C[** this threatens black and makes points for white  simultaneously.  So your move is much better]
+))

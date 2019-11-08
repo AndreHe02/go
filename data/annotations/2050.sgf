@@ -1,0 +1,107 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.13b]
+
+PB[RCarter]
+BR[27k]
+PW[DDT]
+WR[26k]
+KM[0]
+DT[2002-09-16]
+PC[IGS]
+RE[W+170.00]
+RU[Japanese]
+
+C[Dear rewiewer,
+I play Black in this game and I lost by 170!!!!
+In IGS I'm 27k and this man 26k, but I think he's a lot stronger!!!
+I've beaten some 25k and also a 20k, but this man chrashed me...
+Could you watch my game and tell me how many colossal mistakes I made to be=
+ defeated in this way?
+
+I play go since a month and I know I'm not good, but I hope to improve.
+In particular I was in trouble when he cutted or when I could have cutted.
+Thank you a lot for your time!!];B[pp]C[WJL (12k):Hi.  I'll try to do my best to point any mistakes you made :)]
+;W[dq];B[de]LB[dc:B][cd:C][dd:A]C[This looks like sub optimal move to me since the corner is a bit too open.  I'd suggest playing A B or C]
+;W[pd];B[nq]LB[ec:D][dj:C][pj:B][jp:A]C[This isn't a bad move per se, but you want to play biggest moves at this stage in the game.  I'd suggest  A-D.  D is close to the corner in order to protect it better.]
+;W[co];B[gd]C[This is a pretty greedy move.  White can invade fairly easily with success. Look at the vars.]
+
+(;W[qn];B[kd];W[nc];B[cj];W[jp]
+(;B[kp]C[I'd avoid contact moves this early.  Contact moves tend to strenghen both sides if they know what they're doing, but mis-reading the moves can make you lose out big.]
+;W[ko];B[lp];W[lo];B[mo];W[mn];B[mp]
+(;W[om]SQ[kq][lq][mq][kr][lr][mr][ks][ls][ms]C[Here black is the big loser in this seuquence.  Black is situated too high to call  the areas in square his territory while white now has big influence in the middle.  Look at vars.]
+;B[on];W[nn];B[no];W[pn]
+(;B[oo];W[qp];B[po]LB[pi:A]C[You blocked the wrong way here.  You need to try to save as much of the corner as possible, or  play at around A to destroy some of white's territory or make life. Look at variations.]
+;W[qo];B[qq];W[rq]
+(;B[rr]C[Ouch.  A double hane (two hinging moves) are very weak.  Try to not play them.]
+;W[qr];B[pq];W[rs];B[pr];W[sr];B[ps]C[Too small.  You should invade white on the right side before it's too late.]
+;W[kr];B[jq]C[You sould've blocked closer in, but this does make the game a bit more interesting...you can try to punish white for having such weak groups.  Look at the variations.]
+;W[kq]
+(;B[lq];W[iq];B[jr];W[js];B[ir];W[hr];B[lr];W[is]
+(;B[ls]C[Don't close off the corners untl the end of the game.  You don't want to lose sente (leading move) to a one point move.  The worst white can do is...look at the var.]
+;W[ne];B[dm]LB[cm:A]C[A is better.];W[cm];B[cl];W[dn];B[dl]
+;W[ld];B[le]LB[kc:A]C[I think you would've gained more by blocking downwards.]
+;W[ke];B[md];W[lc];B[kc];W[mc];B[me];W[nd];B[kf];W[je];B[ie]
+;W[jf];B[lg];W[kg];B[lf];W[if];B[hf];W[ig];B[kh];W[jg];B[lh]
+;W[hg];B[gi];W[he];B[id]LB[ji:A]C[You should've connected the black group out of white's territory before it's too late.]
+;W[gf];B[fg];W[hd];B[hc];W[ih];B[jd];W[hi]LB[ph:A]C[Now black is in real big trouble.  That large shape has to live for black to have fighting chance, but he is situated firmly in white's territory.  I'd suggest playing at around A to make some eye space and then connect later.
+
+See var.]
+(;B[nf];W[of];B[og];W[ng]LB[nh:A]C[Here playing at A instead is more useful.  Look at the var.]
+
+(;B[mf];W[nh];B[ik];W[hj];B[hk];W[gj];B[fj];W[ge];B[gk];W[ji]
+;B[ki];W[jj];B[kl];W[kj];B[lj]LB[pj:B][go:A]C[nice connect.  Now black wants to play either A or B and try to kill some white territories.]
+;W[fd];B[gc];W[ee];B[ec];W[fc];B[fb];W[ed];B[dd]LB[db:A]C[This is pretty loose, and there's that double hane move again.  You would need to play at A to secure it soon.]
+;W[eg]LB[ef:A]C[Would've been more effective, as well as giving you a possibility of killing the entire shape later on.]
+;B[dg];W[ff];B[kk];W[gh];B[fi];W[fh];B[eh];W[ef];B[lk];W[df]
+;B[cf];W[dh];B[cg];W[ei];B[ej];W[fk];B[fl];W[ek];B[dj];W[pg]
+;B[ij];W[jk];B[jl];W[jm];B[il];W[im];B[lm]C[This is called a peep .  A peep is often useless because it forces white to connect...which is what white wants to do anyway.]
+;W[ln];B[ii];W[jh]LB[go:A]C[A before it's too late!];B[hh];W[eb]
+LB[gb:B][kb:A]C[Uh oh. That upper black group looks like it's in danger.  Play either A or B to strengthen it.]
+;B[dc];W[gb];B[db];W[fa];B[hb];W[kb];B[nk]C[Now it's dead :(]
+;W[ic];B[ni];W[oh];B[oi];W[pi];B[pj];W[qj];B[qk];W[pk];B[oj]
+;W[ql];B[pl];W[rk];B[ok];W[ol];B[qk];W[ch];B[bh];W[bl];B[ck]
+;W[bk];B[bj];W[bn];B[fn];W[pk];B[bg]C[?  That shape is secure enough without that move.  You should try to attack the lower left for what it's worth.]
+;W[pm];B[nl];W[nm];B[mm];W[km];B[hm];W[hn]
+(;B[gn];W[gp];B[eo];W[ep];B[do];W[dp];B[fo];W[fp];B[go];W[ho]
+;B[en];W[cn];B[ak];W[al];B[aj];W[da];B[ca];W[cb];B[ea];W[fb]
+;B[da];W[ce];B[cd];W[be];B[bd];W[ad];B[bf];W[mh];B[mi];W[hi]
+;B[di];W[eh];B[hj];W[hh]C[Some final thoughts:
+
+A number of key factors led to your loss:
+
+1)Playing weak shapes.  Contact moves and double hanes will result in weak shapes that will make easy for white to invade, which is exactly what happened in the upper left side.  Try to play more firmly, even if that means losing a few points here and there.
+
+2)Playing too defensively.  You let white push you around too much, which resulted in you responding too much to white's moves rather than you forcing him to respond.
+
+3)Losing sente.  You got sente a number of times but you wasted them by playing small moves.  Try to make the most out of sente by playing big points.
+
+Still, you still have a lot of time to grow, so keep playing and good luck at Go :)]
+)
+(;B[fp]C[more effective.]))
+(;B[nh];W[mf];B[oh];W[mh];B[mg];W[nf];B[mi]))
+(;B[ph];W[nh];B[nj];W[oi];B[pj];W[pi];B[qi];W[oj];B[pk];W[oh]
+;B[pg];W[ql];B[ng];W[og];B[of];W[nf];B[qf];W[qd];B[rj]C[Here black sacrifices the middle group to make life in the corner.  Not ideal, but could be worse.]
+)
+(;B[pj];W[pg];B[ni];W[qk];B[qj];W[pk];B[rk];W[rl];B[ri];W[qh]
+;B[ng];W[oj];B[oi];W[nj];B[mj];W[mk];B[lj];W[lk];B[pi]C[Black should have enough space to force life.]
+))
+(;B[pi];W[ls];B[ms]C[one point loss, with black in position to kill. some of white's territory.]
+))
+(;B[jo];W[ip];B[ln];W[kn];B[lm]
+(;W[nm];B[jn];W[km];B[kl];W[jm];B[im]C[ladder :)])
+(;W[jn];B[nm];W[mm];B[ml]C[And you make head way into White's territory.]
+)))
+(;B[qr]))
+(;B[qp];W[oo];B[op]C[Don't let ataris get to you too much. If there are more points to be earned by ignoring it, do it :)]
+)
+(;B[pi];W[pg];B[pk];W[pl];B[rh];W[qh];B[qi];W[rg];B[ql];W[ri]
+;B[rj];W[sh];B[ni]C[Here black has destroyed much of white's territory and will either connect out or make life.]
+))
+(;W[jq];B[kq];W[kr];B[lr];W[jr]C[White now dominates the lower left corner.]
+))
+(;B[kq];W[jq];B[kr];W[jr]C[Both white and black win out in this sequence, and while white profits more, black is in a good position since it now has sente.]
+))
+(;W[cc]
+(;B[dc];W[cd];B[ce];W[be];B[bf];W[bd];B[cb];W[bb];B[db];W[ac]
+;B[ba];W[ae]C[life])
+(;B[cd];W[dc];B[ec];W[eb];B[fc];W[fb];B[gb];W[bd];B[be];W[bc]
+C[life.])))

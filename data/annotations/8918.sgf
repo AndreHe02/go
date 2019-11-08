@@ -1,0 +1,149 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.17]
+
+PB[yumeo583]
+BR[4k]
+PW[ookwrd]
+WR[4k]
+KM[6.5]
+DT[2012-10-19]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[W+Resign]
+TM[600]
+OT[5x20 byo-yomi]
+RU[Japanese]
+
+C[yumeo583 [4k\]: hi
+ookwrd [4k\]: hi
+
+GL: Hi, I'm Graham Lamburn (topazg on KGS), currently between KGS 1d and 2d. I hope to give useful comments and insights where I can (marked with GL:), and I've summarised the key points at the end of the sgf. Where I'm offering or annotating variations that deviate from the game, I mark the game move with a square and the deviation with a triangle (including your variations if you provided them and I commented on them). If I'm simply offering alternative moves as a comment, I normally mark each with a triangle, and most variations have a comment at the end.
+
+I'm afraid I started reviewing the game as Black, so I've left those comments in (prefixed appropriately) for you to read alongside the rest :)]
+;B[dp];W[pq];B[dc];W[pd];B[po];W[qo];B[qn];W[qp];B[pm];W[nq]
+;B[qi];W[qg]TR[jd][ci]SQ[nc]C[GL: To be honest, I'm not convinced about the timing on this one. I'd be drawn to approach the top left (as you did later), as your stone can't be made into a weak group. That being said, this isn't a bad choice. Aiming at moves involving R8 this helps your corner slightly, and at the same time works towards keeping Black's group a bit weak. As Black can handle those weaknesses by approaching R14 directly, the timing here is probably fine.]
+(;B[nc]TR[pc]SQ[pb]C[(as Black) GL: Perfectly playable, but I'd be more inclined towards the left side or the top middle, just because White already has an effective response to this move at R13.]
+(;W[pb]TR[kd]SQ[pf]C[GL: Q17 is standard.]
+(;B[pf]C[(as Black) GL: This move seems a bit strange .. it's not entirely clear what the goal is here? It's not particularly aji-keshi, but it doesn't seem particularly consistend with the board. My initial tendency would be to develop the top (as is normal from the approach)]
+;W[qf];B[pe];W[qe];B[od];W[oc];B[ob]C[(as Black) GL: Good exchange to play first!]
+;W[pc];B[ne];W[de]TR[fd]SQ[ce]C[GL: Excellent! C14 is also playable, but I like this.]
+(;B[ce]TR[dd]SQ[cf]C[(as Black) GL: Inconsistent. He's just built a wall in the top right, and should be aiming to expand on that.]
+(;W[cf]C[*** Important point ***
+
+GL: When picking josekis, it's always tempting to go with the simplest ones, or the ones you know best, but it's a very important to pick according to the whole board. At this point, the result in the top right has a big impact on the choice here - outwards facing thickness often does.
+
+He wants the top edge, so you're better off playing the avalance and building your own wall to neutralise his.]
+;B[cd];W[df];B[fc]C[(as Black) GL: He can also consider E16, aiming to develop the top more quickly by getting up to the 4th line.]
+;W[cj]TR[fe][cn][jq]SQ[cm]C[GL: Good, important to play this before handling the top.]
+(;B[cm]TR[gd]SQ[fq]C[(as Black) GL: This seems a little undecided. Either securing the corner with an additional move makes sense, with C6, or taking a large point on the bottom makes sense. This neither develops many points, nor secures the 3-3 from invasion, and seems to do not quite enough of either.
+
+To be honest, this corner doesn't seem particularly urgent. The 4-4 stone will handle itself from any / either approach moves, and neither side is that large as both adjacent White stones (C10 and O3) are on the third line.
+
+Instead, I'd really want to play the excellent F15. Having invested those stones in the top right, you want to try and milk as much cash out of them as you can if possible, and aiming for a fast development helps you to do this.]
+(;W[fq]TR[dq]SQ[hq]C[*** Important point ***
+
+GL: Although this final approach seems large, the top has a larger investment in it, and a greater potential for points. As a general rule, influence (such as this position in the lower left, exerting itself along the lower side) is less urgent than thickness.
+
+Moves like bF15 or wG16 need to become something you look for instinctively, as killing the potential for a framework is at least as important as edge fuseki extensions. In this case, it's only Black threatening to build a framework (instead of both colours), but as Black's position in the top right is fairly thick, it's still very important to reduce quickly.]
+(;B[hq]C[(as Black) GL: Overplay. Simply D3 to secure points with sente.]
+;W[cq]C[GL: Now his stones feel a bit out of place, and he needs to be careful not to end up with a thick wall of no great use.]
+;B[dq];W[cp];B[do];W[dr];B[er];W[cr];B[eq];W[bn];B[bm];W[cn]
+;B[dn]TR[dm]SQ[jq]
+(;W[jq]C[GL: If you can't cut at D7 right now, you virtually can. Protecting that cut with E8 (shape move) is an important honte move for Black.]
+;B[lq]TR[jo]SQ[lp]C[(as Black) GL: Again, overplay! Black now allows you to start making potential use of F3. M3 is an isolated stone, so all you have to do is jump out, and you can invest effort in making the wall of stones at D4 return nothing.]
+(;W[lp]C[*** Important point ***
+
+GL: Simply jump out, Black has far more problems to solve than White, as F3 is just useful sacrificial aji.
+
+In this position, White effectively played a contact play (normally a defensive way of finding a quick route to settle) and then settled the side _that was already strong_. You were quite right to want to treat K3 urgently, but you then let Black really properly cut it off. H4 is another idea with the same theme, but play to help K3, not O3 (which doesn't need it).]
+;B[mp];W[mq]C[GL: An unfortunate choice for White. It's difficult now to make up for the loss on the lower side.]
+;B[kp];W[lo];B[kq]TR[kp][lq]SQ[lp][jq]C[GL: Good result for Black, he can be satisfied here. This marked broken shape for White is very painful.]
+;W[ko];B[jp];W[no];B[mn];W[mo];B[nn]C[(as Black) GL: Somewhat crude. These two stones aren't very happy with respect to shape, and making a wall here is premature with P12/Q12 wide open. Better instead to try to develop the top side (again, with F15), and use the threat of P12 to make value out of N6.]
+;W[md]C[GL: Nothing wrong with this. G16 directly would have been my choice, but Black can't easily ignore.]
+;B[mc]TR[ld]SQ[kd]
+(;W[kd]C[GL: Too thin - There's no way Black can ignore the thick extension, which gives you the ability to really damage Black's position on the top side.]
+;B[ld];W[pg]C[GL: I like playing light and skilful sabaki, but it's too expensive to play those two stones and then ignore them. Black can respond with L15 here now and start making a large top left. This is a big move, but you're probably better finishing what you started.]
+;B[ni]TR[le]SQ[nf]
+(;W[nf]C[GL: You know you can get the M15 exchange, so play it first.]
+;B[me]TR[lc]SQ[jo]
+(;W[jo]C[GL: A bit direction, but handling the top is even more urgent now.]
+;B[io];W[in];B[ho];W[hn];B[fo];W[ej]C[GL: The top side is still more urgent (although this does nicely activated the D7 cut).]
+;B[gf]TR[ge][le]SQ[fe]
+(;W[fe]C[GL: This move is simply damaging to White. It serves no advantage (apart from maybe one or two points around E14 if you're lucky), and strengthens Black nicely. At the very least play G15 and try to make things a bit messy.]
+;B[ge];W[nh];B[oi];W[lg];B[kf];W[kg];B[jf];W[lf];B[le];W[jg]
+;B[if]C[GL: In the last 10-12 moves, you've gifted a lot of points to Black, without any clear compensation. How many points have all those moves actually given White? Have they really prevented Black from gaining as many points (potentially) in the middle as they've guaranteed Black to get on the edge?]
+;W[fd];B[gc];W[gd];B[hd];W[gn]C[misread
+
+GL: It happens :)];B[el];W[go];B[gp];W[fp]C[continuation of the misread :)]
+;B[gq];W[fr];B[es];W[eo];B[fn];W[en];B[fm];W[co];B[em]C[unnecessary]
+;W[gk]C[small I guess
+
+GL: Yes, if you want to play in this area, it is more important to fix the K6 cut.]
+;B[km];W[jm];B[kk];W[ql]C[too late
+
+GL: Getting S11+S12 in sente is not something to be unhappy about though, so it's not too bad.]
+;B[rn]C[GL: Better is S7 shape-wise.
+
+*** This is the end of the comments really, as the moments that really impacted the outcome of the flow of the game have already passed, and I find it's better to focus more on less moves than vice-versa ***]
+;W[ri];B[rj];W[rh];B[qk];W[of];B[oe];W[lj];B[mk];W[ll];B[lk]
+;W[kl];B[lm];W[jl];B[ml];W[bf];B[be];W[oo];B[on];W[ro];B[fh]
+;W[eg];B[eh];W[dh];B[fg];W[ff];B[ii];W[hh];B[hi];W[hg];B[fj]
+;W[fk];B[ei];W[di];B[ek];W[dj];B[gj];W[ik];B[li];W[ki];B[kj]
+;W[ji];B[gg];W[hj];B[ij];W[hk];B[mh];W[mg];B[oh];W[og];B[lr]
+;W[mr];B[aj];W[bl];B[al];W[bi];B[ai];W[ah];B[bh];W[ag];B[bj]
+;W[bk];B[ci];W[ak];B[am];W[jj];B[gi];W[lh];B[mi];W[sn];B[sm]
+;W[so];B[rl];W[nb];B[mb];W[oa];B[ma];W[ds];B[ep];W[sj];B[sk]
+;W[qh];B[ih];W[ig];B[jk];W[pi];B[qj];W[ph];B[pj];W[gm];B[jh]
+;W[kh];B[gh];W[hf];B[he];W[ed];B[ec];W[ae];B[ad];W[af];B[bc]
+;W[an];B[cl];W[ck];B[dk];W[fl];B[si];W[sh];B[na];W[ob];B[mf]
+;W[ng];B[ms];W[ns];B[ls];W[pp];B[pn];W[kn];B[ln];W[ke]C[GL: Amusing :)]
+;B[ie];W[lc]C[ookwrd [4k\]: ty];B[nd];W[kb];B[jc];W[kc]C[*** Summary ***
+The opening in this game was relatively interesting. The core points were, interestingly enough, the lack of attention to the position at the top, and a 10 move sequence in the middle that earned Black quite a bit and White almost nothing.
+
+*** Important Points ***
+26 - Pick josekis according to the whole board (adjacent corners particularly, opposite when josekis involve a ladder)
+31 - Thickness is urgent
+48 - Play contact to settle weak stones / groups
+76-86 - All your moves must have tangible purpose. Make points, or take them away, but don't play on dame.
+
+*** Recommendations ***
+The really important moves and sequences to look at is the moves around the top edge prior to black playing G14 (move 75). Even the joseki choice in the top left is important, but learning to keep an eye out for how thickness can affect the potential to make points is a crucial skill to develop. In this game, Black didn't make the most of his opportunities, but still was the first to play in that area and had a good advantage at the end until he didn't read the sequence out at the top well enough. I'd recommend thickness books (such as "All about thickness", by Ishida Yoshio) to have a look at the sorts of results professionals find really good, and try to find a few joseki options that give you the choice of which direction you want to take based on your opponent responding to corner approach moves.
+
+I hope these comments are in some way helpful. If you have any responses / queries / comments or would like further input on specific moves or areas, do feel free to ask!]
+)
+(;W[ge];B[fe];W[le];B[lc];W[he];B[hf];W[ff];B[gd];W[ie]C[GL: It's a messy fight, but Black cannot gain connection between F15 and G14, so it may be playable.]
+)
+(;W[le];B[lc];W[jf]C[GL: My preference would simply be to try to play lightly in this area to prevent Black from making the top side unassailable.]
+;B[ke];W[je];B[lf];W[ge];B[fe];W[ff]C[GL: Hard for Black to resist strongly.]
+))
+(;W[lc];B[le];W[gd];B[gc];W[id];B[hc];W[hd]C[GL: M17 is a useful forcing move, and then reducing this top side is very urgent.]
+))
+(;W[le];B[lc];W[me];B[nd];W[nf];B[mf];W[ke]C[GL: Black can't easily cut. At some stage he's going to have to secure that top group.]
+(;B[og];W[of];B[oe];W[ng];B[oh];W[mg];B[lf];W[kg])
+(;B[of];W[ng];B[og];W[oh];B[oe];W[nh])
+(;B[kc];W[id];B[mg];W[og])))
+(;W[ld];B[nd];W[gd];B[gc];W[id];B[hc];W[if]C[GL: Now Black has no way of ending up with a pleasant result from the O15/P16/Q15/Q14 stones.]
+))
+(;W[jo];B[lo];W[hp];B[gp];W[ho];B[iq];W[jp];B[go];W[hn]C[GL: Now what value does the wall at D4 give you? All you've ended up with is an overconcentrated set of stones (10 stones for about 8 points is a very poor return at this stage in the game).]
+))
+(;W[dm];B[dl];W[em];B[el];W[fm];B[ck];W[dj];B[fl];W[gm]))
+(;B[dq];W[ip];B[fe]C[GL: A huge use of your sente move, and White's position at the bottom is still relatively uninspired.]
+))
+(;W[ej])
+(;W[gd];B[gc];W[id];B[hc];W[if]C[GL: Take this opportunity to make sure the exchanges around P16/Q15/Q14 don't return much value for Black.]
+))
+(;B[cn];W[fq];B[dr];W[ip])
+(;B[jq];W[fq];B[eq];W[fp];B[cn];W[fn];B[hq])
+(;B[fe]C[GL: Play to your strengths. The lower left is not currently urgent, whereas, as a rule, thickness is. You've developed a very promising potential in the top, and regardless of White's next move in the bottom left, you have perfectly acceptable continuations. It only takes a move or two and this top edge can be reduced to nothing more than third line territory. Take advantage of all those stones invested (particularly the top right stones, which are reliant on their value coming from a fast development of the top side).]
+))
+(;W[dd];B[cd];W[ec];B[cc];W[df];B[cg];W[fd]C[GL: White can play to disrupt the value of Black's wall this way.]
+))
+(;B[fd];W[cc];B[cb];W[cd];B[eb];W[ci];B[ff]C[GL: Use your thickness. Now White has to consider how to invade, and Black's thickness can be put to good use.]
+))
+(;B[kd]C[GL: I'd be tempted to play this close because White's extra stone gives him the move at M17, but the idea's the same. White's development is blunted and Black works well along the top side.]
+))
+(;W[pc]C[GL: Thicker shape.]))
+(;B[jd]TR[nc][de]C[Now you can aim for both of the triangled points, and White can't easily approach this (for example, with M17) and fix his corner at the same time. R13 doesn't do a great deal to help against Black playing R17, so the corner feels less big than the wider parts of the board right now.]
+)
+(;B[ci]C[GL: Simple, standard. R17 won't go away.];W[gd];B[de]
+;W[jd];B[jq]C[GL: Straight-forward and playable. J3 may be better here, but the difference between bJ3 wL3 bK5 and this continuation isn't clear to me. Either way, White's top left is still vulnerable at Q17 and R17.]
+;W[hq];B[fq]C[GL: Press first.];W[ho];B[lq];W[fo];B[dn]C[GL: Your corner gains a lot of security this way. And you can pick up points whilst attacking, as White can't seal you in.]
+))

@@ -1,0 +1,155 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.17]
+
+PB[Junesun]
+BR[10k]
+PW[Aralsa]
+WR[9k]
+KM[0.5]
+DT[2012-09-07]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[B+5.5]
+TM[1800]
+OT[4x30 byo-yomi]
+RU[Japanese]
+
+C[This is a tournament game from an Esperanto-speaking league on KGS. I would like to get some pointers for improving my opening especially. I'm Junesun, but most of Aralsa's plays looked reasonable to me, too, if you have any comments on those.
+
+
+Hi Junesun,
+
+I'm Felix and I'll review your game.
+Main focus is on the opening. Therefore I state three basic principles, which I'll check on every move during the opening.
+
+Three Basic principles for finding the biggest move in the opening:
+Principle 1: Defend/Settle your weak groups.
+Principle 2: Attack while making profit.
+Principle 3: Play on the biggest side, the area with the widest space. Occupy corners first.
+
+I made suggestions for both sides. If you have further questions, feel free to contact me.
+
+Best regards,
+Felix];B[pd]C[Aralsa [9k\]: dankon bonan paartion
+
+#Principles applied correctly. No weak groups to attack/defend. Occupied open corner.]
+;W[pp]C[#Principles applied correctly. No weak groups to attack/defend. Occupied open corner.]
+;B[dd]C[#Principles applied correctly. No weak groups to attack/defend. Occupied open corner.]
+;W[cp]C[#Principles applied correctly. No weak groups to attack/defend. Occupied open corner.]
+;B[eq]C[#Principles applied correctly. No weak groups to attack/defend. Black played on the biggest side. Open space is 12 lines on the bottom. All other sides have only 11 lines of open space.]
+;W[dn]LB[cp:B][eq:A]C[#Because of Black's move at 'A', the white stone 'B' became weak. White has to defend (Principle 1). Principles applied correctly.]
+;B[cq]LB[eq:A]C[#Now Black's 'A' stone became weak. Black has to defend (Principle 1). Principles applied correctly.]
+;W[bq]C[#Again, White has to defend (Principle 1).]
+(;B[cr]LB[dp:A]C[#Black is defending. Principle 1 is applied correctly. But usually Black plays at 'A', which is joseki. See variation.]
+;W[br]C[#White defends his group. 1st principle applied correctly.]
+;B[di]LB[jd:C][qn:D][gq:B][br:A]C[#Black should not play away from the bottom left corner. Because White played at 'A', Black can be attacked seriously at 'B'. Therefore Black's group is weak and has to be settled first. (Principle 1).
+Even if the black group is strong. Black should play in a bigger area (Principle 3). This would implicate a move around 'C' or 'D'.]
+;W[dk]LB[jc:B][qf:C][gq:A]C[#White's group is safe. So there is no reinforcing move necessary (principle 1).
+The attention should be on the weak black group in the bottom left corner. White should play at 'A' to attack (principle 2). If this move is not obvious, then at least White should play in a bigger area (principle 3). That means second best moves are 'B' and 'C'.]
+;B[cj]LB[jd:C][qn:B][hq:A]C[#Bottom left group is still weak, so Black should play there first (Principle 1). Second best option would be follow principle 3 and play 'B' or 'C', which are the biggest sides.]
+;W[ck]C[#Locally the last two moves are good, but you both miss the big picture: Weak black group in the bottom left and the big sides on top and right.]
+;B[jq]LB[hq:A]C[#Good. Black defends his weak group (Prinicple 1). Allthough I would prefer it closer at 'A'.]
+;W[mc]LB[nc:A]C[#Playing on the biggest side is also good (Principle 3). The usual approach move is at 'A'.]
+;B[qf]LB[oc:A]C[#Settling the corner is correct, following principle 1. With the two space low approach move, the defense at 'A' would be more common.]
+;W[jc]C[#White is settling his group, correct! (Principle 1)]
+;B[gc]LB[qn:A]C[#There are no weak groups to settle or to attack. So Black should look for a play on the biggest side (Principle 3). Therefore 'A' would be the best choice (9 empty lines, on the top only 5 lines).]
+;W[nq]LB[qm:B][qn:A]C[#The same for White. Moves like 'A' or 'B' would be better, because they are on the bigger side. (Principle 3)]
+;B[hp]C[#Black is right to defend his group on the bottom, following principle 1.]
+;W[qm]LB[qk:A]C[#Very good. White playing on the biggest side (Principle 3). Personally I would go further to 'A'.]
+;B[qi]C[#This is why White should have gone further. Black gets a very nice extension for himself. Correct move, biggest empty area (Principle 3).]
+;W[qq]LB[pb:A][qk:B][lq:C]C[#Opening is nearly finished. But this move is very slow. According to the proposed principles a move 'A', 'B' or 'C' would be good.]
+;B[dp]C[#Ok, White has to defend.];W[co]C[#White defends.];B[dg]
+LB[pb:B][ch:A]C[#Black's move is good, because it defends a weakness at 'A'.]
+;W[pc]LB[pb:A]C[#Good. The corner is the last big spot left on the board. It would be better to avoid the contact play and play at 'A'  instead.]
+;B[qc];W[oc];B[pb]LB[qb:A]C[Was this worthwhile at all or just peanuts?
+
+#Defending the corner is good, allthough playing at 'A' would be better. See variation.]
+(;W[ob];B[qb]C[#Now the black weakness is fixed. Thanks to White!]
+;W[pk];B[rl];W[rm];B[qk];W[ql];B[rk];W[on]C[Is Aralsa overdoing the fortifications?
+
+#Yes, this move is defenitly to slow. Black is leading with about 20 points at the moment.]
+;B[gg]TR[on]C[#Very good. Black gains much more, than White with his last move.]
+;W[he];B[ge];W[hd];B[gd];W[gk]LB[kp:A]TR[nl][mm][nm][om][ln]
+[mn][nn][mo][no]C[#This move is basically zero point. White does not threatening anything or building territory. A move at 'A' would be much better, trying to build territory in the marked area.]
+;B[lo]LB[lq:A]C[#Black restricts the developement of White. Personally I would prefer 'A', becaue it takes some territory as well.]
+;W[cc]C[#This invasion seems a bit late. It should be a suicide mission.]
+;B[cd];W[dc];B[ec]LB[eb:A]C[#This black move leaves White with an opportunity to live. If Black plays 'A' instead, there should be no way out for White, because Black is all strong around.]
+;W[eb];B[fb];W[bd];B[be];W[bb];B[db];W[cb];B[ea];W[bc]LB[ac:A]
+C[#White is trying to kill himself. If White plays at 'A' instead, two eyes would be secure.]
+;B[ae]LB[ed:D][ce:A][bf:C][cf:B]C[#Basically any move in this area would be ok ('A' through 'C'). But this black move is not helping, because it does not defend the two potential cuts at 'A' and 'D'.]
+;W[ad]C[#White is preparing a living shape.]
+(;B[cf]LB[ca:A]C[#Black could still kill the white group at 'A'. See variation.]
+;W[ca];B[hf]LB[ab:A]C[#I would play for the ko in the corner at 'A' immediatly.]
+;W[ie];B[ab];W[aa];B[ba];W[qd];B[rd];W[aa];B[kb]LB[fk:A][fl:B]
+TR[hi][hj][ij][gk][hk][ik][hl][il][hm][im][jm][in]C[Was this the best I could get for that ko fight?
+
+#Well, White's groups are all pretty safe. And playing on the second line is not so big.
+Personally I would probably play 'A' as a ko threat, following up on 'B'. To cut of the marked white stone and try to build something in the center.]
+;W[ac];B[jb];W[kc];B[ic];W[hc];B[hb];W[lb];B[pj];W[ok];B[oj]
+;W[nj];B[ni];W[ml];B[mj];W[nk];B[od];W[nd];B[ne];W[me];B[nf]
+;W[mf];B[ng];W[if];B[ig];W[jg];B[jh]C[Double hane - okay?
+
+#Yes, very good. White has to defend.];W[kg];B[kh];W[gn]TR[ak]
+C[#Basically you are hitting the endgame phase now. Usually there is nothing to get]
+;B[jk]LB[bj:A][ak:C][sm:B][lq:D]C[#Basically during the endgame there is not much to gain in the center. It is often better to play at the edges of the board. Black should play 'A', 'B' and 'C' in sente. At last the big gote move at 'D'. This would be worth as much as the points gained in the center. Go to the end now (move 228). See how many points there are in the center.]
+(;W[lq];B[kp];W[jm]
+(;B[hm]LB[bj:A][ak:E][sm:B][kr:C][ls:D]C[My goal was to reduce Aralsa's territory by keeping the groups apart...
+
+#Seperating two living groups is worth zero points. Sequence from 'A' to 'E' would gain so much more. See variation.]
+;W[il];B[hl];W[gm];B[hn];W[ik];B[ij];W[hk]C[now it looks like the exchange was more profitable for her
+
+#Not much to gain in the center...];B[hj];W[gj];B[gi];W[km]
+;B[lm];W[gl];B[go];W[fo];B[fp];W[eo];B[no];W[op];B[nm];W[om]
+;B[nl];W[mm];B[nn];W[mk];B[lj];W[oo];B[fj];W[fk];B[ej];W[dj]
+;B[bj];W[bk];B[aj];W[ak];B[ek];W[ei];B[ci]C[I had miscalculated that]
+;W[fi];B[el]C[really stupid, thought I'd prepare to kill the G9 group and didn't realize that it was well attached
+
+#Still, this move is not bad. The white stones have only two liberties, you have three now.]
+;W[gh];B[hi];W[fg];B[eh];W[fh];B[ff]LB[hh:A]C[#Should be at 'A'. White still would have fewer liberties.]
+;W[ih];B[hg]LB[hh:A]C[#You could rescue at 'A' instead.];W[hh]
+;B[gf];W[jj]C[Junesun [10k\]: bele
+Junesun [10k\]: tute miskalkulis
+
+= totally miscalculated
+
+#Yes, big loss.];B[eg]C[Aralsa [9k\]: bonan sxancon mi havis]
+;W[ii]C[#The big lead slowly vanished...];B[lg]C[Aralsa [9k\]: mi ne scias. nu mi ludas kaj cxar mi estas esperantisto, mi esperas ja ja ion da sxerco
+Junesun [10k\]: hehe];W[kf];B[lf];W[ke];B[le];W[mg];B[mh];W[md]
+;B[ld];W[kd];B[mn]LB[sm:A][kr:B]C[was this a priority?
+
+#No, 'A' and 'B' are biggest moves now.];W[ll];B[kn];W[kk];B[jn]
+;W[np];B[kr]C[#Good!];W[lr];B[mp]LB[ls:A]C[#This move is not good. It makes 'A' a gote move.]
+;W[mq];B[ls];W[ms];B[ks];W[kq];B[jr];W[in];B[io];W[im];B[ho]
+;W[lp];B[ko];W[mo];B[ln];W[cs];B[dr];W[ds];B[es];W[bs];B[oa]
+;W[nb];B[na];W[ma];B[pa];W[lc];B[lh];W[ka];B[ja];W[la];B[sm]
+;W[sn];B[sl];W[ro];B[id];W[ep];B[fq];W[dl];B[da];W[jd];B[ib]
+;W[kj];B[ki];W[ji];B[ol];W[pl];B[jp];W[mp];B[tt];W[tt]LB[gi:1]
+[hi:2][li:9][mi:10][hj:3][ij:4][jk:6][jl:7][kl:8]TW[ba][ab]
+[mb][nc][je][jf][ej][fj][ek][al][bl][cl][el][fl][am][bm][cm]
+[dm][em][fm][pm][an][bn][cn][en][fn][pn][qn][rn][ao][bo][po]
+[qo][so][ap][bp][qp][rp][sp][aq][oq][pq][rq][sq][ar][mr][nr]
+[or][pr][qr][rr][sr][as][ns][os][ps][qs][rs][ss]TB[fa][ga][ha]
+[ia][qa][ra][sa][eb][gb][rb][sb][fc][rc][sc][ed][fd][qd][sd]
+[ce][de][ee][fe][oe][pe][qe][re][se][af][bf][df][ef][of][pf]
+[rf][sf][ag][bg][cg][og][pg][qg][rg][sg][ah][bh][ch][dh][nh]
+[oh][ph][qh][rh][sh][ai][bi][oi][pi][ri][si][qj][rj][sj][sk]
+[jo][gp][ip][gq][hq][iq][er][fr][gr][hr][ir][fs][gs][hs][is]
+[js]C[#There are 10 points in the center. Go back to the variation at move 103.]
+)
+(;B[bj];W[bk];B[sm];W[sn];B[sl];W[rn];B[kr];W[lr];B[ls];W[ms]
+;B[ks];W[nr];B[ak];W[al];B[aj];W[bl]LB[ai:1][bi:2][sk:9][al:3]
+[bl:4][rn:10][sn:11][jr:6][is:5][js:7][ls:8]C[#Sequence is worth 11 points.]
+))
+(;AW[bk][al][bl][rn][sn][mr][ls][ms]AB[aj][bj][ak][sl][sm][lq]
+[jr][lr][ks]LB[ai:1][bi:2][bj:A][ak:C][sk:9][al:3][bl:4][sm:B]
+[rn:10][sn:11][kq:5][lq:D][mq:8][kr:6][mr:7]C[#This is how the board would look like after playing the proposed sequence 'A' through 'D'. The points gained by Black and lost by White also equal 10 points.]
+))
+(;B[ca]C[#This move kills the group.];W[ce];B[bf];W[cf];B[bg]
+;W[ed];B[de];W[df];B[ee];W[ef];B[fe];W[cg];B[eg];W[ch];B[bh]
+;W[ci];B[bi];W[dj];B[bj];W[dh];B[ei];W[eh];B[fh];W[fg];B[gi]
+C[#White is captured.]))
+(;W[qb]C[#White could cut here...]
+(;B[qd];W[rb]C[#...taking large corner.])
+(;B[rb];W[qd];B[rc];W[pe];B[qe];W[od];B[rd]C[#...or capturing the stone, forcing Black to connect on the second line.]
+)))
+(;B[dp]C[#This variation shows the usual continuation.];W[co]
+;B[cr];W[cj]LB[jd:D][qn:C][gq:B][br:A]C[#White settles his group with this last move on the left side. Because 'A' and 'B' are miai (it is possible to live with both moves), Black is also settled and has sente and can continue elsewhere. For example at 'C' or 'D'.]
+))

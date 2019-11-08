@@ -1,0 +1,275 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+PB[DavidB]
+BR[6k]
+PW[korian]
+WR[5k]
+KM[0.5]
+DT[2007-02-14]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[B+Resign]
+TM[1500]
+OT[3x30 byo-yomi]
+RU[Japanese]
+
+C[<S> Review for black, by sestir.
+
+--------
+
+<D> Hi,
+Hoping to get some general advice on this game.  I won, but I think by a bit of a swindle.  Essential moves were missed that would have led to a certain loss for black.]
+;B[qd]
+(;W[dd];B[pq];W[dp];B[oc];W[po]LB[pk:B][qk:A]C[<D> I want to pinch, is there a "best" pinch here?
+
+<S> In theory, yes. In practice, it would not be more than a matter of style, even if you were a professional player.
+
+<D> In the game, I chose A, wanting to make a profitable extension from the shimari.
+
+<S> It is a good move.
+
+<D> Looking at a Go software's (Many faces of Go v.10) idea of good fuseki, B is suggested as joseki.
+
+If B is true, then is it because B is high and all white stones are high, hence attempting to maintain a balance between opposing influences?
+<S> Probably not, since I have seen B in pro-games where white's corner stones were on the 3-4 points.
+
+As a rule, try to play on the fourth line, in the fuseki, if you do not think you have a reason to play on the third. With too many stones on the third line you risk being too low (=take too few points) and you would have to kill or invade something.
+
+By the way, you mention later that you want to avoid complicated sequences. Since A (and B) are far away from the pincered stone, yet are expected to gain black an advantage in the inevitable coming fight, you can be sure that it will lead to a complicated joseki as it will take several moves before the fight reach A. :)
+
+<D> Of course, I know there are also other pincers to consider... but I want to ask these two  questions (the former general one, the latter more specific).]
+;B[qk];W[mp]LB[oo:B][nq:A]C[<D> Taisha! Oh crap.
+
+<S> This is not the real Taisha joseki. :)
+If we move white's two stones one step to the right, it would be the beginning of the taisha.
+
+<D> I chose A in the game, trying to think of a way to get stability relatively quickly, and also thinking about white's potential for thickness.  I didn't want to create a massive wall for his D4 stone.  Although looking at this now....
+
+I have a lot of trouble with this attack
+
+Is B always the first choice?
+
+<S> Since you mistook it for the Taisha, I will just show a basic sequence, starting with B.]
+
+(;B[nq]
+(;W[lo];B[lr]C[<D> there, I think I achieved my goal of erasing the possible thickness that white could have developed along the bottom.  And I think I'm fairly safe.
+
+<S> A very good move!];W[jd]LB[lc:H][cf:D][cj:A][ok:B][cn:E]
+[qo:G][qp:F][fq:C]C[<D> A is the biggest?
+
+<S> I think that A and E are the biggest, yes. H and B look nice too, but black needs to establish a presence in white's sphere of influence, unless he wants to try his mind on difficult invasions.]
+;B[cj];W[cm];B[cg]
+(;W[gd]C[<S> White could be more active here... variation];B[bd]
+LB[bd:A][be:B]C[<D> A looked cute in the game, but maybe B was better.  Later, white had a nice attack on this group and I think the extra distance gave him the needed leverage to cause me some misery.
+
+<S> A is joseki, but it is true that there are some weaknesses in black's shape. If you play B, white will get the whole corner. I think that is too much.]
+;W[cc];B[fq]C[<D> Black is ok, was white ok?  Should I have harrassed white's 3 stones in the lower right first?
+
+<S> I am not sure if they are harassable, since they reach far into the centre. But P9 and M17 are big.
+
+If I were white here, I would just descend to D3. White would get most of the territory (about 15p with 1 move) and black would have to make a 2-step extension on the 3rd line, claiming 10 points with two moves.
+
+Next M17 would be very nice for white.]
+(;W[iq];B[cq]C[<S> good]
+(;W[cp]C[<S> After playing J3, white should not block on this, the smaller, side.]
+;B[dq];W[bq]C[<S> Since black has more territory, and white does not have much potential in the centre, simply playing B2 is possible.]
+
+(;B[ep];W[br];B[en];W[bi]LB[ci:B][bj:A]C[<D> here comes the attack I mentioned earlier.
+
+I thought of A since it made white's kinda-weak group a little weaker and I thought I would easiliy connect to C13
+
+But maybe B was ok too? I played around with B a little but didn't see much advantage.
+
+<S> B keeps black's stones connected. I think it is better than A.]
+
+(;B[bj];W[bg]
+(;B[ch];W[cf];B[bh];W[be];B[ag];W[bf];B[df];W[de]LB[ch:A][en:B]
+C[<D> Is black ok now to leave?  perhaps I should have fixed D14.  But I didn't want to give white 5th line profit!
+
+<S> There are two groups with one eye each - A and B. I guess it should be safe to tenuki but I would not do it against a strong player. :)
+
+It may be possible to apply a sacrificing invasion against the white group in the lower left, following the proverb "If you have two weak groups, make it three to confuse your opponent".
+;)
+
+Or maybe just lean on it with C6 ...
+
+Anyway, you can spend more than 12 seconds thinking about the next move in a situation like this one.]
+
+(;B[lc]
+(;W[qp];B[qq];W[qg]
+(;B[ok]C[<D> Dull move I guess, but I didn't want to lean on either side, and didn't feel strong enough to make a more direct attack on R13.
+(e.g.) like Q11 or P13
+
+<S> I like it.];W[pj];B[pk]C[<S> It is a bit hard to count in this game because there are so many groups that are not settled.]
+;W[qj];B[oj]C[<S> good shape];W[og]
+(;B[ph];W[qh];B[pi];W[qi];B[ni]C[<D> useless destruction of aji by black?
+
+<S> I do not know how to play there. Maybe just R7 would be best as you do not want to run towards your weak groups on the left side.]
+;W[pg];B[oe]C[<D> P15 is trying to protect the corner against this thickness and also I'm trying to keep the pressure on this not-yet stable group.
+I was hoping to be building influence to rob some more white profit along the top.
+
+<S> You should be thinking about your life and eyes now. :)]
+;W[mg];B[nh];W[ng];B[le];W[lh];B[lj];W[jh];B[kg];W[kh];B[jg]
+C[<S> This is the wrong direction as you are pressing your opponent towards your weak groups.
+
+Again, you can spend more time thinking and reading here as it is an important moment in the game.]
+;W[jj];B[ic]C[<D> So my idea more or less worked.  but perhaps I was overconfident of the safety of the P9 group?
+
+<S> P9, C12 and E4. Three groups, four eyes.];W[ie];B[jc];W[kl]
+;B[rn];W[ro];B[qn];W[pp];B[on];W[no];B[op];W[oo]C[<D> do I need to help this group again?  the best move to do so?
+
+<S> I would play M8 as black, but I doubt if I could kill it if I were white. I would start at O8.]
+
+(;B[mm];W[nn]
+(;B[nm];W[pn];B[pm];W[om];B[ol];W[qm];B[rm];W[pl];B[ql];W[pm]
+C[<S> alive now];B[rj];W[ri];B[sk];W[rq];B[rr];W[mq];B[mr];W[md]
+;B[me]
+(;W[pd];B[pc];W[pe];B[qe];W[pf];B[od];W[ld];B[kd];W[ke];B[kc]
+;W[lf];B[ne];W[kf]C[<D> this all felt small  by white.];B[gb]
+;W[ec];B[ef];W[gg];B[hr]C[<D> trying to help this weak group.  I think it had been ok until the influence (yes, thin, but still...) of the M5 thickness, L8 and K10 stones, and K12 group.]
+;W[ir];B[hq];W[kq];B[cr]C[<D> I felt very doltish doing this, but I was thinking of the "rich men don't pick fights" proverb.  I wanted to end all doubt of the safety of this group.
+
+<S> A good proverb.];W[io];B[hp];W[ho];B[ip];W[jp];B[kr];W[jq]
+;B[km];W[jm]
+(;B[kn];W[ll];B[ml];W[lm];B[mn];W[ln];B[bn];W[bo];B[bm];W[cn]
+;B[do];W[co];B[cl];W[dl]
+(;B[dk];W[bl];B[bk];W[ck];B[al];W[cl];B[am];W[ek];B[dj]C[<D> now I'm asking for trouble, but swindled it back in the game.]
+
+(;W[em];B[fn];W[go];B[fp];W[fo];B[eo];W[gl];B[ej];W[fj];B[fi]
+;W[fk];B[gi];W[eg]C[<D> this is a killing move! I didn't realize it at the time.
+
+<S> nope]
+(;B[ff];W[fg]C[<S> ... but this is. white+45  :)];B[dg];W[eh]
+;B[ei];W[gf];B[dh]
+(;W[fe];B[hj];W[mj];B[mk];W[mi];B[lk];W[nj];B[nk];W[oi];B[oh]
+;W[mh];B[oi];W[hs];B[gs];W[is]
+(;B[ci]C[<D> saved.];W[cs];B[er]C[<S> I count ...
+
+white: 35p
+black: 55p
+
+big moves are A15, T2 and S14.];W[es];B[fs];W[ds]C[<S> I think we end the review here.
+
+As you say, counting the balance of territory will help you win more and probably get to 5 or 4 kyu. Studying life&death problems like mad will take you even higher.
+
+Most important is to have fun!
+I wish you both good luck.
+/sestir])
+(;B[fr];W[ak]C[<S> no no no C11 ^^];B[aj];W[ah]C[<S> C11 still. :)]
+;B[ai];W[ci]C[<D> I think I'm gonna die!  All because of the greedy hane.]
+))
+(;W[ci]C[<S> still dead :)];B[ak];W[ai]C[<S> Sooner or later, black will have to connect at D11, so it is a dead shape.]
+))
+(;B[dh];W[eh])
+(;B[eh]C[<D> best way to handle it?
+
+<S> yes]
+(;W[dg]
+(;B[dh];W[fg];B[fh];W[ak];B[aj];W[ci];B[di])
+(;B[fg]C[<S> I guess you were getting a bit exhausted, overlooking this atari. :)]
+))
+(;W[fg];B[dg]C[<S> ... so this should live.])))
+(;W[eh]C[<S> yeah];B[ej];W[fh]))
+(;B[ck]C[<D> silly greedy black I think.]))
+(;B[ll]C[<D> why didn't I just to this???]))
+(;W[ld];B[kd];W[ke];B[kc];W[lf];B[ne]))
+(;B[pn];W[nm]))
+(;B[nm]C[better shape?];W[pn];B[pm];W[nn];B[om])
+(;B[pn]C[simplest and best?])
+(;B[aa]C[if I tenuki...]
+(;W[pn];B[pm];W[om]
+(;B[ol];W[qm];B[nm];W[rm];B[rl];W[qo];B[ql];W[sn]C[4 points gote for white]
+)
+(;B[pl];W[nm]C[3(?) points gote for white]))
+(;W[pm];B[pn]
+(;W[om])
+(;W[rm]
+(;B[sn];W[rk])
+(;B[qm];W[sn];B[rl];W[sm];B[sl];W[so];B[qo];W[rq];B[rr];W[om]
+;B[nm];W[nn];B[ql];W[nl];B[mm];W[ol];B[ml];W[nk];B[mk]C[hmmm, I'm starting to think that I didn't need to help this group very much...]
+)))
+(;W[rm];B[qm];W[sn];B[rl];W[sm];B[sl];W[so];B[qo];W[rp]
+(;B[nm])
+(;B[rq];W[pn];B[pm];W[om];B[ol];W[nm];B[nl]))))
+(;B[qm]C[<S> Black has S8 to live and P5 to fight.]))
+(;B[og];W[qi];B[oj]
+(;W[re];B[rd];W[pf];B[of];W[qe]C[<D> maybe something like this is ok though.]
+)
+(;W[oh]C[<S> Do not forget this move!];B[nh];W[oi];B[ni];W[nj]
+C[<S> I have no idea how this will end.]))
+(;B[ph]C[<S> Also an option.];W[pg];B[oh]))
+(;W[ef]C[<D> Also, D14 is very nice for the hane at A15....so I wouldn't want to lose it.]
+;B[dg];W[eg]C[<D> but still, with M17 peeking under the whole white group, I'm not sure of the value here....
+
+<S> Hard question. :)]))
+(;B[cn];W[bn];B[bo];W[co];B[dn];W[bp];B[bm];W[ao];B[bl]C[<S> It ends in gote and lets white take the initiative but it is better than trying to make shape with D14, I believe.]
+))
+(;B[bf]C[I was afraid of this in the game, but now...it seems fine.]
+
+(;W[cf];B[bh];W[be];B[ag];W[ce])
+(;W[bh];B[cf];W[ch];B[dh];W[di];B[ci];W[dg];B[eh];W[df];B[ag]
+;W[ei])))
+(;B[ci]
+(;W[bh];B[ch])
+(;W[bg];B[bh];W[ah];B[ch];W[bf];B[ce])
+(;W[bj];B[bk];W[bl];B[ck];W[ak];B[bh];W[aj];B[bc];W[bb];B[cd]
+;W[dc];B[lc])))
+(;B[br];W[bp];B[ar]
+(;W[ep];B[fr];W[ok];B[pi];W[lc]LB[gb:A][qb:B][bh:E][cn:D][or:C]
+[cs:F]C[<S> Let us count ...
+
+copying from the other variation we have ...
+
+A) 25p
+B) 12p
+C) 12p
+D) 6p
+E) 8p
+F) 8p
+
+black: 40p
+white: 31p
+
+C is now completely safe, B17 is still big and black has potential on the right side.]
+)
+(;W[er];B[eq];W[fr];B[dr];W[gq];B[cs])))
+(;W[dq];B[cp];W[do];B[dr];W[er];B[cr];W[eq];B[bn];W[cn];B[bo]
+;W[dh];B[ch];W[dj]))
+(;W[dq];B[iq];W[ok];B[pi];W[lc]LB[gb:A][qb:B][bh:E][bp:D][or:C]
+C[<S> Let us count ...
+
+The large white territory on the top-side (A) can be invaded, but then white would be able to destroy the weak black left-side group (E), so we can count both as territory.
+
+My count is:
+A) 25p
+B) 12p
+C) 22p
+D) 14p
+E) 8p
+
+white: 39p
+black: 42p + sente
+
+so black is still ahead, but C is not completely safe and B17 is big. On the other hand, a black move on the right side is very big.]
+))
+(;W[ce]C[<S> Black has to be careful. I would respond to this.]
+))
+(;W[mq]C[<D> what was I thinking?  Free thickness for white?
+
+<S> I think you were guided by a faint memory of a simple way to get out of the Taisha. See variation at move 2.]
+))
+(;B[oo]C[<D> but this leads to such crazy complications.
+what is a poor 6k to do?  Study these things like mad?  Surely not.  And yet, I can't think of how to apply the basic principles to this complicated situation.
+
+<S> In the real Taisha, the most important thing to do is to make sure both of your groups get sure life fast. "Study these things like mad" sounds fun to me. But then, I am no longer 6k either ... :)]
+;W[on];B[no];W[pp];B[nq];W[qq];B[oq];W[qn];B[qr];W[rq];B[jq]
+))
+(;W[oc]C[<S> These are two simple ways out of the Taisha ...]
+;B[tt];W[pf]
+(;B[qe]LB[od:A]C[<S> After R15, black can split white with A and the resulting fight would favour black, so white defends.]
+;W[oe];B[qg]LB[rg:A]C[<S> This completes the sequence and white may make an extension along the top.
+Black can also choose A.])
+(;B[od]C[<S> If black has the ladder and the right side is interesting, this can be simple.]
+;W[pd];B[pe];W[pc]LB[oe:A][qe:B]C[<S>
+A = simple
+B = complicated];B[oe];W[qe];B[qf];W[re];B[pg];W[rd];B[of];W[mc]
+)))

@@ -1,0 +1,149 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.17]
+
+PB[PaCon]
+BR[5k]
+PW[Ellisdee]
+WR[5k]
+KM[6.5]
+DT[2010-06-08]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[W+22.5]
+TM[1500]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+C[GP: Hi, I'm Graham Philips (topazg) a British 1k and KGS 1d. I hope to give useful comments and insights where I can, and I've summarised the key points at the end of the sgf. Where I'm offering or annotating variations that deviate from the game, I mark the game move with a square and the deviation with a triangle.]
+;B[qd];W[pp];B[dd];W[od]C[I don't like playing against the Chinese Fuseki.
+
+GP: Me neither! Approaching a 3-4 is probably about as big as taking an open corner here - more so if R16 was at Q17 as the approach would work well with your corner hoshi stone, but this is probably playable. I would still choose to play in the lower left.]
+;B[oc];W[nc];B[pc];W[md];B[qf];W[ic];B[dp];W[cj]C[GP: As Black's R14 stone is low, the right hand side seems relatively uninteresting to develop along. The left hand side and bottom side both have a 4-4 stone on each side, so development in either area is very big. I would probably choose the F3 approach as it works quite well with Q4, but this is also ok.]
+;B[cg]TR[cm]SQ[cn]
+(;W[cn]C[GP: This however is one step too far I think. C7 gives you sente and a good group, this has a critical weakness from Black playing C8. This means that Black can now defend his corner with F3 or F4, and keeps sente as you need to protect your two left side stones.]
+;B[fq];W[bp];B[cq];W[dl]C[GP: Ending this sequence in gote is not good for White. Losing sente in the opening is often severe.]
+;B[qn];W[nq];B[pj]TR[fc]SQ[cc]
+(;W[cc]C[I don't know if diving in was bigger than approaching, especially with J17 where it is. It might end up too close to black's thickness.
+
+GP: The concern here is that invading a 4-4 + long knight is gote, and that thickness may well be directly used to attack the top at somewhere like M17. If White's group at the top was completely settled, I think this move is fine, but here I'd choose to approach.]
+;B[dc];W[cd];B[ce];W[be];B[bf];W[de];B[cf];W[db];B[eb];W[cb]
+TR[fc]SQ[fd]
+(;B[fd]C[I didn't know the joseki here, and thought I actually made a mistake. I checked it out later, and realized the mistake was his.
+
+GP: Correct :)
+
+Even if Black plays F17 here, White can normally force with E15 when he has stones on both sides, getting bF16 and then defending at A16. This has the advantage that it can take sente back as Black needs an extra move (see variation).]
+;W[bd];B[ef]C[Because F16 still forced him to fix this, I got sente.]
+;W[hq]C[I thought about L3 as the last "big" opening move. However, this was a 5-space extension, and I feel like L3 doesn't give me much if black invades my corner at R3. That being said, the L3-J3 exchange (if he exchanged it), would have allowed me to finish the corner.
+
+GP: Because this is a tesuji-able weak point in Black's shape, I like this approach. Normally I think Black should play B3, and White can pull back to K4 with profit. If Black chooses to pincer, he creates a lot of problems in the corner for himself.]
+;B[jq]TR[hp]SQ[gp]
+(;W[gp]C[I think I read somewhere the diaganol seperates black on the third line. Also, this way I lean on the strong group.
+
+GP: You have a useful tesuji now. I would be tempted to play H4 to set it up (see variation). However, I wonder if it may be overplay. If so, This is a sensible move and direction of play.]
+;B[bq]TR[jo]SQ[lq]C[GP: The fact you get this response means that Black is conceding that K3 was a mistake.]
+(;W[lq]C[I'm ok with this exchange. B4 is light, and I get to attack.
+
+GP: You do, but I wouldn't attack here. It is very easy for Black to run without any great problems, and depriving him of a one space extension on the edge is something he won't be crying about. You also risk making your own G4 group a lot weaker. I would instantly cap in this position.]
+;B[jo]TR[fp]SQ[hn]
+(;W[hn]C[GP: Again, I would cap to continue my attack. However, it does rather require the G4 group to be happy and settled, and they aren't yet. If you need to settle first, play a move such as F4 so that you don't strengthen K3, and return to the cap.]
+;B[kn];W[rp]C[I don't know if R4 was better. I wanted to leave the side open for invasion though, so R5 was out of the question.
+
+GP: I think there's little in it. R4 would reduce the R3 aji further, but it isn't that significant anyway at the moment as O3 and M3 are so thick and close. Both seem fine to me.]
+;B[ro];W[on]C[No idea. Thought this gave some invasion aji? Also tries to block black from connecting his K5 stones.
+
+GP: Agreed. Responding to S5 is actually quite big, often with R5, but because you are attacking the lower middle Black group I like this direction more from a global perspective.]
+;B[jl];W[hl];B[jj];W[qj]C[Possibly bad invasion point. I think my timing was good, placement bad.Maybe R8 instead?
+
+GP: I think this is probably playable. You have good tesujis at R7 left if Black blocks at R11. It seems hard for Black to handle this very adequately.]
+;B[pm];W[pi];B[qi]TR[qh]SQ[pk]
+(;W[pk]C[GP: Playing to live on the edge is a risky strategy. I would be more tempted to force with R12 and treat the sequence as a big reduction. Even if you live here, you will give Black good central thickness.]
+;B[oj];W[qh]TR[ri]SQ[qk]C[GP: This is definitely a mistake. Two ataris from you and two extensions from him means he will have a huge local advantage in the crosscut. If he extents to S11, he has a fairly unbreakable position.]
+(;B[qk];W[ri];B[pl];W[rk];B[ok];W[nb]C[GP: Having secured a fabulous result on the right, and a big corner in the lower right, White has built a good lead in this game. Securing your group will with a move like this, giving you good endgame followups in the corner too, is exactly the right way to make it hard for Black to recover. Strategic objectives are a) settle all your groups completely, and b) turn remaining open areas (like the upper middle) either into dame or your points - i.e. assess Black possibilities of building frameworks, and remove them.]
+;B[eo];W[hj]C[GP: Again, a safe move that prevents Black from playing here with the intention of using E5 to cut somewhere. Leaving yourself without weaknesses. J15 is also very big, and playable with similar intent (it also nets you a few points on top).]
+;B[ob];W[ie]C[GP: And you take it next move. White is about 20 points ahead now.]
+;B[dn];W[co]C[Black forces me to fix...
+
+GP: Maybe, but you do give Black big forcing moves against your middle group, which a) turns the area into dame and b) may threaten to attack White more strongly. I would be tempted to play D7 here, as Black can only capture B4 in gote anyway, and it's a very endgame move for him to play. Securing a few points in the left middle with less forcing moves / bad aji for Black to play is a safer strategy when 20 points ahead.]
+;B[dm];W[cm];B[gm];W[hm];B[mo];W[np]C[I thought I had a good lead, so I played solid.
+
+GP: Very solid, and probably too solid ;)
+
+I would be tempted with O6 as it threatens Black's potential more. There's still nothing Black can do to disconnect, and Black's only hope to expand his points is in the N9 area.]
+;B[lf]TR[lh]SQ[nf]
+(;W[nf]C[GP: Dame! Either tenuki completely, encroach the area he's trying to build with a move such as O12, or play M12 and try to capture the stone completely. I would play O12 probably, as you are ahead anyway, but M12 should make the whole area dame (see variation).]
+;B[na];W[ma];B[oa];W[lb];B[nh];W[mg];B[jh];W[mh]C[GP: Very good.]
+;B[mi];W[ec];B[ed];W[fc];B[gc];W[fb];B[gb];W[ea];B[hd];W[id]
+;B[nm];W[oh];B[kr];W[lr];B[po];W[li]C[GP: Tenuki is very very brave. S5 should probably have gotten a response earlier. After Q5 White must protect his corner.]
+;B[mj];W[kg]C[At this point, I was transferring between trains and busses on my commute from work... my reading got sloppy, and more importantly, i counted this game as possibly relying on komi to win...
+
+GP: It seems like White's trying a bit too hard here - a big contrast to the attitude of O4. Still, this is playable I think.]
+;B[eh];W[ej];B[rq];W[sp];B[qp];W[qq];B[pq];W[qo];B[jg];W[qp]
+;B[jf];W[kd];B[kf];W[ki];B[ji];W[lg];B[rm];W[kk]C[I thought he would block here...
+
+GP: Your mistake was not pushing at K9 instantly when he didn't. You took away one of your own liberties first.]
+;B[kj]TR[jk]SQ[lj]
+(;W[lj];B[lk];W[jk];B[ik];W[kl];B[ll];W[ni];B[nj];W[re];B[qe]
+;W[rf];B[rd];W[rg];B[oi];W[og];B[bh];W[ln];B[km];W[lo];B[nn]
+;W[no];B[oo];W[op];B[pn];W[mn];B[ak]TR[bk]SQ[aj]
+(;W[aj]C[This was just an awful move, and greedy...
+
+GP: Hehe, yeah, White is getting carried away for sure now. Easy monkey jump handling variation for reference, but I'm sure you are familiar with it anyway.
+
+*** END OF MAIN GAME COMMENTS - SEE END FOR SUMMARY ***];B[bj]
+;W[bk];B[ai];W[al];B[bl];W[aj];B[ia];W[bi];B[jb];W[kc];B[gr]
+;W[hr];B[ls];W[ms];B[ks];W[nr];B[ip];W[gq];B[go];W[fr];B[er]
+;W[gs];B[fp];W[ir];B[is];W[jr];B[kq];W[js];B[hk];W[gl];B[gk]
+;W[fl];B[fi];W[fj];B[gj];W[hf];B[gg];W[hg];B[hh];W[gf];B[fg]
+;W[fn];B[es];W[ho];B[fo];W[gn];B[hp];W[fs];B[ci];W[ah];B[ag]
+;W[ai];B[ga];W[fa];B[dk];W[el];B[di];W[dj];B[fk];W[ek];B[rl]
+;W[aq];B[ar];W[ap];B[bs];W[kp];B[ko];W[lp];B[jp];W[mm];B[mf]
+;W[kh];B[ml];W[me];B[se];W[qg];B[ig];W[so];B[sk];W[rj];B[rn]
+;W[pf];B[pe];W[oe];B[qb];W[ge];B[gd];W[fe];B[ee];W[en];B[do]
+;W[ae];B[cp];W[bo];B[af];W[sf];B[sd];W[sj];B[sl];W[kb];B[em]
+;W[fm];B[je];W[ka];B[ib];W[le];B[hc];W[ng];B[im];W[in];B[sn]
+;W[tt];B[tt]TW[aa][ba][ca][da][la][ab][bb][eb][mb][ac][bc][lc]
+[mc][ad][ld][nd][ne][of][pg][sg][lh][ph][rh][sh][qi][si][bj]
+[ak][ck][dk][bl][cl][am][bm][gm][an][bn][ao][mo][mp][mq][oq]
+[pq][rq][sq][gr][mr][or][pr][qr][rr][sr][hs][is][ns][os][ps]
+[qs][rs][ss]TB[ha][pa][qa][ra][sa][hb][pb][rb][sb][qc][rc][sc]
+[de][df][bg][dg][eg][ch][dh][fh][gh][ih][gi][hi][ii][hj][ij]
+[jk][kk][mk][nk][pk][kl][nl][ol][ql][om][qm][sm][on][ep][dq]
+[eq][br][cr][dr][as][cs][ds]C[*** To take to your next few games ***
+
+Chinese Fuseki - I can understand the reason you don't like the Chinese fuseki, it tends to develop into complicated moyo based games that can be hard to understand. However, if you are struggling against it it is almost definitely a sign of a lack of understanding on your part. As a result, if you want to improve, forcing yourself to let the Chinese fuseki happen will force you to encounter those situations - a combination of experience and reviewing will help to fill the lack of understanding, which may well have positive impacts on the rest of your game. Don't fear what you don't understand in Go :) In fact, it is probably worth playing a lost game where your opponent played the Chinese as your next GTL review request.
+
+Cap, cap, and cap again - There were a few instances where you managed to make an imposing enough position that your opponent felt he had to play into your zones (both the K3 move and the M14 move). These are prime examples of perfect opportunities to cap and chase, and as a player that likes to attack these are techniques you should practice as much as you can. I very strongly recommend (if you can find a copy) that you get hold of Kato's Attack and Defense, which although quite a complicated read gives a really great overview of what to do with capping and knight's move attacks.
+
+*** Other important points to take from the game ***
+
+3 point third line jumps - Generally don't do these, especially if your opponent is locally strong on both sides of the 3 point jump. The sequence at move 14 was gote at a critical opening moment, and lost you a very valuable initiative as you quite rightly took the extra time to fix your shape. You'd lose very little with the 2 point jump, and would keep sente as Black still needs to look after his corner.
+
+Lower left invasion corner tesuji - Ok, my variation with the iron post at 38 may well be overplay, but the following sequence is a very useful tesuji combination to learn if you like approaching 4-4 points and sliding.
+
+I hope these comments are in some way helpful. If you have any responses / queries / comments or would like further input on specific moves or areas, do feel free to ask!]
+)
+(;W[bk];B[aj];W[al];B[bi];W[bl]C[Simple and secure.]))
+(;W[jk];B[ik];W[il];B[ij];W[jm];B[kl];W[km];B[lk];W[lm];B[mn]
+;W[ml]C[Still plenty of reduction to be made.]))
+(;W[lh];B[nf];W[nh]C[Now Black's hopes to build territory are ruined.]
+))
+(;B[ri];W[rh];B[ph];W[oi];B[rj];W[qk];B[qg];W[ok];B[nj];W[om]
+;B[rk];W[rl];B[ql]))
+(;W[qh];B[ri];W[rh];B[ph];W[oi];B[qk];W[oj];B[rj];W[pg]C[Black cannot prevent this. The reduction is very big, and there is still usable aji against the top right corner]
+))
+(;W[fp];B[ep];W[jm]C[Now Black again has to find a clever way of running to live]
+;B[kn];W[ll];B[mn];W[nl];B[on];W[hn]C[Now White has forced Black to connect on dame, and built a useful and valuable wall of his own.]
+))
+(;W[jo];B[ip];W[gn];B[io];W[jn]C[Now White can attack Black's group for much longer. It will be hard for Black to settle without giving White a lot of valuable thickness.]
+))
+(;W[hp];B[jo];W[bq]
+(;B[br];W[dr];B[cr];W[eq];B[ep];W[fr];B[fp];W[gr]C[White can live uncondtionally at the bottom now (in gote), so it is down to Black to be able to handle two weak groups.]
+)
+(;B[gq]C[The normal refutation of the trick is this. But by playing H4 White has pre-empted it, and doesn't need to respond]
+;W[br]C[Now Black has a lot of troubles in the corner.])))
+(;B[fc];W[ee];B[fd];W[bd];B[ff]C[White retains sente to protect the top.]
+))
+(;W[fc];B[dc];W[hq];B[bq];W[jp]C[White's development feels adequate to me like this. Both Black's left side corners are overconcentrated.]
+))
+(;W[cm]C[Now Black still has to look after the lower left corner, and you get sente.]
+;B[fq]CR[fc][jq]C[I would probably take one of the circled points.]
+))

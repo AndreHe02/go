@@ -1,0 +1,79 @@
+(;FF[4]GM[1]SZ[19]AP[SGFC:1.13b]
+
+GN[gogogadjetogo-ddt_ttx.sgf]
+PB[gogogadjetogo]
+HA[0]
+PW[ddt_ttx]
+KM[5.5]
+DT[2000-01-05]
+PC[MSN Gaming Zone - Lotus Table 1]
+RE[W+Resign]
+US[Zone]
+
+;B[dp];W[qp];B[dd];W[pd];B[oq];W[cq]C[debut de partie, rien a dire (l'invasion blanche est un peu hative a mon gout car on prefere savoir a quoi ressemblera ce qu'il y a autour du coin avant, mais bon...)]
+;B[dq];W[cp];B[co];W[bo];B[cn];W[bn];B[cm];W[dr];B[er];W[cr]
+;B[eq];W[mq];B[oo]
+(;W[mo]TR[qp]C[Etonnant de la part de Blanc: il laisse sa pierre marquee vulnerable, voir variation pour un exemple de sequence plus standard.]
+;B[qr]TR[qn]C[Noir devrait enfermer blanc dans le coin (par exemple en jouant au point marque) au lieu de le laisser sortir et retrouver les sequences vues precedemment. Noir serait alors hors de danger puisque sorti et blanc devrait vivre dans le coin...]
+;W[pp];B[op];W[pn];B[on];W[pm];B[rq]C[Noir vit dans le coin (important!), mais n'ayant pas su exploiter l'erreur de blanc il a perdu l'initiative...]
+;W[pq]C[inutile...];B[pr];W[nr];B[or];W[jq]C[Oui, blanc se stabilise et vole en meme temps l'extension de noir]
+;B[rp];W[ro];B[hq]LB[mm:A][jo:B]C[trop "etroit", ce coup n'est pas suffisant pour etendre noir et ne met pas vraiment de pression sur blanc qui peut soit sortir en A, soit se stabiliser en B.
+Noir doit aller ailleurs (par exemple approcher le coin Nord-Est).]
+;W[io];B[qi];W[pj]LB[qk:A][rn:B]TR[qi]C[Un peu haut. Certes A ne protege pas plus la faiblesse en B, mais au moins il empeche la pierre marquee de s'etendre...]
+;B[qf];W[qe]
+(;B[rk]LB[pf:A]C[Noir pourrait monter en A d'abord (voir variation)]
+;W[pf];B[qg];W[qk];B[rl];W[rm];B[qj];W[pk];B[oh]C[Tres bien! Noir sort et separe blanc.]
+;W[fc];B[fd];W[gd];B[fe];W[cc];B[ec]TR[fd]LB[cd:A]C[choix peu consistant avec la pierre marquee qui, en principe, visait a construire sur le bord gauche, il faudrait alors jouer A. Cependant il est vrai que construire a gauche alors que ce bord est ouvert en bas est peu agreable: il ne fallait donc pas jouer la pierre marquee, mais plutot pincer par exemple...]
+;W[cd];B[ce];W[be];B[cf];W[gc];B[eb];W[db];B[jc];W[lc];B[je]
+;W[id];B[jd];W[hf];B[ie]TR[jg]C[ne fait que renforcer blanc, il faut d'abord sortir a l'endroit marque]
+;W[he];B[ic]TR[hh]C[blanc doit sortir lui aussi!];W[hd];B[ha]
+;W[hb];B[ib];W[ga];B[ia]TR[ha]C[sauver la pierre marquee n'est pas si important (ca ne connecte pas), donc il faut toujours sortir...]
+;W[fb]
+(;B[mc]LB[nc:A]C[il faudrait separer blanc (voir variation)
+sinon il faut d'abord sortir (toujours autour de K13), ensuite il restera une possibilite d'envahir en A
+Comme on dit: un coup au contact n'est pas un coup d'attaque: il va renforcer blanc et noir, or on ne veut surtout pas renforcer blanc ici, encore moins dans cette direction.]
+;W[ld];B[md]C[noir pousse blanc vers un groupe faible... c'est dangereux...]
+;W[le];B[me];W[lf];B[jg];W[mf]C[noir est sorti trop tard, il se retrouve maintenant avec trois pierres encombrantes et un groupe toujours faible... mais il y a une solution...]
+;B[lb]C[oui!];W[kb]
+(;B[oe]C[non, dommage, noir doit connecter (voir variation)]
+;W[pe];B[of];W[pg];B[og];W[ph];B[mh];W[mb];B[nb];W[la];B[od]
+;W[oc]
+(;B[ob]LB[nc:A]C[A est meilleur (voir var)];W[pb];B[nc];W[lh]
+;B[kh]C[Mauvaise direction: noir doit avant tout se preocupper de ses deux groupes faibles a droite. Celui de gauche est moins en danger.]
+;W[li];B[nj];W[mg];B[pi];W[nh];B[mi]LB[oi:A]C[La connection en A est indispensable, si blanc prend il vit peut-etre, mais noir aussi et les deux groupes blancs du bord Est sont attaquables.]
+;W[ni];B[mj];W[oi];B[kg];W[lg]C[maintenant Noir a 3 groupes faibles :(]
+;B[oj];W[ng];B[jj]LB[pc:A][qc:B][qb:C]C[Il faut se battre pour le coin encore un peu. Par exemple en A.
+Si Blanc B, Noir C cree un ko.
+Si Blanc C, Noir joue B et il y a combat dans le coin...];W[lj]
+;B[nl];W[qh];B[kl]LB[rh:A]C[Il vaut mieux repondre a droite (en A?) pour continuer a se battre: encercler le groupe blanc du bord nord n'est pas suffisant etant donne l'etat de faiblesse du groupe noir de droite.]
+;W[lk];B[ll];W[rh];B[kk];W[ea];B[kj];W[hh];B[dh];W[eg];B[dg]
+;W[hj];B[ej]LB[bl:A]C[coup vague: le bord est ouvert en A et le groupe blanc est connecte, alors...]
+;W[hl];B[gg];W[hg];B[gf];W[gh];B[fh];W[pc];B[fi];W[mk];B[nk]
+;W[ml];B[mm];W[nm];B[om];W[nn];B[mn];W[no];B[ol];W[rj];B[lm]
+;W[lo];B[qq];W[jm];B[kf];W[if];B[ke];W[ki];B[ji];W[ih];B[jh]
+;W[kn];B[kd];W[ri])
+(;B[nc]C[maintenant la connection blanche est gote (perd l'initiative)]
+
+(;W[ob]C[par exemple...];B[oa];W[pa];B[na];W[qb];B[kh]C[et noir est content!]
+)
+(;W[lh]C[donc blanc doit sortir...])))
+(;B[mb]
+(;W[kc];B[ka]C[noir est connecte! (mais certes pas sorti d'affaire)]
+)
+(;W[ka];B[kc]C[noir est connecte aussi!])))
+(;B[ea]C[la descente est importante: elle separe blanc et menace le coin...]
+;W[hh]C[Si Blanc sort, il laisse son coin en danger];B[bf]C[(plus tard) noir attaque]
+;W[ad];B[bb];W[bc];B[da]C[et blanc meurt...]))
+(;B[pf]LB[qc:A]C[Ce coup est important car il separe les groupes blancs, menace d'entrer dans le coin en A et d'enfermer blanc dans le coin]
+
+(;W[rk]C[si blanc protege son groupe du bord...];B[nf]C[noir sort]
+;W[nd]LB[rn:A][qc:B]C[et apres la reponse blanche, il reste des faiblesses en A et B]
+)
+(;W[nd]C[Si blanc renforce le coin...];B[rk]LB[qc:A]C[noir peut toujours s'etendre et a maintenant cree une invasion en A pour plus tard]
+)))
+(;W[qm]C[Blanc sort sa pierre du coin.]
+(;B[qq]C[Si Noir cherche une base de vie...];W[rq];B[qr];W[pp]
+;B[op];W[mo]TR[mq]C[... blanc aura le temps de sortir la pierre marquee, et noir n'est toujours pas vivant.]
+)
+(;B[lp]C[Si noir sort...];W[pq];B[or];W[lq];B[kp];W[mp];B[mo]
+;W[kq];B[jp];W[iq]C[... blanc vit en dessous.];B[np])))

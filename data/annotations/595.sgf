@@ -1,0 +1,67 @@
+(;FF[4]GM[1]SZ[19]AP[SGFC:1.13b]
+
+GN[mikeq-Gospel(B) IGS]
+PB[Gospel]
+BR[30k*]
+PW[mikeq]
+WR[30k]
+KM[5.5]
+DT[1998-04-12]
+PC[IGS:  igs.nuri.net 6969]
+RE[W+Resign]
+TM[600]
+US[Brought to you by IGS]
+
+C[Commented by Dan Schmidt (dfan 4k* on NNGS)
+
+I tried to give just some very basic hints about how to approach the game.
+Obviously I could make comments about every move, but I think it's more important to just pick up a few basic concepts so you can start applying them.
+Welcome to go!];B[pd];W[dd];B[pq];W[ep]C[You're doing fine so far :)
+It's easiest to make territory in the corners.];B[cp];W[do]
+;B[co];W[cn];B[dq];W[dn];B[eq];W[fq];B[fr];W[fp];B[gq];W[gr]
+C[This move is unreasonable because Black is immediately going to trap it with his next move.
+You have to be careful near the edge of the board, because it's very easy to get a stone captured.]
+;B[hr];W[hq];B[gp];W[go];B[hp];W[iq];B[ir];W[ho]TR[gr]C[Trying to capture Black like this is futile, because any time he wants he can capture the marked stone and he'll be safe.]
+;B[ip];W[jq];B[jr];W[jp];B[io];W[in];B[jo];W[jn];B[ko];W[kp]
+;B[lp]TR[hq][iq][jq][jp][kp]C[Now your group is going to die.
+Try to take territory with your moves, rather than trying to capture stones.
+The best way to do that is to play near the corners and the edges, trying to make territory against the edge of the board.]
+;W[kq]C[This doesn't help, as you can see from what happened.]
+;B[lq];W[kr];B[lr]C[You are trapped against the edge of the board.]
+;W[lo];B[kn];W[ls];B[km];W[ms];B[ks]TR[lo][ls][ms]C[Now the marked stones are probably all going to die too.
+It's better to give up on stones that are going to die than to keep on adding to them; you just feed more prisoners to your opponent that way.]
+;W[po];B[hn];W[fo];B[hm];W[im]C[Soon you will be able to see in advance that this move is futile, because B can cut off all escape.]
+;B[il];W[gn];B[gm];W[fm];B[em];W[en];B[fl];W[dm];B[fn];W[el]
+;B[fm];W[gl]TR[im][in][jn]C[This doesn't accomplish anything.
+Black doesn't have to worry about being captured, because he can capture the marked stones whenever he wants.]
+;B[fk];W[dp];B[cq];W[ck];B[dl];W[cl];B[dk];W[dj];B[ek];W[bm]
+C[You were able to make a little territory along the side, which is constructive :)]
+;B[dg];W[eg];B[dh];W[di];B[eh];W[df];B[cf];W[ef];B[ce];W[de]
+;B[cd];W[cc];B[bc];W[bb]TR[cb][dc]C[You have to be really careful playing diagonal moves like this because of all the cutting points you leave.]
+;B[cb]C[Did you miss that this was atari (threat to capture)?]
+;W[ca];B[dc];W[db];B[cc];W[ed];B[ec];W[eb];B[fb];W[fa];B[gb]
+;W[cg];B[ch];W[bg];B[bh];W[ah];B[ai];W[ag];B[bj];W[cj];B[bk]
+;W[bl];B[bo];W[bn];B[fe];W[fd];B[ge];W[ff];B[fh];W[hi];B[gg]
+;W[gf];B[he];W[nq];B[hf];W[ld];B[jd];W[je];B[ke];W[kf];B[le]
+;W[me];B[lf];W[lg]TR[kd]C[The pattern you're making here is called a ladder.
+You can see that it'll keep on repeating until something happens (hitting the edge of the board, in this case).
+If you had a stone at L16, then you would keep on atari-ing (threatening to capture) Black, and he'd keep running, until he hit the side of the board.
+Then you would capture him (try playing it out and see).
+But in this case, because his group has an extra liberty at L16, you will never get to capture him...]
+;B[mf];W[nf];B[mg];W[mh];B[ng];W[og];B[nh];W[ni];B[oh];W[ph]
+;B[oi];W[oj];B[pi];W[qi];B[pj];W[pk];B[qj];W[rj];B[qk];W[ql]
+;B[rk];W[sk];B[rl];W[sl];B[ri]TR[jf][kg][lh][mi][nj][ok][pl]
+[qh][pg][of][ne][md]C[And now Black has all these wonderful double ataris (threats to capture two different stones) everywhere.
+You should never start a ladder unless it will end up in your favor.
+This also means that you should not try to run away if your opponent has _you_ in a ladder that works; you'll just be throwing more prisoners at him.]
+;W[sj];B[qh];W[kd];B[md];W[ne];B[nd];W[od];B[oe];W[oc];B[of]
+;W[pg];B[nj];W[om];B[pl];W[qn];B[qp];W[qm];B[ok];W[pm];B[rm]
+;W[on];B[qo];W[op];B[no];W[np];B[mo];W[nn];B[oo];W[mn];B[mp]
+;W[jh];B[kg];W[jf];B[jg];W[ml];B[nl];W[nm];B[lm];W[kh];B[lh]
+;W[ig];B[lg];W[mb];B[lc];W[jj];B[ih];W[ii];B[hh];W[hk];B[li]
+;W[kj];B[ki];W[lk];B[mm];W[ji];B[pp];W[ik];B[gj];W[kl];B[jl]
+;W[jk];B[ll];W[lj];B[mk]C[The main advice I would give to you is to play lots of games on a 9x9 board.
+You will learn about basic tactics that way, plus you will be able to play more games in the same amount of time :)
+You need to spend some time learning things like how ladders work, and how to make uncapturable groups.
+I think that after you play a bunch of 9x9 games you'll feel a bit less at sea.
+Good luck!])

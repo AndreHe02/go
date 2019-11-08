@@ -1,0 +1,224 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+PB[Ceris]
+BR[25k]
+PW[joseki9]
+WR[19k]
+KM[6.5]
+DT[2008-01-21]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[W+39.50]
+TM[1800]
+OT[25/600 Canadian]
+RU[Japanese]
+
+;B[pd]C[I really have no idea what I'm doing in the beginning, so I generally just play corner-sides, as you can make life more easily, but without really knowing what my moves are doing.
+
+jet: it's a somewhat valid strategy when you're new to only play the star-point fuseki.  Once you see how they influence the board, then move on to the other openings.
+
+I say it's only somewhat valid because you should at least have some idea what they do eventually.  In the 20kyus it doesn't hurt to just play the stars though.]
+;W[pp]
+(;B[dc];W[co];B[ck];W[ep];B[jd]C[Looking back on it, I wasn't sure about this move, and it was (to me), pretty much a choice of going here or somewhere around Q10. I think I chose here because I was afraid of white playing around here and disconnecting my stones. I was generally just not sure about what to do here.
+
+jet: no, this move is great.  Really, I would have chosen a slightly different order.   The san-ren-sei is the best choice for new players.  So is the double wing.
+
+This fuseki is perhaps not the best, but the K16 is almost *necessary* now so your Q16 and D17 stones have something to work with.
+
+In my opinion you have a much better position than white at the moment -- even if it's not a standard opening.  Is there such a thing as a standard opening in Go?  Certainly some are more popular.
+
+I created a fork (back at move 2) with some additional comments.]
+;W[ce]
+(;B[eg]C[Here I was thinking that I should try and keep white close to that wall, and try and shut him off from the bottom and the center.
+
+jet: it's difficult to affect white with a move like E13.  It's too high to be connected to anything and it doesn't really threaten him in any meaningful way.
+
+It's better to put E13 at C13, which is a pincer or hasami.  Then white only has two choices: live in the corner (small) or try to jump up out of there .... and then you get to chase him.  Check the variation.
+
+None of the resolutions on the variation are perfect, but you can maybe see my ideas.]
+;W[cg];B[di];W[ch];B[bc]C[Looking at it now, this move doesn't seem to good to me =\]
+
+jet: It's pretty small.
+
+it's not the worst move ever, but it's not big.  Before the middle game, all your moves should be either immediately urgent or more than 15 points worth of moyo.
+
+When you're new it's really hard to tell what's worth 15 points or what's urgent....
+
+But consider the move at Q10.  The double wing is worth a ton and nobody got there yet!]
+;W[cd];B[df]C[I responded to quickly here, I think, and missed the wC17 move coming up, would it have been better to play C17?
+
+jet: the very best moves tenuki and play somewhere really big, like Q10, O4, or R6.   I like Q10 the best, but if you must dfend the corner, then C17 is acceptable.
+
+Remember that the third line is "the line of defeat."
+Third line territory is easy to defend, but it's small by comparison, so if you're building third line territory, you're only getting two or three points for each stone you play. 
+
+Look for moves that are worth at least 15 at this stage of the game.
+
+D14 doesn't seem to do much of anything accept convince white to fix the hole in his shape...  It's never good to convince your opponent to make a better shape.]
+;W[cc];B[cb];W[ci];B[dj];W[de];B[ee]C[I wasn't quite sure what to do with the previous move, so I played here, hoping to push him back.
+
+jet: if your goal is to cover him and keep him pinned in, then this might just work.  But the entire right side of the board is uncontested by either side.]
+;W[ff]C[I didn't expect this move at all when I was thinking, and I think I played a bit sloppier afterwords.
+
+jet: I believe white intends for htis move to be kikashi. I'm not so sure it is, since a kikashi move would be something really urgent.  Still, I haven't looked at move 23, but I'm hoping you connected.]
+;B[ef]C[good.];W[fe]
+(;B[fd];W[fg];B[hg]C[jet: too close.  Surround on a larger scale.  I'm going to move move-25 to e16...]
+;W[fh];B[eh];W[fi];B[gj];W[fj];B[fk]C[Looking at it now, F9, G10 and H13 look too thin now, but I'm not sure what I could've done differently.
+
+
+jet: yes, differently.  Think bigger.  If you make the wall along the line K, you get influence along the right and you surround white in a powerful way.  Dual purpose moves are the best.
+
+Definitely try to surround on a larger scale, and preferably find a way to influence the rest of the board to your advantage at the same time.]
+;W[hf];B[ig];W[if];B[gh];W[hd];B[hc];W[id];B[ic];W[gd];B[gc]
+;W[fc];B[ed];W[jg];B[jf];W[je];B[kf];W[ke];B[kg];W[jh]C[I was unhappy with this outcome, as white has a good shape and position I believe, and to me looks like black is just sitting there.
+
+jet: white actually has one of the very best shapes.  I belive it counts as a ponnuki with a tale -- or that closely related cousin.
+
+Again, all of this uncomfortable outcome is because you surrounded too closely, allowing white to punch through.  Surrounding from a distance gives you the time to connect with the stones you already have there (like K16).  Connected stones are much stronger than randomly arranged ones.]
+;B[ld];W[kd];B[jc];W[kc];B[lc];W[gi];B[hi];W[gg];B[hh];W[hj]
+TR[gj]C[Here I was glad that I read it through and didn't save the marked stone, instead playing so that I could save the five stones above it.]
+;B[ij];W[gk];B[ii];W[kh];B[lf];W[hk];B[jk]TR[lc][ld][le][lf]
+[kg][lh][ki][kj][kk][kl]SQ[jg][jh][kh]C[Here, I was just trying to secure life for my stones. Looking at it now, however, it seems that white controls most of the bottom of the board, and possibly the right side.
+
+jet: false.  The right side is still uncontested and you have a better claim for it since you have more influence there.
+
+assuming you can shore up the hole at M15 and can somehow make the very weak J10 stones live, you have sortof a wall there and that's a huge advantage along the right.
+
+Pretend the squares are dead and the triangles are your wall.
+
+Well, then if white tried to approach at Q14, you could hasami at Q12.  Chase white up to your wall and laugh at the fact that he has nowhere to go!]
+;W[lh];B[nc]C[I don't really know why I played this, as it just seems a waste of a move now.
+
+jet: it's not the best move, no,  but it does claim some territory on the side.  It's not a total loss.  I tend to make at least one 0-point move every game, so don't feel bad.  I've been playing for 6 years.  It's hard to focus 100% with so much hard work to do.]
+;W[lj]C[Now I started seeing that white looked liked it was controling  most of the board, and that my stones near the center might be in danger again.
+
+
+jet: they were in danger before, but so were his.  If O17 was at M10, it might look a lot different?  Remember the discussion back at move 69?]
+;B[pj]C[I tried extending down to keep white from making more moyo, I think it is, than he already had.
+
+jet: this move desperately wanted to be played as far back as move 9.  I like it.]
+;W[nj];B[li]C[jet: don't do this.];W[mi];B[ki];W[kj];B[ji];W[ik]
+;B[jj]TR[hg][ig][gh][hh][hi][ii][ji][ki][li][ij][jk]C[jet: This is korrigatachi.  It means dumpling or useless or something like that.  You've got 10 or 12 stones here that are doing literally nothing.
+
+Try not to let this happen.
+
+When it was four dying stones it was almost better to leave them to die and go do something else.  You can always threaten to use them later (aji).  Leaving dead stones to use later is one of those advanced tricks that gets you to the Dan level.
+
+While white is busy killing your 4 or 5 stones you could maybe be taking 15 points per move elsewhere.  That's worth while.
+
+It's hard to know which 4 stones to let die and which you should make live, but if you can find a move bigger than the 4*2=8 points your opponent would get from killing them... well, go get the bigger move.  His 8 points is maybe only worth 2 or 4 if you can use the stones for infuence later (even if they stay dead).
+
+Aji is tricky stuff.  But it tastes good.];W[kk];B[jl];W[il]
+;B[kl];W[ll];B[km];W[nl];B[in];W[fl];B[ek];W[el];B[cf];W[bf]
+;B[bd];W[dl];B[dk]C[Here, I wasn't much worried about those stones dieing, and mostly played there to stop me from having to make 3 moves to connect them all.]
+;W[cl];B[bk];W[bl];B[ak];W[al];B[be]C[jet: p0wned.  I think white could have lived before this.  It would have been pretty tricky, but now white is dead I think.]
+;W[gn];B[mh];W[mg];B[nh];W[ng];B[oh];W[ni];B[lg];W[me];B[le]
+TR[hg][ig][gh][hh][hi][ii][ji][ki][li][ij][jj][jk][jl][kl][km]
+[in]C[jet: I sincerely thought black was in more trouble than this.  You fought your way out.  Heh.  I bet white was mad.]
+;W[pk];B[pi];W[qj];B[rj]TR[qi][km][in]C[Now this doesn't seem like a good move to me, and that it would have been better play play at R11 instead.
+
+jet: correct.
+
+You also want ot make sure to use your l7 and j6 stones to spread into white's HUGE moyo along the bottom while you still can.  Perhaps you do, we'll see.]
+;W[qi];B[ri];W[qk];B[qh];W[oj]C[Now I started really getting worried about white at the bottom, as he almost completly owns it
+
+jet: almost.  Although, 4th line stones are notoriously difficult to make territory with.
+
+You can live at R3, O4, Q2, O3, et al (even without the J6 and L7 stones to run to).]
+
+(;B[mm];W[nm];B[lm];W[no];B[mo];W[np];B[ml];W[mk];B[io];W[mp]
+C[I think this move here is what started me playing so that I ended up with a big ugly clump of stones, and white still holds all that territory.
+
+jet: or you should learn to play lighter.
+
+Let me go back and show you what I mean.  Find the variation.]
+;B[ln];W[lo];B[mn];W[ko];B[lk];W[mj];B[im];W[og];B[pg];W[kn]
+;B[jm];W[oi];B[ph];W[pf];B[rh];W[rk];B[of];W[oe];B[ne];W[nf]
+;B[mf]C[For shame, I didn't see the blatant atari in front of my eyes, although, in the end, I'm not sure that it was such a bad thing.]
+;W[nd];B[od];W[md];B[qf];W[pe];B[qe]C[jet: oh dear, white is dead.  I fear he may flim flam you here.  [ahh, happily, I was wrong.\]]
+;W[qd];B[qc];W[mc];B[lb];W[mb];B[kb];W[ie];B[nb];W[ma];B[na]
+C[I was really happy with my playing in this corner so far, until I saw wP17, which I believe would have allowed white to save his stones and live, fortunatley, he didn't see it.]
+;W[la];B[ka];W[hm];B[ll];W[pc];B[ne]TR[oc]C[Here I killed instead of connecting at P17. Is one better than the other, or does it matter?
+
+jet: I believe the points owrk out the same.  Don't take my word for it.  Use an SGF editor and count it out all the various different ways and then find some way to consider it in your mind's eye while you play.]
+;W[oc];B[nd];W[rd];B[pb];W[re];B[bb];W[rf];B[of]C[Again, killed instead of connecting.
+
+jet: given the choice (if the point tally is the same either way); go for the kill.  You don't want to leave that Aji behind for no reason!!]
+;W[rc];B[ob]C[And again.];W[qb];B[pc];W[qa]
+(;B[rb]C[Really don't know why I played here. Hopefull thinking on my part, I guess.
+
+jet: ironically, I think you could have killed white by playing at T18.  I'm not really sure. [nope, perhaps a few moves ago though.\]]
+;W[sb];B[eb];W[ra];B[gb];W[gp];B[nn]C[This move starts off the part of the game which I regret most. I feel really stupid looking back on it.
+
+jet: no worries.  As long as your opponent responds, you don't lose any points!  (check)]
+;W[on];B[ol];W[ok];B[om];W[nk];B[oo]C[Ugh. Just ugh. I /really/ don't know why I though I could kill this stone.]
+;W[pn];B[po];W[qo];B[jp];W[op];B[lp]C[Really don't like this move, although I'm not too sure where else I should have played. Now I'm thinking around J3 or some such.]
+;W[kp];B[lq];W[kq];B[lr];W[kr];B[ks];W[js];B[ls];W[ip];B[jo]
+;W[ho];B[jr];W[jq];B[is];W[iq]C[jet: still haven't really lost any points, although, extensions from K4 would have perhaps earned some points instead of gaining none.]
+;B[hs];W[hn];B[nq]C[Now, this move seems really bad to me. I think it would have been better played somewhere around G4. I don't know why I though I could invade here.]
+;W[jn];B[ih];W[oq];B[nr];W[or];B[mq];W[ir];B[js];W[gr]C[And here's where I finally realize that the group is dead.  12 wasted stones.]
+;B[os];W[ps];B[ns]C[Even more wasted stones!];W[pr];B[sg];W[gs]
+C[jet: I guess you gained something after all.  White just made a negative one point move there.]
+;B[sk];W[sl];B[sj];W[rm];B[sf];W[se];B[af]C[From here on I generally just try to strengthen and secure my groups.
+
+jet: this is negative one point too.  Don't kill dead stones.  But since white just did it, you're even.]
+;W[hr]C[jet: again];B[bg]C[jet: again, still even];W[rg];B[sh]
+;W[er]C[jet: again, you're up by one.];B[lh];W[cr]C[jet: again! up by two!]
+;B[ei]C[jet: dame, still up by two.];W[ej];B[db]C[jet: negative 1 for you.  only up by one.]
+;W[pa];B[fb]C[jet: oh, you're even again. :(];W[qg];B[pf]C[jet: negative three, you're down by one.]
+;W[oa];B[nf]C[jet: down by two.];W[ms]C[jet: another negative.  You're only down by one.]
+;B[bi]C[jet: down by two again.];W[mr]C[jet: down by one.];B[tt]
+;W[tt]TW[ge][he][gf][gj][gl][hl][ol][pl][ql][rl][am][bm][cm]
+[dm][em][fm][gm][om][pm][qm][sm][an][bn][cn][dn][en][fn][qn]
+[rn][sn][ao][bo][do][eo][fo][go][oo][po][ro][so][ap][bp][cp]
+[dp][fp][hp][lp][qp][rp][sp][aq][bq][cq][dq][eq][fq][gq][hq]
+[lq][mq][nq][pq][qq][rq][sq][ar][br][dr][fr][jr][lr][nr][qr]
+[rr][sr][as][bs][cs][ds][es][fs][hs][is][js][ks][ls][ns][os]
+[qs][rs][ss]TB[aa][ba][ca][da][ea][fa][ga][ha][ia][ja][la][ma]
+[oa][pa][qa][ra][sa][ab][hb][ib][jb][mb][qb][rb][sb][ac][cc]
+[ec][fc][mc][oc][rc][sc][ad][cd][dd][md][qd][rd][sd][ae][ce]
+[de][me][oe][pe][re][se][bf][rf][ag][cg][dg][jg][mg][ng][og]
+[qg][rg][ah][bh][ch][dh][jh][kh][ai][ci][si][aj][bj][cj]C[So, kind of disappointed by the 40 moku loss, more disappointed by the fact it could have been around 20 instead.
+
+jet: yes, well, without letting that white group in the upper right live, you might have done better.  In my opinion, you should only be losing by three here.
+
+And really, if you didn't play any negative moves in the end game, you'd have one by 4!
+
+Go back and look for ways to kill that white group.  Study the situation.  Homework.
+
+Homework #2:
+Study the end game and figure out how to eliminate negative moves from your end game.  Don't play negative point moves.
+
+Feel free to send additional questions via email.
+
+-Paul (jettero at gmail)])
+(;B[sb];W[rb];B[sc];W[sd];B[sf]
+(;W[sg];B[rg];W[se])
+(;W[sa]C[jet: oh, no, my mistake.  This is alive.])))
+(;B[np]
+(;W[lp];B[pq];W[op];B[oq];W[mq];B[nq];W[no];B[qp];W[qo];B[qq]
+;W[rp];B[rq];W[ro])
+(;W[pn];B[pq];W[qq];B[oq]
+(;W[lp];B[qr];W[qp];B[rr];W[mq])
+(;W[qr];B[kq];W[gq];B[iq]))))
+(;B[ed];W[hd];B[jf];W[hg];B[jh];W[eh];B[dh];W[dg];B[fh];W[ei]
+;B[fj];W[fc];B[fd];W[gd]TR[jd][jf][jh]C[jet: now, I played white rather passively, but where can he really go?  he's got maybe one eye, he's pinned in.
+
+Black will almost certainly live so white has to really fight for life.  Meanwhile, you've got this wall (triangles) pointed at the right side (still uncontested).  If white lives, go take the rest of the board for yourself.]
+))
+(;B[cg]
+(;W[cc];B[cb]
+(;W[dd];B[bc];W[cd];B[ec])
+(;W[bb];B[cd];W[bc];B[bd];W[db];B[eb];W[ca];B[ed]))
+(;W[ee];B[fd]
+(;W[eg];B[df];W[de];B[ef];W[ff];B[fe])
+(;W[dg];B[cf];W[df];B[be];W[bd];B[bf];W[cd];B[ci]))))
+(;B[dd];W[dp];B[jd];W[pf];B[dj]C[The San-Ren-Sei is the best new-player opening.  I think plenty of people would argue with me, but I really believe it.
+
+It's pure influence and has almost no territory -- even though it looks like it has a lot.  And when you get the hang of that, you'll be 10kyu all of a sudden.
+
+The D10 move is very powerful because with the D16 and K16 moves it forms a  so-called "double wing."
+
+It makes it difficult for white to gracefully approach your D16 corner.  Which is why D10 is better than replying to the Q14 move.
+
+Never fear the double approach.];W[nd];B[oe];W[qc];B[pc];W[qd]
+C[This is a typical continuation of the double approach.]))

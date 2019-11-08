@@ -1,0 +1,221 @@
+(;FF[4]GM[1]SZ[19]ST[1]AP[SGFC:1.17]
+
+PB[Schmidtch]
+BR[9k]
+PW[alikik]
+WR[9k]
+KM[6.5]
+DT[2011-06-04]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[W+2.5]
+TM[900]
+
+C[N: Hi, I play as Numsgil on KGS.  I'm approximately 4k/3k.  I'll prefix my comments with N:, and leave any original comments in the file.  I've also created a mini lecture as a branch from here.  I'll be referring to the idea during the lecture.
+
+Basically:
+
+1.  Attack weak stones, especially in the opening.  They are urgent.
+2.  Don't allow your stones to be clumped.  Sacrifice if necessary.
+3.  Don't run with clumped stones unless they're being useful (like cutting two weak groups).
+
+...
+
+Hi, thanks for being able to review my game. I have problems regarding fighting/attacking/chasing, and somehow in this match there were quite alot of fights going on and I was confused. So it would be a great help to me if you could point out my weak points and mistakes. Thanks. (I play B in this game)]
+(;B[qd];W[pp];B[dc];W[dp];B[ce];W[fc]CR[jc][jd]C[N: This is an odd move by white, as it plays too near thickness.  You should pincer immediately.  If it were white's turn, making a base for his stone would be urgent.  That means it's urgent for you to stop it.
+
+Since this is a lone stone and your corner is strong, you want to use a light pincer.  That means either of the circled stones (I'd prefer the 3rd line, but the 4th line might be reasonable too).  You play a soft pincer because:
+
+1.  Since white's stone is alone, if you put on too much pressure white might decide to just sacrifice it.  You want to be greedy and force white to try and save the stone at some point to prevent you from getting too much.  Then you can chase profitably.  If there were more white stones here, you'd want a tight pincer to maximize the pressure on white's stones.
+
+2.  It's a luke warm extension from your other corner.  If that black stone was on the 4-4 it'd be ideal, but this six space extension still has some value.]
+;B[qn]CR[oc][od][nd][nc]C[N: Not only does this ignore white's urgent move, this move has less value than a move around circle to complete your corner.
+
+Why?  Because symmetric corner stones (4-4, 3-3, 5-5) can take two enemy approach moves and still come out in a reasonable position.  Asymmetric corner stones (3-5, 4-5, 3-4) are not as robust.  Which makes finishing or attacking an assymetric corner have preferance over attacking or extending from a symmetric corner.
+
+You can still ocassionally attack 4-4 stones before 3-4, but you should have a compelling reason.]
+;W[oc]CR[ic]C[N: White is right to ignore his bottom corner.
+
+However, the problem with this move is that white now has two weak stones at the top.  Depending on what happens white will either end up with a strong top territory or two weak top groups.
+
+Making a base for his stone at circle might also be possible.  But that wouldn't be a lot of points.  The problem is that that stone just wasn't a very good move.]
+;B[pe]CR[mc][lc][kc][kd][ld][md]C[N:  I'd prefer some sort of pincer here, as you can attack white's other stone (albeit lightly).  This is okay, though.]
+;W[qc]C[N: This is an unusual response by white.];B[pc]C[N: Okay, you decide to try and cut.
+
+My main issue with this is that it encourages white to push you into a bad shape (an empty triangle), but since it allows us to follow up with a cut, it's probably playable.]
+;W[pb]C[N: Basic instinct.];B[pd]C[N: Basic instinct.  White cannot tennuki from here or he will lose a lot.]
+;W[rc]CR[fc]C[N: White protects the corner.  You can take a ponnuki on the side and start dominating white's circle stone in a large way.]
+(;B[nq]CR[rc]C[N: No!
+
+Why this is bad:
+
+1.  Your top stones have bad shape
+2.  Your top stones are undercut by the circle stone.
+3.  Your top stones have no extension (and therefore no base!)
+4.  From 1-3, your top stones are weak.  You've basically sacrificed the top corner.
+5.  Because you didn't follow through with the cut (see lecture: don't push links you don't intend to cut), you made the last several exchanges worse than meaningless: white has strengthened his position and you have a lump of weak stones.
+6.  All this made the top corner urgent.  And you should never tennuki from an urgent position.]
+;W[rd]C[N: White has the right idea, but I'm not sure that this is actually accomplishing anything.  See variation.]
+(;B[re]CR[qf]C[N: This isn't a bad move, but you make it for the wrong reasons.
+
+Given the reasons I think you're making this move (to try and create shape for these stones), a move at circle would be better.  It looks like a weird move, but it's useful in positions like this where you don't want to give white a useful peep.  White won't undercut you since he'd be crawling on the second line.]
+;W[qf]C[N: White peeps, but do you need to respond?]
+(;B[qe]C[I felt that B was quite heavy, though it may be my misconception...
+
+...
+
+N: Black is indeed quite heavy.  This shape is jokingly called a "B2 Bomber".  The variations I mentioned previously aside, when you find yourself in this position it's usually better just to sacrifice the stones than create a tumor that serves no purpose except to be a target for white to attack.
+
+By this point in the game, we can say that black has really bungled the corner.]
+;W[rf]C[N: Surprisingly, black can still salvage this position somewhat.  See var.]
+(;B[og]CR[se]SQ[ne]C[N: This would be an almost okay move, as it seems to attack white's two stones.  Except that white is still threating to connect under at circle, so the threat is minimized.
+
+If you're trying to run, square would be natural.  But you aren't going to make any points by running, so I'd again just consider sacrificing all this.]
+;W[pf]C[N: White says he wants to cut.];B[of]CR[og]C[N: Black says: "okay, I dare you".  Black is being stubborn and bold.  If black really wants these stones, the circled stone wasn't terrible useful.]
+;W[oe]C[N: White follows through with the cut.  Good.];B[od]
+C[N: Black is being stubborn with his stones.]
+(;W[ne]C[N: I'd prefer var];B[nd]C[N: Will lead to complicated fighting, but black almost has to try and get some value from his clump of stones at this point to win.]
+;W[me];B[md]CR[me][ne][oe]C[N: Yes.  So long as white has to respond to save his circle stones, keep pushing.]
+;W[nc]C[N: White is trying to save both sides at once.  This is risky.]
+(;B[mc]C[N: Aji keshi because of var.  But given that you didn't see that, this is fine.]
+;W[oa];B[ic]CR[me][ne][oe]C[N: Okay.  Whit has some weak groups, and he can't save them both.]
+;W[kc]
+(;B[kd];W[le];B[jd]C[N: This is bold, beceause it does not directly protect the cut.  Make sure you read very carefully before you make moves that only indirectly help stones under attack.]
+;W[ld];B[lc];W[kb];B[nb];W[ob];B[lb];W[la];B[ma]
+(;W[ja]C[I think W could have killed the B group if he played at L19.
+
+N: See var.];B[jb];W[se]
+(;B[ka]C[N: No need to start a ko.  See var.];W[qo];B[jc];W[oq]
+;B[pn]CR[pf][qf][rf]C[N: Because white has the marked stones undercutting this whole area, I'd say the other side is more valuable.]
+;W[np];B[pj]C[N: Again, hard to create a moyo when there's a huge hole in it.  But given the last move, this is almost proper since it makes a base.  3rd line would be better, though, since 4th line is for making moyos, and you can't form one!]
+;W[ph];B[oh]CR[ld][le][me][ne][oe]C[N: Good, as it starts to put pressure on the marked stones.]
+;W[pi];B[oi];W[qj]
+(;B[pk]C[Was the sequence correct? Are there other better sequences?
+
+N: You can also consider the double hane.  It leads to complicated fighting.  See var. for my first thought.]
+;W[qk];B[gd]CR[gc][fd][ed][ec][eb][fb][gb]TR[fe]C[N: No.  Don't play adjacent (any of the circle points) to an enemy stone if you are strong in the area.  You will usually just strengthen white.
+
+In this case, since white's stone is pincered, play triangle.  White may try to escape.  If he does, let him, but build up influence to create a moyo along the left side.]
+;W[ed]C[N: White is trying to escape.  He should have tennukied.]
+;B[fe]TR[ef]C[N: I would prefer triangle, as it doesn't play adjacent to weak stones.]
+;W[ee];B[ef]CR[ld][le][me][ne][oe]C[I was confused from this point onwards, since the fight lasted throughout the board.
+
+N: When you do fights like this, you should always have a goal instead of just throwing stones around.  In this case, aiming for a moyo along the left side is a good goal.  Another goal might be to build a central moyo to capture the marked white stones in a big way.
+
+At this point, I'd say you're winning in the game, so there's no need to make complications.  Play smoothly and solidly.]
+;W[df];B[de];W[ff];B[eg]C[N: This is inviting some complicated fighting, but it favors you, so probably a stylistic choice.]
+;W[ge];B[fd];W[gc];B[hd];W[ec]TR[dn][gh]C[N: Okay, white is trying to live in the corner.
+
+I would let him, and instead build a moyo with a move at either of the triangles (they aim at different moyos).  But you can also just kill white in the corner and take points that way.]
+;B[cc]C[N: White's corner should be dead now.];W[db]C[N: This won't work for white.]
+;B[cb];W[be];B[bd]TR[cg]C[N: But now your two black stones are in trouble.  I'd prefer triangle, to connect black's stones together with a net.]
+;W[bf];B[eh]C[N: Yes, you need to start running with these stones.]
+;W[cf];B[dd]TR[bf][cf][df]CR[ch]C[N: Overly safe.  I'd prefer circle, to attack white's stones (this is a shape point for white's 3 triangle stones).]
+;W[ch]C[N: White takes the shape point.];B[ci];W[bi];B[cj];W[dh]
+;B[ei];W[di]
+(;B[dj]CR[ej]C[N: White is just going to cut you, and you'll have two weak groups.
+
+Sacrifice the two black stones to build a large central moyo instead by playing circle.  White will push through to cut, and you'll laugh all the way to the bank.]
+;W[ej]C[N: This is now a fight.  Exactly what white wants.]
+;B[ek]CR[ef][eg][eh][ei]C[N: Careful, as this weakens the marked stones.]
+;W[fj];B[dm];W[fg];B[fi]C[N: Now you're forced to make an empty triangle.]
+;W[gj];B[gh];W[hf];B[ih];W[hg];B[hh];W[jg];B[jh];W[kg];B[lh]
+CR[ki]TR[cc][cd][ij]C[Was this jump a mistake? After the game I thought that a kosumi at L11 would be better since playing here gives W a chance to push through and cut.
+
+N: This sort of pre-peeped one space jump is almost always a mistake (the exception occurs if you're pushing along the edge of the board, and even then there are very specific rules about when you can do it).  Yes, circle would be better.  Triangle is another option, as it's a shape point and also attacks white's other stones.]
+;W[kh];B[ki];W[li];B[lj];W[mi];B[jj];W[mh];B[mg];W[lg];B[ng]
+CR[mf]C[N: Circle is better, as it serves the same purpose and is also sente (threatens to cut).]
+;W[oj];B[nj];W[ok];B[pl]CR[ni]C[N: This is inviting more complications.  You might consider circle instead, and just make a solid capture of the larger group of stones.]
+;W[ol]CR[ni];B[om]CR[ni]C[N: You're stretching yourself really thin, and you don't need to, because you would be solidly winning if you just connected at circle.]
+;W[nl];B[ni];W[mj];B[mk];W[lk];B[nk]C[I played here in the hope that W would play N3 (which he does), and i could use sente to capture the P8 group. Was it a right call?
+
+N: No :P  See variation.]
+(;W[ml];B[ll];W[kj];B[mm];W[ji]C[N: Amounts to the same thing.  This was bad for black.]
+;B[ij];W[ii];B[hi];W[ki];B[hj];W[gl];B[il];W[kl];B[lm];W[km]
+;B[hm]CR[hn]C[N:  You're strong enough to play circle and try and attack white's stones in a big way.]
+;W[gm];B[in]CR[io]C[N: Circle is better, as it runs farther, and is still solidly connected.]
+;W[jn];B[jo];W[ko];B[ho];W[go];B[jp]CR[jm]C[N: Make the forcing exchange at circle first.]
+;W[kp];B[gp];W[gn];B[kq];W[jq];B[iq];W[jr];B[ir]C[N: Only make this move if you intend to sacrifice your lone black stone (which is called for at this point I think).]
+;W[kr];B[lq];W[lr];B[mr]C[My mistake. I did not read the situation clearly, and I though I had more liberties. But I was wrong.]
+;W[lp];B[mq];W[mp];B[or];W[ms];B[nr];W[pr];B[js];W[os];B[ks]
+C[N: This is better left as a ko threat.  White can't take it before capturing anyway.]
+;W[ns];B[cq]CR[fp]C[N: This doesn't seem like a good idea, given that your center black group is still a bit weak.  I'd prefer something like circle.]
+;W[dq];B[cp];W[gq];B[hq]CR[fp]C[N: Circle first, as it threatens to connect out, and makes it harder for white to contain you, and damages white's last move a bit.]
+;W[fp];B[gr];W[hp];B[ip];W[hn];B[gp];W[hl];B[im];W[hp];B[io]
+C[N: You need to fight the ko, I think.  This doens't end well for you.
+
+--- END OF COMMENTS --- 
+
+(I didn't comment on the end game.  Let me know if you want it reviewed, too, but it's usually better to concentrate on the opening and mid game since mistakes there are worth more than even perfect endgame play).]
+;W[hs];B[fq];W[gp];B[er];W[dr];B[eq];W[is];B[hr];W[ls];B[gs]
+;W[js];B[eb];W[fb];B[da];W[ik];B[jk];W[jl];B[hk];W[gk];B[fa]
+;W[ga];B[ea];W[ba];B[hc];W[es];B[fs];W[ep];B[ds];W[cs];B[es]
+;W[cr];B[co];W[bq];B[bp];W[ar];B[ap];W[en];B[em];W[dn];B[cn]
+;W[bj];B[bk];W[ck];B[dk];W[cl];B[bl];W[fm];B[do];W[eo];B[aq]
+;W[br];B[aj];W[bh];B[he];W[if];B[gg];W[gf];B[gb];W[dg];B[ae]
+;W[af];B[ai];W[ah];B[bm];W[bg];B[ak];W[ad];B[ac];W[ql];B[pm]
+;W[kk];B[gi];W[nn];B[nm];W[rm];B[rn];W[ro];B[qm];W[sm];B[sn]
+;W[rk];B[pg];W[qg];B[so];W[rp];B[sp];W[rq];B[sq];W[rr];B[sr]
+;W[po];B[mn];W[ln];B[no];W[oo];B[on];W[mo];B[nn];W[mf];B[je]
+;W[ke];B[jf];W[ig];B[ie];W[kf];B[jm];W[kn];B[fl];W[fk];B[el]
+;W[rs];B[ae];W[na];B[mb];W[qb];B[ad];W[ss];B[qh];W[qi];B[rh]
+;W[ri];B[rg];W[sf];B[tt];W[tt]TB[fr][bo][ao][bn][an][cm][am]
+[ol][nl][ml][dl][cl][al][ok][ik][ck][oj][ee][id][ed][cd][kc]
+[gc][fc][ec][bc][kb][ib][hb][fb][db][bb][ab][la][ja][ia][ha]
+[ga][ca][ba][aa]TW[qs][ps][ks][bs][as][qr][or][nr][mr][qq][pq]
+[nq][mq][lq][kq][qp][op][lo][fo][fn][sl][rl][sk][sj][rj][lj]
+[si][sh][rh][qh][lh][sg][rg][cg][ag][lf][sd][sc][sb][rb][sa]
+[ra][qa][pa]C[Yeah, that's it. I lost by 2.5 points. I felt that it was a close game and I did not make any really serious mistake. But the fact that I lost this game means that I have alot more to learn and  I hope you can cover most of my errors in this game. If you do not mind, it will be even better if you could spot out what led to my loss, and also some important pointers for me to take note of in fights.
+
+Sorry if I asked too much :P Thanks in advance!!])
+(;W[kj];AB[ml];W[ji]C[N: White escapes.]))
+(;B[ej];AW[dj];B[fl]C[N: Black has a huge central moyo.]))
+(;B[qk];AW[pk];B[oj];W[ql];B[rk];W[rj];B[pl];W[ok];B[rl];W[ol]
+;AB[qm]AE[ql];W[mh]C[N: Now black's stones are sort of under attack, though white isn't all that strong either
+
+As I said, complicated fighting.]))
+(;B[jc]C[N: White can't connect.];W[ia];B[ka]C[N: If white tries to be tricky, you can just take stones and you're fine.]
+))
+(;W[ka];B[jb];W[se];B[ja];W[na]C[N: You have to sacrifice these stones.  Do NOT connect, even if white ataris earlier.]
+;B[jc]CR[qb]C[N: Black wins the capture race, but only just barely.
+
+Note white still has to make a move around circle or he loses stones.]
+))
+(;B[ld]CR[kc][me]C[N: I'd prefer this, because of the marked shape that white has.  He can't save both sides at once.]
+))
+(;B[qb]C[N: Amazingly, this _still_ works.];W[rb];B[ob];W[qa]
+;B[nb];W[mc];B[lc];W[mb];B[lb]))
+(;W[nd];AB[ne]AE[oe];W[se];B[oe];W[nc]C[N: This is sufficient for white.  Black still is weak, and white is solidly connected, and took the corner.]
+))
+(;B[qb]C[N: This actually still works.];W[ob];B[rb];W[se];B[sc]
+C[N: Connect-and-die.  Black has the corner, at least.]))
+(;B[qb]C[N: Black can still attack and cut white's stones.]
+(;W[ob];B[rb]C[N: Black takes the corner.  White's peep isn't useful.]
+;W[qe];B[sd];W[rf];B[sc]C[N: White hasn't accomplished much.]
+)
+(;W[rb];AB[ob];W[qa];B[nc]C[N: Again, black takes the top by capturing this white stone in a net.]
+)))
+(;B[qb];W[ob];B[re];W[rb];B[qf]))
+(;B[qb]C[N: This is what I expect.]
+(;W[rb];B[ob];W[qa];B[nc]C[N: This captures the stone in a net.]
+;W[od];B[ne]CR[fc]C[N: From here, black has dominating thickness along the top.  White's circle stone is still in trouble.]
+)
+(;W[ob]C[N: This doesn't work for white];AB[rb]C[N: Black takes the corner.  White has some small amount of thickness along the top he can use to start a moyo.]
+;W[sb];B[rd]C[N: White can't escape.])))
+(;W[pd]C[DON'T PUSH ON LINKS IF YOU DON'T INTEND TO CUT];AB[oc]
+[qc]C[N: Okay, suppose you're white in this position, and it's your turn to play.]
+;W[pc]C[N: White decides to "push" on black's two "linked" stones.  This can be a reasonable move, but it depends on what white intends to do afterwords.]
+;B[pb]C[N: This is the "basic instinct" move by black.  I would say 90% of the time, this is the correct response to this sort of push by white.  The few times it isn't correct relies on reading.  So as white, when reading this out, always start with the assumption that black will make this response.
+
+From here it's white's turn.  Because white made this exchange in sente, he can play anywhere on the board he wants, right?
+
+Well, technically yes, but if he doesn't play locally he has comitted aji keshi (the destruction of favoriable aji (that is, white has just helped black solidify his position without equal gain himself)).
+
+So in this position, a white tenuki is bad, because it makes the previous exchange aji keshi.  Having made the exchange, we must make it meaningful.  Which usually means cutting.  In this case, either cut has value and can be used to make a strong position (see the variations).  
+
+Sometimes neither cut is useful.  In those cases, white should not push on black's link, because it is simply too strong.  This relies on reading, of course, so it gets stronger from doing problems.
+
+So the basic lesson is: don't push on a link if you don't intend to cut.  If neither cut works, you shouldn't have pushed.  You should be strong enough that you won't change your mind and decide not to cut once you push.]
+(;AW[qb]C[N: White can cut here];B[rb];W[ob];B[qa];W[nc]C[N: This relies on a favorable ladder, but white has made good thickness by allowing black to tack the corner.]
+)
+(;W[ob];B[nb];W[qb];B[oa];W[rc]C[N: White has taken the corner by allowing black to make thickness.]
+)))

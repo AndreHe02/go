@@ -1,0 +1,277 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+PB[dancor]
+BR[10k]
+PW[gnugo]
+KM[7.5]
+DT[2009-02-27]
+RU[Japanese]
+
+C[hello, this is a game against the computer where i lose by about 15 points.  around the middle there is a comment where i counted and thought i was up by about 20, so it was surprising and in reviewing it i can't figure out where i went wrong -- if i was already losing when i thought i was winning, or if i did things poorly later.  let me know if i give too much or not enough comments so that i can do better in my next game review request.  thanks!
+
+Kashomon: Hi.  My name is Kashomon on KGS and I am 4kyu; otherwise I'm Josh.  Your questions were good and show that you've been thinking about the issues.  I hope my comments are helpful.  Sometimes I got rather carried away thinking about the possibilites, but the big ideas are mentioned in the main variation.
+
+In general, I think you should avoid building a moyo in the center.  They are generally very hard to keep and very easy to invade, especially when there is no base for the moyo.  Second, think about invading your opponent's stronghold with the goal of reducing.  White's moyo on the bottom side could have easily been reduced early in the game, which would have made the game much closer.  Lastly, if your opponent attacks something of yours (or invades) try to figure out how to get sente out of it, so you can counter attack or take other big moves.  It's not something I explicitly mention throughout, but I think it's helpful to think about.]
+;B[pd];W[dp];B[pp];W[dd];B[pj];W[nq];B[pn];W[jp];B[jd];W[fc]
+;B[cn];W[cl];B[cq];W[dq];B[cp];W[do];B[cr]
+(;W[em]
+(;B[dh]C[this is the first move where i really thought, since the opening up to here is one i have played against the computer before, and is the kind where i am usually comfortable because i like to focus on 4-4 openings so that i'll have that experience in handicap games as well
+
+i wasn't sure if i should play at B6, but the bottom left corner seemed small and closed in anyway so i figured i would take sente to move in a part of the board that seems like the last side part which is still open
+
+
+Kashomon:
+B6 isn't the best way to follow up in this case.  Because White's last move (E7) is high, you can play at D2 which makes your group solid and also destroys much of white's territory on the bottom. (see variations)
+
+Also, at this point, I think D12 is too high. It's very hard for Black to make a base with this move.  I think it would have been better played on the third line.]
+;W[nc]
+(;B[pf]C[i wasn't sure if i should pincer at M17 instead
+
+Kashomon: I think this is fine.];W[pb];B[qc]
+(;W[qb]
+(;B[cj]C[maybe this move isn't good since D12 can start a base in miai at C14 or C10 so i shouldn't have used sente to play here?  i didn't know what plan i should have and i was still worried i should have played B6 earlier so i thought i would try to put some pressure around C8
+
+Kashomon: O5 is a really the key move, and if not O5, then I think O16 would be good to connect up the two groups and to create a moyo.  I think you can treat D12 lightly for now,  but I don't know what the correct move is.  In any case, D10 certainly isn't bad, but D12 should have been played at C12 if you wanted to live on white's side.]
+;W[dr]C[i didn't understand this move, isn't it early to be worrying about me monkey-jumping to F1?
+
+Kashomon: White playing at D2 keeps Black from destroying the territory on the bottom side (see the variations.  Also, Black needs another move to live.]
+;B[ds]C[this also seemed early, but he does respond to it so i guess it didn't hurt right?
+
+Kashomon: It is basically sente and but it does make invasions on white's moyo slightly harder.  Also, there are some life/death issues later that would have been nicely resolved with B6 instead of D1.]
+;W[es];B[cs];W[fr]
+(;B[bm]C[i'm still thinking about how i didn't play B6..
+
+Kashomon: this is actually pretty decent. It ensures life in sente (at least I would have considered it sente).]
+;W[nn]C[Kashomon: Ow.  This move is huge by white.]
+(;B[or]C[Kashomon: Not good right now.  Makes invasions harder.]
+;W[nr]
+(;B[ol];W[cf]C[Kashomon: it would be better to worry about life rather than territory for that group.]
+
+(;B[bg];W[ml];B[il]C[i was worried he was making too big a moyo.  i've heard you should approach between two walls around the midpoint an imaginary line connecting the two wall "tops" so i did that here.
+
+Kashomon: That's more or less correct.  Deep invasions are more difficult.]
+;W[oq];B[pq];W[bf];B[ef]SQ[hd][ld][md][nd][ge][lj][mj][nj][fk]
+[gk][kk]C[i'm trying to get my own little central moyo going
+
+Kashomon:  There's really not much in the middle.  There are still four doors that black needs to defend before he can get significant pointage here.  That means, black needs to play four moves in a row to secure significant territory here -- a difficult task!  It would be better for black to destroy white's points on the bottom side.]
+;W[mj]C[he can creep in though
+
+Kashomon: I think this is the perfect time to invade white's moyo.]
+
+(;B[lh];W[el];B[fj]C[still trying to make moyo
+
+Kashomon: Not much in the center.]
+(;W[rc];B[rd];W[ni];B[oh];W[hd]
+(;B[if]C[Kashomon: Again, not many points in the center.];W[bl]
+C[Kashomon: This white move is huge.  Now there is a somewhat scary invasion on the corner.]
+
+(;B[ic];W[fe];B[lc];W[rb]CR[aa][ba][ca][da][ea][fa][ga][na]
+[oa][pa][qa][ra][sa][ab][bb][cb][db][eb][fb][gb][sb][ac][bc]
+[cc][dc][ec][gc][ad][bd][cd][fd][ae][be][ce][en][fn][eo][fo]
+[go][lo][mo][ep][fp][gp][hp][ip][kp][lp][mp][eq][fq][gq][hq]
+[iq][jq][kq][lq][mq][er][gr][hr][ir][jr][kr][lr][mr][fs][gs]
+[hs][is][js][ks][ls][ms]SQ[ja][ka][jb][kb][kd][ke][le][pe][qe]
+[re][jf][qf][rf][sf][hg][pg][qg][rg][sg][hh][ih][ph][qh][rh]
+[sh][gi][hi][ii][ji][qi][ri][si][hj][ij][qj][rj][sj][qk][rk]
+[sk][pl][ql][rl][sl][qm][rm][sm][qn][rn][sn][ao][qo][ro][so]
+[ap][bp][qp][rp][sp][aq][bq][qq][rq][sq][ar][br][rr][sr][as]
+[bs][rs][ss]C[after S18 i literally wrote down my vague expectations for future territory to guess if i was ahead in the game:
+
+me black
+12 bottom-right
+20 middle-left
+24 top-middle
+52 right
+
+she white
+38 top-left and top-right
+50 bottom
+
+so i'm wining by 20 (or so i think..)
+
+Kashomon: I think you have about 72 points, and I count white's area as 74 without komi.   Remember, you can't count the spaces that you will be placing your stones.  The places I count as territory are marked.  I think Black is too thin in the center to give very many points there.]
+;B[nd]C[since i think i'm winning i'm just trying to consolidate the areas i have]
+;W[ff]
+(;B[gg]C[F14 was a little more painful than i thought would happen in this area, but my thinking is that G13 is a good way now to limit the damage (giving up E14 to get a secure perimeter)]
+;W[fg];B[fh];W[jk]C[now i'm not sure if J8 was good earlier
+
+Kashomon: J8 is fine as a reducing move, but it's bad at moyo (there are too many doors).]
+;B[gl]C[normally i would respond to K9, a shoulder hit, with J9 or K8 but those both seemed bad here.  the best way to recover seems like threating mutual damage by pouring down from G8 into his moyo as he pours up from K9 into mine
+
+Kashomon: I don't think this is too bad.];W[mh]C[Kashomon: You can respond in kind.  There are tons of variations.  I tried some out -- some work, some don't.]
+
+(;B[mg];W[li];B[kh];W[in];B[ki];W[jl];B[ij];W[sd];B[se]
+(;W[kj]C[i was worried white would start a complex ko at S15, so i was happy when L10 looked small and gote to me
+
+Kashomon: I don't think it's a Ko];B[sc]C[Kashomon: Not necessary]
+;W[mc];B[md];W[lb];B[kc];W[kb];B[jb];W[pr];B[qr];W[os];B[oc]
+;W[ob];B[eg];W[pc]C[i don't see this as needing a response very urgently, and i think i follow-the-opponent-around-the-board too much in general, so i'm happy to tenuki here
+
+Kashomon: I think it's better to respond.]
+(;B[qs];W[cg];B[ch];W[gm];B[hm];W[hn];B[fm];W[gn];B[fl];W[ee]
+;B[he];W[bh];B[bi];W[ag];B[fn];W[fo]
+(;B[dn];W[en];B[ek];W[hc];B[hb];W[gb];B[ga];W[fa];B[ha];W[qd]
+;B[qe];W[od];B[oe];W[pe]C[Kashomon: There's a multi-step Ko in the upper right for White that could severly threaten B's territory that's kind of annoying]
+
+(;B[al];W[pd];B[qf];W[ak];B[am];W[nh];B[ng];W[bj];B[dl];W[dm]
+;B[dk];W[cm];B[bn];W[im];B[nj];W[jj];B[oi];W[nk]
+(;B[ji];W[oj]
+(;B[hk];W[ok];B[pk];W[om];B[pm];W[nl];B[no]C[Kashomon: This is a good move that hurts white's shape.]
+;W[oo];B[on];W[op];B[nm];W[mn]C[i was happy that it seemed to pay off here when i tried to be clever with O5 earlier]
+;B[bk]C[this squeeze-sacrifice is to try to make A11 more interesting later but i may have miscalculated it being worth it to play B9 now..]
+;W[po];B[qo];W[ck];B[ai];W[ik];B[hl]C[Kashomon: really dangerous.  See the variation]
+
+(;W[eo];B[ci];W[mm];B[ge];W[ps];B[qq];W[gd];B[id]C[i was very nervous with all the weakness stretching all the way over to P15 around here..
+
+Kashomon: I would be too];W[ja];B[ib];W[gf]
+(;B[hg]C[pulling back to try to avoid problems with the weaknesses around here, but i had trouble calculating what conservativeness was necessary
+
+Kashomon:  There are certainly some interesting things that could have happen. You played correctly -- check out the variation.]
+;W[hf];B[ie];W[sb];B[sd]
+(;W[ka]C[i didn't understand this move
+
+Kashomon: Look at the variations.]
+(;B[co]C[at this point it seems like there are only one-point-or-less moves
+
+Kashomon: Agreed.];W[ah];B[aj];W[bk];B[dg]C[this was better than P7 right?  because it saves me a point (don't have to play E12 later) and the P7 ko is only worth 1/3rd of a point right?]
+;W[om]C[anyway, it's clear that i have lost by now, by about 15 points after the komi.  so i don't bother with the ko]
+;B[pl];W[df];B[tt];W[nm];B[tt];W[tt]TW[aa][ba][ca][da][ea][la]
+[ma][na][oa][pa][qa][ra][sa][ab][bb][cb][db][eb][fb][mb][nb]
+[ac][bc][cc][dc][ec][gc][oc][qc][ad][bd][cd][ed][fd][ae][be]
+[ce][de][af][bg][mi][lj][nj][kk][lk][mk][kl][ll][jm][km][lm]
+[jn][kn][ln][go][ho][io][jo][ko][lo][mo][no][ep][fp][gp][hp]
+[ip][kp][lp][mp][np][eq][fq][gq][hq][iq][jq][kq][lq][mq][er]
+[gr][hr][ir][jr][kr][lr][mr][or][fs][gs][hs][is][js][ks][ls]
+[ms][ns]TB[jc][kd][ld][je][ke][le][me][ne][re][jf][kf][lf][mf]
+[nf][of][rf][sf][ig][jg][kg][lg][og][pg][qg][rg][sg][eh][gh]
+[hh][ih][jh][ph][qh][rh][sh][di][ei][fi][gi][hi][ii][pi][qi]
+[ri][si][dj][ej][gj][hj][qj][rj][sj][fk][gk][qk][rk][sk][ql]
+[rl][sl][qm][rm][sm][an][qn][rn][sn][ao][bo][ro][so][ap][bp]
+[qp][rp][sp][aq][bq][rq][sq][ar][br][rr][sr][as][bs][rs][ss]
+)
+(;B[ia]C[Still a sente point.];W[mb]))
+(;W[tt];B[ia]
+(;W[ka];B[mb];W[nb];B[la])
+(;W[mb];B[ka];W[la];B[ja])))
+(;B[hf];W[gh];B[hg];W[hj];B[ii];W[fk];B[gk];W[gj];B[fk];W[fi]
+;B[eh];W[dj]C[Ow!]))
+(;W[dj];B[ci];W[hj];B[ii];W[fk];B[gk];W[gj];B[fk];W[fi]C[Ow!]
+))
+(;B[hl]C[Probably slighlty better];W[ik];B[hk];W[hj];B[ii];W[fk]
+;B[gk];W[gj];B[fk]))
+(;B[mi];W[ji];B[ih];W[ii];B[hi];W[hj];B[lj];W[lk];B[gj];W[hk]
+;B[jh]C[I just wanted to see the other variation]))
+(;B[tt];W[qf];B[pd];W[co];B[bo];W[pe];B[re];W[of];B[pd];W[bp]
+;B[bq];W[pe];B[pg];W[ne]))
+(;B[en];W[dn];B[eo];W[fp]C[A little better]))
+(;B[tt];W[qd];B[qe];W[od];B[oe];W[pe]C[All this is done in sente.  Plus, there are even more cutting points.]
+))
+(;W[re];B[sc];W[sf];B[sd];W[qe];B[qd];W[pe];B[oe];W[qg];B[qf]
+;W[rf];B[rg]))
+(;B[hp]
+(;W[ho];B[go];W[io];B[gn];W[gp];B[fp];W[gq];B[dn];W[en];B[eo]
+C[Woo!])
+(;W[io];B[ho];W[hn];B[gn];W[hm];B[gm]
+(;W[jn]
+(;B[jq];W[iq];B[ip];W[kq];B[hq];W[ir];B[hr];W[jr];B[hl];W[jl]
+;B[jm];W[km];B[im]
+(;W[in];B[kn];W[jo];B[kl];W[lm];B[kk];W[jj];B[kj];W[ki];B[ji]
+;W[ii];B[jh];W[ij];B[li])
+(;W[jo];B[fo];W[dn];B[fq];W[gr];B[gs]))
+(;B[iq];W[jq];B[jr];W[kr];B[fp];W[dn];B[ir])
+(;B[hr];W[jr]
+(;B[dn])
+(;B[fo];W[dn];B[gr];W[fq];B[cm]
+(;W[dk];B[dm];W[fk];B[gk];W[ej];B[ei];W[dj];B[ci];W[gj];B[fi]
+;W[hj];B[en];W[co];B[bo])
+(;W[dm];B[dk];W[dl]C[White dies!]))))
+(;W[jm]))
+(;W[hn];B[gn]
+(;W[gm];B[hm];W[fm];B[in];W[ho];B[io];W[go];B[gp];W[fo];B[ip]
+)
+(;W[ho];B[go];W[gp];B[fp];W[gq]
+(;B[dn];W[en];B[eo];W[gm];B[fm])
+(;B[hm];W[jn];B[dn];W[en];B[eo]C[Woo!])))
+(;W[hq];B[ip];W[iq];B[jo];W[kp];B[in]))
+(;B[io];W[jo];B[jn]
+(;W[ip]
+(;B[kn];W[lo];B[ho];W[hp];B[go])
+(;B[in];W[kn];B[go]))
+(;W[in];B[hn];W[im];B[hm];W[jm];B[jl];W[km];B[hp];W[ip];B[ho]
+;W[hq];B[gq];W[hr])))
+(;B[fg];W[gg];B[gf];W[hf];B[hg];W[ge];B[gh]C[This seems ok for limiting the damage, but is not the right strategy at the moment.]
+))
+(;B[tt];W[bo];B[co];W[am]
+(;B[bn];W[an];B[bp];W[ao];B[ap];W[al]C[Even now, B's not quite alive.]
+;AW[cm][dn];B[tt];W[br];B[ar];W[bs])
+(;B[bp];W[bn];B[cm];W[an];B[ar];W[al];B[br])))
+(;B[bl]C[Kashomon: Much bigger.])
+(;B[io]C[Still needed.]))
+(;W[jj]C[Kashomon: Not really anything here in terms of points.]
+))
+(;B[io]C[Pow!];W[jo];B[in];W[ip];B[jn];W[kn];B[km];W[ln];B[go]
+;W[hp];B[dm];W[dn];B[dl];W[fn];B[gn]
+(;W[gp];B[fk])
+(;W[el];B[dk];W[gp];B[gk]))
+(;B[ko]C[not as good.];W[jo];B[kn];W[jn];B[jm];W[km];B[lm];W[kl]
+;B[ll];W[kk])
+(;B[hp]C[Deep invasions are dangerous.];W[ho];B[io];W[ip];B[go]
+;W[hn];B[gn];W[hm];B[gm];W[hl];B[gl]
+(;W[gp]C[Not vey good.])
+(;W[hk];B[gp];W[gk]C[Craziness.])))
+(;B[bl]C[Still bigger]))
+(;B[bl]C[Kashomon: This is really big because it makes your group life on the left side.]
+))
+(;B[pr]C[This move is better in any case. -- it is much stronger and still keeps senter]
+;W[tt];B[ms]))
+(;B[tt]C[Later];W[bo];B[co];W[bn]
+(;B[cm];W[bl];B[bm];W[am];B[bp];W[an];B[ar]
+(;W[el])
+(;W[dl];B[dm]))
+(;B[bm];W[cm];B[bl];W[bk];B[dm];W[dl];B[dn];W[en];B[el];W[ek]
+;B[fl];W[al];B[bp];W[ar]C[Yikes.])))
+(;B[nd]C[looks like a nice way to build a moyo and to connect some stones.]
+
+(;W[md];B[me];W[od];B[ne];W[oc];B[mc];W[re];B[qe];W[rc];B[rf]
+)
+(;W[mc];B[md];W[ld];B[le];W[lc];B[ke];W[no];B[nm]))
+(;B[md];W[mc];B[nd]))
+(;W[lc]C[Also possible.])
+(;W[ld];B[kc];W[lc];B[hc];W[qb]C[Just a thought]))
+(;B[lc]C[Not as good.]
+(;W[ne];B[pf];W[pb];B[qc]
+(;W[ng];B[ph]C[Kashomon: Bad for white -- black is making territory on the fourth line and white is getting nothing.]
+;W[le];B[hc])
+(;W[qb];B[rb];W[pc];B[qd];W[mb];B[lb];W[ng];B[ph]))
+(;W[qc];B[qd];W[pc];B[od];W[nb];B[me]C[Ok for moyo building (but white doesn't have to play this way).]
+)
+(;W[qf];B[pf]
+(;W[qc]
+(;B[pc];W[qd];B[pe];W[qg])
+(;B[qd];W[pc];B[nd];W[od];B[oe];W[oc];B[md];W[rd];B[qg]C[looks possible for a moyo strategy.]
+))
+(;W[pg];B[of];W[qe];B[qd];W[qh];B[qj];W[nh]))))
+(;B[dr]C[This is huge (and the standard follow up]
+(;W[co];B[bo]C[Doesn't get white anything now.];W[bn];B[bm]
+;W[bp];B[an])
+(;W[er];B[fr]
+(;W[es]C[This doesn't work for white because the ladder is good for black.]
+;B[eq];W[fq];B[ep];W[fp];B[eo]
+(;W[en];AW[ne][mf][pf][lg][og][kh][nh][ji][mi][ij][lj][hk][kk]
+[gl][jl][fm][im][hn][go]AB[oe][nf][of][mg][ng][lh][mh][ki][li]
+[jj][kj][ik][jk][hl][il][gm][hm][fn][gn][fo])
+(;W[fo];B[en];W[dn];B[fn];AW[nd][me][lf][of][kg][ng][jh][mh]
+[ii][li][hj][kj][gk][jk][fl][il][hm][gn]AB[ne][oe][mf][nf][lg]
+[mg][kh][lh][ji][ki][ij][jj][hk][ik][gl][hl][fm][gm]))
+(;W[fq];B[es]
+(;W[eq];B[gr])
+(;W[gr];B[eq];W[ep];B[gq];W[er]C[Bad ko for white to fight.]
+;B[dn];W[en];B[eq];W[fp];B[hr];W[er];B[gs]))))
+(;B[cg]C[Better follow-ups for black.]
+(;W[cd];B[cj]C[One option.])
+(;W[ci];B[bd];W[cc];B[bc];W[bb];B[cd];W[dc];B[de];W[ee];B[df]
+)))
+(;W[dn]
+(;B[bn];W[dr];B[dm];W[cm];B[em];W[dj]C[This is one Joseki])
+(;B[dh];W[co];B[bo];W[bn];B[bp];W[dr];B[ar]C[Really bad for black]
+)))

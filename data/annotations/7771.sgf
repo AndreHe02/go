@@ -1,0 +1,205 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.17]
+
+GN[Numsgil-Fado]
+PB[Fado]
+BR[9k]
+PW[Numsgil]
+WR[9k]
+KM[6.5]
+DT[2010-03-22]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[B+56.5]
+TM[0]
+OT[25/600 Canadian]
+RU[Japanese]
+
+C[Numsgil: <-- This is me.  I played white.
+
+So I'm specifically stretching outside my confort zone and trying to learn to use influence better.  Intellectually I know you're supposed to use it to attack, instead of building territory in the center.  Maybe I'm just missing the "how", but it feels like I just went back to bad habits and tried to contain black instead of adequately using the influence to attack.  By the middle game I had lots of influence, but I couldn't figure out a real good way to use it to gain any profit.
+
+I've also marked some comments in-file.
+
+
+Hello Numsgil, I call myself Xue on KGS, so I'll make all my comments with "X:"
+X: I think your main difficulty with influence is that you don't try to win with influence but tend to revert to "territorial moves". In the middle of the game, you have lots of inward-facing influence, but your wall-territories are rather open and therefore invite jabs. Don't mind them! The whole point of focusing on influence is to sacrifice security (sure territory) for speed (and potential territory).
+  Several times you answered your opponent when he tried to slip in under your stones on the 3rd or 2nd line, instead of pushing from on top and consolidating your center territory, thereby leaving sente to your opponent and giving him the opportunity to reduce both your wall-territory as well as your center territory.
+
+Towards the end, there are also several reading mistakes which I assume are because you started become frustrated with the game (please don't be offended if this is not true, I'm simply imagining how I might have reacted). Being able to stay cool and keep your focus is also an important skill for go, especially during tournaments where you might play 3-5 games a day.
+
+A final remark, unless you are short on time, avoid "try and see if it works" moves.
+Read things out as much as possible! If a group is dead, let it stay dead and play elsewhere, don't let your opponent play free moves unless you have a plan!
+
+If you have any questions, feel free to contact me
+lifesayko@gmail.com];B[pd]C[Numsgil [9k\]: hi
+Fado [9k\]: hi];W[dp]C[Fado [9k\]: g
+Fado [9k\]: gg];B[pp];W[dc];B[ce];W[ee]C[N: I know this was a mistake.
+
+X: It is very difficult to say this is a mistake actually. Perhaps you're already very strong in Joseki (something I'm particularly weak in, and western players in general are usually weaker in), so you know this isn't the best joseki, however at this stage of the game, it isn't such a big deal.]
+;B[cc]
+(;W[jd]C[X: A bit too loose. White is neither settled on the left, nor has a base, so white needs to settle this as soon as possible. One closer, or finishing the sequence on the left first would have been more secure.]
+;B[mc];W[nq];B[lq];W[nn]C[N: I know this was a mistake, too
+
+X: Yes, a bit too loose and no particular reason for it.];B[np]
+(;W[qn];B[qo];W[pn];B[mq];W[pi];B[fq];W[dn];B[iq];W[cj];B[ch]
+;W[ej];B[hd]C[X: Here black starts to make problems for white's weak group.]
+;W[jf];B[dd];W[ed];B[ec];W[fc];B[eb];W[fb];B[db];W[gd];B[qg]
+C[N: So by this point I feel like the game is still reasonably close.  Black has more territory, but white has aggressively moved towards the center.
+
+By my count, black has:
+
+~22 points on top left corner
+~34 points in top right corner (not at all secure, of course)
+~36 points in bottom right corner (fairly secure, though a 3-3 invasion is still on the books).
+
+White, by compasion, has:
+
+~30 points in bottom left corner
+~18 points along right edge
+~24 points along the top (?)
+~6.5 komi
+
+So balance of territory wise, it's something like 88 pts black vs. 78.5 pts white, with white getting lots of influence.
+
+Looking at this position after the fact, I'd have white move at E12 since the top is looking a tad weak, and it would be a good capping play regardless.  Other than that, there really don't see to be any weak groups (though there are lots of places where black can slide in to white since white is a bit high).
+
+X: Btw, if you consider a variation, please play it out on the .sgf file, it makes it much easier to comment.
+
+So what's the best way to use my influence here?
+
+X:As you said in the beginning, white should use influence to attack. This doesn't mean you shouldn't try to make territory in the middle, but rather keep the initiative and push black back while making territory.
+  This follows with the saying:
+First: Check if you have weak groups. If you do, fix them.
+Second: Check if your opponent has weak groups. If he does, attack them.
+Last: If there are no weak groups, take the big points (i.e. take territory.)
+
+In the same way, your first priority here is to fix your weak group on the top.]
+(;W[og]C[X: This move is also good. It covers a larger gap, and also gives the top white group a possibility to connect on this side.]
+;B[ri]
+(;W[qj]C[X: This play is a bit slow in my opinion. White doesn't have that much territory on the right wall to defend anyway, so white should take the opportunity to attack more.]
+;B[oh];W[ph];B[pg]
+(;W[hp]C[X: White is leaving his cut undefended! If you cut, then cut and secure the cut!]
+;B[ng]
+(;W[oi]C[N: I think this counts as indecision on my part.  I should have pressed the attack and descended to H3.]
+;B[nh];W[mj]TR[oi][pi][qj][nn][pn][qn][pl][pk][ok][oj][pj][qk]
+[ql][nk][nl][ol]C[X: White is extending in the wrong direction. Very few points on this side.
+Descending at this point would be again better.];B[fo]C[X: This move shows why H4 is a bit too far, G4 is better. With G4 black cannot make a one-space jump, white seals the middle a bit better.]
+(;W[er]C[N: I'm trying to rob black of a base and chase him towards the center
+
+X: ?? Which base? Black is too strong here to kill, this is a misplaced endmove.
+If you're trying to use your influence, don't play on the second line, play high and towards the center.]
+;B[fr];W[fm]C[N: Here's where descending before would have payed off.  As it is, black's group isn't really in any trouble, but I'm pushing black against my lone weak white stone at H4.]
+;B[en];W[em];B[dm]
+(;W[cm]
+(;B[dl]C[X:Ouch!];W[cn];B[dj];W[dk];B[ck];W[di];B[dh];W[eh]
+;B[eg]
+(;W[fh];B[fg]
+(;W[gh];B[hf];W[gg];B[gf];W[ff];B[df]C[N: I needed to have defended at H17.  After this exchange, when black attacks that top white group, the game goes downhill.
+
+X: Yes]
+(;W[ip];B[jq];W[ko];B[ie]
+(;W[je];B[hb];W[hc]C[X: White is already dead.];B[ic];W[id]
+;B[gc];W[gb];B[hc];W[ge];B[he]C[N: Quick count of liberties: White has 3 effective liberties.  If white goes at F16, it becomes 5 effective liberties, but since it'll be white's turn it's effectively 4.
+
+Black has 5, but he can also link up to the right or run towards the center.  But even without running black's won the capture race.
+
+X: Stay calm and salvage.]
+(;W[ef]C[N: This did not help me at all];B[dg];W[qq]C[X: A good move. I think I would have tried to secure the middle a bit more first, since your whole game is riding on the middle.]
+;B[pq]
+(;W[qp];B[po];W[ro];B[rn];W[rm];B[rp];W[sn];B[rq]C[N: Was there a cleverer way to do this exchange?  I sort of feel like I've been had.
+
+Though I ended in sente, which is nice.
+
+X: I would extend once more to keep aji.]
+(;W[bj]LB[me:a][mf:b][ig:c][lh:d][go:e][hq:f]C[X: Again, if you want to play influence, play high and try to secure center territory as opposed to side/corner territory.
+Regardless, this is a slow play.
+  F is slow again, but big enough to be sente, and also make a much nicer shape for white.]
+;B[kc]C[X: The push is unnecessary.];W[jc];B[jb];W[ig];B[le]
+C[X: Good play by black.];W[lh]C[X: Too loose, as you see.]
+;B[kg];W[jh];B[kh];W[ki];B[lg];W[li];B[rk];W[rj];B[sj];W[rh]
+;B[rg];W[qi];B[gn];W[hl];B[jp];W[jo];B[io];W[in];B[ho];W[hn]
+;B[go];W[gm];B[eq];W[dq];B[dr];W[cr];B[es];W[eo]C[X: Small]
+;B[lo];W[ln];B[mo];W[mn];B[oo];W[qc]C[N: Is this invasion doomed no matter what?  I feel like it should have worked, but I don't see where I went wrong.]
+;B[qd];W[pc];B[oc];W[ob];B[nb];W[rd];B[re]
+(;W[rc];B[pb];W[rf]C[X: ???];B[qf];W[qb];B[oa];W[ag];B[ah];W[bh]
+;B[bg];W[ai];B[af];W[ah];B[bf];W[fn]C[N: I threated to capture these 5 black stones.]
+;B[jg]C[N: In response, black threatens to capture my 5 black stones.]
+(;W[if]C[N: Just trying out what would have happened if we exchanged groups]
+;B[fp];W[ih];B[mg];W[hg];B[fd];W[kd];B[ld];W[kp];B[kq];W[on]
+;B[no]C[N: Unless there's some clever move I don't see, this was rather pointless of him.
+
+X: Yes, but at this stage of the game it doesn't really matter for black ^__~]
+;W[sh];B[sg]C[N: I didn't see the snapback he set up until too late.]
+(;W[qr]C[N: My goal here is to play T4 in sente
+X: Would be the same even without extending];B[rr];W[sp]
+(;B[pr];W[sq];B[qh];W[si];B[ri];W[qk];B[rl];W[ql];B[sk];W[sr]
+;B[qs];W[sb];B[ra];W[qa];B[sd];W[cs];B[ds];W[lp];B[mp];W[ni]
+;B[kf];W[mh];B[ci];W[bi];B[ep]C[N: I should have defended at C3]
+;W[sm];B[rs]C[X:Yes, and black should have played the cut immediately instead of filling in dame.]
+;W[sl];B[si];W[so];B[cq];W[cp];B[bq];W[bp];B[br];W[aq];B[ar]
+;W[ap];B[ke])
+(;B[qh]C[X:If black tenukis.....what can white do?];W[rs];B[sr]
+;W[so];B[pr];W[sq];B[qs]))
+(;W[sp]C[X: And it isnt sente in fact. Black should tenuki. Black simply can't block directly, but it's only 1 point.]
+(;B[sq];W[qr];B[rr];W[rs];B[so]C[X:Bad ko for black.])
+(;B[rr];W[sq];B[sr];W[so])))
+(;W[fp];B[if];W[hg];B[hq];W[gp];B[gq]C[N: I think black comes out ahead here (but just by a bit)]
+))
+(;W[rb];B[sd];W[sc];B[rc];W[qr];B[rr];W[rd]
+(;B[pb];W[qb];B[oa];W[se]C[X: You have to play ko.])
+(;B[se];W[pa];B[rc];W[qb];B[sb];W[ra])))
+(;W[qr]))
+(;W[ro]C[X: Joseki]
+(;B[qp]
+(;W[rp];B[rq];W[qr];B[rr];W[sq];B[pr])
+(;W[rq];B[rp];W[pr]C[X: Would also work];B[or];W[qs];B[rr];W[sr]
+;B[rs];W[sp];B[rn];W[so];B[sn];W[sq];B[rm];W[rl];B[qm];W[pm]
+;B[ql];W[qk];B[pl];W[ol];B[pk];W[ok]
+(;B[pj];W[oj])
+(;B[rk];W[sl];B[sk];W[rj];B[sm];W[sj])))
+(;B[rp];W[qp];B[rq];W[po];B[qr]C[X: Standard joseki.])))
+(;W[ig]))
+(;W[hc]C[X: Still, the only move.];B[je];W[ke];B[kd];W[id];B[he]
+;W[jg];B[kf];W[le];B[lf];W[me]C[X: Not much black can do.]))
+(;W[hc]))
+(;W[gg]C[X: Again, hane directly.]))
+(;W[fg];B[fh];W[ei];B[ff];W[gg];B[ef];W[gf];B[fe];W[ge]C[X:Lose two stones for a strong wall.]
+;B[fd]C[X: Black would probably not play this but tenuki instead.]
+;W[jo];B[ip];W[io];B[ho];W[hn];B[go];W[lo]))
+(;B[do]C[X:Ouch!];W[cn];B[co]C[X: Huge corner!]))
+(;W[cn];B[dl]LB[dk:a][fk:b][hm:c][go:d]C[X: I would go for D, but depends depends on how confident you are.]
+))
+(;W[eq]C[X: Also better, blacks needs to answer.];B[fm];W[gq]
+;B[fp];W[fr];B[gr];W[hr];B[er];W[gs];B[dr];W[cq];B[cr];W[bq]
+;B[br];W[dq]C[X: Black is very dead, white can easily run.]
+))
+(;W[hq]C[X: Yes]))
+(;W[ng])
+(;W[of]C[X: lots of nice influence getting projected off those two stones.]
+))
+(;W[gp])
+(;W[nd]))
+(;W[eh]C[X: This is a solid capping move, and indeed, it quite firmly connects the weak (somewhat) top group with the rest, however, it seems rather slow.
+  Blacks potential to disrupt territory through that gap is rather small, as the gap itself is rather small, and white seems overconcentrated in tat area.
+  Also, white's move doesn't press black, so black now can tenuki and thus take sente.]
+)
+(;W[dg]
+(;B[dh];W[eh];B[cg];W[df]C[X: Even better.])
+(;B[di];W[ei];B[dj];W[dk];B[ck];W[bj];B[bk];W[dl];B[cm];W[cn]
+;B[bn];W[bo];B[bl];W[dh];B[ci];W[cg];B[bi]C[X: If white is interested in using influence and taking center territory, I think this would be better. Black hasn't really gained all that much, white lost some side territory, but white now has a very solid outerwall and can start pushing out.]
+)
+(;B[cg];W[dh];B[ci];W[di];B[bj];W[ck]C[X: Also very nice.]))
+(;W[ng]C[X: I personally like this one in this case. White is really going for the center.]
+;B[oh]C[X: If black tries to thwart...];W[ph];B[og];W[pg]
+(;B[of];W[pf];B[oe];W[qe]C[X: White cna take huge profit.])
+(;B[pf]C[X: or otherwise gets into more trouble than it's worth.]
+;W[of];B[nf];W[oe];B[mf]
+(;W[mg];B[lg];W[ni];B[pe];W[lf];B[le];W[kf])
+(;W[pe];B[qf];W[qe]))))
+(;W[mp];B[no];W[mq];B[mo];W[lp];B[lo];W[ko];B[kn];W[jo];B[jn]
+;W[io]
+(;B[pj]C[X: I would say rather good for black (I like influence), but not so bad for white either, especially since black has to go back and play in the middle to make use of his thickness.
+At which point white can...];W[in];B[im];W[hm]C[X: Very nice for white]
+)
+(;B[in];W[ho];B[pj];W[nj]C[X: or black plays further, white can cap and reduce blacks gain.]
+)))
+(;W[dd];B[cd];W[eg];B[ch];W[jd]))

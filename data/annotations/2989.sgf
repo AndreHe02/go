@@ -1,0 +1,193 @@
+(;FF[4]GM[1]SZ[19]ST[0]CA[UTF-8]AP[SGFC:1.15]VW[]
+
+PB[Opponent]
+BR[30k]
+HA[0]
+PW[Robb]
+WR[30k]
+KM[6.5]
+DT[2003-11-16]
+RE[W+16.50]
+TM[2400]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+C[Hi Robb:
+
+I'm Bob (SirBowen on KGS, 13k), and I'll be doing the review for this game. While I'm certainly not an expert, I think I can address your specific questions and give some other pointers.
+
+My comments are preceded with "SirBowen".
+
+----------
+
+Besides a review of the game as a whole, following are the two areas I am interested in specific focus on. I included this same dialogue at the actual spots in the game where the question occurs so that you can read it as you get to the actual moves.
+
+1a – At move 32, I mistakenly played A11 and then made the mistaken move of K8 a few moves later.
+
+I believe I should have played C7 at one of these moves. Is this correct? If so, how should I have continued from there…all the way to C3? If not, how should I have played.
+
+1b - After those mistakes and after Black’s move at c7 at move 37, what was the best way to save myself and/or what was the best way to contain Black?
+
+
+2- After move 143 I counted my Moyo, and realizing that I was ahead, I let the game end.
+
+However - In my games in general, I still have some trouble creating life in open spaces. If I had needed to, was there any way to attempt to create life in his open area? If it was possible to create life there, could you walk me through the methods to achieve that, and what the best plays would have been and what kind of defense I would have seen.
+
+Thank you for your review, it is greatly appreciated.];B[pd]
+;W[cp];B[dd];W[pq];B[jd];W[pj];B[dj];W[jq];B[jj];W[pf];B[nd]
+;W[qe];B[ld];W[qc];B[pc];W[qb];B[qd];W[rd];B[pb];W[rc];B[gd]
+;W[re];B[jg];W[ck];B[cj];W[bj];B[bi];W[ak];B[dk];W[cl];B[dl]
+;W[ai]LB[bh:A]C[1a – At this move, I mistakenly played A11 and then made the mistaken move of K8 a few moves later.
+
+I believe I should have played C7 at one of these moves. Is this correct?
+
+----------
+SirBowen: Playing A11 is a mistake - but a quite small one, for two reasons:
+
+1) it probably required a response from Black (to keep you from breaking through with a follow-up play at A.)
+
+2) after Black's response - once you had seen that this was going nowhere - you could have just left it alone and only risked losing the single stone at A11. There're a lot more important things for both players to do right now than worry about that one stone.
+
+As you say, the bigger problem was missing a chance to play at C7. More about that in a few moves.
+
+(By the way: I'm assuming here that you had initially played A11 in hopes of breaking through into Black's area in the upper left. If not, there's another problem with the move: it's way too small to be played at this point; it would only be suitable as a very end-game sequence.)]
+;B[ah];W[aj]C[SirBowen: Actually, connecting here just worsens your position, because on the next move...]
+
+(;B[bh]C[SirBowen: ...Black could have killed the whole white group if he had made a different move (see variation.)
+
+This leads in to my main comment to your question on the next move...]
+
+(;W[jl]C[SirBowen:
+
+This is the other move you asked about, and this is certainly a larger error. The general principle that this falls under is: "Make urgent moves before large moves".
+
+Basically, an urgent move is one that's necessary to protect the investment you've already made. After all, even the biggest move ceases to be big if it's whittled down as the game progresses.
+
+So, when you're involved in a local exchange like the one of the last dozen moves or so, don't leave it until you feel like it's settled.
+
+How do you learn to see when it's settled? For this type of situation, I highly recommend spending some time working life-and-death problems. These are readily available - I like the "Graded Go Problems for Beginners" books myself.
+
+What you want to do is build up the ability to visualize the probable continuations. Of course, just playing more games will do this too, but more slowly (and painfully :-).
+
+So back to the specifics: C7 certainly would have been the move to make. Look at the variation, and flip back and forth between that position and the game move. You'll see that it quite visibly protects your right-side position; try to see this in your mind in advance.]
+;B[cm]C[1b - After the mistakes I made from 32 to here, and after Black’s move at C7, what was the best way to save myself and/or what was the best way to contain Black or keep him out of the bottom left corner?
+
+----------
+SirBowen:
+
+There's nothing you can do to save the stones along the side. The variation on the next move shows one way to go about limiting his downward expansion.
+
+I'll note, though, that you shouldn't assume that this is the next thing you want to do. Once the position is lost it's no longer urgent, and you should look around the board to see if it's better to make a larger play somewhere else.]
+
+(;W[bl];B[bm];W[am];B[bn];W[dm];B[an];W[bo];B[al];W[lj]C[SirBowen:
+
+Once again, be sure to make an urgent move before you leave the local situation to play elsewhere.
+
+You were probably thinking that you can't save the six surrounded stones, which it true. But now you have a strong black group rushing the gate, so to speak, in the lower-left corner. This would have been the time to shore it up.
+
+The loss of the lower-left corner that comes in about 30 moves really has its roots right here.]
+;B[bk];W[fl];B[fj];W[ao];B[hj];W[lf];B[jf];W[fq];B[em];W[dn]
+;B[cn];W[do];B[co]
+(;W[ap]LB[dp:A][bp:B]TR[ao][bo]C[SirBowen:
+
+At this point there's not much you can do to save the two marked stones. It would have been better to just let them get captured and use this move to cover your cutting point at A. By trying to save them, you ended up losing a bigger chunk of the corner.
+
+However, as a general principle that would still apply under less dire circumstances, I'll say a few words about this way of covering the cut at B. While it's good that you saw the danger to the marked stones, this move didn't provide very much protection.
+
+A warning sign: note that the marked group has the same number of liberties, and the same ability to connect up, as before you made the move!
+
+Another warning sign: beware of the "empty triangle" shape that this move creates.
+
+A solid connection (see variation) would have been much better and would have made Black's next attack much harder to pull off. If he didn't play it just right, you might have stopped him.
+
+In general, it's better to make a solid connection unless you can clearly see that another type will both protect you AND gain you some other advantage. Less solid types of connections often backfire later.]
+;B[dp];W[ep];B[dq];W[eo];B[cq];W[cl];B[bp];W[eq];B[aq];W[er]
+C[SirBowen:
+
+Again, this move and your next one are good in the end-game, but are too small to worry about now.]
+;B[dr];W[ds];B[cs];W[es];B[en];W[el]C[SirBowen:
+
+Very nice cut. This really nullified much of Black's gain that he's been fighting for since about move 25.
+
+Note that, after all of that effort, Black's really only gained a small sliver of the lower-left corner. And his position is totally walled in by your stones.
+
+So Black has spent 25 of his moves to gain a couple of dozen points of territory, with zero room to expand. You can't feel too bad about the situation at this point.
+
+Black should probably just forget about these two stones, and take the initiative elsewhere.]
+;B[fn];W[gn];B[fo];W[fp];B[go];W[fm];B[gm];W[hn];B[gl];W[gp]
+;B[ho];W[io];B[hp];W[hq];B[ip];W[jp];B[iq];W[ir];B[gk];W[il]
+;B[hm];W[im];B[fk];W[lo];B[kj];W[li];B[ki];W[lg];B[kh];W[fn]
+;B[kd];W[nf];B[md];W[om];B[oe];W[of];B[pe];W[pa];B[oa];W[qa]
+;B[ob];W[qf];B[me];W[mf];B[lh];W[mh];B[kk];W[kl];B[lk];W[mi]
+;B[hl]C[SirBowen:
+
+Black makes a couple of moves there that are quite unnecessary, giving you time to prop up your position. If it weren't for this, he could have done quite a bit of damage by breaking through in the center.]
+;W[ml];B[jk];W[mk];B[ll];W[ke]LB[lm:A]C[SirBowen:
+
+Once again: Make urgent moves first!
+
+You are fortunate that Black never saw the opportunity to break into your territory at A. I really hate this type of "spike".
+
+Since a spike doesn't need to make eye space (it's connected to a secure base), there's nothing you can really do to threaten it. So to stop it you must build a solid wall, and you have to build it far enough back that it doesn't snake around your stones and capture them before you get it built.
+
+Every stone he's able to add to the spike, and every stone that you have to play to build the containing wall, reduces your territory count. So a spike like that can chew up a whole lot of your territory, even though it may not make very much of its own.]
+;B[je];W[kg];B[kf];W[le];B[ne];W[ik];B[ij];W[ek];B[ej];W[lm]
+;B[tt]C[At this point I counted my Moyo, and realizing that I was ahead, I let the game end.
+
+However - In my games in general, I still have some trouble creating life in open spaces. If I had needed to, was there any way to attempt to create life in his open area? If it was possible to create life there, could you walk me through the methods to achieve that, and what the best plays would have been and what kind of defense I would have seen.
+
+----------
+SirBowen:
+
+Yes, indeed. This game has room left for invasions on both sides.
+
+The applicable principle here is "The third line is for territory, the fourth line is for influence."
+
+In the beginning of the game, territory and influence kind of form a trade-off. But territory is the object of the game and, as the game progresses, influence has to be translated into territory.
+
+So if you reach the middle part of the game and still see areas where there are only stones on the fourth line, it's time to start thinking about how to turn it into territory (either by solidifying your own framework or by invading the opponent's framework.)
+
+See the variation on the next move for one possibility of how you could invade Black's framework.]
+
+(;W[tt]TB[bs][as][cr][br][ar][bq][cp][ap][bo][ao][am][cl][bl]
+[ck][ak][gj][bj][aj][ji][ii][hi][gi][fi][ei][di][ci][ai][jh]
+[ih][hh][gh][fh][eh][dh][ch][ig][hg][gg][fg][eg][dg][cg][bg]
+[ag][if][hf][gf][ff][ef][df][cf][bf][af][ie][he][ge][fe][ee]
+[de][ce][be][ae][od][id][hd][fd][ed][cd][bd][ad][oc][nc][mc]
+[lc][kc][jc][ic][hc][gc][fc][ec][dc][cc][bc][ac][nb][mb][lb]
+[kb][jb][ib][hb][gb][fb][eb][db][cb][bb][ab][na][ma][la][ka]
+[ja][ia][ha][ga][fa][ea][da][ca][ba][aa]TW[ss][rs][qs][ps][os]
+[ns][ms][ls][ks][js][is][hs][gs][fs][sr][rr][qr][pr][or][nr]
+[mr][lr][kr][jr][hr][gr][fr][sq][rq][qq][oq][nq][mq][lq][kq]
+[iq][gq][sp][rp][qp][pp][op][np][mp][lp][kp][ip][hp][so][ro]
+[qo][po][oo][no][mo][ko][jo][ho][go][fo][sn][rn][qn][pn][on]
+[nn][mn][ln][kn][jn][in][en][sm][rm][qm][pm][nm][mm][km][jm]
+[em][sl][rl][ql][pl][ol][nl][sk][rk][qk][pk][ok][nk][sj][rj]
+[qj][oj][nj][mj][si][ri][qi][pi][oi][ni][sh][rh][qh][ph][oh]
+[nh][sg][rg][qg][pg][og][ng][mg][sf][rf][se][sd][sc][sb][rb]
+[sa][ra]C[SirBowen:
+
+Follow the variation on this move for some remaining invasion possibilities.]
+)
+(;W[cc]C[SirBowen:
+
+This invasion, at the 3-3 point underneath a 4-4 stone, is very standard, and it's worth about 25 points or so (you only make about 8 points of actual territory, but your opponent loses that many points plus all the extra ones that end up occupied by stones of either color.)
+
+You should look for a chance to use it, even much earlier in the game. And you should consider protecting your own corner against it when you can't see any other move on the board worth this much.
+
+The sequence that follows is fairly typical.];B[dc];W[cd];B[ce]
+;W[be];B[cf];W[db];B[eb];W[cb];B[bf];W[ad];B[fc]C[Here's a key move. It's generally an urgent move that Black must spend to cover his cutting point, which means that White gets the next turn.
+
+As a result, even if White makes this invasion earlier in the game, it's actually "free". White plays next and still gets to make whatever other move he might have been considering.
+
+----------
+Now, as for White's position, there's a similarly open area in the lower right corner and up the right side side, where all the stones are on the 4th line or higher. This is just an invitation to invasion.
+
+There's not a similarly "standard" invasion sequence like the 3-3 invasion. But suffice it to say that White should close off this opening with a move something like...]
+;W[qo]C[...this.]))
+(;W[bp]))
+(;W[bm];B[bl];W[cn];B[bk];W[bn]))
+(;W[cm]))
+(;B[al]C[This move puts four stones into atari...];W[bk]C[...and if White tries to save them...]
+;B[cm]C[...the entire group is in atari...];W[bl]C[...with no way out.]
+;B[bm]))

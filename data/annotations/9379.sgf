@@ -1,0 +1,381 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.16]
+
+GN[Soulangel-Bogoliubon-854701-20140107]
+EV[(Dragon Ladder) Tournament #3: DGS Ladder (19x19)]
+RO[Round 1 of 1]
+PB[Nathan Borggren (Bogoliubon)]
+BR[1d]
+PW[Lars (Soulangel)]
+WR[4d]
+KM[6]
+DT[2013-11-14,2014-01-07]
+PC[Dragon Go Server: http://www.dragongoserver.net/]
+RE[W+Resign]
+RU[Japanese]
+SO[http://www.dragongoserver.net/game.php?gid=854701]
+GC[Game ID: 854701
+Game Type: GO (1:1)
+(Dragon Ladder) Tournament #3: DGS Ladder (19x19); with 599 participants
+Rated: Y
+
+White Start Rating: 4d (-3%) - ELO 2396
+Black Start Rating: 1d (-22%) - ELO 2078
+White End Rating: 4d (+4%) - ELO 2403
+Black End Rating: 1d (-39%) - ELO 2061]
+
+C[Here is a game from the Dragon Go Server correspondence ladder tournament.  It has given me the opportunity to play even games with very strong players and I'd like to make the most of the learning experience.  My main question is on how to reduce the left side.  Even after white 30, I feel black should be able to live.  I, however, died.  Would the fourth line have been better?  How would you proceed?  Any other choices?  I tried to make the most of the aji, but feel the game was lost.  Any other comments or ideas would be appreciated.
+   Best,
+     Nathan
+
+Forfun (hereafter 'ff') - Hi Nathan! Thanks for giving us an interesting game to look at. Unfortunately the game is effectively decided rather early but we can still find some good learning points along the way. I have concentrated on the play before the invasion and how Black handled the play following the invasion. 
+
+If there is one overall comment that I think applies to Black, it is that you are playing patterns that you have seen without really thinking about. This applies to the original fuseki (micro-Chinese or whatever it is called) and to the invasion itself. I don't want to claim that I know them all. I had to go and check some games with that fuseki since I don't use it myself. Also I had to study some invasions as well. I learned alot and hope I can pass some of it on :-)
+
+The point is that Black should have been able to get more out of the position. Go is all about strengths and weaknesses and Black did not pay enough attention to White's weaknesses. We can not efficiently build up our strengths if we are not aware of our opponent's weaknesses and make use of them. Let's see what I mean...]
+;B[qd];W[dd];B[pp];W[dp];B[fc];W[cf];B[lc]C[ff - Black plays a very popular fuseki...]
+;W[qj]C[ff - White answers in the most popular way.]
+(;B[fq]C[ff - Black turns away from the main scene of action. In choosing any variation of the mini-Chinese, Black sets out to construct a loose but fast framework on the top and right side of the board. When White enters at R10, we should be thinking that White is outnumbered four to one on the top and right. There will never be a better chance for Black.
+
+In my pro game database there are 448 games with this position. Black approaches the stone on the right side from the bottom in 431 of them (see the variations). There are only two games where Black plays against the bottom left. Playing at F3 is not a 'bad' play. However, it is definitely not typical. It gives White the chance to take the initiative on the right side.]
+
+(;W[dn]
+(;B[dr]C[ff - There are two things about this play that Black should consider carefully. The first is that it will inevitably end in gote, leaving White free to play first on the right. That is not so good in the context of this game. However, in more general terms, Black should not want to 'force' White to play C3. When White answers here, it establishes the anchor for a very strong fighting shape. Remember this for reference in the future. White's C3 is a fighting move! This may seem strange since we consider the exchange of D2 for C3 so normal.]
+;W[cq];B[iq]
+(;W[dj]C[ff - This is almost certainly a mistake by White. The reason is that with the stones now on C3 at the bottom and C14 at the top, White has no reason to avoid a fight on the left side. In addition, D10 still does not prevent Black from invading the left as in the game. See the variation.]
+
+(;B[fe]C[ff - Black returns the favor. This is not the pivotal point on the board. See the variations...]
+;W[qf]
+(;B[od]C[ff - This seems too passive. The Black shape at the top looks strange now. At this point we have to ask, "Why did Black jump to F15?"]
+
+(;W[of]C[ff - A tight move by White, but it is not clear what would be White's follow up. See the variation...]
+
+(;B[qn]
+(;W[ql]C[kk - White makes a very tight move, too tight. This hands the initiative back to Black]
+
+(;B[oi]C[ff - This can not be good. Black makes White even stronger, which is not necessarily bad. But meanwhile, the P11 stone can not connect naturally to either the top or the bottom. It becomes a target. Its most likely fate is to be absorbed by White, which is a loss for Black and a gain for White. This is better left unplayed.]
+;W[ph]
+(;B[nf]C[ff - Black wants to wall off the top. This is not a bad idea but in doing so, Black should think about the left side. What does Black want to do on the left? If Black wants to invade the left, now seems to be the time, before White can strengthen it further. In the game, White responds to Black's attempt to enclose the top with the play at F13, which both limits the Black top and expands/strengthens the White left. 
+
+It seems better for Black to decide to commit to enclosing the top and recognise that the best way to go about it is to start on the left because the left is more open than the right.]
+;W[ng];B[mf];W[oe];B[nd];W[mg]
+(;B[lf]C[ff - This is too passive, Black needs to hane here...]
+;W[fg]C[ff - In the last few plays, White has suddenly come to dominate the board. Black has not gotten enough out of the top. So we have to invade the left after all?]
+
+(;B[cl]C[ff - This would be the standard invasion point in this position.]
+;W[dl]C[ff - White's attachment is the most common response. Now how does Black plan to live?]
+
+(;B[ck]C[ff - This is a standard idea and Black should be able to produce a reasonable result.]
+
+(;W[cj];B[bj];W[bi];B[dk];W[ek]
+(;B[bk]C[ff - However, this move is too heavy and ignores Black's potential on the side. Black has to be more postive here. White still has defects that allow Black to invade. In all invastions we need to be able to think about how to use them. There are books that will tell us, pro games that will show us, and our own experience that will allow us to accumulate a practical examples (not to mention GTL reviews of course!) :-)]
+;W[el]
+(;B[bm]C[ff - This is dead. There simply isn't enough space for eyes.]
+;W[bn];B[al];W[aj]C[ff - Black dies for basically no compensation.]
+;B[cn];W[co];B[dm];W[em];B[cm]
+(;W[bo];B[ej];W[ci];B[en]
+(;W[do];B[fj];W[fn];B[dh];W[ei];B[di];W[dg];B[eh];W[fh];B[ch]
+;W[bh];B[eg];W[ef];B[fi];W[cg];B[ei];W[ff]C[ff - At this point the game is effectively over. White has a substantial lead and Black has more weak stones than White.]
+;B[hj];W[hl];B[hh];W[hf];B[hd];W[jg];B[il];W[im];B[jl];W[hk]
+;B[ij];W[id];B[ic];W[ie];B[jc];W[ik];B[jh];W[lg];B[jk];W[hm]
+;B[db];W[kh];B[ki];W[li];B[kj];W[kq];B[mq];W[qq];B[pq];W[pr]
+;B[or];W[ro];B[rn];W[qo];B[po];W[rr];B[ps];W[qr];B[pm];W[qs]
+;B[jo];W[jm]
+(;B[ig];W[ko];B[km];W[kn];B[bg];W[bf];B[eo];W[fp];B[jn];W[jp]
+
+(;B[eq];W[ep];B[jr];W[on];B[nn];W[oo];B[om];W[no];B[pn];W[mn]
+;B[lm];W[nl];B[nm];W[mm];B[ml];W[ln];B[mk];W[kr];B[ip];W[io]
+;B[jq];W[kp];B[pj];W[rd];B[rc];W[re];B[cc];W[rb];B[qc];W[hr]
+;B[hq];W[gp];B[gq];W[sc];B[jf];W[kg];B[qi];W[pi];B[qk];W[rj]
+;B[pk];W[rk];B[pl];W[nj];B[tt]C[Result: W+Resign])
+(;B[go]C[ff - Last chance? But if White defends carefully, it does not seem to work...]
+;W[fo];B[io];W[ip];B[hp];W[hq]
+(;B[gq];W[hr]
+(;B[gp];W[ir];B[eq];W[ep];B[cr];W[br];B[gr];W[cs])
+(;B[ir];W[ho];B[hn];W[in];B[ho];W[gp]))
+(;B[hr];W[gq];B[gp];W[ho];B[hn];W[in];B[gr];W[ho])))
+(;B[ln]C[ff - Black has to be willing to take some risk here. White has overplayed at the bottom. If Black can capture it cleanly, there might still be a chance...]
+;W[ih];B[ll]))
+(;W[fn]C[ff - Here also White had a better move. Black can not breakout.]
+
+(;B[do];W[eo];B[dn];W[fp])
+(;B[eo];W[do])))
+(;W[bp]C[ff - Notice that this would have been better shape for White.]
+))
+(;B[bn]C[ff - Stretching this far still fails to create sufficient eye space...]
+;W[bo]
+(;B[bm];W[al];B[co];W[bp];B[do];W[eo];B[cn];W[fp];B[en];W[dm]
+)
+(;B[bh];W[ci];B[ai])
+(;B[co];W[bp];B[cn];W[do]))
+(;B[co]C[ff - The last chance for Black seems to be peeping at the gap in White's stones...]
+
+(;W[do];B[bp]C[ff - Black stretches to the max...]
+(;W[bn];B[cn];W[cm];B[bm];W[bo];B[cp];W[bq];B[dm];W[ap];B[cm]
+;W[em];B[an])
+(;W[cn];B[bn];W[cp];B[bo];W[bm];B[cm];W[an];B[bl];W[am];B[al]
+;W[aj];B[ao];W[am];B[bq]))
+(;W[cn]C[ff - This moves cuts off the middle stones but it looks like there is litle problem for the lower left to live...]
+;B[bn];W[bm];B[bp]
+(;W[cm]
+(;B[do];W[eo]
+(;B[ep];W[cp];B[bo];W[bq])
+(;B[br];W[cp];B[bo];W[bq];B[aq];W[ap];B[ao];W[cr];B[cs];W[eq]
+;B[er];W[am])
+(;B[bq];W[cr]
+(;B[ep];W[cp];B[bo];W[eq];B[fp];W[br]
+(;B[er];W[aq])
+(;B[ar];W[er]))
+(;B[br];W[eq];B[cp];W[dq];B[ao];W[fr])))
+(;B[bq];W[cr]
+(;B[do];W[eo];B[ep];W[eq];B[fp];W[cp];B[bo];W[br];B[fo];W[en]
+;B[er];W[ar])
+(;B[br]
+(;W[er];B[do];W[eo];B[ep];W[eq];B[fp]
+(;W[ds])
+(;W[cp];B[bo];W[ds];B[fr];W[bs];B[ar];W[fs];B[gs];W[gr];B[es]
+;W[dq];B[fs];W[an];B[as]))
+(;W[bs];B[do];W[eo]
+(;B[ep]
+(;W[eq];B[fp];W[er];B[cp];W[dq];B[fo];W[en];B[fr];W[ds];B[ao]
+)
+(;W[cp];B[bo];W[eq];B[fp];W[er];B[fr]
+(;W[an];B[es])
+(;W[ds];B[fs]
+(;W[an];B[es];W[dq];B[ar];W[ao];B[as];W[ap];B[cs])
+(;W[ar];B[aq];W[an];B[as]))))
+(;B[cp];W[dq];B[ao];W[fp]
+(;B[eq];W[ep])
+(;B[am];W[al];B[an];W[bl];B[eq];W[ep];B[gp];W[go];B[hp]))))))
+(;W[an];B[ao]C[ff - Black will happily use the cuts at C11 and E10 to fight a ko...]
+;W[cm];B[am];W[bl];B[bq];W[cr];B[br];W[bs];B[cp]))
+(;W[bm]C[ff - This is the potential killer however...]
+(;B[do];W[eo]
+(;B[ep];W[cp];B[en];W[fo]
+(;B[dm];W[cn];B[cm];W[bo];B[em];W[gm];B[ci];W[di];B[ch];W[bh]
+;B[ej];W[dh];B[gn];W[fn];B[fm];W[gl];B[fl];W[fk];B[gk];W[fj]
+;B[gj];W[fi];B[hm])
+(;B[cn];W[dm];B[cm];W[bo];B[bn];W[bp];B[am];W[aj];B[ak];W[bl]
+;B[bh];W[ci];B[ai];W[ch];B[bg];W[bf]
+(;B[cr];W[br];B[bs]
+(;W[eq];B[fp];W[er])
+(;W[aq];B[ao];W[eq];B[fp];W[er]))
+(;B[dq];W[cr])))
+(;B[cn];W[cm];B[en];W[dm];B[ep];W[fo];B[cp];W[dq];B[bq];W[cr]
+;B[br];W[er];B[eq];W[ds];B[bs];W[cs];B[fr];W[bp];B[bo];W[ao]
+;B[ap];W[an];B[fs])
+(;B[bp]
+(;W[bn];B[bq];W[cr];B[br];W[bs];B[ep];W[eq];B[fp];W[er];B[en]
+)
+(;W[cn];B[bn];W[cp];B[bo];W[cm];B[bq];W[cr];B[br];W[eq];B[cs]
+;W[bs];B[as];W[er];B[fp];W[ep];B[an];W[am];B[lq])))
+(;B[bn];W[cm];B[bp]C[ff - This is not sente now...]
+(;W[do]C[ff - If White has to connect, Black is good.];B[bq]
+;W[cr];B[br];W[bs];B[ao])
+(;W[bq]C[ff - But it seems there are not enough liberties for Black...]
+;B[do];W[eo];B[ep];W[cp];B[aq];W[ar];B[ao]
+(;W[ap])
+(;W[br]
+(;B[dq];W[cn];B[bo];W[am];B[cr];W[an])
+(;B[en];W[fo];B[cn];W[dm];B[dq];W[am];B[an];W[ap]))))
+(;B[bp]C[ff - Black falls back on simply playing here?]
+(;W[bq];B[cm];W[cn];B[bn];W[an]
+(;B[bo]C[ff - This is a very complex situation. White can prevent Black from making two eyes. But White still has weaknesses as well...]
+;W[am]
+(;B[do];W[eo])
+(;B[al];W[aj];B[do];W[eo];B[ep];W[dm];B[ao]
+(;W[cp];B[bl];W[am];B[aq]
+(;W[ar];B[cr];W[br];B[dq];W[ap];B[bs];W[bm];B[an];W[bm];B[aq]
+)
+(;W[eq];B[fp];W[er];B[br];W[cr];B[ar];W[bs];B[fr];W[cs];B[es]
+;W[dq];B[fs]))
+(;W[eq];B[fp];W[er];B[dq];W[cp];B[bl]
+(;W[am]
+(;B[fr]
+(;W[aq];B[cr])
+(;W[cr];B[es];W[aq];B[bs];W[ap];B[cs];W[bm];B[an];W[bm];B[am]
+;W[ai];B[ar]))
+(;B[cr];W[br];B[fr];W[cs];B[es]
+(;W[ar])
+(;W[bs]
+(;B[ar];W[aq];B[ds];W[ai];B[ap];W[ak];B[as];W[bm];B[db])
+(;B[aq];W[ar];B[ds];W[ap];B[fo];W[en];B[aq];W[bm];B[an];W[ap]
+;B[ci];W[di]))))
+(;W[cr]C[ff - It seems like White finally has to step back and live in the corner]
+;B[fr];W[ds];B[fo]))))
+(;B[ao]C[ff - Otherwise Black has to settle for ko.]))
+(;W[cn];B[bn];W[cm];B[bq];W[cr];B[br];W[bs];B[cp];W[dq];B[ao]
+;W[do];B[lq])))))
+(;B[ci]C[ff - Black should cut to check White's response. This is a key point to be remembered for similar positions in the future...]
+
+(;W[bk]C[ff - Impossible immediately...]
+(;B[el];W[cm];B[bl];W[aj];B[dm];W[em];B[dl];W[fl];B[fm];W[en]
+;B[fk];W[gl];B[ej])
+(;B[ej];W[di];B[el];W[fk];B[dm];W[bl];B[bm]))
+(;W[di]C[ff - Normally White turns here. A big question left behind is - under what conditions can Black play C12 in the future?]
+
+(;B[ch]
+(;W[bk]C[ff - Right now it does not work very well...];B[el]
+;W[dm];B[ej];W[fk];B[eh];W[ei];B[fi];W[fj];B[dh];W[aj];B[fh]
+C[ff - Although it does have some meaning.])
+(;W[bh];B[el];W[dm];B[ej];W[fk]
+(;B[dh];W[ei])
+(;B[bg];W[bk];B[cg];W[df]
+(;B[eh];W[aj];B[ei];W[eg];B[dh];W[bj];B[gi])
+(;B[ei];W[dh];B[dg];W[eh];B[eg];W[fh];B[ef];W[cc];B[be]C[ff - If White's corner would conveniently die, this would be interesting :-)]
+))))
+(;B[bk]C[ff - This move is heavy. It does not make sufficient eye space for Black unless there is a very good threat to pull out C11.]
+;W[dm]C[ff - If White can answer calmly here, it does not seem that there is enough potential for Black to live here.]
+
+(;B[ch];W[bh]C[ff - Nothing here])
+(;B[bn];W[bo];B[co];W[bp];B[cn];W[do]C[ff - The C3 stone is in just the right place to stop Black.]
+;B[ch];W[bh]))
+(;B[bl]C[ff - This is a more interesting move]
+(;W[aj]C[ff - If White tried to immediately refute it...];B[ak]
+;W[bk];B[dm];W[el];B[bj];W[ai];B[em];W[cm];B[cn];W[bm];B[bn]
+;W[bk];B[am])
+(;W[cm]C[ff - This type of thing is an overplay because it does not fix any of the cutting points in White's position...]
+;B[el]
+(;W[dm];B[ch])
+(;W[em];B[dm];W[fl];B[dl];W[fj];B[cn]))
+(;W[el];B[ai];W[ch];B[bn]C[ff - Black proposes to live peacefully...]
+;W[ak]C[ff - If White objects to the plan...]
+(;B[aj]C[ff - Too soon!];W[bo];B[co];W[bp];B[cn];W[do];B[al]
+;W[an];B[am];W[cm])
+(;B[bp]C[ff - But simply this...]
+(;W[co];B[bo];W[aj];B[dq];W[cp];B[br]C[ff - Connected])
+(;W[bq];B[aj])))
+(;W[dm]C[ff - This looks like the toughest resistence...];B[ai]
+C[ff - This may be the most straight forward...];W[ch];B[bn]
+
+(;W[ak]
+(;B[co]C[ff - When White has played D7 instead of E8, Black needs to be careful. The push and cut is less of a threat...]
+;W[bp]C[ff - This is hard to answer!])
+(;B[bp]C[ff - Simply here is safer...];W[co];B[bo]
+(;W[bq];B[aj];W[ap];B[ao];W[am];B[al])
+(;W[aj];B[dq];W[cp];B[br])
+(;W[cm];B[bm];W[aj];B[dq];W[cp];B[br])))
+(;W[ah];B[bp];W[aj];B[co];W[do];B[dq];W[cp];B[br];W[cn];B[bo]
+;W[bq];B[aq];W[cr];B[cs];W[al];B[am];W[bk];B[bm]))))))
+(;W[dk];B[cj];W[ci];B[bi];W[ch];B[bn];W[bo];B[cn];W[co];B[bh]
+;W[bg];B[aj]))
+(;B[cm]C[ff - This is another standard play. Black uses White's weaknesses...]
+
+(;W[dm];B[bj]
+(;W[bi];B[ci];W[cj];B[bh];W[bk];B[ai];W[ck];B[bf];W[be];B[cg]
+)
+(;W[cn]
+(;B[ci];W[dh];B[bg];W[bf];B[cg];W[dg];B[bn];W[bo];B[am])
+(;B[di]C[ff - Black can even consider wthether moves like this will work, intending to sacrifice the two C8 stones]
+;W[cj];B[ci];W[bk];B[bh];W[aj];B[bi];W[ck];B[bf];W[be];B[cg]
+;W[df];B[ae];W[ad];B[af];W[bd];B[dg];W[eg];B[ei]))
+(;W[ci];B[bi];W[bh];B[ch];W[dh];B[bo];W[bp];B[co];W[dq];B[cj]
+;W[di];B[al]))
+(;W[ck]C[ff - If White goes all out...];B[dm];W[em];B[el];W[dk]
+;B[en];W[fm];B[do];W[eo];B[cn];W[fn];B[cp]
+(;W[bp];B[ep]
+(;W[dn];B[dq])
+(;W[co];B[fo]))
+(;W[dq];B[bq];W[bp];B[co];W[br];B[aq];W[ar];B[ep]
+(;W[fo];B[cr];W[ap];B[bq];W[aq];B[eq];W[bq];B[bo])
+(;W[dn];B[cr];W[ap];B[bq];W[aq];B[eq];W[bq];B[bo];W[ao];B[en]
+
+(;W[bl];B[fo];W[an];B[bm];W[am];B[bk];W[al];B[bj])
+(;W[fo];B[an];W[am];B[bn];W[bl];B[bs])))))
+(;B[cg]C[ff - The other idea at this point is whether Black can play something like this as a forcing move...]
+;W[dg];B[ck];W[cj];B[bj];W[bi];B[dk];W[ek];B[ci];W[di]C[ff - Here we see the point of C13. Black threatens to connect at C12...]
+
+(;B[bl]C[ff - Black uses the threat indirectly...];W[ch];B[dm]
+;W[el];B[em];W[fm];B[en])
+(;B[ch]C[ff - Or Black might decide to use it directly...]
+(;W[bk];B[el];W[dm];B[ej];W[fk];B[dh];W[ei];B[eh];W[fi];B[fh]
+;W[gh];B[gi];W[fj];B[eg];W[ef];B[df];W[de];B[gg];W[bg];B[bh]
+;W[aj];B[bf];W[dg];B[hh];W[ff];B[gf])
+(;W[dh];B[bh];W[bk];B[ai];W[bl];B[bf]))))
+(;B[oq]C[ff - What if Black decides not to invade?];W[hp];B[hq]
+;W[fp];B[ip];W[ho];B[jm];W[om];B[nn];W[hm]C[ff - This looks better for White.]
+)
+(;B[fn]C[ff - The other alternative for Black is to try to win without invading / prepare the invasion...]
+
+(;W[or]C[ff - If White invades the bottom...];B[pr];W[oq];B[pq]
+;W[kq];B[cl]C[ff - How does F6 affect the invasion?])
+(;W[el];B[oq];W[gm]C[ff - Can Black compete against White's side and center potential? It does not look easy. I think invading was the right choice.]
+;B[om])))
+(;B[lg]C[ff - Black is strong eough at the top at the top for this.]
+;W[lh]
+(;B[kh]C[ff - But possibly not for this! :-)]
+(;W[kg];B[lf];W[li];B[jh])
+(;W[lf]C[ff - Does Black need to fear this?..];B[kg];W[ne];B[me]
+;W[md];B[le];W[ld];B[ke];W[kd]
+(;B[mc];W[je];B[kf];W[id];B[he];W[if];B[hg]C[ff - And fight! :-)]
+)
+(;B[je];W[mc]
+(;B[nb];W[mb];B[ob];W[ic])
+(;B[lb];W[ob]))))
+(;B[kg];W[kh];B[jg]
+(;W[jh];B[ih])
+(;W[fg];B[jh];W[mi]))))
+(;B[dh]C[ff - Notice that this move gives up the idea of invading the left side. However, Black should be willing to do that if the strategy of enclosing the top looks like a winner. Trying to leave all the options open means that White will have better counterplay later.]
+;W[ch];B[dg];W[cg];B[nf];W[ng];B[mf];W[oe];B[nd];W[mg];B[lg]
+)
+(;B[eh]C[ff - Here Black rather probes White...]
+(;W[ch]C[ff - If White shuts off the side, enclose the top!]
+;B[nf])
+(;W[dg]C[ff - If White answers more aggressively, invade the top...]
+;B[cl]C[ff - The E12 stone will help with the invasion.]))
+(;B[cl]C[ff - On the other hand, if Black is not confident of winning by enclosing the top, it is better to start invading now. Most of all, Black has to choose a course of action. If the choice is to invade the left, start now. If the choice is enclose the top, play to use sente to shut off both sides.]
+))
+(;B[oq]C[ff - Just this would give Black more value from P3 than White will get from R8.]
+)
+(;B[eh]))
+(;W[or]C[ff - White goes ahead and invades deeply...];B[pr]
+;W[oq];B[pq];W[kq])
+(;W[jo]C[ff - Or more lightly erases...];B[hp]
+(;W[hn])
+(;W[jq];B[jr];W[kq];B[kr];W[ho])))
+(;B[eh]C[ff - Will White ignore this? Perhaps so...];W[qn];B[ch]
+;W[db];B[dl])
+(;B[fg];W[qn]))
+(;W[qn];B[np]C[ff - The game has a long way to go, but it feels like White has had it too easy on the right side.]
+))
+(;B[qh]C[ff - Black would prefer to start a fight I think. However, it may end up an overplay since Black has not yet played up from the bottom right...]
+;W[of];B[pi];W[od]C[ff - Who is in more trouble here?])
+(;B[pe]C[ff - Possibly this would make more sense out of the jump to F15...]
+;W[pf];B[of];W[og];B[oe];W[qn];B[np];W[qq];B[qp];W[rp];B[pq]
+;W[rr];B[qr];W[rq];B[ng];W[oh];B[eh]))
+(;B[pi]C[ff - From this side?])
+(;B[qn]C[ff - Or from here?];W[qf]
+(;B[qh]C[ff - And fight...])
+(;B[od];W[ph];B[db];W[cc];B[hd];W[or];B[pr];W[oq];B[pq];W[kq]
+;B[jo];W[ko];B[jn];W[no];B[cl])))
+(;W[qn];B[cl]C[ff - If Black invades...];W[hp]C[ff - A fairly standard preparation...]
+;B[hq];W[cj]C[ff - And fight. White has a nice active position and a weak Black stone to chase. Life is good :-)]
+))
+(;B[jp]C[ff - If Black really wanted to finish off the bottom, this seems more natural here. I leaves White less developed and therefore makes it easier to play C8 for example. It also leaves behind the 3-3 invasion at C3, which is more valuable when White has played D6 than when White has played C6.]
+))
+(;W[qn]C[ff - In this micro-Chinese and in the usual mini-Chinese (with the M17 stone on L17), professionals as White almost always sieze the chance to play first on the right side like this if Black plays in the lower left.]
+)
+(;W[cn]C[ff - In the one professional game that I have where White answered in the lower left, Black treated F3 as a forcing move and returned to the right side, but now approached from the top rather than the bottom (Yang Dingxin [white\] - Meng Tailing; 2011 China Weiqi League, 2011-07-14)...]
+
+(;B[pi];W[qi];B[ph];W[qh];B[qg];W[qm];B[rg];W[ok];B[nq];W[hc]
+;B[ge];W[ie];B[de];W[ce];B[dc];W[ed];B[ec];W[cc];B[fd];W[ee]
+;B[cb];W[bc];B[ic];W[le];B[id];W[pg];B[og];W[pf];B[oe];W[pe]
+;B[pd];W[of];B[nf];W[ng];B[ne];W[oh];B[mg];W[je];B[he];W[ig]
+;B[mh];W[oi];B[kd];W[ke];B[me];W[ld];B[mc];W[jd];B[jc];W[kc]
+;B[kb];W[lf];B[ii]C[ff - Black went on to win this game :-)]
+)
+(;B[dr]C[ff - Note that if Black tried to continue as in the game, White would almost certainly ignore it and play on the right side...]
+;W[qn])))
+(;B[qn]C[ff - The main reply at the professional level is the small knight move here. Black pushes White toward the top but from a distance. Black wants to limit White's counter chances on the bottom in case the fighting at the top strengthens the White stones.]
+
+(;W[qg]C[ff - Over the years White has played many different extensions up the right side, but this is the most common by a wide margin.]
+;B[pf]
+(;W[re]C[ff - There are various branches at this point.];B[pg]
+;W[qe];B[pe];W[rd];B[qc])
+(;W[qf];B[qe];W[oe];B[pe];W[le])
+(;W[qc]C[ff - Even this to create some aji];B[pc];W[pg]))
+(;W[rf];B[fq])
+(;W[pg];B[qf]))
+(;B[ql]C[ff - This is the current alternative among the pros. Black goes all out from the bottom corner. This puts more pressure on White immediately. However, later it leaves Black more open to counter attack in the bottom right.]
+;W[qg];B[pf])
+(;B[qm]C[ff - In the early days of this fuseki the large knight's move here was also tried. Recently it is not seen often as Black either holds back at R6 or goes all out at R8.]
+))

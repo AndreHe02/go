@@ -1,0 +1,153 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.16]
+
+PB[hc12]
+BR[4k]
+PW[tatata]
+WR[3k]
+KM[0.5]
+DT[2013-09-26]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[W+Resign]
+TM[600]
+OT[5x20 byo-yomi]
+RU[Japanese]
+
+C[hc12 [4k\]: hi
+tatata [3k\]: hh];B[pc]C[Hello ! Please help me to review this game with a few questions that I have .Thank you very much .]
+;W[pp];B[cd];W[dp];B[qe];W[ec]TR[pc][qe]C[The low approach here is not the best idea for white because it allows black to make a very nice pincer that works well with his enclosure on the top right.]
+
+(;B[gd]LB[pa:5][pb:4][pc:3][pd:2][pe:1]C[This pincer has the right idea, but the wrong execution.
+
+On the top right, the enclosure can be viewed as a wall of 5 high. There is a saying that says "extend from walls by the length of the wall +1"
+In this case that would be a 6 space extention from the top right corner.
+
+See variation.]
+(;W[ee];B[df];W[gb]LB[gb:B][ee:A]C[Understanding the joseki that you are playing is very important.
+
+White does not understand the joseki that he is playing because he first jumps out with A and then goes back with B.
+Move A indicates that white wants to run away into the center. But move B directly contradicts that by running back towards the side.]
+
+(;B[hc]LB[hc:B][df:A]TR[gb]C[Can you tell me how to response with this Joseki ?
+
+-----------------------------------------------------------------------
+
+Black does not understand the joseki he is playing either and failed to punish white for his mistake of moving back to the side with the marked stone.
+
+Move A indicates that black wants to surround white and prevent him from running into the center. But move B leaves the path to the center open and tries to stop white from going to the side.
+
+A better move: see variation.];W[cc];B[bc];W[cb];B[de];W[dd]
+;B[be];W[bb]
+(;B[di]C[This is too passive!]
+(;W[ff]C[This is also too passive!];B[cn];W[fp]
+(;B[jq]
+(;W[lq]C[Which move is the best that I can play it ?]
+(;B[qn]LB[cn:A][qn:C][jq:B]C[Moves A,B and C are 3 moves in 3 different directions.
+Black should have chosen a direction to play in and finished that plan.]
+;W[hq]
+(;B[ck]C[This is too passive! This is almost the same as passing.]
+;W[rp];B[qk]LB[hq:B][lq:A]C[The move on R9 is too passive to attack with white shape ? Can I use K3 to attack white which is better ?
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+R9 is fine. It defends your R6 stone.
+You gave up K3 by playing elsewhere several times.
+
+Black ignored A and B. This puts the black K3 stone at a 2 vs 1 disadvantage. Fighting there would be unwise. Treat this stone as aji now.
+Previously, I pointed out that black should have jumped into the center as a response to white A. It is too late to do so now.]
+;W[ib]C[This move is worth nothing.]
+(;B[jd];W[jc];B[hb]C[Pushing here makes white stronger];W[ha]
+;B[fb]C[Trying to cut something that is uncuttable makes white stronger.]
+;W[fc];B[ic]C[Pushing here makes white stronger];W[jb];B[kd]
+C[Black has pushed at white's shape and gained nothing. White was able to reduce the aji in his shape.
+A general rule is that if a move does not give you a direct advantage, don't play it until it does!]
+;W[lc]C[This move is too small right now. Black is creating a moyo towards the center.]
+;B[kc]C[Pushing here makes white stronger];W[kb];B[ld];W[lb]
+;B[mc];W[mb];B[nc]
+(;W[pj];B[qj];W[ph]
+(;B[qq];W[qp];B[or];W[nq];B[oq];W[op];B[rq];W[nr];B[rs]
+(;W[kp];B[qi]C[This move was necessary!!!!];W[nh]
+(;B[og];W[pi];B[oh]LB[ph:A]TR[og][qi]C[This is an extremely bad shape for black!!]
+;W[qh];B[oi];W[qf];B[rf];W[pf];B[pe];W[of]TR[pe][og]C[This is also very bad shape.]
+;B[ng];W[nf];B[rh];W[rg];B[sg];W[qg];B[re];W[me];B[md];W[mg]
+TR[ng][og][oh][oi]C[The marked stones are now in great danger!
+
+This is the end of the review.
+The way I like to review is not to review the fights / captures of groups that are the result of a mistake that was made, but to address the mistakes that were made leading to this result. The situation on the board right now should have never happened.
+
+I hope this review was useful for you.];B[mh];W[lh];B[mi];W[li]
+;B[lg];W[mf];B[mj];W[lj];B[mk];W[pk];B[ql];W[pl];B[pm];W[nl]
+;B[lk];W[kg];B[lf];W[le];B[kf];W[ke];B[jf];W[je];B[kh];W[if]
+;B[jg];W[id];B[jj];W[cp];B[hr];W[gr];B[iq];W[hp];B[jo];W[jp]
+;B[io];W[ip];B[gn];W[eh];B[dh];W[fi];B[fj];W[gj];B[gk];W[ej]
+;B[fk];W[ei];B[gi];W[ek];B[dl];W[el];B[hj];W[ln];B[km];W[rn]
+;B[rm];W[so];B[sr];W[ob];B[pb];W[nb];B[gg];W[oc];B[eg];W[fg]
+;B[gf];W[hd];B[fe];W[ef];B[gc];W[ga];B[bo];W[bp];B[qo];W[ro]
+;B[nn];W[nm];B[on];W[lm];B[ll];W[ac];B[dg];W[bd];B[ce];W[ae]
+;B[af];W[bf];B[ad];W[pq];B[pr];W[ae];B[ag];W[bg];B[ad];W[ri]
+;B[sh];W[ae];B[ah];W[bh];B[ad];W[sf];B[se];W[ae];B[ai];W[bj]
+;B[cj];W[bi];B[ad];W[si];B[sf];W[ae];B[fa];W[ia];B[ad];W[os]
+;B[ae];W[qr];B[hh];W[en];B[em];W[dm];B[fm];W[fh];B[dn];W[pa]
+;B[qa];W[oa];B[rb];W[ap];B[eo];W[fo];B[ko];W[lo];B[fn];W[fd]
+;B[ge];W[sm];B[sl];W[sn];B[ao];W[co];B[bm];W[po];B[pn];W[od]
+;B[pd];W[ho];B[hn];W[kn];B[jm];W[jn];B[in];W[go];B[ep];W[eq]
+;B[do];W[oj];B[ni];W[ig];B[ih];W[dk];B[cl];W[fl];B[gl];W[bc]
+;B[hg];W[om];B[nk];W[ok];B[mm];W[mn];B[ml];W[ol];B[mo];W[lp]
+;B[np];W[no];B[oo];W[ps];B[ie];W[he];B[hf];W[ie];B[oe];W[nd]
+;B[dq];W[cq];B[dr];W[cr];B[fq];W[er];B[fr];W[ds];B[gq];W[gs]
+;B[fs];W[ir];B[hs];W[jr];B[qm];W[mp];B[rj];W[no];B[sj];W[ed]
+;B[tt];W[tt]TW[aa][ba][ca][da][ea][fa][ja][ka][la][ma][na][ab]
+[db][eb][fb][dc][kc][mc][nc][jd][kd][ld][md][mo][gp][np][sp]
+[aq][bq][dq][fq][gq][iq][jq][kq][mq][oq][qq][rq][sq][ar][br]
+[dr][fr][gr][hr][kr][lr][mr][or][pr][rr][sr][as][bs][cs][es]
+[fs][gs][hs][is][js][ks][ls][ms][ns][qs][rs][ss]TB[ra][sa][qb]
+[sb][qc][rc][sc][qd][rd][sd][bf][cf][bg][cg][kg][bh][ch][jh]
+[lh][nh][bi][ci][hi][ii][ji][ki][li][ri][si][aj][bj][gj][ij]
+[kj][lj][ak][bk][hk][ik][jk][kk][rk][sk][al][bl][hl][il][jl]
+[kl][rl][am][cm][dm][gm][hm][im][an][bn][en])
+(;B[pi];W[oi];B[og];W[oh];B[rg]C[Black needs to make white heavy and connect his stones first if he wants to attack.]
+)
+(;B[qh]C[This is probably the most solid option!]))
+(;W[qi]LB[ph:A][qi:B]TR[rp]C[White should attack blacks group now, this is punishment for ignoring white's move at A and neglecting to play B himself.
+Black is "undercut" by the marked stone so it is hard for him to make a base like that.]
+;B[rn];W[ri];B[rj]LB[rl:A]C[A is the vital point.];W[rl]C[Black is now a running group.]
+))
+(;B[qi]C[Black should just take the points and attack white's shape more.]
+))
+(;W[pi]LB[pf:J][qf:I][og:E][qg:A][nh:L][rh:B][mi:G][ni:F][ri:C]
+[nj:K][ok:D][pk:H]C[Personally, I would try to reduce like this because it has more options.]
+))
+(;B[kc]C[Try to connect all your stones. This gives black points in sente.]
+;W[ic]
+(;B[id];W[jd];B[jc];W[je]C[Cutting here can be risky for white.]
+)
+(;B[je]C[Black can also threaten to connect like this.]
+(;W[id])
+(;W[bp];B[id]C[If white ignores, black will connect his stones.]
+))))
+(;B[en]C[If you want to develop the left side, do it in a big way! Don't think small, think big! Very big!]
+))
+(;B[jo]C[Black should run towards the center.]))
+(;W[hq];B[nq];W[lq]LB[hq:A]C[White is in a good position here thanks to A.]
+))
+(;B[bp];W[cq];B[en]C[Stick with the original plan, don't change your mind too fast.]
+))
+(;W[ef]C[Simply extending here puts more pressure on black.]
+;B[eg];W[gf];B[fg];W[ge];B[cn]LB[di:A]TR[hc][gd]C[The marked stone at A is now not necessary anymore.
+The 2 marked black stones are very weak and will most likely die or give white a big advantage by harassing them.]
+))
+(;B[ef]C[Making the turn here is a better move for black because white can't ignore it.]
+
+(;W[cn];B[fe]C[If white ignores it, black is connected and white is completely sealed into the corner. This is a good result for black.]
+)
+(;W[fe];B[cn]LB[cn:A]C[If white tries to stop black from closing him into the corner, black gets the nice extension at A]
+)))
+(;B[ef]C[Black simply blocks white from running into the center. With this move you are treating A lightly. Sacrificing it to make a wall facing the bottom.
+Black will end in sente here.];W[fe];B[gg];W[ge];B[cn]TR[cd]
+[df][ef][gg]C[Black can now make a really nice approach at the bottom using his approach as an extention of his wall.]
+))
+(;AB[ic]AE[gd]LB[ic:A][jc:6][kc:5][lc:4][mc:3][nc:2][oc:1]C[This is why the extention at J17 is optimal for black.
+
+Playing the black stone on the 3rd line makes it harder for white to make a base, and because black has no box shaped moyo forming, playing high is not optimal for black.]
+))
+(;B[ic]LB[de:A][ef:B]TR[gc]C[Making a 1 space extention is extremely unfavorable for white, so the only option is to jump out at A or B]
+))

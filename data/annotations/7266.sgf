@@ -1,0 +1,168 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[utf-8]AP[SGFC:1.15]
+
+GN[19x19 ladder challenge: LeonidLenov vs Blackout]
+EV[OGS 19x19 Ladder]
+PB[Blackout]
+BR[15k]
+PW[LeonidLenov]
+WR[13k]
+KM[6.5]
+DT[2009-04-29,2009-05-13]
+PC[Online Go.com: http://www.online-go.com]
+RE[W+6.50]
+RU[Japanese]
+GC[Game ID: 156043]
+
+C[Dear reviewer,
+In this game I played as White.
+The game was played on the OGS.
+I would especially like if You could point out  the opening mistakes.
+Also I would appreciate You comments on my M3 invasion.
+In the end I won by 6.5, mostly because I played better endgame I think.
+Thanks for the review in advance.
+
+SZ: My comments are marked SZ, where your comments are present.]
+;B[pd];W[cp];B[pp];W[dc];B[ep]
+(;W[dn]DO[]
+(;B[hp]LB[cq:A][iq:B][ip:C]C[Too narrow and too distant from the star point. I prefer A; B or C are more interesting too.]
+BM[1];W[dq]TE[1];B[eq]TR[hp]C[B triangled stone is too narrow now obviously.]
+;W[cj]LB[co:A][kc:B][qj:C][ce:D]C[Feels slow and still leaves some aji at A. B,C,D are bigger points on the board.]
+DO[];B[cf]TR[cj]LB[de:A][ce:B][nc:C][pj:D][jc:E]C[Black does not have natural 2-point extension because of marked stone. Either A or B seem to be better locally, I'd prefer playing more globally - C, D or E.]
+BM[1];W[cd];B[ef];W[fc]LB[fd:A]C[Better higher. This puts no pressure on black.]
+;B[dj]LB[co:A]C[This move helps white fix all aji around A.]
+BM[1]
+(;W[ck]TE[1];B[ci]TR[di]C[Marked cut will be very interesting for w later.]
+DO[];W[qj]TE[1];B[qh]
+(;W[qn]LB[ql:A]C[Not a proper move. Invasion at A would be hard on white.]
+;B[qo]TR[ql]C[There is gap in W position which B is trying to fix with this move. After such move, you should say "Thank you!" to your opponent.]
+BM[2];W[pn];B[np];W[pk]TR[qf]LB[oj:A]C[Q: Was this move bad? Why? Should I have played somewhere around O17 instead?
+
+SZ: Overconcentrated and too soft. Jump at A is vital here. With the jump, you don't just defend - you e.g. prepare invasion to R14.]
+BM[1];B[oh];W[nc]LB[pc:A]C[If black just defends at A, he gets big territory. Moreover, he will get sente to fix bottom.]
+;B[ld];W[qc];B[pc];W[qd];B[qe];W[re];B[qf];W[pb];B[ob];W[qb]
+;B[oc]C[Okay, let's stop here for a moment and evaluate the game a bit.
+T-top, L-left, R-right
+B-bottom
+
+W has :
+
+10+ in TL
+15+ in BL
+5+ on R side
+5 in TR
+6.5 komi for a total of cca 45pts.
+
+all W groups are safe, there are some weaknesses on left side.
+
+B has:
+5 on L side
+10 on top
+10 on bottom left
+15 on bottom right
+for a total of 30 pts.
+
+The bottom is still open but can be closed with 1 move at L4, which is very big. W needs sente to attack at K3.
+
+So,  W is having more safe points, but if B gets sente to L4, it will be difficult again for W. Moreover, B center potential looks terrifying.]
+;W[jc]C[Bottom is really urgent.];B[lc];W[je];B[hd]C[This is difficult to answer.]
+TE[1]
+(;W[ge];B[he];W[hb]
+(;B[hc];W[gb]
+(;B[if]TR[kp]C[Better to leave as it was instead of this slack move. Just L4 is fine.]
+;W[ic];B[gf];W[fe];B[ff];W[lq]C[Q: This invasion dod not go as well as I planed. Why? What was the best way to reduce the lower side?
+
+SZ: This invasion is perfect. You missed the right move in follow-up though.]
+;B[mq]
+(;W[iq];B[lp]GB[1];W[lr];B[kp];W[gr];B[hq];W[hr];B[jq];W[jr]
+;B[ip];W[ir];B[fr];W[mr];B[kq];W[kr];B[nr];W[ms]GB[2];B[ns]
+TR[or]LB[dk:A]C[This is so slow. True, W can clamp later, but this really is not the time. B should A.]
+BM[1];W[dr]TR[mk][el]C[The center should be reduced, this is not urgent. E8 prepares clamp or cut at D11.]
+;B[dk]TE[1];W[dl];B[el];W[dm];B[fl]LB[bi:A][kf:B]C[B does not need to fear - can play A (if he is still worried) or B.]
+BM[1];W[kk]LB[fn:A]C[Q: I think this survived because my opponent made mistakes and not because it was safe from the beginning. What was the best play to reduce the Black's influence?
+
+SZ: W is having enough. This is a bit dangerous, so I'd first jump at A.]
+;B[jj]
+(;W[km];B[nj]
+(;W[ml]
+(;B[kj];W[ol];B[lk];W[ll];B[jk];W[kl]TR[bi][kf]C[Small.];B[mk]
+;W[kb]LB[kf:A]C[Does B need to respond? A is huge.]DO[];B[lb]
+;W[rn]LB[kf:A]C[A is huge.]
+(;B[ro];W[so];B[sp];W[sn];B[rp];W[kf];B[lf];W[kg];B[jh]TR[lf]
+C[Now - black does not know which side he wants - he played two moves in opposite directions.]
+;W[lg];B[ke];W[kd]LB[jf:A][mf:B]C[You deprive yourself of the possibility of atari at B later. Just play A.]
+BM[1];B[le];W[jf];B[kc];W[jd];B[mg];W[bi];B[ch];W[be];B[bh]
+;W[bj];B[ee];W[ed];B[gd];W[fd]LB[im:A][ri:B]C[This is 4 points gote, too small. A is biggest. B is big.]
+;B[ri];W[rj];B[rf];W[rd];B[sj];W[sk];B[si];W[im];B[il];W[in]
+;B[hl];W[oo];B[no]
+(;W[nn];B[mn];W[nm];B[kn];W[jn];B[ln];W[op]TR[oq][pk][jc][je]
+[fc][lq][lp][gr][iq]C[Pity, should have peeped.
+
+Overall, I can't emphasize enough to:
+
+1) Look at a value of a move - 4 points, 10 points? Don't be afraid to tenuki.
+
+2) Look at aji - conserve opponents weaknesses and strike when ready!
+
+3) Take care of your shape - you made some moves which made you ineffective or weak or you missed the vital point - marked. Especially the bottom group, which could have cost you the game.
+
+Anyway, was a gg, hope this review helps a bit :-).
+
+Simon Zeckarias
+--Last comment.];B[oq];W[qi];B[rh];W[bf];B[bg];W[jg];B[ig];W[li]
+;B[mh];W[ki];B[jb];W[ib];B[ka];W[ji];B[ii];W[oi];B[ni];W[de]
+;B[df];W[po];B[qq];W[ce];B[gq];W[fo];B[fp];W[dp];B[eo];W[gn]
+;B[go];W[fn];B[ho];W[jo];B[ko];W[er];B[jp];W[fs];B[do];W[co]
+;B[fq];W[oj];B[pi];W[nk];B[pa];W[qa];B[oa];W[sb];B[ph];W[pj]
+;B[se];W[sd];B[sf];W[ia];B[ja];W[gm];B[gl];W[mj];B[lj];W[mi]
+;B[nh];W[en];B[ie];W[af];B[ai];W[aj];B[ah];W[kh];B[ih];W[mm]
+;B[tt];W[jl];B[tt];W[hn];B[tt];W[tt];TB[rs][ss][gp][ma][na]
+[kb][mb][nb][mc][nc][md][nd][od][me][ne][oe][pe][hf][of][mf]
+[nf][pf][cg][dg][eg][fg][gg][hg][ng][og][pg][qg][rg][sg][dh]
+[eh][fh][gh][hh][sh][di][ei][fi][gi][hi][ej][fj][gj][hj][ij]
+[ek][fk][gk][hk][ik][lo][la][mo][mp][qp][nq][pq][rq][sq][or]
+[pr][qr][rr][sr][os][ps][qs]TW[aa][ba][ca][da][ea][fa][ga][ha]
+[ra][sa][ab][bb][cb][db][eb][fb][rb][ac][cc][ec][rc][sc][ad]
+[bd][dd][ae][ak][bk][ok][qk][rk][al][bl][cl][nl][pl][ql][rl]
+[sl][am][bm][cm][jm][om][pm][qm][rm][sm][an][bn][cn][on][ao]
+[bo][ap][aq][bq][cq][ar][br][cr][as][bs][cs][ds][es][gs][hs]
+[is][js][ks][ls][bp][bc]C[Result: W+6.5]N[RESULT])
+(;W[oq]C[What now?]))
+(;B[kf];W[rp];B[qq];W[rq];B[rr];W[oq];B[nq];W[op];B[oo];W[po]
+;B[pq];W[qp];B[sr]C[It's big, but the center is bigger.]))
+(;B[nl]C[It's not easy to counter this cut.];W[nm];B[ol];W[mk]
+;B[oj];W[om];B[pl];W[ql];B[pm]
+(;W[qm];B[on])
+(;W[oo];B[qm];W[oq];B[op];W[nq];B[mp]C[Black loses few points on bottom,but this is terrible for white]
+)))
+(;W[nl]C[Safe - white loses max. a stone and gets sente.];B[ml]
+;W[mm];B[ll];W[lm];B[kl];W[nk];B[lj];W[kf]C[This variation is not exactly right probably, just to give you idea what I meant.]
+))
+(;W[kj];B[ki];W[jk];B[ik];W[li];B[ji]C[Something like this?]
+))
+(;W[lp]TR[oq][qq]C[Only move. No thinking possible. Black has many weaknesses.]
+;B[nn];W[jq];B[iq];W[jp];B[ln];W[jn]TR[oq][qq][gq][gr]C[Impossible to kill. Moreover, keep an eye on black weaknesses.]
+))
+(;B[jd]TR[jc][je][he][hd][hc][lc][ld]C[With a shape like this, one space jump is not that safe.]
+;W[kd];B[id];W[kc];B[ke]C[Black is fine.]))
+(;B[gb]C[Black cant cut here.];W[hc];B[gc];W[gd];B[fb];W[eb]
+;B[fd];W[ec];B[gf];W[fe];B[ee];W[ed];B[ff];W[fd])
+(;B[ib]C[This does not work either.];W[ic];B[hc];W[gb];B[jb]
+
+(;W[hf];B[ie];W[jd];B[if];W[kb])
+(;W[kb]C[This would be mistake.];B[kc];W[ja];B[jd];W[ia];B[id]
+)))
+(;W[hc];B[id];W[ic];B[jd]C[No good.];W[gd];B[ge];W[fe];B[gf]
+;W[ff];B[gg];W[fg];B[gh];W[fh];B[fi];W[gi];B[fj];W[dh];B[di]
+;W[hi];B[if];W[ki]C[Difficult, but playable.]))
+(;W[qm];B[qo];W[om];B[np]LB[qf:A][lq:B][jq:C]C[White is safe and can invade.]
+))
+(;W[dk]C[No variation really favours white here, so C9 was clean, patient and good move.]
+
+(;B[ej];W[ci];B[dh]C[This is of course better for W, but B can fight more]
+)
+(;B[ci];W[ck];B[di]C[Similar to the game.])))
+(;B[cq];W[bq];B[dq];W[bo];B[iq]C[This would make very nice shape on bottom for black]
+))
+(;W[hp]C[I recommend a pincer here. The choice is a bit difficult though.]
+;B[dm];W[eo];B[fo];W[en];B[dp];W[cn];B[cq];W[co];B[fn];W[em]
+;B[dr];W[ci]C[For example this.]))

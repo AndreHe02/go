@@ -1,0 +1,72 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.17]
+
+PB[lorill]
+BR[4k]
+PW[oituz1917]
+WR[3k]
+KM[0.5]
+DT[2010-10-25]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[W+14.5]
+TM[900]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+C[Hi, I'm playing black in this game, and was quite happy with my position at move 45. Could you show me the biggest mistakes ?
+B115 looks like the losing move, but I'm sure there are many other errors.
+
+krv: I'm KGS 1d - only 4 stones stronger than you and thus I can't see all your mistakes - but I've marked the most significant's.
+
+It helps when you insert your questions in sgf - but if you still have questions you are welcome to mail me - or find me on KGS (krv)]
+;B[pd];W[dp];B[pq];W[ec];B[fq];W[po];B[qo];W[qp];B[pp];W[qq]
+;B[qr];W[ro];B[qn];W[rr];B[pr];W[oo];B[np];W[rn];B[qm];W[rm]
+;B[ql];W[rl];B[qk];W[no];B[mp];W[nl];B[qh];W[hq];B[jq];W[fp]
+;B[ep];W[eq];B[eo];W[gq];B[dq];W[fr]
+(;B[cp]C[with E2 you can force white to connect - this makes you slightly stronger]
+;W[dr];B[do];W[cq];B[bq];W[cr];B[cj];W[ch];B[jc];W[lq];B[lp]
+;W[kq];B[kp];W[jr];B[jp];W[ir];B[om]C[may be wrong side];W[mn]
+;B[km];W[ll];B[lm];W[mm];B[mk];W[ml];B[kj];W[kk];B[lj];W[jk]
+;B[im];W[jj];B[ji];W[il];B[hm];W[ii]
+(;B[jh];W[ok];B[oj];W[pj];B[qj];W[nj];B[nk];W[oi];B[ol];W[pg]
+;B[qg];W[pf]
+(;B[qf];W[pe];B[qe];W[od];B[oc];W[pc];B[qd];W[ob];B[nc];W[qc]
+(;B[rc];W[rb];B[sd];W[nb];B[mc];W[mb];B[lb];W[mf];B[ne]C[seems like you can't kill white with this. I like J12 or N12 here]
+;W[kf];B[ih];W[hi];B[ie];W[mi];B[lh];W[mh];B[lg];W[mg];B[ph]
+;W[oh];B[oe];W[pi];B[qi]C[useless connectin. Q9 works fine]
+;W[pk];B[og];W[lk];B[mj];W[li];B[ki];W[lf]
+(;B[jf]C[useless. H12 or T18 (not sure - but seems like T18 kills corner]
+;W[hh];B[ig];W[sb];B[nh];W[ng];B[of];W[md];B[cd];W[cc];B[dd]
+;W[bb]C[here is important to cover C12 with E12. This also creates some pressure on J11 group. If you get this - you win]
+;B[dc];W[db];B[bc];W[cb];B[ed];W[fc];B[fd];W[gd];B[ge];W[hd]
+;B[he];W[eh];B[hb];W[gb];B[ej];W[fk]C[solid game still gives you good chances to win. F10 looks good.
+Or you can try F12];B[hk];W[hl];B[gl];W[gk];B[el];W[fl];B[fm]
+;W[gm];B[mo];W[nn];B[gn];W[em];B[fn];W[ek];B[dl];W[dk];B[ck]
+;W[cl];B[dm];W[cm];B[dn];W[dj];B[ci];W[di];B[bh];W[bg];B[cg]
+;W[dh];B[bi];W[cf];B[dg];W[be];B[ag];W[bf];B[bl];W[bm];B[ak]
+;W[bd];B[df];W[br];B[bp];W[kb];B[kc];W[la];B[lc];W[ln];B[kn]
+;W[ho];B[hn];W[ff];B[hc];W[fe];B[gc];W[de];B[id];W[ee];B[ma]
+;W[na];B[jb];W[pa];B[ka];W[op];B[oq];W[mr];B[nr];W[mq];B[ms]
+;W[kr];B[nq];W[ld];B[rs];W[sr];B[rk];W[sl];B[fb];W[eb];B[gg]
+;W[gh];B[fg];W[eg];B[fh];W[fi];B[nd];W[hg];B[gf];W[sc];B[rd]
+;W[fa];B[io];W[sk];B[sj];W[kg];B[kh];W[ls];B[ns];W[ah];B[am]
+;W[an];B[bn];W[al];B[bk];W[af];B[cn];W[aq];B[ap];W[ar];B[hp]
+;W[go];B[kd];W[iq];B[ip];W[gp];B[jl];W[lo];B[ko];W[kl];B[jm]
+;W[ke];B[me];W[le];B[je];W[ha];B[ia];W[ai];B[am];W[aj];B[ga]
+;W[gd];B[hd];W[ha];B[bj];W[ag];B[ga];W[ce];B[gd];W[ha];B[ks]
+;W[js];B[ga];W[rj];B[ri];W[ha];B[er];W[es];B[ga];W[fb];B[jg]
+;W[gl];B[hf];W[dp];B[ma];W[dq];B[la];W[ha];B[pl];W[pn];B[ga]
+;W[si];B[sh];W[ha];B[qb];W[pb];B[ga];W[qs];B[ps];W[ha];B[qa]
+;W[ra];B[ga];W[rq];B[ha];W[ss];B[qs];W[fo];B[nf];W[ni];B[tt]
+;W[tt]TW[aa][ba][ca][da][ea][oa][qa][sa][ab][qb][ac][bc][ad]
+[ae][df][ef][cg][dg][nh][ei][gi][ej][fj][gj][hj][ij][oj][hk]
+[ik][sm][sn][so][rp][sp][fq][sq][er][gr][hr][lr][as][bs][cs]
+[ds][fs][gs][hs][is][ks]TB[ja][ib][kb][ic][jd][od][pe][re][se]
+[if][pf][rf][sf][pg][rg][sg][rh][si][rj][al][cl][bm][cm][em]
+[an][en][in][jn][ao][bo][co][jo][or][os]C[Thanks for the review!]
+)
+(;B[sb])
+(;B[hh];W[gi];B[sb]C[to prevent J12 cutting off]))
+(;B[nb]C[seems like white doesn't survive in this corner]))
+(;B[re]C[better shape]))
+(;B[ih]))
+(;B[er];W[dr];B[fq]C[This ko seems very hard for white]))

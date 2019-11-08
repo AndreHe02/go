@@ -1,0 +1,95 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[utf-8]AP[SGFC:1.17]
+
+PB[vducky]
+BR[2k]
+PW[morinisi]
+WR[2k]
+KM[6.5]
+DT[2011-02-14]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[W+Resign]
+TM[1500]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+C[This is a game that I lost recently on KGS.
+I was playing black and lost a capturing race in a life and death situation.
+The reason that I am sending this game in for review is, because I wasn't sure about my opening during the game. Also during the invasion I was wondering what the best way to play was ... I feel like I'm not very good at defending against invasions.
+I left some comments and questions in the sgf.
+
+Thank you for reviewing my game :-)
+
+vducky [2k\]: hi
+morinisi [2k\]: hi
+vducky [2k\]: have fun];B[qd];W[cd];B[dq];W[pq];B[ec];W[hd]
+;B[de]LB[de:A]C[This pincer is not a joseki I know and I played A mostly on first instinct. It was actually played again in the other corner too. What would be good/usual ways to play here for black? Was my move any good?
+
+[Nexik\] Pincer is standard move and your answer is also normal joseki]
+;W[ce];B[df];W[cf]C[[Nexik\] Normally white play this way if he wants to play elsewhere]
+;B[dg]
+(;W[ch];B[kc]LB[kd:A]C[Seeing how things went in the lower left corner later, a high counter-pincer at A would probably have worked better here. Is there anything else to consider?
+
+[Nexik\] This move is good.];W[dh]
+(;B[fg]LB[fe:A]C[[Nexik\] Wrong shape. There is still a weakness at A]
+;W[hf];B[eh];W[ke]
+(;B[md]LB[nd:A][le:B]C[[Nexik\] I would prefer to play at A or B]
+;W[hh]
+(;B[cb]LB[ei:A]C[Should I get out first?
+[Nexik\] Yes this is move is typical for endgame and gote.]
+;W[do];B[co];W[cn];B[cp];W[dn];B[fq];W[dk];B[qo];W[pl];B[op]
+;W[oq];B[np];W[nq];B[mp];W[lq];B[pj]LB[pl:A]C[This time I went for a high pincer which allowed me to put more pressure on the A stone. I think it worked a lot better than the low pincer earlier.
+
+[Nexik\] Difference is rather simple for your and my level.]
+;W[qp]
+(;B[ro]C[[Nexik\] slow, hane is better];W[nl]
+(;B[nj]C[[Nexik\] Big but not urgent];W[lp];B[lo];W[ko];B[om]
+;W[ol];B[ln];W[ll];B[kn]C[[Nexik\] Pushing from behind is very bad]
+;W[jo];B[jn];W[io];B[kk];W[mj]
+(;B[mk]C[I'm not sure about this move. I first thought I could cut, but quickly realized that I was being too greedy again and that cutting would lead to a very bad fight for me, so I decided to sacrifice this stone to build towards the top right corner. What else would have been good here?
+
+[Nexik\] Yes very bad];W[nk];B[ni];W[lk];B[mi];W[lj];B[mm];W[ml]
+;B[pp];W[rq];B[jk];W[qe]C[Here's the invasion. When I first saw it I was sure he would live, but after a few moves it seemed killable. What should my thought process be when I encounter such a move?]
+;B[pd]C[I didn't want to fight with a crosscut, it seemed risky.]
+;W[qh];B[qj]LB[rl:A]C[I made this move because it blocks his connection while allowing me to connect via S8 in case he lives.]
+;W[re]
+(;B[ri];W[li]
+(;B[lh];W[kh];B[lg]C[I don't know why he played this exchange. It seems to hurt his invading group. Had he already given up on it? After this move I thought I could kill it now.]
+;W[rh];B[rd];W[sd]
+(;B[pe];W[pf];B[of]LB[pd:A]C[I misread the situation here. I thought I could block him in the corner AND prevent an eye there at the same time, but as you will see in a few moves, I forgot that he could put my A group in atari.]
+;W[pg]C[If I don't move in now, he'll live]
+(;B[sh];W[sg];B[rf];W[qf];B[rg];W[si];B[rj]C[Unfortunately I needed that move to prevent his connection. Otherwise it would have been easy :(]
+;W[rc];B[qb]C[Here's the misread sequence played out ...];W[rb]
+(;B[sc]C[[Nexik\] Mistake];W[sb];B[ra];W[qc];B[pb];W[pc]
+(;B[ob];W[oc];B[oe];W[nd];B[mc];W[ne];B[me];W[nf];B[og];W[ng]
+;B[oh];W[mh]
+(;B[nh];W[mg];B[lf]C[Now it's a capturing race. Is there any chance I can win it?
+
+[Nexik\] Unfortunately no :(];W[rl];B[nc];W[od];B[ph];W[qa]
+;B[pa];W[nb];B[sf];W[sh];B[sj];W[qg];B[mb];W[rk];B[pi];W[oj]
+;B[na];W[pk];B[qa];W[se];B[rf];W[qk];B[sa];W[sk];B[mf];W[sc]
+;B[sf];W[rg];B[sf];W[ok]C[vducky [2k\]: thanks for the game
+morinisi [2k\]: ty])
+(;B[rl]C[[Nexik\] Only move but black is behind]))
+(;B[oc]C[This was what I wanted to play, but of course it fails miserably.]
+;W[od];B[oe];W[ob];B[nc];W[pa]))
+(;B[ra];W[qc];B[pc];W[pb];B[pa];W[ob];B[sb]C[[Nexik\] Ko]))
+(;B[se]C[[Nexik\] This is mistake];W[sf];B[rc];W[rg];B[sh];W[qf]
+C[Or something like that...])
+(;B[sc]C[[Nexik\] just this and dead];W[se];B[rf];W[rc];B[rb]
+;W[qc];B[qb];W[pc];B[oc];W[pb];B[ob];W[sb];B[pa];W[sc];B[oa]
+))
+(;B[sc]C[[Nexik\] Just defend there is no romr for 2 eyes];W[se]
+;B[rc];W[of];B[pg];W[ng];B[pf];W[pe];B[oe];W[ne];B[od];W[qg]
+;B[og];W[nf];B[oh]))
+(;B[mg]C[[Nexik\] Don't give opponent chance to get strength]
+))
+(;B[ki]C[[Nexik\] You must to use spliting attack. Direct attack in 90% of the all games will fail]
+))
+(;B[ki]C[[Nexik\] proper way to fight]))
+(;B[lp];W[kq]C[[Nexik\] Very important exchange]))
+(;B[rp];W[rq];B[pp];W[qq];B[nl]))
+(;B[ej]C[[Nexik\] Proper way]))
+(;B[nd])
+(;B[le]))
+(;B[ff]C[[Nexik\] Proper one]))
+(;W[lc];B[cg];W[cb]C[[Nexik\] Standard joseki]))

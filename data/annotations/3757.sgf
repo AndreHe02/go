@@ -1,0 +1,249 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+GN[Kakko-yfh2test(B) IGS]
+EV[Internet Go Server game: Kakko vs yfh2test]
+PB[yfh2test]
+BR[1k]
+PW[Kakko]
+WR[1k]
+KM[5.5]
+DT[2004-09-29]
+PC[IGS:  igs.joyjoy.net 6969]
+RE[W+0.50]
+TM[60]
+RU[Japanese]
+US[Brought to you by IGS PANDANET]
+
+C[Emmanuel Beranger: I played this game with black, and lost by 0.5 points.
+The result is not important because I made blunders in the end by lack of concentration.
+
+What I would like to know from this game is mostly about "shape"
+
+1) in the late fuseki, and in the chuban, I had sometimes to defend myself in a way that suggest that my stones were not at maxmum efficiency.
+Could you try to point out better behaviour or "haengma" ?
+
+Tim: Hmm. I don't seem to have used the word "shape" in my comments at all. However, a lot of them were really about shape even if I did not use the work. For example see the comments for moves 20, 23, 37, 42, 43, 57, 75, 95, 101, ...
+
+
+Emmanuel Beranger: 2) apart from one single move in the game (#41 - M16), I did not perform severe actions against White formations.
+Could you point me where I could have tried to impair / destroy (I don't mean kill) white shapes?
+
+Tim: Well, there were not many opportunities in this game that you missed After all, throughout you were roughly even in the balance of territory while keeping your own positions thick so it would be gready to expect major attacking changes too. The one really serious mistake was at more 35. Other than that, you could have been a little more severe at moves 23, 69, 101, ...
+
+
+Emmanuel Beranger: Other than that, don't hesitate to report obvious judjement errors in the fuseki or yose.
+
+Tim: I think that both your opening and your yose could be improved!
+
+In the opening you don't seem to be very good at judging what is biggest. If you want a book to read with lots of explanation, "Opening Theory Made Easy" is excellent, but out of print. If you want problems to practice on, "Get Strong at the Opening" is excellent. If you study all those problems carefully, you will get very good at recognising what is big or important.
+
+For the yose, "The Endgame" from the Elementary Go series explains what you should be thinking about in the yose; how to count; and some of the common endgame tesujis. Then for lots of practice, "Get Strong at the Endgame" is good. And like just about every other go player I know, you need to read "Monkey Jump Workshop" by Richard Hunter! (So does your opponent!)
+
+
+The above are general points. More detailed comments throughout the game.]
+;B[qd];W[dp];B[pq];W[dd];B[oc];W[qn]C[So far, so good.]
+(;B[qp]LB[ql:A]C[This is OK, but it is also possible to pinceer at R8.]
+;W[qk];B[qi]C[Good.];W[on]C[Emmanuel Beranger: Usual joseki puts more pressure on lower black stones.
+
+Sorry, I can't work out which joseki you are referring to.]
+;B[np]C[Black is very happy. He has nice formations in two corners, and the white group on the right side small.]
+;W[jd];B[cj]LB[fq:A]C[This is good. 
+
+Another good move to consider is F3.];W[oe];B[pg]MA[pf]C[Emmanuel Beranger: This was stupid. Should have been Q14 likely ...
+
+OF course it should. These things happen.];W[qe];B[qf];W[pe]
+;B[re]
+(;W[nc]LB[nc:A][pc:C][pd:B]C[Emmanuel Beranger: I thought W had a better option in the var.
+
+I don't think so (and B is a horrible empty-triangle). C might be a good move ("Strike at the waist of a knight's move"), but I don't think it quite works.]
+;B[qc];W[nd]
+(;B[oj]LB[cf:B][oj:A][ok:C][mn:D]C[Emmanuel Beranger: Here, I wondered what to do.
+I'm not sure I chose the right option.
+
+The purpose was to build central power by pressing the right W group, in order to use it later against top, while the C10 stone could be on its own for a while.
+
+However, the question is :
+
+1) is it the correct time for this, or are there more important moves on the board ?
+Moves considered are C14/C13
+
+2) assuming attacking this group is ok, is it the most efficient way ?
+Moves considered are S7 (not sure it's good) or Q7.
+
+
+Tim: I would play C14 here. It is very big. It is sort-of reverse sente. If white played at C13, that would be a very good move for expanding the top, and black woudl probably have to respond at C7. It is worth preventing that. 
+
+The knight's move at A misses the vital point, since white can answer at C and make good shape. If you must play aound here, play C yourself. White also has the option of answering at D, after which it is impossible for you to make much territory at the bottom. With your nice stone at O4 on the 4th line, you would really like to make territory at the bottom if you get the chance.
+
+However, I don't think this is avery important area to play in. The black stones in the top right are strong, and so are the white stones K16 and O16, 17 etc. So even if you do make thickness around here, what are you going to do with it? And your stone at Q13 is going to end up much too close to the thickness.]
+;W[ok];B[nk];W[ol];B[nj]C[Emmanuel Beranger: I chose to finish the idea, and risk a big move by W in upper left.
+
+Finishing off is consistent, but white is happy to get sente.]
+;W[cg]C[Biggest move on the board.];B[cn];W[fq];B[bp];W[cq]
+;B[dl];W[ec]C[Emmanuel Beranger: That was expected.
+
+White could also play M3. He has a choice of good moves.]
+(;B[ie]C[Emmanuel Beranger: I did wonder a lot about this move. I thought very unreasonable to play at K17/J17. I thought I could build the centre in exchange. Any other idea ?
+
+
+Tim: This is a bad move. There is no need to give white 4th line territory here. If the white stone was on the 3rd line however, the shoulder-hit would be an excellent move, but it isn't. 
+
+You said you thought for a long time about this move. But did you try to estimate the score? If not, how can you make a sensible plan?
+
+Black has about 15 in the bottom left, 15 in the bottom right and 20 in the top right. That is about 50.
+
+White has 10 in the bottom left, 5 on the right, 10 at the top right, and 20 in the top left and 5 komi. Also about 50.
+
+But the other advantage of counting is that it makes us look at every part or the board, so we notice that the two big undecided areas are at the top, around H17, and at the bottom.
+
+Your move helps white make the whole area at the top into territory, that is another 15 points. A better move around here H16. This makes it very hard for white to get any more territory around here. If you play on the 4th line, you should not get into too much trouble. It might also be possible to invade deeply on the 3rd line (H17) but that is dangerous. Certainly not my style.
+
+And the other move to consider is H3.];W[id]
+(;B[he]C[A bit slow and heavy.];W[hd];B[ge];W[fd];B[ld]
+(;W[kd]C[This is a strange white move.];B[md]C[Also strange. I don't think this really works, you were just luck in the game.]
+;W[lc];B[mc]
+(;W[le]C[Mistake by white.];B[lb];W[kc];B[nb];W[me];B[mb];W[jf]
+C[Emmanuel Beranger: The result of this sequense satisfied me. I have aji at L15, and the monkey jump.
+
+
+Tim: Yes. As I say, you were lucky.
+
+L15 is not a big deal. 
+
+The three stones at G-J15 are heavy. But they are not cutting stones. Perhaps you should just throw them away. 
+
+You could just play H3.];B[hg];W[jh];B[ef];W[cf];B[eh]C[This is the wrong shape, since D11 is too big a hole. D12 or E11 would be better.]
+;W[di];B[dh]C[Emmanuel Beranger: I misread here. I thought I could threaten the D11 stone.]
+;W[ci];B[ch];W[bh];B[bj];W[bi];B[hi];W[jj];B[ki]C[I don't see the point of this. You are thinking about L15 too much. This move just helps white to get strong in the centre.]
+;W[ji];B[kq]C[Emmanuel Beranger: or H3?
+
+I think so. This makes it easy for white to know where to play.]
+;W[iq];B[bq]MA[gq][hq]C[Emmanuel Beranger: Was there anything more severe to try out such as G3/H3?
+
+G3 or H3 look like rubbish to me. The whole point of a 2-space extension on the 3rd line is that it cannot be cut.
+
+B3 is a very large endgame move. Don't try to be too clever.]
+;W[jr];B[kr];W[hk]C[Good move by white.]
+(;B[fj]C[This does not seem to work.];W[dj];B[ek]C[Emmanuel Beranger: I traded the 2 stones for safety of the upper group. But I'm angry at myself to lose 6 points gote.
+
+Yes.];W[ck];B[cl];W[bk];B[bl];W[pj];B[pi];W[nh];B[rj];W[rk]
+;B[mh]SQ[hi][ki]C[Emmanuel Beranger: All the stones I played before were 'thinking' about L15.
+
+I am still not convinced.];W[ng];B[ro];W[oi];B[ni];W[oh];B[mg]
+;W[mf];B[ll]C[Why don't you play at N7?];W[mm];B[ml]C[Why not M7?]
+;W[mn];B[km];W[kj]
+(;B[ko]C[Emmanuel Beranger: Again, a trade, but L11 was kikashi, so that would not be a problem if there was not a white eye involved ...
+
+Tim: The other problem is that your connection is just a connection. It does not surround any territory or threaten white very much.]
+;W[qj];B[ri];W[nl];B[lj];W[kg];B[rm];W[rn];B[sn];W[qm];B[sm]
+C[This move is small. It does not threaten white.];W[no]C[So this is not necessary, but then it is sente, so it is OK for white to play it.]
+;B[mp];W[ks];B[ls];W[js];B[mr];W[io]C[Defenda against J4.];B[br]
+;W[cr];B[cs];W[ds];B[bs];W[er];B[fo];W[qo];B[rp];W[gm];B[ia]
+
+(;W[ib]C[Mistake by white, but you don't take advantage.]
+(;B[jb];W[kb];B[ka];W[hb];B[od];W[ne];B[gd]C[This is wrong. You want to leave the option of playing H19 in sente (if you ever get a chance to remove the shortage of liberties problem first). So this move (+1 point sente locally, so it is too small to play now anyway) might turn out to have been -2 points overall later.]
+;W[gc];B[de]C[Angain this looks bad to me. It look a bit like anoter 1 point sente move at first, but it leaves white with various atari moves to annoy you with later, so I am not sure this really gains you anything. There are bigger moves on the board.]
+;W[ce];B[jq];W[hr];B[do]C[Better.];W[ep];B[gn];W[fm];B[eo];W[jn]
+;B[kn];W[ha];B[ja];W[la]C[Emmanuel Beranger: Sometimes, I just blunder ...
+
+Tim: We all do.];B[ma];W[jc];B[pb];W[la];B[hp];W[ip];B[gq];W[gr]
+;B[fp];W[cp];B[co];W[hn];B[ho]C[This is small. Isn't K8 bigger.]
+;W[im];B[po];W[pn];B[oo];W[pf];B[qg];W[ee];B[df];W[fe];B[ff]
+;W[ei];B[fi];W[dg];B[eg]C[See what I mean. I am not sure that D15 gained you anything in the end.]
+;W[li];B[mi];W[kh]
+(;B[dk]C[Bad.
+
+Locally, this is dame. Worse, afterwards, white can hane (but not connect) at A8 in sente so actually you have made a small loss.]
+;W[aj];B[og]C[Probably too small (3 pts gote).];W[je];B[ph]
+;W[nf];B[mo];W[nn];B[rl]C[Good.];W[ql];B[sk];W[ig];B[gg]C[H12 is better.]
+;W[jp];B[kp];W[ka];B[if];W[lg];B[kk];W[jk];B[jl];W[il];B[ij]
+;W[jm];B[kl];W[ih];B[hh];W[pd];B[pc];W[gk];B[em];W[fn];B[go]
+;W[en];B[dn];W[fl];B[el];W[gj];B[gi];W[ln];B[lo];W[al];B[am]
+;W[hq];B[gp];W[ak];B[lh]C[Emmanuel Beranger: again, a very stupid move I played out of concentration. However, in the end, it cost 3 points to W!
+
+Tim: :-)
+
+(I think if the game ends sensibly, you lose by 4.5, os actually, white should probably not fight the ko, and just settle for a win by 3.5. Still, it is a flower-viewing ko, so why not!)]
+;W[mk];B[ki];W[ob];B[oa];W[li];B[fr];W[eq];B[ki];W[gf];B[hf]
+;W[li];B[cc];W[db];B[ki];W[so];B[sp];W[li];B[cd]
+(;W[bd]C[This is a mistake. Should be at C18.];B[ki];W[rf];B[rd]
+;W[li];B[dc]
+(;W[mj]C[Emmanuel Beranger: This trade is going to cost 3 points in the end to W.
+Of course, I calculated after ... not before ...
+
+Tim: I think white can still avoid the trade ... oh, no he can't. Oops.]
+;B[ed];W[fc];B[be];W[bf];B[bc];W[ae];B[cb];W[eb];B[dd];W[lk]
+;B[da];W[ea];B[ca];W[ac];B[ab];W[ad];B[ik];W[fk];B[hj];W[tt]
+C[If white cuts at E10, black must defend at B7.];B[tt];W[tt]
+TW[fa][ga][ia][ja][fb][gb][jb][hc][ic][be][ke][af][kf][lf][ag]
+[bg][jg][mg][ah][lh][mh][ai][ki][mi][ni][bj][cj][lj][nj][oj]
+[nk][pk][gl][hl][pl][hm][nm][om][pm][in][dq][dr][fr][ir][es]
+[fs][gs][hs][is]TB[aa][ba][na][pa][qa][ra][sa][bb][ob][qb][rb]
+[sb][rc][sc][sd][se][gf][rf][sf][fg][rg][sg][fh][gh][qh][rh]
+[sh][si][sj][sl][bm][cm][dm][an][bn][ao][bo][so][ap][lp][op]
+[pp][aq][lq][mq][nq][oq][qq][rq][sq][ar][lr][nr][or][pr][qr]
+[rr][sr][as][ms][ns][os][ps][qs][rs][ss]C[White wins by 1.]
+)
+(;W[ed];B[eb];W[fc];B[cb]
+(;W[bc];B[da]
+(;W[bb];B[fb];W[fa];B[gb])
+(;W[fa];B[fb];W[gb];B[bb]))
+(;W[da];B[be];W[bf];B[bc];W[ae];B[ca])))
+(;W[cb];B[be];W[bg];B[dc];W[ed];B[eb];W[fc];B[bb];W[fb];B[ca]
+;W[ea]
+(;B[ac];W[bd];B[bc];W[ae])
+(;B[ad];W[bc];B[bd];W[ba])))
+(;B[al]C[This is sente, threatening A10.];W[aj]C[White's territory is the same as in the game, but black's is bigger.]
+))
+(;B[ha];W[jb];B[ja];W[ka];B[kb]
+(;W[ga];B[hb];W[gb];B[hc];W[gc];B[la];W[ic];B[ka];W[gd])
+(;W[hb];B[ga];W[gb];B[fa];W[ea];B[fb];W[eb];B[la];W[fc];B[ka]
+C[White can get sente, but only in exchange for a very big loss.]
+)))
+(;W[jb]C[This is probably the correct defense.];B[ja];W[ka]
+;B[kb];W[ha]
+(;B[ib]C[This ends in gote, so is a mistake.];W[hb];B[jc];W[ic]
+;B[jb])
+(;B[la];W[ib];B[ka];W[hb]C[Best for both.])))
+(;B[ip]C[This might be a more interesting way to connect.]))
+(;B[gk]C[This looks a bit better.]
+(;W[gl];B[fk];W[hj];B[fi])
+(;W[gj];B[hj]
+(;W[ik];B[fj])
+(;W[fj];B[ik];W[hl];B[ij]))))
+(;W[mb]
+(;B[lf];W[kb];B[ke])
+(;B[lb];W[le];B[me];W[mf];B[kc];W[ne];B[lc];W[nb];B[ib];W[hb]
+C[I think black loses.])))
+(;W[lc]C[This seems more normal to me.]
+(;B[kc];W[kd];B[mc];W[lb];B[md];W[mb])
+(;B[kd];W[kc];B[je])))
+(;B[ge]C[This might be better.];W[gd];B[fd];W[gc];B[hq]C[Lets you treat the stones at the top lighty.]
+))
+(;B[hd]C[It is hard to see a good move for white here.]
+(;W[jf];B[hf];W[jh];B[hh]C[Black is in no danger.])
+(;W[hc];B[gc];W[ic];B[gf]
+(;W[gb];B[gd];W[fb];B[if]C[Like the game, but much better for black.]
+)
+(;W[gd];B[fd];W[ge];B[fe];W[he];B[fc];W[ff];B[ef];W[fg];B[de]
+;W[ce];B[eg];W[fh];B[eh]C[Black is also happy.])))
+(;B[hc];W[he];B[jc];W[kc]LB[kb:A][kd:B]C[A or B next. If you like this sort of fight, this it is probably playable, but I don't like this sort of thing.]
+)
+(;B[hq];W[bq];B[kp]
+(;W[hd])
+(;W[ig])))
+(;B[ok]C[This is normally the best point to hit. It makes it harder for white to make a good shape.]
+;W[pj]C[White cannot really play here ...];B[rl]
+(;W[rk];B[ql];W[pl];B[pk];W[qm];B[ol];W[pm];B[qj];W[rm];B[rj]
+;W[sl];B[oi]C[Good sacrifice by black. You said you wanted thickness.]
+)
+(;W[ql];B[qj];W[pk];B[rk]C[Alternatively, black can steal the eye space.]
+)))
+(;W[pd]LB[nc:A][pd:B];B[qc];W[pc];B[pb];W[qb]
+(;B[rb];W[ob];B[qa];W[nb])
+(;B[ob];W[rf];B[rd];W[rg];B[qg];W[rh];B[ri];W[qh];B[ph];W[se]
+;B[rb];W[si];B[rj];W[pi];B[sg])))
+(;B[ql];W[qq];B[qp];W[pp];B[rq];W[qr];B[po];W[op];B[qo];W[oo]
+;B[pn];W[oq]C[This is a typical result. OK for both.
+
+For more variations see a joseki dicitonary.]))

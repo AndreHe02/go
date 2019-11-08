@@ -1,0 +1,184 @@
+(;FF[4]GM[1]SZ[19]ST[0]AP[SGFC:1.15]VW[]
+
+GN[200708310436chinulseung6980]
+PB[seung69]
+BR[25k]
+HA[0]
+PW[chinul]
+WR[25k]
+KM[6.5]
+DT[2007-08-31]
+RE[B+36.5]
+SO[www.orozone.com]
+AN[Steve Carder <steve@carderfamily.net>]
+
+C[First, thank you for reviewing my game.
+Second, I am white (Chinul)
+Please do not spare my feelings.  I know I have a lot to learn and so harsh comments will not offend.  It is part of learning.
+
+One main issue I see is both players following the "two inch rule".  This means you feel compelled to play your stone less than 2 inches from your opponent's last stone.  In this game, at move 60, there are only 2 stones on the entire right side of the board and 58 stones on the left side.  This means a lot of small, low value moves are being made while large areas of the board remain unclaimed.
+Often, the best move is somewhere else on the board, not right next to your opponent's last stone.  You need to look at the whole board when chosing your next move, not just at the local situation.   There will be times when you could save 2 or 3 of your stones, but there is a move on the opposite side of the board that is worth more than those 2 or 3 stones.   When that happens, let the stones die and play the more important move. Don't be afraid to give up small groups of stones and let them die when saving them would cost too much time and effort.
+
+The second main problem for white is allowing black to push into white's territory too easily.  Black manages to push into white's top side territory and kill a large group of white stones.  Black also pushes into white's center territory too easily.
+
+Study contact fights.  Study how to fight them well, but also study when to stop fighting and move somewhere else.]
+;B[pp];W[dp]C[My interest is mainly to know general errors in thinking, to know what I need to study and focus on to improve]
+;B[cq]SQ[qc][cc]C[What is the best way to stop this slow crawl down the side from white?
+
+This move should allow black to capture this corner.  At the same time, white should be able to build a wall facing one side. White should decide now which direction would be best for this wall since white's next move determines the direction of the wall.  Playing D3 means white wants a wall facing the lower side and playing C4 means white wants a wall facing the left side. This early in the game, there isn't much reason to prefer one choice over the other.
+
+Black will only gain a few point of corner territory here, while white builds a strong wall.  So, this is not the best choice for black this early in the game.  If black really wants a secure corner, then playing this move at either of the squares would secure a corner without giving white a wall.]
+;W[dq]C[White decides to make a wall facing the bottom side.]
+;B[cp];W[co];B[bo];W[cn];B[bn];W[cm];B[dr];W[er];B[ds]SQ[cr]
+C[Playing at the square is better for securing black's group.]
+;W[fq]C[Nice shape.];B[bm];W[ck]C[Locally, this is a good move.  Overall, however, it is not.  This is still the opening and the entire top half of the board has no stones yet.  White's stones in the lower left are secure and black's group is alive, so there is not need to play in this corner right now.  White should take Sente and play this stone in one of the upper corners.]
+;B[bk];W[bj]C[White can't kill black's stones so surrounding them doesn't accomplish much.]
+;B[bl];W[cl];B[aj];W[cj];B[bi]
+(;W[ci]C[White should play elsewhere.
+See Variation.];B[bh];W[ch];B[bg];W[cg]C[Crawling along the second line like this is very bad for black. White at least gets a huge wall out of this exchange.  So, while this isn't the best series of moves for white, it is not nearly as bad for white as it is for black.]
+;B[cf];W[bf];B[be];W[df];B[ce];W[de];B[dd];W[eg];B[ee];W[fe]
+;B[ef];W[dg];B[ff];W[ge]SQ[fe]C[Let the marked stone die and move on to something more worthwhile. The marked stone is cut off from white's other stones.  Trying to save this stone probably won't work, and will give black a chance to get stronger in this area.  At the end of the game, this marked stone is one of 11 dead stones in this area.  So, white played 10 more stones trying to save this one and still failed.  Much better to cut your losses now and move on.]
+;B[fd];W[fg];B[gf];W[he];B[hf];W[ie];B[gd]
+(;W[hd]SQ[ie][he]C[This is not a good move locally.  Before this move, white has an unsecure group with 4 liberties.  After this move, white still has an unsecure group with 4 liberties.  So this move doesn't improve white's position at all.
+Another way to tell this is a bad move is the fact that it makes an empty triangle (the marked stones).  Whenever your are about to play a stone that makes an empty triangle, pause and look over the board again.  Making an empty triangle is usually not the best move you could make.  In general, making an empty triangle is only a good idea if a group of your stones is surrounded stones and you need to make eyes.
+
+This is also not a good move globally.  The entire right half of the board has only one stone, and that is black's.  
+See variation.];B[hc];W[gc]C[Now white has 2 weak groups.];B[fc]
+;W[gb];B[hb];W[ic];B[fb];W[ib];B[ga];W[pd]C[At last!];B[if]
+;W[je];B[qc]C[Black makes another 3x3 point invastion.];W[pc]
+C[White decides to build a wall facing the weak white stones in the center top.  This is the best of white's two choices since it should help strengthen white's weak stones.]
+;B[qd];W[pe]C[This lets black live easily and extend down the right side more.]
+;B[qe];W[qf];B[rf]
+(;W[pg]SQ[qg]C[R13 is better.  Black can't cut at Q14, so white doesn't need to defend this spot.
+See variation];B[qg];W[pf];B[qh]
+(;W[ph]SQ[if][hf][gf]C[Don't keep crawling along the side with black.  White doesn't need to make these stones stronger, they are already secure. White can't expect to make much territory in the center because of the marked black stones.  So, white should take Sente and play on the bottom side.
+See variation];B[pj];W[nj]TR[hh]SQ[pn][nq]C[White appears to be trying to close off the center.  Trying to enclose a large area in the center is usually a waste of time. The squares are both better moves for white.  Notice that the right side square is on the 4th line.  This is because of black's stone at Q10.  If white really wants to try making territory in the center, then the triangle is a better way to go about it.]
+;B[oi]
+(;W[oh]TR[ng]SQ[pg][ph]C[Making an empty triangle is bad.  If you want to secure the territory around N17, then the triangle is better. 
+
+See Variation.];B[ok];W[ni];B[oj];W[jp]C[Good, but with the large wall on the left side, you could play closer to black's corner stone.]
+;B[jq]C[Black apparently likes to invade behind your 4th line stones.]
+;W[iq]C[No, you should play on the right side of black and drive black towards your strong wall.]
+;B[kq];W[nq];B[mr];W[mq];B[nr];W[lq];B[lr];W[kp];B[oq]
+(;W[jr]SQ[ir]C[This is Gote.  Playing this stone at J2 would be Sente.
+See Variation.];B[kr];W[ir];B[nk]
+(;W[lo]TR[nq][mq][lq]SQ[no]C[O5 is a good way to defend the 3 marked stones while expanding your area more.
+See Variation.];B[mj];W[mi];B[lj];W[hj];B[li];W[lg]SQ[mg]C[Playing at the square defends the cutting point at O12 better.]
+;B[lh]
+(;W[mh]SQ[mg]C[N13 is better.
+See variation.];B[kg]
+(;W[kf]SQ[lf]C[This leaves too many cutting points in white's stones.  Play on the square.
+See variation];B[mg]C[Black starts to cut into white's top side territory.  Right now, the score is roughly tied.  Over the next twenty moves, black pushes into white's top side and kills the white stones around H15.  This puts black ahead by a large margin and white never catches up.]
+
+(;W[nh]SQ[nj][ni][mi][mh]C[Don't try to save the marked stones.  Focus on keeping black out of your top side territory.
+See Variation.];B[lf]
+(;W[mf]C[Black has just cut a large opening into white's territory.  White needs to play about one space away from black to contain this invasion.
+See variation.];B[ke]
+(;W[jf]TR[kf]SQ[kd]C[Don't try to save the marked stone.  Trying to save this stone risks losing white's whole top center group.  Play at the square instead.
+See variation.];B[jg];W[le];B[kd];W[kc];B[jd];W[id];B[ld]
+(;W[me]SQ[jc]C[K17 is better.  White has an 11 stone group with only 3 liberties, so securing this group is important.
+See Variation];B[lg];W[ng];B[lc];W[md];B[kb];W[mc];B[lb];W[mb]
+;B[jc];W[la];B[ka];W[ma];B[ia];W[pn];B[qn];W[qm];B[rn];W[rl]
+;B[ql];W[pl];B[qk];W[rm];B[rk];W[nn];B[po];W[oo];B[gg];W[hm]
+;B[ij];W[hi];B[ii];W[hh]SQ[gh]C[The square is better since it keeps black out of white's center territory better.]
+;B[ih];W[jl];B[jk];W[il];B[kl];W[km];B[ll];W[lm];B[ml];W[ol]
+;B[nl];W[nm];B[mm];W[mn];B[np];W[lp];B[op];W[ho]SQ[gh]C[Black should not be able to invade here since there is no room to make 2 eyes and no secure black stones to run towards.  G12 is the best move.]
+;B[gh];W[fi]SQ[gi]C[Playing on G11 will force black to turn and run along the 12th line to your wall around C12.]
+;B[hk]
+(;W[gk]SQ[ik]C[White can cut black at J9 and kill the stone at H9.
+See Variation.];B[gj];W[gi];B[gl];W[fj];B[fk];W[fm]C[Cutting at J9 is still the best move.]
+;B[ik]
+(;W[ek]SQ[hl]C[Cut black at H8. 
+See variation.];B[gm];W[gn];B[hl];W[fl];B[im];W[jm];B[hn];W[in]
+;B[hm];W[fo];B[fh];W[eh];B[ig]SQ[hg]C[Black should connect at H13.  Connecting here instead costs black one point and doesn't make anything more secure.]
+
+(;W[qb]TR[ds][dr]SQ[pb][pi][es]C[This is a big endgame move, but is Gote.  Consider making any Sente endgame moves first, then play here.  Playing E1 is Sente since black has to respond to avoid losing the 2 marked stones. Playing Q11 is probably Sente since black would probably respond by blocking at Q11.  Black could ignore this move to play elsewhere, however, and only lose one point since white would then play R11 and black would block at S11.
+Another option is to play this stone at Q18 instead.  
+See variation.];B[rb];W[pb];B[qa]SQ[no][es]C[Black uses his Sente to make a Gote endgame move.  The squares are both Sente endgame moves for black and should be played before considering this move.]
+
+(;W[pa]C[Black has a lot of small, unconnected groups in the upper right corner and side with some nice cutting points for white take advantage of.
+See variation.];B[ra];W[ks]C[This is another Gote endgame move.  Play E1 first, then play here.]
+;B[ls];W[js];B[sl];W[cr];B[pk]C[Black needs to respond in the lower left corner.]
+;W[es];B[sm];W[pm];B[br];W[bq]C[Capture the two stones by playing at C1.  Playing B3 gives black the chance to play at C1 and capture the white stone at C2.]
+;B[bp];W[cs];B[aq];W[ip]SQ[io]C[I don't think that black can cut here.  If you really feel a need to defend cutting points in this area, however, I think J5 is better.]
+;B[bs])
+(;W[re]TR[rc]SQ[rg]C[White cuts.  This stone is a sacrifice and will be captured. Playing here prevents black from connecting at S13 since then white would play at S17 and capture the whole upper right corner.]
+;B[se]C[Black puts the sacrifice stone in Atari.];W[rg]C[White cuts again.  This is the cut white really wants to make, but it can only work if the sacrifice stone has been played first.]
+;B[rd]C[Black captures the sacrifice stone.];W[qi]SQ[qh][qg]
+C[White threatens to capture the 2 marked black stones.  White doesn't plan to actually capture them, but forcing black to defend them allows white to push into black's right side territory.]
+;B[rh];W[ri]C[White threatens the black stones again.];B[sg]
+C[Black saves the threatened stones];W[pi]C[White connects.]
+;B[si];W[qj]SQ[rk][qk][ql]C[This threatens to cut off and capture the 3 marked stones.]
+;B[pk]C[Black connects.];W[rj];B[sj]C[White reduces black's side territory and still retains Sente.]
+))
+(;W[pb]C[White plays here for a Sente endgame move.];B[qb]C[Black responds.]
+;W[qa]C[White plays another Sente endgame move.];B[ra];W[pa]
+;B[rb]C[White can now play somewhere else.
+
+The score after this exchange ended up being the same as the actual game because black wasted Sente by playing a Gote move here.  Playing through things this way ensures Sente for white while in the actual game white got Sente because black played poorly.]
+))
+(;W[hl]C[White cuts.];B[gj]C[Black takes the ko.];W[gm];B[gk]
+SQ[gl]C[Black has to connect here.  If he doesn't, then white will re-capture the ko and put the black stone at G8 in Atari.  This would cut off black's stones and kill them.]
+;W[ek]C[White blocks];B[fl];W[el]C[White blocks again.];B[fh]
+;W[eh]C[White has 2 more points of central territory now than in the actual game.]
+))
+(;W[ik]TR[hk]SQ[hj][hi][hh]C[White cuts black.  Now we have a capture race.  The marked white stones have 3 liberties and the marked black stone has 2 liberties. It is black's turn, but white should still be able to win the capture race.]
+;B[gi]C[Black doesn't want white to connect to the stone at F11.]
+;W[gj]SQ[gk]C[This move increases white's liberties from 2 to 3.  It also blocks black from extending farther into white's center territory.  If white didn't need to keep black out of white's center territory, then G9 would be a better move since it puts black's stone into Atari.]
+
+(;B[fj]C[See both variations for this move.
+
+Here, black tries to keep white from connecting to the stone at F11.]
+;W[gk];B[fk]C[White's group still has 2 liberties while black has a stone in Atari.]
+;W[fh]C[Since white has 2 liberties, this turn can be used to finish blocking black out of white's central territory.]
+;B[gl];W[hl];B[hg];W[hk]SQ[gl][fk][fj]C[The marked black stones are dead.]
+)
+(;B[gk]C[See both variations for this move.
+
+Black enlarges the one stone group and goes from 2 liberties to 3 liberties.]
+;W[fk]SQ[fj]C[This limits black's expansion of the 2 stone group and prevents black from playing Atari at F10.]
+;B[hg]C[Black plays atari.];W[fj]C[White connects.];B[gl]C[Black expands this group again.  Note this makes an empty triangle. At this point, these black stones are already dead, so this move is wasted effort for black.]
+;W[fh]SQ[gl][gk][hk]C[White is now connected to the large wall so these stones are secure.  Black's stones have no where to run and are dead.]
+)))
+(;W[jc];B[lc];W[lb];B[kb];W[ka];B[ia];W[jb];B[mb];W[mc];B[me]
+;W[nb];B[md];W[nc];B[pb];W[ob];B[qb];W[nd];B[ne];W[oe];B[nf]
+;W[ja];B[ha];W[ma];B[oa];W[na];B[pa]C[White now has enough eyes to be alive.  There is almost no top side territory left for white, but at least no large white groups died.]
+))
+(;W[kd];B[jf];W[ld];B[le];W[me]))
+(;W[ld]C[White plays with a 1 space gap between this stone and black.]
+;B[me];W[md];B[ke];W[kd]SQ[kf]C[White sacrifices the marked stone and focuses on blocking black out of the top side.]
+;B[jf];W[ne];B[nf];W[oe]C[White's territory is smaller, but secure.]
+))
+(;W[lf]SQ[nj][ni][mi][mh]C[White leaves the 4 marked stones to die.]
+;B[nh]C[Black captures.];W[mf];B[ng];W[nf]C[White has secured the top center territory.]
+))
+(;W[lf];B[kf];W[ke]C[White has a more secure series of stones this way.]
+;B[mg]C[Black tries to cut anyway.];W[nh];B[le];W[mf];B[me]
+;W[nf]SQ[me][le]C[The marked black stones don't have room to make 2 eyes so they are dead.]
+))
+(;W[mg];B[mh];W[nh]))
+(;W[no];B[lp]C[Black tries to cut.];W[lo];B[mp];W[np];B[mo]
+;W[mn]C[Black's cut fails and white has control of a larger area.]
+))
+(;W[ir];B[jr]SQ[hh][jf][mg][no]C[Now white can take Sente and play somewhere else important.  The squares are all good moves for white.]
+))
+(;W[ng]C[White blocks black without playing right next to black's stone.]
+;B[oh];W[og];B[nh];W[lf]SQ[mg]C[White puts a stone in the center of the gap rather than crawl along with black by playing at the square.]
+;B[jf];W[kf];B[mg];W[mf];B[mh]C[Now white has a large area enclosed.]
+))
+(;W[nq]C[White makes a standard opening game approach move.]
+;B[ph];W[np]C[These two moves will either secure the bottom side for white, or convince black to invade the bottom side next to white's huge wall.  Either way should work out well for white.]
+))
+(;W[qg]C[White extends.];B[pf]C[Black tries to cut];W[of];B[pg]
+;W[ph]SQ[fq]C[This makes a ladder.  In this case, black dies because of the marked white stone.]
+))
+(;W[pd]SQ[ie][he][ge][fe]C[White decides to leave the marked white stones to their fate and move on to more important things.]
+;B[hd]C[For the sake of this example, black continues to surround the 4 white stones.]
+;W[qn]C[White keeps making standard opening game moves.];B[id]
+;W[pk];B[if];W[nc];B[je];W[qf]C[White has lost 4 stones and gained most of the right side. So, white gained a lot from this exchange. 
+Before this variation, black had a strong group of stones controlling the left upper corner.  Now, black has a strong group of stones controlling the left upper corner and captured 4 white stones. So black didn't gain much.]
+))
+(;W[cd]C[White decides to play in an open corner rather than continue to push black along the side.]
+;B[ci]C[Black continues the contact fight.];W[dd]SQ[ci][bi]
+C[White has mostly secured the upper left corner.  In exchange, black has a tiny wall that faces strong white stones.  So white has gained much more than black.]
+))

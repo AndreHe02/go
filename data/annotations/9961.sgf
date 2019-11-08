@@ -1,0 +1,161 @@
+(;FF[4]GM[1]SZ[19]ST[3]CA[UTF-8]AP[SGFC:1.16]
+
+PB[Farodin]
+BR[7k]
+PW[White]
+WR[6k]
+KM[0.5]
+DT[2016-02-25]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[W+Resign]
+TM[1200]
+OT[2x60 byo-yomi]
+RU[Japanese]
+
+;B[pd]C[Greetings!
+
+I played Black in this game. The game went quite even until I messed up a simple life and death in the lower left corner.
+My preference lies with a chaotic style of play, and making things complicated. In general I'd mostly like to know where my biggest flaws are, so I can rectify them!
+
+Thanks in advance!
+Gints / Farodin
+
+Hello!
+
+This Joonas, EGF 1k. Having looked through your game, you played very well throughout, except for the L&D. There were some ideas I had and I've added comments and variations where needed. I must say this was a very high quality game and without knowing the player ranks, I would've guessed more like 3k players.
+
+Cheers,
+Joonas];W[dp];B[pq];W[dd];B[qk];W[nc];B[lc]LB[fq:D][jp:C][pb:B]
+[pf:A]C[At least in Guo Juan's Internet Go School the lecture about mini-chinese suggests black A here, and if white B, black might play elsewhere, for example C or D. But pincer seems OK as well.]
+;W[qc];B[qd];W[pc];B[od];W[nb];B[me];W[np];B[po];W[kq];B[fc]
+TR[kq][np]LB[cf:B][cn:A][lb:1]C[I feel like this approach might be a bit too small at the moment. Should I have maybe approached at A or B to split up the left side?
+
+Joonas: Yes, this is a small area for black to play, because white has 1 which usually should not be directly blocked. This means you are getting maybe 8 points of potential (not certain) territory while making white corner a bit more secure. I would definitely play A, as white extension on bottom would leave triangled stones a bit too far from bottom left and too tight to be optimal.
+
+Any move that will potentially make opponent's earlier moves awkwardly positioned is always good to consider. In current shape, black approach to upper left actually makes black joseki at upper right a bit doubtful.]
+;W[cf];B[db];W[cn]LB[cc:A][hd:B][ic:C]C[As white, I might have played A, just to see if black plays slow B or C and then play here. But black might leave his stones as they are (as B and C are a bit slow), so straight tenuki seems nice.]
+;B[er]C[Was this too greedy? I felt like I had to do something at this point to prevent him from making a ton of points... :/
+
+Joonas: This looks definitely playable. More normal A also possible, there's room for 2-space extension for black and then white bottom group is a bit lonely. But I like the direction here.]
+;W[fq];B[cq];W[dq];B[dr];W[cp];B[bq];W[fr]LB[cc:C][ch:B][dj:A]
+C[I'm not sure if this bottom group is settled or not. I vaguely think a pro might play elsewhere even if it could be killed (directly or with ko) just to get to play elsewhere. My gut feeling is that black can at least get a ko without adding any stones, and that might be enough for now, white will not have time to kill this just now.
+
+So maybe play around A-C instead of next defending move, and return to this group later if needed. C would expect white to expand on left side, after which you reduce white formation, for example with a capping move around A. See variation]
+
+(;B[bs];W[ok];B[oj]SQ[pg][ph][qg][qh]C[Nice move! Get the most out of top right potential.]
+;W[nj]
+(;B[nk]LB[lk:C][oj:A][ol:D][pj:B]C[I preferred the crosscut here, as white sealing off the center looked really dangerous to me
+
+Joonas: I think this crosscut creates unnecessary complications. If you play A, it suggests you are fine giving white some stones towards center (after all, white could play this position instead of his hane). Instead of crosscut, you should follow up with B, let white add a move to protect the cut, and have a plan to reduce afterwards. If you did not have a plan, you would not play A, you'd play something like C or D. See variations for some possible plans.]
+;W[ol];B[mk]TR[kq][me][nj][nk][np][od][oj][ok][ol][pd][po][pq]
+[qd][qk]LB[pj:A]C[At this point as white, I would give black his two center stones and destroy black right side starting at A in exchange. Black loss would be bigger as he has invested more stones for his side than white for his center.
+
+Looking at the sequence that follows, black goes back to A, and gives white a great attack. I think this indicates that black omitting A earlier was just "creating debt", and when you need to return to pay it back, you'll suffer in the position where you continued instead (the crosscut stones in this case).]
+;W[ni];B[pj]C[When black returns to fix this, two black stones in the center provide perfect attack target for white. Playing this move immediately would give you more options in the center, because you would not have the two stones invested already.]
+;W[on]LB[kk:2][lj:1][po:A][qk:B]C[This is a position which I too encounter in my games (I have similar "create confusion" style as well). It feels important to protect at A, but you really cannot afford to respond to all threats, because white will then have too strong position to attack your weak stones in the center.
+
+A good place to ask: Can I survive with my groups if I ignore the leaning attack? My initial analysis is, that A stones can live in the corner, and B stones can connect to one direction or the other, so you might play 1 or 2 now. Counterattack (against lone white two stones) is in many cases a way to keep to game going the way you want, and not let your opponent to dictate where next fight will happen.]
+;B[pn];W[pm];B[lh]LB[li:A][lj:B]C[perhaps A was better here? My idea was to start building the upper side while chasing the two white stones
+
+Excellent decision to tenuki, you did what I suggested, just one move later. :) I think A or even the kosumi of B is better, as white A just devastates black position. I think this is a critical move considering the whole game -- you are taking the initiative and attacking white stones, you should find a move that is the most severe.]
+;W[li]C[White finds the excellent position to cut the ogeima, there is just no way to connect black stones, and later on A will be in perfect place to reduce black right side. Also, two black stones are now attacked more severely than these white stones.]
+;B[ki]C[I do like this "minimize the damages" move, a weaker player would try to save his two (now rather worthless) stones. Excellent job in adapting!]
+;W[lj];B[oo]
+(;W[nn];B[no]C[Maybe a bit early to push from here, but you are cashing in on the aji created by your two stones, so quite doable. As white, I would have blocked instead of letting my bottom side suffer. See variation before. It's a complex position so hard to say what is the best course of action.]
+;W[mn]LB[cc:C][dh:D][jh:B][mp:A]C[White is hurting his bottom a lot this way, the territory around A is too small considering that. Here, I would immediately cash in this lapse from white and play A as black, then I would be free to play elsewhere. Another option would be to play elsewhere immediately, possible big moves would be B-D (not sure about exact location of D, but something to attack white top left and reduce left side at the same time.]
+;B[mo]C[This push feels "one too far" considering the profit you get on the bottom, vs. profit white gets in the center.]
+;W[lo];B[mp];W[lp];B[mq]C[Was this perhaps too small at this point in the game?
+
+Joonas: Yes, exactly. You might just omit this move, white has very small continuations considering how large moves are still available elsewhere.]
+;W[qm]
+(;B[pg]C[Although this is big, I have the feeling that if white now gets time to build his center, you cannot afford this move. I would risk a fight and "barely living" here later and play on the center/left area instead as black.]
+;W[mh]LB[ff:A]C[Question: What are these two stones worth to black? Extending feels natural, but essentially you are playing dame stones until you have a wall around A. Now that your right side is safe, just ignore this and white will soon realise his move was too small.]
+
+(;B[lg];W[kj];B[ji];W[jj];B[ii];W[hk]LB[dj:A][ge:B][lb:C]C[White is concentrating maybe too much in his immediate potential, I think A-C would have been larger than this.]
+;B[ch]C[Excellent!];W[cj]
+(;B[di]C[This creates most pressure to white top left, but does give a nice profit for white on the lower left. But definitely a valid line to pursue.]
+;W[ek];B[cc]LB[ek:A]C[Superb. I think white A was just too greedy, this is very good for black.]
+;W[ef]C[I think the only problem with this attack is that you need to connect your splitting stones first, which makes it hard to kill. But you do get great strength from this attack.]
+;B[fh]TR[cf][dd][ef]C[Was attacking this group even a good idea or not?
+
+Joonas: Excellent idea, black is in control now. I think the only problem is that the earlier exchanges have given a lot of points to white, so you'll still need careful play to win.]
+;W[bh];B[bg];W[cg];B[bi];W[dh];B[ci];W[eh];B[ei];W[fg]
+(;B[gi];W[bf];B[ah];W[gh];B[fi];W[fd];B[gd];W[ge];B[hd]C[I think black is playing quite nicely here. However, white does start to be quite alive, so now the question becomes who gets sente.]
+;W[he];B[id];W[bk];B[ik]C[I think this is a beautiful combination from black. My only concern is that after white A, black is not 100 % certainly alive anymore, if white was a dan-level player, he might find a way to fend off this attack.]
+
+(;W[ij];B[gk];W[gl];B[hl];W[hj];B[fl];W[gm];B[fk];W[fm];B[el]
+;W[dm];B[dl];W[cl]LB[lb:B][lr:A][rn:C]C[Amazing sequence from black. Note that black does not need to connect anymore, you can play a big endgame move like A-C now. See variation]
+
+(;B[hi];W[rp]LB[lb:A]C[Now white gets the big endgame move. I might have played A first myself.]
+;B[ro]C[Excellent. White played 1 too far.];W[rn];B[so];W[ph]
+;B[qh];W[pi];B[qi];W[rc];B[rd];W[lb];B[kb];W[mc];B[kc];W[ec]
+;B[eb];W[bd]LB[lr:A]C[Maybe play A yourself now?];B[bc];W[jf]
+C[Quite a small move from white.];B[an];W[ao];B[bo];W[bn];B[am]
+;W[bp];B[ap];W[og]
+(;B[oh];W[oi];B[of];W[ng]C[I really like that you did not play A after black hane. However, you could just double hane and omit the atari, see var]
+;B[lr]C[Very good!];W[kr];B[rl]LB[sc:A]C[Useless move, I think x)
+
+Joonas: No, it's a big endgame move. :) Maybe A is bigger, though.]
+;W[sd];B[se];W[sc];B[re];W[pf];B[qg];W[nf];B[oe];W[hg];B[if]
+;W[ig];B[ie];W[kg]C[When opponent threatens to cut in the endgame, pointwise it might be better to live with points than connect.]
+
+(;B[kh];W[lf];B[dk]C[Good!];W[le];B[md]LB[cd:C][ck:B][ks:A]
+[la:E][oc:D]C[This move does absolitely nothing, :-d];W[mf]
+C[Well, white responds in similar measure, 1 pt gote move :)]
+;B[hf];W[gf];B[em];W[en];B[eq];W[ep];B[fs]C[this is where I royally messed up, and the game is over by then]
+;W[gs];B[cr];W[es]
+(;B[qn];W[ar]TR[lh]LB[bc:5][hi:4][ii:B][kh:3][lg:6][md:2][mq:1]
+[nk:A]C[RIP
+
+Yeah, game over here.
+
+Before this untimely death, it seems white has about 12 on top right, 8 in top left, 66 in the center for 86 in total plus komi. 
+Black has 4 in bottom left, 4 on left, 20 on top left, 18 on right, and 28 on bottom right corner, for 74 in total. With good endgame, the game might be quite close but still I think at least 10 pt for white.
+
+Main issues for black in this game (apart from this L&D) was that the crosscut at A and slightly long line of pushes at B gave white a great center and a lead, which was somewhat widened by the slow moves marked 1-6. However, black did a brilliant reduction of white center and made more points in top than I would've thought possible.
+
+I think white played well above his 6k level, making very few mistakes over the whole game, so even when black did the same, it was just not enough.
+
+Main areas which might improve your game might be to find 1-2 more places where you can safely play elsewhere, and making solid shape when attacking. I think the triangled move decided the outcome of this one, without that I think the game would've turned out quite differently.
+
+Thanks for reading, I hope this was useful!
+
+Joonas];B[bl];W[bm];B[al];W[ak];B[ao];W[aq];B[ln];W[lm];B[kn]
+;W[km])
+(;B[ar]))
+(;B[dk]LB[ck:A]C[Not that this also threatens A];W[kh];B[ck]
+
+(;W[bj];B[bl])
+(;W[bl];B[bj];W[lf];B[mf];W[mg];B[md]C[You get more points than white I think.]
+)))
+(;B[of];W[ng]))
+(;B[lb];W[hi];B[dk]))
+(;W[hh]C[I was wondering if white could threaten to cut...]
+;B[hi];W[ij];B[gk]C[...but this seems to result in very similar sequence as in the game.]
+))
+(;B[gh]C[Black A group will live so this would keep up a bit more pressure.]
+))
+(;B[eh]C[Another way to play: "Please connect under in gote if you want", you might get sente this way.]
+))
+(;B[jh]LB[kj:A]C[This prepares better for reduction, as you can hane if white plays A]
+))
+(;B[cj]C[Let's assume you don't protect...];W[ph];B[qh];W[qg]
+;B[pg];W[og];B[pf];W[qi];B[oh];W[pi];B[oi]C[I think black will connect quite easily here, one way or another.]
+))
+(;W[no]C[I feel there is a way to make this block work...];B[nn]
+;W[nm]C[There is a ko here, maybe a bit risky for white, but I'm not sure if what was played was better for white.]
+
+(;B[mn];W[mm]C[After this white has about captured the two black stones and can live independently even if ko is lost...]
+)
+(;B[om];W[mn];B[on];W[mm];B[nl];W[lk];B[pl];W[kh]C[Maybe white could play this way, giving black some stones and then aim for a huge center.]
+)))
+(;B[pj]C[This feels a natural follow-up to your earlier tsuke.]
+;W[mk]C[White should protect the cut somehow.]
+(;B[nl];W[nk];B[nn]C[This is one direction to enter white moyo.]
+)
+(;B[jp]C[A bolder plan would be this, and might suit your "create confusion" style of playing. :)]
+)
+(;B[ik]C[There might be some cosmic move as well, reducing and preparing to support invasion on the left side.]
+)))
+(;B[cc];W[ci];B[dj]C[This would give black corner points and keep white low. Of course white might play something else.]
+))

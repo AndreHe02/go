@@ -1,0 +1,119 @@
+(;FF[4]GM[1]SZ[13]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+PB[glasnost]
+BR[28k]
+PW[Rozni]
+WR[28k]
+KM[6.5]
+DT[2005-02-27]
+PC[IGS-PandaNet]
+RE[B+2.50]
+TM[600]
+RU[Japanese]
+
+C[My name is Ted Schuerzinger, and I'll be reviewing your game.  I've preceded all of my comments with my name.]
+;B[jj];W[dd];B[jd];W[dj];B[jg]C[After reading about san-ren-sei at SL, I decided to try it. Later on, I wondered: is there any point to the middle stone on a 13x13 board, or would you favor expediting the attack/territory grab?
+
+Ted: I think I would have played either G3 or G11.
+
+However, I think it's more important to note that there's less center territory on a 13x13 board than on a 19x19 board.  There's a proverb about the fourth line being for influence and the third line for territory.  So one of your first two stones should probably have been on the third line, either K11 or K3.]
+;W[gg];B[gc];W[gd]
+(;B[hd]C[Ted: I think I prefer the shape you get after playing at H11.  See the variation.]
+;W[ge];B[ec];W[fc]
+(;B[fd]C[Is this a good move? It seems like Black's expansion into the corner is pretty much stopped if White plays F12.
+
+Ted: F12 certainly would be better.  Note that one of the problems created by playing H10 earlier is that you've now got several cutting points to deal with.]
+
+(;W[ed]C[Similarly, why doesn't White play F12? Even if Black connects at E10, it looks like the inside group could still be killed in short order.
+
+Ted: You're absolutely right that White erred by not playing F12.]
+;B[fe];W[ff];B[fb];W[ee];B[fc]C[I tend to end up with this cross shape a lot. Does this mean anything (apart from its strange Christian overtones :)?
+
+Ted: I think it means you're playing sequences with lots of cutting points which require you to capture and then fill in.]
+;W[ie];B[je];W[id];B[ic];W[he];B[hc];W[dc];B[db]C[Ted: It would be a bigger move to play either something like G3, or C3.]
+;W[cb]
+(;B[da]C[In retrospect, I probably should have played C13, taking a point from White.
+
+Ted: More than one point, actually.];W[ca]
+(;B[ea]C[Is this play necessary?
+
+Ted: No.  See the variation for what happens if you play elsewhere.]
+;W[ig];B[jh];W[ih];B[ii];W[hi]
+(;B[ik]C[Are there any hazards in this move that I can't see?
+
+Ted: Hazards?  No, but I don't think it's big enough.  Either invade at C3 now, or play H4.]
+;W[hk];B[il];W[hl];B[hm];W[gm];B[im];W[fk]
+(;B[cj]TR[fk]C[The following sequence is the main reason I submitted this game for review.
+1) How can White make this invasion unsuccessful?
+2) Will tactics like this work on SDKs and low DDKs?
+3) Is there any reason to start this invasion earlier (in general, not just in this game)?
+
+Ted: The invasion should have been earlier, but more importantly, I think it should have been at C3.  The problem with an invasion now is the stone at F3, which White can use to help kill Black invasions.]
+;W[ci]
+(;B[bj];W[bi];B[ck];W[dk]
+(;B[aj]C[Ted: I think B2 would have been better here, although I don't think it would have worked.]
+;W[ai]C[Ted: White should have played B2 here.  The point is not to take away your opponent's liberties, but to take away your opponent's *eyespace*]
+;B[bl];W[dl]
+(;B[dm]C[I have no idea what twisted sectors of my mind convinced me to play this move, and unless I'm forgetting my own logic (it's been a few hours since I played this game), the thoughts leading up to this play most likely included the words "why not". But it worked :)
+
+If you can remind me of my strange impetus (or boggle at its sheer idiocy), I would appreciate it.
+
+Ted: I fear this move is just a mistake.  I believe the best move for getting two eyes is A3.]
+;W[cl];B[cm];W[em];B[am];W[bm]C[I remember thinking that my play at A1 gave me two eyes, so obviously something was not right in my head at the time :)]
+;B[cm]
+(;W[dm]C[At this point, I remembered a "Ko for Life" problem I'd done on goproblems.com, which sort of validated the hours I'd spent there :)
+
+Ted: White didn't need to play this move.  A3 would have killed the group immediately.]
+;B[ak];W[bm];B[gl];W[gk]C[Why didn't White connect? Black G3 doesn't seem like much of a problem, unless I'm missing something.]
+;B[fm]C[Ted: You should have taken the ko at C1 instead.  White makes a serious error on his next move.]
+;W[fl]C[Ted: White should have captured at A2, creating a two step ko which kills Black in the bottom left.]
+;B[cm];W[gm];B[bm]C[Gleeful dancing ensued (to the puzzlement of those in the same room as me :)]
+;W[hj];B[ij];W[if];B[jf];W[dg];B[jc];W[cc];B[tt];W[tt];B[tt]
+TW[aa][ba][ab][bb][ac][bc][ad][bd][cd][ae][be][ce][de][af][bf]
+[cf][df][ef][gf][hf][ag][bg][cg][eg][fg][hg][ah][bh][ch][dh]
+[eh][fh][gh][hh][di][ei][fi][gi][ej][fj][gj][ek][el][gl][fm]
+TB[fa][ga][ha][ia][ja][ka][la][ma][eb][gb][hb][ib][jb][kb][lb]
+[mb][kc][lc][mc][kd][ld][md][ke][le][me][kf][lf][mf][kg][lg]
+[mg][kh][lh][mh][ji][ki][li][mi][kj][lj][mj][bk][jk][kk][lk]
+[mk][al][jl][kl][ll][ml][jm][km][lm][mm])
+(;W[ak]))
+(;B[ak]))
+(;B[bl];W[ak];B[dl]
+(;W[el];B[aj]
+(;W[dm]
+(;B[cl];W[al];B[cm];W[em])
+(;B[al]))
+(;W[al];B[bk];W[bm];B[am];W[cm]))
+(;W[cm];B[cl])
+(;W[aj];B[al]
+(;W[cm];B[cl]
+(;W[bm];B[gl]
+(;W[fl];B[fm];W[em])
+(;W[gk];B[fm];W[fl];B[em];W[gm]))
+(;W[el];B[bm];W[dm];B[em];W[dm];B[cm];W[fm]))
+(;W[el];B[cm]))))
+(;B[ck];W[bi];B[bj];W[bl]))
+(;B[ck];W[cj]
+(;B[dk];W[ek];B[bj];W[bi];B[bk];W[dl];B[cl];W[el]
+(;B[bm])
+(;B[al];W[bm]))
+(;B[bj];W[dk];B[cl];W[bi]
+(;B[bk];W[dl]
+(;B[al])
+(;B[bm];W[al]))
+(;B[aj];W[al]
+(;B[bm];W[ai])
+(;B[dl];W[bm];B[bl];W[ak])))))
+(;B[hj]
+(;W[gi];B[ck])
+(;W[gj];B[ck])))
+(;B[gk]
+(;W[ea];B[eb])
+(;W[fa]C[Ted: The only thing you really have to worry about is if White tries to create a snapback by playing something like F13 instead of playing an atari.  This threatens E12 and a snapback.]
+)))
+(;B[ca];W[bb];B[ba]))
+(;W[fb];B[ed]
+(;W[eb];B[dc];W[cc];B[cd];W[de];B[cb];W[bc];B[db])
+(;W[hc];B[dc])))
+(;B[fb];W[fd];B[hb]))
+(;B[hc];W[hd];B[id]))

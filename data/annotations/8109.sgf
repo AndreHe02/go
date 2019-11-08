@@ -1,0 +1,86 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.17]
+
+PB[Avokado]
+BR[13k]
+PW[kodysh]
+WR[12k]
+KM[0.5]
+DT[2010-10-06]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[W+25.5]
+TM[3600]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+C[Avokado [13k\]: good luck];B[pd]C[kodysh [12k\]: hi gg
+
+dc: Hi, I'm dancor, 5k on KGS.  I'll give a general review on White's moves.  I'll prefix my comments with "dc:".  I have some closing advice in my last comment.  Let me know if you have any questions.]
+;W[cd];B[cp];W[qp];B[eq];W[nq];B[cj];W[cm]C[dc: This invasion is premature.  Don't play middlegame moves (such as invasions) in the opening.  A move around E17 or Q10 instead is a developing move which is better in the opening.  You should generally play corners then sides in the opening, and wC16 is a "half-open corner", so White's current move should be around E17.  In fact, Black's last move should have been around E17, for the same reason.]
+;B[el];W[en];B[fn];W[ep];B[fp];W[fo];B[go];W[eo];B[fm];W[fq]
+;B[gp];W[dq];B[er];W[fr];B[dr];W[cq];B[cr];W[bq];B[gq];W[dk]
+;B[dm];W[dn];B[cn];W[dp];B[bo];W[bn];B[bm];W[co];B[cl];W[bp]
+;B[cn];W[ao];B[cm];W[jq]C[dc: This is too close to Black's wall.  A primary meaning of the maxim "don't play too close to opponent thickness/strength" is this very situation on the bottom side: bM3 could become an invasion point because the three-space jump connection of wK3-wO3 is just big enough for Black to weasel into later, and the Black wall at bG4 supports such an invasion.  Black won't do this right away since it is too early (invasions are risky and should basically only be done once you are sure you need to), but there is a long-term weakness.  Note that looking beyond just this typical situation on the bottom side, a whole-board view also indicates that Black could push down around bK5 and begin develop the central region -- this works nicely with the outward strength around bE7.
+
+Additionally, this move is the wrong direction for the bottom right area.  A move around wQ10 is the correct direction to develop the wQ3-wR4 corner-enclosure first.  wK3 makes a flat structure.  It is much better to develop toward wK3 after wQ10.
+
+Also, wE17 is still needs to be played at before any of this.  The order is: corners, then sides, then middle-game moves like developing toward the center or seeking out fights.]
+;B[pq];W[pp];B[op];W[oq]C[dc: Black is also being far too agressive of course.  wP3 is _excellent_ for White.  Black is torn apart locally, a complete disaster.]
+;B[qq];W[rq];B[pr];W[or]C[dc: This makes an empty triangle.  wS2 is better.]
+;B[rr];W[rp];B[qs];W[sr];B[np];W[mq];B[po];W[qo]C[dc: Another empty triangle.  wR6 is better.]
+;B[pn];W[qn];B[mp];W[jo];B[lq];W[lr];B[kq];W[kr];B[os];W[mr]
+;B[lo];W[hr];B[gr];W[ed]C[dc: Yay!];B[dc];W[dd];B[cc];W[bc]
+;B[bb];W[bd];B[ec];W[fc];B[eb];W[fb];B[da];W[ch]C[dc: wA18 kills and is better.
+
+This wC12 also plays too close to thickness, both your own (wC16 wall) and your opponent's (bC10).  If you want to develop a wall like this, the optimal distance to play away from it is usually the number of spaces of the height of the wall, plus one. (http://senseis.xmp.net/?ExtensionFromAWall)  In this case, there is already a Black stone at that distance: bC10.  So you should not use the strength of your wall by developing it with an extension move.  At least not until the early _endgame_ when you are just grabbing all the points you can -- you emphasize other issues before then.
+
+In this case there is a big weakness at F16 and so a move like wG15 is a much better move regarding this wall and area of the board.  If Black pours into bC13 then pushing him down around wE13 develops White's center-facing strength excellently.]
+;B[eh];W[di];B[dg];W[cg];B[df]C[dc: Now it is Black who can get excellent center-facing strength if he can connect bE12 and bE8.  In any case, White has lost that opportunity for very few points of territory around B14 that he probably would have gotten anyway.]
+;W[cf];B[fd];W[gd];B[fe];W[hd];B[fa];W[gb];B[ga];W[ha];B[ea]
+;W[hb];B[ab];W[kd]C[dc: It is fortunate that Black had to play bA18 which both players apparently didn't realize for the past many turns.  This wL16 is good development, though pushing up with wQ7 then wP8 might be better.]
+;B[md];W[lc];B[mc];W[qc]C[dc: This invasion is too early.  Letting Black have outward-facing strength facing down at White's far-from-perfect wR6 area is questionable.  Addressing the weak wR6 area and developing the right side is better than an invasion.  The whole right side is still very open.
+
+Perhaps it seems contradictory for me to indicate treating the right side before this upper right corner.  However, Black has already completed an initial claim to the corner with bQ16.  Getting an initial claim on the right side is bigger than disputing the corner.
+
+Also, the bN16 stones make Black is too strong for this invasion anyway!  The stronger an opponent is around an area, the more you should only invade if you feel you absolutely have to make up a deficit of points -- invading is risky and invading strong areas like this is more of an all-or-nothing last resort.]
+;B[qd];W[pc];B[oc];W[ob];B[nb];W[pa];B[rc];W[rb];B[qb];W[pb]
+;B[sb];W[qa];B[sc];W[pm]C[dc: When all else fails, do the right thing.  :)]
+;B[nn];W[om];B[nm];W[pj];B[qh];W[qi];B[ri];W[rj];B[ph];W[rh]
+;B[pi];W[si];B[oj];W[ol]C[dc: No!  Empty triangle!  In addition to the obvious bO8 being just fine for Black, the atari weakness is left as well.  wQ9 better locally.]
+;B[pk];W[qj];B[ok];W[qk];B[nl];W[rg];B[qg];W[rf]C[dc: Why not wR14?  In any case, this area is way too small to care about right now.  The White stones are definitely alive so there is no reason to do a small push here.  Contesting Black's control of the middle is a _much_ bigger concern.  You could pour in from your strong top side around wJ12.  Or dispute the safety of the bE12 stones with a move like wF10.]
+;B[qf];W[re];B[rd];W[hg];B[gg];W[gf];B[ff];W[hf];B[gh];W[hh]
+;B[ac];W[ad];B[ee];W[de];B[fj];W[lf];B[jj];W[hj];B[jm];W[ji]
+;B[ki];W[jh];B[kh];W[kg];B[mh];W[nf];B[mf];W[mg];B[me];W[ng]
+;B[lh];W[lg];B[lb];W[kb];B[ld];W[kc];B[ka];W[ja];B[la];W[jb]
+C[dc: A move around wM15 is slightly better.];B[oe];W[oh];B[oi]
+;W[kn];B[lm];W[km];B[kl];W[jk];B[kk];W[jl]C[dc: So we are getting to the endgame now.  It's a good time to count up an estimate of the score.  Rough estimates are good throughout the game to guide your strategic decisions, but at this point you can often get things a little clearer.
+
+For Black, I see about 5 in the upper left, 27 in the upper right (remember to double-count prisoners), 9 in the bottom left, 5 in the upper left of the center, and 18 in the lower right of the center.  You might find it faster in the game to count everything together instead of breaking it up like this, but I thought this would be clearer that way here.  Also, counting by 2s is a common method to speed up counting.  In any case, Black has about 64 points.
+
+For White, I see about 9 on the middle of the left side, 5 in the lower left, 20 on the middle of the top side, 25 on the bottom right area, 19 on the right, and 4 more prisoners off the board than Black.  So White has about 83 points.
+
+In any case, hopefully (in time anyway) it doesn't take to long to see in a position like this that White is probably around 20 points ahead.  So White is just trying to force the endgame to go normally without any surprises (cover any weaknesses instead of picking complex fights).  Of course Black wants the opposite and some kind of crazy attack is warranted -- even if it doesn't have a high chance of succeeding it's probably his only chance at winning.  Without a group dying or a lot of stones being cut off, White is going to win.
+
+In the remainer of this game, Black doesn't seem to go for that kind of a Last Stand, so the game just fizzles out with White ahead.  I think at times in the endgame White plays more aggressively than is needed with such a lead, but it worked (White even gains ~5 points) so I won't say too much about that.
+
+In general, I think you need to focus most on the order of events -- what to do in the opening in what order (corner, sides, rest), and when to invade (only when all parts of the board have been played in initially).  Also, think more about walls -- how to use them _indirectly_ (force weak enemy stones into them instead of just claiming territory with them), and how even a "sucessful" invasion can give the opponent a strong outward-facing wall that is worse than the territory you got (and moreso the earlier it is in the game).  Tactically, I would just say to avoid empty triangles more.  You seem to be good at splitting the opponent which is very good.  Most people don't emphasize connection enough.
+
+I think the biggest thing here is that you would have been leading by more like 40 points than 20 points if you hadn't pursued the failed and strategically-inadvisable-anyway invasion in the upper right.  The first 20 points were basically from tactical superiority, so work on improving your strategic side as well.
+
+This is my last comment.];B[ik];W[il];B[hl];W[im];B[in];W[hm]
+;B[gm];W[hn];B[ho];W[jn];B[gn];W[io];B[ij];W[hk];B[gl];W[ii]
+;B[kj];W[fi];B[ei];W[ej];B[ek];W[dj];B[dh];W[ci];B[gi];W[gj]
+;B[fk];W[hi];B[fh];W[ck];B[br];W[ar];B[ge];W[he];B[le];W[kp]
+;B[lp];W[ke];B[bj];W[bk];B[ak];W[al];B[bl];W[aj];B[ir];W[jr]
+;B[hq];W[iq];B[is];W[js];B[hs];W[ds];B[on];W[qm];B[se];W[bs]
+;B[fs];W[qe];B[pe];W[pg];B[pf];W[og];B[nh];W[ne];B[nd];W[ln]
+;B[mn];W[sf];B[sd];W[pl];B[ko];W[jp];B[cs];W[dl];B[em];W[am]
+;B[tt];W[aq];B[tt];W[tt]TW[ia][ib][gc][hc][ic][jc][id][jd][ae]
+[be][ce][ie][je][af][bf][if][jf][kf][ag][bg][ig][jg][sg][ah]
+[bh][ih][sh][ai][bi][ri][bj][cj][sj][ak][rk][sk][ql][rl][sl]
+[jm][rm][sm][an][in][rn][sn][bo][do][ro][so][ap][cp][sp][pq]
+[qq][sq][nr][pr][qr][rr][ks][ls][ms][ns][os][ps][qs][rs][ss]
+TB[aa][ba][ca][ma][na][oa][pa][qa][ra][sa][cb][db][mb][ob][pb]
+[qb][rb][nc][pc][qc][od][ef][eg][fg][fi][li][mi][ni][lj][mj]
+[nj][lk][mk][nk][fl][ll][ml][mm][mo][no][oo][fq][fr][hr][ds]
+[es][gs]C[kodysh [12k\]: ty
+Avokado [13k\]: thanks])

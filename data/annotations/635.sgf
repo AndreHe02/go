@@ -1,0 +1,143 @@
+(;FF[4]GM[1]SZ[19]AP[SGFC:1.13b]
+
+PB[stromberg]
+BR[ca. 15K]
+PW[handtalk]
+WR[ca. 12K]
+KM[5.5]
+RE[W+24.5]
+
+C[This is a game against HandTalk 98.06.
+
+Playing with no handicap is "ambitious" for me.  A 5 stone handicap is much more likely to lead to a win, but I want to work on my fuseki.]
+;B[qd];W[cp];B[dd];W[pq];B[jc];W[qo];B[cj];W[oc];B[pb];W[eq]
+;B[jq];W[ob]
+(;B[pc]C[How important is it to play here?  I do it habitually.
+Holo: It is not so important. There is a risk for black, that white invades the corner. But he will not get eyes there. So can invade only, when his position is strong. I assume you play another move:]
+;W[lc]
+(;B[gc];W[be]
+(;B[bc];W[df];B[cm]C[Holo: Good];W[mq];B[gq];W[qi]LB[oi:a][mo:b]
+C[I've heard 5 point jumps are good, but when I try them, HandTalk dives in.  I, on the
+other hand, wouldn't know what to do after diving.
+Holo: A 5 point jump is a very loose play. It can mostly be invaded. So the 5 point jump does not secure territory, He threatenes to make a large territory, whe extending from it, for example, when adding stones at a and b.
+Whe you invade there, both groups struggle into the center, but white is better off, because his influence is at the outside, and can be used for attack. I added a variation.]
+
+(;B[qg];W[pl];B[kb]MA[cg]C[Holo: a move around the mark would have been better. This white group is very weak.]
+;W[ch];B[bi];W[lb];B[bo];W[bp];B[fr];W[pe];B[qe];W[od];B[lr]
+;W[mr];B[co];W[eo];B[lq];W[dp]
+(;B[dr]C[I'm hoping to steal the corner, to force white to run out into the middle.
+Holo: Good];W[er];B[es];W[em];B[br]MA[oi][mi][ml][mo]C[Holo: The territory seems to be divided. So let us count.
+black has:
+20 points in the upper left
+15 points in the upper right
+10 points at the left side
+10 points at the bottom
+white has:
+6 points at the top
+30 points at the lower right
+So black is far off. All black has to do is not to allow white to get significant more territory than black in the center. You have to look for potential territory for both sides. For white the territory with the marked points look good. So must must try to develop a strategy, to allowing white to get this territory or get or get own in reverse. One possibility is to attack the 2 white weak groups. I added a simple variation.]
+;W[bh]
+(;B[ci]C[Same question as before - is it important to double up in this kind of circumstance?
+Holo: You have always a diagonal connection. So it is not necessary. The possible threat in such a situation is the connection with a. But because of your diagonal connection it does not work. See variation.]
+;W[eh];B[ap]C[Holo: Unnecessary, the black stones are almost secure.]
+;W[ho];B[bq]C[Holo: Unnecessary as before.];W[pf];B[qf];W[fp]
+;B[hq];W[oo];B[ph]C[So the edges are all staked out - I'm starting to crawl out into the middle, hoping to keep white from taking too much of the center.
+Holo: Thats right, but you should use the weakness of the white stones.]
+;W[pi];B[oh];W[rh]
+(;B[lg]TR[lc][lb][oc][ob][od][pe][pf]C[Here, I'm abandoning my crawl, and hoping to put a little pressure on the marked stones, while increasing the area I have facing the center.]
+;W[nf];B[nh];W[le];B[jf];W[cd];B[cc];W[dc];B[ec];W[gh]
+(;B[db]C[Holo: Also unnecessary, see variation];W[hj];B[gf]
+C[Holo: Too slow. Try to see the potiential territories. Then try to use or destroy them. You have just secured about 10 points, the next white move secures nearly 20 points.]
+;W[jk];B[je];W[lk]
+(;B[jh]C[This feels small, but I don't really know what else to do.
+Holo: In general there are 2 possibilities to reduce your opponents territory.  1) You run out from secure positions. This is the secure way, but it is slow and always allowes the opponent to block.
+2) You invade, and connect to either side. This is more risky, but your opponent has to block either side.
+Applying to this situation, you should invade (you had to do it 2 or 3 move earlier. Now it is more difficult. But i added a variation.]
+;W[jo];B[lp]TR[gq][hq][fr][jq][lr][lq][lp]C[The marked area is almost completely closed in, so I'm trying to crawl out.]
+;W[mp];B[lo];W[kn];B[mn];W[ee];B[fd];W[dl];B[cl];W[dk];B[ck]
+;W[oj];B[nm];W[om];B[nl];W[nk];B[ml];W[hg];B[hf];W[ig];B[jg]
+;W[di];B[if];W[mk];B[ll];W[kl];B[lm];W[pa];B[qa];W[oa];B[qc]
+
+(;W[rg];B[rf];W[ki];B[lh];W[li];B[mi];W[ii];B[mj];W[fg];B[ff]
+;W[ef];B[fe];W[dj];B[dn];W[en];B[km];W[jm];B[ko];W[jp];B[kp]
+;W[ls];B[ks];W[ms];B[kr];W[kd];B[jd];W[bd];B[ji];W[jj];B[kh]
+;W[ac];B[ab];W[ad];B[bb];W[gl];B[gp];W[go];B[ip];W[io];B[fq]
+;W[ka];B[ja];W[la];B[kc];W[sf];B[se];W[sg];B[qh];W[ri];B[lj]
+;W[kj];B[ol];W[nn]
+(;B[mo];W[no];B[ok];W[pk];B[nj];W[kk];B[oi];W[pj];B[pm]
+(;W[ql]TR[oj][qi][pi][rh][rg][sf][sg][ri][pl][pk][pj]C[HandTalk realized I wanted to go after the marked stones.]
+;B[on];W[qm];B[pn];W[po];B[qn];W[rn];B[om];W[mf];B[mg];W[ai]
+;B[aj];W[ah];B[cq];W[de];B[ih];W[hh];B[kf];W[ed];B[dc];W[og]
+;B[ng];W[pg];B[ke]
+(;W[md];B[ld];W[hp];B[iq];W[lf];B[kd];W[jn];B[do];W[ln];B[mm]
+;W[ep];B[dq];W[dm];B[pd];W[gg];B[tt];W[tt];TW[ma][na][mb][nb]
+[mc][nc][nd][ae][ce][me][ne][oe][af][bf][cf][of][ag][bg][cg]
+[dg][eg][dh][fh][sh][ei][fi][gi][hi][si][ej][fj][gj][ij][qj]
+[rj][sj][ek][fk][gk][hk][ik][qk][rk][sk][el][fl][hl][il][jl]
+[rl][sl][fm][gm][hm][im][rm][sm][fn][gn][hn][in][sn][fo][ro]
+[so][np][op][pp][qp][rp][sp][nq][oq][qq][rq][sq][nr][or][pr]
+[qr][rr][sr][ns][os][ps][qs][rs][ss]TB[aa][ba][ca][da][ea][fa]
+[ga][ha][ia][ra][sa][cb][eb][fb][gb][hb][ib][jb][qb][rb][sb]
+[fc][hc][ic][rc][sc][gd][hd][id][rd][sd][ge][he][ie][re][kg]
+[mh][ni][bj][ak][bk][al][bl][am][bm][an][bn][cn][ao][aq][kq]
+[ar][cr][gr][hr][ir][jr][as][bs][cs][ds][fs][gs][hs][is][js]
+C[The game is over.  Final score:
+   White = 88 territory + 0 captures + 5.5 komi = 93.5
+   Black = 66 territory + 3 captures = 69
+White wins by 24.5.])
+(;W[ld]C[Isn't this better?]))
+(;W[on];B[qm];W[ql];B[rm];W[rl];B[sl];W[sk];B[sm];W[rk];B[sj]
+;W[rj]C[It seems like this wasn't that much of a threat...  or am I not attacking as effectively as HandTalk anticipated?
+Holo: The white group IS alive. You worked it out correctly.]
+))
+(;B[no];W[on];B[mo];W[np]C[In retrospect, I like this better.]
+))
+(;W[se]C[Isn't this better?]))
+(;B[hl]
+(;W[jm];B[fl];W[el];B[fj];W[ej];B[ei];W[fi];B[ek];W[di];B[dk]
+C[Holo: There are a lot of possibilities, this is only one. You have to work them out during the game.]
+)
+(;W[ek];B[in];W[io];B[jl];W[kl];B[jo];W[jm];B[im];W[il];B[jn]
+;W[hm];B[hn];W[gm];B[gn];W[go];B[fm];W[gl];B[fl];W[gk];B[en]
+)))
+(;B[ok];W[db];B[ed];W[cb];B[bb];W[eb];B[fb]C[Holo: The white group has 3 liberties, the black 4, so nothing will happen.]
+))
+(;B[oe];W[pd];B[ne]C[Is this better?]))
+(;B[gn]C[You could have played here.];W[bj]TR[cj]C[That is the normal threat. if the marked stone is not there, you may run into the center, or try to cut.]
+;B[bk];W[ci];B[aj];W[dj];B[dk];W[ej]C[Holo: you see, nothing happended to your group.]
+)
+(;B[ej]C[Holo: Attack the white group first by cutting them apart.]
+;W[hn];B[kn];W[jm];B[km];W[jl];B[fh];W[ff];B[hh];W[hf];B[jh]
+;W[jf];B[kl];W[hk];B[om]C[Holo: Now you invaded white's moyo, and you must win easily.]
+))
+(;B[cs]C[I like this better.  I don't know why I didn't do it.
+Holo: Both move are good. But they do not rob eye space, if white answers.]
+))
+(;B[qk];W[oi];B[ok];W[mi];B[mk];W[ki];B[kk]C[Holo: This is one simple possibility. In this special position the white doesn't attack anything, nor does the black. In other positions you must decide, whether the strength can be used by you or your opponent.]
+))
+(;B[bd]C[Is this effective?  I always do a keima (or rarely, a pincer) when an opponent approaches my corner.
+Holo: There is a slight difference. Attaching enemy stones makes both groups usually stronger. In most cases the opponent adds a stone. With the keima you avoid this. But there is another possibility. Usually it is bad to place stones on the second line in the beginning (too low). These stones can be suppressed. That means, they are allowed to make a small life, but you get outward influence in return.]
+)
+(;B[cf];W[cc];B[cd];W[bd];B[dc];W[cb];B[db];W[da];B[ea];W[ca]
+;B[eb]C[Holo: White has 7 point of territory, but you have secured 10 points at the top, and there are about 50 points you are threatening to secure.]
+))
+(;B[kb]LB[lb:a]C[This is my first thought: attack, threaten an eye-eating monkey jump.  But I'm worried about white pincering me.
+Holo: The first thought is quite right: you are really threaten the life of the group. So white will not pincer, but first secure calmly the life of his group with a. After that the goup is secure. But this is aji-keshi. The real threat you have is for example the move in the variation. I added also a variation with the pincer to show that there is nothing to worry about.]
+;W[gc];B[je]C[Holo: As you run into the center, that lonely white pincer stone is much weaker, than your goups. If he settles this stone, you will get the corner, and thickness.]
+;W[ib];B[ic];W[hb];B[ec];W[eb];B[db];W[fb];B[cc]C[Holo: White is very low. The are only a few ponits And you secured the corner and your group.]
+)
+(;B[nb]LB[oa:a][kb:b]C[Holo: This move threatens to connect at a or at b. So white will not let you connect at b.]
+;W[kb];B[oa];W[ib]C[Holo: This is one possibility. So you can attack only in this way, when you are strong. The one marked stone is weak. Therefor it it quite right, to make a two space extension, as you did in the game. This strenghtens that stone.]
+))
+(;B[mc]LB[pb:a]C[Holo: This move robs whites base. So he must try to settle his group or abandon it. It is possible for him to catch the stone at a but this doesn't help much.]
+;W[pc]
+(;B[qc];W[qb];B[rb];W[pa];B[pf]C[Holo: Now the white group has on eye, but get out into the center, to get another on. While black is trying to run out into the center, you get firm territory on the right side. Or he can try to get the other eye on the upper side.]
+
+(;W[mb];B[lb];W[ma];B[lc]C[Now white has 2 eyes, but no territory, i see 3 points. And both of your positions are strong.]
+)
+(;W[oe];B[me];W[of];B[pg];W[og];B[ph]C[Holo: Now the white group looks into the center, but you have secured territory on the right side, and at the top.]
+))
+(;B[qb]C[Holo: You should not try to save this stone because, white will get outside influence.]
+;W[qc];B[rc];W[rb];B[ra];W[rd];B[sb];W[qe]LB[qd:a]TR[oc][pc]
+[qc][rd][qe]C[Holo: The ladder works for white, so he get the cutting stone at a. Noe white threatons to make territory on the left side. The marked stones are strong.]
+)))

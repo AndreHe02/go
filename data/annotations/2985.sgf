@@ -1,0 +1,128 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+PB[remedy]
+BR[2d]
+PW[itameshi]
+WR[3d]
+KM[0.5]
+DT[2003-11-02]
+PC[The Kiseido Go Server (KGS) at http://kgs.kiseido.com/]
+RE[W+27.50]
+TM[900]
+OT[5x30 byo-yomi]
+RU[Japanese]
+GC[Comentary for GTL by Steve Fawthrop, AGA 5d]
+
+C[Hello,
+
+I (2d) played this game as black. My opponent (3d) is white.
+The Game was played on KGS. Please review for Black.
+
+Except for the bottom left corner and the endgame I felt good, but I lost with 27,5 points (0.5 komi). I will ask some questions during the game. Please write comments and suggestions on my fuseki and midgame.
+Feel free to skip the endgame if you like, I played bad during endgame because time was short.
+
+thx for your time,
+remedy];B[pe];W[qp];B[ep];W[ce];B[op];W[pn];B[qq];W[rq];B[pq]
+;W[ro];B[kq]LB[pe:B][ep:A][op:C]C[This just feels wrong to me.  The relationship between 'A" and the lower right looks awkward and the play seems to ignore the high position of 'B'.  Having said that, it is hard to find a good move instead of 'C', so maybe the awkward play is 'A',]
+;W[cq];B[dq]LB[kq:A][er:B]C[Because 'A' is low there is no serious threat to letting W slide to 'B'.  So, although this is a natural move, B can also consider pressing on the outside and letting W have the corner.  Nothing wrong with the move played, however.]
+;W[do]LB[eo:A]C[I don't know this move, is it joseki? how should I answer? can I punish it?  the cut turned out bad for me in the game. is pressing from behind at E5 an option?
+
+SGF:  Nothing wrong with just playing 'A'.  Look at the variations.]
+
+(;B[cp]LB[eo:A][dp:B]C[Seems very risky.  'A' is the correct move.  'B' also looks playable - see variation.]
+;W[dp]
+(;B[co]LB[bp:A]C['A' seems better.  See some of the variations.]
+;W[eq];B[dr];W[bq];B[er];W[cn]
+(;B[dn]LB[fp:A]C[This seems like it plays into W's hands.  Playing  'A" in sente is better]
+;W[eo];B[bn];W[fp];B[cr];W[cm];B[bo];W[bm];B[br];W[gq]LB[oc:A]
+C[terrible result for Black.
+
+Now I wasn't sure where I should play. How would you continue in this situation?
+
+SGF:  Hard to say.  B has to find a way to use the aji inthe single stone, but it cannot be done directly.  I would probably try to enclose a large corner by playing 'A', hoping for a chance to nullfiy the W thickness later.]
+;B[id]C[This is an interesting move.  Very vague.  It is the sort of move which has to have a definite plan behind it before it is played.]
+;W[ee]C[Seems too high.  B should be able to take the corner and reduce the left center.]
+
+(;B[pj]LB[dc:B][fd:C][ee:A]C[No way this move can be right.  W is not completely alive in the lower right but it is almost impossible to launch a reasonable attack so for all practical purposes he is alive.  Given this, W is very strong in this corner and B should not approach as close as this.  B should pull back if he is to play on this side.  However, I think an immediate response of 'B' to the W play at 'A' is good because W cannot protect the corner (B 'C' is too good) and must play 'C' himself.  One possiblityis shown.]
+;W[pc]C[Too good for W.  B is now facing a loosing game.]
+(;B[mc]LB[qc:A]TR[id][pj]C[I felt this joseki is best with my surrounding stones Q10 and J16.
+
+SGF. But it is a pity to let W live so easuli in the corner.  Almost any sequence which occurs will result in the two marked stones being too close to the B thickness.  I prefer the variation at]
+;W[nc];B[md];W[qe];B[qf];W[qd]
+(;B[pf];W[fc]LB[dd:A][pf:B]C[B could not afford to let W get this move.  His upper right is not even connected securely.  I  think B should have considered 'A' instead of 'B'.  W probably has to answer 'A' and B might get sente to connect at 'B', but even if not B can probably withstand a cut at 'B' is he has taken profit in the top left.  See variation on move 42 for one of many conceivalbe possibilities.]
+;B[dl]LB[fc:B][be:C][pj:A]C[I want to reduce the white moyo, is this the correct starting point?
+
+SGF:  This is a nice idea, but I think the truth is that it is too late.  With the thinness of B's upper right position it is hard to lanuch any sort of attack. B is suffering from the consequences of playing 'A' and letting W get 'B'.
+
+Looking over the board, the move which occured to me was 'C'.  This tests W's response before B commits himself.  If W choses to let Bc live then maybe a major reduction is not as important.  However, once W has both upper left and right corners, the truth is that B should probably resign.]
+;W[fm]C[This is to be expected and B is now in big trouble.]
+;B[en];W[fn];B[el];W[ck];B[go];W[fo];B[dj];W[cj];B[di]
+(;W[ci]LB[fj:A]C[W missed a good move here. See variation.  If W had played 'A' B is not so good.]
+;B[fi]C[I felt good up to here, although I'm behind in territory.]
+;W[gk];B[fl];W[gl];B[hi];W[ji]C[I think this is an overplay. I was able to make some profit while attacking, but I think White got of too easily. How can I attack the stone?
+
+SGF.  Not easy. W has the thinness of the top left ot aim at and the Left side group is not safe.  This does not look like an over play to me.]
+
+(;B[jj];W[kj];B[ij];W[li];B[kh];W[ki];B[om]C[I vicious fight follows. I made some territory during this fight, but not enough. Where could I have done better?
+
+SGF I do not think so.  This move is very thin];W[on];B[mm]
+;W[oi];B[nh];W[ni];B[pi];W[mh];B[ng];W[mg];B[lf];W[nf];B[ph]
+;W[of];B[og];W[mf];B[nd];W[kf];B[le];W[kg];B[if];W[kl];B[lk]
+;W[kk];B[il];W[hn];B[jm];W[ig];B[ih];W[jh];B[hg];W[jg];B[mj]
+;W[ii];B[hh];W[hj];B[jl];W[km];B[jo];W[kn];B[io];W[ho];B[lo]
+;W[ko];B[kp];W[iq];B[jp];W[mn];B[ln];W[ml];B[mk];W[nm];B[lm]
+;W[ll];B[nl];W[nk];B[nn];W[ok];B[oj];W[nj];B[qm]LB[pj:A]C[White managed to escape finally, the game seems lost for me, although I didn't lose anything during the fight, I only strengthened my positions. I have no idea what I did wrong.
+
+The problem is that you had a hopeless position from much earlier. The lower left corner made things very difficult but the turning points was playing at 'A;  This gave W too many opportunities to take territory in the corners.  After than there was no way to catch up,]
+;W[qn]C[Now the endgame starts, feel free to skip this part, although any comments are welcome.]
+;B[rf];W[ob];B[rm];W[hf];B[gf];W[he];B[ge];W[hd];B[gd];W[hc]
+;B[pd];W[qb];B[gj];W[gc];B[df];W[cf];B[ch];W[dk];B[ek];W[bh]
+;B[cg];W[bg];B[de];W[dd];B[ef];W[ed];B[rr];W[sr];B[qr];W[pm]
+;B[qk];W[pk];B[jr];W[ff];B[fg];W[eg];B[fe];W[dh];B[eh];W[dg]
+;B[hm];W[gm];B[ql];W[pl];B[sd];W[rc];B[ic];W[fj];B[hk];W[ej]
+;B[ei];W[fk];B[hb];W[gb];B[ib];W[mb];B[lb];W[la];B[ka];W[ma]
+;B[kb];W[ir];B[fr];W[an];B[aq];W[ao];B[bp];W[oo];B[no];W[pp]
+;B[oq];W[gr];B[je];W[ff];B[ef];W[ke];B[kd];W[oh];B[pg];W[is]
+;B[jq];W[hl];B[im];W[jk];B[ik];W[ie];B[ga];W[fa];B[ha];W[rn]
+;B[sn];W[so];B[sm];W[js];B[ks];W[ip];B[jd];W[fs];B[lg];W[lh]
+;B[rd];W[jf];B[re];W[qc];B[sc];W[sb];B[es];W[me];B[ld];W[gs]
+;B[fq];W[df];B[ff];W[rs];B[qs];W[sq];B[ss];W[ep];B[rs];W[ol]
+;B[nm];W[am];B[in];TW[aa][ba][ca][da][ea][na][oa][pa][qa][ra]
+[sa][ab][bb][cb][db][eb][fb][nb][pb][rb][ac][bc][cc][dc][ec]
+[ad][bd][cd][ae][be][de][af][bf][if][ag][cg][ah][ch][kh][ai]
+[bi][mi][aj][bj][lj][mj][ak][bk][ek][lk][mk][al][bl][cl][dl]
+[el][fl][dm][em][dn][en][gn][go][po][qo][gp][hp][rp][sp][hq]
+[hr][hs]TB[ia][ja][jb][jc][kc][lc][se][sf][gg][qg][rg][sg][fh]
+[gh][qh][rh][sh][gi][qi][ri][si][hj][qj][rj][sj][rk][sk][rl]
+[sl][mn][mo][lp][mp][np][bq][cq][lq][mq][nq][ar][kr][lr][mr]
+[nr][or][pr][as][bs][cs][ds][ls][ms][ns][os][ps]C[I lost big by 27,5 points. But I cannot find out where I lost that much. thx for any pointers.]
+)
+(;B[ch];W[bh];B[bg];W[cg];B[dh];W[bf];B[dg];W[ag];B[ik];W[kk]
+;B[hm];W[gm];B[ml];W[il];B[hl];W[hk];B[ij];W[im];B[hn];W[in]
+;B[io];W[jo];B[ip]))
+(;W[fj]
+(;B[ej];W[gk];B[ci];W[bi];B[bh];W[aj]
+(;B[cg];W[bk];B[fi];W[gi];B[fh];W[gh];B[fg];W[gf];B[bf];W[ne]
+)
+(;B[bk];W[ch];B[cl];W[bl]))
+(;B[ci];W[bi];B[bh];W[aj];B[cg];W[dk];B[ek];W[ej])))
+(;B[dd];W[ed];B[de];W[df];B[cd];W[cf];B[ec];W[fc];B[eb];W[gd]
+;B[bd];W[pf];B[qg];W[oe];B[pg];W[of];B[og];W[mf];B[nb];W[ob]
+;B[qm];W[qr];B[pr];W[rr];B[hc];W[fb];B[cb]))
+(;B[qc];W[qb];B[qd];W[ob];B[nc]C[This looks better than the game.]
+))
+(;B[dc];W[fd];B[bd];W[be];B[fb];W[gc];B[if];W[bc];B[bb];W[cd]
+;B[cc];W[ad];B[ab]))
+(;B[fp]))
+(;B[bp]
+(;W[cr];B[dr];W[co];B[bo];W[bn];B[br];W[cm])
+(;W[co];B[bo];W[bn];B[cr];W[eq];B[dr])
+(;W[bq];B[br];W[dr];B[eq];W[cr];B[cn];W[dn];B[cm];W[dm];B[aq]
+;W[co];B[bo];W[ar];B[as];W[bs];B[cs];W[ds];B[er];W[bs])))
+(;B[eo]
+(;W[dn];B[cr];W[cp];B[br]C[Nice result for B.])
+(;W[dr];B[er];W[dp];B[eq];W[dn];B[cr];W[br];B[ds]C[Also nice for B.  W will probably not proteect the corner, but then there is a large yose move for later.]
+))
+(;B[dp];W[cp];B[co];W[cn];B[bo];W[bn];B[eo];W[dn];B[cr];W[bp]
+;B[bq];W[ao];B[fm]LB[ce:A]C[This sequence is also playable for B. W looks funny on the left with A being low.]
+))

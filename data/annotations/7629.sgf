@@ -1,0 +1,162 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.17]
+
+GN[monikac-Googol]
+PB[Googol]
+BR[6k]
+PW[monikac]
+WR[6k]
+KM[6.5]
+DT[2010-01-22]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[W+9.5]
+TM[900]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+C[Googol: Hello, dear reviewer. In this particular game I played slower controls than usual (typically I prefer blitz games) and lost. I would like to see (beside any mistakes you find) general comments and recommendations on my style of play. Thank you in advance.
+
+GP: Hi, I'm Graham Philips (topazg) a British 1k and KGS 1d. I hope to give useful comments and insights where I can, and I've summarised the key points at the end of the sgf.]
+;B[pd];W[pp];B[dp];W[dd];B[mq];W[qm];B[pr];W[qq];B[qr]TR[jq]
+C[GP: K3 is normal joseki - at this stage, R2 isn't really sente, wTenuki is bigger than wS2, but you got sente anyway :)]
+;W[rr];B[fc];W[cf];B[db];W[cc];B[ic]C[GP: So far neither side has anything to complain about. Both are playing relatively peacefully and territorially (despite the 4-4 openings!), and I slightly prefer the flexibility of Black's spaced out stones.]
+;W[qf];B[pi]TR[nd]C[Googol: I doubt now 17 was a good response to 16. What do you think?
+
+GP: It's ambitious, and White's outward jump is fairly obvious, forcing you to defend in the top right. Because the top left for Black is settled you don't really need to fear a counter-pincer by White around O17, as Q16 can be treated lightly and White will have a harder fight. However, you don't want White to make Q11 much weaker in sente by pressuring the corner either. I don't think it's necessarily bad, but it is definitely complicated, and you need to avoid letting it become a weak group. Simply playing O16 seems better to me. If White response with P14 you will have the same position as in the game anyway, and after that you'll have a much better feel for whether Q11 is unreasonable.]
+;W[of];B[nd];W[rd];B[qc];W[rc]
+(;B[rb]TR[pg]C[GP: I think you can tenuki instead of this. It isn't a small move, but you can reinforce Q11 in sente first (see variation)]
+;W[lc]
+(;B[le]C[Googol: Is L16 better than 25?
+
+GP: It's a tough question. L16 wants to kill, M15 wants to abuse. There's no question that M17 is an overplay, but that doesn't mean you should, or even can, kill it. For one thing, if you opt to kill, and succeed, you'll _still_ leave bad aji and ko threats galore for the dead group. If you fail, you'll have a local disaster on your hands.
+
+If you can definitely read that L16 kills, it's your move - if you aren't sure (and I don't think it works here - see my comments on your other variations), then this is an excellent choice. As you have responded at S18, White has the problem that his group isn't settled yet, so if White tries to crawl, you can abuse that group too (see var at move 27).]
+;W[kd]
+(;B[je]TR[pg]SQ[ie][ke][kf]C[GP: This is _definitely_ the wrong choice. If the aji exploits in the top right worked before, they definitely work now, and this is just asking for White to rip into your stones and create havoc. Your move options locally are really J15, L15, or L14. You almost definitely can't kill outright, but there are other ways to take advantage of overplay. Start by making the top right White group weak by peeping, and then move in to attack both groups... (see variation)]
+;W[ke];B[kf];W[jf];B[lf];W[jd];B[ie];W[id];B[hd];W[he];B[if]
+C[Googol: Maybe H17?
+
+GP: It's certainly playing very optimistically. wH17 clearly works, and then your whole top left group is in serious danger, so protecting against it is the right thing to do. However, White then captures and gets a really good local result anyway. The problem in this fight was capping and then trying to kill outright - overplay means you should be able to take advantage of it, but killing may not be possible. In this case, I think M17 just asked to be ran out into the middle.]
+;W[hf];B[ig];W[hc];B[gd];W[ib];B[gc];W[hb];B[gg];W[hg];B[hh]
+;W[ih];B[jg];W[gh];B[hi];W[gf]
+(;B[fg]TR[ff];W[ff];B[ef];W[eg];B[ee]C[GP: There are lots of moves that seem strange, simply because they seem to veer off the original intention. With F13, you prioritise keeping that side alive, and then E14 and E15 go and sacrifice the extra stone. Each extra stone in this situation costs around 5 points to the final score (according to professional analysis of extra moves in ladders, apparently!), so reading out your decision as well as possible in advance is definitely important in this situations. I've offered an alternative to F13 that you may not have considered...]
+;W[fh];B[ed];W[cb];B[dc];W[ce];B[fe];W[da];B[eb];W[ca]C[GP: I thought this was a clever move, preparing for the kill, but I'm guessing now White hadn't seen it - see wF18 on move 72.]
+;B[dg]TR[gb];W[dh];B[cg];W[df];B[ch]C[GP: The group at the top is horribly unsettled - wF18 kills! Of course, you now have another weak group here that is in trouble, and White can probably launch an attack against H12 to save his cutting stone after harrassing this group along the edge.]
+(;W[di];B[ci];W[dj];B[cj];W[bd]C[GP: A very strange move, letting Black firmly off the hook. Simply D9 would be fine, and White may be able to play C9 safely now.]
+;B[dk]C[GP: Good! If it wasn't for the kill at F18 still sitting there, this would be the biggest move on the board.]
+;W[fj];B[ek]TR[gb][pg][ji]C[GP: It's the key shape point, but a bit small in context. You can't take away White's second eye, so playing elsewhere seems more useful (Q13, K11, G18!!)]
+;W[ej];B[gi];W[fi];B[ji]C[GP: Good.];W[fk]
+(;B[cl]TR[em]C[GP: Too passive! The cut doesn't work anyway, and this doesn't protect against the corner, so defend more assertively with a move like E7.]
+;W[fp]C[Googol: Here, how should I've answered this?
+
+GP: Your answer was excellent. White removed some 3-3 opportunities with this move. Better in my opinion would have been for White to reduce at the lower middle, then invade the 3-3. Playing this way got White nothing and secured the whole lower left as Black territory.]
+;B[hq];W[fn];B[dn];W[eq];B[dq];W[dr];B[cr];W[er];B[ho];W[jp]
+;B[hm];W[gm];B[go];W[fo];B[hl];W[gl];B[lo];W[jn];B[lm]C[Googol: Whas there any chance to capture W stones?
+
+GP: Yes, I think so. The variation on move 115 looks like it should work, and I've added another on 127.]
+;W[jl]
+(;B[ik];W[kk];B[lk];W[kj];B[lj];W[ki];B[li];W[kh]
+(;B[lh]TR[jh];W[jh];B[ii];W[hk];B[hj];W[gk];B[il];W[kl];B[jo]
+;W[ko];B[io];W[kn]
+(;B[kp]TR[lp];W[ln];B[lp]C[Googol: I think this exchange isn't in my favor. I let W run.]
+;W[mn];B[oo];W[po];B[on];W[nm];B[om];W[nl]
+(;B[ni]TR[pl]C[GP: Why the change of direction ? Presumably aiming at the top left group also, but if that's your target, it needs to be weakened first - Q13 and S13 from the other variation should give excellent killing chances. Personally, I'd play Q8 here as White is going to want to defend.]
+;W[ol]
+(;B[ri]TR[pq]C[GP: A strange move! If you want to attack the big dragon, but feel you can't cut because of the threat of wO4, play Q3 here, and at least guarantee some good endgame in exchange for wQ8 (or wP4, and then attack the top right properly with Q13.]
+;W[pl];B[rk]C[GP: This is even stranger. You now have the perfect opportunity to kill the top right group for good!]
+;W[qd];B[pc];W[pe];B[sf];W[rf];B[sg];W[se];B[sc];W[qh];B[rh]
+;W[qi];B[qj];W[rg];B[sh];W[ph];B[oh]
+(;W[og];B[oi];W[op]
+(;B[no]C[GP: Q3 bigger.];W[mo];B[np];W[oq];B[mr];W[or];B[sn]
+C[GP: A good endgame jump.];W[rn];B[sm];W[ro];B[so];W[rp];B[sp]
+;W[sq];B[rl];W[rm];B[sl];W[ll];B[nb]C[GP: A very good endgame move :)]
+;W[jc];B[kg]C[GP: Better to play M13 and connect everything together. White can still push and force you to connect, but it is only 1 point in sente for him to do so - You then have moves around O13 worth 3 or 4 points.]
+;W[mg];B[hn]C[Googol: A wasted move?
+
+GP: Yes :)];W[mk];B[nj];W[lg];B[ng];W[nf];B[md];W[nh]
+(;B[ka]TR[la]C[GP: M17 should be sente - sente is normally better than gote in endgame so you can get the next endgame move in.]
+;W[kb];B[la];W[ja];B[mb];W[lb];B[ma];W[mh];B[bg];W[bf];B[pk]
+;W[ok];B[sj];W[ql];B[qk];W[mp];B[nq];W[jq];B[kr];W[jr];B[ir]
+;W[js];B[ks];W[gr];B[hr];W[gq];B[gp];W[ip];B[hp];W[mc];B[nc]
+;W[sb];B[sa];W[sd];B[qb];W[sb];B[os];W[ns];B[nr];W[ps];B[ms]
+;W[os];B[gb]C[GP: Finally, you save your group!];W[ag];B[ah]
+;W[af];B[cs];W[co]C[Googol: A blow! I thought W could easily settle here if I block at D5.
+
+GP: I think White cannot possibly settle here, there's just not enough space. See my new line in your variation.]
+(;B[cp];W[do];B[eo];W[ep];B[bo];W[cn];B[bn];W[en];B[cm];W[dm]
+;B[bq]C[Googol: I defended my territory, but that just lost the game for me.
+
+GP: Ouch, yes, it's a very big local loss.];W[el];B[pn];W[qn]
+;B[is];W[gs];B[ds];W[es];B[ea];W[ga];B[fa];W[ha];B[de];W[cd]
+;B[dl];W[im];B[in];W[jm];B[nk];W[ml];B[mf];W[ne];B[mi];W[ng]
+;B[od];W[oe];B[ra];W[sc];B[kq];W[gn];B[iq];W[ld];B[me];W[oj]
+;B[pj];W[jj];B[ij];W[nn];B[tt];W[tt]C[Googol [6k\]: gg
+Googol [6k\]: thx
+monikac [6k\]: thx
+
+GP: *** Important points to take from the game ***
+
+Punishing overplay - If your opponent overplays and invades unreasonably into what you hoped to be your territory, think carefully about how to punish it. It is rare for games to be won on the death of a group due to an unreasonable overplay. Learning how to let your opponent create his own weak groups and then push them around for profit will gain you a lot of strength, and is particularly key for progressing up through single digit kyu ranks. The general rule is if you can read out a kill completely (or can read out a disconnection completely without aji in the area that could create unusual chances - aji such as the peeps at P17 and Q18) then play to kill, else play to abuse - steal eyes and force them to run, either create thickness to exert influence and power in the opposite direction, or to create territory in sente on the other side. If you cannot profit from the abuse, then your opponent's move wasn't overplay.
+
+Weak Groups - If you have weak groups, attempt to settle them as early as you can in sente. For the same reasoning as above, pushing around weak groups is the general way to make points in Go - so if you don't have any, or have less than your opponent does, you stand much better long term chances than he will. Your group on the right side (ok, the single Q11 stone) was important and big because it acted to reduce the White side strongly. Earlier on, peeping at Q13 and (almost) settling with R9 would a) destroy White's chances of creating any territory on that side, and b) would remove White's ability to hassle and abuse your group. As a plus side, you'd have got c) (make White's group weak) in this case as well.
+
+*** To take to your next few games ***
+
+Every 10 or so moves, try to evaluate your groups' "strength". Are they "completely settled" (i.e. can't really be killed at all), "basically settled" (technically not settled but with plenty of space to run and options to, for example, extend along the side, so they can't really be killed), "unsettled" (neither alive or dead yet), or "dead unconditionally". If they are "dead", don't waste moves trying to save them, especially if they are "alive if you got two moves in a row" - these groups make very big ko threats.
+
+If they are "unsettled", ask yourself which of the following categories they are in - "light and unimportant" (single stone or couple of stones, which could still be used in a number of ways), "light and important" (single stone or a couple of stones, but with a strategically important position - like the Q11 stone earlier on), or "heavy" (3+ stones, unsettled, easily chasable by your opponent, but too valuable to give up).
+
+Light and unimportant stones you should leave until you think you can find the most productive use for them, light and important stones you should try to settle quickly, as you should be able to restrict or hurt your opponent at the same time as establishing the group. Heavy stones you want to avoid creating in the first place, but if you already have you need to decide if they are easy to save (in which case settle as soon as you can!) or difficult to save (in which case abandon them completely for the time being - ideally they will either be more easy to salvage later, or you can make good use of the aji in sacrificing them. If your opponent takes an extra move to make sure they don't get away, you end up effectively getting two moves elsewhere in exchange, which is normally good compensation).
+
+Do the same process with your oppoenent's groups too. If your opponent has weak groups, look for ways to push them around without creating weak groups of your own. Try not to kill them outright unless the kill is obvious, but to push them around in ways that give you thickness elsewhere - a perfect example is the way you pushed upwards in the lower right late in the game purely to attack the group in the middle. If either group was fully settled, your moves would have been meaningless - keeping your opponent's groups unsettled means you can always play with a focus.
+
+I hope these comments are in some way helpful. If you have any responses / queries / comments or would like further input on specific moves or areas, do feel free to ask!]
+)
+(;B[do];W[bq];B[cq];W[bm];B[bl];W[cm];B[dm];W[bp]
+(;B[cn];W[bn];B[am];W[ao])
+(;B[bn]C[GP: Dead as a doornail :)])))
+(;B[la];W[lb];B[ma];W[ka];B[cs]C[GP: For example ...]))
+(;B[pq];W[nq];B[nr];W[no];B[rq];W[qp];B[rp];W[ro];B[sr]C[GP: A reasonable lower corner result, even in gote.]
+))
+(;W[pj]C[GP: I'd be much more worried about this..]
+(;B[oi];W[qk];B[rj];W[rl])
+(;B[pk];W[oi];B[oj];W[pi];B[ok];W[nh];B[nj]C[GP: The best Black can hope for.]
+)))
+(;B[pq]
+(;W[ri]C[GP: If White tenukis...];B[pl]C[GP: White dies in a big way.]
+)
+(;W[op];B[pg];W[pf];B[rg]C[GP: This will be a very difficult fight for White.]
+)))
+(;B[pl];W[ql];B[pk]C[GP: Now Black has a much easier attacking job.]
+))
+(;B[lp]C[GP: You don't need to be so aggressive with the cut. Here is fine, force White to connect with no eyes rather than leave yourself so many cutting points. Of course, you have a weak group yourself now - the alternative move at 115 is a much safer way of attacking.]
+;W[kp];B[jr]C[GP: This should be ok as well I think.]))
+(;B[jh];W[lh];B[mh]C[GP: This should kill.]))
+(;B[kr]))
+(;B[em];W[ck];B[cl];W[bk];B[bl]C[GP: White has no way to make this work.]
+))
+(;W[fb];B[gb];W[fa]C[GP: Now there is no way of saving the group.]
+))
+(;B[ff];W[fg];B[ge];W[gg];B[eg];W[ef];B[fe];W[eh];B[dg];W[dh]
+;B[gi];W[fh];B[df]
+(;W[cg];B[de];W[ce];B[ee];W[ec];B[eb];W[gb];B[fb];W[cb];B[ed]
+C[GP: I'm not saying that this is any better, but it's consistent - if you have a cut that doesn't work, squeezing is normally better - the peep at C11 is now very big for Black obviously, Black doesn't have a weak group on the left edge, and the Black group at the top is definitely alive now.]
+)
+(;W[ee];B[de];W[ed];B[cg];W[ce];B[ch];W[ci];B[bi]C[Playing like this is a big risk for White.]
+)))
+(;B[pg];W[pf];B[rg]C[GP: Now the group has one eye only!];W[rf]
+;B[rh];W[qd];B[pc]C[GP: Fix your own bad aji for the fight against L16, then...]
+;W[se];B[ie];W[ke];B[lg]C[GP: Attack both groups at once...]
+))
+(;B[kd]
+(;W[ld];B[le];W[me];B[md]C[GP: This is the only move sequence to kill with.]
+;W[ke];B[lf];W[jd]C[White];B[kc];W[jc];B[kb];W[jb];B[lb];W[id]
+C[GP: White is fairly unlikely to play like this, but there is still compensation for the lost stone, and Black's group is a bit wobbly. Allowing White to get C18 in sente is not nice, and if Black plays it White can chase the group around :(]
+)
+(;W[oc];B[od];W[pb];B[qb];W[nc];B[pc]
+(;W[oa];B[mc];W[md];B[mb];W[lb];B[na];W[ob];B[qa])
+(;W[md]C[GP White will play here first, forcing Black to live in gote...]
+;B[ob];W[nb];B[pa];W[me]C[GP: White can be very satisfied with this]
+))))
+(;B[pg];W[pf];B[qk]C[GP: As White, I would play P7 now to reduce aji, although that allows Black to get S18 as well! However, if White follows up in the top right....:]
+;W[qb];B[pb]C[GP: ... then it's a reduction to Black, but White has gained little for those 6 stones and Black's group is now solidly settled on the right.]
+))

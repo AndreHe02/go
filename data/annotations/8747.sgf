@@ -1,0 +1,79 @@
+(;FF[4]GM[1]SZ[9]ST[1]AP[SGFC:1.17]
+
+GN[DoubleU-avic-713739-20120317]
+PB[Avic (avic)]
+BR[30k]
+HA[0]
+PW[W. Spencer Clark I (DoubleU)]
+WR[18k]
+KM[6.5]
+DT[2012-02-18,2012-03-17]
+PC[Dragon Go Server: http://www.dragongoserver.net/]
+RE[W+0.5]
+OT[Fischer time: 30 days with 7 days extra per move]
+RU[Japanese]
+GC[Game ID: 713739]
+
+C[Hi, I'm Paul Babinski,  a 7 kyu on IGS (xpmbx). It was a pleasure to review this game. I haven't played much on small boards since the time when I first started playing go, so, as is of course always the case, you should take everything I say with a grain of salt. So this is a chance for me to think about and work through problems with the kind of tactical fighting that is key to playing on small boards. I hope it will be of some help to you.]
+;B[df];W[cc]C[First, this seems a little passive to me. It would definitely be more active to play closer to the center.  Second, by playing immediately on a side of the board that black has staked a claim in, white is inviting a fight. black could immediately start an attack on this stone from around e7, e6, at which point white would either have to split black's stones, leading to a complicated fight, or to live on both sides of the board, which would also be tricky. this isn't necessarily bad, especially since the komi goes a long way in a game with a low score, but it's something to keep in mind.]
+;B[gg]C[this stone ends up being poorly placed.];W[fc]C[I feel this is too close to the side of the board. If this is going to be a race for solid territory, black has the advantage and white should maybe press a little more. This kind of an extension is natural on a 19x19 because it is solid but still reasonably quick. Here, I think it might be too passive, but black doesn't do anything to refute it.]
+;B[ce]C[Black encloses the lower left side here, though he leaves some weaknesses, so this is probably the last chance for white do something to deliberately complicate the game. Though with komi at 6.5, it makes sense for white to play as in the game, calmly taking the last big point and leaving it to black to keep up.]
+;W[ge]C[solid, territory making move]
+(;B[ff]C[Black doesn't want to do anything to invite any kind of fighting here, which I can understand, but this seems lacking in creativity. At first, this move may seem really solid, but it ends up putting black's stones in an awkward position. That said, it has its advantages. So when white plays at f5, the response at e5 has blacks stones on the left side working well together.]
+;W[fe]C[This move seems crude to me. Generally it's best to avoid moves like this, since black's response works well with his stones on the left. It lets him make a move in gote that smooths out weaknesses in his shape. However, after 8, G4 is strong, so the move definitely has its advantages.]
+;B[ee];W[ed]
+(;B[cd]C[Again, this is, in a way, solid, but after white descends black will have to protect against the monkey jump, which lets white attack black's weakness on the right. Because G4 is such an important point for white, and black has to make up for komi, black should maybe think about B7 in this situation, being more active and trying to introduce a little complication...]
+;W[bc]C[solid response];B[bd];W[gf]C[Huge];B[hf]C[This is incorrect. White should refute as in the variation]
+(;W[he];B[if]C[Avoid this move in general. It is almost always better to connect at h3. White can still cut...]
+(;W[ie];B[hg];W[ad];B[ae];W[ac];B[dc];W[db];B[dd];W[ec]
+(;B[eg]C[This puts black behind, so black should just not play it and fight to kill the cut at f3. In general, I would suggest that we look at the game with respect to the exchange of f4 for f5, both black and white gained something from that exchange, black was strengthened on the left, but left weaknesses on the right. Winning became a question of how well the players exploited their advantages. In particular, when white played passively and missed the cut at a, the game became close and, in the end, blacks to lose. Go is a game of exchanges, and understanding the game you are playing as such is helpful to understanding what move to make next. Asking the question "What did I give my opponent and what did I get in return?" leads to the question of how best to make use of your own advantages and cover the weaknesses you left for your opponent, which is (especially on a larger board) often a better way of tthinking about your next move than questions like "how do I make territory/prevent territory from being made?" "how do I attack my opponent." etc.]
+;W[tt]N[W PASS];B[cb];W[bb];TB[af][ag][ah][ai][be][bf][bg][bh]
+[bi][cf][cg][ch][ci][de][dg][dh][di][ef][eh][ei][fg][fh][fi]
+[gh][gi][hh][hi][ig][ih][ii]TW[aa][ab][ba][ca][cb][da][ea][eb]
+[fa][fb][fd][ga][gb][gc][gd][ha][hb][hc][hd][ia][ib][ic][id]
+N[RESULT]C[White: 23 territories + 1 prisoner + 6.5 komi = 30.5
+Black: 30 territories + 0 prisoner = 30
+Result: W+0.5])
+(;B[ia]C[If black passes....];W[fg];B[ef];W[fh];B[gh]C[I can't find a sequence where white wins this or can force a ko without black making a mistake.]
+(;W[ih];B[fi];W[ei];B[gi]
+(;W[dh];B[eg];W[eh];B[ch])
+(;W[eh];B[dh]))
+(;W[gi];B[hi]
+(;W[fi];B[ih])
+(;W[ih];B[fi];W[ei];B[eh];W[gi];B[eg]))
+(;W[hi];B[gi]
+(;W[fi];B[ih])
+(;W[ih];B[fi];W[eh];B[dh]))
+(;W[fi];B[gi];W[ih];B[eh])))
+(;W[fg]C[White can still cut];B[ef];W[hg];B[gh];W[hh]))
+(;W[fg]C[Black has no answer to this...]
+(;B[eg];W[hg];B[fh];W[hh])
+(;B[ef];W[hg];B[gh];W[hh];B[fh]C[Looks like an easy win for white...]
+)
+(;B[hg];W[ef];B[eg];W[de];B[fh])))
+(;B[bc]C[Attaching underneath is big...]
+(;W[bb]
+(;B[cb]C[Risky, but if white doesn't deal with this crosscut properly, black can gain the advantage.]
+)
+(;B[bd]
+(;W[db]C[If white passively defends];B[gf];W[hf];B[hg];W[he]
+)
+(;W[gf]C[Though, of course, white should move here, but this is the same result as in the actual game, but with a sente move at a8]
+)))
+(;W[bd];B[cd];W[bb];B[dc]C[Here white chooses between a ko and an uncomfortable outcome...]
+(;W[ac];B[cb];W[dd];B[bc])
+(;W[cb];B[be];W[ac];B[dd];W[db];B[ec];W[eb];B[fd];W[gd]))))
+(;B[bc]C[Attaching underneath would be an active alternative.]
+;W[bb];B[bd]C[Notice that this leaves a sente move at a8 and, if white decides to leave this to attack your stone on the lower right, the black stones are c5 and d4 prove to be perfectly placed...]
+(;W[ia]C[White moves elsewhere];B[db];W[cb];B[dc];W[dd];B[cd]
+C[Bad for white])
+(;W[db]C[If white defends black can make a move to defend the left side.]
+))
+(;B[fd]C[This is an interesting attachment that works well with both the stones on the left and the right...]
+(;W[gd]C[If white blocks here];B[ec]C[Black threatens to cut the stone at c7 off]
+)
+(;W[ec];B[gd]C[If white extends at e7, black has this severe cut]
+)
+(;W[ed]C[If white hanes here, things could get complicated, but let's say both black and white back down....]
+;B[fe];W[gd];B[ff]C[Black gets to play at f4 and now white has to defend the cut points at e7 and g7]
+)))

@@ -1,0 +1,245 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+PB[nourneer]
+BR[19k]
+PW[Dreameater]
+WR[19k]
+KM[0.5]
+DT[2006-06-18]
+PC[IGS-PandaNet]
+RE[W+Resign]
+TM[0]
+OT[25/600 Canadian]
+RU[Japanese]
+
+C[Hi, I´m playing W in this game. Since my fuseki isn´t good I´d like to receive some tips. In my endgame play were also many weaknesses, in particular when my bottom left group was cut off, I played some moves that turned out not to be good. (Excuse my bad English ^_^)
+Thanks in advace
+
+M: Hi, thanks for letting me review your game. I hope what I say is helpful to you. I'll be putting a "M" in front of my comments.]
+;B[cd];W[pp]
+(;B[dp]LB[pd:A]C[M: Normally, black would play the marked stone at Q16 (A).]
+;W[pd];B[qj]C[what would be a good answer here?]
+(;W[fd]C[M: Certainly, white had the right idea with attacking the corner here, but white would have started a more severe attack if they just played one point closer, at E16 (A) or E17 (B).]
+;B[ec]LB[fd:A]TR[cd]C[here, too: what is a better point?
+
+M: This is quite a difficult situation. The moves at E16 or E17 that I mentioned before would have stopped this happening, but because black was able to complete the corner shape (marked), black is very happy. Black has several options here, all good, depending on how white answers. The lone white stone at F16 (A), in contrast, is looking weak.]
+
+(;W[de];B[ce];W[df];B[qg];W[cn];B[cl];W[en]
+(;B[fq];W[bp]C[this one should be c10? then later b4?
+
+M: This move is quite good. It gives white one eye, and, if black doesn't respond, two. In other words, it helps to settle the group.]
+
+(;B[ci];W[cg];B[el]
+(;W[gn];B[hq];W[mq];B[kq];W[lo];B[pn];W[qn];B[qo];W[po];B[pq]
+;W[qp];B[oq]
+(;W[mp];B[rr];W[rq];B[qq];W[sq];B[sr];W[ro];B[nr];W[mr];B[rd]
+LB[qc:A]C[M: This move is rather harsh on white. The normal move, R17 (A) is no longer a good move. The R17 move is designed to stop the other player from gaining as much of the corner as they would otherwise.
+
+M: However, in this situation, it's better to just extend, and let black take the corner.]
+
+(;W[qe]C[M: Black isn't able to be cut here, so white shouldn't try. This move simply strengthens black for no white gain. It's commonly known as "false sente". 
+
+M: Instead, white should look for what else they can do in this area. There are some suggestions in the variation.]
+
+(;B[re];W[nc];B[fc];W[gd];B[hc];W[gc];B[gb]
+(;W[ib]C[M: This is an over-extension. Yes, black will connect, but white cannot protect this stone and their side territory at the same time.]
+;B[hb];W[kc]
+(;B[eh];W[gf];B[ic];W[rk];B[rj];W[qk]
+(;B[qb]
+(;W[cr]
+(;B[dr]C[M: Black loses sente this way. There's a way to confine white and keep it. See the variation.]
+;W[cq];B[dq];W[pb];B[qd]
+(;W[pc];B[qc];W[nq];B[pr];W[nl];B[oj];W[ok];B[pk];W[pl];B[pj]
+;W[nj];B[gl];W[in];B[il];W[gh]C[M: Good job with this move. It heavily reduces the moyo black was just trying to build.]
+;B[fi];W[gi];B[if];W[ii];B[pe];W[oe];B[pf];W[of];B[ni]C[should W have extended to n10?]
+
+(;W[pg];B[qf];W[og];B[mj];W[nk];B[mh];W[oh];B[oi];W[ie];B[mf]
+;W[me];B[jb];W[kb];B[je];W[jc];B[ia];W[he];B[jf];W[eg];B[dh]
+;W[fh];B[fj];W[li];B[mi];W[kj];B[lk];W[kk];B[kl];W[ll];B[km]
+;W[ml];B[kh];W[lh];B[lg];W[ki];B[jh];W[ji];B[hg];W[gg]
+(;B[ee]C[here B tried to kill the W group; what are good moves to save it (or was W lucky that B didn´t aim properly?)
+
+M: White saved it nicely. Black wasn't really able to kill unless white made a mistake.]
+;W[ed]
+(;B[dd];W[ff];B[bm];W[bn];B[jo];W[ip];B[iq];W[jp];B[kp];W[jn]
+;B[ko]
+(;W[kn];B[io];W[ho];B[hp];W[gp];B[fp];W[fo];B[lm];W[mm];B[im]
+;W[ln];B[hm]C[here that black group looked somewhat vulnerable but W wanted to wait (are there  any weaknesses to exploit? or does W have greater weaknesses?)
+
+M: At this point, all groups around this area are safe. Certainly nothing can be killed until either player makes a serious mistake. 
+
+M: There is really nothing to exploit, except perhaps a move like B12 (A).]
+
+(;W[hn];B[co];W[bo];B[dn]C[this one was a mistake i think since it gave W the possibility to go into B´s area]
+;W[dm];B[do];W[dl]
+(;B[cm];W[em];B[ek];W[ck];B[bk];W[am];B[bl];W[dj]
+(;B[cj];W[dk];B[di];W[ej];B[ei]
+(;W[hk]C[W continued to pincer( what are more important points?)]
+;B[gk];W[ik]C[B started a counterattack that W didn´t know how to respond  to properly (any suggestions?)]
+;B[br]
+(;W[cs];B[bh]C[M: White can still live if they play now.]
+(;W[bg];B[aq];W[ap];B[an];W[bq];B[ar]C[here W thought that the group was dead so W turned to a different place (whats the estimation of the final result here?)
+
+M: The score at this point is black ahead by about 45-50 points.]
+;W[ih];B[jg];W[ng];B[mg];W[le];B[op];W[oo];B[lr];W[ms];B[qs]
+;W[os];B[np];W[no];B[or];W[ns];B[ps];W[sj];B[si];W[sk];B[qh]
+;W[ad];B[bc];W[ac];B[bb];W[dg];B[ab];W[ae];B[af];W[bf];B[ah]
+;W[ag];B[ls];W[lq];B[kr];W[lp];B[fm];W[fl];B[fk];W[gm];B[hl]
+;W[fn];B[hh]C[W sould have answered it since k11 group would have been cut off (or could W have succeeded in cutting B off by L14, L15?)]
+;W[kf];B[ke]
+(;W[hi]C[M: So this connection was a good move.];B[kg];W[kd]
+
+(;B[qa];W[pa];B[ph];W[ka];B[ja];W[lf];B[nf];W[ne];B[ch];W[jl]
+;B[jm];W[gj];B[gq];W[eo];B[ep];W[jk];B[al]C[now W challenged fate^^; were there possibilities for B to respond in order to kill W before W kills B or was W just lucky?]
+;W[aj]
+(;B[ds];W[bj];B[cp]C[ a9 would have been safer for W, wouldn´t it?]
+
+(;W[ai];B[am];W[fl]C[so what would the outcome have been like when B saw W´s intetions earlier?; and again was W just lucky to turn the situation to W´s profits?
+
+Thanks again, dear reviewer (i would not mind if you commented on other points(does W play losely, poorly,...)  , too, not just on my questions^^)]
+)
+(;W[ak]C[M: Yes, there is very little black can do about this move, however, the way white played in the game was also good.]
+))
+(;B[bj]C[The key is this case was to connect. This gave black more liberties, and black can always try for a seki if they are unable to take.]
+;W[ai];B[ds];W[fl];B[cp]
+(;W[ak];B[bi];W[aj];B[am];W[ak]
+(;B[fm]C[M: It comes down to a ko. It would be extremely hard to find a ko threat bigger than this, however.]
+;W[go]C[M: If white loses the ko...];B[ao];W[fl];B[bs])
+(;B[ao];W[ai]))
+(;W[fm]C[M: If white just fills the ko, the white group in the corner is lost.]
+;B[am];W[ak];B[bi];W[aj];B[ao])))
+(;B[pa];W[oa];B[qa];W[nb]C[M: Black still has sente, and has reduced white by two more points.]
+))
+(;W[lf]TR[je][ke][if][jf][hg][jg][hh][jh][kh]C[M: If white connects, with the aim of letting their group be cut, and trying to take the marked black group, this is what happens.]
+;B[hi];W[hj];B[gj]
+(;W[jl]C[M: White is attempting to gain more liberties.];B[jm]
+;W[kg];B[ij]C[M: This might seem like a strange move, but black is actually reducing the liberties of the white group.]
+;W[jj];B[jk]
+(;W[hf];B[ij])
+(;W[ij];B[ig];W[jl];B[lj]))
+(;W[hf];B[ig];W[kg];B[jk];W[ij];B[lj])
+(;W[jk];B[kg])
+(;W[kg];B[jk];W[ij];B[lj];W[jd];B[ig])))
+(;W[aq])
+(;W[bs];B[ar];W[aq]))
+(;W[bs]LB[ar:A]C[M: Here was the move you wanted. It's very easy to misread this, but, there are a few ways to live, depending on what black does. 
+
+M: This move needs a response if black wants to kill white's group. It threatens to make an eye in the corner, with a follow-up move at A2 (A).]
+
+(;B[aq];W[al]
+(;B[aj];W[an];B[ap];W[bq];B[ar]C[M: White is definately alive at this point, but to prove it to black...]
+;W[ao];B[ds];W[as]
+(;B[ar];W[aq])
+(;B[aq];W[ar];B[cs];W[ap]))
+(;B[ak];W[an];B[bj];W[ap]))
+(;B[ar];W[aq];B[an];W[ao])))
+(;W[fk]C[M: White can also cut here.]
+(;B[gk]C[M: If black sees the threat, they will give up their two stones, four points, for the sake of the connection.]
+;W[fl];B[gj]C[M: White still has sente, and gained four points.]
+)
+(;B[fl]C[M: If black decides that they can capture white, the centre black group will be cut off.]
+;W[gk];B[gj];W[hk]
+(;B[hj];W[ik]
+(;B[jk];W[ij])
+(;B[ij];W[jk];B[hi];W[hh];B[ih];W[jm];B[jl];W[gm];B[hl];W[fm]
+)
+(;B[hi]C[M: Even if black cuts, the centre group will be taken.]
+;W[hh];B[ih];W[jl];B[jm];W[gm];B[jk];W[ij];B[lj];W[fm];B[hl]
+;W[jl]))
+(;B[ik];W[hj]))))
+(;B[dk]C[M: Black is fine to cut white here.]))
+(;B[dk];W[cm];B[bl];W[em];B[fl]C[M: Black could have also played this variation, if they wanted to keep out white. Given that the white group at B4 is able to live, there's really no reason to bother cutting.]
+))
+(;W[bh];B[bi]C[M: Although this is just a simple endgame reduction.]
+))
+(;W[io];B[kn];W[ln]TR[bn][cn][en][gn][in][jn][io][bp][ip][jp]
+[cq][cr]C[M: White's marked group is safe, so there's not need to sacrifice anything to connect.]
+;B[dn];W[do];B[dm];W[eo];B[co];W[cp]C[M: Even if black tries to cut white, black fails.]
+))
+(;B[ff];W[fe];B[hf];W[hd])
+(;B[fe];W[ff]))
+(;B[fe]
+(;W[ed]C[M: Unless white makes a mistake, such as here, there's very little black can do.]
+;B[ff]C[M: This is the mistake I talked about.])
+(;W[ff];B[ed];W[ee];B[hd];W[ge])))
+(;W[mj]TR[nj][ok][nl][lo][mp]C[M: Certainly, this is a good move. The marked formation has the makings of a nice piece of territory for white.]
+;B[og];W[ng]C[M: White hasn't really given up much, either.]
+))
+(;W[pe]LB[qe:A]C[M: This secures the R15 (A) stone, and creates influence towards the centre.]
+;B[pc];W[oc];B[qc];W[ob];B[od];W[ne]C[M: Black can't cut, due to the net.]
+))
+(;B[cq]C[M: Black's true aim is not to cut, here, but to shut white in, so this move, in this situation, is fine.]
+;W[bq];B[dr];W[cp];B[dq];W[br]C[M: Black has sente, and can play elsewhere.]
+))
+(;W[cq]C[M: Again, this would be better. It takes more of the corner.]
+))
+(;B[qc]C[M: This would be even better for black.]))
+(;B[jb];W[ic];B[ia];W[jc];B[hd]))
+(;W[kc]C[M: This is probably the best extension white can do here.]
+))
+(;B[qc]C[M: The reson why it's not a good idea to cut is because black could decide that both their groups are safe, and take the corner instead, letting white cut.]
+;W[re];B[oc]C[M: Suddenly white's in trouble.];W[pc];B[pb];W[qd]
+;B[rc];W[od];B[nc];W[nd];B[mc];W[og]C[M: Although you could say that this variation isn't necessarily bad, it trades the potential on the side for influence towards the centre. Trying to change that influence into territory, in the centre, is always risky.]
+))
+(;W[qc];B[mc];W[nc];B[md];W[pf];B[mf];W[rc];B[qe];W[pe];B[jc]
+C[M: White is alive, but cramped. All of white's potential on the upper side is gone, and white hasn't gained anything from this exchange.]
+)
+(;W[mc];B[qc];W[jc];B[pc];W[od]C[M: White has given the corner to black, but has developed the side instead, and gained influence towards the centre.]
+))
+(;W[qq]C[M: Now what is black going to do? It's like the old saying, "Divide and conquer."
+
+M: Black no longer has access to the corner, and black doesn't really have enough room to make life on the edge.]
+
+(;B[qm];W[rn];B[on];W[oo];B[no];W[np];B[op];W[mo];B[nn];W[lm]
+C[M: White makes sure his group doesn't run out of liberties, and escapes to the centre.]
+;B[nq];W[mp];B[mr];W[lr]
+(;B[nr];W[lq];B[qr];W[rr]
+(;B[pr];W[os];B[rq]C[M: And black can't cut here.];W[rp])
+(;B[ps];W[or];B[os];W[ms]))
+(;B[ns];W[lq];B[qr];W[rr]
+(;B[ps];W[or])
+(;B[pr];W[or];B[os];W[qs])))
+(;B[mp]C[M: Even if black plays here, white can still keep black seperated.]
+;W[lp]
+(;B[nq];W[lq])
+(;B[lq];W[np];B[mo];W[mn];B[no];W[oo];B[nn];W[nm];B[on];W[pm]
+)
+(;B[np];W[lq]))))
+(;W[cq]TR[dp][fq]C[M: It might be time to take advantage of black's generosity, and completely settle the white group. Black's marked stones are also looking unsteady, now, so black will need to respond.
+
+M: White gets to settle in sente. This can never be a bad thing for white.]
+;B[iq]))
+(;B[cq]C[M: The usual response in this situation is here. This stops the white group from settling completely. White has only one eye instead of two.]
+;W[bq];B[br];W[cp];B[dq];W[cj];B[el]TR[cn][en][bp][cp][bq]C[M: Even if white pincers with C10, black should be fine with running to the centre.
+
+M: Keep in mind that when black runs like this, black is also putting pressure on the marked white group. So this isn't bad for black.
+
+M: Although, this is better for white than letting black settle with C11, which is what happened in the game. Good job in spotting it.]
+;W[ej];B[bm];W[bn];B[gl]))
+(;B[fp]C[M: This move gains territory along the bottom as well as putting pressure on white.]
+))
+(;W[fc];B[ch];W[jd]C[M: Perhaps this variation? However, as I said, the situation at this point is quite tricky, so it's hard to know what to do. Certainly, black seems to have gained the upper hand.]
+))
+(;W[ed];B[ec]C[M: This is a joseki.];W[fc];B[dc];W[fd];B[cf]
+LB[pd:A]TR[fc][ed][fd]C[M: White would need a follow-up move, however.
+
+M: Still, this joseki is a good choice for white, because the influence the marked group creates works well with the Q16 (A) stone.]
+
+(;W[jd]C[M: A move that is more focused on gaining territory.]
+)
+(;W[fg]C[M: A more aggressive move. This is more focused on the centre. It does, however, leave white's potential moyo open to invasion.]
+))
+(;W[ec]C[M: This option isn't as good for white, because it allows black to gain influence along the left side.]
+;B[ed]C[M: This is also a joseki.];W[fd];B[ee];W[dc];B[cc];W[ic]
+;B[cf]LB[dp:A]C[M: Black would be very happy with this influence, because it works well with the D4 (A) stone.]
+))
+(;B[pd]LB[cd:A]C[M: This is just because of the postion of the C16 (A) stone.]
+;W[dp];B[ed]TR[cd]C[M: Now black has the ability to extend both ways, and form a nice moyo. Around C10 is the biggest point on the board, because if black plays there, they're using the influence of the marked stones nicely.]
+
+(;W[qf];B[cj];W[cm];B[ej]C[This is ideal for black, as they have a big piece of territory that is uninvadable right from the beginning.]
+)
+(;W[cj]C[M: Of course, since this point would be that nice for black, white wants to stop black playing there, and so white plays there instead.]
+;B[jc]C[M: This allows black to extend in the other direction, and already that wall is looking good for black. 
+
+M: White is still quite easy to attack, and black has almost guaranteed territory already.]
+)))

@@ -1,0 +1,131 @@
+(;FF[4]GM[1]SZ[19]CA[UTF-8]AP[SGFC:1.13b]
+
+GN[wuhong-macho]
+PB[macho]
+BR[16k]
+HA[2]
+PW[wuhong]
+WR[14k]
+KM[0.5]
+DT[2003-03-07]
+PC[The Kiseido Go Server (KGS) at http://kgs.kiseido.com/]
+RE[W+Resign]
+TM[1800]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+AB[pd][dp]C[macho> hello there, this game was played recently on kgs.  it was me (macho, 16k black) against wuhong (14k, white).  i didn't do so well at all, i ended up resigning.  i've included questions for the reviewer.]
+;W[dd]C[macho [16k\]: hi];B[pq];W[cf];B[qo];W[gq];B[jq];W[go]
+;B[dn];W[dr];B[cq];W[dq]C[macho> was it wrong for me to play tenuki after d3?  my corner didn't feel threatened and k5 felt like a big move, but it did allow white to settle his group.
+
+I think that C2 would be better for black.  See the variation.]
+
+(;B[jo];W[cp];B[co];W[cr];B[bq];W[br];B[bp]C[Black is safe, but has little territory for so many stones.  The white group probably doesn't need to worry about living now.]
+;W[ip];B[jp]C[This seems like a wasted move since it just makes black more solid.]
+;W[cl]
+(;B[di]C[macho>  in hindsight this pincer feels wrong.  would a low pincer around c11 have worked better? it might have actually cut c8 and c14.  maybe a different move altogether like f17, q10, k16?
+
+I don't think the low pincer will do any good since white can jump out and connect to the other group in the lower left.  (See var.)
+
+This pincer should be able to separate the stones on the left side (as shown later), but that may not be worth it.  A reducing move in this area later would be good, but there are more profitable moves on the top or right side.  If white spends another move here to secure territory, black gets a second move on the top or right to also map out territory.]
+;W[ci];B[cj];W[ch]
+(;B[dk]C[This was the mistake -- see var.];W[bj]
+(;B[bk]C[macho> this move was also a mistake.  are d8 or c9 better?
+
+D8 connects the black stones so is better than this move.];W[ck]
+;B[dj];W[bl];B[dl];W[qm]
+(;B[qi]C[macho> after this pincer i thought he should have to run out to p7.  he ended up making a base for himself.  how could i have prevented this?
+
+A closer pincer would force white out towards the middle, but could be dangerous for black.  Letting white get a small group here is no problem if black gets compensation.]
+;W[qj]
+(;B[pj]C[Black can play solidly here and trade a small live white group for black territory on the bottom and influence in the upper right.  (See var.)]
+;W[qk];B[pk]C[Q11 would be more solid and not leave a cut there.]
+;W[ri];B[qh];W[rh];B[rg]C[Black is leaving too many cutting points in his wall.  Playing at R13 would be safer.  If white wants to craw along the second line, black should let him in exchange for a very solid wall facing the open top center.]
+;W[qg];B[rf];W[pg]
+(;B[ph]C[macho> better at q11?
+
+P12 should work (see vars.), although I haven't worked out all the variations.]
+;W[oh];B[pi];W[qc];B[qd];W[rc];B[pc];W[of];B[qe]C[S16 might be a little better since it puts more pressure on the white corner stones.]
+;W[gc];B[ql];W[rl];B[pl];W[rn];B[sh];W[sj];B[ld]C[macho> too far? what is a better extension?
+
+N16 or N17 would be safer in this situation.];W[jc]
+(;B[kd];W[lb]C[macho [16k\]: misclick
+macho [16k\]: if it's ok... ?
+wuhong [14k\]: ok])
+(;B[kc]C[This move would be better at M17 or N17. Then white will have a harder time spliting your stones apart.]
+;W[nd]C[macho> should i have sacrificed the m16 stones at this point and work on securing the corner?  or run out into the middle with them?  or maybe i could still connect with q17 somehow?  that's what i tried to do, but it didn't work out.
+
+You may have connected (see vars. later), but the situation gets complicated.]
+;B[nc];W[mc];B[md];W[oc]
+(;B[ob]C[P16 seems better although the result is similar to your outcome.  O18 is probably the best move, but its not easy to read it out.]
+;W[nb];B[od];W[nc];B[ne];W[pb];B[qb];W[oa];B[rb]MA[oe][me]C[Not a terrible outcome, but black now has two cutting points (marked).]
+;W[lc];B[kd];W[kb];B[jd];W[ic];B[pm]C[P15 is more important at this point.]
+;W[me];B[nf];W[ng];B[mf];W[ni];B[oe]C[Finally! Good.  White's stones are weak.  White may escape or live, but black should be able to use white's weakness to make territory in the lower right.]
+;W[mk];B[mm]TR[jd][kd][kc][ld][md][mf][nf][ne]C[Very good.  Thanks to the connection at P15, black doesn't have to worry about his marked stones.]
+;W[mg]
+(;B[le]C[Black didn't really need to capture - see var.];W[ki]
+;B[im];W[rp];B[qp];W[rq];B[qn];W[rm];B[dh];W[dg];B[eg];W[ef]
+;B[fg];W[ff]
+(;B[gm]C[macho> i messed up defending the little that was mine after this, how could i have done better?
+
+This looks like a reasonable start for defending territory.  However, white is ahead in territory so defending your territory probably isn't going to be enough.  Your only hope may be an invasion in the upper left corner.]
+;W[kl];B[km]C[macho> bad to attach?
+
+It's probably OK in this situation.  Sometimes it just helps your opponent.]
+;W[hj];B[jk];W[jl];B[il];W[ik];B[jj]C[macho> i hoped even if i lost these stones they would have some aji]
+;W[ih];B[ji];W[jh];B[kk];W[ll];B[lj];W[mj];B[li];W[lh];B[gk]
+;W[hk];B[hl];W[jm];B[jn];W[lm];B[ln];W[kn];B[ko];W[mn];B[lo]
+;W[nm];B[nn];W[mo];B[om];W[nl];B[mp];W[no];B[np];W[oo];B[on]
+;W[gj];B[fk];W[he];B[gf];W[ge];B[hf];W[gg];B[gh];W[hg];B[if]
+;W[fh];B[eh];W[fi];B[ie];W[id];B[kg];W[kh];B[lg];W[hr];B[fp]
+;W[fq];B[gp];W[hp];B[ep];W[jr];B[kr];W[ir];B[ho];W[io];B[hn]
+;W[qr];B[pr];W[bn];B[cm];W[bm];B[bo];W[aq];B[ap];W[ar];B[ig]
+;W[hh];B[pf];W[og];B[qq];W[rr];B[ro];W[so];B[po];W[op];B[oq]
+;W[ml];B[pp];W[mm];B[nj];W[oj];B[ok];W[nk];B[eq];W[er];B[iq]
+;W[hq];B[km];W[oi];B[fj];W[gi];B[ei];W[ol];B[pn];W[ps];B[os]
+;W[nq];B[qs];W[nr]C[macho [16k\]: uh oh];B[mr];W[mq];B[in];W[lp]
+;B[lq];W[ms];B[ls];W[lr]C[macho [17k\]: thanks for the game
+wuhong [14k\]: thx
+wuhong [14k\]: cu
+macho [17k\]: bye])
+(;B[cc];W[dc];B[db];W[eb];B[bb];W[da];B[ca]C[Fighting a ko may be blacks only way to live here.]
+))
+(;B[lg];W[le];B[ke];W[lh];B[kg]))
+(;B[od];W[nb];B[ne]
+(;W[nc];B[oe];W[pb];B[mf]TR[of][oh][pg][qg]C[White lives in the corner, but black gets out and seriously threatens the marked white stones.]
+)
+(;W[pb];B[nc];W[ob];B[nd]C[Again white lives in the corner and black gets out.]
+))
+(;B[nb]C[I think this variation actually works for black to connect AND keep the corner.]
+
+(;W[od];B[ob])
+(;W[ob];B[od]
+(;W[ne];B[pb];W[mb];B[oa];W[kb];B[lb])
+(;W[pb];B[ne];W[qa]C[White may live in the corner, but black connects and gets out.]
+))))
+(;B[lc];W[nd];B[nc];W[mc];B[md];W[oc];B[mb];W[od];B[ob]))
+(;B[oh]C[This is a common move in this sort of situation.  It's not guarnteed to work all the time, but it should be a move you consider.]
+
+(;W[ph];B[pi];W[oi];B[ni]
+(;W[oj];B[og];W[ok];B[pl];W[ol];B[pf])
+(;W[og];B[nh];W[ng];B[nk]))
+(;W[og];B[nh])))
+(;B[pi];W[pj];B[oj];W[ok];B[nj];W[nk];B[mj];W[on];B[np]))
+(;B[qk];W[om];B[ok];W[oo];B[nq]))
+(;B[dl];W[ck];B[dj];W[dm];B[em];W[cm];B[en]))
+(;B[dj];W[bj];B[bk];W[bi];B[ck]C[The stones are separated, but the white stone is not yet dead ...]
+;W[bl];B[ak];W[el]C[Again, black will have to worry about his two groups on the left, but this is probably a better outcome than the low pincer.]
+)
+(;B[bj]
+(;W[dj];B[dk];W[ej];B[ck]C[The white stone is almost dead so black will get some territory here, but white gets outward influence that is probably worth more.]
+)
+(;W[dk];B[dj];W[fk]C[White gets out and black has to worry about his stones.]
+)))
+(;B[cj];W[el];B[ej];W[gl]C[White can probably connect the two lower left groups and black now has to worry about his two groups on the left side.  Not a good result for black.v]
+))
+(;B[cr]
+(;W[lq]C[If white attempts to attack the stone at K3, black can counterattack by splitting the two weak groups.]
+;B[jo];W[lo];B[jm];W[lm];B[hn];W[gn];B[gm];W[fm];B[gl]C[The lower left white group can probably escape or live, but won't get much territory.  The center black group shouldn't have an trouble escaping or living.  White still has to worry about the center white group.]
+)
+(;W[jo]C[If white plays K5 before black, black can solidify some territory and the white group is still not safe.]
+;B[lp];W[ip])))

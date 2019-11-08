@@ -1,0 +1,94 @@
+(;FF[4]GM[1]SZ[19]ST[0]CA[UTF-8]AP[SGFC:1.13b]VW[]
+
+PB[indi]
+BR[28k]
+HA[0]
+PW[aberntzen]
+WR[27k]
+KM[0.5]
+DT[2003-03-28]
+PC[The Kiseido Go Server (KGS) at http://kgs.kiseido.com/]
+RE[B+Resign]
+TM[1350]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+;B[dd];W[pp];B[pd];W[cp];B[oq];W[pq];B[op];W[oo];B[pr];W[qr]
+
+(;B[nr];W[mp]LB[nr:A][qq:B]C[This is  not good. After blacks move at A I have to defend the cuting point at B. The result follows
+
+E - Yes, exactly.];B[qq]LB[qp:A]C[E - If this mistake happens, you should cut your losses with A, instead of losing more stones.]
+;W[rq]LB[qp:A][po:B]C[What am I thinking here. I think A ( or maybe B) would be better]
+;B[qp];W[qo]C[Remember now what I was thinking. Thought about the ladder, but forgot the lack of liberties for my group]
+;B[po];W[rp];B[rr];W[ro];B[no];W[on];B[np];W[pn];B[mo];W[pp]
+C[E - This move should be made much later in the game.  By taking this piece, you only get one point and black doesn't need to respond.  It would be better to play elsewhere and play here towards the end of the game when there are few moves left.]
+;B[pq];W[po]C[E - See, now black got sente due to the play two turns ago.  It could have been you playing here.]
+;B[lp];W[eq]C[Although a lot has been lost, I have som thickness in the corner. Try now to secure the other corner.
+
+E - Yes, good.  It is very important in the beginning game to be able to step away from a semi-stable situation and go for big points in empty parts of the board.  This was a good play.]
+;B[jp];W[hp]C[E - Good, but maybe one space lower would be safer.  Black looks very strong in this area.]
+;B[hq];W[gq];B[gp];W[go]LB[fp:A]C[A would have been better I think
+
+E - Yes, I agree.  Whenever this kind of crosscut/atari situation comes up, remember that you have two directions to atari towards and think of which you prefer.  This was a bit agressive, though not terrible.]
+;B[fp];W[fq];B[ho];W[fo];B[ip];W[ep];B[hp];W[hr]LB[qf:H][cf:G]
+[jd:F][jj:E][pj:D][qi:C][dk:B][cj:A]C[E - I would say that this is still a small point.  Try for something on the empty parts of the board (indicated spots).]
+;B[ir];W[gs];B[is];W[jd];B[hs];W[gr];B[dh];W[cl]LB[dk:A]C[E - You may have been able to squeeze out a bit more from this move.  A would probably have been possible.]
+;B[ck];W[dl]C[E - Good.  This looks strong.  There is nothing so simple as extending, and nothing so powerful.]
+;B[dk];W[ak]LB[bk:A]C[E - No.  The first line is worth to few points.  And even if you wanted to do something like this, A is better.  Go for bigger points instead (the right side or the top).]
+;B[bk];W[bl];B[aj];W[al];B[bi];W[en]LB[gl:C][gm:B][fl:A]C[E - You can be more daring here.  You position is strong and if black invaded at E5, you could easily kill.  A better move would be something like A, B, or C.]
+;B[hd];W[md];B[nd];W[mb];B[nb];W[qc]C[Over optimistic this invasion
+
+E - Yes, I would still be concerned about the group on the top center.]
+;B[qd];W[nc]LB[pc:A]C[E - With the stone in the corner, you could try to threaten (or even make) life, but the first step is to extend the single stone. Instead of this move, you should play A.  Your group on the top center can always live by escaping towards center.]
+;B[oc];W[mc];B[pb];W[ic]C[E - But at least you got a free move out of that corner stone.]
+;B[hc];W[ib];B[hb];W[ha];B[ga];W[ia];B[fb];W[ne]C[E - Good.]
+;B[od];W[mf];B[of];W[oe]LB[pi:A]C[E - Somewhere around here you want to claim the right center. You have a lot of thickness down there and don't want to waste it.  You should play around A.]
+;B[pe];W[pj]C[E - Oh, and you did.  Awesome.];B[pi];W[oi];B[oh]
+C[E - actually, there is a nice set of moves you can do from here, due to black leaving his stones with so many cutting points (see alternate variation).]
+
+(;W[oj];B[nh];W[mh]C[Is it possible to stop black from reaching into the middle?
+
+E - No, not really.  The best you can do is herd him where you want.  More important might be black's big upper left.  Something should be done.]
+;B[ni];W[nj];B[mi];W[mg]LB[lh:A]C[
+E - I feel that A may have been a better move.  This is kind of a tight situation and every little bit helps.]
+;B[ng];W[li];B[mj]
+(;W[qi]LB[ph:A]C[Should this have been at A. Tried a variation, but it didn't work
+
+E - I think how it is is good.  At A would (I think) require black to make a mistake to come out well for you.]
+;B[ph];W[qh];B[qg];W[rj]LB[rg:A]C[Cowardly play I think
+
+E - True.  You could have played at A (Or elsewhere).];B[rh]
+;W[mk];B[lj];W[jj]LB[ki:A]C[E - this is a bit agressive.  Black could play at A and hurt you a bit.  A itself may be a better move.]
+;B[ri];W[qj];B[mm];W[nm];B[mn];W[ml]C[E - this is slow.  Instead, do another move that is more agressive.]
+;B[lk];W[ll];B[lm];W[kl];B[nk];W[nl];B[ok];W[pk];B[ol];W[pl]
+C[E - he is very dead here.  You didn't even need to make this last move.]
+;B[km];W[jk]LB[gf:D][fh:C][hn:B][ek:A]C[E - This move doesn't need to be made.  At this point,  you are free to make any move you want.  I would try one of the marked moves.]
+;B[jl];W[il];B[jm];W[kk]C[E - Again, this is slow.  It connects, and that's good, but a more agressive move might be better.  Try to take away some of that big upper left corner from black.]
+;B[hh]C[E - or else something like this will happen.  This is a big point.]
+;W[ih];B[hj];W[ij]LB[ek:D][fj:C][hf:B][ig:A]C[E - This move doesn't actually defend anything.  Right behind this stone is a solid wall.  Instead of this use it somewhere that will scare black (marked).]
+;B[ig];W[hi];B[ii];W[ji];B[gi];W[ii]C[E - This is safe, but it might be better to do a ko fight over this position.  But that is really a personal preference.]
+;B[gg];W[jg];B[if];W[cc];B[dc];W[cd];B[cb];W[bb];B[eb];W[ce]
+;B[cf];W[bf];B[de];W[cg];B[df];W[bg]LB[bh:C][ch:B][ca:A]C[E - not important.  Play at A, B, C.]
+;B[dg];W[ch];B[ci];W[bh];B[di];W[hk];B[gj];W[gk]LB[fl:A]C[A might be better.]
+;B[fk];W[fl];B[el];W[em];B[ek];W[fm];B[hm];W[im];B[in];W[gn]
+;B[hl];W[ik];B[hn];W[gl]C[E - not important.  Both groups are alive, so you don't need to connect them]
+;B[sj];W[sk];B[si];W[rk];B[sq];W[sp];B[sr];W[na];B[ob];W[ma]
+C[E - not important until black threatens.];B[oa];W[nf];B[pf]
+;W[kj];B[je];W[ke];B[jf];W[kf];B[id];W[jc];B[ba];W[bc];B[ca]
+;W[ab];B[ah];W[ag];B[ai]
+(;W[aa]LB[ae:A]C[E - This doesn't do anything to threaten black and only takes away one of your liberties.  You should have played at A.]
+;B[ae]
+(;W[ad];B[be];W[nn];B[af]C[At this point I resigned
+
+E - OK.  The game was over at this point anyway.
+
+So in conclusion, the important things to remember are to ignore small moves and always look out for the biggest moves.  Don't make unimportant moves.  Don't be afraid of invading or attacking your enemy.]
+)
+(;W[be];B[bd];W[af];B[ad];W[ac]))
+(;W[ae];B[be];W[bd]C[And I gave up]))
+(;W[ph]C[For instance];B[qi];W[qh];B[qj];W[pk];B[qk];W[ql];B[pl]
+;W[ol];B[pm];W[om];B[rl];W[qm];B[rm];W[rn];B[rh];W[rg];B[ri]
+;W[sh];B[si];W[sg];B[rk];W[sm];B[sl];W[sn]))
+(;W[ph];B[qi];W[og];B[nh];W[pf]C[E - Though it leaves your stones on the bottom somewhat weakened, it breaks black's stones apart.]
+))
+(;B[qq];W[or];B[ps];W[qs];B[qp];W[os];B[qo];W[po]))

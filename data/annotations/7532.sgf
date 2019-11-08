@@ -1,0 +1,184 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+PB[Danmaku]
+BR[12k]
+HA[0]
+PW[HOHOYOYO]
+WR[11k]
+KM[0.5]
+DT[2009-11-03]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[B+Resign]
+TM[60]
+OT[25/600 Canadian]
+RU[Japanese]
+
+C[I played this game as black. It is such a pity that most people in KGS quickly leave after the game is finished. I would like to understand some situlations in this game better.
+
+Thank you!
+
+R: Hello! My name is Peter, and I'm 5k on kgs (4k soon hopefully!). Throughout this game, I'll be marking my comments with R:, I'll use w to refer to white and b to refer to b. I try to avoid using too many technical go terms, but if there's any terms I use that aren't clear, you can find more information on senseis library (google: senseis library). I'll make a note of where I include variations.
+
+Throughout my commentary, I offer mostly criticism of your play. This is not because I think you played badly, but because it's from our errors that we can learn. You did a good job in this game, and can feel good about how you played.
+
+B clearly dominated this entire game, controlling the flow throughout. To be honest, reviews are more useful for the losing player than for the winner, especially in a game like this one where you probably won by close to a hundred points. So -- I'm going to focus on general strategy, which means what you were aiming for with your moves in a whole-board analysis. I will also focus a lot on w's play, analyzing why some moves were bad moves. I will get into tactics in a few situations, most notably the skirmish on the right and the final fight at the bottom. By tactics, I mean the sequence and choice of moves in a local board position and how to achieve better local results (for instance, tesuji, which means 'the right move', and often involves spotting recurring patterns).
+
+As a tip, next time you apply for a review, choose a game of yours where you lost and you aren't sure how. It will give the reviewer more to talk about (as if I really need more reason to ramble about go, lol)
+
+Alright, let's go!];B[pd];W[pp];B[cd];W[cp];B[ic]C[P: The low chinese fuseki b is using here favours forcing an opponent to invade and then attacking them, thereby securing a territorial lead.]
+;W[qf];B[qi]C[P: I believe that this pincer is inconsistent with the usual strategy of the mini-chinese fuseki. Far more common is a move around o16, continuing to build a framework on the top. From here, a white 3-3 invasion would be quite good, or playing the second approach at o16.]
+;W[of];B[nd]
+(;W[rd]C[P : The safe response for w to b's pincer at r11 would have been the 3-3 invasion at r17, or the second approach at o17. W running like this is good for b, allowing him/her to create a large framework at the top, which is clearly what they want when playing the mini-chinese. This move does not make life for w, but it invite b to close the corner by playing r17 him/herself. 
+
+What w should be aiming for here, is to create a light, flexible shape as quickly as possible, then harass the pincer stone or, depending on b's play, consider an immediate invasion of the top around m17. I've included a variation here with another line of play for w. 
+
+'light play' means play that is  versatile and flexible, where stones spread out and not too much importance is placed on a single stone or position.]
+
+(;B[pg]C[P: There's a variation here, showing another possible outcome.
+
+I comment on this peep on b's next move.];W[pf];B[qm]C[My right side was weak so I reinforced it. Is R7 just inferior compared to R8?
+
+P: The main feature on the right side of the board right now is w's wall on line 14. This wall is very thick, meaning it is secure and has no defects. The w position is very strong and w can use it to attack the b stones on the right side -- this is in large part because r17 is still open, and because b peeped at q13 too soon. q13 does nothing for b right now, but it makes w stronger, so it would have been best not to do it. save it for later, in case you need it to escape.
+
+br7 is a compromise move, and I don't think it's good. It's trying to make a base on the right side while also approaching the corner. Unfortunately, with w's thickness so close, the cutting point at r9 is too vulnerable, and the long approach lacks strength. If your strategy is to reinforce the right side, r8 is the move.]
+;W[qk]
+(;B[pl]C[After Q8 white can get a good result. What do you think about S9?
+
+P: I like s9 better, because it is more consistent with the q13 stone. By playing q13, you invested a second move around r11, showing your intention to preserve that stone. By sacrificing it now, you lose not only that area of the board, but a move you played has gone to nothing. S9 is a better move for sure. See variation.]
+;W[pj];B[pk];W[qj]C[P: This sequence, bq9 wr10, is bad for black. Like bq13, this sequence is unnecessary and strengthens w quite a bit, while b gains nothing. Do not play these sorts of forcing moves without a clear goal in mind.]
+;B[rp];W[oj]C[P: w chooses to play peacefully, settling his/her group and firmly killing the two black stones, allowing b to make a base.]
+
+(;B[np]C[P: this move is, in my opinion, not good. w has just settled the r10 group, so it might be best to simply take r3. This would settle b's group while making wq4 feel uncomfortable. This attack at o4 is too hasty. b forces wq4 to run, which puts pressure on b's own weak group! In the game, b ends up forced to defend two weak groups on either side of q4, and loses the o4 one. Don't let your opponent attack your groups unless you can attack as well! And r3 is sort of an attack in itself, as it undermines q4. see variation.]
+;W[oo];B[no];W[on];B[nl];W[nn];B[mn]C[P: b has two weak groups. There is a proverb that a weak group between two enemy weak groups is strong, as it attack both while fleeing.]
+;W[nm]
+(;B[nk]C[P: this move is unnecessary and lets w escape! see variation.]
+;W[mm];B[nj];W[ni];B[oi];W[pi];B[mi];W[nh];B[mh];W[qq];B[ng]
+;W[oh];B[og];W[qg];B[ph];W[qh]
+(;B[oi]C[Is capturing here small? Should I just improve my wall with M7 or M6? Or is it just simply time to play near bottom left corner or a big move on a side?
+
+P:   You could have left the capture for later if you wanted to, playing at p3 or m6 to continue attacking w and stabilize your weaker group at the bottom. Let's see it in a variation.]
+;W[mo];B[ep]C[P: I think this is the wrong part of the board to be playing in. With the fractured b position on the bottom, it will be difficult for b to make much of anything around here. I included a variation here where w plays more forcefully and builds a huge moyo on the bottom.
+
+I would want to play at n4 right away and build a strong position on the bottom. this will help to keep w weak and will settle the area. right now, the positon on the bottom is unsettled, so a move at e4 is premature.
+
+B also wants to use all that centre thickness by building a framework. consider a move around d10 as soon as possible. W will have little choice but to invade.]
+
+(;W[eq]
+(;B[fp]C[P: This is a very strange move. I can't really imagine its purpose. I've included two common joseki in variations -- only one of them is good in this situation, but both are good to know in general. 
+
+bf4 doesn't build territory on the bottom, it doesn't build thickness towards the left side, it just creates a drifting, rootless group on to of a strong w position.]
+;W[dp]C[P: If w had played f3 or even d3 here, b wouldn't have had it so easy. :) as it is, b can descend to f3 then make a base extendign to j3 in sente. See variation on next move.]
+
+(;B[ln]C[P: w wants to play n4 to solidify, and by playing this way, be forces him/her to do just that while creating a weak centre group. Better for b to play n4 him/herself, and build up a position on the bottom, or better yet, leave that area alone all together for now, it's not very big or important.]
+;W[mp];B[lm];W[cl]C[P: B needed to play in this area first, to make best use of thickness.]
+;B[dh];W[ec];B[ed];W[dc]C[P: This is not a good move. b is strong locally and should punish this silliness. see variation.]
+
+(;B[fd];W[dd];B[de];W[cc]C[P: w lives too easily here, and b gets little in exchange.]
+;B[el]C[P: very ambitious. an interesting plan.  
+
+Myself, I don't like trying for the one big moyo strategy like you're doing here. True, it can work extremely well and does for your here, but it's fragile, and often depends on your opponents passivity. One mistake, one breach in your wall, and you've lost everything. I find it better to try and build multiple positions, so that you can allow one to shrink while soldifying another. trying for one big moyo is strategically 'heavy', meaning infelxible -- your hopes for victory are tied to one area, one possibility. I suggest trying to play lightly.
+
+ You've obviously been crafting this moyo over the last several exchanges, e4 f4, m6 m7, and the sequence in the upper left. You took a bad result locally in each of those areas, aiming for this big moyo. Along the way, I offered suggestions for how to get a better result locally. those other results would have allowed you a more flexible way of play, instead of putting all your eggs in one basket.
+
+w has huge moves around the cut at e15, and playing p17 to take the whole corner.]
+
+(;W[dj]C[P: this is quite a passive move by w. see variation.]
+;B[ej]C[P: very forceful! hard for w to find a way to respond. One variation included for w play on next move, tho it's hardly the only way it could go.]
+
+(;W[dk];B[ek];W[jo];B[lo];W[lp];B[jm];W[ho];B[dn]
+(;W[gm]C[P: This is a bad move, as it leaves the possibility of cutting the keima (the knights move, that extension from h5 to g7). consider this variation]
+;B[hl];W[gl];B[gk];W[hm];B[il];W[cn];B[fq];W[er];B[iq];W[eo]
+;B[kp];W[kq];B[lq];W[mq]
+(;B[ko]C[P: eep! see variation for how to save bottom no problem.]
+;W[ml];B[lk];W[ll];B[kl];W[mk];B[lj];W[jp];B[lc]C[Is this tenuki a losing move?
+
+P: yeah. it's a pretty bad move :). it's wise to defend now, but there are more important points. The game is white's to win from here on. see this variation for w on the next move.]
+
+(;W[jn];B[km];W[nf];B[mf];W[me]C[P: very bad for w, as it takes away the possibility of p17.]
+;B[ne];W[ce];B[cf];W[bd];B[be];W[cd];B[df];W[bf];B[bg];W[ae]
+;B[qc];W[rc];B[rb];W[ql];B[pm];W[rn];B[rm];W[qn];B[lr]C[I was behind so I went back to position I had abandoned couple of moves ago. It was my only chanse to win I think.]
+;W[mr];B[jq]C[P: You mount an excellent attack here. it surprised me when I first watched this game -- didnt see it coming at all. very well played, way to turn the game around.]
+;W[kr];B[jr];W[ls];B[fo];W[en];B[fn];W[fm];B[em];W[do]C[This fight was beyond my reading ability but it looked very close so I just had to play it and hope to get a good result. If both sides play opitimally how this should turn out?]
+;B[fr]
+(;W[hq]C[P: This move loses for w. see variation for where w fights better.]
+;B[hr];W[ip];B[js];W[gq];B[gr];W[is];B[es];W[dr];B[hp];W[gp]
+;B[go];W[hp];B[ir];W[ds];B[fl];W[fs];B[hn];W[gs];B[im]C[P: Well done, well fought. A very exciting conclusion to an interesting and tangled game. 
+
+As I said earlier, I think this game could have been easier for you if you had not been so quick to allow yourself a bad result locally so often. You frequently left behind openings and dangerous cuts, which could easily have come back to bite you more than they did. To work on this, I suggest studying shape. This can be done by studying some basic joseki. the book, 38 basic joseki, is an excellent introduction.  As well, there are many shape problems on go problems.com
+
+My name on kgs is petition -- add me to your buddies list and feel free to ask for a game if you ever see me online.
+
+keep up the good work!])
+(;W[hr]C[P: this is the critical point. if w plays here, i believe that the best be can do is ko.]
+;B[hq];W[js]
+(;B[ir]C[P: no ko variation. b dies no matter what, i think]
+;W[is];B[gr];W[hs];B[hp];W[go]C[P: I've included two lines from here, both of which end with b dead.]
+
+(;B[io];W[in];B[gn]
+(;W[ip];B[hn];W[im];B[gp];W[io];B[kn])
+(;W[hn];B[im];W[gp];B[gq];W[ip]))
+(;B[gn];W[hn];B[io];W[in]))
+(;B[is]C[P: this variation ends in ko. see other variation for no ko.]
+;W[ir];B[ks]
+(;W[hs];B[js])
+(;W[gr];B[fs];W[js]C[P: this ko seems to be w's best chance.]
+))))
+(;W[di];B[ei];W[ch];B[dg];W[oc];B[od];W[pc];B[nc];W[qc]C[P: w secures 20 points of solid territory. score is w approx 90, to b 78 -- and that's not counting the bottom around f3, j3 as being anything!]
+))
+(;B[jp];W[lr];B[ko]C[P: w must capture at m2, or else l3 will be captured and b will live anyway.]
+))
+(;W[im];B[il];W[jl];B[kl];W[hl];B[ik];W[hk];B[ij];W[hj];B[hi]
+;W[jn];B[km];W[gm];B[gi];W[gq];B[fq];W[er];B[fr];W[gr];B[gp]
+;W[iq]C[P : B is still ahead here, but w has more possibilities for growth and reducing.]
+))
+(;W[di];B[ei];W[ch];B[dg];W[cg];B[cf];W[eh];B[fh];W[eg];B[df]
+;W[fg];B[gi];W[gh];B[fi];W[ee];B[ef];W[fe];B[ff];W[ge];B[gd]
+;W[gg];B[gf];W[he];B[hf];W[hd];B[hc];W[gc]C[P: W could play much more aggressively, and this is one way that could go. it would be hard for b to find enough points to win after this.]
+))
+(;W[ek];B[fl];W[dk];B[fk];W[fj];B[gj];W[ei];B[fi];W[ej];B[gi]
+;W[eh];B[dg];W[fg]C[P: B needs to worry about the e15 cut. b's position around there is very weak.]
+))
+(;B[cc];W[dd];B[de]C[P: Cutting at e15 then c15 doesn't work for w. w has no good options from here, but let's see them run! two variations here.]
+
+(;W[fd];B[ee];W[ge];B[ie];W[gg];B[ih];W[gi];B[cj]C[P: poor w...]
+)
+(;W[ee];B[fd];W[ce];B[df];W[be];B[bf];W[cf];B[bg];W[cg]
+(;B[dg])
+(;B[ch];W[dg];B[ef];W[eg];B[ff];W[bc];B[cb]
+(;W[bb])
+(;W[db];B[bb];W[bd];B[fc]C[P: no luck w... variation continues]
+;W[bi];B[bh];W[eh];B[dj];W[ei];B[ej];W[gi];B[hg];W[fj];B[el]
+)))))
+(;B[fq];W[dr];B[ip];W[ln]))
+(;B[fq]C[P: this first joseki is not really appropriate for the situation, but is good to know in general. you probably already know it...]
+;W[dq];B[gp];W[cn];B[jq])
+(;B[dp]C[P: This is called the big avalanch joseki. it's good to try and keep avalanch joseki as simple as possible, because there are terrifyingly complex variations and lots of room for death and chaos.]
+;W[dq];B[co];W[bp]
+(;B[dn])
+(;B[fp];W[bo];B[cn];W[gr];B[di]C[P: This is good for b here, so w would probably play a little differently, but this sort of outcome is common in the avalanch josekis. It might seem strange to be leaving an opening around b6, but w jumping in now is small, and b can close it if it becomes big.
+
+notice as well that b can press the bottom area flat, making it less valuable, and there is still considerable aji around n5.]
+)))
+(;W[hq];B[cq];W[dq];B[dp];W[bq];B[cr];W[bo];B[eq];W[br];B[dr]
+;W[ln]C[P: the bo4 stones have some aji, but w looks very big on the bottom now.]
+))
+(;B[ln];W[lm];B[kn]C[P: Things could go a lot of ways from here, but b is strong and on the verge of something  big on the bottom.]
+))
+(;B[mm]C[P: w cannot escape and must play r3 immediately or be killed, then b can link up his/her groups at n9. If w tries to fight, variation continues with one possibility.]
+;W[nk];B[ol];W[ml];B[qq]C[P: w is dead.]))
+(;B[qq]C[P: w can't do much with their corner stone now... variation continues.]
+;W[nq];B[lq]C[P: Now, if you want to attack, you can attack from a position of strength. end of variation.]
+))
+(;B[rk];W[rl];B[ql];W[rj];B[pk];W[qj];B[pj];W[ri];B[qh];W[rh]
+;B[rm];W[sk];B[nq]C[P: Here's a possible variation after s9. w is stable, but with a low position. B has thickness and initiative. I prefer b here.]
+))
+(;B[qc];W[qk]C[P: W chooses to fight];B[oi];W[ph];B[pi];W[mf]
+;B[ld]C[P: This is consistent with the small chinese fuseki, i believe.]
+;W[mi];B[pl];W[ql];B[pm];W[qm];B[pn];W[qo];B[nh];W[lg]C[P: Also protects the cut at o14]
+;B[lk]C[P : b extends from thickness and pushes the w group towards his/her strong position at the top. Both sides take territory and both sides are left with a weak group.]
+))
+(;W[oi];B[ql];W[lc]C[P: Best play for b here is, in my opinion, to secure the corner group by playing r15 w s14 bs15. If b is greedy, then variation continues ...]
+;B[mc];W[qc];B[qd];W[rd];B[re];W[rc];B[qe];W[ob]C[P: The w corner is alive and b's wall is next to useless. the m17 stone can be considered light, although there is aji in the connection at n18
+
+Aji, literally, means taste, and it's like there's a bad taste in b's mouth around n18 that he may need to take a move to deal with sooner or later.]
+))

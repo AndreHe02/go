@@ -1,0 +1,196 @@
+(;FF[4]GM[1]SZ[19]ST[1]AP[SGFC:1.15]
+
+PB[GNU Go]
+HA[0]
+PW[Ken]
+WR[30k]
+KM[0]
+DT[2004-08-11]
+RE[W+11]
+US[MultiGo]
+
+C[Ken : Hello teacher , please comment for my game with "GNU go" software. I choose white chess. Thanks
+
+
+Hello,
+
+I'll provide the comments.
+This is funny because I also started Go with computers ....]
+
+(;B[pd];W[dp];B[pp];W[dd];B[fc];W[cf]C[Ken : is this ok , any better suggestion.
+
+no, this is fine
+There are other moves, of course, but this is the most current.]
+;B[db]
+(;W[pj]C[here you should finish the joseki (see variation)]
+;B[dn];W[fp]C[ok];B[cp]
+(;W[dj]C[again, there is a joseki here (see var)];B[cq];W[dq]
+;B[ic];W[pf]C[good];B[nd];W[kp]MA[nq]C[you can go further, but your move is ok]
+;B[qe];W[qf]CR[pg][ph][pi]LB[pf:1][qc:A][qf:2]C[this exchange favors white, because the shape is perfect :
+you maybe have heard of the rule : extend 1 more space than the number of stones
+
+Also, as you may see in many other games, white still has an invasion at A]
+;B[cc];W[cd]C[ok];B[mq];W[lq];B[mp]
+(;W[pm]LB[qn:A][qq:B]C[again, you can aim at A, or even invade the corner at B, because of the marked stone which will prevent Black from using its resulting wall (see variations)]
+;B[oo]C[this is not very good. 
+White can still invade the corner];W[cm]C[good, but beware of approaching too much.
+
+this is an other rule : don't touch stones you attack.];B[qn]
+;W[qm];B[rn];W[co]C[hmmm.
+
+It may reveal costly to leave S7 open.
+Black has already an enormous corner here ...
+
+Unless you can kill the bottom left for sure.
+
+I would play C5 later, but is locally it is a good move];B[cn]
+;W[do];B[bm];W[bo]C[ok];B[bk];W[cl]TR[cm]MA[en][lc][rm]C[don't try to save the stone, because the more stones you add to it, the more it will cost if they die.
+
+Rather sacrifice it and play bigger points on the board.]
+(;B[bl]C[The variation shows what a stronger player (as black) would do once you defend your stones]
+;W[ck]C[Ken : Is it ok ? Any other suggestion ?
+
+no, fine since gnugo did not take the severest line.];B[bi]
+;W[bj];B[aj];W[cj];B[bn];W[en]C[good];B[bg];W[ci];B[bh];W[cg]
+;B[nf];W[pe]MA[oh][qc]C[no, you help black keep his corner]
+;B[re];W[og]TR[oh]MA[re][rn]C[ok, some "advanced tactics" :
+
+I said earlier thant it was better to defend at S7.
+
+Now you may want to have me say that you should defend at S14 ...
+But this time it is not true, because of an other proverb :
+don't defend a skirt open on both sides ...
+
+The thing is : the stones at S6 and S15 "overlap" their function.
+
+So it is not necessary to defend here.
+
+Nevertheless, P13 could be at P12 for better shape];B[rf];W[rg]
+;B[ln];W[pn]MA[jn][lc][mh]C[useless.
+
+This stone does nothing in terms of attacking or making territorry.
+
+You have plenty of bigger ponts on the board]
+(;B[rm]C[oh, this is bad !
+
+This should be at T9, and cost you 15 points (see variation)]
+;W[rl];B[qo]C[B loses a move here];W[dc];B[jn]C[interesting move by black (it is an important point, for both players)]
+;W[cb];B[hn];W[ho];B[io];W[hp];B[sg];W[sh]
+(;B[gf]C[strange : gnugo usually does not miss the variation ...]
+;W[sf];B[rc];W[eb];B[lg];W[ng];B[ip];W[iq];B[jq];W[ir]
+(;B[jr]TR[kp][lq]MA[hn][jn]C[eh ... it accomplished what I predicted earlier, but from the other side ....
+
+Unfortunately, it does not work !
+
+it happens that the white stones can live ...];W[jp]C[by cutting, the black sones are deprived of their liberties.
+
+I don't know if you actually "read" this, but this is difficult "life and death" problem :-)]
+;B[is]C[useless];W[hq];B[js];W[jo]
+(;B[in]C[better variation for black];W[hs]
+(;B[gh]C[gnugo has seen its stones are lost (see variation)]
+;W[gj];B[hk];W[ij];B[ih];W[hj];B[sl];W[sk];B[oe]C[again !];W[rd]
+C[?];B[sd];W[kn];B[km];W[ko];B[ml];W[nl];B[lr];W[kr];B[ls];W[kq]
+;B[sm];W[qk];B[nm];W[om];B[gl];W[gk];B[nj];W[nk];B[mj];W[mk]
+;B[ll];W[lk];B[ik];W[jj]MA[bf][gb]LB[ji:B][jk:C][ki:D][kj:A]
+C[Ken : Is "A" or "B" better than this move. I think now is too conservative.
+
+in order :
+
+D, C, B, A, the move in the game
+D is better, because it threats a move at M12, capturing the 2 black stones
+
+This is locally.
+
+you have better moves elsewhere];B[mh];W[nh]MA[mg]C[don't play "empty triangles"]
+;B[lo];W[ks];B[mr];W[qq]C[Ken : Is there any steps to get the corner . I failed after the trail.
+
+not at this stage, with all the black stones around.
+
+This can be done (usually) only in the early stages of the game, where you have no black stone in the immediate vicinity of the Q4 stone]
+;B[pr];W[qr];B[pq];W[qp];B[ro]CR[qn][qo][rm][rn][sl][sm]MA[po]
+C[Ken : I should cut at "X" and kill the marked chess .
+
+one say "stone", not "chess" :-)
+
+
+
+yes ! it works.
+
+But this version of gnugo must be fairly old, or be set to a weak level, because it normally would play at Q5 instead of S5, which is a big blunder.]
+
+(;W[rp];B[po]C[now the white stones are dead];W[qs];B[sp];W[sq]
+;B[rr];W[sr];B[rs];W[nn];B[mm];W[on];B[oi];W[oj];B[ni];W[pi]
+;B[mg];W[gb]C[good];B[hb];W[gc];B[hd];W[hc];B[ib];W[gd];B[he]
+;W[ge];B[eg];W[ff];B[fg];W[ef];B[fl];W[em];B[go];W[fo];B[gn]
+;W[jh];B[jg];W[ii];B[kh];W[hh];B[hg];W[ig];B[if];W[ih];B[ph]
+;W[pg];B[qh];W[qg];B[oh];W[rh];B[qi];W[ri];B[ga];W[fb];B[ei]
+;W[nc]C[Ken : Wrong button only .
+
+:-) happens];B[jf];W[li];B[lj];W[ki];B[mi];W[jk];B[ej];W[dh]
+;B[jl];W[ek];B[fk];W[el];B[kj];W[kk];B[gp];W[gq];B[qj];W[rj]
+;B[eh];W[fa];B[ha];W[il]C[no, won't work];B[hl];W[kl];B[jm]
+;W[mn];B[lm];W[mo];B[lp];W[fi];B[gi];W[fj];B[no];W[dg];B[fm]
+;W[bf]C[ouch, I thinkk you just killed black ...];B[se];W[sg]
+;B[lh];W[ji];B[fn];W[an]CR[aj][bg][bh][bi][bk][bl][bm][bn][cn]
+[dn]C[Ken : Is the necessary to place any chess in order to kill the marked stones , or they are already dead , since I didn't any response from the openent .
+
+Before B14, they were alive, but now they are dead.
+
+You should explore it];B[of];W[am];B[fh];W[pk]C[no necessary before B has played H11]
+;B[gg];W[di];B[hf];W[ag]C[Ken : this is not necessary . excess move.
+
+yes];B[hi];W[im]C[??];B[tt];W[ak];B[tt];W[so];B[tt];W[rq];B[tt]
+;W[ss]C[Ken : I have one question , if I put chess into oponent area , even if they will be certainly dead in future , but it will reduce their point ( Japanese counting method ) , cos oponent need to add stone to response , like I am doing now , am I correct ?
+
+no, this is wrong, because you are adding stones as well., and they will count as prisonners.
+
+So the result remains equal];B[tt];W[ps];B[tt];W[or];B[tt];W[np]
+;B[nq]C[Ken : add black stone will reduce the "point" , correct ?
+
+no, as stated before];W[oq];B[op]C[Any comment of the whole game ?
+I don't have any "kyu" , do you think 30 kyu is appropiate for my skill , since I must mark KYU in the request form.
+Thanks .
+
+
+
+Let's start by the end :
+
+judging from you play, you would be largely stronger than 30k
+However, it is fairly impossible to provide a fair ranking, but I think you may claim 25 to 20 kyu.
+
+The only way to know is to confront to other players, and that is one of the advces I would like to provide.
+
+There is not much more to say about the game itself, because you are playing against a computer, and they suffer from some lacks.
+Obviously, your style is trained against the computer, which grants some results.
+However, if you came to play against more "agressive" players, you may encounter some difficulties.
+
+Therefore, I cannot give good advices regarding the playing itself (apart from getting some very basic josekis, just the first 5 or 6 moves of 2 or 3 main josekis).
+
+The rest will come from playing, either at your local club, or on internet servers.
+
+One last thing : it is usually very profitable to do a self review of your game *before* sending it to a reviewer.
+
+Hope this helps.
+
+Emmanuel])
+(;W[po];B[rp];W[rq];B[sq];W[sr];B[qs];W[rr];B[sp];W[so]))
+(;B[lr];W[kr];B[ks];W[kq];B[ls];W[mr])
+(;B[ls];W[lr];B[mr];W[ks];B[kr];W[kq];B[ks];W[ms]))
+(;B[lr];W[in];B[im];W[io];B[hm];W[hs];B[kq];W[lp]))
+(;B[kq];W[lr];B[lp];W[kr]))
+(;B[rh];W[sf];B[qg];W[sg];B[si]C[and now ??]))
+(;B[sk];W[rl];B[sl];W[rj];B[rk];W[qk];B[sj];W[si];B[sm];W[rm]
+;B[sn];W[ri]C[this is the traditionnal sequence (T9 is called the "monkey jump")]
+))
+(;B[ck];W[dk];B[dm];W[dl];B[gm]CR[hp]MA[kp][lq]C[and then B can attack bottom and be very severe on the marked stones]
+))
+(;W[qn];B[qo];W[pn];B[ro];W[rn]C[even result])
+(;W[qq];B[qp];W[pq];B[oq];W[or];B[nr];W[rp];B[ro];W[rq];B[op]
+;W[ps];B[qn];MA[pj]C[because of the marked stone, b wall does not work very well, because it can't make good territory.
+
+On the contrary, if the marked stone were black, this would be an excellent result for black]
+))
+(;W[cq];B[co];W[bq];B[cj]C[basic line of the joseki]))
+(;W[cc];B[ic]C[joseki ends here, white to play]))
+(;W[po];B[rp];W[rq];B[sq];W[sp];B[so];W[sr];B[qs];W[rr];B[rs]
+;W[sp]))

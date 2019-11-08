@@ -1,0 +1,212 @@
+(;FF[4]GM[1]SZ[19]CA[UTF-8]AP[SGFC:1.16]
+
+GN[a-b-1-2]
+PB[Pretas (pretas)]
+BR[13k]
+HA[3]
+PW[Brancas]
+WR[9k]
+KM[6.5]
+DT[2016-01-28,2016-02-08]
+PC[Dragon Go Server: https://www.dragongoserver.net/]
+RE[W+17.5]
+OT[30 days with 2 days extra per move]
+RU[Japanese]
+SO[https://www.dragongoserver.net/game.php?gid=1]
+GC[Game ID: 1
+Game Type: GO (1:1)
+Rated: Y
+
+White Start Rating: 10k (+1%) - ELO 1118
+Black Start Rating: 14k (+2%) - ELO 728
+White End Rating: 9k (-4%) - ELO 1152
+Black End Rating: 13k (-2%) - ELO 776]
+
+AB[pd][dp][pp]C[Daniel:  Hi, my name is Daniel, and I'll be reviewing your game.  I'll prefix all of my comments with "Daniel: " to differentiate them from your comments in the sgf.  I'll review the game for both sides and leave some general comments and suggestions for improvement on the last move.]
+PL[W];W[dd];B[qf]
+(;W[nc]C[Daniel: This seems questionable.  There are three largely open corners to play at.  For W to come here where B already has an advantage is asking to be attacked.]
+;B[cf]C[Daniel: I think this lets W off too easy for W's mistake.  If you imagine a different move order, this is as though B approached at C14, W tenukied to O17, and B responded at R14, which would be fine for W.  Since W made a mistake, B shouldn't make a bad move good.  W can not help both stones by playing at or around K16.]
+;W[fq];B[dm];W[qk]C[Daniel: I think this is a mistake.  I get that it's a three stone handicap game, so W needs to be a bit aggressive, but this seems like too much to me.  W now has four stones that are outnumbered.  Make your stones a little more solid before diving in to a new fight.  This is sort of like having four weak groups on the board.]
+
+(;B[nq]C[Daniel: This is too small.  W has played all over the board, so B has multiple opportunities to take advantage of that.]
+;W[pn];B[jd]C[Daniel: Good move by B to split the W groups.  I think it's probably better to kick at P17 first though, so W doesn't just give up the stone on the right.]
+
+(;W[kc]C[Daniel: The "armpit hit" is usually bad.  This is as though B shoulder hit, and W tenukied, since B has the next move.  And playing tenuki after a should hit is rarely a good idea.  If you decide to try to save the O17 stone, the one space jump to M17 is better.]
+
+(;B[fc]C[Daniel: This is a very big, very severe move, but I'm not sure it's the right timing.  K17 seems very urgent to me.]
+
+(;W[ic]C[Daniel:  This move says "Please cut me by playing the important shape point that we both want."]
+
+(;B[cc]C[Daniel: B should cut W by playing the important shape point that both sides want.]
+
+(;W[ef]C[Daniel: Knights moves can be cut, which B does in the game.  Since B has surrounding stones, W has to expect being cut in order to play this move, and that would mean giving B a massive corner in exchange for little compensation, which is not a good result for W.]
+;B[de];W[ee];B[ed];W[fd];B[ec];W[df];B[ce]C[Daniel: Great result for B in that corner.  It's a huge corner, and W got essentially no compensation.]
+;W[gd]
+(;B[ob];W[oc];B[pc];W[nb];B[qb];W[oa]
+(;B[rq]C[Daniel: I'm not a fan of this move.  I listed three other options in the variations.]
+;W[ip];B[dj];W[di]C[Brancas : Good move. Q18 would be a small gote, I think
+
+Daniel: The judgment of Q18 I think is based on whether W needs the eye or not.  This move seems to do enough to stabilize the group and is definitely bigger in terms of points.  Plus W still has Q18 for later if needed.  Don't forget that W has connection issues around K17 to be aware of though.]
+;B[ci]
+(;W[lq]C[Daniel: I'm skeptical of this move.  If W is going to let B play D12, why play D11 in the first place?]
+
+(;B[cr]C[Daniel: D2 is better.];W[no]
+(;B[og]C[Daniel: I'm not sure what this move does.  It looks like it's sort of trying to threaten the top and the right, but it doesn't really do either of those, since the right can be fine with either R12 or N4, and the top can be fine with either Q18 or K17.  It doesn't take any territory, so it seems rather useless floating there.]
+;W[qh]C[Brancas : <h>I think you should make territory. Not aim for an open center. Each time you make a move that get don't get more points I get a bit more closer to you...</h>
+
+Daniel: Yes, exactly.];B[er]C[Daniel: Small.];W[fr]C[Daniel: Also small.  Save endgame for endgame.  If B wants to monkey jump, W will get multiple moves in a row elsewhere.]
+;B[fi];W[ei];B[ej];W[ch];B[cg];W[dh];B[dg];W[eg];B[bh];W[eh]
+
+(;B[kd]TR[gf]C[Daniel: I'd poke at W's shape point first.];W[jc]
+
+(;B[on]C[Daniel: This move is bad for several reasons.
+
+1. It just doesn't work to cut W.  See followups in variations.
+2. Even if it did, O4 is a better way to cut W, because B won't be cut as well.]
+
+(;W[qn];B[oo]TR[on][pn][no]C[Daniel: R6 was a massive mistake.  The triangled stones make the "ripped keima" shape, which is very bad for W.  B P6 should have been cut off and floating but is now attached to the live group in the corner.]
+;W[mp]
+(;B[fe]C[Daniel: The cut doesn't work.  Just poke at the shape point to threaten the cut and destroy W's shape in sente.]
+;W[gf];B[gc];W[hd];B[id];W[hc];B[me]
+(;W[en]C[Daniel: I think W should play elsewhere, but locally, I don't think this is good.  Forcing B to make 4th line territory is only something to do if you are definitely winning.  W is behind and needs to complicate the game.  When W comes back to this area, W should invade, not reduce.]
+;B[jf]C[Daniel: Great move!  B saw the risk W missed.]
+(;W[ep]
+(;B[eq];W[do];B[cp]
+(;W[eo]C[Daniel: Bad shape.]
+(;B[bl]C[Daniel: Too submissive.];W[bi]C[Brancas : I think your move is strange, I don't understand what you may have thought with it.
+
+Daniel: I agree.]
+(;B[bj]C[Pretas (pretas): wrong move by me];W[cj]C[Brancas : Surprise. :-/]
+;B[ck];W[ci];B[bg];W[aj];B[bk];W[fl];B[ak];W[nn];B[ai];W[gj]
+C[Brancas : <h>Your move is worth 3 points: the stone you captured, and the A10 and A12 points. How much is my move worth?</h>]
+;B[fh];W[ff];B[fj];W[gk];B[hh];W[jj];B[jh];W[li];B[ol];W[nl]
+;B[nm];W[mm];B[om];W[nk];B[kk];W[kj]C[Brancas : There comes the game...]
+;B[ml];W[ll];B[mk];W[lk]C[Brancas : <h>chose safety, but I will be able to invade the upper area that you could build</h>]
+;B[mj];W[ok];B[mi]
+(;W[pl]
+(;B[np]C[Daniel: This removes the ability to cut at M10.];W[mn]
+;B[lh];W[ii];B[jm]
+(;W[km];B[lj];W[jk];B[ki];W[oi];B[ih];W[rp];B[qp];W[ro];B[em]
+;W[fm];B[lc];W[lb]C[Brancas : <h>It has been hard to get sente in this game... :-/ Handicap consequence?</h>]
+;B[mc];W[mb];B[nd];W[nh];B[ni];W[oh];B[ng];W[qg];B[rg];W[rh]
+C[Brancas : <h>S13 is gote for you; S14 is not</h>
+
+Daniel: Yes and no.  B doesn't need to respond at S14 right away, so B should be able to still keep sente.]
+
+(;B[rf];W[co];B[bo];W[bn];B[bp];W[cm];B[cl];W[el];B[dl];W[ek]
+;B[bm];W[cn];B[an];W[hi];B[hf];W[he];B[ie];W[hg];B[gg];W[if]
+;B[ig];W[hf];B[ha];W[hb];B[gb];W[ia];B[ga];W[pb];B[qa];W[pg]
+;B[pf];W[mh];B[mg];W[pa];B[pi];W[nj];B[li];W[pj];B[pm];W[qm]
+;B[po];W[sq];B[rr];W[sr];B[qo];W[mq];B[pq]C[Pretas (pretas): Uh!! r 3 kill me,my mistake]
+;W[nr]C[Brancas : True. I should have seen it. I thought about R3, but I did not imagined it so deep and chose another move.]
+;B[or]C[Pretas (pretas): lucky me];W[ms]C[Brancas : Indeed! It would be a big loss, probably worth the game.]
+;B[go]C[Pretas (pretas): yes, i´m losing... but that];W[gn]
+C[Brancas : It seems equilibrated to me. I have to be careful...]
+;B[fp];W[gp];B[ho];W[fo];B[rs];W[rn];B[gi];W[fg];B[ji];W[fk]
+;B[gh];W[od];B[oe];W[fs];B[os];W[es];B[ds];W[sh];B[ns];W[mr]
+;B[jl];W[ik];B[kl];W[lm];B[hp];W[jn];B[im];W[in];B[gq];W[fp]
+;B[gr];W[iq];B[hn];W[hm];B[ir];W[hq];B[dn];W[sg];B[sf];W[sp]
+;B[dk];W[ss];B[gs];W[io];B[ja];W[ib];B[la];W[jb];B[tt];W[tt]
+;B[tt]TB[dc][ne][kh][aj][qq][dr][cs][aa][ab][ba][bb][ca][cb]
+[da][db][ea][eb][fa][fb][ra][rb][sa][sb][cd][dd][ld][md][qc]
+[qd][rc][rd][sc][sd][je][ke][le][pe][qe][re][se][ac][ad][ae]
+[af][bc][bd][be][bf][kf][lf][mf][nf][of][jg][kg][lg][ag][ah]
+[al][am][bq][cq][dq][op][oq][ao][ap][aq][ar][as][br][bs][pr]
+[ps][qr][qs]TW[kb][ob][oj][hk][kk][pk][gm][fn][hn][hp][ja][ka]
+[la][ma][na][fe][ge][ph][pi][hj][ij][qi][qj][ri][rj][si][sj]
+[rk][sk][gl][hl][il][jl][kl][ql][rl][sl][im][jm][rm][sm][kn]
+[ln][go][ho][jo][ko][lo][mo][sn][so][jp][kp][lp][jq][kq][gq]
+[gr][gs][hr][hs][ir][is][jr][js][kr][ks][lr][ls]C[White: 56 territories + 2*13 dead stones(B) + 8 prisoners + 6.5 komi = 96.5
+Black: 75 territories + 2*1 dead stone(W) + 2 prisoners = 79
+Result: W+17.5
+
+Daniel: Alright.  I skimmed through the endgame and didn't comment much.  The main point from there for both players is to worry more about keeping sente.  Look for sente moves, like F1 for B and play them when you have sente because they are essentially free.  Of course reading is always important so do more life and death to see sequences like in the lower right.
+
+My main recommendations for improvement are:
+
+For both players: Pay more attention to connections and cuts.  Separating a group into two can make both groups weak and allow for a very effective attack.  Make sure to stay connected and cut your opponent when you can.  Threatening to cut can also be effective too.  I pointed out a few opportunities for both players to do this.
+
+For Black: Most of B's mistakes were reading mistakes.  B was ahead most of the game but gave away too much at the end.  Force yourself to read three moves ahead on every move, and do go problems to improve your reading.  Also, make sure every move has a purpose.  Several moves just hung out there doing nothing.  If your move doesn't do anything, you might as well pass.
+
+For White: Understand the game situation and play more aggressively when behind.  If B had played better endgame, W would have lost.  W needed to make more chances to complicate things when starting down three handicap stones.  Look up the mouth shape and the ripped keima shape and understand those.
+
+I hope that helps!])
+(;B[fs]C[Daniel: B should take sente to play elsewhere.];W[rf]
+C[Daniel: Ignoring B would be foolish, but to respond here is small and gote.]
+;B[re];W[sg];B[gr]C[Daniel: Now B get to follow-up elsewhere.]
+))
+(;W[jl]C[Daniel: I think just taking away aji seems better.]
+))
+(;B[lj]
+(;W[ki]C[Daniel: W cannot connect here.];B[lm])
+(;W[lm];B[ki]C[Daniel: Now W's stone is separated and B has taken some points in the middle.]
+)))
+(;W[lj]C[Daniel: I think W should worry about this B cut.]))
+(;B[cj]C[Daniel: B needs to respond this way.];W[bg];B[bf];W[ah]
+))
+(;B[co]C[Daniel: Take territory and block W off.]))
+(;W[co]C[Daniel: I think W can afford to just push.];B[fp];W[eo]
+;B[go]C[Daniel: Yes, B can play this cut, but W is behind and needs to catch up.  W has a higher rank and needs to be able to win this fight if W wants to win the game.]
+)
+(;W[fp]C[Daniel: If W really doesn't want to fight, as least connect here for better shape.]
+))
+(;B[dn]C[Daniel: D6 is still big.]))
+(;W[dn]C[Daniel: Punish B's tenuki.  W presumably played E6 expecting to exchange it for D6.  Since B didn't respond, W has the opportunity to punish locally.  B's move was bigger, but B should take a loss locally for not responding.]
+))
+(;W[jf]C[Daniel: W can harrass B more at this point, since the knights move is weak.  This threatens the cut.]
+;B[fo]C[Daniel: If B tenukis...];W[ld]
+(;B[ke];W[le];B[kf];W[lf]C[Daniel: B gets cut and has to run.]
+)
+(;B[le]C[Daniel: B cannot play here.];W[ke];B[ie];W[if];B[he]
+;W[ge]C[Daniel: B just dies in a net.])))
+(;B[gf];W[fe])
+(;B[ok]C[Daniel: I feel like something down here is bigger though at this point, since W is cut.]
+))
+(;W[oo]C[Daniel: Only move.]
+(;B[po];W[om]C[Daniel: The ladder works and B just dies.])
+(;B[nm];W[po]C[Daniel: Since the ladder works, B has to save his stone, and W can connect.  This is a horrible result for B.]
+)))
+(;B[mp]C[Daniel: This is the better place to cut, because B won't be cut as well.]
+)
+(;B[gf]C[Daniel: But go play this first.  It's sente and potentially useful to harass W later.]
+))
+(;B[jc];W[jb];B[kd];W[kb]C[Daniel: Pushing through first gives B a slightly better result.]
+))
+(;B[qi]C[Daniel: I like this better.  This takes some territory while putting pressure on W.]
+;W[mp]C[Daniel: This seems pretty much forced now.];B[dh]C[Daniel: So B has time to come back and play here.]
+))
+(;B[dh]C[Daniel: This sequence seems very severe for B.];W[ei]
+;B[eh];W[fi];B[fh]))
+(;W[dh]C[Daniel: I'm not sure how W should defend, but I think W needs to play something to support D11.  I looked at E11, C12, E10, and E12 as well, and I'm not sure which is better.]
+))
+(;B[pb]C[Daniel: I think B should connect here.];W[iq];B[jc]
+;W[jb];B[kd];W[kb];B[id];W[hc];B[gf];W[ge];B[ff];W[fe];B[hf]
+C[Daniel: If W tenukis, B's compensation poking at W's shape seems nice.]
+)
+(;B[hq]C[Daniel: If B is going to tenuki, why not attack something?]
+)
+(;B[rp]C[Daniel: If B is going to play in this corner, at least play here for a slightly bigger corner.  S3 is too conservative.]
+))
+(;B[jc]C[Daniel: This is still very big.]))
+(;W[dc]C[Daniel: Better to split and counter-attack.];B[cd]
+;W[de];B[ce];W[fe]))
+(;B[jc]
+(;W[jb];B[kd];W[lc]C[Daniel: All this is sente, then B can go back to C17.]
+)
+(;W[cc]C[Daniel: For W to tenuki here would be a major mistake.]
+;B[jb])))
+(;W[jc]C[Daniel: If W gets K17, that group is practically alive.]
+))
+(;B[jc]C[Daniel: B should punish the armpit hit.]))
+(;W[qc]C[Daniel: Probably better to sacrifice O17 for the corner.]
+;B[pc];W[pb];B[ob];W[qb];B[oc];W[re]))
+(;B[qm]C[Daniel: To start with, this is Sente and an inducing move to secure the upper right, which B will do next.]
+;W[qh]C[Daniel: This is forced.];B[oc]C[Daniel: ...Which induces B to secure the corner, which B can do by kicking the W stone.]
+;W[nd];B[jd]CR[dd]SQ[qh][qk]TR[nc][nd]C[Daniel: Now B launches B's attack on the triangled group.  Since the squared group is also weak, and W cannot connect them in one move, B will be able to get a devestating splitting attack on both groups.  Additionally, K16 put a little bit of pressure on D16, where W tenukied, risking a double approach.]
+)
+(;B[fc]C[Daniel: This double approach is also quite severe.]
+))
+(;W[cn]C[Daniel: I would approach a different corner.  The difference between C6, F3 and O3 is mostly personal preference, I think.]
+)
+(;W[fq])
+(;W[nq]))

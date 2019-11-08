@@ -1,0 +1,85 @@
+(;FF[4]GM[1]SZ[5]CA[UTF-8]AP[SGFC:1.16]
+
+GN[saxmaam-sanbraida-880961-20140226]
+PB[Santiago (sanbraida)]
+BR[30k]
+PW[Susan (saxmaam)]
+WR[29k]
+KM[0.5]
+DT[2014-02-21,2014-02-26]
+PC[Dragon Go Server: http://www.dragongoserver.net/]
+RE[W+25.5]
+OT[30 days with 1 day extra per move]
+RU[Japanese]
+SO[http://www.dragongoserver.net/game.php?gid=880961]
+GC[Game ID: 880961
+Game Type: GO (1:1)
+Rated: Y
+
+White Start Rating: 30k (0%) - ELO -900
+Black Start Rating: 30k (0%) - ELO -900]
+
+C[Hello, thanks for letting me review your game.];B[cc]C[Okay, good opening move.  Balanced and easy to live with.]
+
+(;W[dc]C[A little strange.  I would prefer a diagonal approach because both stones now have three liberties and B will get to play next so W can drop to two liberties.]
+
+(;B[cb]C[This is fine.  You can also consider the hane as another option.  (See variation)]
+;W[cd]C[W is leaving a weak point at D2.];B[db]C[B threatens D2.]
+
+(;W[de]C[W should just play at D2 directly.  This lets B atari at E3, hurting W's shape.]
+
+(;B[bc]C[This is a bad move for several reasons.  1) B is not punishing W's mistake by playing at E3.  2) B makes an "empty triangle" (three B stones in an L shape without a W stone in the other spot (B3, C3 and C4 here).  Empty Triangles are bad because they have fewer liberties than other arrangements of three stones and are easier to kill.  3) If B did want to play on this side, B should play B2 (See variation).]
+;W[bd]C[Strong move by W.  Makes an eye on C1.];B[ec]C[Awesome!  Should have played this last time though.]
+;W[dd]C[Only move.  May not be good enough.  I cannot find a way for W to win at this point if B plays perfectly.  W's mistake on move 6 was big.]
+
+(;B[ac]C[Why play this move, what does it accomplish?];W[ed]
+C[B should have denied this eye.  Now W is definitely alive.]
+;B[ad]C[If B wanted to play this, B should have played it directly, rather than descending to A3 first.]
+
+(;W[eb]C[B is threatening to kill.  W should go live instead.  See variation on next move for B to win.  After this move, W cannot win without a B mistake.]
+
+(;B[ea]C[B will just be killed at D5.  B should win with the variation below.]
+;W[da]C[I cannot find a better move for W, but W should lose from this position if B plays perfectly.]
+;B[be]C[Yes.  Now W has only one eye.  B has more liberties and W's connection is weak.  B should win this game.]
+;W[ca];B[ba];W[ce]
+(;B[ae]C[This stone doesn't matter.  Go win the game.];W[ab]
+C[Excellent.  W capitalizes on B's mistake and plays on the vital point.]
+
+(;B[aa]C[B is in atari.  B needs to save his group.];W[bb]C[Susan (saxmaam): I can't believe you let me do that.
+
+I can't believe it either.  This was B's game but the mistake on move 21 gave W an opening which W took.  Even after that B could have still won, but apparently did not notice the atari.
+
+W's first two moves were weak, but W played well after that.  On a small board like this, there is often not enough time to overcome mistakes early.
+
+Good luck with your go playing!];B[tt];W[tt]C[Susan (saxmaam): Thanks for the game.  Better luck next time!]
+)
+(;B[ea];W[da];B[ca];W[aa];B[ea]C[B can still win by playing like this.]
+))
+(;B[ab]C[B wins with this move.];W[ae];B[ea];W[ec];B[da]C[W has no legal moves and must pass.]
+;W[tt];B[be]C[W again has no legal moves.];W[tt];B[ee]))
+(;B[be];W[da];B[ca];W[ba];B[ea];W[ab];B[ec]))
+(;W[be]C[Now W is alive.]))
+(;B[ed]C[B should take away W's eye on E1 like this.  W is in serious trouble now.]
+
+(;W[ad];B[be]C[If W tries this, B hits his vital point])
+(;W[ac]C[This move is hard to deal with];B[ab]
+(;W[ad];B[ba];W[be]C[If B lets W live like this, B is ahead in territory and will win.]
+)
+(;W[ba];B[ad]C[Since W loses in the other variation, W can try to play this way, but it doesn't look good.]
+)))
+(;B[ad]C[B may have been aiming to play here next.  Why not just play here now?]
+;W[ac];B[ab]C[W cannot cut.]))
+(;B[ec];W[dd];B[bd]C[If B plays like this, W is in serious trouble.]
+)
+(;B[bd]C[B should play E3, but this is a better move than B3 in the game.]
+;W[bc]C[W cannot cut like this.];B[bb];W[be];B[ac]))
+(;W[dd]C[A more fair fight.]))
+(;B[db]C[Takes W down to two liberties.]
+(;W[cb]C[This is called a crosscut.  It is a common response in general, but doesn't work here because W is too close to the edge.  (See continuation)]
+;B[dd]
+(;W[bc];B[ec])
+(;W[ec]C[W cannot escape like this.];B[eb];W[bc];B[ed]))
+(;W[dd]C[Since the crosscut doesn't work, W should save W's stone like this.]
+;B[cd]C[B is looking strong and W is in trouble.])))
+(;W[dd]C[If W plays like this, now both stones are stronger, which is better for W since it's B's move.]
+))

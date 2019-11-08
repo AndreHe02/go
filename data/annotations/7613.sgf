@@ -1,0 +1,176 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.17]
+
+PB[TheFatCat]
+BR[18k]
+HA[2]
+PW[Smowrop]
+WR[16k]
+KM[0.5]
+DT[2010-01-14]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[W+6.5]
+TM[1800]
+RU[Japanese]
+
+AB[pd][dp]C[R: Hi there, I'm ilfuria. I'll review this game mainly for black. I'll give you a couple of hints here, comment your moves and then try to summarize everything at the end of the game.
+All my remarks will be introduced by an "R:" (for Reviewer).
+Check the variations (often I comment there and not in the main line for simplicity)
+If I have to comment any of your comments I'll just add my remarks on the bottom of them.
+I hope you enjoy the review and make the most of it
+
+I commented some of my moves to show you my logic and make it easier for you to review it. Thanks for the review.
+
+TheFatCat];W[dd];B[pq];W[qo]
+(;B[qp]C[R: too small. This way you let your opponent be quite big (see variation) while you are not (neither you are strong).
+See variations at move three for a couple of choices and the branch from this move to see how your opponent could've punished you]
+(;W[rp];B[rq];W[rn];B[qh]LB[po:A]C[R: you should've continued with a move at A, which limits white's group and expand yours. This move (r12) isn't useful since it does not limit white's group]
+;W[qj];B[nc]LB[fc:B][cf:C][po:A]C[R: too small, you should've tried something bigger, like A, B or C which are all good]
+;W[kc];B[hd]TR[hc]SQ[kc]C[R: beyond r16 there is a very good idea, but I think that it should work better at h17, making l17 weaker, and preventing H17 white]
+;W[hc];B[gc];W[ic]
+(;B[gd];W[fb];B[gb];W[fc]
+(;B[kp]C[R: I think this should be at k4 and introduced by a forceful move like q5 (see variations)]
+(;W[jq];B[gq];W[hq];B[gp];W[kq];B[lq];W[mq];B[mp];W[lr];B[lp]
+;W[nr];B[or];W[cg];B[ci]TR[dp]SQ[cj][dj]C[Too far?
+R: yes, the 4-4 stone only support extension as wide as marked (from d4 to c10-d10)]
+;W[cn]
+(;B[co]SQ[ci]C[Here, or maybe c8?
+R: here is not good since d11 is very wide, c8 would've been an excellent move since would settle d11 (now weak) and make a strong attack on c6 (see variations)]
+;W[ck]
+(;B[cm]C[I wanted to somehow save the c11 stone.
+
+R: I don't think this is the way... see variations];W[dn];B[fm]
+;W[dm];B[ej]C[With f7 and e10 i was trying to make white d7 group weak and gain some influance towards the middle.
+R: f7 doesn't weaken the white group... and E10 is not that solid (the keima can be cut). To attack/save your stones and/or gain influence see variations at move 37]
+;W[bi];B[cj];W[bj];B[cl]LB[gg:A][eh:C][fh:D][fi:B][gk:E]TR[ci]
+[cj][ej]SQ[gb][gc][gd][hd]C[R: you should not run saving all your stones. Try and focus on more important things to do:
+Triangled group: 3 stones not yet alive and under a bad attack by white. maybe we move there
+Squared group: definitely not alive... maybe you can make a move around A to make eye space for the one above and threaten to save the one below
+B and C are fine to save the one below, maybe D and/or E];W[dl]
+;B[dk];W[bk]
+(;B[cc]C[Too early for an invasion?
+R: I don't know about timing but I know that it's a wrong invasion (killable) since white position is tight.
+Remember then that with every invasion you strengthen your opponent's position so, even if you live you're gonna to make it difficult for g18 to make it and so white will be making territory attacking it.
+A couple of variations provided];W[cd];B[dc];W[ed];B[bd];W[be]
+;B[ce]
+(;W[bf];B[ad];W[bb];B[ec];W[fd];B[bc];W[db];B[cb];W[eb];B[ab]
+;W[ca];B[ba];W[mb];B[nb];W[qc];B[qd];W[pc];B[rc];W[ob];B[oc]
+;W[qb];B[rb];W[na];B[qa];W[pb];B[oa];W[mc];B[md]TR[nc][oc]C[R:this is bad shape, your opponent can use it against you -see variation-]
+(;W[ld];B[me];W[bo];B[bp];W[bm];B[ao];W[ql];B[nh]TR[gb][gc]
+[gd][hd][ci][cj][ej][dk]C[R: this move is not really necessary. You should try and guess the next move independently of your opponent's move. you still have 2 very weak groups (triangle) which can be attacked by yoour opponent and should defend them at once]
+;W[rh];B[rg];W[ri];B[qg];W[ek]C[Now I see i should have played e9 earlier. c10 now becomes very weak...
+
+R:ok, you have seen, by my remarks that your move could've been done pretty early. You'll see at the end of the game my global remarks about it]
+;B[dj]
+(;W[fl];B[fk]
+(;W[fj];B[el]C[I saved the group, but i think it was due to my oponnents bad sequence, not my good moves.
+R: yes indeed, I'll try and set up a quick sequence for your opp in the variations to let you see what it could've been]
+;W[gl];B[em];W[gk];B[ek];W[gi];B[fi];W[gj];B[if]C[Too small?
+R: I think too late... but necessary, otherwise g18 is dead]
+;W[fh];B[fg];W[ei];B[gf];W[ef];B[ff];W[do];B[cp];W[go];B[fo]
+;W[gn];B[fn];W[ji];B[kg]C[Trying to close down j17 and give some support to g14 and g16
+
+R:nice idea...];W[jg];B[jf];W[kf];B[ig];W[jh];B[ke];W[lf];B[le]
+;W[lg];B[mk]C[Trying to reduce W influance in the middle
+R: I think you should increase your influence using the m4 stones, but your idea is fine too, I guess]
+;W[ng];B[of];W[nf];B[ne];W[og];B[pf];W[oh];B[ni];W[oi]C[At which point I lost the middle of the board?
+
+R: I think at move 97 when he started to attack your group (failing in a way) building thickness towards the center]
+;B[mj];W[dh]
+(;B[kd]TR[jb]SQ[gb]C[Beginning attack, hoping to kill the white group. Possible?
+R: I think it is very likely that white will die, but I don't know if l16 is the proper move. I'll give you a variation without it. the most important things you should notice about this group are:
+1) the atari you just gave
+2) K18 point which is kind in the middle of the group and that threatens a cut at k17
+3) g18 stone which can be used to reduce eyespace on the first line.
+I don't think that with normal play white can live. If he does I'll try and point out a correct variation]
+;W[lc]
+(;B[jc];W[jb];B[jd];W[hb];B[ha];W[ia];B[ga];W[ka];B[lb];W[kb]
+;B[id];W[ib];B[ma];W[la];B[km]TR[mk]SQ[ll]C[Desperatly trying to save n10 and o11
+
+R: this shape has a weakness in the squared point, which separates the two stones]
+;W[ll];B[lm];W[ml];B[kk];W[kl];B[jl];W[jk];B[il];W[ik];B[kj]
+;W[nm];B[nn];W[on];B[mm];W[ol];B[oj];W[pi];B[lk];W[nl];B[lh]
+;W[mh];B[eg];W[df];B[dg]C[I think i should have played o3 right away at this point. If my oponnent ignored this move and played o3 it would have been very bad for my final score.
+
+R: yes youcould've attacked the lower group but remember that your opponent won't play o3 but o4 for a better result or maybe even q4 (variation)]
+(;W[ch];B[nq];W[no];B[mr];W[hp];B[ep];W[jm];B[jn];W[im];B[in]
+;W[hm];B[gm];W[hn];B[kr]C[Necessary?
+R: well this steals quite a few points from white. it's good I guess]
+;W[mn];B[ko];W[gr];B[fr];W[fq];B[fp];W[eq];B[hr];W[ir];B[gs]
+;W[er];B[gr];W[pp];B[qq];W[op];B[np];W[ln];B[kn];W[ih];B[ip]
+;W[iq];B[hh];W[hi];B[gh];W[eh];B[bn];W[am];B[an];W[oq];B[ns]
+;W[sg];B[sf];W[sh];B[re];W[na];B[pa];W[jr];B[ls];W[js];B[qi]
+;W[rj];B[kh]C[Hoping to kill p13 and m14
+R: good sente move (forces white to connect at q10). This kind of moves are always good in the endgame]
+;W[pj];B[fe];W[ee];B[sp];W[ro];B[ma];W[so];B[sq];W[ae];B[na]
+;W[mo];B[ks];W[da];B[fa];W[jp];B[io];W[ho];B[ok];W[nk];B[pg]
+;W[tt];B[tt]TW[ja][lb][ce][de][af][cf][ag][bg][kg][ah][bh][kh]
+[lh][nh][ai][fi][ii][ki][li][mi][ni][si][aj][hj][ij][jj][kj]
+[lj][mj][nj][oj][sj][ak][hk][kk][lk][mk][ok][pk][qk][rk][sk]
+[al][bl][cl][hl][il][jl][pl][rl][sl][cm][om][pm][qm][rm][sm]
+[nn][pn][qn][sn][oo][po]TB[aa][ra][sa][bb][ob][pb][qb][sb][ac]
+[pc][qc][sc][nd][od][rd][sd][ge][he][ie][je][oe][pe][qe][se]
+[hf][qf][rf][gg][hg][bo][ap][aq][bq][cq][dq][eq][fq][mq][ar]
+[br][cr][dr][er][lr][nr][pr][qr][rr][sr][as][bs][cs][ds][es]
+[fs][ms][os][ps][qs][rs][ss]C[Thanks, again for the review.
+
+TheFatCat
+
+R: to summarize:
+1) You have payed poor attention in the opening, which is the most important part of the game. You should try and give a strategical meaning to your stones in the opening and, maybe, link your stones to make them "work" together towards some goal
+2) Try not to leave weak stones like c11 or weak groups ESPECIALLY in the opening. Strong players value a weak group -20 points. You left two, this gave a significant advantage to your opponent
+3) Play urgent moves first. Urgent moves are moves which make a weak group strong or give it eyes etc. this mistake made your opponent strong and gave him the possibility to attack your groups
+4) if you see an enemy group which is weak or attackable, attack it at once, try to strenghten your groups while doing that (by linking up or building some eyespace or some wall)
+Should you have any problems or questions please contact me
+Have a nice go
+
+ilFuria.])
+(;W[pp];B[qq];W[np];B[op];W[po]))
+(;B[jb]
+(;W[jc];B[ib];W[hb];B[ha];W[kb];B[ia]LB[la:1][lb:1]C[R: 1 eye]
+)
+(;W[hb];B[jc];W[id];B[jd]C[R: maybe 1 eye])))
+(;B[ja];W[jb];B[ia];W[ka];B[lb];W[ha];B[ga];W[ib];B[lc]C[R: dead]
+))
+(;W[el];B[gk];W[gl];B[hk];W[fi];B[fj];W[hh];B[gi];W[gh];B[fh]
+;W[fg];B[eh];W[fo]CR[dp][gp][gq]TR[eh][fh][ci][gi][cj][dj][ej]
+[fj][dk][fk][gk][hk]SQ[gb][gc][gd][hd][fm]C[R: maybe alive (triangles), dead (squares)
+under attack (circles)]))
+(;W[el];B[fk];W[fl];B[gl];W[fj];B[gk];W[fi]TR[ci][cj][dj][ej]
+[dk]SQ[gb][gc][gd][hd]C[R: triangles dead, squares... well not that alive]
+))
+(;W[nd];B[od];W[ld];B[me];W[ff]TR[gb][gc][gd][hd]C[R: the triangled group is under attack]
+;B[le];W[ke]))
+(;W[bc]C[R: this one kills you];B[bf];W[ad];B[cf];W[bg];B[dg]
+;W[dh]
+(;B[ch];W[df])
+(;B[df];W[ch];B[di];W[ei];B[dj];W[fj];B[ek];W[eg];B[fk];W[fi]
+TR[gb][gc][gd][hd][ce][bf][cf][df][dg]C[R:everything is under attack]
+)))
+(;B[el]C[R: connects the groups and makes influence.now g18 looks good too]
+))
+(;B[dn];W[cm];B[dm];W[dl];B[el];W[ek]TR[ci]C[R: now your stone is in danger, but your position is fine I think]
+)
+(;B[ei];W[ek];B[dg];W[df];B[eg];W[ef];B[gg]C[R: this way you can save it (but strenghten the whole white position)]
+))
+(;B[cl]LB[en:A][cq:B]C[R: now white A or B]
+(;W[cq];B[cp];W[dq];B[eq]LB[ep:A]C[R: the cut at A is protected]
+(;W[ep];B[eo];W[fp];B[fo];W[do];B[bp];W[er];B[fq])
+(;W[bp];B[bo];W[bq];B[co]C[R: here white isn't sure to be alive in the corner while black captures c6 and has a big wall]
+))
+(;W[en]C[R: this way (more complex) isn't good for white either since you have 2 quite strong groups surrounding him]
+)))
+(;W[pp]C[R:if white plays here you are not that good];B[qq]
+(;W[oo])
+(;W[op])))
+(;B[po];W[pn];B[oo];W[on];B[jp]TR[oo][po][qp][pq][rq]C[R: this way your territory is very big and your marked group is quite strong]
+))
+(;B[fd]C[R: this way you get more eyespace]))
+(;W[po];B[nq];W[qk]C[R: this way white is quite big and settled while you are smaller]
+))
+(;B[np];W[ql]C[R: this is the peaceful way, both groups are ok]
+;B[qp];W[po];B[lp])
+(;B[op]LB[ql:A][jq:B]C[R: shusaku's kosumi (P4) is a good move (especially in games without komi)
+This move makes a move at A and around B miai (see variations)]
+(;W[ql];B[jq]TR[dp][op][pq]C[R: big moyo])
+(;W[kq];B[ql]TR[qo][kq]SQ[pd][op][pq]C[R: two weak white stones and your stones working together]
+)))

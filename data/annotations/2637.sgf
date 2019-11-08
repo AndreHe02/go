@@ -1,0 +1,264 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.14]VW[]
+
+PB[Steve Carder (Carder)]
+BR[16k]
+PW[Down Under (South_Pole)]
+WR[15k]
+KM[6.5]
+DT[2003-02-13,2003-05-14]
+PC[Dragon Go Server: http://www.dragongoserver.net]
+RE[W+23.50]
+RU[Japanese]
+
+C[I played black in this game.  I lost by about 23 points.  Basically, how could I have won?  What sorts of stuff do I need to be studying?
+
+A: Hi, I'm known as 'Alak' on KGS. I'll annotate my comments with an "A:". Please take my advice carefully, for I am but a lowly 7-9k.
+
+I have tried to work out optimal variations at many points. In case you have any problems, I used Cgoban to make the review.
+
+Hope this helps you improve.];B[pd];W[cp];B[pq];W[dd];B[pk]
+;W[po];B[np];W[qp];B[qq];W[ql];B[qk]C[I decided to try to contain white to a small area on the side.]
+;W[pl]
+(;B[ol]LB[rl:A]TR[ok]C[A: Creating a cutting point that gives you problems later (gives white a sente move to settle his group. Consider var. at A.]
+;W[om];B[nl];W[rk];B[rj];W[sk];B[sj];W[rm]
+(;B[pi]LB[qi:A]C[I was happy with this result.
+
+A: At A maybe better, no need to make things complicated.];W[qe]
+;B[qd]C[If I keep white out of the corner, I can use my wall to help attack this stone (I hope)
+
+A: Good idea];W[ph]
+(;B[qh]C[A: This is good, stealing white's base.];W[pg];B[qg]
+C[A: Ok, base completely gone now, but maybe not necessary.]
+;W[pf]
+(;B[qf]C[A: But this is wrong direction of play, you should chase this group into the center while making profit on the top, see var.
+
+This could be called a "thank you move", white happy with connecting.]
+;W[pe]
+(;B[nd]LB[ne:A][re:B]C[A: This may be a little slack. I once had someone tell me "keima to attack, ikken-tobi to defend". A might be possible.
+
+Also, to stay consistant with your strategy up to this point, playing B might be a good idea, though gote, it connects your groups. This is why R14 was bad, you are at a loss for a good followup.]
+;W[oi]
+(;B[pj]LB[qi:A]C[A: At A (bamboo joint) is a better connection.]
+;W[oj];B[ok];W[ne]LB[me:A]C[I wasn't as happy with this result.
+
+A: In exchange for very little 3rd line territory you gave white a relatively strong wall, and the very painful possibility of S15.
+
+But you should not leave the situation as it is. A is a very good move for you.]
+
+(;B[ep]LB[me:A]C[A: The order of priority of moves should be as follows:
+
+ 1. repairing one of your weak groups (if you can do this while also claiming some territory or attacking another group, it's a bonus)
+
+ 2. attacking one of your opponent's weak groups while gaining something yourself (even if this i just influence or thickness, not certain territory. Influence has the very good habit of transforming into territory later on)
+
+ . . . and a very distant . . .
+
+ 3. taking a big point, as E4.
+
+---
+
+From this, one concludes that A (or something similar) is the only move in this position (because it also has the merit of strengthening your corner group, which is now a little weak in contrast with white since it can be cut easily).]
+
+(;W[dn]LB[md:A]C[A: Also wrong, should not respond yet but rather take initiative in the corner with A.]
+;B[dq];W[hp];B[jq]C[Pincering white's stone
+
+A: Good move.];W[dk]TR[hp]C[A: Big before urgent = wrong, you should take advantage of this mistake of white's and attack the lone and floating marked white stone.]
+
+(;B[fc]C[Looking back now, should I have played another stone in the lower left corner to secure that group?
+
+A: Yes and no. You should definitely play in the corner, but rather to attack the H4 stone.]
+;W[hc];B[fe];W[le];B[jd]C[I wanted to cut off the white stone at H17
+
+A: A good idea but your not having played N15 earlier now comes to haunt you. this move is an overplay as you are not strong enough locally to play it.]
+;W[md];B[nc]
+(;W[df]C[A: White should not play this, but rescue the H17 stone, especially since this move does not really secure anything.]
+
+(;B[db]C[A: Black should try to connect his two weak groups.]
+;W[cc];B[dc];W[cb];B[jc]C[A: Very good.];W[gd];B[fd];W[ie];B[gc]
+C[I gave up on cutting it off and now try to connect the F17 group over to my K17 group.]
+;W[ge];B[hd];W[id]
+(;B[ic]LB[hb:A]C[I expected white to capture at H15, then I play at H18 to connect my groups.
+
+A: Yeah, at A right away works.];W[hb]C[This messed up my plan.  So, I decided to run the F17 stones out into the center.]
+;B[gf];W[he];B[fg];W[hf]
+(;B[ch]LB[fc:1][jc:3][ch:2][dh:A]TR[dd][df][dk]C[Now I want to get my F17 group over to the left side.
+
+A: A little too deep. Keep reduction moves above or right at the level of the highest stones of a framework. A move at A is nice. The problem with invasions is that they get cut off from the rest of your stones, and you do not want to ever have more than one weak group on the board (if white took this chance and split your invading stone apart from the rest, you would end up with three weak groups on the board).]
+;W[dh];B[ce]
+(;W[cd]LB[de:A]C[A: This is a mistake for white. A is a much better move.]
+;B[de];W[ee];B[ef];W[ed];B[dg];W[cf];B[cg];W[be]
+(;B[eh]C[This isn't exactly what I planned, but I did connect my F17 group over to the left side.
+
+A: Good technique to sacrifice the two stones, but the last move is not yet necessary, it is much better to save the K17 stones.]
+;W[mc];B[di]C[Now this group is safe, but my K17 stones look rather dead.
+
+A: After N17 I doubt you can do anything about them. Both E12 and D11 are slow and defensive. This group is already as safe as it needs to be at this stage.]
+;W[cj];B[cq];W[bq];B[bp]C[I did this so I could next play B2 in Sente
+
+A: Good., but you should still attack the H4 stone.];W[bo];B[br]
+;W[ap]
+(;B[go]C[Pressure on H4
+
+A: Aha, finally. But don't attack with the shoulder hit, it should only be used to reduce moyos, because it strengthens the opponents stones like the tsuke (attach).]
+;W[ho];B[jo]C[A: Good direction, but...];W[fo]C[A: This is why G5 was bad.]
+;B[gq];W[gp];B[fp];W[fn];B[hq]C[Now I am connected across the bottom.  I was pleased with this large area of territory.  I though the score was about even at this point.  Looking back now, white is ahead.
+
+A: Not really, let's count:
+
+ Black:
+  lower side: ~45 points
+  right group: 8 points
+  UR corner: 15 points
+  top group: 7 points or so
+ ---- total: ~75 points
+
+ White:
+  lower left: 15 points
+  lower right: 15 points
+  top group: 25 points with captured stones
+  UL corner: 10 points
+ ---- total: ~ 65 points
+
+You are therefore ahead by about 10 points of territory, maybe 5 if you include captures. The problem is that white has a lot more room to grow: both the center-top group and the one on the left can still grow by at least 30 points in total. So if you let white have his way he should win by about 25 points.
+
+Therefore you have to take the risk of leaving H3 for later and playing H13 to avoid the sequence of the game.
+
+Also G5 still has aji if a ladder-breaker appears.];W[gg];B[ff]
+C[A: Ok, you really cannot afford to lose the ko and have no good threats.]
+;W[gh];B[pp]TR[oh][nl][jo]SQ[ki]C[This looks bad now.  I think I should have played a reducing move around L11 now.
+
+A: exactly, you can also try to play even deeper because of the O8 and K5 stones that you have for support and the cutting point at p12, also you should revive the aji of G5 which is worth around 10 points.
+
+Locally, you should play S4 first (but gote), or just play S3.]
+;W[rp]SQ[pp]C[A: The exchange of the marked stones made you lose points and made S3 gote. You do now have the P5 followup but it is not big enough.]
+;B[rq]C[A: This is about 4 points in gote, leave this for the very end of the endgame. A move around L11 is still very urgent.]
+;W[nb];B[ob];W[na]
+(;B[pb]C[A: This puzzles me: P19 is sente.];W[rd];B[rc];W[re]
+;B[rf]C[A: Tis but a gote endgame play, this group does not need eyespace as it is poking out into the center.]
+;W[mi]C[Now my chance to reduce White is passing.
+
+A: Indeed];B[ji];W[jg];B[gj]C[A: NO!! You should push in more. When you are behind be aggressive.]
+;W[od];B[oc];W[oe]
+(;B[oa]TR[go]C[A: Bad shape.]
+(;W[lb]C[A: Wrong];B[oo]
+(;W[pn]
+(;B[fi]LB[gn:A]C[A: No no no! You have a dieing group in the UR corner, and you are behind. either fix that group or do something to get ahead (var var var!!)]
+;W[gl]C[A: An efficient move by white, killing G5 aji.];B[fl]
+;W[fk];B[gk];W[el]
+(;B[gm]C[A: Wrong direction, you should push from the other side. see var]
+;W[hl];B[gn];W[hm];B[fj];W[fm];B[qc]C[A: Good, about time. White can start kicking himself. -_-]
+;W[kh];B[nm];W[on];B[nn]
+(;W[lq]SQ[km]C[I didn't think this had any chance of success.
+
+A: NOO What is white thinking? A move around the marked point seals the game for white!]
+
+(;B[ln]C[A: Too slack!! see var, you still have a chance before this move. If white makes a hopeless "30-kyu" invasion like this, then punish him for it accordingly - take sente!!]
+;W[ip];B[iq];W[jp];B[kp];W[jn];B[io];W[hn];B[kn];W[in]C[A: You can ignore this move.]
+
+(;B[ko];W[hi];B[kk];W[ki];B[jj];W[mk];B[ll];W[lk]
+(;B[kl]LB[jl:A]C[A: Be more ambitious, A];W[ec];B[eb];W[da]
+
+(;B[fb]C[A: A better...];W[ih]
+(;B[sp]LB[sc:5][bi:2][jm:4][do:3][ro:A][ar:1]C[Now I am looking for Sente endgame moves.
+
+A: A is also an option, it is your biggerst (7 points) gote (reverse sente, in fact) move.
+
+Other points marked in approximate order of importance (this is where my advice should be taken lightly, my endgame is most horrible -_-)]
+;W[ro];B[bi];W[bj];B[dp];W[do];B[ea]C[A: Not a point, leave as a ko threat for later]
+;W[ca];B[dj]C[This helps make an eye.  I was hoping white would connect at C9]
+;W[nk];B[kj];W[lj];B[bg];W[bf];B[aj]
+(;W[bk]C[A: Good, bluffing works ^o^];B[ak];W[al];B[ai];W[bl]
+;B[eo];W[en];B[ar];W[aq];B[sf]C[No, T17 is bigger (2 pts. reverse sente), this is 1 pt. gote-gote.]
+;W[sc];B[sb];W[rb]C[A: Fortunately white makes this mistake which actually gives you one more point. Maybe T14 was the correct move after all ^o^...]
+;B[sd];W[se];B[sc];W[so];B[sq];W[ml];B[mm];W[jm];B[il];W[ik]
+;B[jl];W[ga];B[ag];W[af];B[hk];W[ij];B[ii];W[hj];B[fh];W[jh]
+;B[km];W[gb];B[ej];W[ek];B[gi];W[hh];B[ci]C[I didn't have to connect here, but I didn't see any real points left and it looks nicer.  White wins by 23 1/2 points including the 6.5 points komi.
+
+A: Some people find it a good habit to fill in dame even in online games, others find it extremely annoying, you pick :P.
+
+Ok, general comments:
+
+1. Always play urgent moves before big moves (see comments at move 37)
+
+2. Don't be afraid to take the initiative. Just because you are playing black doesn't mean your opponent always makes sente moves. Always responding to your opponent's moves is a sure way to make him win the game.
+
+3. Look out for your weak groups, dont let your groups get cut apart. Do life and death often to develop a sense for when a group feels alive and when it needs to be strengthened.
+
+Things to study are probably attack and defense (middle game in general). Try to get a sense for the direction of play (this you can do by looking at pro games -- dont try to do any deep analysis but try to feel which way each stone and group is working toward). Try to make your stones work together. And make good shape (which can be quite hard). Finally studying life and death regularly helps alot.
+
+Hope this helped some,
+-Alak.])
+(;W[ak];B[bk];W[ai];B[ck];W[cl]))
+(;B[ro];W[qo];B[sp];W[rn];B[so];W[sn];B[sq]))
+(;B[fa]TR[ha]C[A: Aims at a move at the marked point.]))
+(;B[jl]))
+(;B[lj];W[ko];B[lo]))
+(;B[in];W[hn];B[jl]C[A: M3 should be no hindrance anymore. and you can get a nice profit in the center. That is the scale of the mistake of M3. If white does not play to reduce this territory, you can seal it by playing at M10.]
+))
+(;W[km]))
+(;B[hl];W[gm];B[hm]TR[ji][lj][hl][nl][jo]C[A: If you want to push these stones around, you should do it this way - you now have a chance of getting some points in the center. The aji of G5 is dead anyway.]
+))
+(;B[gn];W[gm];B[hn];W[hm];B[in]LB[kh:A][fm:B]TR[hg][oh]C[A: At this point you have alot of possibilities but A and B are the main ones. try to use the cutting points somehow. If you manage to get away with the UR group alive, you still have a game.]
+))
+(;W[qc]C[A: Dead -_-]
+(;B[qb];W[rb]
+(;B[pc];W[sc];B[ra];W[sb])
+(;B[sc];W[sb]
+(;B[pc];W[sd];B[qc];W[qa])
+(;B[ra];W[sd])))
+(;B[pc];W[qb])))
+(;W[qc];B[mb];W[lb];B[qb];W[sc];B[rb];W[pc]C[A: White can be more forceful.]
+))
+(;B[qb])
+(;B[sc]))
+(;B[oa]TR[oc]C[A: The cut at P17 does not work.];W[lb];B[re]
+C[A: Also after you play out the center this will become a good move, worth over 6 points.]
+))
+(;B[fn];W[hn];B[jo]C[A: Better.]))
+(;B[mc];W[lc];B[lb];W[kb];B[kc];W[ld];B[jb];W[eh];B[eg];W[gg]
+;B[ff];W[fh];B[bk]C[A: All black weak groups are pretty much settled.]
+))
+(;W[de]
+(;B[cd];W[cf]C[A: This way black gets nothing.])
+(;B[cf];W[cg];B[bg];W[dg];B[bh];W[cd];B[bk]C[A: This way black does get life, but the F17 group is now in a bad position and white will get alot of profit out of his moyo by chasing it.]
+)))
+(;B[hg]C[A: This shape move is rarely bad.])
+(;B[dh];W[ch];B[di];W[ci]C[A: Now your group is strong enough to start taking care of white's center moyo.]
+;B[hg];W[ig];B[hh];W[ih];B[mi]))
+(;B[hb];W[ic];B[ib];W[je]TR[ge][ie][le][ne][pe][df][pg][oi]
+[oj][dk]C[A: now black should get busy reducing that moyo. A white move at F14 cannot be allowed.]
+;B[gf];W[he];B[fg]C[A: Something like this.]))
+(;B[hd]C[A: Black should be able to get an ok result from this.]
+)
+(;B[jc]C[A: Black can either connect F17 to K17, or connect K17 to O17.]
+;W[he];B[hb];W[ib];B[ic];W[gb];B[hd];W[gc];B[gd]))
+(;W[he]TR[jd]SQ[hc][md][le][ne]C[A: The white stones are working together beautifully, whilte the black stone in their midst is not happy at all.]
+;B[jf];W[hg]TR[fc][fe]C[A: If black tries to run white can chase him at leisure while building up pressure on the marked black stones.]
+;B[jh];W[li];B[jj];W[fh]TR[fc][fe]C[A: Now the lonely black stones are feeling the heat. Black has to settle them on the side.]
+;B[db];W[cc];B[gb];W[hb];B[cb];W[bb];B[dc];W[cd];B[ed]C[A: Life in gote for black with a mere 5-6 points]
+))
+(;B[fn];W[hn];B[jo];W[hl];B[fl];W[jm];B[cq];W[bq];B[br];W[bp]
+;B[hr]LB[me:A]C[A: A sequence like this gives you a very good result, though the last move should not be played yet (A remains urgent).]
+))
+(;W[md];B[nc];W[dn]TR[nl][ep][np]SQ[dd][md][ne][oi][oj][cp]
+C[A: White is happy.]))
+(;B[me];W[nf]C[A: The response is urgent for white.];B[kd]C[A: Now you have a very nice upper side and are leading in territory. (not counting white's corners which are unsettled).]
+))
+(;B[qi]))
+(;B[ne];W[od]C[A: Even if white cuts, black has the advantage because he has at most one weak group.]
+;B[oe]LB[oc:A][re:B]C[A: A and B are miai for black.]
+(;W[rd];B[oc]C[A: If white stops black from connection, black can capture the cutting stone in a ladder.]
+;W[qc];B[pc];W[rc]C[A: In this case white can try to live in the corner, but will have barely 5 points there while black can develop well on the top side.]
+)
+(;W[oc];B[re]C[A: If white extends with P17, Black can connect to the big group on the right.]
+))
+(;B[re];W[mf]C[A: White must run, you have about 20 points of sure territory plus room to grow on the side.]
+))
+(;B[ne];W[ng];B[ke]C[A: Maybe something like this])
+(;B[me]C[A: Or even this, white cannot cut at O16.]))
+(;B[oh]C[A: Closing him in also a possibility to build on the top side.]
+))
+(;B[qi]C[A: This might have been better to make it harder to invade.]
+))
+(;B[rl];W[rm];B[rk]LB[nl:A]C[A: The white group is still not quite settled, and you have a nice upper side. If white tries to settle his shape, you can almost close him in with A.]
+))

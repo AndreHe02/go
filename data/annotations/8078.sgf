@@ -1,0 +1,166 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.17]
+
+PB[houth]
+BR[4k]
+PW[Gablzh]
+WR[4k]
+KM[6.5]
+DT[2010-10-02]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[W+17.5]
+TM[2400]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+;B[qd];W[dp];B[pq];W[dc];B[fq]LB[oc:A][od:B]C[csh: It's probably bigger to play at A or B.]
+;W[cn];B[dr];W[cq];B[oc]LB[iq:A]TR[cq][dr]C[csh: This is a bad time for Black to tenuki. Black needs to finish the joseki in the lower left, probably at A. If Black doesn't want to lose sente, then it's probably best to not play the marked black stone (and force White to play the marked white stone).
+
+When Black plays elsewhere, it allows White to attack the group in the lower left. This is what starts some of the problems for Black.]
+;W[hq]C[csh: This is a good pincer for White. The corner group is solid, and the black group doesn't have a base.]
+;B[hp];W[ip]
+(;B[gq]C[csh: It's probably easier to draw back. See the variation.]
+;W[ho]
+(;B[iq];W[hr];B[gp];W[jq];B[io]
+(;W[jp]LB[gr:A]C[csh: It's probably better for White to take here. That way, Black playing A is not sente.]
+;B[hn]C[csh: Black has solidly captured the stone, but has lost sente. Also, there are ladder breakers along the lefthand side of the board.]
+;W[po];B[nq];W[qq]
+(;B[qp]C[csh: Hane on the inside? This move doesn't lead to an ideal situation for Black. See the variation.]
+;W[pp]C[csh: This is the right move.];B[qo]
+(;W[oq];B[pr];W[or];B[qr];W[np];B[pn];W[on];B[pm];W[qi]
+(;B[qk]C[csh: I think this move is in the wrong direction. The black group in the lower right is alive, so Black can make more profit by pushing the white stone from the upper right. See the variation.]
+;W[qf]LB[rg:A][rh:B]C[csh: There are still attacking points at A and B to take away the base.]
+;B[jd];W[hc];B[cf];W[jb]
+(;B[cc]C[csh: Extending down the left is more important. See the variation.]
+;W[cb];B[cd];W[bb]
+(;B[lc]TR[jb]C[csh: This move doesn't attack the white group at the top of the board. It also doesn't help Black get territory, since White has already slid underneath with the marked stone. Instead, Black should extend down the left side.]
+(;W[dd]C[csh: White is pushing from the wrong side.];B[ci]C[csh: Now Black gets to extend and has more room to live.]
+;W[ck];B[go];W[bd];B[be];W[bc]
+(;B[ce]C[csh: These two stones aren't important. They aren't cutting stones, since White is already connected together. You can sacrifice them and make a big move elsewhere.]
+;W[kc];B[ic]C[csh: This is an odd move.];W[ib];B[fc]C[csh: This move is diving too deep. See the variation.]
+(;W[id]TR[ic]C[csh: The marked black stone isn't important. It's not a cutting stone. Instead, capture the invading stone. See the variation.]
+;B[fe]C[csh: Good move! Get your stones out.];W[ee];B[ff];W[ef]
+;B[fh];W[fd];B[gd];W[ed];B[gc];W[ld];B[hd];W[jc];B[eb];W[db]
+;B[ad];W[fg];B[gg];W[eh];B[eg];W[dg];B[ei];W[cg];B[bg];W[bh]
+;B[ch];W[ag];B[bf];W[fg];B[gh];W[ie]
+(;B[hf]C[csh: Oops.];W[ge];B[he];W[gf]LB[hg:A][fi:B]C[csh: Now there's no attack on the white group, and Black is in trouble. Black needs to worry about the two cuts at A and B.]
+;B[bm]C[csh: Because the black group on the left is weak, Black cannot afford to attack here.]
+(;W[cm]C[csh: White plays a bit passively. See the variation.]
+;B[bk];W[bj];B[cl];W[dl];B[bl];W[cj];B[bi];W[aj];B[dm];W[dk]
+;B[co];W[bn];B[do];W[bo];B[dn]LB[di:A];W[cp]LB[di:A]C[csh: The wedge at A will cut off the black stones and kill them.]
+;B[lq]
+(;W[lo]C[csh: This move is weird shape. See the variation.]
+;B[nr];W[ps];B[mp];W[mo];B[ns];W[rr];B[rq];W[qs];B[qq];W[os]
+;B[no];W[op];B[nn];W[ai];B[ah];W[nm];B[mn];W[bh];B[om];W[ah]
+C[csh: Now that the situation is settled, Black needs to figure out which groups are vulnerable.]
+;B[qh]TR[eb][ei][gg][fc][gc][fh][gh][gd][hd][he][hf]C[csh: Black shouldn't attack. His groups are weaker than White's. The marked group is still in trouble.]
+;W[rh];B[ph];W[rj];B[pi];W[rk];B[qj];W[ri];B[rl]
+(;W[lm];B[mm];W[ml];B[nl];W[ln];B[jo];W[lp];B[mq];W[kq];B[ko]
+;W[lr];B[oo];W[kp];B[ll];W[re]TR[eb][ei][gg][fc][gc][fh][gh]
+[gd][hd][he][hf]C[csh: Black is running out of targets to attack. White's groups are all alive. Black still needs to worry about the marked black group. This group can be threatened while White increases his territory.]
+;B[kl];W[em];B[jg];W[fj];B[hj];W[lg];B[lf];W[kf];B[kg];W[mf]
+;B[lh];W[le];B[mh];W[fi];B[eo];W[ep];B[fo];W[gl];B[hl];W[rd]
+;B[rc];W[mc];B[gr];W[ir];B[cr]
+(;W[pb]C[csh: I count White as being ahead. Since White is ahead, playing simply should be best to solidify the lead. See the variation.]
+;B[ob];W[qc];B[qb];W[rb];B[pc];W[sc];B[ra];W[qc];B[rg]C[csh: Can White ignore the threat?]
+(;W[qg]C[csh: See the variation.];B[rc];W[ms];B[rs];W[qc];B[pa]
+;W[pd];B[mb];W[qe]
+(;B[lb]C[csh: This stone isn't important. The black group is still alive if White takes the stone. There are more points in the lower left corner. It doesn't look like there are enough endgame points for Black to get back in the game.]
+(;W[gi];B[hi];W[nc];B[nb];W[od];B[of];W[ng];B[pg];W[nh];B[ni]
+;W[hm];B[im];W[hk];B[gm]
+(;W[ik]C[csh: No need to stretch. Play solidly. See the variation.]
+;B[gk];W[fl];B[gj];W[fk];B[hh];W[br];B[nd];W[md];B[ne];W[gb]
+;B[if];W[jf];B[sk];W[cs];B[er];W[fb];B[ec];W[ea];B[sl];W[kh]
+;B[ig];W[oi];B[mi];W[pj];B[oj];W[ql];B[pk];W[oh];B[sh];W[rf]
+;B[sj];W[sg];B[si];W[rg];B[rm];W[gs];B[fs];W[hs];B[ds];W[bs]
+;B[mr];W[kr]C[csh: There's not much left. White is solidly ahead.]
+;B[ls];W[km];B[jm];W[mk];B[ki];W[ka];B[mg];W[nf];B[lf];W[oe]
+;B[je];W[ke];B[ic];W[id];B[ie];W[pf];B[ic];W[hb];B[og];W[pj]
+;B[pi];W[ph];B[kd];W[lg];B[bq];W[aq];B[lf];W[me];B[ks];W[js]
+;B[ms];W[la];B[ma];W[fm];B[fn];W[il];B[hm];W[jl];B[kk];W[kj]
+;B[jj];W[lj];B[ji];W[kb];B[lg];W[sa];B[sb];W[lk];B[jk];W[sa]
+;B[fa];W[da];B[sb];W[qm];B[rn];W[sa];B[qa];W[pj];B[ok];W[sb]
+;B[pi];W[oa];B[na];W[pj];B[ar];W[bp];B[pi];W[kn];B[jn];W[pj]
+;B[id];W[pi];B[tt];W[tt]TW[bg][bq][cl][eg][iq][is][jr][pe][pg]
+[qd][qh][rc][aa][ba][ca][ab][ac][ad][ae][af][ak][al][am][bk]
+[bl][bm][an][ao][ap][ar][as][be][bf][ce][cf][de][df][bi][ci]
+[di][ei][cc][cd][ch][dh][dj][ej][ek][el][fa][ga][ha][ia][ja]
+[fe][ff][nd][ne][of][og][sd][se][sf]TB[es][fr][gn][hg][ho][in]
+[li][ml][nm][oa][on][pb][po][sq][ss][hk][ik][ih][jh][kh][ii]
+[ij][il][jl][kj][lj][mj][nj][lk][mk][nk][np][op][pp][ol][pl]
+[ql][oq][or][os][ps][qs][qm][qn][ro][rp][so][sp][rr][sr][sm]
+[sn]C[csh: I think Black had problems early on with making weak groups. As they were chased around the board, they did not die, but they had to run while White made territory attacking them. Black would manage better if he solidified his position before attempting to attack weak groups.
+
+White seemed to do well, but probably should have played more solidly once in the lead. Because of some problems in the middle of the game, White gave Black a few chances to come within striking distance.]
+)
+(;W[gk];B[ik];W[br]))
+(;W[br]))
+(;B[bq];W[bp];B[br];W[lb];B[nb]))
+(;W[qa]C[csh: White's alive in the corner. Black captures five stones.]
+;B[qg];W[of]C[csh: White captures six stones and some extra territory.]
+))
+(;W[ob]C[csh: in this area, this move is interesting.]
+(;B[nb]C[csh: If Black hanes on this side...];W[pb]C[csh: ...this move causes problems for Black.]
+;B[nc];W[qc]C[csh: This is the cut White is aiming for.])
+(;B[pb]C[csh: I think Black has to hane on this side.];W[nb]
+C[csh: This is a better result locally. Black needs another move to live in the corner, too.]
+)))
+(;W[ig]C[csh: This can be hard to deal with. It wrecks Black's shape. White shouldn't play this immediately, though.]
+;B[hg];W[ih]C[csh: Now the black group doesn't have good shape. There is still the wedge to deal with. If the played stones can connect back to another White group. Black is in big trouble.]
+))
+(;W[mp]C[csh: A solid move like this will keep Black from escaping.]
+))
+(;W[bk]C[csh: What if White just does this?]
+(;B[cm]C[csh: Black cannot attack...];W[bi]C[csh: White will kill the stones at the top.]
+;B[bj];W[cj];B[aj];W[ak]TR[ad][bg][aj][bj][be][bf][ce][cf][cc]
+[cd]C[csh: This kills off all the marked stones. White's corner isn't dead yet, either.]
+(;B[em]C[csh: If Black jumps out...];W[cr]C[csh: White can live in the corner.]
+)
+(;B[cr]C[csh: If Black pushes into the corner...];W[bn]TR[bm]
+[cm]C[csh: White can threaten to capture the marked black stones.]
+;B[em]C[csh: If Black jumps out...];W[br]C[csh: White should still be ok in the corner.]
+;B[bp];W[bq];B[ap];W[an]C[csh: White will either connect out or live.]
+;B[dq];W[cp];B[bs];W[en]))
+(;B[bi]C[csh: And if Black just connects...];W[cm]C[csh: ...then Black just forced White to solidify territory.]
+)))
+(;B[gf]))
+(;W[fd]C[csh: White can just connect across the top. Black can't live.]
+(;B[gc];W[gd];B[hb];W[hd];B[gb]C[csh: There isn't enough room for the black group to live.]
+;W[kd]C[csh: White can push out and start chasing the two marked stones. As his group is strengthened, he can start pushing into Black's corner.]
+)
+(;B[gd];W[gc];B[ed];W[fe];B[ec];W[ee];B[db];W[de];B[eb]C[csh: Similarly, Black has no room.]
+)))
+(;B[bg]TR[qf][qi]C[csh: This move would strengthen the black group. Now the marked white group can be targeted.]
+))
+(;W[ch]C[csh: Pincering is a good move here. The black group has to run.]
+))
+(;B[ci]C[csh: This is much better for Black. It stabilizes his group.]
+))
+(;B[ci]
+(;W[cd]C[csh: If White secures the corner...];B[cl]C[csh: Black can extend down the left.]
+)
+(;W[ck]C[csh: If White pushes from the bottom...];B[bc]C[csh: Black can slide into the corner to make a base.]
+)))
+(;B[qg]C[csh: Since the group at the bottom is already alive, you can expand from the top and push the white stone into your strong group. White doesn't have a good extension, so will probably need to run to the center of the board.]
+(;W[ql]C[csh: This isn't a good move.];B[qm])
+(;W[qk]C[csh: This feels too small to make an adequate base.]
+;B[rm])
+(;W[pk])))
+(;W[qn]C[csh: I think the hane is better.];B[rq]
+(;W[oq];B[pr];W[or];B[qr];W[np])
+(;W[qr]
+(;B[oq];W[rr];B[rp];W[pn];B[rn];W[rm]
+(;B[so];W[sq];B[pr];W[sr];B[sp];W[sm];B[qs];W[sn])
+(;B[sn];W[sq];B[sp];W[sr];B[sm];W[rl];B[sl];W[ro];B[sk];W[so]
+))
+(;B[pr];W[rr];B[rp]
+(;W[rn];B[sr])
+(;W[sq]
+(;B[sp];W[so];B[sr];W[ro])
+(;B[rn];W[sp];B[ro];W[rm];B[qm];W[pn];B[rl]))))))
+(;B[qr];W[qp];B[rr];W[ql]C[csh: In this variation, Black has settled in the corner, and still somewhat threatens the white group's base. Black can expand down the righthand side of the board, threatening the white group and starting to take territory.]
+;B[qh]))
+(;W[ir];B[hn]))
+(;B[gp]C[csh: Black can also draw back and force White to protect one of the two cuts.]
+))
+(;B[gp];W[jq]C[csh: White needs to protect the cut. Black still has to worry about his group, but at least the group is connected together. It should be easy to jump out to the center.]
+))

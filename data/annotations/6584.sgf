@@ -1,0 +1,155 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+PB[Barcarolle]
+BR[13k]
+PW[KafKa]
+WR[7k]
+KM[-5.5]
+DT[2008-04-14]
+PC[IGS-PandaNet]
+RE[W+31.50]
+TM[660]
+RU[Japanese]
+
+C[Hi,
+In this game I played black. Thanks for reviewing my game! During the middle I think I was managing all right, but later, perhaps shape issues allowed my territory to get devastated. I'd like to know when better moves could have been made throughout. Also, can you tell me the general areas that I need to focus on?
+
+Once again, thanks for reviewing my game!
+Jeremy W
+
+[DP - Hi Jeremy - comments follow:
+1) Most noticeable thing in the opening is that you are omitting vital extensions and shape moves to stabilise your stones.  The book "In The Beginning" from the Elementary Go Series explains these concepts.  
+2) When you are attacking the C12 stones, avoid contact moves such as 19 and 29.  They allow W to make shape and so your attack loses potency
+3) Build up strength by attacking other weak stones - after W plays R10 you can attack this with the P10 capping move which puts huge pressure on W H10 stones
+4) Be careful of the large knight's extension from the 4-4 point.  There are a lot of complicated joseki starting from this, and stronger players will take full advantage
+5) When thinking about killing a group, attack it from the outside - that way even if it lives, it will be smaller, you will be stronger, and you will keep sente.\]]
+;B[pd];W[dp];B[pp];W[dc];B[de]C[Is the high or low approach standard here?
+
+[DP Either is ok - there is a vast set of joseki starting from both these moves - standard book would be 38 Basic Joseki from Elementary Go Series.  C15 joseki are probably better known, so worth learning the low approach moves\]]
+;W[dh]C[[DP This is a standard joseki move\]];B[fe]C[[DP Yes, this is the right idea - separate W\]]
+;W[fc];B[he]C[[DP Would prefer C17 here, hitting underneath, but this move is ok too\]]
+;W[hc];B[cc]C[[DP Yes, this is fine\]];W[cb]C[[DP Yes, fine by W\]]
+;B[cj]C[Is this the right choice joseki?
+
+[DP Too early - you are not yet stable - after the C17,C18 exchange, you should pull back to C16.  Then you can attack W\]]
+;W[ei]C[[DP Better for W would be C16, taking all the top and the corner, and leaving B very thin\]]
+;B[cg]C[[DP Again, the C16 pull back is better. This move forces W to play C12, separating you\]]
+;W[ch]
+(;B[ek]C[Was the knight the correct jump for splitting and putting pressure on white?
+
+[DP Much better to extend to C7, which puts pressure on W D4, gives you a base, and also attacks W C12 stones. See variation\]]
+;W[fj];B[fk]C[[DP You are trying to attack, so avoid contact moves.  C6 would have been better\]]
+;W[hj];B[cn]C[[DP Good - this extension was vital.  C7 works now because you have E9 and F9 in place\]]
+;W[fp];B[bp]C[[DP Not urgent or big at this stage.  Q10 would have been good for a san-ren-sei, or C16 to give those stones some stability\]]
+;W[gk]C[[DP If W is prepared to ignore B4, then you might as well take C3 immediately\]]
+;B[gi]C[[DP This does a good job, because it gives you a bit of space for the D15 stones.  The downside is that it allows W to stabilise further\]]
+;W[hi];B[gh];W[gj];B[gl]C[[DP Too many contact moves - this helps W make shape\]]
+;W[hl];B[gm];W[hh];B[gg];W[hm];B[gn];W[hp]C[[DP C3 better, since H4 does not link the W stones or put pressure on B\]]
+;B[hn]C[[DP This is good - a big move, separating W\]];W[qj]
+C[[DP This is ambitious and too early.  B has many options, but should essentially attack this stone and head towards the centre, putting the fear of death into the H10 stones. The capping move at P10 is a good way to start - see variation\]]
+
+(;B[qm]C[[DP The problem with this attack is that W can run to the centre and save his H10 stones\]]
+;W[qg];B[mc]C[[DP Be careful of the large knight's move - there are a lot of complicated joseki resulting from the 3-3 point invasion.  Safer would be O17\]]
+;W[jd];B[jf]C[[DP Yes, this is essential to keep W separated\]]
+;W[qc]C[[DP As I was saying....\]]
+(;B[pc]C[Correct direction?
+
+[DP No, better is R16, which allows you to build up pressure on the R13 W stones, retain sente and continue the attack on the H10 stones\]]
+;W[qd];B[qe];W[re];B[rf]C[A misread, played too quickly, overplay.
+
+[DP Yes, surrounding stones make a big difference to W's invasion\]]
+;W[qf];B[pe];W[rd];B[ik]C[[DP Right idea in terms of stones to attack, but far too close.  Again, the P10 capping move does the job\]]
+;W[hk];B[jq]C[[DP No, this loses the initiative.  Keep up the pressure on the centre stones, with a choice of K6 or P10\]]
+;W[in]C[[DP Yes, HUGE move for W.  Turns the course of the game\]]
+;B[io];W[ho]
+(;B[jo]C[[DP This move lacks fighting spirit.  K6 attacks W and allows you to build territory\]]
+;W[im];B[hr];W[fr]C[Is it possible to kill white?
+
+[DP Probably not, because you have a weak point at E7 which allows W to counter attack.  C3 is the obvious move to try, but would be hard\]]
+
+(;B[eq]C[[DP Always squeeze from the outside first. That way you will retain sente, and make yourself stronger.  For instance, E5 defends your weak point whilst attacking W. See variations\]]
+;W[co]C[[DP W plays a good defensive sequence here, pressuring B along the 2nd line making the F8 cut very threatening\]]
+;B[bo];W[dn];B[cp];W[do];B[cm]
+(;W[dm]C[[DP This move doesn't really work for W as it makes B play D8 which defends the weak point at F8\]]
+;B[dl];W[dq];B[cr];W[cq];B[bq];W[dr];B[br];W[gr];B[hq];W[gq]
+;B[go];W[fo]
+(;B[fn]C[[DP Stop trying to kill W here - it's not possible - so take your profit with G4, linking all your stones and keeping sente, following with Q3 for a massive game-winning territory\]]
+;W[en];B[ep];W[gp]C[[DP Yes, good for W\]];B[fl];W[ip];B[jp]
+;W[gs];B[es]C[KafKa: sorry. disconnected.
+
+[DP B is just helping W here, by removing his own ko threats\]]
+;W[ds];B[er];W[ki]C[[DP Yes, this is where the crux of this game lies\]]
+;B[mf]C[This move felt thin, but I wanted to link up the stones.
+
+[DP You don't need to.  Attack W with something like K12 or the cap at P10\]]
+;W[mh];B[oh]C[[DP Ambitious... W should simply play through the gap and B is in trouble\]]
+
+(;W[oi]C[[DP Good by W - contact moves in DEFENCE to make shape\]]
+;B[qh];W[rg];B[pg];W[pi];B[ph];W[nh];B[qi];W[pk];B[jl];W[km]
+;B[ni]C[Here I was kind of just probing, perhaps it was aji keshi.
+
+[DP There is nothing here now - the time has passed.  Much much better would be O3, possibly Q3\]]
+;W[mj];B[jb]C[[DP Overplay.  L18 is the correct move, but C16 is bigger\]\]]
+;W[ic]C[[DP but if W lets you get away with it, then fine...!\]]
+;B[bc]C[[DP Yes, something needed doing here\]];W[ib];B[kc]
+;W[qq]C[This move should have been mine, would have made a big different in the score.
+
+[DP Quite right!\]];B[pq];W[qp];B[qo];W[ro];B[rn]C[Overplay on my part, next time this sequence occurs I will know better.
+
+[DP No, your moves are quite correct.  Just needs the right follow-up.\]]
+;W[po];B[qn];W[pr]
+(;B[oq]C[[DP Ouch.  Not pretty.  P2 kills W\]];W[or]C[I lost a lot here; perhaps there is a better sequence, or maybe it is too late. White played this sequence fairly quickly; I'm sure he knew exactly how to exploit.
+
+[DP It's the infamous empty triangle.  P3 was a bad move - the hane at P2 would have been much better. The game is now over as W has a massive lead, so no substantial comments from here on\]]
+;B[nq];W[nr];B[mq];W[mm];B[rp];W[rq];B[so];W[sq];B[eb]C[Is there any way to profit more than the way I did here?
+
+[DP B18 bigger and sente\]];W[db];B[ec];W[ed];B[fd];W[fb];B[dd]
+;W[ea];B[em];W[eo];B[iq];W[om];B[oo];W[on];B[no];W[mr];B[lr]
+;W[pn];B[rk];W[rj];B[ql];W[sm];B[sl];W[sp];B[rm];W[ro];B[qr]
+;W[rr];B[rp];W[lq];B[lp];W[ro];B[sj];W[ri];B[rp];W[rh]C[[DP This is sente and must be answered at Q14\]]
+;B[bb];W[ro];B[sn];W[pf];B[og];W[of]C[I played this sequence very badly, Perhaps I should have sacrificed 10 stones; the result is very bad.
+
+[DP See move 170\]];B[ng];W[ne];B[nf];W[oe];B[nc]C[This seemed necessary; perhaps there was a better way.]
+;W[me];B[lf];W[kg];B[kf];W[qb];B[pb];W[pa];B[oa];W[qa];B[nb]
+;W[jc];B[jn];W[jm];B[ln];W[lm];B[pl];W[ol];B[jg];W[kh];B[bi]
+;W[bh];B[bg];W[ag];B[af];W[ah];B[bf];W[kr];B[kq];W[ls];B[jr]
+;W[lq];B[hs];W[fs];B[lr];W[ks];B[js];W[lq];B[cs];W[fq];B[lr]
+;W[ms];B[jh];W[ji];B[lg];W[lh];B[ej];W[fi];B[di];W[ci];B[dj]
+;W[eg];B[ih];W[hg];B[hf];W[bj];B[bk];W[ai];B[ii];W[ij];B[ee]
+;W[ff];B[gf];W[gd];B[hd];W[gc];B[nn];W[kd];B[ge];W[lc];B[kb]
+;W[lb];B[mb];W[ld];B[ma];W[od];B[oc];W[la]C[My territory which should have been much bigger was reduced to 2 points; I played very badly here.]
+;B[nm];W[nl];B[ef];W[fg];B[ca];W[ak];B[bl];W[dg];B[al];W[df]
+;B[cf];W[mn];B[mo];W[kn];B[lo];W[ko];B[si];W[sh];B[sk];W[ec]
+;B[lq];W[aj];B[rp];W[fh];B[ro];W[da];B[ba];W[qk];B[tt];W[tt]
+C[You can check your score with the score command, type 'done' when finished.
+Click on a group of stones to mark it dead and remove it from the board.]
+;B[tt]C[I think that somewhere near the second half of the game I had poor judgement on estimating which moves are worth more and how to defend. However, maybe these problems stemmed from much earlier moves had bad shape, were overplay, or didn't show their bad nature until the later part of the game. I'd like to know any general tips you have for me, and if there are any books you recommend.
+Once again, thanks for reviewing my game!
+Jeremy W])
+(;B[or]
+(;W[op];B[oq];W[oo];B[qr];W[rr];B[ps];W[rs];B[rp])
+(;W[rr]C[[DP This is W's best hope, to start a ko\]];B[ps];W[qs]
+;B[qr])))
+(;W[ng];B[og];W[nf];B[of];W[me];B[lf];W[oe];B[pf];W[ld]C[[DP and W links up - game over\]]
+))
+(;B[gp];W[fn];B[fl];W[ep];B[pq]))
+(;W[cq]C[[DP Better for W\]]
+(;B[dq];W[cr];B[fq];W[gq];B[gr])
+(;B[bq];W[cr];B[gq];W[fq];B[gp];W[go];B[fo];W[fn])))
+(;B[cq];W[em];B[fl];W[dn]C[[DP Note use of contact move in DEFENCE, to make shape\]]
+;B[cm]C[[DP B needs to link up\]];W[dl];B[dm];W[el];B[dk];W[en]
+;B[cl]C[[DP for example, and W is going to live if played properly\]]
+)
+(;B[eo];W[ep];B[cq]C[[DP Now W is in a bit of trouble\]]))
+(;B[jn];W[im];B[jo];W[ki];B[pq]C[[DP Through attacking W you can take a 50 point territory here\]]
+))
+(;B[qd]
+(;W[pc];B[oc]
+(;W[ob];B[nc])
+(;W[rd];B[re];W[rc];B[qe];W[ob];B[nc]))
+(;W[rd];B[re];W[rc];B[qe];W[ob];B[pc];W[pb])))
+(;B[oj];W[oi];B[ni];W[pi];B[nj];W[qf]C[[DP W has to do this to stabilise his stones\]]
+;B[nc]))
+(;B[cm]C[[DP Don't extend too far!  C7 is the correct move here - don't be tempted to go to C6, or W will simply invade at C8 immediately\]]
+;W[fp]C[[DP Nearly always a good move...\]];B[em]C[[DP This is the way to attack the C12 stones\]]
+))

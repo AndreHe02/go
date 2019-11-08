@@ -1,0 +1,160 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.14]
+
+PB[Spike]
+BR[22k]
+PW[Kagashi]
+WR[14k]
+KM[6.5]
+DT[2003-07-17]
+PC[The Kiseido Go Server (KGS) at http://kgs.kiseido.com/]
+RE[W+52.50]
+TM[1200]
+RU[Japanese]
+
+C[Hi, i just want to thank you in advance for reviewing my game. Im not really a 14k, maybe more like a 20k. I played white in this game and won by quite a lot, but i felt that both my opponent as well as i made many bad moves. Please help the both of us correct our mistakes. Thank you.
+
+---
+
+A: Hello, my name is Araldo van de Kraats (8k on KGS about 6k Europe) and I hope this review will be usefull to you. If anything is unclear or if you have further questions after reading it, please email me or contact me at KGS (Araldo).]
+;B[dp];W[pc];B[cd];W[pq];B[fc]C[I haven't seen this fuseki very often, isn't it a little bit too wide? i would have played at E17.
+
+A: There is really nothing wrong with this extension (It has been played in a lot of pro-games too). E17 and E16 are also very common.]
+;W[qo];B[gq];W[cn];B[co]C[I don't think black's response at C5 was correct.
+
+A: Actually I think C5 is a very good move. It prevents white from jumping in the corner and living there. Furthermore it gives black the opportunity to attack the white stone (see variation in next move).]
+
+(;W[en]LB[dn:B][en:A]
+(;B[gn]LB[dn:B][gn:A]C[A: White E6 should be on D6. In close combat, when the opponent attaches with moves like C5, defending by playing solid moves if often the best. Because now black can ... (see variation). Black G6 seems okay too.]
+;W[bo]
+(;B[cp]LB[bp:B]SQ[co][do][dp]C[A: Now black is really too nice. C4 gives away free territory and the opportunity to take sente (white gets to play somewhere else first, instead of black). See variation for a better line of play.
+
+Another important point: black completes the infamous "empty triangle" (marked with squares), which is considered very very bad shape (it is inefficient and has relative little liberties). Never play it unless you have no other choice.]
+;W[bp];B[cq]SQ[cp][dp][dq]C[A: another empty triangle];W[qe]
+;B[qj]LB[qg:B][qm:A]C[A: Good move. Black can either extend to R13 or R7 after white attacks]
+;W[ph]C[A: Better at the third line (R12), because black can slide under it now with S12 or R12.]
+
+(;B[qm]LB[rh:B][qm:A];W[ok];B[on]LB[pk:A][om:B]C[A: With P9, white aims to split the black stones. Therefore black better defends at Q9 (A). But if you must run away, better use straight jumps (B), because the knight jump can easily be cut (see variation)]
+
+(;W[qk]LB[qk:A][pm:B];B[oj];W[mk];B[oh];W[pg];B[mh]SQ[oh][oj]
+[qj]C[A: Note the shape black created is very vulnerable. White can easily cut it appart (see variations)]
+
+(;W[ld]LB[ld:A][pi:B]C[Kagashi [14k?\]: thanks];B[ki];W[mn]
+C[A: Good, attack those weak stones, before black does.
+
+This is one of the most important things in go: to look for weak groups and either defend of attack them.]
+;B[cg];W[ej]C[A: This play on the fifth line is much too high. When making territory, often it is best to play on the third line. Now black can slide under it (see variation)]
+
+(;B[hl]LB[cj:B][hl:A];W[pm];B[pn];W[qn]SQ[pm]C[A: As expected. Good]
+;B[om];W[pl];B[np];W[no]
+(;B[oo]LB[pp:A]SQ[on][pn][po]C[A: empty triangle.];W[op];B[mm]
+;W[mo]LB[ln:C][lo:B][mp:A]SQ[mn][nn][no]C[A: empty triangle. Better at N4, M5 or M6]
+;B[km];W[nm];B[nl];W[nn];B[ol];W[ml];B[nk]C[well, here was the mistake by me. looks like i didn't read far enough. my only shot was to play elsewhere for the moment and try to make black forget... which isin't very likely.]
+;W[lm];B[kk];W[nq];B[nd]C[A: Too far, can be captured]
+(;W[nf]LB[me:B]SQ[ld]C[A: I believe this is called an elephant move. It is not a very good shape, since black can cut between (and that is exactly what black did: good!!). See variation for how to capture.]
+;B[me];W[lc];B[mf]C[At this point i was starting to get worried about black's moyo in the upper middle. It looks awfuly big...
+
+A: At this point it is not really a moyo, since white has still influence with M16/17 and E10. But it can soon become a moyo, so it might be a good idea to destroy it.]
+;W[id];B[hc];W[hd];B[gd];W[hg]C[so i try to invade and reduce.
+
+A: H13 seems like a very good move. Efficiently white has cut through blacks� potential moyo. However since white is a little thin now, black can try to attack and making territory at the same time. See variation for an example.]
+
+(;B[fh]LB[fh:A][cj:B];W[bi]C[A: Good, prevent black from reducing your territory.]
+;B[bh];W[ci];B[dh];W[di];B[fj];W[ch];B[bg];W[pk]C[this is where he messed up, black should have connected at O10... but i guess he forgot =)
+
+A: of course.];B[pj];W[nj];B[ni];W[po]LB[nb:A]SQ[lc][hd][id]
+[ld][hg]C[A: However, white also forgot to connect. At O17 that is. Black can play O18 (A) and white will have a serious problem with making eyes for the marked stones.]
+;B[qh];W[pi]C[A: good move];B[oi];W[qi];B[of];W[jp]LB[jq:A]
+C[Trying to expand my territory on the lower side.
+
+A: Again, this is better on the third line (A). This is also a very good move for black to play.]
+;B[io];W[fk]C[As well as on the left side];B[gj];W[gk];B[hk]
+;W[gl]SQ[fk][gk][fl]C[A: empty triangle. A little further in the game I show why it is a very bad one.]
+;B[hm];W[le];B[lf];W[ge];B[fd]LB[fe:A]SQ[fc][gc][gd]C[A: just block at A (same as in the lower left corner). Yet another empty triangle.]
+;W[fe];B[ee];W[ef];B[de];W[eg];B[eh];W[fg]SQ[ef][ff][eg];B[fm]
+;W[em]C[A: Black could have taken advantage of the empty triangle shape here. See variations.]
+
+(;B[fl]LB[ek:B][fl:A];W[el];B[gm];W[ek];B[iq];W[ic];B[hb];W[ib]
+;B[ia];W[jq]C[A: especially black should try not to follow the other player around the board every time. J19 is an excellent move. K3 on the other hand did not really need a response. 
+
+White K3 in itself is not wrong, because it prevents a follow-up on L2 or L3, which is very big.]
+
+(;B[ip]LB[jb:B][ip:A];W[ja];B[ha];W[kb];B[ko];W[md];B[nc];W[nb]
+;B[pd];W[oe];B[ne];W[og];B[ng];W[pf];B[od];W[nf];B[qd];W[jh]
+;B[kh];W[hi];B[ij]C[He responded to this attack wrong, allowing me to cut.
+
+A: you are right];W[hj]
+(;B[dg]LB[dg:A][gh:B]C[To me that looked like a pretty good move, otherwise he would have lost more than those two stones at G10
+
+A: Black can even rescue the two stones (by taking advantage of the empty triangle). See variation]
+;W[fi];B[gh];W[gi];B[gg];W[gf];B[df];W[ff];B[hf];W[he];B[if]
+;W[ig];B[jf];W[kf];B[kg];W[ke]C[A: Black has three liberties. White also has three liberties. Can black capture some stones?]
+
+(;B[jg]LB[jg:A][hh:B];W[hh];B[ji];W[ep];B[eq];W[fp];B[fq];W[jo]
+;B[jn];W[kp];B[gp];W[jr];B[ir];W[is];B[hs];W[js];B[hr];W[bq]
+;B[br];W[ar];B[bs];W[qc];B[pe];W[ln];B[kn];W[lj];B[li];W[of]
+;B[qf]C[I guess this was a mistake...];W[qg];B[re];W[rh];B[rj]
+C[Now here, i think he was trying to kill my P14 group... but he failed...]
+;W[rf]C[A: black should not have filled the ko, but start a ko-fight. See variation.]
+
+(;B[qe]LB[qe:A][sf:B];W[sf];B[ri];W[sh];B[rk];W[rl]C[A: Better at S7]
+
+(;B[sl]LB[sl:A][rm:B];W[sm];B[sk];W[rn];B[fo];W[eo]C[A: at this point black can probably still take the upper right corner. See variation]
+
+(;B[fn]LB[ob:B][fn:A];W[rc];B[je];W[jd];B[mc];W[mb];B[oc];W[ob]
+;B[kj];W[kl];B[jl];W[ll];B[ih];W[ii];B[ik];W[jh];B[ai];W[aj]
+;B[ah];W[rd]C[Mistake by me, i should have connected the A10 stone, i totally misread this and realized my mistake at the end of the game, luckily black did not see it either.]
+;B[se];W[sd];B[ih];W[aq];B[jh];W[as];B[cr];W[lo];B[in];W[do]
+;B[bj];W[ak];B[mi];W[mj];B[tt];W[tt]C[A: End of the actual game. But it is not really finished yet ...]
+;B[bk];W[al];B[bl];W[am];B[bm];W[an];B[bn];W[ao];B[ap];W[cm]
+;B[cl];W[dl];B[cj];W[dj]C[A: White can make a living group and still wins with 9.5 points.]
+)
+(;B[ob]LB[ob:B][fn:A];W[oc];B[mb];W[pb];B[na];W[rb];B[qa];W[pa]
+;B[rc];W[sc];B[rd];W[sb];B[ra]C[A: black kills the corner]))
+(;B[rm]LB[sl:A][rm:B];W[rn];B[sl];W[ql];B[sm];W[sn];B[sk]))
+(;B[sf]LB[qe:A][sf:B];W[qe];B[lp]C[A: Black cannot ignore this, or the K1 group will be gone.]
+;W[lq];B[qf]C[A: now white should look for a ko-threat. However, I don't think there are any big ones for him.]
+;W[gc]C[A: black should ignore G17 and finish the ko];B[rg]
+;W[gb];B[fb];W[ga];B[fa]C[A: An excellent result for black: 4 black stones in exchange for 12 white ones.]
+))
+(;B[hh]LB[jg:A][hh:B];W[ii];B[ih];W[je];B[jg]))
+(;B[gh]LB[dg:A][gh:B];W[dg];B[gg];W[gf];B[df];W[ff];B[hf];W[he]
+;B[hh];W[ig];B[ii]))
+(;B[jb]LB[jb:B][ip:A];W[ip];B[hp];W[ir];B[hq];W[kb];B[jc];W[jd]
+;B[ka];W[kc];B[ja];W[la];B[ha]C[A: As you can see, K18 did much more damage than not playing J4.]
+))
+(;B[ek]LB[ek:B][fl:A]
+(;W[dk]LB[dk:A][el:B]C[A: Atari at D9 sacrifices the three stones.]
+;B[el]C[A: of course white cannot give atari by playing F8, since this is selfatari.]
+;W[dl];B[fl])
+(;W[el]LB[dk:A][el:B]C[A: white can also give atari at E8, trying to safe his three stones.]
+;B[dk];W[fl];B[cj];W[bj];B[bk];W[cl];B[ck];W[ak];B[al];W[bl]
+;B[aj];W[ai];B[ei];W[ak];B[dj];W[am];B[ah];W[aj];B[al]C[A: In this particular example it results in a disaster. White might save his stones playing another way, but this may not be easy with little time on the clock...]
+)))
+(;B[cj]LB[fh:A][cj:B];W[bk];B[ck];W[cl];B[bj];W[bl]C[A: First black increases his territory at the cost of white]
+;B[gf]C[A: Threatens to cut at H14];W[hf];B[gg];W[el]C[A: white connects the lonely stone]
+;B[di];W[ei];B[eh];W[fh];B[eg];W[fg];B[ff];W[gh]C[A: And black seal of a nice amount of territory]
+;B[gj];W[fi];B[ih];W[hh];B[je];W[jd];B[ke]C[A: Black takes some more in the middle, before white can do so.]
+))
+(;W[me]LB[me:B][nf:A];B[ne];W[nf]))
+(;B[pp]LB[oo:A][pp:B];W[qp];B[op]SQ[on][pn][pp]C[A: better shape]
+))
+(;B[cj]LB[cj:B][hl:A];W[cl];B[bk];W[bl]C[Now white has to make some real effort to create two eyes for this group. In the mean time, black can surround it and maybe make some territory.]
+))
+(;W[pi]LB[ld:A][pi:B]
+(;B[pj]LB[oi:B][pj:A];W[oi];B[ni];W[nj])
+(;B[oi]LB[oi:B][pj:A];W[pj])))
+(;W[pm]LB[qk:A][pm:B];B[pn];W[qn]SQ[pm]))
+(;B[rh]LB[rh:B][qm:A];W[rg];B[qm]C[A: Black easily can create a living group now, and is out of trouble]
+))
+(;B[bp]LB[bp:B][cp:A];W[do];B[cp];W[bn]C[Now black has sente.]
+;B[qe]))
+(;B[dn]LB[dn:B][gn:A]C[...go between the stones...];W[dm];B[do]
+;W[cm];B[em]C[... and cut. This is a good result for black.]
+;W[el];B[fm];W[fl];B[gm];W[dk]C[Black can get nice territory on the bottom.]
+))
+(;W[dn]LB[en:A]SQ[cn][co][dp]C[The normal response to the marked pattern is D6 (explained in the next variation).]
+;B[ck]C[A: Now an attack at C9 robs white from eye space. He must run, while black makes a nice moyo in the upper left.]
+
+(;W[dl]LB[ci:B][dl:A];B[dk];W[gm];B[fj])
+(;W[ci]LB[ci:B][dl:A];B[ek];W[ei];B[fn]C[A: A counter attack with C11 is a bad idea, because white ends up with two weak groups.]
+)))

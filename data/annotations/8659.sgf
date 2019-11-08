@@ -1,0 +1,290 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.17]
+
+PB[Kurato1]
+BR[10k]
+PW[ORBix]
+WR[8k]
+KM[0.5]
+DT[2012-02-02]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[W+13.5]
+TM[1800]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+C[Dear reviewer, I am Kurato1 (not solid 10k on KGS)
+
+It was a friendly game and i was trying to do my best, but still lose it.
+
+I would like to know which mistakes i have done in the beginning of the game (fuseki mistakes, direction of play, forms).
+Another thing i would like to know what i should do with "moyo reduction moves" in the top of the board in tuban (i feel that there were too much mistakes and black could protect moyo better)
+
+There is some comments in the game tree with my thoughts about situation
+
+Thanks for your time and sorry for my awfull english :)
+
+Kurato1 [10k\]: have fun
+
+
+Hi Kurato1,
+
+I'm Felix your reviewer. I'll preceed my comments with "F:".
+I added detailed commentary and variations to point out your mistakes and answer your questions. Please do not hesitate to contact me, if you have further questions. Allthough you got behind in this game, you several times had the chance to come back. It was probably due to a lack of concentration in the late night hours, that you could not read out the correct sequences. So improving your reading abilities in general will help you a lot.
+
+Best regards,
+Felix
+a.k.a. Djif-Master on KGS];B[cp];W[pp];B[pd];W[dc];B[np]C[F: The high approach move is unusal in this situation in my opinion. The high approach is usually played, when it is advantageous to play on the side (here bottom side). This is not the case, because there is still enough room for White to invade easily. Locally the high approach move invites a loss.
+If you do not have a special reason, I would always prefer the low approach move at 'A'.
+On the other hand I must admit, this is NOT the game losing move. It is just slightly unfavorable and the possible continuations are probably more difficult than the continuations after the low approach.]
+;W[kp]LB[pn:D][jp:B][lp:A][pq:C]C[F: I only found 'A' or 'B' in the joseki dictionaries. But the idea is the same. The pincer immediatly attacks the black stone. That is also the reason why you want to play the high approach with support (moyo) in the bottom left.
+'C' and 'D' are the joseki moves here. 'C' is leaning on White to create possible cutting points, 'D' is changing directions, trying to build something on the right.]
+(;B[pn]C[here i don't know how to play
+
+F: This move is good for a start.];W[oo]
+(;B[no]LB[on:A][qq:B]TR[pn]C[F: This move is a typical double digit kyu mistake I guess. White will naturally answer at 'A'. This hurts the marked black stone. If you defend there, White turns and is attacking two black groups at the same time.
+So you always want to avoid pushing the enemy stones against your own WEAK groups.
+Playing at 'A' instead of this move results in a similar situation.
+So where to play
+'B' is the correct answer here. See variation.]
+(;W[oq]LB[on:A]C[F: White should split the groups at 'A' instead.]
+;B[on]LB[nn:A]C[I feel it is not a best choise, too heavy
+
+F: This is actually not the worst result for you. The problem is, that the cut at 'A' remains. You should defend this cut as soon as you can.]
+;W[eq]LB[mm:A]C[F: It may seem slow, but defending your weakness at 'A' is very urgent. If you do not defend, it will hunt you later.]
+;B[ep]LB[dn:B][do:A]C[F: This move is possible, but generally I would not recommend it. Because it allows your opponent to settle easily. Try to experiment with the standard answers 'A' or 'B'.]
+;W[fp];B[eo];W[dq];B[cq];W[gn];B[em]LB[ck:C][dl:D][hp:B][fq:A]
+C[im not sure here, would c7-c8 be better?
+
+F: I like this move, because White left a weakness at 'A'/'B' behind. If you invade the bottom later, this move helps you. On the other hand, it will be difficult to answer a white move at 'C', so 'D' might be a good alternative.]
+;W[ce]LB[mm:A]C[F: Now really is the time to protect your cut at 'A'. After that the white stones on the bottom will be a very easy target. See variation.]
+(;B[jc];W[cj]TR[em]C[F: Now the downside of the high black stone is exploited...]
+(;B[cl]LB[qf:C][fq:B][cr:A]C[F: Usually defending territory at such a small scale is not a good choice. Locally I would defend the Black group at 'A' treatening the cut at 'B'.
+But overall I'm more inclined to play 'C', building a huge moyo at the right and the top.]
+;W[ej];B[dg]LB[gc:B][qf:D][dg:C][mm:A]C[g17 instead?
+
+F: I still think, that defending at 'A' would be best. Besides that, you worry to much about your opponent making territory. The question is not 'B' or 'C' (which is locally better), but if not 'D' is better to play, making territory your own.]
+;W[gc];B[ee]LB[fg:A]TR[cj][ej]C[F: A simple jump to 'A' would be better, because it threatens to disconnect and attack the marked white stones.]
+;W[gf]C[F: Now it is you, who gets attacked.];B[fg];W[ef];B[df]
+LB[eg:A]TR[cj][ej]C[F: I think connecting at 'A' is better. The reason behind is the same as before, you try to attack the marked white stones.]
+;W[eg];B[eh]TR[de][dh][fh]C[F: Now you got cutting points all over.]
+;W[ff];B[ch]LB[di:A][gi:B]C[F: I think a peep at 'A' would not be bad in this situation. You force White to connect and can jump to 'B' after that.]
+;W[fh]
+(;B[dj]LB[fi:A]C[F: This move is rarely a good move. It is only played, if you really want to cut the connection between the white stones. But here you do not cut anything important. And I doubt that it works at all (see variation after move 39). I prefer 'A' over this move. See variation.]
+;W[di];B[dk]
+(;W[dh]LB[ci:A]C[F: I think White should connect at 'A'.
+Like this Black is lucky.];B[ci];W[ei];B[bg]C[F: This result was unexpected, Black is very lucky.]
+;W[de];B[ed];W[ec];B[pj]LB[mc:A][nn:B]TR[ec][gc][ef][ff][gf]
+[eg][fh][ei]C[F: White could build up a lot of influence, so Black needs to defend against an invasion on the top with 'A'. At the same time, there is still the cut at 'B'. So Black has more than just one problem.]
+(;W[qc]C[F: This invasion is not good for White. It actually helps Black. See variation.]
+;B[qd]C[F: This is the right side to defend.];W[pc];B[od]LB[oc:A]
+[qf:B]C[F: Black usually plays 'A'. You probably mixed it up, with a pincer joseki, where White has a stone at 'B', then this move would be correct.]
+;W[oc];B[nc];W[nb];B[mc];W[rd];B[re];W[rc];B[qf];W[ph]
+(;B[qh]LB[nj:A]TR[mc][nc][od][pd][qd][re][qf]C[F: Defending like this is bad style. You just build up a huge wall. You have to use this strenght and push you opponent against it! Try something like 'A' next time. See variation.]
+;W[pi];B[qi];W[oj];B[ok]TR[nn]C[Is nidan bane playable here? im not sure i play correct here
+
+F: Generally speaking the double hane is correct, but it is the possible cut, where the trouble comes from.]
+;W[pk];B[qj];W[ol];B[nk];W[nl];B[pl];W[ml];B[mk];W[nn]C[F: Finally White found the cut.]
+(;B[lo]LB[qq:A]C[F: Running away like this is not a good idea, because White will probably profit. Another idea is to play 'A' using the aji left in the corner.]
+;W[km]LB[mn:A]C[F: I think White should play 'A' instead, Black will have a hard time.]
+(;B[lm]LB[mn:A]C[F: This move only helps White to defend against his weaknesses. Your opponents move, is your move, so you should play 'A'.]
+;W[ll];B[kl];W[ln]
+(;B[nm]C[My opponent give me advice to play n6 instead of o7, but later in yose o7 looks like good move.
+
+ORBix [8k\]: but u put here
+ORBix [8k\]: do u see?
+Kurato1 [10k\]: yea
+
+F: N6 is indeed better. Now it is not about yose, it is about to connect your stones! The next thirty moves are forced, because you did not connect here. It is thirty moves struggling for life. It is also the beginning of White getting a huge corner, because he could chase you around.]
+;W[mn];B[kn];W[jm];B[nq]LB[qq:A]C[F: Now I definitely would recommend 'A' instead.]
+;W[or]
+(;B[kq];W[lp];B[lq];W[mp];B[jp];W[mq]LB[mo:A]C[F: Very sad. :-(
+Black should play 'A' and is back on top.]
+(;B[mr];W[mo];B[nr];W[ko];B[gq];W[iq];B[ip];W[hq]
+(;B[gp]LB[hp:A]C[F: 'A' should work instead. See variation.]
+;W[hp];B[jr]C[F: Solidly connect instead.];W[jq]C[ORBix [8k\]: i mean
+ORBix [8k\]: not that many mistakes
+ORBix [8k\]: do u wann re game?
+Kurato1 [10k\]: no, thanks =) it is too late in my country and i should go sleep soon
+ORBix [8k\]: okay gg
+
+F: Being cut like this often ends in a disaster.]
+(;B[ir];W[hr];B[gr];W[hs];B[kr];W[ls];B[ho];W[io];B[is];W[jo]
+;B[ks]C[F: You are very lucky to get still a living shape.]
+;W[ns];B[ms]LB[op:B][lr:A]C[F: 'A' is a bit better, because after Black 'A', 'B' is not sente.]
+;W[op];B[lr]LB[os:A]C[F: Why not take at 'A'?];W[pm];B[ql];W[qm]
+;B[qn]LB[rl:A]C[F: This move is not possible. Black can only play 'A'.]
+;W[rm];B[rn]LB[rl:A]C[F: Still 'A'.];W[rl];B[qk];W[qo]LB[om:A]
+C[F: Now it is your chance! If you connect at 'A', it is four against three liberties. Black wins the capturing race.]
+;B[ro];W[rp];B[sn]C[F: Very sad again. :-(];W[om];B[go];W[fo]
+;B[fq];W[fn]LB[dp:B][er:A]TR[fq][gq][gr]C[here g2 group has 3 dame and d3 group has 3 dame, black plays first. Why black group was catched?
+
+F: You are right, the white stones should be captured. Because you have an empty triangle like shape, you have to be very careful. Starting with 'A' as in the game is wrong, 'B' is the solution. But you have to read carefully.]
+(;B[er];W[dr];B[cr];W[es]C[should i respond f1 and start ko fight?
+
+F: Yes, your only chance is to fight the ko.]
+(;B[fr];W[fs];B[dp];W[ds];B[hn];W[hm];B[im];W[il];B[jl];W[in]
+;B[lk];W[jk];B[kk];W[kh]LB[ih:A][jj:B][ik:C]C[I don't know how to respond even now
+
+here i feel i lose lots of points.
+
+F: The white stone is nicely placed. Usually you want to cap such a move with something like 'A' so that he cannot escape. But here it won't work, because White has supporting stones and influence.
+You could try to play 'B', hoping that White will connect at 'C' and then cap with 'A'. But if I would play against you, I would simply ignore your move at 'B' and play 'A' myself.]
+(;B[mh]C[F: I guess there is no better move. White is strong all over, so you cannot attack anything.]
+;W[lf]
+(;B[je]C[F: I like the other move you suggested better.];W[nf]
+(;B[ne];W[mg];B[ni];W[og];B[me];W[jj];B[pg];W[pf];B[qg];W[nh]
+;B[lh];W[kg]C[F: Your opponent really does give you opportunities to come back...]
+;B[lg];W[li];B[mi];W[mf];B[kf]C[F: Very good!];W[ke];B[jf];W[kd]
+(;B[kc]TR[jc][je]C[F: Ouch!
+Basic principle: Connect to the peep. It is right in 99%. Really!]
+;W[jd];B[le];W[id]LB[ig:A]C[F: It is not lost yet, but you have to be careful, because you only have three liberties. You need at least four liberties. I think 'A' solves the problem.]
+(;B[hg];W[ig];B[ih];W[if];B[jg];W[jh];B[ji];W[ki];B[ii];W[hj]
+;B[gl];W[fl];B[fm];W[gm];B[fk];W[el];B[ek];W[en];B[dm];W[dn]
+;B[cn];W[gk];B[dl];W[fj];B[hl];W[hk];B[oi];W[oh];B[of];W[oe]
+;B[pe];W[ie];B[of];W[bf];B[cg];W[ib];B[jb];W[ic];B[rk]LB[sl:A]
+C[F: If White ignores this move, you should immediately follow up on 'A', because it is just so big.]
+;W[lc];B[lb];W[ld];B[mb];W[ja];B[kb];W[ob];B[do];W[gs];B[sl]
+C[ORBix [8k\]: damn good move
+Kurato1 [10k\]: yea) just luck];W[sp];B[sm];W[mm];B[qq]C[F: Very nice tesuji.]
+;W[rq];B[rr];W[qr];B[pr];W[pq];B[qs];W[os];B[qr];W[qp];B[sr]
+;W[ps];B[so];W[rs];B[sk]C[ORBix [8k\]: omg that is out!];W[cf]
+;B[cs];W[fl];B[lj];W[kj];B[sd];W[sc];B[se];W[na];B[ma];W[pa]
+;B[cc];W[dd];B[db];W[eb];B[bb];W[da];B[be];W[bd];B[af];W[ae]
+;B[bj];W[ag];B[ah];W[af];B[ka];W[ia];B[ng];W[kf];B[el];W[gl]
+;B[tt];W[md];B[nd];W[tt];B[tt]TW[aa][ba][ca][ea][fa][ga][ha]
+[oa][qa][ra][sa][ab][bb][cb][db][fb][gb][hb][pb][qb][rb][sb]
+[ac][bc][cc][fc][hc][ad][cd][ed][fd][gd][hd][be][ee][fe][ge]
+[he][je][hf][jf][fg][gg][hg][jg][eh][gh][hh][ih][fi][gi][hi]
+[ii][ji][gj][ij][ik][hl][im][lm][nm][hn][jn][kn][go][ho][lo]
+[gp][ip][jp][fq][gq][er][fr][gr]TB[la][oe][qe][pf][rf][sf][og]
+[rg][sg][bh][nh][oh][ph][rh][sh][ai][bi][pi][ri][si][aj][cj]
+[mj][nj][oj][rj][sj][ak][bk][ck][pk][al][bl][am][bm][cm][an]
+[bn][ao][bo][co][oo][po][qo][ap][bp][op][pp][qp][rp][sp][aq]
+[bq][oq][pq][rq][sq][ar][br][or][as][bs][js][ls][ns][os][ps]
+[rs][ss]C[ORBix [8k\]: gg
+Kurato1 [10k\]: gg
+Kurato1 [10k\]: could you show me my mistakes?
+ORBix [8k\]: gg
+ORBix [8k\]: i made so many mistakes too])
+(;B[ig]
+(;W[ih];B[hh]
+(;W[ii];B[hg];W[jg];B[if])
+(;W[hg];B[jh]))
+(;W[hh];B[ih];W[ii])))
+(;B[jd]LB[kc:A][le:B]C[F: White stones are all dead. 'A' and 'B' are miai.]
+(;W[le];B[kc];W[lc];B[lb];W[md];B[nd];W[ld];B[mb])
+(;W[kc];B[le])))
+(;B[mf]
+(;W[me]C[F: White could atari from the other side.];B[mg];W[le]
+;B[ne])
+(;W[mg];B[me];W[ng];B[lh];W[lg];B[kg];W[kf];B[jg];W[jf];B[if]
+;W[ig];B[jh];W[ih];B[ji];W[ie];B[hf];W[he])))
+(;B[mf]C[F: I like this one better.];W[me]SQ[nd]
+(;B[ne]LB[nf:A]C[F: Better at 'A'.];W[nf];B[mg])
+(;B[nf]C[F: You do not have to worry about the cut.]
+(;W[ne];B[oe]
+(;W[nd];B[le])
+(;W[le];B[nd]))
+(;W[nd];B[md];W[ne];B[le];W[oe];B[of];W[pe];B[qe])
+(;W[le];B[ne]))))
+(;B[ih];W[ji]C[F: White is connected.]
+(;B[ii];W[ij])
+(;B[jj];W[ii]))
+(;B[jj]
+(;W[ik];B[ih]C[F: That is probably wishful thinking.])
+(;W[ih]C[F: White simply connects up to his stones.])))
+(;B[fs];W[fr];B[hn];W[hm];B[er];W[bj];B[bi];W[fr];B[cd];W[dd]
+;B[er]))
+(;B[dr];W[er];B[dp];W[cr];B[es];W[ds];B[fr];W[fs])
+(;B[dp]
+(;W[cr];B[br];W[es];B[er];W[dr];B[fr];W[gs];B[cs])
+(;W[es];B[fs]
+(;W[er];B[ds];W[gs];B[dr];W[fr];B[fs])
+(;W[gs];B[er];W[fr];B[dr];W[hn];B[fs]))))
+(;B[hr]C[F: This could be a good exchange.];W[kr];B[ir];W[lr]
+;B[ho];W[kq];B[go]C[F: White caputres some stones, but you also get a big corner. I think it is playable.]
+))
+(;B[hp]
+(;W[jq];B[jr])
+(;W[gr];B[gp];W[jq];B[jr];W[ir];B[is];W[hr];B[kr];W[ls];B[fr]
+)))
+(;B[mo]LB[mm:A][mr:B]C[F: 'A' and 'B' are miai now.]
+(;W[mm];B[mr])
+(;W[mr];B[mm])))
+(;B[op];W[po];B[pq]LB[qq:A]C[F: Actually White should capture at 'A'.]
+;W[pr];B[qq];W[qp]LB[rp:A]C[F: Black can capture the white stones in a ladder, starting with 'A'.]
+;B[qr];W[qs];B[nr];W[rr];B[os];W[rq]
+(;B[kr]LB[pm:A]C[ORBix [8k\]: this would be also good
+
+F: Not good at all. Black is not alive yet. And if White gets to play 'A', the White corner is huge.]
+)
+(;B[kq];W[lp];B[lq];W[mp];B[mo];W[mm];B[jp];W[ko];B[jn];W[jo]
+;B[in];W[ip];B[jq];W[io];B[hr])))
+(;B[mn];W[mm];B[nm]C[ORBix [8k\]: right here
+ORBix [8k\]: this was big
+
+F: Yes, very big! All Black trouble is gone.]))
+(;B[mn]LB[nm:A]C[F: White cannot connect at 'A'.]
+(;W[nm]C[F: White is doomed.];B[ll]C[F: There is no way for White to safe the stones.]
+(;W[lm];B[mm])
+(;W[pm];B[ql]
+(;W[qn];B[mm];W[po];B[om])
+(;W[om];B[qm])))
+(;W[ll]C[F: So White's only choice is to connect out.];B[nm]
+C[F: Black is connected, White did not accomplish anything.]
+)))
+(;B[qq]LB[qp:A][nq:B]C[F: White can possibly play 'A' or 'B'.]
+(;W[qp];B[op]LB[po:B][pq:A]C[F: White has to connect at 'A', he cannot play 'B'.]
+(;W[pq];B[po]C[F: Black is connected.])
+(;W[po]C[F: Black can punish...];B[pq];W[qn];B[rp];W[qo];B[qm]
+;W[pm];B[om];W[nm];B[pm];W[rm];B[qk];W[rn];B[or]C[F: The white stones are dead.]
+))
+(;W[nq];B[qp];W[op]C[F: Black takes the corner an has sente. So you could reduce the bottom or build a bigger moyo in the center to the top right.]
+)))
+(;B[nj]C[F: White is trapped. He has no choice but to run to the center.]
+;W[nh];B[li];W[lh];B[kh]C[F: Black is bending around...];W[lg]
+;B[kg];W[lf];B[je]C[F: White will have a hard time to make a living group.]
+))
+(;W[mc]TR[jc]C[F: White should attack the black stone on the top immediatly.
+Black can defend the corner or the stone, White will get the opposite.]
+(;B[je]C[F: Defending the stone...];W[me];B[jg];W[mg];B[ji]
+C[F: Like this Black's moyo on the right will be destroyed.]
+)
+(;B[oc]C[F: Defending the corner...];W[me];B[pf]LB[jf:B][mg:A]
+C[F: With 'A' (possibly 'B') White builds a huge territorial framework on the top.]
+)))
+(;W[ci]C[F: What if White connects here?]
+(;B[dh];W[ei];B[fi];W[gh];B[de];W[cd]LB[df:A][di:B]C[F: Black's 'A'-group  is very likely to  die. White's 'B'-group is weak, but can escape to the center. So White is fine.]
+)
+(;B[fi];W[gh];B[ei];W[dh])))
+(;B[fi];W[gh];B[ei]TR[cj][ej]C[F: Simple but effective variation. White hurt himself.]
+))
+(;B[cr];W[cm]LB[qf:C][bo:B][fq:A]C[F: Let's assume White is trying to attack your group somehow. 'A' and 'B' are miai for life, so you do not have to respond to this move. Instead you play another big move.]
+))
+(;B[mm];W[jd]C[F: I guess you feared something like this, that White gets a shimari with an extension.
+But because Black is strong all over, you can attack white's bottom stones severly.]
+;B[nq]C[F: I guess White has to defend the corner now...];W[qq]
+LB[hp:A]C[F: Now you are free to attack white's group at the bottom, for example at 'A'.]
+))
+(;W[on];B[pl];W[nn];B[lo]C[F: Black is left with two weak groups.]
+))
+(;B[qq]LB[qp:B][pq:A]C[F: Correct move in this situation. Now White has to decide 'A' or 'B'. 
+'A' is correct. 'B' is not so good.]
+(;W[pq];B[qp];W[no];B[po]LB[mp:A][op:B]C[F: White 'A' or 'B' and the groups are settled. Black sacrificed one stone, but got a stable group and sente.]
+)
+(;W[qp];B[pq];W[oq];B[op];W[or];B[rp];W[ro];B[po];W[qo];B[rn]
+;W[rq];B[qn];W[sp];B[nn]TR[kp]C[F: This result is considered bad for White, because the marked white lost its meaning and purpose.]
+)))
+(;B[nn]C[F: Now this move is not severe because White can defend on both sides. Please see the next variation for explanation.]
+;W[pn]
+(;B[pq]
+(;W[oq]LB[qq:A]C[F: This crosscut is unlikely, because it is allowing Black a good result. White should play 'A'.]
+;B[op];W[qq];B[pr];W[or];B[qr];W[qp];B[nr])
+(;W[qq];B[oq];W[qr]TR[kp]C[F: White is taking solid territory in the corner while attacking the black stones. The marked white stone is in ideal position, because a black extension on the bottom is blocked.]
+))
+(;B[hq]LB[kn:A]C[F: If you pincer now, then White easily jumps out into the center with 'A', which would hurt yourself.]
+))
+(;AW[jd][ce]AB[ep][hq]LB[nn:A]C[F: If the situation would be similar to this one. White cannot play the pincer. Black has support in the bottom left corner, so you can jump out to 'A' and either attack the corner or the pincer stone.]
+;B[nn]
+(;W[kn];B[qn])
+(;W[pn];B[km])))

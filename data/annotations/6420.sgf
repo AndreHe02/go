@@ -1,0 +1,132 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+GN[giroro-SqueakyRat-356648-20071213]
+PB[SqueakyRat (SqueakyRat)]
+BR[5k]
+HA[4]
+PW[Giroro (giroro)]
+WR[2k]
+KM[5]
+DT[2007-10-19,2007-12-13]
+PC[Dragon Go Server: http://www.dragongoserver.net/]
+RE[W+8.00]
+RU[Japanese]
+GC[Game ID: 356648, rated]
+
+AB[dd][pd][dp][pp]C[Dear Reviewer,
+
+Not sure what I did wrong here, but White slowly eroded my advantage and finally won by 8 points (although it was more like 20 until he made a yose mistake)
+
+Thanks,
+
+David
+
+A: Hello David, 
+This review has been made with cgoban
+My comments are marked with an A:
+
+About the game:
+
+In general, You played a few moves in strange shape (42, 50, 58), but noticed these moves Yourself so I think You can improve there. 
+
+I think the crucial point, where You could learn most, was the handling of the weak group on the left side after move 52. Chosing the correct direction for attack can be difficult, and there has to be a plan what to do after the attack. 
+
+Some basic principles of attack and defense: drive a weak group towards Your own thickness, and dont try to create territory from thickness.]
+PL[W];W[qf];B[dj];W[pn];B[np];W[nd];B[pf]C[[DP I figured this was the stronger stone (given Q6 below), so attached to it and played the standard joseki (I think!) to 14\]]
+;W[pg];B[of];W[qe];B[od];W[qd];B[og]C[A: this is sente, but might be aji-keshi, its possible to leave this move for later]
+;W[ph];B[qc]LB[nc:A]C[A: this is gote. If you want to play locally, A is a common move to immobilize the white stone.]
+;W[fc];B[hc]C[[DP I wanted to play in this area to use the wall at P16 to pincer, but wasn't sure where the best move was\]
+
+A: a pincer is definitely best here, and a severe pincer like h17 is ok because youre stong all around.]
+;W[cc]
+(;B[cd]C[[DP I have a suspicion I got this completely wrong and should have played at D17 instead, in which case the close pincer at H17 probably wasn't correct?  The conflicting thought in my 5k brain was building a wall facing D10 as per san-ren-sei strategy\]
+
+A: blocking at c16 is correct];W[dc];B[ed];W[fb];B[ge];W[jc]
+C[[DP A good move by W?\]
+
+A: not really, its definitely not the biggest open space. The lower side is bigger. But now r17 would look better at o17.]
+;B[hd]C[[DP This was intended primarily to keep W separated, and also to defend the weak spots in the B position\]]
+;W[qp];B[qq];W[qo];B[rq]C[[DP Trying to follow strategy of giving W one big territory on the RHS which I could try to reduce\]
+
+A: white has no territory yet, the right side still needs a move.]
+;W[fq];B[ip]C[[DP Perhaps better to use close pincer here to balance high stones at O4?\]
+
+A: k3 looks good shape to me but any pincer is ok];W[dn];B[fp]
+C[[DP Wasn't sure how to handle this double kakari.  Couldn't decide which was stronger stone, given thickness above, but pincer closer below\]]
+;W[gp];B[fo];W[eq];B[do];W[dq];B[go];W[hp];B[ho];W[cj]
+(;B[ch]C[[DP Now that I am adding comments to this game, this move looks really odd! Presumably C9 or C11 better, but which, and what are the standard sequences which follow?\]
+
+A: this is definitely odd, see variaton];W[dk];B[di];W[ck]
+(;B[cq]C[[DP Wrong direction?  More profit to be had attacking W with C6 I suspect\]
+
+A: c6 is essential to take whites base! actually its the same wrong shape as in the upper right.]
+;W[cr];B[bq];W[br];B[bn]C[[DP C6 better? I am having trouble working out why I didn't play it... the blindness of playing the game I guess\]
+
+A: definitely c6, more severe];W[fk];B[hk]C[[DP Looks like an overplay in retrospect.  G11 better?\]
+
+A: H9 is a very good move. White is in trouble here. The follow-ups were the problem]
+;W[gj]
+(;B[gh]LB[ii:A][pk:B][nn:C]TR[cd][dd][ed][hd][ge][ch][di][dj]
+C[A: A play at A instead would drive w into blacks marked strong stones in the upper left and prepare either an invasion at B or a moyo-creating move at C. See Variations.]
+;W[hj];B[ih]LB[ik:A][jk:B]TR[ce][de][ee][bf][cf][df][ef][ff]
+[gf][hf][if][cg][dg][eg][fg][gg][hg][ig]C[A: this move doesnt profit enough as long as w can still play o17. Id still prefer building the lower center with a move at A or B, this also keeps the pressure on the white group. .]
+;W[jj];B[hq]C[[DP Could you advise on the timing of the next set of moves? I wanted to make my outside groups stronger with the idea of keeping pressure on H10 group and also W stones at the top\]
+
+A: The question comes one move too late ;) 
+
+as for h3, the shape move is h2.];W[gq];B[io]C[A: If you had played j12 on the other side, protecting this cut wouldnt be necessary]
+;W[iq]C[A: slow];B[jq]C[[DP This felt correct as it also helped defend the weak belly of my O4 stones?\]
+
+A: necessary, and sente, so no question about this];W[hr];B[oh]
+;W[pi];B[oi];W[pj];B[oj];W[ol]C[[DP Again I felt this had achieved something by extending the wall and so building pressure on the 2 weak W groups\]]
+;B[nc]C[[DP This seems to just allow W to make shape and stabilise his top stones.  How should I have continued the attack?\]]
+;W[mc];B[nb];W[mf]C[[DP W now has sabaki, no? and I helped him get it :-( \]]
+;B[kh]C[[DP Aiming at least to keep W separate\]];W[mh];B[li]
+;W[ib];B[hb];W[mb];B[rc]C[[DP This is slack I guess, allowing W to defend his other group.  He doesn't appear to need a second invitation!\]
+
+A: a move around m9 would both protect the black group and attack white severely. Upper side white doesnt look completely alive yet. M16 and L18 could stir up something.]
+;W[jr];B[kq]C[[DP A classic mistake of following W around the board? Tenuki to attack central stones better?\]]
+;W[kr];B[lq];W[mr];B[nr];W[mq];B[mp];W[cn]C[[DP Shows up my misstake of not playing C6 earlier myself\]]
+;B[bo];W[bi];B[bh];W[bm];B[ak];W[ah];B[am];W[bl];B[al];W[bg]
+;B[bf];W[cg];B[dg];W[cf];B[be];W[bc]
+(;B[df]C[[DP Was worried about W push-through at F16, although suspect I should not have been\]]
+;W[ik];B[hl];W[il];B[hm];W[je];B[ll]C[[DP Is there a way to continue the pressure? W seems to make 2 eyes rather easily now\]]
+;W[lj];B[mj];W[lk];B[mk];W[kl];B[kj];W[kk];B[ki];W[lm];B[ml]
+;W[em];B[jm]C[[DP This is a bad move now that W is alive, no?\]]
+;W[jl];B[sn]C[[DP Are these the biggest moves remaining?\]]
+;W[rn];B[so];W[sm];B[sp];W[rm];B[sf];W[rf];B[se];W[sg];B[sd]
+;W[rh];B[ka]C[[DP Is there any hope left for B?  It all seemed to be yose from now on in, where B is always going to suffer playing H4 against W! This move I thought could connect either side, but I missed the threat of J19 connecting to F18. Was there a way to attack anything to give me a chance in this game?\]]
+;W[ia];B[ha];W[na];B[ob];W[if];B[eb];W[ec];B[fa];W[db];B[ea]
+;W[da];B[ga];W[ba];B[kf];W[ke];B[lf];W[le];B[ci];W[bj];B[ce]
+;W[ag];B[af];W[ai];B[ii];W[ij];B[lr];W[ls];B[nq];W[aq]C[[DP W has made me pay dearly for my earlier mistakes here, and I screw up yet again!\]]
+;B[ap];W[cp];B[co];W[bp];B[ms];W[fh];B[fg];W[eh];B[dh];W[gg]
+;B[hg];W[gi];B[gf];W[oa];B[pa];W[ma];B[pb];W[ne];B[km];W[mn]
+;B[nm];W[im];B[in];W[fd];B[fe];W[on];B[nn];W[lg];B[ej];W[ek]
+;B[fi];W[kg];B[jg];W[ig];B[om];W[pm];B[ok];W[pk];B[ic];W[kb]
+C[[DP At least I spotted W mistake here and reduced deficit slightly - realistically I was already nearly 20 points behind. This gave me 10 points back?\]]
+;B[fj];W[gk];B[jb];W[la];B[ja];W[kc];B[oo];W[gm];B[en];W[fn]
+;B[eo];W[ks];B[bk];W[cm];B[gn];W[fm];B[nl];W[pl];B[nh];W[mi]
+;B[ao];W[id];B[he];W[ie];B[ad];W[bd];B[ac];W[ab];B[ae];W[jf]
+;B[jh];W[gl];B[hn];W[rp];B[po];W[ro];B[sq];W[rd];B[ni];W[hf]
+;B[nf];W[mg];B[hh];W[aj];B[an];W[re];B[sc];W[ji];B[gg];W[ep]
+;B[ln];TW[aa][ca][bb][cb][lb][lc][jd][kd][ld][md][me][kf][lf]
+[qg][rg][qh][sh][qi][ri][si][qj][rj][sj][jk][qk][rk][sk][cl]
+[dl][el][fl][ql][rl][sl][dm][qm][qn][bq][cq][hq][ar][dr][er]
+[fr][gr][ir][as][bs][cs][ds][es][fs][gs][hs][is][js]TB[ia][qa]
+[ra][sa][ib][qb][rb][sb][oc][pc][de][ee][ef][ff][eg][eh][fh]
+[ei][nj][nk][lm][mm][jn][kn][mn][jo][ko][lo][mo][no][jp][kp]
+[lp][op][mq][oq][pq][mr][or][pr][qr][rr][sr][ns][os][ps][qs]
+[rs][ss]C[White: 56 territories + 5 prisoners + 5.0 komi = 66
+Black: 49 territories + 9 prisoners = 58
+Result: W+8]N[RESULT])
+(;B[ik];W[ij];B[lk];W[fd];B[fe];W[ef];B[ee];W[df];B[eh]C[[DP I guess I shouldn't have been worried\]]
+))
+(;B[hj];W[gi];B[hi]C[A: B gets influence, W is still in trouble.]
+)
+(;B[ii];W[gh];B[ig]C[A: White is in big trouble. No eyes yet and B is building nice influence.]
+))
+(;B[cn];W[dm];B[cm]C[[DP Looks much better for B\]]))
+(;B[ci];W[ck];B[di];W[cn];B[bo]C[A: Maybe this is too easy on white]
+))
+(;B[dc];W[cd];B[de];W[db];B[eb];W[cb];B[ec];W[cf];B[fd]C[[DP This at least looks consistent with the P16 wall, although H17 is too close\]]
+))

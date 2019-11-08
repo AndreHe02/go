@@ -1,0 +1,120 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.16]
+
+GN[AI vs Me]
+PB[DavidH]
+BR[16k]
+PW[AI]
+KM[6.5]
+RE[W+3.5]
+RU[Japanese]
+
+C[Hi, my name is Tomas and I will be reviewing your game.
+
+See comments I have left at particular moves that caught my attention and then return here to read general comments about the game bellow.
+
+
+
+You seem to play a lot of contact moves. It is easy to hurt your own position with these. The general rule is not to use them unless you have a specific reason and know that it is a situation that requires a contact move. You can read more about contact moves here:
+http://senseis.xmp.net/?Tsuke
+
+I would recommend reading Opening Theory Made Easy. It is a great, accessible book on opening, where you seem to be a bit lost. It also has some chapters about shape that might help you get better. 
+
+You have done a few reading mistakes. Reading needs a lot of practice, I would recommend doing some tsumego. It might also help you with shape.
+
+I hope you find this review useful.
+
+Best wishes,
+TM];B[cd];W[qq]
+(;B[qd]C[Unusual opening.];W[cq];B[cj]LB[ec:B][cg:A][dj:C][cn:D]
+[dp:E]C[This looks strange. You should allways ask yourself what purpose does the stone serve. There are 4 main reasons to play a stone: territory, infuence, atack and deffence.
+
+If you were aiming for territory on the left side, then stone should have been closer to the corner (at A maybe), as the left side is still pretty much open now. The usual territorial way of play from a 3-4 stone is to enclose (e.g. at B), but in that case, you might want the enclosure to face your stone (see variation on move 3).
+
+If you were aiming for the influence, then a high stone (at C) might be better (general rule: third line for territory, fourth line for influence).
+
+Here I would just approach the opponents corner (at D or E).]
+;W[fc];B[ec]LB[dc:A][hc:B][ed:C][df:D]C[Again, somewhat unusual. A and B are common answers here, C and D are also possible and would work with the stone at C10.]
+;W[ed]
+(;B[dd]LB[dc:A]C[This is a mistake. You shoul play at A.]
+(;W[nc]
+(;B[oc];W[od];B[pd]C[Again.];W[jq];B[qj]C[This is OK, although it seems a little slow to me. I would rather approach the down-right corner.]
+;W[dc];B[eb];W[ee];B[ef]C[This is a mistake. I am not sure what is the intention behind this move. If it was to attack the white group, then it shold have been around H17 to prevent it from getting a base. If it was to protect the left side, then it should have been around C14. But that is very slow. Here I would rather approach the down-left corner.]
+;W[pc];B[ob];W[oe];B[of]C[The same as move 19.];W[db]
+(;B[ea]C[This is bad, see variation.];W[da];B[cc];W[fb];B[cb]
+
+(;W[nb];B[ca];W[qb];B[qc];W[pb];B[pe];W[eg];B[df];W[eh]
+(;B[dg]C[Slow. I would approach a corner. Or maybe split at F14 and attack the group that white does not protect (see variations).]
+;W[og];B[pg];W[rc];B[rd];W[sc];B[sd];W[rb]
+(;B[oh]C[Slow. Approach a corner. Or at least play O14.];W[gq]
+;B[co]C[Good, although it would be even better if this move was played sooner.]
+;W[dp];B[do];W[cp]
+(;B[bo]C[Little slow. I would approach the other corner instead.]
+;W[mq];B[qo];W[pp];B[po];W[qp];B[ro];W[hd];B[gf];W[ej];B[di]
+;W[ei];B[dh];W[dl];B[dk];W[if];B[ek];W[gi];B[ff];W[bp];B[gk]
+;W[hj]
+(;B[hk];W[hf];B[ik];W[jh];B[kk]TR[hk][ik]C[Last three moves did not really do anything. They build no territory, attacked no weak group and almost did not reduce opponent's potential, as the area was open from two sides and could have been reduced anytime. See variations on move 75.]
+;W[gn];B[fo];W[go]
+(;B[gm]C[This is a very bad shape...];W[fn]C[... see?];B[eo]
+;W[fp];B[em];W[no];B[in];W[jo];B[ln];W[nm]
+(;B[om]C[Bad shape again.];W[on];B[pn];W[pm];B[ol];W[rp];B[lh]
+;W[lg];B[ng];W[mf];B[ne];W[nd];B[me];W[lf];B[le]C[You need to connect here. See variation.]
+
+(;W[kd];B[ke];W[kc];B[ie];W[ge];B[fe];W[he];B[je];W[gg];B[hh]
+;W[hg];B[ii];W[kf];B[nl]TR[ne][of]C[You need to connect the triangled stones. See variation.]
+
+(;W[gh];B[ij];W[so];B[sn];W[ao];B[an];W[lo];B[mn];W[fd];B[nf]
+;W[kh];B[id];W[ic];B[oo];W[op];B[io];W[ip];B[hp];W[ho];B[fm]
+;W[li];B[mh];W[ji];B[kj];W[ki];B[mi];W[lj];B[lk];W[mj];B[nj]
+;W[mk];B[ml];W[im];B[hm];W[jl]
+(;B[jk]TR[in][io]SQ[ij][kj][ik][kk]C[This move is not needed here. It gets you no points and the stones that I marked with squares cannot be separated anyway as K9 and K10 are miai for connection.
+
+You could have saved the triangled stones and captured two white stones in the process. The score estimator says B+1.5 in the other variation, so there was still a chance to win the game.]
+;W[hn];B[jn];W[kn];B[km];W[jm];B[kl];W[ap];B[bn];W[sp];B[rn]
+;W[nn]
+(;B[mm];W[mo];B[il];W[jf];B[fj];W[ep];B[fg];W[fi]
+(;B[dj];W[rm];B[qm];W[nk];B[ok];W[fa];B[de];W[ql];B[pl];W[ld]
+;B[md];W[mc];B[gj];W[hi];B[ih];W[jd];B[ig];W[jg];B[mg];W[en]
+;B[dn];W[qf];B[pf];W[ri];B[rj];W[bk];B[cl];W[cm];B[dm];W[gd]
+;B[jj];W[jn];B[tt];W[gp];B[tt];W[jp];B[tt];W[mp];B[tt];W[lc]
+;B[tt];W[jc];B[tt];W[ni];B[oj];W[oa];B[tt];W[ob];B[tt];W[tt]
+)
+(;B[fa];W[hb];B[ga];W[gb];B[ha];W[ia]))
+(;B[mo];W[np];B[lp];W[ko];B[mp];W[lq];B[kp]
+(;W[kq];B[mm])
+(;W[mm];B[lm];W[kq])))
+(;B[hn])
+(;B[jn];W[kn];B[km];W[ko]))
+(;W[nf]
+(;B[jf];W[jg])
+(;B[kg];W[jf])))
+(;W[nf];B[kf];W[kg]TR[le][me][ne][kf]C[Triangled stones are dead.]
+))
+(;B[pm]))
+(;B[fn]))
+(;B[nf]
+(;W[nd];B[lf]C[Reduction.])
+(;W[me];B[ne];W[nd];B[mf];W[le]))
+(;B[jo])
+(;B[oo])
+(;B[eo])
+(;B[sr]))
+(;B[qo];W[pp];B[po];W[qp];B[lq];W[nq];B[lo]))
+(;B[nf];W[nd]))
+(;B[ff]
+(;W[ej];B[hc])
+(;W[hd];B[ej])))
+(;W[fa]))
+(;B[fb]
+(;W[gb];B[gc];W[fd];B[hb])
+(;W[gc];B[gb]
+(;W[hb];B[cc])
+(;W[cb];B[bb])
+(;W[bb];B[hc]))))
+(;B[fd];W[ee];B[gc];W[fb]TR[dc]C[A lot of complications is caused by the unnecessary cutpoint.]
+))
+(;W[eb];B[dc];W[fd]C[One variation.]))
+(;B[dc]
+(;W[gd];B[df];W[kc]C[Joseki.])
+(;W[nc];B[fd]C[Now the cut works much better.])))
+(;B[dq];W[qc];B[ec]C[Now the enclosure is facing your stone.]
+))

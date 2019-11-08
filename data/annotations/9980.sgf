@@ -1,0 +1,37 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.16]
+
+PB[creedfoxx]
+BR[11k]
+HA[2]
+PW[orute]
+KM[0.5]
+DT[2016-03-12]
+PC[IGS-PandaNet]
+RE[B+Resign]
+RU[Japanese]
+
+AB[dd][pp];W[pq]
+(;B[dc]C[white attached, which makes that area very urgent --- white's move is not good, but you should punish by answering locally (see variation)]
+;W[qf];B[mc];W[pj];B[cf]TR[dc][dd]C[this is very slow, becuase black is already strong (so you're playing too close to your own 2 stones. Again, you should continue in the lower right corner.]
+;W[gp];B[pn]LB[oq:A][qq:B]C[good, you play in the right part of the board. But generally, when white attach to your stone, the strongest move is hane, so either A or B (because that puts maximum pressure on their stone, since you remove one more liberty).]
+;W[cn];B[cl];W[cq];B[cp]LB[oq:A]C[this seems weird --- your're asking for a fight in the area where your opponent is strong. I'd rather just play A to settle that area.]
+;W[dq];B[dn];W[ep];B[eo];W[bp];B[bo];W[co];B[do]LB[pd:A][oq:B]
+TR[dn][eo]C[bad shape --- white is already connected, this area of the board is not interesting. A and B are big points.]
+;W[bn];B[bq];W[ao];B[fp];W[eq]LB[fo:A];B[fq];W[fr];B[gq];W[gr]
+;B[hq]C[this is a great success for black (white was tricked into playing very submissively)]
+;W[cj];B[di];W[dj];B[ei];W[ci];B[ch];W[ej];B[fi];W[fo];B[go]
+;W[fn]
+(;B[dm]C[this is a mistake --- these stones are too heavy, you can't save them, so should sacrifice (see variation)]
+;W[gn];B[ho];W[fk]TR[dm]C[white captures on a large scale, so the marked stone was clearly a bad move]
+;B[fl];W[gl];B[fm];W[gm];B[gk]C[oh, surprise ending. 
+
+white should of course continue to fight, see continuation]
+;W[bl]C[white can seek for connection];B[bk];W[ck];B[bm];W[dl]
+;B[al];W[em]LB[bi:A]C[white is safe. Black can save some stones at A, but this move is gote and not big enough, so at the moment you should play elsewhere (see continuation)]
+;B[fj];W[el];B[hk]C[like this, black dominates the center.]
+)
+(;B[fl];W[em];B[el];W[dm];B[dl]TR[ci][cj][dj][ej][dn][do][eo]
+C[if it's like this, black is happy]))
+(;B[oq];W[or];B[nq];W[qq];B[qp];W[nr];B[mq];W[rp];B[ro];W[rq]
+;B[qn]C[in this particular variation, it's like white had invaded the 3-3. It's great for black.]
+))

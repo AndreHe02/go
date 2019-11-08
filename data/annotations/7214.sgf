@@ -1,0 +1,273 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+GN[review25]
+PB[LibraryEx]
+BR[4k]
+PW[Osami]
+WR[4k]
+KM[6.5]
+DT[2009-04-10]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[B+17.50]
+TM[1200]
+OT[2x30 byo-yomi]
+RU[Japanese]
+
+C[Hi, thanks for reviewing my game. I'm more interested in the variations than the actual outcome of this game. I'll specify when we reach the move. Please also leave some general comments on my overall gameplay (my fuseki, battle techniques, reduction techniques, expansion techniques, end-game etc). Thanks once again!
+
+Lib
+
+----
+
+Hello Lib,
+
+I guess you were playing black in this game. The sorts of questions you're asking about fuseki choices are subtle and difficult--I certainly don't have all the answers--but I'll do my best to help you. I'll make some general comments at the end.
+
+-- Alex]PM[2]FG[259:];B[pd];W[dp];B[pq]
+(;W[cd]C[My 3-dan friend once told me that the komoku should not be facing the opponent unless you are black, in which case the fuseki will be Black Q16, R4, P3.
+
+Alex: According to traditional theory, your friend is correct (for example, Kajiwara Takeo talks about this sort of thing in his excellent book "The direction of play"). But it actually doesn't make a big difference to the result of the game, and some pros do try this move from time to time. (There are 149 pro games with this position in the GoGoD database.)
+
+So we might say that white C16 is "bad style" according to some people, but it's not a serious mistake.]
+;B[ed]C[I expected a pincer.
+
+Alex: Compare this position with the variation.]
+(;W[ec]C[Alex: A white pincer wouldn't be so effective here: see the variation.]
+;B[fc];W[dc];B[fd];W[cg]C[C13 felt too far for white. Is there any way for black to exploit the weakness?
+
+Alex: Right now, no, there isn't an immediate punishment. But later in the game white's position might appear thin. I'll point this out when we get there.]
+;B[jc]LB[jd:a]C[Alex: It's hard to choose between black K17 amd K16, but for my taste I'd prefer the high move (K16).]
+;W[qj]C[It felt too far to be threatening, so I ignored it.
+
+Alex: This was a lost opportunity. You have a chance to do two things at once: close the bottom right corner, and push white towards your strong position. See the variations to the next move.]
+
+(;B[fq];W[hq]C[would the variation be better? If so/ if not, when should I use it? when the bottom right is white's? or in this case when black has a low position at the bottom right? or when black has ahigh position at the bottom right? etc...
+
+Alex: In this case, I think you made the right choice considering the weakness of white C13. I've added some more variations for the alternatives.]
+
+(;B[cn];W[fp];B[gp];W[gq]C[Which is the correct move for black (C3 or C4)? How should white exploit the wrong move?
+
+Alex: This is a difficult family of joseki!  I think the difference is that C3 gives white a choice of which side to block, but C4 leaves white with less choice.  I don't think either move is "wrong", but C4 is more popular because it's easier to understand.]
+
+(;B[cq]
+(;W[eq];B[cp];W[cl]C[Alex: I think white C8 is a mistake.  It's hard for white to build a big territory on the left, because of the weak move at C13.  Black could invade at almost any point on the "C" line.  The bottom right corner is more urgent.]
+
+(;B[qo]LB[qm:a][qg:b]C[Since white has stones at both the bottom and right, I was afraid of any severe attacks on the bottom right corner. Is black R5 too slow? Is there a better move?
+
+Alex: You picked the most important area of the board.  But R5 is slack, as it doesn't put any pressure on white R10.
+
+At the moment white could make a two-space extension on either side ('a' or 'b').  You'd like to take away one of those extensions.  Therefore you should play R6 instead of R5.]
+;W[qf]
+(;B[pf]C[Alex: The joseki variation you chose is a good one to know--you can force white into an overconcentrated position.
+
+However, in this position the two white stones are weak.  Therefore you want to choose a more patient joseki, looking for a chance to invade later.  See the variation.
+
+You should try to make the opponent overconentrated in positions where they're already strong.  I'll add a variation to the next move to show what I mean.]
+
+(;W[pg]C[Alex: see variation.];B[qg];W[pe];B[of];W[qe];B[oe]
+C[I was expecting this variation:
+
+Alex: You mean white R12 for the next move?  Your judgement is correct: for white to follow that joseki would be a disaster.  Therefore white has to try something different!]
+
+(;W[rg]C[Is Black R12 a better response?
+
+Alex: I thought maybe white should play R16 first then come back to S13: see variation.
+
+Black R12 is an interesting idea.  Maybe black can afford to give up the corner--I've added a variation for this.]
+
+(;B[qd];W[qh];B[lq]C[Alex: Good, this is very big.  I'd say black is clearly ahead already.]
+;W[qm]
+(;B[je]C[Alex: It's a good idea, but I think you can play on a larger scale: E13!]
+;W[eg]
+(;B[ce]C[I tried to exploit the corner since the C13 is too far, but I didn't know how to do it.
+
+Alex: You left it a little bit too late--now it's difficult!  But see the variation for an idea.]
+;W[be];B[dd];W[bc]C[Alex: At this point you should leave the position alone, hoping to invade around B11 later.]
+;B[df];W[dg]C[Black helped white solidify his position. Very bad for black, since now the C8 stone is excellently placed.
+
+Alex: Yes, your judgement is correct!  Keep on thinking in this way, and you will surely improve.]
+;B[dl]C[can white counter-attack?
+
+Alex: No, I don't think so.  (See variations to next move.)]
+
+(;W[dk]C[Alex: I didn't make many comments for the rest of the game, because you're already clearly ahead at this point.  I've answered your specific questions where they come up: scroll ahead to moves 75, 101,149, 228 and 233.  Then go to the end for general comments.]
+;B[el];W[ek];B[fo];W[ep];B[do];W[eo];B[en];W[fn];B[fm];W[gn]
+;B[fk];W[ei];B[cm];W[ck];B[lo];W[fj];B[ff];W[gk];B[bl];W[bk]
+;B[bm];W[fl];B[ak];W[gm];B[ai];W[bh];B[em];W[lf]
+(;B[le]C[Can white do better?
+
+Alex: Yes, I think M15 is a mistake.  A shoulder hit is often a better way to defend territory--try N15 instead.
+
+(Compare this with the position at move 149.)]
+(;W[og];B[mf];W[mg]
+(;B[kf]C[Black miscalculated.];W[nf];B[me];W[ne]C[Alex: Here you can do better by sacrificing three stones.  See the variation for the next move.]
+
+(;B[od];W[nd];B[nc];W[md];B[mc];W[ld];B[lg];W[lc];B[lb];W[kb]
+;B[mb];W[kc];B[jb];W[kd];B[ke];W[ka];B[jd]C[Alex: Later in the game, white played K19, which was a small mistake.  Can you see white's best move in this position?  I'll put it in as a variation for move 104.]
+;W[mh];B[pl]C[Can white counter attack?
+
+Alex: It's complicated, but I think white loses the capturing race.  On the other hand, black is ahead and doesn't need to fight.]
+
+(;W[ql];B[on]
+(;W[rn]C[Alex: see variation.];B[ro];W[pk];B[ol];W[jq];B[jp]
+;W[ip];B[jo];W[kr];B[lr];W[io];B[kq];W[jr];B[er];W[fr];B[dq]
+;W[go];B[jm];W[re];B[rd];W[sd];B[sc];W[se];B[rb];W[so];B[sp]
+;W[sn];B[rq];W[ls];B[ms];W[ks];B[nr];W[dr];B[cr];W[es];B[qn]
+;W[rm];B[nj];W[oi];B[ni];W[nh];B[oj];W[pj];B[jj];W[li]
+(;B[lj]C[Something didn't feel right for black. Is there a variation where white kills something and invades into black's territory?
+
+Alex: I can't see a way to kill anything! but white L10 next causes some trouble.  Instead of M10, try M9.  (Compare this with the position at move 75.)]
+
+(;W[ok];B[nk];W[kj];B[kk];W[mj];B[lk];W[mk];B[ml];W[mi];B[nl]
+;W[ki];B[gh];W[ih];B[ig];W[hh];B[hg];W[ij];B[ik];W[ji];B[jk]
+;W[gi];B[fh];W[hk];B[fb];W[eb];B[ea];W[cb];B[da];W[ja];B[ia]
+;W[ef];B[ee];W[fg];B[gg];W[cs];B[br];W[bs];B[eh];W[dh];B[la]
+;W[ng];B[jh];W[kh];B[jg];W[cf];B[de];W[kg];B[fi];W[gj];B[di]
+;W[ej];B[bi];W[ci];B[ah];W[aj];B[bj];W[ag];B[al];W[pm];B[pn]
+;W[om];B[nm];W[im];B[in];W[hn];B[jn];W[il];B[jl];W[ar];B[aq]
+;W[dn];B[dm];W[ds];B[ca];W[ba];B[cj];W[dj];B[aj];W[as]C[Can black tenuki?
+
+Alex: Yes!  See variations to next move.]
+(;B[bp];W[db];B[fa];W[lh];B[lf]C[2 weak points for top black group: J18 and G14. Can white succeed in killing?
+
+Alex: No, I can't see any way.];W[gf];B[fe];W[ib];B[ha];W[hb]
+;B[ga];W[hf];B[he];W[tt];B[tt]TB[am][ap][bq][dn][ge][ie][ko]
+[mr][qq][sb][sq][an][bn][ao][bo][co][gb][gc][gd][hb][hc][hd]
+[ib][ic][id][gf][hf][if][jf][kl][ll][km][lm][mm][kn][ln][mn]
+[nn][kp][lp][mp][np][op][pp][qp][rp][ma][na][oa][pa][qa][ra]
+[sa][mo][no][oo][po][mq][nq][oq][nb][ob][pb][qb][ns][os][ps]
+[qs][rs][ss][oc][pc][qc][rc][or][pr][qr][rr][sr]TW[aa][ac][ae]
+[bg][cc][ch][di][er][fk][fo][fq][hj][hm][ho][iq][qg][sg][sm]
+[ab][bb][ad][bd][af][bf][fs][gs][hs][is][js][gl][hl][gp][hp]
+[gr][hr][ir][hi][ii][oh][ph][pi][qi][ri][si][qk][rk][sk][rf]
+[sf][rh][sh][rj][sj][rl][sl]C[Lib: Thanks once again for reviewing!
+
+Alex: You're welcome.
+
+I know that you asked for general comments on middlegame and endgame play.  It's hard to make such comments based on this game, because your opponent didn't put you under much pressure or punish your mistakes severely.  It looks as though you were in control of the game all the way through.
+
+Therefore I chose to focus on the opening for this review.  I've made a few comments about the endgame, and tried to answer your questions by including some variations.  But most of all I hope this review will help you learn to think about joseki choice: assessing why one joseki is better or worse than another based on the whole-board position.  This involves learning to assess which stones are weak and strong, and the balance of territory and influence.
+
+I suggest you should go back and look once more at the positions after moves 12, 23, 25 and 37.  Also, be careful with contact moves for defending territory (moves 75,149)!
+
+For your next review, you'll probably get more useful feedback if you submit a game against a stronger opponent, or a game involving more difficult fighting.  Perhaps you should read again the guidelines at http://gtl.xmp.net/about/faq#Section2.2.]
+)
+(;B[tt];W[bo]
+(;B[bp]C[Alex: This is a mistake.  C5 instead is safe.];W[co]
+)
+(;B[co]C[Alex: Black has an eye and white doesn't, so there is no problem.]
+;W[bp];B[bq];W[bn];B[an])))
+(;W[kj]C[Alex: I think white should play this first.]
+(;B[kk];W[mj];B[lk];W[mk])
+(;B[lk];W[kk])))
+(;B[lk]))
+(;W[ma]C[Alex: This move gains two points for white in sente.]
+
+(;B[na];W[la];B[ob])
+(;B[la]C[Alex: Black can't block this way.];W[oc];B[na];W[ob]
+)))
+(;W[pm]
+(;B[ql]C[Alex: If you want to be aggressive, this is the way.  But if you count the score first, you'll find that there's no need to start this fight, you can win by playing simply.  Try P8 instead (variation).]
+;W[ol];B[rm];W[rn];B[rl];W[qn];B[ro];W[sn];B[om];W[on];B[nm]
+;W[nn];B[nl];W[ok];B[po];W[pn];B[mn];W[mm];B[ml];W[mo];B[lm]
+;W[no];B[mp])
+(;B[ol];W[ql];B[om])))
+(;B[nd];W[od];B[oc];W[oe];B[nc]C[Alex: How do you tell whether this is better?  Looking at the area between K19 , L15and $16, black has 26 points of territory, and white has gained three prisoners plus two points.  Net score: black+21.
+
+In the game, after move 21, black has only ten points in the same area (assuming that white find the best followup move--go to move 100 in the game and look at that!)
+
+So this variation is 11 points better than the game.]))
+(;B[nf]TR[od][me]C[Is this the best response for black?
+
+Alex: Not quite, it's bad shape, because it leaves weak points at P16 and N15.  Try N15 instead (variation).]
+)
+(;B[me]C[Alex: The solid move is better.]))
+(;W[me]C[Alex: Yes, this is better for white.];B[mf];W[ke];B[ld]
+
+(;W[kf]C[Alex: This would be a good result for white.  There's still bad aji at P16.]
+;B[kd];W[rd]C[Black needs to be careful here!];B[rc];W[od]C[Alex: This looks interesting...]
+)
+(;W[kd]C[Alex: This gets very complicated--I can't tell whether or not it works!]
+;B[kf]C[Alex: Can black try to capture L15?  It's too complicated for me to read out...]
+;W[jd]LB[id:a][ie:b]C[Alex: Black could try J16 or J15 next.  It's hard to tell what would happen.]
+)))
+(;B[me];W[le];B[md]))
+(;W[dm]C[Alex: I think this doesn't work.];B[cm]
+(;W[dk];B[bl])
+(;W[ck];B[fr];W[er];B[fo];W[ep];B[em])))
+(;B[ch]C[Alex: This looks interesting.  I don't think you need to invade yet, because you're already winning the game--but something like this could cause trouble later.]
+;W[bh];B[bi];W[ci];B[dh];W[bg];B[fr];W[er];B[fo];W[ep];B[cj]
+;W[di];B[dj];W[ei];B[ej]C[Alex: Try to isolate C8.]))
+(;B[eg]))
+(;B[qh]
+(;W[qd]
+(;B[pc]C[Alex: I think R17 is better--see variation.];W[ph]
+C[I was afraid of this.])
+(;B[qc]
+(;W[pc];B[od];W[rc];B[qb];W[rb];B[rh];W[rf];B[oh];W[pb];B[kp]
+)
+(;W[rh];B[rd];W[re];B[se];W[rf];B[pc])))
+(;W[rh])))
+(;W[qh];B[rg];W[rh];B[og];W[ph];B[qd];W[rf];B[re];W[sg]
+(;B[jf]C[big moyo for black, white over-concentrated.
+
+Alex: Yes, it's an ideal result for black.  (But instead of K14, what about E13?)]
+)
+(;B[eg]C[Alex: Here, white regrets C13.]))
+(;W[qd];B[qc]
+(;W[rg]C[Alex: I don't think white can cut--see variation.]
+;B[qh];W[rh];B[rd];W[re];B[se];W[rf];B[pc])
+(;W[pc];B[od];W[rc];B[qb];W[rb];B[rg];W[pb];B[ph]C[Alex: Thanks to G4, the ladder works for black!]
+)))
+(;C[Alex: If we imagine a different position at the bottom right...]
+;AB[oq][po][pn][pm][pl][ok][pj][qn][nk][ro]AW[qp][qo][qm][ql]
+[pk][oj][qk][rn][rm]AE[pq][qj][pf]C[Alex: Here, black wouldn't want to invade at R12.  Therefore making white overconcentrated would be a good plan.]
+;B[pf];W[pg];B[qg]))
+(;B[nd]C[Alex: Now white needs to worry about the weak point at R12.  If white defends, black gets sente...]
+;W[rd];B[qc];W[ph];B[mq]C[Alex: This leads to a simple game in which black has more territory than white.]
+))
+(;B[qn]
+(;W[qf];B[nd])
+(;W[qg];B[qe])))
+(;W[cp]C[Alex: Yes, the problem with black C3 is that white might try this.  Now black can't take the corner but has to play for influence.]
+
+(;B[ep];W[fo];B[eo];W[eq];B[dq];W[fr];B[do]C[Alex: There are lots of possible variations from here, it's too complicated for me to understand!]
+)
+(;B[dq]C[Alex: This is no good.];W[eq];B[er];W[fr];B[bp];W[bo]
+;B[bq];W[co];B[dr]C[Alex: A terrible result for black!];W[po]
+)))
+(;B[cp]C[Alex: Yes, the variations you showed are correct, white will usually play E3 but can sometimes try C3.]
+
+(;W[eq]C[Alex: This gives you the same position as in the game--I guess that's what you wanted.]
+;B[cq])
+(;W[cq]C[Alex: The continuation from here is complicated!  Black gets a lot of profit, but white builds influence.  Since white's stones at C13 and R10 are in low positions, it's not a good result for white in this game.]
+;B[ep];W[fo];B[dq];W[do];B[eo];W[en];B[eq];W[dn];B[fn];W[go]
+;B[co]C[Alex: From here there are a few variations (white C7 or D8), but black takes the corner in each case.]
+;W[cm];B[bm];W[dl];B[bq];W[cr];B[br];W[bl];B[bn];W[ho];B[fm]
+;W[dk])))
+(;B[fo]C[Alex: This move is good for building outside influence. in this position it doesn't work because Q3 is in a low position, and because white R10 reduces the value of the influence. But compare the variation.]
+;W[dn];B[ip];W[hp];B[ho];W[iq];B[jp];W[jq];B[kp];W[lq]
+(;B[gp])
+(;B[mo]))
+(;C[Alex: If we change the position here...];AB[de][dd][ec]
+[pp][pj]AW[ce][cf][db][ci]AE[cg][fd][fc][ed][qj][pq]C[Alex: Here, black is well set up for building influence, so F5 becomes a good move.]
+;B[fo];W[dn];B[ip];W[hp];B[ho];W[iq];B[jp];W[jq];B[kp];W[lq]
+;B[mo])
+(;B[cq];AW[cf]AE[cg]C[Alex: If white had played the joseki move at C14, then playing on the left side isn't so interesting (there's no weakness to attack).  So here I'd prefer to dive into the corner directly.  But I'm not totally sure about that; a stronger player might have some different ideas.]
+;W[dq];B[cp];W[do];B[dr];W[er];B[cr];W[eq];B[cn];W[kq];B[qn]
+))
+(;B[qn]C[Alex: This is the gentle option, putting a little bit of pressure on white.]
+)
+(;B[ql]C[Alex: This is a more aggressive style.];W[qf]C[Alex: The formation on the right side is very common. Do you know the joseki from here?]
+;B[qh]C[Alex: Black has a few options, but this is the most popular choice.]
+;W[of];B[nd]
+(;W[pi]LB[qe:a][rd:b]C[Alex: Now black can choose 'a' or 'b'.]
+
+(;B[qe];W[rf])
+(;B[rd];W[ph]))
+(;W[rd]C[Alex: This way leads to a trade...];B[pi])))
+(;W[hd];B[ef];W[cf];B[eh];W[ch];B[cc];W[bc];B[dc];W[bb];B[kd]
+C[Alex: This is just one possible variation out of many. But you see the basic idea: black can launch a good counter-attack against white's pincer stone.]
+))
+(;W[dc];AB[de]TR[dp]C[Alex: In this position, white will often play a pincer because the stone at D4 gives support to the attack.]
+))

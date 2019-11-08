@@ -1,0 +1,453 @@
+(;FF[4]GM[1]SZ[19]AP[SGFC:1.15]
+
+PB[unkown]
+PW[Michael]
+WR[8k]
+KM[6.5]
+DT[2005-10-07]
+RE[B+4.5]
+
+C[This is a game i played on the TOM website, i lost on the white side by 4.5. Can
+ you point out any moves that i have stupidly made and maybe point out a much bett
+er move?
+thanks.
+
+xxc : hi
+i'll do the review
+i try to stay as simple as possible, maybe it is the answer to many of your questi
+ons ... simple, try to stay simple :)
+go is already awfully difficult to handle, so no reason to make it harder
+
+i'll follow the flow of the game, just pointing out "better" moves in my point of
+view
+
+bink: I am commenting the review remarks xxc gave. My comments are not
+so much about Go but more about how to write a review. All variations in this
+file should be considered as comments by xxc.
+
+bink: Your review is good and helpful if Michael looks 
+at the right places. But it is overloaded. The sgf-file
+contains far to many variations. I am sure: with less 
+work on your side your review would be more help 
+to Michael.
+
+Let me first give some general remarks about
+your review in more detail:
+
+1) You put a lot of effort into your review.
+A lot of your remarks are worthwhile to be given
+and you do find a lot of places were you 
+show the white player a better option.
+
+2) But: you comment on to many moves! Look first: 
+what are the main types of mistakes White is doing 
+over all (like: empty triangle or "forhand" moves 
+which in reality only make the position worse). 
+Then comment only on the moves which belong to those 
+main types of mistakes (and in addition on moves
+which are really big mistakes). 
+You should comment on at most 20-30 moves. This way
+Michael has a better chance to work on his main 
+mistakes. The way you did it: You give him to much 
+material. He has hardly
+any chance to find out, which of your comments are
+really important and which are not so important.
+Tell Michael his main mistakes at the beginning of the
+sgf file.
+
+3) A mere technicality: Sometimes you make variations 
+which only consist of one (alternative) move. Avoid this.
+It makes the sgf-file difficult to handle. You can give 
+the same information by 
+a) either typing the words "a better move would be at F6"
+   (F6 just being an example)
+b) or by marking the point and saying "a better move 
+   would be to the marked point"
+I found it awfully difficult just to handle that sgf-file 
+with its more then 100 varitions.
+
+4) Sometimes you just show the better move with no 
+explanation. I would recommend: If you consider it
+an important thing: Give an explanation why your move is 
+better (or why Michael's move is bad). If it is not so 
+important, just dont mention your move. It helps 
+reducing that enormous amount of information.
+
+5) If you find a move of Michael good, tell him so
+at that move.
+It is better for Michael, if he sees he has also
+done good moves.]
+(;B[pp];W[cp];B[pd];W[dc];B[eq]
+(;W[ce]C[xxc : not a good idea to let the lower corner];B[do]
+;W[co];B[dn];W[cn];B[dm]
+(;W[dq];B[dr];W[np]C[xxc : dangerous for the corner]
+(;B[cm]C[Bink: the reviewer seems to consider the black move B3 as more
+dangerous to white. But this is not the case. 
+Blacks move C7 is excellent! After this move the
+white stones are sealed in at the corner. Black
+has excellent thickness. Getting sealed like 
+that in the
+opening is something every player should avoid.]
+(;W[dp]TR[cp][dq]C[xxc : this is bad shape];B[ep];W[cr]
+(;B[er]C[xxc : small];W[bq]LB[bc:2][ap:1]C[Is this opening beneficial? Because i l
+ost the first hand to black.
+
+xxc : it's not so bad
+w already have a short lead no ?
+10 pts at 1 and 15 at 2
+b still have nothing
+depends now on how b deals with his strong wall
+
+bink: The opening is horrible for white.
+He is ahead in secure territory but blacks thickness
+is overwhelming. Black should have an easy game
+after this. To get a small life in the corner 
+in exchange for so much thickness on the black side
+is a very bad result indeed. (Especially given the situation
+in the lower right corner)]
+(;B[oq]C[xxc : wrong side i think
+bink: You are very right with your comment. E.g. the 
+pincer you recommend for black is good. After the
+variation you give you should be able to see in what bad a 
+position white is after move 20.];W[nq];B[kq];W[po];B[qo];W[pn]
+;B[nr];W[op];B[pq]
+(;W[qn]C[xxc : it's not a threat against the corner, b can connect]
+
+(;B[qp]
+(;W[mm]TR[pj][ko]C[xxc : better to chose clearly a side ...
+bink: Very good comment! N7 has hardly any purpose. 
+There is no cut to defend. By the way: Black already
+lost part of his lead by now due to a few slack moves.
+White is building up power to neutralize blacks 
+thickness.]
+(;B[mr]C[xxc : corner is alive no need to connect];W[qi];B[jd]
+CR[hc][qf][di];W[ip]C[xxc : why ?
+w is not behind to search such a difficult path]
+(;B[lo]LB[no:3][oo:4][mp:2][mq:1]
+(;W[mq]LB[no:3][oo:4][mp:2][lq:1]TR[np][nq]C[xxc : bad shape
+bink: Of course you are right in critizising whites move.
+It is very bad indeed. The exchange white N3 Black M3
+worsens whites position by the reason you have given
+and it strengthens blacks! The "knight move" connection
+Black L3,M5 gets solid! If white really understands
+how wrong this move is, he will become 2 stones 
+stronger. If I would have written the review I would
+have put a lot of effort into just explaining all the
+things which are bad with this move. You also put
+effort into this. But I am not sure, if Michael can
+filter the importance of this out of the many many
+places where you are giving comments. 
+Do I make myself clear?
+I would recommend for the future: Pick only a few 
+wrong moves explain why they are wrong, and I am
+sure the reviewed player will have more from your 
+review.]
+(;B[lq]LB[no:2][oo:3][mp:1]C[xxc : w group loose 1 liberty]
+
+(;W[ko];B[ln];W[fo]
+(;B[cg];W[eo]
+(;B[cj]LB[ip:B][eq:A]C[Are there any better moves to this? click B to continue.
+
+xxc : here there is a difficult fight
+the best you can do is searching for yourself each possible move, then keep only t
+he best (those who gave a good result) and then try to understand why
+
+i follow a lot of var ... and it's easy to follow a trap or to switch to an other
+result (ie b can let the A  to keep presure on the center and kill B)
+
+b should have take a clear lead here earlier (C13)]
+(;W[gq]LB[fp:A][gq:B]C[xxc : this one can work];B[gp];W[fp]
+;B[gr]
+(;W[hq]C[bink: xxc's move F5 is a good idea!];B[hr]
+(;W[ir];B[fq]
+(;W[go];B[fs]
+(;W[is]C[xxc : w group need eye space now
+bink: Whites move is sente against blacks group. None
+of the players realized that.]
+(;B[jp]
+(;W[cs]C[bink: H1 instead kills blacks group!];B[hs]
+(;W[qf];B[io];W[ho]
+(;B[jq];W[in];B[jo]
+(;W[hk];B[iq]C[was the two stone sacrifice nessecery?
+
+xxc : eye space is urgent here, no time for saving 2 stones]
+;W[hp]CR[hc][rd]
+(;B[jn]C[xxc : this one just made w stronger
+difficult to go on attacking this w group now, better to keep this move for latter
+ and have a big one elswhere right now];W[im];B[qd];W[hc];B[of]
+
+(;W[pg];B[hd]C[click B to continue]
+(;W[ic]LB[ic:B][id:A];B[id]
+(;W[kb];B[gc]
+(;W[gb]C[xxc : it is always difficult to change one's mind and direction of play
+
+with L18, w take a strong option to invade the side
+and now with G18 he tries to connect
+
+bink: xxc's comment is very good!];B[fb]
+(;W[hb]C[should i have given up the side and let black take it?
+
+xxc : let's see];B[fd]C[xxc : the problem now, is that corner becomes weak]
+;W[nc];B[ob];W[oc];B[pc];W[nb];B[pb]
+(;W[ge]C[xxc : to early, upper group still need support
+bink: I don't understand your comment. I don't
+believe whites move was to early. It is a Kikashi.
+White can strengthen his group afterwards.];B[gd]
+(;W[ec];B[fc]
+(;W[ef]TR[ca][de][fe][df][ff]C[xxc : difficult path here there is too much cut and
+ deep invade for b at C19];B[gg]
+(;W[fe]C[xxc : do not understand this one]
+(;B[he]
+(;W[eb];B[ga];W[ha];B[fa];W[dh]TR[ed]C[bink: xxc, there is a triangle there at E16. Did you put it there?
+If so: Explain also in words what you want to say.];B[ch];W[ej]
+;B[de];W[df]
+(;B[ed]
+(;W[ee]C[bink: Maybe the worst white move in the game. It is sente, but
+after the exchange whites position becomes much worse.
+Again I think Michael would become stronger by 
+understanding what is wrong (not every
+sente exchange is good!). before the exchange E15/D16
+white had one cut (C14) to worry about, after the exchange
+white has two cuts (C14,C16) and can not defend both!
+Big catstrophe! xxc, you have to point that out stongly to 
+Michael.
+
+White is nearly hopelessly behind now.];B[dd];W[cd];B[cf]LB[bb:1]
+[gd:B][ef:A][cg:C]C[Is the corner here more impor
+tant than the five stones trapped under it?
+
+xxc : yes
+A group is 10 pts, do not cut anything, B still have space and C is nearly alive
+corner is also 10 pts (5 stones) + pts (at least 2 eyes)];W[cb]
+;B[eh];W[di];B[dg];W[ok];B[lb]C[are there better ways to maneuver out of this mess
+?];W[lc];B[kc];W[jb];B[mc]
+(;W[mb];B[ld];W[la];B[lc];W[ne];B[ka];W[oe];B[ma]
+(;W[nf]C[i sacrificed the side for safety, is it really neccesary?]
+
+(;B[nn]C[bink: with his next three moves, blacks starts a very bad maneuver and 
+Michael finds the right answer, which makes the game 
+close again. I stop giving specific comments now and jump to 
+the endgame.];W[on]
+(;B[nm];W[mn];B[nl];W[mo];B[ml];W[lm];B[no];W[oo];B[mj]CR[be]
+[re][bf][bm][bn][rn]C[bink: xxc, did you put the red markers on this
+position? If so: explain what they mean to Michael.]
+(;W[lh];B[jk];W[jm];B[ji]
+(;W[lk];B[ll];W[kl];B[kk];W[fh];B[eg];W[hh];B[gh];W[hi];B[jg]
+;W[kh];B[jh]
+(;W[lj];B[mi];W[kj];B[jj];W[mh];B[nh]
+(;W[mg]TR[lh][mh];B[og];W[pe]C[i trapped the black piece inside my terroritory, bu
+t could i have cut a bigger piece along with it?
+
+xxc : b save what he can];B[gm]C[Click B to continue]
+(;W[gl]LB[gl:B][hm:A];B[fm];W[hm];B[pk];W[oj];B[pj];W[oi];B[pi]
+;W[oh];B[ol];W[ql];B[qk];W[rj];B[rk];W[qh];B[qm];W[rm];B[pm]
+;W[rl];B[ro];W[rn];B[ph];W[sk];B[rf];W[rg];B[re];W[na];B[la]
+;W[fl];B[el];W[dk];B[ek];W[fk];B[fi];W[fj];B[ck];W[ei];B[gi]
+;W[gj];B[hg];W[ci];B[bi];W[dl];B[cl]C[i made a huge mistake here, could i have won
+ if i captured his four stones?]
+(;W[dj];B[em];W[bn];B[bm];W[kn];B[lp];W[mp];B[lf];W[ds];B[es]
+;W[kg];B[kf]TR[ea][oa][be][me][bf][am][so];W[mf]C[bink: A nearly worthless endgame move. As 
+Michael asks for endgame explanations, I would tell 
+him that the value of the move is about 1 point in
+reverse sente and that e.g. B14 is much bigger. 
+(at least 8 points in Gote in the usual counting methodology).
+Just playing the right endgame move here could 
+Michael win the game.];B[qe];W[sg];B[oa];W[be];B[bf];W[gn];B[bc]
+;W[cc];B[ae]
+(;W[ad];B[da]
+(;W[ea]C[B to continue]
+(;B[bb]LB[ca:A][bb:B];W[ca]
+(;B[af];W[ba];B[bd];W[ab];B[jl];W[km];B[il];W[hl];B[ij];W[hj]
+;B[ki];W[li];B[me];W[nd]TR[md][am][so]C[xxc : b can't cut here]
+;B[md]
+(;W[am]LB[sf:B][am:A];B[al];W[an]C[xxc : more points here];B[bk]
+C[B to continue]
+(;W[sf]LB[sf:B][ih:A];B[se]
+(;W[sn];B[so];W[ih];B[ig];W[ks];B[lr]C[Black wins by 4.5 points.
+Were there any better ways for me to end the game? Like the procedure of my ending
+s, please give me some useful tips, thanks!
+
+xxc :ok :)
+i hope comments will be usefull
+
+my studie path (as it's clear you allready understand basics of the game)
+1 opening paterns
+2 corner paterns
+3 end games
+4 fight
+and loop on that grabing just 1-2 things each part
+each one may help you in other parts
+
+about end game : just have a look at first var
+
+found when end game might start is perhaps the key
+from my point of view, end game have 2-3 stages
+i'll try to show you on your game (sorry, but it is not really suitable for endgam
+e studie)
+move 35, 68 and 141all circles are endgame moves (the first to get there may gain
+something)
+
+overall comment
+nice game, not so much "stupid" moves as you say in your first comment :)
+mistakes in fight reading (but it's a really hard part to master), and some slow m
+oves
+try to give an easy line to your game, make strong goup before fighting, extend be
+fore invade ...
+play solid (not small), take care of your stone, first think about your own stones
+, are they all ok ? ... yes ... so can i attack something ? ... and it will be fin
+e in your coming games
+
+thank u])
+(;W[so]))
+(;W[ih]LB[sf:B][ih:A]))
+(;W[sf]LB[sf:B][am:A];B[se];W[sn];B[so];W[ih];B[ig]
+(;W[ls]LB[ks:B][ls:A])
+(;W[ks]LB[ks:B][ls:A];B[lr]C[Black wins by 22.5 points.])))
+(;B[ac]))
+(;B[ca]LB[ca:A][bb:B]))
+(;W[bb]))
+(;W[bb]C[xxc : easy way ?]))
+(;W[em]))
+(;W[hm]LB[gl:B][hm:A];B[fm]))
+(;W[ng]))
+(;W[ni]))
+(;W[ni]))
+(;W[ni]))
+(;B[no]))
+(;B[lg])
+(;B[no];W[oo];B[nn]))
+(;W[ng]))
+(;W[ld]
+(;B[mb];W[md];B[na];W[ma];B[la];W[ka])
+(;B[md];W[mb];B[le];W[la])))
+(;W[cf]C[xxc : safer i think]))
+(;B[cf]))
+(;W[ed]C[xxc : just here seems ok]))
+(;B[de]C[xxc : hard for w]))
+(;W[bf]))
+(;W[bf])
+(;W[ee]))
+(;W[eb]C[xxc better shape here];B[ec]C[xxc : wait for this to connect]
+;W[db]C[xxc : ok like that]))
+(;W[ld]))
+(;W[fc];B[gd];W[eb]
+(;B[jc])
+(;B[hb]
+(;W[ib];B[ga])
+(;W[fa]
+(;B[ib];W[jc]
+(;B[kc];W[jb])
+(;B[jb];W[kc]))
+(;B[jc]
+(;W[jb];B[ib])
+(;W[ib];B[jb];W[ha]C[xxc : nearly the same result than var 77.1 but with more trap
+ to fall in]))))))
+(;W[ld])
+(;W[nc]))
+(;W[gc];B[jc];W[jb];B[kb];W[ib]))
+(;W[id]LB[ic:B][id:A]C[xxc: diificult way])
+(;W[gd];B[he];W[ic];B[jc]C[xxc : this might be enough];W[lf]
+TR[ld][je]C[xxc : still that latter]))
+(;W[oi]C[xxc : seems bigger])
+(;W[jb]TR[mc][le][mf]C[xxc: threat to invade deeper or just reduce]
+))
+(;B[nd]))
+(;W[iq]C[xxc : saving the 2 stones gives no more eyespace for w group
+
+b can threat the whole group life now]))
+(;B[in]))
+(;W[jo]C[bink: xxc's suggestion K5 is very good! It is threatening
+the cut at M4! I am not sure if Michael can see that.
+Write some words of explanation!]))
+(;W[jo]))
+(;B[in]))
+(;W[jm]))
+(;W[fs]LB[fo:A]C[xxc : dead ?
+
+(b have to kill A ... and it's not so easy !)
+
+bink: This move F1 kills black. Reason: If black allows F2
+there are only 2 liberties left to black 
+(black cannot approach). So black has 
+not many liberties and white will win the capturing race.]))
+(;W[fq]
+(;B[fr];W[ir])
+(;B[ir];W[fr];B[fs];W[ds])))
+(;W[fq]
+(;B[fr];W[hr])
+(;B[hr];W[fr]
+(;B[fs];W[ds])
+(;B[hq];W[hp];B[go];W[gn];B[ho]))
+(;B[hq];W[fr]
+(;B[hr];W[hp])
+(;B[hp];W[iq];B[ir];W[ho]))))
+(;W[fp]LB[fp:A][gq:B]C[xxc : this var seems wrong (sgf pb ?)]
+;B[gp];W[gq];B[gr];W[hq]))
+(;B[gp]))
+(;B[gp]C[xxc : difficult for w now]))
+(;W[in]))
+(;B[jo]))
+(;W[in]))
+(;B[ko]))
+(;B[mq]C[xxc : better])
+(;B[kn]C[xxc : bigger]))
+(;W[ko])
+(;W[pi]))
+(;B[qi]C[xxc : erasing w strengh])
+(;B[kn]C[xxc : big moyo]))
+(;W[ko]C[xxc : eye space for w group and reduce b moyo]))
+(;B[kp];W[nn];B[pm]C[xxc : good result for b]))
+(;B[kp]))
+(;W[cr]))
+(;B[bq]))
+(;W[cr]C[xxc : no use to strenghten b here]))
+(;W[dn];B[hp];W[ci]C[xxc : good shape on  the side]))
+(;B[db]C[xxc : have a look here at the end of the game
+
+bink: Although the game just started you 
+give a varition on endgame considerations. 
+This is certainly not helpful. I know: Micheal
+asked if his endgame is ok, and you told him at another 
+place, that his game is not suitable for endgame 
+analysis. But: either you find a mistake in his(!)
+engame, then tell him so, or you find no mistake, then 
+tell him, that his endgame in this particular game is 
+fine as far as you can see.];W[pb];B[dc];W[pc];B[dd];W[pd];B[ob]
+;W[eb];B[oc];W[ec];B[od];W[ed];B[kb];W[ib];B[kc];W[ic];B[kd]
+;W[id];B[ka];W[ia]C[xxc : here is the way to underst
+and endgame (no more plays elswhere)]
+(;B[da];W[ea];B[oa];W[pa]LB[bc:A][gc:B][mc:C][rc:D]C[xxc : neutral
+now, just count
+
+w : B + D 24
+b : A + C 24
+
+then have a look at var 20.1 & 20.2
+
+w starts
+w 24
+b 20
+
+b starts
+w 20
+b 24
+
+dif is 8 pts !
+
+just have to do this with other shapes (go on)];B[gq];W[hq]
+;B[gp];W[hp];B[go];W[ho]C[xxc : from here];B[hr];W[ir];B[gr]
+;W[iq];B[is];W[js];B[hs];W[jr]C[xxc : and count each side dif from neutral like to
+p exemple];B[qh];W[qk]C[xxc :];B[ph];W[pk];B[oh];W[ok];B[ch]
+;W[ck];B[dh];W[dk];B[eh];W[ek];B[co];W[cr];B[do];W[dr];B[eo]
+;W[er];B[bp];W[bq];B[ap];W[aq];B[cp];W[cq];B[rj];W[bi]C[xxc : and so on ...]
+)
+(;B[pa];W[qa];B[oa];W[qb];B[ea];W[fa];B[da];W[fb]LB[bc:A][gc:B]
+[mc:C][rc:D]C[xxc : b first
+
+w : B + D 20
+b : A + C 24])
+(;B[jo];W[da];B[ca];W[ea];B[cb];W[oa];B[na];W[pa];B[nb]LB[bc:A]
+[gc:B][mc:C][rc:D]C[xxc : w first
+
+w : B+D 24
+b : A + C 20])))

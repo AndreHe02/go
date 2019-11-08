@@ -1,0 +1,56 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.17]
+
+PB[dmf]
+BR[12k]
+PW[Sabina]
+WR[2k]
+KM[6.5]
+DT[2011-01-20]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[W+Resign]
+TM[2700]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+C[Hello and thanks for reviewing my game :) I hope i can learn more about my mistakes and what areas of the game i should focus on improving.I left some comments in the sgf, i hope you don't mind. Again, thanks a lot for your time.
+
+dc: Hi, I'm dancor on KGS.  I'll mark my comments with dc.  The main thing that sticks out to me is the treatment of White's invasion in the lower left.]
+;B[pd];W[dp];B[pp];W[dc];B[fq];W[dn]
+(;B[jq]C[I know this is a mistake, k3 to j3
+
+dc: 1) Here I would recommend peeking at Kogo's joseki dictionary.  It's free online as a big sgf. bK3 is actually joseki. And although bJ3 is too, the most standard move is actually bD2.
+2) The more important thing is the logic behind the moves and the weaknesses.  Most moves have some drawback to them, some trade-off, and it is important to know what you are getting and what you are losing or risking.  bK3 leaves a likely later invasion point at H3.  The idea of pushing in to bD2 (then wC3) before playing bJ3 is to settle the Black group more, at the cost of giving up the opportunity to invade the corner later at bC3.]
+;W[jd];B[de];W[cd];B[ce];W[fd]
+(;B[dh]C[too high :)
+
+dc: This is usually considered too close as well: a two-space jump from a pair of stones with no enemy stones to the left or right of the jump.  I would expect a three-space jump here.  Without enemy stones around, the optimal jump is usually of a length one more than the height of the wall you are jumping from.
+
+The nearest line to this in Kogo's has wF16 instead at wE16, and then has the response of bC11 instead of the bD12 here.]
+;W[ck]
+(;B[bi]C[dc: It is correct that bB12 makes better shape -- a tall "table shape".]
+;W[qn];B[ql]C[dc: I prefer the more common and peaceful bO4 response; it seems to work with the bK3 stone.]
+;W[qq];B[qp];W[pq];B[op];W[rp];B[ro];W[rq];B[qo];W[nq];B[qg]
+;W[np];B[no];W[mo];B[nn];W[lp];B[nc];W[hq]C[dc: White's play at wH3 is the invasion of the  third-line three-space extension.  It is very common.  I definitely recommend studying it, start at:
+http://senseis.xmp.net/?InvasionOfThirdLineThreeSpaceExtension
+
+A diagonal move (at bJ4 or bG4) is the most aggressive response, expressing intent to trap White in or only let White out by giving Black two walls.  In this case, White has strength on both sides and such aggression is not rewarded.
+
+It was better here to play underneath at bH2, sacrificing that stone to trap White under you if needed.]
+(;B[ip];W[hp];B[io];W[ho];B[im];W[dq];B[kc];W[jc];B[kd];W[je]
+;B[ke];W[mn];B[nl];W[kf];B[lf];W[lg];B[kg];W[jf];B[mg];W[lh]
+;B[mh];W[li];B[ll];W[mi];B[oi];W[ni];B[oh];W[nh];B[ng];W[ef]
+;B[dg];W[fh];B[ij];W[ih];B[ji];W[jh];B[hn];W[gn];B[gm];W[fn]
+;B[fj];W[ei];B[di];W[ej];B[bk];W[bl];B[cj];W[cl];B[fl];W[bd]
+;B[be];W[ak];B[bj];W[kb];B[lb];W[jb];B[oq]C[Game losing mistake, this cut was urgent but i failed to recognize this in the heat of the game :(]
+;W[or];B[lq];W[le]C[dc: ouch :(];B[mf];W[lc];B[md];W[ld];B[mc]
+;W[me];B[ne];W[og];B[nf];W[oj];B[pg];W[nk];B[pj];W[pk];B[qj]
+;W[qk];B[rk];W[rj];B[pl];W[ok];B[pi]C[dc: bR11 should be slightly better.]
+;W[rl];B[rm];W[sk];B[ri];W[qm];B[rn];W[ol];B[pm];W[om];B[pn]
+;W[on];B[oo];W[nm];B[ml];W[kp];B[kq];W[mq];B[pr];W[nr];B[mm]
+;W[jn];B[in];W[ir];B[jo];W[kn])
+(;B[hr];W[ir];B[iq]
+(;W[hp];B[gr])
+(;W[gr];B[hp];W[gq];B[gp])))
+(;B[bh]))
+(;B[ch]))
+(;B[iq]))

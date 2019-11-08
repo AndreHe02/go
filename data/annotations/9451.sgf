@@ -1,0 +1,74 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.16]
+
+GN[xxl1-colladay-903305-20140605]
+PB[Donald Colladay (colladay)]
+BR[3k]
+PW[xxl1 (xxl1)]
+WR[2k]
+KM[6.5]
+DT[2014-05-26,2014-06-05]
+PC[Dragon Go Server: http://www.dragongoserver.net/]
+RE[W+Resign]
+RU[Japanese]
+SO[http://www.dragongoserver.net/game.php?gid=903305]
+GC[Game ID: 903305
+Game Type: GO (1:1)
+Rated: Y
+
+White Start Rating: 2k (-37%) - ELO 1862
+Black Start Rating: 3k (+20%) - ELO 1820
+White End Rating: 2k (-20%) - ELO 1879
+Black End Rating: 3k (-43%) - ELO 1757]
+
+C[Don:  I played black in this game and was given lots of influence that turned out to be useless as white erased it all, I would like some help as to how to play this type of game, I know that running on the second line should not be good, but my opponent seemed to do just fine getting surrounded and making second-line territory, not sure how I should have taken advantage, or is my whole approach just misguided.
+
+Thanks to the reviewer in advance.
+
+H: Hello I'm Hervé and I will try to give you some (hopefully useful) advice. Summary: use your thickness to drive your opponent towards it. You will naturally make territory somewhere else. It's important to keep some kind of logic in your game If you have lots of influence, don't just turn to making territory: you will lose to your opponent who has made a territory oriented opening.]
+;B[pd];W[dd];B[pp];W[dq];B[do];W[co];B[cn];W[cp];B[fc];W[cf]
+;B[dm];W[en];B[dn];W[ep];B[ci];W[nq];B[pn];W[qq]C[Don: This invasion seems premature for white, as other invasions, but they all seemed to work out ok...
+
+H: this look OK for me. Actually the problem is that you have no good direction to answer (see thereafter)]
+;B[pq]C[H: R4 looks out of the question indeed. But here I don't quite like the fact that your wall will be facing white stones at E4 and E6. Which means that Q6 might have been better at R6 (then white entering at R3 would mean fighting a ko for white's life)]
+;W[pr];B[or];W[qr];B[oq];W[nr];B[ns];W[ro];B[rn];W[qo];B[qn]
+;W[qh]
+(;B[qj]TR[qk][rk][sk][ql][rl][sl][qm][rm][sm]C[H: As a general rule, you should push your opponent towards your thickness, and not to make territory. Therefore this is the wrong direction, and the move should be R14. See variation, keeping in mind that R10 is worth no more than 10 points of territory (triangles, and I'm being generous)]
+;W[rd]C[Don: Again, white makes a low, eventually surrounded group...
+
+H: this is a god probe that threatens to either invade your corner or link on the side. It is difficult to answer.]
+;B[qe];W[re];B[qf];W[rf];B[qg];W[rg];B[ph];W[pc];B[oc];W[qd]
+;B[od];W[ec]
+(;B[jd]C[H: Once again this move aims to make territory, which is the wrong way to use your influence. Play F16, and you will attack white if he invades you moyo.]
+;W[fd]C[H: this hurts, really. It erases some influence AND reduces your upper side territory (and white becomes stronger)]
+;B[hc];W[jq]C[H: the situation looks difficult for black now. White has all four corners, two of them are rather big, and the center moyo is quite open.]
+;B[jo]C[H: I like this move. Now you need to claim a big center.]
+;W[hp];B[kq];W[kr];B[kp];W[pi];B[qi];W[rh];B[oh];W[ki];B[ii]
+C[Don:  Is this a reasonable attack?  Seems necessarry, or have I just lost the game already?  if so, please help with my opening misunderstandings...
+
+H: This is the only thing you can do at that point.];W[ni];B[pk]
+;W[mg];B[me];W[ih];B[hh];W[of];B[pe];W[jh];B[hg];W[kf];B[ke]
+;W[pb]C[Don: Is white just easily alive in the center?
+
+H: white is not alive yet (but definitely hard to kill)];B[jf]
+C[H: not sure about that. I'd rather play around L9 to surround white and force him to find a way to live without escaping. It would also help make territory at the bottom. K14 will not make any territory due to white stones at F16]
+;W[kk];B[nk];W[mk];B[ml];W[mj];B[ll];W[nb]C[Don: Got gote again, have certainly lost now if center lives...
+
+H: you are right];B[ob];W[oa];B[lh];W[ik];B[gp];W[ps];B[os]
+;W[qp];B[np];W[go];B[ho];W[gq];B[ip];W[hq];B[gn];W[fo];B[gk]
+C[Don: Pushed on bottom to build an attack on center, looks like it should have worked, but white still managed to live.
+
+H: it's hard to kill white at that point, but it's the only hope black has left, so you were correct to try it]
+;W[ij];B[hi];W[if];B[jg];W[kg];B[ig];W[mh];B[ji];W[kh];B[jj]
+;W[nl];B[ok];W[kl];B[li]C[Don: White can make two eyes here, play seems greedy not to take it...]
+;W[lk];B[ln];W[pg];B[oi];W[hl];B[im];W[il];B[gl];W[hm];B[hn]
+;W[gm];B[fm];W[fl];B[fn];W[jm];B[jn]C[Don: reading mistake, should have played j6 here...
+
+H: yes];W[jk]C[Don: Now white is alive, black can't win.];B[km]
+;W[in];B[eo];W[fp];B[fb];W[eb];B[ng]C[Don: This is a clear mistake, should have played m2, much bigger...
+
+H: yes. With M2 and a good yose, you may still have a chance.]
+;W[lr];B[mp]TW[jl][gp]C[H: this looks small. You don't necessarily have to answer white's move. E19 is double sente, T5 looks like it too.]
+;W[po];B[oo];W[ms];B[op];W[fa];B[tt]C[Result: W+Resign])
+(;B[fd];W[jd];B[jf]C[H: fight !]))
+(;B[qf]C[This move is a lot better in my opinion. White will be forced to play R9 to get a base, but that doesn't mean he will be safe yet. At the same time, blacks starts enclosing the corner which is worth points in itself. Finally, I think Q16+R14 work well with the stone in F17 for the upper side.]
+;W[qk];B[jd]))

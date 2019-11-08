@@ -1,0 +1,239 @@
+(;FF[4]GM[1]SZ[19]AP[SGFC:1.15]
+
+GN[gtl]
+PB[BillLoux]
+BR[6k]
+PW[SmartGo]
+KM[6.5]
+DT[2008-06-30]
+RE[B+R]
+TM[1800]
+OT[20 / 5]
+RU[Simple]
+
+C[Bill: This is a game against the Smart Go computer.. I used to be about a 5 kyu but haven't played in years and I am trying to get back into Go.
+
+catch22: Hi, I have been reviewing this game. It has been the first game I reviewed where one player was a computer. I have to say, I think White played quite a few strange moves, where it was difficult to see any logic. Even when someone is much weaker, you can usually see what their thinking is, even if it is flawed. This was not always the case here.
+
+You definitely played better than the computer and deservedly won. Nevertheless (surprise, surprise) you did not play perfectly. To illustrate what is wrong with some of your moves, I have shown quite a few variations where White exploits these mistakes (in the game, that did not happen that often). Of course, I have also shown variations for Black that suggest better ways of playing.
+
+I hope you'll find the comments useful. If you have not started doing so already, I suggest you'll find yourself some human opponents (for example online). I think it will help you improve more quickly if you play opponents where you can (mostly) see the logic behind their moves. :-)]
+;B[pd];W[qp]V[0];B[dq];W[cd]V[0];B[co];W[oq]V[0];B[jq]C[Bill: Is this move okay or should I approach the white stone in the upper left corner.  If that is better,Why?
+
+catch22: This move is fine. An extension like this in front of your shimari is rarely wrong. Approaching in the upper left corner is okay as well. However, there are multiple options there, and if it is not clear yet (to you, or due to the board position) which approach is best, it is better to stick with a move you know to be right. :-)]
+;W[pg]V[-1.9];B[ec]SL[md]LB[md:A]C[Bill: I chose to attack this stone now after computers move #8 was that good or would it have been better to respond to #8 with something like A
+
+catch22: First of all, an approach is not an attack. An approach is just intended to get a part of the territory/influence in the corner. You need a few more stones before you can call it an attack on the white stone.
+
+Secondly, White's approach is a bit strange. It is more usual to approach at Q14 or R14. As it is, the white stone is a bit far away.
+
+Thirdly, if you are going to respond, you should probably do so at either O16 or O17. Responding at N16 is a bit too far away. It gives White too much opportunity to mess around in the corner, e.g. by playing R17, Q17, Q18, R16 or S16.
+
+Having said all that, I think it's okay to ignore White's approach and play an approach move yourself. With a stone on the 4-4 point it is usually okay to ignore an approach move (you will not be in too much difficultly if later there is a second approach move), and given that White's initial approach move was quite far away, it holds even more so.]
+HO[1]V[-1.9]BM[1]
+(;W[go]V[5.2];B[gq]C[catch22: White's move was a bit unusual. Responding as you did is good. You claim some territory, whereas the value of White's stone still remains to be seen.]
+;W[lq]C[Bill: I was at a loss as to where to play here, went with a to press the attack on the upper corner but I don't know if that is any good?
+
+catch22: Yes, I think that the top left is now the most important part of the board. Whoever plays here first, gets an advantage there.]
+V[5.4];B[ee]C[Bill: Move 12 seemed small for white....
+
+catch22: Indeed.]BM[1];W[dc]V[-6.3];B[jd]C[Bill: My move 15 is not Joseki so is it okay ... I was looking at the whole board perspective
+
+catch22: I am not entirely happy about it. See the variation for White's next move to see why.]
+
+(;W[df]V[-1.6];B[db]C[catch22: Good.];W[cb]V[0];B[eb];W[hd]
+C[catch22: This is a bit of a strange move.]V[-6.1]
+(;B[if]TR[pg]C[Bill: Was 21 okay? Not sure if this was the right move to make to attack 20.
+
+catch22: No, this is not good. First of all, this move is not doing much useful besides attacking. Should White get away, its purpose is unclear. It is not making any territory, and neither useful influence (the marked white stone limits what Black can do with any influence). You generally should not attack to kill or capture. If that fails, you may end up with nothing. It is better to attack in such a way that you gain something while doing so, even if the target eventually gets away.
+
+Secondly, you are weakening your stones at the top left. They are not as weak as the White stone. However, you still have to be a bit careful.
+
+See the variations for better ways of playing.]BM[1]
+(;W[fp]C[Bill: This seems kind of weak... should I respond?  I just thought there were bigger points to make elsewhere on the board
+
+catch22: This is a strange move by White. Nevertheless, you should respond, as doing so helps you. As it is (also before White's last move), there is still a weakness in your position at H2. There's aji there that White can exploit. If you now respond at G3, that aji will be gone. So you gain by responding, whereas it is not clear what White gained by playing F4. 
+
+Furthermore, if White separates you into two groups by continuing at F3, you will be split into two. Much of your territory will be destroyed. Playing at G3 also avoids that.]
+V[-12.1];B[qj]C[catch22: Best to simply play F3. With two unsettled positions on the board already (at the top left and bottom left), it is a bit premature to play here.]
+;W[jc]V[-10.1];B[kc];W[ql]V[-8.7];B[oj];W[ng]V[-14.3];B[mj]
+TR[ng][pg]C[Bill: I like the way things have gone so far
+
+catch22: Yes, White has been jumping around the board a bit too much and left too many weak stones lying around. He now seems committed to save the marked ones, but doing so will harm the others.]
+;W[kb]TR[mj][ng]C[Bill: I am at a loss as to what white is doing and hence not sure how to respond?
+
+catch22: White's play is a bit inconsistent. It now looks as if White wants to rescue his stones at the top (or sacrifice these, and in exchange invade Black's territory at the top right). However, doing so will harm the two white stones at the left. So if White was going to play here, he should not have exchanged the marked stones.
+
+See variation for the next move for a suggested response.]V[-28.2]
+
+(;B[ic]C[catch22: This is not good (for reasons to be shown later). See variation for a better way of playing.]
+;W[jb]V[-27.7];B[id]
+(;W[ef]TR[jc][jb][kb]C[catch22: White's next couple of moves are strange. White should have looked after his three marked stones first (see variation).]
+V[-22.6];B[ff];W[hc]TR[jc][jb][kb]C[catch22: Bad. Unless White can/wants to rescue these stones right now, he should not make this exchange, as it hurts the three marked stones.]
+V[-25.6];B[ib];W[kd]C[catch22: Also bad. It unnecessarily sacrifices three stones, and it's not clear what White gets in return.]
+V[-21.5];B[lc];W[ld]V[-19.5];B[mc];W[md]V[-19.8];B[nc];W[nd]
+V[-11.8]
+(;B[qn]TR[kd][ld][md][nd][ng][pg]C[Bill: Was this the right time to spring the attack at 45?  I could have responded to 44 in the corner but might have lost the chance at attacking here at 45?
+
+catch22: No, this was not the right time. You should have simply responded at the top (see variation). This attack/invasion is not urgent because White has to look after his marked stones first, before he can soldify his territory at the bottom right.]
+BM[1]
+(;W[ob]C[Bill: Ouch?! Now I am a little worried
+
+catch22: No need to worry. White is actually letting you of the hook. If White had played P17 this would be more difficult to handle (see variation).]
+V[-21.1];B[oc];W[pc]C[Bill: I got lost here a bit and feel like I missed a chance to gain much more
+
+catch22: Indeed, you could have handled this better.]V[-12.8]
+
+(;B[pb]C[catch22: This is not good. Unless you follow this up (e.g. by playing O18 next, still not a good move by the way), you should refrain from playing moves like this. In the game White captures this stone, which gives White eye shape. You do not get anything in exchange for this "sacrifice". So, you are effectively giving White a free move.]
+;W[qc]V[-13.8];B[od];W[qb]V[-25.4];B[qd]TR[kc][jc][jb][kb][lc]
+[mc][nc][oc][od][pd]C[catch22: White lives in the corner, and takes away Black's territory here. Not a good result for Black. 
+
+Note that Black does not have to worry about the safety of his marked stones. He can capture the three white stones at anytime. There is nothing White can do to rescue these.]
+;W[kf]V[-31.3];B[of];W[ie]V[-13.6];B[je];W[pf]V[-11.5];B[ne]
+;W[pa]V[1.2];B[ke]TR[jc][jb][kb][mj][oj][qj]C[Bill: I don't think 61 was the right move but I wanted to solidify the large moyo I'm building.
+
+catch22: This move is slow. Capturing these four stones is worth about eight points at best. Even if you do not play here, it remains to be seen if White can rescue these stones.
+
+Capturing cutting stones is sometimes very big, because it can be strategically important (giving you one strong group instead of two weak ones). This, however, is not the case here. Black can still capture the three marked white stones at anytime, so the two black stones are already connected.
+
+I would be better to play Q7. This goes a long way towards capturing the White stone there, which strengthens the three marked black stone, which in turn also soldifies your moyo.]
+
+(;W[ko]V[8.1];B[on]
+(;W[fr]C[catch22: This is another strange move by White. Playing F3 would be much better (see variation).]
+V[-15.9];B[fq];W[eq]V[3.6];B[er];W[ep]V[5.3]
+(;B[gr]C[catch22: You should probably play D2 instead, as this is a serious weakness. See variation.]
+;W[dp]V[9.6];B[cq]
+(;W[dj]C[catch22: Strange. White should now really play C4 (see variation).]
+V[-1.1];B[ck]C[Bill: Don't know about this move
+
+catch22: It's not good. Given the big weakness at C4, you should have played there instead. That not only gives you solid territory in the corner, but also reduces the amount of potential territory White can make at the left.]
+BM[1];W[cp]V[8.4];B[bq];W[rj]C[catch22: White should have followed through with B4.]
+V[-8.3];B[ri];W[oh]C[catch22: Another strange move.]V[5.1];B[jj]
+C[Bill: How is this move to prevent white from running?
+
+catch22: Definitely the right idea. The other moves that spring to my mind are K11, L10 and L11. It is difficult to say which is best.]
+BM[1];W[lf]V[3.3];B[le];W[cj]V[-3.8];B[dm]C[catch22: It is more important to connect to the corner by playing B4. If White plays there instead, the black stones will be in trouble. Even if they can run away into the center, doing so will not gain Black anything.]
+;W[pk]V[21.1];B[pj];W[nl]V[22.4];B[mn];W[mk]V[7.9];B[lj]
+(;W[bk]C[catch22: Strange. After playing the last couple of moves, White should follow through by playing M7.]
+V[10.5];B[cl]TR[ck]C[catch22: The marked black stone is not important. Locally it is better for Black to connect at B4. Alternatively, Black could leave these stones to fend after themselves (and in the worst case, simply sacrifice them), and play at M8, or thereabouts, which is much bigger.]
+;W[no]C[catch22: White needlessly reinforces Black's stones.]
+V[-8.1];B[nn];W[kl]V[-30.8];B[lm];W[ll]V[-29.5];B[km];W[jm]
+V[-32.6];B[jl];W[il]C[catch22: Not good. White once again needlessly helps Black to strengthen his stones. White should leave the option to atari at K9 instead open.]
+V[-21.6];B[jk];W[nj]V[-21.3];B[ni];W[rp]V[26.9];B[nk]C[Bill: This move seemed not so strong
+
+catch22: It is not too bad. If you do not play here, White could play here in sente (if you then don't play P11 in response, White can play there). Furthermore, playing here is pretty much sente for you as well.]
+BM[1];W[ol]V[4.3];B[lk]TR[kl][ll][mk]C[catch22: This is unnecessary. As the three marked stones are short of liberties, there is nothing White can do with these stones anyway. By playing here now you give away a ko threat, and also the option to play at N7 in sente instead (this does not yet look too useful, but you never know).]
+;W[ml]V[0.8];B[pm];W[mo]V[-6.9];B[bp]C[catch22: Good. This is a good moment to tenuki. As you can play either K6 or Q8 you do not have to worry about your stones at the right.]
+;W[rm]V[-3.2];B[rn];W[mf]TR[ni][pk][il][ol][ql][pm][qn][ko]
+[ri][rj][jj][jk][jl][jm][lj][lk][ll][lm][mj][mk][ml][oj][pj]
+[qj][nk][nl][kl][km][rm][rn][mn][nn][on][mo][no]N[<Black is alive.>]
+V[3.3]
+(;B[ok]C[catch22: It is better to play Q8. See variation.];W[pl]
+V[7.6];B[jn];W[im]V[4.4];B[kn];W[jo]V[-3.9];B[in];W[hm]C[catch22: A bad move. G7 would be much better shape.]
+V[3.9];B[io];W[ik]C[catch22: It is not clear what White is trying to do now.]
+V[33.6];B[jp]C[catch22: A good, solid move.];W[gf]V[43.1]
+(;B[he]C[catch22: Playing G15 is better. See variation.]
+(;W[dn]C[catch22: Playing H15 left some bad aji behind that White can exploit. See variation.]
+V[30.9];B[cn];W[em]V[36.7];B[dd];W[kh]V[40.2];B[ih];W[ji]V[40.5]
+;B[ii];W[kj]V[39.8];B[kk];W[fg]V[38.1];B[fe];W[lh]V[47.6]
+(;B[mh]C[catch22: This is not such a good move. White may still be able to create an eye here by playing N13.]
+;W[hg]V[37.3];B[ig];W[rg]V[37.9];B[re];W[qh]V[41.8]
+(;B[qf]C[Bill: How is 147? I think it is the wrong play?
+
+catch22: Your best option now seems to be R11 (see variation).]
+BM[1];W[rk]V[20.8];B[qi];W[sj]C[oops?]V[33.3]
+(;B[rh]C[catch22: You can still kill White (see variation).]
+;W[sl]V[46.9];B[cc];V[51.5])
+(;B[sl];W[si];B[rh];W[sh];B[qg];W[pe];B[me]))
+(;B[qi]C[catch22: This move serves two purposes. Firstly, it stops White from making an eye at Q12 (P11 and Q11 are miai for Black to destroy this eye). Secondly, it prevents the two white groups from linking up.
+
+White has two places now where he can make an eye in gote (N13 and R14). However, if White makes one eye, Black can stop White from making the other.]
+))
+(;B[qh]C[catch22: This is better. First of all, it reinforces a weakness in Black's position here. Secondly, White will find it hard to ignore. Black threatens to play P13 next, which leaves O12 and Q12 as miai to cut. Thirdly, it stops White from creating an eye at the edge of the board.]
+))
+(;W[fd];B[ed];W[ge]TR[ee][ed][ec][eb][db]C[White can escape with his stones. Black will have to look after the safety of the marked stones. Although these can link up with the stones to the right, forcing Black to do so is already a win for White.]
+))
+(;B[ge]TR[hd][hc]C[catch22: This prevents the marked white stones from escaping.]
+;W[he];B[hf];W[jf];B[hb];W[fd];B[fe];W[ed];B[gd];W[fc];B[gc]
+;W[fb];B[de];W[dd];B[ce]C[An exchange occurred. White captured three black stones, but Black made a big reduction in White's moyo on the left, which seems bigger.]
+))
+(;B[pl];W[ok];B[qk];W[nj];B[oi]C[This way White is captured much more cleanly. The ko does not matter, and there is hardly any aji left behind.]
+))
+(;W[lm]C[catch22: This is looking a bit scary for Black. It is questionable if the black stones can be saved. Also note that capturing the three black stones at the right is much larger than capturing those on the left.]
+))
+(;W[cp]C[catch22: After playing the last couple of moves, White should follow through by playing here.]
+;B[bp];W[dr]
+(;B[fs];W[bq];B[cr];W[br];B[ds];W[bo]C[This is the worst possible result for Black. White created a large moyo, whereas Black only got a few points at the bottom (and lost the entire corner)]
+)
+(;B[cr];W[es]
+(;B[bn]C[This is not much better. The black stones at the bottom are in trouble.]
+)
+(;B[kr];W[bq];B[br];W[bo];B[aq];W[cn]C[It is not clear if this is better. Although Black gets sente, and can use this to damage White's position in the bottom right, White got a huge moyo, and cannot complain.]
+))))
+(;B[dr]C[catch22: This protects the corner.];W[hq]C[White can now play here...]
+;B[gr]TR[jq]C[... but White does not have a good follow up. The marked Black stone is not captured that easily. It still has quite a bit of aji. Even if it has to be sacrificed, that's okay, as Black can then get something in return. The shape of the white stones is also very poor. Black on the other hand, has a very solid position. now.]
+))
+(;W[fq]TR[ko]C[Now Black's stones are cut off from the stones in the corner. With the marked white stone in place, this is looking quite dangerous. Even if Black can manage to live or escape, doing so will hurt his nearby stones.
+
+This suggests that you should have responded to White L5 with F3 (which is a move want to play anyway, so any excuse is a good one).]
+))
+(;W[la]TR[kb][jb][jc]C[catch22: Just to illustrate that White, even after having played Q19, still cannot rescue the three marked stones.]
+;B[lb];W[ma];B[ka];W[ja];B[ia];W[ka];B[na]C[So White M19 does not work. Black can refute other White moves similarly.]
+))
+(;B[qc]C[catch22: This move is better. It follows the saying "Force before defending". Black has to defend at P16, but before doing so he can play this forcing move.
+
+Of course, you should only play a forcing move if it actually gives you a benefit. In this case it does, as this move makes it harder for White to live, as it limits White's access to the corner.]
+;W[pb];B[od];W[qd]C[Black can handle it if White cuts...];B[qb]
+C[A double threat. Black can now either capture the three white stones at the left, or the white cutting stone.
+
+White needs four moves to let his stones at the top live, so Black does not have to worry about that.]
+))
+(;W[oc]C[catch22: This move would be more difficult to handle.]
+;B[od]C[Cutting is tempting, but does it work?];W[pc]TR[od]
+[pd][nc][mc][lc][kc]C[This move is a dual threat. It threatens both marked chains of black stones.]
+;B[lb]C[These black stones were in danger of being captured (with only three liberties). This gets them out of trouble...]
+;W[qd]C[... but White can now harass the other two stones.]
+;B[qe]C[This seems a reasonable response...];W[pe];B[oe];W[of]
+;B[pf];W[ne];B[pe];W[re]C[... however, it does not work.
+
+So R15 does not work for Black, but I doubt that there are moves that do. So, going back further, cutting at P16 may not be possible and in fact, Black may not be able to handle White P17 at all. So this also suggests that Black R6 was premature.]
+))
+(;B[od]TR[pg][ng][nd][md][ld][kd]C[catch22: Black has gotten a lot of sure territory at the top.]
+;W[lg]C[Furthermore, the six marked stones are still very weak, yet too heavy to give up, so White will have to respond.]
+;B[kj]C[Black can keep up the pressure. White still has to worry about his stones at the bottom left as well.]
+))
+(;W[lc];B[kd];W[nc]TR[ic]C[This looks pretty okay for White. Suddenly the black stone at the top right is looking weak. White is also threatening to link up both of his groups, and the group at the top is pretty much alive already. Also, the black stones at the top left are too overconcentrated. 
+
+This is why I think Black's move at J17 (marked) was wrong.]
+))
+(;B[lc]C[catch22: Just play calmly. White will have to struggle to live. Even if he manages to live, he will not make many points. Furthermore, any exchange he makes like this will harm his two stones at the right.]
+;W[lb];B[mc];W[id];B[je];W[ib]TR[ng][pg]C[Black played very calmly, and White pretty much lives now. Nevertheless, this is okay for Black.  The marked stones have become very weak. Black can definitely gain by attacking these, and may even end up capturing these.]
+))
+(;W[fd]C[catch22: White can still escape, which is another reason why the move at J14 is not that good.]
+;B[ed];W[gf]TR[fd][ed]C[White escaped. He still has to be a bit careful though, as his stones in the left corner are still weak (the exchange of the marked stones did not help). Nevertheless, Black has to worry about his stones as well.]
+;B[ef]C[If Black now plays here, White will not necessarily respond by extending at D14. That's why if Black wants to attack with J14, he should start by building the wall.]
+))
+(;B[jc]C[catch22: You could simply play here. This move serves multiple purposes. Firstly, it makes sure White does not get any eyes at the side. Secondly, it may enable Black to later on link up (e.g. by playing H18). Thirdly, it is threatening to make territory at the top right.]
+)
+(;B[ef]C[Alternatively, if you want to go all out, you should first extend your wall, so the White stone will have nowhere to go.]
+;W[dg];B[eg];W[dh];B[if]C[This attack is now looking more dangerous. Still, it is a bit risky. Should White get away, you gave White some territory at the left without getting anything in return.]
+))
+(;W[eb]TR[jd]C[catch22: I think this is a better move for White. It aims to put the marked black stone in an awkward position.]
+
+(;B[fb]C[Blocking does not work that well for Black.];W[ed]
+;B[fc];W[fd];B[db];W[cb];B[ea]TR[ee]C[The marked black stone is now placed awkwardly. Black's stones at the top are also not working together effectively. Furthermore, White has sente.]
+)
+(;B[fc]C[So Black may have to play here instead.];W[fb]C[White keeps pushing]
+
+(;B[gb]C[Blocking still does not work well.];W[gc]C[White can cut...]
+;B[hb];W[gd];B[fe]C[A fight starts, but White should be able to manage. White should first get his stones out in the center (e.g. by playing G15), and can next aim at playing J17.]
+)
+(;B[hc]TR[jd]C[So Black may have to play something like this. However, the marked black stone is now far too close to the stones at the left, it would be better placed (much) closer to the stone in the top right corner, e.g. at O17.]
+))))
+(;W[md]C[Bill: What if White next plays here?];B[oe]C[catch22: You should probably try to keep White's stones separate. You could live submissively in the corner by playing R17, but you would give White outside influence.]
+;W[nf]C[Letting Black play here would be ideal for Black, so White should prevent that.]
+;B[ne]C[Black starts a fight to keep the white stones apart.]
+;W[me];B[mf];W[ng];B[ke]C[There are various options for this move, but this looks good. It is a shape point. If White plays here, White gets good shape, now White will struggle to get good shape. Also note that White cannot capture the black stone in a ladder. However, before Black played L15, White could still capture the Black stone in a net (by playing M13). Black's move stops that from working.
+
+Note that Black's corner stones are not yet alive. Black will still have to look after these, but can first fight a bit more on the outside before doing so.]
+))

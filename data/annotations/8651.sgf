@@ -1,0 +1,57 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.17]
+
+PB[bcd]
+BR[10k]
+PW[flyte]
+WR[10k]
+KM[6.5]
+DT[2012-01-14]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[W+Resign]
+TM[1500]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+C[flyte [10k\]: Hello
+bcd [10k\]: hi, gg
+
+Muammer: Hi! It is always better to have the lost games analysed but since you have a special purpose (To see why he resigned and said you played well)  let's see try to understand what happened :) 
+
+Also I will build alternative paths if I see better solutions in your moves.]
+;B[pd];W[dd];B[dp];W[pp];B[cf];W[fd];B[bd];W[cc];B[ci];W[id]
+;B[nq];W[fq];B[hq];W[fo];B[dn]
+(;W[hp]C[Muammer: Touching here is a mistake you should follow the ordinary joseki. (See variations the move before)]
+;B[ip];W[gq];B[ho];W[iq];B[hr];W[jp];B[gp];W[jq];B[jo];W[lp]
+;B[no];W[ln];B[lq];W[ko];B[qn];W[qo];B[pn];W[op]C[Muammer: This peep move only makes your opponent stronger! Just cut it or play P3  to close your skirt.]
+;B[np];W[oo];B[on];W[nn];B[mn];W[nm];B[mm];W[nl];B[mo];W[pl]
+;B[qq];W[qp]
+(;B[pr];W[rn];B[rm];W[so];B[ql];W[qk]
+(;B[pk]C[Muammer: Black's this move is the losing move. He should have simply press under the stone as in variation.]
+;W[ok];B[pj];W[rk];B[rl];W[ri];B[rp];W[ro];B[rq];W[sl];B[sm]
+;W[sk];B[oq];W[pm];B[jn];W[lm];B[ml];W[ll];B[mk];W[oj]
+(;B[oi]C[Muammer: An other easy mistake. Too early for hane.]
+;W[pi];B[kc]
+(;W[md];B[mc];W[qc]TR[md]C[Muammer: Those two moves were very good, Ruining black's intention of building a secure area above.]
+;B[qd];W[pc];B[oc];W[ob];B[nb];W[od];B[nc];W[rd];B[re]
+(;W[sc];B[rb];W[rc];B[qe];W[oe];B[pb];W[qb];B[oa];W[pf];B[rg]
+;W[qg]
+(;B[ph];W[qj]CR[ic]TR[fo][fq][gq]C[flyte [10k\]: ?
+bcd [10k\]: thx, very gg
+
+Muammer: Assume upper right is dead (with or without ko), it balances most of the profit that white made in lower right. 
+The triangled stones at lower left are extremely weak. If black makes a move around D3 or G7 he will take the lead. Because whites J16 stone allows black reduce upper left area, onces black makes a sealed area on right side he would win. In other words, game is really in development stage and I also cannot see why he had resigned.]
+)
+(;B[qa]C[Muammer: Black kills the white stones in the corner with this move.]
+(;W[rh];B[se];W[rf];B[sd])
+(;W[rf];B[qf];W[se];B[sf];W[pe];B[sd]C[Muammer: Ko is favorable for black -of course better than the other variation for white.]
+)))
+(;W[rc]C[Muammer: Just connect. Why give weak point?];B[qf]
+;W[pb]C[Muammer: Alive]))
+(;W[nd]))
+(;B[pi];W[oi];B[ph]))
+(;B[rk];W[qj];B[rj];W[qi];B[ri]TR[rn][oo][qo][so][op][pp][qp]
+C[Muammer: White is dead]))
+(;B[rn]))
+(;W[ip]
+(;B[iq];W[jp];B[jq];W[kp];B[lq];W[hp])
+(;B[hp];W[ho];B[iq];W[jp];B[jq];W[kp];B[lq];W[mo])))

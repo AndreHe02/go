@@ -1,0 +1,70 @@
+(;FF[4]GM[1]SZ[13]ST[2]CA[UTF-8]AP[SGFC:1.16]
+
+GN[GO Tournament (9 Round Robin) - Round 2]
+EV[13x13 Tournament (9 Round Robin)]
+PB[Poller]
+BR[21k]
+PW[JayR]
+WR[15k]
+KM[6.5]
+RE[B+16.5]
+RU[Japanese]
+US[JayR]
+
+C[B: Hi, I'm Bart, around 7 kyu, and I'll try to review your game. I haven't played or reviewed 13x13 in a while, so I hope I'm still able to give some useful comments.]
+;B[dk];W[jd];B[cd];W[jj];B[ec]LB[hc:1][ic:2][if:3][jg:A][kg:B]
+[ih:4][gk:C][hk:6][ik:5]C[B: indeed A  or B would be one idea. 6 or C is also possible. 1 and 2 are a bit small because black already has a stone at E11. And 3 and 4 leave a bit too much open space below the white stones.]
+;W[hk]
+(;B[fk]C[B: this seems a bit small/slow. Around D7 is still open, and if white gets L7 it has more potential than black. Playing on the other side is bigger, because there is no white stone yet.]
+;W[gj];B[fj];W[if];B[gc]C[B: a bit too small. H11 is also possible.]
+;W[gf]C[B: good. J11 is also big.];B[ef];W[fd];B[fc];W[ed];B[dd]
+;W[gd];B[ic];W[jc];B[hd];W[he];B[id];W[ie];B[jb];W[kb];B[ib]
+;W[eh]
+(;B[dg]C[B: what if black plays F7 instead?];W[dh];B[ch];W[ci]
+;B[bg];W[dj];B[bi];W[bj];B[ai];W[ck];B[fg]C[B: yes, I'd expected that one earlier.]
+;W[gh];B[fh];W[fi]
+(;B[ej]C[B: big chance for black; cut at E5. See variation.]
+;W[gk]
+(;B[cl]C[B: still black at E5.];W[ei]C[B: yes, that was needed.]
+;B[bl]
+(;W[aj]C[B: there's a interesting move at F2. See variation.]
+;B[bk];W[cj];B[ak];W[di];B[eg];W[gi];B[gl];W[hl];B[gm];W[hm]
+;B[el];W[ja]C[B: black can possibly live in the corner (L3), so it's also a good idea to defend there.]
+;B[ia];W[ka];B[fe]C[B: or play L3 to try and live there. And there is a nasty move at L11.]
+;W[ge];B[ee]
+(;W[gg];B[kk]C[B: ah, there it is. I'm not sure if it will work for black, but at least white has to try to keep black small.]
+
+(;W[jk]LB[kj:A]TR[ij][ik][il][im]SQ[kf][lf][mf][kg][lg][mg]
+[kh][lh][mh][ki][li][mi]C[B: so try to defend on the side that has the most points for you. If you play K3, you defend a few points (triangles) on the left. If you play at A instead, you defend all the points towards the top (squares).]
+;B[kj];W[ki];B[li];W[kh];B[lh];W[lg];B[jl];W[il];B[kl]
+(;W[jm]C[B: again, the other side is a little bigger.];B[km]
+;W[im];B[mg];W[mf]C[B: danger! Black can play M8.]
+(;B[mh];W[kf];B[lk];W[tt]LB[kc:A]C[B: There is still a nasty move for black at A.]
+;B[kc];W[lc];B[kd]
+(;W[je]C[B: defending would not end well.];B[ld];W[mb];B[la]
+;W[lb];B[md])
+(;W[ld]C[B: give away two stones];B[je];W[ke];B[jf];W[jg];B[jd]
+))
+(;B[lf];W[mh];B[kg]
+(;W[mg];B[me]C[B: ouch.])
+(;W[lj];B[mg]C[B: ko])))
+(;W[mh];B[mj]))
+(;W[kj];B[lj];W[li];B[mk];W[mi];B[jl]C[B: here you defend all the points on this side.]
+;W[mj];B[lk];W[jk];B[il];W[ik];B[lm]C[B: black has to play, I think, or the corner is dead (ko).]
+;W[im];B[kl]LB[ml:A][jm:B]C[B: now A and B are miai (if you play A, black plays B and lives, and if you play at B, black lives at A).]
+
+(;W[jm];B[ml])
+(;W[ml];B[jm])))
+(;W[kk];B[gg];W[kc];B[hg];W[ig];B[hh];W[ih];B[hi];W[ii];B[hj]
+;W[ij]C[B: close, but you win with a point or two.]))
+(;W[fl]
+(;B[ek];W[dl])
+(;B[bk];W[cj];B[aj];W[ek];B[dl])))
+(;B[ei];W[gi];B[di]))
+(;B[ei];W[gi];B[ej];W[dl];B[di];W[ek];B[cj]C[B: now you have to live small in the corner, or play the ko.]
+))
+(;B[fg];W[fh];B[gg];W[gh];B[hg];W[ih];B[df]))
+(;B[hc]
+(;W[jc];B[he])
+(;W[if];B[di])
+(;W[fk];B[ei])))

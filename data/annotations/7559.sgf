@@ -1,0 +1,238 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.17]
+
+PB[cx]
+BR[6k]
+PW[petition]
+WR[5k]
+KM[0.5]
+DT[2009-11-24]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[B+4.5]
+TM[1200]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+C[Petition: Hi kind reviewer,
+
+I played this game as w. I lose the game because of a bad mistake on the top left side towards the end of the game, but it was fairly close before that. I'm particularly interested in hearing about my timing in starting fights by making cuts, invading, or attacking weak groups. I also appreciate any general strategic advice, as well as anything you feel like saying!
+
+thanks for your time. I have a few comments throughout.
+
+
+---
+
+Here is my overall analysis:
+
+Both of you have your own respective styles. Instead of thinking about where to play, both of you just play moves that flow naturally from your styles. Each of you gets some good results here and there and some bad results here and there. At the end of the game, one of you lost and the other won the game but it's mostly luck.
+
+Both of you will improve if you just ask yourselves why you want to play each of your moves. Don't play a move simply because it flows from your style. Try to find good reasons for each of your moves.
+
+If you have a bad reason, it is easy to point it out.
+If you have a bad style, it is very hard to point it out.
+
+Black's style is too slack, you need to play more aggressively, more severely.
+
+White's style is tied to certain sequences you learned by heart, you need to think more about finding the most appropriate move on the board instead of a sequence you know (see the monkey jump example).]
+;B[pd];W[dp];B[pq];W[dc];B[pk];W[nc];B[qf];W[jd];B[cj]
+(;W[cf];B[cn];W[fp];B[bp];W[qn]TR[dp][fp]C[P: this seemed like the most important move right now. was i right?
+
+----
+
+I don't think it's the right time to invade. White still has a weakness to take care of. This is a bad global position for white. This is why I suggested white F3 earlier.]
+;B[qp];W[rk]C[---
+
+This move is bad.]
+(;B[qi]C[---
+
+Black is making it easy for white with this move.]
+(;W[qj]LB[pj:A][qj:B]TR[on]C[---
+
+There are 2 ways for White to cut. Which is better?
+
+Most of the time, we won't be able to answer this question immediately. The board still needs some preparation before we can say which of A or B is the better move.
+
+You chose B. Why? Probably because you didn't ask yourself what was the best way to cut, this move simply flowed naturally from your playing style.
+
+In this case, it's probably better to just jump out and wait until later when it will become clear which move is the better one to cut Black.]
+;B[pj];W[ri];B[qh];W[on]TR[qh][pj][qp][pq];B[rm]C[---
+
+This is not as effective as it would have been earlier.];W[qm]
+C[---
+
+This is a bad move! Now Black can cut.]
+(;B[rn]C[---
+
+This is a horrible move!!!!!!!!!!!!!!!!!!!!!!!];W[ro];B[qo]
+;W[rl];B[rp];W[qk];B[pl];W[ql]LB[pl:1][ql:2]C[---
+
+This exchange gives nothing to Black. Should keep it as a ko threat.
+
+Black 1 is vulgar (vulgar means it does absolutely nothing for Black, but it makes White stronger).]
+(;B[pm];W[pn]LB[pm:1][pn:2]C[----
+
+What does Black gain from this exchange? 
+
+2 vulgar moves in a row. Black needs to think about the profound impact of vulgar moves on the game. These moves are the type of moves that can make you lose games without you realizing it until it's too late.]
+;B[np]
+(;W[mm]TR[pi][dp][fp]C[----
+
+There is a cut here.
+
+Before you play a move ask yourself these questions:
+
+1. Do I have any weakness? (if yes, fix the weakness)
+2. Does my opponent have any weakness? (if yes, attack the weakness)
+If there is no weakness, take a big point.
+
+In this case:
+white has a weakness in the lower left corner.
+black has a weakness at Q11.];B[mk]C[----
+
+One of the reasons why games in the 7k-4k range are hard to review is because both players accumulate weaknesses as they go along.
+
+It is very important to not accumulate weaknesses as you play. Otherwise, the game becomes unmanageable and you will get torn apart.]
+;W[mo];B[mp];W[iq];B[no]C[---
+
+Wow! This is a 3rd vulgar move! Black urgently needs to think about what it means to play moves that are completely useless for him but make his opponent's stones stronger.]
+;W[nn];B[lo];W[ll];B[lk];W[kk];B[mn];W[nl];B[nk];W[kj]
+(;B[gc];W[pb];B[qc]
+(;W[kc]TR[jb]C[---
+
+If your going to play like this, try to take as many points as you can.]
+;B[ge];W[pi]C[P: is this cut a good move?
+
+---
+
+No.]
+(;B[oi]C[---
+
+The ladder doesn't work.
+
+There is a proverb that says each move played in a ladder that doesn't work is worth 7 points.
+If we chose to trust this proverb, the score of the game changed by about 35 points because of this sequence.
+
+I tend to agree with the proverb.
+
+I'll show you 2 examples of things that could have happened if the ladders wasn't played out. It is almost impossible to find the true cost in points of playing this ladder; 35 is just an approximation that tells us that it was really bad to play the ladder.]
+(;W[ph];B[pg];W[oh];B[nh];W[og];B[of];W[ng];B[mg];W[nf];B[mi]
+;W[mf];B[lg];W[lf];B[kg]TR[lc][mc][ld][md][le][me]C[---
+
+Here are 6 points that didn't belong to white before the ladder was played.]
+;W[if];B[gg];W[ih];B[ji];W[gi];B[eg];W[jh];B[ki];W[lj];B[li]
+LB[cd:A]TR[dc][cf]SQ[gc][ge][eg][gg]C[---
+
+White has a weakness in the corner and he needs to defend it.
+
+Black is thick and will be able to attack white severely.];W[cl]
+;B[bl];W[bm];B[cm];W[bk];B[dl];W[ck];B[dk];W[bj];B[ci];W[bh]
+;B[bi];W[ai];B[ei];W[ff];B[gf];W[fg];B[fh];W[ef];B[gh];W[ii]
+;B[jj];W[hk];B[kl];W[km];B[jl];W[jm];B[jk];W[lr];B[mr];W[lq]
+;B[mq];W[cq]TR[dp][fp][iq]C[---
+
+It took white more than 1 hundred moves to get this shape. Black could have prevented white from getting this shape in the beginning of the game.
+
+It seems like Black just answered white everywhere in a way that was very easy on white. If Black had been more severe and if he took the initiative more often, I think he would have crushed white.]
+;B[bq];W[dm];B[dn];W[em];B[bn];W[al];B[dg];W[cg];B[cr];W[dr]
+;B[cp];W[dq];B[br]
+(;W[ek]C[---
+
+Did you play here because it removes an eye?
+
+If so, you are trapped in a style that wants to kill and the moves you come up with flow form this style. This is not the best move.]
+;B[df];W[de];B[ee];W[ed];B[fe]C[P: should i have fixed c15 now?
+
+---
+
+should have been fixed earlier.]
+(;W[en];B[jo];W[io];B[jp];W[ip];B[jq];W[jr];B[hl];W[im];B[il]
+;W[hm];B[dj];W[rh];B[qg]
+(;W[se];B[qb];W[oc];B[re];W[sf];B[sd];W[sg];B[rc];W[oe];B[od]
+;W[nd];B[pf];W[ms];B[ns];W[ls];B[or];W[ib];B[eb];W[fd];B[gd]
+;W[fb];B[fc];W[ec]C[P: should have d18 here instead. i was just trying to end in sente here by sacrificing a stone...
+
+---
+
+Yep d18 would have been better.
+
+I'm gonna stop the review here.];B[db];W[cc];B[cb];W[bc];B[gb]
+;W[cs];B[bs];W[ds];B[do];W[eo];B[je];W[ie];B[kf];W[ke];B[jf]
+;W[id];B[ig];W[gk];B[gl];W[fl];B[gm];W[gn];B[fm];W[el];B[fn]
+;W[fo];B[bb];W[be];B[ac];W[ad];B[ab];W[ol];B[ok];W[kh];B[lh]
+;W[kq];B[kp];W[sm];B[so];W[jn];B[lp];W[ir];B[fj];W[fk];B[hj]
+;W[gj];B[ij];W[hi];B[pe];W[ne];B[pc];W[oa];B[ml];W[lm];B[om]
+;W[nm];B[sn];W[sl];B[ch];W[bg];B[an];W[aj];B[am];W[bl];B[qa]
+;W[pa];B[oo];W[po];B[pp];W[ln];B[rg];W[hb];B[ha];W[ia];B[ga]
+;W[hc];B[sh];W[si];B[rf];W[sh];B[sj];W[rj];B[mo];W[tt];B[ej]
+;W[tt];B[tt]TW[ja][ka][la][ma][na][jb][kb][lb][mb][nb][ob][ic]
+[jc][lc][mc][bd][cd][dd][kd][ld][md][ae][ce][le][me][af][bf]
+[ag][ah][sj][ak][sk][hn][in][go][ho][ep][gp][hp][eq][fq][gq]
+[hq][er][fr][gr][hr][kr][es][fs][gs][hs][is][js][ks]TB[aa][ba]
+[ca][da][ea][fa][ra][sa][fb][rb][sb][sc][qd][rd][qe][ef][ff]
+[fg][dh][eh][mh][di][ni][kj][lj][mj][nj][oj][kk][ao][bo][co]
+[ro][ap][op][sp][aq][nq][oq][qq][rq][sq][ar][nr][pr][qr][rr]
+[sr][as][os][ps][qs][rs][ss])
+(;W[qb]C[----
+
+This move is bigger.
+
+This is a great example of what I mean by playing moves that flow naturally from your style.
+
+You are trapped in your style and this caused you to play the monkey jump without thinking. If you spend the time to think, you will find that most of the moves that flow naturally form your style ARE NOT the best moves.]
+;B[rb];W[rd];B[rc];W[se]C[---
+
+Is Black alive?]))
+(;W[fb]
+(;B[ce];W[dd];B[be];W[bd];B[cd];W[bc];B[cc];W[cb])
+(;B[cd];W[cc];B[dd])))
+(;W[df]C[---
+
+This is much better.
+
+Black still needs to struggle for life.]))
+(;AW[mc][ld][ke][kf]AB[md][nd][le][lf][of][lg][mi]TR[me][ne]
+[pe][mf][nf][pf][mg][ng][og][pg][qg][mh][nh][oh][ph][ni][pi]
+[nj][oj]C[---
+
+Here are 20 points that could have been black territory if the ladder wasn't played.]
+))
+(;B[oh];W[oi];B[ni]C[---
+
+The White cutting stones are dead.]))
+(;W[jb]C[---
+
+More points this way.]))
+(;B[cq]C[---
+
+This is an enormous move. No one will play it for another 50 moves!!!
+
+Did you guys forget the basics? Corner first, then sides, then center.]
+))
+(;W[jq];B[of]C[----
+
+I think it's best for white to fix his weakness and let Black fix his weakness.
+
+This will give White sente.
+
+If Black doesn't fix his weakness, White should attack ASAP.]
+))
+(;B[np]C[---
+
+Should be here]))
+(;B[rl]
+(;W[ql];B[qk])
+(;W[qk];B[ql];W[pl];B[rn])))
+(;W[pj];B[qj];W[qk]C[---
+
+These is no way to tell if this is better at the moment. Need to wait until later to make a good comparison.]
+))
+(;B[rm]C[---
+
+Black can take away white's base very easily and in sente!]
+;W[ql];B[rn];W[qm];B[hq]C[---
+
+White gets a weak group and Black gets sente to play a big point on the board.]
+))
+(;W[fq]TR[dp]C[---
+
+This move may seem slow, but I think it's a good way of strengthening these stones (while taking territory). Since these stones are strong, white will be able to invade the right side sooner.]
+))

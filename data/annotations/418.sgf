@@ -1,0 +1,58 @@
+(;FF[4]GM[1]SZ[19]AP[SGFC:1.12]C[ you can see this best with winmgt.]DT
+[1997-04-30]PB[arcus]PW[unstable]BR[14k*]WR[13k]HA[0]KM[0.5];B[pp];W[dp]
+;B[pd];W[dd];B[qj]C[usual player play higher version (Q10), but this move is also possible.]
+;W[nq];B[qn]LB[lq:a][kp:b][pn:c]C[Go principle. "Avoid redundancy and Seek efficiency". black stones already occupied on 3rd line, and another stone on 3rd line added. a bit redundancy. from that perspective, this move is not good. better are pincer (eg.M3, L4) or higher version extension (Q6)]
+;W[pr];B[qq]C[too solid move. i'd like to skip here.];W[jp]LB[kq:a][lq:b]
+C[overplay by w. correct was L3(A). blck should seek M3(B) invasion (later or now)]
+;B[fc];W[ec]C[bad strategy. solidifing black and have 3-3 invasion.];B[fd]
+;W[df];B[jc]C[black's moyo became nice. that was fault of E17. white's best move was 3-3invasion, i think.(maybe my taste) see var.]
+
+(;W[pf]C[joseki(standard corner variation) is O16, but R14 seems work best. i am not sure about this.]
+;B[qf]C[let's see standard(correct) variation.]
+(;W[qe]C[overplay by w.];B[pe];W[qg];B[rf];W[rg]C[also white's overplay. to see black's right answer, see var2.]
+
+(;B[pg];W[of];B[sf]C[just caputure by S15!!];W[ph];B[sg]C[just capure.!]
+;W[rh]C[empty triangle. bad. white should skip here, or (better is) capture one stone by Q13, to prevent future aji(bad taste).]
+;B[cn]LB[fp:a]TR[pg]C[capure R15 stone. even if you didn't see it, play F4 or near, threatening Q13 stone's move.]
+;W[co]C[also bad move.];B[bo]LB[ck:a][cj:b]C[just extend. (D6). you should know....(white) this kind of move(C5) is used only when attacking. when white have another stone around C9, and black cannot extend to side(in korean, beol-lim). at first glance, white occupied corne. but when black invade to 3-3(C3), white cannot capture it. so, (black) should seek this aji(future utilization). B5 is bad because it removed 3-3 aji and achied nothing.]
+;W[cp]C[empty triangle.bad shape. block with B4. b5-c4 exchange was awkward.]
+;B[dn];W[fp];B[cj];W[rd];B[sh];W[ri]C[this exchang was good for white. black is weakening lower right side & made his sacrifice bigger. even if you could capture R15 stone, this exchange was not good. think before put a stone. bear it in mind. Even if it is sente(in korean, seon-su), Think before whether it is good or bad for you. Dont' make a meaningless exchange.]
+;B[qd];W[re];B[rc];W[si]LB[cc:a][bf:b][cg:c]
+(;B[cg]C[bad. feel to fo further.];W[cf];B[dg]LB[eg:a]C[bad. extend to below(B13). because this left painful hane (E13)]
+;W[oe];B[od];W[nd];B[nc];W[qc];B[pb];W[rb]
+(;B[pc]C[passive.];W[sc];B[md]LB[lq:a]C[from here, (black) should seek M3 invasion, and white sould prevent it.]
+;W[bp]C[well, from here, for black, 1)M3 invasion or other invasion oriented move or 2) hane at E14 was better move, another move all bad. for white, similar.]
+;B[bn]C[this exchange was only endgame move. both players should skip.]
+;W[mf];B[ff]C[direction was good, but just hane.];W[bg];B[bh];W[bf];B[ch]
+C[skip, or if you insist answering, answer by B11!
+ .(advantageous for territory)];W[pj];B[qk];W[qr];B[rr];W[no]C[at last white protected.]
+;B[om];W[fn];B[eo]C[if you didn't see utilization method, leave it alone. this kind of move just help white (solidifying).]
+;W[fo];B[eq]C[helping white.];W[ep]C[game became somewhat irreversible. overally, black played  somewhat passively. go(baduk) is efficiency-race, and please seek efficiency. and take some fighting spirit. (comment ended).]
+;B[eb];W[db];B[ed];W[dc];B[fb];W[fl];B[dl];W[nm];B[ok];W[nl];B[ol];W[ke]
+;B[nk];W[on];B[pn];W[op];B[ml];W[mm];B[mk];W[qp];B[rp];W[pq];B[qo];W[kc]
+;B[ld];W[kd];B[lc];W[ne];B[kb];W[le];B[oi];W[pi];B[oj];W[oh];B[nh];W[ll]
+;B[lk];W[kl];B[ng];W[og];B[kk];W[jl];B[jd];W[jk];B[jj];W[ij];B[ji];W[je]
+;B[ii];W[id];B[ic];W[hj];B[ie];W[hd];B[if];W[lh];B[me];W[lb];B[mc];W[mb]
+;B[nb];W[jb];B[ib];W[ka];B[lf];W[hb];B[ha];W[hc];B[jf];W[nf];B[fj];W[hi]
+;B[hh];W[gk];B[mg];W[kf];B[lg];W[kg];B[kh];W[ni];B[li];W[mh];B[gi];W[pk]
+;B[pl];W[rl];B[ql];W[rm];B[rn];W[sn];B[so];W[ga];B[gb];W[ia];B[fa];W[ge]
+;B[fe];W[gh];B[gg];W[fh];B[eh];W[fi];B[ei];W[gj];B[fg];W[gi];B[ej];W[fk]
+;B[em];W[fm];B[qb];W[rc];B[ra];W[oa];B[na];W[ob];B[rk];W[sk];B[sm];W[sl]
+;B[rj];W[sj];B[qm];W[ek];B[dk];W[ah];B[ai];W[ag];B[bj];W[rs];B[sr];W[ao]
+;B[an];W[ap];B[de];W[ce];B[ee];W[da];B[jg];W[hf];B[he];W[gd];B[gf];W[oo]
+;B[po];W[en];B[do];W[el];B[dm];W[qs];B[mi];W[nj];B[mj];W[nh];B[iq];W[fq]
+;B[jq];W[hr];B[lq];W[kp];B[hq];W[gr];B[mr];W[kq];B[kr];W[ir];B[jr];W[mq]
+;B[lp];W[lo];B[ko];W[mp];B[lr];W[jo];B[kn];W[jn];B[ln];W[mo];B[gq];W[er]
+;B[nr];W[or];B[os];W[js];B[jm];W[im];B[tt];W[tt];B[tt];W[tt];B[ef];W[qi]
+;B[sn];W[tt];B[tt];W[ha];B[tt];W[tt];B[tt])
+(;B[hp]C[invade here and utilize Q13 stone.];W[og];B[io]))
+(;B[cc]C[invade and ask white's response.]
+(;W[eb]C[if block here,.....];B[bf]C[destroy from below.])
+(;W[cd]C[if block here..];B[eb];W[dc];B[db];W[cb];B[bg]))
+(;B[bf];W[bd];B[ch]))
+(;B[of];W[pg];B[re]C[white became very heavy.]))
+(;W[qg];B[qe];W[ng];B[nd]C[later, black can peep (at Q12) and attack, or connect by hane(S13)]
+))
+(;W[qc]C[whick direction to block is difficult, but almost same.];B[qd];W[pc];B[oc];W[ob];B[nc];W[nb];B[mc];W[rd]
+;B[re];W[rc];B[qf];W[oj]C[white is safe.])
+(;W[qf];B[qe];W[pf];B[nd];W[ph];B[ri];W[mg]))

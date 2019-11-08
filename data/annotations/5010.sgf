@@ -1,0 +1,146 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+PB[Faab]
+BR[16k]
+PW[Fedya]
+WR[16k]
+KM[6.5]
+DT[2006-03-29]
+PC[The Kiseido Go Server (KGS) at http://kgs.kiseido.com/]
+RE[B+Resign]
+RU[Japanese]
+
+C[To the reviewer:
+
+Thank you in advance for reviewing my game.  This game seems typical for me: I fall far behind early on, and have to try to figure out some way to catch up.  And when I attack, things have a way of backfiring on me.
+
+With kind regards,
+Ted Schuerzinger
+Fedya on KGS
+
+[Calvin\]: Hi.   I agree with your assessment.  To improve your fuseki, play over the first 50 moves of professional games.   Try to understand the plans and don't worry about specific moves.  Do not study joseki independently of fuseki.   After you study the openings in a enough professional games, you'll start to see the key points.]
+;B[dp];W[pd];B[dd];W[pq];B[qo]
+(;W[np]LB[pl:A]C[Black's low approach is a little aggressive here.  Usually white responds more actively, with a pincer near A.  See  variation.]
+;B[pm]LB[qk:A]C[[Calvin\]: Q17 is too short.   Black should play at A (R9).   This needs to be punished.]
+
+(;W[kq]LB[jq:A]C[White can extend as far  as A (K3).];B[nc]
+
+(;W[qg]C[This ogeima is not common, but it may be an interesting move in this case, since black did not extend very far with Q7.  The main thing to consider is what will happen if black invades R17 immediately, as is usual.]
+
+(;B[qj]
+(;W[fc]C[Ted: This was the point where everything started going wrong.
+
+I don't see how this can be any worse than Black's play at R5.  Obviously, if I don't attack, I'm going to wind up giving up a large amount of territory down the road.  But when I do attack, I immediately end up with a weak group.
+
+Should I have attacked at M17 instead?
+
+[Calvin\]: Yes!  The invasion at R17 is large for black.  Because black has been allowed to settle his weak group on the right, any thickness white makes here is bound to be useless.  See variations.]
+;B[hc]C[[Calvin\]: This is a good move for black.]
+(;W[fe]SQ[hc]C[Ted: If I had played C17 on my previous move, I'd be told that it's too early, and that Black would get too much territory on the outside.  (At least, that's what I've been told by previous reviewers)  As a result, I don't think it's right to jump into the corner now.
+
+[Calvin\]: There is a big difference between invading san-san directly and invading when there is a helper stone like F17 outside.   But actually I think white should tenuki.  See variations.]
+;B[df];W[id]SQ[nc]C[[Calvin\]: If you know this joseki, then you know the marked black stone spoils it.]
+;B[gd]C[Ted: I wasn't certain how to respond in the rest of this sequence.]
+;W[fd]C[Ted: This seems like a move I have to play.];B[ge];W[ff]
+C[Ted: I don't like running out like this, but I also didn't like the idea of a one-space jump: Black will immediately try to split me.]
+;B[ic]
+(;W[if]LB[jd:A]C[[Calvin\]: I don't understand this move.  Usually white needs to stay ahead by playing at A (K16).]
+;B[jd]C[[Calvin\]: Black is instantly fine, and white is heavy.  This is where white lost control of the opening.]
+;W[je]C[[Calvin\]: This move is pushing from behind on the fifth line, and it seems to defend on unimportant stone, J16.]
+;B[kd];W[ke];B[ld]C[[Calvin\]: The result favors black.];W[fq]
+SQ[fc][fd][fe][ff]C[Ted: I didn't like the group(s) at the top, but I thought they might have enough aji for the time being, and besides, I need to try to make a weakness for Black.
+
+Also, I thought this would work well with the stones in the bottom right.
+
+[Calvin\]: It's a big move, but white needs to think about how to use the marked wall.]
+;B[cn]
+(;W[fo]SQ[kq]C[[Calvin\]: This is a moyo move, but I'm not sure it's a moyo position because white's marked stone is low.]
+;B[pb];W[qc];B[dc]
+(;W[gf]C[[Calvin\]: Note that black got to take a big corner in sente.  I know this move looks like honte, but does white have time for this?]
+;B[dh]
+(;W[dl]SQ[fo]C[Ted: Again, the point is to try to weaken one of the Black groups on the left side.  Instead, I end up with another weakness.
+
+[Calvin\]: This move doesn't really do much and the relationship between the two marked stones is bad.  If you are going to attack, think about where your profit is going to be.  Also, this move is not where black would play.]
+;B[cj]C[[Calvin\]: White should have played at C10 instead of black.  The general rule for timing of invasions is to invade right before your opponent is about to complete a large territory.]
+;W[cl]C[[Calvin\]: Okay, this is sente, but it really just forces black to take territory.]
+;B[dq]C[[Calvin\]: This is a good defense for black.];W[fm]
+SQ[cl][dl]C[[Calvin\]: The two marked stones don't have a purpose now.  White could have actually played F7 directly without the D8-C10 exchange.]
+
+(;B[gp]C[Ted: I'm in even bigger trouble than I was before.  The two groups on the right side are about equal, but Black has a big group on the top and a big group in the top left while I have nothing but weaknesses.
+
+I didn't see this move coming.
+
+[Calvin\]: The peep is probably not the best move, but an invasion might be possible here.  Actually, I think black could just start the endgame now and win.  See variation for black.  White should just consider this to be an overplay and try to kill any invasion.  Otherwise, the game is over.]
+;W[fp];B[jq];W[kp]C[[Calvin\]: Good.  This resists black's sabaki.]
+;B[jp];W[jo]C[[Calvin\]: Excellent!];B[io]
+(;W[jn]LB[in:A]C[[Calvin\]: White should consider the double hane of A (J6).]
+;B[gq];W[fr];B[gr];W[go];B[in];W[jm];B[kr];W[lr];B[ir];W[lq]
+;B[pf]C[Ted: Things have gone badly, badly wrong.  I try to exploit my opponents' weaknesses and end up with weaknesses of my own, while the reverse never seems to happen.
+
+[Calvin\]: The game is really over.  There are a couple chances black hands to white later on to make some big kos, but really the important things to learn are in the opening and early middle game.]
+;W[qf];B[pe];W[qe];B[pg];W[ph];B[nf];W[oh]C[Ted: I thought about the crane's nest tesuji, but I need a few more stones around for that to work.]
+;B[qi];W[od];B[nd];W[qh];B[nj];W[ne]C[Ted: At least *something* has gone right for me.]
+;B[mm];W[cs]C[Ted: Still trying to weaken the group in the bottom left.]
+;B[ds];W[dr];B[cr];W[es];B[bs]LB[br:A]C[[Calvin\]: This is a mistake.   Black has to play at A (B2).]
+
+(;W[ds];B[bq];W[bl];B[bn];W[ai];B[aj];W[bj];B[bi];W[ak];B[ah]
+C[[Calvin\]: Black makes the same mistake.]
+(;W[aj];B[bh];W[rq]C[Ted: I spent quite some time thinking about what to play here.  I honestly didn't have any idea what to play.
+
+[Calvin\]: It's the biggest area, but as you can see it's not enough.]
+;B[me];W[oe];B[mf];W[of];B[ri];W[rh];B[ek];W[el];B[fk];W[he]
+C[Ted: I'm not quite certain of the point of this move.  But it doesn't look as though there's anything much better to play.]
+;B[hm];W[gs]C[Ted: I realized as soon as I played this that it was a mistake.]
+;B[hs];W[fs];B[eq];W[ck];B[am];W[al];B[dj];W[dn]C[Ted: At least my group will get a second eye now.]
+;B[do];W[dm];B[gn];W[fn];B[hg];W[hf]C[Ted: Another group that's going to have to work to get two eyes.]
+;B[fh];W[ig];B[hh];W[ih];B[hi];W[ii];B[ij];W[hd];B[gc];W[kg]
+C[Ted: At least the group is going to have its two eyes.];B[mh]
+;W[jj];B[ik];W[jk];B[jl];W[kl];B[il];W[lm]C[Ted: All my groups are safe, but I've given up far too much territory.]
+;B[ml];W[lk];B[mk];W[qp];B[po];W[ro];B[rn];W[qb];B[oc];W[pc]
+;B[ls];W[ms];B[ks];W[mr];B[ln];W[kn];B[lo];W[ko];B[ll];W[km]
+;B[lj];W[kk];B[kh];W[jh];B[ki];W[ji];B[no];W[ob];B[nb];W[pa]
+;B[op];W[oq];B[mp];W[nq];B[so];W[rp];B[ni]C[Ted: At this point I counted.  I've got no more than 25 points in the top right, 20 from the group in the bottom right (extending all the way up to the top center), and two or three points in the bottom left.  Add that to komi, and I've got 55 points if I'm lucky.  Black's got 21 in the top left, 13 in the top center, about 25 in the right center, 11 in the bottom left, and about 10 points in the left center.  That's a minimum of 80, and that's even if I play F18 next followed by the monkey jump.  I saw no way to make up the minimum 25-point deficit I've got, so I resigned.]
+)
+(;W[bh]C[[Calvin\]: Again, this ko is a burden for black.]))
+(;W[br]C[[Calvin\]: Even though white has to make the first ko threat, this is a heavy ko for black.   If white doesn't want to resign, fighting this ko is the last chance.]
+))
+(;W[in];B[jn];W[ko];B[hn];W[im]C[[Calvin\]: Black should die.  If not, at least white will become strong in the center.]
+))
+(;B[mm];W[kn];B[qb]C[[Calvin\]: Black can just reduce white and take the first big endgame move.]
+))
+(;W[cj]LB[ce:A][cg:B]C[[Calvin\]: White's behind.  Time to invade.    White might also start with the peeps at A or B.]
+))
+(;W[ci]C[[Calvin\]: White has to pick up the pace.]))
+(;W[dr];B[cq];W[hp]C[[Calvin\]: This position is better for white at the bottom.]
+))
+(;W[jd];B[jc];W[kd]SQ[nc]C[[Calvin\]: At least this way black only makes territory on the 3rd line rather than the fourth.  But as I mentioned before, the the marked black stone (O17) ruins it.  It is also include how white would use the wall.]
+))
+(;W[cc]C[[Calvin\]: If white invades...];B[dc]C[It is normal for black to block on this side.]
+;W[cd];B[de];W[db];B[eb];W[cb];B[ec];W[cf]
+(;B[qc]C[Black gets an easy game.])
+(;B[pb]SQ[qg]C[[Calvin\]: Normally, black shouldn't slide at 'A' when white has the marked stone.]
+;W[qc];B[ld]C[But this formation is okay ideal for black.]))
+(;W[pc]C[[Calvin\]: Maybe white should start here and see what black does.  If you believe F17 is a mistake, treat it lightly.]
+)
+(;W[cf];B[fd];W[gd];B[gc];W[cd];B[ec];W[cc]C[[Calvin\]: Maybe.]
+))
+(;W[oc];B[nd];W[kd]LB[lc:A][ld:B]C[This is a more active way.  You can protect the corner a bit plus make black heavy.  There are other choices such as A and B.  I don't know which is best, but I wouldn't let black get away with leaving O17 alone.  To keep up in the game as white, you have to play a little actively, even with komi.  Also, think in terms of compensation.  Black has just settled a strong group on white's side.  What does white get in return?  You are owed something here.]
+))
+(;B[qc]C[Often black will invade immediately.  Whenever you play the ogeima extension of R13, you need to be prepared for this.]
+
+(;W[pc]C[Locally, blocking this way is usually best, but..]
+;B[qd];W[pe];B[qe];W[pb];B[qf];W[pf];B[rg];W[qh];B[rh];W[qi]
+;B[ri];W[kc]C[This is a joseki, but...];B[qj]C[Here this hane works well for black.]
+;W[pj];B[pk]C[Because black can play the double hane.])
+(;W[qd];B[pc];W[od];B[oc];W[qk]LB[lc:A]C[This is a possible attacking plan.   Later, A (M17) is a good point to pincer black.]
+)))
+(;W[qf]
+(;B[jd])
+(;B[pb];W[qc];B[kc];W[qk]C[[Calvin\]: One idea.])))
+(;W[qp];B[po];W[qk]C[[Calvin\]: White can try to overconcentrate black.  Notice how you would never play R4 if black had extended to R9, because then Q5 would give black ideal shape.]
+))
+(;W[pl]
+(;B[no];W[mq];B[qf];W[qh];B[qc];W[qd];B[pc];W[od];B[rd];W[re]
+;B[rc];W[qe];B[nc]C[Something like this is more active for white.]
+)
+(;B[pn];W[np];B[rq];W[jq]C[This is also playable.])))

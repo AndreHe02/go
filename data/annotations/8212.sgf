@@ -1,0 +1,132 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.17]
+
+PB[manuel97]
+BR[9k]
+PW[Runciter]
+WR[8k]
+KM[0.5]
+DT[2010-12-31]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[B+9.5]
+TM[900]
+OT[2x30 byo-yomi]
+RU[Japanese]
+
+C[Well, in this game, black played strane fuseki, but white didn't get advantage anywhere.
+
+1. Try to attack groups, which are weak, overconcentrate groups, which are strong (variation at move 7).
+
+2. Move, which makes few points more but it's weaker than strong and calm move, is not a good move in beginning or middle game. Main factor in these stages is strength of your groups. Strong groups helps you to keep sente, to control flow of the game. Weak groups/shapes needs additionals moves, which means lost of sente and beeing controled by oponnent. Ex. move 32
+
+3. And last but the most important for every player - Reading! Before you play any move, decide what you want to gain with that move. Then try to read few variations. Don't try to read them all, but read, read, read. Practice makes master. Critical moves you should read as far as possible. And moves with little variations you are able to read lot of moves ahead (likes ladders or net).]
+;B[dq];W[pd];B[qp];W[dd];B[jq]C[This is queit strange as white can extend from D16 along right side to get influence and also reduce black's shallow moyo.]
+(;W[do]C[This can cause you troubles, if black has stone at K3.]
+(;B[fp]
+(;W[dl]C[Because of F4, I would try to overconcentrate black... F4 looks like a mistake, as black has only lower side, while white has influence over two sides. See var]
+;B[cf]
+(;W[ce]C[This is too easy for black. Play this tsuke only when you want to overconcentrate black. Otherwise you just make him stronger.]
+;B[df];W[fd];B[cj];W[ck]C[Again, you've just helped black.]
+;B[dj];W[cp]
+(;B[nc]C[C3 looks like nice sente];W[lc]
+(;B[pb];W[qc];B[ne]C[Just for info: Don't play Q18 if you want to jump. It's better to jump directly and leave R17 as aji for later.]
+;W[pf];B[ld];W[kd];B[le];W[kc]C[Nice exchange for white. Black makes several mistakes.]
+;B[nq];W[qj];B[og];W[pg];B[ke];W[ie]C[There is so many aji in this shape. J16 is calm, but very secure. And it doesn't make significant difference in points (not in this stage of game).]
+;B[of]
+(;W[oc];B[ob];W[md];B[nd];W[mc];B[me]C[Well, black is happy now. He has strong group when white eliminated all aji... See var for move 33]
+;W[cq]C[C3 is nice, at it secures whites group and also takes corner.]
+;B[dr];W[cr]
+(;B[ep]C[Useless, see var. R7 is much bigger.];W[ff];B[qm];W[oj]
+;B[ni]C[I was trying to eliminate some of his central influence created by the bottom black moyo, but I was not clear how.
+
+Elvard: You are leading by territory right now. Simle reduction should be enough.]
+;W[om]C[This is nice.];B[on]
+(;W[pn];B[pm];W[nn];B[oo];W[ol]C[This is crude:/ Q6 is useless. See var]
+;B[no]
+(;W[mm]C[Looks like shape, but it just gives black another territory.]
+;B[mn];W[nm];B[ln];W[jo]C[My last attempt. I want to damage and out.]
+;B[jm]
+(;W[kn]C[You are not running out :) You are running into his hands... See var]
+;B[km];W[lm];B[in];W[fn];B[go];W[gn];B[ho]
+(;W[bf];B[bg];W[be];B[bk];W[bl];B[dk];W[cl];B[bj]C[Black is happy with secure group. See var]
+;W[ql];B[pl];W[pk];B[rl]
+(;W[qk]
+(;B[qn];W[rk];B[sm];W[kj];B[kh];W[oi];B[nh];W[nj];B[mj];W[mi]
+C[...];B[li];W[mh];B[mg]C[It was just 3 moves ahead, moreover it was very simple ladder. If you decide to cut somewhere, try to read it first. Ladder and net are the most simplest capturing techniques, when you get stronger you will know others, but they are usually based on ladder or net.
+
+You just lost few points her.];W[mk];B[lj];W[lk];B[oh];W[ph]
+;B[kk]C[This is severe cut.]
+(;W[jj];B[jk];W[ij];B[ee];W[ed];B[fe];W[ge];B[gf]C[This is also severe cut.]
+(;W[hf];B[gg];W[hg];B[gh];W[hh];B[fi]C[Black has build sooo much territory...]
+;W[fk];B[gj];W[mb];B[nb];W[qb]LB[ag:B][ds:A]C[biggest move?
+
+I don't think so. There is so many sente moves left. A and B for sure.]
+;B[pc];W[od];B[pe];W[qe];B[oe];W[qd];B[gk]
+(;W[ik]C[How many points makes this move? See var];B[fl];W[el]
+;B[ek];W[fm];B[gl];W[ds];B[es];W[cs];B[er];W[bh];B[ch];W[ag]
+;B[cg];W[ai]C[Simply play A12.];B[bi];W[ah];B[aj];W[af]
+(;B[eo];W[en];B[hm]C[Looks like zero-point move.];W[de];B[ef]
+;W[jl];B[kl];W[il];B[je];W[jd];B[jg];W[ii];B[if];W[hd];B[dp]
+;W[co];B[hn]C[Black still has R19...];W[ig];B[jf];W[ki];B[lh]
+;W[jh]C[Good, but now, H16 was useless.];B[fo];W[ll];B[gm];W[dn]
+;B[al];W[am];B[ak];W[bn];B[im];W[sk];B[sl];W[na];B[oa];W[ma]
+;B[qa];W[ra]C[Black could play ko again...];B[pa];W[rb];B[hi]
+C[Zero-point move...];W[hj];B[gi];W[tt];B[tt]TW[aa][ba][ca]
+[da][ea][fa][ga][ha][ia][ja][ka][la][sa][ab][bb][cb][db][eb]
+[fb][gb][hb][ib][jb][kb][lb][sb][ac][bc][cc][dc][ec][fc][gc]
+[hc][ic][jc][rc][sc][ad][bd][cd][gd][id][rd][sd][ae][he][re]
+[se][qf][rf][sf][qg][rg][sg][ih][qh][rh][sh][ji][pi][qi][ri]
+[si][pj][rj][sj][nk][ok][ml][nl][bm][cm][dm][em][an][cn][ao]
+[bo][ap][bp][aq][bq][ar][br][as][bs]TB[ff][kf][lf][mf][nf][dg]
+[eg][fg][kg][lg][ng][dh][eh][fh][mh][ci][di][ei][mi][ej][fj]
+[fk][rm][jn][kn][pn][rn][sn][io][jo][ko][lo][mo][po][qo][ro]
+[so][gp][hp][ip][jp][kp][lp][mp][np][op][pp][rp][sp][eq][fq]
+[gq][hq][iq][kq][lq][mq][oq][pq][qq][rq][sq][fr][gr][hr][ir]
+[jr][kr][lr][mr][nr][or][pr][qr][rr][sr][fs][gs][hs][is][js]
+[ks][ls][ms][ns][os][ps][qs][rs][ss])
+(;B[al];W[am];B[bm]C[Black can start this ko, which is very good for him. That's why A12 is better.]
+))
+(;W[gl]C[Better. Since J9 prevents black from making 1-2 points and its gote, it's the move to the very late endgame.]
+))
+(;W[ef];B[de];W[dg];B[cg];W[fh]C[Difficult to save both white's group, but at least one can survive... Both groups are small, so loosing them is about 6-8 points.]
+;B[he];W[gd];B[hd];W[hf]C[This is not big problem.]))
+(;W[ki]C[I would escape this way...];B[lh];W[ij];B[jh];W[ii]
+))
+(;B[rm]))
+(;W[rm]
+(;B[qk];W[qn];B[ql];W[sl]C[ Not possible for black.])
+(;B[qn];W[rk];B[qk]C[You have another flower ko here.])))
+(;W[bh]
+(;B[bk];W[bl];B[dk];W[cl];B[be];W[bd];B[de];W[cd];B[bg];W[dh]
+;B[ch];W[ci];B[di];W[cg];B[bi]C[At least you can fight this ko.]
+)
+(;B[bg];W[bj];B[be];W[bd];B[de];W[cd];B[ch];W[bi];B[eh];W[ae]
+;B[bf]C[White gains some territory and black's group can be attacked further]
+;W[gh]LB[mg:A]C[Black has to care about A group as soon as possible.]
+)))
+(;W[ho]))
+(;W[mn]))
+(;W[nn]
+(;B[pn];W[nm])
+(;B[nm];W[pn];B[oo];W[pm];B[qn];W[po];B[pp];W[no];B[op];W[ln]
+;B[nl];W[pk]LB[ok:A]C[or A, I'm not sure. Black can secure his territory while attacking his three stones, but white can attack one of his weak groups.]
+)))
+(;W[er]C[Black plays elswhere and white...];B[eq];W[ds];B[fr]
+C[Doesn't get so much...]))
+(;AW[id]AE[ie];W[ig]C[Suppose you have stone at J16. You can "attack" both groups by jumping between them. You don't have to kill them, but with simple attacking you will gain territory or influence, while black will gain nothing...]
+))
+(;B[ne];W[pf];B[qc]C[Black can play this move later and grabs corner]
+))
+(;B[cq]LB[cm:A][cn:B][cq:C]C[This formation has weak points at A and B, while C secures corner.]
+;W[tt];B[cm];W[dm];B[bk]C[Black is connected];W[cl]C[If white tries to resist...]
+;B[cn]
+(;W[dn];B[bp]C[Connected...])
+(;W[bl];B[bp];W[co];B[bo]C[Connected again])))
+(;W[fd];B[bd];W[ch];B[cc];W[ce];B[be];W[df];B[bf];W[dg]C[White is building big influence.]
+))
+(;W[cq];B[cr];W[cp];B[er];W[cl]LB[jd:A][dj:B][pj:C]TR[dd][pd]
+C[White stones still has lot of possibilities of developement... White could get sides A or B or even C, if it would be possible. On the other hand, black can safely expand only to side C... I like white in this position]
+))
+(;B[dl];W[fo];B[fq];W[ho];B[gp];W[go];B[di]LB[do:A][gp:B]C[This is the reason, why A is not good if black has stone at K3. B connects black's stones in sente.]
+))
+(;W[co]LB[dn:A]C[or A, black is still low and white is building moyo]
+))

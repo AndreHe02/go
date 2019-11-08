@@ -1,0 +1,136 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+PB[xdx]
+BR[13k]
+HA[2]
+PW[doc77]
+WR[11k]
+KM[0.5]
+DT[2008-02-08]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[B+5.50]
+TM[1800]
+RU[Japanese]
+
+AB[pd][dp]C[H: Hello, I'm Hannes and will review for black's side.]
+;W[pp];B[dc];W[nc];B[qh]LB[pd:B][qf:A][qg:C]C[H: That's probably too far an extension. If white plays A, B is under heavy attack.
+
+I'd suggest A, but C is also possible.];W[mq];B[jc]LB[lc:B]
+[nc:A][ce:C][cj:E][cn:D]C[H: If black want's to attack white A, playing B would be better, as it immediately pincers A.
+
+In case you don't want to attack immediately, the left side is open to extensions (C,D) and large-scale moves (around E)]
+;W[kc];B[ck]LB[jc:B][kc:A][nc:C][jd:D]C[H: The contact move at A should not be ignored as it both attacks black B and tries to strenghen/settle white C.
+
+Playing D would reinforce blacks stones immediately];W[ic];B[jd]
+;W[jb];B[pc];W[oc]
+(;B[cf]LB[jb:D][ic:C][kc:E][ce:A][cf:B]C[H: Playing A would secure the upper left corner. B is a more fragile extension. But there's nothing perticularly wrong about it, I think.
+
+Another strategy would have been: use whites weakness in the C,D,E-"Group" to build a solid wall facing the center (see variation).]
+;W[cd];B[dd]LB[cc:C][dc:A][cd:D][dd:B]C[H: I doubt that black can capture the white intruder (see variation). And the black wall (A,B) is not securing any territory.
+
+Defending at C would have secured the corner with D becoming a very weak stone.
+(So black can build territory by attacking the fleeing white stone)]
+
+(;W[ec];B[de]LB[cd:A]C[H: good move. As white gives up A, black takes it. Big corner!]
+;W[ed];B[hq]LB[db:A][hq:B]C[H: Black could have played A first. This will make points in the corner and white must respond. So black keeps sente (for e.g. playing B next)]
+;W[cq]
+(;B[dq]LB[cf:E][ck:F][cp:D][dp:A][cq:B][dq:C]C[H: If a 4-4 (A) is attacked by the 3-3 (B), the defender can decide, whether he wants the resulting wall be in horizontal or vertical direction. (see variation)
+
+Although I don't think, playing C is wrong, I would have chosen D (horizontal wall), which fits nicely with E and F building a big black moyo on the left.]
+;W[ee];B[cp]C[H: Good move.];W[id]
+(;B[je]LB[kd:A]C[H: Playing A would have been another possibility (see variation)]
+;W[kd];B[jg];W[pb];B[qb];W[pa];B[qa];W[ob];B[qc];W[od];B[pf]
+C[H: Good sequence by black];W[pe];B[qe];W[oe];B[lg]LB[ke:A]
+[ef:E][ek:B][qk:D][kq:C]C[H: I'm not sure what black tries to accomplish, here. So I guess it's a lost move.
+
+Alternatives are:
+
+1) Playing A to strengthen the black group and to aim at cutting white off the center
+
+2) Building potential territory: B, C, D
+
+3) Playing E to cut off white while building potential territory]
+;W[ce]
+(;B[ef]LB[cc:A][ef:B]TR[bh][ch][dh][eh][fh][gh][hh][bi][ci]
+[di][ei][fi][gi][hi][bj][cj][dj][ej][fj][gj][hj]C[How could I have played this sequence more strongly?
+
+H: This depends on what your aim is. If you want to keep the corner (capture white), reducing white's eye space is most important (see variation starting at A.
+
+Playing B could help getting the marked territory];W[cc];B[cb]
+LB[db:A]C[H: Mistake. White A would capture the black stone (see variation)]
+
+(;W[eb]C[H: but white does not see this, black is lucky];B[db]
+;W[bf]LB[cg:A]C[D13 then A17?
+
+H: D13 does not help as white connects underneath (see variation)
+
+White's alive, I think (see variation)]
+(;B[bc];W[cg];B[df];W[be]
+(;B[gf]LB[ck:A]C[H: Black should run in the direction of A (see variation), building potential territory]
+;W[ge];B[if];W[ie];B[cn]TR[ff][hf]C[H: black is not yet connected! (see variation of whites next move)]
+
+(;W[ke];B[jf];W[me];B[ng]C[H: good connection];W[ch];B[ql];W[ff]
+;B[fg];W[fe];B[eg];W[hf];B[gg];W[hg];B[hh];W[cj];B[ig];W[he]
+;B[dk];W[dj];B[ej];W[bk];B[bl];W[ak];B[al];W[bi];B[cm];W[iq]
+;B[qn];W[qq];B[rp]LB[ho:B][oo:C][hp:A][kq:D]C[H: not bad, but there are bigger moves like A, B or C
+Attacking D would be possible, too.];W[rq];B[qo];W[oo];B[om]
+;W[ip];B[hp];W[io];B[mm];W[ho];B[go];W[mn];B[nn];W[mo];B[no]
+;W[np];B[lm]C[H: good sequence];W[gn];B[fo];W[hm];B[hj]LB[jl:A]
+[jm:B]C[H: this move does not help black's territory. Playing A or B does.]
+;W[kn]LB[hj:A][ik:C][il:D][jl:B]C[H: if white played more aggressive, he could punish black A by playing B, C or D]
+;B[km];W[ln];B[il];W[jm];B[jl];W[im];B[hl];W[hr];B[gr];W[ir]
+;B[gq];W[gl];B[gk];W[fl];B[el];W[fn];B[en];W[fk];B[fj];W[ek]
+;B[dl];W[em];B[dm];W[eo];B[fm];W[gm];B[ep];W[fp];B[do];W[fq]
+;B[fr]C[H: good move];W[on];B[nm];W[pm]
+(;B[pl]LB[pn:A]C[H: black could cut at A instead (see variation)]
+;W[qm];B[rm];W[pn];B[rn];W[qp];B[di];W[dh];B[ci]C[Note - Silly mistake.]
+;W[ei];B[fi];W[eh];B[lf];W[le];B[nf];W[kf]LB[sq:A]C[M13 is a much better move here than what I did (015).
+
+H I don't think so. Black made a mistake later on.];B[ne];W[kg]
+;B[kh];W[jh];B[ih];W[lh];B[ji];W[fh];B[gh];W[ki]
+(;B[li]LB[jh:A]C[H: mistake. Black should play A (see variation)]
+;W[jh]C[H: now this is a desaster as white runs right into blacks territory]
+;B[po]C[H: good idea to use the ko, but is black sure, white has less threats?]
+;W[kh];B[op];W[oq];B[mh];W[lj];B[mi];W[ii]LB[ii:B][jj:A]C[H: mistake. white B should have been at A]
+;B[jj];W[gi];B[gj];W[kj];B[jk];W[mj];B[nj];W[nd];B[mk];W[ni]
+;B[oi];W[lk];B[ml];W[of];B[pg];W[og];B[oh];W[mf];B[nh];W[mg]
+;B[sq];W[sr];B[sp];W[rr];B[kl]LB[ea:A][ad:B]C[H: unnecessary move. better play A or B]
+;W[bd];B[ab];W[hb];B[gp]C[H: unnecessary again];W[ad];B[hs]
+;W[is];B[gs];W[er];B[eq];W[da];B[ca];W[ac];B[bb];W[ea];B[oo]
+;W[lp];B[tt];W[bq];B[dr];W[cr];B[cs];W[bs]TR[bq][cq][ar][cr]
+C[H: the marked stones are the minimal living group in a corner. black must prevent it (by playing the last point, white is missing: A2)]
+
+(;B[ds];W[ar];B[ap];W[aq];B[bp]C[Note - What move sequence could have prevented his invasion in the lower left from living?
+
+H: See variation before
+
+(End of review)];W[tt];B[tt]TW[fa][ga][ha][ia][ja][ka][la][ma]
+[na][oa][fb][gb][ib][kb][lb][mb][nb][fc][gc][hc][lc][mc][fd]
+[gd][hd][ld][md][ae][af][lf][ag][bg][lg][ah][bh][ai][ci][di]
+[aj][bj][hn][in][jn][jo][ko][lo][jp][kp][mp][jq][kq][lq][nq]
+[pq][br][jr][kr][lr][mr][nr][or][pr][qr][as][js][ks][ls][ms]
+[ns][os][ps][qs][rs][ss]TB[aa][ba][ra][sa][rb][sb][rc][sc][qd]
+[rd][sd][re][se][qf][rf][sf][qg][rg][sg][ph][rh][sh][gi][hi]
+[ii][ni][pi][qi][ri][si][ij][oj][pj][qj][rj][sj][hk][ik][nk]
+[ok][pk][qk][rk][sk][cl][nl][ol][rl][sl][am][bm][pm][qm][sm]
+[an][bn][dn][on][pn][sn][ao][bo][co][eo][ro][so][fp][fq][er]
+[es][fs])
+(;B[ar];W[bp];B[bo]C[H: white is dead];W[ao];B[an];W[ap]))
+(;B[jh]))
+(;B[pn];W[qm];B[rm];W[pl];B[pk];W[ol];B[nl]))
+(;W[hf];B[hg];W[ff];B[he];W[fg]))
+(;B[dg];W[ch];B[dh];W[ci];B[di];W[cj];B[dj];W[bk];B[cl]TR[fh]
+[hh][fj][hj][fl][hl]C[marked points might become territory]
+))
+(;B[dg];W[cg];B[df];W[ch])
+(;B[cg];W[bg];B[bh];W[bb];B[ba];W[bd];B[ag];W[ae];B[ac];W[ab]
+))
+(;W[db];B[df];W[bb]))
+(;B[cc];W[bf];B[cg];W[bc];B[bb];W[bg];B[bh]C[I did not check it thoroughly, but white should be dead]
+))
+(;B[kd];W[lc];B[ld]))
+(;B[cp];W[dq];B[bq];W[br];B[bp];W[eq];B[ep];W[fq];B[fp]))
+(;W[cc];B[cb];W[ce];B[de];W[bf];B[be];W[bd];B[bg];W[ae]
+(;B[cg])
+(;B[bb];W[cg];B[df];W[bh])))
+(;B[kd];W[lc];B[ld];W[md];B[id];W[hc];B[hd]))

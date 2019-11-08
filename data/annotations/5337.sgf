@@ -1,0 +1,134 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+PB[GrannyWwax]
+BR[9k]
+PW[qa]
+WR[8k]
+KM[0.5]
+DT[2006-08-29]
+PC[The Kiseido Go Server (KGS) at http://kgs.kiseido.com/]
+RE[W+Resign]
+TM[600]
+OT[25/600 Canadian]
+RU[Chinese]
+
+C[I am B, this is a game on KGS, W is 8k, B is 9k
+
+A: Hello, My name is Andreas, I was about 3k on KGS when I last played there half a year ago. I used CGoban2 for editing, and my comments were marked with A: 
+
+A: I got the feeling that B got out ahead during the opening, but obviously lost during the middle game. 
+
+A: Your biggest problem in this game was finding the correct direction for attacking. Attacking to kill is normally futile, and the crucial point in attacking is finding the right direction to build territory while attacking, and ending the attack to complete it before the opponent can tenuki. 
+
+A: The game was of course lost after Your opponent captured Your upper side group. Remember Shygosts list (should be known to a KGS player): 
+1. Take care of Your own weakness
+2. Attack Your opponents weakness
+3. Take big points
+
+A: In the opening, You played tenuki to build Your framework while Your opponent build a thick formation in the lower left. Even though Your opponent played too slow, remember that having thick groups allows Your opponent to invade deeply without much worries.]
+;B[pd];W[dp];B[qp];W[dd];B[fq];W[cn];B[kq]C[A: Mini-Chinese, a very common fuseki recently]
+;W[eq]
+(;B[pj]LB[fp:A]C[I wasn't sure about this tenuki, Q10 is certainly big, but F4 hurts my F3 in a very bad way.
+
+A: Playing F4 is necessary in my opinion, it makes whites kosumi look bad.]
+;W[gq]LB[fp:A]C[A: strange move, F4 looks more normal.]
+(;B[fc]C[I decided to tenuki again, if he wants to spend a bunch of moves killing F3, just let him
+
+A: good decision. B can get no good result in the lower left anymore, so its probably best to tenuki.]
+;W[fp]C[A: overkill]
+(;B[cf];W[df];B[dg];W[ce]C[A: bad move by W, the outside is more important]
+;B[ef];W[de]
+(;B[eg]LB[fd:A][fe:B]C[A: w can attach at A to get out, so it might be better for w to play B]
+;W[ec]LB[fd:A]C[A: Better at A];B[fd]C[A: W is doing B a big favor by giving B an outside wall facing the B Moyo]
+;W[ch]C[A: If w wants to connect under, he should play b13. This move looks bad]
+;B[cg]C[A: correct];W[ci]C[A: w is extremely overconcentrated on the left side now.]
+
+(;B[mc]LB[kd:A]C[A: Top is biggest, but I would have played L16 for a splendid moyo.]
+;W[ph];B[qe];W[qj];B[qk];W[qi];B[pk];W[pf]
+(;B[rg]C[A: maybe other points are bigger now. If B reinforces, you could get 2 of them.]
+;W[qg];B[rh];W[od];B[oc];W[pc]
+(;B[nc]C[A: See variation];W[qf];B[re];W[rf];B[sf];W[sg];B[sh]
+;W[qd];B[pe];W[oe]
+(;B[rd]LB[of:A]C[A: id consider cutting at A instead, but it doesnt really work.]
+;W[og];B[nf];W[of]
+(;B[lf];W[jf]
+(;B[lh]C[A: N11 looks like good shape];W[nh];B[mj]C[A: the idea is correct, but as a result of the attack, You damage Your lower right too much. As its impossible to kill w, You should harrass him and try to build territory on both sides.]
+;W[mi];B[li];W[nj]
+(;B[oi]LB[nk:A]C[A: Why not the natural move at A? See variation.]
+;W[ni]
+(;B[mk]C[A: See variation];W[nk]
+(;B[ml];W[nl]
+(;B[nm];W[ol];B[qm];W[om];B[nn];W[on];B[no];W[po];B[qo];W[pp]
+;B[qq];W[pq];B[pr];W[or];B[qr];W[mq];B[np];W[nq];B[lp];W[mp]
+;B[lo];W[mo];B[ln];W[jd];B[kc];W[jc];B[ke];W[kd];B[ld];W[kb]
+;B[lc];W[je]
+(;B[jh];W[gb];B[fb];W[hb];B[lb];W[hg];B[hd];W[ge];B[ed];W[dc]
+
+(;B[hc]C[A: the cut is important];W[ee];B[fe];W[ff]C[A. game over here.. You let w capture a big group in front of  Your costly wall, it should be impossible to catch that up.]
+
+(;B[gf];W[fg];B[hf];W[gg];B[he];W[ig];B[ib];W[jb];B[ic];W[ia]
+;B[ga];W[ha];B[eb];W[db];B[ea];W[bb];B[gc];W[ja];B[jg];W[if]
+;B[ei];W[dk];B[hi];W[da];B[be];W[bd]
+(;B[cj];W[dj];B[di];W[bj];B[fk];W[gm];B[fm];W[gn];B[eo];W[do]
+;B[dm];W[cm];B[dl];W[cl];B[fl];W[il];B[fr];W[gr];B[fo];W[gp]
+;B[go];W[ho];B[ep]C[crude move, i hate it];W[er]
+(;B[hn]C[needless complications];W[in];B[hp];W[io];B[ip];W[jp]
+;B[jq];W[iq];B[ir];W[hq];B[lr];W[mr];B[ns];W[lq]
+(;B[kr];W[qh]
+(;B[rk];W[kp];B[js];W[ls];B[ms];W[os];B[ks];W[nr];B[hs];W[hr]
+)
+(;B[kp];W[ri];B[rk];W[si]C[I guess W can live anyway]))
+(;B[kp];W[kr];B[jr];W[ls]C[Now B needs good endgame
+
+A: dont trust the score estimate. No endgame can save this.]
+))
+(;B[lr]C[this instead?]))
+(;B[fh];W[ie];B[ih];W[id];B[kf]C[A: tough ko, but You have lots of threats against the right side Group.]
+;W[fa];B[op]))
+(;B[fg]C[sac now?
+
+A: if You give them away, Youve lost the game already. The wall was expensive, facing only strong groups now its almost useless. Maybe resign.]
+;W[gf]
+(;B[gg])
+(;B[hh])))
+(;B[ee]C[This seems simple and strong
+
+A: not that strong, b doesnt have a base yet.]))
+(;B[ih]))
+(;B[mm];W[pm]C[better?
+
+A: not good either, you should let him run diagonally towards the lower left while building on both sides.]
+))
+(;B[nl];W[ol];B[ok];W[om]C[A: too complicated];B[qm];W[pn];B[qn]
+;W[ml];B[nm];W[ll];B[lk];W[kk];B[lj];W[mn]C[A: captured in geta]
+))
+(;B[om];W[mk];B[lj];W[nk];B[mm];W[ll];B[lm];W[kl];B[ii]C[A: something like that, although You cant rely on your opponents answers.]
+))
+(;B[nk];W[mk];B[lj];W[ok];B[nl];W[oj];B[ol];W[pi];B[rk]C[A: Looks ok to me]
+))
+(;B[jd]C[again, take points?
+
+A: id play N11, surrounding white right side, building in all directions]
+)
+(;B[mi]C[A: Beautiful, working in all directions]))
+(;B[jd]C[Maybe just play calmly and take points? no idea,seems slack
+
+A: M14 is fine]))
+(;B[of];W[rd];B[se];W[sd];B[sg]
+(;W[nf];B[og];W[me];B[oh];W[qh];B[qc];W[pb];B[rc])
+(;W[qb];B[pb];W[qc];B[nf]LB[ob:A]C[A: A is sente now, and the side group is in big trouble.]
+)
+(;W[ne]C[A: this move is a reason not to cut...];B[qc];W[pb]
+;B[rc];W[ng])))
+(;B[qc];W[pb];B[ob]))
+(;B[me];W[qf];B[op]))
+(;B[kd]))
+(;B[fe]C[A: normally this is better in this situation];W[cg]
+;B[dh]))
+(;B[jd]C[Maybe this? I wasn't sure]))
+(;B[fp]C[but now I wonder whether this would have been better, way more aji to play around with later. The kill was too clean I think
+
+A: Not in the opening. If You want to answer here, You should better have answered E3 before.]
+))
+(;B[fp]C[A: There is still aji left in the corner, and the white bottom side gets strengthened]
+))

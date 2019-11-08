@@ -1,0 +1,363 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.17]
+
+PB[nagaoka]
+BR[13k]
+HA[0]
+PW[Cenair983]
+WR[12k]
+KM[0.5]
+DT[2011-07-20]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[W+Resign]
+TM[600]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+C[Hello, I am Chris Dams and I will be your reviewer today.
+
+First some general remarks.
+
+In the fuseki both of you seem to like the kind of diagonal extension that I show in the variation of this first move. However, that extension is
+quite weak as the opponent can play in the middle of it. Leaving holes that the oppenent can run through is generally a bad idea.
+
+Also, in the end game you play some really timid moves where you could actually have made moves that make points. Especially when it is close
+you really should not be doing that.
+
+(-- I am Cenair983 [White\] on KGS. I have reviewed this game and have included my post-game comments surrounded in (--- ---).
+
+I'll try to label any variations I put in as well as ask questions. Do not feel obligated to answer them, though you are welcome to. I expect that there are key concepts I missed and poor moves I played that are not touched upon the questions, so feel free to give additional comments.
+
+Some abbreviations:
+    Bl - Black, referring to the black player
+    Wh - White, referring to the white player
+    Bl# refers to move #, made by the Black Player (like Bl35)
+    Wh# refers to move #, made by the White player (like Wh26)
+
+Thank you kindly for your review!
+
+Cenair983 KGS --)]
+(;B[dd]C[Cenair983 [12k\]: Hello
+Cenair983 [12k\]: Good luck];W[pp]C[nagaoka [13k\]: hello];B[dp]
+;W[pd];B[pj];W[ph]C[Uh uh. Difficult question. I am not a pro, you know ;-). Seriously, games are not won or lost over moves in the fuseki. I think it is best to play what you are
+comfortable with and what you like. You might consider placing this white stone on R12 instead. In the game, after you pincer black Q10, Black does quite
+some damage, but with a white stone on R12, decending to S10 becomes less attractive to Black.
+
+(--- With this move I let black have all three left side star points. Was this a mistake? If not, was my play Wh6 reasonable? ---)]
+;B[dj];W[pl]C[Again, R8 was a possibility. It is not a problem if one of these pincering stones is high, but if both are high, S10 does quite some damage.
+Also R8 threatens to cross underneath on R10.
+
+(--- I did not expect black to ignore me here, so I took most of the left side, forcing Black to run (which I was happy he did). ---)]
+;B[rj];W[rh]LB[nj:A][rl:B]C[You might also consider White R11 instead. If you are lucky, Black answers on R10 and you got your move protecting the upper right for free.
+
+I also added some comments in your variation.
+
+(---
+
+Variations:
+
+A - Actual Game
+B - What I thought might be a better move for black and some of my responses
+
+---)]
+(;B[nj];W[nh];B[jj]C[This is a rather strange move by Black. It leaves a big hole between K10 and O10. Playing on M10 seems a good idea.]
+;W[fq];B[fn]LB[dn:B][go:A]C[So many strange moves..... Your poor reviewer is terribly confused now. What I know for certain though is that your suggested move B is not good.
+Black should play E5 after B and then the stone on D6 is just weak and cut off and F3 might end up weak as well if you do not do something about.
+I guess your move A is okay. I might have played J4 while waiting for an opportunity to play E5. These two black stones have a big hole in between
+them and running through holes is a nice activity with lots of profit.
+
+(--- What is a good response to this move?
+
+Variations:
+
+A - Actual game play
+B - Attempt to invade ---)]
+(;W[go];B[lj];W[rl]C[This would also have been a good time to play K16 and prevent Black from playing there.]
+;B[jd];W[cc]TR[dd][dj][jd]C[Yes, invading on 3-3 is good here. If Black were to close the corner at D17 or C16, he is bound to get lots of territory in that neighbourhood.
+
+(--- Was this a good time for a 3-3 invasion? I've thought that once I let black get a double-wing (see marked stones) I should invade the corner ---)]
+;B[cd];W[dc];B[bc]LB[bb:A][ec:C][ed:B]C[The move in the actual game is fine. Since Black had better answer, you are getting C for free after it, so no need to play it immediately. As you found
+out yourself, you are too weak in the area to play B.
+
+(--- What is the best way to respond to this move?
+0
+Variations:
+
+A - Actual Game
+B - An aggressive attempt that seems to fail
+C - A different more conservative attempt.
+---)]
+(;W[bb];B[bd];W[ec];B[ab]C[This is not a good move by Black. You can play H17. The profit you make on the outside is larger than what Black makes by capturing your stone. Note
+that it is also not the case that Black is gaining stability if he were to capture your white stone on B18. He is already stable enough, so capturing this
+stone is just a few points in the corner. Not  worth it. If he captures the stone, it is gote too, so you get to do another move somewhere else, making
+profit.];W[ba];B[ee];W[gd]C[H17 leads to solid territory and your White group will probably not come into danger anymore. In the game you play J17 to make sure your group is safe
+but then you have done two moves for this purpose. That is a bit much.]
+;B[fg];W[ic]C[If you had done H17 instead, you could chase the black stone by playing M17 instead, making sure that you get territory in the upper right, though
+maybe not all of what you outlined with the white stones.];B[jc]
+;W[id];B[ib];W[hb];B[jb];W[ie]C[Preventing Black from getting a base on the upper side is more urgent. Play e.g., O17 instead.]
+;B[ff]C[Bad move for Black. This is very small. The big move for Black would have been O17 getting a base for his stones at the upper side. Now you get the
+opportunity to play there and create some nice territory for yourself while forcing your oppenent to run for safety.]
+;W[nc];B[ke];W[jg];B[mf];W[nf];B[mh];W[mg];B[lg];W[ng];B[lf]
+;W[jo]C[The cut on M12 is too attractive to let go off.];B[li]
+;W[nl];B[qq];W[qp]C[This seems to be the wrong direction. The wall that you can expect to get in this joseki is too close to the O8-Q8-S8 group if it faces upwards but
+at the right distance if it faces the stone on K5.];B[pq];W[oq]
+;B[or];W[nq];B[nr];W[mq];B[rq]C[Strange move. The joseki has S4 instead. That takes a little bit more territory from White at no cost.]
+;W[rp];B[sq];W[oo]C[This move is not useful. If Black plays on P4 you can capture him anyway. If you want to make sure that P4 does not cause any danger, play N2
+instead.];B[qr]C[Does not seem useful either. Blacks corner is not in danger. If Black is doubting that more safety can be acquired by playing N2 and that move
+at least comes with some profit.];W[mr];B[ns];W[ll];B[cq];W[gn]
+;B[gm];W[hm];B[hl];W[jl]C[This should have been on J8. It is a pushing battle, so you need to keep pushing. Black would need some kind of defense after J8.]
+;B[fl];W[im];B[ik]LB[io:A][ss:B]C[(--- I am testing to see if Wh78 is necessary.
+
+Variations:
+
+A - Connecting at W78
+B - White plays elsewhere (see its variations for how to fight the connection). Note: this is not where I would play if I played elswhere. I just wanted to select a neutral point
+
+From variations I conclude that the connection is probably unecessary but leads to complicated playing. Since the game is close (though I have the advantage) I probably cannot afford to avoid a complex fight.
+
+Score estimate:
+
+Black:
+   7 points in lower right corner
+   60 points at left side
+
+White:
+   40 points in lower side/lower center
+   6 points at top side
+   25 points at left (though corner is unsecured, thus I secure it soon)
+---)]
+(;W[io]C[As you find out if your variation White actually had nothing to fear. But even if he had it is better to look for moves that also make some points and
+threaten something instead of being purely defensive. F5 for instance, strengthens you and Black needs to answer it.]
+;B[ih];W[ig];B[hg];W[hf];B[gh];W[jh];B[ii]
+(;W[qc]C[As shown in the variation, Black can still mess it up by creating a ko. On the other hand, if the ko does not work for him he does not have
+anything in the corner. I personally would be inclined to go grab some points somewhere instead. Sometimes I regret that attitude ;-).
+
+(--- I wonder if this move was played a bit too late, though I feel it is necessary to give me the corner? ---)]
+;B[sp]C[I don't see anything better....
+
+(--- What is the best way to deal with Bl87? ---)];W[ro];B[so]
+;W[rn];B[sn];W[sm];B[ms];W[lr]C[The move L2 is better at stopping Black here.]
+;B[ls]C[(---Likewise here: How do I best deal with Bl95? ---)]
+;W[kr];B[ks];W[ir]C[Yes, the one-point jump is basically the idea.
+
+(--- Here I tried something different with a one-jump---)];B[js]
+;W[is];B[jr];W[jq];B[eo]LB[iq:A][ss:B]C[(--- Here I play variations to show that W104 is not necessary
+
+Variations:
+
+A - Actual Game
+B - White plays elsewhere to illustrate that A is a wasted move for now
+
+----)]
+(;W[iq]C[Yes, that is right, it is unnecessary.
+
+(--- Wh104 is unnecessary: see variation from Bl103---)];B[dr]
+;W[fr];B[er];W[cj]C[(--- I did not think this would work but I thought I would try an invasion since I felt I had nothing to lose... --)]
+;B[ck];W[ci];B[ek]C[B9 looks like a stronger attack. Black should want to deny you as much space at the border as possible. I suppose, but am not 100% certain
+that White could not have lived here after B9.];W[bk];B[cl]
+;W[bl];B[ch];W[bh];B[cg];W[bg]C[Actually, you have more space downwards. Why not play B7?]
+;B[bf]LB[ag:B][ai:A]C[(--- Here I struggle for life.
+
+Variations:
+
+A - Actual Game
+B - Another variation that seems to give life.]
+(;W[ai];B[ag]LB[ah:A][aj:B]C[(--- Here Wh122 was a mistake that killed my group.
+
+A - Actual Game
+B - Alternative move that is believed to secure life.
+
+----)]
+(;W[ah]C[Yes, this is a bad move. You could have lived, as you note yourself.
+
+(--- This move was a mistake, since there are other alternatives for me. ---)]
+;B[aj]LB[bi:A][bm:B]C[(--- I explore what would happen if I sacrifice the top stones, but I still think the group is killed.
+
+Variations:
+
+A - Actual game play (keep the stones)
+B - Alternative to sacrifice marked stones but does not seemed to go anywhere
+
+---)]
+(;W[bi];B[bm];W[cm];B[bn];W[af];B[cf];W[di];B[ei];W[dl];B[dk]
+;W[cn];B[co];W[bo];B[bp];W[am];B[ao];W[lb];B[je];W[jf];B[ge]
+;W[he];B[gb];W[ha];B[ia];W[gc];B[eq];W[fb]C[This purely defensive move is not necessary. White F16 actually makes some points.]
+;B[fd];W[fc];B[ed];W[ld];B[kh];W[le]C[Why not White N15? It closes the hole.]
+;B[kf];W[ne];B[me];W[md];B[ni];W[oi];B[oj];W[qi];B[qj];W[kk]
+;B[kj];W[fp];B[ep];W[fo];B[em];W[fk];B[el];W[gk];B[gl];W[lc]
+;B[kg];W[ml];B[mk];W[ol];B[ji];W[if];B[gf];W[ql]C[R9 makes more territory....]
+;B[sk];W[sl];B[si];W[sh];B[pi];W[oh];B[lk];W[kl]C[K9 makes more territory....]
+;B[rk];W[nk];B[ri];W[qh];B[ka];W[la];B[kb];W[il];B[hk];W[es]
+;B[ds];W[fs];B[tt];W[qk]LB[rb:A]C[(--- Variations:
+
+A - Actual Game, after changing his mind after passing
+B - Black Passes]
+(;B[rb];W[rc];B[qb];W[pb]C[Well, we do not need to be so vague about it. The games is over, so we can just count. Both White and Black still need to protect their territory in the
+upper left and that is all. After that, White wins by 0.5 points.
+
+Cenair983 [12k\]: good game
+
+(--- Here Black resigns. The game is *very close for me"])
+(;B[tt]LB[qs:B]C[(--- Variation:
+
+A - Actual game, both pass
+B - A play here to determine for certainty that the black group in the lower corner is alive . (Not played)
+
+-----)]
+(;W[tt]TB[ad][ae][af][ag][ah][ai][ak][al][am][an][ap][aq][ar]
+[as][be][bg][bh][bi][bj][bk][bl][bo][bq][br][bs][ce][ci][cj]
+[cm][cn][cp][cr][cs][de][df][dg][dh][di][dl][dm][dn][do][dq]
+[ef][eg][eh][ej][en][fe][fh][fi][fj][fk][fm][gg][gi][gj][gk]
+[hh][hi][hj][ij][ja][ki][lh][mi][mj][os][pr][ps][qs][rr][rs]
+[sj][sr][ss]TW[ca][cb][da][db][ea][eb][fa][ga][gb][gp][gq][gr]
+[gs][hc][hd][hn][ho][hp][hq][hr][hs][in][ip][jm][jn][jp][km]
+[kn][ko][kp][kq][lm][ln][lo][lp][lq][ma][mb][mc][mm][mn][mo]
+[mp][na][nb][nd][nm][nn][no][np][oa][ob][oc][od][oe][of][og]
+[om][on][op][pa][pb][pc][pe][pf][pg][pm][pn][po][qa][qb][qd]
+[qe][qf][qg][qm][qn][qo][ra][rb][rc][rd][re][rf][rg][rm][sa]
+[sb][sc][sd][se][sf][sg])
+(;W[qs];B[ps];W[rs];B[rr])))
+(;W[bm];B[bi];W[bn];B[bp];W[bj];B[ak];W[al];B[ai]))
+(;W[aj]LB[ah:B][al:C][bm:A]C[(--- Here are some variations that lead me to conclude that white is alive (though small).
+
+Variations:
+
+A - Response 1
+B - Response 2
+C - Respnse 3
+
+---)]
+(;B[bm];W[al])
+(;B[ah];W[af];B[ae];W[ag];B[bi];W[bj])
+(;B[al];W[bm];B[am];W[bn];B[an];W[bo];B[ao];W[bp];B[ap];W[bq]
+;B[aq];W[br];B[ar];W[bs];B[as])))
+(;W[ag]LB[ai:B][aj:A][bm:C]C[(--- This move seems to be a living move that I missed (I should have spent more time reading out the situation.
+
+Variations:
+
+A - Response possibility 1
+B - Response possibility 2
+C - Response possibility 3
+
+All are possible responses by black.
+
+
+
+---)]
+(;B[aj];W[ai]LB[bj:A][bm:B]C[(--- Variations:
+
+A - Response 1 by Black
+B - Response 2 by Black.
+
+Neither prevents life for white. ---)]
+(;B[bj])
+(;B[bm];W[bj]))
+(;B[ai];W[aj]LB[ak:B][bi:A][bj:C]C[(--- Variations:
+
+A - Response 1.
+B - Respone 2.
+C - Response 3
+
+None work for Black. ----)]
+(;B[bi];W[bj]TR[ag][bg][bh]C[(--- Thanks to the open liberties at the bottom corner this move works, since it is required to protect the three marked stones. -)]
+;B[af];W[ah];B[ai];W[bi];B[al];W[bm];B[am];W[bn];B[an];W[bo]
+;B[ao])
+(;B[ak];W[al];B[bj];W[bi])
+(;B[bj];W[bi];B[al];W[bm]))
+(;B[bm];W[ai];B[bj];W[aj])))
+(;W[ss]LB[iq:A][kq:B]C[(--- This is just played here to pass to show that connecting is not yet needed
+
+Variations:
+
+A - Cut at left does not work
+B - Cut at right does not work
+
+ ---)]
+(;B[iq];W[hq];B[ip];W[jp]C[(--- Here Wh108 is necessary to prevent black escaping or capturing the two lower stones]
+;B[hr];W[hp];B[hs];W[iq];B[gr];W[fr])
+(;B[kq];W[kp])))
+(;W[tt];B[qc];W[qd];B[rd];W[re];B[rb];W[sd];B[sc]))
+(;W[ss];B[io]LB[ip:A][jp:B]C[(---
+
+Variations:
+
+A - Attempt 1 to stop connection: seems to give black something
+B - Attempt 2 to stop Black: seems to work better.
+
+---)]
+(;W[ip];B[jp];W[iq];B[kp];W[kq];B[ko];W[jn];B[jq];W[kr];B[ir]
+;W[ho];B[hr];W[lp];B[fr];W[gq];B[gr];W[er];B[eq];W[dr];B[dq]
+;W[jr];B[hq];W[hp];B[fp];W[gp];B[fo];W[in])
+(;W[jp];B[ip];W[iq];B[jq];W[ir])))
+(;W[ed];B[ec];W[fc];B[eb];W[ee];B[fb];W[de];B[bd];W[gc];B[ge]
+)
+(;W[ec]))
+(;W[dn]LB[cq:B][dl:A]C[(--- Perhaps this is better, using it as a sacrifice to invade the corner?
+
+Variations:
+
+A - Try to Pincer A
+B - Have Black secure the corner.
+---)]
+(;B[dl];W[cq];B[dq];W[cp])
+(;B[cq]LB[ck:B][co:A]C[(---- Both of these are attempts to live: neither seems to work well, thus, variation B of Wh16 seems not to be very good.
+
+Variations:
+
+A - Attempt 1
+B - Attempt 2
+
+---)]
+(;W[co];B[cp];W[dl])
+(;W[ck];B[cn];W[cj];B[ci];W[cm];B[dm];W[dl];B[em];W[bn];B[co]
+;W[an];B[bl];W[cl];B[bm];W[bk];B[bo]TR[an][bn]LB[am:B][bi:A]
+C[(---
+
+Variations:
+
+A - White cannot play A due to the subsequent Bl35.
+B - An attempt to deal with the threatened (marked) white stones.]
+(;W[bi];B[ao])
+(;W[am];B[bi];W[aj])))))
+(;B[rl]LB[pn:B][rn:A]C[I would have played R6 with white instead. It attempts to lay the foundation for some territory. S6 is really bad. It practically commands Black to run
+through the glaring hole at R7.
+
+(--- Is this variation better for black than running out? If so, how would white Respond? I make my best Guesses.
+
+Variations:
+
+A - Guess 1: seems a bit too aggressive
+
+B - Guess 2: More solid and more conservative ---)]
+(;W[rn];B[pn]TR[pl]LB[nn:B][qm:A]C[Q6 is a real bad move for Black. What i said a about a glaring hole for the previous move applies here as well. With R7 White connects his 
+stones leaving two weak groups for Black. The technical term for this is "total disaster".
+
+(--- Here this variation leads me to a tight spot.
+
+Variations:
+
+A - try to connect marked stone
+
+B - Plan to sacrifice marked stone for territory
+
+---)]
+(;W[qm];B[qo]LB[qp:B][ro:A]C[The two white groups cannot be connected, so both moves that you give for White are not good. Well, actually, R4 looks quite good but not for
+connecting the white stones. It keeps Black out of the corner and denies the two-stone black group a base. If you keep the two black groups
+separate and make sure that your own corner group does not become weak, you can expect some profit. You may want to play moves like O8
+and O4 here in the near future. The first one to keep the black groups separated and the second one to take some profit and make sure that
+you white corner group does not become weak.
+
+(---
+
+Variations:
+
+A - Attempt 1 to connect white group
+B - Attempt 2 to connect white group
+
+Both of them fail.
+
+---)]
+(;W[ro];B[qp])
+(;W[qp];B[ro];W[rp]))
+(;W[nn];B[nl];W[qo];B[np]))
+(;W[pn];B[rn];W[rp])))
+(;B[ip];W[tt];B[kn];W[jo]))

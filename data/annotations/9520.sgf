@@ -1,0 +1,257 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.16]
+
+PB[GNU Go]
+HA[2]
+PW[Yamil]
+WR[10k]
+KM[5.5]
+DT[2014-08-10]
+RE[W+11.5]
+RU[Japanese]
+US[Yamil]
+
+AB[pd][dp]C[Hi!
+Thanks for reviewing my game.
+On a previous review, I was told that I need to improve my attack, as I tend to play in a conservative way. To overcome this, it was suggested to me to play handicap games as white, which I think is a good idea. I have been also studying joseki.
+This is one of such games. I’m playing against GNUGo, at a level at which most of the times I lost, but this time I won.
+I hope you find my game entertaining.
+
+
+--- Hi. I will be reviewing your game.
+
+The main thing that I notice is that you tend to leave a few unfinished shape around the board. Sometimes, it is a good idea to be active and quick opening. Howevere, you need a plan on how to settle your group if the enemy attacks.
+
+Making several weak groups are not a good idea. This may be due to your transition from conservative to a more quicker opening. I will try to give some pointers on which are recommended moves in my comments.
+
+In this game, you trailed black in the opening and early middle game. However, black failed to block at N4 and that may reverse a game.
+
+GNU Go made some unusal moves, some of them are bad. You may try requesting another review with human player next time.]
+;W[pp];B[nq];W[cd]C[My first doubt. Should I defend my corner or take the one that is free. I went for the second option.
+
+
+--- It is playable either way. Since your stone is on star point, it will not be shut in from the center easily.]
+;B[ec];W[gc];B[ee];W[dc]LB[df:A]C[--- This is not a joseki. Black can punish white as in the variation.
+
+Normal white move is at D14]
+(;B[eb];W[cf];B[kq]LB[pn:B][qn:A]C[--- Black is qutie generous. Normally, black has to punish white for tenuki by approaching on both sides, such as R6 or Q6.]
+;W[md]TR[kq][nq]C[I played this move as a way to press on the top right corner and give some support to my stone on the top left.
+
+--- First, you should consider playing on the lower right area. Black has already invensted tow stones there. If black can play O6 or O7, your Q4 group will be strrugle to escape or make life. White R6 seems to be reasonable to me.]
+;B[pf];W[dm]LB[jc:A]C[Same logic as in the previous move.
+
+--- You also neglect your weak group on the upper side. I suggest you play around A to stabilize your group and get some territory.
+
+Imagine if black plays at K16 now, it would be difficult for you to save both G17 and N16 stones.]
+;B[fp];W[qi]C[--- At this moment you over-extend your stoens quite a bit. I still think K17 or K16 is the best move for now.]
+;B[dd]
+(;W[db]C[--- White should be at C18 to prevent black cutting there. See variation.]
+;B[cc];W[cb]
+(;B[gd]C[--- Black should follow up and play C15 to seal white off. See variation.]
+;W[hd];B[ge];W[he];B[hc];W[ic];B[df];W[ce];B[hb];W[ib];B[gb]
+
+(;W[gf];B[ff];W[cq]TR[id][dm]C[At this point I spent some time looking for a tesuji to either kill or make profit out of the top left black group. In the end I opted for this san san at the lower left.
+
+
+--- You have to think about your cutting points and what to do if the opponent actually cuts. J16 is a serious threat. For that reason, you should play H14 instead of G14. See variation.
+
+C3 has poor relation with D7 stone. You should consider playing C4 instead.]
+;B[dq];W[cp]
+(;B[dg]C[--- Black should play C5 instead. C5 is "hitting the head of two stones" which is normally an urgent move. See variation.]
+
+(;W[dj]C[Beside this move, I also considered R6, and K16 (or similar) to protect from the cut at J16.
+
+--- Now that black miss the chance to play C5, you should play D5 to prevent black C5. See variation.]
+;B[oi];W[pk];B[oc];W[hp]LB[ch:C][pn:A][do:B]TR[dp][fp][dq][kq]
+[nq]C[I tenuki here tu put some pressure on the lower Black group, but now I don't know if it was a good idea.
+
+--- This move is a bit premature. White still have some big points to play such as A to C. These moves fix your weakness and secure some territory for you.
+
+The marked black stones are quite strong. It is move likely that this invading white stone could be in trouble.]
+;B[fn];W[fo]C[As I see my stone at J4 isolated, I tried this cut without much hope.]
+;B[eo];W[go];B[co];W[bo];B[cn];W[bn]TR[hp]C[--- Now your attacking stone is in trouble.]
+;B[pr];W[dn]C[This move looks bad now.
+
+
+--- It is better to just block at C7. Luckily black did not connect at your peep.]
+;B[qq];W[qp];B[pm]C[--- This was a good attacking move.]
+(;W[qm]TR[pp][qp]C[Maybe P7 was better?
+
+
+--- This move is OK.
+
+For P7, I saw that you put some variations. However, I add a likely variation that is good for black. Please take a look.]
+;B[qn];W[pn];B[rm];W[ql];B[on];W[po];B[hr];W[mg]C[I played here to extend my moyo and thinking of a possible ladder for F6.]
+;B[gn];W[rg];B[mb];W[nc]C[This move was greedy, but I wanted to experiment.
+
+
+--- The correct move for white is M17. This move does not prevent black from advancing into your territory.]
+;B[re]C[--- Black should connect at O18.];W[nb];B[fk];W[ch]
+;B[hk];W[om];B[nm];W[ol];B[cm];W[cl];B[nn];W[do]C[--- It is a huge mistake for black not connecting at D5 earlier.]
+;B[mk]C[Now Black's moyo in the center and lower side looks very big.]
+;W[en];B[ep];W[hn];B[em];W[dl];B[el];W[ek];B[fl];W[fj];B[gk]
+;W[np];B[io]C[I think this was a bad move for Black. I already considered my stones at G5 dead.
+
+
+--- Yes, black should block at N4 at all cost. Black is quite thick around here. So, it is not easy for white to live.
+
+This could very well be the losing move for black.];W[ml]C[This looks now like a bad move. Easy to cut and without further posibilities.]
+;B[nl];W[nk];B[ll];W[mj];B[lk];W[mo];B[mm];W[lm];B[ln];W[km]
+;B[jk];W[ko];B[kn];W[jn];B[lo];W[lp];B[ho]C[With this move, Black gave up the stones at M6. I was surprised so I took them.
+
+
+--- Totally disaster sequence for black. N6 connection is a must.]
+;W[mn];B[jp];W[in];B[nj];W[ok];B[ob];W[ni]LB[oa:A][hf:B][cr:D]
+[mr:C]C[---- In the end game, try to find the move with biggest value. 
+
+O11 is not a threat to black group, and also does not help the life of your group. So, this move is not urgent.
+
+At this moment, there are a few big endgame moves:
+
+A (very big and sente)
+B (prevent a cut at J16)
+C and D
+
+
+A and B are urgents moves that should be played first. Then, you can take profit at C and D.]
+;B[na]
+(;W[lb]TR[nb][nc]C[--- Your group has a serious defect. If black pushes at N17, you will need to play M17 to sacrifice two stones. See variation.
+
+It is better to play at M17 and conceded some territory.]
+(;B[lq];W[oq]C[This looks like a bad move. They are better options like K13 to extend my moyo.
+
+
+--- K13 will help you indirectly with the cut at J16.
+
+However, this P3 move is sente. So, there is no damage done.]
+;B[nr];W[gp]LB[mc:A][hf:B]C[--- Now, this move is not sente. It may have a follow up move at D2. But you need to think whether this is the biggest move ont he board.
+
+I think A and B are more urgent.];B[kh];W[ki]C[Black pushes and I try to cut. I would like your opinion about the following sequence.]
+;B[ji];W[jh];B[li];W[kg];B[lh];W[lg]C[--- This is a good sequence for white. Protecting your territory.]
+;B[nh];W[oj];B[ip];W[ii];B[kj];W[dr];B[gq];W[fq];B[hq];W[oh]
+LB[ih:A]C[--- Connecting at A is better.];B[ih];W[jg];B[hi]
+
+(;W[ij]C[This was clearly bad. I should have defended at J13]
+;B[hg];W[ig];B[hh]
+(;W[lj]LB[mc:A][rf:C][rq:B]C[Another rather bad move. Sorry for this =)
+Alternatives:
+S3, but ends in gote.
+H14, how much is it worth? Is hard for me to count. 4 points?
+
+
+--- For mid-kyu player, precise counting is not required. However, you should have general idea of what are the biggest endgames.
+
+Most of the time, the biggest play is sente play around the edge.
+
+H14 is around 3 points in reversed sente.
+
+In my estimation, A looks to be the biggest move. Then, B, C are all big.
+
+H14 is then the next biggest move after A to C.]
+(;B[er];W[ds]LB[cr:A]C[--- You should connect at A instead. 
+
+If black does not follow up, you can play E1 in sente later.]
+;B[og]C[--- Black should play E1 now to force white to connect at C2.]
+;W[pi];B[hf]
+(;W[ie]C[--- White J14 is OK. See variation];B[mh];W[ng];B[rq]
+C[--- Now black get one of the big points.];W[rn];B[ph];W[oi]
+LB[mc:A][rf:C][rq:B]C[I don't like how this part of the game is going. I'm just responding to Black.
+
+
+--- As I stated earlier, you look at where is the biggest points are in the endgame.
+
+Unless your opponent move is the threat to your group, you can ignore them and play the biggest point instead.
+
+In this game I list A, B, C are the move that you or your opponent should play.]
+;B[fr]C[This was an oportunity to regain sente, but I didn't use it well.]
+
+(;W[od]C[Maybe I should have played R15 or similar?
+
+
+--- N17 is better. Black can still play at N17 later on.]
+(;B[oe]C[--- This is a bad move for black. He should play at Q15 and aim at N17 later.]
+;W[nd];B[qh];W[rh];B[pc];W[qf];B[qe];W[pg];B[of];W[ne];B[la]
+;W[ka];B[kb];W[ma]
+(;B[ja]LB[bc:A][cg:C][ro:B]C[--- Terrible ko threat by black.
+
+All A to C are serious threats by black. Since black is losing, he needs to fight and win this ko. See variation.
+
+However, once white captures P19, he can ruin quite a bit of black territory.]
+;W[mc];B[oa];W[kc];B[ei];W[di]C[--- White connects at E10 is better.]
+;B[ej];W[dk];B[dh];W[jj];B[ki];W[mi];B[kk];W[ik]C[Bad move.]
+;B[il];W[jl];B[cg];W[bh]C[Not protecting at C13 before costed me a handful of points.]
+;B[bg];W[bf];B[ah];W[bi];B[ai];W[bj];B[ia];W[jb];B[rf];W[qg]
+;B[ha];W[fb];B[fc];W[ea];B[da];W[ca];B[fa];W[or];B[os];W[pq]
+;B[rs];W[qr];B[ps];W[rr]C[--- Do not play out the sequence that does not work and lose yourself points.
+
+You should simply play S4 and force black to capture at T2.]
+;B[rp];W[ro];B[sr];W[sp];B[qs];W[de];B[ed];W[bc]C[Black C17 carried bad aji so I took it.]
+;B[hm];W[im];B[hj];W[aj]C[From this point is mostly yose.
+I should have covered J14 earlyer.];B[es];W[br];B[ag];W[mq]
+;B[mr];W[mp];B[af];W[ae];B[nf];W[mf];B[pe];W[sf];B[se];W[sg]
+;B[kl];W[jm];B[if];W[je]C[--- Blocking at K14 is fine.];B[jf]
+;W[kf];B[oo];W[op];B[da]C[Ko fight.];W[no];B[ml];W[ea];B[cr]
+;W[cs];B[da];W[fi];B[eh];W[ea];B[bs];W[cr];B[da];W[hl];B[gl]
+;W[ea];B[be];W[bd];B[da];W[ik];B[hl];W[ea];B[sq];W[so];B[da]
+;W[ii];B[ij];W[ea];B[sn];W[qo];B[da];W[kp];B[ea];W[jo];B[tt]
+;W[tt]TW[aa][ba][la][ab][bb][kb][mb][ac][cc][jc][lc][ad][id]
+[jd][kd][ld][be][ke][le][me][lf][ph][qh][sh][ci][ri][si][cj]
+[nj][pj][qj][rj][sj][ak][bk][ck][qk][rk][sk][al][bl][pl][rl]
+[sl][am][bm][cm][pm][rm][sm][an][cn][kn][ln][qn][sn][ao][co]
+[lo][ap][bp][aq][bq][ar][as][bs]TB[ga][pa][qa][ra][sa][fb][pb]
+[qb][rb][sb][gc][qc][rc][sc][fd][qd][rd][sd][fe][ef][gf][eg]
+[fg][gg][fh][gh][fi][gi][ii][fj][gj][jj][ik][fm][gm][fo][go]
+[gp][hp][eq][fq][iq][jq][gr][ir][jr][kr][lr][qr][rr][fs][gs]
+[hs][is][js][ks][ls][ms][ns][ss]C[After reviewing the game I have the impression that is difficult to me to decide what is the most urgent move, or the bigger.
+But comments in general are welcome.
+Thanks again.
+Yamil
+
+
+--- There are a few things that I observe from your play:
+
+1) Your opening leaves weak groups around. This could be a problem if you play against a strong fighter.
+
+2) You tends to play inside your opponent's territory to find some tejisu. These moves usually lose points. Therefore, try to read (to the best of your ability) before playing them.
+
+Unless you know that these moves will not lose points, try not to play just to see where it leads to.
+
+3) Computer go plays strange moves. It does not protect its own stones or territory. I think it could create bad habits for you. 
+
+To improve your go, try to play with people a bit stronger than you, review your own games, and a lot of tsumego.
+
+Hope this review helps. Enjoy playing!])
+(;B[bc];W[bb];B[la]))
+(;B[mc];W[nd];B[lc];W[pc];B[qd];W[pb];B[oa];W[rc];B[qc];W[qb]
+;B[qa]))
+(;W[fh];B[gg])
+(;W[qe]))
+(;W[if];B[id];W[ie];B[jd];W[kc]C[--- White group is still safe.]
+))
+(;B[tt];W[mc]C[--- Later white can capture at N18.];B[tt]C[--- Suppose that black plays somewhere elese]
+;W[ma];B[oa]C[--- Compare the difference between this variation and the one that black plays N17 first.]
+)
+(;B[mc];W[lc];B[nd]C[--- Later black can have sente move at N15 and M19.]
+;W[tt]C[--- Suppose white plays somewhere else first.];B[me]
+;W[ld];B[la];W[kb]C[--- Black ends with sente here and move on to other points.]
+))
+(;W[rq];B[rr];W[rp])
+(;W[hf]))
+(;W[ig];B[hh]))
+(;B[mc];W[lc];B[nd];W[me]))
+(;W[lc]C[--- This move is better.]))
+(;W[om]
+(;B[on];W[pn]
+(;B[ol];W[nm];B[pl]C[--- This is the most likely variation for black. White is splited and in a difficult situation]
+)
+(;B[po];W[qn];B[qo];W[ro];B[oo];W[ol]))
+(;B[ol];W[pl];B[nm];W[on];B[nn];W[oo])))
+(;W[do];B[eo];W[dn]))
+(;B[co];W[bo];B[cn];W[bn];B[cm]TR[dm]C[--- Black is hurting marked white stone.]
+))
+(;W[hf]C[--- Black cannot cut at J16 now.];B[id];W[jd];B[ie]
+;W[jf]C[--- Black group is captured.]))
+(;B[ce];W[bc];B[be];W[bd];B[jd]C[--- This is one way for black to play.]
+))
+(;W[cb]))
+(;B[db];W[cb];B[dd];W[cc];B[ce];W[be];B[cf];W[bf];B[cg]C[--- This sequence is good for black. White is low and shut out from accessing the center.]
+))

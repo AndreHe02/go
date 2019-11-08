@@ -1,0 +1,105 @@
+(;FF[4]GM[1]SZ[19]ST[0]CA[UTF-8]AP[SGFC:1.17]VW[]
+
+PB[puntific]
+BR[3k]
+HA[0]
+PW[lorill]
+WR[2k]
+KM[0.5]
+DT[2011-03-08]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[B+T]
+TM[1500]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+C[Hi,
+
+Here's a game where black lost while he thought he was winning. We prepared a few questions for both sides, but feel free to add any comment you feel, to help us spot our mistakes !
+
+Thanks.
+
+df: an interesting game with lots of opportunity to learn.]
+;B[pd];W[dd];B[pq];W[cq];B[qk];W[mp];B[po];W[jp];B[fc];W[cf]
+C[df: professional level fuseki so far.  There is at least one professional game with this sequence.   See the variation on the next move for their continuation.]
+(;B[db];W[hc]C[Question for both sides: when is this a good move ? What are the usual continuations ?
+
+df: I think this is fine, but answering at C17 is also OK.  Ideally you want a stone of your own color in the corner behind the pincer (around Q16).  And this pincer is more effective if the ladder works.  Even so, if white doesn't play here, black will get a nice double wing formation, and white will ahve to invade.
+
+df: this move is good when white wants to emphasize the top and left side and give up the corner.]
+;B[cc]
+(;W[fd]
+(;B[ec];W[ed]
+(;B[gd]C[Question from white: This cut looks more dangerous for black than for white. Am i correct in my judgement here ?
+
+df: I like the idea of cutting here for black, but it's too early and the cutting stones will be too weak.  The left edge is still wide open, and a weak black group now will help white make territory on the left side.  A move by white at D6 would be nearly idea, making a framework on the left side, working well with the high move at K4, and enlarging the corner.  So as black, I would play now in the lower left corner.  Once black has some thickness in the lower left, this cut will work much better.
+
+df: don't think that this cut is dangerous (in that the black stones might bcaptured), but that a weak group here will give white several free moves the help secure territory on the left. The cut must make white weak enough that black can secure enough territory on the upper left to compensate.  If black thinks about where the territory will come from during the attack of the cutting stones, black can play there first.]
+;W[gc];B[ge];W[jd]C[df: good, making a base, and attacking.]
+;B[cd];W[ef]C[df: this exchange is good for white, so black shouldn't make it.  The rule for attacking is to play from side where you are weak.  The corner is already alive, so you should play from the outside.]
+;B[gg];W[di]
+(;B[mc]C[Is this move an overplay from black ? White thinks it's the losing move, making G15 really weak.
+
+df: I would play one line closer, to reduce white's base.  The other alternative is to play on the outside.  This gives white territory on the upper edge in exchange for safety and center potential.]
+;W[jf];B[ie]C[df: does this move make black stronger, or help it run?  I don't think so.  If not, then it should be saved.  Later, once the black groups is stable, you might want to peep from the other side isntead.  When you can peep from either side, often it is best to wait until it is clear which side gains the most.]
+;W[je];B[id]C[df: this move is very bad, since there is no cut.  It makes the white group very strong.  Once white is thick on both sides the black group is a large burden.]
+;W[ic]
+(;B[jc]C[df: no cut here.  This is clearly worse than the peep.  The peep is not great either.  Black shoudl leave off the whole sequence starting with J15 to leave other options available later (for example K18).]
+;W[kc];B[jb];W[kb];B[ig]LB[gd:A]C[df: this looks too tight and heavy.  Now that white is strong on both sides the cut at A has little value so black can play lighter.]
+;W[kh]LB[kb:B][ie:A]C[df: without the moves from A to B, this knight's move attack is not possible.]
+;B[jh];W[kg]C[df: strengthens white without helping black much.]
+;B[dp]
+(;W[dq]C[Question from white: Is this the correct side to block, or was the other side better ?
+
+df: if you play this joseki, there is not much difference.]
+;B[ep];W[bo];B[dm];W[fr];B[hp];W[jj];B[ji];W[ki];B[ij];W[jk]
+;B[ik];W[jl];B[ok];W[qd];B[qe];W[pc];B[rd];W[qc];B[rc];W[od]
+;B[pe];W[oc];B[oe];W[md];B[il];W[ck];B[bh];W[ce];B[dh];W[eh]
+;B[dg];W[eg];B[bf];W[be];B[cg];W[ci];B[bi];W[bj];B[bd];W[ae]
+;B[ei];W[ej];B[fi];W[df];B[ee];W[qh]C[Question from white: Is this move correct, or too deep ? Maybe Q10 was better ?
+Question from black: How to reply ? The sequence played in the game looks too good for white.]
+;B[oh];W[oi];B[ni];W[nh];B[pi];W[og];B[ph];W[pg];B[qg];W[qf]
+;B[rg];W[rf];B[rh];W[pf];B[re];W[qi];B[pj];W[ri];B[sf];W[sh]
+;B[qb];W[pb];B[qa]C[Question from white: can I kill this group ? I missed T15 sente in the game.]
+;W[sb];B[se];W[sg];B[sc];W[mi];B[fe];W[de];B[ng];W[nj];B[nf]
+;W[rk];B[rl];W[rj];B[nd];W[nc];B[me];W[mb];B[ld];W[lc];B[nr]
+C[Question from both sides: Is this a good gote move ? It looks a but unusual.]
+;W[im];B[hm];W[in];B[hn];W[el];B[em];W[gl];B[hl];W[nl];B[ol]
+;W[rm];B[sl];W[ql];B[qm];W[qn];B[pm];W[sk];B[pl];W[sm];B[ql]
+;W[ro];B[qp];W[on];B[pn];W[nm];B[lq];W[mq];B[mr];W[lp];B[kq]
+;W[kp];B[no];W[mn];B[io];W[jo];B[bm]C[Question from black: is this a good yose move ?]
+;W[jq];B[jr];W[ir];B[kr];W[fm];B[dl];W[dk];B[fn];W[fj];B[gj]
+;W[gk];B[fh];W[ch];B[ad];W[bg];B[nk];W[mk];B[hr];W[iq];B[gr]
+;W[fq];B[gp];W[fp];B[fo];W[eq];B[cp];W[bp];B[md];W[pa];B[rb]
+;W[mg];B[lf];W[bl];B[lg];W[co];B[eo];W[lh];B[cl];W[oo];B[np]
+;W[op];B[nq];W[oq];B[or];W[pp];B[qo];W[mo];B[al];W[bk];B[gm]
+;W[fl];B[gb];W[hb];B[fb];W[if];B[hd];W[ja];B[ha];W[ib];B[hf]
+;W[jg];B[ih];W[ia];B[ga];W[hj];B[gi];W[hk];B[hi];W[ak];B[is]
+;W[am];B[an];W[bn];B[al];W[cn]C[White missed A5, but we saw it in our review.]
+;B[cm];W[am];B[oj];W[ni];B[al];W[dn];B[en];W[am];B[ek];W[fk]
+;B[al];W[ao];B[am];W[ip];B[ho];W[ff];B[gf];W[gs];B[hs];W[fs]
+;B[of];W[dc];B[cb];W[ke];B[nn];W[om];B[mm];W[ml];B[do];W[bq]
+;B[mf];W[mh];B[tt];W[tt]TB[ss][rs][qs][ps][os][ns][ms][ls][ks]
+[js][sr][rr][qr][pr][lr][sq][rq][qq][sp][rp][so][ro][go][sn]
+[rn][qn][gn][sm][rm][pk][ii][hh][gh][hg][ne][he][sd][bc][ac]
+[sb][eb][bb][ab][sa][ra][fa][ea][da][ca][ba][aa]TW[es][ds][cs]
+[bs][as][er][dr][cr][br][ar][aq][ap][lo][ko][ln][kn][jn][mm]
+[lm][km][jm][ll][kl][lk][kk][ek][sj][mj][lj][kj][dj][cj][aj]
+[si][li][bi][ai][rh][dh][bh][ah][rg][qg][dg][cg][ag][bf][af]
+[jc][ob][nb][lb][jb][oa][na][ma][la][ka]C[Thanks for reviewing our game!]
+)
+(;W[cp];B[do]
+(;W[er];B[gp];W[bn];B[dl])
+(;W[dq];B[fp];W[eq];B[gn];W[gq])))
+(;B[kb];W[jb];B[kc];W[jc]))
+(;B[jf]
+(;W[ld];B[lf];W[nc];B[ne])
+(;W[hf]LB[jf:A]C[df: If white peeps here I don't see an obvious good answer, so perhaps A is an overplay.]
+))
+(;B[lc];W[jf];B[ie];W[je];B[jb];W[jc];B[kb];W[ib];B[id];W[ic]
+;B[gi]))
+(;B[dn];W[fp];B[cj]))
+(;B[ed];W[ee];B[ec];W[gd]))
+(;W[ec];B[eb];W[fd];B[gd];W[gc];B[fb];W[ge]C[df: this is the laddre in the popular variation.  The original pincer is better when this laddre works, since black can't simply cut.]
+))
+(;B[jd];W[qf];B[re];W[pi];B[ok];W[ni];B[of]))

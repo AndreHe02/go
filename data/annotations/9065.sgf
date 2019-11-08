@@ -1,0 +1,206 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.16]
+
+GN[Koriel-agora-780181-20130224]
+PB[Agora (agora)]
+BR[16k]
+PW[Krzysztof [314\\\\\\\] (Koriel)]
+WR[17k]
+KM[6.5]
+DT[2012-12-26,2013-02-24]
+PC[Dragon Go Server: http://www.dragongoserver.net/]
+RE[B+12.5]
+RU[Japanese]
+SO[http://www.dragongoserver.net/game.php?gid=780181]
+US[Uri Feigin]
+GC[Game ID: 780181
+Game Type: GO (1:1)
+Rated: Y
+
+White Start Rating: 18k (-24%) - ELO 276
+Black Start Rating: 18k (0%) - ELO 300
+White End Rating: 17k (+1%) - ELO 401
+Black End Rating: 16k (-39%) - ELO 461]
+
+C[without rated games experience, guessed my rank 18kyu based on 5 games on I
+GS
+
+Your main problem is that you missed a lot of big plays, and played small instead. A few tips:
+- always have a few moves in mind that you want to play. Not now, but something you consider big, like invading somewhere or attacking some stones. Whenever you play a move, evaluate if the move you're tempted to play because of the situation or you think it is urgent, evaluate it against these moves. You'll find that often enough, those you can actually play the moves you wanted.
+- if you want to improve your play, start working on the opening, your biggest mistakes were there.]
+;B[dd];W[pp];B[dp];W[pd];B[dj]
+(;W[fc]LB[df:A]C[You should play A here. No reason to attack that stone.]
+;B[hc];W[fe]C[You were lucky here.];B[cf]LB[df:A][cg:B]C[Your move is used to protect against a white attack at B, but in this case is's inferior to A simply because the attack at B would be highly discuraged.]
+
+(;W[kc];B[ec];W[eb];B[db];W[ed];B[dc];W[de];B[ce];W[nc]
+(;B[he]LB[qg:B][ph:C][pj:A]TR[kc][nc][pd]C[White was getting strong on the top, i decided it is important to keep hi
+m split in two
+
+This is probably your first big mistake. That corner is already huge for white and you shouldn't allow any expansion of that territorry. I'd play A here, then white C. You could also play B.]
+;W[je]LB[pj:A]TR[eb][fc][ed][de][fe]C[now i was on the run
+
+Still the same thing, just A, you can abandon these Stones if you need to. Also the marked white stones are really weak.]
+
+(;B[gf]C[tried to threaten white's top left group while leading my two stones to s
+afety];W[ff]C[With this move, you've fortified white at the left. Now white can attack you!]
+
+(;B[gg];W[jg]LB[qg:B][pj:A]TR[kc][pd][je]C[whites upper right moyo was getting bigger, considered to tenuki or conti
+nue building a wall in sente
+
+You're rather save at the left, so you can leave it. The wall is not worth much, because of the marked white stones. You gain no influence. You can still play A here, maybe B would be better by now.]
+;B[fg]C[This is unnecessary. White has no eyes and is really weak. Without that move he may have been able to fight his way out somehow later, but not without giving you a lot of strength.]
+;W[eg];B[eh];W[fq]C[Mistake by white, the upper right is extremely important right now.]
+;B[np]LB[qg:B][qm:C][iq:A]C[tenuki, felt it was a little late
+
+Yes, and I don't see what you want with that move. You should've played B or C to get rid of his moyo, and if you wanted to react to him, A would be better.]
+;W[kq];B[nn]C[considered R6 instead
+
+R6 would be way better];W[qg]C[Now he got the move. This is where you lost.]
+
+(;B[qj]C[considered R6
+
+Yes, would be a lot better];W[qn];B[ql];W[oh]
+(;B[eq]C[considered H3
+
+J3 would be even better I think.]
+(;W[fo]TR[dm]C[You were lucky. Now make it safe.];B[eo]
+(;W[fp]C[Lucky again.];B[en]LB[dm:A]C[This is too narrow and probably too high. Rather play A.]
+;W[lo];B[qq]C[Totally unsure about this move. Looks like a risky all or nothing move.]
+;W[pq]
+(;B[pr]C[Better get your stones safe first, then attack. This just waits to go wrong.]
+;W[nq];B[po];W[qp]C[Now white has the corner back + his group is safe.]
+;B[ro];W[qo];B[rp];W[qr];B[rn];W[oj];B[ol];W[mk]LB[rh:B][qm:A]
+TR[rn][ro][rp]C[bottom corner is now complicated, looked for a way out
+
+You don't need to. The marked stones have an eye, and with A or B you get a secure base. A if you like it simple.]
+;B[ml];W[lm];B[ll];W[oo]LB[qc:B][rh:D][li:C][io:A]C[You can sacrafice some of that stones. they won't give eyes anyway. Any of A,B,C and D is way better than saving a single stone.]
+;B[pm];W[no];B[km];W[kn]C[looked for a way to avoid white getting another big moyo in the bottom
+
+That's too late, it's already there. But it's not closed off, so invade as soon as possible.]
+;B[jm]C[This just waits to get closed off.]
+(;W[nm];B[mm];W[mn]LB[io:A]C[Again, just leave it. White gave you a great opportunity to invade at the bottom.]
+;B[on];W[pn];B[om];W[nk];B[nl];W[kj]
+(;B[ln]C[hoped to take advantage of white's weak connections, considered K6
+
+White doesn't need any connection here.]
+(;W[jn]LB[qc:A]C[Now your advantage by invading is gone. A is the only move now.]
+;B[ij];W[hl];B[hk];W[im];B[gl];W[jl]TR[ij][hk][gl]C[You were lucky he let you play those. This is at least 20 points.]
+;B[hm];W[hn];B[il]C[now i realised the bottom moyo is closed]
+;W[in];B[gn];W[go]LB[qc:A]C[Again, you need A. This stuff here are 1 point moves, A is worth 20.]
+
+(;B[fn]C[considered if it is safe to tenuki, but felt it important to close the ga
+p, because of white peep at F7
+
+F7 wouldn't do anything];W[hh]C[at this point i felt the game was lost, even though i was sure the upper 
+left corner will be black];B[ih]LB[gi:A]C[from now on taking risks was a must
+
+Good move, not even risky at all. Even if he somehow connects, you play A.]
+;W[jh];B[ig];W[if]TR[hg]C[You need to close here. It comes back at you later.]
+;B[ji]C[tried to hold sente as long as possible];W[ki];B[lk]
+;W[lj]C[tried to find a way of invading at R17 but could not]
+;B[rh];W[rg]LB[rq:A][fr:B]C[If you want do do something in the bottom right, play A. But B is proably the biggest move you have.]
+;B[rr];W[rq];B[sq];W[cq];B[cp]C[Good move.]
+(;W[ep]LB[er:A]C[Now he invited you to kill it.]
+(;B[dq];W[er];B[qs]C[making life in the bottom right corner with hope of invading the bottom m
+oyo felt bigger than closing the bottom left corner
+
+The bottom left is probably 20 points, bottom right maximum 10.]
+;W[or];B[qq];W[lm]TR[dr]C[Big mistake by white. Now cut the corner off.]
+;B[os]C[tried to turn the table with two ko fights, P1 and M6, i was not sure i h
+ave enough ko threats to play it out, i felt black has a chance again
+
+The ko at M6 is worth 2 Points, the one at P1 doesn't exist.]
+;W[ns]
+(;B[ln];W[hg];B[ii];W[hf]TR[ge]C[You need to connect now.];B[gh]
+;W[ge]C[You can probably still win the race, haven't tried anything through.]
+
+(;B[hd]C[This is bad for you.]
+(;W[hb];B[gb];W[ib]
+(;B[gc]C[You should try to connect underneath.];W[dh];B[ei]
+;W[cg];B[df];W[qc];B[mo];W[mp];B[lp]C[aiming blindly, hoping at least to get good aji or sente,]
+;W[mn];B[mr];W[lm];B[kl];W[lq];B[hi];W[cj];B[ck];W[ci];B[bk]
+;W[bj];B[bg];W[bh];B[bf];W[dg];B[di];W[dk]C[decided i was strong enough to tenuki, later to regret it
+
+You should always watch out for walls that have less then 3 libertys.]
+;B[dr]C[looked for a series of sente moves
+
+Good one.];W[es];B[ds];W[fr];B[ps];W[nr];B[pi];W[oi];B[ph];W[pg]
+;B[ie];W[jf];B[jd];W[kd];B[jc];W[jb];B[fa]C[to avoid liberty race, i made sure i was safe, instead of H1 or G1
+
+H1 or G1? They do nothing. F18 would be better.];W[gi]C[i did not see this coming, and was ready to forfeit, i had to play F12, a
+nd white E10, and the top left white shape is alive];B[fh];W[fb]
+C[but white missed E10 and i got a second chance
+
+Yes, lucky again.];B[gj];W[jk];B[ik];W[ln];B[sg];W[sf];B[sh]
+;W[rf];B[qh];W[ea]C[again was surprised by white
+
+Wouldn't have happened if you played F18 earlier];B[ga];W[ic]
+;B[ee];W[id];B[fd];W[ha];B[da];W[qm];B[rm];W[pk];B[pl];W[ok]
+;B[qk];W[kk];B[pj];W[jj];B[tt]C[p];W[ej]C[white surpirised me, i did not feel safe anymore, regretting not spending
+ an extra move at D8 insteading of passing];B[fi];W[ak]TR[bm]
+C[You can safely jump here. No empty triangle please.];B[cl]
+;W[cn];B[dl];W[tt];B[tt];W[tt]TW[ia][ja][ka][la][ma][na][oa]
+[pa][qa][ra][sa][kb][lb][mb][nb][ob][pb][qb][rb][sb][jc][lc]
+[mc][oc][pc][rc][sc][jd][ld][md][nd][od][qd][rd][sd][ke][le]
+[me][ne][oe][pe][qe][re][se][kf][lf][mf][nf][of][pf][qf][kg]
+[lg][mg][ng][og][kh][lh][mh][nh][li][mi][ni][mj][nj][ho][io]
+[jo][ko][mo][po][gp][hp][ip][jp][kp][lp][np][op][gq][hq][iq]
+[jq][mq][oq][gr][hr][ir][jr][kr][lr][mr][fs][gs][hs][is][js]
+[ks][ls][ms]TB[aa][ba][ca][ea][ab][bb][cb][eb][fb][ac][bc][cc]
+[fc][ad][bd][cd][ed][gd][ae][be][de][fe][ge][af][ef][ff][ag]
+[cg][dg][eg][ah][bh][ch][dh][ai][bi][ci][gi][qi][ri][si][aj]
+[bj][cj][ej][fj][hj][rj][sj][ak][dk][ek][fk][gk][rk][sk][al]
+[bl][el][fl][hl][rl][sl][am][bm][cm][dm][em][fm][gm][nm][sm]
+[an][bn][cn][dn][sn][ao][bo][co][do][so][ap][bp][sp][aq][bq]
+[cq][rq][ar][br][cr][qr][sr][as][bs][cs][rs][ss]C[White: 97 territories + 2*3 dead stones(B) + 7 prisoners + 6.5 komi = 116
+.5
+Black: 83 territories + 2*16 dead stones(W) + 14 prisoners = 129
+Result: B+12.5])
+(;B[fb];W[gc];B[gd];W[fd];B[ef]))
+(;W[gd];B[gb];W[fb];B[ef];W[ib];B[hb];W[ic];B[fa];W[ea];B[df]
+;W[ga];B[ha];W[id]))
+(;B[gd];W[fd];B[gb];W[fb];B[gc];W[ie];B[hd];W[ib]
+(;B[ea];W[ga])
+(;B[fa];W[ea])
+(;B[ef];W[ic];B[ea];W[fa];B[ga];W[da];B[df];W[id];B[ee])))
+(;B[ms];W[nr]))
+(;B[er];W[dq]
+(;B[cr];W[bq];B[bp];W[dr])
+(;B[bq]
+(;W[fr];B[dr])
+(;W[cr];B[dr]C[You may even kill it, but F2 was still better in the first place.]
+))))
+(;W[er];B[cr];W[dr];B[bq];W[dq];B[br]C[This demonstrates the worth of F2 before.]
+))
+(;B[qc]
+(;W[qd];B[pc];W[oc];B[ob];W[nb];B[rd];W[re];B[rc])
+(;W[fm];B[fn];W[gm];B[hl];W[dl];B[cm])))
+(;AB[mo][op][rq]AE[mn]C[Ev])
+(;AB[mo][mp]AE[mn];W[rq]C[Even this is still alive an well.]
+;B[ko];W[jo];B[lp];W[jp]C[Cost white a few points, but the ko was totally not worth it.]
+))
+(;B[io]
+(;W[in];B[jn];W[jo];B[hn]C[You are safely connected.])
+(;W[ip];B[ho];W[hp]C[This is way bigger than the ko.])))
+(;W[in];B[jn];W[jo]))
+(;B[qp];W[nq];B[po]C[Looks like a good result to me.]))
+(;W[dl]))
+(;W[cn];B[co];W[ck];B[cj];W[en]))
+(;B[iq];W[cq];B[cp];W[dq]
+(;B[cm]C[Looks like a desirable outcome.])
+(;B[dm];W[bo];B[bp]C[There is probably some way to live for white, so C7 seems better.]
+)))
+(;B[qn];W[qq];B[qj]))
+(;B[pj];W[gd];B[hd];W[gg];B[ig];W[hg];B[if];W[dh]TR[df]C[Again, if you played higher, white couldn't have played D12.]
+;AB[df]AE[cf];B[eg];W[fg];B[eh]))
+(;B[gb];W[fb];B[gd];W[fd];B[jb];W[kb]C[You can easily get an eye here, but it's too early for that.]
+)
+(;B[pj]
+(;W[hf];B[gf];W[ge];B[gd];W[fd];B[if]C[You're free here.])
+(;W[gf];B[gb];W[fb];B[gd];W[fd];B[ge];W[ff];B[jb];W[kb]C[The black Stones are clearly alive now.]
+
+(;B[id]C[Two eyes.])
+(;B[if])
+(;B[jp];W[if];B[id];W[jc];B[ic];W[ib]))))
+(;B[pj];W[ph];B[qn];W[nq]))
+(;W[df]))
+(;AB[hc]LB[hc:a]))

@@ -1,0 +1,192 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.13b]
+
+GN[Erion-3p-commente]
+KM[0]
+RU[Japanese]
+PB[Olivier]
+PW[Gnu Go]
+BR[22 kyu]
+
+;AB[dd][dp][pp];W[pc]C[Game with Gnugo. I'm almost near 20-23kyu. In this game, I think I've made a good beginning, some bad mistakes in the chuban and a not so bad yose. I know that gnugo is not the best way to improve my game, and some of his moves are definitely bad.]
+;B[pe];W[ph];B[ld]LB[nd:B][me:C][ne:A]TR[pe]C[To me, it seems it's the best distance to prevent white invasion in the north border, and keep Q15 alive
+
+AB: This move is too far away from the marked stone. You could have used A, B, or C depending on what you want to do. Considering you are around 20k, stick to 'A' until you learn more josekis. It is safe. You do not want to be cut very early in the game (W can gain advantage from this weak move of yours)]
+;W[qe]
+(;B[oe]C[A way to gain power ? Not the best move, I fear.];W[qd]
+LB[ld:A][oe:B]C[AB: Compare the shapes B and W has. W has the corner nicely. You are trying to have some influence towards center, but it does not exist...   Think:  Did you try to get the left side with A?
+Did you try to create center influence with A and B?];B[pk]
+LB[pk:A]C[Think : (continued)
+What is A for?
+o Is it for right side
+o Does it help or work together with you formation at the top?]
+;W[nq]C[W is 3 handicap stones behind. He is playing open.]
+;B[nh];W[cf]LB[qf:A]SQ[nh][pk]C[He ignores your move to create more position for himself, which is good. Now the effect 3 handicap stones is removed to maybe 1.5.
+
+Black can use the hane at A to create a fight, but the analysis I partially did, shows B cannot cut. Still, There may be other plays where B can get an advantage.   This in a way concludes that the last two stones (marked) played by Black did not attack the W group. One is good for center influcence. The other is good for right hand side influence.]
+
+(;B[fd];W[cn];B[jp]LB[jq:A]C[AB: Interesting move.  It feels like it is a piece of everything :)]
+;W[ck]
+(;B[bd];W[qf]C[This is definitely one of those small points.]
+;B[qi]LB[ic:C][ci:B][co:A][pq:D]C[Black should look at the whole board.
+Here is a list of bigger points (at least 4-5 times many more points)
+
+(I have picked the most solid answer on the right. There can be many options here)]
+;W[ek];B[lq];W[ef]C[Now White has a strong left.];B[gf]LB[cp:A]
+[cq:B][fq:C]TR[jp][lq]C[And your bottom left is relatively very weak.
+
+Instead you should play at the bottom.
+Probably C is best. You open the corner at invasion but you cannot protect everything, you are weak. This is the move that works best with you center stones (marked)]
+;W[fq];B[gq];W[no]C[W is playing strange here ... (well, This is a computer in the end)]
+;B[on];W[pr];B[qq];W[mr]LB[ll:7][mn:6][oo:5][mp:3][np:1][op:2]
+[oq:4]TR[no]SQ[pm][pn][po][qo][qp]C[May be the cut at 1 is interesting. Some of my friend suggested the 1-7 sequence. Not urgent moves, but good for black ?
+
+AB: Look at the variations.]
+(;B[lr];W[mn]TR[mn]C[AB: why is getting breathing space.];B[gh]
+C[Not urgent and as important.
+Look at the whole board.
+Your left corner is very weak. Corner is also bigger in terms of points.]
+;W[pi]LB[fp:A][cq:B]C[White should play A or B depending on how he wants to attack]
+;B[qj];W[fg];B[gg];W[bp]C[The corner is very interesting in the sense that many different things can happen.]
+;B[fp]C[Black is chosing to confine the invader but gives away the corner...]
+;W[cq]TR[fq]C[Well, it is very tough for Black to play in this condition...   Most important to learn from this is not how to make the best out of this situation, but to "not put yourself" in this situation. You should not leave yourself weak. The marked white stone was a big concern. Even without it, because of the strong White formation and relatively weak Black, Black needed to inforce the corner.]
+;B[eq];W[qr]C[White is not playing the forcing moves. But considering that Black has a huge top territory, I would invade that territory. But then again, the White group at the bottom needs eye space still. Now Black is stonger in the center and White has to get the eye space on the side of the board.]
+;B[rq];W[ml]C[The big decision to make for White is : "Is my bottom group alive?"
+If the answer is yes, then invade the top.
+If the answer is no, Make the necessary moves to make it alive. Only after you are alive, invade.]
+;B[lj]C[Better in M11 ? I thought it was a good move during the game, but now, I believe it's a little bit risky. A contact play at N10 makes the cut for white.]
+
+(;W[lo]C[White is still trying for this second eye I believe.]
+;B[jn]LB[ic:B][nc:A]C[Black should reinforce his top.];W[nb]
+;B[lb];W[rh]
+(;B[ri]LB[pg:6][qg:4][rg:5][qh:1][ri:2][rj:3]TR[qi][qj]C[Ugly empty triangle. Move at 1 is better, without any risk. I lose many points here.
+
+AB: the style of play is dictated by the score on the board.  But yes '1' can create complication.]
+;W[of]C[After this, Black is mostly responding to Whites moves, although they are not forcing..
+Black should also try to dictate his own game of play...];B[nf]
+;W[pf];B[nd];W[em];B[gk];W[gn];B[ho];W[km];B[jm]LB[il:A][jl:1]
+C[A seems to be a faster, but I lack power in the south border, too many knight's moves and white is overconcentrated but dangerous.
+
+AB: What are you trying to accomplish?];W[hl]LB[hl:1];B[hk]
+;W[jl];B[il]
+(;W[hm];B[jk];W[kl]LB[jk:B][il:A]C[I'm proud of this sequence. I managed to do the connection with forcing moves, without losing anything.]
+;B[im];W[qh];B[oj];W[pj];B[qk];W[ok];B[nk];W[dr];B[er]TR[bd]
+[gh]C[Just before this blocking move of White, Black could have made an invasion in here using the marked stones.
+
+I am not sure whether it would work, but definitely could strip off some valuable points AND at the same time strenghten his border for the top and center.]
+;W[ei]
+(;B[gi]LB[fi:A]TR[gf][gg][gh][gk][hk]C[A better, but at this moment, I considered that I was leading in territory, so I played solidly.
+
+AB: you are always whereever your opponent plays. break this habit.]
+;W[be]C[There are other little things after.
+But I will be mentioning a few.
+
+The important things, I believe I have covered.];B[cd];W[fl]
+;B[fk];W[fj];B[gl];W[gm];B[go];W[ls];B[ks];W[ms];B[kr];W[ad]
+;B[ac];W[ae];B[bc];W[rr];B[sr];W[kp];B[jo]
+(;W[si]LB[ee:B][og:A][sh:2][sj:1][eo:C]TR[ri][qj]C[Bad move for white. P11 most threatening (see variation).
+
+Gnugo love to play yose early, gote-gote. B or C are best.]
+;B[sj]C[Therefore, the hane is not that bad. th problem is, it is not sente.]
+;W[sh];B[nl];W[nm];B[om];W[og];B[ng];W[co];B[do];W[kq];B[jq]
+;W[dn];B[fn];W[fm];B[lp];W[ko]
+(;B[jr]LB[mp:A][np:B]C[too conservative, A or B are good.];W[en]
+;B[fo];W[gj];B[hj];W[fi];B[hi];W[mb];B[lc];W[la];B[ka];W[ma]
+;B[kb];W[mk]
+(;B[nj]LB[ni:D][mj:A][nj:C][ol:B][qm:E]C[A is best, White is always in atari or caught in geta. I'm in a conservative mood. I'm lacking fighting spirit.]
+;W[kk];B[kj];W[oo];B[po];W[eo];B[ep];W[nn];B[pn];W[oc];B[nc]
+;W[hn];B[in];W[kn];B[fe];W[fh];B[de];W[df];B[oq];W[or];B[np]
+;W[op];B[pq]LB[mp:A][pq:B]C[A et B are miai. Too late for me. I saw this move, and do it at the worst time.]
+;W[mp];B[lk];W[ll];B[mj];W[es]C[Bad yose for black...];B[fs]
+;W[ds];B[fr]C[you don't need to take this.];W[mq];B[cp];W[mc]
+;B[md];W[ob];B[oh]LB[ni:2][oi:1]C[This does not give you any points. but '1' does. (instead of the played stone)
+because now W can play '1' and you have to defend at '2'.];W[ee]
+;B[ed];W[oi];B[ni]C[as it happens here.];W[rs]LB[ce:A][dq:B]
+C[why don't you use your sente?];B[sq];W[od];B[ne];W[dq];B[ff]
+;W[ce];B[ol];W[pd];B[ji];W[ss]TW[na][oa][pa][qa][ra][sa][pb]
+[qb][rb][sb][qc][rc][sc][rd][sd][re][se][af][bf][rf][sf][ag]
+[bg][cg][dg][eg][pg][qg][rg][sg][ah][bh][ch][dh][eh][ai][bi]
+[ci][di][aj][bj][cj][dj][ej][ak][bk][dk][al][bl][cl][dl][el]
+[am][bm][cm][dm][lm][mm][an][bn][ln][ao][bo][mo][ap][np][aq]
+[bq][ar][br][cr][nr][as][bs][cs][ns][os][ps][qs]TB[aa][ba][ca]
+[da][ea][fa][ga][ha][ia][ja][ab][bb][cb][db][eb][fb][gb][hb]
+[ib][jb][cc][dc][ec][fc][gc][hc][ic][jc][kc][gd][hd][id][jd]
+[kd][ge][he][ie][je][ke][le][me][hf][if][jf][kf][lf][mf][hg]
+[ig][jg][kg][lg][mg][hh][ih][jh][kh][lh][mh][ii][ki][li][mi]
+[ij][jj][rj][ik][ok][rk][sk][pl][ql][rl][sl][pm][qm][rm][sm]
+[qn][rn][sn][io][qo][ro][so][gp][hp][ip][qp][rp][sp][fq][hq]
+[iq][gr][hr][ir][gs][hs][is][js]C[I won by around 10-15 points. White came too early in the yose whereas I have always weak points. Was my beginning too risky or normal ? (Did I win by chance or by good play ?)
+
+One big comment here:
+Just quickly take a look at your game and observe how you are responding to your opponents moves...
+
+Did you?
+
+Well, what I observed is, whereever the opponent plays, you play a move "related" to that move. You play in that area. you always try to defend against that stone (even though it is not a threat) And sometimes there are so many bigger points on the board that you can play.
+
+Don't think too local. The game on the whole board. You can always sacrifice a few points, a few stones, to get much bigger gains on other parts of the board and therefore take the lead.]
+)
+(;B[mj];W[oi];B[nj];W[ni];B[mi]TR[kj]C[this is the best for W. (based on the move 'A')
+
+And yes 'A' is the best not because it makes you take more point (it does not) but because it prevents a potential invasion thru the marked stone.(it is not possible to break it, why put yourself in danger :)]
+))
+(;B[np];W[mp];B[op];W[mq];B[jr];W[oq];B[pq];W[oo];B[po];W[nn]
+))
+(;W[oi]
+(;B[ni];W[nj];B[mj];W[oj];B[ol];W[mk];B[nl])
+(;B[nj]C[Why not solidly defend like this?];W[ni];B[mi];W[ng]
+;B[mg];W[og]C[W cannot do anything.])))
+(;B[af]C[Now Black is in !];W[be];B[ae];W[cd];B[cc];W[ce];B[bc]
+C[White would not paly this, just showing to see what would happen if W wanted to cut.]
+)
+(;B[co];W[bo];B[dn];W[dm]C[Why not?])
+(;B[rr]C[even this is bigger.]))
+(;W[ik]C[would you save your stone here?]
+(;B[ij];W[jk];B[jj]C[this happens if you sacrifice.])
+(;B[im];W[jk]C[W sacrificed and he is in your territory... (if you don's sacrifice)]
+)))
+(;B[qh]
+(;W[ri];B[qg]C[This is the wrong move for white...])
+(;W[qg]C[This is how he would respond.]
+(;B[ri]
+(;W[rg];B[pg])
+(;W[og];B[rg]))
+(;B[pg];W[pf];B[og];W[of]C[this gets complicated.... but can be analyzed relatively easily.]
+))))
+(;W[mj];B[li];W[mi];B[mh]TR[lh]C[Not really.
+
+Well, maybe. The reason is after the cut at the marked place, White can invade the top center and use that stone to help him later...]
+))
+(;B[np]C[This is what you have said played on the board.];W[op]
+;B[mp]
+(;W[oq];B[oo];W[mn];B[ll])
+(;W[oo]C[But here, things may not go as expected :)]
+(;B[oq]C[Because this move fails, The scenario in mind may not be great.]
+;W[pq];B[or]C[You cannot cut W with the P3 move.])
+(;B[po]C[you may want to defend .];W[pq])
+(;B[pq]C[Forcing move];W[oq];B[po]C[Then defend the leak.]))))
+(;B[co];W[dn]
+(;B[gp]LB[jq:A]SQ[jp]C[This would work perfectly if the marked stone were at 'A'.]
+)
+(;B[gq]C[Instead, this is better now. It is not generally to have 'all' your stones on the 4th or the 3rd line.]
+;W[bd]C[This should be compared to the original game play.
+Let's look at 2 moves ahead where W tries to extend and defend himself.]
+;B[cc];W[dh]C[Now it is blacks turn.
+
+There will be a fight around the bottom right corner.
+And there will be an invasion at the top.
+
+Blacks bottom and White's left are comparable in size. But has much more potential. Whites corner stones are in a corner not affecting the board other than the right side. White has a weak stone.   Black by playing in a way to strengthen his corner stone and right side can easily come out ahead.
+
+We can now say Black is leading.])))
+(;B[qf]
+(;W[rf];B[qg];W[rg];B[qh];W[rh];B[qi];W[ri];B[rj]C[W extends on the second line (not good for W)
+
+Black not has a big wall facing the center. And i little wall facing the Q4 stone on the right side. But this is the simple response from W (sth GnuGo would play)]
+)
+(;W[qg]
+(;B[rf];W[pf];B[rg];W[rh]C[Black is cut! Black tried to cut W stones but this stones are dead now.]
+)
+(;B[pf];W[rf];B[rg];W[rh];B[re];W[sg];B[rd];W[rc]C[Black cannot succesfully cut W.]
+))))
+(;B[pd];W[qd];B[oc];W[pb]TR[ld]C[AB: This works much better with your marked stone.]
+))

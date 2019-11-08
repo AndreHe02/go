@@ -1,0 +1,87 @@
+(;FF[4]GM[1]SZ[9]ST[2]CA[UTF-8]AP[SGFC:1.16]
+
+PB[Alcadeias]
+BR[14k]
+PW[isaacwj]
+WR[9k]
+KM[0.5]
+DT[2015-02-08]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[B+Resign]
+TM[600]
+OT[5x60 byo-yomi]
+RU[Chinese]
+
+C[H: Hi my name is Holger and I will be reviewing your game. I will mark all my comments by preceding them with my initial, 'H:'.]
+;B[ee];W[df]TR[cd][fg]C[This is a bad move. But how could I have punished it better?
+
+H: You can punish this move by claiming territory in other region. I would play C6 or F3 here.]
+;B[ef]C[H: Attaching to a weak stone will only make it stronger. You can see in the following moves that you are forcing white to make territory in the lower left corner.]
+;W[dg];B[eg];W[gc]
+(;B[de]TR[ge]C[H: You should play something bigger here. Maybe claim the bottom right corner with G5]
+;W[ce];B[cd];W[be];B[ec];W[ge]C[Here I thought I had two possible plans:
+I could try to take some territory in the lower right (but I wasn't even sure with which move exactly: G3, G4 or H4?), but White's two groups would live easily and White would probably win by a few points.
+Or I could try to kill White's group on the lower left, letting White grab the entire right side. If I succeeded in killing White's group I would easily win, but if I failed I would be totally lost.
+I chose the latter plan.
+
+H: Killing the white group in the lower left at this point is almost impossible.]
+;B[dh];W[ch];B[eh]TR[bg][bh]C[H: If you want to kill the white group you should play more agressively. I would suggest B3 or B2 instead.]
+;W[gg]C[H: This is a big mistake by white. Now you should make sure white doesn't get two eyes. Don't attack from the outside. That will give white the opportunity to solidify his position.]
+
+(;B[bd]TR[bh]C[The threat is C4.
+
+H: As far as I can see the only way to now win the corner is by playing B2 instead. See the variations.]
+;W[bg]C[White defends against the threat.
+
+H: Now white has secured the corner. There is nothing more you can do.]
+;B[ae]C[Renewing the C4 threat.
+
+H: This is not a threat anymore. White can easily secure the corner.]
+;W[bf]C[My opponent defends well. Looks like I failed.];B[ci]
+C[H: There is no point for black to play here.];W[bi];B[cg]
+C[Desperation. I just thought "I can't see any way to kill White's group, so I will just play this and then maybe I'll see some way to kill it..."
+
+H: White was alive five moves ago.];W[cf]
+(;B[gf]C[Obviously it will never work. But what else? Desperate times call for desperate measures...
+
+H: At this point the game is is essential to keep Sente. Play moves that force white to respond and give you some territory at the same time. The top left corner is actually quite substantial. You should cash in on that. See variation.]
+;W[hf];B[ff];W[gh];B[hg]C[Setting up a trap. If White plays H2 I play H5 and White's group gets disconnected.]
+;W[he];B[hh]C[This is perhaps a useless move.];W[hi];B[gb];W[fb]
+;B[fc];W[hb];B[gd];W[hc];B[hd]C[Perhaps E8 was better.]
+(;W[id]C[H: Lucky!];B[fd];W[eb];B[fe]C[This move looks passive, but it's actually setting up a trap.]
+;W[ig]C[My opponent sees through all my tricks. He's just too good.]
+;B[ie]C[Desperation... I was going to resign at any moment now.]
+;W[ih]C[But suddenly, at the last straightaway my opponent stumbles and blunders.]
+;B[ic]C[White has 3 groups now. And there is a famous 9x9 proverb that says "The second group might live, but the third will die". But surprinsingly, here, it looks like White's 3 groups are all alive...]
+;W[dc];B[ib];W[ga]LB[cb:B][cc:A]C[Here I calculated C8 but saw that it didn't work.]
+
+(;B[cc];W[cb];B[dd];W[bb];B[db];W[da];B[ca]C[Not sure about that move. I didn't have much time left and wasn't sure what to do so I just threw that stone in. The idea was to prevent White from making two eyes.]
+;W[ea]LB[ha:B][id:A]C[Here I played J6 which was a trap. But then if White plays H9 his upper group has two eyes and it's game over. I now realize that I could have probably played H9 directly anyway, aiming to sacrifice some stones in order to kill White's bottom left group.]
+
+(;B[id];W[if]C[And my opponent falls for my trap.
+
+H: You got extremely lucky there.];B[ha];W[ia];B[bh];W[ah];B[ha]
+C[H: White does not have a good Ko threat because the black group isn't yet alive. The only way for blck to live is to win the Ko.]
+;W[ac];B[gb];W[ad];B[fa];W[ba];B[bc];W[af];B[ab]C[H: All in all you should focus more on trying to create territory than on attacking your opponent. Many of the "traps" you tried to set had the effect of strengthening the opponents position. You got extremely lucky in the end because white did not see the importance of the Ko threat.]
+)
+(;B[ha];W[ia];B[bh];W[id];B[ai]C[I could have perhaps win this by just a few points since there was no komi. But usually when I have Black and there is no komi I aim to win by at least 7 points otherwise the victory is not as satisfying.]
+))
+(;B[cb]
+(;W[cc];B[db];W[bc];B[dd];W[bb])
+(;W[db];B[da];W[ea])))
+(;W[fd]C[H: Oops!]))
+(;B[fb];W[gb];B[ga];W[ha];B[fa];W[hb];B[gh];W[hh];B[fg];W[gf]
+;B[hi];W[hg];B[fd];W[gd];B[fc]))
+(;B[bh]
+(;W[ci];B[bg];W[cg];B[bf]
+(;W[cf];B[bd];W[ae];B[bi];W[af];B[ad];W[ag];B[di];W[ah];B[ai]
+)
+(;W[bi];B[cf]
+(;W[ah];B[di];W[af];B[ai])
+(;W[ae];B[bd];W[af];B[ad];W[ag];B[ah])))
+(;W[bg];B[ci];W[cg];B[bi];W[bf]C[H: White tries to get an eye.]
+;B[bd];W[ae];B[ag]C[H: White can't get two eyes])
+(;W[cg];B[ci];W[bg];B[bi];W[ah];B[bd]
+(;W[bf];B[ae])
+(;W[ae];B[bf]))))
+(;B[ge]C[H: Looks a lot better for black.]))

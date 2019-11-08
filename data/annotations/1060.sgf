@@ -1,0 +1,177 @@
+(;FF[4]GM[1]SZ[19]ST[3]AP[SGFC:1.13b];
+
+PB[otakung]
+BR[8k*]
+HA[0]
+PW[Robin]
+WR[8k*]
+KM[5.5]
+RE[B+4.5]
+
+C[Igc2000 Generated Sgf File
+I play black (8k) and the opponent is 8k too.
+
+Comments by Georg Mischler (2k germany)
+"schorsch" or "marabu on NNGS];B[dp];W[cd];B[pp];W[qd];B[ed]
+;W[gc]C[I don't know the joseki for this.
+
+schorsch: better to look it up then (after the game!)
+Your response is actually following one possible joseki, but then
+w normally plays the hane from the inside. In the end, w would
+get the top, and b the left side.
+
+But pincers like G17 generally lead to complicated play and it is
+hard to remember all the variations. At your strength, you may
+just want to avoid the most obvious mistakes, since your opponent
+usually doesn't know the "correct" solution either.];B[cc];W[bc]
+;B[dc];W[be];B[gd];W[hd];B[fc]C[schorsch:
+This move by b is a little defensive. G15 would have much
+more effect. You don't need to worry about living in the
+corner when you can walk to the center. Remember that
+the w position at top center is also everything but strong!]
+;W[hc];B[oc]C[I think maybe L16 or around it is better?
+
+schorsch:
+If you want to take the basis of the w stones, then you probably
+rather play L17 or even M17. Note that especially M17 would be an
+optimal combination with the stone you actually played!
+If we assume that w plays a quiet move to connect H16 to the center,
+then you could still play P17 and have the best of both worlds.
+
+However, since you didn't play G15 a few moves before, w can now
+play an atari there, and you really should care for your top left group,
+so that it doesn't get sealed in. It's not obvious if you could get out of
+this struggle with sente and with enough time to play again on the right.]
+;W[lc];B[qc];W[rc];B[pd];W[qe];B[qb];W[pg];B[cf]C[schorsch:
+As you will notice, this move is disconnected from your group.
+If you play D14, then w can't seperate your stones, and the following
+fight is much better for you.
+
+This seems to be the topic of this game:
+Don't attack with moves that get easily disconnected from your
+remaining groups. If you can force w to crawl on the third line,
+and build a wall towards the center at the same time, then that
+is good enough for you. The w stones can't get killed anyway,
+since they can either live in the corner, or extend downwards.]
+;W[de];B[ef];W[df];B[dg];W[cg];B[ee];W[dh];B[jc]C[schorsch:
+Now that we have to relatively weak b groups at the top, why
+add another one?
+
+The w stone at M17 has optimal distance from his friends, so
+you normally won't be able to seperate them. Optimal distance
+is calculated as follows: If you have a wall like H16/H17, then
+count the hight of this wall (here 2) plus one, and you get the
+gap that you can safely put between the wall and your next stone.
+If there was another stone at H15, then M17 would go to N17.
+If you have a "one stone wall", then you get the basic position
+of two stones with two points distance.
+
+All of those positions are considered stable and connected,
+so you want to think very carefully before trying to disconnect
+them.
+
+But maybe the top isn't the most urgent place to play right
+now anyway? What about R7, C7 or K4 ?];W[kd];B[id];W[ie];B[he]
+;W[ic];B[jd];W[je];B[jb];W[ib];B[gb];W[ge]C[schorsch:
+It's surprising, how often this missing b stone at G15 can
+cause even more trouble!];B[hf];W[fd];B[gf];W[kb];B[fe];W[ja]
+;B[rb]C[schorsch:
+White says thanks for a move that can be easily ignored...]
+;W[qk];B[jq];W[jo];B[mq];W[iq];B[fq]C[schorsch:
+Extending the attacked stone to K4 would strenghten the b right
+side significantly, while probably forcing w to answer.
+After this, the left corner may want an extension along the outer side.
+Since you want to make territory, it is more interesting to walk
+where there is still more room to grow.];W[jp];B[kq]C[schorsch:
+After not defending K3 once, doing so now makes little sense.
+Wouldn't something like C7 or even C8 be much bigger?
+If b doesn't play in that area now, w will do so!];W[cn];B[dk]
+;W[bp];B[cq];W[bq];B[br];W[cp];B[dq];W[do];B[eo];W[ho]C[schorsch:
+Why doesn't w continue with E6?
+This would soon cause problems for the b stone at D9.
+securing J3 doesn't look very urgent in comparison.];B[em];W[bk]
+;B[eg];W[ci];B[bg];W[ch];B[bf];W[ce];B[bb];W[ab];B[bj];W[bl]
+;B[cj];W[bh];B[qn];W[on]C[schorsch:
+W didn't realize that R3 is still possible. This invasion would
+take almost all b territory in the corner away.
+On the other hand, connecting the bottom center w group
+also isn't a bad idea. The next move by b at Q7 may be on
+the wrong side under this aspect. It could be interesting to
+consider M5 or even M6 instead.];B[pm];W[op];B[oq];W[np];B[nq]
+;W[po];B[qo];W[mp];B[lp];W[lo];B[qi]C[I try to cut again , but It seems fail?
+
+schorsch:
+That shouldn't surprise you! :)
+The problem is that you don't only seperate R11 from his friends,
+but you own stone is pretty lonely as well there. Did you expect that
+stone to live in there? Did you plan to connect it to some other group?
+Which one? W can just walk out with his stone, which leaves you with
+a very hard fight.];W[pj];B[pi];W[oi];B[oh];W[ph];B[rk];W[qj]
+;B[oj];W[ni];B[rj];W[ri];B[ql];W[qh];B[ir];W[hq];B[hr];W[ar]
+;B[nl];W[ok];B[ol];W[nk];B[mo]C[The third cut and it fail again
+
+schorsch:
+You need to consider that your opponent also tries to win the game...  This move is an "obvious" overplay. Well, it's obvious to me, and
+will hopefully be obvious to you as well within short time.
+
+For this kind of problem it may help to study life and death problems.
+This will improve your reading ability and teach you to consequently
+count liberties when fighting.];W[mn];B[ko];W[no];B[kn];W[kp]
+;B[lq];W[ln];B[pn]C[schorsch:
+It looks as if you haven't seen the ladder for your L6 stones yet.
+If you consider the most likely response by w on your move,
+then you'd soon notice that you can't kill the right w group
+as easily as you would wish.
+
+As an alternative: If you now play L7, then w probably needs to
+make the second eye at Q6, since you can close in the group.
+Now it may become interesting to threaten the K4 group.
+It's not obvious if you can kill it yet, but while attacking, you
+might gain a lot of strenght in the center.];W[km];B[jn];W[in]
+;B[eh]C[schorsch:
+Ah, now we have seen the ladder.
+Unfortunately, E12 has no threat for w, so that he can savely
+ignore it and capture. In this situation, it may be better to look
+for the biggest sente move elsewhere on the board and play there.
+
+B2 and B19 are both worth about 7 points.  J10 is also a ladder braker and looks like a good starting position
+to prevent w from making any territory in the center.];W[jm]
+;B[di];W[ag];B[hi];W[hk];B[gj];W[fl];B[ji];W[jg];B[ig];W[jh]
+;B[ih];W[ek];B[ej];W[dl];B[el];W[fk];B[cl];W[cm];B[dm];W[cr]
+;B[dr];W[bs];B[mb];W[mc];B[nc];W[cb];B[db];W[ba];B[gd];W[ki]
+;B[ne];W[ng];B[of];W[og];B[rd];W[re];B[sc];W[ds];B[er];W[da]
+;B[ea];W[ca];B[dn];W[mk];B[co];W[bo];B[jj];W[kj];B[le];W[lg]
+;B[jk];W[hl];B[se];W[sf];B[rf];W[sd];B[hb];W[kc];B[se];W[qp]
+;B[pq];W[sd];B[bi];W[af];B[se];W[qf];B[sg];W[rg];B[sf];W[sh]
+;B[sd];W[sj];B[sl];W[gq];B[gr];W[lb];B[nb];W[ha];B[fa];W[nf]
+;B[oe];W[mf];B[me];W[kf];B[kk];W[lk];B[es];W[fp];B[cs];W[br]
+;B[ep];W[fo];B[sk];W[si];B[ak];W[am];B[fn];W[gn];B[fm];W[gm]
+;B[gk];W[gl];B[il];W[im];B[la];W[ka];B[ma];W[fj];B[fi];W[ij]
+;B[ii];W[hj];B[gi];W[md];B[nd];W[ml];B[nm];W[kl];B[nn];W[oo]
+C[schorsch:
+W schould first connect at N5.
+Assume that P7 is not played immediately as in the game, but is
+later used as a ko threat. With the connection at P5 in place, the
+threat is worth 14 points. With the connection at N5 it's only
+4 points. Always connect from the save side, and consider to
+sacrifice the last few stones if it helps in a ko fight or if you find
+some bigger move elsewhere.];B[om];W[mo];B[mm];W[lm];B[if];W[jf]
+;B[pf];W[al];B[aj];W[an];B[ga];W[ia];B[pe];W[qg];B[ck];W[dd]
+;B[eb];W[jl];B[ik];W[ds];B[do];W[cs];B[ai];W[ah];B[pl];W[pk]
+;C[I try to cut three times , but it fails all and this
+game I win 4.5 pts.  Thank you
+
+Invading a strong position with no plan for an "emergency
+exit" is dangerous! Trying to kill at all cost is also not a good
+idea. The strong player prefers to let an opponents group live
+small and to take profit elsewhere. It also helps to count the
+position and think carefully if you really need an attack.  If you
+are ahead, then there is no reason to take any risk, so you can
+quietly reduce your opponents territory from the outside.
+
+But of course, the only thing that really helps is to play many
+games to get experience about what works and what doesn't.
+
+Have fun!
+
+-schorsch])

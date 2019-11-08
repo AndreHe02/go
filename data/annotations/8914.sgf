@@ -1,0 +1,317 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.17]
+
+PB[Adam Rizvi]
+BR[13k]
+PW[GNU Go]
+KM[6.5]
+DT[2012-10-13]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[B+16.5]
+RU[Japanese]
+US[Adam Rizvi]
+
+C[--
+Hi Adam, I'm Sisyph your reviewer. I will start my comments with some dashes. As always, remember that I'm about 5k on KGS, take my comments for what they are worth ^^
+
+Your main question is what to do after opening is over, so I will try to focus on that topic.
+
+You can contact me if you have any questions.
+
+Let's Go !];B[pq];W[dp];B[qd];W[dc];B[oc];W[po];B[qo];W[qn]
+;B[qp];W[pn]LB[nq:A][oq:B]C[adamz11 [13k\]: At this point should black finish joseki or approach, which is bigger?
+
+--
+Well, it's perfectly possible to do tenuki even in the middle of a joseki. As always it depends on the global situation.
+
+Here, I think Black should play the joseki, because the joseki move at A for example, is almost sente. If white do tenuki, you can attack his three stones and gain a lot !
+
+If you do tenuki, you are not sure to get the sente and go back to play A. If White get to play B because of your tennuki, you will be closed into the corner and white will gain a wall facing his bottom left hoshi.
+
+See variations.]
+(;B[de]C[--
+If you do tenuki as in the game ...]
+(;W[qj]C[--
+White play the joseki move];B[ec];W[eb];B[ed];W[fc]LB[db:A]
+[fb:B][fd:C]C[--
+joseki I know are at A or B. C is joseki too (see eidogo.com or josekipedia.com)
+Here A is not possible because the shicho is White, so B seems the move.]
+(;B[cc]C[--
+Not joseki as far as I know];W[cb]
+(;B[bc]LB[nq:A][oq:B]C[adamz11 [13k\]: is this move big, or is something like O3 or O4 better?
+
+--
+This move is big for sure, but not that big (and he has a weakness !).
+
+But in the opening (fuseki) you should play moves according to an overall strategy before playing big moves. See next comment for details.
+
+In this particular case, B17 is big but it is not really sente (do not really threaten White) and moreover if you do not play it White has no big immedaite threat against your group.
+
+A move at A prevent white to make a moyo while making points. In my opinion it is more urgent and better.]
+(;W[oq]C[--
+See ? White use sente to attack your corner, considering the upper left corner strong enough.]
+;B[op]LB[pp:A]C[--
+Looks like an overplay ^^
+Before playing this I hope you read that it leads to something good for you ^^
+
+If not, remember the fundamentals : connect your stones and disconnect opponent stones !]
+(;W[or];B[pr];W[lq];B[jc]LB[pp:A]C[--
+You should play A !];W[hp]LB[pp:A]C[--
+White should play A too ^^];B[dn];W[fp];B[dj];W[co];B[cn];W[qg]
+CR[bb][gb][gc][fd][gd][ro][rr][ps]LB[pp:A]TR[cb][eb][dc][fc]
+[qo][op][qp][pq][pr]C[adamz11 [13k\]: At this point, what are the biggest options for black? I have no idea what to do when opening is finished.
+
+--
+Well I will give you a rule of thumb when you do not know where to play during the chuban (the fighting part after opening / fuseki) :
+
+1. Defend / Strengthen your weak groups. If no weak groups left,
+2. Attack your opponent weak groups. If no weak group left,
+3. Play big points.
+
+When there is no weak groups left (all group are alive) you're beginning yose (endgame).
+
+If you look at the goban you can see that you have a weak group and your opponent has one too (triangles). The weak groups can be attacked at the circled points according to one's strategy.
+
+This said, to know where and how to play, the key point is to COUNT and to evaluate the power in terms of INFLUENCE. It will help you to choose a strategy.
+
+See variations.]
+(;B[mo]LB[np:B][pp:A]C[--
+You can not do that with the cut at A. If you want to push, B is possible]
+(;W[ko]LB[pp:A]C[--
+A is urgent ...];B[gn]LB[cq:A]C[--
+This move is good because it extends your moyo while reducing white's. Neverthless, invasion at A or a redution around there might be bigger. 
+
+In any case, Q4 first !];W[hc];B[ph]LB[pp:A][cq:B]C[adamz11 [13k\]: Is this a good place to reduce white?
+
+--
+It is a good place to reduce White, but there is better / more urgent moves like A and B.]
+;W[gf]
+(;B[gd]LB[ge:A][qh:B]C[--
+It it right to cut white. Usually A is better to cut. And White has some trick left for you. I tried some variations ...
+
+As White tenukied, cutting at B is really big too ^^]
+(;W[dg]C[--
+The following fight is strange. It's why it is not recommended to play too much against a computer, or you will get bad habits.]
+;B[cg];W[ch];B[dh];W[cf];B[df];W[bg];B[eg];W[hd];B[cg];W[ci]
+;B[cj];W[hg];B[gc];W[gb];B[fd];W[jd];B[ib];W[hb];B[kd];W[bb]
+;B[je];W[be];B[he];W[hi];B[ih]C[adamz11 [13k\]: is this necessary to keep whites H13 group eyeless?
+
+--
+It's ok to make white heavy.];W[hh];B[ge];W[id];B[hf];W[cd]
+;B[dd];W[db];B[ce];W[bd];B[bf];W[qh]
+(;B[pg]C[--
+Usually better to play the other side];W[pi];B[oi];W[pf];B[rf]
+;W[qf];B[nf];W[oj];B[ni];W[re];B[rd];W[bo]LB[cq:A]C[--
+BIG ! It denies you the invasion at A and threaten your territory ^^]
+;B[bn];W[ig];B[jh];W[rg];B[nj];W[ok];B[nk];W[pp]TR[ib][jc][kd]
+[je][gf][hg][ig][hh][ih][jh][hi][qo][qp][pq][pr]C[adamz11 [13k\]: what are big moves for black here?
+
+--
+OUCH ! This move should have been played by you for about 50 moves ^^ 
+Now White is back in the game.
+
+The situation is complex. As I said :
+
+1. Strengthen your weak groups
+2. Attack opponent's weak groups
+3. Play big points
+
+The problem with White move is that it gains a lot and is sente as I think White can kill you if you tenuki (See variations).]
+(;B[lm]
+(;W[ro];B[nq];W[nr];B[sr];W[qq]
+(;B[mq];W[rp];B[mr];W[np];B[mp];W[oo]CR[dn][gn][mo][mp][mq]
+[mr]LB[cq:A][eq:B][gq:C]TR[bn][bo]SQ[ip][jp][kp][kq][kr]C[adamz11 [13k\]: is it possible to invade white bottom left and side territory?
+
+--
+Well, it was certainly possible before the triangled exchange. Now ... B and C are usual points to try. And you can count on the circle stones. In that kind of situation, you have to count. If you are leading, just reduce around the squares, if not, an invasion  might be better.
+
+In this game, I think a winning stategy is to reduce the bottom in sente, building thickness to be sure to kill the center white stones. And of course avoid white to invade / reduce ^^
+
+That's basically what you have done. But a good human opponent will probably have managed to give you more damage ^^
+
+I' ve tried some invasions to give some examples ...
+
+No more comment after that. Enjoy the game !]
+(;B[kp];W[kq];B[jp];W[jq];B[io];W[hk];B[gj];W[hj];B[gk];W[kk]
+;B[jj];W[il];B[ik];W[jk];B[ij];W[hm];B[gl];W[ip];B[jo];W[kn]
+;B[hn];W[hl];B[nm];W[km];B[ll];W[kj];B[lh];W[gg];B[kl];W[jn]
+;B[jl];W[in];B[ho];W[gi];B[fh];W[jg];B[kh];W[mn];B[ln];W[ol]
+;B[no];W[of];B[ne];W[lr];B[ms];W[op];B[gp];W[gq];B[go];W[fo]
+;B[fn];W[an];B[am];W[ao];B[bl];W[sd];B[ae];W[ac];B[fq];W[hr]
+;B[eo];W[ep];B[do];W[cp];B[nn];W[sb];B[rc];W[sc];B[rb];W[oh]
+;B[nh];W[og];B[ha];W[ga];B[ia];W[kc];B[kb];W[lc];B[lb];W[ld]
+;B[ke];W[mb];B[mc];W[jb];B[md];W[ic];B[le];W[jc];B[nb];W[ka]
+;B[ma];W[ng];B[mg];W[fb];B[om];W[pm];B[ns];W[os];B[qe];W[se]
+;B[la];W[ja];B[fi];W[pe];B[pd];W[ie];B[if];W[oe];B[od];W[nl]
+;B[ml];W[lp];B[lo];W[ls];B[ra];W[sf];B[af];W[ad];B[tt];W[sa]
+;B[tt];W[on];B[tt];W[tt]TW[aa][ba][ca][da][ea][fa][ha][ia][ab]
+[ib][bc][cc][rf][pg][sg][ph][rh][sh][qi][ri][si][pj][rj][sj]
+[pk][qk][rk][sk][pl][ql][rl][sl][qm][rm][sm][rn][sn][qo][so]
+[ap][bp][qp][sp][aq][bq][cq][dq][eq][fq][hq][iq][pq][rq][sq]
+[ar][br][cr][dr][er][fr][gr][ir][jr][kr][pr][qr][rr][sr][as]
+[bs][cs][ds][es][fs][gs][hs][is][js][ks][ps][qs][rs][ss]TB[na]
+[oa][pa][qa][mb][ob][pb][qb][nc][pc][qc][nd][ee][fe][me][cf]
+[ef][ff][gf][jf][kf][lf][mf][ag][bg][dg][fg][gg][hg][ig][jg]
+[kg][lg][ah][bh][ch][eh][gh][hh][mh][ai][bi][ci][di][ei][gi]
+[hi][ii][ji][ki][li][mi][aj][bj][ej][fj][hj][kj][lj][mj][ak]
+[bk][ck][dk][ek][fk][hk][jk][kk][lk][mk][al][cl][dl][el][fl]
+[hl][il][bm][cm][dm][em][fm][gm][hm][im][jm][km][mm][en][in]
+[jn][kn][mn][ko])
+(;B[jn]C[--
+this to limit white];W[jo];B[in];W[nl];B[ml];W[nm];B[ln];W[lr]
+;B[ls];W[ks];B[ms];W[jr];B[lp];W[kp];B[ae];W[ac];B[ao];W[ap]
+;B[an];W[bq];B[oe];W[kc];B[lc];W[kb];B[lb];W[jb];B[ka];W[ic]
+;B[ja];W[jc];B[le];W[ia];B[la];W[sd];B[sc];W[se];B[rb];W[pe]
+;B[pd];W[og];B[oh];W[of];B[ng];W[fn];B[fm];W[en];B[em];W[go]
+;B[hn];W[kn];B[km];W[ad];B[af];W[ie];B[if];W[nn];B[no];W[op]
+;B[do];W[eo];B[ns];W[os]C[--
+This is a possible outcome (I'm no yose master though). You win by more than ten points]
+)
+(;B[jm]C[--
+This make the center yours. Because of the triangle, you can reduce white ...]
+;W[io]TR[mr];B[kr];W[lr];B[ls];W[kq];B[jr];W[jq];B[ir];W[hr]
+(;B[iq];W[hq];B[hs];W[gs];B[is];W[fr])
+(;B[hq];W[gq];B[iq];W[gr]))
+(;B[eq];W[ep];B[gq]
+(;W[gp];B[fq];W[hq];B[hr];W[ir];B[dq];W[cq];B[cr];W[bq];B[hs]
+;W[br];B[cs]C[--
+Alive ^^])
+(;W[fq];B[gp];W[go];B[ho];W[fo];B[hq];W[ip];B[iq];W[jp];B[kr]
+;W[jq];B[jr];W[lr];B[ls];W[gr];B[ir];W[hn]C[--
+Probably the best you can get. But White may have better moves, I'm no dan player ^^
+But in this case white might manage to save his center stones !]
+)))
+(;B[qr];W[rq];B[np];W[mr]))
+(;W[rr]C[--
+Probably a killing move ^^]
+(;B[rq];W[qr];B[qq];W[ps];B[rn];W[rm])
+(;B[qq];W[ro];B[rp];W[rn];B[os];W[mr]
+(;B[sr];W[sq];B[rs];W[ss];B[qs];W[sp];B[rq])
+(;B[rq];W[sq];B[sp];W[sr];B[qr];W[ps]))
+(;B[qr];W[rq]
+(;B[rp];W[rn];B[rs]
+(;W[ps];B[sr];W[sq];B[sp];W[ss]
+(;B[qq];W[qs])
+(;B[qs];W[sr]))
+(;W[sr];B[ps];W[sp];B[so];W[ro];B[sq];W[sn];B[qq];W[sp]))
+(;B[rs];W[rp];B[ro];W[ps];B[sr];W[qq]))))
+(;B[rr]C[--
+Vital point. I don't think white can kill you now. But he can get sente to do some nasty things ^^]
+))
+(;B[pi]C[--
+This deny white the shape move]))
+(;W[fd];B[fe];W[gc]
+(;B[ge];W[dd];B[ee];W[cd]TR[bc][cc]C[--
+This hurts !])
+(;B[dd];W[ge]C[--
+This hurts too, but less ^^];B[hd];W[id];B[he];W[if])))
+(;B[ge]
+(;W[he];B[fe]
+(;W[gd];B[hf];W[if];B[hg];W[ie];B[ke]C[--
+Your moyo now looks like solid territory ^^])
+(;W[hf];B[hd];W[gd];B[id])
+(;W[ie];B[gd];W[gc];B[hd];W[id];B[ic]))
+(;W[fe];B[fd];W[gd];B[he];W[ff];B[hd];W[gc];B[je]))
+(;B[qh]))
+(;W[pp]C[--
+Here you have a tsumego to solve in the corner and you have two floating stones, not very useful ...]
+))
+(;CR[da][ea][ka][la][ma][na][oa][kb][lb][mb][nb][ob][af][bf]
+[cf][ag][bg][cg][ah][bh][ch][ai][bi][ci][aj][bj][cj][rj][sj]
+[ak][bk][ck][rk][sk][al][bl][cl][ql][rl][sl][am][bm][cm][qm]
+[rm][sm][rp][eq][fq][gq][hq][qq][rq][sq][er][fr][gr][hr][ir]
+[jr][kr][qr][rr][sr][es][fs][gs][hs][is][js][ks][rs][ss]LB[gb:C]
+[pp:A][cq:B]TR[cb][eb][dc][fc][pg][nh][oh][mi][lj][kk][jl][im]
+[gn][hn][fo][qo][op][qp][pq][pr]SQ[pa][qa][ra][sa][pb][qb][rb]
+[sb][qc][rc][sc][ad][bd][ae][be][ce][rh][sh][ri][si][lr][mr]
+[ls][ms]C[--
+Triangle stones are weak groups to defend / attack.
+Square are actual points
+Circles are potential points
+Triangles show the approximative limit of opposing moyos (influence).
+Letter points to intresting points.
+
+You are leading in actual and potential points. You are leading in term of power and potential (influence / moyo) and if you have a weak group, white has one too. So you are leading. In this case you have to play simple moves avoiding complex fights. This leads to sure victory. White will try to complicate the game playing overplay and invasions.
+
+So :
+
+1. strenghten you weak group by playing A. A is really good because it strengthen you AND splits White, invading his moyo. White should then defend his weak group to avoid a move around C.
+
+2. If white do not defend C attack to gain thickness (or kill if possible ^^)
+
+3. play big points. B or a point at the limit of the moyos (around triangles)
+
+I've included some ideas...];B[pp]
+(;W[gb]C[--
+White defends.])
+(;W[np]C[--
+If white does not defend ...];B[gb]C[--
+This will deny him two eyes, he will have to thrive for life while you build on both side while attacking him (no need to kill ^^)]
+;W[fb]))
+(;B[pp]C[--
+This move strenghten your group and split white !])
+(;B[gd]LB[pp:A]C[--
+with this move your moyo is bigger and White must play A to get a moyo too]
+;W[pp];B[rr];W[ro];B[rp]LB[jp:B][cq:A]C[--
+Now it is a matter of invasion / reduction. Black is better because his moyo is bigger and he has good invasion at A and reduction at B. BUT White has sente. Q4 was the move !]
+)
+(;B[np]C[--
+This is possible to protect the cut I think.];W[pp]C[-- 
+White can not cut ...];B[nr]C[--
+Because of this  ^^]))
+(;W[pp];B[nq]
+(;W[qq];B[or];W[pr];B[oq];W[qr]C[--
+White get the corner and you have to add a move to defend your heavy group ...]
+)
+(;W[or];B[pr];W[nr];B[np];W[mq];B[rr];W[ro]
+(;B[rp]LB[rn:A]C[--
+Not really good for you either. White can leave A unplayed, it is a yose move. Then He gets sente to play whatever he wants ^^]
+)
+(;B[qh];W[rp];B[qq];W[qs];B[ps];W[rs]))))
+(;W[fd]C[--
+White exploits the weakness of your move ...];B[fe]C[--
+If you have not seen it ...];W[dd];B[ee];W[cd]C[--
+Your 2 stones are almost captured !];B[bd];W[ce];B[be];W[cf]
+C[--
+Even if you manage to save your stones, the outcome will be bad for you]
+))
+(;B[nq];W[cd];B[ce]C[-- 
+this is sente]
+(;W[bd]SQ[aa][ba][ca][da][ea][pa][qa][ra][sa][ab][bb][db][pb]
+[qb][rb][sb][ac][bc][cc][qc][rc][sc][rk][sk][rl][sl][rm][sm]
+[rp][sp][qq][rq][sq][or][pr][qr][rr][sr][os][ps][qs][rs][ss]
+C[--
+Then you get sente and you are leading counting sure points. Seems OK for Black !]
+)
+(;W[jp];B[bc];W[bd];B[dd];W[db];B[be];W[bb];B[ad]))
+(;B[cd]C[--
+May be this is better to protect. Maybe the atari])
+(;B[dd];W[db];B[bc]C[--
+This protect the weakness, but ends gote and your shape is not the best I know ^^]
+))
+(;B[fb];W[gb];B[db];W[fa];B[cc];W[oq]C[--
+You get a big corner, but white can play P3.])
+(;B[db];W[cb];B[fb];W[da];B[gc]TR[pn][qn][po]C[--
+This joseki move is not possible, White has the shicho.])
+(;B[fd]C[--
+I discovered this on josekipedia.];W[gc];B[fb];W[db];B[hc]C[-- 
+Tesuji];W[gd];B[gb];W[hd];B[ic];W[id];B[jc];W[ce];B[cf];W[be]
+;B[dd];W[cd];B[dg];W[bf];B[ch];W[ef];B[df];W[hf]C[--
+Probably possible.]))
+(;W[oq]C[--
+... White can press you into the corner !
+You will live, but white will get a lot. And if you end gote, he will be able to answer your corner approach ^^]
+))
+(;B[nq]C[--
+joseki]
+(;W[de]C[--
+If white do tennuki ...];B[qj]C[--
+You can attack White three stones (S10 or other move in the area) while getting the perfect extension from your shimari. You will build territory on the east border, and probably on the south border ...
+
+I show you one possibily, but from here White will have a hard game !]
+;W[pk];B[pj];W[ok];B[ni]TR[qj]C[--
+White will have a hard time to live (because of the triangle stone) and if he escapes, you will gain territory / power chasing him ^^]
+)
+(;W[pj]C[--
+if White finish the joseki, you have the sente to play your approach move (kakari).]
+;B[de]C[--
+This seems normal.])))

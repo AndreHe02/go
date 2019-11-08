@@ -1,0 +1,128 @@
+(;FF[4]GM[1]SZ[19]ST[1]CA[UTF-8]AP[SGFC:1.15]
+
+PB[DavidKay]
+BR[20k]
+HA[2]
+PW[rillig]
+WR[18k]
+KM[0.5]
+DT[2006-05-12]
+PC[The Kiseido Go Server (KGS) at http://kgs.kiseido.com/]
+RE[W+9.50]
+TM[1800]
+
+AB[dp][pd]C[Hello,
+
+Thank you for taking the time to look at this game.  The comments will all be from my perspective (black stones), but my opponent, rillig, would also like any comments you have on the other side.
+
+Hi!
+
+My name is Philip, I am philip101 on KGS (10 kyu). Feel free to e-mail me or contact me on KGS with any questions. I'll mark all my comments with "P:"]
+;W[pp]C[DavidKay [20k\]: you too];B[cc]C[My general opening is 4-4, 3-3.  I don't think it ended up being a good choice for a handicap game.
+
+P: There's nothing seriously wrong with opening on the 3-3, but it may be difficult to use effectively in a handicap game.]
+;W[nq]LB[nc:B][qf:A]C[P: This move seems strange. Since white's first move was on the 4-4 point, a corner enclosure is not particularly valuable (in contrast to a stone on the 3-4 point). More normal would be an approach at A or B.]
+;B[pj];W[pl];B[jp];W[cj];B[cm]TR[cj]LB[cl:A]C[P: Black could consider extending all the way to A: putting more pressure on the marked stone.]
+;W[cg];B[qg]LB[fc:B][fd:A]C[P: An extension from the 3-3 stone would be better here.]
+;W[gc];B[dd]LB[de:A][ec:B]C[P: It's difficult to say what the best move is here. Black does not want to be sealed into the corner, but perhaps A would be a faster way of moving into the center. B would be a safe way to make a base.]
+;W[ee]C[P: White aggressively tries to seal black in.];B[jc]
+;W[id];B[jd];W[je];B[df]C[Here I begin what ends up being a sacrifice of the corner, a bad choice for sure.  Maybe the game in itself?
+
+P: Yes, but I think black had opportunites to live in the corner.]
+;W[de];B[cf];W[ce];B[bf];W[be];B[dg];W[ch];B[fd];W[ed];B[fc]
+;W[ec];B[fb];W[eb];B[gd]C[P: White succeeds in sealing black in. Black also now has two new groups to worry about- neither of which have eyes.]
+;W[hc];B[hd];W[he];B[ic];W[ie]C[Is there any way to save the corner at this point?  I've tried several paths, but they all seems quite easy to kill.]
+;B[db];W[ea];B[bd];W[ae]
+(;B[ca]C[P: See Variation];W[bb];B[ff];W[le];B[lc];W[md];B[mc]
+;W[nd];B[nc];W[od];B[oc];W[pe];B[qd];W[pf]TR[pj][qg]LB[qe:A]
+C[P: This move is a mistake. White should keep pushing here at A, separating the marked stones and making them weak.]
+;B[qf];W[oh];B[ph]C[Considering the result, it was probably a bad idea to let him keep me to the edge here.
+
+P: I like the result. Black gets solid territory, while white has slim prospects of center territory because his moyo is open on both sides.]
+;W[oj];B[pk];W[ok];B[ef]LB[gg:A][oi:B]C[P: A move at A here will connect all of black's stones. Also, pushing through at B seems like a good way to create cutting points in white's shape. I would play B here first in sente, and then come back and protect at A.]
+;W[ek];B[dk];W[dj];B[ck];W[em]LB[ej:A]C[P: Black must cut immediately at A here. This will start a fight which will give white two weak groups (groups which have no easy path to life). Making both of them live will be very difficult for white.]
+;B[dn];W[jm];B[fe]C[Here I begin to wonder if I can't kill his E15 group.  I was also preventing a cut to my D14 group.
+
+P: This is the problem with Black E14. Now you have spent two moves connecting these stones, when one could have done the trick.]
+;W[hh]C[P:];B[da];W[cb];B[ei]TR[hh]C[I'm trying to mount a small invasion, but didn't want to cut outright against a stronger player.
+
+P: You must fight in order to get stronger :). The cut will be a little harder now because of the marked stone.]
+;W[ej];B[di];W[fi];B[ci];W[bi];B[bj];W[bk];B[bh];W[aj];B[ah]
+;W[gp]C[P: This move makes things difficult for black.];B[hq]
+;W[gq];B[gr];W[fr];B[hs];W[cq]C[How should I have gone about killing this stone.  Is it not possible?
+
+P: This stone can not be killed.];B[dq];W[cp];B[co];W[bo];B[bn]
+LB[dr:A]C[P: White should push at A first to gaurantee life.]
+;W[bp]C[I thought from here it must be killable.  I'm not the best when it comes to life/death.  It's on the list ^_^
+
+P: Now I am not so sure if it can live. See variations.]
+(;B[cr];W[br];B[ds];W[bs];B[aq];W[ar];B[ap];W[ao];B[an];W[bq]
+;B[bl];W[ko];B[kp];W[lp];B[hp];W[ho];B[fq];W[fp];B[eq];W[eo]
+;B[do];W[dl];B[cl];W[dm];B[en];W[fm];B[fn];W[gn];B[fo];W[go]
+;B[jo];W[kn];B[in];W[im];B[hn];W[hm];B[gl];W[gm];B[gi];W[gh]
+;B[fj];W[hi]LB[fh:A]C[P: This is a big mistake. White can connect here at A in sente, since the D11 stones are threatened by a connection at A.]
+;B[fh]C[Should I not have taken that?  I don't think I had a choice.
+
+P: This is very good for black.];W[gj];B[fk];W[fi];B[bc];W[dc]
+;B[gi];W[al];B[fi];W[am];B[hj]C[Is there a better tactic here?
+
+P: No, this is fine.];W[ij];B[hk];W[ik];B[og];W[pg];B[oi];W[nh]
+;B[ni];W[qh];B[pi];W[rh];B[qe];W[rl]TR[pe][pf][pg]C[A mistake on white's part.
+
+P: Well, the marked stones can be killed now, but these stones are not so important since black has already penetrated white's moyo at O11. S8 helps secure a big corner for white.]
+;B[oe];W[ng]LB[nf:A]C[P: Black should respond with A instead.]
+;B[of];W[lh];B[rj]LB[ol:A]C[P: Black should be more aggressive here. The cut at A will do some damage to white.]
+;W[mj];B[nj];W[nk];B[mi];W[lj];B[li];W[ki];B[mh];W[mg];B[lg]
+;W[lf];B[kh];W[ji];B[mf]LB[lq:C][qp:B][qq:A]C[Right after I played this move I wondered if I might have cut my way across for a bigger kill.  I doubt I could have, but I wonder what you think.  I could probably have attempted it in sente and then made the small kill, gaining some in the process.
+
+P: Black gained a lot with this sequence. Invading at A or B should now become a priority for black. C is also large, but it may be gote.]
+;W[jh];B[kg];W[jg];B[kf];W[ke];B[jf];W[if];B[lh];W[hl];B[gk]
+;W[fa];B[gb];W[ga];B[hb]C[Should have played H19.];W[ha];B[ia]
+;W[ai];B[af];W[el]TR[al][am]LB[qp:B][qq:A]C[Necessary?
+
+P: It protects the marked stones, but a move at A or B is much bigger.]
+;B[ld]C[Bad move.. gote.  So we trade wasted moves.];W[me]LB[ne:A]
+C[P: Black can play at A here instead of capturing (threatening a snapback) for an extra point.]
+;B[nf];W[kr];B[jr];W[io];B[jn];W[ip];B[iq];W[kq];B[jq];W[ep]
+;B[ks];W[lr];B[ls];W[ms];B[js];W[mr];B[rk];W[ql]
+(;B[qo]C[Here I'm just trying to save the game.
+
+P: See variation.];W[qp];B[ro];W[rp];B[rm];W[sl];B[ol];W[nl]
+;B[om];W[pm];B[on];W[pn];B[po];W[oo];B[no];W[op];B[mn];W[lo]
+;B[mk];W[mm];B[ml];W[nm];B[nn];W[lm];B[lk];W[kj];B[sp];W[sq]
+;B[rq];W[so];B[sr];W[sp];B[qq];W[rr];B[qr];W[ss];B[qk];W[cs]
+;B[dr];W[ak];B[fs];W[bj];B[gg];W[bm];B[cn];W[hg];B[gf];W[kd]
+;B[kc];W[sk];B[sj]
+(;W[rn]C[I think this wasn't necessary either.
+
+P: See variation.];B[hf];W[tt];B[ne];W[tt];B[ge];W[ig];B[tt]
+;W[tt]TB[ag][bg][cg][ch][dh][eg][eh][er][es][fg][fr][gc][gj]
+[gs][hc][hr][ib][ir][is][ja][jb][ka][kb][la][lb][ma][mb][mg]
+[na][nb][ng][nh][oa][ob][oh][pa][pb][pc][pe][pf][pg][qa][qb]
+[qc][qh][qi][qj][ra][rb][rc][rd][re][rf][rg][rh][ri][sa][sb]
+[sc][sd][se][sf][sg][sh][si]TW[aa][ab][ac][ad][ap][aq][as][ba]
+[bc][bd][ca][cc][cd][da][db][dd][ih][ii][il][jj][jk][jl][kk]
+[kl][km][lk][ll][ln][lq][mk][ml][mn][mo][mp][mq][nn][no][np]
+[nr][ns][ol][om][on][oq][or][os][po][pq][pr][ps][qm][qn][qo]
+[qq][qr][qs][rm][ro][rq][rs][sm][sn][sr]C[Rillig's comment was: "I won?"  That's mostly why I'm submitting this game for review.  I know that the loss of the upper left corner was huge and definitely did much of the game in for me, considering I didn't get that much territory out of the wall I got in return.  But still I think there must have been some way to do better.  I think Rillig's main concern was how to stop my invasions.  And of course any other advice is always welcome.  Thank you.
+
+P: Overall I thought the game was pretty well played. The two major issues seem to be life and death and shape issues. I would suggest doing tsumego (life and death problems). 
+
+White played well, but should focus more on ways to protect/connect his moyo. Black had some connection issues early on. Look carefully at ways to connect stones as efficiently as possible. Also be conscious of using connection techniques to help make eyes.]
+)
+(;W[sa];B[qn];W[sm];B[sn]C[P: Black can make a big ko.]))
+(;B[qq]C[P: This situation is very complicated, but black can usually get a ko out of it. I went through one variation.]
+;W[qp];B[rp];W[ro];B[rr];W[sp];B[sq]C[P:  Ko for life.]))
+(;B[dr]C[P: I can't find a way for white to live from here.]
+
+(;W[cr];B[br];W[cs];B[ar])
+(;W[br];B[aq]
+(;W[ar];B[bs];W[cs];B[cr]C[P: White is dead.])
+(;W[cr]C[P: White resists...];B[ar];W[cs];B[ao];W[ap];B[as]
+;W[an];B[am];W[ds];B[er];W[es];B[fq];W[fs]C[P: This is the most complicated variation, but white is dead here.]
+))))
+(;B[bb]C[P: I went through some variations here. It seems like black can make a ko for life.]
+;W[ad]C[W: This is white's best (only?) chance to kill.];B[ac]
+
+(;W[cd];B[ca];W[da];B[dc];W[bc]C[P: Ko])
+(;W[da];B[ca];W[cd];B[dc];W[bc]C[P: Ko])))

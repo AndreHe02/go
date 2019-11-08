@@ -1,0 +1,202 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+PB[Voyage]
+BR[10k]
+PW[pmurphy]
+WR[10k]
+KM[6.5]
+DT[2008-06-24]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[B+0.50]
+TM[900]
+OT[2x10 byo-yomi]
+RU[Japanese]
+
+C[Thanks in advance for the review!
+
+I took white in this game and lost by 0.5.
+
+Good game, Voyage. You lost it by 0,5, but you played better than your opponent and almost won it. Much more important, I hope it is the occasion for you to learn new things, that will make you even better.
+
+You made a few mistakes in the fuseki, I'll explain why, but you did quite well in the early midgame fighting. You missed occasions to finally kill the game, but ended up ahead anyway.
+
+I hope comments of the fuseki and midgame will be usefull for you, but the most important thing I'd like to talk about is yose.
+
+If you want, please make the following exercise when you reach move 90 replaying this game : for each move played, get back once, and wonder how many points (roughly) the move played was worth. You will find that many moves (by you or your opponent) in this yose (between, say, move 95 and move 180) were worth between 0,5 and 4 points, gote. While there were bigger _sente_ moves, and also much bigger gote moves as well.
+
+I'm not sure if it's clear what I mean by "how many points a move is worth". If not, go to move 6 of the variation for a clear example.
+
+So my advice for your next yose is the following : your opponent will usually answer automatically where you just played. You need to do the opposite : step back from the goban, take a breath, and look at the different areas, and for every area try to guess (roughly is enough) how many points the best move there is worth, and whether it is sente or gote. It's very long to do it for the whole board, but take your time. You can do it while your opponent thinks, and you can split this process between several moves to complete your inventary of the whole board.
+
+Once you have done it, the important question is the following : is there a sente move among those I have found ? If so, just play it : you get points for free (like in the situation depicted in my example here) ! Your opponent answers, and you proceed to the next sente point. Do this until you have exhausted all your sente moves.
+Then find the biggest gote move among those you considered, and play it. Now, you have played the best possible sequence :) 
+
+By just stepping back from the board before making an automatic local answer, in the yose, you'll earn several kuys, believe me. If moreover you take time to review all the biggest points, you'll win several more ! The other good news is that the list of big points change slowly, so once you've done it you will use the list of moves you've found for a long period, so you just have to do this process once in a while. Finally, this process is also good to do at any stage of the game, so doing it for yose, where it is the easiest (you can really count points, while in the opening you have to use your strategic instincts to distinguish a move strength), is good for your whole game skill.
+
+I hope you'll find this review usefull, don't hesitate to ask more question if I have not been clear.]
+
+(;B[pd]C[Let's get to it !];W[dq];B[dc];W[qp];B[ce];W[nq];B[jd]
+;W[ip];B[co];W[cm];B[eo]LB[fp:A]C[Here you have to defend the corner. Taking the side allows black to damage too badly your corner and settle in the process. A is in order I think.]
+;W[cj]LB[fp:A][fq:B]C[Here A and B seem strong for black. You will need to play for a small corner life while black gets strong outside, annihilating your moyo and getting strong enough to dodge an attack.]
+;B[cq]LB[dp:A]C[Here A seems very logical (see variation).]
+
+(;W[fq]C[Drawing back in a tobi like this is a very very unsual move. The only purpose I can see is to prevent black from making too big a corner, but this is a bad result in a corner which was part of your moyo !]
+;B[cr]LB[dp:A]C[It would have been even better to get the A point for black. But this corner result is good for black anyway.]
+;W[dp]LB[cp:C][fq:A][cr:B]C[Now that you exchanged A for B, black's connection at C is less necessary]
+;B[do]LB[bp:B][cp:A][bq:C]TR[fq][cr]C[You still have a small aji with A, then cut at C, where black must choose between losing the 2 corner stones or getting his 3 stones cut, but it doesn't work well for the moment (see variation). Without the "triangle strones" exchange, A would be really strong on the contrary !]
+
+(;W[cg]LB[pj:A][cp:B]SQ[cj][cm]C[Here A was big, extending you moyo while reducing black's one. On the other hand, your 2 marked stones were already almost settled, so C13 is an interesting point, but much less than A..]
+;B[pj];W[pm];B[ql]LB[pc:A]C[If this move is not followed-up, making this exchange seems a bit dubious for black. A was strong.]
+;W[qm]LB[pl:A]C[If black does not plan answering at A now, he should not have exchanged I think.]
+;B[qf];W[nc]LB[oc:A][ld:C][nd:B]SQ[pj]C[Ok. Instead of the game move, black could have played A as well, then answered B with C. In any case, the marked stone gives black a very strong attack against your invasion ; do you see how big it would be to have a white stone there instead ? Now black would be in your shoes, having to make a very tough invasion in your moyo.]
+;B[pc]LB[jc:B][lc:A][me:C][mf:D]C[Now the shape is to play at A, then black B, then you go out in good shape with C or D.]
+;W[kc];B[jc]SQ[kc]C[your shoulder hit makes back very strong, while your marked stone is hurt badly, so a shoulder hit is usually not the good shape move.]
+;W[kd]LB[ke:A]C[Here the shape for black is to hit your 2 stones on the head at A. In general, you should avoid as much as possible being behind in such a front confrontation. The player with the moves gains a lot by being the one who plays the hane on the head of the opponent's stones, especially if he is strong in the surronding area, as black is here.]
+;B[gc]LB[je:C][ne:A][kf:B]C[When black fails to hane, you settle in a much better way than could hope when invading his moyo. You could make shape at A, or go out quickly at B. You decided for the hane C, which is more recommended when your opponent is not that strong in the surrounding area. But it's quite ok I think.]
+;W[je];B[ne]LB[jb:A][nd:B][ke:C]TR[nc]SQ[gc]C[Here you have a forcing move at A which gives black bad shape. His marked stone is ill-placed, and you will make him overconcentrated while either settling on the side or getting strong enough on the outside to be safe. It would have been the safest course I think.
+
+You decided to play B, but it doesn't give you two clear eyes, so if you don't want to play A, then something like C might be recommended. You get a strong shape, with an easy path to the center, and the "triangle" stone would not be in danger (even if it was, you don't care too much losing this one stone , because black is already so strong in the surronding area (the corner) that it would make him even more overconcentrated).]
+;W[nd]LB[jb:A][ke:B]SQ[nc];B[le];W[ke];B[ng]LB[ke:A][pm:F][qm:G]
+[no:C][cp:B][kp:D][lp:E]TR[dp][ip][dq][fq]SQ[eo]C[Black forced you to connect at A where you wanted to connect anyway, so you get the sente back. Note that settling this easily, not giving black an outside strength, and getting the sente is an awesome result for you. I think the game is back to equal now.
+
+The problem is that your marked group is not that strong, as black is completely settled in the corner, so maybe spending one move to reinforce your lower side moyo would be in order, like D or E. C would also have been a good point if you had only one stone instead of two at F and G. 
+
+Your move expands your moyo to the biggest extent, which is always a good idea, but the presence of the square black stone makes a big moyo much less efficient, unfortunately.]
+;W[ok];B[pk];W[ol]LB[kp:C][kq:B][lq:A]TR[ok][pm][qm]SQ[co][do]
+[eo][cq][cr]C[You lose sente here, which would be ok if the whole low and right area were your moyo, but not here as the marked group is out. It will be very difficult to make a significant territory in the center, so being more territory-oriented here would have been a good idea.
+
+Here black decided to invade the bottom, which is a good idea, but instead of playing A, he'd have been better off playing B or C I think, to possibly  threaten more closely you bottom left group in the future, and be as far as possible from your big triangle wall.]
+;B[lq]LB[ok:A][ol:B][lo:C][ir:D]SQ[dp][ip][dq][fq]C[PM:  This is where i perceived my difficulty beginning.  I was trying to keep in mind that the best way to attack an invasion is by not attaching..would the cap at M5 have been better?
+
+You're right, attaching is almost never a good idea in such a case. I would say that you erased your first mistake (the corner sequence) with the success of your top invasion, so in a sense your difficulty is beginning again with the two A-B moves that lost sente for too small a profit, yes.
+
+As your marked group might be hurt if they lost their basis, for instance if you play C and black plays D, I think your game move was best. When attacking, reinforce where you're weakest and push your opponent towards where you're strongest.]
+;W[jq];B[lo]LB[kn:A]SQ[ok][ol][pm]C[Now you have to decide the direction of your attack. As a general principle, attack from the side where you are the less strong, in order to push your opponent into your strength. Here your strength is the marked wall, so you should attack from the other side, to extract the most value from the wall that you obtained at a high cost.
+
+A would be good I think, making it very hard for black.];W[no]
+C[Here on the contrary you reinforce the side on which you're the strongest, getting overconcentrated, while leaving open to black the easiest escape path (towards the top or left)]
+;B[lm];W[im]LB[lk:A][cp:B]C[Ok, now this is the right direction. Maybe your cut at B gets more interesting now. Black should continue to jump (A) I think.]
+;B[jk];W[kl]C[Ok, this is the right move.];B[ll]LB[lk:B][kn:A]
+SQ[no]C[Now the peep at A followed by B  is best I think. See variations (I think this attack gives very good results for you, but it's very tense and quite unnatural ; but it would have been a lot easier if you had pushed black directly towards your wall instead of playing the square stone at the start of the attack.]
+
+(;W[kk];B[lk];W[kj];B[mj];W[oj];B[oi]LB[mh:A]C[Playing at A  instead would have been safer for black.
+
+In any case, you seem a tiny bit behind on territory, and there are no big territorial points left.]
+;W[lf]LB[jb:A][ge:F][ni:B][el:G][cp:E][fp:C][gq:D]C[If you want to definitively settle your top group, A would be best I think. Whatever black answers, he's got bad shape and there'll be bad aji left.
+
+Here black might answer at B to make his lower group safe. Other interesting points include the forcing move at C, and when you answer it at D the E cut stops to be a threat.
+
+F is interesting as well to prevent you from making center territory, as well as G after the C-D exchange]
+;B[mf]C[I don't like this black move];W[lg]CR[mf]LB[ni:A]C[Now A is a real threat for you, so black needs to protect it absolutely I think. In any case, the marked stones exchange was no good for black.]
+;B[ii]LB[ni:A][kn:B]C[This is very loose defense, I think the hane A is good for you. Your top group is settled, and your center 3 stones seem rather safe for the moment (plus you always have the sente move at B to defend it), so resuming the attack would be very profitable for you.]
+;W[hf]LB[ib:B][jb:A][lb:C][ni:D]C[PM:  Failing to play K13 here would come back to bite me later, I thought there was still a good chance I could isolate the K9 and J11 stones.
+
+Your top group is strong enough so that there is no need of making shape at K13. You always have a sente exchange at A, and after B you can connect at C for instance, making it necessary for black to add one move, so you have two eyes without problem I think. Plus you still have a good opportunity to flee in the center.
+
+To my eyes, you can play D all along this sequence.];B[hl];W[gn]
+LB[hm:B][im:A]TR[kj][kk][kl]C[The connection between the marked stones and A is very loose, so if you want to play here you'should play B instead of this keima.]
+;B[hm];W[hn]LB[jm:A]C[A is very interesting for black now and in the future, unless you make the L6 peep of course (which you should indeed do).]
+;B[fl];W[fm];B[em];W[ni]LB[kl:B][im:A]C[Ok. Your A-B connection has been a bit damaged with the center sequence, but this is still very strong.]
+;B[mi]C[See variation]
+(;W[mh]C[... but this seems even better.];B[nh];W[nj];B[lh]
+;W[mg]
+(;B[kg];W[kf];B[ki]LB[li:B][lj:A][mk:C]C[Here you have the killer move : A ! B and C are miai then. (With or without the L6 peep, according to your taste, see variations)]
+
+(;W[jg]C[This stone you atari here is unimportant unfortunately :(]
+;B[li]LB[pi:A][el:B][en:C][kn:D]C[Ok, now black is alive everywhere. Yet you have the huge sente profit at A at every time until the very end,  and in the western/center area, the move for you is B, cutting black's dragon (not C). 
+
+So you must start with the forcing move at D, to cover your 3 center stones in sente, then you have two big profit sente sequences to be played : A, and B to attack black's dragon which is not clearly alive yet. So you should be ahead anyway.]
+;W[en];B[dn];W[fn];B[dm];W[cp]LB[el:B][dm:A]C[Now that you gave A to black for free, B is (a little bit) less threatening.]
+;B[bp];W[bn];B[bo];W[dl]LB[ck:C][cl:B][el:A]C[You force black to repair his cutting point at A :( If you don't want to play A neither now nor in the future, you should play B or C instead of this move, to threaten A. When black protects, you get sente back at least.]
+;B[el];W[dk]C[You should not play this, it's very small. Abandon your 1 stone to black if he wants to capture it, it's better than finishing gote.]
+;B[jm]LB[hm:B][gn:A]C[PM:  I smacked myself on the forehead when black played here.
+
+Yes, this is why your tobi at A should have been played at B, sooner in the game.]
+;W[km];B[kn];W[jn];B[jl];W[ji]C[Here you cut in gote two groups which are connected through your captured stones.]
+;B[jj];W[jh];B[gj]LB[pi:A][ko:C][fp:B][lp:D]C[Totally unnecessary. The biggest for black would be to defend A, and then there is a good forcing at B for black, and a big move at the bottom as well (if you play there first, the atari at C followed by D seems to make a big capture, so black should defend at N4 to this respect).]
+;W[il];B[ik];W[in]LB[hk:A]C[Here you threaten to kill 2 stones with A, but it's only worth, say, 6 points :( there are bigger moves everywhere on the board (even others than those I've mentionned before. Try to find them !)]
+;B[hk];W[jb];B[ic];W[ib];B[hb];W[id];B[hc];W[hd]LB[ob:F][bf:E]
+[pi:C][rl:G][ko:A][fp:B][dr:D]C[This also is small, compared to others.]
+;B[gd];W[ge];B[fe];W[ff];B[ee];W[ef]C[again, why play this stone ? it doesn't give you any point :(]
+;B[gg];W[gf];B[fh];W[ek];B[fk];W[eh];B[ei];W[di];B[eg];W[dh]
+;B[fg];W[fi];B[gi];W[ej];B[fj]LB[bf:C][pi:D][ko:E][fp:A][dr:B]
+C[This point has value 0,5 for black ... If you play back the sequence of 20 moves that just happened, and try to guess how many points each move were, and compare with how many points (roughly) a move like A, B or C is worth (not even speaking of big captures like D and E), you'll learn a very important thing in fuseki : your opponent usually play moves of little value, so you should not answer automatically with a local move, but look back and consider the whole board. Big points are usually to be found if you decide to look for them.]
+;W[hg];B[hh]LB[ob:D][bf:C][dr:B][fs:A]C[PM:  I hung on to as much territory as I could, but from here on out the rest of the game is essentially Yose.
+
+Actually it's been yose for a long time already, and you two have played moves of value between 0,5 and 4 points. You don't need to hang back to 3 points in the area in which your opponent just played, while there are big moves everywhere !
+
+Compare black A with white B for instance, the difference is huge !  Similarly, C is not only big but also sente for both. D is big too and sente too ... and so on.]
+;W[dr]C[Ok, here you are the first one to go for a big point, good.]
+;B[cs]LB[ds:A]C[Now, you played A. How many points do you think it is worth ?]
+;W[ds]LB[bf:A]C[3 points exactly (E1, F1 and E2), in gote for both players. I'll comment only a few more moves after this, including how many points A is worth (try to guess it, it's a good exercise, you just need to compare the result when black plays here first (and the subsequent sente moves) to when you play there first. And see whether the sequence is gote or sente. If it is sente, then playing this sequence first ensures you points while retaining to sente to take the next big point afterwards !]
+;B[nm];W[om];B[nl];W[nn];B[nk];W[fp];B[jo];W[io];B[kq];W[jp]
+;B[ko];W[kr];B[lr];W[jr];B[nr];W[or];B[ns];W[os];B[mr];W[np]
+;B[mn];W[rl]LB[ob:C][bf:B][rm:A]C[Also try to count how many points this is worth compared to if black plays A first. You'll see it amounts to much more than almost all the last 50 moves you or your opponent played.
+
+The difference between this move and B is that B is sente : the very best would be to start taking profit in sente with B, then do the same with C, and then only take the big point at your move.]
+;B[rk];W[pl];B[qk];W[rm];B[ld];W[lc];B[ob];W[md];B[oe];W[me]
+;B[nf];W[nb];B[oc]LB[pi:A]C[Note that up to here A was still playable.]
+;W[sk];B[rj];W[sj];B[si];W[sl];B[rh];W[dg];B[gh];W[de];B[dd]
+;W[df];B[bf];W[bg]LB[ag:A]C[A is sente for black now, this is why playing B14 was worth 6 points in sente for both players.]
+;B[af];W[ag];B[bd];W[lp];B[kp];W[mp];B[mo];W[ha];B[ga];W[kb]
+;B[ia];W[ja];B[fo];W[go];B[ep];W[eq];B[cn];W[bm];B[oa];W[na]
+;B[ao];W[an];B[gm];W[ls];B[kh];W[ih];B[ha];W[od];B[ph];W[ei]
+;B[ms];W[ks];B[tt];W[tt]TW[ka][la][ma][lb][mb][mc][ld][he][ie]
+[le][if][jf][ig][ah][bh][ch][ai][bi][ci][aj][bj][dj][ak][bk]
+[ck][al][bl][cl][am][sm][on][pn][qn][rn][sn][ho][oo][po][qo]
+[ro][so][gp][hp][op][pp][rp][sp][gq][hq][iq][oq][pq][qq][rq]
+[sq][er][fr][gr][hr][ir][pr][qr][rr][sr][es][fs][gs][hs][is]
+[js][ps][qs][rs][ss]TB[aa][ba][ca][da][ea][fa][pa][qa][ra][sa]
+[ab][bb][cb][db][eb][fb][gb][pb][qb][rb][sb][ac][bc][cc][ec]
+[fc][qc][rc][sc][ad][cd][ed][fd][qd][rd][sd][ae][be][pe][qe]
+[re][se][of][pf][rf][sf][og][pg][qg][rg][sg][oh][qh][sh][hi]
+[pi][qi][ri][hj][ij][kj][lj][qj][gk][kk][mk][gl][kl][ml][km]
+[mm][ln][ap][aq][bq][ar][br][as][bs]C[Voyage [10k\]: thx])
+(;W[lj]LB[pi:C][qi:D][jm:B][kn:A]C[Black cannot make two eyes here I think.
+
+Additionnally, black's cut at B doesn't work as well as it did before, because your cut is sente with respect to your 4 stones' life (see continuation and variation).
+
+Note that if you fear he might get two eyes, or that your 4 center stones might get cut, you can just play A first, and then cut at M 10 if he connects, otherwise capture two stones and a big territory. Actually this M10 might kill, but maybe black has a path towards a complicated life, so playing A is the safest, and it's enough I think, especially since you still have the cut at C, against which black has to defend at D, losing a big territory while you keep sente.]
+
+(;B[li];W[mk]LB[ji:A][jm:B]C[Now A kills the black stones, so B does not capture your cutting stones]
+)
+(;B[mk];W[li]C[Here your cutting stones' life cannot be threatened either.]
+))
+(;W[kn]LB[lj:B][ln:A]C[This should be the safest path towards victory, if black A then you kill with B, if black B then A puts you well ahead.]
+))
+(;B[kh]C[This might be the best shape for black ...];W[jg];B[li]
+;W[jh];B[ji];W[kn];B[ln];W[ki]C[... but it's fine for you.]
+))
+(;W[pi]C[Note that this should be enough for you already.]
+(;B[oh];W[qi]C[I think the 3 black stones die, which is huge.]
+;B[rj]C[If black tries to defend];W[qj];B[qk];W[ri];B[rk];W[rg]
+
+(;B[rm];W[rn];B[sl];W[sj]C[Black dies])
+(;B[qh];W[rh];B[rf];W[rm];B[qg];W[sj]C[black dies as well]))
+(;B[qi]C[If black saves his stones ...];W[mh]C[now your attack is deadly.]
+)))
+(;W[lk]C[This is the move you wanna play if you can, if you don't then black will get out (which is not a disaster, but quite a problem in any case).]
+;B[kk]C[But black has this];W[mk];B[jm]C[so you have to prevent this capture before launching this sequence.]
+)
+(;W[kn]LB[ln:A]C[Now if black answers A, the capture from last sequence does not occur anymore. If he doesn't you capture the 2 lower sides stones, a big result.]
+;B[ln];W[lk]
+(;B[kk];W[mk]C[Now black is close to death I think.])
+(;B[mk];W[kk]LB[mj:B][ml:A]C[Now A and B are miai I think.]
+)))
+(;W[cp];B[bp];W[bq];B[br];W[bo];B[aq];W[bn]C[This sequence is a usual one ...]
+;B[fp]LB[cp:C][eq:A][fr:B]C[... but unfortunately, black has this move which hurts you a lot (you'd have to play A or B here) ; otherwise the cut at C would be nice aji for you.]
+))
+(;W[dp];B[cp];W[do]C[This seems much better, provided that tactics are working (and they seem to be).]
+;B[dn];W[cn];B[eq];W[ep];B[fp];W[dr]C[I don't think black can try anything violent like this.]
+))
+(;B[cj];W[ch];B[dj];W[dh];B[ej];W[eh]C[Suppose it's yose, and the shape on the left side is like this. If black is to play, the best he can do is the following : (while if white is to play, what will happen is depicted in the variation)]
+N[Yose exo]
+(;B[bi];W[bh];B[ah];W[ag];B[ai];W[bg]LB[ci:B][bj:A]TR[aj][ak]
+[bk]SQ[ag][ah]C[This sequence is sente. Black will have to play at A later when white plays B, so A doesn't count. Note that the 3 triangle points are territory for black now, while the 3 square points are not territory for white. Now compare with the result in next variation.]
+)
+(;B[tt]C[Now if white is to play :];W[bi];B[bj];W[aj];B[ak]
+;W[ai];B[bk]LB[bh:A][ci:B]TR[aj][ak]SQ[ag][bg][ah]C[White will have to play A when black will play B, so A doesn't count. But the 3 square points are territory for white here, while they were not in the previous result ; on the contrary, the three triangle points are no longer black's territory, as they were in the previous result. So the net result is a 6 points difference between the case where white plays first on this side, and the case where black plays first.
+
+Moreover the side which started still has the sente after this sequence ! This means that the first player to play there gets 6 points _ for free _  
+
+This is what I mean by "6 points sente".])))

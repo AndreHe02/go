@@ -1,0 +1,123 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.17]
+
+PB[hobbit]
+BR[5k]
+PW[sisi22]
+WR[4k]
+KM[0.5]
+DT[2012-07-05]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[W+32.5]
+TM[2400]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+;B[pd];W[dp];B[pp];W[dd];B[fq];W[dn]
+(;B[ip]C[H: I would consider some other moves here.  See variations.]
+;W[jc];B[ci];W[ck];B[cf];W[gd];B[bd];W[cc];B[pj]C[H: At this point in time, I feel black's development is slightly better.]
+;W[pf]LB[nc:A]C[H: This is strange.  As black I'd play simply.]
+(;B[ph];W[oe];B[nc]LB[nc:2][oe:3][pf:1][ph:4][qh:B][np:A]C[H: If we look at this in a different order it feels bad, because Black 4 is in a strange place.  I'd much rather put Black 4 around A or even B.]
+;W[md];B[mc];W[lc];B[nd];W[me];B[qd];W[rf]
+(;B[re]C[H: This exchange helps white more than black.];W[qf]
+;B[ne];W[nf];B[mf];W[ng];B[lf];W[ke];B[kf];W[je];B[og];W[of]
+;B[jf];W[ni];B[ri];W[lh];B[jh];W[lj];B[jj];W[kk];B[cm]C[H: this invasion feels unnecessary.  If you want to attack the corner, look at c3 directly.  This will help white to build strength to attack k10]
+;W[dl];B[dm];W[em];B[cn];W[do];B[bp];W[fn];B[cq];W[dq];B[bc]
+;W[hq];B[hp];W[gq];B[gp];W[fr];B[iq];W[fp];B[gr];W[hr];B[ir]
+;W[gs]TR[jf][kf][lf][mf][jh][jj]SQ[oe][nf][of][pf][qf][rf][ng]
+[lh][ni][lj][kk]
+(;B[jk]LB[pj:A]C[W's squared group is not alive yet, but my triangled group is not alive either, and Q12 is not very strong either. I thought about playing q6 or something similar, but I was worried W will start chasing K10 and friends, and ruin my bottom territory once he's strong enough. That's why I played K9. Does this make any sense?
+
+H: I feel that attacking white's group while you have a weak inside group (A) is a bad idea.  A better idea is to put pressure on the group while making territory and safety.  See variation]
+;W[pl];B[ok];W[pn];B[np];W[qh];B[qi];W[rh];B[nl];W[nm];B[ml]
+;W[kl];B[mm];W[nn];B[mn];W[qp];B[qq];W[qo];B[rq];W[qk];B[rm]
+;W[qm];B[rn];W[rl];B[ro];W[rp];B[po];W[qn];B[sp];W[so];B[sn]
+;W[sl];B[sq];W[ol];B[nk];W[no];B[mo];W[oo];B[op]C[H: At this point, white should slow down and make sure that they've read out every continuation for this invading group.]
+(;W[om]C[I thought this was a nice result for B.
+
+H: I feel like this was a successful invasion for White.  Please note that p7 is wasted.  White should be able to live after one move, or else sacrifice a small number of stones.  See variation]
+;B[jn];W[jl];B[il];W[im]
+(;B[jm]C[Is this a mistake? Should I just reinforce the center group instead?
+
+H: I feel like defending is best here, yes.  White can live (see variation).]
+(;W[hm];B[kj];W[ki]
+(;B[lk]C[H: This is a fatal mistake.];W[ji];B[ii]
+(;W[ij];B[ik];W[ih];B[ig];W[hi]C[H: This game feels difficult to win, now.]
+;B[hh];W[hk];B[ii];W[hl];B[gi];W[hj]C[This was quite bad for B. What should I play instead?
+
+H: Your only chance for this game is to find an invasion in the top territory.  White feels better already.]
+;B[ie]C[H: This move suggests that you think that you are ahead.  It helps white solidify the top.]
+;W[id];B[he];W[ge];B[hd];W[hc];B[gf];W[ff];B[gg];W[ee];B[cd]
+;W[fh];B[fi];W[fg];B[gh];W[ei];B[kh];W[hf];B[if];W[cb];B[de]
+;W[ec];B[lb];W[kc];B[cr]C[So we're in yose now. I realize the C9 stone is a bit of a problem for me, but the result is much worse than I expected...]
+;W[dr]
+(;B[cl];W[dk]
+(;B[bj]C[H: Avoid a situation where you push on one side and hurt yourself on the other.]
+;W[bk];B[bl];W[co];B[bo];W[al];B[am];W[ak];B[an]LB[bn:A]C[H: this is worse than A.  It leaves 2 ko threats, instead of 1.]
+;W[bh];B[ch];W[bg];B[bi];W[cg];B[dg];W[bf];B[be];W[dh]
+(;B[ah];W[df];B[ef];W[eg]C[Oooops, game over.
+
+H: Indeed.  At this point, the game is impossible.
+
+I would recommend researching close fighting tactics, since you seemed to find worse results than white when it came to fighting.  This is the final comment.]
+;B[af];W[df];B[bb];W[ba];B[kb];W[jb]LB[ka:A];B[lg];W[mh];B[fk]
+;W[fl];B[ej];W[dj];B[se];W[in];B[jo];W[pg];B[is];W[hs];B[ds]
+;W[es];B[cs];W[oh];B[pi];W[go];B[ho];W[hn];B[sf];W[sg];B[mb]
+;W[od];B[oc];W[qe];B[rd];W[ek];B[ja];W[ib];B[le];W[ld];B[ia]
+;W[ha];B[ka];W[fj];B[gj];W[gk];B[pk];W[rj];B[sj];W[sk];B[si]
+;W[qj];B[sh];W[rg];B[mj];W[mi];B[lm];W[km];B[kn];W[io];B[jp]
+;W[ih];B[hg];W[ll];B[mk];W[cp];B[ii];W[sm];B[so];W[ih];B[ag]
+;W[ce];B[ii];W[bn];B[bm];W[ih];B[db];W[dc];B[ii];W[bq];B[br]
+;W[ih];B[gb];W[hb];B[ii];W[oi];B[ih];W[nj];B[tt];W[tt]TW[aa]
+[ca][da][ea][fa][ga][ab][bb][db][eb][fb][gb][ac][bc][fc][gc]
+[ic][ad][bd][cd][ed][fd][jd][kd][ae][be][de][fe][af][cf][ef]
+[ag][dg][og][qg][ah][ch][eh][nh][ai][bi][ci][di][li][aj][bj]
+[cj][ej][jj][kj][fk][ik][jk][rk][el][gl][il][ql][fm][gm][pm]
+[en][gn][on][eo][fo][ep][eq][fq][er][gr][fs]TB[la][ma][na][oa]
+[pa][qa][ra][sa][nb][ob][pb][qb][rb][sb][pc][qc][rc][sc][sd]
+[hf][jg][kg][bn][ln][ao][ko][lo][ap][kp][lp][mp][aq][bq][jq]
+[kq][lq][mq][nq][oq][pq][ar][jr][kr][lr][mr][nr][or][pr][qr]
+[rr][sr][as][bs][js][ks][ls][ms][ns][os][ps][qs][rs][ss]C[hobbit [5k\]: thx
+sisi22 [4k\]: thx
+hobbit [5k\]: I messed up :)])
+(;B[df]C[H: this lives.]))
+(;B[bi];W[bl];B[bm];W[bk];B[co]C[H: this feels a bit better, perhaps.]
+))
+(;B[ka]LB[jb:A][kb:B]C[H: this is very big.  White's corect response is at A.  B shows the overplay and punishment.]
+(;W[jb];B[ja];W[ia];B[mb]LB[ia:B][ja:A][mb:C]C[ABC later])
+(;W[kb];B[ja];W[mb];B[la];W[ib]C[H: Black gains if White is greedy.]
+)))
+(;W[ih]LB[ig:A][km:B]C[H: I prefer cutting here first.]
+(;B[ig];W[ij];B[ik];W[hi]C[H: same as the game.])
+(;B[km];W[hg]C[H: This looks even better for white than the game.]
+)))
+(;B[ji]C[H: I still prefer defending.  White needs to live, which will be gote.]
+))
+(;W[pg];B[oh];W[nh]LB[oj:A]C[H: A is required...]
+(;B[oj];W[mj])
+(;B[kj];W[oj];B[pi];W[pk])))
+(;B[hl];W[jm];B[lb];W[kc];B[hf]C[H: Something like this should keep the game open for black.]
+))
+(;W[tt]C[White plays elsewhere.];B[om]
+(;W[rj]C[H: White must offer the trade to live.]
+(;B[sj]C[H: Black resists.  Things will get worse.];W[sk]
+(;B[si];W[on]
+(;B[qj];W[pk]C[H: Last chance to end sente]
+(;B[rk];W[oj]C[H: the cut is not crucial, and t7 requires 2 moves.]
+(;B[rj];W[sh];B[pi];W[oh];B[so];W[pg])
+(;B[so]C[H: If W wants the kill];W[sh];B[sm];W[rj]C[H: No threat is worth the kill.]
+;B[pi];W[rk]))
+(;B[oj];W[rk]))
+(;B[pk]C[H: Ends sente (white can't afford the ko)];W[qj]))
+(;B[on];W[si];B[pm];W[ql]))
+(;B[on];W[si];B[pm];W[ql]C[H: Best outcome for black locally]
+))
+(;W[on]C[H: Too greedy.];B[rj];W[pk];B[rk];W[oj];B[pi];W[oi]
+;B[sk];W[si];B[so];W[oh];B[sm])))
+(;B[pl];W[jk];B[hi]C[H: Just one possibility for the continuation.]
+))
+(;B[np]C[H: This forcuses on building.  The cut isn't so valuable right now.]
+))
+(;B[nc]C[H: I don't see a good follow-up for white here.]))
+(;B[dr]C[H: This...];W[cq];B[iq];W[cj];B[fc];W[df];B[jd]C[H: If the game proceeds like this, Black feels much better.]
+)
+(;B[jp]C[H: Or simply this]))

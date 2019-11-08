@@ -1,0 +1,191 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.17]
+
+PB[zxee]
+BR[12k]
+PW[Pauzle]
+WR[12k]
+KM[6.5]
+DT[2012-11-17]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[B+17.5]
+TM[1500]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+C[P: Thanks to whoever reviews this game. :)
+Some general things I would like commented on are how to improve my opening moves, how I should have handled invasions better, how I could have done better in the bottom right, and how I might have reduced black's top right more effectively. I've thrown in some sporatic thoughts in this sgf, mostly during middlegame, so you could see what I was thinking when I played a move.
+
+R: Hi there, I'm your reviewer. I'll add remarks throughout the whole game, starting with "R:" (for reviewer).
+I'll try and answer any of your questions (just below them)
+At the end of the game I'll try and summarize all of my remarks and give a general opinion about the game.
+I hope you enjoy this and learn a lot!];B[pd]C[Pauzle [12k\]: hey gg]
+;W[dp];B[pq];W[dd];B[pk];W[fq]C[R: the black formation is quite common, known as "chinese fuseki" and it's very popular these days. The most common thing to do is to prevent black extension on the lower side, (otherwise he's playing very big). So your direction is kinda good, but I'd rather play something more aggressive like k4 or n4 (which is standard)]
+;B[qg];W[dj];B[jc];W[mp]TR[dp][fq]SQ[nc][pc][qc]C[R: I think this is in the wrong direction. the reason are:
+(SENTE)
+1) you do not defend any groups with this stone (there are no weak groups so this is ok) but you do not threaten anything as well. This is gotem your opponent can just play away. Furthermore:
+(Territorial)
+1) your extension is far from your marked stones
+2) your marked stones face towards the upper side, thus making difficult for you to make territory on the lower side
+3) with a move ariund q17 your opponent will make a lot of territory in the upper side (corner plus side), where it will be very difficult to invade, due to the strength of black there
+
+I think that a move around the square marked points could've been better for the aforementioned reasons]
+;B[oo];W[gc]C[R: this is too small and in the wrong direction again.
+This way you make your opponent play a move he most likely would've played anyway (that is a jump around k15.
+His territory will be greatly enlarged, but yours won't be as big as his.
+Furthermore, this way the invasion in the upper side will become harder (of course you'll still have the corner invasion in r17]
+;B[cg];W[ce];B[bj]
+(;W[cl]C[R:this is somewhat looser. See variation];B[bl];W[bm]
+;B[ck];W[bg];B[bh];W[bf];B[cm];W[cn];B[dm];W[bn];B[dk];W[mc]
+C[R: nice attack.];B[nd]
+(;W[kb]C[R: this is wrong. You have to find a way to cut the k17 stone from the friendly stones. 
+You also restrain yourself to the second line.
+see variation];B[jb];W[qc];B[qd];W[pc];B[oc];W[ob];B[nc];W[nb]
+;B[lc];W[rd];B[re];W[rc];B[cq]
+(;W[cp]C[R: I'm almost positivi this is the wrong direction. Black will have a ko.
+
+ Supposing that he's not killable unconditionally anyway in your way you block without making any points, since you strengthen your already strong side (left) while in the variation you can see how you create a wall towards the right side, which is open and where you have a far stone that you can use]
+;B[dq]
+(;W[eq]C[R: this is wrong. see variations];B[er];W[fr];B[bp]
+;W[bo];B[br];W[jq];B[ds]
+(;W[or]C[P: Too risky? Any better way for white to handle bottom right?
+
+R: a wise man says that until endgame you should not ever:
+1) play on the first line UNLESS it's absolutely necessary to live or kill
+2) play on the second line UNLESS it's necessary to live, kill or make an invasion successful by creating a MIAI situation (ie: make two moves equivalent to each other)
+so this is wrong because of the fact that you're playing too low. see variation on the prev move to see how to establish the situation; return here and read forward afer your thoroughly read that comment
+***
+R: I hope you understand that the right side, and the lower one, are the least important things right now, and you should concentrate on the strength of your gropus]
+;B[nr];W[op];B[oq];W[mr];B[np];W[ns];B[nq];W[mq];B[pr];W[nn]
+;B[no];W[pm]C[P: I intentionally abandoned my mid-bottom stones to try to invade the right side. But this left me in a very precarious position.
+
+R: You should've first invaded here, then go for the bottom, as I explained before]
+;B[mo];W[qo];B[nl];W[qk];B[qj]
+(;W[rm]C[P: Was this necessary move to ensure eye space?
+
+R: no, this is bad, see variations];B[lp]
+(;W[lq]C[R: ouch. 
+This create a horrible shape, a double empty triangle, not efficient
+see variation];B[os];W[kp];B[lo];W[rj];B[rk];W[rl];B[ql];W[qm]
+;B[sk];W[rq];B[qp];W[rp];B[po];W[qq];B[pp]
+(;W[so]TR[qo][rp]C[R: horrible move.
+your shape on the first line is awful, unless another stone is at r6.
+youshould've played r6 at once, see variation];B[on];W[kn]C[R: nice move.]
+;B[mm];W[ll];B[ko];W[jo];B[ip];W[jp];B[kr];W[jr];B[ms];W[ks]
+;B[lr];W[kq];B[go];W[hq];B[hp];W[fo];B[fn];W[en];B[eo];W[do]
+;B[fp];W[ep];B[em];W[jn]C[P: At this point I feel like I lost a lot of potential at the bottom. :|
+
+R: your main problem has been the bad shape move of m3 and, of course, the weakness of the left-cut.
+So I think you should be ok with the result given those two weaknesses]
+;B[dn];W[al];B[bk];W[id]C[P: So I tried to expand to the center from the top while simultaneously threatening the black's top side. Didn't work out so well though...
+
+R: I already commented how n16 is good for you. When attacking you should always push towards your strength. you're not that strong in the n17 area, so you just help black strenghten himself.
+The only point from which you can reduce black center, other than n16 is k8 or whereabouts]
+;B[je];W[jd];B[kd];W[lb];B[md];W[mb];B[rs];W[sr];B[rr];W[sq]
+;B[qr];W[ls]C[R: absolutely gote and small. You should invade the center right now]
+;B[qn];W[ro];B[pn];W[rn];B[pl];W[om];B[nm];W[ln];B[mn];W[mk]
+LB[nn:2][op:1][or:4][ps:3]C[P: I tried to threaten the bottom black group while possibly giving myself a nice wall while boxing black in. Didn't work out that way, once again.
+R: ehr… you cannot threaten living groups. This one has 4 eyes. Also see variation on this move]
+(;B[nj];W[nk]C[P: Maybe if I wanted to follow that tactic I should have just went N10 instead of O9?
+
+R: that tactic is not good. There are no good moves to follow it. The only rhing you can do is to try and contain black potential and, possibly, find someway to fight, even if black has only strong groups (you can only cut at l17, l15 (risky) and c12]
+;B[ok];W[mj];B[ni];W[mi]C[R: this is what I meant by black enclosing more territory. Also remember that pushing from behind (ie: adding a stone to a wall inducing the opponent to do the same, when his wall is one step ahead of yours) is almost always bad. remember also that your wall is facing black strong groups from all of the sides, thus it has almost no potential]
+;B[mh];W[hn]C[R: gote, see variation]
+(;B[gq];W[gr];B[iq];W[hr];B[ap];W[gm];B[lh];W[hf]C[R: c12 is better]
+;B[ie];W[he];B[hd];W[hc];B[ic];W[gd];B[cc]C[P: He 3-3 invaded me twice now during this game. Should I have protected myself against  this invasion sooner? (end of Pauzle's comments)
+R: this should die, so no.];W[dc];B[bd]
+(;W[be]C[R: I think this is a mistake, see variation];B[db]
+;W[eb];B[bb];W[cd];B[ca];W[ha];B[ei];W[dh]C[R: do not threaten a cut when you can just cut]
+;B[di];W[ch];B[ci];W[eh];B[fh];W[eg];B[fg];W[ef];B[kj];W[ki]
+;B[li];W[kh];B[lk];W[ml];B[lm];W[kl];B[km];W[jl];B[jm];W[im]
+;B[il];W[jj];B[jk];W[ik];B[ji];W[hl];B[ij];W[jg];B[kg];W[jh]
+;B[lj];W[kf];B[lg];W[jf];B[lf];W[se];B[rf];W[hj];B[ii];W[fi]
+;B[gi];W[fj];B[ej];W[hi];B[gj];W[fk];B[hh];W[hk];B[ih];W[ig]
+;B[hg];W[if];B[ff];W[fe];B[gf];W[ge];B[kk];W[il];B[gk];W[gl]
+;B[gh];W[el];B[ek];W[fl];B[dl];W[ja];B[ib];W[hb];B[id];W[ia]
+;B[ai];W[gp];B[ho];W[fo];B[gn];W[en];B[fm];W[io];B[ir];W[is]
+;B[cs];W[ad];B[bc];W[ac];B[ab];W[ae];B[ag];W[af];B[ah];W[ak]
+;B[aj];W[am];B[fs];W[gs];B[es];W[ao];B[sf];W[sd];B[sl];W[sm]
+;B[ea];W[fa];B[da];W[fb];B[tt];W[eo];B[kc];W[ns];B[ke];W[ms]
+;B[ol];W[tt];B[tt]TW[ga][ka][la][ma][na][oa][pa][qa][ra][sa]
+[gb][pb][qb][rb][sb][ec][fc][sc][ed][fd][de][ee][cf][df][cg]
+[dg][hm][an][in][sn][co][fp][sp][gq][kr][lr][hs][js]TB[aa][ba]
+[cb][jd][ld][od][le][me][ne][oe][pe][qe][mf][nf][of][pf][qf]
+[gg][mg][ng][og][pg][rg][sg][nh][oh][ph][qh][rh][sh][bi][oi]
+[pi][qi][ri][si][cj][dj][jj][oj][pj][rj][sj][qk][cl][nn][op]
+[aq][bq][ar][cr][dr][or][as][bs][ps][qs]C[Pauzle [12k\]: thanks for the game
+R: after the game I can tell you taht your main problem is that you should study and try reading (and make lots of problems) about corner situations, where you made your opponent's life way easier than it should've been.
+Other than that some moves and weaknesses on the lower side made your game more difficult, and this lead to you trying to patch things up, leaving even more weaknesses.
+So try to remember the three rules about evaluating and try to study the sequences about corners I layed out for you. I hope this is helpful!]
+)
+(;W[cb];B[bb];W[db]C[R: dead in fact:];B[cd];W[be]
+(;B[ac];W[ba];B[de];W[df];B[ee];W[ef]C[R: black cannot cut at c14]
+)
+(;B[ba];W[ac]C[R: same])))
+(;B[lh]C[R: this move already destroys your potential and makes a huge territory for black]
+))
+(;B[nk]C[R: afther this move black can always jump from the top, or follow you from the side, enclosing WAY more territory than you]
+))
+(;W[qn]
+(;B[rr];W[so];B[sq];W[sl]C[R: alive])
+(;B[sl];W[qr]
+(;B[so];W[sm]C[R: alive])
+(;B[sm];W[sn]C[R: alive]))
+(;B[so];W[qr];B[sm];W[sl]
+(;B[rn];W[ro]C[R: alive])
+(;B[ro];W[sn]C[R: alive]))))
+(;W[kq]C[R: this is safe];B[lq];W[lr];B[kr];W[jr];B[ks];W[js]
+))
+(;W[ql]C[R: this way you still can:
+1) attach at s10
+2) jump at s3
+so I think you should regard yourself as mildly safe]))
+(;C[R: position evaluation. Whenever you have to face a decision you should do this.
+1) Do I have any wak groups?
+1a) yes. there is a weak spot in e4 (see variation) where black can cut.
+[ordinarily you should also evaluate if the weak spot is severe, which it is this time, and stop the analysis and remedy that\]
+***you should already stop here in a real game, and fix your weakness. The first "rule" is, in fact FIRST FIX YOUR WEAKNESSES, I will continue the analysis for the arguments sake
+2) Does the opponent have any weak groups?
+2a) maybe (see second variation) in the upper side  white can cut off m17 and k18-17, and then attack to kill or reduce in sente
+*** if the answer to the first question is NO, then you can ask yourself question n.2; in this case (a positive answer to this question) you should stop and immediately attack. in fact the second rule says, "SECOND, ATTACK THE OPPONENT WEAK GROUPS", I will, as before, continue the analysis for the arguments sake
+3) What is the biggest move?
+3a) well, black is trying to enclose the right side and to go out into the center. About the center I have some high stones such as n4, which can later be used to reduce, I also have a strong upper-left group from which I can jump into the center, as well as n17 that has an open-end into the center. Also I will be able to use the aji of c8 (via e8) and d10. So THE CENTER IS NOT AN ISSUE FOR NOW (even if it will be difficult, probably). So the biggest point would be an invasion on the right side, most likely around the weak spot r5, which can make a base three ways (trying to steal something in the corner, on the side and in the center). So the best play should be R5 or something in that area (see variation #3.
+The third rule says, in fact "OTHERWISE PLAY THE BIGGEST MOVE"]
+PL[W]
+(;B[ep]
+(;W[eo];B[fp];W[gp];B[fo];AW[oe][nf][mg][pg][lh][oh][ki][ni]
+[jj][mj][ik][lk][hl][kl][gm][jm][fn][in][ho]AB[of][pf][ng][og]
+[mh][nh][li][mi][kj][lj][jk][kk][il][jl][hm][im][gn][hn][go]
+CR[pf]C[R: the ladder is black, so the cut works])
+(;W[fo]C[R: this does not work either];B[eo];W[en];B[do]C[R: atari]
+;W[dn];B[co];W[fp]TR[fn]C[R: you still have this cut]))
+(;W[md]
+(;B[mb]C[R: if black cuts];W[lb]C[R: this connects];B[ma];W[la]
+;B[kc];W[na];B[mb];W[ma];B[me];W[ne];B[od];W[le];B[mf];W[ld]
+C[R: black is dead and has to try and escape])
+(;B[me]C[R: if black tries this];W[ne];B[od];W[le];B[mf];W[ld]
+C[R: same as before])
+(;B[ne];W[me];B[lb];W[mb];B[ke]C[R: black tries an escape];W[nf]
+C[R: with this white gains space, in fact black cannot cut]
+(;B[mf];W[oe];B[od];W[qe])
+(;B[oe];W[lf]C[R: now black will probably find the space to live, but his potential territory on the right has been reduced in sente and white comes out to the center]
+)))
+(;W[qo];B[qm];W[rq]C[R: r6 will provide an escape route to the center, while r2.s2 will make base in the corner]
+)))
+(;W[er]C[R: this should kill.]
+(;B[bp];W[bo]
+(;B[bq];W[dr];B[eq];W[ep]C[R: black cannot escape and does not have room for 2 eyes]
+;B[fp];W[gq];B[fo];W[cr])
+(;B[br];W[dr]
+(;B[cr];W[aq]C[R: this kills]
+(;B[eq];W[ep])
+(;B[ap];W[cs];B[bs];W[ar]C[R:dead]))
+(;B[aq];W[cr]C[R: b3 false eye])))
+(;B[eq];W[ep]C[R: same as other variations])))
+(;W[dq];B[dr];W[er];B[br];W[ds];B[cs];W[cr]TR[hq][iq][jq][kq]
+[hr][jr][lr]C[R: even if you lose the ko (I nevertheless do not see any ko threats of your opponent's) you'll still be able to try and make territory on the lower side.]
+))
+(;W[ld]CR[mc]C[R: this way is very difficult for black to rescue his stone. You will attack it either making territory on the left side or robbing black of his territory on the upper side and the center.
+Please note that your two stones still have potential for eyes in the upper side, with moves underneath black. Also, the corner is still open]
+))
+(;W[ck]C[R: usually this is the corect move that will limit black "penetrating potential" and confine him on the second line]
+))

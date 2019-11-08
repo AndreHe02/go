@@ -1,0 +1,108 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+PB[AvatharTri]
+BR[3k]
+PW[spookje]
+WR[2k]
+KM[0.5]
+DT[2008-12-04]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[W+Resign]
+TM[900]
+OT[2x30 byo-yomi]
+RU[Japanese]
+
+C[Hi, thanks for reviewing. I'm Black.
+
+
+Thanks!
+
+-----------
+
+Hi, I'm Dieter, a Belgian 2d.
+
+The following aspects of this game are crucial:
+
+1) You have used the top left thickness to make territory at the top, instead of attacking White's stones on the left. (Early middle game)
+2) Both players overlooked the fact that Black's lower left group could live with ko.
+3) Both players focussed on the central and right side territory while White's group in the top left of centre had become vulnerable again (late middle game).
+
+I don't know if this game was typical of your style, but the well known advice "use thickness to attack" seems applicable to your game. Also, life & death exercises never harm.
+
+Besides this main theme, I have added a few other comments.]
+;B[pd];W[dp];B[dd];W[qp];B[jd];W[qf];B[qh];W[qc];B[pc];W[qd]
+;B[pe];W[rf];B[og];W[pb];B[ob];W[qb];B[nc];W[cf];B[ch];W[ef]
+;B[fd];W[cc]C[White is greedy and inconsistent];B[cd]C[Good]
+;W[bd];B[be];W[bc];B[ce];W[fb]C[This is a mistake? What do I do?
+
+Dieter: see variation.]
+(;B[gb];W[ec];B[fc];W[eb];B[ed];W[gf]
+(;B[he]C[Here you are trying to protect the small territory at the top. Instead, you should use the wall to attack the three floating white stones.
+
+See var.];W[ga]
+(;B[hb]LB[dc:A][cn:B]C[This is also submissive defense of small territory. Locally you can play A but I would even try B globally.]
+;W[di];B[dh];W[eh]
+(;B[bf]LB[ei:A]C[You are strong in the vicinity, so you must instinctively fight, even if you don't know what will come of it.
+
+See var.];W[ei]TR[hb][he][bf]C[Suddenly White gets strong influence in the centre with a successful corner invasion. The reluctance to attack and fight with influence is responsible. The marked stones show the submissive moves.]
+;B[op];W[oq];B[nq];W[pq];B[np];W[qn];B[jp];W[hq];B[cn];W[co]
+;B[dn];W[jq];B[kq];W[ip];B[jr];W[iq];B[jo]C[Good.];W[cl];B[fn]
+;W[io]
+(;B[cq]TR[cf][ef][gf][eh][di][ei][cn][dn][fn]SQ[io][jo][ip]
+[jp]C[The centre is still the main area of interest.  The two triangled groups are searching for eyespace in the same area. The squared stones fight to get ahead. One of these areas is the most important one and I think it is the left side.
+
+But the corner invasion can be seen as a probe too, so I don't necessarily disapprove of the move]
+;W[bn];B[bo]C[Wrong side];W[bp];B[cp]C[This is not possible.  It looks like a blitz mistake.]
+;W[do];B[bq];W[ao];B[er]SQ[di][ei][cl][bn][co][do][io][dp]C[You pull off something like a corner invasion, but the loss in the center is too big.]
+
+(;W[dq]C[Now White makes it complicated. He is angry about the invasion, while he should be happy with the acquired central strength
+
+See var.];B[dr];W[aq];B[fp];W[gr];B[eq];W[im];B[dl];W[cm];B[dm]
+;W[eo];B[gm];W[fo];B[go];W[gp];B[gj]C[This is a very versatile move.]
+;W[ho]
+(;B[ij]LB[ck:A][ar:B]C[This is a thick move, but I don't know if you have time to play it.
+
+At this move, you should probably cut and fight at A.
+
+Also, the corner is not dead yet. It is ko. Throughout the game, both players seem to believe it is dead. I will continue the comment as if this were true.]
+;W[jn];B[lo];W[ln];B[ig]LB[ck:A]C[Here the cut at A is a real opportunity.]
+;W[ci]C[Does the cut still work? Difficult to read. See var.]
+
+(;B[qk]C[Still White can be cut. But the reading is difficult.]
+;W[mo];B[lp];W[lj];B[lh]LB[ck:A][ll:B][gn:C]C[From here onward, Black tries to compensate for the loss in the lower left by making territory at the top. A simple count will show that this is not sufficient. Instead, Black should explore White's weaknesses and use all the strength at the top to attack them. There are two: A and the gap at B.
+
+At move 150, the opportunity to cut at A gets lost. The ko in the lower left is never explored.
+
+End of comments.];W[hf];B[if];W[ge];B[gd];W[pj];B[qj];W[pf]
+;B[of];W[ph];B[pg];W[qg];B[rh];W[oh];B[rg];W[qe];B[rm];W[rn]
+;B[pk];W[mh];B[mg];W[ng];B[mi];W[nf];B[oe];W[nh];B[me];W[mf]
+;B[lg];W[li];B[nj];W[oj];B[lf];W[nk];B[ok];W[mj];B[pm];W[ji]
+;B[ii];W[ie];B[hd];W[ne];B[nd];W[le];B[md];W[kf];B[ke];W[kh]
+;B[ld];W[kg];B[le];W[dk]C[With all chances on a cut gone, the game is over.]
+;B[fg];W[ff];B[eg];W[dg];B[cg];W[hh];B[gh];W[ih];B[df];W[hg]
+;B[ba];W[da];B[ab];W[dc];B[fa];W[bb]C[Here is where I resigned. Thanks!]
+)
+(;B[ck];W[bk];B[bl];W[bm];B[bj];W[al]
+(;B[cj]C[This is not good.];W[bi];B[aj];W[dk];B[dj];W[ek];B[ej]
+;W[fl];B[fk];W[el];B[fm];W[gk];B[fj];W[gl];B[hl];W[hk];B[ik]
+;W[hm];B[il];W[em])
+(;B[bi];W[dk];B[cj])))
+(;B[ck]C[A: the cut];W[bk];B[bl];W[bm];B[bj];W[al];B[cj])
+(;B[ar]C[B: the ko]
+(;W[br];B[ap])
+(;W[bs];B[ap];W[bo];B[cs];W[br];B[es])))
+(;W[fq]C[Simple move for White]))
+(;B[el];W[ek];B[fk];W[dk])
+(;B[jn]))
+(;B[ei];W[ci];B[bg]TR[ei]C[The cut is a very big one.]))
+(;B[dc];W[db];B[fa];W[ea];B[hb])
+(;B[cn]))
+(;B[fg]
+(;W[ff];B[eh]C[Black has a nice attack going on.])
+(;W[dh];B[ff];W[ci]SQ[ff]C[White has dodged Black's attack, but the cut is big.]
+)))
+(;B[dc]C[The punishment is here.];W[db];B[cb]LB[bb:B][ec:A]
+C[Two possibilities.]
+(;W[bb];B[eb];W[ca];B[ea];W[da];B[fc])
+(;W[ec];B[da];W[eb];B[bb];W[ed];B[fe];W[ee];B[eh]C[White is floating]
+)))

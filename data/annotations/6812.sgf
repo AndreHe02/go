@@ -1,0 +1,106 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+PB[paragoomba]
+BR[17k]
+PW[yopparai]
+WR[16k]
+KM[0.5]
+DT[2008-08-12]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[W+72.50]
+TM[1800]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+AB[ba][ab][bb][fb][gb][bc][ec][gc][ad][bd][ed][fd][gd][ee][ge]
+[ef][ff][ag][bg][bh][ai][bi][bj][ak][bk]C["Corner golden, Sides silver, Centre straw". What does this mean?
+It means the corner is best, then side, and corner last. This is because it is easier to make 2 eyes in these places. You want to make 2 eyes easily because it is more efficient. less stones used to make life, more stones to use to make your territory.
+
+Corner: 6 stones
+Side: 8
+centre: 11
+
+Application of this theory explains a lot in the beginning. Why do players play around the sides? Easier to make a base, that's why.
+Why do groups without a base in the side or corner die? Living in the centre takes too many stones and is hard, that's what.]
+;AE[ba][ab][bb][fb][gb][bc][ec][gc][ad][bd][ed][fd][gd][ee]
+[ge][ef][ff][ag][bg][bh][ai][bi][bj][ak][bk];B[dp]C[yopparai [16k\]: hi
+yopparai [16k\]: good game];W[pd]C[paragoomba [17k\]: hello]
+;B[pp]C[paragoomba [17k\]: good game];W[dc]C[I've played this game out and seen what happens, now I'm going to go over a few points (only a few important ones that i think will help you if you keep them in mind, if I type in too many points, you'll never remember all of it. ;D).
+In particular, I'd like to go through the intention of your stones, and how to make them more efficient. (efficiency is what wins your game.) AND the "corner golden, side silver, centre straw" theory.]
+;B[pj]LB[de:A]C[This move is OK. Extending in the beginning and 'mapping out' potential territory is a good idea.
+A better move is [A\]. White's (from now on White will be referred to as 'W'.) stone is 'facing' black (D4). Usually W will want to play around A because it encirlces the corner and almost guarantees W a corner at the end. To prevent this from happening, B(black) plays around A. The positions on the left hand side favour B's placement at A. 
+Why?
+B has a back-up stone at D4 and many W's replies will strengthen the relationship between A and D4. That's good for B.]
+;W[cn]
+(;B[do]C[What did you want to achieve with this stone?
+Did you want extend out? Take the corner? Stop W coming in?
+In any case, playing a 'contact move' (playing next to it, in this case, a diagonal move is also considered a contact move) is not good. It strengthens W and B has better moves to make.]
+;W[cq]
+(;B[co]TR[do][dp]C[Bad shape. We call it an empty triangle. For a shape with 3 stones, it has the least possible liberties. 
+It's good for the opponent to take advantage of this shape.
+
+If you wanted to separate these stones (good idea, bad execution):]
+;W[cp];B[bo];W[dr];B[dq];W[er];B[fq];W[fr];B[gr];W[bp]
+(;B[bn];W[gq];B[hq];W[gp];B[hr]C[yopparai [16k\]: sorry - internet problem]
+;W[hp];B[iq];W[fp];B[eq];W[ip];B[jq];W[br];B[ap];W[aq];B[ao]
+;W[dn];B[en];W[dm];B[em];W[dl];B[dk]TR[eo]C[Capping is good move, but here it doesn't work. W can run off in too many different places and B cannot chase.
+First protect your group before attacking.
+
+Triangle marks cutting point. If W cuts here, B is in big trouble and usually dies.]
+;W[eo];B[bm];W[cl];B[bl];W[el];B[fo];W[ep];B[bk];W[fn];B[fm]
+;W[gn];B[fl];W[fk];B[gl];W[ek];B[gk];W[dj];B[cj]C[Again, contact moves. Attacking is good, but if you play too close, it doesnt work. Move out a little and surround, then close in for the kill.]
+;W[ck];B[ej];W[di];B[ei];W[ci];B[bj];W[eh];B[fi];W[fj];B[gi]
+;W[gj];B[hj];W[hk];B[hl];W[ik];B[il];W[ij];B[hi];W[ii];B[hh]
+;W[jl];B[im];W[jm];B[cm];W[dk];B[in];W[jn];B[dh];W[ch];B[dg]
+;W[cg];B[df];W[cf];B[ce];W[eg];B[ef];W[io];B[hn];W[go];B[jo]
+;W[gm];B[jp];W[hm];B[fg];W[dd];B[de];W[be];B[cd];W[bd];B[cc]
+;W[bc];B[cb];W[bb];B[db];W[ee];B[ff];W[fd];B[fe];W[ed];B[gd]
+;W[fc];B[gc];W[gb];B[eb];W[fb];B[hb];W[hc];B[hd];W[ic];B[fa]
+;W[ib];B[ga];W[ha];B[ea];W[id];B[ie];W[he];B[ge];W[hf];B[hg]
+;W[if];B[ec];W[hb];B[je];W[kc];B[ig];W[jd];B[jf];W[ke];B[kf]
+;W[le];B[lf];W[me];B[nf];W[mf];B[mg];W[lg];B[jg];W[lh];B[ng]
+;W[ki];B[ne];W[nd];B[oe];W[od];B[pe];W[qe];B[pf];W[qf];B[pg]
+;W[qg];B[ph];W[mi];B[qh];W[rh];B[qi];W[ri];B[rj];W[rf];B[sj]
+;W[si];B[nj];W[ni];B[oj];W[oi];B[oh]C[Yup, contact move after contact move.
+Spread out some more in the beginning. It offers you backup and is just as dangerous as a contact move, if not more so.]
+;W[mj];B[nk];W[mk];B[nl];W[ml];B[nm];W[rk];B[qj];W[qk];B[pk]
+;W[qm];B[ql];W[rl];B[pl];W[rn];B[pm];W[qo];B[pn];W[qp];B[qn]
+;W[rm];B[sk];W[qq];B[sl];W[ro];B[sm];W[pq];B[op];W[oq];B[np]
+;W[nq];B[mp];W[mq];B[lp];W[kp];B[lq];W[kq];B[ko];W[lr];B[kr]
+;W[mr];B[kq];W[mm];B[nn];W[mn];B[mo];W[kk];B[kn];W[km];B[ln]
+;W[lm];B[qb];W[qc];B[pb];W[pc];B[ob];W[nb];B[rb];W[rc];B[sa]
+C[mr5willows [-\]: that solves the problem];W[sc];B[sb];W[qa]
+;B[na];W[ma];B[oa];W[nc];B[mb];W[la];B[lb];W[ka];B[kb];W[ja]
+;B[jb];W[ia];B[jc];W[kd];B[lc];W[mc];B[sn];W[so];B[ks];W[ls]
+;B[gs];W[fs];B[bi];W[bf];B[bh];W[ba];B[ca];W[bg];B[ah];W[ag]
+;B[ld];W[md];B[po];W[jh];B[kg];W[mh];B[nh];W[kh];B[gf];W[ih]
+;B[rr];W[rq];B[sq];W[sp];B[sr];W[qr];B[qs];W[ps];B[os];W[rs]
+;B[cs];W[cr];B[bs];W[ds];B[tt];W[tt]TW[aa][na][oa][pa][qa][ra]
+[sa][ab][jb][kb][lb][mb][ob][pb][qb][rb][sb][ac][jc][lc][oc]
+[ad][ld][qd][rd][sd][ae][re][se][af][sf][rg][sg][sh][ji][li]
+[jj][kj][lj][gk][jk][lk][fl][gl][hl][il][kl][ll][em][fm][im]
+[en][hn][in][fo][ho][rp][bq][sq][ar][nr][or][pr][rr][sr][as]
+[bs][cs][es][ms][ns][os][qs][ss]TB[da][he][hf][if][of][eg][gg]
+[og][eh][fh][gh][ai][aj][ak][ok][al][ol][am][om][an][on][lo]
+[no][oo][kp][ir][jr][hs][is][js]C[qwer1234: the black upper rite is dead to
+qwer1234: nvmind
+qwer1234: im tired
+mr5willows [-\]: lol
+yopparai [16k\]: thanks for the game])
+(;B[gq]C[protect cutting points.]))
+(;B[cp];W[bp];B[bo];W[bq];B[co];W[dq];B[eq]C[To separate these stones.
+
+See how the empty triangle (called ET from now on) only continues to be rolled up into a bigger uglier shape?
+Good for tetris, not so for Go.]))
+(;B[cl]C[Pincer. Locally good.];W[en]C[W jumps out to prevent being enclosed by B.]
+;B[fp]C[B jumps out. It had 3 options to move in. left side, bottom side and centre. Since left side and centre has been taken by C6 and e6 respectively, B has to take bottom side to maintain safety.]
+;W[bp]C[W makes a base. W does not wnat to keep running without hope of making 2 eyes. That's dangerous and often leaves W dead if W cannot make a situation to attack or kill.]
+;B[el]C[B extends, threatening to play F6 to surround  W. Being surrounded is not good.
+Of course W will not want to be surrounded, but B has another plan in mind.]
+;W[gn];B[ce]C[B can eventually use the stones to jump off and back up stones that attack D17.
+The example shown isn't a good play by the way, W can play in between them and pincer two at the same time. It will be a lot of fighting.]
+)
+(;B[dk]C[This move keeps C6 and D17 in mind. It can pincer and be more effective than previous example (less pincering counter threat, as it is made for influence, not territory. In addition to that, it's closer to D17)]
+;W[em]C[Of course, W can deviate from this, but the general motive is to jump out.]
+;B[fo];W[dh]C[Yep, more fighting. But as long as you work out which group is weakest (here, it is D9, all by itself and surrounded by W) and help it jump out (it has 3 options, up, down and centre. Centre is the only one direction left) you should have a good fight.]
+))

@@ -1,0 +1,24 @@
+(;FF[1]GM[1]SZ[9]US[Brought to you by No Name Go Server]GN
+[guest-ziv(B) NNGS]RE[W+Resign]PW[guest]WR[UR]PB[ziv]BR[30k]PC[No Name Go  Server: chem.york.cuny.edu 9696]
+TM[60]KM[0.5]GC[Reviewed by  Per-Erik Martin.];B[gc]C[Most moves are playable in the opening  (especially on a 9x9 board), but I would prefer a higher first stone (F7,  F6, or G6).]
+;W[fd];B[gg]C[Should answer White's "shoulder hit": F7 or G6.];W[gd];B[fc]
+;W[ec];B[eb];W[db]C[This is a "double hane" by White (E7 and  D8). On a big board D7 is the more common (and simpler) move. The normal  responses by Black are perhaps not obvious...]
+
+(;B[fb]C[This is playable, but  gives Black bad shape. See variations for two alternatives. NOTE: The  variations are well known sequences on a 19x19 board, but there may be better  ways on a 9x9 board.]
+;W[dc];B[ed]C[This cut doesn't work. White can capture  the stone immediately with E5,  and Black's corner stones are not alive yet.]
+;W[hc];B[hd];W[he];B[hb];W[id]
+(;B[da]C[This should be G9 for life. (See  variation.)];W[ib];B[ha];W[ee]
+C[White captures the Black stone in a ladder.];B[fa]C[This doesn't help. The black stones are dead.]
+;W[cb];B[ca];W[fh];B[cg];W[bb];B[cd];W[dd];B[df];W[ef];B[eg];W[fg];B[gf]
+C[The G3 stones will hardly  live, so this is a bit wasted. Should be E2.]
+;W[eh];B[dh];W[dg];B[ch];W[cf];B[ce];W[bf];B[be];W[de];B[af];W[bg];B[bh]
+;W[ag];B[ah];W[ae];B[ei];W[fi];B[di];W[ba];B[bi];W[hh]C[
+  ziv 30k: Thanks for the game
+  ziv 30k: I quit !])
+(;B[ga]N[Variation]
+(;W[ib];B[ea];W[ha];B[ia]C[This is a ko, if White can  make a threat elsewhere, he can then retake the corner stone. If Black can  connect at H9, his stones live. (As the board stands, Black will be allowed  to connect.)]
+)
+(;W[ea];B[ib]C[Black lives.])))
+(;B[dc]N[Variation 1];W[ed];B[cb]C[White can play D6 or F8 next.])
+(;B[hd]N[Variation 2];W[he];B[ge];W[ed]C[White must answer here. (Think about it...;-)]
+;B[hf];W[hc];B[ie];W[hb]))

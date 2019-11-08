@@ -1,0 +1,298 @@
+(;FF[4]GM[1]SZ[19]ST[1]CA[UTF-8]AP[SGFC:1.13b]
+
+PB[jw]BR[17k]
+HA[9]
+PW[wim-jan]
+KM[-55]
+DT[2003-02-03]
+
+AB[dd][dj][dp][jd][jj][jp][pd][pj][pp]C[Jan-Willem (jw): This game was played at the local go club. I (17k at KGS) played black with 9 stones and 55 komi. On the board I lost with 17 point, so I could be content. In this game I tried to concentrate on keeping the stones connected. But I would like to know how I could improve. How could I have saved the UL? Do I play too cautious? On which should I concentrate in the near future?
+
+rika:
+Hi, this is Chun-Kit. I'm currently 6k(IGS), 7k(KGS), 8k(DE). To review a match which was played in a local go club is much more interesting than reviewing a internet go match, just because you never know, if the opponent has some books next to him.
+
+The game was played with 9 stones handicap with a reverse komi of 55 pts. So your opponent should be at least a dan player (17k + 9 stones + 5.5 pts * 10 difference = 3d, if my calculation is right). So your opponent could have pointed out your main weaknesses already.
+
+This is the first time I review a high handicap game. Your game strategy to keep your stones connected is fine, attacking white groups which are not settled while making territory.
+
+You missed several chances to finish the game early by killing white groups.
+
+Remember, for white it's not important for him to win the match, but to keep you busy. Of course white will uses overplays to see wheather you can handle it or not.
+
+Let's have a look at the game, and try to understand my comments and variations.]
+;W[nq];B[oq];W[np];B[pn];W[lp]
+(;B[jn]C[rika:
+this is ok, but white can easily play K3 to settle the group early.  I prefer bL3 (see var), simple play: attack him while making territory]
+;W[mm];B[nn]C[jw: Is this sensible?
+
+rika:
+hmm... force him to make stronger isn't usually a good idea. Still making his base smaller is much greater (bL3), then white must find to make eyespaces in the center (where the starpoints are waiting to be activated). You make solid influence to the left.]
+;W[fq];B[hq]MA[kq]C[rika:  imagine there were a black stone at L3, then E3 is a pain for white.]
+;W[cn]C[rika:
+In even game white usually jumps into the corner.];B[eo]C[rika:  ok, separate the two stones.]
+;W[cq];B[dq];W[dr];B[er];W[cr];B[eq];W[cp];B[mo]C[rika:
+simply bN6, then you needn't worry about black's cutting points.]
+;W[lo];B[ln];W[mn];B[no];W[mp];B[or]C[jw: m7?
+
+rika:
+it's better, to let the wN4-group live small. Now wN6/7-group must find a way to live in the center.
+Even bL6 is enough];W[kn];B[lm];W[km];B[ll];W[jo];B[io];W[ko]
+;B[in];W[kl];B[ml]C[rika:
+better extend to bM9, the tengen-stone (bK10) can be useful, if you can connect to it.]
+;W[im];B[hm];W[il];B[hl];W[hk];B[el]C[jw: j9?
+
+rika:
+yes. white hasn't eye-formation yet, keep him busy, since you have already territory with the lower left group]
+;W[hn];B[gn];W[jk];B[ij];W[ik]
+(;B[fj]MA[ij][jj]C[rika:
+these two stones looks rather lonely against white.];W[df];B[cf]
+;W[cg];B[ce];W[fg]
+(;B[dg]C[jw: Is this sensible?
+
+rika:
+since I cannot find a way for white to capture that stone, it's possible to play there, usually Bb13]
+;W[de]C[rika:
+overplay by white. Doesn't increase wD14's liberty.]
+(;B[cc]SQ[de][df]TR[ce][cf][dd][dg]C[jw: Is c16 better?
+
+rika:
+no, look at the formation marked with triangles (black) and squares (white). This is the small avalanche formation (a well-known - sometimes difficult - joseki start at 3-4).
+The 2 white stones has only 2 liberties left. Thus you can capture it in a ladder, if it's your turn.
+And most importantly: The whole upper left will be yours.];W[dh]
+
+(;B[ch]C[rika:
+better escape since the ladder works for black, or atari from B13.]
+;W[bg]C[rika:
+result: white has 3 liberties now and has a ending game move around A16. If black played atari from B13, there were no monkey jump reduction for white.]
+;B[bh];W[eg];B[bf]C[jw: Was c10 better, or would the UL get too weak then?
+
+rika:
+well, the upper left isn't weak, you must think where you want to make territory. Simply F16 and everything is ok (don't get a headache if he jumps to wA16 or wB16, that will cost you just about 8 points while you get the top left territory)
+
+If bC10 then white can close your upper left in the corner by wF16]
+;W[ah];B[ai];W[ag];B[bi]C[rika:
+better bC11];W[ed];B[af];W[dg];B[ec];W[fc]
+(;B[eb]C[rika:
+I think you want to make territory as quick as possible. Better punish him that he played double hane with an atari at bF16 (see var)]
+;W[fb];B[fd];W[ee];B[gd];W[hc];B[hd];W[ic];B[id];W[jc];B[kd]
+;W[cj];B[cl]C[jw: I decided to give up the a11 group and keep white disconnected.
+
+rika:
+ok, since bB11 stone should be at C11 there is nothing black can do]
+;W[ck];B[bl];W[bj];B[kc];W[kb];B[lb];W[ja]
+(;B[lc]C[rika:
+no need to connect. following variations show how to kill the upper white group (I hope I didn't miss something)]
+;W[gc]C[rika:  I tried my very best, but now the group should be alife.]
+;B[dk];W[qd]
+(;B[qc]C[rika:
+bQ17 is enough, then R17 and R15 are miai];W[pc];B[qe];W[rd]
+;B[oc];W[pb];B[re];W[od];B[pe];W[rc];B[nd]C[jw: Afterwards my opponent suggested p18 first.
+
+rika:
+yes, just because white can reduce your territory with wP18]
+;W[qj];B[qk]C[jw: Is this the good direction?
+
+rika:
+I think it's playable. Black has a wall at Q/R/S15.];W[pi];B[oj]
+;W[oi];B[nj];W[qi]
+(;B[lj]C[jw: Too cautious?
+
+rika:
+well, white right group has a hard time to make two eyes...]
+;W[jm];B[ho];W[rk];B[ql];W[rl];B[rm];W[jq];B[iq];W[op];B[po]
+;W[nr]
+(;B[qq];W[mh];B[oe];W[bd]C[jw: Was there a way to defend, or am I too late?
+
+rika:
+there is a way.];B[cd];W[cb]
+(;B[ea]C[rika:
+separate the two stones, don't let them make an eye just because you can't create an eye after bE19 (D17 is an false eye)]
+;W[bc];B[db];W[ca]C[rika:
+now your group hasn't one eye and have only one outer liberty while white has a big eye in the corner (thus one-eye-group kill no-eye-group)]
+;B[ab];W[bb];B[ac];W[aa];B[hg]C[jw: I started to worry about my upper groups with not much eye space.
+
+rika:
+the upper group is simply alive with bP18 in case of emergency, the only concern is wheather you can make the use of the big wall to create territory.]
+;W[kh];B[ih]C[rika:
+bK13 looks better];W[rn];B[sm];W[qm];B[qn];W[pm];B[om];W[pl]
+;B[pk];W[rq];B[ro]C[jw: Too cautious, we concluded afterwards. I didn't see that when I would get in trouble, p8 would save me.
+
+rika:
+that's true];W[qr];B[pr];W[rs];B[sr];W[qp];B[rr]C[rika:
+white will surely thank you for starting a ko fight, bQ3 is enough]
+;W[pq];B[ad];W[ae];B[qq];W[fr];B[es];W[pq];B[qb];W[rb];B[qq]
+;W[sn];B[qs]SQ[bo][di][kq][ob][sl]TR[dm]C[jw: Too early to stop the fight?
+rika:
+well, you shouldn't have started the fight. let's see what ko threat white (triangle) and black (square) has. So black has more threat, so conclusion: keep fighting that ko.]
+;W[sl];B[ol];W[so]
+(;B[rp]C[rika:
+I have added a variation bS7, then white have to be careful because of shortage of liberty]
+;W[sp];B[sq];W[rm];B[lg];W[lh];B[kg];W[jr];B[ir];W[dm];B[dl]
+;W[em];B[fm];W[do]
+(;B[ep]C[jw: Better around s13 I guess.
+
+rika:  well, if you haven't protect that cutting point  (or bE6) your E1-group is in danger being captured]
+;W[rg];B[ob]C[jw: Wasting a go threath.
+
+rika:
+ko threat, but at that stage of the game, if you see a ko developing somewhere then you have a nice ability to read the board to the end :)
+But in fact, bL3 could lead to a ko.];W[qa];B[nh];W[ni];B[oh]
+;W[mj];B[mk];W[mi];B[kk]C[rika:
+better bN13 (almost ending stage game - yose)];W[pg];B[mg];W[hf]
+;B[gf];W[gg];B[if];W[hh];B[he];W[hi];B[hj];W[ii];B[ji];W[jh]
+;B[ig];W[jg];B[bo];W[co];B[bn];W[bp]
+(;B[cm];W[ds]
+(;B[ap];W[aq]
+(;B[br]C[jw: Later I learned a2 creates a seki.
+
+rika:
+I don't see a seki. Maybe not after bA4, wA3 (see var before)]
+;W[bs];B[kq];W[kp];B[kr];W[ip]
+(;B[hp]C[rika:
+bK1 also leads to ko for life for the whole white group];W[lr]
+
+(;B[jp];W[js];B[ks];W[ip];B[bq];W[ar];B[jp];W[gk]
+(;B[gj]C[rika:
+isn't a real threat];W[ip];B[ci]C[rika:
+wrong spot for the ko-threat. this will give your opponent 2 extra points. Better bD11]
+;W[di];B[jp];W[ng];B[is];W[lq];B[og];W[nf];B[of];W[kf];B[mf]
+;W[lf];B[me];W[jf];B[fe]C[jw: I forgot about g12.];W[gi];B[ej]
+C[rika:
+better atari with bF11];W[le];B[ld];W[oa];B[nb];W[fi];B[ls]
+;W[ms];B[mr]C[rika:
+1 pt extra for white];W[ns];B[en];W[dn];B[bk];W[aj];B[ei];W[eh]
+;B[ak]C[rika:
+from my experience of the yose (ending game)- play better bA5. bA9 or bA8 always leads to gote, that means white can play elsewhere reducing your territory. Since I can't see any sente moves for black (except perhaps bQ12) save a stone in atari first.]
+;W[ao];B[an];W[gl];B[gm];W[fl];B[am]C[jw: unnecessary.
+
+rika:
+unfortunately yes.];W[je];B[ie];W[se];B[sf];W[sd];B[rf];W[sg]
+;B[qg];W[qh];B[qf];W[rh];B[ph]C[rika:
+nice sequence];W[la];B[ma];W[ka];B[ki];W[ff];B[na];W[pa];B[ap]
+;W[md];B[mc];W[ao];B[rj]MA[ke][li]C[rika:
+unfortunately white has 2 outer liberties so he wins the ko.]
+;W[ap];B[os];W[oo];B[on];W[fk];B[li];W[sj]
+;TB[al][bm][fn][fo][fp][fq][fr][fs][ge][go][gp][gq][gr][gs][hf]
+[hn][hr][hs][ip][jq][jr][js][kj][lk][mb][md][mm][mn][nc][ne]
+[nf][ng][nk][nl][nm][od][ok][pf][pg][pq][ps][qo][qp][qr][rq]
+[rs][ss]TW[ab][ac][ad][af][ai][as][ba][be][bf][bh][bi][bq][br]
+[cc][cd][ce][cf][ch][ci][cs][da][db][dc][dd][ea][eb][ec][ef]
+[fa][fh][ga][gb][gh][ha][hb][ia][ib][jb][jl][mq][mr][qb][qc]
+[ra][ri][rj][sa][sb][sc][sh][si][sk][sm]C[White: 88 - 55 komi = 33.
+Black: 71.
+
+rika:
+ok... that's the game.  on the board it's just a 17pts difference. After you have seen my comments, you should have the potential to win the game easily.  You have seen: one missed chance to remove two stones has cost you the whole upper left (although there was a chance to rescue your own group).
+
+Life and Death Problems seems to be your weakness. Some opportunities to kill white groups. But I must admit, it that wasn't easy to see and if I'm concentrating, it took me about 10 min to see the sequence on the real board, where you can easily lose the track of the game (just because the stones aren't exactly on the intersection, or different size of the stones etc. - I have printed your game and replayed it on a board, very demanding :)
+
+Use your ko-threat wisely, if you throw a stone inside opponent's territory, be sure he has to answer inside his territory. Thus you won't lose a point.   Don't start unreasonable ko (like lower right corner).
+
+Of course high handicap games are different from even games where you have to look for big points yourself. But if you have the opportunity to play against a dan/low kyu player with 9 stones you can learn how to use influence playing with the handicap stones at the starpoints.
+
+I hope this review will guide you to raise your go-skills and become a better player.   Chun-Kit Man
+2003-02-09])
+(;B[is]
+(;W[lq])
+(;W[gj];B[gi];W[fk];B[ej];W[fi];B[gh];W[lq];B[fl])))
+(;B[js];W[lq];B[ls];W[ms];B[jp]))
+(;B[js]
+(;W[lr]
+(;B[ls]
+(;W[lq];B[mr];W[ks];B[kr];W[mq];B[ms];W[kq];B[ks];W[ns];B[is]
+;W[hp];B[gp]
+(;W[gq];B[jp])
+(;W[gj];B[gi]
+(;W[gh];B[gk];W[ki];B[kj];W[nk];B[ok]C[rika:
+white has still only one eye and cannot connect to a living group]
+)
+(;W[ki];B[gh];W[kj];B[lk])))
+(;W[ms];B[lq];W[ks];B[jp];W[mq];B[ls]C[rika:
+ko];W[gj];B[gi];W[ks];B[ns];W[os];B[ls];W[kj];B[ki];W[ks];B[ps]
+;W[ns];B[ls];W[li];B[gh];W[ks]))
+(;B[lq];W[mq];B[jp];W[ms];B[ls];W[ks]))
+(;W[lq];B[mr];W[lr];B[ls];W[ks];B[kr])))
+(;B[ar];W[ao]
+(;B[br];W[bs])
+(;B[bs];W[br];B[en];W[dn];B[an];W[ap]C[rika:
+by japanese rule white can remove the 2 stones without playing it out after the game]
+)))
+(;B[ar]
+(;W[br];B[ap];W[aq];B[bq])
+(;W[ap]
+(;B[br];W[bs];B[ao];W[bq];B[dn];W[en];B[fn];W[aq];B[dn];W[as]
+)
+(;B[bs];W[br];B[aq]C[seki]))
+(;W[aq]
+(;B[bs];W[br])
+(;B[br];W[bs];B[en]
+(;W[dn];B[ao];W[ap]C[seki])
+(;W[bq];B[dn])))))
+(;B[ds]
+(;W[cs];B[ar];W[cm];B[bm];W[ap];B[en];W[br];B[aq];W[as];B[bs]
+;W[bq])
+(;W[cm]
+(;B[en];W[bm];B[am];W[an];B[ao];W[ap])
+(;B[bm];W[en];B[ar];W[aq];B[cs]
+(;W[bs]
+(;B[br];W[fo];B[fp];W[gp])
+(;B[fo];W[br]))
+(;W[br])))
+(;W[ar];B[cs];W[bs]))
+(;B[ar];W[ap]
+(;B[ds];W[cm];B[bm];W[en];B[bs];W[cs]
+(;B[br]
+(;W[aq];B[fn])
+(;W[fo];B[fp];W[gp]))
+(;B[fn]))
+(;B[cm];W[br];B[aq];W[ds];B[bs]C[rika:
+if wC1 then white will get 6 pts, and lose 2 stones D/E7. But white will use the fact that he is in turn and reduce your territory one by one.]
+;W[cs];B[en];W[bq];B[dn];W[as])))
+(;B[rg];W[fp];B[ep];W[fo];B[en];W[fn];B[dn];W[cm];B[co];W[bo]
+;B[bn];W[do]C[rika:
+another ko fight]))
+(;B[rm]
+(;W[rp];B[qo];W[sp];B[rj];W[ri];B[sq];W[sj];B[sm])
+(;W[sm];B[rp];W[sp];B[sq];W[sj])))
+(;B[bb]
+(;W[db];B[ea];W[fa];B[dc])
+(;W[da];B[ea]
+(;W[dc];B[db];W[fa];B[ca])
+(;W[fa];B[dc]))))
+(;B[kq];W[lq];B[kr];W[lr]))
+(;B[ni];W[rk];B[ql];W[rl];B[rm];W[rg];B[sl];W[sj];B[og])
+(;B[rk];W[of];B[oe];W[mh];B[li]))
+(;B[pc]
+(;W[qc];B[qe];W[pb];B[ob];W[re];B[qf];W[rf];B[qg])
+(;W[qe];B[qc];W[qh];B[qj])))
+(;B[ib]
+(;W[hb];B[gc];W[gb];B[fa];W[ga];B[ia];W[lc];B[mc];W[mb];B[la]
+
+(;W[ma];B[ld])
+(;W[ld];B[nb];W[nc];B[ma];W[md];B[ka]
+(;W[ea];B[jb])
+(;W[mb];B[jb])))
+(;W[ia];B[gb];W[gc];B[fa]
+(;W[hb];B[ga];W[ha];B[ea])
+(;W[ga];B[ha]
+(;W[jb];B[ga];W[hb];B[ea])
+(;W[hb];B[jb])))
+(;W[jb];B[gb];W[gc];B[fa];W[hb];B[ga];W[ha];B[ea])
+(;W[gc];B[jb])))
+(;B[fd];W[ee];B[gc];W[fb];B[gd]
+(;W[eb];B[dc];W[gb];B[hb]
+(;W[hc];B[ic];W[hd];B[he])
+(;W[ib];B[ha];W[hc];B[ic];W[hd];B[he]))
+(;W[gb];B[hb];W[ib];B[ha];W[hc];B[ic])))
+(;B[eg];W[eh];B[ef];W[ee];B[ff];W[gf];B[fe];W[ed];B[fd];W[ec]
+;B[hd]))
+(;B[ef];W[ee];B[fe];W[ed];B[ec];W[fd];B[gd];W[fc];B[fb];W[gc]
+;B[hc];W[gb];B[hb];W[ga];B[fa];W[ha];B[ia]SQ[cg][fg]C[rika:
+of course the opponent will have to sacrifice the 2 stones from the beginning and have to think what to do with the wC13/F13 stones.]
+))
+(;B[bg];W[ch];B[bh]))
+(;B[kj]))
+(;B[kq]
+(;W[mm];B[jn])
+(;W[jo];B[io];W[jn];B[kp];W[ko];B[lq])
+(;W[kn];B[jn];W[jm];B[in];W[km];B[im])))

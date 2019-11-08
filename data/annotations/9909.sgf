@@ -1,0 +1,314 @@
+(;FF[4]GM[1]SZ[19]ST[1]AP[SGFC:1.16]
+
+PB[mkei]
+BR[7k]
+PW[xyzw]
+WR[6k]
+KM[0.5]
+DT[2015-12-25]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[B+11.5]
+TM[600]
+
+C[[R\] Hi Felix. My name is Uwe and i'll do the review for you. I hope you'll find it helpfull.
+
+
+While creating this review i have noticed two things, i want to share, in the hope it'll help you to improve.
+
+- Sometimes you play to hastily while fighting. Take your time and try to think about the purpose of the attack and find a proper move. 
+
+- You sometimes focus to much on one area of the board. Even in a fight its important to take a look around (as you'll see :-)]
+;B[pd];W[dp];B[pp];W[dc];B[de];W[ce];B[cf];W[cd];B[df];W[fc]
+
+(;B[cj]C[[R\] In general you've played a solid opening. But in this position i would prefer A to get more options.
+
+I've provided a few typical paths of this opening.];W[qn]LB[qj:A]
+[nq:B]C[[R\] R6 is ok but A and B are better.
+A is a better move to destroy your framework and B is the right side to attack.]
+;B[nq];W[rq]
+(;B[rp]LB[qq:A][rp:B]C[S3 normally too far but how to punish it properbly ?
+
+[R\] S3 is too far indead, but it is not that simple to punish.
+
+The best way to punish him is to play A. White then needs to play B and the game is back to normal, but white is missing an important stone.
+
+S4 is the only move if you want to fight directly.];W[qp]
+(;B[qq]MA[qo]C[[R\]I think the other side is more promissing. That way both of you don't get much, but you're in a better position afterwards.]
+;W[qo];B[rr];W[pq];B[qr];W[op];B[pr];W[po]
+(;B[oq]LB[mo:A][fq:B]C[think this is not too bad for b, corner is small but w overconcentrated, but instead of p3 tenuki better right ?
+
+[R\] Thats right. P3 isn't important.
+Locally A is a good move, but B is more important and bigger.]
+;W[fq]
+(;B[cn]C[too far, c7 should be better
+
+[R\] C6 is perfectly fine. C7 is to far away to attack. White can then play C5 and is happy]
+
+(;W[cl]LB[bp:A]C[[R\] instead of this attack, white should simply secure the corner with A]
+
+(;B[bl]C[[R\] This is a good way to attack the invader, but i think it would be better to attack the corner.]
+;W[bk];B[ck];W[bm];B[dl];W[cm];B[dm]
+(;W[bn]C[[R\] White normaly plays the cut D6 instead]
+(;B[dn]C[[R\] This move is a mistake and let white take the entire corner. Don't fear the cut, play C5 instead.]
+;W[co]
+(;B[bj]LB[qj:A][qg:B]C[good for w, corner is big, b just outside influence and a littlte of territory left side.
+but w some weaknesses bottom, maybe later
+
+[R\] You're right, thats very good for white. You lost around 10 points in the corner.
+But now you have sente. Don't waste it to secure territory while there are big points left to take.
+A and B are good points to take.];W[pj]
+(;B[jd]LB[qf:A][qh:B]C[[R\] This point is good, but A is the important point for white now, so you should play on B.]
+;W[qf]
+(;B[ph]LB[qh:A][nd:B]C[overplay ?
+just extend 016 better ?
+
+[R\] It is possible to attack here, but then you should play on A. (Have a look at the variations)
+ 
+B is a much better move right now. It secures your border and helps with an  invasion later on.]
+;W[qc];B[pc]C[[R\] This is the right direction. Now you'll get a solid wall.]
+;W[qd];B[pe];W[pf]C[[R\] This move is helping you.]
+(;B[of]C[[R\] but you should cut right away];W[og];B[pg];W[ng]
+;B[qe];W[re];B[rf]LB[rd:A]C[[R\] A go proverb says: cut the side you don't want. You should play on A here.
+
+For details why, have a look at:
+http://senseis.xmp.net/?CutTheSideYouDontWant];W[rg];B[qg];W[sf]
+;B[rd];W[rc];B[se];W[pb];B[ob];W[qa]C[s18 should do the trick here.....
+
+[R\] Yes it does]
+(;B[sc];W[sb]C[[R\] Its still possible to kill this group. Instead of S18 you should have played S19]
+
+(;B[rb];W[sd];B[re];W[ra];B[sc]LB[mo:A][jq:B][qj:C]C[[R\] This is a good ko threat for later in the game. 
+Now that this group is alive, try to find another spot to play.
+
+A to reduce whites framework and prepare an invasion
+
+B to secure a big point (it is more important after A)
+
+or fight locally with C];W[qb]
+(;B[rh]LB[mo:A][jq:B][qj:C]C[tenuki better ?
+
+[R\] Yes! 
+A is the best point.
+
+See the comments on move 71 for more details];W[nb]
+(;B[oi]LB[oa:A]C[[R\] Don't tenuki! P19 is important.
+
+P11 is actually helping white securing the territory while you gain nothing in return.]
+;W[oj];B[ni];W[nj]
+(;B[md];W[oc]C[here plan was to make sth in the center, since i had the wall on the left side
+
+[R\] Since you already inforced a wall in the center with the last moves, it doesn't help you to get another wall. Instead you should have keeped the territory.
+
+White is now still leading with something around 15 points. If you've played P19 the game would be even.]
+;B[hb];W[gb];B[hc];W[nd];B[me];W[mc];B[mi];W[jh];B[mj]LB[mo:A]
+[kg:B]C[[R\] If you want to attack the lower right corner A would be a good move.
+If you try to stop white from living inside your walls, then play B instead]
+;W[rj];B[ml];W[je]
+(;B[kd]TR[hb][hc][jd]LB[ie:A]C[[R\] Don't let white to easily life. If he attaches to your stone, you have to weaken this stone even more.
+
+And since the marked stones are a little lonley you should play on A]
+;W[he];B[gd];W[ge];B[fe];W[ff]LB[fd:A]C[[R\] Now you have alot of cutting points. It is better to play A here]
+
+(;B[gf]LB[gh:A]C[[R\] This is much to close and is helping white to get an eye. 
+First reduce the living space with A.];W[gg];B[if];W[hf];B[ie]
+;W[ig];B[jf];W[lh];B[hh]C[[R\] You try to prevent the second eye, but you need a proper follow up move. 
+
+You have alot of cutting points everywere and i think it would be best to let him life and reduce the impact]
+;W[hg];B[fg];W[fh];B[eg];W[jk]
+(;B[jj]C[[R\] It isn't the time for more weak stones. Rescue H12 and white still needs to run]
+;W[ij];B[kj];W[gj];B[ik];W[hk];B[il];W[hl];B[ii];W[hi];B[hj]
+;W[gi];B[ih];W[ij];B[ji];W[im]LB[gh:A]C[[R\] This fight went really well for you, but now you get greedy.
+Instead of killing everything you could just have played A.
+White still needs to rescure the rest of his stones and you could have invaded the lower right side.]
+
+(;B[jl];W[jm];B[kl];W[gh];B[hj]C[[R\] This ko doesn't help you. White could just defend the cut instead of wasting ko threats]
+
+(;W[fd];B[ee];W[ij];B[hm];W[gm];B[hn];W[jo];B[gn];W[fm];B[fn]
+C[from here on i´m a little bit lucky since w can just cut @ e6 right ?
+how connect or play better ?
+
+[R\] This situation is very tricky. But i think he can't. If he tries his group would die]
+
+(;W[fk];B[em];W[ej]C[[R\] Now white is alive. Don't try to kill him, secure the cutting points]
+
+(;B[fl];W[gl];B[ek];W[el];B[dk];W[eh];B[fl];W[hj];B[jg]C[[R\] This cut is very big now]
+;W[dg];B[ef];W[ch];B[bh]C[[R\] Very good!];W[bg];B[cg];W[dh]
+;B[bf];W[bi];B[ag];W[ci];B[ai];W[al]C[[R\] This is the result of to much attacking and to many weak points.
+White is trying to kill you now and set up a ko to split your group]
+;B[be];W[bd];B[ae]C[i don´t think its necessary at the moment, i can play @ bottom and don´t give up sente
+
+[R\] I think you should have played at the bottom to get some eyes and reduce whites space]
+;W[kc];B[qk]C[[R\] This is an very important move!];W[qj];B[pl]
+;W[rl];B[rk];W[ql];B[pk];W[sk];B[om];W[nl];B[nm];W[ol];B[pm]
+;W[ro];B[mo]C[[R\] And this is the key move to decide the game. You've successfully invaded whites territory and keep 2 week groups separated]
+
+(;W[iq]C[[R\] White should have saved this group.
+
+30 Points difference if the white group in the center dies]
+
+(;B[hq]C[[R\]A very good move. I didn't find a better one to attack here, but whats about the white group on the lower right?]
+;W[hp];B[ip];W[io];B[gp];W[jp];B[gq];W[ho]
+(;B[fp]TR[im][jm][jo][io][ho][hp][jp][iq]LB[kq:A]C[[R\] You don't always need to push your way ahead. Instead think about to use the next move you would play after that.
+
+BTW:
+This is your last chance to kill the marked group, but it may lead to a ko. Just play the vital point A.]
+;W[kq];B[eq];W[dq];B[er];W[dr];B[ds];W[cs];B[es];W[br]LB[aj:A]
+C[this is really good for b since corner @ left side is not big anymore
+
+[R\] This result is very good for black. 
+If we count the lower right group as alive, then you're leading with 5 points.
+
+But you have sente and the cut at A isn't much of a problem anymore]
+;B[jr]C[tryied to kill now since w no 2 eyes, but which is the best way ?
+
+[R\] White is alive. L3 was the key move.]
+(;W[lp];B[ir];W[mq];B[mr];W[lr];B[mp];W[nr];B[lq];W[lo];B[ns]
+;W[mq];B[or];W[jq];B[ln];W[kn];B[sp];W[so];B[sq]C[[R\] Now you have killed the white group and you are leading with 75 points]
+;W[ep];B[fr];W[hd];B[id];W[gc];B[ad];W[bb];B[si];W[sj]C[[R\] the walking dead :-)]
+;B[ne];W[ib];B[ic];W[jb];B[ha];W[lm]
+(;B[mn];W[ll];B[lk];W[km]
+(;B[kk];W[mm]C[[R\] This move is worth 60 points];B[np];W[mk]
+;B[od]
+(;W[oa];B[lc];W[lb];B[nc];W[on];B[nn];W[nd];B[qm];W[rm];B[nc]
+;W[aj];B[ak];W[sr]C[here i need the b8 cause there are no more big ko threats out there or did i miss sth ?
+
+[R\] Only that you don't need to win this ko :-)
+Both groups are alive]
+(;B[bl];W[rq]C[yeah from here on its somehow over, many kos but nothin special happened
+
+[R\] You both seem to like kos :-).
+
+All important comments are done now. I added a few remarks for the endgame, you may skip them if you want.]
+;B[am];W[bo];B[mb];W[ma];B[ob];W[na]
+(;B[ia]LB[ga:A][ab:B]C[[R\] This is to small, only 1 Point. Play A or B instead.]
+;W[mc];B[an];W[ld];B[le];W[ao];B[lc];W[al];B[am];W[ld];B[bc]
+;W[cc];B[lc]LB[ga:A][ac:B][dj:C][kr:D]C[[R\] This is only 1 point. 
+
+There are many other points left];W[mb];B[jc];W[ld]
+(;B[nk]C[[R\] This isn't a good threat. White now captures a ston and get 1 point territory]
+;W[ok];B[lc];W[kb];B[kr];W[ls];B[lq];W[oc];B[mq];W[nd];B[ga]
+;W[fa];B[nc]LB[ac:A]C[[R\] A is bigger];W[ac];B[ob];W[ri];B[sh]
+;W[oc];B[rs];W[nd]
+(;B[ea]LB[eb:A]C[[R\] If you play A you will get more ko threats]
+;W[fb];B[nc];W[ob];B[ld];W[an];B[al];W[dj];B[in];W[ed];B[eo]
+;W[go];B[ss];W[sq];B[pi];W[qi];B[qh];W[fo];B[sd];W[do];B[en]
+;W[ja];B[el];W[pp];B[nd];W[gf];B[pn];W[oo];B[tt];W[tt]TB[je]
+[ke][oe][af][kf][lf][mf][nf][pf][qf][sf][bg][kg][lg][mg][ng]
+[og][rg][sg][ah][jh][kh][lh][mh][nh][oh][ki][li][aj][lj][bk]
+[jk][fq][gr][hr][lr][nr][fs][gs][hs][is][js][ks][ls][ms][os]
+[ps][qs]TW[aa][ba][ca][da][ea][ka][la][pa][sa][ab][cb][db][eb]
+[rb][bc][ec][gd][di][ei][fi][fj][gk][nk][ml][sl][sm][rn][sn]
+[ko][ap][bp][cp][ip][kp][rp][sp][aq][bq][cq][ar][cr][as][bs]
+C[i appreciat any help and reviews ;)
+
+[R\] I hope you've enjoyed this review as much as i did.])
+(;B[eb];W[fb];B[ec];W[ed]))
+(;B[ok]))
+(;B[ga])
+(;B[ab]))
+(;B[ss];W[aj];B[ah]))
+(;W[nc]C[[R\] White should play here.]))
+(;B[mm];W[kk]C[[R\]A better choice]))
+(;B[mm];W[mn];B[nn]C[[R\] You keep the dead group dead and lost only 1/2 point.]
+))
+(;W[ir]
+(;B[kr];W[lr];B[mr];W[ls];B[lq];W[lp];B[mq];W[jq])
+(;B[lr];W[kr];B[ks];W[lq];B[mr];W[mq];B[nr];W[mp];B[np];W[lo]
+)))
+(;B[eq];W[ep];B[fp]
+(;W[dq];B[kq])
+(;W[kq];B[dq];W[cq];B[cr];W[dr];B[er];W[br];B[ds];W[bq]))
+(;B[kq]
+(;W[eo];B[fp];W[en];B[ir])
+(;W[go];B[fp];W[fo];B[eo];W[ep];B[fr];W[eq];B[ir];W[jr];B[jq]
+;W[hr];B[ip];W[do];B[en];W[iq])))
+(;B[sq]C[[R\] Now the game is over]))
+(;W[sp]))
+(;B[dj];W[eh];B[dh]))
+(;W[en];B[eo];W[em];B[fk]
+(;W[fo];B[do];W[go];B[ho];W[hp];B[gp];W[fp];B[ip];W[hq];B[io]
+;W[gk];B[jp])
+(;W[do];B[fo];W[el];B[dk];W[ek];B[ej]
+(;W[gl];B[io]
+(;W[ip];B[jn];W[km];B[kn];W[lm];B[in];W[mn];B[lo];W[mo];B[lp]
+;W[mp];B[mq])
+(;W[ko];B[jn];W[km];B[kn];W[lm];B[in];W[ln];B[lo];W[mo];B[lp]
+)
+(;W[jp];B[jn]))
+(;W[fj];B[gl]))))
+(;W[gm]))
+(;B[gh];W[jl]C[[R\] Black is now leading with 15 points.]))
+(;B[hj];W[ii];B[hi]
+(;W[im];B[ij];W[jj];B[ki];W[ji];B[kh];W[kg])
+(;W[ik];B[ki])))
+(;B[gh]))
+(;B[ie]
+(;W[ke];B[kd])
+(;W[jf];B[if])))
+(;B[oa]C[[R\] Much more important]))
+(;B[oa]MA[og][ng]LB[ql:A]C[[R\] You can attack white much better when you secure your territory and get rid of this weakness.
+Now white has two very weak stones and an invasion-point on A.
+
+The game is now even]))
+(;B[hc];W[nb];B[oa];W[oc];B[nc];W[na];B[od];W[kb]C[nothing fo w here right ?
+
+[R\] Right! But even without H17 white has no chance.];AE[hc]
+;B[jc]C[[R\] Just play an iron pillar and white have nothing]
+))
+(;B[ra]
+(;W[sd];B[re];W[rb];B[oa]
+(;W[sa];B[pa])
+(;W[pa];B[qb]))
+(;W[rb];B[oa]
+(;W[sa];B[pa])
+(;W[pa];B[qb]))))
+(;B[rb]
+(;W[sb];B[ra])
+(;W[ra])))
+(;B[qe];W[re];B[rd]C[[R\] cut on the side you don't want];W[rc]
+;B[rf];W[sd];B[rg];W[of];B[qb];W[rb];B[md];W[oh];B[pi];W[oi]
+;B[qj];W[qk];B[pk];W[oj];B[rk];W[ql];B[ri]C[[R\] This is the result to expect and i think black can be satisfied]
+))
+(;B[qh]
+(;W[ph];B[qi];W[pi];B[qg];W[pg];B[pf];W[qj];B[qe];W[rf];B[rg]
+;W[of];B[pe];W[ri];B[re])
+(;W[of]
+(;B[nd];W[oi];B[rd])
+(;B[oh];W[nd]
+(;B[oc];W[nc];B[qe];W[rf];B[re])
+(;B[nc];W[mc];B[oc];W[md];B[rd])))))
+(;B[qh];W[nc];B[pc];W[kd]))
+(;B[qj];W[nc];B[pf]))
+(;B[co]
+(;W[al];B[cp];W[cq];B[bq];W[dq];B[en])
+(;W[bj];B[ci];W[al];B[cp];W[cq];B[bq];W[dq];B[en])))
+(;W[dn];B[bn];W[al];B[cp];W[do];B[cq];W[bj];B[ci]))
+(;B[cp];W[cq];B[bq];W[co];B[bp]LB[do:A][bo:B]C[[R\] White can now decide to give him and you a weak group to run with A or give you the corner and get more outside influence with B]
+
+(;W[do];B[bo];W[cr];B[dn];W[bm];B[bn];W[el];B[fn]C[[R\] Both groups have to run]
+)
+(;W[bo];B[do];W[bn];B[dq];W[ep];B[dr];W[en]C[[R\] Both groups are alive and white has a wall to the center. Black on the other hand has sente and can play in the upper right first.]
+)))
+(;W[bp]LB[bo:A][en:B]C[[R\] Now you can tenuki or play A or B]
+))
+(;B[cm];W[co]C[[R\] This way whites corner is much bigger.
+White don't have to play this move now, since the upper right corner is more important right now]
+))
+(;B[fq];W[cn];B[jp]))
+(;B[qo];W[qq];B[ro];W[po];B[rn];W[op];B[pn];W[oo];B[oq];W[pq]
+;B[qm];W[mp];B[mq];W[lp];B[kq]))
+(;B[qq]
+(;W[rp]LB[ql:A][pm:B]C[[R\] Now you can attack white, since he is missing one important move. Or you play tenuki.]
+
+(;B[ql];W[on];B[ol]C[[R\] This works very well with your Stone on Q16]
+)
+(;B[pm];W[qm];B[pl];W[oo];B[ql];W[po];B[mp]C[[R\] Possible but i prefere the other variation]
+))
+(;W[qk];B[rp]C[[R\] If white doesn't want to fight you can secure the corner and he has wasted a stone]
+)))
+(;B[dj]
+(;W[cl];B[pj];W[nq];B[lq];W[qq];B[qp];W[pq];B[op];W[nr];B[mo]
+C[[R\] This is a very common result])
+(;W[qj];B[cn];W[fq];B[ql];W[qf];B[qh];W[of];B[nc]
+(;W[pi];B[rd];W[nq];B[po];W[lp])
+(;W[rd];B[pi];W[qc];B[kc]))))

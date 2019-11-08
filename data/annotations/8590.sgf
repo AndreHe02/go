@@ -1,0 +1,236 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.17]
+
+PB[gdc]
+BR[8k]
+HA[2]
+PW[goghiskhan]
+WR[6k]
+KM[0.5]
+DT[2011-11-24]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[W+16.5]
+TM[1500]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+AB[pd][dp]C[This game consisted mostly of a complicated fight in the upper-right corner.  I don't expect a comprehensive analysis but am interested in any thoughts on technique, and especially on whether there was a good way to take advantage of the pressure on the small white group at bottom right.  I've stuck in some disorganized comments on my own thinking in a few spots.
+
+***************
+
+DG: Hey, my name is Dave Grillot and I'll be doing your review.  This is my first review and I'm very happy about the opportunity to give back to GTL, because I am constantly downloading and studying other people's reviews.  I really think it's a fantastic site and concept!!
+
+You can find me on KGS, username: Osvaldo, and I'm currently 2kyu.  I am not a strong player, but Ill try to give you a variety of general advice that you will find helpful. Feel free to contact me by email or on KGS if you have any further questions.
+
+Since the game was decided by a pretty big margin (15pts), I didnt comment much on the end game, but mostly on your big mistakes and general strategic errors.
+
+"When attacking, surround before taking eye space" is an important proverb that you violated several times :)  Remember, the most important thing about attacking is making profit elsewhere, while you attack.  It's very hard to actually kill a group, and as Guo Juan says: "A cornered lion is a dangerous animal".  You should read "attack and defense" if you haven't already, as it explains the basic attacking rules and strategies
+
+The general strategy that you should try to adopt when playing as black in handicap games is to try to use your handicap stones to attack, and try to constantly put pressure on white, so that while he struggles to live/escape, you naturally make points and maintain sente. I really recommend the book: Breakthrough to Shodan, which is all about handicap games, and the general strategy and attitude that you should adopt as black, in order to not let the stronger player push you around.
+
+you should also do life&death and tesuji problems to improve your reading, which is kind of like your "go muscles"
+
+Enjoy the review!];W[dd];B[pq];W[po];B[qo];W[qn];B[qp]
+(;W[qf]C[DG: This is kind of a weird move by white.  Usually if white abandons that joseki in the bottom right, it's to probe on the other side (o17 instead of r14), and then finish the bottom right joseki accordingly depending on blacks response. I think he was probably thinking of that, but made a mistake.  This is kind of a cool trick to know. See variations on the previous move.
+
+Any time you have an opportunity to attack two groups at once, you should probably take it.  Here I would be tempted to play a pincer.  Any pincer would probably work well, but the one I like best is q10, which starts a general attack on both of whites groups, and really makes the bottom right stones uncomfortable.]
+(;B[nd];W[pm];B[qh]TR[pi][qi][pj][qj]C[DG: Nice! this is the right idea, although it might not be in the best position.  The problem is that if white gets to play at r10 for example, he can still stabilize his bottom right stones.  If you had played the pincer on one of the triangle points, it would be a more effective "double attack", making both groups of stones uncomfortable.]
+;W[pg]LB[ql:A]C[DG: A good thing to know is that with white's shape in the bottom right, the point A is the vital point.  It is sente because it threatens to connect underneath. Also, if white gets A, he gets to make a another "tiger's mouth" with his r6 and q7 stones.  For these reasons you should try to get that point.. I propose the variation shown]
+(;B[qk];W[ph];B[pi];W[rl];B[rk];W[qc];B[qd];W[rd];B[re];W[rc]
+(;B[rf]C[DG: usually its better to play r15 than s14 in this case, its more solid and leaves less aji]
+;W[qg];B[rh];W[ob];B[oc]C[probably not the right response
+
+DG: yeah it is unclear what this move accomplishes.. you probably should have played elsewhere, like p11. R15 is an important point, maintaining connectivity but its a bit too slow at this moment]
+;W[nb]
+(;B[kd]C[DG: this is not a bad move... it attacks whites q13 stones quite well, and prevents white from making some potential territory on the top. However, maybe you could play p11 first (see var)]
+;W[oi];B[pj];W[qe];B[rg];W[lc]C[DG: these next white moves are bad... you should never peep on the side of your own strong group... (he is weakening his own q12 group by doing so).  Also he is ruining the chance of a potential cut.]
+;B[ld];W[mc];B[md];W[jc]
+(;B[kc]C[DG: This kind of sente move is usually considered "bad sente".  You shouldnt push like this unless you plan to cut, for two reasons.  Firstly, you lose one of your own liberties for your m16 stones in this exchange, and often 1 liberty can make the difference between winning and losing! Secondly, you destroy some aji, because if you later get a stone at h17 for example,  you could then peep l18 in sente and steal a few of whites points. (I have included a variation for reference)]
+;W[kb]
+(;B[lh]C[DG: nice try, but indeed it is painful to let white make good shape with o12.
+
+  Please check out my variations for ideas on how to attack more effectively.]
+;W[nh]C[DG: maybe you could still kill with N10, but its complicated.]
+(;B[ng]LB[lj:A][mj:B]C[DG: this is quite ineffective.  I understand that you want to take away the possibility of an eye,  but its almost always a better idea to surround first. m10 or n10 would be much better.  you might not get to kill him, but at least you build strength in the middle of the board, which will be useful when there starts to be action on the left side.]
+;W[nj];B[ok]C[DG: good move!! it is very wise to split whites groups, it puts him in a very uncomfortable position]
+;W[nk];B[ol];W[oo]LB[nq:A]C[DG: o3 would be a good move here, because white still can't connect his groups in one move. (and 03 is quite big)]
+(;B[om];W[oq];B[or];W[nq]
+(;B[mm]C[DG: you should keep in mind that there is some bad aji in the bottom right corner.. maybe you could push once more with o2 before playing n7.. it helps your bot right group a little bit.]
+;W[lk];B[lj]LB[jd:C][cf:B][dj:A]C[DG: So far, the game is going quite well for you... but this is another relatively serious mistake.  again, don't touch weak groups... first try to surround them, and attack them on a global scale from a distance. C (almost surely sente and helping out your weak group), followed by A or B would be nice instead.]
+;W[ml];B[iq]C[DG: good tenuki! although f3 would be perhaps a bit more solid.]
+;W[nr];B[pr];W[ro];B[rp];W[rm]C[I actually don't know how the lower-right group plays out.  Sensei's library tells me white can make it a ko for life if black doesn't play S2.
+
+DG: Yeah this is a very complicated life and death problem! This is actually a "weak carpenter's square with 1 leg", due to the p2 stone and the lack of the q4 stone... further complicated by the possible ko with black t5, and whites cutting point at p4..
+
+I tried a ton of different sequences, with varied results, but in the end I think that since black t5 creates a ko, and there are a lot of internal ko threats for black to live or cut or make seki, and you were right to leave it alone.  of course, if white plays t6 or q4, you should defend at s2. 
+
+I took out all of the sequences that I tried (except one reasonable one) so that your review wouldn't be a crazy labyrinth.  you might want to refer to a dan player about this.
+
+PS: if you had played o2 in sente beforehand, I think you would have avoided this issue]
+(;B[cj]LB[md:A][pg:B][oo:C]C[At this point, even though I wasn't sure about the status of the black lower-right group, I figured this move was bigger (assuming the white lower-right group would live no matter what).  But I did wonder about the timing of this move - it seems like both sides might have wanted to play here earlier.  How should I think about the importance of this spot compared to the other groups on the board?
+
+DG: This is a very good move!  One thing to keep in mind is that there are a few weak groups on the board.  Group A is slightly weak.  Group B is quite weak, Group C is slightly weak.  Taking this into consideration, I think d10 would be slightly better, as it is more active in: 1. helping out the A group, 2. attacking the B group, 3. it prepares for a followup of c14.
+(see var)
+But your move is still very good.
+ps: another very big move on the board is k16 as I previously mentioned...later on, when white gets to play k16, its very painful]
+;W[fq]LB[dn:A][eq:B]C[DG: I can see how this move made u a bit uncomfortable.. since white has a wall at o2, the j3 stone is starting to look a bit lonely.  now you see why having black f3 instead of j3 would be preferrable. but still...]
+(;B[gq]C[DG: this is a mistake.  you generally shouldnt  touch weak stones. d6 would be much better. e3 could also be good.]
+;W[fp];B[lq]C[DG: this violates the proverb "don't play close to strength"... it would be better to play at d6 now.]
+;W[cq]C[Clearly I handled this invasion badly.  At this point is there any way to prevent white from linking up to the F3 group and living?
+
+DG: There is no way for you to prevent white from taking the corner.  It wouldnt even be wise to try to separate the f3 stones from the corner, now that you strengthened them with your g3 move.  I think your best course of action now would be to just play c4.]
+(;B[dq]C[DG: bad idea];W[cp];B[co];W[dr];B[cr]C[DG:If you want, you can sacrifice this stone to play b4 in sente, and then play d6 (see var).  but as you saw, trying to keep the f3 stones separated really doesn't work.]
+;W[br]
+(;B[er];W[cs];B[eq];W[fr];B[dn];W[es];B[cf]C[DG: good move!]
+;W[ce]
+(;B[bf]C[DG: 2nd line moves are rarely good until the endgame... here responding d14 is much better.  This is actually a very bad move by white, because if you had played d14, he gives you excellent shape!]
+;W[df];B[ch];W[jd]C[DG:painful, good move by white.... you definietly should have played here in sente sometime before]
+;B[je];W[ie];B[if];W[jf];B[ke];W[ig];B[hf];W[lg]
+(;B[mg]C[i think that if black doesn't make this move then the white upper-right group lives for sure - see some variations]
+;W[kg];B[mh];W[hg];B[jh];W[jg]
+(;B[jk]LB[jj:B][kj:A]C[DG: this move leaves some weaknesses... i think A or B would be better.. keep in mind whites snake is still very weak.. you need to play more solidly]
+;W[kj];B[ki];W[mj];B[li];W[kk]
+(;B[jl]C[This may have been a terrible move for black: looking back, I'm not totally sure about the status of black's upper-right group.  It looks like white has moves to gouge out eye space (see variations at 117 ahead), but then again black has the threat of K18 followed by J16 which probably ensures life.
+
+DG: Yeah this mvoe doesnt accomplish much... you should try to secure your group or escape it, before trying to continue your attack on whites group.  a golden rule of attacking is: you can't attack with a weak group". k10 seems like the only reasonable move.  Besides, you are in a good position, you should play solid moves. keep in mind b16 reduces white a lot, you still have the combination starting with j16 (j16, h15, k18, j17, j18, h17, m18)  and you can even still invade at c17! (since it threatens to connect under at b15)]
+;W[jj]TR[jk][jl]C[DG: now your two triangled stones are uselessly positioned]
+;B[ij];W[lm];B[mn];W[ji];B[ii];W[ih];B[kh];W[km];B[lf]
+(;W[gg]C[I was surprised by this move at the time because I thought white could kill with N15 (see variations below) - although I forgot I had the threat at K18, so I guess the black group was alive no matter what
+
+DG: yeah indeed you could make another eye, starting with the cut at j16, see var.  you should take your time to read out carefully these situations, because wasting a move to defend at n15 is like giving up a handicap stone!]
+;B[me];W[jm];B[kl]C[DG: again you are playing moves in the wrong order, you need to surround before taking away eye space.. you are creating too many weaknesses for yourself]
+(;W[il]C[Wonder if J9 would have been a better move for white - the variations below look like white wins, but this is way too much reading for me]
+;B[ik];W[ll];B[hl];W[im];B[gk]C[DG: nice move.];W[ho];B[go]
+C[DG: another overplay.. you need to think about securing/connecting your m3/j3 group (perhaps with m5 or so, also threatening whites bottom right group.  only once the bottom is secure can you think about cutting off white's m8 snake).  the ensuing sequence is quite disastrous for you]
+;W[gp];B[hp];W[ip];B[hq];W[gn];B[fo];W[jp];B[jq];W[eo]C[At this point I finally gave up trying to kill.  I could have saved the F5 group but it looks like white would live one way or another (I've sketched out a few variations).]
+(;B[hn];W[fn]TR[hn]C[DG: the triangled stone doesnt matter.. you should be worried about your bottom middle group. I would play l4.. once the bottom is stabilized, you can try to attack the bot right white group (see proposed variation)]
+(;B[hm];W[in];B[jo]C[DG: another wasted move... l4 is much better!]
+;W[kp];B[kq];W[lp]C[I really wondered if there was a way for black to leverage the pressure on white's bottom-right group - although I think not, because it seems that group can live with T6.]
+(;B[ko];W[lo];B[mr];W[ns];B[gr];W[mq];B[lr];W[do];B[mo];W[mp]
+;B[no];W[on];B[nm];W[op];B[io]C[DG: a move worth -1 point];W[go]
+;B[cn];W[ek]C[DG: nice move by white... this is a difficult situation for you...(don't you regret playing move 120?)]
+;B[ej];W[ck];B[cl];W[dl];B[bk];W[cm]
+(;B[dk]C[poor choice (see variation)
+
+DG: indeed you should have played b8];W[bl];B[ck];W[dm];B[fj]
+C[DG: now you are too far behind! :(
+end of comments];W[gf];B[jb];W[he];B[ib];W[hc];B[lb];W[mb];B[la]
+;W[pc];B[ic];W[id];B[hb];W[gc];B[gb];W[fc];B[fb];W[ec];B[cc]
+C[DG: this was nice!];W[be];B[db];W[eb];B[ea];W[bn];B[el];W[em]
+;B[fl];W[bg];B[cg];W[af];B[bh];W[ag];B[ah];W[ae];B[eg];W[fh]
+;B[ef];W[ee];B[bc];W[gi];B[rr];W[is];B[js];W[hs];B[gs];W[ms]
+;B[jr];W[ls];B[ks];W[ma];B[ka];W[pe];B[od];W[oe];B[og];W[oh]
+;B[of];W[ne];B[nf];W[mi];B[oj];W[ln];B[nl];W[mk];B[so];W[rn]
+;B[ql];W[sn];B[qm];W[sl];B[sk];W[sp];B[sq];W[so];B[pl];W[pn]
+;B[ad];W[bd];B[cd];W[de];B[dg];W[dc];B[cb];W[eh];B[ff];W[fe]
+;B[dh];W[hi];B[gj];W[hj];B[hk];W[ei];B[di];W[al];B[ak];W[bo]
+;B[ac];W[se];B[sf];W[sd];B[os];W[fs];B[gm];W[fi];B[mf];W[ni]
+;B[tt];W[tt]TW[na][oa][pa][qa][ra][sa][pb][qb][rb][sb][sc][ed]
+[fd][gd][hd][ge][hf][if][gh][hh][am][bm][sm][an][cn][dn][en]
+[jn][kn][ao][co][fo][io][jo][ko][ap][bp][dp][ep][aq][bq][dq]
+[eq][ar][cr][er][as][bs][ds]TB[aa][ba][ca][da][fa][ga][ha][ia]
+[ja][ab][bb][kb][le][sg][sh][ai][bi][ci][qi][ri][si][aj][bj]
+[dj][qj][rj][sj][ek][fk][pk][gl][qq][rq][hr][ir][kr][qr][sr]
+[hs][is][ps][qs][rs][ss]C[DG: I hope you enjoyed the review.]
+)
+(;B[bl]
+(;W[dk])
+(;W[dm];B[bm];W[be])
+(;W[bm];B[dm];W[bn];B[bo])))
+(;B[mp]
+(;W[mq];B[mo];W[op];B[io];W[go];B[lo])
+(;W[pp];B[np];W[sn];B[mo];W[op];B[sl];W[ql])))
+(;B[kp];W[io];B[mr];W[ns]C[DG: if white dares play here...]
+;B[on];W[pn];B[pp];W[no];B[lo];W[ql];B[so];W[sn];B[sp];W[sl]
+;B[rn]C[DG: ko for life of White's group.]))
+(;B[fn];W[fm];B[en];W[in];B[gm]
+(;W[ko]C[white dies])
+(;W[nl];B[hn];W[jo]
+(;B[io];W[ko]C[white lives])
+(;B[kn]
+(;W[ln];B[ko];W[kp];B[lo];W[mo];B[no];W[nn];B[mp];W[nm];B[on]
+;W[mo];B[mn];W[lp];B[mq];W[kq];B[kr];W[lr];B[mr];W[jr])
+(;W[lp]C[looks like white lives this way];B[mp];W[ln];B[ko]
+;W[kp];B[lo];W[mq];B[kq];W[nm];B[nn];W[on])))))
+(;W[ik];B[il];W[hk]
+(;B[ll];W[mk];B[hl];W[hi])
+(;B[gk];W[hm];B[hl];W[hj];B[hi];W[gj];B[gi];W[fj];B[fi];W[fk]
+;B[gl];W[im];B[fm];W[go];B[gn];W[gm];B[fl];W[hn];B[fn];W[ll]
+;B[ho];W[hp];B[gp];W[io];B[fo];W[ho];B[hq];W[ko];B[nl];W[jn]
+;B[ln];W[jp];B[kn];W[jq];B[jr];W[ir];B[hr];W[kr];B[is];W[kq]
+;B[lr];W[lp];B[mp];W[ls];B[lo];W[mq])))
+(;W[me]
+(;B[ne];W[of];B[oe])
+(;B[nc];W[oe])
+(;B[id];W[ne];B[oe];W[of];B[nf];W[he];B[hd];W[ge];B[jb];W[ic]
+;B[ib];W[hc];B[lb];W[mb];B[ka])))
+(;B[jj]C[DG: now blacks group is escaped, whites group is under severe pressure, and black can also try to capture whites j13 stones or cause havok on the upper side.]
+))
+(;B[jj];W[ki];B[kj];W[li];B[mi];W[kh];B[mj];W[mk];B[hj]))
+(;B[jg];W[mg]
+(;B[mh];W[nf])
+(;B[nf];W[mi]
+(;B[mh];W[kh];B[li];W[kj]
+(;B[ki];W[ji])
+(;B[mj];W[ni]))
+(;B[mj];W[mh];B[oj];W[kj];B[li];W[kh])))
+(;B[mh];W[mi];B[mj];W[kh];B[li];W[mg]
+(;B[kg];W[nf])
+(;B[nf];W[kj])))
+(;B[df];W[fd]LB[cc:A]C[DG: this would be a typical sequence, and you can still invade/reduce at A]
+))
+(;B[bp];W[cs];B[dn]))
+(;B[cp];W[dq];B[bp];W[bq];B[dm]C[DG: maybe something like this]
+))
+(;B[dn];W[cq];B[dq];W[dr];B[cp];W[br];B[bq];W[cr];B[cf]C[DG: black is still in the lead.]
+)
+(;B[eq];W[fp];B[dn];W[fn];B[dl];W[io];B[er];W[fr];B[lm];W[jk]
+;B[lp]))
+(;B[tt];W[rr];B[qr];W[rq];B[so];W[sn];B[rn]C[DG: it seems like black will either win this ko or live in the corner.. i dont really see what white can do.]
+;W[sm];B[rs];W[ro];B[sp];W[os];B[sr]C[DG: black lives])
+(;B[dj]C[DG: beautiful!!]))
+(;B[nr];W[mq];B[mm]))
+(;B[nq]))
+(;B[mj])
+(;B[lj];W[nk];B[ol];W[nl];B[om]C[DG: This is almost the ideal "dual attack" for black]
+))
+(;B[nh];W[oh]
+(;B[mj]C[DG: I think this kills white, but there are lots of possibilities and it's quite complicated. I include a few variations on how the attack might evolve... but I can't say with absolute certainty that this kills white... there are tons of possibilities]
+;W[nj];B[nk]
+(;W[ok];B[oj];W[ni];B[mi];W[mk];B[nl];W[mh];B[lh];W[ng];B[lg]
+;W[mg];B[of]
+(;W[og])
+(;W[lf];B[mf]C[DG: I think white will die here, though its quite complicated.]
+))
+(;W[mi];B[ni];W[oj];B[ok];W[ng];B[mh];W[mg];B[lh];W[lg];B[kg]
+;W[kh];B[li];W[kf];B[jg];W[lf];B[jf];W[je];B[ke];W[jd];B[of]
+;W[og];B[pe];W[ne];B[oe];W[me];B[nf];W[pc];B[mf]C[DG: black wins, though im not completely sure about this sequence.]
+))
+(;B[nk]C[DG: you could also play like this, pushing white towards your strength, meanwhile creating a double attack on whites bottom stones. You will have to be careful about your n16 group later though.]
+))
+(;B[oh]C[DG: it seems like you could also cut.];W[og];B[nh]
+;W[ng];B[mh];W[mg];B[lh];W[lg];B[kg];W[kf];B[jf];W[jg];B[kh]
+;W[je];B[lf];W[if];B[mf]C[DG: black seems to win this semeai, although white gets a beautiful ponnuki on the outside.]
+)
+(;B[oj];W[ni];B[ng];W[nh];B[mk]C[here you continue a double attack]
+))
+(;B[hc]C[DG:If later in the game you get to play here, it sets up a good endgame move at l18]
+;W[tt];B[kb];W[kc];B[jb]C[DG: big reduction]))
+(;B[oi]C[DG: white doesnt have time to cut at r15 yet..];W[ng]
+;B[qe];W[lg];B[kd]C[DG: This is quite a bit better than in the game. Firstly, you remain connected.  Secondly, white has two weak groups and is thus in a  bad position. It would be risky for white to try to cut at n16 for example, because he will end up damaging his own o13 group in the ensuing possible sequences.. (although you should watch for the cut in the future)]
+))
+(;B[qe]))
+(;B[ph];W[oh];B[ql];W[rm];B[pj]LB[og:A]C[DG: It's always better to have one weak group running to the center between two weak groups than the other way around.  Also white has to worry about his cut at A..  If a running battle evolves, you will make territory at the top and at the bottom.  you are in a very good position.]
+))
+(;B[pj]C[DG: now white is in a very uncomfortable position.. he will probably play a double approach to try and complicate the game, but you don't need to be afraid of it..  I've shown a couple of the most common josekis for ideas on how to handle the double approach..]
+;W[nc]LB[oe:A][pf:B]
+(;B[oe];W[qc]LB[pc:C][md:E][qd:D][cf:A][pg:F][dj:B]C[DG:Here you can tenuki, and take a big point like A or B.  White can't attack your top right black stones very easily, and they are light and have good shape.  A move like B now would be good because it indirectly supports them on a large-scale.
+The good thing about tenukiing here is that you can see how the game evolves a bit, before deciding if you want to proceed with C,D,E or F to stabilize them.
+Alternatively, you could play D to stabilize them immediately, and make a nice wall]
+;B[qd];W[pc];B[me]LB[qf:1][qn:2]C[DG: White already has two weak groups... off to a very bad start.]
+)
+(;B[pf];W[pg];B[of];W[qc];B[qe];W[pc];B[og])))
+(;W[nc]C[DG: The idea of this probe is that depending on how black plays, white knows how far he can comfortably extend, and thus chooses the bottom right joseki accordingly]
+(;B[qf]C[if black plays here, white can plan to extend all the way to r11]
+;W[pm];B[nq];W[qi])
+(;B[qg]C[if black plays here, white should plan to extend to r10]
+;W[pn];B[nq];W[qj])))

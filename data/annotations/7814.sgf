@@ -1,0 +1,107 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.17]
+
+PB[kodysh]
+BR[18k]
+PW[kittie99]
+KM[7.5]
+DT[2010-04-26]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[W+Resign]
+TM[2700]
+OT[5x30 byo-yomi]
+RU[AGA]
+
+C[Hello.
+I would like to go through only a few pointers, as these would fix a large portion of your game. They are:
+1. connection - keeping your stones connected or connectable. Connection is what makes stones stronger and gives them a good chance in a fight.
+
+2. Purpose of 3rd and 4th lines.
+
+3. Making a base before attacking
+
+I added comments in the original game tree first, so please read those comments first. I will refer back to additional trees, so it'll make more sense if you play out and read your original game first.]
+;B[qp];W[dd];B[qd];W[dp]
+(;B[fo]C[What was the purpose of F3? What do you intend to gain from playing there?
+It looks like outer influence because B seems to be trying to make a wall to face the outside and does not mind if W makes a lot of potential territory in the corner.
+
+BUT, is F5 a good way to make a wall?];W[dn]C[W extends out, it's a natural move and it's good for W.]
+;B[jp]TR[fo]C[B extends back to make a 'base'. (Or does it? Triangled stones F5 and K4 are too 'high' to make an efficient base. W can easily play on the 3rd line and get delicious territory.)]
+;W[fq]C[Which does happen.];B[gq];W[fp];B[gp];W[eo];B[fn]LB[ip:A]
+[qp:B]C[B does make a wall, and W does get the corner. However, W's gain is bigger than B's.
+Yes, W's corner can be reduced, but W is still happy because W has a solid base. W can live no matter what and still get a decent chunk of points.
+
+On the other hand, B has this wall, but it still has weaknesses to be exploited. Black's group A (that base in the bottom middle) and group B (lone stone in the corner yet to be settled) can be separated. If they get separated, both groups are vulnerable. Ignoring A is an option, but it doesn't bode well for Black.
+You want group A to be solid so you can effectively protect and settle B.
+
+So, let's go back to see other variations 'group A' could have formed in. I have kept the basic intentions the same (making a wall, getting influence)]
+;W[ck];B[fe]C[Again, with F15. 
+Play on 4th line for influence. OR play on 3rd line for territory.
+
+It is not unheard of to play on 5th line, but you need more skill to back that move up.]
+;W[fc];B[gc];W[fd];B[gd];W[ee];B[ff];W[ch]TR[fc][dd][fd][ee]
+[ck][dn][eo][dp][fp][fq]C[See how W maintains a good feasible connection in his wall?
+Even though the stones are spaced out, W can easily fend off invaders because W can connect up and become stronger if W really needs to.]
+;B[nc];W[oq]C[W plays 3rd line. Aim: territory.
+
+This makes sense. There is no point for W to make influence here. If W does, the pressure it will exert will just solidify B's groups.]
+;B[pr];W[pq];B[qq];W[or];B[qr];W[kq]TR[kr][mr][nr]C[W threatens B, and makes a good base. What's the base I'm always talking about?
+
+Base: triangled area. It's the area where eyes can be made.
+You need enough area in a base, AS WELL as having good shape. Good shape is shape that easily makes eyes.
+
+W is connected, B can't separate those groups. W has the wall to help it crush invaders.]
+;B[jq];W[kp];B[pj];W[ql];B[qm]C[Rao [6k?\]: is this iron man?]
+;W[pl];B[pm];W[rj]C[Minutemade [9k\]: yup];B[qh];W[rh];B[rg]
+;W[qi];B[ph];W[pi];B[oh];W[oi];B[ni];W[nj];B[mi];W[jo];B[io]
+;W[in];B[ko];W[jn];B[ip];W[ln];B[ol];W[ok];B[nl];W[nn];B[on]
+C[B defends a cut. Good. But that situation looks familiar, doesn't it?
+
+Do you see any other cuts waiting to be attacked?];W[jh];B[kg]
+C[L13 to help keep W away from B's area in top right corner. Good call.]
+;W[jg];B[kf];W[jf]
+(;B[jd];W[kh];B[lh];W[je];B[ke]SQ[ge]C[square: the cut.]
+(;W[he]
+(;B[hd];W[ge];B[gf];W[hf];B[hg];W[hi];B[ef];W[df];B[ki];W[ji]
+;B[kj];W[kd];B[ld];W[id];B[kc];W[gb];B[hc];W[ic];B[jc];W[hb]
+;B[jj];W[ij];B[ik];W[hk];B[il];W[fl];B[lm];W[km];B[ll];W[no]
+;B[oo];W[np];B[pp];W[em];B[hn];W[nm];B[mm];W[mn];B[dg];W[cg]
+;B[dh];W[ci];B[gi];W[gj];B[fi];W[hl];B[hm];W[im];B[jl];W[kl]
+;B[kk];W[lk];B[ml];W[mj];B[lj];W[oj];B[fj];W[fk];B[kr];W[lr]
+;B[jr];W[kn];B[dj];W[mk];B[om];W[jm]
+(;B[jk]C[=(];W[li]C[I hope this review helped.])
+(;B[li]))
+(;B[ge]C[Crisis averted.]))
+(;W[ge]
+(;B[he];W[gf]
+(;B[hf];W[gg]SQ[hd]C[Another cut.];B[hd])
+(;B[gg];W[hf]
+(;B[if]C[J14 is a bad move.];W[hg]C[ladder doesn't work and defending J14 will take more stones that you could use elsewhere]
+;B[ie];W[ig];B[id])
+(;B[hg];W[if];B[fh]C[B];W[fk]C[B must either connect or make 2 eyes. Lots at stake here.]
+)))
+(;B[gf];W[he]TR[ge]C[W can connect];B[fk]C[B must connect, or perish. It's a long and complicated connection here. It might work or not, depending how you and your opponent plays.
+
+If B connects, F14 group lives and W kicks himself. W gets his territory reduced by a lot.]
+)))
+(;B[je]C[B can solidly stop W. No problems there. Cuts won't work since this is B's kingdom. B has friendly stones nearby to connect up to if there is a cut.
+See? Ability to connect to a wonderful thing. It'll save you.
+
+This move has the same purpose as K16, it's just more straightforward and confident.]
+))
+(;B[fp]C[Have you read through your original game first? If not, please do. Otherwise this part doesn't flow properly as a lesson.
+
+Here are a few variations B can play. They are technically 'joseki', but the point I wish to get across is the *purpose* of the moves. When you play moves that fulfil your purpose without many extranneous moves, you are playing efficiently.
+
+F4 approaches D4.]
+(;W[dn]C[W can play the same move as before. W's purpose is the same, to extend out and to gain influence on the left side.]
+;B[jp]C[B can do the same kind of move as the original. Extend back and get something like a base.]
+;W[fq];B[gp]C[G4 to prevent a bad cut if B played G3.];W[gq]
+;B[hq]C[B now has a base to make eyes in later. It's solid, as it's based on 3rd line.
+
+3rd line is great making a base. Why? You are far enough from the wall to get points, but also close enough to make use of the wall to fend off invaders.]
+;W[eq]C[B has a base AND faces outside for influence. W gets some territory and influence too, but the trade is equal. 
+Now B is solid too and the direction the wall is facing out looks better too.]
+;B[gm]C[B extends out and makes use of the influence.])
+(;W[fq]C[What if W plays like this?
+B can still get a base and influence.];B[gq];W[eq]C[W has to defend that.]
+;B[hp];W[dn];B[kq]C[similar outcome, different means])))

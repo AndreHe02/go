@@ -1,0 +1,120 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.16]
+
+PB[Moose]
+BR[4k]
+PW[satosi]
+WR[3k]
+KM[0.5]
+DT[2015-10-02]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[W+R]
+TM[600]
+OT[5x20 byo-yomi]
+RU[Japanese]
+
+;B[pd];W[dd];B[pq];W[eq];B[qk];W[eo]C[Not a standard pattern, but it's not bad at all.]
+;B[jp];W[jd];B[po];W[nc];B[qf]C[A very simple opening.]
+(;W[nf]LB[co:A][cf:B]C[I would play A or B];B[cj];W[cl];B[cg]
+;W[el]
+(;B[cn];W[dm]C[Is there a better way to invade here?];B[cq]
+
+(;W[bo]
+(;B[bp];W[co];B[dr];W[er];B[br];W[cp]
+(;B[aq]C[Slooooow move];W[be]
+(;B[ej]
+(;W[gk]
+(;B[bk]C[Slow];W[gi];B[eg];W[di];B[ei];W[fh];B[eh];W[qh]
+(;B[pg];W[ph];B[ng];W[pk];B[ql];W[pl]
+(;B[qj]C[Better way to attack than this?];W[pj]
+(;B[qi]C[Really bad move. This helps white.];W[pi];B[pm];W[og]
+
+(;B[oh]C[This doesn't work.];W[of];B[ni];W[om]
+(;B[nk];W[nl];B[lk];W[mg];B[ml];W[nh];B[oi];W[mi];B[ok];W[ol]
+LB[qe:A]C[All black move are not really attack, because white has a tesuji.]
+;B[mj];W[oj];B[nj];W[lj];B[mk];W[mm]
+(;B[kj];W[li];B[lm]
+(;W[ln];B[mn];W[nm];B[kn];W[kk];B[ll];W[lo];B[km];W[no];B[on]
+;W[nn];B[mp];W[mo];B[nq];W[qe]C[He got me];B[re];W[rf]C[And again]
+;B[pe];W[pf];B[qd]C[White can play elsewhere.];W[qg];B[kp];W[pb]
+;B[qb];W[pc];B[qc];W[qe];B[sd]C[This is vulnerable shape. Let me show you.]
+
+(;W[jk];B[im];W[gd];B[ec];W[dc]
+(;B[ed];W[fe];B[ee];W[ff];B[de];W[bd]
+(;B[db];W[cb];B[eb];W[bb];B[hc];W[gc];B[gb];W[ic];B[hd];W[he]
+;B[ib];W[id];B[jb];W[hb];B[ha];W[hc];B[fc];W[od];B[pa];W[oa]
+;B[qa];W[ob];B[ik];W[ij];B[jl];W[hk];B[il];W[jj];B[kc];W[kd]
+;B[lc];W[ld];B[mc];W[iq];B[md];W[oe];B[gq]C[I think I should just defend here... Didn't realize I was leading slightly on points
+
+Gelya: Yeah, this move looks false invasion.];W[ip];B[go];W[hn]
+;B[ho];W[io];B[in];W[gn];B[fn];W[gm];B[fm];W[fl];B[hr];W[ir]
+C[Maybe I should take F2 here... those two stones don't matter much and i probably could win the capture race then
+
+Gelya: nothing works here, white is ahead with at least one liberty]
+
+(;B[fo];W[kr];B[lr];W[kq];B[lp];W[fp];B[gp];W[fq];B[jq];W[jr]
+;B[ks];W[gr];B[gs];W[fr];B[hq];W[is];B[hs];W[en];B[hm];W[gl]
+;B[dq];W[fs];B[dp];W[ep];B[do];W[bn];B[lq]C[Sad end to the game]
+)
+(;B[fr];W[es];B[is];W[js];B[hs];W[jr];B[kr]
+(;W[kq];B[lq];W[jq];B[lp];W[lr];B[mr];W[ks];B[jo];W[fo];B[hq]
+;W[gp];B[hp];W[fq];B[fp])
+(;W[gp]
+(;B[hp];W[hq];B[fp];W[fo];B[gp];W[gs];B[gr];W[ep])
+(;B[fp];W[fo];B[hp];W[hq];B[gp];W[gr];B[gs];W[fs];B[gr];W[ep]
+))))
+(;B[eb];W[db];B[hc]C[You have to leave some aji in the corner]
+;W[gc];B[gb]
+(;W[hd];B[ic];W[id]
+(;B[bb];W[bc];B[cb];W[da])
+(;B[ce];W[cd];B[bf];W[jc];B[bb]))
+(;W[ic];B[ib];W[hd];B[hb];W[jb])))
+(;B[gc];W[hc];B[fd];W[hd]
+(;B[ff])
+(;B[db];W[cb];B[eb])))
+(;W[qa];B[ra];W[sb];B[rb];W[sf];B[qf]C[ko];W[qm];B[pn];W[qe]
+;B[sc];W[rd];B[qf]
+(;W[rm])
+(;W[ko];B[jo];W[qe];B[rc];W[se];B[qf];W[jn];B[jm];W[qe]C[Well, this is not a direct OK, but it is still not unconditionally alive.]
+)))
+(;W[kk];B[ll];W[ln]))
+(;B[li];W[kj];B[mh];W[lh];B[ng]))
+(;B[on]C[too big to omit]))
+(;B[of]C[This move is good.];W[oh];B[ne];W[mf];B[me];W[lf];B[le]
+;W[oe];B[pf]
+(;W[ke];B[kf];W[kg];B[jf];W[mh];B[od];W[ld];B[mc];W[md];B[nd]
+;W[lc];B[mb];W[nb];B[je];W[kd];B[id];W[ic];B[jc];W[ie];B[lg]
+;W[mg];B[hd]
+(;W[if];B[jg];W[jb];B[lb];W[kc];B[kb];W[jc];B[hc])
+(;W[lb];B[ib]))
+(;W[kf];B[od];W[lc]
+(;B[om])
+(;B[kn])
+(;B[hc]))))
+(;B[pm];W[om];B[on];W[nm];B[nk];W[ol];B[oh];W[oi];B[ni]))
+(;B[pj];W[oj];B[oi]C[divide and connect]
+(;W[qj];B[pi];W[oh];B[ni]C[This looks nice])
+(;W[pi];B[qj];W[oh];B[ni];W[nh];B[mi])))
+(;B[nd];W[md];B[oc];W[mc];B[fc]))
+(;B[gi]C[Better to jump to the center])
+(;B[ce];W[cd];B[bf];W[bd];B[bh]C[It is almost alive]))
+(;W[gd])
+(;W[fd]C[I would saved here]))
+(;B[eg]C[This jump is better, because it looks at the upper side]
+))
+(;B[ao]C[Better way];W[bn];B[bd]))
+(;B[co]C[I think this is possible];W[bp];B[bn];W[cp];B[dp];W[dq]
+;B[do];W[bq];B[ep];W[fp];B[fo];W[en];B[fq];W[gp];B[cr];W[fr]
+;B[er];W[gq];B[dr];W[fq];B[br])
+(;B[er];W[fr];B[dr];W[fq];B[co];W[bp];B[bn];W[cp];B[dp];W[dq]
+;B[bq];W[do];B[ao];W[ep];B[ap];W[dp];B[br]))
+(;W[ce]C[Two stone are under attack]))
+(;B[bd])
+(;B[fd])
+(;B[dp]C[You can probe here.];W[ep];B[cn]
+(;W[dm];B[dq])
+(;W[cm];B[dq];W[co];B[er];W[fr];B[dr]
+(;W[do];B[cp]LB[gr:A]C[Alive because you have aji in A];W[bo]
+;B[bp];W[br];B[gr])
+(;W[gq];B[do];W[dn];B[cp];W[bn];B[bp]C[carpenter's square with a liberty is alive]
+))))
+(;W[ne]C[This is more effective.]))

@@ -1,0 +1,100 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+PB[Altos]
+BR[4k]
+PW[kus1318]
+WR[3k]
+KM[0.5]
+DT[2008-08-17]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[B+3.50]
+TM[1500]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+C[yoyoma:  Hi, hope you find my comments useful.  You mentioned not knowing joseki, and indeed the first corner is not correct.  You can find many josekis for free at http://eidogo.com.]
+;B[pd];W[cd];B[pq];W[dp];B[ed];W[hd]LB[cc:A][ef:C][dg:B]C[A is not normal.  There are many josekis here, I showed a couple examples.  
+
+With B black typically ends up taking the corner.
+
+With C black aims to counter attack white H16.]
+(;B[cc]C[Not normal.];W[bc]
+(;B[dd]TR[dc]C[Black should drawback to the marked point instead.]
+;W[ce];B[cb]C[Adding another move here is painful.];W[bb];B[gc]
+TR[hd]C[And now this move shows why going to C17 in the first place is bad.  The marked White stone is perfectly placed to prevent black forming a good base here.]
+;W[hc];B[gb];W[kc]
+(;B[fq]C[See variation also.];W[cm];B[jp];W[mq]
+(;B[po]C[A patient move, but I would prefer to put more direct pressure on the white stone.]
+;W[qj];B[jq];W[mo];B[ql];W[qg]LB[mc:B][qe:A]C[I think B is better than A.  Both moves help Q16, and both put pressure on a white group.  But B feels faster, covering more ground.]
+
+(;B[qe]TR[mc];W[nc]C[Now for black to defend the corner a second time, he gets a very cramped result.]
+;B[pb];W[nl]
+(;B[dr]C[Overall on the board white has more weak groups than black.  So I think locally black would rather invade 3-3 here.  However I would wait longer to see what happens, instead the right side seems urgent.]
+;W[cq]
+(;B[pg]LB[qj:A][mo:B]C[Ok now black plays on the right, however this is the wrong direction.
+
+White has two weak groups, A and B, so black should be looking to split them.  That's why Q13 is coming from the wrong side.  See variations for a couple ideas.  It's difficult and I don't know which is best.]
+;W[ph];B[og];W[rh];B[ch];W[cj];B[dj];W[ck]
+(;B[di]TR[dj][ck]C[Since white answered your forcing move slow/solid, it's not important to save.]
+;W[dg];B[bf];W[cf];B[bg];W[be]
+(;B[ae]C[Black steals white's eyes, but it's gote.  Then white gets to move on the outside first.  I would move on the outside first.]
+;W[ad];B[af]
+(;W[bi]C[Now it's white's turn to take the eyes in gote.  In this case it's worse because black can't even make 2 eyes locally.]
+;B[fg];W[dh];B[ci];W[ff];B[gf];W[fh];B[cg]C[I don't see why black makes this trade.  Seems bad.]
+;W[ef]C[Now G14 and G17 can be cut much easier.];B[gh];W[ei]
+;B[fi];W[ej];B[dk];W[eh];B[cl];W[bl];B[dl];W[fj];B[gi];W[bn]
+;B[fl];W[gk];B[gl];W[hk];B[gd];W[hg];B[he];W[gg];B[je];W[jd]
+;B[hf];W[ke];B[ig];W[hh];B[ih];W[hi];B[ii];W[gj]
+(;B[jf]C[Not important enough.  Defend bottom.]
+(;W[fo]C[White should probably lean more directly on the group below.]
+;B[fn];W[fp];B[gq];W[ho];B[hn];W[in];B[go];W[gp];B[gn];W[hq]
+;B[hr];W[hp];B[ir];W[em];B[dm];W[en];B[cn];W[bm];B[dn];W[do]
+;B[el];W[im];B[co];W[bo];B[cp];W[bp];B[dq];W[jo];B[bq];W[qm]
+;B[qn];W[rm];B[pm];W[rl];B[pl];W[rn];B[ro];W[ib];B[na];W[mb]
+;B[oa]C[?];W[se];B[rd];W[pr];B[qr];W[oq];B[or];W[pp];B[qq];W[op]
+;B[qp];W[nr];B[ps];W[ne];B[sd];W[aq];B[br];W[jj];B[oh];W[on]
+;B[pn];W[pi];B[hl];W[il];B[kf];W[le];B[lj];W[ki];B[mi];W[ni]
+;B[mh];W[ll];B[kk];W[kl];B[oo];W[no];B[jk];W[ij];B[jl];W[jm]
+;B[om];W[nm];B[nn];W[kp];B[kq];W[lp];B[mn];W[ln];B[mm];W[ml]
+;B[sn];W[rk];B[ma];W[lb];B[la];W[ka];B[ar];W[ap];B[lr];W[nh]
+;B[ng];W[lg];B[mg];W[lf];B[fe];W[ob];B[rf];W[qf];B[pf];W[pc]
+;B[qc];W[oc];B[qb];W[rg];B[sf];W[oe];B[pe];W[ca];B[db];W[eq]
+;B[er];W[ep];B[fm];W[ha];B[ga];W[ie];B[hb];W[id];B[if];W[da]
+;B[ea];W[ba];B[eb];W[ns];B[ia];W[jb];B[od];W[nd];B[mf];W[de]
+;B[me];W[md];B[ls];W[pk];B[nj];W[oi];B[eo];W[en];B[ip];W[io]
+;B[os];W[sm];B[so];W[sg];B[re];W[oj];B[kj];W[ji];B[lm];W[km]
+;B[on];W[nk];B[mj];W[mr];B[bh];W[bj];B[ai];W[aj];B[ah];W[ol]
+;B[em];W[lq];B[kr];W[eo];B[ik];W[kh];B[kg];W[jh];B[lh];W[nb]
+;B[pa];W[hj];B[hm];W[ja];B[ha];W[jg];B[ge];W[tt];B[tt]TW[aa]
+[ab][kb][ac][ic][jc][lc][mc][bd][kd][ld][df][eg][fg][gh][qh]
+[sh][fi][gi][qi][ri][si][pj][rj][sj][ak][bk][ok][sk][al][sl]
+[am][an][jn][kn][ao][ko][lo][mp][np][nq]TB[fa][qa][ra][sa][fb]
+[rb][sb][dc][ec][fc][rc][sc][fd][qd][se][ag][gm][rp][sp][cq]
+[rq][sq][cr][fr][gr][jr][pr][rr][sr][as][bs][cs][ds][es][fs]
+[gs][hs][is][js][ks][qs][rs][ss])
+(;W[fp]))
+(;B[fo]))
+(;W[fg];B[bi];W[bj];B[ah];W[ci];B[dh];W[cg]C[Locally only 1 eye, unless black allows D11 to be cut.]
+))
+(;B[fh];W[ad]C[If white lives in gote usually you can be satisfied.]
+;B[ba];W[ab]))
+(;B[eg]C[It's better to go out and connect your stones.  The white group is in some danger now.]
+;W[as];B[bf];W[be];B[ba];W[ad];B[ab]))
+(;B[pj]C[Same idea as the game but from the other side.];W[pi]
+;B[oj];W[qk];B[pl];W[pk];B[ok];W[ol];B[oi];W[ph];B[mj];W[ll]
+;B[kj])
+(;B[pk];W[pj];B[ok])
+(;B[nm]C[A more violent attempt.];W[mm];B[ml];W[om];B[nn];W[mn]
+;B[on];W[ll];B[mk];W[lk];B[mj]))
+(;B[cq];W[dq];B[dr];W[er];B[cr];W[eq];B[bo];W[co];B[bn];W[cn]
+;B[fo]))
+(;B[mc]C[This should be better.];W[rd];B[qc]C[If white doesn't defend, later black can cut S16.]
+;W[tt];B[rf];W[qf];B[re];W[qe];B[qd]))
+(;B[kq]C[This might be better.  Especially if white runs then you can follow.]
+;W[mo];B[pn]))
+(;B[mc]C[This seems like a nice point to play even though it's a narrow area it puts pressure on the white group.  Probably the game move is ok too though.]
+))
+(;B[dc]))
+(;B[dg];W[ee];B[fe];W[ef];B[dd];W[cf];B[cc];W[ce];B[ff];W[eg]
+;B[bc];W[dj];B[fc])
+(;B[ef];W[cg];B[eh];W[di];B[kd]))

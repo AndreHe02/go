@@ -1,0 +1,331 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.16]
+
+PB[Dangelygo]
+BR[7k]
+PW[adomasu]
+WR[7k]
+KM[6.5]
+DT[2015-12-06]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[B+Resign]
+TM[1800]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+;B[pd]C[Hello dear reviewer,
+Thank you very much for looking at my game and pointing out my mistakes.
+In this game I overextended making a lot of places for my opponent to invade, hoping I could attack the invasions. However, as happens so often, the invasions started to attack my walls. In the big fight following from this I think I made one mistake which lost me the game, however I want to avoid situations like those in principle and that means I need to change my opening as well. In particular I have huge trouble with the 2-space high pincer. In this game the joseki chosen was very strange, but I'm still not sure if it was a reasonable result for me.
+Please try to correct my thoughts which my moves were based on, that I tried to express in the comments. Please also focus on principles as well as simple moves and shapes as opposed to difficult and long variations. Hope you find the game interesting and looking forward to your reply.
+
+Hello!
+
+My name is Jared, and I'll be reviewing your game!
+I'll leave my comments with a "J:"  I'm going to try my best to make my comments flow with the variations.  At each branching point, try to follow along by reading comments along the entire branch before going down to the next one (I hope that makes sense!)
+I tried to focus on shapes, but there are also some long patterns that are worth familiarizing yourself with (for example, check out the shoulder hit after W64).
+
+First of all, congratulate yourself on sending in a game for review!  It's scary to have someone critique your play, but it's a very good way to get better.
+
+Ok, so having looked through your game, I've left as many comments and ideas as I can.  I also point three major mistakes (which you have also noticed):
+Move 18 - Direction
+Move 48 - Misjudgment of strength
+Move 90 - Reading (White could live)
+
+Here are some more general things to think about.
+
+1.  Be patient.
+    You show some signs of being impatient.  Don't take this the wrong way: it's just that you're trying to play everywhere and save all your stones.  This is a big reason you ended up with two weak groups.  Take your time, especially in the opening.  Be confident that if you stake out strong positions in the opening, you will be able to fight to your fullest in the middle game.  A big problem in this game was that your opponent's groups were stronger in every skirmish.
+
+2.  Be detached.
+    When you place a stone, it should serve some purpose.  If that purpose has been served, or if the opportunity is gone, then consider letting it go.  Just because a stone is captured does not mean it has gone to waste.  When you sacrifice a stone, sacrifice it in the best way possible: to get thickness, to invade/reduce, or to expand your territory.
+
+3.  Fight back.
+    Instead of just connecting against a peep, look for a more active way to defend.  Can you reverse the attack?  Any way you can, try to confound your opponent's intentions.  Get creative.
+
+I don't know if you're into Go books, but a good way to improve is doing lots of life-and-death problems.  For you specifically, I would also recommend Richard Bozulich's The Basics of Go Strategy.  It's Volume 5 in Mastering the Basics series (http://www.kiseido.com/go_books.htm).  It covers a lot of opening and middlegame principles (and problems) that I think would help you.]
+;W[dp];B[pq];W[po]C[I felt fancy here. As black I would just take the empty 4-4 corner, which is what I usually do as white too.
+
+J: Seems reasonable!  Modern go theory points out that white doesn't have as much of an incentive to play this hastily because of komi these days, but it's MORE IMPORTANT to try things and see what works for you!]
+;B[pl]LB[mp:A][np:B]C[Really hate playing against this pincer. I've never won a game where this occured.
+
+J: It can sure get complicated.  I'll discuss some of the josekis I know about.]
+
+(;W[dd]LB[np:A]C[So I just take the empty corner instead to see what black does.
+
+J: I'm a little hesitant about this move.  If you wanted the corner, why not play it first?  Playing in black's corner and then leaving it is asking him to attack.  If I were black, I would play A and see how white handles the situation.  If white tries to save it, black will build territory in the corner and thickness on the top.  If white abandons it, then black gets a big territory, and white wasted a move.  No matter what happens, black will get a good result.]
+
+(;B[fq]C[black ignores the corner too and I decide it's time to come back there.]
+;W[oq]LB[oo:C][op:B][pp:A]C[I was really afraid of playing N4 here and I believe this is the main alternative? I wonder what the most simple joseki from here would be.
+
+J: This is the beginning of the infamous "Magic Sword" joseki (If play continues with black A, white B, black cuts with C.  See http://senseis.xmp.net/?MagicSword).    It's known for having long, difficult variations, and is avoided by most players for fearing of reading inaccurately.  I have rarely (maybe two or three times?) seen it in my own games.]
+;B[qo]LB[qn:A][qp:B]C[Now that's unusual. No idea what to do here. I try to get a wall, which is probably already a very risky decision because of f3.
+
+J: I feel like this has the potential to become very complicated.  I've played out a couple ideas, and I think what you came up with is fine, given that white has a numbers disadvantage in this corner.
+
+The branches starting with W10 don't have any comments... it's just me playing around.]
+
+(;W[pp];B[qp];W[pr];B[qq]
+(;W[ip]LB[op:A][mq:B]TR[po][pp][oq][pr]C[this is probably too loose. My shape on the right is too weak to do something like this.
+
+J: You know, I think it's ok.  Let's talk about handling the situation in the bottom right, though.
+
+Don't get too attached to your stones!  See variations at A and B.
+The theme is: black is going to attack.  Let him, but let the attack just bounce off you, release some of your stones, and strengthen the others.
+
+I would like to point out that the triangled stones are NOT a wall.  They are NOT thickness.
+At this point they should still be considered light, and when handling them, you have the option of discarding some or even ALL of them.]
+
+(;B[cq]C[I didn't think black would do this. Double approach might be better.
+
+J: A matter of taste, I suppose.];W[dq]
+(;B[dr]LB[dj:C][cp:A][er:B]C[Here I become afraid of blocking and turn instead hoping to seal black off from the right and secure my weak wall there.
+
+J: This seems strange for black.
+
+But I think responding at A is a mistake.
+
+Let's talk whole-board strategy for a second.  What's your goal?  Blocking at A seems kind of inconsistent with the exchanges in the lower right.
+
+If you already had a stone at C, for example, blocking at A might make more sense.  As it stands, however, I think B is the most prudent choice.]
+
+(;W[cp]C[J: Let us call this Mistake #1];B[cr]C[strange move. Joseki is B b2 W b3, I believe.
+
+J: True.  Unfortunately, the result of this exchange in the corner has made the bottom very undesirable.  Neither side will get very much territory, and unfortunately, white has some loose shapes that can be attacked.  Regardless, I believe it shouldn't be too hard for white to handle his stones here.]
+
+(;W[gq]LB[dm:A][fp:B][eq:C]TR[cp][dp][dq]C[this might not be a good idea but I want to secure that area hoping black can't resist strongly because he doesn't have eyes yet.
+
+J: Hmm... Typically attaching strengthens your opponent.  I would be a bit wary of your group on the left now.  If black breaks through and gets a stone at A, it could be dangerous.
+
+I like B or C for black next.]
+(;B[gr];W[fr]C[I thought about this move a bit and decided that if I'm happy just getting h2 in sente (which I was) then this is possible. It turns out that black could have punished me.]
+
+(;B[er]C[But black plays passively.];W[hr];B[fs];W[pn]LB[dm:A]
+C[I decided again that the left side consisting of 3 stones is allright for now and turn to this side, where black's hane seems very severe.
+
+J: Usually, this move would be sente (black should connect), but under the circumstances, black has a very good attack at A, so the left side is more urgent.]
+
+(;B[qr]C[this I thought was slow. But I should have resonded locally for sure. It's to dangerous to leave it like this.
+
+J: Extraordinarily slow.]
+(;W[cl]LB[qn:A][lp:B]C[I make a base for my 3 stones instead. Black could probably even invade the bottom right now.
+
+J: Honestly, I think this is ok.  Don't worry too much about the bottom.  If black plays B, white A eats into his territory.  If black A, white B stabilizes the whole group.]
+;B[jc]
+(;W[qf]C[This is an overplay and I should secure the bottom.
+
+J: I disagree.  I think it's a good move.];B[qh];W[qc];B[qd]
+;W[pc];B[od];W[rd];B[re];W[rc];B[qe];W[nc];B[fc]
+(;W[df];B[db];W[cc];B[pf]LB[hc:A]C[Slow move by black. I should REALLY go back and secure the bottom now. I think the correct shape is M4. Nevertheless in the game I think that an invasion there wouldn't be able to attack me severely and just result in a running fight, so I get very greedy and play a slow move on the left side. This is the second biggest mistake in the game, I think.
+
+J: I agree.  Black has been playing very slow in this game.  Solid, yes.  But there are ways to capitalize on excessively solid play.  White A will be a headache for black.]
+;W[di]LB[cf:B][df:A]C[J: If A were at B, white would not need to play one more move here.]
+;B[kp]
+(;W[jq]TR[ip][gq][hr]C[Bad move by me. I should worry more about running into the center. Playing from the weaker side first this seems plausible because it has potential for connecting but that wouldn't work.
+
+J: Ouch, yes.  Mistake #2.  This move encourages black to strengthen his stone.  In a larger sense, though, it's not big enough to try to save the triangle stones.
+
+Also, with regard to your comment in the introduction: "However, as happens so often, the invasions started to attack my walls."  I'm getting the impression that you like attacking (me too), so I thought about this position for a while, and here are my thoughts.
+
+**If your walls are coming under attack, something has gone terribly wrong**
+
+Here are two things to consider (related to the idea of thickness):
+1.  An eyeless wall of stones MUST have a base.
+2.  A wall rich in eyeshape MUST have zero weaknesses.
+
+If you adhere to these principles, you should find yourself able to use your walls to attack much forcefully.]
+;B[kq];W[mo]C[Now I try to strengthen the right side. This might not be the correct shape to do so, but I still hope to attack black at the same time. That's unfortunately not possible.]
+;B[kn]TR[ip][gq][jq][hr]C[J: How worth it is it to save all of the triangled stones?]
+
+(;W[in]C[Now I get the feeling that I need to strengthen that side. It seems I made 2 weak groups like this, not fixing against an invasion between two weak positions.
+
+J: Yup.  Two weak groups.  It's possible to play (and attack) with ONE weak group (and that's why black succeeds), but please never try with two.]
+;B[jo]C[Is this a good move by black? It was black who played all the peeps in the center. Maybe I should have not responded to a few of those or played them first?
+
+J: Seems good for black.  White is burdened with two eyeless groups and black is building eyeshape and strength in the center.]
+
+(;W[io];B[np]C[Is this a good move? I don't think connecting is an option for me so I decide to sacrifice the Q4 group if I get to attack black's center group in exchange.
+
+J: Great move for black.  White is in dire straits now.]
+(;W[nq];B[mp];W[mq]C[maybe black shouldn't go for it and connect in order to attack all of my stones there.]
+
+(;B[op]C[Black decides to cut though.];W[lp];B[lo];W[lq];B[no]
+
+(;W[mn];B[nn];W[mm];B[nm];W[ml]C[Not sure if I can afford to extend here. I think black should try to kill the bottom now.]
+
+(;B[ol]C[Slow move by black which still leaves O8 as a forcing move for me.]
+;W[kr]C[now the bottom is safe.]
+(;B[kl]TR[ml][mm][mn][mo]C[Maybe I should peep here or even wedge?
+
+J: Kind of tough to decide.  Being burdened with the four stones in the middle is pretty unfortunate, however...]
+
+(;W[mj];B[lk]C[black again takes all the peeps.]
+(;W[mk];B[ki]C[and is trying to kill me, which looks very possible.]
+
+(;W[mh];B[li]C[Again taking ALL the peeps...]
+(;W[mi]
+(;B[km]C[Not sure if black needs this move.
+
+J: Probably.];W[oj]C[This is probably a bad move because black gets a chance to seal me in and I can't make 2 eyes in one move in the area.]
+;B[qj]C[but black responds.
+
+J: Certainly, white cannot play away from his center group at this point.]
+
+(;W[nd]C[probably a bad move. There are more efficient ways to try a connection and get eyes in exchange for not connecting.
+
+J: Yes, this is very dangerous.];B[mf]C[J: Oh dear.];W[lg]C[trying to lean on black's group although black can probably allow a capturing race in any case.]
+;B[jg]LB[jh:A]C[which means he might not have to play this.
+
+J: For the record, this is excellent attacking by black.  He should be careful about the cut at A, though...  His center group still does not have eyes.]
+;W[nf]C[I had aimed at this move with M13 but it doesn't seem to work after all.]
+;B[me];W[ne];B[ng]C[and here I might be simply dead. The best try might be in the variation.]
+
+(;W[og]C[This is a big mistake.
+
+J: Yes, white could have lived.  Mistake #3.];B[mg]C[J: Unfortunately, after this, I can't find a way for white to get out]
+;W[pg]C[I thought this fancy move would allow me to either connect or make 2 eyes but that is not the case.]
+;B[qg];W[nh];B[of];W[nl];B[pm];W[pi];B[ph]
+(;W[oh]C[I realized that I was locally dead and HAD to kill N14. I went for the variation from before, but I think I made a fatal mistake.]
+;B[qi];W[ke];B[ld];W[kd];B[lc];W[kc];B[kb]C[Now I have to make the M15-N16 exchange. I did not do that and black killed me.]
+
+(;W[jb];B[kf];W[lf];B[le];W[lb]C[I resign. Thank you for reviewing my game. Please tell me how I can avoid getting into unfavourable fights like this. Up until now I was assuming that a 4th line invasion isn't severe in terms of a deadly attack and either way an invasion is what gets attacked and not the walls around it, but that impression of mine seems wrong, which probably means I overestimate thickness and especially overestimate the strength of groups that look like walls.I only try to build it when forced by my opponent (which is often enaugh), but apparantly don't secure them enaugh.
+
+J: Stake out stronger positions in the opening to attack harder later.  This might seem counterintuitive, because it means playing "slower" in the opening.  You like to both play fast and attack aggressively, which sort of seems like a paradox.
+
+A 4th invasion usually isn't as deadly, but didn't you force him to the 3rd line?  Go back and look.
+
+Walls can (and do) certainly get attacked if they don't have a base or eyeshape.  Your wall did not yet count as thickness.  True thickness has eyeshape and no weaknesses.  The point of thickness is that you absolutely do NOT need to spend any moves to strengthen it or ensure life.]
+)
+(;W[le];B[md];W[jb];B[lf]C[J: And if black cuts...?];W[kf];B[kg]
+;W[lh];B[lb]C[J: What now?]))
+(;W[ok];B[oh];W[nj];B[oi]))
+(;W[mg];B[og]
+(;W[ke];B[ld];W[kd];B[lc];W[kc];B[kb];W[jb]C[This should mean I kill the M16 group and thus get to live with the whole thing.]
+;B[oc];W[ob]
+(;B[nb];W[mb];B[pb];W[na];B[lb];W[ic]C[ladder.];B[jd])
+(;B[mb]C[J: if black plays here?]))
+(;W[ld]C[J: How about this?  White seems ahead to me.])))
+(;W[mf];B[nd];W[mc];B[md];W[kg]C[J: Although white is floundering here, this may be a better option.]
+))
+(;B[mf];W[km];B[jm];W[lm];B[jn];W[jl];B[il];W[jk];B[ik];W[jj]
+C[J: Dangerous for black.]))
+(;W[nl];B[om];W[oh]C[J: How about this?]))
+(;W[km];B[jm];W[lm];B[jn];W[jl];B[im];W[kk];B[jk];W[ll];B[il]
+;W[jj];B[kl];W[kj]C[J: Now white is alive and black is under attack.]
+))
+(;W[nl];B[om];W[oj]C[J: It's an option.]))
+(;W[km];B[jm];W[lm];B[jn];W[jl];B[im];W[kk]C[J: White could fight like this.]
+))
+(;B[jr]C[White is connected, as this variation shows.];W[jp]
+;B[ko]
+(;W[ir];B[lr];W[js];B[mr];W[nr];B[ns]C[J: And if black plays here?]
+)
+(;W[ls];B[ir];W[hs];B[hq];W[iq];B[gp];W[js];B[kl]C[leaving both in a difficult fight, which black probably still wins.]
+)))
+(;B[kr]C[White is dead and black is safe. White's stick in the middle will fall under attack.
+
+J: Yup.  But we've seen that black has been playing excessively safe today.]
+;W[ge]C[J:];B[hd];W[km]C[J: What if white can expand the center...?  Is the game still over?]
+))
+(;W[kr]LB[mn:A]C[J: What if you just connect here now?  Black will almost certainly take gote by capturing at A.]
+;B[mn];W[pi]C[J: Then white can reduce with the shoulder hit.]
+;B[qi];W[pj];B[ph];W[ni];B[oh];W[mk]LB[oi:A][nj:C][oj:B]C[J: This can be thought of as a mid-game joseki.  If black pushes and cuts with black A, white B, black C...]
+;B[oi];W[oj];B[nj]
+(;W[mj]C[J: White sacrifices three stones and puts black back in potential danger.]
+;B[nk];W[nl];B[ok];W[om]C[J: White has reduced enough of black's potential to stay in the game.]
+)
+(;W[nk]C[J: White can also try cutting here])))
+(;B[lp];W[op];B[mm]C[This should be better for black than the game, in face it looks like game over.]
+;W[lr];B[kr];W[os];B[nr]))
+(;W[op];B[no];W[om];B[nk];W[mm];B[kl]C[J: Guh.])
+(;W[mp]C[J: ...though if you're planning to sacrifice Q4 and attack, how about here?]
+;B[nq];W[mq];B[or];W[nr];B[op];W[lr];B[kr];W[mm]C[J: Different game.]
+))
+(;W[gn]C[J: An option?]))
+(;W[jo];B[ko];W[im]C[J: here's one idea, but...];B[mm]C[J: Ack.]
+))
+(;W[in];B[np]C[I wonder what would happen here though. Seems pretty bad.]
+)
+(;W[qn]LB[hc:B][qj:A]C[J: I think it's time to turn here.  White can aim at A next.  Given white's gigantic territory on the left, black's weakness at B, and the huge loss of territory on the right, white would be ahead.]
+)
+(;W[np]LB[qn:A]C[J: If you really must play on the bottom, play here.  This stabilizes your group, leaves A as an option, and attacking the lone black stone as a secondary option.]
+)
+(;W[kq]C[J: What about this?];B[lq];W[lp];B[jq];W[kr];B[jp]
+;W[mp];B[jr];W[lr];B[io];W[qn]C[J: It's a different game])
+(;AE[gq][hr]LB[jq:A]C[J: In this variation, I've removed two white stones.  Is it more clear how dangerous it is to play at A?  Much better to let the J4 stone go, and concentrate on saving the group on the right.]
+))
+(;W[hc]LB[qn:A]C[J: Here's a way white can grab sente to come back and play A.  At this point, A is HUGE because of how much territory black stands to lose.]
+;B[fe];W[df];B[id];W[qn])
+(;W[cf]LB[hc:A]C[J: White can also try to get sente by playing here.  Black still needs to fix the weakness at A.]
+)
+(;W[qn]C[J: I also wondered about this.];B[cf];W[ee];B[cc];W[cd]
+;B[dc];W[gd];B[gc];W[hd];B[hc];W[qj]C[It's a different game]
+))
+(;W[qj]C[J: Here's another idea for invading the right side.]
+;B[rm];W[qf];B[qh];W[of];B[nd];W[pi]))
+(;W[lp];B[or];W[nr];B[ps];W[nq];B[hq];W[iq];B[gp];W[cl]))
+(;B[dm]C[J: Does white run away now?  It will only help black.]
+))
+(;B[hq]
+(;W[gp]
+(;B[hr]
+(;W[er];B[fp];W[fo];B[go];W[hp];B[eo];W[fn];B[ep]
+(;W[en];B[do];W[co]C[This gets complicated and I'm not sure I read it correctly. Basically I just assumed I'm fine around here.]
+;B[dn];W[dm];B[cn];W[bn];B[cm];W[cl];B[bm];W[bl];B[bo];W[bp]
+;B[an];W[eq];B[ap]
+(;W[al])
+(;W[bq];B[br];W[aq];B[ar];W[ao]C[Guess it's actually ko?];B[em]
+;W[dl];B[ap]C[and white loses the ko.]))
+(;W[dn]C[How about this?]))
+(;W[fp]C[J: Why not just capture?]))
+(;B[er];W[hr];B[fs];W[iq];B[ir];W[hs]C[this was my plan.]))
+(;W[eq];B[gp];W[er]C[J: Kill the corner?])))
+(;B[eq])
+(;B[fp]C[J: This is a bit dangerous because of white's E2, but it's probably ok.]
+))
+(;W[cl]LB[dl:A]C[How about playing here now?  (or A)]))
+(;W[er];B[cr];W[eq]C[I wonder what black would do here.];B[bo]
+C[This is probably good for black. The f3 stone has a lot of aji and my bottom is easily invadable.
+
+J: I'm actually going to disagree.  I think if black wanted the corner like this, he should've chosen the variation where he extends at C4. (See variation at move 17).]
+
+(;W[fp];B[kq])
+(;W[np]C[J: How about this?])))
+(;B[cp];W[do];B[dr];W[er];B[cr];W[eq];B[cn]C[J: This is more usual.]
+))
+(;B[op];W[np];B[oo];W[no];B[pn];W[nq];B[cq];W[dq];B[cp];W[do]
+;B[dr];W[er];B[cr];W[eq];B[cn]C[J: How's this look to you?  As long as you reduce the top right, I think this might be playable for white.]
+)
+(;B[mq];W[mo];B[np];W[no];B[op];W[pn];B[qn];W[lq];B[lr];W[mp]
+;B[nq];W[kq]))
+(;W[np]C[J: If you want to fix the shape, this would be nice.]
+))
+(;W[qn]
+(;B[pp]
+(;W[op];B[pn];W[oo];B[ro])
+(;W[ro];B[qp]
+(;W[pn];B[op];W[ql])
+(;W[op];B[pn];W[oo];B[qm])))
+(;B[qp];W[pn]
+(;B[or];W[pp];B[qr];W[nq])
+(;B[pp];W[op];B[no];W[oo];B[or];W[nr];B[pr];W[nq];B[iq])))
+(;W[qp];B[pp];W[qn];B[ro];W[op];B[pn];W[oo];B[qq];W[rn];B[rp]
+;W[pm];B[on];W[om];B[nn];W[ql];B[mp];W[mq]
+(;B[lq];W[mo];B[no];W[np];B[lp];W[mn])
+(;B[lp];W[lq];B[or];W[nr];B[pr];W[kp];B[nm];W[ol])))
+(;AE[pl][po]LB[pl:A][po:B]C[J: Suppose you took the corner initially.
+
+If black now plays A, would you be inclined to play B?]))
+(;W[np]C[This was tried for a while...];B[oo];W[op];B[pp];W[on]
+;B[qo];W[no];B[qn]TR[np]C[...but it was decided that it is unfavorable for white because of the inefficiency of the marked stone.]
+)
+(;W[mp]C[This is the modern variation.];B[oo]
+(;W[op]C[If white tries this again...];B[pp];W[on]
+(;B[qo];W[no];B[qn]TR[mp]C[The marked stone is better placed than with the small knight's move.
+
+However, black will not play like this...])
+(;B[no]C[Black should extend here...];W[np];B[qo];W[pn];B[qn]
+;W[mn]C[Good for black.]))
+(;W[on]C[Consequently, white should hane on this side.];B[no]
+;W[pp];B[nq];W[qq];B[oq];W[nn];B[mo];W[rp]LB[pn:A]C[Here's one variation.  Notice how the marked stone protects the cut at A.]
+))
+(;W[no]C[J: This is an option for playing simply, although I can't recommend it because of black's stone in the upper right.]
+))

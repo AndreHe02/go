@@ -1,0 +1,127 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+GN[normal]
+PB[tonykmk]
+BR[10k]
+PW[whqianlong]
+WR[10k]
+KM[6.5]
+DT[2008-10-18]
+RE[W+Resign]
+RU[Japanese]
+
+C[This is Tony 10k on "Go city". Thanks for your review. I would like to know:
+1.Game start of the top area. I think it's bad, but how?
+2.The fighting of right area. Have I any chance to capture all white stones.
+
+Hi, I'm Dave and I will be reviewing this game.
+
+1.  I think Black's troubles start with his choice of opening.  Move 5 seemed of less value than other choices.]
+;B[qd];W[dp];B[pq];W[dd]LB[fc:A][oc:B]C[On this board, according to Yilun Yang (7p), enclosing  3-4 corner stone (B) is a much higher ranking move than approaching a 4x4 stone (A).  He ranks opening moves as follows (I have quoted only the relevant parts of the rankings):
+First Class: play in an empty corner
+Second Class (1): Enclose or approach a 3-4, 5-3, or 5-4 point stone
+...
+Third Class (4): Approach a corner with a 4-4 stone. 
+I'm quoting from his book Fundamental Principles of Go 2004.
+This is not to say that A is a bad move, but B is the simpler, and more valuable move in theory. For me, I feel like A is a 70% move.  consider how B not only encloses a corner, but also has great follow ups.  See variation.]
+
+(;B[fc];W[oc]LB[lc:A][cf:B]C[P17 is a little unusual.  F17 approaches white's 4x4 stone, but white has tenukied.  This is usually reserved for a special strategy.  
+
+For me, as black, I would prefer punishing white's choice to ignore the approach.  The purpose of the 4x4 stone is to build influence; black can severely reduce that potential development now by a second approach...see variation.]
+
+(;B[lc]C[black is inviting a splitting move here.  Not necessarily bad, but black has to be prepared to fight.]
+;W[pe];B[qe];W[pf];B[qg];W[pg];B[qh];W[ic]LB[db:B][le:A]
+(;B[le];W[ie]LB[db:B][fe:A]
+(;B[fe];W[ec];B[fb]C[white is taking profit, while black is having to respond in gote]
+;W[ee]LB[hd:A][gf:B]
+(;B[hd]LB[fc:A][ic:C][lc:B]C[This peep is sente, but doesn't help the A group run out.  It strengthens the white C group, and in so doing, hurts black's own B group.]
+;W[id];B[ff]C[black is wise to spend a move to help this group, but the other weak group is now in danger.]
+;W[ef]LB[eg:A][lg:B]
+(;B[eg];W[dg];B[dh];W[cg];B[fh]LB[ce:A]C[locally, this was very nice for white - big corner that is almost settled.  and white can push out along the side at C12.]
+;W[gd]C[this move has very little purpose];B[fd];W[he]LB[hc:A]
+[lg:B]C[likewise, H16 is not an important stone.  It does not connect two weak black groups; it does not cut any white groups; allowing it to be captured would give white 2 points.]
+
+(;B[hc];W[gg];B[fg];W[hb]LB[gc:A][lg:B]C[again, these two stones are worth very little on this board.]
+
+(;B[gc];W[ge]LB[lg:B][ph:A]
+(;B[ph]C[this move is harming the M15 group];W[ng];B[lg];W[oh]
+LB[li:B][oi:A]
+(;B[oi]C[again, black is pushing white to black's weak group. Not good.]
+;W[ni];B[mh];W[oj];B[pi];W[nh];B[pj];W[kf];B[lf];W[kb]LB[lb:A]
+[lj:B]
+(;B[lb];W[ig]LB[pd:A][lj:B]
+(;B[pd]C[This move helps white more than black];W[od]LB[ne:A]
+[lj:B]
+(;B[ne]TR[ni]C[wasted move. I remember a proverb I learned from a 4d that I'm not sure the source of, but:
+"Don't go for the eyes until you have hold of the neck."
+
+The "neck" here is the marked stone.  White is out and not surrounded.]
+;W[md];B[me];W[oe];B[ld];W[jb]LB[lj:B][mj:A]
+(;B[mj];W[nj]TR[mi]C[now, sooner or later, black has to come back and fix the weakness at N11]
+;B[ol];W[nl];B[mk];W[nk];B[om];W[ml];B[kk];W[ll];B[jj];W[ch]
+LB[di:B][dj:A]
+(;B[dj];W[di];B[ei];W[ci]TR[ej]C[I am very uncomfortable with leaving this cut here]
+;B[mn];W[nn];B[nm];W[no]LB[kl:A][mo:B]
+(;B[kl]C[inviting a cut];W[pk];B[ok];W[qk]LB[pb:C][mm:B][qm:A]
+
+(;B[qm]LB[pb:a];W[qf];B[rf];W[re];B[sg];W[rd]LB[qj:B][rj:C]
+[jp:A]C[some experiments exploring responses on the left follow here.
+I think I like C best.]
+(;B[jp];W[ri]LB[rh:B][rl:A]
+(;B[rl];W[rh];B[qj];W[rj])
+(;B[rh];W[rj];B[rl];W[rk];B[ql];W[si];B[sk];W[sh];B[pl];W[se]
+;B[rg];W[rc];B[sl];W[sf];B[sj]C[could get a seki]))
+(;B[qj];W[ri]LB[rh:A][rj:B]
+(;B[rh];W[rj])
+(;B[rj];W[rh];B[rg];W[rk];B[rl];W[sj];B[sl];W[sk];B[ql];W[si]
+;B[pl]))
+(;B[rj]C[I think I like this best.];W[ri];B[rh];W[qj];B[qi]
+))
+(;B[mm])
+(;B[pb]C[or something like this, yes.]))
+(;B[mo];W[mm];B[np];W[pk];B[ok];W[qk];B[qf]LB[pn:A][qn:B]
+(;W[pn];B[on];W[oo];B[po];W[op];B[oq])
+(;W[qn];B[po];W[pn];B[on];W[rp];B[jm])))
+(;B[di];W[ci];B[dj];W[cj]))
+(;B[lj]C[I would rather leave P10 alone then peep at N10.]))
+(;B[lj]C[come out.  This also puts pressure on the white group.  (but white is not in serious danger, still I think he would be wise to respond).]
+))
+(;B[lj]LB[qf:B][ok:A]C[come out]
+(;W[ok];B[pk];W[qf];B[rf];W[rg];B[se])
+(;W[qf];B[rf]LB[re:A][rg:B]
+(;W[re];B[rd];W[rg];B[se];W[rh];B[ri])
+(;W[rg];B[se];W[rh];B[ri];W[ok];B[pk]))))
+(;B[lj]C[black doesn't really have an attack here - better to run out and get the group safe.  M18 allows white to connect, but there isn't really any attack on either white group anyway - both are hmm....]
+))
+(;B[li]C[come out];W[pi];B[qi];W[pj];B[qj];W[pk];B[ql];W[lk]
+;B[ih]))
+(;B[lg]C[come out]))
+(;B[lg]))
+(;B[lg]))
+(;B[lg]))
+(;B[gf]C[perhaps this is better - black's position on the top now looks very hard to me.]
+))
+(;B[db];W[cc];B[fe]))
+(;B[db];W[cc];B[fe];W[df]LB[jd:A][le:B]
+(;B[jd]C[maybe fight like this])
+(;B[le]C[or this])))
+(;B[cf]LB[ee:A][df:B]C[white must respond or face his 4x4 stone being enclosed.]
+
+(;W[ee];B[ic];W[dg];B[cg];W[dh];B[ch];W[di];B[cj]C[black settles on both sides, the corner is still open and white's P17 stone will not be able to develop into much now that black has a stable position on the top.]
+)
+(;W[df]C[attaching on one stone is often used as a "leaning attack," the target is F17]
+;B[dg];W[ef];B[ce];W[cd]LB[gd:B][cj:A]
+(;B[cj];W[ec]LB[fd:B][gd:A]C[But on this board, F17 has 3 ways to run, so there is no effective attack.]
+
+(;B[gd])
+(;B[fd];W[jc]C[white doesn't have a reasonable attack.];B[de]
+;W[ee];B[ed]))
+(;B[gd];W[ec];B[eb];W[fd];B[fb];W[db];B[gf];W[bd]))))
+(;B[oc]C[now black has a shimari that has a good relationship with the Q3 stone.]
+;W[dj]C[if white ignores black's potential...];B[qk]C[he will be able to make an ideal extension from his shimari, and quickly develop a moyo.  
+Notice how this extension from the shimari can also do double-duty by setting up a chinese fuseki arrangement with the Q3 stone.
+
+White would have a difficult time moving into black's sphere of influence now...]
+;W[po]C[If white is plays like this, black can build very quickly.]
+;B[np];W[qq];B[qr];W[qp];B[or];W[qm];B[ok];W[om];B[mk];W[mm]
+;B[iq]))

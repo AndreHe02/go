@@ -1,0 +1,102 @@
+(;FF[4]GM[1]SZ[19]ST[1]CA[UTF-8]AP[SGFC:1.15]
+
+PB[TARAR]
+BR[14k]
+PW[paragoomba]
+WR[13k]
+KM[0.5]
+DT[2008-07-27]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[B+Resign]
+TM[1800]
+
+C[Hey There,
+
+My name's Derek, I'll be reviewing your game. I'm 8k on KGS.]
+;B[pd];W[dq];B[dd];W[qp];B[oq];W[pq];B[op]C[OK so far];W[oo]
+C[First bad move by W.
+
+The move doesn't server any purpose: It doesn't build a base, build territory, establish thickness, or eliminate the opponent's base. It's easily cut, and basically creates a seperate weak group.
+
+Your group in the corner is safe already, so you can either attack the group by threatening it's base, or tenuki and play elsewhere.]
+;B[po];W[qo];B[pp]C[Now the mistake earlier cost you]
+(;W[pn]C[Very weak connection - Easily cut in both directions.
+
+I'd strengthen the corner instead, then play elsewhere.];B[qn]
+C[Ouch #1.]
+(;W[nq]C[Pointless move - Easily cut.
+
+Your groups aren't in a position to attack Black's right now. You have a major cutting point in the lower right, AND a major cutting point at the top. You need to fix your positions before you can attack.
+
+Also, to attack do not attach - You attack by threatening to take away Black's base. The 2 variations illustrate how this would look - ONLY a good move if your group is strong, which it's not.]
+;B[pr];W[qq];B[on];W[no];B[pm]C[You now have two weak groups. Black has very strong influence towards center.]
+
+(;W[nr];B[or];W[qr];B[np]
+(;W[mo]C[The 2 variations shown are strong ways to connect the groups.]
+;B[mp];W[lp]C[Too weak to create cutting points. Very dangerous, will cost you later.]
+;B[mr];W[ns]C[Wasted move. Stones on the bottom are dead.];B[mq]
+
+(;W[qs]C[Wasted move - Corner is already alive.];B[ps];W[nn]
+C[Again, connect. Empty triangle is very bad shape. You have 4 stones with only 3 liberties.]
+;B[nm];W[mm]C[Connect is essential here.];B[lo];W[mn];B[kp]
+;W[lq]C[Read ahead before you move - This move is completely wasted.]
+;B[lr];W[ko];B[kq];W[ln];B[lp];W[nl];B[om];W[ol];B[pl];W[pk]
+;B[qk]TR[kn][ml][ok]MA[ln][mm][mn][mo][nn][no][oo]C[All these cutting points (Triangle) make this group EXTREMELY weak.
+
+The Xed group is also very bad shape.
+
+One big area to improve your game in would be to play in straight lines, and much, much less "curves" (cutting points.)]
+;W[qj];B[pj];W[ok];B[rk];W[pi];B[ml];W[mk];B[ll];W[lm];B[kl]
+;W[km];B[jm];W[jl];B[kn];W[oj];B[md]TR[co]
+(;W[nd]C[No! Unless you have a very good reason, attaching to an enemy stone is generally a bad idea. It only causes him to strengthen, and you have a lone stone in enemy territory.
+
+You also have an unfinished corner. Instead of trying to invade B's relatively strong area, strengthen your area instead.]
+;B[nc];W[ne];B[od]C[You just gave B the whole corner & side.]
+;W[mc];B[ld];W[oc];B[nb];W[ob];B[mb];W[lc]C[Again, read ahead - It's a ladder.]
+;B[kc];W[pc];B[qc];W[oa];B[qb];W[na];B[lb];W[qd];B[qe];W[rd]
+;B[pf];W[oe];B[pe];W[rc];B[rb];W[re];B[rf];W[of];B[pg];W[og]
+;B[qh];W[ph];B[qg];W[qi];B[ma];W[rh];B[rg];W[sg];B[ri];W[sh]
+;B[sf];W[rj];B[si];W[sj];B[pa];W[sh];B[rh];W[qa];B[pb];W[oh]
+;B[rn];W[ro];B[sq];W[rq];B[so];W[sr];B[sp];W[rs];B[co];W[cp]
+;B[do]
+(;W[dp]C[Empty triangle - Bad shape.];B[ck];W[cn]C[Same move - Bad move.]
+;B[bn];W[dn];B[bp];W[eo];B[bo];W[bm]TR[cm][en][ep]C[Cutting points.]
+;B[cm];W[cl];B[dm];W[dl];B[en];W[em];B[fn];W[fm];B[ep];W[fo]
+C[Again, you now have 3 weak groups all split up.];B[eq];W[gn]
+;B[dn];W[er];B[dr];W[cq];B[cr];W[bq]C[Again, read ahead - Ladder.]
+;B[aq];W[fq];B[br];W[fp];B[fr];W[gr];B[es];W[gq]C[Group is probably dead ...]
+;B[bl];W[el];B[bj];W[cj];B[dj];W[ci];B[dk];W[ek];B[ej];W[fk]
+;B[fj];W[gk];B[il];W[jk];B[ik];W[gj];B[bi];W[di];B[fi];W[fh]
+;B[eh];W[dh];B[ei];W[eg];B[dg];W[ch];B[cg];W[gi];B[bh];W[al]
+;B[am];W[fg];B[gc]C[W should resign - Black is winning by far.]
+;W[df];B[cf];W[de];B[ce];W[ee];B[ed];W[fe];B[fd];W[he];B[ge]
+;W[gf];B[gd];W[hd];B[lg];W[mg];B[lh];W[mh];B[li];W[mi];B[lj]
+;W[mj];B[kj];W[kk];B[lk];W[jj];B[ij];W[ji];B[ii];W[jh];B[ih]
+;W[jg];B[ig];W[jf];B[if];W[je];B[ie];W[jd];B[id];W[jc];B[hc]
+;W[hf];B[hm];W[hn];B[in];W[gm];B[jo];W[hl];B[im];W[gl];B[hi]
+TR[je]C[If you can connect this group, now is the essential time to do it.]
+;W[gh];B[jb];W[ff];B[lf]C[All in all, the major points to work on are:
+
+1) Recognize and avoid cutting points. Generally, any time you "curve" you create a cutting point. Try to play in straight lines.
+
+2) Avoid having your groups split into multiple weak groups. Pay attention to having a good base for every group, especially before attacking.
+
+3) Learn some shapes - Avoid bad shapes, strive to create good shapes.
+
+All the best,
+
+- Derek
+
+DerekPankaew@gmail.com])
+(;W[gq]C[Much stronger.]))
+(;W[co]C[Much better.])
+(;W[cf]C[If you must attack, approach the unfinished corner instead.]
+))
+(;W[lo]C[Connect is much better]))
+(;W[mp]
+(;B[mo];W[lo];B[nn];W[lq])
+(;B[mq];W[lq];B[mr];W[lr];B[ns];W[lo])))
+(;W[np]C[Connect.]))
+(;W[mq])
+(;W[lq]))
+(;W[qq]))

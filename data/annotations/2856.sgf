@@ -1,0 +1,124 @@
+(;FF[4]GM[1]SZ[9]ST[0]AP[SGFC:1.14]VW[]
+
+PB[red_gda]
+HA[0]
+PW[mateusz9001]
+KM[5.5]
+DT[2003-07-30]
+RE[W+8.5]
+TM[900]
+AN[Steve Carder 14k (steve@carderfamily.net)]
+
+C[Hello this is one of my lost game (I'm beginner) can you help me to draw a conclusion?
+
+This is also my first sgf file so forgive me if sth is wrong.
+
+Thank for Your evaluation.
+
+SC:  I will put my initials in front of my comments.  Be sure your SGF viewer can show variations, since I will add some to this game file.]
+;B[gf];W[cc];B[fc]C[SC:  This move is not bad, but I will use it to point out a good opening "rule of thumb."  Opening strategy in general applies more to larger board games, so this is mainly for you to use later.
+
+Look for the biggest empty space and play there.
+  
+For example, here, the one white stone is equal distance from the top right corner (G7) and the lower left corner (C3).  The first black stone is closer to the upper right corner.  Specifically, the black stone is 3 spaces away from G7 and 4 spaces away (and 1 up) from C3.  Thus, by this rule of thumb, black should play in the lower left since there is more open space there.]
+;W[dg]
+(;B[ee]C[Is it too passive, where should i play?
+D7/ D5?
+
+SC:  First, you need to decide how you want to play.  Do you plan to attack white or play a more gentle style and just push along the boundry between you and white?  C4 or C5 would be an invasion.  Either would be an example of an aggressive style of play and result in a battle with someone probably dying.  D5 or D6 would be reducing moves and be a more calm style of play.  Probably, no one dies if black plays this way.  
+
+D5 and C5 are right next to each other, so what makes one an aggressive invasion and the other a calm reduction?  Imagine a line drawn between the two white stones.  That line would run right between C5 and D5.  Anything inside that line, like C5, is an invasion.  Playing there means you expect to live inside white's group and destroy most of the territory there.  If this works, you gain a lot.  If you die, you lose a lot.
+
+Anything outside of this imaginary line is a reducing move.  Ususally, a reducing move will need to be close to the line to be most effective.  So, D5 reduces better than E5 here.  White will probably just play inside the reducing stone to block black and secure his territory.  Black shrinks white's territory a lot less this way, but there is also a lot less risk.
+
+How do you choose?  Your personality is part of the decision. Also, if you feel that you are losing, then invade.  If you feel are even or winning, then just reduce.  See the variations.]
+;W[cf]C[SC:  I would play C5 here since is would be connected to both of the other white stones.  C4 is a bit far from C7 and black could seperate them.]
+;B[ce]SQ[db][fh]C[SC:  This is an invasion, but it is less risky because black has support from the stone at E5.  Overall, however, I think F2 is the biggest move for either player.  Imaging what the the territory looks like with a white stone there and then with a black stone there.  D8 is also big.  Remember to look at the whole board before each move.  You don't always have to play near the stone your opponent just played.]
+;W[eb]
+(;B[ec]C[good answer?
+maybe d7 would be better?
+
+SC:  This move implies that Black wants to make a wall in the center while allowing white part of the upper right corner.  In a 19x19 game, making white crawl on the second line while black builds a wall facing the center is very good for black. In 9x9, however, the isn't much of a center so the wall is much less use.  So, in this size game, I think F8 is best since it blocks white from the upper right corner that black wants to claim.
+
+See variation.];W[fb];B[gb];W[dc];B[dd]TR[gi][gh][gg]SQ[fi]
+[fg][fh]MA[eg][ei][eh]C[D4 or E3 is better?
+
+SC:  This is bad.  The stone at C5 has already pretty much eliminated white's territory along the 5th and 6th horizontal lines.  Adding this stone doesn't help that process, so this stone doesn't do much at all.  A good question to ask yourself is, "How much will this move change the final score?"  This move gets black one extra point at E6 and doesn't reduce white's score.  So, it is worth one point in Gote.
+
+F2 is still very big.  F2 probably changes the score by 5 points. I figure 5 points this way:  Whoever plays at F2 first will probably end up with stones at the squares.  If black plays the squares, White will play at the X's and black gets the triangles as territory points.  If white plays at the squares, then black plays on the triangles, so black has 3 points less.  White also gets two more points at E2 and E1.  So, a total difference of 5 points in the final score.
+
+Of the ones you mentioned, E3 is the best since it does the best job of closing off the open area at the right lower corner.  Again, play in the biggest open area.]
+;W[fg]C[SC:  This move does much more to change the final score than black's last move did.  From here on, black is behind and never catches up.]
+
+(;B[df]C[SC:  This move requires a lot of thought by black.  White is now ahead and black needs to think of ways to change this.  The usual response to this would be blocking at G3.  When black is behind, however, G3 is too passive to do right now.  Black needs to attack first.  Eventually, black does need to play G3 before white does, but not quite yet.  See variations for two possibilities.]
+;W[cg]C[SC:  Since white is ahead, he can take time to connect.  This move prevents both of the attacks I showed in the variation on black's last move.]
+
+(;B[eg]C[SC:  This is not an effective attack.  You shoud be able read out that white will Atari at E2 and you will connect at E4 in Gote.  See the variation for a possibile attack.  This attack relies on white making less than optimum moves, however.  Black should be feeling a bit desperate and willing to try somewhat desperate moves.
+
+Also see the other variation for what happens if black just plays G3 now.]
+;W[eh];B[ef];W[gg]C[SC:  Black is now losing and has no obvious way to catch back up.  In a Dan level game, the polite thing to do is for black to resign.  In a double-digit kyu game, however, one can always keep playing and hope your opponent makes an error.  Besides, in a kyu game, you both need the endgame practice anyway.]
+
+(;B[hg]SQ[fa][be]C[SC:  This is a good endgame move, but it is Gote.  Both of the squares are Sente.  Play all of your Sente endgame moves first, then play the largest Gote one.  See variation.
+
+Here, H4 would be a Sente play, but is worth 2 less points than the current move at H3.  Also, playing black H4 then white H3 eliminates the potential for black to cut at D2 and/or F2.]
+;W[hh];B[hf];W[ga];B[hb]C[SC:  Good, some people would play H9 without thinking enough.]
+;W[bd];B[be]SQ[ad][ae][af]C[good move?
+
+SC:  Yes, for this stage of the endgame.  If white plays here, he gets the 3 spaces marked with squares as territory.  Now, however, he will get 1 or none of them as territory.  Plus, this is Sente since white has to prevent the Monkey jump to A2.
+
+This move would be too small if the area around F3 and G3 was still open.]
+;W[bf]C[Since this move i have no conception how to attack.
+Is the game already lost?
+
+SC:  Yes, it is lost unless white really makes an error.];B[ad]
+;W[ac];B[ae];W[cb]C[SC:  This seems a bit cautious.  White could just play A4 here. On the other hand, white is ahead so he can afford to be cautious.]
+;B[ha];W[fa];B[cd];W[bc]C[SC:  Standard Sente endgame moves.]
+;B[af];W[bh];B[dh]C[SC:  This is very good.];W[ei];B[ch];W[bg]
+;B[fh];W[gh];B[ag];W[ci];B[ah];W[di];B[ff];W[ig];B[if];W[ih]
+;B[ai];W[bi]C[SC:  White has 3 more points on the board and wins by 8 1/2 points (Including 5.5 points komi).
+
+In this game, black started out fine but played a slack move at D6 (move number 13) and fell behind.  The next two moves were not aggressive enough for a player who is behind.  After that, even the nice endgame cut at D2 wasn't enough to catch back up.
+
+Try to stop and look for the biggest move on the whole board.]
+)
+(;B[be];W[bf];B[fa];W[ea];B[ga];W[db]C[SC:  White has to connect here.]
+;B[ab];W[bb];B[ac];W[bc];B[bd];W[ca]C[SC:  White has to make 2 eyes now.]
+;B[hg]C[SC:  Now black can play the Gote endgame move.];W[hh]
+;B[hf]C[SC:  Black is still behind, but this is better than the original order of play.]
+))
+(;B[bc]C[SC:  The only open area left besides G3 (which black can't play yet) is the area around B5-B6.  This stone gives white a choice of playing B8 or B6.  See variations starting next move for both ways.]
+
+(;W[bd]C[SC:  White isn't afraid of a cut at D8 and wants to capture the black stone.]
+;B[be]SQ[bc]C[SC:  This is the key move.  It looks like an attempt to save the marked stone.  It is really intended to undermine white's position on the lower left corner.]
+;W[bb]C[White captures the black stone.....];B[ah]C[Black plays a monkey jump.  This destorys white's corner territory. This is the sort of move you smack down on the board with a nice loud noise <g>.]
+;W[bh]C[This is a standard response to a monkey jump.];B[ag]
+;W[bg];B[af];W[bf]C[SC:  This is the ususal way to respond to a monkey jump and black wants white to play this move out of rote and habit.  White should actually skip this move and take Sente to play G3.  This is a Dame point and playing here doesn't change the score at all.]
+;B[gg]C[SC:  This still leaves the score close.])
+(;W[bb]C[SC:  White is worried about the cut at D8 and plays defensively.]
+;B[be];W[bf]C[SC:  White prevents the monkey jump shown in the other variation.]
+;B[cd];W[cb]C[SC:  White is worried about black playing Atari here.  Actually, black can't really do much here and white should take Sente and play G3 instead.]
+;B[gg]C[SC:  The score is close at this point.]))
+(;B[gg]C[SC:  If black just plays here right away...];W[fh]
+;B[gh];W[fi];B[gi];W[be];B[cd];W[bd];B[eg];W[eh];B[ef];W[dh]
+;B[ga];W[ff];B[fe];W[db];B[fa];W[ea]C[SC:  I would consider this standard endgame play.  White is 1 point behind on the board, but wins by 4.5 points with the 5.5 point komi.]
+))
+(;B[cg]C[SC:  One option to attack white is here.];W[bg];B[bf]
+;W[ch];B[bd];W[bc];B[gg]C[SC:  Black still gets to play G3 but now the score is very close.]
+)
+(;B[bg]C[SC:  Another attack option.];W[bf];B[cg];W[dh];B[df]
+;W[ag];B[be];W[af];B[ae];W[ah];B[bh];W[bi];B[ai];W[gg]C[SC:  White gets to play G3, but it doesn't matter now.  White is in serious trouble with two weak groups.]
+))
+(;B[fb];W[ec];B[fh];W[eh];B[be];W[bf];B[ab];W[bb];B[ac]C[SC:  White is losing and the white stones at the top still need to make to definate eyes.]
+))
+(;B[cf]C[SC:  Black invades.  Now white has to decide how to respond. White can play C3 and secure the corner.  This allows black to run out into the center and connect to the other black stones. If white plays D4, then white plans to kill black.]
+;W[df]C[SC:  We are discussing aggressive verses calm styles, so white will play to kill in our example of aggressive play <g>.]
+;B[cg]C[SC:  It is easiest to make life in the corner, so black moves that direction.]
+;W[ch];B[bh]C[SC:  Black still moves toward the corner.];W[ci]
+;B[bi];W[dh]SQ[ci][ch]C[SC:  White has to protect here.  Otherwise, black can play here and capture the two marked stones.]
+;B[ag]C[SC:  Playing diagonal moves is best for making eye space.  This move prevents white from cutting at B3 and starts to divide black's space into two eyes.  B3 is not bad, but it only does one job (protect the cutting point) while A3 does two jobs.]
+;W[ce];B[bf]SQ[cg][cf]C[SC:  Normally, making an empty triangle like this is bad shape and should be avoided.  One exception to this rule is if you are making an eye as black is here.  Now black has two eyes and is alive.  Black will eventually need to connect at A4.  White can't play A4 without playing A5 first.  So, black can wait to play A4 until white does play A5.]
+;W[be]C[SC:  This keeps black from expanding up the left side.  It also means that black has made life in Sente.]
+)
+(;B[de]C[SC:  This is the calm reducing move.];W[ce]C[SC:  White blocks.]
+;B[df];W[cf];B[dd];W[cd];B[dc]C[SC:  Black has a larger area sketched out than white does now. White does get Sente, however.]
+))

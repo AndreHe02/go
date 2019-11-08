@@ -1,0 +1,64 @@
+(;FF[4]GM[1]SZ[9]ST[2]CA[UTF-8]AP[SGFC:1.17]
+
+PB[Gustavo Fernández Bayón]
+BR[19k]
+PW[GNU Go]
+KM[6.5]
+DT[2011-07-06]
+RE[W+14.5]
+RU[Japanese]
+US[Gustavo Fernández Bayón]
+
+C[+++ Hi, my name is Daniel, I'll be reviewing your game. I'll preface all my comments with a +++.
+
+Hi.
+
+This is my first attempt at sending a review to the GTL. I'll try to do my best commenting the intentions behind my moves.
+
+I've playing Go for a while but I think I'm stuck with some basic "visual" concepts. Most of the time I'm kicked aout of the game without even noticing what it's going around.
+
+I would like to thank in advance any possible reviewer.
+
+Well. Let's go.];B[ee]C[I've read that this is a good move for 9x9 games. I do not always start here. Moreover, I must admit that I am not too comfortable playing at tengen.]
+;W[cg]C[I think white claimed the lower left corner. I think it is a quite defensive move, too.]
+(;B[gf]C[My intention here was to claim bottom right corner. I know g3 is bad shape, so I decided to do a knight's move.
+
++++ This move doesn't really claim the corner, because white can easily slide in, as you see later in the game. See variation for another possibility.]
+;W[cd]C[Seems to me that white is claiming entire left side of the board.
+
++++ With your influence at E5, this two-space jump is not 100% secure. Threatening to cut it (now or later) is worth considering.]
+;B[dc]C[...so I decided to push a little bit, claim a piece of the corner.]
+;W[cc]
+(;B[dd]C[I always like to do this, although I don't know why. I think it creates influence to the right, while keeping white from pushing me.
+
++++ I think you are right that you need to respond to white's play, but I don't think this is the best way to do it. See variation.]
+;W[eg]C[I think this hurted me a lot. Am I right? Because it seems that my territory is limited to the upper right corner. I have noticed it now while reviewing.]
+;B[gd]C[I made this move because I was afraid of white invading. When somebody invades me, I usually get nervous and end losing territory.]
+;W[gh]C[+++ Now you see that G4 wasn't claiming the corner at all. White slid in right underneath you.]
+(;B[fg]C[I decided to attack to see if I could at least recover some of the territory.
+
++++ I think there are better ways to attack.];W[fh];B[ef]C[I played tiger's mouth to protect f3, although I see now that perhaps that was too defensive. Would it have been better to try to go left ( for example, c5)?
+
++++ I think C5 is good, but it needed to be sooner. See variation on move 11.]
+;W[df];B[de];W[ce];B[cb]TR[hg]C[I saw a cutting point at e2, but I did not know if I could make something out of it, so I decided to play for some territory on the upper left corner.
+
++++ There is definitely nothing at E2. Your play here is one of two options. The other is H3. If you had made the play I suggested at D8 way back near the beginning, however, you would be able to play H3 and still not have to worry about the top.]
+;W[bb];B[da];W[hg]C[Ooops! Seems like I have left my backdoor open.]
+;B[hf]C[Tried to defend h3.];W[if];B[ie];W[ig];B[hd];W[gg];B[ff]
+C[Seems to me that I lost a lot of points with the last moves.]
+;W[ba];B[ca];W[tt];B[tt]TW[aa][ab][ac][bc][ad][bd][ae][be][af]
+[bf][cf][ag][bg][dg][ah][bh][ch][dh][eh][hh][ih][ai][bi][ci]
+[di][ei][fi][gi][hi][ii]TB[ea][fa][ga][ha][ia][db][eb][fb][gb]
+[hb][ib][ec][fc][gc][hc][ic][ed][fd][id][fe][ge][he]C[And this is how it ended. I lost by 14.5 points against GnuGo at no-so-hard settings. :(
+
++++ You didn't make any huge mistakes, just maybe not the best tactical decisions. I hope this game does not mean you only play against GNU Go or only play 9x9 games. You are more than ready than 19x19 against human players. I would encourage you to try KGS or one of the other online Go servers if you are not already a part of one of them.]
+)
+(;B[ce];W[be];B[cf];W[bf];B[ef]C[+++ This seems pretty good. I think white will next play D8 or H3.]
+))
+(;B[db]C[+++ I like this better because it stays ahead of white and also blocks the cuts white can threaten if you ignore white's play.]
+(;W[dd];B[ed]TR[cb]C[+++ Nothing to fear here. You also have the possibility of playing C8 later as an endgame play.]
+)
+(;W[eg];B[gd];W[gh]C[+++ If the moves continue like in the real game, I like position better for black.]
+)))
+(;B[eg]C[+++ This seems reasonable. It keep white from jumping into the corner (at least without forming a separate group) and puts pressure on the white stone.]
+))

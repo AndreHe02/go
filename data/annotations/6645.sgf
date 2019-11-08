@@ -1,0 +1,83 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+PB[poleman]
+BR[5k]
+PW[stepwise]
+WR[4k]
+KM[0.5]
+DT[2008-05-21]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[W+Resign]
+TM[900]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+C[poleman [5k\]: hi gl
+
+Hi. Interesting game. W made a lot of mistakes with his direction of play in the beginning of the game, but hung tough and found the chance to win. B needed to be more aware of his weaknessess, and how to shore them up when he has a lead on territory. the easiest way to do this would be to put more pressure on weak groups earlier in the game.
+
+For future review requests it is helpfull to add your own comments and questions to the game file. It can be easier for the reviewer to point out how you can improve if he knows what you are thinking about at different key points in the game.]
+;B[pd];W[pp];B[cp];W[dd];B[nq];W[jq]LB[ep:A][lp:B]C[I think the wide pincer is not so good when b has the 3-4 in the lower left. I like A or B better]
+
+(;B[fq]C[I think maybe b should stay in lower right here];W[lp]
+;B[pq];W[qq];B[pr];W[qr];B[op];W[po];B[lq];W[kq];B[lr]
+(;W[mp]C[maybe a lighter move is better here. keep b contained while making good shape]
+;B[oo];W[pn];B[hq];W[qi];B[dj];W[kn]C[last two moves were big, but addressing this group is more urgent. B missed a chance when W played 22]
+;B[mn];W[qf]C[this move doesn't look right. O16 better in this corner, but better to play around D7 i think.]
+;B[pk];W[ql];B[qk];W[rl];B[rk]
+(;W[nc];B[oe];W[qc];B[qd];W[pc];B[oc];W[ob];B[od];W[nb];B[pg]
+;W[qg]
+(;B[ph];W[pi];B[qh];W[rh];B[pf];W[ri];B[rf];W[rg];B[re];W[oi]
+;B[nk];W[mi];B[rc];W[rb];B[sb];W[ra];B[ld];W[lb];B[fd];W[ng]
+C[good. addressing the running battle much more important than the upper left corner; B tenukied too soon]
+;B[mf];W[nf];B[ne];W[md];B[me];W[mg];B[ke];W[ic];B[kb]C[w should not extend so far if it can be cut since b has F16.]
+
+(;W[lc];B[kc];W[jd];B[kd];W[gc];B[fc];W[gb];B[cf];W[eb]
+(;B[bd];W[cc];B[ci]C[these last two moves look like b is solidly securing his lead on territory, but it is a little greedy since he still has weaknessess. most importantly, the big group in the upper right doesn't have any real eyes yet.]
+;W[hf];B[kg];W[lg];B[lf];W[ki];B[lk];W[dg];B[cg];W[eg];B[gg]
+;W[gf];B[fg];W[ff];B[df];W[ef];B[de];W[ee]
+(;B[bc]C[again, very slow. b can learn to "win a won game".]
+;W[hp];B[gp];W[ho];B[cm];W[jl];B[jk];W[ik];B[jj];W[ij]C[B need to read more carefull here and just connect to the lower group. his upper group is alive and territory lead secure.]
+
+(;B[ji];W[kh];B[jh];W[jg];B[kf];W[ol];B[ok];W[nl];B[ml];W[no]
+;B[on];W[nn]
+(;B[il];W[gj];B[gl];W[hl];B[im];W[jm];B[hm];W[hg];B[hi];W[ii]
+;B[ih];W[hj];B[gi];W[fi];B[hh];W[ej];B[fk];W[fj];B[eh];W[fh]
+;B[gh];W[dh];B[ig];W[jf];B[if];W[je];B[ie];W[ed];B[gd];W[om]
+;B[id];W[jc];B[fb];W[fa];B[hc];W[hb];B[ib];W[hd];B[jb];W[hc]
+;B[he];W[ga];B[ge];W[ec];B[cb];W[di];B[dk];W[ch];B[bi];W[db]
+;B[cd];W[bb];B[ca];W[ba];B[dc];W[kk];B[kj];W[cc];B[mj];W[li]
+;B[kl];W[lj];B[bh];W[da];B[km];W[jn];B[ni];W[nh];B[nj];W[oh]
+;B[sj];W[lm];B[mm];W[ln];B[ll];W[mo];B[qe];W[nm];B[mk];W[pl]
+;B[sg];W[rj];B[of];W[qj];B[og];W[si];B[sk];W[sl];B[lh];W[mh]
+;B[sf];W[oj];B[sh];W[fe];B[gn];W[kr];B[ns];W[or];B[os];W[mq]
+;B[iq];W[ip];B[go];W[ac];B[mr];W[ls];B[ks];W[js];B[ms];W[be]
+;B[bf];W[ad];B[ce];W[ae];B[af];W[ab];B[is];W[ir];B[ks];W[hs]
+;B[hr];W[gr];B[gq];W[fr];B[er];W[gs];B[es];W[is];B[fs];W[jr]
+;B[kp];W[jp]C[stepwise [4k\]: gg
+poleman [5k\]: thx gg])
+(;B[hi]C[i think this will escape b]
+(;W[ii];B[ih];W[ig];B[hh]C[even if B manages to escape his dragon ..]
+;W[sj];B[sk];W[rj];B[qe]C[r15 needed to live];W[kr]C[this group in trouble]
+;B[nr];W[ls];B[ms];W[mq];B[ks];W[mr];B[is];W[ir];B[hr];W[js]
+;B[jr];W[ls];B[lr];W[js]C[hard ko for b])
+(;W[fi];B[gk];W[ii];B[ih];W[hh];B[hg];W[gh];B[il];W[hj];B[gj]
+;W[gi];B[hk];W[hi];B[ig];W[jf];B[ei];W[fj];B[fk])))
+(;B[nn]C[this looks good];W[ji];B[lj];W[li];B[ih];W[ii];B[hl]
+;W[il];B[go];W[kr]C[difficult, but i think b should still be able to live]
+))
+(;B[io]C[a move like this should have been done a while back.]
+))
+(;B[ef]C[better. w still probably defends the corner (he might have to to live). then b turns to bottom middle.]
+;W[bd];B[io]))
+(;W[kc]C[but connecting is better]
+(;B[lc];W[jb];B[mb];W[ka];B[mc];W[ma])
+(;B[mc];W[mb])
+(;B[jb];W[jc];B[mc];W[mb])))
+(;B[pi]C[In think this move is better. hard for w]))
+(;W[oi]C[maybe solidify here first as it also weakens R9 stones, but not having a really good move at this point is the fault of R14 being played from the wrong direction]
+))
+(;W[nn])
+(;W[kn]))
+(;B[qq];W[pq];B[qp];W[po];B[pr];W[or];B[qr];W[oq];B[qn]C[now k3 not optimally placed. too wide to extend again to E3, overconcentrated if defend at O4.]
+))

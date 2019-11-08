@@ -1,0 +1,130 @@
+(;FF[4]GM[1]SZ[19]AP[SGFC:1.15]
+
+GN[zanshin-igor-20050625.sgf]
+PB[Matthieu (igor)]
+BR[9k]
+HA[0]
+PW[Johanna Tuominen (zanshin)]
+WR[10k]
+KM[0.5]
+DT[2005-05-31,2005-06-25]
+PC[Dragon Go Server: http://www.dragongoserver.net]
+RE[B+2.5]
+GC[Game ID: 128022]
+
+C[Bonjour,
+
+la partie s'est vite transformée en deux grosses zones d'influence, que l'on s'est réduit mutuellement. Pourriez-vous vous concentrer sur les erreurs de fuseki (direction de jeu, "gros coups" oubliés, etc...). j'ai mis quelques commentaires aux endroits ou je pense avoir fait des erreurs. Pourriez-vous commenter la justesse de mes analyses ?
+
+merci d'avance,
+
+Igor
+Je vais essayer de commenter mais il faut tenir compte de mon propre niveau (3k -7k sur kgs) pour les prendre avec une pincée de sel!]
+;B[pc];W[qp];B[cd];W[qe];B[dp];W[ec];B[hd];W[ee];B[df]C[fuseki normal jusque là (à mes yeux en tt cas)]
+
+(;W[cb]C[première chose bizarre
+ce coup ne se fait pas dans ce joseki
+comment réagir?];B[fd]C[Igor : je voulais l'alourdir, afin de le pousser et de construire à gauche, et aussi prévoir Q15, mais c'est peut-etre pas si bon : trop pres de H16, et "ne pas menacer de couper là ou on pourrait couper plus tard". votre avis ?
+
+normal à condition de suivre];W[ed]C[un combat (c'est bien de çà dont il s'agit) vient de commencer dans le coin
+il ne faut pas l'abandonner comme çà!]
+(;B[pe]C[Igor : prévu en reflechissant à F16
+voir commentaire et ex de suite];W[pf];B[oe];W[qd];B[qc];W[qh]
+
+(;B[nc]C[trop faible comme coup (pas nécessaire)];W[hb]C[Igor : ca lui fait une base de vie et ca annule mon territoire -> mes coups en haut ne servent plus
+
+ben oui
+
+tout vient de l'attaque non poursuivie
+il fallait continuer sur l'objectif initial];B[ck];W[fq]C[Igor : je suis plutot content. F4 n'aurait pas mieux convenu, pour limiter mon moyo ?
+
+je ne vois pas trop de différence mais....]
+(;B[fp];W[gp];B[fo];W[cq];B[cp];W[dq];B[eq];W[er];B[ep];W[gr]
+TR[qp]C[blanc s'en tire mieux que noir dans cet échange au niveau des moyos esquissés
+zone blanche + gde que noir grace à delta
+
+il faut réagir + vite que çà]
+(;B[ef]C[mauvais tactiquement et stratégiquement
+
+non tactiquement car blanc pourrait var 2
+cependant blanc joue coup encore meilleur stratégiquement]
+(;W[oq]C[bon coup stratégiquement]
+(;B[oo]C[Igor : je cherchais comment limiter quart sud est blanc, et l'invasion au bord droit me semblait trop profonde. Ici je lui laisse le coin mais je ne suis pas trop inquieté
+
+coup peut etre trop délicat
+permet à blanc de se renforcer tout en laissant noir faible]
+;W[jq];B[go]C[ok localement];W[hp]
+(;B[qn];W[qk]C[bon pour blanc qui fait des points en attaquant : résultat de mauvais coups noir]
+;B[om]C[blanc mène en territoire
+noir n'a pas d'influence suffisante pour contrebalancer
+dur pour noir];W[mp]C[bon coup]
+(;B[ic]C[Igor : H5 plutot]
+(;W[gc]C[erreur blanche qu'il faut exploiter var 2]
+(;B[of];W[pg];B[nh]
+(;W[lh]C[blanc va reperdre la partie à partir de là
+il n'avait qu'à capitaliser sur un début le favorisant];B[ok]
+C[bon coup
+blanc aurait du jouer là];W[lk]
+(;B[mi]C[renforce + qu'autre chose];W[li];B[gj];W[ho]C[bon coup blanc
+noir aurait du y jouer!];B[hn];W[in];B[im];W[hm];B[gn];W[jm]
+;B[il];W[jn]
+(;B[kj]C[Igor : à nouveau je crois pas que ca soit trop bon... en M14 plutot ? ou G14 ?
+
+
+j'arrête là les commentaires];W[lj];B[jh];W[gd];B[he];W[ge]
+;B[gg];W[gf];B[hg];W[hf];B[if];W[lf];B[jl];W[lm];B[ld];W[ib]
+;B[jc];W[jb];B[kb];W[bq];B[bp];W[ap];B[ao];W[aq];B[bo];W[bd]
+;B[be];W[bc];B[ml];W[ll];B[pi];W[qi];B[kg];W[lg];B[ke];W[bf]
+;B[cf];W[ae];B[bg];W[ce];B[ag];W[ka];B[lb];W[la];B[ma];W[ja]
+;B[mb];W[ro];B[rl];W[rk];B[rd];W[re];B[rc];W[oh];B[oi];W[nj]
+;B[mj];W[mk];B[nk];W[mh];B[ni];W[ng];B[ql];W[pj];B[pk];W[qj]
+;B[oj];W[nl];B[ol];W[nm];B[nn];W[mm];B[qo];W[pp];B[rn];W[rp]
+;B[ff];W[fe];B[kl];W[km];B[de];W[be];B[dd];W[cc];B[dc];W[db]
+;B[mn];W[ln];B[se];W[sf];B[sd];W[rg];B[np];W[nq];B[mo];W[lo]
+;B[op];W[po];B[pn];W[kf];B[jf];W[ki];B[jj];W[ji];B[ii];W[kk]
+;B[ij];W[jk];B[ik];W[md];B[me];W[le];B[kd];W[ne];B[nd];W[mf]
+;B[mc];W[me];B[og];W[ph];B[sk];W[sj];B[sl];W[pd];B[od];W[kh]
+;B[jg];W[sn];B[sm];W[so];B[nf];W[mg];C[White: 83 territories + 4 prisoners + 0.5 komi = 87.5
+Black: 88 territories + 2 prisoners = 90
+Result: B+2.5])
+(;B[ib];W[fe];B[ff];W[ge];B[if];W[lf];B[ld];W[bd];B[be];W[bc]
+;B[ce]
+(;W[oj];B[nj];W[nk]C[désagréable
+
+bon je m'amuse un peu avec une variation qui n'est peut-être  pas optimale]
+;B[lj];W[kj];B[mj];W[mk];B[kk];W[mh];B[ni];W[ng];B[ki];W[jj]
+;B[oh];W[og];B[pj];W[ol];B[pk];W[pl];B[nl];W[kl];B[jk];W[ik]
+;B[ql];W[ph];B[oi];W[pi])
+(;W[jl]C[peut-etre dabord];B[ik];W[oj];B[nj];W[nk];B[mk];W[nl]
+;B[ml];W[nm];B[mm];W[nn];B[mn];W[no];B[kk];W[jk];B[jj];W[kj]
+;B[kl];W[ll];B[km];W[lm];B[kn];W[ln];B[ko];W[mo];B[mj];W[lo]
+;B[io];W[lj];B[kp];W[kq];B[oi];W[pj];B[pi];W[qi];B[ng]C[bon....]
+)))
+(;B[lm]C[on peut se permettre]))
+(;W[fe];B[hf];W[ff];B[fg];W[ib];B[jb];W[jc];B[kb];W[id];B[hc]
+;W[he];B[gd];W[ge])
+(;W[ho];B[hn];W[in]
+(;B[hm];W[im];B[hl];W[il];B[ik];W[bp];B[bo];W[bq];B[cn];W[ok]
+C[par ex])
+(;B[im];W[hm];B[gn];W[jm];B[il];W[jl];B[ik];W[jk];B[ij];W[ok]
+;B[jn];W[io];B[kn];W[mn]C[pas sur que noir puisse se le permettre
+dépasse mes compétences!])))
+(;B[ib];W[gd];B[hf];W[gf];B[gg]))
+(;W[ib];B[fc];W[fb];B[fe];W[kc]))
+(;B[fc];W[fb];B[fe];W[ic]C[pas terrible non plus
+le début se révèle catastrophique à rattaper])
+(;B[ho]C[oui....];W[io];B[in];W[jo];B[fc];W[fb];B[fe];W[ic]
+;B[kc];W[id]))
+(;B[nq]C[peut-être faut-il essayer qch comme çà];W[np];B[op]
+;W[mq];B[pq];W[nr];B[pp]C[bon, je sais pas trop quoi faire après ;-)]
+))
+(;B[kq]C[bon çà me semble encore possible non?];W[iq];B[mq]
+;W[jp];B[ln];W[pm]))
+(;W[fe]C[abimer pierres blanches]))
+(;B[oq];W[pq];B[op];W[qn];B[kq]))
+(;B[dn]C[pourquoi pas tt simplement ainsi?];W[dr];B[cq];W[iq]
+;B[oq]))
+(;B[fc];W[fb];B[gb];W[eb];B[bc];W[pd];B[od];W[oc];B[nc];W[ob]
+;B[nb]C[ne risque rien me semble]))
+(;B[fc];W[fb];B[gb];W[eb];B[bc]C[par exemple]))
+(;W[cc];B[bc];W[cb]))

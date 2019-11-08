@@ -1,0 +1,135 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.17]
+
+PB[aburm]
+BR[12k]
+PW[odog]
+WR[12k]
+KM[6.5]
+DT[2012-08-13]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[B+Time]
+TM[1500]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+C[Hello, thank you for reviewing my game. I played Black here. I have trouble playing big moyo games, may be, because I constantly fail to chase and/or contain enemy invading groups.
+Please, give me a clue:
+am I too greedy, trying to seal the group instead of taking moderate profit, or my appetite's normal, but the technique and reading fail me.
+
+R: hello I'm ilfuria, your reviewer. I'll introduce my comments by prepending 'R:' to them (for reviewer). I'll add remarks to your moves, and answer your comments. Be careful to explore variations: many times their meaning are appended to the move you made — when they're corrections— I'll also try and summarize everything at the end of the game.
+I hope you enjoy the review.
+ps: you say you fail in big moyo games-> have you ever tried going for territory from the beginning instead? Sometimes you go through a fase in which you have to gain more experience to be able to use a particular strategy, and the old tricks seem not to work anymore!]
+;B[pd];W[dd];B[pq];W[dp];B[qk]C[R: typical moyo opening. Moyo games are about fighting, so with this move you prepare a strong fighting game]
+;W[dj];B[fc]TR[jp][fq]SQ[pd][qk][pq]C[R: I don't think this can be "wrong" per se, but with the Chinese Fuseki (marked formation) I think that extending on the lower side is the best, since it creates a strong formation. The marked points are usually played. f3 can be pincered, though, so maybe k4 can do the trick]
+;W[jp]
+(;B[lq]C[R: this is too small. You have to consider that:
+1) it is gote (white clearly doesn't mind losing some points on the side, since he played on the 4th line)
+2) it's near to a strong stone/formation of yours (never play near a strong formation)
+3) Your opponent neglected yout f17 stone.
+see variations for some interesting moves];W[jj];B[df]C[R: nice]
+;W[kq]
+(;B[lo]C[R: was l4 really that sente? I think it's best to focus on other parts of the board. see variations]
+;W[gq]
+(;B[cn]C[R: I usually prefer the 3-3 invasion, that lives without many problems, with respect to this side variations, especially because white is already strong on the right side. See variation]
+;W[co];B[ck];W[dn];B[cm];W[dm];B[cj];W[dk];B[di];W[ei];B[dh]
+;W[eh];B[ef]LB[cc:A][jd:B]C[R: I don't think this is the best. You should either invade in c17 or make k17 to keep a check on white expanding center territory]
+;W[cf];B[cg];W[ce];B[dc]C[R: as a rule never play contact moves to attack, since you almost always strenghten the opponent. I don't know if d16 can be killed, but if that's the case I would go for c17 (complicated fight) otherwise keep in mind k17]
+;W[cc]
+(;B[db]C[R: never play on the second line in the opening (unless it's necessary to live or it renders two moves equivalent). This is simply too small.   seevariations]
+;W[cb];B[ed];W[de];B[ee];W[bg];B[bh];W[ag];B[ah]C[R: if it's bad to play on the second line, there's absolutely no reason to play on the first line other than live or kill]
+;W[be]
+(;B[jn]C[R: I think that the top is the biggest area on the board and you should play there. See variation]
+;W[in];B[jm];W[im];B[ld]C[Here I was quite happy with the opening, because my prospects of territory seemed better.
+R: I feel I already answered your comment with my previous remarks Beware that your upper corner is still open]
+;W[jl]
+(;B[kl]SQ[kk][ll][jo][lp]C[R: this is not that good a move: your stones are a bit weak, they can be haned from the side. It looks suspicious to me (i marked the major weaknesses). see variations]
+;W[on];B[po]C[R: nice. But I'd have played low, to make a safer enclosure, thus attacking better]
+;W[pj];B[qj];W[pk];B[pl];W[ol];B[pm];W[om];B[pi]C[Here I wanted to make some profit chasing white P8 group, but ended in peril myself.
+
+R: this move is correct: you should seek for territory on the right. the real problem is that l8 makes your stones weak. I guess you have to sacrifice something]
+;W[ll];B[lm];W[kk];B[ml];W[nk];B[lk];W[lj]
+(;B[nj]TR[jj][lj][kk][jl]C[aburm [12k\]: are you here? sorry
+aburm [12k\]: odog?
+aburm [12k\]: do you read me?
+
+R:unfortunately this is not the right move to disconnect (good guess though). The best way is to peep at the hanging connection first (see variation). Always try and think of those kind of moves. Also now you can expect a peep to be useful later. All is explained in the variation]
+;W[mk]C[odog [12k\]: yes];B[ok];W[oj];B[oi];W[ok];B[mi]LB[qd:B]
+[qe:A]C[R: this is bad. you kind of force your opponent in making n10, the move he's wanting and in sente.
+You should now seal off the upper corner with a move such as A (or B) unfortunately now l11 is not as effective as before, so there's nothing in the center. but I think this is still playable for black]
+;W[mj];B[ni];W[op];B[oq];W[mp];B[lp];W[mq];B[mr];W[nr]
+(;B[nq];W[lr];B[mo];W[np];B[oo];W[no];B[nn];W[ms]
+(;B[ll];W[ko];B[kn];W[jo];B[nm];W[mn];B[ln];W[li];B[lh];W[nf]
+LB[nd:A]TR[mh][qi][ql][pn]SQ[fc][ed][ee][ef]C[This invasion seemed too weak to me, but how to contain it?
+
+R: the rule is to push your opponent towards your strength. so a move like o16 would've made the  task of living very difficult. White then would have to run but you have the marked strength to wait for him.
+Please note that you have some weaknesses of your own. So be careful! Usually one has to make a strong, solid shape in order to attack better. this is especially valid on moyo games]
+;B[pf];W[kh];B[lg];W[md]
+(;B[me]C[R: first block the sides];W[mc];B[lc];W[lb];B[kb];W[la]
+(;B[ka]C[R: this is wrong, you basically give away one eye for free.
+remember about the first line…
+See variations];W[nb];B[ob]C[R: never play contact moves when attacking]
+;W[oc];B[pb];W[pc];B[qc];W[od];B[nd]C[Here was a clear  mistake of mine, I should have seal the group small and get territory in the center.]
+;W[ne];B[oe];W[nc];B[qe];W[mf];B[le];W[lf];B[kf];W[kg]C[Here my game was nearly lost because of too strong white moyo. So I tried desperate attempt
+
+odog [12k\]: hey do you want some more time?
+aburm [12k\]: thanks i'm loosing anyway :-)];B[ke];W[mh];B[jg]
+;W[jh];B[il];W[jk];B[hk];W[ig];B[jf];W[if];B[ih];W[hh];B[ii]
+;W[hi];B[ij];W[hj];B[ik];W[ji];B[gk];W[gm];B[ej];W[fj];B[ek]
+;W[dl];B[fk];W[gj];B[hg];W[ie];B[gg];W[jd];B[jc];W[ic];B[ib]
+C[White's time was out here.
+J8 combination success was more luck than anything else, so what is my main mistakes.
+
+R: basically I think you follow your opponent around a bit and I think you lack some skill in attacking. Let me rephrase:
+1) you have always to think about wheter answering your opponent or simply play away
+2) you have to create a strong shape of your own to attack properly later, especially in moyo games. In this position you can see dangerous weaknesses such as q6 and, possibly, q4. Also c8
+3) remember about first and second line plays
+4) try and use your strength (walls) to attack and make extensions far away from them
+5) also be careful with hanes: they leave cutting points (it is ok to play them, but just be careful)
+Apart from that, let me integrate point 1) with some opening remarks:
+a) always try to think at the whole board situation and play moves that go well with your position-strategy
+b) try to not answer the opponent unless you think it's necessary
+c) when the opponent doesn't answer to your corner approach try to punish him in that area. If you can't then your move wasn't sente
+
+I hope this all is clear (I'm sorry if this isn't that bright a review). Should you have any questions, PLEASE ASK, I'll be more than glad to answer you.
+Enjoy your go.])
+(;B[nb]TR[jb][kc][le]C[R: this could be an answer. of course you have too weak a shape to fight optimally, but your opponent is kinda weak too I marked your weaknesses.
+I think that the whole weak position comes from the hane on n15 which made it tougher for you to stay strong]
+))
+(;B[mc]C[R: this way white will have to try and find eyes in the center, which is more difficult]
+))
+(;B[pp]C[R: this is sente and fixes a  weakness of your own. Play it!]
+))
+(;B[kr]C[R: I think this is the only way to live];W[ms];B[lr]
+;W[nq];B[jq]C[R: now you make one eye in l3 and another one either on the lower side or around l6 (an hypothetical sequence follows, a good resistance for white on the side)]
+;W[iq];B[jr];W[ip];B[kp];W[ls];B[ir];W[hr];B[is]LB[jo:B][ks:A]
+C[R: a and B miai for eyes]))
+(;B[ki]C[R:  white cannot ignore this move, oherwise you threaten to capture a huge group, while reducing. You leave him in bad shape after the response]
+;W[kj]SQ[fc][ed][ld][ee][ef][ki]C[R: later black can use these stones for profit. now you can try to disconnect]
+;B[mk]
+(;W[mj];B[nj];W[ni];B[oj]C[R: white gets captured])
+(;W[nj];B[mj];W[ni];B[ph]C[R: now you can use l11 to disconnect]
+(;W[mi];B[li])
+(;W[li];B[mi];W[mh];B[nh]C[R: white cannot connect]))))
+(;B[lm]C[R: this can be a good move that solidly makes shape]
+))
+(;B[md]TR[db][dc][fc][kc][ed][hd][id][kd][ee][ef]SQ[od][pd]
+[qe][qf][qg][qk][lo]C[R: with a move like this one you are setting two frameworks in motion. (as marked) the opponent will most likely invade one area and you will attack him, making territory on the other side]
+)
+(;B[pf]C[R: also a move like this is conceivable, but due to the presence of the white stones in the centre, it's most likely that white will invade the upper side without leaving you enough compensation]
+))
+(;B[ed]C[R: this is to link the groups and make a strong formation]
+;W[db];B[jd]C[R:good for black]))
+(;B[cq];W[cp];B[dq];W[eq];B[er];W[fr];B[ep];W[fq];B[bp];W[bo]
+;B[bq];W[cn];B[dr];W[eo]C[R: here's the joseki, it keeps sente for you too.]
+))
+(;B[cq]C[R: here you try to keep sente. If white doesn't follow the usual joseki, see the full moves]
+;W[cp];B[dq];W[eq];B[er];W[fr]C[R: if white tries this you can reply as follows]
+;B[fq];W[ep];B[gr]
+(;W[dr];B[fs];W[cr];B[hp]C[R: now you invaded white moyo  in sente since k4 is under attack]
+)
+(;W[fp]C[R: this way white keeps sente];B[fs];W[gq];B[fr]C[R: now white still has the problem of the upper corner and he cannot attack]
+)))
+(;B[cf]C[R: this is an aggressive pincer that punishes the fact that f17 was ignored. It can lead to many complicated variations, though, so it has to be played carefully]
+)
+(;B[jd]SQ[pd][qk]C[R: this idea tries to keep up the "big moyo" tempo and makes some kind of loose double wing formation with the other marked stones. 
+White can invade, of course, but you can invade too]))

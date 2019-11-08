@@ -1,0 +1,258 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.17]
+
+PB[mbrx]
+BR[5k]
+PW[Actorios]
+WR[4k]
+KM[0.5]
+DT[2010-10-03]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[B+19.5]
+TM[2400]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+C[Actorios [5k\]: Thank you very much for accepting to review this game. I felt it was a strange game because my opponent was playing very much locally and invading deep (which I believe was "too deep"). I felt he was strong in fighting but not as much in global play. Still, he did win the game undoubtedly by a fair amount of points. I'd like to understand 1/ if I am right in believing some of his moves were slightly abusive? 2/ If so, what were the right move to answer those?
+Regards, Guillaume
+
+GP: Hi, I'm Graham Philips (topazg), currently KGS 2d. I hope to give useful comments and insights where I can (marked with GP:), and I've summarised the key points (and answered your questions) at the end of the sgf. Where I'm offering or annotating variations that deviate from the game, I mark the game move with a square and the deviation with a triangle. If I'm simply offering alternative moves as a comment, I normally mark with a triangle, and most variations have a comment at the end.
+
+*** Important points on moves: ***
+
+5 - Responding, not because it's urgent, but because you can make a good local advantage by doing so.
+16 - Unless you need to live, always look towards the more developable / interesting area, seal in with the thickness where you can make further use of it.
+**27/28** - Don't tenuki when a continuation is both big and urgent (obviously when learning to recognise which these are!).
+**43** - Connecting two weak groups together is huge. Bigger than a ponnuki, and much bigger than edge 2 point jump points.
+48 - Try not to atari in close contact fights unless you have to. Cuts are often left that swing the fight against you.
+**50** - Your group can be made strong by keeping a target to attack. By omitting an urgent local move, the top side got ripped apart here.
+66 + 68 - It is rare that second line is big enough to play in the main part of the midgame with open edges left. These moves were both too slow, particularly 68 where the open skirt wasn't even dangerous.
+72 - Useful shape point.
+90-100 - Discussing the invasion of Black's at the bottom has some important fighting sequences and comments.]
+;B[pd];W[cp];B[dd];W[pp];B[no]TR[pn][nq]SQ[eq]C[Actorios [5k\]: This move surprised me a lot : I couldn't consider it as a threat, therefore I completed my shimari. Is it playable from black's point of view ?
+
+GP: It's not a threat - it is however rather nice of Black. He's forced you to expand in a way that you would want anyway, and I would definitely choose to respond. You have two choices here locally, either O3 or Q6, depending on where you gain greater value. Because Black has the stone at Q16, I feel that O3 gives Black chances to make good influence on the right side, so I would choose Q6 to negate it first (see variations)]
+(;W[eq];B[pn];W[nq];B[pr]TR[oq]SQ[qp]C[Actorios [5k\]: Is this move abusive (it looks like it was). What was the right answer to it ?
+
+GP: Yes, this move is juse poor, but because Black has 3 stones to your too, it's a hard fight for White as well. Not responding to O5 is beginning to hurt a bit now. My choice here as White would be P3 and force Black low and small, and at least give yourself outside thickness.]
+(;W[qp];B[oq];W[op];B[nr];W[np];B[mr]TR[lq]SQ[qr]
+(;W[qr]C[Actorios [5k\]: [Actorios\] Was this move playable from white's point of view ?
+Actorios [5k\]: What was the most appropriate answer locally?
+
+GP: I think nothing locally is very important in the corner. I would choose to build an attack against the two stones if possible. Maybe M3, developing outside strength so that you can comfortably pincer. Securing the corner here is small, as you risk possibly even being sealed in in gote if Black can get M4 in.]
+;B[ro]TR[lq]SQ[on]
+(;W[on]C[GP: Locally a good tesuji, but now M3 is huge, Black will die at the bottom if he isn't careful.]
+;B[oo]TR[qn]SQ[po]
+(;W[po]TR[qn]SQ[mo]C[GP: Tesuji is normally R6, else Black gets to force Black to stay separated.]
+(;B[mo]C[GP: Black should play R6 and try to make it hard for White to live locally.]
+;W[qn];B[pm];W[qm];B[pl];W[ql];B[pk]TR[aa][nc][qj]SQ[jc]C[*** JUMP AHEAD BEFORE TENUKI ***
+
+GP: You've given Black some fairly good thickness, but you also have little to complain in this corner. Your actual profit is quite reasonable. However, it's also big not to tenuki here. Because Black has Q16, he wants to develop both the top side and the upper right hand side in a fast manner, and by allowing Black R9 you give him a good chance to build a strong and thick moyo. Instead, White should seek the first available moment to jump ahead at R10 before tenuki.]
+(;W[jc]C[GP: A mistake - see previous comment and variations. Even locally I would much prefer to approach a corner up here than play in the middle. I would most likely choose to approach at O17, because this either lets you take a reasonable corner, or it allows you to develop the top whilst minimising the value of his influence.]
+;B[qk];W[rp];B[rk];W[so]C[GP: For Black to force White to play S4 and T5 and keep sente is massive. This exchange cost you easily 15 points and Black succeeded in doing so whilst keeping sente - this is a painful loss!]
+;B[oc];W[qf]C[Actorios [5k\]: Was this invasion abusive?
+
+GP: Yes, it is unreasonable. Even if you succeed in living on the edge it is unlikely to be a success now, as Black's thickness will be very powerful (including allowing him to further attack the top stone). This is all because of tenuki-ing and allowing Black to get R9. A better strategy here would be to reduce, but it is best first to look after the top stone so that Black cannot develop an attack against both sides at once.]
+;B[qe];W[pf];B[re];W[nf]C[GP: Good!];B[rf];W[oi];B[qh]TR[md]
+SQ[mc]
+(;W[mc]C[Actorios [5k\]: I feel that N17 wasn't the best way to connect. I played it out of the willingness to make a base at the same time
+
+*** CONNECTING TWO WEAK GROUPS IS WORTH MORE THAN A 30 POINT PONNUKI ***
+
+GP: Yes, but here the value is not in the base, but in connection and stability. I would choose N16 here as it concedes a small amount at the top for a solid strong group that cannot be attacked. This is worth 30+ points more than having a base but being cut in two.]
+;B[nd]
+(;W[me];B[md];W[ld];B[le]TR[kd]SQ[lf]
+(;W[lf]C[GP: This atari is difficult, as it forces Black to increase pressure on your top group. It is better to force M15 to just become an isolated stone that must look after itself, rather than be encouraged to do so by White's pushes.]
+;B[ke]TR[kc][kd]SQ[gc]
+(;W[gc]C[*** KEEP YOURSELF STRONG, AND THE OPPONENT WEAK - URGENT BEFORE BIG ***
+
+GP: This is going fishing with your house on fire. You cannot let Black easily settle his L15 stones by a) killing yours, and b) separating you into two groups. This is very costly.]
+;B[kd];W[lc];B[kc];W[kb]C[GP: White's shape is broken.];B[jb]
+(;W[ib];B[lb];W[ja];B[mb];W[cj]C[Actorios [5k\]: I felt like I played the big points in the game but still couldn't get away with them.
+
+GP: Points in open area aren't necessarily the biggest points. Urgent before big is a common proverb, but this game illustrates exactly why it exists... allowing Black to play R9 (tenuki for K17) and to kill M16 (semi-tenuki for G17) both cost you very dearly in the game.
+
+Still, this is a very big point to play, just don't underestimate the value of settling the O14 group further first.]
+;B[ec];W[cf];B[ce];W[df]C[Actorios [5k\]: I was very satisfied of my approach (perfect extension and of my overall position of the board.) Maybe the moved weren't correct but the result looked very good for me
+
+GP: Yes, this is good - I would now prefer C10 at D10, but still the development is effective. White's chances are now good if everything stays alive. C17 is also working right now.]
+;B[be]TR[jq]SQ[bf]
+(;W[bf]C[GP: Small, it's second line. I would take a big point on the lower edge - you can now have fun harrassing that bottom group.]
+;B[fb]TR[fe][ej][jq]SQ[gb];W[gb]C[GP: Absolutely tiny. This is the sort of move to stop playing entirely. Locally, F15 trying to seal Black in is fine, but the tenukis at K3 or E10 are much more valuable than this as well.]
+;B[co];W[do];B[cn]TR[bp]SQ[dn]
+(;W[dn]C[GP: White should also consider the normal B4, as Black can take it and live immediately if White plays here. It may be that this works more closely with a moyo strategy, but L15 and N5 are both strong alive Black stones, and any premature attempt to build a moyo may enable Black to attack the O14 group. As a result, forcing Black to run out feels more likely to be effective.]
+;B[cm];W[dm];B[ck];W[dl];B[cl];W[dk];B[bj]
+(;W[ci];B[bp];W[cq];B[bq];W[br];B[ao];W[bi];B[ak];W[jq];B[lq]
+;W[jn];B[hn]C[Actorios [5k\]: Once again, I feel that black is hoping for too much. But I couldn't refutate his play.
+
+GP: Your refutation began well.];W[il]C[Actorios [5k\]: [Actorios\] What was the best way to take adventage of my wall ?
+
+GP: This is perfect!];B[ej]TR[eh][gl]SQ[dj]
+(;W[dj]C[GP: See comments on your suggested move.];B[jp]
+(;W[io]C[Actorios [5k\]: [Actorios\] I played the shape but I guess this wasn't the best choice locally, what do you think ?
+
+GP: Correct shape is definitely J4 here. You cannot afford the huge loss of K3 in Black's sente.]
+;B[ip];W[ho];B[iq];W[gq]C[GP: Very very painful for White. You lose 10 points, and Black keeps sente. Another huge loss for the game as a whole.]
+;B[hr];W[gr];B[ko];W[lm];B[ln];W[km];B[mm];W[ml];B[nm];W[gf]
+C[Actorios [5k\]: Was it the right position to enclose the center ?
+
+GP: Slightly thin, but reasonable.];B[kf]TR[jh]SQ[lg]C[GP: The single stone is unimportant. Get your moty and ignore the capture risk.]
+(;W[lg];B[kg]
+(;W[lh];B[kh];W[li];B[fg];W[ff];B[eg]
+(;W[ef];B[gg];W[hg];B[hh]
+(;W[ih];B[ig];W[hf];B[ii]C[Actorios [5k\]: The double hane proved to be a poor choice of mine.
+
+GP: I'm not sure you had any choice. I think it was better than the extension (see my continuation to move 124 var)]
+;W[gh];B[hi];W[fi];B[fj];W[ei];B[gi];W[fh];B[gk]C[Actorios [5k\]: This situation looks very bad for me at this stage.
+
+GP: Agreed.];W[jg];B[jh];W[gm];B[gs];W[fs];B[hs]
+(;W[er];B[hq];W[qi];B[ri];W[pi];B[qg];W[pg];B[jk];W[jl];B[kk]
+;W[rj];B[rh];W[qj];B[sj]C[Actorios [5k\]: This reduction was small. Are there better (sente) options on the board for white?
+
+GP: It's sente, so it's fine. There are some yose points such as A15, and F17 isn't tine. There is not a great deal to play for now though.]
+;W[ol];B[om];W[nl];B[nj];W[oj];B[ok];W[nk];B[ll];W[mj];B[mk]
+C[GP: Ouch!];W[ni];B[nk];W[cc]C[Actorios [5k\]: Was this abusive? Is there any hope from the white presence on the side?
+
+GP: You are losing, so no harm in trying :)];B[bb]TR[db]SQ[bc]
+(;W[bc];B[cb];W[ae];B[ad];W[ac];B[af];W[ag];B[ae];W[de];B[cd]
+;W[dc];B[ed];W[db];B[eb]C[Actorios [5k\]: Was there any way for white to get away from this situation?
+
+GP: Not that I can see.];W[ab];B[ba];W[aa];B[ea];W[da];B[bd]
+;W[ca];B[bb];W[fd];B[ba]C[Actorios [5k\]: The semeai is lost.
+
+GP: Yes.];W[pq];B[or];W[rl];B[sl];W[sm];B[sk];W[jd];B[if];W[ie]
+;B[je];W[gl];B[hk];W[aq];B[am];W[ai];B[fl];W[fm];B[el];W[aj]
+;B[bk];W[kj];B[jj];W[ek];B[fk];W[em];B[qs];W[rs];B[ps];W[rr]
+;B[ne];W[mf];B[kl];W[ik];B[hl];W[hm];B[ij];W[hp];B[jo];W[im]
+;B[kn];W[la];B[nc];W[ma];B[na];W[ka];B[ph];W[oh];B[ki];W[lj]
+;B[pe];W[of];B[oe];W[ng];B[ap];W[ar];B[mq];W[mp];B[lp];W[ee]
+;B[cb];W[ga];B[tt];W[jm];B[tt];W[tt]TW[ha][ia][hb][jb][hc][ic]
+[gd][hd][id][fe][ge][he][bg][cg][dg][eg][fg][gg][mg][og][ah]
+[bh][ch][dh][eh][mh][nh][di][mi][rm][en][fn][gn][hn][in][rn]
+[sn][eo][fo][go][qo][ro][dp][ep][fp][gp][sp][dq][fq][qq][rq]
+[sq][cr][dr][fr][sr][as][bs][cs][ds][es][ss]TB[aa][ca][da][oa]
+[pa][qa][ra][sa][ab][db][nb][ob][pb][qb][rb][sb][ac][bc][cc]
+[dc][lc][mc][pc][qc][rc][sc][ld][od][qd][rd][sd][se][jf][sf]
+[jg][rg][sg][ih][sh][ji][si][gj][hj][al][bl][ml][nl][ol][bm]
+[an][bn][mn][nn][on][bo][lo][kp][jq][kq][ir][jr][kr][lr][is]
+[js][ks][ls][ms][ns][os]C[*** In Summary ***
+
+To be honest, the problems here were consistent throughout the game, and were down to undervaluing local continuations. The sequence on the right and the sequence at the top both went extremely badly for you due to a mistimed tenuki. The proverb "urgent before big" is well known, and of course the urgency actually reflects on the size (as not playing costs a lot of points, it's the same as it being big really).
+
+Always staying ahead on the right is always big. Sometimes it feels a bit odd keeping trotting along like that, but as long as you can get ahead you have nothing to complain. Black's lean was _huge_.
+
+The top was a case of Black having a weak separated group, and your tenuki let him connect, kill something of White's, and also to separate White into two not-completely-settled groups. Keeping Black's group as the weak one would have made the whole middle game much easier for you.
+
+Other than that, much of your instinct globally was very sound, the 20 point deficit was almost entirely due to those two mistakes.
+
+I hope these comments are in some way helpful. If you have any responses / queries / comments or would like further input on specific moves or areas, do feel free to ask!]
+)
+(;W[db]
+(;B[bc];W[eb]C[Connection miai ;)])
+(;B[eb];W[bd];B[ae];W[cd];B[de];W[dc];B[ed]C[GP: Something like this is the best you can hope for - it still looks dead to my eye though.]
+)))
+(;W[hq]C[Actorios [5k\]: I should have read... I guess an extra move from white wasn't needed here.
+
+GP: Agreed.];B[fr];W[es];B[er];W[ds]))
+(;W[ig];B[ih];W[jh];B[jg];W[ji];B[hf];W[if];B[he]C[A disaster for White.]
+))
+(;W[hh]C[I guess I could have allowed this cut. The white group above cannot be killed. What do you think ?
+
+GP: I agree.];B[ef];W[ee];B[de];W[fe]))
+(;W[ii]C[Actorios [5k\]: [Actorios\] Would have this move be a better choice to make something out of the center ?
+
+GP: See move 111 comments.]))
+(;W[jh];B[kh];W[ki];B[lh];W[li];B[jg];W[ih];B[mi];W[mj];B[ni]
+;W[nj];B[mg];W[pj];B[oh];W[nh];B[mh];W[ph];B[og];W[pg];B[of]
+;W[oe];B[ng];W[pe];B[ne]C[GP: Slightly contrived, but a good example of how hard it is for Black to earn real profit from the attack. The game is very close here.]
+))
+(;W[ip];B[iq]
+(;W[hq]C[GP: Wrong side.];B[io];W[ir];B[jo]C[Actorios [5k\]: This would have been a catastrophe.
+
+GP: Yes, it would.])
+(;W[jo];B[kp];W[hq];B[ir];W[hp];B[hr];W[gr];B[jr]C[Actorios [5k\]: I guess this looks slightly better than what was played (from my standpoint).
+
+GP: Yes, this looks very reasonable. I would choose this result.]
+)))
+(;W[eh]C[Actorios [5k\]: I probably didn't need to connect. What do you think? I played it to free my mind of the weight of one more group to make alive.
+
+GP: He cannot attack that group by cutting. Black's stones will be considerably weaker than White's. If you wish to secure the group, connecting is correct. However, I would have chosen G8 instead here, securing the likely death of H6.]
+)
+(;W[gl];B[dj];W[fi];B[fj];W[gj];B[gi];W[fh];B[gk];W[hj];B[hk]
+;W[ik]C[GP: Black cannot escape this White thickness.]))
+(;W[bk]C[GP: Game was definitely better than this.];B[ci];W[dj]
+))
+(;W[cl];B[dn];W[eo]C[Actorios [5k\]: Would chasing him away have been a better option to deal with the invasion?
+
+GP: Yes, I think so, this line also lets Black escape with B4 (allowing B3 for two eyes on the edge)]
+)
+(;W[bp];B[dn];W[eo];B[fm];W[jq];B[lq];W[hp]C[GP: White can develop points down here as well as attack the Black group. The game is difficult, but White's combined corners are abpout as valuable as Black's now - developing the middle is everything!]
+))
+(;W[jq]
+(;B[lq];W[hp]C[GP: Now White's corner is very large and imposing. Never underestimate the value of forcing your opponent to connect on dame whilst you make profit.]
+)
+(;B[bf];W[lq];B[lr];W[kr]C[Black cannot ignore, or he dies.]
+)))
+(;W[lb];B[ic];W[jd];B[ie]TR[ib][je]SQ[id]
+(;W[id];B[hd]C[Actorios [5k\]: Just checking the option of cutting. Of course, it ends with a net.
+
+GP: Not quite - see var two moves back.])
+(;W[ib];B[id];W[ja];B[je];W[hb]C[This works ..])
+(;W[je];B[kf];W[jf];B[kg];W[id]C[This works at the cost of risking White's upper right middle group.]
+)))
+(;W[kc]C[GP: Not severe enough against the two White stones.]
+;B[gc])
+(;W[kd]C[GP: Threatening the ladder, and making it very hard for Black.]
+;B[kf];W[lg];B[ie];W[gc]))
+(;W[kd]TR[lf][mf]
+(;B[mf];W[ne];B[mg];W[nh]C[I think White must now fight and fight hard. If the fight is successful, and White is stronger now than Black locally, then White's prospects for the game are still good.]
+)
+(;B[lf];W[nh];B[mg];W[ng];B[li];W[mi];B[lh];W[mk]C[The fight rages on - this one is harder for White - again illustrating the benefits of not playing the atari.]
+)))
+(;W[lf]C[Actorios [5k\]: As an after thought, I believe I would have played here. Is there any other good options to consider to deal with this situation?
+
+GP: This is good shape, and better I think to the purpose of keeping security for your important groups.. However, it highlights the error of N17.]
+))
+(;W[md];B[mc];W[lc]
+(;B[ld];W[kd];B[le];W[me]TR[nc][lf]C[Triangles are miai])
+(;B[nd];W[me]C[White is very happy])))
+(;W[aa]C[Tenuki variation.];B[qk];W[rk];B[rj]C[This is severe, and very big for Black. White suffers a big local loss here, as this helps develop Black, creates good thickness, and lacks any form of easily exploitable weakness.]
+)
+(;W[qj]C[Now White can continue building the right hand side, and can squeeze Black's liberties if Black takes tenuki.]
+;B[aa];W[pj];B[oj];W[oi];B[nj];W[ph]C[White is now aiming at the corner, and Black's thickness has considerably less purpose. The difference between this and the tenuki variation is huge.]
+)
+(;W[nc]C[I still believe local (R10) is far superior, but this provides an interesting alternative.]
+(;B[lc];W[qc]
+(;B[qd]C[This block doesn't work for Black, as it is White's sente]
+;W[pc];B[od];W[nb];B[me];W[qj]C[Destroying the value of the Q16 wall.]
+)
+(;B[pc]C[The appropriate side to block.];W[qd];B[pe];W[pb];B[ob]
+;W[qb];B[oc];W[qf];B[og];W[qg];B[dj]C[Black still has a very intimidating thickness to handle, but at least White has a lot of cash already.]
+))
+(;B[qf];W[jd];B[qk];W[fc];B[cf];W[fe]C[Black's R14 is too passive, and it allows White to start building a useful framework at the top.]
+)))
+(;B[qn];W[mo];B[nn];W[mn];B[nm];W[lq];B[lr];W[kq];B[kr];W[jq]
+C[Black can make a very good right side development here, although White still gets a good lower side result.]
+))
+(;W[qn];B[qo];W[po];B[pm];W[mo];B[nn];W[mn];B[nm];W[rn]))
+(;W[lq]
+(;B[mq];W[mp];B[lp];W[kq];B[lo];W[pq];B[or]C[Black is just dead here.]
+)
+(;B[lr];W[kq];B[kr];W[jq];B[jr];W[iq]C[White's outside thickness is much better than Black's gain at the bottom. Not only is White waiting to get a good extension on the left, but J2 is now sente (see continuation)]
+;B[sa];W[ir];B[sb];W[pq];B[or];W[ps];B[os];W[js];B[ks];W[ms]
+)))
+(;W[lq]
+(;B[lr];W[kq]C[Now Q8 for White suddenly looks interesting. L3 is important because you are playing for the ladder (see continuation)]
+;B[mq];W[mp];B[lp];W[lo];B[kp];W[jp])
+(;B[mq];W[mp];B[lp];W[kq];B[lo];W[pq];B[or];W[qr]C[Now this simply kills, so Black cannot afford to try and cut.]
+)))
+(;W[oq]C[All of these variations are ok for White]
+(;B[qp];W[qo]
+(;B[qq];W[po])
+(;B[po];W[rp];B[qq];W[qn];B[qm];W[rm];B[ql];W[rq];B[rr];W[rl]
+;B[sq];W[so];B[qs];W[pq];B[or];W[nr];B[os];W[qk];B[pk];W[pj]
+;B[ok];W[qj]))
+(;B[qq];W[qp];B[rp];W[ro];B[rq];W[qn])))
+(;W[nq];B[pn]C[This works well for Black globally, although the local corner result is still very good for White.]
+)
+(;W[pn];B[nq];W[hq]TR[ep][kq]C[Black cannot easily pincer now, because L3 is waiting for White and Black will have no severe attack. Also, if White gets to complete his shape with E4, he has a perfect high shimari corner shape. White has also helped to damage Black's development potential from the top right corner.]
+))

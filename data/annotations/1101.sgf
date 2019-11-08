@@ -1,0 +1,108 @@
+(;FF[4]GM[1]SZ[19]AP[SGFC:1.13b]
+
+PB[joanco]
+BR[NR]
+PW[GNUGO 2.7]
+WR[16k]
+DT[2000-03-26]
+RE[B+5]
+
+C[Dear reviewer: I played black and my opponent is gnugo 2.7 (computer
+program). I
+don't know my rank and the opponent play on IGS about 16k.  I won the game
+(+5)
+without komi, with komi i lose 0.5.  I played few games with human
+opponents.  I'm
+a beginner but I read some books.  Thank you for your commentaries.]
+;B[qd];W[cc];B[pq];W[dq];B[oc];W[do]
+(;B[ed]C[This is an unusual approach
+to the
+3-3 stone.  The usual approach is the 4-4 point (Hoshi).  See variation from
+the
+previous move with one possible continuation.];W[de];B[ee]C[This response
+is
+ok, but...];W[df]C[it is painful to allow/force white to continue along
+the 4th
+line and...];B[ef]C[this move continues to push white from behind, while
+not
+gaining enough strength for black to compensate.  However, black's next
+play...];W[dg];B[pj]TR[ed][ee][ef]C[makes efficient use of the plays in the upper left.]
+;W[qo];B[qp]TR[pj]C[this is an excellent play by black for this
+situation.  The presence of the marked black stone means that white may be
+forced
+into an inefficient extension.];W[po];B[np]C[good continuation by
+black];W[ql]TR[pj]C[white would like to extend one more space from a two stone
+wall,
+but Q10 interferes.];B[jp]LB[qj:A][jq:B]C[I feel this is the wrong side
+for
+black right now--black should consider A (R10) instead to strengthen the
+upper
+moyo and to put additional pressure on white's group.  In this manner, black
+is
+forcing white while securing territory on both sides. The lower right corner
+is
+secure for now.  One other comment--a play in this area by black should be
+at B
+(K3) instead of K4.  It makes better shape and balances better with the
+corner
+stones.];W[ph];B[jc]LB[qj:A]C[White Q12 should not be ignored.  Black
+has
+several choices, but should work to keep white's stones separated and weak.
+Allowing white to connect underneath and settle his stones is too lenient.
+A
+(R10) is still a good play];W[qj];B[pk];W[qk];B[pl];W[pm];B[om]
+;W[pi];B[pn];W[qm]C[White is settleld,
+with
+12+ points of territory.];B[oo];W[hp];B[dj]C[A reasonable place to start
+on the
+left side.];W[je]C[This move is hard to ignore...why let black's moyo be
+so
+easily invaded?];B[cm]C[This isn't exactly a forcing move, but white
+responds];W[bn];B[bm]C[This, however, is definitely slow, and white tenukis]
+;W[kc];B[id];W[kd];B[mc]C[a very slow move.  the left side and upper right side
+are more
+important, now.];W[eb]C[White is seeking to set black's stone floating]
+;B[dd];W[cd];B[fc];W[me];B[eg]C[Also a slow move by black.]
+;W[oe];B[qf]C[a
+good move--gains territory and threatens at the same time.]
+;W[qg];B[mk]LB[jj:A][jk:B][jl:C]C[much too close to black's wall.  Should be
+around K9
+or K10];W[kk];B[jn]C[This doesn't pressure white's L9 and allows white's
+next
+move...];W[lm];B[ln];W[mn];B[mm]C[good cut];W[pf];B[mo];W[qe]
+;B[re];W[rf];B[rd];W[kn];B[lo];W[km];B[ko];W[jm];B[in];W[ml]
+;B[nn];W[ll];B[nl]C[black is
+perfectly safe, but all of this has been relatively slow and white now is
+threatening a central moyo of some size];W[hl];B[ch]C[good move]
+;W[dh];B[ci];W[eh];B[fh];W[hn];B[im]C[there are still large moves than
+pushing
+one stone at a time.  B14, e.g.];W[ik];B[il];W[jl];B[lk];W[hk]
+;B[fj]C[again,
+too small.  there is no hope that black is going to kill white in the upper
+left.
+E18 ensures this.];W[hm];B[em];W[co];B[jj];W[jk];B[kj];W[io]
+;B[jo];W[qn];B[on]C[do not need to connect at this point.];W[fi]
+;B[gi];W[ei];B[gj];W[fg];B[gh];W[ej];B[gf];W[ig]C[The remainder is late middle game and end
+game.
+Black's instincts in the opening were quite good.  In middle game, black
+should
+focus on larger moves where possible.  You must consider the consequences if
+you
+tenuki a position and your opponent tenukis your own move--is it an even
+exchange
+or do you suffer in comparison?  No further comments];B[ii]
+;W[ek];B[dk];W[fk];B[gk];W[lg];B[ni];W[jb];B[ib];W[kb];B[gl]
+;W[ia];B[ha];W[ja];B[hc];W[ng];B[cg];W[mb];B[nb];W[lb];B[iq]
+;W[hq];B[ip];W[ho];B[fo];W[fq];B[ep];W[fn];B[en];W[eo];B[gn]
+;W[fm];B[gm];W[fl];B[go];W[fp];B[be];W[ce];B[bf];W[fb];B[gb]
+;W[bd];B[cf];W[jh];B[gp];W[gq];B[oh];W[og];B[oi];W[lh];B[ie]
+;W[ro];B[rp];W[sp];B[sq];W[so];B[rr];W[ir];B[jr];W[hr];B[pp]
+;W[js];B[ks];W[is];B[lr];W[am];B[al];W[an];B[bl];W[pd];B[pc]
+;W[dc];B[ec];W[mh];B[mi];W[li];B[lj];W[hf];B[gg];W[if];B[he]
+;W[ld];B[od];W[nd];B[nc];W[ma];B[pe];W[qf];B[md];W[ne];B[pd]
+;W[na];B[oa];W[ki];B[hj];W[ae];B[af];W[ad];B[cn];W[bo];B[fa]
+;W[db];B[ea];W[el];B[dl];W[se];B[sd];W[sf];B[jd];W[dn];B[dm]
+;W[da];B[ga];W[hg];B[hh];W[nh];B[oj];W[ih];B[ij];W[ji];B[lc]
+;W[di];B[ka];W[ke];B[ff];AE[ep];C[Pass];C[Pass];C[Pass];C[Pass]
+)
+(;B[dd];W[dc];B[ed];W[be];B[dg];W[fb]))

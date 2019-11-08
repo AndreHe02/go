@@ -1,0 +1,202 @@
+(;FF[4]GM[1]SZ[19]ST[2]AP[SGFC:1.13b]VW[]
+
+PB[tolano]
+BR[22k*]
+HA[0]
+PW[dbriggs]
+WR[23k]
+KM[0.5]
+DT[1999-02-12]
+PC[IGS]
+RE[B+R]
+GC[white resigns after successful invasion by black in upper right corner]
+
+
+;B[qd]C[dbriggs (White) wrote (in part): "As you'll see, though I'm not quite
+sure how, I failed to prevent an incursion on the top left and failed at an
+invasion of my own on the right side."
+
+Hi,
+
+My comments on this game concentrate on the early stages, where I think
+White had several chances to gain the advantage, and  on some missed
+possibilities in the middle, when White was well behind but still had some
+play.
+
+The two invasions you ask about happened after the game was effectively
+decided; I've commented on them as well, since you asked.
+
+Please bear in mind that I'm not a strong player myself, so if anything I
+say seems wrong to you, try testing it!
+
+I've added various marks and variations as part of my comments.  I think my
+SGF editor works all right, but please let me know if you have a problem
+seeing any of them.  I've also used co-ordinates to described marked stones
+and positions.
+
+--edgy];W[dp];B[pq];W[dd];B[pj];W[jd];B[jp];W[dj]C[The game shapes up as a battle of moyos.  White will always have to watch
+out for invasions on the 3-3 points, while Black's corners are easier to
+make into territory.  On the other hand, White's stones on the 4-4 points
+have more influence on the center.];B[jc];W[ic];B[kc];W[id]
+LB[kd:a]C[Not necessary.  Better to play 'a' ( L16), pushing Black along the third
+line.];B[kd];W[ib]LB[ke:a]C[Small. 'a' (L15) is better, trying to confine Black to the upper side and
+expand White's moyo in the center.];B[jb]C[Black should push into the center instead.]
+;W[ja]C[Again, L15 is better.];B[ka];W[ia];B[lb]C[Not needed at all.  Black should play L15 himself.]
+;W[ke]C[Good move.];B[le]
+(;W[kg]C[Loose.  L14 is solid; White is building a larger framework on the upper
+left than Black is in the upper right, and he's ahead in the stone's
+walking--L14 M14 L13 and if M13, M12 pushes Black again.
+
+Maybe even M14 here,  threatening to cut at M16: if  B cuts with L14,  W
+K15 B M13 W M16.
+
+See variations.];B[kf]
+(;W[lf]LB[je:a][jf:b]C[Connecting at 'a' (K15)  is important. Then B probably has to defend his
+cutting points, so Whte gets in 'b'  (K14) as well.  See variation.]
+;B[je];W[ie];B[mf]LB[jg:a]C[I think 'a' might be better for Black here--those two White stones in the
+center are in trouble anyway.];W[jf];B[lg];W[ke];B[lf]
+(;W[je]C[Small.  Better L12, I think, and White is still ahead.  If black takes
+the ko, White can simply connect.  (See variation)];B[kh]C[Big move for Black.]
+;W[jg];B[ki]LB[jh:a]C['a' (K12) is more vigorous, pressing White back from the center.]
+;W[jj]LB[ii:a]C[This and the next are too loose--black pushes through into White's area.
+'a' (J11)  here is more sensible, though I think Black has some advantage,
+since he'll be able to extend along the K-line,making a bigger framework
+than White, and has better invasion prospects in White's territories.
+.];B[kj];W[kk]LB[ji:a][jk:b]C['a' here (K11) is sounder, though Black can then play 'b' (K9).]
+;B[ji];W[hi];B[ij];W[jk];B[ii];W[hk];B[hj]
+(;W[ik]C[Ugh. Because the sequence  G10, J9, J8, G11 is very good for Black
+too(see variation), I can't see anything better,  but now Black bursts
+through.];B[gj];W[fk];B[fi];W[fj];B[gi]
+(;W[gk]LB[ei:a]C[Much better to play 'a' (E11) here, strengthening the left side more.  A
+Black push at G9 is nothing to worry about (see variation), and the
+invasion Black makes next would be much harder.];B[cj];W[ci]
+;B[ck];W[dk]LB[cm:a][cn:b][ei:c]TR[gk]C[Rule of thumb:  when you're trying to kill an invasion, play away from
+the enemy stones.  That limits the space available for him to make eyes.
+Contact plays often leave the stone you played vulnerable to a
+counter-attack.    Here something like a  (C7)  or b (C6)  limits Black's space.  White would
+be happier with a stone on E11 (c) instead of the marked stone (G9),
+though, since then Black's D9 wouldn't threaten D11.];B[cl]
+
+(;W[dl]C[It gets harder and harder to kill ths invasion. The sequence D7  C7 C6
+(see variation) or C6  immediately seem  better; at least then Black will
+live small if at all.];B[cm];W[dm]LB[co:a][dn:b]C[Again here, 'a' (C5) or jumping ahead with 'b' (D6) seem better,
+alythough I think Black clearly lives now.];B[cn];W[dn]LB[cp:a]
+C[Here it is probably better to shut Black out of the corner with 'a' (C4).]
+;B[cp]
+(;W[do]LB[cq:a]C[And here 'a' (C3) keeps more of the corner territory (see variation).]
+;B[cq];W[dq];B[cr];W[co];B[bo];W[dr]TR[jp]C[It's probably better here to start some trouble on the right, perhaps by
+trying to cut off the marked stone (K4).  I'll say more about this in a few
+moves.];B[ds]LB[mp:a]C[And here Black 'a' is bigger, consolidating the lower side.]
+;W[es];B[cs]TR[jp]C[Now Black has devestated White's potential territory, and is way ahead.
+White will have to invade the right side. to have any chances at all.  An
+invasion in the upper right is hard, because Black has so much thickness
+there.   But, White has one strong feature:  walls on the left and in the center
+facing the lower side, so attacking the marked stone (K4)  should be a good
+idea, possibly in combination with an approach to the lower right corner
+around R5.]
+(;W[gp]LB[lp:a][mp:b][qo:c]C[Wrong direction.  This does nothing to reduce Black's framework.    'a'
+(M4) or 'b' ( N4)  is better; then Black's K4 stone would be in trouble,
+and W can aim at an invasion around 'c' (R5).
+
+The problem is, the stone White just played is too near White's walls of
+stones.  "Play away from thickness" is a good proverb--playing around N4
+would drive Black towards that thickness, which would be very
+uncomfortable.  White could end up with a big territory on the lower side
+to compensate for his losses elsewhere.  See the variation.]
+;B[hp];W[hr];B[ir]LB[lq:a]C[A move around 'a' (M3) seems more solid.]
+;W[hq]C['a' (J3) splits up Black's stones.  Things are messier then, and White
+*needs* something messy now.];B[iq];W[ho];B[ip];W[hm]LB[nq:a]
+[np:b]MA[gq][go][er]C[Now Black has ruined White's potential on the lower side, too. It might
+still be worth trying 'a' or 'b' intending to extend towards Black's K4
+group if Black seals off the corner..    White is in great difficulty.  Aside from being well behind on territory,
+there are cutting poins(marked)  all over on the lower left side.]
+;B[io];W[is]LB[hn:a]C[This is small and leaves dangerous cuts at for Black.  H6 ('a')  is
+probably necessary sooner or later.];B[js];W[hs];B[kr];W[ko]
+C[Right idea, trying to reduce Black's lower side, but those cutting points
+are going to be nasty.];B[mo];W[km]LB[lm:a]C['a' (M7) instead might be a little more effective.  Also, White is
+running out of room to invade the lower right.  The more stones Balck gets
+to play to consolidate his position there, the harder an invasion gets.]
+;B[lm];W[ll];B[mm];W[ml];B[nl];W[kl]LB[nj:a]C[not much point. 'a' (O10) or maybe O9 seems more likely to cause problems.]
+;B[mk]C[White's incursion han't cost Black much, and in fact it has thickened
+Black's position in the lower side. It will be harder to invade the right
+side now.   White doesn't have reasonable play for a win that I can see. From here on
+I'm going to basically limit my comments to the invasions at the end that
+you asked about.];W[lk];B[mj];W[lj];B[li];W[ln]C[Just forces black to strengthen himself.]
+;B[mn];W[fh]C[This doesn't really contain Black.];B[gh];W[gg]
+;B[eh];W[fg];B[ei];W[eg];B[dh];W[dg];B[ch];W[cf];B[bi];W[di]
+LB[gq:a]C[Somewhere around here, White needs to go back and do something about
+those cutting points in the lower side.  Maybe 'a' (G3).];B[bg]
+;W[bf];B[hh];W[hg];B[ih];W[ig];B[lo];W[kn];B[kp];W[in];B[go]
+;W[hn];B[gq];W[fp];B[gr];W[fq];B[gs];W[fr];B[fs];W[er];B[ej]
+;W[ek];B[cg];W[ee]C[Not needed.  An invasion of the right side is almost sure to fail now,
+because of all the Black stones in the area, but there's nothing else to do.]
+;B[af];W[ae];B[ag];W[be]LB[bd:a]C['a' (B16) instead would have more influence on the corner and make
+Black's invasion there harder.];B[oc];W[jo];B[dc];W[ec]LB[cc:a]
+C['a' (c17) is simpler.  It's very hard for Black to make eyes if he's shut
+out of the corner.];B[cc]
+(;W[cb]LB[bc:a]C['a' (B17) is  simpler.  The stone can't be cut off (if B16, C16 (see
+variation) ) and it keeps black away from the edge (where it's easier to
+make eyes).];B[bb];W[db];B[cd];W[bc]LB[bd:a]C[Again, a move like 'a' (B16) seems simpler.  There simply isn't enough
+room in the corner for Black to make two eyes then.];B[bd];W[ac]
+;B[de]
+(;W[df]C[White has time for E16 D14 E14.  Then Black can't play atari with a16 or
+c15, because White would play the other point and capture Black.  See
+variation.];B[ed];W[fd];B[ad];W[dd];B[ab]
+(;W[ce]C[Here B19 kills Black by destroying his second eye.  See variation.]
+;B[ba]C[Now Black is just alive.];W[bc];B[ac];W[ca]C[Blunder.]
+;B[eb];W[fb];B[ea];W[fa];B[da];W[qn]C[At this point, even if the invasion is wildly successfuly, White loses.]
+;B[qo];W[qm]LB[qk:a][pk:b]C['a' (R9) offered more chance of living, or 'b' (Q9) when maybe White can
+make something of the  09 and n12 cuts.  But it's retty hopeless--White
+can't live unless Black blunders badly, much less win.
+
+(When trying to live, make contact with the enemy stones and try to
+increase your eye-space as much as possible.)];B[qk]C[Now White just has too little space to make eyes.  Notce that Black
+didn't make another contact play, but instead played away from the invading
+stones to limit their potential eye space.];W[rl];B[ql]LB[rk:a]
+[ro:b]C['a' (S9) or 'b' (S5) kill easily.]
+(;W[rn]LB[ro:a][rk:b]C['a' or 'b' (S5 or S9) , trying to expand White's eye space give more
+chance at life.  See variation.];B[ro];W[po];B[pp];W[om];B[pn]
+;W[pm];B[oo];W[on];B[po];W[nm];B[ol];W[pl];B[pk];W[tt];B[tt]
+)
+(;W[ro]
+(;B[qp];W[rp];B[rq];W[rk];B[rj];W[sm]C[A sequence like this results in life for White, though Black still wins
+by a huge margin.])
+(;B[rp];W[qp];B[po];W[rq])))
+(;W[ba];B[ed];W[fb]C[Black has only one eye;  the D16 point is not an eye, because White can
+capture there eventually.]))
+(;W[ed];B[df];W[ef]LB[ce:a][ad:b]C[If Black at 'b' (A16), White at 'a' (C15) and vice-versa.]
+;B[ab];W[ce];B[ad];W[ba]C[Black is dead.]))
+(;W[bc];B[bd];W[cd]TR[bd]C[Trapping the B16 stone, and killing the others as well.]
+))
+(;W[mp];B[gq];W[fr];B[gr];W[kq];B[jq];W[qo]TR[gq][gr][jp][jq]
+[pq]C[After a sequence like this,  Black will have trouble with the weak stones
+(marked).  If the group around K4 dies, White will have made a big
+territory and have made an incurion into the Black framework on the right
+side.  If the K4 group can live, it might only be at the cost of losing the
+lower right corner and much of the lower right side.
+
+This may still not be enough to win for White, but it's still a game then.
+
+Can you see how the walls of White tones hurt the Black group in the lower
+middle?]))
+(;W[cq];B[do];W[eo]C[Now Black has to connect...];B[co];W[dq]
+C[...so white gets to connect, too.]))
+(;W[dm];B[cm];W[cn]))
+(;W[ei];B[gk];W[gl]))
+(;W[gj];B[ik];W[il];B[gi];W[hh];B[gk]C[Also very good for Black.]
+))
+(;W[kh];B[je];W[if]))
+(;W[je]
+(;B[lf]C[If Black doessn't play this, he could be in trouble--see variation.]
+;W[jf];B[lg];W[kh]C[This is fine for White.])
+(;B[jf];W[lf];B[lg]LB[me:a]TR[kf][jf]C[If Black plays 'a' (N15) instead, White catches the marked stones (K14
+and L14) in a ladder.];W[ld]
+(;B[mf];W[lc]C[We've seen this in a previous variation.])
+(;B[lc];W[me]C[Also good for White.]))))
+(;W[kf];B[lf];W[kg]LB[lg:a][lh:b]C[White's a step ahead of Black, and is making a bigger framework than
+Black.  Now if 'a' (M13), White can play'b' (M12), pressing Black back even
+more.])
+(;W[lf];B[kf];W[je];B[lg];W[ld];B[mf];W[lc];B[kb];W[mb]TR[le]
+[kf][lg][mf]C[This is big for White, too.   The other variation might be better,
+because the marked Black stones exert a lot of influence in the center.]
+))

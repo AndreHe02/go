@@ -1,0 +1,286 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.17]
+
+PB[Deszcz]
+BR[8k]
+PW[crlf]
+WR[8k]
+KM[6.5]
+DT[2010-07-02]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[W+10.5]
+TM[1500]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+C[Hi,
+
+This is Wonodan from KGS.
+
+I will try to answer all your questions, and add my own comments/opinions.
+
+My comments will start with W.];B[qd]C[I can spot some mistakes in the middle of the game which cost me some points, but I would appreciate any remarks, especially about fuseki and general strategy]
+;W[cp]LB[dc:A][pp:B]
+(;B[dc]C[W: When you play from this direction, you don't have a direct approach at the bottom left corner, which works with D17.]
+;W[pp]LB[oc:A][ce:D][ep:B][eq:C]
+(;B[oc]LB[de:A][qj:B]C[W: The direction of play here is odd.
+
+D17 is low, and the right side becomes big for both.]
+(;W[de];B[fd];W[cc];B[cb];W[cd]LB[bb:A][eb:B]
+(;B[bb]C[W: Greedy.
+
+Later white can attack because black has a weak point at E17.]
+;W[ch]TR[ci]C[W: White is afraid of something.
+
+Joseki move for white at C11.];B[qj]C[W: Correct direction.]
+;W[ql];B[oj]TR[oc][qd][qj]C[W: Perfect answer.
+
+Creating this kind of box-like shapes are very good.];W[nl]
+LB[pn:D][ep:B][eq:A][jq:C]C[Now I was thinking of some of the marked moves]
+(;B[jq]LB[ep:A][eq:B]C[Would be corner approach better?
+
+W: This splitting move is very good.];W[hq];B[mq]LB[hn:A][oq:B]
+C[W: Correct answer. Black's group is already rather stable, if you had jumped to O3, white would've invaded at M3.]
+(;W[hn]LB[pn:A][pr:B]C[Long jump again. Can I attack such stones?
+
+W: Your two stones are being surrounded. White didn't play P3 when he had the chance, so...]
+(;B[pn]LB[qn:A][oo:B]C[W: This is reckless.
+
+You will have two separate groups, which will both get under attack when white runs away with Q4 group.]
+(;W[qn]C[W: This move is bad. Touching always helps your opponent. Unless white is afraid of losing R8, there's no reason to play such a move.]
+;B[pm];W[pk]LB[qm:A]SQ[pj]C[Now I should play q10, shouldn't I?
+
+W: "Even a moron connects against a peep"
+
+Unless you can't find a better move, yes.]
+(;B[qm];W[pj];B[pi];W[qe]LB[pd:B][pe:A]
+(;B[pe]C[W: Why so aggressive? Remember that touching always helps the one being touched.]
+;W[pf];B[oe];W[oi]
+(;B[qf]LB[qg:A]TR[qi]C[W: Leaving the cut behind can't be good.
+
+Black was very strong on the right side at the beginning.
+
+It is now white who dominates the right side.]
+(;W[qg];B[rf];W[qi];B[ph];W[qh];B[oh];W[ni];B[pg];W[rj];B[qo]
+;W[rn];B[ro];W[rm];B[po];W[nh];B[of];W[fe];B[ge];W[ff]LB[di:B]
+[cn:A][cq:C][fq:D]TR[fg][fh][fi][gj][gk][gl][gm]C[Now I think I had to invade white moyo. What was the best move?
+
+W: The left side is very open, but white's shape at top left is strong.
+
+"Play away from thickness"
+
+So, we might want to find a move at bottom left.
+
+If you only want to reduce lightly, you take white's highest stones, check the "line" between them, and play exactly between.]
+(;B[cn]LB[cl:B][do:A]C[W: This IS away from thickness, but after C8 you won't have a base.]
+(;W[do];B[ck]C[W: Nice move, black is off the hook now.];W[dl]
+;B[cl];W[ed]LB[ec:A]SQ[fc]C[One of my mistakes. I think I should play here]
+(;B[ec];W[gd]C[W: Remember to consider all possibilities.
+
+It is common sense to connect against an atari, but if the top side would not become your territory, and white was already strong at the top side...]
+(;B[fc];W[he];B[gc];W[hd]LB[ic:H][kc:D][ae:E][bo:F][hr:G]SQ[dk]
+[dm][op]C[Where is the most important area now? I marked some moves I considered.]
+(;B[dm]C[W: Good shape, but it's more important to move quickly or settle your stones right away.]
+;W[en];B[em];W[fm];B[fn]C[I think it was overplay
+
+W: Yes, definately overplay, since white can capture this stone.]
+;W[gm]LB[co:B][eo:A]
+(;B[eo]C[W: Since these stones will die, these moves only give white territory.]
+;W[dn];B[dp];W[co];B[fp];W[dq]C[These stones unfortunately died.
+
+W: Yes, no way to live here.];B[ep];W[eq]LB[hp:A]SQ[cq]C[Should I cut?]
+(;B[hp];W[ip];B[iq];W[gp];B[gq];W[ho];B[hr];W[fq];B[bi];W[el]
+;B[cm];W[ej];B[ci];W[dh];B[bh];W[hb]C[Nice];B[hc];W[ic];B[id]
+C[W: Good cut.];W[jc];B[ie];W[hf];B[ke]C[W: Good move.];W[jf]
+;B[kd];W[kc];B[lc];W[lb];B[mc];W[mb];B[nb];W[kb]LB[gb:B][lg:A]
+(;B[lg]LB[ng:A][kh:B]
+(;W[ng]C[This move is small, isn't it?
+
+W: Yes. Now's black's chance to cause problems in white's center.]
+;B[li];W[kf];B[lf];W[kk]SQ[jh][ji][mj]C[What next?];B[jh]C[W: This move seems most reasonable.
+
+As you must've guessed, you have to find the furthest move that can still connect to M13 and M11.]
+;W[kh];B[kg];W[lh];B[jg];W[ki]C[W: White is being kind.];B[hh]
+C[W: Another good move.];W[hj];B[di];W[eh];B[ei];W[kp];B[kq]
+;W[mp];B[lp];W[lo];B[lq];W[mo];B[op];W[nq];B[np];W[pq];B[oq]
+;W[oo];B[pr];W[no]LB[nr:B][or:A]
+(;B[or];W[gr];B[jp];W[jo];B[ko];W[kn]LB[jn:B][kp:A]
+(;B[kp]TR[ko][jp][lp]SQ[iq][jq][kq][lq][mq]C[Waste of move
+
+W: Actually, a lot of wasted moves. Only the squared moves seem to be doing something.]
+;W[jn];B[ol];W[pl]LB[ok:B][nm:A]
+(;B[nm];W[mm]LB[nk:B][ml:A]
+(;B[ml]C[Another overplay
+
+W: Indeed. Ajikeshi or destroying aji.
+
+Aji meaning potential, usually in dead stones.];W[nk];B[lm]
+;W[mn];B[ok];W[nj];B[om];W[rk]C[W: The large capture on the right suddenly disappeared because of your overplay.]
+;B[gj]SQ[fj]C[Here was better, wasn't it?];W[fj];B[fi];W[gi]
+;B[gk];W[hk]LB[gh:A][hi:B]
+(;B[gh];W[hi];B[fh];W[bg];B[eg];W[cg];B[fg];W[bn];B[bm];W[gb]
+;B[fb];W[nf]LB[ma:B][me:A]
+(;B[me];W[ji];B[dj];W[ek];B[ae]TR[ac][ag]C[W: Very nice move. Two ways to link up.]
+;W[be];B[ad];W[af];B[bc];W[if];B[dk];W[fl];B[dd];W[ee];B[bd]
+;W[ce];B[on];W[ll];B[ga];W[ia];B[bo];W[bp];B[an]C[W: Remember this capture, it is worth much...]
+;W[ir]LB[ap:B][jr:A]
+(;B[jr];W[hs];B[ap];W[bq];B[aq];W[ar];B[ao];W[br]C[W: As predicted. : )]
+;B[si];W[sh];B[rh];W[ri];B[sg];W[rg];B[sh];W[sj];B[sf];W[so]
+LB[rp:A][sp:B]
+(;B[rp];W[mg];B[sp];W[ne];B[nd];W[og];B[pf];W[sn];B[gg];W[gf]
+;B[df];W[cf];B[nn];W[mk];B[ah];W[ag];B[ii];W[ij];B[ih];W[na]
+LB[ma:B][oa:A]
+(;B[oa];W[ma];B[fa];W[ja]
+(;B[js];W[ha]LB[db:A]C[W: White has nothing here. D18 was a wasted move.]
+(;B[db];W[is];B[mf];W[tt];B[tt]TW[ka][la][ib][jb][ge][bf][mh]
+[li][mi][gj][jj][kj][lj][mj][qj][fk][gk][ik][jk][lk][qk][sk]
+[gl][hl][il][jl][kl][ml][rl][sl][hm][im][jm][km][lm][sm][fn]
+[gn][in][ln][eo][fo][go][io][dp][ep][fp][hp][cq][gq][cr][dr]
+[er][fr][hr][as][bs][cs][ds][es][fs][gs]TB[aa][ba][ca][da][ea]
+[pa][qa][ra][sa][ab][eb][ob][pb][qb][rb][sb][ac][nc][pc][qc]
+[rc][sc][ld][md][od][pd][rd][sd][le][qe][re][se][ai][aj][bj]
+[cj][ak][bk][al][bl][am][bn][pp][qp][nq][pq][qq][rq][sq][kr]
+[lr][mr][nr][qr][rr][sr][ks][ls][ms][ns][os][ps][qs][rs][ss]
+C[W: I hope this helped, I enjoyed reviewing this game.
+
+Take a look at these moves again, and try to find out where to play with the comments closed: 11, 21, 25, 29, 33, 53, 59, 69-85, 149, 153, 169, 223, 243, 247, 249]
+)
+(;B[tt];W[db];B[da]C[W: Hard fight with one liberty versus two. : )]
+))
+(;B[ha]C[W: This move threatens to kill white in sente, and there aren't any ko's left. You should play such a moves as soon as possible if there really aren't any ko's.]
+))
+(;B[ma]LB[la:B][oa:A][jb:C]C[W: This move threatens to kill.]
+(;W[oa]C[W: If white takes the bait...];B[ja]C[Black finishes white off with this move.]
+;W[jb];B[fa]TR[ha]C[W: White can't connect.];W[ka];B[ha]TR[ma]
+[ib]C[W: Two false-eyes equals dead.
+
+White can't get an eye in the corner with the P19 group.])
+(;W[la]C[W: White can't capture either.];B[ja]C[W: K19 kills again, you can confirm by following the other variation. White can't get an eye in the corner with O19 stone.]
+)
+(;W[jb]C[W: So, since white has to fall back with K18, it appears that O19 was an overplay.]
+;B[oa]C[W: Black can later capture at P19.])))
+(;B[sp];W[rp];B[sn]LB[sm:A][sq:B]
+(;W[sm];B[so]C[W: No trouble here either.])
+(;W[sq];B[sl];W[so];B[rl]C[W: Nothing to be afraid of here. White can't afford to play like this.]
+)))
+(;B[ap]LB[aq:B][bq:A]
+(;W[bq];B[aq];W[ar];B[ao];W[br]C[W: Because of this sequence.]
+)
+(;W[aq];B[bq]C[W: Of course, it would be horrible for white to accept this ko.]
+)))
+(;B[ma]LB[ia:B][ja:A]C[W: Since you didn't play this move, you knew white was alive even if you played it so...
+
+Which move lives?]
+(;W[ja]C[W: Wrong.];B[ib]LB[ga:C][ia:B][la:A]
+(;W[la];B[ha])
+(;W[ia];B[ga];W[jb];B[la])
+(;W[ga];B[ia];W[la];B[fa]))
+(;W[ia]C[W: Correct.];B[jb];W[ga])))
+(;B[hi];W[gh];B[fh];W[gg];B[eg]TR[ch][dh][eh]C[W: Confirm for yourself that there is no escape for these three stones.
+
+Large endgame capture.]))
+(;B[nk]C[W: This is enough for black.];W[ml];B[rl]TR[nj][ok]
+C[W: White can't play these moves.]))
+(;B[ok]C[W: Very large move yose move.];W[om];B[on];W[nm];B[nn]
+;W[ln]C[W: First you force in sente.];B[rl];W[qk];B[rk];W[qj]
+C[W: Then you continue forcing in sente...];B[sn]TR[mm]C[W: And finally capture three stones. The triangle move might also awaken later, but it is quite unlikely.]
+))
+(;B[jn];W[io];B[ln];W[km];B[mn]TR[gb][dd][gg][ok][sn]C[W: Must fight this ko. Too big to consider anything else. This was your big chance!
+
+Lots of nice threats too.]))
+(;B[nr]C[W: Capturing is simplest, no moves left for white later.]
+))
+(;W[kh]C[W: Should simply block here.]))
+(;B[gb]LB[ha:C][ja:A][ma:D][ib:B]C[W: You didn't play this move, so you seem to know how white can live.
+
+Before looking at the answer, consider these moves, only one works.
+
+Even though it doesn't kill, you can play it to force white into answering. You also secure the top left group for later.]
+(;W[ja]LB[ha:A][ib:B]C[W: Correct!]
+(;B[ha];W[ib];B[ma];W[la])
+(;B[ib];W[ha];B[ma];W[la];B[ga];W[ia]))
+(;W[ib]C[W: Wrong.];B[ja]LB[ka:B][ma:A]
+(;W[ma];B[ka])
+(;W[ka];B[ma]))
+(;W[ha]C[W: Wrong.];B[ja])
+(;W[ma]C[W: Wrong.];B[ja]LB[ka:A][ib:B]
+(;W[ka];B[ha])
+(;W[ib];B[ka])))
+(;B[ko]C[W: Building your territory at the bottom is large.]
+))
+(;B[cq];W[bq];B[cr];W[br];B[fq];W[dr];B[er];W[cs];B[hr];W[gr]
+;B[gq];W[hp];B[fr];W[ir];B[gs];W[iq];B[es]C[W: This way you COULD save some stones, but it hurts your K3 and N3 stones, the Q4 might become a threat later.
+
+So I think it's best to sacrifice these stones.]))
+(;B[co]C[W: Try to use your dead stones as much as possible. This way white's corner will be smaller as you threaten to link up with E5.]
+))
+(;B[op]C[W: Unneeded. White was already dead here.])
+(;B[dk]C[W: Very slow and boring.])
+(;B[kc]C[W: Hard for me to see any other moves than such endgame moves.]
+)
+(;B[ae]C[W: Hard for me to see any other moves than such endgame moves.]
+)
+(;B[bo];W[bp];B[ap];W[aq];B[ao];W[bq]C[W: Hard for me to see any other moves than such endgame moves.]
+)
+(;B[hr];W[gr];B[ir];W[gq];B[gs];W[fs];B[hs];W[fr]C[W: Hard for me to see any other moves than such endgame moves.]
+)
+(;B[ic]C[W: Hard for me to see any other moves than such endgame moves.]
+))
+(;B[dd]C[W: Black would have this counter-atari.];W[fc];B[ce]
+;W[be];B[cf];W[bd];B[bf]TR[cc][bd][cd][be]C[W: The four white stones are captured.
+
+In this position, in this game, this result is better for white, but it's important to read sequences out, and try to find the best outcome.]
+))
+(;B[fc]C[W: Yes, very solid, very safe. No problems here.]))
+(;W[cl]C[W: Only move for white.];B[en];W[ep];B[el];W[cj]C[W: White is happy to chase black around, turning sides + corner into territory.]
+))
+(;B[di]LB[dh:A][ci:B]C[W: You could also aim at reducing lightly, by playing the diagonal move on top of a 3rd line stone.]
+(;W[dh];B[ei];W[bj];B[gi])
+(;W[ci];B[dk]))
+(;B[cq]C[W: Away from thickness.])
+(;B[fq]C[W: Threatens to connect underneath with H2, so has high chance of success.]
+)
+(;B[gj]C[W: So, if the territory white gets on the left after this move isn't too big, this is also a possible move.]
+))
+(;W[qi]C[W: This would be good enough for white.]))
+(;B[ph]C[W: This is the correct move for black.
+
+The two stones in the upper right die, the cut at R11 disappers, and black threatens to capture P11 in a ladder and black P9 next captures the three white stones on the right.
+
+If you can find a move with 2 purposes, it must be a superb move.
+
+A move such as this with 4 aims can't be left unplayed!]))
+(;B[pd]C[W: This way you have a large corner, and you don't help white.]
+))
+(;B[pj]TR[pk]C[W: The marked exchange is bad for white.
+
+The top right is almost guaranteed territory for you.]))
+(;W[oo]C[W: This way white gets out, and splits black's groups.]
+))
+(;B[pr]C[W: You can slide all the way to Q2 to stabilize your group for now.
+
+"Defend before attacking."]))
+(;W[oq]C[W: Only move for white. This creates pressure for black's two stones.]
+))
+(;B[pn];W[pl]C[W: Q6 seems unreasonable, you just get a weak group which will haunt you for the rest of the game, while white gains territory attacking it.]
+;B[nn];W[np];B[ln];W[lp])
+(;B[ep]C[W: I can't see anything wrong with this.])
+(;B[eq]C[W: I can't see anything wrong with this.]))
+(;B[eb];W[ci]C[W: Joseki.
+
+You even gain sente, and a stable group at the top.]))
+(;W[qj]C[White naturally takes the biggest point of the board.]
+))
+(;B[ep]C[W: If you now play here, D17 is left unused.])
+(;B[eq]C[W: If you now play here, the D17 is left unused.])
+(;B[ce]C[W: Black wants to make the corner enclosure facing on the right.]
+;W[od]TR[kc][lc][mc][kd][ld][md]C[W: After white approaches, black makes a dual-purpose move next, pincering while extending from the top left corner.]
+))
+(;B[pp]C[W: Your opponent played a komoku facing nothing, so taking the hoshi stone which is facing it prepares for a nice continuation.]
+;W[dd];B[ep];W[eq];B[fq];W[dq]LB[fp:A][gp:B]
+(;B[fp];W[cn];B[jp]TR[ep][fp][pp][fq]C[W: Here black uses Q4 to its full extent.]
+)
+(;B[gp];W[cn];B[mq]C[W: Once recommended by Fernando Aguilar (aguilar on KGS), strong high-dan amateur.
+
+Normally the joseki move would be at L3, but N3 gives nice balance with Q4 and the F3 group.
+
+Here black uses Q4 to full extent.])))

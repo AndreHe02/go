@@ -1,0 +1,158 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+PB[kaktus]
+BR[3k]
+HA[0]
+PW[Tahiti]
+WR[2k]
+KM[0.5]
+DT[2009-11-08]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[W+41.50]
+TM[1200]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+C[Hello!
+
+Thanks for commenting my game :)
+
+crux: Hi, I'm Bernd Schmidt, 2d.  I'm not strong enough to know correct play; so even if I give variations please keep in mind that there may be better plays.  My goal when reviewing is to give ideas about how to think about the game.]
+;B[pd]C[Tahiti [2k\]: salut
+Tahiti [2k\]: cherry tree ?];W[dp]C[kaktus [3k\]: jep];B[qp]
+;W[dc];B[de];W[fd];B[cc];W[cb];B[cd];W[eb];B[cf]LB[ch:A][ci:B]
+C[is this joseki neutral? or is there any advantage for b or w?
+
+crux: It's not a joseki; Black's last move is much too narrow.  Needs to be at A or B instead.]
+;W[oq]C[ok? other choices?
+
+crux: Seems pretty natural.];B[kq]C[how about this? shouldnt it be k3?
+
+crux: There are many possibilities, there's no way to talk about where it "should" be.  This particular move is a pincer that used to be quite popular.  K3 is probably not good since it would allow White a comfortable extension.]
+;W[qq]
+(;B[pp]C[crux: You can't really play here.  White gets solid territory in the corner, and Black gets poor shape.  See variation.]
+;W[pq]TR[pp][qp]C[crux: Black's two stones are glued to White's strong ones.]
+;B[no]LB[pn:A][qj:C][qk:B]C[crux: Even now, the black stones don't really work together in any coherent way.  There's a weak spot at A, and White could just play around B or C to split the side and make the black wall useless.]
+;W[mp]C[crux: Very direct.]
+(;B[ko]C[so far what is your impression?
+
+crux: Black's stones are not working very well.];W[mo];B[nn]
+;W[mn];B[pk];W[ip]C[crux: Again, very direct.  White certainly likes to fight.]
+;B[ir];W[jq]
+(;B[jr]C[crux: See variation for an attempt to resist more strongly.]
+;W[kp];B[lp];W[jp];B[lq];W[lo];B[hp]C[crux: This doesn't look like a tesuji.  White can now capture the cutting stone easily and Black needs another move at the bottom to stabilize the group.]
+;W[jn]
+(;B[hq]TR[hp]LB[fq:A]C[crux: The marked stone is not important, so this move is too slow.  Maybe play at A instead.]
+;W[fq];B[hn]C[b or w advantage`?
+
+crux: Black is getting pushed around.];W[pn]C[good move by w i feel
+
+crux: Right where it hurts.];B[oo];W[om]C[crux: White is playing very aggressively.  I'm not sure this is really needed.  White could be happy for the moment just to have spoiled Black's shape.]
+;B[nm];W[ol];B[ml];W[ok];B[pj];W[oj];B[ph];W[oi];B[qh];W[kl]
+;B[mj];W[kj];B[lk];W[kk];B[mh]C[crux: Now it's White's turn to get attacked.]
+;W[nh]
+(;B[lh]C[crux: Covers the weakness, but of the available moves, this has the least effect on the weak white stones.]
+;W[ng]C[crux: Letting White out like this hurts.];B[nd]C[crux: Probably better to continue playing on the side of your weak group.]
+;W[lf]C[again good move for w, right? any alternatives to this outcome?
+
+crux: This move leaves behind a weakness - the knight's move can be cut.  Black could try to take advantage of this.]
+;B[jh];W[jf]
+(;B[ig];W[ld];B[hj]C[crux: Somewhat strange shape.];W[qc];B[qd]
+;W[mf]LB[of:A]C[crux: White finally wakes up.  A move like A might be a better way to patch up, since it threatens a little bit more against the right side.]
+;B[he];W[if];B[hf];W[hg]LB[kh:B][li:A]C[proper cut`?
+
+crux: Interesting idea, trying to make use of the weakness at A and B.]
+;B[hh];W[jg];B[ih];W[gg]LB[kg:A]C[crux: Probably best to play A now to defend against the sequence that occurs a bit later in the game.]
+;B[ff];W[fg];B[fe];W[fi];B[fk]C[mistake by b];W[li]
+(;B[mi];W[kh];B[rn];W[rm];B[qn];W[qm];B[rq];W[rr];B[sq];W[po]
+;B[sr];W[op];B[qr];W[pr];B[rs];W[rp]C[any better way to play for b?
+
+crux: After getting cut, it was difficult.]
+(;B[cn]LB[hl:A]C[crux: A instead takes care of all your weak points on that side of the board, but to win from here you probably do need to go all-out.]
+;W[en];B[fm];W[em];B[ck];W[ek]C[and here?
+
+crux: Maybe the hane?]
+(;B[fj];W[ej];B[ei];W[gi]
+(;B[ij];W[gj];B[gk];W[hk];B[il];W[hl];B[gm];W[ik];B[eh];W[jj]
+;B[eg];W[gh];B[bp];W[cq];B[bq];W[br]
+(;B[gr];W[fr];B[lc];W[md];B[mc];W[cj];B[el];W[dl];B[dk];W[fl]
+;B[dj];W[cl];B[el];W[ek];B[bl];W[bm];B[bk];W[cm];B[gc];W[fc]
+;B[hc];W[gb];B[hb];W[bb];B[kd];W[ha];B[ia];W[ga];B[jb];W[rj]
+;B[ri];W[rf];B[re];W[pf];B[qf];W[qg];B[qe]C[I would be glad about advice on the endgame for b :)
+
+crux: At this point it's probably best to resign.  Nothing that either side does will affect the outcome.]
+;W[pi];B[qi];W[qj];B[rk];W[qk];B[sj];W[ql];B[fs];W[dr];B[nr]
+;W[mq];B[mr];W[es];B[io];W[jo];B[am];W[an];B[al];W[bn];B[fo]
+;W[eo];B[sp];W[qo];B[ro];W[pg];B[rg];W[gs];B[hs];W[fp];B[gl]
+;W[im];B[bc];W[ne];B[od];W[ke];B[jd];W[el];B[hm];W[jl];B[ab]
+;W[ba];B[fa];W[fb];B[ed];W[ec];B[gd];W[qp];B[fn];W[gp];B[go]
+;W[ie];B[id];W[oh];B[oe];W[of];B[sk];W[ps];B[qs];W[in];B[nq]
+;W[np];B[sm]C[Tahiti [2k\]: ha !
+Tahiti [2k\]: big];W[ho];B[ej];W[ns];B[ls];W[fs];B[gq];W[iq]
+;B[io];W[sn];B[so];W[ho];B[hr];W[os];B[ks];W[lr];B[io];W[kr]
+;B[ho];W[ms];B[js];W[rl];B[sl];W[gf];B[ge];W[ii];B[fh];W[hi]
+;B[ac];W[dd];B[ee];W[tt];B[tt]TB[ad][ae][af][ag][ah][ai][aj]
+[ak][bd][be][bf][bg][bh][bi][bj][ce][cg][ch][ci][cj][df][dg]
+[dh][di][ef][gn][hd][ib][ic][is][ja][jc][ka][kb][kc][la][lb]
+[ma][mb][na][nb][nc][oa][ob][oc][pa][pb][pc][qa][qb][qc][ra]
+[rb][rc][rd][rf][rh][rr][sa][sb][sc][sd][se][sf][sg][sh][si]
+[sn][ss]TW[ao][ap][aq][ar][as][bo][bp][bq][bs][ca][cn][co][cp]
+[cr][cs][da][db][dm][dn][do][dq][ds][ea][ep][eq][er][fa][hh]
+[hj][ig][ih][ij][il][jh][ji][jk][jm][kf][kg][ki][km][kn][ko]
+[kq][le][lg][lh][lj][lk][ll][lm][ln][lp][lq][me][mg][mh][mi]
+[mj][mk][ml][mm][mr][nf][ni][nj][nk][nl][nm][nn][no][nq][nr]
+[og][on][oo][or][pj][pk][pl][pm][pp]C[
+Thank you very much for commenting the game!! :)])
+(;B[dr]C[crux: Unless you do something drastic, the game is lost.  How about this?  I think it puts White into trouble; at the very least it gives him a chance to make a mistake.]
+;W[cr];B[fr];W[gr];B[eq];W[fs];B[er];W[gq];B[ep];W[go];B[ho]
+
+(;W[fo];B[do];W[eo];B[cp];W[dq];B[ar])
+(;W[eo];B[fp];W[gp];B[fo])))
+(;B[ik]C[crux: protects against two cuts.]))
+(;B[ej]
+(;W[fl];B[dk];W[el];B[fj];W[hl];B[ks];W[lr];B[mq];W[mr];B[nq]
+;W[np];B[nr];W[or];B[kr])
+(;W[dk];B[dj]
+(;W[cl];B[fj])
+(;W[fj];B[fl];W[cl];B[cj];W[cm]))))
+(;B[hl];W[cm];B[cq];W[cp];B[dq];W[eq];B[bp];W[bo];B[bq];W[eo]
+;B[er];W[cj]))
+(;B[ni];W[mi];B[nj];W[kh];B[oh]))
+(;B[mf];W[mg];B[lg]
+(;W[me];B[nf];W[ne];B[of]C[crux: I don't think White can do anything.]
+)
+(;W[nf];B[me])))
+(;B[lg])
+(;B[ng]C[crux: If Black here, it becomes a capturing race immediately.  I don't know how it ends - this isn't something I can read out.  But my feeling is that Black shouldn't need to worry very much.  I'm attaching a few variations that look vaguely plausible to me, but please don't take them as definitive.]
+
+(;W[mi];B[li]
+(;W[mg];B[ni])
+(;W[ni];B[lj];W[lh];B[mg]
+(;W[ki];B[rn];W[rm];B[qn];W[qm];B[rq];W[rr];B[rp];W[rk];B[rj]
+
+(;W[qk];B[pl];W[qj];B[pi]
+(;W[ri];B[pm];W[on];B[ql];W[rl];B[rh];W[po];B[op];W[qo];B[ro]
+;W[mm];B[nl];W[ll];B[sr];W[rs];B[qr];W[pr];B[sj];W[si];B[sm]
+;W[sl];B[sn];W[np];B[qi];W[sk];B[rj];W[sj];B[sh])
+(;W[pm];B[ri];W[mm];B[nl];W[op];B[po];W[ll];B[ql];W[rl];B[sr]
+;W[rs];B[qr];W[pr];B[oh];W[np];B[qi];W[mk];B[nk];W[nj];B[mk]
+;W[sn];B[so];W[sm];B[sk];W[ro];B[qo];W[sq];B[on]))
+(;W[pl];B[qk];W[ql];B[sk];W[sl];B[rl]))
+(;W[rn];B[ki])))
+(;W[rn];B[lg];W[rp]C[crux: White escapes, but Black has blocked him from the top right.]
+)
+(;W[og];B[oh];W[ni];B[mi])
+(;W[mg];B[oh];W[ni];B[mi])))
+(;B[fq]))
+(;B[jp]
+(;W[jr];B[iq];W[kr];B[lq];W[lr];B[mq];W[np];B[mr];W[pn])
+(;W[iq];B[jr]
+(;W[gq])
+(;W[jo];B[kp];W[gq];B[km]))))
+(;B[mo];W[lp];B[np]
+(;W[nq];B[mr];W[mq];B[hq];W[pn])
+(;W[mr];B[fq];W[cn];B[dr];W[cq];B[hp])))
+(;B[rq]C[crux: Black needs to play here to make any kind of shape.  There are two likely outcomes which I give here.]
+;W[pp]
+(;B[qo];W[qr];B[ql])
+(;B[qr];W[qo];B[pq];W[rp];B[qq];W[oo])))

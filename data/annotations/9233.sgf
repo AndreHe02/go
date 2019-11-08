@@ -1,0 +1,255 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.16]
+
+PB[bazu135]
+BR[17k]
+PW[PENGUIN]
+WR[16k]
+KM[-5.5]
+DT[2013-09-04]
+PC[IGS-PandaNet]
+RE[W+12.5]
+RU[Japanese]
+
+C[I played as black in this game, and actually ended up a little annoyed at the final result - reading back over the game, I rushed a little in places and misread a couple of scenarios that, had I taken a little longer over, may have won me the game. Rookie mistakes by a rookie, though - part of the learning curve!
+
+For the most part, I'm interested in where I could have played better in the opening (I often feel like I get bullied during fuseki), and have a few specific questions through the course of the game. Of course, any glaring points that are worth mentioning will be gladly heard too!
+
+Many thanks in advance for the review :)
+
+--------------------------
+
+H: Hi, I am Hannes, reviewing for black, marking my comments with "H:".
+
+Some general comments after reviewing this game:
+
+- Try to stick more to the sequence of "corners first, then the sides, then the center" instead of engaging in fights too early in the game
+
+- If fighting, try to step back and have a look whether your close attacks are more valuable than simple extensions to groups you already have. This is difficult in the heat of the game.
+
+- Read on nakade (dead inner) forms. They are key to a lot of life and death questions.
+
+- Do not create weak groups
+
+Don't worry, most of these are issues everyone struggles with, *all the time*. Winning in Go essentially means struggling less with them than your opponent :).]
+;B[pp];W[dd];B[pd];W[dp]LB[pc:A]TR[mc][qd][qo][mq]C[H: As a 17k I did not dare to start with the hoshis, as they felt too insecure to me. I wanted to stick with more solid patterns.
+
+However, this is a perfectly fine beginnig, of course.
+
+Just keep in mind that the 4-4 needs *two* accompaning moves to (rather) "secure" the corner. Cf. e.g. the triangles.
+
+Starting at a lower position like A requires only one subsequest move.]
+;B[fd];W[ed];B[fc];W[ec]LB[jc:A]TR[id]C[H: I guess you know that white's group is regarded bad shape.
+
+Your two stones facing white, however, are not yet settled. White can attack them easily by playing around the triangled point.
+
+If you stay away, you create a weak group.
+
+The black stones need an extension to the right in order to build a "base" on the upper side.
+
+A rule of thumb for extending a solid wall is to jump "1 more" than the wall is high. Here you have a 2-stone wall, hence you may jump to A. Playing B is also possible, of course.]
+;B[fq];W[eq];B[fp];W[en]C[H: Same situation as on the upper left. The black group on the lower left is weak without an extension.]
+
+(;B[mq]LB[fq:B][mq:A]C[H: Black realizes that actually all his groups (two of them consist just of one stone) are weak. Hence, strenghtening is a good idea.
+
+However, black should have started with the extensions of the upper/lower left groups. This would have given some solid base to defend any invasion on the upper/lower side. (Cf. variation)
+
+By playing A, white may cut off the black B-group. Or at least: put pressure on the B group while defending his invasion. Which is nice for white.]
+;W[jq];B[hq]C[I intended the pincer here to force W out, but instead I ended up being the one who (~should~ have) lived small.]
+;W[lr];B[mr];W[lq];B[ir]LB[ho:B][io:A]C[H: This move is not bad, probably aiming at preventing white to get a base on the side (in order to be able to attack him).
+
+On the other hand it is a move on a very low line, so black does not yield any outside influence.
+
+By playing A and B, black would have done that. White needs to extend to the center anyway.]
+;W[mp];B[np];W[mo];B[no]LB[nq:A]C[H: Nothing wrong here. Black gets a nice wall and straight points in the corner (given that the cut at A is taken care of).]
+;W[jr];B[er]LB[hn:C][io:B][ip:A][er:D]C[H: While this move certainly helps black building a live group, it is a very low move again, basically allowing white to cut black almost off the center with A or B or C.
+
+B would have been my recommendation. White will respond, so playing D is still a possibility afterwards.]
+;W[dr];B[ep];W[dq];B[fr];W[eo];B[gn]LB[en:C][gn:B][io:A]C[H: Here comes the extension. Makes sense, but again, A would have been better. B is played right where the white C-group is strong. While A would be putting pressure on white.]
+;W[fo];B[go];W[hp];B[gp];W[ip]
+(;B[iq]LB[iq:A][hr:B]C[H: This move was not necessary. If white had come to play at A, black could still defend at B (cf. variation).
+
+Hence, B actually looses a move that he could have invested somewhere else.]
+;W[jo];B[io]LB[jc:C][gl:A][pn:D][gr:B]C[H: this move would make sense if the white group were struggling for eye space. 
+
+However, it is not. Hence a contact move (and even more one that immediately gets under attack) does not make sense.
+
+Alternatives:
+
+- Jumping at A
+- Making the group alive at B
+- Extending at C
+- Extending at D];W[ho];B[in];W[hn];B[hm]LB[in:A]TR[gm][im]
+C[H: After playing A, black could have expected this situation. But I understand that it's not that easy to read while playing.
+
+In hindsight, I guess that black would agree that this is not a good situation at all.]
+;W[jp];B[im]LB[gm:C][im:B][io:D][gr:A]C[I played this on the assumption that the G6 group could look after themselves from here (and reasonably-speaking, they should have) - would G7 have been a better move anyway, though?
+
+H: No. Knowing that playing A would have made the black group alive, B is better than C. And the B group is solid at least. 
+
+Going into this situation with D was the mistake.];W[gm];B[gl]
+;W[fm];B[ds]C[H: Misreading. See move #52.];W[cs];B[es];W[cr]
+LB[gr:A]C[At this point, I assumed I'd done enough that my group was guaranteed life. Should I have made it safe at this point, though, or was I right to look for bigger/more pressing points?
+
+
+H: You should have played A. This is the vital point. Cf. variations. If white plays there, the group is dead.]
+
+(;B[fl]C[H: This is no pressure for white at all. You are basically following his (already existing) wall playing right where his strength is.
+
+Note that extensions on the upper left and right are still missing.]
+;W[el]
+(;B[cf]LB[ch:A]TR[fe][ef][ff][eg][fg][eh][fh][ei][fi][ej][fj]
+[fk]C[H: As a means to reduce white's space, this move is too far into white territory (roughly think of a straight line connecting your stones to see where it is  possible - or maybe one stone further to the left, as marked).
+
+If black aims at living on the left side, then A would have been more convenient: if white answers from below, black extends to the top. If white attacks from above, black extends downwards, right into white's territory. (cf. variations)]
+;W[ef]C[H: This is a bold move from white, judging the center more important tha the left side.]
+;B[ci];W[ei];B[ck]C[H: As white played as he did, the situation for black is quite good on the left.]
+;W[dk];B[dj];W[ej];B[dl]LB[cl:A][bm:B]C[H: Too close and unnecessary. A or B would have hit white harder.]
+;W[ek];B[dh]LB[ic:D][nc:E][bd:A][qj:F][cl:B][bn:C]C[H: This move just makes white make his wall stronger and longer.
+
+A, B, C would have been better.
+
+But note that D and E are also still pending, as is something around F.]
+;W[di];B[cj];W[cl];B[bl];W[dm];B[cm];W[dl];B[cn];W[co];B[bo]
+;W[bp];B[bn];W[dn]C[I felt that I profited from this exchange on the left, both in taking territory and reducing W's corner, but was it a large enough profit to be worth accepting in exchange for that central influence W has gained?
+
+Would one normally expect to gain such a large area from such an approach, or should I not bank on it in future?]
+;B[gj]C[I played this move (and later G14 and G12) in the hope of neutralising W's influence - I found out later that this was definitely the wrong way to do it! (With hindsight on my side, this was probably the right time to play G2)
+
+What would be a better approach to dealing with that wall?]
+;W[eh];B[dg];W[eg];B[gf]TR[jc][nc][qj][ol]C[H: This makes some sense as it neutralizes some power of the white wall.  However, the marked ones are still more important.]
+;W[df]C[H: Same for white. That move does not help much. As if you agreed to fight for the left side without considering other options ;-)]
+;B[cg];W[ce];B[be];W[bd];B[bf];W[gr]C[Disaster!
+
+H: Yes.];B[gs];W[hs];B[is];W[fs];B[gq];W[gs];B[hr]C[The group's dead, but that's a few free points...
+
+H: A dead inner form (nakade).];W[gs]LB[gr:A]C[Reading this back later, I wondered if it was possible to have instead set up a ko fight over this key point somewhere earlier in the exchange. Is that something that could conceivably have been achieved, or was the group dead from the outset?
+
+H: It was a plain your-or-him situation. Whoever played A was to win.]
+;B[gh]C[H: Nice idea, sealing white in.];W[js];B[lm]TR[jc][nc]
+[qj][ol]C[H: This makes sense wrt. the black one-jump "wall" on the left. 
+
+But please keep in mind that creating points in the center is much more difficult (and needs lots of stones) than on the side.  Plainly extending your corners and the upper left two-stone group would have been much more easy.]
+;W[mn];B[mm];W[nn]LB[ol:C][mm:A][nm:B]C[H: As A aimed at cutting white from the center, playing B or C would have fit as a response.]
+;B[on]LB[mm:A][on:B]C[H: But black wants to defend the corner at the same time, pushing white into the center, again.
+
+If the whole board situation allows, it can be fun for black chasing white while building strong walls on either side of white's stones.
+
+But in this situation, black B  forces white to put pressure on the A group, which is neither strong, nor securely connected. Effectively putting the A group (and the idea of sealing white in) in danger.]
+;W[nm];B[om]C[H: Now, it is obvious. Black pushes white into free territory (where white can no longer be shielded of the center).]
+;W[nl];B[lk]LB[lm:A][om:B][on:C]C[H: The next moves from white are only possible because of the weak A group in connection with B/C pushing white against it.]
+;W[kl];B[ll];W[kn];B[km];W[hk];B[gk];W[kk];B[kj];W[jj]
+(;B[jl]C[H: Did you read that out? (cf. variation)];W[jk];B[ki]
+;W[ji];B[kh]LB[gh:B][kh:A]C[H: Nothing wrong, here. White cannot build any eyes between the "walls" of A and B.]
+;W[jh];B[jg];W[ig];B[if]TR[jg][kh]C[H: A double hane should be avoided unless the situation is really clear. It creates too many cutting points that can be exploited by ataris from white.]
+;W[hg];B[gg];W[jf];B[kg];W[hf];B[ie];W[he];B[hd]LB[id:A]C[H: Hane again, one more cutting point at A. Black could have stayed with A.
+
+This whole sequence consists of too many close or even contact moves, creating a much too complex close fight.]
+;W[id];B[je];W[gd];B[ge];W[hc];B[ih]C[Terrible move - didn't read anywhere near far enough ahead
+
+H: You are right. However, white made a mistake, too that you did not transform into profit.]
+;W[hh];B[ii];W[hi]
+(;B[ik]C[H: Why that? Cf. variation.];W[ij];B[il];W[hj];B[hl]
+;W[gi];B[gc];W[hd];B[fe];W[fh]C[At this stage, is there any hope of life for my G17 group?]
+;B[hb];W[ib];B[gb];W[eb]LB[fc:A][fd:B]C[H: Now, there's no way to save the A-group.
+
+Just notice that A and B were the two stones that black did not extend properly in the first place.
+
+Imagine black having a base there! Then white would have been pushed against it (instead of cutting the black stones off).]
+;B[ke];W[jd];B[kd];W[kc];B[lc]TR[nc][nj][pk]C[H: Too close, again. There are much more relevant moves, as marked.]
+;W[kb];B[lb];W[lf];B[kf];W[ng];B[nd];W[md];B[mc];W[me];B[ld]
+TR[lj]C[H: No need to play here. The triangled point is open for connection as well.]
+;W[ne];B[od];W[of];B[mg]C[H: very nice move stealing eye space from white.]
+;W[lg];B[mh];W[lh];B[mi];W[li];B[mj];W[lj];B[mf];W[le];B[oe]
+LB[mk:A][il:C][km:B]C[H: No, A is a must, otherwise both groups B and C are cut off and dead.]
+;W[nf];B[oj];W[pf];B[mk]LB[of:B][mg:A]C[Very lucky that W missed that!
+
+H: Right
+
+b: From O13, I was winging it a little and unsure of how to play. What might have been a better response to W's moves?
+
+H: A at N13 was perfectly fine. And as white pushed down, following him along was just right. In this situation, white is pretty much in trouble wrt. the B group. 
+
+The next moves make sense as well. Depriving wite from getting any eye space.]
+;W[nk];B[oi]C[H: Good connection PLUS reducing white's options.]
+;W[qf];B[rd]C[H: good];W[rf];B[qi]C[H: Perfect. White cannot live. The estimated score is black+17.5.
+
+Let's see where the game turned over to white, again.];W[ol]
+;B[pl];W[ln]
+(;B[jm]C[H: No need. Black wastes a move.];W[jn];B[ls]C[H: This is an endgame move. With the situation not finally settled on the right, black should not play here. Especially as he looses initiative (needs to connect in #205).]
+;W[ks];B[ms];W[kp]LB[kq:A]C[H: Not necessary either. If black played there, white A makes the second eye.]
+;B[pk];W[qp]C[H: That's what comes with the 4-4 opening (and no further moves to "secure" the corner) . This does not mean that 4-4 should be avoided, but that you must take it into consideration.]
+;B[qo]LB[qo:B][qq:A]C[H: That's a mistake (although it does not work out for white). 
+
+A would have pushed white out of the corner and into trouble. B makes sense, if your aim is to let him live small in the corner.]
+;W[rp];B[ro];W[oq];B[nq];W[pq];B[qq];W[rq];B[qr];W[po];B[op]
+;W[pn];B[or];W[pm];B[oo];W[qn];B[rn]C[One of those moments that made the defeat a little easier to swallow!
+
+H: Well defended, indeed!];W[si]C[I often find myself unsure of how to respond to moves like this. I know that attaching directly would be pointless, but I'm never sure how near or far away from the stone I should play, or which side, so whatever I do feels like a limp compromise instead.
+
+H: Well, then you should read a bit on the "monkey jump" as it's called. 
+
+In short: as an endgame move, it reduces your oponent's territory by some points, but it does help in creating eyes.
+
+So, in this case "all" you have to do is to play safely, strengthening your groups while not allowing him too much space (and he does need a lot for two eyes).]
+;B[rk]C[This felt like a 'safe' option, but I wonder if I could have approached more harshly?]
+;W[ri];B[rj];W[qh];B[ph];W[qg];B[oh]C[H: Even if you did not misread the white group's status, this is an unnecessary move.]
+;W[re];B[qd]LB[sg:A]C[Misread the white group and assumed it was already safe.
+
+H: Right. A is the vital point.
+
+In this game, it is the game-changer.
+
+But do not worry. It still is a "minor" mistake, even if it has such drastic consequences. Try to learn something about nakade forms and you will not make that mistake again in any future game.]
+;W[sg];B[sj]LB[se:A][rh:B][sj:C]C[And again.
+
+Those two misses in particular felt like the point at which the game was decided, though losing the J1 group was a heavy blow too. Lesson learnt is definitely to slow down and read a few more times!
+
+I made a few more mistakes in the endgame through rushing and misreading, but even without them I think I would have finished behind - could I conceivably have stolen the game back at this point, or is it pretty much sealed now?
+
+
+H: You could not have stopped white from making two eyes here. If you attack at A, he plays B. And vice versa.
+
+Hence, C is fine as an endgame move. But you would not have played it right now, as there are other endgame moves waiting that do let you keep forehand.
+
+The estimated result is W+19.5, so there is hardly anything you can do in the endgame to change the result (besides capturing a big group of his, which does not seem possible.
+
+You ended with W+12.5, so you did actually quite well in the endgame.
+
+
+Review ends here.];W[se];B[sd];W[rh];B[ap];W[aq];B[ao];W[bq]
+;B[ad];W[ac];B[bc]C[Rushed and misread.];W[ae];B[cc];W[cd];B[af]
+;W[ad];B[ea]C[And again. Given that the nearby group is dead, I'm not even sure what I hoped to achieve with this sequence!]
+;W[fa];B[fb];W[da];B[ga];W[ea];B[ka];W[ja];B[la];W[ia];B[ha]
+C[Might have gotten something from here if W had misread it, but that's really just hoping for too much.]
+;W[ic];B[nj];W[nh];B[ok];W[bb];B[tt];W[fj];B[tt];W[fn];B[fk]
+;W[gr];B[ni];W[hs];B[fs]C[Couple of free points again...];W[gs]
+;B[tt];W[tt];B[tt]TW[aa][ba][ca][ga][ha][ab][cb][db][fb][gb]
+[hb][jb][bc][cc][dc][fc][gc][jc][fd][de][ee][fe][ge][ff][gf]
+[sf][fg][gg][rg][gh][ih][sh][fi][ii][em][gn][do][go][ko][lo]
+[cp][ep][fp][gp][lp][cq][fq][gq][hq][iq][kq][ar][br][er][fr]
+[gr][hr][ir][kr][as][bs][ds][es][fs][hs][is]TB[ma][na][oa][pa]
+[qa][ra][sa][mb][nb][ob][pb][qb][rb][sb][nc][oc][pc][qc][rc]
+[sc][jf][ag][bg][ah][bh][ch][ai][bi][pi][aj][bj][pj][qj][ak]
+[bk][qk][sk][al][ql][rl][sl][am][bm][pm][qm][rm][sm][an][pn]
+[qn][sn][po][so][qp][rp][sp][oq][pq][rq][sq][nr][pr][rr][sr]
+[ns][os][ps][qs][rs][ss]C[White wins by 12.5 points.])
+(;B[pk]C[H: Assume that black played somewhere else...];W[jm]
+;B[jn]C[H: white cannot do much, here.]))
+(;B[ij]LB[fd:C][gg:B][jk:A]C[H: If you attacked the white A group, it cannot evade. But you still loose the B and C group (as in the actual game).]
+;W[ik];B[hj];W[gi];B[fi];W[hd];B[fj]))
+(;B[jk];W[jl];B[ik];W[il];B[ij];W[hj];B[ii]LB[jl:A]C[H: White cannot save the A group.]
+))
+(;B[ch]
+(;W[cf];B[ck];W[cm])
+(;W[ck];B[ce]LB[be:A]C[H: or at A])))
+(;B[ic];W[gr]TR[gq][hr][gs][hs]C[H: Now, there are lots of dead inner shapes ("nakade"), and no way for black to get two eyes.]
+
+(;B[is];W[gs])
+(;B[hr];W[gs];B[is];W[js];B[gq];W[hs];B[fs];W[gs])))
+(;B[jc]C[H: assume, black played somewhere else, so ...];W[iq]
+C[H: white plays where Black played in the actual game, then ...]
+;B[hr]LB[jc:A][iq:B]TR[hs]C[H: black connects, or plays the triangled point.
+
+Black is fine PLUS has the A stone in place.]))
+(;B[jq];W[mq];B[oq];W[mo];B[jo]LB[mo:B][mq:A]C[H: Of course, black cannot stop white from dividing the corner and the left black group, but both are fine while white A and B are not.]
+))

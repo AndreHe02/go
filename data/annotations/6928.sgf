@@ -1,0 +1,84 @@
+(;FF[4]GM[1]SZ[19]ST[1]AP[SGFC:1.15]
+
+GN[guerrilla27-maest-406267-20080826]
+PB[Maes Thierry (maest)]
+BR[16k]
+PW[Antek Gornik (guerrilla27)]
+WR[13k]
+KM[6.5]
+DT[2008-05-14,2008-08-26]
+PC[Dragon Go Server: http://www.dragongoserver.net/]
+RE[W+Resign]
+
+C[Zander: Hi.  I'll be reviewing this game for Black. There are no annotations or specific questions from the player, so I will try to identify some points for improvement and hopefully make some helpful general suggestions.]
+;B[dp];W[dd];B[pd];W[pp];B[cf];W[ce]LB[df:3][ce:2][cf:1]C[Zander: After this 1-2 sequence, normal play is almost always 3 from Black.]
+
+(;B[be]C[Zander: This move is quite weak for Black. At best Black can hope to claim a bit of territory on the left, but in the meantime White secures the corner and gains influence to the top and center.]
+;W[bd];B[de];W[cd]
+(;B[bg]C[Zander: This weak collection of black stones is going to be hard to defend. Sacrificing the stone at B15 would be a smaller loss.]
+;W[df];B[dg];W[ee];B[fd];W[ed];B[ld];W[ch]C[Zander: This practically demands C13 as a response.]
+
+(;B[dh];W[cg];B[bf];W[ci];B[ef];W[de];B[fe];W[di];B[cl];W[eg]
+;B[ff];W[ei];B[nq];W[oq];B[or]C[Zander: Black already tried this sequence in the upper left corner, and it led to disaster. It would be better to try something else here.]
+;W[pr];B[op];W[pq];B[mr];W[oo];B[no];W[on];B[nn];W[nm];B[qo]
+;W[po];B[pm];W[om]TR[pm][qo]C[Zander: With the stone at P4 in atari, White was already in better shape, but the last two moves by Black helped White make his group stronger, while bringing the black stones immediately under threat.]
+;B[pl];W[qn];B[pn];W[ro];B[qm];W[rn];B[ph];W[eq];B[hq];W[cq]
+
+(;B[cp]C[Zander: I think it's a mistake for White to make this shape already "peeped" by the stone at D4. I think Black should play at D3; it weakens White's shape, Black gains about the same influence, but with better tempo.]
+;W[dq];B[bj];W[bh];B[fg];W[eh];B[ji];W[lm];B[ln];W[mn];B[mo]
+;W[mm];B[ep];W[mj];B[mh];W[pj];B[qj];W[lo];B[lp];W[ko];B[kp]
+;W[jk]
+(;B[lj]C[Zander: This move is relatively small at this point. I think a play around H9 is bigger. Or R17 helps secure the top right, which might be enough for Black to win, since White is quite far behind.]
+;W[lk];B[kj];W[kk];B[io];W[jn];B[in];W[im];B[hm];W[il];B[hl]
+;W[hk];B[gk];W[hj];B[hi];W[gj];B[fk];W[fp];B[fq];W[fr];B[gq]
+;W[fo];B[eo];W[fn];B[en];W[em];B[fm];W[fl];B[gm];W[dl];B[dk]
+;W[ek];B[ej];W[fj];B[el];W[dm]
+(;B[cm]C[Zander: Instead Black can capture to remove the threat (see variation).]
+;W[ek];B[dn];W[gl];B[el];W[dj];B[cj];W[qc];B[pc];W[qd];B[qe]
+;W[re]
+(;B[sd]C[Zander: Black is over-reaching. White won't be killed and the black group is weak. Black should pull back to strengthen his group, close White off, and claim the territory at the top.]
+;W[qf];B[pf];W[pe];B[oe];W[qe];B[pg];W[pb];B[ob];W[qa];B[rg]
+;W[qg];B[qh];W[rf];B[rb];W[qb];B[rh];W[rc]
+(;B[es]C[Zander: Again this is over-reaching by Black. This is not a killing move. Since Black seems to be leading overall at this point, more conservative play is warranted.]
+;W[gr];B[hr]
+(;W[dr];B[gs];W[er];B[fs];W[ds];B[hs];W[bp];B[bo];W[br];B[ap]
+;W[ar];B[ni];W[oi]
+(;B[mk]C[Zander: This stone will be difficult to save. Black continues to play unnecessarily aggressively. Black will win the game if he can secure the large territory at the top and settle the groups more-or-less as they are.]
+;W[nj];B[mi];W[oh];B[ng];W[oc];B[od];W[nc];B[mc];W[nb];B[nd]
+;W[mb];B[lb];W[oa];B[nk];W[oj];B[ok];W[pk]
+(;B[ol]C[Zander: Black can probably read ahead to see that White will win the capturing race after this. Playing at R9 instead results in a smaller loss.]
+;W[qk];B[rk];W[rl];B[rj];W[ql];B[ec];W[dc];B[eb];W[db];B[ps]
+;W[qs];B[os];W[rr];B[ij];W[ea]
+(;B[fa]C[Zander: This shape is very common. F19 is tempting, but it's a mistake.]
+;W[fb];B[da];W[fc];B[gc];W[ea];B[gb];W[ga];B[ha];W[fa];B[hb]
+;W[mg];B[lh];W[og];B[of];W[nf]
+(;B[me];W[nh];B[lg];W[gh];B[hg];W[hh]
+(;B[gg];W[ih];B[ii];W[jg];B[ig];W[jh];B[jf];W[kf];B[kg];W[if]
+
+(;B[lf]TR[de][el][jf][ng][qe][ln][op]C[Zander: In general Black is a bit too aggressive, and a bit too careless with weak stones. The triangle marks indicate places where Black had one stone in atari and neglected to save it. Sometimes the sacrifice is correct, but in most of these cases I think Black would have done better to save the stone, strengthen the local group, prevent an invasion and keep White in a weaker position.
+The invasion here quickly leads to the end.
+This is the end of my comments.];W[je];B[ke];W[jf];B[jd];W[id]
+;B[he];W[hd];B[ie];W[jc];B[kd];W[gd];B[ic];W[ge];N[RESULT]C[Result: W+Resign]
+)
+(;B[je];W[lf];B[mf];W[kh];B[ng];W[ki];B[li];W[mg];B[jj];W[ik]
+;B[ng];W[mp];B[mg];W[np]C[Zander: This doesn't look great for Black, but the loss at the bottom is only about 10 points, better than the alternative.]
+))
+(;B[ih];W[gg];B[hf];W[gf];B[ge]))
+(;B[nh]))
+(;B[fb]))
+(;B[qk];W[ol];B[pi];W[rm];B[ql];W[ml];B[og];W[nl];B[rl]))
+(;B[oh])
+(;B[ec])
+(;B[gh]))
+(;W[er]))
+(;B[gr];W[es];B[bq]))
+(;B[qf];W[pb];B[ob];W[qb];B[nc]))
+(;B[gl];W[cm];B[bl]C[Zander: The white group will die.]))
+(;B[hk])
+(;B[qc]))
+(;B[dq]
+(;W[dr];B[cp])
+(;W[cp];B[dr])))
+(;B[cg]))
+(;B[df];W[bf];B[bg];W[ae];B[ch]))
+(;B[df]))

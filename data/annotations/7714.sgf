@@ -1,0 +1,185 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.17]
+
+PB[Zordon]
+BR[2d]
+PW[yoko1]
+WR[3d]
+KM[0.5]
+DT[2010-02-18]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[W+Resign]
+TM[1500]
+OT[3x30 byo-yomi]
+RU[Japanese]
+
+C[Hello!
+
+In this game I was playing black against a KGS 3d thus we played without Komi.
+In the opening I was quite satisfied with the game.
+White later started an invasion which I could not handle. I also had some time pressure at that point. Still I do not really understand why I lost so badly. I would be glad if you could point out my mistakes.
+
+Thank you very much,
+
+Ole
+
+Forfun (hereafter ff) - Hi Ole!  Thanks for providing some good material for study.  I am going to concentrate on the early part of the game.  In order to improve and build a better understanding of Go, the most important point of all is, "Don't be satisfied!" :-)
+
+This came up in a previous review that I did recently and I felt that from MY side I suddenly understood a fundamental fact about the game of Go.  We should not be telling ourselves that we had a satisfactory position and we do not understand why we lost.  Rather we should be telling ourselves - we lost so we do not understand what was unsatisfactory about our position!
+
+In the early going Black was not bad, but neither was White.  Both sides had pluses and minuses in their positions.  Thereafter I felt White was more aggressive and Black did not really understand how to react to that aggression.  At a couple of key points Black needed to be able to view the whole board and assess the balance of the game.  In addition, at a couple of points Black was too willing to take gote in exchange for too little gain.  Let's see what I mean...]
+;B[qd];W[pq];B[cp];W[cd]
+(;B[eq]C[ff - Here Black has to choose from a variety of reasonable looking plays: basically playing the second stone in one of four corners.  Which should Black choose and how should Black think about the situation?
+
+O Meien, 9p, offers one heuristic in one of his books in Japanese.  Consider the width of the open space (wider is more important) and the height of the positions defining the open space (higher is more important).  Using this rule we would say that: 
+* The left side contains a gap 11 lines wide that is bounded by two stones (C16 and C4) on the third line
+* The bottom and right sides are the same with a gap 12 lines wide that is bounded by one stone on the third line and one stone on the fourth line
+* The top side contains a gap 13 lines wide that is bounded by two stones on the fourth line.
+Using O Meien's method, we would consider the top to be the most important/urgent area on the board.  See the variations...]
+;W[oc];B[pe]
+(;W[md]C[ff - White's choice here is a little unusual.  I feel that this gives Black a reasonable result in the upper right.]
+(;B[dj]LB[pj:A]C[Now I think something around A would have been better
+
+ff - I can't agree.  The lower right corner is still unfinished.  A play in the middle of the right side now is a half-way measure at best.  See the variations...]
+;W[ed]C[ff - This does not coordinate well with the two stones in the upper right.  Basically Black has a choice between L17 and G17 on the upper side.  Having played N16 earlier, White should probably have played F17 here or perhaps something like J17.]
+(;B[qj]C[ff - Again, this is playing too close to strong stones.  Black should approach at R5.  Alternatively Black could still play along the top...]
+;W[qn];B[kp];W[mq]C[I thought the opening was quite good for me. Am I wrong?
+
+ff - Black has built a nice framework at the bottom.  However, it is not tight yet.  White can invade at a number of points so Black still needs more than one play to secure it.  Meanwhile White has enclosed two corners to Black's one.  
+
+As mentioned earlier, White's shape at the top is not so good since Black has a nice choice between L17 and G17 that White can not eliminate with only one play.  In addition, White's last play at N3 is clearly smaller than the similar play at C12.  As a result, we can say that Black is not badly off here.  However, there are questions for both sides.]
+(;B[kr]LB[gc:B][dg:A]C[Is this too slow?
+I also thought about A and B. Now I think A might have been best. What do you think?
+
+ff - This L2 is basically an endgame play.  Any play in the upper left would be more active.  If the White stone on E16 were on E17, then I think that playing in front of the White enclosure around C13 would be good.  In the game, however, the White top is wide open and Black should want to invade.  G17 is a good point against this enclosure.  Nevertheless, here it would allow White to pincer and settle the two stones in the upper right.  So...]
+;W[dl]C[ff - After L2, Black threatens to make some real territory in the lower left.  White plays in immediately.  If White manages to erase Black's framework, L2 could turn out to be a very small play.]
+;B[fk];W[co]C[ff - Now Black has to think carefully about what a successful result will mean.  It is unrealistic to expect to capture White in this area - the original framework was a little too wide for that.  Basically then Black does not want to allow White to easily settle the invading stones.  If they escape without making eyes, while Black makes some territory, that is a reasonable result.  Later in the game, Black could expect to renew the attack.]
+;B[do];W[dn]
+(;B[eo];W[bn]
+(;B[fm]LB[bo:A]C[First Atari at A?
+
+ff - Nope.  First descend at B4! :-)];W[bp]C[ff - Now White settles the stones here.]
+;B[cq];W[bq]C[ff - This is a very big play that makes White safe while greatly reducing Black's corner.]
+(;B[gc]LB[mo:A]C[I think A might fit better to the situation. Or is this okay?
+
+ff - I think that a play at A would be slow in this position. See the variation.  Your instinct during the game was better.]
+;W[jc];B[ge];W[ch];B[ef];W[cj]C[ff - This looks like a clever play and suddenly creates a nice territory along the left side.  However, White's lower left is very safe so the direction is not correct.  The upper left is more important than the left side.]
+(;B[cf]C[ff - This play says that the gap between C16 and C12 is more important than the White corner.  However, this is not likely to be true.  Black can not seriously think of cutting off the two White stones at C12 and C10, so what is the point of playing C14?  Unfortunately the White stone at K17 has greatly strengthened the White stones at the top right.  If White now stengthens the corner as well, the original invasion at G17 turns into a relatively small endgame play.
+
+Right now I think there is no very interesting play in the upper left.  Black's big question now is where can Black make enough territory to get back into the game.  Only the center is available so playing in the upper left may be the wrong direction...]
+;W[ec]C[ff - Not only does White start to strengthen the corner but this stone starts to limit Black's options in this area.]
+(;B[be]C[ff - I think this is the wrong idea here.  I guess that Black played here thinking that it prevents White from connecting underneath at B14.  However, White C12 is connected to the lower left already, so the additional connection at B14 has no meaning.  Meanwhile, the exchange of B15 for B16 strengthens White's upper left corner.  Black needs to be more worried about the cut around F15 than White's endgame plays along the edge.]
+;W[dg];B[df];W[bd]C[ff - By now Black has "forced" White to sharply reduce Black's options in the upper left.  This makes the cut starting with F15 dangerous.]
+(;B[fh]C[ff - Black's stones in the upper left have become rather heavy so Black reinforces.  However, as noted later this play leaves behind a cut and bad potential for the future.]
+;W[fe];B[ff]LB[gf:A]C[I felt this result was good for me but I worried about the weakness at A...
+
+ff - See my earlier comments and compare the weakness at "A" now to the situation right after Black played E14 and White answered at C10.  At that point Black had sente and the upper left corner was still wide open.  Black was ready to dodge in almost any direction.  Now White has sente, the corner is closed off and Black has very limited choices if/when White cuts.]
+;W[lo]C[ff - Black struggles now I think.  There are not so many places on the board for Black to make territory from now on.]
+;B[ko];W[ln];B[kn]
+(;W[ll]C[ff - White decides to help Black out a little.  This results in weaknesses in White's lower right position.  White should have just continued to push out ahead of Black...]
+;B[lm];W[mm];B[km];W[nl]C[I fear my position is now overconcentrated. How could I have prevented this?
+
+ff - I hope that various earlier comments have]
+(;B[qq];W[qr]
+(;B[mr]C[ff - It seems like Black gives up at this point :-)  There is no indication of why you left the corner after playing one stone.  What did you imagine when you decided to play R3?]
+;W[lq];B[lr];W[or];B[pc];W[pg]C[This invasion is the one I was talking about. White became pretty strong and could attack R10. My answer was certainly bad. I thought about some different ways to get out, but it seems I am already behind. Is there a way to counterattack?]
+(;B[rg]C[ff - This is a very submissive answer to White's invasion.  Black needs to be thinking more aggressively here.]
+;W[od]
+(;B[pb]LB[qg:A]C[I think playing at A would have been my chance to prevent total annihilation]
+;W[qf];B[qg];W[pf]
+(;B[ph];W[rf];B[oe];W[oh];B[qi];W[pi];B[qh];W[ne];B[of];W[og]
+;B[nf];W[mf];B[ng];W[mg];B[nh];W[oi];B[qm]C[Now I completly lost control and the game is lost already, or isn't it? I struggled some more, but I think you can concentrate on the game up to now.]
+;W[rm];B[ql];W[rl];B[rk];W[pk];B[pj];W[oj];B[ok];W[ol];B[nk]
+;W[mk];B[nj];W[ni];B[mj];W[mi];B[lj];W[pl];B[qk];W[li];B[ri]
+;W[kj];B[pn];W[qo];B[ob];W[nb];B[mb];W[na];B[re];W[gf];B[fd]
+;W[ee];B[he];W[gg];B[dh];W[di];B[hh];W[gh];B[gi];W[hg];B[je]
+;W[ih]C[I cannot save both sides.];B[hi];W[if];B[ie];W[lc];B[ic]
+;W[jd];B[kg];W[ji];B[le];W[me];B[jb];W[kb];B[hb];W[fb];B[ia]
+;W[ka];B[ja];W[fg];B[ei];W[eh]C[Zordon [2d\]: ありがとうございました
+yoko1 [3d\]: ｔｈｘ
+
+Thank you for your time!
+Best regards,
+Ole])
+(;B[rf];W[qe];B[re];W[pd];B[rc]))
+(;B[qg];W[pf];B[qf];W[oe];B[ph];W[pb];B[qc]))
+(;B[oj];W[nf];B[mk];W[ml];B[mi]C[Looks like I dont have enough points]
+)
+(;B[ob]C[ff - One question is whether White was right to ignore Q17.  It is not completely clear what White's next play will be.]
+(;W[pi]
+(;B[qm])
+(;B[rg]))
+(;W[rg];B[oi])))
+(;B[pr])
+(;B[pp])
+(;B[oq])
+(;B[mp]))
+(;B[mp]C[ff - Note that the sequence chosen by White has left some potential for Black here.  Black should have this in mind in deciding how to play in the corner.]
+))
+(;W[lm]))
+(;B[di]C[ff - By now Black may be better off to finish this area while building strength.  Black ends in gote anyway so why not make the most of it...]
+;W[ci];B[dk];W[ck];B[dh];W[cg];B[eg]C[ff - Not very subtle :-)  However, if Black is going to end in gote in this area anyway, this may be better.]
+;W[lo]C[ff - Compare this to the game.]))
+(;B[mo]C[ff - Still the place we have to play?  Meanwhile the possibility that the stones in the upper left will come under pressure from White is significantly increased.]
+))
+(;B[mo]C[ff - This may the moment when Black needs to play here, aiming at the invasion of White's corner and making as much out of the center as possible.  Black leaves the upper left corner as it is.  Depending on how White reacts in the center, Black will decide how to play in the upper left later.]
+;W[mf]C[ff - If White tries jumping out as in the earlier variation, the potential at the top has been eliminated by Black's invasion.]
+;B[lg]C[ff - Black can think of some kind of block that threatens to build a very large framework indeed.]
+)
+(;B[dc]C[ff - Playing immediately is large but Black should be worried about ending in gote here...]
+;W[cc]
+(;B[dd];W[de];B[db];W[ee])
+(;B[db];W[dd];B[cb];W[bb];B[cf];W[bf];B[be];W[ce];B[bg];W[df]
+;B[cg];W[dg];B[af];W[bh];B[bd];W[bc];B[ad];W[di];B[mo];W[gg]
+C[ff - Black has been able to play first in the lower right but has become thin at the top.  White can use that weakenss to reduce the center framework while attacking.]
+)))
+(;B[mo];W[mf]C[ff - The Black play at N5 almost begs for White to jump out from the top.  Any play around here is now a true multi-purpose play: threatening to invade at R12, reducing Black's position at the bottom, and building White's position at the top.
+
+Meanwhile Black threatens to invade the lower right corner, but that threat existed before Black played N5 so the value of the N5 stone is somewhat limited.]
+)
+(;B[kc]C[ff - I still think that this is probably more interesting here than G17.]
+))
+(;B[bp]C[ff - The corner becomes very large.  Meanwhile White does not have eyes and is thin.]
+))
+(;B[bo]C[ff - This is another idea.  Because D6 is so close to D8, I would be tempted to play like this...]
+(;W[cn]C[ff - If White connects, the White stones become rather heavy.]
+)
+(;W[eo];B[dp]
+(;W[cn];B[fn])
+(;W[fl];B[gl];W[fm];B[gk])
+(;W[fm];B[fo];W[hm];B[hk]))))
+(;B[kc]C[ff - I think Black wants to start here, attacking the two stones.]
+;W[ic];B[ke]C[ff - Should White reply at J17 and Black jump out, there is an invasion point left at G17 and the two White stones on the right are under pressure.]
+)
+(;B[gc];W[ic];B[ge];W[ie];B[ff];W[cg]C[ff - I feel that Black's play is not as positive here even though the upper left is still open to a Black invasion.  That may just be my style though :-)]
+))
+(;B[qo]
+(;W[op];B[qk]C[ff - Black can do much better than the game if White answers tightly on the bottom...]
+)
+(;W[pl];B[mp]C[ff - Black can dodge like this to make the most out of the framework on the lower left.]
+))
+(;B[kc]))
+(;B[pj]C[ff - Assume that Black plays here, and...];W[ed]C[ff - Further assume that White makes the same enclosure as in the game.  Now, would Black refuse to play in the middle of the left side at this point?  This must be the case if it is really better to play Q10 than D10.  However, D10 on the left is clearly a very large, urgent point now.  If White gets to it first, White will dominate the board.]
+)
+(;B[qo]C[ff - If Black plays on the right side here, the approach at R5 looks best.  The reason is that the two Black stones in the upper right are strong.  It is too early to think of making territory on the right near these stones.  Instead they should be considered a base for fighting - that is the natural future for strong stones.]
+)
+(;B[fc]C[ff - A real question is whether Black should play in the upper left.  This is more aggressive than the game where Black allows White to enclose the top left.]
+)
+(;B[kc]C[ff - The key alternative is the immediate play against the stones at the top...]
+(;W[hd];B[ke];W[mf];B[kg];W[mh];B[ph])
+(;W[ph];B[pc];W[od];B[og];W[oh];B[ng];W[le];B[id])))
+(;W[qo]C[ff - I think this would be more normal.  The stone on R5 would make it more difficult for Black to play the most common follow up at the top...]
+;B[nd];W[mc]C[ff - White could answer calmly here because a Black extension down the right side is already limited by R5.]
+)
+(;W[kc]C[ff - The other common play here is to pull back to here along the top.  It has a better relationship with the White stone in the upper left.]
+))
+(;B[ec]C[ff - Black plays aggressively on the top, attempting to dominate the most urgent area on the board.  At the professional level, this is the most common choice for Black in this position.  That is not to say that it is the only choice or that the alternatives are bad plays.  However, this E17 is the most direct attempt to keep the initiative in the game.]
+)
+(;B[oc]C[ff - Here Black tries a quieter approach but still acts at the top first since it is larger...]
+;W[qn]C[ff - White encloses a corner in turn.  Why this one?  Because the stone at R5 reduces the value of a Black extension down the right side.  White might choose a different enclosure, for example R5.  However, R6 is the play that White chooses in the game so let's use it here in order to compare...]
+;B[eq]C[ff - Black contiues a calm, enclosure stategy, restricting Whte's future play in front of the lower right enclosure...]
+;W[ed]C[ff - White finishes dividing up the corners...];B[dj]
+C[ff - This would more typically be played one space lower at C10 but let's put it here for comparison to the game.
+
+In this position each side has enclosed two corners and Black has seized the midpoint on the side where two enclosures face each other.  By comparison, in the game White encloses two corners while Black only encloses one.  Black gets the same midpoint at D10.  However, White gets an approach move in the upper right in exchange for a Black play down the right side.]
+(;W[jq];B[gc])
+(;W[jc];B[jq])))

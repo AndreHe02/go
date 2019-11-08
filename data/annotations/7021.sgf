@@ -1,0 +1,133 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+PB[Keesu]
+BR[10k]
+PW[DIProgan]
+WR[10k]
+KM[6.5]
+DT[2008-12-19]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[B+18.50]
+TM[2400]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+C[DIProgan [10k\]: hihf
+Keesu [10k\]: hello
+Keesu [10k\]: gd luck
+
+[[Hello - my name's Adam, and I'll be reviewing this game for the white side. My comments are enclosed in double brackets.\]\]
+
+[[The review request asked for tips on how to avoid letting your opponent carve out an enormous center territory.  Hey, I'm only a 5k myself, and tend to be fairly corner- and edge-oriented, so this issue comes up in my own games!  But I'll share my thoughts as we go along, and maybe we'll both learn something.\]\]]
+;B[pd];W[dp];B[cd];W[qp];B[id];W[qf];B[pf];W[qd]LB[qc:C][pe:B]
+[pg:A]C[[[This isn't joseki.  Joseki moves would have been A, B, or C.  Not that I expect you to have memorized a whole bunch of joseki - I certainly haven't - but this looks to me like the first move that is actually bad rather than a matter of personal preference, and we're about to see why.  (First, look at the variation.)\]\]]
+
+(;B[pe]C[[[Lucky: Black doesn't take advantage of your bad shape.\]\]]
+;W[pc]C[[[If you wanted the corner, why didn't you play 8 at R17?\]\]]
+;B[qe];W[qc];B[oc];W[ob];B[qg];W[nc]C[[[Aren't you worried about all the cutting points you're leaving by playing this way?\]\]]
+;B[od];W[lc]C[[[Later this area will turn out to be one of the only gaps through which you might be able to enter Black's center territory.  You'll want to extend down to N15 or something.  But you won't be able to.  Why not?  Too many cutting points.\]\]]
+;B[op];W[qn]C[[[Okay, I think I may see one reason Black ends up with a big center territory.  You're playing very low.  You've played ten stones so far, and D4 is the only one higher than the third line.\]\]]
+;B[on]LB[oq:B][qq:A]C[[[The joseki play here for Black is at A.  This suggests to me that you might want to consider B as your next move to solidify your position.\]\]]
+;W[pl]C[[[Dubious.  You're not really putting pressure on Black, since you're basically forcing him to do something he wanted to do anyway - extend from those two stones on the lower right - while not strengthening your own position.  You're open to a later black play at R10, and since you haven't played P3, your own stones aren't secure yet.\]\]]
+;B[lp];W[cn];B[dr];W[ci]C[[[It looks like you selected this point because it's halfway between your C6 and the black stone at C16.  I'm not sure that's really the best methodology for determining how far to extend.  C11 looks too far away from C6 to be an extension and too far away from C16 to be a kakari.\]\]]
+;B[ed]C[[[Black's top left is looking big.  How does C11 help you against it?  How does C11 help you in the bottom left?\]\]]
+;W[hq]LB[cq:B][dq:A][eq:E][fq:D][fr:C]C[[[Again, this may be the midpoint between the black stones at D2 and M4, but that doesn't make it the best place to try for a split.  These four white stones don't look to me like they work well together.\]\]
+
+[[For the record, here are what I have read are five standard replies for White, in order of popularity.  I haven't tested them myself.\]\]]
+;B[fq]
+(;W[ho];B[fo];W[eq];B[er];W[fp];B[dq];W[ep];B[cp];W[fr]C[[[There are lots of ways to secure your E4 group, and this looks small to me.  You've given up the corner, so you've sort of committed yourself to building something on the outside.  In general, you want to be wary of playing on the second line this early in the game.  I'd look at something around G7 instead.\]\]]
+;B[fs];W[gr];B[co];W[do];B[dn];W[dm];B[en];W[cm];B[gp];W[gq]
+;B[eo];W[fq]C[[[This is ugly.  Black's E5 group is a target, but so is White's enormous lump of stones.\]\]]
+;B[em];W[go];B[dl];W[cl];B[ek];W[dk];B[el];W[dj];B[gn]
+(;W[cq]C[[[No.\]\]
+
+[[Look at Black's E7 group.  Now that's a juicy target!  Will you be able to kill it?  Nah, probably not - killing is hard.  But look at the variations below to see what happens if you keep up the attack!\]\]]
+;B[bq]LB[cq:60]C[[[Okay, so Black couldn't very well ignore 60.  You've wasted a ko threat, but the ball's back in your court.  And...\]\]]
+;W[bo];B[bp];W[bn]LB[bo:62]C[[[Terrible exchange for White!  You just lost sente, and in exchange for what?  Maybe three points?  62 was a gote endgame move.  And now...\]\]]
+;B[hn]C[[[Ouch. Very bad news for White.\]\]];W[io];B[hk]C[[[Hmm, I think Black could afford to press more.\]\]]
+;W[jm];B[in];W[jn];B[jo];W[ko];B[jp];W[kp];B[ip]C[[[Black should have read this out.\]\]]
+;W[hp];B[ir];W[jq];B[iq];W[jr];B[kq];W[is];B[kr];W[hr]C[[[Okay, this was a lucky break for you.  Your stones are now secure, and are wedged in between two attackable black groups.\]\]]
+;B[pq]
+(;W[qh]C[[[This move looks to me like a huge mistake.  There are two reasons for this.  One, you need to keep up the attack on Black's lower right stones.  Two, even if you did want to play around here, this is the wrong move locally.  Don't attack with contact.  You're about to make Black much stronger.\]\]]
+;B[ph];W[qi];B[pi];W[qj]LB[qh:86]C[[[How did Black bake a "center cake"?  With moves like 86.\]\]]
+;B[rh];W[re]LB[bo:62]C[[[This is bringing back memories of 62.\]\]]
+;B[rf];W[se];B[sf];W[rd]C[[[You just lost sente.  And for what?  Black actually looks better off than before!\]\]]
+;B[lo];W[ll]C[[[This isn't really leaning on either group.\]\]]
+;B[ol];W[ic]C[[[Contact strengthens Black.\]\]];B[hc];W[jc]
+;B[pb]
+(;W[qb]C[[[No.  See the variation.\]\]];B[nb];W[pa];B[mc];W[mb]
+;B[nd];W[na];B[lb];W[nc];B[md];W[kb];B[nb];W[cr];B[br];W[nc]
+;B[ld];W[la];B[lj];W[jd];B[ie];W[ke];B[je];W[kd];B[kf];W[fg]
+C[[[Getting into this area of the board wouldn't be an issue if you had leaned on the E7 group earlier.\]\]]
+;B[dg];W[eh];B[dh];W[ei];B[ej];W[di];B[gi];W[hg];B[fh];W[eg]
+;B[gg];W[gf];B[gh];W[ff];B[df];W[ji];B[jk];W[hf];B[ih];W[hh]
+;B[hi];W[gc];B[hb];W[hd];B[gd];W[he];B[fc];W[jf];B[jg];W[if]
+;B[kg];W[nj]C[[[This sequence coming up makes a pretty good lesson for the future.  It looks like you're thinking, hey, O10 can live - it can connect to the stones on the right or the ones on the bottom.  But...\]\]]
+;B[pk]C[[[The stones on the right aren't secure!  Black can lean on them and patch that wall in sente!\]\]]
+;W[qk];B[pm];W[ql];B[qm]C[[[Note that this move is threatening because you didn't play R3 in response to Q3.  If you'd settled the lower right, you could now break through at Q10.\]\]]
+;W[rm];B[pj];W[mk];B[kl];W[km];B[lm];W[ln];B[mm];W[mn];B[ml]
+;W[jl];B[lk];W[hl];B[il];W[im];B[hm];W[ik];B[ij]
+(;W[il]C[[[I think you can get more out of this.  See the variation.\]\]]
+;B[gl];W[fm];B[gk];W[gs]C[[[What?  Why?\]\]];B[ri]C[[[If I were Black I'd have played R3 or S3 first - there's more territory there, and then later a move like S11 might threaten to capture.\]\]]
+;W[pn];B[mq];W[bg];B[sl];W[bd];B[bc];W[be];B[rl];W[om];B[pm]
+;W[qm];B[nm];W[oo];B[nn];W[no];B[mo];W[kn];B[po];W[pp];B[np]
+;W[qq];B[pr];W[qr];B[qo];W[ro];B[qs];W[rs];B[ps];W[rr];B[bh]
+;W[ch];B[cg];W[bi];B[bf];W[ah];B[af];W[ce];B[de];W[cf];B[ad]
+;W[ag];B[ae];W[le];B[mf];W[lf];B[lg];W[mg];B[nf];W[mh];B[ii]
+;W[rk];B[sk];W[sj];B[rj];W[sm];B[si];W[sk];B[ao];W[an];B[ap]
+;W[oo];B[po];W[qo];B[no];W[ib];B[gb];W[fi];B[fj];W[es];B[cs]
+;W[me];B[ne];W[ig];B[jh];W[nr];B[oq];W[lr];B[ls];W[ms];B[ks]
+;W[mr];B[lq];W[fe];B[ia];W[ja];B[ha];W[fd];B[ec];W[nb];B[pm]
+;W[po];B[om];W[ge];B[gc];W[js];B[ds];W[fs];B[tt];W[tt]TW[ka]
+[ma][oa][qa][ra][sa][jb][lb][pb][rb][sb][kc][rc][sc][id][sd]
+[ie][je][bh][ai][aj][bj][cj][ak][bk][ck][al][bl][rl][sl][am]
+[bm][rn][sn][jo][so][gp][ip][jp][rp][sp][iq][rq][sq][ir][sr]
+[hs][ss]TB[aa][ba][ca][da][ea][fa][ga][ab][bb][cb][db][eb][fb]
+[ac][cc][dc][bd][dd][be][ce][oe][cf][of][qf][mg][ng][og][pg]
+[rg][sg][kh][lh][mh][nh][oh][sh][ji][ki][li][mi][ni][oi][gj]
+[hj][jj][kj][mj][nj][oj][fk][kk][mk][nk][ok][fl][ll][nl][fm]
+[gm][fn][mp][aq][cq][nq][ar][cr][lr][mr][nr][or][as][bs][ms]
+[ns][os]C[[[So, yeah, ultimately I guess I'll give you three things to think about:\]\]
+
+[[1) How does playing low positions in the opening, and grabbing edge/corner positions during the early fights while your opponent builds outside walls, affect the ultimate boundaries of your territories?\]\]
+
+[[2) How might leaning on weak groups allow you to both keep enemy territory small while building walls of your own that you can then use to project power all over the board?\]\]
+
+[[3) How is your ability to lean on weak groups compromised when your own positions are full of cutting points?\]\]
+
+[[Good luck!\]\]])
+(;W[gm];B[fn];W[il];B[gl];W[gk]C[[[You're threatening to capture the whole E6 group.\]\]]
+))
+(;W[nb];B[qb];W[rb]C[[[Now what?  Black just helped you out.\]\]]
+))
+(;W[qq]C[[[This looks like the only move to me.  It secures the white stones, and if Black tries to tenuki to play a big point, you can keep up the attack.\]\]]
+;B[qj]C[[[Say Black plays here.  Big move for Black (which is why Q8 was probably inadvisable).  Two-space extension down the third line, threatens to scoop out more territory at S8.  It's clear why you'd want to prevent this.  But...\]]
+;W[nl]LB[oj:B][mn:A]C[[[Say you responded like so.  It looks to me like you've got a couple of good directions you can go from here.  Black can only really cover one of them.  You'll either get a decent attack on the lower right or be able to prevent Black from forming that center territory you later found yourself trying to break into.\]\]]
+))
+(;W[hn]C[[[My first instinct would be to go here, keeping pressure on the E7 stones while building up power for an attack on the black stones in the lower right.\]\]]
+;B[gm];W[hm]C[[[Normally "pushing from behind" is bad but it certainly looks to me like White is getting the better of this exchange.  Black's lower right stones may be getting nervous...\]\]]
+;B[gk]
+(;W[fi];B[hl])
+(;W[hl];B[fi]))
+(;W[hm];B[hn];W[in];B[io];W[hp];B[im];W[jn]C[[[Seems like White might make something good happen from here.\]\]]
+)
+(;W[im];B[hn];W[in];B[io];W[hp];B[jo];W[jq];B[ik];W[km]C[[[Hmm, maybe.\]\]]
+)
+(;W[fi];B[gk];W[hi];B[hn];W[io];B[ik]C[[[And here's what pressing from above might look like.\]\]]
+))
+(;W[cq];B[cr];W[br]
+(;B[dq];W[ep]
+(;B[cp];W[bq];B[bp];W[ap]C[[[Caught.\]\]])
+(;B[bq];W[cp];B[bp];W[bo];B[bs];W[go]C[[[Great for White.\]\]]
+))
+(;B[fo]
+(;W[ho];B[fm];W[hm]C[[[This is more even... don't you wish that C11 stone were closer to the action?\]\]]
+)
+(;W[eq];B[er]
+(;W[fp];B[gp];W[gq];B[ep];W[fr];B[dq])
+(;W[fr];B[gr];W[fp];B[gq];W[gp];B[dq];W[ep]
+(;B[cp];W[bq])
+(;B[bq];W[cp];B[bp];W[bo];B[bs];W[hr];B[fs]C[[[White's loving life.\]\]]
+))))))
+(;B[qe];W[re];B[pe]LB[qd:8]C[[[White has way too many cutting points for 8 to have been a good move.\]\]]
+))

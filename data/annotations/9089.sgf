@@ -1,0 +1,287 @@
+(;FF[4]GM[1]SZ[19]CA[Windows-1252]AP[SGFC:1.16]
+
+GN[agora-phileasfogg-794002-20130411]
+PB[Phileas (phileasfogg)]
+BR[18k]
+HA[0]
+PW[Agora (agora)]
+WR[15k]
+KM[1]
+DT[2013-02-25,2013-04-11]
+PC[Dragon Go Server: http://www.dragongoserver.net/]
+RE[W+1]
+OT[60 days with 1 day extra per move]
+RU[Japanese]
+SO[http://www.dragongoserver.net/game.php?gid=794002]
+US[Uri Feigin]
+GC[Game ID: 794002
+Game Type: GO (1:1)
+Rated: Y
+
+White Start Rating: 16k (-39%) - ELO 461
+Black Start Rating: 17k (+17%) - ELO 417
+White End Rating: 15k (-40%) - ELO 560
+Black End Rating: 18k (-32%) - ELO 267]
+
+C[[Calvin\]: It was a pleasure to review your game.  I hope you will find my comments helpful, but keep in mind that at 5 kyu I am still quite a weak player.  I encourage you to seek out the strongest players you can find for advice---professionals if possible.  What I can do is merely mention some areas that will be useful to focus on as you progress into SDK range (9K).
+
+Because of the small komi, it's effectively a handicap game.  I don't normally review the white side of a handicap game because it's hard to say which overplay is best of white since black is supposed to win. :)  However, in this case the handicap is small and not very noticable for kyu-level players, so there is still a lot to learn.
+
+I think the main theme for this review is to avoid playing "bad sente."  A bad sente is a move that you know your opponent will answer, but when your opponent does answer, he gets stronger, you get weaker, and it winds up being a net loss for you.  If you can reduce this type of move in your game, it will be worth a couple of stones immediately.
+
+There is also a surprise at the end of the game :)];B[dp]C[[Calvin\] Interesting komi: 1.0.  I guess both players like the idea of jigo. :)]
+;W[pp];B[qn]C[[Calvin\] It is more common to play in an empty corner, but an early approach is possible.]
+;W[nq]SQ[dp]C[[Calvin\] This move is good as its variations usually end in sente for white and it makes it harder for black to develop from his marked stone.]
+;B[rp]
+(;W[qq]C[[Calvin\] It's common these days not to answer the slide at 3-3.  So you could tenuki at this point.  See variation.]
+;B[jq]LB[qk:A]C[[Calvin\] This move doesn't put much pressure on white.  It is better for black to complete the joseki at A.]
+;W[pd]LB[ql:A]C[[Calvin\] Although the corner is big, there are two of them and so they can be considered miai.  Since black played a kind of slack move at K3, as white I might consider the pincer at A immediately.]
+;B[qf]
+(;W[dd]SQ[qn][rp]LB[nc:A]C[[Calvin\] This allows black to make a double approach at A, which would strengthen the right side and indirectly cover up the fact that the marked stones are a little weak.  But it is hard to criticize taking an empty corner.]
+;B[fc]
+(;W[cf]C[[Calvin\] See variation for another idea.];B[db];W[cc]
+LB[hc:A][gc:B]C[[Calvin\] You don't have to answer this slide at the 3-3 point.  In modern professional games, white will often play elsewhere, and then decide later whether to play this 3-3 or moves like A or even B.  But this is okay.]
+;B[ic]
+(;W[mc]LB[qc:A]C[black was playing aggresively. decided to try long extenstion than previous josekis played.
+
+[Calvin\] I don't see aggression yet.  In this position, black can invade at A (R17) and live.  White will often make a strong wall, but this isn't a position where I think the white thickness would be useful.]
+
+(;B[rd]LB[qc:A]C[[Calvin\] This slide makes it easy for white.  Black can consider the invasion at A (R17).  See variation.]
+;W[qc]TR[nc]C[[Calvin\] Now white is happy to get a couple of points more territory than if white had played at O17.]
+;B[qi];W[cn];B[fq];W[bp]C[[Calvin\] Black might not answer this slide.   See variations for black's next move.]
+
+(;B[cq]
+(;W[ck]C[felt uncomfortable that i don't know other josekis for this opening. continued with blacks line of attack.
+
+[Calvin\] There is no attack yet.  Both players are making solid, territorial positions.  This can lead to a long game with a close endgame.]
+
+(;B[ci]C[[Calvin\] A little greedy.  Black should have considered reduction instead, or just play elsewhere.]
+
+(;W[dh]C[[Calvin\] See variation for another idea.];B[dj];W[dk]
+C[decided to protect territory while pushing black. was afraid from black aggressive play
+
+[Calvin\] This is a normal move.  It's black that should be afraid.]
+;B[ej]
+(;W[kd]SQ[ci][dj][ej]C[felt left side is safe enugh so tenuki to strengthen top
+
+[Calvin\] This is the first move I'd seriously say is questionable at your level.  Both the black and white groups at the top were already pretty safe.  Each of them has a base plus an extra stone, plus access to the center.  The only weak group on the board right now is the marked black group.  It has no base, and no eyes.  White must continue an a attack on this group.  See variation.]
+;B[jj]C[lost confidence in my possibilities with this move by black
+
+[Calvin\] This is too far from black's weak group.  It's an opportunity for white.  Maybe you should go to the end of the game and notice that you wound up capturing this stone. :)]
+
+(;W[ec]SQ[ci][dj][ej]LB[cb:A]C[attempted to gain more territory on sides in responce
+
+[Calvin\] Bad sente.  Remove this from your vocabulary.  It just helps black and makes bad shape for white.  You can't take your eyes off of the black weak stones.  Locally, the territoral move would be at A (C18) but that is typically saved for the endgame.]
+;B[eb]MA[cd][ed]LB[dc:A]C[[Calvin\] This shape isn't good for white, as black can later play at A and white will have two cutting points.]
+;W[cj]SQ[dh]C[[Calvin\] Bad sente.  This move will hurt your marked stone.  This should be something you can learn to see at your level.  What kind of plan does this reflect?  Oh, I'm going to cut black...]
+
+(;B[di]SQ[cj]C[[Calvin\] ...but black saw through the plan and connected.  :)  This is what is called a "bad sente."  Yes, black will answer, but when he answers, you get weaker and then have to defend.  You shuold also consider the proverb "your opponent's good move is my good move."   Black was not about to play at C10 and make an empty triangle that gains very little, right?  So why should you play there?]
+
+(;W[ch]SQ[cj]LB[bi:A]C[[Calvin\] This generates a broken shape for white.   Did you expect that black would play elsewhere and let you connect underneath at A?]
+;B[bi]MA[af][al]C[[Calvin\] Now if black lives, white won't be able to make much territory on the left side. Black has two monkey jumps in the endgame (marked X).    White can't stop both of them.  In fact, since the monkey jump is usually sente, it might be black's privilege to get both of them.   This is a complete disaster for white.   (See http://senseis.xmp.net/?MonkeyJump )]
+
+(;W[qo]MA[mb][ma][nb][na][ob][oa][pb][pa][rf][sf][rg][sg][rh]
+[sh]LB[rq:A]C[[Calvin\] Same mistake as E17.  Locally, the biggest move is S3.  It's about 17 points in gote, but should be saved for the endgame.  Right now, white has lost a lot on the left side and must seek a more significant compensation.  See variation.
+
+Also, let's count the upper right and right sides.  Who gets S17 first is hard to tell.  I've marked X's what I think might be definite territory, but stronger players would have other opinions.  Anyway, right's upper right is maybe a little bigger than black's upper right.  Black's lower right might turn out to be weak, so I'm not counting it.  (A really weak group you'd actually count as a negative.)  Let's not bother with the rest of the board right now, but just watch this area for a bit.]
+;B[ro];W[pn];B[qm];W[qk]C[after solidifying more territory tried to attack the big left moyo
+
+[Calvin\] It's an overplay.]
+(;B[pl]C[and suddenly i felt i went in too deep
+
+[Calvin\] Yes.  There are various reasons to invade.  You might invade to make territory.  That's not possible here as there is too little space.  A good rule of thumb is 21 points of open space to make an invasion for territory.  Here there is 9.  Another reason to invade is attack.  Black's upper right group is not weak.  Black's lower right group does look to have a problem, but not really because it can get out and also because of white's bad shape, black has some resources in the corner and won't have trouble making life.]
+
+(;W[pk]C[[Calvin\] Heavy.   See variation.];B[ol];W[qe]C[i hoped to connect to the two stones on the right by pushing in Sente, or at least using them as aji
+
+[Calvin\] Again with this move.  Save it for a ko threat or something, but it's best to forget it.  It's too far to connect the white stones.  It's a matter of reading and experience, but I can see that instantly.]
+;B[re];W[pf];B[qg];W[pg];B[ph];W[oh];B[oi]SQ[kd][mc]C[but was blocked to soon. at least i achieved a large white wall.
+
+[Calvin\] It's overconcentrated.  The two marked stones are too close to the wall.]
+;W[nh];B[ni];W[lh]TR[qk][pk]MA[na][oa][ob][pb][pa][nc][pc][nd]
+[od][oc][md][me][ne][oe][mf][nf][of][se][rf][sf][rg][sg][rh]
+[sh][qh][ri][si][pj][pi][qj][rj][sj][rk][rl][ql][sl][rm][sk]
+[sm][sn][so][nb][rn]C[i was happy with result if i get a chance to expand bottom right group
+
+[Calvin\] Well, it's black's move.  :)  Okay, let's see if white has gained.  The marked places for white total 18 points.  Black's right side is now 29.  (The captures count double, of course.)  Earlier, white was ahead in this area.  So I think the whole set of operations on right side since the last count is a net loss for white.]
+;B[lp]C[black probably felt the same];W[mo];B[ok];W[gi]SQ[ch]
+[bi]LB[eh:A]C[decided i can gain a bigger potential on the top left than with bottom right which is probably alive.
+
+[Calvin\] At least it has an effect on black's weak group.  But think about how much better it would be if white had played at A (E12) instead of making the marked exchange earlier.  Or even earlier than that, you can see that C10 isn't doing much for white right now.]
+;B[gk]C[now black had a potential moyo on bottom left and white a weak white moyo on top left
+
+[Calvin\] That knight's move is dangerous for black.];W[jm]
+SQ[mo]LB[kn:A]C[so i tried to weaken black's
+
+[Calvin\] The relationship between the two marked stones is not that good.  It is too easy for black to separate white with a move like A (L6).]
+;B[hm];W[fm];B[in];W[fk]C[if i don't manage to cut off black left middle group, at least i can strengthen trying
+
+[Calvin\] Good spirit.];B[fj];W[gj]C[but i got greedy, hoping to cut them completely
+
+[Calvin\] The fight is complicated.];B[ek];W[fl];B[el];W[en]
+;B[dm]C[i understood now i must sacrifice the three stones on the side, or the four stones in the middle. the threes tones on the side hold more territory]
+;W[cm];B[dn]
+(;W[ih]C[tenuki to try compensate for the loss.
+
+[Calvin\] For me, the feeling is that you have to play D5 no matter what.  I'm not really sure, though.]
+;B[he];W[je];B[kb];W[lb];B[kc];W[ld];B[lc];W[mb];B[rb];W[rc]
+;B[sc];W[qb];B[sb]C[[Calvin\] Very slow move for black.];W[hk]
+C[black ended in gote. i was happy with a sente move to help me close around the tengen stone. I believe this move turned the game in my favor...
+
+[Calvin\] Because black doesn't answer this, it does become a big gain for white.]
+;B[mr]C[especially since black did not respond or take sente]
+;W[hl]C[black did not threaten my lower corner, here i have a chance to save the four stones and maybe get the middle.
+
+[Calvin\] This is a good call.];B[eh];W[eg];B[fh]
+(;W[gh]C[[Calvin\] This move is going to create a broken shape for you.  It hurts white's upper left group and helps black.   See variation.]
+;B[fg]SQ[eg][gh]C[[Calvin\] Broken shape. Now there are some liberty problems for white in the upper left.]
+;W[lj]SQ[fg][gh]C[middle is bigger than losing e13
+
+[Calvin\] Correct, but it was white's move at G12 that put E13 in danger in the first place.  Maybe you can see now that white would not play the marked exchnage.]
+;B[bb];W[cb]SQ[ec][eb]C[later learned it is a bad cut. should have gone to b17
+
+[Calvin\] Normally this move is good.when black jumps in like that.  It is the previous marked exchange, E17 for E18, that makes the shape not so great for white.]
+;B[ca];W[ef];B[gf];W[ff]C[it wasn't important to block escape for black, since he is almost certainely connected to bottom
+
+[Calvin\] Why are you forcing black to connect?];B[gg]TR[jj]
+[pk][qk]MA[rg][sg][rh][qh][sh][pi][pj][qj][rj][ri][si][sj][sk]
+[ql][rl][sl][rm][sm][rn][sn][so][dr][dq][er][fr][gr][hr][ir]
+[jr][kr][ks][js][is][hs][gs][fs][es][ds][ia][ib][ha][hb][ga]
+[gb][df][dg][am][bm][na][nb][oa][ob][pc][oc][nc][md][nd][od]
+[oe][ne][me][le][ke][kf][kg][lg][lf][mf][nf][of][jk][kj][ki]
+[ji][ii][ij][no][oo][pq][pr][se][sf][rk]C[[Calvin\] Black's stones are pretty safe now.  Let's count.  I see about 50 points for black, maybe 39 for white including the one point komi.  B+11, maybe?  I'm not being very accurate, but right now I think black is winning.  It's very hard to expect much territory for white on the left because of B11.   Again, I'm not that strong, and perhaps stronger players would have a different positional assessment, but it's good to try to think about these things.]
+;W[im];B[hn];W[cp]LB[bq:A]C[[Calvin\] Locally, the endgame move is a A (B3).  It's a large gote move for either black or white. Remember it.  About 17 points in gote.]
+;B[dq];W[ml]LB[nr:A]C[tried to connect to bottom right shape for strong wall. i feel there was a better placement for this
+
+[Calvin\] If you are worried about the bottom right group, A (O2) is a profitable defense.  However, I'm a little concerned about white's group on the left.   See variation for black's next move.]
+
+(;B[nm];W[ln];B[ko];W[kn];B[jn];W[fd];B[gc];W[gd];B[hd];W[mq]
+;B[lq];W[nr];B[lr];W[br];B[cr];W[ka];B[jb]
+(;W[mi]C[tried to gain as much as i can in sente - but decided to end here since i was scared from invasion in p13
+
+[Calvin\] P13 is not a threat.  See variation.];B[nn];W[no]
+MA[bc][bj][bq]C[[Calvin\] Bigger moves for white are marked on the left side.]
+;B[rr];W[qr];B[rq];W[nj];B[oj];W[if]C[let go of sente again, to close top left territory which was vital to stay in game]
+;B[bc]C[realised my mistake of c18 now];W[bd];B[dc];W[cd];B[ag]
+C[i was expecting e16, i was caught by surprise here.
+
+[Calvin\]: E16 capture is small.];W[bg]C[making sure the top left group is alive is now top priority]
+;B[ah];W[bh];B[af];W[bj]C[and to avoid lower left suffering same fate]
+;B[bq];W[aq];B[bs];W[ar];B[fo]C[this is a move i wanted to do a long time but never found the chance]
+;W[eo];B[ep];W[do];B[nk];W[mk];B[mm];W[lm];B[oo];W[on];B[ja]
+;W[la];B[gn]C[i was given sente, but did not find good sente moves anymore.]
+;W[ed];B[fb]
+(;W[hg]C[[Calvin\] Small.  See variation.];B[ad];W[be];B[ae]
+;W[dl];B[em];W[rs];B[ms];W[ns];B[jd];W[ie];B[qa];W[pa];B[ra]
+;W[ob];B[rf];W[qp];B[id];W[lo];B[mp];W[np];B[sr];W[qd];B[gm]
+;W[gl];B[fn];W[co];B[ge];W[fe];B[ss];W[qs];B[fi];W[mj];B[aj]
+;W[ak];B[ai];W[ap]C[[Calvin\] Huge mistake!  White needs to defend here.  But black does not punish.  See variation for black's next move.]
+
+(;B[om];W[as];B[cs];W[po];B[pm];W[tt];B[tt]MA[bl]C[I did not expect a win until the last moment. thank you for your time
+
+[Calvin\] Black of course can still play B8 at this point, which would be a very sad result for white.]
+;W[tt]TB[aa][ab][ac][ba][da][dr][ds][ea][ei][eq][er][es][fa]
+[fp][fr][fs][ga][gb][go][gp][gq][gr][gs][ha][hb][hc][ho][hp]
+[hq][hr][hs][ia][ib][io][ip][iq][ir][is][jc][jo][jp][jr][js]
+[kp][kq][kr][ks][ls][pi][pj][pk][qh][qj][qk][ql][rg][rh][ri]
+[rj][rk][rl][rm][rn][sa][sd][se][sf][sg][sh][si][sj][sk][sl]
+[sm][sn][so][sp][sq]TW[al][am][an][ao][bk][bl][bm][bn][bo][ce]
+[cg][cl][de][df][dg][ee][gk][hh][hi][hj][ig][ii][ij][ik][il]
+[jf][jg][jh][ji][jj][jk][jl][ke][kf][kg][kh][ki][kj][kk][kl]
+[km][le][lf][lg][li][lk][ll][ma][md][me][mf][mg][mh][na][nb]
+[nc][nd][ne][nf][ng][oa][oc][od][oe][of][og][oo][op][oq][or]
+[os][pb][pc][pe][pq][pr][ps]C[Phileas (phileasfogg): Thank you for the game :-)
+
+White: 75 territories + 2*2 dead stones(B) + 1 prisoner + 1 komi = 81
+Black: 76 territories + 2*2 dead stones(W) + 0 prisoners = 80
+Result: W+1
+
+Notes - Agora (agora):
+thanks for the game])
+(;B[bl]
+(;W[bk];B[cl];W[bm];B[al]C[[Calvin\] Dead.])
+(;W[bm];B[cl]
+(;W[al];B[bk]C[[Calvin\] Dead])
+(;W[an];B[bo];W[al];B[bk]C[[Calvin\] Dead.]))
+(;W[cl];B[bk];W[bm];B[al];W[am];B[ak]C[[Calvin\] Dead.])
+(;W[al];B[cl];W[bk];B[am])))
+(;W[dl];B[em];W[fn]))
+(;W[bq];B[og];W[mh]C[[Calvin\] Even if you just play simply here, there is not much black can do. with P13.]
+))
+(;B[bq]C[[Calvin\] Minimally black can block here in sente, which is huge.]
+)
+(;B[bl]C[[Calvin\] Black can also test white.  Are you okay with this life and death?]
+))
+(;W[kk]C[[Calvin\] Bigger just to swallow this center stone.]
+))
+(;W[do]
+(;B[eo];W[co]
+(;B[fn]C[[Calvin\] If black ataris...];W[ep];B[em];W[dq];B[cp]
+;W[cr]C[[Calvin\] White is much safer now.])
+(;B[fo]C[[Calvin\] So black should extend, but...];W[dl];B[em]
+;W[bq]C[[Calvin\] White is less vulnerable on the left now.]
+))
+(;B[co];W[bo];B[cp];W[dl];B[em];W[bj]C[[Calvin\] Maybe.])))
+(;W[qg]C[[Calvin\] I'd probably try something lighter see if I can save half the stones in two fights, since white is outnumbered on this side.]
+))
+(;B[pm];W[on];B[pk]))
+(;W[gj]C[[Calvin\] White needs to put some pressure on black.  It is not easy for black to connect out.]
+)
+(;W[hj]C[[Calvin\] Maybe further away from the stones you want to attack.  In any case, white needs to be more active.]
+)
+(;W[ql]C[[Calvin\] If you feel you have to invade, just invade.  Don't make your opponent stronger first and *then* invade.]
+))
+(;W[eh]C[[Calvin\] This woud be the shape move.  Spoil black's tiger's mouth.]
+))
+(;B[ed]C[[Calvin\] Not that black would play this now, but one problem with this shape...]
+;W[dc]SQ[cd]C[[Calvin\] Empty triagle.])
+(;B[dc];W[ed];B[cb]C[[Calvin\] Now this move may be sente at some point, but normally it wouldn't be.]
+))
+(;W[cb]C[[Calvin\] In the endgame, this is the biggest territorial move, but by playing E17, it makes it more likely black will get here first later, which is exactly what happened.  It is not the endgame, however, and this move is not clearly sente, so save it.]
+))
+(;W[hd]C[[Calvin\] You could consider this leaning attack.  (See http://senseis.xmp.net/?Leaning).]
+;B[hc];W[fd];B[ec];W[ek];B[fj];W[gl]C[Something like this. Black is trouble.]
+)
+(;W[gj]LB[hd:A]C[[Calvin\] Even capping directly is possible.  The shoulder at A can help with leaning attack during the process.]
+))
+(;W[hd];B[hc];W[fd];B[ec];W[ej]C[[Calvin\] Leaning attack, then press with knight's move.]
+))
+(;B[dj];W[cj];B[di];W[dk];B[fj];W[ek];B[gh])
+(;B[pl]C[[Calvin\] Black can also complete the right side.]
+)
+(;B[dl];W[cl];B[dn]SQ[jq]C[[Calvin\] This is a useful sequence to know, but as black I'd rather have the marked stone at K3 higher and further away.]
+))
+(;W[dl]C[[Calvin\] Often play high when white has stones on the same side.]
+;B[cj];W[ck];B[dj];W[fk]C[[Calvin\] Black can invade, but is cramped.]
+))
+(;B[cl];W[cq]
+(;B[co]C[[Calvin\] This is a case where this kind of push is joseki.  But here, the goal is to build thickness.]
+;W[bo];B[dn];W[dm];B[cm];W[bn];B[en]LB[em:A]C[[Calvin\] Black can't play at A right now because the ladder is not good, but this is sometimes okay.]
+)
+(;B[ci]C[[Calvin\] Maybe as black I would just play here.])))
+(;B[qc];W[qd]C[[Calvin\] It's normal for white to separate this way.]
+;B[pc];W[od];B[oc];W[nc];B[rd];W[re];B[rc];W[qe];B[of];W[nf]
+;B[og];W[mf];B[qi]SQ[db][fc][ic]C[[Calvin\] There is a joseki that goes like this, but because black is strong in the upper left, it is not easy to use the thickness.  The are many other variations you can find in dictionaries or professional game databases.]
+))
+(;W[nc]C[[Calvin\] For territory, this is better.]
+(;B[rd];W[qc]
+(;B[ph];W[qj]C[[Calvin\] White has this invasion if black plays high.  I'm not saying immediately, but later.]
+)
+(;B[qi]C[[Calvin\] If black plays low...];W[pj]C[[Calvin\] White can consider a reduction like this.]
+
+(;B[qj];W[pk];B[pi]
+(;W[nj];B[oi];W[ml])
+(;W[qk]SQ[qn][rp]C[[Calvin\] Puts some pressure on the marked stones.]
+))
+(;B[pi];W[nj];B[oj];W[ok];B[oi];W[ml]C[[Calvin\] Light reduction.]
+)))
+(;B[pj]MA[qh][ql]C[[Calvin\] Black has two possible invasion points.  There's no way for black to complete the right side in a single move.]
+)))
+(;W[nc];B[rd];W[hd]C[[Calvin\] Try other ideas.  Learn some pincers.  It will open up your game to new possibilities.]
+))
+(;W[qi]C[White could considre this pincer.];B[qc]C[[Calvin\] If black invades as is common in this joseki...]
+;W[qd];B[pc];W[od];B[rd];W[re];B[rc];W[qe];B[nc];W[ql]SQ[qn]
+[rp]C[[Calvin\]  The natural extension at R8 is now in the perfect place to put pressure on black's two marked stones.]
+))
+(;W[qe]C[[Calvin\] A 5-3 makes an approach on the right side less attractive.]
+;B[qq]C[[Calvin\] If black takes the 3-3...];W[kq]C[[Calvin\] This is the common shape.]
+))

@@ -1,0 +1,296 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+PB[mafutrct]
+BR[1d]
+PW[ML]
+WR[2d]
+KM[0.5]
+DT[2009-03-02]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[B+17.50]
+TM[1200]
+OT[5x40 byo-yomi]
+RU[Japanese]
+
+C[This is a game I played recently against a 2 dan.
+Please point out my mistakes. I'm especially interested in the correct direction of play.
+Thank you very much for your effort!
+
+
+>Hi! Thanks for submitting the game! It was an interesting one, even though you won quite easily. It's probably better if you submit games that you lost, but that doesn't really matter. It does mean, though, that my comments are quite negative - it's hard to praise the "correct move" when you are so far ahead that almost any move will win the game! You played a good solid game, no big mistakes at all.
+
+Since white was obviously having a bad day, some of my comments are about his moves as well. I hope that's ok.
+
+The general problem for both was a lack of sharpness. Some of the shapes are inefficient or slack (and at one point w misses a large kill!) but ultimately w loses because he has no plan. Black, for his part, misses lots of chances to play forcefully, gaining a big lead in the opening and managing to hold on to it. The middle game was spectacularly boring considering how active the board was, and w's impressive comeback in the small endgame was not enough to make up for 100 moves of doing nothing!
+
+I've put in a lot of variations, but they're certainly not guaranteed to be correct or even sensible. You can probably beat a lot of them with careful reading! If you have any questions or comments at all, feel free to email me or find me on KGS (I'm "sixsix")
+
+Enjoy!];B[pd];W[dp];B[pq];W[dc];B[fq];W[cn]
+(;B[jp]C[>See variation];W[qn];B[po]
+(;W[qk];B[qo]C[>Horrible for w! B is ahead already. With the corner strengthened and the right side so thin, the bottom side becomes very difficult to invade]
+;W[qh]
+(;B[fo]C[>See variations. Defending the bottom is correct, but the shape is odd. This move is ok, but w can just play D2 and then has a perfect invasion at M4 or H3.]
+
+(;W[nc]C[>A good move.]
+(;B[lc]C[This seems a lot like overplay.
+
+>Yes, you need a plan for the corner.];W[ne];B[pf]
+(;W[kd]C[>This joseki gives b an easy way to deal with his corner stones and also settles him on the top, while the influence he gets is too thin. There is only one move for w here - spot it yourself before looking at the variation!]
+;B[kc];W[jd];B[ld];W[le];B[jc];W[id];B[hc];W[ng]
+(;B[ph]C[>This sequence is pretty bad, see variation.];W[pi]
+
+(;B[qg];W[oh];B[pg]C[>Sealing b in completely is a big bonus. Now w has to work out a plan. Some thoughts for him:
+
+- N16 is annoying, and the usual counter of "living in the corner" might be more difficult after R13.
+
+- The ways for w to use his thickness are to invade the bottom or make a moyo on the left.
+
+-W has to play an active game, since he is short of points and b has no weak groups. W's advantage is his superior influence. His shape is precarious but nothing seems too bad, so he probably has to risk not adding a move.
+
+See variation for how I would play as w]
+(;W[pb]
+(;B[qi]C[>Wrong way!];W[pj];B[mf]C[Aiming at N16, O16, N15to split white.
+
+>Not now w has 3-3];W[nf];B[qc]C[Is this even needed?
+
+>Yes, now N16 is a threat... but R11 is a wasted move.]
+(;W[ge];B[md]C[>Really big. I would definitely connect on top as w, the thickness is worth more than the corner]
+
+(;W[nd];B[me]C[>White could feasibly resign here. His thickness is ruined, he has two half-weak groups, and b has 40 solid points.]
+
+(;W[lh]C[>Quite a good move locally, to seal black in and make the thickness work (treating K16 lightly), but w needs something more exciting to catch up.]
+
+(;B[gc];W[lp]
+(;B[kn]C[Is this the correct move to attack white?
+
+>No, don't contact weak stones (or, in this case, invite an obvious contact move)]
+;W[ln]
+(;B[lo]C[>Urgh];W[mo];B[ko];W[oq]LB[nm:C][op:B][pr:A]C[I'm not sure how i should respond to this move. I thought about black A or B.
+
+If A, i think white will play C, this feels too easy for white.
+
+If B, i dont know :)
+
+> The wedge was obviously bad when w is weak, it helps him make sabaki.
+
+A seems too slack when b is so thick here, but it might have to be played anyway. P3 is a clever move
+B doesn't cut, so is useless.
+
+You're right, C is the right move for w. I can't see a particularly good reply for b here. M4 was always a good invasion (after F5) and b played a couple of odd moves, so w gets a decent result.]
+
+(;B[mn]
+(;W[no];B[nn];W[on];B[oo];W[lm];B[ml];W[om]C[is this a good move for white? It feels like aji keshi.
+
+>Possibly, but I guess he was aiming at the b corner.
+
+Looking ahead, it turns out that w dies because of this aji keshi. Well spotted!]
+
+(;B[nl]
+(;W[mq];B[kq];W[op];B[np];W[mp]
+(;B[nr]C[I guess this is a big mistake.];W[or];B[pr];W[ns];B[lr]
+;W[mr]C[I think this result is not as good for black as it should be.]
+;B[kl]C[I'm not 100% sure about the lower right corner. Can white create a ko there, or even kill it?
+
+>Probably not with Q6 hole, but there's some bad aji.]
+(;W[rn]C[>Aji keshi again];B[rr]C[>Nice reading! I think any other move dies.]
+;W[er]
+(;B[ce]C[>See variations. There are a lot of more interesting options.]
+
+(;W[cd];B[de];W[ed];B[ci];W[ck];B[ee]C[Bad exchange?
+
+>Yes, you are slowly losing your chances to cut and attack in the centre]
+;W[fd];B[ej];W[ek];B[fk];W[el];B[fl];W[em];B[fm]C[>W allows you to build a large centre. Well played, you are easily ahead now.]
+;W[fr]
+(;B[he]C[>W just gives up those three stones and ruins the twenty-point centre.]
+;W[hf];B[hd];W[ff];B[if];W[eg]
+(;B[hg];W[cg];B[dg];W[dh];B[bg]
+(;W[df]C[>Another slack move];B[bf];W[bh];B[bd];W[bc];B[bi]
+;W[ch];B[gf];W[fe];B[ah]
+(;W[di]C[>B should die here, so technically this is correct. But if w didn't see the kill then you have to wonder what his plan was. W connects two live groups along dame while b gets into the left side.]
+;B[ac];W[bb];B[cj];W[dj];B[bk]
+(;W[rp];B[ro];W[qp];B[pp];W[so];B[sq];W[sp];B[qq];W[cl];B[aj]
+C[>W should get B8. It's just endgame from here. W gets a lot of points back, but up to here his only points are the lower left, while his "thickness" is half dead, half dame. B is winning by virtue of the points he got in the first fifty moves. A well-deserved win, but it could have been more convincing and w could have fought harder.
+
+That's it! Thanks for submitting the game, do get in touch if you have any questions!]
+
+(;W[gq]
+(;B[li]
+(;W[mg];B[ni];W[oi];B[kh];W[lf];B[kg];W[lg];B[eb];W[hp];B[ho]
+;W[qb];B[rb];W[io];B[gp];W[hq];B[ip];W[gn];B[hn];W[fn];B[gm]
+;W[en];B[fh];W[go];B[dd];W[ec];B[cc];W[db];B[an];W[fj];B[gj]
+;W[ei];B[hm];W[gi];B[fi];W[gk];B[ej];W[sn]
+(;B[qs];W[fj];B[hj];W[gh];B[ej];W[rq];B[sr];W[fj];B[hi];W[fg]
+;B[bo];W[bp];B[co];W[cp];B[ap];W[aq];B[ao];W[bq];B[rj];W[al]
+;B[bl];W[bm];B[am];W[do];B[ak];W[rk];B[pc];W[ob];B[mb];W[ra]
+;B[rc];W[cb];B[fb];W[ad];B[ae];W[ab];B[ad];W[ag];B[af];W[cd]
+;B[cf];W[mj];B[mi];W[nj];B[lj];W[rh];B[ri];W[sh];B[rg];W[sj]
+;B[sg];W[jf];B[pn];W[pm];B[qm];W[rm];B[ok];W[oj]
+(;B[si];W[kf];B[sk];W[ol];B[nk];W[pk];B[nm];W[ql];B[mk];W[jg]
+;B[jh];W[gg]
+(;B[sl];W[ih];B[ii];W[jr];B[nb];W[oc];B[kr];W[jq];B[kp];W[hf]
+;B[js];W[ir];B[gf];W[nq];B[ps];W[hf];B[ej];W[bn];B[al];W[fj]
+;B[gf];W[eh];B[hh];W[ig];B[hf];W[oe];B[hr]C[Foolish move, no?]
+;W[gr];B[hs];W[gs];B[ks];W[is];B[oa];W[pe];B[qe];W[pa];B[na]
+;W[mc];B[lb];W[ic];B[ib];W[ie];B[da];W[ca];B[ea];W[fc];B[gb]
+;W[ef];B[sb];W[rl];B[cc];W[sm];B[sj];W[cd];B[sa];W[qa];B[cc]
+;W[ki];B[ji];W[cd];B[fi];W[fh];B[cc];W[nh];B[kj];W[cd];B[je]
+;W[ke];B[cc];W[os];B[cd];W[tt];B[tt]TW[aa][ba][je][dg][fi][ej]
+[dk][dl][pl][cm][dm][qm][dn][eo][fo][ep][fp][gp][np][cq][dq]
+[eq][fq][ar][br][cr][dr][hr][nr][as][bs][cs][ds][es][fs][hs]
+TB[fa][ga][ha][ia][ja][ka][la][ma][hb][jb][kb][sc][qd][rd][sd]
+[be][re][se][qf][rf][sf][ag][qh][rh][sh][ai][ki][bj][ij][jj]
+[gk][hk][ik][jk][kk][lk][gl][hl][il][jl][ll][im][jm][km][lm]
+[mm][in][jn][ln][io][jo][qr][rs][ss]C[In the end, I won by 17.5 points.]
+)
+(;B[ig]C[Bigger, i guess.]))
+(;B[kf]C[I think black must play here first....]))
+(;B[ps]C[I think this is better...]))
+(;W[kh];B[ni];W[oi];B[mh]C[This was my plan]))
+(;B[gp]C[Is this bigger?]))
+(;W[bl]C[>This is w's sente]))
+(;W[aj]C[>Dead?];B[ai];W[cf];B[cl];W[dk]
+(;B[bm];W[bn];B[cm];W[am];B[al];W[an];B[dn];W[do])
+(;B[bn];W[bm];B[cm];W[bo];B[dn];W[co];B[dm];W[en])))
+(;W[bk]C[>If you can't kill, this is much better];B[di];W[ad]
+;B[be];W[ei];B[fi];W[eh];B[dj];W[fb]C[>B probably still has enough]
+))
+(;W[bh];B[ch];W[df]
+(;B[bf];W[bi])
+(;B[cf];W[dg];B[bi];W[bf];B[ah];W[be])))
+(;B[cg];W[hg]C[Is this better?
+
+>Yes]))
+(;B[fe];W[gd];B[gf];W[hf];B[hg];W[ig];B[if];W[he];B[hh];W[ih]
+;B[ii];W[ji];B[ij])
+(;B[ni];W[oi];B[nh];W[og];B[mg])
+(;B[gr];W[gq];B[hr];W[fp];B[gp];W[eq];B[hq])
+(;B[ki]))
+(;W[de];B[df];W[ee];B[cd];W[ec];B[cc];W[fg];B[dg];W[kg]))
+(;B[fr]C[This is slow, right?
+
+>Yep.])
+(;B[dm]C[Is this a good move?
+
+>A very good move.];W[cm];B[dk];W[dl];B[el];W[cl];B[fj]C[>Quite a lot of points for b, easily enough, but I prefer the active variations, to control the game for a safe win.]
+)
+(;B[oi]C[>So, what happens if b cuts here? B is so thick below, and w is so thin
+
+Seems like w can dodge this one. But b has other, less crude options.]
+;W[nj];B[ni];W[mi];B[nh];W[mh];B[og];W[oj];B[oh];W[lk]
+(;B[ll];W[mg])
+(;B[mg];W[ll];B[jf]C[>Unclear. B is not so ahead any more, because w is thicker]
+;W[de]))
+(;B[jf]C[>Vital point for attacking this group, but they're light.]
+;W[de])
+(;B[de]C[>Here aims at the centre in a big way.])
+(;B[ni];W[oi];B[nh];W[mg];B[og]
+(;W[mj];B[nj];W[nk];B[mk];W[ok];B[mi];W[lj];B[li]C[>If b can successfully cut, w ends up with two or three weak groups.]
+)
+(;W[lk];B[ll];W[nj];B[mi];W[li];B[mj];W[mk];B[nk])))
+(;W[rq];B[qq];W[ro];B[pn];W[qm];B[pm];W[ol];B[pl];W[ok];B[ql]
+;W[rl];B[rn];W[rm];B[rp];W[sn];B[rr]))
+(;B[pr]C[This kills?
+
+>I think so. Now we notice that P7 at Q6 would be better, to make P2 sente for w (and let him live), so you were right about aji keshi!]
+))
+(;W[pr]C[>Big!]))
+(;B[mm]C[Is this move better?
+
+>Nope. Net works with the bamboo joint too.]))
+(;W[nn];B[lm]
+(;W[nm])
+(;W[pr]C[>Big])))
+(;B[op];W[nq];B[np];W[mp]C[>Worst possible moves])
+(;B[pr];W[nm];B[de]))
+(;B[lm]C[I think this is too easy for white.
+
+>You don't really have much choice. Wedge is not a 1d move!]
+;W[mn];B[km];W[mm];B[dm];W[cm];B[dk];W[dl];B[el];W[cl];B[fj]
+C[>W has just dame everywhere, b has four bits of territory.]
+))
+(;B[jn]C[> If w could make a base or the corner was weak then you mght consider a pincer, say O3. In this case, the space is too narrow and R6 has made the corner invincible (see how bad that move was?) so you can just jump here.]
+;W[ln];B[nj];W[ni]
+(;B[jf])
+(;B[ll]))
+(;B[ko]C[>This is most aggressive, if an easy win is not your style or if you're just getting bored.]
+;W[lo];B[ln];W[mn];B[mm]))
+(;B[dm];W[cm];B[dk];W[dl];B[el];W[cl];B[fj]C[>Here, for example, it doesn't seem like w can get enough.]
+))
+(;W[gc];B[hb];W[df];B[lh];W[rh];B[ri];W[rj];B[rg];W[qj];B[sh]
+;W[ro];B[rp];W[dj]C[>W is behind, needs to catch up]))
+(;W[me];B[nd];W[dj]C[>This is the only way w can get a playable game.]
+))
+(;W[me]C[>Slow, but Q18 lost the option to live in the corner so w has little choice.]
+
+(;B[gc];W[de];B[ge])
+(;B[dm];W[cm];B[dk];W[dl];B[el];W[cl];B[fj])))
+(;B[qc]C[>Here. The move in the game strengthens w's centre and also lets w live in the corner if you cut N16.]
+))
+(;W[ge];B[gc];W[qc]C[>A probe];B[pc];W[pb];B[ob];W[rb];B[pa]
+C[>B commits himself to ko. If he had N16 and O16, he might try S16 to kill instead]
+;W[df]C[>N16 is now dealt with, and w has a playable game. The moves in the corner also give S12 in sente as an added bonus. W is still not ahead, because of his very poor joseki choice at the top (and the awful R6) but he hasn't lost yet.]
+))
+(;B[oh]LB[re:C][of:B][qg:A]C[better?
+i fear after A, B, C black is floating without a base.
+
+>Much better than the game. The shape in the game is almost never a good idea, the atari is too painful.]
+;W[qg];B[of];W[re];B[md]
+(;W[me];B[nd];W[oe];B[pe])
+(;W[nd];B[nf];W[me];B[kf];W[ke])))
+(;B[md]C[>Probably a good time to peep here. If w connects on top then great, b can save the corner with points. If w insists on attacking then b can aim at the N15 cut when settling himself.]
+
+(;W[nd];B[ph];W[pi];B[oh];W[qg];B[of];W[re];B[nf];W[me];B[lg]
+)
+(;W[me];B[nd]C[>W can try to use his thickness now, but b is ok]
+;W[ge];B[pj];W[qj];B[ph])))
+(;W[og]C[>Painful. W will get thick, and he will control the rest of the board.]
+))
+(;B[qf];W[pb]C[is this ok for black? This seems best, but it's not too nice. I've put in a few ideas.]
+
+(;B[qc];W[ne];B[ph];W[pi]
+(;B[oh];W[qg])
+(;B[pg];W[oi];B[ng];W[jd]C[>This doesn't seem good. B is playing dame, and the w group on the rght is strengthened.]
+))
+(;B[rj];W[qj];B[ri];W[qi];B[rh];W[ne];B[of];W[mg])
+(;B[pj]
+(;W[qj];B[ph];W[pi];B[oi];W[qi];B[pg]C[>Finally, a playable result! But w will resist the peep, in the variation...]
+)
+(;W[pg];B[qj];W[oe]C[>Maybe playable for both? If b sees this coming, how about peeping at Q10 first, right after O17?]
+))
+(;B[nd];W[md];B[ne];W[lc];B[rj]C[>I prefer this variation, leaning to attack strongly on the right.]
+;W[qj];B[ri];W[qi];B[rh];W[nk]
+(;B[lk];W[nh];B[lf])
+(;B[nh];W[nn];B[mp])))
+(;B[pf]C[is this a stupid move?
+
+>Yes! R12 is a vital point, and w already has it.])
+(;B[nd]C[Maybe black should force life.];W[md];B[ne];W[oc];B[pc]
+;W[jc]C[>Now what? Seems like w gains a lot here, unless b can attack the w group on the right, but I can't see any way to do that.]
+
+(;B[rn];W[qf];B[qe];W[pf];B[od]
+(;W[df])
+(;W[lp])
+(;W[dr]))
+(;B[qf];W[rn];B[ro];W[df])))
+(;W[dr];B[lo];W[nc]C[>Now b looks a bit overconcentrated on the bottom, and there is still a lot of aji at H3. It's clear that F5 doesn't work very efficiently in this shape.]
+))
+(;B[nc]C[better?
+
+>This is good too, because the O17 approach is a bit painful for b, but w can invade the bottom immediately. Hard to pick a best move here.]
+)
+(;B[lo]C[>This is the standard move around here, and would be my choice. W has H3, but b has lots of good replies.]
+)
+(;B[jd]C[>You could also play here, or maybe approach the top left. With R5, defending the bottom isn't quite as urgent. I would still play on the bottom though.]
+;W[de]
+(;B[qf])
+(;B[cg])))
+(;W[rp]C[>Joseki is here]))
+(;B[ip]C[>I'll add this variation, with J4 in stead of K4, just to point out something interesting about shape. (K4 is fine, this is just a side note)]
+
+(;W[qn];B[po];W[rp];B[ql];W[pn];B[qo];W[ro];B[qq];W[rm];B[on]
+;W[pl];B[om];W[pk];B[ko]C[>This is joseki. Now L5 is perfect shape, leaving the whole bottom side with very little aji. This is exactly what b wants. However, if J4 was at K4, there would be no good move for b here; he would have two invasion points on either side and couldn't cover both effectively.
+
+So with J4, b can get a pretty good result. See the other variation for how w might prefer to play after J4, to avoid this.]
+)
+(;W[po];B[pl];W[no];B[nq];W[lo]C[>The usual idea in the Kobayashi fuseki is to pincer a close approach. If J4 was at K4, this is perfect for b. Check for yourself that if b had K4, then the N4 peep connects the bottom side in sente, leaving b to play first ont he right as well. With J4, however, b can't seal off the bottom, so w has miai on the two sides and this is playable. These two variations are the one of the differences between J4 and K4.]
+)))

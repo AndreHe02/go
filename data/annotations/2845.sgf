@@ -1,0 +1,141 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.14]
+
+GN[brotherb vs rocko]
+EV[brotherb-rocko(B) LGS]
+PB[rocko]
+BR[9k]
+PW[brotherb]
+WR[13k]
+KM[0.5]
+RE[W+12.00]
+RU[Japanese]
+US[Smart Go File produced by LGC]
+
+C[Joonas Tyystjärvi: I've added some comments and variations. Until move 83 you were doing fine. As a general comment, when faced with a loose reduction like white 64, it is usually best to defend firmly (this holds especially true in this case, since your moyo is huge).]
+;B[qd];W[cp];B[pq];W[dd];B[eq];W[gq];B[do];W[co]
+(;B[dp]LB[dn:A]C[JT: should be at A. Now white gets (or could get) ahead.]
+
+(;W[jp]C[JT: this is simply a bad move (wrong direction and leaves a weakness)]
+
+(;B[cq]LB[cn:A]C[JT: I think A is better (see the variations).]
+;W[bq];B[cn];W[bp]
+(;B[dm]LB[bn:A]C[JT: I think A is better.];W[bn];B[oc]LB[bm:A]
+TR[bn]C[JT: you should block at A, since the marked white stone restricts your development on the left side.]
+;W[qo];B[op]LB[qk:A]C[JT: I'd prefer to play at A, since it's at the same time a pincer and an extension from your shimari. This is playable with the weak white group to the left, though.]
+;W[pl];B[qp]C[JT: a big point.];W[pn]
+(;B[kq]LB[lq:A]C[JT: at A is better. Remember - use contact plays to defend, attack from distance. This is the right direction, though.]
+;W[jq]TR[kq]C[JT: now the triangled stone is weakened.];B[kp]
+;W[kr];B[lr];W[jr];B[jo]LB[ko:A][mq:B]C[JT: at A or B is better; two cutting points so close together are bad.]
+;W[cf];B[ci]LB[ic:B][qj:C][bm:A][io:D]C[JT: this area is uninteresting - there's not a lot of space here and white can still play at A. At B is bigger, at C is more urgent. Also, D is somewhat interesting since the white stones aren't actually alive yet.]
+;W[ec];B[jc]LB[qj:A]C[JT: at A is more interesting, since it attacks the white group.]
+;W[hc];B[qj]C[JT: good!];W[qk];B[pj];W[rk];B[rj]LB[je:A]C[JT: although big, this is somewhat non-urgent. A is more important.]
+;W[bh];B[ch]C[JT: the right direction. Tenuki is also possible.]
+;W[cg];B[pk]LB[rp:A]C[JT: this move doesn't really do anything but lose a ko threat. If you want to attack, I prefer A, since it also has some endgame value.]
+;W[qm];B[nk]LB[je:A]C[JT: this side is already strong. A is bigger.]
+;W[lc]C[JT: now white gets to invade here.];B[ld]LB[kd:A]C[JT: at A is a stronger way to attack. This kind of contact play makes white stronger (I've added some variations).]
+
+(;W[ic]C[JT: ..and now white abandons the invading stone for a bit of territory.]
+;B[jd];W[jb];B[kb];W[ib];B[if]LB[kc:A]C[JT: you really should block at A first to remove the bad aji. Also, this isn't really such an interesting point, since white doesn't have that great potential here.]
+;W[kc];B[lb]C[JT: still much bad aji in the white stones.];W[hf]
+;B[id]LB[jg:A]C[JT: I prefer A, to defend your moyo.];W[gd]
+;B[he]C[JT: good, this fixes your shape.];W[ge];B[hg];W[gf]
+;B[hh]LB[ig:A]C[JT: I think just the solid connection at A is better (no cutting potential)]
+;W[jj]C[(Copied from the original file):Did I play in the first part of the game
+well?
+I think that I started to play wrongly
+after this move.
+What is the mistake???
+
+JT: you did well in the first part of the game. If black just keeps his moyo now, he has a comfortable lead of well over 10 points.]
+
+(;B[nm]C[JT: you should keep white out of your moyo. That makes the white stone weaker as well.]
+;W[kh]
+(;B[ji]C[JT: this is the worse way to cut (the proverb says "strike at the waist of the keima")]
+;W[ki]C[JT: now white gets to block here, and the weaker side is strengthened.]
+;B[kj];W[mi];B[lj]C[Where should I play against white?];W[li]
+;B[kg]LB[mg:A]C[JT: too close. I think A to destroy white's eye shape is the best.]
+;W[lg];B[mg]LB[ng:A]C[JT: at A looks better now, although it allows white better eye potential.]
+;W[kf];B[jg];W[mf];B[mh];W[jf];B[lh]C[JT: right.];W[jh]
+(;B[ii]LB[lf:A]C[JT: MUST be at A. No choice here. This is the losing move.]
+;W[ig]C[JT: black gets nothing here.];B[le]LB[ie:A]C[JT: well, this is better than A.]
+;W[ie];B[je];W[hd];B[lf];W[kg];B[ni];W[mj];B[mk];W[jk];B[hk]
+LB[kl:A]C[JT: you need to protect the cut with A now, to keep white weak.]
+;W[lk]C[JT: white is very happy.];B[ll];W[kk]LB[kl:A]C[JT: (A would have been better for white)]
+;B[kl]LB[nf:C][bi:B][bm:A]C[JT: a bit pointless. The territory black can expect with this is less than 10 points. A, although late, followed by B is bigger. C is huge.]
+;W[jl];B[oo];W[nf]
+(;B[og]LB[mc:A]C[JT: protecting at A is bigger.];W[mc];B[mb]
+;W[kd]C[JT: and now the bad aji manifests.];B[md]C[JT: this move doesn't actually work.]
+
+(;W[ke];B[nd];W[nj];B[oi];W[nc];B[nb];W[od];B[oe];W[pd];B[ne]
+LB[pc:A]C[JT: the ladder at A works.];W[pc];B[pb];W[ob];B[oa]
+;W[oc];B[qb]C[JT: white could still destroy some more territory.]
+
+(;W[pe];B[of];W[pf];B[pg];W[qf];B[rh]LB[bi:A][bm:B][io:C][rp:D]
+C[JT: since you're already alive here, there's not much point in protecting about 4 points. A and B are bigger. C and D are also somewhat interesting.]
+;W[hj]
+(;B[fh]LB[ij:A]C[JT: firmly cutting at A is better.];W[ij]C[JT: white connects safely again. You must not allow this.]
+;B[gk]C[JT: it's better to leave this stone for now, as it doesn't really do anything.]
+;W[fg];B[dg];W[df];B[eh];W[hi];B[gi];W[ih];B[gh]LB[qc:A][bi:C]
+[bm:D][rp:B][cr:E][fr:F]C[JT: too small, since the two stones aren't cutting. I've marked bigger moves in a sort of order of urgency.]
+;W[io];B[jn];W[jm];B[fr]LB[in:A]C[JT: at A is bigger.];W[gr]
+;B[gp]LB[gn:B][in:A]C[JT: too loose, doesn't do much. At A is better. If you really want territory here, around B is better.]
+;W[hp];B[go];W[in];B[km]LB[mq:A]C[JT: this is smaller than, say, A.]
+;W[ko];B[kn];W[lq];B[lp];W[mq];B[mr];W[gn];B[hm]LB[fn:A]C[JT: it's better to play straight at A.]
+;W[hn];B[fn];W[gm];B[gl]LB[fm:A]TR[hm]C[JT: the marked stone was free for you. You should forget about it - A is bigger.]
+;W[fm];B[el];W[em];B[en];W[cr];B[dr]C[JT: good! Black doesn't have much to lose in this ko.]
+;W[bm];B[fl];W[ck];B[bj];W[bk];B[dk];W[cj];B[dj];W[cm];B[dn]
+;W[cl];B[dl];W[eg];B[im];W[ip]
+(;B[ir]LB[nr:A]C[JT: pointless, since white has A. I've added the variations for when black has A - in that case, black can kill.]
+;W[fq];B[fp];W[is];B[hs];W[hr];B[nr];W[iq];B[ks];W[gs];B[ro]
+;W[rn];B[po];W[qn];B[rp];W[rl];B[ol];W[pm];B[on];W[sm];B[re]
+;W[qg];B[qh];W[rf];B[qc];W[fs];B[er];W[br];B[bi];W[bg];B[dh]
+;W[il];B[hl];W[gj];B[fj];W[lo];B[mp];W[ln];B[mm];W[sf];B[se]
+;W[ka];B[la]C[Tenuki is better.]
+(;W[ja];B[na];W[qe];B[rd];W[sh];B[si];W[sg];B[sk];W[sl];B[sj]
+;W[oj];B[ok];W[js];B[ls];W[ah];B[ak];W[al];B[aj];W[es];B[dq]
+;W[ds];B[gg];W[ff];B[so];W[sn];B[ho];W[ik];B[ai];W[tt];B[om]
+;W[tt];B[rg];W[tt];B[tt];W[tt];B[tt])
+(;W[na]))
+(;B[nr];W[tt]C[White doesn't defend]
+(;B[ks]
+(;W[js];B[hr];W[ir]LB[hq:A][hs:B]C[A and B are miai, so white dies]
+)
+(;W[ir];B[js];W[is];B[hq];W[hr];B[gs];W[ls];B[ks])
+(;W[hr];B[gs];W[hs];B[iq]))
+(;B[ir]C[This attack doesn't work.];W[hr]
+(;B[is];W[iq]LB[hq:A]C[black can't destroy the eye at A, so white lives]
+)
+(;B[iq];W[is]LB[gs:B][ks:A]C[A and B are miai.]))))
+(;B[ij];W[ik];B[gj];W[hl];B[gk]))
+(;W[qc];B[rc];W[rd];B[rb];W[qe];B[ka]))
+(;W[nd]LB[ke:A]C[JT: Black can't atari at A.];B[nc];W[ke]))
+(;B[mc];W[nh];B[og];W[ng];B[pf]C[JT: black keeps most of his territory on the edge.]
+))
+(;B[lf];W[ii];B[ni];W[mj];B[nj];W[ih];B[ig]C[JT: although the white group is strong now, black gets to keep his upper right territory. (I've added what I think is white's strongest attempt to live).]
+;W[le];B[md];W[kd];B[mc];W[ke];B[lg]))
+(;B[ki];W[ji];B[jh]C[JT: now white is weaker inside the moyo.]
+))
+(;B[ki]C[JT: although you'd usually not want to attack with a contact move, white can't really get strong here.]
+;W[ji];B[kh];W[kj];B[lj];W[lk];B[mj];W[jh];B[jg];W[hj]C[JT: the black territory is now completely uninvadable and worth about 80 points. With maybe 15 points in the lower right, I find it hard to see how white's going to catch up (I count white at about 30 points in the upper left, maybe 20 points max in the lower side and lower left corner and no more than 10 points in the right)]
+))
+(;W[md]
+(;B[kd];W[nc];B[od];W[me])
+(;B[mc];W[kd];B[le];W[mb];B[nc];W[kc];B[ke];W[jd]C[JT: playable, but not best.]
+)
+(;B[le];W[kc];B[jd];W[jb];B[ib];W[ka];B[ic];W[mb];B[nb];W[me]
+;B[lf];W[nc])))
+(;B[lq]
+(;W[kq];B[lp];W[jn])
+(;W[lp];B[mp];W[lo];B[kq];W[jq];B[mo];W[ln];B[qj])))
+(;B[bn];W[cr];B[dq];W[dr];B[er];W[bs];B[em]C[JT: now white is very small in the corner and black is thick in two directions.]
+))
+(;B[cn];W[bn];B[bm];W[cm];B[dn]
+(;W[bl];B[bo];W[am];B[bp]TR[co][cp]C[JT: the two marked stones can't escape.]
+;W[cq];B[bq];W[cr];B[br];W[er];B[dr])
+(;W[ao];B[cl];W[br];B[lq]TR[cm]C[JT: now black is very thick on the left side, too. There is bad aji in the marked stone, though.]
+)))
+(;W[dn];B[cn];W[cm];B[bn];W[bm];B[en];W[dm];B[cq];W[bo];B[bp]
+;W[an];B[jq]C[JT: although not awful for black, white is now very thick on the left side.]
+))
+(;B[dn];W[cm];B[jq];W[go];B[dm];W[cl]C[JT: this is joseki.]
+))

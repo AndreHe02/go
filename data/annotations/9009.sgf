@@ -1,0 +1,170 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.17]
+
+PB[Corvac]
+BR[13k]
+PW[timothyteo]
+WR[12k]
+KM[0.5]
+DT[2013-01-26]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[W+Time]
+TM[1500]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+C[Corvac> I played black in this game, and lost by time running out. However, I would have lost the game in any case with a few points.
+
+I am hoping for some suggestions on any glaring bad play from my side that I am not seeing, and any suggestions on areas that I can work on to improve my play.
+
+___
+
+Hi,
+
+My name is Simon Van Bockstal. I'm a Belgian go player currently ranked 6K BGF, 5k KGS. My comments are preceded by "SVB:" in this sgf file.
+
+This review includes:
+- general remarks on direction of play in the opening.
+- middlegame fighting: on the benefits of reading 3 moves ahead.
+- conclusion: some references for further study.
+
+If some of my remarks sound a bit harsh, I apologize, that was not the intention. I really hope this review helps you and should you have any questions, don't hesitate to contact me. If you would like to play a teaching game, you can find me as Hushfield on KGS.
+
+Kind Regards,
+Simon];B[pd];W[dc];B[cp]LB[dp:C][ep:B][pp:A]C[SVB: I was surprised by this. I've never experimented with diagonal fuseki before, and as such I had to look up what this sort of opening does to the rest of your game. There's not much to find, but what I could find was a general consensus that choosing this sort of opening leads to a game with more fighting and smaller territories (as neither player starts building a large framework).
+Your choice of 3-4 point usually is said to create a nice balance with the white 3-4 stone, but did you also consider that if white takes A, she has a good approach at B next? Either way, I'm not well-versed in (diagonal) fuseki enough to give a detailed list of the pro's and cons. I just slightly prefer Black C over your move, as it seems a bit more flexible in regards to possible followups.]
+;W[pp];B[fq];W[ce]C[SVB: The opening proceeds exactly as one would imagine.]
+(;B[qn]LB[jc:A][jd:2][cj:1][jq:3]TR[dc][ce]C[SVB: This approach seems to be the wrong direction of play. 
+
+A corner enclosure radiates influence mainly in one direction. For your enclosure on the bottom, that would be towards 1. For white's enclosure in the top left, that would be towards 2. This is because extending here makes it easy to build a box-like moyo  and to secure points later on. Explore the variations to see this for yourself.
+
+Although your move is a big point, extending towards the ideal direction of development for white is more urgent. I did a database search and my feeling was confirmed: in this exact position most pro's choose A.]
+;W[nq]
+(;B[rp];W[qq];B[pk]LB[qk:B][pl:A]C[SVB: This is not good form. You can either choose A (if there is a larger black wall in the top right, or B for maximum safety. Alternatively, you could also play a more rapid development instead. See variation at move 9]
+;W[jd]TR[pd][pk][qn]C[SVB: White plays the correct direction and punishesblack. Now the black formation doesn't look nearly as promising.]
+;B[dj]C[SVB: This is the good direction again. You extend in the primary direction from your own corner enclosure and prevent white from setting up a doubel wing formation. ( http://senseis.xmp.net/?DoubleWingFormation )]
+;W[ch]LB[kq:A]C[SVB: This move by white is the wrong direction, small and slow. You can now complete your double wing formation and pressure the white group at the bottom.]
+;B[bj]LB[kq:A]C[Corvac> This is one of my better opening sequences
+
+SVB: Absolutely not. This is slow. You're playing on the second line in the opening, and you're "enclosing points" that you believe are yours. A would have been infinitely better.]
+;W[ei];B[lc];W[kc];B[ld];W[ej];B[dl];W[ek];B[kp]LB[lq:B][kr:A]
+C[SVB: After some rather small exchanges from both sides you finally seize the largest open point on the board. Playing the low move would put much more pressure on white, though. White can easily settle his group by playing around A or B next.]
+;W[el];B[dm];W[em];B[do]LB[lq:A]C[Corvac> Was I too hasty in trying to get 'bigger' moves on the board and ignoring the white wall comming down on me?
+
+SVB: This feels rather overconcentrated for black. Playing A would put much more pressure on white, and you would profit from attacking that group.]
+;W[en];B[lr]LB[lq:A]C[SVB: This is the second time you've played a move on the second line early in the game. You have the right idea, but playing around A would havve been much better, shape-wise.]
+;W[hp];B[hq];W[gp];B[gq];W[fo];B[jj]LB[rq:A]C[SVB: I understand you want to limit white's center potential, but if you think about it calmly, there's no way white will make a large territory here with one more move. She'll need at least a few more, giving you time to severely attack the white group at the bottom right, perhaps even kill it. If you don't manage to kill, chasing it will enforce your right side and destroy white's center at the same time: two birds with one stone.]
+;W[kh];B[mh];W[ji]C[Corvac> Desperately trying to reduce the huge influence that white has in the center and top left
+
+SVB: the top has indeed become rather troublesome, but the (lower) center isn't worth worrying about.]
+;B[ii];W[ih];B[ki];W[jh];B[hi]LB[ij:B][kj:A]C[SVB: You're leaving behind two cutting points in an area where white is strong. This is bound to lead to trouble. white could cut at B right away and this would be terrible for black. playing a solid or hanging connection here would be much better. This is suicide.]
+(;W[hh];B[jf];W[if];B[ie];W[je];B[hf]C[SVB: This atari is an overplay. You cannot hope to create a living group inside such a strong white position like this. The fact that white became so strong here is a result of not playing towards white's ideal extension in the early opening (see move 7).
+
+I will use this move as the first example to introduce the second (and main) topic of this review: reading. More specifically, not the fact that your reading is incorrect, but the fact that you seem to be not reading at all, and just hoping for the best.]
+;W[ig]C[SVB: Take a calm look at the upper left side of the board and just ask yourself: "can black live here?". There's some space, but white is so strong that it seems very unlikely.
+
+While the sense of direction in the opening is rather hard to grasp, because there are too many moves to calculate, that is not at all the case for the middle game. Fighting takes place locally, in confined spaces and you can accurately calculate what will happen. Throughout this game you played moves that I know you read out were obviously not going to work, yet you played them anyway. I'm sorry there's no nicer way to say this, but it is this self-deceipt that seems to be the largest hurdle for your improvement. As long as you cast aside your own reading and say "Maybe he'll make a mistake", "maybe it does work", you will never improve. 
+
+Every time I mark a move as being an obbvious example of not reading/hoping for the best, read ahead 3 moves. Just three moves should be enough to show that it obviously doesn't work. That means you have to look for another move.]
+;B[id];W[ic];B[gd];W[he];B[hd];W[ge];B[fe];W[gf];B[ff];W[gg]
+;B[fb];W[fc];B[gc]LB[rq:A]C[Corvac> Scrambling for life
+
+SVB: You continue playing moves that you should be able to read do not work. This entire sequence is really painful for black. Getting compensation by playing A and trying to kill the white group should be your main focus now.]
+;W[fd];B[ec];W[ed];B[gb];W[kf];B[db];W[eb];B[ea];W[ec];B[cb]
+;W[cc];B[bb];W[bc]
+(;B[fh]LB[rq:A]C[SVB: Why tenuki here? Now white can kill unconditionally! If you look at the variations, black can at least get a ko in the upper left, the group has become too big to just give it up without any compensation.
+
+And even if you do tenuki. Again: read ahead: what will happen? White can just capture these. This is the same mistake that got you the heavy unsettled group in the upper left: don't struggle with stones that are hopeless. Just sacrifice them. Play at A instead.]
+(;W[gi];B[fi];W[hj];B[eh]C[SVB: read ahead 3 moves. Black cannot escape.]
+;W[di];B[ij];W[hk];B[il];W[hl];B[bh];W[cj];B[ck];W[dk];B[bl]
+;W[bg];B[cg];W[dg];B[df]C[SVB: You only need to read ahead 1 move to see that this is hopeless. Leave it be.]
+;W[cf];B[bi];W[fj];B[ib];W[jb];B[hc];W[jc]C[SVB: As shown in the variation, black gets a lucky break here. White should try to kill with ko.]
+;B[ia]LB[ha:A]C[SVB: Playing at A gives better eyeshape.];W[qc]
+;B[qd];W[pc];B[oc];W[ob];B[nc];W[nb];B[mc]LB[od:A]C[SVB: The empty triangle is bad shape and gives white the opportunity to push once more in sente, but the cut at A will be painful otherwise. Here you show that you have read ahead (quite far actually). This is what I mean. Well done!]
+;W[mb];B[rc];W[rb]
+(;B[qb];W[pb];B[sb];W[qa]C[Corvac> Was the sacrifice of R18 worth it?
+
+SVB: What do you think? Go back and calculate the difference.]
+;B[sd]LB[rd:A][rq:B]C[SVB: Yes, this is 3 points better for black. (Although I would connect solidly at A instead of your move). 3 points is an endgame play, though, and as both players have been neglecting the urgent point at B all game long, I would say it wasn't worth it, because now white has sente to defend at B. Just play B directly.]
+;W[lb];B[ke]C[SVB: It's connected anyway, so this is the same as passing. What's more, you give white a free stone. Read ahead 3 moves.]
+;W[le];B[lf];W[kd];B[me];W[ke];B[lg];W[qj];B[qh];W[qk];B[ql]
+;W[pj];B[ok];W[kj];B[li];W[ik];B[jk];W[jl];B[kk];W[kl];B[lk]
+;W[im];B[ll];W[lm];B[mm];W[ln];B[mn];W[lo];B[mo];W[lp];B[mq]
+;W[kq];B[os]LB[mp:A][rq:B]C[SVB: first of all, you need to ensure a connection at A. Secondly, B is still the point to play if you want to attack.]
+;W[mp]C[Corvac> Again I went for an agresive move to reduce white's strong position. Should I have rather just reinforced and closed off towards the group at H3?
+
+SVB : That is second choice, as you should have just played N4 to begin with, but yes, linking up with the H3 group is now your only option.]
+;B[nr];W[np];B[rq];W[qr];B[jq]LB[kr:A]C[SVB: This is the wrong direction of play: see variation. Play at A instead.]
+(;W[jp];B[lq];W[ko];B[kr];W[kp];B[iq];W[cq];B[dq];W[bq];B[bp]
+;W[ep];B[dp];W[eq];B[er];W[ap];B[cr];W[bo];B[eo];W[fp];B[dn]
+;W[rr];B[on];W[no];B[nn];W[po];B[qp];W[pn];B[pm];W[qo];B[ro]
+;W[rn]
+(;B[rm]C[SVB: Why give white the opportunity? Just connect solidly! White cannot take. Just read ahead 3 moves.]
+;W[qm];B[sn];W[qn];B[sl];W[rk]LB[rl:A]C[SVB: this is the reason the solid connection at A is better than your move.]
+;B[rl];W[sq];B[so];W[sr];B[pl];W[sp];B[sm];W[rh];B[ri];W[rg]
+;B[qi];W[oj];B[nk];W[nj];B[mj];W[lh];B[ni];W[ph];B[qg];W[qf]
+;B[pg];W[pf];B[oh];W[pi];B[og];W[re]C[SVB: it's abused again, though white is unlikely to live here.]
+;B[se];W[rd]C[Corvac> I did not see this comming.
+
+SVB: It's 1 move ahead. If you resist instead of connecting at the peep, the first thing you should read is "what happens if he cuts?".]
+;B[qe];W[rf];B[of];W[od];B[nd];W[pe];B[oe];W[pd];B[ml];W[si]
+;B[sj];W[sh];B[rj];W[kg];B[oq];W[pq];B[op];W[oo];B[or];W[ip]
+;B[qs];W[rs];B[ps];W[ab];B[ba];W[ac];B[ag];W[af];B[ah];W[da]
+LB[ha:A]C[Corvac> I only now realised, that the group I thought was alive... had need this move from my side.
+
+I am working on my reading, please help me with anyting else you may see.
+
+SVB: that is why you should have played at A from the beginning, then you can still save most of the stones.
+
+Overall, apart from the direction of play in the opening, the entire review was centered around one issue. It's not that you can't read ahead (Black 111 proves you can read ahead far enough for your level), but the fact that most of the time, you simply don't read at all, and hope for the best.
+
+You can improve your reading ability by doing a lot of go problems. As far as us kyu level players are concerned, the opening really isn't all that important, as long as you can read accurately in middlegame fighting.
+
+For your level I would recommend the following works:
+
+All-round problem collections:
+- Graded go problems for beginners vols. 2-3
+
+You can improve your knowledge of vital points and shape by doing tesuji problems:
+- Lee Changho Tesuji Series vols 1-2 ( http://senseis.xmp.net/?LiChangHoJingjiangWeiqiShoujin )
+
+You can improve the accuracy of your reading by doing life and death problems and ladder problems
+- Lee Changho Life and Death Series vols. 1-2 ( http://senseis.xmp.net/?LiChangHoJingjiangWeiqiSihuo )
+
+Improved reading ability is nice, but I feel the problem is more with actually applying that reading ability in-game. Just trust your reading when you read something doesn't work, and try to find a better move. I would like to share a quote from the great Miyazawa Goro 9p. His teacher once asked him why he played a certain move. He answered that he wasn't sure if it worked or not, but played it anyway. The teacher became furious and said "as long as you're not 100% sure whether a move works or not, do not lift a stone from your bowl." Losing on time is no problem at all, as it is through looking for the best move that you improve, not by winning.
+What I'm trying to say is: be patient. Take your time to read out every single stone you place on the board, and don't just hope for the best.
+
+I have been rather harsh throughout this review, but it's only because I know this to be true from my own experience. When I'm focused and reading everything, I play a much better game than when I'm just hastily putting down stones because I "feel" this will probably work.
+
+"as long as you're not 100% sure whether a move works or not, do not lift a stone from your bowl."]
+)
+(;B[qm]
+(;W[rl];B[rm];W[sm];B[sn])
+(;W[sq];B[rm];W[sp];B[sn])))
+(;W[kr];B[lq];W[ls];B[mr];W[jp]))
+(;B[sc];W[sb];B[rd]))
+(;W[hb]C[SVB: Black is dead.]))
+(;B[ib]
+(;W[jb];B[hc]
+(;W[jc]C[SVB: If white plays here, black gets off easy.];B[ha]
+TR[ca][ga]C[SVB: Black has a second eye at either one of the marked points.]
+(;W[fa];B[da])
+(;W[ab];B[fa]))
+(;W[ia];B[jc]C[SVB: Black will have to fight this ko eventually.]
+))
+(;W[ab];B[jb]LB[kb:A][jc:B]C[SVB: A and B are miai for either connecting or living.]
+(;W[kb];B[jc]LB[kd:A]C[SVB: Black lives in sente, as white still needs to protect against the cut at A.]
+)
+(;W[jc];B[kb];W[hb];B[hc];W[ha];B[ia])))
+(;B[ab]C[SVB: like this, black dies.];W[hb]LB[ba:B][da:A]C[SVB: A and B are miai for killing.]
+))
+(;W[ij];B[ik];W[hj];B[hk];W[gj];B[kk]C[SVB: Even if you sacrifice like this, black's right side is too thin compared to white's solid upper left moyo now, and white will not have too much trouble winning.]
+))
+(;B[pj];W[jc]C[SVB: White is sure to play this point now, as it's good for both white and black. That is why you should have played here first.]
+))
+(;B[cj];W[jc];B[ej];W[je]TR[fb][gb][hb][fc][gc][hc][ed][fd]
+[gd][hd][ee][fe][ge][he][bl][cl][dl][el][bm][cm][dm][em][bn]
+[cn][dn][en][do][eo]C[SVB: This sort of development is good for making points, and excellent for fighting possible invasions. This is called the primary direction of development from the corner enclosure.]
+)
+(;B[jq];W[cj];B[jo];W[ej]TR[df][bg][cg][dg][bh][ch][dh][gp]
+[hp][hq][hr]C[SVB: This direction of development is not nearly as attractive. This is called the secondary direction of development from the corner enclosure.]
+))

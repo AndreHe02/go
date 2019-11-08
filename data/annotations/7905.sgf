@@ -1,0 +1,96 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.17]
+
+GN[YOUchan-Bonscott 2010/06/06]
+PB[Bonscott]
+BR[17k]
+PW[YOUchan]
+WR[16k]
+KM[-5.5]
+DT[2010-06-06]
+PC[PANDA NET]
+RE[B+25.5]
+RU[Japanese]
+
+C[Hi,
+
+this is one of my first games and i would like to know if there
+are any really bad mistakes in my gameplay. until move number
+180 it seems that white will win the game but then i decided
+to take the risk and try to invade white's territory. as you
+see i did very well and won the game. but even if i hadn't won
+the game i surely would have learned
+something. because you know mistakes are the best things to learn
+from. please can you give me
+any advice to improve my game. i hope that my gamestyle isn't
+that bad and that i have made some good decisions in this game.
+
+Hello,
+Welcome to playing 19x19 games. As you have found, it is different from playing 9x9s or 13x13s. There aren't "bad mistakes" in your gameplay per se, just things you have not yet learnt from experience.
+I am going to introduce one major change in the way you can plan your game play, with some examples of how this new way to playing can affect your game. Also, I will point out some minor mistakes.
+But the main point I would like you to learn is the concept of spreading out in your opening game.]
+;B[dd];W[dp];B[pc];W[qp]LB[na:1][nb:2][nc:3][nd:4]C[What do I mean by "spreading out" in the opening game?
+As you see, both Black (B) and White (W) have played in the corners, and have spread themselves out fairly evenly across the board. Why is this good?
+a) Corners are valuable. Easy to make 2 eyes and establish a base.
+b) Easier to exert 'influence' and it will be more effective for spreading out (as opposed to playing on the 3rd line, like Q17. Q17 is on 3rd line and 4th line, which is a nice mix.)
+
+See the numbers on the board as a reference to what I mean by 3rd and 4th lines. 3rd line = 3rd line from the edge.]
+;B[cj]TR[jc][cn][dn][qn][fp][op][fq][oq]C[B spreads out. Good. 
+B could 'spread out' some more. I find C10 to be a very cautious move, that only fulfils half of its intended goal.
+
+The triangles are some (but not all) moves B could play instead of C10. The triangles near the W stones are "approach" moves. They approach the opponent, and if W responds, B has several ways to replying. B does not need to worry about being attacked, as B will be able to attack back. It's a trade-off.
+[search 'joseki' for some patterns in approach moves. Joseki are not the be-all end-all, they just give you an idea. They do not need to be memorised, as long as you understand WHY each move is important and WHY it was played at that time.\]]
+;W[jp];B[jc];W[pe]TR[qd][qe][pg][qg][jj][qj][cn][dn][qn][op]
+[cq][oq]C[triangles: possible moves that are bigger than P17.]
+(;B[oc]C[P17 is a small move that does not do very much. The board is still very vancant, and has plenty of 'big' moves to play. By 'big', I am referring to its potential to make territory and its effect on the game.]
+;W[qd]
+(;B[pd];W[qe];B[nc];W[pj];B[cn];W[co];B[dn];W[fo]
+(;B[cl]TR[op][oq]C[here, i think you are being too cautious. There are still bigger moves to be made here.
+Triangles: possible bigger moves.];W[oq];B[cf];W[ne];B[ld]C[From here on it is simply a spreading out game.
+W continues to protrude from her base, with a stable and solid connection. There's no cutting W.]
+;W[fm];B[fc];W[le];B[kd];W[ke];B[je];W[jf];B[ie];W[if];B[hf]
+;W[dh]LB[dh:B][cl:A]C[Second concept: knowing where you want to run, and where you want your opponent to run. 
+In this case, A (those 4 stones in the vicinity) want to run towards the centre. B does not want to be caged in, you want the most reign you can have. 
+At the same time, you do not want W to connect up easily to F7. F7 and all those stones connecting to it is a haven for D12. D12 may actually connect to a safe haven, but that is OK, AS LONG as B gets something good out of it.]
+(;B[fh]C[By playing F12, W has one logical direction to run in. That's towards its nearest friendly group, F7. If W runs in that direction, your black group on the side will be closed up.]
+;W[ei];B[ej];W[fi];B[fj];W[gi];B[gh];W[hh];B[hg];W[ii];B[ih]
+;W[hi];B[ig];W[eh];B[kf];W[jg];B[kg];W[jh];B[ji];W[fg];B[gg]
+;W[gf];B[he];W[ge];B[ff];W[eg];B[fe];W[gd];B[hd];W[kh];B[me]
+;W[ki];B[lf];W[jj];B[mf];W[ng];B[nf];W[of];B[gc];W[oe];B[lh]
+;W[li];B[mh];W[mi];B[nh];W[oh];B[ni];W[oi];B[nj];W[nl];B[mj]
+;W[ll];B[lj];W[kj];B[ok];W[ol];B[pk];W[oj];B[nk];W[pl];B[qk]
+;W[ql];B[qj];W[qi];B[ri];W[qh];B[rk];W[rl];B[si];W[rh];B[sh]
+;W[sg];B[sl];W[sm];B[sk];W[rm];B[kk];W[jl];B[lk];W[kl];B[jk]
+;W[ik];B[fl];W[gm];B[gl];W[hl];B[em];W[eo];B[do];W[en];B[el]
+;W[bp];B[bo];W[cp];B[bn];W[ep];B[ap];W[aq];B[ao];W[bq];B[qc]
+;W[rc];B[rb];W[rd];B[qb];W[rg];B[sc];W[sd];B[sb];W[od];B[nd]
+;W[ml];B[hk];W[il];B[gk];W[ij];B[hj];W[ef];B[ee];W[dj];B[dk]
+;W[di];B[ci];W[ch];B[bh];W[gj];B[ek];W[cg];B[bg];W[df];B[de]
+;W[bf];B[ce];W[be];B[bd];W[bi];B[af];W[bj];B[ck];W[ah];B[ae]
+;W[bk];B[bl];W[al];B[aj];W[hn];B[hq];W[gq];B[jq];W[iq];B[ip]
+;W[ir];B[kp];W[jo];B[kr];W[jr];B[kq];W[hr];B[hp];W[gp];B[mp]
+;W[mq];B[nq];W[nr];B[np];W[op];B[mr];W[or];B[lo];W[io];B[ko]
+;W[no];B[mo];W[nn];B[ls]
+(;W[ho];B[jn];W[in];B[kn];W[mn];B[lq];W[ms];B[ks];W[ns];B[js]
+;W[is];B[lm];W[ln];B[km];W[jm];B[mm];W[nm];B[mg];W[og];B[tt]
+;W[mk])
+(;W[lq]C[W can kill, and could have in varying stages in B's development of that group. =P]
+))
+(;B[fj]C[By playing F10, B runs to the centre, and W's direction of movement will also be towards the centre.]
+;W[fh];B[hj];W[hh];B[jj]C[W may connect to the next friendly group, but at what price? W makes no territory. B effortlessly jumps out and is then freer than before. Directionality is important. =)]
+))
+(;B[op];W[cl];B[dl]C[W could play C8, but B has an overwhelming advantage over it. Even if W lives or escapes (the second being more likely), B will have gained a strong wall to use in his attacks.]
+(;W[bn];B[bm];W[cm];B[bo];W[bl];B[an])
+(;W[cm];B[bn];W[dm];B[em];W[dk];B[ek];W[el];B[fl];W[dl];B[fm]
+;W[en];B[dj];W[fk];B[ej];W[gk]C[Ugly, but B can capture.])))
+(;B[qc]C[q16 makes a bad shape called the 'empty triangle'. It is bad because it inefficient.
+With 3 stones, the maximum liberties you can get is 8, that is, in a straight line. It is strong, and in this case, blocks W.
+
+The empty triangle that was formed in the game is weaker, and doesn't have that resolute blocking strength.]
+))
+(;B[qg])
+(;B[pg])
+(;B[qe];W[qf];B[qd];W[pf])
+(;B[qj]
+(;W[qh];B[qm])
+(;W[qm];B[qg]))
+(;B[cn]))

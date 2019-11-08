@@ -1,0 +1,39 @@
+(;FF[4]GM[1]SZ[13]AP[SGFC:1.13b]
+
+PB[Beginner]
+BR[15k]
+HA[0]
+PW[Alexius]
+KM[5.5]
+DT[1999-08-13]
+RE[B+3.5]
+
+;B[kk];W[cc]C[You said you try to copy your computer's moves early in the game. Probably not a bad idea to start, but you must also learn why those moves are being made.
+
+In this case, the 3-3 point is used to secure a corner with one move. It seeks no territory outside the corner.]
+;B[dj];W[jd]C[The stones on the 4-4 points, or star points, are just the opposite. They cannot control the corner without additional moves so they seek gain solely outside the corner.]
+;B[kf];W[ch];B[ld]C[This move is typically answered at L11, securing the corner...but then L8 is usually answered otherwise as well.
+
+B could probably profit by jumping to L11 here, but that would lead to w k11, helping w secure the top side.]
+;W[bj];B[fk];W[hc]C[These symmetrical knight's moves are typical answers to the approach a knight's move away.]
+;B[ce]C[Here, b tries to seperate the w stones, making each territory held smaller.]
+;W[kh];B[eh]C[This move cuts w off from the center and threatens the two stones on the left. it gives up the lower left corner, hoping for profit in the center. This is consistant with the strategy of the star point.]
+;W[if];B[jg]C[b answers the mirror move by pushing out with the threatened stones and simultaneously putting pressure on the lone w stone on the right.]
+;W[dg];B[jh]C[The pressure on w L6 increases. You can see the difference the extra space from L3 to L6 vs C11 to C9 makes.]
+;W[eg]C[A good move cutting off b's C9 stone and also limiting b's influence in the center.]
+;B[dc];W[jk]C[The same attachment by w is doomed because L6 is too far away and under too heavy attack to be of benefit. If b were to press its attack in the upper left, a live shape might result. Such is not the case for w in the lower right.]
+;B[jj];W[dd];B[cd];W[ec];B[ik];W[db];B[bi]C[B does not mirror the capture of the atari, knowing that w's efforts in that corner are doomed.]
+;W[bh];B[ci]C[Using the sente gained by not capturing unnecessarily at k2, b secures the lower left with these moves. This turns out to be the  critical sequence of the game. The 10 or so points b wins by are won here.]
+;W[di];B[cj];W[dh];B[ei];W[gh];B[hg];W[gf]C[<<I thought I had comtrol over upper right corner now but somehow i just lost it anyway.>>
+
+This is due to the fundamental flaw of the star point for securing territory. The 3-3 point can always be played under a lone 4-4 point and live.
+
+When b exploits that flaw, it simultaneously captures enough territory while eating up w territory to win the game.]
+;B[gg];W[fg];B[ah];W[ag];B[bk]C[This seems silly on b's part. Better to just fill at a5, requiring w b7.]
+;W[ai];B[kc];W[jb];B[hd];W[he];B[gd];W[fd];B[gc];W[fb];B[fe]
+;W[ee];B[kb];W[jc];B[gb];W[ha];B[ga];W[fa];B[ja];W[hb];B[lf]
+;W[id];B[hh];W[fh];B[gj];W[gi];B[hi];W[fi]C[w should play d4 instead. It captures the two b stones and provides a threat to the 4 b stones left of it.]
+;B[ej];W[fj];B[ek];W[ge]C[This stone isn't really necessary. If b should take this point, w connects at f8. Given the two options, w can look for places to make points or save points, like a4.]
+;B[aj];W[ah];B[gk];W[je];B[ig];W[hf];B[ke];W[jf];B[mc];W[ia]
+;B[kg];W[ka];B[lb];W[la];B[mb];W[ja];B[kd];W[ma];B[tt];W[tt]
+)

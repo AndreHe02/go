@@ -1,0 +1,89 @@
+(;FF[4]GM[1]SZ[19]AP[SGFC:1.13b]
+
+GN[lin rond 3]
+PB[eddiechang]
+BR[4]
+PW[nm]
+WR[4]
+KM[5.5]
+DT[2001-09-22]
+RE[W+R]
+
+C[I've commented mainly on the beginning of the game, up to move 70, as requested. The moves after that are mainly moves leading to resignation anyway.
+
+The main problem in this game was not strategic, you played pretty well. It is hard to comment on the fuseki as a whole, because you lost your advantage here and there by tactical mistakes, leaving out a hane, and then playing the wrong capturing move. So my advice would be to concentrate on tactics. I can recommend a book called "The art of connecting stones", which you would probably find quite helpful (don't be put off if the problems seem hard at first, they contain very useful knowledge about shape).]
+;B[dp];W[pp];B[dd];W[pd];B[dj];W[fq];B[jd];W[cn]C[This double approach move is very good for White. If I were Black, I would have played around there to prevent it. Now the san-ren-sei strategy will have to be changed.]
+;B[dn];W[dm];B[en];W[cp]C[Good choice of joseki.];B[co];W[bo]
+;B[do];W[bm];B[cq];W[bp];B[eq];W[jp]LB[pj:A][qj:B]C[Big point. My feeling is that A or B, for example, would be bigger. You cannot expect to make too much territory at the bottom because black is very strong there.]
+;B[qn]
+(;W[nq]TR[pd]C[This is the first move I don't quite agree with. I think the lower side is not that important. The marked hoshi stone is not doing anything, perhaps you should consider a pincer, see variation.]
+;B[rp]
+(;W[qq]C[Maybe here you could pincer again instead of R3.];B[qf]
+;W[nc];B[rd]C[This looks like an overplay.];W[qh]C[Good.];B[qc]
+;W[qe];B[re];W[pf];B[qd]C[Bad move. Now black can't play P15 anymore.]
+;W[pe];B[qg];W[pg];B[rg]C[Submissive, this move is not necessary.]
+;W[ql]C[Very good again. Black is in trouble. The game is starting to look good for white, with that wall you can easily invade the left side or top.]
+;B[rq];W[rr]C[If we look at the position now, I can't see any problem for white, and black has a very weak group. If I had to choose, I would take white in this game. The wall at the top is strong, so black will not make territory there and the territory on the left is open at the bottom.]
+;B[on];W[ol];B[lq]TR[on][qn][rp][rq]C[This is a terrible overplay. Black cannot play this invasion with such a weak group on the board.]
+
+(;W[mp]C[Attacking from the strong side is normally not a good idea. Black can live easily by playing K3. See variation for some other ideas.]
+
+(;B[lp]
+(;W[mn]C[You could also play hane at M5, which is a bit tougher on black (because if he doesn't answer, then L4 captures immediately.]
+;B[nm];W[lo]C[There is still life in the two stones at the bottom. Black can live by playing K3. That's why I would prefer N6 to be at L4 now.]
+;B[pr];W[qr]C[This could turn into another bad exchange for black if black wants to play R4 later to make life.]
+;B[jq]C[Black has no time for this. White can shut black in with M8!]
+;W[mq]TR[ll]C[You must play hane at J3, it's extremly big. This is your chance to win the game immediately. See variations.  Note that a white play at the marked point shuts black in, so you can play Q7 first and then there to kill black. You can still hane at J3 first though, because if black ignores it, it will be a huge loss for him.]
+;B[ip]C[This is a major disaster for white. Now black has made >20 points with 1 move. White's hane at J3 was mandatory.]
+
+(;W[ml]C[Wrong point. You can kill black. See variation];B[mm]
+;W[lm];B[nl];W[om];B[nn];W[nk];B[ok];W[nj];B[rl];W[pk];B[pm]
+;W[oj];B[rk];W[lr]C[Small. You have a strong wall now, better to invade the top immediately.]
+;B[kr];W[fc]TR[jd]C[Good. You have to try and isolute the marked black stone.]
+;B[ec];W[fd];B[df];W[hd];B[eb]C[Horrible move. black must lead his single stone out at K14. This is Black's losing move.]
+;W[gg];B[jf];W[ih]C[Comments end here.];B[mc];W[lc];B[mb];W[ld]
+;B[lb];W[jc];B[md];W[le];B[ic];W[kb];B[me];W[lf];B[nb];W[ob]
+;B[oc];W[pc];B[od];W[qb];B[rh];W[ib];B[gb];W[fb];B[fa];W[hc]
+;B[cl];W[cm];B[jo];W[bq];B[em];W[cr];B[jj];W[ki];B[ll];W[ch]
+;B[cg];W[di];B[dl];W[dg];B[bg];W[bl];B[km];W[er];B[dq];W[dr]
+;B[fr];W[gr];B[gq];W[fs];B[fp];W[mr];B[li];W[kj];B[lj];W[lh]
+;B[mh];W[mg];B[kh];W[lg];B[jh];W[ji];B[ii];W[kk];B[ig];W[hh]
+;B[hf];W[lk];B[gf];W[ff];B[fg];W[fh];B[eg];W[eh];B[ef];W[fe]
+;B[hi];W[cj])
+(;W[pm]TR[rl]C[White first plays here so that black can't attach at the  marked point]
+;B[pn];W[ll]C[Black cannot escape now. I will show two attempts.]
+
+(;B[ml];W[mk];B[nk];W[nl];B[mm];W[lm];B[mj];W[lk];B[pk];W[pl]
+;B[ok];W[qk]C[This is hopeless for black.])
+(;B[mm];W[lm];B[mk];W[ml];B[nl];W[nk];B[ok];W[nj];B[pk];W[pl]
+;B[qk];W[rk];B[rj];W[rm];B[sk];W[rl];B[qi];W[nn];B[om];W[rn]
+;B[qo];W[ro];B[qp];W[oo]C[white wins the semeai 5-4]))
+(;B[pn];W[ll]C[black is shut in.]
+(;B[ml];W[mk];B[nk];W[nl];B[mm];W[lm];B[mj];W[lk];B[pk];W[pl]
+;B[ok];W[qk]C[It's hopeless for black.])
+(;B[mm];W[lm];B[mk];W[ml];B[nl];W[nk];B[ok];W[nj];B[pk];W[pl]
+;B[qk];W[rk];B[rj];W[rm];B[sk];W[rl];B[qi];W[nn];B[om];W[rn]
+;B[qo];W[ro];B[qp];W[oo]C[white wins.])))
+(;W[iq]
+(;B[kp];W[ko];B[ip];W[jo];B[ir];W[hq];B[kr];W[mr];B[lr];W[pm]
+;B[pn];W[ll]C[Looks like black is dead, game over.])
+(;B[nr]C[Afraid of this?];W[mr];B[mq];W[np]
+(;B[or];W[lr];B[kr];W[kq];B[kp];W[ko])
+(;B[lr];W[or];B[ms];W[pm];B[pn];W[ll]C[Again, black is dead.]
+))))
+(;W[lo];B[mn];W[kp];B[nl]C[Black is still in danger and you have secured the territory at the bottom.]
+))
+(;B[jq];W[iq];B[kp]))
+(;W[lo]C[It is hard to find a good attacking point, maybe this works? One idea here is to make a splitting attack, i.e. try to convince black to move from M3 to his group at P6, then split him into two.]
+
+(;B[mp];W[np];B[mo];W[no];B[nn];W[mn])
+(;B[jq];W[iq];B[kp];W[ko];B[ip];W[jo];B[ir];W[hq];B[kr];W[lp]
+;B[mq];W[kq];B[jr];W[np];B[nr];W[or];B[mr];W[nn])))
+(;W[ql];B[qq];W[qo];B[ro];W[pn];B[pm]C[black will play here because white's ladder doesn't work.]
+;W[qm];B[rn];W[on]))
+
+(;FF[4]GM[1]SZ[19]AP[SGFC:1.13b]W[ql]
+(;B[qq];W[pq];B[qp];W[po];B[rn];W[om]TR[jp]MA[pd]C[I would prefer this result to the game because it makes use of the triangled stone and also begins to work with the hoshi stone a bit.]
+)
+(;B[nq];W[pn];B[pm];W[qm];B[pq];W[qo];B[qq];W[lq];B[mq];W[nd]
+C[Also looks feasible for white.]))

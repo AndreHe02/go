@@ -1,0 +1,134 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+GN[happywayne vs ohiay]
+EV[happywayne-ohiay(B) LGS]
+PB[ohiay]
+BR[12k]
+PW[happywayne]
+WR[11k]
+KM[0.5]
+DT[2004-07-09]
+RE[B+59.50]
+RU[Japanese]
+US[Smart Go File produced by LGC]
+
+C[Black:me (ohiay)  13k
+White:happywayne 11k
+Handicap: No
+Balck wins
+
+rog: The  corner problem you have asked me to look at is, to me, extremely complex.  I'd be interested to know what the person who said this to you was thinking.  I think I am not very strong at these sorts of problems, and, as you will see from this sgf there are many possibilities.
+
+I have done what I can with the limited time I have.  I think that you could give it to a stronger player to review, as I'm certain that I have made mistakes (although I've explored so many variations is seems like there could hardly be many more  ;)  ).  
+
+You would realise that the outcome of this corner makes no difference to the outcome of the game.  In terms of the overall game, I'm interested to know whether you intentionally sacrificed on the bottom in order to gain the big centre.  If so, it seems like a mature strategy.  
+
+White made many mistakes in terms of unnecessary moves.
+
+Thanks ohiay - let me know if I've made any major errors.
+
+rog];B[pd];W[dd];B[dp];W[pp];B[fc];W[df];B[ic];W[ec];B[fd];W[nc]
+;B[lc];W[qc];B[pc];W[pb];B[ob];W[qb];B[oc];W[qd];B[pe];W[cn]
+C[White not moving at R14 seems risky.];B[cl];W[en];B[ci];W[fq]
+;B[do];W[dn];B[fp];W[eq];B[dq];W[ep];B[eo];W[fo];B[gp];W[gq]
+;B[go];W[fn];B[hm];W[cp];B[co];W[bo];B[cq];W[bp];B[bq];W[bm]
+C[Unnecessary to protect the cut, doesn't expand, doesn't help E3 group.]
+;B[er];W[iq];B[bl];W[an];B[ap];W[ao];B[bf];W[ce];B[fg];W[cg]
+;B[bg];W[be];B[ch];W[ar];B[cc];W[dc];B[eb];W[db];B[gb];W[cr]
+;B[fl];W[dr];B[qn];W[qo];B[pn];W[nq];B[qj];W[kp];B[nr];W[or]
+;B[mq];W[mr];B[np];W[oq];B[lr];W[ns];B[lp];W[mo];B[kn];W[lo]
+;B[ko];W[kq];B[no];W[mp];B[mn];W[lq];B[ln];W[gn];B[hn];W[ho]
+;B[nj];W[qf];B[og];W[jh];B[jf];W[hh];B[fi];W[gh];B[hj];W[fh]
+;B[eg];W[eh];B[dg];W[ei];B[fj];W[dh];B[dj];W[cf];B[gf];W[gg]
+;B[ff];W[ig];B[ii];W[jg];B[lh];W[kg];B[mf];W[kf];B[je];W[ke]
+;B[jd];W[ji];B[jj];W[ki];B[li];W[kj];B[jk];W[kk];B[ml];W[if]
+;B[hf];W[ej];B[ek];W[di];B[ck];W[ph];B[pg];W[qg];B[oh];W[pi]
+;B[pj];W[oi];B[ni];W[qi];B[oj];W[rj];B[ri];W[qh];B[rk];W[rh]
+;B[sj]C[Better to take sente than play this small move.];W[br]
+C[Completely unnecessary];B[io];W[hi]C[Useless move - if there's any chance for that group (and there isn't imho) then it would be using the O17 aji.]
+;B[gj];W[hp];B[fm];W[aq]C[???????????????
+
+Maybe the result of a paranoid delusion?  Certainly the result of undervaluing sente.]
+;B[kl];W[ld];B[md];W[me];B[ne];W[le];B[nd];W[kc];B[lb];W[kb]
+;B[kd];W[ie];B[hd];W[id];B[jc];W[he];B[ge];W[hc];B[hb];W[gd]
+;B[ib];W[gc]C[???];B[hd];W[jo];B[jp];W[hg];B[ee];W[ef];B[ed]
+;W[de]LB[da:C][bb:A][cb:D][bd:B]C[Variation A is game and doesn't work.
+Variations B and C don't work.
+Variation D is the most interesting...]
+(;B[bb]C[
+At the step of 193th, one person told me that the black side can survive in the upleft side surounded with white. How? I tested few way, but fail. Would reviewer can show me the way?
+
+* If Black does live there unconditionally, White dies.  Perhaps this person meant that it could live in Seki?]
+;W[cb]LB[ba:A][bd:B]
+(;B[ba];W[bc];B[qq];W[qp];B[ro];W[rp];B[rm];W[gd];B[gc];W[mg]
+;B[lg];W[nf];B[lf];W[pf];B[of];W[nh];B[ng];W[mi];B[mh];W[tt]
+;B[ac];W[bd];B[ae];W[ad];B[da];W[af];B[ah];W[ca];B[ea];W[ab]
+;B[re];W[qe];B[sp];W[sq];B[so];W[rq];B[jq];W[jr];B[jn];W[ip]
+;B[jo];W[tt];B[kr];W[ir];B[al];W[tt];B[sh];W[sg];B[si];W[rf]
+;B[pa];W[qa];B[oa];W[bh];B[bi];W[ae];B[ag];W[em];B[el];W[dm]
+;B[dl];W[cm];B[gm];W[gi];B[oo];W[op];B[po];W[tt];B[tt];W[tt]
+)
+(;B[bd];W[af];B[ac];W[bh];B[ba];W[cd];B[da];W[bc];B[ca];W[ea]
+;B[cc];W[fb];B[ae];W[ad]))
+(;B[bd];W[af];B[ah];W[bb]C[Black dead.])
+(;B[da];W[ca];B[ea];W[cb];B[ae];W[ad];B[ac];W[af];B[ah];W[bc]
+;B[ab];W[bb]C[Black dead])
+(;B[cb]LB[ca:B][da:A]
+(;W[da];B[bd]LB[ad:B][af:A]
+(;W[af]LB[ab:B][ah:A]
+(;B[ah];W[ab];B[bb];W[ac];B[ad];W[cd];B[ca];W[ae];B[ea];W[bc]
+C[Black dead.])
+(;B[ab]LB[ba:B][ac:A]C[Variation A: White dies.
+Variation B: Seki or Ko (for seki or the life of white's group).]
+
+(;W[ac];B[ad];W[cd];B[bc]LB[ae:B][bh:A]
+(;W[bh];B[bi];W[ag];B[ba]C[Black alive, white dead.])
+(;W[ae];B[ca];W[bh];B[bi];W[ag];B[al];W[ea];B[fb]C[Black alive, white dead.]
+))
+(;W[ba];B[ca];W[bb];B[bc];W[ad];B[ea];W[bh]LB[aa:A][bi:B]
+(;B[aa];W[bi];B[cj]LB[ag:A][aj:C][al:B]C[A: Seki or Ko for Seki.
+B: Ko for connection.
+C: White lives or Ko for Connection.]
+(;W[ag];B[ai];W[bj];B[aj];W[ak];B[bk];W[ah];B[aj];W[ai];B[al]
+;W[ba];B[bf];W[ae];B[aj];W[ac];B[bb]LB[bg:B][ak:A]
+(;W[ak]C[Ko fight here: 
+If White wins the ko fight, Black top left dies. 
+If Black wins the Ko fight, Black top left lives in seki. 
+I think it's worth about six points or so (I'm not very good at counting these things).]
+;B[qe];W[re];B[aj];W[gd];B[gc];W[ak];B[rf];W[cd];B[rd];W[rc]
+;B[se];W[sb];B[ra]C[So, for example, this result would be terrible for White.]
+)
+(;W[bg];B[ak]C[Seki here]))
+(;W[al]LB[bj:B][ak:A]
+(;B[ak];W[aj];B[ai];W[bk];B[bj];W[ah];B[ak]C[Ko for connection]
+;W[ae];B[bk];W[ac];B[ai];W[ag];B[aj];W[ba];B[bb];W[cd];B[bg]
+;W[ba])
+(;B[bj];W[aj];B[ak];W[bk]))
+(;W[aj]LB[ah:A][bj:B][ak:C]
+(;B[ah];W[bj];B[ak];W[ag];B[bg];W[ai];B[bk];W[bf])
+(;B[bj];W[ai];B[ag];W[ah]LB[bg:B][ak:A]
+(;B[ak];W[bg])
+(;B[bg];W[al];B[ak];W[bk]C[Ko for connection]))
+(;B[ak];W[ai];B[bj];W[ag]C[White lives])))
+(;B[bi];W[ag];B[bg]LB[cd:A][bf:B]
+(;W[cd];B[aa];W[ae];B[ah]C[So, White dies in this variation because Black can approach  from the side after filling B12 but White cannot approach at A17.]
+)
+(;W[bf];B[ai];W[cd];B[aa];W[ae];B[ah];W[bb];B[bg]C[I can't see a good-enough ko threat for white... and black has R15 as a threat.]
+)))))
+(;W[ad];B[ac];W[ae]LB[aa:B][bb:A]
+(;B[bb]LB[ba:B][cd:A]
+(;W[cd];B[ca];W[bc];B[aa];W[ab];B[ss];W[sr];B[ac];W[sq];B[bd]
+;W[sp];B[bc];W[so]C[This way, Black would have to ignore two ko threats and give white sente but would kill the D19 group in return (so White must get more than 40 points somewhere else to allow this).]
+)
+(;W[ba];B[ca];W[cd];B[aa];W[bc]C[Ko again but easier for Black.]
+))
+(;B[aa]C[This doesn't help Black];W[bb];B[bc];W[ba];B[ea];W[ca]
+)))
+(;W[ca];B[ba];W[da]LB[ab:A][bd:B]
+(;B[ab];W[bc];B[ac];W[ad])
+(;B[bd]LB[bb:B][ae:A]
+(;W[ae];B[ab];W[bc];B[ac];W[cd];B[bb];W[ad];B[ea];W[bc];B[qe]
+;W[re];B[bd]C[Ko for the life of both groups - (big except that black still wins the game in either case)]
+)
+(;W[bb];B[ae];W[af];B[ag];W[bc];B[ac];W[cd]C[White lives, Black mucks around.]
+)))))

@@ -1,0 +1,215 @@
+(;FF[4]GM[1]SZ[19]AP[SGFC:1.13b]
+
+PB[strombrg]
+BR[9k*]
+PW[batman]
+WR[8k*]
+KM[-4.5]
+DT[1999-08-28]
+RE[W+7.5]
+
+C[I have two questions about this game.
+
+1) My opponent played some (for me) novel moves in the lower left.  How does one
+play against this?
+
+2) My opponent fell into my sanrensei trap, but somehow I didn't build a big enough
+moyo out of it anyway.  Was I playing slow moves that messed up my moyo somehow?   What should I have done differently?
+
+
+Game reviewed by Georg Mischler <schorsch@schorsch.com>
+"schorsch" on NNGS.];B[pp];W[dd];B[pd];W[dp];B[pj];W[nq];B[kp]
+;W[qq]LB[no:A]C[This is what I mean.  The sanrensei book says white should play A, not this.
+
+*schorsch*:
+In general, w is free to jump to the 3 3 point when b stands on 4 4.
+Whether this is a good idea or not needs to be shown in each situation
+in a game. W will live almost in any case in the corner, but b will get
+thickness outside, which is often worth more.];B[qp]C[*schorsch*:
+Now if the jump happens, then b usually wants to cut at q3.
+You need to be *very* sure to make lots of territory along the right
+edge if you want to justify closing the corner from above. In this
+situation here the san ren sei is still completely open to invasion,
+so it would probably be better to seperate the w stones.];W[pq]
+;B[op];W[oq];B[mo]C[Is this the correct followup move?
+
+*schorsch*:
+Yes, looks ok, once you are in this position.];W[np];B[no];W[rp]
+;B[ro];W[rq];B[qn];W[lr]C[*schorsch*:
+W basically played a sequence of end game moves here, securing
+15 points in gote. This forced b to build a thick wall towards his
+potential territory. Say thanks!
+Note that the w stones in this corner will not contribute anything
+to the course of the remaining game. This strongly contrasts to
+the active future role of the b wall. Now you see the main reason
+why w normally walks to the center instead of taking the corner.]
+;B[jd]LB[ic:A][fc:B][lc:C]C[Appropriate move?
+
+*schorsch*:
+Stronger players like to play something like A, which gives a choice of
+good follow up moves between b and c (whichever w takes, take the other).
+Both combinations lead to an optimal basis position, even if they may
+be considered defensive.
+This principle of choice between follow up moves is called "miai",
+and is a very important concept when selecting moves. always try
+to think about the next following move before placing the current one.
+
+The move played is definitively not wrong though. It exhibits greater
+influence toward the center, but is less stable when attacked.]
+;W[jq];B[fc]LB[cj:A][cn:B]C[Is this smaller than A? How about B?  Anything even bigger than that?
+
+*schorsch*:
+First of all, b recognized correctly that the w move doesn't call
+for an answer.
+A, B and the played move are all big and important. This choice
+is mostly a matter of style and further plans on how to follow up.
+(Note the miai potential in A!)];W[df];B[db];W[cc]
+(;B[hd]LB[fe:A]C[*schorsch*:
+This is the first really weak move by b.
+
+Your intention is to build a mojo in the center. Why do you play
+a move that has the *only* purpose of securing the upper edge?
+
+For most players, A would be a no-brainer. It secures the top at
+least as good, and gets you much more influence targetet at
+the center (while securing more territory in any case, even if
+you should lose the center).
+
+There are still more good moves to consider along the left edge.]
+;W[cj];B[jj]C[Appropriate?
+
+*schorsch*:
+Assume you had H16 at F15. Would you still consider playing this?
+
+Given the current position, this is just a single-purpose move.
+Your stone has no effect at all upon the w stones, which means that
+w doesn't need to answer it directly. Try to play your moves
+in a way that forces w to react directly, while still keeping your
+overall goal (a center mojo) in the back of your mind.
+I have inserted a short variation at node 26 to demonstrate
+the possibilities.];W[ej]C[*schorsch*:
+You can almost hear w thinking now: "if you take territory, then I
+can do that just as well, but I'll make it a lot more secure!"]
+;B[jp]LB[ho:A]C[*schorsch*:
+Probably much too slow. Attaching to the w stone will force w
+to stretch, thus strenghtening the w position. Something like A extends
+the b influence a lot more, means more danger to the potential
+w territory at the bottom, and brings you closer to the w corner.
+It does all this without unnecessarily strengthening the w position.]
+;W[iq];B[ip];W[hp];B[ho];W[gp];B[go];W[fo];B[hl]LB[fn:A]C[*schorsch*:
+The last ten moves brought about 20 points of secure territory
+for w, and only about 10 for b.
+In addition to that, they made the w corner *very* hard to invade.
+
+Under those circumstances, H8 looks a bit too defensive. Once the
+w corner is closed, b might just as well try to reduce a little of the
+left side with A. There will still be time after this to close the mojo
+towards the center stone.];W[fn]C[*schorsch*:
+You will notice later how inconvenient this w stone is for b.
+Wouldn't b be a lot happier with one of *his* stones there?]
+;B[cq]C[The lower left corner starts];W[dr]LB[bo:A][dm:B][cm:C]
+[dl:D]C[I don't believe I've ever seen this before. What should black do?
+Why doesn't white always play this against a 3-3 invasion?
+
+*schorsch*:
+W can only play this if he has this very strong position along the
+lower edge that makes it impossible for b to capture D4.
+I'm not sure if b can live here without tricks, but if you want
+to try, something like A might be worth a try. Even B,C or D look
+interesting, as they create a double threat, possibly connecting
+to the center or to the corner.
+
+In any case, you'd need to gain as much space as fast as possible
+to get a slight chance for survival, being prepared to sacrifice
+a few stones in the process.];B[dq];W[er];B[cr];W[bp];B[cp]
+;W[bo];B[bq];W[co];B[nd]LB[qc:A];W[qd];B[pe];W[qc];B[qe];W[ob]
+;B[mb]LB[nb:A]C[*schorsch*:
+Why so shy? b A is a strong move, forcing w to connect his stones,
+and closing them off much more consequently.];W[re];B[rf];W[rd]
+;B[qg]C[*schorsch*:
+This move is not necessarily needed, if you are willing to give way
+a little when w pushes, losing 2 or 3 points. There are still much
+bigger moves available on the board!];W[nb];B[mc];W[ma];B[la]
+;W[na];B[kb]LB[lb:A]C[*schorsch*:
+As a general principle: If you connect a hane stone at the edge
+of the board, do it at A, unless you desperately need eye shape.
+This b group is in no danger of running out of eyes soon, so you
+should avoid to create ko threats for w's use later in the game.]
+;W[cb];B[hg]C[*schorsch*:
+Doesn't b wish now he had played F15 earlier on?
+
+Again, the move played is a single purpose move, which needn't
+bother w at all.];W[fg];B[mj]C[*schorsch*:
+Eeek! Why ???
+
+Did you fear that w might play exactly there the next move?]
+;W[eb];B[fb];W[ec];B[kq]LB[ea:A]C[*schorsch*:
+Although this move is very strong sente, it's only worth 1 (one)
+point. Consider A instead, and compare the result with what
+b really gets up there a few moves later.];W[kr];B[gj];W[fd]
+
+(;B[gc]LB[gd:A]C[*schorsch*:
+Why not A? This shape looks so ugly, it can only be bad. You will
+see why in the next few moves.
+
+Check the variation at the previous node (78).];W[gd];B[he]
+;W[fa];B[hb];W[ha];B[ia];W[ga];B[gb];W[ea];B[ic];W[gh];B[hh]
+;W[gi];B[hi];W[fk];B[gl];W[fl];B[do];W[ep];B[dn];W[bm];B[pc]
+;W[pb];B[fe];W[hn];B[in];W[gn];B[io];W[gk];B[hk];W[hm];B[im]
+;W[ee];B[ge];W[lp];B[lo];W[fj];B[sp];W[hj];B[ij];W[sq];B[so]
+;W[sf];B[sg];W[se];B[lq];W[mp];B[mq];W[mr];B[gf];W[ed];B[ff]
+;W[ef];B[nc];W[gm]LB[ik:A]C[The rest of the game is just a half-point ko fight  - or maybe 1.5 if I defend around A.
+
+*schorsch*:
+This would be the right time to count the score, and avoid a ko
+fight that won't help you win the game (actually an option to
+consider for both players!).
+
+It is very important to realize that counting often during a game
+will improve your play significantly. If you know exactly where
+you stand, then you have a much better judgement of what
+kind of risk you can afford or need to take. Counting by eye
+seems pretty hard when you try it first, but will become
+second nature soon.];B[gj];W[oc];B[od];W[hj];B[bs];W[ar];B[gj]
+;W[oo];B[on];W[hj];B[qb];W[rb];B[gj];W[lb];B[lc];W[hj];B[qa]
+;W[ra];B[gj];W[ka];B[ja];W[hj];B[pa];W[oa];B[gj];W[ib];B[jb]
+;W[hj];B[qb];W[qa];B[gj];W[po];B[qo];W[hj];B[eq];W[fr];B[gj]
+;W[rg];B[rh];W[hj];B[eo];W[fp];B[gj];W[qf];B[pf];W[hj];B[cm]
+;W[bl];B[gj];W[sh];B[si];W[hj];B[bn];W[cn];B[gj];W[pn];B[pm]
+;W[hj];B[ap];W[an];B[gj];W[gg];B[hj];W[tt]TW[aa][ba][ca][da]
+[pa][sa][ab][bb][db][qb][sb][ac][bc][dc][rc][sc][ad][bd][cd]
+[sd][ae][be][ce][de][af][bf][cf][ag][bg][cg][dg][eg][ah][bh]
+[ch][dh][eh][fh][ai][bi][ci][di][ei][fi][aj][bj][dj][ak][bk]
+[ck][dk][ek][al][cl][dl][el][am][cm][dm][em][fm][bn][dn][en]
+[ao][do][eo][ap][cp][aq][bq][cq][dq][eq][fq][gq][hq][br][cr]
+[gr][hr][ir][jr][nr][or][pr][qr][rr][sr][as][bs][cs][ds][es]
+[fs][gs][hs][is][js][ks][ls][ms][ns][os][ps][qs][rs][ss]TB[ka]
+[ib][lb][hc][jc][kc][id][kd][ld][md][ie][je][ke][le][me][ne]
+[oe][hf][if][jf][kf][lf][mf][nf][of][qf][ig][jg][kg][lg][mg]
+[ng][og][pg][rg][ih][jh][kh][lh][mh][nh][oh][ph][qh][sh][ii]
+[ji][ki][li][mi][ni][oi][pi][qi][ri][kj][lj][nj][oj][qj][rj]
+[sj][ik][jk][kk][lk][mk][nk][ok][pk][qk][rk][sk][il][jl][kl]
+[ll][ml][nl][ol][pl][ql][rl][sl][jm][km][lm][mm][nm][om][qm]
+[rm][sm][jn][kn][ln][mn][nn][pn][rn][sn][jo][ko][oo][po]C[The game is over.  Final score:
+   White = 108 territory + 29 captures + -4.5 komi = 132.5
+   Black = 105 territory + 20 captures = 125
+White wins by 7.5.])
+(;B[gd];W[fa];B[gb];W[ga];B[ha];W[ea];B[hc]C[*schorsch*:
+Compare this rock solit position with what you got at node 89.]
+))
+(;B[fe];W[cj];B[eg];W[dg];B[eh];W[dh];B[ho]C[*schorsch*:
+Would you still consider playing K10 now?
+
+Note that if w starts to invade the center now (he should!),
+then you will keep the w center group seperated from the other
+w stones. Living in the center is quite difficult, so you can close
+the circle around them relatively easily. Once the w group
+comes close to live in the center, you will have built up
+enough strength to destroy the w potential in the lower left
+of the board almost completely. You should not stick to your
+initial goal (the mojo) too hard. If w wants to live in the center,
+don't try to kill him too hard. Just keep him busy and small,
+and use the stones you place to build a wall, so you build up
+enough strength to attack the other w groups in the end.
+This (hypothetical) scenario would still result in a close game!]
+))

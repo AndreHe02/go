@@ -1,0 +1,143 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+PB[KeatonF]
+BR[24k]
+PW[rourou]
+WR[23k]
+KM[0.5]
+DT[2005-03-20]
+PC[The Kiseido Go Server (KGS) at http://kgs.kiseido.com/]
+RE[W+55.50]
+TM[1800]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+C[Most noticable things:
+* Don't atari just because you can.
+* Don't attach to a stone to attack it
+* When you are strong (and alive) try isolate your opponent's stones.
+
+These two are related. When you attach or atari, your opponent can add a stone to the group. This means that trying to attack a group this way very often makes it stronger. It is better to attack a group from a distance, harrass it and build strangth that way. Its a relatively high level concept, which is ifficult to get right, but try think about it during the course of your play.]
+;B[dp];W[pp];B[dd];W[pd];B[dj];W[dg]
+(;B[dh]C[Attaching to weak stones is usually a bad idea. It just makes them stronger. If B wants to attack D13, C15  or E11 would have been better. However, a response like G16 or F10 is probably sufficient. The idea is to not try kill a weak stone, rather harass it and use this to build up strength yourself. Take a look at what the board looks like after some of the variations mentioned.]
+;W[de];B[cd];W[fe]
+(;B[cf]C[Playing here to steal W's eyes is not going to work, and leaves W with lots of future moves that can cause B trouble. Rather, follow your opponent with F16, and build strength on top while his group runs into the center.]
+;W[ce];B[cg];W[df];B[fc]C[trying to protect the corner is a good idea.]
+;W[bf]
+(;B[bh];W[bd];B[bc];W[ae];B[bg]C[This move is not necessary right now, there are lots of bigger moves on the board at the moment, e.g. O3 or R10]
+;W[eh]
+(;B[ci]C[This is too meek, D11 would have also worked];W[ed]
+
+(;B[dc]C[Forming an empty triangle is inefficient, E17 would have been better.]
+;W[ec]C[You said: "No variation I come up with looks good after this"
+Thats true, you can live in the corner, but you have lost a lot of potential with D17, your F17 stone looks isolated]
+
+(;B[eb];W[db];B[pm];W[cc];B[gc]C[avoid playing close to strength. E18 and F17 were weak, by adding one stone, they are still weak, and you are now even more commited to saving the group. This is bad. Rather play lightly, hoping that they can be saved later, for examlpe, with J17 or K17]
+;W[hc]C[A mistake by W, as mentioned earlier, attaching to stones only makes them stronger, B may be able to escape with the following variation]
+
+(;B[qh];W[qf];B[pj]C[This was a nice play by B];W[pg];B[qo]
+;W[qp];B[mp];W[mq];B[lp];W[nq];B[jq];W[oo];B[po];W[ro]
+(;B[pn]C[Now W can invade into B's base. S6 would have been much better.]
+;W[rm];B[ql];W[ol];B[rl];W[pl];B[qm];W[pi];B[qi];W[pk]
+(;B[oi]C[R9 is far more important. An atari is like a check in chess, fun to do, but not always a good idea.]
+;W[qk]C[Now B's group is split, and in deep deep trouble.]
+(;B[ph];W[rk]C[B has suffered a significant loss];B[rg];W[om]
+;B[ei];W[gd]
+(;B[mk]C[Take a look at the whole board situation. White has a big potential territory at the top, while B has a large area on the bottom and left hand side. White also has the bottom right. B's move at N9 does wall off some territory, but W is far far in the lead, its important to start invading that territory, for example at N17.]
+;W[md]C[Now it will be much harder for B toinvade the top. A reduction is in order, for example at J11, which also has the side effect of solidifying your territory. B's big weak point is C3, which will cost around 20 points of territory.]
+;B[fh]C[This is also a good move, but it leaves B with a cutting point, letting W decide where to play next]
+;W[fg];B[eg];W[ef];B[ji]C[Good move by B];W[mj];B[nj];W[mi]
+;B[ok];W[nh];B[kk];W[kj];B[jj];W[mm];B[km];W[fi]C[G12 would be better than the atari.]
+;B[fj];W[gi];B[je]C[This is too greedy, B will have difficuty surviving, especially with the weaknesses left behind in his shape. G10 would have been better to solidfy what territory B has.]
+;W[jg];B[hg];W[hh];B[kg];W[hk];B[ig];W[jh];B[kh]C[This is the wrong direction, though the alternative (J12) doesn't work either due to the weakness at E12]
+;W[ih];B[ki];W[lj];B[ik];W[jd];B[jf];W[eh];B[og];W[lk];B[ll]
+;W[ml];B[nk];W[ni];B[ng];W[oh]C[This was  a mistake by W which B was quick to capitalize on]
+;B[mh];W[nl];B[li]C[B is now (a bit) in the lead.];W[mo]
+(;B[ie]C[This leads to bad shape. See the variation for the traditional move. However, L14 still needs to be protected, and is probably more important]
+
+(;W[id];B[le]C[Good move by B!];W[ld];B[hm];W[fk];B[ek];W[gj]
+;B[fm];W[el]
+(;B[dl]C[Better to seperate W and stop his invasion.];W[ej]
+;B[eg];W[dk];B[ck];W[eh];B[dm];W[di];B[cj];W[ch];B[ek];W[gl]
+;B[gm];W[dh];B[rf]C[This move is a bit slow, a corner invasion would have been much better for B]
+;W[rd];B[pf];W[qe];B[qg];W[oe];B[me];W[ne];B[re];W[pe];B[lr]
+;W[lq];B[kr];W[lo];B[kp];W[im];B[in]C[Too defensive, H8 would have been better]
+;W[jn];B[jm];W[ko];B[io];W[hl];B[il]C[There was no real need to take W yet, K4 or the like are much more urgent (or even C3)]
+;W[ip]
+(;B[iq]C[Again, cut your opponent off with something like K5]
+;W[jp];B[hp];W[jo];B[kq];W[hq];B[hr];W[gq];B[gp];W[gr];B[mr]
+;W[nr];B[is];W[eq];B[dq];W[ep];B[eo];W[dr];B[cr];W[ds];B[cs]
+;W[en];B[er];W[dk]
+(;B[fq]C[Not needed];W[em];B[gs]C[Again, not needed];W[do]C[Here things go down hill]
+;B[fp];W[dn]C[Now W has crawled into B's area again.];B[cn]
+;W[co];B[cp];W[cl]
+(;B[ek];W[cm];B[bn]C[Don't switch plans midway. Your previous move showed you wanted to save the D8 group, now you are letting W take them. However, also note that something like B8 is more important, as B's group on the left is otherwise dead.]
+;W[dk];B[bl];W[bm];B[bo]C[I can't find a way for B to now save his C10 group.]
+;W[bk];B[bj];W[al];B[ap]
+(;W[an])
+(;W[aj]C[You said:"I gave a take back here because I did'nt think it would make any difference I thought black on the upper left was dead"]
+;B[ic];W[hd];B[jc];W[kc];B[hb];W[gb];B[jb];W[fb];B[lb]
+(;W[kb];B[ka]C[You said:"Here I did'nt know if I had a good idea or if white was tired"
+
+Its better for W to try stop the expansion instead of trying to capture it from behind. See the variation. I've stopped commenting after this as its pretty much the end game.]
+;W[ha];B[lc];W[ib];B[kd];W[kf];B[lf];W[nb];B[mc];W[nc];B[nd]
+;W[od];B[md];W[pb];B[he];W[ge];B[ns];W[os];B[ms];W[or];B[gg]
+;W[np];B[gh];W[lm];B[rj];W[qj];B[ri];W[sk];B[sj];W[on];B[sd]
+;W[rc];B[sc];W[sb];B[se];W[qb];B[ma];W[ij];B[fn];W[ii];B[na]
+;W[oa];B[mb];W[kn];B[an];W[fl];B[gf];W[ff];B[nf];W[of];B[pg]
+;W[am];B[ja];W[ia];B[tt];W[tt]TW[aa][ba][ca][da][ea][fa][ga]
+[pa][qa][ra][sa][ab][bb][cb][eb][hb][ob][rb][ac][bc][dc][fc]
+[gc][oc][pc][qc][ad][cd][dd][fd][qd][be][ee][af][cf][ag][bg]
+[cg][eg][ah][bh][ai][bi][ci][ei][hi][bj][cj][dj][fj][hj][ak]
+[ck][ek][gk][bl][dl][ql][rl][sl][dm][nm][pm][qm][sm][ln][mn]
+[nn][pn][qn][rn][sn][no][po][qo][so][op][rp][sp][oq][pq][qq]
+[rq][sq][pr][qr][rr][sr][ps][qs][rs][ss]TB[la][kb][kc][ld][hf]
+[if][mf][sf][lg][mg][sg][lh][nh][oh][rh][sh][mi][ni][pi][si]
+[kj][lj][mj][oj][jk][lk][jl][kl][im][gn][hn][ao][fo][go][ho]
+[bp][ep][aq][bq][cq][eq][ar][br][ir][jr][as][bs][hs][js][ks]
+[ls])
+(;W[mb]C[This is a better response by W.];B[mc];W[lc];B[nc]
+;W[kb])))
+(;B[cm];W[bl];B[ek]C[Now a ko fight develops, though its much riskier for B than for W. However, if B can play F8 (and win the ko), W will suffer a major loss]
+))
+(;B[do]C[If you are weak in an area, don't look for complex variations, play the simple moves. W now has to either connect at E7 or lose the stone.]
+))
+(;B[jo]))
+(;B[fl]))
+(;W[kf];B[ke];W[lf];B[le];W[mf];B[me];W[nf];B[ne];W[of];B[kd]
+;W[jc];B[nd];W[mc];B[nc];W[lb];B[pb];W[qc];B[qb];W[rb];B[pc]
+;W[rc];B[nb];W[he]C[B has only 1 eye]))
+(;B[he]))
+(;B[mc]
+(;W[kc];B[me])
+(;W[oc];B[jc])))
+(;B[rk]
+(;W[ph])
+(;W[qj];B[rj];W[ph]C[B can still connect, but has suffered a big loss.]
+)))
+(;B[qk];W[oj];B[qj]C[This leaves you with the potential to make 2 eyes along the side.]
+))
+(;B[rn]C[this move works, and stops W from expanding into B's territory.]
+))
+(;B[hd]
+(;W[gd];B[ic];W[hb];B[ib];W[id];B[he];W[fb];B[gb];W[ea];B[ha]
+)
+(;W[ic];B[ge];W[gf];B[hf]C[This lets B jump out into the center, but leaves W with sente]
+)))
+(;B[db];W[ac]
+(;B[ab];W[bb];B[cc];W[aa]
+(;B[cb]C[This doesn't work, W can now play E18 and doom your 7 stones]
+)
+(;B[eb]C[Would be better, though the other variation is far preferable as you now have a weak group W can try kill and make profit by doing so (e.g. by playing K17)]
+))
+(;B[bb];W[eb];B[ea];W[fb];B[ab];W[ad];B[ca])))
+(;B[ec]))
+(;B[di]))
+(;B[bg];W[ch];B[be];W[bh];B[af];W[di];B[eh];W[ei];B[fh];W[ci]
+;B[cj]C[This is an interesting variation. I think this is good for B, as W has 2 weak groups, but, B's groups are not that strong themselves. This may lead to a big fight.]
+))
+(;B[fd];W[ge];B[gd]C[B gets the top, W is still floating]))
+(;B[ce]
+(;W[fg];B[fd])
+(;W[ci];B[cj];W[fg];B[fd]))
+(;B[gd];W[gg];B[gj]))

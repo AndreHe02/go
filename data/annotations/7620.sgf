@@ -1,0 +1,166 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.17]
+
+GN[review26]
+PB[Ariston]
+BR[5k]
+PW[grunzt]
+WR[5k]
+KM[6.5]
+DT[2010-01-08]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[W+Resign]
+TM[2100]
+OT[5x50 byo-yomi]
+RU[Japanese]
+
+C[Dear Reviewer,
+
+I played this on KGS with W and won by resignation.
+Black, however, played a powerful opening and, by my perception, was ahead during most of the game, until I suceeded with an invasion on S16 that should have failed.
+Hence I wonder how you would have handled B's opening and where my overall strategy failed.
+
+Alex: I think you need to look at the board a little differently.  From your comments, it appears that you only notice the good features of your opponent's position and the bad features of your own!  Indeed black was a little ahead for most of the game, but for the first 50 moves the situation wasn't as bad as you thought.
+
+Remember that it's normal for both players to make several mistakes during the game.  Therefore there will be opportunities for you to recover from a bad start if you maintain a positive attitude.
+
+Overall I think you will benefit from:
+
+(a) looking at the whole board on a larger scale.  In particular, you missed several chances to make a san-ren-sei on the left (three star points, D4, D10, D16);
+
+(b) estimating the territories and judging how much you're ahead or behind;
+
+(c) paying attention to the correct timing of invasions: not too early, but not too late!  This follows from (b), and is something you can also practice by studing professional games and trying to guess the next move.  In this game you left your invasion until too late (but you got lucky!)
+
+I will make some more detailed comments throughout the game.]
+;B[qd];W[dp];B[pq];W[dd];B[od]C[Perhaps even more powerful than P17 or Q17 that I used to play myself.
+
+Alex: There is nothing unusual about this opening: please don't be afraid of it!]
+;W[po];B[qk]LB[pl:a][qm:b]C[Alex: This move is very unusual.  I don't think it's good, since it puts very little pressure on white's stone.  Normally black would play 'a' (Q8) or 'b' (R7) instead.]
+(;W[ok]C[I have no idea as to the value of this move.
+
+Alex: This is where your problems start: you're helping black to make territory.  See the variations for two alternatives.]
+;B[oj];W[nj];B[oi];W[pk];B[qj]
+(;W[nl]C[Alex: This is too small-scale.  Compare the variation.]
+;B[jd];W[hc]LB[dj:a][oq:b]C[Alex: This is a nice move.  Personally I'd prefer 'a' (D10) or 'b' (P3), but it's largely a matter of style.]
+;B[ic];W[hd];B[jf]C[9 of B's stones are effectively working together controlling a huge corner moyo. I got to invade at some point, but now is perhaps too early.
+
+Alex: Correct, it's too early to invade.  Black only has territory in one place, whereas white has more potential to expand at the left or bottom.  You're a little bit behind at this point, but not too much.  It's still possible to catch up if you play steadily.]
+(;W[jq]LB[oq:a][dj:b]C[Alex: 'a' (P3) would be more forceful: see variation.  And there's still the possibility of 'b' (D10).]
+;B[qo]
+(;W[oq]C[Alex: The concept is good, but it's not quite the right move order.  Compare the variation.]
+;B[pp];W[op];B[pn];W[oo];B[or]
+(;W[nr]LB[qn:a]C[Alex: This is a complicated position, but I think 'a' (R6) instead is better for white.  See variations.]
+;B[pr];W[mq]TR[jq]LB[dj:a]C[even this feels like a bad bargain, giving B 20 points of safe terriory in exchange for sealing off the lower side.
+
+Alex: Correct.  White is overconcentrated here: K3 is too close to the wall.  But N3 itself is not the mistake; it's your previous moves that led to this bad situation.]
+;B[cj];W[cm]LB[cl:a]C[Alex: I'd prefer 'a' (C8).  It's more forceful and makes it harder for black to get a settled group on the side.]
+;B[cf]
+(;W[cd]C[maybe better at b16, aiming at C12?
+
+Alex: No, b16 leaves the corner too weak.  Aiming at C12 is the right idea, that's why I preferred C8 to C7.]
+;B[ef]C[Alex: Now is the time to think about invading or reducing the top right.
+
+It's a useful exercise to count the territories.  This early in the game it's hard to get an exact count, but you can guess.  White should get 30-50 points at the bottom left (depending on whether black can invade at C3 or D3), and about 20 at the top left, plus komi.  So if black takes 60 points at the top right, together with territory at the bottom right and left side, then black will win the game.
+
+Consider how you might deal with the top right.  I'll give my suggestions as variations to the next move.]
+(;W[eq]LB[qc:a][lf:b]C[Alex: Personally I'd try 'a' (R17) here.  Another possibility is 'b' (M14).  Of course both of those moves are risky.  But since you're a little bit behind in this position, you need to take a risk and hope that black makes some mistakes.]
+;B[fc];W[fd];B[hb];W[gb];B[ib];W[gc]
+(;B[dm]C[powerful, on B's part
+
+Alex: Actually, no.  This just helps white build a moyo.  Compare the variation.]
+;W[dn];B[em]C[Now the whole game appears to be forced until my invasion at S16.
+
+Alex: No, there are still a few choices you can make later...]
+;W[en];B[fm]
+(;W[gn]C[Alex: Your variation (F6) is better.  Possibly you could also consider 'a' (C8).]
+;B[cl];W[bm];B[fn];W[fo];B[gm];W[hn];B[hm];W[in];B[jl]C[Alex: The black stone at K8 makes it harder for white to invade the top right...]
+;W[gg];B[gf];W[hf];B[hg];W[ff];B[ge];W[fe];B[he];W[eg]LB[fg:a]
+C[Alex: The solid connection ('a', F13) is slightly better, as it gives black no chance to play a forcing move.]
+;B[gh];W[df];B[fg];W[eh];B[ko]LB[ni:a]C[Alex: This is an overplay by black.  If 'a' (O11) instead, the game is over.]
+;W[km]C[Alex: Good move.];B[jm];W[jn];B[kn];W[lm];B[mn];W[mm]
+;B[nn];W[on];B[nm];W[om];B[ml];W[ln];B[lo];W[mo];B[kl];W[no]
+;B[mk];W[nk];B[li];W[rd]C[Alex: If black plays correctly, this invasion should now fail (as you say in your comments at the start).  But you have to try it anyway!]
+;B[re];W[qc];B[rc];W[pd];B[qe];W[rb];B[sd];W[oc];B[pb];W[nd]
+;B[oe]
+(;W[pc]C[Alex: Correct, this move is better than your variation.]
+;B[qb];W[ob];B[sb]LB[ra:a]C[Alex: This is black's first big mistake: it should be at 'a' (S19) instead.  Now white has half an eye in the corner (see variation to next move).]
+(;W[mc]C[Alex: Correct, this is better than your variation.]
+;B[lb];W[mf];B[mh];W[of]C[Alex: Nice move.];B[pe]
+(;W[ne]LB[mb:a]C[Alex: I think white can live more neatly by playing 'a' (N18): see variation.]
+;B[mb];W[kc];B[nb];W[nc]
+(;B[ld]LB[oa:a]C[Alex: Black's second big mistake: black is filling in his own liberties.  Black should simply play 'a' (P19) instead.  See variation.]
+;W[lc];B[ra];W[kb]
+(;B[oa];W[kd];B[ke];W[le];B[md];W[nh];B[ni];W[kf];B[je];W[mg]
+;B[ng];W[lh];B[mi];W[kg]C[Alex: White is alive: well done!  Black may as well resign now.
+
+Thanks for sending me such an interesting game to review :-)
+
+ This is the last coment.];B[og];W[nf];B[kh];W[lg];B[jh];W[pg]
+;B[oh];W[pf];B[bl];W[ch];B[co];W[cn];B[eo];W[do];B[cp];W[cq]
+;B[go];W[fp];B[hp];W[jo];B[fb]C[B resigned.])
+(;B[ng]TR[ic][jd][jf]C[This appears to win for B. W is restricted to one eye at N18.
+
+Alex: No, I think white can live.  Notice that black's connection J17-K16-K14 is thin...]
+;W[kd];B[le]
+(;W[je]C[Alex: This is a mistake.  See variation.]
+(;B[ie]C[Alex: Black should play on the other side (variation).]
+;W[ke];B[id];W[kf];B[oa])
+(;B[ke];W[ie];B[id]))
+(;W[id]LB[jc:a][je:b]C[Alex: Now white has miai at 'a' and 'b' (K17, K15), so black's three stones are captured.]
+(;B[je];W[jc])
+(;B[jc];W[je];B[ie];W[ke];B[gd];W[fb];B[ec];W[eb];B[dc];W[cc]
+;B[db];W[cb]))))
+(;B[oa];W[ra];B[pa];W[kb]
+(;B[sc];W[ng];B[oh]C[Alex: There's no eye at O14.  It's hard to see how white can live now.]
+)
+(;B[ng]C[Alex: I think this allows white to live.];W[na];B[ma]
+;W[lc];B[sc];W[ka];B[sa];W[la])))
+(;W[mb];B[ra];W[lc];B[kb];W[le]))
+(;W[mb];B[md];W[ne];B[mc];W[nc];B[lb]C[Alex: This looks hopeless for white.]
+)
+(;W[ra]C[Alex: You wouldn't play this immediately--you need to make an eye elsewhere first--but when the time is right, you can capture two black stones.]
+))
+(;W[ob];B[pc]))
+(;W[fn];B[gn];W[gm];B[hm];W[gl];B[hl];W[hn];B[go];W[gk]TR[hl]
+[hm][gn][go][fm][em][dm]C[Alex: This is a complicated position, but black has three weak groups so it's possible for white to fight in this way.]
+)
+(;W[cl]TR[fm][em][dm]C[Alex: This way, maybe there is a chance to attack black's three stones.]
+))
+(;B[ni]C[Alex: If black plays this way, it's nearly impossible for white to invade the top right now.]
+))
+(;W[qc]C[Alex: There are many variations that can arise from this move, and it's really too complicated for me to understand (you'd have to ask a professional!)  But my own intuition is that it gives you the best chance of catching up.  I'll show two main continuations, but there are many other possibilities.]
+(;B[rc];W[rd];B[pc];W[qe];B[qb];W[qh];B[qi];W[og]C[Alex: Now the question is whether white can live or escape.  It's hard to say!]
+)
+(;B[pc];W[rd]
+(;B[qe]C[Alex: Now white has the option of making a "tripod" group in the corner.  You shouldn't take this option right away, but turn in a different direction first...]
+;W[lg]
+(;B[le]C[Alex: If black kills the corner instead, you should be very happy!  (variation)]
+;W[ng];B[pg];W[qb])
+(;B[rc];W[le]))
+(;B[re]C[Alex: I think this would be a mistake by black.];W[qe]
+;B[pd];W[rf];B[rc];W[se];B[qb];W[qh])))
+(;W[lf]C[Alex: If black just defends, then you have a reasonable game.  But there's the risk that black might attack forcefully.]
+(;B[ld];W[nf];B[pf];W[eq])
+(;B[lh]C[Alex: This leads to a difficult fight...];W[kg];B[ji]
+)))
+(;W[bd]LB[cc:a][ec:b]C[Alex: The combined weaknesses at 'a' (C17) and 'b' (E17) are too much.]
+))
+(;W[qp]
+(;B[qn];W[pr];B[qq];W[qr];B[rq];W[rr];B[rp];W[nr])
+(;B[nr];W[qq];B[pr];W[qn];B[ro];W[rn])
+(;B[qq];W[qn];B[rp];W[ro];B[qp];W[pm];B[rn];W[qm];B[nr];W[dj]
+)))
+(;W[pp];B[qp];W[oq];B[pr];W[dj]C[Alex: You shouldn't defend the gap at P2: the left side is much bigger!]
+))
+(;W[oq];B[or];W[op];B[nq];W[pr];B[qr];W[nr];B[ps];W[mq]))
+(;W[np]C[Alex: You should be happy for black to cut, since it starts a fight in your area of influence.]
+;B[nk];W[mj];B[nl];W[om];B[ll];W[kj]C[Alex: Black's centre stones are weak, and Q3 isn't properly alive either.]
+))
+(;W[dj]C[Alex: This would be my first choice.];B[np]C[Alex: It's worth learning this joseki (it's also common when playing against the Chinese fuseki).]
+;W[qq];B[qr];W[qp];B[rr];W[qm];B[nn];W[om];B[on];W[pn];B[pl]
+;W[rk];B[rj]LB[pm:a]C[Alex: Figure out for yourself why black can't play 'a' (Q7) instead of S10!]
+;W[rl];B[qj];W[pm]C[Alex: I think this is a reasonable result for both sides.  Black starts to build a moyo at the top right, but white's potential on the left is just as great.]
+)
+(;W[np]C[Alex: This is also possible.];B[oo];W[op];B[pp];W[on]
+;B[qo];W[no];B[qn]TR[np][qk]C[Alex: White's shape is a little overconcentrated (O4 is badly placed).  But black is also overconcentrated (R9 is too close to R6).  Again I think it's a fair result for both sides.  Where would you play next as white?]
+;W[dj]))

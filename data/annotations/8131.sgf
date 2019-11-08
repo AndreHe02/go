@@ -1,0 +1,176 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.17]
+
+PB[rikolau]
+BR[9k]
+PW[byeBafana]
+WR[7k]
+KM[0.5]
+DT[2010-11-22]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[W+14.5]
+TM[1800]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+C[Hi, thanks for reviewing my game.
+I've added in some questions in the game tree. If you could point out a few main concepts or techniques that would improve my game, that would be most helpful. (I played as black, but pointing out White's mistakes is helpful too.)
+
+Hi, this is Wonodan from KGS, I will try to add my comments with W: in front of them so they're more easily noticed.]
+;B[pd];W[dp];B[pp];W[dc];B[de];W[ce];B[cf];W[cd];B[dg];W[fc]
+;B[ck];W[qj];B[jd]C[I took K16 instead of r13 or R7 because K16 seems to be a good point for B and W.
+
+W: Yes, this is a good plan.];W[qn]C[I wanted to attack W's group on the right, with R8, but I need to build up some strength first, right? How can I do this, with the intention to attack W?
+
+W: White has more stones in this area, so defending makes sense instead of fighting. Safe fighting for areas where you're strong, like top and left at the moment.]
+(;B[mp]C[W: The corner was never black's, but after this high move it's even harder to claim later.]
+;W[rp];B[qq]C[W: After a big move like N4, it is not a good idea for white to slide at S4, as black gets such a big territory in the corner. White should've played something else instead of S4, bottom right is now very good for black.]
+(;W[qf]LB[qh:B][ql:A]C[W: At this moment you have two attacks on white right side group, A and B. Three space jumps are too far apart from each other to be completely safe.]
+(;B[qe]C[W: This move only helps white.]
+(;W[pf]LB[qg:1][qh:2][qi:3]C[W: The common rule of extending is "Height of wall + 1". White's wall is two spaces high, so he should extend three spaces. In this case, black helped white gain optimal shape.]
+;B[nc];W[hq];B[jq]C[W: Good move.]
+(;W[cq]LB[fq:A]C[W: This move looks odd. Black threatend to invade at A, but instead White defended the corner.]
+(;B[cn]
+(;W[co]
+(;B[en];W[bn];B[cm];W[eo];B[fn];W[pl]C[W: White fixed final weakness in his shape at R8, and it looks too dangerous for black to invade at R12 as white already has Q14 to protect against it.]
+(;B[hp];W[gp];B[ho];W[go];B[gn];W[iq]
+(;B[fe]
+(;W[ic];B[jc];W[id];B[ie]TR[jc][jd]C[W: Best move in this area. When it's possible to hane (turn over) two or three stones like this, it's usually the best move available. This white shape will have trouble from now on.]
+;W[jb]
+(;B[jj]C[In hind sight, I think I should have played L18, then played k10 later.]
+;W[kl]
+(;B[ml]
+(;W[ip];B[io];W[jp]C[W: Don't cling to weak stones that have no meaning.]
+(;B[kq]TR[kl][jp]C[W: If white can connect these stones, he will score a huge success.]
+;W[jo];B[im]C[W: Good move.];W[jm]
+(;B[kb]C[W: Protecting the one stone here feels small...]
+(;W[ib]
+(;B[nf];W[oh];B[nh];W[oi];B[ni];W[il]C[W: White's best move, definately.]
+;B[hl];W[in]LB[jm:D][ho:A][gp:B][ip:C]C[W: This is a white mistake. Group A does not cut anything. Groups B, C and D are already connected. Black could not care less about the A group. Black has a move to win the game here, by sacrificing the 3 stones. Where is this move?]
+(;B[hn];W[hm]C[Ack, should I have played H9 here instead of F7?
+
+W: Absolutely. I'm very glad you noticed it yourself!]
+(;B[gm];W[hk];B[im];W[ik];B[gk];W[hi]
+(;B[gi];W[gj];B[fj];W[hj];B[fi];W[hm];B[bm]C[W: Good plan to let go of the H8 stone.]
+;W[gl];B[fk];W[rf];B[re];W[oe];B[ne];W[se];B[sd];W[sf];B[rc]
+;W[lb];B[lc];W[ka];B[mb];W[kc];B[kd];W[od];B[oc];W[he];B[if]
+;W[kb];B[hf];W[ge];B[gf];W[fd];B[ee];W[bo]
+(;B[jh]TR[kl]C[W: Trying to protect territory in this area is futile, as white has the marked stone already in place.]
+;W[lj];B[kk];W[nj];B[mj];W[mk];B[mi]
+(;W[nk];B[lk];W[ll];B[mm];W[li]
+(;B[ng];W[mo];B[no];W[mn];B[nn];W[nm]
+(;B[lo];W[ln];B[kn];W[lm];B[jn];W[im];B[lp];W[ko];B[rq];W[ro]
+;B[bf]C[W: Good move.];W[be]
+(;B[ir];W[hr];B[jr];W[fq]C[W: There was nothing for black here, white made a mistake by protecting.]
+;B[om];W[nl];B[pn];W[pm];B[po];W[ol]TR[ed][og][hh][fl][an][sp]
+[hs]C[W: Capturing this stone is worth about 1½ points for white. All marked moves (for example) are a lot bigger.]
+;B[on]TR[ae][af][am][an][sp][sq]SQ[ag][bg][al][bl][rr][sr]C[W: The marked exchanges got white a lot of territory, and this is where black lost the game.]
+;W[sq];B[sr];W[sp];B[rr];W[am];B[al];W[an];B[bl];W[af];B[ag]
+;W[ae];B[bg]C[W: White got all 3 large reductions in sente.]
+;W[is];B[js];W[hs];B[qo];W[rn];B[fl];W[ih]
+(;B[gh];W[jg]
+(;B[ig];W[ji];B[kh];W[ki];B[lh];W[hh];B[hg];W[og];B[nd];W[fo]
+;B[dn];W[dd];B[ed];W[ec];B[ma];W[pe];B[qd];W[eg]C[W: This E13 is an obvious overplay, trying to trick a weaker player.]
+;B[ff]C[W: It was not really necessary to protect here, but your move was secure and protected the most dangerous looking area.]
+;W[do];B[hl];W[ld];B[mc];W[gl]
+(;B[kj];W[ii];B[hl];W[je];B[ke];W[gl];B[kp]C[W: This is not a ko-threat.]
+;W[hl];B[tt];W[tt]TW[aa][ba][ca][da][ea][fa][ga][ha][ia][ja]
+[ab][bb][cb][db][eb][fb][gb][hb][ac][bc][cc][gc][hc][ad][bd]
+[gd][hd][pg][qg][rg][sg][ph][qh][rh][sh][pi][qi][ri][si][ij]
+[jj][kj][oj][pj][rj][sj][jk][kk][lk][ok][pk][qk][rk][sk][jl]
+[ml][ql][rl][sl][km][mm][qm][rm][sm][jn][kn][sn][ao][so][ap]
+[bp][cp][ep][fp][aq][bq][dq][eq][gq][ar][br][cr][dr][er][fr]
+[gr][as][bs][cs][ds][es][fs][gs]TB[na][oa][pa][qa][ra][sa][nb]
+[ob][pb][qb][rb][sb][pc][qc][sc][ld][md][rd][je][le][me][df]
+[ef][jf][kf][lf][mf][cg][eg][fg][gg][jg][kg][lg][mg][ah][bh]
+[ch][dh][eh][fh][mh][ai][bi][ci][di][ei][aj][bj][cj][dj][ej]
+[ak][bk][dk][ek][cl][dl][el][dm][em][fm][oo][np][op][lq][mq]
+[nq][oq][pq][kr][lr][mr][nr][or][pr][qr][ks][ls][ms][ns][os]
+[ps][qs][rs][ss]C[Once again, thank you for the review!
+
+W: It was my pleasure to review this game, I hope this helped. 
+
+The biggest opening and middle game problems were your greediness. Do not forget to defend early, or later you won't find enough time to do so.
+
+I would suggest you to be careful when selecting endgame moves, as you were leading but white won because he played bigger moves in the end. Had you played bigger moves instead, the game would have surely been yours. 
+
+I hope you have enough time to check moves: 39, 45, 51, 65, 125, 147 and 167 again, with any of these moves either the game would have been a lot easier, or possibly won.
+
+If there's something unclear, you can try to find me from KGS under the nick Wonodan (I use it rarely), and you can also try to contact me by e-mail : lauri.vihavainen@gmail.com]
+)
+(;B[ii]TR[kj]C[W: When making ko-threats, try to squeeze as many as you can. This way you gain one more ko-threat at L10.]
+))
+(;B[kh];W[ig];B[kg];W[jf];B[kf];W[je];B[ke]TR[li][lj]C[W: Capturing the two stones is bigger.]
+))
+(;B[jg]C[W: This is best.]))
+(;B[jr]C[W: It might look like a bad move, but... playing at K2 here is best. This way you keep sente (the initiative)]
+;W[ir]))
+(;B[ln]C[W: This ladder works, you missed a lot of points in this area.]
+;W[lo];B[ko];W[lp];B[kp];W[lq];B[lr];W[mq]C[W: Where is black's next move?]
+(;B[nq]C[W: Now the white stones have no way to escape. Sacrificing the N4 stone is the tesuji.]
+;W[mr];B[nr];W[ms];B[ls];W[np];B[ns])
+(;B[mr];W[nq]C[W: Oops!])
+(;B[np];W[lm]C[W: Oops!])))
+(;B[og]C[W: This way you gain the initiative, unline O13, white can't omit protecting here.]
+;W[pg];B[rq]))
+(;W[lk]C[W: White should have connected his stones here.];B[nk]
+;W[oj];B[ll];W[nl]))
+(;B[rq]LB[ro:A]C[W: S3 in this position is the largest move on the board. You next threaten to capture the white stones with A.]
+))
+(;B[gj]C[W: Best move.]))
+(;B[gl]C[W: Instead of leaving cutting points all around, connecting like this is simple, and less dangerous.]
+;W[ik];B[hj];W[ij];B[hi]))
+(;B[hk]TR[ho][io][hp]C[W: This move, fixing the moyo. Capturing the 3 black stones as white next would be ridiculous, it would only be 6 points, white black's threatening to make more than 40 points of territory in the middle.]
+))
+(;B[je]C[W: If you don't protect this cut, then L18 won't have much meaning.]
+))
+(;W[il]C[W: White should crush all black's dreams of a good game by stomping this moyo on the left.]
+))
+(;B[il]C[W: Same as K4 and L18 earlier, it has to be played no matter what. This moyo strategy would be a huge success.]
+))
+(;B[jo];W[kp];B[ko];W[lp];B[lo]LB[kl:: (]C[W: My plan would be to make the center even bigger, and not worry about the points on the bottom side. Doesn't L8 look lonely? Don't be afraid to sacrifice.]
+))
+(;W[jp]C[W: I have a feeling that this is nicer for white.]
+))
+(;B[nf]TR[kb][je]C[In hindsight, this seems more effective.
+
+W: Before, this would've been a beautiful move. But now white's poking his head through L18 and will be able to cut at K15 whenever he wishes. Leaving L18 open was not a good plan.]
+)
+(;B[il]C[W: As ugly as it seems, I would have strenghtened the left side moyo which is likely to become a large territory.]
+))
+(;B[kb]C[W: Yes. This is the same as K4, it just has to be played.]
+;W[ib];B[je]C[W: Black center is too strong now.]))
+(;W[jp]LB[hn:A][kq:B]C[W: I would play here without thinking. A and B are sort of a miai for white.]
+))
+(;B[jp]C[W: No matter what happens next, it feels like you must play here immediately. It would be too much of a burden to let white through here.]
+))
+(;B[hc]TR[lc][ld]C[W: Even though it might not have a good follow-up, this move is large and helps against white's invasion at M17 area.]
+)
+(;B[nf]C[W: Making your moyo bigger while making your opponents moyo smaller looks like a good plan, too.]
+))
+(;B[dn]LB[qg:1][qh:2][qi:3][cl:1][cm:2]C[W: When side-attached, extending like this is usually best. White C5 is also questionable, since you make a lot of territory on the left, even though your extension is only 2 spaces compared to top right white shape.]
+))
+(;W[fq]C[W: Now white has a chance to fix the weakness.]))
+(;B[fq]C[W: When you play a move such as K3, it feels you want to play F3. Why not follow this plan?]
+;W[fp];B[gq];W[gp];B[hr];W[hp];B[fr]C[W: If like this, you're connected and reduced white's territory.]
+))
+(;W[ho]C[W: White should probably just move out, to make an invasion difficult for black.]
+))
+(;AB[pj]AE[qj];W[pf];B[nc];W[ph];B[qi];W[mg]C[W: If you have a pincer in place, like Q10, you can use the R15 attacking move. Now the white group is in a tight spot, and must run.]
+))
+(;B[qh];W[of]
+(;B[oh]
+(;W[rd]C[W: White wouldn't let black escape with the corner stone.]
+;B[qc];W[nd];B[nc];W[rh]C[This is my reading of R12, if I had played it at that time. It didn't work, so I didn't play it.]
+)
+(;W[nd]LB[pd:A][oh:B]C[W: White would play here instead, attacking the black corner. It's hard for black to manage both groups A and B now. White has the advantage.]
+))
+(;B[nd];W[pi];B[qe]C[W: It is more usual to play this way.]
+)))
+(;W[pl]C[W: White must defend the shape. Now there's no attack left for black.]
+))
+(;B[nq]LB[rp:B][kq:A]C[W: It is more simple to play common moves. Now you have a miai at A and B area depending on white's move later.]
+(;W[lq];B[rp])
+(;W[rp];B[kq]))
+(;B[ql]C[W: But if you truly like to fight, this is the right spot, in the middle of a 3 space extension.]
+;W[on];B[np];W[pk];B[qo]C[W: White's next move depends on what he wants to achieve here.]
+))

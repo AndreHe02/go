@@ -1,0 +1,171 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+PB[chro]
+BR[10k]
+PW[Passw]
+WR[6k]
+KM[0.5]
+DT[2009-05-03]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[W+45.50]
+TM[600]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+C[DavidB here.  
+
+Granted this was a fast game, but black needs to think primarily about defense.  one should ensure that a group is settled and safe before attacking or playing a big move.
+Urgent moves come first at all times.  Help your weak groups, before playing elsewhere.
+
+leaving behind weakness is the main problem for black in this game I think.  
+
+secondly, perhaps becuase of the rapid pace of the game in part, black plays speculative moves that end up hurting black more than white.  Practice with reading is very important - even simple 2 step sequences should be readable and rejected as not playable.
+
+hope this review is helpful.];B[pd]C[chro [10k\]: hi
+Passw [6k\]: hio hf];W[qp];B[dd];W[cp];B[op];W[oq];B[nq];W[pq]
+;B[np]TR[qn]C[Joseki is at the marked stone; white can play elsewhere, but at a cost.]
+;W[kq]LB[qo:B][ep:A]C[This is probably not good for white.  White has played close to black's thick solid shape.]
+
+(;B[ep]LB[qn:A][qo:B]C[risky here, white can ignore and fix the lower right by playing A.
+Black should just complete the joseki with B.]
+(;W[gq];B[or]LB[qo:A]C[Wrong direction.  Blocking at A is urgent.]
+;W[pr];B[cn]LB[qn:B][qo:A]C[I think this is unwise of black; there is an urgent move at A.  If white plays B, black's O3 group will become weak.
+
+C6 is doubtful, white can simply play the splitting move at D5 and black doesn't have a clear follow up.]
+;W[do]LB[cn:B][eo:3][fo:2][ep:A][gp:1]TR[cq]C[black will need to sacrifice C6 or E4.  A is on the fourth line and also may yet have a chance to use the  aji at the marked position so this is probably the most important stone.  But in saving A, the B stone will be weakened.  Altogether, a bad situation.]
+
+(;B[dm]LB[eo:B][fo:A]C[I think the more solid B is better for white.]
+
+(;W[fo]C[I think this is an overplay by white, but not sure about the best answer for black.]
+;B[eo];W[en]LB[fn:A][dp:B]C[B can allow black to live.  A is too ambitious.]
+
+(;B[fn];W[dn]LB[cm:A][em:B][fp:C]C[now there are too many problems for black.]
+;B[em]LB[co:A][go:B]TR[eo][ep]C[white should just play B and make a solid connection, destroying the marked black stones.]
+
+(;W[co];B[fp];W[go]LB[gp:B][cq:A]C[B to live.  A is hopeless.]
+
+(;B[cq];W[dq];B[dp]C[this is bad - black just reduced his own liberties.]
+;W[bq];B[cr];W[eq];B[bp];W[bo];B[bn];W[ap]
+(;B[an];W[fq]
+(;B[gn]TR[fm]C[now black has a severe cut in his wall.]
+(;W[hn];B[hm];W[in]TR[cl]C[fix.];B[im];W[cf];B[jn];W[hp]C[fix.]
+
+(;B[io];W[ho];B[jp]LB[qo:A]TR[fm][jm]C[now 2 cuts and still the burden of not having played A yet.]
+;W[jq];B[iq]C[impossible.];W[ip]LB[qo:A]TR[fm][jm]C[too many cuts to fight in this direction.
+
+and still A is important.];B[jo];W[ir];B[lr];W[lp];B[lo]LB[jo:A]
+[nq:B]C[this move helps the A stones at the cost of hurting the B stones.]
+;W[mo];B[mn];W[ln];B[ko];W[mp];B[lm];W[nn];B[mm];W[pn]C[A large local  loss for black.]
+;B[no];W[on]C[black has a free move here - he should look for the biggest areas.]
+
+(;B[pj];W[qk];B[jd];W[qf]
+(;B[mc];W[qi];B[qd];W[oc]C[here is the weakness of the long knight's move.]
+
+(;B[nd];W[od];B[oe]
+(;W[qb];B[pc];W[ob];B[pb];W[pa];B[rb];W[mb];B[lb];W[nc];B[md]
+;W[rc];B[qc];W[qa];B[ra];W[rd];B[oa];W[re];B[qj];W[rj];B[rk]
+;W[ri];B[ql];W[pk];B[pl];W[ok];B[ol];W[oj];B[pi];W[rl];B[rm]
+;W[sk];B[qn];W[po];B[qo];W[pp];B[rp];W[rq];B[nl];W[of];B[pf]
+;W[pg];B[pe];W[oh]
+(;B[qg]C[practice reading these kind of moves (R13, Q12) before playing them.  this is just a 2 move sequence to see that it doesn't work.
+
+Worse, after it fails, black has made white stronger, so it is not without a cost to black to speculate like this.]
+;W[rg];B[ph];W[qh];B[nf];W[ng];B[og]
+(;W[mg];B[qg];W[gm];B[fm];W[pg];B[hq];W[gp];B[qg];W[cm];B[pg]
+TR[cl]C[the wall (what is left of it) at C6 is so much more important.]
+;W[bm];B[cl];W[bl];B[ck];W[bk];B[cj];W[bj]
+(;B[ch];W[bh]
+(;B[cd];W[ci];B[di];W[bi]TR[dh][dj][dl]C[this is harder for black now. 3 cuts.]
+
+(;B[ek];W[dh];B[dg]C[this is too hopeful.];W[eh];B[cg]LB[dg:A]
+[ek:B]C[now black is split in 2
+Both A and B will be weak.  White will not allow black to play B13.]
+;W[dj];B[ei];W[ej];B[fi];W[fj];B[fh];W[gj];B[eg]
+(;W[gl];B[gk];W[fk];B[hk];W[fl];B[hj];W[gi];B[hh];W[gh];B[gg]
+;W[hi];B[ii];W[ih];B[hg]
+(;W[dk];B[hl];W[dl];B[jh];W[fc]LB[db:A][ec:B]C[A is better - it defends the corner, and removes a direction from white without touching white.]
+
+(;B[ec]C[a good rule of thumb in attacking:  don't touch weak stones - this just helps the weak stone get stronger.]
+;W[ic]
+(;B[jc];W[eb]
+(;B[db];W[gb]
+(;B[gc]C[this is a "thank you" move.  it helps white]
+(;W[hc];B[gd];W[fd];B[hd];W[ed];B[dc];W[jb];B[ha];W[kb];B[lc]
+;W[ia]C[white lives.];B[ka];W[ga];B[ea];W[hb]C[white has a strong victory.  review ends here.]
+;B[fb];W[ff];B[ee];W[fe];B[ef];W[id];B[he];W[ie];B[if];W[je]
+;B[ig];W[ke];B[lh];W[lj];B[bg];W[kc];B[nh];W[oi];B[mh];W[lf]
+;B[mf];W[lg];B[le];W[kf];B[ld];W[kd];B[mj];W[mk];B[lk];W[mi]
+;B[nj];W[ni];B[nk];W[li];B[kh];W[kk];B[ll];W[jj];B[ij];W[jl]
+;B[jm];W[kl];B[se];W[sf];B[so];W[nr];B[mr];W[os];B[lq];W[kp]
+;B[mq];W[hr];B[sq];W[sr];B[sp];W[rr];B[ji];W[pm];B[qm];W[sn]
+;B[ro];W[sm];B[rn];W[sl];B[ki];W[kj];B[km];W[ag];B[af];W[ah]
+;B[bf];W[fa];B[eb];W[ja];B[la];W[qe];B[sc];W[sd];B[sb];W[il]
+;B[ik];W[jg];B[jk];W[rk];B[ih];W[jf];B[fg];W[tt];B[tt]TW[ha]
+[ib][jc][jd][se][rf][sg][rh][sh][ai][si][aj][cj][sj][ak][ck]
+[ek][al][cl][el][am][dm][em][fm][an][bn][cn][fn][gn][ao][eo]
+[no][oo][bp][dp][ep][fp][np][op][aq][cq][hq][iq][lq][mq][nq]
+[qq][ar][br][cr][dr][er][fr][gr][jr][kr][lr][mr][or][qr][as]
+[bs][cs][ds][es][fs][gs][hs][is][js][ks][ls][ms][ns][ps][qs]
+[rs][ss]TB[aa][ba][ca][da][ma][na][pa][qa][sa][ab][bb][cb][mb]
+[nb][ob][qb][ac][bc][cc][fc][nc][oc][ad][bd][ed][fd][od][ae]
+[be][ce][de][fe][ge][me][ne][cf][df][ff][gf][hf][of][dh][eh]
+[mk][ml][kn][ln]C[Passw [6k\]: thx
+chro [10k\]: thank you])
+(;W[gd]
+(;B[hc];W[hd];B[hb];W[ib]C[alive.])
+(;B[fd];W[hc]C[getting eye shape])))
+(;B[ea]C[spoil eye shape.]))
+(;B[gb]C[still enough time to kill I think]
+(;W[db];B[fb])
+(;W[fb];B[db];W[gc];B[hb];W[hc];B[ib])))
+(;B[gb]TR[ec][cd][dd][md][nd][oe][nf][dg][eg][gg][hg][fh]C[this just kills I think.
+Black has thickness all around - he should use it by spoiling eye shape and not worrying about white running.]
+))
+(;B[db];W[ic]))
+(;W[ij]C[this works for white as well.]
+(;B[ik];W[ji])
+(;B[ji];W[ik];B[hl];W[jm])))
+(;W[dk];B[dl];W[gl]C[black collapses]))
+(;B[dh]C[I think this works though.];W[dj];B[ej];W[dl];B[dk]
+;W[fl];B[el]))
+(;B[ci]C[connect]))
+(;B[ci]C[extend to four - this relieves the need to protect the cut.]
+))
+(;W[oi]C[white should just take.]))
+(;B[fd]))
+(;W[pe]C[I think white can still fight.]))
+(;B[od]C[perhaps this way];W[nc];B[nd]
+(;W[mb];B[lb]C[black can force white outside and retain the corner.]
+;W[qb];B[pc];W[lc];B[md];W[kb];B[nb];W[la];B[ob])
+(;W[pc];B[qc];W[mb];B[lb]C[similarly.];W[lc];B[md];W[kb];B[nb]
+;W[la];B[pb])))
+(;B[nd]C[this is also possible - more pressure on the R14 stone.]
+)
+(;B[nc]C[better shape and more control over the corner.]))
+(;B[jd]C[this area is bigger]))
+(;B[fm];W[fc];B[fd];W[gd];B[fe];W[ec];B[dc];W[hc];B[df]C[something like this is playable I think]
+))
+(;W[fm];B[ho];W[gp];B[gm];W[fl];B[cl]C[and a new weak group.]
+))
+(;B[ci];W[fm];B[fl];W[gm];B[gl];W[cm];B[cl];W[bm];B[bl];W[el]
+;B[dl];W[ek])
+(;B[ch];W[ck];B[cm];W[ej];B[gl]
+(;W[fl])
+(;W[fm];B[fl];W[el];B[gm])))
+(;B[cl]C[fix this cut.]))
+(;B[gp]LB[hp:A]C[like this? if white A, then black can live.  But the outside stones are nearly made worthless as a result.]
+))
+(;W[go]C[Now black has a forcing move at C5, allowing him to settle his outside group.]
+;B[co];W[dp];B[bp];W[cr];B[cm]C[now black has a settled outside group at least.]
+))
+(;B[dp]C[I suppose black could live like this, but it hurts the outside stones.]
+;W[dn];B[co]LB[fn:A][fp:C][cq:B]C[too many cuts for white to kill the black stones now.]
+))
+(;W[eo]))
+(;B[fo])
+(;B[gp];W[hp];B[go];W[fq];B[eo];W[dn];B[ho];W[ip])
+(;B[eo];W[dn];B[go]))
+(;W[qn]))
+(;B[qo]C[Black should punish immediately.  White should play A to prevent being sealed in.]
+;W[ro];B[pp]C[white must protect.];W[qq];B[qn];W[rn];B[qm]TR[kq]
+C[Now L3 looks badly placed.]))

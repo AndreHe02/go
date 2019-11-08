@@ -1,0 +1,57 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+PB[rEg]
+BR[11k]
+PW[Kyl]
+WR[25k]
+KM[5.5]
+DT[2005-07-24]
+RE[B+Resign]
+RU[Japanese]
+
+C[Hi, I'm Blake (11k), your reviewer.  I will mark my comments with B:.]
+;B[do];W[pc];B[ce];W[dc];B[cm];W[fp];B[hq];W[fq]LB[fn:A][cq:C]
+[dq:B]C[B: I would either jump out, or jump into the corner.  This is slow.  Plays around A, B, or C might be possible.]
+;B[fn];W[gn];B[go];W[fo];B[en];W[cp]C[B:  This should probably be C3 instead.  Always look at how your stones work with the enemy stones around them.  The stone at D5 is particularly painful.]
+;B[gm];W[ho];B[hn];W[gp];B[io];W[hp];B[ip];W[nq]C[B: I would take the corner.  Q3, perhaps.]
+;B[dq];W[dp];B[cq];W[bq];B[br];W[eq]LB[bp:B][eq:A]C[B: A is an error, I believe.  B is better.]
+;B[bp];W[bo];B[aq];W[co];B[iq];W[dn];B[dm];W[eo];B[cn];W[gn]
+;B[gc];W[fm];B[do];W[hm];B[gl];W[dn];B[em];W[in];B[ed];W[ec]
+C[B: Fall back to the 3-3 (C17) if you want this corner.  It's essentially alive.]
+;B[bc];W[dd];B[de];W[fc];B[fd];W[cd]C[B: Empty triangle, and not a very useful move.  It forces your opponent to make a move he doesn't mind making anyway.]
+;B[bd];W[gd];B[hc];W[cb];B[ge];W[gb];B[jn];W[jm];B[fa];W[ea]
+;B[pq]C[B: Painful.];W[no];B[kn]
+(;W[po]C[B: consider L4 instead.  It's a peep at a very important cutting point.  See the variation.]
+;B[hd];W[fj];B[di];W[cj];B[ek];W[ci];B[hk];W[dh];B[ei];W[cg]
+;B[qe];W[nc]LB[qi:A]C[B: remember to think of your other stones when you play.  A pincer here around A may have been better for the stones on the bottom.]
+;B[qm];W[pl]C[B: wrong direction, I think; here, I would definitely have played the peep at L4 first.]
+;B[qo];W[pn];B[qn];W[kr];B[jr];W[kp];B[qp]
+(;W[km]C[B: Take what's given to you!  K5 is severe.];B[lm]
+;W[jj];B[hi];W[ll];B[mm];W[ej];B[op];W[mn];B[ln];W[np];B[pm]
+;W[ol];B[om];W[nn];B[nm];W[oq];B[nk];W[pj];B[dj];W[fg];B[lo]
+;W[lp];B[pp];W[hg];B[fi];W[ih];B[ns];W[pr];B[qr];W[or];B[jo]
+;W[mo];B[mr]C[B: I am not convinced that this is a viable attack.]
+
+(;W[ir]C[B: Try responding to it more calmly, and directly, with M2.]
+;B[jq];W[kq];B[ph];W[mq];B[oi];W[qh];B[qg];W[pi];B[rh];W[oj]
+;B[qi];W[ni];B[mj];W[oh];B[og];W[ng];B[nf];W[mg];B[lr];W[ks]
+;B[hr];W[ls];B[eb];W[kc]LB[fb:A]C[B: 'A' works directly.];B[da]
+;W[fb];B[bb];W[db];B[hb];W[ea];B[of];W[ga];B[ki];W[rd];B[kk]
+;W[kl];B[jk];W[kg];B[es];W[bl];B[ij];W[ji];B[dr];W[qj];B[do]
+;W[le];B[dn];W[rl];B[ck];W[bk];B[rf];W[qd];B[bn];W[il];B[ik]
+;W[hl];B[jl]C[B: A few closing thoughts.  You seem to have a grasp of the _concept_ of shape--most of your stones, taken in isolation, are played in good relationt to each other.  But remember, you have to take your opponent's stones into consideration, too, when thinking of shape and where is best to play.
+
+Your reading will improve with time, which will greatly help your game.  Many of your mistakes stem from failures in this area.  (not that I'm claiming to be a master--I'm only 11k, after all.)
+
+But I have to ask--why were you playing white against someone who could give you 9 stones and still be advantaged?  This isn't the way to improve.  Play people at appropriate handicaps and around your level and the improvement will come naturally.]
+)
+(;W[lr]
+(;B[mq];W[nr];B[mp];W[lq];B[ms]C[Black cannot cut this way...]
+)
+(;B[ps];W[os];B[qs];W[mq]C[B: Black cannot connect out.])))
+(;W[jo];B[ko];W[jp];B[lp];W[kq]C[B: This doesn't look great for white, but he is essentially connected.]
+;B[lq];W[lo];B[mo];W[ln];B[km];W[mp];B[mn];W[lr];B[lm];W[mq]
+;B[lo];W[op]C[B: Whtie has lost a couple of stones, and black has lost the bottom.  Keep aji like K5 in mind.]
+))
+(;W[kp];B[jo];W[po]C[B: this looks better for white, I think.]
+))

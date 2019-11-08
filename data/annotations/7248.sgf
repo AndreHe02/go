@@ -1,0 +1,86 @@
+(;FF[4]GM[1]SZ[19]AP[SGFC:1.15]
+
+GN[Challenge from Disanidi]
+PB[Disanidi]
+BR[16k]
+PW[AyaGo6]
+WR[15k]
+KM[2.5]
+DT[2009-05-02,2009-05-03]
+PC[Online Go.com: http://www.online-go.com]
+RE[W+2.5]
+OT[1 days / move]
+RU[Japanese]
+GC[Game ID: 156326]
+
+C[Inego: Hi, I'm Yanis Batura from Novosibirsk, Russia, I play as Googol [7k\] on KGS.
+The review was requested for Black.
+
+Summary:
+The reason why Black lost was the numerous mistakes they made. One certain weakness of Black is their endgame (yose) Playing more real-time games is recommended.]
+;B[pd];W[dp];B[pq];W[dc];B[pk];W[nc]
+(;B[qf]C[Inego: Taking Q9 into account, P17 would've been better (see var).]
+;W[pb];B[qc];W[kc];B[fq];W[ce]C[Inego: Since White didn't answer 11, you should've continued with C6.]
+;B[iq];W[po];B[qo];W[qn];B[qp];W[pn]
+(;B[qj]C[Inego: Strange form. It would be better to put more pressure on the 3 White stones by playing closer to them (see variation).]
+;W[oq];B[or];W[pp];B[nq];W[op];B[qr];W[mo]
+(;B[cn]C[Inego: Maybe too early to tenuki. It would be wiser to settle the area near 26 (see var).]
+;W[eo]
+(;B[ck]C[The common answer is C3 (see var).];W[eq]C[Inego: Attaching is a very aggressive move by W that requires an immediate answer!]
+;B[lq]LB[fp:A][fr:B]C[Inego: A or B is a must. Even if there were no 30 move by W, 31 isn't the the best local option, it's too passive and low. One point higher (M4) is better.]
+;W[fp];B[gq];W[co]C[Inego: Black have let White get a corner when this could be easily prevented.]
+;B[ch]C[Inego: Again, Black stone C6 is left. Now W have a natural strong move D6.]
+;W[mm];B[hc];W[dn];B[cm];W[qb]C[40 is pushing into the corner. Blocking at S18 is a very big move.]
+;B[eb];W[db];B[ec];W[ne]
+(;B[og]C[Inego: Better form is P14 (see var).];W[jn];B[jj]C[Inego: There were better moves. Your top-left group is quite weak and it'd be natural to strengthen it by a move like E15. Also, N9 is a natural pressure at unsettled W group Q6, building territory at the same time.]
+;W[kp];B[kq];W[cg]
+(;B[bg]C[Inego: Bad move, because the natural answer by White is sente. Better is D13 (see var).]
+;W[bf];B[bh];W[dg]C[Inego: 54 is a sente move threatening D12, you must answer it by putting a stone of your color there.]
+;B[nj]C[Inego: N9 works better with your tengen stone.];W[dh]
+;B[di];W[ei];B[dj];W[fg]C[Inego: Your top left group still needs attention.]
+
+(;B[mg];W[rc];B[rd];W[ib];B[hb];W[lf];B[lg];W[er];B[fr];W[rb]
+;B[ic];W[jb];B[lp]C[Inego: This move is very small and should be reserved for yose (endgame).]
+;W[lo];B[jp];W[hn];B[ko];W[kn];B[lj]LB[fe:A]C[Inego: Move A is better since it strengthens your weak group.]
+;W[bo];B[bn];W[fl];B[jf];W[hg];B[ih];W[ik];B[hi]C[Inego: This is small. Try to count how many points it has earned you.]
+;W[kf];B[kg];W[sd];B[se];W[sc];B[rf];W[rn];B[ro];W[ea];B[fa]
+;W[da];B[ie]TR[fa][eb][ec]C[Inego: This move serves no purpose. S8 is much better. Locally, an iron pillar extension to E16 is good, because the triangle stones can be attacked.]
+;W[ed]TR[fa][eb][ec]C[Inego: W punishes by attacking weak black stones.]
+;B[fc]C[Inego: Now the bot can push even further (to F16), enlarging its territory at the same time.]
+;W[fs];B[gs];W[es];B[mf];W[hr]
+(;B[hq]TR[gq][fq][fr]C[Inego: Good. Connecting at G2 leads to lost of the three stones.]
+;W[gr];B[ir];W[hs];B[is];W[gs]
+(;B[me]C[Inego: You could catch the two stones in a ladder (see var).]
+;W[an];B[am];W[ao];B[dm];W[em];B[md];W[mc]
+(;B[gd]C[Inego: Too passive. This means you didn't take what was given to you by your own moves 113 and 119. You had better moves (see var).]
+;W[oe];B[pe];W[ld];B[kd];W[le];B[nd];W[od];B[ke];W[lc];B[pc]
+;W[oc]
+(;B[gj]C[Inego: This move is tiny. K17 is better.];W[dl];B[cl]
+;W[rl];B[rk];W[ql];B[pl];W[np];B[mq];W[fe];B[ge];W[om];B[kl]
+;W[il];B[jk];W[jo];B[kp];W[qk];B[rj];W[jc];B[jd];W[lm];B[ll]
+;W[ml];B[mk];W[nl];B[nk];W[gf];B[fd];W[ee];B[hf];W[ig];B[if]
+;W[jg];B[jh]C[Inego: You are still ahead by a small margin (about 4).]
+;W[ag];B[hh]C[Inego: You should've answered 168 immediately, since this is the endgame.]
+;W[gg];B[ej];W[ah];B[ai];W[af];B[bj]C[Inego: Still ahead.];W[gk]
+;B[fi];W[eh];B[gp];W[go];B[io];W[in];B[ho];W[ij];B[ii];W[ha]
+;B[ga];W[ia];B[sn];W[sm];B[so];W[of];B[pf];W[nf];B[ng];W[pm]
+
+(;B[gh];W[ok];B[oj];W[ol];B[pj];W[hj];B[jm];W[jl];B[km];W[im]
+;B[kk]C[Inego: Not required -- no threat here. Here you lost 1 point for nothing.]
+;W[fh];B[fj];W[sk];B[sj];W[sl];B[tt];W[el];B[tt];W[mp];B[tt]
+;W[fk];B[ek];W[dk])
+(;B[ol]))
+(;B[jc]))
+(;B[nd];W[oc];B[ge])
+(;B[kd]))
+(;B[le];W[ke];B[kd];W[je];B[jd]))
+(;B[gr];W[hq];B[gp];W[hp];B[go];W[gn];B[ho];W[io];B[ip];W[fo]
+;B[ir];W[hs]))
+(;B[fe];W[ke];B[ie];W[dm];B[dl];W[el];B[ek];W[fl];B[fk]))
+(;B[dg];W[df];B[bg];W[cf];B[eg]))
+(;B[of];W[nf];B[ng]))
+(;B[cq];W[cp];B[bp];W[bo];B[bq];W[co];B[dq];W[dm];B[ck];W[cm]
+;B[ch];W[gd];B[ek]))
+(;B[np];W[no];B[lp]))
+(;B[ql];W[no];B[nq];W[ol];B[pi]))
+(;B[oc];W[nd];B[pf]))

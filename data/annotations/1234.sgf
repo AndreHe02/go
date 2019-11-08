@@ -1,0 +1,67 @@
+(;FF[4]GM[1]SZ[19]AP[SGFC:1.13b]
+
+PB[danTheKyu]
+BR[ 7k*]
+PW[Alida]
+WR[ 6k*]
+KM[0.5]
+DT[2000-09-12]
+RE[W+42.5]
+
+;B[pd];W[dp];B[pq];W[po];B[pl];W[np];B[oo];W[op];B[pp];W[qo]
+;B[on];W[rq];B[nr];W[qr];B[lq]C[mimer: M3 look at little to loose. I would prefer N3 because of the weakness at P3]
+;W[oq]C[Mimer: Making an empty triangle is not good];B[pr];W[or]
+;B[os];W[lp];B[kp];W[lo];B[ko]C[Mimer: Black is pushing from behind. This only helps white. L3 is the correct move.]
+;W[mq];B[mr];W[ln];B[kn];W[mm];B[pn]C[Black has to play L3 now !]
+
+(;W[rm];B[qn];W[rn];B[qp]C[Mimer: This is an empty triangle. Black is removing his own liberties and ko threaths.]
+;W[ro];B[rp];W[sp];B[kr];W[qs];B[ps];W[ql];B[qk];W[rk];B[qm]
+;W[rl];B[so]C[Mimer: Black is still removing his ko threaths and liberties.]
+;W[sn];B[qj]C[Mimer: a solid connection at Q9 is better. Now black leaves a cut in his wall making it more difficult to attack the white center group.]
+;W[km];B[in];W[gq];B[cn];W[dn];B[dm];W[co];B[en];W[do];B[em]
+;W[cm];B[cl];W[bn];B[bm];W[bl]C[Mimer: This ko is small compared to a move in the upper left corner.]
+;B[cn];W[jq];B[kq];W[cm];B[ll];W[lm];B[cn];W[ns];B[ms];W[cm]
+;B[sq];W[sr];B[cn];W[qq];B[ns];W[cm];B[jm];W[kl];B[cn];W[ol]
+;B[ok];W[cm];B[fp];W[fq];B[cn];W[om];B[pm];W[cm];B[ep];W[eq]
+;B[cn];W[eo]C[Mimer: This is to small.];B[cm]C[Mimer: Good]
+;W[gn]C[Mimer: White has now played 2 moves to capture 2 stones. Try to imagine E5 and G6 played at D16 and D13.]
+
+(;B[bo];W[bp];B[an];W[fo];B[dd]C[Mimer: Black is feeling good.]
+;W[qh];B[qf];W[rj];B[qi];W[ri];B[ph];W[pg];B[qg];W[rh];B[oh]
+C[Mimer: This sequense is very good for black !!];W[of];B[nk]
+;W[ml]
+(;B[lk]C[Mimer: This is blacks first major mistake. Black had one weak group and white two. Now black is making a heavy group instead of punishing white.
+See Variation.];W[mk];B[lj];W[mj];B[ng];W[nf];B[mg];W[li];B[kj]
+;W[mh];B[kg];W[ki];B[jj];W[ji];B[ij];W[og];B[nh];W[od];B[pc]
+;W[md];B[kd]C[Mimer: Good move];W[ke]
+(;B[kf]C[Mimer: Why not K15 ?];W[je];B[le];W[ld];B[me];W[kc]
+
+(;B[ne]C[Mimer: Although it is very big to connect the black groups. Black has an opportunity to play more agressive. See variation]
+;W[nd];B[oe];W[ii];B[gj];W[hj];B[hk];W[hi];B[il];W[jk];B[ik]
+;W[hm];B[gl];W[if]C[Mimer: now white is connected, but black still has a small lead.]
+;B[gc];W[ic];B[cf];W[cc];B[db];W[dc];B[ec];W[cb];B[cd];W[eb]
+;B[fb];W[da];B[hp]C[Mimer: Black should play the urgent point at E16.]
+;W[gp];B[iq];W[ed]
+(;B[fc]C[Mimer: black can't fight but has to sacrifice.];W[ee]
+;B[ge];W[df];B[ff];W[cg];B[bd];W[bc];B[bf];W[dh];B[eg];W[dg]
+;B[bh];W[bg];B[ag];W[bi];B[ci];W[ch];B[ah];W[af];B[ae];W[ai]
+;B[af];W[cj];B[di];W[ei];B[dj];W[eh];B[ef];W[de];B[ba];W[bb]
+;B[fa];W[ea];B[gh];W[dk];B[ej];W[fj];B[ek];W[gi]C[Mimer: game over, not playing E16 lost the game.]
+;B[fh];W[fk];B[el];W[fi];B[ig];W[hg];B[hf];W[he];B[hh];W[gf]
+;B[gg];W[hf];B[ih];W[fe];B[jg];W[fg];B[nb];W[mb];B[ob];W[se]
+;B[re];W[sf];B[sd];W[rg];B[rd];W[hr];B[ir];W[ho];B[io];W[hq]
+;B[ni];W[mi];B[bq];W[ap];B[cq];W[cp];B[dr];W[aq];B[er];W[br]
+;B[cr];W[ip];B[jp];W[is];B[jr];W[gk];B[gm];W[hn];B[lb];W[ma]
+;B[mc];W[lc];B[nc];W[kb];B[no];W[nj];B[oj];W[ao];B[bn];W[ce]
+;B[bj];W[be];B[aj];W[ad];B[mo];W[mp];B[js];W[hs];B[fr];W[hp]
+;B[rf];W[sg];B[lh];W[kh];B[lg];W[jf];B[na];W[la];B[jl];W[kk]
+;B[oc];W[hl];B[im];W[fn];B[tt];W[fl];B[fm];W[nl];B[nn])
+(;B[ee];W[fd];B[fe];W[gd];B[ge];W[hd];B[gi]))
+(;B[ii];W[jh];B[ig];W[ih];B[hh];W[jg];B[jf];W[if];B[hg];W[ie]
+;B[ne]C[Mimer: White is dead]))
+(;B[lh];W[mi];B[je];W[le];B[jf]C[Now black kills either the top or center group.]
+))
+(;B[nd];W[mf];B[li]C[Mimer: White is separeted and has to defend two weak groups while black is making points.]
+))
+(;AW[dd][dg]AE[gn][eo]))
+(;W[kq];B[lr];W[jq]C[Mimer: Black is in trouble.]))

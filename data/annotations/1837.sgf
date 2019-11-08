@@ -1,0 +1,213 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.13b]
+
+PB[labradors]
+BR[30k]
+HA[2]
+PW[jbriody]
+WR[28k]
+KM[0.5]
+DT[2002-03-29]
+PC[The Kiseido Go Server (KGS) at http://kgs.kiseido.com/]
+RU[Japanese]
+
+AB[pd][dp]C[Dear Robert,
+I hope my suggestions will help you.
+This game was];W[cd];B[pp]C[<tomjk> good. Taking the empty corner here, makes all three stones work together well.]
+;W[jd];B[dj]C[<tomjk> Excellent move! This is the direction White wants to play next. Also Black expands on big scale.]
+;W[nq];B[jp]TR[dj][dp]C[<tomjk> Good large scale move, it develops nicely the two marked Black stones and puts some pressure on White.. Both players play well well up to now.]
+
+(;W[qq]C[<tomjk> One possibility. The joseki starting at "A" seems more promising, as the Black pincer is far and White has some breathing space. See variation.]
+;B[pq]C[<tomjk> Good!];W[qp]
+(;B[qo]LB[po:A]C[<tomjk> Correct move would be at "A". The actual move creates later a dangerous cut at "A" which White might be able to exploit. See variation for joseki sequence.  (joseki = local sequence of moves which gives a satisfactory result for both players, usually josekis appear in the corner of the board).]
+;W[pr];B[oq]LB[or:A]C[<tomjk> the first questionable move in this game. Up to here, both players played very good. This move allows White to connect underneath with "A" and the previous black moves which aimed at keeping the marked white stone separated from the other white stones are wasted. See variation for the joseki sequence.]
+;W[or]TR[pp][oq][pq]C[<tomjk> Now Black is in trouble. Note the marked black stones form an "empty triangle", which is generally a particular inefficient shape in go. Here also these stone remain with two liberties only, wheras all white stones have more than two liberties which make it easy for White to attack them.]
+;B[mp]LB[pj:A]C[<tomjk> If Black wants to give up the three marked stones, then he should play on large scale, e.g. "A" and hope to use the marked stones later in the game.]
+;W[po]
+(;B[oo]C[<tomjk> Better from the other side. See variation.]
+;W[op];B[pn]LB[pj:A]C[<tomjk> this is too small now. Black at "A" looks better. Please compare also with the variation I showed a few moves ago which develops some position for Black on the right side.]
+;W[no]C[<tomjk> good.];B[pp];W[on];B[po];W[np]C[<tomjk> White plays surprisingly strong for a 28k.]
+
+(;B[nn]C[<tomjk> Black should consider that his Q5 group is very weak and might die if Black is not careful. So Black should play from the other side at "A" See variation.]
+;W[om];B[pm];W[nm];B[mn]LB[pk:A]TR[nn]C[<tomjk> Black could also give up the marked black stone and bring his Q5 group out in the open with a move at "A".]
+;W[pl]LB[ol:A]TR[pd]C[<tomjk> strong attacking move. Leaves though a weakness at  "A", which White needs to fix later.]
+;B[ql]C[<tomjk> good];W[pk];B[qk]C[<tomjk> good];W[mo]
+(;B[ln]C[<tomjk> Good. Black keeps White's center group weak , but should be careful with his side group. Black has also the option to play at "A". See variation.]
+;W[ro]LB[qm:A]C[<tomjk> Strong move. White threatens to capture with "A".]
+
+(;B[rn]LB[ol:C][qm:A]C[<tomjk> Black should connect at "A"  and then push out on the top. The white group is then weak in the center and can be attacked.]
+;W[qm]C[<tomjk> unreasonable. Would be a deadly move in case of a white stone already at "A".]
+
+(;B[so]LB[rp:A]C[<tomjk> Atari from the wrong side. (atari = with the next move a stone or group of stones can be captured). Black at "A" captures the marked white stone and Black lives. See variation.]
+;W[rp]
+(;B[sp]LB[rm:A]C[<tomjk> Black can not afford to push ahead right now. Black must first play at "A" to live.]
+;W[sq];B[sn]C[<tomjk> At this point Black must give up his two stones, or will loose all. Again "A" is the right move now.]
+;W[pq];B[qn];W[rm]C[<tomjk> Up to now White has played far above 28k level. White shows good reading ability.]
+;B[lo];W[lp];B[kp];W[lq];B[kq];W[ko];B[jn]C[<tomjk> Good! This is a very important capture.]
+;W[kn];B[km];W[mm];B[jo]TR[dj][dp]C[<tomjk> Good! It is also possible to connect at "A", but here capture looks better, as you get a strong wall facing the two marked black stones. It will be tough for White to invade there in between.]
+
+(;W[qj]LB[qf:A]C[<tomjk> Two small. White has captured all the black stones and can now attack at large scale. A move at  around "A" looks good. See variations.]
+;B[lr]LB[qf:A][ch:C][cq:B]C[<tomjk> Too small. This should be left to the endgame. White will not respond as this move does not threat the life of the white group, but play a big move elsewhere like "A", "B", or "C". "A" looks best, as it extends White's territory and attacks the lone black stone in the corner.]
+;W[mq]LB[qf:A]C[<tomjk> there are much bigger points on the board to take than these 6 points., for example "A".]
+;B[mr]C[<tomjk> Just worth one point, without threatening anything. White will take a big point now.]
+;W[ns]C[<tomjk> I don't understand this move ...];B[nr]C[<tomjk> another endgame move.]
+;W[kr]C[<tomjk> this can not capture Black.];B[ks]LB[jr:A]C[<tomjk> wrong side. Black at "A" captures the white stone. Please verify on your own.]
+;W[jr];B[ir];W[ms];B[js];W[ls];B[jq];W[lr]
+(;B[iq]LB[hq:A][hr:B]C[<tomjk> Better at "A", which will guard also the cut at "B" later. See variation.]
+;W[is];B[hs];W[js];B[hr];W[lm]LB[lc:C][ed:B][cq:A]TR[ja][jb]
+[jc][ad][bd][dd][fd][gd][hd][id][rj][sj]C[<tomjk> this is a wasted move which accomplish nothing. The local fighting has stopped and it is time to assess the situation on the board and determine the next big move.
+1. White has a big right bottom corner , some right side territory and 21 captured stones.  White has secure territory of 52 points and prospective territory of about 27 points, a total of about 100 points.
+2. Let's assume Black plays defensively at "A", Black has territory of about 66 + 3 prisoners, approx. 70 points.
+
+Black is behind in territory. so has to be aggressive. Black can not afford to play passively at "A". A move at "B" or "C" are called for.]
+
+(;B[kn]LB[kk:A]C[<tomjk> a wasted move. White can't do anything here. Please verify on your own. A move at "A" looks correct. See variation if White plays too agressively.]
+;W[kl]C[jbriody [28k\]: that move wasn't necessary--but I get paranoid to
+labradors [30k?\]: <grin>]
+(;B[jk]LB[jl:A]C[jbriody [28k\]: now that is a good move
+labradors [30k?\]: thanks.
+<tomjk> not so good actually, as white can cut at "A" now. Best was to play at "A". See variation.]
+;W[pg]LB[qf:A]C[<tomjk> Finally! :) "A" is even stronger.];B[nc]
+C[<tomjk> good];W[kk]LB[qe:B][jl:A]C[<tomjk> if WHite wants to play here, he should play at "A". But now "B" is more important.]
+
+(;B[kj]LB[jl:A]C[<tomjk> great fighting spirit, but unreasonable here. White can capture at any time the black R6 group. Then any black group in the center above this will face an incredibly strong wall and will have a difficult time to survive. Best here just to play at "A" and be grateful that White did not play there.]
+;W[jj]C[<tomjk> White can first push at "A" and then play here.]
+
+(;B[ji]LB[jl:A]C[<tomjk> very risky. "A" looks better.];W[ij]
+;B[jl]TR[jd][pg][ij][jj][qj][kk][pk][kl][pl][lm][mm][nm][om]
+[on]SQ[ji][kj]C[<tomjk> too late, as now the marked white stones have gained strength. The marked black stones will have a hard time to survive, because of the marked white stones and the strong white wall on the bottom.]
+;W[ii];B[lk]LB[ed:B][nf:A]C[<tomjk> I would now consider moves like "A" or "B". The two marked stones are too much of a burden to try to save them right now.]
+;W[ll];B[li]C[<tomjk> nice  try. Problem is White "A", so this doesn't seem to work.]
+;W[jh];B[kh]C[<tomjk> good];W[ki]
+(;B[lj]LB[lh:A]TR[nc][pd]C[<tomjk> Better to connect now at "A" and try to run to the two marked black stones. See variation. The actual move creates a "heavy" shape whithout possibility to make easily two eyes.]
+;W[lh]LB[ec:B][ed:A][nf:C]C[<tomjk> good. Situation is quite hopeless for Black now. Black should consider to give up this group and play somewhere else ("A", "B" or "C").]
+;B[ji];W[kg];B[lg];W[ki];B[mh]LB[kh:A]
+(;W[mi]C[<tomjk> White can connect at "A" and capture Black.]
+;B[kh];W[ji];B[lh];W[ig];B[mj]LB[kf:A]C[<tomjk> now "A" to get out.]
+;W[ni];B[nh]LB[kf:A]C[<tomjk> again "A"];W[oi];B[oh];W[kf];B[lf]
+;W[le];B[nj]LB[ne:A]C[<tomjk> Black must now play "A" or else is doomed.]
+;W[pi];B[nf]LB[ne:A]C[jbriody [28k\]: very good move
+<tomjk> better at "A". Now White can play "A" and Black muts make two eyes.]
+;W[ne]C[jbriody [28k\]: it was exactly where I wanted to play]
+
+(;B[me]LB[oe:A]C[<tomjk> better at "A". See variation.];W[md]
+
+(;B[mf]LB[oe:A]C[<tomjk> "A" still connects to the corner. See variation.]
+;W[oe]C[<tomjk> difficult for Black now.];B[ld]C[<tomjk> good]
+;W[ke];B[nd];W[mc];B[lc]C[<tomjk> good];W[mb]
+(;B[pf]LB[lb:A]TR[mb][mc][md]C[<tomjk> good move!. Also "A" captures the three marked white stones. See variation.]
+;W[of];B[og];W[pe];B[qf];W[qe]
+(;B[qd]LB[lb:A]C[<tomjk> good, let's see if White makes an error. In any case Black can always capture the marked white stones with "A". See variation.]
+
+(;W[rf]LB[qg:A]C[labradors [30k?\]: good move.
+<tomjk> To me White "A" instead seems correct. See variation.]
+;B[qg];W[ph];B[re]C[<tomjk> very good!];W[rd];B[od]C[jbriody [28k\]: oops]
+;W[se]LB[df:A]C[labradors [30k?\]: I just realized that.
+<tomjk> Black can ignore this and play the big move at "A".]
+;B[qe];W[lb];B[rg]LB[df:A]C[<tomjk> Best move to me looks "A" now.]
+;W[qc]
+(;B[sf]LB[rc:A]C[<tomjk> Just "A" is good enough.];W[pc];B[sd]
+;W[rc];B[sc]LB[nb:A]C[<tomjk> better now at "A" to avoid that White links up.]
+;W[sb];B[se];W[ra];B[qb]C[<tomjk> good try, but unfortunately White is already alive.]
+;W[pb];B[pa];W[oa];B[ob]
+(;W[nb]LB[qa:A]C[<tomjk> woops. White at "A" would be best here. See variation.]
+;B[na];W[rb];B[oc];W[qa];B[oa];W[kc]LB[ed:A][cq:B]C[<tomjk> "A" or "B" for White looks bigger now.]
+;B[ma]LB[df:A]C[<tomjk> too small. "A" is bigger.];W[la];B[qi]
+;W[qh];B[ri];W[rh];B[sh];W[rj];B[si];W[sj];B[sg];W[ol];B[oj]
+;W[pj];B[nk];W[rk];B[oe]C[jbriody [28k\]: not needed--and there is another whole half of the board to play
+<tomjk> that is correct :) Why don't you play then there? ;-) Both players play small endgame moves with big points yet to play.]
+;W[gl]C[<tomjk> Good.];B[hk]C[<tomjk> good fighting spirit. But Black has a difficult fight ahead.]
+;W[gk];B[gj];W[hj];B[ik]LB[hl:A]C[<tomjk> better connect with "bamboo" joint at "A".]
+;W[fj];B[gi];W[fi];B[fh];W[gh]C[labradors [30k?\]: rats.
+labradors [30k?\]: I looked right at it too.
+jbriody [28k\]: labradors at this pace you'll lose every game on time
+labradors [30k?\]: sorry.
+labradors [30k?\]: I think too much.]
+(;B[gm]LB[fn:A]C[<tomjk> too close to the enemy stones. Proverb: if you attach to an enemy stone, the enemy stone will get stronger. Locally "A" look good now. But of course there is still the corner open for invasion. See variation.]
+;W[fm];B[gn]C[jbriody [28k\]: think terriotry
+<tomjk> yes.];W[fn]C[jbriody [28k\]: or territory ;-)
+labradors [30k?\]: got it...I'm just very analytical, andtry to think of too many things at once.
+<tomjk> you should develop your reading ability by doing "tsume go" (tsume go = go problems). A good book is "Graded Go Problems for Beginners Vol.1.]
+;B[gg];W[hi];B[hh];W[il];B[hl];W[im];B[hm];W[in];B[ho]C[<tomjk> good sequence.]
+;W[go];B[fo];W[gp];B[fq]LB[fp:A]C[<tomjk> dangerous ... better at "A" for secure capture.]
+;W[fp];B[eo];W[hp];B[io];W[ep];B[eq];W[do]LB[dq:A]C[<tomjk> now the cut at "A" will be an issue later. Hopefully Black will get there first. :)]
+;B[en];W[dn];B[em];W[fl];B[el]LB[dm:A]C[<tomjk> "A" looks better.]
+;W[ek];B[dl];W[dk];B[cm]C[<tomjk> "A", so White doesn't get forcing moves to which you have to respond.]
+;W[cl];B[dm];W[cn];B[bm];W[bn];B[bl];W[ck];B[bk]
+(;W[dq]C[<tomjk> too bad, White got the cut ... just he cut the wrong way. See variation.]
+;B[cp];W[cq];B[bp];W[bq];B[gq]C[<tomjk> great move!];W[bj];B[cj]
+;W[ak];B[ej];W[fk];B[bi]C[<tomjk> very good moves!];W[aj];B[hq]
+LB[ai:A]C[<tomjk> Good. Also "A" is possible.];W[ci];B[ai];W[di]
+;B[al];W[ei];B[bj];W[ap];B[ip];W[bo]
+(;B[an]LB[er:A]C[<tomjk> White can not get an eye there. So best now is to play at "A" and kill all the white stones in the corner. See variations.]
+;W[ao];B[am];W[er];B[fr];W[ds];B[ep]LB[co:A]C[<tomjk> a wasted move. Not necessary until White plays at "A"]
+;W[aq]C[<tomjk> Final comment:
+This game was quite strange, as up to move 50 your opponent played in way that would be around my strength. Then from move 51 on he played much weaker.
+I wouldn't jump to conclusions, but if the game was played on the interner it might be that he got some help in the beginning of the game. Another conclusion may be that he is already stronger than 28k.]
+)
+(;B[er]
+(;W[dr];B[bs]
+(;W[cs];B[br])
+(;W[br];B[ds]))
+(;W[bs];B[dr];W[ar];B[cr])
+(;W[ar];B[bs];W[cs];B[cr];W[ds];B[dr])))
+(;W[cp];B[dq]
+(;W[cq])
+(;W[bj];B[cj];W[bi];B[bo];W[co];B[cq];W[bp];B[bq];W[ao];B[aq]
+;W[am])))
+(;B[fn];W[cq];B[cp];W[dq];B[eq];W[bp];B[bo];W[bq];B[cn];W[er]
+;B[fq];W[ds]))
+(;W[qa];B[na];W[pa];B[nb]))
+(;B[rc];W[sd];B[sc];W[sf];B[sg]))
+(;W[qg];B[rf];W[re];B[rg];W[rd];B[rc];W[rh]))
+(;B[lb];W[nb];B[ob]))
+(;B[lb];W[nb];B[ob];W[oc];B[od]
+(;W[pb];B[pc])
+(;W[pc];B[pb];W[qc];B[pe];W[of];B[pf];W[og];B[qg];W[ph];B[qd]
+)))
+(;B[oe];W[mf];B[of]))
+(;B[oe];W[of];B[me];W[nd];B[md]))
+(;W[kh]
+(;B[mi];W[mg]
+(;B[ng];W[mf];B[nh];W[nf])
+(;B[lf];W[ng]))
+(;B[ni];W[mg];B[lf];W[ng])
+(;B[mg];W[mi];B[ni];W[mj];B[nj];W[mk];B[og])))
+(;B[lh];W[lj];B[le]LB[ec:B][ed:A]C[<tomjk> still not a good result. In any case a move at "A" or "B" looks bigger than reducing white's territory a bit.]
+))
+(;B[jl];W[lj];B[ij];W[ji];B[ii];W[jh]))
+(;B[jl];W[kj];B[jj]))
+(;B[jl];W[kk];B[jk];W[kj];B[qg]))
+(;B[kk]C[<tomjk> this attacks White and develops territory for Black.]
+;W[kl]C[<tomjk> if White plays agressively here ...];B[jl];W[ll]
+;B[jk]C[<tomjk> Black camly defends, securing more territory for Black while White gains virtually nothing.]
+))
+(;B[hq];W[is];B[hs];W[js]C[<tomjk> if now White protects, Black can play elsewhere. Please compare with the actual game, where White comes out first from the exchange. It is important in Go to look out for moves which let you come out first from a local fight to take the next big point.]
+))
+(;W[qf]
+(;B[qh];W[qc];B[qd];W[pc];B[od];W[rd];B[re];W[rc];B[qe];W[nc]
+;B[pf];W[qj]C[<tomjk> This is a possible outcome. White gets the corner and also the two black stones. Black doesn't get much for his stones on the outside, because there are already white stones present.]
+)
+(;B[qd];W[of];B[nd];W[mf]C[<tomjk> White makes a big moyo on the right side. (moyo = area which may become territory later)]
+)))
+(;B[rm];W[pq];B[qn];W[sp];B[sn]))
+(;B[rp];W[rm];B[so]C[<tomjk> White can not do anything. Please verify on your own other variations.]
+;W[pq];B[sm];W[rl];B[rk]))
+(;B[qm]LB[qi:C][qj:A][rn:B]C[<tomjk> If White plays at "A", Black can live with "B". If White "B", Black can play "C" to get out.]
+))
+(;B[pj];W[oj];B[ok];W[ol];B[oi];W[nj];B[qi]LB[ni:A]TR[ok]C[<tomjk> White gets bend around and Black gets a nice wall which works perfectly with his stone in the upper corner. Note the importance of the sacrificed Black stone (marked stone). If Black gets to play at "A" now, then ... see continuation.]
+;W[lp]C[<tomjk> let's suppose White plays elsewhere ...];B[ni]
+
+(;W[mj]LB[mi:A]C[<tomjk>  See variation to understand why White should not play at "A".]
+;B[mi]C[<tomjk> Black gets a splendid wall.])
+(;W[mi]C[<tomjk> White should not play here, or else ...];B[nk]
+LB[mj:A][mm:B]C[<tomjk> ... Black can capture either with "A" or  "B". "A" and "B" are miai. (miai = two points to play which accomplish the same thing).]
+)))
+(;B[om];W[nn];B[pk]))
+(;B[pn];W[oo];B[qj];W[qn];B[qm];W[ro];B[pm]C[<tomjk> not very impressive, but now Black gets some development on the right side.]
+))
+(;B[po]C[<tomjk> this protects the cut I mentioned before.]
+;W[pr];B[or];W[qr];B[oq];W[qn]TR[pd]C[<tomjk> this is important, as White avoids to get sealed in into the corner; also prevents that Black builds a wall facing the marked Black stone.]
+;B[np]C[<tomjk> this is important, as it captures the white stone and Black secures territory on the left side to compensate the territory White gets in the corner.]
+))
+(;W[no];B[pn];W[pr];B[qq];W[kq]LB[hq:A][qr:B]C[<tomjk> White can later aim at invading at "A" or take profit at "B" in sente. (Sente = move which keeps the initiative)]
+))

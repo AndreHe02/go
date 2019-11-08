@@ -1,0 +1,379 @@
+(;FF[4]GM[1]SZ[19]ST[0]CA[UTF-8]AP[SGFC:1.17]VW[]
+
+PB[igolove]
+BR[12k]
+HA[2]
+PW[grimaldi]
+WR[10k]
+KM[0.5]
+DT[2010-08-19]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[B+88.5]
+TM[1500]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+AB[pd][dp]C[Hi, I am grimaldi on KGS.
+I played white and lost by about 80 points.
+
+I made a terrible blunder early on and was behind from the beginning.
+None of my ideas was able to make the gap smaller.
+Was the timing wrong? Are the ideas wrong? Was it hubris to continue playing? Please advice
+
+Thanks for reviewing this game.
+
+
+Saurus: Hi Grimaldi
+
+I am Saurus, 6 kyu on KGS, and I will review the game for the white side.
+
+I have marked your questions with "Grimaldi" and my comments with "Saurus."
+
+I reviewed this game on three levels:
+
+- Firstly, I gave detailed comments where I thought you could have improved on individual moves.
+
+- Secondly, where you made the same errors a few times throughout the game, I wrote those comments as "Lessons" There are nine of them in all, and you should take special care to avoid the mistakes  in these "lessons" in future games. These "lessons" can be found at relevant moves throughout the game.
+
+- Thirdly, I have summarized the keys points that I think you should improve on in the last move of the game. These key points are gross strategic blunders, and are things that you need to change in your overall way of thinking about Go in general.
+
+I hope this review helps!
+
+Regards
+Mark (Saurus)];W[dd];B[pp];W[qj];B[fd];W[cf];B[dc];W[cc];B[ec]
+(;W[bd]LB[cb:A]SQ[cc][dc][ec][dd][fd]C[Grimaldi: A looks more natural now.
+In the game I wanted to complete the marked "good" shape.
+
+
+Saurus: Yes, B was a disaster! As you have suggested, A was the correct move here. 
+
+What you are missing is that the purpose of the Tiger's Mouth shape is to prevent black from cutting. Since your stones are on the edge, black cannot cut anyway. Therefore your move has no purpose. Since black did not have to respond, you have just given him a free stone, thereby effectively increasing the handicap to three stones.
+
+
+(See variation)
+
+LESSON 1: Don't play moves just because proverbs say they're good, or because they're good shape. If there is no  purpose for playing these moves, they actually do more harm than good.]
+;B[cb];W[cn]C[Saurus: This is a good extension from the top right, but it does commit you to keeping control of the left side.]
+;B[ic]
+(;W[fq]C[Saurus: A double kakari is in theory a good move, but it has to have a purpose. 
+
+With a handicap game, I can understand that you want to develop quickly. However, in this game, you have committed five stones to taking the left side. Allowing black to invade the left is like committing suicide. If black invades the left, what territory do you have left?
+
+Protect your investments at all costs! This doesn't mean playing a slow move in gote, but what about something like e16. This helps the bottom a lot, and is sente. Then attack the bottom.
+
+[See variation\]
+
+LESSON 2: If you've invested many stones into something in fuseki, it is too valuable to sacrifice.]
+;B[co];W[dn];B[eq]
+(;W[ep]LB[fo:B][fp:A]C[Grimaldi: A or B confine black, wouldn't they?
+
+Saurus: 
+W-d10 is essential here.
+
+Again, you have good ideas, but you are carrying them out at the expense of territory. Never forget that it is the person with the most territory at the end of the game who wins, not the person with the best tesuji's or spectaclar kills.
+
+In answer to your question, A is the correct response locally. B shouldn't be played unless you're willing to sacrifice f3. E4 was a mistake, since contact moves should never be used for attack - only for defense.
+
+Nonetheless, d10 was still the correct play globally.];B[eo]
+;W[fp];B[dq]
+(;W[do]C[Saurus: The end result of the sequence in the next three moves is that black has cut your groups apart, and not the other way round.
+
+As the board stands now, f6 is the key point. Whoever takes f6 has a huge advantage.
+
+This is probably the right time in your Go development to study the 1-2-3 rule: http://senseis.xmp.net/?path=SequencingQuestions&page=OneTwoThree
+
+The rule states that if there is a sequence 1-2-3, don't play 1-2-3. Rather just play 3. This retains sente and gets you the key point.
+
+You will see this principle applied consistently in all high level games, and it is one of the most important concepts in Go.
+
+For example,  in this position, consider the sequence:
+1: w-d5 2: b-b5
+3: w-f6
+
+The problem is that it allows black to skip 2 and take the key point at 3: f6.
+
+If you rather played f6 immediately, then you have the key point and retain sente. ie. If black now connects at d5, you have sente and can tenuki at o3, putting white in an excellent position in the game. This is not good for black. As a result, black cannot play d5 in gote, so you gain the option to cut at d5 at any stage of the game, giving you the cut AND the key point.
+
+LESSON 3: If there is a sequence 1-2-3, don't play 1-2-3. Just play 3.]
+(;B[bo]
+(;W[dj]C[Saurus: This became a catastrophe for white. F6 was the most vital point on the board shape-wise, and was the only move. You cannot let two weak groups get cut apart! Ever!]
+;B[fn]C[Saurus: Ouch!];W[jq];B[bn];W[bm]C[Saurus: This was a reflex move, and is the type of move you should avoid. How many points of territory have you saved with this move? Since you will have to play c8, it doesn't count, so we have: a9, b9, c9, c7 - a total of four points of territory.
+
+Remember that you are white in a handicap game. You cannot follow black around!
+
+Tenuki was a good option!];B[fr];W[cl];B[gr];W[gq]C[Saurus: Don't try to save everything. The three stones were worthless in this position. They have no potential for development. They don't cut any groups apart. They are too weak to attack anything with. In general, protecting them was worth six points in gote.
+
+Alternatively, tenuki is considered to be at least 25 points in the opening, and is therefore a much better option.]
+;B[hr];W[hq];B[ir];W[iq]C[Saurus: You are lucky that black has been so kind as to run along the second line. Suddenly your weakness has become a strong wall!]
+;B[mq]
+(;W[qn]LB[el:A][fl:B][lo:C]SQ[fn][eo]C[Grimaldi: Would A or B be better than R6?
+(Drive the marked black group into the wall, which is save at the moment?)
+Or would C be better?
+
+Saurus: I am really glad that you commented this game the way you did - your thoughts and reasoning in your post-game analysis are proving to be even more useful than the game itself...
+
+You are indeed correct that an attack on the two f6 stones is the correct strategy in this situation. However, you are misinterpreting the lesson of pushing a group towards your strength.  Yes, you have a wall, but it is weak, because it has no base!
+
+What we are dealing here is a vitally important concept called the "direction of play."
+
+Have a look at the first variation starting with B: f8...
+w-b8  b-h6 (suddenly white wall is in trouble)
+h-h8  b-k6 (Now the white wall is dead)
+
+[See variation\]
+
+On the other hand, try pushing the black stones towards your STRENGTH, rather than towards your wall...
+w-h7  b-f8
+w-h9  b-f10
+w-g12!
+
+Black doesn't stand a chance!
+
+[See variation\]
+
+LESSON 4: Push enemy stones towards your STRENGTH!];B[el];W[dk]
+C[Saurus: Why d9?
+
+What deadly sequence does black have if you ignore him and don't play d9?
+
+Remember, you are white in a handicap game - you CANNOT follow your opponent around.
+
+The golden rule for handicap go...
+
+"Every move that black plays that white does not have to respond to catches up one handicap stone."
+
+Adopting this mindset almost guarantees victory when playing white in handicap games.]
+;B[em]
+(;W[en]LB[en:B][fo:A]C[Grimaldi: A looks better to me, than B.
+
+Saurus: Both moves are huge mistakes. After b-f5, you cannot cut at f7, because the ladder is favourable for black. Why play it now and force black to destroy any chance you get to connect later. Rather wait until you have a white ladder breaker, and then you have real chances of connecting.
+
+LESSON 5: Do not play move that destroy aji!];B[fo]
+(;W[dm];B[dl];W[cm];B[am]
+(;W[al]LB[ck:A][al:B]C[Grimaldi: what a blunder...
+
+Saurus: Yes - a terrible oversight!];B[ck];W[cj];B[bl]C[Grimaldi: Is now the time to resign?
+
+I thought no, top right is undecided, bottom right can be made small. Some edge territory for white in the making.
+
+Saurus: Let's consider the two factors that determine who is ahead on the board:
+
+1) Who has the most TERRITORY?
+2) Who has the most POWER?
+
+1) TERRITORY
+Black has about 13 point on top + 28 point bottom left + 9 prisoners = 50 points.
+White has about 8 points on the left.
+
+Black has a huge lead in territory. However, territory alone does not determine the outcome until the endgame. We must also consider who has the most power, and if it is enough to balance out the territory...
+
+2) POWER
+Left: White's group on the left is alive and strong. However, both black groups on the left side are settled, and cannot be attacked. Therefore, in terms of power, the left is equal.
+
+Bottom right: Both black and white have unsettled groups. Neither are strong enough to attack from, and both need a few strengthening moves befor they can do much good. Therefore, bottom right is roughly equal in terms of power.
+
+Bottom: White has a very weak group stuck between two living black groups. Black is far ahead on power here.
+
+Top: Black's control of the top is undisputed.
+
+Summary:
+Black has a HUGE lead in territory.
+Black has a HUGE lead in power.
+
+Verdict:
+White should resign
+
+LESSON 6: Understand the balance between territory and power, and how to evaluate the game according to these two criteria.
+(Excellent reading on this topic can be found in the book:
+Elementary Go Series Volume 5 - "Attack and Defense" by Ikira Ishida and James Davies (http://senseis.xmp.net/?AttackAndDefenseTheBook)]
+;W[jo];B[bj];W[bi];B[qo];W[pn];B[rn];W[rm];B[ro]
+(;W[lp]LB[no:A][lp:B]TR[pn]C[Grimaldi: In hindsight I think I should've played A instead of B. What do you think?
+
+Or was Q6 bad for reducing the corner?
+
+Saurus: What happens if black plays r7? You can't respond with r8, because you lose the ladder. You can't respond with q7, because black will steal your base.
+
+Again, you are failing to protect your investments! R8 was urgent!]
+(;B[no];W[nn];B[mo];W[lm];B[mn];W[mm];B[nm];W[on];B[ol]C[Saurus: This was slack by black. He should have cut your groups apart firmly with b-o8.]
+;W[pl];B[oj];W[qf]C[Grimaldi: Is this too far?
+
+Saurus: Yes, because you don't yet have a base for your group. This means that if black plays at r12 immediately, you will have to play a move to protect your group, and black will get to attack r14 severly with r15 in sente. This will split the right into two weak groups. If your group is weak, play r13.
+
+On the other hand, if your group was completely alive, then b-r12 could be met by w-r17, so the move would be good.
+
+LESSON 7: Don't  create two weak groups!]
+(;B[qe];W[re];B[rd];W[rf];B[pf];W[pg];B[of];W[nl];B[pk];W[om]
+;B[ok];W[qk];B[og];W[ph];B[oh];W[jc]LB[oh:2][ph:1]C[Grimaldi: the marked exchange and those before gained nothing, only made black thick, with large influence into the center.
+
+I should have invaded at move 78.
+
+Saurus: Correct];B[pi];W[qi];B[ko];W[kn];B[lo];W[jm];B[kp]
+(;W[nc]C[Grimaldi: Is this too far away / too near at black group?
+
+How to invade this large space?
+
+Saurus: The proverb: "Contact moves for defense" gives us insight as to how to live in an opponent's moyo.
+
+Invading an opponent's moyo means you will be the one under attack, and therefore can be seen as a defensive situation. Therefore:
+
+- Make as many contact moves as possible. (These will strengthen your opponent, but this is OK, since it is you that has to live.)
+- Make as many cutting points as possible.
+- Important: Be prepared to give up a few stones to live elsewhere
+- Play fast and light moves such as two-space jumps and large knught's moves. (Playing one-space jumps and solid extensions tend to make your group heavy, and difficult to sacrifice in order to live elsewhere.
+
+o17 is one space too far, since you cannot make a base if b-m17. n17 would be better. However, I would probably have played j18 first to help making a base in sente. Even j16 gives white a few opportunities.
+
+(See variations)];B[kc]C[Saurus: Black is punishing the too-long jump. m17 would have been better still.]
+(;W[jd]C[Saurus: Hane at j16! Make complications and give yourself options!
+
+(See variation)];B[jb];W[id];B[hc]
+(;W[kd]TR[nc]C[Grimaldi: Wrong direction?
+(Making black to strong and weakening my marked stone?)
+
+Saurus: I think it's OK. When you invade, you can't have everything.]
+;B[lc]
+(;W[md]C[Grimaldi: I should have continued the crawling (see variation).
+The intention was to split the black groups.
+
+Saurus: Correct - you should have kept pushing black along the third line.
+
+LESSON 8: Never try and cut two living groups! Its a waste of a stone and serves no purpose whatsoever! Only cut weak groups apart!]
+;B[ld];W[le];B[me];W[mf];B[ne];W[nf]C[Grimaldi: The variation from 102 on is superior.]
+;B[nd];W[mc];B[kb]
+(;W[mi]LB[kf:A][mi:B]TB[cl][bm][cm][dm][cn][dn][en][do]C[Grimaldi: Is A more urgent than B?
+
+Saurus: A was the only move! Again, you are not protecting your weaknesses.]
+;B[ke];W[lf];B[je]
+(;W[ie]C[Saurus: Another directional mistake. You're pushing black against your weak group (n14) making it weaker and weaker.
+
+See variation for the correct directional play.
+
+(See variation)];B[jf];W[if];B[jg];W[ih];B[kh]SQ[le][lf][mf]
+[nf][mi]C[Grimaldi: Now my marked stones get crushed into the wall.
+
+Saurus: Aha! This is a direct consequence of you pushing black into your weakness.]
+;W[mg]C[Saurus: Bad shape! The n14 group has empty triangles and will be much easier to attack. Play m12 or n12.]
+;B[mj];W[li]C[Saurus: Black returns the favour of pushing you against his weak group.]
+;B[ki];W[lj];B[kj];W[lk];B[jk]
+(;W[ff]C[Grimaldi: Get "save" first, then "attack".
+
+This seems to be the loosing move, as black has ~40 point at top, 30 + 30 in other edges, while I have only 18 points at right edge.
+
+Should I've tried to separate the bottom left and middle black groups instead or is the game already lost?
+
+Saurus: Theoretically, you are correct. f14 is the correct move.
+I think your j15 group is in danger and the variation shows what might happen if you attack it. However, in this game, you are far behind, and attacking first with w-h8 makes complications. If ither side makes a mistake, they may lose the fight and a big group. At this stage, you need complications, so I would probably have played w-h8. However, please forget that  I said this, because in a normal game, where you are not desperate, f14 was the correct move.]
+;B[hl]C[Saurus: Running away with knight's moves is a good as suicide. Black gave you his group on a platter.]
+;W[il];B[ik];W[hk]C[Saurus: Good!];B[hj]
+(;W[hi]LB[hi:B][gk:A]SQ[cj][dj][dk]C[Grimaldi: another losing move.
+Now blacks groups are connected.
+
+Is A futile?
+I guess killing the middle groups means loosing points on top left, especially the marked group.
+
+Saurus: I think you could have killed with A, and also saved the left. Even if you didn't succeed with both, how are the three stones on the left bigger than black's center group?
+
+LESSON 9: A cutting stone must be saved at all costs!
+
+I agree that after omitting A, your last hopes flew out the window.]
+;B[gk];W[fi];B[ee];W[df];B[ef];W[eg];B[de];W[ce];B[bc];W[cd]
+;B[fg];W[bb]C[Saurus: ??? Why kill one stone in gote while your entire center is in danger!!!???]
+;B[eh];W[dg];B[fh];W[db];B[eb];W[ca];B[ed];W[gf];B[gi];W[gh]
+;B[gj];W[fj];B[ii];W[hh];B[oc];W[fk]C[Saurus: This is smaller than the h3 group!
+
+The rest of the game is just regular endgame moves.
+End of comments.
+
+Go to the last move for a summary of key points, and what you need to do to improve.]
+;B[fl];W[jh];B[kg];W[ji];B[jj];W[ni];B[oi];W[nj];B[im]
+(;W[jl]LB[il:B][in:A]SQ[ep][fp][fq][gq][hq][iq][jq]C[A seems vital for the marked group.
+So saving B was a bad idea.
+(See also variation on next node)];B[in]
+(;W[jn];B[jp]C[I saw no way to save my group.
+
+Here I should have resigned at latest.
+What follows is endgame (and another blunder).];W[io];B[ip]
+;W[ho];B[hp];W[gc];B[gd];W[hd];B[gb];W[dh];B[kq];W[hm];B[gp]
+;W[gm];B[gl];W[go];B[oo];W[po];B[qq];W[ge];B[ai];W[ah];B[aj]
+;W[ch];B[ag];W[bh];B[ek];W[ej];B[ig];W[hg];B[sd];W[se];B[qg]
+;W[rg];B[qh];W[rh];B[ql];W[pm];B[rl]
+(;W[sm];B[qm]
+(;W[rk]
+(;B[nk];W[sl];B[mk];W[ll];B[ml];W[nm];B[ea];W[da];B[nh];W[mh]
+;B[kk];W[kl];B[ij];W[gn];B[sn];W[tt];B[tt]TB[fa][ga][ha][ia]
+[ja][ka][la][ma][na][oa][pa][qa][ra][sa][fb][hb][ib][lb][mb]
+[nb][ob][pb][qb][rb][sb][fc][gc][mc][nc][pc][qc][rc][sc][md]
+[od][qd][oe][pe][pg][ph][ak][bk][hk][al][cl][bm][cm][dm][an]
+[cn][dn][en][ao][do][so][ap][bp][cp][ep][fp][lp][mp][np][op]
+[qp][rp][sp][aq][bq][cq][fq][gq][hq][iq][jq][lq][nq][oq][pq]
+[rq][sq][ar][br][cr][dr][er][jr][kr][lr][mr][nr][or][pr][qr]
+[rr][sr][as][bs][cs][ds][es][fs][gs][hs][is][js][ks][ls][ms]
+[ns][os][ps][qs][rs][ss]TW[aa][ba][ab][cb][ac][bc][ad][ae][be]
+[he][af][bf][hf][sf][ag][bg][cg][fg][gg][sg][eh][fh][sh][ci]
+[di][ei][ri][si][rj][sj][sk][ql][rl][im][km][qm][hn][in]C[Saurus: This was a wonderful game to review, because your comments really gave me insight into your way of thinking.
+
+Your post game analysis was spot-on, and you have an excellent grasp of the theory of Go, but the application thereof didn't always work out. In my opinion, this is primarily due to three gaps in your understanding of the game:
+
+1) You need to make sure your groups are stable before playing away. You tend to tenuki one move before your group is stable, leaving behind cutting points and weaknesses. Playing the extra stone will mean your development across the board may be a little bit slower, but the power that you will gain from the strength of your group will outweigh the slow development a hundred times over! Have a look at a few pro games. You will see that they always value the stability of a group over development.
+
+2) You tend to attack your group from the wrong direction. Always attack an enemy group by extending from your weaker group and pushing it torwards your stronger group. Doing it this way will firstly strengthen the weak group, because of the extra stones you have played from it, and secondly, will give you a huge amount of influence on the outside of the attacking stones. If you have a stable group that you are pushing your enemy against, this means that you will not have to stop the attack and play a protective stone at all. All of your stones can be used for attack, and you are much more likely to kill. This goes hand in hand with point 1 above, and also shows why it is so important to have stable groups.
+
+3) The third point is specific to handicap Go. Remember that when you are playing white, every stone your opponent plays that you do not have to respond to, catches up one stone. Therefore, for every move, think to yourself: "Can I ignore his move?" Similarly, playing black, every move must keep pressure on white, and as long as you prevent white from ignoring your moves, you will win. This way of thinking will do wonders for your handicap Go.
+
+I hope you have enjoyed my review, and that you will dfind my comments useful!   :)
+
+Regards
+Mark (Saurus)])
+(;B[nm]))
+(;W[nm];B[sl];W[rk];B[sn];W[sk]))
+(;W[qm];B[sm];W[nm];B[sk];W[sj];B[sn];W[rk];B[sl]))
+(;W[ho];B[jn];W[hm];B[hn]LB[in:A]C[bad for white]))
+(;W[in];B[jl];W[hm];B[il];W[hn]))
+(;W[gk];B[gj];W[fk];B[ek];W[fj];B[ej];W[ei];B[fi];W[gi];B[fh]
+;W[hi]
+(;B[ij];W[gl];B[hm];W[gm];B[gn];W[hn])
+(;B[di];W[ij];B[ci];W[gl];B[hm];W[gm]
+(;B[hn];W[gn];B[ho];W[go];B[dg])
+(;B[in];W[hn]
+(;B[im];W[jn];B[io];W[ho];B[dg])
+(;B[jn];W[io];B[dg])))))
+(;W[hl];B[hj];W[gk];B[gh];W[gf];B[fg];W[ff];B[ef]))
+(;W[jg];B[ie];W[ni]C[Strengthen so black can't invade from this side.]
+;B[oi];W[hl]C[White has made a LOT more territory that the eight points you gave up!]
+))
+(;W[kf]))
+(;W[ld];B[mc];W[md];B[nd];W[ne];B[od];W[mf]))
+(;W[hd];B[gd];W[kd];B[lc];W[ld];B[mc];W[md];B[nd]))
+(;W[id];B[jd];W[hc];B[ib];W[je];B[kd];W[ie]C[Saurus: White should live now, and even has some influence towards the center.]
+))
+(;W[id])
+(;W[ib];B[hc];W[mc]C[Saurus: Something like this...]))
+(;B[qh]
+(;W[qc];B[rl]C[Saurus: You will struggle to live here.])
+(;W[rk];B[qe]C[Saurus: Not good for white.])))
+(;B[qm]
+(;W[pm];B[ql];W[pl];B[qk];W[pk];B[rl])
+(;W[ql];B[pm];W[om];B[pl];W[pk];B[ol];W[nl];B[ok];W[oj];B[nk]
+)))
+(;W[no]))
+(;W[ck]))
+(;W[dl]))
+(;W[fo];B[en]))
+(;W[fl];B[hn];W[hl];B[jn]C[The white wall is as dead as disco.]
+)
+(;W[hm];B[fl];W[hk];B[fj];W[gh]C[Game over!
+
+White is already miles ahead in a handicap game.]))
+(;W[fn]C[Saurus: This point is so strong that now a black invasion will be terrible for black.]
+(;B[dj];W[fj]C[Saurus: Now you can attack d10 severely, and your influence controls nearly half the board.]
+)
+(;B[bn]C[Saurus: If b-b6, then...];W[nq]C[Tenuki!])))
+(;B[fn]))
+(;W[fn];B[do];W[nq]))
+(;W[fp])
+(;W[dj]))
+(;W[en]C[Saurus: Now the left is much harder for black to invade successfully, and it's sente.]
+;B[fp];W[hq]C[Saurus: Now white is much better off than in the actual game.]
+))
+(;W[cb];B[cd];W[bd];B[ce];W[de];B[be];W[bf]C[...so black cannot cut at c16!]
+))

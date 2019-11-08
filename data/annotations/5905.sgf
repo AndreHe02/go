@@ -1,0 +1,211 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+PB[ottomated]
+BR[12k]
+PW[Psiko1]
+WR[12k]
+KM[6.5]
+DT[2007-05-02]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[B+17.50]
+TM[2400]
+OT[5x40 byo-yomi]
+RU[Japanese]
+
+C[Thanks in advance for the review.
+
+I found this game to be fairly messy, I got it in my head that I would lose early on in the game.
+
+
+General comments:
+
+Remember the essential guideline for the direction of play:
+Corners first, then side, then centre.  Both Black and White played too many small moves while ignoring large moves in the corners and sides.
+
+Be willing to give up stones if they no longer cut or keep friendly groups connected.  Stones that cut 2 enemy groups that are already alive are not interesting stones.
+
+Before making a play, remember to ask yourself if your groups are safe.  Are there weak groups?  If so, help them!]
+;B[qd];W[dp];B[dd];W[pp];B[kc];W[jp];B[qn]C[I wasn't sure about this move, it seemed good.
+
+I just now checked fuseki.info and it listed this as being correct fuseki.]
+;W[nc]LB[pb:A][ne:B]C[I didn't know how to handle this invasion. I am fairly weak when it comes to invading and responding to invasion.
+
+The key is to try and stay thinking flexibly.  This invasion is probably too early, and will give black an advantage in securing territory.  
+
+My thoughts on this invasion:
+
+White:
+1.  White ignored the R6 approach move; this will give black a local advantage later.
+2.  White played into the smallest part of the board, and into black's sphere of influence. 
+
+Looking at O17, I see 2 ways for white to run:
+
+A. (or a similar move) into the corner
+B.  out into centre.
+
+When planning an invasion, one should try to have 3 ways to run, to maximize flexibility.  So white is in a disadvantage.
+
+
+Black:
+As black, I want to put pressure on the invading stone to gain as much profit as possible.
+
+Possible moves:
+
+1.  I can take away A to gain profit in the corner and further pressure on white.  This was black's choice in this game.  But Q17 seems overkill: white is already in a pincer, why pincer white twice?
+
+2.  I can take away B (or at least put pressure there) to profit along the side
+
+Personally, I like option 2 the most:]
+(;B[pc]C[I just checked on SL and read a little about chinese fuseki. It said that the point of it is that white has to invade at some point. Black should use his attack against the invasion to make more territory elsewhere. So by blocking here I am negating the usefulness of this fuseki.
+
+David> I couldn't say it better.  But still, black's defense of the corner is still a 60-70% move.  Profit while putting severe pressure on white.  
+
+See variations at move 8];W[lc];B[kd];W[ld]
+(;B[kf]C[M15 tactically superior I think.];W[lf]C[I wasn't sure how to respond to this either, I knew I needed to respond to a contact move, so I played M13.]
+;B[lg]TR[kg]C[I'm not sure I like this as much as simply extending to L13.  It won't be easy to kill white, so attaching back like this leaves a risky cutting point at L13 without any clear advantage to driving white into the side (just where black would like to profit).]
+;W[mf];B[ph];W[ke];B[je];W[le];B[jg];W[jd]
+(;B[jc]C[Maybe J16 instead? give up L17 group, but build thickness?
+
+Hard for me to say, but I think I agree.  The thickness (see variation) is very attractive.  White would gain only 6-8 points while black gets a powerful wall. (variation)]
+;W[id];B[ic];W[ie];B[jf];W[hf]C[White is playing too heavy here.  A weak, floating group.]
+
+(;B[gd];W[hc]
+(;B[hd]C[Deceptive, I thought black was ok as well, before I counted liberties.]
+;W[hb];B[ib];W[ia];B[ja];W[kb];B[gc];W[jb]TR[cn][on][rp][nq]
+SQ[gb]C[G18 is worth about 6-8 points?  There are bigger moves to make.]
+;B[gb];W[oe]TR[pf][qf]C[The key points in this shape are Q14 and R14.  Q14 will touch a white stone, but this stone seems very strong to me.  So, I would vote for Q14.  More profit compared to Q15 (black's move in game) and R14.]
+
+(;B[pe]C[White is strong here, he should play elsewhere.];W[of]
+;B[pf];W[oh]C[this move again];B[pi]C[Good.  Just extend - 3 point of pure profit and if white chases, he is pushing from behind.]
+;W[pg];B[qg];W[og];B[ch]C[I played close because of J15, I was worried about another invasion. This still looks way too clase to me, but I'm not sure where I should have played.
+
+
+I think this is actually too *far*.  White can invade into the corner.]
+
+(;W[cj];B[cn]TR[cc][qk]C[I am not sure about this invasion.  
+
+Black has a top corner to fix first and also the right side is very ripe for a white invasion.
+I think playing to fix these is more urgent.];W[cl]
+(;B[bp];W[cq];B[en]C[ok.  Pressure on white's small side group.]
+;W[el];B[gn];W[gp]C[Seems unfortunate to give white all this bottom though.]
+;B[gl]LB[cl:A]TR[cc][qk]C[Coming back to these weaknesses, I think this is still urgent.
+
+With G6, black is well out into the centre.  And the white A group is probably alive now.  Pressuring it to make centre influence doesn't make sense so long as black has serious weaknesses elsewhere.]
+;W[gj];B[fk];W[ej];B[fj];W[fi];B[ei]C[All this is late middle game stuff and there is still early (big) moves waiting.]
+;W[di];B[eh];W[dh];B[dg];W[eg];B[fh];W[gi];B[ci];W[dj]
+(;B[fg];W[cg];B[df];W[bg]C[Big loss for black.];B[be];W[ef]
+;B[ff];W[ee]
+(;B[ed];W[de];B[cf];W[fe];B[ge]C[I wanted to resign here.];W[ce]
+;B[bf];W[cd];B[cc];W[bd];B[bc];W[ae];B[fd];W[af]LB[fg:A]TR[oi]
+[on][rp][nq]C[These stones at A no longer serve any purpose on the board.
+They are worth 10 points (gote).  I think moves in the lower right part of the board are worth much more.]
+;B[gf];W[hg]C[Again, defending the right side, or reducing white's bottom influence is bigger than centre.]
+;B[jj];W[mg];B[lh];W[jn];B[il];W[gk];B[fl];W[bm];B[bn];W[ac]
+;B[ab]C[misread.
+
+It's a nasty ko.];W[bb];B[ad];W[cb];B[db];W[ac];B[dc];W[aa]
+;B[ca];W[ad]
+(;B[eb]C[Not needed.
+Black can kill G10 stones to live with ease.];W[ga];B[fa];W[ba]
+
+(;B[da];W[ab]
+(;B[om]C[at this point I saw my goal as being to connect and reduce white's moyo. I still had an invasion posability around N4, but I needed to give life to my dragon.
+
+
+1.  What Dragon?  K13?  After Black chooses to defend the F9 stones, the white G10 stones are an important target.  (see previous variation at move 119).  Capturing these stones would make the k13 stones strong.
+
+2.  P7 seems to neither help the K13 stones much nor make profit on the right side, nor reduce white's possible moyo.  Here I would argue that white doens't have a moyo yet, but certainly has potential.  P7 would simply help white solidify the bottom.
+
+See possible moves in variations on move 125];W[hh];B[mn]C[Again, this is too much into the centre when there are better moves in the sides.]
+;W[kl];B[mj];W[kj]
+(;B[ki];W[jh];B[ji];W[ih];B[kk];W[kh];B[kg];W[jk]
+(;B[ik];W[lk];B[lj];W[kk]
+(;B[ij];W[im];B[hm];W[mh]
+(;B[oj];W[mi];B[li];W[mk];B[nk];W[nl];B[ol];W[nm];B[nn];W[ml]
+
+(;B[np]C[wasn't sure if O4 or N4 was better. I chose O4 because I figured I would either take the corner or slide to the left, N4 looked like white would have a chance to block me on both sides.
+
+O4 will certainly break up white's stones.  But will allow for white to profit in the corner.
+
+O3 is better I think - black can build a group easily on the side while putting more pressure on the corner.  (or simply invade the corner).]
+;W[nq];B[mq];W[oq];B[kq];W[jq];B[rp];W[qp];B[qo];W[rq]C[Lots of white profit.  This could have been avoided I think.]
+;B[ro];W[po];B[pn];W[no];B[mo];W[oo];B[on];W[kp];B[kr];W[lq]
+;B[lr];W[lp];B[mp];W[ln];B[op]TR[ob][ho][ep][ir][jr][nr]C[Filling Dame.
+
+There are much bigger (and sente) moves.];W[nr];B[mr];W[pr]
+
+(;B[sq];W[sr]C[white kills his group here.];B[qq];W[pq];B[rr]
+;W[qr];B[rq];W[ni];B[nj];W[oi];B[pj];W[rs];B[os];W[jr];B[jm]
+;W[km];B[in];W[io];B[ho];W[hp];B[ob];W[oc];B[nb];W[mb];B[od]
+;W[nd];B[pd];W[rg];B[rh];W[rf];B[re];W[em];B[eo];W[ep];B[bq]
+;W[br];B[cm];W[am];B[an];W[bk];B[ar];W[bs];B[go];W[fo];B[fn]
+;W[fp];B[fm];W[dn];B[do];W[dm];B[ek];W[dl];B[dk];W[ck];B[cp]
+;W[dr];B[js];W[is];B[ks];W[hr];B[lo];W[ko];B[lm];W[kn];B[mm]
+;W[jl];B[im];W[hk];B[hi];W[gh];B[if];W[he];B[ma]C[obvious mistake on my part, was playing too hastily and didn't look at the situation.]
+;W[la];B[pb];W[na];B[oa];W[ma];B[tt]C[I pass missing 2 points at H19.
+
+well, not quite 2 points, since it is a ko.];W[ha];B[tt];W[as]
+;B[aq];W[hl];B[tt];W[tt]TW[ja][ka][ib][lb][ic][jc][kc][mc][kd]
+[md][be][me][ne][bf][cf][df][nf][ag][dg][ng][ah][bh][ch][nh]
+[ai][bi][ci][aj][bj][ak][al][bl][jo][ip][dq][eq][fq][gq][hq]
+[iq][cr][er][fr][gr][ir][cs][ds][es][fs][gs][hs]TB[ea][pa][qa]
+[ra][sa][fb][qb][rb][sb][ec][fc][qc][rc][sc][rd][sd][qe][se]
+[qf][rf][sf][rg][sg][qh][sh][qi][ri][si][qj][rj][sj][ok][pk]
+[qk][rk][sk][pl][ql][rl][sl][gm][pm][qm][rm][sm][hn][rn][sn]
+[ao][bo][co][no][oo][po][so][ap][pp][qp][sp][nq][oq][pq][nr]
+[or][pr][qr][sr][ls][ms][ns][ps][qs][rs][ss]C[Thanks again for the review.]
+)
+(;B[rr]C[Have a look at this clamp tesuji.  Nice reduction.]
+;W[sq]C[white cannot cut.];B[qq];W[pq];B[qr]))
+(;B[nq]C[black has thickness above.  N4 and O4 seem too close to black's thickness.]
+))
+(;B[oi]C[More solid and slightly larger]))
+(;B[oi]C[This way looks like more profit to me.];W[ni]C[White can't cut.]
+;B[nj];W[oj];B[ok];W[pj];B[qj];W[pk];B[pl];W[qk];B[rk]))
+(;B[lj]C[Just take.]))
+(;B[mh]C[Just connect]))
+(;B[on]C[More pressure on the white Q4 stone, but does nothing to prevent 4th line profit for white.]
+;W[np])
+(;B[nq]C[I like this invasion: break up white's stones.
+Possible outcomes follow.]
+(;W[oo];B[kq];W[jq];B[kp];W[ko];B[pr];W[qq];B[pm])
+(;W[oq];B[np];W[pn];B[kq];W[jq];B[nn];W[pm];B[qm])))
+(;B[ab]))
+(;B[hh]C[I think this is the best way to cut. (not certain).]
+
+(;W[gh];B[gg];W[hi];B[ih])
+(;W[ij];B[ii];W[hi];B[ih];W[gh];B[gg];W[ik];B[hk];W[hj];B[jk]
+)
+(;W[gg];B[gh];W[ih];B[ii];W[jh];B[kh])))
+(;B[de]C[Connect.];W[fe];B[ge]))
+(;B[df]C[Side before center.]))
+(;B[fq]C[Maybe it is time black tries to break up this san ren sei.]
+;W[eo];B[dr];W[cq];B[iq];W[jq];B[dm]))
+(;W[cc]C[White can calmly take the corner away without worrying about black outside influence.]
+
+(;B[cd];W[dc];B[ec];W[eb]
+(;B[bc];W[bb];B[bd];W[ca];B[fb];W[db];B[ea];W[ab])
+(;B[fb];W[da];B[bc];W[bb];B[cb];W[db];B[bd];W[ab]))
+(;B[dc];W[cd];B[ce];W[be];B[bf];W[cf];B[de];W[bg];B[bd];W[af]
+;B[bc];W[df];B[ef]C[Black can force this, but is over-concentrated on the top (2 5-line walls 2 spaces apart) and C12 is very weak.]
+)))
+(;B[pf]))
+(;B[hb]C[Black must hane below here,];W[gc]C[then a fight, but I think black is in the better position.]
+))
+(;B[hc]C[Probably a few different options here, but I like this simple move best.
+
+It looks slow, but it makes a base of 4, rather than 3.  There is a proverb of extending to 4.]
+))
+(;B[id];W[jc];B[ic];W[jb];B[ib];W[kb];B[dj];W[ie];B[jf]C[This cut isn't so bad if black has a stone around D10 already.]
+))
+(;B[le]C["hane at the head of two"];W[me];B[mf]C[black can put immense pressure on this little group.]
+;W[ne]
+(;B[kf])
+(;B[lf])))
+(;B[pf]C[Here, black is putting pressure on whtie's escape route into the center while building along the side.
+White's instinct will likely be to run or live in the corner.]
+N[Option 2]
+(;W[pb];B[ne]C[But living with some of the corner seals white in with ease.  Not a good outcome for white.]
+)
+(;W[ne];B[ke];W[ng];B[ph]C[and running out just gives black more right side profit and center and top side power.]
+)))

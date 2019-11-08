@@ -1,0 +1,176 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+PB[Johnny5]
+BR[7k]
+PW[Gosnake]
+WR[7k]
+KM[6.5]
+DT[2008-07-17]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[W+Resign]
+TM[1800]
+OT[5x10 byo-yomi]
+RU[Japanese]
+AN[woldsom aka John Raymond Wold, KGS 2k]
+GC[Reviewed via the Go Teaching Ladder]
+
+C[Hello there.  I felt that I could have won this game but I made a mistake somewhere.  I was hoping that I might be able to get just an overall review since I'm not really sure about specific areas of my play which would need help.
+
+
+- You made one big mistake which led to your resignation, apart from that you were leading the game. I'll give some pointers on the game in general (look to the last node in the main line), but will focus on the end situation that lead to your loss.]
+;B[pd];W[qp];B[dd];W[cp];B[jd];W[nc];B[pf];W[ne]C[This is curious by white. San-ren-sei, the three-star opening, is used for influence, which white seems to try to combat here. But by doing so you can get a huge corner, merely by playing Q18]
+
+(;B[lc]LB[pb:B][lc:A];W[pb];B[qc];W[cf]C[Another curious move. White is nowhere near settled, and you can take advantage of his tenuki to chase him around, dominating the game.]
+;B[fd];W[ci];B[jq];W[np];B[mq]C[This is too close to white, and just helps him solidify the corner, and make the long extension to O4 work well. Expand in the other direction instead.]
+;W[nq];B[ep];W[gq];B[dq];W[cq];B[dn];W[dp];B[fq];W[eo];B[fo]
+;W[en];B[gp];W[ek];B[em];W[fm];B[fn];W[do];B[fl];W[dm];B[el]
+;W[dl];B[gm]C[Balanced play so far. White gets almost secure territory (the only aji I can see would be if you played C6), but so do you, and with more outward influence.]
+;W[hd]C[I wasn't really sure of the best way to approach this play.  What are some good responses to plays like this?
+
+- Well, it's a splitting move, so just connect around it somehow. An attaching move above or below usually accomplishes this. Your middle group is too weak, and need strenght for an attack on whites top right group, so just expanding the corner group is not the best move.]
+
+(;B[bd]LB[hc:B][bd:A][he:C];W[hb];B[gc]C[This just strengthens white, while still leaving an open skirt on your group that white exploits later. If you want to block white from the corner, play on the same line as his lowest stone, probably F18]
+;W[hc];B[if];W[kb];B[lb];W[kc]
+(;B[ld]LB[kd:B][ld:A]C[Blocking white works.];W[kd];B[le];W[ng]
+
+(;B[qi]LB[ke:B][qi:A]C[Much too submissive. White is leaning on your right to gain a free advantage, but have essentially tenukied from the top position, which you should exploit.]
+;W[pg]
+(;B[qg]LB[of:B][qg:A]C[Again too submissive. Attack white, he's weak here!]
+;W[ph];B[qh];W[je];B[ie];W[id];B[lg];W[lq]C[White makes another unwarranted tenuki; continue on the old position to gain a decisive advantage.]
+
+(;B[lr];W[mp]
+(;B[kq]LB[kq:A][mr:B]C[This just gives white the edge advantage. Connect instead.]
+;W[mr];B[ql];W[pm];B[rn];W[qm];B[rm];W[rp];B[oj];W[mh];B[jf]
+;W[ke];B[kf];W[mf];B[lf];W[ge];B[ki];W[mj];B[kk];W[nk];B[pl]
+;W[om]
+(;B[ef]LB[oc:C][ef:A][gg:B]C[This does nothing now, as white is already connected and alive at the top. Focus instead on grabbing centre territory, or possibly securing the top right corner]
+;W[gg];B[eh];W[fk];B[gk];W[fi]
+(;B[fh]LB[fh:A][gj:B]C[You can accomplish the same thing and at the same time expand your centre.]
+;W[gh];B[dj];W[dk]
+(;B[di]C[You can try cutting big here.];W[cj];B[ch];W[bh];B[cg]
+;W[bg];B[ko];W[km]C[Another splitting move, the same solution applies; attach to the stone.]
+
+(;B[ln]LB[jm:C][lm:B][ln:A];W[ll];B[nn];W[on];B[hi];W[hh];B[ii]
+;W[ih];B[jh];W[gj];B[hk];W[im];B[ml];W[lk];B[ol];W[nl];B[nm]
+;W[mm];B[lm];W[mk]C[I think that if I had connected at N6 rather than cutting I may have been able to kill the entire dragon.  Is this true?
+
+
+- Quite likely. Either way white would have to defend himself.]
+
+(;B[kl]LB[kl:A][mn:B];W[mn];B[qo];W[po];B[qb];W[pc];B[od];W[nd]
+;B[nb];W[ob];B[mb];W[oc];B[of];W[nf];B[ni];W[mi];B[nh];W[mg]
+;B[og];W[oe];B[pe];W[df]
+(;B[eg]LB[ff:B][eg:A]C[Better to make a bamboo joint here (it's as safe as a solid connection), since it also threatens to cut white, and helps the connection to your corner.]
+;W[dg];B[dh];W[fe];B[ee];W[ea]C[This monkey jump is pretty much what destroyed my chances of even possibly winning this game.  I was wondering if there was a good response.
+
+
+- There are several, the game is by no means lost.]
+(;B[eb]C[This works, as you will see, but might not be the best move]
+;W[da];B[fa];W[fb];B[cb];W[db];B[dc];W[ec];B[ca];W[ga];B[ed]
+C[This move is seven points, and there are larger moves on the board, even if it is reverse sente.]
+;W[ce];B[be];W[bf]
+(;B[fc]LB[fc:A][cd:B]C[This is really the big mistake. It's a half-point gote move, when you have to defend your group. With a move at B here, you would probably win by 5-10 points]
+;W[cd]C[Now your big one is dead, but you can still save some stones in the corner.]
+
+(;B[cc]LB[bc:B][cc:A];W[ae];B[ac];W[bb];B[gb];W[ha];B[eb];W[fa]
+;B[gi];W[gf];B[jb]C[You should have read this out fully when the situation first arose. White is alive and well.]
+;W[jc];B[ka];W[ib];B[ja];W[ia]C[Anyway, I hope that this game wasn't too painful to watch.  I look forward to reading your review.
+
+Johnny5
+
+
+- As a closing commentary, I'd say that you played a fairly good game. Some mistakes in reading, but everyone makes those (just deeper and deeper in the variations as you progress). In general, I'd advice to you focus your reading on situations with ataris and forcing sequences; you seem to have some blind spots when they come about, either playing too fast, or ignoring variations that you should consider. Try to look on forcing sequences as warning bells to look closer on a situation; most of the time it will be as simple forced sequence leading to a good result for the one that forces, but when they don't, you will lose out by playing along, on either side. Another advice would be to always consider tenukis; both recognizing when a situation has stabilized enough to play away, and to recognize when it hasn't, and the opponent makes a mistake in moving away. Don't blindly follow him around.]
+)
+(;B[bc]LB[bc:B][cc:A];W[cc];B[ab]))
+(;B[cd]LB[fc:A][cd:B]))
+(;B[fa]
+(;W[fb];B[da];W[eb];B[db];W[ec];B[dc];W[ed];B[de];W[bf]C[This way you end up with practically as many points, but end up in sente. If white does not connect at B14, you get 12-13 points here, which is probably too much to give up for white.]
+)
+(;W[ec]C[White can't play this, because of a lack of liberties, but it's a complex situation to read out, so if you were short on time white might have tried it.]
+;B[eb]
+(;W[dc]C[This is white's best continuation, but you will always be one liberty ahead.]
+;B[fc];W[db];B[fb]
+(;W[ed];B[cc];W[de];B[cd];W[cb];B[bb])
+(;W[cc];B[cd]
+(;W[ed];B[bc]
+(;W[bb];B[da];W[cb];B[ab])
+(;W[gb];B[cb]))
+(;W[bc];B[da]
+(;W[ed];B[ac];W[ca];B[bb];W[ea];B[cb])
+(;W[ca];B[bb]
+(;W[ed];B[ac];W[ea];B[cb])
+(;W[ab];B[ba]
+(;W[ed];B[cb];W[ac];B[ad])
+(;W[ad];B[ae];W[ac];B[bf])))))
+(;W[da];B[cc])
+(;W[bb];B[cc];W[cb];B[bc]
+(;W[ed];B[ab]
+(;W[gd];B[da];W[gb];B[ba])
+(;W[de];B[cd];W[be];B[da]))
+(;W[da];B[ab])))
+(;W[ed];B[dc]))))
+(;B[ff]LB[ff:B][eg:A]))
+(;B[mn]LB[kl:A][mn:B]C[Even should white live, you will get to play at A, and you now then have the threat of P5.]
+
+(;W[kl]C[This would be silly of white, and only played if he didn't recognize the danger.]
+)
+(;W[oi];B[of];W[nf];B[og];W[oh];B[nj];W[ni];B[li];W[mi]
+(;B[qb])
+(;B[mg];W[pj];B[ok];W[pi];B[qj];W[qb];B[rb];W[pc];B[qd];W[mb]
+;B[la];W[ob];B[od];W[nd];B[ma];W[na];B[mc]C[I don't see any way white can get two eyes.]
+))
+(;W[of];B[oh]
+(;W[oi];B[pi])
+(;W[pi];B[oi];W[pj];B[ok];W[qj];B[rj];W[rk];B[ri];W[og];B[qk]
+))))
+(;B[lm]LB[jm:C][lm:B][ln:A];W[ll];B[kl];W[ln];B[jm];W[kn];B[jn]
+)
+(;B[jm]LB[jm:C][lm:B][ln:A];W[kl];B[jl];W[kn];B[jn];W[lo];B[kp]
+))
+(;B[cj];W[di];B[ej];W[ei]
+(;B[fj];W[gj];B[hj];W[gi];B[bj];W[cn];B[bh];W[bg];B[ch];W[dh]
+;B[cg];W[bi];B[ai];W[dg];B[ah];W[ag];B[aj];W[bf]C[There are probably variations that work though; explore on your own.]
+)
+(;B[gj];W[fj];B[gi]C[- If all you want is to cut.])))
+(;B[gj]LB[fh:A][gj:B]))
+(;B[gg]LB[oc:C][ef:A][gg:B])
+(;B[oc]LB[oc:C][ef:A][gg:B]C[Or, if you don't think white will make any mistakes, just R18.]
+
+(;W[ob];B[nd];W[md];B[od];W[me];B[mc])
+(;W[od];B[ob];W[nb];B[pc];W[oa];B[qb];W[pa];B[qa];W[na];B[oe]
+;W[nd])))
+(;B[mr]LB[kq:A][mr:B];W[kq];B[kr]
+(;W[jp];B[kp];W[lp];B[ko]C[White doesn't have room to maneuver here.]
+)
+(;W[ko];B[jo];W[jp];B[ip];W[kp];B[io])))
+(;B[pi])
+(;B[oj])
+(;B[mi])
+(;B[mj]))
+(;B[of]LB[of:B][qg:A]
+(;W[nf];B[og]C[Black's move was wasted, unless he wants to start yet another front for his already losing fight.]
+)
+(;W[og];B[nf];W[qg]C[You should be quite happy with this.]
+(;B[mg])
+(;B[ql]))))
+(;B[ke]LB[ke:B][qi:A]C[B K18 will capture three stones, so white will probably play K17 in an effort to save the whole top group, allowing you to return to A.]
+))
+(;B[kd]LB[kd:B][ld:A];W[ld];B[md];W[le];B[me]
+(;W[lf];B[mc]
+(;W[jc];B[mf]C[You're happy with a big top right corner.])
+(;W[mf]
+(;B[jb])
+(;B[nd])))
+(;W[mc];B[lf]C[Ladder works.])))
+(;B[hc]LB[hc:B][bd:A][he:C];W[ic];B[id];W[gc];B[gd]
+(;W[he]C[White can't play this.];B[hb])
+(;W[hb];B[he];W[hc];B[gf]C[The ladder works for you, so this is sufficient to connect. White now has to live small, while you get to use the opportunity to get much stronger for an attack on black's right top.]
+;W[jc];B[kd];W[kc];B[md];W[nd];B[lb];W[ec];B[dc];W[fc];B[ed]
+;W[db];B[cb];W[ea];B[bc];W[kb];B[oh]C[You can really lean on white here, taking most of the right side without trouble.]
+))
+(;B[he]LB[hc:B][bd:A][he:C];W[id];B[ie];W[gd];B[ge];W[fc];B[ee]
+;W[ec]
+(;B[dc];W[ed])
+(;B[ed];W[jc];B[kd]C[This looks to be better for white, but you still get a wall towards the center, and can heavilly attack white's right top.]
+)))
+(;B[pb]LB[pb:B][lc:A]))

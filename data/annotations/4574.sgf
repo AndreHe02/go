@@ -1,0 +1,169 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+PB[jmp]
+BR[16k]
+PW[kknowles]
+WR[15k]
+KM[0.5]
+DT[2005-08-23]
+PC[The Kiseido Go Server (KGS) at http://kgs.kiseido.com/]
+RE[B+2.50]
+TM[1200]
+OT[3x40 byo-yomi]
+RU[Japanese]
+
+C[jmp [16k\]: hi];B[pd]C[kknowles [15k\]: hi];W[dp];B[pp];W[cd]
+;B[ed];W[ee];B[fe];W[de];B[ec];W[ff]C[Somehow I would like to have prevented black 11, but I felt that this move was also very large.
+
+> I believe this move is better than Black 11... and you're fault was in not taking full advantage of it (see variation from 12)]
+;B[cj]
+(;W[cm];B[cf]C[I think black 14 at C13 would be stronger.  C14 just invites an attack (but maybe white's attack is not the best choice?)
+
+> D12 means safety for the black group, but G15 means safety for another, I would go for G15, attacking the black stones there, maybe even killing them. Then with far increased powers on the board I would go for the black group on the side... I'd done an example sequence]
+
+(;W[ch];B[ce];W[dd];B[df];W[ef];B[dh]
+(;W[ci];B[di];W[bj];B[cg];W[ck];B[dj];W[jc];B[hc];W[mc];B[nc]
+;W[ge];B[cc];W[fd];B[dc];W[fc];B[bd];W[nd];B[oc]
+(;W[je]C[White 38 seems a little slow, since the area white has is so narrow, but I was worried about H17 moving out.]
+;B[pj];W[qn];B[qp];W[qk]C[I don't like White 42, and have since heard it is a bad shape, almost as universally bad as the empty triangle.
+
+The empty triangle isn't universally bad, I don't think this is either... I don't mind it at all]
+;B[qj];W[ro];B[rp];W[rj];B[ri];W[rl];B[sj];W[rk]
+(;B[qi]C[Black 51 seems a little uneccessary and gives white a chance to escape.
+
+>agreed... but I don't think you can leave the cut unprotected, I've suggested O14 as it develops the side territory and protects the cut aswel.]
+;W[on]
+(;B[mq]C[black is a bit conservative... just a comment that she should be a little more outgoing here... (one of the variations a side lesson)]
+;W[jp];B[cq]
+(;W[cp]C[White 56 seems like the wrong direction.  I've tried to show variations, but I'm not strong enough to trust them.
+
+>your variations are trustworthy, and you are correct...];B[dq]
+;W[eq];B[er];W[fq];B[bp];W[bo];B[bq];W[co];B[fr];W[gq];B[nf]
+C[Black 67 at P14 would secure a lot of territory, couldn't be cut, and would still reduce white.
+
+> black can't be cut with this move (with the right play), which I believe to be the best]
+;W[oe]
+(;B[pe];W[of];B[od];W[ne];B[pf];W[og];B[pk];W[pl];B[md];W[ld]
+;B[mb];W[me];B[kq];W[pg];B[qg];W[lb];B[nb];W[eb];B[db];W[jj]
+;B[mn];W[eg];B[dg];W[gi];B[dk];W[cl];B[mj]C[Black 95 seems like a good reduction to me.]
+;W[lh];B[mh];W[mg];B[li];W[nh];B[mi];W[kh];B[ki];W[ji];B[jn]
+
+(;W[kn]C[I feel that this was my worst move of the game.  Looking back, I must have been trying to take too much out of the center, but this won't accomplish that anyhow.  It is hard to know what I was thinking!
+
+> yes, you're probably right, but this is a part of the game where it's very difficult to find a good move]
+;B[hn]C[This response seems odd, but effective.  I should have block on that side if I wanted the territory.]
+;W[mo];B[no];W[oo];B[np];W[op];B[oq];W[nn];B[ln];W[km];B[lo]
+;W[im];B[jo];W[in];B[ko];W[io]C[At this point, it looks like white wasn't punished for the previous bad move.]
+;B[iq]
+(;W[fl];B[hp];W[go];B[ho];W[gn];B[hm];W[ik];B[hl];W[il];B[ip]
+;W[hr];B[ir];W[sp];B[sq];W[so];B[rq];W[is];B[js];W[hs];B[jr]
+;W[gm];B[gk];W[ph];B[qh];W[nl];B[nj];W[bg];B[bf];W[bh];B[fb]
+;W[gb];B[fa];W[ga];B[ea];W[gc];B[fh];W[gh];B[fg];W[gg];B[el]
+;W[em];B[dl];W[eh];B[fi];W[ei];B[fj];W[dm];B[fk];W[hj];B[jm]
+;W[kl];B[gl];W[fm];B[gr];W[hq];B[gp];W[fp];B[qo];W[rn];B[ml]
+;W[gs];B[cs]C[Was this black move necessary for life?  What about D2 or D1?]
+;W[es];B[ds];W[fs];B[dr];W[ap];B[br];W[aq];B[ar];W[ao];B[nm]
+;W[om];B[mm];W[ma];B[na];W[la];B[kj];W[jk];B[po];W[pn];B[sk]
+;W[sl];B[si];W[af];B[ae];W[ag];B[nk];W[ol];B[kk]C[moves like this can be temporarily ignored with moves like E10, black must answer, so you can then return to connecting at K8... this is an important principle]
+;W[jl];B[ll];W[gj]C[pointless];B[ej];W[oi];B[ni];W[pi];B[oj]
+;W[hk];B[tt]C[Overall, I feel that black should have won by more, but let himself get pushed around in the endgame.]
+;W[tt]TW[ha][ia][ja][ka][hb][ib][jb][kb][hc][ic][kc][lc][gd]
+[hd][id][jd][kd][md][fe][he][ie][ke][le][gf][hf][if][jf][kf]
+[lf][mf][nf][hg][ig][jg][kg][lg][ng][ah][hh][ih][jh][oh][ai]
+[bi][hi][ii][aj][ij][ak][bk][al][bl][ql][am][bm][pm][qm][rm]
+[sm][an][bn][cn][dn][en][fn][sn][do][eo][fo][ep]TB[aa][ba][ca]
+[da][oa][pa][qa][ra][sa][ab][bb][cb][eb][ob][pb][qb][rb][sb]
+[ac][bc][pc][qc][rc][sc][ad][qd][rd][sd][be][qe][re][se][qf]
+[rf][sf][rg][sg][rh][sh][lj][ek][lk][mk][mo][jp][kp][lp][mp]
+[jq][lq][nq][pq][qq][cr][kr][lr][mr][nr][or][pr][qr][rr][sr]
+[as][bs][ks][ls][ms][ns][os][ps][qs][rs][ss]C[I think your main areas to work on are,
+
+> beware of dogma, just because everyone believes something doesn't mean it's true, even if stronger players, tell you something without giving you reasons (as is usually the case with statements like "empty triangle is bad"... or else people may give you strange answers like "it has few liberties"... as if we're playing capture-go), especially in reviews, it's your job to check it out, experiment, decide for yourself if what they're saying is true (if you can't confirm this, it either means they're wrong or you don't properly understand... both good reasons to challenge them)
+
+> punish your opponent. Early in the game you made a good move that was ignored, take advantage of it. 
+
+> in the endgame try and seize the initiative, even if you hand it back to the other player, you end with more points.
+
+As for the general comments you made with your review request:
+> useless moves are things no go player can truely avoid until a high level.
+>I've added comments where I feel moves are of interest, but the main focus are the questions you ask, only you can say if you're not asking enough questions (ie. if you're not getting enough out of the review).
+
+Apart from that your play was nice and fun, if you've got any questions (or challenges) I'd be delighted to answer them.
+
+- Jon])
+(;W[ip]TR[hq][jq][hr][ir]C[I'd rather move here... leaving you the marked moves later... a black move in your territory is to be expected...]
+;B[fl];W[fm];B[gm];W[gl];B[em];W[fn];B[el];W[en]C[white has more territory, and more potential to make territory here]
+))
+(;W[in]))
+(;B[ne];W[od];B[md];W[of];B[og];W[me];B[ld];W[ng];B[mf];W[pg]
+;B[oh];W[pf];B[qd];W[lf];B[le];W[mg];B[me];W[lc];B[lg];W[kf]
+;B[mh]C[cutting is not possible]))
+(;W[dq];B[cp];W[co];B[bo];W[bn]
+(;B[do];W[cn]C[This seems bad for black.])
+(;B[dr];W[er];B[cr];W[eq];B[bp]C[This seems better for white, but is my play for black too self indulgent?  I feel like it must be.]
+;W[go]C[maybe a move like here would be the nice finishing move]
+)))
+(;B[no])
+(;B[mp])
+(;B[lq])
+(;B[iq];W[mq];B[mp];W[np];B[lq];W[mo];B[lp];W[nq];B[or];W[oq]
+;B[pq];W[nr];B[rr];W[pr];B[qr];W[os];B[fq]C[Black now has two safe groups and has much of what was earlier neutral territory, at slight loss in the corner.
+
+Up to 59 black's aim was to let white cut them, but at the cost of giving her good shape on the new fertile grounds of the bottom.]
+))
+(;B[nf]
+(;W[on];B[md];W[me];B[ld];W[lc];B[le];W[ne];B[mf];W[oe];B[of]
+;W[pe];B[qe];W[pf];B[qf];W[pg];B[lg])
+(;W[oe];B[ne];W[od];B[md];W[me];B[ld];W[le];B[of]))
+(;B[tt];W[qi];B[qh];W[pi];B[oi];W[ph];B[pg];W[oh];B[nh];W[og]
+;B[of];W[ng];B[mg];W[nf];B[ne];W[mf]C[see, the ladder doesn't work]
+))
+(;W[le]C[this move prevents h17 moving out (you're right, I think there's need for preventing this) and is less narrow than the other... it's also better for the right side.]
+;B[md]C[The cut is taken into account];W[ld];B[me];W[mf];B[ne]
+;W[nf];B[oe]C[These are moves to gain thickness on the outside.]
+))
+(;W[di];B[ci];W[dg];B[eh];W[cg];B[ej]C[black makes shape];W[ge]
+C[white takes the important point of G15, and black has less of the side...
+
+white also has the points F11 and D9 that may be useful later as threats.]
+))
+(;W[ge];B[hc];W[fd];B[fb];W[dj]
+(;B[dk];W[di];B[ci];W[ck];B[cl];W[bk];B[dl];W[bl];B[dh];W[fj]
+)
+(;B[di];W[ei];B[dk];W[ej];B[dh];W[ck];B[cl];W[bk];B[bj];W[dl]
+;B[bh];W[jp]C[This I think is probably a reasonable sequence, white taking the important point of K4, or may feel happier removing any threats the two black atari-ed stones may pose.]
+)))
+(;W[ge]C[this is quite a painful move, and black should have avoided it by playing G15 instead of 11... I've gone into a few variations to show you that it does indeed seem quite troubling for black]
+
+(;B[fd]C[First... if black tries to save everything...
+
+the general theme of these variations is that black may live, but in a tiny space... and whatever happens white will gain a massive outer wall, leading you in the lead.]
+;W[gd];B[gb];W[gc]
+(;B[fb];W[hb]
+(;B[db];W[cb];B[ea];W[ga])
+(;B[cb];W[bb]
+(;B[bc];W[cc];B[db];W[ac];B[ea];W[ga];B[ca])
+(;B[cc];W[bc];B[db];W[dd];B[ea])))
+(;B[hb];W[fb]
+(;B[fc];W[eb];B[dc];W[db];B[cc];W[bc];B[cb];W[bb];B[ca];W[ba]
+;B[da];W[dd])
+(;B[eb];W[fc];B[fa];W[ic];B[ib];W[jc]C[This may continue, but white has made massive profit whatever happens next]
+)))
+(;B[hc]C[Second, if black tries to play lightly,];W[fd];B[fb]
+TR[fd][ee][ge][ff]C[the four stones form the powerful shape ponnuki, and provide the entire shape with a strength it did not have earlier... all of which will help you when it you attack the black stone
+
+I've given an example of such a sequence];W[cl];B[ej];W[fk]
+C[this move aims at pushing black toward your strength, to gain a wall below...]
+;B[fi]C[I only do a few variations, and only for this move... the general message here is that they are all only possible because of the strong shape above... and the life and strength it assures...]
+;W[gi]
+(;B[gh];W[gj];B[eh];W[hh])
+(;B[gj];W[fj]
+(;B[gh];W[hi];B[fg];W[hh]
+(;B[hg];W[ei];B[fh];W[eh];B[eg];W[dg];B[dh];W[di];B[ch];W[gg]
+;B[gf];W[ef];B[gg];W[ig])
+(;B[eh];W[gg]))
+(;B[fh];W[gh];B[gg];W[fg])))
+(;B[cm]C[if black leaves his group
+
+white is free to protect his stone however he chooses... or take the profit at the top]
+)))

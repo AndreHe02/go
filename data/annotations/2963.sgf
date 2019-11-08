@@ -1,0 +1,279 @@
+(;FF[4]GM[1]SZ[19]ST[1]CA[UTF-8]AP[SGFC:1.15]
+
+GN[2003, PANDA-NET,]
+PB[cuteone]
+BR[12k]
+PW[matamata]
+WR[10k]
+KM[0.5]
+DT[2003-10-16]
+PC[PANDA-NET]
+RE[W+9.50]
+
+C[matamata(W) 10k igs vs. cuteone(B) 12k* igs
+matamata: Hello, and thanks for reviewing this game, I really appreciate any comments to help me improve.  Played on igs vs. 12k*, got rated by a 4k sometime as about 10k, so rated myself as such, although I think me and my opponent were both a bit weaker than what appears.  Would appreciate an evaluation of my skill.  This game didn't take more than an hour, but it took some considerable time.  Also, I have no clue as to how fuseki works (no knowledge of 'theory'), and what to look for, so if you feel like doing so, please provide an explanation of what opening moves would have been good and why.
+
+---
+
+Hello, my name is Araldo van de Kraats, about 4 or 5 kyu (no pro yet, so take everything with a grain of salt). I hope my review is helpful for you. Questions are welcome, if anything is unclear after the review.
+
+a.vandekraats@student.utwente.nl];B[dp];W[pq];B[pd];W[cd]C[Saw these first 2 moves played by a better person, so thought why not...
+
+---
+
+A: Pro's also use this opening sometimes, so I think it is fine to play like this.]
+;B[ed];W[ec];B[fc];W[dc];B[gd]C[A: Everything alright so far.
+
+Some general fuseki theory:
+
+Look for moves in the following order:
+
+1) urgent moves
+2) big moves
+3) moyo moves
+
+---
+
+1) urgent moves:
+
+The most important thing is to look for weak groups. If you have a weak group, defend it. If your opponent has a weak group, attack it. Rob you the opponent from a base, or create one for your weak group.
+
+Important in this is to determine the status of each of your groups and the opponent's groups.
+
+
+2) big moves:
+
+things like a move in the corner, corner enclosures, approach to the corner or extentions on the side. The best ones are moves that are also big for the opponent.
+
+3) moyo moves:
+
+moves that create or expand your moyo. Or on the other hand, destroy the moyo of your opponent or prevent the opponent from creating or expanding the moyo. 
+
+The best moves are ones that do multiple things at the same time.
+
+(all this is also true for the rest of the game)];W[jd]C[A: I like this move. If you had played the basic joseki (C14 instead of K16), black would be able to play L17 and start a potential moyo.
+
+There is one drawback to this: black can seal the corner and gain influence (see variation)]
+
+(;B[df]C[A: Mistake, should be C15];W[cf]C[dont' know if this is too good, perhaps to attack lower left corner...
+
+---
+
+A: I think this is an excellent move (urgent).
+
+You don't want black to seal you in, because he will get a moyo on the right side and get a base for his stones. C14 keeps the pressure on the black group, which remains somewhat weak like now.]
+;B[dg];W[cg];B[dh]C[A: Now your corner is safe, so you can leave this corner to play somewhere else.
+
+Looking at the board now, we can see there is one weak group on the board: a lone white K16 stone. You should ask yourself the question: "do I want to safe it?". The answer is yes in this case, because black will get a huge amount of territory if you don't.
+
+How to protect it? see variation for a possibility.]
+(;W[qf]C[after those last two, upper right seemed more desirable, and wanted to use k16 stone
+
+---
+
+A: This seems like the wrong direction. You are chasing black towards your weak stone, so it will get into trouble.]
+;B[nc];W[pj]C[A: Good continuation. Getting two weak groups is one of the worst things that can happen. Q10 prevents this.]
+;B[ie]C[A: Better for black to attack from the other side, trying to chase white into the black wall]
+
+(;W[je]C[didn't know how to best respond to an attachment, this seemed best
+
+---
+
+You have two options.
+
+- Live at the top. I don't think this is the best option, since black seals you in and gets a lot of influence (when he plays correctly). You will probably gain between 5 and 10 points territory, which isn't very much.
+
+- Get out to the center (and connect to friendly forces later). Of course you don't get any territory this way, but you prevent black getting influence, which is worth much more.
+
+With this move, it seems you have chosen the second option.]
+;B[jf];W[hc]C[tried to establish base, but probably bad idea in this case if opponent responds correctly
+
+---
+
+A: However, black blocks and you change your mind. Not very consistent. The K15-K14 exchange was better left unplayed.]
+;B[fb];W[eb]SQ[db][dc][ec]C[probably really bad move on my part, was too nervous about losing territory
+
+---
+
+A: definitely the worst move until now. This is an endgame move. Also you should never play empty triangles (only if you are absolutely sure it doesn't do any harm)]
+;B[id];W[ic]
+(;B[kc]C[believe this move by black was bad, since it peeps at a cutting point, but not sure
+
+---
+
+A: Cutting doesn't work (see variations)];W[jc];B[if]C[A: I still prefer to just get out instead of creating a small living group (see var)]
+
+(;W[lc]C[A: This is a nice move. This means a lot of trouble for the L17 stone.]
+;B[kd];W[kb];B[ke];W[mb];B[nb];W[ld];B[le];W[gb]C[A: Looks alive now. Time to play somewhere else.]
+;B[fa]C[A: Since there is no urgent move (no weak group) at the moment, it is time for a big move.]
+
+(;W[qd]C[A: R16 is not small, but definitely not the largest move. J3 would be my choice (see var)]
+;B[qc];W[rc]
+(;B[rd]C[think what he/she did was bad idea, but not positive of right response, r15 looked good when i read it out
+
+---
+
+A: I turned out alright for you, but it could have gone much worse for white (see variations after move 56)]
+;W[qe];B[rb];W[pc];B[qb];W[re]SQ[qe][qf][rf]C[A: empty triangle. better don't play this (inefficient shape: relative few liberties)]
+;B[sc];W[od]C[A: Because this ladder does not work, black S16 was not totaly unreasonable.]
+;B[pe];W[oe];B[pf];W[pg];B[of];W[oc]
+(;B[ob]C[A: this is not a great move by black];W[nd]C[A: another empty triangle]
+;B[md];W[mc]C[by now, I thought p17 group could escape, or kill a surrounding group, and think I read it out correctly
+
+---
+
+A: I think you are right];B[me];W[nf];B[og];W[ne];B[ng];W[mf]
+
+(;B[lg]C[A: bad move by black. black must sacrifice something.]
+;W[mg];B[mh];W[nh];B[oh];W[lh];B[mi];W[kf];B[pb];W[lf];B[qg]
+C[anything better than extension?
+
+---
+
+A: The extension is correct. The single stone is not important (only 2 points). But it is sente, so it is fine.]
+;W[ph];B[oi];W[pi];B[rf];W[oj];B[ni];W[qh];B[se]
+(;W[kg]C[A: L13 is a big move
+
+A: But there is also an urgent move, which should be played first. Allowing black a splitting attack gives you two weak groups, which is quite a disaster.]
+;B[qm];W[qo];B[om];W[rl];B[qk];W[ql];B[pl];W[rk];B[rm];W[pk]
+;B[nk];W[ol];B[pm];W[nj];B[mk];W[mj]C[did last two moves to create cutting point against n9 and q7 groups
+
+---
+
+A: That is a good strategy when you intend to cut.]
+(;B[lj];W[rg]C[A: I believe S13 is not really necessary (see variations at move 102)]
+;B[qf];W[sg]SQ[rh]C[A: Better at S12. Now you have something like a cutting point.]
+;B[ri]C[A: this white group cannot be killed. Black should safe this moves as ko-threats]
+;W[rh];B[sl];W[sk];B[sm];W[qj];B[nq]C[A: Good move by black. Attacks the weak white group]
+
+(;W[no]C[regretted this extension, probably better to shoulder hit with p4
+
+---
+
+A: A bit far away, definitley cuttable. Looks like an overplay.]
+;B[op];W[oo];B[pp];W[qp];B[ok];W[lk]C[A: I don't like this very much, since it cut's two rather strong groups (of course P7 has no eyes yet, but still is not in great danger after M9).
+
+Q5 is more important right now.];B[ll];W[kk];B[kl];W[jk];B[jl]
+C[A: This sequence gives black more than white.];W[il]C[A: better at H9 ...]
+;B[ik];W[kj]SQ[jj][jk][kk]C[A: ... because now you have to create an empty triangle. Black can take advantage by squeezing (see variation)]
+
+(;B[im];W[hl];B[hm];W[gl];B[ij];W[gj];B[ih];W[gh]C[A: why run with an eyeless group towards enemy strength?]
+;B[gg];W[fh];B[fg]C[opponent very defensive of middle territory
+
+A: probably to create eyes for his group];W[oq]C[A: pushing like this only strengthens black; you gain zero liberties.]
+;B[np];W[po];B[mo];W[fq]SQ[fh][gh][gj][gl][hl][il]C[A: the marked stones are in great danger and attention]
+;B[hq];W[fo];B[ep];W[hp]C[h4 probably better than f5 right away. Or maybe a connection after the peep
+
+---
+
+A: Quite often it is best to connect.];B[fp];W[gq]
+(;B[gp];W[iq];B[hr];W[ir];B[ho];W[ip];B[io];W[cl];B[cn];W[ci]
+;B[ch];W[bh];B[dd];W[ce];B[cc];W[cb];B[bc]C[opponent misread]
+;W[bb];B[er];W[gr];B[jp]
+(;W[kr]C[don't know if this is best, maybe l3...
+
+A: Normally L3 is better, but I think L2 has a better change in creating an eye]
+;B[kq];W[lr];B[nr];W[jq]
+(;B[lp];W[pr]C[again, afraid for corner, and regretting O5
+
+---
+
+A: you should be (see variations in previous move)];B[nn];W[bn]
+C[A: Nice endgame move.];B[bo];W[bm];B[fm];W[fl];B[em];W[di]
+;B[eh];W[ei];B[hh];W[co];B[cp]
+(;W[cm];B[do];W[el];B[dm];W[hd];B[he];W[rn]C[A: S6 is quite a big endgame move]
+;B[rq];W[qq];B[so];W[sn];B[ro];W[qn];B[dl];W[dk];B[ki];W[li]
+;B[jj];W[lj];B[jh];W[kh];B[ea];W[db];B[da];W[ac];B[ca];W[ba]
+;B[ga];W[ha];B[gc];W[hb];B[de];W[lq];B[kp];W[jg];B[ig];W[hi]
+;B[os];W[ps];B[rr];W[rp];B[sq];W[rs]C[believe it's excessive, can play elsewhere
+
+---
+
+A: correct];B[or];W[eq];B[dq];W[ao];B[ap];W[an];B[fr];W[hs]
+;B[ii];W[hj];B[gm];W[fs];B[dr];W[on];B[nl];W[sp]C[think t4 is also excessive
+
+---
+
+A: have to play it sooner or later (later, after black Q6, is better)]
+;B[hk];W[gk]C[saw opponent's move the second I played g9, and lost 6 moku, probably best to go with f10, then close at e9
+
+---
+
+A: F10 would be my choice too.
+
+Except for this, you played the endgame quite well.
+
+Important things to remember:
+
+- Look for weak groups
+- Don't push when it strengthens your opponent more than you.
+- No empty triangles
+
+---
+
+< end of comments >];B[ck];W[bk];B[ek];W[cj];B[fi];W[fj];B[gi]
+;W[ej];B[es];W[na];B[oa];W[ma];B[ms];W[ls];B[mr]C[n3 first...]
+;W[gs];B[mq];W[ji];B[bd];W[be];B[ki];W[bp];B[bq];W[ji];B[ab]
+;W[ad];B[ki];W[mn];B[nm];W[ji];B[bg];W[bi];B[ki];W[lo];B[mp]
+;W[ji];B[tt]C[opponent gives up on ko, i have too many threats, and he probably has only one more (l1 or k2)]
+;W[ki];TB[aq][ar][as][bp][br][bs][co][cq][cr][cs][dn][ds][ee]
+[ef][eg][en][eo][fd][fe][ff][fh][fn][fo][ge][gf][gh][gn][go]
+[hf][hg][hn][in][jm][jn][jo][km][kn][ko][lm][ln][lo][ml][mm]
+[mn][nh][ns][ol][pa][qa][qd][qe][ra][rc][re][sa][sb][sd]TW[aa]
+[ab][ae][af][ag][ah][ai][aj][ak][al][am][bc][bd][bf][bg][bj]
+[bl][cc][ck][dj][hq][hr][ia][ib][is][ja][jb][jr][js][ka][kc]
+[kd][ke][ks][la][lb][le][lg][md][me][qi][qk][qr][qs][ri][rj]
+[ro][rq][rr][sh][si][sj][so][sq][sr][ss])
+(;W[ao];B[bp];W[ap];B[aq];W[an];B[br];W[cm];B[do]C[A: 3 points better]
+))
+(;B[rr]C[A: black can probably kill the corner]
+(;W[rq];B[qr];W[qq];B[pr]C[A: no way to get two eyes])
+(;W[qr];B[sp];W[so];B[ro];W[rp];B[sn];W[sq];B[rq];W[so]C[ko]
+)))
+(;W[kq];B[jq];W[jr];B[lr];W[kr];B[ks]C[A: White has trouble creating a second eye]
+))
+(;B[iq]C[now white is in trouble.]))
+(;B[ki];W[li];B[jj];W[lj];B[ii]))
+(;W[op];B[np]C[A: This strengthens black more than white. Not very good.
+
+Normally pushing like this is a bad idea. Only when it creates cutting points or strengthens your group it is fine.]
+)
+(;W[oo]C[A: Maybe this is a better idea. More difficult for black to seal white in plus the corner looks quite safe now.]
+;B[no]C[A: Black can try to stop white, but remains a bit weak (while whites group became stronger)]
+))
+(;B[rh];W[ri];B[si];W[qj])
+(;B[si];W[ri];B[sh];W[sg];B[rh];W[sj];B[rg];W[qj])
+(;B[sl];W[qj];B[rh];W[ri])
+(;B[ri];W[rh];B[sh];W[sg];B[si];W[rg];B[qj];W[rj]))
+(;W[qn];B[kg]))
+(;B[qg];W[ph];B[rf];W[kf];B[kg];W[lf]C[A: better for black]
+))
+(;B[md];W[nf];B[og]
+(;W[ph];B[ng];W[me];B[mf];W[ne];B[lg]C[A: white captures three stones, but black is still better of, since he gains a lot of thickness.]
+)
+(;W[ng];B[oh]
+(;W[qh];B[ne])
+(;W[me];B[qg];W[ph];B[rf];W[ob]C[A: bad exchange for white]
+)))
+(;B[og];W[ph];B[md]C[A: white is in trouble]))
+(;B[rb];W[re];B[pb]C[this is the normal way of playing]))
+(;W[iq];B[gq];W[io]
+(;B[qo]C[A: black must invade quick to prevent white from getting to much territory.]
+;W[np];B[qq];W[qr];B[pp];W[oq];B[rq];W[qm];B[on];W[cq]C[A: possible game-flow. Black is quite a lot behind in territory.]
+)
+(;B[go];W[po]C[A: white has created a nice moyo, which is difficult for black to invade. Only some reduction seems possible.]
+)))
+(;W[le];B[ld];W[kf];B[kg];W[lg]))
+(;B[jc];W[kc];B[jb];W[kb]
+(;B[ib];W[hb];B[ha];W[ja])
+(;B[ia]C[A: black tries to connect...];W[ib];B[ja];W[ha]C[A: but cutting at K17 doesn't work]
+)))
+(;W[ke]C[A: How about this one. Difficult for black to stop you.]
+))
+(;W[nc];B[qf];W[pb];B[qc]C[A: Now white's group is rather safe. White has prevented black from creating a huge moyo.]
+))
+(;B[ce]
+(;W[dd]C[A: correct move];B[de];W[ee];B[fd];W[be];B[bf];W[bd]
+;B[dg]C[A: Luckily for you black did not play like this.])
+(;W[be]C[A: this variation is not so good for white];B[dd];W[bc]
+;B[cf];W[bf];B[cg])))

@@ -1,0 +1,94 @@
+(;FF[4]GM[1]SZ[19]AP[SGFC:1.17]
+
+PB[Maycol]
+PW[ilithios]
+WR[18k]
+KM[6.5]
+DT[2010-07-02]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[B+68.5]
+TM[1200]
+
+C[
+So, this is a pretty typical loss for me.  I get pushed out of the corners before I know it and don't have anywhere to make space except the middle where it's close to impossible.
+
+pzykr: so this is a good indication for you to follow the proverb: corners are golden, sides silvery, the center is as a useless piece of straw
+
+i recommend that you set your sgf viewer to show all move numbers as i refer to specific moves by their numbers rather than their location.  some sgf viewers change the location data that i entered, eg E4, into a letter, eg A, and show it in the appropriate place on the board. some don't... it should in all cases be clear whether i'm talking about a stone that has already been placed, eg B31, or a location on the board i'm discussing, eg C3, from the context of the discussion.]
+;B[pd];W[cd];B[pp];W[cp]C[I sometimes make these opening moves to try to prevent an invasion of the corner.
+
+pzykr:  according to the theory of the opening the purpose of these moves is to establish secure territory in the corner, not per se to prevent an invasion of the corner. to make secure territory, you make a knight move from the 3-4 stone, ie either of your stones at C4 or C16, to make a corner enclosure at, on the bottom, E3 or at the top, E17. this is called making shimari. on the other hand, your opponent may take this opportunity to interfere with your shimari by playing on either of these same points. this reminds one of the go proverb that the opponent's vital points are also one's own. if your opponent plays on that vital point, many possible variations follow during which one tries at least to obtain an equal advantage in the corner. these plays in the corner are called joseki. more accurately, they are joseki only when they DO result in equal advantage... many times, especially among beginners, low kyu and middle kyu players who have not studied joseki extensively, the results are not equal...
+
+for the sake of comepleteness, there are many joskei that do not use the traditional shimari but that play stones for example at C16 and E16 or elsewhere. shimaris are a good place to start learning openings, though.
+
+by the way, one can prevent an invasion of the corner by playing at the 3-3 point, called san-san in japanese. this secures the corner (and little else) in just one move.  one might play one corner so low but would place oneself at a disadvantage by playing two corners with such low, small plays. such timid play should be avoided.]
+;B[pj]C[pzykr:  black makes the three star opening, which emphasizes outward influence: remember, the fourth line is the line of influence (or power), the third line is the line of territory, and the second the the line of defeat...the strength of your opening moves is that with one more move in each of your corners you can secure real territory: black is vulnerable to invastion at both 3-3 points and requires two moves in each corner to secure terri there...]
+;W[nc]C[not a bad move, in and of itself, but one asks, what is the purpose of this move? never make a move without a purpose! the purpose must be related to your overall plan... is your plan to invade at the 3-3 point? why not just play directly there? black generally welcomes this as an opportunity to build up outside influence, as that is the whole purpose of the three star (sanrensei) opening]
+;B[pc]C[pzykr: oh. black protects his corner, a territory-oriented move not necessarily consistent with the idea of sanrensei. notice here that all black's stones are on the fourth line, all white's are on the third line. it is a good idea to strike a balance between third and fourth line moves in the opening (fuseki). also, it is recommended in opening books to complete one's corner enclosures (shimaris) or interfere with the opponent's shimaris before undertaking operations on the sides and especially in the center... how about a next move for white at E17 or E3?]
+;W[of]C[This move is pretty darn weak in retrospect.  I should have threatened his other corner at O-3 or gone at L-17 I guess
+
+pzykr: ya...see previous comments for a couple of move ideas. the move you chose gave your opponent the opportunity to make his side stronger, to add a third line stone, and seems to be a play towards the useless piece of straw center]
+;B[qf];W[hc]C[pzykr: yet another third line stone, and one which invites an invasion; though letting him invade here may not necessarily be bad-- it could give you a target to attack. though really before all that i think you should attend to your weak corners and complete at least one shimari if not both of them. the natural direction of development from either of the shimaris i've mentioned on the left side would be a play around D10.]
+;B[kc]C[pzykr: black accepts the invitation to invade. notice how white's stones are scattered about loosely around the board in such a way that they really don't work well together...]
+;W[me]C[I'm trying to escape but I think my move is too small
+
+
+pzykr: escape? you outnumber the lone black stone three to one... why are you running scared? attack!
+without going into a deep reading, capping (boshi) at L15 looks like a reasonable move here. white's move as played puts zero pressure on this impudent black stone and gives him his ideal one point jump...]
+;B[ke];W[lg];B[if];W[gf];B[ih];W[gi];B[id];W[gd]C[pzykr: already black has some potential eyespace and has almost made it out into the center. also, he's divided white into two groups of poorly coordinated stones, neither of which has much in the way of eyespace.]
+;B[cg];W[di];B[ce];W[de];B[df];W[ee];B[ef];W[fg]C[pzykr: why this diagonal move? why not the stronger move at F14? white gives black scope for further actions here...]
+;B[be];W[ch]C[pzykr: i think i would play B16 immediately to protect the corner]
+;B[bh];W[cj]C[pzykr: what's the thinking behind this move? where's the plan? surely the plan must be to limit black's expansion...why not block directly at B11? then when black plays B13, almost forced, white can (should) play B16 to keep black out of white's corner and limit him to one eye. it helps to read ahead a move or two at least...  white gives black way too much--for free!--in the upper left.]
+;B[bi];W[bj];B[bd];W[cc];B[bc];W[nq]C[I see that I have failed at preventing him from getting space there and abandon the fight for now]
+;B[pq]C[pzykr: given black's play in the upper right corner, the W38, B39 exchange was fairly predicatable. what did white hope to gain here?  you referred in an earlier comment to this move as a threat: really?? black secured at least twelve points of terri, what did white gain? especially considering that in the upper right just a few moves later you were "trying to escape..." completing your shimari in the lower left with a play at E3 would now work especially well with the white stones on the 10 and 11 lines above, setting up a large potential framework (moyo)
+
+on the other hand, "urgent before big:" the white stones in the upper right look like they could use some kind of help and maybe a one-space jump to M11 to break the sector line between B17 and B5 would be more important. think of there being a black stone there instead... (see ezgo by bruce wilcox 5d for more about "sector-lines").]
+;W[pn];B[qo];W[po];B[qn];W[pm];B[qm];W[pl];B[ql];W[pk];B[qk]
+C[pzykr: was this white's plan at move 38? ok, white has a wall, a definite strategic asset. let's watch this wall and see how he uses it...]
+;W[oi]C[pzykr: was this a misclick? this gave black the opportunity (which he squandered) seriously to damage aforementioned wall... black can drive a wedge between white's weak upper stones and this wall by playing P10 next]
+;B[pi]C[pzykr: but i guess rich men don't pick fights, and black is satisfied to secure the rest of the terri on the right...]
+;W[oj];B[lq];W[jq];B[lo];W[no];B[lm];W[lk];B[hq];W[ho]C[pzykr: using W60 finally to complete your shimari in the lower left would have given you the corner, deprived black of his base on the bottom and forced him to run to the center. then, well already, K5 is a key point. you have a nice wall on the right. you want to use the wall to crush the three black stones on the M line. that is a strategic imperative!]
+;B[eq];W[eo];B[hl];W[jl]C[pzykr: K7 might be better: isolate those three black stones! and don't forget K5 ASAP]
+;B[dl];W[fl];B[ij];W[jj];B[ji];W[kj];B[ki];W[li];B[kh]C[pzykr: black makes bad shape, why follow him slavishly here? what does white's next move accomplish? how does it fit in with any plan?]
+;W[lh]C[pzykr: why not play the VITAL K5 here? white has enough stones that if black pushes through at W74, white can simply block him at N12 and no worries...]
+;B[kg];W[cm]C[pzykr: what is the purpose of this move? K5 is still unplayed... what plan is W76 a part of? NEVER play a move that is not part of an overarching plan!  for example, leaving aside the important K5 for the moment, white might have the plan to protect his lower left corner. he could attach to B61 at D3, protect his corner and reap the additional benefit of making the black stones overconcentrated when black makes the usual reply, E4. remember, from a two stone wall, one should extend three spaces. if you can make black create a two stone wall when he's already made a two space extension, voila! overconcentrated stones. shape is important!  it's always a plus if one can achieve two (or more!) objectives with one move.  for example, in this sequence, after D3 when black replies with E4 he butts his head into a stone already placed to "strike at the head of two stones,"  W62: pure lagniappe...
+
+on the other hand, the move you played is already overconcentrated from your two stone wall W32 and W34, though i do grant you a proper two space extension from W4...
+
+i'm sure your idea was to attack B65, and to your credit, you didn't touch the stone you were trying to attack: it's almost always bad to touch a stone one is trying to attack. but a stone like B65 needn't be attacked directly at all; it can be attacked from afar by ensuring that no rescuing stones can reach it, for example, or by playing on vital points that B65 would need to play on to make eyes: difficult for this stone to try to do since it's on the fourth line. remember, the third line is the line of territory, the fourth line is the line of influence or power.  this lone black stone doesn't have much of either and can be ignored for bigger plays unless something changes.]
+;B[dp];W[do];B[cq];W[bp];B[bq];W[fp];B[ap];W[ao]C[pzykr: this is just due to inexperience; once it's happened to you a few more times you'll recognize the pattern when you see it develop and avoid the painful loss of three stones and, probably worse, black's excellent resulting shape. reading wouldn't hurt, either...
+
+since i'm not sure how familiar you are with go terminology...reading means the step by step process of figuring out "if i move here, then he moves there, then i respond thusly, then... then..."]
+;B[bo];W[aq];B[co];W[cn];B[ap];W[bn];B[an];W[am];B[ao];W[fq]
+;B[fr];W[jr]C[pzykr: wrong direction! remember, the second line is the line of defeat. you may have been thinking something like "i'll make an iron pillar here" but you just threw away two stones. K5!!!]
+;B[ip];W[jo]C[pzykr: finally! remember, the purpose of K5 is to isolate the three black stones on the M line. let's see how that works out... it's already tough because black got J4 in first...]
+;B[jp];W[io]C[pzykr: ???];B[kp]C[pzykr: now the only chance to cut off those three, now seven, stones, is to play immediately at G2. my reading is not so good as to determine whether black can live locally by killing the white stones at K2 and K3 but i don't think it's possible, nor do i think black can connect to the corner against proper play (i may be wrong...). there still is a good chance, i think, to kill those black stones... one has to know what one's objective is!
+
+here i must admit that after black connects at 101, i'm not so certain that white CAN kill him, but if i were playing white i definitely would try my hardest! maybe a higher kyu player (i'm 10 kyu, by the way), not to mention a dan player, would find my confusion either pitiful or hilarious, but there ya go, each of us is where s/he is and it's a process...]
+;W[ic]C[pzykr: completely irrelevant play: what's the plan?]
+;B[fe];W[fd];B[cb];W[db]C[pzykr: again, inexperience; one learns to see these patterns emerging. incidentally, this is the punishment for the diagonal move W28...]
+;B[dd];W[dc];B[ed];W[ec];B[ge];W[he];B[ie];W[ff];B[ee];W[hg]
+;B[gm];W[fn]C[pzykr: black doesn't seem any more aware than white of the stakes at the bottom... G2 is provacative]
+;B[gn];W[go];B[fm];W[em];B[fk]C[By this point it's already impossible to invade on the right side and hje has the bottom pretty much locked down too.  I've already lost the game
+
+pzykr: well, as i said in another comment, the bottom is complicated...
+if i were white i'd try to kill the center bottom black stones starting with a white play at G2
+
+evaluating the center: white has a lot of nice thickness on the bottom, but black's erasing plays, while they can't make eyes in the area around G/H 8/9, can connect easily to the strong, if heavy, top central group. white doesn't seem to have enough supporting forces in the area to cut around H/J9,  but how much would it hurt to try? nothing ventured, nothing gained. white is clearly behind. only tough fighting against the odds has any chance of saving the game. passive play when one is way behind is worse than resignation: it may be boring for the opponent and is certainly frustrating for oneself.]
+;W[el];B[gk];W[hm];B[im];W[hn];B[gl];W[ik];B[hj];W[gj];B[il]
+;W[ej];B[ek];W[dk];B[dh];W[ci];B[eh];W[fh];B[ei];W[fj];B[nm]
+;W[om];B[nn];W[on];B[op];W[oo];B[np];W[nl];B[mo]C[pzykr: G2 no longer big: black has connected to his corner and the promising white wall is completely emasculated... now it's nothing but a big ugly dumpling (dongo)]
+;W[mm];B[mn];W[kn];B[nk];W[ml];B[ol];W[ok];B[gr]C[ManOfLOL [23k?\]: nice move
+ManOfLOL [23k?\]: lol];W[ln];B[jm];W[km];B[hd];W[hf];B[ca];W[fb]
+;B[jc];W[jb];B[kb];W[ib];B[mb];W[nb];B[mc];W[md];B[ld];W[le]
+;B[kf];W[lf];B[pg];W[og];B[oe];W[ne];B[od];W[nd];B[oh];W[nh]
+;B[ph];W[pb];B[qb];W[ob];B[pf];W[da];B[bb];W[hi];B[ii];W[hh]
+;B[ig];W[ck];B[lr];W[gq];B[ir];W[ep];B[dr];W[jk];B[hk];W[ko]
+;B[hp];W[ai];B[bg];W[ah];B[ag];W[aj];B[eg];W[qa];B[rb];W[ra]
+;B[ma];W[na];B[ja];W[ia];B[ka];W[tt]C[pzykr: why is white passing? the edges aren't sealed. and remember, as the last liberties and dame get filled in, some potential (aji) comes alive and one must pay attention to threats that now become viable.]
+;B[sb];W[tt];B[sa];W[pa];B[qc];W[tt];B[gb];W[gc];B[fa];W[ea]
+;B[cl];W[bl];B[ni]C[This is a good move on his part.  I can't see anyway not to lose territory, so I njust have to try to cut my losses
+
+pzykr: hence my last comment about passing prematurely...it helps to pretend you're playing the other side and look for mean things you could do to your "opponent." (also called "reading.")]
+;W[nj];B[ng];W[mi];B[nf];W[mg];B[mq];W[tt];B[tt]C[pzykr: i might suggest you read some books on the opening. "in the beginning" is a good one, for example and is available online from yutopian or kiseido. in general, it's good first to make shimaris in your own corners or disrupt them in your opponent's, then to extend from your shimaris in the proper direction, and only after one has played all the big points in the corners and on the side to move out into the middle. the openings that start on the star points (hoshi) are a bit different, but your preference seems to be to play on the 3-4 points, which is fine, so long as you understand the purpose, which is to secure the corner. you got neither corner you played 3-4 in; indeed, you go NO corners.  you did develop some nice thickness, with a little help from your opponent: remember, the idea is not to convert thickness directly into territory (very difficult) but to use the thickness in fighting. overall i would encourage you to be more assertive, well, more aggressive! in your play. what's the best defense, after all? i hope this has been a worthwhile review for you and that you get as much out of reading it as i got out of writing it! thanks for the opportunity to review this game. good luck in your further go studies!!!]
+)

@@ -1,0 +1,116 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+PB[backpacker]
+BR[2k]
+HA[2]
+PW[rinset]
+WR[1d]
+KM[0.5]
+DT[2008-02-24]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[W+Resign]
+TM[1800]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+AB[dp][pd]C[crux: Hi again.  As in the previous review I did for you, please note that at 2d I'm not strong enough to give you correct variations, especially in a game like this which is essentially a four-group running fight.
+
+No one can say what's going to happen in a fight like this, but there are some basic principles: always make efficient moves, use attachments to settle groups quickly, play from the weakest side, and be prepared to make small sacrifices for larger gains.  There were some early mistakes which made the fight harder than necessary for you.
+
+I've marked the variations I've added with (*) to distinguish from the ones already in the SGF.]
+;W[pp];B[dc];W[ce];B[ed];W[ch];B[ic]C[crux: This is a narrow extension from your two strongest stones.  Seems neither big nor urgent.]
+;W[fq];B[cn];W[jp];B[qj];W[nc]
+(;B[pf]LB[oc:A]C[crux: I'd prefer A first, to reduce the space available for White's group.  See variation.]
+;W[pb];B[qc];W[kc];B[bd];W[cq]C[crux: In light of White's invasion here, Black might have preferred to spend the previous move in this corner, rather than adding another stone to the strong group at the top.]
+;B[dq];W[cp]
+(;B[cr]LB[co:A]C[crux: This is somewhat risky, since the ladder that emerges doesn't work for Black.  Normally, Black can play A instead to get a ko.]
+;W[br];B[dr];W[co];B[do];W[bn];B[bm];W[cm];B[dn];W[an];B[bl]
+;W[em];B[cj];W[dm]
+(;B[bs]C[crux: I think Black has a better line that leads to ko.  Even if that were not the case, the game move does not help Black make eyes, and should be kept in reserve.]
+;W[ar]C[I see D7 group as weak and C12 group as weak for white.  C10 group and D5 group are weak for black.  Maybe Q18 group is weak for white, too, if black has sente to play R18.
+
+crux: Black's lower-side group is the heaviest of the four.  The Q18 group is probably quite strong enough.]
+;B[fo]LB[fp:A]C[So I jump out with my weak group.
+
+crux: How about A instead, using a contact play to get settled more quickly?]
+;W[hp]C[White is pressuring and getting territory, but he did not strengthen either weak group.]
+;B[gn]LB[ho:A]C[crux: Moving slowly again, inviting White to strengthen his weak group at the expense of Black's left-side stones.  Maybe an attachment at A would work better.]
+;W[fl];B[ej];W[hl];B[in];W[ee]C[I don't want to respond to this move, because my E10 group must survive, and white is trying to create pressure on this group by hitting the group next to it.]
+;B[gj];W[fe];B[fd]LB[gc:B][gd:A]C[crux: Poor style, pushing White onwards.  Black could e.g. jump to B, which leaves White with no easy way to force by pushing some more.]
+;W[ge]C[crux: Now Black has a weak spot at the top, which will help White settle this group more easily.]
+
+(;B[ij]LB[ik:A]C[crux: Black could also consider A.];W[jl];B[kn]
+;W[lp]
+(;B[lm];W[kk];B[ji];W[mk];B[nm];W[pk]C[again hitting a nearby group to attack my main weak group by building up.]
+;B[nk];W[ml]
+(;B[nl];W[mm];B[mn];W[nn];B[no];W[on]
+(;B[mj]C[White's shape is bad, but I needed to play L8 first.]
+;W[lk];B[lo];W[mp];B[mo];W[nj];B[oj];W[ni];B[ok];W[pm];B[mi]
+LB[li:A]C[Here I want to attack the M9 group, so I press on the other group.  But he senses this and give away the group I am directly attacking.
+
+crux: Maybe A instead, so that White is contained?];W[ki];B[kh]
+;W[li];B[nh];W[lh];B[jg];W[lf];B[np];W[mr]C[So he is out and I must find 2 eyes here.  And my whole game falls apart quickly.]
+;B[nq];W[nr];B[pq];W[qq];B[or];W[qr];B[ns];W[lr];B[kp];W[kq]
+;B[ko];W[jm];B[gq];W[gp];B[io];W[ip];B[fm];W[ek];B[gl];W[gk]
+;B[gm];W[hk];B[fp];W[fr];B[en];W[hj];B[hi];W[fj];B[fi];W[gi]
+;B[gh];W[ei];B[fh];W[dj]C[game over.];B[km];W[ie];B[je];W[if]
+;B[jf];W[id];B[jd];W[jc];B[le];W[me];B[ld];W[hc];B[ib];W[hb]
+;B[lc];W[nf];B[lb];W[jb];B[nb];W[oc];B[ob];W[pc];B[qb];W[mc]
+;B[mb];W[qa];B[oa];W[pa];B[mg];W[lg];B[mf];W[mh];B[ng];W[oi]
+;B[og];W[pi];B[pj];W[qi];B[ri];W[rh];B[rj];W[qg];B[rf];W[rl]
+;B[qf];W[sh];B[si];W[qk];B[rg];W[cd];B[cc];W[be];B[bc];W[hh]
+;B[pg];W[qh];B[po];W[oo];B[op];W[qp];B[pl];W[qm];B[ae];W[af]
+;B[ad];W[bg]C[backpacker [2k\]: thx
+rinset [1d\]: thx])
+(;B[kl]
+(;W[jk];B[lk]
+(;W[lj];B[mj];W[ll];B[lk])
+(;W[mj];B[lj];W[ll];B[km];W[kj];B[li];W[ki];B[kh];W[lh];B[mi]
+;W[jh];B[kg];W[ii];B[ik];W[il];B[gk];W[gl];B[jj]C[Maybe this works??  Do you see any other variation for white to do better?]
+))
+(;W[ll];B[km];W[jk];B[mj];W[lk];B[lj];W[nj];B[oj];W[ni];B[ok]
+;W[kj];B[mh];W[ki];B[lh];W[mo];B[ln];W[kh]C[My main group at L6 seems to die here.  Maybe Black 66 would not have saved me?]
+)
+(;W[jm]C[(*)
+crux: White can play this.  It's unclear what's going to happen afterwards.  Both sides have problems.]
+
+(;B[jk];W[km];B[ll];W[lk];B[ln];W[jn];B[jo];W[ik];B[jj];W[ko]
+;B[mo])
+(;B[jn];W[km];B[ll];W[lk];B[ln];W[jk];B[mp];W[lq];B[nj]))))
+(;B[on]C[(*)
+crux: Maybe it's better not to get cut on the lower side.];W[nl]
+;B[ol];W[ok];B[nj];W[mj]))
+(;B[ll]C[capping would be a knights move, so I could get cut if I do this.
+
+crux: That doesn't necessarily mean it's a bad move; it just means you have to read out what happens to the cut groups, and possibly be prepared to sacrifice some of your stones.]
+))
+(;B[jl]TR[ee][fe][ge]LB[am:A][bh:C][bi:B][dh:D][fr:E]C[How can I tell if this move is better than the one in the game. I feel the G10 group is weaker, so I should jump from there to pressure his middle group.
+
+crux: Consider eye-making potential.  A is sente for Black; combined with a move like B, C or D, it seems like there's some ways to make eye shape for this group.  On the other hand, you don't want to be pressed against the triangled white wall.
+The group on the lower side has a contact play at E.
+
+I've added some more moves to this variation.];W[ik]C[(*)
+crux: I'll give a few variations for this.  Bear in mind that it is not possible to predict in advance what's really going to happen.]
+
+(;B[ii];W[jk];B[kn]
+(;W[lp];B[kk];W[kj];B[lk];W[ji];B[ij];W[jj];B[ig])
+(;W[kk];B[lp]))
+(;B[bh];W[bi];B[ci];W[bj];B[bk];W[bg];B[dh];W[cg];B[ap];W[bp]
+;B[am];W[aq];B[dk];W[ak];B[dg];W[df];B[fh]
+(;W[ii];B[ei];W[eg];B[hh])
+(;W[di]
+(;B[ei];W[eg];B[dj];W[eh];B[fg];W[di];B[ii])
+(;B[fg]
+(;W[ii])
+(;W[ei];B[ii];W[fi];B[gi])))))
+(;B[ik]C[(*)
+crux: Of course the fight isn't easy to read, and I make no claims about the variation I give being reasonable.]
+;W[il];B[jl];W[hk];B[ij];W[jm];B[im];W[jk];B[kl];W[hj];B[hi]
+;W[gi];B[ii]
+(;W[fj];B[fi];W[gk];B[gh];W[ei];B[gj];W[fk];B[ek];W[gi];B[fh]
+)
+(;W[fi];B[gk];W[fj];B[gl];W[fk];B[hm])))
+(;B[ar];W[bs];B[bq];W[bp];B[ap]C[crux: In comparison to the "simple" ko Black could have got with the normal variation, this one is more valuable if he wins it - but White has the advantage because he is the first to take the ko, while Black has to find the first ko threat.]
+;W[aq];B[fp];W[ao];B[gq];W[ei]))
+(;B[co]C[(*)];W[dr];B[er];W[br];B[ds];W[cs];B[cr]))
+(;B[oc]C[(*)];W[nd];B[pf];W[kc]))

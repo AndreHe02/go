@@ -1,0 +1,144 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.16]
+
+PB[malbery]
+BR[9k]
+PW[seven44]
+WR[8k]
+KM[0.5]
+DT[2013-03-11]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[W+Resign]
+TM[600]
+OT[5x20 byo-yomi]
+RU[Japanese]
+
+C[N: Hi!  I play as Numsgil (2k) on KGS.  I've prefixed all my comments with N:
+
+My overall comments:
+
+1.  Look before you leap.  Reading out sequences of moves is hard, but it really is how you get stronger.  You played some sequences that a stronger player would have read out and determined didn't work :/  If you aren't sure a sequence works, determine what collateral damage would occur if things went bad.  For a game of perfect information, there's a lot of risk management that goes on :)
+
+2.  Have a plan.  And stick to the plan.  You attacked some groups without a clear idea of what you hoped to gain (obviously killing it would be great, but you're almost never so lucky).  And you left some groups in mortal danger as if to sacrifice them, only to decide later that you wanted to save them.  Before you leave a local life and death fight, be _really_ sure you don't need to add another move.  When you invade, have a plan like "make _something_ live here".  The plan can change later, but having a plan means you won't get pushed around by your opponent trying to save everything.
+
+3.  If you're really dedicated to learning go, you might try and pick up a book with shape problems in it.  It feels really weird and arbitrary at first, but once you pick up on "good" shape you at least have an idea of how to make eyes in the center of the board, for instance (hint: it's hard no matter what level you're at :))]
+;B[pd];W[dp];B[pq];W[dc];B[qk];W[ce];B[jp];W[qo];B[oo]C[This corner went wrong. I wasn't confident that P5 was the best move.
+
+N: This is okay.  It says you're fine with white living on the side if you can build territory along the bottom.]
+;W[rq];B[qr]TR[qm]C[N: I think you'd be better playing triangle and encouraging white to take the corner in a small way.  But this is okay, too, since it encourages white to run out with a weak group.  Just be mindful of the fact that your own groups aren't all that well established yet either.]
+;W[pm]TR[qm]C[I thought that this was a mis-play by white.
+
+N: White is trading the ability to get out for allowing you to scoop out his eyes along the bottom.  I'm not sure I like white's plan, but living small with triangle sucks.  White probably should have chosen a different line of play here, actually, but I'm not sure what it would be.]
+;B[rm]C[...and that this was the correct response
+
+N: Yeah, This is okay.];W[rn]
+(;B[rl]TR[qm]CR[pl]SQ[pn]C[However I see now that this was far too soft.
+
+N: Yeah.  I'd play triangle maybe.  It means white will probably have to prevent the cut with eg: square, and then you can make shape with circle.]
+;W[rr];B[qp]TR[qq]CR[ok][lo]C[N: This is usually not a great idea, because white can push in to triangle later, after he defends, and you have to start sacrificing stones.
+
+If you really want to play locally, circles would be okay.  They give you profit while making white uncomfortable.  But really this might be an okay time to tenuki and fine something else to do on the board.]
+;W[rp];B[qn]C[I was trying to prevent white from connecting on the outside but overplayed it. Is it too late at this point to accomplish that?
+
+N: Your position is too weak to effectively cut right now.  Shore up your positions first.  If white does the same, you've lost nothing (making points in sente is just fine).  If he tenukis, you can always come back and try to kill or cut the group later.]
+;W[pn];B[qm];W[qq]TR[qp]C[N: Yeah, this problem is why triangle sucks :(]
+;B[pr]LB[pp:A]C[I didn't want to open up the bottom but perhaps A would have been better?
+
+N: This is probably best.  You get sente still, and allowing white to take the bottom stone would actually lose you this entire bottom territory.]
+;W[pp];B[op];W[po];B[qf]TR[qk][rl][qm][rm][qn][qh]C[I was worried about having these stones split.
+
+N: Yes, you need to protect those black stones.  But do it more directly at triangle.  White can still cut here at some point.  Your corner stone is fine, but your side stones are in trouble, so you should play your stone closer to the troubled group.]
+;W[gp]TR[jd]C[I didn't know how to respond to this move.
+
+N: Just play somewhere else big.  Triangle is huge, since it limits white and expands yourself.  Eventually the way to play in the bottom will make itself clear.]
+;B[cj]CR[pl]C[Perhaps I should have played K17 instead here?
+
+N: Yes, because it expands your own moyo as well as limiting white.  If you played K16/17, circle would also be a nice move, to start building a huge moyo on the right/top, while building shape for those black stones which are still making me uncomfortable.]
+;W[ch];B[cn]C[Too wide a jump?
+
+N: Depends on your aim.  You're basically asking white to give you the corner, and he gets the side.]
+;W[cl];B[en]TR[cq]C[How to continue from here? This went badly.
+
+N: Jump in to the corner, ie: triangle.  There's way too many stones here for your to really do anything.  All your side stones become sacrificial, but they're still pretty light and there's some aji for later.]
+;W[dm];B[dn]C[N: Locally this is what you're "supposed" to do, but now you have a weak group, which sucks :(  Only play solidly like this if you're already in a good position.]
+;W[ek];B[bp]TR[gn]C[N: You can't get two eyes here, so it's better to just keep running.  Triangle.  Later maybe you get to invade at the 3-3, but only if you don't make this slide.]
+;W[cq];B[bq];W[bm]C[I ignored this. Was that safe??
+
+N: White can steal your eyes, but you should still be able to connect.  But now your heavy group has a heavy tail, too.  :(]
+;B[jc]C[N: Yes, this is big.  But you can't tenuki here.  You need to keep running.  Or just accept the entire last 6 moves as a lost cause and sacrifice the whole thing.  But that's a lot of territory to cede.]
+;W[gm];B[cr]C[N: It's too late.  Don't come back and try to save it now!]
+;W[dr];B[cp];W[dq];B[br]TR[cs]C[N: Triangle at least makes it tricky for white to kill (still possible I'm pretty sure).]
+;W[bn];B[bo];W[do];B[co];W[gc]TR[ao][cs]C[N: White's giving you a chance to live still.  He should have hane'd at the two triangle points and forced your group to run out.
+
+You need to spend your next move making solid life, by playing at either triangle yourself (the bottom one would be better).]
+;B[je]C[The lower left has only one eye and I ignored it..
+
+N: Yeah]
+(;W[pb]TR[qc]CR[pc]C[I had no idea how to respond to this.
+
+N: Triangle is fine.  White lives on the top, and you get most of the right side.
+
+Circle is also a possibility.  When it works, it forces white to pick a side, and you close off the other side.  But the variations can get very complicated, and if you aren't pretty sure you can handle them, it's best not to play it.]
+;B[qc]C[N: Good];W[mc];B[nb]LB[lb:A]TR[me]C[Should I have played at A instead here?
+
+N: Play at triangle.  It connects your two groups, and encourages white to live small, AND helps build a moyo again.
+
+A just asks white to run out, and that's NOT what you want.  He'll destroy your side moyo, and you're not really getting complensation from him, sicne you have to make life for your top stones at some point anyway.]
+;W[nc];B[ob]C[N: This is one of those tricky sequences that feels good to play until you realize you've lost sente.]
+;W[oc];B[pc];W[mb];B[qb];W[mf]TR[hc][gd]C[Great play by white. Is it too late to deal with by this point?
+
+N: You can try attaching to white's stones to build up some strength, but yeah, white took the vital point. You're in a tight spot :)]
+;B[hb]LB[ja:A][ge:D][le:B][jg:C]C[This isn't getting me a base because of A. What should i be doing instead here? B? C? D?
+
+N: B isn't good, since it just helps white strengthen.  D is too weak.  Better to attach to that stone directly, since white is already strong on this side.  When stones touch everyone gets stronger, which is what you need here.  C is fine, but you're going to be running for a long time.]
+;W[kd];B[jd]TR[hc]C[N: Don't automatically connect.  It might be better to offer a trade and play triangle.  (It might not, though.  Maybe desperately hoping to kill white's stones is your play at this point).]
+;W[kc];B[ke];W[le];B[jh]LB[kg:A][kh:B]TR[je][ke][lg]C[What's the best way to run using the marked stones at this point? A? B?
+
+N: This is fine.  Triangle might also be good, since it would encourage white to make an empty triangle.  (Sort of a pre-emptive peep).]
+;W[kf]
+(;B[jf]TR[jh][hc][hd]C[N: You probably don't want to respond directly like this, since it makes your triangle stone look silly when white responds.
+
+I'd consider either triangle.  Come back to this later, maybe.]
+;W[kg];B[gg]TR[gd]CR[he]SQ[jd][je][jf][jg]C[I'm weak at making eyes in the center of the board. How would you try to do that?
+
+N: Attaching at triangle would be my first thought.  Touching stones is good when you want eyes.  Circle is also good, as it's a shape point with the three square stones.  It might feel slow, but it gives you a lot of options.
+
+And yeah, it sucks, but connecting at square is also a possibility.]
+;W[jg];B[ig];W[if];B[hf];W[ie]TR[if][hd]C[It took me a long time to see that I couldn't capture the marked group. Painful.
+
+N: Actually you can.  Net it with triangle.  You'll have to give up a stone on the outside, and it might still be hard to make a second eye, but it's a decent fighting chance.]
+;B[he];W[id]C[N: Yeah, you're kind of boned at this point.  Not sure if this is recoverable.]
+;B[hd];W[ic];B[hc];W[jb]C[The third big mistake of the game as far as I can tell.
+
+
+This is far enough from a review perspective. Comments on the points up until here is all I need, I think.]
+;B[hj];W[ih];B[hh];W[ii];B[hi];W[ji];B[ed];W[ec];B[dg];W[fd]
+;B[cg];W[dh];B[eh];W[di];B[ei];W[dj];B[bg];W[ff];B[ef];W[fg]
+;B[eg];W[fh];B[fe];W[fi];B[fj];W[hg];B[gf];W[ig];B[hq];W[gq]
+;B[hr];W[fr];B[ph];W[nh];B[ok];W[pl];B[pk];W[nm];B[mo];W[io]
+;B[kn];W[jo];B[ko];W[ip];B[jq];W[iq];B[ir];W[bh];B[cd];W[de]
+;B[be];W[ee];B[ge];W[cc];B[bc];W[dd];B[bd];W[gb];B[ib];W[bb]
+;B[of];W[oi];B[pi];W[oj];B[kl];W[pj];B[qj];W[il];B[ah];W[ai]
+;B[ag];W[bj];B[lj];W[ao];B[ap];W[cs];B[bs];W[ar];B[fl];W[fm]
+;B[em];W[el];B[cm];W[dl];B[bl];W[bk];B[fo];W[go];B[gl];W[fk]
+;B[gn];W[hm];B[hn];W[gk];B[in];W[gj]C[malbery [9k\]: yikes!!]
+;B[im];W[hl];B[fn];W[jm];B[jn];W[km];B[ac];W[cf];B[cb];W[db]
+;B[bf];W[ae];B[ij];W[lm];B[gh];W[gi];B[jj];W[mk]C[seven44 [8k\]: gg]
+)
+(;B[lg]C[Would this have been a better way to respond?
+
+N: It's probably worth considering.  But white might decide to trade and take the entire top in exchange for giving you the right side.  You have to be ready for that kind of flexibility.]
+
+(;W[jf];B[lf];W[me];B[if])
+(;W[lf];B[jf];W[kg];B[kh];W[lh];B[ng];W[mg];B[ni])))
+(;W[cs];B[bs];W[ao];B[ap]C[Yuck.]))
+(;B[qm]C[N: yes, I like this];W[rr];B[ro]CR[pl]TR[mp]C[This looks like a good variation for me to play as black. Would white have to live small in the corner? Did I miss something?
+
+N: I think it's premature to try and do cuts like this.  Circle is a nice point for shape, and lets you develop the side, agreeing with your 4-4 stone.
+
+Problem is that white's probably good leaving this whole mess and playing elsewhere.  This was an area you were strong in originally, and leaving the whole debacle as aji to take a big point somewhere is probably a good idea.  And you can't really eliminate the aji in a single move.
+
+If white invades at triangle later, the aji is going to cause problems.
+
+Strong shape, like circle, would help in that sort of situation.  At least then the right side doesn't need help.]
+;W[sn];B[qn];W[rp];B[po];W[qp];B[rs];W[sr]C[N: White probably won't play like this, if he knows what he's doing.  Living small locally like this would be too good for black, even with the aji in black's position.]
+))

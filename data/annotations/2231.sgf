@@ -1,0 +1,183 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.13b]
+
+GN[FLEEIN~1]
+PB[rabbit57]
+BR[22k]
+PW[dbj705]
+WR[20k]
+KM[0.5]
+DT[2002-12-04]
+PC[The Kiseido Go Server (KGS) at http://kgs.kiseido.com/]
+RE[W+7.50]
+TM[1725]
+OT[5x45 byo-yomi]
+RU[Japanese]
+
+C[Rabbit57:  Hello, reviewer.  I am 22 kyu and I play black in this game.  My opponent is 20 kyu.    After 50 or so moves I was pretty confident about my positions on the board.  But white managed to hack away at my territories until I was behind, and I ended up losing by 7 points.    Thank you for looking at this game, and I appreciate any comments you might have.
+
+MM: Hello, Rabbit57. I am 8 kyu in the AGA. Thanks for the chance to review your interesting, spirited game.]
+;B[pd];W[dc];B[pq];W[cp];B[qk];W[ci];B[eq]C[Rabbit57:  I wasn't very confident about this move (E3).  I'd like to know what moves might be better at this point in the opening.  Or, if this is a good move, why?  Looking back on it, the bottom side seems "uninteresting" because both black stones are so low.  But the upper left corner doesn't look approachable like this one.
+
+MM: This looks pretty good to me, I like having a double-wing formation early in the game, but I should warn you that I am quite ingnorant about the opening. This might perhaps be better at E4 since, as you say, two of your other stones are low.
+   According to orthodox opening theory, this kind of approach to a partially-enclosed corner is more important than moves on the side like your move 5 at R9. The order advised by Yang Yilun for this stage of the fuseki is:
+empty corner, shimari {corner enclosure} or kakari {approaching partially occupied corner}, big point on the side {especially if it joins two friendly corners or divides the opponent's two corners}.
+   I would guess that the UL corner is approachable, though I would have difficulty finding the exactly right spot to approach. Probably you could live in the corner or on the left with C15, but the thick and influential walls White would build in the process would be worth more. So to avoid that, maybe you could approach high at D15. If W plays to connect the D17 and C11 stones, then *you* will be the one who gains thick center-facing walls. If W instead extends along the top side, then you play to live on the upper left, keeping the W top separate from the W left.]
+;W[do]C[MM: Shusaku's old move. Nowadays often considered strong but too slow.]
+;B[gp]C[MM: Good.];W[kp]
+(;B[kq]TR[iq][mq][gn][jq][po][qo][pn][qn]C[Rabbit57:  This is another move I was not confident about.
+
+MM: And rightly so. White is alone in your arena. Your stones are stronger than White's. However, when you make a contact play like this, two things happen.
+   1. You have just put down a stone that has only three liberties. True, White's stone also has only three liberties, but it is now White's turn. This often has the effect of making you one step behind in a capturing race.
+   2. Well, what would you do if *you* were White now? Usually, the natural responses to your contact play will tend to make both players locally stronger. But wait - you were already strong locally, and a few moves after L3, both colors are strong locally. This translates into a local loss for you. In effect, with the contact play, you force White to become strong in that area, and you force yourself to play inefficiently.
+   {Of course, there are exceptions to this. If you are invading a part of the board where the opponent is already strong, it may be good to invade with a contact move, because you do not mind if your oppenent plays inefficiently, adding stones in an area where he is already strong - called "overconcentration". And one often sees a contact move of this sort played in a corner by very strong players, and described as a "probe" - meaning, I think, that they expect the stone to die, but that's ok because they will learn something valuable about the opponent's intentions. I guess these contact "probes" are way above my current playing level, because I don't understand it at all.}
+   So, the go proverbs say things like 'do not touch weak stones' and 'to attack on the left, first build strength on the right' and 'approach from a distance'.
+   You probably cannot kill White's L4 stone - the bottom side has too much open space. So you need a different goal. As I see it, you want to do three things here. You want to secure a base for your E3-G4 stones {perhaps not really necessary, since Black can run to the center, or probably live with a move near C2}. And you want to weaken the White group forming on the lower side. And, you want to keep the White group small and isolated, while making your own groups large, powerful, and connected.
+   With these things in mind, I would suggest one of the spots marked with a triangle - J3 {see var.}, N3, K3, G5, or near Q5. Of these, I like J3 or N3 most. And tenuki may be reasonable too.]
+;W[lq]C[MM: Natural.];B[jq]C[MM: Of course.];W[mp]C[MM: Good shape for White.]
+;B[oo]C[MM: I think this is too ambitious. It doesn't really threaten the White group, and it leaves weak spots in Black's lower right. Q5 would be safer, I think.]
+;W[mn];B[om];W[jd]C[MM: Big move.];B[lc];W[jc];B[de]C[Rabbit57:  At this point I was thinking, "White's moyo is looking rather large.  I better put some pressure on it."
+
+MM: Yes, but your own emerging right-side moyo is pretty impressive too. In this case, my own instinct would be to play at or near the K10 center hoshi, or perhaps near E11 first, to build strength for claiming the center. If you can link your lower side through the center to your right side, then I think you control more than half the board.]
+;W[cd];B[ce];W[dd]TR[cg][dg]C[MM: Ugh. Looks like a wasted move by White. Instead, White should play on the other side, so Black cannot easily form a base. Then White can profit while chasing the heavy Blacks across the board.]
+;B[dh];W[ch];B[di];W[dj];B[cm]TR[ce][de][dh][di]C[Rabbit57:  This was obviously a mistake....(?)
+
+MM: I am not sure what your intent was, but yeah, you are already loosely surrounded there, with little room for eyes - and it is White's turn. Assuming normal responses from White, it will be tough to live there. It might be reasonable to play a stone near here just for future aji, but in that case, I'm not sure where is the best spot.
+   Your 4 stones around D12-D15 are not settled yet. Something like F16 is what I would play here, intending to follow up with C13. Or maybe near K12, expecting to link to either the Blacks on the right or on the bottom.]
+;W[dm];B[cq]TR[dl]C[MM: Hmm, well, since White made a contact play, you can probably fight back with D8.]
+;W[bp];B[eo];W[dq];B[dr];W[dp];B[bq]C[MM: B2 would claim almost as much territory, and would leave fewer cutting points. This comes back to haunt you in about 80 moves. But the upper left seems most important anyway right now - whoever moves first there will have an advantage.]
+;W[cn];B[jp]TR[lo]MA[cr][er][ep]C[MM: Not a bad idea, but M5 seems to do more to keep the Whites weak. Also, mind your cutting points around C2-E2-E4, which is a lot of aji for White to exploit later. And, the upper left is still unsettled, and large, so that is probably the most important area.]
+;W[ko];B[ml];W[mr];B[ln];W[lo]TR[nq]C[MM: I originally wrote, White is now settled - alive. But looking closer, I think Black can keep White weak by playing at the O3 vital point.]
+
+(;B[mm]TR[lm][nq]C[MM: Better at M7, or at O3.];W[kn]TR[cg]
+[fe]C[Rabbit57:  Perhaps I should have ignored this atari?
+
+MM: I originally said 'Yes, it is only one small stone. White can easily make two eyes with this shape, so saving one stone is insignificant when there are such big moves as C13, or something near F15.' In fact, the White shape is not fully settled, so saving this stone helps keep White weak.]
+;B[lm];W[km];B[nn];W[mo];B[kl];W[jm]C[MM: In introducing this game for me, you wrote "After 50 or so moves I was pretty confident about my positions on the board.  But white managed to hack away at my territories until I was behind, and I ended up losing by 7 points."
+   This is move 52, and things do look ok for Black now. *However*, there is little secured territory on the board, much is still unsettled. The upper right Black moyo is wide open for invasions. The four stones on the left still are not fully alive. At this stage, I cannot tell who is ahead, but it is interesting that all White's stones can easily make eyes and live; but Black has a heavy group on the left, and frightening thinness in the upper right. On the other hand, Black's lower right is very strong, and faces two other Black groups. Overall, I think Black has better prospects.]
+;B[lj]TR[jh]C[MM: This is good, but not quite far enough. Your stones around the N7 area are very strong. You can jump probably to M13 or L12, and White could not cut. You can also push along K8, getting a bigger wall to face the center or else connecting to your G4 lower side. I think I like K12 best. If you can tie your left side stones through the center to ther right, then you easily dominate the game.]
+;W[jl];B[qg]C[MM: Big, strengthens your moyo, though White probably can still invade and live small. However, the 4 stones on the left still seem most urgent to me.]
+;W[nc];B[ne]TR[le][md]C[MM: Not so good. The weak spot at N16 needs to be protected. Black should N16 or maybe M15. Then White will probably jump to R17 and make a small life in the corner. That is ok, Black should not expect to kill everything.]
+;W[md]C[MM: Severe.];B[ld];W[le]TR[me]C[MM: Better to crawl up at N15.]
+;B[me];W[lf];B[mc]C[MM: Good!];W[mg];B[ng];W[mh]
+(;B[oi]TR[ge][gf][gg][cg][fd]C[Rabbit57:  This move (P11) looks cowardly in hindsight.
+
+MM: Territory on the 5th line, cowardly? I disagree. However, I think it is not very large. Say White gets to go there instead of you, and you could not cut the White stone off {see var.}. You would lose about 10 or 12 points that you could have otherwise had, due to the shift in the boundaries. A dozen points isn't so much at this stage of the game. A move around the G15 area would be worth rather more.
+   Also, it looks like you can cut at L15 or M15. If White resists the cut, it looks like Black dominates, but if White sacrifices the cut-off stones, then Black may lose the four stones on the left.]
+;W[nh];B[og];W[oh];B[ph];W[ni];B[mf]C[MM: Why do you make this empty triangle, which reduces your liberties by one? Are you aiming to cut at M13? Of course White will defend the cut, which removes your aji -- your possible future chances to attack or reduce.
+   With this move, you give White the chance to play some forcing moves. Now White could give you trouble by connecting at O16, because of the possible atari at P15 and the possible peep at P14. {After exploring a few variations, I think this is not really a serious problem - Black is too strong in this area for White to do much.}]
+
+(;W[lh];B[nd]C[MM: Good!];W[oj];B[ji]C[MM: Very good!
+   The difference between Black getting that point or White getting it looks *huge*. Think how nervous you would be if White had gone there instead of at P10 just now.]
+;W[ee];B[ef];W[fe];B[jf]TR[ke]C[MM: Forces White to connect. "A good spot for the opponent is a good spot for you." Maybe you can still cut directly at L15 or K15? It quickly gets complicated, but I think Black would have the advantage.]
+;W[ke];B[ej];W[dk];B[ek];W[el];B[fl];W[fm];B[gl];W[gm];B[ik]
+C[MM: Good! It looks like you brought your left side groups to safety, connecting them to the right side.
+   Black seems to be ahead now, though White may still be able to invade around R17 or R5.]
+;W[hl];B[hk];W[fk]C[MM: Probably better at G10.];B[gk];W[fj]
+;B[ei];W[gi];B[he];W[hd];B[ge];W[gd]TR[ff]C[MM: White should keep up the pressure with F14.]
+;B[ff];W[ie];B[if];W[je];B[kg];W[lg];B[kh];W[jk];B[il]C[MM: Looks risky, and does not increase your liberty count. There's a cutting point for White at J10.]
+
+(;W[im];B[hm];W[hn];B[ij]C[MM: Good reading.];W[hl]C[MM: ?? What's White doing that for?]
+;B[en];W[em];B[pi];W[nk];B[kk]TR[cg][qc][bo][kb][be][ep]C[MM: Wasted move - does not help Black, does not threaten White. Your center can connect to your right side even if White gets this point, and both should be independently alive anyway. I marked a few more important points.
+   Right now, about halfway through the game, who is ahead?  Black's lower side - lower left is about the same size as White's upper side - upper left. White has the left side, but Black's right side is far bigger, and Black has a few points in the center, too. So I would estimate that Black is ahead, by maybe 40 or 50 points. Let's see what went wrong for Black after such a good opening and early mid-game.]
+;W[hm];B[jj]C[Rabbit57:  Here comes a large fight in the bottom left that I didn't see coming.  I thought my group surrounding G4 was safe.  I wonder what I should have noticed, and when I should have noticed it....
+
+MM: There has been a weakness at C2 - E2 - E4 since about move 37 or 39. It was reasonable to leave the weak shape at the time, because there were bigger gains to be made elsewhere on the board. But at some point when there are not bigger moves to be made, you have to go back to patch up your weak shapes before your opponent takes advantage of them. (It's even better to not make weak shapes, but I can't tell you how to do that until I figure it out for *my* games.)
+   In general, when you look for cutting points, the kind of shape you have around the D2 stone should stick out like a red flag (*especially* when your stones are so close to the edge), and you should worry about walls that are in contact with enemy stones if you have gaps like at E4. Also, if you count liberties for the E5-E6 group, there are only four liberties. There is a useful though slightly controversial rule-of-thumb 'Five liberties for tactical stability'. It's controversial because groups can be in trouble even with a lot more than 5 open liberties, and they can be safe with fewer than 5. But it's useful because it reminds you to at least somewhat monitor the statuses of your not-quite-connected groups.
+   With more experience, you will see these kinds of things sooner.]
+
+(;W[ep]
+(;B[fo]C[MM: Mistakes - White should have sacrificed a stone at C2, I think; and now Black should just play F3, sacrificing the E5-E6 stones. Let White have the 5 or 6 points those two stones represent, and preserve the 12 or 15 points you would lose if White gets atari at E2.]
+;W[fq]C[MM: Yes, I guess that way works too, and perhaps inflicts more damage.]
+;B[er];W[fp];B[fr]C[MM: Good.];W[gq];B[ho]C[MM: No - they're surrounded. Give them up, and you can probably save the three K3 stones by playing G2.]
+;W[hr]C[MM: Now Black is disconnected and lacking space for eyes. It is harsh, losing 8 stones and about 12 points of probable territory all at once. This is about a 25-point swing in favor of White - maybe about half the lead Black had a few moves ago.
+   Now Black needs to read out how to save the LL corner.];B[hq]
+C[MM: Futile.];W[iq];B[hp];W[gr];B[ir];W[jr];B[ip];W[kr]C[MM: That must have been very satisfying for White.]
+;B[dn];W[fn]C[MM: White wastes a move, this is not necessary.]
+;B[go];W[bm];B[cl];W[bl];B[bn];W[co];B[ap];W[ao];B[gs];W[hs]
+;B[is];W[fs];B[an]
+(;W[aq]C[MM: Black must be careful here.];B[ar]
+(;W[bo];B[ap];W[am];B[bs]C[MM: Good, Black saved the corner.]
+;W[es];B[ds];W[gs];B[bn]TR[dh][di][ei][ej][ek][df][gf]SQ[eh]
+C[Rabbit57: Seems so close!
+
+MM: It is an illusion. From here, you can still cruise to victory if you simply maintain sente and get the good endgame points, I think. But beware of bad shape and cutting points in your center group. In particular, the five stones making an empty triangle near D11, combined with the cutting points at G14 and D14, seems to form a vulnerability.]
+;W[aq]C[MM: Sure, why not, White is safe since there is the capture at A6, so why not take the ko, even if it is only worth one point. It is sente, after all.]
+;B[br]C[MM: I agree, defend against the double-atari since you do not have big ko threats. But it is worth pointing out that this move leaves a ko threat for White at C1 or C2. If you defend with C2 instead, then it does not give White a future ko threat.]
+;W[an]TR[qc][qo][qp][qm][df]C[MM: I don't understand. Why take the ko if White was going to capture now anyway? This would be better spent starting an attack on the center, or maybe trying to live around R4 or R17.]
+;B[ap]TR[be][kb][or][pl]C[MM: Only worth one point, and not sente!
+   You cannot attack the big white group, because it has three liberties - one of which is an eye - while your two stones at C7-C8 have only two liberties, and cannot get more. Considering how close the final score was, this may be a losing move. L18 would be worth about 4 points, in sente. P2 would be worth maybe 6 points, though not in sente. Patching your hole at Q8 would be worth - hm, I'm not sure, maybe 6 points? though not sente.
+   B15 is probably the biggest move on the board. It would set up an 8-point monkey jump into the corner or into the left side - White cannot block both. So if you now play B15, maybe you win by 1 instead of losing by 7?]
+;W[ck]C[MM: White is being cautious. As I read it, this is unnecessary.]
+;B[mj]C[MM: Sente, good.];W[nj];B[mk]C[MM: Gives up sente. Not so good. Play your sente moves first, then come back and save one point here.]
+;W[pj];B[qj];W[pl];B[pm];W[ol]C[MM: White lets you off the hook. R8 would be more severe.]
+;B[ql]C[MM: Good.];W[cg];B[cf]C[MM: ???? Why make this empty triangle - false eye? Why leave the gap for White to crawl in? Why not fix your shape problems with the natural move at D13? This must be the play that lost the game.]
+;W[dg]C[MM: Of course! Who could resist the temptation to play this?]
+;B[df]C[MM: If you block at E13, you lose only three stones.]
+;W[eg]C[MM: Looks like it's time to kiss some stones good-bye.]
+;B[fi];W[gj];B[fh];W[fg];B[gh];W[gg];B[hh];W[gf]C[MM: Well, Black saved the empty triangle stones, but at what a price. This is about a 20-point swing in favor of White, and Black could have easily prevented it.]
+;B[hf];W[be]C[MM: White wastes a move capturing stones that cannot avoid capture.]
+;B[bf];W[bd];B[bg];W[bh];B[bj]C[MM: That does look a lot like a vital point, but it doesn't seem to work.]
+;W[cj];B[bk];W[ag];B[jb]C[MM: Good fighting spirit! L18 is probably enough though, and safer.]
+;W[ib];B[ja]C[MM: ?? What will you do if White cuts at L18?]
+;W[ia]C[MM: White makes a sente move];B[kb];W[ic];B[nq]C[MM: Good.]
+;W[nr];B[or];W[np]C[MM: White makes a sente move];B[op];W[mq]
+;B[oq];W[kc]C[MM: White makes another sente move. Black must respond, and in a way that reduces Black's score by 1 point.]
+;B[lb];W[hg]C[MM: White makes a sente move];B[ig];W[li];B[ki]
+;W[pk];B[nl];W[os]C[MM: White makes a sente move that reduces Black by one point.]
+;B[ps];W[ns];B[no]C[MM: This is dame, a neutral point. If White gets L14 , then you have to cover the J12 weakness. So, Black at L14 would save you a point.]
+;W[kf]C[MM: White makes a sente move];B[jg]C[MM: Covers the J12 weak spot.]
+;W[aq]C[MM: White gets the last point.];B[tt]C[MM: Thanks for an interesting game to review. You got a good start, but White caught up by isolating and killing two sizable groups of your stones, and brought home the win by more consistently keeping sente in the endgame.
+   On the lower side, you could have minimized the damage - by throwing away two stones that were cut off - and kept a reasonable territory. Instead you tried to keep all the stones, and ended up losing far more than necessary.
+   On the upper left, you could have preserved the connections among your groups, and suffered almost no loss there. Instead you played a move that virtually guaranteed your groups would be cut to ribbons.
+   Seven or eight times after move 207, White was able to reduce Black by about a point in sente. Black did not use sente as well as White.
+   I think investing some time in learning more about cutting and connecting groups will pay strong immediate dividends in your game. Also, work on your willingness to give up a few stones - in order to minimize your losses, or to gain an advantage elsewhere on the board. One interesting exercise that has helped me is to actively look for groups you can profitably give to your opponent. Aside from that, I would recommend studying life and death problems, and simply gaining more experience by playing more games. Your intuitive grasp of shape seems not bad for the 20k level, and you have a good fighting spirit.
+   If you don't already know, you can find out a lot about connecting, cutting, and life-and-death on the Web at the GTL sister sites -
+http://senseis.xmp.net/
+http://www.goproblems.com/
+   So study, play, and enjoy.  :-)  If you have any questions or comments about the game or this review, please feel free to contact me.  - Mike Malveaux]
+;W[tt]TW[aa][ba][ca][da][ea][fa][ga][ha][ab][bb][cb][db][eb]
+[fb][gb][hb][ac][bc][cc][ec][fc][gc][hc][ad][ed][fd][id][ae]
+[ce][de][af][bf][cf][df][ef][ff][bg][ah][ai][bi][aj][bj][ak]
+[bk][ok][al][cl][dl][cm][bn][dn][en][gn][in][jn][eo][fo][go]
+[ho][io][jo][gp][hp][ip][jp][lp][hq][iq][jq][kq][ir][lr][is]
+[js][ks][ls][ms]TB[ka][la][ma][na][oa][pa][qa][ra][sa][mb][nb]
+[ob][pb][qb][rb][sb][nc][oc][pc][qc][rc][sc][md][od][qd][rd]
+[sd][oe][pe][qe][re][se][nf][of][pf][qf][rf][sf][pg][rg][sg]
+[ih][jh][qh][rh][sh][gi][hi][ii][qi][ri][si][fj][gj][hj][kj]
+[rj][sj][fk][lk][rk][sk][ll][rl][sl][nm][qm][rm][sm][on][pn]
+[qn][rn][sn][po][qo][ro][so][pp][qp][rp][sp][qq][rq][sq][cr]
+[pr][qr][rr][sr][as][cs][qs][rs][ss])
+(;W[cr];B[br];W[cs]C[MM: Right now, Black cannot play at B1 nor D1 because of self-atari. Black's only hope is the ko at A4.]
+;B[ap];W[ds]C[MM: So Black loses the corner.]))
+(;W[am]
+(;B[bo];W[ao])
+(;B[bk];W[bo])))
+(;B[fq];W[go]C[MM: White gains a little, but that's ok; it would be greedy and unrealistic to expect to win everything.]
+;B[ap];W[ao];B[aq];W[bn];B[fp];W[fo]))
+(;W[cr];B[br];W[er];B[cs];W[fq];B[ep];W[gr];B[fp];W[js];B[is]
+;W[ir];B[jr];W[iq];B[es];W[fr];B[ip];W[hs];B[ks];W[hq]
+(;B[hp];W[fs]C[MM: I think White lives independently on the bottom, which means that Black lacks space for eyes. But Black might have a better way of fighting back that I failed to find.]
+)
+(;B[fs];W[hp];B[ho];W[io];B[go];W[is])))
+(;W[ij];B[hm];W[jj]C[MM: Black's center seems ruined.]))
+(;W[nd]C[MM: If White connects,...];B[nb]C[MM: ...this looks necessary...]
+;W[oe]C[MM: ... now P15 is atari. It wouldn't be, except that Black took away its own liberty at N14.
+   However, Black is so strong in this area that it really does not matter - White should probably save these moves for use as ko threats.]
+))
+(;B[fd];W[oi];B[oh];W[nh];B[ph];W[pj];B[qj];W[nk];B[ok];W[pk]
+;B[pl];W[pi];B[qi];W[nl];B[ol];W[mk];B[lk];W[mj];B[nj];W[ni]
+;B[oj];W[mi];B[nm]MA[oi]SQ[pj][pi][oj][nl][nk][ok][pk]C[MM: This is more or less the kind of reduction you could expect to suffer if White successfully snags P11 (marked with cross) instead of Black. The squares show points that you might surround if Black gets P11 instead of White. As you see, it's only about 8 points you miss out on by not getting P11.]
+)
+(;B[ke];W[kd];B[jf]
+(;W[nd];B[nb];W[oc];B[ob];W[nf];B[oe];W[pc];B[qc]C[MM: It looks like Black can cut off the M15 Whites. This looks nearly resignable for White.]
+)
+(;W[je];B[kf];W[if];B[jh];W[ig];B[kh];W[hi]C[MM: But if White accepts the cut, and sacrifices the six stones, then White can surround the four Blacks on the left. This way it feels like a close game.]
+)))
+(;B[nq];W[mq];B[no];W[mo];B[kr]C[MM: White has only one eye. The M7 ladder does not work, thanks to the D12 Blacks. White will have to struggle to connect to the left.]
+;W[lm];B[kn];W[jn];B[km];W[kl];B[jm];W[im];B[jl];W[jk];B[il]
+;W[hl];B[ik];W[ij];B[hk];W[gk];B[hj];W[hi];B[gj];W[fj];B[gi]
+;W[gh];B[fi];W[ei];B[fh];W[fg];B[eh]C[MM: The ladder almost works for White, but not quite.]
+))
+(;B[iq];W[lq];B[po];W[mp]C[MM: White might play different moves than in the actual game, of course. This seems like a more efficient use of your stones...]
+;B[lo]C[MM: ...and White is not completely out of the woods yet.]
+))

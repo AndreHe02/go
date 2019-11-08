@@ -1,0 +1,301 @@
+(;FF[4]GM[1]SZ[19]ST[1]AP[SGFC:1.15]
+
+PB[richbest]
+BR[20k]
+PW[GNU Go]
+KM[-6.5]
+DT[2008-02-06]
+RE[W+25.5]
+
+N[0 Introduction]C[richbest:
+----------
+Hi, I'm just a complete beginner player; so I don't even know my own strength/level.
+
+However, I have been learning Go from Janice Kim's series, up to Volume III, which is considered to be for 10-15k players. Also, I have been solving some Tsumegos for 15-30k from goproblems.com
+
+This is my first very well thought game I've ever had (eventhough just with a software). So,please bear with my stupidity along the game.
+
+I put -6.5 komi just for checking whether reverse (minus) komi  is usable in this software, ;-D. The GNU Go I used is level 10 (highest in the software).
+
+And here is my own suggestion just to make the review easier to read:
+- please separate your reviews from  my comments/questions with your name/initials
+- please number the stones or mark the group of stones instead of using coordinates
+- please feel free to add variations on  the game tree to clarify your explanation
+- I myself tend to use the terms North, West, South, and East for direction, so please bear with it, might be a bit annoying
+
+All these are merely my humble suggestions. But, just do your review in the way you see best. I really appreciate your patience and time to review my game
+
+Thanks so much];B[qp];W[dd];B[oc]LB[dd:2][oc:1]N[3 (P17) Moku Hadzushi]
+C[richbest:
+----------
+I used this 'Moku Hadzushi' Joseki just out of curiosity from the Hikaru No Go anime ;-)
+
+To me it seemed that this Joseki is quite aggresive given the closeness of B1 to W2.
+
+I intended to be aggresive (rushing to plant 'my flag') since this is my first game against the highest level of GNU Go without handicap stones.]
+;W[oq]N[4 (P3)  White's approach]C[richbest:
+----------
+I was shocked when White started approaching this early in the game.
+
+Do you think this early approach necessary from White's point of view?
+
+I was wavering in my decision between protecting my corner or claiming the last South-West corner.
+
+If possible, could you also put your own variation to resolve this conflict?
+
+thesarge: theres nothing particularly surprising about approaching here. since you played on the 4-3 point, theres no urgent need to protect here, you can go for the corner if you want]
+
+(;B[dp]LB[dp:1]N[5 (D4) Claiming corner]C[richbest:
+----------
+I decided to claim the last corner, using the star point.
+
+Had I tried to protect my South-East corner I would most likely use the joseki variation added on the tree.
+I learned it from 'The Game of Go'.
+
+However, I was not quite sure with the following:
+
+- would White follow the Joseki as what I've learned
+
+- would it go well with the 'moku hadzushi' I used previously
+
+- would it be worth to let White get the sente this early in the game after the joseki sequence (see the Joseki variation)
+
+thesarge: the opening is very...well open. its hard to say what white would do.]
+;W[po];B[op]C[thesarge: p4 should be played at r5];W[pp];B[np]
+;W[rn]LB[rn:7][np:6][pp:5][op:4][po:3][oq:2][qp:1]N[10 (S6) Black blocked?]
+C[richbest:
+----------
+Is there actually some tricky tactic for B1 to get out of White's group?
+
+thesarge: i cant seem to see any clear way to live, your best bet is probably q2]
+;B[pj]LB[oc:1]N[11 (Q10) Black's base]C[richbest:
+----------
+I put this marked stone as a base to assist B1 in future battle-for-territory, since B1 seem to be placed too upfront in the North battlefield.
+
+Is this necessary?
+
+thesarge: its fine as an extension from p17 and an attack on the lower right white stones]
+;W[dn]LB[dn:2][dp:1]N[12 (D6) White's 2nd approach]C[richbest:
+----------
+Is there a standard Joseki to answer W2?];B[fp]C[thesarge: this is a standard enough response]
+;W[cp];B[cq];W[co]C[thesarge: the joseki move here would be at b3, otherwise white can play there and take the whole corner]
+;B[pe];W[cj];B[jq];W[bq];B[cr];W[hc];B[kc]TR[op][np]LB[kc:13]
+[hc:12][cr:11][bq:10][jq:9][cj:8][pe:7][co:6][cq:5][cp:4][fp:3]
+[dn:2][dp:1]N[23 (L17) End of Opening?]C[richbest:
+----------
+Out of curiosity, can this state already be called the end of the OpeningGame?
+
+I put B3 and B9 in order to help the marked stones stay alive.
+
+After W4 attaches, I do hane to B5 in order to drive White away from the South-West corner and South area.
+
+Actually I was thinking of driving W4 to the South but I had no confidence due to my lack of thickness over the South area.
+
+I was wondering too whether I should have done double-hane with B11 over W10 or just cover my South area as what I've done there to avoid complications.
+
+Well, at this point should I consider that White has mostly won over the South-West corner?
+
+Any way to turn that around?
+
+thesarge: like i said, the easiest way would have been to play at b3 before white, double-hane would have just been throwing away a stone, he would have been able to capture immediately. instead of securing the bottom left you secured the top right, so you had to trade. With whites stone at c10 it will be hard to invade at this point, so your best bet is to work elsewhere or try and contain it, for example at e10]
+;W[ie];B[oo]C[thesarge: dont make open triangles! black 25 should be played elsewhere, this puts very little pressure on the white group in the corner, and does very little to extend blacks group.]
+;W[pm];B[om];W[nq];B[lq];W[gm];B[im];W[ik]
+(;B[je]SQ[fn]TR[dn]LB[je:10][ik:9][im:8][gm:7][lq:6][nq:5][om:4]
+[pm:3][oo:2][ie:1]N[33 (K15) Journey to the center]C[richbest:
+----------
+Interestingly, the whole board now looks like a heart shape with its lower arteries ;-)
+
+W1 started the 'Journey to The Center'
+
+I tried to answer it by building wall on the South-East corner to prevent White's group from gaining influence on the center using B2 and B4.
+
+B6 is used both as 'stopper' and 'wall.'
+
+After going through the game, I'm wondering whether I should've put B6 one step to the marked White stone to prevent expansion to the center earlier.
+
+How should I have put my B8 to deal with center extension by W7?
+
+B10 is to prevent W1 extending to East area.
+
+thesarge: this is why i suggested possibly a play at e10 earlier, to weaken some of whites influence here. Instead of trying to block off whites advance with black 8, I would possibly try invading. At that point, whites formation is very open, you could try invading at d13 for example.]
+;W[ig];B[jg];W[jh]C[thesarge: the last few moves of yours allow white to seal off his giant territory, while giving you only the chunk in the top right. You may have been better off invading instead of defending in the top middle. (see my variation on black 33)]
+;B[kh];W[ji];B[jf];W[if]LB[if:7][jf:6][ji:5][kh:4][jh:3][jg:2]
+[ig:1]N[40 (J14) Half-Split]C[richbest:
+----------
+Well, I ended up splitting the center.
+
+Should I have not execute this strategy?
+
+I'm still having trouble answering the kind of 'pushing' move like W3, whether it's safe to 'kiri' (cut) or follow (like what I did with B4)
+
+thesarge: your best bet in these cases is to look at whites possible responses and go from there. the hane left a small weakness but since you have a large wall here it should be fine. Since there is such a large open area on the top left, cutting may have been appropriate; it would of course lead to a big fight on both sides, but since you seem to be behind already, it would be a chance to take a lead.]
+;B[ih]C[thesarge: on the other hand, black 41 is too late to cut and can easily be caught in a ladder.]
+;W[jk];B[fd];W[ee];B[fe];W[mj];B[mi];W[qk];B[qj];W[rk];B[rj]
+;W[ib];B[ic]C[thesarge: i would not play black 53 here as it just gives white an opportunity to play here and weaken your stones at F15 and F16, probably matching at K18 would be fine]
+;W[ef];B[id];W[hd];B[fc];W[ff];B[gf];W[ge];B[gg];W[hf];B[hg]
+;W[he]TR[ig][if][ie]LB[he:24][hg:23][hf:22][gg:21][ge:20][gf:19]
+[ff:18][fc:17][hd:16][id:15][ef:14][ic:13][ib:12][rj:11][rk:10]
+[qj:9][qk:8][mi:7][mj:6][fe:5][ee:4][fd:3][jk:2][ih:1]N[64 (H15) Splitting
+the West]C[richbest:
+----------
+I put B1 with this kind of splitting idea in mind, as well as to invade White's West area, push him to the side and gain some area.
+
+Frankly, I saw this kind of strategy from one of the pro games discussed in Janice Kim's book.
+
+However, I ended up building wall that's too thin to do the initial job.
+
+Any suggestion probably, on where I made mistake, the initial splitting idea or the way I execute the idea (the stone placement or lacking of threats in the other areas of the board, i.e. preparatory moves)?
+
+Seems that White was trying to compensate his probable lost by pushing me away from the center to the North (W6 to W10) and to the North-East (W12 and W16)
+
+This is also partly my mistake for not securing my Eastern area before splitting White's area :-(
+
+I was also wondering why White put W22 there.
+
+In the end I put B23 out of curiosity of White's strategy, since W22 would actually put the marked stone to death did White not put W24 there.
+
+My bad with my obsession...
+
+thesarge: i have no idea why he played at White 22, thats the problem with playing computers, they often make stupid moves for one reason or another.]
+
+(;B[gh]C[thesarge: this is too small and again open triangle.]
+;W[jb]
+(;B[gi]C[thesarge: again too slow, you need to make some room to live]
+;W[gb];B[fb];W[ma];B[na]
+(;W[kb];B[ha];W[nb];B[hb];W[ia]C[thesarge: the outcome is already clear here: you have 1 liberty, he has two]
+;B[gc];W[ga];B[hb];W[ha]TR[kc][oc][na]MA[ig][if][ie][hf][he]
+[ge][hd][hc]LB[nb:3][kb:2][ma:1][fb:C][gi:B][gh:A]N[80 (H19) Donation???]
+C[richbest:
+----------
+You must be wondering why I made the last three prisoners donation to White right?
+
+Well...
+
+After my rather stubborn extension to the North-West and center area using my lettered stones from 'A' to 'C', I was so surprised with W1.
+
+For some reason, I was considering whether the numbered White stones were actually aiming for the vital points of my North-East marked colony to make 2 eyes.
+
+I just couldn't resist but planning to capture White's crossed stones using double snapbacks and some 'living-eye' principles.
+
+However, I miscalculated the number of moves and it ended up incomplete :-(
+
+So do you think that White had something in mind (other than expansion to the North-East corner) with W1?
+
+Again, obsession???
+
+thesarge: probably just an invasion (it worked) before you played the last stone in the snapback, it should have been obvious what the outcome was. read at least a move ahead and dont be stubborn. dont play moves that you know wont work, you just pay him to strengthen his position]
+;B[cc];W[dc];B[db];W[cd];B[cb];W[bd];B[bc];W[ba];B[ca]TR[ga]
+[gb][hc][hd][ge][ff][ee][dd]MA[gc][fe][fd][fc][fb]LB[fa:C][eb:B]
+[ac:A][ca:9][ba:8][bc:7][bd:6][cb:5][cd:4][db:3][dc:2][cc:1]
+N[89 (C19) [too\] Small village]C[richbest:
+----------
+After my attempt to capture White's stones ended up in prisoners donation, I was concerned with the influence of White's marked stones to my crossed group of stones.
+
+Therefore, I decided to vie for two eyes on the unexpectedly too small - as it turned out in the end - North-West corner.
+
+Any better idea on what I could've done?
+
+Before B9 though, I was really questioning myself on why White had put W8 overthere.
+
+To me, I could just make two eyes by putting my stones on the lettered area from  'A' to 'C', so why wasting on W8?
+
+Is it due to some subtle fight over sente?
+
+Honestly, I haven't understood yet the true art of fight over sente as I still am struggling with movement counting and territorial counting...
+
+thesarge: Actually, after White 8, it becomes more difficult for you to live. Here if white plays at B, i cannot find a way to live. you need to play at A, C or E19 first. Since white plays elsewhere, he eventually gives you the chance to play there, but for now your group is in trouble]
+;W[lc]N[90 (M17) Whole Board Battle]C[richbest:
+----------
+From now on, I'll try to comment on each move I made until arriving to the next 'chapter' after the territory is quite well drawn out on the board.]
+;B[kd]TR[kc][id][ic][jg][jf][je]LB[lc:C][nb:B][ma:A]N[91 (L16)]
+C[richbest:
+----------
+'If hane, then extend'
+
+That's what one Go proverb says, so I extended Southward to secure my rather thin wall of marked stones.
+
+Since I've lost some territory on the North-East corner due to White's lettered stones, I decided to protect my wall rather than my North-East area...
+
+thesarge: this was necessary to connect the middle line of stones and protect against a weakness]
+;W[eh];B[ei]TR[gi][im][fp][dp]MA[gn][en][em][fn][fm][fl][gl]
+[gk][gj][el][fk][ek][fj][ej]C[richbest:
+----------
+Since I've failed in reducing White's Western area, I decided to connect Southward with the marked stones, while gaining territory if possible.
+
+Actually, in the end I couldn't get as mush territory as expected.
+
+I have overestimated myself, or rather underestimated White...]
+;W[ob];B[pb]C[richbest:
+----------
+Well, someone must stop White's expansion];W[hl];B[gk]TR[dp]
+[fp][ei][gi]MA[el][ek][fk][fj][ej]C[richbest:
+----------
+White seems to see my plan.
+
+I struggled for territory here.
+
+Eventhough the possible territory gained reduced considerably, I stubbornly went on with it.]
+;W[dh];B[dk];W[ck];B[dj];W[hi];B[hh]C[thesarge: not playing at H12 would have cost you two points, i'm pretty sure you can find bigger moves than that]
+;W[hj];B[gj];W[cl];B[dl]LB[ih:B][cj:A][dl:10][cl:9][gj:8][hj:7]
+[hh:6][hi:5][dj:4][ck:3][dk:2][dh:1]C[richbest:
+----------
+So far I have been trying to secure my area.
+
+After W1, I was thinking whether to go to the South of White'A' at position 3 or just attach it diagonally at position 2 as what I've done.
+
+What do you think could have happened did I put it at position 3, anything bad out of it?
+
+After W5, I was also questioning about the consequence of letting Black 'B' in atari while creating tiger's mouth at position 7.
+
+thesarge: dont worry so much about losing one stone, getting a better shape or playing a bigger move is much more important. As for playing at C9, your group in the middle is still very weak and this would probably be too risky]
+;W[jm];B[jn];W[il];B[hn]LB[in:A][hn:4][il:3][jn:2][jm:1]C[richbest:
+----------
+B2 was intended to prevent Southward expansion];W[km];B[em]
+;W[gn];B[en];W[go];B[gp];W[lj];B[ho];W[mm];B[ln];W[nc];B[md]
+;W[pc];B[od];W[qc];B[qd];W[rc];B[rd];W[mr];B[lr];W[sd];B[re]
+C[thesarge: Black 133 could probably be played at T15 without any problem]
+;W[kn];B[ko];W[mn];B[mo];W[br];B[dq];W[ld];B[le];W[mc];B[lf]
+C[thesarge: black 143 at N15 would be better];W[nd];B[oe];W[me]
+;B[nf];W[qq];B[li];W[nj];B[oj];W[ol];B[ni];W[on];B[fh];W[ls]
+;B[ks];W[ms];B[mq];W[nr];B[ac];W[cg];B[kr];W[ad];B[di];W[ci]
+;B[dm];W[cm];B[se];W[sc];B[fl];W[hm];B[in];W[lm];B[lo];W[fa]
+;B[ea];W[do];B[eo];W[cs];B[ds];W[bs];B[jc];W[ki];B[kg];W[nn]
+;B[no];W[ii];B[pk];W[sj];B[si];W[sk];B[ri];W[pl];B[ok];W[nk]
+;B[pd];W[qb];B[mf];W[ne];B[fg];W[eg];B[fm];W[hb];B[eb];W[hk]
+;B[gl];W[fo];B[ed];W[ec];B[fn];W[gd];B[ab];W[tt]TB[sh][sg][sf]
+[rh][rg][rf][qi][qh][qg][qf][qe][pi][ph][pg][pf][oi][oh][og]
+[of][nh][ng][mp][mh][mg][lp][lh][lg][kq][kp][kf][ke][js][jr]
+[jp][jo][jd][is][ir][iq][ip][io][hs][hr][hq][hp][gs][gr][gq]
+[fs][fr][fq][fk][fj][fi][es][er][eq][ep][el][ek][ej][dr][da]
+[bb][ba][aa]TW[ss][sr][sq][sp][so][sn][sm][sl][sb][sa][rs][rr]
+[rq][rp][ro][rm][rl][rb][ra][qs][qr][qp][qo][qn][qm][ql][qa]
+[ps][pr][pq][pn][pb][pa][os][or][om][oa][ns][nm][nl][na][ml]
+[mk][md][mb][ll][lk][lb][la][kl][kk][kj][ka][jl][jj][ja][ij]
+[dg][df][de][cn][ch][cf][ce][bp][bo][bn][bm][bl][bk][bj][bi]
+[bh][bg][bf][be][as][ar][aq][ap][ao][an][am][al][ak][aj][ai]
+[ah][ag][af][ae]C[White wins by 25.5 points.
+
+thesarge: overall, only a few mistakes. lots of good ideas. I would concentrate more on just playing lots of games for now, it seems like you are doing a lot of reading, but you don't want to overdo that. Just work on building intuition for now. As far as estimating your rank, the best way would be to play a few games on an online server like kgs or igs. These are a great way to get a lot of experience against other players as well as determine your own ability. It is much better to play a person than a computer as computers will often make stupid mistakes, and dont have the same creativity that human players have. If you only play a computer, you will never learn how to deal with the unexpected moves.]
+)
+(;W[nb]C[thesarge: careful about playing on the first line]
+;B[oa];W[ob];B[pa];W[pb]))
+(;B[gb])
+(;B[gj])
+(;B[eh])
+(;B[fj]))
+(;B[gi]C[thesarge: this is a much better eye shape]))
+(;B[ig]C[thesarge: I'm not sure exactly where the right spot to invade is, but as you can see, white cant really kill J13, and you have destroyed a large chunk of his territory, while sacrificing only a little of yours.]
+))
+(;B[op]N[5 (P4) Joseki Variation]C[richbest:
+----------
+Please read my concern at the end of this variation :-)];W[np]
+;B[oo];W[pq];B[qq]
+(;W[mq]C[thesarge: n3 would probably be at m3 or o4, who would come out ahead i have no idea. Tip: forget joseki. dont learn them. dont study them until much further on.]
+;B[qn]LB[qn:9][mq:8][qq:7][pq:6][oo:5][np:4][op:3][oq:2][qp:1]
+N[11 (R6) Shifted Version]C[richbest:
+----------
+Well, the way I planned the joseki is sort of the shifted version (1 intersection to the East  each stone from the actual one).
+
+I guess that's the big question mark whether it might work.]
+)
+(;W[no];B[nn];W[on];B[qn];W[om];B[mn];W[lq])))

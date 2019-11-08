@@ -1,0 +1,154 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.17]
+
+PB[vducky]
+BR[6k]
+PW[daJuggla]
+WR[5k]
+KM[0.5]
+DT[2010-04-03]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[W+4.5]
+TM[1500]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+C[This is a game I played recently on kgs.
+I was black with only 0.5 komi and I lost the game by 4.5 points!
+I already noticed several mistakes I made and marked them in the sgf along with a few questions, but I'm also curious where else I could have played better!
+
+[ZD\] I will mark my comments this way.];B[pd];W[qp];B[cp];W[dd]
+;B[eq];W[cj];B[op];W[oq];B[nq];W[pq]
+(;B[mp];W[qn];B[iq];W[nc]C[I wondered whether I should pincer here to avoid his giant moyo...
+
+[ZD\] pincer looks playable (see the variations), but r14 is certainly fine.]
+(;B[qf];W[pb];B[qc];W[ne]C[[ZD\] This is a mistake, the upper side is too open, and black has no moyo that would be reduced by this move.]
+;B[fc]LB[fc:D][ic:A][cf:B][cl:C]TR[cj]C[I wasn't sure about this move. I've marked some other options that I considered:
+A: I can extend to either side if he approaches, but I was afraid of being pushed into his wall
+B: This one might be useful to attack the marked stone, but he's going to respond with C15 and get a big top side
+C: I considered extending from my shimari, but decided against it, because after E10 his moyo seems too strong
+
+[ZD\] A would be good; if white answers at G17, M17 takes the base of the white group.  If he plays from the other side, F17 is natural.
+B is too small, it is too early to play there
+C is big, but the upper side looks more urgent.
+D is playable, but white will probably pincer, strenghtening his positions on both sides.]
+;W[hc];B[cc];W[cd]LB[cl:A]C[[ZD\] Now white will get a good result on both sides; on the other hand, you should get sente to play A, so it is not a complete disaster.]
+;B[dc];W[ed]
+(;B[fd]LB[ec:A]C[[ZD\] This is a mistake, you will get cut because of the weakness at A.  To play like this, getting B17 first is necessary.]
+;W[fe];B[ge];W[ec];B[eb]
+(;W[fb];B[gb];W[db];B[fa];W[cb];B[ff]
+(;W[df];B[ee];W[de];B[id]LB[lc:A]C[[ZD\] you are quite strong here now, so attacking the white group around A would be better (the way in the game, you end up overconcentrated).]
+;W[jc];B[ic];W[jd]C[Should I tenuki here and take a big point like C8?
+
+[ZD\] I think so.]
+(;B[ie];W[jb];B[ib]C[[ZD\] This is an endgame move, worth maybe 5 points.]
+;W[qb];B[rb];W[pc];B[qd];W[cn];B[qi]LB[cl:A]C[[ZD\] This is a good solid move, strenghtening your upper right group while making territory; but, since you are a little behind now, something more active (say an invasion at A) might be better.]
+;W[en];B[fo];W[lq];B[lp]LB[mr:A]C[[ZD\] This makes things too easy for white.  This would be fine if you were ahead on territory (or weak in the area), but as things stand, you have to attack at A.]
+;W[nr];B[kq];W[mq];B[np]
+(;W[eh];B[je];W[ke];B[kf];W[le];B[kr];W[ef]LB[mq:A]C[[ZD\] I am not sure what white has in mind here, losing the two stones at A (and many other moves) is bigger than anything in this area.]
+;B[fh];W[fi];B[gh];W[gi];B[pm];W[qm];B[pl];W[mg]LB[fn:A]C[[ZD\] You should play A.]
+;B[mi];W[fn];B[go];W[ii];B[hm];W[hh];B[fl];W[ek];B[gn]LB[gn:A]
+C[[ZD\] A is rather small.];W[lh];B[li];W[hf]LB[jl:A]C[[ZD\] After investing so many moves into it, actually getting some territory in the center would be nice; so playing say A should be considered.]
+;B[ql];W[qh];B[ph];W[pi]
+(;B[rh]LB[oh:C][oi:A][pi:B]C[Does the variation look reasonable?
+Can I catch him that easily?
+
+[ZD\] A does not work, white will just sacrifice B. But things could get interesting if you played C.]
+;W[qj];B[ri]
+(;W[pj];B[oh]C[[ZD\] Now white lost a lot, so the game is close again.]
+;W[on];B[pn];W[po];B[oo];W[nm]
+(;B[nl];W[ml]
+(;B[nn]LB[kk:B][mm:A]TR[pl][ql][pm][pn]C[I think I was too afraid here! I thought that he might capture the marked stones and decided to connect them!
+
+[ZD\] Playing A is about the same, white will sacrifice some stones to reduce your territory. Unless you can capture everything by a move around B (and your stones may be too weak for that), there is not much difference.]
+;W[nk];B[ol];W[mn];B[om];W[mm]C[[ZD\] This is too risky for white, he should just run out.]
+;B[mk]LB[kk:A]C[[ZD\] Too small.  Just play A and capture everything.]
+;W[lk];B[mj];W[jl];B[ll];W[lm];B[kl];W[km];B[kk];W[jk];B[kj]
+;W[jn];B[hj];W[ij];B[hk];W[hi];B[el];W[dl];B[dm];W[cm];B[dk]
+;W[cl];B[ej];W[ei]
+(;B[ck]C[I moved too quickly here, the variation seems better! However, it finishes in gote, so maybe it's not that good!??
+
+[ZD\] Unless I am missing something, the variation you propose ends in sente.]
+;W[dj];B[fk];W[bk]
+(;B[dn]C[I got too greedy here and got punished! I lost the corner!]
+;W[do];B[em];W[co]
+(;B[eo];W[cq];B[bp];W[dp];B[dq];W[cr];B[bq];W[br];B[dr];W[bo]
+;B[cs];W[aq];B[ep];W[he];B[hd];W[gf];B[fe];W[fg];B[od];W[nd]
+;B[jg];W[pf];B[of];W[oe];B[pe];W[ra]
+(;B[rc];W[nh];B[ni];W[nf];B[og];W[ki];B[oi];W[bs];B[rl];W[rm]
+;B[mr];W[os];B[pp];W[qo];B[qq];W[qr];B[rq];W[rr];B[sm];W[sn]
+;B[sl];W[rp];B[im];W[jm];B[ja];W[ka];B[ia];W[kb];B[jo];W[ds]
+;B[es];W[ek];B[dk];W[ko];B[jp];W[ms]
+(;B[lr];W[jj];B[lj];W[kh];B[ls];W[ig];B[jh];W[if];B[jf];W[lf]
+;B[ji];W[mh];B[in];W[sb];B[sc];W[kg];B[oc];W[ob];B[qa];W[pa]
+;B[sa];W[nb];B[lo];W[mo];B[ns];W[or];B[ms];W[no];B[on];W[gj]
+;B[gk];W[il];B[hl];W[qa];B[sb];W[bc];B[da];W[ca];B[ea];W[cs]
+;B[kp];W[kn];B[ek];W[ck];B[ih];W[tt];B[tt]TW[aa][ba][la][ma]
+[na][oa][ab][bb][lb][mb][ac][cc][dc][kc][lc][mc][ad][bd][kd]
+[ld][md][ae][be][ce][me][af][bf][cf][mf][ag][bg][cg][dg][eg]
+[gg][hg][lg][ah][bh][ch][dh][fh][gh][ai][bi][ci][di][aj][bj]
+[ak][al][bl][am][bm][an][bn][rn][ao][ro][so][ap][bp][cp][sp]
+[bq][qq][rq][sq][ar][pr][sr][as][ps][qs][rs][ss]TB[ga][ha][fb]
+[hb][gc][hc][gd][rd][sd][qe][re][se][pf][rf][sf][pg][qg][rg]
+[sg][qh][sh][pi][si][nj][oj][pj][qj][rj][sj][lk][nk][ok][pk]
+[qk][rk][sk][gl][fm][gm][en][fn][hn][ho][io][fp][gp][hp][ip]
+[fq][gq][hq][jq][lq][mq][er][fr][gr][hr][ir][jr][fs][gs][hs]
+[is][js][ks])
+(;B[ls]))
+(;B[sb]))
+(;B[dp];W[eo];B[bp];W[ep];B[fp];W[bo]))
+(;B[do]LB[bo:B][do:A]C[[ZD\] Playing A serves no purpose, if you really want to play here, you can play B directly.]
+;W[dn];B[bo]C[vducky [6k\]: much better than what I played
+daJuggla [5k\]: definately
+daJuggla [5k\]: next time ^^
+vducky [6k\]: I was too greedy :)]))
+(;B[dj];W[di];B[ck];W[bk];B[fk];W[fj];B[ek];W[bi]))
+(;B[mm];W[ol];B[nk];W[ok];B[om];W[nj];B[mk];W[mj];B[lk];W[ni]
+;B[nh];W[lj];B[kj];W[kk];B[ll];W[ki];B[mh];W[jj];B[jl]))
+(;B[ok]C[[ZD\] Easier.]))
+(;W[oh];B[pg];W[oj]C[[ZD\] White should play like this.]))
+(;B[oi]
+(;W[pj];B[qg];W[rh];B[oh];W[rj];B[rk];W[qj];B[rg];W[ok];B[nm]
+;W[mk];B[lk];W[ml];B[ll];W[mm];B[nn];W[ln];B[jl])
+(;W[pg]
+(;B[oh];W[ri];B[pj];W[qg];B[og];W[pf];B[of];W[pe];B[oe];W[qe]
+)
+(;B[pj];W[oh];B[pi];W[qg])))
+(;B[oh];W[qj];B[ri];W[rj]
+(;B[pj];W[rl])
+(;B[rk];W[rh];B[qg])))
+(;W[kp]C[In case of the cut, I had this variation in mind, which seemed correct to me!
+However ...];B[kr];W[mr]
+(;B[jo];W[ko];B[kn]
+(;W[lo];B[ln];W[mo];B[nn];W[jp];B[ip];W[jn];B[io];W[mn];B[mm]
+;W[lm];B[km];W[nm];B[ml];W[no]C[[ZD\] Playing this way does not seem to be possible.]
+)
+(;W[jp];B[io]
+(;W[ip];B[hp];W[jq];B[jr];W[lo];B[ln];W[mo];B[nn])
+(;W[lo]C[... this is not good for me!];B[ln];W[mo];B[nn];W[no]
+;B[oo];W[on];B[mn];W[po])))
+(;B[ko];W[jp];B[ln];W[ip];B[hq];W[in];B[fn]C[[ZD\] But this looks like white would end up with a lot more trouble than black, so the cut is not a problem.]
+)))
+(;B[cl];W[hd];B[ie];W[he];B[hf]))
+(;W[ee]LB[ge:A]C[[ZD\] Giving up A looks like a mistake to me, it strenghtens the black group a lot.]
+(;B[ef];W[bc];B[hd];W[gf])
+(;B[hd];W[gf])))
+(;W[db]
+(;B[cb];W[fb];B[da];W[gd]C[[ZD\] I would prefer this way for white.]
+)
+(;B[gb];W[cb]C[[ZD\] Or like this; black's outside group is weaker than in the game.]
+)))
+(;B[fb];W[ge]C[I think this is joseki, but I didn't want to be enclosed!]
+))
+(;B[lc];W[ne];B[pf]
+(;W[kd];B[kc];W[pb]C[[ZD\] Here, white usually does not play the q18-r17 exchange, since 1) this prevents him from invading r17 later, and 2) consequently, the cut in his formation becomes more troublesome.]
+;B[qc];W[jd]TR[kc][lc]C[... but my marked stones are without support now ...]
+;B[ld];W[le];B[jc];W[id];B[hc];W[ge];B[gc]LB[pb:A][qc:B]C[[ZD\] This is a normal continuation here (without the A-B exchange).  SInce black's group is perfectly safe and it is not all that clear what white can do with his thickness in the center, white probably would not choose this way.]
+)
+(;W[jc]C[[ZD\] This is what white might try to really attack your stone.]
+))
+(;B[kc]LB[kd:A]C[... the distant pincer seems better, because it can't be as easily attacked.
+
+[ZD\] Two-space low pincer is not recommended, as in almost all joseki, you will end up worse than if you either played a tight pincer, or A.]
+;W[ne];B[pf];W[pb];B[qc]))
+(;B[np];W[qn];B[jp]LB[eq:A][iq:B]C[[ZD\] This might be better -- since A is low, B is small.]
+))

@@ -1,0 +1,85 @@
+(;FF[4]GM[1]SZ[19]ST[1]CA[UTF-8]AP[SGFC:1.15]
+
+GN[emeraldemon-yasarena-358316-20071123]
+PB[yasarena (yasarena)]
+BR[7k]
+PW[tom nelson (emeraldemon)]
+WR[10k]
+KM[6.5]
+DT[2007-10-26,2007-11-23]
+PC[Dragon Go Server: http://www.dragongoserver.net/]
+RE[B+Resign]
+
+C[Hi, I'm Tom and I play black here.  In the end I'm forced to resign.  I have some comments & questions later on, but any advice you can give would be helpful.
+
+Hi Tom. My name is Philip, and my nickname on KGS is PowerP (1D). I assume by your questions later on that you meant to say that you are white. I'll mark my comments with R:]
+;B[pd];W[dp];B[pp];W[dd];B[fq];W[nc]C[I decided to play mirror go to begin, as a way of seeing my opponent's strategy.  Perhaps this is too weak?
+
+R: There are several basic counters to mirror go, but there is nothing inherently wrong with this move. However, it would be better to develop a strategy of your own. You can use this approach as a probe of sorts, and wait to see how black responds to the situation before deciding on a course of action.]
+;B[pf];W[dn];B[jp];W[jd];B[qj];W[cj];B[jj]C[R: All the moves through now are normal.]
+;W[nq]LB[go:A]C[Trying not to give black too much.
+
+R: This approach is difficult for white, because white does not have enough room for two eyes on the side. I would try a move like A instead, which would expand white's moyo while limiting black's.]
+
+(;B[lq]MA[nq]LB[jp:A]C[R: This move is bad. Since K4 (A) is already a pincer on the marked stone, M3 becomes redundant. Black should instead attach at P3. See variation.]
+;W[qq]C[R: Good.];B[qp];W[pq];B[op];W[rp];B[ro];W[rq];B[qn]
+;W[pb]LB[or:A]C[R: White can't tenuki because of the weakness at A.]
+;B[qc]LB[lc:A]C[R: Black should fight back here at A instead.]
+;W[ne];B[cc];W[dc];B[cd];W[ce];B[be];W[cf];B[bf];W[cg];B[db]
+;W[eb];B[cb];W[fc];B[ld]LB[ng:A]C[R: This move is in the wrong direction. A play at A would be huge for either side.]
+
+(;W[le]LB[ng:A]C[R: Fighting back is the right idea here, but this move is wrong. In general you shouldn't touch a weak stone. When you attach to a weak stone, you only help to make it stronger. Playing at A is still the vital point. Black would have a hard time. See variation.]
+;B[ke];W[lc];B[me];W[md];B[lf];W[mf];B[le];W[nf];B[je]C[R: White has lost out here. The territory being secured is not equal to the thickness black is gaining.]
+;W[id];B[ie];W[hd];B[cq];W[dq]C[Should this have been in the other direction (C4)?
+
+R: No, this direction is good.];B[dr]LB[cp:A]C[R: White has another option here to consider. I am not sure which is best. See variation.]
+
+(;W[er];B[cr];W[eq];B[bo]
+(;W[fp]C[R: This is a big mistake. White must continue on the left side.]
+;B[hq]LB[cm:A]C[This is also very bad. Black should continue on the left side at A.]
+;W[gq]C[R: Very slow move.];B[or]LB[oq:A]C[R: Good move.]
+(;W[pr]C[R: White must connect against the peep. See variation.]
+;B[oq];W[rr];B[he];W[bn];B[co];W[cn];B[do];W[eo];B[cp];W[gr]
+LB[qh:A]C[R: This move is very slow. Fighting back now is urgent.]
+;B[bg];W[oj]C[This seems like a good way to attack Black's moyo, but in the end I don't dent it much.
+
+R: This move is a natural way to reduce black's moyo, but white should be more aggressive.]
+;B[pj];W[bh];B[qb]C[R: Very big move.];W[ph];B[qh];W[og];B[pg]
+;W[pi];B[qi];W[kh]LB[hj:A]C[I really wanted to threaten death for the black stones, but it didn't work.
+
+R: It's too difficult at this point to try to kill black. Better would be to play a move around A and hope to secure points on the left side while threatening black. When you attack stones, you should be able to clearly see what profit you are getting out of the attack, or else the attack is ineffective.]
+;B[jh];W[jg];B[ih];W[kg];B[ig]
+(;W[hp]C[In retrospect, P9 seems much bigger.
+
+R: Agreed.];B[oi];W[oh];B[ok];W[ni];B[nk];W[iq];B[im];W[lk]
+;B[lj]
+(;W[kj]C[Seems like maybe N10 would be better.];B[mj]
+(;W[li]C[R: White needs to connect solidly here. See variation.]
+;B[kk];W[ki];B[ik];W[ko]C[I was getting desperate.];B[jo];W[kq]
+;B[jq];W[jr];B[kr]
+(;W[fj]C[R: See variation.];B[bi];W[ah];B[ch];W[ci];B[dh];W[bj]
+;B[kc];W[kd];B[lb];W[mc];B[gd];W[gc];B[de];W[df];B[ee];W[ef]
+;B[fe];W[eh];B[ec];W[fb];B[fd];W[ir];B[kp]C[Seems like I'm losing by about 40 points, with no options.
+
+R: In general, white played well in the opening, but lost the game in the middlegame. Be careful about making moves which are too slow. It is also very important to look for ways to benefit from attacking/chasing your opponent's stones. Improving attack and defense is one of the fastest ways to get better at go. Feel free to contact me on KGS if you have any more questions.]
+;C[Result: B+Resign])
+(;W[kp]C[R: W can cause problems with this move.]
+(;B[lr];W[jn];B[ir];W[io];B[js];W[ip];B[jr];W[in];B[kn];W[km]
+;B[ln];W[kl];B[jk];W[jm]C[R: This is one line.])
+(;B[ir];W[lr];B[js];W[nr];B[os];W[mq];B[lp]C[R: This shouldn't work for white, but white can at least cause complications.]
+)))
+(;W[ki];B[kk];W[jk];B[kl];W[ik]C[R: This would give white a chance to attack the black stones.]
+))
+(;W[mj];B[mk];W[kj];B[li];W[ki];B[ll];W[kk]C[Something like this?]
+))
+(;W[ok]))
+(;W[oq];B[nr];W[mr];B[mq];W[pr];B[lr];W[np]C[R: White can try something in the center maybe, before adding a move to live. White is behind in the game now, so needs to play aggressively.]
+))
+(;W[bn];B[co];W[cn];B[do];W[eo];B[cp];W[np]C[R: White can fight back like this.]
+))
+(;W[cp];B[br];W[bq];B[cr];W[bg]C[R: This is a joseki in which White secures territory on the left side.]
+))
+(;W[ng];B[lf];W[ke];B[le];W[lh]LB[qh:A]C[R: This is very difficult for black. White can chase the stones more and see how black defends. Later, invading at A will be white's perogative.]
+))
+(;B[oq];W[np];B[pn];W[lp];B[kq];W[mm]C[R: If black plays like this, the white stones are without eyes, and tengen makes the upcoming fight difficult for white.]
+))

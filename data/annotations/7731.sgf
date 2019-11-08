@@ -1,0 +1,188 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.17]
+
+PB[AVAVT]
+BR[3k]
+PW[oka5111]
+WR[3k]
+KM[6.5]
+DT[2010-02-26]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[W+12.5]
+TM[1500]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+C[AVAVT: Although there was one big losing move I can see right away, it's quite hard to see why I lost in a larger perspective.
++_+
+
+csh: I will try my best to review your game. I hope that some of my comments earlier in the game will help you.]
+;B[qd];W[pp];B[dc];W[dq]
+(;B[de]LB[ce:A]C[csh: Black can approach instead of making the shimari. See the variation.
+
+Also, note that the one-space jump shimari (instead of the kogeima shimari at 'A') is vulnerable when White extends up the lefthand side of the board. Later in the game, Black ends up having to make another move to protect the corner.
+
+The one-space jump shimari is better at attacking a group on the top of the board, though, so it's a trade-off.]
+;W[jc]
+(;B[nc]C[csh: I would also consider the keima shimari. See the variation.]
+;W[gc]TR[dc][nc]C[csh: While the ogeima shimari did force White to extend, the marked stones are too far away from the white group to put much pressure on the white group. The white group is hard to attack.]
+(;B[cj]TR[de]C[csh: This move feels like a half-measure. It doesn't take a fair share of the lower left corner. It's also one space too far from the marked stone in the upper left to be solidly connected. See the variations.]
+;W[cn];B[jq]C[csh: This move is a good idea. However, now that the white group in the lower left is stable, you will need to worry about an invasion in the upper left.]
+;W[mq]C[csh: This move is from the wrong direction. It's more profitable to extend from the shimari.]
+;B[gq];W[ch]LB[dh:A][di:B]TR[cj]C[csh: This move shows why the marked stone is too far from the upper left. Moves at 'A' or 'B' do not trap the white stone in the corner, so Black has to jump out to the center.]
+;B[ej]C[csh: Black jumps out...];W[eh]TR[cj][ej]C[csh: But so does White. Now there's no way to catch the white group. The marked black stones might make thickness on the left, but White's lower left corner is alrady rather secure. The marked black stones are not making territory, either.]
+(;B[ff]LB[lb:A][de:B][ff:C]TR[ch][eh][cj][ej]C[csh: I don't like this move. The stone just played is not strongly connected to the corner. It also isn't putting pressure on either white group.
+
+AVAVT (quoting from an e-mail response): ... at the time I was following the idea of chasing 2 weak groups close then cut them apart, so I thought it should be a good move. Was it because the cut was ineffective, or are there more reasons for the failure?
+
+csh: I think it's a good idea, but it doesn't quite work here.
+----
+First of all, the white stones at the top of the board are not that weak. White should be able to slide to 'A' and have enough room to live at the top of the board. Because this group is almost alive, it's not weak.
+
+The marked white stones on the left side of the board are weak, but so are your two marked black stones. As a result, Black cannot attack the white stones strongly, since he still has to worry about his weak stones.
+
+The variations ahead show the problems attacking the two white groups.
+----
+The second problem is that the stones 'B' and 'C' are not firmly connected together. If 'B' and 'C' are cut apart, Black will need to worry about his corner group living, as well as the safety of the stones in the 'C' group. It would change the situation from being on the attack to being on the defensive. The marked white stones would be splitting the 'C' group from the marked black stones, and Black would be in trouble.]
+(;W[fi];B[fj];W[gi];B[gj];W[hi];B[hj];W[hf];B[bf]TR[ff]C[csh: Having to protect the corner shows that the marked stone was a wasted move.]
+;W[bi];B[ii];W[ih];B[jh];W[ig];B[jj];W[en];B[pn];W[mo]
+(;B[qj]C[csh: You can also push into the corner first. See the variation.]
+;W[qe];B[pd];W[qg]
+(;B[pe]C[csh: This move is bad. It forces White to make shape, without benefitting Black. See the variation.]
+(;W[og]C[csh: This probably isn't the best move.]
+(;B[jg];W[jf];B[kf];W[ke]
+(;B[le]C[csh: Instead doing a counter-hane, look at the atari instead.]
+;W[lf];B[kg];W[kd];B[me];W[oi];B[ph];W[pg];B[oh];W[qh];B[pi]
+;W[rf]
+(;B[rd]C[csh: If you're just going to descend anyway, you can also look at the atari. See the variation.]
+;W[rj];B[rk];W[ri];B[qk];W[re];B[pf];W[nf];B[mg];W[ne];B[ng]
+;W[of]
+(;B[mc]C[csh: This move seems questionable. See the variation.]
+;W[mf];B[lc];W[lg];B[lh];W[sd]
+(;B[sg]C[AVAVT: I think this is my losing move
+
+csh: I agree. I think this move might have been rash.];W[rc]
+;B[sc];W[sb];B[qc];W[qb];B[pb];W[qa];B[pa];W[od];B[oc];W[kb]
+;B[kc]
+(;W[jd];B[lb];W[jb];B[na]C[csh: Well, at least you lived.];W[mm]
+C[csh: I didn't think this was a strong move, so it gives Black a chance. White could play moves to restrict the base of the black group at the bottom of the board first. Then, when Black jumps out, White can also jump and ruin Black's territory in the middle while chasing the Black group.]
+;B[er]C[csh: This is a very good move. You needed something to help out the group at the bottom. Getting more territory is also a plus.]
+;W[dr];B[lr]
+(;W[mk]TR[lf][lg]C[csh: Any territory next to your wall is ruined. The cuts are also dangerous. Compare this to if you captured the marked stones. See the variation.]
+;B[mi];W[qp];B[nr];W[mr];B[ms];W[oq];B[pr];W[or];B[os];W[qr]
+;B[lq];W[lp];B[kp];W[ko];B[jo];W[nq];B[ns];W[qs];B[ro];W[ps]
+;B[ls];W[rp];B[qo];W[bj];B[bl]C[csh: This is an odd shape.]
+;W[ck];B[cl];W[dk];B[dl];W[ek];B[el];W[fk];B[fl];W[gk];B[gl]
+;W[hk];B[ik];W[hl];B[gn];W[eq];B[fr];W[il]
+(;B[do]C[csh: This isn't good. If you're worried about White's potential territory in the corner, then make the monkey jump first, before strengthening his borders. See the variation.]
+;W[co];B[dp];W[cp];B[dn]C[csh: The problem is that now your group's connection to the bottom group may be in jeopardy.]
+(;W[go];B[fp];W[ep];B[fo];W[eo];B[dm]LB[ao:A][sp:B][ds:C]C[csh: This move is six points in gote, but I think there are bigger moves. The monkey jump at 'A' can still be sente. The hane at 'B' and 'C' are also big.]
+;W[hn];B[fn];W[ho];B[hp];W[jn];B[io];W[in];B[ao];W[ap]
+(;B[bp]C[csh: This is a small overplay.];W[bq];B[aq];W[bo];B[an]
+;W[ar];B[bm];W[ap]C[csh: While the lower left ends up about the same points, White no longer has to add a protecting move when the dame are filled in the lower left.]
+;B[fb];W[gb];B[fc];W[fe];B[ge];W[df];B[ce];W[gf];B[ee];W[gd]
+;B[fd];W[he];B[dj];W[oj];B[nk];W[ki];B[ji];W[jk];B[ij];W[nl]
+;B[ok];W[ol];B[pk];W[kj];B[kk];W[lj];B[mj];W[lk];B[kh];W[kl]
+C[csh: It looks like Black is starting to fall too far behind.]
+;B[pl];W[fg];B[sp];W[sq];B[so];W[rq];B[qi];W[rh];B[qf];W[ef]
+;B[fe];W[bg];B[ds];W[cr];B[ga];W[ha];B[fa];W[ia];B[iq];W[on]
+;B[om];W[nm];B[pm];W[po];B[sj];W[rg];B[si];W[sh];B[sk];W[se]
+;B[ka];W[cf];B[be];W[bk];B[la];W[cs];B[fq];W[es];B[fs];W[di]
+;B[ak];W[aj];B[al];W[li];B[mh];W[bn];B[am];W[af];B[ae];W[ja]
+;B[hm];W[im];B[gm];W[ag];B[em];W[ds];B[nd];W[ld];B[md];W[oe]
+;B[pc];W[ei];B[tt];W[tt]TW[ra][sa][hb][ib][rb][hc][ic][sc][hd]
+[id][ie][je][if][sf][cg][dg][eg][gg][hg][sg][ah][bh][dh][fh]
+[gh][hh][ai][kk][jl][ll][ml][jm][km][lm][kn][ln][mn][nn][lo]
+[no][oo][bp][mp][np][op][aq][cq][pq][qq][br][pr][rr][sr][as]
+[bs][rs][ss]TB[aa][ba][ca][da][ea][ma][oa][ab][bb][cb][db][eb]
+[mb][nb][ob][ac][bc][cc][ec][ad][bd][cd][dd][ed][nh][ni][oi]
+[nj][oj][pj][ql][rl][sl][fm][qm][rm][sm][qn][rn][sn][ip][jp]
+[hq][kq][gr][hr][ir][jr][kr][gs][hs][is][js][ks]C[csh: I hope you find this review helpful.]
+)
+(;B[am]C[csh: Black can play here and keep sente.]))
+(;W[dm]C[csh: White could play the squeeze.];B[em];W[eo];B[cm]
+;W[ep]))
+(;B[ao]TR[bl][cl][dl][el][fl][gl]C[csh: It's a lot harder for White to defend against this. However, playing this way assumes that the marked stones will connect back to the group at the bottom of the board.]
+;W[bo]))
+(;AW[mk]AB[mf]AE[lg][lh]LB[qp:A]TR[mk]C[csh: In the same position, his move (the marked stone) is much less dangerous. Black can tenuki and play at 'A'.]
+))
+(;W[lb]C[AVAVT: I think this would kill me o_0];B[je];W[ld]
+))
+(;B[sc];W[se];B[rc]C[csh: White can tenuki. See the variations.]
+(;W[sh]C[AVAVT: It seems I have a little bit advantage here right?
+
+csh: I don't think so. The way I see it, you have ten points in the upper right, and maybe 15 points in the upper left. There is probably ten or so points in the middle. I don't think the bottom group will make much territory, since it is weak.
+
+Meanwhile, White has about ten points in the top group, and roughly fifteen in the lower left. I think there can be fifteen points in the lower right as well. White also has komi. While I think Black is behind, I think Black is still in the game. There still room to make points in the endgame.
+
+Finally, I don't think that the last white move is necessary. I added a variation for the previous move. Because of that, White can start making territory while attacking the group at the bottom of the board.]
+)
+(;B[sj]C[csh: If Black hanes...];W[sh]C[csh: ...then White can live with this move.]
+)
+(;B[sh]C[csh: If Black plays here...];W[sg]C[csh: ...then this move lives.]
+)))
+(;B[mf]C[csh: This move feels like it secures your stones better. You're capturing the cutting stone.]
+(;W[nd];B[mc];W[md];B[ld];W[lc];B[od]C[csh: You still are safe. White is still disconnected.]
+)
+(;W[oc];B[od];W[nd];B[mc];W[md];B[ld];W[lc];B[ob])
+(;W[mc];B[nd])))
+(;B[re]C[csh: If you atari first...];W[qf];B[rd]C[csh: then connecting is still gote, but White has less eyespace. The atari also ends up indirectly protecting the upper right corner.]
+))
+(;B[je]C[csh: This atari is possible.];W[if];B[le]
+(;W[kd];B[lf]C[csh: Now that the shape is solid, White really needs to worry about his stones on the right.]
+)
+(;W[kg]C[csh: White might try something like this...];B[kd]
+C[csh: ...but the ponnuki for Black should help in the upcoming fight. This isn't a good result for White, so I don't think White can play this way.]
+)))
+(;B[pf]C[csh: Black can punish White's shape with this move.]
+;W[qf]TR[qj][pn]C[csh: This move is almost forced, and White only has one eye if Black defends. Black needs to make sure that his marked stones are secure before pushing on the white group too much.]
+))
+(;W[pf];B[re];W[rf]C[csh: Even this result, a ko, is okay for White.]
+))
+(;B[jg]C[csh: You can look at cutting off White's escape routes first.]
+;W[jf];B[kf];W[ke];B[je];W[if];B[le];W[kd];B[lf]C[csh: This seals off where  White can run to.]
+;W[rd];B[rc];W[rf];B[rh]C[csh: White is still in a tough spot, where he only has one eye.]
+))
+(;B[qp];W[qq];B[qo];W[rq];B[qk]C[csh: This is also playable, and takes away more from White's lower right. It is still hard for White to invade on the right.]
+))
+(;W[gh]C[csh: First of all, White must jump out. He cannot be sealed in on the side of the board. Now black must make a choice. Does he split the white group from the top? Or does he strengthen the group on the left?]
+(;B[hf];W[gj]LB[fh:B][fi:A][cl:C]C[csh: A move like this threatens to surround the black group. There is a weakness at 'A', but white can connect at 'B' and will still make it out to the center. White can also slide into the corner and make a base for the white group. White also has a move at 'C' to connect underneath.
+
+The black stones on the left are in a bad position. They don't have enough room to live, so they will need to run to the group at the bottom. They may be able to connect to that group, but while the black group is running, White will be making points along the lefthand side of the board. Black is just playing on dame (neutral points) and not making any territory.]
+)
+(;B[gj]C[csh: Jumping again doesn't really strengthen the black group. If White seals Black in the corner, then Black will need to make a move in the upper left so that his group will live. The splitting attack still fails, since you cannot capture either side. Every time White jumps out once, you will need one move on both sides to surround him.]
+)
+(;B[cl]C[csh: Extending here is also rather small. There still isn't enough room for the black group to live.]
+)))
+(;AW[fc]AB[dd][df][ck][dp]AE[dc][gc][jc][nc][qd][de][cj][ej]
+[cn][pp][dq][gq][jq][mq]TR[ck]C[csh: I moved around the stones on the left a bit. This is a handicap joseki. Now, the marked pincer stone has support from the black stone in the lower left, so it is no longer weak.]
+;B[ff]C[csh: This move is now a splitting move, since the two white groups are still weak. The connection back to the corner is also strong. Compare this to the game, where the top stone is already alive, and the black stone on the left is weaker.]
+)
+(;AW[cp]AB[cm]AE[ej][cn]C[csh: Another variation. This time, your stones on the left are a little more secure.]
+;B[ff]C[csh: Jumping out is a little better here, but it only attacks the white stones on the left.]
+))
+(;B[ci]TR[de]C[csh: This move, a three-space extension from the marked stone, can connect back to the upper left corner.]
+;W[cg]LB[dg:B][dh:A]C[csh: When White invades, Black can play at 'A' or 'B' and keep his stones connected together.]
+)
+(;B[do]C[csh: I also like approaching the corner. Allowing White to make a shimari feels like it's not pressuring White enough.]
+(;W[co];B[cn];W[cp];B[dn];W[ep];B[cj]C[csh: This variation feels better for Black. The lower right group is strong, so Black can attack any invasion in the upper left without worrying about the group in the lower left.]
+)
+(;W[cm]LB[dl:A]C[csh: There are also pincer variations to consider. This move and 'A' are also playable. Black ends up with a running group in this variation.]
+)))
+(;B[oc]C[csh: White may not immediately respond.]
+(;W[cn]C[csh: If White plays tenuki...];B[hc]C[csh: Black can pressure...]
+;W[mc]C[csh: and White ends up cramped, with black stones one space away on either side. There is more pressure on White in this variation than what was played in the game.]
+)
+(;W[gc]C[csh: This play wrecks territory in front of the black shimari.]
+;B[do]LB[qj:A]C[csh: Then Black can play the next big point. An extension to 'A' is also big.]
+))
+(;B[hc]C[csh: It may seem like a good idea to push from this side.]
+(;W[mc]C[csh: Black hopes that White will extend.];B[oc]C[csh: ... and then Black can make the shimari and put pressure on White. However, White will not play this way.]
+)
+(;W[od]C[csh: Instead of extending, White will approach the upper right instead.]
+;B[oc];W[nc];B[pc];W[nd];B[qf];W[je]C[csh: This variation is a lot easier on White. The white group at the top of the board is settled. Since it cannot be attacked, White's position is much more stable.]
+)))
+(;B[co]C[csh:Instead of making the shimari, Black can approach.]
+;W[ce]C[csh: If White counter-approaches...];B[ci]TR[co]C[csh: Then Black gets the first move in the joseki in the upper left. I show a three-space low pincer as an example. The pincer stone crowds the white stone in the upper left, but it also acts as an extension and helps the marked black stone in the lower left.
+
+Either way, this ends up being in Black's favor on the left.]
+))

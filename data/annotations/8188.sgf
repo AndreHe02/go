@@ -1,0 +1,133 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.17]
+
+PB[pumerogo]
+BR[17k]
+PW[vickmexico]
+WR[16k]
+KM[0.5]
+DT[2010-12-23]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[B+Resign]
+TM[1500]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+C[pumerogo went to 15k after he won, and was 17k? before that, so not sure what his actual rank is.
+
+I got really confused in this game after black made a large framework. I didn't understand how to attack it, or if I could have attacked it. Or maybe I should have seen it coming and done something to prevent it. This happens to me in a lot of my games.
+
+I see. I like to review by going through your game and pointing out areas that can be improved, then summarising with a common theme throughout these areas. I'll be concentrating on maintaining sente, helping you form frameworks and how to use one, and of course, answering your questions as best I can.
+
+KGS ranks guess how strong you are by comparing you against your opponent. Your opponent may be vastly stronger, or weaker, but KGS will only increase or decrease by one depending on who wins. After a while, KGS ranking system gets a fairly good idea of your strength, then stabilises it. For more details, search KGS ranking into sensei's library (it's a Go wiki)]
+;B[pd];W[dp];B[pq];W[dd];B[qk]C[I know this is the chinese fuseki. Don't know much more about it beyond that. Not sure how to respond to this.
+
+Chinese fuseki can be the start of a strong framework, its patterns' aims are to form a strong framework. You can decrease the framework, but to completely destroy it is very difficult.]
+(;W[dj]C[Was this move wrong? Should I have attacked instead, or built myself up some other way?
+
+It's much too early to say this move was right or wrong. D10 gives White (W) a chinese framework too. To play D10, W is saying "I want a strong framework.".
+W can also approach B.];B[fq]
+(;W[cn]C[I think C6 is too timid. W has a framework waiting to be used. It looks like it needs strengthening, but with experience, frameworks are continually built during fighting. W is able to attack B without C6.]
+;B[dr];W[cq]C[Joseki stuff, not sure if I should have done anything different here or if I followed the pattern right.
+
+Looks fine. =)];B[iq]C[I have sente after this, right?
+
+yep.];W[jd]CR[nc][nd]C[Here I was thinking I need to try and build up a framework to match what black has already.
+
+Good idea. But W can extend further than this.];B[nc];W[fc]
+C[Same thought process here.];B[cg]C[Then he splits me up.]
+(;W[ci]LB[ce:A]C[I thought now I either needed to close in on him at A, or the stone I ended up playing. I played at C11 because I thought it "looked" better.]
+;B[cd];W[cc];B[bd];W[de];B[bc];W[cb];B[cf];W[ce];B[be];W[bh]
+;B[bg];W[dh];B[bb]C[Now black has a small group in there, but he ate up whatever points I could have made in the corner. I find this happening to me a lot as well. My opponents will be able to come and live small in my territory, but I can't do it to them, or don't know how to.
+
+Living in the corner relies on good Life and Death reading skills. You need those skills to read ahead to see where the possible eyes are, and to see where the vital spots are. I recommend doing some L&D problems on goproblems.com.
+If you're able to consistently get problems of your level right, then you're doing well. You can try doing harder problems on L&D, they will definately pay off.]
+;W[lc]C[I think maybe this was a mistake. At this point I was clueless as to how to attack black, and picked a defensive move like this that doesn't really seem to be attacking at all.
+
+I went through this phase too. Nowadays I look for sparsely populated areas that I can try play in. Finding the empty spots is easy. Finding a viable way in is hard. 
+
+A checklist  to remember when 'invading':
+1. Can you make 2 eyes?
+2. Can you kill a group to make 2 eyes?
+3. Can you run away without too much sacrifice?
+
+If you can't do any of those 3, don't play there.
+
+('Too much sacrifice'= you run, but your opponent follows and destroys everything on the way while you are baring able to connect.)
+
+If you can];B[im]C[And here's where I start to think that it's over for me. Totally lost on how I can prevent black from scoring lots of points in the lower right corner. Can I still go in at R5? Or somehow split any of his groups there?]
+(;W[fp]C[Trying to build up my framework to match black's, while also attack his lower group.]
+;B[gp];W[eq];B[fr];W[er];B[es];W[fo];B[go]C[I seem to only end up making the lower right framework stronger, while gaining little in return.]
+;W[qf]C[Trying to attack his weaker group.
+
+That is not B's weakest group. It's actually quite strong because it has good eyespace and is close to the corner.  R9 is B's weakest group.it is alone.]
+;B[qd];W[qi]C[Not sure if I should have worried about making certain life so fast.]
+;B[re];W[rf];B[of];W[oi]C[He starts boxing me in, so I jump out and threaten to come down into his framework.]
+;B[ok]C[But he closes that up easily.];W[mi];B[mk]C[And I just keep making it more inpenetrable.]
+;W[mg];B[pg];W[qg];B[fm];W[dm];B[fn];W[eo];B[kj];W[fk];B[qo]
+C[Now he plays R5, which makes me think I should have gone in at that spot earlier.
+
+You could have, but not without preparation.];W[hk];B[ik];W[hl]
+;B[hm];W[il];B[jl];W[ij];B[jk];W[hi];B[gl];W[gk];B[cr];W[dq]
+;B[br];W[bq];B[kh];W[jf];B[lh];W[mh];B[ji];W[ih];B[ii];W[hj]
+;B[jh];W[ig];B[dg];W[ef];B[eg];W[ff];B[fg];W[gf];B[ch];W[bi]
+;B[eh];W[di];B[ca];W[da]C[Now I'm just making dumb mistakes without reading things out, since I feel it's a hopeless game at this point. I resign a few moves later.]
+;B[db];W[dc];B[ea]C[White resigns.])
+(;W[qo]C[Only one way to find out. ;)]
+(;B[po];W[qp]
+(;B[qq];W[pp];B[op])
+(;B[pp];W[qq];B[qn];W[pr];B[or];W[qr]C[Alive.];B[rn];W[ro]))
+(;B[qp];W[qm];B[po];W[qn];B[ro]
+(;W[ol];B[pl];W[om])
+(;W[om];B[ok];W[mm];B[mk]C[This a scenario that is 'too much sacrifice' W doesn't achieve anything, whereas, B is calmly repsonding and making territory.]
+)))
+(;W[qf]
+(;B[qh];W[qc];B[qd];W[rd];B[re];W[rc];B[qe];W[pc];B[ob];W[od]
+;B[oc];W[oe];B[rf];W[pb]C[This could be fun. Have a play around at living.]
+)
+(;B[qe];W[qi]C[W can definately do something here.]))
+(;W[qi];B[qg];W[qm];B[ok];W[qp]C[R11 was used as bait to form R7-R4. Now it can live. (small though)]
+))
+(;W[ce]C[Let's see what could have happened.];B[cj];W[ck]
+(;B[ci];W[di];B[dh];W[bh];B[bg];W[bj];B[dk]C[This only one possibility.]
+)
+(;B[dk]
+(;W[ci]
+(;B[cl];W[bj])
+(;B[bj];W[bk];B[di]
+(;W[ej];B[bi];W[ch];B[dh];W[bh];B[el])
+(;W[bi];B[ej];W[aj]C[This is bad for W. Can you see why?])
+(;W[dh];B[ej];W[ch];B[eh]C[Also bad for W.])))
+(;W[di];B[cl];W[bk];B[bi];W[dl]C[The lesson here, is in a crossfight, always build up strength before entering the fight. By extending D10 and C9, W gets more liberties to fight with.]
+))))
+(;W[ip];B[fo];W[dn];B[lq];W[fm];B[hn]C[Hm, on second thought, J4 isn't very good for W.]
+)
+(;W[fp];B[gp];W[fo];B[eq];W[dq];B[hq];W[dn];B[kq];W[nc])
+(;W[hq]C[Lots of things can happen in a pincer.];B[fo];W[eq]
+;B[fp];W[ho];B[dn];W[cn];B[do];W[co];B[ep];W[dq];B[dl];W[kp]
+))
+(;W[nc]C[Here is one way W can approch B.]
+(;B[oc];W[nd];B[pf];W[jc])
+(;B[nd]
+(;W[oc];B[pc];W[md];B[ne];W[lc];B[pf];W[ic]C[This looks nice and neat, especially for W. It can happen in a game, since it is made of 2 very common patterns. 
+B still has its framework. But W was able to extend and form a stable base.]
+)
+(;W[md];B[ne];W[oc];B[pc];W[pf];B[pe]C[I would only recommend this if you enjoy fighting recklessly. Or if you were W playing against handicap, in which you have to rely on your fighting ability.]
+))
+(;B[lc]C[B can also do this, in the true spirit on the chinese opening. B has already said "I want a framework" by playing chinese opening. To have a framework is to have support in a fight. Without fighting, the framework is not able to be used to its full capabilities. Therefore, you should always think about your framework and how it can be used in a fight.]
+;W[ne]LB[lc:B][pd:A]C[W extends, and at the same time, threatens A and B.
+Which stone should B defend first? (ie: Which side is more urgent?)
+
+HINT: To defend here is to extend. If each stone is able to extend in 3 directions (left, right, and towards the centre), and if by removing one of the directions as an option is to attack, having less options is....?]
+;B[pf]C[Right. Q16 should be defended first. Q16 only had one more direction to extend in, whereas M17 has two.]
+(;W[kd];B[kc];W[ld];B[mc];W[md];B[ic];W[ie];B[fc]
+(;W[fe]SQ[ci][di][cj][dj][ck][dk]C[very idealistic for W, but it demonstrates an important concept. 
+W pushes B along to form a group that will probably be alive. (still has a few attacking points, if W is desparate) But knowing this, W is still willing to push B to form life because W is making a framework at the same time. 
+
+See alternate framework completing moves.
+(This one gives B sente. B will play D10 area to separate W.)]
+)
+(;W[dj]SQ[fe][cf][df][cn][fp][fq]C[Sqaures indicate some possible moves for B.]
+))
+(;W[pb]C[But before attacking, think about bases first. W needs more support to attack efficiently and safely. That is, a base to make eyes in.]
+;B[qc]C[B stops W from playing R17 and taking the corner. If W took R17, W would be almost definately alive.]
+;W[kd]C[Now W can think about attacking.]))))

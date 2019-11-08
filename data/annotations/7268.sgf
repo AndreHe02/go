@@ -1,0 +1,352 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+PB[AK]
+BR[10k]
+PW[TH]
+WR[10k]
+KM[6.5]
+DT[2009-05-01]
+RE[W+10.50]
+RU[Japanese]
+
+C[Hi,
+
+ I'm interested in what were the main errors in the game and comments
+ to the general strategy (which is my weak point). To me, it seemed
+ like we both played OK in the beginning, but I started slipping in
+the early middle game but my opponent started then doing mistakes in
+ the late middle game. Of endgame, I wasn't sure, but I felt like I
+ was doing slightly better there than my opponent.
+
+ There are also some comments from me in the SGF for points that I
+ was thinking while playing.
+
+ My opponent was also interested in the review, especially comments
+ to the corner invasions on the right that eventually failed.
+
+ Thank you in advance for the review!
+
+Hi!
+I'm Igor' (Felisratus 4kyu on KGS) and I'll do my best to review your game. If you have any questions, don't hesitate to ask me (PM on KGS or mail to felisratus@gmail.com). 
+P.S.: I'm not a native speaker, so sorry for my bad english.]
+;B[cp];W[pp];B[cd];W[qd];B[nd];W[ec]C[The o16 stone is far from the corner, so playing kakari (e17) instead of responding to black's move seems resonable here]
+;B[eq]LB[kd:A][de:B]C[The top side, where two open corners are facing each other, is the most important part of the board now! Closing the corner is a big move, but looks a bit passive. Black must play hasami (pincer) on the top (h17 for example). It will both attack e17 and help o16 stone.]
+
+(;W[kd]C[Good move, but see variation];B[lc]LB[kc:B][oc:A]
+(;W[oc]C[W can also create shape by playing L17]
+(;B[jc]LB[hc:B][kc:A]C[The proverb says "Even a moron connects against a peep". k17 creates great cutting point, which is a big shape defect. Extending solidly to L17 is much better for B.]
+
+(;W[kc]C[Good, but you can also play h17 first, leaving B with the problem of L17 cut (see var.)]
+;B[kb]LB[jb:B][lb:A]
+(;W[mb]C[Oops! W has created the great defect in B shape with L17 move and with the next move W helps B to patch it. Black must be happy to connect and N17 is very small now (actually it's just an endgame move).  "Don't peep when you can cut!", so W must cut B position directly
+See variations for how W can cut.];B[lb];W[cg]LB[ed:A][de:C]
+[ee:B][cf:D]TR[ec]SQ[cd]C[TH: Not sure which is the right direction here - mainly I wanted
+to enforce the lone white stone and start building territory
+towards black low-left corner eventually.
+
+
+I think these are two different questions.
+It is a very good idea to reenforce e17 stone now, but... I don't think, that c13 is the proper move for this purpose. This is a "high level" shape, the one can often be seen in pro games. Black can respond from A to D (and a lot of other moves), which leads  to numerous joseki variations with almost unpredictable results for both sides (since you are not a high dan player =). Playing this way could certainly be interesting. But if you want to improve your Go, the very good idea is to make moves, which you can understand. In this way h17 would be the good, simple move to reenforce e17 stone and put some pressure on B L17 group.
+
+About "building territory
+towards black low-left corner" see comments in the vaviation, starting from this move.]
+
+(;B[dc]C[I think B must cut here (d15 or e15), to separate W stones]
+;W[db]LB[cb:A][ed:B]
+(;B[cb]C[Too passive];W[dd];B[cc];W[de]C[Due to B d17, the result is good for W.]
+;B[fb]
+(;W[ck]C[TH: With the following move, I wanted to pressure black a bit
+while building up my own territory, but I'm not sure everything
+went right: Black got a large corner while my own framework felt
+too loose.
+
+You can't pressure black here, his corner is very strong! But all the same c9 is a very good move, because it prevents B c10, wich would attack W top group.
+ Now you see, that making territory on the left side isn't a very good idea. 
+See also vatiation for w24];B[cm]C[Locally W must play d11 to patch c11 weakness, but then B will extend to k3 or k4, creating a two-wing formation, which is very good. k3 is also a good extension from the q4 stone. So... k3 is the most important point on the board, more urgent, than patching c11. W *must* take it.]
+;W[kq]C[Great!];B[iq]C[Good move too. But Black's framework isn't so big. According to the whole board position W can reduse it later, playing around e5, or invade at g3.]
+;W[pj]TR[oc][qd][pp][kq]C[Very good move! Now W position is favorable.]
+;B[pf];W[qh]TR[np]C[TH: This didn't feel quite right - somehow I felt I should now be
+able to secure a lot more territory?
+
+Yes, securing some territory is a good idea. But the problem is that the right side is not the territory yet. It's just moyo - part of the board, which *can* become a territory, but still could be invaded. It's better for W to play o4, which protects o3 weakness, gives W a good territory on the bottom. o4 is a shimary too, so it makes q10 work better (and makes the possible invasion on the right side harder for B)]
+;B[qn]
+(;W[rp]C[This is a bit passive. See the "classical" sequence of attacking r6 approach, when you have stone around q10 (this sequence is typical for san-ren-sei fuseki)]
+;B[qk]LB[qf:A][qj:B]
+(;W[qf];B[pd];W[pc];B[nc];W[pe]C[Good move! (o18 would be slack for W)]
+;B[od];W[of]C[Maybe it's better to patch r17 weakness?]
+(;B[oe];W[pg];B[jd];W[le]C[Stop! This is the big strategic mistake! 
+Look at L16 stones and ask yourself:
+- do they cut black stones? (no)
+- are they important for killing/living? (no)
+- are they important for W shape (no!)
+- do they make thikness or territory? 
+(no!!!)
+
+So this stones is absolutely useless! (Just a mere few points) Trying to save them you just create a heavy weak group, wich can become the ideal target for B attack! Imagine B plays n14 (see variation for a possible continuation)This is the shortest way to defeat :(
+So you *must* sacrifice them, while they are small! 
+Or you can play from your alive stones (n14 for example), threatening to save L16. But B can ignore it and play elswhere.]
+
+(;B[ld]C[B must play around N14 to split W];W[ke]LB[di:C][on:A]
+[ko:B]C[W can easily play n14 and sacrifice two stones (B is already alive, so they are not important anymore. Just merely 4 points - too small!) But I think W must tenuki (any of the marked points is bigger).]
+;B[nf];W[ng];B[mf];W[je];B[hd]LB[pm:C][rm:A][on:B]TR[qk][qn]
+C[Locally J15 is better for B, but in general they must make something with their weak stones on the right (p6 for example).]
+
+(;W[go]C[TH: Here I wanted to start reducing the black corner while
+building outside strength, but this didn't seem to work too well.
+Was I too worried about black's corner? I felt I should do
+something now to keep the initiative.
+
+
+
+Well, in general after invading opponent's moyo (framework), your stones will be attacked (the deeper the invasion, the harder the  attack will be), and while they runs away, the attacking side (but not invading) gains outside strength! 
+
+Let's count the points now. 
+W has:
+- 30 solid points on the top right
+- 24 points moyo on the bottom (yes, it's not territory yet! Black can invade it easily, starting from r3 or n3)
+- 6,5 points komi
+-and the relatively weak group on the left.
+So around 60 points, if W manages to protect the bottom
+
+B has:
+- 15-20 points on the top
+- 20-25 ponts of solis territory on the left 
+- very good moyo on the lower-left quorter of the board 
+- and very, very!, VERY!!! weak  r6r9 group on the right (it's so weak due to W s4, q4 and q10 stones). 
+
+The outcome of the game mainly depends on the result of W attack on the q6q19 group! In general, W has two ways:
+
+1) try to destroy B base and attack hardly (or even kill), starting from s7
+2) close B inside, gaining great outside strength, wich will be very useful in reducing B moyo
+See some variations below (from move 51)
+
+The general idea in a such positions is that you must gain thickness first (attacking weak stones). Then your invasion will be much more successful]
+;B[io]C[The right answer.];W[gm];B[fn];W[gn]C[Black can play g3 and after W connects, invade the right side (see some possible variations )]
+
+(;B[el];W[gq];B[gr];W[on]C[This is a very good move, both attacking the weak black group and protecting N3 weakness!]
+;B[po];W[np];B[ko];W[oo]C[Good! Now B's only hope is to capture the g6 group! But he also need to survive with his right group, so the game becomes really hard for him.]
+;B[qp];W[qq];B[qo];W[pq];B[ol];W[pm]LB[qm:B][ro:A]C[I think B must play s5 to live. 
+The other ways (R7 for example) leed to very complicated positions.]
+
+(;B[om];W[qm]C[Now S5 doesn't work :(]
+(;B[rm];W[ro]C[TH: S8 seems better (kills the black group?), but I missed it
+
+Yes, S8 really kills.];B[rn];W[rl];B[ql];W[pn];B[sl];W[rj];B[rk]
+;W[pl];B[qj];W[ri];B[pk]
+(;W[fk]LB[fl:B][hl:A][os:C]C[Playing keyma here is too dangerous for W.
+B can cut and he *must* cut it immediately!!!
+
+"Always think before cut. Then cut anyway!" ;)
+
+(g9 is the right move  for W )]
+(;B[hl]C[B must cut! This is a "thank you move" and W is happy to connect.]
+;W[fl];B[fm];W[gl]LB[ek:B][im:A]
+(;B[im]C[W is one move to connect his positions! Connecting h8 is no use now. B must play e9.]
+;W[hi]C[TH: I was worried about the K15 group and wanted to ensure
+that the "worm" I built lives, but E9 looks better in
+retrospect, now black gains the initiative for a while.
+
+
+Yes, e9 is the best move here: it both connects and protects c11 weakness!]
+;B[ek]C[Good!)];W[ej]LB[dj:A][fj:B]C[I think it's better for B to cut first.]
+
+(;B[dj];W[ei]LB[cj:B][dk:A]
+(;B[dk]C[C10 captures the W stone.];W[cj];B[di];W[ci];B[dh]
+;W[ff];B[fd];W[ed];B[ch];W[bh];B[eh];W[fh];B[hj];W[gj];B[hh]
+;W[gi]LB[hf:A][kg:B]C[It looks better to start the attack from L13?]
+
+(;B[hf];W[jh];B[jg];W[kg];B[jf];W[lg];B[lf];W[kf];B[ih]
+(;W[am]C[TH - Jumped too far here - B8 is better?
+
+Yes, B8 starts a good sente sequence.];B[bl];W[cl];B[bm];W[ep]
+;B[eo];W[fp];B[dp]
+(;W[ad]C[TH: Another jump too far (sigh), B15?
+
+B15 is very good - black need to conntct at e18 and white can destroy corner territory with a17
+
+About an endgame jumps see variation.]
+(;B[bf];W[bg];B[af];W[ce];B[be];W[bd];B[bc];W[ag];B[ac];W[fr]
+;B[er];W[hr];B[fq];W[gs];B[hp];W[gp]
+(;B[mh]C[Again: don't peep, when you can cut. 
+After W connects at n13, n12 is useless.];W[mg];B[oh];W[og]
+;B[mq];W[lp];B[mo];W[mp]LB[jr:B][kr:A]
+(;B[kr];W[jr];B[lq];W[lr];B[kp];W[ks];B[jq];W[kr];B[ph];W[oj]
+;B[nj];W[nh];B[ni];W[oi];B[qi];W[pi];B[ok];W[nn]C[Good timing :)]
+;B[mm];W[mn];B[lm]LB[mi:A][kj:B]
+(;W[mi];B[mj];W[li];B[lj];W[ji];B[ki];W[lh];B[jj];W[ij];B[ii]
+;W[hk];B[ik];W[kh];B[hj];W[cf];B[ae];W[ij];B[jk];W[kj];B[kk]
+;W[if];B[ie];W[ig];B[hg];W[ge];B[he];W[gd];B[gc];W[fc];B[eb]
+;W[gg];B[ob];W[pb];B[nb];W[nm]C[Maybe R17 is better here?
+
+Yes. You also can play q19 first, and play r17 only after B plays p19]
+;B[nl];W[hm];B[il];W[md];B[mc];W[me];B[ne];W[bk];B[al];W[ak]
+;B[dl];W[es];B[dr];W[ds];B[cs];W[fs];B[cq];W[in];B[jn];W[eg]
+;B[sj];W[sh];B[ir];W[is];B[so];W[sq];B[lo];W[ln];B[kn];W[dg]
+;B[dm];W[hj];B[no];W[op];B[mr];W[nr];B[ls];W[ms];B[qc];W[qb]
+;B[rc];W[rb]
+(;B[re]LB[rd:A][qe:B]C[TH: This seems like an error, S16 should be better for black
+
+No, black can't do much damage here.  If W plays r15, there is no ko-fight, but just a few points reduction. (see variations)]
+
+(;W[rd]C[I think r15 is better.];B[qe];W[sc];B[pf];W[en];B[dn]
+;W[pe];B[bi];W[ai];B[pf];W[fo];B[em];W[pe];B[bj];W[aj];B[pf]
+;W[bd];B[ad];W[pe];B[rr];W[rq];B[pf];W[cr];B[br];W[pe];B[ph]
+;W[oh];B[pf];W[bs];B[as];W[pe];B[fi];W[fj];B[pf];W[hc];B[gb]
+;W[pe];B[jg];W[jf];B[pf];W[rf];B[pe];W[se];B[ho];W[hn];B[gf]
+;W[fe];B[ic];W[gh];B[id];W[jp];B[jo];W[hq];B[ip];W[jb];B[ib]
+;W[si];B[sk];W[sn];B[sm];W[sp];B[sn];W[oa];B[na];W[pa];B[ki]
+;W[ml];B[ll];W[kj];B[rg];W[qg];B[ki];W[km];B[kl];W[kj];B[tt]
+;W[ki];TW[qa][ra][sa][sb][qc][rc][fd][sd][ee][df][ef][sf][fg]
+[jg][rg][sg][ah][mh][ph][rh][bi][fi][bj][gk][lq][mq][nq][oq]
+[gr][mr][or][pr][qr][rr][sr][hs][js][ls][ns][os][ps][qs][rs]
+[ss]TB[aa][ba][ca][da][ea][fa][ga][ha][ia][ja][ka][la][ma][ab]
+[bb][db][hb][jb][mb][hc][bd][lk][mk][nk][jl][ml][rl][am][jm]
+[km][an][bn][cn][en][ao][bo][co][do][ap][bp][jp][aq][bq][dq]
+[ar][cr][bs])
+(;W[qe]
+(;B[rd];W[rf];B[sb];W[sc]
+(;B[ra];W[se])
+(;B[sd];W[sf];B[ra];W[se];B[pa];W[sc];B[qa]))
+(;B[rf];W[rd])))
+(;B[rd];W[qe];B[re];W[rf];B[sb];W[se];B[pa];W[sd];B[ra];W[sc]
+;B[qa]))
+(;W[kj]C[This move is a little better for destroing B's moyo.]
+
+(;B[ki];W[li];B[ji];W[lh];B[lj];W[mj];B[lk];W[nk])
+(;B[lh];W[kh])
+(;B[li];W[ki];B[lj];W[kk])))
+(;B[jr];W[kr];B[ks];W[ls];B[js];W[lr]C[The right way for B.]
+))
+(;B[mg];W[mh];B[nh];W[lh];B[og]))
+(;AW[bf][cf][df]AB[eb][ce]AE[db][ad]CR[ea][eb][ec][ed][ee][ef]
+[ag][bg][cg][dg][eg]C[Let's simplify the position =) Here W can jump to as far as b17]
+PL[W];W[ac]TR[bf]C[This move (ogeima from the second line to the first line) is called "monkey jump". Until b14 is safe, it can't be cut. Monkey jump is 10-12 points  endgame move, so it's worth to remember. 
+See continuation for how to defend.]
+(;B[bc];W[ad];B[ab];W[ae])
+(;B[ad];W[bd];B[bc];W[ae];B[ab]C[W can connect or tenuki (if there are some bigger moves)]
+)))
+(;W[be]
+(;B[eb];W[ac];B[ce];W[cf];B[bd];W[ad];B[bf];W[ae];B[ab];W[af]
+;B[bc];W[bg])
+(;B[bd];W[eb];B[ab];W[ba];B[bb]LB[ca:A][ad:B])))
+(;W[bl];B[bm];W[am];B[an];W[al];B[bn]))
+(;B[kg]
+(;W[hf];B[ie]
+(;W[if];B[jf]C[captured])
+(;W[jf];B[if];W[jg];B[ig];W[kh];B[lg];W[jh];B[ii];W[lh];B[mh]
+;W[mi];B[mg];W[li];B[ni]C[and so on...
+Blacks chanses to capture quite good.]))
+(;W[if];B[hf];W[ig];B[hg];W[ih];B[ii];W[jh];B[ji];W[kh];B[ki]
+;W[lg];B[mg];W[mh];B[nh];W[mi];B[ni];W[og];B[mj];W[nj];B[nk]
+;W[oj];B[ok];W[pi];B[mn])))
+(;B[cj]))
+(;B[fj]
+(;W[dj];B[gj];W[hk];B[hj];W[ij];B[ik];W[gk];B[ii];W[jj];B[gi]
+;W[hh];B[gh])
+(;W[gj]
+(;B[fi];W[ei];B[dj];W[dk];B[di];W[eh];B[cl];W[cj];B[ci])
+(;B[dj];W[ei];B[dk]))))
+(;B[ek];W[hk];B[ci];W[dj];B[di];W[ej];B[ei];W[fi];B[eg]C[B can play this way]
+))
+(;B[fl];W[gl];B[gk];W[hk];B[gj]C[Now B can either capture W's dragon, or gain thikness and invade c11.]
+))
+(;W[sn]C[My first idea was to play T6 and then resume attack, but this doesn't looks well for W]
+;B[oj];W[pi];B[mm]C[Bad way! W just strengthenend B.]))
+(;B[ro];W[rq];B[rm];W[rl]
+(;B[ql];W[sm];B[rn];W[so];B[rk];W[sn];B[sl];W[sp];B[rl];W[pn]
+)
+(;B[pn];W[so])))
+(;B[qm];W[ro];B[ri];W[sl];B[rl];W[sk];B[sm];W[sn];B[rm];W[rh]
+
+(;B[sj];W[qj];B[rk])
+(;B[sh])
+(;B[qj]
+(;W[si];B[sj])
+(;W[sj];B[si];W[pl])))
+(;B[ro]
+(;W[qm];B[rm];W[rl];B[ql];W[rk];B[rj];W[sm];B[rn];W[rq];B[sk]
+;W[so];B[sl])
+(;W[rm];B[qm];W[ql];B[rl];W[pl];B[rk];W[rq];B[sm])))
+(;B[gq];W[fl];B[mq];W[ko];B[mo];W[km];B[qq];W[qp]C[Now B can connect his stones (safe way) or try to attack W stones (more risky)]
+
+(;B[pq];W[oq];B[or];W[nq];B[nr];W[mp]
+(;B[lp];W[np];B[lq]C[hard for W now];W[on];B[pk];W[ok];B[ol]
+;W[nk];B[nl];W[pl];B[pm];W[ql];B[qm];W[rl];B[rm];W[rk];B[om]
+;W[nn];B[mn]C[and so on...])
+(;B[op];W[np];B[oo];W[po];B[pn];W[on];B[no];W[lp]
+(;B[nm]C[Now, even if W manages to live with s4 stones, his bottom will be not so big and B will have much stronger position on the right side.]
+)
+(;B[om];W[nn];B[nm];W[mn];B[mm];W[lo];B[qj])))
+(;B[on];W[np];B[mp];W[nq]LB[im:B][mm:A][kp:C]C[possible continuations from A to C will be good for B]
+)))
+(;W[rm]
+(;B[rn];W[ql];B[pl];W[rk];B[pk];W[qj]C[B lack base now and must run away, so W can, attacking him, protect and/or expand bottom moyo and gain thiknes.]
+;B[qm];W[rl];B[om];W[oo];B[nl];W[ko])
+(;B[qm];W[rn];B[ol];W[on];B[qj];W[ri]))
+(;W[on];B[pm];W[jo];B[gp];W[el]C[B moyo isn't very big now and W moyo on the bottom is good enough to win]
+)
+(;W[pm];B[qm];W[pk];B[pl];W[ol];B[ql];W[pn];B[ro];W[qo];B[ri]
+;W[qj];B[rj];W[ko];B[io];W[gn]TR[ko][kq]SQ[ol][pm][pn][pp]C[I think, this is the best for W, because his moyo is bigger and much harder to invade due to strong wall.]
+))
+(;B[mf]
+(;W[lf]LB[mc:A][md:B]C[(the cut at A or B doesn't work for W)]
+;B[mg];W[jf];B[he]
+(;W[ki];B[mi]C[B strenghtens himself on the both sides and W isn't still safe.]
+)
+(;W[hg];B[if];W[ig];B[jg]C[B strenghtens himself, while W gains nothing, but problems]
+))
+(;W[mc];B[md];W[nb];B[ld])
+(;W[md];B[mc];W[ne];B[me])))
+(;B[qc]
+(;W[rc];B[qb];W[pb];B[rd];W[qe];B[rb]C[B lives])
+(;W[qb];B[rc];W[rb];B[rd];W[qe];B[pb];W[ob];B[nb];W[pa];B[na]
+;W[re]C[B makes good reduction in sente.];B[oa];W[pb])))
+(;W[qj]C[Maybe this is better. W shape is  overconcentrated, but it puts pressure on two B stones. Connecting at r14 is too passive.]
+))
+(;W[qo]C[make the B stone "heavy" (harder to sacrifice)];B[pn]
+;W[np]LB[pl:A][ql:B][pn:2][qo:1][np:3]C[and attack it!];B[pl]
+;W[rk]C[s9 is just one of the possible variants. 
+B lack two eyes, so W can attack black's weak stones and gain thiknes.]
+))
+(;W[eb]C[This move is absolute sente! If B tenuki, W b15 kills (I hope you will find it yourself). So B must live inside and W can gain some thikness...]
+;B[bf];W[bg];B[cf];W[df]
+(;B[ce];W[dh]C[Now W position is very solid. c10 (or even c9) becomes bad moves for B (play away from thikness) and W can extend as far as c7. But you know, that the best way to use thikness is to attack! So it will be the best to create moyo (q10 and/or k3) and... when B invades it, W wall will be ideal to attack invading stones.]
+)
+(;B[dg];W[dh];B[eg];W[ci];B[ed];W[fd];B[ee];W[fe];B[ef];W[gc]
+C[Also playable. for W.])))
+(;B[ed];W[cc];B[dd];W[bb];B[bc];W[cb];B[fc];W[eb];B[di]C[This way is much better for B!]
+))
+(;AE[cg]TR[cd][cp][eq]SQ[oc][qd][pp]C[Look at the marked stones right now and think a little about general position on the board. Other stones, of course, influence it, but lets remove them for a moment]
+;AE[kb][lb][mb][ec][jc][kc][lc][kd][nd]LB[dj:A][pj:B]TR[cd]
+[cp][eq]SQ[oc][qd][pp]C[You can  see, that the left side is "black" and the right side is "white"
+Of course, it doesn't mean, that the left side will become the black's territory and the right will become white's for sure. But... it is much easier for W to build territory on the right, where he almost has 3 stones in a good position. Playing around B (q10) will be the ideal extension both from the corner shimari and from the hoshi stone.  And it's the same for B on the left. In general, you must build territory there, where you are strong, not where you are weak!
+
+If it's B move now, he can play around A to create a good framework. Black may also want to play around q10, preventing W from playing there, but the purpose of this move will be not building much territory (black has the left side for it), but preventing W from making too much territory on the right! Black's stone will be in disadvantage on the right side. (1 stone against 3 stones) See some variations for example
+
+So, in the real game you should think about stopping B from making too big moyo on the right side, not about building you own there.]
+;B[qj]LB[qh:B][ql:A]
+(;W[ql];B[qg];W[jq])
+(;W[qh]
+(;B[qm];W[mq])
+(;B[qn]
+(;W[nq];B[rp];W[qq];B[pl]LB[ic:B][ed:A][cj:C]C[In this way B has strong position and some points, but W has sente to play a big fuseki point (from A to C)]
+)
+(;W[ql]C[If W wants to play more actively, he can invade here.]
+)))))
+(;W[lb]LB[jb:A][mb:B]
+(;B[jb];W[mb]C[now B has two weak groups - good for W.])
+(;B[mb];W[jb];B[la];W[ib]C[B ponnuki is almost useless here due to p17 and W has strong position. W must play j16 as soon as posible]
+))
+(;W[jb]LB[ib:A][lb:B]
+(;B[lb];W[ib]C[B shape isn't very effective due to p17 and W has strong position. W must play j16 as soon as posible]
+)
+(;B[ib];W[lb];B[ja];W[mb];B[ee]C[Cutting this way isn't so good for W, because e17 is weak now. But W have great thikness facing the right side and if he manages to play around q10, his moyo will be really impressive.]
+)))
+(;W[hc]C[Now L17 cut is much more dangerous for B. He need to connect and then W has sente]
+;B[kc]C[W can play second kakari at the UL corner (C13 for example), which will be very severe due to H17 stone. W tenuki also good.]
+))
+(;B[kc]))
+(;W[kc];B[ld];W[ke];B[mf];W[de]C[I think this way is better for W. Both W and B corners are weak now, but W corner looks a little better (and it will be much better, if W manages to take sente and play p17). I would prefer W moyo on the top side to the B group]
+))
+(;W[de];B[ce];W[df];B[cg];W[jc]C[W can create some thikness first, and then k17 will be both a light pincer and a good extension from the W wall]
+))

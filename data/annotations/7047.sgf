@@ -1,0 +1,228 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+PB[rag]
+BR[6k]
+PW[Um]
+WR[3k]
+KM[0]
+RE[W+Resign]
+RU[Japanese]
+
+C[white outplayed black everywhere.  help!
+
+csh: I will try to help the best that I can. Hopefully you will find my comments useful.]
+;B[pp];W[dd];B[pc];W[dq];B[fc];W[hc]
+(;B[cf]TR[hc]C[csh: I don't think you can counter-pincer here. Usually you would dive into the corner or jump out to the center. In the game, you end up with two groups that you have to take care of. See the variation for an example.]
+;W[fd]C[csh: Now Black has to manage two groups, and probably will not end up with a favorable result.]
+;B[gd]C[csh: After seeing the hane, I thought, "What will Black do if White cuts?" It's important to read this out and have a plan before playing the hane.]
+;W[gc]TR[fc][gd]C[csh: Now Black will lose one of the two marked stones.]
+
+(;B[ed];W[fe];B[ee];W[ec];B[dc];W[fb];B[cc];W[db]C[can black turn? or tenuki?
+
+csh: Black can't tenuki. See the variation.]
+(;B[de]C[cowardly];W[cb];B[bc]TR[eb][fc][gd][da][ea][fa][ga]
+[ha][gb][hb]SQ[dd][ad][ae][bd][be][cd][ce][af][bf]C[csh: While Black didn't lose additional other stones, this was a bad result for Black. His shape is overconcentrated in the upper left. Compare estimates of White's territory (triangles) to Blacks's (squares) and you will see the difference. The triangled black stone is essentially dead, for all intents and purposes.]
+;W[nc]C[csh: This is a good idea for White. He is reinforced by the power from his position in the upper left.]
+;B[kd]LB[kc:A]C[csh: This move is a good response from Black. It looks to reduce the territory that White can make at the top of the board.  It's also important to note that playing on the fourth line makes it easier for the stone to escape. It is better than playing at 'A'.]
+;W[kc];B[lc];W[kb]C[descend?
+
+csh: Again, how will you handle if White cuts? Read that out first, before descending.]
+
+(;B[pe]C[csh: I don't think you should tenuki from being cut.]
+;W[ld];B[md];W[le];B[mc];W[nd]C[unexpected];B[me];W[ne];B[lf]
+;W[ke];B[kf];W[je];B[mf]C[decided to fight...ok?
+
+csh: It's not going to be an easy fight, but I think it'll be okay.]
+;W[of];B[pf];W[og];B[pg];W[nb];B[la];W[pb];B[qc];W[qb];B[rb]
+;W[oh]
+(;B[qa]C[csh: I think it's more important to stay ahead of White. This threatens the two stones in the corner, and takes away an eye, but I feel that it's more important to keep from being shut in. See the variation.]
+;W[ph];B[qm]C[csh: This checking extension is the right idea, but the whole problem could have been avoided if Black kept moving down the righthand side of the board.]
+;W[ob];B[rd]C[too slow?
+
+csh: Yes. You want to increase your eyespace, instead of trying to ensure two eyes.]
+;W[qk];B[mi]C[csh: Good, you're making moves to support the group in the middle.]
+;W[nj]
+(;B[jf];W[if]C[csh: I'm not sure that this exchange helped you. It doesn't get you out into the center, and it doesn't give you more liberties. You get an atari, but I don't read it as leading to much. Maybe it's better to jump to the center.]
+;B[ie];W[jd];B[ni];W[oj];B[mj];W[qn]C[overplay?
+
+csh: Yes, but you need to respond to it.];B[pm];W[po];B[qp]
+C[wrong?
+
+csh: Protecting the corner isn't bad, but there are now two groups that Black needs to worry about.]
+;W[pn]TR[po]C[unexpected
+
+csh: It's bad shape. If you think about it, it means that the marked stone was a wasted move.]
+
+(;B[rn]C[wrong?
+
+csh: I think the corner is more important than the side group. See the variation.]
+;W[ro];B[rm];W[qo];B[nm]C[csh: Black is in the position of worrying about two groups. By playing this side, you are betting on attacking the white group on the side, and giving up the stability of the corner.]
+;W[op];B[oq];W[on];B[om];W[nq]C[unexpected
+
+csh: In this case, the double-hane is a strong move. You should read out both the cut and the double-hane before you move.]
+;B[np];W[oo];B[mq]C[csh: Where were you planning to go after this move?]
+;W[nr]C[csh: I don't see a good response. Black force White to cut Black in two.]
+;B[mr];W[or];B[pq];W[mp];B[no];W[nn];B[mo];W[mn];B[lp];W[pr]
+;B[so];W[rp];B[ml];W[lo];B[ko];W[mp];B[kq];W[kn];B[jo];W[jn]
+;B[lm];W[ln];B[io];W[gq]C[csh: At this point, White has more points than Black. Black's only chance to win the game is to attack the floating group on the right, which does not clearly have life yet.]
+;B[qi]C[csh: Unless you're sure it's a vital point, it's not always a good idea to throw stones in. Did you read that it connected out?]
+;W[qh];B[rk];W[qj];B[ri];W[rj];B[rh];W[rl]C[csh: White has one eye.]
+;B[rg];W[na]
+(;B[lb]LB[pi:A]C[miseed A
+
+csh: It would have been a good move, but it was miai. White would have connect out. See the variation.]
+;W[pi];B[pk];W[nl];B[nk];W[ok];B[ol];W[pa]TR[eb][fc][ge][kd]
+[np][oa][rk][cr][cs][dr][ds][er][es][fr][fs][da][ea][fa][ga]
+[ha][ia][ja][gb][hb][ib][jb][gd][hd][id][ic][jc][mo][no][oq]
+[pq][qq][pp][qp][ps][qs][rs][ss][qr][rr][sr]SQ[dd][ks][li][lq]
+[sb][sd][sg][ad][ae][bd][be][cd][ce][af][bf][ip][jp][kp][jq]
+[jr][kg][kh][lg][lh][kr][lr][qd][qe][rc][sc][re][rf][se][sf]
+C[csh: White makes a second eye.
+
+Since things are settling down, it's probably a good time to estimate territory.
+
+My read is White has about 56 points. Black might have about 36 points
+
+It's really hard to read how many points Black can realize in the center. It's also hard to actually make points in the center.]
+;B[do]C[ok?
+
+csh: Best that you can do, I suppose. The problem is that Black does not have enough territory. Since you're behind in territory, pushing to try and get back in the game is the best you can do.]
+
+(;W[co]C[csh: I don't know that this is the best continuation. It's too easy for Black. See the variation.]
+;B[cn];W[cp];B[dm];W[cj]C[csh: I was a little surprised by this move, since it's dangerous. If this stone is swallowed and dies, then Black is back in the game. It might be easier to lightly reduce.]
+;B[ej]C[ok?
+
+csh: Yes, good move. Put the pressure on the stone.];W[cl];B[bm]
+;W[bl]
+(;B[bo]C[too slow
+
+csh: Yes. You need to pressure his group and take away the base from the other side. Otherwise, you don't really have a chance. See the variation.]
+;W[ch];B[bi]C[csh: Again, it looks like you're playing blindly at "vital" points. Make sure you have a plan after White plays.]
+;W[bh];B[ci]C[sacrifice to build outside wall. ok?
+
+csh: No, it's a bad idea. While strategically, it's important to consider sacrifices, but in this case, it's bad.
+
+You want to have a wall when:
+
+1) It's facing an open section of the board.
+2) It has an extension about as long as the wall is high. (Some books say height + 1 is ideal.)
+3) The wall is not facing strong groups of either color. (If your opponent already has a strong group there, then your wall won't be able to attack it. If you already have a strong group there, then the wall ends up being wasted moves.)
+
+Making a wall here sacrifices two stones to get a wall right next to the group in the upper left. It doesn't help you much.
+
+You're also sacrificing more than just two stones. You're sacrificing your chance to win the game. :(]
+;W[di];B[dj];W[bj];B[ei];W[dh]TR[ei][dj][ej]C[csh: The white group is alive now. Black doesn't have a way to make back the 20 or more points that he is behind.
+
+By the way, I was not sure what you meant by "sacrifice to build a wall" when you commented earlier. Are you referring to the marked black stones? Typically, when they talk about a "wall," they are referring to a formation that starts at the edge of the board and goes towards the center of the board. While these three stones do exert some influence towards the center of the board, they were not worth the sacrifice of the two stones. The marked stones can actually be a liability if White pushes out to the center and cuts them off from their allies.]
+
+(;B[hf]TR[ei][dj][ej]SQ[bm][bo][cn][dm][do]C[only chance left, right?
+
+csh: I don't think you have a chance.
+
+Looking around the board, I see the following:
+
+1) The top white group is alive. White could let you take the stone you ataried and would still be ahead in the game.
+
+2) There isn't an attack on the white group on the right.
+
+3) There isn't an attack on the white group on the left.
+
+4) The white group in the lower right is also alive.
+
+5) The marked black groups on the left are not alive yet.
+
+6) You could try to seal off the middle, but it would still be a rough game. I put in a variation, but I still think it is tough to win at this point.
+
+I did put in a variation to try and seal off somet points in the middle, but it looks like a rough game.]
+;W[ig];B[he];W[hg];B[gf];W[hi];B[hk];W[fh]C[nice move :(];B[eh]
+;W[fg];B[ff];W[eg]C[considered resigning];B[ef];W[dg];B[bp]
+;W[bq];B[eq]C[didnt work out as hoped];W[ep];B[dp];W[cq];B[fp]
+;W[eo];B[fq];W[dn]
+(;B[cm]C[wrong];W[em];B[dl];W[el];B[ek];W[gp]C[unexpected again]
+;B[go]C[wrong];W[fo];B[hp]C[wronger];W[gr]C[fed up
+
+csh: Well, it happens. It looks like when you play some moves, you are only considering one response from your opponent. I can't tell if there were times when you were playing too fast, or if you aren't reading far enough. There were times when you played a hane and then appeared not to have a plan after the opponent cut.
+
+It also looks like you are too intent on pushing in and reducing your opponents territory, without concentrating on trying to increase your own. For example, you could have extended down the righthand side of the board, or from the lower right corner, instead of trying to attack directly.
+
+Towards the end of the game, you were stuck in the position where you needed to kill a group to win.
+
+It was a hard game, but it was impressive that you played an even game against a stronger opponent and still managed to make a game of it.
+
+I can't tell the speed of play, but it looked like you might have had time pressure. There isn't an easy fix for that, other than doing more go problems and trying to get faster at reading.
+
+I hope this review helps you. Please let me know if you have any questions.
+
+Chris Hayahsida])
+(;B[en];W[do];B[cm]C[better?]))
+(;B[jl];W[ig]))
+(;B[bh]C[csh: This puts a lot more pressure on White. If you kill the group, you're back in the game. This is why the deep invasion by White was a mistake.]
+))
+(;W[cm]C[csh: What if White attacks from this side? His corner group should still be stable, and he wrecks any potential territory on the left of the board.]
+))
+(;B[pi];W[oi];B[pj];W[ok];B[pk]C[csh: Now that he's cut off, he can connect back.]
+;W[lb];B[mb];W[ma]C[csh: White loses four stones, but his group is still safe.]
+))
+(;B[np]C[csh: A move like this protects the corner. There's more points in the corner than on the righthand side, even if White captures the two stones.]
+;W[om]C[csh: A move like this is hard to handle, but the points that you get in the lower right will compensate.]
+))
+(;B[ig]TR[mi]C[csh: The cut is protected by the marked stone.]
+))
+(;B[qi]TR[la][kf][lf][mf][lc][mc][md][me]C[csh: This move indirectly pressures White. The problem is that Black still needs to worry about the marked group.]
+))
+(;B[lb]C[csh: If Black descends, I think White would cut.];W[ld]
+;B[md];W[le]
+(;B[me]C[csh: Black can't extend, or else White will cut.];W[mc]
+C[csh: Since the ladder doesn't work, the black stones at the top of the board will be captured. White is all connected together.]
+)
+(;B[mc]C[csh: So Black has to connect.];W[me]LB[nd:A]C[csh: White can push, threatening 'A'.]
+;B[nd]TR[lb]C[csh: I think this result is not great for Black. The marked stone ended up being more of a liability.]
+
+(;W[je]C[csh: This move is safe, keeping the cutting stone from escaping. Note that without this move, the cutting stone was caught in a ladder, but then when Black approaches in the lower left, White would need to respond in two places.]
+)
+(;W[tt]C[csh: White tenukies.];B[do]C[csh: Black approaches the lower left, and White has to decide whether to respond at the top or the lower left.]
+
+(;W[je]C[csh: If White plays here, he has to take a worse position in the lower left.]
+)
+(;W[co]C[csh: If White plays in the lower left, then Black can activate his cutting stone.]
+;B[cn];W[cp];B[jd]TR[me][ld][le]C[csh: Now the marked White stones are in a worse position.]
+))))
+(;B[ld]C[csh: This would be one option.];W[lb];B[mb];W[mc];B[nb]
+;W[ob];B[oc];W[ma];B[nd];W[na];B[md]C[csh: This ends in gote for Black, but since he doesn't have an extension down the righthand side, I don't think this is a good result.]
+;W[qj]C[csh: White has an easy time invading the right.])
+(;B[mc]C[csh: This is another option, to try and keep the stones disconnected.]
+;W[nd];B[me]C[csh: This ends up where the black group and the white group need to escape to the center. Black should make some territory on the righthand side of the board.]
+))
+(;B[tt]C[csh: Black plays tenuki.];W[cd]C[csh: Black doesn't have a good answer for this move.]
+
+(;B[cb];W[bc];B[bb];W[bd];B[da];W[eb];B[ab]
+(;W[ba]C[csh: Black loses the capturing race.]
+(;B[ca];W[ac];B[de];W[ea])
+(;B[de];W[ca]
+(;B[ce];W[ac];B[aa];W[ca])
+(;B[aa];W[ca];B[ba];W[ac]C[csh: Now, no ko.])))
+(;W[ca]C[csh: This move makes it ko.];B[ba]C[csh: The ko is bad for White, since he can kill unconditionally.]
+))
+(;B[bd];W[bc];B[cb];W[bb])
+(;B[bc];W[bd];B[cb];W[ba];B[da];W[eb]
+(;B[ca];W[ea];B[ac];W[ad])
+(;B[ad];W[ae];B[ac];W[be];B[ca];W[ea])
+(;B[de];W[ac];B[ab];W[ad];B[ce];W[bb]))))
+(;B[ge]C[csh: If Black saves this stone...];W[ec];B[fb];W[eb]
+C[csh: The other stones are trapped at the edge of the board.]
+)
+(;B[ec]C[csh: If Black saves this stone...]
+(;W[ge]LB[ed:A]TR[ec][fc]C[csh: ...the other stone is caught in a ladder. Note that White probably will play at A instead, since the marked stones are still in trouble.]
+)
+(;W[ed];B[dc];W[cc];B[cb];W[bb]C[csh: The double-hane is trouble.]
+;B[cd];W[bc]
+(;B[de];W[ge];B[db];W[bd];B[ce];W[fb])
+(;B[ge];W[ce]))))
+(;B[cc]LB[cd:A]C[csh: White won't play 'A' because there isn't any support for his wall down the lefthand side of the board.]
+;W[dc];B[cd];W[de]LB[ce:A]C[csh: It's important that White does not hane at 'A'.]
+;B[db];W[eb];B[cb];W[ec];B[cf]C[csh: Basically, the end result is that Black gives up on the marked black stone, but gets a stable position in the upper left. White's wall isn't ideal, because the marked white stone is too close. This should be an equal result.]
+)
+(;B[fe]C[csh: This is the other variation, where you jump to the center. Sometimes, this is better than diving into the corner.]
+;W[df]C[csh: For example, here is one joseki.];B[id];W[ec];B[fb]
+;W[ic];B[jd];W[hd];B[he];W[jc];B[kd];W[lc];B[gd]C[csh: In this variation, the black group is not making territory, but it generating influence to the center. Note that there is only one group that Black needs to worry about.]
+))

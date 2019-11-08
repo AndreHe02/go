@@ -1,0 +1,40 @@
+(;FF[4]GM[1]SZ[19]AP[SGFC:1.15]
+
+EV[Oro2000 Promotional Match]
+PB[doli]
+BR[24k]
+PW[turtlewalk]
+WR[24k]
+DT[2008-08-10]
+RE[B+R]
+
+C[I'm not sure if you are playing as black or white.
+I suggest looking at final board position.
+White has several groups of clumped stones, which is inefficient.  If you're white, think about how that happened and how to avoid it; if you're black, good job creating that situation.]
+;B[pd];W[dd];B[pq];W[dq];B[cf];W[gd];B[cc];W[dc];B[cd];W[nc]
+;B[pf];W[kc];B[qj];W[pc];B[qc];W[pb];B[qd];W[qo];B[po];W[qp]
+;B[qq];W[qm];B[pn];W[qn];B[pm];W[qk];B[pj];W[iq];B[kp];W[kq]
+;B[lq];W[io];B[jp];W[ip];B[jq];W[ck];B[cn];W[cp];B[en];W[fp]
+;B[ci];W[dm];B[dn];W[em];B[fn];W[fm];B[hn];W[ej];B[gm];W[gl]
+;B[hl];W[gk];B[hk];W[ch]C[I'm not sure what white is thinking here.  The black stones at c14 and c11 cant be cut without help.  The group of white stones near g9 is still weak  Does the outcome of this attack hurt or help that group?]
+;B[bh];W[cg];B[bg];W[df];B[dh];W[dg];B[di]C[So far white' attack has only led to a threat of the g9 group being cut off on 3 sides.]
+;W[ce]C[white tries to cut again, but think first about whether black is connected.]
+;B[be];W[bf];B[af];W[cf];B[bc]C[black is safe, and white is left with an inefficient lump of 7 stones at c14, with a shortage of liberties.]
+;W[gg];B[gj];W[bj]C[this forcing move by white makes sense .  .]
+;B[bi];W[bm]C[...but this is just inviting black c7 and loss of sente.]
+;B[cm];W[dl];B[bn];W[bo];B[co];W[bp];B[bl];W[fi]C[white's chance of getting an eye on the side is gone, so he tries to run; this makes sense.]
+;B[gi];W[fj]C[but this move does not make sense.  f11 was trying to connect to the outside; why not go ahead and finish the connection by playing f12?
+
+As it is, this is an empty triangle, without any justification.  e10 and f11 were already connected; they dont need another stone unless and until black plays e11 or f10.]
+;B[fh];W[ek]C[Now white is cut off on all sides - before playing more stones inside, think about whether its possible to live without extra moves.
+
+here, it doesnt really look like it (e9 and d10 are both critical points, and white cant take both of them at once), so its better to find somewhere else to play if possible.]
+;B[fl];W[fk]C[this is just throwing good stones after bad - if that group is going to live, it's because it gets connected to the outside, not because it makes 2 eyes.  Losing the stones at g9 and 8 is the least of white's worries.]
+;B[dj];W[gh];B[eh];W[hj]C[this cut is white's last chance, so doint play it unless it can work.  Otherwise save it as a threat.]
+;B[hi];W[ij];B[ii];W[jj];B[ji];W[lj];B[kj];W[kk];B[ki];W[jl]
+;B[in];W[pk];B[ok];W[mi];B[lk];W[ll];B[mk];W[ml];B[nk];W[mg]
+;B[li];W[mj];B[mh];W[nh];B[lh];W[oi];B[oj]C[This ended up working out well enough for black anyway, but did you consider threatening the snapback at o11 sooner instead?]
+;W[ni];B[ng];W[og];B[nf];W[qh];B[pg];W[ol];B[nl];W[nm];B[om]
+;W[pl];B[mm];W[nn];B[lm];W[kl];B[ik];W[rj];B[rk];W[ql];B[ri]
+;W[qi];B[rh];W[qg];B[rg];W[qf];B[rf];W[qe];B[pe];W[re];B[rd]
+;W[se];B[sj])

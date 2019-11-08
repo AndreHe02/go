@@ -1,0 +1,182 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.17]
+
+PB[a3lh]
+BR[3k]
+PW[nakacchi]
+WR[2k]
+KM[0.5]
+DT[2010-10-24]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[W+13.5]
+TM[1800]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+C[Hi, I'm your reviewer.  There weren't any specific questions so I picked out some moves that I think could have been made better, and added a lot of variations.  I reviewed for the black side, but picked out some things that W could have done also.
+
+I think the most interesting part of this game was the yose.  There were some missed opportunities in the early part of the game, but the game stayed very close as far as I can tell.  During the yose, W built up a small but convincing lead through passive plays made by B.  I think the biggest change that could be made to win games like this would be to start counting frequently during the yose.
+
+When counting, there will be parts of the board that are easy to count.  These are not interesting areas.  There will be other places that are hard to count, either because it is hard to read what will happen or because the territorial situation is largely undecided in these areas.  The places where it is hardest to count are the places where most of the interesting moves are usually found.  So in addition to knowing who is leading, counting is also a good tool to focus attention on the places where large moves are still to be found, and to read out the results of plays by each player in these areas and calculate the differences in points of various outcomes.
+
+In the comments and variations I pointed out that B sees to play passively in the yose, but the deeper principle is that you just have to count and calculate, principles like "don't be passive" can help you see possibilities, but only counting and reading can tell you which moves are correct.]
+;B[pc];W[dp];B[cd]C[nakacchi [2k\]: よろしく];W[qp];B[oq]
+;W[lp];B[pn]C[This can be cut easily, so it seems to be suboptimal with M4 present.  Q5 or P6 are common moves which seem to be playable here.]
+;W[op];B[np];W[oo];B[qq];W[no];B[nq];W[rq];B[qr];W[qo]C[W should play S2 here instead to keep the pressure on.]
+;B[rr];W[mp];B[qj]C[Here we can see that Q6 is poorly placed and did not give a good result.]
+;W[pl];B[ql];W[qm]
+(;B[pk]C[What happens if B cuts instead?  It seems interesting, but this is probably a better move.]
+;W[rl]
+(;B[ol]C[Why not connect?]
+(;W[pm]C[To capture here would seem much more natural.]
+(;B[ok]C[Is this bigger than K16?  Hard to say.]
+(;W[om]C[This is very small!];B[jc]C[Good.];W[qe];B[pg]C[I would prefer R13 here, so that the B group has a solid base and W cannot play under at S13, which is important for the eyespace of both groups.]
+;W[oe];B[nd];W[rg]
+(;B[mf]C[Possibly attacking from the wrong side here.  B must be aware of the weakness of the Q13-Q9 stones, and should try to strengthen them with a move around O13 or O14.  Of course, this move can be OK too if B connects.]
+;W[og];B[pf];W[od];B[oc];W[ne];B[me];W[qd]C[Why not cut?  The cut seems OK for B, see variations.  O13 also possible with similar result.  The important thing is not to let the W group break out.]
+(;B[oh];W[ng];B[nh];W[mg]C[Now W pushed through what could have been a solid B wall so 43 at P12 seems to have been a mistake.  The side B group is not as strong as it looks and can be expected to require some extra moves later on.]
+(;B[kf]C[R17 is bigger.  R17 is sente for W because of O17 so it is important.  Also without it the W stones do not have much eye space on the side and might have to make life or run out later, so R17 for the corner is very big.]
+;W[qc]C[This is sente, O17 takes the entire corner.];B[cn]C[O17 must be defended.]
+(;W[mr];B[rp];W[ro];B[sq];W[ec]C[This seems strange.  O17 is urgent, otherwise answering C6 would be more natural...  I would try to play simply here, starting with D17 and try to force the W stones to make life, then play F3.]
+;B[gc];W[cc]
+(;B[bc]TR[cn]C[Because of the marked stone, this seems to be an incorrect direction.  Making a wall pointing towards C6 is important, but allowing W D16 here makes that impossible.  See var.]
+;W[dd];B[ce];W[de];B[cf];W[df];B[ch];W[dg]
+(;B[cj]TR[bc][cd][ce][cf]C[With the marked stones, the extra jump here is too thin, C11 or even C13 is safer.  B could also try C18 atari first here, see var.]
+;W[cg];B[bg]
+(;W[bd]C[B12 might be a better idea for W, see variation.];B[be]
+;W[bb];B[ad];W[db]
+(;B[hq]C[F3 puts more pressure on the corner.];W[fq];B[kr]C[H5 here may work better with the other B stones facing the center.  To shut in the small W corner would be good, so it seems better to run out than to make a two or three point group on the bottom side.]
+;W[lr]
+(;B[kq]C[As before, H5 seems better, see variation.];W[go]C[This is a good move that shows that L3 was a mistake.  The effect of this move on both the H3 group and the weakness at C8 makes this an important point for W.]
+;B[jo];W[kn]C[Here W wants to protect against a cut at N5.]
+(;B[io]C[Why not K6?  This seems a bit passive.  Again, thinking about getting out and pushing the boundaries between territories, rather than playing locally to enclose a small territory, might be better strategy.]
+;W[bp];B[dl];W[nc];B[md];W[nb]
+(;B[ob]C[N17 directly is a little better, see var.  Though W did not play it, this also allows M18, see variation on next move.]
+(;W[pd];B[mb];W[oa];B[mc];W[pb]C[Here the game seems fairly close, with about 40-50 solid points for each player and about equal chances in the undecided areas.  G15 would be a natural big move here to start the yose.]
+;B[ge]C[And there it is.];W[rj]
+(;B[rk]C[It seems overly aggressive to start a ko here.  R9 might be better, since it threatens S9 and a cut on either side, so W will probably answer at S9, then B can take the next biggest move elsewhere.  See variation for some ideas.]
+;W[qk];B[fh];W[fg];B[gg];W[ff];B[gf];W[sk]
+(;B[qi]C[This is now very small, L12 seems better, see variation.]
+;W[mh]C[With this move, the chances for B in the center are greatly diminished.
+
+W has about 32 on the right side, about 9 in the top left, about 17 in the bottom left corner, and 3 more captures.
+
+B has about 27 in the top side, 5 around Q11, 7 at the bottom right, 8 on the bottom side, 20 on the left side.
+
+Total solid points for W about 61, and 62 for B.  So the game is close.
+
+However, lookingat the ending position, W actually has 35 on the right side, 9 at top left, 19 at the bottom left, and managed to find 5 extra points in the center, with 4 more captures than B for a total of 72.5
+B ended up with only 21 points in the top side, 5 around Q11, only 5 at bottom right, 6 on the bottom side, and 22 on the left, for a total of 59.
+
+So from this close position, W had a much better yose and came out ahead.  R11 seems to be close to the turning point of the game.]
+;B[nj];W[fb]C[This is big, but is it really sente?  Perhaps B still has a chance to play a bigger move in the center such as L11.]
+;B[gb];W[ma]C[See comment on previous move.  If you answer every move in the yose, then your opponent can get all the big points, which is what happened here.  It would be better here especially to ignore this and play some of the remaining big moves in the center.]
+;B[lb];W[ga];B[ha];W[fa];B[ib];W[jh];B[kh];W[ki];B[jg];W[lh]
+;B[kg];W[ji];B[lj];W[kk];B[ml];W[hh];B[ei]C[This seems to be a strange move, it does not make any points.  Maybe something around K7 would be better, which at least prevents W from making many points in the center, and might make the cut M11 interesting.]
+;W[dh];B[di];W[so];B[sp];W[gr]
+(;B[hr]C[Again, you can't answer every move like this in yose, you have to calculate and leave some things open.  K7 here might be a more interesting way to play, see the variation for what happens if W plays H2 immediately.
+
+In the yose, sente is a relative thing.  A situation, considered purely locally, may require a response, but perhaps you can still play a move elsewhere that has an even bigger followup.  After you start a fight somewhere else (maybe you can get some advantage by taking the initiative) then you can come back to the move like H2 if it is still the biggest thing on the board.
+
+The general principle is to always count, and if straightforward play will lead to a loss, then try to do something less straightforward instead.]
+;W[bn];B[bm];W[bo]
+(;B[cm]C[Is this really necessary?  Again, count and consider starting a fight with M11 or something similar.  To play a move such as C7 feels slightly slow here.]
+;W[ig];B[if];W[im]C[With this move, W makes points, protects all cutting points nearby, and seems to be leading.
+
+At move 104 we calculated the game was approximately even.  So what happened between 104 and 138?  In 34 moves, B played passively, and meekly responded to every move that W made around the board, until finally all the big points were taken and there is now little chance of an upset.
+
+Counting quickly again here, we have for W: about 9 at top left, about 34 on the left side and corner down to around N6, and maybe some points in the center around J9, and about 17 solid points in the bottom left.  Total solid points about 60 plus probably at least 6 in the center.  This area is still very hard to count, because the difference between a W stone near G10 and a B stone near H9 as the next move here is a big difference.
+
+For B, 22 on the top, about 6 on the right side group, 4 to 8 on the bottom right, 7 on the bottom, about 20 on the left, a total of 59-63 solid points.  So the game is still close but W is leading.  I would try something aggressive in the center here.  Something simple like H9 might even be enough.]
+(;B[gq];W[fr];B[gp];W[fp];B[ho];W[gn];B[gk];W[hj];B[hk];W[ik]
+;B[gj];W[hi];B[kj];W[jj];B[lk];W[kl]
+(;B[fm]C[This is a little big, but gote for both.  B18 might be better here.  This affects some cuts, but they are not really interesting since W is strong in the center now.  In points, I think B18 is bigger.]
+;W[am];B[al];W[an];B[bk];W[ab];B[nr]C[O2 and A17 both seem to be around 4-5 points.  However, W A17 is about 4 points in sente, and there is no similar move in the bottom right, so actually I think A17 should be played here.]
+;W[ac];B[bh];W[bd];B[co]C[I don't think this is a sufficient ko threat, see variation if W ignores.]
+(;W[cp];B[bc];W[qh];B[ph];W[ri];B[qg];W[rh];B[qf];W[rf];B[bd]
+C[This is only worth one or two points gote.  Better elsewhere first like N6, N11, or H13.]
+;W[mi];B[mj];W[nm];B[nl];W[ni];B[oi];W[ip];B[iq];W[kp];B[jp]
+;W[ks];B[js];W[ls];B[ir];W[ns];B[os];W[hg];B[gm];W[hf];B[he]
+;W[lg];B[lf];W[en];B[fn];W[fo];B[em];W[dn];B[mm];W[mn];B[ko]
+;W[lo];B[jn];W[jm];B[lm];W[ln];B[km];W[hl];B[gl];W[eh];B[gi]
+;W[gh];B[fi];W[fe];B[fd];W[ed];B[fc];W[do];B[hm];W[il];B[gs]
+;W[fs];B[hs];W[pq];B[pr];W[pp];B[ms];W[sr];B[ss];W[ns];B[la]
+;W[ms];B[na];W[mq];B[or];W[ma];B[eb];W[ea];B[na];W[ie];B[jf]
+;W[ma];B[da];W[ca];B[na];W[hd];B[gd];W[ma];B[dm];W[na];B[tt]
+;W[tt]TW[aa][ba][da][pa][qa][ra][sa][cb][eb][ob][qb][rb][sb]
+[dc][oc][pc][rc][sc][rd][sd][ee][re][se][ef][sf][eg][sg][ih]
+[sh][ii][si][ij][sj][jk][rk][jl][ql][sl][rm][sm][nn][on][pn]
+[qn][rn][sn][ao][eo][mo][po][ap][ep][aq][bq][cq][dq][eq][ar]
+[br][cr][dr][er][as][bs][cs][ds][es]TB[ia][ja][ka][hb][jb][kb]
+[hc][ic][kc][lc][hd][id][jd][kd][ld][ae][ie][je][ke][le][af]
+[bf][ag][ah][ai][bi][ci][pi][aj][bj][dj][ej][fj][oj][pj][ak]
+[ck][dk][ek][fk][mk][nk][bl][cl][el][fl][hp][ip][jq][rq][jr]
+[sr][is][ps][qs][rs]C[So, there may have been some missed opportunities earlier, but I think B lost this game during the yose.  The main issue I see is playing too passively, which allowed W to get too many of the big points.  The only way to get better at yose is to think more about each move, to count more frequently, and to consider all the alternatives and not be too complacent in playing simple, obvious moves.  If you don't surprise your opponent sometimes then you are making things too easy.]
+)
+(;W[ae];B[cp];W[cq];B[dq];W[cr];B[ep];W[dr];B[do];W[bf]))
+(;B[ab]))
+(;B[kj];W[jj];B[mn];W[mo];B[kl];W[jk];B[hk];W[lk];B[mk];W[ll]
+;B[lm];W[km])
+(;B[ik];W[gj];B[kl])
+(;B[hk]))
+(;B[li];W[ik]))
+(;B[jm];W[ir];B[li]C[Here an interesting fight can begin.  B needs something like this to stay in the game.]
+))
+(;B[lh];W[mh];B[mi];W[lg];B[kg];W[ph];B[oi];W[pi];B[pj];W[ri]
+;B[mm]C[In this position the center will have no points for W and many more points for B than in the game line.]
+))
+(;B[qk];W[rk]
+(;B[mn];W[mm]
+(;B[ln];W[lm];B[ko];W[lo];B[km];W[nn];B[jn])
+(;B[lm];W[ln]
+(;B[nm];W[ml];B[nn];W[nl])
+(;B[ml];W[nm])))
+(;B[mm]
+(;W[sa]C[If w tenuki...]
+(;B[mo];W[mn];B[lo];W[ko];B[nn];W[nm])
+(;B[nn];W[mn];B[nm];W[on];B[ln];W[mo];B[ko])
+(;B[mn];W[mo];B[ko])
+(;B[ko];W[mn];B[ln];W[nm];B[lo];W[mo];B[ml]))
+(;W[mn];B[lm];W[ln];B[lh];W[mh];B[mi];W[lg]
+(;B[kg];W[ph])
+(;B[kh];W[kg])))))
+(;W[lb]
+(;B[lc];W[mb])
+(;B[qb];W[rb]
+(;B[mb];W[mc];B[lc];W[ma]
+(;B[kb];W[oa];B[pa];W[na])
+(;B[oa];W[kc];B[ld]))
+(;B[lc];W[mb];B[kb]))))
+(;B[mc];W[pb];B[mb];W[ob]))
+(;B[jn]))
+(;B[ho]C[If H5, W will not waste time with attacking L2, because B E6 would be too big.  So a move like H5 has more strategic value than a purely local move like L3 in the game line.]
+(;W[jq];B[en];W[bp];B[eh])
+(;W[fo];B[hm];W[fm])
+(;W[ip];B[hp];W[jr];B[en])))
+(;B[fq];W[eo];B[iq]))
+(;W[bh];B[bf];W[ci];B[bi];W[dh];B[ah]))
+(;B[cb];W[dc];B[bb];W[dh];B[ci]C[Now W got a nice wall, but what use is it in this position?]
+))
+(;B[dd]TR[cn];W[dc];B[fe]TR[cn]))
+(;W[nc];B[md];W[nb]))
+(;B[qc]))
+(;B[of];W[nf];B[ng]
+(;W[nc];B[md];W[nb];B[mc];W[ob];B[pb];W[qc];B[qb];W[rb];B[mb]
+)
+(;W[md];B[nc];W[oh];B[nh];W[oi];B[ni]))
+(;B[ng];W[of];B[oh];W[qh];B[ph];W[qi];B[pi];W[qc];B[qb];W[rb]
+;B[ob]))
+(;B[ng];W[ne];B[md];W[me];B[ld])
+(;B[qd]))
+(;W[jd]))
+(;B[jc];W[ok];B[oj];W[nk]))
+(;W[qk];B[pm];W[ql]))
+(;B[qk];W[ol];B[pe]))
+(;B[pm]
+(;W[qk];B[rl];W[pk];B[rk]
+(;W[nl])
+(;W[qn];B[nm];W[nl]
+(;B[mn])
+(;B[ml];W[pj]
+(;B[qi])
+(;B[pi]))))
+(;W[ol])))

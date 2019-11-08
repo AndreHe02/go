@@ -1,0 +1,122 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+GN[oozora-gustavo(B) IGS]
+EV[Internet Go Server game: oozora vs gustavo]
+PB[gustavo]
+BR[17k]
+PW[oozora]
+WR[6d]
+KM[-5.5]
+DT[2009-02-16]
+PC[IGS:  igs.joyjoy.net 6969]
+RE[W+32.50]
+TM[60]
+RU[Japanese]
+US[Brought to you by IGS PANDANET]
+
+C[[SC\] Hi! Sorry for the late review, it's been a busy two weeks for me.
+
+Anyway, not such a bad game, the loss mostly came down to overplays and a mistake near the end.  I've tried to avoid any long variations, rather focus on the underlying principles of the situation.  If you have any questions or queries about this game (or another), please feel free to email me an sgf. My email is below, hope you find the review useful :)
+
+duder@hotmail.co.uk];B[qd];W[dp];B[dc];W[pp];B[de];W[pc]
+(;B[kc]LB[mc:A][qc:B]TR[qd]C[[SC\] - The pincer's not a bad idea, though I think a tighter one at A would be better, to prevent white from extending along the top.  However, I think B is the best move here (see variation)]
+;W[qc];B[pd];W[od]
+(;B[rc]LB[oe:A]C[[SC\] The forcing move at A should be played first]
+;W[rb];B[rd];W[oe]TR[rc][pd][qd][rd]C[[SC\] Now blacks stones have become a liability.]
+;B[nc];W[oc];B[qg];W[mc]
+(;B[md]LB[nb:A][nd:B]C[[SC\] Not too bad a move, but not a great one either.  Playing at A is the best option here, as black has the option of connecting along the top or running out into the centre.  Playing B on the other hand doesn't acheive much.  See variations for more info]
+;W[nd];B[ld];W[ic];B[ie]TR[kc][ld][md]C[[SC\] The right move.  G17 would be a fatal error as white would play J15 himself and cut off the stones on the right.]
+;W[fc];B[fd]LB[eb:C][jb:B][hd:A]C[[SC\] There is a go proverb "Do not attach against a weak stone" and likewise for a defending player, "When weak, attach."  The reason being that it allows white to make good shape.  A better idea would be to peep at one of the marked points (A or B would be preferable as the stones on the left are already strong) and force white into a small area as possible - even if black doesn't]
+;W[gd];B[fe];W[ec]C[[SC\] Remember the proverb? :)];B[ge];W[hd]
+;B[id]LB[db:A]TR[kc][ld][md]C[[SC\] Good move, in the right direction.  Dropping down to A would allow white to cut off the marked stones]
+;W[db];B[cc];W[cb];B[jc];W[ib];B[gb]C[[SC\] White has lots of space to make eyes, waste of time going for the kill.]
+;W[gc];B[he];W[fb];B[cn]LB[dm:B][dn:A]TR[de][fe][ge][he][ie]
+C[[SC\] At this point in the game, black needs to use the thickness he has generated at the top from attacking white.  Therefore a high approach at A or B in the hope of building a moyo would be better.  Having said that, black gets a good result from this.]
+;W[cl];B[cj];W[ch];B[ej];W[bj];B[bk];W[ck];B[bi];W[dj];B[ci]
+;W[di];B[dh]C[[SC\] Good initiative with the cut, black has the advantage with his thickness above.  So far all the right moves in this fight.]
+;W[bh];B[aj];W[dg];B[eh];W[ek];B[ei];W[dk];B[bl];W[cf];B[bg]
+;W[bf];B[ce];W[ah];B[ai];W[be];B[bd];W[ag];B[ae];W[ef];B[df]
+;W[eg];B[gh];W[gg];B[hg];W[fh];B[fi];W[fg];B[gi];W[hf];B[ig]
+C[[SC\] Nice :)];W[bb];B[bc];W[ac];B[ad];W[ab];B[fn]LB[en:A]
+TR[di][dj][ck][dk][ek][cl]C[[SC\] Too ambitious.  It is tempting to go straight for the kill (with regard to the marked stones), but it can often leave you thin and vulnerable to attack.  Much better to chase with A and build some influence.  Later black can look to attack the corner]
+;W[dn];B[co];W[cm];B[bm];W[do];B[cp]TR[fn]C[[SC\] The stone is now stranded, a wasted move.]
+;W[cq];B[qn];W[bp];B[bo];W[ao];B[bn];W[bq];B[nf]LB[pj:C][pk:D]
+[jp:A][nq:B]TR[qn]C[[SC\] There are much bigger moves on the board.  For starters, with the marked stone in place, the bottom is open to attack with moves such as A and B.  Another approach would be to take territory on the right with C or D whilst strengthening the marked stone, although this may be a little on the passive side.
+
+Its tempting to try and shut white out, but it is too early when there are the bottom and right sides to contest.]
+;W[of];B[ng];W[og]LB[pi:A]C[[SC\] Black needs to attend to his stones on the upper right]
+;B[nh];W[oh];B[pj]LB[pi:A][qj:B]C[[SC\] Too high, too far.  A or B.]
+;W[qf];B[rf];W[qe]LB[rh:A]C[[SC\] A is the only move that can save the right side from ruin.]
+
+(;B[re];W[qh];B[rh];W[qi];B[qj];W[ri];B[sb];W[qb];B[sh];W[rg]
+;B[sg];W[sc];B[rj];W[si];B[sj];W[oi];B[oj];W[ni];B[np];W[nq]
+;B[qq];W[pq];B[qp];W[op];B[mq];W[no];B[mp];W[nr];B[iq];W[kq]
+LB[lr:A]TR[no][op][pp][nq][pq][nr]C[[SC\] The marked stones are in great danger - the last thing black wants is for them to connect to an ally.  Therefore A is probably the best move in this situation.  See variation.]
+
+(;B[kp];W[jq];B[jp];W[mr];B[lq];W[lr];B[ir];W[mo];B[lp];W[kr]
+;B[on];W[oo];B[fq]LB[hp:B][ip:A]C[[SC\] Black needs to sort out the aji at A.  Playing B makes nice shape.]
+;W[hp];B[ip];W[eq];B[ho];W[fp];B[gp];W[gq];B[hq];W[fr];B[fo]
+;W[kg];B[ki];W[ji];B[ii];W[jh];B[lh];W[ij];B[hj];W[kj];B[jk]
+;W[jj];B[lj];W[ik];B[nj];W[ih];B[hh];W[jg];B[kk];W[hk];B[gk]
+;W[gl];B[fk];W[hi];B[if];W[fl];B[hl];W[il];B[hm];W[im];B[km]
+;W[hn];B[gm];W[gn];B[fm];W[in];B[el]LB[go:A]C[[SC\] Last comment - as I'm sure you know now, should have been A.  Mistakes are easily made in this game unfortunately!
+
+If you have any questions about the endgame (or anything else for that matter) me email is duder@hotmail.co.uk]
+;W[go];B[hp];W[kn];B[jn];W[ln];B[jm];W[jo];B[mn];W[mm];B[nn]
+;W[lo];B[lm];W[io];B[kf];W[lg];B[lf];W[ko];B[ml];W[dm];B[mb]
+;W[nb];B[lb];W[qr];B[rr];W[pr];B[rs];W[pn];B[pm];W[po];B[qo]
+;W[mi];B[li];W[mh];B[mj];W[mf];B[me];W[ne];B[jf];W[eo];B[ii]
+;W[jb];B[kb];W[hi];B[pi];W[ph];B[ii];W[om];B[nm];W[hi];B[mg]
+;W[mf];B[ii];W[jl];B[kl];W[hi];B[lc];W[nc];B[ii];W[ed];B[ee]
+;W[hi];B[dd];W[gj];B[fj];W[hj];B[em];W[an];B[am];W[ap];B[qs]
+;W[ps];B[ja];W[ia];B[ka];W[ma];B[la];W[na];B[tt];W[tt];B[tt]
+C[ oozora 6d : oozora dead @ G18
+ oozora 6d : oozora dead @ S16
+ oozora 6d : oozora dead @ T18
+ oozora 6d : oozora dead @ R13
+ oozora 6d : oozora dead @ S12
+ gustavo 17k?: gustavo dead @ P7
+ oozora 6d : oozora dead @ J4
+ oozora 6d : oozora dead @ B15
+ oozora 6d : oozora dead @ A13
+ gustavo 17k?: gustavo dead @ F13
+ oozora 6d : oozora dead @ H14
+ oozora done];TW[aa][ba][ca][da][ea][fa][ga][ha][oa][pa][qa]
+[ra][sa][eb][gb][hb][ob][pb][sb][hc][rc][pd][qd][rd][sd][pe]
+[re][se][nf][pf][rf][sf][mg][ng][pg][qg][rg][sg][nh][rh][sh]
+[ii][ho][ep][gp][hp][ip][jp][kp][lp][mp][np][aq][dq][fq][hq]
+[iq][lq][mq][oq][ar][br][cr][dr][er][gr][hr][ir][jr][or][as]
+[bs][cs][ds][es][fs][gs][hs][is][js][ks][ls][ms][ns][os]TB[cd]
+[jd][kd][be][je][ke][le][af][bf][cf][ef][ff][gf][hf][ag][cg]
+[dg][eg][fg][gg][ah][bh][ch][fh][bj][ak][lk][mk][nk][ok][pk]
+[qk][rk][sk][al][fl][gl][ll][nl][ol][pl][ql][rl][sl][mm][om]
+[qm][rm][sm][rn][sn][ro][so][rp][sp][rq][sq][sr][ss])
+(;B[lr]LB[on:A]C[[SC\] If white has any sense, he will notice that his stones are in danger, abandon the attack on the lower side and make shape with A.......]
+;W[kr]C[[SC\] ......but supposing he goes on the offensive and stops black connecting?]
+;B[lo]LB[on:A][jp:B]TR[no][op][pp][kq][nq][pq][kr][nr]C[[SC\] Black leads out and white is split into two weak groups.  If white plays A, black will play B and that will be that, so lets consider B.]
+;W[jp];B[hp]LB[jn:A]TR[fn]C[[SC\] Notice that this helps link the stone with its marked ally whilst putting pressure on the white stones - a cap at A would mark the end for the white stones.]
+;W[jn];B[lm]TR[no][op][pp][nq][pq][nr]SQ[jn][jp][kq][kr]C[[SC\] The triangle stones are caught in blacks territory - saving them will prove very difficult (see variation for more info on this), so it is likely white will attack the lower left and help out his square stones.]
+
+(;W[gr]LB[hn:A]C[[SC\] Its a pretty nasty move, theres no real way to stop the connect and bring the black stones to safety.  Best to jump out with A and connect with allied stones above]
+)
+(;W[nm];B[mn];W[on];B[po];W[oo];B[mk];W[qr];B[rr];W[pr];B[mr]
+;W[os];B[qs]C[[SC\] Aint going to be easy for white])))
+(;B[rh];W[qi];B[rj]C[[SC\] Black is safe. I've included a few lines of play if you need convincing]
+;W[ri];B[si];W[qj];B[qk];W[rk];B[sj];W[sk];B[sh]
+(;W[ql];B[pk];W[pm];B[qm]TR[pl][rl])
+(;W[pk];B[ql]
+(;W[oj];B[pi])
+(;W[pi];B[oj]))))
+(;B[nb]
+(;W[mb]C[[SC\] White can try to stop black from connecting, but he can easily escape, splitting white into two weak groups]
+;B[nd]LB[me:A]C[[SC\] White is too weak to play the net at A]
+;W[md];B[ne]C[[SC\] All black has to do is run out into the centre and white is split in half]
+)
+(;W[nd]C[[SC\] White's better response];B[mb];W[lc];B[lb]))
+(;B[nd];W[nb];B[md];W[ld];B[mb];W[me];B[lc];W[ne];B[mc]CR[mb]
+[kc][lc][nc][md][nd]C[[SC\] Clumped stones that serve little purpose like the marked ones are said to be heavy - try and avoid making these 'dumpling' shapes.]
+))
+(;B[oe];W[nd];B[rc]))
+(;B[qc]C[[SC\] I think the following is the most natural variation]
+;W[pd];B[pe];W[oe];B[pf]LB[jc:A]C[[SC\] Black has defended his corner more or less and white must now help his very weak stones.  Black can later harass him with moves such as A (depending on how white plays of course), taking a position along the top in the process]
+))

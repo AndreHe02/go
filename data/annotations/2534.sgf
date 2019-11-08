@@ -1,0 +1,210 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.13b]
+
+GN[GTL]
+PB[garlix]
+BR[23k]
+PW[Weiss]
+WR[21k]
+KM[0.5]
+DT[2003-04-24]
+PC[The Kiseido Go Server (KGS) at http://kgs.kiseido.com/]
+TM[1500]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+C[Hello, I played W here.
+I think I didn't play too bad in this game, but B won with a small margin in the end.
+I
+just want to know, where in the end game that I can turn the table and
+win the game instead? Or do I have to do it during mid-game?
+
+KKMD: Both, sir ! :-)
+
+
+Also, I would appreciate if you point out my weaknesses. Thank you beforehand.
+
+
+KKMD:
+First, I must admit it is my first review (for the GTL or whatever
+else), and I enjoyed it very much, though it took much more of my time
+than I thought. Of course, at many places I couldn't make up my mind
+about the value of some continuations, and when I did, I probably
+misread or misevaluated. What I say should be taken for what it is :
+speculations of a 2-digits kyu. Speficically, I think it should be
+interesting to verify all tactic lines I gave. At last, I apologize for
+the certainly numerous mistakes I did in trying to write in english.]
+;B[od];W[dp];B[po];W[dd];B[dj];W[cm]LB[cn:A][qd:b][pi:c]C[Should I play at A instead?
+
+KKMD:
+I think these moves are rather equivalent here. But maybe this is not
+such a good idea to play here, since you will have hard time if you
+want to attack the D10 stone, which is on the 4th line. So a move
+around C7 seems less urgent to be than a move around, say, b or c,
+because of the variation.]
+(;B[dn]
+(;W[co]LB[cn:A]C[Again, is A better?
+
+KKMD: Yes, A is the natural move here, it simply preserves connection between your stones.]
+;B[cn];W[bn];B[dm];W[do]MA[co][do][dp]LB[bm:a]C[KKMD:
+This move is awful ! The marked stones form  the well-known empty
+triangle, which is an ugly form you should try to avoid. Here, as
+often, playing it is completely useless, it is better to connect at a,
+for instance.];B[bm];W[bo];B[cl]C[KKMD: Now compare the position
+with the one you would have gotten if you had played A at move 9. Now
+your corner is smaller and, more important, the black group becomes
+strong.];W[jp]LB[qd:a][pi:b]MA[od][po]C[KKMD: Good point (although
+I feel I would have played around A) . Now I think you can aim at B to
+separate the marked stones.];B[gp];W[mp];B[kp]
+(;W[oq]MA[kp]C[KKMD: Now that's an interesting move. I would have been mesmerized by the fear of being cut by the L4 stone.]
+;B[np];W[nq];B[op];W[qq];B[pq];W[pr];B[qp];W[pp];B[rq];W[pq]
+;B[ro]
+(;W[mq]LB[mo:a]C[KKMD:
+Locally not the best move, a cut here is not to fear (see variation).
+A, for instance, would have been better.];B[mo];W[kq];B[lp]
+;W[lq];B[jq];W[iq];B[jr];W[ir];B[ip];W[jo];B[ko];W[kr]LB[kn:a]
+[io:b][ho:c]MA[jo][jp]C[KKMD:
+Unnecessary again, you're wasting a move. It is better to add liberties
+to the marked stones, by playing a and b. Then you can pursue with c,
+go toward the center, or tenuki.];B[jn];W[no]C[I don't think this is a very good move. In fact, I think this was bad.
+
+KKMD: I do not fully agree, let's see why...];B[oo]C[KKMD: Black cannot allow white to play here before him.]
+;W[io];B[hp];W[nn];B[mn]C[KKMD: A blunder...];W[in]C[KKMD: ...you first don't see.]
+;B[jm];W[kn]C[KKMD:
+Good.];B[nm];W[on]C[KKMD: Where are you going ? Did you forget about
+ladders ? Here you accomplish nothing more than getting black stronger.]
+;B[pn];W[om];B[ol];W[lo];B[ln];W[km];B[kl];W[lm];B[mm];W[ll]
+;B[kk];W[ph]MA[om][on][nn][no]C[KKMD:
+Correct, you need to invade. Still it would have been easier, hadn't
+you pushed the marked group.];B[mk];W[qk];B[ql];W[qe];B[qd]
+;W[pe];B[pd];W[pk];B[pl];W[go];B[eo];W[fo];B[ep];W[fp];B[fq]
+
+(;W[hq]MA[hq][iq][ir]LB[eq:a]C[KKMD:
+This is again the archetype of bad shape. A would have been more
+consistent (see variation).];B[gq];W[en]LB[eq:a]MA[co][do][dp]
+[bo][bn]C[KKMD: Overplay, A is safer. Now the marked group is endangered.]
+;B[eq];W[fn];B[hr];W[js];B[hs];W[dq]C[KKMD:
+You're a lucky, lucky bastard. Thank God for black didn't play toward
+the corner first.];B[dr];W[cr];B[ds];W[fs]C[KKMD: Bad. Since black can't be killed, you should save this move for a ko threat.]
+;B[fr];W[cs];B[gs];W[es]C[KKMD:
+Same remark.];B[er];W[is]C[KKMD: The only purpose of this move is to
+induce a ko thread at F1. So this is a *very* bad move ; you could
+almost as well pass.];B[oh];W[pg];B[og];W[of];B[nf];W[oi];B[oe]
+;W[pf];B[ni];W[oj];B[ok];W[ho]C[KKMD: Completely useless, black could not cut.]
+;B[nj]
+(;W[pj]LB[fc:A][cf:B][qi:a]C[This is not necessary, is it?
+I think, either A or B is better, am I wrong?
+
+KKMD:
+I think this is necessary, to prevent a black move at A (see
+variation). For a reason of shape, and to obey the proverb "the
+ennemy's key point is yours", I would, as white, play at A myself.]
+;B[fc];W[cg]LB[cf:a]C[KKMD:
+A bit loose, considering you're playing toward a black stronghold.
+Following that idea, A is more usual, so probably safer, especially in
+this situation.];B[jd];W[cj];B[ck];W[bj];B[cc];W[cd];B[bd];W[be]
+;B[ad];W[dc];B[cb];W[db];B[ca]C[Can you kill B top-left stones?
+
+KKMD: See variation.]
+(;W[ce]LB[bf:A]C[Maybe
+A better?];B[ae];W[af]LB[ab:a]C[KKMD: It was not too late to play at A.
+Now black can live without condition by playing here himself.]
+;B[bf]C[KKMD: White to play and kill without condition.]
+(;W[bg];B[ag];W[ah];B[af];W[bh]C[KKMD: Useless.];B[da];W[eb]
+;B[ea];W[fb];B[ab];W[bb]C[KKMD: Bad. Again, you can't kill, so you should save those potential ko threats.]
+;B[bc];W[cf];B[fl];W[ik];B[il];W[hk];B[hl];W[gk];B[gl];W[ei]
+;B[fk];W[gj]LB[gi:a]MA[gj][gk][hk][ik]C[KKMD: This is bad shape. A move at A would be better shape.]
+;B[ej];W[fi];B[gb];W[bk];B[bl];W[di];B[ef];W[fa];B[ga];W[fe]
+;B[ff];W[gc];B[hc];W[gd];B[ib];W[hf];B[gg];W[ih];B[hg];W[ig]
+;B[if];W[ge];B[he];W[gf];B[hd];W[ed];B[jf];W[jg]MA[ig][jg][ih]
+LB[kg:a][kh:b]C[KKMD: Our friend "empty triangle" back again... better to jump at A or B.]
+;B[kg];W[ng];B[nh];W[ii]C[KKMD: I can't understand the purpose of this move.]
+;B[mg];W[ki];B[jj];W[ij]C[KKMD: Rather small.];B[jk];W[ji];B[li]
+;W[lk]C[KKMD: Small again, and gote. You're lucky black responded.]
+;B[lj];W[kj];B[jl];W[em];B[el];W[dk]LB[rd:a][re:b][rk:c][rl:d]
+[rr:e]C[Not a very good move, any idea?
+
+KKMD: Indeed not good. No threat, so that's a gote move, worth -1 point. A, B, C, D and E come to mind.]
+;B[kh];W[fj];B[ek];W[rd];B[rc];W[re];B[rk];W[rj];B[sl];W[qi]
+LB[sj:a]C[KKMD: Why not simply A instead ? Though I understand you wouldn't feel safe. Perhaps I missed something here.]
+;B[sj];W[si];B[sk];W[sc];B[sb];W[rb];B[sd];W[qc];B[qb];W[sc]
+;B[pc];W[rc];B[qa];W[ra];B[ob];W[oa]TR[rr]C[Again,
+bad move. I think if I had moved somewhere else, I could've won the
+game, like S2 perhaps?
+
+KKMD: This move is indeed not very good
+because it spoils a virtual ko threat, but that's all. Since it doesn't
+lost point and is sente, that's not *so* bad. You can always play at S2
+later.];B[na];W[pb]C[Duhh!
+
+KKMD: Don't cry :-) same comment as before.];B[pa];W[am]LB[an:a]
+C[KKMD: Simply A is better since black would then have no sente move in the sector. Of course S2 is even better.]
+;B[al];W[an];B[rr];W[qr]LB[qs:a]C[KKMD: A is better.];B[qs]
+;W[ps];B[rs];W[ak];B[sh];W[ri];B[rh];W[ml];B[nl];W[ko];B[qh]
+;W[rg]C[Overplay again.
+
+KKMD: You mean "unnecessary" ? I agree. This a splendid example of -1 gote move.]
+;TW[sa][sb][ec][fc][fd][sd][de][ee][se][df][ef][ff][qf][rf]
+[sf][dg][eg][fg][gg][hg][qg][sg][ch][dh][eh][fh][gh][hh][qh]
+[rh][sh][ai][bi][ci][gi][hi][pi][aj][hj][qj][ao][ap][bp][cp]
+[kp][lp][aq][bq][cq][jq][ar][br][jr][lr][mr][nr][or][as][bs]
+[ks][ls][ms][ns][os]TB[aa][ba][ha][ia][ja][ka][la][ma][oa][bb]
+[hb][jb][kb][lb][mb][nb][pb][ac][ic][jc][kc][lc][mc][nc][oc]
+[id][kd][ld][md][nd][ie][je][ke][le][me][ne][kf][lf][mf][lg]
+[ng][lh][mh][mi][mj][dk][nk][dl][rl][cm][om][pm][qm][rm][sm]
+[nn][on][qn][rn][sn][no][qo][so][rp][sp][sq][gr][sr][es][fs]
+[ss]C[A close game indeed.
+So, I think I wasted two moves during the end game that cost me the game.
+
+(KKMD: True enough, but black did the same.)
+
+
+I would also appreciate if you can comment on my general style of play, what can be improved, etc.
+
+(KKMD:
+I have three things to say. First, take some time, even the slightest,
+before each move you play, to ask yourself what is its purpose. If you
+don't have a answer, then don't play it, cause it probably has none.
+Try to avoid playing useless moves that just seem to say to the
+opponent "ok, I pass, show me more". In this game your moves 103, 115,
+141, 205 and 239 are in this category. Now, I don't want to bring you a
+false joy, but just think that a wasted move in the opening or in the
+middle game is like a handicap stone given to the opponent (well, that
+may be false, but just think about it), and you can see how much you
+could improve :-).  Second, when you have gone through my first point,
+try to get a feeling for shape, in particular forbid yourself to play
+empty triangles, unless there is an excellent reason to do so. Third
+and last, try to keep an eye on large scale. In this game, with his
+first two moves, black showed he 
+was going to build great things
+on the right side. But you did invade there only on move 69, after
+having greatly helped black to build his moyo. Well, as they say,
+always look on the right side of life.)
+
+
+Thank you again for the review.
+
+(KKMD: You're welcome. I'm close to think that I enjoyed reviewing this game pretty more than you playing it.)]
+)
+(;W[ac];B[ag];W[bc];B[af];W[bb]C[KKMD: Black is dead.]))
+(;W[ab];B[bb];W[ae];B[aa];W[ba]C[KKMD: Black gets a ko for life.]
+))
+(;B[pj]C[KKMD: This is not to fear.];W[qj];B[pi];W[qi])
+(;B[qi];W[pj];B[rk]))
+(;W[eq];B[en]
+(;W[ho]C[KKMD: The move you'd want to play, but it doesn't seem to work.]
+;B[dq];W[er];B[dr];W[fr];B[bq]C[KKMD: This smells bad for white.]
+)
+(;W[dq];B[ho];W[fm];B[hn];W[gm];B[hm];W[im];B[hl];W[fk];B[il]
+;W[gq]C[KKMD: White is OK.])))
+(;B[mq];W[lq];B[mr];W[lr];B[lp];W[mo];B[oo];W[jq]))
+(;W[kq]C[KKMD: I would try this but that may be not any better.]
+;B[lq];W[lp];B[ko]
+(;W[jr]C[Risky, and probably totally wrong. I give a line that comes to mind.]
+;B[mq];W[nq];B[nr];W[lr];B[mr];W[oq];B[np];W[no];B[op];W[or]
+;B[ls]
+(;W[mo];B[kr];W[jq];B[pq])
+(;W[ns];B[kr]))
+(;W[kr]C[KKMD: The simplest way to play.])))
+(;W[cn];B[do];W[co]C[KKMD: This can't be good for black.]))
+(;B[qd]MA[od][qd][po]C[The marked stones work together well.]
+))

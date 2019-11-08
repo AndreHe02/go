@@ -1,0 +1,104 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.17]
+
+PB[manckaert]
+BR[11k]
+HA[2]
+PW[telemit]
+WR[9k]
+KM[0.5]
+DT[2010-09-19]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[W+65.5]
+TM[1800]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+AB[pd][dp]C[telemit [9k\]: hi
+manckaert [11k\]: Hello
+manckaert [11k\]: Have a good game!
+
+dc: Hi, I'm dancor 5k on KGS.  I'll prefix my comments with "dc:".  I have comments thruout and on your lines, and some advice to recap on my last comment.  Feel free to email me if you have further questions.]
+;W[dd];B[pp];W[qn];B[nq];W[pk];B[qi];W[qp];B[qq];W[po];B[op]
+;W[rp];B[oj]C[dc: This is too close and forms a knight's move which is cuttable and bad here.  bP11 is better than bP10.  bP10 is also bad becasue the white stones are also not weak enough to try to limit them so aggressively.]
+;W[pj];B[pi];W[qj]
+(;B[rj]C[dc: This gote move seems small for black.];W[rk];B[si]
+C[dc: bS11 is better and simpler than bT11.  bS11 doesn't allow a later peep of wS12 bS11.  bS11 makes a line of stones that works well with the influence of the bQ16 stone.]
+;W[rq];B[qr];W[nc];B[oc];W[nd]
+(;B[oe]C[dc: This is locally bad.  The obvious push at wP16 leaves cutting points.  Also, wO16 becomes perfectly placed to weaken the shape of the black stones here.  When two black stones are diagonally adjacent, an enemy stone at any of the four points diagonally adjacent to them weakens them.  The wO16 stone is doing a lot of damage to the three black stones.  Locally, bQ14 is more normal.  In this case, tenuk is possibly even better.]
+;W[id];B[kc]C[dc: White did play too far and loose, but this attack seems far too aggressive.  Playing at big points elsewhere for now seems better.  Also, when the time comes, pressure from the outside is less risky than invasion.  Invasion right now is needlessly risky.  This strategy only makes sense if you think you are down a lot _after_ settling the other parts of the board which are still wide open.]
+;W[kd];B[jc];W[jd];B[ic];W[hc];B[ld];W[le];B[md];W[ne];B[hb]
+;W[gc];B[gb];W[fc];B[cc];W[dc];B[cd];W[ce];B[be];W[cf];B[bf]
+;W[qc]C[I really don't know how to deal with an invasion like this]
+;B[pb]C[dc: Another weak shape, again letting your diagonally-connected stones be compromised.  Locally bP18 is better.  It also threatens to connect under which is good as well.]
+;W[qb]
+(;B[sd]C[I tried to visualize his eventual shape and play a vital point. The variation below would have worked as it turns out.
+
+dc: Black has a lot of weakness since his diagonally-connected stones are compromised.  Things have gotten bad locally and this is not a position where you should be trying to kill by playing a clever killing move on the first line.  In general you shouldn't play such moves without being able to read them out.  Here, you need to think first about connecting your own stones and second about limiting (not killing) white.]
+;W[qd];B[qe];W[re];B[qf];W[rf];B[rg];W[pc];B[ob];W[od];B[pe]
+;W[rd];B[sc]C[dc: Still trying to kill!  The surrounding black stones are much too weak.  You should be able to read out that the bP18 stones are going to die.  bO18 is interesting to consider here.  If that is too complex to read out, then tenuki is still much better than bT17.]
+;W[nb];B[mf]C[dc: Be careful because the black stones at the top are weak now that white has pushed in on the side of them.  Pushing out with bN15 might be a more potent way to try to make use of them, but that is going to be gote anyway because they are weak.  But at this point you need to spend a move to save them from being killed.]
+;W[me];B[nf];W[lc];B[cg];W[dg];B[df];W[de];B[dh];W[eg];B[ch]
+;W[eh];B[di]C[dc: This is a blatant empty triangle.  bE11 is locally much more reasonable.]
+;W[iq];B[kq];W[fq];B[eq]C[dc: bC6 seems better here.];W[fp]
+;B[fo]C[dc: This is way way way too aggressive!  bD6 or bD7 are much better.  If you really want to pressure these stones, there are better moves.  bE2 or bL5.]
+;W[ep]C[dc: Did you see this comming?  Locally the black stones are being shredded alive!  Whenever you can locally cut thru your opponent like this, you probably should.]
+(;B[eo];W[dq];B[cq];W[er];B[cp];W[dn];B[cn];W[dm];B[cm];W[dl]
+;B[cl];W[do];B[co];W[go];B[fn]C[dc: Empty triangle.  These stones are very weak and it's not very reasonable to think that they will outlive the wD8 stones.  Applying pressure at bD9 or bE11 or bO6 or developing elsewhere like bP9 is better.  And later you might be able to use the aji of the bF5 stones.  Trying to save them immediately and directly like this is too far-fetched.  If things are not going well with some stones, don't dig the hole deeper.]
+;W[gn];B[fm];W[dk]C[Should have stopped pushing here as I don't really need to connect my groups. Saving my group at F7 was priority.]
+(;B[ck];W[fk];B[gl];W[gk];B[hl];W[jo];B[jp]C[dc: It is good to cut white, but strengthening or running more first with your weak group is more of a priority.  bH9 is nice or bK8.]
+;W[ip];B[ko];W[jn]
+(;B[im]C[dc: This seems worse than bH9 or bJ9 or bK8.  Again we have a diagonal move which is going to be diagonally compromised at wK8!  Note that bJ9 is a diagonal move with a much better sense of direction -- bJ7 doesn't but any pressure on the wK6 stones and instead "forces out the toothpaste" giving them an excellent double attack on the stones above and below.  bJ9 reaches out to run to friendly stones instead of into the unfriendly wK6 stones.  bJ9 gets out into the open more, which is the only way for stones to survive once they become as weak as the bE5 stones.]
+;W[kn];B[lo];W[jl];B[ik]C[dc: The same bad local shape we've seen twice earlier.  But it's]
+;W[jk];B[ij];W[gi]
+(;B[kj]C[Bad move];W[jj];B[lm];W[ii];B[on];W[ki];B[lj];W[li]
+;B[mj];W[ln];B[mn];W[mm];B[ml];W[nm]
+(;B[kl]C[dc: Another diagonal move that isn't quite satisfying.  You have to give something up, and the other line defending around bO6 is much better.]
+;W[km];B[ll];W[nn];B[mo];W[oo];B[no];W[om];B[mi];W[lf];B[lg]
+;W[kg];B[lh];W[kh];B[mg]C[dc: This is bad shape, making two empty triangles.  Locally bO12 is much better; it's beautiful shape actually, and it protects the P11 weakness too!  This is my last comment.
+Remember:
+- Be careful with diagonal moves and being locally split.  Emphasizing local connection more will make a huge difference for you.
+- Emphasize connection in general as well.  If you get disconnected, you will have to think about if you need to spend extra time to keep the disconnected groups alive.
+- Play in big areas early.  Save the middle game for the middle game.
+- Don't emotionally jump into territory or at the head of some random stones early in the game.  Apply pressure from a distance, think about containing enemy stones instead of killing them.  This is especially important in handicap games where your opponent will have better reading ability in fights and particularly killing fights!
+- Avoid empty triangles.  Often there is a better move one space away or diagonally away.]
+;W[ok];B[nk];W[oi];B[nj];W[oh];B[of];W[rr];B[qs];W[rh];B[qh]
+;W[sg];B[qg];W[fb];B[lb];W[mc];B[ka];W[ia];B[ir];W[ga];B[jq]
+;W[hr];B[is];W[hs];B[jr];W[ib];B[dr];W[eq];B[cs];W[in];B[dj]
+;W[ej];B[ei];W[fi];B[db];W[eb];B[ca];W[sf];B[kk];W[il];B[hn]
+;W[ho];B[es];W[fs];B[ds];W[hm];B[nl];W[sh];B[ri];W[ol];B[ea]
+;W[sk];B[da];W[fa];B[cb];W[rs];B[tt];W[nh];B[mh];W[pg];B[og]
+;W[tt];B[tt]TW[ha][ja][ka][la][ma][na][oa][pa][qa][ra][sa][gb]
+[hb][jb][kb][lb][mb][ob][pb][rb][sb][ec][ic][jc][kc][oc][rc]
+[sc][ed][fd][gd][hd][ld][md][sd][ee][fe][ge][he][ie][je][ke]
+[se][df][ef][ff][gf][hf][if][jf][kf][fg][gg][hg][ig][jg][fh]
+[gh][hh][ih][jh][hi][ji][fj][gj][hj][ij][ek][hk][ik][qk][el]
+[fl][gl][hl][pl][ql][rl][sl][em][fm][gm][im][jm][pm][qm][rm]
+[sm][en][fn][hn][on][pn][rn][sn][eo][fo][io][qo][ro][so][gp]
+[hp][sp][gq][hq][sq][fr][gr][sr][gs][ss]TB[aa][ba][ab][bb][ac]
+[bc][ad][bd][ae][af][pf][ag][bg][ng][pg][ah][bh][nh][oh][ph]
+[ai][bi][ci][ni][oi][aj][bj][cj][ak][bk][lk][mk][al][bl][am]
+[bm][an][bn][ao][bo][ap][bp][kp][lp][mp][np][aq][bq][lq][mq]
+[oq][pq][ar][br][cr][kr][lr][mr][nr][or][pr][as][bs][js][ks]
+[ls][ms][ns][os][ps]C[manckaert [11k\]: Good game
+manckaert [11k\]: Thank you
+telemit [9k\]: thx])
+(;B[nn];W[om];B[nl];W[ol];B[ok];W[km]C[dc: wM8 is more likely.]
+;B[ll];W[kl];B[kk];W[mi];B[ni];W[nh];B[mh];W[mg];B[lh];W[ng]
+;B[lg];W[lf];B[of]
+(;W[og])
+(;W[kg])))
+(;B[ji];W[jj];B[ii]))
+(;B[kn]C[dc: This is actually bad too.  It pushes from the wrong side, pushing white into black's weak stones.]
+;W[km];B[lm]))
+(;B[gl]C[dc: This does seem much better thon bC9, but the stones are still weak.]
+))
+(;B[dq];W[do];B[eo]))
+(;B[qd];W[rd];B[re]
+(;W[se];B[sf];W[sd];B[sc]C[dc: bS17 is better and more direct, capturing the stones sooner instead of leaving complexity and aji around.]
+)
+(;W[pc];B[ob];W[od];B[rc]C[dc: I think white will play wS18 after this.  White will win capture the P18 stones and it will be very bad for black.]
+;W[pe];B[sd];W[of];B[qe];W[pf];B[qf];W[nb];B[rb])))
+(;B[nb]C[dc: This line is better (and I'm glad you have the solid bP18 instead of bP19!), but it seems somewhat small and possibly gote as white can consider tenuki instead of the last move.  bD10 is still a big move dyning to be played for example.]
+;W[mb];B[ob];W[id]))
+(;B[ri]C[dc: This bS11 is better than the bS10, since bS11 threatens a monkey jump to bT8 later.  However, it might still be a little early for this move even.  The weakness of a cut at wP11 remains important.  The white stones are not that weak -- white can push out with wP9, and there is space to run below that as well.  Playing elsewhere seems bigger for now, such as bD10 or bK16.]
+))

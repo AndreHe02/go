@@ -1,0 +1,299 @@
+(;FF[4]GM[1]SZ[19]ST[0]AP[SGFC:1.15]VW[]
+
+GN[Serac-igor-20050703.sgf]
+PB[Matthieu (igor)]
+BR[10 kyu]
+HA[0]
+PW[Serac (Serac)]
+WR[6 kyu]
+KM[6.5]
+DT[2005-06-14,2005-07-03]
+PC[Dragon Go Server: http://www.dragongoserver.net]
+RE[B+Resign]
+OT[30 days + 1 day/10 periods Japanese byoyomi]
+RU[Japanese]
+GC[Game ID: 130707]
+
+C[Dear reviewer,
+
+this is an interesting game with a friend, which turned out quite strange with a big mistake from both of us. I played black. May I ask you to focus on the figths, more or less until move 80 ? Of course, any comments on the fuseki, direction of play, or anything else, will be welcome :-)
+
+Igor
+
+****************
+
+Hey Igor,
+
+thanks for submitting your game for review, I had fun reviewing it and felt that I learned from it as well.
+
+Fighting games are always a bit difficult to review, especially when you're asked to concentrate on the tactical aspects of combat. I've tried my best, but mind that I'm only 1-kyu myself and my opinions might seem utterly stupid to a stronger player.
+
+I've preceded my comments with "fey:" to distinguish them from yours.
+Be sure not to miss the variations I gave along the way and check the brief summary I give at the end of the .sgf file.
+
+If there's anything you want to discuss about the game or if you have any further questions, feel free to send me an e-mail.
+
+Nadja Sommerfeld
+(2ndtry@gmx.de)];B[pc];W[cd];B[qp];W[dq];B[ed]
+(;W[gc]TR[pc]C[fey: As mentioned later, I'm not really sure if this pincer is a good choice in this case.
+Normally a pincer is only played if the marked corner stone is white, too - otherwise all of the pincer's attacking steam might soon run off and White will be the one who has to defend a weak group.
+
+Often, a pincer is also played to prevent a big moyo of the opponent's, but in this case, Q17 is a low move which indicates that Black won't be able to build something huge on the upper side. In a sense, the top isn't that interesting for both players now.
+
+Some different ideas are shown in the variations.];B[cc];W[dc]
+;B[dd];W[ec];B[fc];W[fd];B[fb];W[cb];B[bc];W[eb];B[ce];W[gb]
+;B[fe];W[gd]TR[pc]C[Igor : I assume the joseki is sligthly better for me, as my wall faces the approach at D5, whereas my opponent's one does not work with Q15.
+
+fey: I agree. Shows quite clearly when you should pincer and when you shouldn't, though it's far from being inferior for White.
+If the marked stone were white, though, the pincer would've had a lot more backup and feel more in tune with White's other stones on the board.
+Black gained here, and kept sente, too.];B[dn]C[fey: I like this approach move, it combines nicely with your wall above and shows good feeling.
+Still this move is quite uncommon, and though there are some simple joseki vars here others are various and quite tricky.
+Just for completeness' sake I'll show you a few in the vars but I'm not that much a joseki lover to go into this more deeply, if you enjoy stuff like this you can simply check turboGo or any other joseki program or book. ;)]
+
+(;W[gp]C[fey: Not one of the common answers I found, but looks perfectly ok, especially in this case.
+Still there's a subtle nuance of slackness in this move which is related to Black's attachment at C3; therefore, G4 follows the right intention but is a little better for Black locally.
+Again, nothing inferior, but it's usually those mistakes in detail that make us lose a game (if it isn't a big group dying in yose :D ), so you should try to become attentive even to nuances like this. It'll pay off, I promise; that's why I'm putting a little more emphasis on the joseki vars here, just to grasp the essential points.
+
+Please see the vars.]
+(;B[dk]TR[cq]C[fey: Better at C10, as this maintains a good high-low-balance.
+If you compare it with the variation a gave a couple of moves ago, you'll find that C3 works now for Black.]
+;W[pe];B[ph]TR[cq]C[fey: Perfect, a beautiful pincer.
+
+Also keep in mind the C3 attachment - it might not look so urgent, but it's really a big move. It helps Black to fix his shape on the left side and forces White to crawl on the second line.
+Plus, you are likely to end in sente after having played C3.]
+;W[qc]TR[me][oc][md][ne]C[fey: This is a move for special circumstances, if not to say a bad move in most cases. Here it's quite certainly not appropriate for a very simple reason: White wants to extend down the right side here but there's already Q12, perfectly placed to spoil this plan.
+
+Therefore the usual idea would be to just run out or play one of the variations starting with wP17.
+Any of the marked points would be fine for White, as those are all standard joseki, we won't discuss them now.
+The general idea is more important: An extension along the right side is absolutely NOT attractive, so White rather wants to run out, split Black's forces and hope for a counterattack on Q12 later.]
+;B[qb];W[qd];B[ob];W[of]TR[ne]C[fey: Simply jumping straight to O15 is normal to flatten Black's position on the top.]
+;B[nd]TR[rc][mb]C[Igor : after that, during the game, I always wanted to play L17. Is a white move around M17 is sente ?
+
+fey: I'd say it isn't, though it might be quite big during early yose.
+I can't see a way for White to kill with one move even with M17 in place, your corner group is quite stable; there's always either S17 for two instant eyes, the possibility to run out or to make the second eye along the top edge, for example by playing N18.
+
+About your L17 for Black: This move is, just as M17 for White, simply an endgame move, much too small to be played now.]
+;W[qj]
+(;B[pm]C[fey: Mh, this looks like an outright challenge to a fight, leaving your Q12 alone like this and handing the initiative in the fight to White.
+Have you thought about playing O12 yourself right away? See the var for my thoughts on this move.]
+;W[oj]C[fey: White is still the one who's split into two weak groups and has to struggle a little harder, but compared to the variation, this is an improvement.]
+;B[nh];W[mf]
+(;B[mj]C[Igor : Is this overplay ? the following sequence turned out to be good for me, but could I've been punished ?
+
+fey: I wouldn't say that it's a clean overplay, but of course White has the cut to aim at and this is a weakness in your shape that you needn't give him as an option. 
+Maybe he feels to weak to cut right away (at least I'd say he is), but there's so much aji I'd hesitate a bit to play like you did. Maybe M11 is just as good and much safer.
+Note that there might not be only cutting aji for White but also some possibilities aroung the R12 attachment and a possible connection, so propably it would really have been better to play more safely here.
+The var shows that White can connect anytime if he wants, but this possibility should be only an emergency measure because the influence Black gets is just too nice.]
+
+(;W[ol];B[om];W[nl];B[nm];W[ll]C[fey: Quite a decent result for White who managed to get out first in the center without giving Black too much on the bottom.
+Black's position in the bottom right corner feels a bit hollow and needs another move aroung L3 to start looking like some prospective territory; plus, Black feels a bit uneasy about his O12 group now.]
+;B[lh]C[fey: Necessary for sure.];W[kf];B[mm]C[fey: Looks like correct shape locally, but be careful not to weaken your group above too much by peeping like this.]
+
+(;W[rh]C[Igor : My opponent's mistake
+
+fey: Mh... sure, that's a little too easy for you.  ;)];B[ml]
+;W[ni];B[mi];W[oh]TR[kq]C[fey: Frankly I'd say that this is too small now. The first fight of the game has come to an end, all the groups are more or less settled now; Black built some nice influence and seems to have a nice position overall, but White is connected and safe and has sente - as long as he doesn't give it away for profit-taking moves like this.
+Ok, this is nice and big, all right, but it's *only profit*! In middle game, this is much too small and fails to grasp the real focus of the game which is now clearly on the bottom with all the strenght Black built down there during the fight.
+White should play at L3 instead of P12 to prevent Black from getting too much on the lower side and expanding his own position in the meantime.]
+;B[kq]C[Igor : Is this correct ? too far ?
+
+fey: No, this is just right. It's a bit surprising that you wonder if it's too far; I bet most people would've asked if it isn't too narrow with respect to all the influence Black built.
+Mind that: You are so strong down here, you shouldn't worry about extending too far so much. Rather ask yourself if you use your influence efficiently if you play a narrow extension out of fear of being invaded.
+But the reason why I'd also have chosen L3 is quite simple: It works with the corner and pincers any approach move that White might try. Anything White is going to try in there is really dangerous and I'd even be tempted to use words like "doomed" or "futile" here. ;)]
+;W[pq]C[fey: Now this is asking for trouble and another fight.
+Quite a daring invasion! Did White read this out or was it just a spontanous and impatient try to prevent Black from getting territory instantly?
+I completely agree that there's aji in the lower right corner and of course Black won't get all the territory there, but in my opinion this is  too deep.
+Also,  White decides things to early with this move. Maybe you want to invade at N3 later or just gently reduce from the outside via endgame moves. You simply don't know yet, and I don't know yet, too, so it's better to leave all options open as long as you can (some kind of anti-aji-keshi concept).]
+;B[qq]C[fey: Already quite tough for White to build life here.]
+;W[mq];B[lo];W[mo];B[ln];W[lr];B[kr];W[qr];B[rr];W[or];B[cp]
+C[Igor : After the previous figth, I wanted to use the force I made to attack on the lower left. C4 was played to make territory before, but W response made him stronger. So I assume C4 is really bad
+
+fey: Some words to the fight on the right first: I really like the way you handled the invasion. You didn't go crazy and tried to kill like mad (often does more harm than good) but coolly built up more influence.
+R1 looks still really threatening for White, he should seek for an opportunity to reinforce his group again, maybe with S1.
+
+If we take a look at the whole board now, Black feels clearly better, both on territory and influence.
+
+Now for C4: Well, I picked on C3 so much before that my answer to your question should be clear by now. ;)
+Just remember C3 as the shape move here, C4 is - plainly from point of shape - a shoulder hit from below and this alone marks it as bad.
+Just look at the shape that developes after White answers C4 with C3 - White is strong and connected (and took all the corner teritory) and Black has to come back later and defend his weak stone clutched against White's wall.]
+;W[cq];B[fq];W[dp]
+(;B[co]C[fey: This is inconsequent after F3. You should accept the trade here and play as in the variation.]
+;W[gq];B[fo];W[fp];B[hn]C[fey: A good sequence up to here, not as good as the variation, but clearly follows the correct idea and combines beautifully with your other stones.]
+
+(;W[dj]TR[ek][ej]C[Igor : my plan was to attack W not too directly, making points while letting him live small. That turned out very bad because of a mistake, but what was correct ?
+
+fey: Sure, making points or building influence while letting him live small is good strategy and usually a lot better than going all-out to try and kill and discover in the end that he lives and you got nothing.
+
+In view of that, E10 and E9 look like the most normal moves. The choice between them is merely a matter of taste, E10 might get a little more complicated and isn't as solid, but looks like a normal and fighting move here.
+Your E9 is also fine, very solid and strong.
+
+Again I'd say that White invaded too deeply here. See the vars for some different approaches.
+All in all they aren't really fun for White and alone the fact that he has to try for something drastic now shows that Black clearly has the better game going.
+
+To search for a decisive turning point now would be quite futile, but of course White's failure to connect at N8 when Black peeped was quite grave and kind of layed the foundation of this big central moyo.
+Also the choice of joseki in the upper left might not have been absolutely correct, but that would've been a completely different game.
+Another move where White missed a chance was, as mentioned above, P12.
+
+Black, on the other hand, played with a broad strategic vision and managed to make all of his stones work together. Very nice!]
+;B[ek];W[ej];B[fj]C[fey: It's painful for White to have Black play this hane, a perfect move in this situation. :(]
+
+(;W[eh];B[fi]C[Fey: The vital point, good.];W[dg];B[df]C[Igor : My mistake. D15 instead
+
+fey: White catches up here, but the game is far from being bad for you.]
+;W[ee];B[ef];W[de];B[fh];W[cf];B[cg];W[be]
+(;B[fg]C[fey: One of the few bad moves I spotted. You should absolutely play as in the variation, this is just losing too many points on the left edge.]
+;W[ch];B[jg];W[kg];B[kh];W[jh]C[Igor : overplay ?
+
+fey: Big one. :D];B[ig];W[ji];B[og];W[oi];B[ng];W[pg];B[nf]
+;W[ne];B[me];W[oe];B[md];W[kd]
+(;B[qs]TR[je][kb][id][kg][mf][kf][kd]C[fey: Mh, I liked your cut and how you chased his marked group and now you just discard the attack.
+
+Aside of the fact that R1 is big and nice without doubt, I've had at least exspected you to try something like one of the marked points for some additional profit in sente. (see the vars for some rough concepts.)
+
+R1 in itself is one of the biggest moves on the board, very tough for White who missed his chanced to come back and play S1 or something similar.]
+
+(;W[ps]C[fey: Maybe not the best solution to accept ko here - White should be able to somehow live here unconditionally, maybe with the move I show in the variation.]
+;B[pr];W[mh]TR[rb][kp][lk]C[fey: Eight points gote? Come on... 
+
+Of course the ko is much bigger and White has better threats than this - the marked points are some of my ideas.]
+;B[os]C[fey: This is absolutely game over for White.
+A little ironic that White lost so much in a ko he most possibly didn't even need to fight. :(]
+;W[mg];B[oq]C[fey: Too careful. Really, I can't see any way for White to build two eyes down there even without this move. (On the other hand, if you aren't sure and know that you're comfortably ahead, this is no disaster and just following the proverb "a rich man doesn't pick fights".)]
+;W[li];B[ki];W[lk];B[mk];W[kj];B[lj];W[jk]C[fey: All of White's attempts to live in here should fail as Black is just too strong all over the place.]
+;B[ij];W[rb];B[ip]TR[qb][pc][ob][nd][md][me]C[fey: I'd be a little careful here, your marked group is starting to look somehow weak, for example, wR19 looks threatening.
+You should at least reinforce once, maybe with bS19, that gives some feeling of sente as a nice plus. :)
+
+Locally, J4 is ok because of the aji lurking around G6.];W[lb]
+C[fey: This is a good move in itself, but White should play the R19 atari before.]
+;B[lc];W[kc];B[mb];W[ld];B[mc];W[kb];B[pa];W[rm]C[fey: Looks biggest now.]
+;B[qn]C[Igor : very small. I was afraid of the aji of lower right stones
+
+fey: Again, there's no need to be afraid, R6 should be the furthest White can enter.]
+;W[bk];B[bl];W[cl];B[ck];W[bm];B[bj];W[al];B[cj];W[cn];B[do]
+;W[bo];B[bp];W[bq];B[ao];W[an];B[bn];W[lg];B[li];W[bo];B[bg]
+;W[ap];B[bh]C[fey: An interesting trade took place here, it looks quite even, maybe a little better for White as he ended in sente.]
+;W[gn]TR[go]C[fey: Well spotted, a vital point in this shape, but most of the aji is gone since Black played J5.
+
+Therefore, Black can also answer with G5 (var), but even though nothing seems to work here for White, it's something you need to read out carefully.
+You should force yourself to do this reading, even you feel you are ahead and can give away some points. Many won games were lost because of slack endgame play like this and one shouldn't make a habit of feeling too safe.]
+
+(;B[fn];W[go];B[gm];W[fm];B[fl];W[em];B[dm];W[hm];B[gl];W[ho]
+;B[in];W[io];B[jo];W[ra];B[qa];W[rn];B[ro]C[fey: Quite small again. The H1 monkey jump is much bigger.]
+;W[ge];B[ie];W[ff];B[eg];W[ih];B[hg];W[hh];B[gh];W[ir];B[iq]
+;W[hr];B[pl];W[ql];B[bf];W[ce];B[ae];W[ad];B[af];W[bd];B[ok]
+;W[pk];B[nk];W[id];B[je];W[jd];B[dl];W[cm];B[jr];W[js];B[ks]
+;W[is];B[he];C[Result: B+Resign
+
+
+**************
+
+fey: Let me compliment you a bit: I never met someone who called himself 10-kyu and played as well as you here in Germany. Your strategy is quite decent and mature. The standards might be higher where you live, I bet you'd be at least 7-kyu here, as far as I can judge from only one game. 
+
+Your strong points are clearly vision and strategy and I also like your attacking style which is more relaxed than many others I've seen and accepts that the opponent is going to get *something*. Sometimes I even felt that you could have attacked more strongly, for example on the top, but this is a matter of style and you won quite convincingly anyways.
+
+You play safe when you notice you're ahead, that's good, you shouldn't pick unnecessary fights in situations that only demand a safe win on points. But don't overdo it! To many gifts to your opponent can make the game close again or even turn it around in endgame.
+
+In close combat you also do quite well but sometimes - sadly all of us won't ever get rid of that - some reading mistakes occur or you miss the point of the local situation for example by rescuing unimportant stones.
+A book on tesuji might be helpful "Golden Opportunities" by RIn Kaiho has some very enlightening examples in it. You could also try just solving problems, tesuji, life & death, escape & capture, all of them will improve your reading and help you to get stronger.
+
+You wrote that you'll also send the review to your opponent:
+
+Hi Serac!
+
+Something I noticed about your play was a certain impatience. Whenever something Black built looked big, you rushed to invade it, built a small living group and then were busy again reducing what he got from his attack.
+I'd say that isn't the way.
+There are two important points about this:
+
+a) Whole board vision.
+It's always hard to invade like mad all over the board just to reduce the immense moyos the opponent somehow got. So take care not to let him built something so big that it forces you to launch an unreasonable invasion.
+It's ok to have a game with big moyos of course, but they should be *equally big*. 
+In this game it was quite evident that Black's stones worked together while your stones didn't so well. If you search for a reason why you lost, I'd say it's this and NOT some tactical mistake in a fight. This game was decided by strategy, though it was a fighting game from the start,
+Try "A way to play for the 21st century" by Go Seigen, "Whole Board Thinking in Joseki" or this game collection of Takemiya's which exact title I forget. They'll all teach you how to combine your stones and create a whole-board concept / plan.
+
+b) Patience.
+So your opponent managed to built something prospectively big. You feel you will fall terribly behind if you don't reduce in an instant and there the trouble starts.
+Concentrate on your own positions first, evaluate them: Aren't they maybe just as big, don't they bear as much potential? Do you really need to invade and burden yourself with a weak group?
+If you really discover that he's ahead a direct invasion is still not good in most cases. wait for the opportunities to occur, don't lose good aji too early.
+There might be something in endgame and his 30-point corner will shrink to 5 points. He might built a weak group somewhere that you can chase into his own moyo and thereby reduce it. 
+Things like that.
+
+Also pay attention to when a pure territory-taking move is really big enough in middle game and when it only loses a tempo. Having sente at the right time can turn the whole game around.
+
+***
+
+I hope it doesn't seem as if I critisised too much - I always tend to be kinda wordy in my reviews and naturally there's more to comment on the mistakes than on the good plays. 
+I'd be glad if there were also some pointers you found useful and -as always- I'll be keen to hear which points of the review you liked and where I could improve something.
+
+Nadja])
+(;B[go];W[ho];B[fn];W[in];B[hm];W[io];B[hp];W[jp];B[iq];W[jq]
+;B[ir];W[jr];B[js];W[kp];B[lp];W[lq];B[ks];W[is];B[hs];W[ls]
+;B[is];W[kn];B[jo];W[ko];B[km];W[jn];B[jm]C[fey: Black seems to win every fight on liberties.]
+))
+(;W[op]C[fey: Perhaps White could try this move.];B[pr];W[ns]
+;B[pp];W[oq];B[lq];W[ls]C[fey: This looks alive without ko, but I might be missing something.]
+))
+(;B[kb];W[jc])
+(;B[id]
+(;W[ie];B[jd];W[je];B[kc])
+(;W[ic];B[jd];W[jc];B[je];W[lc];B[rb];W[rc])))
+(;B[ch];W[dh];B[cj];W[ff]))
+(;W[fi]TR[ej][dj]C[fey: Possibly White should play like this and give up his marked stones if necessary. If Black cuts directly, the result will still be quite ok for White.]
+
+(;B[ei];W[eh];B[di];W[dh];B[ci];W[gj];B[fk]
+(;W[gg]TR[ee]C[fey: Also aims at the cut at E16. Note that this is better shape and better sabaki than G12.]
+;B[fh];W[fg];B[gi];W[hi];B[hh];W[gh];B[fi];W[ih])
+(;W[gh]C[fey: This, on the other hand, is a bit ugly because Black can peep twice and leave with some helpless stones clutched together,]
+;B[fg];W[fh];B[hi];W[gi];B[hf]))
+(;B[gi]C[fey: This is stronger for Black and things don't look well for White again.]
+;W[fh];B[gh];W[gj];B[fk];W[gg])))
+(;W[hh]C[fey: This looks safest but of course is only a reducing move and it might not be enough for White to simply reduce.]
+)
+(;W[gn];B[go];W[ho];B[eo];W[in];B[hm];W[io];B[im]TR[kp]C[fey: Note that there's cutting aji now for White around the marked point.]
+;W[gh]))
+(;B[gq]C[fey: This follows up F3 consequently and is also quite big - just imagine Black cutting off F4 and making the whole center a giant moyo.]
+;W[co];B[eo]C[fey: White gets the corner, but Black is clearly better off in this trade. :)]
+))
+(;W[ml];B[jh]))
+(;W[qh];B[qg];W[pg];B[qi];W[rh];B[pi];W[ri];B[pj];W[qk];B[pk]
+))
+(;B[qi]C[fey: Or maybe something like this to prevent his connection?]
+)
+(;B[mi]))
+(;B[nh]C[fey: This is a strong move which puts pressure on White's group above.]
+;W[mf]C[fey: Naturally he will have to run out, but compared to the game, your are now one step ahead  - now something like your Q7 will be more effective because your own stones aren't that weak anymore.]
+;B[pm];W[oj];B[mi];W[mj];B[li];W[lj];B[ki];W[ml];B[le];W[lf]
+;B[ke];W[kf];B[jk];W[mn];B[je];W[jf];B[if];W[ig];B[hg];W[hf]
+;B[ie];W[hh];B[gg];W[jh];B[ii];W[ih]C[fey: I think Black will have fun like this, though that are only some very rough thoughts translated into moves so far.]
+))
+(;B[cq];W[cr]C[fey: White has to submit here.];B[cp];W[er];B[cj]
+))
+(;W[co]C[fey: This is most common and shows why D6 is an unconventional kakari: It neglects the corner completely.
+In this case, though, I wouldn't play this way because it's obviously exactly what Black wants.
+But even if you look at the result of the joseki a few moves ahead you'll find, that, aside of the fact that Black made this nice big moyo on the left side, White got an enormous corner and sente and isn't that dissatisfied after all. (Still it's an absolute DON'T to help Black like this!!)
+Now imagine the same result without Black's helping wall above - White's profit is a bit hard to compensate for Black. So, usually, White gladly plays this move if Black kakaris with D6.]
+;B[cn];W[do];B[en];W[gp];B[di])
+(;W[fp]C[fey: Nearly the game move, but a bit more tight. You'll see why if you follow the var a little further.]
+
+(;B[cj]SQ[cq]C[fey: Note that attaching at C3 is a mistake for Black.]
+
+(;W[jq]C[fey: The tame-and-peaceful variation.];B[cq];W[cp]
+;B[dp];W[do];B[ep];W[eo];B[eq];W[fq];B[er];W[bq];B[dr];W[co]
+;B[br];W[gn])
+(;W[cl]C[fey: And the seemingly more agressive var (that turns out as peaceful trade).]
+;B[cq];W[dp];B[cm];W[cp];B[dl]))
+(;B[cq];W[cp]C[fey: White is strong enough to cut - remember F4? It's more helpful now than G4 would be.]
+;B[dp];W[do];B[ep];W[eo];B[eq];W[fq];B[er];W[bq];B[cr];W[co]
+;B[fr];W[hq]C[fey: Black's original pincer has completely gone to waste and his wall has lost its value. The corner is much too small to serve as compensation for this huge strategical loss.]
+))
+(;W[en]C[fey: This starts the bunch of variations that branch into lots of small vars, depend on ladders and depend a lot on order of moves and just memorizing. 
+I'll give the most common one, but won't go into much detail.]
+;B[em];W[do];B[co];W[cn];B[dm];W[bo];B[eo];W[cp];B[fn]))
+(;W[df]C[fey:  The common sense move. It's strange how many people dislike it because it lets Black extend on the top - after all joseki is supposed to be 50 % for each player and not "I get profit and influence and to play on both sides and he gets nothing". Simply doesn't work. ;-)
+I like the calm attitude that this move displays better; that doesn't mean that you won't fight later on, but it's closer to something I'd call "sound go". Attack in go is much more difficult than defense, that's one of the first things they tell a beginner.
+And why place yourself in difficulties right from the start by attacking too early?]
+;B[cc];W[bc];B[dc];W[be];B[ic];W[oq]C[fey: Something like this would be fine for both of you.]
+)
+(;W[oq]TR[qe]C[fey: Well, let's say you can't decide how to deal with the E16 approach, apincer doesn't seem attractive but maybe D14 feels too peaceful or slow - tenuki is always an option. :)
+The same is true for the kakaris on Q17 - by playing an approach move yourself you can take the initiative in another part of the board.
+A fast and forceful way of playing, and sometimes better than just kindly answering every kakari of your opponent's.]
+))

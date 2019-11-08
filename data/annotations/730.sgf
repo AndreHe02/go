@@ -1,0 +1,73 @@
+(;FF[4]GM[1]SZ[19]AP[SGFC:1.13b]
+
+GN[xzhang-sulla(B) IGS]
+PB[sulla]
+BR[20k*]
+PW[xzhang]
+WR[20k]
+KM[5.5]
+DT[1999-01-01]
+PC[IGS:  igs.joyjoy.net 6969]
+RE[W+9.5]
+TM[600]
+US[Brought to you by IGS]
+
+C[Hello sulla, my name is Darrell, or on IGS, it's snip.  I'm 6k AGA, 10k on IGS.
+
+The main comment I have for your game is you need to pay attention to weak groups, both yours and your opponents.  Don't get surrounded, Try to surround.  I'm not saying captured, just surrounded.]
+;B[dp];W[pd];B[dc];W[pp];B[di]LB[ce:a][de:b]C[these three black stones are called the Chinese opening and it is an excellent strategy.
+   The basic idea behind the Chinese opening is to make a very big, loose territorial framework (moyo) and force white to invade.  Then you attack the invading stones to turn a portion of the moyo into actual territory.
+
+If you prefer some actual territory, you would normally play 'a' or 'b']
+;W[ce]C[white invades immediately.  Your job now is to attack this weak stone that is outnumbered by your black stones.  You don't expect to kill it, just chase it a little and take profit in the chase.]
+
+(;B[gc]C[This is a fine move except that it provides no attack on the white stone.  White will just make a base for himself and your moyo is gone.  Look at variation 2 for a better way of playing.]
+;W[cc];B[cb];W[bc];B[dd];W[de];B[nc];W[lc];B[ne];W[ic]LB[pf:a]
+C[black's top left group is pretty secure, so it doesn't really need help right now.
+
+White's group on the top is pretty weak still, and the corner is weak.  Black should attack one of them.    A good way to attack is by first enclosing.  Perhaps at 'a'.  Then while white is making his corner live, black can build up strength to go after the invading stones on the top.]
+;B[hb];W[ie]C[good move for white.  Black's top left group is now nearly enclosed.]
+
+(;B[nd]C[This was unnecesary.  See variation 2.];W[pc];B[qn]
+SQ[ic][lc][ie][nc][nd][ne][pc][pd]LB[pf:a][fe:b]C[In Go, it is your weak groups that will be your downfall.  The marked groups are all weak.  Some more than others.  Rather than start a new fight, look for a move that will defend your weak group and simultaneously lend some attack.  Simply enclosing a group is a big advantage.  so black can still partially enclose white's corner at 'a'.  Later black can keep white's groups split up by playing around 'b' to keep them weak.
+
+So, first priority is to strengthen any of your groups that are in potential danger.  Second priority is to attack any weak enemy groups.  Doing both with one move is optimal.]
+;W[qo];B[pl];W[pg]SQ[nc][nd][ne][pl][qn]C[beautiful move.  Defends the corner and attacks both of black's marked weak groups.]
+;B[lb];W[mb];B[kb];W[mc];B[ib];W[jc];B[jb];W[nb]C[Now black is in big trouble.  White's center group is connected to the corner, so is very strong.  White really doesn't have any weak groups, and black has two.]
+;B[mg];W[oi]C[excellent again.  Keeping black's weak groups split.]
+;B[qi]C[black has to defend];W[ig]C[white attacks again.];B[li]
+CR[mh][nf][mf][lh]C[knights moves are weak connections.  If you are going to run, you must be *very* careful with knights moves because they can be CUT.   A white move on any of the marked points will result in a cut.
+
+Use knights moves to attack.
+
+Use one space jumps and diagonal moves to run.];W[qj];B[pj]
+;W[pi]
+(;B[pk]C[oops.  See variation 2.];W[qh];B[ri];W[rj];B[rk];W[rh]
+;B[qk];W[si];B[on];W[mf]C[as expected.];B[nf];W[ng];B[me];W[lf]
+;B[le];W[kf];B[jq];W[rn];B[rm];W[qm];B[pn];W[ro];B[rl];W[cq]
+;B[dq];W[cp];B[co];W[bo];B[cn];W[dr];B[er];W[bn];B[cm];W[kc]
+;B[oq];W[pq];B[or];W[pr];B[op]SQ[or][oq]C[these three moves were huge.  Very good.  You enclosed white and took a huge profit.]
+;W[os];B[ns];W[ps];B[nr];W[cr];B[es];W[lj];B[mi];W[mj];B[nj]
+;W[ni];B[ki];W[oj];B[nk];W[ok];B[nl];W[ii];B[jj];W[ij];B[ik]
+;W[hk];B[il];W[bh];B[bi];W[ch];B[ci];W[hl];B[hm];W[cl];B[dl]
+;W[ck];B[dk];W[bm];B[bk];W[bl];B[gm];W[bb];B[ca];W[ba];B[eb]
+;W[ee];B[gk];W[eg];B[hj];W[hi];B[gj];W[gi];B[fi];W[fh];B[eh]
+;W[dh];B[ei];W[mh];B[lh];W[lg];B[kg];W[jg];B[kh];W[ji];B[kj]
+;W[ge];B[fd];W[fe];B[ed];W[cd];B[dg];W[fg];B[cg];W[bg];B[po]
+;W[cj];B[bj];W[dj];B[ek];W[ej];B[fj];W[ol];B[om];W[jh];B[ep]
+;W[ds];B[al];W[am];B[ak];W[sm];B[sl];W[sn];B[ah];W[cf];B[ag]
+;W[bf];B[af];W[ae];B[ai];W[hc];B[gd];W[hd];B[ma];W[na];B[la]
+;W[sj];B[qp];W[rp];B[qq];W[qr];B[rq];W[rr];C[Good game!
+
+If you have any questions, e-mail me and I'll answer them.]
+)
+(;AB[qk];W[rj]C[atari here.  White can't get away.];B[ri];W[rk]
+;B[rl];W[si];B[sk]))
+(;W[nd]C[if black plays somewhere else and white wedges in...]
+;B[od];W[md];B[oe];W[oc];B[pc];W[ob];B[pb];W[nb];B[qd]C[white gets one stone, black gets the whole corner.]
+))
+(;AB[cd]TR[cd]C[If you "kick" the weak white stone like this, you are attacking it strongly.  You also eliminate his ability to slide into the corner to make a base.  You also begin to take profit in the top left.  This move is so good, that white's move here has to be a bad one.]
+;W[de]C[This is white's normal response.];B[fd]TR[di]C[Now black defends the top and continues to attack the white stones strongly.  Notice that the marked black stone is on the exact spot white would like to extend to.]
+;W[eh]C[this is about the best move white has available now, a light running move.]
+;B[ej]C[This nice simple move starts taking profit in the lower left and gives white nothing to attack.  White's stones are still floating with no eyes.]
+))

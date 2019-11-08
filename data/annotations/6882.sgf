@@ -1,0 +1,217 @@
+(;FF[4]GM[1]SZ[19]ST[0]CA[UTF-8]AP[SGFC:1.15]VW[]
+
+PB[TSengar]
+BR[13k]
+HA[0]
+PW[GoteHero]
+WR[13k]
+KM[6.5]
+DT[2008-09-22]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[B+8.50]
+TM[1200]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+C[Hello reviewer,
+
+I'm mostly interested in the middle game, from move 77 to move 202 - I built up a huge lead in the beginning, then frittered it away, then made some of it back in the end (black won by 8.5). It's the frittering sequence that I need your advice on :).  Thanks in advance!
+
+GoteHero];B[dd];W[pc];B[pp];W[dp];B[cj];W[pe];B[qg];W[pj];B[qi]
+;W[pi];B[pg];W[qn];B[qo];W[pn];B[nq];W[jc];B[cn];W[hq];B[cp]
+;W[do];B[co];W[je];B[me];W[nf];B[mf];W[ng];B[oh];W[ph];B[og]
+LB[mg:A]TR[ph]C[The exchange of the last two moves is bad for white. White does not need his marked stone, while black's marked stone is in a nice position. It would be better for white to play at A instead. The rest of the moves are good. White has a nice splitting attack.]
+;W[of];B[qe];W[qd];B[re];W[qh];B[rh]
+(;W[qj]TR[qh]C[After the marked stone white should finish de sequence properly. See variation. If you wanted to play the move you played, you should not have played the marked move. Now the marked move costs you a liberty and costs black nothing.]
+;B[ri]TR[rh][qh]
+(;W[ni]LB[mg:A]C[This is a bit too optimistic. Black will push and create cutting points that will make white weak. If you want to shut this black group in, you should first attack the two black stones so you can use the same moves to attack as to shut in. See variations for some ideas.]
+;B[nh];W[mh];B[oi];W[nj]C[Now your position is full with cutting points.]
+;B[nc];W[md]LB[lc:A]C[This is too aggressive. Better to play at A.]
+;B[nd];W[mc];B[mb];W[lb];B[ob];W[mg]C[Good move. A black cut there would have given you something to think about.]
+;B[ne];W[ma];B[nb];W[le]C[Good move. This shuts the black group in.]
+;B[na];W[rd];B[pb];W[qb];B[qa];W[lf]C[Good move. This definately kills black.]
+;B[rb];W[qc];B[rc];W[sd];B[sc];W[sa];B[pa];W[ra];B[sb];W[ra]
+;B[rj];W[rk]LB[ql:A]C[This is an overplay. Black can capture your stone. It would be better to play at A instead. That would strengthen your position while threatening to kill the black group.]
+;B[qk];W[pk];B[ql];W[pl];B[rl]C[Yes, Virginia, I really did manage to lose from here.  His group in the upper right is dead (m17 is a little weak, but I think I could have handled it), and he's got small life on the right side.  I've got massive thickness, and NO IDEA what to do with it.  What I actually did was push him down the left side, which is basically just trying to make territory in the middle - not kosher, I know.
+
+You're supposed to use thickness to attack, but he doesn't have any particularly weak groups on the board at this point.  I'm thinking now, I should have either invaded at c14 or expanded my lower group, maybe to m3?  I'm also curious about his shape on the lower right - would a 3-3 invasion work, and if so, when should I have done it?
+
+I don't think a 3-3 invasion in the lower right is possible at this point. Maybe later if you are stronger in the area. An invasion around C14 looks like a good idea to me. I think the move you play next is a little to close to your thickness.
+
+It's correct that you shouldn't use thickness to make territory, but attacking is not the only possibility. You can also invade, as you thought of yourself. In general thickness means that you have more freedom to do what you want without getting into trouble.]
+;W[fc];B[ec];W[fd]TR[ec]C[Black nicely makes the exchange of the marked moves so white becomes more overconcentraded.]
+;B[cf];W[ed];B[eb];W[de];B[cd];W[df];B[dg];W[dh];B[ch];W[eg]
+;B[cg];W[ei]C[weak, d11 or e12 would have been better.
+
+I'm not so sure, but that are certainly other possibilities.]
+;B[di];W[eh];B[ej]TR[cp][co][cn]C[Now he's really not very attackable; my pretty walls are facing each other anyway, which limits their usefulness.  I knew my three stones on the bottom needed attention, but was nervous about how much solid territory he was making along the side - tried to reduce him and connect to the bottom, which didn't work out too well
+
+
+Connecting to the bottom is almost impossible in this situation, because black's last moves blocks the way and black also has the strong marked stones. You should be consistent now and make territory in the centre or else your last nine moves will almost go to waste. See variation.]
+
+(;W[dk];B[dj];W[cl];B[bl];W[dm]LB[dn:A]TR[dk][cl]C[Moves like this ask for a cut. It would have been better to play this move at A. The marked stones are not important. You can consider them as forcing moves and leave them alone.]
+;B[dn];W[en];B[ek];W[em];B[ck];W[fj]C[hoping here that he might let me close him back in while eating c8 & d9.  no such luck
+
+That would have been nice, but you cannot expect your opponent to make bad moves.]
+;B[fk];W[gm]TR[fj]C[You should have playd at A now. If you let black atari that stone at A it goes completely to waste and a lot of your influence too.]
+;B[gj];W[gk]C[don't know what I was thinking here. should have connected at f11, then cut him off after if he didn't connect]
+;B[fi];W[cq]C[finally decided to do something on the bottom.  I was feeling pressured at this point - he had actual cash along the side, while my upper 'territory' was looking pretty leaky.  I didn't want to close it off around the 12 line, because he would have ended up with a wall along 11 (or so).
+
+I would have to take time to close off f18, so he'd probably get to take the lower left corner first, and then my lower stones would be in trouble.  So I decided to take the corner first]
+;B[bq];W[bp]LB[eo:A]C[I think I could have survived d3, though it would have been messy. Anyway, he took the sacrifice
+
+Black should have played d3. See variation]
+(;B[ap];W[br];B[bo];W[cr]C[at this point, I mentally filed my lower left position as 'strong', which got me into a LOT of trouble later.
+
+
+Your lower left is indeed strong. The trouble was because black got too much strength close to it.]
+;B[hk]C[I think we both messed up in ignoring G9 for so long after this
+
+G9 is not so important.];W[lq]C[Good move.];B[lr]LB[kr:A]C[Ok.  At this point, I think my prospects were still pretty good. Because I was so confident of the left side, I decided to push into the corner rather than block him off.  I did get the corner, but lost the entire lower left quarter of the board.  Bad trade! Was I being overconfident in attacking the corner, or did I just mishandle the follow up?  What would your next move have been?
+
+I think I would have played at A and make territory at the bottom.]
+;W[mr];B[kr];W[mq];B[nr];W[np];B[oo]LB[oq:A]C[This move gives you nice possibilities. It should have been at A.]
+
+(;W[op]C[You can be more aggressive here. See variation.];B[oq]
+;W[pq];B[pr];W[qq];B[qr];W[qp];B[po];W[ro]LB[ms:A]C[He could have lived easily by taking s3 & s2, but neither of us saw that - we both counted his stones on the 2-line as dead. Now he counter-attacks my 5 stones on the left.  I think mishandling this is where I started losing the game.
+
+Black can also easily live by connecting at A. That would also reduce the territory you can make at the bottom. You both seem ignore this.]
+;B[no];W[mp];B[kq]
+(;W[kp]LB[ms:B][ns:A]C[This move should have been at A. If black answers then the exchange is certainly good for you because you prevent a black connection at B which would make his group a lot stronger. If black doesn't answer you get an opportunity to capture the three stones which would make you much stronger in the lower right.]
+;B[iq]
+(;W[jp]C[j4 would have been better here - he ended up getting much closer to the top than I should have allowed
+
+j4 has problems too. See variation for a possible continuation if white plays j4. O1 is still important.]
+;B[ip];W[io];B[hp]LB[eo:A]C[Ok, at this point I was still thinking in terms of killing all of his stones on the bottom, though I realized it would be a bigger job than I'd initially thought.  Was that actually possible here?
+
+At this point it's not possible. If you intent to kill the black group, you should first cut it off from the corner. Perhaps you could have killed the stones if you attacked them from the beginning. You first tried to kill the corner. You cannot expect to kill all black stones.
+
+Your last move was not good. You drive black into your territory and you have to be careful he doesn't get a chance to cut at A.]
+;W[rr]C[Anyway, I realized that he could live in the corner and dealt with it, though I really couldn't afford the extra move.  I knew he could connect under at n1 - I should have just played there and let him live in the corner if he wanted to.  Still under the impression that I could kill everything.
+
+If you first played O1 (still a good move) then you could kill the corner.]
+;B[rs]C[Black should just connect at N1.];W[rq]
+(;B[hr]C[Black should give atari from the other side.];W[gq]
+;B[go];W[gl]C[I badly misread this - thought I could stop him from connecting to the top group even if he took h6
+
+As long as black can connect to the corner and live, preventing a connection with the top group is not important.]
+;B[hn];W[in];B[hm];W[hl];B[im];W[kn]TR[pp][qo][po][oo][no]C[I guess technically I could have played j8.  By now I was intensely aware of n1, and how much trouble this whole clump would be in if he played there and connected to his stones on the 5 line.
+
+I think my problem in fights like this is consistency - for a couple of moves, I assume his stones are killable and attack like crazy, then I realize mine are in trouble and get overly defensive.  I spend a couple moves trying to escape, then decide to make eyes, then get distracted by something else.  The end result a lot of wasted moves.  What would have been your priorities at this point?
+
+This move makes good shape and is much better than j8. It keeps the marked stones isolated. The only drawback is that black can shut you in at j8 and therefore you have to be careful with your stones in the lower left and make sure they've got enough space to make eyes if necessary.
+
+I still think that the best move would be O1, or if you don't see it, N1. At this point O1 as well as N1 are gote, but if the possibility of a black connection gives you worries for as long as it does and by every move you play you have to think "What if black connects?" then it's worth playing a gote move to solve the problem.]
+;B[kl];W[ho]LB[eq:A]C[cutting him off like this might not have been a bad idea, but I didn't have a good follow-through.  I should have been trying to connect out or make eyes in the lower left, but I was still hoping to kill him on the bottom, I think.
+
+This is a nice cut, but a little premature because you're not strong enough. You should first play a move like A
+
+N1 is still the best move.];B[gn];W[gp];B[fp]
+(;W[eo]C[I had planned f3, but suddenly noticed this cut.  Allowing it would probably have meant sacrificing mystones around line 8, which I wasn't willing to do.  I considered f5, but didn't have time to read it out (we're both in byo-yomi now).  I think it would have been better - he would have connected anyway by capturing g3, but it would have cost him a couple of moves.
+
+It's hard to say which is best. I think F3 is best. See variation]
+;B[fq];W[jq]C[new tactics again, trying to nibble away at him from the right]
+;B[ir];W[il]C[realized it wasn't going to work and tried to escape...
+
+You see what I mean?  I won't bother with a play-by-play of my thought processes for the rest of this.  What I'd really like to hear is your assessment of the board every 5 or 10 moves - how do you decide what's possible to accomplish, how do you make a plan to do it?  I just get overwhelmed in these situations and start thrashing.]
+;B[jm];W[km]C[Better to run away with your weak stones.];B[jl]
+;W[ik];B[hj];W[fm]C[Unnecessary. Black cannot cut there anyway. Better to keep running.]
+;B[mm];W[ns]C[Finally. Good move.];B[or]
+(;W[mo]LB[mn:A]C[You could capture the black stones in a net with A. See variation.]
+;B[nn];W[mn];B[nm];W[oj];B[lo];W[os];B[ln];W[lm];B[jn];W[ko]
+;B[jo];W[ll];B[mk];W[mj];B[lk];W[ml];B[nl];W[nk]C[still trying to kill the o5 group; my profit in the corner would have been decent if I'd managed it.]
+;B[jr]C[Didn't notice that this group was in atari; I would have been fine if I'd n4, then captured his p2 lump
+
+Indeed.];W[ms];B[lp];W[ps]C[I had to play here to save this group
+
+Yes, but I think it's more important to save your group in the lower left.]
+;B[ki]C[but now I don't think my stones in the lower left could run out. Could they have made life in the corner?  I didn't think so (though that didn't stop me from trying it later :P).  Anyway, for now I decided to cut my losses and make territory on top.
+
+I don't think your stones in the lower right can live either, but it's not so easy for black to kill them so there's a chance he would have made a mistake. See variation.]
+
+(;W[hf]C[I could have been more aggressive - after being too greedy/optimistic on the bottom, I guess I was afraid of getting burned.  You don't need to review the endgame - typical ddk blundering for both of us.  I made up some points, but not enough.  I'm really interested in what happened in the lower left; I lose so many games this way.  Again, your help is much appreciated!
+
+
+I think the reason for your problems in the lower left is that you thought correctly that your stones were strong, but you didn't realise that the black stones near it made it weaker and weaker until there was trouble.
+
+You played very well in the beginning. Trying to make territory in the middle was not a good idea, but what was worse was that you sort of gave up that idea after nine moves.
+
+It would help if you evaluate the strength of groups more often and see in time that groups are weak or strong to decide whether to attack an enemy  group or stop attacking it or to defend one of your groups or not defend it.
+
+Your gained a lot of points in the endgame. Here your opponent was the one who made the mistakes.]
+;B[er];W[fb]C[This is a big endgame move.];B[ij];W[dr];B[ds]
+;W[fh];B[hh];W[hg];B[ig];W[if];B[jg];W[gi];B[fj];W[gh];B[hi]
+;W[kg];B[la];W[kb];B[pf];W[rg];B[sg];W[qf];B[rf];W[qg];B[sf]
+;W[qm]LB[sk:A]C[You could have killed the whole group if you played at A.]
+;B[rm];W[rn];B[sk];W[ea];B[da]
+(;W[fa]LB[db:A]C[You could play A. See variation.];B[cb];W[ce]
+;B[be];W[dc];B[db];W[bd];B[cc];W[bf];B[bc];W[ae];B[bg];W[ag]
+;B[ah];W[af];B[ad];W[ac];B[ab];W[be];B[ad];W[ef]C[Not necessary.]
+;B[kh];W[bk];B[dl];W[cm];B[bm];W[bi];B[ci];W[bh];B[bj];W[ai]
+;B[aj];W[ah];B[ak];W[lj];B[kj];W[jf];B[lh];W[lg];B[om];W[pm]
+;B[ol];W[ka];B[ls];W[qs];B[sn];W[so];B[sm];W[se];B[sh];W[li]
+;B[tt];W[ac];B[lc];W[ld];B[ad];W[eq];B[ep]
+(;W[ac]LB[fr:A]C[White can start a more important ko-fight by playing at A. See variation. Unfortunately black has too many big ko-threads in the upper right and I see only two ko-threads for white so it doesn't make a difference.]
+;B[tt];W[ad];B[tt];W[tt]TB[ks][js][is][hs][gs][fs][es][cs][bs]
+[as][gr][fr][dr][cr][br][ar][jq][hq][gq][eq][dq][cq][aq][kp]
+[jp][gp][dp][bp][ko][io][ho][fo][eo][do][ao][kn][in][fn][en]
+[bn][an][lm][km][gm][fm][em][dm][cm][am][sl][ml][ll][il][hl]
+[gl][fl][el][cl][al][rk][kk][jk][ik][gk][dk][bk][sj][jj][si]
+[ji][ii][jh][ih][dc][bb][ca][ba][aa]TW[ss][rs][sr][qr][pr][or]
+[nr][sq][oq][nq][sp][rp][oi][mi][oh][nh][pg][og][gg][fg][pf]
+[mf][kf][gf][ff][oe][ne][me][ke][ie][he][ge][fe][ee][pd][od]
+[nd][kd][jd][id][hd][gd][sc][rc][oc][nc][lc][kc][ic][hc][gc]
+[sb][rb][pb][ob][nb][mb][jb][ib][hb][gb][sa][qa][pa][oa][na]
+[ma][la][ja][ia][ha][ga])
+(;W[fr]))
+(;W[db];B[fa];W[dc]C[The rest is difficult. Black should make a ko one way or another, but this is an opporunity to gain some more points.]
+))
+(;W[er]
+(;B[ar];W[ds]
+(;B[bs];W[fr];B[gr];W[fs];B[dq];W[eq];B[ep]C[White is dead.]
+)
+(;B[fr];W[bs];B[dq];W[eq];B[ep]C[White is dead.]))
+(;B[fr]C[If black answers here, white can live.];W[ar];B[es]
+;W[ds];B[eq];W[dq]C[ko]))
+(;W[ar];B[er]C[White dies.]))
+(;W[mn]
+(;B[nn];W[nm]
+(;B[om];W[nl]
+(;B[on];W[mo])
+(;B[mo];W[lo]
+(;B[ln];W[on];B[mn];W[ml])
+(;B[on];W[ol])))
+(;B[mo];W[lo];B[ln];W[on];B[mn];W[ml]))
+(;B[mo];W[lo];B[nn];W[nm];B[ln];W[on];B[mn];W[ml])))
+(;W[fq]
+(;B[eq]C[Black cannot cut. See variation.];W[fr];B[er];W[ir]
+
+(;B[ep];W[jq];B[il]C[This looks like a fair trade to me.])
+(;B[jq];W[hs]
+(;B[ep];W[ls])
+(;B[fs];W[gr]
+(;B[ep];W[ls])
+(;B[es]C[This is not good for black.];W[ep];B[fo];W[gs]
+(;B[js];W[jr])
+(;B[ms];W[dr])))))
+(;B[eo];W[ep];B[fo];W[er]C[The black stones on the bottom are dead. This is a good result for white.]
+)))
+(;B[gq]))
+(;W[ip];B[jp];W[jo];B[lo];W[lp];B[ko];W[jq];B[ms];W[mo];B[mn]
+;W[jp];B[nn];W[rm];B[rr];W[rp];B[km]))
+(;W[ns];B[mo];W[lo]))
+(;W[oq];B[or];W[pr];B[pq];W[os];B[op];W[ns];B[oq];W[qr]C[Black is in trouble.]
+))
+(;B[dq];W[cr];B[br];W[dr];B[eq]C[Now white's in trouble.]))
+(;W[fj];B[ek];W[fk];B[fl];W[gl];B[gm];W[fm];B[el];W[hl]C[The pushing may go something like this. black gets a nice left side, but that cannot be helped.]
+))
+(;W[mg]
+(;B[kf];W[jf];B[kg];W[mi]C[This is a more natural way to shut black in.]
+)
+(;B[ni];W[kg]C[If black doesn't want to be shut in, you can capture the two stones.]
+))
+(;W[kg];B[mg];W[nh];B[mh];W[ni]C[This is also a way.]))
+(;W[ri]
+(;B[rg])
+(;B[qj];W[rg])
+(;B[rj];W[si])))

@@ -1,0 +1,105 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.16]
+
+PB[GeorgeW]
+PW[cb22]
+WR[1k]
+KM[6.5]
+DT[2013-05-20]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[B+5.5]
+TM[1800]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+C[Hello dear reviewer,
+
+I've played this tournament game and lost. My opponent, who seems 3-4 stones stronger to me, told me after game that I made bad use of my influence. Could you point out my mistakes and give me some advice on how to make better use of my influence ?
+
+Thanks for all your advices and the time spent on this review !
+
+smonds3 [3d\] : Hello, I'll be reviewing. I both players missed some chances in the opening and then white made a few passive responses to black's agressive moves. This lead to white missing out on territory to win the game.]
+;B[qd];W[dp];B[pp];W[dd];B[fc];W[od]LB[nc:C][oc:B][nd:A]C[[cb22\] : Is this move correct ?
+
+smonds3: It is common to avoid mini (micro) chinese or enclosure fuseki with this move. Your move is the most popular approach for white 6 if chosing to play this way. Moving at 'A' is next most popular. Both B and C have been tried but are rare (I found only 5 instances in a 70,000 game database).]
+
+(;B[ld]LB[cf:A]C[smonds3: Most common here is a double approach to white's tenuki at A (see var). I did a database search and this pincer move was played in 9 out of 240 games compared to about 90 out of 240 at A.
+
+The double approach is more active, and white cannot easily make a big advantage out of playing once more in the upper right. But pincer is clearly possible option.]
+
+(;W[of]LB[pg:A]C[smonds3: This move indicates a 'fighting' idea. Moving at A is a 'settling idea' (see var). In professional play, your move and the move at A are equally popular. It is a matter of style.]
+;B[qf];W[oh];B[id]LB[cf:A]C[[cb22\] : didn't expect this answer by black. what is the best white answer ?
+
+smonds3: I found this sitiuation only in 2 pro games in my database. Your next move is the right idea. Instead of black's game move, moving at A seems more attractive and active. Black's move here is defensive and doesn't pressure white.]
+;W[qh]C[smonds3: It is always good to enclose someone's group early in the game. This feels good.]
+;B[oc];W[nc];B[pc]
+(;W[kc]LB[nd:A]C[smonds3: This is the first 'true mistake.'  It is an overplay. It is hard to fight when there are weaknesses in your own position. Also please consider: Black is not likely to protect this point if you don't play it immediatly. It would be slow for black to play to protect this if white simply plays at A. (see var)]
+;B[lc];W[kd];B[ke];W[le];B[kb];W[je];B[kf];W[jd];B[jb];W[ie]
+;B[ng];W[md];B[me];W[lf];B[lg];W[mf];B[nf];W[ne];B[mg];W[me]
+;B[mb];W[kg];B[og];W[pg];B[pf];W[oe];B[mi];W[pj];B[pl];W[nj]
+;B[lk]LB[mi:B][nj:A]C[smonds3: Now that the fight has resolved mostly, it is time to evaluate. Black has more territory from the fight (on the upper side). White does have a solid position by capturing two stones. 
+
+Black is better in the fight because the white group at A feels like and 'inside group' compared to the black group at B which feels like an 'outside' group. In a fight, this feeling of who is outside and who is inside is very important.]
+;W[mj];B[lj];W[kh];B[li];W[nl];B[ni];W[oj];B[lm]
+(;W[mn]LB[nn:A]C[smonds3: This knight's move leaves a cutting point. Simply jumping at A seems easier and better.]
+;B[pn];W[np];B[ko];W[qm];B[pm];W[ql];B[qk];W[rk];B[pk];W[qj]
+;B[cn];W[fq];B[cf];W[ee];B[cq];W[cp];B[dq]
+(;W[ep]C[smonds3: This move is a passive. By not removing liberties on black's inside group, it makes life with less effort. (see var)]
+;B[bp];W[bo];B[bq];W[co];B[bn]
+(;W[dn];B[dm];W[em];B[en];W[do];B[dl];W[fn];B[el];W[fm];B[cc]
+C[smonds3: Black is now leading. Black has almost all corners and white has very little territory. The center seems mostly pointless.]
+;W[dc];B[cd];W[gd]LB[dg:A]C[smonds3: Pressing at A restricts black and builds some in the center. This move of white has very little point value.]
+;B[nn];W[mm];B[ml];W[nm];B[gp]LB[qq:A]C[smonds3: If white can get at A, the whole black group is in danger. This is the crux of black's base. Black needed to just defend the corner and would be a very comfortable win.]
+;W[ip];B[gq];W[fr];B[gn];W[an];B[ap];W[bm];B[cm];W[ao];B[fp]
+;W[eq];B[dr];W[in];B[gm];W[fl];B[fo];W[eo];B[hl];W[bl];B[ck]
+;W[fj];B[ci];W[oq];B[pq]C[smonds3: Now that white has helped black, the game is lost. Black has too many points. No further comments.
+
+Thank you for letting me review your game.];W[kq];B[jl];W[hr]
+;B[mq];W[or];B[gr];W[gs];B[jq];W[jp];B[kp];W[kr];B[pr];W[ln]
+;B[no];W[mp];B[kn];W[lp];B[ii];W[jm];B[km];W[il];B[ik];W[im]
+;B[hk];W[ek];B[bk];W[ro];B[rn];W[qn];B[qo];W[rm];B[rp];W[sn]
+;B[hd];W[gc];B[he];W[mc];B[lb];W[hf];B[hb];W[ge];B[gi];W[gb]
+;B[nb];W[eh];B[cb];W[ch];B[bh];W[cg];B[bg];W[di];B[dj];W[dk]
+;B[cl];W[ej];B[cj];W[hh];B[jj];W[hi];B[hj];W[ho];B[go];W[df]
+;B[ce];W[ps];B[qs];W[os];B[rr];W[ak];B[aj];W[am];B[al];W[db]
+;B[ih];W[hg];B[da];W[ea];B[ca];W[de];B[rg];W[ic];B[ib];W[hc]
+;B[ri];W[rj];B[gj];W[kl];B[jk];W[mk];B[ll];W[ji];B[ki];W[jh]
+;B[fh];W[fg];B[fi];W[ei];B[es];W[fs];B[hq];W[iq];B[ir];W[hs]
+;B[jo];W[io];B[rh];W[ig];B[ij];W[nh];B[qg];W[ph];B[kk];W[bs]
+;B[br];W[ak];B[bi];W[op];B[oo];W[om];B[gh];W[gg];B[fa];W[eb]
+;B[ga];W[fb];B[ha];W[pe];B[qe];W[si];B[sh];W[sj];B[sp];W[so]
+;B[ok];W[nk];B[er];W[jr];B[al];W[qq];B[qr];W[ak];B[dg];W[dh]
+;B[gk];W[fk];B[al];W[cs];B[ar];W[ak];B[sl];W[sm];B[al];W[jf]
+;B[ak];W[is];B[pd];W[on];B[po];W[tt];B[tt]TW[ec][fc][ed][fd]
+[hd][id][nd][fe][he][ke][ef][ff][gf][if][kf][dg][eg][jg][sk]
+[rl][sl][en][rn][jq][lq][mq][nq][ir][lr][mr][nr][js][ks][ls]
+[ms][ns]TB[aa][ba][ia][ja][ka][la][ma][na][oa][pa][qa][ra][sa]
+[ab][bb][ob][pb][qb][rb][sb][ac][bc][qc][rc][sc][ad][bd][rd]
+[sd][ae][be][re][se][af][bf][rf][sf][ag][sg][ah][ai][bj][kj]
+[kl][qp][aq][qq][rq][sq][cr][sr][as][bs][cs][ds][rs][ss])
+(;W[an];B[er];W[fr];B[bl]C[smonds3: Slightly better result than in game.]
+))
+(;W[eq];B[bp];W[bo];B[bq];W[co];B[bn];W[ao];B[dr];W[dn]C[smonds3: This is a common pattern for this situation.]
+;B[cl];W[dl];B[dk];W[el];B[ck];W[ek];B[di]LB[kl:A][qq:B]C[smonds3: White can keep an eye on the peep at A then an attack. White at B is also very attractive.]
+))
+(;W[nn];B[pn];W[lo]C[smonds3: I prefer this way to get ahead of black.]
+))
+(;W[nd]LB[nb:B][re:A]TR[hc][kc][od][of][oh][qh]C[smonds3: To play here is very thick. Appreciate the power of the marked group. The center fighting in the middle game will be easier for white with this wall. Also, black will have a hard time making anytime of large territory. Also there is aji at A which makes the decent at B virtually sente. White can perhaps aim in later on the top side. Black will not play another move there right now. Please notice how simple and solid this way of playing is.
+
+Also though, it is still a game. Black has sente and more territory. White has thickness and komi so it is mostly even, but I prefer white slightly.]
+))
+(;W[pg];B[oe];W[ne];B[of];W[pd];B[qf];W[qc];B[qe];W[nf];B[og]
+LB[pb:B][rc:A]TR[dp]C[smonds3: In case you are not familiar with this common joseki, white can take a big corner at A if the ladder in the lower left is good for white. White can also calmly defend at B.]
+
+(;W[rc];B[nd];W[md];B[nc];W[mc];B[ob];W[oc];B[nb];W[mb];B[pb]
+;W[pc];B[me]TR[dp]C[smonds3: This ladder must be good for white. Black will still force this way to get many forcing moves and ko threats.]
+;W[kb];B[kc];W[lb];B[qb];W[rb];B[jb];W[qa];B[fp];W[mf];B[le]
+;W[lf];B[kf];W[kg];B[jf];W[mh];B[cn])
+(;W[pb];B[cf];W[ee];B[cc];W[qk]TR[pg]C[smonds3: A possible game. What I am showing is that whtie can play the marked move to settle the upper right as opposed to jumping out.]
+)))
+(;B[cf]TR[od]C[smonds3: This is the most active way for black to play. It is also the most popular move from professional play. It is active. Black will wait to respond to the marked stone after the upper left is settled.]
+;W[df];B[dg];W[ef]
+(;B[cc];W[ce];B[dc];W[cg];B[fq];W[dn];B[dr];W[cq];B[iq]C[smonds3: Simple and even for both.]
+)
+(;B[eg];W[ce];B[cg];W[ff];B[cc];W[dc];B[db];W[bd];B[bb];W[hc]
+;B[gc];W[hd];B[gh];W[hf];B[cn]C[smonds3: This way of play (or similar minor variations) is also found in many pro examples.]
+)))

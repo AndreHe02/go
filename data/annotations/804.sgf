@@ -1,0 +1,80 @@
+(;FF[4]GM[1]SZ[19]AP[SGFC:1.13b]
+
+PB[ug99]
+BR[4k]
+HA[0]
+PW[benchmark]
+WR[3k*]
+KM[0.5]
+DT[1999-03-19]
+RE[W+Resign]
+GC[White had an easy fuseki but with 32 he made a mistake that 33 could turn into an upset for black, 35 was what could be called the losing move, but white had a killable group at the end.]
+
+
+;B[pd];W[dp];B[dd];W[qp];B[cn];W[fp];B[bp];W[cq];B[ck];W[fc]
+;B[ec]C[This is usually a bad move unless the white stone at F17 is
+already pincered and you want to make it heavy to attack.];W[fd]
+;B[df];W[jd]C[The white stone at F17 was not already pincered, so instead
+of becaming heavy it became strong and white has a good
+position at the top. C17 is still open to invasion.];B[ch]C[Right side is bigger, more urgent and a white move here will not put
+in danger noone of the blacks groups.
+M17 threatening K18 next would also be good.];W[nc]C[Good point, white stones look balanced, while black's are all but one
+at the same side.];B[nd]C[I'm not sure this is the right joseki: strengthening white
+will make the threat of black E18, that transforms the
+corner in territory,  less dangerous.];W[md];B[ne]C[This is defnitely wrong, P17 instead, trying to make white
+feel overconcentrated would be better.];W[oc];B[pc];W[qf]C[Because of K16, and because it's backed up by F16,17, white
+can take sente and attack forcefully.];B[pe]C[R15 would be the normal answer, but after white Q14 b P16,
+w Q10 would make miai of P4 or P6, setting up a nice
+position for white or rescuing the 2 stones at O,P17.
+So I suppose Q15 is good.];W[ph];B[op];W[pn];B[qq]C[Instead of reinforcing white at the corner that will make
+an invasion at the right side more diffcult just playing L3
+looks better.];W[rq];B[pq];W[ro];B[hq]C[Still L3 is the move, now white L or M 4 would left black
+with 2 very weak groups.];W[mq];B[kq]C[Because of white mistake appears this faboulouse L3 that at
+once stabilizise H3, thus weakening the 3 white stones at the
+lower left,  and attacking N3 helps the black lower right stones.]
+;W[mo];B[mr]C[This doesn't connect, P6 was the move. white can in fact
+play now at O 12.];W[nr];B[nq];W[np];B[or];W[oq]C[Instead of going for the ko white also can play
+atari and connection at M2,3. That leaves the 2
+black stones at the left in a very weak position.];B[eq];W[lr]
+;B[fq]C[I thought the ko threat was to cut now at E4 !];W[ep]
+;B[gp];W[fn];B[hn];W[gm];B[em];W[hm];B[jn];W[oj];B[qk]C[Looks too deep an invasion, P8 would make the
+combination of  O3 and then P6 more interesting.];W[pl];B[rh]
+;W[qg];B[rm];W[ql];B[rl];W[rj];B[qj];W[ri];B[fk];W[jm];B[km]
+;W[in];B[io];W[im];B[kn];W[cj];B[dk];W[di];B[fh];W[fi];B[gi]
+;W[dh];B[cg];W[eg];B[ff];W[ef];B[ee];W[fj]C[This is a mistake, instead of F10 white should have
+played G12.];B[gj];W[gh]C[Now is too late.];B[fg];W[gk];B[ij]
+;W[hh];B[ii];W[fe];B[ei];W[bq];B[cp];W[dq];B[do];W[en];B[fm]
+;W[gn];B[go];W[ed];B[de];W[dc];B[cc];W[eb];B[db]C[No good unless you really have a lot more ko threats than
+white.];W[cb];B[ec];W[gf]C[Looks sente, but will remove the aji of white playing  at D7, so ...]
+;B[ej]C[That was not a ko threat !
+Not only the white invasion it's a failure: now the white stones
+emerging from the lower left are in big danger. We'll see them
+at the end of the game.];W[dc];B[nq];W[ms];B[ec];W[da]C[And your first threat then must be extending at D19 and make
+it a very big ko.];B[dc];W[gb];B[no];W[mp];B[ol];W[pk]C[Instead of Q9 I would play P7.]
+;B[pm]C[P6 instead of Q7 looks better.];W[om];B[nn];W[oo];B[po]
+C[Instead of Q5 the double atari of P6 is better.];W[on];B[qn]
+;W[qm];B[rn];W[pp]C[Looks like you resigned here, but which is the status of
+the lower left corner white group ?];B[jk];W[jl];B[kl];W[hk]
+;B[ik]C[There's no way to get an eye at the center.
+Let's see white possibilities in the corner:
+Now, of course if white D7 threatened a double
+atari at F8, so forced black E9, white could
+then play at C7 and things would become a lot
+more complicated for black.]
+(;W[er];B[fr]
+(;W[ds];B[bs]
+(;W[cr];B[fs]C[Only 1 eye in the corner.])
+(;W[cs];B[aq];W[ar];B[fs];W[br];B[dr]C[Still only one eye.]
+)
+(;W[br];B[aq];W[ar];B[cs];W[cr];B[fs]C[Again 1 eye.])
+(;W[aq];B[fs];W[br];B[as]C[Neither more than 1.]))
+(;W[cr];B[bs]
+(;W[ds];B[fs]C[Dead.])
+(;W[es];B[cs]C[Dead again.]))
+(;W[dr];B[es];W[bs];B[ar];W[aq];B[br]C[And C2 -D1 are miai: white's dead.]
+))
+(;W[bs];B[ar];W[er];B[fr];W[aq];B[dr]C[Again 1 eye.])
+(;W[ar];B[bs];W[er];B[fr]
+(;W[es];B[fs]C[And again only 1 eye.])
+(;W[ds];B[fs];W[cs];B[es]C[No way.]))
+(;W[dr];B[er];W[bs];B[ar];W[aq];B[ds]C[Neither this way.]))

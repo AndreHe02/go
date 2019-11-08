@@ -1,0 +1,284 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+PB[Alopias]
+BR[19k]
+HA[2]
+PW[JayG136]
+WR[17k]
+KM[0.5]
+DT[2008-01-09]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[W+30.50]
+TM[900]
+RU[Japanese]
+
+AB[pd][dp]C[Hey so I'm pretty new to go, I have played a fair amount against igowin on 9x9, but still have little experiance with 19x19. If I had to point out some major flaws in this game for me, it would certainly be a problem of seeing the whole board, at every point i kept choosing territory over influence, and found myself facing a strong black center which he fortunately did not defend well.
+I am also still unfamiliar with basic joseki sequences, I have glanced at the Kogo's library but have yet to learn/understand the most important ones. I also at several points made very small moves when globally there was something more important. Also I am unfamiliar of the concept of "thickness". I know when to spot it but do not know how to use it or defend against oppenent's thickness. Any advice from a good player would be greatly appreciated! Thank you very much for reviewing my game!
+
+ps: I apologize for some of the messy alternate sequences I have up, I was looking at different variations that were possible in the game, but could not figure out how to delete the nodes that I made.
+
+pps: Most of my questions are about early game moves, I feel that improving my endgame should be of low priority and so please you do not need to waste time commenting on the late game moves (move 200+).
+
+
+
+Hello,
+
+I'm Felix, been playing for a while but only recently started looking at books, reading reviews on GTL, and learning the proverbs and things on the internet at Sensei's Library - my improvement from 15/16k to 10k has happened fairly quickly and recently, so hopefully that'll help my comments to be more understandable.  I think it will work well as I like to focus on the startgame moves, the irection of play, and don't care much for the endgame at the moment.  Also I'm not familiar with many joseki at all, instead relying on some fundamentals to get me through close encounters.  The variations I show are not the best play for both sides or anything - more just a step in what I think is a more beneficial direction (a player a few stones higher will most likely think some of my moves are terrible!).
+
+Thickness:  The two proverbs I remember about thickness are: 
+Always play away from thickness (both your own and your opponents)
+Use thickness to attack (not to secure territory)
+
+Hopefully I will be able to point out where these (& other) proverbs apply to your game! 
+
+Enjoy the review,
+
+Felix  (10k KGS, 10-Jan 2008)
+
+ps. I'll also try to figure out how to clean up the nodes [it was in Tool > Cut in CGoban3\]]
+;W[gq]C[Alopias [19k\]: have fun
+
+F: Aggressive start!  General flow of the game is usually Corners, Sides, Centre, as the corners are the easiest place to secure territory (and the centre the most difficult place).]
+;B[gp]C[JayG136 [17k?\]: gl hf
+
+This is not in the joseki library, so I did not know how to respond. I know that him attaching to me is supposed to make me stronger but how exactly should this play out? What are my options?
+
+F: I'd probably hane at H4 and hope to build a large moyo on the right (see variation)]
+
+(;W[fp]C[F: Sometimes it is best to let the opponent have what they want, whilst you take something more valuable elsewhere, hence why I'd hane and try to build up a big moyo in the corner.]
+;B[go]
+(;W[eq]LB[fo:B][eq:A];B[ep];W[dq];B[fo]
+(;W[fq]C[Am I forced to fill here?
+
+F: Not really - there are other options.  Don't be afraid to sacrifice a stone or two or three every so often in exchange for something big - you'll find your opponent will be hungry to eat them whilst you're happily winning the game elsewhere... (see variation)]
+;B[de]C[Is the exchange in the bottom settled enough for my opponent to play this?
+
+F: Cutting point remains at E5, and a fairly big territory grab at C4, but putting a stone near an empty corner is a very big move]
+
+(;W[fc]C[F: Better to play D17 I think, as you can make two eyes in the corner quite easily.
+Better still to play in the bottom right corner and pressure this position later!  Corners should be where your first moves are, as you can roughly secure many points in just one or two moves - then move onto sides...]
+;B[fd]C[once again he attaches, but whats the best way to respond?]
+;W[ed]C[figured taking liberties away would be best, but i feel week doing this.
+
+F: It's not so bad, but I'm not really sure - bigger territorial moves make it easier to see how you should approach the smaller battles.  You should play urgent moves before big moves, and by constantly attacking you are creating a lot of urgent moves for yourself, without securing much territory....]
+;B[fe];W[dd];B[ee];W[gc];B[gd];W[ce]
+(;B[cf];W[cc];B[dj]C[F: This is good for black, though ideally a space lower as the top wall is thicker.]
+;W[cp]C[too small? I thought it was sente because of the cut possibliity but my thought now is that my oppent should have ignored this move. Does a pincer work when there's a wall there?
+
+F: Looks quite small unless you can surprise him in a battle using the E5 cutting point.  Helps black to create a solid wall, making any possible invasion much harder.  Once again, you can save these moves for later, don't rush them.]
+;B[co];W[do];B[eo]
+(;W[dn];B[cn];W[cm]C[I messed up this sequence];B[dm];W[bn]
+;B[bo];W[ao];B[bp];W[cq];B[bm];W[bq];B[an];W[pp]C[F: Finally!]
+;B[qq]C[F: Best you can hope for here is to keep him small in the corner & to get influence down a side.  I'd suggest the right hand side in order to keep a door open to the centre, and counter the influence of the black top right corner stone.]
+;W[qp];B[pq];W[oq];B[or];W[op];B[pn]C[This move really through me off, I thought I was finally building influence but now it feels like its all gone
+
+F: Yeah that looks annoying, but you can pressure the group below now, and then you can pincer that stone and either capture it or take a chunk of territory the other side of it. Could be worth simply separating it from the group below & pincering it immediately.]
+
+(;W[nr];B[os];W[rq];B[rr];W[sp]
+(;B[qs];W[pr];B[qr];W[sr]C[F: Good play to kill this group]
+;B[ps]
+(;W[ns]LB[mq:A]C[F: Not necessary to try seal him in like this - N3 is better to protect the cutting point and keep sente should he try to escape.  Patience is key.]
+;B[nq];W[mq];B[np]
+(;W[mp]C[F: Probably better to play out the ladder for a few moves here, even though B would win it in the end - would help to create influence facing the weak black stone and securing your territory at the bottom (see variation)  This way you're helping him build a solid wall cutting off your right hand side group to the centre.]
+;B[no];W[lr];B[ro];W[rp];B[so];W[sq];B[qo];W[rs];B[ss]
+(;W[ap]C[This was pointless right? It my understanding is that he must come up with the ko threat, but just for practice, what ko threats do I have?
+
+F: That's right.  Can't see many obvious KO threats - E7 or E6 to pull out those stones perhaps, but they would struggle to escape if B uses his thickness well.  D14 with a C13 follow up would be big too.]
+;B[po];W[rs];B[oo];W[pr]C[well I killed the group but look at that wall I let him make! Was it worth it?
+
+F: Hard to say - certainly damaging if he manages to use his wall well, but at the moment he doesn't really have any surefire territory, compared to your three corners.]
+;B[aq];W[ar]C[waay to small right?];B[ap]C[but my opponent is generous]
+;W[pg]C[F: Left a small defect at B2];B[og]C[once again my oppent attaches, which this time perhaps is correct?
+
+F: I doubt it is correct, perhaps a lateral extension rather than hane would be appropriate here to keep things simple.]
+;W[oh]C[not sure which direction was best, I just wanted to take a stab that the center, my guess is my original mistake was allowing him to have so much influence.
+
+F:  To settle this group you'll have to play around Q9 in a few moves, which seems way too close to his thickness, so leaving an option to escape to the centre could be wise.]
+;B[ng];W[nh];B[mh];W[mi];B[lh];W[mj]TR[dn][mp]SQ[qe][kj][pk]
+C[now I feel the pressure of the bottom walls,  I feel like a good opponent should be able to  kill this group, what should I have done differently?
+
+F: Not easy to kill your group, as it has three options; settle with a move around Q9 or R15, or xtend with L10 to join up with either the weak D6 group or strong N4.  Look at the bright side - it helps to negate black's thickness on the bottom.]
+;B[kj]C[F: There goes one option - till not urgent to use another one as you can play as a reaction to his pressure still, if there are bigger points elsewhere on the board. Some interesting variations from this position.]
+
+(;W[hd]C[my hope was to turn to the center, but this just led to another wall.
+
+F: Good sense of direction of play, to reduce black's moyo, but the approach is gentle and helps black to secure big territory on the left.  I'd prefer a one space jump to open up some potential cuts, and making use of the cut at N13. (see variation)]
+;B[he];W[id];B[ie];W[lc];B[ld]C[F: Again, worth a risky play to mix things up]
+
+(;W[kc];B[kd];W[jd];B[je]C[once again I let him build a wall.
+
+F: See earlier variation - a bit of sacrificing and mixing things up could've prevented this, it looks quite hard to break inside now. Most of the time if you wish to gain something, you must give something in return.]
+;W[bf];B[cg]
+(;W[be];B[bg];W[km];B[mm];W[ll];B[lm];W[kl];B[ko]C[F: Knights move - cuttable.  With the potential cut at D5 too, this could add up to something.]
+
+(;W[jo];B[mo]C[this does not seem to accomplish anything, I feel lucky that I was able to connect]
+;W[jn];B[kn];W[jm];B[ip];W[jp];B[lp];W[jq];B[lq]
+(;W[iq]LB[iq:A][mr:B]TR[na][oa][nb][ob][nc][oc][qd][rd][sd]
+[qe][re][se][ih][gi][hi][ii][qi][ri][gj][hj][ij][pj][qj][rj]
+[fk][gk][hk][ik][ok][pk][qk][fl][gl][hl][ol][pl][fm][gm]C[this move felt bigger, is it?
+
+F: I think so.  Take a step back and see where the completely undecided areas of the board are though... taking the initiative in those areas is worth more than the ~10 points at the bottom.]
+;B[mr]
+(;W[kr]C[too small again?
+
+F: Yep.  Sacrifice and global perspective...];B[hm]C[F: Ouch.]
+;W[ik];B[il];W[jk];B[jl]
+(;W[im]C[I think I only helped him here];B[hl];W[kk];B[ml];W[mk]
+;B[lj];W[lk];B[ok];W[oi];B[oj];W[qi];B[qj];W[rj];B[qk];W[rk]
+;B[rl];W[hi]C[F: One space jump would work well here too - J11]
+
+(;B[ii];W[hj];B[ij];W[hk];B[fj];W[gh];B[gi];W[fi];B[gj];W[hh]
+;B[fh];W[fg];B[eh];W[gf]TR[pi][ri][br]SQ[nb][ob][nc][qe][hp]
+C[F: After these last moves invading the centre you should feel confident about our position, so can afford to play more conservatively in the rest of the board.  Re-evaluate the weaknesses in your groups (not many), and the biggest territorial areas just waiting for someone to secure.  Once you secure the territories in question then you can continue wreaking havoc with your invasion.]
+;B[ge];W[nb]C[F: A good time to switch, though if black ignores you and plays G9, it's a very tight game, so you'd have to make the most of this move with a follow up.]
+;B[nc];W[ob];B[oc];W[pb];B[mc];W[mb];B[jc];W[jb];B[pi];W[ph]
+;B[ri];W[pj];B[sk];W[rh];B[si];W[sh];B[sj];W[qe];B[pe];W[qd]
+;B[pf]C[my oppoent seemed content to let me have the outside, but I felt like he should have fought for the corner
+
+F: Yes, though he is doing a good job in securing most of the walls of his moyo.  Your play here is quite solid.]
+;W[qf]C[JayG136 [17k?\]: hello?];B[qg];W[qh];B[pc];W[qc]C[JayG136 [17k?\]: where'd you go]
+;B[pk]C[Alopias [19k\]: seems i lost connection]
+(;W[nk]C[Alopias [19k\]: sorry, didnt realize,
+
+F: Small - both your groups are safe, and invasion into his looks impossible & uneccesary. See variation from the last move which illustrates how you can make use of your good position to solidly continue invading and reducing your opponents territory.  The game is pretty even at this point, so choosing the moves which benefit you the most is important here.]
+;B[nl]C[Alopias [19k\]: because your time seemed to 0]
+(;W[gl]C[I thought maybe I could kill];B[gk];W[gm];B[hn];W[en]
+;B[em];W[fn];B[gn];W[kg]
+(;B[kf];W[kh];B[ih];W[li];B[ki];W[mg];B[mf];W[lg];B[lf];W[ig]
+;B[jg];W[jh];B[jf];W[hf];B[if];W[hg];B[ff]C[JayG136 [17k?\]: i have to go]
+;W[hp];B[io]C[I'm very bad at counting, I felt like i should have lost this game.
+
+F:  I find corners and sides always score more than I think, so after looking at the top and the bottom and then the big invasion of the centre moyo (which was the clinching factor) I'd guess you'd be ahead. His territory around P7 could've easily been much reduced by playing there first.]
+
+(;W[br]C[Alopias [19k\]: noboddy yet];B[fm];W[ag]SQ[eg]C[F: I'd keep pushing through with E13 before making this move, not much difference though.]
+;B[ah];W[af];B[bi];W[ms];B[mq];W[kp]LB[eg:A][pi:C][nj:B]C[F: This move is not actually worth any points... the marked moves are though (in order).]
+;B[ho];W[hq];B[nj];W[ni]C[F: Not necessary - E13 is 3 points in gote.]
+;B[eg];W[gg]C[F: Curses];B[cl];W[pi]C[JayG136 [17k?\]: pass?]
+;B[tt];W[tt]TW[aa][ba][ca][da][ea][fa][ga][ha][ia][ja][ka][la]
+[ma][na][oa][pa][qa][ra][sa][ab][bb][cb][db][eb][fb][gb][hb]
+[ib][kb][lb][qb][rb][sb][ac][bc][dc][ec][hc][ic][jc][rc][sc]
+[ad][bd][cd][rd][sd][ae][re][se][rf][sf][qg][rg][sg][ih][lh]
+[mh][ii][ji][ki][ij][jj][kj][lj][pq][qq][cr][dr][er][fr][gr]
+[hr][ir][jr][or][qr][rr][as][bs][cs][ds][es][fs][gs][hs][is]
+[js][ks][ls][os][ps][qs][ss]TB[md][nd][od][ke][le][me][ne][oe]
+[df][ef][nf][of][dg][bh][ch][dh][ai][ci][di][ei][fi][aj][bj]
+[cj][ej][rj][ak][bk][ck][dk][ek][fk][rk][al][bl][dl][el][fl]
+[gl][ol][pl][ql][sl][am][cm][gm][nm][om][pm][qm][rm][sm][bn]
+[dn][en][fn][ln][mn][nn][on][qn][rn][sn][ao][do][lo][mp]C[JayG136 [17k?\]: gg
+Alopias [19k\]: thanks & bye
+
+F: I think you could most benefit from reading up on a bit of opening theory, and having patience at the start of a match until you have some secure positions. 
+
+If an opponent has no corners and good centre influence then it is important to invade before they can completely wall you out - this worked out well for you in the end, but was left a little late I felt and you wouldn't get lucky against a player a few stones stronger.
+
+You showed some good awareness to switch to safe territorial moves after your invasion in the middle-game, but could have gained even more from having patience when switching back to the invasion & pushing through steadily - it can be annoyingly difficult to stop such moves.  Overall I thought you played well, and with a little work on opening play, gaining influence in the right direction, and general patience, you can easily jump up a few stones in strength quickly.  I recommend the book "Opening Theory Made Easy" for further reading.
+
+Hope you found this review helpful!
+
+Felix37
+felix37@gmail.com])
+(;W[in];B[fm];W[ho]))
+(;B[ig];W[ih];B[jh];W[ji];B[jj];W[jg];B[kh];W[if];B[jf];W[hf]
+;B[lf]TR[kg][gl]C[F: Score estimator predicts W wins by just 7.5 if both your more risky invasions were dealt with properly (marked stones)]
+))
+(;W[io];B[hp];W[hq];B[ms];W[gl];B[gk];W[fm];B[en];W[hn]C[F: B has to make mistakes for this outcome]
+))
+(;W[ih];B[jh];W[ji];B[jj];W[jg];B[kh];W[ig];B[kg];W[gk];B[fl]
+;W[fk];B[ej];W[ek];B[dk];W[el];B[em];W[dl];B[cl];W[fm];B[fn]
+;W[hp];B[ho];W[gl];B[gm];W[fl];B[io];W[eg];B[dg];W[jf];B[kf]
+;W[li];B[ki];W[hf];B[in]C[F: Non-risky white winning by ~22]
+))
+(;B[ij];W[hj];B[hk];W[jj];B[ii];W[ji];B[ih];W[jh];B[ig];W[jg]
+;B[kh];W[kg];B[lg];W[kf];B[lf]C[F: B has a very good outcome if he cuts your knights move like this.]
+))
+(;W[hl];B[im];W[kk]C[F: I'd just connect and wreak havoc from there.]
+;B[hk];W[hj];B[gk];W[ki];B[li];W[lj];B[ji];W[jj];B[kh];W[ii]
+;B[jh];W[gh]C[F: Rah.]))
+(;W[em]LB[hk:B][gl:C][em:D][kr:A];B[en];W[fl];B[gm];W[gk]
+(;B[hk];W[gl];B[hl];W[hm];B[im];W[hn];B[in];W[ho];B[io];W[hp]
+;B[il];W[gn];B[fn];W[fm]C[F: W can be fortunate])
+(;B[ik];W[hl];B[il]C[F: Hard to connect after this];W[hm];B[im]
+;W[hn];B[in];W[gn];B[io]C[F:  From here white has a chance to make another eye near the centre by fighting, using D8 and the space above...]
+)))
+(;W[mr]LB[iq:A][mr:B];B[iq];W[ir];B[hr];W[jr];B[hq];W[gr];B[hs]
+;W[gs];B[is];W[js]))
+(;W[kn];B[ln];W[lo];B[jo];W[hm];B[ho];W[en];B[fn];W[em];B[dl]
+;W[fm];B[gm];W[gl];B[gn];W[fl];B[hl];W[hk];B[il];W[im];B[jm]
+;W[jl];B[ik];W[jn];B[hj];W[gk];B[gj];W[io];B[hp];W[hq];B[ip]
+;W[iq];B[in];W[kp];B[jp];W[jq]C[F: B in trouble if he follows this path (though F7 group looks easy to kill if he reads ahead - there are other places he could slip up too)]
+))
+(;W[bg];B[be];W[cd];B[bh];W[ae];B[ag];W[bd];B[ch]))
+(;W[kd];B[ke];W[le];B[md];W[je];B[kf];W[jf];B[kc];W[jd];B[mc]
+;W[jc];B[lb];W[ig];B[if];W[jg]C[F: Sacrifice on the top rightish to gain access to the middle]
+))
+(;W[ic];B[id];W[hd];B[he];W[jd];B[hc];W[ie];B[hd];W[if];B[jc]
+;W[kc];B[ib];W[ke];B[kb];W[mg];B[mf];W[lg];B[lf];W[kg];B[kf]
+;W[kh];B[li];W[ki];B[lj];W[nf];B[of];W[ne]TR[pd][kf][lf][mf]
+[of][ng][og][lh][mh][li][kj][lj]C[F: It's not ideal but it certainly mixes things up - the territory sacrificed at the top seems small now compared to the potential gains by killing one of the marked groups.  Risky play, but worth it if you're behind.]
+)
+(;W[mg]C[F: You should know where this ladder leads and thus where you need a stone in order for this cut to work...]
+;B[mf];W[lg];B[kg];W[lf];B[le];W[kf];B[jf];W[ke];B[kd];W[je]
+;B[ie];W[jd];B[jc];W[id]
+(;B[hd];W[ic];B[hc];W[ib]C[F: Well whaddya know, the ladder is already good for white.  Just goes to show it's always worth reading these things out...]
+
+(;B[jb];W[hb])
+(;B[hb];W[jb];B[kc];W[me];B[nf];W[ne]))
+(;B[ic];W[hd]
+(;B[hc];W[he];B[hf];W[if];B[ge];W[jg])
+(;B[he];W[hc];B[ig];W[ld]))))
+(;W[pg];B[po];W[rs]))
+(;W[no]LB[no:B][mp:A];B[mp];W[lp];B[mo];W[lr];B[oo];W[nn];B[ro]
+;W[rp];B[qo];W[rs];B[ss];W[sq];B[so];W[rs]C[F: Same KO result, but black has two weak groups if W wins]
+))
+(;W[mq]LB[mq:B][ns:A];B[ns];W[ms]))
+(;B[sr]
+(;W[pr];B[qr]
+(;W[ps])
+(;W[ns];B[ps]))
+(;W[qr]LB[pr:A];B[pr];W[qs];B[rs]C[F: Many ways for black to make life]
+)))
+(;W[rp]C[F: Look for dual purpose moves - this one pressures the lower group whilst helping above.]
+;B[rq];W[pk];B[nr];W[nq]TR[pn]C[F: Black lives in the corner but the marked stone is in trouble and you now have a big opening into the centre, where his moyo seemed to be forming.]
+))
+(;W[cn];B[dn];W[bo];B[bn];W[do];B[cm];W[co]C[perhaps this is better
+
+F: Yep, but still it's not many points compared to what's available elsewhere on the board, and helps black to secure the wall to his territory]
+))
+(;B[cd];W[cc];B[bd];W[be];B[dc];W[ec];B[db];W[bc];B[ad];W[ae]
+))
+(;W[cp];B[dn]C[F:  This is probably better for black's damage limitation (see variations)]
+
+(;W[eo];B[do];W[en];B[em]C[F: Ladder (if the net wasn't possible) good for black]
+;W[fn];B[gm];W[fm];B[fl];W[gn];B[hn])
+(;W[do];B[eo];W[co];B[cn];W[bn];B[bm];W[bo];B[cl]C[F: White would waste moves this early on to secure the few points in the corner...]
+))
+(;W[eo];B[do];W[en];B[dn];W[fm];B[cq];W[cr];B[bq];W[br]C[F: Black's group with three looks a bit weak, but white has his own weak group he'll have to look after too...]
+)
+(;W[dc];B[cd]
+(;W[cc]LB[cc:A][fd:B];B[fd];W[fc];B[ec];W[eb];B[ed];W[gc];B[bc]
+;W[bb];B[bd];W[cj];B[ch];W[cm]C[F: White can make this group live if he plays quite sensibly.]
+)
+(;W[fd]LB[cc:A][fd:B]C[F: This is probably a much better reply actually]
+;B[ed];W[ec])))
+(;W[hq]LB[pp:C][fq:A][hq:B];B[fq];W[fr];B[fp];W[io]
+(;B[er];W[dr];B[gr];W[es];B[hr];W[iq]C[F: Black struggles to live near the side.  This is enticing your opponent into a battle where you have the advantage.]
+)
+(;B[gr];W[er];B[hr];W[iq];B[ir];W[jr];B[jq];W[jp];B[kq];W[kr]
+;B[lr];W[lq];B[kp];W[mr];B[jo];W[ip];B[jn];W[is];B[in];W[hs]
+;B[ho];W[gs];B[lo];W[pq]C[F:  Bit more complicated but still white always has the advantage if the cut comes on the other side, and gets a corner in this variation.]
+))
+(;W[pp]LB[pp:C][fq:A][hq:B];B[fq]
+(;W[dd]LB[dd:A][fr:B];B[hq];W[fr];B[gr];W[cp];B[er];W[dr];B[es]
+;W[ds];B[fs];W[co]C[F: Seems like a good tradeoff to me.])
+(;W[fr]LB[dd:A][fr:B];B[hq];W[cp];B[gr];W[fs];B[co];W[bp];B[bo]
+C[F:  You don't suffer a huge loss, and have the big benefit of having a stone in the bottom right corner.]
+)))
+(;W[fo];B[gn];W[fn];B[gm];W[fm]C[I explored this, but this seems wrong because of the stone at D4.
+
+F: Proverb here:  Don't push from behind.  You can never catch up! Though the thickness you have in this variation should be good enough to launch an effective attach on the black stone.]
+;B[fl];W[cq];B[dq];W[cp];B[co];W[bo];B[cn];W[bn];B[cr];W[br]
+;B[dr];W[do];B[dn];W[eo];B[bq];W[bp];B[bs];W[aq];B[dl];W[fr]
+C[F: White is alive on the left and black doesn't have space for two eyes at the bottom.  It's unlikely B would've followed the first few moves of this sequence though.]
+))
+(;W[hp];B[fp];W[ho];B[fq];W[hq];B[dj];W[mp]C[F: Pretty solid outcome]
+))

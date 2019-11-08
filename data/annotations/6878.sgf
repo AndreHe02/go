@@ -1,0 +1,244 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+GN[durachok-Googol-3]
+PB[Googol]
+BR[8k]
+PW[durachok]
+WR[7k]
+KM[0.5]
+DT[2008-09-14]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[W+10.5]
+TM[900]
+OT[3x20 byo-yomi]
+RU[Japanese]
+
+C[Review requested for Black (Googol [8k\] KGS)
+
+In this game I played very poorly in fuseki, so that the opponent could secure all four corners. It was a disaster for me, but I somehow managed to (partially) catch two W groups in the center. However, this was insufficient to come back and I lost.
+
+I have the following questions:
+
+1) Were there ways to prevent "my" corners from being invaded by W so severely?
+2) Were there ways to capture BOTH big W groups, so that the situation as in move 88 could not happen?
+3) And, as always - your general recommendations will be very appreciated.
+
+Thank you very much.
+
+---
+
+Hi,
+
+my name is Michał, I'm "ignus" on KGS. I will be doing the review.
+
+I think the most important advice is to play the opening in accordance with some baisc general principles. Try to play large moves first, and to play in the center after playing the corners and the sides. Try to make your stones working together. Pay attention, in 3-3 invasions, to block from the larger side- that is, the side on which you will have the best use of your wall.
+
+As to your questions:
+1) When you play on the 4-4 point, you are not claiming the corner. You should not complain that your opponents invades it, but rather welcome it. Your mistake was not that you lost the corners, but that you were not able to use the influence you built when your opponent invaded correctly.
+
+2) I'm not sure which two groups you mean. In any case, it is not the ojective in Go to capture as many groups as possible, but to make more points than the opponent. Your mistake was that you neglected your center moyo.
+
+In general I advise you to play as many games a spossible, and go through them by yourself (and ask yourself: "what went wrong in this game? what should I have played?). And do a lot of tsumego ;\]
+
+I hope my comments are helpful. My nickname on KGS is 'ignus'. If you have any questions, just catch me there. You can always ask me for a teaching game, or for a game review.]
+;B[pd];W[dp];B[pp];W[dd];B[qk]C[
+This is a strange move. You played two moves ( Q16 and Q4 ) on hoshi (star) points, which means that you're emphasizing influence over territory (and it also means you are willing to give away the corners. A stone on the 4-4 corner does not claim the corner, and invites the opponent to jump into it, so that a wall can be built). 
+
+This third move is inconsistent with that plan - it does not make territory on the right side. If you want to play in this area, It's probably best to make the san-ren-sei opening by playing at q10.
+
+There is an opening with r9 - the low Chinese opening. But in that opening q4 is at q3.]
+;W[dj];B[jj]TR[fq][fc][jd][jc][jq][jp]C[
+There is a general principle which is useful for players at your level. 
+
+Try to play in this order:
+
+1) Corners
+2) Sides
+3) Center
+
+This is because you need the fewest stones to make territory in the corner, a bit more to make territory on the sides, and you need most stones to surround territory in the center.
+
+Playing in the center now is therefore bad. You're not attacking, or building a framework. Normal moves here are e3, f17, k3, k4, k17, k16 (marked on the board).]
+;W[jd];B[iq]C[
+Remember, moves on the third line are for making territory. Here, you want to create a big framework (moyo) using the stones k10, r9 and q4. It's therefore better to play high, on the fourth line (at k4, for instance).]
+;W[nc];B[of]C[
+It's better to play at q14. The horse's jump shape (keima) has a  weakness, it can be cut.
+
+You can also think about attaching at o16, to build a wall facing your r9 stone (and thus creating a big framework).]
+;W[qc]
+(;B[pc]C[
+There is a proverb, which says: "Block at the larger side". Here, you're blocking in the wrong direction.
+
+You have invested in the right side, by playing r9. When you play this move, you're giving that up, in exchange for a wall which will be facing white's o17 and k16 -- an useless wall. You should play r16 here, to make a wall facing your own stones. (see variation).]
+;W[qd];B[qe];W[re];B[qf];W[rf];B[rg]C[
+This hane is an overplay, it leaves too big a weakness at r13 and s12. You should just strech at r13.]
+;W[pb];B[ob];W[qb];B[oc];W[rh]
+(;B[sg]C[
+It's better to just bite the bullet here, and to connect at r13. (see variation).]
+;W[qg];B[qh];W[pg];B[ri];W[ph];B[qi];W[oe]
+(;B[nd]C[
+With this move you let yourself be cut at q15.];W[pe];B[pf]
+;W[ne];B[mc];W[md];B[nb];W[ng];B[me];W[nf]C[
+This is a bad result for black. white broke through into your framework, and split you into two groups, while taking a lot of territory.]
+;B[ld]TR[fc][fq][pq][io]C[
+This is a small move. You're not attacking anything, or making a lot of points. Try to keep an eye out for the large points on the board. A good rule is to play in the largest open area. You can think about f17, f3, q3 (takes corner and builds framework -- a very big move), j5 (makes framework).]
+;W[gc];B[fp];W[er];B[fr];W[eq];B[fq];W[dn];B[oj];W[nq]
+(;B[lq]C[
+By pincering like this you're giving white the chance to make easy life in the corner. The o3 stone is already pincered by J3. You should attack this stone by pushing it towards your j3 strenght (see variation).]
+;W[qq]
+(;B[pq]C[
+Again, you're not blocking from the correct side. The proverb says: "Block from the largest side". See variation.]
+;W[qp];B[qo];W[ro];B[qn];W[rn];B[rm];W[pr];B[or];W[qr];B[oq]
+;W[cc]C[
+Okay, this is a good point to review the situation.
+
+You have emphasized the center, whereas white has taken two corners, and built a framework on the left. 
+
+F7 is a key point now ; it finishes your framework. In my opinion, you should play there, and next invade into white's framework on the left.]
+
+(;B[dg]TR[ch][cj][cl]C[
+You should be playing on the third line here. You want to make life as fast a possible, and reduce white by doing so. Moves on the fourth line are for reducions; it's when your stone has to run away quickly to the center, because it cannot make life. That is not the case here, the left site is full of holes, you can easily live there. 
+
+Moves which are probably better are c12, c10 or c8.
+
+BUT: the VITAL point here is f6. You should play there! (see variation)]
+;W[fh]C[
+White is trying to kill your stone. This is an overplay. Your stone can easily live, and when it does, f12 does not serve any purpose anymore.]
+;B[ei]C[
+Good, cut, just run out.];W[di];B[eh];W[dh];B[ef];W[cg];B[cf]
+;W[bg]
+(;B[gf]C[
+This move doesnt serve a purpose. It is not attacking anything, and its not making any territory.
+
+Moreover, it's bad shape. It's better to make a ponnuki at f13 if you want to play locally. But I would just tenuki, your group is quite safe now.]
+;W[fg];B[eg];W[ff];B[fj];W[gn]C[
+This is a very important point. You should have played here earlier. Your center moyo is severely reduced with this move.
+
+It is a bit far though. White should probably have played on f6 (and black too!).]
+
+(;B[en];W[em]
+(;B[dm]C[
+This is an overplay. You should aim to cut off the g6 stone from d6, because you want to preserve your center.]
+;W[eo];B[fn];W[fo];B[fm];W[gm];B[fl];W[gp]C[
+White has connected the e5 group with his g6 invasion. Your center is reduced to ruins.]
+;B[gq];W[hp];B[jo];W[jm];B[in]C[
+This is a bad move which does not serve any purpose. It just strenghtens white. Always look at the possible answers for your move -- try not to "ask" your opponent to fix his shape for free.]
+;W[im]C[
+White does have a cut at h7 now, which you exploited later ;\]]
+;B[hj];W[lm]C[
+Your central moyo has been reduced. Black does not have any areas where he can make a lot of points, while white already has four corners of solid territory. The game does not look good for black.
+
+The main mistakes were:
+
+- neglecting to play around f6 to close off the central moyo
+- the d7 overplay];B[cn];W[do];B[bp]C[
+An overplay. You're leaving too many cutting points.];W[cm]
+;B[dl];W[co];B[cl];W[bn]C[
+White punished you for your overplay. Now b4 is a wasted move.]
+;B[bj];W[be];B[bf];W[af];B[bm]C[
+This is very small. You're not attacking anything. White should ignore this move.]
+;W[cn]
+(;B[bl]C[
+Aargh !! Extremely slow!
+
+You should have a feeling now that you're losing the game. you invested a lot of stones to make a moyo in the center, and now it's gone. You should play some active move, to try to come back in the game.]
+;W[ko];B[kp];W[lo];B[np];W[ip];B[jp];W[jq];B[jr];W[hq];B[kq]
+;W[hr];B[ed];W[ec];B[fd];W[fc];B[de];W[ce];B[df];W[fe];B[ge]
+;W[gd];B[ee];W[hg];B[gg];W[gh];B[he];W[hd];B[ie];W[ih];B[jf]
+;W[lg];B[jh];W[jg];B[kg];W[ig];B[kf];W[kh];B[ji];W[lf];B[ke]
+;W[ki];B[kj];W[mi];B[mk];W[nm];B[mn];W[mm];B[ln];W[kn];B[mo]
+;W[lp];B[mp];W[on];B[jn];W[km];B[hm]C[
+Very good ! White should have protected here earlier ;\] Now you're back in the game.
+
+The rest of the game is endgame. I think the most important points were in the opening and the middle stage fighting. See the first move for a summary.
+
+This is the last comment.];W[hl];B[hn];W[gl];B[il];W[ik];B[jl]
+;W[jk];B[kl];W[kk];B[ll];W[lk];B[ml];W[nk];B[mj];W[lj];B[nj]
+;W[ij];B[hi];W[ii];B[hh]TB[me][jf][fj][bm][iq][la][lb][lc][ld]
+[ma][mb][mc][md][na][nb][nc][nd][ob][oc][pc][pd][ed][ee][ef]
+[eg][eh][ei][fd][fe][ff][fg][fh][fi][de][df][dg][ge][gf][gg]
+[gh][gi][gj][he][ie][ke][kf][kg][bf][cf][rg][rh][ri][rj][rk]
+[rl][rm][sg][sh][si][sj][sk][sl][hh][hi][hj][qh][qi][qj][qk]
+[ql][qm][qn][qo][aj][ak][al][bj][bk][bl][mj][mk][ml][mm][mn]
+[mo][mp][mq][mr][ms][nj][nk][nl][nm][nn][no][np][nq][nr][ns]
+[oj][ok][ol][om][on][oo][op][oq][or][pj][pk][pl][pm][pn][po]
+[pp][pq][cl][dl][el][fl][il][im][in][jl][jm][jn][kl][km][kn]
+[ll][lm][ln][dm][em][fm][hm][hn][en][fn][jo][jp][jq][jr][js]
+[ko][kp][kq][kr][ks][lo][lp][lq][lr][ls]TW[pb][jd][hl][ip][pr]
+[aa][ab][ac][ba][bb][bc][ca][cb][cc][da][db][dc][ea][eb][ec]
+[fa][fb][fc][ga][gb][gc][ha][hb][hc][ia][ib][ic][ja][jb][jc]
+[qa][qb][qc][qd][qe][qf][qg][ra][rb][rc][rd][re][rf][sa][sb]
+[sc][sd][ad][ae][af][ag][bd][cd][dd][gd][hd][be][ce][ne][nf]
+[ng][nh][oe][of][og][oh][pe][pf][pg][ph][lf][lg][lh][li][lj]
+[lk][bg][cg][hg][ig][jg][mg][mh][mi][ch][dh][ih][ii][ij][ik]
+[jh][ji][jj][jk][kh][ki][kj][kk][di][dj][gl][gm][gn][go][gp]
+[gq][gr][gs][cm][cn][co][cp][cq][cr][cs][bn][bo][bp][bq][br]
+[bs][dn][do][dp][dq][dr][ds][rn][ro][rp][rq][rr][rs][ao][ap]
+[aq][ar][as][eo][ep][eq][er][es][fo][fp][fq][fr][fs][so][sp]
+[sq][sr][ss][hp][hq][hr][hs][qp][qq][qr][qs];W[po];B[pn];W[oo]
+;B[pl];W[nr];B[op];W[os];B[mr];W[ps];B[jc];W[id];B[kc];W[ic]
+;B[ib];W[hb];B[jb];W[kd];B[le];W[pi];B[pj];W[ns];B[mq];W[ir]
+;B[om];W[rl];B[sm];W[qm];B[pm];W[sn];B[ql];W[sp];B[ch];W[bh]
+;B[ci];W[bi];B[cj];W[ej];B[fi];W[fk];B[el];W[gk];B[ek];W[an]
+;B[am];W[js];B[ks];W[is];B[nn];W[ls];B[ms];W[kr];B[lr];W[jq]
+;B[ks];W[jr];B[ls];W[je];B[if];W[mf];B[oh];W[og];B[nh];W[mh]
+;B[ai];W[ag];B[aj];W[ae];B[ha];W[ga];B[ia];W[sf];B[sh];W[oi]
+;B[ni];W[oa];B[na];W[pa];B[hk];W[od];B[gi];W[go];B[tt];W[tt]
+TB[pd][oh][ks][ha][ia][ja][ka][la][ma][na][ib][jb][kb][lb][mb]
+[nb][ob][jc][kc][lc][mc][nc][oc][pc][ed][ee][ef][eg][eh][ei]
+[ej][ek][el][em][en][fd][fe][ff][fg][fh][fi][fj][ld][md][nd]
+[de][df][dg][dh][di][dj][dk][dl][dm][ge][gf][gg][gh][gi][he]
+[ie][ke][kf][kg][le][me][bf][cf][if][jf][rg][rh][ri][rj][rk]
+[rl][rm][sg][sh][si][sj][sk][sl][sm][ch][ci][cj][ck][cl][hh]
+[hi][hj][hk][nh][ni][nj][nk][nl][nm][nn][no][np][qh][qi][qj]
+[qk][ql][qm][qn][qo][ai][aj][ak][al][am][bj][bk][bl][bm][mj]
+[mk][ml][mm][mn][mo][mp][mq][mr][ms][oj][ok][ol][om][on][oo]
+[op][oq][or][pj][pk][pl][pm][pn][po][pp][pq][fl][fm][fn][il]
+[im][in][jl][jm][jn][kl][km][kn][ll][lm][ln][hm][hn][jo][jp]
+[ko][kp][lo][lp][kq][lq][lr][ls]TW[gd][kd][cg][oi][hl][kr][os]
+[aa][ab][ac][ad][ae][af][ag][ba][bb][bc][ca][cb][cc][da][db]
+[dc][ea][eb][ec][fa][fb][fc][ga][gb][gc][oa][pa][qa][ra][sa]
+[hb][hc][hd][pb][qb][rb][sb][ic][id][qc][qd][qe][qf][qg][rc]
+[rd][re][rf][sc][sd][se][sf][bd][cd][dd][jd][je][od][oe][of]
+[og][be][ce][ne][nf][ng][pe][pf][pg][ph][pi][lf][lg][lh][li]
+[lj][lk][mf][mg][mh][mi][bg][bh][bi][hg][ig][jg][ih][ii][ij]
+[ik][jh][ji][jj][jk][kh][ki][kj][kk][fk][gk][gl][gm][gn][go]
+[gp][gq][gr][gs][cm][cn][co][cp][cq][cr][cs][an][ao][ap][aq]
+[ar][as][bn][bo][bp][bq][br][bs][dn][do][dp][dq][dr][ds][rn]
+[ro][rp][rq][rr][rs][sn][so][sp][sq][sr][ss][eo][ep][eq][er]
+[es][fo][fp][fq][fr][fs][hp][hq][hr][hs][ip][iq][ir][is][qp]
+[qq][qr][qs][jq][jr][js][nq][nr][ns][pr][ps])
+(;B[ch]))
+(;B[fn];W[fm];B[gm]C[
+You should play something like this. Try to cut the g6 stone from its friends. Now you can still build your center.]
+))
+(;B[fn];W[fm];B[en];W[gm];B[em]C[
+You have to cut the g6 stone from d6, in order to preserve your center.]
+))
+(;B[dl]C[
+You can attack the D11 group by playing here now.]))
+(;B[fn]C[
+
+This move creates a big framework in the center, and prepares an invasion at d8. It is the vital point of your framework. Just imagine the situation if white would play here -- how many points in the center would you get? And how many do you have now?]
+;W[dl];B[ch]C[
+You can always invade later somewhere here.]))
+(;B[qp];W[pq];B[op];W[nr];B[mo]TR[rm][qn][nl][lm][ko][io][im]
+C[
+You now have a strong framework in the center and on the right. You can expect a fair amount of points from it.]
+))
+(;B[oq]TR[iq]C[
+When we have a stone around j3, like here, this move is usually good, because it attacks white severly, and it makes points in the corner (without a black stone areound j3 this move is bad).]
+;W[np];B[pn];W[kq]C[
+This is the usual pattern. Notice how you get a big corner (although there still is a weakness at r3), and how white is forced to live in a cramped way, without many points or targets to attack. You can still attack white's group (for example by playing on m2, m3, k2).]
+)
+(;B[pq]C[ You can also play this. White is forced to live small, and you can pressure him and make points in the process.]
+;W[kq];B[no]))
+(;B[pf]C[
+This is probably better; you should try to attack the q13 cutting stones.]
+))
+(;B[qg];W[sg];B[qh];W[ri];B[qi]C[
+This way, you let white crawl on the second line. Your stones are connected, and you're building massive influence towards the center, which is consistent with k10.]
+))
+(;B[qd];W[pc];B[od];W[nb];B[me]C[
+The area around r13 is now your sphere of influence. You have build a framework on a large scale, and your stones are working together.]
+))

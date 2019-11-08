@@ -1,0 +1,73 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.17]
+
+PB[Barry]
+BR[30k]
+HA[2]
+PW[gnugo]
+KM[0.5]
+DT[2010-06-04]
+RE[W+126.5]
+TM[60]
+RU[Japanese]
+
+C[NB: In this game, I play as black against the program gnuGo with a two stone handicap and 0.5 komi. I am very much a novice to Go (still probably only 7-8 games into the "Lose your first fifty games as quickly as possible" period), but am noticing some traits in my game already that I want to get rid of. For the most part, I've noticed I tend to play too defensively, which results in me securing territory but getting surrounded, as demonstrated very clearly in this game. I suspect the main cause of this is that I am very unsure as to what constitutes a good opportunity to attack; as such, for the most part I am hoping to have those highlighted in this review, though highlighting my doubtless frequent poor moves and any other pointers would be very much appreciated too!
+
+I also have a question right at the end regarding dead stones that I would like clearing up too. Many thanks in advance!]
+;AB[pd][dp];W[ec];B[op];W[cn]LB[gp:A][hp:B][ip:C]C[DK: These are more common responses to white's threat here.]
+;B[dn]C[DK: I notice you do this a lot.  Three times actually. White threatens the corner and you touch his stone. http://senseis.xmp.net/?DontTouchWeakStones
+If you don't know about Sensei's Library, it's a great place with lots of go stuff.]
+;W[dm]C[DK: This is why it's hard to for you when you touch his stone. You've actually made white stronger here.]
+;B[en];W[co];B[cp];W[cj];B[oj]C[This was good. It's clear that you see the value of the big points still on the board.]
+;W[qf];B[pf];W[pg];B[og];W[qh];B[qe];W[mq]LB[lo:B][kp:A]C[DK: Either of these points would make it hard for white without touching!]
+;B[mp];W[lp];B[lo]C[DK: All three situations where you have attached when white invaded have not gone so well for you. It's tempting to think that white is alone and weak, which he is, but by attacking directly you make him stronger. It seems rather counter intuitive that you make your opponent's position better when you attack, but it is true!]
+;W[kp];B[ko];W[jp];B[jo];W[ip];B[io]C[DK: This little wall you have here gives you strength in the center. Unfortunately, white now has a strong position on the bottom here.]
+;W[oh];B[nh];W[pj];B[nf]C[DK: this was a good defensive move. You're lucky white did not punish you with his last move! I've been bitten myself by that plenty of times.]
+;W[id]C[DK: At this point, white has a decent position. White has an unchallenged position in the upper left which you later, correctly, assess as problem.]
+;B[gp]C[DK: I can see here that you are trying to reduce white's position. That's good but there are still big points on the board. As a rule of thumb, you should look first for urgent points, places where you are threatened. You don't really have any here. Next would be big points! The upper left sure looks inviting...]
+;W[pl];B[ol];W[cd];B[jd];W[nc]C[DK: You can start to see how the end game will turn out. White ends up with the edges and you end up with part of the center. It may be hard to see as a beginner, but with time it will become clearer. I know that's not very helpful advice but the number one thing you can do to improve right now is just keep playing. A lot. If you're interested, I'd happily play a teaching game or two with you on KGS, as would anyone else in the Beginners' Room]
+;B[oi];W[qp];B[ph];W[pb];B[md];W[mc];B[nd];W[pn];B[nn];W[qg]
+;B[ld];W[lc];B[kc];W[hf]LB[hh:A][ih:C][hi:B]C[NB: I think this was quite an important move for white, since this really sets the line that he surrounds me with. There are clearly better ways to respond than I did; what would be a good one to consider?
+
+DK: Any of these three would help you to form a larger territory. You're rather pressed at this point.]
+;B[if];W[hh];B[oe]LB[ei:C][ii:A][gj:B]C[NB: This was probably a wasted defensive move, and is the kind of thing I need to cut out. Even P16/17 would have been better, I think? In hindsight, I should probably have played almost anything else...
+
+DK: Yeah pretty much. I would say the urgent points are over in this direction however... White has formed a moyo that you really need to break into.]
+;W[nq];B[np];W[kb];B[jb];W[oq];B[fk];W[hj];B[hk];W[ki];B[kh]
+;W[jj];B[li];W[ik];B[kj];W[kk];B[ji]C[NB: I was initially pleased with this, as I felt like I'd pushed white back out to a degree. I really failed to do anything with it, though.]
+;W[hl];B[gk];W[gl];B[fl];W[jm];B[lm];W[fm];B[em];W[dl];B[gm]
+;W[ej];B[il];W[jl];B[hm];W[lk];B[mk];W[pi];B[oh];W[hq];B[fn]
+LB[bp:B][gq:A]C[DK: At this point white has a pretty strong grip on that upper left corner. You could, however, keep something in the lower left by playing at the marked points.]
+;W[fr];B[pk];W[qk];B[ok];W[pm];B[oc]C[NB: I had hoped to reclaim some of the top right at this stage, but I quickly ran out of ideas and again let myself get pinned in. Would I have been better perhaps moving into the R/S 16/17/18 territory?
+
+DK: Maybe. I don't know that it would end any better, but it's a more vulnerable point.]
+;W[ob];B[lb];W[mb];B[ka];W[pc];B[od];W[rd];B[im];W[gd];B[do]
+;W[hi];B[ii];W[ij];B[lj];W[re];B[qd];W[qc];B[ma]C[NB: At this stage, it was clear I was pinned good and proper. My inital hope was that I could force some kind of breakout, but if that even was possible, I ended up leaving it far too late.]
+;W[nb];B[la];W[ig];B[jf];W[bo];B[ie];W[dr];B[jn];W[bp];B[km]
+C[NB: Again, far too defensive. At this stage, should I have perhaps moved into the F12/13 area, or would a resignation have been more in order? (I did consider it, but opted to keep playing as a learning experience).]
+;W[gq];B[kl];W[fp];B[jk];W[jl];B[ll];W[go];B[jk];W[kk];B[lk]
+;W[jk];B[hn];W[hd];B[ho];W[cq];B[hp];W[fo];B[fm];W[hb];B[eq]
+;W[fq];B[ep];W[pp];B[no];W[he];B[jg]C[NB: STILL too defensive... At this stage, I knew the top left was my only vague hope, but for some reason decided to cling onto what I had - again, probably because I had no idea how to actually go about it.
+
+DK: From here, it would be very difficult to get into that corner. Not impossible, but hard.]
+;W[ih];B[jh];W[ic];B[jc];W[er];B[om];W[ek];B[jm]C[DK: This move doesn't really do you any good. You have two eyes and can just ignore any advance white makes there.]
+;W[ib];B[ja];W[on];B[nm];W[oo]LB[fj:A]
+(;B[mo]C[DK: not neccecary.];W[ia];B[ke];W[na];B[dq];W[fj];B[cr]
+C[NB: Pointless move.];W[bq];B[dg]C[NB: Too little too late - was there anything I could have even considered at this point, short of the resignation due 48 moves ago?
+
+DK: I don't see any harm in trying. You've lost the game at this point anyway, so what's the difference if you lose by 15 more points. However, I don't think I would keep playing against a real person at this point. Some consider it rude to continue playing when the game is so decisive. But maybe white would make a mistake and you could turn it around!]
+;W[fg];B[eg];W[ff];B[ef];W[fh];B[eh];W[bg];B[fi];W[ei];B[el]
+;W[gj];B[cl];W[cm];B[dk];W[ck];B[di];W[ch];B[dh];W[dj];B[cg]
+;W[bf];B[tt];W[eo];B[tt];W[gn];B[tt];W[tt]TB[kb][kd][je][le]
+[me][ne][pe][kf][lf][mf][of][kg][lg][mg][ng][lh][mh][ki][mi]
+[ni][mj][nj][nk][gl][hl][ml][nl][mm][in][kn][ln][mn]C[NB: My go client scored this as B+38.5 (you have to manually call dead stones), though in reality I'd say I took a one-sided beating. The question I alluded to at the beginning is whether or not my external stones (the D13 group etc) count as 'dead' or not. They ~feel~ dead to me, but a friend who also plays mused that since they're still in disputed territory at this stage, they technically aren't considered dead (though a win solely by a technicality may as well be no win anyway, for me).
+
+Many thanks for reviewing this train wreck - hopefully I can at least learn from the many mistakes!
+
+DK: Yes, those stones are dead. Your feeling is correct. Barring white passing 10 times in a row or something, they are going to die. The actual score is W+126.5 
+
+Not sure what your friend is refering to. That is clearly white's territory at this point. 
+
+My main advice would be to just keep playing. I'd strongly recommend you play with people though. Perhaps via KGS or some other go server. I found it hard to improve when just playing gnugo. The KGS Beginner's Room is very helpful.]
+)
+(;B[fj];W[mo];B[mn]C[DK: Even if you don't capture, you won't end up hurting.]
+))

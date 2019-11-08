@@ -1,0 +1,59 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.17]
+
+PB[slaiyfer]
+BR[24k]
+PW[letarn]
+WR[20k]
+KM[0.5]
+DT[2012-12-09]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[B+Resign]
+TM[600]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+C[Overall, you played like a 17k, and white played like a 24k.
+
+You did make several moves early in the game that either defended a single stone or attacked a single stone.  If the goal is simply to gain a point by killing a stone, this is unwise.  In the early game, each play must be worth 10 points or more (twice komi) or you're falling behind.  Even at the begining of the endgame, there are often many 4 point moves left.
+
+Other than that, your game is pretty good.  You have a few rough edges that will improve as you play several games with stronger opponents.
+
+Keep up the good work!  You're doing great!];B[pd];W[cd];B[pq]
+;W[dq];B[ec]C[letarn [20k\]: bonjour bp];W[dc]C[slaiyfer [24k\]: hello]
+;B[ed];W[dd]C[White was very generous, giving you a free move.]
+;B[de];W[ce];B[df];W[cf];B[cg];W[jd];B[ic];W[hd];B[id];W[ie]
+;B[kd];W[ke];B[jc];W[je];B[ld];W[hc];B[hb];W[ge];B[gd];W[fe]
+;B[ee];W[ef];B[gc];W[pj];B[he];W[hf];B[hd];W[pg]LB[ok:A][pm:B]
+[qm:B][pn:B][qn:B][qo:B]C[Not sure about your response.  You played A, perhaps to reduce a potential white framework near the top.  Personally, I'd rather have a nice happy extension from SW, near B.]
+;B[ok];W[pl];B[om];W[pn];B[on];W[pm];B[pk];W[qk];B[pi];W[qi]
+;B[qh]MA[pg]C[Presumably you're trying to push white down, and separated off the marked stone.  However, this may be too aggressive.  White can kill your stone.  (see variation)]
+(;W[rh];B[oj];W[qj];B[rn];W[qg];B[ph];W[rm];B[rl]C[This looks like a mistake.  Black cannot save it, and its aji doesn't seem worth the expense.]
+;W[qn];B[sm]
+(;W[qm];B[sj];W[ro];B[qp];W[sn];B[rf];W[sl]C[White was very generous, giving you a free move.]
+;B[rg];W[ri];B[sh];W[si];B[sg];W[og]MA[pi][ph][qh]C[Black must respond, or lose the marked stones]
+;B[qo]C[What does this do?]
+(;W[oh]C[Again, white feels generous.];B[oi];W[mg];B[lf];W[kf]
+;B[lg];W[lh];B[mh]C[This move doesn't work.  See variation.]
+(;W[nh]MA[mg][og][pg][qg][oh]C[White is feeling generous again, forcing you to kill the marked stones.]
+;B[mi];W[kh];B[rj]CR[rh][qk][qi][ri][si][pj][qj]C[What?  Why?  You acn't possibly kill the marked stones, and you can't possibly survive.]
+;W[ql];B[kj];W[mf];B[le];W[me];B[nd];W[ne];B[pf];W[oe];B[pe]
+C[This sequence of moves was nicely played.  Great job keeping him from resurrecting his stones.]
+;W[of];B[md];W[od];B[oc];W[kg];B[ih];W[ji];B[ki];W[ii];B[gh]
+;W[hh];B[hi];W[hg];B[ij];W[jh];B[ig]LB[gj:A]C[Kills the bulky 5, but this only works if white cannot escape.  Should have instead defended your cutting points with A or something similar.]
+;W[gg];B[fj];W[fh];B[eg];W[gi];B[hj];W[fg]MA[ef]LB[do:A][ip:B]
+[jp:B][jq:B]C[White makes a useless move.  But black doesn't need to kill E14.  There are so many big moves left!]
+;B[ff];W[gf];B[ef]C[Again, F14 is not worth defending.  There are so many bigger points left.]
+;W[fi];B[dl];W[dn];B[co];W[cn];B[do];W[eo];B[ep];W[en];B[cq]
+;W[eq];B[fq];W[dp];B[cp];W[fp];B[dr];W[gq];B[fr];W[er];B[es]
+;W[gr];B[ep]C[Game over.];W[hn];B[gm];W[el];B[ek];W[gl];B[fl]
+;W[em];B[hl];W[gk];B[gj];W[fm];B[fk])
+(;W[mi];B[nh];W[ni]))
+(;W[oi]MA[pi][ph][qh]C[Dead.]))
+(;W[ro];B[sn];W[qp]CR[ql][qm]TR[sj][sl]C[I don't think black can live.  The circled points are miai to prevent one eye.  Thus black needs to make both of the triangle points as eyes, (which white can easily prevent) or black must capture one of white's groups to escape, which doesn't look possible.]
+))
+(;W[ph]
+(;B[oi];W[rh];B[qg];W[qf];B[rg];W[rf];B[sg];W[sh];B[sf];W[se]
+)
+(;B[qg];W[oi]
+(;B[qf];W[ol];B[nl];W[nk])
+(;B[nj]))))

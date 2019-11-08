@@ -1,0 +1,158 @@
+(;FF[4]GM[1]SZ[19]AP[SGFC:1.13b]
+
+GN[nambanjin-Kevin255.sgf]
+PB[nambanjin]
+HA[0]
+PW[Kevin255]
+KM[5.5]
+DT[1999-05-02]
+PC[Internet Gaming Zone - Lotus Table 6]
+RE[B+13.5]
+US[IGZ]
+
+C[Hi, I'm adum, your friendly reviewer. (adum@aya.yale.edu -- feel free to
+email any questions.)
+
+First, I'd put your rank at about 7 or 8 kyu AGA, and maybe 12 - 14 kyu on
+IGS. If you really want to measure your rating, and also improve, I'd
+recommend playing on IGS (Internet Go Server.) Ranks there are pretty
+accurate. It's also free.
+
+your opening in general seemed pretty good. You missed several tactical
+opportunities, and that's probably the most restricting factor in your
+game right now.
+
+The single biggest problem you have is making wasted moves. I think three
+times you played moves that had zero or close to zero effect.   good luck!
+
+adum];B[pp];W[dp];B[qd];W[dd];B[oc];W[qn];B[qj];W[qp];B[qo]
+C[not usually a good move. r3 is probably better];W[po];B[rp]
+
+(;W[ro];B[qq];W[qo];B[pq];W[rq];B[rr];W[sp]C[now white has achieved great thickness, and black has little to show for
+it];B[jc]C[more urgent to extend around n4, or maybe p5. a white play at n3 now
+would make you uncomfortable];W[hc];B[df];W[qf]
+(;B[pf]C[not a good attack:
+1) try to attack stones from a distance: i.e., don't make contact plays on
+weak stones you're attacking
+2) it pushes him onto the already weak R10 stone -- you should play away
+from strength
+
+see var for one way to play];W[pg];B[pe];W[qh];B[pi]C[this move and the next one both work only because your opponent is
+scared. he should ignore them and either live underneath or run out.]
+
+(;W[ph];B[rg]
+(;W[rf];B[rh];W[qg];B[qi];W[oi];B[oj];W[ni];B[ql]C[s7 better -- puts a little pressure on white group]
+;W[pl];B[pm];W[ol];B[qm];W[om];B[pn];W[on]
+(;B[op]C[ajikeshi and empty triangle. better just to extend and save the cut for
+later if you want.];W[oo];B[lp];W[np];B[nq];W[rm];B[rl];W[sm]
+
+(;B[hq]MA[oi][ni][qf][rf][qh][pg][ph][qg]C[attacking the weak marked stones is probably the biggest move right now.]
+;W[fq];B[cq]
+(;W[dq]C[white should have blocked on the other side to make a nice wall. that
+make the 3-3 invasion not so hot.];B[cp];W[co];B[dr];W[er];B[bo]
+;W[cr]C[white messes up and you handle it well];B[cn];W[do]
+;B[br];W[ds]
+(;B[bq]C[this is inefficient. b7 also protects weakness.];W[dn]
+;B[cm];W[cf];B[cc];W[cd];B[dc];W[ec];B[eb];W[fc];B[fb];W[gb]
+;B[bd];W[be];B[bc];W[ef];B[de]
+(;W[dg];B[ed];W[ce];B[fd];W[gc]
+(;B[ff];W[ee];B[fe];W[fg];B[hf];W[id];B[jd];W[ie];B[jf];W[if]
+;B[ig];W[je];B[ke]
+(;W[jg];B[kf];W[hg];B[gg];W[ih];B[hh]C[white should play this ko]
+
+(;W[ig];B[fh];W[eh];B[ic]C[this is no good. white is not cut. but since he doesn't see it, your
+move isn't wasted. watch what happens if you try to cut him]
+
+(;W[ge];B[eg];W[gf];B[fg];W[gd];B[ei];W[dh];B[hi]C[if white cuts now you're unhappy.]
+
+(;W[ii];B[hj];W[fj]C[cut still better];B[fi];W[gj]C[another bad w move
+he lets you off the hook];B[dj];W[gi];B[gk];W[ek];B[dk];W[el]
+;B[dl];W[em];B[gh]C[well played by black to get out here. the only problem, you let white
+connect to weak group on right.];W[ej];B[di];W[dm]C[two more aji-keshi moves from white]
+
+(;B[ck]C[unnecessary. white has nothing.];W[ci];B[ch];W[bh]
+;B[bi];W[cg];B[bj];W[hk];B[ik];W[hl];B[il];W[ij];B[hm];W[gl]
+;B[gm];W[fl];B[jm];W[in];B[hn];W[io];B[ho];W[ip];B[hp];W[iq]
+;B[ir];W[im];B[kl];W[jr];B[hr];W[kq];B[lr];W[js];B[kr]MA[ik]
+[il][jm][kl]C[until this point, black played very well. this move does nothing,
+however. i'd be more afraid of weak marked stones];W[lo];B[ko]
+;W[kn];B[ln];W[mo];B[kp];W[lm];B[jn];W[km];B[ll];W[mm];B[jp]
+;W[jq];B[mp];W[mq];B[no];W[mn];B[lq];W[nn];B[kk]C[i'm not sure what this move is trying to do, but it appears unnecessary.]
+;W[nj];B[li];W[lh];B[kh];W[kg];B[lg];W[mh]C[now, if only earlier you'd played O10, you'd be living it up here!]
+;B[mg];W[ng];B[mi];W[nh];B[nf];W[of]
+(;B[oe]C[risky play. see var.];W[mf];B[ne];W[me];B[md];W[lf]
+
+(;B[le]C[better to play it safe here and give up a point of territory -- see var]
+;W[ld];B[kd];W[lc];B[mc];W[lb];B[kb]MA[jc][jd][ic][jf][ke][kf]
+[le][kd][kb]C[i can't find any way to save marked stones without a misplay by white.]
+;W[ib];B[jb];W[ka];B[ia];W[hb];B[ja];W[ha]C[there's the misplay!]
+;B[la];W[ma];B[mb];W[ka]C[this is atari, so you have to fight the ko -- not a lot of big ko
+threats for black, however]
+(;B[na];W[kc];B[la]C[you manage to lose your stones in gote ;-(]
+;W[qc];B[pc];W[rd];B[rc];W[qb];B[re];W[qe];B[sd]C[bad play by white nets him nothing and you a connection to your
+stil-weak group];W[kj];B[lj];W[ml];B[jj];W[mk];B[rj];W[lk];B[ki]
+LB[ji:A]C[a is better shape];W[ji]
+(;B[ks]C[if you're worried about hiim chasing these stones, play k5]
+;W[mj];B[fs]C[k5 better];W[jh];B[jl];W[kj];B[jo]C[but now it's bad. wasted move. he can't atari with k5, and if he takes
+at k9, then and only then play k5.];W[gp];B[fp]LB[sr:A][bs:B]
+[pk:C][sf:D]C[these moves are all small. marked moves all bigger.
+personally, i'd play a13 or a14 just to see if white responds correctly. i
+give him a 50% chance of losing the group.];W[fo];B[gq];W[ep]
+;B[fr];W[es];B[go];W[fp];B[fn];W[en];B[cb];W[pk];B[pj];W[qk]
+;B[rk];W[sl];B[sf];W[sk];B[sj];W[si];B[ri];W[ok];B[ah];W[ag]
+;B[ai];W[bs]C[oops, upper left is now a ko.]
+(;B[ar];W[sr];B[rs];W[fa];B[ea];W[ga];B[ae]C[a14 correct, obviously, to kill group.]
+;W[af];B[ad];W[sq];B[fm];W[ch];B[cj];W[bl];B[cl];W[cs];B[og]
+;W[oh];B[ma];W[ss];B[qr];W[as];B[bn];W[jk];B[bg];W[bf];B[jj]
+;W[mr];B[np];W[of];B[tt];W[tt])
+(;B[af];W[bf];B[bg];W[sh];B[sg];W[ag]C[you won't kill the group, but you'll get something.]
+;B[og]C[best for white to ignore this and finish the ko.];W[oh]
+;B[bg]C[now white has no real ko threats.];W[bn]C[this looks good but fails to clever play.]
+;B[ag];W[bm]
+(;B[cl];W[ao];B[bp];W[ar])
+(;B[ap]C[now, white must take the stones. bot-left can't be killed]
+
+(;W[ar];B[cl];W[an];B[bl])
+(;W[cl]C[so white gets about 15 points, but loses about 33 with dead group.]
+;B[ar];W[bk];B[cj];W[ch];B[ae])
+(;W[ae];B[cl];W[bl];B[bk]C[nothing for w]))))
+(;B[jo]
+(;W[jh];B[jl];W[mj];B[kj])
+(;W[jl];B[jk];W[mj];B[jl];W[jh];B[kj])))
+(;B[lg]C[start here -- local threat, must be answered];W[mg]
+;B[la];W[is];B[hs];W[ka];B[df];W[de];B[la];W[jk];B[jl];W[ka]
+;B[af];W[ag];B[la];W[sk];B[rk];W[ka];B[bg];W[bf];B[la]C[etc. complicated, but black can only win]
+))
+(;B[ld];W[le];B[kd]C[now black has no weaknesses here]))
+(;B[ne]C[this is a good shape to know. it makes it hard to push for your
+opponent.];W[oe];B[od];W[mf]C[you must let these stones go now. if not...]
+
+(;B[lf];W[me];B[nd];W[kd])
+(;B[me];W[lf];B[le])))
+(;B[hn];W[cl];B[bl]
+(;W[ck];B[bk];W[cj];B[ci];W[bn];B[bm]C[nada])
+(;W[bm];B[ck];W[bn];B[cl]C[nada])))
+(;W[fi];B[gh];W[fj];B[hk];W[fl];B[hm];W[ho]C[black will live but white gains big and gets an attack on bottom]
+))
+(;W[fi];B[hd];W[he];B[gd];W[gf];B[eg];W[ge];B[fg];W[gh]))
+(;W[gh];B[ig];W[ge];B[gf];W[hg];B[fh];W[hi];B[eg];W[di];B[fj]
+;W[dk]C[tough fight for black]))
+(;W[kf];B[jg];W[kd];B[le];W[kc]C[here white is safe, has won some territory, and still has an attack on
+black.];B[gg];W[lg]MA[oi][ni][qf][rf][qh][pg][ph][qg]C[however, marked stones are still not alive.]
+))
+(;B[ee]C[good not to connect.];W[gd];B[fe];W[ff];B[ge];W[he]
+))
+(;W[ee];B[dg];W[ce];B[cg]C[like this white stays connected, but not too bad for black]
+))
+(;B[bm];W[bq];B[bp];W[bs];B[aq]C[white has nothing]))
+(;W[cp];B[dq];W[eq];B[bp];W[bo];B[br];W[cn];B[er];W[fr];B[ds]
+;W[ch]MA[df]C[now, black is squeezed from below]))
+(;B[nj]C[first, cut the groups];W[mi];B[ng]C[key point.];W[og]
+;B[lg]C[maybe something like this]))
+(;B[np]C[white will probably answer, so you're a move up on the game line]
+))
+(;W[mh]C[now black starts to feel a little claustraphobic]))
+(;W[ri];B[rj];W[sj];B[sk];W[si];B[rl];W[re];B[rd];W[rg]C[alive, but not the best way for white to play as it lets black off easy]
+))
+(;B[qh];W[of];B[oh];W[mf];B[md]))
+(;W[qq];B[ro]C[also good for white]))

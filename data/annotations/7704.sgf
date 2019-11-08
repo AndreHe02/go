@@ -1,0 +1,238 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.17]
+
+PB[MarkNZed]
+BR[5k]
+PW[Garzanti93]
+WR[5k]
+KM[6.5]
+DT[2010-02-09]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[W+2.5]
+TM[1800]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+;B[pd]C[I am playing black.
+
+--------------------------------
+
+Hello, my name is Kalle! It's been my pleasure to review your game, I hope you find my comments useful. I have commented a lot about your shapes, and a little bit about the direction of play.
+
+I have also included some sequences, so that you can think about new possibilities. Some of the situations are very complicated, so the sequences are there mostly to give new ideas about possibilities, not to show the *only correct* line of play.
+
+Have fun with go, and take care!
+
+Best Regards,
+Kalle];W[dp];B[pq];W[dd];B[qk]C[At the moment I always play this opening when possible
+
+Kalle: Ok :)];W[nc];B[qf]C[I wonder if Q14 is better
+
+Kalle: Maybe this would be better at Q14, it's more active towards the center. Now your shape on the right side is a bit low.]
+;W[jd];B[jp];W[po];B[np]C[Kalle: I think this move is ok.];W[qq]
+;B[qr];W[qp]
+(;B[oq]LB[rr:A]TR[qr]C[Kalle: Here you should extend to A instead, to prevent white from getting a base. The point A is sente for white now, if you want to protect your marked stone.]
+;W[qm];B[pl];W[rr];B[fq]C[It seems W live pretty easily, Maybe O4 was no good ?
+
+Kalle: O4 is a standard move, and I think it's ok here. You should have just played s2 instead of p3.]
+;W[hq]LB[fo:B][hp:A]C[Kalle: Many times with this shape the standard response is to play tsuke at A, but here the white hoshi in the lower left corner doesn't have an extension yet, so it would be a bit defensive to play that way.
+
+Your move (G4) works pretty well, but you can also consider playing a jump to B (see variation).]
+(;B[gp];W[hp];B[ho];W[io];B[ip];W[go];B[hn];W[gq];B[fp];W[fr]
+;B[er];W[fs]LB[ep:A][dq:B]C[Kalle: It's a little difficult to decide how to connect. The options are A and B.]
+(;B[ep]LB[dq:A]C[Kalle: This move looks better towards the center,but it lets white peep at A, resulting in ugly shape for you.]
+;W[dq];B[eq];W[jr]
+(;B[iq]C[Kalle: This move is good, if you want to kill white. In this position it's a pretty aggressive strategy, but maybe playable. Another possibility is to seal white in (see variation).]
+;W[ir]
+(;B[do]LB[co:A]C[Kalle: Since you can't play the double hane, it's better to play a little further away (see variation).]
+;W[co]LB[cn:A]C[Kalle: Here it would be very nice to be able to play the double hane at A, but the black shape doesn't allow it.]
+(;B[dn];W[cn]
+(;B[kq]LB[dm:A]C[Kalle: I would play at A instead, because it's a very important influence point for both players. With your move, there's the risk that even if you capture the white group in the bottom, white might get a better result by building thickness. This is a difficult decision though.]
+;W[dm]C[Kalle: White takes the vital point, but ignores the bottom side.]
+;B[kr];W[hs];B[gr];W[hr];B[js]LB[gn:A]C[Kalle: This move is necessary in order to kill, but it's very risky. White might resist with A (see variations).
+
+The point of all the variations is to show that the situation is very delicate, and there are many difficult choices in the sequences. So I would try to avoid this line of play if possible.]
+(;W[en]C[Kalle: White does not resist, but lets you out easily. You can be happy with the result.]
+;B[fn]C[Not sure about this
+
+Kalle: This move looks ok.];W[gn];B[gm];W[eo];B[fo]C[Kalle: White got two stones, but you got nine.]
+;W[dj]LB[cc:A][on:B]C[Kalle: White plays close to his thickness, which is inefficient. You should aim for the 3-3-point (A) as soon as possible. Your move (B) is very big also. It makes your stones work together very well.]
+;B[on];W[pb]C[Kalle: Maybe you should just ignore this and invade at the 3-3 now.]
+;B[qc];W[ne];B[ng]C[I guess an invasion is a much better option
+
+Kalle: Yes, I think so too. You also have a big moyo, but white can build his moyo up faster, so you should invade as soon as possible.]
+;W[gd];B[cc]C[C14 better?
+
+Kalle: This is ok.];W[cd];B[dc];W[ec];B[eb];W[fc];B[fb];W[gb]
+LB[hc:A]C[Kalle: Here you should play the peep at A immediately.]
+(;B[bd];W[be];B[bc];W[ce]LB[ei:B][gj:A]C[Kalle: Now the question is how to reduce the white formation or build your own moyo. The point A is good for both purposes, but you can also try to reduce more deeply, at B for example.]
+(;B[el]LB[fj:A]C[Kalle: This move is a bit too passive. White has such a good shape on the left side, that he doesn't need to answer this. He can just build up his territory with A.]
+(;W[dl]LB[fi:A]C[Kalle: When white answers like this, you should regard this as a forcing exchange and play elsewhere, at A for example.]
+;B[ek];W[fa];B[da];W[ad];B[ac];W[ej]
+(;B[fj]LB[gj:A]C[Kalle: This move is ok, but you could again play a little further away at A (see variation). If you play this hane, you should expect white to hane also, and then you want to double hane to build thickness. If the double hane looks problematic, you should play A. Here the double hane looks ok, because white's shape is not perfect.]
+(;W[kg]LB[fi:A]C[Kalle: As white doesn't play the hane, you should play nobi yourself.]
+;B[dk]C[Kalle: This push is too early, you should save it for later.]
+;W[ck]
+(;B[ei]LB[fi:A]C[Kalle: This is overplay, white can cut (see variation). Just play the nobi at A.]
+(;W[di];B[eh];W[ki];B[dh];W[cj];B[kk];W[mh]LB[fi:B][mj:A]C[Kalle: I think it's better to build the lower side of your moyo, so playing at A is best. Protecting the cut at B is also quite urgent.]
+;B[nh];W[ni];B[oi];W[mj];B[ml];W[oj];B[pj];W[fi]TR[dh][eh][ei]
+C[What to do here ? Should have protected earlier
+
+Kalle: I don't see any way to save the three marked stones, so yes, you should protect earlier. This is the problem with hane instead of nobi earlier (move 87).]
+;B[gi];W[fh];B[gh];W[fg];B[gg]LB[ff:B][gj:A]C[Should G9 instead ?
+
+Kalle: The question is: what happens if white cuts at A? If you can handle that, you should play here, because your looking forward to the ataris at B etc. It looks dangerous to let white cut there though, so I wouldn't recommend it. In any case you need to read really hard to determine whether it's possible to play this or not. (see variations).]
+(;W[fk];B[gj];W[fl]C[Kalle: You can be happy with this result :).]
+;B[gl]C[Kalle: This move is pretty much gote, white can't push through even without this stone.]
+;W[ij];B[il]LB[ji:A];W[em];B[gk];W[ok];B[mf];W[of];B[pg];W[oh]
+;B[og];W[pi];B[qi];W[le]LB[md:A]C[Kalle: Now you have the opportunity to play at A.]
+(;B[me]C[Kalle: This destroys a lot of aji.];W[md];B[lf];W[kf]
+;B[rl];W[rm];B[qb];W[oo];B[no];W[pk];B[qj];W[ql]
+(;B[dr]LB[cr:A]C[Kalle: You could play this at A instead, to get more (see variation).]
+;W[cr];B[ob];W[oc];B[nb];W[mb];B[pc];W[na];B[pa];W[ol];B[nm]
+;W[pn];B[ld];W[ke];B[lc];W[lb];B[ff];W[eg];B[ef];W[dg];B[df]
+;W[cg];B[ge];W[he];B[cf];W[bf];B[cs];W[br];B[jh];W[ji];B[ih]
+;W[kh];B[oe];W[nd];B[od];W[kc];B[nf];W[mc];B[ph];W[oi];B[pr]
+;W[rk];B[rj];W[sl];B[rs];W[sj];B[rh];W[sh];B[sg];W[si];B[rg]
+;W[sr];B[ae];W[om];B[nn];W[jk];B[jl];W[lk];B[ll];W[kj];B[kl]
+;W[hf];B[gf];W[hg];B[hh];W[ig];B[bg];W[ch];B[bh]C[Should just A14?
+
+Kalle: Yep :)];W[af];B[ad];W[ee];B[cb];W[bs];B[ds];W[ik];B[mk]
+;W[lj];B[lg];W[lh];B[jg];W[jf];B[ii];W[hk];B[hl];W[fe];B[hj]
+;W[jj];B[ea];W[ga];B[ri];W[sk];B[oa];W[ma];B[op];W[nk];B[nl]
+;W[de];B[qs];W[pp];B[ss];W[rq];B[fm];W[tt];B[tt]TW[ha][ia][ja]
+[ka][la][hb][ib][jb][kb][gc][hc][ic][jc][ed][fd][hd][id][ie]
+[je][if][ag][bg][ah][bh][dh][eh][ai][bi][ci][ei][li][mi][aj]
+[bj][nj][ak][bk][dk][ek][al][bl][cl][el][pl][rl][am][bm][cm]
+[pm][sm][an][bn][dn][qn][rn][sn][ao][bo][do][qo][ro][so][ap]
+[bp][cp][rp][sp][aq][bq][cq][sq][ar][as]TB[aa][ba][ca][qa][ra]
+[sa][ab][bb][db][pb][rb][sb][rc][sc][qd][rd][sd][pe][qe][re]
+[se][of][pf][rf][sf][qg][qh][hi][hm][im][jm][km][lm][mm][gn]
+[in][jn][kn][ln][mn][go][io][jo][ko][lo][mo][hp][kp][lp][mp]
+[gq][hq][jq][lq][mq][nq][fr][hr][ir][jr][lr][mr][nr][or][es]
+[fs][gs][hs][is][ks][ls][ms][ns][os][ps]C[Garzanti93 [5k\]: ty
+MarkNZed [5k\]: thx
+
+
+Thanks for the review
+
+Kalle: My pleasure :)])
+(;B[cr];W[dr];B[ds];W[bq];B[cq];W[cp];B[br];W[bp];B[ar]))
+(;B[md]
+(;W[me];B[nd];W[od];B[oc];W[oe]LB[nb:A][ob:B]C[Kalle: Now black can play A or B. A takes more.]
+(;B[nb];W[pc];B[ob];W[qd];B[pe];W[qb];B[rc];W[rb];B[rd]
+(;W[mb];B[mc];W[lb];B[sb]C[Kalle: Black wins the fight now.]
+(;W[pa];B[oa];W[ra];B[sc])
+(;W[oa];B[na];W[ma];B[pa];W[ra];B[sc])
+(;W[ra];B[pa]))
+(;W[sb];B[mc];W[lb];B[mb];W[lc];B[pa];W[ld];B[qa]C[Kalle: Black wins.]
+))
+(;B[ob];W[nb];B[pc];W[lc];B[na];W[mb]C[Kalle: You end in sente, and you have a big corner.]
+))
+(;W[nd];B[me]C[Kalle: This is of course unacceptable for white.]
+)))
+(;W[gj];B[fk]LB[hj:B][gk:A]C[Kalle: Now white can play A or B.]
+(;W[gk];B[gl];W[ij];B[jj]TR[gj][ij][gk]SQ[kg][mh][ki][ni][mj]
+[oj]C[Kalle: It's complicated, but it seems black will get either the triangled stones or the square stones.]
+(;W[ii];B[ji];W[ih];B[jh]
+(;W[jg];B[ig];W[hg];B[gf];W[ff];B[if])
+(;W[ig];B[jg];W[jf];B[if];W[hf];B[kf];W[ie];B[lf]))
+(;W[ji];B[ii];W[hi];B[ih];W[hh];B[hg];W[hj];B[ik]))
+(;W[hj];B[ii];W[ij];B[jj];W[hi];B[ih];W[hh];B[hg];W[ig];B[ff]
+;W[eg];B[ef];W[dg];B[df];W[cg];B[ji];W[gf];B[hf];W[ge];B[if]
+;W[jg];B[ik]C[Kalle: It's a long way, but this seems like a catastrophy for white in the end.]
+)))
+(;W[fi];B[cj];W[di];B[bj];W[bk];B[eh];W[dh]LB[gi:A]C[Kalle: The best black can do is to push at A and sacrifice, but the result is good for white.]
+(;B[gi];W[fh];B[gh];W[fg]C[Kalle: Now black has to connect somewhere ..]
+;B[gj];W[ki]C[Kalle: .. and white gets to reduce blacks moyo.]
+)
+(;B[dg];W[fk];B[gj];W[fl];B[gg];W[gi];B[hi];W[hj];B[gk];W[hh]
+;B[ii];W[gl];B[hk];W[hl];B[ik];W[gh])))
+(;B[fi]LB[cj:A]C[Kalle: This is a very solid move, but it's also quite active. You can aim at A next. It's difficult for white to play elsewhere (see continuation).]
+;W[ki]LB[cj:A][kk:B]C[Kalle: This is a big move, but now black can play A. For black, Answering at B is also quite big.]
+(;B[cj];W[eh];B[ci];W[dh];B[cl];W[kk]C[Kalle: Black destroyed the side, but this white move is also huge.]
+)
+(;B[kk];W[lj];B[lk];W[eh]C[Kalle: Black made some territory, but white protected his own.]
+)))
+(;W[fi];B[gi]
+(;W[gj];B[fk]
+(;W[hj];B[hi];W[ii];B[ih];W[hh];B[gh];W[fh];B[gg];W[ij];B[jg]
+C[Kalle: White seems to be in trouble inside your moyo.])
+(;W[hi];B[gh];W[ij];B[dk];W[ck];B[ei];W[fh];B[cj];W[di];B[eh]
+;W[fg];B[bj];W[bk];B[dh]))
+(;W[fk];B[gj];W[fl];B[fh];W[ei];B[gg]C[Kalle: Good for black. White can't break into your moyo.]
+)))
+(;B[gj];W[fj];B[gk];W[gi];B[hi];W[hh];B[ih]C[Kalle: Like this you build a huge territory in the center, and with the capture of the white group earlier, I think your leading.]
+))
+(;W[fj];B[dl];W[cl];B[ck];W[dk]C[Kalle: White has no worries.]
+))
+(;B[ei]C[Kalle: This reduction looks tempting, but if white attacks properly, it might be difficult to escape. I think it's playable, because black has some strong stones nearby, but the variations can get difficult.]
+;W[gj]C[Kalle: White can attack on a big scale like this. There are many continuations, I have included some of them.]
+;B[fj]C[Kalle: With this, black tries to settle the shape quickly.]
+;W[fk]
+(;B[gi];W[hj];B[hi]LB[ii:A][ij:B]C[Kalle: White can now play A or B. It's complicated.]
+)
+(;B[gk]C[Kalle: This cit is possible, because black has so much backup nearby.]
+(;W[fi];B[ej];W[ek];B[gi];W[hj];B[fh]C[Kalle: This should be ok for black.]
+)
+(;W[ej];B[fi];W[hj];B[ek];W[fl];B[hk];W[el];B[hh];W[ij];B[fg]
+C[Kalle: It's a fight, but playable for black in my opinion.]
+)))
+(;B[gj]C[Kalle: This move has a nice balance between reduction and building your moyo.]
+))
+(;B[hc];W[gc]C[Kalle: White wants to answer, so now is the right time for this.]
+))
+(;W[gn]C[Kalle: It's difficult to answer this move. I found many variations where white rescues his stones and captures black's, but then I found one variation, where black still manages to capture. I have included the most interesting variations.]
+;B[es];W[gs]LB[em:D][fm:C][gm:A][fn:B]TR[gn][go]C[Kalle: Now black has to choose how to deal with the marked white stones. All the moves from A to D are worth checking.]
+(;B[gm]C[Kalle: This one came first to my mind, but it doesn't work for black.]
+;W[hm];B[in];W[fm];B[gl];W[fo]C[Kalle: White takes a liberty and that's it.]
+;B[ks];W[eo]C[Kalle: Here black clearly loses the race.])
+(;B[fn]C[Kalle: Another natural looking choice for black, but it doesn't work very well either. Black captures the stones all right, but white gets ample compensation.]
+;W[hm];B[in];W[fm];B[ks];W[fo];B[is];W[im];B[jn];W[dr];B[jq]
+;W[ds];B[gr];W[eo]C[Kalle: Black captures the white group, but white is very satisfied with this, because he gained the corner and got a lot of influence toward the left side.]
+)
+(;B[fm]C[Kalle: This move looks a bit weird, but it's quite effective.]
+;W[hm];B[in];W[im];B[jn]LB[fn:A]C[Kalle: It's a difficult choice for white now, I think that A seems best for him.]
+;W[fn]LB[em:A][en:B]C[Kalle: Now black chooses A or B.]
+(;B[em]C[Kalle: Even though white can cut black apart, the result is the best black can get.]
+;W[en];B[eo];W[gm];B[cm];W[dl];B[cp];W[cq];B[bp];W[bm];B[cr]
+;W[bq];B[br];W[bo];B[dr];W[ap];B[ar]C[Kalle: Black wins :). But also here the white thickness towards the left is very powerful.]
+)
+(;B[en]C[Kalle: This is the wrong choice, white will win now.]
+;W[em];B[eo];W[gm];B[cr];W[dr];B[ds];W[bq]C[Kalle: White wins the race this time.]
+))
+(;B[em]TR[dn][do]C[Kalle: This move occured to me last, and it looks very problematic because of the weakness of the marked stones. At some point I thought that black can win with this, but actually it is white who wins with correct play.]
+;W[hm]C[Kalle: White can force first.];B[in];W[im];B[jn]LB[fm:A]
+[en:B]C[Kalle: Now, is it A or B?]
+(;W[en];B[fn];W[fm]C[Kalle: Black has to capture]
+(;B[eo];W[el]C[Kalle: The only move for white, but..];B[cm]
+C[Kalle: .. black has a way out.];W[en];B[cp]C[Kalle: Now black collapses.]
+(;W[cq];B[bp])
+(;W[dr];B[dl];W[em];B[bo]C[Kalle: Black wins.]))
+(;B[el]C[Kalle: This is unreasonable for black.];W[eo]C[Kalle: White wins.]
+))
+(;W[fm]LB[dl:C][el:A][cm:D][en:B]C[Kalle: First it looks as if black gets out, but it's not so easy. Black has A, B, C and D, but none of them work.]
+(;B[el];W[eo]
+(;B[en];W[fo];B[fn];W[gm])
+(;B[fo];W[en];B[fn];W[gm]))
+(;B[en];W[el];B[cm];W[dl];B[cp];W[eo];B[fo];W[fn];B[eo];W[dr]
+)
+(;B[dl];W[eo];B[en];W[fo])
+(;B[cm];W[eo];B[en];W[fo])))))
+(;B[dm]C[Kalle: This is the vital point fo shape.]))
+(;B[cn];W[eo];B[dn];W[fo]C[Kalle: Not good for black :)]))
+(;B[dn];W[cn];B[cm];W[do];B[en];W[bn]LB[cf:B][dl:A]C[Kalle: Now you can choose: A for solid game, B for fast development.]
+))
+(;B[ir];W[iq];B[jq];W[hr];B[kr];W[is];B[dn];W[cn];B[cm];W[co]
+;B[dm]C[Kalle: Black got some nice influence, white got only a little territory.]
+))
+(;B[dq]C[Kalle: If black connects like this, it's easier to keep a decent shape.]
+(;W[fo];B[eo]C[Kalle: Black has a good shape.])
+(;W[ep];B[eq]
+(;W[en];B[eo];W[do];B[fo];W[dm];B[fn]LB[cn:A]C[Kalle: I like this result for black, because white doesn't have the corner and black can still attack the white group on the left (black has the peep at A to play any time).]
+)
+(;W[fo];B[eo]C[Kalle: No problem for black.]))))
+(;B[fo];W[dn];B[ho]C[Kalle: This shape looks a bit loose, but I think it's playable.]
+))
+(;B[rr]C[Kalle: This way white will have to work a bit more to establish a base. You shouldn't worry about white playing at P3 next. There is some aji, but the black shape is good for now.]
+;W[oq];B[op];W[pr];B[pp];W[or];B[qo]C[Kalle: White cannot play like this.]
+))

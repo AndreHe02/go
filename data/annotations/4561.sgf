@@ -1,0 +1,84 @@
+(;FF[4]GM[1]SZ[19]ST[1]AP[SGFC:1.15]
+
+PB[black]
+PW[white]
+WR[13k]
+KM[7.5]
+RE[W+Resign]
+TM[1500]
+
+C[Hello. I am 12-14kyu player. My general mistake (in all games with this one) is, I am always trying to make a moyo in the center. I have defect about corners and sides. I don't know what is the reason but games are always take me this situation. Also, my opponents get inside to my moyo with one way and then I am failing completely. Please show me how should I play for make point easily. I think I have made very much mistakes in the begining. Thank you very much.
+
+z -- Hi, my name is Bill, "zinger" in the internet Go community.  I will try to help as best as I can.  My comments are marked with "z --".  But remember, I am also a weak amateur, so be sure to consider my ideas critically.
+
+As you say, after your opponent reduced your moyo, you were too far behind.  I have a few ideas about what you could have done differently.  The points I think are most important for improvement:
+
+(1) You opened with two star points, which suggests a strategy of speed and strength, with less concern for territory.  However, you followed this up with the low, territory oriented moves 13 and 15.  The result was that your stones did not work together as well as they could have.  Try to keep a consistent strategy to get the most out of your stones.  If you want to make points, as you say, try starting on the 3-4 points or the 3-3 points.
+
+(2) Sometimes it is better to reduce your opponent's area than expand your own.  Recognizing when is a valuable skill.
+
+(3) The border between two moyos is a very big area to play in.  Try to pay attention to these boundary zones.
+
+Also, I think that white is much stronger than 13k.  He made few moves that appeared to me to be mistakes.  White 46-48 and 56-58 in particular are moves I would not expect from a 13k.  
+
+Good luck with your Go.  If you have any questions about this review, feel free to ask.]
+;B[pd];W[dp];B[pp];W[dd];B[fq];W[fp];B[gp];W[fo];B[eq];W[dq]
+;B[iq]LB[hq:A][jq:B]C[z -- this move is a little bit unusual.  Normally black will choose A or B.]
+;W[cj];B[qj]TR[pd][pp]LB[pj:A]C[z -- this move seems inconsistent with the marked stones.  Since they are both high, on the 4th line, playing at A feels better.  There is more explanation about this in the next variation.]
+;W[nc]
+(;B[qf]TR[qj]LB[pf:A][lc:B]C[z -- This move is a mistake.  The marked stone is already low, on the 3rd line.  So, to play this move also on the third line is too passive.  It would be better to play at A.  Also a play at B is possible - see variation.]
+;W[pb];B[qc];W[ld];B[fc]LB[hq:F][gq:E][hn:D][lb:C][ic:B][hc:A]
+C[z -- This move almost forces white to make the good move at A.  Black B would be a more flexible way to enter this area, leaving options to extend to 19 or slide to C.
+
+z -- Also, one common idea in positions like this is to play on the border between the two moyos, in the lower left.  Black D would be the normal idea, but the weakness at E is a problem.  This is one reason why black 11 is more commonly played at F.]
+;W[hc];B[cc];W[cd];B[dc];W[ed];B[fb];W[ge]TR[cj]MA[fo]LB[di:A]
+[fi:B][ej:C][gj:D]C[z -- White's formation here would be more effective if the marked stone were on the star point - this is the same as the variation given earlier for black on the right side.  However, white's stone X makes it harder for black to reduce this area.  For example, black A mgiht be answered by white B, or black C by white D.]
+;B[go]LB[fn:A][hm:B][fi:C]C[z -- This is a good move - the border between two moyos is a big area.  If white answers at A, black can continue at B.
+
+z -- Black could also try a reducing move such as C.];W[dn]
+
+(;B[fn]LB[gn:A][gm:B]C[z -- This is the right idea, to continue playing on the border between moyos.  But it is the wrong point.  It leaves a possible cut at A.  Instead, black should jump to B to reduce white's moyo and expand his own at the same time - see variaion.]
+;W[nq]
+(;B[lq]TR[iq][go][gp][fq][eq]LB[oq:A]C[z -- This move feels too close to black's strong group - that is, a little overconcentrated.  I would prefer to play at A - see variation.]
+;W[no];B[pn];W[pr];B[qq];W[qr];B[lo]LB[ej:C][di:B][rr:A]C[z -- This move makes some territory to the left.  However, I think that it is not worth enough to compensate for allowing white to live.  Consider that black 31 and 37 together add at most about 15 points to black's bottom side territory.  That's not enough value for two moves so early in the game.
+
+I think that black should either play A, to prevent white from making two eyes, or just find a bigger move elsewhere.  B or C are two ideas to reduce white.]
+;W[rq];B[rp];W[pq];B[qp];W[rr];B[mn]LB[nm:A]C[z -- I think this is the wrong direction.  If black plays in this area, A would be better: black has more potential for territory on the right side than on the bottom.
+
+z -- But, considering that white is alive, this area doesn't seem important.  Reducing white's moyo is more important.]
+;W[nn];B[mm]LB[pl:A]C[z -- Considering white's next move, perhaps black A would be better.]
+;W[ql];B[pl];W[pm];B[qm];W[om];B[qn];W[pk];B[qk];W[ol];B[rl]
+;W[qb];B[rc]TR[qf][pd][qc]LB[oi:C][qb:B][qh:A]C[z -- With the shape of the marked stones, the normal reply to a white move at A would be black B.  Here, white takes the point B; so black should choose a move that prevents white A, such as black C.]
+;W[qh]C[z -- That white understands the relationship between 56 and 58 suggests a level stronger than 13k.]
+;B[pj];W[oh];B[of];W[oj];B[ph]LB[rh:A][pf:B]C[z -- I think black A would be better.  The move played creates a chance for white to push through at B.]
+;W[pg]LB[pi:A]C[z -- Why not white A?];B[pi];W[og];B[qg];W[pf]
+;B[pe];W[oe];B[nf];W[oi];B[nk];W[ok];B[nd]C[z -- Good job by black - connected along the side and broken into the center too!  But remember, white is thick toward the center now.]
+;W[oc];B[od];W[me];B[md];W[mc];B[mf]C[z -- Good move.];W[lf]
+;B[en]TR[fp][fo]C[z -- This move is not good.  The marked stones are meaningless now, so black should not try to capture them.  Now it becomes harder for black to reduce white's left side moyo.]
+;W[do];B[gl]TR[do][en]C[z -- If you plan to play this move anyway, it would be better to play it without exchanging the marked stones.]
+;W[dl];B[fi]TR[om][ol][ok][oj][oi][oh][og][lf][ge][dl]LB[di:A]
+C[z -- With white's strong stones all around, it is not reasonable to try to surround territory in the center.  Maybe the best black can do is try to reduce at A, but this will still be a difficult fight.]
+;W[eh];B[fh];W[eg];B[lj];W[ij];B[kh];W[ih]
+(;B[jf]LB[jg:A]C[z -- this doesn't work, as the game continuation shows.  Black could try A instead - see variation.]
+;W[jg];B[kf];W[kg];B[lg];W[le];B[jh];W[ig];B[lh];W[ne];B[mg]
+;W[gk];B[fk];W[fl]
+(;B[fm]TR[fi][fh]LB[gj:A]C[z -- It looks like black needs to play at A to save the marked stones - see variation.]
+;W[el];B[fj];W[hl];B[gm];W[hf]LB[hk:A]C[z -- if white connects at A instead, black will lose the four stones.  Last comment.]
+;B[hk];W[ik];B[hj];W[hi];B[gj];W[im])
+(;B[gj]
+(;W[hk]C[z -- If white plays this ...];B[el];W[fm];B[gm]C[z -- ... black is OK.]
+)
+(;W[gm]C[z -- If white tries this ...];B[hk];W[fm];B[hm];W[gn]
+;B[hn]LB[ii:B][el:A]C[z -- Now black threatens both A and B.]
+)))
+(;B[jg];W[ig];B[je]C[z -- This way white's top side territory is reduced.]
+))
+(;B[oq];W[np];B[pn];W[kq];B[nn]C[z -- this keeps pressure on white and develops the right side.]
+))
+(;B[gm]TR[em][en][fn][gn][hn][in][io][jo][jp][jq][kq][lq][mq]
+[nq][oq][op][oo][po][pn][pm][pl][pk][pj][pi][oi][ni][mi][li]
+[lh][kh][jh][ih][hh][gh][fh][fi][ei][ej][dj][dk][dl][dm]C[z -- This is included to show the difference visually.  The influence of this stone is truly large.  It can affect fights all through the marked area.]
+))
+(;B[lc];W[qc];B[qd];W[pc];B[od];W[nb];B[me]C[z -- this is a common joseki which you know - it occurs later in the top left.  But ...]
+;W[pi]TR[qj]LB[oj:A][pj:B]C[z -- ... in this position white has this move (or A) to reduce black's area.  If the marked stone had been played at B, it would not be so easy for white.]
+))

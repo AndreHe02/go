@@ -1,0 +1,177 @@
+(;FF[4]GM[1]SZ[13]ST[2]CA[UTF-8]AP[SGFC:1.17]VW[]
+
+GN[DoubleU-abel2011-663660-20110921]
+PB[abel zapater (abel2011)]
+BR[30k]
+HA[5]
+PW[W. Spencer Clark I (DoubleU)]
+WR[18k]
+KM[0.5]
+DT[2011-07-16,2011-09-21]
+PC[Dragon Go Server: http://www.dragongoserver.net/]
+RE[W+56.5]
+RU[Japanese]
+GC[Game ID: 663660, rated]
+
+AB[dd][jd][gg][dj][jj]PL[W];W[kc];B[ck];W[kk]LB[fk:A][jk:B]
+C[Notice that W's strategy is to take the 3-3 point in every available 
+corner.]
+(;B[fk]LB[jk:A]MA[dj][ck]C[B's move is too passive because its only purpose is to strengthen 
+the two marked stones, which are already safe (for now).
+
+B needs to take initiative (sente) and apply pressure to W, either 
+by threatening one of W's stones or threatening to make new territory 
+somewhere.
+
+For example, B could play at A.  W must respond immediately or 
+lose the corner stone.  See variation.];W[cc]LB[dc:B][hk:A]
+(;B[hk]LB[dc:X]C[Another mistake.  The bottom area is pretty secure for B, so 
+this stone isn't doing any real work.  EVERY STONE YOU PLAY MUST 
+WORK!  
+
+B should put pressure on W's latest corner by playing at X. 
+
+See variation.];W[ki];B[jl]LB[kj:X]C[B's move is largely wasted because B is already overconcentrated 
+on the bottom.
+
+As a general rule, you should cut your opponent in this situation 
+by playing at X.  That would be a sente move (taking initiative) 
+and W must respond.];W[kj]MA[jl]C[Now, because B did not cut W on the previous move, W simply connects. 
+But this is a very strong move!  Not only does it secure W's 
+corner, it also forces B to connect (as you correctly did).]
+;B[jk];W[ji];B[ij]MA[ii]C[Another mistake.  B should play at X.  That would accomplish 
+several things, including reducing W's liberties to push farther 
+into the center and  giving him more potential territory on the 
+right side.
+
+The move you played is called an "empty triangle" and is considered 
+"bad shape" because it is inefficient.  
+
+For an explanation, see http://senseis.xmp.net/?TheEmptyTriangleIsBad
+
+(By the way, this Sensei's Library website is one of the best 
+go resources available -- very easy to look things up, see diagrams, 
+get explanations, etc.)];W[ii];B[hi];W[ke];B[jb]LB[dc:B][jc:A]
+[cd:C][jf:E][jg:D]MA[kd]C[B should have cut W at X  as in the previous discussion.
+
+However, moves A, B, C and possibly D or E could also be considered.]
+;W[kb];B[ic]C[Mistake!  B should make the solid connection (where W plays next).]
+;W[jc];B[kd];W[ld];B[id];W[je];B[ie];W[jg];B[kg]MA[dc]C[Mistake:  B does not have enough space on the right side to live, 
+so this invasion cannot possily succeed.  
+
+It is better for B to play at X.  W will probably make a small 
+corner territory but B will be ahead.];W[kf];B[lg]MA[dc]C[This is absolutely pointless for B; play at X.]
+;W[lf];B[lh];W[li];B[mf];W[me];B[mg];W[kh];B[lc];W[lb]LB[if:B]
+[jf:A]
+(;B[jf]LB[if:X]SQ[jb][ic][id][jd][kd][ie]C[This is a mistake for B, as W can easily capture.  Also, you 
+will see in the game that this capture ultimately allows W to 
+extend into the center and (because B made overlooked other threats) 
+eventually kill the marked stones.
+
+It is much better for B to play at X (see variation).];W[if]
+;B[mb]LB[hf:X]C[That is a mistake for B since there is no way any of those stones 
+can possibly live.
+
+What's important now is to play at X, blocking W from pushing 
+farther into the center.];W[mc];B[kl];W[ll];B[ib];W[hf]LB[dc:X]
+[cg:Y]C[Notice something interesting now:  W's last move lets him push 
+into the center enough to tip the balance.  This is partly a 
+result of B's ill-conceived invastion and B's move 38, which 
+W captured.
+
+B's situation is much more difficult now.  Playing at X is still 
+urgent, but B also has to worry about a W invasion at Y.  There 
+is no single move that can do both.];B[la];W[ka];B[ja];W[ma]
+;B[ih];W[hh];B[hg];W[ig];B[gh];W[gf];B[ek]LB[gd:X][ef:Y]SQ[gf]
+C[B is already overconcentrated on the bottom, so there is no reason 
+to play here.
+
+W's marked stone is very dangerous now.  If W can play at X, 
+he will kill all B's stones in the upper right.
+
+If B manages to play at X first, then W can simply extend to 
+Y and make more trouble in the center and maybe even on the left 
+side also.];W[ce]LB[cd:X][gd:Y]SQ[ja][ib][jb][ic][id][jd][kd]
+[ie][gf]C[W has played a good extension.  In this case, because of W's 
+marked stone, it is probably not safe for B to cut at X but better 
+to defend at Y.
+
+If W can  play at Y now it severely threatens B's 7 stones.]
+;B[ee];W[cg];B[ff];W[gd]C[With this move B has lost.
+
+Imagine the difference if B had played here on his previous move 
+(or even on move 56)!
+
+There is a go proverb I like very much:  "Opponent's next move 
+is usually my best move."];B[fe]LB[fd:X]C[X is better because it defends B's stones here without making 
+the empty triangle shape as you did.];W[hd];B[fg]LB[fd:Y][eg:X]
+C[B's move is safe but not optimal or productive, because it fills 
+a point of territory.  I would prefer X or Y.];W[fd]LB[cd:B]
+[ed:A]
+(;B[ed]LB[dc:X][cd:Z][de:Y]C[B did not have to connect here; you could afford to play somewhere 
+else, like X.
+
+Please notice that if W plays at 66, you can play at Y to connect 
+(or vice-versa).  Two points like this are called "miai".  This 
+is a useful concept to know about and you can find info on Sensei's 
+Library.
+
+The cut at Z is probably best (see variation).];W[cd]LB[eb:B]
+[lm:A]
+(;B[lm]MA[eb]C[Instead of this, consider X (variation).];W[lk]
+;B[gi];W[ec];B[dc];W[fc];B[db];W[fa];B[gb];W[ea];B[ge]C[This is pointless for B, as the bamboo joint cannot be cut (http://senseis.xmp.net/?BambooJoint).
+
+This move might be useful as a ko threat, but not here.];W[he]
+;B[ga]C[Pointless.  B cannot save these stones.  It is better to play 
+where W played next.];W[cb];B[gc]MA[ci]C[Again, pointless.  B could gain a point by playing where W played 
+next.  
+
+B should play at X.];W[da];B[hc];W[ha]C[Obviously urgent for W, since B could live by playing there.]
+;B[fb];W[eb];B[ci];W[mh]C[W did not have to capture; B's stones were already dead.  In 
+capturing, W merely filled one point of his own territory.]
+;B[hj];W[de];B[dh]C[Good move.  W should have played here on his last move.]
+;W[dg];B[eg];W[ml];B[eh]MA[bh]C[Not necessary to defend here.  X is a better move.]
+;W[mm];B[km];W[ch];B[bh];W[bg];B[bi];W[ag];B[di]C[WHY??? 
+
+B should play where W played next; that would save a point of 
+territory.];W[ah];B[gk]LB[ia:A][ai:B]
+(;W[ia]MA[ai]C[W is playing childlishly here, as B's stones are already dead. 
+A better move is X (variation).];B[hb]MA[ai]C[B is wasting time and moves; his stones are dead.  Notice there 
+is no possible way to make two eyes.
+
+To play at X is important.];W[ha];B[df];W[cf];B[tt];W[ai];TW[aa]
+[ba][ca][ga][ia][ja][la][ab][bb][fb][gb][hb][ib][jb][mb][ac]
+[bc][gc][hc][ic][lc][ad][bd][id][jd][kd][md][ae][be][ie][le]
+[af][bf][jf][mf][kg][lg][mg][lh][mi][lj][mj][mk]TB[fh][hh][ei]
+[fi][ej][fj][gj]C[No further comment.])
+(;W[ai];B[bj];W[aj];B[ak];W[df]C[This makes 2 more points for W.]
+))
+(;B[eb]LB[fb:B][ec:A]C[The other variation is a better move for W, but he may not see 
+it.  Even so, this move give B some worthwhile counterplay.]
+(;W[ec]C[This move looks OK at first but lets B live.];B[fc]
+;W[dc];B[gc];W[hc];B[hb];W[gb];B[fb];W[db];B[ea];W[da];B[ga]
+)
+(;W[fb]C[W needs to play here];B[fc];W[gc];B[ec];W[gb];B[ba]
+C[This move is called a "monkey jump".  
+
+A proverb says, "the monkey jump is worth 10 points."];W[cb]
+;B[ca];W[db];B[da];W[bb];B[ea];W[ab])))
+(;B[cd];W[bd];B[dc];W[cb];B[db];W[fb];B[ca];W[ba];B[da];W[bb]
+;B[dh];W[ch];B[ci];W[dg];B[eh];W[bi];B[bj];W[bh];B[eg];W[df]
+;B[fa];W[gb];B[ga];W[ha];B[ea];W[hb];B[lm]C[This is a reasonable continuation.  B still loses, but not so 
+badly.]))
+(;B[if];W[ig];B[hg];W[dc];B[fd];W[fb];B[cd];W[bc];B[bd]C[Notice how solid B's stones are now.]
+))
+(;B[dc];W[cd];B[ce];W[be];B[cf];W[bf];B[cg];W[bg];B[bh];W[db]
+;B[eb];W[cb];B[fc]C[Playing this way, W can have the corner but B is now much stronger 
+in the center and on top.];W[jc];B[id];W[ic];B[hc];W[kd];B[ke]
+;W[le];B[lf];W[ld];B[kg];W[kj];B[jk];W[kh];B[ji];W[ki];B[jh]
+C[This is a reasonable continuation.  B is ahead.]))
+(;B[jk];W[kj];B[ki];W[jl];B[il];W[kl]LB[kf:Y][gk:X]C[Now what happens?  If W is not careful, B can kill the corner. 
+But W is the stronger player so he will probably live.  
+
+Notice that even if W lives in the corner, B is stronger on the 
+bottom and right side because of the stones he has played.  It 
+will be difficult now for W to invade around X and Y.  
+
+So this way of play is good for B.]))

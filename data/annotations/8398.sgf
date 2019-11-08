@@ -1,0 +1,210 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.17]
+
+PB[drwhat]
+BR[7k]
+PW[carajacq]
+WR[6k]
+KM[0.5]
+DT[2011-07-07]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[B+8.5]
+TM[600]
+OT[25/600 Canadian]
+RU[Japanese]
+
+C[Hello!  My name is Josh Hoak and I play as Kashomon on KGS where I am 1-2k.  I am also about 1k - 1d AGA.
+
+Since drwhat (Tony) requested the review, I will use "you" to refer to the player taking black and "white" to refer to the player taking white.
+
+-- You had two questions:
+
+1.  "I am curious if there were any flaws in the opening.
+
+Generally, it went pretty well.  You made an excellent framework in the lower right, which helped you throughout the game.
+
+2. "In the mid game I chase a white group to destroy white's moyo.  Should I have been more aggressive and tried to kill it?"
+
+I would have definitely tried to kill white's group on top, since it would have given you a bunch of uncontestable points.  There were a couple of ways you could have done so.  You could have pushed a bit to harm white's moyo and then killed white's group.  Or, since white's moyo was still somewhat weak, you could have killed immediately and then reduced or invaded. As for killing, you could have killed the white stones by simply cutting any time between moves 105 and 159. 
+
+
+--  I also noticed a couple of areas that could have improved the game significantly.
+
+1. At move 138, you had a chance to kill white's big top left group.
+
+2. Early on, you could have pursued a more fruitful strategy by working on developing your framework rather than attacking at move 49.
+
+3. Lastly, there were much better options to deal with white's invasion of your framework at move 72.   I did some research and got some help from a friend here -- there are numerous variations.]
+;B[cc];W[pd];B[qp];W[dq];B[oq];W[co];B[jq];W[jc];B[qj]C[Black has an awesome framework now. - Josh]
+;W[cf]
+(;B[ch]LB[cj:A]C[I'm not good enough to say for certain, but I don't really like your pincer at C12.  When white counter pincers at A , white starts setting up a moyo.  Moreover, you have two  groups to contend with while white has just one.
+
+However, I can't find anything inherently wrong with this move.
+
+- Josh];W[cj];B[eh];W[ef];B[ed];W[gc];B[gd];W[fe];B[fd];W[fh]
+(;B[eg]C[This move is Aji-keshi and ends up helping white. - Josh]
+;W[fg];B[df]SQ[cc][ed][fd][gd]C[I don't think this poke is good because it ends up hurting the stones above.]
+;W[de];B[dg];W[ee];B[ce];W[cd];B[be];W[dd]C[This is where your stones on top get hurt. - Josh]
+;B[dc];W[bd];B[bf]
+(;W[bc]LB[fc:A][hc:B]C[I think a response at B would have been better than your response at A, since you spend another move to play B later. -- Josh]
+(;B[fc];W[ge];B[hc];W[gb];B[hb];W[fb];B[he];W[cb]
+(;B[db]LB[eb:A]C[Playing at A would have been much better shape. - Josh]
+;W[eb];B[ec]LB[da:A][hd:B]C[Oops!  White made an error here -- white could have played the Atari at A to connect.  Thus, the move at D18 (move 43) was an error for you.  - Josh]
+(;W[bb];B[da];W[ca]
+(;B[nc]LB[qf:A][qg:B]SQ[jc]C[I think this is the wrong side to approach.  A or B would have been better so as to work on your framework on the right / bottom.  The K17 stone is hard to attack because of the peep at  J16.
+- Josh];W[id];B[hd];W[oc];B[nd];W[ob]LB[pe:A]C[This is a mistake by white because it allows you to play at A. - Josh]
+(;B[nb]LB[pe:A]SQ[jc][id]C[This move means that you are working hard to attack the marked stones.  However, you could have taken the opportunity to work on your moyo by playing at A instead.
+
+It's hard to attack the two white stones because your three stones in the upper right are eyeless.
+
+- Josh];W[pf];B[kd];W[ie];B[if];W[je];B[jf];W[ke];B[kc];W[kf]
+;B[gf];W[gg];B[ic];W[jd];B[jb];W[kg];B[lj]LB[mj:B][nj:A]C[I like this move.  It emphasizes both your moyo and attacking the stones above.  However, playing at A or B instead would have made it harder for white to invade, and so might have been a better choice.. -- Josh]
+;W[oj]LB[oi:E][pj:D][ok:A][pl:B][ql:C]C[This is a pivotal point in the game -- and also a very difficult one.  Your attachment at A didn't work out very well since it ended up destroying your framework.  I went looking for some ideas by doing a pattern search on GoBase.  
+
+Here's what I found for the standard responses: When looking at pro games, I found that B and C were the most common, although A is definitely Joseki.  D occurs occasionally.  Although A is possible, it is almost always followed up with a connection.  I would also consider playing the extension at B.  Another possibility is to play at C, which while it is conservative, it is both solid and gives you sente for some other moves.  D is a fun move, but probably isn't ideal here.
+
+I showed this game to my friend Jared who is 4-5k and he suggested the attachment at E.  The variations get pretty complicated, but it's a great attacking move since the most natural way for white to play leads to you sealing in your bottom side.  This move is also consistent with the general rule that you cut on the opposite side of the one that you want.
+
+-Josh]
+(;B[ok];W[nk]LB[nj:A][pk:B]C[Locally, the position would have ended up better if you had played at B instead of A. - Josh]
+(;B[nj];W[pk]
+(;B[ol];W[pj];B[qk];W[pl];B[ql];W[om];B[nl];W[nm];B[ml];W[qm]
+;B[ni];W[qi];B[rm];W[ri];B[qn];W[pm];B[rn];W[hq]CR[jc][id][jd]
+[ie][je][ke][kf][kg]SQ[ni][lj][nj][ok][ml][nl][ol]C[This seems painful for you -- now white gets to work on his moyo, and yours is basically destroyed.  Moreover, white's invading stones are totally solid.
+
+However, when white played 94, he gave you a chance to attack the white stones on top (circles).  In the next couple of moves, you used your center stones (squares) quite well to attack the white stones on top.  Good choice.
+
+- Josh]
+(;B[oh];W[ph];B[og];W[of];B[pg];W[qg];B[nf]
+(;W[od]C[White 102 is too slow.  You correctly capitalize on this by attacking the white stones. - Josh]
+(;B[ih]LB[ji:A]C[Playing at A would have created fewer holes for you. - Josh]
+(;W[ji]LB[jh:A][ki:B][eo:C]C[You can now cut here at A.  As such, white should probably have played at B. Curiously, this cut remains open for most of the game until you force white to protect the cut at move 159. 
+
+There are a couple of ways to use this opportunity.  You can push for a couple of moves and then cut at A.  Or you can cut immediately and think about reducing white's framework with C.
+
+- Josh]
+(;B[ii]LB[jh:A];W[jj];B[ij];W[jk];B[ik];W[lk];B[mk];W[jl];B[il]
+;W[jm];B[im];W[jn];B[in];W[ln]
+(;B[fo];W[mn];B[fq];W[jo];B[ip];W[io];B[hp];W[ho];B[gp];W[lq]
+;B[er];W[dr];B[gn];W[cl];B[fi];W[gi];B[fj];W[gj];B[gk];W[ff]
+LB[ad:A]C[Ah!  Here's a chance to kill white!  See the variation starting at A. 
+- Josh]
+(;B[hf];W[aa];B[dn];W[cn];B[dm];W[dl];B[cm];W[bm];B[el];W[do]
+;B[eo];W[ek];B[fl];W[di];B[ei];W[dh];B[cg]C[This move wasn't necessary.
+
+- Josh];W[ci];B[fk];W[bi]
+(;B[ki]LB[jh:A]C[Oops!  Until this move, cutting at A works just fine. - Josh]
+;W[jh];B[lh];W[na];B[ma];W[oa];B[lb];W[mq];B[nr];W[jp];B[iq]
+;W[kq];B[oo];W[no];B[np];W[mp];B[lg];W[le];B[ld];W[me];B[mf]
+;W[ne];B[rj];W[oi];B[kk];W[ll];B[kl];W[lm];B[kj];W[km];B[ls]
+;W[kr];B[jr];W[eq];B[fr];W[sj]
+(;B[rl];W[on];B[po];W[nq];B[op];W[ks];B[ms];W[hn];B[hm];W[ep]
+;B[go];W[bh];B[bg];W[dk];B[sk];W[si];B[ds];W[cs];B[es];W[cq]
+;B[ad];W[ac];B[ae];W[ag];B[js];W[ej];B[hh];W[gh];B[hj];W[jg]
+;B[mr];W[lf];B[ng];W[md];B[mc];W[fp];B[kh];W[ah];B[or];W[tt]
+;B[tt]TW[ba][pa][qa][ra][sa][ab][pb][qb][rb][sb][pc][qc][rc]
+[sc][qd][rd][sd][oe][pe][qe][re][se][qf][rf][sf][rg][sg][qh]
+[rh][sh][ai][pi][aj][bj][dj][ak][bk][ck][al][bl][am][an][bn]
+[kn][nn][ao][bo][ko][lo][mo][ap][bp][cp][dp][kp][lp][aq][bq]
+[ar][br][cr][as][bs]TB[ea][fa][ga][ha][ia][ja][ka][la][eb][fb]
+[gb][ib][kb][mb][gc][lc][cf][mg][mh][nh][li][mi][mj][hk][nk]
+[rk][gl][hl][sl][em][fm][gm][sm][en][fn][sn][qo][ro][so][pp]
+[rp][sp][gq][hq][pq][qq][rq][sq][gr][hr][ir][pr][qr][rr][sr]
+[fs][gs][hs][is][ns][os][ps][qs][rs][ss])
+(;B[sk]C[This works just fine. 
+
+- Josh];W[rl];B[si];W[sh]))
+(;B[jh]C[This cut still works.
+- Josh];W[kh];B[ki];W[li];B[kj]))
+(;B[ad]C[This looks like it kills, although I haven't explored all the variations. White is definitely dead locally.
+- Josh]
+(;W[hg];B[hf];W[ig];B[jg];W[ac];B[aa];W[ae];B[bg];W[ei];B[bi]
+;W[fk];B[ej];W[di];B[ek];W[fl];B[el];W[fm];B[em])
+(;W[hf];B[hg];W[bi];B[ek])))
+(;B[jh]C[A good time to cut.  White's framework is already pulverized.  
+- Josh];W[kh];B[ki])
+(;B[eo]C[This is a bit more standard.]))
+(;B[jh];W[kh];B[ki]
+(;W[ho];B[eo]
+(;W[ep];B[do];W[cp];B[cn];W[bn];B[dm];W[bm];B[ej];W[dk];B[ek]
+;W[el];B[dl];W[cl];B[fl])
+(;W[fp];B[cn];W[do];B[dn];W[en];B[em];W[fn];B[dk];W[dj];B[ej]
+;W[ck];B[dl];W[bn];B[bm];W[cm];B[cl];W[dm];B[bl]))
+(;W[eo]
+(;B[ej];W[dl])
+(;B[cl];W[ej];B[bj];W[bi];B[ci];W[bk];B[dj];W[ck];B[dk];W[dl]
+;B[el];W[dm];B[ek]))))
+(;W[ki]C[This is a better way for white to go, but it's still hard to escape.
+- Josh]
+(;B[kh]C[This would be a bad move.];W[jh];B[lh];W[jg];B[ji]
+;W[ig];B[hg];W[ii])
+(;B[jk]C[I can't see how white will escape this. - Josh])))
+(;B[ji]C[This looks like it kills white's stones on top.];W[jh]
+;B[ih];W[ig];B[hg]
+(;W[jg];B[ii];W[hf];B[if];W[ki];B[kj]C[Looks pretty dead.])
+(;W[ki];B[jj];W[kj];B[kk];W[lk];B[kl];W[hh];B[jg];W[kh];B[ii]
+)))
+(;W[ki];B[od];W[qc];B[pe];W[qe];B[oe];W[qf]))
+(;B[ph];W[pi];B[oh];W[qg];B[nf]C[Another way to enclose white.]
+))
+(;B[oi];W[pj];B[pi];W[qk];B[qi];W[ol]C[This of course is bad for you, but if the white stones were on the  the other side, it would be good for you -- hence attaching on the other side would probably be better.  
+
+Still, you might be able to kill the top right now. 
+- Josh];B[qe];W[pe];B[rd]
+(;W[rc];B[qc];W[qd];B[rb];W[re];B[sc];W[qf];B[rg])
+(;W[qc];B[rc];W[rb];B[sb];W[pb];B[ra];W[qa];B[qb])))
+(;B[pk];W[nj]SQ[jc][id][jd][ie][je][ke][kf][kg]C[Of course, now it's harder to attack the stones on top.]
+;B[nl];W[ml];B[mm];W[nm];B[ol];W[lm];B[mn];W[lk];B[ln];W[km]
+;B[gq]C[Black has quite a few points, but now the white stones on top are safe. - Josh]
+))
+(;B[pl];W[qi];B[ri]
+(;W[pi];B[rh]C[This looks quite nice for you.  Black gets quite a lot of points while also invading the top side. - Josh]
+)
+(;W[rh];B[pi];W[qh];B[pj];W[rj];B[rk];W[si];B[oi]))
+(;B[ql];W[ol];B[qh];W[qg];B[ph]CR[jc][id][jd][ie][je][ke][kf]
+[kg]SQ[oj][ol]C[Now white is going to have to deal with two weak groups.]
+)
+(;B[pj];W[ok];B[pl];W[ol];B[pm];W[oh])
+(;B[oi]C[Lots of complicated fighting can erupt with this move. - Josh]
+(;W[ni];B[nj]C[After the cut, if white ataris, then you get to seal in your side.  Otherwise, you have the possibility of starting a fight that looks good for you. - Josh]
+(;W[pi];B[ok]
+(;W[oh];B[pk]C[Now your moyo is sealed in from this side. - Josh]
+)
+(;W[pj];B[pk];W[qi];B[qk]))
+(;W[pj];B[pi];W[qk];B[nk];W[qi];B[rj];W[ol];B[qh];W[pl];B[nh]
+SQ[ob][jc][oc][id][jd][pd][ie][je][ke][kf][pf][kg][oj][pj][qk]
+[ol][pl]C[This looks really good for black because you can look to attack three groups now. - Josh]
+)
+(;W[ok];B[pi]C[Quite dangerous for white. - josh]
+(;W[nh];B[nk]
+(;W[ol];B[ql];W[nl];B[ll])
+(;W[nl];B[ol];W[pl];B[om];W[pk]
+(;B[rl])
+(;B[pm])))
+(;W[om]
+(;B[ql])
+(;B[pl];W[ol];B[qm]))))
+(;W[pj];B[pi];W[qk];B[nj];W[qi];B[rj]
+(;W[rk];B[ri];W[qh];B[rh]
+(;W[qg];B[pk];W[ok];B[pl];W[qm])
+(;W[rg];B[qg];W[ph];B[rf];W[qf];B[sg];W[re];B[pk];W[ok];B[pl]
+;W[qm];B[ol]))
+(;W[pl];B[qh];W[ol];B[nk];W[rk])
+(;W[ri];B[rk];W[ql];B[rl];W[qm];B[rm];W[qn];B[ro];W[ol];B[qg]
+;W[qh];B[pg];W[rg];B[qf]))))
+(;B[pe];W[qe];B[pf];W[qf];B[pg];W[qg];B[od];W[qc];B[pi];W[mb]
+LB[jj:A][gq:B]C[Black is in an excellent position now. A or B might be some good follow ups.]
+(;B[jj])
+(;B[gq])))
+(;B[qf]
+(;W[qh];B[of];W[nd];B[rd];W[qc];B[pi])
+(;W[qe];B[pf];W[nd];B[gq])))
+(;W[da];B[hd];W[bb]))
+(;B[eb];W[db];B[ga];W[ec];B[dc]C[Black is extremely solid.]
+))
+(;B[hc]C[I think this is a better.];W[ge];B[he];W[hb];B[gb]
+;W[ic];B[fc]))
+(;W[fb];B[fc];W[gb];B[eb];W[bc]C[This would have been a bit better for white. - Josh]
+))
+(;B[ei];W[fg];B[dk];W[ck];B[dl];W[cl];B[dm];W[cm];B[hc]C[A reasonable variation]
+))
+(;B[fc];W[di];B[gq]C[A more peaceful variation.]))

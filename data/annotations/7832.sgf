@@ -1,0 +1,186 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.17]
+
+PB[dancor]
+BR[5k]
+HA[2]
+PW[asama500]
+WR[3k]
+KM[0.5]
+DT[2010-04-19]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[W+Resign]
+TM[1500]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+AB[pd][dp]C[asama500 [3k\]: hi
+dancor [5k\]: hi
+
+hello reviewer, i felt like i did a good job of seizing sente in this handicap game, but i wasn't sure if i had good direction and was getting large moves.  i have a huge tactical failure in the upper left corner at one point.  to progress, do i simply need to get better at reading for such battles or do i also need to learn to risk less in such situations?  i also have some specific questions in comments, and a couple points where i ask for advice about a particular area.  anything else you see along the way is great too.  thanks, --dancor
+
+> Hello, you'll find most answers in variations; I added a summary at the end of the game.]
+;W[pp];B[dd];W[kc]LB[mc:A][dj:B]
+(;B[mc];W[hc]LB[fc:C][dj:B][pj:A][qj:D]
+(;B[pj]C[is bD10 better?];W[pl]LB[fc:B][jp:A]
+(;B[jp];W[cn]LB[cj:B][fp:A]
+(;B[fp];W[bp];B[cq];W[ck]LB[fc:E][nj:B][qj:D][qk:A][ql:C]
+(;B[qk]C[bad move?
+
+> Bad move indeed. It makes weak shape and gives strong shape. There is no reason to play this kind of move here.]
+;W[ql];B[mq];W[oq];B[nj];W[qi]LB[pi:B][qk:1][rk:A][ql:2]C[> An easy invasion for W. The situation would be quite different if B had omitted 1 for 2.]
+(;B[rk]C[bad move?  also, if bQ11 instead, what happens if white pushes on the third line?
+
+> This is the natural move now, it puts pressure and gives good endgame later. Allowing the connection would be too easy on W.]
+;W[qf]LB[qd:B][qe:A]
+(;B[qe]C[> Here the kick makes W heavy but also stronger, and B feels compelled to reinforce over N17.]
+;W[pf];B[ne];W[ng]LB[fc:B][og:A]
+(;B[og]C[bad move?
+
+> This only fixes W. Just play elsewhere when an attack stops bearing fruits. You may get nice chances later.]
+;W[of];B[nf]LB[nh:B][oh:A]
+(;W[oh]C[> W's mistake.];B[mg];W[nh];B[mh];W[pi];B[oj];W[rf]
+;B[re];W[se];B[sd];W[sf];B[rc];W[od];B[oe];W[pe];B[pc];W[mf]
+;B[mi];W[lf];B[md];W[jf]LB[cf:C][ih:A][nm:B]
+(;B[ih]C[too far?
+
+> Shape looks ok but direction is a bit vague, there is no strong attack left at top !]
+;W[cf];B[ce]C[> Again, the kick is a bit risky since it gives strong shape.]
+;W[df]LB[ec:B][fc:A]
+(;B[fc]LB[cc:B][fk:A]
+(;W[fk]C[> Quite vague from W.];B[nm];W[pn];B[hl];W[fn];B[ho]
+;W[ff]LB[bf:B][bq:A]
+(;B[bq]C[> Bad timing.];W[no]LB[ln:B][mn:A]
+(;B[mn]C[bad move?
+
+> M6 is better if you're going to resist M4, but then W can N6. A nice endgame problem.]
+;W[lp]LB[mp:A][lq:B]
+(;B[mp]C[> This resistance is risky.];W[mo];B[lo];W[lq]LB[kp:A]
+[kq:B]
+(;B[kp]C[L3 is better?
+
+> No, looks like the best sacrifice. Painful !];W[lr];B[jr]
+;W[mr];B[gi];W[ei];B[hf];W[gd]LB[bf:B][kg:A]
+(;B[kg]LB[cc:B][kf:A]
+(;W[kf]LB[be:A][bf:B]
+(;B[be];W[bf];B[af];W[ag];B[ae];W[bh];B[gb];W[hb]LB[lb:A][fd:B]
+(;B[lb];W[eb]LB[cb:B][ec:A]
+(;B[ec]C[where do i go wrong here?  i guess i read a move (or many..) too late for sure
+
+> Very dangerous resistance.];W[db];B[fb];W[bc];B[cb];W[cc]
+;B[bb];W[dc];B[ee];W[ab];B[ba];W[fd];B[ed];W[gf];B[ad];W[ac]
+;B[ea];W[da]LB[fa:A][ga:B]
+(;B[fa]C[at this point would bG19 be better?
+
+> It would not change the status. Black lacks outside liberties to match W's big eye.]
+;W[ha];B[sh];W[rh];B[si];W[pg]CR[ka][la][kb][ic][jc][nd][ge]
+[eg][sg][eh][hh][jh][kh][lh][ii][ej][ij][ik][nk][fl][nl][dm]
+[em][im][mm][pm][qm][an][bn][in][nn][on][rn][ro][ep][gp][rp]
+[sp][aq][jq][js][ls]LB[he:A][hk:B]C[maybe he's just playing safe with his lead now.  i had trouble counting in the game and didn't know if i was down 10 or 20 points here or what.  advice for counting?
+
+> Yes, W is playing safe and rightly so.
+
+> A fast method to judge the position is to compare territories directly:
+
+> W left ~ B lower left
+> W lower right ~ B center
+> B upper right ~ W upper left minus prisoners (W a bit bigger)
+
+> W is leading by corner prisoners + right side + a bit + a bit, say 17 + 5 + ~5 + ~5 = ~30. 
+
+> For a more precise count, assume a pessimistic endgame against each player to define the boundaries.
+> For instance, Black gets A and White gets B.
+
+> White:
+> middle left = 4
+> upper left = 17 * 2 + 9 = 43
+> left = 26
+> lower right = 2 * 2 + 24 = 28
+> right = 5
+> total = 102
+
+> Black:
+> lower left = 26
+> center = 25
+> upper right = 2 + 20 = 22
+> total = 73];B[sn];W[ro];B[so];W[sm];B[rm];W[sp];B[rn];W[rp]
+LB[he:B][ie:A]
+(;B[ie]C[i guess i should have thought more about a good continuation here.  this is my last self-comment, i think the game is pretty much over after this local failure]
+;W[hg];B[ig];W[if];B[he];W[gg];B[kd];W[jd];B[je];W[ke];B[ld]
+;W[id];B[jb];W[jc];B[kb];W[ib];B[en];W[em];B[dn];W[dm];B[gm]
+;W[fm];B[co];W[bo];B[ap];W[bn];B[fh];W[ef];B[eh];W[dh];B[fj]
+;W[ej];B[gk];W[fi];B[gh];W[gj];B[hj];W[eo];B[fo];W[do];B[on]
+;W[oo];B[rl];W[ln];B[ko];W[mm];B[qn];W[om];B[qo];W[qp];B[ll]
+;W[nl];B[lm];W[nn];B[kn];W[ml];B[mk];W[ep];B[eq];W[cp];B[fl]
+;W[el];B[fj];W[gl];B[gn];W[dq];B[dr];W[er];B[dp];W[gj];B[dq]
+;W[hk];B[ik];W[hi]C[> Main topic of this game: Black lost a won game by putting up unecessary and risky resistance against W's corner attack. Before that it was possible to wrap up the game cleanly by taking gote to secure that corner.
+
+> The key to handling such situations is to judge the position, even roughly, between each fight. When ahead, as you were in the late middlegame, you know can afford to spend a gote to lock your lead. Without a judgement, you'll be tempted to take bad risks to maximize your gain, which can easily backfire.
+
+> Middlegame tips:
+> When defending, pick the direction that will enable counterattacks; don't be content with passive moves (e.g. J12 versus O7).
+> When attacking, play for a definite gain (don't just "try to kill") and know when to stop, so you can resume the attack when time is ripe. Try to have attacks that involve multiple opponent weaknesses instead of hammering one group until it is fully settled.
+
+> Shape tips: 
+> Avoid giving strong shape unless you have clear reasons... (R9, R15, C15)
+> When the opponent is strong nearby your position, consider possible severe attacks (e.g. White could have gone 3-3 earlier in the game) and defend accordingly.
+
+> Opening tips: 
+> Remember 4th line is for development, 3rd for completion (stability), and take opponent stones into account to make your choice (e.g. Q10 versus R10).
+> Don't commit too early in a miai situation (N17 vs. D10) as it makes choices easier for your opponent.
+> Also, checking extensions are really big moves (e.g. F17) that enable further attacks, so don't forget to play them.]
+)
+(;B[he]))
+(;B[ga]C[advice for evaluating positions like this?  is this an n-step ko?
+
+> This F19 liberty cannot save Black. White will still give atari from the outside.]
+;W[ha]C[> Black dies without ko.];B[ca];W[de];B[cd];W[ef];B[bd]
+;W[aa];B[ca];W[fe]))
+(;B[cb]C[> Last chance to fall back !];W[ec];B[ed];W[fd];B[fb]
+;W[gc]))
+(;B[fd]C[> Safe move. B has a fair lead.]))
+(;B[bf]C[> Still...]))
+(;W[cc]C[> Ouch !]))
+(;B[bf]C[> Necessary, I believe.]))
+(;B[kq];W[lr]LB[kp:B][kr:A]
+(;B[kr])
+(;B[kp])))
+(;B[lq]C[> Safe move.]))
+(;B[ln];W[lp];B[mp];W[mo];B[lo];W[lq];B[lr];W[kq];B[jq]C[black would win this fight after bM6?
+
+> Yes, B wins this as W cannot gain liberties on the side.]
+))
+(;B[bf]C[> Very big move that gives B a solid lead.]))
+(;W[cc]C[> Were you ready for this ?];B[be];W[eb];B[fb];W[ec]
+;B[ed];W[fd]))
+(;B[ec]C[> A safe move.]))
+(;B[nm]C[> Locally better move (you played it later), linking up, putting pressure on W side, and building moyo.]
+)
+(;B[cf]LB[ci:A]C[> Tenuki is quite playable (White has no obvious attack). Now this direction looks better (follow-up at A).]
+))
+(;W[nh]C[> W just needs to extend.]))
+(;B[fc]TR[ng]SQ[ne][nj]C[> Ideal timing to put pressure since W gets two "almost weak" groups and must move carefully.]
+))
+(;B[qd]C[> I would consider this move to avoid helping W.]))
+(;B[pi];W[qh];B[ph];W[qg];B[pg];W[qf];B[pf]LB[rd:B][qe:A]
+(;W[qe]LB[qd:B][pe:A]
+(;B[pe]SQ[hc][kc]C[> Anyway, Black is left with inefficient thickness as W is about settled at top. Not a good deal.]
+)
+(;B[qd]C[> Black would block this.]))
+(;W[rd]C[> The local move.])))
+(;B[nj]C[> Locally, better than the game.])
+(;B[ql]C[> Also better than the game.])
+(;B[qj]C[> Very ugly but also better than the game.])
+(;B[fc]C[> Still a very good move.]))
+(;B[cj]C[> This could make a nice moyo...];W[fq];B[fp];W[gp]
+;B[fo];W[cq]LB[eq:B];B[cp];W[dq];B[eq];W[er];B[ep];W[gr];B[go]
+LB[hc:2][mc:1]C[> ... but 1 for 2 still feels wrong...];W[hp]
+;B[ho];W[ip];B[io];W[jo]SQ[pl][pp]C[> ... and W can fight.]
+))
+(;B[fc]C[> Still nice.]))
+(;B[dj]LB[hc:2][mc:1]C[> This feels a bit strange, B would prefer to exchange 1 for 2 now to grow the moyo.]
+;W[jp];B[pj])
+(;B[fc]C[> Locally, this is a nice continuation. W is in a pinch as she allowed B to play close checking extensions on both sides.]
+)
+(;B[qj]SQ[pp]C[> This is the most natural extension as W occupies the corner.]
+))
+(;B[dj]C[> I like this way, more open.]))

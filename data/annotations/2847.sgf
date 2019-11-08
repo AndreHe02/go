@@ -1,0 +1,148 @@
+(;FF[4]GM[1]SZ[19]ST[2]AP[SGFC:1.14]VW[]
+
+PB[veda]
+BR[24k]
+HA[0]
+PW[AkashaYi]
+KM[6.5]
+DT[2003-09-09]
+PC[The Kiseido Go Server (KGS) at http://kgs.kiseido.com/]
+RE[W+92.50]
+TM[1650]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+C[Hi, Veda:
+
+I'm SirBowen on KGS (15k), and I'll be reviewing your game. My comments will be prefixed by "SB:"
+
+Your game shows many strong points. In the review I've pointed out some areas where a little attention can take your playing level up a notch or two.
+
+A Go master, I'm not. But I hope the comments are helpful.]
+;B[pp];W[pd];B[dj]C[SB: This play brings up a nutshell introduction to opening theory (fuseki)...
+
+For now, you should take it as an axiom that your first goal is to get a stone in each empty corner.
+
+After that, your next several moves should have one of 3 goals:
+1) secure your corner with a 2nd stone,
+2) extend from your corner along the side, and/or
+3) make it difficult for your opponent to do 1 & 2 by approaching their corner.
+
+If a single move can serve more than one of the above purposes, so much the better.
+
+Continue 1, 2 & 3 until all the chances to do so are taken up. At this point the opening is over and you begin the middle game.
+
+At points in the opening, local fighting may break out and you'll have to respond to it. But as soon as there are no urgent moves to make in the local position, return to 1, 2 & 3.
+
+This is an over-simplification, of course, but for players at our level these general principles will never lead to a bad result.]
+;W[dp];B[nr];W[gp]LB[dd:A]TR[dj]C[SB: To follow up on the previous discussion, imagine how lonely your marked stone would look if your opponent had taken the open corner at A instead of playing 6 here.
+
+Even though White lets you eventually get the other corner, he generally plays an opening more in keeping with the opening principles I gave earlier. This gives him a better early position and after that you're playing catch-up (which should be White's job!)]
+;B[pm];W[lc];B[dd];W[ph];B[hd];W[jd];B[ib];W[he];B[ic];W[id]
+;B[hc];W[if];B[fd];W[qk];B[rl];W[pl]
+(;B[qm]C[Would it have made more sense to play at r8 instead?
+
+----------
+SB: It probably wouldn't have made much difference. See variation.]
+;W[rk];B[sl];W[ql];B[rm];W[om];B[pn];W[jq];B[on];W[nl];B[nn]
+;W[mn];B[mo];W[mq];B[mp];W[lp];B[nq]LB[ln:A][mm:B][nm:C]C[Is there any way for me to break her form at this point?
+
+----------
+SB: Actually, there is. A play at A, B or C would either capture stones or cause White to defend them. In either case, you would break through to the center area and nullify much of the power of White's wall in the lower-right. See the variation two moves later for a possibility.
+
+Often this is the case when the opponent seems to be pulling ahead for no obvious reason. Sometimes it's really that they're making better plays than we are - but sometimes it's simply that they're over-extending and leaving weak points behind.]
+;W[lo]
+(;B[np]C[SB: Breakthrough variation begins on this move...]
+;W[mr];B[ms];W[ls];B[ns];W[lr];B[jj];W[li];B[im];W[ji];B[ii]
+;W[ih];B[ij];W[kj];B[kk];W[lk];B[jh];W[ki];B[ig];W[jg];B[hh]
+;W[kh];B[ih];W[hg];B[gf];W[hf];B[gg];W[kl];B[jk];W[cm];B[jl]
+;W[jm];B[il];W[fl];B[fk]TR[gn][hn][in][jn]SQ[bj][cj][dj][ej]
+[gk][hl]C[How could I have stopped her invasion at this point?
+
+----------
+Strictly speaking, this is more of a reduction than an invasion. It's hard to talk about "stopping" a reduction (unless you can actually capture the encroaching stones, which is unlikely here).
+
+Usually it's better to just hold the line as much as possible and make up for it somewhere else. You could probably have held the line at about where I've put squares, and then made a counter-incursion in the area where I've put triangles.
+
+In the following sequence, you attempt to counter-attack. You end up holding to about the same line of defense, but losing some stones in the process. More importantly, the fighting closes off much of your room for a counter-reduction. (And, actually, you're luckly that it didn't end up opening a hole for a larger invasion into the upper-left area).
+
+Remember, sometimes Go is best approached like Judo - don't directly resist the opponent's force, but look for the opening that they leave when they go on the attack.]
+;W[ek];B[dl];W[el];B[dm];W[dn];B[gl];W[gm];B[hm];W[em];B[ej]
+;W[gk];B[fj];W[dk];B[hl];W[ck];B[cj];W[jn];B[bk];W[bl];B[bj]
+;W[ak];B[aj];W[al];B[gn];W[fm];B[hn]C[I was hesitant to play in the large upper left area because I did not think my opponent was aggressive. Which cost me later on.
+
+----------
+SB: By all means, do not hesitate!
+
+It's not really accurate to think of a 3-3 point invasion underneath a star-point stone as an "aggressive" move. It's natural and expected. There comes a point when the corner invasion is vital, and that point comes earlier in the game than many people realize.
+
+There are a few important things to understand:
+
+1) The star-point opening doesn't lay claim to the corner territory - the 3-3 point invasion can always work. Rather, the star-point opening secures influence toward the center. It takes another stone (and often two other stones) to turn the corner into territory.
+
+2) The corner invasion is worth quite a few points; call it about 20 in most circumstances. The final invading group may only surround a couple of points of actual territory, but the defender also loses the points of territory occupied by the invading stones AND the defending stones that surround them.
+
+3) In the opening phase of the game, a 3-3 corner invasion underneath a star-point stone is basically a break-even for both sides. The invader gets territory, while the defender builds up a wall around the corner that they can use to extend their position.
+
+But after the opening, once the larger frameworks are sketched out, a wall in the corner loses much of its value. Look at all four corners at this point in the game, and you'll see what I mean. That means that the invader gets 20 points of territory, without giving the defender much in return.
+
+So, as soon as the opening is over and you don't see any other move worth 20 points or more, the corners start to look pretty tasty. Then it's time to either secure your own corners or invade the other guy's.]
+;W[go];B[qc]C[SB: OK. Good move.
+
+Now the main thing you'll need to do is to learn some standard sequences for this situation. I don't think that players need a detailed study of joseki at your level, but learning some basics on how to continue in common situations can really pay off.
+
+In all 3 corner invasions, you get taken advantage of from having to figure out the sequences in the heat of battle.]
+;W[pc]
+(;B[pb]LB[nc:A]C[SB: This hane can work, but it generally requires a supporting stone on the outside, around A.
+
+Try the sequence I've given in the variation for a more reliable continuation.]
+;W[qd];B[rc];W[ob];B[pa];W[rd];B[qb];W[oa];B[sc];W[sd];B[jb]
+LB[ra:A]C[SB: Before you leave the upper-right corner, you need to make one more move to keep it alive. The point at A is key, and whomever gets it wins the corner. White never plays this move in your game, but could have at any time, in which case your corner is dead.
+
+Later, in the lower-left corner, you end up with a similar eye shape, and White uses this move to kill it.
+
+There are some books that give very good descriptions of eye space shapes that are alive, dead, or unsettled; this is very handy to know. See "Life and Death" by Davies for one such study.]
+;W[kb];B[ka];W[la];B[ja];W[jc];B[io];W[ho];B[in];W[ip];B[jo]
+;W[ko];B[jp];W[kp];B[og];W[of];B[cq];W[dq];B[cr];W[cp];B[bp]
+;W[bo];B[ap];W[dr];B[cs];W[ds];B[bq];W[ao];B[pf];W[pg];B[oe]
+;W[nf];B[qg];W[nh];B[ne];W[pe];B[mf];W[ng];B[qf];W[qh];B[rg]
+;W[me];B[re];W[nd];B[se];W[rh];B[sg];W[sh];B[qe]C[Is there any way that this shape can possibly live?
+
+----------
+SB: No, this group simply has no space for two eyes. See the references on eye shapes for details.]
+;W[sf];B[md];W[le];B[lf];W[od];B[kg];W[jf];B[tt];W[ar];B[aq]
+;W[bs];B[ge];W[cc];B[cb];W[cd];B[ce];W[dc];B[ec];W[db]C[what are the best moves to block her off.  I was kind of surprised at this point.  I think next time I should play towards the outsside first since thats the only real chance she had at making her piece live. like maybe d18 instead of e17.
+
+----------
+SB: As I mentioned before, since you didn't defend against this invasion earlier there's really no way to kill it now. By attempting to kill it rather than just confine it, you end up losing virtually the entire upper-left quadrant.
+
+The total loss here turns out to be about 60 points, rather than the 20 that it should have been worth (again, counting the actual territory that White gains plus all the points you lose because they end up occupied by stones).]
+;B[eb];W[bb];B[bc];W[be];B[ae];W[de];B[cf];W[ed];B[fc];W[ad]
+;B[bf];W[af];B[df];W[ef];B[fe];W[ca];B[ee];W[dd];B[eg];W[ea]
+;B[ff];W[fb];B[ef];W[bg];B[gb];W[fa];B[cg];W[bh];B[bi];W[ch]
+;B[dh];W[ci];B[ah];W[ag];B[ai];W[di];B[ei];W[ae];B[fi];W[ga]
+;B[ha];W[da];B[fn];W[eo];B[gq];W[hq];B[fq];W[gr];B[hr];W[hs]
+;B[ir];W[fr];B[is];W[gs];B[fo];W[fp];B[ep];W[eq];B[jr];W[kr]
+LB[sk:B];B[sk];W[sj];B[nm];W[mm];B[no];W[ol];B[pr];W[km];TB[ss]
+[rs][qs][ps][os][sr][rr][qr][or][sq][rq][qq][pq][oq][sp][rp]
+[qp][op][so][ro][qo][po][oo][sn][rn][qn][sm][ik][hk][gk][hj]
+[gj][hi][gi][gh][fh][eh][fg][dg][gd][gc][sb][rb][hb][sa][ra]
+[qa][ia]TW[ks][js][is][fs][es][cs][bs][as][jr][ir][hr][er][cr]
+[br][ar][lq][kq][iq][gq][fq][cq][bq][aq][hp][ep][bp][ap][do]
+[co][ln][kn][cn][bn][an][lm][km][dm][bm][am][ml][ll][dl][cl]
+[pk][ok][nk][mk][rj][qj][pj][oj][nj][mj][lj][si][ri][qi][pi]
+[oi][ni][mi][oh][mh][lh][sg][rg][qg][og][mg][lg][kg][rf][qf]
+[pf][mf][lf][kf][se][re][qe][oe][ne][ke][je][ie][md][ld][kd]
+[bd][oc][nc][mc][kc][bc][ac][nb][mb][lb][cb][ab][na][ma][ba]
+[aa])
+(;B[qd];W[qe];B[re];W[qf];B[rf];W[qg];B[pb];W[ob];B[qb];W[nc]
+C[Now Black has a living group in the corner (and White's newly-built wall is probably not going to buy him much).]
+))
+(;B[mm];W[ln];B[nm];W[ol]C[SB: Now Black is behind enemy lines.
+
+I hate when my opponent gets this sort of "spike" started, where a line of his stones that squeezes through my defenses is connected to a secure base on the far side. It can do a surprising amount of damage.
+
+Because it can't be killed, it can easily be used to cut groups. And even if it stays linear and doesn't make much territory by itself, it can consume a lot of territory as it snakes around.]
+))
+(;B[ql]LB[pk:A][qm:B]C[SB: Now White has to defend the cutting point at A. But you have also created one for yourself at B, which you have to defend. It's unlikely this would have made much difference.]
+))

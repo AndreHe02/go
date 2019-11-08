@@ -1,0 +1,136 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[utf-8]AP[SGFC:1.17]
+
+GN[review27]
+PB[f4223n354]
+BR[5k]
+PW[mdmd]
+WR[4k]
+KM[0.5]
+DT[2010-08-05]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[B+3.5]
+TM[1800]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+C[dear reviewer, i played this game as black. i think i'm able to win this because my opponent give me some "free" points (ex: move 217-218). i want to know if i can do better so please point out all the move that you think as "bad" and show me every move that you think "better"
+i have pointed some (i note my comment with fa) but if you see another, please tell me.
+
+thanks for your review
+faza
+
+----
+
+Thanks for sending this interesting game.   I think the most important thing you can learn at the moment is the difference between "light" and "heavy" moves.  I'll point out examples as I go through the game, to show you what this means.  Many of your moves were too heavy; you can improve your game by being ready to sacrifice stones instead of defending them.
+
+Also, you should try to avoid moves that reduce your own liberties.  Again, I'll point out some examples.  You might also want to read the web page http://senseis.xmp.net/?DontTakeAwayYourOwnLiberties
+
+Alex];B[pp];W[dd];B[dp];W[pd];B[qf];W[nd];B[qc]LB[rd:a][pj:b]
+C[Alex: It's too early in the game to invade.  You should play 'a' or 'b' (S16 or Q10) instead.]
+;W[qd];B[rd];W[re];B[rc];W[qe];B[ob];W[nb]C[Alex: This is a mistake by white.]
+;B[oc];W[nc];B[od];W[oe];B[ne]C[Alex: Good move.  It's important, though, to remember that your corner isn't alive yet.  Later, you need to come back and defend.]
+;W[of];B[me];W[kd]LB[lc:a]C[Alex: Another mistake by white: this should be at 'a' (M17) instead.]
+(;B[md]C[Alex: This is an example of a heavy move.  Now white can attack three black stones instead of just two.
+
+Of course your variation is better.  But if you can't see a way to get a good result, then you shouldn't add a stone, you should just play in a different part of the board.]
+;W[lc];B[mc]LB[mb:a]C[Alex: This is a terrible move!  Now you have four weak stones, and you're helping white to fix up his own weakness.  (Instead, you might have wanted to play at 'a' (N18) later in the game.)  This is an example of a move that reduces your own liberties.]
+;W[mb]TR[mf][le][ld][nf]C[Alex: Now the black stones only have four liberties, where they used to have five.]
+;B[jp]C[Alex: Good idea.  Just one problem: white can kill the top right corner (see variation to next move).]
+(;W[mg]C[Alex: See variation.]
+(;B[lf]C[Alex: I think this is the most important move of the game.  Black has five weak stones, and white's groups on both sides are strong.  Saving your stones isn't worth anything here.  This is what I mean by heavy play.
+
+See the variations for what you could have done instead.];W[kh]
+;B[jf];W[id];B[lg]LB[ig:a]C[Alex: I think that 'a' (J13) is a better way to escape.]
+;W[lh];B[mh];W[ng];B[mi];W[ih];B[jg];W[jh];B[je]LB[hf:a]C[Alex: I think it's better to just keep running (play at 'a' (H14)).  See the variation to white's next move.]
+(;W[hc];B[hf];W[fd];B[hg];W[gi];B[hh]LB[pj:a]C[Alex: This is bad: again you're helping to strengthen white (same idea as when you played N16 and N17).  Better to leave it alone and go straight to 'a' (Q10).]
+;W[hi];B[pj]C[Alex: This is good.];W[ph];B[qh]LB[dj:a]C[Alex: This doesn't gain much.  Maybe it's better to play at 'a' (D10) instead, I'm not sure.]
+;W[qi];B[pi];W[qg];B[rh];W[pg];B[qj];W[rg];B[ri]C[Alex: This is a small move (it's only worth about 12 points: there are much more important things at this stage of the game); you should play somewhere on the left side instead.]
+;W[pf]LB[fg:a]C[Alex: Mistake by white: this move isn't necessary.  White could have played 'a' (F13) here.]
+;B[fg];W[oa];B[pa]
+(;W[pb]C[Alex: See variation for how white could kill the corner.]
+;B[pc];W[qa];B[qb];W[ra]C[Alex: Another mistake: white doesn't have enough ko threats to start this.  So white should try something on the left side instead.]
+;B[pa];W[ei];B[na]C[Alex: Good, now your corner is properly alive.]
+;W[lb];B[fh]LB[cd:a]C[Alex: I don't think this group can live if white plays correctly.  It might be worth trying to make the position more complicated with a move such as 'a' (C16), although I'm not sure if it works.]
+;W[dh];B[ee]C[Alex: Good, this is worth trying.];W[fe];B[ff]
+;W[de];B[ge];W[gd];B[dg];W[cg];B[eh];W[di];B[df]
+(;W[cf]C[Alex: This is a mistake by white.  I think D14 instead kills the black group: see variation.]
+;B[ef];W[he];B[ie];W[ig];B[hd];W[ma]
+(;B[he]C[Alex: I think this isn't necessary, since you have a good ko threat at F11.  See variation.]
+;W[oa];B[fi];W[pb];B[fk]C[Alex: I think this trade is good for you.]
+;W[pa]LB[jj:a]C[Alex: Mistake by white!  It's essential now for white to defend the centre group, for example by playing at 'a' (K10).]
+;B[ed];W[dc]LB[ec:a]C[Alex: Another huge mistake by white.  Should be at 'a' (E17) instead.]
+;B[ec];W[ic];B[gc];W[gb]
+(;B[fc]C[Alex: Yes, your variation is better.];W[dl];B[fm];W[dn]
+;B[jj]C[Alex: Good move!];W[ij];B[ji]LB[jk:a]C[Alex: This isn't so good.  Again, it's heavy.  You've already destroyed white's eye, so you don't need to do any more here.  You should probably play at 'a' (K9) instead.]
+;W[ii];B[jk];W[hm];B[hl];W[hk];B[gl];W[ik]
+(;B[il]TR[ji][jj][jk]C[Alex: This is dangerous, as you stones at K10 might get into trouble.  See variation.]
+;W[jl];B[kk]LB[lk:a]C[Alex: This is bad shape (empty triangle); I think 'a' (M9) would be better.]
+;W[lj];B[lk];W[mj];B[ni];W[nj];B[oi]LB[oj:a]C[Alex: 'a' (P10) is better: take away one of white's liberties.]
+;W[kj];B[ki]LB[lm:a]C[Alex: This is a bad move, filling your own liberties.  Just play 'a' (M7) instead.  (Go ahead to move 222 to see why this move is bad.)]
+;W[li];B[lm];W[nl];B[pm];W[pl];B[ql];W[om];B[pn];W[no];B[ok]
+C[Alex: Good move.];W[nk];B[ol]LB[lo:a]C[Alex: Bad move!  Just play at 'a' (M5), and white has no chance to make an eye.
+
+What do you gain by capturing the stone at Q8?];W[mm];B[ln]
+;W[mn];B[on];W[lo];B[ko];W[lp];B[nq];W[mq];B[np];W[kq];B[mp]
+;W[mo];B[jq];W[mr]
+(;B[nr]C[Alex: I think you can kill by playing L2 instead.  See variation.]
+;W[kr];B[jr];W[kp];B[jn];W[gj]C[fa: i think i should be able to kill this dragon. can u show me when n where thing goes wrong?
+
+Alex: See moves 141 and 157.];B[eo];W[cq];B[dq];W[dr];B[er]
+;W[cp];B[cr];W[br];B[ds];W[do];B[dk];W[ck];B[dj]LB[el:a]C[Alex:  This is a mistake, again leaving you short of liberties.  Try 'a' (E8) instead.]
+;W[cj];B[db];W[cb];B[ej]LB[fj:a]C[Alex: Bad shape; play 'a' (F10) instead.]
+;W[fj];B[ek];W[el];B[fl];W[da];B[eb];W[ns];B[os];W[ms];B[pr]
+;W[oo];B[po];W[js];B[is];W[ks];B[ir];W[op];B[oq];W[en];B[fn]
+;W[fo];B[ep];W[ml];B[jd];W[jc];B[ch];W[ci];B[ce];W[be];B[ea]
+;W[bc];B[bs];W[aq];B[co];W[cn]LB[bo:a]C[Alex: White made a mistake here, it should have been at 'a' (B5).]
+;B[em];W[dm];B[ar]C[Alex: Nice move!];W[bo];B[bq];W[bp]LB[ap:a]
+C[Alex: Another mistake by white.];B[ap];W[ll];B[kl];W[km]TR[ki]
+[ji]C[Alex: This is why your moves 111(K11) and 129 (L11) were mistakes.]
+;B[jm];W[kn];B[jo];W[oj];B[nm];W[kg];B[kf];W[ao];B[ca];W[ba]
+;B[aq];W[ga];B[gh];W[sg];B[sh];W[oh];B[ld];W[ke];B[le];W[kc]
+;B[da];W[nh];B[nn];W[hb]
+(;B[qq]C[fa: is this needed? i'm worried if W move to this r3 and life inside
+
+Alex: No, this isn't needed.  See variation.];W[tt];B[tt]TB[gg]
+[qi][si][rj][sj][pk][qk][rk][sk][pl][rl][sl][gm][hm][om][im]
+[qm][rm][sm][gn][hn][in][qn][rn][sn][fo][go][ho][io][qo][ro]
+[so][fp][gp][hp][ip][qp][rp][sp][eq][fq][gq][hq][iq][pq][rq]
+[sq][br][dr][gr][hr][fe][or][qr][rr][sr][as][cs][es][fs][gs]
+[hs][ps][qs][rs][ss][fd][gd][fr][gf][eg]TW[aa][ha][ia][ja][ka]
+[la][na][sa][ab][bb][ib][jb][kb][ob][qb][sb][ac][cc][oc][pc]
+[qc][rc][sc][ad][bd][cd][od][rd][sd][ae][ce][pe][se][af][bf]
+[qf][rf][sf][ag][bg][og][ah][bh][ch][ai][bi][aj][bj][hj][ak]
+[al][bl][cl][am][bm][cm][lm][an][bn][ln][co][lq][lr][ls][bk]
+[rb])
+(;B[jl];W[qq]C[Alex: When black is strong in the surrounding area, it's possible to kill the 3-3 point invasion.]
+;B[pq]
+(;W[qr];B[rp];W[qp];B[ro];W[qo];B[qn])
+(;W[qp];B[rr])))
+(;B[kr];W[nr];B[or];W[lr];B[jr];W[pr];B[oq];W[os];B[qq];W[qr]
+;B[rq];W[rr];B[sr]))
+(;B[jl];W[il];B[jm];W[im];B[jn]C[Alex: Even if white manages to live, black has a huge territory in the bottom right corner.]
+))
+(;B[fb]C[fa: should i do this?
+
+Alex: Yes....];W[fc]C[Alex: ... and white should _not_ do this!  Instead, save it as a ko threat.]
+;B[gc];W[hb]))
+(;B[oa];W[he];B[fi];W[fj];B[hd];W[gh];B[he]
+(;W[ic]C[Alex: I think white has to defend...])
+(;W[gg];B[ic];W[jd];B[gc];W[hb];B[gb];W[ib];B[ed])))
+(;W[ef];B[cf];W[ch];B[ce];W[cd]C[Alex: Black can't make an eye on the edge.]
+;B[bd];W[bc];B[ae];W[bf];B[bg];W[ag];B[bb];W[cc];B[ac];W[cb]
+;B[ba];W[ab]))
+(;W[pc]
+(;B[pb];W[qb])
+(;B[na];W[pb])))
+(;W[hf];B[jd];W[jc];B[ic];W[hc]C[Alex: It's going to be hard for black to escape.]
+))
+(;B[cf]C[Alex: This would be my first choice.])
+(;B[kg]C[Alex: This is another possibility.  Instead of trying to save your stones, just sacrifice them!  This is an example of a light play (L13 isn't joined to N15).  Look at the next two moves...]
+;W[lf];B[dj]C[Alex: White gets maybe ten points for capturing the four stones.  So if you can make more than ten points in the middle of the board, then you've gained something by sacrificing.]
+))
+(;W[oa];B[pb];W[sd]C[Alex: The corner is dead.]))
+(;B[lc]C[fa: it should be like this, right?
+
+Alex: Yes, you can capture three white stones this way.];W[ld]
+;B[md]))

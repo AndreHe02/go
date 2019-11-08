@@ -1,0 +1,164 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+PB[houbs]
+BR[23k]
+PW[Poppers]
+WR[21k]
+KM[0.5]
+DT[2008-01-02]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[B+Resign]
+TM[1800]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+C[Hello,
+thanks to review my game.
+
+My name is houbs and I am a beginer
+go player.
+
+It is a game I won, but I am sure you can tell me many interesting thing to improve my game.
+
+I play with black, I like you to tell me: - how is my fuseki (I am not used to play even game)
+- what was wrong with my game
+- how can I be more agressive
+- where are big mistakes
+- where could I have played much more better
+
+Moreover, in the SGF, I'll put few questions I like you to answear in comments.
+
+Thanks a lot.
+
+Hi, my name is Tom, and I'll be reviewing your game.  Mostly you played pretty well, the biggest problem I think is playing  too many small moves in the midgame.  Every move, ask yourself: how many points will I get if I play here?  How many points will my opponent get for playing here?  Is it sente?  But overall I think you played a good game.]
+;B[pd];W[qp];B[dd];W[cp];B[jd];W[qf]
+(;B[qi]C[QUESTION : better at P4 ?
+
+Yes P4 is better.  If you want to pincer, R12 or Q11 tend to be a little better.  The difference is pretty small though.  I show some variations.]
+;W[ql];B[oi];W[pe];B[nd];W[ld];B[nf];W[of];B[ng];W[og];B[oh]
+;W[ph];B[pi];W[qd];B[pc];W[qc];B[qb];W[qh];B[ri];W[rb];B[ra]
+C[QUESTION : big mistake ! Better at R19 ?
+
+R19 is fine, although many players prefer Q19, because with R19, White has S19 in sente later in the game.]
+;W[pb];B[ob];W[pa]C[Mistake for white.  Just capture.];B[oa]
+;W[qa];B[qb];W[rc];B[pb]TR[cj][ep][op]C[Not needed.  White can't cut.  Now would be a perfect time to play P4, E4, or C10.]
+;W[sb];B[ep]C[QUESTION : better at P4 or D10 ?
+
+This is fine.  P4 looks a little better because it works with the black wall at Q11, but it's not a huge difference I don't think.]
+;W[eq];B[fq];W[dq];B[fp];W[cm];B[jq];W[lq]C[This white move is too loose.  Black can still invade, and reach out towards the stones on the right side.]
+;B[cj];W[el];B[ej]C[Good move, builds territory along the left side.]
+;W[gl];B[gj];W[hm];B[jo];W[jm]
+(;B[lo]C[I think black can afford to be a little more aggressive here.  I added a variation at P4.]
+;W[mp];B[lm];W[kl];B[ml]TR[gc][ij][pn]C[Accomplishes little.  Consider G17, J10, or Q6.]
+;W[nn];B[lj];W[ne];B[me];W[oe];B[md];W[lc];B[kb];W[od];B[oc]
+;W[nb];B[nc];W[mf]
+(;B[lf]C[QUESTION : better N17 ?
+
+No.  M15 or O12 are possibilities.];W[mg]
+(;B[le]C[I think it's better to block at O12.];W[nh]
+(;B[ni];W[mi]
+(;B[nj];W[mk]C[Now black must struggle to live.];B[mj];W[nk]
+;B[ol];W[kh]C[This move doesn't do much.];B[pn]C[Good.];W[jj]
+;B[lk];W[po];B[qn];W[rp]
+(;B[ll]C[Not needed.];W[oo];B[om];W[ln];B[kn];W[mn];B[km]C[Also not needed.  The stones on both sides are alive.]
+;W[ho];B[hq];W[en];B[jl]TR[cc][sf][ig][bl][ro][fr][kr]C[Too small.  Maybe 1 or 2 points.  C17 is still wide open for invasion.  If you J13 or somewhere similar is also large.  T14 is probably 7 or 8 points.  S5 is bigger, about 5 or 6 points.  B8 is bigger, also about 6 points.  F2 is bigger, and L2 is bigger.
+
+Capturing a single stone is almost always too small for this stage in the game.]
+;W[il];B[kk];W[jk];B[kl]C[Way too small.  Filling in a 1 point ko should be your last move at the very end of the game.]
+;W[kj];B[li]C[zero points.];W[mh];B[lh]C[Zero points.];W[lg]
+;B[ki]C[Zero points.  In fact, you're pushing white into your territory, so maybe this is negative points.]
+;W[jh];B[hh]C[Good.  This is the move you should have played 10 moves ago!]
+;W[ii];B[ih]C[J13 may be a little better.];W[ig];B[hg];W[sa]
+;B[qa]C[Too small.  This move is 2 points in gote.  J14 is much larger, maybe 10 points.]
+;W[ke]
+(;B[mb]C[L17 kills all three stones.  See variations.];W[kf]
+
+(;B[lb]C[Again, better to cut at L17 and kill the black stones.]
+;W[kd];B[jc];W[mc]
+(;B[na]C[Not needed.];W[he];B[if];W[jg];B[ji]C[Nice move.  Very sharp.]
+;W[hf];B[jf];W[kg];B[je];W[ij]
+(;B[hi]C[F13 gives W less room too fight.];W[hj];B[hk];W[ik]
+;B[gk];W[gg];B[hl];W[im];B[gi];W[id]
+(;B[ic]C[QUESTION : Then I will crowl on the top ... my big moyo is vanihing ! How should I have played to keep it ?
+
+In general, when you have a group completely surrounded like this, you should try to kill them by leaving no space for eyes.  I like G16 or E13.  I show a few variations.  It will be tricky, but you can probably kill them.]
+;W[hc]
+(;B[hb]C[Attaching underneath is weak.  Peep at G16, then follow with G17.]
+;W[gc];B[gb]C[Still bad.  Play E17 to salvage the top left corner.]
+;W[fc];B[eb];W[fb];B[fa]C[Very small move.  1 point or less, and in the middle of a life or death battle!  E17 keeps the pressure on white.]
+;W[ec];B[db];W[ed];B[de];W[dc];B[cc];W[ee];B[cd];W[df];B[cf]
+;W[dg];B[cg];W[bj];B[ci];W[ch];B[bh];W[dh];B[bi];W[di];B[dj]
+;W[ei];B[fi];W[fh];B[bk];W[fk];B[fj];W[gh]LB[sf:E][an:D][ro:C]
+[fr:A][kr:B]C[Ok, it's the endgame now.  Here are big plays you should always look for:
+
+2nd line descents: A, B, and C.  This moves give you more points, and are almost always sente because they threaten a monkey jump (see next).  Note C is actually gote, but it's still a good move because it blocks White. The point value varies, but it's genverall about 6 points.
+
+Monkey Jumps: D and E.  These are very big, about 8 points, less if there are more white stones blocking.]
+;B[aj]C[Zero points.  You can kill that stone whenever you want.]
+;W[ie];B[er]C[Good.];W[dr];B[es];W[ds];B[fr];W[fo];B[gp];W[go]
+;B[bm]C[Good, but the monkey jump is a little better.];W[bn]
+;B[bl];W[oq];B[kr]C[Good.];W[io];B[ip];W[cl];B[lr]C[P1 instead.]
+;W[mr];B[ro]C[Good.];W[ck];B[rg]C[Good.  P14 may be a little better.]
+;W[rh];B[si]C[Mistake.  playe T12 to save the stone.];W[qg]
+;B[sh])
+(;B[gd]
+(;W[hd];B[gc])
+(;W[gc];B[fd];W[fc];B[ec];W[eb];B[db];W[fa];B[hd];W[ib];B[jb]
+
+(;W[gb];B[ia];W[hb];B[ha])
+(;W[ha];B[gb]))))
+(;B[eg]
+(;W[gc]
+(;B[fc]C[Don't attach.];W[fb])
+(;B[fb];W[fc];B[ec];W[fe];B[ff];W[gb];B[ea];W[ic];B[ib];W[hb]
+;B[gf];W[ge];B[fd]C[One eye.]))
+(;W[cc]C[Nothing black can do about this.];B[dc];W[cd];B[ce]
+;W[db];B[eb];W[cb];B[ec];W[be];B[cf];W[bf];B[bg]))
+(;B[fc];W[eg];B[cg];W[fe];B[hc];W[ff];B[df];W[fh];B[gh];W[ef]
+;B[eh]
+(;W[fi])
+(;W[dh];B[ei];W[dg];B[de])))
+(;B[fg]))
+(;B[if];W[na];B[ma]))
+(;B[kd]
+(;W[lb];B[la])
+(;W[mc];B[lb];W[na];B[kc])))
+(;B[kd]
+(;W[mc];B[mb];W[lb];B[na])
+(;W[mb]
+(;B[kf];W[je];B[jf])
+(;B[lb]
+(;W[kf];B[mc])
+(;W[mc];B[ma];W[kf];B[kc];W[je];B[id])))))
+(;B[ii]
+(;W[ll];B[nl];W[ok];B[pk])
+(;W[nl];B[nm]
+(;W[ok];B[pk])
+(;W[om];B[ok])
+(;W[ll];B[ok]))))
+(;B[nk]C[Safe.]))
+(;B[nk]C[Safe.]))
+(;B[nh]
+(;W[le]
+(;B[lh])
+(;B[lg];W[mh];B[mi];W[lh];B[kh];W[li];B[ki]))
+(;W[lh];B[le])))
+(;B[le];W[nh]
+(;B[mg];W[lf];B[lg];W[kf];B[mi];W[jh])
+(;B[lf];W[mg];B[ol];W[pm]))
+(;B[nh];W[lf]))
+(;B[op]
+(;W[oq];B[pp];W[pq];B[qo];W[qq];B[np];W[mq]
+(;B[pm])
+(;B[ro]))
+(;W[pn]
+(;B[mp];W[lp];B[lo])
+(;B[mo]))))
+(;B[op]
+(;W[oq];B[nq];W[pq];B[ep]C[Black doesn't have to block at O4 right away.]
+)
+(;W[oo];B[no];W[po];B[nn];W[np];B[mp];W[nq];B[mq];W[or];B[nr]
+;W[oq];B[ep]C[Black builds a while to help attack the white stone.]
+))
+(;B[qh];W[qc];B[pc];W[qd];B[pe];W[qb];B[pf];W[rf]C[white takes the corner, but black builds a nice wall helping the top.]
+))

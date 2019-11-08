@@ -1,0 +1,44 @@
+(;FF[4]GM[1]SZ[9]AP[SGFC:1.15]
+
+GN[Ganesh-Axi-20050507.sgf]
+PB[Maxim (Axi)]
+BR[22k]
+PW[Warrior of the Rainbow (Ganesh)]
+WR[14k]
+KM[2.5]
+DT[2005-04-26,2005-05-07]
+PC[Dragon Go Server: http://www.dragongoserver.net]
+RE[W+Resign]
+OT[30 days + 1 day/10 periods Japanese byoyomi]
+RU[Japanese]
+GC[Game ID: 120839]
+
+C[Hi.  My name is Calvin.  I have a bad habit of overcommenting games, but the more I learn about Go the more clueless I feel, so I've gradually learned to resist that temptation.
+
+White is only receiving 2.5 points komi in this game, and so will have to play aggressively, because even for a 9x9 game, an even game komi is probably closer to 6.5.]
+;B[fc];W[cg];B[gf];W[dc]C[So far each player has played a move in an empty corner.  This is a common strategy for both 9x9 and 19x19 games.]
+;B[eg]C[This is an excellent move.  Black 3 and 5 not only enclose the lower right corner solidly, but also Black 5 threatens white's stone in the lower left.  It is good to find double-purpose moves like this.]
+;W[de]LB[eb:A]C[A solid move, but I wonder if it's enough with only 2.5 komi.  What is white's plan if black starts the endgame at A?]
+;B[ee]LB[eb:A][dh:B][ed:C]C[It is important to remember that when you attach to a stone like this, usually both sides will get stronger.  It is okay to attach to a strong stone, but not to a weak stone.   Contact moves are used primarily for defense, not attack, and there is nothing for black to defend here.  Because of the peaceful opening, we are already almost in the endgame, and the biggest moves for both players are at A and B.  Besides, this just invites white to cause trouble by playing the hane at C.]
+;W[eh]TR[de]SQ[eg]C[This is an overplay.  White has ignored the contact in the middle of the board (generally a bad idea).  But I suppose white is behind and has to try to confuse black.  Now there are two contact fights in the board and black has to pick which one to respond to.  This is typical handicap play for white.  Black just needs to stay  calm.]
+
+(;B[fh]C[This is probably a reasonable choice, because the edge of the board is usually more important than the center.  But see the variation for punishing white's neglect of the contact play in the center.]
+;W[dh];B[db]SQ[gf]LB[eb:A][ed:B][gh:C]C[Better at A.  If white blocks at 11, then black can play at B and it will be hard for white to win because there won't be much left to do.  If black is afraid white won't answer A, then black can  play B directly and still win.  By the way, one reason white 8 was an overplay is because white 10 is not sente due to the presense of black's marked stone (G4).  The clamp at C is a large endgame for white, but I think A is bigger.]
+;W[ed];B[fd];W[ef];B[df]LB[cb:A]C[This is the game losing move, for two reasons:
+
+a) It is actually gote.  White can ignore it and play at A.
+
+b) If white responds by capturing, black gets sente, but loses two stones any.
+
+I think black still has a chance in the game if he starts with the big sente endgame move of A.]
+;W[fe]C[This result is a disaster for black.  The game is over.
+
+Black got off to a good start but went wrong by attaching to a lone stone in the center, thus initiating a contact fight when he was ahead.  There is a Go proverb which says: "rich men should not pick fights."  Both players ignored the central contact fight in favor of playing territorial moves, but as you can see, the game was ultimately decided that fight.  The winner of the fight was the first player to hane, which is often the case when the number of stones nearby is even on both sides.  I have shown you earlier in the game what could have happened if black had been the first to hane in the center.
+
+Both players made mistakes by ignoring the contact play in the center.]
+;B[ff];W[ee];B[dg];W[cf];B[fg];W[ge];B[gd];W[he];B[ei];W[ch]
+;B[hd]LB[hh:A]C[A is the vital point in this  shape.  The life and death problem here is left as an exercise for the readers.]
+;W[hf];B[hg];W[hh];C[Result: W+Resign]N[RESULT])
+(;B[df]C[Black can also play here.];W[ce]C[If white blocks...]
+;B[dh]LB[cf:A]C[Black will kill this stone.   Later, black can also push at A in sente.]
+))

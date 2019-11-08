@@ -1,0 +1,158 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+PB[gmic]
+BR[21k]
+HA[4]
+PW[mujo]
+WR[17k]
+KM[0.5]
+DT[2009-08-04]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[W+3.50]
+TM[1800]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+AB[dd][pd][dp][pp]C[Hi my name is Mike, and I'll be reviewing primarily for white, although I'll point out ideas for both sides, as go cannot be won by simply thinking about your own moves. I'm 4k on KGS and I play under the name TakokaT.
+
+As per your request, I will try and analyze the upper left, and the middle of the board. You should note that your losses in the upper left were not so big, where as allowing black to have a strong center was the main reason the game was so close. Some general ideas to keep in mind of stopping your opponent from gaining the center are to always keep a path into the center, and don't let yourself get confined to the side.]
+;W[pj]C[mujo [17k\]: have a good game];B[jp];W[dj];B[jd];W[qn]
+;B[pl];W[ql];B[ph];W[qh];B[qg]
+(;W[rh];B[rg];W[nj];B[nh];W[on];B[nl]
+(;W[nq];B[np];W[op];B[oo];W[oq];B[no];W[po];B[qp];W[pq];B[qo]
+;W[pn];B[qq];W[qr];B[rr];W[ps];B[mq];W[mr];B[rn];W[rm]
+(;B[sn]
+(;W[lq];B[sp];W[mp];B[lo];W[jq];B[mo]
+(;W[ml]C[This move indirectly led to black confining you to the side. You should not allow him to do this, and play M10 for example, to keep a clear shot into the center.]
+;B[gq];W[nm];B[ll]
+(;W[ol];B[li]C[This is a good move by black, because it closes w in and attempts to surround large territory in the center.]
+;W[lj];B[kj];W[lk];B[kk];W[lm];B[kl];W[nk];B[ch]
+(;W[cn]C[this move is a bit low, and also helped black to confine you to the side.]
+;B[dl];W[cl];B[dk]
+(;W[ck];B[cj];W[ci];B[bj];W[bi];B[di];W[bh]
+(;B[ei];W[cg];B[dh];W[cf];B[df];W[ce];B[cd];W[bd];B[bc];W[ae]
+C[gmic [21k\]: sorry man
+mujo [17k\]: np
+gmic [21k\]: I was just trying to follow a move and clicked ;)
+mujo [17k\]: its alright]
+(;B[dn]C[gmic [21k\]: thanks];W[bk];B[ej];W[aj];B[dj];W[cp]
+;B[do];W[co];B[dm]
+(;W[cm]TR[fd][md][kn][dq]C[This move is a big mistake, for two main reasons: 1. B cannot cut these stones apart (look at the following variations) 2. It only gains 1 point for white, where as playing somewhere else on the board can gain you many points (the triangle points are marked to give some ideas.)]
+;B[km];W[ln];B[kn];W[nn];B[gc];W[mn];B[ko];W[dg];B[eg];W[de]
+;B[ee];W[ef];B[ff];W[df];B[fg];W[ed];B[fe]
+(;W[dc]LB[cc:A]C[I feel that this move is a bit of an overplay, and w shouldn't expect to steal the whole corner. w instead should be content with playing at A here, and taking a big chunk out of the corner (as shown)]
+;B[cc]
+(;W[eb];B[fd];W[ec];B[cb]C[I'll try to show a few possible variations here, to see what is in store for these stones.]
+
+(;W[gb];B[fc];W[fb];B[hb];W[ac];B[db];W[bb];B[ba];W[ab];B[ea]
+;W[ad];B[ga];W[nc];B[lc];W[pc];B[nd];W[qd];B[qe];W[re];B[qc]
+;W[rd];B[pe];W[oc];B[rf]
+(;W[mb];B[rc];W[qb];B[sd];W[rb];B[se];W[sb];B[rd];W[lb];B[kb]
+;W[mc];B[md];W[dq];B[eq];W[dr];B[er];W[iq];B[ip];W[hq];B[hp]
+;W[gr];B[fq];W[mi];B[mh];W[ni];B[lh];W[oh];B[og];W[oi];B[ng]
+;W[pi];B[pg];W[ri];B[sg];W[es];B[fs];W[ds];B[fr];W[hs];B[kp]
+;W[kq];B[lp];W[mq];B[gs];W[hr];B[la];W[ma];B[ka];W[gp];B[fp]
+;W[go];B[fo];W[gn];B[fn];W[gm];B[fm];W[kc];B[ld];W[jb];B[ic]
+;W[ib];B[jc];W[ja];B[kd];W[kb];B[ha];W[ki];B[ji];W[kh];B[jh]
+;W[kg];B[jg];W[jj];B[ij];W[jk];B[ik];W[jl];B[il];W[jm];B[im]
+;W[od];B[oe];W[sm]C[At this point, the black group in the lower right is not in danger, but black makes a some mistakes to lose it.]
+
+(;B[ro];W[rq];B[sq];W[rs];B[rp];W[sr];B[ss];W[ca];B[fa];W[sr]
+;B[kf];W[rq]C[KPAKEH [10k\]: idiot];B[da];W[so];B[eo];W[bq]
+C[KPAKEH [10k\]: pass pas pas
+mujo [17k\]: its still going to be tight I think...
+mujo [17k\]: pass?
+KPAKEH [10k\]: ok];B[tt];W[sh]C[mujo [17k\]: sorry
+mujo [17k\]: that would have prevented the comp. to calculate it]
+;B[tt]C[Very close game, and well played by both players. One that will definitely help you in your games is doing life and death problems, as you will kill more groups, and be able to read variations faster and more accurately. This would help you find the right move in the upper left (C17 instead of D17), and also help you attack groups more efficiently (like killing the lower right group earlier in the game)
+
+As for b getting a large center territory, You are not allowed to have ALL of the territory in go, as you can verify by watching pro games :), everything is a trade off. However to keep your opponent from gaining too much territory over you, try not to get confined to the sides, as i pointed out in the review. try to always have a path into the center to destroy your opponents potential territory.
+
+I hope this review has been helpful, and good luck improving your game.
+-Mike];W[tt]TW[ka][la][na][oa][pa][qa][ra][sa][nb][ob][pb][be]
+[af][bf][ag][bg][ah][ai][qi][si][mj][oj][qj][rj][sj][ak][mk]
+[ok][pk][qk][rk][sk][al][bl][nl][pl][rl][sl][am][bm][mm][om]
+[pm][qm][an][bn][rn][sn][ao][bo][qo][ro][ap][bp][pp][qp][rp]
+[sp][aq][cq][qq][sq][ar][br][cr][ir][jr][kr][lr][nr][or][pr]
+[rr][as][bs][cs][is][js][ks][ls][ms][ns][os][qs][ss]TB[eb][fb]
+[gb][dc][ec][hc][ed][gd][hd][id][qd][ge][he][ie][je][ke][le]
+[me][ne][re][gf][hf][if][jf][lf][mf][nf][of][pf][qf][sf][gg]
+[hg][ig][kg][lg][mg][eh][fh][gh][hh][ih][kh][fi][gi][hi][ii]
+[ki][fj][gj][hj][jj][ek][fk][gk][hk][jk][el][fl][gl][hl][jl]
+[em][gm][hm][jm][en][gn][hn][in][jn][go][ho][io][jo][ep][gp]
+)
+(;B[cq]C[Although the spectator was interested in this move, it doesn't actually work (as you can verify).
+
+My point is that even without proecting the lower right, black can still live.]
+
+(;W[cr];B[bq];W[br]
+(;B[ar];W[bp];B[aq];W[ap];B[bs];W[as])
+(;B[aq];W[bp];B[ar];W[ap];B[bs];W[as])
+(;B[bp];W[bo]
+(;B[ar];W[ap];B[aq];W[as])
+(;B[ap];W[ao];B[ar];W[aq]))
+(;B[ap];W[bp];B[aq];W[ar];B[ao];W[an];B[bo];W[bn]C[nothing seems to work as long as white keeps a calm mind.]
+))
+(;W[rq]
+(;B[sq];W[ro];B[rp];W[rs];B[so]C[this leads to a ko like before.]
+)
+(;B[rs];W[ro];B[rp];W[so];B[sq]C[this leads to black losing two stones, but saving the rest of the group. (hey thats better than losing the whole group, right?)]
+))
+(;W[rs];B[sr]
+(;W[rp];B[ro])
+(;W[ro];B[so];W[rq];B[rp]C[b is in no danger that i can see.]
+))))
+(;W[qb]C[this will be better for w, as the S16 stones will not die.]
+))
+(;W[da]
+(;B[ca];W[ab];B[fc];W[ac];B[fb];W[ba]C[In this variation, white wins]
+)
+(;B[ab];W[ba];B[ad];W[ac]C[This results in a ko.])
+(;B[ac]
+(;W[ba];B[ca];W[ab];B[fb]C[This one doesn't look good for white.]
+
+(;W[db];B[fc];W[ad];B[ea]C[Loses by one move.])
+(;W[ad];B[fc];W[bb];B[aa];W[bb];B[fa];W[ab];B[ba];W[bb];B[ea]
+C[this is also no good for white.]))
+(;W[ca];B[ba];W[ab];B[fb];W[ad];B[fc];W[bb];B[aa];W[bb];B[ab]
+C[b gets an eye and white cannot continue.])
+(;W[gb];B[hb];W[fb];B[ba];W[ab];B[ga];W[fa];B[ha];W[db];B[ad]
+;W[bg];B[be];W[af];B[ca];W[bb];B[fc]))))
+(;W[ec];B[db];W[eb];B[ca];W[bb];B[ea];W[fb];B[gb];W[fa];B[cb]
+;W[ac];B[ab];W[aa];B[fd];W[ad];B[fc];W[ab];B[ga]C[Yet another variation where white seems to come out behind.]
+))
+(;W[cc];B[dc];W[cb];B[ec];W[db];B[bb];W[ac];B[eb];W[ba];B[da]
+;W[ab]C[This seems fine for white, as he takes a big chunk out of b's corner.]
+))
+(;W[gd]C[say, w decides its time to invade.];B[cm];W[bm];B[bn]
+;W[bo];B[am];W[an]C[w is in no danger of being cut.]))
+(;B[jo];W[bk]))
+(;B[ej];W[cg];B[dh];W[bd]C[This variation seems better for black than what happened in the game. w is split into two groups and one of them could die.]
+;B[co];W[dm];B[em];W[en];B[fm];W[bm];B[bo];W[bk];B[aj];W[al]
+;B[bn];W[fn];B[gm];W[gn];B[im];W[in];B[jn]C[I would be scared to be w here.]
+;W[jm];B[jo];W[hm];B[il]C[just something to look at]))
+(;W[cj];B[ck];W[bk];B[bl];W[cm];B[bj]))
+(;W[dn]C[This move (on the fourth line) may be a wiser choice, as it will help w from being closed into the side (as happened in the game).]
+))
+(;W[mm]C[This move seems stronger, as it is more solid, and will help w break out into the center.]
+;B[li];W[lm];B[km];W[lk];B[kl];W[kk]C[w is no longer confined to the side.]
+)
+(;W[lj]C[this is another thought, allowing white to keep a path into the center.]
+))
+(;W[lj]C[By keeping a path into the center, w is able to destroy any territory that b will try and gain in the center.]
+))
+(;W[sp];B[rs];W[sm];B[ro];W[rq];B[qs];W[pr];B[nr];W[sr]C[Just a thought, b seems to be in a bit of trouble here. T4 seems a vital point for his shape.]
+))
+(;B[sp];W[sn];B[ro];W[rs];B[rq];W[sr]C[B seems to be in a bit of trouble here as well. Lets see if we can find any moves to save him.]
+)
+(;B[so];W[rq];B[rs];W[sp];B[sr]C[Doesn't work for B either]
+)
+(;B[rs];W[sq];B[rq];W[so];B[ro];W[sn];B[sp];W[rp];B[sr];W[sm]
+;B[sp]C[This seems to save black, although I might not have found all of the best moves. Just keep these variations in mind while you're playing. Doing life and death problems will help you acheive reading skills to find such variations (I would recommend goproblems.com or SmartGo, or some books with problems.)]
+))
+(;W[np]C[locally, I like this move better, as it seems to confine b into the corner, and is less prone to a cut.]
+)
+(;W[df]C[although, globally, I think tenuki (playing elsewhere) may be in order.]
+))
+(;W[qi]C[This move seems move natural, but I can't say the in-game move is bad.]
+))

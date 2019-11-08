@@ -1,0 +1,146 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+PB[ZZYY]
+BR[1k]
+PW[Kirby]
+WR[1d]
+KM[0.5]
+DT[2009-09-11]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[B+Resign]
+TM[1800]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+C[Hi Brian,
+
+I'm glad to review your game, this was a fun exercise for me too.
+
+I'm not that much stronger than you, maybe KGS 3d on a good day, but I think I have some useful comments on the game. I think I have even played both you and zzyy before as Milo234.
+
+My comments are sparse, but hopefully helpful. I didn't comment much past the ko fight because if you see my analysis, the game was basically over after the ko fight. Last comment move 163
+
+White seems clearly to be the stronger player, and seemed to be leading until the major ko. After the ko it was probably impossible for white to come back.
+
+-Jonathan/Milo234];B[pd]C[Kirby [1d\]: gg];W[dp];B[qp];W[op]
+;B[lp];W[pm];B[oo];W[no];B[pp];W[on];B[oq];W[po];B[nq]C[Milo234: Standard Joseki]
+;W[ed];B[cn];W[cl];B[en];W[fp];B[el]C[Milo234: This black move is not joseki, and in my personal experience I have found it question, so I looked it up.
+
+http://eidogo.com/#kjd
+
+According to one of my favorite online joseki websites it is officially "questionable". The "proper" continuation according to the website is shown in the variation.]
+
+(;W[dj];B[hq]C[Considering the website, the proper continuation for black is probably to invade the corner.]
+;W[bp];B[bo];W[co];B[bn];W[hp];B[do];W[cp];B[gq];W[gp];B[er]
+;W[dm];B[dn];W[em];B[fm];W[fl];B[fn];W[gl];B[bl];W[ck];B[bk]
+;W[bj];B[cm];W[dl];B[hm];W[iq];B[ir];W[eq];B[fr]C[White could have pushed through sealing black in on the side. Taking the corner is big, but sealing black off is also big. The corner represents only points, while making thickness towards the outside could serve more use later.]
+
+(;W[dr];B[hn];W[jr]C[Milo234: This move is a mistake. The punishment requires deep reading.]
+;B[jq];W[ip];B[hr];W[kq];B[jp];W[kp];B[jo];W[kr]C[Black blocking here kills the whites. 
+
+First variatoin: White cannot outright win the capturing race.
+
+Second variation: Only one move realistically allows white to gain more liberties, and if black just simply lives, white dies.]
+
+(;B[gs];W[ko];B[mp];W[es]C[A ko threat that could have been saved for later. I don't think this has any effect on the life of the group in the corner and it sente at any time.]
+;B[is];W[io];B[jn];W[in];B[kn];W[lo];B[mo];W[ln];B[mn]TR[jl]
+C[Milo234: If white plays the triangle place, white gets a very good result. Difficult move to find and difficult follow up are both required.]
+
+(;W[km];B[jm];W[im];B[jl];W[il];B[am]C[Milo234: I feel like the pushing sequence that follows is bad for white. The pushes do not seem to have a clear objective, particularly the final nose hit. They make black stronger thus weakening the stones on the right half of the board. 
+
+It is always difficult to decide which side to push from if you can push from one side or the other. Yilun Yang one time gave me some good advice regarding how to determine which side to push from. Your priorities in pushing should be.
+1. Strengthen your weak groups
+2. Push to build thickness towards where the biggest points are.
+
+My perference here is to make the weak white stones solid, and leave the blacks floating in the middle of the board. There are many ways to do this. See the variation for one.]
+
+(;W[jk];B[kl];W[lm];B[kk];W[kj];B[lk];W[mk];B[lj];W[ki];B[ml]
+;W[mm];B[nk];W[nm];B[qk]
+(;W[qf]C[Milo234: Ladder breaker or not, this feels extremely premature. Black's simplest response, to take the white stone off the board, leaves the life of the white stones in question, and is almost sure sente giving black perfect thickness. It seems like white should strengthen the surrounded stones.
+
+White missed several opportunities to live. White is in this bad situation as a result of the pushes from earlier.]
+
+(;B[pg];W[pf];B[of];W[og];B[rn]C[I think black could have chosen a better move to try to kill the whites. R6 is my choice for black here.]
+;W[pk];B[pj]TR[oj]C[White's next move at triangle is clearly a major mistake as the game showed. White should be aiming to just live unless he can find a fighting variation that works for him. White P9 gives white a good result.]
+
+(;W[oj];B[ok];W[pl];B[pi];W[oi];B[oh];W[nh];B[ng];W[li];B[mi]
+;W[nl];B[nj];W[qj];B[qi];W[rj];B[ri];W[rk];B[rl];W[ql];B[rm]
+;W[mr];B[nr];W[mq];B[np];W[ol];B[lq];W[lr];B[js]
+(;W[qn]C[Mistake as the game shows. R5 then R6 lives for white.]
+;B[qo]C[Good reading on black's part to set up the ko.];W[qm]
+;B[oo];W[ms];B[nn];W[ks];B[pn];W[ll];B[mj];W[po];B[ci]LB[mh:A]
+[oi:B]C[This is a really really big ko threat for black, and I think white shouldn't ignore it.. Black doesn't have any ko threats for the life of the whites in the lower left, so black probably won't be able to find a bigger threat. White still has 2 local ko threats, A then B.]
+;W[pn];B[cj];W[qc];B[dk]TR[og][ph][ai][bi][ni][oi][aj][bj][oj]
+[ak][ck][al][cl][dl][bm][dm][em][no][so][op][rp][sp][pq][qq]
+[rq][sq][gr][or][pr][qr][rr][sr][hs][ps][qs][rs][ss]SQ[ra][sa]
+[rb][sb][ij][jj][ik][qk][om][cq][dq][ar][br][cr][as][bs][cs]
+C[At this point, the game seems lost for white. Counting the score gives:
+
+Black: 41 + 9 prisoners = 50
+
+White: 17 + 4 prisoners = 21
+
+Black has a large lead at this point.];W[pc]C[Black's next move is a big mistake. Black should hane. See variations.]
+
+(;B[nc]C[This seems to be a big mistake for black.];W[od];B[nd]
+;W[oe];B[jc];W[ne]TR[cd]C[White's only other option would have been a move in the corner]
+;B[cd];W[ce]C[Taking the outside is the wrong idea here. White needs points, and the outside is very open and easily reduced by black.]
+;B[be];W[de];B[bc];W[bf];B[ec];W[fc];B[dc];W[fd];B[je]TR[aa]
+[ba][ca][ka][la][ma][ab][bb][cb][kb][lb][mb][cc]SQ[qa][ra][sa]
+[qb][rb][sb][rc][sc][pd][qd][rd][sd][pe][qe][ij][jj][ik][qk]
+[om][cq][dq][ar][br][cr][as][bs][cs]C[Black is now ahead by at least 20 and white has no hope of making it up.
+
+White is up to 28 and black is up 13 since the last count.
+
+End of review.];W[kd];B[kc];W[ld];B[me];W[md];B[mc]C[Kirby [1d\]: sorry, network problem]
+;W[lc]C[ZZYY [1k\]: it's k];B[lb];W[mf];B[jd];W[kf];B[ff];W[ae]
+;B[bd];W[fb];B[cf];W[cg];B[df];W[ef];B[dg];W[eg];B[dh];W[mh]
+;B[ni];W[qg];B[jj];W[ik];B[mg];W[lh];B[lg];W[kg];B[le];W[ke]
+;B[ji];W[kh];B[qh];W[nf];B[rg];W[og];B[rf];W[ph];B[oi];W[ib]
+;B[jb];W[nb];B[mb];W[ob];B[hc];W[hb];B[hf];W[ge];B[he];W[gf]
+;B[hh];W[ig];B[hg];W[id];B[ic];W[hd];B[gc];W[gd];B[gb];W[ie]
+;B[if];W[jf];B[fh];W[eh];B[ei];W[fi];B[ee];W[fe];B[fg];W[ee]
+;B[ej];W[gi];B[eb];W[fa];B[hi];W[hj];B[gj];W[fj];B[ga];W[ii]
+;B[gh];W[gk];B[ih];W[jh];B[jg];W[lf];B[ea];W[ig];B[ij];W[ii]
+;B[jg];W[ch];B[di];W[ig];B[rd];W[gg];B[rb];W[rc];B[sc];W[qd]
+;B[re];W[gm];B[gn];W[bh];B[bi];W[qb];B[ap];W[aq];B[ao];W[br]
+;B[sl];W[ra];B[sb];W[ns];B[os];W[sk];B[qe];W[pe];B[na];W[oa]
+;B[ma];W[pr];B[or];W[rq];B[rp]C[Kirby [1d\]: thanks
+ZZYY [1k\]: thanks])
+(;B[oc]
+(;W[ob];B[nc];W[nb];B[mc];W[qd])
+(;W[nc];B[ob];W[od];B[nd];W[oe];B[ne];W[pe];B[mc];W[pb];B[nb]
+)))
+(;W[qo];B[ro];W[qn]C[life.]))
+(;W[ok];B[oj]
+(;W[nj];B[mj];W[ni]C[This causes chaos for black.])
+(;W[nl];B[mj];W[ql]C[Makes life easily between R6 and N2. If black answers white can even tenuki.]
+)))
+(;B[mj]C[If white tenukis there seems an extremely good chance that the whites will die. Even if the whites don't die, black will get thickness to cause major problems for the white stone at R14.]
+;W[nc];B[qn];W[pk];B[pj];W[ok];B[oj];W[ql];B[ol];W[pl];B[qj]
+
+(;W[mr];B[nl]C[Dead whites])
+(;W[nl];B[mr]C[dead whites])))
+(;W[pk];B[pj];W[ok];B[oj];W[nj];B[mj];W[ni]C[Causes problems for black and strengthens whites.]
+))
+(;W[ll];B[jk];W[mm];B[ji]C[Blacks are floating.
+All white stones are solid.
+White has sente.
+
+This had to be a good variation for white.]))
+(;W[jl];B[km];W[ml];B[kl];W[kk];B[lk];W[ll];B[jk];W[kj];B[il]
+;W[im];B[jm];W[lm];B[jl];W[hl]LB[jj:B][am:A]C[Miai. Black loses.]
+))
+(;B[ko]C[Black here kills the whites. 
+
+First variatoin: White cannot outright win the capturing race.
+
+Second variation: Only one move realistically allows white to gain more liberties, and if black just simply lives, white dies.]
+
+(;W[is];B[lq];W[hs];B[lr];W[fq];B[gr];W[es])
+(;W[mr]C[This is the only move that gains any liberties, but it dies if black just simply lives.]
+;B[lq];W[lr];B[gs]C[dead])))
+(;W[gm];B[gn];W[hn];B[am]TR[in][ip]
+(;W[io])
+(;W[jq])))
+(;W[co];B[bn];W[cj];B[gn]C["black got not much"]))

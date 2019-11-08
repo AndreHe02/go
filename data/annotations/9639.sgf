@@ -1,0 +1,161 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.16]
+
+PB[masuke]
+BR[8k]
+PW[suparixi]
+WR[7k]
+KM[0.5]
+DT[2014-12-26]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[B+9.5]
+TM[1500]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+C[suparixi [7k\]: hi
+suparixi [7k\]: gg
+masuke [8k\]: hi
+
+VALE: Hi! My name is Vale and I'll do the review for you in this game. I'm very sorry for my bad english, I hope you're able to understand what I'm talking about ;) ! I'm using the KGS CGoban3 SGF-Editor and if you don't do it too maybe some markers are different than i told in the reviewing text (e.g "I'm talking about a stone marked with a triangle and on your screen it's a circle"). But I hope it will not cause any problems :)]
+;B[pd];W[qp];B[cd];W[dq];B[do];W[co];B[cn];W[cp];B[dm]
+(;W[fp]LB[ep:B][fp:C][eq:D][fq:A]C[VALE: This (C) is the first move that is not perfect. Better moves instead are A or B. Your move at C leaves a weakness at D, where black can play later in the game.]
+
+(;B[ci]
+(;W[op]LB[ec:A]C[VALE: I would  play A here. This is THE MOVE black wants to do. If black gets a stone at A it would be perfect for him.]
+;B[ec]LB[qj:D][po:F][op:A][qp:B][jq:C][pq:E]TR[cd][ci][dm][cn]
+[do]SQ[fp]C[VALE: So good for black. And on the lower side the formation looks not that good. White still needs a stone at C and D. And additionally the lower right corner would be much better with the marked stone if A and B where at F and F.]
+
+(;W[pf]LB[jc:B][qf:A]SQ[ec][cd][ci][dm]C[VALE: I think A would be better here because you need some territory, black has so much on the left side. You have only some in the lower corners. You can also consider a move at B instead to attack the marked formation in the future.]
+;B[nd]
+(;W[fn]LB[pf:B][fn:A][jq:C]C[VALE: This move (A) is... ok. But I think there are much more important places right now. First you should care about B. Actually A maybe would be better at C.]
+;B[lp]C[(VALE: This move looks kinda strage...)];W[jq]LB[lp:A]
+[jq:B]C[VALE: Good answer. The exchange A B was bad for black.]
+;B[nf]
+(;W[ph]LB[pi:A]C[VALE: This move is too slow. Better A!];B[nh]
+LB[jc:D][pf:A][ph:B][pk:C]TR[ec][cd][nd][nf][ci]C[VALE: I would be scared about this if I was white. The marked area looks HUGE. and A and B are weak. Bad for white! White wants to play C here, but maybe it's too slow. so D is a good option here perhaps.]
+
+(;W[jj]LB[jc:A]C[VALE: This move looks like a missclick. It would be much better to invade at A instead.]
+;B[oj]LB[pf:A][ph:B][oj:C]TR[jj]C[VALE: White looks too bad. A and B are in danger and the marked stone looks useless, especially after C.]
+
+(;W[oi]LB[qj:A]C[VALE: Wrong way! This helps black to get a strong wall. Better A!]
+;B[ni];W[nj];B[ok];W[mj];B[qj];W[qd];B[qc];W[qe];B[rc];W[ri]
+;B[qi];W[qh];B[rj];W[sh]LB[rg:A]C[VALE: This move is not good. Think about a Black move at A next!]
+
+(;B[sf]C[VALE: You were lucky.];W[rf];B[se];W[re];B[sd];W[sg]
+;B[rg];W[qg];B[qn];W[pm];B[ql];W[qm];B[rm];W[pl];B[pk];W[rl]
+;B[rn];W[qk];B[pn]
+(;W[on]LB[nm:C][op:A][qp:B]C[VALE: This is the wrong move. It helps black to attack the corner (A and B). Better would be the move at C.]
+;B[oo];W[nn];B[po];W[pp];B[no];W[nl];B[np];W[nq];B[mq];W[nr]
+;B[mr];W[pr];B[mn];W[mm];B[ln]LB[ec:A]C[VALE: The game looks lost for white. The biggest mistake was to give black the giant move at A.]
+;W[jd];B[jg]
+(;W[lc]LB[gc:A][hc:B][lc:C][jd:D]C[VALE: It looks like there is more space in the other direction (A)... And after this move (C) black will play at B FOR SURE and the white formation looks too bad. So: C is a bad move here.]
+;B[hc]C[VALE: Very bad for white.];W[nb];B[ob]
+(;W[oe]LB[hd:A][me:B]C[VALE: This only helps black to get a thicker wall... bad for white. You need moves like A or B now.]
+;B[ne];W[od];B[oc];W[nc];B[of];W[pe];B[oh];W[pi];B[na];W[kg]
+;B[kf];W[jf];B[je]
+(;W[if]C[VALE: Ugh? (see variations)];B[ke];W[kh];B[ie];W[hf]
+;B[id]
+(;W[fi]LB[dh:A][cl:B]C[VALE: This move looks slow and small. It doesn't attack anything. Think about A or B.]
+;B[eg];W[fg];B[ef];W[jo];B[sp];W[ro];B[so];W[rq];B[kr];W[jr]
+;B[kq];W[bm]LB[cl:A]C[VALE: A is the move! This one looks like a misclick.]
+;B[bn];W[ck];B[ej];W[ek];B[dk];W[dj];B[dl];W[ei];B[fj];W[fk]
+;B[gj]
+(;W[cj]LB[di:A]C[VALE: Nope. A would be better.];B[gl];W[fl]
+C[VALE: This is suicide.];B[di];W[bi];B[fm];W[em];B[gm];W[ch]
+;B[dh];W[dg];B[eh];W[cg];B[gi];W[hh];B[fh];W[en];B[el];W[dn]
+;B[cm];W[be];B[bd];W[bl]TR[hf][if][jf][kg][hh][kh][jj][mj][nj]
+[nl][mm]C[VALE: I think this exchange (the left sider for the center) was not good for white. Your left side is small and all marked white stones look useless because they're not making any points...]
+;B[ho];W[gn];B[aq];W[an];B[ao];W[bp];B[ap];W[br];B[am];W[im]
+;B[in];W[jn];B[hm];W[hn];B[jm];W[il];B[kl];W[km];B[kn];W[lm]
+;B[ko];W[io];B[bq];W[cq];B[ce];W[bf];B[gf];W[hk];B[gk];W[lf]
+;B[le];W[mg];B[mf];W[gg];B[ge];W[ma];B[mc];W[mb];B[pc];W[md]
+;B[ld];W[jb];B[jc];W[ib];B[kc];W[kb];B[hb];W[ic];B[kd]LB[la:A]
+C[VALE: You can live here!!!]
+(;W[ha];B[ia];W[ga];B[gb];W[fa];B[fb];W[ea];B[db];W[da];B[cb]
+;W[ja];B[la]C[VALE: -.- too bad...........];W[eb];B[ca];W[ia]
+;B[fc];W[hj];B[hi];W[ii];B[js];W[ir];B[lg];W[lh];B[jp];W[ip]
+;B[kp];W[ad];B[ac];W[ae];B[bb];W[rd];B[sc];W[oa];B[pa];W[qa]
+;B[na];W[rb];B[qb];W[mi];B[sq];W[rr];B[qo];W[rp];B[sr];W[rs]
+;B[os];W[ns];B[or];W[oq];B[ms];W[ar];B[al];W[ak];B[an];W[aj]
+;B[bk]
+(;W[ag]C[VALE: ??];B[bh];W[bj];B[cl]
+(;W[ah]C[VALE: Do you need this move? ... Nope. It's like not moving at all.]
+;B[bk];W[bg];B[df];W[ss];B[sn];W[ol];B[ff];W[hg];B[he];W[lf]
+;B[sl]C[VALE: hmpf... Yeah, this is too sad... This was possible for black since move No. 75... You had much time to prevent it.]
+;W[rk];B[sk];W[ql];B[pj];W[sj];B[si];W[rh];B[sj];W[nk];B[sm]
+;W[pg]LB[is:A]C[VALE: ?? This is useless... What about A? It's HUGE.]
+;B[me];W[lg];B[gh];W[ih];B[cf];W[is];B[ks];W[tt];B[bl];W[tt]
+;B[tt]LB[ec:A]TW[af][qf][ig][jg][rg][bh][jh][ai][ji][ki][li]
+[ij][kj][lj][ik][jk][kk][lk][mk][jl][kl][ll][ml][jm][nm][om]
+[in][do][eo][fo][go][ho][dp][ep][gp][hp][eq][fq][gq][hq][iq]
+[pq][qq][cr][dr][er][fr][gr][hr][or][qr][as][bs][cs][ds][es]
+[fs][gs][hs][os][ps][qs]TB[aa][ba][da][ea][fa][ga][ha][ia][ja]
+[ka][ma][oa][qa][ra][sa][ab][eb][ib][jb][kb][lb][mb][nb][pb]
+[rb][sb][bc][cc][dc][gc][ic][lc][mc][nc][dd][ed][fd][gd][hd]
+[jd][md][de][ee][fe][ei][fi][ek][fk][fl][bm][lo][mo][mp][lq]
+[lr][ls]C[masuke [8k\]: thx
+suparixi [8k\]: thx :)
+
+VALE: All in all you made one big mistake in the opening (A), you had some reading issues (you died at the top for no reason) and you made one or two wrong tactical decisions (you had to invade earlier at the upper side and made a wrong decision at the left side).
+I hope you can learn a bit from my review.
+
+You didn't write questions in the SGF-File itself. If you have some questions at some certain points you can always ask me!
+
+Good Bye :)
+
+VALE])
+(;W[is];B[bk];W[bl]C[VALE: That's all.]))
+(;W[bj];B[cl];W[cf]C[VALE: alive.]))
+(;W[la]C[VALE: You are alive.]))
+(;W[di];B[gl];W[gk];B[hk];W[hj];B[gi];W[hl];B[ik];W[fl];B[gm]
+;W[fm]
+(;B[gh];W[fh];B[gg];W[gf];B[ff];W[hi])
+(;B[hi];W[im];B[jk];W[ij])))
+(;W[dh]C[VALE: Maybe a shoulderhit here is a good attack to get points.]
+;B[ch];W[dg];B[cg];W[ej];B[dk]LB[dh:B][cl:C][ln:A]C[VALE: But there is still A here. so maybe C is the better choice instead of B.]
+)
+(;W[cl];B[dl];W[ck];B[dk];W[cj];B[dj];W[bi];B[ch];W[bn]LB[hf:D]
+[jj:C][fn:A][fp:B]TR[ch][ci][dj][dk][dl][dm][cn][do]C[VALE: black's wall looks useless because of A, B, C and D.]
+))
+(;W[ke]
+(;B[lf];W[ie];B[kh];W[ig];B[jh];W[ce]TR[ie][jf][ig]C[VALE: now you have a chance to turn around this game.]
+)
+(;B[if];W[lf]C[VALE: It can get an interesting KO-fight.])))
+(;W[hd];B[ic];W[id];B[gd];W[hf])
+(;W[me];B[ne];W[lg];B[lf];W[kf];B[mf];W[kg]))
+(;W[gc]C[VALE:]
+(;B[lc];W[ge]C[VALE: White looks OK.])
+(;B[ic];W[ge];B[id];W[ie];B[he];W[hf];B[hd];W[jf];B[gf];W[gg]
+;B[ff];W[ig])))
+(;W[nm];B[on];W[ml]C[VALE: Now it's not that easy for black.]
+))
+(;B[rg];W[rh];B[sf]C[VALE: white dies.]))
+(;W[qj];B[qk]LB[lp:A]C[VALE: Black can play here because of A.]
+;W[pk]LB[lp:A]C[VALE: White can not cutt.];B[pj]LB[lp:A];W[qi]
+LB[lp:A];B[pl]LB[lp:A];W[ok]LB[lp:A];B[nk]LB[lp:A];W[ol]LB[lp:A]
+;B[om]LB[lp:A];W[nl]LB[lp:A];B[ml]LB[lp:A];W[nm]LB[lp:A];B[nn]
+LB[lp:A];W[mm]LB[lp:A];B[lm]LB[lp:A];W[mn]LB[lp:A];B[mo]LB[lp:A]
+;W[ln]LB[lp:A];B[kn]LB[lp:A]))
+(;W[pk];B[fl]C[VALE: Black is HUGE.])
+(;W[jc];B[hc]
+(;W[lc];B[mc];W[kf]C[VALE: This is possible.])
+(;W[nb]C[VALE: This is possible.])))
+(;W[pi]))
+(;W[qd];B[qc];W[qe];B[rc];W[qj];B[hq]C[VALE: this is a possible follow-up.]
+
+(;W[lq];B[eq];W[ep];B[fq];W[en];B[dn];W[dp];B[gp];W[lc])
+(;W[fq];B[kq];W[mq];B[ko])))
+(;AW[po][pq]AE[op][qp]LB[jp:A]C[VALE: Still white needs a Stone at A.]
+)
+(;W[qf]C[VALE: I'll show you a possible follow-up.];B[nd];W[rd]
+;B[qc];W[qi];B[hq]LB[eq:A][fq:B][lq:C]C[VALE: Now black uses the weakness at A. White can play B or C now.]
+
+(;W[lq];B[eq];W[ep];B[fq];W[en];B[dn];W[dp];B[gp]LB[jc:A]C[VALE: All in all it looks very good for black. White should attack on the upper side now.]
+)
+(;W[fq];B[kq];W[mq];B[ko];W[lc];B[ic]C[VALE: All in all it's very good for black.]
+)))
+(;W[ec];B[de];W[hc];B[dc];W[ed];B[op]))
+(;B[eq];W[ep];B[dp];W[cq]LB[jp:A]TR[eq]C[VALE: The marked stone has Aji and if black has some Stones around A it can be bad for white.]
+))
+(;W[fq];B[ci];W[ec])
+(;W[ep];B[ci];W[ec]))

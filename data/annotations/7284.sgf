@@ -1,0 +1,93 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+PB[GNU Go]
+HA[2]
+PW[Rafael]
+WR[5k]
+KM[0.5]
+DT[2009-05-16]
+RE[B+7.50]
+RU[Japanese]
+
+AB[pd][dp]C[Hi, it's interesting to see computer way of playing. Sometimes it does such stranges moves! as if it lost its cpu... but computer's endgame is not too bad... 
+
+I made some comments esp. about joseki... one principle to keep in mind: if your opponent tenukis in the middle of joseki (as computer did in the upper left), then you should try to take advantage! otherwise you just end up following your opponent.
+
+Hope this helps,
+
+-- unstable.];W[dc];B[ce];W[de];B[df];W[ee];B[cd];W[cc];B[qp]
+C[Normally, black needs to add a stone on the top left around c11. Since it did not, you should attack there directly. See some variations.]
+
+(;W[op];B[qn]
+(;W[lq]LB[oq:B][qq:A]C[Right now black B is very big for black... for that reason i prefer move 11 at A.]
+
+(;B[ci];W[fq]C[This is big, but after c11, w needs a move around g17, or else black can go there now, see variation.]
+
+(;B[dn];W[dr];B[cq];W[ip];B[qk];W[qf]C[I prefer approach at 017, this works better with stones on the left and also may resolve the weakness at d16...]
+;B[nc];W[rd];B[qc];W[qi];B[rc];W[qd]C[Leave this move for the endgame]
+;B[kc];W[pe];B[di];W[ef];B[dg]C[After this exchange, around j18 is a must!! Otherwise black can go g17, very painful for white.]
+;W[dl];B[cr];W[eq]C[this is too small now, w should still play j17.]
+;B[cm];W[em]C[You should go c8 first, it is very powerful. Or else tenuki to j17.]
+;B[cl];W[dk];B[hc]C[now black got the key point.];W[gd];B[eg]
+;W[gc];B[od];W[oe]C[this push is gote and it doesnt gain white much.]
+;B[go]C[Now black is ahead, because white's center bcomes heavy.]
+;W[eo];B[en];W[do];B[ep];W[fo];B[co];W[fp];B[hb]C[very strange, why not f6... computer got confused..]
+;W[hd];B[gb];W[fb];B[ck]C[again, you got lucky conputer didnt f6!!]
+;W[fn];B[fm];W[gm];B[fl];W[gl];B[fk];W[pr];B[oo];W[no];B[on]
+;W[nn];B[nm];W[mm];B[ml];W[nl];B[ll]C[wow the puter lost his brains!]
+;W[om];B[mi];W[km];B[rr];W[oi];B[ki];W[fg]C[too small, how about r7 or you can start attack on l11 with moves like l16 and g9.]
+;B[jk]
+(;W[il]C[again too small, locally g9 is better...see var.];B[mg]
+;W[nf];B[dm]C[I wonder, does the computer think he is winning? very strange move this one..
+
+End of comments.];W[ig];B[hj];W[fh];B[fi];W[eh];B[fa];W[eb]
+;B[dq];W[dh];B[ch];W[ei];B[bc];W[bb];B[pp];W[oq];B[er];W[fr]
+;B[ds];W[ej];B[fj];W[jd];B[ic];W[jc];B[jb];W[kf];B[el];W[ld]
+;B[lc];W[kd];B[lm];W[ln];B[sd];W[re];B[rj];W[qm];B[rm];W[pn]
+;B[po];W[pm];B[rn];W[ri];B[ad];W[qj];B[ab];W[ba];B[ng];W[og]
+;B[rk];W[pk];B[nj];W[oj];B[si];W[sh];B[sj];W[rg];B[nk];W[ok]
+;B[kl];W[jm];B[fs];W[gs];B[es];W[hr];B[md];W[me];B[dj];W[ek]
+;B[nh];W[oh];B[ql];W[pl];B[ik];W[ii];B[gi];W[hh];B[kg];W[jg]
+;B[lf];W[ke];B[jh];W[ji];B[qr];W[pq];B[gk];W[hl];B[dd];W[ed]
+;B[ac];W[ea];B[nd];W[mf];B[lh];W[jj];B[kj];W[hk];B[gh];W[gg]
+;B[se];W[sf];B[sc];W[hi];B[ga];W[ih];B[qq];W[kh];B[lg];W[ij]
+;B[jl];W[gj];B[em];W[hj];B[ps];W[os];B[qs];W[id];B[jh];W[le]
+;B[kh];W[ne];B[ni];W[cb];B[be];W[aa];B[tt]TW[ca][da][db][ec]
+[fc][fd][fe][ge][he][ie][je][qe][ff][gf][hf][if][jf][of][pf]
+[rf][hg][pg][qg][sg][ph][qh][rh][pi][pj][ol][hm][im][nm][gn]
+[hn][in][jn][kn][mn][go][ho][io][jo][ko][lo][mo][gp][hp][jp]
+[kp][lp][mp][np][gq][hq][iq][jq][kq][mq][nq][gr][ir][jr][kr]
+[lr][mr][nr][or][hs][is][js][ks][ls][ms][ns]TB[ha][ia][ja][ka]
+[la][ma][na][oa][pa][qa][ra][sa][ib][kb][lb][mb][nb][ob][pb]
+[qb][rb][sb][mc][oc][pc][bd][ae][af][bf][cf][ag][bg][cg][ah]
+[bh][mh][ai][bi][li][aj][bj][cj][lj][mj][ak][bk][kk][lk][mk]
+[sk][al][bl][rl][sl][am][bm][sm][an][bn][cn][sn][ao][bo][qo]
+[ro][so][ap][bp][cp][rp][sp][aq][bq][rq][sq][ar][br][dr][sr]
+[as][bs][cs][rs][ss]C[Negro gana de 7,5 puntos.])
+(;W[gk];B[fj]
+(;W[kd])
+(;W[jc];B[jb];W[kd];B[lc];W[ii]C[you can still consider attacking the center... maybe then can make some house around h14. Or else start endgame moves like t17 and b17.]
+)))
+(;B[bc]
+(;W[bb];B[dd];W[ed];B[ec];W[eb];B[fc];W[ef];B[dg];W[bd];B[be]
+;W[ac];B[fb];W[da];B[fg];W[ge];B[hd];W[he];B[id];W[ie];B[kd]
+)
+(;W[fc];B[bb]))
+(;B[gc];W[fc];B[fb];W[eb];B[fd];W[ec];B[kc]))
+(;B[oq];W[nq];B[pq];W[np]C[This would make w very uncomfortable -- normally m3 should be around k3.]
+))
+(;W[qq];B[rq];W[pq];B[rr];W[lq]C[This is normal.]))
+(;W[ch];B[cg];W[dh]
+(;B[ef];W[ff]
+(;B[dd];W[ed])
+(;B[fg];W[eg];B[dd];W[ed];B[ec];W[ge]
+(;B[eb];W[bc];B[bd];W[bf]C[black dies];B[bg];W[bh]
+(;B[cf];W[ag])
+(;B[ac];W[cf])
+(;B[af];W[ae];B[ag];W[ad];B[db];W[ah]))
+(;B[bc];W[bb];B[bd];W[eb];B[fc];W[fb];B[gc];W[hd];B[hc];W[id]
+;B[ic];W[ab];B[bh];W[bi];B[dg];W[eh];B[bf];W[ah];B[bg];W[kc]
+)))
+(;B[eg];W[bg]
+(;B[bf];W[dg])
+(;B[ef];W[bf]))))

@@ -1,0 +1,134 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+PB[cardmagic]
+BR[3k]
+PW[SpyPower]
+WR[2k]
+KM[0.5]
+DT[2008-01-11]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[B+Resign]
+TM[900]
+RU[Japanese]
+US[Lucas Carlson]
+
+C[cardmagic [3k\]: hello
+cardmagic [3k\]: gg
+SpyPower [2k\]: hi];B[pc]C[SpyPower [2k\]: gg];W[dp];B[qp];W[dd]
+;B[oq];W[pe];B[qi]LB[oc:b][nd:a]C[What are some standard ways to approach this black formation? this pincer seems ideal for black.
+
+dv: The pincer may seem ideal but is actually lukewarm. It is too far a pincer to apply high pressure and too far an extension from the corner enclosure so that an invasion is still possible.
+
+This pincer does not occur in any professional game at gobase. Which doesn't mean for us amateurs it be easy to refute.
+
+My feeling is that pressing the black corner at A or B would be correct but i need to check with the opinion of stronger players. I've posted the question at http://senseis.xmp.net/?BQM395 You can follow it up with me there.
+
+See variations.]
+(;W[qc];B[qb];W[qd];B[rb]C[This is unreasonable.]
+(;W[qg]C[With this variation White turns the pincer into an effective checking move (keeping white's extension in check). White is cramped.]
+;B[nc]C[Low?
+
+dv: it's a correct move with which Black restores his position.]
+;W[ne]LB[og:a]C[It is difficult to find a good move for W now: either you add a stone and the position becomes a little overconcentrated or you leave it and it remains a bit weak.
+
+But this move has little purpose: it has a high risk of ending up as a neutral point. A is better to strengthen the group (but as said it is perhaps overconcentrated).]
+;B[qh]C[Is this a good or bad move?
+
+dv: it is a strange move. It strengthens white and gets a little bit in return.]
+
+(;W[rg]LB[mc:B][pg:A]C[Q13 instead?
+
+dv: I always prefer a 4-th line move (A) over a 2nd-line move in the opening, but your move is possible.
+
+On the other hand, you can wonder if this must be answered. You get a chance to give purpose to the previous move.]
+;B[ld];W[ql]C[I understand the call for attack.];B[qn];W[ol]
+C[This looks promising now for White];B[og];W[pg]LB[oi:a]C[Maybe attack at A.]
+;B[oi]
+(;W[ml]C[This is not urgent. These stones are light. Here it starts to go a little wrong for White. See variation.]
+;B[of];W[oe];B[mh];W[md];B[mc];W[le];B[kd]C[All this leaning gives a lot of sure territory to Black, while the attack on the Black group is uncertain.]
+;W[mj];B[pk]C[This is bad of course];W[pl];B[ph]LB[kh:a]C[Both previous move Black should simply jump to A.]
+;W[rj]LB[lg:A]C[I prefer to surround at A first, instead of removing the base while threatening to connect underneath, but it may be preference.]
+;B[rh];W[ke];B[mf];W[me];B[jd];W[ki];B[kg];W[jg];B[kh]
+(;W[jf]C[You cannot back off here. See variation.];B[jh];W[mq]
+;B[mo];W[lo];B[ln];W[lp];B[mn]TR[ke][jf][jg][lo][lp][mq]SQ[kg]
+[jh][kh][ln][mo]MA[ki][ml]C[Two times you play an attachment with this effect. Black gets a full triangle, blighting the marked stone. If this is an unwanted effect, you should not play such attachment + retreat.
+
+This is an example of calculating a little ahead and then evaluating the shape. I believe you played the attachment out of desire to enclose. But as we know, attachment rarely fulfills this purpose: it is rather an emergency measure or a leaning maneuvre.]
+;W[jo];B[fq];W[hq];B[cq];W[dq];B[cp];W[do];B[dr];W[er];B[cr]
+;W[eq];B[cn];W[fp]C[Too tight?
+
+dv: Yes, absolutely. Already without the friendly stones around it is very tight. Now it is plain overconcentration.]
+;B[fc]C[White is now seriously falling behind.
+
+1) on territory: White only has the bottom against Black's top and three corners.
+2) on strength: neither of White's two running groups are stabilized yet.]
+;W[cf];B[db];W[cc];B[hd]C[So, White must look for chances to get back into the game.
+
+- the top is absolutely unsiegable
+- the bottom left is also sure territory
+- there may be a small chance of attacking the middle right, but its nose sticking out with the full triangle it will be difficult
+
+the bottom right looks like the only place where sth can be done.]
+
+(;W[np]C[So you came to the same conclusion, but I'm thinking of sth like the var.]
+;B[on];W[kn];B[hg];W[hf];B[gf];W[ig];B[ih];W[gg];B[hh];W[ge]
+;B[ie];W[if];B[gh];W[ff];B[ch];W[ck]LB[cl:a][bo:b]C[The correct point to pressure the corner is A, because it aims at B.]
+;B[cb]C[Black is biting off every bit of territory you have, challenging White to attack the middle group. It looks too strong indeed to attack.]
+;W[eh];B[bd];W[ce];B[cj];W[dk];B[ei];W[di];B[bl];W[bk];B[fh]
+;W[ej];B[eg];W[dh];B[fg];W[dg];B[ef];W[ee];B[gf];W[fe];B[he]
+;W[gg];B[ak];W[gf];B[bj];W[cm];B[bm];W[co];B[bo];W[dn];B[bn]
+;W[hk];B[kl]MA[fi][gj][ij][jj][lj][mk][cl][dm][lm][fr][nr][fs]
+[ns]C[reasonable?
+
+dv: Well, it uses the weakness of the white group to strengthen the black group, so yes, reasonable. White must now fight very hard to attack the group effectively but I do not see how it can be killed.
+
+If White can play so as to take the marked territory however, then there are still chances.]
+;W[lm];B[km];W[jk]LB[kj:a]C[perhaps better at A];B[lj];W[lk]
+;B[kk];W[li];B[jj];W[kj];B[ik];W[jl];B[il];W[jm];B[hj];W[im]
+;B[hl];W[hm];B[gl];W[gm];B[nr];W[mr]CR[kg][jh][kh][ln][mn][mo]
+LB[qg:A]TR[md][ee][fe][ge][ke][le][me][ne][oe][gf][hf][if][jf]
+[gg][ig][jg]C[With this exchange all Black weaknesses have disappeared and White has lost his chances, for the territorial lead is too large.
+
+Conclusion: 
+- you got off a bad start with the cramped extension at A, leaving your group weaker than should (see variations at that point)
+- the whole leaning against the top to attack black's central group ended up futile
+- giving Black strong shapes as the full triangles should be avoided under most fighting circumstances]
+;B[ms];W[ls];B[ns];W[kr];B[es];W[op];B[pp];W[fs];B[ds]
+(;W[fr]C[This is not necessary. With good endgame you can still come close.]
+;B[bc];W[rm];B[rn];W[sn];B[so];W[sm];B[rp];W[lh];B[lg];W[ec]
+;B[eb];W[ci];B[bi];W[bh];B[ah];W[bg];B[se];W[re];B[sd];W[sf]
+;B[sc];W[pj];B[qj];W[qk];B[gk];W[ji];B[ij];W[ii];B[fj];W[fi]
+;B[gi];W[fl];B[fk];W[ek];B[cl];W[dm];B[el];W[fm];B[dl];W[ni]
+;B[oj];W[nh];B[oh];W[ng];B[nf];W[ok];B[hi];W[mg];B[lf];W[nq]
+;B[pr];W[nm];B[oo];W[nj];B[qm];W[rl];B[pf];W[qf];B[dc];W[fd]
+;B[gc];W[od];B[oc];W[be];B[cd];W[ed];B[em];W[en];B[df];W[de]
+;B[ei];W[or];B[os];W[fi];B[dj];W[cg];B[ei];W[ad];B[ac];W[ae]
+;B[sh];W[sg];B[sj];W[sk];B[si]C[SpyPower [2k\]: thnx
+cardmagic [3k\]: thanks])
+(;W[rm];B[rn];W[bc];B[bg];W[fl];B[gk];W[nf];B[mg];W[nh];B[ng]
+;W[ni];B[oh];W[qj];B[nj];W[mi];B[pj];W[ci];B[bi];W[bb];B[bf]
+;W[be];B[ae];W[cd];B[ad];W[ac];B[af];W[cg];B[bh];W[sn];B[so]
+;W[sm];B[ro];W[rc];B[cl];W[dm];B[dl];W[el];B[dj];W[ek];B[fi]
+;W[ec];B[eb];W[fd];B[gc];W[nk];B[oj];W[sb];B[ra];W[sh];B[si]
+;W[sg];B[ri];W[sj];B[qk];W[rk];B[nm];W[nq];B[or];W[pd];B[oc]
+;W[ca];B[da];W[ba];B[je];W[kf];B[fj];W[ji];B[ij];W[ii];B[hi]
+;W[dc];B[fb];W[oo];B[po];W[mp];B[no];W[pm];B[pn];W[mm];B[nn]
+;W[nl];B[pb];W[pf];B[lf];W[lh];B[lg];W[df];B[gd];W[sc];B[sa]
+;W[qm];B[om]))
+(;W[qr];B[or];W[ro];B[rn];W[qo];B[po];W[rp]
+(;B[pn];W[pp];B[op];W[qq];B[pq];W[sq])
+(;B[pp];W[rq];B[pn];W[sr])))
+(;W[jh];B[jf];W[kf];B[li];W[lj];B[ji];W[kj];B[je];W[lg];B[lh]
+;W[ii];B[rc];W[nh];B[mg];W[ni];B[oh];W[qj];B[lf];W[sh];B[si]
+;W[sg];B[ri];W[pj];B[pf];W[qf];B[re];W[qe];B[rd];W[oj];B[pd]
+;W[sj];B[rf];W[pi];B[sf];W[ng];B[nf];W[mi]))
+(;W[mf];B[mi];W[jc]C[White can now aim at this point.];B[ke]
+;W[lg]LB[mc:a]C[threatening A]))
+(;W[pg];B[rg];W[rf];B[pl]C[Anyhow Black ends in gote.];W[jq]
+C[I])
+(;W[mc];B[mb];W[md];B[lb];W[pg]C[This looks better.]))
+(;W[oc];B[pb];W[od];B[ob];W[mc]))
+(;W[oc];B[ob];W[od];B[nc];W[pb];B[qb];W[nb];B[pa];W[mc]C[The position of the pincer is awkward.]
+)
+(;W[nd];B[qe];W[qf];B[qd];W[pg];B[nc];W[md];B[mc];W[ld]C[Again, the pincer is awkwardly placed. If Black wants corner territory, he can as well take it immediately.]
+))

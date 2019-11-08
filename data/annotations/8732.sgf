@@ -1,0 +1,191 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.17]
+
+GN[gtl]
+PB[paradoxal]
+BR[15k]
+PW[fc]
+WR[14k]
+KM[0.5]
+DT[2012-04-07]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[B+3.5]
+TM[1500]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+C[[bravani\] - Hello, i'm the guy who has been asked to do the review. I'm not an expert (i'm 7 kyu on KGS), so don't take my words as the supreme-truth, but i'll try to make my best reviewing this game. I'm not a native english speaker, so please forgive any grammatical error :)
+I'll use the convenction to refer to black as "he" and to white as "she".
+I'll mark my comments with "[bravani\]".
+
+fc [14k\]: hello];B[pd];W[dp]C[paradoxal [15k\]: hi];B[dd];W[pp]
+C[[bravani\] This is a pretty standard opening]
+(;B[cq]C[[bravani\] Ok, two words about 3-3 (san-san) invasion.
+This is a very common invasion, first of all because it almost alway works. That is: if there's no particular white stone configuration in the surrounding area, and if black does not make big mistakes, then he is pretty sure to gain the control in the corner.
+But the 3-3 invasion must be done at the right time, because of the great influence white can build up. See the variations.
+
+Conclusion: Play the 3-3 invasion only if your opponent's answers won't create too much influence towards the center.
+
+So i'd say that your invasion here is way too premature.];W[dq]
+;B[cp];W[co];B[bo];W[cn];B[bn]C[[bravani\] standard playing]
+(;W[bm]C[[bravani\] This is an error: White commonly should play C7 here. 
+Leaving too many cutting points is dangerous!
+See variation];B[dr];W[an];B[bp];W[er];B[cm];W[dm];B[cl];W[bl]
+(;B[ao]SQ[cr][cm][cl]C[[bravani\] I don't like this move. It's not particularly urgent. I would have defended the X spot, or, better, tried to do something with the stones marked withn a square. See variation.]
+;W[ds];B[dn];W[do];B[en];W[dl];B[ck];W[cr];B[br];W[bk];B[bj]
+;W[aq];B[ak];W[bs];B[ar];W[dk];B[cj]TR[br][ar][cq][cp][bp][bo]
+[ao][bn][cm][cl][ck][bj][ak]C[[bravani\] Whoooah, that was close. Black group marked 'X' is safe, but at a great price.]
+;W[dj];B[di];W[fn];B[em]C[[bravani\] in this move and in the following ones, you try to save some stones that would be better be left to their fate.
+Do not focus too much on a particular zone. See the big picture, and claim some big points in the goban.]
+;W[fm];B[el];W[fk];B[ek];W[ej];B[fj];W[ei];B[dh];W[fl]TR[ei]
+[ej][fk][fm][fn][dm][dk][dj][dl][cn][co][do][dp][dq][er][ds]
+[cr][bs]C[[bravani\] White has managed to make a great wall. This works splendidly with the corner stone at Q4.]
+;B[qq]C[[bravani\] This, again, is a premature invasion. And...]
+;W[pq];B[qp];W[qo];B[ro];W[po];B[pr];W[or];B[qn]C[[bravani\] this looks like an overplay to me.
+I would have defended at R2, or simply extended at S6];W[qr]
+;B[rr];W[qs];B[pj];W[pn];B[qm]TR[fk][fl][fm][fn][do][er][dp]
+[dq][ds][po][pn][pp][pq][or]C[[bravani\]
+... thanks to the 3-3 invasion by Black, White is buildinng another great wall facing the first one! The territory in between will be very diofficult to invade.]
+;W[rn]
+(;B[rm];W[rp];B[rq];W[so];B[jp]C[[bravani\] this is pretty desperate
+but you managed to live, so i guess it's ok :)];W[jm];B[gp]
+;W[ho];B[nq];W[lq];B[kq];W[lo];B[mq];W[lp];B[lr];W[kp];B[jr]
+C[[bravani\] Good. Makes eye-shape.];W[nr];B[hp];W[mr];B[ls]
+(;W[io]C[[bravani\] this is a 'shy' move from white. It's like white already thinks Black is gonna live.]
+;B[ip];W[jo]C[[bravani\] another weak move from white.];B[gr]
+C[[bravani\] Good move. Black seems very satisfied.];W[fp];B[fq]
+;W[fr];B[gs];W[eq];B[gq];W[go];B[js]SQ[gs][gr][gp][fq][gq][hp]
+[ip][jp][kq][jr][lr][ls]MA[hs][is][ir][hr][hq][iq][jq][kr][ks]
+C[[bravani\] This move is not necessary. 
+Spending an extra move to save an already living group is bad...
+
+Your group lived also thanks to your opponent's moves, but in the end it is worth a nice bunch of points so be happy with that :)
+
+my method to evaluate such an invasion is the following:
+
+Your group has 8 points of territory. (X)
+plus another 8 points that your opponen would have made if you didn't invade (X again)
+plus 13 point of 'stones' which occupy white's area (this also used to be white's territory) (squares)
+
+So 8+8+13 = almost 30 points. Not bad. 
+(this is an approximate method, but it can be useful as a rule of thumb)]
+;W[jj]TR[ei][fk][fl][fm][fn][go][ho][io][jo][ej][kp][lp][lq]
+[mr][nr][or][pq][pp][po][pn][jm]C[[bravani\] White has lost a buch of territory, but now its influence is not disappeared, it only moved toward the center...
+White's mojo (marked with X) is still pretty nice.];B[jg]MA[ol]
+C[[bravani\] this seems like a 'personality crisis move' to me...
+You should decide if you want to reduce white's mojo (with P8, for exemple), or to defend your potential territory (with moves like K16).
+This move is a bit in between, and it doesn't seem to work harmonously with your other stones in the goban...]
+;W[qf];B[qg]C[[bravani\] a proverb says: Do not attach against a weak stone, because this only makes it become stronger...]
+;W[qc];B[qd]C[[bravani\] trying to divide white's stones is good.
+You may also want to consider the other direction (letting White connect but building a illtle wall for future developments)]
+;W[pc];B[oc];W[od]
+(;B[pf];W[nc];B[ob];W[nb];B[oe];W[nd];B[rc];W[qb];B[rb];W[oa]
+;B[rf];W[qe];B[re];W[ne];B[nf];W[ra];B[jc];W[sb];B[sc];W[nl]
+;B[pl];W[om];B[fi]
+(;W[eo]C[[bravani\] I don't like this answer from white. 
+Black stones were already dead. White spent a move to kill them.]
+(;B[hj]MA[eh]C[[bravani\] X point is big!];W[hk];B[ii];W[ij]
+;B[ji];W[mi];B[ni];W[mj];B[mh];W[lh];B[mg];W[lg];B[lf];W[nj]
+;B[oh];W[oi];B[pi];W[nh];B[ng];W[ni];B[kg];W[kh];B[jh];W[hi]
+;B[li];W[fh];B[kj];W[kk];B[fe];W[cf];B[cd];W[ef];B[hf];W[kd]
+;B[ld];W[le];B[lc];W[me];B[je];W[kf];B[ki];W[lj];B[jf];W[ke]
+;B[jd];W[kc];B[kb];W[lb];B[mb];W[mc];B[la];W[mf];B[lg];W[ci]
+;B[am];W[ch];B[hh];W[gi];B[gh];W[gj];B[fg];W[eh];B[ee];W[df]
+;B[ff];W[bi];B[al];W[ai];B[eg];W[dg];B[be];W[bf];B[af];W[ag]
+;B[ae];W[ce];B[bc]C[[bravani\] Argh! due to the missed opportunity to block at E12, you lost something like 30 points... Well, it happens!]
+;W[pk];B[qk];W[ok];B[sm];W[oj];B[rj];W[ph];B[og];W[qh]C[[bravani\] 
+Oh. Sometimes you will encounter people who tries horrible invasions like this one.
+The good thing to do, if you feel confident, is to ignore all moves unless it's strictly necessary to answer. By doing this, you gain an extra point for each useless move your opponent does.]
+;B[rh];W[qi];B[qj];W[ri];B[si]C[[bravani\] dont' answer. White stones are already dead.]
+;W[pm];B[ql];W[sk];B[sj]C[[bravani\] again, you did not need to answer. Each move you play inside your territory is a point you spend. So be sure your move is necessary!]
+;W[ol];B[ms];W[ns];B[de];W[na];B[ma];W[pb];B[qa]C[[bravani\] Good! Spoils white eye's shape.]
+;W[md];B[ja];W[lb]
+(;B[ka]C[[bravani\] uhmmm, see variation];W[lc];B[sa];W[fc]
+;B[db];W[ia];B[jb];W[hb];B[hc];W[eb]C[[bravani\] This is another exemple of boring useless invasion which almost seems like an offense to black's intelligence.
+Again, i suggest not to answer if you think it is not necessary. Naturally, you must be very careful!]
+;B[ec];W[ea];B[ga];W[gb];B[gc];W[da];B[cb];W[ca];B[ba];W[fb]
+;B[fd];W[pa];B[ps];W[os];B[ra];W[oq];B[tt];W[fs];B[tt];W[tt]
+TW[ob][oc][ld][bg][cg][ah][bh][dh][di][fi][fj][hj][ek][gk][ik]
+[jk][lk][mk][nk][el][gl][hl][il][jl][kl][ll][ml][em][gm][hm]
+[im][km][lm][mm][nm][dn][en][gn][hn][in][jn][kn][ln][mn][nn]
+[on][fo][ko][mo][no][oo][ro][ep][mp][np][op][qp][sp][mq][nq]
+[qq][rq][sq][dr][pr][rr][sr][es][ps][rs][ss]TB[aa][ca][da][ea]
+[fa][ha][ia][ab][bb][eb][fb][gb][hb][ib][sb][ac][cc][dc][fc]
+[ic][ad][bd][ed][gd][hd][id][rd][sd][ge][he][ie][pe][qe][se]
+[gf][if][of][qf][sf][gg][hg][ig][pg][rg][sg][ih][kh][lh][ph]
+[qh][sh][qi][ri][bk][rk][sk][bl][rl][sl][bm][an][ap][aq][bq]
+[hq][iq][jq][hr][ir][kr][hs][is][ks]C[fc [14k\]: thank you for the game
+paradoxal [15k\]: thank you
+paradoxal [15k\]: good game];TB[aa][ab][ac][ad][an][ap][aq]
+[bb][bd][bk][bl][bm][bq][ca][cc][da][dc][ea][eb][ed][fa][fb]
+[fc][gb][gd][ge][gf][gg][ha][hb][hd][he][hg][hq][hr][hs][ia]
+[ib][ic][id][ie][if][ig][ih][iq][ir][is][jq][kh][kr][ks][lh]
+[of][pe][pg][ph][qe][qf][qh][qi][rd][rg][ri][rk][rl][sb][sd]
+[se][sf][sg][sh][sk][sl]TW[ah][bg][bh][cg][cs][dh][di][dn][dr]
+[ek][el][em][en][ep][es][fi][fj][fo][gk][gl][gm][gn][hj][hl]
+[hm][hn][ik][il][im][in][jk][jl][jn][kl][km][kn][ko][ld][lk]
+[ll][lm][ln][mk][ml][mm][mn][mo][mp][mq][nk][nm][nn][no][np]
+[nq][ob][oc][on][oo][op][pr][ps][qp][qq][ro][rq][rr][rs][sp]
+[sq][sr][ss]C[FINAL CONSIDERATIONS
+
+Well, this was a close game. Both player missed some great moves but i think it is a good game between 14/15 kyu players, overall.
+
+My suggestions:
+
+Don't invade a 4-4 stone with a 3-3 invasion unless you think your opponent is not gonna gain too much influence on the outside. There's a lot of litterature about 3-3 invasion and about when it is a good play, so it's surely not a trivial question. Anyway, at the beginning of the game, quiet moves like simple kakari are preferred.
+
+I think you have good cognition about what good shape is. Sometimes you tend to use too many moves to secure an already living group. I also make this kind of mistakes, because I'm a bit too greedy and i want to be sure to gain territory. The good balance between safety and efficience is one of the great problems in Go.
+
+Unhappily enough, youn missed a great opportunity to kill white's top group, but you proved yourself capable of spotting weaknesses in your opponent's shapes (for exemple with the throw in at R19).
+
+Most important: do not forget the overall situation of the goban. Claim big points when there is no other urgent move to do. 
+
+I hope to have been useful. Please forgive my bad english.
+
+Bravani (Daniele Morelli)])
+(;B[lc]C[[bravani\] this kills an eye. Now white group is no more alive!]
+;W[pa];B[sa]C[[bravani\] There is nothing white can do to gain another eye. he can only fight a ko in the corner which she is bound to lose. 
+
+It's a real pity. You made a very great tesuji at R19 but then you did not follow your idea by killing the other eye with M17.
+Well, this is the kind of fault everyone makes when learning go, and i think even the greatest professionals makes similar errors (just on a very higher level)]
+))
+(;B[eh]C[[bravani\] This moves secures a lot of territory...]
+))
+(;W[eh]C[[bravani\] this is better. Saves white stones from atari AND opens a breach into Black's territory.
+E12 is a big big point...]))
+(;B[nc]C[[bravani\] maybe?]))
+(;W[iq]C[[bravani\] I think White should be more aggressive. K3 is the vital point.]
+;B[ip];W[gr];B[hq]C[[bravani\] bad shape, but i think it's the only move]
+;W[ir];B[hr];W[hs]C[[bravani\] Now Black seems not very happy.]
+))
+(;B[so];W[rm];B[ql]C[[bravani\] Maybe this is a way to save both the corner and the side group...]
+;W[rl];B[rk];W[rq];B[rp];W[sq];B[sl]TR[rn][rm][rl]C[[bravani\] I don't know if this is the perfect way to play, but it seems better than what happened in the game (X are dead)]
+))
+(;B[dl]MA[dn][bk][do]C[[bravani\] A move like this forces white to defend. 
+Black can threaten white with one of the marked 'X' moves.
+I think white cannot afford to save all his stones if black attacks. So something must perish.
+An exemple follows.];W[bk]C[[bravani\] White saves some stones.]
+;B[do];W[dn];B[eo]C[[bravani\] White groups are splitted. Black's outer stones aren't totally safe, so a big fights begin.]
+;W[em];B[el];W[fm];B[eq];W[fk];B[dj]TR[dq][dp]C[[bravani\] Compare this with the real game.
+White's big mojo is no more, because of your living stones at the bottom.]
+))
+(;W[cm];B[dr];W[er];B[cr];W[fq]C[[bravani\] this is the standard joseki.]
+))
+(;AB[cq][cp][bo][bn][dr][cr]AW[dq][co][cn][cm][er][fq]SQ[er]
+[dq][dp][co][cn][cm][fq]MA[bs][as][br][ar][bq][aq][bp][ap][ao]
+[cs]C[[bravani\] This is the standard result of a 3-3 invasion (other interesting variations can occur, but let ignore them for now)
+Let's analyze the situation:
+Black has made around 10 points of secure territory (marked with X).
+White did not make any territory, but the wall marked with squares is pretty formidable and can lead to a lot of points (more than 10, if she plays well)
+
+Cutting a long story short: Black invasion was premature. His territory is secure, but has no potential for future developments. White's configuration, on the other hand, is still very promising! 
+
+See the next variation for a counter-exemple])
+(;AW[dl][hp][hl]MA[cq]C[[bravani\] Ok, here the situation in the corner is pretty similar: 3-3 invasion is still possible for black.
+If black invades...];B[cq];AW[dq][co][cn][er][fq]AB[cp][bo]
+[bn][bm][dr][cr]TR[dl][hl][hp]C[[bravani\] 
+...let's suppose the same sequence is played. Black has still around 10 points, but White is not as happy as before, because, due to the presence of the 'X' stones, white influence was already there before the invasion. So White gains much less than before from the exchange.]
+)
+(;B[cn]C[[bravani\] Simple moves like this one are better, at the beginning of the game.]
+)
+(;B[dn]C[[bravani\] Simple moves like this one are better, at the beginning of the game.]
+))

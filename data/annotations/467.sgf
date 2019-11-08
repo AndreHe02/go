@@ -1,0 +1,161 @@
+(;FF[4]GM[1]SZ[19]AP[SGFC:1.12j]
+
+PB[pmho]
+BR[20k*]
+HA[0]
+PW[splunker]
+WR[28k]
+KM[0.5]
+DT[1997-09-19]
+
+C[September 18, 1997
+
+B - Phmo (20K)
+
+W - Splunker (28K)
+
+Black wins by 27.5
+
+
+
+Splunker comments prefaced with sp.
+
+magnus has commented the rest. I have used the Yago sgfeditor and that means that my copy of mgt cannot display letters and marks which I have used a lot later in the comments. So if anyone who study this file have a problem I recommend Yago for Windows or Cgoban for Unix which I think will display everything correctly.]
+;B[dp];W[pc];B[qp];W[cd];B[ed]
+(;W[dc]LB[ec:A]C[This move is normally played at 'A'. Playing like this make Black thick. See the variation for one basic joseki.]
+;B[ec];W[cf];B[ck]LB[ic:A]C[Now Black must play A since it is urgent.]
+;W[oq]LB[id:A]C[White should attack with something like 'A' immediately. Then Black is heavy and cannot make a strong group on the upper side.]
+;B[ic]
+(;W[lp]C[This move is not bad, but perhaps a little boring.]
+;B[hq]C[sp - wanted to attack the long extensions in LL but unsure how to.
+
+magnus: Attack? There are no weak stones to attack there. You can approach or reduce or invade, but you cannot attack.   This comment is odd because I comment your language and not your moves, but I think that it is important to learn a rich vocabulary for go because to do that you need to understand the game. Perhaps you did not mean "attack" when you wrote that but you should  think about the meaning of "invade", "reduce" and "approach" in this situation and try to think of differences between them. Attack on the other hand is something different. Attack is what you should have done on the upper side.]
+;W[pj]TR[qp]LB[qm:A]C[sp - S10 instead would have saved much grief later.
+
+magnus: That is not the problem with this move. The problem is that it do not "attack" the Black stone. Black can now play at A and become strong, and since q10 is so far from the upper right corner and close to a strong Black group it is inefficient.]
+;B[pm];W[pg]LB[pe:A]C[The three white stones in the upper right side is placed awkwardly - black can probably play 'A' and get away easily.]
+;B[nc]LB[mc:A]C[This approach is good but it should be at 'A', since it forces white to defend and then this move is to close to the White strength. But anyway now white has spent too many moves in one place I think.]
+;W[oe]C[sp - Q15?
+
+magnus: I do not know which is better. Both moves make a strong position so Black cannot do much here anyway. But i think the move you played is better for the future fight in the center so I vote for p15.]
+;B[nj]LB[ok:A][ol:B][qr:C]C[sp - on next move, tried to strenthen LR group.
+
+magnus: This black move is a little strange, I think White want to play 'A' or 'B' now. That leaves Black with A stone floating in the center and the lower right black group become a little weaker such that White 'C' become a good move that attacks and take territory.]
+;W[po]C[sp - considered K3 but thought B would play F3.  Or.....better to pincer at M17?
+
+magnus: k3 would help Black - not to play f3 but h5.];B[qo]
+C[sp - instead end up forcing B to make strong right side.]
+
+(;W[pn]C[sp - R6 possible?
+
+magnus: r6 would perhaps start a fight, but you have to have a good reason if you want to play a dangerous move like that]
+;B[qn];W[om]C[sp - wanted to keep B O10 stone split from LR.]
+;B[pl];W[ol];B[pq];W[pp]LB[op:A]C[Perhaps 'A' is thicker];B[pr]
+;W[or]LB[pk:B][pp:C]C[I think B is the logical follow up to 'C' which is a move you play to take sente. I think 'B' is bigger.]
+;B[od];W[pd];B[ne];W[of]MA[ic]TR[nc][od][ne]LB[md:A][jd:B]C[sp - O14?
+
+magnus: No, that would help Black to turn the upper side into territory. As I commented before o17 was too close to the White corner. Now White can play a peep at 'A' and then perhaps play at 'B' that reduces the Black territory and attacks the Black stones simultaneously.]
+;B[mf];W[nh]LB[lh:A][pk:B]C[sp - again trying to keep O10 alone, but R10 bigger?
+
+magnus: q9 is better than r10. The move played is slow since it attacks a stone that is light. Black can sacrifice it by playing A and then B which are huge moves and White can only get 10 points or so in the process]
+;B[qj];W[pk];B[qk];W[qi];B[ri];W[ql]LB[qh:A][lh:B]C[sp - didnt read sequence correctly and lost entire R side.  :(
+
+magnus: if White can do something here it is still better to play 'A' risking nothing - and if Black defends then White can  play at B which is Bigger than the right side. It is so big that White perhaps must play B instead of A.]
+;B[qm];W[rj];B[rl]LB[rk:A]C[This is a mistake of Black - he should just play A.]
+;W[rk];B[ql]LB[qh:A][rh:B]C[Now White can play A and in the endgame B is big for White]
+;W[rh];B[pi];W[ok];B[qh];W[oi];B[qg];W[ph]LB[qf:A][rg:B]C['A' is better. Now Black can play 'B' And white cannot stop Black from getting into the corner...]
+;B[qi];W[qf];B[rf]LB[ph:A][qi:B][rg:C]C[... and if White had not exchanged  'A' for 'B' then 'C' would have been an atari]
+;W[re]C[Double hanes are often strong moves but never when Black is solid like here.]
+;B[qe];W[pf];B[rd]LB[rg:A]C[In order for a double hane to work, the atari at A has to be a big double threat - but here it is completely meaningless to play white 'A'.]
+;W[qd];B[se];W[rc]LB[lh:A]C[It is one thing to blunder away 25- 35 points but doing so in gote is like hitting yourself in the face with a brick.]
+;B[ef]LB[lh:A]C[A good point locally but has no effect on White - something around 'A' turn the White thickness to uselessness.]
+;W[lg]C[sp - thought I was now commited to a center game.];B[lf]
+;W[kg];B[kf];W[jg];B[ko];W[jp]LB[ip:A][hq:B][ko:C]C[Good thinking. But i think a leaning attack with 'A' is better. Note that this leaning attack do not attack the stone B - it is attacking the stone C ! Because if black defends B then C has become weaker. This is important to understand. If black on the other hand defends C then White can push  even more against B and if Black defends C again then perhaps White can capture B.]
+;B[jo];W[ip];B[im];W[ho];B[io];W[hp];B[gq];W[jk]LB[hn:A]C[White cannot win by making territory in the center. Attacking with A is better]
+;B[gm]LB[hn:A]C[Mistake - it leaves the vital point of A. Black should play A]
+;W[hk];B[lo];W[kp];B[gn]LB[hn:A]C[This is greedy - it does not defend against A at all.]
+;W[jf];B[je];W[hf];B[he]LB[fk:A]C[Too small I think. A is much bigger]
+;W[gf];B[ge];W[gi]LB[fk:A]C[It looks good but White is only thinking of White territory. A both increase the White territory and threaten a large portion of the Black moyo.]
+;B[dh]LB[ch:A]C[Bad again, this is worth very little. Locally 'A' is correct]
+;W[ej]LB[ek:A]C['A' is more accurate];B[dj]LB[bh:A]C[Extremely Bad. Since White can play 'A' this is move is probably a loss in sente. Black forces White to gain.]
+;W[ei]MA[cl][cm][cn][dl][dm][dn][el][em][en][fm][fn][fk][fj]
+[gj]TR[di][ci][fi][gh]LB[ek:A]C[... but this move is worth less. A move at 'A' affects the points marked with crosses. The move played affects the moves marked with triangles. See the difference in size?
+
+Perhaps White can even jump to the point below 'A'];B[di]MA[bh]
+C[But this move is a real stinker! It is a one point reverse sente move if Black has a stone at the mark.]
+;W[ek]C[pheeww!];B[dl];W[cq]C[sp - thought about E2 but wasnt sure.
+
+magnus: e2 look dangerous];B[dq];W[cp];B[co];W[dr];B[er];W[bo]
+;B[cn];W[br]C[sp - is C1 joseki?];B[bn];W[ao];B[no];W[mo];B[mn]
+;W[mp];B[on];W[op];B[ll];W[mk];B[jl]LB[lk:A]C[Black should probablu push at A first]
+;W[lk]LB[kk:A]C['A' is better.];B[kk];W[kj];B[ik];W[kl];B[jj]
+;W[kk]
+(;B[km]LB[hn:A]C[At first sight this look like at bad move but black is still haunted by the bad aji of 'A'. See the variation]
+;W[ij];B[il];W[lm];B[ln];W[mm]C[sp - J3 bigger?
+
+n7 is worth at most 6-7 points in gote.
+
+The difference beetween j2  and black k2 is at least 10 points and affects the life and death situation on the lower side.]
+;B[kr]C[Mistake]
+(;W[lr]C[sp - K2?
+
+magnus: Yes, see variation];B[jr]MA[mq][mr][nr]C[This threaten to kill White! The eyeshape marked is too little to leave now. This groups is so weak I doubt it can live at all, if Black play well.]
+;W[eq]C[Hmm,... perhaps a clever way to distract Black];B[ep]
+;W[fq];B[fr]MA[fp]LB[fp:A]C[It is easier for Black to play 'A']
+;W[fp];B[gp];W[fo];B[go];W[do]C[This move do not threaten to live with the group to the right, unless of course you know that it is dead (if it is then this move is correct.]
+;B[dn]C[This move is locally sente but it is not worth the risk that white can live on  the lower side.]
+;W[eo]C[I would test Blacks reading strength and try to live instead]
+;B[em]C[Worth nothing];W[gr]C[sp - wasted move.];B[hr];W[kq]
+C[At last.];B[os];W[nr];B[ns];W[ms]
+(;B[ps]C[mistake see variation];W[mq]C[sp - life :)
+
+magnus: White was lucky to both live an play the profitable sequence to the left.]
+;B[hl];W[gk];B[el]
+(;W[fl]LB[ob:A][bh:B][db:C][eb:D][ea:E][fa:F][da:G][fb:H]C[sp - something around b12 bigger?
+
+Yes, all the moves in this sequence was more or less meaningless.
+
+A is the largest since it is sente
+B is a big gote, but  the sequence white C,D,E,F,G and H
+is probably sente, as well. see the variation];B[fm]C[This connection is worth nothing but perhaps Black is playing safe now. Taking no risk when confidently ahead.]
+;W[fg];B[eh];W[fh];B[gl];W[fk]C[This is extremely small you have to play elsewhere]
+;B[nm];W[ml]LB[ob:A]C[Even this is to small to answer White has to play the large sente point at 'A' before black. Soon Black can play in sente too and that is very painful. It is like stealing candy from a baby.]
+;B[db];W[cb];B[dd];W[cc];B[cg];W[bf];B[bg];W[dg]LB[eb:A][ob:B]
+C['A' and 'B' are extremely big now and most of moves sofar in this endgame has been mistakes. White 'B' could have been played in sente a long time ago.]
+;B[eg];W[df];B[ea]C[Whites eyeshape is threatened by this move...]
+;W[oc];B[nd];W[nb];B[mb];W[ob];B[na];W[nf];B[me];W[mg];B[if]
+;W[ig];B[ie];W[ag];B[bh];W[ah];B[ai];W[af];B[bi];W[nl];B[nn]
+;W[hn];B[in];W[es];B[gs];W[ds];B[oa];W[pa];B[ma];W[ks];B[js]
+;W[ls];B[an];W[bp];B[qb];W[pb];B[rb];W[qc];B[sc];W[ra];B[re]
+;W[pe];B[ca];W[bb];B[ba]LB[de:A]C[Black 'A' will kill White...]
+;W[sb]C[Good reading];B[sa];W[qa];B[de];W[ce]
+(;B[iq]C[Now it is easy to kill White. See variation];W[sb]
+C[Hmm, Black could not save those stones so this move is worth little.]
+;B[sg];W[bd]C[Good...];B[en];W[ff];B[fe];W[fs];B[gr];W[hj];B[np]
+;W[nq];B[da];W[ab];B[sd];W[hm];B[jq];W[oo];B[dk];W[fn];B[tt]
+;W[tt];B[tt]C[I think both Black and White need to study life and death more. Also both have a tendency to play very small endgames moves when there are 10-15 points moves waiting elsewhere on the board. A common mistake at this playing level is to continue playing locally disregarding the relationship between sente and gote and the value of urgent moves elsewhere.
+
+Well, good luck with your study!])
+(;B[ab];W[ac];B[bd];W[aa];B[da]C[White is dead.]))
+(;W[ob];B[nb];W[db];B[eb];W[ea];B[fa];W[da];B[fb];W[bh]C[Compared to what happened later this simple sequence is a huge difference for White. There is nothing Black can do to avoid it.]
+))
+(;B[mq];W[ps];B[os]
+(;W[qq];B[qr];W[rq];B[rr]C[White is dead.])
+(;W[qr];B[qq];W[rr]TR[os]C[This normally give an eye in the corner but the marked stone help black to cut]
+;B[qs])))
+(;LB[jr:A];W[jr];B[ir];W[js];B[jq];W[iq];B[hr];W[kq]C[There is nothing Black can do to save l2]
+))
+(;B[ij];W[hn];B[hm];W[jm];B[in];W[il];B[hl];W[jl];B[gj];W[gk]
+))
+(;W[qn];B[pn];W[qm];B[ql];W[rl]
+(;B[rm]C[See the variation for a more safe black play];W[rn]
+;B[rk];W[sm];B[qk];W[ro];B[rp];W[so];B[pp];W[oo];B[op];W[np]
+;B[nq];W[no];B[or];W[mq];B[nr];W[pl]C[Anything can happen and this cut look promising for White but Black can probably find better moves and then White will probably get a bad result.]
+)
+(;B[pl];W[rk];B[pp];W[oo];B[op];W[no];B[np];W[mo];B[mm];W[lr]
+;B[mq];W[lq];B[mr];W[ip];B[hp];W[io]C[This look like it is better for Black]
+)))
+(;W[po];B[qo];W[pn];B[qm];W[jq]C[This is basic technique to take the initiative on the lower side.]
+))
+(;W[ec];B[fc];W[dc];B[gd];W[cf];B[kc]C[This is a common Joseki]
+))

@@ -1,0 +1,133 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.17]
+
+PB[Valtieri]
+BR[19k]
+PW[PsiGO]
+WR[18k]
+KM[0.5]
+DT[2011-10-09]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[B+42.5]
+TM[1800]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+C[Hi, my name is Grimaldi, 
+
+I play Go for about 1.5 years now and are currently 12k on KGS.
+
+I will be reviewing this game for black, which won this game by about 40 points.
+b also was in the lead a long time and I will therefore focus on pointing out the weaknesses 
+of black's position (as far as I can tell). 
+
+You will find a short summary of what to look for at the very end.
+
+Please note: I deleted all comments from the game, so you can use your favourite sgf editor/reader to move quickly between my comments.]
+;B[dd];W[pp];B[pc];W[cp];B[dh];W[jq];B[ji]CR[cc]TR[pe]SQ[ic]
+[jc][kc][id][jd][kd]C[White played the classic "chinese" opening. Black is focused on building a large framework (moyo).
+
+What can be expected of the two players now: 
+ - b will certainly try to complete his moyo and turn it into profit.
+ - w should try to nullify the moyo and invade or reduce.
+
+So w should play at or around the squares or prohibit the shimari corner position by playing the triangle. Also a 3-3 invasion is possible at the circled position.
+Black must be prepared to answer any of these moves.
+
+white should be in a hurry to play one of these moves...];W[nq]
+;B[qj];W[ql];B[jc];W[ck];B[cj];W[dk];B[pf];W[cc]C[Here it is, 4 moves late, the 3-3 invasion.
+The additional stones make it more difficult for white, but it is still possible to succeed.
+
+Another 16 moves later, white will have succeeded in building a base at the left side.]
+;B[bc];W[cd];B[cb];W[bd];B[ab];W[bg];B[dc];W[de];B[ed];W[db]
+;B[eb];W[bj];B[df];W[ce];B[ee];W[bf];B[cf];W[ci];B[ad];W[be]
+;B[ch];W[bh];B[di];W[dj]C[Now, the left side is a 6 point territory in the corner.
+What you get in exchange is a wall facing the center.];B[cg]
+LB[oc:A]C[This move gives up the initiave, for nothing in return (1 point - see next move)...
+
+What is the weakness of your position?
+Invading is still possible !
+
+The problem with such a large framework is, that it has many weaknesses and sooner or later, the opponent will try to invade or try to reduce this framework and as the stones are very far appart will succeed (if it is done right). See variation starting from A]
+(;W[fj]C[... which is punished immediately.
+(Imagine a black stone at this position.)];B[fi]LB[gj:A]C[contact moves are for defending. They are likely to produce 2 walls: one for you, one for your opponent. If white starts crawling at A...]
+(;W[gi];B[fh];W[gh];B[gj];W[hj];B[gk];W[hk];B[fk];W[ej];B[el]
+(;W[dl];B[hi]C[This is the critical point.
+You should've played it one move earlier at 53 (see variation there).]
+;W[em];B[fm];W[ek];B[fl];W[en];B[hl];W[il];B[ik];W[hm];B[ij]
+;W[im];B[jl];W[gn];B[gg];W[jm]C[you're lucky, all white does till move 125 is giving you center groups, which make invading the top territory nearly impossible. This is also true for the exchange since move 43.]
+;B[ll];W[kl];B[km];W[jk];B[kk];W[jl];B[lk];W[lm];B[ml];W[mm]
+;B[nm];W[nl];B[ol];W[nk];B[om];W[ok];B[pl];W[mj];B[kj];W[pk]
+;B[qk];W[qm];B[qn];W[pn];B[on];W[qo];B[kn]C[good move. This kills the m7 group.]
+(;W[jn];B[ln];W[mn];B[mo];W[ko];B[nn];W[lp];B[mm];W[pj];B[ri]
+;W[pi];B[ph];W[qi];B[qh];W[rj];B[rk];W[rl];B[sj];W[sk];B[sl]
+;W[sm];B[sk];W[rn]LB[oi:A]SQ[mg][ng][mh][nh]C[How does one attack?
+
+You play at A, which is a contact move. This is a defense move.
+This also creates a cutting point above A, which could be advantegous for white. 
+(White must employ desperate measures now, if it still wants to win.)
+
+Playing at one of the squares robs white of eye space.
+This is "attacking from a distance".];B[oi]
+(;W[rg];B[rh];W[mp];B[nj];W[no]C[white is about to give up. Now typical end game moves (yose) are played by both parties.]
+;B[lo];W[oo];B[mk];W[ae];B[fn];W[fo];B[oj];W[ac];B[bb];W[ad]
+;B[ca];W[gm];B[gl];W[eo];B[ei];W[jj];B[ki];W[pm];B[tt];W[tt]
+TW[af][ag][ah][ai][bi][aj][cj][ak][bk][al][bl][cl][am][bm][cm]
+[dm][rm][an][bn][cn][dn][hn][in][qn][sn][ao][bo][co][do][go]
+[ho][io][jo][po][ro][so][ap][bp][dp][ep][fp][gp][hp][ip][jp]
+[kp][np][op][qp][rp][sp][aq][bq][cq][dq][eq][fq][gq][hq][iq]
+[kq][lq][mq][oq][pq][qq][rq][sq][ar][br][cr][dr][er][fr][gr]
+[hr][ir][jr][kr][lr][mr][nr][or][pr][qr][rr][sr][as][bs][cs]
+[ds][es][fs][gs][hs][is][js][ks][ls][ms][ns][os][ps][qs][rs]
+[ss]TB[aa][ba][da][ea][fa][ga][ha][ia][ja][ka][la][ma][na][oa]
+[pa][qa][ra][sa][db][fb][gb][hb][ib][jb][kb][lb][mb][nb][ob]
+[pb][qb][rb][sb][ec][fc][gc][hc][ic][kc][lc][mc][nc][oc][qc]
+[rc][sc][fd][gd][hd][id][jd][kd][ld][md][nd][od][pd][qd][rd]
+[sd][fe][ge][he][ie][je][ke][le][me][ne][oe][pe][qe][re][se]
+[ef][ff][gf][hf][if][jf][kf][lf][mf][nf][of][qf][rf][sf][dg]
+[eg][fg][hg][ig][jg][kg][lg][mg][ng][og][pg][qg][rg][sg][eh]
+[gh][hh][ih][jh][kh][lh][mh][nh][oh][sh][gi][ii][li][mi][ni]
+[pi][qi][si][hj][lj][mj][pj][rj][hk][nk][ok][pk][nl][lm][mn]
+C[black won by a large margin, because whites play made it possible.
+
+When you play "large moyo" be prepared for invasions and light play.
+Heavy fighting will be the result.
+
+- Play each move with at least one purpose and 
+- make sure you don't loose the initiative without pressure.
+
+- defend using contact moves.
+- attack from a distance.
+
+Have fun playing Go.
+
+Do not hesitate to contact me.])
+(;W[oh];B[nh];W[og];B[pg];W[ni]
+(;B[of];W[ng])
+(;B[ng];W[of];B[nf];W[oe])))
+(;W[mo];B[mn];W[ln])
+(;W[lo];B[ln];W[mn])
+(;W[mn];B[mo]))
+(;W[hi]C[(see comment at 55 first, please)
+
+if white takes this point, your F9 group is in real danger and white will chase this group around the board. In addition your center position K11 is looking weak and white can easily reduce your territory there, even if you get a living g9 group.]
+;B[fm];W[hm];B[dm];W[en];B[em];W[go];B[dn];W[eo];B[bm];W[bo]
+C[one of the large number of possibilities: one eye, but a dead group.]
+))
+(;W[gj];B[gi];W[hj];B[ii];W[ij]C[... he would get influence radiating down and making an invasion in the bottom more difficult.
+
+The likely territory in the left half of the board is now in favour of white (but nothing is decided yet).]
+))
+(;W[oc]C[Invading can be seen as a defense maneuvre: Play contact moves, play lightly (sabaki), play with the firm knowledge, that you will sacrifice some stones to get a living group.]
+;B[pb];W[of];B[og];W[oe];B[pe];W[kd];B[kc];W[ld];B[lc];W[kh]
+;B[jh];W[jg];B[kg];W[lg];B[kf];W[jf];B[lf];W[lh]
+(;B[mg];W[mf];B[md];W[me]
+(;B[nd];W[jd];B[ie]
+(;W[je]
+(;B[ke];W[ng];B[mh];W[mi];B[nh];W[li];B[nf];W[mk]SQ[oc][oe]
+[of]C[sacrifice squares and run away])
+(;B[mh];W[li])
+(;B[li];W[mh];B[ng];W[mi];B[lj];W[nj]))
+(;W[mi];B[je];W[ke];B[mj];W[lj];B[mk];W[kk]))
+(;B[jd];W[ke]))
+(;B[mf];W[mg];B[ng];W[nf];B[me];W[md];B[ne];W[od];B[je];W[ke]
+C[ladders don't work.])))

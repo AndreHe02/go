@@ -1,0 +1,102 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.17]
+
+PB[hilltopgo]
+BR[4k]
+PW[Anudis]
+WR[3k]
+KM[0.5]
+DT[2011-11-15]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[W+Resign]
+TM[600]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+C[Hello GTL reviewer, thanks for reviewing my game.  I felt like I was doing ok until I misread a ladder.  Later, I misread a corner capturing race and resigned, but I think the game was probably mostly lost by then anyhow.  I will be grateful for any insights you can share -- thank you!
+Mike Malveaux, 'hilltopgo'];B[pd];W[dp];B[pp];W[dc]
+(;B[di]C[This sort of split alwyas feels soft to me. I'd prefer an approach on the 3-4 stone.]
+;W[dk];B[de];W[cd];B[ce];W[gc]
+(;B[pj]C[There isn't much potential for a moyo with the top side settled, and white now able to deal with the bottom, so the san ren sei is probably not optimal. I'd probably approach on the bottom, as the bottom is the widest area on the board]
+;W[nq];B[qn];W[pr];B[qq];W[kp]LB[lq:A]C[This shape is wrong for white. There is aji around A]
+;B[cj]C[This move, and the next -- too slow?
+
+Hmm... If white blocks at c9, this exchange seems to help white more than you. See variation for a possible continuation.]
+(;W[cm];B[ck]C[This doesn't seem bad. You're making points on the right, and it's not quite sente, but the follow up is big later.]
+;W[cl];B[mc];W[kc]
+(;B[me]C[This is unnecessary. White can't get a good result by invading here. See var]
+;W[nj]C[I was not sure how to handle this; pretty sure there must be something better than what I did.  Any advice?]
+(;B[no]C[I felt like this would threaten the M4-N3 gap, so I expected a local response.]
+;W[pi];B[qi];W[qh]
+(;B[ph];W[oi];B[qg];W[qj];B[rh];W[ri]C[I was tempted to fight a ko here, but I don't see any threat big enough.]
+;B[qh];W[pk]
+(;B[qk]C[The sequence starting here is not good.];W[rj];B[rk]
+(;W[pl];B[sj];W[oj];B[si]
+(;W[pj]
+(;B[qm]C[I guess this move is not necessary, now that I look at it without the clock running.  Every way I look at it, Black can connect by sacrificing two stones, and capturing one back.  But I didn't see that during the game.  Anyway, where should Black play instead of this?
+
+This is a fine move given the situation.];W[ng];B[iq]C[I was not sure what's best for this move.  Any thoughts?
+
+This has been my choice for a very long time.];W[fq];B[kq];W[lp]
+(;B[lq];W[mp];B[jp];W[kn]
+(;B[ho]C[I felt happy with this group, and I thought I could cut at D8.  But I misread it -- F3 kills the cut.  Considering how the capturing race went, I now think that this move sucks.  Would it be better at J6, G3, or what?
+
+This shape does seem odd. I'd prefer something like k6. Contact moves are in order here. I'd try to attack to the l6 group to gain strength. There is still aji in the 3-3 in the bottom left.]
+(;W[oe];B[od];W[ne];B[nd];W[oo];B[op];W[np];B[nn];W[om];B[on]
+;W[hr]C[This ends up being more severe than I expected, and the H5 stone ends up nearly useless.]
+;B[ir];W[mr]
+(;B[hq];W[gr];B[dl]C[This went badly.];W[el];B[dm];W[dn];B[em]
+;W[fm]C[I decide to read the ladder again, and see to my horror that it works.]
+;B[ep]C[I think I'm well behind now.  I badly misread the next dozen or so moves.]
+;W[fp];B[eo];W[en];B[fo];W[go];B[gp];W[gn];B[eq];W[er];B[gq]
+;W[fr];B[dq];W[cq];B[dr];W[cr]C[I finally realize the black stones can't win this race.]
+;B[im]C[I think I'm very much behind now, and I will lose unless I make a big kill.  So I want to kill the stones around O3 -- probably impossible, but I think I will try.]
+;W[jo];B[io];W[kf];B[qr];W[kr];B[lr];W[ls];B[jr];W[ks];B[ms]
+;W[ns];B[or]C[This is a mistake, setting up a chain reaction of further blunders that gives the corner to White.  My aim was to make sure there's only one eye for the N4 group.]
+;W[oq];B[ps];W[pq];B[os];W[qs];B[rs];W[nr];B[qs];W[qp];B[po]
+;W[rp];B[rq];W[sr]LB[me:C][cj:A][qk:B]C[Black resigns.
+
+This was an interesting game. The biggest "mistakes" I feel are marked here.
+
+A was somewhat slow, as you say, but moreover, it offered white the chance to just block and blocking does more to help white than the diagonal does for black. 
+
+B, connected two living groups on the first line in what should have been gote.
+
+C defended a weakness that wasn't worth worrying about when there were much bigger areas on the board.]
+)
+(;B[gr]C[This captures white's stone. Coupled with being able to attach at k6, this doesn't seem like black is in much trouble.]
+))
+(;W[tt];B[cq]C[Later, this is possible. Now it will weaken your weak group too much, though.]
+(;W[cp];B[bp];W[bo];B[br];W[ap];B[aq])
+(;W[dq];B[cp];W[co];B[bo]
+(;W[cn];B[dr];W[er];B[br])
+(;W[bn];B[do];W[cn];B[dr];W[er];B[br];W[ds];B[cs]))
+(;W[bp];B[dq];W[ep];B[fr]
+(;W[er];B[gr])
+(;W[gr];B[er];W[gq];B[bq]))))
+(;B[jn]C[I'd consider this];W[jm];B[in];W[km]C[One possibility.]
+;B[im];W[il]))
+(;B[lr]C[I'd consider this here. Aiming at cutting the knights move at n3, and also the possibility of eyeshape at k2.]
+))
+(;B[tt];W[rm]C[White here cuts.]
+(;B[qm];W[ql];B[rl])
+(;B[rl];W[qm])
+(;B[rn];W[rl])))
+(;W[km]C[white should still tenuki somehow.]))
+(;W[km]C[white can just tenuki now.]))
+(;B[iq]C[tenuki is a better option here.]))
+(;B[qj]C[this has a better feel. White has awkward shape.];W[ph]
+;B[oj]))
+(;B[ph]C[something like this makes a ton of points. Capping a fourth line stone is usually bad, because just submissively responding gives a ton of points.]
+))
+(;B[iq]C[Invading here is one idea])
+(;B[fq]C[Approach isn't quite so good, as white is strong enough to kick and fight]
+;W[eq];B[fp];W[iq];B[do];W[ep];B[eo];W[fo]C[hard for black now.]
+)
+(;B[er]C[another possible invasion.])
+(;B[fr]C[This idea is weird, but still a viable invasion]))
+(;W[ck]C[If here, then black has a hard time invading white's corner.]
+;B[cq];W[dq];B[cp];W[do];B[co];W[cn];B[bn];W[cm];B[bm]
+(;W[no]C[white])
+(;W[km]C[white has a moyo])))
+(;B[fq]))
+(;B[de]))

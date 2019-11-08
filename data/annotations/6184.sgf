@@ -1,0 +1,139 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+GN[review22]
+PB[Biondy]
+BR[7k]
+PW[savachan]
+WR[6k]
+KM[0.5]
+DT[2007-10-09]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[B+3.50]
+TM[1200]
+OT[5x10 byo-yomi]
+RU[Japanese]
+
+C[Dear reviewer, my name is Biondy 7k in KGS, and this is one of my game. I hope you can help me improve my go. Thanks in advance.
+and sorry about my bad English (I'm still learning ^^)
+
+----
+
+Alex: You are asking a lot of good questions, and you often find the right move for the local situation.  I hope I can help you to look more at the whole board when making decisions.]
+;B[pd];W[dd];B[dp];W[pp];B[cf];W[fc];B[bd];W[cc];B[ci];W[qf]
+;B[nc];W[rd];B[qc];W[ic];B[qh]C[I hope this move is right, since white didn't finish the joseki
+
+----
+
+Alex: Yes, this is good.];W[rc];B[rb];W[of];B[qk]LB[oh:a]C[Alex: This is OK, but a bit defensive.  Maybe 'a' (P12) instead is better, to keep the pressure on white's group.]
+;W[pb]LB[lc:a]C[trouble for me. can you show me how to handle it right?
+
+----
+
+Alex: If there were a white stone at 'a' (M17), then this attack would mean trouble for you.  In this position, white has no support for the invasion, so Q18 is a mistake.  You did a good job of handling it.]
+;B[qb];W[oc];B[od];W[nb];B[mc];W[mb]
+(;B[lb]LB[lc:a][nd:b]C[Alex: Now there are two cutting points in your position ('a' and 'b', M17 and O16), so white has a chance to make things complicated.  If you play 'a' instead of M18, then maybe the white stones at the top can live, but the white stones below are weakened, so the result is good for black.  See the variation.]
+;W[lc];B[kb];W[ld];B[nd]LB[ne:a]C[Alex: A better move would be 'a' (O15).]
+;W[jc];B[jb];W[ib];B[pc];W[kc];B[ma]LB[oa:a][ob:b]C[Alex: Now white has a chance to make things complicated by playing at 'a' (P19).  Instead of N19, you could capture at stone at 'b' (P18).]
+;W[mf];B[nq]TR[qh][qk]LB[qn:a]C[Alex: This weakens your group on the right side (triangled stones).  Instead, maybe you should approach at 'a' (R6).]
+;W[qm]LB[pr:a][qq:b][jp:c][ok:d]C[Alex: When white plays the large knight's extension (Q4-R6), the corner territory is quite big--so you don't want to play 'a' (Q2), because it helps white enclose the corner.  Instead you can consider invading at 'b' (R3) or extending the other way somewhere around 'c' (K4).  But before you do any of those things, you need to defend yoru group on the right side! so 'd' (P4) is an important move.]
+;B[pr];W[qq];B[kq];W[pi];B[qi];W[pj];B[pk]TR[rk]LB[rl:a]C[well, actually I think about move at S9, but I think it's too passive and my group might dead. if I defend there, would my group dead?
+
+----
+
+Alex: No, your group wouldn't die--but white can attack strongly and make the game very difficult for you.
+
+A better move for defence, instead of S9, would be 'a' (S8).]
+;W[ph]
+(;B[qj]LB[nk:a]C[Alex: I would play 'a' (O9) instead: white can capture two stones, but the white group below would suffer.  See the variation.]
+;W[ef]
+(;B[ig]C[well, I was afraid if white area became bigger, so I played this move. I hope you can show me better move than this.
+
+----
+
+Alex: This move reduces white, but does nothing to help black.  You should try and look for moves that do two things at once!  See the variation.]
+;W[gg];B[ii]C[Alex: Good move.];W[cq];B[dq];W[cp];B[co];W[bo]
+;B[cn];W[dr];B[er];W[cr];B[bn]TR[eq][fq]C[should I playe this move or  E3  (or F3) instead?
+
+----
+
+Alex: You should play F3 instead.];W[eq];B[fr]
+(;W[fq]C[Alex: I think white made a mistake here: E4 instead starts a difficult fight (variation).]
+;B[gq];W[do];B[ep];W[fp];B[eo];W[gp];B[hq];W[ap];B[en]C[Alex: Good move.]
+;W[no]TR[qh][qi][qk][pk]C[Alex: Now you have to be careful about your group on the right!
+
+This is a good time to estimate the score:
+
+Black has about 18 points at the bottom, about 25 on the left side, 10 at the top (it's smaller than it looks, because eventually you have to capture the white stones), and 5 at the right--the total is more than 55.
+
+White has 6 points at the bottom left, maybe 15 at the bottom right (hard to say exactly), and about 25 at the top--the total is less than 50.
+
+(Remember that komi is only 0.5 for this game.)
+
+So you don't need to capture the stones at F4--but you do need to make sure that all your groups stay alive!]
+;B[ho];W[qr];B[gj];W[bc];B[be];W[ok]
+(;B[pl]C[Alex: I wonder if it is possible to play 'a' (P8) instead--it's a complicated question!  See the variation.]
+;W[ol];B[pm];W[qn]TR[nq][pr]C[trouble. Luckily I could make it alive, eventhough I must sacrificed those stones. can I alive here without sacrificing?
+
+----
+
+Alex: You needed to ask this question earlier, when white played O5!  See the variation to the next move.]
+
+(;B[rg]C[Alex: Maybe 'a' (R13) is better?  (variation)];W[rf]
+;B[sh];W[rl];B[pg];W[qg];B[om];W[nm];B[nn]C[Alex: Good move.]
+;W[mm];B[oo];W[op];B[mo];W[np];B[mn];W[po];B[on];W[mp];B[kn]
+;W[lo];B[ln];W[lq];B[ko];W[lp]TR[qh][qk][nq][pr]C[Alex: You got out alive--well done--but now the game is very close!
+
+This is a good example of why weak stones are a problem.  White attacked against R9 and R12--those stones didn't die, but the bottom suffered instead.]
+;B[kp];W[mk];B[kk];W[li];B[ie];W[ei];B[dj];W[fj];B[fk];W[gi]
+;B[hj];W[ej];B[ek];W[ch];B[bh];W[di];B[cj];W[cg];B[bg]TR[cg]
+[ch]C[Alex: Right at the end of the game you noticed something about this shape!  At this point, you should already notice that the two white stones are short of liberties.]
+;W[kr];B[jr];W[lr];B[ac];W[ab];B[ad];W[ba];B[an];W[ar];B[rk]
+;W[ir]
+(;B[iq]C[Alex: Is it possible to play 'a' (K1) instead?  Another complicated question!  See the variation.]
+;W[js];B[jq];W[es];B[hr];W[fs];B[gr];W[is];B[hs]C[Alex: This move gains nothing for black--but it might be a useful ko threat, so you should save it for later.]
+;W[ks];B[kh];W[ja];B[na];W[lh];B[lg];W[kg];B[kf];W[mg];B[lf]
+LB[jg:a][ki:b]C[Alex: Better to capture the white stone ('a', K13), so that 'b' (L11) won't be sente for white.]
+;W[hd];B[he];W[ge];B[og];W[pf];B[lm];W[ml];B[ki];W[df];B[ce]
+;W[hi];B[hh];W[gh];B[hg];W[sb];B[ao];W[bp];B[sl];W[sm];B[sk]
+;W[ql];B[de];W[ee];B[sf];W[se];B[sg];W[ra];B[qa];W[ob];B[la]
+;W[ij];B[jj];W[ik];B[gk];W[fn];B[fo];W[ll];B[kl];W[lj];B[gf]
+;W[ff];B[hf];W[pn]LB[dh:a]C[Alex: Now is your chance to play 'a' (D12)!]
+;B[ne];W[nf];B[ke];W[qd];B[pe];W[qe];B[jd];W[id];B[kd];W[cd]
+;B[sa];W[sc];B[ra];W[md];B[pa];W[me];B[oa];W[ia];B[kj];W[lk]
+;B[gs];W[ds]C[well, I missed a nice move here. (see var)]
+(;B[tt];W[tt]TW[aa][ca][da][ea][fa][ga][ha][bb][cb][db][eb]
+[fb][gb][hb][dc][ec][gc][hc][ed][fd][gd][sd][fe][re][dg][eg]
+[fg][ng][og][pg][dh][eh][fh][mh][nh][oh][fi][mi][ni][oi][mj]
+[nj][oj][nk][nl][rm][rn][sn][qo][ro][so][qp][rp][sp][aq][bq]
+[mq][nq][oq][pq][rq][sq][br][mr][nr][or][pr][rr][sr][as][bs]
+[cs][ls][ms][ns][os][ps][qs][rs][ss]TB[mb][nb][ob][pb][oc][ae]
+[je][af][bf][if][jf][ag][jg][kg][ah][ih][jh][rh][ai][bi][ji]
+[ri][si][aj][bj][ij][rj][sj][ak][bk][ck][dk][hk][ik][jk][al]
+[bl][cl][dl][el][fl][gl][hl][il][jl][am][bm][cm][dm][em][fm]
+[gm][hm][im][jm][km][dn][fn][gn][hn][in][jn][do][go][io][jo]
+[fp][gp][hp][ip][jp][eq][fq]C[luckily I won by 3.5 points. well, even though I only ask above, don't hesitate to tell more.
+
+Thank you once again.])
+(;B[dh];W[dg];B[eh];W[fi];B[fg]C[white is dead])
+(;B[dh];W[eh];B[dg]C[at least I get some points here.]))
+(;B[js];W[iq];B[jq]C[Alex: I don't see any way for white to escape.]
+;W[hp];B[hr];W[hs];B[gr];W[ip];B[is]))
+(;B[qg];W[pf];B[rf];W[re];B[sg];W[qe];B[rl];W[rm];B[si]))
+(;B[ol]
+(;W[pl]C[Alex: I don't think white can afford to cut...];B[pg]
+
+(;W[nj];B[pf];W[qg];B[qe];W[re];B[rg];W[rf];B[sh]C[Alex: Black wins the capturing race.]
+)
+(;W[og];B[oj];W[nk];B[oh]))
+(;W[qg];B[nk];W[oj];B[pm])))
+(;W[ep];B[do];W[gq];B[gr];W[hq];B[hr];W[iq];B[ir];W[ap]C[Alex: There is an important ladder here...]
+;B[fq];W[fp];B[gp];W[go];B[hp];W[ip]))
+(;B[fh]C[Alex: I don't know if this is the best move (there are lots of possible choices in this position), but it is an idea that you should think about.]
+;W[gg];B[fp]C[Alex: White's area is big, but black's is bigger.]
+))
+(;B[nk];W[qj];B[rj]
+(;W[rk];B[rl];W[ri];B[sk];W[rh];B[rn]C[Alex: This would be a good result for black.]
+)
+(;W[ri];B[rl])))
+(;B[lc];W[lb];B[kc];W[kb];B[oh];W[mf];B[ne];W[nf];B[kf]C[Alex: Trouble for white!]
+))

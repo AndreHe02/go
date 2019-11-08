@@ -1,0 +1,77 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.16]
+
+PB[Bobo111]
+BR[6k]
+PW[ishiforce]
+WR[6k]
+KM[6.5]
+DT[2015-02-10]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[W+19.5]
+TM[1200]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+C[Hello,
+
+reviewer here (Miron Brezuleanu). I'll prefix my comments with "MB:".
+
+MB: A general comment: to get the most out of a review, try to do a
+self review in the .SGF file sent for review; alsa ask questions; that way the reviewer will know what 
+you were thinking and your mind will be better prepared to handle the review.
+
+MB: Well done, I hope my comments will show you an alternative to your play. 
+Feel free to email me with further questions. No comments after move 106.]
+;B[pd]C[Bobo111 [6k\]: hi];W[cp];B[pq]C[ishiforce [6k\]: rematch]
+;W[dd];B[eq];W[jp];B[hq];W[eo];B[cj]
+(;W[cl]C[MB: I'd push from the other side (C12 for instance). Your stones at C4 and E5 are strong (one play almost connects you to K4, one play - D2, for instance, captures the corner). Black would end up with two groups that can be pressured. See variation.]
+;B[cg];W[ho]C[MB: This is a bit too solid (and a bit early to connect your stones). It would be fine but for C8 which makes it feel a bit overconcentrated.]
+;B[gp];W[go];B[fp]
+(;W[fo]C[MB: Not really necessary, better to take sente somewhere else. If black cuts he'll only make trouble for himself. See variation.]
+;B[cr];W[gd]C[MB: A bit too vague. Better to attack black corners.]
+;B[ic];W[eg]C[MB: This does nothing. Better to defend the corner at C15 or play something like R14.]
+;B[dh];W[fi]C[MB: Also useless. Doesn't attack the black stones (they are already very strong after D12), doesn't connect, doesn't make territory. Better to play something like R14.]
+;B[ej];W[fj]C[MB: still the wrong idea, see previous comments. Attacking a living group.]
+;B[ek];W[em];B[fk];W[dc];B[ie];W[hj]C[MB: Why? There are much better points on the board. R14, R5, Q10, R10. This does absolutely nothing.]
+;B[gk];W[ii];B[pj]C[MB: Black is already ahead. A white stone on the right side would be worth a lot of points. Imagine a white stone at Q10 instead of a black one.]
+;W[ld]C[MB: Still better to attack at O17 or R14 (I'd prefer the latter, the Q10 stone feels weaker than the J17-15 stones. You're just creating a group while letting black get profit. The idea may be to attack J15-17, but you can't attack with a weak group.]
+;B[jf];W[nd];B[pf];W[mf];B[kg];W[mh];B[ki];W[ph];B[og];W[oi]
+;B[pb];W[mj];B[jj];W[ig]C[MB: Personally I'd play at H9 to keep black disconnected.]
+;B[gb];W[jg];B[ke];W[kh];B[lh];W[jh];B[lg];W[mg];B[li];W[mi]
+;B[kd];W[qo];B[qm];W[nq];B[op];W[np];B[oo];W[pn];B[pm];W[on]
+;B[no];W[ir]C[MB: Maybe better to harass black with S3 to try and get it to float. Slim chances of killing it because it can connect to K10. Or try to attack Q7 or enter into black's upper right by playing R12.]
+;B[qp];W[ro];B[rp];W[om];B[qi];W[qh];B[ol];W[nl];B[ok];W[mm]
+;B[mo];W[lp];B[qr];W[rk];B[ri];W[sn];B[rg];W[qe];B[qf];W[qd]
+;B[pc];W[rh];B[sh];W[hr];B[gr];W[bq];B[br];W[ei];B[di];W[lo]
+;B[qc];W[jl];B[lk];W[nk];B[lc];W[ne]C[MB: better at N17.
+
+MB: No comments after this point. Black managed to lose this game during yose :-)]
+;B[pe];W[nb];B[mc];W[nc];B[le];W[lf];B[kf];W[be];B[df];W[ef]
+;B[hf];W[bk];B[bj];W[lj];B[kj];W[kk];B[gg];W[qk];B[pk];W[hb]
+;B[hc];W[fb];B[ib];W[gc];B[ha];W[or];B[rr];W[po];B[pr];W[gs]
+;B[fr];W[aj];B[ai];W[ak];B[bh];W[hl];B[jk];W[kl];B[hk];W[eh]
+;B[ck];W[bm];B[iq];W[jq];B[fs];W[jr];B[fa];W[eb];B[ea];W[da]
+;B[ga];W[pi];B[qj];W[ka];B[kb];W[la];B[ja];W[mb];B[lb];W[ma]
+;B[dl];W[dm];B[il];W[im];B[ik];W[gm];B[aq];W[ap];B[ar];W[cq]
+;B[dq];W[dp];B[hh];W[hi];B[sm];W[rm];B[rl];W[sl];B[ql];W[oj]
+;B[si];W[qn];B[pl];W[qg];B[rf];W[de];B[bf];W[ce];B[ae];W[ad]
+;B[af];W[bc];B[mn];W[ln];B[os];W[ns];B[ps];W[mp];B[oq];W[nr]
+;B[sp];W[hd];B[id];W[he];B[if];W[ff];B[gf];W[ge];B[gh];W[oh]
+;B[me];W[of];B[pg];W[ng];B[md];W[oa];B[ob];W[cf];B[dg];W[el]
+;B[dk];W[gl];B[fl];W[fm];B[pa];W[hs];B[hp];W[ip];B[sg];W[sm]
+;B[so];W[rn];B[sk];W[sj];B[rj];W[sk];B[na];W[ag];B[bg];W[oa]
+;B[cb];W[db];B[na];W[nm];B[oe];W[nf];B[oa];W[ih];B[fg];W[tt]
+;B[gj];W[gi];B[ji];W[tt];B[ij];W[tt];B[fh];W[tt];B[hg];W[ee]
+;B[ep];W[cn];B[tt];W[tt]TW[aa][ba][ca][ab][bb][cb][ac][cc][ec]
+[fc][bd][cd][ed][fd][fe][nh][ni][nj][lk][mk][al][bl][ll][ml]
+[am][cm][hm][jm][km][lm][an][bn][dn][en][fn][gn][hn][in][jn]
+[kn][ao][bo][co][do][io][jo][ko][bp][kp][kq][lq][mq][kr][lr]
+[mr][is][js][ks][ls][ms]TB[ia][qa][ra][sa][hb][jb][qb][rb][sb]
+[jc][kc][rc][sc][jd][ld][qd][rd][sd][je][qe][re][se][sf][ag]
+[ah][ch][bi][ci][dj][fq][gq][qq][rq][sq][dr][er][sr][as][bs]
+[cs][ds][es][qs][rs][ss]C[Bobo111 [6k\]: tx
+ishiforce [6k\]: tx])
+(;W[nc];B[fo];W[fn];B[en];W[do];B[fm];W[gn];B[el];W[dm];B[em]
+;W[dj];B[dk];W[ck];B[ej];W[di];B[ci];W[ei];B[fj];W[eg]C[MB: The E8 group will have a difficult fight ahead (true, the white H5 group isn't in doing great either). But I'd rather fight.]
+))
+(;W[ch];B[cm];W[dr];B[go];W[fn]))

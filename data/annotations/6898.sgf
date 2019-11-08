@@ -1,0 +1,122 @@
+(;FF[4]GM[1]SZ[19]ST[1]AP[SGFC:1.15]
+
+PB[rlkeaton3]
+BR[1k]
+PW[amenity]
+WR[1k]
+KM[6.5]
+DT[2008-09-25]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[B+11.50]
+TM[900]
+
+C[Comments by Az
+
+My first version got lost in a compute crash, so I may be a bit more terse. If you have followup questions on anything I was too fast about please feel free to send the sgf back.]
+;B[pd]C[amenity [1k\]: hi];W[cp]C[rlkeaton3 [1k\]: have fun]
+;B[pp];W[dc];B[ep];W[gq];B[cq];W[bq];B[dq];W[bo];B[fo];W[dn]
+
+(;B[gp]C[rlkeaton3 [1k\]: I looked up the joseki and saw that this is incorrect, I know that the move is at H4.
+rlkeaton3 [1k\]: But after looking at the joseki, I am still satisfied because white played a mistake at D6, it should be at D7
+
+Az: White made a mistake, but it's really a minor joseki mistake. The only problem with his move was that it was a little slow. Trying to do something really agressive and crazy just because white was a little too solid is a bad idea. Black should stick to the joseki at H4, that would be waaaay bette than game.]
+;W[hq];B[ip];W[hp];B[ho];W[iq];B[jp];W[jq];B[kp];W[lq]LB[lq:22]
+[jq:20][iq:18][hq:14][gq:6][dq:9][cq:7][bq:8][pp:3][kp:21][jp:19]
+[ip:15][hp:16][gp:13][ep:5][cp:2][ho:17][fo:11][bo:10][dn:12]
+[pd:1][dc:4][mo:A]C[rlkeaton3 [1k\]: I would like some alternatives for this line.  I thought about just playing F3 to secure myself but I didnt want to give white any time.
+rlkeaton3 [1k\]: By line I mean 14-22
+
+Az: G4 is the mistake which lead to this result, pushing from behind like that is almost never good. B 'a' is the biggest move and will remain the biggest move while both sides ignore it for something else. Black needs to get all of his stones working together, which is what 'a' does. It is the difference between thickness and a weak group.]
+;B[de]
+(;W[ce];B[cf];W[cd];B[dg]C[Az: Can also be the solid connection, I would prefere to play that way personally but both may be ok.]
+;W[fc];B[ck]C[rlkeaton3 [1k\]: I think this was the correct choice of joseki for me, C15 seems like a mistake for white.
+
+Az: White choose the worst move he could find in a joseki book for the situation. B is a little close however, I'd still like to have played the solid connection so B not so close.]
+;W[dl];B[dk]C[rlkeaton3 [1k\]: This may have been a mistake, but I wanted to play more securely this game, I have a problem of letting my groups get too strong of an attack against them.
+
+Az: Seems reasonable ot me, tenuki is not an option.];W[el]
+;B[nc]LB[mo:A]C[rlkeaton3 [1k\]: At this point I was satisfied with the situation, although I probably should not tenuki, maybe F3 still
+
+Az: 'a' only move, this is the wrong direction of play, black must not let his "wall" get seperated from the Q4 stone. Then a move like this would be ok followup]
+;W[fq];B[eq]C[rlkeaton3 [1k\]: this was a misclick which white did not take advantage of, I thought white would win the game here.
+
+Az: Passing would have the advantage of not making bad shape. It is harder to find a move that feels good for B locally than it was before O17]
+;W[lp];B[do];W[cn];B[jn];W[en];B[fp];W[lo];B[qn]C[rlkeaton3 [1k\]: What do you think of this move?
+
+Az: Necessary, allowing W to play around here would be unbearable.]
+;W[lm]LB[fj:A][gl:B][jl:C]C[Az: B 'a' seems like the right direction of play. If W 'b' then B 'c' would be reasonable. Living in the corner is too small and doesn't affect the rest of the board.]
+;B[br];W[ar];B[bs];W[fj]MA[ek]LB[bm:A][di:B][ci:C]C[Az: B can response with a move around 'a', whites eyespace starts to look bad and now the cut has some teeth to it. White cannot play 'b' and seperate the B stones (B just plays 'c'). Answering as in game is too submissive.]
+;B[di];W[gn];B[go];W[ko];B[hn];W[jo];B[io];W[im];B[fn];W[in]
+;B[gm]C[rlkeaton3 [1k\]: As I was saying earlier, I allow myself to be attacked too strongly. this does not look good for black, although I have alive
+rlkeaton3 [1k\]: I am alive*];W[qf]
+(;B[rd]C[rlkeaton3 [1k\]: I wonder about this move, it has become a habit of mine, But, R12 may be better.  Could you show me some variations instead of B61.
+
+Az: This is alright, so is R12. W is thick in the center, so a move side / center oriented move like R12 might not be the best choice here.]
+;W[qi];B[pr]C[rlkeaton3 [1k\]: same move =)
+rlkeaton3 [1k\]: I think it is a little more necessary here though
+
+Az: This is fine. I don't want to say that enclosing is always right, but it's not often 'wrong', if that makes sense.]
+;W[ql];B[kc]TR[ql]LB[bm:A][hc:B]C[Az: 'a' is the biggest point on the board, 'b' would be second. This is too conservative, unlike W's extension you're not extending from a weak group.]
+;W[ic]C[Az: Give me a break, this is like 5 points in gote.]
+;B[jl]LB[bm:A]C[Az: 'a' still, it is big both because a move around there might turn into reverse sente for white, and beccause it limits whites ability to do anything in the center if the group on the left isn't fully alive. This move is too agressive and just tries to make white fix aji he already wanted to fix.]
+;W[il];B[jk]LB[ld:A]C[Az: White is very blunt in the next few moves, giving black back a decent position. W 'a' or something like that would be better than pushing from behind like he did. This turned an iffy move for B into a good move.]
+;W[ik];B[jj];W[ij];B[ji];W[jm];B[ii];W[hi];B[hh];W[gh];B[hg]
+;W[gg];B[gi];W[hj];B[hf]C[rlkeaton3 [1k\]: Now I feel that I have won the game
+
+Az: Looks good for B];W[gf];B[hd]C[Az: Better to just extend, this is encouraging W to play moves he wants to play.]
+;W[he];B[ie];W[ge];B[id];W[jc];B[kd];W[hc];B[ph];W[qh];B[pf]
+C[Az: Good technique];W[pe]C[rlkeaton3 [1k\]: How should I respond to this move?
+
+Az: The response in game is better than the other atari, this is enough for black. It is reasonable to expect B may have to give up a couple points to block white off, since he only had a couple loose stones]
+;B[oe];W[pg];B[of];W[og];B[ng];W[oh];B[nh];W[qe];B[oi];W[pi]
+;B[qd];W[ni]LB[mi:A][bm:B]C[Az: Atari first, then 'b']
+(;B[bf]C[rlkeaton3 [1k\]: In review this looks like I definetly should have played N11 first.
+
+Az: Yes, see var];W[mi];B[lh];W[nq];B[pl]TR[jl][jk][jj][ji]
+LB[bm:A][qm:B]C[rlkeaton3 [1k\]: This is a mistake I think, can you see a good move for reducing white here?
+
+Az: 'a'? Oh wait, wrong part of the board. still the best move since it's sente. You don't have to worry about W terroritory here too much. B 'b' isn't especially inspired, but it ought to be enough to keep white from getting a huge profit here and give you sente move on]
+;W[qm];B[pn];W[pm];B[on];W[om];B[lk];W[mk];B[rn];W[rm]TR[he]
+[ge][gf][gg][gh][pl]C[rlkeaton3 [1k\]: No comments needed after this point.
+rlkeaton3 [1k\]: Thank you for your time.
+
+Az: Q8 was costly and black didn't get some of the sente moves he deserved elsewhere on the board, so at this point I could the game as close or perhaps tilting slightly white. B got lucky capturing the stones when white screwed up.]
+;B[rg];W[qg];B[re];W[rf];B[kb];W[jb];B[ac];W[bc];B[ae];W[ab]
+;B[ad];W[bl];B[bk];W[ak];B[aj];W[al];B[cl];W[bm];B[bi];W[sn]
+;B[so];W[sm];B[rp];W[or];B[oq];W[nr];B[gd];W[gc];B[fi];W[fd]
+;B[fe];W[ef];B[ee];W[df];B[eg];W[ej];B[ei];W[ka];B[la];W[ja]
+;B[mb];W[li];B[kh];W[mh];B[mg];W[op];B[pq];W[ps];B[qs];W[os]
+;B[qr];W[jd];B[je];W[dj];B[cj];W[se];B[sd];W[sf];B[kq];W[kr]
+;B[er];W[fr];B[nn];W[nm];B[ll];W[ml];B[mn];W[np];B[ln];W[kn]
+;B[mm];W[km];B[gj];W[fl];B[gk];W[gl];B[mo];W[bb];B[lj];W[mj]
+;B[mp];W[dd];B[ff];W[mq];B[fm];W[hm];B[fs];W[gs];B[es];W[hk]
+;B[hs];W[gr];B[oo];W[ki];B[ed];W[ec];B[jg];W[be];B[co];W[bp]
+;B[ek];W[fk];B[cm];W[tt];B[tt]TB[ss][rs][ds][cs][sr][rr][dr]
+[cr][sq][rq][qq][sp][qp][ro][qo][po][gn][bj][ci][ai][jh][ih]
+[gh][fh][eh][dh][ch][bh][ah][lg][kg][ig][gg][fg][cg][bg][ag]
+[nf][mf][lf][kf][jf][if][gf][ef][df][ne][me][le][ke][he][ge]
+[od][nd][md][ld][sc][rc][qc][pc][oc][mc][lc][sb][rb][qb][pb]
+[ob][nb][lb][sa][ra][qa][pa][oa][na][ma]TW[ns][ms][ls][ks][js]
+[is][hs][mr][lr][jr][ir][hr][ap][ao][jn][bn][an][am][sl][rl]
+[pl][ol][nl][hl][sk][rk][qk][pk][ok][nk][sj][rj][qj][pj][oj]
+[nj][si][ri][oi][sh][rh][ph][sg][rg][cc][ib][hb][gb][fb][eb]
+[db][cb][ia][ha][ga][fa][ea][da][ca][ba][aa]C[amenity [1k\]: thx
+rlkeaton3 [1k\]: thx])
+(;B[mi];W[nj];B[bm]C[Az: If W ignores...];W[mj];B[gk]
+(;W[fk];B[fl];W[ek];B[gj]C[Az: White is in deep trouble])
+(;W[gj];B[fk];W[ek];B[ej])))
+(;B[qh];W[qd]C[Az: This is by far the most common move for w to settle his shape, almost everything else leads to a local loss.]
+;B[qc]
+(;W[rc];B[qe];W[rd];B[pe]
+(;W[pc];B[oc];W[pb];B[re]C[Az: This is one pattern])
+(;W[re];B[qb];W[qg];B[ph];W[og]C[Az: B cannot cut directly, but white is weak and shouldn't play this way w/o a good reason.]
+))
+(;W[pe];B[rd];W[re]C[Az: If W wants to fight ko this is a big ko for both sides. W should make sure he has enough threats first, since both sides have a lot at stake.]
+)))
+(;W[cg]C[rlkeaton3 [1k\]: This looks good for white now
+rlkeaton3 [1k\]: but im not sure
+
+Az: Any kind of pincer is better for white than what he played in game.]
+))
+(;B[hp];W[iq];B[hq];W[hr];B[gp]C[Az: This is a fine result for black]
+))

@@ -1,0 +1,84 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.13b]
+
+GN[3-reviewed]
+PB[dexar]
+BR[16k]
+HA[4]
+PW[Buzer]
+WR[21k]
+KM[0.5]
+DT[2003-03-29]
+PC[The Kiseido Go Server (KGS) at http://kgs.kiseido.com/]
+RE[W+Time]
+TM[1800]
+RU[Japanese]
+
+AB[dd][pd][dp][pp]C[gpi: I added some variations to the game. These variations are an idea, how to coninue the game. If you can find better moves, feel free to use your own moves. Since white has won this game by far, it's difficult to give some general hints for white to do better. Maybe white should try to make territorry instead of attack to kill.
+
+Gerhard];W[dj];B[dh];W[dl]MA[dm][cm][cn]C[gpi: Too narrow. One of the marked points seems better to me.]
+;B[fj]C[gpi: This stone can be cut.]
+(;W[fm]C[gpi: White should cut.];B[fl];W[em];B[gm];W[fp];B[hp]
+;W[dq];B[ep];W[eq];B[gq];W[fo];B[hn];W[gr]C[gpi: This is an endgame move. Too early.]
+;B[hr];W[fr];B[gs];W[fs];B[hs];W[cp];B[co];W[do];B[bp];W[cq]
+;B[bn];W[bq];B[ao];W[bm];B[cm];W[bl];B[fn];W[en];B[gn];W[dn]
+C[gpi: This move is not necessary. Black is dead without it.]
+;B[cn];W[cl]C[gpi: This move is not necessary. Black is dead without it.]
+;B[df];W[nc];B[pb]
+(;W[ne]C[gpi: White should make a base first.]
+(;B[of];W[oe]C[gpi: This move helps black to get territorry.]
+;B[od];W[nd];B[pe];W[ob];B[oc];W[oa];B[nb];W[mb];B[pa];W[na]
+;B[pg];W[pi];B[ni];W[ok];B[qi];W[oh]C[gpi: good move.];B[pj]
+;W[ng];B[ph];W[oi];B[qk]
+(;W[pk]C[gpi: White should connect.]
+(;B[nj]C[gpi: Black should cut.];W[oj];B[qj];W[qn]C[gpi: good move.]
+;B[rm];W[om];B[qm];W[pn];B[qo]
+(;W[ro]C[gpi: White should keep black separated.];B[rn]C[gpi: White is cut. Black can connect his stones.]
+;W[rp]
+(;B[sn]C[gpi: Mistake. Now white can live.];W[qp];B[po];W[pq]
+;B[on];W[pm];B[oo];W[oq];B[np];W[nq];B[mq];W[mr];B[lp];W[lr]
+;B[kr];W[lq];B[mp];W[kq];B[jp];W[kp];B[ko];W[jq];B[jr]
+(;W[iq]C[gpi: White could capture some black stones. See variation. Anyway, this is a good move, too.]
+;B[hq];W[ip];B[jo];W[io];B[in];W[ho]C[gpi: Good move. Black forgot to connect, so white cuts.]
+;B[go];W[gp];B[fq];W[eo];B[er];W[ir];B[is]
+(;W[ks]C[gpi: This move leads to a complicated semeai.];B[es]
+
+(;W[js]C[gpi: After this move black can live by playing F2.]
+;B[nl]C[Do you have any clue why black left F2 as untouched? It would make two eyes and save group.
+
+gpi: I think black did not see this move. Anyway it could be a plan for black to give up this group and get the upper side as territorry. But black failed as well. (See commentary to moves 44 and 45.)]
+;W[fr];B[fs];W[dr]C[gpi: This move is not necessary. Black is dead without it.]
+;B[aq];W[br];B[ci];W[nn];B[mn];W[no];B[op];W[mo];B[lo];W[nm]
+;B[jn];W[mm];B[ln];W[jl];B[kl];W[jk];B[jj];W[kk];B[lk];W[km]
+;B[ll];W[lm];B[jm];W[hl];B[hk];W[gl];B[gk];W[im];B[ld];W[lc]
+;B[lf];W[lg];B[kg];W[kd];B[kc];W[le];B[ke];W[md];B[jd];W[ld]
+;B[jc];W[je];B[kf];W[ie];B[ge];W[hf];B[hd];W[ih];B[jh];W[ii]
+;B[ij];W[kj];B[ji];W[ki];B[lh];W[mg];B[lj];W[li];B[mi];W[kh]
+
+(;B[mh]C[If black played at J9, white would die (I noticed that after my move).
+
+gpi: White would not die, but black can connect his stones. See variation.]
+;W[kn];B[il];W[hm]C[gpi: End of review. Black can't win anymore.]
+;B[bh];W[jg];B[ik];W[jm];B[hh];W[ig];B[gg];W[gf];B[ff];W[id]
+;B[ic];W[he];B[gc];W[hg];B[fh];W[hi];B[gh];W[gi];B[fi];W[el]
+;B[fk];W[cj];B[ei];W[bj];B[ai];W[bi];B[ah];W[di];B[ch];W[ql]
+;B[rl];W[pl];B[rk];W[nf];B[og];W[ek];B[kb];W[la];B[ka];W[lb]
+;B[so];W[sp];B[an];W[cc];B[cd];W[dc];B[db];W[ec];B[fd];W[fb]
+;B[gb];W[bd];B[be];W[ad];B[ac];W[bc];B[ab];W[bb];B[ba];W[ca]
+;B[eb];W[cb];B[fc];W[ea];B[fa];W[da];B[fb];W[ae])
+(;B[ik];W[mh];B[il];W[lh];B[nf];W[mf];B[jg]C[gpi: White would be ahead with about 15 points.]
+))
+(;W[fr]C[gpi: White can win the semeai, but white has to pay attention to the cutting point at o2.]
+))
+(;W[js]C[gpi: This variation is easier. Black can't do anything.]
+))
+(;W[jo];B[ip];W[lo];B[kn];W[mn];B[nm];W[nn];B[ln];W[op];B[mo]
+;W[no];B[lo]C[gpi: Black has bad shape.]))
+(;B[pq]MA[ro][rp]C[gpi: Without any bad mistakes by black, the marked white stones seems dead.]
+))
+(;W[rn]C[gpi: Black is separated.]))
+(;B[oj];W[nj];B[qj];W[nk];B[mi]C[gpi: white is divided in two groups.]
+))
+(;W[oj]))
+(;B[jc]C[gpi: The white stones are weak now.]))
+(;W[kc]))
+(;W[ei]))

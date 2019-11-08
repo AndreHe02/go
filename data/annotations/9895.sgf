@@ -1,0 +1,192 @@
+(;FF[4]GM[1]SZ[19]AP[SGFC:1.16]
+
+PB[Pomponv]
+BR[9k]
+PW[Richard]
+WR[9k]
+KM[6.5]
+DT[2015-12-11]
+PC[OGS: http://online-go.com/game/review/93339]
+RE[W+3.5]
+RU[japanese]
+
+;B[pd]C[Richard [9k\]: hi gg hf
+
+
+X: Good fun game : )
+In general, I'd say focus on 3 things.
+
+- In the fuseki, choose your approaches with more care, considering the direction you want to go in. If you don't want your opponent to be able to choose, then close approaches aren't the way to go.
+
+- Before you attack, make sure you are strong! First protect your weaknesses, and then attack!
+
+- Try to avoid so many contact-moves. You often play contact moves, try to get a better instinct for shape. Look up "dog-face", "bamboo knot" and things like that on senseis.xmp.net, then try to use those in your games whenever you can. For a while (say, the next 10 games or so), use them even if they don't seem to make sense, so you get a good feel for when they are good and when they aren't, and they become more instinctive. I think this can make a very big difference to your playing power.]
+;W[dp];B[pq];W[dc];B[qk]
+(;W[nc];B[lc]LB[qc:B]TR[qf]C[I wanted to avoid black building a large framework like in the variation, so I approached from R14 instead.
+
+X: Indeed it is normal to try to limit black's moyo for the Chinese Opening fuseki, but you should consider this already when approaching black's corner. With a low, close (1-space) approach, white is very aggressive, but black can be equally aggressive and pincer as he did. If white wants to avoid black from building a moyo, then a high, loose approach is more effective.]
+
+(;W[qf];B[oe]SQ[lc]TR[pd]C[At this point I wasn't sure what to do. I decided I would be in a lot of trouble if we linked up his two groups. So I jump out to seperate them
+
+X: I think the normal move here is to dive into the corner.]
+;W[ne]C[X: The reason is that, if you are planning on this move, then what is the purpose of R14? Might as well just jump out directly no? (see variation).]
+;B[of]TR[lc]LB[qc:D][rd:B][nf:C][qi:A]SQ[qf]C[My thinking is that I can choose to:
+(1) make a base for the stone marked square, perhaps with a 2 space jump to A or diving into the corner with B, but both seemed like a really heavy way to get a lot of my stones eaten.
+(2) Continue out with C to give up my single white stone and instead attack the black stone marked triangle
+(3) Dive into the corner at D and make one of my 2 weak groups strong.
+
+X: I like option (2) most, it is more decisive. Jumping into D gives black the option of choosing which direction to bring the game.]
+
+(;W[qc];B[qd]
+(;W[pc]
+(;B[od];W[nb]LB[oc:A]C[I was worried about the cut at A.];B[nd]
+;W[md]
+(;B[qh]C[X: This is very slow and unnecessary for black.];W[jc]
+;B[me];W[nf];B[ng];W[mf];B[le];W[ld];B[kd];W[mc];B[ke]SQ[lc]
+[kd][le][me]TR[ne][mf][nf]C[The ladder of my marked group would now work for black, so I decided to try to make them a bit stronger relative to black's weak group.
+
+X: If you can make it work that's fine. However you are fighting in enemy territory: the risk is that as you're running with those 3 white stones, black can chase it with the square group, all the while making that group stronger and wreaking white's potential territory on the left side. Or simply chases from the right, and enlarges his existing moyo.
+
+Either way, white struggles to live, while forcing black to get stronger.
+
+So this strategy is only good if white is hopeful of killing black's weak group! NOT if white only believes he can save his own group. If that is the case, better to leave it as aji.]
+;W[mg];B[nh];W[kg];B[id];W[kc];B[mh]
+(;W[lh];B[kf];W[lg];B[if];W[jg];B[lj];W[ig];B[ic];W[ib];B[hb]
+;W[jb];B[fc];W[je]C[I didn't want black to make 2 eyes too easily, was this too aggressive?]
+;B[jd];W[ie]
+(;B[he];W[jf];B[gc]SQ[fb][hd]C[At this point I decided black could make 2 eyes somewhere in in the marked areas. So I decided to apply pressure while making territory with the next move instead. Am I thinking about this wrong? Or did I pick the wrong move?
+
+X: You've invested a huge amount into the middle white group. There is a general way of thinking that goes:
+
+1) Are any of my groups weak? If yes, fix it.
+2) Are any of my opponent's groups weak? If yes, attack it.
+3) Otherwise, take big moves.
+
+This is not a hard and fast rule, just a guideline, but it gives a good idea of what priorities should be: your middle group is still floating so you should make it stronger.
+
+So your way of thinking is good, just apply it to do both that and strengthen your group.]
+
+(;W[ee];B[hf];W[gh];B[ff];W[ef];B[fg]C[X: This is exactly why you need to strengthen the middle group first. Now for each black stone, white needs to defend his weak middle group, as well as defend the potential territory staked out on the left. And doing both is very difficult.]
+;W[fh];B[eg];W[di];B[dg];W[cf];B[df];W[de];B[cg];W[bf];B[bg]
+;W[eb]C[I felt like this was securring my corner in sente, since he has to respond in order to keep his eye there. Is this the right time to play a move like this?]
+;B[fb];W[bi];B[eh];W[ei];B[fi]SQ[ie][je][ne][jf][mf][nf][ig]
+[jg][kg][lg][mg][fh][gh][lh]TR[bi][di][ei]C[I didn't expect this cut. I remember reading for it, but felt that black would not want to createa nother weak group. I was wrong :)
+
+In retrospect I think it's okay for black to do this, because my triangle and square marked groups are still unsettled.
+
+X: The viability of this cut hinges on two things. One is what you said already: are your groups settled? No? Then he can cut and create 2 weak groups. But even more important... is he creating *another* weak group? Well, since the black group has already been settled with 2 eyes, that group is no longer weak... so the cutting stone itself is weak, but that is the only weak black group at the moment!
+
+Creating more weak groups is bad, but having less weak groups than your opponent is fine. : )]
+;W[gi]C[I wanted to atari in a way to allow what I perceived as my weaker group (the middle one) to get stronger. Is this wrong?]
+;B[fj];W[gj];B[fk]C[I again, decided to help the middle group, because the variation where I help the left group seemed very dangeroud.]
+
+(;W[hl];B[ck];W[dk]C[The variation was expecting when I played this is shown in the other branch.]
+
+(;B[cj]C[Black went here instead. I think his goal was the other variation shown.]
+
+(;W[ci];B[dj];W[ej];B[dl];W[ek];B[fl];W[el];B[fm];W[hn];B[em]
+;W[cl];B[dm];W[cm];B[cn]LB[bn:A]C[In retrospect I feel I should have playd at A. I think he still can't kill my 2 white stones, and I prevent him from making eyes at the edge as easily.]
+
+(;W[bk];B[bm];W[bl];B[co];W[cp];B[fo];W[fp];B[go];W[ho];B[gp]
+;W[eo]C[X: Nice shape-killer.];B[en];W[fq];B[hp]C[X: In general, play contact when you're trying to live, and not contact when you're trying to attack.]
+;W[ip];B[io];W[iq]LB[jp:A]C[This was somewhat of a "trick." I felt like if I played at A instead, it would be too obvious I wanted to kill the black stone. Was there a better way for me to try to get my center white group to life at this point?
+Maybe I should have just tried to make eyes in the middle?]
+;B[bp];W[bq];B[bo]C[Should I have played the variation? I think I can prevent eyes, but I'm not confident about my handling of KO battles.]
+
+(;W[an];B[am];W[al];B[bn];W[ap]C[X: This move is unnecessary neh? It's not actually reducing eye-potential, so leavei t for later.]
+;B[ao]
+(;W[hq];B[gm]C[In retrospect I think I let him make his 2nd eye too easily. It was just a reflext to guard the cut.
+
+Perhaps the variation would have worked better?]
+(;W[hm];B[gn]
+(;W[jn];B[jo];W[ko];B[gq]
+(;W[jp]TR[ip][iq]C[X: The triangled shape is called the "empty-triangle", and it is considered one of the ugliest, most vulgar shapes in go. There are some occasions when it is still good, mostly because it either can't be avoided or it is also killing shape for your opponent... but in general you can and should achieve the same thing with a better shape.]
+;B[fr];W[dr];B[aq];W[ar];B[cq];W[br];B[pn];W[nq];B[mm];W[rd]
+C[This was a mistake. For some reason I thought I could connect. This is also the part of the game where I am about to enter byomi of 30 seconds per move, so I start to not think through my moves enough.]
+;B[re];W[rc];B[qe];W[rf];B[se];W[sf]TR[nd][od][pd][qd][oe][qe]
+[re][se][of]C[I continue down this line because I think there is a chance to kill the triangle stones, but I haven't read through the variations enough.
+
+X: Nope, no chance : )];B[rh];W[og]C[Pomponv [9k\]: take care with the time]
+;B[pg]C[Richard [9k\]: yeah thanks, I always have a problem with that :)]
+;W[oh];B[oi];W[mi]LB[lj:A]C[I want to at least try to encircle the stone marked A and take more territory.]
+;B[ni];W[mj];B[li];W[mk];B[lk]C[Which does not work at all]
+;W[ki];B[ll];W[jk];B[pr];W[no];B[on];W[nm];B[nn];W[mn];B[nl]
+;W[lm];B[ml];W[ln];B[ga];W[pp];B[qp];W[po];B[qo];W[qn]C[X: These last few cuts seems irrational and desperate. If you don't see a way, try to avoid making cuts. You can either try to play games with more time if you feel you're only making these moves because you don't have the time to read things out properly, and/or do more tsumego (life-death problems), so it gets easier for you to read quickly and develop intuition.
+
+If you find yourself often making moves that probably won't work in the hopes that some miracle will happen.... well, that's a bad habit and you should resist the urge until you get rid of the habit. : ) No seriously, occasionally an opponent will indeed make a mistake and you'll recover a lost game, but it also affects the way you think of a game and look for solutions, and this will in the long run keep you from getting stronger.]
+;B[rn];W[or];B[oq]
+(;W[op]
+(;B[qq]C[X: Black is being quite passive.];W[nr];B[fe]
+(;W[ed];B[hg];W[hh];B[kj];W[jj];B[gk];W[hk];B[gg];W[ih];B[kl]
+;W[jl];B[km];W[kn];B[jm];W[im];B[qm];W[er];B[hr];W[ir];B[hs]
+;W[fs];B[gr];W[oc];B[is];W[kr];B[js];W[ks];B[do];W[ep];B[af]
+;W[ae];B[be];W[ce];B[ad];W[bd];B[ae];W[ac];B[ag];W[bc];B[db]
+;W[ea];B[ec];W[cb];B[fa];W[da];B[fd];W[jr];B[ps];W[os];B[ai]
+
+(;W[aj];B[ah];W[bj]
+(;B[ia];W[lb];B[ja];W[ka];B[ha];W[sd];B[ap];W[oj]C[X: Black doesn't have to answer any of this. This could easily have turned the game around.]
+;B[ph];W[ol];B[nk];W[dh]C[Pomponv [9k\]: felicitation
+Richard [9k\]: thank you for the game
+Richard [9k\]: hahah what does that mean?
+Pomponv [9k\]: I thought I won...
+Richard [9k\]: I thought you did too!
+Richard [9k\]: my middle group was such a hassle
+Richard [9k\]: and your end game was very strong
+Richard [9k\]: I think I loss at least 15 points there
+Richard [9k\]: can I add you to play you again sometime?
+Richard [9k\]: it was fun
+Pomponv [9k\]: yes of course
+Pomponv [9k\]: with pleasure
+Richard [9k\]: do people ever review a game together on KGS?
+Pomponv [9k\]: yes
+Richard [9k\]: okay want to? how?
+Pomponv [9k\]: depends of guys
+Pomponv [9k\]: you go on "option" and then "comment the game
+Richard [9k\]: hmmm... maybe my version is different. I see "Review the game" under option
+Pomponv [9k\]: I suppose, because my version is in french])
+(;B[cj]C[X: That group is actually dead...]))
+(;W[ah];B[aj];W[bh]C[X: You cna keep more points actually.]
+))
+(;W[ec]C[X: Here the empty-triangle is good. Now, black's hane is no longer sente. (Also, both moves give you an empty-triangle, so it is just a matter of choosing the better one).]
+;B[ea];W[da];B[fa]))
+(;B[nr];W[mr];B[os];W[mq]))
+(;W[np]C[X: Again, avoid empty triangles.]))
+(;W[kp]C[X: For example with this.]))
+(;W[jo]C[X: Why not just capture directly?]))
+(;W[gn];B[hm];W[in];B[fn];W[im];B[il];W[gk];B[jm];W[jn]))
+(;W[gn];B[fn];W[gl];B[hr];W[ir];B[fr];W[gq];B[hq];W[gr];B[gs]
+;W[er];B[fs];W[es];B[hs];W[do];B[dn];W[eq];B[jo];W[lq]C[X: Now black is in huge trouble. And white has.... just 1 weak group! So white can easily focus on running with that group, while black scrambles to save his weak group, and defend his potential territory!]
+))
+(;W[am];B[an];W[bn]))
+(;W[bn];B[bl];W[bm];B[bk];W[bo];B[bh]C[X: Indeed, 4 vs 3, and white's turn. This would have been a huge table-turner.]
+))
+(;W[ek];B[ci];W[ch];B[dh];W[bh];B[bj]))
+(;B[dj];W[ej];B[cj];W[ek]TR[fi][fj][fk]C[At which point black would need to worry about his 3 black stones marked triangle]
+;B[fl];W[cl]))
+(;W[dk];B[hl]))
+(;W[hf]C[X: This is actually a seemingly slow move, but is hurts black's shape while fixing white's shape, so I think it is good. Also strengthens white's influences to the center.]
+)
+(;W[ff]C[X: This is also possible.]))
+(;B[jf]
+(;AB[he];AB[hf])
+(;W[he];B[hf];W[ge];B[hg];W[hh];B[ff];W[fe];B[gh];W[hi];B[gi]
+;W[hj];B[ee]C[X: Black can afford to be a lot more aggressive...]
+)))
+(;W[kf];B[jf];W[jg];B[if];W[lh]C[X: Slightly nicer shape... but still not a good situation. White can maybe live... making very little territory, while black is consolidating the right side, and erasing the left white potential.]
+))
+(;B[me];W[ld];B[le];W[kd];B[ke];W[jd];B[jp]C[X: Black can really get ahead a lot more, and end with sente too.]
+))
+(;B[oc];W[ob];B[od];W[nb];B[nd]C[X: Black can wreak havoc.]
+))
+(;W[od];B[oc];W[nd];B[pc];W[nf];B[og]C[X: Haha, I still like this, which goes back to the original choice of (2)]
+))
+(;W[nf];B[og];W[od];B[oc];W[nd];B[ob];W[nb];B[qc];W[ng];B[oh]
+;W[ic]C[X: Doesn't look great for white... but it's also not bad, and very clear.]
+))
+(;W[qc];B[qd];W[pc];B[od];W[rc];B[me]C[X: Indeed this is very nice for black.]
+)
+(;W[ne];B[pf]C[X: compared to 11 in the original game, white is lighter and doesn't have 2 weak groups to worry about.]
+;W[kd];B[ld];W[le];B[kc];W[jd];B[jc];W[id];B[hc]C[X: the normal continuation then goes for example like this...]
+))
+(;W[mp];B[po];W[jp]C[X: This is a common variation for the Chinese Opening. Although it seems very relaxed and calm for black to take the corner, at the same time it would be very difficult for black to pincer and attack white's approaching stone, leaving black no choice.]
+))

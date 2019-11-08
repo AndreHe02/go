@@ -1,0 +1,70 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.17]
+
+PB[oapj]
+BR[2k]
+PW[SweetPea]
+WR[1k]
+KM[0.5]
+DT[2010-02-07]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[W+Resign]
+TM[900]
+OT[3x30 byo-yomi]
+RU[Japanese]
+
+C[Hi,
+
+
+
+I won this short game (there is actually only the opening and the beginning of the middle game) through brute force... Though I am pretty sure that I did not always played right. I have the feeling that I made many dubious moves and that I only won because my opponent was afraid. Can you please point out my (and my opponent's mistakes if you see them? (I wrote my questions and comments alond this opening)
+
+
+
+Thanks in advance for your help! / Marc (SweetPea^^)];B[qd]
+C[oapj [2k\]: hi, gg
+
+SweetPea [1k\]: hi, hf];W[dc];B[dp];W[cn]C[M: Should I take the empty corner instead?
+
+janr: the move looks playable];B[de]C[M: What is the best answer here? Should I pincer?
+
+janr: if white pincers, black will run out, when white defends, black may get the opportunity to separate c6 from the pincering stone.  So pincering seems a difficult way]
+;W[ce];B[cf];W[cd];B[dg]
+(;W[ed]C[Why not pincer now ? it combines two locally feasible moves (a 3-space jump from c6 and a pincer above).]
+;B[ck]C[M: Should I take care of  W C6 right away? How?
+
+janr: maybe, but it's gote.  Taking the empty corner is big too.]
+;W[od];B[mc];W[qc];B[rc];W[pc];B[re];W[ne]LB[re:B][qg:A]C[janr: i like this move more when black plays A instead of B]
+;B[kd];W[qf]C[M: Is this overplay?
+
+janr: it looks ok.];B[rf]C[janr: if black answers like this, then white is satisfied]
+;W[qg];B[rb];W[ic];B[gc]C[
+janr: black is overplaying here I think.  he now has two weak groups]
+;W[ie];B[ge];W[kf];B[ob];W[oc];B[pb];W[qb];B[nb];W[ra];B[pa]
+;W[qa];B[sd];W[rg];B[qe]C[M: I am happy of the result here :-)]
+;W[kb];B[jb];W[jc];B[lb];W[kc];B[ma]LB[gc:B][ff:A]C[black first weak group lives small, but there is still a cut at A.  black was not successful in playing B]
+;W[lc];B[nc];W[ff];B[gf];W[ef];B[eb]C[M: I think B makes a mistake here. He should get out, right?
+
+janr: geting out is urgent, yes.];W[gg]LB[fd:A][gd:B]C[janr: the safest way is to first exchange A for B]
+;B[db];W[cb];B[ee]C[janr: now black can cut];W[fe];B[fd]
+(;W[fc]LB[hg:A]C[Playing A instead would force black to live locally, allowing white to capture two stones in sente, getting thick.]
+;B[gd];W[ec];B[hg];W[fg];B[if];W[he];B[je]C[janr: This strengthens white. Why not just connecting?  then black keepts more options to save liberties and side stones later.]
+;W[hc];B[hf]
+(;W[gb]LB[ld:C][df:A][jf:B]C[janr: A looks good.  It avoids black cutting by connecting at A.  if black saves his stones at the upper side, white can still connect at B or C and black group is still not fully alive while black's left side need protection too.]
+;B[df];W[gi];B[hi]LB[kg:B][ii:A]C[janr: this move makes the weak white group stronger.  I would prefer to mave at A  or B or similar]
+;W[hj];B[gh];W[fh];B[hh];W[fi];B[ej];W[ij];B[fj]LB[gj:A]C[janr: there is no need to help white connecting.  Black may like to cut at A later himself]
+;W[gj]C[janr: now the black center stones are virtually lost.]
+;B[jh];W[ki];B[ji];W[kj]C[M: Is this the best move to kill here?]
+;B[jj];W[jk];B[kk]LB[lg:A][kh:B]C[janr: to escape locally, black needs to move at A or B, but I don't think it is sufficient.]
+;W[kh];B[ik];W[jl];B[il];W[jf];B[im];W[kl];B[gk];W[ii];B[ih]
+C[oapj [2k\]: thx
+
+SweetPea [1k\]: thx
+
+
+
+M: If my opponent doesn't give up I planned to tenuki and play in the empty corner. Would that be right? Or should I play C3 instead?]
+)
+(;W[df];B[fb];W[hb];B[gb];W[jf];B[cg];W[gi]))
+(;W[hg];B[ec];W[dd];B[hb];W[ib];B[fb];W[df];B[cg]))
+(;W[dj];B[ec];W[dd];B[ed];W[ee];B[df];W[fe];B[eb];W[db];B[hc]
+;W[fg]C[janr: I think this is playable for what]))

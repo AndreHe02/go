@@ -1,0 +1,131 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+PB[tarragone]
+BR[13k]
+PW[monk316]
+WR[12k]
+KM[0.5]
+DT[2005-02-25]
+PC[The Kiseido Go Server (KGS) at http://kgs.kiseido.com/]
+RE[W+Resign]
+TM[1140]
+OT[3x30 byo-yomi]
+RU[Japanese]
+
+C[Dear Sensei,
+
+In this game I'm playing as black. The game ended pretty soon. My opponent thought his groups were unsecure and the game wasn't still decided, but I thought his position was superior to mine. There were several strategical decisions I wasn't sure about and I'd like to get comments on them.
+
+Please don't mind that the game was played pretty quickly, I've spent time on the game afterwards.]
+;B[pd];W[dp];B[pq];W[dd]
+(;B[dj]C[I don't even know if this move is good, I don't get any matches from my pro game database.
+
+Niklaus: Searching the gobase.org database, I could find two games with that position, both from the early thirties. The reason is probably that preventing a white sanrensei is not very urgent at this point.
+ I'll show some more common alternatives in the variations.]
+;W[po];B[pl]C[I thought this could work together with the Q16 stone, even if it's pretty far.
+
+Niklaus: Seems fine by me, a very common pincer];W[qp];B[qq]
+C[The right answer? The corner got low and if not enclosured, at least it had little space for extending.
+
+Niklaus: Yes, looks like the only move to me. R4 is quite unusual, the normal idea is to jump out into the center and keep the attachment at 3-3 in reserve.]
+;W[np]C[Niklaus: You might consider cutting here]
+(;B[nq]
+(;W[qm]C[Niklaus: Another strange move, strengthening the black stone without getting much in return.]
+;B[ql];W[qf]C[Should I attack or invade white's group? For example, r6?
+
+Niklaus: Don't invade! it's way too early for that, as white can easily run out into the center.]
+
+(;B[qh]C[I don't like this move generally but this should work with the q8 r8 stones, right?
+
+Niklaus: I do like this move generally :) Apart from tenuki this seems like the only option here to me.]
+;W[nc]C[Niklaus: The usual idea is to attach at either O16 or Q14. See the variations.]
+
+(;B[oc]C[Again confusion. What about p15?]
+(;W[qc]C[Niklaus: Another move I've never seen before :)];B[qd]
+;W[rd]C[Niklaus: White should be punished for not answering P17]
+
+(;B[re];W[rc];B[qe];W[ob];B[pc];W[pb];B[nd];W[mc]C[But this looks fine to me.]
+;B[pf]C[Niklaus: looks a bit overconcentrated to me. Black spent a lot of stones that don't do a lot of work. I prefer white's result.]
+;W[jd];B[cn];W[gq]
+(;B[fd]C[I thought I couldn't let white take the whole upper side. It always confuses me which side to approach from.
+I thought that low approach would be bad because of k16 (see variation).]
+;W[dg]C[Niklaus: This is one space too far.];B[dc];W[cc];B[ec]
+;W[cb]C[Niklaus: D13 at D14 here makes more sense]
+(;B[ic]C[I decide the open skirt at d18 is ok for now.
+
+Niklaus: Sure, open skirt is fine. However I don't like J17. It unnecessarily strengthens white. You will very rarely see this move (kosumi on 3rd line to a stone on the 4th) in a high level game. See also the 2nd variation at move 41.]
+;W[jc];B[id]
+(;W[ci];B[cj]C[Niklaus: Again this move. White can forget about an invasion now. Also, the position on top is not really strengthened.]
+
+(;W[co]C[Is this a good move by white? It looks as if it actually helps me. Is white's corner now secure?]
+;B[dn]C[Niklaus: No, Ws corner is still open to invasion/reduction at 3-3]
+
+(;W[kq]
+(;B[iq]C[I thought my own territory was pretty secure so I decided to make some kind of reduction.
+Would a shoulder hit to g3 and l3 be ok?
+
+Niklaus: I don't like it. You just create a weak group.];W[jp]
+;B[hp];W[gp];B[ho];W[ip];B[hq];W[pj];B[nk]C[Was I too ambitious?]
+;W[oi];B[mi];W[nh];B[mh];W[ng];B[mg];W[pg]C[There is a fight here but I'm mostly interested in help with fuseki.]
+;B[qg];W[of];B[ph];W[pe];B[oh];W[ni];B[mf];W[ne];B[rf];W[me]
+;B[nf];W[og]C[Huge reduction, I resign.
+Do you think I had any hope? If I hadn't resigned, what could I have done? Maybe to do something about white's upper left corner?
+
+Thank you for all your comments.]
+(;B[oe]C[Niklaus: There's still a ko here! I agree with your opponent, you should not have resigned yet. Upper left as well as lower left are not solid territorry yet. You also have a lot of influence to the center, so you can expect to make some territorry there.]
+)
+(;B[cq];W[dq];B[bo])
+(;B[ce];W[de];B[cg]C[Niklaus: This looks good to me, many potentially complicated variations though]
+;W[ch];B[df];W[ef];B[cf]
+(;W[eg];B[cd];W[ee];B[bc];W[bb];B[bd];W[bg])
+(;W[ee];B[cd];W[eh];B[bc];W[bb];B[bd];W[ab];B[db];W[bg];B[bf]
+;W[bh];B[ac];W[ae];B[ca])))
+(;B[op];W[oo];B[mp];W[no]C[Niklaus: Maybe you can invade if you play this exchange first, building up some strength on the right first.]
+))
+(;W[tt];B[cq];W[dq];B[bo]
+(;W[cp];B[bp];W[bq])
+(;W[bp];B[cp];W[bq];B[do];W[cr])))
+(;W[cp]C[Niklaus: If White wants to do something about that corner, maybe this is better, as it threatens to invade again.]
+))
+(;W[ck]C[Is this a good point for invasion?
+
+Niklaus: I prefer C8.];B[cj];W[dk];B[ek];W[el];B[dl];W[cl];B[dm]
+;W[ej];B[fk];W[bj];B[bi];W[bk];B[ch])
+(;W[ie];B[he];W[hf];B[ge];W[jf]C[Niklaus: White is very happy]
+)
+(;W[cl];B[dl];W[ck];B[dk];W[cm];B[dn];W[bi];B[ci];W[bh]))
+(;B[hd];W[jf]
+(;B[gg])
+(;B[jc];W[kc];B[ic])))
+(;B[fc];W[ec];B[fd];W[df];B[ic];W[jc];B[id]C[This isn't as good, right?]
+)
+(;B[cf];W[fc];B[bd];W[cc];B[ef]C[Niklaus: Don't forget that you can also get the whole right side by approaching from the other direction. The white top is still vulnerable to invasions (well, so is blacks left side). Looks like a balanced game to me.]
+))
+(;B[nd];W[rb];B[mc]C[Niklaus: This looks like a good exchange for black to me. The R8-12 group can take care of itself, especially with the weak group next to it.]
+))
+(;W[nd];B[pf];W[qc];B[qd];W[ob];B[pb];W[pc];B[qb];W[od];B[rc]
+C[Niklaus: Something like that would be ok for white too. The R14 stone still has a lot of aji]
+))
+(;B[pf]
+(;W[qc];B[qe];W[pc]C[Niklaus: There are many variations of order to arrive at this position.]
+)
+(;W[pg];B[qg];W[pe];B[of];W[oe];B[qe];W[qd];B[rf];W[od];B[rd]
+;W[pc]))
+(;B[nd];W[md];B[ne];W[qc]
+(;B[oc];W[qd];B[mc])
+(;B[qd];W[pc];B[oc];W[ob];B[od];W[mb];B[me];W[ld])))
+(;B[mp];W[no];B[lq]C[Niklaus: This looks very good for B, good potential for further development on the lower side]
+))
+(;W[mp]C[Niklaus: I'd probably play here, as a black move there is very big.]
+))
+(;B[op];W[oo];B[no])
+(;B[oo];W[op];B[pp];W[on];B[qo];W[no];B[qn]))
+(;B[cj]C[Niklaus: This one got me some more results, but still not very popular. However, it is much easier to get a stable group in case of a white checking extention]
+;W[cl];B[cf];W[ch];B[ef];W[fd];B[di]C[Niklaus: One common continuation]
+)
+(;B[fq]C[Niklaus: This is the most common move here, making the so called Kobayashi formation]
+
+(;W[cn];B[jp])
+(;W[hq];B[qo];W[kq];B[cq];W[dq];B[cp];W[do];B[dr];W[er];B[cr]
+;W[eq];B[cn]C[Niklaus: In case of a pincer something like that might happen (from the pro game that I'm studying at the moment)]
+)))

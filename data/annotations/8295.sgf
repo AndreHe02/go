@@ -1,0 +1,128 @@
+(;FF[4]GM[1]SZ[19]ST[0]AP[SGFC:1.17]VW[]
+
+GN[gabude-beco-625058-20110310]
+PB[beco (beco)]
+BR[26k]
+HA[2]
+PW[Jean Gabude (gabude)]
+WR[26k]
+KM[1.5]
+DT[2011-01-25,2011-03-10]
+PC[Dragon Go Server: http://www.dragongoserver.net/]
+RE[B+7.5]
+OT[Japanese byoyomi: 90 days + 1 day per move and 10 extra periods]
+
+RU[Japanese]
+GC[Game ID: 625058, rated]
+
+AB[dp][pd]PL[W];W[dd];B[cn]C[It is unusual to not play in the open corner here, but not necessarily bad.]
+;W[pp];B[qf];W[nc];B[pc]C[This is a reasonable way to defend the corner.]
+;W[fq];B[dq];W[dr]
+(;B[eq]TR[cr][er]SQ[dp][dq]C[This makes an empty triangle, which is almost always a bad shape. Try to avoid making empty triangles.
+Here, E2 and C2 are both better choices.  E2 is more aggressive and C2 is more defensive.
+
+See Variation];W[er];B[cr];W[fo];B[qh]SQ[fc][cf][ic][ci][lp]
+[qn][qk]C[This is too small of a move for the opening.  All 4 sides are largely unclaimed.  You should either play an approach move on one of white's corners, or play in the middle of an open side. The squares are all good choices.  The marked spots are all on the third line except M4 on the bottom.  It is on the 4th line because white has a small wall in the lower left corner facing this side]
+;W[qm];B[ck]C[Again, too small for the opening.];W[cg];B[cj]
+TR[fc][lc]SQ[ic]C[This is too close to your C9 stone for the opening.  In the opening you play loosely connected stones all over the board.  Once the mid game starts you begin connecting everything tightly.
+Here you should play at J17.  White will probably play on one side of your J17 stone.  Then, you extend to one of the triangles, the one away from where white just played.]
+;W[fr];B[kc]C[This attacks white's O17 stone, which is OK to do at this point.]
+;W[kd]
+(;B[jc]SQ[jd]C[K16 is better.  You want access to the center in case you need to run out.
+
+See Variation];W[lc];B[lb]SQ[gc]C[You want to make a wide base for your stones so you have room to make eyes if needed.  G17 does this well.  G16 would also work since it gives more access to the center.]
+;W[mb];B[kb]TR[jc][kc]SQ[ka]C[L19 is better.  It doesn't make an empty triangle.  It also starts to make an eye shape around L18]
+;W[ld];B[ic]SQ[gc]C[Again, you should jump out farther along the side.  G17 is still good.]
+;W[ie];B[qq]TR[pq][iq][mo]SQ[mq]C[A 3x3 invasion here should succeed but isn't the best idea.  You should be able to make your stones live in the corner.  This will give you some corner territory and give white a wall facing along the lower side.  Since white already has a wall around F3, you are essentially giving white the entire lower side in exchange for a few points in the corner.
+You would be better off trying to invade the lower side.  I would invade at N3 and then play one of the triangles depending on how white responded.]
+;W[pq];B[qp];W[qo];B[ro];W[qn]TR[qm]SQ[rn]C[Because of the stone at R7, white can play S6 instead.]
+(;B[qk]SQ[pr]C[You should finish making your lower right corner invasion secure before moving on. 
+
+See Variation];W[qj];B[pj];W[pk];B[qi];W[ok]TR[fo]SQ[im]C[White is beginning to surround a large area of territory on the lower side.  You don't want white to succeed.
+The square is a good place to play to start reducing White.  Imagine a line from white's F5 stone to white's P9 stone.  Anything below and to the right of that line is an invasion and anything above and to the left of that line is a reducing move.  The square is just outside of this line so it is a reducing move.  Reducing moves are safer but accomplish less.]
+;B[oj];W[rj];B[rk];W[ri];B[rh];W[ql];B[sj];W[hc]
+(;B[hb]SQ[gc]C[Now that stone at G17 I recommended back on move 24 would be very handy since white would be in Atari.
+
+See variation];W[gc];B[ib];W[gb];B[ja]C[Good, that makes your group live.]
+;W[la];B[ha];W[qr]C[Now black's stones in the lower right corner are in serious trouble]
+;B[rr];W[rn]
+(;B[qs]SQ[pr]C[Q2 would be better
+
+See Variation];W[pr];B[rs];W[rp]C[Black is dead.];B[sp];W[so]
+(;B[ch]C[If you are going to do a 3x3 point invasion of the upper left corner, now would be a good time.
+
+See Variation.];W[dg];B[dh];W[jp]C[This secures a large area of lower side territory for white.
+
+Currently, white is ahead.  Black needs to make some center territory while reducing white's center territory.]
+;B[eg];W[ef];B[fg];W[hg];B[gh];W[gf];B[jh];W[hh];B[hi];W[dn]
+;B[co];W[cm];B[bm];W[dl];B[ek];W[fm];B[cl];W[dk];B[dm];W[rq]
+;B[en];W[dj];B[el]SQ[dj][dk][dl]C[This kills 3 white stones.  They can't escape past the black wall around D12.]
+;W[ej]
+(;B[fk]TR[ek][el]SQ[fj]C[Again an empty triangle.  F10 is better.  You want to drive white towards your wall around D12
+
+See Variation.];W[em];B[do];W[fn];B[gk];W[gj];B[gi];W[fj];B[hk]
+;W[hj];B[ij];W[eo];B[dn];W[ci];B[bi];W[di];B[fi];W[hn];B[mk]
+C[This is a good start towards reducing white's lower side]
+;W[bh];B[ei];W[ag]
+(;B[ai]SQ[mm]C[This is an end game move worth about 1 point.  There are a lot of moves worth more than 1 point still on the board.  I would go with N7 to continue reducing white.
+
+See the rather long variation.];W[jg];B[jd]C[This is another 1 point move]
+;W[je];B[id];W[hd];B[ih]C[This helps block of some center territory]
+;W[lh];B[nh];W[mi];B[lj];W[nl]
+(;B[mm]TR[lm]SQ[nl]C[The marked white stone allows white to cut at N8.  Playing M7 is better
+
+See Variation];W[ml];B[ll];W[nm]SQ[lm]C[White should cut at M7 here]
+;B[mn];W[mq]SQ[mm][mn]C[Black has reduced white but white can still cut at M7 and kill 2 stones.]
+;B[nj];W[oe];B[ob]C[Good];W[oc];B[od];W[nd];B[jm]C[Good];W[ki]
+;B[jj];W[kj];B[kk];W[ni];B[oi];W[mj];B[nk];W[li];B[jo];W[ip]
+;B[kp]SQ[ko]C[This would be better at L5, more secure.];W[io]
+;B[in];W[hm];B[il];W[kq]
+(;B[mp]SQ[lo]C[M5 defends the cutting point at L5
+
+See Variation];W[ko];B[jn];W[lp];B[lo];W[ln];B[kn];W[mo];B[lm]
+;W[np];B[cc]C[I don't see a way for this invasion to succeed.  White might make an error, however.]
+;W[dc];B[cd];W[ce];B[be];W[cb];B[bb];W[ca];B[pf];W[lo];B[nn]
+;W[om];B[oo];W[op];B[on];W[pn];B[of];W[me];B[nf];W[ne];B[mg]
+;W[pe];B[qe];W[bf];B[ff]TR[lh][li][ki][kj][mi][ni][mj]SQ[lg]
+C[Play M13 to kill 7 white stones.];W[ee];B[fe];W[ge];B[fd]
+;W[fc];B[ec]C[White can cut at E16.];W[eb];B[ed];W[bd];B[ah]
+;W[bg];B[mf];W[lf];B[lg]C[Black kills 7 white stones.];W[kg]
+;B[kh];W[ig];B[gg]SQ[rl][ep][gl]C[You don't need to connect here.  This isn't worth any points. The squares are Sente moves worth at least 1 point.]
+;W[lk];B[mh]TR[lh][li][ki][kj][mj][mi][ni][lk]C[The white stones are already dead.  You don't need to play here.]
+;W[im];B[hl];W[gm];B[nb];W[oa]
+(;B[pb]SQ[na]C[O19 is better
+
+See variation];W[na];B[pa];W[ma];B[qd]C[You don't need to connect here, but if you are not sure then being cautious is OK.]
+;W[rl];B[si];W[ep];B[ga];W[fa];B[sl];W[sm];B[sk];W[no];B[lj]
+C[You don't need to do this];W[kl];B[jl];W[lk];B[km];W[sq];B[ka]
+;W[mc];B[ds];W[es];B[cs];W[bc];B[ji]C[This isn't necessary]
+;W[pl];B[lj])
+(;B[na];W[pb];B[pa];W[qd];B[qb]C[White can't cut]))
+(;B[lo];W[lp];B[ko];W[mo];B[nn];W[ol]C[White has to play here or face a double atari]
+;B[oo];W[op]))
+(;B[lm];W[ml];B[ll]C[White's cut fails]))
+(;B[mm]C[Black plays to reduce white.];W[mo]C[White blocks.  It is better to block one or more spaces away rather than right against black.]
+;B[jm];W[jn]SQ[hn][jp]C[The two marked stones allow white to play against black's stone]
+;B[kn];W[ko];B[ln];W[lo];B[im];W[in];B[nn];W[no];B[on];W[oo]
+;B[pl]C[Black cuts];W[ol];B[pm];W[om];B[pn];W[nm];B[mn];W[hm]
+SQ[pk][ok][ol][om][nm]C[White has 5 dead stones and a lot less territory while black has gained center territory.  Now the score is close.]
+))
+(;B[fj]C[Black blocks];W[fk]C[White cuts];B[ei];W[fl];B[di]
+))
+(;B[cc]C[Black invades the corner.];W[cd];B[dc];W[ec];B[eb]
+;W[fb];B[bd];W[be];B[ac];W[db];B[cb];W[ea];B[bb]SQ[cb][cc]C[This is the execption to the rule about never making empty triangles. When you are making eyes, empty triangles are OK.]
+;W[ca];B[ba];W[ae];B[ad]C[Black is alive]))
+(;B[pr];W[or];B[qs];W[rp];B[rq];W[so];B[sq];W[os];B[ps]C[black lives]
+))
+(;B[hd]C[Black plays outside and plans to sacrifice this stone]
+;W[id]C[White cuts];B[hb]C[Black plays atari];W[gc]C[white extends]
+;B[gb];W[ge]SQ[hd]C[White catches black's sacrifice stone];B[ia]
+C[Black is alive and can still threaten the upper left corner]
+))
+(;B[pr];W[or];B[rr]C[This is a secure position for black.]))
+(;B[jd];W[lc];B[kb];W[lb];B[fc]C[Black threatens to invade the upper left corner while making a base for his upper side stones.]
+;W[dc]C[White defends the corner];B[gd]C[Black has a good position on the upper side]
+))
+(;B[er]C[Black attacks white's D2 stone.];W[eq]C[White cuts]
+;B[cr];W[fr];B[ds]C[Black secures the corner.];W[jq]C[White makes a base for his stones.]
+))

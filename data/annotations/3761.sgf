@@ -1,0 +1,54 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+GN[KRS v GnuGo 24Sep04]
+PB[KRS]
+BR[10k]
+PW[GnuGo]
+KM[0]
+RE[B+7]
+RU[Japanese]
+
+C[>>>Overall you played a fine game.  True to what the dan player told you, you didn't secure your stones in the early stages quite well enough, although it was mostly ok.  Even so, you were able to create a commanding lead in the early middlegame that even the later whittling down by your opponent could not erase.  Your opponent played an opening that was well defended but small, and you took advantage of that well.]
+;B[qd];W[dp];B[pq];W[dd];B[oc];W[po];B[qk]C[I am not sure about this move on the third line; maybe it should be on the fourth line in fact since white's approach is high.
+
+>>> This move is fine.];W[qq];B[qr];W[qp];B[np]C[I feel I was taking a risk here, leaving myself open to the cross cut, although I don't think it would be too damaging
+
+>>>The correct move for white perhaps would be P3.  It allows for white to destroy your position in the corner.  On the other hand it's not big quite yet, and white would probably play elsewhere for about 4 or 5 more moves before attempting something like that.  The variations demonstrate some possibilities (some of them are to show you what not to do, as well as some to show you what to do).]
+
+(;W[rr];B[or];W[hc];B[fq];W[cn];B[ok]C[>>>I'd recommend playing at around J4 now instead of P9.  Your lone stone needs reinforcing.]
+;W[fo];B[rn]C[I think this was not the best move available. Maybe I should have responded to the cap, or invaded the left side.]
+;W[qs];B[ci];W[kc];B[cf];W[pr];B[nq];W[md];B[ne];W[ce];B[df]
+;W[fd];B[hp];W[er];B[fr];W[dq];B[cl]C[>>>At this point, you've got a big advantage.  White's only hope is to invade around L4 and around O12 and then run.]
+;W[lf];B[mf];W[lh];B[mg];W[mk];B[ni];W[be];B[bf];W[nn];B[lo]
+;W[qn];B[qm];W[ro];B[fl]C[>>>It probably would have been better to do a similar move on the other side of that chunk of territory (maybe G13).  White has great potential to make territory in the middle (which it did).]
+;W[ff];B[eg];W[gh];B[fi];W[pm];B[pl];W[rm];B[rl];W[sn];B[bm]
+;W[bn];B[gi];W[ih];B[jk];W[ho];B[io];W[hn];B[gp];W[fn];B[in]
+C[>>>This is a small gote move.  At this point you should take sente again.]
+;W[nb];B[ob];W[oa]C[This is where white takes a few points in sente. My feeling is that these points are not big just yet, should be left until later, but I am not sure how to exploit white's timing.
+
+>>>Some notes on late middlgame strategy:  When you're losing by a little, then try to gain sente to get those points back in endgame moves.  When you're losing by a lot, then you have to look for a drastic move and never play endgame moves because they'll close up possibilities for bigger moves.  When you're winning, close up all the endgame moves so your opponent can't gain points back by playing them.  
+In this case white is losing by a lot, and playing these endgame moves will not be enough.  Even though white will narrow the margin (which is what happened) there is nothing to worry about.  Just by responding you are exploiting white's timing.
+
+On the other hand, you lost a lot of points in the following moves because you played a number of moves that were gote and very small, when there were better moves to be played.  I have tried to point out these in the coming moves.]
+;B[pa];W[af];B[ag];W[ae];B[bh];W[na];B[qb];W[nc];B[nd];W[me]
+;B[mc]C[This move I am pleased with. I sacrifice 3 stones in order to defend at P14 in sente.]
+;W[mb];B[lc];W[lb];B[le];W[ld];B[lg];W[kf];B[of]C[>>>You could have pushed instead of defending.  That would have made it worth a lot more.]
+;W[kg];B[hm];W[mm];B[fg]C[This move I am not so pleased with. I misread the push & cut so ended up with wasted moves.]
+;W[gg];B[gf];W[ge];B[ee];W[ed];B[hf];W[fe];B[hi];W[hh];B[ji]
+C[>>> This move was not worth it.  Better to play A6 or M6]
+;W[gm];B[gl];W[fs];B[gs];W[es];B[hr];W[jh];B[lm];W[am];B[al]
+;W[an];B[dm];W[mo];B[lp];W[om];B[ll];W[dn];B[li];W[nk];B[nj]
+;W[mh];B[nh];W[cm];B[bl];W[em];B[dl];W[pp];B[ol];W[oq];B[os]
+;W[el];B[ek];W[fm];B[hl];W[ii];B[ij];W[ki];B[kj];W[kh];B[mj]
+;W[go];B[ml];W[nl];B[lk];W[nm];B[mp];W[op];B[no];W[mn];B[ql]
+;W[ln];B[kn];W[oo];B[jj];W[ps];B[mr];W[fh];B[eh];W[eq];B[fp]
+;W[ep];B[de];W[sl];B[sk];W[sm]C[That sequence of endgame moves I did not feel went well for me. Not sure where I went wrong though.]
+;B[cd]C[This was not a profitable move; it was based on a miscount of liberties in that corner.]
+;W[bd];B[cc];W[bc];B[cb];W[bb];B[ba];W[db];B[tt];W[mi];B[lj]
+;W[ef];B[dg]C[>>>This move was not necessary.];W[tt];B[tt];W[tt]
+)
+(;W[oq]
+(;B[op];W[pr];B[pp];W[or];B[rr];W[rq])
+(;B[pp];W[op];B[pr];W[oo])
+(;B[or];W[nq];B[op];W[pp];B[pr];W[mq];B[mp];W[lp];B[lq];W[lr]
+;B[mr];W[kq];B[nr];W[lq];B[nn];W[rr])))

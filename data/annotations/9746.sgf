@@ -1,0 +1,201 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.16]
+
+PB[vel]
+BR[12k]
+PW[GreyWolf]
+WR[11k]
+KM[0.5]
+DT[2015-04-24]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[B+26.5]
+TM[1800]
+OT[25/600 Canadian]
+RU[Japanese]
+
+C[Hi, I'm andre8s and I'm currently ranked 5k in the EGF. Thank you for posting this game, this was an interesting fight with plenty of stuff for studying. At the end you played more precisely than black and almost won by a very large margin. However a single misread can always cost an already won game...
+
+I hope that I can show you some basic shape problems within this review. There are several situations where you let your opponent push through a narrow gap between your stones. Also, you have a tendency for leaving problematic cuts unprotected. This leads to multiple weak and disconnected groups that are very difficult to care for simultaneously. As kind of compensation, your opponent had a tendency of playing many overcautious slow moves and giving away sente. 
+
+If you could get rid of these shape problems in future games, I think this will already significantly improve your strength by several stones. I made further comments within the following moves (until move 224 whereafter the game is essentially decided), please take them with a grain of salt as I'm not an expert and please do not hesitate to contact me for further discussion.
+
+Maybe the following pages give some further helpful hints:
+http://senseis.xmp.net/?SmallGaps
+http://senseis.xmp.net/?SqueezingOutTheToothpaste
+http://senseis.xmp.net/?PushingFromBehind
+
+Finally, I have some "homework": ;-)
+- On move 38 you are trying to rescue three stones. Can you see how black can anyway kill them unconditionally in move 39?
+- After you missed your chance to make black resign in move 220, black captures a single white stone in a ko in move 223. Imagine that you somehow win this ko fight, then you could still capture a few black stones and live in the corner. Can you find a ko threat in move 224 which black should not ignore? Then - after black answers and you take back the ko - what would be _his_ biggest threat? How do you think the ko fight would end and how do you assess the game situation thereafter?]
+;B[pp];W[dd];B[pd];W[dq]
+(;B[rb]C[I'm not an expert in Fuseki but this looks like a misclick.]
+;W[cj]
+(;B[cm]LB[fc:D][jd:A][pj:B][jp:C]C[There are still plenty of big points at the open sides. IMHO No need to invade that early.]
+
+(;W[co]C[Good. Now, b cannot easily make a base at the side.]
+;B[bo];W[bp];B[bn]
+(;W[bl]TR[cp]C[But this is premature. Black can still escape towards the center and/or press you down on the second line. Further, you have a weakness at C4. As long as your own surrounding groups are weak, attacking can severely backfire. 
+
+If your corner is be more solid and if there are more white stones in the center this would be a good killing move.]
+;B[cl];W[bk];B[ck]TR[bk][bl]C[Black pressed you down and can easily escape towards the center, if needed.]
+;W[nq];B[cp]C[Black spotted the weakness...];W[cq];B[dp]
+(;W[do]C[see variation...];B[ep];W[eq];B[bq];W[jq];B[em];W[fp]
+;B[eo]
+(;W[en]C[This seems a major mistake. This move presses the already alive black stones into "your" central area. See also:
+
+- http://senseis.xmp.net/?SqueezingOutTheToothpaste
+- http://senseis.xmp.net/?SmallGaps];B[fo];W[fn];B[go]TR[fn]
+[fp]SQ[fo]C[The marked shape, where black is pushing through a narrow white gap, is almost always a bad shape for white (http://senseis.xmp.net/?SmallGaps ), because it cuts your stones into separate pieces. This happens a few more time in this game.]
+;W[gp];B[dn];W[gn];B[ho];W[hp];B[hn];W[fl]LB[jd:A][dj:D][qn:B]
+[qq:C]C[The F6 stones are not that useful (they can only run in neutral area and black's group is alive anyway). Further, black can still unconditionally kill them if he wants. I marked a few possible moves which I would give higher priority.]
+;B[fm];W[gm];B[cn]C[Capturing dead stones like this without urgent need is worse than a pass (it's essentially -1 points in gote). Black is kind and gives you an extra move for free.]
+;W[el];B[dm];W[gl];B[ip]
+(;W[dk];B[iq]TR[hp][jq]SQ[ip]C[Shape alert again. In this case it's a significant disaster for the whole lower white side.]
+;W[hr];B[ir];W[jr];B[hq];W[gr];B[gq];W[fq];B[jp];W[kp]
+(;B[io]C[Black's problem seems to be slow play and inefficient shape, e.g. two "empty triangles" in this case (http://senseis.xmp.net/?EmptyTriangle).]
+;W[br];B[ap]
+(;W[ar]
+(;B[aq];W[qq]C[Locally good move, but the K3 group is still almost dead.]
+
+(;B[ko]
+(;W[lo]TR[lp][kq]C[So many cuts... ;-)];B[kq];W[lp];B[kr];W[lr]
+;B[js]C[Black really should avoid such slow plays.];W[lq];B[hs]
+;W[fs];B[es];W[ds];B[is];W[kn]C[Good move - increases w's center influence.]
+;B[cs]C[Very strange.];W[dr];B[gs];W[fr];B[jo]
+(;W[km];B[np];W[op];B[oo];W[oq];B[qo];W[pn];B[po]
+(;W[on];B[qn]
+(;W[no]C[Captures a stone but leaves a cut.]
+(;B[pq]
+(;W[mc]
+(;B[im];W[il];B[jl];W[jm];B[hl];W[ik];B[hm];W[hk]TR[bj][dj]
+[gk]C[Due to black's slow play you transformed the formerly "obsolete" stones in something which starts looking like a wall. However there are still cuts to worry about.]
+
+(;B[kk];W[ll];B[kl];W[lk];B[kj]LB[kj:2][lk:1]C[Such sequence is called "pushing from behind", http://senseis.xmp.net/?PushingFromBehind]
+;W[kh];B[lj];W[mj];B[ji];W[hi];B[ii];W[hh];B[jh];W[jg];B[li]
+
+(;W[lh];B[mi]TR[lh][mj]SQ[li]C[Shape alert];W[nj];B[ni];W[oj]
+;B[oi];W[pi];B[ng];W[nh];B[oh]TR[nh][pi]SQ[oi]C[Guess what... ;-)]
+;W[mh];B[pg];W[lf]
+(;B[mf];W[mg]C[This removes a liberty of your own group.];B[me]
+;W[nf];B[og];W[ne];B[le];W[nd];B[kf];W[kg];B[lg]C[Black gives away sente.]
+;W[ig];B[je];W[kd];B[ke];W[jd];B[ie]
+(;W[hd];B[id];W[hc];B[he];W[ge];B[ic]TR[hc][hd][jd]SQ[id]C[Again, black pushed through. The white stones to the right are almost dead now.]
+;W[jc]
+(;B[ib];W[jb];B[gf];W[fe];B[hg];W[ih];B[gh];W[fg];B[gg]
+(;W[fi]TR[fg][hi]SQ[gh]C[This is another shape to note.];B[gi]
+;W[gj];B[fh]
+(;W[eg];B[eh];W[ei];B[dh];W[cg];B[dg];W[df];B[ch];W[bg];B[bh]
+;W[bi];B[ag];W[be];B[ef];W[ff];B[cf];W[bf];B[de];W[ee];B[df]
+;W[cd]
+(;B[aj];W[ai];B[ah];W[ci];B[di];W[dj];B[dl];W[fk];B[hb];W[fc]
+C[Good shape!];B[fb];W[gb];B[ga];W[eb]
+(;B[gd]C[A> Mistake by b.];W[gc];B[ec];W[fd];B[db];W[fa];B[dc]
+;W[ed];B[cc];W[bc];B[bb];W[da];B[cb];W[ab];B[ad];W[ca]C[In your last ~10 moves you got the upperhand - black basically lost the game here!]
+;B[bd]
+(;W[ce];B[ac];W[ba];B[aa];W[fb]C[Missed an opportunity here. End of comments.]
+;B[ea];W[da];B[ca];W[af];B[hf];W[ld];B[ha];W[md];B[ae];W[lf]
+;B[ea];W[ki];B[gd];W[jj];B[qi];W[qj];B[ph];W[pj];B[ri];W[rj]
+;B[si];W[qm];B[rm];W[rl];B[ql];W[pm];B[rk];W[qk];B[sl];W[pl]
+;B[rl];W[sj];B[ro];W[qh];B[qg];W[rh];B[rg];W[sh];B[sg];W[pr]
+;B[or];W[qr];B[rq];W[qp];B[rp];W[rr];B[sq];W[sr];B[sn];W[nr]
+;B[oc];W[nb];B[ob];W[lb];B[nc];W[ma];B[oa];W[na];B[pe];W[ja]
+;B[of];W[lg];B[oe];W[am];B[an];W[bm];B[mk];W[ml];B[mp];W[mo]
+;B[ls];W[ms];B[ks];W[od];B[pc];W[jk];B[tt];W[tt]TW[ka][la][kb]
+[mb][kc][lc][jh][ii][ji][qi][ri][si][aj][bj][ej][fj][hj][ij]
+[ak][ek][gk][mk][nk][ok][pk][al][nl][ol][lm][mm][nm][om][ln]
+[mn][nn][mp][np][mq][cr][er][mr][or][as][bs][cs][es][ns][os]
+[ps][qs][rs][ss]TB[ba][da][fa][pa][qa][ra][sa][ab][eb][fb][gb]
+[pb][qb][sb][bc][fc][gc][hc][qc][rc][sc][cd][dd][ed][fd][hd]
+[qd][rd][sd][be][ce][ee][fe][ge][qe][re][se][af][bf][ff][pf]
+[qf][rf][sf][bg][cg][eg][fg][sm][rn][ao][co][do][so][bp][sp]
+[jq][jr])
+(;W[ba];B[ce];W[ac]C[Yep, there is nothing, black can do.]))
+(;B[gc];W[gd];B[ed];W[gb];B[ij];W[hj];B[gc]C[Big annoying ko...]
+))
+(;B[gd]C[This still looks very dangerous.];W[gc];B[ed];W[fd]
+;B[ec];W[fc];B[eb]C[Threatens to connect via F19 or H19, see http://senseis.xmp.net/?FirstLineOgeimaConnection.]
+;W[fb];B[fa];W[ga];B[ea];W[hb];B[ia];W[dc];B[ha];W[db];B[gb]
+C[huge ko fight]))
+(;W[eh]C[A> As you noted, this does not work well.];B[ei];W[fj]
+;B[eg]))
+(;W[ff]C[This is probably best in the given situation.]
+(;B[eh])
+(;B[fi];W[eh]))
+(;W[ei]C[A> Normally, the keima avoids the weakness of the shape mentioned in move 164.]
+;B[fh];W[eg];B[eh];W[dh];B[ff];W[ef];B[gd]C[A> However the situation is still impossible due to the shape problem before.]
+))
+(;B[jb];W[kb];B[hb];W[gc];B[lc]
+(;W[lb];B[ld];W[kc];B[nb]C[IMHO white dies first.])
+(;W[ld];B[md];W[kc];B[lb])))
+(;W[hc]C[More solid.];B[id];W[ic]C[b cannot push through as in the game]
+))
+(;B[pj];W[pk];B[qj];W[qi]
+(;B[qk];W[pl];B[ri])
+(;B[ok])))
+(;W[nh]TR[mk][lm][ln]C[Locally, a keima like this often avoids the shape problem (however you should keep an eye also on the cutting points below).]
+)
+(;W[cc]C[Globally, you can secure the corner and see how black will try to reduce your moyo.]
+))
+(;B[bj]C[One example...]
+(;W[ci]C[correct response])
+(;W[bi];B[dj];W[ci];B[ek];W[dl];B[gk]C[white got tricked])))
+(;B[pr]TR[oq][qq]SQ[pq]C[Shape alert again... Costs quite some points and - more important - the black stones are now completely safe in the corner. All your potential options for harrassing them later are gone!]
+))
+(;W[pr]C[Blocking this again feels urgent.];B[nn]C[Unfortunately, b can also reinforce this way.]
+))
+(;B[nn];W[mp];B[om]C[This is a disadvantage of the last move.]
+))
+(;W[nn];B[no];W[mn]C[I would like a solid wall more.]))
+(;W[qm]C[If you block the escape route at the side, black still looks troublesome.]
+))
+(;W[pn]C[Maybe such move will put more pressure on black. If white swallows that stone, the corner would get really huge. Even if b survives here, white would get a big wall facing the center. 
+
+--> Multipurpose move.]))
+(;W[lp]))
+(;B[pq]C[If b played the usual joseki ...];W[qp];B[po];W[pr]
+;B[or];W[qr];B[oq];W[qn];B[kq];W[kr];B[lq];W[lr];B[mq];W[mr]
+;B[np];W[nr];B[ko];W[is]C[... the result would be not that great for white.]
+))
+(;B[js]C[The right side still looks very vulnerable.];W[ks]
+;B[kr];W[is];B[kq];W[js];B[ls];W[hs];B[fr]C[Just an example.]
+))
+(;W[lp]C[Now would be a great time to reinforce also the right side.]
+))
+(;B[js]C[Black can separate white here. At least one of both sides is very likely to die now - all thanks to the broken shape in move 47.]
+;W[io];B[jo];W[in];B[im];W[jn];B[kn]C[If w tries to cut, he will be laddered.]
+))
+(;W[iq]CR[fq][gq][hq][dr][er][fr][gr][hr][ir][jr][ds][es][fs]
+[gs][hs][is][js]LB[lq:A][qq:B]C[This is for sure the only move in this situation. Except for the points, all the white stones at the bottom are now more or less connected (well, black can try to invade at A but this seems not very efficient, and in case of emergency you still have "plan B"). Therefore you wouldn't need to pay more attention to the lower side and would be free to play big moves elsewhere, e.g. upper or right side.]
+))
+(;W[fo]C[You can still use the dead stones to get outside momentum and block black's way into the center.]
+;B[en]
+(;W[hq]C[Now - as black already played B3 - the cut on F3 would be more dangerous, so white should play more cautiously.]
+)
+(;W[jo]C[This looks tempting, however the cut at F3 is dangerous. I am not sure if I missed some important variations, though.]
+;B[fq]
+(;W[fr];B[gq];W[gr];B[hp];W[ho];B[go];W[gn];B[fn]C[A> I cannot count how often I got tricked by a snapback in my games... ;-)]
+)
+(;W[gq]C[Wrong way];B[fr]
+(;W[er];B[gr];W[hq];B[es];W[br];B[cr];W[aq];B[dr];W[bq];B[bs]
+;W[hr];B[ar]C[A> ko...!])
+(;W[gr];B[er];W[br];B[cr];W[aq];B[dr];W[bq];B[bs];W[fs];B[ao]
+;W[es];B[ap])))))
+(;W[ep];B[do];W[eo];B[dn];W[ip]C[A> Maybe forcing black like this and sacrifying the useless C3 stone is still good for white. It would also fit better with to your O3 stone (I'm not sure for the optimal place, though).]
+;B[eq]C[Such cuts should be always evaluated in advance.];W[fq]
+;B[er];W[fr];B[dr];W[cr]C[Unless black played b3 it seems to problem.]
+))
+(;W[cp]C[There are other ways to defend the cut, this is the easiest one.]
+;B[bk];W[bj];B[ck]
+(;W[dj]C[black's group is still not locally alive while you can easily benefit at both sides (upper left and lower side).]
+)
+(;W[dk]C[Maybe "Hane at the head of two" is even better, but I'm not sure here since there is already a stone on C7. It will probably end in gote.
+
+(see also http://senseis.xmp.net/?HaneAtTheHeadOfTwoStones).]
+;B[dl];W[el]C[That double hane would be the "normal" continuation ...]
+;B[em]C[... but with the C7 stone it does not make sense. Black gets very good shape and sente.]
+)))
+(;W[cp]C[With this move b still cannot easily make a base and cannot attach underneath. It looks more solid but maybe it's too slow, I'm not sure...]
+))
+(;B[co]TR[cl]C[If black really wants to invade I would personally like this point more. If white defends the corner there is still a two-space extension available.]
+))
+(;AB[nc][qe]C[This would be a good corner enclosure shape. Note that for a 4-4 stone, two more stones are needed to secure the corner territory. Therefore, securing corner territory is _not_ first priority when starting with a 4-4 stone.]
+))

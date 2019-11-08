@@ -1,0 +1,112 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.17]
+
+PB[goCoder42]
+BR[13k]
+PW[KoriGobot]
+WR[15k]
+KM[0.5]
+DT[2011-03-12]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[W+61.5]
+TM[180]
+OT[2x75 byo-yomi]
+RU[Chinese]
+
+C[KoriGobot [15k\]: GTP Engine for KoriGobot (white): KoriGoBot version 0.93c depth: 13
+
+----------------------------------------------------------------------------------
+
+
+Hi Joe Butts,
+
+my name is Marc and I am your reviewer of this game.
+I will only do the review for black :-).
+
+I think the main Problem of black was the bad opening
+and quite a lot slow moves in the middle game.
+(you will find the last comment on move 105).
+
+Recommendation
+--------------------------
+
+- You should study opening moves!
+  The opening is the basis for a good game.
+
+- Keep on telling yourself the following question at nearly each move:
+  "Does my opponent need to react on this move?"
+   If the answer is no, your move might be too slow.
+
+- Study some "Life and Death" problems.
+  (e. g. on goproblems.com)];B[pp];W[qd];B[dp];W[dc];B[oc];W[ce]
+;B[nd]LB[kc:2][jd:1]TR[dc][ce]C[Black should respond with 1 or 2 instead (because of the marked stones)  O-16 is too slow in this case.]
+;W[qh];B[ck]LB[ic:2][jc:1]TR[oc][nd]SQ[dc][ce]C[Well, I would play 1 or 2 here because of the triangle marked stones are not that strong at the moment.
+Another reason is that black must prevent white from playing 1 or K 16 (because of whites square marked stones).]
+;W[ch];B[kq]LB[ic:2][jc:1]C[Again black should play 1 or 2 instead.]
+;W[ql];B[qn];W[hc];B[lc]LB[jc:1]C[Too slow.... (Black should respond with 1)]
+;W[jc];B[le]LB[qb:1]TR[qd]C[Black should also consider 1 (maybe a bit later) because the triangle marked stone is then in danger (when white
+does not repsond).];W[hq];B[hp]LB[fq:1][nq:2]TR[hq]SQ[qn][pp]
+[kq]C[Why not playing 1 or 2?
+
+With 1 white has to respond with 2 black makes some good mojo.]
+;W[fq];B[fp];W[kb];B[kd]C[This move is okay...];W[rm];B[pm]
+LB[rn:1]C[In this case black should respond with 1 instead to make some points and
+in order to prevent white from invading!];W[qq];B[rp];W[oq]
+;B[np];W[rq]
+(;B[pq]TR[pm]C[Black could try it with Q2 (but will fail at the end).
+
+The major mistake was R7 (instead of S6).];W[pr];B[nq];W[or]
+;B[qp];W[cq];B[dq];W[co];B[cp];W[cr];B[dn]LB[bq:1]C[I would respond with 1 insted in order to cut white out.]
+;W[bp];B[dr];W[bo];B[eo];W[cm];B[cn];W[bn];B[di];W[bm];B[dg]
+;W[cg]C[Blacks plan is obvious... 
+He wants to make a lot of terretory at the center....
+But he forgets, that center terretory is not easy to get.];B[ci]
+;W[bh];B[ai]LB[ee:3][qf:1][nr:2]C[This move is very very slow.
+
+Black should play at 1, 2 or 3 instead.];W[er]
+(;B[ep]TR[fq][hq][er]C[Black should play D1 instead (even if it leads to a ko fight. 
+When black couldn't kill the marked stones the game will be over.]
+;W[ds];B[gq];W[fr];B[iq];W[hr];B[gr];W[ir];B[jr];W[gp];B[go]
+;W[ip];B[jq];W[gs];B[gp];W[hs];B[io];W[jp];B[kp];W[jo];B[jn]
+;W[ko];B[lo];W[kn];B[km];W[ln];B[lm];W[mn];B[im];W[pc];B[nm]
+;W[mm];B[ml];W[nn];B[on];W[nl];B[om]C[The result of the ladder is not bad for black, but the game is already over!
+
+Black is not able to make enough points to change the game.]
+;W[ll];B[mk];W[pb];B[ee];W[kl];B[jm];W[ol];B[pl];W[nk];B[no]
+;W[pk];B[mo]LB[lh:2][nj:1]C[Why killing white?
+
+The white group is already dead (black could thake the group whenever he wants),
+so black throws another move away.
+
+The next move would be  and then 2 (in order to try to make some big save terretory).
+
+I will stop the review here because black has already lost the game!]
+;W[fd];B[ko];W[mj];B[dd];W[lk];B[mm];W[cd];B[ec];W[db];B[ed]
+;W[ik];B[df];W[cf];B[ah];W[rk];B[bg];W[bf];B[ag];W[gl];B[hl]
+;W[hk];B[gk];W[gm];B[fl];W[fn];B[fk];W[fm];B[em];W[ek];B[ej]
+;W[gj];B[el];W[hm];B[il];W[jk];B[dk];W[fh];B[eh];W[hi];B[nj]
+;W[ok];B[lj];W[mi];B[oj];W[pj];B[ni];W[nh];B[li];W[oi];B[nj]
+;W[jh];B[jg];W[lh];B[kh];W[kg];B[ki];W[ji];B[kf];W[lg];B[of]
+;W[pf];B[pe];W[ig];B[jf];W[bq];B[js];W[fs];B[gd];W[gc];B[fc]
+;W[fe];B[ge];W[ff];B[fg];W[gf];B[he];W[ef];B[eg];W[gg];B[gh]
+;W[hg];B[fi];W[de];B[id];W[hh];B[jj];W[ic];B[pg];W[qf];B[qg]
+;W[rg];B[rf];W[sg];B[qe];W[rd];B[re];W[rh];B[mg];W[kj];B[pd]
+;W[ph];B[rn];W[qr];B[sp];W[nr];B[mr];W[nb];B[ob];W[lb];B[mb]
+;W[mc];B[ps];W[ma];B[os];W[qs];B[ns];W[ms];B[os];W[bl];B[ls]
+;W[ns];B[hn];W[lr];B[mq];W[ks];B[kr];W[ls];B[lq];W[bk];B[bj]
+;W[oa];B[if];W[bb];B[lf];W[rb];B[tt];W[sq];B[jd];W[fj];B[ng]
+;W[gi];B[fh];W[dh];B[ei];W[op];B[oo];W[qm];B[sn];W[bi];B[tt]
+;W[af];B[aj];W[ak];B[cj];W[do];B[bs];W[es];B[cs];W[br];B[is]
+;W[as];B[eq];W[cs];B[tt];W[dm];B[en];W[dl];B[cl];W[sm];B[tt]
+;W[mh];B[sf];W[jp];B[tt];W[kc];B[ld];W[li];B[tt];W[nc];B[od]
+;W[md];B[me];W[sd];B[tt];W[qo];B[ro];W[se];B[tt];W[hd];B[tt]
+;W[hf];B[ie];W[mn];B[ln];W[lp];B[tt];W[jl];B[tt];W[oh];B[tt]
+;W[og];B[tt];W[tt]TW[aa][ba][ca][da][ea][fa][ga][ha][ia][ja]
+[ka][la][na][pa][qa][ra][sa][ab][cb][eb][fb][gb][hb][ib][jb]
+[mb][qb][sb][ac][bc][cc][ec][fc][qc][rc][sc][ad][bd][dd][ed]
+[ae][be][ee][ih][kh][sh][ii][ki][ni][pi][qi][ri][si][hj][ij]
+[jj][lj][nj][oj][qj][rj][sj][kk][qk][sk][al][rl][sl][am][an]
+[ao][ap][aq][ar][rr][sr][bs][os][ps][rs][ss]TB[je][ke][ne][oe]
+[mf][nf][pf][qf][dj][ek][gl][fm][gm][hm][fn][gn][in][kn][mn]
+[nn][pn][fo][ho][jo][po][qo][so][ip][jp][lp][mp])
+(;B[ds];W[ep];B[gp];W[do];B[eq]))
+(;B[pr];W[pq];B[nr];W[or];B[nq];W[ps];B[qr];W[rr]))

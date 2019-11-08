@@ -1,0 +1,147 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.17]
+
+PB[BillW]
+BR[13k]
+PW[amiego]
+WR[12k]
+KM[0.5]
+DT[2013-01-06]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[B+1.5]
+TM[1800]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+C[Hello.
+
+I'm Alexander, 2k on KGS playing as enk01 and i'll be reviewing your game for white.
+I'll answer your questions to best of my abilities, but please take my advices and variations given with a grain of salt -- i'm as often incorrect with my views on go as any other 2k is :)]
+;B[pd];W[dd];B[pq];W[qo]LB[po:A][qo:B]C[You wanted to know if this move was a mistake.
+In my opinion it is not. By statistics A is played a more often in this position, but B is certainly possible.
+
+Both A and B prevent b from playing a Chinese opening. If this was your objective, you did well.
+
+A makes it easier to move this stone into a center, B gives better possibilities for settling this stone locally.]
+;B[po];W[pn];B[oo];W[cp]LB[qn:A][ep:B][fp:C]TR[pn][qo]C[You were also unsure about this move.
+
+In my opinion this move is a mistake. Black can cut at A right away. White cant expect good result after this locally. Or black can approach at B or C developing bottom nicely.
+
+All purpose of marked stones was to deny black a Chinese opening. Playing at C4 contradicts this idea.
+And basically from a "common go sense" it's usually bad idea to leave joseki unfinished. One should have a really good reason to do this. Here, i think, you don't have one.]
+(;B[qp]C[Too mild in my opinion];W[ro];B[rp];W[nd]LB[nc:A][qf:B]
+[qn:C]C[This approach is bad.
+
+Both globally and locally. Black should still cut at C. White spent two more moves there but is still weak.
+B corner got even bigger for free.
+
+Now you've decided to approach a corner.
+First of all, generally, unless it's really complicated variation or some special situation locally -- some extra stones for example, the player who approaches a corner and plays out a joseki ends in gote. And black can even just ignore this.
+
+This aside, high approach to 4-4 stone is generally an emergency measure, when you desperately need some stones there, to settle a weak group for example. So, on such an empty board, A or B are only feasible variations.
+
+But you should still finish in lower right corner.]
+(;B[pf]
+(;W[qj]LB[nd:A]C[To see why A is bad, compare with variation given below.]
+(;B[pi]LB[nc:B][qh:A]C[Black should play at A or B.];W[pj]LB[qi:A]
+C[Wrong direction. A is better. White is settling his group while b loses points and base.]
+;B[qi];W[oi];B[oh];W[ni];B[nh];W[mh]LB[oj:A][qn:B]TR[ni][oi]
+[pj][qj][pn][qo][ro]C[Not good.
+
+White marked stones are weak -- too many cutting points.]
+(;B[mg];W[lh];B[lg];W[ld];B[ep];W[gp]TR[lg][mg]C["- move 28 approaching towards center and building moyo"
+
+It's not doing any of this.
+This tight pincer is making b run into center. And its rather hard too build moyo now with black marked stones looking into center.]
+;B[en];W[cn];B[ip]LB[cq:A]C[usually black plays at A here, but i think this move is good, considering black thickness in lower right]
+;W[gn];B[el];W[in];B[lp];W[jo]C[Not good. Doesn't help white shape, but black is making points for free -- so called "thank you move"]
+;B[jp];W[ln];B[ko]LB[oj:C][nm:A][on:B][qn:D]C[Bad. Black can play at A or B. Combined with possible cuts at C and D b can expect good outcome in this fighting.]
+;W[kn];B[io]C[Bad again.];W[jn];B[lo]C[Absolute gote];W[dj]
+LB[cl:A][dq:B][eq:C]TR[lg][mg]SQ[ld][nd]C[Not good. if you want to attack this black group, just jump at A or play B or C.
+This move is not building moyo, as black marked stones are poking in center, and white marked stones have no base and can be easily attacked.]
+;B[ej]LB[cm:B][cq:A]C[Bad. Black should attach at A or B. This way black just helps white make territory on fourth line pushing from behing. Never push from behind.]
+;W[di];B[ei];W[eh]C[Not good.];B[dk]C[Because of this. White two corner stones are now separated]
+;W[ck];B[cl];W[bk];B[bl];W[fk];B[ek];W[bi]
+(;B[cm];W[bn];B[dn];W[dq];B[eq];W[dr];B[er];W[gr];B[ir]LB[cc:B]
+[jc:A]C[Not good. Black should approach top right corner or exchange A for whatever white replies and the come into a corner at B (such corner invasion will likely leave black with sente).]
+;W[hq]LB[gc:B][pc:A][nm:C][on:D]C[Not good. Very small move. B can just ignore. White A, B, C or D are much bigger.]
+(;B[iq]
+(;W[qc]LB[pc:A]TR[ld][nd]C[Locally it's good move, But globally, it makes white marked stones weak. You shouldn't invade when you have weak (or not-so-strong group) nearby.
+A is better in this case.];B[pc];W[qd];B[qe];W[re];B[rf];W[pb]
+;B[ob]
+(;W[oc]LB[pc:A]C[A mistake. Compare result with just playing white A without invasion.]
+;B[qb];W[nb];B[pa];W[oe];B[pe];W[of];B[og];W[ri]LB[pg:A]TR[pi]
+[qi]C[Not good. Black can ignore and even give two marked stones just connecting at A and saving important stones.]
+(;B[qh];W[mn];B[mo];W[nn];B[on];W[om];B[qn];W[pm];B[rn];W[qm]
+LB[ic:A][kh:B]C[Small. 
+Biggest move is around A still. or B at least];B[rm];W[rl];B[fl]
+;W[sm];B[so];W[no];B[np];W[gk]C[Small. you don't need this stone at all.]
+;B[gl];W[hk];B[hl];W[il];B[fn];W[hn];B[dp];W[bq];B[do];W[gc]
+C[Finally.];B[co];W[bo];B[fo];W[go];B[kh];W[li];B[ki];W[lj]
+;B[kj];W[kk];B[fh];W[ii]LB[eg:A][jk:B]C[Not good. A is much bigger. you'd be getting territory by 5th line. That's great.
+And locally B is proper defense. White have too mancy cutting points and need to play tightly.]
+;B[eg];W[dh];B[gi]
+(;W[ij]LB[cd:B][fg:A]C[Not needed. White should cut at A or just play at B. Mind that without B corner is still open for invasion at C17.]
+;B[od];W[nc]LB[cd:B][ce:A][dg:C]C[Not good. Too small compared to A, B or C.]
+;B[ne];W[nf]LB[me:A]C[A mistake. Should've played at A. Or, again, previously marked big moves.]
+;B[me];W[le];B[mf];W[kg];B[jg];W[kf];B[ih];W[hh];B[hg];W[hi]
+;B[gh];W[jf];B[if];W[jd];B[he];W[dg];B[ef];W[df];B[ee];W[ed]
+;B[gd];W[fd];B[fe];W[hd];B[ge];W[ie];B[md]
+(;W[mc]LB[lc:A]C[The losing move. This should be at A. No cut that way.]
+;B[lc];W[lb];B[kc];W[jc]LB[kb:A];B[na];W[kb];B[mb];W[kd];B[mc]
+;W[hc];B[rh];W[rj];B[la];W[jb];B[de];W[ce];B[ds]
+(;W[cr];B[sn];W[sl];B[sh];W[hs];B[is];W[fs];B[es];W[am];B[al]
+;W[jh]C[Good tesuji.];B[ji];W[jj];B[ig];W[jh];B[gj];W[fj];B[fi]
+;W[hj];B[gm];W[hm];B[ak];W[aj];B[bm];W[an];B[hr];W[gs];B[hp]
+;W[gq];B[cs];W[bs];B[ka];W[ja];B[ma];W[cc];B[si];W[sj];B[tt]
+;W[tt]TW[aa][ba][ca][da][ea][fa][ga][ha][ia][ab][bb][cb][db]
+[eb][fb][gb][hb][ib][ac][bc][dc][ec][fc][ic][ad][bd][cd][id]
+[ae][be][je][ke][af][bf][cf][ag][bg][cg][ah][bh][ch][kh][ai]
+[ci][ji][ki][mi][bj][cj][kj][mj][nj][oj][ik][jk][lk][mk][nk]
+[ok][pk][qk][rk][sk][jl][kl][ll][ml][nl][ol][pl][ql][im][jm]
+[km][lm][mm][nm][ao][ap][bp][aq][cq][ar][br][as]TB[oa][qa][ra]
+[sa][nb][pb][rb][sb][nc][oc][qc][rc][sc][nd][qd][rd][sd][oe]
+[re][se][ff][gf][hf][nf][of][qf][sf][fg][gg][ng][pg][qg][rg]
+[sg][ph][dl][dm][em][fm][eo][qo][ro][kp][mp][op][pp][sp][jq]
+[kq][lq][mq][nq][oq][qq][rq][sq][jr][kr][lr][mr][nr][or][pr]
+[qr][rr][sr][js][ks][ls][ms][ns][os][ps][qs][rs][ss]C[Basically, you've lost this game because of leaving too many weaknesses for your opponent to use and playing non-important points instead of important ones.
+
+Whenever you are playing a move, take a pause and consider -- can you spend this move elsewhere on the board with more use? is there more important points to take? What move would your opponent play if this would be his turn? Likely it's a move that you should consider playing (or playing somewhere preventing your opponent from playing that very move).]
+)
+(;W[cs]LB[cr:A]C[You can just play here. More points this way. Black A doesn't work.]
+;B[cr];W[es]
+(;B[br];W[cq];B[aq])
+(;B[bs];W[ds];B[br];W[cq])))
+(;W[lc];B[mc];W[mb];B[na];W[lb]))
+(;W[fg]C[You can just cut.]))
+(;B[jd]LB[ri:A]C[No good continuations for white A];W[qg];B[pg]
+;W[ph]))
+(;W[qb];B[nc];W[rd]TR[ld][nd]C[White alive. But marked stones are severely weakened. Invasion wasn't worth it.]
+))
+(;W[pc];B[qc];W[oc];B[qb];W[ic]LB[cc:A]C[White group is settled. Though black will probably invade into a corner at A now.]
+))
+(;B[nc];W[mc];B[oc];W[iq]C[Nothing there.]
+(;B[jq])
+(;B[jr];W[kq];B[jq])))
+(;B[bo]C[Black should play here]))
+(;B[oj]C[B should cut]))
+(;AE[nd][pf]C[Imagine you played here.];B[pf]LB[nd:A]C[And black plays here. Will you answer at A now? Highly unlikely.
+
+This kind of analysis -- changing the order of moves -- may help you to better choose your moves or sequences of moves.]
+))
+(;W[pc];B[qc];W[oc];B[qb];W[kc];B[qi]C[Possible variation.
+Black clearly is better off.]))
+(;B[nc];W[mc];B[oc];W[md];B[pf];W[id];B[qi]C[Another possible variation.
+Black has more territory, but upper right corner has come aji if white will have stones around r12 at some point of a game.
+
+White can try to build up a moyo, but C4 is not that well located for moyo]
+))
+(;B[qn]C[I can't find a good result for white after this]
+(;W[pm]
+(;B[ro];W[qp])
+(;B[rn];W[ro];B[qp];W[rm];B[rp];W[qm];B[so];W[pj]LB[qg:A][fp:B]
+[fq:C]C[Black corner is really big. And black has sente. So he can play at A, B or C. game would be good for Black]
+))
+(;W[qm];B[rn];W[rm];B[on];W[pm];B[ro];W[qp];B[rp];W[qq];B[qr]
+;W[rq];B[rr];W[sn]
+(;B[pp];W[pi])
+(;B[sq]))))

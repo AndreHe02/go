@@ -1,0 +1,122 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.14]
+
+PB[stefan1985]
+BR[7k]
+PW[exswoo]
+WR[7k]
+KM[6.5]
+DT[2003-07-01]
+PC[The Kiseido Go Server (KGS) at http://kgs.kiseido.com/]
+RE[B+Resign]
+TM[1350]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+C[Hello exswoo,
+
+as you requested, I will do a review for white, especially looking at the fuseki.
+
+---
+
+-Hi.  I played White in this game and I was hoping you could review the first 100 moves or so of the game.  After that, it get's a bit silly with me making a comeback by killing my opponents group only to lose another group due to a silly mistake.
+
+However, I am very unsatisfied with the way I played in my opening and the early mid-game, so I'm hoping for some pointers.]
+;B[pd];W[dp];B[pq];W[dd]C[I want to start this review with a short recommendation. You say you almost always open with the same fuseki. It's nice to have a favorite opening, especially if you know its strength and its weaknesses.
+But if you wanna improve fast, you should drop this habit and try new things. Experiment with new patterns, try different fusekis from time to time. The habit of sticking to one particular opening will only slow  your improvement.
+
+---
+
+-I almost always open with the 2-ren sei];B[fc];W[cf];B[db]
+;W[cc];B[ic]C[Very solid and profit oriented play.];W[po];B[qm]
+LB[pm:A][on:D][ro:C][qq:B]C[Bommel:
+
+Here you have 4 possible answers, from A to D. The most important part is splitting the 2 black stones. If they are allowed to connect, White is at a disadvantage. I will analyse your choice (A) in detail later. B can get very tricky. D gives you a high position for fighting. Note that D also stops the 2 stones from linking up(see variation).
+
+I personaly dislike the choosen joseki A, I would suggest playing B (if you are strong at fighting) or D...
+
+---
+
+-This was a pincer I wasn't familar with.  I wasn't sure how to respond to it...]
+
+(;W[pm];B[pl]C[You can expect this answer, although there are other moves possible.]
+;W[om]C[The only move.];B[qn]C[Again the only move. Allowing White the perfect shape by letting him play R6 himself is unbearable for Black.]
+;W[qo]LB[qi:A][np:B]C[Up to here you follow a regular joseki pattern. Its important to break the black link. Now Black can choose between strengthening the right with a move around A, or help his corner stone with a move around B.]
+;B[pn]C[Cutting doesn't seem to be an option her for Black.]
+;W[on]LB[ql:A]C[now the cut at A is very painfull.];B[oo]C[This fight is hard to read, but you can always aim at R8, with ensures you a good position. I tried many variations with a friend of mine and we came up with good variation for White. It may not be the best, but good enough. (see variation)
+
+---
+
+-Wasn't sure how to respond to the cut.];W[op];B[no]
+(;W[oq];B[qk];W[pp]C[Because you missed playing S5, you must connect here with very bad shape...]
+;B[mm];W[lq];B[cn];W[cl]CR[dk]C[A pincer is a very good reply, especially with the stones around C14. Problem with the low pincer is it's weakness towards the center. The sequence resulting from this pincer gave Black a strong position in the center.
+
+Dealing with this thinkness can be very hard. That's why I would recommend pincering at D9 instead of C8.]
+;B[en];W[fp];B[dk]
+(;W[ck]LB[dm:A]C[No, this only strengthens Black. Following the standard joseki (see variation) Black ends in gote, because he must protect this defect. This is the best White can get after the low pincer.
+
+---
+
+-Should I have peeped first?];B[dj];W[cj];B[di];W[dm]C[This peep here isn't a real threat for Black, he can still invade the corner with the help of C6 if he gets cut.]
+;B[em];W[dn];B[cq];W[cp];B[bp];W[bo];B[bq];W[bn];B[er]C[Descending immediatly is a bad idea. Not only because it wasts a ko threat. It als strenghtens the corner without gaining something in exchange. Instead I would attach at F2. This way you can build a wall towards M3.
+
+---
+
+-A question about this extention.  Is it a good idea to decent down immediate to force it to defend, so should I always keep it in reserve as a ko threat? I tend to do the former...]
+;W[dq];B[dr]C[Yes, you feel the big black influence, the power radiating from his walls... but the game isn't lost yet...
+
+---
+
+-After this sequence, I realize that my overall position is getting worse and worse...]
+;W[nc];B[nd];W[md];B[ne];W[oc];B[pc];W[kc];B[pg]TR[di][dj][dk]
+[em][en]C[Very hard for White now, agreed... The F17 group is already alive, so it's no good target... The only possible target you can exploit is the marked group... it has no defined eyespace and must run if attacked... a good point for attack seems to be F9... but using this attack to turn around the game is a difficult task with endless possible variations...
+
+---
+
+-...and my group seems to live, but I seem to have strengthed black's right side to the point that the game seems decided already.
+
+How should I have played from here?];W[nn]C[bad, there's no way  White can win this fight...]
+;B[mo];W[fe];B[me];W[ld];B[nk];W[el]C[This attack seems strong after F15 is in place...]
+;B[dl];W[fl];B[gn];W[eo];B[gm];W[fj];B[cm];W[do];B[bm];W[co]
+;B[ci];W[bl];B[fh]TR[fj][el][fl]C[your stones are totally outnumbered, so this is an all or nothing fight... your goal must be to splitt the 2 groups and kill one of them... this is the only way I see to turn the game around now... The mistakes have been sooner, here you face the consequences.
+
+...
+
+....and what would've been the best way to deal with this?
+
+Thanks for your time.  This is the last comment from me :)]
+;W[ik]C[good, perfect extension... now Black must protect one of his group, you can aim at the other...]
+;B[jn];W[hh]C[Yes, this group is in troubles now, although I think it is still possible that it escapes...]
+;B[gi]
+(;W[hi]C[this is bad, there is a stronger tesuji to connect your stones (see Variation)...]
+;B[gj];W[gl];B[hj];W[hl];B[ij]C[you are cut apart, now the game is lost... I will not comment on the game any further, I think it's a good point to resign for White... For my final thoughts, go to the end of the game...]
+;W[in];B[im];W[hm];B[hn];W[io];B[gp];W[gq];B[hp];W[ip];B[hq]
+;W[fr];B[iq];W[kp];B[gr];W[fq];B[fs];W[hr];B[gs];W[es];B[ds]
+;W[fm];B[fn];W[ir];B[jq];W[jr];B[jp];W[jm];B[jo];W[il];B[kq]
+;W[lo];B[kr];W[lr];B[ls];W[mn];B[ol];W[kn];B[ns];W[eq];B[cr]
+;W[nr];B[os];W[ms];B[mr];W[mq];B[ms];W[pr];B[ef];W[ee];B[kj]
+;W[cb];B[eb];W[hc];B[hb];W[gc];B[gb];W[ec];B[jb];W[jc];B[id]
+;W[fd];B[fb];W[gd];B[hf];W[kf];B[le];W[ke];B[jd];W[kd];B[jg]
+;W[ps];B[ks];W[kg];B[mh];W[jh];B[ig];W[ki];B[ih];W[ii];B[hg]
+;W[jj];B[jk];W[ji];B[lh];W[gh];B[fi];W[gg];B[gf];W[ff];B[fg]
+;W[kh];B[fk];W[ek];B[ej];W[gk];B[cg];W[eg];B[dg];W[df];B[eh]
+;W[kb];B[ja];W[ib];B[hd];W[ie];B[je];W[jf];B[he];W[if];B[lk]
+;W[kl];B[kk];W[ll];B[ml];W[pb];B[qb];W[oa];B[rc];W[od];B[oe]
+;W[or];B[ko];W[lp];B[lm];W[js];B[ho];W[im];B[hs];W[ln];B[km]
+;W[mg];B[ng];W[mf];B[nh]C[You managed to win at the end, but the early midgame was bad... You shouldn't let your opponent build so much influence, try playing higher moves (compare high and low pincer in the bottom left for example)...
+
+I hope my explanations are usefull for you, feel free to ask further questions if necessary...]
+)
+(;W[hj];B[hi];W[ii];B[gj];W[gk]C[if Black tries to cut you apart, you get real nice shape...]
+))
+(;W[co]C[Here I would recommend following the foseki. it leaves White with a better result.]
+;B[bn];W[ck];B[dj];W[dl];B[el];W[cj];B[di];W[ch];B[dm]LB[cq:A]
+C[Black must protect this defect, so he ends in gote. Note that the corner is still open for invasion at A.
+
+The Center is now dominated by black, this is a result of the low pincer.]
+))
+(;W[ro]C[Descending here is important, it gives you the needed liberties for a possible fight later.]
+;B[qk]C[Black must connect here, or you cut immediately.];W[oq]
+C[White gets the whole corner (~20 points), and Black still has to care for his 2 cutting stones. Cutting at Q4 doesn't work for Black. You should try to save the 3 cutting stones in the following fight, otherwise Black gets huge center influence (as seen in the real game)...]
+))
+(;W[on];B[qo];W[qp];B[pp];W[qn];B[ro];W[rn];B[rp]C[the 2 stones are split in sente!]
+))

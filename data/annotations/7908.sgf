@@ -1,0 +1,53 @@
+(;FF[4]GM[1]SZ[13]ST[2]CA[UTF-8]AP[SGFC:1.17]VW[]
+
+PB[Onur]
+BR[16k]
+PW[The Many Faces of Go]
+WR[15k]
+KM[4.5]
+DT[2010-06-20]
+RE[W+17.5]
+RU[Japanese]
+
+;B[cj];W[kc];B[cc];W[kk];B[hc]SQ[hd][jd][fj][hj][jj][ek]C[Is it a good attack to play black 5?
+
+This isn't attack - it's extension. Corners with stone in 3,3 position are very safe, and H11 is too distant to threaten them. What you want at this point is either extending your framework.
+
+H9 is OK move. Extension like H10 or H4 would probably be better, as fourth line stones are more difficult to attack. Or something very safe like E3/F4 from which you'd either take lower side or whole left part of the board depending on white response.
+
+K10/K4 would actually attack white corner, and would be OK too, but they feel rather early for that now.]
+;W[fc]SQ[de][he][cf]C[And... what I must do against white 6 to defend correctly?
+
+C11 is much more secure than H11 - the most natural move would be one space jump to H9. An alternative would be building up from C11 to put pressure on the white invading stone with C8/D9 but white is a bit too far, and H11 is a bit too much in danger to be getting into that. H11 is a priority.]
+;B[ec]C[If you do that, white will almost invariably respond by extension with F10 or F12 - and this extension will strenghten it.
+
+Before - white F11 is weak. After E11/F12 exchange - white is stronger and H11 is in far more trouble.]
+;W[fb];B[fd];W[ed];B[ee];W[ek];B[dk]SQ[gc][dd][gd]C[Is black13 a good defence for the corner?
+
+Looking at corner only it's good. On the other hand top side is very urgent - both F11 or H11 are on verge on death and a move like G11/D10/G10 is worth a lot more than points in corner.]
+;W[el];B[dl];W[gd];B[dd];W[gc];B[hd];W[ge];B[ff]SQ[jb][ke][fh]
+[ej][jj]C[This move is too slow. If you abandon H11 without getting compensation and settle on a safe border now, you lose on points - and white groups are still weak at this point, but just a few moves away from becoming very strong. Any of the points marked would put more pressure on white, for greater profit.
+
+It's probably the last chance for stirring trouble with H11 group with K12 or L9 or such. E4/K4 will be good big moves for some more time.]
+;W[he];B[gf]SQ[fh][gh][ej][jj]C[More fighting spirit! G8 gets you some points but neither strengthens your stones nor threatens white.]
+;W[hf];B[gg]TR[fg]SQ[gh][gi][ej][jj]C[There's a saying that open triangles (like F8/G8/G7 with F7 empty) are bad. No matter what situation on board, a shape like that is almost always a bad idea - it is too slow, and a move like G6 or G5 would be twice as powerful (in addition to E4/K4 I mentioned before)]
+;W[jf];B[eh]SQ[ej]C[Is it a good defence to play black 27?
+
+It's not good. The correct move would be E4 - white would have to respond and you extend your territory, attack white E3 group, keep your wedge into territory around K4 opened, and get extra defennse for free.
+
+Also - left black side is rather safe and it doesn't need much defense. White invasion would have small chances - the danger is more from white extension like E5 - which you cannot attack from the right without endangering your left side. This argument points to E4 again.]
+;W[hj];B[gj];W[gk];B[fj];W[gl];B[em]SQ[eb][hg][hi][ki]C[This is a very bad move. E1/F1/D1 is gote as white is already protected with G2 and it only gets you one point. You essentially throw away the move this way.
+
+Meanwhile - H5/H7 are big open points. Something like L5 is a nice speculative invasion - threatening to either connect or make small life on the side depending on white response. E12 protects against white slide at C13 worth something like 8 points - still less than area on lower right, but much more than E1 and will need to be protected in a few moves.]
+;W[fm];B[dm];W[id];B[ej]SQ[eb][hg][hi][ki]C[White was kind enough to throw the move away with J10.
+
+You should take advantage of that and reduce with H5.];W[ik]
+;B[hi]C[A bit late. J3 protects white against H5.];W[ii];B[hh]
+;W[ih];B[hg]C[This is one point move. E12 is worth a lot more.]
+;W[ig];B[eb]C[White let you get away with it by playing J7 instead of C13, but shouldn't.]
+;W[fk];B[fa];W[ga];B[ea];W[fe];B[ed];W[jd];B[tt]C[Thanks for your comments :)
+
+Summary: Figuring out which part of the board is most important, and which groups need most attention at the moment would get you most improvement, but it's also very difficult.
+
+Not making empty triangles and one point gote moves is not worth as much, but shouldn't be that hard.]
+;W[tt])

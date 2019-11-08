@@ -1,0 +1,530 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+PB[sushi1]
+BR[27k]
+HA[6]
+PW[jug]
+WR[21k]
+KM[0.5]
+DT[2004-01-04]
+PC[The Kiseido Go Server (KGS) at http://kgs.kiseido.com/]
+RE[B+31.5]
+TM[1800]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+AB[dd][pd][dj][pj][dp][pp]C[Hi,
+i hereby request a (white) review of this game, played at 04-Jan-2004 on KGS between sushi1[27k?\] as B and jug[myself,21k?\] as B. Edited SGF with cgoban-2.6.12.
+I recently (Sep-2005) learned of GTL-reviewing-service, remembered that interesting handicap game and want it to be reviewed to learn more about how to play handicap games.
+* Info about me (jug):
+I started playing Go Jan-2004 on KGS 3-4 days before this game but stopped it after a month, restarted playing Aug-2005. Played many quick games since XMas against GnuGo (smaller board and high handicaps) but always lost. I learned Go with a book and read beginner's sections on Sensei's Library for 2 weeks.
+I was ranked at [21k?\] on KGS, but in fact i was a real newbie. The 21k? came from KGSs weird ranking system. Same for my opponent.
+* Info/opinion about my opponnent (sushi1):
+nothing in particular. He mentioned that he also had some games giving handicap, so maybe he also know some tricks how to play against a handicap.
+* Info about the game:
+19x19 with handicap 6 stones, Komi 0.5, with time limit (see Game Info for more details). We both run into our time limits, but extended them several times.
+Before this game i only played a few games on KGS and wasn't familiar with the go-client and server. My opponent started the game and i accepted it, but at startup i was shocked to see, that it was a handicap game caused by our different ranks.
+But i've accepted it as challenge (though this was my first game to play against handicap). Well, the best i hoped for was not losing to badly and to get some lessons from it. I fought very hard, made some bad mistakes (not always ;) because of lacking time, finally lost it. But i can conclude, that this game was real pleasure.
+Back then i also had much more problems with Life&Death- and corner-situations than i have now.
+* Info about my reviewing:
+After the game we (sushi1, jug) reviewed it. I've also included the comments from that, but moved some to the move before (hope that's not confusing).
+Before sending it to GTL, i've translated all comments to english (was german) and additionally included my thoughts about B (and W) moves along with questions starting with label 'jug' (instead of 'jug[21k?\]' from the normal game-review).
+When i marked moves, marker 'A' is always the main-road of playing for the current player, other markers are about alternative thinkings for B or W.
+Maybe you can add reviewer comments starting with a prefix you prefer.
+Well, enough introduction, let's start ...
+Thanks in advance for your effort of reviewing this game, Kind regards, jug.
+
+K- hi, I'm Kester, and I'll be marking my comments with this: "K-". I'll comment on the moves as I see them (without looking ahead) then at the end of the game, give some overall comments.
+
+And in case you are interested, I am doing this review on an ipaq using GoSuite (see http://senseis.xmp.net/?gosuite)]
+PL[W];W[fq]C[jug: i wanted to invade some corners, get some edges and most important keep connection to the center ...
+at least that was the basic plan ... ;)
+
+K- you want it all then! :-)];B[eq]C[K- this is not a good start for black. In a high handicap game like this, black's strategy should be to avoid confrontation, just keeping enough pressure on white to keep him on his toes.
+
+Here, moves like D6 or J4 would be good.];W[er]C[K- and white makes a mistake in return, F4 is the correct response: it strengthens the other white stone, it moves towards the centre, it exerts power along the lower side, and it leaves the corner open to invasion at C3
+
+The reason white's move is a mistake is that it allows black to start a fight on his own terms - white needs to try to take control of the game as soon as possible]
+;B[dr]C[K- this works well for black because white must respond (e.g. F2), meaning black gets corner territory in sente]
+;W[fr];B[ep]C[K- this is a waste of an opportunity for black. K3 is a big point for white, black should play there first]
+;W[oq]C[K- this is certainly the correct direction of play for white, approaching the corner from the bottom side, but the actual move is too close. Black could initiate a sequence such as the variation shown, which is much better for black than white.]
+
+(;B[np]C[K- right idea by black, but solid extension at P4 is better]
+;W[nq];B[pq]C[K- black is getting a good result here, white needs to make sure he keeps access to the centre]
+;W[pr]C[K- not good, for same reason as E2];B[qr];W[op];B[oo]
+;W[os];B[qs];W[no]C[K- N4 is better for white as it pushes into the centre]
+;B[mp]LB[nn:A][mq:B]C[jug [23k?\]: W needs influence/connection to the center
+sushi1 [27k?\]: sure
+jug [23k?\]: also if lower group will be sacrified
+sushi1 [27k?\]: but also the corner is worth much
+jug [23k?\]: of course
+jug: main-road was 'A' (get more influence), but now i would try to make life instead.
+Possible to make living group with W at 'B' ? please show how, if it's possible.
+What's the correct action here ?
+
+K- white has caused this trouble for himself, see comment on previous move]
+
+(;W[nn];B[mq]LB[iq:A][mr:B]C[jug:
+1. is it possible to save W group ?
+2. is it possible to save W group without losing influence to middle ?
+and how ?
+jug: could you check all the outlined variations for correct reading.
+Not clear, if W group needs defending or it's useless.
+I played at 'A', because i had poor reading abilities and didn't want to loose possibility of influence/connection to middle. Fighting builds a wall, and with a B wall, it's nearly impossible to expand into the center !?
+
+K- the white group is dead, see previous variation for how it could have been saved (which no longer works now that black has played N3)]
+
+(;W[iq]TR[fq][fr]C[K- this is OK because it works well with the other white group. There is a proverb "from 2 extend 3", meaning from the 2 marked stones white can extend 3 spaces to K3, however the actual move is safe and strong.
+
+It does not really keep a route to the centre open though, being on the 3rd line.]
+;B[kq]TR[op][nq][oq][pr][os]C[jug [23k?\]: you're playing well.
+jug [23k?\]: oh my rank has changed (strange)
+jug [23k?\]: 2-point-jumps good
+jug [23k?\]: i must rely on direct connections
+jug: how to widen influence better ?
+
+K- this is an unnecessary move for black because the marked white stones still cannot escape so black is safe, and this move does not seriously threaten white's group. Black should have played a big point elsewhere. Instead, white now has an opportunity to jump out into the centre, e.g. J5, or play elsewhere]
+;W[mr]C[jug: needed ? (W already dead ?)
+
+K- yes, already dead];B[lr]C[K- white's attempt to live is making black stronger, this move threatens to undercut the other white group]
+;W[pn]C[K- better to play elsewhere, e.g. K16]
+(;B[ps]TR[nn][pn][no]C[sushi1 [27k?\]: here you must see, that if you don't continue, i will capture your stones
+
+K- connection at Q5 would be better here, it stops white's attempt to save his edge group and leaves white's triangled group with no base and struggling to live. Black can use the struggle to strengthen his position, see variation as example]
+;W[po]LB[qp:B][or:A]
+(;B[or]TR[qq]C[jug [23k?\]: why this one ?
+sushi1 [27k?\]: cut at R3 !?];W[in]C[jug [23k?\]: too greedy ?
+
+K- yes probably, 1 space jump to J5 would be safer];B[nr]C[K- black is on the defensive now because he did not connect at Q5]
+;W[ql]C[K- trying to make a base, good];B[pl];W[qm];B[pm]
+(;W[qn]C[K- not necessary (see variation), connection at P6 is worth much more]
+;B[on]C[K- good for black, white is separated and trying to defend on 2 fronts]
+;W[om];B[op];W[pk];B[ol];W[nm];B[nl];W[ml];B[nk]C[jug [23k?\]: always watch liberties ;)]
+;W[lm];B[ln];W[kn];B[lo];W[kl];B[lk];W[ll];B[kk];W[mk];B[qk]
+C[K- white wants to play N10 if he gets a chance, to break up black's big wall]
+;W[qj];B[ok]C[jug [23k?\]: ah, that ko as funny ^-^];W[rk];B[qi]
+;W[rj];B[ri];W[pi]C[K- white is not going to kill these black stones, time to play a big point such as N10]
+;B[oi];W[pk]C[jug: better to save ko-threats for endgame ?]
+;B[oj];W[ph];B[pg]TR[fc][nc][mj][il][fn]LB[oh:B][qh:A]C[jug [21k?\]: slowly running out of time now
+jug: what's better here to play ?
+- 'A' i think is not favourable,
+- 'B' may be potential, but don't know how, 'B'-variations path seems to me unlikely to happen,
+- 'triangle-play' or anywhere else (tenuki) ?? unsure ?
+@reviewer: can you also review the variations of this and the next move please, especially the nodes with comments.
+i'm never sure, when to fight to the death (making lives) or leave the place.
+
+K- you're right that A doesn't work (or at best gets messy), but B does - see variation (this is the best continuation)
+
+Of your triangles, N10 is still good. O17 is not good due to black's Q13. J8 and F6 are OK but don't achieve much. F17 and K17 are both good]
+
+(;W[qh]LB[rg:A][rh:C][sj:B]C[jug: checking some variations
+- W on 'A' unsure move !?
+- W on 'B' results in dead group
+
+K- best move here was P12 (see comments on previous move)]
+(;B[rg]C[jug [23k?\]: seems to be not so good, but locks W at the edge !?
+
+K- this is not good for black. White will answer with S12, then P12 and R13 are miai, so white either gets into the centre or the corner]
+;W[rh];B[mn];W[mm];B[qg]SQ[ph][qh][rh]LB[nc:D][pc:B][od:C][qd:A]
+C[jug [23k?\]: good move, strong wall
+sushi1 [27k?\]: thx :)
+jug: how to escape from here (boxes) ?
+jug: played on 'A' on side with black wall good/bad ?
+Wanted to cut somehow and to get to the left side.
+Now i think, playing at 'B' or 'C' or 'D' would have been better than 'A', trying to make some territory, but again losing influence to center/left (unsure how to play).
+
+K- white's marked group is not in danger of being killed, but needs to play P12 urgently to avoid being walled in]
+;W[qd]C[K- a wasted move, this is not the correct way to counter black's strength in this area. White should play P12 now, then invade the corner at R17 later]
+;B[qc];W[pc]C[sushi1 [27k?\]: press against wall ...
+jug [23k?\]: that's why i cut
+
+K- crosscut fights can be very messy, let's see how this one turns out]
+;B[rd];W[qe]TR[sg]C[jug [23k?\]: get liberties ;)
+jug: but for what ? donating stones !? is there chance to connect with on triangle somehow ?
+
+K- it is unlikely that white can connect, but not impossible, e.g. if white can play T15 then T13]
+;B[pb];W[oc];B[pe];W[qb]C[jug [23k?\]: eigentlich mag ich ko's gar nicht
+
+K- many people say this but ko's can be useful and exciting!]
+;B[rc]TR[qb][qd][qe]LB[nc:A]C[jug: leaving to early here playing at 'A' ?
+
+K- white would be correct to avoid playing in the corner now, there is little to be gained there. The marked stones should be left for dead for now, although it might be possible to put them to use (or even save them) later]
+;W[nc]C[K- this move is roughly right but a but "slow" for white. I suggest the following alternatives:
+P18 if white wants eye space at the edge
+P15 if white wants a wall
+O16 or N17 to move outwards and/or along the side];B[qa]C[K- not a good move - it makes black strong in the corner but white can maker bigger gains on the outside]
+;W[ob];B[rb]C[sushi1 [27k?\]: and the corner is mine ...
+jug [23k?\]: super.
+jug [23k?\]: i didn't wanted that corner, i wanted to go the left
+
+K- white has the better position here, and sente too];W[ne]
+C[sushi1 [27k?\]: i think, you also don't like the fight in corners
+jug [23k?\]: yeah, i never succeed with it
+
+K- there are 2 rewards for a corner fight, territory and influence. Providing  there is balance between the players, you have done OK. Sometimes one player will get all the territory and the other all the influence, sometimes both players get a bit of each. As long as you get a good share, both players can feel satisfied.
+
+This is a promising move by white, but
+he must be careful that his group does not get stranded without a base]
+;B[of]C[K- black has a big weakness at P12, this would have been a good time to play there.]
+;W[nf]C[jug [23k?\]: build wall to center];B[oh]C[jug [23k?\]: good, ko-threat & connect & secured P13!
+
+K- this was a big point for both sides; white has missed an opportunity here]
+;W[si];B[qk]C[K- wasted move];W[ng]C[jug [23k?\]: wanted to cut at P13 later
+
+K- white should play J17 here (using that wall), aiming at F17 later]
+;B[mj]C[jug [23k?\]: good
+sushi1 [27k?\]: my saying];W[jl];B[ik];W[jk];B[li];W[ji]LB[kg:2]
+[ji:1]C[jug [23k?\]: i admit, that was a trap, but you rescued yourself
+sushi1 [27k?\]: bravely stepped into it
+jug [23k?\]: what would you have played instead ?
+sushi1 [27k?\]: on '1' at J11 or '2' at L13];B[jj];W[kj];B[lj]
+;W[ij]C[sushi1 [27k?\]: K10 was a stupid move of mine];B[ki]
+;W[ig]C[K- white should play H9, gives very strong central influence]
+;B[kg]C[K- black is pushing (being pushed!) into the area overlooked by white's wall, which wastes the wall]
+;W[ke];B[jj]LB[jh:A]C[jug: played 'A', but what's better ?
+
+K- the big points now are H9 and J17. Both players would benefit from getting these points]
+;W[jh];B[hj];W[ii];B[hk]C[K- so black has got one of them, white should take the other (J17) now]
+;W[hl];B[il];W[im]TR[jk][mk][jl][kl][ll][ml][lm][mm][nm][om]
+[nn][no]LB[kh:A]C[sushi1 [27k?\]: again i will play a bad move at 'A'
+sushi1 [27k?\]: but in the end, it helped killing your group
+jug [23k?\]: so. bad or good ? ;)
+sushi1 [27k?\]: not too bad at all
+jug [23k?\]: from here on, i was afraid of losing my group (triangles)
+sushi1 [27k?\]: hihi
+
+K- white can still save this group if he wins the ko at K10/L10]
+;B[kh];W[ie];B[gd]C[sushi1 [27k?\]: oh so freightenend  ;))
+jug [23k?\]: very good move];W[cc]TR[ob][nc][oc][pc][ie][ke]
+[ne][nf][ig][ng][jh][ii][ji][ij]C[K- where is the eye space for the marked group? white needs to play along the top edge here
+
+(see variation for typical continuation here)]
+(;B[eb];W[cf]C[jug [23k?\]: i think, C14 was too far !? oh, i'm sooo bad in corners, should have played out the corner. Would be good to know some joseki, but they say, you should wait with that as beginner !?
+sushi1 [27k?\]: on the contrary
+jug [23k?\]: So?
+sushi1 [27k?\]: as beginner you have no chance when concentrating in the center
+jug: opinion about learning Joseki as beginner ?
+
+K- if you have a huge talent you can work out joseki from basic principles. But normal people (me!) have to memorise them and use them in actual games to understand them properly.
+
+The thing you need to understand about joseki is that they are "tools". If you choose the wrong tool, you will not get the right result, however good the tool is. In other words, you need to be aware of other nearby stones and whether they will work well (or not) with the position when the joseki is finished.
+
+The best introduction to joseki I have found is the kiseido book "38 Basic Joseki" by James Davies. The thing that makes it better than others is that it discusses when to use the joseki and what they are trying to achieve.
+
+If you just want a dictionary of joseki, download Kogo's Joseki Dictionary, it's free and in sgf format.]
+;B[cd]
+(;W[dc]C[K- white does not have enough space to expect to live in this corner, see variation for how to make a base here]
+;B[ec];W[bd]C[jug [21k?\]: oops. time's running
+jug: from now on i had even less time for thinking making more mistakes ...]
+;B[ce]LB[bc:C][ae:D][be:B][bf:A]C[sushi1 [27k?\]: playing 'B' would be better, then you nearly have one corner
+jug [23k?\]: was afraid of cut on 'A' and 'C' (stupid thinking) !?
+jug: was wrong reading. I thought i always can connect on 'D' because that cannot be cut (well, apparently that was wrong in that situation).
+I was too greedy (getting corner and connection to south). Instead of having corner, i lost most (had not much time to think).
+Again i'm unsure what's better to fight for corner but resulting in black wall or give up corner and build white wall to right/down board.
+
+K- see comments on earlier moves]
+(;W[bf];B[be];W[ae];B[bc];W[de];B[ad]C[jug [23k?\]: i always overlook threats at edges. supi]
+;W[ed];B[af]C[jug [23k?\]: ... and again];W[ag];B[cb]TR[eh]
+[gh][ci][dl][dm][fn]LB[hc:A]C[jug: where to play now ? at 'A' or more around triangles ?
+
+K- the top edge is most urgent for white];W[hc];B[hd];W[id]
+;B[jf];W[if];B[je];W[kd];B[jd];W[jc];B[lf];W[kf];B[jg]TR[ff]
+[fl][dm][fm][fn]SQ[jd][je][jf][lf][kg][kh][oh][ki][li][oi][jj]
+[lj][mj][oj][pj][kk][lk][nk][ok][qk][nl][ol][pl][pm]LB[lc:A]
+[ld:B]C[jug [21k?\]: clicko at 'B', requested undo
+sushi1 [27k?\]: granted undo
+jug: then played on 'A', but now i think there are bigger moves (triangles or where else) ?
+
+K- if white plays P13, black's marked group has no eyes, no connection to a safe group, and not much space to make eyes]
+
+(;W[lc];B[nd]LB[md:A][od:B]C[jug: 'B' would be better ?
+
+K- both are ok]
+(;W[md];B[od];W[oe];B[pf]LB[fd:B][fe:A]C[jug: 'A' very small !?, better at 'B' (see variations) ?]
+
+(;W[fe]LB[fd:A]C[jug [23k?\]: too small, 'A' good answer
+
+K- yes, too small. P13 is big, otherwise white needs to attack the left side]
+;B[fd];W[ee];B[hh];W[ih];B[gf];W[eg]
+(;B[ff];W[ef];B[eh];W[dh];B[go]TR[jk][mk][jl][kl][ll][ml][lm]
+[mm][nm][om][kn][nn][no]SQ[fq][iq][er][fr]LB[gp:A]C[jug: better defense, triangled stones still in danger and boxed ones threatened. What now ?
+
+K- H4 would work well for white, connecting groups together. At some point K6 would be good for white, ensuring an eye at K7/L7, needing only 1 eye along the bottom. There is little danger for white here. See variation.]
+
+(;W[gp];B[jo];W[jn];B[io];W[ho];B[hn]LB[kj:B][hm:C][hp:A]C[jug [23k?\]: now middle group is dead.
+jug: really ? Back then i thougt so, even in the review. But what about playing at 'B' or 'C'. Maybe saving is possible using Ko at 'B', connecting to upper group. Difficult ... can this work (eventually later, when there a less big ko-threats) ??
+Also see move 190.
+Would have been better to avoid that earlier ... but when and how ?
+
+K- 'C' does not work because the group has only 1 eye and not much chance of making another. It must connect to a friendly group, so white must win the ko]
+
+(;W[hp];B[hm]C[jug: ... even now it would not be impossible to save W's group in the middle. Well maybe ... 4 liberties & Ko should be enough !?
+
+K- white can win the ko because black  will have difficulty finding ko threats big enough]
+;W[gn];B[gl];W[gm];B[hl];W[fo];B[fp]LB[fl:B][dn:C][gq:A]C[jug: good play here ?
+
+K- white is doing well here: black has poor shape and is on the defensive.]
+;W[gq]C[K- wasted opportunity, white should play around E6]
+;B[fm];W[en]C[jug: not good];B[fn];W[eo];B[go];W[gn];B[em]C[jug [23k?\]: what was your intent here?
+sushi1 [27k?\]: don't let you run up and reduce liberties];W[jp]
+;B[ko]LB[kj:B][jq:A]C[jug: can W middle-group still be saved (see also variation)
+Well, that Ko surprises me a lot.
+
+K- it can be saved but only by winning the ko]
+(;W[jq]C[jug: also stupid, there are bigger moves but where ?
+
+K- L10, C6. P13 is still big once white wins the ko];B[jr];W[ir]
+;B[is];W[hs];B[js];W[ds];B[cs];W[es]C[sushi1 [27k?\]: now B on 'B' at H2 ...
+jug [23k?\]: nope, bent five always live ... (well i'm not so sure in this situation, let's see ...)]
+
+(;B[cr]
+(;W[hr]C[jug [23k?\]: sure live
+
+K- not necessary, see variation];B[kj]C[K- this must be the move that decides the outcome of the game, I don't see how white can win now]
+;W[ni];B[nh];W[mi]C[jug [23k?\]: stupid move, but time was short ;)]
+;B[mh];W[me];B[mf];W[mg];B[lg]LB[le:B][og:A]C[jug: 'B' would be better
+
+K- P13 is pointless now, so yes M15 is better];W[og];B[le];W[ld]
+;B[re];W[sg];B[sf];W[rf]C[sushi1 [27k?\]: nice gift
+jug [23k?\]: stupid timer ;-)  i hate Ataris at the edge or in the corner]
+;B[qf]C[sushi1 [27k?\]: soon you see it while sleeping ...
+jug [23k?\]: and such a beautiful double-kill];W[sh];B[oa];W[na]
+;B[pa];W[qp]C[K- white should play N18 here, see variations for what happens if black plays there first]
+
+(;B[rp];W[rq]C[jug [23k?\]: again stupid move];B[qq];W[qo];B[sq]
+;W[ro];B[rr];W[so];B[sp];W[gc];B[fc]TR[ed][de][ee][fe][bf][cf]
+[ef][ag][eg][dh]LB[ga:B][gb:A]C[jug[23k?\]: 'A' is poor choice
+jug: but why ? 'B' is possible. What else ?
+
+K- G18 and G19 are way too small, white should make eye space for the marked group now, e.g. see variations]
+
+(;W[gb];B[ib];W[ic]LB[fa:B][ga:A]C[jug: what is difference in points between position at move 242 and move 240 in variation 'B' ?]
+
+(;B[ga];W[ha];B[fa];W[fb];B[ea]C[K- black at H18 will be very bad for white, white should play K18 to prevent this, and loses sente]
+;W[ei];B[fh]C[sushi1 [27k?\]: und zum schluss hats mir die gruppe noch gerettet....
+sushi1 [27k?\]: wegen meinem sp??teren fehler
+jug [23k?\]: knapp. aber unbedingt.];W[ge];B[he];W[hf];B[hg]
+;W[fi]LB[gh:B][di:A][gi:C]C[jug: B would be safe with 'B' or 'C' but with how many points difference ?]
+
+(;B[di]LB[fi:1]C[sushi1 [27k?\]: i thought, soon the upper ones are cut off ...
+jug [23k?\]: my plan was too capture B's group
+sushi1 [27k?\]: naturally
+jug [23k?\]: '1' at F11 reduced liberty, then semeai
+
+K- if black plays G12 white can still connect, see variations]
+;W[ch]C[K- white is vulnerable to black B13, see variation]
+
+(;B[fg];W[hi];B[gi]LB[fj:A][gj:B]TR[ff][gf][fg][hg][eh][fh]
+[hh]C[jug: playing at 'B' seems to be bad for B but also for 'W' in a kind (see variation last nodes), but is the sacrifice of triangled stones to build the black wall not worth to block W going down ? well on second thought maybe not (the loss is to big).
+Your opinion ?]
+(;W[fj];B[gj]LB[gh:A]C[jug [22k?\]: was neccessary to kill B group, playing anywhere else and B connects at 'A']
+
+(;W[gh]C[jug: so proud i could setup a snapback
+
+K- yes, it is good. This move is called a "throw in" in English, and is very useful for stealing eyes and reducing liberties, and can be used even when it does not create a snap back]
+;B[hb];W[jb];B[ia]C[jug [22k?\]: ahhh, didn't saw that];W[ja]
+;B[ha];W[la]C[K- N18 would be better, or O18 or N17];B[mb]C[jug [22k?\]: very good, dangerous]
+;W[mc];B[lb]TR[ff][gf][fg][hg][eh][fh][hh]LB[kb:A]C[jug [22k?\]: Life and let die - very time consuming if you don't know the living patterns
+jug: does W group live here without playing at 'A' ?
+
+K- white is not in big danger here because the marked black group is in atari. Only weakness is O18]
+;W[kb];B[fk]TR[ei][fi][fj]LB[gg:A]C[jug: threating triangled stones, must catch at 'A'
+jug: would it have been possible to extend triangled group earlier to avoid gote here ?
+
+K- not really, it is too closely surrounded];W[gg];B[ej]
+(;W[eh]C[jug: needed ?
+
+K- no, see variations. C6 or B11 instead];B[dn]C[jug [22k?\]: play, where your opponent wants to play ;)]
+;W[cj];B[ck];W[dk];B[dl]C[jug [22k?\]: sigh. too short thinking, too fast clicking ...]
+;W[cl];B[ek];W[bk];B[ci]C[jug [22k?\]: aahhhh, again overlooked Atari. I'm so blind. blind. blind.]
+;W[bi];B[bj];W[aj]C[jug [22k?\]: lucky me, there's still connection at edge]
+;B[cj]LB[bh:D][al:C][bl:B][cm:A]C[jug: too greedy here(?) instead of protecting. Is this unstable !? How to protect that properly 'B', 'C', 'D', etc. ? Is at that points any real danger ?
+
+K- white has lots of weakness here. But surprisingly, best move is B8, see variation]
+
+(;W[cm];B[bl]C[sushi1 [27k?\]: W no good shape
+sushi1 [27k?\]: easy cutting ...
+jug [22k?\]: yes, was to greedy];W[ak];B[bm]
+(;W[cn]C[K- white has a hidden attack here, see variation];B[do]
+;W[bh];B[go];W[fo];B[eo];W[bn]
+(;B[co];W[bp];B[bo];W[an];B[ao]LB[am:A][ar:B]
+(;W[am]C[jug [22k?\]: that was a close one];B[dm];W[al];B[cq]
+C[jug: needed that ?
+
+K- no];W[ae];B[ab]C[jug [22k?\]: that was played too fast (your intuition failed you), well ... too bad ;)
+sushi1 [27k?\]: yep];W[bd];B[ac];W[cd];B[db]C[jug [22k?\]: bent-four, so B lives]
+;W[kp];B[lp];W[ks];B[kr];W[ls]LB[go:A][lq:B]C[jug: donated more stones on first thinking, but B didn't see 'B']
+;B[go];W[lq]C[sushi1 [27k?\]: sh.. - now you get me];B[ns];W[ms]
+;B[fo];W[ip];B[kr];W[jr];B[nj]C[jug: -1 point isn't it ?
+
+K- yes];W[sl]C[K- not needed];B[pk];W[kc]C[jug: -1 point, isn't it ?
+
+K- yes];B[ca]C[jug: -1 point];W[tt];B[jm]C[jug [21k?\]: W's already dead, only one eye. You only reduce your territory
+jug: -3 point (together with move 332 and 334)];W[tt];B[km]
+;W[tt];B[mo]C[sushi1 [27k?\]: ... but it's fun
+jug [21k?\]: ^-^];W[tt];B[tt]TB[aa][ba][da][ra][sa][bb][qb]
+[sb][sc][qd][sd][qe][se][rf][lh][mi][ni][dk][gk][jk][mk][el]
+[fl][jl][kl][ll][ml][gm][im][lm][mm][nm][om][en][gn][in][jn]
+[kn][nn][no][ap][bp][cp][aq][bq][dq][nq][oq][rq][ar][br][pr]
+[sr][as][bs][os][rs][ss]TW[ka][ma][lb][mb][nb][dd][be][ce][af]
+[df][ff][gf][bg][cg][dg][fg][hg][ah][fh][hh][ai][qi][ri][sj]
+[sk][bl][rl][bm][rm][sm][rn][sn][hq][kq][gr][kr][lr][fs][gs]
+[is][js]C[sushi1 [27k?\]: KGS ranks changed during our review. I don't get it how this is working
+sushi1 [27k?\]: Thanks - was a good game
+jug [23k?\]: was real fun, thanks
+sushi1 [27k?\]: was the best one i had since a long time
+sushi1 [27k?\]: oh well, good game for beginners as we are *g*
+jug [22k?\]: my sentiments exactly
+jug: B+31.5
+All four corners in the hand of the enemy, ... hm, isn't there a proverb saying that you should resign in such case ? But where's the fun for newbies in resigning ?
+@rewiewer: some final comments ? Thanks for reviewing.
+
+K- some general advice then:
+1) the early stages are difficult for white in a high handicap game, the important thing is to make your stones work together. See move W17 for example, by making a move that did not work with the existing stones, white invited black to move into space that could have been white territory (the whole bottom side), separating the white groups in the process. This was very costly for white in this case.
+2) you need to make sure you have a base to help make eyes and/or territory. See moves 108, 112, 119. White has a large group which should make lots of territory on the top side, but misses opportunities to play along the top edge to make a base, consequently in the end that group made very little territory 
+3) do not be afraid of ko's. Once you have played a few ko fights, you will see that they can be useful (and exciing!)
+4) do have a look at some joseki, but remember that keeping or invading a corner is not always as good as the outside influence gained from allowing your opponent to have it
+
+That's all I'm going to say for now, but if you have any further questions please ask. Thanks for letting me review your game, Kester.]
+)
+(;W[ar];B[al]C[sushi1 [27k?\]: the corner was more important to me
+jug [22k?\]: wouldn't have worked either];W[am];B[bl];W[al]
+))
+(;B[an];W[al]))
+(;W[do];B[co];W[cn];B[dm];W[cp];B[bo];W[dq]))
+(;W[bl];B[bh];W[ai]
+(;B[bg];W[cg];B[ah];W[ag])
+(;B[ah];W[bg])))
+(;W[al]
+(;B[eh];W[fh])
+(;B[fh];W[eh])))
+(;W[an];B[gh]C[jug [22k?\]: Das meinte ich.
+sushi1 [27k?\]: ja - ist jetzt alles klar]))
+(;W[gj];B[fj];W[gh];B[ej];W[gi]C[sushi1 [27k?\]: now i'm dead
+jug [23k?\]: yes, B's dead, W can connect, BUT now the way down is blocked
+sushi1 [27k?\]: ja und siehst du nicht das riesige gebiet was w jetzt hat?
+
+K- white still has 2 ways to attack, C6 B11, so black's wall is not worth much]
+))
+(;B[bg];W[ae];B[bh]
+(;W[bi];B[af]C[K- ko])
+(;W[af];B[bi]C[K- connects to other black stones, deprives white of good development on the left side]
+)))
+(;B[gh]
+(;W[hi]C[K- see variations];B[gi];W[gj];B[fj];W[ej];B[gk];W[fk]
+;B[gj];W[di];B[fg])
+(;W[fg]
+(;B[gg];W[hi])
+(;B[hi];W[gg])))
+(;B[gi];W[hi];B[gj];W[gg]C[sushi1 [27k?\]: feared that move - but you haven't seen it ...]
+;B[gh];W[fg]))
+(;B[fa];W[ga];B[fb]C[jug [23k?\]: bin mir nicht sicher, ob das besser oder schlechter ist !?
+jug [23k?\]: Du und ich haben mehr Felder zum Augen machen !?
+sushi1 [27k?\]: wo?
+jug [23k?\]: 1 genauer gesagt.
+
+K- white has sente]))
+(;W[ga];B[gb];W[hb];B[fb];W[fa];B[ea];W[ha])
+(;W[bi]
+(;B[bg];W[ah];B[bh];W[ai]
+(;B[ch];W[ci])
+(;B[ci];W[ch];B[bj];W[cg];B[aj];W[di];B[cj];W[ei];B[fh];W[cn]
+))
+(;B[ah];W[bg]
+(;B[bh];W[ch])
+(;B[ai];W[aj];B[bj];W[bh];B[ak];W[cj];B[ai];W[ck]))))
+(;B[mb]
+(;W[nb];B[mc])
+(;W[mc];B[nb];W[lb];B[ma];W[la];B[na])))
+(;W[og];B[hr];W[gs]))
+(;B[hr];W[gs];B[kp]LB[al:A][ip:B]C[jug: W lives at tenuki 'A' and on 'B' too]
+
+(;W[al];B[ip];W[hq])
+(;W[ip])))
+(;W[kj];B[km]TR[im][in][jn][kn]LB[jj:A][jm:B]C[jug: give up triangled-stones with play at 'A'. Playing at 'B' make it dead after B taking the Ko and fills it.
+Is there a better outcome somehow, maybe later in the game ?
+
+K- white should sacrifice these 4 stones, fill the ko, and attack at P13 then C6]
+
+(;W[jm];B[jj];W[kp];B[kj];W[lp];B[mo])
+(;W[jj];B[jm])))
+(;W[kj])
+(;W[hm];B[hp];W[gn];B[ho];W[gk];B[ko]))
+(;W[hp];B[jo];W[jn]
+(;B[ho];W[io])
+(;B[io];W[ho]
+(;B[ko];W[gn])
+(;B[hn];W[ko];B[jp];W[jq];B[kp];W[gn]))))
+(;B[hf]))
+(;W[fd]
+(;B[fc];W[gc])
+(;B[gc];W[fc];B[fb]
+(;W[ge];B[hb];W[ic];B[ib];W[jb];B[fe];W[ee];B[ff];W[he];B[gb]
+)
+(;W[hb];B[gb];W[ge]))))
+(;W[od];B[oe];W[md]))
+(;W[ld]))
+(;W[be];B[bc];W[bb])
+(;W[bc];B[be];W[db];B[da];W[ca];B[ad];W[bb];B[ac];W[ab];B[ae]
+;W[ea];B[fa];W[da]C[jug: living but black wall (bad for W)]
+))
+(;W[be];B[bd];W[ci];B[cj];W[bi]C[K- as you can see, black is strengthening the lower left side, which is not good for white.
+
+This means that white should not play in this area at this time - better to play elsewhere and return to this area later when the whole board position might have changed]
+))
+(;B[cd];W[dc];B[ec];W[eb];B[fc];W[fb];B[gb]TR[gd]C[K- this would be played at G17 if the marked stone was not there]
+;W[bd];B[be];W[bc];B[ce]TR[gd][dj]C[K- this gives white some corner territory and black the outside influence. In this case black gets the better outcome because the 2 marked stones were already in place. Without them, the position would be even (joseki)]
+))
+(;B[sj]C[K- this is worse for black. White will again answer with S12, and black has nothing in place to stop white's advance]
+)
+(;B[rh]LB[qg:A][rg:B][oh:C][mj:D][nj:E]C[K- this is black's only good response, and is the reason why R12 isn't good for white
+
+White can continue with R13 etc, but sooner or later should come back and play P12. However playing moves towards the edge before playing P12 gives black a chance to build up strength]
+
+(;W[qg];B[rg]C[jug [23k?\]: not sure, if that's a proper answer from B]
+
+(;W[pf];B[og]C[jug: makes B stronger (not good for W)])
+(;W[oh];B[nh];W[og];B[pf]LB[nf:A][of:C][qf:D][ng:B]C[jug: thoughts: eventually can kill triangled-stones (4 vs 2 liberties+ko) !?
+jug: not sure what's best to play here ? 'A', 'B', 'C', 'D' or other ?]
+
+(;W[nf])
+(;W[ng])
+(;W[of];B[oe];W[qf];B[pe]
+(;W[qe])
+(;W[rf];B[nf];W[ng];B[mg];W[mh];B[ni];W[mi];B[qk];W[sg];B[rl]
+;W[pk];B[sk];W[nj]))))
+(;W[rg]C[jug: bad move for W];B[qg];W[oh];B[nh]C[jug: ladder]
+;W[sh];B[og];W[si];B[rf];W[sg];B[sf];W[sj];B[qe]C[jug: and W completly cut off from center, bad, bad :-(]
+)))
+(;W[oh]
+(;B[nh];W[og]C[K- no, O11];B[of]C[K- black would not play out this loose ladder]
+;W[ng];B[mg];W[nf];B[ne];W[mf];B[lf];W[me];B[md];W[le];B[ke]
+;W[ld];B[lc];W[kd];B[jd];W[kc];B[kb];W[jc];B[ic];W[jb];B[ja]
+;W[ib];B[hb];W[ia];B[ha];W[qh];B[qg];W[rh]
+(;B[si];W[ni])
+(;B[mi];W[kf]))
+(;B[ni]C[K- forced];W[rh];B[qh];W[qg])))
+(;W[on];B[qn];W[qo];B[rn];W[ro]
+(;B[rl];W[rm];B[sm];W[sn])
+(;B[rm];W[rl];B[sl];W[sn])))
+(;B[qp];W[qq]C[jug: stupid move];B[rq]))
+(;B[po];W[qn];B[qo];W[qk];B[qj];W[rk];B[rj];W[rn];B[ro]C[K- white can probably live now (can't take it for granted even now), but black has nearly got the whole upper half of the right side in compensation - lots of points!]
+))
+(;W[mr];B[lr]LB[qq:A][nr:C][ls:D][ns:B]C[jug: not sure how to play to save group ??
+- me thinks, W on 'B', 'C' or 'D' is bad -> W dead
+- W playing on 'A' might save the group, checking ...]
+(;W[qq]LB[qp:A][nr:B]C[jug: B on 'B' -> W is dead ?
+B on 'A' -> status of W, didn't come to a solution (W dead or lives) ??]
+
+(;B[qp];W[rq]LB[rp:B][nr:A]C[jug: with playing 'A', W's group is dead.
+what about variation 'B' ?]
+(;B[nr];W[or];B[ms];W[rr];B[ns];W[rs];B[ps])
+(;B[rp]))
+(;B[nr];W[or];B[ms];W[rr];B[ns];W[qp];B[ps]))
+(;W[ns];B[ps];W[or];B[ls];W[qq];B[ms])))
+(;W[mq];B[lq]MA[po][lp][qq]C[K- black thinks he has to play here to stop white running along the edge, because if white does that he will have plenty of space to make life. However this leaves black with the marked cutting points, which are the key to white's defence.
+
+HOWEVER, in fact black should not seek to kill white here, because if white runs along the third line, black's influence is more valuable]
+;W[po];B[on];W[qq];B[qp];W[rq]TR[qr][qs]C[K- the marked stones are now dead and the white group is safe]
+))
+(;B[op];W[nq];B[np];W[mq];B[lo]))

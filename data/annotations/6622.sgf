@@ -1,0 +1,123 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+PB[gotarou]
+PW[drafonis]
+WR[18k]
+KM[6.5]
+DT[2008-05-16]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[B+138.50]
+TM[1500]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+C[drafonis wrote:
+> This game, while not particularly serious, confused me because I
+> kept seeing an endgame situation when it was really many moves from
+> ending (or so my opponent assumed, resulting in me playing two less
+> moves).
+
+K- Hi, thanks for sending your game in for review. My comments will be prefxed 'K' like this one. I will make comments about particular moves throughout the game, then at the end make some summing up comments covering the whole game.]
+;B[dp]C[This seems the reverse of what I normally see (that is, first black move as Q16).
+
+K- that is only a matter of etiquette, arising from face to face games, in which it is considered polite for black to play in the corner that is close to the white player's side of the board, and near his left hand, so that the white player (presumably right handed) only needs to reach the smallest distance to play his first stone. For online games, it doesn't really matter.]
+;W[pd]C[Took the usual black opening.];B[pp];W[dd];B[qf]
+(;W[pe]C[K- not generally a strong response. If you want to play in this direction, see variation for the standard sequence]
+;B[pf];W[qe]LB[jd:B][md:A]C[This response countered what I'm normally told (regarding empty triangles). However, it was the only move I saw because of Q15 that would block B from advancing into the corner. Was this move necessarily bad?
+
+K- the reason empty triangles are advised against is because in most situations, it is an inefficient use of your stones. In other words, even if the move isn't too bad, there is usually a better move somewhere else.
+
+Your move does block black from entering the corner, however black would not actually gain very much from doing this, whereas you can make bigger gains by playing elsewhere. So I would suggest either of the other moves I have marked, depending on how comfortable you are with making moyos vs territory (A is a territorial move, B is moyo)]
+;B[ne];W[od]LB[nd:A]C[K- it is often a good idea to spread your stones out rather than making solid connections. In this case, I would recommend A instead. The clue that this is not the best move is that it creates an empty triangle.]
+;B[nd]C[K- this is a strong move by black, trapping your corner group into the corner. You are not in danger of having your group killed, but having it trapped into the corner means that later in the game you will not be able to use it to your advantage]
+;W[oc];B[nc];W[nb];B[mb];W[na];B[lc];W[jd]LB[fc:A]C[K- there is a proverb, "don't play close to thickness", which means that if you play a stone (like this one) too close to the opponent's strong stones, you might regret it. In this case, black could start to attack your corner around A and use your defence to be able to build up a strong group, which would leave the stones you have played here stuck in between 2 strong black groups and looking vulnerable]
+;B[ib]C[K- this move is a mistake by black, because there are much better moves he can make elsewhere onthe board. As a guideline, you should avoid playing on the first or second line this early in the game]
+;W[hc];B[ic];W[ge];B[id];W[hd];B[ie];W[he];B[if];W[hf]LB[gg:A]
+C[K- A would be better here];B[hg];W[gf]LB[gg:A]C[K- why not A?]
+;B[gg];W[ef]C[K- good];B[eh]C[K- also good!];W[fg];B[fh];W[ff]
+C[K- not necessary yet (wait for black to force you to make this move). Instead you could take the initiative elsewhere, attacking black's corners along the bottom for example]
+;B[cg];W[cf];B[bf]
+(;W[be]LB[ce:A]C[Was a hane appropriate at this move?
+
+K- it gives back the cut at A, which is bad for you, so see variation for an alternative here]
+;B[ce]C[This seems like either the result of a bad hane or overly aggressive play by black, but I'm not sure which.
+
+K- most directly, the hane was the cause, but black is also playing aggressively in general]
+;W[cd];B[df];W[de];B[bd];W[bc];B[ae];W[ac];B[eg]C[K- black is trapping you into the corner again - actually you could not break out through this gap, but that is what black is doing with this move.
+
+So, it is a wasted move by black therefore a mistake - you can play elsewhere to take the initiative]
+;W[ad]C[K- a very small move, black can even ignore this and make a bigger move elsewhere]
+;B[be];W[cc];B[fa]LB[hb:A]C[Was there any way to prevent this incursion (which cut significantly from my territory in the corner)?
+
+K- yes, if you had played your previous move at A, this would no longer be available for black.
+
+This large knight's jump, at this position on the edge of the board, is called a monkey jump, and it can be very nasty to defend against, so it is worth looking out for and defending against *before* it happens (by playing at A).]
+;W[fb];B[ga]LB[ea:A]C[K- mistake by black, he could have played at A and made even more trouble for you]
+
+(;W[ha]C[K- a sacrifice is often a good way to defend against a monkey jump, but in this case it doesn't work, so see variation for what is probably the best option you have - although it is painful!]
+;B[hb];W[gb];B[ea];W[da];B[eb];W[ec]
+(;B[ia]LB[db:A]C[K- black let you off here, he could continue to take away your territory by playing at A - it could get very nasty, see variation]
+;W[db];B[ha];W[fc]C[K- not needed];B[ma];W[ob];B[oe]C[K- not needed]
+;W[re];B[rf];W[jp]LB[jq:A]C[K- good! you are taking the initiative now (tip: usually easier to do this invasion on the 3rd line, at A)]
+;B[mq];W[mp]LB[fq:A]C[K- there is another proverb - when you attack your opponent, you make him stronger. A better strategy for you here would be to build up some strength by pushing in the other direction (for example at A) before fighting here]
+;B[lq];W[lp]LB[np:A]C[K- you could cause more trouble for black by playing at A here]
+;B[np];W[kp]LB[kq:A]C[K- playing at A is better shape];B[kq]
+;W[no];B[oo];W[mo]LB[nn:A]C[K- empty triangle! consider A instead]
+;B[on];W[nn];B[nm]LB[nn:A]TR[mo]C[K- a key move, giving black a good chance of a huge territory on the right side - he could not have done this if you had played the move I've marked with a triangle at A instead. An example of why empty triangles are bad!]
+;W[mm];B[nl];W[jm];B[ml];W[lm];B[kk];W[km]C[K- not needed];B[il]
+;W[in];B[gm];W[hm];B[hl];W[im];B[gn];W[hn];B[gp];W[hp];B[hq]
+;W[ip];B[iq];W[go];B[fo];W[ho]C[Did black allow me this area?
+
+K- yes, black played a strategy of fencing you in, not trying to kill you, just giving you a small territory with a strong wall around so that you could not break out]
+;B[fq];W[qq]C[K- you have a big problem now, because black has got a big advantage with his walls all over the board. In fact, it is probably worth resigning at this point - however, there is no harm in fighing on for the practice!
+
+This is a good place to start.];B[qp];W[pq];B[oq];W[or];B[nr]
+;W[ns]C[K- this is too weak];B[pr];W[os];B[qr];W[rr];B[rq];W[sq]
+;B[sp];W[qq];B[pq];W[so];B[sr];W[ss];B[rs];W[cq];B[cp];W[bp]
+;B[bo];W[ap];B[ao];W[dq];B[eq];W[dr]LB[br:A]C[K- empty triangle again. A is a vital point in this shape, you could play there instead (there is no guarantee here that you will live, so look for points that build eyes)]
+;B[bq];W[ar];B[aq];W[br];B[cs];W[ds];B[bs];W[cr];B[er];W[as]
+;B[es];W[co];B[cn];W[do];B[dn];W[eo];B[en]LB[ep:A]C[K- mistake by black, he should play at A]
+;W[bp];B[ep];W[ap]C[Was there any way to get a better result in the corner?
+
+K- actually, you got away with it ok here, it looked like your group was dead until you got this capture.
+
+The thing to remember when you invade a corner is this : you need to be able to threaten to break out, otherwise your opponent can just concentrate on killing your invaders. In this game, black had such strong walls that you could not really make this a credible threat, which is why you had a hard time in these 2 corners.]
+;B[bm];W[bq];B[kl];W[jl];B[jk];W[ll];B[lk];W[ln]C[K- not needed]
+;B[jq];W[ko]C[K- this is just taking away your own points! you already had 2 eyes here, no need to make a third]
+;B[se];W[sd];B[sf];W[rd];B[sn];W[dc];B[ro];W[dj]C[K- bold, and unlikely to live, but good practice! :-)]
+;B[fj];W[ck];B[bk];W[cj];B[bj];W[ci];B[bh];W[ei];B[fi];W[ek]
+;B[ej];W[bi];B[ai];W[di];B[ch];W[aj];B[ak];W[dg];B[dh];W[ag]
+;B[ah];W[af];B[bg];W[ig];B[jg];W[gh]LB[ih:A]C[K- you should try to play at A before playing this stone]
+;B[hh];W[hi];B[gi];W[ih];B[gh];W[tt]C[The match continued on past this point. However, was a pass appropriate at this point (and my opponent misjudge the situation), or did I throw away a move?
+
+K- yes, you were ok to pass. I have no further comments about individual moves, but I have put some summing up comments at the end.]
+;B[ii];W[jh];B[kh];W[kg];B[ji];W[jf];B[je];W[ig];B[kf];W[jh]
+;B[ih];W[pg];B[og];W[pj];B[ph];W[qh];B[qg];W[pi];B[qi];W[ri]
+;B[rh];W[qj];B[rj];W[qh];B[si];W[qi];B[rk];W[oh];B[pg];W[qk]
+;B[ql];W[rl];B[rm];W[qm];B[pl];W[sh];B[sg];W[sj];B[sk];W[tt]
+;B[sl];W[oi];B[mh];W[lg];B[mg];W[lf];B[le];W[mf];B[nf];W[md]
+;B[me];W[ke];B[kd];W[lb];B[mc];W[kc];B[jc];W[bl];B[cl];W[dl]
+;B[dk];W[dj];B[ck];W[cj];B[ci];W[gq];B[gr];W[mr];B[nq];W[an]
+;B[am];W[co];B[do];W[tt];B[ps];W[ms];B[lr];W[nh];B[lh];W[li]
+;B[mi];W[mj];B[lj];W[mk];B[nj];W[ik];B[hk];W[hj];B[ij];W[gk]
+;B[gj];W[gl];B[fl];W[hj];B[fk];W[af];B[nk];W[mj];B[pk];W[ok]
+;B[oj];W[ol];B[om];W[pm];B[qn];W[ng];B[ni];W[tt];B[tt]C[K- there are 3 main points to remember from this game:
+
+1) The importance of NOT being hemmed in. Black clearly had a strategy of trying not to kill you, but to enclose your groups so that you got only a small benefit from them. It is obviously important to make a group live, but it is also important to "poke your head out" because, if you get hemmed in, then your group can not provide help to your other groups or be a threat to your opponent's groups. As you saw in this game, that can make it extremely difficult to create new groups as the game progresses.
+
+2) Taking the initiative. It is a good idea to actively look for opportunities to ignore your opponent's move so that you can take the initiative somewhere else. Usually this means your opponent could take some of your territory (for example), so the trick is to look for times when the damage your opponent can do is small compared to the benefit you get for playing elsewhere. Remember, this is a game of exchanges - you cannot expect your opponent to get nothing, you just need to look for chances to make sure that you get more then s/he does.
+
+3) Empty trianges ARE bad in pretty much any situation except when you are in a life & death battle and need to make eyes in a small space. As I alluded to earlier, sometimes it may appear that an empty triangle will help you, but in these cases it is nearly always true that a different move would help you more.
+
+There is a proverb "if you have no good move in one area, play in another area". In other words, if you cannot find an answer that you are happy with to a move your opponent makes, it is better to ignore it and play elsewhere than to allow yourself to be forced to play a bad move.
+
+Right, that's it. I hope my comments were useful. If I've mentioned anything you would like further info on, or if I have missed anything out that you particularly wanted to know, just drop me an email and I will try to clarify - here's my address: offwhitedog-gtl@yahoo.com
+
+/Kester])
+(;B[db];W[cb];B[ca];W[ba];B[ia];W[da]C[K- ....so black has taken away most of territory AND has sente at the end]
+))
+(;W[eb];B[ea];W[db];B[da];W[ca];B[gb];W[hb];B[ha];W[gc];B[ia]
+C[K- on the positive side, you are alive, you have some territory, and you have sente!]
+))
+(;W[ce];B[be];W[bd]))
+(;W[pf];B[pg];W[of];B[qe];W[qd];B[qi];W[nd]))

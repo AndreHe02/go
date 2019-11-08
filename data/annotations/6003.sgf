@@ -1,0 +1,198 @@
+(;FF[4]GM[1]SZ[19]ST[1]AP[SGFC:1.15]
+
+PB[krinid]
+BR[5k]
+HA[4]
+PW[unknown]
+WR[1k]
+KM[0.5]
+DT[2007-07-24]
+RE[B+Resign]
+TM[60]
+
+AB[dd][pd][dp][pp]C[[krinid\] This is a game that I won, but feel I shouldn't have.  I was outplayed but was just fortunate due to a few mistakes on white's part.  Looking over the game, I'm interested first and foremost in how my global strategy failed (because it was only white's mistakes that let me win).
+
+Points I'm interested in having reviewed:
+- how my global strategy failed (because it was only white's mistakes that let me win)
+- how I could have played better to keep my bottom side groups connected
+- how I could have played better/offensively (I was also on the defensive most of the game)
+- a few specific questions in the game asked in comments on move numbers: 34, 58, 88
+- any specific comments on my fuseki and yose
+
+BLACK - krinid, 5k on KGS
+WHITE - a 1k opponent on KGS
+
+[Y\] Hi, I'm Yan.  I will do my best to review your game.  I see you have four stone advantage.  Normally my approach is to make safe non-joseki moves and gain advantage when my opponent makes suboptimal plays.  We will how you do in this game.]
+;W[qn];B[np];W[rp];B[qq];W[qk];B[kq]C[[Y\] So far so good.  But why not K3?  It links up with D4 nicely hence has more power.  There is an old japanese saying, literally translates as: you would rather play a brave game than weak moves because in the end even if you lose, you lose without losing your go spirit.  That's why you see often in pro games, if they realize they cannot win, they would make a brave but unreasonable move as their final move.  And if they opponent answers correctly, they resign at that point.  It's quite interesting:-).]
+;W[fq];B[hq];W[fo];B[dn];W[fm];B[dl];W[dr];B[cq];W[cr];B[jc]
+;W[qg];B[mc];W[rd];B[qc];W[rc];B[ch]C[[Y\]  This move is a bit weird.  If you want to build your moyo, you don't want to play on third line.  If you want to get territory, you would connect with either upper left corner or lower left group.  This stone is not connected to either group.  So it's not as good, unless you are a pro:-).   C14 or c10 is better.  I would go with c14.]
+;W[cg]C[[Y\] white makes unreasonable move now.];B[dh]C[[Y\] Good.]
+;W[dg];B[gc]C[[Y\] E13 is urgent.  Hane at the head of two stones.  You are much stronger here, so you need to be aggressive.  If E13, even if you don't kill the white stones, which is very heavy by the way, your outside would become real territory soon.]
+;W[fg]C[[Y\] White is happy to get out.];B[ce]C[[Y\]  Attacking moves doesn't have to be close. I would play C[16\].  Leave no aji at the corner.]
+;W[bh];B[bi];W[bf];B[ci];W[hc]
+(;B[hb]C[[krinid\] I really wanted to play on top at H16 here, see variation.  Also the variation of move 36.  What's the best response here?
+
+[Y\] Considering your corner is not settled, I would play G16.]
+;W[fc]
+(;B[fb]C[[Y\] Again G18.  F18 is helping white.];W[ec];B[dc]
+;W[eb];B[db];W[fa];B[gb];W[fe];B[hd];W[ee];B[qe];W[re]C[[Y\] Black left upper corner is not alive yet..]
+;B[qf];W[rf];B[pg];W[qh];B[ph];W[bd];B[bc];W[bb];B[ac];W[be]
+;B[de]C[[krinid\] At this point, I judged the top left to be alive.  However, through going through variations after the game, I see that it's only through white's mistakes that this group lives.  At what point did this group die and how could I have played this better to make it live?
+
+[Y\] All because of C15.  And still not alive yet.];W[eh];B[kj]
+C[[Y\] You are allowed to make this flashy move.  You have four stones handicup:-).]
+;W[ig];B[kf];W[kg];B[lg];W[jf];B[ke];W[qb];B[pb];W[qd];B[pc]
+;W[ra];B[pi];W[qi];B[pj];W[pk];B[qj];W[rj];B[ok];W[pm];B[ol]
+;W[pl];B[kh];W[in];B[km];W[kn];B[lm];W[mp];B[lp]C[[krinid\] I was expecting white to play up to N5, figuring down to N4 would be suicide with so many surrounding black stones.  But I guess in handi games, you need to take risks.
+
+What's the best response/some better responses to this?
+
+[Y\] Simply n3 is good.  Why fight with a poor man when you are rich.  Another proverb.]
+;W[mq];B[mo];W[no];B[nq];W[mr];B[nr];W[jq];B[kr];W[jr]
+(;B[ho]C[[krinid\] I realized it a little too late that the H3 stone was in jeapardy.  In hindsight, I probably should have just let this die and distinctly killed the N2 group at this point.
+
+[Y\] It doesn't have to die.  White is playing unreasonable here hoping that you would make a mistake. K4 is the right move here.]
+;W[kp];B[ko];W[jp];B[jo];W[io]
+(;B[ip]C[[krinid\] This is a mistake.  I was getting greedy and wanted to kill the K2 group as well as the N2 group as well as save the H3 group.]
+;W[lq]
+(;B[ms];W[lo];B[hn];W[im];B[lr];W[mn];B[ls];W[hm];B[rq];W[qp]
+;B[om];W[on];B[mm];W[je];B[ej];W[br];B[bq];W[ai];B[aj];W[ah]
+;B[bj];W[jd];B[kd];W[gi];B[hh];W[ih];B[hi];W[ii];B[hj];W[ij]
+;B[gj];W[hg];B[gh];W[fi];B[gg];W[he];B[id];W[gd]
+(;B[gf]C[[krinid\] This was greedy again.  I should have saved it first with F10.
+
+[Y\] Not neccessay.  See variation later on..];W[ie];B[ic];W[fj]
+;B[gl];W[fl]
+(;B[gm];W[gn];B[go]C[[Y\] Never play these kind of moves!  It's a waster of ko threat.  Also it's not a respectful move either if you take it seriously.  You wouldn't feel good if you win the game from your opponent's mistake like this.]
+;W[fn];B[fp];W[ep];B[gq];W[gp];B[ik];W[jk];B[il];W[jl];B[jj]
+;W[hk];B[gk]
+(;W[hl]C[[krinid\] White made a mistake and let the group live.
+
+[Y\] Not really a mistake.  White is too disconnected here.  See variation]
+;B[fk];W[ek];B[el];W[dk];B[dj];W[ck];B[cl];W[bk];B[bl];W[pa]
+;B[oa];W[ob];B[qa];W[ak]C[[krinid\] Another mistake by white.  It's not a ko threat.]
+;B[rb];W[sq];B[sr];W[sp];B[rr];W[pr]
+(;B[qr];W[pq];B[ps];W[op];B[po];W[oo];B[oq];W[qo];B[or];W[pq]
+
+(;B[pr];W[ns];B[rs];W[ks];B[ri]C[[krinid\] Just a silly play on my part.
+
+[Y\] G15 kills the whole group if black's corner group were alive.]
+;W[rh];B[ln];W[jm];B[kk];W[ge];B[al];W[ff];B[cj]
+(;W[ga]C[[krinid\] A huge mistake on white's part!  This allows me to make the group live because of the shortage of liberties the F19/G19 stones now.  Mind you, I hadn't realized it would have been dead yet.  I only played here because of the activity in the area and figured the effect of the G19 play now affected my group.]
+;B[ha]
+(;W[ea]
+(;B[cb];W[cd];B[ba];W[da];B[ab];W[jg];B[ji];W[kl];B[ll];W[aq]
+;B[ap];W[ar];B[bp];W[sb];B[sa];W[cc];B[ca];W[ra];B[ei];W[qb]
+
+(;B[pa];W[rb];B[fh]C[[krinid\] Another mistake by white.  Finishing the ko in the corner is smaller than this, I think.]
+;W[eg];B[nm];W[pn];B[pq];W[dq];B[eo];W[en];B[do];W[ad];B[em]
+;W[hp];B[hf];W[ed];B[df];W[nn];B[ag]C[[krinid\] Another silly play by me.]
+;W[bg];B[jh];W[ms];B[tt];W[pe];B[pf];W[oe]
+(;B[nb];W[tt];B[tt]TB[aa][ia][ja][ka][la][ma][na][bb][ib][jb]
+[kb][lb][mb][ob][hc][kc][lc][nc][oc][ld][md][nd][od][le][me]
+[ne][oe][pe][lf][mf][nf][of][mg][ng][og][lh][mh][nh][oh][di]
+[fi][gi][ki][li][mi][ni][oi][fj][lj][mj][nj][oj][ak][bk][ck]
+[dk][ek][lk][mk][nk][ml][nl][am][bm][cm][dm][an][bn][cn][ao]
+[bo][co][cp][qs][ss]TW[sa][sc][fd][sd][ae][se][af][sf][ag][rg]
+[sg][sh][ri][si][sj][ik][rk][sk][il][ql][rl][sl][qm][rm][sm]
+[hn][jn][rn][sn][go][ho][jo][ko][mo][ro][so][fp][ip][lp][eq]
+[gq][hq][iq][kq][er][fr][gr][hr][ir][kr][lr][as][bs][cs][ds]
+[es][fs][gs][hs][is][js][ls]C[[krinid\] Thanks for the review.
+
+[Y\].  I think I've answered all your questions during the game.  To recap:
+
+1) your global strategy was too keep the lead, but it didn't work because you didn't make solid connected groups, and failed to be aggressive when white makes unreasonable move.
+
+2) Don't play moves that help your opponent if you don't get equal or more in return.  Think of ways to disrupt your opponent's plan.  Another handy proverb is your opponent's key point is your key point.  Play those first:-).
+
+3) Ko threats are very important.  Many games are won from ko threats, you want to keep those as much as possible.
+
+I enjoyed reviewing the game.  Thank you for submitting the game.  Let me know if you have any questions.
+
+Cheers,
+Yan])
+(;B[tt]C[[krinid\] I think I can get away with this, but I didn't want to risk it.]
+
+(;W[od];B[nb];W[oc];B[na];W[nc];B[mb];W[kc];B[kb];W[lc];B[lb]
+;W[ld];B[le];W[md];B[me];W[nd];B[lh])
+(;W[na];B[nb];W[oc];B[ma];W[od];B[na])))
+(;B[fh]C[[krinid\] I think I can get away with this play and let white capture at Q19.]
+;W[pa];B[na];W[nb];B[qa];W[pn];B[rb];W[pq];B[sa];W[sc];B[ra]
+))
+(;B[ba];W[ca]
+(;B[cb];W[da];B[ab])
+(;B[da];W[cb];B[ab];W[aa];B[cc];W[cd];B[ed];W[fd];B[ad];W[ae]
+;B[df];W[ef];B[ba])))
+(;W[cb]
+(;B[da];W[cc];B[cd];W[ab])
+(;B[ea];W[cc];B[cd])))
+(;W[da]C[[krinid\] All of these lead to death of the corner group.]
+
+(;B[ca];W[ea];B[cb];W[ab];B[ba];W[cd])
+(;B[ba];W[ca];B[cb];W[ab];B[aa];W[cd];B[ea];W[da])
+(;B[ab];W[ca];B[cb];W[ba];B[aa];W[ea])))
+(;B[ns]C[[krinid\] Even this isn't as bad as what I played.]
+;W[pn]))
+(;B[pq]C[[krinid\] This seems much better in hindsight.];W[or]
+;B[rs]))
+(;W[fk]C[[krinid\] This kills the group.];B[hl];W[jm];B[ge]
+;W[fd];B[jg];W[hf];B[ji];W[fh];B[jh]C[[Y\] Again black wins.]
+))
+(;B[fk];W[ek];B[gk];W[dj];B[ik];W[jk];B[ge];W[fd];B[jj];W[il]
+;B[hk];W[jl];B[jg];W[hf];B[jh];W[fh];B[ji]C[[Y\] Black kills.]
+))
+(;B[fj]C[[krinid\] This is safer.]))
+(;B[lo]C[[krinid\] This seems to be a much better response than N1.  Or is my reading to naive?]
+
+(;W[lr];B[ms];W[ks];B[hr];W[gp];B[hp];W[hn];B[is];W[gq];B[js]
+;W[go];B[kr];W[kq];B[ns];W[gr];B[ls];W[gs];B[kr])
+(;W[ks];B[ms]
+(;W[ls])
+(;W[lr];B[hr]))))
+(;B[lr]C[[krinid\] This is better.];W[ln];B[mn];W[jn];B[lo]
+;W[mm];B[nn];W[nm];B[om]
+(;W[on];B[oo])
+(;W[oo];B[on];W[po];B[pn]
+(;W[qp])
+(;W[qo];B[rq];W[op];B[oq];W[qp]
+(;B[pq];W[sq];B[sr];W[sp]
+(;B[rr])
+(;B[ip]))
+(;B[ip];W[pq];B[pr];W[ns];B[or];W[sq];B[sr];W[rr];B[sp];W[qr]
+;B[sq];W[ps];B[pp];W[iq];B[pq];W[hp];B[gp];W[so]
+(;B[ip];W[os])
+(;B[rs];W[ip];B[fp];W[ep];B[eq];W[gq];B[eo];W[go];B[ep];W[er]
+))))))
+(;B[jp];W[ip];B[iq];W[jo];B[kp];W[lo];B[mn]))
+(;B[gb];W[cc]))
+(;B[hd]C[[krinid\] I really wanted to play here at H16, but wasn't sure if I could kill H17 or not, or at what price it might cost to kill it.  I've read through a few variations here - I've left them so you can see my reading of the situation, but feel free to kill them and show me the best response to white H17.]
+
+(;W[ic];B[id];W[jb];B[kc];W[gb];B[fc];W[fb];B[eb];W[kb];B[lb]
+
+(;W[ha]
+(;B[ib];W[hb];B[ia];W[fa];B[ka];W[ja])
+(;B[ka];W[fa];B[ib];W[hb];B[ja]))
+(;W[fa]
+(;B[hb]
+(;W[ib];B[ha]
+(;W[ia];B[ka])
+(;W[ec];B[ed];W[dc];B[db];W[cc];B[cb];W[bc];B[bb];W[be];B[ac]
+;W[ad]
+(;B[bd];W[ab];B[cd];W[ac];B[ea])
+(;B[ab]
+(;W[bd])
+(;W[ia];B[ka]
+(;W[ga];B[bd];W[cd];B[bd])
+(;W[bd])))))
+(;W[ec];B[dc];W[ed];B[gd];W[db];B[ib];W[ea];B[ee];W[cc];B[cd]
+;W[bc];B[bd];W[ca];B[ac];W[ab];B[ad];W[bb];B[fd];W[eb]))
+(;B[ec]
+(;W[hb])
+(;W[ha];B[ib];W[hb]))
+(;B[ib];W[hb];B[ia];W[ha])))
+(;W[gb];B[fc])
+(;W[gd];B[fc];W[id];B[he];W[ic];B[ge];W[jd];B[kc];W[jf]))
+(;B[gd];W[hd];B[he];W[jd];B[kd];W[ie];B[gf];W[hf];B[ge];W[gg]
+;B[hg];W[if];B[hh]C[[Y\] Good for black.  Even if white go for the corner, you would be ok.]
+;W[cc];B[be];W[dc];B[gb];W[hb];B[bc]C[[Y\] White cannot live in the corner.  And his outside groups are under attacks.  Likely will lose one.]
+;W[bb];B[bd];W[fb];B[eb];W[ec];B[fc];W[db];B[fa]))

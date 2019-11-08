@@ -1,0 +1,163 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.17]
+
+PB[VIEGAS]
+BR[22k]
+PW[matrixmark]
+WR[21k]
+KM[0.5]
+DT[2012-06-29]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[W+91.5]
+TM[1200]
+OT[25/1200 Canadian]
+RU[Japanese]
+
+C[Overall comments/advice
+- Try to think about the whole board, rather than just reacting to your opponent's move by playing a move in the same area.  If there are weak groups (to attack or defend), then often this is the most important move to play.
+- Keep thinking about indirect attacks, or double-purpose moves.  An example is move 87 where Black extends and threatens to cut.  If you play a move with two purposes, it is harder for your opponent prevent you gaining one of your aims.
+- Don't be afraid to attack invading stones.  White got away with a few weak attacks because Black just responded, rather than thinking about counter-attacking.  This comes back to the point about reacting to opponents moves.  If your opponent hadn't just played an invasion (say the stone had been there for a while), how would you attack it?
+- Try to pay attention to when a group is dead, and avoid wasting moves capturing it.  This happened to both players, but gave White at least 4 free moves overall - a margin that is likely to be decisive in any close game.
+
+Don't hesitate to ask me any questions where the review is not clear, or you want more info.  Thanks.]
+;B[qd];W[cc]C[VIEGAS [22k\]: bom jogo];B[co];W[pq];B[oc];W[cg]
+;B[fp]LB[dq:a]C[This is a very open framework.  More usual is A, which gives white less scope to invade.]
+;W[dp]
+(;B[jc]LB[pj:a][do:b][cp:c]C[Extension from the corner enclosure is better done to the other side - for instance A.  Also white's last move probably needs answering - this could get messy, but enclosing with B, or undermining with C should produce good results for black]
+;W[ck];B[en]TR[ck][dp]C[Good idea to try and keep the marked White stones separate.]
+;W[eo];B[pj]TR[fp]LB[qo:a][fo:b]C[This is a good move - again I think there's trouble in the lower left corner - but if the board was settled this is probably the best move for Black - looking to an attack at (or around) A is very threatening.
+
+I think I would have played B - White can escape from the corner by playing there, leaving the marked stone very weak indeed.]
+;W[pm]LB[qm:a][po:b]C[Good response from White - though perhaps the third line (A) is safer - Black is threatening an invasion at B which could be tricky for White...]
+;B[fo]TR[co]C[Nice move.  It might be necessary to sacrifice the marked stone, giving White a large corner, because Black didn't respond to White's invasion immediately.]
+;W[fn];B[do];W[ep]
+(;B[dm]LB[dl:a][fm:b][gn:c][em:d]C[I like A here.
+
+B leaves some trouble if White responds at 19 - see variation]
+;W[em];B[dn];W[gm];B[jq]LB[fq:a]C[Here A is strong, as it strengthens the two black stones, and (I think) kills the 3 white stones]
+;W[fq]LB[cp:a][go:b]C[Good move from White - with a follow up at A she should live - and B kills the two Black stones]
+;B[gn]C[Good forcing response];W[fm];B[hn]LB[hp:a]C[Often this shape is good - but the cut here is atari, and A is very strong for White.]
+(;W[go]
+(;B[cp]LB[gp:a]C[Black can win this capturing race by playing A - see variations.  The direct cut is a mistake for White.]
+;W[gp];B[dq];W[in];B[ds]LB[er:a]C[Unnecessary - usually moves on the edge of the board are reserved for the endgame.  The corner is secure so this move is wasted, but if you did need to play here, A is better - it gives more territory, and threats to the irght.]
+;W[hm];B[er]LB[og:a][ql:b][fc:c][mq:d]C[Also unnecessary - moves such as A, B, C or D are much bigger.  Now move 33 is completely eclipsed by the stone at 35 - you played 2 moves where only one was required.]
+;W[fc];B[hc];W[mq]LB[gr:a]C[Good move from White - attacking Black's weakest group.
+
+Trying to connect underneath at A might save it.
+
+Now White has two of the crucial points I suggested on move 35.]
+;B[qg]LB[og:a][pg:b]C[I think A or B are better here.  White shouldn't be able to invade successfully under A - so why not go for a bit more?]
+;W[pg];B[pf];W[ph];B[qh];W[pi];B[qi];W[of];B[oe]LB[pe:a]C[As you saw, A is probably better here - though the problem really came from 39 being too low.]
+;W[pe];B[qf];W[od];B[pd];W[ne];B[qe];W[oe];B[nd]LB[nc:a][pc:b]
+C[Here you're asking for trouble - A is better, as there's no threat for White at B (see variation)]
+(;W[iq]C[Very good move from White.  This Black stone is very weak, and can be dealt with.  Although there are some good attacks in the top right corner that she's missed, as per my variations.]
+;B[he]C[I think you should secure the top right corner first.]
+;W[md]C[As per my previous comments - this isn't the best attack here...]
+;B[nc];W[mc];B[lc];W[ld]
+(;B[mb]LB[lb:a]C[Always be careful playing a stone on the second line where there is an atari threat nearby - as in this case.
+
+A is better, as the top Black group still has no eyes.];W[lb]
+;B[kc];W[nb];B[ob];W[ma];B[na]C[Poor move - White captures this immediately...]
+;W[mb]C[...or not - but still keeps sente.];B[oa];W[pc];B[pb]
+C[Correct - you have to block this way to prevent a big loss in the corner.]
+;W[qc];B[qb];W[rc];B[rb];W[rd];B[re]C[Good play here to prevent White's bad cut paying off]
+;W[jp]C[Finishing off the lonely Black stone.  This is conservetive, but I have no problem with this move, as it gives White a lot of security on the lower side.]
+;B[sc]C[No need to waste a move here - the White group has only 2 liberties - both Black groups nearby have 4 or more, so there's no rush at all to play here - the White group will almost certainly be (dead) still on the board at the end of the game in normal circumstances.]
+;W[pk];B[kb]LB[gb:a][ib:b][je:c]C[Good move - this group really needs some attention.  You should be looking to make 2 eyes on the side - currently there's only space for one - but if A then B or C for example, Black should have no problem at all living here.]
+;W[oj];B[qj];W[ni];B[ke]C[This is a nice move - an extension and an attack.]
+;W[le];B[kd];W[cm]
+(;B[cl]LB[bl:a][bm:b]C[This is the right intention - to counterattack White's invading piece.  However I think this is trouble if White A.  Black B is better here, as White cant get any more from the attack.]
+(;W[dl]LB[bl:a]C[This is a mistake for White - it loses the attacking stone.]
+;B[bl];W[bm];B[bk];W[ek];B[cj];W[dk];B[ci]C[Well played - you took White's attack and made him pay for over-committing, then missing the key move.]
+;W[ce];B[bn]C[Again this is unnecessary - the 2 White stones are dead.]
+;W[qo];B[cn]C[This move is also unnecessary];W[kq]C[This White move is similarly useless - the Black stone is no threat]
+;B[am]C[This move is also not required.];W[qk];B[rk];W[rl];B[sj]
+;W[ol];B[fr];W[gr];B[gs];W[hs];B[fs];W[ir];B[eq]LB[kg:a][jg:b]
+[hh:c]C[This is not a bad move, but it is very small (makes little difference to the game as a whole) compared to moves like A, B or C.  Black desperately needs to make inroads into the White centre - adn only has 2 groups (top and left) capable of doing any damage.  There's no time to waste!]
+;W[ho]C[White wastes another move.];B[kf]LB[jg:a]C[Good - a simple, safe extension, but gives Black more reach into the White centre.  I think A is better - as you need to be much more adventurous to win from here...]
+;W[gc]LB[lf:a]C[I think White is better playing A.  Black has some good threats (see variations) which allow him to develop towards the centre nicely.]
+(;B[gb];W[fb];B[ga]LB[ha:a]C[A resolves this more quickly.]
+;W[fa];B[hb];W[gd];B[hd];W[ge];B[gf];W[ff];B[gg]C[Good - you're winning the 'running battle' here - pushing White back and taking some profit.]
+;W[fg];B[ja]C[This is another waste - you now have plenty of space to make 2 eyes - extending into Whites huge centre territory has to be the top priority.]
+;W[gh]LB[gi:a][hi:b]C[Compare this with Black 133 at 134...]
+;B[hh]C[Now you see why Black 133 at 134 is so much better...]
+;W[hg];B[hf];W[ig]TR[hh]LB[kh:a]C[Here you have to give up the marked stone, andd concentrate on invading the White moyo.  A would probbaly be my choice.]
+;B[ih];W[jg]
+(;B[jh];W[kg]
+(;B[lg];W[kh];B[gi];W[fh];B[li];W[lh];B[mh];W[ki];B[jf];W[mf]
+;B[lf];W[mi];B[if];W[lj]C[By now WHite has secured the whole lower-right corner...
+
+Comments end here, as the endgame plays out largely uneventfully...]
+;B[mg];W[ng];B[ka];W[me];B[sd];W[nh];B[fi];W[hi];B[ri];W[ii]
+;B[ej];W[ei];B[fj];W[di];B[dj];W[ch];B[bh];W[bg];B[la];W[bi]
+;B[bj];W[ah];B[aj];W[ai];B[fk];W[el];B[hj];W[ji];B[gl];W[hl]
+;B[hk];W[ik];B[gk];W[ij];B[sl];W[rm];B[sm];W[rn];B[sn];W[so]
+;B[sk];W[tt];B[ko];W[jr];B[km];W[kn];B[qq];W[rq];B[tt];W[tt]
+TW[aa][ba][ca][da][ea][ab][bb][cb][db][eb][ac][bc][dc][ec][ad]
+[bd][cd][dd][ed][fd][ae][be][de][ee][fe][af][bf][cf][df][ef]
+[nf][ag][dg][eg][og][bh][dh][eh][hh][ih][jh][oh][li][oi][jj]
+[kj][mj][nj][jk][kk][lk][mk][nk][ok][il][jl][kl][ll][ml][nl]
+[pl][ql][im][jm][km][lm][mm][nm][om][qm][gn][hn][jn][ln][mn]
+[nn][on][pn][qn][fo][io][jo][ko][lo][mo][no][oo][po][ro][fp]
+[hp][ip][kp][lp][mp][np][op][pp][qp][rp][sp][gq][hq][jq][lq]
+[nq][oq][qq][sq][hr][kr][lr][mr][nr][or][pr][qr][rr][sr][is]
+[js][ks][ls][ms][ns][os][ps][qs][rs][ss]TB[ha][ia][pa][qa][ra]
+[sa][ib][jb][sb][ic][pc][qc][rc][id][jd][rd][ie][je][se][rf]
+[sf][rg][sg][rh][sh][si][gj][rj][ak][al][bm][cm][an][ao][bo]
+[ap][bp][aq][bq][cq][ar][br][cr][dr][as][bs][cs][es]C[VIEGAS [23k\]: obrigado pelo jogo]
+)
+(;B[lh];W[lg]))
+(;B[ki]C[I think this is the best response for Black, but even this doesn't stop White escaping...]
+;W[jh];B[ji];W[ii]))
+(;B[mf];W[me]
+(;B[og])
+(;B[nh]
+(;W[oi])
+(;W[og];B[lh]))))
+(;W[bl];B[dl];W[bm]))
+(;B[bm]
+(;W[cn];B[bn];W[cl])
+(;W[bn];B[cn];W[cl];B[bo];W[bl];B[an])))
+(;B[lb];W[mb];B[nb]C[No threat here...]))
+(;W[nc]C[Direct atari at A works well for White]
+(;B[md]C[Black must let this stone go, or else...];W[pc];B[ob]
+;W[mc]LB[ld:a]C[Threatening a ladder at A];B[ld];W[pb];B[nb]
+;W[mb]TR[nb][ob][oc]C[Black loses 3 stones and the corner territory]
+)
+(;B[nb]C[I think this is the best way to let go of the lost stone]
+(;W[md];B[pb]C[This works much better for Black - a safe corner, but lost the stone played on move 55.]
+)
+(;W[mc];B[md];W[ld];B[me];W[mf];B[og];W[le];B[oi]C[White can't fall into this trap though or Black can take 3 stones.]
+))))
+(;B[gp]
+(;W[ho];B[io];W[hp];B[gq];W[hq];B[gr]
+(;W[hr]
+(;B[eq])
+(;B[fr];W[eq];B[er];W[dr];B[cp];W[dq];B[cq];W[cr];B[br];W[gs]
+;B[cs];W[fs];B[ds]))
+(;W[fr];B[hr]
+(;W[ir];B[iq])
+(;W[iq];B[ir])))
+(;W[gq];B[ho];W[hp];B[go]C[This is better for White, but not as good as A on move 28 - White has the same formation, but see how the Black dumpling has more threats to cut, and the lone Black stone has help that little bit closer to hand.]
+)))
+(;W[hp];B[go]C[Black must defend here.];W[gq]TR[jq]C[White's very weak group is a bit more secure, and there's pressure on the marked Black stone.]
+))
+(;B[fm];W[dm]
+(;B[gn];W[dn]C[The 2 stones to the left will die.])
+(;B[dn];W[gn]C[Now the lower stones are under attack.  Black can win this battle, but not as surely as]
+))
+(;B[gn];W[dm]C[No good either...]
+(;B[fm];W[dn])
+(;B[dn]C[Much better for Black - though the left group can still be put under pressure.]
+))
+(;B[dl];W[em];B[dn]
+(;W[dm]TR[ep][eo][dp]C[This is a mistake by White - Black can cut and put the three marked stones in real trouble.]
+;B[fm];W[gn];B[cm];W[el];B[fl];W[ek];B[dk];W[dj];B[cl];W[bk]
+LB[fq:a][cp:b]C[Both Black and White want to play A to give their group some breathing room and put the opposing group under heavy fire.  B is also big for both players.]
+)
+(;W[fm];B[dm]TR[fo][fp]LB[ek:a][cp:b]C[Now Black has A or B to live.
+
+The two marked stones are still weak though.])))
+(;B[cp];W[dq];B[do];W[fq];B[gp];W[cq];B[bq];W[br];B[ap]C[Black builds a very strong wall to the left side and centre, while White gets very little...]
+)
+(;B[do];W[cp];B[bo];W[bp];B[er];W[dr]C[White may be able to live in the corner, but Black's influence will far outweigh the territory gained.]
+))

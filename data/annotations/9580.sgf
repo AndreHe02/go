@@ -1,0 +1,159 @@
+(;FF[4]GM[1]SZ[13]ST[2]CA[UTF-8]AP[SGFC:1.16]
+
+PB[bmc]
+BR[18k]
+PW[Chawles]
+WR[18k]
+KM[0.5]
+DT[2014-10-08]
+PC[OGS: http://online-go.com/game/review/34646]
+RE[W+Resign]
+RU[Japanese]
+
+C[* Dear bmc, 
+* I am grimaldi (12k on DGS at the moment, 11 k on OGS according to senseis) and with-out rank on KGS and OGS. 
+* I will review this game from the point of view of Black. I used Cgoban 3 as editor.
+*
+* My comments will be prepended using a star (*), like here.
+*];B[dj];W[jd];B[dc];W[jj];B[hc]C[* Reasonable opening.
+* 
+* What are the stones telling me?
+* You aim for top left territory and invite an invasion on the left hand side. White played a star-star opening, ready to take territory on the right hand side or ready to take center influence (depending on what you do).
+*
+* What continuation can now be expected from white? 
+* White is behind (no first move) and stronger than you (at least a stone, he only has 0.5 komi).
+* And how will you react to the next moves?
+* 
+* Was the continuation you played in line with the strategy outlined above?
+* (Yes, until move 9.)];W[ce];B[cg];W[cc]
+(;B[de]LB[cb:B][dd:A]C[* For me, this move is bad. 
+* Why? Because this makes 10 possible (see comment on move 11) and it does not follow the goal you outlined by playing on the third line. Instead this aims to connect your two groups and aims for center influence. 
+* 
+* Better play A or B or better even A than B to put pressure on the group (see variation) and to take profit from your 3rd line position.
+*];W[dd];B[ed]TR[ec][ee]SQ[cd]C[* White's next move will be at the square and you have two weak points (triangles) to defend.]
+;W[cd]LB[ec:B][df:A]SQ[de]C[I ended up doing A, but think B would have been better and created territoy on top for myself. Or am I nitpicking, and move 9 was my real mistake?
+
+* Yes, the squared move (9) was bad, see discussion there.
+* 
+* But please do not think that B would have been that better. As it stands, white succeeded at invading (see variations)
+*]
+(;B[df];W[ic]
+(;B[kg]LB[db:2][ec:1][hd:A]C[should I have continued to solidify my position on top instead with something like A?
+
+* No, you would have given up too much, see analysis in variation.
+*
+* 1 or 2 are very, very urgent now! This will give a large corner for white!
+* 
+* This is one move to late. 13 was gote, so white could strengthen the top right corner with 14.
+*];W[kh]
+(;B[lg];W[le];B[ke];W[kd];B[je]LB[ie:A][jg:B]TR[lg]C[* What did you accomplish with the sequence from 16? 
+* What did W achieve?
+*
+* W now has an invicible position in the top right. 
+* W feels save to play tenuki (elsewhere).
+*
+* The black group does not have secured any eyes or eye space. A threatens to kill it. B and you have to run.
+* 
+* Why is this so?
+*
+* The triangle was a very slow move. When invading, you will likely loose some stones, so play them lightly, with spaces in between, so you won't have to sacrifice them all.
+* See variation on move 17 and compare the results.];W[fk];B[ek]
+LB[hk:A][kk:B]C[* This is a defending move. You are defending the bottom left corner.
+* You should be attacking here.
+*
+* An attack move would have for example been at A, where you could slide into the right corner (k3) and with which you are trying to separate the two white groups.
+* Invading at B also would have been an option, but with more risk.]
+;W[fj]LB[hk:A][kk:B]C[* This makes invading at A impossible (imagine K3 as response).
+* The 3-3 invasion at B would still be an option, but less desirable now.]
+;B[hg]TR[hj][kk]SQ[ie][fg]C[* This move gives up the initiative (a gote move).
+* White does not have to react to it. Instead it gives white the chance to solidify it's position (or attack in response).
+* 
+* You are trying to secure points in the center. This is a rather difficult excercise (first play corners, then side, then center).   
+* If white played at the marked positions (squares), you would have quite some difficulty to get any points at all.
+*
+* Try invasioins at the triangles next time];W[kk]C[* white defends against the 3-3 invasion.]
+;B[hj];W[hk];B[gi];W[ck]LB[cj:B][el:A]C[Here I had assumed that stopping White from reinforcing with A would have been enough to kill. How should I have reacted to this? It feels like I should have been able to win back the corner. Was B any better?
+
+* Yes, B was better, see variations.
+* 
+*]
+(;B[el];W[cj];B[ci];W[bi];B[bh];W[di]C[* strong play by white.]
+;B[ch];W[dk];B[ej];W[dl];B[bj];W[bk];B[ai];W[fl];B[dh]C[* Wrong side. Play e5 instead.]
+
+(;W[em];B[ei];W[fi];B[fh];W[ec]C[* now you pay the debts.];B[db]
+;W[cb];B[fc];W[eb];B[fb];W[da];B[fe];W[hd]C[
+* Your analysis did identify some key points. Well done!  
+* 
+* The following things contributed to the large difference in territory:
+*  -- You tried to win by building a center position. This is _not_ easy (the number of moves needed to live in the center is much larger than on the side or in the corner). 
+*  -- The invasion on the right hand side was too slow.
+*  -- Oppertunities for invading passed, with-out being exploited.
+*  -- Your approach in the bottom left corner was sub-optimal, although killing the group would not have turned the game.  
+*  -- White played strong in the bottom left corner, but then blundered (move 46)
+*
+* What can you do to improve?
+*  -- Practice life and death problems. 
+*  -- To get an idea of the difference of third and fourth line play, read "Fuseki on your side" by Charles Matthews on gobase.org.
+*  -- Review "sente" and "gote" and analyse your moves, first in played games, then while playing.
+*  -- Play, play and play while keeping an eye on invasions.
+* 
+* I hope my review gave you some new insights. 
+*])
+(;W[ei]C[* Uh oh!]))
+(;B[cj]
+(;W[dl];B[el];W[ej];B[dk];W[cl]C[* Kill.
+* 
+* You have sente now (the initiative), you can play elsewhere.]
+
+(;B[bk])
+(;B[mj]C[* rob points, e.g. with a monkey jump.
+* 
+* When white now tries to live...];W[bj];B[bi]
+(;W[bk]SQ[al][bm]C[* squares are critical now. If white plays there, it will live. If you play, you kill.]
+
+(;B[al]
+(;W[bm];B[dm]C[* dead shape])
+(;W[bl];B[dm];W[cm];B[am]C[* bent four in the corner (is dead by japanese rules).]
+)
+(;W[em];B[dm]C[* throw in is necessary.];W[cm];B[fm];W[dm];B[fl]
+C[* dead shape]))
+(;B[he]C[* tenuki];W[al]C[* W got life.]))
+(;W[ak];B[bl];W[bk];B[dm])))
+(;W[dk];B[el];W[ej];B[cl]
+(;W[dl];B[bk];W[dm];B[em])
+(;W[fl];B[dl];W[bk];B[bj];W[bl];B[bm];W[cm];B[dm]))))
+(;B[kd]C[* Put pressure on the top right group and play lightly. 
+* You're going to give up one of these, to reinforce the other, if necessary.
+*
+* ...];W[kc];B[ke];W[lc];B[if]C[* .. then run.]))
+(;B[hd];W[jg]CR[fh][gh][fi][gi]TR[ba][ja][bb][jb][jc][ad][be]
+[je][jf][lg][jh][ji][jk][jl][jm]SQ[fa][ga][fb][gb][ec][fd][gd]
+[ag][bg][ch][di][ek][el][em]C[would this have been any better? I give him a silly shape, but I give up the right side
+
+* Who is leading and who is behind in this position? 
+* 
+* Circles mark the area, which will be fought for. Do not expect to get much territory there.
+*
+* Triangles mark potential territory claimed by white. You should invade here, if possible (Especially on the right hand side).
+*
+* Squares mark black's potential territory. White will try to invade here.
+* 
+* I count: W ~45 vs. B ~ 25
+* 
+* So 15 was ok (some other things set aside, see comment on move 15)
+*]))
+(;B[ec]LB[df:A]SQ[db]C[much better move, he has no chance of invading at A so why should I waste a move blocking it. I will probably get some territory on top
+
+* Why should white bother with playing at A or E9? The square will give life to the group.
+*
+*]
+(;W[ee];B[df])
+(;W[df];B[ee])
+(;W[db];B[eb];W[cb]C[* Now you won't be able to kill the group. 
+* But you would have the initiative, so white probably wouldn't play this directly.]
+)))
+(;B[dd];W[cd];B[cb]C[* The idea here is to make the white group run (and eventually let it live) and taking profit on the way.]
+;W[bb];B[db];W[df];B[dg];W[ef];B[kg]CR[gg][hg][gh][hh]TR[ab]
+[ae][be]SQ[ha][hb][ed][fd][gd][ag][bg][dh][di][ek][el][em]C[* Now, compare this to the analysis in move 16 (in the variation on move 14).
+*
+*]))

@@ -1,0 +1,120 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.16]
+
+GN[groschim-colladay-843934-20131017]
+EV[(Dragon Ladder) Tournament #3: DGS Ladder (19x19)]
+RO[Round 1 of 1]
+PB[Donald Colladay (colladay)]
+BR[4k]
+PW[david ned (groschim)]
+WR[1k]
+KM[6]
+DT[2013-10-02,2013-10-17]
+PC[Dragon Go Server: http://www.dragongoserver.net/]
+RE[W+Resign]
+RU[Japanese]
+SO[http://www.dragongoserver.net/game.php?gid=843934]
+GC[Game ID: 843934
+Game Type: GO (1:1)
+(Dragon Ladder) Tournament #3: DGS Ladder (19x19); with 552 participants
+Rated: Y
+
+White Start Rating: 1k (+34%) - ELO 2033
+Black Start Rating: 3k (+13%) - ELO 1813
+White End Rating: 1k (+26%) - ELO 2025
+Black End Rating: 4k (+44%) - ELO 1744]
+
+C[Hi, Donald!
+
+My name is Bernd. I call myself HonFu in many go places including the GTL. I am a German 2d. I'll try to give you some helpful hints.]
+;B[pd];W[dp];B[pq];W[dc];B[qk];W[jq];B[de];W[cg];B[ef];W[eg]
+;B[fg];W[dg];B[ff];W[ce];B[dd];W[cd];B[ec];W[cc];B[jd];W[qc]
+;B[pc];W[qd];B[pe];W[qe];B[pf];W[pb];B[ob];W[qb];B[nc]LB[po:A]
+C[Hon: The sequences in the corners were not really joseki; but I will not get into this kind of details, since you can easily study them on your own, for example by checking on www.eidogo.com.
+
+Anyway, you have a large moyo now. What is White going to do with it? Reduce it, right?
+
+Or maybe he can even leave it like this and play a move like A.]
+
+(;W[kf]TR[lf][mf][nf][of][gg][hg][ig][jg][kg]C[Don:  This is the point where it looks like white invaded too deeply, but I was not able to take much advantage of it.  Are there any attacking techniques that I can use here, or is it just brute force reading ability?
+
+Hon: This is definitely too deep and you should be able to punish it severely.
+
+If White wanted to reduce, he should have sticked to something outside of the moyo borderline (the marks), which he clearly didn't.]
+;B[kh]C[Hon: This is the right way to punish. 
+
+But you have to stick to your plan, which is surrounding the stone and hunt, probably kill it. White must not find an easy escape route.]
+;W[jc]LB[id:A][kd:B]C[Hon: Often when you want to attack hard, you need to play a move that does not give the opponent anything to work with, like A or B. White will be just cut apart.]
+;B[ic]LB[ib:D][id:A][kd:C][je:B]C[Hon: This move contrary to the variation gives White messy moves like A to D to work with.]
+;W[je];B[kd];W[jh]
+(;B[ji]C[Hon: Mistake.];W[ih]C[Hon: Now White is out.];B[fh]
+;W[ii];B[ki]C[Don: This move looked necessesary but it fails to contain white, is there a better way?
+
+Hon: I think it is too late to surround White effectively now.]
+
+(;W[hf]C[Hon: This looks too slow now.];B[ij];W[hj];B[hk];W[ik]
+;B[jj];W[gj];B[il];W[ej]C[Hon: So after White played too slow with H14, you were able to create some influence.]
+
+(;B[lp]C[Don: This is an attempt to make a moyo using the new thickness...
+
+Hon: Good. White maybe should have prevented another move here. Which would have meant not playing E10 though ...]
+;W[jo]C[Hon: But if you play like that, you should stick to the idea.]
+
+(;B[ip]C[Hon: This looks like your ideas fight each other. Build up the right or invade the left? You have to decide, then do just that.]
+;W[jp];B[fq];W[eq];B[fp];W[ln]C[Hon: If your aim was to isolate White, then attack him, okay. But this is risky. You had a lot of stones in place already and could have just made big points with one more move. Like this you risk that White just spoils most of it.]
+;B[do]C[Don: It looked like white needed to respond at d6, so I played here hoping to get sente and go back to the attack on the bottom.
+
+Hon: It is the right follow up when White tenukies here.];W[co]
+;B[dn];W[cn]
+(;B[dm];W[fn];B[eo]C[Don: This shape looks dumb, but I was worried about the cutting point at e5 left over after white protects the corner, I really wanted sente here.
+
+Hon: Problem is, you are just failing to make sabaki and get yourself a weak group. If that happens, White was right not to play D6 ... so this must not happen (see variation).]
+;W[cq];B[fm]C[Don: I didn't expect this to be ignored, but I am in danger if f6 freely connects out, probably I should leave it though and play on the lower-right anyway...
+
+Hon: It looks risky not to do anything here. Problem is, you wanted sente, and now you don't get sente.]
+;W[mp];B[po];W[qg];B[mq];W[lq];B[mr];W[lo];B[np];W[mo];B[cj]
+;W[hd];B[hc];W[eb]
+(;B[gd];W[ge];B[fd];W[gb];B[id];W[ie];B[gc];W[kg];B[jk];W[ck]
+;B[dk];W[dj];B[cl];W[bk];B[bl];W[bj];B[eh];W[ek];B[dl];W[ci]
+;B[qi];W[op]C[Don: This looked like a clear overplay to me, but I didn't know how to play properly here...]
+
+(;B[no]C[Hon: If you think, his move does not work, then this would be one normal punishment.]
+;W[oo];B[nn];W[oq];B[nq];W[pp]C[Hon: Looks a bit undidy though, right?]
+;C[Hon: Alright. I think the main point was right in the beginning, where you should have prevented White's escape. If he can walk out to the left, where he has some help, that's convenient, and his overplay is not punished very severely. But if you wall him in successfully, so that he has to walk to the RIGHT instead, where you already got a wall, well then you might well be on the road to victory.
+
+In the lower right you had the chance to secure a whole quarter of the board, but switched to an all-out attack strategy. That's very risky. I know, we are taught not to use a wall for territory - but you can do it, if it is enough and if you only need one single move to close it all off (of course always count first).
+
+Please also remember the sequence in the lower left - it definitely might come in handy. ;-)
+
+Okay, that's all for today, I hope I was able to give you some helpful pointers. See ya!]
+)
+(;B[oo]C[Hon: So maybe this? If the stone just dies, then you have thereby punished White's move.]
+
+(;W[no];B[nq])
+(;W[nq];B[no];W[nr];B[lr]
+(;W[kr]C[Hon: This would be one thing White might try.];B[kq]
+;W[kp];B[oq];W[lq];B[ns]C[Hon: But does not seem to work.])
+(;W[pr]
+(;B[or];W[oq];B[ns];W[os])
+(;B[qr];W[pp];B[qp];W[oq];B[qq];W[os];B[ms];W[kr];B[kq]C[Hon: Also seems to work for black. I might miss something though - in reviews my reading makes strange things sometimes. ^^]
+))))
+(;B[oq]C[Hon: This would be what White wants.];W[no];B[nq];W[pn]
+C[Hon: Then maybe here.]))
+(;B[fc]C[Hon: This looks like thicker shape.]))
+(;B[cp]C[Hon: You might want to remember this useful sequence. There are other variations, but normally you get well out of this fight.]
+;W[cq];B[bp];W[bq];B[ep];W[dq];B[cm];W[bo];B[bn];W[ap];B[dm]
+C[Hon: This is the standard punishment for White's tenuki. (He will try to not play that obediently, but you will get a good result anyway.]
+))
+(;B[kn]))
+(;B[kp]C[Hon: This probably works better. If you want to build up the right side, you got to make it as large and safe as possible.]
+;W[jp];B[ko];W[lr];B[mq];W[mr];B[nq];W[qg]C[Hon: Problem is of course, that moyos like that are rarely as large as they look.
+
+Anyway, probably something like that is reasonable.]))
+(;W[ik]TR[je][kf]C[Hon: I think, White should get out. The marked stones are not so important now.]
+))
+(;B[jg]C[Hon: Like this you can still cut him off.]
+(;W[kg];B[ig];W[lh];B[ki];W[li];B[kj]C[Hon: White's still on the run.]
+)
+(;W[ig]LB[if:B][ih:A]C[Hon: Also this kind of move you should be able to handle with A or B. Point is keeping him surrounded so that he has to wriggle through your hard influence.]
+)))
+(;W[eb]C[Hon: White can just play here later, so Black does not have as many points at the top as he seems to. No need panicking about this or even create a weak group like in the game.]
+))

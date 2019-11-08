@@ -1,0 +1,98 @@
+(;FF[4]GM[1]SZ[19]CA[UTF-8]AP[SGFC:1.17]
+
+GN[gtl]
+PB[Barry]
+BR[25k]
+HA[9]
+PW[Computer]
+KM[5.5]
+DT[2010-06-29]
+RE[W+43.5]
+
+AB[dd][jd][pd][dj][jj][pj][dp][jp][pp]C[Hi - I'm NekoBazu, and I played as black in this game against the GNU Go program with a 9-stone handicap. I still lost by 40+pts, but given that I'd rate myself around 25kyu that's perhaps expected (though still not good, obviously!).
+
+Mostly, I'm looking for general pointers to improve my game - bad moves, alternatives, plays in a different order, key points etc. My biggest weakness seems to be playing in the centre, and I realised in the end-game just how much territory I'd given up there, so any suggestions that particularly address that would be very welcome.
+
+Many thanks in advance for the review!];W[cn]
+(;B[fq]LB[gp:A][cl:B][fp:C]C[NOt a bad move. You could have considered A or B or C. Seuence from B]
+(;W[dg]
+(;B[gg]LB[fj:A]C[your 4 is floating in mid-air. A is reasonable. The basics at this stage are connect stones, count libverties, make eyes.]
+;W[ce]
+(;B[cc]C[NB: My theory here was that the 3-3 point would secure territory and help hold white back on the left. Might C16 have been more powerful?
+your 6 is defensive. Use the handicap stones to attack. Attacking is to constrict the space available to the oppponent to make eyes. C17  is usually a response to white at B17]
+;W[en];B[co]LB[cl:A]SQ[fj]C[I would have played A as  marked stone is now weak (think of white playing at square next.)]
+;W[fm];B[gm];W[gn]C[contact play tends to strengthen - so contact to an opponenet's weak stones helps him more than you.]
+;B[fo]LB[gl:A][hm:B]C[Here A or B is essential - you want to increase the liberties on your stones - so extend. The peep (your 12) does not give you territory, and you stone at D10 is still weak.]
+;W[nq];B[oq];W[qn];B[ro];W[on]C[13 - 17 exchange not bad, but you have let white surround you. THe meaning of teh chinese / japanese symbols for Go is the surrounding game - and you have given white the moral victory locally.]
+(;B[mm]C[18 is like 4  floating in air.];W[or];B[pr];W[nr];B[oo]
+;W[kq]C[what was 22 going to do?, and did you foillow up? If you play a move and your opponent ignores it, havbe the confidence to punish him by playing your follow-up move. In time you will find moves with big follow-ups so you really do punish the oponenet.]
+;B[jq]C[NB: This play was with the intention of squeezing white in. W ultimately held territory here though; could I have approached in a way that would have prevented this?]
+;W[fn]
+(;B[hn]LB[hm:A][gl:B][no:C]C[26 is weak still A or B, but why not C?]
+;W[nd];B[pg];W[lc]C[28 good.];B[kb]LB[kc:A][jc:B]C[30 is very low - try 3rd or 4th line. A or B better]
+;W[le];B[fk]LB[ob:A][jf:B]C[32 is doing nothing A or B better - as these keep pressure on White to make eyes.]
+;W[gl];B[hm];W[fl];B[dl];W[no];B[po]LB[rn:A][op:B][nn:C]C[38 makes an empty triangloe - generallyu a poor shape because it is inefficient (count liberties). A, B or C. I'd prefer A or C]
+;W[ks];B[de]C[good];W[ci];B[cj];W[lb];B[je];W[jc];B[kc]LB[ic:A]
+C[OK to 44, nowe play at A];W[ic];B[gc];W[kd];B[ke];W[ld];B[hd]
+;W[ol]LB[ql:A][hc:B]C[52 is ok-ish, but it doesnpt make big territory . A or B are better.]
+;B[mg]LB[ql:A][pb:B][pc:C][jr:D][rn:E][bn:F]C[NB: I played this with the intention of securing influence in the centre, but it ended up being a wasted move. Making better use of it later aside, what might have been a better move at this stage? How would I tell where the key points are? With hindsight on my side, maybe defending the lower side at K2/J2/J1 would have been better?
+Stones in the middle are ofter dame - points of no value "there  is no territory in the centre" is a good rule of thumb.
+Any of A - F could be considered.];W[pn];B[qo]LB[rp:A][ql:B]
+C[A is better shape, B should be considered.];W[qk];B[nn]LB[qj:A]
+C[better to block at A];W[jr];B[iq]LB[ir:A]C[play at A];W[nm]
+;B[mn];W[ml];B[np];W[ch];B[be];W[do];B[bo];W[cl];B[dm];W[cm]
+;B[dn];W[lf];B[ck]LB[eo:A]C[74 is not as good as capturing  white 67 by playing at A]
+;W[qj];B[qi];W[ri];B[qh];W[rh];B[rg];W[rn];B[sn];W[sm];B[so]
+;W[rl];B[os]LB[pc:A][ob:B][gb:C][cf:D][ef:E][jg:F][lg:G][nj:H]
+C[86 is "end game" or yose - there are bigger moves to play. A to H all useful.]
+;W[oc];B[pc];W[kf];B[id];W[jh];B[nb]LB[ii:A][jg:B][mj:C][ik:D]
+C[92 poor A - D better. D begins to ask white where its eyes in his F6 group are. A good question to ask.]
+;W[ob]C[NB: I ultimately ended up losing this corner rather pitifully - how might I have improved here?]
+;B[oa];W[pb];B[od];W[qc];B[qd]C[sequence to 98 white has taken territory in the corner and captured 92 and 94, Whoops!]
+;W[qb];B[rc];W[rb];B[sb];W[rd];B[re];W[sc];B[mb]C[NB: I played this with the intention of later using M19 to try to rescue the L18 pair, but ultimately aborted it when W played L19. Should I have followed through sooner, or was I right to consider other matters more urgent? you can't rescue those stones.]
+;W[ll];B[kn];W[jl];B[lm];W[ik];B[jm];W[gk];B[ek];W[bj];B[el]
+;W[bk];B[ej];W[eo];B[bn];W[al]C[where is the second eye in your d8 group - failing to capture 67 means it is weak and isolated.]
+;B[bm];W[bl];B[fi];W[bh];B[go];W[kl];B[km];W[gh];B[ni]LB[fh:A]
+C[NB: Again, trying to build centre influence that was ultimately wasted. Would I have been better defending territory at J2/similar, or was this the right idea even if I couldn't follow through with it?
+MOve 130 helps one group live, but I think trying to keep e10 group alive is more urgent.]
+;W[ir];B[hr];W[lr];B[lo]LB[fh:A][eg:B]C[134 does nothing - either capture white 37 (a little unnecessary) or work to connnect e10 group to top A or B (B better.]
+;W[gj];B[fh];W[ef];B[fe]LB[ff:b]C[cut at F13 stil open 138 should be at F14 .]
+;W[fg];B[gi];W[ki];B[hh];W[ii];B[gf]C[good];W[cf];B[ee];W[bd]
+;B[bc];W[bf];B[ge]LB[cd:b]C[b would be forcing.];W[hs];B[gs]
+;W[hb];B[gb];W[is];B[ha];W[ia];B[ga];W[ka];B[ig]LB[jf:A]C[NB: Silly move - forgot about G2! yes! or A]
+;W[gr];B[fr];W[fs];B[hq];W[ep];B[dq];W[ds];B[cq]LB[dr:A][cr:B]
+C[B is better];W[mp];B[mo];W[lp];B[kp];W[ac];B[ab];W[ad];B[cb]
+;W[ns];B[ps];W[ne];B[gq];W[gs];B[fp];W[eh];B[ei]C[NB: A wasted move, in hindsight? I could have waited for W to play E11/F10, and then played the other. At this point, maybe J8 would have been stronger, with the intention of cutting at K9 to support the centre?]
+;W[pk];B[oj];W[bs];B[bp];W[oe];B[qe];W[ng];B[pf];W[oh];B[ph]
+;W[oi];B[cd];W[nj];B[qf]LB[sf:A]C[R14 group needs A to meke life]
+;W[sf]C[now its dead,];B[se];W[sg];B[eq]C[NB: Was A15 better? Three prisoners, three points of territory and a path into W's territory suggests so; I think at the time I was erroneously obsessed with the lower left corner - I badly misjudged the amount of territory I could actually get from it.]
+;W[ae];B[jf];W[hl];B[im];W[hi];B[gh];W[jg];B[hf]LB[ih:A]C[why not A?]
+;W[br];B[bq];W[ar];B[aq];W[cr];B[am];W[di];B[ff];W[eg];B[hc]
+;W[ib];B[nk];W[mj];B[nl];W[om];B[sl];W[sk]LB[ih:A][il:B][er:C]
+C[these moves are not getting your dead stones to live - they are a lost cause.only A B or C useful points]
+;B[rf]C[NB: Should have tried this 27 moves ago! That'll teach me to play an exchange out in full in my head in future... How significant an effect might this have had on the centre? one eye is inadequate for life.]
+;W[of]C[NB: I was utterly astounded that I managed to rescue]
+;B[sh];W[si];B[sg]C[white played a bad move - these stones were dead , playing a computer is not ideal - it doesn't think!]
+;W[pi];B[sd];W[rc];B[nh];W[og];B[dr];W[es];B[ih];W[il];B[er]
+;W[df];B[fj];W[pe];B[em];W[tt];B[tt]TB[bb][if][sf][hg][qg][dk]
+[ln][ko][no][cp][gp][op][pq][aa][ba][ca][da][ea][fa][db][dc]
+[eb][ec][fb][fc][ed][fd][gd][he][ie][an][ao][ap][in][io][ip]
+[jn][jo][ho][hp][qp][qq][qr][qs][rp][rq][rr][rs][sp][sq][sr]
+[ss]TW[sb][be][nf][dh][bi][ij][pj][sj][nl][sl][rm][kr][as][cs]
+[js][ls][ja][jb][la][ma][na][oa][pa][qa][ra][sa][kb][kc][mb]
+[mc][md][me][mf][mg][mh][mi][nb][nc][af][ag][ah][ai][aj][ak]
+[bg][cg][kg][kh][lg][lh][nh][ni][ji][jj][jk][li][lj][lk][hj]
+[hk][kj][kk][oj][ok][rj][rk][mk][nk][pl][pm][ql][qm][lq][mq]
+[mr][ms]C[W +43.5.
+
+Many thanks again for the review!])
+(;B[no];W[ok];B[pm];W[pn];B[om];W[nm];B[pk]C[now where is white going to get eyes from?]
+))
+(;B[ql]LB[rn:A]C[here you strengthen Q10 and there is a useful threat of A as followup - to connect your stones together into one fighting unit.]
+))
+(;B[cd]C[this would be better])
+(;B[fd]C[an alternative]))
+(;B[ch]C[attack from your weak side];W[cg];B[fj]C[is a reasonable sequence]
+))
+(;W[gp]))
+(;B[cl];W[en];B[fp]))

@@ -1,0 +1,171 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.16]
+
+GN[schEkkEr-sombor-772957-20130114]
+PB[Nenad (sombor)]
+BR[9k]
+HA[2]
+PW[Stefan (schEkkEr)]
+WR[9k]
+KM[0.5]
+DT[2012-11-24,2013-01-14]
+PC[Dragon Go Server: http://www.dragongoserver.net/]
+RE[B+10.5]
+RU[Japanese]
+SO[http://www.dragongoserver.net/game.php?gid=772957]
+GC[Game ID: 772957
+Game Type: GO (1:1)
+Rated: Y
+
+White Start Rating: 8k (-19%) - ELO 1280
+Black Start Rating: 10k (-3%) - ELO 1097
+White End Rating: 9k (+22%) - ELO 1222
+Black End Rating: 9k (-2%) - ELO 1197]
+
+AB[pd][dp]C[Hello, I'm Julien Signoles, 5k in France (3k on KGS). I am going to comment your game by focusing on the main white's bad moves even if I also point out some other moves. But do not forget: I'm not a dan player ;-).
+
+Main resume: you have to improve your game when attacking ennemy weak stones. Below are some highlights.
+- get points when attacking
+- look at the weakness of your opponent and attack it there, in particular when in play a bad move (e.g. an unjoseki move).
+- when your opponent invades your moyo, play more agressively: it should not escape or live easily. The goal is not necessarily to kill it but to gain something into exchange.
+- don't play too submissively, in particular when your opponent is supposed to be weaker than you like in an handicap game.
+
+Also:
+- in the openning, try to follow joseki more often: you should play joseki except in special cases.
+
+Hope this helps!]PL[W];W[dd];B[qp];W[op];B[pn]
+(;W[kq]C[This move is not joseki as far as I know. I usually plays a joseki beginning at R3 in this position (see first variation). Here a black move at P3 (see second variation) would give black a big corner and white would become overconcentrated.]
+
+(;B[gq];W[qi];B[qf];W[ql];B[cf]TR[oq]C[P3 seems still to be the key point for black to be alive (and R3 for white).]
+;W[fc];B[di]TR[dj]C[D10 is joseki (D11 is not sot standard, but playable I guess).]
+;W[qq]C[Good!];B[rq];W[pq];B[rm]TR[ro]C[The black's joseki move is S5 to protect the cut and to provide eye shape.]
+
+(;W[rl]C[Black did not follow joseki: so you have to exploit his mistake by playing at the vital point (see variations).]
+;B[qm]
+(;W[jd]TR[nc]SQ[fc]C[Seems bad. O17 seems better (see variations). A white pincer should be not good since white is already strong with F17. Furthermore playing on the fourth line is usually for getting influence but it seems useless here (no moyo is possible, no black stone to attack right now).]
+;B[mc]TR[oc]C[P17 would take the corner for sure and would be better.]
+
+(;W[dn]TR[ck]SQ[cn][cp]C[The 6-4 point is usually bad against a hoshi (except in special circumstance). The 6-3 point is more usual. C4 is also probably playable in this position but it is more complicated. But here, black top left group is not fully stable and you must take that into account by playing C9.]
+
+(;B[cl]C[I would play C6. See variation.]
+(;W[ep]TR[cq]C[The corner is still big and open: C3 seems to be better. See variations.]
+;B[eq];W[eo];B[co];W[cn];B[bn];W[bm];B[bo];W[cm];B[bl];W[dl]
+C[This sequence seems to be bad for white: black consolidates all his position while you get an heavy group.]
+;B[am];W[dk];B[ck]TR[cj]C[Bad! Should be at C10.];W[fj]C[White looks heavier than strong here. But even if you gain strongness you have nothing to attack except Q6 a little bit. So it is useless.
+
+You have to create weaknesses in your opponent stones to have something to attack. In particular in handicap games.]
+;B[dj];W[fl];B[ip]TR[iq]C[J3 would be better (takes point).]
+;W[ko];B[kc];W[jc];B[kd];W[ke];B[le]
+(;W[je]TR[lf]C[White is too submissive here. Double hane at M15 is better (see variations).]
+;B[lf];W[qo]TR[rr]C[Here taking the corner at S2 looks much better. It also prevents blacks to get 2 eyes but it takes a lot of points.
+
+Remember: take points while attacking.];B[ro];W[po];B[qn];W[ok]
+;B[bd];W[cc];B[jr];W[jq];B[iq];W[kr];B[is]TR[rr]C[Bad move: Black should tenuki and takes sente. S2 looks like the bigger move: S5 would be fully alive and it takes a lot of points.]
+;W[qc];B[rd];W[rc];B[qd];W[ob];B[rb];W[sc];B[nb];W[qb];B[oc]
+;W[ra]
+(;B[sd];W[pb];B[oh];W[rg];B[nm];W[mk];B[qr];W[pr];B[rr]C[He finally got it the big point!]
+;W[on];B[om];W[lm];B[mn];W[mp];B[sl];W[pl];B[pm];W[sk];B[sm]
+;W[rj];B[qg];W[rh];B[mi];W[ef]C[Yes, that's big!];B[hf]TR[jg]
+SQ[je][ke][ef][fj][mk][fl][lm][ko]C[That's too deep: actually it is already mostly enclosed by white. K13 looks enough: black is ahead.]
+;W[jg];B[gg];W[fh]SQ[jg]C[Well played: close your boundaries and black cannot escape.]
+;B[hh]TR[hi]C[Should be at H11.];W[ji]TR[ii]C[You are strong enough to play keima at J11: white couldn't cut and would die quickly.]
+;B[eg];W[fg];B[ff];W[fe];B[gf]
+(;W[ee]TR[df]SQ[cg]C[D14 looks better: also protect the cut but threaten C13.]
+;B[hj]
+(;W[jk]TR[hl]SQ[fg][fh][fj][dk][dl][fl][bm][cm][cn][dn][eo]
+[ep]C[That seems to be the wrong direction. You should push black against your own force, not against the black area (see variations). Also that would strenghten your F8 group which is not fully alive.]
+;B[hl];W[gn];B[hn]
+(;W[go]TR[ho]C[Play more agressively in your own area! You have to cut it (see variation).]
+;B[gk];W[fk];B[gm];W[fm];B[ho]C[Now black is connected and gets an almost sure win.
+I see no big error in the following moves (even if all is not perfect), so no more comment.]
+;W[im];B[hm];W[in];B[eh];W[fq];B[fr];W[fp];B[er];W[bc];B[cd]
+;W[ad];B[be];W[gi];B[hi];W[lh];B[mh];W[lg];B[mg];W[ph];B[pg]
+;W[oi];B[ni];W[nj];B[lj];W[jb];B[kb];W[hd];B[ln];W[kn];B[no]
+;W[np];B[oo];W[pp];B[rp];W[ka];B[la];W[ja];B[lb];W[ks];B[do]
+;W[em];B[gp];W[fn];B[ei];W[fi];B[jo];W[jp];B[io];W[li];B[mj]
+;W[kj];B[lk];W[ll];B[kk];W[kl];B[ml];W[nk];B[qh];W[pi];B[og]
+;W[df];B[dg];W[cg];B[bg];W[ch];B[bh];W[ej];B[ci];W[js];B[ir]
+;W[mo];B[nn];W[he];B[ge];W[gd];B[ae];W[ac];B[lo];W[lp];B[il]
+;W[jl];B[ij];W[if];B[jn];W[jm];B[ih];W[jh];B[jj];W[ki];B[kf]
+;W[kg];B[ig];W[jf];B[gh];W[rf];B[re];W[sf];B[oa];W[pa];B[na]
+;W[qs];B[rs];W[ps];B[ik];W[km];B[pc];W[gl];B[gj];W[de];B[ce]
+;W[ol];B[nl];W[kp];B[tt];W[tt];B[tt]TW[aa][ba][ca][da][ea][fa]
+[ga][ha][ia][qa][sa][ab][bb][cb][db][eb][fb][gb][hb][ib][rb]
+[sb][dc][ec][gc][hc][ic][ed][fd][id][ie][sg][kh][sh][ri][si]
+[oj][pj][qj][sj][ek][pk][qk][rk][el][dm][en][fo][lq][mq][nq]
+[oq][lr][mr][nr][or][ls][ms][ns][os]TB[ma][mb][lc][nc][ld][md]
+[nd][od][me][ne][oe][pe][qe][af][bf][mf][nf][of][pf][ag][cg]
+[hg][ng][ah][ch][dh][nh][ai][bi][aj][bj][cj][ak][bk][hk][al]
+[an][on][rn][sn][ao][so][ap][bp][cp][hp][sp][aq][bq][cq][dq]
+[hq][sq][ar][br][cr][dr][gr][hr][sr][as][bs][cs][ds][es][fs]
+[gs][hs][ss]C[White: 59 territories + 2*1 dead stone(B) + 0 prisoners + 0.5 komi = 61.5
+Black: 67 territories + 2*2 dead stones(W) + 1 prisoner = 72
+Result: B+10.5])
+(;W[ho];B[io];W[hm]C[Black is cut and will die.]))
+(;W[hl];B[il];W[im];B[jj];W[ii]
+(;B[ki];W[hi];B[gi];W[gj];B[fi];W[ei];B[gh];W[eh];B[jh];W[ih]
+;B[ig];W[kh];B[jf];W[kf]C[black dead.])
+(;B[hi];W[ij];B[hk];W[gl];B[ik];W[kj]
+(;B[jm];W[in];B[jn];W[jo];B[io];W[jk];B[jl];W[gn]C[Black dead.]
+)
+(;B[fi];W[ei];B[gi];W[eh]
+(;B[ej];W[dg];B[fk]C[Black connects but...];W[cg]TR[bd][cf]
+SQ[dk][dl][fl][gl][hl][bm][cm][im][cn][dn][eo][ep]C[You kill B16 and takes the upper left in exchange. Your B7 looks in danger but it is actually quite safe as you can see.]
+
+(;B[jm];W[in];B[jn];W[io];B[jo];W[go])
+(;B[hn];W[hm];B[jm];W[in];B[jn];W[io];B[jo];W[go]))
+(;B[dg];W[ej]C[Black dead: it cannot play this way.])))))
+(;W[df]))
+(;B[pb];W[sb]C[Better for black: white is as small as possible.]
+))
+(;W[lf]
+(;B[je];W[kf];B[me];W[ie]C[Good for white.])
+(;B[kf];W[je];B[mf];W[lg];B[mg];W[me];B[ld];W[mh];B[lh];W[kg]
+;B[kh];W[jg];B[nh];W[mi];B[ni];W[mj];B[og];W[ef]TR[qc]C[You have a big moyo in the center now and invasion at san san R17 is still possible.]
+)))
+(;W[cq]
+(;B[cp];W[dq];B[eq];W[er]
+(;B[fr];W[ep];B[fq];W[bp];B[eo];W[co];B[do];W[en];B[fo];W[bn]
+;B[cm];W[cn]C[Bad for black.])
+(;B[fq];W[bp];B[bo];W[bq];B[co];W[fr]SQ[dn]C[You take the corner and D6 is still a light stone.]
+))
+(;B[dq];W[cp];B[co];W[do]
+(;B[cn];W[dr];B[er];W[cr];B[fp];W[bo];B[bn];W[bp]SQ[dp][fp]
+[dq][gq][er]C[Alive in the corner. The F4 is not yet fully alive.]
+)
+(;B[bo];W[dr];B[er];W[cr];B[fp];W[bp];B[bm];W[ar]SQ[dn][do]
+C[Also alive in the corner (smaller than the previous variation, but D5 is less damaged).]
+))))
+(;B[cn];W[cm];B[co];W[ck];B[cj];W[dk]C[Something like that may be expected. Quite bad for white.]
+))
+(;W[cn];B[co];W[dn];B[cl])
+(;W[ck]
+(;B[cm]SQ[dp][gq]C[Bad shape for black: not playable.])
+(;B[cj];W[cp]C[Probe move: take the corner or the side?])
+(;B[co]
+(;W[ci];B[ch];W[cm])
+(;W[cm];B[cj])
+(;W[ce]C[At least, big corner for white.];B[df]C[If black plays submissively (will not be the case with stronger players)...]
+;W[ci];B[ch];W[dj]
+(;B[ei];W[bi]C[White is stable.])
+(;B[bi];W[ei];B[cj];W[dk]C[White has good shape on the outside while black  is overconcentrated.]
+)))))
+(;W[nc];B[oc];W[nd];B[ld];W[jd];B[me];W[ne]
+(;B[nf]C[Actually black cannot play this way: see next moves.]
+;W[of];B[oe];W[lc];B[kc];W[mf];B[ng];W[le]TR[qc]C[White connects and san-san at R17 seems now possible with the aji all around.]
+)
+(;B[mg];W[nf];B[mf];W[pf];B[qg];W[oh]SQ[ld][me][mf][mg]C[Something like that may be expected. Black M16 group has no base.]
+;B[hd]C[If black tries to continue attacking...];W[jc];B[hc]
+;W[lc];B[cc];W[dc];B[cd];W[fe]TR[ld][me][mf][mg]SQ[hc][hd]C[If black plays agressively like this, you may fight: black has two weak groups and you should win the game.]
+)))
+(;W[ro]
+(;B[rp];W[qm];B[qn];W[rn]C[White's right group gets a base, while black is not alive and must run.]
+)
+(;B[rn];W[rp];B[qo];W[rr]C[White takes the corner. Black has an heavy group.]
+)
+(;B[qo];W[rp];B[rr];W[rn];B[qm];W[qn];B[pl];W[po];B[qk]TR[pl]
+[qm][rm][pn]SQ[qi]C[For me, its the best sequence for black since he destroys left white group and gets eye shape. But white is satisfied with this exchange since it takes a quite huge corner. Furthermore, R11 may now be seen as a light stone while the black's R9 group is not fully alive (only one sure eye).]
+)))
+(;B[oq]TR[pq]C[White cannot cut at R3.];W[nq];B[pq];W[np]SQ[kq]
+[nq]C[Big corner for black.
+White overconcentrated.]))
+(;W[qq];B[rq];W[pq];B[ro];W[kq]C[Joseki.]))

@@ -1,0 +1,118 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.17]
+
+PB[JFR]
+BR[7k]
+HA[2]
+PW[elfin]
+WR[5k]
+KM[0.5]
+DT[2010-01-11]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[W+Resign]
+TM[2400]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+AB[pd][dp]C[Hello I am John (JFR) and I played black.  Thank you for reviewing my game.
+
+I resigned after being cut off in the end.  I think that I had good use of aji in the game to make territory but some vital connections were missed (I play my games slow and even with 40 min per side (+30 sec 5 round Byoyomi) I was ran into my byoyomi while still finishing up the middle game)
+
+Comments on corner positions would be appreciated and general Fuseki ideas and selecting the right Joseki
+
+Thank You !
+
+-----------
+
+Hi John, I'm Aniket and I've reviewed your game.  I've marked all my comments with "Rev:".
+
+You played well in the opening, but got a little fouled up with the fighting.  In particular the invasion on the right side was handled poorly, and there were some questionable moves on the left side as well.  You also faced a couple of clear non-joseki moves.  In the top left you handled it well; in the bottom right it seems you tried too hard to punish.
+
+One principle I'd like to mention that comes up a couple of times is the 1-2-3 principle taught by Catalin Taranu 5p.  Basically, if you envision a sequence that goes 1-2-3, consider omitting 1 & 2 and playing 3 directly.  Among other things this will help preserve aji during local fighting.]
+;W[pq];B[dc];W[ce];B[de];W[cd]C[JFR: was not sure how to respond to this move.  I decided I would stay connected and be solid
+
+Rev:  Your response is perfect.];B[dd]C[Rev: since black's shape is very thick after connecting here, this is considered good for black.]
+;W[bb]LB[cf:A]C[Rev: Probably better at A, avoiding a black move there which would press white down low and inflict a shortage of liberties.]
+(;B[ic]LB[cf:A]C[Rev: A is a very very big point now, and you should play there immediately.]
+;W[nc]
+(;B[qf];W[pb];B[qc];W[kc]TR[ic]C[Rev:  White settles quite comfortably given that the triangled stone was already in place.]
+;B[qo];W[oo]LB[op:A]C[Rev: a common joseki mistake - to keep black low, A is usually better.]
+(;B[on]TR[qf]C[Rev: this is a bit risky.  It looks like an attempt to build thickness on the right, but since the marked stone is low and can be pressed down, this may not be the best strategy.  I would head straight for the corner.]
+;W[nn];B[om];W[po];B[qn]
+(;W[pn];B[pm]C[Rev: White loses a liberty, so probably he should omit this move.]
+;W[qp]LB[pm:2][pn:1][qp:3]C[Rev: 1-2-3 principle at work for white - he wants to force you to protect the cutting point, but he should just play here directly.]
+;B[ql];W[kp];B[no]LB[lm:B][nm:A]TR[ip][iq]C[JFR: should I cut?
+
+Rev: The cut looks unreasonable at this point.  White's extension was not very wide, so you can afford to play in the marked area and wait for a chance to cut later.  Maybe later you would prefer to press at A or B instead, building a moyo on the right.]
+;W[mn];B[oq]C[Rev: A nice tesuji, but it doesn't look like it will be enough.]
+;W[np];B[op];W[pp];B[nq];W[mp];B[lr];W[kr];B[lq];W[kq];B[lp]
+;W[lo];B[mq];W[mo];B[pr];W[qr]C[Rev: Black is locally dead.]
+;B[ko];W[or]C[Rev:  This white move is unnecessary - he can respond by helping his three stones instead.]
+;B[jr];W[ks];B[iq]TR[ko];W[jo];B[kn];W[jp];B[ip];W[io];B[ho]
+;W[hn];B[go]TR[iq]C[Rev: considering your dead group, you got a nice forcing sequence here, but just playing the marked extension to start with was probably better, leaving the cut for white to worry about.]
+;W[km];B[cj]LB[qb:B][cf:A]C[Rev: Given that you want to play A, this stone may end up looking misplaced or overconcentrated.  Playing A now might be good, or closing the bottom left corner.  B is also a very large point that makes white's top side group uncomfortable - normally it is an endgame move, but here it may start an attack.]
+;W[bp]C[JFR: I was thinking white might play 3-3];B[cq];W[cn]
+;B[in];W[im];B[gn]LB[im:2][gn:3][in:1]TR[cn][bp]C[Rev: I like the idea of playing here to build thickness to attack the marked group.  However, it's hard to say if this is really sente.  At the very least, you should omit 1 and just play here directly.  1-2-3 principle applies here.]
+;W[hm];B[bm]LB[cl:A]C[Rev: Attacking these stones is a good idea, but A is a stronger attack.  An angle play like this gives white forcing moves.  After A instead it's hard to know what to do as white.]
+;W[cm]
+(;B[cl]LB[cl:3][bm:1][cm:2]C[Rev: 1-2-3 (maybe)];W[em];B[gm]
+LB[gl:A][im:2][in:1]C[JFR: is their a way to kill this c6 white group?  it seems likely but I didn't find it
+
+Rev: See my earlier comment.  Playing too close to white's stones gave him the forcing moves he needed to get out.  Also note here that the 1-2 exchange makes it easier for white to play at A here.]
+;W[bn];B[bl];W[dl];B[en]LB[fj:A]C[Rev: Sealing white in is the only way to kill here.  A might do the trick.  At the least you'll get some thickness.  This move steals an eye, but is not sente, so white has time to run for the center.]
+;W[dk];B[dj];W[fl];B[cf];W[bf]
+(;B[cc]LB[ba:E][cb:C][bc:D][bg:B][cg:A]C[Rev:  This is aji-keshi.  Better to play at A or B here.  Depending on white's response C or D may work better in the corner.  A feels a bit overconcentrated, but may still be the best choice.  C directly is also interesting here.  See the variations.]
+;W[bc];B[be]C[JFR: is this the right idea?  ends in gote for black so I don't know if it was worth it for the shape]
+;W[bd];B[bg]C[Rev:  If you just play here directly, white's shape is less strong in the corner, and you will get better forcing moves on the top.]
+;W[ae];B[dg]TR[cj]C[Rev:  Referring back to my earlier comment, now your marked stone (the extension you played at move 58) looks too close.]
+;W[gl];B[hl]LB[ie:B][fj:A]C[Rev:  Jumping to A, forcing white to protect the cut, and then playing B or something similar looks like a reasonable alternative here, since white can easily live on both sides.]
+;W[ej];B[dn];W[dm];B[ei];W[fj];B[ne]LB[qb:A]C[Rev:  Now that white has some thickness around the bottom area it will be easy enough to reduce this moyo, and this doesn't strongly attack the top group.  A is a tempting point, weakening the top and taking a big chunk of profit.]
+;W[qj];B[oj]C[JFR: Lots of complications from here on out];W[qh]
+LB[ri:A]C[Rev:  A is a good point to aim at, since it can escape to either side.]
+(;B[rl]LB[rm:A]C[Rev:  This would be a good move if the peep at A was threatening, but since you can respond here to the peep this is not good.  See the variation for a line that may be better.]
+;W[oi]C[Rev:  You should definitely respond to this move.]
+(;B[si];W[ri];B[sk];W[sh];B[rg];W[sj];B[rh];W[rk];B[sl];W[pj]
+(;B[qk];W[ok];B[nj];W[pk];B[ml];W[nk];B[mk];W[ni];B[mj];W[mi]
+;B[nl];W[li]LB[oi:A]C[Rev:  Somehow you are under attack instead of white now.  I put the blame at not responding to white's attachment at A earlier.]
+;B[kj];W[lj];B[kl]LB[lm:A][ln:B]C[Rev: A may be a better forcing move here, followed by white B black circle.]
+;W[lm];B[il];W[jm];B[jl];W[ll];B[lk];W[gc];B[ph]C[Rev: This does eliminate the white eye here, but it looks unlikely that you will be able to kill this group.  With that in mind, responding on the top side is more important, especially since this move turned out to be gote.]
+;W[pi];B[pg]C[Rev:  You can't afford to take gote here with the situation at the top.]
+;W[ki];B[hj];W[jj];B[kk];W[ih];B[ji]
+(;W[jh];B[ii];W[hi];B[ij];W[hh];B[fi];W[bq];B[je]LB[hd:A]C[Rev:  Ignoring white's move in the corner and playing up here is the correct decision, I think.  However, A is the only good way to attack white's single stone.  This move lets him link under.]
+;W[kf];B[ke];W[hf];B[lf];W[kg];B[lc];W[lb];B[mc];W[mb];B[jb]
+(;W[nd];B[ld]C[JFR: bad shape];W[kb]
+(;B[qb];W[oe];B[nf];W[jc];B[ib];W[od];B[ob];W[nb];B[pc];W[oc]
+(;B[pa];W[id];B[gb];W[jd];B[ie];W[he];B[fc];W[gd];B[fd];W[of]
+C[JFR: I'm cut
+
+JFR: thank you for reviewing my game !])
+(;B[of];W[oa]))
+(;B[oe]LB[id:A]C[JFR: how about this move?
+
+Rev:  I like your move better, but I am more worried about the cut around A]
+))
+(;W[qb];B[rb];W[pc];B[rc];W[nd];B[me];W[od];B[pe];W[ob]))
+(;W[ii];B[jh];W[jg];B[kh];W[lg];B[ij];W[kg];B[jk];W[hd]C[Rev:  This looks quite bad for you.]
+))
+(;B[ok]C[Rev:  The only move I would consider here.]))
+(;B[ni];W[oh];B[nh]))
+(;B[oh];W[rk];B[ri];W[rh];B[rl]C[Rev:  Not sure how white is going to live here.]
+))
+(;B[cg];W[bg];B[bh]C[Rev: White needs another move to live in the corner.]
+)
+(;B[cb]
+(;W[bc];B[cg];W[bg];B[bh]
+(;W[ba]C[Rev: necessary to live in the corner, see the variation.]
+)
+(;W[qb];B[ba];W[ad];B[be];W[ae];B[ag]))
+(;W[ba];B[bc])))
+(;B[bl]C[Rev: pulling back gives white less forcing moves.]
+))
+(;W[qp]C[Rev: This result looks like quite nice shape for white.]
+))
+(;B[qq];W[pp];B[qp];W[om];B[ql]C[Rev: "Tricks in Joseki" by Yang Yilun 7p lists this as good for black.  In this case black looks low on the right side, but this may be the fault of choosing the low approach in this corner rather than a problem with this specific sequence.  In any case black's profit is respectable, and black has no weaknesses.]
+))
+(;B[oc];W[nd];B[qf];W[kc];B[ie]LB[nb:A]C[Rev: This looks a bit better for black - white's group is not completely secure.  Later A will take a lot of profit in the corner, and introduces weaknesses into white's shape.]
+))
+(;B[cf];W[bf]LB[bg:A][cg:B]C[A and B both look okay.];B[cg]
+;W[bg];B[ch]C[Rev: White still needs a move to live in the corner, and black's wall is huge.]
+))

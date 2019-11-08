@@ -1,0 +1,318 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.16]
+
+GN[gtl]
+PB[AntoineM]
+BR[7k]
+PW[jsb914]
+WR[7k]
+KM[6.5]
+DT[2013-02-27]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[W+6.5]
+TM[1800]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+C[Hi Antoine!
+I am Miguel Araújo, around 3k KGS right now. I hope I can give you a few useful comments and insights. I marked my comments with my initials (MA). I requested Daniel's (~4d KGS) help in reviewing this game, I'm sure you will find his comments helpful.
+
+I've summarized the key points at the end of the sgf.
+
+---------------------------------
+
+DanielTom (DT): Miguel's review was good. I just added a few notes of my own (marked with "DT"). Enjoy!
+
+---------------------------------
+
+jsb914 [7k\]: hi
+AntoineM [7k?\]: hi
+AntoineM [7k?\]: gg];B[pd];W[pp];B[cd];W[dp];B[ic]C[MA: It's funny I'm asked to review a game with the chinese fuseki as I used to play the low chinese a lot.
+I believe you already know this as you are playing it as black, but I decided to include the 2 most common continuations for white.]
+
+(;W[nc]C[MA: This approach is not recomended, white is starting a fight where black is strongest.
+
+DT: This invasion goes against basic Go theory. In the opening (Fuseki), we want to play in the open areas. (Go proverb: "Approach on the open side.") It's greedy to invade so early in the game. You will see why it's bad soon.]
+;B[oc]C[MA: Good.]
+(;W[nb]CR[oc][pd]TR[nd]SQ[lc]C[MA: really strange, I don't know what white was thinking. 
+Black's first instint should be to play O16, the move white should have played. I'm not a fan of proverbs as they are often wrong, but "Hane at the head of two stones" applies in this situation.
+
+M17 needs to be considered as well, removing white's base and a 2-space extension from J17. After M17, white can only run to the center or try to live in the corner.]
+
+(;B[ob]C[MA: Black is blocking the corner but I think this is too small in this early stage of the game as white can't get much by playing here.]
+;W[kc]
+(;B[jd]TR[je]C[MA: I think this is possible, K15 being another possibility.
+
+DT: I would prefer O16, "hane at the head of two stones".]
+(;W[oa]TR[nd][dj][cn]C[MA: Why are we already playing endgame moves? Such an empty board!
+
+I've maked some of the points I would consider.]
+(;B[pa];W[na];B[pb];W[jb]C[DT: The reason why playing these moves is bad is that they destroy aji. (In this case, that means Black will get very thick/strong by simply answering these moves, which will make it very hard for you to invade the E17 area later.)
+Again, this just goes to show why you shouldn't invade so early in the game: you get attacked, and in order to live you must play damaging moves. That's a terrible situation to be in!
+Greediness backfires.
+P.S. As a general rule, try to save the endgame for the endgame.]
+;B[ib];W[ia];B[ha];W[ja];B[hb]C[MA: Black answers both hanes on the first line but is still ahead.
+
+DT: Just because a move is sente, that doesn't mean it is good. As I explained before, Black is very happy to answer these moves.]
+;W[kd]
+(;B[je];W[lb]C[DT: Just jumping out towards the center at O15 is better than playing inside your own territory. This kind of move is painful and very negative!]
+
+(;B[dj];W[ec]TR[ha][ia][ja][hb][ib][jb]C[MA: unreasonable
+
+DT: The marked exchanges make this very hard for White.
+More importantly, I note that White is very greedy: he seems to think that Black shouldn't have any territory, and so he invades everywhere!
+White player: please try to keep in mind that Go is about sharing. In the end, you only need half a point more than your opponent to win.]
+;B[dc]C[DT: Good.];W[ed]
+(;B[ge]C[MA: i don't think this is attacking from the right direction. See the alternatives.]
+;W[ef]
+(;B[gg]C[MA: you would rather have him run to the center than hurting your side/corner!
+
+DT: C14 is more important.
+It's good to get cash while attacking!];W[ce]C[DT: Right.];B[eb]
+;W[dd];B[cc];W[cg]TR[ge][gg]SQ[dj]C[MA: White lives and black didn't secure much territory anywhere.
+
+The attacking stones (marked) are in a weird position. They aren't building territory and they aren't stabilizing any group.
+
+D10 might feel lonely if black doesn't help her.
+
+DT: Black's attack failed. It's a pity that he didn't punish White's invasion.]
+
+(;B[eh]C[MA: What is the purpose of this move? 
+ - Sealing white in is not urgent, he can't get out in a single move, and even if he does eventually get out he won't make territory/ruin your own.
+ - J17 group isn't in danger of reinforcement, he is the attacker!
+
+
+Helping D10 is important, but what about the alternatives?
+A play on the right would be possible, but then white could approach D10 in sente.]
+;W[be];B[bd]C[MA: Is the corner that important? Don't follow white around!]
+;W[ci]C[DT: F18 anyone?];B[cj]C[MA: I see some value on this move, but are you worried about the cut?
+
+DT: Black is happy to block here.]
+(;W[bi];B[cn]C[MA: You need B10 later to make territory with this move.]
+;W[co];B[dn];W[fq]
+(;B[pj]C[MA: Good.]
+(;W[qe]TR[qd][pe][qg]C[MA: 3 possibilities.]
+(;B[pe];W[qf];B[pf];W[qd];B[qc];W[rc];B[rb];W[sc];B[qg];W[rg]
+
+(;B[qh];W[rh];B[ri];W[re]
+(;B[sb]C[MA: Do you think this is urgent?];W[qm];B[kq];W[iq]
+;B[nq];W[oq]C[DT: Good sequence by White.];B[np]TR[oq]C[MA: Another kick. Remember the variation from before, it applies here as well.]
+;W[ke];B[kf]
+(;W[or];B[nr];W[ns];B[ms];W[os];B[mr];W[kj];B[ij]TR[np][kq]
+[nq][mr][nr][ms]C[MA: The marked stones don't have 2 eyes yet.]
+;W[kl];B[il];W[gn];B[gm];W[hm];B[hl];W[fm];B[gl];W[fn];B[im]
+;W[fp]C[DT: Too slow.]
+(;B[jo]C[DT: Good. Miguel's suggestion (M9 peep) is also fine.]
+;W[mk];B[ol];W[mi]
+(;B[mg]C[DT: No points here. Black can play R5.];W[mm];B[nn]
+C[MA: You need to be more forceful. White should be the one defending against your attacks in this position, not the other way around!]
+;W[kh];B[jh];W[ji];B[ii];W[kn];B[jn];W[mn];B[mo];W[km];B[lh]
+;W[li];B[nj];W[mj];B[jk];W[kk];B[nl];W[ko];B[jp];W[lo];B[ll]
+TR[fb][bo][qo]C[DT: Bad. The marked points are more important.]
+;W[ml];B[lk];W[lm];B[le];W[ld];B[nd];W[md];B[me];W[ne];B[od]
+;W[lf];B[mf];W[kg];B[jf];W[jg];B[ig]
+(;W[lg];B[ki]C[DT: Ouch!];W[ni];B[oi];W[qo];B[se];W[sf]
+(;B[bo]C[MA: As shown before, this isn't the right endgame move.
+
+This is my last comment, check the last move for a summary.
+
+DT: This move is fine.];W[bp];B[bn];W[al];B[bl];W[ak];B[bk]
+;W[bj];B[am];W[aj]C[DT: Small. F18 is more important.];B[pn]
+;W[qn];B[rl];W[rm];B[ql];W[pm];B[om];W[pl];B[pk]
+(;W[sl];B[rk];W[fl];B[fk];W[dl]C[DT: Good.];B[ck];W[ap]C[DT: Good, but first play F18.]
+;B[ao];W[ad]C[DT: F18 is better.];B[ac];W[ae]
+(;B[ho]C[DT: Black should play at F18 as well.];W[hq]TR[bb]
+[fb]C[DT: It seems that both players had a blindspot.];B[gp]
+;W[gq];B[dg];W[df];B[fe];W[dh];B[eg];W[fb]C[DT - Finally.];B[db]
+;W[gc];B[hd]
+(;W[ee]C[DT: Always hit the vital point first. You should play B18 here.]
+;B[di];W[ch];B[el];W[em];B[ek];W[dm];B[eo];W[fo];B[ep];W[eq]
+;B[do]
+(;W[cq]C[DT: Just connect at C4.];B[cp];W[bq];B[dq];W[dr];B[er]
+;W[cr];B[jr];W[ir];B[js];W[is];B[sk];W[sm];B[fd];W[fc];B[sh]
+;W[sd];B[si];W[nh];B[ng];W[oh];B[ph];W[og];B[of];W[kh];B[kg]
+;W[ki];B[ff];W[nk];B[ok];W[go];B[hn];W[hp]C[AntoineM [7k?\]: sorry misclik]
+
+(;B[oo]C[jsb914 [7k\]: np];W[qq]C[DT: B18 is still best, but anyway it seems that White is leading.]
+;B[fa]C[DT: Good.];W[jq];B[kr];W[mp];B[lp];W[no];B[op];W[mo]
+;B[mq];W[sg];B[ip];W[kp];B[lq];W[dp];B[po];W[dq];B[mh];W[pg]
+;B[oj];W[nm];B[on];W[co];B[gb];W[cm];B[bm];W[cp];B[jc];W[jl]
+;B[jj];W[hc];B[gd];W[dk];B[jm];W[tt];B[tt]TW[ka][la][ma][kb]
+[mb][lc][mc][rd][de][se][af][bf][cf][rf][ag][bg][ah][bh][ai]
+[lj][lk][ll][ln][rn][sn][ro][so][gp][qp][rp][sp][aq][pq][rq]
+[sq][ar][br][er][fr][gr][hr][pr][qr][rr][sr][as][bs][cs][ds]
+[es][fs][gs][hs][ps][qs][rs][ss]TB[aa][ba][ca][da][ea][ga][qa]
+[ra][sa][ab][bb][cb][qb][bc][pc][id][he][ie][ne][oe][gf][hf]
+[if][lf][nf][fg][hg][jg][lg][fh][gh][hh][ih][ei][fi][gi][hi]
+[pi][qi][ej][fj][gj][hj][qj][rj][sj][gk][hk][ik][qk][hm][an]
+[in][io][lr][ks][ls]C[MA: Your comment at the end really shows how the game was. My key recommendation is to grab the initiative. Your opponent had to invade deep into your territory in at least 3 different situations (top left, top right and in the center) but in two of them you played two passively, simply responding to white's moves. You did try to attach in the top left, but if you look at the final result of that fight you see that white got almost as much territory as you did.
+
+There were at least 3 kicks after an approach to a 4-4 stone on this game. You should study the aji that is left in the corner, the kick is not as strong as you might think.
+
+You should also improve the direction from which you attack. I feel that this advice is just too general, but in your situation I would focus on the territory you are building during the attack. Try to make your attacking stones dual purpose (stabilizing a weak group, grabing territory, etc.) so that you are ahead even if your attack backfires and you aren't able to kill the invader.
+
+For future reference, I think you should include a few comments in the SGF with specific questions so that the reviewer knows where to focus. Indicating "I was at a loss here, I didn't know where to play" is often enough. I hope you enjoyed this review, feel free to ask me any questions you still have.
+
+-----------------------------------
+
+DT: Thanks Miguel for showing me this game. I think that both players missed some key points and sometimes played very slow moves but, overall, they just need more practice... So, remember, keep playing Go!
+
+WHITE's opening was not good; he invaded too much and was too greedy! He should learn to play in the open areas, to "build his own house", and to save the endgame for the endgame.
+My advice to him: replay more professional games.
+
+BLACK's opening was good, and he should have won this game, but he didn't attack properly. I agree with Miguel on this. After White 28, the direction of his attack was wrong.
+My advice to him: don't play vague moves. Be practical; try to gain something while attacking (either more thickness or territory).
+
+Cheers!
+
+-----------------------------------
+
+jsb914 [7k\]: ty
+AntoineM [8k\]: Man!
+AntoineM [8k\]: thank you
+AntoineM [8k\]: you managed to live everywhere!])
+(;B[po]))
+(;W[cp];B[dq];W[dr];B[cq];W[bq];B[cr];W[br]C[DT: No problems here.]
+))
+(;W[bb]
+(;B[bc];W[fa]C[DT: Black dies.]
+(;B[ea];W[ca])
+(;B[ca];W[ea])
+(;B[ba];W[ab]
+(;B[cb];W[ea];B[da];W[ca])
+(;B[ea];W[cb])))
+(;B[fa];W[bc]C[DT: Good bonus for White.])))
+(;B[fb]))
+(;W[rk]))
+(;B[cq]C[DT: This move doesn't work now.];W[cp]))
+(;W[ih];B[hh];W[fb]C[DT: Correct.]))
+(;B[qo];W[po];B[qn];W[pn];B[rm]))
+(;B[lk]C[MA: I like to peep in this situations. White can't simply connect and you have enough points to win if he decides to sacrifice one of the sides. It simplifies the game.
+
+DT: Good idea.]
+(;W[kk];B[kn];W[ll];B[nm])
+(;W[ll];B[kk];W[jk];B[jl];W[mk];B[lj];W[mj];B[li];W[nl];B[mm]
+;W[ml];B[mi]C[MA: this might be the best white can achieve.]
+)
+(;W[lj];B[kk];W[jk];B[jl];W[mk];B[ll];W[ml];B[lm];W[nj];B[mi]
+;W[mj];B[om]C[MA: trying to live with the top stone is dangerous because white needs to run to the bottom right anyway.]
+)))
+(;W[nr];B[mr];W[or]))
+(;B[qn])
+(;B[nq]C[MA: Approaching from the inside might be good here.
+
+DT: Yes. The game is good for Black, but he shouldn't squander it away by play slow moves.]
+))
+(;B[rh]C[MA: You can double hane as white can't cut.];W[qh]
+;B[pg];W[ri];B[rf];W[sh];B[rd]))
+(;B[qd];W[pe];B[oe]
+(;W[pg];B[of];W[ph])
+(;W[ph];B[of]
+(;W[qi])
+(;W[qg];B[oi])))
+(;B[qg]
+(;W[qd];B[pe]C[MA: doesn't seem good for white.])
+(;W[pe];B[oe]
+(;W[of];B[pf])
+(;W[pf];B[of];W[pg];B[qh]C[MA: White can't profit from this position.]
+;W[rc];B[qd];W[rd];B[rb];W[oh]C[MA: White needs to run.]))))
+(;W[qn]C[MA: Peaceful, I think white can play this way but it might not be enough at the end.]
+)
+(;W[gn]TR[je][gg][eh][dj][dn]C[MA: Destroying black's influence. Black stones feel without purpose if black can't use them; they did not attack white and now they can't make territory!
+
+DT: Miguel came up with a beautiful move :-)]))
+(;B[cq]C[MA: Later, black can invade the 3-3 point. You should learn this variation after the kick, it's very common.]
+
+(;W[bo]C[MA: This is wrong.
+
+DT: This is usually right. :-)];B[er];W[fr]
+(;B[eq];W[ep];B[bq]
+(;W[fp]C[MA: White needs to protect!];B[bs]TR[bo]SQ[ak][bk]
+[ck][al][bl][cl][am][bm][cm]C[MA: Black lives. He doesn't care B5 because the marked region wasn't his territory anyway, he still had to block B10.]
+)
+(;W[go]C[DT: It's not a bad result for White.]))
+(;B[ep]C[MA: In the right situation, this one is hard to answer as well.]
+;W[eq];B[dq]))
+(;W[dq]C[MA: White should block here.
+
+DT: Usually this is too submissive.];B[bo];W[cp]
+(;B[bp]C[MA: Black doesn't need to play B4 now, because he doesn't know if he prefers B4 or B3.]
+;W[bq])
+(;B[bq];W[bp];B[ap]
+(;W[ar]C[DT: Wow. But I think White can just play B6.];B[br]
+;W[bs];B[cs];W[ds];B[as]C[MA: It's a ko, but black can play this if:
+a) things go wrong, C6 is in danger and black needs to live.
+or 
+b) he feels he can win the KO and this variation gives him more territory.]
+)
+(;W[bn];B[ao];W[bm]C[DT: Locally Black is dead.])))))
+(;W[di]
+(;B[ei];W[ej]
+(;B[bi];W[bh];B[bj];W[ek];B[cm])
+(;B[ek];W[fj];B[fk];W[gj]
+(;B[gk])
+(;B[bi];W[bh];B[bk]C[MA: Black can protect D9 this way, but he needs to deal with a complicated fight if white cuts at F13 later.]
+)
+(;B[dn];W[fg];B[fh];W[gh];B[gi];W[hh];B[hi];W[ih]SQ[fb]C[MA: White can separate black at F18]
+))
+(;B[dl]))
+(;B[ej];W[ei];B[fj];W[fi];B[gj]C[DT: Black can also keep extending.]
+)))
+(;B[dm]TR[cg]C[MA: I would approach the bottom left corner.
+A low approach has less value because of C13 undercutting your position on the top, you can't really expect to make much territory here.]
+)
+(;B[pj]C[MA: If black plays somewhere on the right..];W[cn]
+TR[eh]C[white can make a nice enclosure and now a move around E12 is indeed important. Black doesn't want to get separated.]
+;B[gj]TR[mf][nf][lg][og]C[MA: white can decide how to deal with the stone on the right now, the C6/G10 exchange is good for white.
+
+Black's framework is not that big as white can easily destroy it from the top.]
+))
+(;B[cf]C[DT: Better.]))
+(;B[de]CR[ha][hb][ib][ic][jd][je]SQ[dj]C[MA: If you feel you can't kill white, you don't need to force it.
+
+I find that one of the easier ways to win games it to make my opponent run while I take profit on the side. You just need to be careful not to hurt the marked group in the process. D10 is on a very good position now.
+
+DT: Yes, this is good.];W[ee];B[df])
+(;B[ef]C[MA: If you want to kill, don't let him get away, force him to one of the sides.]
+;W[dd];B[cc]
+(;W[de]C[MA: bad shape, nothing good can happen to white.]
+(;B[df];W[ce];B[cf];W[be];B[eb]C[MA: white can't live.])
+(;B[bf]))
+(;W[hd]C[MA: You can cut if you want, or you can try to capture at a larger scale.]
+;B[hf])
+(;W[ge]C[This could be trickier to answer, but white can't escape.]
+;B[gf];W[hf];B[fe];W[fd];B[he];W[gd])))
+(;B[ke]C[MA: this is another thick possibility.]))
+(;B[ke]TR[je]C[MA: You can hane because you don't fear the K15 cut.]
+
+(;W[je];B[le]
+(;W[id];B[jc]TR[lb]C[white needs to defend at M18])
+(;W[jc];B[id]C[MA: white has gained nothing with the cut at K15]
+))
+(;W[le];B[lf]TR[je]C[MA: You still don't fear the K15 cut, so you can hane again.]
+;W[kf];B[je];W[mf];B[lg];W[me];B[pg]C[MA: black is building a wall to the left and territory to the white by forcing white to run.
+
+White shouldn't play this way.])))
+(;B[nd]C[MA: If white answers locally..];W[pb]TR[dj]C[MA: black should probably tenuki (I would play D10)
+
+DT: I wouldn't tenuki. Black should play at R17 (san-san) now to get the corner (having a base is vital for both players) while attacking, keeping the pressure (White is not yet alive here).]
+;B[dj])
+(;AB[dj]C[MA: Black has more potential. White can only live small or run to the center, helping black to build influence to the left or territory to the right.]
+))
+(;W[ne]C[DT: Better.]))
+(;B[nd];W[md];B[me];W[ne];B[od];W[ld];B[nf]C[DT: Black get a nice shape, and White is not yet alive. (That's why invading so early in the game is usually a bad idea.)]
+))
+(;B[nd]C[MA: It is difficult to find a good move for white now.]
+
+(;W[pb]C[MA: white can try to take the corner, but I'm not sure black should even consider replying, white is already playing on the second line!]
+)
+(;W[kc]C[this can't be better for white than the previous variation, after white O16 and black Q14.]
+;B[je]))
+(;B[lc]
+(;W[ne];B[pf]C[MA: a disaster for white?])
+(;W[pb];B[nd])))
+(;W[nd]C[MA: This is the only move for white. A possible continuation follows.]
+;B[pf]TR[qf]C[MA: Q14 is prefered over R14 when black wants to attack (pressure) white.]
+;W[kc]C[MA: white tries to make a base];B[je]TR[lf][nf]C[MA: white is under attack, the triangle points are possibilities to get to the center.]
+))
+(;W[qf];B[nd];W[rd];B[qc];W[qi];B[dj])
+(;W[dg];B[ed];W[dj]))

@@ -1,0 +1,110 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.16]VW[]
+
+PB[WildHayate]
+BR[6k]
+PW[cue2]
+WR[5k]
+KM[0.5]
+DT[2014-09-12]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[B+Resign]
+TM[1500]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+C[cue2 [5k\]: hi
+WildHayate [6k\]: Hi!
+WildHayate [6k\]: gg!
+
+
+--- Hello. I will be your reviewer. 
+
+This game ends a bit too quickly. So, I only can give you some pointers. Hope they will be useful to you.]
+;B[pd];W[dd];B[pq];W[dp];B[qk];W[nc];B[pf];W[jd];B[jp];W[po]
+;B[np];W[qq];B[qr];W[qp];B[rr];W[qm];B[nn];W[pk];B[pj]C[WildHayate:I don't know if the sequence from this move was done properly. If not please show me the proper variation.
+
+--- This sequence is OK. I think up to now both sides play properly.]
+
+(;W[ok]LB[ql:A]C[--- However, this move is too thin. Later, when black has a chance black can take advantage of white's weakness by playing at A.
+
+The correct move for white is Q8. See variation.];B[oj];W[nk]
+;B[nj];W[mk]
+(;B[lj]C[--- You should play M11 instead. See variation.];W[mj]
+;B[mi];W[li];B[lh]C[--- Just extend at N12 is better.
+
+This is an example of 1-2-3 principle.
+
+http://senseis.xmp.net/?OneTwoThree];W[ki];B[nh];W[kk]C[--- This is good for white. His group is much stronger than before and he is out in the open.]
+
+(;B[md]C[--- Since you are strong in this area you should invade at M17 instead.
+
+See variation.]
+(;W[qc];B[pc];W[rb]C[WildHayate:Never seen a move like this before. What's the best answer I could do here?
+
+--- You should prevent white's connection at Q18. See variation.]
+
+(;B[rd];W[pb];B[ob];W[oc];B[pa];W[qb];B[mc];W[nb];B[cn];W[oe]
+TR[nb][mc]C[--- Big trouble for black. He should protect the cutting point better, e.g. black playing at N18 first.
+
+In stead of leaving weakness like this, black would be better off without playing N17, which induces white O18.]
+;B[od];W[nd];B[ne];W[me];B[nf];W[le];B[cf];W[pe];B[qd];W[qe]
+;B[re]LB[qf:A]C[--- White can create some big problems for black by playing at R14.]
+;W[mg];B[ng]LB[qf:A]C[--- Now the chance for white to play R14 was gone.]
+;W[mh];B[ni];W[kh];B[mf];W[fq]LB[dj:A]C[--- White was a bit too passive here. He should play somewhere around E10 to attack both black stones. His center is strong and should be able to handle the fight.]
+;B[dj]C[--- This is a very good move to stabilize your group.]
+;W[fc];B[lf];W[ke];B[kg];W[jg];B[jh];W[kf];B[lg];W[kj];B[ig]
+TR[jf]C[WildHayate: I think that it was a slow and unnecessary to play here and make a weak group. What would be better for me to do?
+
+--- As the position stays now, it is OK to play J13 as the forcing move. 
+
+The key is: you need to treat J13 as a forcing move. you force K14 and leave it at that. No need to defend J13/K12 stones. 
+
+The way to look at it is that:since there is no way white K13 can be captured, the exchange of J13 and K14 is purely benefical to black. You can be satisfied and look at other big points on the board.
+
+Notice that K12 is already extermely weak before J13. So, there i no reason to try to save a weak stone clinging to the strong white wall.]
+;W[jf];B[hh]C[--- Once you try to save this group, it becomes your burden.]
+;W[ii]C[--- Bad peep by white. Black should ignore it.];B[ih]
+TR[jd][ke][le][me][jf][kf][jg][kh][ki][li][kj][kk]C[--- No need to save K12. This cutting stone is extermely weak. White groups on both sides are not likely to feel bothered even if black K12 separates them.]
+;W[fh];B[ef]TR[dd][fh]C[--- Good move to split marked white stones.]
+
+(;W[ff]C[--- This white move helps black. He probably should protect the top group instead. See variation.]
+;B[fe];W[gf];B[ge];W[hf];B[he];W[if];B[hc]TR[ig][hh][ih][jh]
+C[--- This whole sequence is quite bad for white since they allow black to enter white's top area.
+
+White probably should just play G15 at move 82 (instead of F14) and let center black group connect with the group on the left.]
+;W[ee];B[ed];W[de];B[ec]
+(;W[eb]TR[dd][de][ee]C[--- This white move sacrifice the marked cutting stones. It was probably not a good idea. 
+
+It would be better to keep black group separated at D17 and sacrifice F17 instead. See variation.]
+;B[dc];W[db];B[cc];W[cb];B[df]TR[ig][hh][ih][jh]C[WildHayate: The game ended here with white resigning. I didn't thought at the moment that it was necessary for white do resign? Did he really need to resign?
+
+
+--- I think black is leading. However, if white can capture black's center group, the game will be much closer.
+
+You can see one possible continuation next.];W[bc]C[--- This is a forcing move to keep the upper left white groupo safe.]
+;B[cd];W[gj]C[--- This move will capture black group and keep the game going.]
+)
+(;W[dc];B[eb];W[db];B[fb];W[df];B[eg];W[dh];B[dg];W[cg];B[ch]
+;W[bg];B[eh];W[di];B[ei];W[ci];B[cj];W[bi];B[ej]C[--- This is one possibility]
+))
+(;W[ge];B[gf];W[he];B[gj]))
+(;B[pb]LB[hd:A]C[--- This move will make white struggle for live in gote.
+
+Then, if white gorup survives, black can aim to play H16 next.]
+;W[rd];B[qe];W[sc];B[re];W[qb];B[hd]TR[nc][jd]C[--- This is one way to play. White could fought back and create problems for black. However, I think it is better for black than in the actual game. With two white stones that can be attacked.]
+))
+(;W[mc];B[ld];W[lc];B[kd];W[kc];B[je];W[id]LB[qc:A]C[--- White gets solid territory and still can aim at R17 later.]
+))
+(;B[lc];W[ld];B[kd]LB[kc:A]C[--- Before you play this move, you should check that you can capture white stones if white plays at L17. See variations.]
+
+(;W[ke];B[kc];W[md];B[jc];W[id];B[ic];W[hd];B[gb];W[fc];B[le]
+C[--- White has no good answer.])
+(;W[kc]C[--- Black needs to survive if white plays here.];B[ke]
+
+(;W[jc];B[md]C[--- No problem for black.])
+(;W[lb];B[jc];W[mc];B[kb];W[lc];B[id]C[--- This is good for black.]
+))))
+(;B[li];W[kk]))
+(;W[pl]C[--- This is a more common move for white.];B[qj];W[nk]
+C[--- This is better for white. Black cannot cut his group.]
+))

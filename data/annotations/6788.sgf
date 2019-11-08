@@ -1,0 +1,143 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+PB[fifrelin]
+BR[3k]
+PW[peterchris]
+WR[3k]
+KM[6.5]
+DT[2008-08-07]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[B+Resign]
+TM[1800]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+C[Hi, I played white.  Short game, basically, please take a look at what I was missing.  Was I missing something strategically in fuseki or did I just read poorly later?  Thanks.
+
+-H-: Hi, I am your reviewer, Svante. Answering your question: it may sound harsh, but both. I will come back to that at the end.]
+;B[pe];W[dd];B[do]
+(;W[pq]C[-H-: This is an excercise in the direction of play. Where do the corner stones "look", i.e. where do they want to play next?
+
+The 4-4 stone looks in all directions, from D16 in the direction of K16 and D10, as well as the centre, and also a bit into the corner.
+
+The 5-4 stone is like 4-4, but it takes some of the interest from one side and adds it to the other. Q15 looks more in the direction of Q9 and less in the direction of K16. It also looks more into the centre, and less into the corner.
+
+The 3-4 stone is also biased to one side. Q3 looks more into the direction of Q9 and less in the direction of K4. It also looks less into the centre, and more into the corner.
+
+So, after you played this move, the right side has become the predominant interest of two opposing stones. It is Black's turn now, so he can play there first. I think that this is good for Black.
+
+It would have been better to play the komoku in the other direction, where Black doesn't have such a good move.
+
+However, this does not lose the game.];B[po];W[qo];B[qn];W[qp]
+;B[pn];W[nq];B[qj]C[This looks nice for Black, but it is no problem yet for White.]
+
+(;W[dj]C[-H-: Approaching the 5-4 stones from the corner is usually bigger than taking a side like this. In this diagonal fuseki, territory tends to be more important than centre influence, because the board is already broken up more than in a parallel fuseki. If you want to play on the left side here, playing keima from the hoshi is likely better because it emphasizes territory. 
+
+This high and far move invites an invasion in order to build central influence, but it is not clear that White can use that influence properly afterwards. Also, D5 already limits the further expansion on this side.]
+;B[fc];W[hc];B[cc];W[cd];B[dc];W[ed];B[fb];W[ge]
+(;B[ch]C[PC: At this point I don't know what to do.  Did I make a mistake already, or is this where I started making the mistake?
+
+-H-: This is a quite premature invasion. I think that you should be OK with aiming to enclose Black.
+
+Black should approach the white formation instead, threatening a better invasion while making points.]
+;W[eh]C[-H-: OK.];B[ef]
+(;W[dg]C[-H-: This is often not the best point when your opponent plays the big diagonal with the aim of settling. In this case, attaching at D14 seems good locally, i.e. if you want to cut there now.
+
+However, these are just two weak stones. Your first instinct at this point should be to attack them as a whole, either by simply connecting with F15, or by trying to enclose them with G13 or F13 directly. That way, they still don't live, but your own weaknesses become less.
+
+If you want to play G13 or F13, you have to read out what will happen when Black cuts at F16.]
+;B[df]C[-H-: This is the problem with D13. Black gets better shape than White.]
+
+(;W[cg]C[-H-: White should block at C14 now. This is too submissive.]
+;B[cf];W[bg];B[bf];W[fe];B[bd]C[-H-: This is good for Black, owing to the bad moves at D13 and C13.]
+;W[bc];B[ad];W[cm]
+(;B[ck]C[-H-: This is premature again. Black should just complete his corner.]
+
+(;W[cj]C[-H-: You don't have to separate the black stones, because they are not alive if they connect here. Better enclose the group as a whole.
+
+The problem is also that your group becomes very cramped when you defend miniscule points like this. The best strategy against an opponent who invades everywhere is to force him to live everywhere small.
+
+The mistake is of the same general nature as D13.];B[dk];W[ek]
+C[Is this move wrong?  how can I know whether the proverb applies in a given situation?
+
+-H-: No, it is perfect.];B[dl]
+(;W[cp]C[-H-: Not so fast, better play B9 first. Black has no good answer.
+
+As a guideline: getting the hane at the head _and_ at the foot is good for your shape.]
+;B[bj]C[-H-: An important point.];W[bi];B[bk]
+(;W[co]C[-H-: Too greedy. There are not many points here, because C4 can build a base in either direction. Better repair your cuts in the side group.]
+;B[ej]
+(;W[ei]C[-H-: White should capture the black stone directly, by atari from the other side. This may well be the losing move.]
+;B[fj]C[-H-: Now both sides are weak.]
+(;W[fk]C[-H-: You cannot hope to achieve anything with these stones right now. Better jump out with G12.]
+;B[gj];W[gk];B[hj]C[-H-: E9 is still weak, and E12 is one move before capture.]
+
+(;W[dn]C[-H-: You should not add stones where you are strong. Help your weak stones with G12.]
+;B[em]
+(;W[en]C[-H-: The lower left stones are already secure. You have to help your weak stones. G12 is most urgent.]
+;B[bh]C[-H-: Now it is very difficult for White. He has not even time to protect D11.]
+;W[ah]
+(;B[ci]C[-H-: Black is very nice. He could have played D11.]
+;W[di];B[ai]
+(;W[ag]C[-H-: White doesn't have time for this, he must get out first, or the group dies.]
+;B[fg]C[Game over. 
+
+To come back to your question whether your mistakes where rather of strategic or tactical nature:
+
+I would not distinguish between "tactics" and "strategy". Go is always played on the whole board, every move must fit into the whole game. There are more than four directions on a go board.
+
+With C12 and C9, Black played some unreasonable moves. However, they are not unreasonable because they can't live, they are unreasonable because living is all they can do -- they are latently unimportant even when they are played. This may be a hint to why your plays at D13, C13, C10 are submissive: All you do is capture unimportant stones.]
+;W[fh];B[gh];W[gg];B[hh];W[eg];B[ff];W[gf];B[af];W[ec];B[eb]
+;W[cb];B[db];W[bb];B[ac];W[gb];B[ab]C[peterchris [3k\]: thx
+fifrelin [3k\]: merci])
+(;W[gh]C[-H-: Like this, White can try to get back into the game.]
+))
+(;B[di]C[Game over.]))
+(;W[gh]))
+(;W[gh]))
+(;W[gh]C[-H-: This loosely connects the upper groups. Since White has some profit in the lower left, he is not completely out of the game.]
+))
+(;W[fj]
+(;B[ei]C[Black cannot escape.];W[fi];B[di];W[ci])
+(;B[ci]C[Black can settle like this.];W[ei];B[bh];W[en]C[White takes nice profit. The black group is not completely alive.]
+
+(;B[pc]C[If Black plays elsewhere...];W[ag];B[ah];W[bl];B[ak]
+;W[ai]C[Difficult for Black.])
+(;B[ag];W[qc]))
+(;B[el];W[ei];B[gl];W[qc])))
+(;W[ej]C[-H-: This is important.];B[dp];W[cq];B[co];W[er]C[It is playable like this.]
+))
+(;W[bk];B[bl];W[bj];B[cl]C[-H-: This would be good for White.]
+))
+(;W[dk]C[-H-: Like this, White has no worries, Black has to struggle.]
+;B[cl];W[dl];B[bm];W[cn];B[bn];W[co];B[cj];W[bo]C[-H-: This would be very good for White.]
+))
+(;B[dq]C[-H-: J3 and B6 can be regarded as miai for now.];W[gg]
+))
+(;W[cf];B[cg];W[bf]
+(;B[fh];W[ei])
+(;B[ei];W[di];B[dh];W[eg];B[ff];W[fi];B[gf];W[he]C[-H-: Black cannot cut, because his own group would be too weak.]
+
+(;B[fh];W[ej];B[fg];W[ei];B[ig];W[kd])
+(;B[fd];W[fe];B[ee];W[hf];B[fh];W[ej];B[fg];W[ei];B[hh];W[hg]
+;B[gi];W[ih];B[gj];W[ii]))))
+(;W[df];B[dg];W[eg];B[ff];W[cf]C[This is very difficult for Black.]
+)
+(;W[gg]
+(;B[eg];W[dh];B[cf];W[fd];B[fh];W[fg];B[ci];W[cj])
+(;B[fd];W[fe];B[ee];W[dg])))
+(;B[cl]C[-H-: Black has the territorial lead.]))
+(;W[qc]C[The more usual approach to 5-4 is at Q17, but here, Black already has expressed territorial interest on the right side. In this case, going to 3-3 is an interesting approach.]
+
+(;B[oc];W[qe];B[qf];W[pd];B[od];W[rf];B[pf];W[rg];B[rd];W[qd]
+;B[qb];W[rb];B[pb];W[ra]C[This is the usual joseki. I think that it is good for White in this situation, because the black formation on the right side has been devalued. Black now needs an extension on the top side.]
+;B[fc])
+(;B[qd]C[This is also possible, although often unsatisfying territorially for Black.]
+;W[pc];B[ne];W[nc]C[-H-: In this situation, I think it's even.]
+))
+(;W[pc]C[-H-: This approach is perhaps too easy for Black.]
+;B[nd];W[qe];B[qf];W[qd];B[pf]
+(;W[dq];B[ob];W[pb];B[fp])
+(;W[nb];B[dq];W[cg]))
+(;W[cg]C[-H-: Emphasizing territory on the left side.]))
+(;W[qp]))

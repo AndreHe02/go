@@ -1,0 +1,208 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.17]
+
+PB[mschlat]
+BR[4k]
+HA[3]
+PW[lyra]
+WR[1k]
+KM[0.5]
+DT[2011-05-27]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[W+Resign]
+TM[1500]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+AB[pd][dp][pp]C[Mark: Thanks for reviewing this game.  My major question involves the white group that starts on the bottom side --- whether or not to chase it, and if so, how to best profit from that chase.
+
+GP: Hi, I'm Graham Lamburn (johndoe69 on KGS), currently between KGS 1d and 2d. I hope to give useful comments and insights where I can (marked with GL:) and have tried to answer your questions, and I've summarised the key points at the end of the sgf. Where I'm offering or annotating variations that deviate from the game, I mark the game move with a square and the deviation with a triangle (including your variations if you provided them and I commented on them). If I'm simply offering alternative moves as a comment, I normally mark each with a triangle, and most variations have a comment at the end.]
+;W[dc];B[de];W[nc];B[qf];W[nq];B[pn];W[fq]TR[cn][jp]SQ[fo]
+(;B[fo]C[*** Attack two groups by splitting whenever you can, especially if both of them can't easily settle ***
+
+Mark: I was very uncomfortable with white moving around the board.  Up until this move, I thought I was doing reasonable responses.
+
+GL: Up until here, I think Black's played very sensibly on each move - this one just seems rather ambitious with regards to the right (it's generally very hard to make 5th line stones work with such a loose framework), and also somewhat failing to take advantage of White's "fast light development plan".
+
+White now has two approach stones, and the simplest approach will simply be to split them, while at the same time preventing either of them from making a full base. Another idea is simply to pull back. It allows White to play K4 giving him a really good position at the bottom, but at least Black gets sente to follow up in the top left, which is currently really big.]
+;W[cq]TR[cp][gq]SQ[dq]
+(;B[dq]C[GL: Black appears to have been caught in two minds. If Black is going to be playing here at all, F5 suddenly becomes out of position.]
+;W[cp];B[do]C[Mark: Looking back, I probably should have haned here, but I was concerned about the cut at D5.]
+;W[dr];B[er];W[cr];B[eq]C[GL: F5 is now oddly placed - F4 would be much much happier.]
+;W[cn];B[jp]C[GL: Feels quite loose, but it's a reasonable idea to split and attack both White stones. Without H3 or F4, the F3 stone has a large amount of really bad aji.]
+;W[fr]TR[oq]SQ[fs]
+(;B[fs]C[GL: I think this is a bit greedy. Normally, Black either has a stone at H3 or F4 to keep F2 separated, and this gives White a good opportunity to counter attack if he can build an attack against K4. I would be tempted to simply play H4 here after kicking in the lower right, and concentrate on O3 - either you get this move as well or you get to follow up against O3.]
+;W[ho]TR[jn][gr]SQ[gm]
+(;B[gm]C[*** Split weak groups for long term attacking possibilities ***
+
+Mark: I don't like my move here.  I am chasing white, but white wants to build along the side, not the center.  I think my variation is better.
+
+GL: I agree that this feels like the wrong direction, but this is a difficult position to play. White still has two burdens on the bottom side, so the golden rule normally is keep them both weak and unhappy.]
+;W[hm];B[gl];W[hl];B[gp];W[hp];B[gq];W[hq];B[gr];W[lo]C[GL: White has now sacrificed successfully, and Black has around 7 or 8 points from the lower left. It feels like around half the handicap has gone now.]
+;B[in];W[hn]TR[kn]SQ[ir]
+(;B[ir]C[GL: This is very thin shape - understandable when you are wanting to attack, but it gives White a lot of chance to counter attack. See variation for resisting more strongly.]
+;W[ql]TR[qi]SQ[pr]C[GL: Seems like more overplay by White. Force him to push you into attacking his lower group.]
+(;B[pr]C[GL: Again, split those weak groups :)];W[cm]C[GL: Simply must be R11, what was White thinking.]
+;B[lq]C[*** Seal in for thickness if you can then use that thickness to attack ***
+
+GL: There's no great value for Black in forcing White to run into the center. It's better to play on top of these stones, such as the cap at M7, and force them to either live small locally (and allow you to launch a serious attack against R8 or H5) or you swallow them all.]
+;W[fn];B[gn];W[go]TR[em]SQ[en]
+(;B[en]C[GL: E7 kills the cutting stone.];W[fm];B[gk]C[GL: Inconsistent with E6. Weakening your own stones and then trying to save them is rarely good.]
+;W[em];B[jm]C[GL: Very important shape point. White still has a lot of problems to handle, although the left side is looking dangerous for Black now.]
+;W[jq]TR[kp]SQ[jr]
+(;B[jr]C[*** Split weak groups, and leave White with as many burdens as you can ***
+
+GL: White has three targets - of all the moves you could pick locally, this is one of the kindest. Again, the goal is to keep White separated into "really not yet alive" groups, and keep him sweating. Any tesujis that allow him opportunities to kill something, especially if it lets him connect H4 to M5 and O3, will be a disaster for Black.]
+;W[jo];B[kp];W[jl]TR[mp]SQ[km]
+(;B[km]C[*** Use aji as a way of taking big points in sente ***
+
+GL: Locally definitely the right move for those two stones, but perhaps rather greedy right now, as those stones aren't very big. I'd fix the bottom once and for all and return to these later - they are going to be enough of a headache that White will want to spend another move to kill them, so you should get to take some really good territory in the lower right, and keep sente.]
+;W[oo];B[po];W[kl];B[lm];W[kr];B[kq];W[mq];B[lr];W[nm];B[io]
+;W[dg]TR[ll]SQ[ec]
+(;B[ec]SQ[hl][jl][kl][hm][hn][go][ho][hp][hq]C[Mark: A mistake according to Kogo's.
+
+Since I want to keep up the pressure on the marked group, I want to help the stones at G6.  Any suggestions on what to do?  (Of course, if my goal is a bad one, please let me know.)
+
+GL: I agree, this feels like a mistake, and your other variation is better. Your G7 group is also very important, as is O7 and R8 - that area has a red hot temperature right now, but this top left is also pretty urgent, so playing locally makes some sense.]
+;W[eb];B[ed];W[fc]TR[fb]SQ[fd]
+(;B[fd];W[gc];B[gd]C[GL: Pushing from behind is yucky :( If you can't cut at F18 immediately after E17, this variation is never going to be nice for Black. The F18 cut is hard though, as the ladder works for White.]
+;W[hc];B[hd];W[ic]TR[cc]SQ[dd]
+(;B[dd]C[Mark: Empty triangle on my part.
+
+GL: Hehe, yeah, better to aim at C17.];W[cc]TR[fg]SQ[be]
+(;B[be]C[GL: This move earns you pretty much nothing - it's low on eyespace potential, low on territory, and doesn't intimidate White. You're better off here fixing this group and G8 at the same time (those 4 stones are more valuable than they look because of the H6 group).]
+;W[dj]C[GL: White fixes his problem, and develops a large potential for territory on the left side. If White can fix all his lower right groups, the game is already favourable for him, so the lower right becomes urgent. Of course, Black still has to keep an eye on the G8 and E16 groups.]
+;B[ll];W[nk]TR[pl]SQ[hk]
+(;B[hk]C[GL: This doesn't do enough, you just force White to make better shape. Sadly, J10 doesn't work, so you are left with moves like G11 and keep an eye on the Black group from a distance. I'd sit on these stones for now, as you don't want to make them unpleasantly heavy, and return to the right side.]
+;W[ik];B[ij];W[jj];B[ji];W[kj];B[im];W[il];B[mk];W[nj]
+(;B[mj]C[Mark: I try some variations to my move below.
+
+GL: To be honest, if your only main target is K8, this is too little too late. You are spinning a lot of plates now, and some are bound to break. Not that this move is inherently bad, but your new goal should be the right side, so I prefer this to your variations.
+
+See variations on 80 and 104 for the sorts of areas I'd be aiming at.]
+;W[ii];B[hj];W[jh];B[ki];W[li];B[kh];W[lh];B[kg];W[lj];B[qi]
+;W[ph];B[qh];W[rn]TR[pl]SQ[ro]
+(;B[ro]C[GL: Split first :)];W[qq];B[pq];W[qn];B[qo];W[rj];B[ne]
+;W[lg]TR[mc]SQ[kf]
+(;B[kf];W[lf];B[le]C[Mark: I end up losing this stone and with it, much of the top.  However, if I extend to L15, I think white can run to safety.
+
+The issue of this group is an important one to me.  I realize I don't have to kill it, but I don't believe I take sufficient profit from chasing it.  Any advice on this question would be helpful.
+
+GL: Hopefully the earlier comments will help with this, as you have lots of chances to simply chase it for thickness and then try to bully something else. You also seem to try to do too much against the group you are attacking, and end up with too many thin weaknesses. For example, you could just aim to take a huge corner (see variation on 122) and leave G9 as aji. Trying to keep everything alive as well as push an attack that didn't quite work normally ends up with either something dying, or your opponent being the player that gets to generate a considerable number of points from pushing you around.
+
+*** End of comments - summary at the end ***];W[ke];B[je];W[kd]
+;B[ih];W[me];B[ld];W[md];B[lc];W[jd];B[ie];W[nf];B[bh];W[ci]
+;B[bi];W[bj];B[ch];W[dh];B[bd];W[pb];B[qc];W[qb];B[rb];W[ra]
+;B[rc];W[fi];B[gi];W[mi];B[pi];W[ac];B[nb];W[ob];B[mb];W[od]
+;B[mc];W[pe];B[qe];W[so];B[sp];W[sn];B[rq];W[bg];B[cg];W[cf]
+;B[bf];W[ai];B[ag];W[pm];B[jb];W[ib];B[jc];W[id];B[la];W[na]
+;B[bc];W[bb];B[oh];W[nh];B[oi];W[ni];B[on];W[nn];B[no];W[mo]
+;B[np];W[mp];B[op];W[mn];B[nl];W[ol];B[ml];W[om]C[*** Summary ***
+
+Black's main strategic weaknesses here were a combination of trying too hard (although that requires an accurate assessment of what's reasonable and what isn't, which is always very hard to do well) and not having enough plan Bs. Attacks work best when they make miai of a big kill and deliberately allowing the opponent to live while generating enough thickness to attack something else. If you have no secondary target, either try to create one, or make the thickness you can get into a border of a large moyo / territory (by building a position facing that thickness before launching the attack).
+
+So much of the direction in this game relied on Black using White's heaviness to generate thickness to pounce on other groups or stones, and due to creating your own thick positions while chasing the big dragon, a few big opportunities slipped by.
+
+*** Important Points ***
+
+8 - Attack two groups by splitting whenever you can, especially if both of them can't easily settle
+22 - Split weak groups for long term attacking possibilities
+38 - Seal in for thickness if you can then use that thickness to attack - the main aspect of splitting attacks :)
+48 - Split weak groups, and leave White with as many burdens as you can
+52 - If an attack is beginning to look unreasonable, use aji as a way of taking big points in sente
+
+*** Recommendations ***
+
+I'd strongly recommend Kato's Attack and Kill if you can get it as it gives really good discussion about how to strongly attack weak groups effectively. Both of these cover techniques and principles that will help your game. Either way, when you see a group you want to attack, decide on how you are going to maximise your profit from failing to kill it before embarking on the attack. Always have another area of the board or another weak group you are aiming at before starting a chasing attack.
+
+I hope these comments are in some way helpful. If you have any responses / queries / comments or would like further input on specific moves or areas, do feel free to ask!]
+)
+(;B[mc];W[md];B[nd];W[lc]C[GL: If White gets greedy.];B[mb]
+;W[nb];B[ld];W[me];B[le];W[mf];B[lb];W[kc];B[oc];W[hi]C[GL: Unfortunately, this is very painful, as Black still has too many weak groups to save everything.]
+;B[gi];W[gh];B[fi]C[GL: This so very nearly works, but the reading is very complicated.]
+(;W[fh];B[hh];W[ih];B[hg];W[jg];B[kf];W[jf];B[je];W[if];B[hf]
+;W[ie];B[eh];W[fg];B[eg];W[ff];B[ef];W[he];B[ge])
+(;W[hh];B[fh];W[fg];B[gg];W[hg];B[gf];W[eh];B[jf];W[jg];B[kf]
+;W[if];B[ie])
+(;W[hg]C[GL: I tihnk this is the only that works for White.]
+;B[di];W[ej];B[fh];W[fg];B[dh];W[df];B[cg];W[cf];B[bg];W[bf]
+;B[af]
+(;W[ce];B[cd];W[bd];B[ae];W[ad];B[ag];W[bb];B[cj];W[ck];B[bj]
+;W[bk]
+(;B[bi])
+(;B[ff];W[eg];B[gf];W[gg];B[jf];W[if];B[ie];W[je]
+(;B[jd])
+(;B[hf];W[ig];B[jd];W[kf];B[ke];W[jg])))
+(;W[ch];B[bh];W[ci];B[cj]))))
+(;B[pl];W[pk];B[ol];W[nl];B[qk];W[qj];B[rk];W[pj];B[rj];W[ni]
+))
+(;B[li];W[lj];B[mj]
+(;W[mi];B[ki];W[ml];B[lk])
+(;W[ki];B[kh];W[ii];B[hj];W[jh]C[GL: Black collapses.]))
+(;B[ki]
+(;W[lj];B[mj];W[li];B[mi];W[ii];B[hj];W[jh])
+(;W[hj];B[ii];W[gj]C[GL: How about this for White?])))
+(;B[pl];W[pk];B[ol];W[ok];B[qk];W[qm];B[on];W[qj];B[rk];W[rj]
+;B[nl]C[GL: Black either kills R8 or takes a large corner territory.]
+))
+(;B[fg];W[di];B[ej];W[dj];B[ll]C[GL: Now you can return to this attack.]
+))
+(;B[cc];W[db];B[cd]C[GL: Black has much better eyespace now.]
+))
+(;B[fb]TR[cb]C[GL: See comment on move 70]
+(;W[gb];B[db];W[fa];B[cc]C[GL: Normally White should capture the cutting stone, and you make happy life. However, the game gets very complicated for you here as the ladder doesn't work, and White may well try to fight.]
+)
+(;W[cb];B[ea];W[db];B[gb];W[gc];B[hc];W[fe]C[GL: Now the game gets very messy in the corner. It still seems playable though]
+)))
+(;B[fe]C[Mark: I think this variation works out a little better.]
+;W[fc];B[cc];W[cb];B[cd];W[bb];B[cg];W[ch];B[dh];W[ci];B[eg]
+;W[di];B[df]C[GL: This is great for Black. Now you are settled, E11 is also really big, so White has plenty on his plate.]
+)
+(;B[ll]C[GL: This is the best way to launch an attack locally I think, as you have some really good jokers to play, however, you must first prevent a monster White moyo on the left.]
+;W[kj];B[pl];W[pk];B[ol]C[GL: Aiming at Q9 and O8.];W[nl];B[ok]
+;W[nk];B[qk]))
+(;B[mp]C[GL: Now you have a big corner, and White still has concerns about those two stones.]
+;W[km];B[qi];W[ol];B[cc];W[cb];B[cd];W[eb];B[ch]C[GL: Black's lower right corner is large, the top right is secure, and White has no easy ability to develop the left hand side. Black is now clearly ahead on territory.]
+))
+(;B[kp]C[GL: Now what for White? Not only has he failed to connect, but instead of hitting N4, Black can aim at M7 and try to attack on a large scale. Either way, White's a mess at the bottom now.]
+))
+(;B[em]
+(;W[en];B[dn];W[eo];B[fp])
+(;W[fm];B[fl])
+(;W[eo];B[fp]
+(;W[dn];B[en])
+(;W[en];B[dn])
+(;W[fm];B[fl]))))
+(;B[qi];W[ol];B[no]TR[ml][mp]
+(;W[mp];B[mm]C[GL: Start attacking everything :)])
+(;W[ml];B[mp]
+(;W[lp];B[mq];W[lq];B[mr];W[kl]C[GL: A very nice corner profit]
+)
+(;W[mq];B[lp];W[lq];B[kq];W[pr];B[qq];W[kr];B[jr];W[lr];B[qr]
+;W[oq];B[kl]))))
+(;B[kn];W[ln];B[jl]C[GL: White has no way now to connect his two groups.]
+))
+(;B[gr]
+(;W[gq]C[GL: This is a bit optimistic to expect White to save these stones just yet. White's likely to let F3 die to build up an attack against K3.]
+;B[hr];W[hq];B[ir];W[iq];B[jq])
+(;W[jo];B[ko];W[kp]C[GL: Starting with something like this gives White good chances at sabaki, giving him opportunities for a happy result on at least one side.]
+))
+(;B[jn]C[GL: This is my move, keeping both White sides struggling for life, and enouraging White to let you build on the left side.]
+;W[hm];B[el];W[il];B[oq];W[np];B[nn]C[GL: H7 is now mostly free, but not very happy, and O3 is in desperate trouble.]
+))
+(;B[oq];W[np];B[ho]
+(;W[lq];B[kq];W[lp];B[fs])
+(;W[es];B[lq];W[nn];B[ol])))
+(;B[cp]LB[dj:A]C[Mark: This is joseki according to Kogo's, but this is only recommended if there is a stone around A.
+
+GL: Indeed, however, with the top left, you can break joseki and attempt to develop on a large scale. Either way, I think giving White the corner and connection to F3 is too generous.]
+;W[dq];B[ep];W[gr];B[ej]C[GL: D10 feels a bit more comfortable to me - either way, this is consistent with D15.]
+)
+(;B[gq]C[GL: This is another tesuji you can think about aiming for.]
+;W[gr];B[fr]C[GL: Useful close contact technique (the knight attach+crosscut) when you are happy with succeeding on either side.]
+;W[er];B[hr];W[fs];B[gp];W[kq];B[oq];W[np];B[cp];W[bq];B[dj]
+C[GL: Sealing in here is another idea, but it's hard to launch a strong attack against L3 and there's an open skirt at B4, so it's still quite hard to play.]
+))
+(;B[jp]C[GL: Although both 3-3 points are now available to White, he can only take them at the cost of giving Black good thickness, so timing is difficult. If he takes both corners, Black will have such a monster moyo at the bottom that it will be hard for White to regain the lost ground, yet at the same time White can't make a base for the stones and therefore doesn't want to make them heavy.]
+)
+(;B[cn];W[jp];B[cc];W[cb];B[cd];W[eb];B[fe];W[gd];B[dj]C[GL: Black can simply go for "bigger scale than White"]
+))

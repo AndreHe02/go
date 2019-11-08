@@ -1,0 +1,122 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+PB[mgelo]
+BR[4k]
+PW[vegos]
+WR[4k]
+KM[6.5]
+DT[2007-07-26]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[W+Time]
+TM[300]
+RU[Japanese]
+
+C[Dear reviewer,
+
+ this game somewhat perplexed me, so maybe you could help clarify a little bit :)
+
+ In general, I wonder what my major weaknesses are (as for your opinion) and what I should  concentrate on for the future.
+
+Specific questions are in the sgf file, marked by the <mg> tag.
+
+Thanks in advance for your time!
+
+mgelo.
+
+-------
+
+Here's my thoughts after reviewing the game.  I can see two areas that you may want to work on.  (1)  How to use thickness: use it to attack, not to make territory.  When you attack, you need to make some profit.  The profit comes three ways.  You may kill a group and that yields the maximum profit.  But htis doesn't happen often and you shouldn't expect that.  You chase a group and make territory naturally along the way.  Or you can form thickness during the attack process.  When you play your future games, think about which profit motive you are aiming for prior to the attack.  Then come up with an attack strategy accordingly.  I believe with this kind of thought process it will help you to determine which direction to attack from.
+
+The second area that's worth studying is the skill to determine which area is bigger.  I think reading some books about positional analysis could help.  Studying pro games could help too but it is more difficult.  You can get a feel of an area that is considered important by pros but you may not know the reasoning behind it.  Positional analysis books will give a better explanation.]
+;B[pd];W[qp];B[cd];W[dp];B[ic];W[qf];B[nd];W[pj];B[cn];W[dk]
+;B[en];W[fp];B[bp];W[cq];B[bk];W[jq];B[og]LB[qc:D][ed:A][of:E]
+[qh:C][op:B]C[<mg> too early?
+
+Yes.  I wonder if you were thinking this move was the intersection of the two moyo boundaries.  In such a case, a move like this is critical.  But in this game, a move by white at E doesn't really increase his framewok all that much.  Although black has a follow up at C, white can invade at D for an exchange.
+
+Either A or B is better at this time.];W[ed];B[df]C[<mg> wasn't quite sure how to handle this invasion]
+;W[cc]
+(;B[dd]C[Since white enters black's framework, black's aim is attacking white and taking profit along the way.  The game move allows white to settle easily.  The usual attack sequence for the Chinese Opening is shown in the variation.]
+;W[dc];B[ee];W[fd];B[fe];W[gd];B[di]LB[hd:B][ge:A][fk:C]TR[ic]
+SQ[cd][dd][ee][fe][df]C[<mg> this feels a little overconcentrated, but I did not want to let him extend to D12
+
+This is overconcentrated and moving in the wrong direction.  You are trying to make territory with the wall you have built up.  I am sure you know you use thickness to attack, not to surround space.  
+
+I will push up at A to exchange for white's B, although this weakens the upper side marked black stone a bit.  Then play C to attack white on a larger scale.  Now the power of the wall really shines.  White may be able to escape or live small inside.  Either case black can profit from the attack by gaining thickness along the F line.  Eventually this new found thickness can be used to attack other groups or turned into cash toward the latter part of the game.]
+;W[gn]LB[fl:A]TR[bi][ci][bj][ej][fk][bl][bm][em][dn]C[<mg> ouch! big point!
+ In general, I had difficulty handling the D9 stone, any suggestions?
+
+Somehow you get too hung up on capturing the D9 stone.  It's small.  For example, if black plays A to capture this stone, it's only about 10 points.  It's too small at this time.  In fact black would like white to save this stone.  If white escapes, black can profit more by chasing it.]
+;B[ie];W[ge];B[gb]C[<mg> is this too premature?];W[bd];B[be]
+;W[bc];B[eb];W[ec];B[gf];W[hf];B[he];W[gg];B[ff];W[ce];B[de]
+;W[cf];B[cg]C[<mg> I did not foresee the W cut, and now have to yield]
+;W[bf];B[bg];W[ae];B[hg];W[rd];B[qh];W[qc];B[op];W[oq];B[nq]
+;W[pq];B[np]LB[nn:A][on:F][mo:D][no:C][oo:E][mp:B]TR[jq]C[It's more common to play A for this pattern, given white's marked stone blocks black from extending.  If white cuts, then black ataris at B to fix his shape.  Follow the B to F sequence.]
+;W[qn];B[po]LB[ql:B][qo:A][ro:C]C[Why played the game move to force white to defend at A?  Without this exchange, when black plays B later, he can aim for the peep at C.]
+;W[ph]
+(;B[qo]LB[pg:B][qo:A]C[<mg> maybe the following variation instead?
+
+I've made some comments in your variation.  It's ok to play your variation first, which is good for black and them come back to play the game move.]
+;W[ro];B[rp]C[<mg> I miscalculated here];W[rq];B[rn];W[sp];B[qm]
+;W[qi]
+(;B[ko]C[<mg> I feel behind at this point
+
+yes, black is behind.
+
+Please see variation for more agressive moves.];W[ob];B[hp]
+;W[hq];B[ip];W[iq];B[go]C[<mg> this is however  a maneuvre I'm somewhat proud of.]
+;W[fo];B[fn];W[gp];B[gm]LB[ho:A]TR[gn]C[Since black is behind, I am inclined to connect at A and try to capture the marked white stone.  If white tries to escape but is captured eventually, white loses the game.  So there is risk for him to escape.]
+;W[hn];B[hm];W[in];B[jo]C[<mg> is J7 better instead? That way, B would get a big noyo]
+;W[im];B[il];W[jl];B[ik]LB[jk:A]C[Black can be a bit more aggressive by playing A.]
+;W[km];B[ln]LB[lo:A]C[<mg> is K9 better?
+
+This is necessary to defend white's attachment at A.];W[jk]
+;B[ij];W[jj];B[mk]LB[ii:A][ho:B]C[<mg>overplay?
+
+Since white can always connect at B, white is not afraid of the attack.  A hane at A by white is severe, and it's better for black to play there now.  Black has made huge territory at the left, and he is catching up.]
+;W[ii];B[ji];W[hi];B[gk];W[jg];B[ki];W[if];B[ho];W[lj];B[kj]
+;W[lk];B[kk];W[kl];B[li];W[mj]
+(;B[ll]LB[mi:A]C[Play A to force one more time.  White has two weak groups and if black kills one of them he can win this game.  Please see variation.]
+;W[lm];B[ml];W[mm];B[nj];W[mi]
+(;B[mh]LB[kg:B][mh:A]C[<mg> this ladder does not work.
+Could I have played L13 as a breaker? (see var)
+
+I checked you variations and they appear to be good.  I also have some comments about your variations.]
+;W[ni];B[nm]LB[lg:A]C[You need to save your stones in the middle.  Play A.  If black manages to kill white's group at K13, black may still win the game.]
+;W[mn];B[mo];W[lh]C[Game is over.];B[nn];W[kh]C[This is unnecessary.]
+;B[gh];W[ld]C[<mg> this seems like a fatal blow
+
+Really doesn't matter as white is leading comfortably.  Comments stop here.]
+;B[le];W[ke];B[kf];W[me];B[jf];W[ig];B[lf];W[md];B[kd];W[nc]
+;B[mf];W[ne];B[nr];W[gi];B[fi];W[fj];B[gj];W[fh];B[ei];W[hh]
+;B[bq];W[ag];B[bh];W[eh];B[dh];W[nl];B[ol];W[nk];B[cr];W[dr]
+;B[cp];W[dq];B[br];W[do];B[dn];W[nh];B[kc];W[ng];B[nf];W[of]
+;B[qs];W[qr];B[ps];W[rs];B[or];W[lp];B[kp];W[lq];B[kq];W[lo]
+;B[lr];W[kn];B[jr];W[gr];B[fq];W[ir];B[is];W[hs];B[js];W[pl]
+;B[ok];W[pm];B[pk];W[om];B[qk];W[ql];B[rm];W[rl];B[rk];W[sm]
+;B[pn];W[sn];B[mb];W[db];B[mc];W[od];B[fb];W[on];B[no];W[mq]
+;B[mr];W[kr];B[ks];W[pr]C[vegos [3k\]: thx
+mgelo [4k\]: thanks])
+(;B[kg]LB[kg:B][mh:A]
+(;W[mh]LB[kf:B][mh:A];B[ih]
+(;W[ig]LB[jf:B][ig:A][jh:C]C[Please see my variation for C.]
+;B[jh];W[hh];B[jf])
+(;W[jf]LB[jf:B][ig:A];B[jh];W[hh];B[lg])
+(;W[jh]C[This is the most severe for white, but it appears white still cannot make two eyes.]
+;B[lg];W[kf];B[mg];W[hh];B[gh];W[fg];B[eg];W[fh];B[gi]))
+(;W[kf]LB[kf:B][mh:A];B[mh];W[ni];B[nh];W[oi])))
+(;B[mi];W[nj];B[fg];W[gh];B[jf];W[ig];B[kf];W[kg];B[lf]C[It's a difficult position for white.]
+))
+(;B[ip];W[jp];B[io];W[hr]C[Black creates a weak group here but he needs to be agressive to reduce white's territory and also takes sente.]
+;B[pc]))
+(;B[pg]LB[pg:B][qo:A];W[qg];B[pi];W[oh];B[oi];W[nh];B[qj]LB[rh:B]
+[qi:A]C[A is better.  With the game move, white can make a nice yose move at B.]
+;W[nf];B[of]C[Black cannot escape.];W[oe];B[pe];W[ng]LB[pf:A]
+C[A will kill black.];B[pf];W[od];B[oc];W[ne];B[pc]LB[md:A]
+[re:B]C[<mg> variation
+
+Although a follow up by white at A is great, black can play B to cause trouble.]
+))
+(;B[bc];W[dc];B[bb];W[gc];B[ie];W[ff];B[dh]LB[hb:C][ib:A][jb:B]
+[jc:D]C[White can live by playing the A to D sequence, but it's better to hold back this sequence as it helps black to get stronger in the upper side.]
+))

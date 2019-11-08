@@ -1,0 +1,118 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+GN[districtstoernooi]
+PB[Durk]
+PW[Bert]
+WR[3k]
+KM[6.5]
+DT[2006-07-18]
+PC[rotterdam]
+RE[W+Resign]
+RU[Japanese]
+
+C[Districtstoernooi 2006
+Black: Durk Berks
+White: Bert Vonk
+Komi: 6.5
+White wins (black resigns)];B[dp];W[pq];B[po];W[qo];B[qn];W[qp]
+;B[qd];W[od];B[oc];W[nc];B[pc];W[nd];B[pn];W[nq];B[pe];W[jd]
+
+(;B[ec]
+(;W[pk]C[What is the best move to attack Black ??
+
+I would hold back one space, since black would still play from above (playing R8 feels way too tight), the way you play in the game, you give B various tactics for crossing under.]
+;B[pi];W[nk];B[nn]C[this jump feels too slow and heavy];W[ni]
+;B[ci];W[cd]LB[cc:A][de:B]C[This moves turns out to be bad. What are the alternatives ?? A, B or somewhere else ??
+
+I don't think it turns out bad, but A is the common move when he has a stone around C11.]
+;B[de];W[ce];B[df];W[dc];B[dd];W[cb];B[db];W[cc];B[kn]LB[jq:A]
+C[Better on A ?
+
+no, there is a fight in the center, he should strengthen his group first.]
+;W[fq]C[this looks a bit hurried, I think you want too much here. J6 building strength while attacking B is another option that I like better, and if you want to stretch all the way over to the corner I think you should play the high approach to build influence. Making the lower side territory should not be a priority for W.]
+;B[eq];W[fp];B[cn]
+(;W[jp];B[rk]C[playing on the second line like this is not good, it also helps the weak W group get strong. He should directly invade at M3 and see what W responds.]
+;W[qj]LB[mn:B][mo:A]C[I think white should have played first at A, Black B, then at 40.
+
+Maybe, but the S9 R10 exchange is already a big minus for B.]
+;B[rj];W[qi];B[ri];W[qh];B[lq];W[lp];B[mp];W[mq];B[kp];W[kq]
+;B[lo];W[lr];B[hp]C[Somewhere during this fight white lost track and come out poorly. Where did it go wrong for white?
+
+I don't know - did it really go wrong for W? If anything was wrong I think it was the F3 move.]
+;W[lp];B[gr];W[ko];B[jo];W[io];B[kp];W[ip];B[lq];W[jr];B[fr]
+;W[cg];B[cf];W[bf];B[dg];W[ch];B[dh];W[bi];B[bh];W[bg];B[bj]
+;W[ho]C[I think the game is about even again.]
+(;B[ke]C[This is, I think, not good for black, what is a better alterantive ??]
+;W[kd];B[me]C[B must be trying to attack the W stones below, but it's a terrible strategy.]
+;W[of];B[kh];W[hc]C[now W takes territory and B has made a heavy group.]
+;B[fn]
+(;W[jm];B[ai]LB[hm:A]C[Too slow ?? Better at A ??
+
+this is a huge move, but maybe he should play A first and then after you answer take the stone. In fact your K7 move is a little slow (playing from strong stones is not so efficient).]
+;W[ql]
+(;B[rm]C[this is a huge mistake. B's eyeshape disappears.];W[rl]
+;B[sl];W[rh];B[ro];W[rp];B[jn];W[hm]C[this exchange of K6 H7 hurts B very much to play. B is now losing the game.]
+;B[gl];W[hl];B[ml]LB[gk:A]C[Better at A ? But can white kill black ??
+
+if not killing the stones below, then W will kill the stones above. B should not play G8 at all, but defend his group directly.]
+;W[gk]TR[kj][lj][kk]C[this is slow. you should M10 or L9 or L10 to split the two B groups and keep up the attack. Each move has their pros and cons, but I think I like L9 the most.]
+;B[fk]TR[lj]C[B absolutely has no time to play here. This move must be at M10]
+;W[lk];B[km];W[gj]C[this is not the urgent place. you should play K8]
+;B[kk];W[kj]
+(;B[ll];W[jk];B[gh];W[fj];B[ej];W[fl];B[ek];W[fm]
+(;B[gn];W[gm];B[gp]C[this is small];W[dm];B[cm];W[dl];B[cl]
+C[Too small ?? I think game is still even.
+
+W reduces the B territory in sente, it is very big.];W[ih];B[ig]
+;W[jg];B[if];W[jh];B[jf];W[hh];B[kg]
+(;W[ei];B[eh];W[fi];B[di];W[hg]C[this is a crude move, should be F17]
+;B[hf];W[gg];B[ge]C[catching one stone is very small.];W[re]
+;B[rd];W[qe];B[pd];W[nb];B[pf];W[qg];B[pg];W[ph];B[ob];W[fc]
+;B[ed]C[now that B played G15, the F17 move is not effective anymore.]
+;W[so];B[rn];W[fb];B[eb]C[Since white got all the endgame moves. White has now the lead app. 4 points ?]
+;W[sd];B[sc];W[se];B[qf];W[rf];B[rb];W[ld];B[ag];W[ae];B[jl]
+;W[kl];B[oe]C[Better to capture with J7 ?
+
+better to play a real ko threat like C19];W[il];B[ng]C[capturing this one stone in gote (two moves, actually) is very very small.]
+;W[np]
+(;B[no]LB[mo:A]C[Should be at A, black lives unconditionally.
+
+are you sure?];W[lp];B[mo]
+(;W[nl];B[om];W[nm];B[mm];W[op];B[pl];W[qk];B[lq];W[hr];B[gq]
+;W[oo];B[on];W[lp]
+(;B[in]C[Wrong ko-treat, see further.
+
+B can never win this ko, so he should not waste his ko threats but just make life immediately.]
+;W[hn];B[lq];W[eo]
+(;B[en]C[big mistake. B should just capture the two W stones without exchanging E6 for D6.]
+;W[dn];B[fo];W[do];B[cp];W[ep];B[go];W[co]C[Black resigns.]
+)
+(;B[fo];W[en];B[ep]C[W is winning by 10pt+ anyway (I didn't count, but it's obviously W's game)]
+))
+(;B[ln]))
+(;W[om]C[if you play here, B is dead.]))
+(;B[mo];W[om];B[no];W[lp]C[this is not unconditional life.]
+))
+(;W[gf]C[this is the key point in the shape, but it looks like it's not quite working - why don't you take F17 and see what B responds? This way you can make profit from the aji.]
+))
+(;B[em]C[B should just protect his territory]))
+(;B[mk]
+(;W[mj];B[ll];W[lj];B[jk]C[better shape for B, but his three stones above are dying.]
+)
+(;W[ll];B[mj]C[W cannot resist.])))
+(;B[rl]
+(;W[rm];B[rn];W[qm];B[sm]TR[qk]C[this way B has eyeshape and W has bad aji]
+)
+(;W[rn];B[rm];W[ro];B[qm]C[this is also much better for B than the real game.]
+)))
+(;W[fc];B[eb];W[fe];B[ed];W[di];B[cj];W[ei]C[this attacking sequence is a big worry for B, he suddenly has two weak groups to care for.]
+))
+(;B[hc]C[this is definitly better - W would be very happy to play here. Next B is aiming at M18.]
+))
+(;W[kp]C[Maybe better here, considering the position of the B stones.]
+))
+(;W[pj]
+(;B[ph];W[pl]C[I think this is a bit harder for B and a bit easier for W]
+)
+(;B[ql]C[this feels too tight])))
+(;B[pj];W[ec]C[this is steady]))

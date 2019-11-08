@@ -1,0 +1,146 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+PB[tsedi]
+BR[2d]
+HA[2]
+PW[papaseal]
+WR[4d]
+KM[0.5]
+DT[2008-10-15]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[W+Resign]
+TM[1200]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+AB[pd][dp]C[tsedi [2d\]: hello
+papaseal [4d\]: hi
+
+---
+
+I'm playing black. I have a tendancy to lose all handi games as B but I win even games and handi games as W pretty often.
+
+Here I kept my lead pretty well in the early game but I began losing more and more in the late midgame until I finally got a group killed in the endgame and had to resign.
+
+I would appreciate some tips how to improve my game!
+
+Thanks!];W[pp];B[dc];W[de];B[dh]C[Donal: I am going to comment on the fuseki because I think you could improve your game most easily by studying fuseki. Black 2 and 4 are good, as Black is beginning to build a framework on the left.]
+;W[fd]LB[dk:A][ce:B][cd:C][fb:D]C[Donal: White 5 is a non-standard play, but interesting in a handicap game as it's easy for Black to get confused.
+
+Normally in a handicap game, Black's strategy is to try to build strength in the center and use it to attack White and to keep himself out of trouble. Following that strategy, my first idea would be to play at black A to make a solid base for Black's isolated stone, and leave the corner for later. Attaching at B strengthens White, and doesn't seem as attractive.
+
+Another idea is to play black C, white B, and black D, as this doesn't strengthen White as much.]
+;B[ce];W[cf];B[cd];W[df];B[nq]LB[fb:A][dk:B]C[Black 10 is not bad, but in a handicap game it's better to play more solidly. Having opted to play in the corner, finishing up with A is worth it, since it makes the corner absolutely alive and threatens an attack on White as well. B is also very solid, and doesn't give White any place to start trouble.
+
+Black 10 gave White the chance to complicate things. White will almost certainly answer it, and then Black would be well advised to go back and play A or B.]
+;W[kp]C[After white 11, Black has nowhere left on the board to build a large framework.]
+;B[qn]LB[fb:A]C[Black 12 is a very territorial move, so it's unusual for a handicap game. Black will end up invading at the 3-3 point, and White will get outside strength.
+
+Playing for territory as Black in a handicap game is of course OK, but you have to realize that White can get very strong in the center, and you'll have to be very careful not to get into a disadvantageous fight.
+
+Also, if you want to play that way, it's more consistent to play moves like A, which is very big.]
+;W[np];B[mp];W[no];B[qq];W[oq];B[qp];W[nr];B[hq]LB[dk:A][cn:B]
+[fb:C][nc:D]C[Own comment: maybe better extend the upper right stone?
+
+Donal: There are several places that I would consider. A, B, C, D for example are not bad. But Black 20 is in the wrong direction as it doesn't attack White at all, and doesn't defend the corner either. I suppose that you are attempting to limit White's expansion, but it's better to let White expand there. And in fact, White is not likely to play there anyway. He is more likely to use his strength to play at A or B.
+
+Black 20 is an example of a very common fuseki mistake. Try to avoid this type of move and your game will get better right away.]
+;W[cn];B[bp]LB[fp:A][dk:B]C[Black 22 is much better than playing at A, but B would be even better. If you don't save your isolated stone now, then after White pinches it you should just consider it dead. There won't be any point in fighting there.]
+;W[dk];B[en];W[dm]C[Black 24 was interesting, but it solidifies White without building either solid territory or a large central framework. So because of the strong white stones on the right, it's probably better not to make this exchange. If white 11 was a black stone, then black 24 would be great.]
+;B[fh]LB[fb:A][gc:B][he:C]C[Own comment: Im satisfied to the game so far. I feel like W has been playing a bit slowly
+
+Donal: White is playing a very solid game, and it shows that he has confidence that Black will dig his own grave. As White, you shouldn't have to do anything special to win.
+
+Now about Black 26. I's a natural idea, as it splits White in two, but actually neither White group looks like it's in danger. White has an unusual amount of thickness on the lower side, and Black omitted the move at A. So it seems like Black 26 is just giving White a chance to cause trouble.
+
+More reasonable is for Black to play A, and follow up with B and C if he gets the chance. Let White play 26 - he deseves that much.]
+;W[eb]
+(;B[ec]LB[db:A]C[28 is not a good answer here. Black should just block at A (see diagram).]
+;W[fc];B[db];W[fb];B[kd]LB[hh:A]C[White 31 is gote, and doesn't threaten to immediately kill the corner, but it does indirectly threaten to connect to the stones on the lower left. Black 32 takes advantage of White's slow move, but Black A would be a lot safer. If you don't like the fact that White could then play around 32, then you shouldn't have played 26 in the first place.]
+;W[be];B[bd];W[bg];B[ae];W[bf];B[ci]LB[bb:A]C[Naturally the reason White connects at 37 rather than just connecting at 38 is that he plans to attack the corner. White may have thought Black would defend at A, or maybe he was hoping he wouldn't notice.
+
+Actually, it might have better for White to play at 37 instead of 35, because then 36 would not be sente, and a White play at A would kill the corner outright, instead of it being ko (see diagram).]
+
+(;W[bj];B[bi];W[hh];B[fj]C[yakito [7k\]: w*];W[fl];B[ff];W[fe]
+;B[gf];W[if]C[This is not good for Black at all. He will manage to live, but White is getting a lot of free moves attacking him. He should never have run away at 26.]
+;B[he];W[bb];B[cb];W[bc];B[ba];W[da]C[yakito [7k\]: yep];B[ab]
+;W[ac]C[yakito [7k\]: ko];B[ad];W[aa];B[em];W[ca];B[el]LB[ek:A]
+[ie:B]C[Own comment: still satisfied
+
+Donal: I play a lot of three-stone games as Black against a professional-level player. This looks quite similar to what happens to me :)
+
+As Black, I would expect to lose this in the yose. (Naturally, his yose is better than mine.) So while I wouldn't resign here, I certainly wouldn't be happy. Naturally it would be OK if you could kill the White group on the left side, but you didn't manage to do it.
+
+The problem is that White has such a strong group on the lower right, neutralizing Black's thickness. In addition, Black has weak points at A and B, and against a stronger player he could get into trouble later.]
+;W[cj];B[bm];W[bn];B[dl];W[cl];B[cm];W[dn];B[bl];W[ck]
+(;B[do]LB[ek:A]C[Donal: Instead of 70, Black should play at A. This is much thicker in the center, which could make a big difference later in the game. As a unexpected bonus, the White group becomes ko (see diagram).]
+;W[ek];B[fk];W[ai]C[Notice how White forces at 71 before living. This affected the fight in the center much later. The cutting stone at 43 doesn't look like a threat right now...]
+;B[ah];W[aj];B[bh];W[al];B[pi];W[ql]LB[pj:A][pl:B]C[Because of White's thickness, 79 is an excellent attack on the corner. Maybe 78 was in the wrong place? Playing 78 at A, for example, would have made it possible to answer 79 with B. Even playing 78 at 79 would be better than the actual game.]
+;B[pl]LB[qm:A][ni:B][nl:C][li:D]C[Black 80 is pointless. You can't kill White here, you can't wall him in, and you need to protect the corner. So play at A to defend, let White extend to 80, and then jump to B. This threatens Black C, which would be bad for White, but if White plays at C, jump to Black D.]
+;W[pk];B[qk]C[Own comment: wasnt sure if crosscut is the way to go. Couldn't read all the variations]
+;W[qj];B[rk];W[pj]C[Donal: Allowing White to connect at 85 right up against black 78 violates one of the "laws of go". So the crosscut is bad.]
+;B[ol]C[Own comment: wanted to take the outside wall instead of saving the stones]
+;W[rl];B[rj];W[ri];B[qi];W[sk];B[oj];W[sj];B[ok]LB[oi:A][pm:B]
+C[Donal: Black gave up way too much for too little thickness. There are defects at A and B, and the corner is not really alive. It will be hard to make anything out of the center.]
+;W[oi];B[pg]C[Own comment: I feel like I should win the game from here. I would appreciate tips on how to deal with the white stones in the middle that are very very weak.]
+;W[oh];B[qf];W[rh];B[ph];W[pm];B[mk]LB[ro:A][ni:B][nh:C][mh:D]
+C[After White 101, it looks like White A might kill the corner. Naturally that was White's reason to play 101. (See diagram.)
+
+Also, casually jumping to 102 won't be so effective because Black's own stones will have to connect all the way across to the black stones on the left to live. During that time, White will live and the center will all be neutral territory.
+
+So instead of 102 I recommend B, which neutralizes the two white stones. (If C, then D.) That makes Black safe and he can get an attack on the two floating white stones at 41 and 47.]
+
+(;W[mi];B[kk];W[ki];B[mg];W[mh];B[lg];W[jk];B[jl];W[jj];B[km]
+;W[hk]LB[ij:A]C[It seems that 106 and 108 were an overplay. These stones attack White, but they don't help solidify Black's territory at the top. And White's counterattack at 109 could get Black into trouble. So instead of 106, Black should play at A and let White live. (See diagram)]
+
+(;B[jh]LB[im:A][hl:B]C[Black 114 is really risky. Not only will White get lots of opportunities on the upper side, but there is also the danger of White A, which is a strong attack on Black. Better to play B and wait to see what White does.]
+;W[kh];B[jg];W[kg];B[jf];W[kf];B[ke];W[lf];B[ne];W[mf];B[ng]
+LB[hl:A]C[122 and 124 are overplays. Black has to give up a stone or two somewhere, so it might as well be 106 and 108. So he should play 22 at A to defend himself. White still has to live.]
+;W[ld];B[md];W[le];B[lc];W[mc];B[nc];W[kc];B[mb];W[lb];B[mc]
+;W[je];B[jd];W[ie];B[id];W[ig];B[hc]C[Own comment: W made a big living group and my downhill started.]
+;W[gl];B[hn]LB[im:A][in:B]C[Own comment: Maybe i should play more solidly...
+
+Donal: You are making overplays trying to attack White, and leaving lots of defects in your own groups for him to take advantage of. The problem wasn't so much that White lived, but that you made your own position worse while trying to kill him.
+
+Black 42 is awfully thin. What if Black plays at A? Kind of tricky to read.B instead of 42 looks safer.]
+;W[pr];B[pn];W[om];B[qr]LB[ro:A][rn:B]C[White didn't attack the corner properly, so it lived. Now Black can answer A with B.]
+;W[ll]LB[im:A]C[A good time to ignore 147 and connect at A.]
+;B[lk];W[il];B[ml];W[fo];B[gn];W[hp];B[ip];W[iq];B[gq];W[io]
+;B[jp];W[fn];B[fm];W[ho];B[go];W[gp];B[fp];W[fq]C[Own comment: this situation was too complex for me to read correctly before it was too late. I was also afraid of w forcing move at K7
+
+Donal: In a handicap game, if White can make things complicated he can generally do well. So Black has to play moves that are easy to read out. This game is way too complicated.
+
+Cool anecdote: I was taking a lesson at the Nihon Kiin ten years ago from a top pro, and I was playing with six stones handicap. I had a nice center framework, so White decided to erase it. He played several strange attaching moves against stones around the board, then played an really incredible sequence in the center that threatened two ladders simulatanously. (His attachments had been ladder breakers) But I managed to find an unbelievable move right in the middle of the whole mess that stopped both ladders.
+
+He beamed! "Brilliant play! For the last 10 moves you have been playing at pro level!" But then he dropped the bricks on me. "But tell me, could you read this all out from 10 moves ago?". Of course, I hadn't. "I read the last move out, but I was going on intuition before that..." "Then I have a suggestion that will improve your game. Play moves that you can read!" (end Donal's comments)]
+;B[eo];W[gr];B[jo];W[in];B[jq];W[hr];B[bo];W[bk];B[mq];W[on]
+;B[er];W[jr];B[kq];W[ro];B[rn];W[sn];B[sm];W[mo];B[lo];W[eq]
+;B[dq];W[rd];B[qc];W[of];B[og];W[rf];B[qe];W[nf];B[re];W[qg]
+;B[pf];W[se];B[gb]C[Own comment: bad move, didnt read properly]
+;W[gc];B[hg];W[ih];B[hf];W[hb];B[ib];W[ga];B[sc];W[rc];B[rb]
+;W[sd];B[sb];W[ln]C[Own comment: the final blow];B[lm];W[ko]
+;B[lp];W[kn];B[jn];W[mn];B[kr];W[im];B[nm];W[jm]C[tsedi [2d\]: great play by me]
+;B[kl];W[mm]C[Own comment: I resigned here.];B[qm]
+(;W[nn];B[op];W[oo];B[po];W[nl];B[pq];W[op];B[mr]
+(;W[nk];B[nj];W[nm])
+(;W[ms];B[ls];W[ns];B[ps];W[or];B[qs]
+(;W[qo])
+(;W[rm])))
+(;W[po];B[qo];W[mr]))
+(;AE[mh][hk][km][lg][mg][jj][jk][jl]PM[1]FG[261:Keep it simple]
+;B[ij];W[jj];B[jk];W[ii];B[hj];W[le];B[ld];W[me];B[md];W[ne]
+;B[oc]C[It's too late to try to kill White, so let him live gracefully. Let him play forcing moves against the top black stones to live, as these moves build territory for you.]
+))
+(;PM[1]FG[261:The corner is in danger];W[ro];B[rp];W[rn];B[rr]
+;W[sq];B[pr];W[sp];B[or];W[mq];B[qs];W[sr];B[os];W[pq];B[rq]
+;W[rs]C[It looks like the corner becomes ko. And it takes a lot of reading to find the sequence of 6 and 8 to get ko, so it might just die.]
+))
+(;B[ek]PM[1]FG[261:Surprisingly, this is ko];W[aj];B[ai];W[al]
+;B[am];W[bk]LB[ea:A][ag:B]C[If Black plays 1 it becomes ko, because White has one less liberty than in the actual game. Black has some good ko threats at A and B.]
+))
+(;AE[ae][bg][ci]LB[bg:A][ci:B]C[Even without the extra stone at A, White can still connect at B. Of course he is a little thin, but now he can kill the corner, without a ko.]
+PM[1]FG[261:Without the hane, the corner is dead];W[bb];B[cb]
+;W[bc];B[ad];W[ba];B[ab];W[da];B[ca];W[dd]))
+(;AB[db]PM[1]FG[261:Just block, to leave some aji];B[ed];W[fe]
+;B[fc];W[gc];B[fb];W[he]C[By simply blocking, Black leaves the possibility to capture one white stone. This is very important for the life of the corner. Naturally he won't necessarily play this out depending on how the game goes.]
+))

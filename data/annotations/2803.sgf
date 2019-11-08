@@ -1,0 +1,123 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.14]
+
+PB[Meshac]
+BR[19k]
+PW[Kagashi]
+WR[18k]
+KM[6.5]
+DT[2003-08-04]
+PC[The Kiseido Go Server (KGS) at http://kgs.kiseido.com/]
+RE[W+25.50]
+TM[1500]
+OT[5x40 byo-yomi]
+RU[Japanese]
+
+C[buckyyowza: hello, comments by Mark Fyffe (bucky 1k on KGS).  I hope you enjoy this review and find my comments to be of use ;-)  You and your opponent are better at different parts of the game.  Black is much stronger at the opening and "whole board" thinking in the early middle game, and white is much better at reading and the endgame.  In fact, by the middle of the game, I though that black would certainly win ;-)  Therefore I have focused my comments in the early part of the game on white's mistakes and some other ideas, but at the end it is black that needs more help.
+
+Hello, I'd like to thank the reviewer in advance for taking your time to review this game. I guarantee you that i will study this game very will and try my best in improving my go.
+
+I've been trying to improve lately but it seems to be going a bit slow, any tips or suggestions will be appreciated. Thank you.
+
+[NOTE\] I played white in this game.];B[qd];W[pp];B[cp];W[dd]
+C[I am not very comfortable with black's fuseki, i get intimidated because the sequences for these openings seem to be more complexed... i know only one joseki, and its probably the most common one.
+
+buckyyowza: This is a "diagonal" fuseki, which is less common to see but just as playable as the "parallel" fuseki.  The difference is that when taking corners in a parallel fuseki, a player will end up with two corners on the same side of the board, where in a diagonal fuseki the corners are on opposite sides.  White is actually responsible for choosing to play this fuskei in that on move 2 if white plays in the opposite corner of where black started the game, then black will normally play another corner "in parallel" to the first stone.  If white 2 is on the same side of the board as black 1, then black may choose to play in an opposite corner, as in this game.]
+;B[nc]C[Is this kind of move too small right now?
+
+buckyyowza: no, it is most common in a diagonal fuseki for black to take a shimari (a knights extension from 3-4 point).  the longer extension is a little unusual, but still a good play.]
+
+(;W[cn]TR[ep]C[buckyyowza: This stone should definitely be played on the other side, at e4.  The reason is for the way the joseki plays nicely off of the influence of the Q4 stone (see var on b5).  The sequence in the game gives the same potential territory but more influence to black, see var on w6.]
+
+(;B[eq];W[do]TR[en][fn]C[buckyyowza: this is too slow, d5 does not gain much over simply c6.  because black would have no sequence for cutting these stones, you can play at E6 or F6 for a stronger and thicker extension.]
+;B[dp];W[ck];B[qn];W[nq];B[qk];W[kq]SQ[jd]C[buckyyowza: this is also too slow.  black gains quite a bit in moyo on the upper and right sides.  Although white gets a little with l3, it is not enough.  If black plays around k16 now, the formation will be called a "double-wing shimari", and is very strong, much like having 4 corners.  The best place for white to play now is K16, because that is the largest place on the board.]
+;B[hq];W[fo];B[fc];W[ec];B[ic];W[fd];B[gc];W[gd]TR[kh][ho][ip]
+C[buckyyowza: this is overplay, and helps black to develop.  large plays would be h5 or j4 to prevent black's extension from the lower left, or a play at l12 to reduce black's gigantic moyo.]
+;B[cf];W[be];B[bf];W[ce];B[cj];W[ib]TR[hd][mg][ok][ho]C[buckyyowza: this play does not work, except to give black a solid shape and dominating presence in the upper right. It would be better to simply play at h16.  since the black stones on the left side are not settled, a good strategy from here would be to play to reduce black's center moyo while removing the escape route from the c14/c10 stones.  besides h16, other good plays to accomplish this are n13 and p9. h5 is also a very large play for the same reasons.]
+;B[jb];W[hc];B[hb];W[hd];B[jd]TR[ho]C[buckyyowza: although black can play at g18, this play is actually better because it protects the large moyo.  notice at this point that the area around h5 has become the largest part of the board.  if white play plays around there first, his moyo will match black's, but if black plays there first white has a tough fight ahead.]
+;W[gb];B[ha];W[ga];B[ia];W[fb];B[dk];W[if];B[he];W[ie];B[hf]
+
+(;W[id]C[buckyyowza: should be at h13 instead.  white has a lot of potential space in the center, but this pushes black into it. at h13, white would push black into the c14 stones against solid white territory. see var.  the aji, or ability to play, the connection at j16 is sufficient at this point.  as long as white keeps sente in this area, there is not need to play it.  better to save it as a "plan B"]
+;B[hg];W[kf];B[je];W[jf];B[ld];W[eg];B[dg]
+(;W[df]TR[eh]SQ[he][hf][hg]C[buckyyowza: unless white can be cut, which is not the case here, this play should be at e12. black has allowed an ugly situation and e12 would better threaten the h14 stones]
+;B[dh];W[ff];B[eh];W[fh];B[gh];W[fi];B[gi];W[cl]TR[fj]C[buckyyowza: this is irrelevant because black is quite alive on the left side, and the c9 stone doesn't help white to make shape.  it is just more bad aji to carry around.  here white should just continue with f10 to prevent black from connecting and cutting off white's live extension.]
+;B[fj];W[ei];B[di];W[ej];B[ek];W[ho];B[gk];W[ki];B[dm];W[cm]
+;B[en];W[eo];B[gp];W[go];B[jp];W[jr];B[co];W[dn];B[bn];W[bm]
+;B[ao];W[em];B[fm];W[fn];B[gm];W[im];B[in]
+(;W[dl]TR[hn]C[buckyyowza: "it is better to run than to live"  play at h6 instead to cut black first before worrying about making two eyes. see var.]
+;B[el];W[jk];B[oo];W[mo];B[po];W[gs]TR[ph]C[Mokey Jump, i love it, but hate it when it's done to me, so i try to prevent it whenever i see a set up.
+
+buckyyowza: the monkey jump is one of the larger endgame plays, but is normally gote so only play it when there is no sente play worth more than 8 points anywhere on the board.  at this point the right side is still wide open, and worth more than the monkey jump so this play is not as large as, say, q12.  black: see var for the correct sequence.]
+
+(;B[fr];W[gr];B[fp];W[nm];B[oj];W[qp]TR[og]C[kinda looks like i let black's moyo get a little too big and strong on the right side + right corner.
+
+buckyyowza: yes :-)  this happened in the opening.  there is still time to break in, perhaps around p13, but at this point black leads by quite a bit.]
+;B[pg];W[nf];B[oe];W[of];B[pf];W[ne];B[od];W[ni];B[oi];W[nj]
+;B[nk];W[mk];B[nl];W[ml];B[ok];W[ro]C[setting up for another monkey jump.]
+;B[sn]C[buckyyowza: this play should be at s6 as that is more efficient and saves 1 point.]
+;W[so];B[rn];W[jn];B[jm];W[km];B[il];W[jl];B[hm];W[io];B[jm]
+;W[ip];B[jo];W[kn];B[ij];W[ik];B[hk];W[ih];B[op];W[oq];B[nn]
+;W[mn];B[iq]C[buckyyowza: this is good sente play, so perfectly ok at this point, but black must not forget to play p7, which is urgent, as we will see later in this game.]
+;W[jq];B[is];W[ir]C[Meshac [19k\]: oops.. nice
+Kagashi [18k\]: monkey jump... hurts like hell];B[hr];W[hs]
+;B[fs];W[js];B[nh];W[mh];B[ng];W[mg];B[lf]C[buckyyowza: m15 is more efficient, and does not result in gote.]
+;W[lg];B[mf]C[buckyyowza: must be at m15 ;-) now white will kill and black loses 4 points.]
+;W[le];B[md];W[me];B[bk];W[om];B[pm];W[on];B[no]TR[pn]C[buckyyowza: black's play in this sequence reminds me of falling dominoes.  the best way to minimize the damage would be to play q6 instead of o5.  Then white would only gain 2 points.]
+;W[pn];B[qo];W[qm]TR[rm]C[buckyyowza: even at this point, it is not too late for black to reduce the damage significantly. just play at s7.]
+;B[pl];W[rm];B[rl]C[Kagashi [18k\]: lol, i didn't see it];W[sm]
+;B[sl];W[np]C[I believe this was the game winning move, If this tradgedy for black had been avoided, i probably would have lost... so i do not consider this game to be a win for me. black made a very crucial mistake.
+
+buckyyowza: yes, a 20-30 point mistake is quite common in the endgame.  it is more common at the 18k level, but I have seen this sort of error in pro games before.  among other points in the game, this sequence shows that your reading ability is one of the stronger aspects of your play.]
+;B[bl]C[i guess these white stones on the left could have done some damage to black's territory, but i choose to play tenuki while black was preventing it.
+
+buckyyowza: not much damage, but a8 is a sente play, so it wouldn't hurt to play it before tenuki.]
+;W[ep];B[fq];W[dq];B[dr];W[cq];B[bq];W[cr];B[cs];W[br];B[ar]
+;W[bp]C[stupid and pointless sequence, i was sleepy.
+
+buckyyowza: i don't know about stupid ;-)  you have only missed a few liberties in your reading, otherwise this sequence seems quite clever.  Even though it is failed, this shows that you are starting to see patterns that should shortly take you to the next level.]
+;B[bs];W[im];B[dj];W[fg];B[jm];W[ol];B[ql];W[im];B[gq];W[is]
+;B[jm];W[oh];B[og];W[im];B[hl]C[Black gave up too soon?
+
+buckyyowza: compared to white, black has little to fight with.  having a ko like this distracting play, it is safest to let it go and avoid further mistakes.  besides, after white takes j6 then black gets sente ;-)]
+;W[hn];B[jj];W[kj];B[ke];W[hi];B[ii];W[hj]C[buckyyowza: good. black should have paid more attention ;-)  j11 should definitely been at h10]
+;B[gj];W[hh];B[gg];W[ig];B[ae];W[ad];B[af];W[bc];B[am];W[bj]
+;B[aj];W[bi]C[buckyyowza: black has made a terrible mistake! instead: a10 should have been at b11. see var on 217.]
+;B[cg]
+(;W[ai];B[al];W[ap];B[bo];W[fl];B[bh];W[ah];B[ag];W[ak];B[an]
+;W[cq]C[buckyyowza: white is thinking big, but forgetting to count liberties again.]
+;B[dq]C[Kagashi [18k\]: yeah, it lives.];W[ge];B[nd];TW[aa]
+[ba][ca][da][ea][fa][ab][bb][cb][db][eb][ac][cc][dc][fc][gc]
+[bd][cd][ed][de][ee][fe][ef][lf][mf][jg][kg][jh][kh][lh][ii]
+[ji][li][mi][ij][jj][lj][mj][kk][lk][kl][ll][dm][jm][lm][mm]
+[en][in][ln][nn][qn][rn][sn][jo][ko][lo][no][oo][po][qo][jp]
+[kp][lp][mp][op][rp][sp][lq][mq][pq][qq][rq][sq][kr][lr][mr]
+[nr][or][pr][qr][rr][sr][ks][ls][ms][ns][os][ps][qs][rs][ss]
+TB[ja][ka][la][ma][na][oa][pa][qa][ra][sa][ib][kb][lb][mb][nb]
+[ob][pb][qb][rb][sb][jc][kc][lc][mc][oc][pc][qc][rc][sc][kd]
+[pd][rd][sd][pe][qe][re][se][qf][rf][sf][bg][qg][rg][sg][ah]
+[ch][oh][ph][qh][rh][sh][ai][bi][ci][pi][qi][ri][si][aj][bj]
+[pj][qj][rj][sj][ak][fk][pk][rk][sk][fl][gl][ap][bp][aq][cq]
+[br][cr][er][as][ds][es]C[Thats game, white wins by about 25 points with komi. I feel that we both made many mistakes, please help us both become better go players. Thank you very much
+
+-Sarun Lorteerapong (a.k.a Kagashi)
+
+buckyyowza: Thank you for an interesting game to review!  You and your opponent are as different in style as black and white ;-)  I think you could therefore learn a lot from each other.  As I said in my opening comments, white plays poorly in the fuseki and allows black to get far ahead leaving a tough middle game, but black is unable to finish what he starts and white's superior tactical ability leads to a decisive win.  Since you ask me to help you both, here is some closing advice for each of you:
+
+White -- Get a good book on fuseki, or read some of the higher ranked reviews (reviewed by 3d+) on the GTL for some better insight on the opening.  It is easy for a beginning player to feel that the opening moves cannot matter when nothing really seems to make sense until the end of the game, and it is just as hard for even a strong amateur player to understand where the good plays are at this stage, even though he knows there are in there.  It all comes down to attacking in the right direction and trying to stake a fair claim to avoid becoming spread too thin.  For middle game play, count often!  Just take a moment and try to estimate how many spaces are under white control and how many are under black's control.  Add in the captures and dead aji, and you'll suddenly see where to play, often _before_ you are done counting :-)  All in all, your close-in reading is ahead of your whole board thinking, so I'd try to get a stronger opening before being too concerned about life-death problems or the like.
+
+Black -- Your opening play is strong and well balanced, but do not be afraid to play your stones a little closer together.  Although they may seem to occupy more of the board, the longer extensions are more for special cases.  Shorter extensions are stronger and more flexible in most cases.  Your strongest play is in the middle game, and you definately know how to bulid a moyo while erasing your opponent's.  The problem, as I have said, is in reading the close in areas when the borders begin to solidify.  I would suggest that you go to http://www.goproblems.com and start working on tesuji and life-death.  Once you get a better feel for how to keep what you earn in the middle game, your game will definitely improve.
+
+Thanks again for the chance to look over this interesting and dynamic game.  If you have any further questions, please feel free to contact me at mark@accessidaho.org or look for bucky on KGS.]
+)
+(;W[al];B[ak];W[ai]C[buckyyowza: another 20 points for white :-)]
+))
+(;B[hs];W[hr];B[gr];W[is];B[fr]))
+(;W[hn];B[hm];W[ip];B[iq];W[jq];B[jn];W[jm];B[kn];W[dl]))
+(;W[eh];B[ef];W[ff];B[fe];W[ee];B[df];W[ge];B[fg];W[gg];B[fh]
+;W[hh];B[ei]TR[qg][pi]C[buckyyowza: now invasion points are open to break up black's enourmous right side.  notice r13 and q11for example. such plays could turn the game in white's favor.]
+))
+(;W[hg];B[gf];W[gg];B[ff];W[fg];B[ef];W[ii]C[buckyyowza: now white is running, but have a good go at the center. if the escape route gets cut at any point, you can go back and connect at j16.]
+))
+(;B[ep];W[dk]C[buckyyowza: black is much better (thicker) here because of the E4 stone, and may comfortably attack any groups white tries to put on the board.]
+))
+(;W[ep];B[eq];W[fq];B[dq];W[fp];B[cn];W[jp]C[buckyyowza: here is a common joseki for this corner.  White is strong on the lower side and black keeps the corner and a bit of the left side.  Black now has little influence on the board compared to white; note how many stones of each color are on the 3rd line vs. the 4th line, that 3 or 4 steps from the edge of the board.  The 4th line is good for thickness, and the 3rd is good for territory.]
+))

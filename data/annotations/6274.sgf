@@ -1,0 +1,141 @@
+(;FF[4]GM[1]SZ[19]CA[UTF-8]AP[SGFC:1.15]
+
+PB[Student89]
+BR[5k]
+PW[sumito]
+WR[3k]
+KM[0.5]
+DT[2007-11-17]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[B+0.50]
+TM[1200]
+OT[3x10 byo-yomi]
+RU[Japanese]
+
+C[Dear reviewer!
+ Can you specify my mistakes in this game and in the hardest  moments for me  make comments more detail?
+
+
+In advance I thank. Gleb.
+
+z -- hi, I am Bill, "zinger" in the internet Go community.  I am happy to review your game.  My comments are marked with "z --".
+
+z -- Remember that I am also a weak amateur.  Almost certainly, I have made a few mistakes.  So be sure to consider my comments and variations critically.
+
+z -- I prefer to reference move numbers and board markings in my comments, rather than grid coordinates.  Hopefully you have an SGF viewer which displays these properly.  I recommend Drago, which I used to make the review.
+
+z -- also, it would be wise to state in the SGF what color you played.  If the GTL had not told me to review for black, I might not have known :)]
+;B[pd];W[pp];B[dp];W[ed];B[nq];W[pm];B[pr]LB[pn:a][jp:b]C[z -- White has made an unusual reply at 6.  What is the meaning of this?  First, it means that the ways of approaching / invading in this area will probably be different.  Second, it means that after the exchange of 7-8, white's formation is more efficient than it would be if 6 was at A.  Third, the two space extension is thinner than the one space extension.  But white 8 makes it strong.  Bascially, I think the exchange 7-8 helps white. 
+
+z -- So I would not choose 7; perhaps B instead, and wait until later to decide how to handle this corner.]
+;W[qq];B[kq];W[qf];B[qj];W[qc];B[qd];W[rd];B[re];W[rc];B[qe]
+;W[ob];B[pc]LB[nd:a]C[z -- a general rule: don't push in if you can't cut.  19 will always be available to play if you want to.  White won't take gote to play there - or, you should be happy if he does.  But playing 19 right now loses a ko threat, and loses the potential to attach at 20 instead.  Of course that doesn't work right now, but later it might.
+
+z -- I would choose 19 at A.];W[pb];B[pf];W[mc];B[dj];W[dh]
+;B[fj];W[cn];B[co];W[dn];B[fp]C[z -- 27 and 29: good choice.]
+;W[fn];B[ch];W[cg];B[ci];W[df];B[hp];W[hn]TR[pm][pp][qq]LB[cl:a]
+[ck:b]C[How I should attack this group? And what is the best move here for you?
+
+z -- which group do you mean?  If you mean the marked group in the bottom right, I don't think you can.  It is too strong to attack, partly because of the exchange 7-8.
+
+z -- but the groups on the left are both weak, which makes that area important.  Black has done well there, making territory on the bottom while attacking the white group.  I think now I would choose 37 at A.  This affects the eye space of both groups, and is worth a fair amount of points too.  Imagine white playng in this area first, perhaps at B: the white group would be almost alive, and the black group eyeless.  In fact, I think 36 should have been at B, but that's another story.]
+;B[qn]MA[qq][pr]LB[qm:a]C[z -- as discussed at the last move, I think this is the wrong area.
+
+z -- also, if black wanted to try this invasion, it would be much easier if the marked exchange was not there.  With it there, white could offer tough resistance with 38 at A.]
+;W[pn];B[qm];W[qo];B[ql];W[qr];B[jn]LB[cl:a]C[z -- the white group to the right is thick and strong, so black can't gain much from 43.  I still think A is best.]
+;W[io];B[jp]C[z -- good];W[ip];B[iq];W[jo]C[z -- 46 and 48: bad - pushing in without cutting.]
+;B[ko];W[gk];B[gj];W[hk];B[cl]C[z -- good :)];W[bn];B[bo];W[jk]
+;B[gc];W[dc];B[jc];W[ic];B[ib];W[hc];B[hb];W[gd]
+(;B[jd]LB[fc:a]C[z -- 65 must be at A, after which black has better eyespace with this group.]
+;W[fc];B[gb];W[hd];B[jf]LB[lb:a]C[z -- maybe better to live locally with 69 at A.  This would avoid a splitting attack against two weak black groups.]
+;W[kb];B[jb];W[ii]C[z -- now white has the beginning of a double attack going.]
+;B[mf]LB[me:a][gg:b][fe:c][eg:d]C[z -- if black wants to conenct across, 73 at A looks like better shape.  
+
+z -- But I think black's left side group is in more danger than the top side group.  I would try to help that group, while threatening to connect.  Perhaps 73 at B, after which black may be able to get some use out of peeps at C or D.]
+;W[bg];B[hh]LB[eh:a][gg:b]C[z -- 75 just gets cut off.  I would choose 75 at A or B.]
+;W[hi];B[fh];W[gi];B[fi];W[gh];B[gg];W[fg];B[eg];W[ff];B[eh]
+;W[dg];B[di];W[bk];B[ck];W[bl]LB[bj:a]C[z -- 90 at A would give black more problems.]
+;B[bj]C[z -- now black is definitely alive.];W[dk];B[ek]LB[el:a]
+C[z -- For simplicity, 93 should be at A, which captures 92, making the group alive.  
+
+z -- Still, this 93 also works, if black knows why.];W[dl];B[dm]
+;W[el]
+(;B[cm]LB[em:a]C[z -- 97 must be at A, then connect.  See variation.  After this 97, black should have died.]
+;W[em];B[bm];W[am];B[cj]
+(;W[an]LB[al:a]C[z -- if 102 is at A, black dies.];B[bh];W[ai]
+;B[aj];W[al];B[ah];W[ao];B[bp];W[ap];B[br];W[aq];B[bq];W[kn]
+;B[ln];W[km];B[lm]LB[lo:a]C[z -- I think 117 should be at A.  All the nearby groups are safe, so white playing 117 isn't such a big deal.]
+;W[lo];B[kp];W[mo];B[kl];W[jm];B[jl];W[im];B[ml]LB[ll:a][lk:b]
+C[z -- I think I would choose the solid connection, 125 at A, so that white does not get to peep at B.]
+;W[lj];B[pl];W[ph]LB[oi:a]C[How I should answer here?
+
+z -- white 128 wants to die!  You should kill him with 129 at A.  Where will he run to?]
+;B[qg]LB[oi:a]C[z -- 129 is very bad.  Black is helping white to  drive through the right side.  Tenuki would be better than this.  But as I said, I think A would be best.]
+;W[qh];B[rh]LB[nh:a][ni:b][oi:c]C[z -- 131 is still helping white.  What are you afraid white will do here?  Almost any move on the outside - A, B, C - will capture white entirely.]
+;W[ri];B[rg];W[qi];B[rj];W[nh]C[z -- white realizes the problem :)]
+;B[oi];W[oh];B[ni]C[z -- 137 was kikashi, a forcing move.  In general, you should not try to save kikashi stones, or develop them immediately.  Adding 139 and 141 just creates three stones that are weak and short of liberties, instead of only one.]
+;W[mh];B[mi];W[li];B[lg]C[z -- don't peep where you can cut.  The cut doesn't work now, but later it might.  But after exchanging 143-144, it is gone forever.]
+;W[lh];B[kk];W[jj];B[il];W[hl];B[ik];W[hj];B[mp]LB[np:a]C[z -- I think 151 at A would be better shape.]
+;W[no];B[nd]LB[da:a][oq:b][lb:c][si:d][ag:e]C[z -- 153 is small and gote.  A, B, C,  D, or E would all be better.  I would choose A, which looks biggest, or maybe C, which firmly secures black's group.]
+;W[kc];B[si];W[pj];B[nk];W[pi];B[ok]LB[da:a][oq:b][ag:c]C[z -- I don't think 159 is necessary to save the three stones.  And even if it is, it is still too small - only 6 points in gote.  A,  B, and C are still the biggest moves.]
+;W[nf];B[ne];W[of];B[pg]LB[me:a][kd:b]C[z -- white 160-162 created a cutting point at A.  Now white threatens to cut off and capture the top side black group.  163 must defend against this threat; maybe B is best.]
+
+(;W[oe]C[z -- see variation.]
+(;B[od]LB[nc:a][nb:b]C[z -- second chance for black !  165 should be at A.  White must connect at B, so black has time to defend the cut.]
+;W[le]C[z -- now white gets it, but ...];B[me];W[ld];B[kg]
+(;W[ig]LB[je:a]C[z -- ... misses the follow through.  White could still cut with 170 at A.]
+;B[if]C[z -- now black is safe.];W[hf];B[jh];W[ih]C[z -- oops !  White's turn to overlook the threat.]
+;B[kj];W[ki];B[ji];W[jg]
+(;B[kh]LB[ij:a]C[z -- 179 should be at A.];W[kf]C[z -- a good recovery by white, but black still got more in this trade.]
+;B[oq]C[z -- good];W[pq];B[or];W[ij];B[oo];W[on];B[op];W[nm]
+C[z -- clever defense by white.  But if black had taken two stones in the center at move 179, it wouldn't work, and black could just cut.]
+;B[mn]C[z -- 189 is a big mistake.]
+(;W[nn]C[z -- 190 is also a big mistake.  See variation.];B[mk]
+;W[po];B[rp]LB[rn:a]C[z -- 193 is wrong.  White lives, so black loses a lot of points.  Count the difference if black plays 193 at A instead.
+
+z -- counting the score during the game is important.  I don't know how much time you had, but if you count the whole board you will know that black can win without killing this corner.  I find that I can  usually count the score in three 30-second byo yomi periods, and still make my moves.  Try to practice this.  It will help to avoid game losing mistakes like 193, 197, and 199.]
+;W[ro];B[qs];W[rs];B[rq]C[z -- 197 and 199 are also giveaways.]
+;W[ps];B[sr];W[rn];B[rm];W[ol];B[pk];W[nl];B[fk];W[fl];B[ef]
+;W[ee];B[fe];W[gf];B[he];W[ge];B[ag];W[be];B[ae];W[ad];B[af]
+;W[cd];B[bf];W[cf];B[nc];W[nb];B[lf];W[ke];B[go];W[gn];B[ho]
+;W[in];B[eo];W[en]
+(;B[fo]LB[ar:a]C[
+z -- if white played at 231, would it really do anything?  If not, then black 231 is worth nothing, the same as a pass.  That's a big deal when the game is so close!  I think 231 at A would be better.]
+;W[ar];B[bs];W[lp];B[lq];W[np];B[mq];W[sk]C[z -- 238 doesn't work.  White gives away points for nothing.]
+;B[sl]C[z -- good];W[rk];B[qk];W[sn];B[sm];W[fb]LB[se:a][mm:b]
+C[z -- maybe white forgot that he killed the group up there?  Anyway, if white 244 is at A or B, white gains points and therefore wins.]
+;B[sd];W[sc];B[se];W[md]LB[mm:a]C[z -- white plays a dame when there are points left.   This is a half point game, so if 248 is at A, white wins.]
+;B[mm];W[os];B[ns];W[qs];B[do];W[tt];B[tt]TW[aa][ba][ca][da]
+[ea][fa][ga][ha][ia][ja][ka][la][ma][na][oa][pa][qa][ra][sa]
+[ab][bb][cb][db][eb][gb][hb][ib][jb][lb][mb][qb][rb][sb][ac]
+[bc][cc][ec][gc][jc][lc][bd][dd][fd][id][jd][kd][ce][de][fe]
+[he][ie][je][if][jf][gg][hg][hh][gl][fm][gm][hm][om][jn][so]
+[qp][rp][sp][rq][sq][rr][sr][ss]TB[oe][pe][nf][of][qf][rf][sf]
+[mg][ng][og][sg][lh][mh][nh][oh][ph][qh][sh][ai][bi][ei][ki]
+[li][pi][qi][ri][ej][lj][mj][nj][oj][pj][sj][lk][rk][sk][ll]
+[rl][cp][ep][gp][cq][dq][eq][fq][gq][hq][jq][cr][dr][er][fr]
+[gr][hr][ir][jr][kr][lr][mr][nr][cs][ds][es][fs][gs][hs][is]
+[js][ks][ls][ms]C[z -- I hope the review was helpful to you.  Good luck !]
+)
+(;B[ar]))
+(;W[mk];B[ll];W[nl];B[nn]C[z -- black is short of liberties, so this cut does not work.  But if black had that extra liberty, he would be safe.]
+;W[lk]))
+(;B[ij]
+(;W[kh];B[jj];W[kf]LB[jk:a]C[z -- white still cuts, but black gains a few points.  Also black has a liberty at A, which would make a big difference later.]
+)
+(;W[jj];B[kh]MA[ij][ik][il][jl][kl][kk][kj][ji][jh][kg][lg]
+[mf]C[z -- this way is even better for black, since the marked stones are connected now.]
+)))
+(;W[je]
+(;B[ke];W[ie];B[kd];W[lf]LB[kf:a][mg:b])
+(;B[ie];W[ke];B[id];W[if])))
+(;B[nc];W[nb];B[kd]C[z -- black is safe.]))
+(;W[le];B[me];W[ke];B[je];W[kf]C[z -- black is cut off and dead.]
+))
+(;W[al];B[bh];W[ai];B[aj]C[z -- now 105 doesn't threaten anything.]
+;W[ah]C[z -- black is dead.]))
+(;B[em];W[fl];B[cm];W[en];B[bm];W[am]C[z -- the difference is that now 102 is not atari, so black can just capture two stones.]
+;B[ak]))
+(;B[fc]
+(;W[fd];B[jd]C[z -- black gets to play here anyway.])
+(;W[jd];B[fd]C[z -- this looks good for black.])))

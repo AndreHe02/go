@@ -1,0 +1,139 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+GN[kumtsi-WVLaker-20031118.sgf]
+PB[Curtis Gadd (WVLaker)]
+BR[11k]
+PW[Juha Kummu (kumtsi)]
+WR[11k]
+KM[6.5]
+DT[2003-08-26,2003-11-18]
+PC[Dragon Go Server: http://www.dragongoserver.net]
+RE[W+Resign]
+RU[Japanese]
+GC[Game ID: 32056]
+
+C[Hi.  My name is Curtis Gadd, and I played this game as black on Dragon Go server.
+
+I made a blunder to finish off the game, but I was already far behind from the opening forward.
+
+I hope that you can point out some of my errors in the opening, that caused me to fall behind.
+
+Joonas Tyystjärvi: you seem to play too passively and put too much focus on on territory. You must seek to attack more when you have the chance. I think the biggest problem was the handling of the right and lower sides - you could have played more aggressively there. I've added comments and variations throughout the game, hopefully they'll help.]
+;B[pd];W[dd];B[pp];W[eq];B[fc];W[hc];B[cc];W[dc];B[cd];W[ce]
+;B[cb]C[My one moment of glory.
+
+JT: this is good.];W[db];B[de];W[ee];B[df];W[fd];B[cf];W[be]
+;B[bf];W[qn]
+(;B[pn]LB[pj:C][qj:D][pk:B][ql:A]TR[eq]C[What would you consider to choose a joseki in this position?
+
+JT: attaching is not good because it makes this stone stronger and the triangled stone's influence eliminates the power you can get with this. Since this is a "closed side approach" and you have a hoshi in the upper right corner, I think you should consider pincering. I think A, B and C and D are all good here. I'm giving a few variations on A and C.]
+;W[pm];B[on];W[qp]
+(;B[qq]LB[qo:A]C[JT: joseki is A. This seems somewhat mild.]
+;W[qo];B[pq];W[nc]C[White ends up with a huge area at the top.  How could I have prevented this?
+
+JT: the problem is not the territory at the top - it's not that huge in the end, considering the amount of stones white played there. The problem is not taking advantage of the situation on the right side, which allows white to take territory around your star point stone by attacking it.]
+;B[pf];W[jp]
+(;B[lq]TR[pf][pm][qn][qo][qp]C[JT: much too slow - the area you can build here is small. The triangled group is not secure yet, and you must attack it now to use the triangled stone as well as possible.]
+;W[cp];B[ck]LB[ql:B][cm:A]C[JT: although the proverb says that this is the correct distance, this looks like an underextension to me. I think black could play at least at A. B is far more urgent, though.]
+;W[qh]C[JT: this is a big loss for black.]
+(;B[pb]LB[rf:A][og:B]C[JT: this doesn't help your group very much, since white can still come in at A. I think B is better (it also helps against white building territory at the top).]
+;W[qc];B[pc];W[me]
+(;B[cn]C[JT: too small. The right side is still urgent.];W[mp]
+
+(;B[mq]LB[lp:A]C[JT: too passive! With your wall, you must push at A.]
+;W[lp]
+(;B[op]LB[gq:A]TR[cn]C[JT: there is no cut here. Also, this is very bad shape. I think you must play A now to make use of your triangled stone.]
+;W[fg];B[om]C[JT: this only helps white cover his weakness and doesn't really help black. It's also pushing white from behind on the fourth line, something you shouldn't do unless you absolutely have to.]
+;W[pl]TR[qh]C[JT: now the white triangled stone is much stronger than before.]
+
+(;B[dh]LB[gq:A]TR[ck][cn]C[Too slow?
+
+JT: yes. The territory here is small, and the triangled group is in no real danger. I think black should play A.]
+;W[ng];B[ji]TR[fg][gg][hg][ig][jg][kg][lg][mg][ng]C[JT: this is too far outside the boundary of white's moyo (marked). If you're going to reduce (and I think you need to), these are the points you must consider.]
+;W[jg]C[JT: now the reduction is too small - in fact, the moyo hasn't really been reduced at all.]
+;B[nk]C[JT: too vague. This move doesn't really do anything.]
+;W[rf];B[qd];W[nb];B[qf];W[re]
+(;B[qe]LB[rb:A]C[JT: this move leaves bad aji. I think it should be at A.]
+
+(;W[kq]C[JT: now it becomes a lot harder to invade the lower side.]
+;B[en];W[fi];B[rd];W[qg]
+(;B[lj]LB[en:A][gq:B]C[JT: too slow - this stone wasn't in any real trouble, and two keimas are still quite thin. Since you have A, I think you must play B now.]
+;W[gn];B[fo];W[gp];B[fp];W[gq]
+(;B[pj]TR[qh][pl]C[R10 better?
+
+JT: yes. This move doesn't really work in this shape. It seems to me that white can't kill R10 - see the variations.]
+;W[qj];B[qk];W[rj]LB[pk:A]C[JT: white could just play A instead.]
+;B[pk]LB[qj:A]C[JT: this way, the result is actually better than if black had played A originally.]
+;W[rl];B[ln];W[nq];B[nr];W[kr];B[np];W[bo];B[bn];W[jm];B[fl]
+;W[ej];B[dk];W[rq];B[rr];W[sp];B[ql];W[qm];B[ko];W[jo];B[kp]
+;W[kn];B[lo];W[lm];B[hg];W[ih];B[gh];W[fh];B[gi];W[gj];B[hi]
+;W[ii];B[hj];W[jj];B[ij]LB[ki:A]C[JT: a bad forcing move. Without this move, you can play A later.]
+;W[ki];B[gk];W[fj]
+(;B[hl];W[ie];B[da];W[ea];B[ca];W[eb];B[hf];W[li];B[ge];W[ef]
+;B[gd];W[gc];B[ol];W[di];B[ci];W[mj];B[lk];W[mk];B[jk];W[kj]
+;B[kk];W[oe];B[rb];W[lr];B[mr];W[rk];B[se];W[sg];B[cq];W[dp]
+;B[bq];W[ao];B[er];W[fr];B[dq];W[dr]
+(;B[bp];W[ep]
+(;B[fq]C[Somehow I hallucinated that I was cutting off the e4 group.]
+;W[co];B[cr];W[es];C[Result: W+Resign
+
+I resigned here.  Thanks for reviewing the game.]N[RESULT])
+(;B[co]))
+(;B[ep];W[es];B[co];W[bp];B[do]))
+(;B[if];W[hk];B[jk];W[kj];B[hl]))
+(;B[qj]
+(;W[pj];B[pi]
+(;W[qi];B[pk];W[oj];B[ok];W[rk];B[qk];W[rj];B[rl];W[rm])
+(;W[qk];B[oj];W[pk];B[qi]))
+(;W[pi];B[ql]
+(;W[pj];B[qm];W[qk];B[rk];W[pk];B[rn])
+(;W[qm];B[pk];W[ok];B[oj];W[ol];B[pj])
+(;W[qk];B[pk];W[rk];B[qm]))))
+(;B[gq]
+(;W[gp];B[hp];W[fp];B[ho];W[hq];B[iq];W[hr];B[ir];W[gr];B[ip]
+TR[jp][lp][mp][kq]C[JT: bad shape, but the triangled group is quite dead.]
+)
+(;W[fp];B[gp];W[go];B[iq]
+(;W[jr];B[ho])
+(;W[ip];B[hp];W[ho];B[kr]C[JT: black connects, destroying white's territory.]
+))))
+(;W[rd];B[rc];W[rb];B[qb];W[sc]LB[ph:A]C[JT: black is in trouble, although in this position A is still possible.]
+))
+(;B[rb]
+(;W[rd];B[rc]C[JT: now black lives simply.])
+(;W[rc]C[JT: white can't play this];B[rd];W[sd];B[qb];W[sc]
+;B[se];W[sf];B[sb];W[se];B[rg])))
+(;B[gq]
+(;W[kq];B[iq];W[jr];B[go]LB[dq:A]C[JT: black aims at A next. In fact, in this position, I think white must prevent it somehow, since white might well die if black invades there.]
+)
+(;W[gp];B[hp];W[fp];B[iq];W[ho];B[jq]LB[go:A]C[JT: now the territory on the lower side becomes black's, and there is still a cutting point at A.]
+)))
+(;B[tt];W[po];B[oo];W[op];B[np];W[oq];B[or]))
+(;B[lp];W[mo];B[lo];W[mn];B[mq]LB[nm:A][gq:B]C[JT: black has A and B to aim at next.]
+))
+(;B[ne];W[mf];B[ng]LB[ql:A]C[JT: black gets out and is again aiming at A.]
+))
+(;B[og]LB[lc:A][qj:B]C[JT: black can now invade at A or B.]
+))
+(;B[ql]
+(;W[qm];B[qj]LB[qh:A]TR[on][pn][pp][pq][qq]SQ[pm][qm][qn][qo]
+[qp]C[JT: now black starts to make territory on the right side. You mustn't allow white A. The triangled group has a base in the corner and is in no real trouble, and the squared group doesn't have two eyes.]
+)
+(;W[pl];B[qk]C[JT: usually, extending from a peeking stone like this is bad, but here these stones are not heavy.]
+;W[pk];B[qj];W[qm];B[pj]LB[pb:A]C[JT: white is still insecure and black has a nice framework on the upper side. After this, A is huge.]
+)))
+(;B[qo];W[ro];B[po];W[rm];B[qq];W[rp];B[om];W[pl];B[iq]LB[pq:A]
+C[JT: there is still a cut at A.]))
+(;B[ql]
+(;W[on];B[np];W[pk];B[qo];W[rn]LB[qk:A]TR[pd]C[JT: the usual joseki is black A now, but this destroys the influence ot he triangled stone. Instead, black must push through and cut. I'm showing two variations here.]
+;B[pl];W[ol];B[ok]
+(;W[qk];B[om];W[nl];B[pn];W[nm];B[pm];W[rl];B[nn];W[oj]LB[he:A]
+C[JT: the ladder has bad aji for white - if black plays around A, white has to protect against it.]
+)
+(;W[oj];B[nk];W[nl];B[pj];W[qk];B[oi];W[nj];B[mk];W[pi];B[qj]
+;W[rk];B[qi]LB[mi:A][rl:B]C[JT: A and B are now miai for black]
+))
+(;W[qq];B[qp];W[pq];B[op];W[rp];B[ro];W[rq];B[qo];W[nq];B[mc]
+C[JT: black gets a nice moyo this way.])
+(;W[nq];B[pn];W[pm];B[qm];W[qq];B[qo];W[pq];B[cp]))
+(;B[pj];W[nq];B[np];W[mp];B[no];W[qq];B[oq];W[qp];B[nr]))

@@ -1,0 +1,127 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+PB[Serenities]
+BR[9k]
+PW[kett]
+WR[9k]
+KM[6.5]
+DT[2008-01-12]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[W+Resign]
+TM[1200]
+OT[3x30 byo-yomi]
+RU[Japanese]
+
+C[Hey there,
+
+Thank you for reviewing my game. After I lost the fight in the middle, I tried desperately to come back, but it didn't work out so well. I've included my reasoning on the moves I made.
+
+I'd appreciate any comments you have.
+
+Thank you =)
+
+- Derek
+
+*hello derek, i preface my comments with *
+
+in general, your style is better than white's, but you dont pay enough attention to your linkages]
+;B[qd];W[dc];B[pq];W[cp];B[eq];W[dq];B[ep];W[dn];B[hp]C[* J3  rule of thumb: skip 3 paces from a 2-stone wall, etc
+
+this moves leaves a hole inderneath, white can probe at, say, K3 and neutralise the lower side]
+;W[kq];B[mq];W[iq];B[hq];W[ko]C[*K5 more solid];B[jp];W[kp]
+;B[jq];W[jr]C[*thoughtless];B[ir];W[jo];B[ip];W[im]C[Here I didn't want to be shut in, so I tried to jump out.
+
+*O5 would press b down as well as jumping out];B[fm];W[fn]C[*overplay.  C8 better]
+;B[gn];W[fo];B[gp]C[*H7 better];W[gm]C[Here I decided to set up a place to run to before playing the atari.
+
+* the atari?  we are still in fuseki and you are thinking about endgame moves]
+;B[de]C[*good];W[cg]C[*good];B[ec]C[*bad
+look at the size of the white left !
+
+black has to invade at around E10 or somewhere before the left side becomes solid wite territory]
+;W[dd];B[ed];W[ce]C[*good];B[df];W[cf];B[gl]C[*bad
+
+if w joins, and black joins, black will have 3 floating stones in the middle.  by threatening these, white will be able to soldify the large left side]
+;W[hm];B[fk];W[em];B[gi]C[*good to skip lightly way but a jump into C9 would be more effective]
+;W[oc]C[Wanted to make a moyo on top, so I pincered.];B[mc]
+;W[qc];B[od]C[*this looks greedy.  as white i would turn at O16 and hope to build some strength from which to jump into to either the top or the right
+
+if making a moyo on the top is your plan, O15 instead of P16 would be consistent]
+;W[rd];B[qe];W[re];B[qf];W[nb];B[mb];W[pc]C[all the last few moves were small-scale thinking]
+;B[jd];W[qo];B[lr]LB[ck:A][kk:C][ql:B]TR[qp]C[I think R4 would have been better. I wanted to make a base while threatening to connect; but just corner would be alive anyway.
+
+* your move is ok but small.  ABC are alternatives];W[ql];B[rp]
+LB[ok:A]TR[qi]C[Mistake. Should have been R11.
+
+* or A];W[ro]C[* very slow, b can ignore];B[qp];W[qi];B[ph]
+LB[lh:A]C[Building moyo
+
+* not really, it is wide open at A];W[qh];B[pi];W[pj];B[ni]
+;W[oj];B[nj];W[nk]LB[jj:A]C[* too slow.  A better];B[mk];W[nl]
+;B[cj];W[ee]LB[fe:A]C[I didn't see this cut at all.
+
+* it looks like an overplay.  i would consider playing A etc, sacrificing 2 stones, and making the centre moyo very solid]
+;B[fe];W[ef];B[ff];W[dg];B[gd];W[oi];B[oh];W[nh]LB[li:B][mj:A]
+C[* overplay again. white has a double attack on the cut stones, but both should survive
+
+i would respond with A or B];B[pg]LB[of:A]C[*empty triangles are almost always bad.  if you cant read it out, play safe with a solid move like A]
+;W[mh];B[lj]LB[li:A][mj:B]C[*this lokks ok, but it causes b problems.  A or B work better]
+;W[li]C[*nice forcing move];B[mj];W[kj]LB[ki:A]C[*another  fighting move. but i think b can reply at A - see variation]
+
+(;B[kk];W[jj];B[jk];W[ik]LB[ij:A]C[*A seems obvious, but does it work?]
+
+(;B[ij];W[ii]
+(;B[hj]C[*after this move, w has more liberties than b];W[jl]
+C[* i cant see any way for b to evade capture from here];B[ki]
+;W[ji];B[kh]
+(;W[ml];B[lh]C[*blunder];W[mi]C[I didn't see this was atari.]
+;B[mg];W[ng];B[nf];W[lk]LB[lg:B][kr:A]TR[mf]TW[de][df][ni][lj]
+[mj][nj][mk]C[How far apart is the score right now?
+
+I felt like I had to make some huge overplays to try to catch up; since my mid-left moyo is basically destroyed and my right mid moyo is full of holes.
+
+*rough count:
+white
+top left 21
+top right 13
+bottom left 16
+centre right 33
+prisoners 7
+total 90
+
+black
+left 6
+bottom, assuming b A 31
+upper centre 36
+total 73
+
+difference 17
+
+not too big, but the weakness at B makes it impossible to recover. 
+
+time to resign.];B[cm]LB[lg:A]C[* A essential]
+(;W[cn]LB[lg:A]C[* A was the move for white];B[bh]LB[if:B][ek:A]
+C[* leaves flaws at A, B etc];W[bl]LB[cl:A]C[*very nice tesuji.  b must reply at A]
+;B[bm];W[cl];B[dl];W[dk];B[ck];W[el];B[dm];W[bn]LB[ek:A]C[* now b must play A to rescue his link to his three stones on the left to avoid making the whole left side white territory]
+;B[bk]C[*dont make empty triangles!];W[am];B[ae];W[dj];B[ci]
+;W[di];B[bc]LB[bd:A]C[*silly.  w just plays A and they all die]
+;W[cb];B[bb];W[ba];B[be];W[bd];B[cc];W[eb];B[cd];W[bf];B[af]
+;W[ag];B[ad];W[bg];B[ab];W[gb];B[rn]C[* no futher comments]
+;W[qn];B[po];W[pn];B[oo];W[nn];B[on];W[om];B[so];W[rm];B[rg]
+;W[rh];B[sg];W[sh];B[nc];W[ob];B[rb];W[rc];B[sb];W[qb]C[Serenities [9k\]: Thanks
+kett [9k\]: Thanks])
+(;W[lg];B[mf];W[kg];B[jh];W[ig]C[*game over]))
+(;W[nf];B[lh];W[mi];B[ng];W[mg];B[mf]
+(;W[og]C[*mistake];B[lg];W[ng];B[ne])
+(;W[lg];B[kg];W[lf];B[ih];W[kl];B[lk];W[ml]))
+(;W[mf];B[lh];W[mi];B[mg];W[ng];B[nf];W[lg];B[og];W[mg];B[kg]
+;W[kf];B[me];W[lf];B[jf];W[jg]))
+(;B[il];W[hj];B[hk];W[jl];B[ij];W[ll];B[lk];W[ik]C[* b doesnt have a big enough ko threat]
+))
+(;B[il];W[hl];B[ki];W[jl];B[ji];W[ij];B[lh];W[mi];B[mg]))
+(;B[ki]
+(;W[ml];B[kk];W[jj];B[jk];W[ij];B[ik];W[hk];B[hl];W[il];B[hj]
+;W[ll];B[lk];W[kh];B[ii];W[ji];B[jh];W[ki];B[jg]C[* it will be hard for w to make 2 eyes]
+)
+(;W[kk];B[lh];W[mi];B[mg];W[ji];B[ng];W[jh]C[*better for white]
+)))

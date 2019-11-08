@@ -1,0 +1,165 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.17]
+
+PB[greyarea]
+BR[4k]
+PW[CGoban3]
+WR[4k]
+KM[6.5]
+DT[2012-11-26]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[W+45.5]
+TM[1800]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+C[CGoban3 [4k\]: hi gg
+greyarea [4k\]: hi
+greyarea [4k\]: have a good game];B[pd];W[dp];B[cd];W[pp];B[id]
+;W[qf];B[nc];W[pj];B[dj];W[jp];B[qq]C[g4: Letting white get a wall seems to be too early.]
+;W[pq];B[qp];W[qo];B[ro];W[qn];B[rn];W[qm];B[pr];W[or];B[qr]
+;W[nq];B[cn]C[g4: Becaus of the white wall I would prefer a high approach.]
+;W[en]C[This is the first non-standard move.  How should black respond?
+g4: This is a good move in itsself. Becaus of this I would have preferred a high approach move. If you are confident with reducing large frameworks, you can invade this corner too. Reducing seems not an easy way. Perhaps H5 now.]
+(;B[fq]C[Overplay?  It seems like many of my subsequent problems in the game can be traced back to this.]
+;W[hq];B[dr]C[g4: Black loses the possibility to invade the corner and this small group will become heavy and remains unsecure. I would prefer F5, threatening the cut at E5.]
+;W[cq];B[cr];W[cm]C[g4: too small];B[bq]C[g4: Very good];W[bp]
+;B[dq]C[g4: Just A3 is enough, leaving C5 for a peep. But that doesn't matter much.]
+;W[cp];B[aq];W[bs];B[br];W[fp];B[gq];W[gp];B[hr];W[dh];B[dm]
+;W[dn];B[cl];W[bm]
+(;B[bl]C[g4: In most cases it is better to connect at D8. The threat is the same. But black gets sente or a very thick position.]
+;W[dl];B[em];W[el];B[fm]C[g4; But this is also not advisable in most cases.]
+;W[bn]
+(;B[fl];W[ek]
+(;B[dk];W[ej]
+(;B[di]C[g4: This is very cautious. If white connects to D12, this will look too good for him. So E11 is the only way, eventuelly permitting G9]
+;W[ei];B[ch];W[cg]
+(;B[bj]C[g4: There was a chance. E12 instead seems to win. But you must be able to read it out.]
+;W[bh];B[ci];W[eg]C[Had to give a think on how to live here.
+g4: Even if black lives here, this is a desaster. The white wall is unbeatable now.]
+;B[ai];W[jj]C[This is where I start to feel the game slipping away.  I've got heavy stones that I can't afford to sacrifice and that are surrounded by enemy stones.
+g4: This is indeed a difficult situation. But you must be willing to sacrifice these stones.]
+;B[fn];W[ep];B[ho]C[g4: Play away from strength. This is not necessarily a threat. White can ignore this Perhaps forcing with F12 and then G10.]
+;W[ir];B[hp]C[g4: This move just hepls white. Just connecting at G2 is OK.]
+;W[iq]
+(;B[eo]C[g4: aji keshi. Not helping black in any way.];W[do]
+;B[fo];W[ap]C[g4: Now the bottom group is no more necessariliy alive.]
+;B[gj]C[g4: Good];W[gi]
+(;B[hj]C[g4: H11 is nearly a must.];W[hi];B[ij];W[ii];B[jk]
+;W[im];B[il]C[g4: First L10. Then this good move.];W[hm];B[hl]
+;W[gm];B[gl]C[g4: Not necessary. Doesn't make more than one eye. Better to expand eye space with M10 and K7.]
+;W[jm];B[kj];W[ji];B[km];W[kl];B[kk];W[ll];B[jl]C[g4: Doesn't help much. Better to escape to M11.]
+;W[kn]
+(;B[ki]C[g4 In these situations it is often better to play the diagonal move. The difference is explained in the variarion.]
+;W[ed];B[df];W[dg];B[dc];W[ec]
+(;B[ef]C[g4: Fighting spirit. But black may also play the calm move of L13.]
+;W[ff];B[cf]C[g4: Don't let white connect here. F15 is necessary.]
+;W[bf]C[Frustratingly sente against the group below.]
+(;B[ak]C[g4: This saves 9 black stones and 2 points of territoy, but loses 5 stones and the corner. Better to give them away. See varaiation.]
+;W[bc]C[g4: This loss is too big. Black invested 4 moves here and gained less than nothing.]
+(;B[be];W[db];B[af];W[bg];B[fe];W[ee];B[fg];W[gf];B[ah];W[ag]
+;B[fh];W[eh];B[fi];W[ce];B[de];W[ae]
+(;B[fj]C[g4: First cut with H13.];W[bi];B[ck];W[dd]C[Ouch.]
+;B[gd]C[g4: This makes no senseThe 2 white stones at F14 are connected.]
+;W[hd];B[he];W[ge];B[hg]C[g4: Now I think the ponnuki is bigger.]
+;W[hc];B[ic];W[hb];B[hf];W[fd];B[gg];W[of]C[Mistake by white.]
+;B[fe]C[I can save these stones in sente.];W[cc];B[re];W[qe]
+;B[qd];W[rf];B[ph];W[oh];B[pi];W[oi];B[qj];W[pk];B[rl];W[qk]
+;B[rk];W[rj];B[qi];W[ri];B[rh];W[qh];B[si];W[pg];B[sj];W[rm]
+;B[sm];W[sn];B[so];W[sl];B[sk];W[ql];B[sl];W[rp];B[rq];W[rg]
+;B[sp];W[sh];B[sn]C[The game is pretty much over at this point, but I press on hoping to find a wedge.]
+;W[rd];B[rc];W[se]
+(;B[mj];W[lf];B[ml];W[mm]C[Didn't anticipate this response, which stops me in my tracks and makes 183 a bad move.  I'm really just polishing the deck chairs on the Titanic now.]
+;B[lk];W[lm];B[kf];W[mc];B[md];W[lc];B[ib];W[ld];B[me];W[le]
+;B[mf];W[mg];B[ng];W[nf];B[lg];W[nd]C[Another tactical disaster, but such seem about my only option at this point.]
+;B[mh];W[ne];B[oc];W[mg];B[gc];W[gb];B[mb];W[lb];B[nb];W[rb]
+;B[sc];W[qb];B[qc];W[pb];B[sb];W[bd];B[ha];W[ce];B[fb];W[ff]
+;B[ge];W[gr];B[fr];W[hs];B[eq];W[go];B[gn];W[hn];B[la];W[ka]
+;B[ma];W[kb];B[oa]C[Playing it safe.  Not that it really matters now.]
+;W[kg];B[lh];W[jf];B[ke];W[je];B[jg];W[kd];B[ig];W[nl];B[am]
+;W[an];B[ea];W[aj];B[ai];W[mf];B[da];W[ca];B[nk];W[mk];B[ok]
+;W[nj];B[ml];W[od];B[pc];W[mk];B[bo];W[co];B[ml];W[sq];B[sr]
+;W[mk];B[os];W[ns];B[ml];W[kh];B[jh];W[mk];B[ba];W[cb];B[ml]
+;W[eb];B[ol];W[mk];B[ms];W[ps];B[ml];W[es];B[nm];W[fs];B[as]
+;W[nn];B[on];W[oo]C[Well, that didn't get me much.];B[fa];W[pn]
+;B[om];W[fc];B[ga];W[kf];B[ni];W[oj];B[qs];W[nh];B[os];W[nr]
+;B[mi];W[al];B[ps];W[pe];B[sd];W[re];B[ra]C[I don't think this was necessary, but I decided to err on the safe side.  Again, not that it matters.]
+;W[ds];B[cs];W[fk];B[jb];W[gk];B[ja];W[hk];B[am];W[ef];B[al]
+;W[gs];B[mn];W[no]C[On the off chance white makes a dumb mistake.  I regret these moves now.]
+;B[ln];W[km];B[ko];W[lo];B[tt];W[ah];B[aj];W[tt];B[tt]TW[aa]
+[ba][ab][bb][ac][dc][ad][cd][md][be][de][ke][me][oe][af][cf]
+[df][pf][sf][ng][og][qg][sg][ph][rh][pi][qi][qj][cn][in][jn]
+[ln][mn][ao][bo][ho][io][jo][ko][mo][po][hp][ip][kp][lp][mp]
+[np][op][jq][kq][lq][mq][oq][hr][jr][kr][lr][mr][is][js][ks]
+[ls][ms]TB[ia][na][pa][qa][sa][gb][hb][ob][pb][qb][rb][hc][hd]
+[gh][hh][ih][gi][hi][ii][ji][li][cj][jj][lj][bk][mk][nl][rp]
+[sq][ar][rr][bs][rs][ss]C[CGoban3 [4k\]: thx
+greyarea [4k\]: thanks
+
+I knew I was losing, but I didn't realize it was by such a large margin.  Should have resigned.]
+)
+(;B[mf]C[Here was probably better, but I felt the need to be more aggressive.
+g4: Black is too far behind. Should give up ow.
+Commentary ends here.];W[lh]C[White can still reduce me a great deal, though.]
+;B[kh];W[lg];B[kf];W[lf];B[le];W[kg];B[jg];W[ke];B[jf];W[me]
+;B[ld];W[ne];B[ib]C[Still losing.]))
+(;B[hg];W[gg]C[g4: If white resists...];B[gh];W[hh];B[fj]))
+(;B[db]C[Once again, here would be better.];W[eb];B[be];W[ae]
+;B[ad];W[af];B[bd];W[bb];B[fe];W[ee];B[gf];W[fg];B[gc]))
+(;B[be];W[bi]
+(;B[fe];W[ee];B[gf];W[fg];B[gd];W[dd])
+(;B[af];W[bg];B[ag];W[ah];B[fe];W[dd];B[db];W[ee];B[fg];W[ae]
+;B[gf]C[g4: One possibility. This may not the best play by white.]
+)))
+(;B[db]C[Taking into account that white has sente plays against the black group below, I guess I should have played it a little safer here.]
+))
+(;B[li]
+(;W[ki];B[mj];W[lh];B[mh];W[mg];B[lg];W[kh];B[ng];W[mf];B[nh]
+C[g4: Nearly eyeshape or connected.])
+(;W[lh];B[mh];W[mi];B[kh];W[lg];B[ki];W[kf];B[mj];W[ni];B[lk]
+C[g4: Alive too.])))
+(;B[hi]
+(;W[gh];B[hj]C[g4: OK, better])
+(;W[gk];B[fk];W[fj];B[hj];W[hh];B[ih]C[g4; Even better for black.]
+)
+(;W[hj];B[fi];W[gk];B[gh];W[fk];B[fg];W[eh];B[ij];W[hk];B[ik]
+;W[il];B[jk];W[jl];B[kk]C[g4: It's hard to abandon 9 stones. But this seems to be a good game for black now.]
+)))
+(;B[co]C[This kills...];W[do];B[fo];W[go]C[...but white can cause problems here.]
+;B[gn]C[Other choices for this move don't improve matters.]
+;W[hn];B[in];W[hm];B[io];W[hk]C[Black is not going to win the semeai.]
+)
+(;B[hm]C[I think the real lesson here is that these stones need to be solid before I go attacking the white stones I've cut off.]
+))
+(;B[eh];W[dg];B[fh]
+(;W[ck]
+(;B[cj]C[g4: Not this way.];W[bj];B[bk];W[bi])
+(;B[bj];W[bk];B[cj];W[al];B[fj]))
+(;W[ci];B[cj]
+(;W[bj];B[bi];W[bk];B[ak])
+(;W[bi];B[bj];W[al];B[ak]))))
+(;B[ei];W[gk];B[di];W[gj]C[g4: Not easy , but I think this is playable.]
+))
+(;B[fj]C[I would have loved to have played here, but it doesn't seem to work, either.
+g4: Not a bad move. But you must abandon the two stones on the left side.]
+;W[ck]
+(;B[bk]C[This almost works.];W[cj];B[dk];W[ej];B[di];W[ei];B[ci]
+;W[ch];B[bj];W[bh])
+(;B[dk]C[Definitely doesn't work.
+g4: The only way.];W[bk];B[ej];W[al]
+(;B[fk]C[g4: Maybe white ignores this with C11.];W[cl];B[ci]
+)
+(;B[ci]C[g4: This looks good, cutting the white stone apart.]
+))))
+(;B[fk]C[Doesn't work...];W[fl];B[gl];W[gm];B[fn];W[gn];B[fo]
+;W[go]))
+(;B[el]C[Better?])
+(;B[dl]
+(;W[bn]C[g4: Maybe ignored])
+(;W[bl];B[bk];W[bn]C[g4: In this case, when D10 exists, maybe ignored too. Other wise B10 gives a very good position.]
+)))
+(;B[cq]C[Would taking the corner have been better?];W[dq];B[cp]
+;W[do];B[cm]C[White has a lot on the bottom, but black has a lot on the left and top.
+g4: If white can convert this moyo into territory, it is too much. Black doesn't has as much territory. At the top there are at least 4 invasion points. So black has to reduce. After a white D8, perhaps D9, F10, this will be a challenge. I would try with K6, ignoring a white D8.]
+;W[dl];B[jn];W[cl];B[bl];W[bk];B[bm];W[ho];B[ln];W[ko];B[ll]
+;W[cj];B[ci]C[g4: This may be one possibility. May be even.]
+))

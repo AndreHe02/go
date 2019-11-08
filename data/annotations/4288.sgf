@@ -1,0 +1,193 @@
+(;FF[4]GM[1]SZ[19]AP[SGFC:1.15]
+
+PB[Black]
+BR[17k]
+PW[GNU Go]
+KM[6.5]
+RE[B+20.5]
+
+C[i would like some general pointers regarding approaching invading and mid game strategies
+
+(in mail) i recently started learning about joseki and was tryin to apply them... however i dont exactly remember too many or any of the variations.
+i realize that my mid game is weak as i dont know where to attack and the sequence after the initial invasion
+
+[JB\] Hi. I hope I can be of help.
+First of all, at your level you do not need to know too many joseki, neither many variations. Also, if you plan to improve, try to play stronger players with proper handicap. In this case the possible joseki are much less... You should try a favorite opening also and learn some joseki for that situation.
+Just by playing blind joseki will not help you, but I understand you may feel more comfortable on known paths.
+During the opening I will show you just a few common joseki that you may want to learn.]
+;B[pd];W[dp];B[pp];W[dc]LB[de:a]C[[JB\] This is a well known fuseki called "ni-ren-sei" (I like it and I play it quite often). Now black usually would play at A (see Var.2)]
+
+(;B[cq]LB[cl:a][fn:b][hq:c]C[3-3invasion
+
+[JB\] It is too early to invade at san-san: this invasion leads to a small black corner completely sealed by white.
+You should invade at san-san to take some points later in the game, when white influence to the center or the sides is not important or, in general, when you see that white influence will be of no use (because white is strong in the A-B-C area yet or because you are).]
+;W[cp];B[dq];W[eq];B[er];W[fq];B[fr];W[gq]C[i believe its a standar joseki up to this point... not certain as i only learned them this weekend
+
+[JB\] Yes, but now B has to play A (see var.2)]
+(;B[gr]C[[JB\] Black G2 is wrong: white gets a lot of influence and you just get 1 point per stone... too small in this stage of the game.]
+
+(;W[pf]LB[qf:a][nc:b][nd:c]C[[JB\] White should have played H3 to prevent black there.
+Though the more common approach to hoshi (star point) is keima (A or B) this one (or C) is quite common too. Other approaches are rarely used and depend on the circumstances.
+See Var.2 for a common joseki after A.]
+(;B[of]LB[nd:a][pj:b]C[[JB\] Ishida says: "In the local context, answering at A gives black a favourable result. A position in which this answer is not appropriate is almost inconceivable". In some cases (and probably this is one) B can be an alternative; see variation 2 for a joseki after A.
+Of course you do not need to know this. But a contact play on the outside (towards the center) is probably not good. A contact move will make your opponent stronger and you will not get too much on the top side (it is wide open).
+See variation 3 for a joseki with contact when the corner is in komoku.]
+;W[pn];B[on]C[[JB\] Same as before.];W[ce];B[fc]LB[jd:a]MA[dc]
+[ce]C[im not sure this approach is correct
+
+[JB\] I am not sure too. When white has the marked stones he wants to play near A, so a move to prevent this is good. But I think it is too close; maybe near A would be good and make a good balance with the stones at Q16 and P14.]
+;W[dl]LB[dk:a]C[[JB\] A, one point above, looks better. You usually play at 3 points from a 2-stone wall, but in this case white has more stones there and A has good balance with the white stones at C15 and D17.]
+;B[bp];W[bo]
+(;B[ap]LB[bq:a][bn:b]C[i realize this was a bad move
+
+[JB\] Yes, usually you would play A locally. But you have better choices in the board: white did not respond to P14 and P6, and your stone at F17 needs some support (something like F15 would help F17 while keeping white low on the side, see var.2)
+Anyway, since white tenukis (it looks like he likes to), you have a very big yose move at B to play later.]
+;W[hc]
+(;B[bq]C[[JB\] No need for this, see Var.2];W[gd];B[fd]C[[JB\] After leaving F17 alone now you try to save it... when a stone has no escape it is better to use its aji to get something in other place. Your opponent is not so strong either, so you save it finally.]
+;W[fe];B[gc];W[hd];B[db];W[eb];B[cb];W[ec];B[cc]
+(;W[ed]LB[ee:a]C[[JB\] This is a mistake. Most moves which leave an empty triangle are.
+Notice that A works better (Var.2): the weakness there helps black a lot.]
+;B[ea]C[[JB\] This does not help to live, but as I said your opponent helps you.]
+;W[bd];B[bc];W[ac];B[ab]
+(;W[lc]LB[ba:a]C[[JB\] He could have made things quite difficult for you by playing at A... see var.2.]
+;B[fb]LB[ba:a]C[[JB\] I understand you but again it would have been better to play A directly.]
+;W[cd]LB[ee:a]C[[JB\] White had to play here because of the weakness he left at A.]
+;B[ba];W[nq]C[[JB\] I do not like this one. White is making Q6 weaker and there is not a lot of territory on the low side due to G2.]
+;B[oq];W[np];B[op];W[jq]C[[JB\] Anyway, white got more influence...]
+;B[hq];W[hp]
+(;B[iq]LB[ep:a][gp:b]C[[JB\] It may be better to try to exploit the weakness at A and B (Var.2)]
+;W[ip];B[ir]C[[JB\] Not needed (tooooo small)];W[cn];B[ao];W[an]
+;B[jr];W[no];B[oo];W[mm];B[nn];W[mn];B[kr];W[lp]C[[JB\] At this point it would be good to evaluate how you are. See Var.2.]
+
+(;B[jp]C[again im not sure if this cut is good or bad
+
+[JB\] A cut should never be bad, except when you are cutting apart too live groups (in which case you loose time).
+If you checked the variation, you may see that this is too small for what you need.]
+
+(;W[kq]C[[JB\] For white, var.2 is better.];B[jo];W[in];B[io]
+;W[ho];B[hn];W[fo];B[jn];W[im];B[hm];W[il];B[hl];W[hk];B[do]
+;W[gl]C[[JB\] White should have played E5, I think (but I did not check)]
+;B[ep];W[go];B[co];W[bn];B[fp];W[lf]C[i think there might have been bigger moves than capture
+
+[JB\] Sure. Capture is 6 pts. Q13 is worth more than that, and there are much bigger moves like Q7. You also need to do something with the left white moyo before it is too late... though you reduced it, your K5 stones are lost.]
+;B[gp];W[pm];B[en];W[ph];B[fn];W[gn];B[gm]C[i realize i shouldnt have played there... maybe F7 or F8 or another area on the board
+
+[JB\] With such a big moyo like white had, it should have been better to invade than to reduce. Anyway, you suceeded a lot because of some white mistakes.
+Now it is time to move to other place, because you cannot reduce much more and white is taking the right side, which should have not been his.]
+;W[fm];B[em];W[oe]C[[JB\] White likes to leave things unfinished, but tenuki is an art. Your opponent uses to tenuki whenever, even when it is not good...]
+;B[nf];W[ne];B[pe];W[nh];B[mf];W[qf];B[mg]LB[me:a][md:b]C[[JB\] Most empty triangles are not good... if you are close to playing one, consider carefully other alternatives like A or B.
+Anyway I am aware that you need to do something at the center (my estimate is more than 20 points difference)]
+;W[rd];B[me];W[nd];B[md];W[nc];B[mc];W[mb];B[pc];W[qb];B[nb]
+;W[ob];B[lb];W[na];B[kb];W[el];B[ld];W[kc]C[at this point i figured that the L16 group and Q15 group are both dead
+
+[JB\] Q15 is dead, L16 can fight.];B[jb];W[jc];B[ib];W[hb];B[ha]
+;W[ga];B[fa];W[ia];B[ja];W[qo];B[qp];W[ro];B[rp];W[sp];B[sq]
+;W[so];B[rq];W[dn];B[eo];W[ad];B[dm];W[bl];B[cm]
+(;W[cl]C[[JB\] Notice that white leaves some stones to block you from enter in his big territory. This is important: try to prevent the opponent to cut through your walls.
+Anyway he could have saved them (Var.2)];B[bm];W[lr];B[kp];W[lq]
+;B[km];W[or];B[pr];W[nr];B[os];W[kl];B[ls];W[ms];B[ks];W[al]
+;B[am];W[ke];B[kd];W[jd];B[ic];W[je];B[id];W[ee];B[ie];W[jf]
+;B[he];W[ge];B[hf];W[ha]C[[JB\] lost a move, connection at G18 is sente]
+;B[lh]C[i thought that i might be ale to capture white's K14 group, but not exactly sure how
+
+[JB\] It does not look easy, white has space to escape and J8 is close enough.]
+;W[jh];B[jg];W[kg];B[ig];W[kh];B[lg];W[ns];B[if];W[ps];B[qr]
+;W[qs];B[rs];W[os];B[ih];W[ji];B[ii];W[jj];B[gf];W[gh];B[ff]
+;W[la];B[gi];W[fh];B[fi];W[eh];B[ei];W[po];B[dh];W[hh];B[hi]
+;W[eg];B[ef];W[dg];B[df];W[cg];B[cf];W[bf];B[ch];W[gb];B[da]
+;W[de];B[bh];W[bg];B[dj];W[nm];B[om];W[ol];B[cj];W[pl]
+(;B[ej]C[[JB\] White gave you an opportunity here (in fact his prosecution was not very good). See Var.2]
+;W[ah];B[ai];W[ag];B[bj];W[ci];B[hj];W[gk];B[gj];W[ij];B[ek]
+;W[fk];B[mi];W[mk];B[mj];W[nk];B[nj];W[oj];B[og];W[ok];B[oh]
+;W[pg];B[oi];W[pi];B[lj];W[lk];B[kj];W[ki];B[kk];W[jk];B[ll]
+;W[jl];B[lm];W[jm];B[ak];W[bk];B[aj];W[fj]C[No need to play here.]
+;B[dk];W[hg];B[ck];W[fl];B[ae];W[be];B[ka]C[[JB\] I will not analyze what happens here, white does not need to play like this. Just Q18 is enough to get all the black stones at the center.]
+;W[fg];B[ma];W[nb];B[pb];W[pa];B[oc];W[la];B[qc];W[rc]C[was this a mistake on whites part?
+
+[JB\] As I said before, the biggest mistake white did is to let you play this ko. He lost a lot of times taking out the liberties of a dead group, playing in its own territory.]
+;B[rb];W[oa];B[qa];W[gg];B[od]CR[aa][bb][ca][di][ci][bi][pa]
+[oa][na][la][ma][mb][nb][ob][nc][nd][ne][oe][qb][ng][nh][mh]
+[ni][pq][qq][rr][sr][ss][an][bn][cn][dn][bo][cp][dp][aq][eq]
+[fq][gq][hr][hs][is][js][fs][gs][es][ds][dr][cs][cr][bs][br]
+[as][ar]MA[dd][ae][af][ik][hl][hm][gm][hn][nl][ml][ll][lm][km]
+[jn][io][jo][jp][kp][ko][kn][ln][lo][mo][mp][mq][mr][qn][rn]
+[sn][sm][rm][qm][ql][rl][sl][sk][rk][qk][pk][pj][qj][rj][sj]
+[si][ri][qi][qh][rh][sh][sg][rg][qg][rf][sf][se][sd]C[luckly broke through, i think it was a difference of almost 200 points
+
+[JB\] Let's count. Black=79, White=73+komi=79.5. You are quite close now.]
+;W[sb]C[did i capture too early?
+
+[JB\] You could play R15 before, but it's a miracle the game is so close :-)]
+;B[ma];W[sc];B[qe];W[re];B[qd];W[li];B[ra];W[sa]C[i think everything after this point was useless, i guess i was tryin everything because i was thinkin that i was losing]
+;B[hm];W[gm];B[le];W[kf];B[lo];W[mo];B[ln];W[ml];B[tt];W[tt]
+C[[JB\] I made a small mistake, W won by 1.5.
+I think you should analyze the beginning of the game and look at the variations I provided.
+I hope this commentary will be of help.])
+(;B[fk];W[fl]C[White must connect.];B[ek]C[Black is alive!
+Anyway white wins, but if he keeps playing like this he would lose.]
+))
+(;W[bm];B[cl];W[ck];B[bk];W[bj];B[cj];W[ak];B[dk];W[bk];B[ek]
+;W[fl]C[It won't be easy for black to do something.]))
+(;W[jo];B[kp];W[ko];B[kq]LB[ji:a]C[[JB\] Should be easy for white now... with a move near A he has almost won.]
+))
+(;CR[aa][bb][ca][aq][ar][as][br][bs][cr][cs][dr][ds][es][fs]
+[gs][hr][hs][is][js][ks]TR[be][bf][af][bg][ag][bh][ah][bi][ai]
+[bj][aj][bk][ak][bl][al][bm][am][bn][cf][cg][ch][ci][cj][ck]
+[cl][cm][co][do][dn][eo][ep][fp][gp][fo][ho][go][en][mo][mp]
+MA[pq][qq][rs][rr][rq][sr][sq][ss][qp][rp][sp][qm][qn][rm][rn]
+[sm][sn][so][ro][qo][po]C[Circles: You have 20 "safe" points. The lower right corner still can be invaded at san-san thanks to the aji of Q6; the top right still is not clear.
+
+Triangles: In a conservative estimation, white has about 40 points. So you need to play something really big now.
+
+Crosses: by playing something like Q7 you may get about what you need, though white will have sente to try to put ahead again.
+
+Other possibility is trying to invade soon near the center, before white reinforces there.]
+))
+(;B[ip];W[iq];B[hr];W[ho];B[jo];W[jp];B[io];W[ko]C[This sequence may cause problems to white...]
+;B[hn]
+(;W[gn]LB[in:a][fo:b]C[White cannot play at A, see Var.2; so he plays at B (var.3). Playing here is a mistake.]
+;B[go];W[gp];B[fo];W[ep];B[gm];W[fn];B[fm];W[en];B[im]C[Notice that this group is not live yet, but if it can live white has been reduced a lot.]
+)
+(;W[in];B[jn];W[im];B[go];W[gp];B[ep]C[Too bad for white])
+(;W[fo]C[There are many possibilities here but white still is not safe. I will show just a couple of variations, there are too many to explore...]
+;B[go];W[gp];B[ep]
+(;W[fp];B[eo];W[fn];B[co];W[cn];B[do];W[dm];B[en];W[fm];B[jm]
+C[Good reduction and black still can escape.])
+(;W[gn];B[eo];W[do];B[dn];W[co];B[en];W[in];B[bn]TR[hn][io]
+[jo][ip]MA[bo][co][do][dp][cp]C[Black throws the triangled stones and got the crossed, reducing white a lot.]
+))))
+(;W[ba];B[fb];W[gb];B[fa];W[da];B[ca];W[ga];B[da];W[cd];B[ad]
+;W[ib]))
+(;W[ee]C[Black cannot connect and is locked, see variations.]
+
+(;B[ed];W[dd];B[bd];W[be];B[ab]C[Black lives in the corner but the cost is too high: white is VERY strong on both sides and center, black cannot escape and he lost 4 stones with almost no aji.]
+)
+(;B[dd];W[ed];B[cd];W[de];B[be];W[bf];B[ad];W[cg]C[Black lives but again he gave too much. Now at least he has sente...]
+)
+(;B[cd];W[de];B[be];W[bf];B[ad];W[cg]C[Same as before])
+(;B[be];W[cd];B[bd];W[bf];B[cf];W[bg];B[dd];W[de];B[ed];W[gb]
+C[Black cannot suceed];B[ab])))
+(;B[fe];W[bq]C[If white plays here...];B[br]C[...black says "thanks!"]
+))
+(;B[fe]C[Now the top side looks too big, so white will probably invade there. But you are strong on both sides (F and P columns) and while pressing white you can make P14-Q16 stronger. White will have to choose defending on the top or on the right side, and this will give you advantage.]
+;W[nc];B[oc];W[nd];B[jc];W[kd];B[kc];W[lc];B[jd];W[ke];B[oe]
+C[Maybe at Q15 more active.];W[od];B[pe];W[pc];B[qc];W[ob];B[pg]
+C[Even with a passive play like this black got a lot more locally. Probably the game is even now, though white has sente.]
+))
+(;B[nd];W[qd];B[qc];W[qe];B[rc];W[qj];B[jc]C[Joseki, though probably better for white because Q4 now looks quite isolated and white has sente.
+By the way, a joseki only is as good as its context.])
+(;B[de]C[This joseki is played against komoku (3-4); if played against hoshi (star point) the territory in the corner for the opponent would be too big.]
+;W[ce];B[cf];W[cd];B[df];W[gc];B[dj]LB[dg:a][fd:b][ck:c]C[This is joseki; also black D14 could be at A (with D10 at C in that case) or white G17 at B.
+Notice that in this case, white made black stronger but in exchage he got some safe territory on the corner, and strong influence on the top side.]
+))
+(;W[qf]C[A couple of variations follow...]
+(;B[nd]LB[nc:a]C[This could be played at A too.];W[rd];B[qc]
+;W[qj])
+(;B[qh];W[qc]LB[jd:a]C[Now it depends of black having a stone near A...]
+
+(;B[pc];W[qd];B[pe];W[rf];B[og])
+(;B[qd];W[pc];B[od];W[rd];B[re];W[rc];B[qe];W[nc];B[me];W[mc]
+))))
+(;B[bp];W[bo];B[bq];W[cn]))
+(;B[de];W[ce];B[cf];W[cd];B[df];W[gc];B[dj]LB[pj:a]C[Now white will probably play at A to prevent black there which is so powerful.]
+))

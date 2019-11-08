@@ -1,0 +1,241 @@
+(;FF[4]GM[1]SZ[19]AP[SGFC:1.14]VW[]
+
+PB[plim]
+BR[10k]
+PW[reiser]
+WR[9k]
+KM[6.5]
+DT[2003-05-13]
+PC[The Kiseido Go Server (KGS) at http://kgs.kiseido.com/]
+RE[B+12.50]
+TM[1950]
+
+C[plim:
+Hello.
+
+I played this game on KGS as black. I would appreciate pointers on big moves I missed, mistakes I made as well as answers to my questions.
+What do I need to study to get stronger ?
+
+Thank you!];B[pd];W[dp];B[pq];W[dc];B[qk]C[plim: I like playing chinese opening lately. But I'm not too sure about the right continuation and the main ideas of the chinese fuseki. So, it would be nice if you could tell me some theories about that.
+
+PC: Kato's book is worth reading. You seem to have the general idea of using the R9 stone to cramp any White invasions and building territory by attacking them.]
+;W[cf];B[jd]LB[jp:a]C[plim: I've just begun to read Otake Hideo's Opening Theory Made Easy. So what I thought when I played this move is that:
+- it prevents White from playing K17
+- it builds a framework for Black
+Is that good?
+
+PC: Yes. The other possibility I'd consider is to play around 'a' (J3/J4/K3/K4), which comes in useful if White plays an approach move in the bottom right. I found a similar position in Kato's book on the Chinese fuseki, where your move was recommended. The only difference from your game is that White had a stone at D15 instead of C14.]
+;W[po];B[np];W[qq];B[qr];W[qp];B[rr];W[qm];B[ok]LB[lq:a][jp:b]
+C[plim : I'm trying to attack White's group while building a moyo in the upper right.
+But I'm not too sure if there is an aji at P3.
+
+PC: Your move is good. There is aji at P3 and P2, but playing either move immediately looks like an overplay for White (see variations). What that aji does mean, however, is that if White plays at 'a' (M3) you'll need to defend your group.  This is one of the reaons that a Black move around 'b' (K4) is so useful in the Chinese fuseki: it discourages White from playing 'a' because the White stone will then be weak.]
+
+(;W[om];B[fq]LB[lq:a][jq:b][jp:c]C[Given that 'a' (M3) is White's sente, this looks like an overplay. I'd just extend to 'b' (K3) or 'c' (K4), which would make (potential) territory, cover my main weak point and aim at F3 next.]
+
+(;W[cn];B[iq]LB[jq:a][jp:b]C['a' or 'b' (K3 or K4) would leave White less room to invade, but ...]
+;W[lq]C[... the invasion still looks premature to me, given that White will find it difficult to attack either Black group and will have to worry about a splitting attack.]
+
+(;B[mq]LB[oq:a]C[plim : I'm trying to make white's stone heavier since I have a stone at J3 but I'm not sure if that is good. I was told to not touch the stones I attack because it strenthens the ennemy's group.
+So is O3 possible (maybe heavy and slow for Black) or a capping move like M5?
+
+PC: O3 or O2 is what I'd play here (Kato's book gives O3 in a similar position). M5 looks like an overplay, as the aji at 'a' (P3) comes to life. See the variations on the previous move for O2 and M5.
+
+After White answers your move with M4, there's still some aji at 'a' that White can use to strengthen his group - see variation - but White still has more problems than you do.]
+
+(;W[lp];B[nn]C[plim : I'm trying to get White's stones separated
+
+PC: good - I can't see anything better here.];W[nl];B[ol]LB[nm:a]
+[mm:b][mn:c]C[PC: I don't see what you were trying to do with this move. It just forces White to play 'a' (O7), which loses the possibility of playing 'b' (N7), for example, without leaving a nasty cutting point. Even if you want to play 'c' (N6), it would be better to play it directly without the P8/O7 exchange.]
+;W[nm];B[mn]C[plim : seems to be a bad exchange for Black. It strenghtens P7 group and make Black P9 group weaker.
+
+PC: Yes, see previous comments.];W[pj];B[ql];W[qd]LB[qe:a][qc:b]
+C[plim : I didn't understand this move.
+
+PC: Probably intended as a probe, to see if you answer at 'a' or 'b' (R15 or R17).]
+;B[rm]
+(;W[rn]
+(;B[rl];W[pm];B[oj]LB[qc:a][qe:b][ll:c]C[PC: Playing in the top right corner at 'a' or 'b' (R17 or R15) is urgent - it makes a big difference if White gets to play there next. Your move at P10 is only big enough if it threatens to kill the White group below, and even then I think it's a bad idea because White could answer with something like 'c' (M8), which helps the White position more than P10 helps yours. Also, I believe that White has at least a ko to save the bottom right group - see the variation.]
+
+(;W[pe]
+(;B[pc]LB[qc:a]C[PC: I don't like this because after White 'a' (R17) your stones are short of liberties - White's stone at Q15 forms a "hane at the head of two stones". Playing 'a' yourself looks more interesting - see the variation on the previous move.]
+;W[qc];B[qg]LB[nd:a]C[I think it's more important to help out your two stones at the top by playing 'a' (O16). If White gets to play there then your stones are in all sorts of trouble - see variation.]
+
+(;W[qf];B[pg];W[oe];B[nc];W[nd];B[mc];W[oc];B[ob];W[pb]C[plim: what could I have played sooner to avoid the snapback?
+
+PC: See the previous couple of comments.];B[dr];W[hp];B[ip]
+;W[io];B[jo];W[ko];B[in];W[ho];B[jn];W[jp];B[jq];W[kp];B[hq]
+;W[kn];B[hn];W[gn];B[go];W[gp];B[fp]LB[fo:a]C[PC: 'a' (F5) captures the four White stones.]
+;W[fo];B[gq];W[go];B[il];W[hm];B[jl];W[lm];B[mm];W[kl];B[hl]
+LB[ml:a]C[PC: 'a' (N8) is the key point. It threatens to shut in both White groups, and I can't see how either of them can make two eyes. On the other hand, if White plays 'a' then all the White stones are connected and safe, and you'll need to add a stone to your bottom right group if you want to save all of it.]
+;W[gl];B[gk];W[fl];B[ml];W[nk];B[kk];W[lk];B[ll];W[km];B[kj]
+;W[mr];B[nr];W[mp];B[nq];W[no];B[oo];W[mo];B[on];W[pr];B[oq]
+;W[kr];B[jr];W[ns];B[ps];W[ln];B[ks];W[ls];B[js];W[pn]
+(;B[or]LB[op:a][mk:b]C[PC: Well spotted, though it looks like connecting with 'a' (P4) would live and kill the White group, because White would no longer have the sente move at 'b' (N9) to help him escape - see the variation on the previous move.]
+;W[lj];B[fk]LB[ki:a]C[Better at 'a' (L11) to keep the pressure on the weak White group.]
+;W[el];B[ek];W[ij]
+(;B[jk]C[plim: seems that I could have connect at H9 instead.
+See the variation I made.
+Later I had a shortage of liberties and White saved L6 group.
+Now, it seems to me that I was leading back the so maybe I should have got the game simplier for me.
+
+PC: I prefer this move to connecting at H9 because the E/F/G9 stones aren't that important - they have no effect on the life and death of the two White groups in the bottom right quarter.]
+;W[hk];B[hj]LB[ki:a]C[PC: 'a' (L11) would avoid the shortage of liberties problem, and threatens to kill the White group]
+;W[ki];B[ii]C[plim: I should have taken white H9 stone. I did not see the shortage liberties.
+Silly move!!!
+
+PC: Proverb: "There is damezumari at the bamboo joint". Probably the only thing that helps with spotting this sort of thing is seeing it often enough - preferably in tesuji problems rather than in games!]
+;W[jj];B[ik];W[im];B[ji];W[jm]C[PC: This seems to be a good point to pause and evaluate the game. By my estimate White has:
+
+  top left: 12 points
+  bottom: 20 points
+  top right: 20 points
+  komi: 6 points
+  total: 58 points
+
+You have:
+
+  bottom right: 5 poitns
+  bottom: 12 points
+  right: 12 points
+  top: 6 points?
+  centre: 6 points
+  total: 41 points
+
+This sounds bad, but you have sente, lots of thickness in the centre and a weak White group to attack. If you can get 15 points or so from the attack you'll be in with a good chance.]
+
+(;B[li]LB[kh:a]C[plim: even though White saved his group, I was quite confident. I thought I could still attack White group to make territory.
+
+PC: Right idea but I don't like this move much because it allows White to gain momentum by sacrificing the L11 stone. The other atari, at 'a' (L12) looks promising - see the variation on the previous move for how things might go.]
+;W[nj];B[oi];W[ni];B[nh];W[mi];B[lh];W[mh];B[ng];W[mg];B[mf]
+;W[lg];B[kh];W[lf];B[me];W[md];B[lc];W[ld];B[kd];W[le];B[fc]
+;W[cj]C[PC: OK, so how has your attack worked out? My estimates:
+
+White:
+  top left: 12 points
+  bottom: 25 points
+  top right: 22 points
+  komi: 6 points
+  total: 65 points
+
+You have:
+
+  bottom right: 5 points
+  bottom: 12 points
+  right: 17 points
+  top:15 points
+  centre: 8 points
+  total: 57 points
+
+You still have sente and your thickness in the centre, so your position looks reasonable here.]
+;B[ch]LB[ef:a][di:b][hc:c][cq:d]C[PC: This is obviously big, but I'm not sure it's the best move. If White answers at 'a' (E14), he strengthens his corner and threatens both 'b' (D11) and 'c' (H17) (see variation). I think 'd' (C3) is bigger, as it both increases your territory and eats into White's. If White answers, you can then play C12 or invade the top left corner.]
+
+(;W[dh]C[PC: This move doesn't usually turn out well.];B[di]
+;W[ci];B[dg];W[eh];B[cg];W[ej]LB[dk:a]C[PC: White has weakened his corner and given you the forcing move at 'a' (D9) with which to eat into his side territory.]
+;B[dk];W[dj]
+(;B[df]LB[ce:a]C[PC: This forces White to play 'a' (C15), which he's quite happy to do because it strengthens his corner. Playing 'a' yourself looks interesting - see the variation on the previous move.]
+;W[ce];B[fi];W[ei];B[ck];W[fg];B[ee];W[ed];B[fd];W[ig]
+(;B[he]LB[ff:a]C[PC: 'a' (F14) threatens to cut off the Whtie stone or damage the corner - see the variation on the previous move.]
+;W[hf]LB[ff:a];B[ge];W[ff];B[fe];W[de];B[ef];W[jf];B[cq]C[PC: A good result from your invasion - now you're definitely ahead.]
+;W[cp];B[rg];W[rf];B[fh];W[eg];B[gf];W[gg];B[hh];W[hg]C[plim : maybe these forcing moves are useless. I don't know. What's ur opinion?
+
+PC: They guarantee two eyes and are worth a few points - you're ahead, so this sort of simplification is in your favour.]
+;B[ep];W[eo];B[db];W[cb];B[bq];W[dq];B[er];W[bp];B[sf];W[se]
+;B[sg];W[rd];B[rq]LB[eb:a]C[PC: 'a' (E18) looks bigger to me.]
+;W[rp];B[os];W[nf];B[ap];W[ao];B[aq];W[bn];B[og];W[gh];B[gi]
+;W[fj];B[gj];W[ih];B[nb];W[eb];B[ec];W[dd];B[fb];W[da];B[pa]
+;W[qb];B[cl];W[dm];B[ie]LB[fa:a]C[PC: 'a' (F19) is bigger: 5 points in reverse sente.]
+;W[fa];B[ga]C[PC: Why risk the ko when you're ahead?];W[ea]
+;B[hb];W[je];B[bf];W[be];B[af];W[ae];B[bh];W[bi];B[ah];W[bk]
+;B[bl];W[aj];B[pl];W[jh];B[kg];W[sm];B[sl];W[sn];B[sp];W[so]
+;B[sq];W[mk];B[op];W[pp];B[al];W[ai];B[ak];W[oa];B[na];W[qa]
+;B[kb]C[plim: now seems to be dumb move.];W[qj];B[rj];W[ri]
+;B[sj];W[ph];B[pi];W[qi];B[qh];W[of];B[od];W[oc];B[ms];W[lr]
+;B[ns];W[si];B[eq];W[rk];B[sk];W[am];B[bm];W[an];B[oa];W[ke]
+;B[hi];W[jg];B[tt];W[cm];B[bj];W[kf];B[ki];W[bk];B[ca];W[ba]
+;B[bj];W[gb];B[gc];W[bk];B[ro];W[qo];B[bj];W[qs];B[rs];W[bk]
+;B[re];W[sd];B[bj];W[cr];B[br];W[bk];B[pf];W[qe];B[bj];W[cs]
+;B[ds];W[bk];B[pc];W[pd];B[bj];W[bs];B[as];W[bk];B[dl];W[bj]
+)
+(;B[ff];W[gg];B[hh];W[hg];B[dd];W[ec];B[cd]))
+(;B[ce]
+(;W[df];B[bf]
+(;W[be];B[bd];W[bg];B[ae];W[bh];B[de];W[eg];B[ed])
+(;W[bg];B[bh];W[be];B[ag];W[bd];B[eg];W[de];B[fh];W[ei];B[ff]
+;W[ck];B[cq]))
+(;W[bf];B[df];W[be];B[cd];W[bd];B[cc];W[de];B[dd];W[ee];B[ed]
+;W[ef];B[eg];W[fg];B[fh];W[ei];B[ff])))
+(;W[ef];B[eh];W[cq];B[fe]C[My estimate:
+
+White:
+  top left: 12 points
+  bottom: 30 points
+  top right: 22 points
+  komi: 6 points
+  total: 70 points
+
+You have:
+
+  bottom right: 5 points
+  bottom: 9 points
+  right: 17 points
+  top:17 points
+  centre: 12 points
+  total: 60 points]))
+(;B[kh];W[mk];B[op];W[li];B[lh];W[ni];B[mh];W[nj];B[mi]
+(;W[og];B[nh];W[oi];B[oh];W[pk];B[pl];W[qj];B[rj];W[ph];B[qh]
+)
+(;W[nh];B[ng];W[og];B[of];W[oh];B[nf];W[pf];B[qi];W[qh];B[rh]
+;W[rg];B[ph];W[pi];B[qh];W[qj];B[rj];W[sh];B[ri];W[pk];B[pl]
+;W[oi];B[rq];W[sk];B[rf];W[sm];B[rk];W[sl];B[sg])))
+(;B[hk];W[jk];B[jj];W[ik];B[ii];W[hj];B[hi];W[gj];B[fi];W[ji]
+;B[ki];W[jh]))
+(;B[op];W[rq];B[ro];W[sr];B[rs];W[sn];B[so];W[nj];B[ni];W[lj]
+;B[li];W[mi];B[mh];W[mj];B[kh];W[oi];B[nh];W[pk];B[pl];W[pi]
+;B[sm];W[qn]))
+(;W[nd];B[nc];W[mc];B[oc]))
+(;B[qc]
+(;W[qe];B[pc])
+(;W[od];B[pc];W[qe];B[oc];W[nd];B[nc];W[md];B[mc];W[ld];B[kc]
+;W[qi])
+(;W[pc];B[od];W[rc];B[qb];W[re];B[oc];W[qi];B[qf];W[qe];B[ph]
+)))
+(;W[pc];B[mk];W[on]LB[qn:a]C[Threatens to live by playing 'a' (R6).]
+;B[ro];W[op]LB[oq:a][mp:b]C[PC: The obvious answer at 'a' (P3) leaves White with a ko (see second variation), so I also looked at 'b' (N4):]
+
+(;B[mp];W[oq];B[or];W[nr];B[mr];W[os]LB[ps:a]C[Black's best option may be to play the ko at 'a' (Q1). If Black tries to avoid this ko:]
+;B[pr];W[nq]LB[sp:a][rq:b][rp:c]C['a' and 'b' (T4 and S3) lead to the same position - see the first two variations. 'c' (S4) doesn't work - see the third variation.]
+
+(;B[sp];W[sn];B[rq];W[rp];B[qn]
+(;W[qo];B[sm];W[pn];B[sq];W[so];B[ss]C[Both sides live.])
+(;W[sq];B[sm];W[so];B[sp];W[so];B[sr]C[If White connects, Black lives with Q1.]
+;W[ps];B[sp]C[A ko, but White has ko threats to escape, e.g. ...]
+;W[ll];B[ml];W[sq];B[qs];W[ns];B[sp];W[mm];B[lm];W[sq]))
+(;B[rq];W[rp];B[sp])
+(;B[rp];W[rq];B[sq];W[sr]
+(;B[sp];W[qo];B[ss];W[sn])
+(;B[ss];W[sn];B[sr];W[sp];B[so];W[qo];B[sp];W[ps])))
+(;B[oq];W[no];B[mo];W[mp]C[PC: ... and now the N3 - P4 exchange comes back to haunt you!]
+;B[oo];W[ll];B[ml];W[no];B[nq]C[Black doesn't have time for this move.]
+;W[mm];B[lm];W[ln])))
+(;B[qn];W[pm];B[ro];W[rl];B[sn];W[rk];B[rj];W[qj];B[ri];W[pk]
+;B[pl];W[oj]))
+(;W[pc];B[mk];W[nk];B[nj];W[lm];B[mm];W[ml];B[ll];W[lk];B[pm]
+
+(;W[on];B[kl];W[mj];B[im];W[pe])
+(;W[kl];B[on];W[mj])))
+(;W[lp];B[nn];W[oq];B[op];W[pp];B[pr];W[mr];B[nq];W[nr];B[or]
+))
+(;B[nr];W[jp];B[jq];W[lo];B[nn]C[A nice splitting attack, and the weakness at P3 is covered.]
+)
+(;B[lo];W[oq]
+(;B[op];W[pr];B[pp];W[nr];B[qo];W[ro];B[rp];W[qn];B[rq];W[qo]
+C[Your group in the corner doesn't have two eyes.])
+(;B[or];W[nq];B[nr];W[op]C[White connects his two weak groups while reducing your territory.]
+)))
+(;W[lq];B[nr];W[iq];B[cq];W[dq];B[cp];W[do];B[dr];W[er];B[cr]
+;W[eq];B[cn];W[fp]))
+(;W[oq];B[op];W[pr];B[pp];W[or];B[qo];W[ro];B[rp];W[qn];B[rq]
+;W[qo];B[mr];W[mq];B[nq];W[nr];B[lr];W[mp];B[on])
+(;W[or];B[oq];W[nr];B[pr];W[nq];B[oo];W[on];B[nn];W[om];B[lq]
+))

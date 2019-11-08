@@ -1,0 +1,116 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.17]
+
+GN[teddy99-GO12 2009/11/24]
+PB[GO12]
+BR[4k]
+PW[teddy99]
+WR[4k]
+KM[6.5]
+DT[2009-11-24]
+PC[PANDA NET]
+RE[W+Resign]
+RU[Japanese]
+
+C[Hi review, Please more on the opening.  I think I was in trouble. And please suggest some variations during fuseki
+
+
+TM: Hi, I'm the reviewer. It seems that most of the game was a fight resulting from the deviation from joseki in the top left corner. It is hard to give variations on fuseki since the fighting started so early, but I've pointed out some major mistakes throughout the game.
+
+Some general advice:
+
+* Play away from strength. Often it seems you play close to your own strong group or your opponent's when there are open spaces elsewhere still waiting to be taken.
+
+* Look around and see what is big or urgent. Several times in this game you let your opponent take sente after you played what should be an endgame move.
+
+I hope this helps!
+Tim];B[pd];W[dp];B[pq];W[dc];B[de];W[cg];B[be];W[fd]
+(;B[fe]LB[ef:A]C[TM: Usually black would play at A instead.]
+;W[gd];B[ge];W[hd]
+(;B[eg]C[TM: By pushing white from behind, black has given him solid territory on the top, and doesn't have much to show for it himself.
+
+Also, E13 is close to black's other stones. White will naturally extend down the left side here, so a more effective move might be C11.]
+;W[cj];B[cl]C[TM: This will lead to trouble, but it is perhaps necessary.]
+;W[cn]
+(;B[dk]LB[dj:A]C[is this a black overplay?
+
+TM: It is probably too ambitious to try to capture these white stones. Consider attaching at A instead with the goal of forming a stable group.]
+;W[ei];B[fj];W[fi];B[gi];W[bl];B[bm];W[bk];B[cm];W[ej];B[ek]
+;W[gj];B[fk];W[gh];B[hi];W[fg];B[dh]
+(;W[ef]LB[ch:A]C[TM: This leads to an interesting exchange of territory. It is probably better for white, though, to keep things simple by playing at A since black's top group still has no base.]
+;B[ch];W[ee];B[df];W[ff];B[dj];W[dd];B[dg]C[TM: A good recovery by black.]
+;W[bn];B[an];W[ao];B[am];W[bp];B[cd];W[cc]TR[cd]C[TM: The last two moves were big, but can wait until the endgame. Both players already have living groups here.]
+;B[fp]LB[pj:B][qo:C][jp:A]C[TM: Since white's group is settled, I would prefer to play farther away. (Play away from strength.) The board is starting to feel lopsided.]
+;W[hp];B[go];W[ho];B[kp]
+(;W[gm]LB[gn:A]C[TM: White should be able to connect to the corner by playing the more severe move at A.]
+;B[gn];W[hn];B[fm];W[gl]C[TM: There is still time for white to connect underneath. Pushing up like this is dangerous right next to black's solid group.]
+(;B[fl]C[TM: Black shouldn't be so submissive here. The side group is already alive, this gains no territory, and now the two stones in the centre are cut off.]
+;W[gk];B[fh];W[eh];B[di];W[fh];B[im];W[hm]LB[fq:A]C[it is not easy for white.
+
+TM: White doesn't need to worry too much now that the G11 stones have been cut. Also, the connection at A is still available. Black can only hope to reduce the influence of white's wall, which now (apart from the cut at G11) stretches the entire length of the board!]
+;B[il];W[kn];B[ij]C[TM: Good move. This will indeed make it harder for white to use his influence.]
+;W[jo];B[lk];W[jk];B[ik];W[kl]
+(;B[ki]LB[jj:A]C[TM: White's stones are not strong against your solid line here, so you can play the tighter move at A.]
+;W[jh]C[TM: I don't understand this move. Even if black tenukis, white cannot cut here. (Therefore black should tenuki.)]
+(;B[jj]LB[ki:A][jj:B]C[TM: Now you can see that A should have been at B in the first place.]
+;W[kk];B[kj];W[mo]
+(;B[jn]C[TM: This move only forces white to connect, and hurts L4. Consider connecting your two stones at the bottom instead and making some easy territory.]
+;W[ko];B[pn]LB[qo:B][mq:A]C[TM: This feels too loose with white's solid group nearby. He will be tempted to invade. Reaching across at A looks much better to me; if not that, then at least the more restrained move at B.]
+;W[qp];B[qq];W[qn];B[rp];W[po];B[ro];W[pm];B[on];W[om]
+(;B[nn]C[TM: I think it is simpler to turn back towards the corner, and leave white with bad shape. If you fight too much without support, you might lose a group or let your opponent build up strength.]
+;W[rn];B[nm];W[nl];B[lm];W[lp];B[km];W[pi]C[TM: So, black got a few points by capturing three stones, but white established a foothold on the right side.]
+;B[ol];W[pl];B[ok];W[pk];B[np];W[mq]
+(;B[nq]TR[hd][pd][pi]C[TM: White has two strong groups aiming at the top right corner. It is urgent to move there before white does.]
+;W[nc]
+(;B[qg]LB[qf:A]C[TM: This is too wide. White's group on the right is practically unassailable, and black cannot expect this move to alarm him. The simpler way to play would be at A.]
+;W[qc];B[pc]C[TM: This is the right direction ...];W[pb]
+(;B[qd]C[TM: ... but this is the wrong one.];W[rb];B[rc];W[qb]
+(;B[oj]LB[ri:A]C[TM: This doesn't gain much for black, and gives white the chance to settle the side. Consider sliding to A instead.]
+;W[qi];B[rh];W[ri];B[rl]SQ[qi][ri]C[TM: This is not likely to work after black forced white to play the marked stones. I would think about reducing the top side instead.]
+;W[rk];B[pj];W[qj];B[qm];W[rm];B[qo]C[TM: Small. This gives white sente to do a lot of damage.]
+;W[ne];B[ld];W[pf];B[rd];W[mf];B[oc];W[ob];B[oe];W[of];B[nd]
+;W[md];B[mc];W[od];B[ql];W[pe]C[TM: A wise choice by white. The exchange on the right side is in his favour, but more importantly it will now be virtually impossible for black to invade the top. This settles the game.
+
+End of comments];B[qk];W[rf];B[oh];W[pg];B[ph];W[qh];B[rg];W[qf]
+;B[oi];W[sh];B[ig];W[jf];B[kg];W[kf];B[if];W[ie];B[kq];W[lr]
+;B[gq];W[hq];B[nr];W[kr];B[ln];W[eq];B[hr];W[fr];B[gr];W[ir]
+;B[fq];W[er];B[lo];W[jp];B[mp];W[jq];B[lg];W[jg];B[ih];W[lf]
+;B[bc];W[bb];B[ab];W[ba];B[hf];W[sl];B[sn];W[en];B[fn];W[mr]
+;B[nb];W[nd];B[lb];W[kc];B[lc];W[kb];B[ka];W[jb];B[ma];W[sc]
+;B[sm];W[sg];B[sk];W[ns];B[os];W[ms];B[pr];W[mh];B[mi];W[kh]
+;B[lh];W[mg];B[li];W[he];B[gf];W[hh];B[eo];W[do];B[em];W[dn]
+;B[sb];W[sa];B[sd];W[sb];B[rj];W[in];B[jm];W[dm];B[dl];W[ep]
+;B[nh];W[fo];B[oa];W[se];B[eo];W[ng];B[is];W[js];B[fs];W[es]
+;B[gs];W[fo];B[gp];W[eo];B[sj];W[hs];B[pa];W[re];B[is];W[hj]
+;B[ii];W[hs];B[cb];W[db];B[is];W[ce];B[cf];W[hs];B[bo];W[co]
+;B[is];W[ca];B[hs];W[aa];B[ac];W[tt];B[hg];W[ed])
+(;B[ri]LB[oj:A]C[TM: The atari at A doesn't really help white: he must still worry about settling his group, and black for his part is happy to have a base.]
+))
+(;B[ob];W[rb];B[pa];W[qb];B[oc];W[qe];B[pe];W[qf];B[pf]LB[kc:A]
+C[TM: If white allows this then black can hope to get some territory by extending to A, for example.]
+))
+(;B[qf];W[pb];B[qc]LB[qb:B][ri:A]C[TM: Black can later aim at A or block at B.]
+))
+(;B[nc]))
+(;B[oo]
+(;W[qo];B[qm])
+(;W[rn];B[qo])))
+(;B[mq]))
+(;B[qk];W[ji];B[jj];W[kk];B[kj];W[lj];B[mj]C[TM: It is hard for white to attack convincingly.]
+))
+(;B[jj]C[TM: White cannot cut this, even if the ladder is good for him.]
+;W[kj];B[kk];W[jl];B[li]))
+(;B[gk]TR[gi][hi]C[TM: White cannot separate black's stones at the bottom. Also, it will be hard for him to keep the marked stones cut without harming his five stones below.]
+))
+(;W[gn];B[fn];W[fm];B[gm];W[hn];B[en];W[fq];B[eq];W[ep];B[gq]
+;W[gp]))
+(;W[ch]LB[he:A][ig:B]C[TM: White is not in great danger, while black's two weak groups remain separated. A and B are miai.]
+))
+(;B[dj]C[TM: There are many variations from here. Black should treat the two stones lightly.]
+(;W[di];B[ei];W[dk];B[ej];W[ck];B[dh];W[ci])
+(;W[ck];B[dk];W[dl];B[el];W[dm];B[di])))
+(;B[ci]LB[fe:A][ef:B]C[TM: This looks better for black, although white's stone could comfortably be resuced if necessary. If A had been at B, then white would feel less inclined to jump out with his stone.]
+))
+(;B[ef]LB[ec:C][hc:B][ci:A]C[TM: This way, black can take A or B according to whether white extends on the top or on the left. If black has B then he can later aim at a sacrifice at C to take the corner.]
+(;W[jc];B[ci])
+(;W[di];B[hc];W[hd];B[id];W[he];B[ec];W[ed];B[dd];W[eb];B[cc]
+;W[fc];B[cb])))

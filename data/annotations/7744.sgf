@@ -1,0 +1,221 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.17]
+
+PB[usagi5]
+BR[5k]
+PW[kyzma84]
+WR[4k]
+KM[0.5]
+DT[2010-03-09]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[W+51.5]
+TM[1500]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+C[usagi5 [5k\]: hi gg
+
+This is a game I played on March 9, 2010. I have added in some comments and questions. Thank you!
+
+Hi, I will add my comments prefixed with MB.
+
+MB: I'm also a beginner, and everything I say should therefore be taken with a grain of salt, especially since we're pretty close in strength. Thanks for the chance to do a review!
+
+MB: Note about variations: I mention "variation at move x", even if the first suggested move in the variation is actually "x+1", because CGoban (which I use for editing SGF files) branches the variation at move "x".]
+;B[pd]C[kyzma84 [4k\]: gg];W[dp];B[qp];W[dc];B[fq]C[MB: Good! Since white didn't kakari at P3/4, this makes good use of the black stones on the right.]
+;W[cn];B[kq]C[I try the mini chinese opening.];W[qj];B[qg]C[Is this correct?
+
+MB: White made a splitting attack, black chose to answer on this side. I think it is OK. Answering on the other side would expand Black's influence in the LR side, but then you would need to worry about defending the UR corner.]
+;W[qm]
+(;B[op]C[I think this should be at Q6, right?];W[jc];B[ce];W[cg]
+;B[ee];W[fd];B[ed];W[ec];B[fe];W[gd]
+(;B[id]C[Is pressing down here good?
+
+MB: This looks like a dubious move to me. It strengthens white while gaining little for black, especially since you don't follow up with G15 to make a contiuous wall. See variation.]
+;W[ic];B[ci]C[MB: J16 doesn't help here (White can still poke its head at G15).]
+;W[eg];B[gg]C[MB: this is dangerous, as white can cut later at F14 (not now, as they would probably be hurt by damezumari).
+
+It is also inefficient, since you'll have to use another stone to connect. See variation at move 20.]
+;W[fh];B[cl];W[dr]
+(;B[er]C[MB: why play here when the situation is still hot in the UL area? This move is big, moves in that area are urgent. Urgent moves before big moves.
+
+MB: See suggested variations.];W[dq]
+(;B[fo];W[gp]
+(;B[gq];W[hp];B[hq];W[ip];B[iq];W[fp]C[Should I maybe have played something other than F5? I don't think this is the best result.
+
+MB: F5 was OK, but it's very bad that white got F4. You should have played it after he played G4. Now he has a wall, your C8-C11 group is much much weaker, it's much harder to attack the E13 white stones, so your E15 group is in trouble too. You can't let white gain so much thickness.  See variations at move 32 for possibilities after you reply with F4 to G4.]
+;B[ep]C[MB: this move is rather pointless.];W[eo];B[eq];W[en]
+;B[jp];W[gn];B[pl]C[MB: You have unsolved problems on the L side. Attacking here before defending on the left seems like overplaying to me.]
+;W[ql];B[el]C[If I hadn't jumped out, could white play ar C10 or C9?
+
+MB: Sure. Or white could try many other things. You have two weak groups, so white has many possibilites for attack. The best defense is still trying to connect them underneath at B13 (see variations at move 28).]
+;W[ej];B[dk];W[gh];B[ge];W[hd];B[he];W[hj];B[gl]C[I try to separate white.
+Perhaps this move would have been better protecting the lower right corner?
+
+MB: white is no longer under attack, still better to try connecting.]
+;W[pq];B[pp];W[qq]C[Is white killable? I end up messing up and letting white live. Should I have protected the corner before this? Is there any way to kill white from this point?
+
+MB: Not really. His hane at S4 is sente because of the R7 stones, so I don't think so. Anyway, even if he lives and you get thick on the outside, you're not doing badly. Let's try an approximate count:
+
+MB: White has ~9 pairs in the UL corner, ~9 pairs in the LL corner and a rather weak group on the right side, which will make about 10 points, but you'll also make at least 10 points attacking it, so white has ~40 points right now.
+
+MB: Black has ~12 pairs on the lower side (if he stops the corner invasion at P3/P2), plus maybe ~5 pairs in the UR corner (more if he attacks the R8 stones, maybe less if white gets to defend/extend first), and another maybe ~5 pairs on the left side if he connects his groups (if he doesn't, he's going to have to let white make extra points while attacking, so we can say he'll get a negative score on the left). So Black also has ~40 points,
+
+MB: So there is no need to kill the white invasion in the corner, just get thick so you can successfully attack the R8 white group and make some profit (even if you don't kill those stones).
+
+MB: Sure, this is a quick and approximative evaluation (and probably has many flaws), but hey, I'm only 2k.
+
+MB: Before trying to kill something, try to check if you need to. In many cases, just pressuring the group and gaining thickness is enough.
+
+MB: Now, if I would only follow this piece of advice in my own games :-) ...]
+;B[or];W[oq];B[nq];W[pr];B[nr];W[rp]
+(;B[rr]C[This move failed. I maybe could have let white live with S5 to at least stay connected?
+
+MB: S5 sounds much more reasonable, as it is also an attack on the white stones on the side.
+
+MB: You should work some life and death problems, so you don't need to play out such sequences in the actual game. 
+
+MB: But I guess most beginners, me and you included, have this problem - not stopping to think and finding ourselves in a bind that is unexpected to us at the moment, but quite predictable in retrospect.
+
+MB: So try to stop and read out the possibilities, or at least spot the opportunities/dangers, even in the heat of the action.]
+;W[rq];B[ro];W[sr];B[rs];W[sp];B[ps];W[os];B[ns];W[qo]C[Here I notice the mistake.
+
+MB: :-)];B[qn];W[po]
+(;B[rn]C[I guess I should have played Q5 or Q6 instead of R6.
+
+MB: you should not insist on saving S5, yes. See variation at move 76 for a way to try and get something out of this situation.]
+;W[pn];B[pm];W[np];B[oo];W[on];B[no];W[nn];B[mo];W[rm];B[qk]
+;W[rk];B[pk];W[sn]
+(;B[pj];W[qi];B[oh]C[MB: You keep pulling out stones from white's area of influence (after losing the corner and S5, LR is now in white's hands). This means that you let white hunt you and extend his influence. It is better to leave the stones to white and try to extend your influence from the border of the 'spheres of influence. For instance, instead of Q10 and O 12, you could have played P17 (see variations at move 90).]
+;W[nc]
+(;B[oc]C[MB: this is an overplay. White is strong in this area too (the K17 stones make it very hard to attack the O17 stones), and you should defend. See variations.]
+;W[nd]
+(;B[oe]C[MB: Overplay, again. Better to defend. See variation at move 96.]
+;W[qc]C[I got confused with this invasion.]
+(;B[pc]C[MB: The empty triangle is bad. Better to give something up and keep things under control. See variation at move 98.]
+;W[rd]
+(;B[re];W[qe];B[rf];W[rb]
+(;B[pb]C[MB: another empty triangle? R16 seems important here. See variation at move 104.]
+;W[qb];B[sc];W[pf]C[MB: R 16!!!! :-)]
+(;B[of];W[pg];B[ph];W[qh]
+(;B[qf]C[MB: Empty triangle! You're also filling in your own liberties! See variation at move 112.]
+;W[se]
+(;B[sd]C[Here I messed up, I think. Should this have been at R15?
+
+MB: I assume you meand R16 :-) YES!];W[rg];B[pe];W[sf];B[mj]
+C[MB: I would resign here. White is thick everywhere and there is no potential left for black. Well, black could try to attack the white group on the left side, but that has very few chances of success, since black is ripped apart on the right side. No further comments on this game.
+
+General advice:
+
+1) Solve tsumego to get a good hold of reading out life and death positions. This should save you from the mistakes on the LR and UR corners. There are two ways I know to approach tsumego: a) solve graded problems at your level and think for about a minute or two, then look at the solution if you cannot figure it out and try to visualize it and remember it and b) solve graded problems at your level and think for about 3-4 minutes; if you can't figure it out, don't look at the solution and try easier problems; come back to the initial problem (even if after some days/weeks) later and again try to solve it on your own; repeat if necessary. I seem to get better results with way b) because it tends to be better at strengthening reading skill.
+
+2) Before every move, try to re-evaluate areas of influence (who is strong in an area, who is weak). This should stop you from attacking when you should be defending (UR corner) or defending when you should be attacking (letting white play F4). Don't try to save isolated stones that are close to the opponent's thickness (the Q9 stones). Also try to do some positional judgment of the board (even if approximative, it should provide pointers about trying to kill at all costs or just get thick by attacking).
+
+3) Keep your groups connected (a connected group is much better at attacking - and much easier to defend - than two weak groups).
+
+4) Do easy problems (10-20) for warmup before the first game you play in a session. I tend to use goproblems.com and 12k-10k problems. So you can try 14k-12k (this advice obviously harder to follow if you play in front of a real goban and do not have a graded tsumego book with you). This warmup makes games more enjoyable and more interesting. Since this is easy to follow advice when playing on the net, I always warm up before a game.
+
+5) Do not start another game before reviewing the previous one (either by yourself, with your opponent or with a stronger player). I follow this rule religiously (even if I do the review by myself most of the time, this reveals many things I would have missed - better moves for myself or my opponent). This also has the advantage of allowing one to cool down after a game, so the next game is approached with a clearer head. One also becomes more objective and relaxed, as the review reveals that many lost games should have been won, and that many won games should have been lost if one side or the other would have played just a little bit better.
+
+HTH,
+
+Miron];W[og];B[me];W[lc];B[jh];W[hg];B[ik];W[if];B[ie];W[ih]
+;B[jg];W[jf];B[ng];W[ke];B[kd];W[jd];B[je];W[kf];B[bc];W[cc]
+;B[bd];W[bb];B[bg];W[ld];B[cf];W[ch];B[bh];W[di];B[dj];W[bi]
+;B[cj];W[ei];B[io];W[go];B[mm];W[mn];B[ln];W[lo];B[mp];W[kn]
+;B[lm];W[in];B[jn];W[jm];B[jo];W[im];B[km]C[I should have ataried at 07 first to stop the cut at Q11, or rather just block with Q11 myself.]
+;W[pi]
+(;B[oi];W[oj];B[nk];W[nh];B[ni];W[nf];B[mh];W[ne];B[ds];W[cs]
+;B[es];W[br];B[bm];W[bn];B[fm];W[fn];B[ig];W[hf];B[ii];W[hh]
+;B[jl]C[K9 would have been correct, I think.];W[ji]C[Now white gets to invade.]
+;B[ki];W[jj];B[kh];W[ij];B[kk];W[kj];B[lj];W[am];B[al];W[an]
+;B[ab];W[ba];B[hm];W[hn];B[nm];W[so];B[mf];W[lg];B[mg];W[cm]
+;B[bl];W[om];B[ol];W[lh];B[li];W[gm];B[hl];W[il];B[jk];W[fk]
+;B[fl];W[hk];B[gk];W[gj];B[ek];W[fj];B[dg];W[dh];B[df];W[gf]
+;B[ff];W[fg];B[dd];W[dm];B[lf];W[kg];B[cd];W[md];B[qs];W[tt]
+;B[tt]TW[ca][da][ea][fa][ga][ha][ia][ja][ka][la][ma][na][oa]
+[pa][qa][ra][sa][cb][db][eb][fb][gb][hb][ib][jb][kb][lb][mb]
+[nb][ob][pb][sb][fc][gc][hc][kc][mc][oc][pc][rc][sc][kd][od]
+[pd][qd][sd][oe][pe][re][of][qf][rf][gg][qg][sg][eh][rh][sh]
+[fi][gi][hi][ii][ri][si][rj][sj][sk][rl][sl][sm][dn][qn][rn]
+[ao][bo][co][do][fo][ro][ap][bp][cp][aq][bq][cq][ar][cr][as]
+[bs]TB[ad][ae][be][de][af][bf][ag][ah][nh][ai][bi][mi][aj][bj]
+[nj][oj][ak][bk][ck][lk][mk][ok][kl][ll][ml][nl][kn][ko][lo]
+[kp][lp][np][jq][lq][mq][fr][gr][hr][ir][jr][kr][lr][mr][fs]
+[gs][hs][is][js][ks][ls][ms]C[kyzma84 [4k\]: етч
+usagi5 [5k\]: thanks for the game!
+kyzma84 [4k\]: етч
+kyzma84 [4k\]: tnx
+
+C18 doesn't get marked off, but I am already losing by way too much. I probably should have resigned way earlier. I think I may have won if I had not lost the two corners.
+
+That's the game! Thank you!])
+(;B[nj];W[oi];B[nh];W[oj];B[ok];W[nk];B[nl];W[ni];B[mi];W[mh]
+;B[mg];W[lh];B[kg];W[li];B[lj];W[lg];B[lf];W[nf];B[mf];W[ne]
+;B[ki]C[Looks like I lose the Q16 group this way too.]))
+(;B[qd];W[rg];B[pe];W[sf];B[og];W[sd];B[rh];W[sg];B[sh];W[rc]
+C[MB: but now the corner is connected to the outside :-(]))
+(;B[qd];W[rg];B[qf];W[sf];B[pe];W[se];B[og]C[MB: White is connected to the outside.]
+))
+(;B[qd];W[of];B[pe];W[qf];B[nf]C[MB: The white L group at Q14 is captured. White is dead in the corner, too.]
+))
+(;B[qd];W[pb];B[ob];W[qa];B[sd];W[rc]C[MB: you are connected at least.]
+))
+(;B[qe]C[MB: this looks better to me.];W[qb]C[MB: Because of the empty triangle, white is now alive.]
+(;B[pb];W[rb];B[qa];W[ra];B[sc];W[sb])
+(;B[rb];W[ob];B[pb];W[pa];B[nb];W[oa];B[na];W[qa];B[mb];W[lc]
+C[MB: So you can't try S18 :-)])))
+(;B[ob]
+(;W[rd];B[qe])
+(;W[qe];B[qd];W[rd];B[re];W[rf];B[rc];W[se];B[rb];W[pe];B[od]
+;W[rg]C[MB: another possibility.])))
+(;B[ob];W[qe];B[pe];W[qc];B[qd];W[rd];B[re]))
+(;B[pc]C[Is this best? Instead of P17?
+
+MB: I can't tell about 'best'. It does seem somewhat better.]
+;W[jd];B[ie];W[tt];B[lc]C[MB: ... but this is an overplay, in my opinion.]
+)
+(;B[pb]))
+(;B[oc])
+(;B[og]))
+(;B[pn];W[oo];B[pm]C[MB: The 3 Q4 black stones are expendable too.]
+(;W[np];B[rm]C[MB: maybe this is an overplay, but at least you get some attack going on the R7 white stones]
+;W[qk];B[oj]
+(;W[mq];B[lr])
+(;W[ok];B[pk];W[pj];B[nk];W[ol];B[nm];W[nj];B[oi];W[nl];B[ml]
+;W[mk];B[om];W[nk];B[mn]C[MB: A possible continuation that is not good for white.]
+))
+(;W[rn];B[rm];W[sn];B[qk];W[rl];B[rk];W[sm];B[pj];W[np];B[oc]
+C[MB: This is very nice for black, I think.];W[mq];B[lr])))
+(;B[ro];W[rr];B[sp];W[rq];B[qn];W[qs]C[White lives anyways, but this looks better for black, yes?
+
+MB: Much, much better :-) Q7 is worth some points, and you can pressure the R8 stones, maybe from the other upper side, so you make more points in the UR corner.]
+))
+(;B[fp]C[MB: Some variations to show what happens after connecting at F4.]
+(;W[ip];B[hr]C[MB: The white stones are a under attack.];W[ir]
+;B[hq];W[iq];B[mq])
+(;W[gq];B[gr];W[hr];B[hq];W[iq];B[hp];W[go];B[ir])))
+(;B[ko]C[Here maybe?
+
+MB: This move is OK, but it doesn't work in any way with E2. After E2, F5 or H4 seem better.]
+)
+(;B[go];W[jp];B[jq];W[ip];B[iq];W[hp];B[hq];W[gp];B[fp];W[gq]
+;B[gr]C[This looks better than F5?
+
+MB: see the variation I suggested. You don't need to be afraid to connect at F4. This is somewhat better, but white can still cut at F5 and get its J4 stones to safety.]
+))
+(;B[bg]C[MB: we cannot attack white without first defending the cut at F14. So we try to connect instead.]
+(;W[ch];B[bh];W[cf];B[bf];W[de];B[dd];W[cd];B[be];W[df];B[cc]
+;W[ff];B[ge];W[gf];B[he];W[hf];B[if]C[MB: White has to defend against H17 here. See variation]
+(;W[hc];B[hg]C[MB: the white group is under attack now, and all your stones are connected.]
+)
+(;W[hg];B[hc];W[gc];B[gb]
+(;W[fb];B[hb];W[cb];B[bc];W[bb]C[MB: white lives in the corner, but]
+;B[ab]C[MB: It looks like white is dead? :-)])
+(;W[hb];B[hd];W[fc];B[ib]C[MB: White is crushed.])))
+(;W[bf]C[MB: another variation.];B[cf];W[bh];B[dg];W[ch];B[dh]
+;W[di];B[df];W[be];B[cj])))
+(;B[ci];W[eg];B[ge];W[hd];B[gg];W[ei];B[dk]C[MB: you can still enter the corner with B17 if things heat up (or connect underneath at B13), and white has a weak group between your groups.]
+))
+(;B[pn]C[MB: Maybe it's too early to start an attack. I like P4 better. It's true that you get better territory prospects in this variation, but white also gets a solid group.]
+;W[qn];B[qo];W[ol];B[pk];W[qk];B[on];W[oj];B[ko]C[This looks way better for black than P4. Would this have been correct?]
+))

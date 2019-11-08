@@ -1,0 +1,174 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.17]
+
+PB[crux]
+BR[1d]
+PW[bokuyuu]
+WR[2d]
+KM[0.5]
+DT[2007-10-24]
+PC[IGS]
+RE[B+1.5]
+TM[120]
+OT[25/900 Canadian]
+RU[Japanese]
+
+C[Dear reviewer,
+
+this was a no-komi game on IGS with relatively long time settings.  I am Black, and I have added a few comments to a couple of moves to show what I was thinking at the time.  I'd be glad for any corrections in my thinking, and any additional ideas that just didn't occur to me.]
+;B[pd];W[dp];B[pq];W[dc];B[ce];W[ed];B[cj]LB[ci:A]C[reid: The usual extension is to A.  This extra space may seem like black gets more, but really it means that black needs an extra move here to tie these stones together.  Better to sitck with the joseki move, I think.]
+;W[ch]LB[ic:A][dg:B]C[reid: white tries to take advantage of blacks too thin extension, but I think this is too soon.  If white first strengthens by extending to around A, black may be forced to connect his stones with B - three stones whre only two were needed.  If white can get that result, he can be satisfied.]
+;B[ee];W[fe]LB[fd:D][gd:B][ef:A][eg:E][di:C]C[reid: White F15 is the joseki move when black is at C11 instead of C10 - white intends to sacrifice his invading stone (which would be at C13 instead of C12).  But here, after black extends to A, if white fixes his shape with B (the normal joseki move), black C captures white C12 on a larger scale than the joseki.
+
+So white must try something different - instead of helping black to extend in response to the hane at F16, white can just extend to D (F16).  Then if black C, white still has E avaliable.]
+;B[ef];W[eh]C[reid: white wants both - this doesn't seerm reasonable]
+;B[fd];W[gd]C[crux: Before playing the cut, I figured this move wouldn't work for him, and indeed it does not occur in GoGoD.  I'm not certain I played the continuation properly though.]
+;B[fc];W[gc];B[ec]LB[fb:A]C[crux: Maybe playing A and squeezing is the better option?
+
+reid: no, I think that would not be nearly as good as what happens in this sequence.  Losing three stones at F17 is much worse than losing the one C15 stone (which is what happens in the game).]
+;W[dd];B[ge];W[ff];B[gb];W[hb];B[fb]LB[hc:A]C[crux: Is it better to cut at A immediately?
+
+reid: This is the same as asking if white should play to defend the cut at A (instead of his hane at G19).  See variation]
+(;W[ga]C[reid: this looks like a mistake for white.  As the variations on the previous move show, defending the cut at H17 is a better idea.]
+;B[hc];W[hd];B[he];W[id];B[fg]C[reid: black captures the critical stones.]
+;W[de];B[df];W[cf];B[gf]LB[db:A]C[reid: Taking the G15 stones off the board is sente for black, but it's not really necessary yet.  Better to leave this for later.
+
+It is important to only make moves that are necessary.  Ideally, each move is the one and only vital move that is required at that moment in the game.  Making moves just because they are sente is a bad habit.  Unfortunately, it's an easy habit to get into.  But by making unnecessary moves, you throw away opportunaties that you may wish you had kept as the game evolves.]
+;W[bf];B[db];W[bd];B[cb];W[bc]C[crux: Who has the better position here?
+
+reid: white lost his critical stones at F15, and the J16 stones are not stable yet.  The black group is as good as alive.  This is much better for black, especially considering this started as white's corner.]
+(;B[jb]LB[ic:A]C[reid: This doesn't seem to be the best attacking move for black.  I think the direct attack at A works better.  See variations]
+;W[ic];B[kd]LB[kc:A]C[crux: Better at A?
+
+reid: I prefer L16, but again, I think the variations on move 39 would be better.]
+;W[kc];B[lc];W[jc];B[kb];W[ld];B[mc];W[ke];B[md];W[le]C[reid: this result looks better for white than the variations in move 39.  White pushed black down pretty low while getting some eye shape and access to the center.  Black's corner is still vulnerable to a 3-3 invasion.]
+;B[cm];W[co];B[pk]LB[bg:C][dg:G][bh:B][dh:F][bi:D][ci:E][bn:H]
+[qo:A]C[reid: Q9 is a direction problem.  White has a stone at M15 which reduces the value of the center and right sides.  Black should not be trying to build a moyo on the right side anymore - it's already too late.  If black wants gote, better to take territory directly with a shimari (A).
+
+But I think now is a good time to play B.  If white D, black cuts at E and gets to cut off E12 with F (after white C).  If instead of D white retreats with C, black D  is nearly sente because black G again cuts off E12.  Getting eye-space in sente is always nice.  If black follows this sequence (assuming white takes gote to connect E12) with H, the black group is probably alive already.]
+;W[bi]LB[fj:A]TR[cj][cm]C[crux: I was thinking that since White played a low move near a strong position of his, I could treat the left side somewhat lightly.  How would you react here?
+
+reid: Well, after white B11, the black stones are floating.  Black A looks like an interesting idea.  White can probably take one or the other of C7/C10, but not both.  And A might work well with the Q9 stone.]
+;B[gq]LB[em:B][fq:A][jq:C]C[reid: This doesn't seem to be quite the right point.  One point further (A - F3) is more natural for attacking the corner, but  I'd be concerned about getting two weak groups so close to white's areas of strength.  I think either defending the two stones by running out with B, or dividing up the bottom with C look better.  Or try F10 (from the discussion in the previous move).]
+;W[eq]C[reid: this is a natural response for white, and it makes it difficult for black to continue.]
+;B[jp];W[en]C[crux: Moving out did not seem attractive, so I kept building a moyo.
+
+reid: Ah, but it is hard to maintain a moyo if your opponent can get strong by attacking a weak group.  He can then use that strength to launch an invasion into your moyo.
+
+On the other hand, if white spends two more moves and actually captures these two stones, it then looks like white played 7 moves to catch about 25 to 30 points, or about 4 points per move.  Not a great return on his investment, so maybe black could just give them up entirely.]
+;B[po];W[oq];B[op];W[nq];B[pr];W[jr]LB[fj:G][lp:D][iq:A][jq:C]
+[kq:E][lq:F][ir:B]C[crux: I hate this kind of move.  What's the best response here?  I considered A through F.
+
+reid: that means your opponent made a good move :-)
+
+OK, let's see.  D looks to enclose your opponent, but since he already has M15, your outside thickness won't be too useful.
+
+E and F look to try to split white, perhaps trading the two O3 stones for the black G3 stone.  But it doesn't look like capturing O3 would be straightforward.  In any case, black has Q2, so white can't expect much territory around N2.
+
+A, B and C reinforce black's position, but don't seem to have much real effect on the white stones.
+
+When in doubt, play somewhere else.  I would probably try G just to see how white answers.]
+;B[iq];W[kq];B[lo];W[ir];B[hr];W[hp];B[hq];W[lr];B[jn];W[or]
+;B[ej]LB[qe:A][kj:B]C[crux: I wasn't certain at all what to do at this point.  I also considered A, to prevent a 3-3 invasaion and B to keep building and threaten to keep moving out on the left side
+
+reid: Black A is probably bigger than B.  B might look good, but it's always easiest to make territory in the corners and hardest in the center.  Also, if white attacks the two left-side stones and black runs with them, white will be getting stones in place that will make invading that loose framework easy.
+
+Unfortunately, that means it's difficult to make good use of the black stones around K6.  So running out with E10 seems reasonable.]
+;W[qf]
+(;B[rd]C[reid: I think black misses a chance here.  See variation.]
+;W[qk];B[qj];W[pj];B[qi];W[pl];B[ok];W[ol];B[ql]LB[nk:A]C[crux: A mistake?  In hindsight, A looks better as White gets a lot of forcing moves.
+
+reid: yes, A seems better.  It also makes the M5/K6 stones useful.]
+;W[nk];B[oj];W[qm];B[rl]C[reid: wow, black is really getting pushed around here.  Right around here seems to be where the flow of the game changes from black being well ahead to it becoming close.
+
+Taking off the R9 stone (with S9 instead of S8) would eliminate white's forcing move at O10.  When white ataries at S8, black simply connects.  White S8 is (slightly) less damaging to the black lower right corner, too.]
+;W[np];B[no];W[on];B[oo];W[nj];B[oi];W[mn];B[nf]C[crux: This I'm also not happy with.  Connecting is probably bigger as it gives two groups relative safety.  The reason for playing this was a) making a big territory, and b) attacking the white group at the top.
+
+reid: Well, I like the idea of splitting the two weak groups, but you have to ask yourself: "can white connect those two groups with one move?"  If black simply connects at N5, white has a lot of weaknesses to handle.  Black will have two groups to attack, not just one.
+
+Black is already ahead on territory (assuming at least part of the C10 stones live), so taking more with O14 is false economy.]
+;W[gi];B[gk];W[mo];B[lp]LB[hl:E][rr:D][os:C][ps:A][qs:B]C[reid: what is this move for?  It may not even be sente!  White might make the yose exchange from A to D (to make sure this group is alive), then he could split black with something around E and stir up all kinds of trouble.  Now it's white attacking two weak black groups instead of the other way around.]
+;W[mp];B[rm]C[reid: This is a yose move.  The critical strategic situation is in the center.  Black needs something to make his scattered stones less vulnerable.]
+;W[qn];B[ro];W[qo];B[qp];W[rn];B[rp];W[sm];B[rk];W[pn];B[rr]
+C[crux: Too pessimistic, probably.  I couldn't read out this variant of the carpenters square in a reasonable time.
+
+reid: Well, you own the 'corner' of the square (Q4) and you also have a sente move at T5, so you don't need to worry.
+
+In hindsight we can see that black S7 caused a lot of trouble for black.  Better to skip it and deal directly with the strategic problem in the center.]
+;W[im]C[reid: ouch! white gets the strategic move first.];B[go]
+;W[gm];B[fr];W[er];B[hn];W[hm];B[gs]LB[hj:A][gn:F][in:G][fo:E]
+[fq:B][es:C][is:D]C[crux: I figured this was alive now - do you see a way to kill?
+
+reid: Well, A looks like a good start.
+
+Oh, you mean the K4 stones?  Not right now, but as white attacks the E10 stones, things could change.  If I were your opponent, I would not assume the JH3 group is alive yet.
+
+Even if they are alive, white now has a choice of sente moves at B through G (and probably more).
+
+Of course, all this is due to taking O14 instead of simply connecting at N5.]
+;W[el]LB[hj:A][ij:B]C[reid: Too small! White is happy with just a small part of this weak group?  He should attack on a larger scale with A or maybe B.  He has so many sente moves against the H3 group that black will have a hard time escaping.
+
+If black does manage to escape, that's the time for white to try to cut off part of the group.]
+;B[lg]TR[nf]C[crux: Trying to put the previous move to good use.  From here it turns into a big multi-way capturing race.  It looks like both players made lots of tactical mistakes.]
+;W[kg];B[fh];W[fi];B[ei];W[di];B[ih];W[ii];B[kh];W[hh];B[jf]
+;W[je];B[ib];W[jg];B[jh];W[ig];B[if];W[kf];B[hg];W[lh];B[jj]
+;W[ij];B[jk];W[ik];B[mg];W[li];B[kj]LB[ji:B][lj:A]C[crux: A better?
+
+reid: if black A instead, white B simply captures three stones.]
+;W[kl];B[lj];W[mi]
+(;B[gh]LB[hi:A][jl:B]C[crux: Looks like A would be better for the push and cut starting with B?]
+;W[hi];B[ll];W[lm];B[ml];W[jl];B[nl];W[lk];B[mj];W[ji];B[ni]
+;W[ki];B[mk];W[nn];B[es];W[ds];B[fs];W[dr];B[dg];W[dh];B[cg]
+;W[bg];B[pp];W[me];B[ne];W[gn];B[ho];W[fp];B[gp];W[fo];B[bb]
+;W[ab];B[ia];W[ha];B[fa];W[hc];B[ie];W[jd];B[cc];W[cd];B[mh]
+;W[in];B[io];W[kp];B[ko];W[nm];B[lq];W[jq];B[mq]C[crux: I missed a trick here...]
+;W[mr];B[kk];W[so];B[sp];W[sn];B[os];W[ns];B[ps];W[is];B[sl]
+;W[jm];B[kn];W[km];B[ba];W[ln];B[jo];W[fq];B[hs];W[ac];TW[ad]
+[kd][ae][be][ce][af][ag][ah][bh][ih][jh][kh][ai][ci][ei][aj]
+[bj][cj][dj][ej][fj][gj][hj][ak][bk][ck][dk][ek][fk][gk][hk]
+[al][bl][cl][dl][fl][gl][hl][il][am][bm][cm][dm][em][fm][om]
+[pm][an][bn][cn][dn][fn][ao][bo][do][eo][ap][bp][cp][ep][aq]
+[bq][cq][dq][ar][br][cr][kr][nr][as][bs][cs][js][ks][ls][ms]
+TB[ca][da][ea][ja][ka][la][ma][na][oa][pa][qa][ra][sa][eb][lb]
+[mb][nb][ob][pb][qb][rb][sb][nc][oc][pc][qc][rc][sc][nd][od]
+[qd][sd][fe][oe][pe][qe][re][se][ff][hf][of][pf][qf][rf][sf]
+[gg][ng][og][pg][qg][rg][sg][nh][oh][ph][qh][rh][sh][pi][ri]
+[si][nj][pj][rj][sj][lk][nk][qk][sk][hp][ip][qq][rq][sq][gr]
+[qr][sr][qs][rs][ss]C[
+(223) W 87.5 B 89.0
+(223) B+1.5])
+(;AB[jl];W[jm];B[il];W[fk]LB[hk:B][hl:A]C[If white blocks at A, black can cut at B and white is not happy.
+
+But what if white plays here instead?];B[fj];W[gj]LB[dj:B][hk:A]
+C[now black has trouble defending against both A and B];B[ek]
+;W[fl];B[hl];W[ck]))
+(;AB[qe]C[reid: How about the normal 'kick' to make white heavy?]
+;W[pf]C[If white answers with the normal extension...];B[qi]
+LB[me:B][oe:F][lf:D][mf:C][nf:A][ph:E]C[black takes white's eye space.  Now if white A, black can push and cut with B to D.  If white E, black F looks like a good attack.]
+))
+(;B[ic]C[hard for white to pick a good continuation.]
+(;W[jc]C[this is probably the best white can do, but he ends up with an eyeless liability on the top side.]
+;B[ib];W[jb];B[ha];W[je];B[kd];W[jd];B[nc])
+(;W[ib]C[this doesn't look very good for white either];B[jc]
+(;W[jd];B[jb];W[kc];B[ia];W[kb];B[ha];W[le]C[white makes slightly better shape, but black's gain is bigger.]
+;B[nc])
+(;W[jb]C[of course, white cannot crawl.];B[kc];W[kb];B[lc]))))
+(;W[hc]C[reid: If white defends, it looks a bit more difficult for black, but...
+
+reid (edit 2010-04-01): An astute observer (the GTL reviewer ZeroWave) pointed out that the conclusion of this varion is not correct.  Instead, see the next variation from the previous move]
+;B[db];W[cb];B[ea]C[reid: It doesn't look like white can kill the black stones now.  And the black stones scattered around the outside still have lots of aji, so black can be satisfied with this result.]
+(;W[ca];B[cc];W[cd];B[bc];W[bd];B[bb])
+(;W[ga];B[bb];W[ha];B[fa];W[cc];B[ca];W[bc];B[bd]C[me ari, me nashi (one eye, no eye).
+
+reid (edit 2010-04-01: An astute observer (the GTL reviewer ZeroWave) noticed that a white throw in at B19 kills black (black can get an approach move ko, but as there are no ko threats, that's the same as a kill).  Therefore we must conclude that white H17 is a serious problem for black and black does not have time to connect at F18 (he must follow the second variation starting with D18 instead of F18).]
+))
+(;AE[fb]C[reid (edit 2010-04-01): The (edited) conclusion from the previous variation is that black does not have time to connect at F18.]
+PL[B];B[db];W[cb]C[reid: If white plays anywhere else, black plays here and kills the D16 stones.]
+;B[hc];W[hd];B[he];W[ic]LB[id:A]C[reid: or white A.  There is aji either way.]
+;B[id];W[hc];B[fg]
+(;W[eb];B[fb];W[da];B[gf]C[reid: White's corner is alive, but black has connected all his stones and his outside thickness is much more valueable.]
+)
+(;W[ea]C[reid: it looks like white might connect with the badger-belly tesuji, but it doesn't quite work...]
+;B[gf]
+(;W[fa];B[da]LB[ga:B][eb:A]C[reid: A and B are miai.  Black can also start with D19 at B.]
+;W[eb];B[ga])
+(;W[eb];B[fa]))))

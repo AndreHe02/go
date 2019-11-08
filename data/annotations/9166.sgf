@@ -1,0 +1,131 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.16]
+
+PB[hc12]
+BR[4k]
+PW[twostar]
+WR[3k]
+KM[0.5]
+DT[2013-07-14]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[W+19.5]
+TM[600]
+OT[5x20 byo-yomi]
+RU[Japanese]
+
+C[twostar [3k\]: hi
+hc12 [4k\]: hi
+
+> Hello, I went over the fuseki and noticed 3 big mistakes.
+> I did my best to make them clear and propose better ways.
+> I hope you enjoy.
+
+> -- Thomas];B[pd]C[Hello . Please help me to improve my fuseki in this game . ( until move 44 )]
+;W[dd];B[pp];W[dp];B[fq];W[cn];B[dr]C[I am very good in this fuseki . C3 and H3 or J3]
+;W[nq]LB[qn:C][jp:A][lp:E][cq:B][lq:D]C[Where should I play ?
+I don't know how to response O3
+
+> I picked a few simple responses from GoBase; A didn't come up.
+
+> Notice how the pro moves relate clearly to either corner.
+
+> By contrast, when White plays B, I feel A will look vague.]
+
+(;B[jp]TR[dr]C[> This does not work so well with the triangled, low and stable stone.
+> It also lacks severity against the white stone.];W[pm];B[np]
+;W[mp];B[no];W[pq];B[oq];W[or];B[op];W[mr]LB[mo:A][qq:B]
+(;B[mo]LB[lp:A][qq:B]C[> Not the usual order.]
+(;W[lp];B[qq];W[pr]LB[pj:C][lo:B][qr:A]C[Where should be my next move ?]
+
+(;B[qr]LB[lo:B][qo:A]SQ[pd][jp]C[>Big cash, but doesn't work with your high stones. Hence, slow move.]
+
+(;W[qo];B[qp];W[qj];B[qg]LB[lo:B][cq:A]TR[dr][qr]SQ[mo]C[> Good pressure move, but you'd prefer either triangle at B.]
+
+(;W[cq]LB[lo:B][iq:A]
+(;B[iq]TR[jp]C[I think White C3 is very good and big moves .J3 is a bad moves .
+
+> C3 is quite big, but not that urgent.
+
+> Black anwsered as if the marked stone was absent. Wasted move ?]
+;W[qc]LB[pc:A][qd:B]
+(;B[pc]C[> Not sure about this direction.];W[qd]LB[pe:A][qe:B]
+
+(;B[pe];W[qe]LB[ld:A][qf:B]
+(;B[ld]TR[pf]C[> Mistake.];W[pb];B[ob];W[qb];B[pf]TR[oc][ld]
+C[I play Q14 to prevent White cut my R13 moves .
+
+> White ends with sente, and Black is too narrow.];W[fc]LB[cd:B]
+[cg:A]
+(;B[cg]C[> Feels like a thank you move.];W[ce];B[cj];W[jc]LB[jd:A]
+[ql:B]TR[ld][jp][qr]SQ[lo]C[After K17 , I am losing many points on the board . I cannot make good shape . And , black is still very weak on the left side .
+
+> Right, not very promising for Black.
+> But the left side is not so bad.
+> I would hit White on her weaker spot now at B.
+
+> Summary:
+
+> The triangled moves lacked a clear relationship to other stones.
+> 2nd line and 4th line to go together so well.
+
+> Go for simple moves that make your stones work together.]
+
+(;B[jd];W[id];B[kc];W[je];B[kd];W[ic];B[eg];W[oi];B[cr];W[br]
+;B[dq];W[cp];B[qn];W[qm];B[rn];W[rm];B[pn];W[mh];B[nl];W[ok]
+;B[nk];W[nj];B[kk];W[ko];B[cl];W[bm];B[ie];W[he];B[if];W[hf]
+;B[jf];W[lf];B[le];W[kf];B[ke];W[nf];B[ne];W[om];B[nm];W[bl]
+;B[bk];W[dl];B[dk];W[el];B[be];W[bd];B[bf];W[ae];B[cc];W[cd]
+;B[bc];W[dc];B[ep];W[eo];B[fo];W[en];B[fn];W[fm];B[gm];W[gl]
+;B[hm];W[jo];B[io];W[ek];B[ej];W[cm];B[ck];W[fj];B[ei];W[kq]
+;B[rf];W[re];B[ri];W[rj];B[qi];W[pi];B[hl];W[gk];B[jr];W[kr]
+;B[bs];W[bq];B[fi];W[gi];B[af];W[ad];B[gh];W[cf];B[bg];W[qf]
+;B[pg];W[rg];B[rh];W[sf];B[sm];W[sl];B[sn];W[rk];B[kb];W[jb]
+;B[ln];W[mk];B[ml];W[lk];B[kj];W[li];B[ll];W[jm];B[km];W[in]
+;B[hn];W[jl];B[lj];W[mj];B[kl];W[jq];B[ir];W[kp];B[ip];W[qs]
+;B[rs];W[ps];B[sr];W[on];B[po];W[oa];B[nb];W[me];B[md];W[mf]
+;B[of];W[ph];B[qh];W[og];B[fe];W[fd];B[ge];W[gd];B[gf];W[hg]
+;B[gg];W[ki];B[jh];W[ee];B[hi];W[gj];B[kh];W[lh];B[ji];W[hh]
+;B[na];W[pa];B[ja];W[ia];B[ka];W[ii];B[hj];W[ij];B[hk];W[ih]
+;B[al];W[am];B[ak];W[ef];B[df];W[fg];B[fh];W[ff];B[jk];W[jg]
+;B[jj];W[ig];B[je];W[kg];B[ol];W[pl];B[sj];W[sk];B[sh];W[sg]
+;B[nd];W[nn];B[mn];W[de];B[dg];W[js];B[is];W[ks];B[ar];W[aq]
+;B[cs];W[as];B[oo];W[pk];B[si];W[ar];B[im];W[jn];B[ik];W[tt]
+;B[tt]TW[aa][ba][ca][da][ea][fa][ga][ha][qa][ra][sa][ab][bb]
+[cb][db][eb][fb][gb][hb][ib][rb][sb][ac][bc][cc][ec][gc][hc]
+[rc][sc][ed][hd][rd][sd][se][rf][lg][mg][ng][nh][oh][mi][ni]
+[oj][pj][fk][qk][fl][ql][rl][dm][em][an][bn][dn][ao][bo][co]
+[do][ap][bp][lq][mq][lr][nr][ls][ms][ns][os]TB[la][ma][lb][mb]
+[lc][mc][nc][oc][od][oe][ag][ah][bh][ch][dh][eh][ai][bi][ci]
+[di][aj][bj][dj][lm][mm][gn][go][ho][qo][ro][so][fp][gp][hp]
+[rp][sp][eq][gq][hq][rq][sq][er][fr][gr][hr][rr][ds][es][fs]
+[gs][hs][ss])
+(;B[ql]))
+(;B[cd]C[> Standard idea to limit Whites's corner.]))
+(;B[qf]C[> This should ensure sente.]))
+(;B[qe]C[> Why yield ?]))
+(;B[qd];W[pc];B[oc];W[ob];B[nb]))
+(;B[lo]TR[ql]C[> This feels proper. Black is thick, White outside is weak.]
+))
+(;W[lo]C[> Painful for Black.]))
+(;W[lo]TR[jp][qp]C[> I would split now, seeking counterattack on either side.]
+))
+(;B[lo]LB[pj:A]TR[dr]SQ[jp]C[> This is the joseki move to work with squared stone. Of course, you would prefer having the triangled stone at A.]
+)
+(;B[pj]TR[jp]C[> This works with the wall but contradicts the earlier move.]
+;W[lo];B[ol];W[qp]TR[jp]C[> Black is not that big and the marked stone is too close to thickness.]
+))
+(;W[qq]C[> Have you considered ?]))
+(;B[qq]))
+(;B[cq]C[> cash... White will need to extend at some point.]
+;W[qn];B[oo];W[qq];B[ol]SQ[pd]C[> ...and influence ! This is the more developable direction.]
+;W[ck]C[> This is from a game where Fernando Aguilar beats a 9p, btw.]
+)
+(;B[qn]C[> simplicity...];W[hq];B[cq])
+(;B[lq]LB[pn:C][cq:A][qq:B]C[> pressure...]
+(;W[cq];B[qn])
+(;W[qq];B[pq];W[qp];B[po];W[pr];B[or];W[qr];B[oq];W[qn];B[cq]
+;W[ck])
+(;W[pn];B[np];W[mp];B[mq];W[qp];B[oq];W[qq];B[ql];W[rn];B[cq]
+;W[ck]))
+(;B[lp]C[> pressure, high variant...];W[qq];B[pq];W[qp];B[po]
+;W[pr];B[or];W[qr];B[oq];W[qn];B[fc];W[cf];B[cq];W[ck];B[jd]
+))

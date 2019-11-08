@@ -1,0 +1,206 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[utf-8]AP[SGFC:1.17]
+
+PB[usagi5]
+BR[6k]
+PW[tkumasaka]
+WR[5k]
+KM[0.5]
+DT[2010-02-17]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[B+Resign]
+TM[1500]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+C[usagi5 [6k\]: hi!
+tkumasaka [5k\]: hi
+
+This is a game I played on February 17, 2010. The game included many fights. I have added in comments.
+
+JB:  Hi, I'm Joaz Banbeck, and I'll be preceeding all my comments with my initials so that you can tell which they are.  I'll also add a summary at the end.]
+;B[pd];W[dq];B[dc];W[pp];B[co]C[Here I consider the mini-Chinese opening.]
+;W[cp];B[do];W[fq];B[ck]C[I think wC4 was a mistake; this result looks very good for black.
+JB: Yes, it was, and you refuted it perfectly. D9 was also playable.]
+;W[ce];B[ed]C[I try a shusaku's diagonal. I thought that it would be safe because white can't extend extremely far on the left side.]
+;W[bc]
+(;B[df]TR[cm][ci][cf]C[JB: This move seems incompatible with the other black stones on the left side. The weak spot for those stones is of course C7.  To fully exploit that, the attacker really needs to be at C11 or similar. Encouraging white to play C14 means that his natural 2-space extension to C11 is sente.
+Instead, you can make an extension off of your group to C12.  See variation.]
+;W[cf]
+(;B[jd]C[JB: This is big, but it leaves weaknesses at D15 and D13. See variation.]
+;W[nc];B[oc]C[I protect the corner. I think when white did this move in the lower left that it was wrong because it was only making third-line territory for white, and black could make a three-point jump.]
+;W[nd];B[pf]C[JB: Black's last two moves look really good.]
+;W[kc]C[I am not sure what I would have done if white had played K17.
+JB: You would have followed the proverb of 'when the opponent attaches, hane'.  You would have played J17.]
+;B[jc];W[kd]
+(;B[jf]C[JB: An unnecessarily timid move. He is cramped and outnumbered.  You have the advantage and you should exploit it by attacking.  See variation.]
+;W[jb];B[ib];W[kb];B[je]TR[ke]C[JB: Let's do some tewari analysis. ( BTW, if you don't recongnize the term, see http://www.361points.com/articles/1/1/ )
+If you could pick up the K14 stone and reposition it, where would you put it?  If you can say that you would stil place it at K14, then your stones are working together.  But if there are better places for it, then they are not.
+It is clearly better at L15. This tells us that  it was misplaced originally.]
+;W[qh]
+(;B[qg]C[JB: This is inconsistent with the rest of the group.  The other black stones of the group are high stones - they are being used to attack.  Now the newcomer goes the opposite direction as his teammates and tries to make territory.  See variation.
+
+Later comment: having now seen the entire game, I can say that this move is 99% of the cause of your problems in this quadant.]
+;W[ph];B[qk]C[I overlooked the weakness in my upper-right group.
+JB: No, you created the weakness in your upper-right group.  Sorry to be so blunt, but those stones were strong until their goal got twisted.]
+;W[qe];B[pe];W[rg];B[rf];W[qf]
+(;B[pg]C[JB: Maybe best, though varaiations are possible if you really want corner territory.  See variation tree ( some of which are not labeled )]
+;W[re];B[rh];W[sf];B[ri]C[I tried to gain a little from the mistake. I thought this result wasn't too bad.]
+;W[oh]
+(;B[mf]C[JB: That may be too far.  It is not clear that you can maintain a connection under all circumstances.  The idea of connecting out is a good one, generally, even if you didn't implement it perfectly.
+But, if you are concerned about the safety of your group, you can grab eyespace in sente.  See variation.
+NOTE: The major problem here is that you took several high stones that were busy attacking, and tried to convert them into territorial stones.  Now you have to try to redirect them again back out to the center.  Your stones are suffering from whiplash.]
+;W[od];B[ob];W[nb];B[rc];W[rd];B[qb]C[I tried this to make wP19 gote.
+JB: Just play the honte move at R17 or S18.  Now that he has O18, R17 is probably better.
+You are still dealing with the problem of your stones not having  access to the center where there is room to run. You have to either make two eyes - in gote if necessary - in the corner, or connect out more solidly with O14.]
+;W[sd];B[me];W[md];B[lb];W[mb];B[lc];W[ke]C[JB: You coul call off the attack here, making yourself strong, and playing whole-board moves.  See variation.]
+(;B[le];W[ld]
+(;B[la]C[JB: As Nietzche said, "that which does not kill me makes me stronger."  Are you sure that you can kill this?  See variation.]
+;W[kf];B[kg];W[nf]C[How should I respond to this?
+JB: By resolving to never let your hoshi stone get locked into the corner.
+Ok, maybe there is still a way to salvage this.  See variation.]
+(;B[ng];W[ne];B[mg];W[lg]C[In retrospect, I think I should have resonded to this at P13.]
+;B[lh];W[lf];B[mh];W[og]C[Now white has this cut.];B[of];W[kh]
+;B[jg];W[ki];B[mj]C[I think I should have played O11, to make taking away liberties for the white O12 group easier.
+JB: True.];W[oa];B[na];W[ma];B[oj]C[This move does not remove any liberties for the P12 group, but is necessary (I think) to keep it from running out. If I had played O11, I don't think I would have needed this. I could take away a liberty instead.]
+(;W[ni]C[JB: White misses the kill.  See variation.];B[lk];W[nj]
+;B[nk];W[ok];B[pj];W[sc];B[ja]C[Here I got greedy. I did not want white to get seki. I wanted it dead. I Forgot I was in danger myself.]
+;W[qc]
+(;B[pc]C[Here I notice I'm in trouble.];W[rb];B[qa];W[ra];B[oi]
+;W[pb];B[nh]C[I try for the best result possible. I lose the corner, but have a giant wall.]
+;W[qd]
+(;B[jj]C[JB: You don't need this.  Both portions of your wall are safe by themselves.  And if white wants to run with two non-cutting stones, he is just making a bigger target for black.  See variation.]
+;W[qn];B[kq]C[I thought this was the biggest point.
+JB: It may be the biggest, but not the most urgent.  You are behind, so you have to pick fights,  O3 is still unpleasant for white.]
+;W[mq]
+(;B[hq]C[JB: Again, too passive for a player who is behind on territory.  See variation.]
+;W[gp]
+(;B[gn]C[Is a cap good here?
+JB: It is not the best.  You have pushed white into starting to surround your own group. And the cap does not do much for you as long as white has D13, 
+D13 is huge for you.  It is sente ( he can't let you turn at C13 ) and it secures a big chunk of territory up top.  See variation.]
+;W[ho];B[ko]C[JB: This move neither takes territory nor threatens white, but you have to do it to avoid being killed.  This shows why G6 was no good.]
+;W[ch];B[dh];W[di]
+(;B[eh]C[JB: All of the nearby stones are black.  Any fight should favor you.  See variation.]
+;W[cj];B[ej];W[dk];B[dj];W[cl];B[bk];W[dl];B[bm];W[bl];B[al]
+;W[bj];B[ak];W[en];B[eo];W[fl];B[fo];W[hl];B[hn];W[jl]
+(;B[jm]C[JB: Contact moves tend to be defender's moves.  The attacker wants to let the pressure build by staying just a bit back, making contact only when it is time to fill liberties.  Also, the keima is stretching it here.  See variation.]
+;W[im];B[in];W[km];B[jn];W[kk];B[ll];W[kl];B[mn]C[I am trying to kill the white middle group. I didn't look like it could live, but we forgot about a white move at B6.
+JB: B6 now is sente, and then you can come back with N5 ( which is the right shape, BTW. )]
+;W[hj];B[ik];W[il];B[hk];W[ii];B[gk];W[fk];B[fj];W[gl];B[pn]
+C[I try to loosely close in a little territory. I still think this move definitely should have been B5 instead.
+JB: Yep.  You are now ahead - if you finish the containment of the newly dead stones.  Once that you realize that you are ahead, your strategy should change: instead of picking fights as was best for you when you were behind, now you want to secure things so that he cannot pick fights and fight his way back.  And you would like to do it in sente if possible. So B5 would be perfect here.]
+;W[qm];B[pm];W[ql];B[pl];W[po];B[nq]C[I try to seal in the territory, while stopping cuts around L6. Maybe it wasn't the best way to go about it, however.]
+;W[np];B[mp];W[oq];B[no];W[nr];B[bp]C[After I play this, I am instantly devistated. I should have played at B5!]
+;W[bn];B[cm]C[Could have made ko with C6, yes?
+JB: Sorry, no.  He replies to C6 with A10.  Black must connect.  Then white kills with C7.]
+;W[cn];B[kj];W[bq];B[bo];W[an];B[dn];W[dm];B[em]C[Gote move.]
+;W[lm];B[mm];W[lp];B[mo];W[lq];B[kn];W[dp];B[kp];W[cb];B[db]
+;W[da];B[ea];W[ca];B[eb];W[cc];B[ka];W[oe];B[gr];W[fr];B[rl]
+;W[rm];B[rk];W[de];B[ef];W[ee];B[fe];W[gj];B[cg];W[bg];B[dg]
+;W[bh];B[mi];W[ff];B[fg];W[gf]C[Is there anything bad white can actually do here?
+JB: Yes. You made the right decision.  J17 is a problem.  See variations on your next move if it had been a tenuki.]
+(;B[ge];W[hg];B[gg];W[hf];B[hh];W[ij];B[jk];W[ih];B[ig];W[gh]
+;B[he];W[hi];B[if];W[hh];B[fh]
+(;W[ei]C[JB: He chooses the wrong move.  See variation.];B[fi]
+;W[ci];B[jh]C[I don't think I needed this move.
+JB: Yes, you do.  He has three liberties, you have three liberties.  If you don't play it, he kills.]
+;W[ji];B[lj];W[fm];B[fn];W[gq];B[hr];W[ep];B[br];W[cr]C[Could white have done B3?
+JB: Yes - and lived.];B[aq];W[cq]C[This connection lets me kill white. White could have made a ko.]
+;B[er];W[ar];B[as];W[cs];B[ap]C[tkumasaka [5k\]: thanks
+tkumasaka [5k\]: you won
+usagi5 [6k\]: thank you for the game, it was fun
+usagi5 [5k\]: exciting fight
+
+White resigns here. I was thinking of resigning earlier in the game, myself. I white had not lost the lower left corner, I  would have lost.
+
+Thank you!
+
+JB: That was a good game. You made fewer mistakes than he did.
+I have several suggestions:
+1) Read Kajiwara's "Direction of Play".  Your biggest problems came from having a group that lost its sense of direction. ( If you can't afford a copy, at least research the concept on the net. )
+2) Become more familiar with the concepts of 'high' and 'low', so you will recognize direction more readily. You had several high stones initially in the upper right corner, but played them territorially.
+3) Count occasionally.  Have some idea whether you are ahead or behind.  Then adjust your play accordingly: if you are behind, fight; if you are ahead, play conservatively.
+4) You don't always have to kill.  Sometimes the best attacks are ones in which the victim lives small while defending in gote, so the attacker gets a wall and sente elsewhere.
+5) Read Kageyama's "Fundamentals of Go".  In particular, read the chapter entitled 'getting ahead'.  Then look at how long D13 was left unplayed.]
+)
+(;W[fi]C[JB: He threatens to kill.];B[ei]C[JB: Black's only defense.]
+;W[ci]C[JB: Now white is ahead in the killing race, by 3 liberties to 2.]
+;B[jh];W[ek];B[gi]
+(;W[ji]C[*** mis-click ***])
+(;W[fi]C[*** delete this ***])
+(;W[ic]C[JB: White makes a big ko threat, worth over 20 points.  Black must let him have it or else...]
+;B[hb]C[JB: If black defends...];W[fi]C[JB: Now white has a ko worth about 55 points.]
+;B[cr]C[JB: Black has ko threats too.  It is hard to say who wins.]
+)))
+(;B[ss];W[fd];B[ge];W[he];B[gd];W[gc]
+(;B[hd]
+(;W[hc];B[id];W[ic])
+(;W[fc]))
+(;B[fc];W[hd];B[fd];W[ic];B[hb]
+(;W[hc])
+(;W[gb];B[hc];W[ia];B[ha];W[mc];B[ia];W[ga]))))
+(;B[im]C[JB: You stay connected, he gets heavy.];W[il];B[km]
+C[JB: Now he is dead ( well, except for that little problem around B6 )]
+))
+(;B[cg]
+(;W[eh];B[dg];W[bg];B[bh])
+(;W[bg];B[dg];W[ci])))
+(;B[dg];W[cg];B[dh]C[JB: This just keeps getting better for you.  White makes two points per push, and you make five points per push. And you keep threatening to turn on him if he stops pushing.  The weak keima at D14-E16 gets repaired by this too.  A winner for black all around.]
+))
+(;B[oq]C[JB: You have the wall and you are behind.  Start a fight.]
+))
+(;B[nq]C[JB: Use the wall.]))
+(;B[qd];W[rb];B[pc];W[rc];B[pa];W[na];B[ka];W[ra];B[ia];W[qa]
+;B[mc];W[pb]))
+(;W[pc]C[JB: I haven't read out all possible variations for white here, but this move looks rough for black. :)]
+(;B[qc];W[pb];B[qd];W[qa]
+(;B[qi];W[sc];B[pi];W[oe];B[oi];W[rb])
+(;B[ra];W[sb]
+(;B[pa];W[sc]C[JB: This looks like a ko, but white can bypass it by coming around the back side.  Black dies here too.]
+)
+(;B[sc];W[pa];B[qi];W[oe];B[rb];W[sa])))
+(;B[pb];W[qd];B[qc];W[oe];B[pc];W[sc]
+(;B[sb];W[ra]
+(;B[qi];W[pa];B[qa];W[rb])
+(;B[rb];W[pa];B[qa];W[sa])
+(;B[qa];W[na];B[qi];W[pa];B[rb];W[sa]))
+(;B[pa];W[na]
+(;B[qi];W[rb])
+(;B[sb];W[ra];B[qi];W[rb])
+(;B[ra];W[sb];B[rb];W[sa])))))
+(;B[ne]C[JB: Feint on the 15th rank...];W[oe];B[ng]C[...while the real goal is to connect on the 13th.  Note that play here is guided by the recurring theme of hetting the hoshi stone reconnected to the center.]
+;W[of];B[og];W[mg];B[mh]
+(;W[lf];B[lg];W[mf];B[nh])
+(;W[lg];B[lh];W[lf];B[nh])))
+(;B[kf]C[JB: Again, you could call off the attack while you are connected .]
+;W[la]C[JB: He has to defend in gote or die.];B[qn];W[nq];B[nn]
+C[JB: All of white's groups are peripheral.  Black is going to kick butt in the center.  If black gets to play D13, the game is over.]
+))
+(;B[kf];W[le];B[lf]))
+(;B[rc]C[JB: Threaten to kill.];W[rd]C[JB: The only reasonable defense.]
+;B[rb]C[JB: Just a tad better than R17, I think. Threatens to kill with T16.]
+;W[sd]TR[nf][mf][qn]C[JB: White must eventually play this or die.  Now black has eye space. And he got it in sente.
+All three triangles look like good moves. ( Ireally can't say which is best. )]
+))
+(;B[qd];W[pg]
+(;B[re]C[JB: Gets the territory, but at the expese of the center.  Probably not best.]
+)
+(;B[qn]C[JB: Black now owns the rights to S16 when he wants it.]
+(;W[re]C[JB: Risky for white.];B[nq])
+(;W[nq]
+(;B[re]C[JB: Now white has a six-stone eyeless group with little room to expand. ( maybe black should play O14 first )]
+)
+(;B[nf]
+(;W[re];B[ob]C[JB: Ithink that white dies here.])
+(;W[me];B[re]C[JB: I think that black can force this sequence.  Black is safe in the corner, moderately safe on the side, and white has two iffy groups.  It looks like a win for black.]
+))))))
+(;B[og]TR[oc][pd][pf]C[JB: Ask yourself: what are my three stones doing?  Or ask them what they are doing.  They are attacking.  Their sole function right now is to constrain the weak white stones.  So when you add a stone to the group, be consistent.  Continue attacking.  See notes further in this variation.]
+;W[rf]C[JB: Are you worried about this?  Don't be - your stones are better than his.]
+;B[mb];W[nb];B[le];W[ld];B[ja];W[ka];B[ob];W[ma];B[lb];W[me]
+;B[mc]C[JB: This is just one possible sequence.  White is clearly in trouble.]
+))
+(;B[ke]C[JB: As the proverb says, 'hane at the head of two stones without looking."  This is a strong move in almost any situation.  When he is already cramped, it may be deadly.]
+))
+(;B[dg]C[JB: Locally, this is a must-play move for black.  If you chose to play D14 and he replies with C14, you must continue with D13.]
+))
+(;B[ch]C[JB: Here, your left side group is strong, and you are threatening both B18 and D14.]
+;W[df];B[ff]))

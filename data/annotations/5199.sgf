@@ -1,0 +1,182 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+PB[iigor]
+BR[12k]
+PW[TCHATTE]
+WR[11k]
+KM[0.5]
+DT[2006-06-20]
+PC[The Kiseido Go Server (KGS) at http://kgs.kiseido.com/]
+RE[B+20.50]
+TM[1200]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+C[Hello,
+
+> Im not good enough to make proper questions, so i have to apologize
+> i didnt do that. I just ask to show me important points of the game
+> and some attack possibilities. Thank you very much!
+
+first a small general remark -- you would usually learn more by chosing a closer game for review. It is also very good to try to first review the game for yourself.
+
+There are some direction of play errors in the opening, but that is not all that important on your level.  More importantly, both players made several bad shape errors both in attack and defense.  I would recommend watching and replaying games of strong players, in order to get feeling for the correct shapes.
+
+On several places, I present some wild variations regarding possible moves I consider better.  If I made mistake in some of them, I apologize.  Note also that you should only play the variations that you can read out to give you satisfactory result -- so please take them more like an inspiration, playing moves that make things too complicated is not a good idea, especially if you are leading.]
+;B[pd];W[dp];B[pq];W[dd];B[qo];W[qi]LB[dj:D][dp:B][jp:A][pp:C]
+C[Splitting this side does not seem very urgent to me.  White risks something like the variation, allowing the opponent to take two big points and getting a relatively weak group in the process.   A is the biggest move now (it is a common extension from B and C).  If you are good at building great moyos, you might consider D.]
+
+(;B[qk]LB[qg:A]C[I think this is wrong direction; black should approach from the weaker group, at A.]
+;W[qf];B[qe]
+(;W[of]C[This leaves an unnecessary weakness, and does not put too much pressure on black; Q14 is better.]
+;B[pf]LB[nd:A][of:B]C[I think black should just play at A.  Since white played B, his group is quite weak, and there may be better ways how to use it than this.]
+;W[pg];B[pe];W[qg]LB[nd:C][qf:B][qg:A]TR[ng][og][nh][oh]C[A looks weird.  The shape is overconcentrated, and B is not really important, so there is no need to protect it.  Outside is way more important here; white should connect at one of the triangled points.  Such a connection is also more or less sente, as black does not want to get closed in the corner by C.]
+
+(;B[jp]C[K3 is better, ...];W[hq]C[... as K4 is opened to this.]
+;B[cj];W[cf];B[cn]
+(;W[co];B[dn]C[Possible, but after this exchange, black's shape is efficient, while white still has a weakness in the corner.]
+;W[ho]LB[ep:A][fp:B][cq:C]C[This move leaves a lot of bad aji (moves at A, B, and C all look very unpleasant).  White should play at B instead.]
+;B[gp];W[hp];B[eo]LB[eo:B][ep:C][gp:A][cq:D]C[A is good.  B makes it too easy for white, he can connect easily.  C or D look more appropriate.]
+
+(;W[gq];B[fp];W[fq];B[ep]LB[ep:A]C[Sequence to A achieves nothing; it is also a bad shape (empty triangle).]
+;W[dq];B[eq];W[er];B[jq]LB[jc:B][lq:A]C[This move is weird.  The ironpillar is a strong shape, good for attacking, but there is nothing to attack. A is better for taking territory, but there are still much bigger moves (like B).]
+;W[jd]LB[jc:A]C[Better at A.  Noone is going to get a big moyo in this game.]
+;B[ld]LB[lc:B][ld:A]C[If the black's aim is to attack the white group on right side, this is OK.  B would be better for taking territory.]
+;W[ne]C[This helps black a lot.  It does not split him, and forces him to fix his weakness around O16.  It also does not help white at all; if anything, his group is weaker after the exchange.]
+;B[nd];W[me];B[md];W[gc]LB[qm:A][oo:C][mq:B]C[This will be a very difficult game for white now.  He is a bit behind on territory, and the weak group on left side will make it very difficult to reduce black significantly.  Black is a bit weak around A and B, but any attempt to invade there will put the white group in danger.  Any attempt to strenghten the group first would allow black to reinforce at C.]
+;B[le];W[qm];B[pk];W[om];B[nk];W[mm];B[mo]LB[nh:C][oo:D][mp:B]
+[np:A]C[This shape is weird, leaving the weakness at D. A or B look more proper.  Attacking directly at C also looks possible to me, although you risk losing the K4 group that way.]
+;W[nn];B[no];W[oo]
+(;B[pn]C[Just playing to get sente like in the variation might be better, although the empty triangle obtained that way indicates that something is wrong.]
+;W[pm];B[on]C[This leaves some aji, and allows white to settle more easily.]
+;W[qn];B[po];W[ro]
+(;B[qq]LB[km:A]C[There is no reason why not to play s4.  White should play at A now, or he risks to die with one of the groups.]
+;W[rp]
+(;B[pi]C[Bad, helps white get stronger.]
+(;W[og]LB[og:A]C[This is slow, white must get into center urgently.  Cut at A is not important, as he can give up part of the group.]
+;B[mg];W[qj];B[oj]LB[pj:A]C[Better at A.];W[nh];B[mh];W[ni]
+;B[mk]LB[mi:B][lj:A][lk:C]C[A looks like a better shape to me, but it still does not prevent white from breaking out.  Pushing again at B looks promising, but the variations are complicated.  It might have been better better to jump out to C in move 65 and continue attack on both sides.]
+;W[mi];B[li];W[lj];B[lk];W[mj];B[lm];W[rq]
+(;B[rr];W[ll];B[kl];W[ln]
+(;B[ml];W[mn];B[kj];W[lh];B[ki];W[lg]
+(;B[kn]LB[lp:A]C[Bad; you push white to make a move he wanted to anyway.  It's better to defend at A.]
+;W[lo];B[mq];W[rm];B[rk];W[sn];B[ec]LB[dc:A]C[A looks like a better point to invade.]
+;W[dc];B[fd];W[gd];B[fe]LB[eb:A]C[White is connected at A, so this does not achieve much.]
+;W[ge];B[ff];W[gf];B[fg];W[dh]LB[eb:A]C[Black must now descend to A to split white, or his invasion is a complete failure.  Black cannot be easily closed in, so it is worth a try.]
+
+(;B[ei];W[hm]C[Small, and unimportant.];B[kg];W[lf];B[kf];W[kh]
+;B[jh];W[mf];B[if]LB[eb:A]C[Black should split white first at A.]
+;W[eb];B[fc]C[Bad shape, achieves nothing.];W[fb];B[hb]
+(;W[gb]LB[jc:B][kc:A]C[Too submissive; there are lot of variations, but it seemse that white will win the semeai if he plays at A. If he is not sure of the outcome, at the very least he must play at B, but since he may connect at G18 any time things start to look too complicated, there is little to fear.]
+;B[jc];W[ic];B[jb];W[ib];B[ia];W[hc];B[kd];W[rc]LB[oc:B][oe:A]
+C[A is sente for black, so this has no chance to live (black will not answer peep at B by connecting).]
+;B[re]LB[rd:A]C[Better at A, takes more lberties.];W[pb];B[ob]
+;W[oc];B[nb];W[hk];B[fl];W[di];B[dj];W[eh];B[fh];W[fi];B[ej]
+;W[gi];B[gh];W[hi];B[hh];W[gl];B[lp];W[ko];B[jo];W[jn];B[km]
+;W[in];B[ii];W[bo];B[bn];W[fm];B[bh];W[bg];B[ch];W[cg];B[em]
+;W[fk];B[el];W[ek];B[dk];W[fn]LB[ng:B][ir:A]C[Very small. A is much bigger.  White should also be careful, because B starts to look dangerous (but does not work yet, see the variation).]
+
+(;B[de];W[df];B[ef];W[ce];B[ci];W[dg];B[kp];W[nm];B[id];W[oe]
+;B[od];W[pc]C[This move can be ignored, white cannot live here.]
+
+(;B[rb];W[qb];B[ra];W[ha];B[ja];W[ir];B[jr];W[do];B[en];W[js]
+;B[ks];W[is];B[kr];W[sr];B[rs];W[qp];B[pp];W[rf];B[se];W[rj]
+;B[sh];W[rh];B[sj];W[sg];B[si];W[ph];B[il];W[ik];B[jk];W[fj]
+;B[ga];W[fa];B[ao];W[ap];B[an];W[bq];B[iq];W[hr];B[ij];W[hj]
+;B[hl];W[im];B[jl];W[gk];B[aq];W[ar];B[he];W[hf];B[ie];W[hg]
+;B[ig];W[ee];B[sf];W[rg];B[sl];W[sm];B[ag];W[af];B[ah];W[oi]
+;B[pj];W[go];B[sq];W[sp];B[ol];W[nl];B[pl];W[nj];B[ok]LB[ed:B]
+[ok:A]C[No need to answer at A just now, black may play B instead.]
+;W[ed];B[ih];W[ri];B[sk];W[sq];B[io];W[fo];B[tt];W[ss];B[qr]
+;W[cl];B[dl];W[bk];B[tt]C[Black is so much ahead that it does not make sense for him to take any risks and to pass here, even though white really cannot do anything here.]
+;W[bj];B[cm];W[tt];B[tt]LB[gb:L][hb:K][ec:H][fd:I][ne:M][qe:B]
+[pf:C][qf:A][qg:D][qm:J][dn:F][kn:N][co:E][fp:G]TW[aa][ba][ca]
+[da][ea][ga][ab][bb][cb][db][ac][bc][cc][ad][bd][cd][ae][be]
+[de][bf][nf][mg][ng][mh][oh][qh][gj][gm][gn][hn][rn][so][bp]
+[cp][aq][cq][br][cr][dr][fr][gr][as][bs][cs][ds][es][fs][gs]
+[hs]TB[ka][la][ma][na][oa][pa][qa][sa][kb][lb][mb][pb][qb][sb]
+[kc][lc][mc][nc][oc][pc][qc][rc][sc][jd][qd][rd][sd][je][ke]
+[jf][jg][ai][bi][ji][aj][bj][jj][ak][bk][ck][kk][al][bl][cl]
+[ll][am][bm][dm][oo][mp][np][op][kq][lq][nq][oq][lr][mr][nr]
+[or][pr][ls][ms][ns][os][ps][qs]C[Quick summary:
+
+After A, B, white should extend to C.  After black C, white should connect outside, not to create an overconcentrated and weak group by playing at D.
+
+After the E, F exchange, white must reinforce the group, perhaps at G.
+
+H and I are bad, since they do not separate white.  When they escape to the outside, it is urgent for white to connect and for black to split there.
+
+Invading at J when white has a weak group at D is not a good idea.
+
+Answering K by L lacks fighting spirit.
+
+M and N are thank-you moves.])
+(;B[tt]
+(;W[ra];B[sb]
+(;W[rb];B[sc];W[sd];B[rd])
+(;W[qb];B[pa];W[qd];B[rd])
+(;W[qc];B[sc];W[sd];B[rd])
+(;W[sc];B[qb]
+(;W[rb];B[qc])
+(;W[qc];B[rb])
+(;W[qd];B[rd];W[qc];B[rb])))
+(;W[rb];B[qa];W[pa];B[sc]
+(;W[rd];B[sd]
+(;W[qd];B[sb];W[qb];B[ra];W[sa];B[ra])
+(;W[qb];B[sb]))
+(;W[sd];B[rd];W[sb];B[ra])
+(;W[ra];B[sb];W[sd];B[rd]))
+(;W[sb];B[ra])
+(;W[qb];B[ra])
+(;W[rd];B[ra];W[qa];B[qb];W[pa];B[rb]
+(;W[sb];B[sd])
+(;W[sd];B[sb]))))
+(;B[ng];W[nf];B[mg];W[oi];B[pj];W[ph]))
+(;W[kc]
+(;B[gb];W[ic])
+(;B[ic];W[id]
+(;B[kb];W[lb];B[jc];W[kd];B[ja];W[lc];B[gb];W[ib]
+(;B[hc];W[hd];B[ga];W[ia];B[db];W[cb];B[gg];W[la];B[hf];W[ka]
+;B[jb];W[da];B[he];W[fa])
+(;B[ia];W[hc];B[jb];W[ga]))
+(;B[jb];W[kb];B[gb];W[ia];B[ja];W[ka];B[hd];W[he];B[hc];W[ie]
+;B[jc];W[kd];B[lc];W[ga])
+(;B[jc];W[kd];B[kb]))
+(;B[jb];W[kb]
+(;B[id];W[ic]
+(;B[hc];W[hd];B[ie];W[jc];B[ib];W[gb])
+(;B[jc];W[kd];B[hc];W[ie];B[hd];W[he]
+(;B[je];W[gb];B[ib];W[ja];B[lc];W[ha];B[ke];W[ia])
+(;B[gb];W[je];B[ia];W[ga])))
+(;B[hd];W[hc];B[ic];W[he];B[id];W[ie];B[je];W[jc];B[ib];W[gb]
+))))
+(;B[eb]
+(;W[gi];B[gh];W[hh];B[fi];W[gj];B[fj])
+(;W[fi];B[gh];W[gi];B[hh];W[hi];B[ih])))
+(;B[lp];W[lo];B[op];W[jn];B[in];W[jo];B[io];W[ip];B[im];W[jm]
+;B[jl];W[il];B[gn];W[rl];B[rk];W[sn]C[White is siill cut and must make life inside.]
+))
+(;B[mn];W[km];B[nm];W[nl];B[ml];W[nn];B[lm]C[white cannot win both ko's.]
+))
+(;B[ki];W[kj]C[W gets out, but he still is not completely safe.]
+))
+(;W[mh]
+(;B[og];W[oh];B[ng];W[nh];B[nf];W[mg];B[oe];W[mf];B[of];W[ph]
+)
+(;B[oh];W[og];B[mg];W[nh];B[lg];W[mj];B[mk];W[ki]LB[ng:A][oi:B]
+C[Cut at A does not work because of B.])))
+(;B[km];W[mk];B[nl];W[nm];B[mj];W[lk];B[ni];W[mg];B[ki];W[jk]
+;B[oh];W[og];B[kg]))
+(;B[rp]))
+(;B[op];W[po];B[pp];W[qn]
+(;B[nh])
+(;B[ro])))
+(;W[ep]
+(;B[fp];W[fo];B[go];W[fq];B[gq];W[gr];B[gn];W[fr])
+(;B[fo];W[gq])
+(;B[go];W[gq])))
+(;W[bp]LB[cl:A][fq:B]C[This seems better to me; it protects corner, and aims at A.  Black cannot go to B directly, as this would further weaken his right side group.]
+))
+(;B[jq];W[hq];B[lp]))
+(;W[pf];B[nc];W[jp]))
+(;B[qg];W[ql];B[jp]))

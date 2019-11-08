@@ -1,0 +1,123 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.16]
+
+GN[Challenge from msambol]
+PB[GnuGo2]
+BR[26k]
+HA[5]
+PW[msambol]
+WR[24k]
+KM[5.5]
+DT[2013-02-18,2013-02-25]
+PC[Online Go.com: http://www.online-go.com]
+RE[B+37.5]
+RU[Japanese]
+GC[Game ID: 405852]
+
+AB[dd][pd][jj][dp][pp]PL[W];W[fq];B[cn];W[dr]
+(;B[cq]
+(;W[jp]TR[fq]C[This large knight move is too wide in this situation. Ik is beter to play K4 on J3. That way, you have a living group that can't be attacked that easily (see variation at move 4).
+
+If black omits C3, then this move isn't so urgent (see variation at move 3) because white can easily live in the corner.]
+;B[dj];W[nq];B[qn]TR[jp][fq][nq]
+(;W[pi];B[qk];W[qf];B[nc];W[ri]C[Necessary to make a base for your stones. Compare to the variations at move 8 to see the difference when it isn't so urgent to play this move.]
+;B[jd];W[of]LB[fc:B][cf:A]C[There are more urgent points around A and B.]
+;B[qe];W[re];B[rd]
+(;W[pe]C[This move destroys the aji in the corner, created by this sequence. Better is to connect (see variation).]
+;B[qd];W[rf];B[cr];W[dq]TR[dp][cq][cr]SQ[dr]C[You have to avoid this shape, the hane at the head of two stones. The white group is losing liberties fast and D1 is sente for black and creates bad shape.]
+
+(;B[np]
+(;W[mp]LB[op:2][oq:1]C[I think this move is solid but too slow. I would recommend to push first at 1. Black can't make his hanging connection and you also peep at 2, threatening to cut.]
+;B[oq];W[nr];B[no];W[mo];B[nn];W[mn];B[or]LB[mq:A]TR[np][oq]
+SQ[nq][nr]C[Here you need to protect the cut at A because the marked white stones have a shortage of liberties (see a recurring shape?).]
+;W[ep];B[do];W[fc];B[cf]C[Ok]
+(;W[dc]C[See variation.];B[mq];W[mr];B[cc];W[db];B[ed];W[ic]
+LB[ic:1]TR[jd]C[Approaching the marked black stone with 1 (4th row stone via the 3rd line) isn't always advisable (see situation at black 46 and variation after this move).]
+
+(;B[jc];W[id];B[ie]TR[jc][jd]SQ[ic][id]C[Or this (!) This is very good for black.]
+;W[he];B[je]
+(;W[hf];B[hd]TR[jc][jd][ie]SQ[ic][id]C[And this is why it is good for black.]
+;W[gc];B[hc];W[cb];B[lq];W[lr];B[kq];W[kr];B[kp];W[jq];B[ko]
+;W[km];B[bc];W[bb]TR[ko][kp][kq][lq][mq]SQ[mn][mo][mp]C[The black marked stones still aren't captured and the white marked stones are too important to lose! White 63 is too small. Better to safely capture the black stones.]
+;B[gd];W[fn];B[fd];W[nk];B[ib];W[gb];B[ds];W[es];B[cs];W[fr]
+;B[jo];W[io];B[ip];W[hp];B[iq];W[jr];B[hq];W[gp];B[in];W[ho]
+;B[jm]TR[in][jo][ko][kp][kq][lq][mq]SQ[km][mn][mo][mp]C[As you see, this is a very vital point in the game. And together with the top left corner, I think these are your 2 most important mistakes (and cost you the game). The white stones are very vulnerable!]
+;W[kn];B[jn];W[kk];B[kl];W[ll];B[ln];W[jl];B[mm];W[nm];B[lp]
+;W[ml];B[lo];W[ol];B[il];W[kj];B[mf];W[kg];B[mh];W[ji]C[Good move, compare to the situation when black should play here.]
+;B[ij];W[ii]LB[ki:A]C[Protect you cutting point at A!];B[ki]
+;W[li]
+(;B[lh];W[kh];B[hj];W[hi];B[nd];W[ni];B[oe];W[pf];B[nf];W[ng]
+;B[lf];W[kf];B[ke]LB[kf:19][eg:B][eh:A]C[A or B are more interesting than white 119.]
+;W[ef];B[nh];W[oh];B[dh];W[fh];B[ff];W[fg];B[fe];W[dg];B[cg]
+;W[ei];B[ch];W[ej];B[cj];W[ek];B[ee];W[dk];B[bl];W[ck];B[bk]
+C[Reducing ok and the rest is endgame.
+
+I think generally you lost the game via the sequences in the upper left corner and the bottom middle area i.e. the variations in the review.
+
+For handicap games, certain tips I can give:
+1. Don't play heavy shapes that you know that are weak and will certainly be cut of or shut out from the center of the board. You are outnumbered in handicap games and black's sole objective is to attack, attack and attack.
+2. Try to avoid slow or heavy moves, play light and make shapes that have a lot of eye shape/potential eye shape.
+3. Try to make dual purpose moves i.e. which move creates a base and probes a corner/creates a cutting point/...
+
+Also one or two general remarks:
+Don't create situations were you reduce the liberties of your own stones i.e. the hane at the head of 2 stones situations which occured 3 times in this game and created a lot of problems for white. Also, always try to evaluatie if stones can de sacrificed or not and if enemy stones are truly captured i.e. the white stones at N5! Lastly, don't follow your enemy around too much, always evaluatie if you really need to answer at the local situation or if you can play tenuki.
+
+I hope this review will be of help to you.
+Kind regards,
+
+Philip / Cornucopia (KGS/DGS)];W[cm];B[bm];W[dm];B[ab];W[on]
+;B[oo];W[pn];B[qo];W[qm];B[rm];W[ql];B[rl];W[qj];B[rj];W[pk]
+;B[rk];W[gj];B[gk];W[fk];B[hk];W[gl];B[si];W[sh];B[sj];W[rh]
+;B[gg];W[gi];B[gf];W[hg];B[se];W[sf];B[sd];W[di];B[ci];W[hm]
+;B[hl];W[gm];B[im];W[eo];B[ns];W[ms];B[os];W[lm];B[mn];W[if]
+;B[df];W[eg];B[dn];W[en];B[aa];W[ba];B[ac];W[hb];B[ec];W[eb]
+;B[ha];W[ga];B[ia];W[mi];B[ge];W[gh];B[jf];W[jg];B[mg];W[og]
+;B[cl];W[dl];B[hn];W[gn];B[po];W[pm];B[lg];W[eh];B[jk];W[kl]
+;B[ir];W[gq];B[tt];W[tt];TW[ca][da][ea][fa][fb][ig][pg][qg]
+[rg][sg][hh][ih][jh][ph][qh][fi][ki][oi][qi][fj][lj][mj][nj]
+[oj][pj][lk][mk][ok][el][fl][nl][pl][em][fm][om][fo][go][fp]
+[ip][eq][hq][iq][er][gr][hr][ir][fs][gs][hs][is][js][ks][ls]
+TB[ja][ka][la][ma][na][oa][pa][qa][ra][sa][jb][kb][lb][mb][nb]
+[ob][pb][qb][rb][sb][ic][kc][lc][mc][oc][pc][qc][rc][sc][ad]
+[bd][cd][id][kd][ld][md][od][ae][be][ce][de][le][me][ne][af]
+[bf][ag][bg][ah][bh][ai][bi][aj][bj][ak][ik][sk][al][sl][am]
+[sm][an][bn][rn][sn][ao][bo][co][mo][ro][so][ap][bp][cp][mp]
+[op][qp][rp][sp][aq][bq][pq][qq][rq][sq][ar][br][pr][qr][rr]
+[sr][as][bs][ps][qs][rs][ss]C[Result: B+37.5]N[RESULT])
+(;B[kh];W[lh];B[jh]
+(;W[ih];B[jg];W[jf];B[ig];W[if];B[hg];W[gg];B[hh];W[hi];B[gh]
+;W[fh];B[gi]LB[gf:C][if:10][jf:8][kf:B][fg:D][gg:12][hg:11]
+[ig:9][jg:7][kg:6][lg:A][fh:16][gh:15][hh:13][jh:5][kh:3][lh:4]
+[gi:17][hi:14][ki:1][li:2]TR[ij][jj]C[Black escapes and solidifies his territory while white can capture 2 black stones (marked) and is left with multiple cutting (i.e. A, B, C and D) points which he cannot cover all at the same time.]
+)
+(;W[ig];B[ih];W[hi];B[hh];W[gh];B[gi];W[hj];B[gg];W[fh];B[hg]
+LB[gg:14][hg:16][ig:7][kg:5][fh:15][gh:11][hh:10][ih:8][jh:6]
+[kh:3][lh:4][gi:12][hi:9][ki:1][li:2][hj:13]C[And black escapes again]
+)))
+(;W[gd];B[hf];W[gf];B[fe];W[ge];B[hg]LB[gd:1][fe:4][ge:5][gf:3]
+[hf:2][hg:6]C[Could be a variation with white 1 covering the cutting point but as you see the result is still better for black. If you compare this with the variation at move 36 you will see that that result is still better.]
+))
+(;B[id];W[hd];B[he];W[gd];B[ge]LB[gd:4][hd:2][id:1][ge:5][he:3]
+C[White is completely sealed in.]))
+(;W[db];B[cc];W[hd]LB[db:3][cc:4][fc:1][hd:5][ld:A][cf:2]C[Personnaly, I would play this sequence or a variation.
+It is light and not as easy to attack as one may think. Also, with white 5, you hace access the center of the board. Also, an invasion at A is beginning to become a threath for black.]
+))
+(;W[oq];B[op];W[mp]LB[mp:3][op:2][oq:1][qr:A]C[See also that white can still play A to further reduce the corner.]
+))
+(;B[ds]
+(;W[er])
+(;W[es];B[er];W[cs];B[eq]
+(;W[ds];B[fs];W[bs];B[br]C[The white stones are captured.])
+(;W[fr];B[ds];W[dr]C[White loses territory and black can hane again with the marked stone.]
+;B[fp]))))
+(;W[rf]C[Black plays tenuki.
+Then this sequence can arise.]
+(;AW[ob][qc][rc]AB[qd][sd]LB[ob:5][qc:3][rc:1][qd:4][sd:2]C[If black blocks white can create this group, which isn't that easy to kill when you read this out. Also, black is not yet that strong on the outside.]
+)
+(;AW[rc][sd]AB[qd]LB[rc:1][qd:2][sd:3]C[If black connects, white takes a bite from the corner.]
+)))
+(;W[qi]LB[qf:A][qi:9][ql:B]C[White 9 is better played here, it is more resilient to attack as you can make a base at either side (A and B are miai) and apply presure on one of both corners.]
+
+(;B[qf];W[ql];B[jd];W[pr];B[qq];W[fc])
+(;B[qk];W[qf];B[nc];W[ic])))
+(;W[iq]))
+(;B[hq];W[cq]))

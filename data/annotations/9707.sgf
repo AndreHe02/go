@@ -1,0 +1,150 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.16]
+
+PB[jpro]
+BR[13k]
+HA[3]
+PW[DrK]
+WR[10k]
+KM[0.5]
+DT[2014-05-02]
+PC[OGS: http://online-go.com/game/587797]
+RE[B+1.5]
+RU[Japanese]
+
+AB[pd][dp][pp]C[28 Feb 2015
+
+Hi, my comments are preceded by my initials, "NR".
+
+Overall comments
+------------------------------ 
+1) Keep it simple.
+2) Apologies for not getting in lengthly analyses - I am not strong enough to do that, though I feel that I touch upon a number of points that you can benefit from. I am open to feedback :)
+3) Kiseido "K16: Handicap Go" may be a book you would like to read. I haven't. And I should :) check it out here: http://www.kiseido.com/Begin3.htm#K15]
+;W[dc];B[ce];W[gc];B[fd]
+(;W[gd];B[fc]LB[fb:A]TR[dc][gc]C[NR: If you chose to play G17, I understand you need to try and keep  your marked stones connected. Move at A seems to be the only continuation move. See variation to see how black gets in trouble.]
+
+(;W[de];B[ee];W[df];B[dd];W[cd];B[ed]LB[cc:A]
+(;W[cf]C[NR: With this move I understand you decide to give away the corner. But it's too big. White seems to have completely failed in this corner, while black got points, strength, and still has the possibility to get out towards the centre (i.e. not closed in yet).]
+;B[cc];W[be];B[bc];W[gf];B[jd];W[db];B[eb];W[fb];B[gb];W[hb]
+;B[fa]
+(;W[md];B[hc];W[ib];B[ge];W[hd]LB[he:A]C[NR: Here black needs to sacrifice 1 stone and get out and connect his stones.]
+
+(;B[ic];W[he]LB[jb:A]TR[md]C[NR: Again, black here should leave the 1 stone. Playing at A is good: connects black stones, begins to weaken marked white stone.]
+;B[fe]LB[jc:B][je:A]C[NR: I am thinking that White could benefit more by getting side points instead of trying to save the four stones. See variation I consider.]
+
+(;W[je];B[jb]LB[id:3][ie:2][hf:1]C[NR: Not every atari is a good one. What exactly does white gain here? Just reducing liberties by 3 to 2, and making black stronger (at least more "connected").]
+;W[id];B[jc];W[ke]
+(;B[ck];W[ci];B[cn];W[nq];B[lq];W[qn];B[np]LB[qf:A][qq:B]C[NR: Maybe a move at B is possible here?]
+;W[qf]C[NR: It feels that the bottom right corner is unfinished.]
+;B[qh];W[qk];B[pf]LB[pg:A][qg:B]C[NR: Also consider move at B. You can connect your stones.]
+
+(;W[pg];B[qg];W[pe];B[of];W[oe];B[qe];W[qd];B[rf]C[NR: This looks like a big success for black.]
+;W[pc];B[od];W[ne];B[qc]LB[rd:A]C[NR: A stone attacked on the third line usually becomes useful if you extend once. Extending here at A allows white to fight a bit. And I think it ends up sente for White. Check the sequence.]
+
+(;W[oc];B[rd];W[qb]C[NR: Both black and white seem to leave sequences unfinished. The corner fight is still on...]
+
+(;B[iq]LB[fq:A][dr:B]C[NR: Now it already feels difficult to play at A. I have seen moves at B, and you may like to investigate further.]
+
+(;W[fq];B[eq];W[fp];B[hf]C[NR: Black finally gets this "free" move.]
+;W[ie];B[fg]LB[gg:B][hg:A]C[NR: B looks better.]
+(;W[hg];B[gg];W[if]LB[ff:C][eg:A][ei:B]C[NR: Black doesn't have to play  the bamboo joint at A. White cannot cut at C. So black has the flexibility to play a move like B (more useful for the centre fights that may follow).]
+;B[eg];W[io];B[oq];W[rp]
+(;B[di];W[dh];B[ei]LB[mp:B][kq:A]C[NR: Sequence starting with B, may be more interesting.]
+
+(;W[kq];B[kr];W[lr];B[jr];W[mq];B[lp];W[mp];B[mr];W[lo]
+(;B[kp]
+(;W[nr]C[NR: Now black is split.];B[ls];W[no];B[or];W[os];B[ps]
+;W[ns];B[qr];W[op];B[rq];W[qp];B[rs];W[po];B[qq];W[ko]LB[pj:A]
+C[NR: You could have gotten this move in sente, if played as indicated in move 91.Black could now choose to press at A, reducing potential for white moyo here.]
+;B[mg]LB[ng:A][nj:B]C[NR: A move around B looks more valuable, making moyo.]
+;W[ng];B[nf];W[mf];B[mh];W[nj]TR[mf][nf][mg]C[NR: and here is the point I noted earlier, only preceded by unnecessary exchange.]
+;B[oi];W[oj];B[nd];W[me];B[nc];W[rc];B[qd];W[sc];B[pb];W[ra]
+;B[ob];W[sb];B[kg];W[ih];B[ki];W[gh];B[fi];W[hj];B[kk];W[kh]
+;B[jh];W[ji]LB[jg:A][lh:B]TR[ki][kk]C[NR: Better take at B, to help also marked stones.]
+
+(;B[jg];W[kj];B[li];W[lj];B[jj];W[ii];B[mj];W[lk];B[mk];W[ll]
+;B[hl];W[jk];B[ho];W[hp];B[ip];W[fo];B[hn];W[cq];B[er];W[cp]
+LB[co:B][do:A]C[NR: I think B is better for black, taking away a liberty from white. White cannot save both groups.]
+
+(;B[do]
+(;W[bn]C[NR: Overplay? Check variation.];B[bo];W[co];B[bm];W[bp]
+;B[an];W[br];B[aq];W[ap]
+(;B[ar]LB[dr:B][cs:A]C[NR: Isn't white OK with B? Secure eye space first.]
+
+(;W[cs];B[dr]C[NR: Black strikes at the vital point.];W[dn]
+;B[dm];W[en]C[NR: Black needs liberties to fight. Don't panic. See variation.]
+
+(;B[gr];W[fr];B[fs];W[dq];B[gp];W[ep];B[gs];W[gq]C[NR: Why not take white stone?]
+
+(;B[hr];W[go];B[gk];W[fl];B[fk];W[el];B[ek];W[gl];B[hk];W[hm]
+
+(;B[jo]C[NR: Wrong direction. Play from the weak stones.];W[in]
+;B[jn];W[im];B[jl];W[kl];B[ik];W[ij];B[mc]C[Big.];W[ni]C[Proverb: "Only a fool does not connect when peeped".]
+;B[nh];W[mi];B[lh];W[pi];B[oh]
+(;W[ph];B[pj];W[pk];B[qj];W[rj];B[qi]LB[ml:A][nl:B]C[NR: Play the net at B.]
+
+(;W[ml];B[ld];W[kd]
+(;B[le];W[lf];B[lc];W[kc];B[kb];W[kf];B[cj];W[bi];B[bj];W[dg]
+;B[ai];W[bh];B[ah]
+(;W[bg];B[ri];W[rk];B[sp];W[ro];B[jm];W[dl];B[cl];W[bd]
+(;B[bb];W[ag];B[aj];W[ac];B[ba];W[ig];B[lg];W[km];B[pq];W[so]
+;B[sq];W[dk];B[ao];W[ab];B[da];W[cr];B[pa];W[qa];B[es];W[gi]
+;B[kn];W[ln];B[hq];W[gn];B[sj];W[il];B[jp];W[sk];B[si];W[sd]
+;B[se];W[em];B[cm];W[ms];B[lr];W[dj];B[ec];W[ad];B[ej];W[gj]
+;B[ff];W[hf];B[ds]C[DrK: Thx];W[tt];B[ef];W[aa];B[jf];W[fj]
+;B[tt];W[tt]C[jpro: thanks for the game])
+(;B[cb]C[NR: Safer?]))
+(;W[ag]C[NR: This is safe.]
+(;B[aj];W[bg])
+(;B[bg]C[NR: Not possible.];W[aj])))
+(;B[kc];W[le]C[NR: Black can safely tenuki here.];B[sp]))
+(;W[nl]))
+(;W[pj];B[ph]))
+(;B[in];W[jo];B[im];W[gm];B[il]))
+(;B[hq]))
+(;B[fr];W[gr];B[hr];W[gs];B[gq];W[gp];B[hq]))
+(;W[dr]))
+(;B[dr];W[ar];B[cr];W[bs]))
+(;W[bo];B[bn];W[dr];B[co];W[ap];B[br];W[bq];B[cr];W[dq];B[ds]
+;W[ep];B[ar];W[fr];B[es];W[cs];B[bs];W[fs];B[cs];W[aq]))
+(;B[co];W[ep];B[dq];W[do];B[dn];W[eo];B[cr]))
+(;B[lh]))
+(;W[ko];B[jp];W[nr]))
+(;B[nr];W[kp];B[ls]C[NR: Black connects under.]))
+(;W[mp];B[mq];W[nr];B[or];W[no];B[op]
+(;W[lo])
+(;W[lp])))
+(;B[qq]))
+(;W[gg];B[gh];W[hg];B[hh];W[ig]))
+(;W[rc];B[qd])
+(;W[dr]))
+(;B[rb];W[pa]))
+(;W[rd]
+(;B[oc];W[pb];B[ob];W[qb];B[lc]LB[fq:A])
+(;B[rc];W[oc];B[sd];W[nd];B[pd];W[od];B[re]LB[fq:A]C[NR: And tenuki?]
+)))
+(;W[qg];B[pg];W[rh]
+(;B[qi]
+(;W[ri];B[qj];W[rj];B[pk];W[ql])
+(;W[qe]))
+(;B[ri];W[qi];B[ph];W[rj];B[rg];W[si];B[rf];W[qe];B[re];W[qc]
+;B[qd];W[pc])))
+(;B[hf];W[ie]LB[hf:A]TR[gc][gd][hd][id][he]C[NR: The move at A is kind of a "free" move, which makes the white stones overconcentrated - taking advantage of the white move that reduced white liberties (on which I commented earlier).]
+;B[fg]C[NR: A possible continuation for black to get out on this side.]
+))
+(;W[jc];B[id];W[kc]LB[if:A][ck:B][cn:C]C[NR: If black continues playing locally (around A), then white can move on left side first, at B or C.]
+))
+(;B[he];W[id];B[ie];W[ic];B[ke]))
+(;W[ic]))
+(;W[cc]C[NR: What if you play solidly here and let black try and save his stone? Black probably ends up living with few points, while White gets a profit (points in corner, power/influence towards centre).]
+;B[cf];W[cg];B[dg];W[ef];B[bg];W[ch];B[bh];W[ci];B[bi];W[cj]
+;B[bd];W[bc];B[be];W[ff])
+(;W[bc];B[bd];W[cc];B[bf]))
+(;W[fb];B[eb];W[gb];B[ec];W[db]
+(;B[ea];W[dd]
+(;B[de];W[fe];B[ee])
+(;B[fe];W[de]))
+(;B[dd]LB[ea:A]C[NR: Black is probably best by allowing white to connect under.]
+;W[ea])))
+(;W[fc]C[NR: I would have played just this. Simple answer.]
+))

@@ -1,0 +1,142 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+PB[kurt481]
+BR[8k]
+PW[Melyandre]
+WR[8k]
+KM[6.5]
+DT[2009-07-15]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[B+Time]
+TM[1200]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+C[Hi, my name is Johanna Tuominen and I'm EGF 2 kyu from Finland. I added some comments and variations to your game, hope they help.]
+;B[pp];W[dd];B[cp];W[qd];B[eq];W[cj];B[jq];W[qn];B[qj]
+(;W[ql]LB[qg:A]TR[qd]C[JT: This is move that I consider bad. First it does not make enough eye space for white, and second it forces black to expand towards white upper right corner. That is too the direction where white would like to play. Black is happy to play to A because it prevents white to expand the marked corner stone. I added some Joseki variations, which I think would be better in this situation. See the variations from previous node.]
+;B[qg]
+(;W[rk];B[od];W[pc];B[pd];W[oc];B[qc]C[JT: In this case I would have considered some other possibilities. Not that the one chosen in the came isn't possible but I would have consider variations, which work better with the upper left corner and side. See the variations.]
+
+(;W[rc];B[qb];W[rb];B[nc];W[qa];B[qe];W[rd];B[nb]C[JT: This sequence seals white into corner and gives black influence towards the left corner and side where white has potential territory. I would also consider some other variations. See the variations from node 17.]
+;W[pb];B[fc];W[cf];B[jc];W[kd];B[kc];W[ld];B[lc];W[lg];B[nq]
+C[JT: There is an intresting cut, which would help white to make the marked stones stronger. See the variations.]
+
+(;W[qq];B[qp];W[rp];B[ro];W[rq];B[qo];W[or];B[pn];W[pm];B[rn]
+C[JT: This is questionable move for black. If black is worried about these stone, one should connect these in sente for instance by playing P3.]
+
+(;W[pk]
+(;B[qm];W[om];B[qk];W[rm];B[rj];W[pj];B[pi];W[oi];B[sk];W[ph]
+;B[rl];W[qi];B[ri]LB[cm:A][cn:B]C[JT: A and B are big moves. White might have considered playing tenuki and approach the black corner since all whites groups are safe at the moment.]
+;W[pg];B[qh];W[pi];B[pl];W[ol];B[nr];W[oq];B[op];W[pq];B[cm]
+;W[jo];B[io];W[jp];B[ip];W[iq];B[hq];W[kq];B[jr];W[in];B[hn]
+C[JT: L2 first because it is a sente.]
+(;W[ho];B[hp];W[hm];B[gn];W[im];B[jn];W[kn];B[kp];W[ko];B[lp]
+;W[kr];B[ir];W[mp];B[mq];W[lq];B[lo];W[ln];B[mo];W[mn];B[no]
+LB[ej:A]C[JT: Playing something like A would have protected the invasion to C12 and also developed the center.]
+;W[hi];B[ch]
+(;W[dh];B[di];W[ci];B[dg];W[eh];B[cg];W[ej];B[eg];W[fh];B[dk]
+;W[dj];B[ck];W[bp];B[bq];W[dp];B[cq];W[db];B[ce];W[cd];B[bf]
+;W[df];B[de];W[ef];B[ee];W[ff];B[fe];W[ec];B[bd];W[bc];B[fg]
+;W[gf];B[gg];W[ge];B[gd];W[ie];B[id];W[if];B[mg];W[mf];B[nf]
+;W[ng];B[me];W[mh];B[le];W[ke];B[lf];W[kf];B[mg];W[lh];B[ig]
+;W[jh];B[ih];W[ii];B[jg];W[kg];B[ji];W[kh];B[gi];W[gh];B[gj]
+;W[ek];B[hh];W[jj];B[nm];W[nn];B[on];W[nl];B[gm];W[em];B[en]
+;W[dm];B[dn];W[gk];B[hk];W[gl];B[fm];W[el];B[hl];W[il];B[bj]
+
+(;W[ik];B[hj];W[ij];B[bi];W[md];B[nd];W[fb];B[gb];W[sg];B[sh]
+;W[rf];B[re];W[se];B[rg];W[qf];B[sf];W[pe];B[of];W[bh];B[bg]
+
+(;W[bk];B[bl];W[ga];B[fa]C[JT: Black lost a lot of points by playing like this. H19 for black...]
+;W[ea];B[ha];W[hb];B[fa];W[oo];B[np];W[ga];B[qs];W[os];B[rr]
+;W[sp];B[fa];W[mc];B[eb];W[da];B[mb];W[fb];B[ga];W[hc];B[hd]
+;W[gc];B[eb];W[ia];B[ed];W[fb];B[bb];W[ad];B[be];W[cb];B[jb]
+;W[ja];B[ka]C[JT: White should have prevented the seki in the lower right corner by playing there.]
+
+(;W[sg];B[rh];W[al];B[ak];W[mf];B[ne]
+(;W[jd]
+(;B[ns]C[JT: now in my opinion the status of the corner is seki at best.]
+
+(;W[ic];B[fd];W[la]
+(;B[ma];W[kb];B[lb];W[ka];B[dl];W[fj];B[ae];W[ac];B[cc];W[dc]
+;B[ab];W[cc];B[ib];W[ha];B[ga];W[gb];B[sr];W[qr];B[rs];W[ps]
+;B[so]C[JT: I think that by preventing the seki in the lower right corner, this would have been whites game.  (White is ahead around 8-10 points depending on how the rest of end game goes. Observe that seki on board messes up the score estimator so you have to calculate the result by hand using the score tool.]
+)
+(;B[kb]))
+(;W[qr];B[ps]
+(;W[rs]C[JT: White cannot atari from this side because the corner dies.]
+;B[ss];W[pr];B[so];W[rs];B[qs]
+(;W[sr])
+(;W[sq]))
+(;W[sr]C[JT: Seki])))
+(;B[sr]C[JT: If black plays like this white lives... Black can make seki allready at this phase... See the other variation]
+;W[qr];B[rs];W[ps];B[ns];W[sq])
+(;B[qr];W[sr];B[rs];W[ps];B[ns]C[JT: Seki]))
+(;W[qr];B[ps];W[rs];B[ss];W[sq];B[ns];W[sr]C[JT: White lives]
+))
+(;W[qr];B[sr];W[ps];B[ns];W[rs];B[so]))
+(;W[cl]))
+(;W[bi]C[JT: White should have played like this because it does not reduce your liberties and it is worth of many points (away from black).]
+))
+(;W[di]C[JT: Another way to defend... Contains lots of choices. See the variations]
+;B[dh];W[eh]
+(;B[df];W[dg]
+(;B[cg];W[eg]
+(;B[bf];W[ce];B[ci]
+(;W[dj]C[JT: White can do better... That is white can play B10]
+;B[bj];W[bk];B[ai];W[bh];B[bg];W[cl];B[be];W[bd]C[JT: Black must defend otherwise white A12 kills.]
+;B[ah];W[fe]C[JT: Big center and white is still able to slade blacks lower left corner territory (D7) unless black defence it now.
+If black defences white can play something like J15 to secure the center. After that the upper left corner looks big.]
+)
+(;W[bj];B[dj];W[ei];B[ck];W[dk];B[ej];W[fj];B[ek];W[dl];B[bk]
+;W[fk]
+(;B[el]C[JT: Black cannot play like this because the ladder works for white.]
+;W[em];B[fl];W[gl];B[fm];W[fn])
+(;B[aj]C[JT: So black connects...];W[el];B[bi]
+(;W[en])
+(;W[fe]))))
+(;B[ce];W[bf];B[be];W[de];B[ef];W[ff];B[ee];W[fd];B[bg];W[fe]
+;B[af];W[cf];B[bc]))
+(;B[eg];W[cg];B[fh];W[ei];B[ef];W[he];B[ed];W[dc]C[JT: Nice result for white. Large corner and left side. Good potential for center territory.]
+))
+(;B[eg];W[dg];B[ei];W[fh];B[dj];W[ci]C[JT: Not good for black.]
+))
+(;W[ej];B[eh];W[fi];B[ef];W[db]))
+(;W[kr];B[ir];W[kn]LB[np:A]C[JT: The cut in A is tempting later on...]
+))
+(;B[oi]TR[pk][rk][ql][pm][qn]C[JT: Black should have played something like this. If you run with the marked group, the white stones in upper side becomes more and more weak. Naturally, the same goes other way around]
+))
+(;W[on];B[qm];W[pl])
+(;W[oq];B[op];W[np]))
+(;W[nd];B[md];W[ne]
+(;B[me];W[pe]C[JT: Black simply cannot play like this.])
+(;B[pe];W[me];B[mc])))
+(;W[qb];B[rc];W[rb];B[rd];W[qe];B[re];W[nd];B[pe];W[mc])
+(;W[qe];B[qb];W[nd];B[oe];W[ne];B[of];W[mc]TR[ri]C[JT: Black group is still open.]
+))
+(;W[rp]TR[pp]C[JT: This would give nice base for the white group and some pressure to the marked stone.]
+))
+(;W[qq]LB[qp:A][pq:B]C[JT: taking the corner is one option. Black blocks either from A or B.]
+
+(;B[qp];W[pq];B[op];W[rp];B[ro];W[rq];B[qo];W[nq]LB[pn:B][mo:A]
+[np:C]C[JT: Black usually plays A. The B move can be considered if black feels unsecured with the group in the right side. Now white has time to make the extension from the upper right corner. If black does not play A the move in C is big for white.]
+
+(;B[mo];W[qg])
+(;B[pn]))
+(;B[pq];W[qp];B[po];W[qm]C[JT: Better for white... So black should block from R4 Instead.]
+))
+(;W[nq]
+(;B[np];W[mp];B[no];W[oq];B[po];W[qr])
+(;B[oo];W[qq]))
+(;W[np];B[pn];W[pm];B[on];W[qo]LB[op:A][qp:B]C[JT: Black continues with A, B  is mistake. See variations.]
+
+(;B[op];W[rq];B[nq]
+(;W[mq]C[JT: Instead of playing this one may consider the R13 also, because this variation might lead into difficult fight.]
+;B[mp];W[no];B[lp];W[oq];B[nr];W[pq])
+(;W[qg]))
+(;B[qp];W[po]LB[oo:B][op:A]TR[qj]C[JT: B is the mistake. A gives a reasonable result for black although the marked stone will be weak because white gets influence towards center.]
+
+(;B[oo];W[op];B[rp];W[ql];B[mn];W[pq];B[qq];W[pr];B[qr];W[lp]
+LB[ok:A]TR[mn][on][pn][oo]C[JT: The marked stones must run. For instance white first at A would work nicely]
+)
+(;B[op];W[oo];B[nq];W[no];B[mq];W[nm]))))

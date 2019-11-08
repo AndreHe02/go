@@ -1,0 +1,118 @@
+(;FF[4]GM[1]SZ[19]ST[1]AP[SGFC:1.17]
+
+PB[Bruno888]
+PW[animage]
+WR[27k]
+KM[6.5]
+DT[2011-09-04]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[W+119.5]
+TM[1500]
+
+C[Hi, my name is Anand and I'll be your reviewer for the game. I'm about 14 kyu on IGS and 10-11 kyu on KGS.
+
+I have been asked to review for the white side. I see that white has won this game by a huge margin. Therefore this is not a good game for a review. The idea of a review is to help you correct your mistakes. If you win a game by a huge margin, clearly you have committed much fewer mistakes than your opponent and you haven't been punished for your mistakes. In the future, try to submit games where you lost by a close margin or lost because you didn't know what the error was.
+
+Nevertheless, I'll try to review as much as I can.];B[dd]C[Basic principle in Go is to connect your own stones (either is small or large scale) and cut your opponent's stones (on small or large scale). 
+
+The most important thing to do at this point is to read 2-3 moves further and see what happens. Calculate what you opooent will do after your move. What is the purpose of your move?]
+;W[pd]C[Keep in mind that 4th line stone is for influence, it does not make territory. Black can play at the 3-3 point (R17) and live, but you will get a strong outside wall.
+
+As long as you understand that, the move is fine.];B[oo]C[This is a strange black move. Remember the proverb "Corners first, then sides, then center". This is sort of a halfway move which does nothing.]
+;W[dp]C[Good. Play normally against strange moves of your opponent.]
+;B[jc];W[pj];B[ej];W[jp]C[All these moves by white are fine. Black's moves lack any purpose.
+
+Plays on the 3rd line are for territory (like K17). Plays on 4th line are for influence (like D16). Plays on 5th line (like P5 and E10) in the opening are usually bad.]
+;B[em]C[Another do-nothing move by black.];W[dm]C[This is ok. Remember when you contact the opponent, you make both sides stronger. Her you make a good chunk of territory while black's stones achieve little.]
+;B[dl];W[dn]C[This is fine. Both of you are trying to stay connected. White has made some territory, black still has little.]
+;B[lc]C[What is the purpose of this move? This is too close to K17 and makes neither much territory nor has much influence. Black should make his stones work together.]
+;W[md];B[ld];W[mc];B[mb]C[Plays on the second line (like this) in the opening are not good. There are much bigger areas of the board to play in.]
+;W[nb];B[me]C[Black should've played N15 directly if he wanted to. Hane at the head of two stones is a good move! See how it contracts white space and increase black space.]
+;W[lb]C[This is much too small from white. The whole board is open. You should answer hane at the head of two stones (N15)with O15. (Hane at the head of stones is therefore a good move). The reason is that Black can play O15 himself with vastly increased influence.]
+;B[kb];W[ma];B[nd]C[Overplay by Black, what is the purpose of this move?]
+;W[ne]C[Good.]
+(;B[nf]C[See variation, black cannot live.];W[oe];B[la]C[Play on the first line! This is a very tiny endgame move which does nothing. White can simply capture (L19)]
+;W[mb]TR[qp][lf][cl];B[ka]TR[qp][ke][cl][oq][lf]C[Again very tiny. The whole board is open!
+
+Better moves are marked with triangles.];W[oc]C[Again, very tiny move, black cannot escape, try it.]
+;B[of];W[pe]TR[pf]C[This makes an empty triangle (Q16, Q15, P15) This is inefficient shape. Just play Q14.]
+;B[mf]C[Black plays this to connect his stones. This is good move. This was locally required now. It's not good to leave lots of cutting points in your position. (N14, M15) before this move.]
+;W[el]C[What is the purpose of this move? Can this stone survive?]
+;B[fl]C[Atari (threatening to capture opponent on the next move) is usually bad. The reason is that opponent can usually extend and increase his liberties, while you leave cutting points in your position.]
+;W[ek];B[fk]TR[dk]C[Again atari, what will you do against D9? You yourself will be in atari. See variation.]
+(;W[cl]C[D9 is better for White. This makes the original E8 move purposeless.]
+;B[dk];W[ck];B[dj]TR[cj]C[Empty triangle (D9, D10, E10) from black is bad shape. Why not play C10?]
+;W[ci]C[This is fine. This shows that plays on the 4th line by black do not create territory.]
+;B[dh];W[di];B[cj];W[bj];B[ch]C[Play E11, what is the purpose of this move?]
+;W[ei];B[fi];W[eh];B[eg];W[fh];B[gh];W[fg];B[ff];W[gg];B[hg]
+C[Black is trying to capture these stones in a ladder, but this is not a ladder! The stones have 2 liberties (G13 and B11). He is just leaving cutting points in his own position. This is called "squeezing the toothpaste". Black allows a strong white group cut through his own position.]
+;W[gf];B[ge];W[hf];B[if];W[he];B[hd];W[ie];B[je];W[id];B[ic]
+;W[jd];B[kd];W[bi]C[Simple, what has black achieved?];B[dg]
+;W[jb]C[What is white trying to achieve here? Can this stone live? Read!]
+;B[ja];W[ib];B[hb];W[ke];B[jf];W[le]C[Again, don't assume black will play the move you want! Can these white stones live?]
+;B[kf]C[Bad by Black, play L17!];W[kc];B[ia];W[kd]C[Not necessary, just a wasted move.]
+;B[lf];W[ig]C[Black has left lots of cutting points in his position, but that doesn't mean you have to take advantage immediately. Can you see that white can live in this space?]
+;B[hh];W[ih];B[ii];W[hi]C[Adding more and more stones to a dead group...]
+;B[gi]C[And more.];W[gj];B[fj]TR[hj]C[This is bad by black. Just capture! H10.]
+;W[hj];B[jh];W[ji];B[ij];W[ik]C[Again bad by black. Just capture (K13) or play K10.]
+;B[hk];W[jj]SQ[mf][gi]C[Now black is split (see groups marked by squares)  and white has a strong connected group separating them. It is quite likely that at least one of the black groups (if not both) will die.
+
+I'll end the review at this point. White is leading big at this point, black has no chance whatsoever.
+
+To summarize:
+
+0. Connect your stones, cut your opponent's stones (in the large and small scale)
+
+1. In the opening - corners first, then side, then center. Play on the 3rd and 4th line in the opening.
+
+2. Read, read, read! Calculate what your opponent will do. Don't just assume he'll play the move you want.
+
+3. Hane at the head of two stones is a good move.
+
+4. Empty triangle is bad shape.
+
+5. Third line is for territory, 4th line is for influence.
+
+Hopefully this helps you. Let me know if you have more questions.]
+;B[gk];W[ii];B[il];W[jg];B[kh];W[kg];B[lh];W[lg];B[mg];W[mh]
+;B[nh];W[mi];B[jk];W[ki];B[ij];W[lj];B[ik];W[mj];B[ng];W[ni]
+;B[pf];W[qf];B[ef];W[ph];B[fm];W[oh];B[kk];W[pg];B[kj];W[og]
+;B[mk];W[mg];B[ok];W[nk];B[ol];W[nl];B[lk];W[om];B[ml];W[pl]
+;B[nm];W[nj];B[pm];W[on];B[pn];W[nn];B[mn];W[no];B[mo];W[np]
+;B[op];W[nq];B[mp];W[pk];B[po];W[mm];B[lm];W[nm];B[mq];W[ln]
+;B[kn];W[lo];B[lp];W[ko];B[kp];W[jo];B[in];W[km];B[ll];W[jn]
+;B[jm];W[mr];B[lr];W[kq];B[lq];W[kr];B[kl];W[kn];B[nr];W[ls]
+;B[fe];W[or];B[gd];W[hn];B[hm];W[io];B[im];W[ho];B[en];W[cm]
+;B[ep];W[eo];B[fo];W[do];B[fp];W[go];B[fn];W[eq];B[fq];W[fr]
+;B[gq];W[hr];B[gr];W[gs];B[er];W[dq];B[fs];W[hs];B[dr];W[cq]
+;B[bh];W[cr];B[fr];W[cs];B[ds];W[ai];B[ah];W[qq];B[hq];W[ir]
+;B[iq];W[jr];B[jq];W[ql];B[gm];W[pq];B[oq]C[animage [27k?\]: this is almost over]
+;W[pp];B[hc];W[qo];B[pr];W[ns];B[el];W[qn];B[ha];W[qm];B[bd]
+;W[tt];B[tt]TB[es][jl][hl][gl][ek][cg][bg][ag][df][cf][bf][af]
+[ee][de][ce][be][ae][fd][ed][cd][ad][gc][fc][ec][dc][cc][bc]
+[ac][jb][ib][gb][fb][eb][db][cb][bb][ab][ga][fa][ea][da][ca]
+[ba][aa]TW[ss][rs][qs][ps][os][ms][ks][js][is][bs][as][sr][rr]
+[qr][pr][nr][lr][br][ar][sq][rq][oq][mq][lq][bq][aq][sp][rp]
+[qp][op][mp][lp][kp][cp][bp][ap][so][ro][po][oo][mo][co][bo]
+[ao][sn][rn][pn][mn][cn][bn][an][sm][rm][pm][bm][am][sl][rl]
+[ol][bl][al][sk][rk][qk][ok][bk][ak][sj][rj][qj][oj][aj][si]
+[ri][qi][pi][oi][sh][rh][qh][nh][sg][rg][qg][ng][sf][rf][pf]
+[of][nf][mf][lf][kf][jf][if][se][re][qe][me][je][sd][rd][qd]
+[od][nd][ld][sc][rc][qc][pc][nc][lc][sb][rb][qb][pb][ob][sa]
+[ra][qa][pa][oa][na]C[
+Score estimation:
+
+White territory: 127
+White captures: 43
+
+Black territory: 44
+Black captures: 6
+
+White score: 176.5
+Black score: 50.0
+
+White wins by 126.5])
+(;W[dk];B[cl];W[ck];B[bl];W[bk]C[Black cannot escape.]))
+(;B[nc];W[mb];B[oc];W[od];B[oe];W[nf];B[ob];W[pc]
+(;B[na];W[oa])
+(;B[oa];W[pb];B[na];W[pa])))

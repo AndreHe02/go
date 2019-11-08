@@ -1,0 +1,69 @@
+(;FF[1]GM[1]SZ[19]VW[]US[jansteen@cwi.nl (Jan van der Steen)]
+PB[rjs]PW[hw]PC[IGS@upenn.edu]RE[W+R];B[qd];W[dd];B[pq];W[od];B[cp];W[qc]
+;B[rc]L[qo]C[You don't need to answer here. For example, you could consider
+ to play at "a", to make the lower-edge good shape.];W[pc];B[re];W[ep]L[lc][kc]C[White should playan extension at "a" or "b". A black move
+ there would leave the white stones around p16 without a base to live.]
+;B[gq]L[hp][ip]C[Good direction, any of the moves g3, "a", or "b" look good.]
+;W[cq];B[dq];W[dp];B[eq];W[fq]
+(;B[fr]C[Black "a" is also possible, see variation "joseki".];W[fp]C[Although a joseki variation this move is not good for white
+ here. The reason is in diagram "ladder". An alternative way for white
+ is in diagram "better line".]
+(;B[cr]L[co]C[As mentioned, this move could be at "a".];W[co];B[bq];W
+[gp];B[hq];W[po]M[gp][hq]L[bp]C[I would play "a" here, probably without the marked exchange.
+ The white shape on the left doesn't feel good to leave like this.];B[qo]
+L[cf][fc][pl]M[hq]C[Because of the marked stone (solid position) it's not really
+ valuable to settle yourself in the lower-right. Two areas which attract
+ my attention: upper-left ("a", or "b"), or a pincer along the right
+ side (around "c").];W[qn];B[qp];W[pm];B[nq]C[Now you are approaching your own (strong) position.]
+;W[qi];B[bo]C[An impressive move, very big but hard to play because it feels slow.
+A good move Rob];W[cn];B[cf]L[bm][fc]C[Wrong direction since white is open along the left side ("a").
+ The concept of being "open" somewhere is important. Basically it
+ means that white has to add another move sometime, making the
+ profit worth about half the usual value.
+ So, as you will understand now, "b" is the right direction here
+ (inviting white to invest stones at the worthless left edge).];W[ce];B
+[df];W[fd];B[dj];W[ck]C[Bad move, for the reason previously mentioned.]
+;B[cj];W[dk];B[bn]L[ej][kc]C[Way too small, "a" or "b" seems more interesting.]
+;W[cm];B[hc]L[kc][nc]C[Playing at "a" instead would ensure you of a base for your
+ group (next is either "b" or "h17").];W[kc]C[This moves serves two purposes: an extension for the white group in the upper-right, and an attack on your stone. You shouldn't
+have given your opponent this opportunity. That's part of the game,
+playing strong moves, but also preventing attractive moves to your
+opponent.];B[fb]L[ec][he][ke][cc]C[A bit soft, "a" seems more interesting. Another (more leasurely)
+ approach would be to jump to "b", with follow-up's at either "c", or "d".]
+;W[db];B[he]M[fb][db]L[cc]C[You can see the difference now, because of the marked exchange you
+ lost the opportunity at "a". The marked exchange feels aji-keshi now.]
+;W[ff];B[eg]L[ke]C[Seems inefficient to me. I would just jump to "a", and let the left group fight for itself.]
+;W[gf];B[if];W[gh];B[mc]C[Interesting.];W[md];B[lc];W[ld];B[kb];W[nc];B
+[jc];W[kd];B[jb]L[mb][ob]C[Could be "a" as well, with "b" as follow-up later on. The move you played
+doesn't "hurt" your opponent.];W[rb];B[pf]L[sb][sc]C[First play "a", because "b" is painful for your shape.]
+;W[nf];B[sb];W[qb]L[ra]C[Better at "a", in the endgame the same, but better (larger) eye space.]
+;B[hp]L[rg][qk]C[Black "a" would strengthen your group and prepare for "b".]
+;W[ej];B[dh];W[bh];B[bi];W[bf];B[ch];W[cg];B[dg]L[ah][bg]C[Would white ever want to play here? :-)
+ This move erases the possibility to give atari at "a" (or maybe even
+ a throw-in at "b") later on. Be careful with this kind of move, they
+ can be the difference between life and death.];W[bg];B[ee];W[ed];B[fe]
+;W[ge];B[gd]C[A dangerous cut. Since both white groups seem quite strong the cut has
+ gote flavor.];W[fh];B[ei];W[fj];B[bk];W[bl];B[aj];W[de];B[ef];W[fi]L[hj]
+C[White is worried about a cut here, but this way of defending is inefficient. Better around "a".]
+;B[ho];W[gn];B[hn]L[im]C[Better keima at "a", it's quicker.];W[gm]L[mn]C[Too small, "a" is bigger.];B[on];W[pn];B[no];W[rg]C[Hard to black.]
+;B[qg];W[rh];B[rf];W[pe];B[og];W[qe];B[qf];W[oi];B[nh];W[nb];B[ni];W[nj]
+;B[kh];W[mj];B[li];W[kn];B[kp];W[hm];B[im];W[il];B[jm];W[lm];B[om];W[ol]
+;B[nl];W[pl];B[ll]L[jo]C[You don't need to kill these stones, just "a" is ok, you're doing fine.]
+;W[kl];B[ml]L[km]C[Why not cut at "a" instead?];W[jl];B[km]C[Hmm :-)]
+;W[in];C[You resign too early Rob! This capture is 6 points + some additional endgame value. But a big endgame move is also 10 points, so it's not game deciding yet.]
+)
+(;N[ladder];B[co]C[This answer looks very risky for black considering all cutting
+points. But actually white is in trouble now.];W[gr];B[er];W[hr]L[hq]
+M[re]C[The best white can do since the ladder at "a" doesn't work
+because of the marked stone.];B[cr];W[hp]L[iq][go][hq][gp]C[The end of this variation. Since black has still aji with
+the g3 stone this result is better for him. The aji could be a peep
+at "a" or "b", or maybe even escape with "c" or "d" when black gets
+stones in the vicinity.])
+(;AE[fp]N[Better line];W[co]C[This move (preventing a black move here) promises white
+an equal result. Now the exchange "a", "b" is ok for white, so ...];B[bp]
+;W[fp];B[dr]L[gr]C[Defending the cut at "a" efficiently.];W[bo];B[bq]
+;W[gp];B[hq];W[cj]M[hq][pq]C[This is the end of the joseki (Ishida, part II, page 88).
+Black is slightly unhappy because of the low position of both marked
+stones.]))
+(;B[fp]N[joseki];W[fr];B[cr];W[bq];B[er];W[co];B[gr];W[fo];B[gp]C[This is also joseki.]
+))

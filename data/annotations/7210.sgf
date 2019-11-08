@@ -1,0 +1,126 @@
+(;FF[4]GM[1]SZ[19]ST[1]AP[SGFC:1.15]
+
+PB[Defrag]
+BR[8k]
+PW[MoGo]
+KM[5.5]
+DT[2009-04-18]
+RE[W+1.5]
+
+C[Dear reviewer, I'm 8k at KGS.
+
+Could you comment a game, I recently played against programme named MoGo. This software is known for it's very special style of play, which makes me confused, since it completely breaks the patterns of fuseki.
+
+Well, I know that playing with software is not the best way to improve, but I think that MoGo is an exception, since it makes one play out of patterns. For example it invaded couple of times into my nikken tobi on the third line, which is considered to be unconditionaly alive, and is never attacked by other go playing software.
+I played about 20 games against MoGo, and managed to win only one game.
+Whereas I can beat other software (AYA or Many Faces of Go) with 50% probability , even when I play white... But MoGo is for now beyond my ablilities.
+
+Here is one of games I lost.
+
+I would be thankful If you could show me my mistakes.
+
+I'll try to explain my way of thougths. My comments will be marked as "D:"
+
+Hi, my name is Jay, my comments start with J:];B[pd];W[dp];B[qp]
+;W[dd];B[op]TR[qj][oj]C[D: Shimari intending to make moyo at marked points. My usual fuseki.
+
+J: so far so good];W[qf];B[qi]LB[qj:A]C[D: I've pincered white. Probably I could choose wider pincer at A
+
+J: hard to say];W[le]C[D: That's where MoGo switched on his Montecarlo Algorithm
+
+J: wtf... could be good for cosmic influence later...];B[nc]
+TR[le]LB[fq:A]C[D: Well, I was thinking about making move at A, since marked stone doesn't put much pressure on corner, but finnaly I prefered to make a shimari
+
+J: A would be good at threating to make a black double wing. but something here is urgent.]
+;W[mj]TR[pk][pl][ql]C[D: Well, another embarrassing move
+
+J: wierd, but not the end of the world, a move near the mark would cut black]
+;B[pl]TR[mj]LB[oi:A]C[D: Well, first I was thinking about making moyo at A, but since marked stone is at his place, I considered, that it would be safer to move like I actually did.
+
+J: good];W[hj]C[J: -_-;;];B[fq]C[D: I attacked corner, hoping to play joseki (see variation)....]
+
+(;W[gr]C[D: ... but MoGo ruined my plan again (I actualy like when he does so)
+
+J: never seen this before.];B[cq]TR[cn]C[D: I decided that invading at san-san wuold be my best option in this situation
+
+J: ok, but white could push from the top and build a nice up facing wall with the g2 stone peeping under your skirt.]
+
+(;W[cm];B[dq];W[go];B[fc]TR[fq][dq][cq]C[D: Well, since my marked stones were not under heavy fire, I decided to take a chance and ensure my presence at the upper area
+
+J: good timing, consider also approaching from the other side]
+;W[fd]
+(;B[gc]C[D: Had I to play here other way (see variation)
+
+J: too submissive. g16 is normal];W[gd];B[cc];W[cd];B[dc];W[bc]
+C[D: seems like MoGo started to play quite reasonable];B[hc]
+C[D: Here I tried to enlarge my base
+
+J: b18 is an import keypoint, push to the right only weakens o17 group]
+;W[jb];B[jd];W[kd];B[jc];W[kc];B[ib];W[lh];B[fo]SQ[dk][ck][dj]
+[cj][di][ci][dh][ch]C[D: By this move I started sequence to gain some strength, and use it later to invade into marked area
+
+J: good plan];W[fp];B[ep];W[gp];B[do];W[nn];B[pn]TR[mp][mq]
+[lq]MA[gp][go]C[D: Defending
+
+J: the other way is faste and ruins white's wall];W[lp]TR[hp]
+[ip][jp][kp]C[J: this extension is great for white..];B[fn]
+C[D: Here I continued my plan of gaining strength before invasion]
+;W[bh]C[D: but MoGo forestalled me. I thought that by next move into this area he would ruine my plans completely....
+
+J: seems a bit low];B[ck]C[D: ...so I hurried up with invasion
+
+J: good];W[dk];B[dm];W[gn]C[J: now that wall is almost unbearable]
+;B[fm];W[gm];B[fk];W[cj];B[cl];W[oh];B[dj];W[rb]C[D: very unexpected move....
+
+J: interesting, i would have used 3-3 for pain instead.];B[rd]
+C[D: first I had to cut separate invader from his backup];W[kb]
+;B[pb];W[ec];B[eb];W[cb];B[ed];W[ee];B[db]C[D: I decided to leave ko here for furter use
+
+J: yes];W[qh];B[pi];W[qd];B[qc];W[qe];B[rc];W[oe];B[od];W[bb]
+;B[de];W[di];B[ej];W[je];B[hd];W[hf];B[fe];W[ec];B[gq]C[D: ko-threat]
+;W[hq];B[ed]C[D: and taking ko back];W[ef];B[ge];W[bj];B[bk]
+TR[ak]C[J: bad shape, a9 better];W[dl];B[el];W[ak];B[ek];W[nq]
+C[J: this is painful for black];B[oq];W[or];B[pr];W[nr]TR[gr]
+[nq][hq][gp][go][nn][gn][gm][mj][hj][lh]C[D: Seems like here I've lost my chance to invade to marked area. Later this region will become the largest white's possesion. I think that this area actually made the game]
+;B[qq];W[np];B[al];W[ei]
+(;B[fi]C[J: slow, time to reduce white's big moyo, see variations.]
+;W[pg];B[ch];W[cg];B[dh];W[eh];B[fh];W[ri];B[rj];W[eg];B[gg]
+C[J: no reason, not even connected];W[fr];B[eq];W[gk];B[hh]
+;W[ih];B[hi];W[ii];B[er];W[rh];B[qk];W[nm]C[J: now it's too late, and white is very solid.]
+;B[nk];W[nj];B[mk];W[lk];B[ok];W[ml];B[oi];W[hr];B[ni];W[nh]
+;B[mi];W[lj];B[li];W[ki];B[mh];W[mg];B[kj];W[ji];B[ng];W[nd]
+;B[lg]C[D: Well, sometimes MoGo does tactically stupid moves, he didn't manage to defend double atari point
+
+J: well it seems like mogo though attacking the top was more important.]
+;W[mf];B[kh];W[nb];B[md];W[mb];B[ob];W[ne];B[mc];W[re];B[sd]
+;W[lc];B[oc];W[ig];B[ie];W[qb];B[sb];W[me];B[qa]C[D: was that superfluous move? I wanted to have no headache with that white stones in the corner in future
+
+J: yes.  last comment.  Thanks for showing me this game, Jay.]
+;W[oo];B[po];W[oa];B[pa];W[kk];B[jf];W[ld];B[ke];W[sj];B[sk]
+;W[om];B[on];W[ps];B[qs];W[es];B[ds];W[gl];B[no];W[mo];B[os]
+;W[pm];B[qm];W[si];B[fs];W[ia];B[ha];W[gj];B[fj];W[ns];B[ps]
+;W[ja];B[oo];W[aj];B[kf];W[da];B[ea];W[na];B[se];W[pe];B[ph]
+;W[og];B[sg];W[oj];B[pj];W[ca];B[gs];W[hs];B[es];W[rf];B[sf]
+;W[rg];B[gf];W[jg];B[kg];W[hg];B[if];W[gi];B[gh];W[fl];B[ol]
+;W[jh];B[he];W[jj];B[nl];W[ll];B[fg];W[bd];B[ff];W[lf];B[mm]
+C[White wins by 1.5 points.];W[mn];B[bg];W[dg];B[bi];W[ci];TB[ss]
+[rs][cs][bs][as][sr][rr][qr][dr][cr][br][ar][sq][rq][pq][bq]
+[aq][sp][rp][pp][dp][cp][bp][ap][so][ro][qo][eo][co][bo][ao]
+[sn][rn][qn][en][dn][cn][bn][an][sm][rm][em][cm][bm][am][sl]
+[rl][ql][dl][bl][rk][pk][dk][qj][lh][je][id][gd][fd][sc][pc]
+[ic][ec][rb][qb][hb][gb][fb][sa][ra][ga][fa]TW[ms][ls][ks][js]
+[is][mr][lr][kr][jr][ir][mq][lq][kq][jq][iq][mp][kp][jp][ip]
+[hp][lo][ko][jo][io][ho][ln][kn][jn][in][hn][mm][lm][km][jm]
+[im][hm][kl][jl][il][hl][jk][ik][hk][kj][ij][bi][ai][dh][ch]
+[ah][qg][ng][bg][ag][pf][of][nf][df][cf][bf][af][de][ce][be]
+[ae][ad][ac][lb][ab][ma][la][ka][ba][aa]C[D: Well... 4.5 to 0.5 moku to Whites advantage is my normal result playing with MoGo. I belive, that he could beat me with greater lead on moku, since he is 3k at KGS, and I'm only 8k.
+ Seems like his probability based algorithms tell him, that it's better to win by 0.5 moku with 99% confidence, than to win by 20 moku with 85% chance.]
+)
+(;B[ml];W[nl];B[nk];W[mk];B[nm];W[mm];B[ol];W[ll];B[mn]C[J: difficult, but something there.]
+))
+(;B[gd];W[fe];B[hc]TR[ec]C[D: May be it would be better to play like this?
+
+J: e17 before h17]))
+(;W[cp];B[dq];W[ep];B[fr];W[dk]TR[dl]C[J: White's moyo is getting big]
+))
+(;W[dn];B[dr];W[cq];B[ip]))

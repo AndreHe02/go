@@ -1,0 +1,176 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.16]
+
+GN[parafuso-tromm-954798-20150113]
+PB[Martijn Tromm (tromm)]
+BR[6k]
+PW[parafuso (parafuso)]
+WR[6k]
+KM[3.5]
+DT[2014-12-30,2015-01-13]
+PC[Dragon Go Server: http://www.dragongoserver.net/]
+RE[B+Resign]
+RU[Japanese]
+SO[http://www.dragongoserver.net/game.php?gid=954798]
+GC[Game ID: 954798
+Game Type: GO (1:1)
+Rated: Y
+
+White Start Rating: 6k (+1%) - ELO 1500
+Black Start Rating: 6k (-24%) - ELO 1476
+White End Rating: 6k (+16%) - ELO 1516
+Black End Rating: 6k (-48%) - ELO 1451]
+
+C[dear reviewer,  thnx for the help in answering my questions in the sgf. would like to have an opinion about my thoughts and ideas on how to solve some of the problems during the game. thanks!
+
+Hello. I'm Julien, 1k kgs, I will comment your game and answer your questions as well as I can. If I'm right, you're white in this game...
+
+Resume: in this game, you should have played more defensive moves. You cannot do anything while you have weak stones. So you let your opponent build what he wants (and eventually killed you).]
+;B[pd];W[dp];B[qp];W[dc];B[oq]
+(;W[qi]
+(;B[qf]LB[qk:A]C[should be at A to use the shimari.
+
+Yes it should.];W[ql];B[de];W[fd];B[hc]
+(;W[cd]C[A bit slack.]
+(;B[cn]LB[ce:A]C[normal would be the block at A? but B didnt play there because of the variation?
+
+I guess both are possible. This one is more dynamic.];W[ce]
+LB[ce:A]C[however, without the block at A, the corner gets very big and stable.
+
+Yes but you play 4 moves against only 2 for black.]
+(;B[cf]LB[de:A]C[since B is going to throw away A anyway, shouldn't he treat it more lightly? like in the variation?
+
+Probably F3 is urgent for both players.];W[df];B[cg];W[ef]TR[hc]
+[cn]C[w corner got very big and b has to get enough compensation for the marked stones in exchange]
+;B[jd]LB[kd:A]TR[kc]C[maybe better at A?
+
+Yes. And probably even better at L17: the fourth line is for influence but since white is very solid in the top left, you cannot use influence so much in this part of the board.]
+;W[ci]TR[cj]C[Better at C10 to prevent black C9.];B[ck];W[dh]
+C[You only get 10-15 points by capturing these 2 stones. So you played 8 stones in the top left corner to get 30 points while black played 4 usable stones in the outside. 30 / (8-4) = 7.5 points by white move. That is not big in the opening.]
+;B[fq]C[the top left corner has become very big for white. and b has to look for compensation since w didnt played in lower left.
+
+F3 was the urgent move for both players.]
+(;W[co]LB[eo:A]C[better at A? prevent enclosure in the corner?
+
+Yes. A is the only move. You cannot live in the corner without getting fully enclosed. So you have to escape into the center.]
+;B[dn];W[fp];B[gp]
+(;W[eq]LB[fo:A]C[better at A?
+
+Yes A is better.];B[fo];W[ep];B[go]LB[mc:A][kp:B]C[at this point I thought that black starts to get some pretty big mojos and I felt the urge to invade. .. both a and b are huge, although not yet closed. w has also no support for any invasion but 1 secured corner. bottom left still has some aji left.
+
+Yes either north or south is the correct direction (probably A is better because black is weaker there). But neither A nor B are the correct invasion point (see later).]
+;W[pb]LB[nc:B][nd:A]TR[pd][qf]SQ[ob]C[too deep? better at A or B?
+
+I think it is ok. Either Q18 or P18 are the standard invasion points agains the marked stones.]
+;B[qb]C[Bad move.]
+(;W[pc]C[Bad move too...];B[qc]TR[pb][qb][pc][pd]C[Look at the shape: you played yourself "hane at the head of two stones" against you.]
+
+(;W[od];B[oe];W[ne]CR[pb][pc]TR[pd][oe]C[overplay? I thought its playable as b has to get back to the marked stones. Ws circle stones can be sacrified if required.]
+;B[nd];W[oc];B[of]TR[qd]C[Bad move. It lets a big weakness at R16.]
+;W[md];B[lc];W[mc]C[This white group is not fully alive so it looks a bit heavy.]
+;B[oi];W[qn]TR[ol][qo]C[Maybe a bit slack. I would have played either P8 or R5.]
+;B[on]LB[kp:A]TR[qi][ql][qn]C[now the 2nd mojo starts getting big. however, the marked stones start getting enclosed...
+
+The marked stones are ok because they are alive. But yes, black has got a nice moyo in the south.]
+;W[jp]TR[kq]SQ[jf]C[invading is more important. ..that area is getting huge
+
+Yes, but I don't know what you choosen this invasion point. If you play L3 you can get a small base in an easy way. Usually either you invade deeply and then try to live inside the moyo, or you invade by trying to attack ennemy's weak points, or you play reducing moves if you have enough. But here you play an invading move without any hope to live inside nor to attack anything.
+
+Another idea is to attack the top black group first at K14 to get strength in front of the black moyo. Then it will become easier to invade.]
+;B[lp]
+(;W[gq]LB[hq:A]TR[gr]C[maybe better to peep dirctly.
+
+It is a bad move because it weakens your invading stones. Also locally, the tesuji is G2, not the direct cut.]
+;B[hq];W[fr];B[hr]TR[hq]C[marked stones hurt the invasion...but now the aji in bottom left is gone.]
+;W[jn];B[ol]TR[qi][ql][qn]C[triangle stones are closed off now. probably still alive but not nice. however, the stones in the center are still far from safe...its more urgent to play there
+
+Yes you're right...]
+(;W[jl]C[... But when do you want to go?
+
+It is difficult for white because you have no base and the white stones are so far... Maybe you have to try to go in two separated directions: it would be easier to get eye shape.
+
+Also try to use ennemy weaknesses to strenghten your own stones.]
+;B[rm]
+(;W[rl]C[Wrong answer :-(.];B[qm];W[pm];B[rn];W[ro];B[pn];W[pl]
+;B[qo];W[ok];B[om];W[nk];B[im]C[This direction is better.]
+(;W[in]C[Wrong direction: there are only black stones on the way.]
+;B[hm];W[hn];B[gm];W[hp];B[ip];W[ho];B[jq];W[gn];B[eo];W[jm]
+;B[fm];W[hk];B[fk]
+(;W[mi]LB[pj:A]C[should have played at A instead...
+
+Yes.];B[nf];W[me];B[bj];W[bi];B[pj]CR[nk][ok][pl][ql][rl][pm]
+C[this one is huge for b. attacking circle stones and getting points]
+
+(;W[pk];B[qj]C[this is a very big move... making points and threatening the triangle stones...
+
+Yes. You should have played it yourself.]
+(;W[ib]LB[rj:A]C[attempt to create a weak group. it would however be possible to safe the stone with A and maybe get an eye. but I thought during the game that these are just points and that its more important to attack the top group instead. was I wrong?
+
+This move is bad. It is far too dangerous to attack when you have yourself a weak group.]
+;B[kb];W[mb];B[hb];W[jc];B[kd];W[jb];B[kc];W[fb];B[hj]TR[hb]
+[kb][hc][kc][lc][jd][kd]C[Bs triangle stones are dead as they are. but w has no stones in the center to kill it. hence, the goal now is to get some stones in the center.  in retrospective w should have reversed the play order. hence, get some stones in the center first and then attck the top group... correct?
+
+Correct. By attacking from the center, you would have strenghtened your weak stones in the process. Once your opponent is enclosed, you can try to kill him whenever possible (or let him live small).]
+;W[ii];B[ij];W[jj];B[ji]LB[jh:A]TR[nk][jl]C[spend a long time thinking about this one... there is the danger that the marked  stones get cut in the middle. however, I wanted to keep on getting stones around A to attack the black stones on the top...the marked stones should be strong enough I thought...]
+
+(;W[jh]C["Atari is a bad move"];B[ki];W[kh];B[jk];W[kj];B[kk]
+;W[lj];B[ll]C[I underestimated the severity of the cut...
+
+Game over.];W[kp];B[kq];W[mm];B[lm];W[ln]
+(;B[mn];W[ml];B[hi];W[ik];B[lk]
+(;W[mk]LB[km:A]C[mistake... should be at A, then everything would be fine...
+
+Yes. Black should have played J9 first.];B[kn];W[id]C[the middle is cut in pieces... if w doesnt get the entire top its over.]
+;B[ic];W[ih];B[ie];W[hd];B[kf];W[le];B[ke];W[if];B[he];W[gd]
+;B[hf];W[hg];B[lg];W[mg];B[lh];W[mh];B[li];W[mj];B[gg];W[gf]
+;B[gh];W[tt]C[Result: B+Resign])
+(;W[km];B[mj];W[li];B[mk];W[nj]))
+(;B[ik]TR[jl][jm][gn][hn][in][jn][ln][jp][kp]C[Dead.]))
+(;W[kj]C[Probably the only move which would have connected your 2 weak groups and create eye shape.]
+))
+(;W[rj]C[Maybe not sente. Black can tenuki right now (or play the S12-S11 exchange then tenuki).]
+;B[rk];W[ri];B[qk];W[sk];B[oh];W[ib]LB[rj:A]C[it might be even sente. hence, A was definitely worth trying?]
+))
+(;W[qj]C[This move is ok.];B[pk];W[rg]TR[oh]SQ[pj][pk]C[You are ok because if you play at P12, the black marked stones are captured.]
+))
+(;W[lk]))
+(;W[kk]C[This direction is definitively better even if I'm not sure what is the better move.]
+)
+(;W[ll]))
+(;W[rn]C[Black overplays a bit here...]
+(;B[qm];W[pm];B[pl];W[rl])
+(;B[rl];W[qk];B[qm];W[pm];B[pl];W[pn];B[rk];W[rj])))
+(;W[lo]
+(;B[mo];W[ln])
+(;B[mp];W[nm];B[om];W[io];B[hp];W[lm]C[Maybe something like that: you have already almost one eye and a large base to go out to the center.]
+)))
+(;W[gr];B[gq];W[fr];B[hr]))
+(;W[mc]TR[hc][jd]C[Why not just this simple move? You get a small base and you deny one for the two black stones.]
+))
+(;W[qc]C[Black cannot find a good move now.]))
+(;W[fo];B[eq];W[do]LB[co:A]C[I didnt want to play the empty triangle and the shape looks aweful. however, like this w doesnt get locked in the corner...better result than actual game? I dont think so. A seems to be a mistake from w. unnecessarily strengthening b.
+
+Yes. That the price to pay for having played A ;-).];B[cr]))
+(;W[eo];B[cq];W[cp];B[bp];W[bo];B[bq];W[co];B[dq];W[dm]C[playable for w?]
+;B[ep];W[dn];B[bn];W[an]))
+(;B[cj]C[I don't like this move because it has no really clear intention (neither attack nor defend solidly).]
+
+(;W[df];B[bp];W[cq];B[gq]TR[cj][cn][bp]C[something like this for B seems playable to me
+
+It would be a difficult game for white because of its weak group while black has no real weakness (even if the marked shape is bad).]
+)
+(;W[fq]C[I would play here to defend my weak stone.]))
+(;B[fq]C[I would play here in order to gain something from white tenuki.]
+))
+(;B[ce];W[cj];B[ch];W[dm]TR[cl][cq][dq]C[this seems to be bad for B...
+
+I disagree. I think it is fully playable for black. I would continue with E17 to be strong at the top and white bottom left area is still open.]
+;B[ec];W[eb];B[dd];W[cc];B[fc];W[fb];B[gc]C[White is really strong now.]
+))
+(;W[ce];B[cf];W[cd];B[df];W[fc];B[cj]TR[fc][hc][fd]C[Normal position. H17 is a bit close of white strengh now.]
+))
+(;B[qk];W[qf];B[qe];W[pf];B[nc];W[oi];B[ok]LB[qi:A]C[in retrospective,  was A a bad invasion if b played right?
+
+Yes, it was. R10 is usual instead of A.]))
+(;W[qj]C[Normal move.];B[ql];W[qf];B[qh];W[of];B[nc];W[pi];B[qe]
+;W[rf]TR[qn]C[Here is one the standard variations. Latter R6 is a good invasion point.]
+))

@@ -1,0 +1,154 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+PB[SupRAS]
+BR[15k]
+PW[derhannes]
+WR[15k]
+KM[6.5]
+DT[2005-06-27]
+PC[The Kiseido Go Server (KGS) at http://kgs.kiseido.com/]
+RE[W+44.50]
+TM[900]
+OT[25/1200 Canadian]
+RU[Japanese]
+
+C[H: Hi, I'm playing White here and will mark my comments with "H:"
+
+Thanks to the reviewer in advance!];B[pd];W[dp];B[dc];W[pp]
+;B[ce];W[jc]LB[gc:B][jc:C][mc:A]C[Not really.  Black gets a really nice start if you let him play C, so I think playing to prevent that is very reasonable.  However one of the results is that black gets a sente play at A immediately.  If he tenukis, then you may get the opportunity to play A yourself in sente.  That would obviously advantage you more.
+
+K16 is also possible, but its focus is different; K17 aims to make life on the side, while K16 means to escape upward if attacked.  K16 is therefore slightly less threanted by a play at N17 or 16.
+
+H: I was not really content with that move. Of course, I prevent him extending at C, which is why I made this move, but after black A, white B, he would keep sente.
+
+Is there any way out of this dilemma?];B[cn];W[gq]C[Perhaps you could deviate from joseki here and play N17.  Black can choose to defend, allowing you to do the same, or he can pincer allowing you to do the same.  It's a trade off.]
+;B[mc];W[gc];B[dj];W[dl]LB[cl:A][cm:C][dm:B][dn:D]C[I am not sure about the feasibility of a wall there given D10 just above. Black will have an easy way into any space near the wall.
+
+H: I hoped on a sequence like A-B-C-D, giving me a wall to the center and was quite amazed that black did not respond to this cutting threat]
+;B[bp]C[he can still connect upper to d10, see variation, or try to make life in the corner, so year he is alive.
+
+H: Is black already alive here?]
+(;W[dn];B[cq];W[dq];B[dr];W[er];B[ds]C[Here, you should play elsewhere.  Black is alive for sure, and you are wasting a ko, or endgame move.]
+;W[es];B[br];W[gm]LB[eq:A]C[This move loses you sente to prevent the lose of two stones.  This point in the game is too critical to worry about single stones, which are not critical to your groups survival.
+
+H: In this move I tried to prevent the cut at A and make potential terortiry at the same time. Would there have been better choices?]
+;B[nq];W[lq]C[The purpose of building walls is, paradoxically, not to build territory right near them.  They actually function as a spring board for attacks, and places the opponent should not tread.  Look up the usage of thickness, and thinness.]
+;B[no];W[lo]C[This is definately not the best way to use your wall.  Forcing black to try and make life near your strength would be better.  This choice risks loses the final corner you control, and there is a proverb that warns against losing all the corners.]
+;B[qn]C[Lets consider some really rough estimates of the distribution of points.
+Black
+~14 upper left 
+~18 upper right
+~10 bottom left
+
+White 
+~4 upper centre
+~40 lower centre
+
+Black is only two point behind in this estimate, but has potential on the left hand side, and might even take the lower right corner.  Your focus on the territory around your wall is allowing black to create a number of avenues for his advancement.  Economists sometimes offer some helpful advice: diversify your protfolio, that is don't concentrate overly on one area.
+
+H: I'm pretty sure, there is some standard sequence in here, but I happily made without it.]
+;W[op];B[np];W[ro];B[qq];W[qp];B[pq];W[rq];B[rn];W[qr];B[pr]
+;W[rr];B[pk]C[Black now has some strength near the loose side of your main enclosure.  You stand to take some loses from your main source of points: not good.  This is a result of letting the corner get surrounded, and then trying to create life there.  
+
+You ended up pushing black outward, and on to your enclosure.]
+;W[qg]C[A desperate move for desperate times.  It might be better to play some sacrifices near there (Q17 Q16 say) to create an invasion.]
+;B[qi];W[rd];B[qc]
+(;W[rc]C[you're aiming to make life, so make it fast.  S17 is slow.  It doesn't gain you an eye, or threaten very much.  S12 wouls be better.  Seevariation]
+;B[rf];W[qf];B[rg];W[qe];B[rb]
+(;W[of]C[then avoid the need to escape; leanr to make life better.  Escape usually doesn't make many points anyways.  Living is better.
+
+this is also a short extension.  Go for a two space, see variation
+
+H: I'm really bad at escaping in such situations and fear that I made it just because black made a mistake. Please give me a hint, where I could have done better!]
+;B[pe];W[pf];B[le]C[Black makes you heavy, and then surrounds you in a large sense]
+;W[oi];B[ph];W[oh];B[nk];W[oj];B[ok];W[oe];B[od]C[Not really necessary for black.  N11 might have done more damage]
+;W[ne];B[ng];W[og];B[lg];W[qh];B[rh];W[pi];B[qj];W[mi];B[nj]
+;W[mh];B[mg];W[ki];B[lm];W[jn];B[kp]C[This is a laying aji (exploitable potential) in your formation.  You'll notice this stones is involved in a large cut later on.]
+;W[lp];B[jl];W[mn];B[ln];W[mo];B[ij];W[jg];B[je];W[ii];B[hi]
+;W[ih];B[hh];W[hg];B[id];W[ic];B[hd]C[Play up perhaps to G16.  You get G15 as a possible more later, and L14 which might easily save your centre.]
+;W[jj];B[hc];W[hb];B[gd];W[fc];B[fd];W[ec];B[ed];W[db];B[cc]
+;W[cb];B[bb];W[eb]C[The addition of the wall adds to the pressure on your centre group, so you really need a way out for it.  Luckily you have that.  see variations
+
+H: Do you think it a bad exchange, getting some territory at the top but helping black to build this wall?]
+
+(;B[fg];W[ik];B[hj];W[jk];B[in];W[im];B[jo];W[io];B[kn];W[hn]
+;B[ko]LB[lo:A]C[That seemingly inconsequencial L4 stone suddenly causes you great pain.  
+
+See variations for your question
+
+H: could I have saved the A-group here?]
+(;W[kq]
+(;B[jq]
+(;W[mm];B[ml];W[oq];B[or]
+(;W[nn]C[See variation];B[oo];W[pn];B[on];W[om];B[pm];W[po]
+;B[ol];W[nm];B[mr];W[lr];B[jr];W[ip];B[jp];W[qm]LB[mo:A]C[Lets see.  
+
+H: Here I decided the A group to be already dead.];B[pl]
+(;W[rm];B[ql];W[rl];B[rk];W[sn];B[kr];W[jm];B[kl];W[il];B[fk]
+C[Now you do?  Why not earlier, or better throughout the game?  The score estimate puts black ovr 50 points ahead, that is enough for you to resign over at this point.  You need some magic
+
+H: Now I started attacking his territory. Would there have ben anychances to make mine bigger?]
+;W[cm];B[bn];W[bj];B[ck];W[bk];B[cl];W[bl];B[bm];W[bg];B[bf]
+;W[cj];B[dk];W[cg];B[ci];W[bi]
+(;B[di]LB[ch:A]C[Lets see.
+
+H: I would have lost this group, if black had played A instead, right?]
+;W[ch];B[dm];W[en];B[em];W[fm];B[kb];W[jb];B[kc];W[ah]C[This the move that save you.  A13 would have killed without it]
+;B[fl];W[df];B[de];W[ef];B[ff];W[gg];B[fh];W[gh];B[gi];W[hk]
+;B[gk];W[kf];B[lf];W[ke];B[jd];W[ia];B[if];W[ig];B[hr];W[gr]
+;B[hq];W[hp];B[gs];W[iq];B[ir];W[nd];B[nc];W[ld];B[md];W[kd]
+;B[me];W[lc];B[lb];W[qd];B[pc];W[sb];B[ra];W[ba];B[ab];W[lk]
+;B[ll];W[mk];B[mj];W[lj];B[ls];W[gl];B[cf];W[dh];B[eg];W[dg]
+;B[gf];W[hf];B[he];W[jf];B[ie];W[ka];B[mb];W[ob]C[H: I started this attack merely by desperation, but as it evolved, I thought to have good chances to play nakade]
+;B[pb];W[pa];B[oa];W[na];B[qb]C[Why?  This is not a snap back position.]
+;W[oa];B[qa]LB[la:A]C[A most unfortunate blunder for Black.  Nearly anything else would have been fine.]
+;W[oc]C[H: Now, the game was decided.
+
+(last comment)];B[ca];W[da];B[bc];W[se];B[re];W[sf];B[sd];W[sc]
+;B[sl];W[qo];B[fr];W[fq];B[cp];W[do];B[al];W[ak];B[af];W[ag]
+;B[am];W[eh];B[ei];W[ee];B[sg];W[sd];B[ri];W[sm];B[sk];W[co]
+;B[bo];W[ni];B[pj];W[kk];B[aa];W[ca];B[hs];W[fs];B[fe];W[ps]
+;B[os];W[qs];B[nl];W[tt];B[tt]TW[ea][fa][ga][ha][ja][la][ma]
+[qa][ra][sa][fb][gb][ib][kb][lb][mb][nb][pb][qb][rb][kc][mc]
+[nc][pc][qc][md][od][pd][le][me][pe][lf][mf][nf][kg][lg][mg]
+[ng][bh][jh][kh][lh][nh][ai][ji][li][aj][kj][hl][hm][fn][gn]
+[in][qn][rn][eo][fo][go][ho][so][ep][fp][gp][rp][sp][eq][sq]
+[fr][sr][rs][ss]TB[ac][ad][bd][cd][dd][ae][be][ge][sh][fi][si]
+[ej][fj][gj][rj][sj][ek][qk][dl][el][cm][mm][nm][om][an][mn]
+[nn][ao][lo][mo][ap][lp][mp][aq][bq][kq][lq][mq][ar][cr][lr]
+[nr][as][bs][cs][is][js][ks][ms][ns]C[Through out black was leading you in influence, and then later, actual points.  You won only because of a huge blunder, and these cannot be depended upon.  I also think black gave up too much in the end game.  He had some 50 points on you that were widdled away to 25 or so, but even though your end game was strong, you would not have won save for black's unexpected blunder. 
+
+Things to study: 
+Life and death
+Thickness and thinness
+
+These will help you the most right now.
+
+Andrew Brown
+aka Salvor7])
+(;B[ch];W[dh];B[di];W[bh];B[ag];W[ah];B[al];W[ak]C[It is likely you would have died yes.]
+))
+(;W[ms];B[ns];W[ls];B[ks];W[ps];B[kr];W[qs];B[nl];W[os];B[nr]
+;W[rm]C[seki.  You have some play here.  Shouldn't just gie up with black looking so weak around P2]
+))
+(;W[on];B[nn];W[nm];B[oo];W[po];B[pn];W[om];B[mr];W[ns];B[lr]
+;W[kr];B[jr];W[ls];B[ms];W[ks];B[mq];W[ps];B[nr];W[qs];B[os]
+;W[mp]))
+(;W[jr]
+(;B[iq];W[ir])
+(;B[ir];W[iq];B[jp];W[hr];B[kr];W[is];B[lr];W[mr];B[mq];W[ls]
+)))
+(;B[ip];W[jq];B[jp];W[iq];B[hp];W[gp]))
+(;W[jq];B[kq];W[kr];B[jr];W[ir];B[lr];W[js];B[mr]))
+(;B[ik];W[kf];B[lf];W[ke];B[kd];W[jd];B[jf];W[kg];B[ld];W[if]
+;B[ie];W[nd];B[nc];W[lh]))
+(;W[nf]
+(;B[pf];W[pg];B[og];W[of];B[pe];W[oh]C[ladder for you])
+(;B[of];W[og];B[pf];W[pg];B[ng];W[pe];B[oe];W[od];B[ne];W[pc]
+C[dangerous for black])))
+(;W[rh];B[rf];W[qe];B[qf];W[pf]C[Play out some variations for here yourself.  For me, they all ended up kinda messy for black]
+))
+(;W[ck];B[cq];W[dq];B[cr];W[co];B[bo];W[dn];B[cm]C[easy life]
+)
+(;W[cq];B[cl];W[ck];B[dk];W[cm];B[bl];W[dm];B[bm]C[connected]
+))

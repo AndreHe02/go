@@ -1,0 +1,85 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+PB[yharzu]
+BR[5k]
+PW[looseuse]
+WR[4k]
+KM[0.5]
+DT[2007-11-01]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[W+Resign]
+TM[1500]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+C[looseuse [4k\]: hello
+yharzu [5k?\]: hi
+looseuse [4k\]: good game !
+yharzu [5k?\]: have fun
+
+Dudzik: Hi, I'm Dudzik[1d\] on KGS and I'll be your reviewer for today!]
+;B[pd];W[pp];B[cd];W[cp];B[id];W[iq];B[nq]LB[qn:A][jq:1][kq:2]
+[lq:3][mq:4][nq:5][oq:6]C[Dudzik: This is an invasion, and it is too early.  Notice that there are 11 open lines of territory on the left and right sides, but here, there are only 6... if you want to approach this corner, A is correct.]
+;W[pn]LB[oq:A]C[Dudzik: Ah, white let you off easy, here.  He should attach at A to make you feel uncomfortable.]
+;B[pr]C[Dudzik: Perfect.];W[qq];B[kq];W[fq];B[qf]C[Dudzik: This move is nice--black is ahead now.]
+;W[cj];B[ch];W[dm];B[ei]C[Dudzik: A nice move, but maybe a bit over-ambitious.]
+;W[nc]
+(;B[lc]LB[oc:A]C[Dudzik: I would play at A--see the variation.  You are giving white an easy chance to invade at 3-3.]
+;W[ne];B[og];W[pb];B[qc];W[ng];B[oi]LB[oh:A]C[Dudzik: A is more solid.]
+;W[qj];B[mf]
+(;W[of]C[looseuse [4k\]: awful move i think
+
+Dudzik: I think so too--see the variation.];B[pg];W[nf];B[me]
+LB[nh:A][ql:B]C[Dudzik: I don't know about this move.  A seems urgent--white has to worry about the invasion at B.]
+;W[qb];B[rb];W[pc];B[qd]
+(;W[nh];B[lh];W[ni];B[oj];W[nj]C[Dudzik: White is doing you a lot of favors by pushing from behind like this.]
+;B[ok];W[lj];B[ql]C[yharzu [6k\]: yeah, maybe];W[pl];B[qk];W[pk]
+;B[pj];W[qm];B[ol];W[pm];B[rj];W[mo];B[ko]LB[lp:A][mq:B]C[Dudzik: I would play this move at A instead.  This shape is difficult for black to handle if white attaches at B.]
+
+(;W[lp];B[lq];W[kp];B[ml];W[kk];B[ji];W[pf];B[qg];W[km];B[ln]
+C[this one was wrong i think :/
+
+Dudzik: Not quite... :) See the variation.  In any case, it is slow--you should finish off the upper left corner for an easy game.]
+;W[lm]
+(;B[dk]LB[ec:A][ed:B]C[Dudzik: A bit greedy--aren't you worried about a possible white invasion at the top?  You have the lead if you secure your territory at, for example, A or B.]
+;W[ck];B[dj];W[ci];B[dh];W[ec]
+(;B[gc]LB[dc:A]C[was this right? i dont think he should be able to live there ....
+
+Dudzik: This is too easy on white.  You should attach at A. (seeing a pattern here?)  See the variation.]
+;W[cc];B[bc];W[cb];B[fb]LB[dd:A]TR[cc][ec][cd]C[Dudzik: A is the vital point in this shape.  You should play it right away.]
+;W[dd];B[ce];W[ef];B[ee]LB[bb:A]C[Dudzik: Too aggressive.  You can probably still kill him by playing at A.  Now it gets complicated.]
+;W[de];B[fe];W[cf];B[bf];W[bb];B[bd];W[ff];B[gf];W[gg];B[cg]
+;W[ge];B[gd];W[hf];B[fd];W[df];B[gi];W[jp];B[mn]C[Dudzik: Why did you respond to his move?]
+;W[mm];B[dl];W[cl];B[ik];W[in];B[em];W[dn];B[en];W[eo];B[eb]
+;W[jf];B[ig];W[fh];B[eg];W[fi];B[fj];W[hg];B[fg]C[Dudzik: It's very dangerous, of course.  I don't even think that you need to kill this group to win the game--if you are behind, this is the right way to play, but white does not have komi--you should count for yourself that black is only behind a little if you simply start playing endgame now.]
+;W[gh];B[hi];W[kg];B[if];W[ie];B[je];W[he];B[jg];W[hd];B[ic]
+;W[hc];B[hb];W[ib];B[jb]LB[jc:A]C[yharzu [6k\]: i think they should have been dead, but dunno
+
+
+
+this move was really bad :(
+should have played L14 ...
+
+Dudzik: Perhaps A is best here.];W[jd];B[jc];W[ke];B[kd];W[je]
+;B[kh];W[eh];B[dg];W[di];B[ej];W[bi];B[bg];W[ae];B[le];W[ac]
+;B[be];W[ad]C[yharzu [5k?\]: thank you
+looseuse [4k\]: thanks
+yharzu [6k\]: nicely done
+
+Dudzik: A couple of concluding remarks.
+
+I would focus a little more on trying to play a simple game.  It would help to stop and count the score a few times during a game--if you know whether you are ahead or behind, it will be easier to know what you need to do to win.
+
+Also, you can gain many stones of strength by working tsumego, tesuji, and shape problems, as these will all improve your calculation and help you get out of messy situations.
+
+Cheers!])
+(;B[dc];W[ed];B[de];W[gc];B[ic]C[Dudzik: A little harder to make eyes.]
+))
+(;B[mn]
+(;W[mm];B[nm];W[nn];B[no];W[on];B[mp])
+(;W[nm];B[mm];W[nl];B[nn])))
+(;W[mq];B[mr];W[nr]))
+(;W[mg]))
+(;W[nf];B[me];W[of];B[pg]TR[of]C[Dudzik: This exchange is very crude.]
+))
+(;B[oc];W[nd];B[ld]))

@@ -1,0 +1,279 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+PB[Mekeninzo]
+BR[14k]
+PW[hiead]
+WR[15k]
+KM[6.5]
+DT[2007-11-20]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[W+Resign]
+TM[3600]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+C[s> Hello, it is my pleasure to review this game for white.  My comments are marked with "s>".  There are questions from white throughout the game.  An index to my suggestions are on the next move.
+
+In summary white was a superior fighter but sometimes extended too far, or got tunnel vision.  Consider looking for "bigger" moves when the local situation is somewhat stable.
+
+Also look for move with good side effects.  A couple of times an attack pushed the opponent to weaken you.]
+;B[pd]C[
+24 > attack with distance moves, defend with contact moves.  the contact play here helps him get stronger.
+
+44 > too small or minor a move, try pushing with some forcing moves, then play in some large areas.
+
+58 > extend from your base rather than close contact plays
+
+80 > cut and kill
+
+90 > use shortage of liberties to capture group in center of board and rescue one of your dead groups.
+
+120 > threaten to capture stones while securing.
+
+128 > push against wall rather than surround directly, prevent dangerous sacrifices.
+
+240 > severl moves on the upper left are not needed, while there are big opportunities around the right side.
+
+254 > ko battle, the funnest part of go for me is the ko battle, here you can cash in all those already dead groups to push the other guy around.
+
+274 > when you have an undercut or you have stones looking under a group try playing stones a ways in, especially when your wall extends to the edge.
+
+280 > try sacrificing a stone or two and reducing his group to just one eye.
+
+"pass" moves where it does little benefit to the game:
+142, 144, 162, 236, 240, 246,];W[dp];B[pp];W[dd]C[From here, black plays on the star points for a few turns, i make approaches. Should I be responding to the star point plays more?
+
+s> I think your responses are good, maybe support your stones more when threatening him.  For example the O3 stone sat alone with no support for some time.]
+;B[pj];W[nq];B[dj];W[nc]C[As well as whether or not I should respond to the star points, is it reasonable to make two approaches like this?
+
+s> I think leaving O3 alone isn't so good, if  you support it then Q4 feels more attacked.]
+;B[ge]C[s> This looks like a mis click.  Black is pretty much passing.]
+;W[gc]C[s> good play, this is where black wanted a supporting stone.]
+;B[nd];W[md];B[oc];W[ne];B[od];W[mb];B[nb];W[mc];B[na];W[ma]
+C[s> This is a consistent pattern throughout the game, white makes a move that strengthens things for him, then black responds, giving white the initiative.]
+;B[ob];W[nf];B[ng]LB[pf:B][og:A]C[s> contact plays force the other guy to get stronger.  attack from a distance, defend with contact.
+
+A: game move
+
+B: white is stronger here, so he attacks by extending to the edge, dividing Q16 from Q10.]
+;W[og];B[oh];W[nh];B[mg];W[ph];B[oi]LB[mf:A][pf:B]C[s> again, I would go to the edge, support the cutting stones, attack Q16]
+;W[mf];B[lg];W[lf];B[kf];W[ke];B[jf];W[kg];B[kh];W[jg];B[ig]
+;W[jh]
+(;B[mi]C[Why did he net the one stone, when he would have won the ladder? Error on his part, or something important?
+
+s> looks like black became paranoid.  Maybe after that invasion with P13 he's anticipating bad things.  at the 15 kyu level the reading isn't so good yet, so immaginary bad futures may come to mind.]
+;W[fj];B[mh]LB[if:B][pf:C][ih:A][jp:D]C[s> There is alot happening right now, here's what I see.
+
+A: The move from the game, white gets out of the possible net.
+
+B: K14 stones are a bit weak, white can take two free moves with J14 and J15, dividing K14 from G15.
+
+C: Whites invasion on the right is hanging by a thread.  Q14 will strengthen and extend.
+
+D: Lots of space down below, K4 will get in a star point, to follow the game pattern.]
+
+(;W[ih];B[if];W[ki];B[lh];W[lj];B[kj];W[jj];B[kk];W[li];B[pg]
+;W[of];B[qh];W[mj];B[ni]LB[lk:A][mm:B]C[s> try a play to threaten two things at once. gaze out at Q7 while surrounding L9.
+
+A: game move threatens ladder of L9
+
+B: extend out a ways with N7]
+(;W[lk];B[jk];W[ij];B[ik];W[hj];B[hh];W[hi];B[gh];W[hl];B[ll]
+;W[kl];B[jl];W[km];B[jm];W[lm];B[ml];W[jn];B[in];W[jo];B[kn]
+;W[ln];B[ko]LB[im:B][kp:A]C[s> the ladder works at A, but why not capture K9?
+
+A: put two stones in atari to give K5 more of a base.
+
+B: capture the center group.]
+(;W[kp];B[io];W[jp]C[I wasn't sure whether it would be better to take the two stones or connect here. I decided on this to make a base for the bottom. Good move?
+
+s> I like this move, it does radiate power towards G3 area more than just L4 alone would do if you had taken with M5.]
+;B[hm];W[fl];B[gm];W[fm];B[gl];W[hk];B[gk]LB[fi:C][il:A][im:B]
+C[s> again, the side effects. when under attack each liberty is precious.
+
+A: force k8 to connect with h7, reducing h10's liberties.
+
+B: use shortage of liberties of k9 for snap back capture
+
+C: bamboo connection gives H10 a sure escape and puts pressure on G12]
+
+(;W[il];B[im];W[gp];B[gj];W[fk];B[gi];W[dh];B[ji];W[mm];B[nj]
+;W[nl];B[mk];W[ol];B[pl];W[pm];B[nm];W[nn];B[lo];W[mn];B[lp]
+;W[lq];B[mp];W[np];B[ip];W[mq];B[jq];W[kq];B[jr];W[kr];B[ks]
+LB[hq:C][iq:B][ls:A]C[s> this move caught my eye.
+
+A: game move to threaten to take L1 and secure O2 area as territory.
+
+B: capture three stones, but leave strong stones close to F2 territory, ready to invade.
+
+C: threaten to capture three stones and secure E3 territory.  I think this matches your playing style of threaten something to get stronger, then he has to respond, and you get to move to another big place.]
+
+(;W[ls];B[js];W[iq];B[ir];W[hq];B[hr];W[gr];B[gs]LB[fr:B][fs:A]
+C[s> sure, the k2 stones are dead, but keep them from becoming a sacrifice for some other thing living.
+
+A: surround directly
+
+B: push against the wall, allow no cutting / escaping stones.]
+
+(;W[fs];B[fr];W[hs];B[es];W[is];B[eq]LB[dq:B][fq:A]C[s> black has some stone in your territory, what to do?  attack directly, or prevent from getting two eyes.
+
+A: game move attacks directly
+
+B: something like D3 or C2 protects corner where eyes are easiest to make.]
+
+(;W[fq];B[er];W[ep];B[dq];W[cq];B[cp];W[cr];B[bp];W[gs];B[bq]
+;W[dr];B[do];W[eo];B[dn];W[en];B[dm];W[dl];B[el];W[em];B[ek]
+;W[cl];B[ej];W[bm];B[co];W[bn];B[ao]LB[bj:B][an:A][br:C]C[s> B4 stones are dead, and C2 has quick life when capturing E2, C8 stones are the ones at risk, get more eyes.  Also, in general when fighting with a group, reduce the outside liberties first, increases likelyhood of winning capture race or finding seki.
+
+A: game move
+
+B: stretch out and get some eye space
+
+C: keep B4 out of corner, capture more quickly.]
+(;W[an];B[br];W[ds]C[Should I have waited for a black threat at C1 or D1 before doing this? I decided I had enough weak survivors sticking around for black..
+
+s> yes, I would wait, but it is safer to capture right away.]
+;B[bo];W[bs];B[ck];W[bk];B[bj];W[ci];B[ak];W[bl];B[cj];W[fi]
+;B[al];W[gg]C[In retrospect, this doesn't seem very threatening. Even if I cut, I can still be netted in there.
+
+s> good point, black has F13 to play the net like you said.]
+
+(;B[hg];W[fg];B[gf];W[eg];B[ar];W[bi];B[cn];W[ai];B[aj];W[ei]
+;B[cm];W[di];B[hc];W[cs]C[I feel like this was also a move I should have saved for later, if ever.
+
+s> yes, I agree, it is tricky to find larger moves.  hard to pull away from a battle when it ends.  maybe try standing up, looking away from the board for 30 seconds.]
+;B[gd];W[fd];B[fc];W[gb]LB[fb:A][hb:B]C[s> push stones away from strength.
+
+A: game move pushes G18 stones into N18 strength
+
+B: come between G18 and N18, things are open to the corner.]
+
+(;B[fb];W[hb];B[ib];W[ic];B[hd];W[jb];B[kb];W[kc];B[ja];W[ia]
+;B[jd];W[ka];B[kd];W[ld];B[jc];W[lb];B[id];W[ga];B[ed];W[fe]
+;B[ee];W[ff];B[de];W[ec];B[eb];W[dc];B[db];W[cc];B[cd];W[ce]
+;B[bd];W[df];B[bc];W[cb];B[ca];W[bb];B[ab];W[ef];B[ba]LB[ad:A]
+[pf:B]
+(;W[ad]C[Was this right? I think this killed black.
+
+s> with B18 removing so much eye space for black it is very hard for him to live.  I think black needs four free moves to make it live.
+
+Sometimes even though you can kill something it may be better to expand to larger areas.]
+;B[be];W[bf];B[ee]LB[fa:A][pf:B]
+(;W[fa];B[ib];W[da];B[ic];W[ae]C[s> white passes.];B[pf]C[s> how much did black's play here cost you? maybe 10 points?]
+;W[ql];B[oe]LB[pk:A][qq:B]C[s> now black passes. Closing time, down to the end.  where are the big moves?
+
+A: get a stone, grab 5 or 6 points to boot.
+
+B: take the corner, and where can Q4 go to?  gets more than 5 or 6 points.]
+
+(;W[pk];B[ok]LB[nk:A][qq:B]
+(;W[nk]C[s> white passes.];B[oj];W[qj];B[qi];W[ri];B[rj];W[rk]
+;B[qk]LB[qe:C][mj:B][sj:A]C[s> ah, the art of ko.  white really wants to take back r9, but white needs something bigger than 4 or 5 points.  This is where those close battles can come in handy, those groups that are dead, but if you had two moves then that dead group could live.  This is one good reason not to play out losing battles to the end, because it gives you food for ko.
+
+A: game move threatens to capture R9 and S10
+
+B: white gives black the choice of saving R9 ( ending the ko ) or saving N9 ( and continue the ko ).
+
+C: not really a threat, as P16 can likely live on his own, but it does look intimidating doesn't it? :)]
+
+(;W[sj];B[pl];W[om];B[qj];W[pk];B[rh];W[si];B[rl];W[rm];B[sk]
+;W[sm];B[qn];W[sl]LB[rk:A][qm:B]C[s> black has loads of ko threats to use, well at least two anyway.  why not use them here to get 6+ more points?
+
+A: the safe play connects, avoiding a ko fight
+
+B: cut in ko, black has two good ko threats, he's going to cash in here.]
+
+(;B[rk];W[qm];B[po];W[pq];B[qq];W[pr];B[qr]LB[rn:A][rp:B]C[s> with strong stones at s7 and t7 extend a ways and kill the group.
+
+A: play from game
+
+B: kill the group.]
+(;W[rn];B[ro];W[pn];B[so];W[rp];B[qo]LB[op:A][qs:B]C[s> the black stones don't have much space, go for the kill.
+
+A: game move
+
+B: cut under to take away eye space.]
+(;W[op];B[rq];W[sr];B[sq];W[ss];B[ps];W[os];B[qs];W[or];B[go]
+;W[fo];B[ho];W[hp];B[gn];W[oo];B[je];W[le];B[ea];W[da];B[fh]
+;W[eh];B[tt];W[tt]TW[aa][ba][ca][ea][ha][ja][la][ab][db][eb]
+[fb][kb][ac][bc][fc][lc][bd][cd][ed][be][de][ee][me][af][cf]
+[ag][bg][cg][dg][ah][bh][ch][aj][bj][cj][dj][ej][ak][ck][dk]
+[ek][al][el][am][cm][dm][nm][cn][dn][on][ao][bo][co][do][ap]
+[bp][cp][fp][aq][bq][dq][eq][gq][jq][oq][ar][br][er][fr][hr]
+[ir][jr][lr][mr][nr][as][es][js][ks][ms][ns]TB[oa][pa][qa][ra]
+[sa][pb][qb][rb][sb][pc][qc][rc][sc][qd][rd][sd][he][ie][pe]
+[qe][re][se][hf][qf][rf][sf][qg][rg][sg][nh][ph][sh][li][pi]
+[ri][si][lj][mj][sj][lk][hn]C[(Conversation from the game during scoring)
+
+Mekeninzo [14k\]: those arn't dead
+Mekeninzo [14k\]: bottom left
+hiead [15k\]: yes they are
+hiead [15k\]: want to play it out?
+Mekeninzo [14k\]: i think isee your point now
+hiead [15k\]: i kill the B2 group first, then that one])
+(;W[qs]
+(;B[rs];W[rr]C[s> try sacrificing a stone or two ( R1 ) and reduce the enemy group to one eye.]
+;B[ps];W[rq])
+(;B[rq];W[rs];B[rr];W[sp])
+(;B[sr];W[rq];B[rs];W[rr]
+(;B[qp];W[ss])
+(;B[ps];W[qp];B[or];W[qs];B[qr];W[oq]))))
+(;W[rp]C[s> with stones at s7 and t7 along that edge white can play much deeper in.]
+
+(;B[rq];W[ro])
+(;B[ro];W[so];B[rn];W[sn])))
+(;B[qm]
+(;W[rk];B[pl];W[qe];B[pe];W[pk];B[ea];W[da];B[pl];W[rl]
+(;B[pk])
+(;B[or]C[s> with another ko threat, no need to stop here.];W[pk]
+;B[am];W[dk];B[pl];W[qq];B[pk];W[pq]C[s> ok, so black was greedy and didn't play it right, but you get the idea.  P2 better played at r3 or q3 I guess.]
+))
+(;W[pl];B[rk]C[s> the simplifid versionback comes out with 10 points in his favor.]
+)))
+(;W[mj];B[pl];W[lk];B[rl];W[pk];B[am]C[s> black does have a dead group that could live if given two movs in a row.  white must respond... well actually not, white is ahead enough to just let it go. :)]
+;W[dk];B[pl];W[qm];B[rm];W[pk]
+(;B[sk]C[s> black traded his already dead group for a few points.]
+)
+(;B[rn];W[qj];B[ea]C[s> once again black can cash in an already dead group to get some more action.]
+
+(;W[da];B[qk])
+(;W[sj];B[ha])))
+(;W[qe];B[pl];W[pe];B[om];W[qg]C[s> use some urgent moves to extend that base first.]
+;B[pi];W[qf];B[ph]
+(;W[qc];B[qd];W[rd];B[rc];W[rb];B[re];W[sc];B[rg])
+(;W[qd];B[qc]
+(;W[rc])
+(;W[qb];B[rc];W[pb];B[pc]))))
+(;W[qq]))
+(;W[qq]))
+(;W[pf]
+(;B[da];W[fa])
+(;B[fa];W[da])))
+(;W[pf]
+(;B[fa];W[da])
+(;B[da];W[qg];B[fa]
+(;W[qi];B[ib]C[s> oops, bad idea, black lives in ko.])
+(;W[ib];B[be];W[bf];B[ae];W[ac];B[ad]C[s> black still has only one eye.]
+))))
+(;B[hb];W[fb];B[ec]
+(;W[eb];B[dc];W[db];B[cc];W[cb];B[bb];W[bc];B[bd])
+(;W[db]C[s> time to cut your losses and keep the corner.];B[eb]
+;W[ea];B[fa];W[ed];B[ga];W[dc];B[kc])))
+(;B[aj];W[hg];B[fg]))
+(;W[br];B[bk];W[aq];B[ap];W[an]
+(;B[bl];W[cm];B[ck];W[cn];B[ar];W[bo];B[dk];W[aq])
+(;B[ck])))
+(;W[dq];B[gs];W[dr]))
+(;W[fr]))
+(;W[iq]C[s> this looks fun, to grab three stones...];B[hq];W[ir]
+;B[hr];W[js];B[hp]C[s> now white has H2 threatening E2 area, what can white do?  makes K2 stones expensive.]
+))
+(;W[im];B[il];W[im]))
+(;W[im]))
+(;W[mm]))
+(;W[if];B[je];W[ie];B[jd];W[id]))
+(;B[ji];W[ih];B[hh];W[lh];B[ii];W[mh];B[kg];W[mj];B[of]
+(;W[pg];B[oe])
+(;W[oe]
+(;B[pf];W[pe])
+(;B[pg];W[pf];B[og];W[pe]))))

@@ -1,0 +1,258 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.17]
+
+PB[completebg]
+BR[14k]
+HA[4]
+PW[Gruz]
+WR[10k]
+KM[0.5]
+DT[2011-07-01]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[W+7.5]
+TM[1500]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+AB[dd][pd][dp][pp]C[Hi Sven,
+
+I'm Hushfield, currently ranked around 7k KGS, though I'm probably a little stronger than that. I've added comments (preceded by H) and variations to the sgf file. Sometimes, comments and general advice is given at the end of a variation, so you're best off viewing this sgf in a viewer/editor which displays varitions clearly. For reviews and analysis, I recommend CGoban (the KGS editor).
+
+Having looked through the game we are going to look at the following points in your game:
+- using the handicap stones more efficiently (moves 2, 6)
+- basic shapes (move 74)
+- overall strategy (move 16, 68)
+
+If you have any questions regarding this review, or would like to play a teaching game with me, feel free to add me on KGS. My id is 'Hushfield'. I hope this review helps you.
+
+Cheers,
+Simon];W[nq]C[Gruz [10k\]: Hi gl]
+(;B[pq]CR[fd][nd][ee][oe][df][pf][dn][eo][fp]LB[qn:1][kp:3]
+[lq:2]TR[aa][ba][ca][qa][ra][sa][ab][bb][cb][qb][rb][sb][ac]
+[bc][cc][qc][rc][sc][aq][bq][cq][qq][rq][sq][ar][br][cr][qr]
+[rr][sr][as][bs][cs][qs][rs][ss]C[I don't know how to correctly react to such a move by white. I was worried about white playing Q2 and entering the corner.
+
+H: The way you look at the board is understandable, but not exactly correct. Why worry about white entering the corner? Go is a sharing game, if white enters the corner, you'll get something in return. As things stand, you have no bigger claim on this corner than white does. The 4 stones on the 4-4 points you got as handicap stones in this game do not secure the corner (triangles) at all. They serve to exert influence towards the center (circles). That a 4-4 stone does not secure a corner, is proven by the success of a 3-3 invasion ()see links below. So rather than fearing that white will take away something that isn't rightfully yours, you should look for ways to use the 4-4 stone in the way it was meant. You can read up on the character of the different corner moves in the following places:
+- http://senseis.xmp.net/?44Point
+- http://senseis.xmp.net/?34Point
+- http://senseis.xmp.net/?33Point
+- http://senseis.xmp.net/?33PointInvasion
+- An excellent resource on the way the corner stones function and exert influence is the first chapter in Kajiwara Takeo's 'The Direction of Play', Kiseido, 1979 (http://senseis.xmp.net/?TheDirectionOfPlay). This book might be a little above your current level.
+- For a general introduction to openign theory, see Otake Hideo's ' Opnening Theory Made Easy', Kiseido, 2002 (http://senseis.xmp.net/?OpeningTheoryMadeEasy). At your current level, this one might be more valuable than the direction of play.
+
+Concerning your question: how would you react in an even game? (See var.1) Or you could try to attack the stones a little more severely, though the 4 handicap stones are just too few to mount a very severe attack. From 5-6 stones the opening moves really start to change. Here you probably should not play too differently from what you usually play, though if the opportunity presents itself, you could look for moves that take profit and attack at the same time. I've listed some options for you. Personally I like variation 3 best, because that serves as both a pincer and an extension.]
+;W[np]LB[qn:B][kq:A]C[H: This white move is absurd. Extending to A seems more reasonable.]
+(;B[cg]LB[jd:A][dj:B][pn:C][qn:D][jp:E][jq:F]TR[np][pp][nq]
+[pq]C[in the opening I tried to make my (possible, future) territory bigger and defend where white approaches me.
+
+H: If you want your future territory to be bigger, than you should make a large sphere of influence (moyo) by playing something like A or B. The move you played here is usually played as a way to limit your opponent's influence. There's not even a white stone in this part of the board. If this is your plan, you should think large! Play A or B.
+
+However, this is not really the time to be doing such things. What is happening in the lower right? The marked stones are having a staring contest! It's never a good idea to let your stones get surrounded, but that's especialy true in the opening,  It's more natural to play a move like C or D, to move out to the side. Then white will have to extend to E or F, or black can get a nice pincer attack going. (see var.) When that happens, you can still make your big move at A or B. (var.2)]
+;W[fq]
+(;B[fp]LB[ip:B][hq:A][iq:C]C[I thought that may be better than D3, also because combined with some other stones I'm looking for doing something on the left side.
+
+H: When you look at this board, there are 2 weak white groups. If you put a black stone between them, and make sure it doesn't get caught, both groups will be under attack at the same time. Knowing that, I'd prefer a pincer here. That's what I meant when I was talking about using your handicap stones. If white allows himself to have such a thin position and weak groups, you should take advantage of this thinness by attacking as severely as possible. This is what is meant by using the handicap stones. I've added one possible continuation.
+
+The move you chose works too well with the white stones on the right. You'll see why in the variation at move 10.]
+;W[gp];B[fo];W[eq]
+(;B[cj]LB[jd:A]TR[cg]C[H: This is the same thing as what happened in the lower right. You play on some other part of the board to secure a large point (though A is still larger here. Also, the marked black position is a little flat, or too low), while you should really continue locally in the lower left. The way my teacher taught me to stop doing that was by uttering the silly-sounding proverb "Don't go fishing when your house is on fire". (http://senseis.xmp.net/?DontGoFishingWhileYourHouseIsOnFire) In other words, play urgent moves before big moves.]
+;W[ep];B[eo];W[dq];B[cp];W[cq]
+(;B[dm]LB[cl:B][cn:A]TR[cj]C[with the idea of having the left side semi-connected.
+
+H: A is a better move. If you're worried that white will invade at B next, you should welcome this sort of play.
+
+In fact, this might be a good time to comment on your overall strategy during this game. You tried to surround a large part of the board, but you did it in exactly that way: playing stones to surround empty points on the board. This doesn't really put much pressure on your opponent, and it is usually the road to defeat. If you want to make profit, you have to do it through attacking. Play large moves, on as large a scale as you can think of, and invite your opponent into your moyo. Then attack the invading stones, and you will make profit either by killing them, or by leaning on them and taking profit elsewhere on the board. This strategy of surrounding territory is a typical mistake for kyu players (I myself still make this mistake), but it shoudl be just the other way around. Play large, invite invasions. 
+
+The marked stone is a little too low. It would be better if it were at D10.]
+;W[bp];B[bo];W[aq];B[mc]LB[jd:A]C[H: Too small. Think big: play A.]
+(;W[co]C[About the technique that white is using here to get into the left side: What can be done about it and how does it work? Should I have played C5 before, instead of N17?]
+;B[do];W[ao]
+(;B[cn]C[maybe B6 is better?
+
+H: Can you read out why B6 is better? The answer is in the variation.]
+;W[bn]C[H: Even when white plays like this, you can still protect your territory on the left side. (See var.)]
+(;B[co]C[H: This was not a good move. Now you're left with a clump and white gets to advance into your territory. Look back at the two ways you could have prevented this (variations at 24 and 26), and you will soon stop making this mistake.]
+;W[bm];B[bk]LB[jd:A][pj:B]C[I didn't know where to put a stone to block white's advance. B8 may be possible, but I didn't want to risk losing it.
+
+H: This is a result of not playing B6. However, while you are losing a few points here, playing at A or B seems much bigger than stopping the advance of the white stones.]
+;W[qo]LB[qn:A]TR[np][nq]C[H: This is why you needed to play here earlier. However, white's attack is a bit of a disasterpiece. the proper way of attacking is at A, when the marked stones are no longer as weak as they are now.]
+;B[po]C[H: your response is a good one, keep white separated and run out to the side/center.]
+;W[qn]
+(;B[no]LB[jj:B][hn:A]C[same principle as behind E5 earlier: aiming for the upper side of the board.
+
+H: The way you're playing here is good, because you're splitting white's groups. There is, however, a better way to attack. (See var.) If you want to secure a large moyo, moves like A or B might be a good option in the future.]
+;W[mo];B[nn];W[pl];B[nk]LB[mn:A][kq:C][lq:B]C[H: you're trying to surround again. Attack! White still has a weak group, so try moves like A, B or C.]
+;W[go];B[gn];W[hn];B[gm];W[mn]C[here i saw that white apparently wanted to get some territory on the lower side. I thought about playing a stone in the general area of J-M 1-6, then decided that now a connection between the group O6 and O9 was more urgent. But I still don't know if, when and how black should play a stone in that area.
+
+H: Your reasoning here is perfect. Always keep your own stones connected if you have the chance.]
+;B[nm]C[H: As explained in the previous move, very good move by black.]
+;W[pi];B[qg]LB[nh:A]C[H: If you want the center, why not play  A instead?]
+;W[qh];B[hm]LB[pg:A]C[thought about reacting locally but then decided to block white on the seventh rank if possible, again looking at the middle-upper region of the board.
+
+H: The value of these moves doesn't even begin to compare. You should play A instantly. Allowing white to play at A and almost complete a ponnuki here is the fastest way to lose the larger part of your center moyo. (see var)]
+(;W[in];B[kn]LB[lq:A][mr:B]C[to possibly separate white's big group on the left from those on the right. Maybe something like J16 would have been better?
+
+H: If you want to reduce white's territory, there are better moves than this. There is quite a lot of room on thel ower side, though probably not enough to live (since white has some strength on both sides. therefore it's best to fake an invasion, play lightly and get your stones out, reducing white's territory here. A or B seem like possible candidates here.]
+;W[ko];B[jo]C[a mistaken approach, at least the way i continued]
+;W[jn];B[lo]C[H: A nice technique.];W[kp]
+(;B[mm]LB[ln:A]TR[jo]C[H: This is departing from your plan. The only reason to play the marked hane is to be able to connect at A here.]
+;W[ln];B[km];W[lp];B[lm];W[qf];B[pg];W[rg];B[qe]LB[pf:A]C[in order to block the upper right region from these white stones
+
+H: You're better off giving up a little bit of corner and keeping your stones connected with A instead.]
+(;W[re];B[pf];W[rf]
+(;B[rd];W[sd];B[sc]LB[nh:A]C[H: Instead of connecting here, playing a move like A is much bigger. Don't worry about the few points you might lose in the corner here. If you formulate a plan at the opening stages of the game (to go for a large center moyo, you need to stick to that plan. He who chases two rabbits is likely to end up hungry.
+
+Whether or not your plan is a good one, it's really hard to say. Personally I find that trying to build a large amount of points in the center is very hard. If you like this style, however, you might want to study some of Takemiya Masaki's games.
+- http://senseis.xmp.net/?TakemiyaMasaki
+- There's even a test to see whether your reasoning behind moves fits this playing style: http://sanrensei.info/]
+;W[se];B[qc];W[ni]C[white enters the area i aimed for. I thought that i would have to allow some incursion but on the other hand to limit it as much as possible and possibly also win some stones in the process
+
+H: See variation at 66.];B[ph];W[qi]
+(;B[li]C[H: This is bad shape. It's called the elephant's eye, and white's next move will show you its weakness. I can't possible explain it better than Fan Hui (2p) could, so I'll just give you the link: http://senseis.xmp.net/?LameDuGo . Don't think of this as just some extra information, if you remember only one thing from this review, let it be Fan Hui's lessons on ripped shapes. You will encounter these again and again in your games, and spotting and avoiding them, or abusing them in your opponent's moves will make you a lot stronger.]
+;W[mj];B[mg]C[with the idea of letting white eat some territory in the lower-middle region while protecting the large middle-upper region.]
+;W[lk];B[jm]C[i wanted to make sure that the lower white group won't join with the approaching group. that would make it difficult to pose threats against the latter.
+
+H: You are right that' it's important to keep your stones connected, but it's not to be able to attack a white group, neither can effectively be attacked any more) but to protect your own weak group. Don't get cut off.]
+;W[jk];B[im];W[io];B[jp]C[probably useless, on the other hand white has to react because of the threat b: J4 w: H5 b:G3 and as long as white reacts inside its own territory i can play stones even if I loose them later on, because white looses as much points by playing in its own territory as he'll make due to the prisoners.
+
+H: It's best to keep this sort of moves lying dormant. You can use the mas ko-threats later on, or the aji here might at some point become useful again when the surrounding formatiosn of stones change. Because white is so strong here however, I think the best you can muster is a few ko-threats. So don't play this now, it is aji-keshi.
+- http://senseis.xmp.net/?AjiKeshi];W[ip];B[jq]C[this is probably worse than k4, because it doesn't really pose a threat. probably just a wasted move. Maybe H9 or K11 or H16 would have been better?
+
+H: Well noticed, this is the same as passing. Luckily for you, your opponent was convinced otherwise.]
+;W[iq];B[gc];W[cc];B[cd];W[dc]
+(;B[ij]TR[cc][dc][cd][dd]C[H: Again, don't go fishing when your house is on fire. This is the most extreme case of them all. Two pairs of stones are touching each other. The first one to hane at the head of two stones will surely profit. Don't ever, ever leave this formation untouched again. It's the epitome of houses burning down while their owners are off fishing.
+- http://senseis.xmp.net/?HaneAtTheHeadOfTwoStones];W[ik];B[gf]
+;W[gk]C[H: white seems convinced his corner group can live, but you can kill it. See var.]
+(;B[gj];W[hj];B[hi];W[hk];B[ii];W[fj]
+(;B[fi]LB[fk:A]C[i thought it was better to abandon G10 than to allow white to play F11 himself, which would mean a too big incursion. But I didn't see white's move E11 later on.
+
+H: Because white has to protect the cut at A as well, simply closing here is better. (See var.)]
+;W[gi];B[gh];W[ei]C[it seems to me this is the same technique used earlier in the game in the incursion on the left side. Still don't know what to do against it. In the next moves it happens several times and it seems white is making gains and eating away my territory.]
+(;B[gj]C[H: taking the ko is not the right move here. See var.]
+;W[ek];B[eh];W[ki];B[kh];W[lh];B[lg];W[jh];B[kg];W[ji];B[jg]
+;W[ih];B[hg];W[ng];B[mh];W[nh];B[nf];W[fb];B[kk]C[maybe it would have been better to react in the upper left corner, now that white has three stones there, vs my two. The reason for L9 was to build up a threat of cutting off white's L11 group. This is ultimately succesful though it probably shouldn't have been.
+
+H: See before. You could kill the group. Now, you can't.];W[kj]
+;B[kl];W[lj]C[I think K10 looks like a better move, because now I can separate L11 from K9]
+;B[jj];W[gi];B[hh];W[fh];B[fg];W[dh];B[fi]LB[eg:A]C[H: Blocking at would have been better. This leaves more room for trying to kill this group as well once it has been cut off.]
+;W[rc];B[rb]C[possibly i should have played O10 already now so as to kill the L11 group. On the other hand it may be a mistake to do this in any way at any time if white eats more points away in the middle-left area than i win by killing the group. But, all considered, i think it was right to target that group.]
+;W[fh];B[nj];W[mi];B[oi];W[oj];B[oh];W[nl];B[ml];W[ol];B[mk]
+C[now the white group has nowhere to go.
+
+H: Nice catch.];W[eg]C[H: But now taking the ko at 132 earlier backfires. That's why you should have blocked instead.]
+;B[ef];W[dg];B[df];W[ch];B[bg];W[hb]C[i think now white begins to profit from the fact that he has more stones than me in the upper left-middle area.]
+(;B[gb]LB[eb:A]C[trying to separate the stones, but white reacts and connects them indirectly.
+
+H: This strengthens white. It seems like the tesuji at A might work.]
+;W[ga];B[ec]C[trying to limit the incursion and also possibly do one myself.]
+;W[eb];B[fc];W[ic];B[hc]C[threatening j18.
+
+H: You do this a few times. It's not really threatening if white can just react.]
+;W[jb];B[kc];W[id];B[ie];W[hd];B[gd];W[je];B[if];W[kd];B[kb]
+;W[bc]
+(;B[pj]C[trying to invade, but failing quickly. I had hoped for the answer P9, so that after R10 I would have the threat of S12 if white doesn't react. If he does, I'm not losing anything, because for each of my prisoners he places a stone in his own territory. All pretty speculative.]
+;W[qj]C[gives the stone, but secures the area.];B[ok];W[pk]
+;B[bd]C[thought this was more important than saving the stone by playing P10
+
+H: Indeed it is bigger.];W[da]C[probably played so that white lives in the corner.]
+;B[ld]C[trying to limit the incursion and possibly win a bunch of stones. After several moves I win four stones for two, but white gains territory on the other hand. so i'm not sure about that whole sequence, concrete moves as well as strategy.]
+;W[le];B[me];W[he];B[hf];W[ge];B[fe];W[or];B[ja];W[jc];B[ia]
+;W[ib];B[lf];W[ke];B[kf]LB[ac:B][pr:A]C[H: This is incredibly small. There are bigger moves.]
+;W[ha];B[jf]C[the alternative would have been L19. Looking at the situation a few moves after this sequence, i think L19 would have been better. i mean i still have the threat of K14 afterwards, to which he can react by F19, but nonetheless i think i would have gained compared to the variation played. maybe this was the decisive mistake in this game.]
+;W[ka];B[jd];W[la]
+(;B[nb]C[is this the right way to block white's incursion?
+
+H: See var. Generally speaking, in endgame situations, you need to read what happens if white cuts your stone on the first line. Is this a problem here?]
+;W[na];B[oa];W[ma];B[ob];W[qp];B[qq]C[here i try to eat as much of white's territory, also looking for any possible incursions or wins of groups. Unfortunately not much came out of it.]
+;W[rq];B[rr];W[sp];B[pm];W[qm];B[om]LB[pn:A]C[H: Empty Traingle, bad shape. A is better.]
+;W[qk]C[blocking any ideas of achieving something for black by R9 or R8. On the other hand, it's probably not much of a threat if white responds correctly.]
+;B[bh];W[em]
+(;B[fn]C[ wanted to make sure i live here first, before trying to block anything.]
+;W[dl];B[dj]LB[cl:A]C[with the idea of possibly killing the large group if white can be prevented from getting two real eyes. The idea is to close all the false eyes one by one. Didn't really think it would work, but trying doesn't hurt.
+
+H: You can't kill something that is connected to something that lives. You're allowing white A.]
+(;W[ej];B[fl];W[el];B[cm];W[bl];B[cl];W[an];B[fk]C[with the idea of closing the eye on G10]
+;W[di]C[now white's group is definitely alive (E12, G11). Still I don't think the moves were wasted as they limited white's incursion.]
+;B[ci];W[pr];B[qr];W[pn];B[oo]C[necessary, else the Q5 group will die.]
+;W[ja];B[qs]C[maybe q1 is better?];W[oq];B[mq]C[threatening N4
+
+H: Again, read one move ahead. It doesn't accomplish anything, so it's not threatening.]
+;W[mr];B[lq];W[kq]C[now i thought the endgame had arrived and tried to play accordingly]
+;B[ac];W[ab];B[bb]C[here i thought i could invade. definitely shouldn't have done that. simply playing A16 would have been much better.]
+;W[ad];B[ae];W[ac];B[be];W[ak];B[aj];W[al];B[lb];W[fm];B[gl]
+;W[en];B[sr];W[sq];B[ps];W[os];B[oj];W[dk];B[ck];W[tt];B[tt]
+TW[aa][ba][ca][ea][fa][ia][bb][cb][db][sf][sg][eh][rh][sh][fi]
+[ri][si][rj][sj][rk][sk][ql][rl][sl][am][rm][sm][rn][sn][ho]
+[jo][lo][ro][so][ap][hp][jp][mp][rp][bq][gq][hq][jq][lq][mq]
+[ar][br][cr][dr][er][fr][gr][hr][ir][jr][kr][lr][nr][as][bs]
+[cs][ds][es][fs][gs][hs][is][js][ks][ls][ms][ns]TB[pa][qa][ra]
+[sa][pb][qb][sb][lc][nc][oc][pc][rc][ed][fd][kd][md][nd][od]
+[qd][ce][de][ee][je][ke][le][ne][oe][pe][af][bf][cf][ff][mf]
+[of][ag][gg][ig][ng][og][ah][ih][jh][lh][nh][ai][bi][ji][ki]
+[mi][ni][bj][kj][lj][mj][lk][ll][rs][ss]C[H: I think the main points in this game concerned your overall game plan. You formulated a plan, yet you got distracted from it several times. Also in the execution of the plan, you need to play larger moves and invite invasions, not surround empty points with your stones.
+During the opening there were a few moments where you could have used the handicap stones more efficiently. Overall, there are quite a few instances of bad shape and general reading mistakes, but these are only natural at your level and will get smoothed out as you play more, and, importantly, do more tsumego. Also, have a look at the L'ame du Go-page by Fan Hui, it will help you a lot. I'm sorry if my comments sounded harsh at any point, they were definitely not meant that way. You played well, and will continue to improve. Have a look at some of the resources I linked to, and you will be well on your way to giving a 14k 4 stones handicap. Should you have any questions or comments, or would want to play a teaching game, I'm Hushfield on KGS, feel free to add me.]
+)
+(;W[cl]))
+(;B[el];W[fl];B[dl];W[fm];B[fn])
+(;B[fm];W[el];B[en]))
+(;B[mb]C[H: This is better, white can't cut.];W[ma];B[na];W[nb]
+;B[oa]
+(;W[ob];B[pa]
+(;W[pb];B[qa];W[qb];B[ra])
+(;W[qb];B[pb]))
+(;W[pb];B[ob])))
+(;B[ok]))
+(;B[eb]
+(;W[ec];B[fc];W[db];B[gb])
+(;W[fc];B[ec];W[ed];B[fd];W[ee];B[fe];W[ea];B[db];W[cb];B[de]
+;W[da];B[ed];W[gb];B[jb];W[gd];B[hc];W[hd];B[ic];W[ib];B[fa]
+;W[ga];B[ca];W[ba];B[bc];W[bb];B[bd]
+(;W[ab];B[ia])
+(;W[ia];B[ab]))))
+(;B[fh];W[dj];B[dh]C[H: This at least saves some points for black.]
+))
+(;B[gi]
+(;W[fi];B[fk];W[fl];B[ek])
+(;W[ek];B[fl];W[fk];B[eh])))
+(;B[ec];W[eb];B[fb];W[ed];B[fc];W[bd];B[be];W[ce];B[de];W[cf]
+;B[bf];W[df];B[ee];W[ef];B[fe];W[bc];B[db];W[cb];B[ea]
+(;W[ba];B[ab])
+(;W[ab];B[ba];W[ca];B[ad])))
+(;B[ec];W[eb];B[fb];W[ed];B[fc];W[bd];B[be];W[ce];B[de];W[cf]
+;B[bf];W[df];B[ee];W[ef];B[fe];W[bc];B[gg];W[db];B[hj]))
+(;B[mi];W[mj];B[nj];W[mh];B[li];W[nh];B[lh];W[lg];B[kg];W[lf]
+;B[nf];W[mf];B[ng];W[mg];B[kf];W[ld];B[kd];W[lc];B[kc];W[lb]
+))
+(;B[nh]C[H: notice how much this move has come up in variation up to now. It's a move well worth losing a few small points for, because it completes your center moyo.]
+))
+(;W[pf]C[H: This is disaster for black.]))
+(;B[ln]LB[mm:A][lp:B]C[H: Don't fear white playing A, because that will create an excellent opportunity for you. (See the rest of this variation)]
+(;W[lm];B[mm];W[mp];B[jm];W[lp];B[km];W[ll];B[nh])
+(;W[mm];B[lp];W[mp];B[kq];W[jp];B[jq];W[ip];B[mr]TR[mm][mn]
+[mo][mp][np][nq]C[H: Now the marked white stones are cut off and under a severe attack]
+)
+(;W[lp];B[ll])))
+(;W[pg];B[qf];W[nh]))
+(;B[om];W[pl]TR[qn][qo]C[H: White has to play here, or the marked two stones will come under a severe attack and will probably die.]
+;B[kq]LB[po:30]TR[np][nq]C[H: But now the other white stones are  under attack. This is a splitting attack: you aim to attack two groups at once, and your opponent can only help one at a time. That is why your move 30 was such a good move.]
+))
+(;B[bm];W[co];B[am]))
+(;B[bn];W[an];B[am];W[ap];B[cm]))
+(;W[ao]))
+(;B[cn];W[bp];B[bo];W[cl];B[ek]))
+(;B[dq];W[jq];B[dn]))
+(;B[hq];W[jq];B[fp];W[gp];B[gq];W[ep];B[fo];W[eq];B[eo];W[dq]
+;B[cp];W[br];B[ho]))
+(;B[pn];W[cf];B[lq])
+(;B[qn];W[jp];B[dj]))
+(;B[qn]C[Variation 1.];W[pr];B[qq];W[kq]C[H: This is a normal joseki sequence which regularly pops up in even games. Since you're around 14k KGS, you will have encountered this one already in your games. However, it's not the best option here, simply because it is a little too easy on white. You start out with 4 stones to none of white. You need to use that early advantage to put more pressure on white.]
+)
+(;B[lq]C[H: Variation 2: a normal pincer]
+(;W[qq]C[H: If white takes the corner with 3-3...];B[pq];W[qp]
+;B[po];W[pr];B[or];W[qr];B[oq];W[qn];B[iq]C[H: ... the result is seems slightly better for black. White got points but black got some nice thickness, and the entire lower side is now affected by black's strength.]
+)
+(;W[no];B[on];W[kp];B[lp];W[lo];B[kq];W[jp];B[jq];W[ip];B[hq]
+C[H: Black makes secure territory while white gets some outside influence. This seems about equal.]
+))
+(;B[kp]TR[dp]C[H: This looser attack also serves a a wide extension from your other 4-4 stone.]
+(;W[nn];B[pm])
+(;W[no];B[pn];W[pr];B[qq];W[kr])))

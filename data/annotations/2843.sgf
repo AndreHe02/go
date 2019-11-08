@@ -1,0 +1,230 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.14]
+
+GN[gtl_mishat2000]
+PB[Mishat2000]
+BR[18k]
+PW[trdwzrd]
+WR[18k]
+KM[6.5]
+DT[2003-08-04]
+PC[The Kiseido Go Server (KGS) at http://kgs.kiseido.com/]
+RE[W+21.50]
+TM[900]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+C[
+* Hello, I'm Paul your reviewer. I hope my review will be helpfull and interesting. Please keep in mind that my opinions on the game can be wrong ... after all I'm not even close to being a pro.]
+;B[dp]C[Please, tell me about my mistakes in the opening.
+It is the most difficult part of the game for me as a beginner.
+
+* I will point out some opening issues, but as a beginner you don't have to worry much about the opening. Studying this part of the game improves your abilities very slowly. Just try to make reasonable moves.
+
+A good strategy for the opening is to go to the corners first: either on the 4-4 point or on the 4-3 and 3-5 point.
+
+(By the way: Some players might argue that it's more polite if black starts in the upper right corner, but ...)]
+;W[pd];B[pp];W[cd];B[jq];W[cm]
+(;B[qn]C[* Your first three stones are well placed. I think it's a good idea to play on the 4-4 points as a beginner because it keeps things simple. At the start of the game these 4-4 corners aren't very important. The upper left corner is still "hot" and it's also a good idea to expand along the border.]
+;W[gp]
+(;B[pj]C[* I believe it's a bad idea to abandon the corner.]
+
+(;W[qg];B[fq];W[gq]
+(;B[gr]C[* Attaching moves make both sides stronger. And making white stronger is a bad idea in this situation ... black should threaten the white groups from a distance.]
+;W[cj]
+(;B[nc]LB[ec:a][en:b][kc:c]C[here i tried to stop the white extension on the top
+
+* The idea is okay, but the move is questionable. (see next move)
+
+In my opinion a second stone in 3-4 corner is more urgent than a second stone near a 4-4 corner. (A) Next I would have preferred to do something about the lower left corner because white shouldn't be able to connect his stones without a fight. (B)]
+
+(;W[oc]C[* This move is weak because it gives black a lot of room.]
+;B[nb];W[ob];B[jc]C[* Good, correct distance to your wall. ("wallsize + 1" empty fields)]
+;W[gc];B[hr]C[* Your stones are stronger than the white stones in that region. You should attack or play elsewhere. (This move doesn't build territory, doesn't weaken white stones and doesn't reduce your opponents territory.)]
+;W[cp]
+(;B[cq]TR[gp][gq]C[defending the corner
+
+* It's a good move. But I'd like to point out that such positions are a good time to rethink your strategy. The "obvious" C5 won't work but D5 and other moves that give up the corner look interesting.]
+;W[co];B[eq]TR[fp][fo][eo][do][en]C[maybe it wasn't necessary, i didn't want white playing e3
+
+* It is good to play somewhere in that region, but a good move has to do several things at once. The typical properties of a good move are:
+
+ - It increases your territory.
+ - It decreases your opponents territory.
+ - It strengthens your groups.
+ - It weakens your opponents groups.
+
+Your move only strengthens your groups. The other marked moves make a bit more territory and weaken the white stones.]
+;W[qj]
+(;B[qk]C[* Here I would have played the hane from the other side. While I would probably loose that stone it would give me more options in the area.]
+;W[qi]
+(;B[pk]LB[rk:a]C[* Since we had this position twice in the game I'd like to point out that your group is "heavy". A lot of your stones sit closely together and don't "do" much.
+
+It's certainly better to play at S9 (A) instead: the sum of your liberties is bigger and you have more possibilities in the future.]
+;W[mp];B[mq]LB[nq:a]C[* Ok, but the diagonal play (as before on the left side) would have been better. (Never attach if you want to attack.)]
+;W[nq];B[lq]C[here i allow him to cut. I don't know, if I could avoid it.
+
+* White will have difficulties to make life. His group will stay weak for a while. On the other hand your groups are now all safe. If you attack the white stones you have the chance to win a lot but you can't loose much.]
+;W[pq]
+(;B[qq]C[* Cutting the white stones is certainly better for black. Even if white manages to survive in the corner black will have a big advantage.]
+;W[pr];B[qr];W[op];B[po];W[oo];B[on];W[nn];B[om];W[nm];B[nl]
+;W[ml];B[nk];W[mk];B[ni]C[* Strange move. You could continue pushing white because his weaknesses could be more painful. (Note that white can't threaten to cut the black wall ... but black can threaten the white wall.)]
+;W[nj];B[mj];W[lj]
+(;B[oj]C[* Don't take dead stones if you don't have to.];W[mi]
+;B[nj]C[* I believe this stone shouldn't be rescued. If white takes the stone in the next turn you should thank him for wasting moves.]
+;W[kk]
+(;B[mh]C[last moves won territory,  but white could create a strong group in the middle. Now I tried to connect my stones on the top with my right groop.
+
+* It's only desireable to connect weak groups with strong groups. Connecting strong groups with each other only wastes moves.
+
+Note how small your territory is compared to the big corners at the top. And note how much influence white got. You should reduce the potential white area soon. If you threaten to cut white while reducing his territory you have an advantage.]
+;W[li];B[kg];W[ge];B[hg];W[gg];B[gh];W[fg];B[fh];W[eh];B[cg]
+C[An invasion, since white would get a huge territory at this side, but even the reduced territory is big enough to win
+
+* It's not easy to invade at this point. After White 60 (G15) the corner is relatively safe and your moves 61, 63 and 65 made white even stronger in the region.
+
+Either way: I think C13 is a good spot to invade.];W[cf];B[df]
+;W[de];B[bf]C[* I can't see why I would like to capture the stone so I'd rather play E17 and D11 first. The idea is to make things more complicated (if white doesn't make a mistake this invasion is doomed) and to play "lightly". (If the black stones are distributed in the region white will have trouble to capture all of them.)]
+;W[ce];B[dg];W[be];B[eg];W[bg];B[ei];W[dh];B[bh]
+(;W[af]C[* White must not take this stone.];B[di];W[ef];B[ch]
+
+(;W[fe];B[ck]C[* Good. Uses the black wall to make profit and weakens the white stones below.]
+;W[bk]
+(;B[dj];W[cl];B[dk];W[ic];B[bj];W[ak];B[aj];W[bl];B[id];W[hc]
+
+(;B[jd]TR[qi][qj][qk][pk][pj][hc][ic][jc][id]C[* As explained before: I don't like this shape.]
+;W[nd];B[md];W[ne]TR[fi][gi][hi][ii][ji][jj][kj][ki][ej][fj]
+[gj][hj][ij][kl][km][kn][ko][kp][ip][jp][hp][hq][iq][fp][ep]
+[eo][en][em][el][ek][fk][fl][fm][fo][fn][go][gn][gm][gl][gk]
+[hk][hl][hm][hn][ho][io][in][jo][jn][jm][im][il][jl][jk][ik]
+[lp][lo][ln][lm]C[* Well, I think it's good to count after 100 moves in order to make better strategical decisions.
+
+I estimate that Black can get about 10 points at the top, 5 points on the left side, 20 points in the lower left corner and 25 points near the right side.
+
+White can probably get 30 points in each of his corners, 10 points near the left side and 5 points komi.
+
+My estimate is that white is leading by 15 points. A large (marked) area of the board doesn't belong to either player yet. If black manages to grab the "bigger piece" of the cake he can still win. Note that this will be a close game.]
+
+(;B[mf]C[* Strange move. I suppose you're still trying to connect, but that's not necessary.]
+
+(;W[og];B[ph];W[qh];B[pg];W[pf];B[nf];W[pi];B[oh];W[oi];B[nh]
+;W[of];B[rj]C[* Note how small your profit is and note that you loose the initiative because you will have to make the last (defensive) move. If you allow white to play here first he will be the one to make only a few points and to loose the initiative.
+
+In other words: This move is not important right now because you can make moves that build larger territory and don't loose the initiative.]
+;W[ri];B[sj];W[si];B[rl];W[qf]
+(;B[oa]C[* Here we have a simmilar situation: you loose the initiative and gain only a few points. But this time your move is better because it prevents a good white move. (White can gain some points without loosing the initiative if he plays here first. See variation.)]
+;W[pa];B[na];W[qb];B[lc]C[to protect against n17
+maybe 123. m16 was better
+
+* Yes.];W[jb];B[kb];W[ja];B[ka];W[ib]
+(;B[gk]C[* Grabbing a bigger piece of the territorty might be reasonable.]
+;W[bq];B[cr];W[br];B[bs]C[Too small];W[dn];B[bn];W[cn];B[ao]
+;W[ap]
+(;B[fn];W[mr];B[lr];W[nr];B[ps]C[By this move I'm giving the initiative to my opponent]
+;W[os];B[qs];W[im];B[hn];W[in]C[Now he can make a territory
+
+* But I suppose black can still reduce everything that white can build.]
+
+(;B[io];W[ho]
+(;B[go]TR[gq][gp][ho]C[* I think the marked white stones can't live and therefore a solid connection should be better. (Don't touch what you want to kill.)]
+;W[jo]
+(;B[hp]C[* Strange. You should make a solid connection and leave the dead white stone on the board.]
+;W[ip];B[jp];W[ho];B[hq];W[io];B[hm];W[ik];B[il]C[* Not good ... you loose the initiative and gain nothing.]
+;W[jl];B[hl];W[ij];B[hi];W[ii];B[ih];W[jh];B[ko];W[kn];B[jm]
+C[*  I suppose you were nervous because you entered byo-yomi? I don't see a plan behind your move and any reasonable white response will make him stronger. I think the game was lost at this point.]
+;W[jn];B[km]C[much better was m5, reducing white's territory.
+Or e7, making my own bigger.
+
+* Black m5 must be answered by white so it would be my choice.]
+;W[lo];B[kp];W[lm];B[kl]C[here i had to play j3, connecting and saving a point.
+Then e7.
+My move was pretty useless
+
+* Right.];W[ll];B[kh];W[ki];B[jg];W[em];B[fl]C[maybe e8 was stronger...
+
+* I'm not sure but I'd say there's no significant difference.]
+;W[fm];B[gm];W[el];B[ek];W[hj];B[gj];W[ls];B[ks];W[ms];B[jr]
+;W[hf];B[if];W[ie];B[je];W[he];B[me];W[eo];B[fp];W[fo];B[lh]
+;W[ah];B[bi];W[ar];B[bo];W[bp];B[ng];W[as];B[cs];W[hd];B[iq]
+;W[ep];B[ji];W[jj];B[jh]C[I think, I had to fill later.
+
+* Yes.];W[dl];B[ai];W[ag];B[ec]C[This invasion doesn't susseed
+
+* Yes];W[cc];B[db];W[cb];B[ed]C[* White can even stop defending at this point.
+(As long as he answers the point-difference doesn't change.)]
+;W[ee];B[fb];W[gb];B[ca];W[ba];B[da];W[bb];B[tt]C[I oversee m4, getting another 2 points more]
+;W[en];B[gn];W[do];B[dq];W[lp];TW[aa][ca][da][ea][fa][ga][ha]
+[ia][qa][ra][sa][ab][db][eb][fb][hb][pb][rb][sb][ac][bc][dc]
+[ec][fc][pc][qc][rc][sc][ad][bd][dd][ed][fd][gd][od][qd][rd]
+[sd][ae][oe][pe][qe][re][se][bf][ff][gf][rf][sf][rg][sg][rh]
+[sh][kj][jk][lk][al][kl][am][bm][dm][jm][km][mm][an][bn][ln]
+[mn][ao][bo][mo][no][np][aq][oq][or][ns]TB[la][ma][lb][mb][kc]
+[mc][kd][ld][ke][le][jf][kf][lf][ig][lg][mg][dh][eh][hh][ci]
+[fi][gi][cj][ej][fj][fk][ok][rk][sk][gl][ol][pl][ql][sl][pm]
+[qm][rm][sm][pn][rn][sn][qo][ro][so][gp][qp][rp][sp][gq][kq]
+[rq][sq][dr][er][fr][ir][kr][rr][sr][ds][es][fs][gs][hs][is]
+[js][rs][ss]C[White wins by 21,5 points.
+There were no awfull tactical blunders, so I was a little surprised by this difference.
+Please, explain me my strategical mistakes, I'm sure, I made a lot :-)
+
+*  Well, first of all, play with slower time settings. Like you I love to make a move every
+10 seconds. But it's a bad habit to make all moves at such a speed. And in order to choose a strategy you will need much longer than that.
+
+I'd suggest that you examine groups of stones and categorize them as "weak" or "strong". You have to examine if a group is attackable, cuttable, has room for eyes, has support (nearby stones), can run to the center, can access the border, ... I suppose if you knew how strong your groups were you wouldn't have tried to connect two of them. And if you can see how weak for example "G3 G4" was in the game you would have used that knowledge to your advantage earlier.
+
+Another thing that can help avoid strategic mistakes is to count during a game. (I must admit that I'm not counting as often as "necessary" myself but there are games where you're glad that you evaluated a position properly.) As a first step I'd recommend to count during 13x13 games. Another good startingpoint are GTL-reviews with counting-examples or articles about counting-techniques on "Senseis Library". [1\]
+
+Make sure that you know when (and why) you loose the initiative.
+
+Try to be more aggressive in the first parts of a game. Late invasions are usually pointless
+while early "sacrifices" rarely hurt.
+
+Don't touch what you want to kill.
+
+
+[1\] <http://senseis.xmp.net/?Counting>])
+(;B[ip]))
+(;B[gn]TR[ho][gp][gq])
+(;B[hm]TR[gq][gp][ho]))
+(;B[kn];W[ko];B[lo];W[lp];B[jo];W[kp];B[jn];W[jp];B[io];W[ip]
+;B[ho];W[hp];B[jl]))
+(;B[ar];W[am]C[* Looks slightly better for black.]))
+(;B[ik]))
+(;W[me];B[ld];W[na];B[mb]))
+(;W[me];B[ld];W[na];B[mb];W[le];B[ke];W[lf];B[lg]))
+(;B[me])
+(;B[ik])
+(;B[en]))
+(;B[jb]))
+(;B[dk];W[dj];B[ek];W[ej];B[fj];W[bj]))
+(;W[hh];B[hi];W[ih]))
+(;W[ch];B[ef];W[ee];B[ff];W[gf];B[ag];W[fe];B[bg];W[bi]))
+(;B[en]TR[gp][gq]))
+(;B[mi]))
+(;B[np];W[op];B[no];W[oo];B[on]))
+(;B[rk]C[* I'd prefer this.]))
+(;B[qi];W[pi];B[qk];W[rj];B[oi];W[ph];B[ok];W[rk];B[ql]))
+(;B[do]C[* Possible strategy: offer white the corner in exchange for outside influence.]
+;W[dq];B[co];W[bp];B[bo];W[er];B[hn]))
+(;W[lc]C[* Here the black position is still acceptable but black could have done better.]
+
+(;B[qc])
+(;B[ne])))
+(;B[kc]C[* How about playing far away from the white stones? Now if white approaches from one side you extend in the other direction.]
+
+(;W[mc];B[hc])
+(;W[ic];B[nc])))
+(;B[en]C[* Black should increase the pressure on the white stones.
+
+When you see weak stones keep in mind that attacks from a distance are usually most powerful. Here you can make sure that you won't be trapped in the corner and you attack two white groups at the same time.]
+))
+(;W[cq]C[* If white plays here the black stone can't live in the corner and running to the center would make white even stronger. This position is quite bad for black.]
+;B[qf]C[* White got 30 points in the corner and black got 10 points near the border ... that can't be a good trade.]
+;W[ed];B[dj]))
+(;B[fq]C[* Make sure white's access to the border is limited ...]
+)
+(;B[eo]TR[gp][cm]C[* ... or try to keep the white stones seperated.]
+))
+(;B[qj]C[* If you like a peaceful opening you could try this move. Now your framework is growing on a larger scale. Yes, white can attack the corner easily ... but he will get a weak position if he attacks.]
+)
+(;B[ec]C[* I think I would have attacked the white corner. If white plays there first he would get a big secure corner and an advantage along the borders.]
+))

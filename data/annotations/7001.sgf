@@ -1,0 +1,173 @@
+(;FF[4]GM[1]SZ[19]ST[1]CA[UTF-8]AP[SGFC:1.15]
+
+PB[fthvrl]
+BR[5k]
+PW[tronde]
+WR[5k]
+KM[7.5]
+DT[2008-12-03]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[B+7.50]
+TM[2400]
+
+C[Hi
+I'm white, around 5k., in the end I lost by 7,5.
+main questions:
+fuseki: where to play better? (I'll mark some moves)
+middle game: direction of attacking?
+endgame: i was in byoyomi, so i didn't count well, and didn't play a good endgame, tips appreciated!
+
+Thanks in advance!
+Thomas
+
+HI Thomas, My name is Philip and I am 2d AGA. I will mark my comments with "R:"
+
+Overall, I think you played a solid game. In general, you should always look for opportunities to attack your opponent's weaknesses. I would recommend reading the book "Attack and Defense" from the Elementary Go Series. If you can find ways to attack groups, while building thickness of your own, you will be able to play a more relaxed style. Your go sense in the opening is good. In the endgame, make sure you look for the earliest possible chances to play large sente and double sente moves.
+
+tronde [5k\]: hi and good game
+fthvrl [5k\]: hi
+fthvrl [5k\]: have fun];B[qd];W[dd];B[pq];W[dp];B[fq];W[po]
+;B[qo];W[qn];B[qp];W[pm];B[nq];W[qi];B[qg]
+(;W[jc]LB[cn:A]C[here i was thinking abouto17 instead, but i didn't know how to answer e pincer
+
+R: This move seems fine. I think you have a couple of options here. You could start a joseki in the lower left with A. Jumping to P11 seems a little slow, but it may be ok. See variation for thoughts on O17.]
+;B[cf];W[fd];B[bd]
+(;W[cj]C[R: This move is strange. If white wants to build thickness, then C12 is correct. See variation.]
+;B[cc]
+(;W[dc]C[R: This is inconsistent with C10. White should continue to develop quickly. See variation.]
+;B[ch]C[R: This move is slow.]
+(;W[cm]LB[cn:A][dn:B]C[R: This is strange. White should play at A or B.]
+;B[cq]
+(;W[dq]C[I was afraid about black getting too much territory
+
+R: This is correct. However, it demonstrates the problem with C7. If black can take the corner in sente, that will be a big loss for white.]
+;B[cp]
+(;W[co]C[R: This move is a mistake. See variation.];B[dr];W[er]
+;B[cr];W[eq];B[bo]
+(;W[cn];B[iq]C[R: This move is too ambitious. White should counter attack. Black should play at L3 instead.]
+
+(;W[fp]C[R: Too slow. See variation.];B[nc]C[R: Black gives white another chance to attack.]
+;W[kq];B[gp];W[gq];B[hq]
+(;W[gr]C[R: White should capture. See variation.];B[fo];W[ep]
+;B[in];W[go]LB[ko:A]C[R: White needs to jump.];B[hp];W[gn];B[ko]
+
+(;W[ne]C[R: White is behind, but P11 is urgent. This is probably an overplay.]
+;B[ql];W[rm];B[pl];W[ol]C[right answer?
+
+R: Yes. White needs to fight here.];B[pj];W[pi];B[ok];W[nl]
+;B[oi];W[pg];B[mj];W[qf];B[rl];W[op];B[oq];W[mo];B[nn];W[mn]
+LB[mp:A]C[R: White could consider playing A instead.];B[no]
+;W[np];B[mp]
+(;W[pp]C[R: This is a big mistake. White needs to cut here. See variation.]
+;B[lp]
+(;W[ro]C[better on n7
+
+R: This move seems ok. See variation.];B[mm];W[qq];B[qr];W[rq]
+;B[hd];W[hc];B[pf]C[R: This gives white a chance. White needs to play Q15 and attack the corner.]
+;W[rg];B[qe];W[rf]C[R: Again, white should just capture.];B[mk]
+
+(;W[ln]C[R: These stones are not important. White should try to cause some problems in the upper right. See variation.]
+;B[nm];W[ml];B[ll];W[om];B[lm];W[ei]TR[dc][dd]LB[hl:A]C[R: Try to look for dual purpose moves whenever you can. A move at A would reduce black's potential in the center while exapnding your own. Your move, by contrast, does not really reduce black because the marked stones already limit black's development on the top.]
+;B[og];W[ph];B[of];W[oh];B[nh];W[mc];B[ri];W[rh];B[qj];W[qh]
+;B[rj];W[sh]C[R: Push at S15 first.];B[re];W[sf]C[barely alive and corner for black]
+;B[gk];W[oc]C[R: Good. This is very big.];B[nd]
+(;W[nb]C[R: See variation];B[md];W[lc];B[od];W[dg];B[hm];W[gm]
+;B[gl]
+(;W[cg]C[R: Q18 is bigger];B[bg];W[bf];B[be];W[bh];B[af];W[bi]
+;B[ob];W[ld];B[fm];W[fn];B[el];W[lg];B[le];W[ke];B[lf];W[kf]
+;B[kg];W[jg];B[kh];W[jh];B[df];W[ef];B[eg]
+(;W[ff]C[R: There is no need to give up the two stones. See variation.]
+;B[dh];W[fg];B[eh];W[fh];B[ki];W[ji];B[kj];W[jj];B[jk];W[me]
+;B[mf];W[ng]
+(;B[mh]C[R: This is a big mistake by black. See variation.]
+;W[oe];B[pd];W[mg];B[ij];W[ii];B[dj];W[bn];B[bp];W[ck];B[db]
+;W[eb];B[cb];W[mb];B[pb]
+(;W[jq]C[R: This move loses a lot of points. See variation. White would probably win if he plays K1.]
+;B[hr];W[io];B[ho];W[en];B[hn];W[nf];B[rr]
+(;W[hj];B[ik];W[gj];B[di];W[lh];B[mi];W[sr];B[de];W[ee];B[ea]
+;W[fb];B[fa];W[ga];B[da];W[gb];B[dl]
+(;W[cl]C[R: Q15 is bigger. If you want to defend here. You should defend with A5- threatening black's corner. *End of comments*]
+;B[qm];W[sn];B[pn];W[on];B[oo];W[rp];B[nk];W[pn];B[gs];W[fr]
+;B[fi]
+(;W[gi];B[an]C[i saw that, but didnt count...];W[ao];B[ar];W[am]
+;B[ah];W[ai];B[ci];W[bj];B[pe];W[ej];B[ek];W[fj];B[em];W[dm]
+;B[sq];W[sp];B[na];W[ma];B[oa];W[hk];B[hl];W[li];B[lj];W[si]
+;B[sl];W[sm];B[cd];W[sj];B[fk];W[ds];B[cs];W[es];B[se];W[rs]
+;B[pr];W[sq];B[qs];W[ss];B[mq];W[fs];B[hs];W[ap];B[aq];W[an]
+;B[sk];W[dk];B[ag];W[tt];B[tt]TB[aa][ab][ac][ad][ae][as][ba]
+[bb][bc][bf][bq][br][bs][ca][ce][cg][dg][fl][il][im][io][ip]
+[ir][is][jl][jm][jn][jo][jp][jq][jr][js][kk][kl][km][kn][kp]
+[kq][kr][ks][lk][ln][lo][lq][lr][ls][mn][mo][mr][ms][ni][nj]
+[nr][ns][oc][oj][or][os][pa][pc][pk][ps][qa][qb][qc][qk][ra]
+[rb][rc][rd][rk][sa][sb][sc][sd]TW[aj][ak][al][bk][bl][bm][dn]
+[do][ec][ed][eo][fc][fe][fi][fo][fq][gc][gd][ge][gf][gg][gh]
+[ha][hb][hd][he][hf][hg][hh][hi][ia][ib][ic][id][ie][if][ig]
+[ih][ja][jb][jd][je][jf][ka][kb][kc][kd][la][lb][le][lf][mf]
+[qg][qo][qp][rn][sg][so]C[thanks for the review!
+
+
+tronde [5k\]: thanks for playing
+fthvrl [5k\]: thx])
+(;W[ao];B[ap];W[ds];B[cs]
+(;W[br];B[ar];W[bs];B[es];W[bq];B[fs])
+(;W[ar];B[br];W[aq];B[as];W[bs];B[es];W[fs];B[as])))
+(;W[pe];B[cl];W[bl];B[fi];W[gi];B[ej];W[ds];B[cs];W[ao];B[ap]
+;W[br];B[ar];W[bs];B[es];W[bq]))
+(;W[pe];B[sq];W[rp]))
+(;W[js];B[jr];W[is];B[ks];W[hr];B[ir];W[hs];B[kr];W[rr]C[R: White gets a lot more this way.]
+))
+(;B[nf];W[ni];B[mh];W[oj];B[nk]C[R: Black loses much less this way.]
+))
+(;W[dh];B[eh];W[di];B[ee];W[ff];B[fe];W[de]C[R: White can fight back here.]
+))
+(;W[pb]))
+(;W[od];B[nb];W[oe]C[R: Playing thick moves like this gives black problems.]
+))
+(;W[ml];B[ll];W[nm];B[lm];W[on];B[ln];W[oo])
+(;W[rd];B[re];W[se];B[rc];W[sd];B[sc];W[sf];B[rh];W[qh])
+(;W[oc]C[R: When you have two strong positions neighboring a group, you can afford to play aggressive moves like this. I will let you read out the variations yourself, but black doesn't really have a good response to a move like this. White will either get a big chunk of the corner or strength on the outside.]
+))
+(;W[mm];B[on];W[pn];B[ll];W[ro]
+(;B[qm];W[rp];B[qq];W[rq];B[sm];W[rn];B[rr];W[sq])
+(;B[rp]C[R: White is dead locally.]))
+(;W[on];B[mm];W[nm];B[ln];W[oo];B[ml]C[living but encircled]
+))
+(;W[lp];B[mq];W[lo]
+(;B[oo];W[nm];B[pp];W[kl]C[R: White now has a nice attack on the J3 stones.]
+)
+(;B[nm];W[mm];B[oo];W[ll])))
+(;W[oi];B[nf]C[this seemed too big for black]))
+(;W[fr]
+(;B[gr];W[ko]C[R: Black is in trouble.])
+(;B[in];W[ko]C[R: Capturing gives black less forcing moves.]
+)))
+(;W[kq]C[R: Black will have a hard time answering this move.]
+;B[fr];W[es];B[io];W[ko]))
+(;W[bn]C[this didnt seem to work];B[do];W[cn];B[fr]
+(;W[es];B[ep])
+(;W[fp];B[es];W[ep];B[gp];W[fo];B[go];W[fn])))
+(;W[do]C[R: White needs sente to attack F3.];B[dr];W[er];B[cr]
+;W[eq];B[bn];W[jq]C[R: Something like this.]))
+(;W[cp];B[dq];W[ep];B[fp];W[fo];B[go];W[gn];B[fn];W[eo];B[hn]
+;W[gm];B[ho];W[hm]))
+(;W[eq]C[R: This move just helps black.]
+(;B[cl];W[fp];B[co];W[cp];B[jq];W[ej]C[playable?])
+(;B[fp];W[dn];B[jp])))
+(;W[nc];B[pc];W[dn];B[jp]C[R: Now white has a fast development and black has solid territory.]
+))
+(;W[ch];B[cc];W[ce];B[be];W[df];B[dg];W[cg];B[bf];W[ef]C[R: This is joseki.]
+))
+(;W[nc];B[lc]
+(;W[qc]C[one possibility i thougth about after the game :-)
+
+R: This is joseki, but I think the presence of R13 makes things difficult for white.]
+;B[rc];W[pd]
+(;B[pc]C[R: This is not good. See variation.];W[qb];B[od];W[pe]
+;B[oc];W[qe];B[rd];W[re];B[rb];W[oe];B[nd];W[ne])
+(;B[rd]C[R: If black plays solidly, white is left with a weak group.]
+;W[qb];B[pe];W[od];B[me]LB[ql:A]C[R: One possible variation. If white gets sealed in, the weakness at A becomes more severe.]
+))
+(;W[nf];B[ic]C[seemed not so good
+
+R: White has too many weaknesses to play this way.]))
+(;W[oi]C[or jumping here?];B[lc];W[og];B[nd]))

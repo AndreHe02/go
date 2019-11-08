@@ -1,0 +1,158 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.17]
+
+PB[dochanh [6k\]]
+BR[8k]
+PW[The Many Faces of Go [6k\]]
+KM[6.5]
+RE[B+Resign]
+RU[Japanese]
+
+C[Hello and thank you for reviewing my game.
+
+I'm dochanh, play at around 8k on KGS. This game was played against The Many Faces of Go [6k\], and I'm 6k in The Many Faces of Go version 12.010 now
+
+I was Black in this game.
+
+Any comments would be most helpful!
+
+Thanks in advance,
+
+Dochanh
+
+PETE:  Dochanh, it was my pleasure to review your game. My general advice for you is to avoid following your opponent. You need to assess state of your groups (dead vs alive) and if they are safe you need to look at the whole board and find big or sente moves. There were just a few instances where you played small or gote moves while bigger & sente moves were available. Your figting skills are good though!]
+;B[pd];W[dp];B[pp];W[dc];B[pj];W[nc];B[pf];W[jd];B[jp]LB[ce:A]
+[jp:C][fq:B]C[How about this opening?
+
+PETE: Perfectly fine opening. You can see that this pattern appears in many games. Check out http://kgs.fuseki.info/fuseki.php?f=full&sb=full
+One thing to be said about this fuseki: black is building more solid framework at the expense of allowing white to take sente. This is not necessarily bad or good, just something to understand about the development so far. If black wanted more active development he could play moves like A or B. It is however very likely that white would respond with a pincer to make it into more of a fight. Hence A and B lead to more dynamic / agrressive development while the move at C builds a tighter moyo.]
+;W[qn]LB[nc:C][jd:B][ci:A][qq:D]C[PETE: Horrible move by white. White should probably form chinese-opening pattern by playing at A. It would work well with the two stones at B and C (to understand why, one has to be familiar with the chinese opening theory a bit and why the top side is more important in such situation). White does not have to worry about black's moyo becoming so big that it has to be invaded immediatelly. Black needs two moves to secure that corner fully. Invasion at A is going to remain open for a while.]
+;B[qo]LB[pj:A][ql:B]C[PETE: Good. Use the stone at A as a pre-existing pincer. Many people make a mistake by playing at B and having two pincers which will eventually be over-concentrated.]
+;W[pn];B[np];W[qh]LB[pl:A]C[PETE: White should play at A instead. Now white will have two weak groups.]
+(;B[qg]LB[qh:A]C[PETE: I think this move is OK but keep in mind that white could now use the stone at A as a helping sone to create complications.]
+(;W[ph];B[ql]LB[qg:A][qj:B]TR[ph][qh]C[I'm not sure if it's a bad move
+
+PETE: This move is still OK. The only problem is: By playing at A black dared white like 'go ahead, see if you think you can get away with it and I'll capture all 4 stones'. White accepted the challenge instead of playing at B and just complications ot make his bottom group safe. So the end result is: stakes are higher. If black makes a mistake and both groups live happily, the loss for black will be much greater. A lot of times in Go one has to try really really hard to hold themselves back and (just stay ahead of the opponent* without trying to crush him / her with a big bang. Try to win more of your games on points and fewer on resignations (even just for practice it is great!).]
+;W[og];B[ne]C[PETE: yes, need to keep white separated. Stakes are now even higher :)]
+;W[om];B[nj];W[pb];B[ld];W[mg];B[lj];W[kg];B[qc];W[lb]LB[me:A]
+C[PETE: later white can explore the cut at A.]
+(;B[jj]C[PETE: this move does not get black much. See alternative sequence.]
+(;W[ig];B[dj]LB[de:A]C[PETE: I would prefer to play at A intead to reduce white's upcoming moyo.]
+;W[rg];B[rf]
+(;W[ce];B[cg]LB[ee:C][ef:B][eg:A]C[PETE: there is not much territory to be made here for black. The line of development on the 3rd line will directly hit the strong shimari up top. Instead consider playing at A-C to reduce teh moyo framework.]
+(;W[ii];B[ij]LB[ii:A][cn:B][fq:C]C[PETE: Not good. You just followed your opponent. White move at A is not buying it much (maybe just help build the moyo at the top-left but that's it). Instead you should always look at the whole board and find moves like B & C which are SUPER important right now.]
+;W[ci];B[cj]LB[cg:C][di:A][dp:B]C[What about this move, slow move or bad move or?
+
+PETE: question is: what are you trying to do here? How are you going to use this situation? Are you planning on reducing white's moyo up top? If yes, then mvoe at A might be better instead. 
+
+If you plan on approaching the stone at B, you can play like you did here and treat teh stone at C lightly for now (let it die if it needs to).]
+(;W[mm]
+(;B[lp];W[ll];B[lk]LB[lh:B][jm:A]C[PETE: Unfortunately this move seem necessary to protect all of black's cut-points. There might be some alternatives for black like playing at B to try to protect the cut points but I'm not sure this works. It takes time to read all this out. That's why capturing white earlier might have been better. 
+
+Now white should just jump out at A.];W[cm];B[dh]LB[dg:A][eg:B]
+C[PETE: A bit slow. I think playing at A also works. Not sure about B - you have to spen some time reading it out. But A works for sure and gets black closer to white's top-left.]
+;W[gh]LB[eg:B][jm:C][hq:A][qq:D]C[PETE: useless move by white. Playing A-D would have been much more prouctive.]
+;B[hi]LB[qb:D][kc:E][ef:C][jm:B][fq:A]C[PETE: you are following your opponent again.  Instead consider the whole board. A is huge. B and C are also good moves. D is still sente because it threatens E. So black should play it very soon.]
+;W[hh];B[gj]LB[ef:A][jm:B]C[PETE: instead of trying to connect your black groups in gote you should try to look for bigger sente moves that allow you get more room for eyes. I like A & B right now.]
+;W[di];B[ei];W[rb]
+(;B[rc]LB[qb:A][rc:B]C[It's necessary or not?
+
+PETE: Very hard to read which is why playing at A was important earlier (it is a sente move for black that keeps him safe so very important). I analyzed this position for 15 min or so and concluded black B is NOT necessary. It is a dan-level problem and I could only solve it by playing out bunch of variations. That's not something you can do when playing in a real tournament :) So avoid these situations to avoid losing game by unnecessary death. Make sure to play double-sente moves as soon as you find them.]
+;W[qb]
+(;B[rh]C[And this move of black?
+
+PETE: not necessary, I don't think. See variation.];W[ri];B[sg]
+;W[ro]LB[qj:A][ro:B][qq:C]C[PETE: white should play at A instead I think. By playing at B white is closing out the opportunity to invade the corner at C.]
+;B[rp];W[po];B[qp];W[qj];B[pk];W[rm];B[rl];W[hm];B[jm]C[PETE: yes, best move here.]
+;W[hp];B[cq];W[dq]
+(;B[dr]C[PETE: mistake];W[cp];B[bp]
+(;W[bo]C[PETE: mistake by white];B[br];W[er];B[cs];W[iq];B[jq]
+;W[eg];B[eh]C[PETE:  BTW: cut point at A still is possible.]
+(;W[bf];B[bg];W[bl];B[el];W[ir];B[jr];W[me];B[nd];W[md]
+(;B[ng]
+(;W[nh];B[nf];W[lh];B[mf];W[le];B[lf];W[kf];B[lg];W[mh];B[jh]
+;W[kh]
+(;B[jg]C[PETE: overplay];W[ji];B[jf];W[je];B[if];W[hf];B[ie]
+;W[ki];B[dn]C[PETE: also too aggressive.]
+(;W[cn]
+(;B[dm];W[hc];B[cf];W[df];B[dg];W[de];B[fg];W[ef];B[fh];W[ap]
+;B[bq];W[es];B[ds];W[be];B[gn]C[PETE: good move];W[fo];B[hn]
+;W[nl];B[nk]C[PETE: not necessary];W[oo];B[no];W[nn];B[pm]C[PETE: good offense]
+;W[rk];B[sm];W[kn];B[lo];W[op];B[oq];W[jn];B[io];W[km];B[ln]
+;W[gi];B[hj];W[im];B[jl];W[ar];B[aq];W[js];B[ks];W[kk];B[kj]
+;W[sn];B[sl];W[is];B[lr];W[bs]C[PETE: computer is getting silly :)]
+;B[as];W[fn];B[fm];W[mk];B[mj];W[sb];B[oc]
+(;W[ob];B[mc];W[ke];B[nb];W[oa];B[lc];W[kc];B[mb]LB[gf:A][do:B]
+[go:C]C[PETE: too small. A-C are more sente.];W[kb];B[gf];W[he]
+;B[fi]LB[ge:A]C[PETE: 1 points in gote. Continue to look for sente moves instead.]
+;W[ge];B[oi];W[oh];B[sj];W[sk];B[si];W[rj];B[sh];W[jk];B[il]
+;W[ao];B[cl]C[PETE: not good.]
+(;W[ag];B[bk]
+(;W[bm];B[ah];W[af];B[bi];W[of];B[oe];W[ik];B[hl];W[sc]
+(;B[re];W[sd];B[se];W[ak];B[aj];W[al];B[pi];W[qi];B[db]C[PETE:  Worth trying I guess - you can alwas learn something. 
+Black is ahead by about 40 pts at thsi point :)];W[hk];B[gl]
+;W[rd];B[qd];W[do];B[cc];W[bc];B[bb];W[cd];B[cb];W[ec];B[eb]
+;W[ab];B[gb];W[hb];B[gc];W[ga];B[fa];W[ha];B[ba];W[fc];B[fb]
+;W[da];B[fe];W[ff];B[gg];W[en];B[hg];W[ih];B[fd]
+(;W[ed];B[gd];W[hd];B[ee]C[The invasion of black in the upper left corner, and this amazing result for black is not my scheme; it's just lucky. As you know, if you are lucky, something good happens to you, not because of careful planning, hard work, skill etc but just because of good luck =.=
+
+Then, what do you think about my strategy ( I think I have a clear strategy ), skill, plan, endgame, etc. And how about The Many Faces of Go 12.010 in 6 kyu
+
+I'm not actually sure about my rank, so I have not played with people but a sofware like The Many Faces of Go some months ago. How do you think about that?
+
+So, whatever, thank you so much.])
+(;W[ad]C[PETE: easy life]))
+(;B[sd]C[PETE: This is OK.];W[rd];B[se];W[re];B[sf];W[pc];B[qd]
+))
+(;W[ah];B[bi];W[bh];B[ch];W[al]LB[bk:A]C[PETE: this way white gets more points. So black move at A is questionable.]
+))
+(;W[bj]C[PETE: if white goes here ...];B[bk];W[ak];B[ck];W[aj]
+))
+(;W[nb]C[PETE: safer for white]))
+(;B[fn]C[PETE: this is better shape]))
+(;W[dm];B[en];W[em];B[fm];W[fn]))
+(;B[ji];W[ih]))
+(;W[nf]C[PETE: White could do this...];B[nh];W[of]TR[nd][ne]
+C[PETE: black could now lose the two marked stones.]))
+(;B[nf]C[PETE: solid moves like this generally work better.]
+))
+(;W[ej];B[ek];W[fj];B[fi];W[fk];B[fl];W[gk];B[hk];W[gl]))
+(;W[bq];B[cr];W[bo];B[fq];W[eq];B[er];W[hq]C[PETE: this would be harder for black then the proper joseki.]
+))
+(;B[cp]C[PETE: make sure you are familiar with this joseki variations.]
+;W[co];B[bo];W[bn];B[do];W[cn];B[dr]
+(;W[bp];B[bq];W[ao];B[ep];W[eq];B[fq];W[er];B[fr])
+(;W[er];B[cr]
+(;W[bp];B[bq];W[ao];B[eq];W[ep];B[fq];W[fr];B[fp];W[eo];B[gr]
+)
+(;W[fq];B[bp];W[eo]C[PETE: the main joseki.]))))
+(;B[qe];W[pg];B[qf];W[rh];B[rd]))
+(;B[ef]C[PETE: if black tenuki...];W[pg];B[qf];W[rc]
+(;B[rd]C[PETE: I think black can live here.];W[rh];B[qb];W[qa]
+;B[pc];W[ob];B[qe];W[se];B[sf];W[sd];B[oe])
+(;B[rh]
+(;W[ri];B[sg];W[qj];B[rd]LB[qj:A]TR[ll][mm][om][pn][qn]C[PETE: this can cause some problems for black later. Stone at A will try to connect with the marked stones.]
+)
+(;W[rd]C[PETE: this would be OK for black ..];B[qi]))))
+(;B[km]LB[ln:A]C[PETE: I like this move or playing at A better.]
+))
+(;W[di];B[ei]
+(;W[ej]LB[cg:A]C[PETE: cross-cut doesn't work well for white. Stone at A will be able to help black gain something somewhere.]
+)
+(;W[dg]C[PETE: white can capture the black stone while black ...]
+;B[bi];W[bh];B[bj];W[ch];B[cn]C[PETE: Huge move!])))
+(;W[ef]LB[rj:B][qq:A]C[PETE: if white plays here at some point (maybe not yet) she will secure fairly big corner. Considering that white can still play moves like A and B, black's corner is not that big. White could slowly start catching up.]
+))
+(;W[pg]C[PETE: white should at least do this];B[qf];W[cf]C[PETE: and go bigger here.]
+))
+(;W[qb]C[PETE: this move is sente for white too so black should play it first.]
+))
+(;B[qb]C[PETE:
+
+Step 1: secure this group.];W[kc]C[PETE: white will probably play here to connect and build some territory in top-left.]
+;B[lm]C[PETE: I would capture solidly here.]))
+(;W[qj];B[qk];W[pk]LB[qh:A]C[PETE: move like this could introduce more complexity into the situation. The stone at A might end up helping white's lower group. It is hard to read all the complicated permutations of possibilities of course but in general that's what white will try to do. Hence I think it might be better to try to seperate the two groups of stones earlier and deny white ability to just cross-cut like this.]
+))
+(;B[ql]C[PETE: with this white is fully separated. White will have to spend time saving BOTH of the groups. So there is no time for white to jump into the corner now.]
+;W[qc];B[pc];W[pb];B[ob];W[qb];B[oc];W[re];B[rf];W[qe];B[qf]
+;W[pe];B[oe];W[qd];B[og]LB[qh:A]TR[pn][qn]C[PETE: A is dead. Now white still has to worry about saving the two marked stones or giving them up. Saving those stones will be very hard. In top right white gained maybe 8 points in the corner but will lose a lot more points at the top-center, not to mention the loss of the two markes stones.]
+))

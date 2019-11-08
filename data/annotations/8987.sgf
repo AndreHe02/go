@@ -1,0 +1,143 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.17]
+
+PB[nichel]
+BR[7k]
+PW[emrebayat]
+WR[7k]
+KM[6.5]
+DT[2012-12-22]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[W+Resign]
+TM[1800]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+C[Hi! This is Joonas Pihlajamaa aka. finity at GTL, 2k EGF and ~1k KGS (2k-1d :), and I'll be reviewing your game. 
+
+You asked especially about fuseki and joseki, so I'll try to comment those a bit more. Overall, you won by a fair margin so in total the opponent did more bad moves. :)]
+;B[pd];W[dp];B[dc];W[po]C[5-4 is an interesting opening and especially around kyu level may often lead to josekis that are known to only one of the players...]
+;B[pq]LB[np:A][qq:B]C[As you may know, white A is a common move used by the player with 5-4 to continue with the influence strategy of Q5. B is also common and simple, mainly differing from white approach of Q3 stone (if black had played that first) in that white retains sente (see variation)]
+(;W[qq];B[qr];W[qp];B[or]LB[qk:A][mp:C][nq:B]C[This joseki usually continues with A to settle white shape. See variation. If white wants to play on bottom, B is the usual point, or C if white had a stone around A (which he now doesn't have).
+
+The move played in the game is not joseki, and it leaves this white group a bit weak (see variations)]
+(;W[mq]
+(;B[rq]C[Slow and gote move...];W[rp];B[sr]
+(;W[ql]LB[rp:B][rq:A]TR[qk]C[White could easily go one further, especially now after A-B exchange (see variation)]
+;B[fq];W[iq]C[Nice pincer & extension combo!];B[fo];W[dn];B[dr]
+;W[cq];B[jq]LB[ip:A][jp:B][jr:C]TR[fo][fq][dr]C[Here, I'd consider A-C and probably play A myself, to separate K3 from triangled stones.]
+(;W[io]
+(;B[jp];W[ip];B[fm]C[Very bad exchange from black, forcing white to separate and then playing elsewhere.]
+(;W[lo]C[This seems a bit risky, inviting black to cut...]
+(;B[lp];W[mp]
+(;B[lq];W[ko];B[mr];W[dl]C[Cutting point at A is still quite big, but of course so is this and while F5 stones are weak, black may not want to make J5 stones run.]
+;B[jc];W[qf];B[nc];W[rd];B[qh]C[Too hasty, I feel.];W[of];B[oh]
+;W[qc]C[Very good. Black now has a weak group to defend, and white made points in black's corner.]
+;B[pc];W[mf];B[jo];W[in]
+(;B[hl];W[jn]C[Good.];B[qk];W[pk];B[pj]
+(;W[ok];B[oj];W[nk];B[oo];W[op]C[I'm not sure of this move, but it may just work. Anyways, shows a good fighting spirit!]
+;B[pp]C[Now that black played this, P3 feels like a must.]
+(;W[pn]LB[no:B][np:A]C[I was about to suggest black A now, but white would just answer at B. Q6 is a good move!]
+;B[mh];W[kg]C[Hard to attack the black group this way, maybe just take points away at S9 and threaten this attack?]
+(;B[lg];W[lf]LB[kf:B][kh:A]C[I feel black should play A or B now and white would have a harder time.]
+;B[lj];W[lc];B[lb];W[mb];B[mc];W[kb];B[ld];W[kc];B[nb]
+(;W[jb];B[ma];W[ic];B[lm];W[kn]
+(;B[mn];W[oq]C[Nice. I was about to suggest O2 for black, but it doesn't work.]
+;B[nr];W[mo];B[pr];W[nn];B[nm]
+(;W[on];B[ce];W[dh]C[White is already in a good position at this point.]
+;B[ch];W[ci];B[cg];W[di];B[rk];W[rl];B[qe];W[re];B[pf];W[pg]
+;B[pe];W[qg];B[og]
+(;W[qb];B[nf]
+(;W[ke];B[hj];W[fc]C[White now takes the lead easily.];B[ek]
+;W[dk];B[em]
+(;W[el]LB[db:A][gf:F][rh:B][nj:E][cr:C][jr:D]C[This move is quite small. There are about 4 points around G9. I've marked some bigger plays, that are also many of them sente.]
+;B[dm];W[cm];B[cr]
+(;W[bq];B[ef];W[gf];B[jf];W[kf];B[ig];W[gk];B[gl];W[fl];B[gn]
+;W[gj];B[ii]
+(;W[ki];B[kj];W[jl];B[ll];W[gr];B[hk]C[Nice forcing sequence.]
+;W[eq];B[fr];W[fp];B[gp]
+(;W[er]
+(;B[es];W[ep];B[gq];W[hr];B[gi];W[fi]C[Good!];B[kd];W[jd];B[md]
+;W[je];B[ge]
+(;W[ec];B[dd];W[gh];B[hh];W[gg];B[fj];W[fk];B[fh]
+(;W[ej];B[fg];W[he];B[hf];W[fe];B[ff];W[gd];B[hg]
+(;W[ge];B[ji];W[lh];B[mg];W[nj];B[li];W[kh];B[ni];W[ri];B[qi]
+;W[rh];B[br];W[dg];B[df];W[ar];B[do]
+(;W[co];B[eo];W[hm];B[hn];W[im];B[gm];W[jk];B[jj];W[mj];B[mi]
+(;W[rj];B[qj];W[sk];B[sp];W[ro];B[so];W[sn];B[sq];W[rn];B[om]
+;W[pm];B[ol];W[pl];B[bi];W[bj];B[ai];W[aj];B[bg];W[jr];B[eb]
+;W[fb];B[lr];W[db];B[cb];W[ea];B[dq];W[cp];B[pb];W[ne];B[oe]
+;W[me];B[nd];W[ph];B[oi];W[ca];B[bb];W[ho];B[go];W[nl]C[I'd prefer the ko here.]
+;B[mm];W[ba];B[ab];W[kr]C[Good game for white overall. There were some less-than-perfect moves in the beginning, but black played consistently more bad moves, losing ground during the whole game. 
+
+There were also a few lax moves in the endgame that could be improved with additional reading, but overall I feel white read deeply enough.
+
+Also, see move 106 - around this point of middle game it is important to spend a few minutes evaluating the situation to find big sente moves - they often are enough to turn the game.]
+)
+(;W[ml];B[mm];W[lk];B[kk];W[kl]C[Good ko for white, here.]))
+(;W[eo]C[This would likely work nicely, as well.]
+(;B[co];W[cn])
+(;B[en];W[co])))
+(;W[hi]))
+(;W[hi]C[White could play the ko a couple of times to waste black ko threats.]
+))
+(;W[db]C[I'd rather play this, as the corner is bigger than attack on G15]
+))
+(;B[ep]C[Now black could play this way to gamble.]
+(;W[fs];B[dq];W[es];B[do];W[cp];B[cn];W[co];B[en];W[bn];B[bm]
+C[There might be more profit for black this way.])
+(;W[dq];B[es]C[Already a bit better for black than the game]
+)))
+(;W[ep]C[Connecting first is safer, as black cannot deviate from the sequence this way.]
+;B[gq];W[er];B[es];W[hr]C[Same result as in the game, but without danger of ko.]
+))
+(;W[hk];B[ik];W[il]C[I'd personally be tempted to play this cut as it can be played, and see if white gets some free plays around H2 as a result.]
+))
+(;W[br]C[This would likely also work, but B3 is safer as white is very much leading.]
+))
+(;W[db]C[There seems to be nothing at D7];B[dm];W[cm];B[cl]
+;W[cn];B[ck];W[cj];B[bj];W[bi];B[bm];W[bn]))
+(;W[ne];B[oe];W[md]C[Even this might work.]))
+(;W[rh]C[This is also another way to live for sure and almost in sente.]
+;B[ri];W[rg];B[qi];W[ng]))
+(;W[om]C[Slightly better as it protects P9 stones also, although more ko threats.]
+))
+(;B[mo]C[Seems like better plan for black than the N6 one.]
+;W[mn];B[no];W[on];B[np];W[nn];B[nq];W[ln]))
+(;W[la]C[White should definitely take the stone - the group is now alive and O18 stones have one eye less and will need to live if cut.]
+))
+(;B[lf];W[lg];B[mg];W[ng];B[mj]C[This way it actually feels a bit harder for M13 stones than for the black group, especially as black is almost alive after S10.]
+))
+(;W[oq]C[This would seem like a good idea...];B[pr]LB[qo:A]
+[nq:B]C[But now actually white has weaknesses at A and B, and cannot correct both.]
+(;W[pn];B[nq];W[np];B[mo];W[nr];B[no])
+(;W[no];B[qo];W[on];B[ro])))
+(;W[rk]C[Taking the base away from black feels useful.];B[qj]
+;W[ok]C[compared to the game, white now has several points more on the S7 area, and black is still weak.]
+))
+(;B[jn]C[Feels like black should continue the cut first...]
+;W[im];B[fk]C[Now it would be harder for white to connect J7 stones.]
+))
+(;B[ko]C[Proper move for black, white cannot block.];W[kn];B[ln]
+;W[mo];B[jn];W[km];B[jo]C[black is out]))
+(;B[jo];W[jn];B[ir];W[hr];B[kr]TR[in][kn][hq]C[For example this way, black is almost alive or connected, and white is left with several cutting points that he cannot protect all.]
+))
+(;W[jo]C[This seems like a strong punishment - J5 stones are now very much all right, K3 stones heavy to save, and only result in additional white strength.]
+))
+(;B[ir]C[Black has easy connection after white jump, so the jump is not so good.]
+;W[hr];B[hq];W[ip];B[kr]C[Black connects either to P2 or F3 stones]
+))
+(;W[ip]C[N3 stone is currently unimportant, and the running fight that starts here feels beneficial for white.]
+;B[jp];W[io]))
+(;AW[qk];B[qm]LB[ok:B][pl:A][pm:D][no:C]C[Black invasion here would be very premature, and might even just die with A (altough it seems complicated). And white can easily get great results with for example B, C and D.]
+))
+(;B[op]TR[po][qp][mq][qq]C[As black, I'd just separate the triangled groups and would likely get attack on one side or the other.]
+))
+(;W[qk]LB[mp:B][np:C][nq:A]C[Making base for white stones, if black plays elsewhere (tenuki), white has continuation at A or B (see the several variations at eidogo.com), and usually black wants to avoid those and plays himself at C instead.]
+;B[np]C[This is the common variation. Because white had the first stone, he retains sente. D15 would be a good point now.]
+)
+(;W[nq]C[Too early because no stone around R9];B[op];W[lp];B[pl]
+C[Because white does not have stone around here and thus base for triangled stones, this exchange is not so good for white. Same applies to sequence played in the game.]
+))
+(;CR[po]C[If it would have been white that would've approached the corner just now...]
+;W[tt];B[np];W[qq];B[qr];W[qp];B[or];W[qk]C[...black would now have sente, like in many other joseki variations.]
+))

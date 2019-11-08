@@ -1,0 +1,145 @@
+(;FF[4]GM[1]SZ[15]CA[UTF-8]AP[SGFC:1.17]
+
+GN[gtl]
+EV[Online Game]
+RO[1]
+PB[viours]
+PW[greenblock]
+WR[12k]
+KM[0]
+DT[2011-05-13]
+PC[Http://www.flyordie.com]
+RE[B+19]
+TM[1800]
+RU[Japanese]
+
+C[Hi Paolo,  
+
+My name is David and I will review your game.  If you have any follow up questions just send me an e-mail (dch888@gmail.com).  To respond to your comments first:
+
+> It's a game 15x15, i lost
+
+15x15 is a very unusual size.  The common sizes are 9x9, 13x13 and 19x19.  Of course it's still Go, but I will not be able to comment much on fuseki due to the unusual format.  
+ 
+> I know but i'm very weak, i want learn more
+
+Go takes time to get better at.  The main thing is not to give up!  A lot of people just despair and give up.  If you give up then obviously you can't get better.  It takes years to improve.  There are several proven ways to get strong.  One is to play lots of games, making sure to review the games you lose.  Another is to do life and death problems every day - better to do 5 a day, rather than 35 in one hour per week.  Finally playing through professional games will teach you about good shape.  Hideo Otake's games are very flowing and natural and he is a good player to start.  If you don't know where to find problems or pro games, then send me and e-mail and I'll help you out.
+
+> Sorry about my misspelled
+
+Don't worry - my spelling is not great either!
+
+> And thanks for the review
+
+It's a pleasure - it helps me get stronger too.
+
+> When i send file, it says line 31 and 33 have a error. if error happen  
+> --> 31: P11 and 33: K10
+
+Which program are you using to open the file?  I use SmartGo which was written by the man who invented the SGF format and I don't see any such error.
+
+I will make some general comments here, but most comments will be in the review itself.  Variations will be marked by 'see var'.
+
+1.  You lost about 10 points or more in the engame.  With those points you could have narrowed the gap to a 9 point loss.
+2.  You lost about 20 points by losing the group in the lower left corner.  You made a couple of very slack moves when you should have been fighting and running with your weak group.  You created the weak group, when you played very deeply into the corner.  An effective strategy would have been to play on the outside (I've marked those moves in the game.  The lesson here, is to always be on the look out for weak groups - look for your own so that you can strengthen them and your opponent's so that you can attack them.
+3.  Play touching moves when you want to defend your stones.  To attack you opponent, play a short distance away from his stones, in a surrounding fashion.  There are exceptions to this general rule but it holds most of the time.  Touching your opponents stones, particularly playing atari the whole time, strengthen's your opponent.  If you are attacking your opponents weak groups, then avoid playing touching moves since they will strengthen your opponent.
+4.  Learn the distinction between 3rd line and 4th line moves.  3rd line give security a safety for your stones and gives you a reasonable about of territory.  4th line moves play for influence in the centre and are ideally placed for attacking.  4th line stones do no make secure territory, only potential territory.  4th line moves can easily be undercut or invaded.
+
+Regards,
+David Carter-Hitchin.
+KGS: dch888];B[ml];W[cd];B[dm];W[lc]C[Opening is passive for white but is playable.    Black's next move will inevitably make a large framework, perhaps at M11 and white will then have to play a reducing game - i.e. will have to enter black's sphere of influence to reduce black's territory.]
+;B[ci]C[Unusual move.  C6 would be a common corner enclosure - this move creates a weakness around C5.  Also black is being a little shy.]
+;W[lh]C[Now the game is still balanced.  In fact, white is slightly ahead as the board stands now.]
+;B[mf]
+(;W[me]C[Touching move strengthens black.  See varations.];B[lf]
+C[The white tsuke move (touching move) was a defensive move when you should have been attacking.  As a rule of thumb (which is often broken, but it's a rough guide) touching moves are defensive ones, and non touching moves are attacking moves.  This is a hard concept for some people to grasp.  It also doesn't help M8 as your stones are now separated.]
+;W[jh]C[Good - protect the weak side.  However, N12 later becomes a weak piont for you.  Globally N12 is not that important right now though.]
+;B[mh];W[mi];B[nh];W[ni]
+(;B[ke]C[Black should cut here at M7 I think to settle quickly, running like this could be problematic. See var.]
+(;W[kd]C[Helps black.  See var.];B[je];W[jd];B[jg];W[ig];B[kg]
+;W[kh];B[lg];W[ie];B[ne]C[Black should play N12.];W[nd]C[In 26 is not a mistake, i play there to close the corner
+
+If anything here, then just pulling back at N12 is best.  That would leave a big threat of wO11 which would kill black, so you would end in sente with N12 since black would need to prevent wO11.]
+;B[md];W[mc];B[le];W[od]C[This is bad for a few reasons.  Firstly it's globally not important - what is important is to expand you territory or reduce black's.  It an engame move, but we are not in the endgame yet.  Another reason is that it gives black an effective 'free move'  by playing P11.]
+;B[oe];W[nb];B[jf]C[Gote move.  Black is already alive with good eyeshape.]
+;W[if]C[Now i've a good influence on the center and in the upper right corner, i think
+
+Yes, the sealing move was good since it proects your territory.  Black's initial play at N10 was wrong - he has achieved maybe 5 or 6 points of territory, but you have gained a lot more, well done.]
+;B[fc]
+(;W[ec]C[Helps black.  See vars.];B[hc];W[ic];B[hd]
+(;W[id]C[Gote!  You don't need to protect this cut. See vars.]
+;B[fd];W[hb]C[This move finishes in your gote after black blocks.]
+;B[gb];W[ia]C[upper right corner close];B[eb];W[db]C[white's shape is weak.  D13 stronger.]
+;B[dc]C[now to close upper left];W[cc];B[ed];W[dd];B[ec]C[Very small play.]
+;W[ca]C[C9 bigger.];B[ef];W[df];B[fg];W[km]C[Good move, if you don't play here, then black will making it difficult for white to move into this area.  This is the right time to play here (arguably a few moves earlier).  You are using your wall to put pressure on the (now) lone black stone.  Your wall has some cutting points but they are not so serious to stop you making a move like this.]
+;B[ln];W[lm]C[i'm trying attack his lower right corner
+
+Very difficult to kill the corner and in fact your move actually helps black secure the corner.  Usually white plays L2 to block black and seal him in.]
+;B[mm];W[kn];B[nn];W[lo];B[mn];W[il]C[You are playing on the fourth line here, which invites a peeking move from black around G3.  If I were to play on this side I would play at F3 or G3.  You could also think about white P4 to really pressurise black's corner.]
+;B[mo];W[lk]C[Good ignore black.  But your move is a little timid.  I don' think the cut at M7 works for black so you don't need a protecting move.  A white move around D5 or C5 or F3 is much bigger for white at this stage.]
+;B[nk]C[Black again makes an unnecessary move I think, although white P4 is playable and worrying for black.]
+;W[mk]C[Small.];B[nj]C[Small.  LHS much more important.];W[mj]
+C[Small.  Play on the left - the board is nearly empty there!]
+;B[oi];W[og]C[Very bad, black is alive, you can't kill.];B[oh]
+;W[cm]C[Ambitious!  I would play C5 if I were to play this deep.]
+;B[cn];W[bm];B[bn];W[bk]C[D4 is the key point.];B[bj];W[ck]
+C[Still D4.];B[dl]C[Now black takes the key point.  White is in trouble.]
+;W[cj];B[bi]
+(;W[dj]C[Heavy move!  Jump - see var.];B[fj];W[bf]C[Here you abandon your stones and the game is nearly over.]
+;B[dg];W[cg];B[dh]
+(;W[bh]C[You had a tiny chance of escape at E5 but that will close soon.  See var.]
+;B[de]C[Small.];W[ce]C[Small.];B[cf]C[Small.];W[bg]C[Small.]
+;B[df]C[Very small!]
+(;W[ai]C[i probably lost because of this move, i forgot the lower side and play 96 to increase my right side
+
+E5 might still be playable as black's stones are thin there, and you have thick stones on the other side.  See var.]
+;B[aj];W[ae]C[Still E5.];B[ej]C[now i can't save my stones
+
+Correct.  A7 and A11 were you last chances, so to speak.  Even before this, a move like this from black would have sealed white in with no eyes.]
+;W[fl]C[F3 more secure.  4th line moves are easily undercut.]
+;B[gl];W[fm]C[Very dangerous...];B[gm];W[cl]C[Meaningless I think.  What was your plan here?  E5 might have some hope, but doubtful.]
+;B[fn];W[en];B[dn]
+(;W[gk]C[G2 is interesting.  Black's shape still has many weaknesses and you could try to take advantage of that.  See var.]
+;B[em];W[gn]
+(;B[eo];W[hm]C[You got some compensation.];B[gj];W[hj];B[hk]
+;W[hl];B[hi];W[ij];B[ii];W[ji];B[hg];W[hh];B[gh];W[ih];B[gi]
+;W[ek];B[fk];W[gl];B[el];W[go];B[fo];W[tt];B[ko]C[Did you pass? Black got two moves in a row. Not good.  You need to be very sharp in the endgame.  It's possible to make up to 20-30 points in the endgame on a 19x19 board by playing good endgame.  The basic principle of good endgame is to keep sente.  Look for moves that are immediate sente and sequences which end in your sente.  H10, E15 and G15 are all quite big here (but only the first is proper sente).  First, however, you must deal with L1.]
+;W[jo];B[lo];W[jm]C[The proper move is to connect solidly at K2 since a hanging connection leaves a ko threat.  Hanging connection is only appropriate when you are short of eyespace, which you are not here.]
+;B[ah];W[ll];B[ag];W[af];B[ai]
+(;W[bd]C[This looks unnecessary but maybe not... see var.];B[ea]
+;W[da];B[ga];W[ha];B[hf];W[he];B[ge];W[gf]C[Meaningless.];B[gg]
+;W[tt]C[Pass again?  Not  good.  In the engame scan all around the boundaries to find points like this.   Had you played M12 (atari) then black would lose the  N11 territory point.]
+;B[ld])
+(;W[ga];B[ch];W[ea];B[ad];W[be];B[bb];W[cb];B[fa];W[ac]C[White is alive... in ko.]
+;B[bc];W[bd];B[ab];W[ba];B[ad];W[fb];B[gc];W[ac];B[ib];W[jb]
+;B[ad]C[Moral of the story is ... don't create ko threats like K3, as you need to minimise ko threats your opponent can make against you.]
+))
+(;B[hn];W[fo];B[hk];W[hl];B[hm]
+(;W[hj];B[fk];W[ik];B[el];W[fn];B[ho];W[im];B[go])
+(;W[fk];B[gj];W[hj];B[ik];W[ij];B[jk];W[im])))
+(;W[gn];B[hn];W[fo]C[Here black needs to decide which stones to defend.  He must play either E5 or a move to protect the cut at H3, perhaps by playing at H4.  Yes H4 is an empty triangle, but had he played H3 or J3 then the white hane of G5 (as you played in the original sequence) is very severe here.  White E5 would lead to a semeai with the black stones in the corner and currently these have more liberties (7) than the white group at B3 (5).  Therefore it is probably too late for white to attack like this.]
+))
+(;W[ek];B[gl];W[fk];B[gk];W[gj];B[fi];W[fm];B[gm];W[en];B[dn]
+;W[an]C[White might live by killing the corner stones.  Instead, if black were to choose to secure the corner stones earlier in the sequence, then that would let white connect at G3 for example.]
+))
+(;W[ek];B[fl];W[fk];B[gk];W[gj];B[gl];W[fi]C[this is just one way.]
+))
+(;W[ej]C[White can play here to run away, and black cannot separate.]
+))
+(;W[fd]C[You can destroy black's eyeshape...])
+(;W[fe]C[.. or attempt to seal black in.];B[ih]C[Black can cut to start a fight but I think white should be able to come out of this OK.]
+))
+(;W[dc]C[You can protect the corner without touching black.  Black can probably live here but you will get territory in compensation. Just as happened on the right side.]
+)
+(;W[hc]C[Again, you can regard C12 as settled as it is on the 3rd line, so you don't need to protect it.  You can pincer with this move.  You should not be too sad to lose your moyo, since you have about 18 points in the top right which is much more than black gained on the right.]
+))
+(;W[jd]C[Jump ahead of black here to seal him in.   Black can probably live since N12 is a good play that captures white's stone and gets a second eye- see var.]
+;B[md];W[ne];B[nd];W[ld];B[le]C[White's stones are gone - they have two liberties, black has three.]
+))
+(;B[li]C[Black could cut here which would either capture one or two white stones.]
+))
+(;W[lf]C[You could consider this. Give black the side in exchange for a huge moyo.]
+)
+(;W[mj]C[... or make a base])
+(;W[mi]C[or simply prevent watari (connection).  At any rate, you don't need to think in terms of protecting M13 as that is relatively strong compared to M8.]
+))

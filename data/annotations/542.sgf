@@ -1,0 +1,75 @@
+(;FF[4]GM[1]SZ[19]AP[SGFC:1.13]
+
+GN[kla-tiborb(B) IGS]
+PB[tiborb]
+BR[6k*]
+PW[kla]
+WR[7k*]
+KM[0.5]
+DT[1998-01-20]
+PC[IGS:  igs.nuri.net 6969]
+RE[W+38.5]
+TM[3000]
+US[Brought to you by IGS]
+C[Dear Tibor,
+
+the game became difficult after your group in the upper left became heavy and White got huge profit while attacking this group.
+The major mistakes were E12, D15 and F15. Study the joseki and try
+to understand the meaning of each move! If you have got Kageyamas "Lessons in
+the Fundamentals of Go" (a really excellent book), reread the chapter on "the
+stones go walking". Remember the proverb "you can't catch up if you are pushing
+from behind"!
+
+One final remark: If a big group of you is cut off, try to live; if you fail to
+live, resign. There was no point in continuing the game after your group on the
+lower side died!
+
+Kind regards,
+Christian Gawron]
+
+;B[qd];W[dp];B[pp];W[dc];B[oc];W[qk]C[The normal move is R10. R9 is not optimal because B R11 works fine (see variation).]
+;B[ce];W[cg];B[ee];W[fd];B[dh];W[dg];B[eg];W[ch];B[eh]C[Black should extend to D11 to stay ahead of the white stones. B may be afraid of D14, but W D14 would be unreasonable right now.  E12 neither fully eliminates the bad aji nor puts pressure on the white stones.
+See Ishida Yoshio, "Dictionary of Basic Joseki", Vol. 1, page 27 for a discussion of the joseki and the chapter "the stones go walking"  of Kageyamas "Lessons in the Fundamentals of Go" for a general discussion of running battles.]
+;W[cd];B[bd]TR[ch][eh][dg][eg]C[Just descending at B15 is better. Without the marked stones exchanged, this would be a reasonable move because after W B17, B D16, W C17 B lack can immobilize the W stone with D13, but now B only strengthens W's corner.]
+;W[bc];B[dd];W[cc]
+(;B[de]C[Very bad. Since B plans to eliminate the aji of E14 by exchanging F15 for G16, he should do so right now.]
+;W[cj];B[fe]TR[eg][dh][eh]C[Pushing from behind is bad. Since W has already played at C10, B doesn't get any compensation for W G16.  Furthermore E14 is not an immeadeate thread in this position because even if the ladder wouldn't work B can simply sacrifice the marked three stones and get a strong position at the top.]
+;W[gd];B[ic];W[hb];B[ib];W[hc];B[ie];W[he];B[id]C[This only provokes W H14 which set Blacks group on the run. B should play at H14.]
+;W[hf];B[dj]C[Pushing from behind. Black should run into the center with E10 or G12.]
+;W[dk];B[ck]C[Overplay.];W[di];B[ej];W[ei];B[fi];W[ci];B[gg]
+;W[dl]C[Very big. What is the meaning of C9 now?];B[if]C[Bad: B is pushing W into his weakness. J12 would be much better.]
+;W[hg]C[This hurts.];B[hh]C[This was once called `Zahnpastatechnik' (toothpaste technique) in a German Go periodical and is considered very bad.]
+;W[ig];B[ih];W[jg]TR[hg][if][ih]C[The position looks like B has failed to connect against a W peep.]
+;B[le];W[fj];B[gj];W[ek]C[This ponnuki is _very_ big and the game already looks very difficult for B. Extending with F9 would have been even better.]
+;B[gh]C[If B wants to reenforce, he should atari at F9 first.]
+;W[qn];B[qo];W[pn];B[np];W[lq];B[jq];W[oq];B[op];W[nq];B[pq]
+;W[mp];B[nn]C[The corner is alive, so developing K3 looks more important now.]
+;W[mo];B[on];W[hq]C[Good point.];B[jo];W[dq]C[Very thick.];B[kr]
+;W[ln];B[lr];W[mr];B[jm];W[ll];B[nk];W[jk];B[kl]C[Seems to be an overplay.]
+;W[kk];B[lk];W[lm];B[hm];W[ho];B[io];W[hn];B[im];W[mk];B[lj]
+;W[ml];B[mj];W[nl];B[ol];W[ok];B[nj]C[B should connect at H9.]
+;W[om];B[oj];W[pk];B[qi];W[gk]
+(;B[hj]C[Must be at H9! After H10, the B group is cut off.]
+;W[hk];B[ik];W[il];B[ij];W[jl];B[hl];W[km]
+(;B[ro]C[The W group is alive, so the only chance for B is to seek life for his stones in the lower middle. I can't see how B can live, but he should try J2 or H2 and resign if he fails to live.]
+;W[rn];B[nm];W[pl];B[rj];W[ir];B[iq];W[fn];B[or];W[nr];B[pr]
+;W[rk];B[fl];W[fk];B[lg];W[hp];B[hd];W[ge];B[ec];W[ed];B[eb]
+;W[fb];B[be];W[fc]C[W should play at D18 to get an eye in the corner. Now B has the big endgame at A17.]
+;B[ac];W[db];B[bb];W[bf];B[cb];W[ea];B[kh];W[ia];B[ja];W[ha]
+;B[kb];W[kf];B[lf];W[ke];B[kd];W[qj];B[ri];W[so];B[sp];W[sn]
+;B[rq];W[jh];B[ji];W[pj];B[pi];W[sj];B[si];W[sk];B[cq];W[cp]
+;B[ca];W[ae];B[cf];W[bg];B[gf];W[df];B[ef];W[kj];B[kg];W[jf]
+;B[ki];W[os];B[ps];W[ns];B[je];W[kl];B[mn];W[po];B[dr];W[cr]
+;B[jj];W[tt];B[ad];W[af];B[ko];W[lo];B[mm];W[tt];B[no];W[tt]
+;B[kp]C[I consider it very bad style to try to live after the game is finished!]
+;W[ip];B[ls];W[hr];B[ms];W[mq];B[tt];W[tt];B[tt];TW[ag][bh]
+[ck][cq][cs][dj][dm][dr][eb][el][ep][fa][fm][fo][gb][gn][in]
+[iq][jp][jr][ol][pm][ql]TB[aa][ff][gi][jb][ka][kc][lb][ld][lh]
+[me][pc][ph][qp][rd][rr][sq])
+(;B[hr];W[ir];B[iq];W[gr];B[hp];W[gq];B[gp];W[fn];B[gn];W[go]
+;B[fo];W[gm];B[in];W[gn];B[gl];W[fk];B[en];W[fm];B[fp];W[eq]
+;B[do];W[cn])
+(;B[ir];W[hr];B[js];W[iq];B[kq];W[kp];B[jp];W[ls];B[ko];W[lp]
+;B[in];W[kn];B[hp];W[gp]))
+(;B[hk];W[hj];B[ij];W[hl];B[ik];W[jl];B[il];W[km];B[hi]))
+(;B[fe]))

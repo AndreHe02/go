@@ -1,0 +1,89 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.17]
+
+PB[HanSollo]
+BR[3k]
+PW[Kostel]
+WR[4k]
+KM[6.5]
+DT[2010-03-29]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[B+15.5]
+TM[1800]
+OT[25/600 Canadian]
+RU[Japanese]
+
+;B[pd];W[qp];B[cd];W[dq]
+(;B[dn]LB[co:B][do:A]C[H: This isn't a bad move, maybe, but it's not a normal move.  I'd prefer A or B]
+(;W[dk];B[cq];W[cp];B[dp];W[do];B[ep];W[bq];B[cr];W[co];B[eo]
+;W[cn];B[br];W[en];B[eq];W[nq];B[qj]
+(;W[ed];B[ec];W[fc];B[dc];W[gd];B[cf];W[fn]LB[kc:A][ch:B]C[H: This result felt bad for White.  White needs both A and B.]
+;B[jq];W[nc];B[lc];W[ne];B[pf]
+(;W[pb];B[qc];W[jc];B[hc]
+(;W[fb];B[jd];W[kd];B[kc];W[id];B[jb];W[je];B[mb];W[ld];B[nb]
+;W[oc];B[mc];W[md];B[ib];W[jj]LB[ka:6][bc:9][rg:19][bm:13][fr:17]
+[qs:15]TR[ba][ia][na][bb][cb][rb][sb][rc][ce][pe][af][bf][pg]
+[ph][pi][rj][sj][fq][gq][hq][iq][ar][jr][js]SQ[ak][bk][ck][el]
+[fm][ao][bo][op][pp][rp][sp][nr][ns]C[H: This is a move that is seen often in kyuu games.  It doesn't do very much, so you have to be careful to avoid this kind of vague move--it's like passing.
+
+At this point, we can count the territories, to see the best strategies for White and Black.
+
+We can see that Black has a minimum of 51 points, while White has a minimum of 34.5 points including komi.  This means that White must create 20 points or more with the center area--a difficult task, while Black only needs to play steadily and minimize White's profit.]
+;B[ci]LB[ng:B][og:A]C[H: This was big, but it lacked direction, and might have stemmed from a lack of counting.  A or B are what should have been considered.]
+;W[og]C[H: This turns Black's right side into cash, while only making a firmer moyo.  This is a hard move to play, as White.]
+;B[pg];W[oh]
+(;B[qm]C[H: This shape is too thin.];W[qk];B[pk];W[qi];B[rj]
+;W[qh];B[qb];W[rf];B[ob];W[pc];B[pa];W[qe];B[qd];W[pe];B[oe]
+;W[of];B[od];W[nd];B[hd];W[he];B[ge];W[fe];B[gf];W[ff];B[hf]
+;W[ie];B[gh];W[eh];B[ei];W[fh];B[fi];W[gi];B[hi];W[gj];B[hh]
+;W[hj]C[H: Black creates a do-or-die fight.];B[jh];W[ig];B[ji]
+;W[kj];B[lh];W[li];B[mh];W[mi];B[dh];W[fg];B[gc];W[fd];B[eb]
+(;W[kg]C[H: This move helps Black gain liberties, rather than creating shortages of liberties.]
+;B[kh];W[df];B[dg];W[ce];B[de];W[dd]C[H: This move loses a liberty.]
+;B[be];W[cc];B[cb];W[bc];B[bb];W[ea];B[db];W[hg];B[gg]C[H: At this point, we can count the groups' liberties, and see that Black wins the race by one move.]
+(;W[ii];B[ih];W[lg];B[ij];W[ik];B[gb];W[hq];B[hp];W[ip];B[iq]
+;W[gp];B[hr];W[gq];B[gr];W[jp];B[kq];W[kp];B[mq];W[mp];B[lp]
+;W[lo];B[lq];W[ho];B[np];W[mo];B[oq];W[nr];B[pp];W[or];B[pr]
+;W[ps];B[qr];W[no];B[op];W[po];B[mr];W[rn];B[qn];W[qo];B[rm]
+;W[ro];B[om];W[nl];B[ri];W[rh];B[rk];W[pl];B[ql];W[ol];B[pi]
+;W[ph];B[on];W[oo];B[pq];W[rr];B[ns];W[sl];B[sm];W[oj];B[pj]
+;W[cj];B[bp];W[bo];B[aq];W[bj];B[ek];W[fk];B[dj];W[el];B[ck]
+;W[ej];B[di];W[bk];B[rs];W[qq];B[os];W[ag];B[bg];W[af];B[ah]
+;W[bh];B[bi];W[ai];B[aj];W[ak];B[bf];W[rd];B[rq];W[rb];B[ae]
+;W[cl];B[ch];W[rc];B[qa];W[ra];B[oa];W[jg];B[ok];W[nk];B[mm]
+;W[nm];B[nn];W[mn];B[ic];W[oi];B[fo];W[go];B[fq];W[ao];B[ap]
+;W[fj];B[ef];W[mg];B[nh];W[ni];B[ah];W[ii];B[ee];W[ng];B[eg]
+;W[if];B[fa];W[si];B[sj];W[sh];B[jd];W[rp];B[sr];W[sp];B[sq]
+;W[sn];B[jc];W[aj];B[ij];W[ar];B[as];W[ii];B[ki];W[ij];B[pm]
+;W[tt];B[tt]TW[sa][sb][sc][sd][ke][le][me][re][se][jf][kf][lf]
+[mf][nf][pf][qf][sf][pg][qg][rg][sg][lj][mj][nj][ck][ek][gk]
+[hk][jk][kk][lk][mk][al][bl][dl][fl][gl][hl][il][jl][kl][ll]
+[ml][am][bm][cm][dm][em][fm][gm][hm][im][jm][km][lm][mm][an]
+[bn][dn][gn][hn][in][jn][kn][ln][io][jo][ko][so][hp]TB[aa][ba]
+[ca][da][ea][ga][ha][ia][ja][ka][la][ma][na][ab][fb][hb][kb]
+[lb][ac][bc][cc][fc][ad][bd][dd][ed][fd][gd][ce][fe][af][df]
+[ff][ag][cg][fg][bh][eh][fh][qk][sk][rl][sl][bq][dq][nq][ar]
+[dr][er][fr][ir][jr][kr][lr][nr][or][rr][bs][cs][ds][es][fs]
+[gs][hs][is][js][ks][ls][ms][ps][qs][ss]C[H: We can see that Black's early advantage was sufficient to press the game into a win with steady play, even after a mistake on the right side.  White's attitude of creating complications after it was clear that he was behind was a good strategy, but a crucial mis-read during the fight in the top cost him the game ultimately.
+
+Both players would benefit from tsumego, as well as considering the direction of play more deeply during the game.]
+)
+(;AE[dd]C[H: If we remove the wasted liberty, White can eat some Black stones.]
+;W[jg];B[ef];W[nh];B[ee];W[mg];B[eg];W[lg];B[dd];W[ii]TR[ih]
+C[H: Black cannot connect due to damezumari.];B[ih];W[if];B[ij]
+;W[ki]))
+(;W[kh]C[H: This was the necessary move.]
+(;B[kg];W[jg];B[ki])
+(;B[ki];W[jg];B[kg])))
+(;B[pi]LB[mi:B][qm:A]C[H: This is a better shape.  This allows Black to either extend, or reduce the moyo strongly.]
+))
+(;W[gb]C[H: Guaranteeing the connection is important.]))
+(;W[kd]C[H: Perhaps pressing here was better for White.]))
+(;W[cf];B[ed];W[ef];B[gd];W[nc]C[H: This was another possibility for White.]
+))
+(;W[co];B[cn];W[do];B[en];W[ec]C[H: The wall feels a little inefficient this way.]
+))
+(;B[do]
+(;W[co];B[cn];W[cp];B[dn];W[fq];B[dj]C[H: I feel good here.]
+)
+(;W[fp];B[cq];W[cr];B[cp];W[er];B[ck];W[oq];B[qj]C[H: This feels nice for Black.]
+)))

@@ -1,0 +1,176 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.17]
+
+PB[flintstone]
+BR[4k]
+HA[2]
+PW[srally]
+WR[2k]
+KM[0.5]
+DT[2010-08-25]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[W+13.5]
+TM[1500]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+AB[pd][dp]C[GP: Hi, I'm Graham Philips (topazg) a British 1k and KGS 1d. I hope to give useful comments and insights where I can (marked with GP:), and I've summarised the key points (and answered your questions) at the end of the sgf. Where I'm offering or annotating variations that deviate from the game, I mark the game move with a square and the deviation with a triangle. If I'm simply offering alternative moves as a comment, I normally mark with a triangle, and most variations have a comment at the end.
+
+*** Important points on moves: ***
+
+16 - Fuseki consistency
+46 - Mistimed tenuki
+68 - Too passive in a crucial moment
+74 - Undervaluing the ponnuki
+78 - Protecting unnecessarily
+86  - Mistimed tenuki
+90 - Too passive in a crucial moment];W[pp];B[dd];W[qf];B[nd]
+;W[pj];B[jc];W[fq];B[dn];W[jp];B[cj]C[GP: Good, with the handicap stones I think this gives Black a good position for the game. White is being too passive.]
+;W[cc];B[cd];W[dc];B[ec];W[eb]TR[fc]SQ[fb]
+(;B[fb]C[*** Fuseki consistency ***
+
+GP: You've spent a good while building up an excellent, influentially orientated position on the board. However, here you pick a joseki that undermines it. With the ponnuki White gets he greatly increases the danger of invading around M17, and the corner is not good enough compensation for the loss of influence. I have included a variation on move 16 and move 20 of alternative josekis that would have been consistent.]
+;W[fc];B[ed];W[gb]TR[fd]SQ[db]
+(;B[db];W[fa];B[cb];W[jj];B[qn];W[qo];B[pn];W[np];B[ql];W[rk]
+;B[ok]C[GP: Nice :)];W[pk]TR[ol]SQ[nm]
+(;B[nm]C[GP: This feels too loose. The idea of being happy to let go of R8 is a good one, but connecting more solidly with P8 gives White much less of a chance to ruin Black's shape.]
+;W[pl];B[ol];W[pm];B[on];W[om];B[no]C[GP: It's necessary to defend this cut, but it's uncomfortable doing so in a way that strengthens White's position. The aji of invading at M3 or M4 is pretty much all gone now. The cost of O7 is already being felt slightly.]
+;W[mp];B[mk];W[mm];B[ml];W[mn];B[nn];W[mo]TR[jl]SQ[qe]
+(;B[qe]C[*** Mistimed tenuki ***
+
+GP: If any move lost you the game, it was this one, although you tenukied from that running group a couple of other times at critical moment. Basically, it's a big group worth a lot of points, and has 0 eyes. Settling it completely is vital and urgent and big all at the same time! Fortunately, White's weak K10 stone can now be harrassed as well, so a move like K8 will serve two purposes, and allow both to settle (see variation).
+
+Also, from a local perspective, I wouldn't choose R15. If you treat it as sente, you haven't fixed the R17 aji, and it is often better to follow up with S14 and connect at S15 and take gote to secure the large corner. However, you obviously eliminate the ability to play R12 (an awkward point for White at the moment) and strengthen White in the process. If you wish to fix the corner in sente, locally R16 is better, totally eliminating the R17 aji and making R12 severe enough that White should defend it with a move such as P14.]
+;W[pf];B[re];W[mi]C[GP: Severe, and very painful!];B[ni];W[nj]
+;B[oj];W[oi];B[mj];W[nh];B[kj];W[ki];B[jl]C[GP: Nice sabaki shape to my eyes :) Good escape.]
+;W[kk];B[kl];W[lj];B[lk]C[GP: However, White has now got a fabulous outside strength, including two ponnukis, and completely settled his right group, negated your upper middle influence, increased the aji of M17, still kept your group with no definite eyes, and achieved it all in sente. All of this was because of the tenuki at R15! Much of the 2 stone handicap is gone now.]
+;W[lc]C[GP: Awkward to handle! However, Black's shape is ok for this.]
+;B[ld]C[GP: Good, the only move :)];W[mc];B[md]C[GP: Necessary as both M16 and O16 are individual stones.]
+;W[oc]TR[pc]SQ[od]
+(;B[od]C[*** Too passive in a crucial moment  ***
+
+GP: The peep here is different. Now N16 is connected, Black is strong on both sides, and the only move is to block at Q17. It is rare that you cannot afford to block sharply after the first connection with these 4th line peeps. In this case, White will be lucky not to die (see variations).]
+;W[pc];B[qc];W[qb];B[nc];W[rc]TR[qd]SQ[kc]
+(;B[kc]C[*** Undervaluing the ponnuki ***
+
+GP: As White can capture at R16 and keep sente, connecting there was huge. White still has to play to save the corner, and K17 is not big enough to save if the alternative is getting the corner back. As it happens, White has enough shortage of liberties issues that Black can capture these stones anyway.
+
+This is also the fourth ponnuki you let White have, and with their value in fighting situations, this gave White enough power to succeed in a number of local fights. Ponnukis are not necessarily always worth the 30 points of the proverb, but they are always valuable, especially in fighting or influence orientated games. The middle ones were created by White in sente due to Black not looking after his other group, and the two at the top were also created in sente. This is something that would be good to be avoided.]
+;W[qd];B[pe];W[nb]TR[gd]SQ[ke]
+(;B[ke]C[*** Protecting unnecessarily ***
+
+GP: Every go player should be striving as hard as possible to play the moves he wants, how he wants, when he wants. Playing passive defences, or unnecessary moves, should be eliminated wherever possible. This case is a good example of the tempo of an unnecessary protection costing Black very dearly. This cut does not work, and requires little reading to convince himself that it is safe (see variations on 78). I have included the loose ladder in question on the variations.]
+;W[ge]C[GP: The exchange of L15 for G15 is very painful for Black.]
+;B[ko];W[kn];B[jn];W[km];B[jm];W[jo];B[dr]C[*** Mistimed tenuki ***
+
+GP: Again, that middle group is getting larger and larger, and still has no eyes. Settle the thing first, pick up points or attack afterwards. Settling your big groups should be number 1 on your priority list if they are semi-surrounded and without eyes.
+
+Locally, as with the R15 move, D3 is better than D2 as this leaves the peep aji at C3. Both make the H3 invasion very effective.]
+;W[cl];B[dl]C[GP: Again, good :)];W[ch]TR[ck]SQ[cm]
+(;B[cm]C[*** Too passive in a crucial moment  ***
+
+GP: Another example of being too passive. C9 should kill the White stone outright, or at least give excellent thickness to attack. The handicap stones are well and truly gone now, and White has a good lead once he connects underneath.]
+;W[ck];B[dk];W[bj];B[di]C[GP: D10 is the only shape here, forcing White to connect in gote. You took sente anyway, but the capture at D10 is surprisingly big (being another ponnuki again!)]
+;W[ci];B[hq]C[GP: It's tempting, but without having looked after that big group, it's a very big risk still!]
+;W[gp];B[hp];W[ho];B[go];W[hn];B[gq];W[fp];B[fr];W[hl]C[GP: Black's in dire trouble now.]
+;B[fo]TR[ik]SQ[em]
+(;W[em]C[GP: Very very lucky. White should just play J9.];B[jk]
+;W[kj];B[hk];W[dj];B[ij];W[dm];B[cn];W[ii];B[gl];W[gm];B[hi]
+;W[hh];B[ih];W[ji];B[gh];W[hg];B[fi];W[gj];B[hj];W[fj];B[ej]
+;W[ek];B[ei];W[fk];B[gi];W[gg];B[fg];W[ff];B[eg];W[ef];B[dg]
+;W[df];B[io];W[in];B[ip];W[jq];B[fl];W[el];B[fm];W[fn];B[gk]
+TR[en]SQ[eo]
+(;W[eo]C[GP: E6 for White would have created a ko for the big group.]
+;B[en];W[gr];B[eq];W[gn];B[hr];W[do];B[co];W[cp];B[ep];W[fo]
+;B[bp];W[cq];B[bq]C[GP: A great local recovery, now the game is getting closer again.]
+;W[ib];B[of]C[GP: Good turn.];W[nf]C[GP: White is overplaying horribly.]
+;B[og];W[qh];B[ng];W[mf];B[mg];W[lf];B[rf];W[rg];B[kg]C[GP: All excellently handled.]
+;W[lg];B[kf];W[kh];B[ie];W[id];B[jd];W[if];B[jg];W[ic];B[ph]
+C[GP: Black now lives unconditionally.];W[qg]TR[pi]SQ[lh]
+(;B[lh]C[GP: Oh no! Q11 and White dies completely in the middle - this way, Black has won the game.]
+;W[pi];B[mh];W[li];B[ne];W[bf]C[GP: If you are to play the top left joseki, it's worth knowing that this is always a peep to rescue C17.]
+;B[cg];W[bc];B[cf];W[bb];B[bg];W[be];B[ce];W[bd]C[GP: Another costly loss of at least 10 points.]
+;B[qm];W[bm];B[bn];W[an];B[bo];W[ro];B[ks];W[kr];B[js];W[ls]
+;B[is];W[lr];B[qk];W[qj];B[rl];W[ri];B[ai];W[bl];B[he];W[hd]
+;B[jh];W[ni];B[fd];W[gd];B[kb];W[lb];B[la];W[mb];B[ma];W[oa]
+;B[op];W[oq];B[oo];W[rn];B[sk];W[rj];B[aj];W[ak];B[ah];W[ir]
+;B[gs];W[jr];B[hs];W[rd];B[sd];W[sc];B[se];W[sj];B[sl];W[lm]
+;B[ll];W[il];B[im];W[sm];B[po];W[qq];B[ik];W[hf];B[je];W[bh]
+;B[af];W[ae];B[ag];W[bi];B[dh];W[fe];B[ao];W[am];B[rm];W[sn]
+;B[sg];W[sh];B[sf];W[ja];B[ka];W[na];B[jb];W[ia];B[nl];W[nk]
+;B[oe];W[pg];B[oh];W[ig];B[tt];W[tt]TW[aa][ba][ca][da][ea][ga]
+[ha][pa][qa][ra][sa][ab][cb][db][fb][hb][ob][pb][rb][sb][ac]
+[gc][hc][qc][ad][rh][qi][si][cj][bk][dk][al][dl][ln][ko][lo]
+[so][kp][lp][qp][rp][sp][kq][lq][mq][nq][pq][rq][sq][mr][nr]
+[or][pr][qr][rr][sr][ms][ns][os][ps][qs][rs][ss]TB[kd][le][me]
+[lf][mf][nf][lg][eh][fh][hl][il][gm][hm][fn][gn][hn][in][do]
+[eo][fo][go][ho][ap][cp][fp][gp][aq][cq][dq][fq][ar][br][cr]
+[er][gr][as][bs][cs][ds][es][fs]C[*** Looking after those big groups ***
+
+There is nothing as big or as urgent as settling large groups without eyes and with enemy stones around. Most points in a go game are earned by being able to harrass and attack weak groups. 3 times you critically tenuki'd the big middle group, and each time cost you very dearly. After the 3rd, it should have died completely. If there's one thing to learn from this game, it's "always be happy to take gote to settle the big groups".
+
+*** Too passive in a crucial moment ***
+
+You played two perfectly reasonable 3rd line - 4th line 3 point jumps. Shapewise these are fine, and globally your usage of them was also good. However, the invasions in both cases went much worse than they should. I have included some of the common and typical sequences to read, but you must be prepared to resist these invasions more forcefully and trust your stones to handle the invasions. There's not a lot you can do not connect against a peep when you have only individual stones being peeped, but in both cases in my variations, the second peep could be blocked with force, and this is often the case, so always well worth reading.
+
+*** Time management ***
+
+The time control for this game was very good and sensible for a game being reviewed, but the use of time (from both players) was particularly poor. You cannot read properly at the speed you were playing, and even the important strategic decisions should have a lot of thought behind them. You spend only 21 seconds on the first 11 moves, which was the entire initial fuseki. That's under 2 seconds per move! The critical R15 tenuki took you 8 seconds, and by the time the 7 "big points" listed at the beginning had been played, you'd only used 5 and a half of your 25 minute main time. That's still about only 7 seconds per move. The unnecessary cut defence at the top had 4 seconds of thought, and the invasion sequence starting with H3 to F2 took you only 10 seconds for 5 moves, and 8 seconds later you played a move that should have cost you the game when White kills the big group. Finally, the move that missed the kill of White's center group had 8 seconds spent on it. All of these critical situations should have had at least 30 seconds to a minute spent reading out variations before playing, else you are always running big risks.
+
+You will gain a lot more experience and strength from forcing yourself to read out sequences before playing.
+
+*** General ***
+
+I hope these comments are in some way helpful. If you have any responses / queries / comments or would like further input on specific moves or areas, do feel free to ask!]
+)
+(;B[pi]C[GP: This is also sente.]
+(;W[oh]C[GP: If White resists, everything dies.];B[pg];W[mh]
+;B[qi];W[ri];B[qj];W[qk];B[sg];W[rh];B[rj];W[sj];B[oe];W[si]
+;B[rl]C[GP: Now White dies everywhere.])
+(;W[qi];B[qk]
+(;W[qj];B[rl]C[GP: Even this way White is dead everywhere.]
+)
+(;W[rl]C[GP: The only way I can see for White to live, but Black takes the 5 extra stones too. The game is now over in Black's favour!]
+))))
+(;W[en];B[hm];W[im];B[il];W[gn];B[hm]C[GP: Ko.]))
+(;W[ik]C[GP: Now Black is completely dead and the game is over.]
+;B[jk];W[ij];B[kj];W[li];B[ji];W[ih]))
+(;B[ck];W[cm];B[dm]
+(;W[co];B[cp];W[do];B[eo];W[bp];B[bq];W[ep];B[bo];W[cn];B[bl]
+C[GP: White is simply dead.])
+(;W[cq];B[dq];W[co];B[cp];W[bp];B[bq];W[do];B[eo];W[ep];B[bo]
+;W[cn];B[bl]C[GP: The peep at C3 doesn't help White either.]
+)))
+(;B[gd]TR[gc][kd]C[GP: Instead, Black should use sente to pressure this group.]
+(;W[gc];B[hd];W[ib];B[ej]C[GP: Again, Black recreates good territorial value for his stones, and takes control of the momentum and flow of the game again.]
+)
+(;W[kd]C[GP: The loose ladders];B[je]
+(;W[ke];B[kf];W[le];B[lf];W[me];B[mf];W[ne];B[nf];W[oe];B[of]
+;W[jd];B[id])
+(;W[jd];B[id];W[ke];B[kf];W[le];B[lf];W[me];B[mf];W[ne];B[nf]
+;W[oe];B[of]))))
+(;B[qd];W[nb];B[ob];W[pb];B[mb];W[oa];B[lb]C[GP: Now Black's group is strong and settled, and White must take gote to protect F17. The game still looks ok for Black here.]
+))
+(;B[pc];W[od];B[oe];W[pb];B[qb]
+(;W[ne]C[GP: This is the more awkward side, leading to some shortage of liberties issues!]
+;B[ob];W[nc];B[kc];W[pe];B[of];W[nf];B[og];W[ng];B[lb];W[oh]
+;B[nb];W[pg];B[oe];W[of];B[mb];W[oe]C[GP: However, here Black keeps all his important stones connected, keeps the corner territory, leaves White clumpy, and retains sente to follow up against that top group.]
+;B[gd];W[gc];B[hd];W[ib]C[GP: Now Black has added thickness in sente as well, and can take some of the remaining big points. E10 is huge now.]
+;B[ej]C[GP: With the R3 aji equivalent to the C3 aji, the game again now looks favourable to Black.]
+)
+(;W[pe]C[GP: This block is simply losing for White, who now dies completely.]
+;B[ob];W[nc];B[ne];W[kc];B[kd];W[jb];B[ib];W[ic];B[jd];W[hb]
+;B[kb];W[ia];B[lb])))
+(;B[jl]TR[kk][lk][kl][ll]C[GP: If White tries to disconnect....]
+(;W[ll];B[kk];W[lk];B[lj];W[lm];B[kj];W[mj];B[nj];W[mi];B[ni]
+;W[mh];B[nh];W[mg];B[ph];W[qh];B[of])
+(;W[kk];B[kl];W[ll];B[lk];W[lm];B[ki];W[ji];B[hl])
+(;W[kl];B[kk];W[jk];B[km])
+(;W[lk];B[ll];W[kl];B[kk])))
+(;B[ol];W[pl];B[om]C[GP: Now Black is thicker and his group is easier to handle with no unpleasant peeps.]
+))
+(;B[fd];W[fa];B[gc];W[fb]TR[ej][jj][qn][qq]C[GP: Now Black can take sente instead, and grab one of the big triangled points. Sente from this sequence is very valuable. E10 looks ideal for Black to extend his framework, but K10 may be bigger and handling that lower right corner is never small.
+
+This is a good joseki to learn if you really want to keep sente from the 3-3 invasion.]
+))
+(;B[fc];W[fb];B[gc];W[bd];B[be];W[bc];B[cf]C[GP: It's still sente for White, but Black is very thick and solid and White is completely sealed in. White has gained very little from the invasion, and has given Black a good compensation.]
+))

@@ -1,0 +1,230 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.17]
+
+PB[Daniel]
+BR[30k]
+HA[9]
+PW[GNU Go]
+KM[0.5]
+DT[2012-05-03]
+RE[W+128.5]
+RU[Japanese]
+US[Daniel]
+
+AB[dd][jd][pd][dj][jj][pj][dp][jp][pp]C[I am a noob.  I played as a child, but I stopped very young.  Also, it really wasn't GO but a game at the time I thought my dad invented for me, but have since found out is really just "atari-go"  I made some notes as I went along, with what I was trying to do.
+
+---
+
+Hi Daniel,
+
+my name is Marc and my current rank is 9 kyu (+/- 2) on KGS.
+
+You'll will find my comments at the appropriate moves and
+the conclusion fo the whole game below.
+
+Conclusion
+-----------------
+1. This game shows, that black isn't ready to play on the 19x19 board as he misunterstood some
+basic concepts of the game (Block the opponent if neccessary, Always think some moves ahead, ...).
+So Black should play on the 9x9 board a little longer to get a better feeling for the game of Go.
+
+2. I would recommend to prefer playing against humans instead of computers (if possible).
+A good Go Server is KGS: 
+http://www.gokgs.com/
+
+3. I strongly recommend to do some beginner life and deth problems on:
+http://www.goproblems.com/
+
+Lg Marc];W[cn]LB[cl:B][co:C][fq:A]SQ[dj][jp]C[>Best moves for black are A and B.
+
+>A is a bit defensive but solid move (especially because of K4).
+
+>B is more offensive but very good, as black has the squared marked stone at D10.
+
+>A good alternative is C as this attacks whites C6 and protects the upper side of the bottom left corner
+  (usually this move is a bit slow but black has D10).];B[bo]
+C[>Black B5 is a bit to gentle in my opinion (see the recommended moves before).]
+;W[en];B[co];W[fm]CR[ap][bp][cp][aq][bq][cq][dq][eq][ar][br]
+[cr][dr][er][as][bs][cs][ds][es]LB[fp:A][fq:B]SQ[jp]C[>The easiest way to get a big solid corner for black is just to play at A (maybe B).
+
+>So the (more or less) guranteed points are much bigger.];B[dr]
+CR[ap][bp][cp][aq][bq][cq][ar][br][cr][as][bs][cs]C[>Black D2 is too slow.... Black should try to get a bigger corner. 
+
+>For this it's a good idea to be more in contact with K4.];W[fp]
+;B[nq]C[>Okay];W[qf]LB[nc:B][qe:C][qh:A][qn:D]TR[pj]SQ[nq]C[>Black can react with B, C or A.
+
+> I would prefer A because of the triangled stone and the bottom right corner (especially if black has the opportuniity
+to play D later).]
+(;B[rp]C[>Black S4 is too soft.
+
+>Black can play R6 as white can never live in the corner (see the variations of the previous move)]
+;W[of];B[re];W[ne]LB[nc:A]C[>Just play at 'A'.];B[ob]C[Too slow again...]
+;W[cf]LB[ch:A]TR[dj]SQ[fm][cn][en]C[>I strongly reccomend A to support D10.]
+;B[be];W[ef];B[da]LB[dh:A]TR[dj]SQ[ag][bg][cg][dg][eg][fh][fi]
+[fk][el][am][bm][cm][dm]C[>Very bad move.... Never(!) play on the first line if you don't have to.
+>This rule also applies for moves on the second line (with minor exceptions).
+=> this is something black should have learend from games on the 9x9 board.
+
+>Better play at A or the triangled stone will be in big danger.
+
+>Look a the possible torrity that white will get if he kills this stone!]
+;W[fe];B[hb]LB[fc:B][hd:C][dh:A]C[> A bit random. and not good (there is no reason to play on the second line)...
+> If you don't see 'A' better try to keep contact to either K16 (with C) or D 16 (with B).]
+;W[rf];B[kb]LB[fc:C][mc:D][ld:B][dh:A]C[here i have tried to map out the areas
+
+> This is one of the main problems of black.
+> Black thinks in too small Areas!
+> We are still in Fuseki (Opening Game)
+> In Fuseki it is important to place youre stones at good (large) position
+   to get large territorry later or let's say potential territory (mojo).
+
+> To make potential territory to secure terretorry and attacking
+   the opponent is part of the next Phase (the middle game) of Go.
+    
+
+>Instead of playin at L18 better play A (of coures ;-) ) or simply B, C or D.]
+;W[qi];B[jg]LB[qj:A]TR[dj][pj][jp]C[and trying to connect the top with the bottom
+
+>Why?
+>Even if white prevents the center stone to get connected with the top group black has the opportunity to get in contact with the 
+>other triangled stones......
+
+>Instead of K13 I would simply block at R10];W[qj];B[jm]LB[pk:B]
+[qk:A]C[> Better play A or B.];W[pk];B[ns]LB[oj:A]C[> This stone is useless... Black already has the bottom right croner.
+> Better try to save Q10 or white will get some large territory here....]
+;W[fc]
+(;B[db]LB[ec:A]C[>Wrong side.... Better play at A (also have a look at the variations of the previous moves).]
+;W[hc];B[de];W[oj]C[give up that stone, make areas elsewhere
+
+>The good thing is, that you don't let Gnu Go dictate the game for you...
+> But you need to get a feeling for when do you have to react to a move and when not.
+> You have to react if your opponent will get a large territory (like in this case).]
+;B[ic];W[df]
+(;B[ce]C[> C15 is not neccessary (see the variations of the previous move).]
+;W[gb];B[ha];W[bn]
+(;B[ib]C[>J18 is useless... Why are you afraid?
+> Always try to think a few moves ahead!!! (see the variation of the previous move).]
+;W[ck];B[jc]LB[fj:A]C[> K17 is useless..... 
+> Better save D10 with F 10];W[fj]LB[bg:B][ah:C][fh:A]TR[dj]
+C[> Now the triangled stone is dead. and white gets a large territory.
+
+> Black can try to reduce the territory with A, B or C (see the variations).]
+(;B[ih]C[> Too slow....];W[bf];B[kl]C[> Too slow];W[qm];B[ae]
+;W[af];B[dc]C[> Too slow (the croner is already save....)];W[qe]
+;B[qd];W[fh];B[oc]LB[rd:A]C[>Too slow....
+
+> Better connect with A];W[nm];B[se]LB[rd:A]C[> Better connect with S16]
+;W[sf]TR[re][se]SQ[qe][rf]C[> Try to keep positions like that in mind...
+
+> If black don't connect (or play at S17 as alternativ) white can always kill the two stones.]
+;B[od]LB[rd:A]C[> Oops.... Big mistake... Black has to connectwith S16 instead of playing P16 (this move is unnecessary).]
+;W[rd]C[> The two black stones are dead... black has to protected his corner with S17...]
+(;B[sd];W[rc]C[> Now black lost the whole corner :-(....
+> cause he missed to play at S16 a few moves bevore....
+=> this is something black should have learend from games on the 9x9 board.]
+;B[qc];W[rb];B[qb]LB[md:C][no:B][hq:A]C[> Too slow black already lost the corner...
+> Better play elsewhere like A, B or C];W[ao]C[i moved in the lower left because the upper right seemed weaker
+
+> Well yes...  Black lost the upper right]
+(;B[do]C[> Wrong side... black must block at A4
+=> this is something black should have learend from games on the 9x9 board.]
+;W[ap];B[bp];W[bq]C[ran in to the same problem: what did i do wrong?]
+(;B[dq]C[> Wrong move.... Black should make one eye.... (see the variations of the previouse move).
+> Now it's not easy to bring the black group back to life.]
+;W[fr]C[> Last chance for black (see variations).]
+(;B[ds]C[> Too slow];W[iq]C[> Now the black group in the bottom left corner is dead as he can't make two eyes...
+
+
+> From now on white is too far ahead.... Black can't win....]
+;B[qa]LB[gd:E][md:A][ni:D][gl:C][jq:B]C[> Too slow....
+
+> Better play at A, B, C, D E....];W[kr];B[oa]C[> Too slow :-( :-(....]
+;W[lg];B[lq];W[mj];B[mq]C[> Too slow.... White can't cut  (prevent black to connect his groups) here....]
+;W[le];B[je];W[hd];B[io];W[mc];B[jf];W[rn];B[ii];W[ro];B[qp]
+;W[sp]
+(;B[rq]C[>Why not block at T3?];W[sq]
+(;B[rr]C[> Better block at T2....];W[sr];B[rs];W[hm]C[i lost 3 corners: how?
+
+> See my comments before.....
+> You always missed to simply block white....];B[op]C[> Too slow...]
+;W[ho];B[in];W[hj];B[im];W[hk];B[ij];W[il];B[km];W[jl];B[kk]
+;W[hn];B[kj];W[hg];B[ig];W[hf];B[ip];W[hp];B[kp];W[li];B[lp]
+;W[ki];B[lr];W[jq];B[ls];W[nd];B[nr];W[ra];B[np];W[eb];B[kc]
+;W[ld];B[ka];W[kh]C[i connected the top with the bottom, and the lower right corner, i believe i have eyes, am I correct?
+
+> The truth is, that a group needs only 2 Eyes to be alive!
+> That means regardless if this group is  connected with other
+   groups or not (if it has at least two eyes it is alive....)]
+;B[lm];W[mn];B[ln];W[mo];B[lo];W[ml];B[no];W[on];B[oo];W[qo]
+;B[po];W[pn]LB[hh:A][hi:B]C[> Black already lost the game but still can steal some points from white....]
+;B[jh];W[pe];B[ji];W[kq];B[jk];W[ks];B[ik];W[hl];B[ll];W[lj]
+C[filling open space : good, bad?
+
+> Bad.... In yose (end game) you should try to steal some points
+  from your opponent and try to prevent him from stealing
+  points from you.];B[lk];W[mk];B[mm];W[nn];B[mp];W[ec];B[ed]
+;W[fd];B[ee];W[ie];B[ea];W[fa];B[ga];W[fb];B[sc]TR[sd][re][se]
+C[> Black is dead here.... White don't need to react.... (black gives white 2 points...)]
+;W[hi];B[sb];W[sa]C[ok, how did i walk into that?
+
+> You haven't blocked at the appropiate time....];B[if];W[id]
+;B[la];W[hh];B[na];W[mb];B[ma]LB[ja:2][pb:1]TR[oa][qa][ob][qb]
+[oc][qc][od][pd][qd]C[> Now the triangled stones are secure (alive)...
+> No more moves needed...];W[kf];B[lb];W[so];B[lc];W[nc];B[nb]
+;W[kg];B[pb]LB[ja:3][pa:2][bc:4][pc:1][kn:5][pr:6]C[THAT is two eyes, correct?
+
+> No.... You have to count the amount of eye's with the (potentially) connected groups.
+  (potentially means that you can securly connect two groups if you want).
+
+> So now you have (more than) 6 eyes.
+> Note: A group needs not more than 2 (potentail) (real) eyes to be alive.]
+;W[oe];B[kd];W[ke];B[dn];W[dm];B[eo];W[fo];B[ep];W[er];B[eq]
+;W[fq];B[es];W[fs]C[i have no idea where to move now without making a 'mistake']
+;B[tt];W[ss];B[tt];W[tt]TW[sb][gc][sc][gd][md][sd][ge][he][me]
+[re][se][ff][gf][lf][mf][nf][pf][ag][bg][cg][dg][eg][fg][gg]
+[mg][ng][og][pg][qg][rg][sg][ah][bh][ch][dh][eh][gh][lh][mh]
+[nh][oh][ph][qh][rh][sh][ai][bi][ci][di][ei][fi][gi][mi][ni]
+[oi][pi][ri][si][aj][bj][cj][dj][ej][gj][nj][pj][rj][sj][ak]
+[bk][dk][ek][fk][gk][nk][ok][qk][rk][sk][al][bl][cl][dl][el]
+[fl][gl][nl][ol][pl][ql][rl][sl][am][bm][cm][em][gm][om][pm]
+[rm][sm][an][dn][fn][gn][qn][sn][bo][co][do][eo][go][bp][cp]
+[dp][ep][gp][aq][cq][dq][eq][gq][hq][ar][br][cr][dr][gr][hr]
+[ir][jr][as][bs][cs][ds][es][gs][hs][is][js]TB[aa][ba][ca][ia]
+[ja][pa][ab][bb][cb][jb][ac][bc][cc][pc][ad][bd][cd][jn][kn]
+[jo][ko][oq][pq][qq][mr][or][pr][qr][ms][os][ps][qs]C[=> See the conclusion at the beginning....]
+)
+(;B[sr];W[so];B[rr]))
+(;B[sq];W[so];B[rq]))
+(;B[cq];W[br];B[fq];W[eq];B[gq]
+(;W[ep];B[er];W[gr];B[hq];W[hr];B[iq];W[ir];B[jr];W[eo]LB[dn:1]
+[cr:2][ds:3][es:4]TR[fs][gs][hs][is])
+(;W[er];B[ep];W[gr];B[hq];W[hr];B[fo];W[gp];B[hp];W[go];B[gn]
+;W[ho];B[io];W[hn];B[hm];W[in];B[jn];W[im];B[il])
+(;W[gr];B[er];W[ep];B[hq];W[hr];B[iq];W[ir];B[jr])))
+(;B[cq]
+(;W[br];B[eq];W[cr];B[ep]TR[cp][dq]C[> Two good eyes :-)];W[er]
+;B[fr];W[ds];B[es]C[> Black is alive :-)])
+(;W[eq];B[br];W[aq];B[ar];W[an];B[er];W[fr];B[cs]LB[cr:1][bs:2]
+TR[cp]C[> Black has two eyes...
+
+> The triangled position is not yet an eye (it's an false eye if white plays at D3).]
+;W[es];B[ds];W[fs])))
+(;B[ap];W[an];B[bp]))
+(;B[rc];W[sd];B[sc]C[> Save :-)]))
+(;B[bg];W[bf];B[af];W[cg];B[bh];W[ci];B[bi];W[bj];B[ch];W[dh]
+;B[di];W[cj])
+(;B[ah];W[bg];B[ag];W[bh];B[ai];W[bj];B[bi];W[ci];B[aj];W[ak]
+;B[af];W[bf];B[ae])
+(;B[fh];W[eh];B[fi];W[ei]LB[bg:A][ah:B]C[> Black may continoue with A or B.]
+))
+(;B[fj];W[ib];B[jb];W[ia];B[ja]))
+(;B[fj];W[ce];B[cd];W[bf];B[bd]C[> Black is save and even has a good chance to save D10.]
+))
+(;B[ec];W[db];B[cb];W[ea];B[ca]
+(;W[cc];B[dc];W[eb];B[fb];W[fa];B[ga])
+(;W[dc];B[cc];W[eb];B[ed];W[fb])
+(;W[eb];B[dc];W[fb])))
+(;B[qn];W[qq];B[qp];W[pq];B[oq];W[rp];B[ro];W[rq];B[sp]
+(;W[sr];B[rs];W[or];B[nr];W[qr];B[os];W[pr])
+(;W[sq];B[rs];W[or];B[nr];W[pr];B[os];W[ps];B[ns]
+(;W[rr];B[qs])
+(;W[qs];B[rr]))))

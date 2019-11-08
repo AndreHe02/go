@@ -1,0 +1,168 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.17]VW[]
+
+PB[totorofr]
+BR[19k]
+HA[2]
+PW[hildegard]
+WR[17k]
+KM[0.5]
+DT[2011-09-15]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[W+7.5]
+TM[1500]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+AB[pd][dp]C[totorofr [19k\]: hi
+hildegard [17k\]: hi
+
+Hi --- I'm Mark Schlatter and I will be doing your review.  I will try to focus on some basic principles and then address specific tactical issues as needed.  If you want to contact me, I'm mschlat on KGS and DGS.  I am also happy to expand on any of my comments in this review.
+
+You said you had a concern about saving the group in the lower right around move 46 --- I have comments there, but also throughout the game as well.  I sum up with some comments at the end.]
+;W[qp];B[dd];W[iq];B[oq];W[mq];B[qn];W[qi]C[Mark: Note that you have approached the white stone at R4 from both sides, but white hasn't responded.  This means you have good attacks on the corner (and corner is worth more than side or center).  I have some ideas in the variations.]
+(;B[qf];W[ql];B[qq]C[Mark: Note here that contacting the white stone allows white to put pressure back on you.  The proverb is "never contact a weak stone".
+
+Instead, you can use the P5 attack mentioned earlier.];W[rq]
+;B[qr];W[op]
+(;B[pp];W[po]
+(;B[pq]SQ[pr]C[Mark: Typically you try to avoid the empty triangle (three stones around an empty point).]
+;W[qo];B[rr];W[ro];B[np];W[oo];B[mp];W[pn];B[nn]LB[nq:A]C[Mark: A questionable move.  Yes, it might help get the corner group out, but there's still the cut at A (carried out by white later in the game).
+
+Locally, I like just moving at A.  You connect up stones, make the white stone at N3 almost worthless, and have room to expand out.
+
+Globally, you need to start thinking about the other corners and sides.  O6 is a move that looks to the center --- but center territory is much harder to control than sides or corners.]
+;W[fq];B[eq];W[er];B[dr];W[ep];B[dq];W[ck];B[cn]TR[fp][fr]C[Mark: Good set of moves --- you have solid territory in the corner and two marked cutting points.]
+;W[cf]
+(;B[cd]C[Mark: Note a recommended response.  It does almost guarantee you the corner, but it's small.  Look at the variations.]
+;W[di];B[ef]LB[gc:A]C[Mark: Again, you are emphasizing center over side or corner.  A move to A is great!]
+;W[be]
+(;B[gi]C[Mark: And now you are way too much in the center.  Look at the variation.]
+;W[no];B[jd]LB[nq:A]C[Mark: Now this move is even better!  It works with five stones, not four.  But note that the cut at A is more powerful for white now.]
+;W[nq];B[nr];W[mr];B[or];W[sr];B[ps]TR[pr]SQ[os][qs]C[Mark: This is a strong move.  You have one eye (marked with the triangle) and regardless of what white does, you can make another eye at one of the squares.]
+;W[rs]
+(;B[qs]C[Mark: There is no need to play this move.  In fact, here's where you lose the group.  See the variation.]
+;W[ns];B[ss];W[sq]
+(;B[lq]LB[lp:A][kq:B]C[Mark: If you are moving here to try and save the black corner, the problem is you are leaving a cutting point at A next to a group with two liberties.  There's a chance you could do something if you move at A and white makes a mistake.  
+
+I think it's better either to play elsewhere (e.g., expand the top territory) or to make a move with two purposes.  Maybe B for the latter move --- see the variation.]
+;W[lp];B[mo];W[lr];B[kq];W[kr];B[kp];W[jq];B[jp];W[ip];B[io]
+;W[ho];B[in]LB[fp:A][fr:B]SQ[jn][kn][ln][mn][jo][ko][lo]C[Mark: This may turn into a living group, but it's very uncomfortable.  It has two groups of stones with two liberties and who knows what happens when white plays M5. 
+
+Moreover, white has turned the bottom into points --- your cutting points at A and B don't mean much.
+
+This is what happens when you focus locally on a losing cause --- the global implications can be serious.]
+;W[bm];B[bn];W[cm];B[em];W[fo];B[gl]LB[nc:B][jg:C][ph:A]C[Mark: I'm uncomfortable with this stone.  It _might_ link up the L3 group with others, but it's a tenuous connection.  And the stone is emphasizing center again.  I would love to place a stone at A or B or C --- all of them emphasize the top.]
+;W[en];B[dn];W[dm];B[el];W[ol];B[nl];W[nk]
+(;B[mk];W[nm];B[mm];W[ml];B[ll];W[mj];B[nl];W[lk];B[ml];W[om]
+;B[kk];W[lj];B[nj];W[ok];B[kj];W[ni];B[li];W[mi];B[lh];W[mg]
+C[Mark: I think you have made good use out of white's misplays here.  It's still center territory, but you have helped the L3 group.  Note, however, that white's right side is getting larger and larger.]
+;B[lg];W[pg]
+(;B[pf];W[rg];B[mf];W[ng];B[nf];W[mh];B[og];W[oh];B[of];W[ln]
+;B[mn];W[lo];B[kn]TR[jp][kp][kq][lq]SQ[mk][ll][ml][nl][mm][mn]
+[nn][mo][mp][np]C[Mark: The squares have three liberties; the triangles two.  When you are down to that few, you need to check that you can keep the stones safe.  See variations.]
+(;W[on]C[Mark: Black must connect here --- it's a two liberty situation.]
+(;B[hn];W[kl];B[ko];W[lm];B[jl];W[km];B[jm];W[gn];B[gm];W[dl]
+;B[ej];W[dj];B[dg];W[cg];B[ei];W[dh];B[eh];W[df];B[eg];W[bd]
+C[Mark: No --- corner is worth more.  Protect it!]
+(;B[de]C[Mark: Again, the empty triangle shape --- avoid it when possible.]
+;W[cc]C[Mark: And white takes at least twelve points this way (cutting what white gained and you lost).]
+;B[dc];W[cb];B[db];W[da];B[ea];W[ca];B[eb];W[rf];B[re];W[se]
+(;B[sd];W[rd];B[sf];W[sc];B[rc];W[se];B[qg];W[ph];B[sd];W[sg]
+;B[qd];W[se];B[sb];W[qh];B[sf];W[rh];B[se];W[lf];B[kf];W[le]
+C[Mark: Better to cast a wide net about white than attack from close up.]
+(;B[me];W[ke];B[jf];W[je];B[ie];W[kd];B[jc];W[kc];B[jb];W[kb]
+;B[mc]C[Mark: Great!];W[id];B[hd];W[ic];B[ib];W[hc];B[gc];W[he]
+;B[hb]C[Mark: Great use of the ladder!];W[if];B[id];W[jg];B[kg]
+;W[ig]
+(;B[jh];W[ki];B[kh];W[ji];B[ih];W[jk];B[ii];W[jj];B[ik];W[ij]
+;B[hj];W[hk];B[il];W[gk]
+(;B[hl];W[gj];B[hi];W[ek];B[fk];W[dk];B[fl];W[fn];B[do];W[eo]
+;B[am];W[al];B[an];W[bl]
+(;B[es];W[fr];B[fs];W[gs];B[ds];W[tt]
+(;B[tt]TW[aa][ba][ab][bb][ac][bc][ad][ae][af][bf][ag][bg][ah]
+[bh][ch][nh][sh][ai][bi][ci][oi][pi][ri][si][aj][bj][cj][kj]
+[nj][oj][pj][qj][rj][sj][ak][bk][kk][mk][pk][qk][rk][sk][cl]
+[ll][ml][nl][pl][rl][sl][mm][pm][qm][rm][sm][mn][nn][qn][rn]
+[sn][go][mo][so][fp][gp][hp][mp][np][pp][rp][sp][gq][hq][oq]
+[pq][qq][gr][hr][ir][jr][nr][or][pr][qr][rr][hs][is][js][ks]
+[ls][ms][os][ps][qs][rs][ss]TB[fa][ga][ha][ia][ja][ka][la][ma]
+[na][oa][pa][qa][ra][sa][fb][gb][kb][lb][mb][nb][ob][pb][qb]
+[rb][ec][fc][hc][ic][kc][lc][nc][oc][pc][qc][sc][ed][fd][gd]
+[kd][ld][md][nd][od][rd][ee][fe][ge][he][je][ke][le][ne][oe]
+[pe][qe][ff][gf][hf][if][lf][fg][gg][hg][ig][jg][fh][gh][hh]
+[fi][fj][gj][gk][hk][hm][im][jn][ao][bo][co][jo][ap][bp][cp]
+[aq][bq][cq][ar][br][cr][as][bs][cs]C[totorofr [19k\]: thx
+hildegard [17k\]: that was really close, thanks for the game
+
+Mark: Don't pass if white hasn't fixed the cutting point at G2!  See the variations!
+
+Okay, some overall thoughts:
+
+1) Remember that corner beats side beats center.  Avoid the center moves if there are better corner or side moves available.
+
+2) Keep an eye out for two or three liberty situations and make a plan to handle them.
+
+3) Look at some basic life and death --- going through some problems might have helped the lower right.
+
+4) Keep on getting your games reviewed!  (And if you didn't understand something in this review, ask me or somebody else.)
+
+Thanks for asking for the review --- this was a fun game to look at.]
+)
+(;B[gr]
+(;W[hs];B[gq];W[fp];B[hp]
+(;W[go];B[gp]C[Mark: Black takes a lot!])
+(;W[hq];B[go];W[gp];B[ho])
+(;W[gp];B[go]))
+(;W[gq]
+(;B[hr];W[ir];B[hs];W[hq];B[is];W[js];B[gs]C[Mark: Black wins!]
+)
+(;B[hs];W[hr];B[gs];W[is]))))
+(;B[fr]C[Mark: This way is better --- you may get more access to white's territory.]
+))
+(;B[fk]C[Mark: Reduce white down to two liberties.]))
+(;B[ki]C[Mark: Don't get tricky --- just connect up.]))
+(;B[lc]C[Mark: White's options are narrowing....]))
+(;B[rd]C[Mark: Here's a safer response.  You submit for one move, but don't run into atari trouble later.]
+;W[sd];B[sc]
+(;W[rc];B[sf];W[sb];B[sd])
+(;W[sf];B[rc])))
+(;B[bc];W[ee];B[ed];W[de];B[fe]C[Mark: This is fine for black.]
+))
+(;B[kl]))
+(;W[ko];B[jo];W[kl];B[lm])
+(;W[jo];B[ko];W[jn];B[lm];W[jm];B[im]))
+(;B[qg]C[Mark: I would prefer to slide underneath white here --- steal some side territory and maybe make use of O10.]
+))
+(;B[ml]C[Mark: Given the shaky nature of the group, I would prefer a more solid move.]
+))
+(;B[kq]
+(;W[kp]C[Mark: If white goes this way, you can save your stones!]
+;B[lp]
+(;W[lq];B[lr];W[ms];B[ls])
+(;W[ko];B[lq]
+(;W[kr];B[lr])
+(;W[lr];B[kr];W[rs];B[ms];W[ls];B[ks])))
+(;W[lp];B[kp];W[lq];B[lo];W[mo];B[kr]SQ[ep][fq][iq][er]C[Mark: If not, maybe you can build a wall to attack the white stones on the bottom.]
+)))
+(;B[ns]TR[pr][os]C[Mark: Now the group is safe with two eyes.  Note what happens if white approaches.]
+(;W[qs];B[ss];W[rs];B[qs]C[Mark: Black is still safe.])
+(;W[ss]
+(;B[qs];W[sq]C[Mark: Black is still safe.])
+(;B[nc];W[qs];B[sq];W[rp];B[sr]C[Mark: Black is still safe.]
+))))
+(;B[jd]SQ[dd][pd][ef][qf]C[Mark: Look at how this stone works with the four marked stones.  A few more moves and the top is yours.  Moreover, any attempt by white to invade will be difficult.]
+))
+(;B[fc]C[Mark: A simple extension is fine.])
+(;B[ch]C[Mark: A pinch, while dangerous, puts white under pressure.]
+))
+(;B[rp];W[qo];B[ro]
+(;W[rr];B[rs];W[pq];B[sr]C[Mark: This at least is life in the corner, but white gets a lot on the bottom.]
+)
+(;W[pq];B[rr];W[pr])))
+(;B[np]C[Mark: I like the hane here --- try and separate the white stones.]
+(;W[nq];B[pp];W[oo];B[po])
+(;W[pp];B[nq];W[pq];B[pr])))
+(;B[oo]C[Mark: You can surround the corner and kill white.]
+)
+(;B[qk]SQ[ql][qm]C[Mark: You can build a strong base (a two stone separation on the third line) to put pressure on both the R4 and R11 stones.]
+))

@@ -1,0 +1,205 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.16]
+
+PB[cablette]
+BR[12k]
+PW[MeiTen]
+WR[11k]
+KM[0.5]
+DT[2013-12-29]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[W+8.5]
+TM[60]
+OT[5x10 byo-yomi]
+RU[Japanese]
+
+C[Hi MeiTen,
+
+I reviewed the game and I think I have talked about the main points.
+At the main line there are 16 comments, which are important I think. Over the whole game there are many smaller mistakes like slow moves or small reading mistakes and I mentioned just a few and not all.
+Hope my comments help you a bit!
+
+For the next time you should also put some questions or comments on your own into the sgf file. Maybe I now missed an important situation, that was of interest for you!
+If this is the case or you have some further questions or did not understand something, just write me an EMail!
+
+Greetings Sven];B[pp];W[pd]C[cablette [12k\]: hi
+MeiTen [11k?\]: hi];B[dp];W[dd];B[cf];W[fd];B[fq];W[qn];B[nq]
+;W[pj];B[jp];W[jd]TR[bd][dh][jp]SQ[jc]C[Comment 1:
+Till now a good and normal opening.
+For white it would be slightly better to have k16 on k17.
+Already it is easy for black to get settled on top, since black can underplay the white stones on the third line.
+
+I guess finally it is a matter of playing stile, but already white is not in balance, white more interested in influence.
+
+For black something that strengthens c14 is more important than having k4. Maybe slide into the corner or extend on the left side down.]
+;B[hc];W[hd];B[jc];W[kc]
+(;B[ic]C[Comment 2:
+j16 instead of j17 is a must!
+Black attacks and should not just connect and see how white reacts. j17 is some kind of "I've no plan what to do".
+
+What do we want?
+- invade the top
+- attack corner
+- run into middle
+
+j17 does already nothing of this points. j16 tries to escape into the middle.
+Now white has 3 points he could think of (despite the fact that white always can play k18!):
+- Blocking at j15
+- Atari at k18 and extending to k15
+- Blocking at g17
+
+See the alternative sequences at move 16.];W[gc];B[id];W[je]
+;B[ie];W[jg];B[he];W[gd];B[ge];W[ef];B[fe]LB[ee:A]C[Comment 3:
+e15 for white is a MUST now!
+
+See the uncommented sequences to get an idea what can happen afterwards]
+
+(;W[mc];B[ee];W[dj];B[df];W[eg];B[ed];W[ec];B[gb];W[fb];B[fc]
+;W[db]C[Comment 4:
+Black has still a good option for the whole corner!
+See sequence]
+(;B[ga];W[fa];B[de];W[cd];B[gg]C[Comment 5:
+See last comment. White was lucky with the upper left corner. black could have done more!]
+;W[cn];B[qf]C[Comment 6:
+Already no need for black to do this, too aggressive.
+C8 much more interesting for black!];W[qc];B[ph]
+(;W[ni]
+(;B[pe];W[oe];B[of];W[ne];B[nf];W[mf]C[Comment 7:
+In my opinion wrong direction of both!
+
+O11 for white is not really an attack. White cannot hope to get black in serious trouble, so r11 would be of more interest for white.
+Also r11 and r10 are of more interest for black in making eyeroom.
+
+See sequences at move 47 and 48.];B[mg];W[lf];B[lg];W[ki];B[nh]
+;W[mi];B[kg];W[kf];B[qh];W[rj];B[qd];W[pc];B[rd];W[rc];B[ri]
+;W[qj];B[oi];W[oj];B[pi];W[kn];B[hj];W[dg];B[gl]LB[bf:B][cg:A]
+[dl:C][en:1][gn:2]C[Comment 8:
+h10 and g8 seems a bit randomly.
+
+Better securing corners for black or attacking at p6.
+Or directly attacking left side with something like b11.
+
+White should be aware that he is too thin on the left!
+Before 1 and 2  the abc sequence would be better for white!
+See sequence.]
+(;W[en];B[gn];W[bp];B[cq];W[bq];B[cg];W[ch];B[bh];W[ci];B[bi]
+;W[bj];B[fi];W[ei];B[fg];W[eh]C[Comment 9:
+
+There are many moves that are a bit slow. e12 is one o f them.
+Also the sequence s16 s17 some time before can be later done!
+Or f8 at move 99];B[fj];W[rp];B[ej];W[ek];B[fk];W[el];B[fl]
+;W[fm];B[fn];W[eo];B[gm];W[em];B[ep];W[fo];B[go];W[do];B[gp]
+;W[cp];B[dq];W[br];B[fp];W[es];B[cr];W[cs];B[gr];W[fs];B[gs]
+;W[ds];B[bf];W[bd];B[ff];W[lp];B[jh]LB[jh:A][lr:B]C[Comment 10:
+All your last moves where too slow!
+Whites moves are ok (a bit slow) but also blacks are slow and A instead of m3 is just a mistake! O3 needs a backup so B is too good to allow for white!
+
+A is just a dame move, nothing worth, it does not attack, not secure, not gain points!
+Instead of saving at m3 black could first attack at o5 maybe!]
+;W[lr];B[jr]LB[os:A]C[Comment 11:
+A (like in the game) is standard but a little bit uninspired!
+Also m2 m4 are a bit thin! Black can break through! (See sequence at move 128)
+
+First white could hope to strengthen his stones with l3 k3 and afterwards make a serious attack like q2 and not just a monkey!
+See sequences!]
+(;W[os]
+(;B[qo];W[ro];B[no];W[nm];B[pn];W[qm];B[pm];W[pl];B[ol];W[pk]
+;B[om];W[nl];B[nn];W[ll];B[qp]C[Comment 12:
+Better securing the corner instead of getting a blood rage!
+See sequence]
+(;W[oq];B[op];W[oo];B[or];W[pq];B[ns];W[pr];B[ps];W[qq];B[rq]
+;W[sq];B[rr];W[rn];B[qr];W[jl];B[im];W[jj];B[jm];W[km];B[ln]
+;W[ko];B[mm];W[ml];B[lo];W[kp];B[mp];W[lq];B[kr];W[ls];B[jo]
+C[Comment 13:
+All in all the attack of white was not serious enough! Better let black life in corner and make territory above or you need a more powerful attack! This is a big win for black in the lower right corner!]
+;W[il];B[hl];W[jn];B[in];W[ii];B[ih];W[kh];B[hi];W[ij];B[ig]
+;W[jf];B[if];W[kb];B[jb];W[ka]C[Comment 14:
+Finally black has the better endgame options, he should use it!
+Compare my sequence with the endgame of your game!]
+(;B[ja];W[aj];B[ai];W[ks];B[js];W[sd];B[re];W[se];B[sf];W[sc]
+;B[sg];W[si];B[sh];W[sj];B[qi];W[kq];B[jq];W[mr];B[nr];W[sr]
+;B[rs];W[sp];B[lm];W[lh];B[mh];W[mq];B[ji];W[kj];B[ik];W[jk]
+;B[hk];W[ms];B[ok];W[nk];B[ae];W[ad];B[be];W[fh];B[gh];W[ce]
+;B[cb]C[Comment 16:
+no danger, take your minute and think about it!]
+(;W[cc];B[da];W[bb];B[eb];W[ca];B[ea];W[dc];B[fr];W[er];B[eq]
+;W[bs];B[dr];W[kl];B[ck];W[cj];B[cm];W[dk];B[cl];W[bm];B[al]
+;W[bo];B[bl];W[am];B[tt];W[tt]TW[aa][ba][la][ma][na][oa][pa]
+[qa][ra][sa][ab][cb][lb][mb][nb][ob][pb][qb][rb][sb][ac][bc]
+[lc][nc][oc][kd][ld][md][nd][od][ke][le][me][dh][di][li][lj]
+[mj][nj][ak][bk][ck][kk][lk][mk][qk][rk][sk][al][bl][cl][dl]
+[ql][rl][sl][cm][dm][rm][sm][an][bn][dn][sn][ao][co][so][ap]
+[aq][ar][as]TB[fa][ha][ia][fb][hb][ib][gc][fd][gd][hd][qe][af]
+[gf][hf][pf][rf][ag][bg][hg][ng][og][pg][qg][rg][ah][hh][oh]
+[rh][gi][gj][gk][hm][hn][mn][on][ho][io][mo][oo][po][hp][ip]
+[np][gq][hq][iq][oq][pq][qq][hr][ir][pr][hs][is][os][qs]C[cablette [12k\]: thx
+MeiTen [9k?\]: thx])
+(;W[da];B[cc];W[dc];B[ab];W[ba])
+(;W[ca];B[ba];W[da];B[bc];W[cc];B[bb];W[ac]))
+(;B[aj];W[ak];B[ai];W[bk];B[ae]
+(;W[ja];B[ad];W[ac])
+(;W[ad];B[sc];W[sb];B[sd];W[rb];B[sp];W[so];B[sr];W[sp];B[sj]
+;W[sk];B[si]
+(;W[rl])
+(;W[ja];B[rk];W[sl];B[rl];W[sm];B[rm]))))
+(;W[qq];B[pq];W[qr];B[pr];W[ps]))
+(;B[mr];W[ms];B[lq];W[kq];B[mq];W[kr];B[kp]))
+(;W[pr]C[Comment 11.2:
+Attacking without strengthen m2 and m4 (error)];B[nr];W[qq]
+;B[lq]
+(;W[kq];B[mq])
+(;W[mq];B[kq];W[mr];B[mp];W[np];B[mo];W[no];B[oq]))
+(;W[kq]
+(;B[jq];W[pr]
+(;B[qq];W[os];B[ns];W[nr];B[mr];W[ms];B[no];W[mm])
+(;B[nr];W[qq];B[no];W[mm]))
+(;B[qq]LB[kn:B][qn:A]C[Comment 11.1:
+If black doesnt react and tries to secure his stones, it can get more complicated. This is just an example because there are many sequences possible! In doubt, let black small life and try to close the gap between A and B.]
+;W[rq];B[rr];W[pr])))
+(;W[cg];B[bf];W[dl];B[bh];W[bg];B[ag];W[bi];B[ch];W[ci];B[dh]
+;W[eh];B[di];W[ei];B[ah];W[dk];B[ej];W[fj];B[ek];W[fl];B[cj]
+;W[bj];B[ck];W[cl]))
+(;B[qi];W[qj];B[ri];W[rj];B[rd];W[rc];B[of])
+(;B[qj];W[qi];B[pi];W[qk];B[oj];W[pk]
+(;B[nj];W[oi];B[mi];W[og];B[ng];W[oh]C[Already this doesnt work but as an idea for later or other situations.]
+)
+(;B[qh];W[rj];B[oi])))
+(;W[qi];B[qh];W[ri];B[rh];W[on]LB[qh:2][rh:4][qi:1][ri:3][on:5]
+))
+(;B[cc]
+(;W[dc];B[cd];W[cb];B[bb];W[ba];B[bc];W[ea];B[ca])
+(;W[cd]
+(;B[dc]C[ERROR sequence!];W[eb]
+(;B[cb])
+(;B[bc];W[bd]))
+(;B[bd];W[dc];B[bb];W[cb];B[bc];W[be];B[bf];W[ae];B[ce]))))
+(;W[ee];B[gg];W[eh];B[gi];W[hh];B[gh]
+(;W[ej]
+(;B[hi];W[ci])
+(;B[di];W[ei];B[cj]))
+(;W[ch])))
+(;B[id]
+(;W[ie]LB[ic:1][ie:A]SQ[he][ke]C[Comment 2.1:
+If white blocks black can easily get out.
+
+After black j17 white has to decide which side he secures.]
+;B[ic]
+(;W[ke];B[gd];W[he];B[ge]LB[ic:1][gd:3][ge:5][he:4][ke:2]C[Comment 2.1a:
+White secures the right side with 2 and black gets out with 3 and 5. Black could play f17 instead of 5, but white would atari at 5 and build a superior wall in sente.
+
+All in all this is not a very good attack of black.])
+(;W[he];B[kd];W[je];B[lc];W[kb];B[lb];W[ld];B[ke]LB[kb:6][lb:7]
+[ic:1][lc:5][kd:3][ld:8][he:2][je:4][ke:9]C[Comment 2.1b:
+
+Perfect invading for black. Secured stones and black can attack the upper right corner and area around.
+
+Much worser for white as sequence 2.1a]))
+(;W[jb];B[ic];W[je];B[ie];W[jf];B[gd];W[ce]LB[jb:1][ic:2][gd:6]
+[ce:7][ie:4][je:3][jf:5]C[Comment 2.2:
+
+White likes the wall and decides for peace and an easy sequence. 6 and 7 maybe somewhere else]
+)
+(;W[gc];B[he];W[gd];B[je];W[kd];B[ke];W[le];B[lf];W[me];B[eg]
+LB[gc:1][gd:3][kd:5][he:2][je:4][ke:6][le:7][me:9][lf:8][eg:10]
+C[Comment 2.3:
+White can secures his stones and make territory on the upper side (left and right). black gains influence but is thin at 10.]
+)))

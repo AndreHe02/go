@@ -1,0 +1,254 @@
+(;FF[4]GM[1]SZ[13]AP[SGFC:1.13b]
+
+GN[White (W) vs. Black (B)]
+PB[GnuGo]
+PW[Andras V.]
+KM[5.5]
+DT[2002-04-11]
+RE[W+12.5]
+
+C[Dear Andras,
+
+Thanks for letting me review this game, where you took White against GnuGo. As you probably know, computer programs are not yet strong Go opponents. Some of GnuGo's moves in this game simply make no sense to me. Even so, it was an interesting game.
+
+My comments are prefaced with MM.
+
+***
+Dear Mike,
+
+I had much fun commenting on this review and taking my chance at variations on the avalanche joseki, with which I'm not at all familiar. Of course, I must be wildly wrong in many places, so don't take anything by the letter but pay attention to the rationales. Concerning joseki, bear in mind that it's more important to understand the aim of a joseki than to know the sequence of its moves, because there are too many variations and also because one must be able to remain consistent when one's opponent departs from the joseki.
+
+Best regards,
+Sebastien];B[cj];W[ej]C[MM: Approaching with this kakari is probably OK, but maybe a little aggressive. More usual would be to play in one of the three empty corners.]
+;B[kk]MA[dc][dd][cd][dh][gk][gj][hj][hk][kd][kc][jc][jd][di]
+[cg][dg]C[MM: This feels a little weird. It doesn't seem to build with the black stone already on the board. I would expect something at one of the marked points instead.
+
+myshkin: I don't agree. It's usual to take the corners in the first moves and Black is just doing that. On a 13x13 board, Black's stone can even be considered like a wide pincer.]
+;W[jj];B[jc];W[je];B[dc];W[de]C[The first four moves seemed quite natural for me
+
+MM: They seem a bit strange to me, but they're interesting.
+
+Black is in good position to take the corners, but White may dominate the center. White's position aims to take 'influence', while Black has a good grip on some 'territory'. Ultimately, 'territory' is what wins the game... but in the mid-game, White may use 'influence' to attack and take enough territory to win.
+
+myshkin: To 'leave' all four corners to the opponent is very unusual. I wouldn't recommend it, but it does lead to original games. At this point, I'd mention that one of White's assets over Black is that he should be able to separate him in at least three groups while he remains unified. This is an aim to bear in mind.]
+;B[ke]
+(;W[jd]C[It was already less natural - other possibility I thought of: W L8
+I know something about the opening patterns, but little about the connections of these four for example.
+
+MM: This may be OK, even though Black's natural followup at L10 gives Black the good 'hane at the head of two stones' shape. L8 also seems OK. L10 would probably work too. Even after trying some variations, I am not strong enough to be sure which is the best. This move -- and the next three or four -- are the main reason I'm asking the GTL for a review of my review.
+
+myshkin: Here's my humble opinion on this difficult question. :-) I prefer L8 (see var 2) because White gets a bonus in tempo with his stone at K4, he isolates the L3 stone and he remains thick (=with no cutting points).  This K10 leads into the notoriously complicated avalanche joseki. My understanding of this joseki is that White plays it when he's going for outer thickness on the left side of the corner. So it should help isolate the D11 stone, but as it isn't so low as L3, I wouldn't expect as much benefit from weakening the former as the latter.]
+;B[kd]
+(;W[ic]C[MM: There is a proverb that says 'hane at the head of two stones.' This good shape is what Black has against the White stones in the upper right. But I think it's OK for White in this case, because while Black defends the corner, White can build strength to attack the left.
+
+A more forceful way to play would be to first put a sacrifice stone at L11 ... 'hane at the head of two'... and follow up with the atari at J11. This would give White sente for attacking the left. If Black doesn't take the sacrifice, then White can live in the corner.
+
+myshkin: J11 is joseki. I think L11 leads to no good for White (see my comments in the variations).]
+;B[jb];W[ib]MA[hd]C[MM: Maybe a wasted stone? Better to protect the cutting point with H10?
+
+myshkin: The stone isn't really wasted as it's important to hermetically isolate D11 from the upper right corner and H10 leaves annoying threats of connection. However, I think you're right in preferring H10, which is necessary to protect the cutting point. Moreover, it's more consistant with the intention of the joseki, that is strong, high, white stones on the left.]
+;B[kj]C[MM: See, here White loses sente. Black can afford to leave the corner fight, and play in another part of the board. This probably would not happen if White had sacrificed a stone at L11.
+
+Even so, White can attack the upper right corner later, with a stone at L12. But this just reduces Black's area rather than killing it.
+
+myshkin: See the discussion of the joseki above for the issue of sente.]
+;W[ji]MA[jk][id]C[MM: I think I'd prefer to block low at K3.
+
+At some point, you need a move like H10 to cover the cutting point at J10. This probably isn't the time, but you should do it soon.
+
+myshkin: K3 is ok but it also makes sense to play high as White's strategy is strongly centre-oriented. You're right, J10 is a pain in the neck.]
+;B[ek];W[fk]C[Here I tried the other possibility (as mentioned before)
+
+myshkin: I think it's worth mentioning that the choice of a joseki should be guided by a strategical aim. In fact, I think that in this case I'd go for the other side with D4 in order to give life to a big centre moyo. Next, putting pressure on the lone black stone in the upper left corner would yield the well-deserved territory White's strategy promises. White may end up behind even so but I think he'd have better chances than with F3.]
+;B[dk];W[fj]MA[ki][cd][bd][fc][lh]C[MM: Solid, but too slow, in my opinion. White's stones feel unified and strong, so attack! I like one of the marked points better. Of these, perhaps F11 is best since it helps that pesky weakness at J10.
+
+myshkin: Solid and slow, but inevitable. Black F4 would really hurt. White needs this move to complete a serious moyo, or his whole strategy will be a failure.]
+;B[ch]C[myshkin: The game's almost lost for White. If he can kill Black's stone and take the upper left corner, he may stand a chance but I don't think this is possible.]
+;W[jk];B[lh];W[jg]MA[kg]C[MM: At first, I thought you didn't need this move at K7. But if Black gets that point, then the fighting becomes complicated. So it's probably a good place for White to play. L7 might be better -- it would threaten to cut Black, so it would keep sente, I think.]
+;B[ce]C[MM: A big move for Black, and a lost opportunity for White.
+
+After quickly counting, I estimate Black probably has almost 60 points on the right and left now. White seems to have less than 50 points in the center, top, and bottom, not including komi. Much is still unsettled, but it looks like a difficult game for White.
+
+myshkin: White has no territory in the centre and top so far. I think one can count only fifteen/twenty points for White's bottom. I'd say twenty for Black's lower left corner, ten/fifteen for the upper right and as much for the lower right, and undetermined but promising potential for the upper left corner. The game's probably lost for White as his opportunities are in the centre where territory usually ends up depressingly shrunk by the opponent's pressure from the sides.]
+;W[cf];B[cd];W[dg]MA[bf]C[MM: Too passive. Play to split the opponent's stones apart! B7 seems natural.
+
+myshkin: I think you mean B8 (where you put a cross). But this allows Black to cut and enter White's moyo with D8. White D8 both protects against the cut and separates Black.
+
+My comments stop here.];B[fc];W[fd];B[id]C[MM: This is what happens when White doesn't cover his cutting points.]
+;W[hd];B[jf];W[ie];B[if]C[MM: Ouch -- Black is driving a wedge through White's stones!]
+;W[lg];B[lf]MA[kf][he]C[MM: Eh, maybe not Black's best move. L8 might be better, or H9.]
+;W[kh];B[kg]C[MM: Weird time and place for a ko. Computers do the strangest things.]
+;W[kf];B[jl]C[MM: Not a very compelling ko threat, is it?];W[li]
+;B[ll]MA[hl]C[MM: Black misses the chance to destroy White's territory. Black should go to H2 first.]
+;W[kg]MA[le]C[I wanted to be sure about the right side.
+
+MM: You would probably be OK by attacking at M9 instead, because I think you can win the ko. Especially since Black is a computer, and computers are notoriously bad at ko. But it makes sense to connect a ko when you want to be sure.]
+;B[lc]C[MM: Black's corner looks safe now. But White seems to have caught up a bit, thanks to Black messing up the ko fight and the right side and corners. Now the game looks about even.]
+;W[le]MA[bf][il]C[I tried to attack the group in the upper right corner
+
+MM: A little too late. Better to split the left side, or defend the bottom.]
+;B[la]C[MM: Strange. I think Black at M10 would be safe, and keep more points for Black.]
+
+(;W[ja]C[MM: Instead, I think I'd try the M10 attack here.]
+;B[kb];W[ld];B[mb]C[MM: Black now alive.];W[kc]MA[kb][la][mb]
+[lc]C[But I did not really manage it.
+
+MM: No, but you did as well as possible in this situation. The biggest mistake is capturing those two stones -- they are not important.
+
+Black is alive once there are stones on each of the 1-2 and 2-3 points (marked). In fact, those 4 points constitute the smallest formation that is unconditionally alive.
+
+But, Black has only two points of territory, and is cut off from all the other black stones, so this is good for White. Now White seems to have a clear lead.]
+;B[bf]C[MM: A big move! Too bad White didn't go there instead of capturing two stones.]
+;W[kd]C[MM: Only one stone. You have much bigger plays available. Don't be afraid to give up a few unimportant stones.]
+;B[hl]C[MM: Ouch! Black got two big moves in a row. White's lead is disappearing quickly. Contrast the value of Black's last two moves with the 6 points gained by White's last two moves.]
+;W[gl]MA[hk]C[MM: This looks good at first, but H3 may work better. Even though Black connects along the bottom, H3 will stop Black from reducing White's center.]
+;B[hj]MA[if][jf]C[MM: This is horrible for White. If Black rescues those two stones at J8, White might as well resign.]
+;W[hk];B[ik];W[gk];B[ij];W[fb];B[gc];W[gb];B[hf]MA[ed]C[MM: Not Black's strongest follow-up. Black should play something like E10 first.]
+;W[db];B[cb]
+(;W[ec]C[MM: I'm don't think White can afford this. Better to play solidly at E10, and give up a stone.]
+;B[ed];W[eb];B[ee];W[df]MA[dd][hf][if][jf]C[MM: Not necessary yet, and forces Black to connect at D10. Better to make sure you capture the three Black stones, or else White's center territory will come to nothing.]
+;B[dd];W[fe];B[ef];W[ff];B[cg];W[eg];B[fg]
+(;W[gg]MA[cf][de][df][dg][eg][fh]C[MM: This is no good. After Black extends to F6, there's no way to save the 5 stones on the left. But White doesn't seem to have anything else that works, either.]
+;B[fh];W[eh]MA[ei]C[MM: Not safe. Black can capture with E5. But White probably has to give these up anyway, in order to save some center territory.]
+;B[gh];W[hi]
+(;B[gj]C[MM: A blunder by Black. J5 would be better.];W[gi]
+;B[hh]MA[ei]C[MM: This should be E5 instead.  White got lucky.]
+
+(;W[fi]TR[eh][eg][dg][df][de][cf]C[To save the marked group.
+
+MM: Later you mention having this at E5 instead, but this F5 works better.]
+;B[di];W[ei]C[Still necessary for saving it.
+Maybe it had been better to do this directly instead of the former move.
+
+MM: No, because then Black at J5 would save 7 black stones and leave White with nothing.]
+;B[hm]
+(;W[ii];B[il];W[ih];B[el];W[gm];B[da]
+(;W[ea]C[MM: You have bigger endgame moves you can play to keep sente.]
+;B[ca];W[mk];B[ml];W[lj];B[lk];W[mj]MA[md]C[MM: Just two points, and gote too. Play N10 first.]
+;B[fl]MA[ki]C[MM: Black should first gain one point in sente with the atari at L5, then come back for this.]
+;W[fm];B[md]C[MM: Black plays gote. Good for White.];W[me];B[mc]
+;W[ia]C[MM: This is sente, but not really a point. The score is the same whether White plays J13 first or Black plays L13 first. So, it is less important than White N10 would have been. Maybe it's better to leave this for ko threat if necessary.]
+;B[ka];W[em]MA[be][bg]C[MM: Good.
+
+The cuts at B9 and B7 look interesting, but as far as I can tell, they ultimately don't change the score.]
+;B[dm];W[dj];B[cl];W[dh];B[ci];W[ki];C[The endgame I found trivial
+
+The game is over.  Final score:
+   White = 29 territory + 15 captures + 5.5 komi = 49.5
+   Black = 37 territory + 0 captures = 37
+White wins by 12.5.
+
+MM: Thanks for the chance to review such an interesting game.
+
+Your opening was unusual and interesting. In the middle game, you missed some chances to make your territory larger and safe, and by move 80, I was sure you had lost. But you persisted, and when GnuGo made some mistakes, you made a good recovery. Your endgame could have been a little more precise, but was OK.
+
+I don't know if you play humans much. If you don't, I think you should try it. You are strong enough now to enjoy competition in the double-digit kyu ranks, and live opponents are always available on the Internet.
+
+For improvement, I would suggest simply playing more, and studying life and death of course. More specifically, practice giving up sacrifice stones to gain tactical or strategic advantage. On a related note -- do not rescue small groups of stones unless they serve an important function, like separating they opponent's groups. Similarly, don't capture small groups of stones until the endgame -- unless you need to capture so you can connect or live.
+
+Best wishes,  - Mike Malveaux, 2002-04-26])
+(;W[md]C[MM: 'Play forcing moves first.'];B[mc]C[MM: Now take the smaller endgame points.]
+))
+(;W[il]C[MM: This is a variation you started... let's see where it goes.]
+;B[im];W[km]C[MM: Now that Black has missed several chances, this is promising.]
+
+(;B[jm];W[ii];B[lj];W[dm]C[MM: Black can live, but loses a lot in the process.]
+)
+(;B[kl]C[MM: This is no good for Black, because now White can kill the whole corner.]
+;W[mk]
+(;B[lj];W[mj];B[ml];W[lm]C[MM: Black is dead.])
+(;B[ml];W[lm];B[mj];W[lj]))
+(;B[lj];W[ii];B[jm];W[gm];B[lm]C[MM: Maybe Black can live, but at a high price.]
+;W[dm])))
+(;W[ei];B[ii]C[MM: Now Black would live and White would die.]
+))
+(;B[ii]
+(;W[ih];B[hh];W[gi];B[ei];W[hg];B[dh]MA[ej][fj][fk][gk][gl]
+[hk][gi][hi]C[MM: Black takes the whole left and bottom.])
+(;W[fi];B[hh]C[MM: White has no eyes, but Black is connected to a living corner.]
+)))
+(;W[fh];B[gg];W[eh]C[MM: The bamboo joint connection is strong. The problem now is to get enough space for eyes. The only safety is connecting to the Whites on the right. To connect, you must capture the Blacks in the center. The problem is that now it's Black's turn.]
+;B[hh]C[MM: A good time for White to resign, perhaps.]))
+(;W[ed]
+(;B[eb];W[ec];B[da])
+(;B[ec];W[eb];B[gd];W[ge];B[hc];W[he];B[hb];W[ha])))
+(;W[ld]
+(;B[kc]C[MM: If Black connects like this, White pokes out an eye with N12, and Black will die. Black has to give up the two stones at L9 and N10.]
+;W[mb]C[MM: I'm pretty sure this kills Black.]
+(;B[lb];W[mc]
+(;B[md];W[me];B[ma];W[mf];B[md];W[mc])
+(;B[ma];W[mf];B[md];W[mc];B[mb]C[MM: Black has only one eye. Black is dead.]
+))
+(;B[mc];W[lb];B[kb];W[ja]C[MM: Black dead.])
+(;B[md];W[mf];B[lb];W[mc];B[ma];W[mc];B[mb]C[MM: Black dead.]
+))
+(;B[mb]C[MM: Now Black has an eye at N13, and can get an eye at M12. So Black is alive, but has to let White capture two stones.]
+
+(;W[kc];B[kb];W[ja];B[mc]C[MM: Black lives. Note that White should not worry about the one stone in atari, but should use sente to take an important point somewhere else like J2 or the B7 area.]
+)
+(;W[kb]C[MM: This White attack fails.];B[kc];W[ja];B[ka];W[mc]
+;B[lb]C[MM: Black lives.]))))
+(;W[kc]C[MM: After White's sacrifice, Black has a couple of options: extend to the left, but then White can attack the right.. or defend the corner, but then White can attack the left.
+
+...I'm sorry for the large number of branching variations here. What are the best plays for White and Black? It's an interesting question, and I don't know the answer. Hopefully, the next GTL reviewer may know.
+
+For now, don't get bogged down in the details. The main idea I want to suggest is to think about sacrificing a few stones, as a tactic for building strength somewhere else or for keeping sente.
+
+myshkin: I agree with the last paragraph but IMHO the crosscut at L11 isn't a good option here. I think it's prematurate to call it a sacrifice. It's a fighting move. It separates Black but I think it's a problem that Black has interesting exits for both separated groups.]
+
+(;B[lc]C[MM: If Black takes the sacrifice...
+
+myshkin: This violates the proverb "if crosscut, extend". It's too easy on White.]
+;W[ic];B[jb]C[myshkin: Rather L12 to prevent White J12 in sente.]
+;W[ib];B[kb];W[cd]C[MM: ... Something like this is likely. The rest of this could be very different, but my basic idea is that by sacrificing a stone, White makes Black very strong in an area where Black was strong anyway -- so it doesn't really hurt White -- but in exchange White gets strength to attack somewhere else.
+
+myshkin: Again, I agree with the idea, but I'm not sure it'd work so well in this particular case.]
+;B[cc];W[bc];B[bb];W[bd];B[fb];W[ab];B[ba];W[gb];B[gc];W[hc]
+;B[gd];W[ed];B[ec];W[da];B[db];W[fa]C[MM: Bad for Black, good for White.]
+)
+(;B[ic]C[MM: If Black doesn't take the sacrifice...
+
+myshkin: I think this is Black's best choice. One reason being that it'd have been joseki for White to play there. :-)]
+;W[lc]
+(;B[jf]C[myshkin: L8 seems more severe (see var 2).];W[ie];B[kh]
+;W[le];B[lf];W[ld];B[kf];W[jb]C[MM: ... White should live in the corner. Black can chase the 3 stones, but they will connect to either the left or the bottom.
+
+myshkin: The variation makes sense to me so far, although Black's replies are a bit mild. Note that White finally gets the corner and Black a strong outside. Considering White's opening strategy, this outcome is disadvantageous as White's centre stones' prospects are much dimmer now. As Black, I'd continue with J12 - W L12, then G10 threatening the K9 White stones, hence probably sente, then L4. Black's only weakness would be C4, which he can easily take care of, and White couldn't make enough territory to match Black's.]
+;B[if]C[myshkin: This isn't a good move. It adds a stone to a group already very concentrated and helps White pull out his stones and threaten Black's J11 stones at the same time.]
+;W[he];B[ib];W[kb];B[gc];W[fd];B[fc];W[kj]C[MM: I think White is ahead.
+
+myshkin: Here Black allowed his right-side stones to be isolated because he wasn't forceful enough against the weak K9 stones. This musn't happen. He should have attacked them from the other side, so as to reinforce and connect his J11 stones, then he could have played L4 himself.]
+)
+(;B[kf]
+(;W[jb]C[myshkin: The best chance I can think of for White to live, but even so I'm afraid he can't get better than ko for life.]
+;B[ib];W[ka];B[ia];W[ld];B[le];W[lb];B[ja];W[ma];B[kb]C[myshkin: I believe this ko is the best White can get.]
+)
+(;W[ld];B[jb]C[myshkin: After this K12 White can't get two eyes in the corner so he's dead.]
+
+(;W[kb];B[le];W[la];B[mb])
+(;W[le];B[lf]
+(;W[kb];B[la];W[ka];B[me];W[md];B[mb];W[mf];B[lh])
+(;W[lb];B[la];W[ka];B[kb])
+(;W[la];B[kb];W[lb];B[me];W[md];B[mb];W[mf];B[lh])))))
+(;B[jb]C[MM: This may be Black's strongest answer, trying to both defend the corner and influence the top side.
+
+myshkin: This is interesting but I believe it's inferior to J11.]
+
+(;W[kf];B[lc];W[le];B[ld];W[if]C[MM: This feels like White's best way of dealing with the cutting point at K8. Much is still unsettled, but this seems good for White. Black's stones are bunched in the corner, and will be isolated from the rest of the right side -- though they will have influence on the top side. Meanwhile, White has gotten stronger in the center. This strength will help in fighting for the rest of the board.
+
+If I get the chance, I will consult a stronger player about this corner.
+
+myshkin: This outcome is similar to that of the L8 I suggested earlier, but with more advantages to Black (the corner is more thoroughly settled, Black has sente, Black has better yose). I believe White shouldn't start this joseki if he wants this side of the corner.]
+)
+(;W[lc]C[MM: If White now tries to live in the corner, the fighting can get very messy.
+
+myshkin: Even if White lived, he'd have a similar problem to that in variation 2: White didn't want the corner in the beginning. Moreover, I think White can't live after Black L8.]
+;B[kf];W[kb]C[myshkin: This move is bad shape. Black can safely kill White just by extending his two stones to H11 as M13 and N12 are miai (=if White plays either move, Black replies with the other) and White has no escape to the bottom. If White M10, Black M9 and White's shape is still inefficient.
+I can't see any good move for White.];B[ka];W[la];B[mb];W[ld]
+
+(;B[lb];W[le];B[lf];W[mc];B[me];W[ja];B[hb];W[ib];B[ic];W[hc]
+;B[ia];W[id];B[ka];W[ma];B[hd];W[gc]C[MM: The fighting can become intense. I think White wins, but I'm not sure.]
+)
+(;B[le];W[ib];B[ic];W[hb];B[hd];W[ja]C[MM: The fighting can be intense. I'm not sure who would be ahead here.]
+)))))
+(;W[kf];B[kd];W[jf];B[hc]))

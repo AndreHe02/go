@@ -1,0 +1,302 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.17]
+
+PB[adaptor]
+BR[4k]
+PW[oxgo]
+WR[4k]
+KM[6.5]
+DT[2010-03-30]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[B+7.5]
+TM[1500]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+C[oxgo [4k?\]: hello
+adaptor [4k\]: hi,];B[pp]C[Dear reviewer thanks for taking time to review my game. I am playing white.
+
+Zordon:
+Hi oxgo!
+Thank you for the interesting game. The review was a lot of fun. The game was full of difficult decisions and I had to think about some positions for a long time. I hope you can enjoy the review. Please let me know if you have any further questions!
+
+abstract:
+In the opening black made some mistakes and white got a good result. 
+Later black built a framework on the left side and white tried to reduce it by any means. doing that white became attackable. 
+However black did not start any attack but got under attack himself. While trying to kill blacks right group white somehow lost the view for the whole board and got seperated. 
+Now the weak groups white built to reduce blacks framework became a problem. White had several chances to win the game anyhow but in the end black could capture some stones and win the game.
+
+I think white played strong go in the beginning and lost because the late middle game was very confusing. If white had not been that afraid of blacks framework and had kept his groups together the game would have been easy for him.]
+;W[dd];B[dp];W[qd];B[oc]
+(;W[lc];B[oe]C[Zordon: This move is not Joseki. If white played the one-space pincer it would work, but now black has no good continuations. White answered quite well.]
+;W[pf];B[qb]C[Zordon: Black could not play any Joseki so he tried to set up a base.]
+;W[rc];B[pc]C[Zordon: This move is really slow and unnecessary. White can settle one side and blacks group is still not settled.]
+(;W[ic]
+(;B[of]TR[ic][lc]C[Zordon: This move is bad. White gets 4th line territory while blacks strength is annihilated by white marked stones.]
+;W[pg];B[qj]LB[og:A]C[Zordon: 
+This pincer is not troublesome for white anymore. I would recommend to play at A and attack Blacks group.]
+(;W[qh];B[qm];W[nh];B[le]
+(;W[cn];B[cj]
+(;W[cq];B[cp];W[dq];B[ep];W[bp];B[bo];W[bq];B[co];W[fq];B[cg]
+(;W[bd]LB[fc:A]C[Zordon: This move looks not good because Black can invade at A. Better extend to the right (see variation). However White could use an early invasion to attack blacks top right group.]
+;B[dc];W[ec];B[ed]
+(;W[cc];B[fc];W[db];B[fd];W[ie];B[de]
+(;W[ce]C[I am not so sure about this move. It looks a little like aji-keshi.]
+;B[df];W[ff];B[eg];W[ig];B[hf];W[if];B[go]
+(;W[nb];B[ob];W[nc];B[rb];W[sb];B[pa];W[pd]C[Zordon: I think this is exchange is no use.]
+;B[od]C[At this point, I was wondering to play S19 to make the Q17 group running but I wanted to do it later and first I tried to reduce black framework on the left.
+
+Zordon: 
+You can either try to attack the group now and make some profit like reducing blacks left side, or you try to get some stones in the center first and then kill the group. It is not easy to kill the group however and you have to be careful if you attack hard.
+
+Also Don't forget that you did not answer G5 yet. normally one would play G3 as an answer.  Because of that your next move might be an overplay.]
+(;W[bn];B[an];W[em]LB[en:A][fp:B]C[Zordon:
+Normally A is the key point because it threatens to cut at B.]
+;B[dn];W[dm];B[cm];W[cl];B[bm];W[dk]
+(;B[bl];W[dj];B[ci];W[hm]C[I was quite satisfied with this result
+
+Zordon: Black played very submissive so the result looks okay. The group is pretty heavy though and the black group is really solid.
+
+Instead F13 is a good way to reduce the left side and G3 is the move of choice in my opinion.]
+;B[lg];W[li];B[ra]C[It seems as if I had M11 for free. But now that the Q17 group is alive I have no more forcing move...
+
+So was the decision to postpone the S19 play a good one or not ?
+
+Zordon: 
+I would have attacked it directly. The outside influence would have made it easier to reduce the left side. Anyhow you did not only get M11, you also got sente though it was blacks turn.]
+;W[ee]TR[qa][pb][ah][bh][ai][bi][aj][bj][ak][bk][rk][sk][al]
+[rl][sl][am][rm][sm][bn][cn][rn][sn][do][ro][so][rp][sp][qq]
+[rq][sq][qr][rr][sr][qs][rs][ss]SQ[aa][ba][ca][da][ja][ka][la]
+[ab][bb][cb][jb][kb][ac][bc][dc][ad][cd][sd][re][se][qf][rf]
+[sf][qg][rg][sg][aq][ar][br][cr][dr][as][bs][cs][ds][es]C[I think that this is a turning point for the game.
+
+I have read that e15 cannot be taken but I think I missed the fact that it gives black to many forcing moves.
+
+But I must confess that I was quite out of good ideas. Perhaps I should have played around O3.
+
+What I would like to know here is what would be your strategy ? Do you think that the game is from now on only a teritory contest or is there some group to attack ? What could white aim at ?
+
+Zordon: 
+First off e15 is a mistake (see later).
+If you need to decide your strategy its helpful to count territory and estimate influence. I am not very good at counting but I would say:
+Black left: 17  white top left: 13
+Black top right: 2 white top :5
+Black bottom right: 21 white bottom left: 10
+  white top right: 9
+black: 40  white 37 + 6.5
+
+White has a heavy group in the center and little prospects at the bottom whereas black could make some additional points at the bottom. After the fight around e15 white should do something about the bottom. Its the only interesting area right now. I would simply play G3. it looks a little slow but it also helps the group in the center. And I think that group is likely to come under attack some time.]
+;B[fe];W[ef]
+(;B[fg];W[gf];B[gg];W[ge];B[he];W[gd];B[hd];W[gc];B[hc]
+(;W[gb];B[hb];W[fb];B[id];W[jd];B[je];W[kd];B[hg];W[ke];B[jf]
+;W[kf];B[jg];W[kg];B[ih];W[ji]C[I wanted to help my E7 group which is quite uncomfortable right now !
+
+Zordon: Indeed. That is why it shouldn't be there in the first place. The game looks rather difficult for white now.]
+;B[jq]C[Zordon: black plays too soft here. Cutting off the central group is the best thing to do now. White needs to find a good way to connect the group.]
+(;W[pq];B[qq];W[op];B[pr];W[po];B[oq];W[qo]TR[qj][qm]C[Zordon: Attacking the marked stones is a very good idea.]
+;B[oo]
+(;W[pn]C[Zordon: why not atari at P6?];B[np];W[rl]C[Zordon: This is a little much. Confining the stones before attacking them is usually a good idea.]
+;B[ql];W[rk];B[qk];W[om];B[rn];W[ro];B[rj]
+(;W[ri]
+(;B[sj]C[Zordon: Its only one eye and you should play on the outside now. If you keep attacking like this black can start an attack against the weak Q6 group.]
+(;W[sn];B[sm];W[qn];B[so];W[rp];B[nl]C[Zordon:
+With this white lost the control over the game. The following moves (blacks as well as whites) seem a little confused. The priority must be to safe all groups, not to kill black by any means.]
+;W[ol];B[ok];W[nm];B[oh]
+(;W[og]C[Zordon:
+Think about whats really important. the left group is already alive. You need to save the group in the bottom right, the top group and the group on the left. It sounds like much to do but it can be done. Trying to kill blacks right group however is a little much right now.]
+;B[ng];W[oi];B[ni];W[nj];B[nk]
+(;W[lm];B[mh];W[oj];B[qi];W[rh];B[pi];W[ph];B[mj];W[nh];B[mi]
+;W[oh];B[pk]C[Directly cutting at N9 is impossible I guess ?
+
+Zordon: Yes, impossible. By now it is almost impossible to safe all groups. You can try to peep the cutting point in order to connect some groups]
+(;W[mo];B[lk];W[lq]C[Zordon:
+you reduced blacks points at the bottom but all groups got seperated. That is the worst thing that could have happened.]
+;B[hq];W[fr];B[kh];W[lf];B[ib];W[lh]
+(;B[ki];W[mg];B[nf];W[lj];B[mk];W[kj];B[jh];W[kl]C[I was really lucky to be able to cut black group...
+
+Zordon:
+indeed];B[re];W[rf];B[qe];W[pe];B[si];W[qf];B[mm]
+(;W[mn];B[ll];W[km];B[nn]
+(;W[ml];B[on];W[pm];B[mm];W[no];B[op];W[ml];B[rd];W[qc];B[mm]
+;W[rm];B[sk]
+(;W[ml];B[sl]TR[mm]C[Zordon:
+too bad black fixed the weakness. now you should also take the ko to safe your groups]
+;W[rl]C[Zordon:
+This is too greedy.];B[mm];W[rm];B[sn];W[ml];B[rq];W[sp];B[mm]
+;W[na];B[oa];W[ml];B[mf]
+(;W[lg];B[mm];W[pj];B[ml];W[kk];B[sq];W[sh];B[qp];W[gj];B[lp]
+;W[mp];B[mq];W[kp];B[lr];W[kq];B[kr];W[jp];B[iq];W[io];B[ii]
+;W[ij];B[jj]
+(;W[jk];B[hj];W[hk];B[ik];W[il];B[ij]
+(;W[gk];B[jc];W[bf];B[bg];W[ag];B[ah];W[af]
+(;B[bi];W[cf];B[dg];W[ck];B[bk];W[kb];B[jb]
+(;W[gn];B[kc]
+(;W[ld];B[lb];W[mb];B[ka];W[fo];B[fp];W[gp];B[fn];W[ho];B[en]
+;W[fm];B[gr];W[gq];B[hr];W[eq];B[di];W[ei];B[eh];W[fi];B[me]
+;W[nd];B[md];W[mc];B[sa];W[sc];B[ap];W[aq];B[eo];W[ha];B[ia]
+;W[ga];B[fs];W[es];B[gs]
+(;W[go];B[gh];W[gi];B[hi]
+(;W[ma];B[la];W[ip];B[jr]C[Zordon: black does not need this one.]
+;W[tt];B[ao];W[tt]TW[aa][ba][ca][da][ea][fa][ab][bb][cb][eb]
+[ac][bc][dc][fc][ad][cd][ed][fd][ae][be][fe][ej][fj][ek][fk]
+[dl][el][fl][gl][hl][gm][ar][br][cr][dr][er][as][bs][cs][ds]
+TB[ja][qa][kb][pb][ic][ie][if][ig][bh][ch][dh][hh][ai][ji][aj]
+[bj][ak][al][am][bn][cn][do][nq][pq][ir][mr][nr][or][qr][rr]
+[sr][hs][is][js][ks][ls][ms][ns][os][ps][qs][rs][ss];B[tt]TW[aa]
+[ba][ca][da][ea][fa][ab][bb][cb][eb][ac][bc][dc][fc][ad][cd]
+[ed][fd][rd][sd][ae][be][fe][qe][re][se][sf][qg][rg][sg][ej]
+[fj][ek][fk][dl][el][fl][gl][hl][jl][gm][im][jm][hn][in][jn]
+[kn][ln][jo][ko][lo][lp][ar][br][cr][dr][er][as][bs][cs][ds]
+TB[ja][qa][kb][pb][ic][ie][if][ig][bh][ch][dh][hh][ai][ji][aj]
+[bj][ak][rk][al][ol][pl][rl][am][nm][om][pm][rm][bn][cn][pn]
+[qn][do][po][qo][ro][rp][sp][nq][pq][ir][mr][nr][or][qr][rr]
+[sr][hs][is][js][ks][ls][ms][ns][os][ps][qs][rs][ss]C[oxgo [4k?\]: thanks
+adaptor [4k\]: thx
+oxgo [4k?\]: it was fun...
+adaptor [4k\]: oh, enjoyed])
+(;W[la]C[Zordon: if you have enough ko threat to win this one, it is one point more. But there is another ko on the board anyway...]
+))
+(;W[gh]C[Zordon: there are 2 ko's anyway so its no points to play G5. I lost so many games due to small mistakes like this in the endgame. So my advice for you is to play concentrated to the end :)]
+))
+(;W[me];B[lb];W[mb]C[Zordon: This is 2 points better.]))
+(;W[me]C[Zordon:
+This is very big,]))
+(;B[ck]C[Zordon: this is the better defense. therefore A13 was not good and C9 would have been better.]
+;W[bh];B[ai];W[bi];B[aj];W[bj];B[ak]))
+(;W[gi]C[Zordon:
+White gave away some points here again.]))
+(;W[ik]C[Zordon:
+This is better. Do not underestimate the endgame. This is around 5 points better for white than the game.]
+))
+(;W[mm]C[Since I have no more threads for the N7 ko, may be this was better ?]
+;B[lg];W[me]
+(;B[mg];W[md]C[perhaps I could have saved the Q7 stones ?
+
+Zordon: see variations.])
+(;B[md];W[mg];B[kk];W[jk];B[lg]
+(;W[ld];B[jj];W[nd]C[Zordon: Since you have no ko threats you must consider this. Now your hole center group is in serious trouble.]
+)
+(;W[jj];B[mg]C[Zordon: the top group is dead]))
+(;B[kk]C[Zordon: black could also just push through.];W[jj]
+;B[jk];W[ik];B[mg];W[md];B[ij]C[Zordon: Again the center group is in trouble]
+)))
+(;W[sn]C[I think I should have taken this ko, right ?
+
+Zordon:
+yes! Black cannot afford to lose this ko!]
+(;B[ml];W[sl])
+(;B[sl];W[rn];B[ml];W[rq];B[rr]C[Zordon:
+white can even stay away now.])))
+(;W[rm]C[Zordon:
+you should play here directly. This ko is the really important one just like you note later.]
+))
+(;W[nn]
+(;B[mn];W[ln];B[ml];W[no];B[lo];W[ko];B[lp];W[mp];B[kp];W[nq]
+C[Is this better?
+
+Zordon: sure this is much better. Black could play differently though. See variation]
+)
+(;B[kk];W[jk];B[ln];W[mn];B[km];W[ml];B[ll];W[mm];B[jl])))
+(;B[mg];W[jh];B[ij]C[Zordon:
+This looks pretty bad for white. The top group is almost dead and the bottom right and center group don't look very alive either.]
+))
+(;W[lk];B[mk];W[kn]C[Zordon: it is still difficult but maybe possible to safe everything.]
+))
+(;W[mi];B[mm]C[I feared this]))
+(;W[ml];B[nk];W[lm]C[Zordon:
+Now everything looks more or less connected.]))
+(;W[ok]))
+(;B[sk]C[Zordon: now they would be lost. its still only one eye though :)]
+))
+(;W[rm]C[Zordon: this way you can connect your stones.]))
+(;W[on];B[no];W[pm];B[ql];W[ok];B[rn];W[ro];B[ri];W[rh];B[oj]
+;W[nk];B[rk];W[mn];B[lo];W[ln];B[ko];W[jm]C[Zordon:
+This looks good for white, doesn't it?]))
+(;W[qq];B[pq];W[qp];B[qo];W[ro];B[rn];W[po];B[qn];W[pr];B[or]
+;W[qr];B[nq];W[rp];B[oo];W[gq]TR[aa][ba][ca][da][ea][fa][ab]
+[bb][cb][eb][ac][bc][dc][fc][ad][cd][ed][fd][sd][ae][be][fe]
+[re][se][qf][rf][sf][qg][rg][sg][sp][rq][sq][ar][br][cr][dr]
+[fr][rr][sr][as][bs][cs][ds][es][fs][qs][rs][ss]SQ[qa][pb][ie]
+[if][ig][ah][bh][ai][bi][aj][bj][ak][bk][rk][sk][al][rl][sl]
+[am][rm][sm][bn][cn][on][pn][po][op][oq][kr][lr][mr][nr][ks]
+[ls][ms][ns]C[Zordon:
+White: 9+8+11+21+6.5+5=60.5
+Black: 2+6+14+15+5 = 42
+
+Why not play like this? Black would have to make quite some points in the center.]
+))
+(;W[fb]C[I think it would have been better to take. Is it correct?
+
+Zordon: yes! this would have saved you a lot of trouble.]
+(;B[hb];W[hg];B[id];W[jd];B[jc];W[kc];B[ib];W[ke];B[kb])
+(;B[hg];W[hb];B[id];W[jc];B[jd]C[Zordon:
+black would probably play like this, but its still better than the game.]
+)))
+(;B[gg]C[Zordon:
+ I think you both missed that e15 can indeed easily be taken :P Black played the peep at H14 because of this and then either forgot about it or chased the three stones on purpose so that he can attack the top and center group.]
+))
+(;B[gm]C[Zordon:
+white gets seroiusly into trouble now.];W[fk];B[hk]
+(;W[ei];B[bl];W[gi];B[gq]C[Zordon: 
+white loses control over a huge area of the board.])
+(;W[fi];B[gj];W[fj];B[gh];W[gi];B[hi];W[fh];B[fg]C[Zordon: You cannot escape easily.]
+)))
+(;W[ra]C[Zordon: what would happen if you attacked directly?]
+;B[lg];W[lh]
+(;B[kh];W[li];B[kg];W[ii];B[ki];W[ik];B[lj]C[Zordon: Now it is easy to reduce blacks left side.]
+)
+(;B[ng];W[mg];B[mf];W[mh];B[kg];W[kh];B[jg];W[jh];B[ke]C[Zordon: This would be a good result for white. Again its easy to reduce the left side now.]
+)
+(;B[mg];W[mh];B[md]C[Zordon: this might be the best way for black. White still gains some strength on the outside though.]
+))
+(;W[ii]C[Zordon if you get a stone around here you can try an attack.]
+;B[gi];W[ra];B[lg]C[Zordon: it is not easy to confine and kill this group.]
+;W[li];B[ng]C[Zordon: you need to destroy that possible eye first]
+;W[mf];B[mg];W[me];B[md]
+(;W[ld]C[Zordon: here you need to be careful (see variation)]
+;B[ne];W[nd];B[oh]C[Zordon: black can also try to escape here]
+;W[ni];B[og];W[oi];B[ph];W[pi]C[Zordon: Again you need to be careful not to get killed yourself.]
+;B[rh];W[rg];B[qi];W[qg];B[si];W[re]C[Zordon: Now it would be dead, but there is probably some way for black to prevent this. This is not really something one can read out. At least I can't do that :)]
+)
+(;W[nd];B[ld];W[ne];B[kh];W[ki];B[jd];W[id];B[kc]C[Zordon: you can get captured yourself]
+))
+(;W[gq];B[fi];W[nq]LB[gm:A]TR[cn]C[Zordon:
+If black defends the left side after G3 you can play the big move O3. At A there is still a possibility to reduce the left side since there is still aji with the marked stone]
+)
+(;W[gg];B[fg];W[gf];B[ee];W[gi]C[Zordon:
+If you want to reduce blacks left size this would be my idea. However I believe the bottom is far more interesting right now. G3 is a really big move! If black invests another move to secure his left side you can take control over the bottom.]
+))
+(;W[mb]C[Zordon: I like this attack better, as it is sente. Still its not so easy to kill the group. It should be possible to confine it in sente though.]
+)
+(;W[gq]C[Zordon:
+I would answer calmly here.]))
+(;W[fb];B[gb];W[df]C[Zordon:
+go go tesuji!];B[ce];W[ee]C[Zordon: 
+You might want to try out something like this.]))
+(;W[fc];B[cd];W[de];B[ce];W[cc];B[bc];W[db];B[be]C[Zordon: What do you think of this variation? White loses some points in the corner but the top side looks much better.]
+;W[dg];B[dh];W[lg];B[je];W[jg];B[he];W[hg]C[Zordon: With this white could attack black again and maybe cut off some stones while gaining influence in the center.]
+))
+(;W[fd];B[bd]LB[eg:A]C[Zordon: White does not need to be afraid of this move. White can simply answer it or even stay away. I would answer it at A which is also an attack on the top right group.]
+;W[eg];B[cc];W[lg];B[je];W[jg];B[he];W[id];B[ie];W[hg];B[mb]
+;W[mc];B[nb];W[me]C[Zordon: this is just one idea I had. It does not mean Black has no other choice here]
+))
+(;W[en];B[fq];W[ch];B[ej];W[gn]C[Zordon: I would consider this and try to set up a big fight in the center because blacks group on the top right can still be attacked.]
+)
+(;W[fq];B[fp];W[gp];B[fo];W[eq];B[dq];W[jq];B[co];W[ch];B[ej]
+;W[ie];B[lg]C[Zordon: you could also play like this. The stone at C6 still has aji. I would probably protect the top left corner next.]
+))
+(;W[ie];B[lg];W[dj]C[Zordon: Just a rough idea on how to use the weak Black group to get some profit.]
+))
+(;W[og];B[ng];W[nh];B[mg];W[oi];B[me];W[pm]TR[qj]C[Zordon: I think the marked stone is an overplay.]
+))
+(;B[ph]C[Zordon: black can also try a counterattack.];W[of]
+;B[nf];W[ng];B[mf];W[oh];B[pj]C[Zordon: You can compare this situation to the Joseki I showed you before. White is favourable.]
+;AW[mc]AB[md]AE[ic][pc]LB[pb:A][ic:B][mc:D][md:C]C[Zordon: 
+Clearly the exchange of Black A for White B is bad for black. Also the missing exchange C/D leaves a cutting point in Blacks position.]
+))
+(;W[qi]TR[qb][oc][pc][oe]C[Zordon: You can also take this extension. Black cannot attack the M17 stone because his group is weak and whites group on the right is quite settled.]
+;B[jc];W[le];B[of];W[pg];B[nh];W[hc];B[je];W[mf];B[og];W[lh]
+C[Zordon: This is only one way, but black has two groups to worry about while white has only one so white should be able to get something out of this.]
+))
+(;W[mc];B[oe];W[pf]LB[ld:A][ph:B]C[Zordon: If white played this pincer black can continue now with either A or B. With the distant pincer both ways don't work for black.]
+;B[ph];W[of];B[md];W[lc];B[nf];W[ng];B[mf];W[oh];B[pj]C[Zordon: I will compare a situation later on with this Joseki position.]
+))

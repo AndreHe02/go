@@ -1,0 +1,74 @@
+(;FF[4]GM[1]SZ[19]AP[SGFC:1.15]
+
+PB[toma700]
+BR[30k]
+PW[ANDY]
+WR[22k?]
+KM[0.5]
+DT[2005-08-30]
+PC[IGS-PandaNet]
+RE[B+15.5]
+TM[600]
+
+;B[pd];W[dd];B[qp];W[pe]C[How was the opening ?
+
+Take the empty corner first.
+To attack a 4-4 stone is not easy. You can easily make alive by R17, or escape to the center. So take the empty corner is more important.]
+;B[nc];W[qg];B[qe];W[pf];B[od]TR[qc]C[Is there a better way to defend this approach ?
+
+Yeah, R17 is still good. Or you can see the variation in next move.]
+;W[qd]
+(;B[rd];W[qc];B[rc];W[re];B[qb];W[qf];B[nf];W[rb];B[sb];W[pb]
+;B[ra];W[sd];B[sc];W[se];B[qa];W[oe];B[ne];W[of];B[nh];W[qo]
+;B[oq];W[pp];B[pq];W[qq];B[rp];W[qr];B[ro];W[rn];B[po];W[op]
+;B[qn];W[oo];B[pn];W[rq];B[sn];W[rm];B[qm];W[sm];B[rl];W[so]
+;B[sl];W[sp];B[sn];W[sq];B[nq];W[rm];B[rn];W[sk];B[sm];W[rk]
+;B[ql];W[qk];B[on];W[nn];B[no];W[mo];B[np];W[pm];B[op];W[mn]
+;B[mp];W[om];B[nm];W[ol];B[mm];W[lm]C[Should I have gone to N8 instead ?
+
+It depends on what you want. If you tried to escape, take N8 instead N7. Or see the variation.]
+
+(;B[mk];W[ml];B[nk];W[nl];B[ok];W[pk];B[oj];W[pl];B[pj];W[lo]
+;B[lp];W[kn];B[ll];W[lk];B[kl];W[kk];B[jl];W[jk];B[il];W[ik]
+;B[hl];W[ni];B[oi];W[oh];B[ng];W[ph];B[mi];W[pi];B[og];W[qj]
+;B[nj];W[md];B[nd];W[mc];B[nb];W[pc];B[oa];W[pa];B[ob];W[mj]
+;B[lj];W[kj];B[li];W[ki];B[lh];W[km];B[ko];W[kp];B[jo];W[jn]
+;B[io];W[jp];B[ho];W[ip];B[hq]C[Would it be better if I've stretch here (H4) instead of playing H3?
+
+H3 is good enough. See the variation.]
+(;W[in];B[hn];W[hm];B[gm];W[im];B[gl];W[gn];B[go];W[fn];B[fo]
+;W[eo];B[en];W[em];B[fm];W[dn];B[fn];W[gp];B[dm];W[hp];B[el]
+;W[fp];B[do];W[ep];B[cn];W[dp];B[co];W[cp];B[bp];W[bq];B[bo]
+;W[aq];B[ap];W[cq];B[fr];W[gr];B[pr];W[ps]C[My attack on the bottom seemed useless .. any suggestions on how to attack better?
+
+At move 149 you played at D7 to eat only 1 stone. Take H4 instead of D7, you should get more.
+F4 is important, too. It's possible to attack white if you take F4.]
+;B[os];W[qs];B[rs];W[rr];B[sr];W[lq];B[kq];W[lr];B[kr];W[ls]
+;B[ks];W[jq];B[mq];W[jr];B[mr];W[js];B[kr]TR[gc][cc][cf]MA[af]
+[bf][cg][ch][ci][dj][dk]C[This move is useless. Try to attack D16 is better.
+For example, C14 can make territory and attack white, G17 or F17 to attack D16, or C17 to get the corner.]
+;W[kq];B[ms];W[gq];B[gs];W[hs];B[jh];W[ji];B[ih];W[ii];B[hh]
+;W[hi];B[gi];W[gj];B[fj];W[fi];B[gh];W[ej];B[fk];W[ei];B[gk]
+;W[ij];B[hj];W[hk];B[gj];W[me];B[lg];W[lf];B[kh];W[mf];B[jj]
+C[Since white's group have no possibility to make alive, you don't need to play this move. Take other place.]
+;W[kf];B[fe];W[ff];B[he];W[ge];B[gf];W[gd];B[fg];W[ef];B[gg]
+;W[ee];B[fd]C[My attack on the upper left is snuffed out again .. how should I attack to gain more territory?
+
+See move 185 please.];W[fc];B[hd];W[ed];B[hc];W[hb];B[gb]TR[ib]
+C[J18 would be better. Though you lost H18, you get the group in the upper center.]
+;W[ib];B[ic];W[jb];B[lb];W[kb];B[lc];W[mb];B[ma];W[kc];B[kd]
+;W[ld];B[ka];W[la];B[ja];W[na];B[ga];W[ia];B[gc];W[jd];B[jc]
+;W[ke];B[eb];W[fb];B[fa];W[ec];B[db];W[dc];B[cb];W[cc];B[bb]
+;W[bc];B[ab];W[ac];B[ea];W[fh];B[eg];W[dg];B[eh];W[dh];B[di]
+;W[dj];B[ci];W[ch];B[cj];W[bi];B[dk];W[ck];B[ek];W[bj];B[bk]
+;W[cl];B[bl];W[ak];B[cm];W[al];B[dl];W[aj];B[cl];W[am]C[ANDY: Hi]
+;B[cf];W[cg];B[bf];W[bg];B[ah];W[ag];B[ce];W[be];B[bd];W[ae]
+;B[df];W[cd]C[toma700: hi
+toma700: where are u from ?];B[tt];W[pg];B[lk];W[jm];B[ma];W[oc]
+;B[qe];W[qd];B[qc];W[qe];B[pb])
+(;W[hp];B[gp];W[iq];B[gq];W[ir];B[lr]C[White can not make 2 eyes here. White dead.]
+))
+(;B[lo];W[ln];B[ko];W[ml];B[dp]C[Black takes advantage in the down side.]
+))
+(;B[qc];W[rd];B[rc];W[re]C[Black lost R15 but get a lot in the corner. This way is also good, too.]
+))

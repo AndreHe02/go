@@ -1,0 +1,111 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+PB[adamworth]
+BR[8k]
+PW[dispositio]
+WR[8k]
+KM[6.5]
+DT[2008-10-18]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[B+Resign]
+TM[1800]
+RU[Japanese]
+
+C[Dear Reviewer, thanks for looking at this game. I am currently 8k on KGS and play against another 8k. I count this game as a loss. I win at the end because my opponent makes a mistake, but I would have lost by about 6.5 points had he not. I am having consistent trouble in my games building decent moyos. I often find I have many desperate small groups. Please help me figure out if my approach is flawed somehow.
+
+Thanks again!
+
+****
+I'll mark my comments like this.  The lower right is likely the area where the game broke down.  First, the attack on the white stones were relaxed and white eventually took the upper hand.  This was helped by the extension along the bottom.  Other than that and one mistake in the upper right, the game looked reasonable to me.]
+;B[pd]C[dispositio [8k\]: hi
+dispositio [8k\]: ,gg];W[dc]C[adamworth [8k\]: hi
+adamworth [8k\]: gg];B[pq];W[dp];B[qk];W[ce];B[kc]TR[ic][jd]
+[jp][fq]C[Small chinese to the double wing? I read on Sensei's library afterwards that this is bad because my opponent could invade at R17 and cause inefficiency. Is this true in this case?
+
+****
+Your move seems fine to me.
+
+I looked up some variations using gobase and the 4 I found are marked with triangles. I am not strong enough to comment on the merits of each or to say why your move was not included.]
+;W[qf]C[****
+I've been told "never pincer an already pincered stone".  Take a look at a sample variation starting at black R15.  I think the outcome is better for black]
+
+(;B[qh];W[rd];B[qc];W[rc]C[****
+I wonder about black Q14 here.  If white gets enclosed, it's a big win.  Even if they get out, you're likely to have stronger groups that would allow you to avoid defending your groups later.]
+;B[rb];W[rg];B[rh];W[of];B[nd];W[qo];B[qp];W[po];B[np];W[qm]
+C[****
+Starting from this point, you have a lot of potential to torture those 3 white stones.  An early attack should be able to strengthen your bottom and lead to some nice territory.  I'm not sure if R8 is correct, but it is fine given white's response.  A further follow up around O6 should really put that whole area in your favor instead of white's]
+;B[rl];W[rm];B[qg];W[rf];B[pf]TR[mf][ck][cn][nn][fq]C[****
+This ends in gote.  Try to find another move. The triangles are some candidates (there's probably others too)]
+;W[pe];B[pg];W[oe];B[od];W[qd];B[qe]C[****
+R18 works is enough to guarantee white's life and it reduces your corner.  Because of this, R15 is a mistake.  I'd suggest R18 instead]
+;W[re];B[ng]C[This move is obviously bad in retrospect. I was playing way too quickly. I could have milked this attack for alot longer I think.]
+;W[qb];B[pc];W[sb];B[pb];W[ra];B[iq]C[****
+This feels like an unnatural distance from the right group.  The strength of the group implies that there are a number of later invasions.  I'd recommend staying a bit closer (K3 or L3) or to go much further away (F3).]
+;W[pp];B[qq];W[ql];B[rk];W[nm];B[ro];W[rn];B[rp];W[gq];B[dk]
+C[Too early to think about the left? I guess I should secure the bottom first?
+
+****
+Reducing the left seems reasonable, this points to the potential problem with the choise of J3 earlier]
+;W[kq];B[io];W[ko];B[gp];W[fq];B[mn];W[km];B[on];W[pn];B[pm]
+;W[pl];B[om];W[ol];B[nn];W[ml];B[nk];W[nl];B[lk];W[ll];B[hd]
+TR[lk][nk][om][pm][mn][nn][on][io][gp][np][iq]C[****
+I don't think black has the time to make this move.  The bottom/right white group can easilly press the 3 black stones along the bottom.
+
+Overall, that area has turned out much worse that it should have.  white has lots of aji to push black around.  I've marked the stones that seem inefficient.  Beyond that, if you look earlier in the game, you'll see plenty of opportunity to pressure the right side and prevent this kind of negative result.]
+;W[fc];B[ch]C[****
+Play away from thickness.  I'd recommend C6 along the side since you then have aji to invade the corner.  It relieves your later pressure to settle.  It also starts to connect to your 3 weak stones on the bottom.  I'm still thinking that a move to pressure white such as J7 may be good to help resolve that bad aji.]
+;W[cn]C[What is a good response to this? I wasn't sure how to settle the left group.
+
+****
+I think playing away from the area is best. If there were no other big plays, C8 should stabilize the group.]
+;B[fd];W[gc];B[gd];W[bl];B[de];W[cf];B[df];W[cd];B[dd];W[ec]
+;B[dg];W[hi];B[jl];W[jm];B[kl];W[il];B[jj];W[mk];B[lj];W[lm]
+C[****
+Here, I would cut at H7.  Even if you still plan to sacrifice the bottom stones, you're likely to get additional profit as white tries to get the eyes that they need]
+;B[ik];W[hm];B[hl];W[im];B[gl];W[nf]
+(;B[mf]C[In retrospect, perhaps M14 is better?
+
+****
+Perhaps I tried to do what I thought would be the natural variation starting at M14It's a delicate balance with portecting your moyo and the bottom.  I believe you need to stop trying to block all paths and white will eat away at the O11 area.  You may need to also watch the safety of the right group.]
+;W[mg];B[og];W[me];B[lf];W[ne];B[lc]C[Is this the right move?
+
+****
+I like M16 instead, but it may be that the added stability helps the later fight]
+;W[le];B[kf];W[ke];B[je];W[jf];B[jg];W[if];B[mh];W[jd];B[ie]
+;W[id];B[he];W[kd];B[hg];W[mj];B[oj];W[li];B[lh];W[kj];B[ki]
+;W[kk];B[mi];W[jk];B[ij];W[gn];B[kp]C[****
+White should be able to kill.  I did a sample variation.  It doesn't look like an easy fight for white, but I think there's enough aji to pull it off]
+
+(;W[lp];B[jp];W[lo];B[lq];W[mq];B[lr];W[mp];B[nq];W[mr];B[kr]
+;W[hr];B[ir];W[ps];B[pr];W[ns];B[qs];W[os];B[rr];W[bj];B[hq]
+;W[gr];B[fp];W[eq];B[en];W[dj];B[cj];W[ck];B[ci]
+(;W[ed];B[ee];W[kg];B[lg];W[ig];B[kh];W[ih];B[ej];W[hf];B[gg]
+;W[dl];B[ek];W[gf];B[fe];W[hc];B[ff];W[nb];B[md];W[jc];B[kb]
+;W[jb];B[mb];W[el];B[cm];W[cl];B[fl];W[dm];B[cq]C[I know I'm losing and hope to get lucky here. This is bad play. Is there a better approach to the bottom left corner? (I know that M10 i
+s URGENT. I just didn't see it until the end of the game.)]
+;W[cp];B[bp];W[bo];B[aq];W[br];B[cr];W[dr];B[dq];W[cs];B[bq]
+;W[er];B[bf];W[bg];B[be];W[bd];B[cg];W[ae];B[bh];W[af];B[jq]
+;W[nj]C[adamworth [8k\]: hi?];B[ok]C[dispositio [8k\]: ?yeah hi]
+;W[ni];B[oi];W[pk];B[pj];W[sg];B[sh];W[ep];B[fn];W[eo];B[fo]
+;W[ho];B[in];W[hn];B[hp]C[****
+White had some interesting aji, but is short on liberties.  I played out the variation as if white wasn't short on liberties.  Probably instead of O2, white should have tried Q6?  Once that fails, they must play M10]
+
+(;W[nr];B[oq];W[pa];B[oa];W[qa];B[ob];W[nh];B[oh];W[so];B[sp]
+;W[sn];B[ja];W[ia];B[ka];W[ib];B[ah];W[ag];B[aj];W[ak];B[is]
+;W[hs];B[em];W[dn];B[bi];W[bk];B[sl];W[ms];B[lj];W[ls];B[ln]
+;W[jo];B[hk]C[adamworth [8k\]: gg
+dispositio [8k\]: thx
+adamworth [8k\]: thx for the game
+
+He resigns. I also probably play some useless moves in Yose. I've just overlooked weaknesses in groups before.
+
+Thanks again for the help!!])
+(;W[no];B[oo];W[op];B[mo];W[oq];B[nr];W[or]))
+(;W[ek];B[dl];W[el];B[ej];W[dm];B[di];W[fo]C[****
+White fails to invade, but makes life without needing M10.  Depending on how this plays out, it may even be life in sente]
+))
+(;W[jp];B[lp];W[jq];B[jo];W[lo];B[ip];W[lq];B[mp];W[ir];B[hr]
+;W[jr];B[hq];W[nr]))
+(;B[lf];W[me];B[ke];W[ld];B[lc];W[mc];B[md];W[le];B[mb];W[mf]
+;B[kf]))
+(;B[qe];W[pf];B[nd];W[qi];B[qn]))

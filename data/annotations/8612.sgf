@@ -1,0 +1,135 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.17]
+
+PB[Kungfu]
+BR[13k]
+PW[haruspex]
+WR[12k]
+KM[0.5]
+DT[2011-12-17]
+PC[IGS-PandaNet]
+RE[B+14.5]
+RU[Japanese]
+US[max]
+
+C[Hello.
+
+I do not have any specific questions, only the overly general "What did I do wrong?". I considered the opening — up to approximately move 36 — to be fine enough, but by the middle of the game (perhaps the two points of realization were around the move 90 and the move 145) I saw that I was losing and that the opponent wasn't going to make a large enough mistake. So the rest I played out of inertia.
+
+Thanks in advance.
+
+*Kungfu*: Hi!
+
+[[jts - I'm assuming I'm reviewing for White.\]\]
+
+[[jts - Okay, so. I think your biggest problem is judgment about which areas of the board are potentially worth how many points. This shows up at various points. You say that at 90 and 145 you felt hopeless. In fact, at 90 you were well ahead, if anyone was; at 145, the game was neck and neck, and you had the initiative. At 30, you failed to see the need to attack B6, and you failed to see the significance of your position on the right side for joseki choice in the top right (luckily, so did your opponent). Starting at 60 you start attacking B6, but you fail to see your potential for making territory on the bottom while you attack. Subsequently, you heavily emphasized the upper-center after B had already protected there, instead of the corners and sides where there was still a lot of territory to be hashed out. At the bitter end, you elected to jump into B's corners, far too late, in a way that only did damage to your own position by setting up a hopeless ko. -- To sum up, if you had understood who had how many point, and where on the board points were likely to be made, you would have won the game handily.  -- Hard to say how you could improve at this. The first thing I would check is how long you spent thinking about the critical moves, but you stripped out the time data. Experience works, practicing your counting works, getting your games reviewed works. ------- Tactically speaking you could probably improve, but you look fairly good. You made a number of small tactical errors in different sequences that cost you about ~5-10 points at a time, but he did too, and in the hugely important sequence starting at 40 you played flawlessly. ---- Feel free to email me with any other questions you have.\]\]]
+;B[pd]C[haruspex: hello]
+(;W[pq]LB[qo:A]C[*Kungfu*: Have a good game.
+
+[[jts - questionable move: allows B to extend from his corner and approach W's 3-4 at the same time with a move at "A". See variation.\]\]]
+;B[cd];W[cp];B[po];W[qo];B[qn];W[qp]
+(;B[pp]C[*Kungfu*: Have a good game.
+*Kungfu*: Hello?
+*Kungfu*: R u playing?
+
+[[No good for Black. See variation.\]\]]
+(;W[pn]C[[[Not sure that this cut works. However, you should be happy with extending at p3, right? Compared to the standard joseki you've fixed weaknesses and B has gained nothing.\]\]]
+;B[qq];W[on]C[*Kungfu*: ......?];B[ro];W[qm];B[rn];W[op];B[rp]
+;W[oo];B[oq];W[nq];B[or];W[nr];B[pr]
+(;W[ep]CR[so][sp][rq][sq][qr][rr][sr][ps][qs][rs][ss]LB[pm:B]
+[np:A]TR[qo][qp][pq]SQ[ok][pk][nl][ol][pl][mm][nm][om][ln][mn]
+[nn][lo][mo][no][lp][mp][kq][lq][mq][kr][lr][mr]C[[[Not too horrible. Black has 18 points in the corner, White has influence on both sides. However, I would have consdiered solidifying rather than taking the enclosure in the lower left. You have two cutting points, and you can't defend boht of them with a net. The squares represent one way of measuring the points you can expect to get from your influence (every square within three intersections that's closest to your stones), i.e. 22 points -- but if your stones are thin and cuttable, you should divide that number in two, I've heard, which becomes 11 points. --------- I've indicated some ways to solidify your stones in the variations. ------- As an aside: just because you can expet to get 22 points from this position, doesn't mean you can expect to get them *here*... they will most likely show up as an advantage in fighting.\]\]]
+;B[cn];W[ck]C[[[];B[en];W[ch];B[fc];W[nc]LB[ek:C][go:B][gp:A]
+C[[[jts - Wrong direction, in two ways. (i) Wrong part of the board. Imho, the safety of the C6 stones... sandwiched as they are betwen your strong positions... is the key to those game. Attack! A, B, and C look like ideas. (ii) Even if you do need to approach this stone, you're ruining your position by encouraging Black to settle the right side quickly.\]\]]
+;B[nd];W[md];B[ne];W[oc];B[pc];W[kc];B[pm];W[pl];B[om];W[rl]
+;B[rm];W[ql];B[nm];W[mo];B[mn];W[ko];B[lo];W[ln];B[no];W[mp]
+;B[np];W[nn];B[ph];W[ml];B[nl];W[nk];B[ok];W[ol]C[[[jts - looks like you have a won game.\]\]]
+;B[oj];W[fk]LB[ek:A]C[[[jts - good. This gives B too much too hope for, imho - when you're attacking you want to be severe. A move at "A" doesn't leave any aji. You only start to make thin moves when you are sure you can completely enclose, and then kill, the weak group. However, again: this is good. You've correctly intuited the biggest area on the board.\]\]]
+;B[hm];W[ik]LB[ik:B][go:A]TR[hm][en]C[[[jts -- wrong side. You're pressuring Black's group, yes, but in the wrong way. You want to claim points on the side with "A", and then force Black to run towards the worthless region at "B". Instead you've blocked off the worthless region, and forced him to run towards the points. --- Also, you should be aiming at the weak connection between the marked Black stones: "B" doesn't threaten this connection.\]\]]
+;B[fl];W[el];B[dl];W[dk];B[em]
+(;W[gl]LB[go:A]C[[[Jts - just connect. You're building up a strong position while he has very little. Coming back to attack B from the direction of "A" is still biggest.\]\]]
+;B[ek];W[ej];B[gk];W[fj];B[hl];W[gj];B[hk];W[hj];B[ij];W[jk]
+;B[ii];W[gg];B[fp];W[fq];B[gp];W[gq];B[hp]C[[[ jts - :'( Now the game is pretty much even again. You don't have a lot of territory, and niether does he. At this point continuing to make 3rd line territory is okay: capturing J11 on a large scale looks big; so does reducing B's upper right enclosure.\]\]]
+;W[rh]C[[[No, this is small. There's no way for B to make much territory here in a single move.\]\]]
+;B[qf];W[hc];B[li]
+(;W[mj]TR[el][gl][nl][nm][om][pm][mn][lo][no][qo][np][qp][pq]
+SQ[aa][ba][ca][da][ia][ja][ka][la][ma][na][ra][sa][ab][bb][cb]
+[db][ib][jb][kb][lb][mb][nb][rb][sb][ac][bc][cc][dc][qc][rc]
+[sc][qd][rd][sd][qe][re][se][dh][eh][fh][bi][ci][di][ei][fi]
+[bj][cj][dj][dm][fm][gm][dn][fn][gn][sn][so][lp][sp][cq][dq]
+[eq][lq][mq][rq][sq][ar][br][cr][dr][er][fr][gr][kr][lr][qr]
+[rr][sr][as][bs][cs][ds][es][fs][gs][ks][ls][ps][qs][rs][ss]
+C[[[jts - I showed some variations starting with o10. Honestly, I think tenuki is best.--- By the way, I can see why you would be discouraged at this point - you blew through a huge lead - but you're definitely  not *behind* I would count you as somewhat ahead, if anything, but at your level you definitely shouldn't give up hope. I count 52 points for black and 62 for white.\]\]]
+;B[mi];W[lg];B[kj];W[kk];B[nj];W[mk];B[mg];W[mf];B[ng];W[nf]
+;B[of];W[me];B[oe]C[[[jts - gote for black... what does this accomplish?\]\]]
+;W[fe];B[gd]C[[[jts - you can't make that much territory here anyway, so don't sacrifice everything for your non-territory. See variation.]
+(;W[he];B[hd];W[id];B[ge];W[gf];B[ie];W[hf];B[ic];W[jd];B[hb]
+;W[ib];B[gc];W[jb];B[dg];W[cg];B[df];W[cf];B[ce];W[ed];B[ec]
+;W[de];B[dd];W[ee];B[kg];W[kf];B[lh]
+(;W[jg]C[[[see variation\]\]];B[lf]
+(;W[le]C[[[see variation\]\]];B[jf];W[ke];B[ig];W[jh];B[if]
+;W[ih];B[hi]
+(;W[gi]C[[[jts - look at my variation. You're being greedy here. Unless you have it read out completely, you need to be willing to lose a few points of your old territory in order to keep K12, J14, and everything else.]
+;B[hh];W[hg];B[ff];W[jj];B[ji];W[je];B[ef]C[[[You say you feel hopeless here, but I count the score as somewhere in the area of 78-76, very close. And you have sente which, if you use it well, gives you the lead.\]\]]
+(;W[jq]LB[eq:A][hq:B]C[[[You can push twice (to get four stones) and then jump one, or you can knight's jump down to the second line, but a two-space jump gives up all the territory you could have gotten here. The weaknesses at A and B are too much to deal with.\]\]]
+;B[jp];W[kp];B[iq];W[io];B[jr];W[kq];B[ip]
+(;W[re];B[rg];W[qb];B[pb]TR[la][ma][na][oa][lb][mb][nb][ob]
+[ri][rj]C[[[ jts - this is hopeless. You're toast. In one stroke, you destroyed any hope you had of making a point or two around S11, inflicted up to ten points of damage on yourself around n10, and gave up any chance you had of further reducing black's corner. Compare my variation.\]\]]
+;W[rc];B[qc];W[sb];B[qa];W[ra];B[rb];W[gh];B[ki];W[qb];B[no]
+;W[mm];B[rb];W[bc];B[bd];W[qb];B[eq];W[dq];B[rb];W[sg];B[sa]
+;W[rf];B[sc];W[ob];B[qj];W[rj];B[qi];W[ri];B[eo];W[dp];B[dh]
+;W[di];B[cl];W[bl];B[bm];W[bk];B[jo];W[jn];B[in];W[im];B[ho]
+;W[il];B[gm];W[qg];B[pg];W[qe];B[rd];W[bf];B[ap];W[bq];B[aq]
+;W[br];B[fs];W[hr];B[ir];W[gs];B[er];W[fr];B[hq];W[es];B[ms]
+;W[ns];B[kr];W[lr];B[ls];W[mr];B[ks];W[bn];B[bo];W[am];B[an]
+;W[al];B[oa];W[na];B[od];W[pa];B[ds];W[dr];B[oa];W[ad];B[ae]
+;W[ac];B[be];W[dc];B[cc];W[cb];B[db]
+(;W[pa]C[[[See variation\]\]];B[jm];W[kn];B[oa];W[af];B[fd]
+;W[pa];B[lk];W[lj];B[oa];W[lg]LB[mc:A]C[[[ This is crazy. You need to connect. End of comments.\]\]]
+;B[mc];W[pa];B[mb];W[lb];B[nb];W[ma];B[oa];W[la];B[lc];W[ld]
+;B[qk];W[rk];B[ar];W[bp];B[co];W[eh];B[pf];W[qh];B[pk];W[oh]
+;B[oi];W[pi];B[sl];W[sk];B[sm];W[se];B[lf];W[kh];B[lg];W[ha]
+;B[ga];W[ia];B[is];W[hs];B[qd];W[fg];B[os];W[do];B[dn];W[jc]
+;B[hc];W[bs];B[el];W[as];B[ao];W[eg];B[tt];W[tt];B[tt]TW[ja]
+[ka][kb][kd][ie][if][jf][sf][ag][bg][ig][rg][ah][bh][fh][sh]
+[ai][bi][ci][ei][fi][si][aj][bj][cj][dj][sj][ak][lk][jl][kl]
+[ll][nl][jm][km][lm][nm][om][pm][mn][lo][no][lp][np][cq][eq]
+[lq][mq][cr][er][gr][cs][ds][fs]TB[aa][ba][ca][da][ea][fa][pa]
+[ra][ab][bb][cb][eb][fb][gb][ob][qb][sb][ac][bc][dc][nc][oc]
+[rc][ad][ed][de][ee][fe][og][mh][nh][oh][ni][pi][pj][gl][cm]
+[dm][fm][bn][fn][gn][hn][sn][fo][go][io][qo][so][qp][sp][pq]
+[rq][sq][qr][rr][sr][js][ps][qs][rs][ss])
+(;W[af]C[[[This is double sente. If you don't move here, he can, and then it's his sente. It's a free point.\]\]]
+;AE[af];B[af];W[ag];B[dc]
+(;W[ci]C[[[Necessary\]\]])
+(;W[ss];B[ah];W[bg];B[ci])))
+(;W[ob];B[pb];W[pa];B[qa];W[oa];B[qb];W[rf];B[re];W[qg]
+(;B[pg]LB[qe:A]C[[[Not really playable by black... you capture too much.]
+;W[qe];B[pf];W[rd];B[qh];W[rg];B[ri];W[se]LB[sd:B][re:A]C[[[jts - eyes at A and B are miai.\]\]]
+)
+(;B[pf];W[se];B[sd];W[sf];B[rd];W[qj]TR[ra][sa][rb][sb][qc]
+[rc][sc][qd][pe][qe]SQ[ja][ka][la][ma][na][kb][lb][mb][nb][lc]
+[mc][kd][ld][rg][sg][sh][ri][si][rj][sj])))
+(;W[hq];B[ip];W[iq];B[jp];W[kq])
+(;W[ir]))
+(;W[hh]LB[ff:B][hg:C][gh:A]C[[[jts - looks like A, B, and C can also be considered\]\]]
+;B[ff];W[ef];B[fg];W[eg];B[fh];W[eh];B[gh];W[hg];B[gi]))
+(;W[ke]))
+(;W[lf])
+(;W[jf]))
+(;W[hd];B[hq];W[ge];B[ig]C[[[jts - see? Even if he gives you want you want, he scrapes most of it away.\]\]]
+))
+(;W[nj]
+(;B[ni];W[oi]
+(;B[pi];W[mi];B[nh];W[mh])
+(;B[mi];W[pj]))
+(;B[mi];W[ni])))
+(;W[ek]))
+(;W[ql])
+(;W[pl])
+(;W[pk]))
+(;W[oq]
+(;B[pn];W[pk]C[[[jts - looks bad for Black, right?\]\]])
+(;B[pj];W[pn])))
+(;B[pn];W[nq];B[pj]C[[[jts - this looks good for B to me.\]\]]
+))
+(;W[qp]))

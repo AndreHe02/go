@@ -1,0 +1,114 @@
+(;FF[4]GM[1]SZ[19]AP[SGFC:1.12j]
+
+GN[satori-Euler(B) IGS]
+PB[Euler]
+BR[25k]
+PW[satori]
+WR[25k]
+KM[5.500000]
+DT[1997-11-08]
+PC[IGS:  igs.nuri.net 6969]
+RE[W+19.5]
+TM[3600]
+US[Brought to you by IGS]
+
+C[
+ satori 25k : Hi!
+ Euler 25k : hello]PL[B];B[dp];W[pd];B[cd];W[pp];B[dj]LB[ec:a]
+[fc:b][ed:c]C[The standard fuseki move for black in this position is at a, b, or c.
+
+This allows white to make a perfect approach move at a or c.]
+;W[jd]C[which white doesn't avail himself of, anyway.];B[jp]
+;W[mp]LB[pj:a][ed:b]C[This is very small in comparison to a move at a or b.]
+
+(;B[qn]LB[fc:a]C[A better move is to close the corner at a.]
+;W[rp];B[qk];W[qh];B[on];W[fc]
+(;B[ed]C[A better move would be the variation.];W[db]C[Your move invites him in to the corner.]
+;B[cb];W[dc];B[dd];W[hc];B[ge];W[jj];B[mn];W[jr]
+(;B[lq]C[You need to block his entrance ---- see variation.]
+;W[mq];B[kq]LB[lo:a]C[This move is horrible.  White is still connected.  a is much better.]
+;W[hr];B[iq];W[fr];B[er]LB[eq:a]C[Better to play at a.  You're making end game moves here... and helping  him to live (remember, don't touch what you are attacking).]
+;W[fp]C[Good light response by white.];B[fo]C[Again, you touched what you are attacking.]
+;W[go];B[gm]LB[fn:a][gp:b][eo:c][gn:d]C[If you are going to touch what you are attacking, you at least need to  defend it.  Any of the letters would be better.]
+
+(;W[hn]LB[fn:a]C[White goes easy on you.  He should have cut at a.]
+;B[gn];W[hp];B[kn];W[im];B[ep];W[eq];B[dq];W[fq];B[dr]C[This is way too small a move for this stage of the game.]
+;W[eo];B[fn];W[lr];B[kr]C[good move, try to separate white.]
+;W[jq]C[this move by white is foolish.];B[ir];W[hq];B[in];W[ip]
+;B[js]
+(;W[io];B[jn];W[jo];B[hm]C[good move.]
+(;W[ho]LB[ko:a]C[this is a horrible move by white.  It seals his fate.  It should be at a
+to escape.  a also puts pressure on the black group at the bottom.]
+;B[ko];W[gq];B[gs];W[mr]C[This move is too small for white.  Black is now clearly ahead.]
+;B[dn]C[Not really necessary at this point, but safe... I can see why you did
+it considering how far ahead you were.];W[mg]LB[qc:a]C[this move does nothing for white, it does however, invite an invasion at  a by black.]
+;B[ri]C[this is an endgame move, much too small to take now.]
+;W[rh];B[rj];W[md];B[hk]C[again, way too conservative.  Why didn't you invade at the 3-3 point?]
+;W[jg];B[hg];W[mj];B[oj];W[oh];B[mk];W[lk];B[ll];W[nk];B[ml]
+;W[li];B[kk]C[Now we're talking 1-2 pt moves.  These should be reserved until the last
+stages of the endgame.  But white plays along too.
+
+Note that all of black's groups are secure.];W[lj];B[jk];W[kj]
+;B[nj];W[ni];B[qc]C[Finally!];W[ob];B[re];W[qf];B[qe];W[pe]
+;B[pc];W[oc]
+(;B[pb]C[Empty triangles are bad shape.  See variation for a better move for black.]
+;W[qd];B[rd];W[pa];B[rb];W[qa];B[sc];W[ra];B[qb];W[rf];B[se]
+;W[sf];B[pi]LB[sb:a]C[You cannot leave the corner as a ko.  It's too big.  You should play
+at a.];W[ph];B[qi];W[sk];B[sj];W[rn]
+(;B[sl]C[See variation for a better move.];W[sm];B[rl];W[rm]
+;B[qm];W[qo];B[po];W[oo]LB[pn:a]C[You should defend at a here.]
+;B[no];W[pn];B[pm];W[po];B[om];W[np];B[mo];W[lp];B[kp];W[lo]
+;B[ln];W[ik];B[il];W[ij];B[jl];W[gi];B[hi];W[hj];B[hh]LB[gh:a]
+C[this should be at a.];W[gk];B[fk];W[fj];B[ek];W[ei];B[eh]
+;W[fh];B[fg]LB[dh:a]C[You just let him in, here.  This should be at a.]
+;W[dh];B[eg];W[di];B[gh];W[fi];B[ci];W[ch];B[bi];W[bh];B[bf]
+;W[cf];B[ce];W[df];B[ef];W[gl];B[fl];W[cc];B[bc];W[he];B[hf]
+;W[gd];B[fd];W[fe];B[gf];W[de];B[ee];W[bg];B[af];W[jf];B[dg]
+;W[cg];B[cj];W[bb];B[bd]LB[ab:a]C[this should be at a.  You're playing too conservatively.
+
+When are you going to resolve the ko at top right?];W[ih];B[ec]
+;W[eb];B[fb];W[gc]C[You can start a ko in the top left as follows (see variation).]
+
+(;B[ea];W[ca];B[fa];W[gb];B[ej]LB[ie:a]C[this is too small.  Try a.]
+;W[ls];B[ks]C[both of these moves are too small.];W[hl];B[en]
+C[this move is totally unnecessary.];W[ii];B[ah];W[if];B[ag]
+;W[gj];B[ab];W[ba];B[ac];W[oi];B[pj];W[sh];B[fs]C[this move is unnecessary.  White is already dead.]
+;W[ig];B[hs];W[tt];B[tt];W[tt]C[
+ Euler dead @ H3
+ Euler dead @ E5
+ satori dead @ S15
+ Euler dead @ J7
+ satori dead @ R18
+ Euler dead @ O9
+ satori dead @ T17
+ satori dead @ F19
+ Euler dead @ T9
+ satori dead @ F15
+ Euler done
+
+
+Why didn't you ever finish off the top right?  You are alive by playing
+t18.  Instead you gave it up as dead.];PL[B])
+(;B[ba];W[ca];B[ab]))
+(;B[rm];W[sm]C[don't be worried about this white response...]
+;B[ro];W[sn];B[so];W[sl];B[rk]))
+(;B[rf];W[rg]))
+(;W[ko]
+(;B[lo];W[lp];B[kp];W[ls]C[and the black group is dead.])
+(;B[mr]C[since black cannot stop white, he must make life at the bottom.]
+;W[nr];B[ls];W[lo])))
+(;W[jn]C[This should have been here.];B[io];W[jo]))
+(;W[fn];B[eo];W[gn];B[gq];W[eq];B[fq];W[dr];B[gr];W[es];B[gp]
+;W[bq]))
+(;B[jq]
+(;W[kr];B[hq]C[and the bottom is secured.])
+(;W[ir]C[If white plays here, black cuts him off from right group while attacking
+white group...];B[lq];W[mq];B[kr]
+(;W[fq]C[If white plays here, black gains a lot on the right...]
+;B[oq]LB[mr:a][op:b]C[This threatens to link up at either a or b.]
+;W[pq];B[op];W[or];B[nr];W[pr];B[mr];W[rr]C[white lives but takes a terrible loss.]
+)
+(;W[mr]C[but if white defends the corner...];B[fq];W[hp];B[io]
+;W[ho];B[hn];W[fo]C[white has a hard time living here.]))))
+(;B[dc];W[fe];B[dg];W[fg];B[fi]C[black is secure.]))
+(;B[fc];W[pj]))

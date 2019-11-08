@@ -1,0 +1,162 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.16]
+
+PB[Tilwen]
+BR[1d]
+PW[ficoo]
+WR[3d]
+KM[7.5]
+DT[2013-03-23]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[W+6.5]
+TM[2700]
+OT[5x30 byo-yomi]
+RU[AGA]
+
+C["   Hello !
+ I'm Tilwen, Black in this game. I felt I didn't miss a lot to be able to get the win, please tell me where my mistakes were. I have some global questions, but any further help would be welcome.
+
+What about the fuseki ? Especially lower left and upper left joseki.
+How to handle the white invasion in the lower right ?
+How to manage white's moyo ? I think getting cut was a mistake, but I'm not sure what i played wrong.
+I think I was late in yose, but were they some big moves I missed ?
+
+  Thanks a lot !"
+
+Hello Tilwen. I have done my best to review this game. This is my first time reviewing a dan-level game, so it was interesting for me. I hope my comments will be useful. - JB]
+;B[pd];W[dd];B[qp];W[dq];B[oq];W[qj];B[do];W[dl];B[gp]C["I don't know lots of josekis here, but I felt this one was OK for me, P3 deny a bit of white's lower influence."
+
+This move looks fine. P3 is useful here in that it limits White influence.]
+;W[eo];B[en];W[fo];B[dp];W[ep]TR[qp][oq]C[This joseki is a bit odd, but it is joseki. I think it is not so good, when black has the low shimari in the lower right.]
+;B[cq];W[er];B[dr];W[eq];B[cn];W[cr];B[br];W[ds]LB[fc:B][cf:A]
+C[I think instead of playing A, it is better to approach from B, as it is the most open direction.]
+
+(;B[cf]C["I didn't know how to deal with the white position around here, I wanted to attack the wide extension D16/D8, but I'm not sure the result was good here."
+
+Black has no strenght to back such an attack. It is also not clear what black want to gain from an attack. Attacking for the sake of attacking is never a good plan.]
+;W[ch];B[fc];W[df];B[dg];W[cg];B[dc];W[cc];B[de];W[ef];B[cd]
+;W[ed];B[ee];W[fe];B[ce];W[fd];B[ff];W[eg];B[ec];W[gc];B[gb]
+;W[hd];B[bc]LB[cb:B][hb:A]C[White usually extends first at B.]
+;W[hb]LB[cb:B][fb:A]C[Therefore, it makes sense to think that black should just take a stone at B now.]
+
+(;B[fb];W[cb];B[bb];W[bf];B[be];W[ae];B[bd];W[dh];B[gf]
+(;W[he];B[nc];W[bm];B[bp];W[hf];B[ql];W[qg]LB[fm:A][fn:B][jp:C]
+C[A is played in the game, but it is terrible shape with bad aji. If black wants to move out, B would be better. it is sente, and aji improves, but it also helps white.
+
+Instead, I think C is a better way to play.]
+(;B[fm]LB[cm:A]C["I thought entering the moyo firmly was good here, what about teh overall position now ?"
+
+This is a bad move with terrible aji. One thing is that A threathens to cut black. If Black wants to get out, it would be better to push directly.
+Also I am not sure what "entering the moyo firmly" means, but  I don't think that is what black did.]
+
+(;W[jq];B[hn]LB[gm:A]C[This move is also bad. It gives white easy cut at A. The weakness of blacks shape here can not be overstated. To not see this weakness even after it is punished is no good.]
+;W[hq];B[lq];W[rp]LB[ro:A][qq:B]C["What would you suggest here ?"
+
+Instead of A, my feeling is that B is better in this situation. Black has many stones in the area, and B gives white less potential to make sabaki. Black can attack more severly.]
+
+(;B[ro];W[qo];B[po];W[qn];B[rn];W[pn]LB[qm:B][rm:A]C[Now black should play B.]
+
+(;B[rm];W[pp];B[qq];W[oo];B[pq];W[mp];B[mq];W[ko]LB[hl:B][np:A]
+C[Now is time to take sente. White has already gained in the center, but it is not so grave at this point. However, there is trouble in blacks shape, and its hard to fix. Perhaps B is the way, or maybe another move is better, but A is not right. It just wants to take a single stone. A single stone with no purpose, is what black gives up sente to take.]
+
+(;B[np]C[It is not clear what black is trying to do. In the game one stone is captured, but it's a stone of no value.]
+;W[no];B[kp];W[jp];B[mo];W[mn];B[lo];W[ln];B[lp]C[Black can not be satisfied with this. To give up sente for the sake of taking one stone and making ugly shape. It is clear why this is bad.]
+;W[gm]LB[nm:B][gn:A]C[And now blacks weakness is exploited. Instead of making things worse for himself, I think black should play elsewhere.]
+
+(;B[gn];W[fn]
+(;B[gl]C[Giving a double atari seems like the worst way to handle this. White gets strong all around in sente and black lose a lot of points.]
+;W[em];B[hm];W[bn];B[bo];W[dn];B[co];W[bs];B[ar]LB[gh:A][kn:B]
+C[I need not explain how painful this is. Next, white capture two black stones, but  I think protecting the last remaining weakness is better.]
+
+(;W[gh]LB[nm:B][kn:A]C["White still has some weak groups, but I think mine cost me the game..."
+
+White need not capture these two stones, because black has no reason to save them. Instead, white should protect the only weakness that is left. I disagree about white having some weak groups. I think there is only one that is even a little weak. Everything else is very strong.]
+
+(;B[kn]C[This is the correct move, but perhaps black should peep first. Black aims at the only white weakness that is left.]
+;W[jo];B[km];W[ml];B[hp];W[gq];B[jj]LB[bb:49][cb:48][fb:47]
+[gb:43][hb:46][bc:45][cc:30][dc:29][ec:41][fc:25][gc:42][nc:57]
+[bd:53][cd:33][dd:2][ed:34][fd:38][hd:44][pd:1][ae:52][be:51]
+[ce:37][de:31][ee:35][fe:36][he:56][bf:50][cf:23][df:26][ef:32]
+[ff:39][gf:55][hf:60][cg:28][dg:27][eg:40][qg:62][ch:24][dh:54]
+[gh:104][jj:111][qj:6][dl:8][gl:95][ml:108][ql:61][bm:58][em:96]
+[fm:63][gm:92][hm:97][km:107][rm:75][bn:98][cn:19][dn:100][en:11]
+[fn:94][gn:93][hn:65][kn:105][ln:90][mn:88][pn:74][qn:72][rn:73]
+[bo:99][co:101][do:7][eo:10][fo:12][jo:106][ko:82][lo:89][mo:87]
+[no:84][oo:78][po:71][qo:70][ro:69][bp:59][dp:13][ep:14][gp:9]
+[hp:109][jp:86][kp:85][lp:91][mp:80][np:83][pp:76][qp:3][rp:68]
+[cq:15][dq:4][eq:18][gq:110][hq:66][jq:64][lq:67][mq:81][oq:5]
+[pq:79][qq:77][ar:103][br:21][cr:20][dr:17][er:16][bs:102][ds:22]
+C[I believe black should play more aggressively against the weaknesses white has left. After the next move white is secure. Exactly how black should do it is not as easy to say, and although I have some ideas, I will leave this as an excercise for the reader. I would probably get it wrong anyway.
+
+Both players made mistakes in Yose, but they are not so interesting. Yose is a matter of reading and counting, so it is difficult to comment on, and I don't have to so I won't.
+
+The most crucial points in the game I think are the following.
+
+First there is the bad shape black made with 63 and 65.
+Secondly there is the gote sequence starting at 83
+Thirdly, 93 is a stubborn move that gave white a double atari and painful sente moves against the black corner.
+
+There are also other mistakes, or dubious moves, which I point out in the review. 
+
+In general my feeling is that black doesn't always have a clear plan. This is based on the moves and some of the comments. Many moves are bad not because the reading was wrong, but because the idea was bad and the goal of the move unclear. Of course, I don't actually know what you read, so feel free to ignore this comment if you think it doesn't apply.
+
+This is the last comment of the review. I hope it was useful to you.]
+;W[ol];B[pk];W[kk];B[jk];W[rd];B[qc];W[rc];B[ic];W[hc];B[kc]
+;W[md];B[mc];W[nj];B[pj];W[qi];B[fj];W[gj];B[gk];W[hj];B[ek]
+;W[cj];B[cm];W[cl];B[ke];W[nh];B[fi];W[ih];B[rb];W[sb];B[qb]
+;W[ga];B[ca];W[ka];B[jb];W[ja];B[ia];W[ib];B[la];W[ha];B[lb]
+;W[qe];B[bg];W[bh];B[af];W[kr];B[lr];W[rk];B[oi];W[ni];B[of]
+;W[nf];B[ne];W[mf];B[me];W[og];B[pf];W[pg];B[kl];W[le];B[ld]
+;W[oe];B[lf];W[pe];B[od];W[lg];B[kg];W[lh];B[el];W[dm];B[fh]
+;W[fg];B[an];W[bl];B[ip];W[lk];B[ir];W[iq];B[jr];W[kq];B[ks]
+;W[hr];B[js];W[kh];B[lm];W[mm];B[jg];W[jn];B[il];W[jm];B[jl]
+;W[jh];B[qd];W[re];B[ig];W[hg];B[dj];W[di];B[dk];W[ck];B[gi]
+;W[hi];B[kj];W[hk];B[hl];W[lj];B[ok];W[nk];B[pl];W[pm];B[kb]
+;W[rl];B[qm];W[pi];B[op];W[om];B[oj];W[fa];B[db];W[jd];B[jc]
+;W[je];B[as];W[cs];B[oh];W[kd];B[le];W[ah];B[fp];W[fq];B[ia]
+;W[ja];B[bf];W[am];B[ao];W[ei];B[ej];W[if];B[kf];W[ea];B[ph]
+;W[qh];B[ki];W[li];B[ra];W[sm];B[rq];W[sn];B[sl];W[sk];B[so]
+;W[sl];B[sp];W[qk];B[sa];W[sc];B[go];W[io];B[ii];W[hs];B[id]
+;W[po];B[da];W[ia];B[eb];W[ka];B[jf];W[ie];B[ij];W[is];B[ls]
+;W[eh];B[ik];W[hh];B[ho];W[in];B[im];W[ll];B[ji];W[ag];B[tt]
+;W[tt]TW[gd][sd][ge][se][ff][gf][of][pf][qf][rf][sf][dg][gg]
+[mg][ng][rg][sg][mh][rh][sh][ai][bi][ci][mi][ri][si][aj][bj]
+[mj][rj][sj][ak][bk][mk][al][nl][nm][en][nn][on][dr][fr][gr]
+[es][fs][gs]TB[aa][ba][ma][na][oa][pa][qa][ab][cb][mb][nb][ob]
+[pb][ac][cc][lc][oc][pc][ad][md][nd][ae][fk][fl][gm][ap][cp]
+[mp][rp][aq][bq][nq][sq][mr][nr][or][pr][qr][rr][sr][ms][ns]
+[os][ps][qs][rs][ss])
+(;B[nm]
+(;W[nn];B[kn];W[jo];B[km]TR[nm][nn]C[The marked exchange looks good for black.]
+)
+(;W[kn]TR[rm]C[If white ignores the peep, reading is required. If black had played s7 one line to the right, it would clearly not work for white.]
+)))
+(;W[kn]C[I think white should connect here. Now there is no weak groups for black to attack, so the game is even more over than before.]
+))
+(;B[em];W[hm]))
+(;B[nm];W[nn];B[kn];W[jo];B[km]C[Black can try to attack. There is no reason to respond directly to G7, if black can not get a good result anyway.]
+))
+(;B[hl]C[This feels slow and there is still aji left. But it would help black in the center, so it is better than the game. The shape was bad to begin with.]
+))
+(;B[qm]TR[qg][qj]C[I see no reason not to play this move. It takes away one white liberty and it gives black more access to the center. It also weakens the white two space extension a bit.]
+))
+(;B[qq];W[qo];B[qn];W[po];B[rn];W[ro];B[ol]C[This is just one way in which black could attack. There are many others.]
+))
+(;W[cm]LB[em:A]C[If black ignores, there is a ko at A. But black has no good way to defend
+.]
+(;B[fn];W[go]C[This turns G7 into a really bad move])
+(;B[dn]C[this is of course really painful])
+(;B[em]C[Not better in any way])
+(;B[dm];W[el]C[hard to find a way not to make white very happy.]
+)))
+(;B[fn];W[go]C[Its sente, and better aji than in the game, but it still makes white stronger.]
+)
+(;B[jp]C[This way white thickness is limited, and black is building his own area.]
+))
+(;W[id]C[This is the proper joseki move]))
+(;B[cb]
+(;W[fb]C[White can not take a stone now, of course, and it will be long before it looks big.]
+)
+(;W[eh];B[gf];W[id]C[White has no forcing moves against the corner anymore. This may be why in professional games white plays c18 first. At least in all situations I could find.]
+)))
+(;B[fc];W[cf];B[qg];W[qm];B[jd]C[I white wants the left side. black could build his framework on the big upper side.]
+))

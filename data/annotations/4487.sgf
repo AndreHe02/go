@@ -1,0 +1,152 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+PB[rpglover64]
+PW[hiroheatho]
+WR[27k]
+KM[6.5]
+DT[2005-08-12]
+PC[The Kiseido Go Server (KGS) at http://kgs.kiseido.com/]
+RE[B+51.50]
+TM[1500]
+OT[3x20 byo-yomi]
+RU[Japanese]
+
+C[Hi, Alex.  My name is Calvin.  I will try my best to make useful comments on your game, but remember that I am still a weak player (about 12K) and only a high-level pro really understands what is going in in the game, so take whatever I say with a grain of salt.
+
+There are a lot of details in this review, so let me know if it's too much.  To summarize, my main comments are:
+
+1. 1st and 2nd line moves are not big in the fuseki.  Try to leave them to the endgame if they are not urgent for the life and death of your groups.
+
+2. Play away from strength, but your own and your opponent's.
+
+3. Count frequently during the game.  Look for situations when you or your opponent is about to convert a large moyo into territory.  If this is possible with one move, as it is in this game, it is likely that is an urgent move for both players.
+
+4. Just because a ko exists doesn't mean you have to fight it.  Consider the consequences of just ignoring the ko.  Try to understand its size relative to other plays.]
+;B[qp];W[pc];B[dp];W[dc]LB[dd:A][cd:B]C[White 4 is more often played at A or B, which would make an approach by black on the left side less attractive.]
+;B[jq]LB[oq:A][kq:B]C[Because white has two unfinished corner enclosures, I would consider it slightly bigger to make an approach to one of the white stones in the upper right.  Playing the center of the bottom side is not necessarily bad; however, there is more room to invade at A.    If playing on this side, I would probably choose A or B instead of Black 5.  In fact, the weakness left by the choice of black 5 can be exploited right up until the final move of this game!]
+;W[cn]
+(;B[co]LB[fp:A][cl:B]C[This move strengthens the white stone, which is not a good idea, because the white stone is still relatively weak in this area.  I would consider A or B as alternatives.]
+;W[bo]LB[cq:B][dn:A]C[It is natural to extend at A instead of playing the hane at B5.  There are a couple of reasons.
+
+1. B5 is a second-line move, and it is too early to play this in the opening without a good reason.
+
+2. Black would like to play at A himself.  It would make an ideal tiger's-mouth shape.
+
+3. By playing at A, you can save the invasion at the 3-3 point for later.]
+;B[bp]
+(;W[ao]TR[bo]LB[dn:A]C[This first-line move is way too small for the opening.  White can still play A and recover something.]
+;B[ap];W[bm];B[qj]
+(;W[ph]C[I don't understand the purpose of this move.]
+(;B[qh]C[This contact move is questionable.  It is not clear white is very strong here.]
+;W[qg];B[rh];W[rg]C[White does not need to play on the second line here.]
+
+(;B[sg]C[This is an endgame move on the first line.];W[sf];B[sh]
+;W[re]
+(;B[em]LB[dn:A]C[This shape is a bit loose.  If playing in this part of the board, I would start at 'A'.  See variation.]
+;W[dl];B[fk];W[ej];B[dk]C[This cut is an overplay for black.  When striking through a knight's move, it is important to read out the ladders.  See variations.]
+
+(;W[ck]LB[ek:A]C[White should cut at A, to separate black.]
+;B[ek]LB[dj:A]C[Because black gets to connect, and white still has the problem at A, this is now good for black.]
+;W[dj];B[fj]C[This is an enormous, excellent move by black.  Bravo!]
+;W[el]C[Pushing on a link like this is usually bad, unless you plan to cut very soon.]
+;B[fl]C[Black is happy to connect here and protect his weakness.  White should not force black to play good moves!]
+;W[dm];B[eo]LB[en:A]C[Black should play at A, preventing a white atari.  This is a big miss.]
+;W[en];B[fm];W[fn];B[fo];W[gn]TR[fj][dk][em]C[White has turned the tables by cutting black like this.  Now black's marked stones are heavy; they are hard to defend, but hard to sacrifice.]
+;B[hp]LB[fh:A]C[Black has a weak group now.  Jumping at A would be prudent.]
+
+(;W[hm]LB[eg:A]C[White has already driven a spike through black's groups, so he has gained enough here.  It is probably sufficient to defend at A.]
+;B[fc]C[Black dosen't have time for this.];W[df]LB[de:A]C[A is solid enough here.]
+;B[dd]C[Black will find that it is hard to cut the two-point extension.]
+;W[cd];B[ec];W[db];B[cc]
+(;W[bc]LB[de:A]C[White should play the atari at A first, forcing black into a bad shape.]
+;B[mc]TR[pc][re][sf][qg][ph]C[White's group is medium strong, and black's extension is wide.  Black may come under attack here.   It is important not to play close to your opponent's stong group, or your own.  If you play close to your opponent's strong group, your opponent may get in a good attack.  If you play close to your own strong group, it is inefficient.  So the proverb just to stay away from strength in general.]
+;W[ed]C[White should read the ladders.]
+(;B[fd]C[Interesting, but what if black simply tries to pull out?]
+;W[ee];B[fe];W[ff];B[gf];W[fg];B[gg];W[ik]LB[hi:B][ii:A]
+(;B[ii]TR[fj][dk][em]LB[gi:A][jc:B][op:C]C[rpglover64 [27k?\]: should move 61 have been h11 instead?
+
+The simplest and probably best move is A (G11).    J11 is dangerous unless it is a deliberate sacrifice plan.  (If black gets both B and C I think the game is even, so it's not out of the question.) 
+
+I think H11 works to save black's stones, but white will have some forcing moves against it in the endgame or for ko threats so I don't like it here.]
+
+(;W[hi]C[White should think about separating black's big groups and ignore this stone.  See variation.]
+;B[hh];W[gi];B[fi];W[fh];B[jn]LB[jc:A][op:B]C[I think A and B and the biggest points now.  White can invade at either, so K6 is not urgent.]
+;W[gh]LB[hj:A]C[White could just connect at A.  If black plays G12 (where White 68 is) it doesn't get him anything because his F11 stones are still head.]
+;B[ig];W[ij];B[kj]LB[ji:A]C[Locally, the proper move is at A.]
+;W[jk]LB[oq:B][op:A]C[This move makes bad shape.  It is not big to try to poke into black's moyo right now.
+
+It is possible for white invade at A or B still.];B[kk];W[jl]
+;B[km];W[ji];B[jh]LB[ih:A][op:B]C[Black does not gain anything from trying to make a ko here.  What's he going to do if he wins the ko?  Connect at A?  If black wants to connect at A, he can just do so now.   This area is not so big.   Black could just play at A and remove the possibility of white's invasion at the bottom.]
+;W[ih];B[cb];W[ca];B[ii];W[qi];B[ri];W[ih];B[eb];W[da]LB[bb:A]
+C[Capturing at A (B18) is cleaner.  Connecting at D19 in the game leaves another ko threat for black.  Not that this ko means anything, but if it were a real ko, B18 is the proper response. :-)]
+;B[ii];W[rj];B[pi]C[White's ko threats are losing points.  White's position at the top is now weakened.  This fake ko is going well for black :-)]
+;W[ih];B[ea]C[This is the other ko threat black shouldn't have if white played at B18 instead of D19.  It is frequently the case that capturing leaves a more solid shape than connecting this this type of situation.]
+;W[bb];B[ii];W[ki];B[ih]
+(;W[jj]LB[kl:A]C[Maybe white should use the cut-off stones by playing at A.]
+;B[mi];W[lh];B[kh]C[I used to play moves like this, but then my teacher explained why it is bad.  See, black has a very sneaky plan.  He is trying to cut at M11.]
+;W[li]LB[kl:A][lj:B]C[But white saw through this plan and connected!   So this plan is not so subtle.  :-)  But more importantly, it forces white to make a move he'd like to make anyway, because it hurts black.  Now black has to worry about  both A and B.]
+;B[lg];W[mh]LB[kl:A]C[White can consider pushing into black's largest area with 'A' (L8).]
+;B[ni];W[oh];B[nh]LB[oi:A][mk:B]C[Black should be more concerned about connecting his own stones than separating two live white groups.  A is probably better, and B may be a more clever way to connect.]
+;W[mg]C[This move is small.  Not much happens of black plays here first.
+
+Now would be a good time for both players to estimate the score.  In the upper right, white can expect to get about 15 points.  On the left, counting the captures, he has almost 70 points.  He gets 6.5 points komi, so white has over 90 points.  Black has maybe 25 points on the top.  The bottom is hard to count because the area in the bottom right is still moyo, not territory.  Maybe 60-65 points if you just count the conservative areas.  So also almost 90 points for black.  So it would seem that the game is close.  There's just one problem.
+
+If black plays at 'A' (P3) now, there is a very good change that the entire lower right corner of the board will become secure territory, and that would be an extra 50 points for black!  Even with sente, this would be impossible for white to make up on the upper side.  In my opinion, P3 is the only move for either player about now.
+
+Do not worry if you do not understand counting.  I am poor myself.  However, it's very important to try in order to become stonger.  Try to do it a few times during the game.
+
+Given that rest of the board is mostly settled.  'A' is staggeringly large.  Whoever plays here first can probably win.  This is my last comment until the endgame, where I show that an invasion at 'A' might still work.]
+;B[lf];W[ng];B[oi];W[mf];B[me];W[ne];B[nd];W[le];B[md];W[ld]
+;B[ke];W[kd];B[jd];W[kf];B[kg];W[je];B[jf];W[ke];B[ie];W[id]
+;B[jc];W[he];B[if];W[ge];B[hf];W[gc];B[gd];W[hd];B[hc];W[kc]
+;B[kb];W[oe];B[lj];W[kl];B[ll];W[jm];B[ln];W[in];B[jo];W[io]
+;B[ip];W[go];B[gp];W[ho];B[fq];W[od];B[oc];W[ob];B[nc];W[nb]
+;B[mb];W[na];B[ma];W[pa];B[pj]LB[oq:A]C[White passes and then black passes?   Are both players sure the invasion at 'A' doesn't work?  I am not so sure.  Just for laughs, I tried playing this invasion against GnuGo at level 10, which is allegedly stronger than I am (though I have my doubts.)   I was able to turn around the game for white, even though black is 50 points ahead!   See variation.]
+
+(;W[tt];B[tt]TB[gc][ic][kc][hd][ge][je][hg][jg][qi][si][mj]
+[rj][lk][pk][qk][lm][kn][lo][cp][ep][fp][jp][aq][dq][gq][qq]
+[fr][jr][lb][fb][fa]TW[aa][ba][oa][qa][ra][cb][pb][bd][dd][pd]
+[ce][se][ef][nf][rf][dg][og][fi][gj][hj][dk][cl][il][em][bn]
+[hn])
+(;W[oq];B[po];W[lq];B[pr];W[or];B[kr];W[lr];B[pq];W[oo];B[pn]
+;W[on];B[om];W[op];B[ls];W[ms];B[os];W[ns];B[ks];W[ps];B[mp]
+;W[mq];B[qr];W[mo];B[lp];W[np];B[nr];W[mn];B[nn];W[nm];B[nl]
+;W[mm];B[ml];W[lm];B[kn];W[kp];B[lo];W[no];B[kq];W[qs];B[pm]
+;W[rr];B[rq];W[rs];B[do];W[dn];B[pp];W[sq];B[sp];W[sr]C[White wins by 5.5 points!  I am not saying this best play by black or white---it is GNUGO against me after all---but my point is that it is black can afford to spend a move in the endgame to protect the corner against invasion for certain, and white had many chances during the game to invade, including possibly at the very end.  Of course, it is best to see this sooner rather than later, when it is easier to invade.]
+))
+(;W[kl];B[ll];W[lk];B[lj];W[mk]C[White can create some problems for black.]
+))
+(;W[gh]C[Black could have a problem if white plays here.];B[hg]
+;W[fh];B[hi]C[It would now be a mistake to try to save these stones.]
+;W[hh];B[ih];W[ig];B[jg];W[if];B[ge];W[gi];B[hj];W[gj];B[hk]
+;W[gk];B[hl];W[gl]C[Good for white.]))
+(;B[hi]))
+(;B[de];W[ce];B[ee];W[fe];B[ef];W[eg];B[ff];W[gf];B[fg];W[fh]
+;B[gg];W[hg];B[gh];W[gi];B[hh];W[ih];B[hi];W[hj];B[ii];W[ji]
+;B[ij];W[ik];B[jj];W[kj];B[jk];W[jl];B[kk];W[lk];B[kl];W[km]
+;B[ll];W[ml];B[lm];W[ln];B[mm];W[nm];B[mn];W[mo];B[nn];W[on]
+;B[no];W[np];B[oo];W[po];B[op];W[oq];B[pp]TR[qp]C[White can't catch black this way.  The marked stone breaks the ladder.]
+))
+(;W[de];B[ed];W[bc]C[This is fine for white.]))
+(;W[eg];B[il]C[Black will have to jump to defend his group.]
+))
+(;W[ek];B[el]C[If black cuts...];W[ck]C[White will capture black's stone in a ladder, making a strong shape on the left side.  This result is good for white.  Black has sacrificied a stone, but has gained nothing.]
+))
+(;B[dn];W[dm];B[en];W[em];B[fn];W[cf]LB[fm:A]C[Something like this might be okay.  The area near 'A' has big for both players.]
+;B[fm]C[Something like this is more solid.]))
+(;B[pi]C[Black can play here instead.]))
+(;B[oj]C[Black could jump here.];W[pf]C[If white makes some kind of defensive move...]
+;B[ce]C[Black can approach the other corner.]))
+(;W[oj]C[This cap is a typical move to reduce black's expansion.]
+)
+(;W[qe]C[Making a shimari (corner enclosure) is usually a big point.]
+))
+(;W[dn];B[bn];W[bm]TR[bo];B[ao];W[di]C[This is not an ideal result for white, because B5 was a bad move, but there is some recovery.]
+))
+(;B[fp]TR[cn]C[Black could consider simply extending with the one-point jump.  This weakens the marked white stone, so usually white will play an extra move to protect it.]
+;W[dj]C[This is one possibility.];B[pe]C[This pattern will help black build on the bottom, and will develop quickly.]
+)
+(;B[cl]TR[jq]C[This pincer is very good, because the marked stone is already in place.]
+;W[cq]C[If white invades at the 3-3 point...];B[dq]C[Black will block on this side.]
+;W[cp];B[do];W[bn];B[em]TR[jq]C[Black's wall works well with the stone at K3.  He starts to build thickness and a moyo at the bottom.]
+))

@@ -1,0 +1,91 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+EV[tournament]
+RO[3]
+PB[Peter Hoehe]
+BR[1k]
+PW[Manuela Lindemayer]
+WR[2d]
+KM[6]
+DT[2005-03-12]
+PC[Castrop-Rauxel]
+RE[W+Resign]
+TM[2700]
+OT[15/300 Canadian]
+RU[Japanese]
+GC[Reviewed for GTL by Steve Fawthrop, AGA 5d.  2005/03/17]
+
+
+C[Dear reviewer,
+
+This game was played at the tournament in Castrop-Rauxel , Germany.
+I played black in this game.
+I already lost the game after move 56.
+The rest of the game is a struggle to get a moyo as compensation, but this cannot work really.
+Would you please so kind to give me some hints.
+
+Thank you in advance,
+Peter];B[pd];W[do];B[qp];W[ed];B[op];W[qj];B[ql];W[qg];B[jq]
+LB[mc:A][qe:B]TR[do]C[It would be better to play A first.  White would probably reply by stabilizing his side stones.
+
+In general terms, this move looks wrong.  W is probably not going to play here because it would be a bad relationship to the marked stone.]
+;W[nc]C[This is what B needed to prevent by playing around here first.  It is bigger than the bottom.]
+
+(;B[lc]C[This looks doubtful as B is split when W jumps out.]
+
+(;W[qc]
+(;B[qd];W[pc];B[od];W[nb]
+(;B[me]LB[nd:A][qd:B]C[this move leaves a bad weak point at A.  Better for B to play there himself.  It is reall very hard for B to attack the 2 stones below, so the block at B was on the wrong side.]
+;W[cd]C[seems slow]
+(;B[cj]C[this is too easy on W];W[cl]
+(;B[cg];W[dq]C[this is uninteresting for B];B[gc];W[eg];B[ej]
+;W[jc];B[ge];W[je];B[ef];W[df];B[ee];W[de]
+(;B[fd];W[dg];B[ec];W[dc];B[db];W[cb];B[dd];W[cc];B[ch]C[peter: too small?]
+;W[ld];B[md];W[mc];B[kd];W[le];B[ke];W[lf];B[kc]C[this is asking too much, the 3 W stones split B into two groups only one of which can be easily saved.]
+;W[kf];B[jd];W[id];B[ie];W[jf];B[ic];W[of];B[nf];W[ng];B[og]
+
+(;W[nh]C[this let's B off too easily.]
+(;B[pf]C[But B does not accept!];W[pg];B[oh];W[oe];B[pe];W[oi]
+;B[ne];W[of];B[oe]C[These stones are dead and with it the game.]
+;W[ph];B[mg];W[mf];B[mh];W[of];B[kh];W[if];B[hd]C[Better to extend - the stone might fill a W liberty later.]
+;W[ih];B[rc];W[rb]
+(;B[re];W[qf];B[sb];W[ra]
+(;B[gg]C[B cannot capture the W group to the right so this move serves no purpose.]
+;W[ij]C[this is just forcing W into B's potential moyo, sealing off the 3 stones in a big way.]
+;B[kj]C[futile.  even if they live what good does it do?];W[il]
+;B[kl];W[jh];B[mj];W[fi]
+(;B[fh];W[ei];B[eh];W[di];B[dh];W[dj];B[gi];W[ek];B[gk];W[hl]
+;B[hk];W[ik];B[gl];W[hn];B[jo];W[ok];B[gm];W[in];B[dm];W[cm]
+;B[dk];W[ck];B[dl];W[ci];B[fj];W[bj];B[pk];W[nk];B[ol];W[nl]
+;B[om];W[km];B[lm];W[kn];B[ll];W[ln];B[nm];W[mm]C[finally over!]
+;B[ml];W[mn];B[ji];W[ii];B[nj];W[oj];B[li];W[lg];B[lh];W[mk]
+;B[lk];W[ni];B[jk];W[jj];B[jl];W[mi];B[rj];W[ri];B[rk];W[rf]
+;B[si];W[rh];B[pj];W[lj];B[mj];W[qi];B[pi]C[There was little worth commenting on after the first 70 moves.  B had lots of opportunities up to that point but missed most of them.  
+
+The final mistake came by trying to save the three stones in the center instead of using them to build a moyo while W captured them in a small way.]
+)
+(;B[dl];W[dm];B[el];W[ck];B[dk];W[bj];B[bi];W[ak];B[ei]C[this is seaily alive]
+))
+(;B[eq];W[ep];B[fq];W[dr];B[fp];W[fo];B[go];W[fn];B[gn];W[fm]
+;B[km]C[This is about the only way to win.  B should be using the 3 stones indirectly and forcing W to capture them on a small scale.  B prospects are reasonable now.]
+))
+(;B[sb];W[qa];B[oc];W[ob];B[pb];W[qb];B[pa];W[oa];B[lb];W[re]
+;B[rd];W[qf];B[ma];W[og];B[na];W[qe];B[mb];W[ra]))
+(;B[pg];W[qf];B[pf];W[oe];B[pi];W[qi];B[oi]))
+(;W[pf];B[mg];W[mf];B[nh];W[ne];B[nd];W[ng]))
+(;B[dg]C[peter: I thought about that one. Is it better?
+
+B MUST cut.  W is too strong otherwise];W[fd];B[gd];W[fe];B[ff]
+;W[gf];B[fg];W[hf];B[id];W[jd];B[dc];W[dd];B[ib];W[jb];B[eb]
+;W[cc];B[cb]))
+(;B[dq];W[cq];B[cr];W[cp];B[gq];W[ch];B[ej]))
+(;B[cm]C[This looks more interesting.  Look at the continuations to see what happens if W pincers.]
+;W[ck];B[cp];W[co];B[dp];W[eo];B[bo];W[bn];B[bp];W[cn];B[fp]
+;W[fj];B[oj];W[pk];B[nl];W[pl];B[qm]))
+(;B[nd];W[rc];B[rd];W[oj]LB[md:A]C[this way at least B has somthing to aim at.  But he needs to cover his weakness at A before attacking]
+))
+(;B[pc];W[qd];B[pe];W[qe];B[pf]C[Still not too pleasant, but W is low on the left and at least B is thick.]
+))
+(;W[ne]C[This is better.  Makes it hard on B]))
+(;B[oc];W[nd];B[qe];W[jd];B[of]C[I looked at several options and this is the only one which might be worth considering for B.  But it is really no good.  Shows the error of letting W get the pincer.]
+))

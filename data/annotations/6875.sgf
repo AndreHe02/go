@@ -1,0 +1,230 @@
+(;FF[4]GM[1]SZ[19]ST[1]AP[SGFC:1.15]
+
+PB[peterchris]
+BR[3k]
+PW[jackchen8]
+WR[2k]
+KM[0.5]
+DT[2008-09-16]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[W+43.50]
+TM[60]
+
+C[jackchen8 [2k\]: hi
+peterchris [3k\]: Hi, I'm peterchris, I played black.  I've noted about 5 specific questions through the middle of the game.  Thanks very much for your help! Peter]
+;B[qd];W[dp]C[peterchris [3k\]: hi hf];B[pp];W[dc];B[de]C[apparently, this is a very popular fuseki. i haven't studied it before, but i've done some database searching to be able to comment]
+;W[ce]C[Roughly half the time white does this]
+(;B[cf];W[cd]C[Black plays like this for a significant portion of the remaining search results. In pro games, statistically white has a 5% edge. Of course that probably means little for us amateurs..]
+
+(;B[dg];W[fc]
+(;B[dk]C[peterchris [3k\]: How can I know whether to play high or low here - D9 vs C9?
+
+The intention of D13 is to be able to make an extra line's extension, for the purpose of territorial efficiency. So, C9 is the proper move. D9, a move oriented towards influence, is at odds with the defect-littered shape of D13.]
+
+(;W[oc]
+(;B[ld]C[peterchris [3k\]: Again, how to know, high or low - M16 or M17?
+
+To answer this question, first you must ask yourself why you are playing the pincer.
+
+With F17 present, the top becomes a less interesting area for both players. It is a low but very solid stone. If black attempts to develop, white has the backup to invade without any fear. On the other hand, white developing from that solid stone will be slow, as black will have no problem using moves like G14 & G16 to keep the top side restricted to a low position.
+
+Instead, black should look to the right side. He has Q4, which is naturally inclined to develop the surrounding areas quickly. Joining R16 with Q4 in a framework would make a good strategy, especially with all of your stones on the left side being on the 4th line. 
+
+I'll illustrate some of these ideas with a few variations.
+
+Your intention with the pincer is probably to prevent white from developing the top. Disregarding that the top is not the most interesting part of the board, the high pincer is correct for this task. As it is on the 4th line, it is easy to treat it lightly and to run away with it if necessary. A 3rd line stone represents more of an investment in the area and you would probably feel compelled to attend to it by giving it a base and replying to any attacks white uses against it. The only recorded case of M17 being used in the top pattern (with the white shape from game in top left) was in 1932, by Kitani Minoru. The strategy worked for him, but he was a top pro of the time, and it was at the end of the fuseki rather than near the start of it.]
+
+(;W[jc]C[An interesting reply to your pincer];B[pc]C[This should be good - playing P16 will more or less transpose into a position similar to the variations shown earlier where white counterpincers]
+;W[oe];B[pf];W[of]C[pushing from behind on the 5th line, a very painful move for white to make]
+;B[pg];W[pe];B[qe];W[og]
+(;B[oh];W[nh]
+(;B[mg]C[N13 is a terrible overplay]
+(;W[ph];B[oi];W[qh]
+(;B[qf];W[qj]C[White is now a step ahead on the right side, the future of this fight is very uncertain.]
+;B[ng]C[The cut look like a powerful move.];W[ni];B[oj];W[mj]
+C[this is as violent as it gets!]
+(;B[qk]C[Playing this way is probably possible too, maybe even better. However you must keep N15 as your true aim, or else you lose sight of the true purpose of the cutting stones. You need to strengthen P10 in sente.]
+;W[rk]
+(;B[ql]
+(;W[rl];B[pj];W[ri];B[qm]C[This is a very big move, but sente would have been better spent at N15.]
+;W[mf]C[I don't like this white move much!];B[lf];W[me];B[kg]
+;W[le];B[ke];W[kd]
+(;B[md]C[This sort of move is highly aji keshi, unless you've read out a sure capture. See variation.]
+;W[nd]C[Already, the lovely yose at P18 is lost];B[nf];W[ne]
+C[This exchange not only failed to capture white, it reduced the liberties on O13. If white plays the atari at K15 next, black's group looks like a target instead of the thickness it nearly was]
+;B[mc];W[nc];B[mb];W[nb];B[kc];W[jd];B[jb];W[kb];B[lb];W[lc]
+;B[kj];W[kc]C[White probably has scary moves against top right to boot. You nearly had an easy win, now it looks like an uncomfortable game]
+
+(;B[lk]C[This move is insufficient. You lost many points, you need to have a grander vision now.]
+;W[qq]C[White's move is ill timed, considering the moyo you are developing]
+
+(;B[qp]C[peterchris [3k\]: was this the correct direction?
+
+It doesn't seem so. You build wall towards the center, but it is probably better to just block off white from the bottom entirely. See the variation.]
+;W[pq]
+(;B[op]C[Too soft];W[oq];B[nq];W[nr];B[mq];W[jp];B[mr]C[peterchris [3k\]: i heard that whenever the opponent does not extend, that one should punish in this way.  was this correct?
+
+Yes];W[os]
+(;B[cn]C[This move is too soft. This allows white to protect K4.
+
+K4 was a terrible overplay. It was a move played right next to your thickness with no real backup. After taking N2 in sente, your next aim should be to punish this insult.]
+
+(;W[di]C[How a madman plays];B[fg];W[jh];B[kh];W[hh]
+(;B[je]C[Not Sente];W[jj];B[jk];W[ij];B[id]C[Powerful press]
+;W[ic];B[hc];W[hd];B[ie];W[hb];B[ik];W[hk];B[hl]C[All good so far]
+;W[gk];B[gl];W[fk]
+(;B[ej]C[This is something of a failiure. You should have stayed the course]
+;W[el];B[ei]
+(;W[dl]C[White gave you a chance to make good]
+(;B[cl];W[ck];B[bl]C[peterchris [3k\]: based on the sequence that followed, it appeared that there is a mistake here somewhere.  maybe this move B8?]
+;W[ch]C[The mistake is trying to block all things at once. You need to read and recognize when something has to give. I give one possible variation here, but it turns out that there is an even better way (which is a variation given for the move after this)]
+
+(;B[bf];W[eh]
+(;B[fi];W[fh];B[gi];W[gh];B[dj]C[This is a serious mistake. Can't see why you did not play C10, as this is just suicide]
+;W[cj];B[bi];W[ci];B[bh];W[dh]
+(;B[fn]C[F6 - cuts off the live white group frmo te corner stone. Induces white to connect his corner stone to the nearly dead K4.]
+
+(;W[fq];B[hq];W[cg];B[bk];W[bg];B[ag];W[bj];B[aj];W[dn];B[gp]
+;W[co]C[Oops!]
+(;B[he]C[peterchris [3k\]: is there any hope for the black group at B14 now, or is this game over?]
+;W[ef]C[It appears, at this point, there is no hope];B[eg];W[df]
+;B[ee];W[ff];B[gg];W[fe];B[bo];W[cm];B[bn];W[bp];B[bm];W[dm]
+;B[gd];W[ib];B[bq];W[ap];B[cq];W[cp];B[er];W[eq];B[fr];W[gq]
+;B[hr];W[gr];B[dr];W[hp];B[ip];W[ho];B[io];W[hs];B[ir];W[aq]
+;B[br];W[cs];B[ar];W[bs];B[fs];W[gs];B[is];W[go];B[hn];W[fo]
+;B[rg];W[rm];B[rp];W[rq];B[sq];W[sr];B[qs];W[sp];B[ro];W[qr]
+;B[ps];W[rs];B[ms];W[rn];B[sj];W[rj];B[rh];W[qn];B[pn];W[so]
+;B[pb];W[jg];B[gf];W[fd];B[gn];W[ds];B[eo];W[fp];B[en];W[do]
+;B[bc];W[cb];B[bb];W[be];B[gc];W[gb];B[ge];W[jf];B[kf];W[ki]
+;B[li];W[ji];B[mh];W[lj];B[kk];W[lh];B[lg];W[mi];B[lh];W[pk]
+;B[ok];W[pm];B[pl];W[po];B[om];W[on];B[oo];W[pm];B[nn];W[pn]
+;B[nm];W[sh];B[sg];W[si];B[fl];W[dq];B[cr];W[ek];B[em];W[pd]
+;B[ob];W[oa];B[pa];W[na];B[ns];W[or];B[qg];W[qi];B[hi];W[hg]
+;B[if];W[ig];B[mk];W[af];B[hj];W[ii];B[tt];W[tt]TB[qa][ra][sa]
+[qb][rb][sb][qc][rc][sc][hd][rd][sd][re][se][rf][sf][nh][mi]
+[ni][lj][mj][nj][nk][pk][il][jl][kl][ll][ml][nl][ol][fm][gm]
+[hm][im][jm][km][lm][mm][in][jn][kn][ln][mn][jo][ko][lo][mo]
+[no][jp][kp][lp][mp][np][iq][jq][kq][lq][jr][kr][lr][js][ks]
+[ls]TW[aa][ba][ca][da][ea][fa][ga][ha][ia][ja][ka][la][ma][ab]
+[bb][db][eb][fb][jb][lb][mb][ac][bc][cc][ec][mc][ad][bd][dd]
+[ed][ld][md][od][ae][de][ee][bf][cf][ag][ah][bh][ih][ai][bi]
+[ei][fi][gi][hi][aj][dj][ej][fj][gj][hj][sj][ak][bk][dk][sk]
+[al][bl][cl][sl][am][bm][sm][an][bn][cn][sn][ao][bo][gp][sq]
+[pr][rr][ps][qs][ss]C[peterchris [3k\]: thx
+jackchen8 [2k\]: thx])
+(;B[gf]C[A ko perhaps];W[eg];B[ef]))
+(;W[gq]C[etc]))
+(;B[gp]C[Correct method - Split the certain dead from the possibly alive. Then, attack the possibly alive until you know for sure!]
+))
+(;B[cj]C[You can also play this here to capture a stone. Now white needs to play D12 and F12.]
+;W[dj];B[ek];W[fi];B[bk];W[fj];B[ck];W[dh];B[fh];W[eg];B[ef]
+;W[ff];B[gf];W[fe];B[hg]C[Seems black wins this way]))
+(;B[dh]C[Connect here.];W[bf]C[Allow him to dig into your territory a little]
+;B[cj]C[Then connect your stones];W[en]C[And weep a little]
+;B[hp]C[But not too much!]))
+(;B[en]C[F6 would have been excellent. This way, you got to make shape with E11, and still somehow split white apart. An ideal result!]
+))
+(;W[en]C[White should immediately jump out and link up his groups. Then the whole sequence is a failure for black!]
+))
+(;B[fl];W[ek];B[el];W[dj]
+(;B[ck];W[fi];B[fp]LB[bi:A]C[Be prepared to trade. Remember, you can use moves like A to make such a trade smaller for your opponent.]
+)
+(;B[fi]C[It might be powerful to attack the shape, too];W[ck]
+;B[dl];W[ei];B[gi];W[gg];B[eh];W[hi];B[bi]C[Could be powerful]
+)))
+(;B[fi]C[Just loosely enclose D11. Ignore K15, if white plays it, to take F4.]
+))
+(;W[fq]C[How white should play!]))
+(;B[gp]C[It's easy enough to punish K4, fortunately. If white K4 does not die and his corner does not die, they will at least both live miserable lives. White can't expect a good result from both stones.
+
+How could D4 die, you wonder? Well, if K4 lives, G4 should end up as a thick wall. Then C3 or C6 will put white on the spot]
+
+(;W[dn]C[It's normal to make the shimari, but];B[gn]C[It's enough for black]
+)
+(;W[jn];B[gn]C[Same deal. Black's going to have fun])))
+(;B[oq]C[It is mandatory to push white down, at least];W[or]
+;B[nq];W[nr];B[mq];W[rp];B[ro];W[rq]C[if white plays the normal variation, take sente here]
+;B[gp]C[Black probably wins, so long as white doesn't find a sequence to kill top right]
+))
+(;B[pq];W[qp];B[qo];W[ro];B[rn];W[po];B[qn];W[pr];B[or];W[qr]
+;B[nq];W[rp]C[Bonus - black is so thick, he forces white to live in gote here. Normally reinforcement at P5 is played, but black doesn't need to worry about it here.]
+;B[gp]C[Black wins]))
+(;B[jp]C[At minimum, take this star point, aim to catch N10 on the large scale]
+)
+(;B[gp]C[May also consider a high distant approach to emphasize the moyo]
+))
+(;B[je]C[Just play here. Black's position is CONSIDERABLY better - Black has the moves at P18 and J17 to make the top even smaller, and with this much center power he can look forward to at least 40 points in the middle, in addition to the corner territory and side he will make from C10 and S3]
+))
+(;W[pj]
+(;B[ok];W[rl];B[qn];W[qm];B[pm];W[rm];B[me]C[White can play it slightly better, but you can stil take sente (perhaps at the cost of white exploiting the Q6/Q8 aji)]
+)
+(;B[nj];W[lh]C[I guess black can probably win the fight in all areas with this forcing move, but the middle game is beyond my skill]
+)))
+(;B[pk]C[Q9 may accomplish this goal]
+(;W[rl];B[me])
+(;W[ri];B[me]C[either way, you need to get N15 ASAP])))
+(;B[pk]C[you should press down on the right next, to gain shape & liberties for your central cutting stones.]
+;W[qk];B[pm]
+(;W[ql];B[me]C[Your aim is to gain enough shape to play this move and turn the screws on P15. This way the cutting stones are exploited to their maximum potential. Next, if somehow white rescues P15, it will be at great cost (there is no way for him to do it without leaving N13 as a thick group), and then you may focus on attacking his very weak central stones.]
+)
+(;W[lf]C[One possible move white might use to fight back. I haven't read very many variations, but I see no immediate way for black to reply but to play M13, which does not look especially promising. However]
+;B[ql]C[You can take this time to use your iniative vs the right side. You can use p18 to slide into the territory on top anyway - it is not necessary to rescue every threatened stone. I think R8 will kill the right stones, and even if you cannot find the sequence yourself in a game, you will be making territory in bottom right in sente as well as completely securing the live status of those cutting stones. Then moving out M13 will be a more powerful move, as it will be just that weak group vs the weak N10 group, rather than you having to juggle two weak groups at once.]
+)))
+(;B[rg]C[R14 is ineffectual shape. S13 is better for eyes and for capturing R12 later, as now when white plays S12 black is already removing a liberty.]
+;W[rh];B[qg]C[the white exchange S12-R13 is common when white is in similar situations, and wishes to make a base]
+;W[qk];B[ni];W[mh];B[mi];W[lh];B[qm]C[the game would be interesting for black. Just one possible result after playing S13, if white attempts to live on the right in the most direct fashion.]
+))
+(;W[oi];B[ph];W[ng]C[it should be clear here that black gained nothing from N13. Instead he has been forced to submit on the right - where before he was a step ahead of white, he is now a step behind.]
+))
+(;B[ni]C[If you want an interesting move, play the double hane here. It should work well with Q4, and preserve the lead you have been given so far in this game.]
+))
+(;B[ph]C[Black can accept being pushed one more time with 0 complaints. He is banking solid profit. Extending 3 times leaves fewer defects behind for white to exploit.]
+))
+(;W[ph];B[od];W[pc]
+(;B[pd];W[qk]LB[qc:B][jc:A]C[Black is dismayed. White can live with a move like B in the corner; it will take at two moves to completely remove the aji of Q17. Meanwhile, the move at A will destroy any hope B has for efficiently enclosing territory, as black will have to defend the top once white plays here. Being forced to defend a territory from many directions leaves one with an inefficiently enclosed space, a very humiliating prospect. M16 looks very questionable in this position.]
+)
+(;B[qc];W[qk]SQ[lc]TR[qd][od]MA[ld]LB[jc:C][mc:B][pd:A]C[The same as the other variation, except the aji is in slightly different places. M16 again looks very questionable - The two triangle marked stones make a common corner enclosure, but with the F16 joseki in play black would have made the cross marked play at square if he played at the top at all. In fact, with F16 in play and that corner enclosure, black would have played Q10 as soon as he could! Although the shape may seem hard to evaluate at first sight, keeping this in mind should make it easy to see that black has been outplayed here.]
+)))
+(;B[pe]C[Q15 is a patient and powerful move. It threatens the press at O16, which gives white a very low position. It is common to tenuki, but instead let's illustrate what happens if white develops the top as you feared.]
+
+(;W[md];B[pc]
+(;W[od]
+(;B[ge]C[Black would have a move like this in reserve. The top is very small]
+)
+(;B[qj]C[Making a territorial framework is good development. Black is moving faster than white]
+))
+(;W[ic]C[If white makes a speedier shape than p16, he does black's work for  him by placing it on the 3rd line here. Very low position]
+)
+(;W[id]C[Better than J17, but the top still has many invadable points, L17 in particular.]
+;B[qj]C[Of course it is better to develop your own framework first. Invasion this early would be pure jealousy. Black is developing more quickly,  although one could speculate that the error at D9 counterbalances white's mistaken focus on the top.]
+))
+(;W[ld];B[qj]C[Instead of reducing the top immediately, it's good for black to join his stones in a territorial framework as well]
+)))
+(;W[ef];B[df]C[For instance, this exchange can help white neutralize the power of black's stones]
+)
+(;W[ch]C[This is the standard invasion, even with c9 present. It is much more severe here]
+
+(;B[bg];W[dj]C[White has the potential to cut apart black, which is a burden black must bear during the middle game]
+)
+(;B[dh];W[bf]C[it's very big if black gives away and allows this]
+)))
+(;B[ck];W[ch];B[bg]C[now, the only way white can separate black]
+;W[cj];B[dj];W[di];B[bj];W[bi];B[ci]C[is by fighting this ko. it is an extremely large ko, and it would take considerable determination to stake the game on its outcome.]
+))
+(;B[fq]C[This probe is the most popular move in this fuseki. I'm leaving in variations of the most common plans followed, plus a comment if I think I can make one. It is just for your interest]
+
+(;W[cn]
+(;B[dg]
+(;W[fc];B[ck]C[Black used the F3 probe to know if it is ok to make D13 shape. Here it is, since C6 is two spaces from the proper extension. If C6 were at C7, the result would not be as good for black, since white would be able to invade severely at a good early timing]
+)
+(;W[dk]C[A rarely used but apparently very playable counterattack. white won 2/3 games with this _exact_ fuseki, this fight is seen in other fusekis tho]
+))
+(;B[df];W[fc];B[dj]C[This and c10 are played.]))
+(;W[cm]C[White's rarer reply. It seems black wins 65% of the games following this, although the number of games in the sample is much smaller than for the earlier figures (only 18 games)]
+
+(;B[cq]C[After this, it is most popular for black to follow joseki where he invades directly. It's worth noting the winrate for black following this move is 70%, it seems it is quite difficult for white it make use of his thickness in this fuseki.]
+)
+(;B[df];W[fc];B[dj]C[And for this and c10 combined, black wins over 80% of the games!]
+))))
+(;B[dd];W[cd];B[ec]C[In reply to C15, the avalanche is initiated up to this point in 65% of games. It gives roughly equal results for both players, with close to 50/50 win rate in pro games]
+))

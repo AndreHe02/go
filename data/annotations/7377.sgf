@@ -1,0 +1,242 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+PB[otaki]
+BR[3k]
+PW[Daedin]
+WR[3k]
+KM[6.5]
+DT[2009-07-31]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[B+12.50]
+TM[1200]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+C[Daedin: Hello. I am Daedin on KGS, playing White in this game. During the game, I felt like I was doing ok, apart from some blunders (greediness) towards the end. However, after reviewing the game myself, I found out many other mistakes.
+
+I am mainly interested in general comments, areas where I can improve, direction of play, etc. I am currently not that strong at tsumego / joseki, but this will come gradually with studying and playing.
+
+I have tried and reviewed the game myself, and added comments and variations where I felt they were needed. Please free to add anything you may find useful.
+
+Thanks for your time !];B[pd];W[dp];B[pq];W[dd];B[qk];W[qo]
+LB[nc:A][mp:B][qf:1][qc:2][qi:3]C[Daedin: I looked a bit on what I could find on the mini chinese fuseki, but unfortunately did not find much
+Daedin: According to Sensei's Library, the approach at R5 is not used, but the play is rather more around A or B.
+JB: The theory of the Chinese is that black outlines a lot of territory rather loosely, provoking white to invade some of it, and while chasing the invading stones, black makes solid territory in the rest of it. Your move fits into black's plans because it can be easily attacked.
+As you note, 'A' and 'B' are the common responses. They are both approaches that cannot get easily attacked. If black tries to pincer 'A', you can play at '1', with miai of '2' and '3'. Whereas 'B' is too far away to be seriously threatened by a pincer.
+Note that the room for a 2-space extension from '1' to '3' makes the Q16 stone much weaker than the Q3 stone. That is why you can approach closely. But the approach to the Q3 stone must be made from a safer distance.]
+;B[rp]LB[qp:A][po:B][np:C][oo:D]C[Daedin: This I did not find anywhere on Joseki dictionaries. I always find it difficult to respond properly to this kind of move
+Daedin: Answering at S5 feels like black is gaining a lot (see var.)
+JB: Yes, you won't find it in the joseki dictionaries because it is just too passive.  It black wants to take the corner, he can play at A, threatening to squash the white stone with B.  White is therefore almost forced to play B himself, becoming heavy.  White then extends to C, making territory while attacking white.  This is classic Chinese fuseki working according to plan.
+However, when black plays a less aggressive move as he did, you do not need to make heavy moves.  See variation at D.]
+
+(;W[qq]C[JB: This is a terrible move.  It allows black to split the white stones effortlessly.]
+;B[qp];W[pp]
+(;B[pr]C[JB: A slack move by black.  He should play at P3.  This would keep the white stones cramped so that they wouls have to run.]
+
+(;W[rq]C[JB: You can't win a fight down here against the more numerous black stones  (inless black continues to play weakly ).  A better strategy is to move out with P4.]
+;B[ro];W[qn]LB[op:A]C[JB: You are getting heavy here.  Black should make you heavy and lumpy with A, then make sure that his three stones live.]
+;B[rn];W[op]C[JB: Nice move!];B[on];W[oq];B[or];W[nr]
+(;B[nq]LB[po:A][rr:B]C[Daedin: Black misread something here I think
+
+JB: Actually it is rather clever.  ( Maybe too clever. )    Black is trying to get both the cut at A  and the belly tesuji at B.  But both of them are gote, so if he gets one, you get the other.  The clever thing about this move is that it makes A sente.  Then, when you reply to A, he gets B also.
+Whether it is worth letting you have the super-ponuki, I don't know.]
+;W[mq];B[np];W[no];B[po];W[mp]C[Daedin: White is rather well off I think, especially given the initial situation. The two white stones still have some aji, and the sequence basically gave White two free stones at N4 and O5 (compare to var.)
+JB: Yes, you played it much better than he did.  However, his big mistake was not the clever but maybe dubious tesuji, rather it was letting you get P4.]
+;B[rr]
+(;W[dj]C[Daedin: I felt like this move was the best to take advantage of White's thickness to build a moyo. I also considered kakari at O17, but did not like the standard sequence shown in the first variation, and was not too confortable with playing the double pincer.
+JB: This certainly is a decent move.  And it avoids the complications of the double approach.  Avoiding complications is probably a good idea for you, since you are ahead by a bit.]
+;B[cm];W[co];B[bj]
+(;W[bk]C[Daedin: I played this to close the upper side and confine Black, but it may have been better to simply press him down with C11.
+JB: Yes, this is not good for you.  Contact moves against weak stones tend to strengthen them.  If you want to confine him, see variation #3.]
+;B[ck]
+(;W[bi]C[JB: Sorry, but this is another terrible move.  You are virtually forcing him to separate your stones and connect his.]
+;B[cj];W[ci];B[di]
+(;W[dk]C[JB: You are adding to a weak stone.  This just gives him more targets.  If you must add to it, at least play something with more liberties, as in variation 2.  Better yet is variation 3.]
+;B[bl];W[cg]C[JB: Good move.];B[ei];W[el]LB[fj:A][fk:B]C[JB: You are playing weak stones near a stronger group.  Black has one eye already, and can get another with A.  Your group has no eyes.  His group  is stronger than yours. Attacking strong groups with weak ones is bound to get you in trouble.
+Also, it is slow.  If you must attack here, try A or B.];B[em]
+;W[gl];B[fm]
+(;W[gj];B[fp]
+(;W[eo]C[Daedin: I guess White could also have played around F3]
+;B[eq];W[dq];B[gq];W[dm];B[dn];W[dl];B[cn];W[en]
+(;B[gn]LB[do:A];W[do];B[er];W[cl];B[ak];W[bo]
+(;B[an]C[Daedin: I think Black misread this here.];W[bn];B[cr]
+;W[dr];B[ds];W[br]C[JB: Much of the corner will end up garbage.    You are quibbling over half a dozen points in gote.
+You have two groups with maybe one eye each. Just play the honte move: kill the three stones and you have no weaknesses. 
+This could come back to honte you.];B[db]
+(;W[cc]C[JB: This is the wong direction.  There is lots of empty space in the north and east.  You are forcing him to move toward it.  See variation.]
+;B[fc];W[fe];B[ic]
+(;W[gh]C[JB: This is solid, but slow and unenterprising.  See variation]
+;B[nc]LB[jc:D][qc:A][qf:B][qi:C]C[Daedin: Here I did not know where to invade. I"m thinking about the four marked points.
+JB: You are correct to not choose A.  It plays into his hands.
+But the other choices are not much better.  The will all find themselves struggling for eyes.
+It is better to accept the fact that your invading stones will not live on their own ( or at best they will live small and ugly in gote while he gets a strong wall on the outside )  so they are going to have to run.  Once you have decided on that, then you play high. ( A good rule of thumb: 4th line for running invasions, 3rd line for living invasions. )  See variations 3 and 4.  Especially 3.]
+
+(;W[qi];B[qe]
+(;W[pk]TR[qn][qo]C[Daedin: This does not seem really good for White
+JB: Because of the aji of the two triangled stones, it is fine move.]
+;B[qj];W[pj];B[pi];W[ql];B[rl];W[pm];B[oi]
+(;W[nj]C[JB: There is a neat tactic here.  See variation.];B[mh]
+LB[nh:A]C[JB: Another slack move by black. It would be much stronger at A.]
+
+(;W[jc]C[Daedin: This did not lead to much either
+JB: Again, it is low.  It is not likely to live on its own, so it will have to run.  If it has to run, it is best to start high.]
+;B[id];W[ke];B[jf]C[JB: Ouch! Your opponent is playing well.]
+;W[nh];B[ni];W[lh]C[JB: Very nice move!];B[mg];W[lg];B[lf];W[kf]
+;B[le];W[jg];B[ld];W[kd];B[kc];W[kb];B[lc];W[jd];B[ib]C[Daedin: Connecting at K3 may be bigger
+JB: N10 is huge.];W[cb]C[JB: This is way away from the important stuff.  Again, N10 is huge.  H6 could be useful also]
+;B[jb];W[mj]C[JB: Yes!!!];B[oj];W[ok];B[mi];W[li];B[nk]
+(;W[mk]C[JB: If you leave this cutting stone alone, it has 2 liberties.  When you attack it, it becomes stronger.  One move by you; one move by him; and now it has 3 liberties.  You just forced him to make his cutting stone 50% stronger. See variation]
+;B[nl];W[om];B[ml];W[nn];B[ll];W[kk];B[kl];W[jj];B[lj];W[lk]
+;B[jk];W[kj];B[im];W[jq];B[cq];W[bq]C[JB: Again, just kill it.]
+;B[hf]
+(;W[gd]C[Daedin: Too greedy];B[ff];W[gf];B[gg];W[ge];B[hg];W[fg]
+;B[fh];W[eg];B[bm];W[am];B[gi];W[hh];B[hi];W[ih];B[hj];W[ai]
+;B[fl];W[fk];B[fj];W[aj];B[gk];W[bk]C[Daedin: Taking right now was not needed]
+;B[kg];W[kh];B[je];W[kg];B[ie];W[gc];B[gb]
+(;W[hb]C[Daedin: Misread here, and deprived White from E18]
+;B[fb];W[hc];B[ha];W[rm]C[JB: Ahh, you found it!
+
+JB: This is the last comment.];B[sm];W[rk];B[rj];W[sl];B[ri]
+;W[cp];B[bs];W[cs];B[cr];W[os];B[qr];W[jl];B[jm];W[hk];B[ek]
+;W[ik];B[ir];W[jr];B[dc];W[cd];B[ca];W[ba];B[da];W[ab];B[ed]
+;W[ee];B[iq]
+(;W[ip]C[Daedin: Too greedy here too. Moreover, the sequence that was played deprived White from the L7 cut, which meant the game was over.
+
+Thanks for reading me through this, and feel free to add as many comments as seem necessary (or contact me directly) !]
+;B[jp]
+(;W[is]C[Daedin: Mistake too];B[kp];W[lr];B[hr];W[hm];B[hn]
+;W[dh];B[ln];W[lo];B[kn];W[ko];B[jo];W[fo];B[go];W[ej];B[fk]
+;W[ii];B[il];W[hl];B[ij];W[jk];B[ol];W[pl];B[lp];W[mo];B[lq]
+;W[kq];B[hs];W[js];B[ms];W[ls];B[mn];W[sn];B[sq];W[sj];B[qh]
+;W[fd];B[ec];W[si];B[sh];W[sk];B[ps];W[ns];B[so];W[ar];B[sm]
+;W[rl];B[nm];W[ig];B[sn];W[if];B[he];W[as];B[cs];W[cq];B[es]
+;W[eh];B[fi];W[gm];B[fn];W[hd];B[lb];W[ep];B[tt];W[tt]TW[aa]
+[bb][ac][bc][ad][bd][ae][be][ce][de][af][bf][cf][df][ef][ff]
+[ag][bg][dg][ah][bh][ch][jh][ji][ki][bj][cj][lj][ak][ck][al]
+[bl][bm][cm][qm][an][cn][dn][on][pn][ao][oo][po][ap][bp][np]
+[aq][nq][kr][mr][ks][ms]TB[ea][fa][ga][ia][ja][ka][la][ma][na]
+[oa][pa][qa][ra][sa][eb][kb][mb][nb][ob][pb][qb][rb][sb][mc]
+[oc][pc][qc][rc][sc][md][nd][od][qd][rd][sd][me][ne][oe][pe]
+[re][se][mf][nf][of][pf][qf][rf][sf][ng][og][pg][qg][rg][sg]
+[nh][oh][ph][rh][qi][gj][km][lm][mm][in][jn][ho][io][gp][hp]
+[ip][sp][fq][hq][qq][rq][fr][gr][sr][fs][gs][qs][rs][ss])
+(;W[jo];B[kp];W[ko];B[io];W[hp];B[kr];W[kq];B[js];W[lp]
+(;B[lr])
+(;B[kn])))
+(;W[jp]))
+(;W[eb]
+(;B[fb];W[ea];B[ec];W[dc])
+(;B[ec];W[dc];B[fb];W[da])))
+(;W[gf]))
+(;W[om];B[nn];W[nm];B[mn];W[mm];B[kn];W[jo]))
+(;W[jd]C[JB: Thjis looks better.  But it can still be cut off.  See other variation]
+;B[id];W[je];B[if])
+(;W[je]TR[ic][mh]C[JB: This stone has a decent chance of making it out.
+
+Note the location of the two triangled stones.  Then look up 'sector lines' on Sensei's library.]
+;B[ie];W[if]))
+(;W[rm]
+(;B[sm];W[rk]
+(;B[qm];W[rj];B[pn];W[qg])
+(;B[rj];W[sl];B[ri];W[sn];B[sq];W[nk]))
+(;B[rj];W[sl]
+(;B[rk];W[ri])
+(;B[sk];W[rk]))
+(;B[ri];W[rk];B[rj];W[sl])))
+(;W[oi]C[Daedin: Simply jumping seems better.
+JB: Usually that would be true.];B[ok];W[of]))
+(;W[qc];B[qd];W[rd];B[re];W[rc];B[pc];W[pb];B[ob];W[sb];B[sd]
+;W[ra];B[ph]LB[pj:A]C[Daedin: Or something like this. I did not like this option, because White does not gain that much, and Black now seems to have something solid both on the right and at the top (reduction still seems possible around A).]
+)
+(;W[pj];B[qj];W[ph]C[JB: Play lightly, and do not get trapped.]
+;B[pf];W[mi])
+(;W[pe]C[JB: A slightly riskier way of doing it...];B[qe];W[qf]
+;B[pf];W[oe];B[qd];W[pg];B[of];W[ni];B[qg];W[qh];B[rf]
+(;W[qj])
+(;W[rg])))
+(;W[ie]C[JB: Let him burden himself with a running group if he wants to.]
+))
+(;W[fc]C[JB: Threaten to kill him...];B[cd];W[ce]C[JB: ...make him live small in the corner....]
+;B[cc];W[de];B[be];W[bf];B[bd];W[nc]TR[fc][gj]C[JB: Now he is the one doomed to obscurity in the corner, and you get to play big moves.  Note that every thing between the triangled stones is probably going to be your territory]
+))
+(;B[am]))
+(;B[do]C[Daedin: This cut seemed more severe
+JB: Yes, black missed a strong move.];W[ep];B[gn];W[bo]))
+(;W[fq]LB[ep:C][eq:B][gq:A]C[Daedin: The fight seems to be getting pretty complex.]
+
+(;B[gq]TR[dp][co]C[Daedin: Peaceful option
+JB: The only reasonable move for black.  Locally, your triangled stones  are strong, and he should stay away from them.]
+
+(;W[ep];B[gp];W[jq])
+(;W[eq];B[hp]))
+(;B[ep]C[Daedin: I don't really like this for Black
+JB: Yes, it is bad for black, giving you territory and walking into a hane at the head of two stones.]
+;W[eq];B[gp];W[gq])
+(;B[eq]C[Daedin: I have tried a few variations, and it seems Black can do something here.
+JB: Black has nothing constructive here. He ends up playing a cross-cut one move behind because you have the extra extension at D4 already in place.  The most he can get is influence to the north, which is overconcentration; or he can get influence to the east, which in neutralized by your group over there.]
+;W[ep];B[er]
+(;W[fr];B[gq];W[gr];B[hq]
+(;W[hr];B[cq]
+(;W[dq]C[Daedin: if White plays like this, Black can play B4 first]
+;B[bp]
+(;W[bo];B[dr]C[Daedin: White is in trouble here])
+(;W[cr];B[br];W[dr];B[bo];W[fo]))
+(;W[bp]C[Daedin: I don't see Black living here]
+(;B[bq];W[es]
+(;B[dr];W[ar];B[aq];W[ds];B[cs];W[br])
+(;B[bs];W[dq];B[ar];W[cr]))
+(;B[br];W[dq];B[dr];W[bq];B[ar];W[bs])))
+(;W[dr]LB[fo:A][go:B]C[JB: This secures it for you, and you have the threat of A followed by B, making him into a dumpling]
+))
+(;W[gq];B[cq];W[dq]
+(;B[dr];W[bq];B[cp];W[bp])
+(;B[cr];W[dr];B[bp];W[bo];B[ds]
+(;W[ap])
+(;W[ar];B[aq]))))))
+(;W[fp]LB[fq:A]TR[dk][el]C[Daedin: Something like (or at A) this could maybe be playable to avoid Black's F4, but the center group becomes under attack.
+JB: Yes, it is an inevitable consequence of trying to run the wrong direction.  With two moves ( marked with triangles ) you have managed to get your cutting stone ONE space away from a stronger group.]
+;B[fl];W[fk];B[gk];W[gj];B[hk];W[fj];B[hi];W[hj];B[ij];W[fh]
+;B[gh];W[fi];B[fg];W[eh];B[eg];W[dh];B[hg];W[gf];B[gg];W[fd]
+C[Daedin:]))
+(;W[ej]C[JB: If you are determined to fight, this gets you more liberties.]
+)
+(;W[cg]C[JB: But D10 is not that important.  Strengthen yourself, take some territory.  Then maybe play E10.]
+))
+(;W[cj]
+(;B[bi];W[cl];B[dk];W[dl];B[ek];W[bm];B[ei];W[fm]C[Daedin: I am not sure that this trade-off is good for White, as Black is solid and can now attack White. The bottom is getting huge though.]
+;B[fc])
+(;B[bl];W[bi];B[ak];W[ch])))
+(;W[ci];B[bi];W[ch];B[bg];W[bh];B[ah];W[cg];B[bf];W[ce]C[Daedin: Maybe something like that]
+)
+(;W[ck]C[JB: Threaten to separate him...];B[bk];W[cl]C[JB:...threaten again...]
+;B[bl];W[dm];B[cn];W[dn]C[JB:...and you get a big wall facing your super-ponuki.  It is an easy win for white from here.]
+))
+(;W[nc];B[lc]
+(;W[qc]C[Daedin: I do not really like this for White.];B[qd]
+;W[pc];B[od];W[nb];B[me]C[Daedin: White does not gain much while here it is Black who builds a moyo]
+)
+(;W[qf]C[Daedin: Other possibility.
+JB: I think that this is ok for you.]
+(;B[nd]C[Daedin: Joseki is here...];W[qc];B[pc];W[qd];B[pe]
+;W[qb];B[pb]C[Daedin: However Black's moyo get strongly reduced]
+
+(;W[dj])
+(;W[gc]))
+(;B[pf]C[Daedin: When there is no stone at R9, this is not joseki]
+;W[pg];B[of];W[qd];B[qe];W[re];B[pe];W[rg];B[qc];W[rd]
+(;B[qh];W[qg];B[og];W[ph];B[qi])
+(;B[og];W[ph]C[Daedin: This variation is not recommended for Black because his stones are overconcentrated at the top. However, because of R9, it seems possible like in the variation?]
+)))))
+(;B[po];W[mq]C[Daedin: Simply this may be better for Black]
+))
+(;W[ro];B[rq];W[op]C[Daedin: White seems awfull thin here]))
+(;B[qr];W[oq];B[pr];W[op];B[ro];W[qn]C[Daedin: Feels like White is not that bad off.]
+))
+(;W[ro];B[qp]C[Daedin: Don't know what are White choices here really]
+
+(;W[on];B[np])
+(;W[qm])
+(;W[ql])
+(;W[po];B[np];W[pk]))
+(;W[oo];B[np];W[nn]C[JB: This is better than the heavy shape that he could have forced you to make. ( Although it is still falling into black's plan's of making territory while chasing. )]
+))

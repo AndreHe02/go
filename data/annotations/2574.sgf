@@ -1,0 +1,90 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.14]
+
+PB[go123]
+PW[zee1]
+KM[6.5]
+DT[2003-04-20]
+PC[The Kiseido Go Server (KGS) at http://kgs.kiseido.com/]
+RE[B+Resign]
+TM[600]
+RU[Japanese]
+
+C[Hello
+I am 5k* on IGS and I have White in this game.
+Black is at least 2 stones stronger then me.
+Please provide any comments that you wish and when appropriate, add variations.
+Thanks...
+
+SD : hi, i made comments untill  move 96.
+In this game, your opponent took the lead because you let a weak group at the beggining, that gave him a chance to launch a severe attack. 
+I'm sure you'll make signifiant progress if you try in the future to focus on 2 topics : 
+- not creating another group or attacking if you have allready  a weak group in the neighbourhood.
+- always play the urgent moves (reinforcement of a weak group, attack of a weak group) before the big moves (moves that makes big territory but threaten or reinforce nothing).
+
+Hope this will help.];B[pd];W[dd];B[qp];W[dp];B[fq];W[op]C[I am trying  to prevent black from having a big moyo
+SD : this seems possible.];B[lp];W[on];B[qn]
+(;W[qq]C[SD : i think this attachement is a little bit early.]
+;B[rq];W[pq];B[rr]C[SD : black S2 move limits the white area, and white still need to stabilize his group.
+If you want to play fast in order to split the 2 black stones, i recommend you the variation beginning with white p8.]
+;W[hq]SQ[lp][fq]C[This may not be good but I do not know how to handle this situation. My aim is to separate the  marked stone at M4 from F3
+SD : it's a good idea to split, but you need first to reinforce your p4 group for 2 reasons : 
+1) it's hard to deal with 2 weaks groups in one area. First reinforce, then create another one.
+2) Giving strength to your P4 group will help you to split black.
+
+Another thing : it seems dangerous to split with a move in the third line. Also, why not playing at the very middle of the position (line J)?]
+;B[nq];W[kq]LB[ol:B][pl:D][ln:C][fp:A]TR[lp]C[SD : L3 doesn't seem very good to me : it gives black 2 forcing moves (M3 or L4).
+I would prefer to catch F3 with A, or adding a move to stabilize the white group (B, C or D)]
+;B[kp];W[jp];B[jo];W[ip];B[kn];W[fp]LB[ol:A][mp:C][lq:B]C[SD : now F4 is not an urgent move, because your J4 group is almost alive : better play at A , maybe playing first the exchange B-C.]
+;B[cn]LB[ol:A]C[SD : black is approaching a strong group. It's urgent for both player to play at A !]
+;W[co]C[SD: 
+1) P8 is far bigger.
+2) locally, i prefer C5 at C4.];B[dn];W[eq]LB[dk:C][dn:B][co:A]
+SQ[cq]C[I wanted to stabilize the white groupe in the bottom left and to prevent C3
+SD : yes but you helped black to build a position on the left board !.
+So simply play C4 allows you not to play E3.
+If you play A-B, you have to play a pincer at C, otherwise you should play C4 wihout playing the exchange A-B.]
+;B[pl]LB[co:1][fp:2][eq:3]TR[on][op][pq][qq]C[Severe move; The marked group is in trouble
+SD : yes, black lets you three times the opportunity to play P8. You would have a far better game :)]
+;W[mo]C[SD : too slow. Imagine black playing a capping move...(see variation).]
+
+(;B[lq];W[ol];B[pk];W[lo]C[forcing move to get some strength before running out]
+;B[ko];W[mm];B[ci];W[cg];B[ei];W[nc]LB[kl:A]SQ[mk]C[should this have been at N9 instead? or somewhere else?
+SD : maybe a move at A will put some pressure on black group, but black may not respond (because of black K3), so O17 seems ok.]
+;B[ok];W[nl]LB[kl:A]C[SD : too slow. Escape the other side with A.]
+;B[mj];W[kl]C[Unfortunately, this group has to run];B[jl]
+(;W[km]C[I am not sure this move is necessary, it seemed to make B stronger
+SD : yes this is helping black enclosing you :-)
+You should simply play at K9 (see var.).];B[jm];W[in]C[This is probably bad. I was expecting it to be a forcing move,
+Where should black play? L10?
+SD : yes l10 better. But the first mistake is L7.];B[io];W[ho]
+LB[kj:A]TR[in]C[SD : forgt this stone, the important is to run out with your group.]
+;B[hn];W[jk]C[Probably, should not hane! Where should W play?
+SD : L10.];B[kk];W[hm];B[gn];W[im];B[il];W[gm];B[go];W[hp];B[fm]
+;W[gl]C[
+White is getting in trouble here
+SD : yes big trouble. You cannot fight in this position.];B[ik]
+;W[fl];B[em];W[jj];B[jn]SQ[fl][gl][gm][hm][im][in]C[lost 6 stones]
+;W[nk];B[nj];W[lk];B[kj];W[lj];B[ki];W[li];B[ji];W[nh];B[ph]
+;W[qf]LB[ne:B][mf:A]C[SD : too dangerous. you still need to reinforce your white group. maybe A or B.]
+;B[pf]TR[pd][ph]C[SD : Now black has a wall that will help him to enclose the center white group.
+The position is very comfortable for black, you should'nt invade at R14.]
+;W[rd];B[qg];W[qc];B[pc];W[qe];B[lg];W[lh];B[kg];W[nf]C[SD : white is cut. better at N13.]
+;B[mg];W[mh];B[ng];W[oi];B[oj];W[pi];B[qi];W[pe];B[og]C[SD : P13 wasn't necessary. Black should try to kill white. See variation.]
+
+(;W[mk];B[gc];W[ec];B[lc];W[of];B[nd];W[pb];B[ob];W[qb];B[oc]
+;W[me];B[ke];W[eg];B[fh];W[gd];B[hd];W[fd];B[fb];W[eb];B[bh]
+;W[bg];B[ag];W[af];B[ah];W[be];B[bn];W[bo];B[ao];W[ap];B[an]
+;W[bq];B[he];W[ch];B[bj];W[oe];B[np];W[no];B[po];W[oo];B[jq]
+;W[jr];B[kr];W[ir];B[gp];W[gq];B[eo];W[ep];B[ea];W[da];B[fa]
+;W[cb];B[gf];W[fg];B[gg];W[rg];B[rh];W[pg];B[qh];W[ld];B[kd]
+;W[mc];B[md];W[od];B[le]C[zee1 [?\]: read this one wrong];W[or]
+;B[nr];W[pm];B[qm];W[eh];B[fi];W[qd];B[mb];W[oa];B[nb])
+(;B[ll];W[lm];B[mk];W[ml];B[np];W[no];B[pm]C[SD : dead.]))
+(;W[jk];B[il];W[kk]LB[jh:A][ij:B][jm:C]C[SD : now you have good moves to escape (A or B), and maybe a weakness to aim at later at C.]
+))
+(;B[nl];W[mm];B[lk]TR[pd][nl][pl][qn]C[SD : now white is in big trouble. Even if white finds a way out, black will surely get a nice moyo .]
+))
+(;W[ol];B[ql]TR[ol]C[SD : the marked stones exchange reinforces your group whithout giving black lot of territory (only third line).
+Now you can use your white wall to split black position with J4.]
+;W[ip]C[SD : unless you find a particular sequence that gives you a better result, prefer a high (4th line) splitting move : it's harder for black to cap your stone.]
+))

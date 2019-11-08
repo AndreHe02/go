@@ -1,0 +1,130 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.16]
+
+PB[GNU Go]
+HA[2]
+PW[Yamil]
+WR[10k]
+KM[0.5]
+DT[2014-11-11]
+RE[W+15.5]
+RU[Japanese]
+US[Yamil]
+
+AB[pd][dp]C[Hi,
+First of all, thanks for reviewing my game.
+This is a game I played against GNUgo. I'm playing handicaped games as W because I used to play in a very conservative way. In this way, I hope to improve my attack.
+I had many doubts during the game, so I will try to comment it in detail.
+I hope you find it interesting.
+Eysenck
+
+
+To start with, I'm skeptical that playing Gnugo is a good idea.  You'll pick up
+bad habits that a human opponent at a similar level of competance wouldn't
+allow.
+
+I'll point out some of GNUGo's blunders, even though it isn't listening.]
+;W[qp];B[op];W[oq];B[nq];W[pq];B[np];W[gp]C[Maybe taking the upper left corner was better. I played here to avoid the developing of a moyo on the lower side.]
+;B[jq];W[dq];B[cq];W[eq];B[cp];W[dc];B[fo]
+(;W[df]C[Now I take the upper left corner in a rather ambitious way, but the lower left groups looks weak.
+
+Too weak in retrospect, but it's understandable that you might not see it as urgent.]
+;B[cl];W[nc];B[kd];W[ne]C[I play here to split the two B stones.]
+;B[pf];W[qc];B[qd];W[pc];B[qo];W[po]C[
+This isn't good.  It's sure to get cut off and your group bottom-left is still dangerously weak.]
+;B[ch]C[I could see this B move coming. Maybe I should have fully enclosed the corner, but as I said, I'm trying to improve my attack.]
+;W[hd]C[This move looks strange now. Could you tell me what you think and suggest alternatives?]
+;B[gr]C[Now my lower left group really looks in trouble.
+Actually, besides the upper right, all seems vulnerable in a way or another.
+The upper left has an opening for a slide at b14.
+For lower right, there is a cut at q4. But that would end up in a stair favorable for W.]
+;W[hr]C[
+This is a "digging in" kind of move, which if black presses at H3 isn't pretty for white.]
+;B[qn];W[pp];B[qi];W[ql]C[
+This is a "fight everywhere" sort of move, but questionable at this point.  You got
+a freebie when black broke off the attack on the the bottom.  This is going to create
+a weak running group based on R8.];B[rp];W[rq];B[hq];W[gq];B[ir]
+;W[fr];B[hs]
+(;W[dr]C[This is too little.  No matter how it is (correctly) played out, you'll end
+up with 1 eye and running, so better to run first, before you're more 
+closed in.];B[go];W[cr];B[br];W[bs]
+(;B[bf]C[
+It's inexcusable that black left the corner here; you got a freebie.  Even so, given
+that black has blundered, I would play B3 and seal the deal, and accept some
+shrinkage in your top corner, in exchange for no problems on the bottom.]
+;W[be];B[eh];W[bg];B[hp];W[ep];B[eo];W[fp];B[pm];W[pn];B[qm]
+;W[hg];B[rl];W[om];B[hi]
+(;W[jm];B[bh]
+(;W[af]C[
+This is a small move that preserves territory, but the big questions at this point are the face of the center
+and top.  By taking these few points, you're giving black sente which is huge.]
+;B[ng];W[lf];B[kf];W[kg];B[ic];W[hc];B[kb];W[jj];B[le];W[me]
+;B[md];W[mc];B[lc];W[je];B[hb];W[gb];B[mb];W[nb];B[la];W[ib]
+
+(;B[hl]C[Once again, this is pure incompenence by black; you killed a huge group
+that didn't deserve to die.];W[jf];B[rc];W[rb];B[rd];W[gi]C[
+This isn't the right place, since (as seen) you get cut off.  This is where
+playing a better move a few turns ago is the key.];B[gh];W[hh]
+;B[fi];W[gj];B[hj];W[fk];B[gk];W[fj];B[ff];W[ei]
+(;B[fl];W[fh];B[eg];W[gg]C[
+Once again you got a huge benefit from black's blunder.];B[di]
+;W[dj];B[cj];W[dk];B[ck];W[ef];B[fg];W[cg];B[ni];W[ol];B[pl]
+;W[fe];B[lo];W[lm];B[in];W[gf];B[dh];W[ke];B[ld];W[jc];B[ro]
+;W[ok];B[nd];W[od];B[sb];W[qa];B[na]
+(;W[ob]C[
+Automatically responding isn't  always the right thing.  You have a severe problem with a cut at p15]
+;B[oa];W[pa]
+(;B[or];W[pr];B[nr]
+(;W[oe];B[jb];W[id];B[sq];W[rr];B[el];W[dl];B[dm];W[ek];B[bq]
+;W[ah];B[lh];W[jh];B[bi];W[lj];B[nk];W[nl];B[on];W[oo];B[nn]
+;W[sr];B[ai];W[mk];B[jl];W[kl];B[il];W[pk];B[qk];W[pe];B[rf]
+;W[qe];B[re];W[qf];B[qg];W[of];B[pg];W[og];B[oh];W[mg];B[mh]
+;W[mn];B[no];W[im];B[nj];W[ml];B[kn]
+(;W[kk];B[km];W[mo];B[mp];W[ln];B[ko];W[ik];B[hk];W[os];B[ns]
+;W[ps];B[ii];W[ji];B[lg];W[mf];B[sp];W[pj];B[pi];W[qj];B[rj]
+;W[li];B[ih];W[ig];B[kh];W[ki];B[fs];W[es];B[gs];W[nm];B[oj]
+;W[mi];B[nh];W[cs];B[ar];W[dg];B[ag];W[cf];B[ah];W[ra];B[jk]
+;W[ij];B[sc];W[hm];B[gl];W[em];B[fm];W[tt];B[mj];W[tt];B[nf]
+;W[tt];B[sa];W[tt];B[as];W[tt]C[
+Summary: you won based on a series of blunders by black.
+Your tactics are a little weak but they're not being challenged by playing Gnugo, so you're
+getting away with things that you shouldn't.
+
+Step back and look at the bigger picture, so you don't have to fight
+your way out of tough situations.];B[tt]TW[aa][ba][ca][da][ea]
+[fa][ga][ha][ia][ja][ka][la][ma][na][oa][ab][bb][cb][db][eb]
+[fb][hb][jb][kb][lb][mb][pb][qb][ac][bc][cc][ec][fc][gc][ic]
+[kc][lc][oc][ad][bd][cd][dd][ed][fd][gd][jd][kd][ld][md][nd]
+[ae][ce][de][ee][ge][he][ie][le][bf][hf][if][kf][jg][gh][fi]
+[ej][kj][lk][ll][mm][fq][qq][er][qr][ds][qs][rs][ss]TB[sd][se]
+[sf][rg][sg][ph][qh][rh][sh][ci][oi][ri][si][aj][bj][sj][ak]
+[bk][rk][sk][al][bl][ql][sl][am][bm][cm][em][gm][hm][im][jm]
+[rm][sm][an][bn][cn][dn][en][fn][gn][hn][jn][rn][sn][ao][bo]
+[co][do][ho][io][jo][so][ap][bp][ip][jp][kp][lp][aq][iq][kq]
+[lq][mq][hr][jr][kr][lr][mr][is][js][ks][ls][ms])
+(;W[km];B[ki])
+(;W[km];B[ki]
+(;W[kj];B[ji];W[jk];B[lk];W[ln];B[nm])
+(;W[ji];B[kj];W[kk];B[jk])))
+(;W[jd];B[oe];W[oc];B[mf]))
+(;B[oe]C[
+Black plays here and you look pretty dead, which would be an enormous reversal in score.]
+;W[ma];B[na];W[kc];B[lb];W[oc];B[qb];W[pb];B[sc];W[jb];B[sa]
+;W[jd];B[ra];W[qb]C[
+The point isn't that this reading of the outcome is set in stone.
+It's that it's complicated, and you're better of not depending on being right about
+something complicated if it can be avoided.]))
+(;W[oe];B[ob];W[oc]C[
+Black's position isn't improved by this];B[mf]
+(;W[og];B[of];W[nf];B[mg];W[pe];B[qe];W[qf]
+(;B[pb];W[qb])
+(;B[pg];W[qg];B[oh];W[oa];B[pb];W[pa]))
+(;W[pb];B[oa];W[pa];B[ma];W[kc];B[jd];W[id];B[lb];W[jb])))
+(;B[fh];W[fl]C[
+This is an unreasonable position for white.  You have no hope of living inside.]
+))
+(;B[jb];W[ha];B[jd]))
+(;W[hl]))
+(;W[gi];B[gh];W[gj];B[hj];W[fh];B[fg];W[fi];B[eg]))
+(;B[cs]))
+(;W[ho]))
+(;W[fp];B[eo];W[df];B[dj]))

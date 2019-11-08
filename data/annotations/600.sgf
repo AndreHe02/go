@@ -1,0 +1,100 @@
+(;FF[4]GM[1]SZ[19]AP[SGFC:1.13b]
+
+GN[vole-JamesL(B) IGS]
+EV[A TOURNAMENT game played on the Internet Go Server]
+PB[JamesL]
+BR[15k*]
+PW[vole]
+WR[11k*]
+KM[0.5]
+DT[1998-05-15]
+PC[IGS: igs.nuri.net 6969]
+RE[W+Resign]
+TM[600]
+US[Brought to you by IGS]
+
+;B[pd];W[dp];B[pp];W[dd];B[pj];W[dj];B[jd]C[All good.];W[nq]
+;B[lq];W[no];B[pn];W[kp]C[All good up to here.]
+(;B[mp]C[Not good, but not very bad.  The stone on M3 is weak, and separated from friendly forces on the right.  This exchange - 13, 14 (N4, O4) helps White, since it makes him stronger, and gives him increased effect against the bottom right corner.
+
+
+
+The usual move here is L3];W[np];B[mo]C[Right idea: separate the W stones.  Without this wM4 will join the W forces.]
+;W[nn];B[pl]
+(;W[pr]C[Suspect.  The natural exchange w18, bR3 removes the possibility of the invasion at R3, and does not give the w group 2 eyes: i.e. it must still get out into the  middle.  Probably better to get out into the middle; later, when the w group  on the O line is safe, w can invade the corner]
+;B[mr]C[Bad. Either R3 to keep up the pressure on the O line w group, or strengthen the black group with L3.  This does not even threaten to cut (see var'n).]
+
+(;W[nr]
+(;B[jr]C[Does not need to be low.  Avoid 2nd line moves early on if possible.]
+;W[iq];B[ir];W[hq];B[fc]C[Should not tenuki here.  Lower side is very hot.  R3 is still very big; and the bottom black group is still very vulnerable, it should move out to the centre, strengthening itself, and weakening the w stones either side.]
+;W[dg]C[D14 is better.];B[jj]C[Good idea.];W[pg];B[qf];W[qg]
+;B[ri];W[pf];B[qe];W[qi];B[qj];W[pi];B[nk]C[w 34 and 36 do not do much to strengthen the weak w group.  A jump towards the middle would be better instead.]
+;W[md]C[Very dangerous: b can split the w stones into 2 weak groups.]
+
+(;B[oc]C[(Too passive).];W[kc];B[jc];W[hd];B[hc];W[gd];B[gc]
+;W[fd]
+(;B[db];W[ec];B[eb];W[mh];B[cq]C[A w corner territory here is already undermined by bJ2.  White should punish this by playing C4.
+
+
+
+C6 is better]
+(;W[dq]C[Defends non-existent territory to the right: should be C4.]
+;B[dr];W[er];B[cr];W[gq]C[!
+
+
+
+F3 better if you play this side.  Other side still better.]
+;B[cp];W[co];B[bo];W[dn]C[C6 much better.];B[eo];W[do];B[bn]
+;W[gm];B[jm];W[kn]C[Alarm bells should ring now for black about his group at the bottom.: but he plays the other side.]
+;B[qq];W[mq];B[lp];W[lr];B[kr];W[ms];B[kq];W[mn];B[ko];W[jp]
+;B[bc];W[cc];B[cb];W[bd];B[bb];W[id];B[ic];W[hh];B[lj];W[kd]
+C[not necessary to play in contact with a strong group.];B[je]
+;W[kf]C[Nice.];B[cl]C[Good.  I would have thought even with the big capture at the bottom, white is well behind.]
+;W[cm];B[bm];W[dl];B[ck];W[cj];B[ke];W[le];B[jf];W[kg];B[ni]
+;W[nh];B[oi];W[oh]C[Very slow.  What is the worst that could happen?]
+;B[jn];W[jo];B[km]C[the ko at M6 looks better.
+
+But playing simply to secure the win is fine.];W[ln];B[fr];W[fq]
+;B[es];W[gr];B[eq];W[ep];B[er];W[gs];B[hl];W[gl];B[hm];W[hk]
+;B[ik];W[hj];B[hf];W[gf];B[hg];W[gg];B[qr];W[rh];B[rj];W[rf]
+;B[re];W[pe];B[qd]C[R17 gives a stronger eye shape, although this gives away less at the edge.]
+;W[nd];B[mb];W[nc];B[nb];W[jb];B[ib];W[ja];B[ia];W[lb];B[gn]
+;W[fn];B[go];W[fo];B[bj];W[bk];B[ak];W[dk];B[bl];W[bi];B[bh]
+;W[ai];B[ci];W[ch];B[la];W[ma];B[na];W[kb];B[od];W[ki];B[ps]
+;W[os];B[qs];W[pq];B[po];W[kj];B[kk];W[ml];B[li];W[lh];B[ll]
+;W[mk];B[lk];W[nl];B[ok];W[om];B[oe];W[nf];B[ne];W[me];B[of]
+;W[og];B[ih];W[hi];B[io];W[ji];B[jh];W[he];B[kh];W[ii];B[jg]
+;W[mf];B[ad];W[be];B[ae];W[af];B[ac];W[bf];B[ie];W[pm];B[qm]
+;W[il];B[im];W[se];B[sd];W[sf];B[sh]C[The move at S17 is needed, but this is fine of course, but b must keep in mind that S17 is urgent from now.]
+;W[rg];B[ip];W[jq];B[hp]C[Very small to give up sente.  How about D17?]
+;W[gp];B[hn];W[rc]C[Alarm bells should ring.  read, then play R17 (var'n).]
+
+(;B[rd];W[pb];B[ob];W[qb]
+(;B[sb]C[The 2,1 point is a good try, but see variation.];W[sc]
+;B[rb];W[qc]
+(;B[pa];W[ra];B[pc];W[sa];B[oa];W[mc])
+(;B[ra];W[qa];B[pc];W[sa];B[rb];W[mc];B[sb];W[ra];B[sb];W[ka]
+;B[pa];W[oa]))
+(;B[rb]
+(;W[sb];B[ra];W[qc];B[sc];W[qa];B[pc];W[sa];B[ra];W[rb];B[pa]
+)
+(;W[ra];B[sb];W[qc];B[sc];W[mc];B[pc])))
+(;B[qc]
+(;W[rd];B[rb];W[sc];B[sb];W[sd];B[dc])
+(;W[rb]C[doesn't work];B[rd];W[pb];B[qb];W[qa];B[ra]
+(;W[sa];B[pa];W[oa];B[ob];W[sc];B[pc];W[pa];B[ra])
+(;W[pa];B[ob];W[sa];B[sc];W[ra];B[sb];W[mc]))))
+(;W[cp];B[dq];W[eq];B[er];W[fq];B[fr];W[gr];B[bp];W[bo];B[bq]
+;W[cn];B[ln]C[(R3 is still huge for both sides).]))
+(;B[mf]C[The w stones are horribly weak.  B will gain somewhere.]
+))
+(;B[ne]C[One side or the other will suffer.]))
+(;B[ip];W[kq];B[kr])
+(;B[kq])
+(;B[jq]))
+(;W[qq];B[oq];W[nr];B[or];W[os];B[pq];W[rr]))
+(;W[kq];B[lr];W[mn];B[lo];W[km];B[ln];W[lm];B[jn];W[ip];B[jo]
+;W[nl]C[b has a horribly weak group to look after.  White will let it out, but at the price of a lot of secure territory.]
+))
+(;B[kq];W[jp];B[jq];W[ip];B[lp];W[lo];B[hq];W[go];B[gq]C[Usual joseki goes something like this.   It is quite a recent joseki.]
+))

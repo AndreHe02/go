@@ -1,0 +1,73 @@
+(;FF[4]GM[1]SZ[19]AP[SGFC:1.17]
+
+GN[2010-07-29a]
+PB[Crystal]
+BR[20k]
+PW[OmnipotentEntity]
+WR[20k]
+KM[6.5]
+DT[2010-07-29]
+RE[W+R]
+
+C[greetz
+
+i'm pzykr 10k and first i'd like to apologize for taking so long to do this review. i like to have them done within a week but this one will push two weeks, i think.  i was out of town last week.
+
+i'm encouraged that you want your game reviewed; it shows interest and initiative. it is a difficult game to review:  in a beginner's game often i can discern no plan upon which to comment.  so i will make some general remarks about the opening and about group safety, etc, that i hope you will find helpful, as well as commenting on specific moves in the game.
+
+you should set your sgf viewer to show all move numbers as i will refer to black's 17th move as B17 rather than as the stone at r10.  i may refer to a stone at a particular point, in which case the letter will be lowercase as in the example above. all references to empty points will be lowercase letter+number (eg k10) except in the corners where it is traditional to refer to the 3-3 point, the 3-4 point, etc.]
+;B[qq]C[this is a nice, solid, territory-oriented opening move. it's on the 3-3 point, called san san in japanese.  it's rather small as it doesn't surround much territory, but it's pretty secure. since it is small, it's better to play only one such move during the game; one usually has the opportunity to play in two corners while the opponent plays in the other two corners. other common opening moves are on the 3-4 point, 4-4 point, and even (rarely these days) all the way out to the fifth line, maybe 4-5 or 3-5. 5-5 is uncommon.  one starts in the corner because it's easier to make territory in the corner, easier to make a secure base there. there is a proverb to help one remember always to start in the corners and where to play thereafter: "corners are golden, sides are silvery, the center is as a useless piece of straw."]
+;W[pp]C[nice reply to B1: this is the standard response. there's a little trade-off here.  black takes secure territory in the corner but white plays on the fourth line, which is called the line of influence or the line of power. the third line is the line of territory, the second line is the line of defeat. influence? over what? power? good questions. previous note quoted a proverb that said the center is as a useless piece of straw... but it is still important to establish a balance between secure territory along the edges and enough stones facing the center to be able eventually to carry out operations there. in the center later will be a lot of fighting taking place.  that's why one builds influence or power on the fourth line: when the fighting comes one will be prepared.]
+;B[oq]LB[pq:a][op:b][ro:c][om:d][mr:e]C[not the usual reply. usual is for black to play at a to protect the corner territory.  white b, B c, W d, B e often follows and forms what is called a joseki, which means a shape in the corner in which each player gains about an equal advantage. in this case, black would get a nice corner territory and an opportunity to grow along one side or the other while white gets a strong shape facing the center which should be useful later. note that not just any play in the corner is joseki; though many times we refer to any shape in the corner as joseki such usage is sloppy language.]
+;W[pq]C[white immediately takes advantage of the opportunity black opens up]
+;B[pr];W[qr];B[rr];W[or]C[white sacrifices W6 to good effect]
+;B[qs];W[nq]C[one should have already seen that this was going to be a ladder...
+can you see it? B3 cannot escape];B[rs]C[this move was not necessary: white couldn't play there without dying instantly. what was the purpose of the move? one should have an overall plan for one's game and each move should contribute to the objectives of the overall plan... black might have played at r4 to make the territory on the side a bit bigger. there are other moves possible in the area. also, the shape of B1, B5, B7, and B9 is so strong in the corner black might have played elsewhere entirely. playing elsewhere is called tenuki in japanese. (part of the charm of learning go is learning the japanese go words that describe important parts of the game and for which there are no english words.)]
+;W[op]C[ok. it couldn't escape but it is often advised to capture ladder stones early. the reason is because black could play what is called a ladder breaker somewhere around c16 or so and get a second move in the area "for free" if then white felt compelled to capture the ladder stone to keep it from running out.  the concept of a ladder-breaker, if you're not familiar with it, is somewhat beyond the scope of this review: please see sensei's page on the internet....
+
+
+http://senseis.xmp.net];B[sr]C[a very small move: the opposite of what we strive for in the opening.  we look for the biggest moves we can make in the opening, indeed, all throughout the game.  look how all the stones are clustered in the lower right corner and we're already up to move 13! the early stage of the game is called fuseki, which means a scattering about of the stones.  by move 13 between professionals there are usually stones all over the board, at least in the corners and along the sides....
+
+it is usual among more experienced players for all four first moves to be made in the corners, one stone in each corner.]
+;W[qp];B[rq]C[why would B15 not be played at s4? i don't understand...]
+;W[dd]C[when i saw finally a move outside that lower right corner i actually felt a physical sense of relief! 4-4 point is well chosen to work with the nice thickness white has in the lower right, though some might argue that being in the diagonally opposite corner the relationship is tenuous: stronger would be either of the parallel corners but particularly the lower left (because black has B15 the lower left is slightly better than the upper right)
+
+these kinds of evaluations are important in the opening and the lower the rank the less attention players pay to them... professionals spend most of their time during games on the openings...
+
+W16 is definitely a big point (oba)];B[qj]C[in the spirit of things, black comes back with an oba (large point) too.  corners are golden, sides only silvery... and B17 just feels a little low (ie, close to the edge of the board) to me. if one were going to play on the side instead of in the corner, i think on the star point (hoshi) at q10 would be better, though it would be difficult to explain why i think so...]
+;W[qm]C[a proverb says "don't play close to thickness"  W12, W2, W14 form a thick wall; W18 is way too close to it.  one alternative here would be to play on r13 and take away black's two point extention to make a base. actually, that comes close to being "the only move" here, imho.... one wants to drive the opponent towards one's thickness usually, breaking the opponent's weaker stones against one's stronger thick stones]
+;B[nj]LB[qg:A]C[this is ok for strong players employing special strategies; for the rest of us, the important play is to establish a base on the side by making a two point extention at A.  two stones in this shape on the third line have a good chance of being able to make life. this is very important! one should always remember to try to make some of these shapes during one's games]
+;W[qd]C[a corner move, good. still one empty corner...];B[dp]
+C[ah! nice:)];W[qg]C[the normal territory-making move in the corner from the 3-4 stone would be the enclosure move (shimari) at p17. i like your choice because it takes away any chance of black making a base and sets those two stones floating in a sea of white stones.]
+;B[cj]C[good play. another big point (oba). too, this observes the principle of keeping a balance between stones on the fourth line (B21) and the third line (B23).]
+;W[cf];B[hp];W[fp]C[this move came as a bit of a surprise to me; everything had been moving along smoothly: i'd expected white to play the oba around k16 to tie the top together...
+
+but, ok, let's start a fight!];B[fn];W[cq]C[this is the vulnerability of the stone played at the 4-4 point: it can be invaded at 3-3 usually.]
+;B[eo]C[better would have been either to  attach directly onto W28 or to play betwee W28 and W26 to cut them apart.  B29 doesn't put any pressure anywhere...]
+;W[eq];B[dl];W[cp];B[dq];W[dr];B[cr];W[br];B[ds];W[cs];B[eh]
+C[trying to figure out what the purpose of B39 was supposed to be?]
+;W[di]C[white playing aggressively];B[dg];W[ch];B[cg];W[bg]
+;B[dh];W[ci];B[bh];W[bi];B[ah];W[ag]C[this was just a lack of reading on black's part (reading means looking ahead at what happens if this move follows that one, etc, etc). so was B37, come to think of it.]
+;B[id]C[this is actually almost a nice move; usual would be on the third line and no matter what white does, black can make two point extension on one side or the other to make a base. anyway, it's in the direction of nice because it occupies the last large unoccupied space (big point, oba) and because it wants to work well with the black stones attached to B39.]
+;W[gc];B[ld]C[two point extension, yes, but on the ~fourth~ line and it doesn't work to secure territory. that's why the third line is called the line of territory...]
+;W[od];B[lg];W[le];B[me];W[ke];B[kd];W[je];B[ie]C[this leaves a weakness to exploit at k16. a concept to learn is "thickness;" one must learn to play thickly, which means strongly without leaving weakness and "holes" and yet one doesn't want to play "heavily" as for example black is in the lower right corner. thickness is good, heaviness, not so good. at the top, thick would have been B61 at k16.
+
+watch how white exploits this weakness (can be called thinness) over the next several moves...]
+;W[jd]C[first pushes through];B[jc];W[md]C[then cuts];B[nd]
+;W[mc]C[extends, naturally];B[lc];W[ne]LB[mf:A]C[black might have a better fighting chance by playing at A and cutting white's stones apart, but in the process black's going to lose the two stones B59 and B53. but black needs to remember the whole point was to try to help those stones over on the left side, B39 and company...]
+;B[nc];W[mf];B[mb];W[me];B[jf]C[i'm guessing that black's thinking about that B39 stone, cause else how could black overlook or just not attend to the dual cutting points at m18 and o18? instead with B73, black created yet another cutting point...]
+;W[nb];B[oc];W[lb];B[ob];W[kc]C[white's ideal outcome: +6 points... 3 points of territory, 3 prisoners, plus all his stones at the top are now connected and very thick]
+;B[na];W[pc];B[pb];W[jp]C[good timing. i'm sitting here arguing with myself whether j3 might have been a better use of all that nice thickness on the right? one doesn't want to touch a stone one is attacking, and W82 is a nice pincer... could you get a little more pressure out of j3? i dunno....[i do realize j3 doesn't touch B25...but it comes as close as possible without touching...\]]
+;B[fl];W[fj];B[ck];W[cn];B[el];W[fi];B[fm]C[either 87 or 89 could have been played at d6 to create some eyespace. as played they both struck me as heavy, not thick, mostly because they were slow and small and particularly because they did not create eyespace.]
+;W[hl];B[gf]LB[fg:A]C[this is a situation where black needs to pull the stones out. there's an invisible line between W16 and W88, some call it a sector line, that hems black in. reaching out from the direction of the B61 stone is incorrect: the movement must be from the B39 stone.  black should break the sector line by playing at f13 (A). beware becoming surrounded! when that happens either move your stones out, makes eyes, or be prepared to let them go... A (f13) is the vital point in this position.]
+;W[fg]C[so white occupies that precise point! well played];B[ef]
+;W[df];B[eg];W[ff];B[fh];W[gh];B[ei];W[ej];B[ee];W[fe];B[de]
+;W[ce];B[ed];W[ec];B[fd];W[gd];B[fc];W[fb]C[painful (for black) as it was predictable]
+;B[eh]C[pure rage and frustration, i guess....];W[hn]C[the logical point to occupy to try to kill the large "dragon" on the left, the large group without eyes...]
+;B[bc];W[cc];B[ab]C[normally played at c18...];W[jh]C[i've lost the thread...what's this a part of? killing the dragon? playing the upper left corner?  since it seems to get kind of random after this, and i'm out of time for this review anyway, this will be my last comment...
+
+i've enjoyed working on this game. hope you get as much out of reading it as i did writing it! remember: keep playing! it gets better and better!]
+;B[ld];W[ic];B[ba];W[cb];B[ad];W[nm];B[bb];W[bd];B[kk];W[mk]
+;B[lj];W[mj];B[mi];W[li];B[ki];W[lh];B[kh];W[mh];B[nh];W[ni]
+;B[mg];W[mi];B[ml];W[ng];B[oh];W[kg];B[kf];W[lf];B[jg];W[lg]
+;B[ji];W[ih];B[hh];W[if])

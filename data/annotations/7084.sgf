@@ -1,0 +1,171 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+PB[gnugo]
+PW[Paulo]
+WR[7k]
+KM[5.5]
+DT[2009-01-21]
+RE[B+13.50]
+RU[Japanese]
+
+C[Kamelo88:
+To the reviewer: Hi.
+This time I (white) play with GNU Go (black).
+My opening is very weak.
+What I should do?
+Thank you!
+
+(sorry for my poor english. I am brazilian.
+I read well, but I don't speak/write well).
+
+
+erker: Hello Kamelo88!
+I will comment not only on the opening but also on the middle game. Some of the moves later in the game illustrate principles that are important in the opening too.
+
+The short version of my advice is this:
+Have a goal, have a plan, make sure your plan works.
+
+Ok, that was a bit short. Here is the longer version:
+
+GOAL:
+If you don't know where to play, look at the board and ask yourself the following questions:
+1. Do I have a weak group? -- Goal: defend.
+2. Does my opponent has a weak group? -- Goal: attack.
+3a. Can I increase my own territory (or influence)? -- Goal: get it.
+3b. Can my opponent increase his own territory (or influence)? -- Goal: deny it.
+
+The important point is that (1) beats (2) and both beat (3a/3b): Don't go for territory or attack the opponent if there's a weak group of yours. (This group gives the opponent  a chance for counter attacking.) And attacking is better than profit. (This is because if done right, attacking leads to profit anyway. We will see this tricky point later in the review.)
+
+PLAN:
+Once you have a goal, look for a move that will realize the goal. If you have more than one move, choose the one that will realize not only the primary goal but also some secondary goals. So try to defend your group _while_ attacking a opponent's group. Get some territory _and_ denying it to your opponent.
+
+DOES IT WORK?:
+Honestly that's the tricky part.
+But the good news is that in most cases it is enough to read JUST ONE MOVE ahead. Ask yourself what would be the most likely answer to your move. (What would you play in response to your move?) Do you like the outcome?
+
+This simple question ("Do I like the result of the obvious answer to my move?") is enough to rule out some of the worst plans.
+Your guess may be wrong, but that's not important. It's far better to have a faulty plan then to not have a plan at all.
+
+
+
+
+In the opening, it's easy to get lost in the possibilities and wonder in nebulous terms what might be a good next move. That's just a waste of time.
+So pick a GOAL, choose a move (PLAN), and do a short(!) reality check (DOES IT WORK?).]
+N[Ask001];B[pd];W[dp]LB[nc:A][co:E][do:D][cq:B][dq:C]TR[pd]
+SQ[cc][dc][ec][cd][dd][ed][ce][de][po][qo][cp][ep][op][pp][qp]
+[eq][oq][pq][qq]C[erker: To continue from the introduction:
+
+Is this a good move? Yes, it is (It's not the only one.), but why?
+
+GOALS: For obvious reasons, there is no weak white group before this move. And this move does not create one. So defending is not a goal. What about attacking (with White at A)? Well, the marked black stone is not weak, so a attack would not result in anything.
+That leaves getting some influence as a goal and the white stone does just that. Or getting territory with B. Other choices are C, D, E. Or one of the marked points.]
+;B[pq];W[dd]C[erker: Again, this is a good move, but not the only one.]
+;B[fq]C[erker: From what I said at move 2, it might apear that Black 5 is a bad move. If the goal for this move had been to attack the white stone, indeed it would be a bad move.
+
+But the idea of Black 5 is to restrict the influence of the White corner along the bottom (DENY) and to build a framework or some territory on the lower side (GET). It also happens to weaken the White corner stone, so it prepares for an attack later.]
+
+(;W[dj]LB[dn:A][iq:B]TR[fq]C[erker: I don't like this move.
+
+The marked Black stone weakened the White corner. A Black invasion at A would be annoying, more so if first Black enforces it's position with B.
+
+As we will see, the weakness of the White lower left corner enables Black to control the whole game.
+See the variations for ways to DEFEND the lower left corner.
+
+Of course, White _can_ leave the corner as it is and play elsewhere. But that should be an informed decision.]
+;B[iq];W[jd];B[po];W[oc]LB[nc:A][pc:C][od:D][qj:B]TR[jd][pd]
+C[erker: This is a very bad move. But why?
+
+What is it's GOAL? The marked White stone is not weak, so it is not to DEFEND. The marked Black stone is not weak, so it is no an ATTACK. Does it GET or DENY any territory or influence? Well, locally, the better spot would be A (we will shortly see why). But globally, Black build an impressive frame work on the right, so it would be better to play there (at B for example). 
+
+But most importantly, does this move pass the reality check? Does it still look good after the obvious Black answer?
+
+If Black answers at C, Black blocks your way into the corner and your stone does nothing useful anymore. If Black at D, the right side is strengthened and the White stone still looks stupid. For example after D, Black can grab the White stone with A. That wouldn't be possible with White at A.
+
+(Why are C and D _very_ likely answers to the white stone? The White stone is to aggressive! Black is forced to do something against it. Since the White stone is so close, a wide answer would not work very well.)]
+;B[pc];W[md]LB[oc:B][pc:A]C[erker: An other way to look at White 10 is whether A and B looks like they are worth the same. Would you answer Black A with White B?
+Imagine, A and B were not on the board. Would it be better or worse for White?]
+;B[fc]
+(;W[df]TR[jd]C[erker: This move is to passive, as it it a DEFENSIVE only move. See the variation for a more positive approach.
+
+But isn't your move exactly the move I recommended for the lower left corner? No, this is different! The marked White stone on the top prevents the Black stone from extending along the upper side. So the Black stone is a weak one, and therefore your GOAL should be to ATTACK -- don't let Black get away to easily.]
+;B[db];W[cc];B[dm];W[hb]LB[hc:A]C[Kamelo88: Maybe Q10?
+
+erker: Locally, A is better. But the lower left corner is still endangered and the right side is open.]
+N[Ask002];B[eo]C[erker: This is the third approach move to your corner. You should have a _very_ good reason to let this happen.
+The problem is _not_ that your stone will die. But you allow Black to push you arround. As the result, Black can build a huge framework on the bottom.]
+;W[cn];B[el];W[dr];B[cb];W[bb];B[og];W[cm]LB[ge:A][qg:D][qj:B]
+[qm:C]TR[cb][db][fc][cn][dp][dr]C[Kamelo88: Maybe Q10?
+Now, I don't know what I have to do.
+The computer have a bigger moyo than me.
+What I should do?
+
+erker: You invested three stones to enforce your corner. That is not very effective. The Black moyo is a direct result of the weak White corner.
+
+But now, the three marked White stones are not weak. So there is no need to DEFEND them with White 26.
+Instead, you should concentrate on ATTACKING the weak marked Black. But do not try to capture it with something like White A. Even if it works, it's not big enough.You should go for a large scale capture.
+But before you do that, I think it would be best to play at B.
+Please, notice that White B is not a weak stone: it can extend to C or D, so there is no danger. As B is such a good point, Black will try to play there first to prevent a White invasion (as in the game).]
+N[Ask003];B[ql];W[pf];B[of];W[qi];B[qh];W[ph];B[pg];W[qg];B[rh]
+;W[pi];B[ri];W[qj]LB[mi:A]C[erker: This is bad shape. Your stones on the right do not have enough room for two eyes on the side. So they are weak. Your goal should be to help them. The only chance is to jump into the center (like at A).]
+;B[nc];W[mc];B[nb];W[mb];B[mm];W[rj];B[qf];W[nd]LB[kh:C][mi:A]
+[ni:B]TR[cb][db][fc][ph][pi][qi][qj][rj]C[erker: Bad.
+
+What are you trying to accomplish? It's not the time to pick some random points of territory.
+
+What should be your GOAL?
+
+Any weak white groups? Yes, the marked one.
+Any weak black groups? Yes, the marked one.
+
+So your priorities should be clear! Rescue the marked white group (White at A). If your group is out of the biggest trouble, you can attack the marked black group.
+
+If you omit White A, Black will play at B and capture the white group. Or Black plays at C, going for a large scale capture _and_ either rescue the marked black group or completely surround the bottom.]
+;B[ob];W[od];B[fj];W[lq]TR[ph][pi][qi][qj][rj]C[erker: Bad.
+
+You are creating a dead or at least very weak group.
+
+If now Black plays around the center point, it will most likely capture _both_ of your weak groups.
+Maybe you are able to rescue one of them. But if you want to rescue only one group, just do so with the marked one. There is no need to create a dead group in the first place.]
+;B[lo];W[or];B[pr];W[jr];B[mr];W[mq];B[nr];W[nq];B[ll];W[oq]
+;B[os];W[lr];B[ps];W[ls];B[eh];W[dh];B[jo]C[Kamelo88: Now, I have a problem...
+
+erker: Not at all, as Black gently refused to kill your group.]
+N[Ask004];W[ns];B[gh];W[gn]C[erker: Yet another dead group.]
+;B[ep];W[do];B[fe]TR[ph][pi][qi][qj][rj]SQ[gn]C[erker: Black DEFENDED it's only weak group and is now free of trouble. But White has two weak groups; at least one of them should die at a large scale.
+
+The game is over.
+
+
+
+End of review.];W[hl];B[hm];W[jk];B[ik];W[il];B[jl];W[hk];B[gm]
+;W[ij];B[eg];W[dg];B[im];W[kl];B[jm];W[kk];B[cl];W[bj];B[bl]
+;W[bm];B[km];W[lk];B[mk];W[mj];B[nk];W[nj];B[rk];W[ok];B[lg]
+;W[ih];B[le];W[ld];B[ol];W[nl];B[ml];W[pl];B[pm];W[om];B[pn]
+;W[on];B[oo];W[nn];B[no];W[mn];B[ln];W[mo];B[er];W[mp];B[dq]
+;W[cq];B[eq];W[cr];B[ba];W[bc];B[gb];W[hc];B[ir]C[Kamelo88: Now I have a big problem...
+
+erker: Not at all.]N[Ask005];W[jq];B[ei];W[di];B[dn];W[co];B[ga]
+;W[ha];B[sk];W[sj];B[qk];W[pk];B[gc];W[he];B[kh];W[nh];B[ng]
+;W[mh];B[mf];W[oh];B[gd];W[hd];B[hi];W[ke];B[ef];W[kf];B[lf]
+;W[mg];B[jg];W[ii];B[kg];W[ig];B[jf];W[je];B[if];W[hf];B[ed]
+;W[de];B[js];W[ks];B[is];W[kp];B[ko];W[jp];B[ip];W[fk];B[gj]
+;W[ek];B[oe];W[na];B[pb];W[fm];B[fl];W[gk];B[oa];W[ma];B[dc]
+;W[dk];B[dl];W[gl];B[ds];W[cs];B[es];W[en];B[bk];W[ck];B[fo]
+;W[fn];B[go];W[ne];B[nf];W[ie];B[rf];W[li];B[ki];W[kj];B[op]
+;W[ji];B[gg];W[hj];B[hh];W[hg];B[gf];W[ge];B[si];W[am];B[hn]
+;W[aj];B[ak];W[al];B[em];W[ab];B[pe];W[lh];B[lm];W[nm];B[ca]
+;W[aa];B[ee];W[lp];B[ej];W[np];B[me];W[jh];TW[ia][ja][ka][la]
+[ib][jb][kb][lb][ac][ic][jc][kc][lc][ad][bd][cd][id][kd][ae]
+[be][ce][af][bf][cf][ag][bg][cg][ah][bh][ch][ai][bi][ci][mi]
+[ni][oi][cj][jj][lj][oj][pj][ik][ol][an][bn][ao][bo][ap][bp]
+[cp][aq][bq][kq][ar][br][kr][mr][nr][as][bs][ms]TB[da][ea][fa]
+[pa][qa][ra][sa][eb][fb][qb][rb][sb][ec][qc][rc][sc][fd][qd]
+[rd][sd][qe][re][se][ff][pf][sf][fg][qg][rg][sg][fh][sh][fi]
+[gi][rl][sl][fm][qm][rm][sm][en][fn][gn][in][jn][kn][qn][rn]
+[sn][ho][io][qo][ro][so][fp][gp][hp][pp][qp][rp][sp][gq][hq]
+[qq][rq][sq][fr][gr][hr][qr][rr][sr][fs][gs][hs][qs][rs][ss]
+)
+(;W[ec]LB[db:B][cc:A]C[erker: Please notice that this move does not prevent a Black invasion (at A). But it does prevent Black from sliding into the corner (at B). The idea is to keep Black busy and enforce the left side.]
+;B[fd];W[df];B[hd]))
+(;W[dn];B[iq];W[cj])
+(;W[cn];B[dr];W[cq];B[iq]))

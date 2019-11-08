@@ -1,0 +1,236 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.17]
+
+PB[tokonoma]
+BR[10k]
+PW[a300647000]
+WR[9k]
+KM[0.5]
+DT[2012-04-21]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[B+7.5]
+TM[2400]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+C[tokonoma [10k\]: hi gg
+
+**
+Hi, I am kex, 4k in Finland, reviewing for both sides.  The players did not have any specific questions, but there were several variations already presented in the sgf.  I commented some, but mostly the variations were about some fighting sequences - and fighting is best learned from life and death and tesuji problems and actually playing fighting games, so I commented only a few of the sequences.  I added some comments to some other places, though.
+
+There are some miscellaneous comments around; in the opening, one of the endgame, etc.  I hope some of the comments are useful - I did not notice any general theme to actually emphasize.]
+;B[pd];W[dq];B[pp];W[dd]C[a300647000 [9k\]: Hi];B[co];W[eo]
+;B[dn]LB[cl:A]C[This seems a bit slow.  For example A is better, stabilizing the group more effectively]
+;W[cp]
+(;B[bp]LB[dk:A]C[A move like A is better, to stabilize the group.  Do not get cramped, it is not good for the future.  This just strengthens the white corner]
+(;W[cq]LB[bq:A]C[White should block.  This is ineffective.  The black atari is meaningless.]
+;B[ck]C[Good, finally.];W[hp];B[kq];W[cg];B[qj];W[jc]C[Black has played well these last few opening moves - the black formation on the right side is much nicer than the white one on the upper corner]
+(;B[mc]LB[lc:C][np:A][qq:B]TR[qj][pp][kq]C[A is probably bigger, because it makes white invasion at B difficult and the surrounding stones make a bigger framework. 
+
+If black wants to play on this side, C is probably better, because it weakens upper left white side.]
+;W[gc];B[pf]LB[jj:C][oj:B][np:A]C[A is in a bigger corner than the chosen one, B tries to make a moyo on both sides simultaneously and C is a move that makes white feel black is getting everything (thus white will almost certainly invade immediately, and black can secure territory while chasing white inside the framework)]
+;W[qq];B[qp];W[pq];B[oq];W[or];B[nq];W[nr]
+(;B[mq]C[Simple like this is good for black here];W[rp];B[ro]
+;W[rq];B[qn];W[oj];B[pi]LB[ph:A][mj:B]C[A is also OK. If you really want to fight, B works.  I would probably play A]
+;W[pl];B[nl];W[oi];B[oh];W[nk];B[ol];W[pj];B[qh];W[nh];B[og]
+LB[ng:A]C[Black can also play A];W[mk];B[lm]LB[pk:A]C[A is bigger]
+(;W[pm]LB[qk:A]C[After this, there are quite a lot of moves in the game that are just reading mistakes.  (like a stone played in a place where it will be cut almost immediately)
+
+Playing A here would connect and split black at the same time]
+;B[pk];W[ok];B[qk];W[ml];B[nm];W[mm];B[nn];W[qc]LB[mn:A]C[White should continue pushing still once.]
+;B[pc]
+(;W[rd];B[qb];W[rb];B[qd];W[rc];B[pb]LB[rf:A]C[if white plays like this, must try to play faster]
+(;W[re];B[rf]
+(;W[ra];B[se];W[sd];B[sb];W[rg];B[qf];W[mn];B[mo];W[no];B[oo]
+;W[lo];B[np];W[km];B[ff];W[gh];B[eh];W[fg];B[eg];W[ef];B[gg]
+;W[fh];B[gf];W[hh]
+(;B[if]
+(;W[jh];B[kf];W[ei];B[df];W[ee];B[di];W[ej];B[dj];W[ek]
+(;B[hk]C[before H9 , something like E6 ?];W[en];B[em];W[dm]
+;B[dl];W[fm];B[el];W[fl];B[lh];W[lg];B[kg];W[kh]
+(;B[li];W[mg]
+(;B[ni]C[tokonoma [10k\]: misclick];W[mi];B[mh];W[nj];B[ng]
+;W[ki];B[lj];W[kj]
+(;B[lk];W[kk];B[ll]
+(;W[ln]
+(;B[mf];W[kl];B[lf]
+(;W[cf];B[dg];W[de];B[dh];W[jp];B[iq];W[ip];B[hq];W[jq];B[jr]
+;W[gq];B[gr];W[fr];B[fq];W[gp]
+(;B[hr];W[er]
+(;B[cc];W[dc]
+(;B[cd];W[ce];B[db];W[eb]
+(;B[ca];W[bb]C[a300647000 [9k\]: ?
+tokonoma [10k\]: ??];B[ab]C[Nothing works in this corner any more]
+;W[cb];B[ba];W[da]C[tokonoma [10k\]: it doesn't woek
+tokonoma [10k\]: work*];B[mr];W[qs];B[ic];W[id];B[jd]C[a300647000 [9k\]: Connect problem,maybe]
+;W[ie];B[je];W[he];B[ge];W[gd];B[hf];W[hd];B[ib];W[kc];B[kb]
+;W[jb];B[lb];W[ia];B[lc];W[kd];B[ld];W[hb];B[bq];W[br];B[ar]
+;W[cn];B[cm];W[bo];B[bn];W[bi];B[bj];W[ci];B[cr];W[dr];B[bs]
+;W[kp];B[lq];W[cj];B[dk];W[bk];B[bl];W[aj];B[ke];W[ja];B[ih]
+;W[ig];B[ii];W[jg];B[jf];W[hg];B[do];W[sf]
+(;B[rh];W[ni];B[ka];W[hc];B[ns];W[os];B[ms];W[lp];B[sp];W[sq]
+;B[so];W[gs];B[hs];W[fs];B[ds];W[es]LB[fe:D][ch:C][al:B][ep:A]
+[mp:E][is:F]C[This move is a mistake.  It does not get any points.  Some other moves to consider shown]
+(;B[cs]
+(;W[ep]C[Here, white can also take bigger.  This is the last comment and variation.]
+;B[fk];W[fi];B[ch];W[bh];B[al];W[ak]
+(;B[mp];W[dp]C[tokonoma [10k\]: I lost one point];B[sh];W[pn]
+(;B[qo]
+(;W[fe]C[tokonoma [10k\]: another point :)];B[tt];W[tt]TW[aa]
+[ba][ca][ea][fa][ga][ha][ab][db][fb][gb][ib][ac][bc][cc][ec]
+[fc][ic][ad][bd][cd][ed][fd][ae][be][af][bf][ag][bg][ah][ih]
+[ai][gi][hi][ii][ji][bj][fj][gj][hj][ij][jj][fk][gk][hk][ik]
+[jk][gl][hl][il][jl][gm][hm][im][jm][fn][gn][hn][in][jn][kn]
+[fo][go][ho][io][jo][ko][fp][eq][fq][pr][qr][rr][sr][ps][rs]
+[ss]TB[la][ma][na][oa][pa][qa][ra][sa][mb][nb][ob][rb][nc][oc]
+[qc][rc][sc][md][nd][od][rd][sd][le][me][ne][oe][pe][qe][re]
+[se][nf][of][sf][lg][mg][pg][qg][rg][sg][ph][qi][ri][si][rj]
+[sj][rk][sk][cl][pl][ql][rl][sl][am][bm][dm][om][pm][qm][rm]
+[sm][an][cn][on][pn][rn][sn][ao][bo][no][po][ap][op][aq][br]
+[ir][kr][lr][as][is][js][ks][ls]C[tokonoma [9k\]: fine game]
+)
+(;W[tt];B[tt]TW[aa][ba][ca][ea][fa][ga][ha][ka][la][ma][na]
+[oa][pa][qa][ra][sa][ab][db][fb][gb][ib][kb][lb][mb][nb][ob]
+[pb][qb][rb][sb][ac][bc][cc][ec][fc][ic][lc][mc][nc][oc][pc]
+[qc][rc][sc][ad][bd][cd][ed][fd][jd][ld][md][nd][od][pd][qd]
+[rd][sd][ae][be][fe][ge][je][ke][le][me][ne][oe][pe][qe][re]
+[se][af][bf][ff][gf][hf][if][jf][kf][lf][mf][nf][of][pf][qf]
+[rf][sf][ag][bg][gg][kg][lg][mg][ng][og][pg][qg][rg][sg][ah]
+[ih][lh][mh][oh][ph][qh][rh][sh][ai][gi][hi][ii][ji][li][pi]
+[qi][ri][si][bj][fj][gj][hj][ij][jj][lj][mj][qj][rj][sj][fk]
+[gk][hk][ik][jk][lk][pk][qk][rk][sk][gl][hl][il][jl][ll][nl]
+[ol][pl][ql][rl][sl][gm][hm][im][jm][lm][nm][om][pm][qm][rm]
+[sm][fn][gn][hn][in][jn][kn][nn][on][pn][qn][rn][sn][fo][go]
+[ho][io][jo][ko][mo][no][oo][po][qo][ro][so][fp][mp][np][op]
+[pp][qp][sp][eq][fq][hq][iq][kq][lq][mq][nq][oq][gr][hr][ir]
+[jr][kr][lr][mr][pr][qr][rr][sr][hs][is][js][ks][ls][ms][ns]
+[ps][rs][ss]TB[cl][am][bm][dm][an][cn][ao][bo][ap][aq][br][as]
+))
+(;B[fe]
+(;W[fd];B[po];W[qm];B[rm];W[rl];B[ql];W[sm];B[rn];W[sl];B[rk]
+;W[sn];B[sk])
+(;W[rn];B[rm];W[qm];B[qo];W[rl];B[sn];W[sl];B[sm];W[po];B[op]
+;W[on];B[no];W[om];B[ql])))
+(;B[dp];W[eq];B[mp]))
+(;W[is];B[ir];W[kr];B[ep];W[fp];B[dp];W[js]))
+(;B[ep];W[cs];B[br];W[fp];B[dp];W[eq];B[ds];W[fq];B[cs]C[Perhaps a coulple of points more than in the game]
+))
+(;B[fn];W[rh];B[ri]
+(;W[si];B[sj];W[sk];B[rj];W[ql];B[rl];W[sl];B[rm];W[sm];B[sn]
+;W[sh];B[ni];W[mj];B[dp];W[ep];B[ds];W[es];B[fs];W[cs];B[fp]
+;W[fo];B[ds];W[eq])
+(;W[rj];B[rk];W[si];B[qi];W[sk];B[sl];W[rl];B[sj];W[sm];B[sk]
+;W[rn];B[so];W[qg];B[pg];W[pn];B[po];W[qm];B[qo])))
+(;B[bb];W[da];B[ca];W[cb];B[aa]LB[ea:A]C[Don't play this, now is a time for a threat-  if you win, you take at A to live in the end]
+(;W[ba];B[ih];W[ig];B[ca];W[bd];B[bc];W[ba];B[kn];W[ab];B[ko]
+;W[lp];B[kp];W[lq];B[lr]
+(;W[jn])
+(;W[mp];B[no];W[mr];B[kr];W[jn];B[ni];W[jo];B[mj]))
+(;W[kn];B[db];W[do];B[cn];W[cb];B[ih];W[ii];B[db];W[ig];B[hf]
+;W[cb])))
+(;B[ce]
+(;W[cd];B[be];W[bf];B[bd];W[cb];B[bc];W[af];B[ch];W[ah]
+(;B[ai];W[bi];B[aj];W[bj])
+(;B[bi];W[ai];B[aj])
+(;B[bj];W[bi];B[bh];W[ai]))
+(;W[be]
+(;B[cd];W[bd])
+(;B[bh];W[cd];B[fd];W[gd];B[ge];W[fe];B[hd];W[hc];B[id];W[ic]
+;B[jd];W[kc];B[kd];W[lc];B[ld];W[mb];B[nb]
+(;W[md];B[nc])
+(;W[nc];B[md];W[ob];B[nd];W[na];B[oc];W[nb])))))
+(;B[kb];W[kc];B[lc];W[jb];B[la]
+(;W[ld];B[kd]
+(;W[ke];B[jd];W[je];B[id]
+(;W[ie];B[le];W[md];B[nd])
+(;W[le];B[ie];W[jf];B[jg];W[md];B[nd];W[me]))
+(;W[jd];B[ke];W[je];B[jf];W[hf];B[hg];W[he];B[ge];W[gd];B[ih]
+;W[ii];B[ig];W[hj];B[ij];W[ik];B[fi];W[fj];B[gj];W[jj];B[gk]
+;W[fk];B[hi];W[gi]))
+(;W[je];B[jf];W[ke];B[le];W[ld];B[md];W[kd];B[ie];W[id];B[hd]
+;W[hc];B[gd];W[fd];B[fe];W[hf];B[hg];W[ig]
+(;B[jg];W[ih];B[he])
+(;B[he];W[jg]))))
+(;B[er];W[hr];B[ir];W[gs];B[eq];W[ep];B[br];W[bq];B[aq];W[bo]
+;B[bn];W[ap]))
+(;W[dg]
+(;B[dh];W[bg]C[This is more effective, destroys black's side]
+)
+(;B[ch];W[bg];B[bh];W[dh])))
+(;B[cf];W[kl];B[ni];W[mf];B[me];W[mj];B[nh];W[le];B[kd];W[kc]
+;B[jd];W[id];B[ie];W[hd];B[lb];W[ld];B[lc];W[md];B[ne]
+(;W[je];B[ke];W[jf])
+(;W[ke];B[je];W[nd];B[nc];W[oe];B[nf];W[lf];B[od])))
+(;W[le];B[lf];W[mf];B[me];W[nf];B[ne];W[of];B[oe]))
+(;B[mf];W[lk];B[ni];W[mj];B[nh]))
+(;B[mh];W[ng];B[ni]
+(;W[ne];B[nf];W[mf];B[me];W[of];B[lf];W[nf];B[nd]
+(;W[mi])
+(;W[nj];B[mi])
+(;W[oe];B[od];W[pe];B[qe]))
+(;W[ki];B[lj];W[kj];B[lk];W[kk];B[ll];W[kl];B[ln];W[kn];B[ko]
+;W[lp];B[nf];W[mi];B[mj];W[mf];B[me];W[lf];B[le])
+(;W[me];B[mf];W[lf];B[le];W[nf];B[md];W[nd];B[nc];W[ki];B[lj]
+;W[kk];B[of];W[kj];B[od];W[lk];B[ne])))
+(;B[mh];W[mg];B[ng]))
+(;B[en];W[fn];B[fm];W[gm];B[fl];W[gl];B[fk]))
+(;W[hf];B[hg];W[ig];B[he];W[jf];B[je];W[ke];B[jg];W[kf];B[ih]
+;W[kg];B[kh];W[lh];B[ki];W[li];B[gj]
+(;W[fj];B[fi]
+(;W[ei];B[hi];W[gi];B[fi])
+(;W[gi]))
+(;W[hj];B[hi];W[ii])))
+(;B[ig];W[hg];B[hf];W[if];B[ie];W[jf];B[je];W[ke];B[kd];W[jd]
+;B[kf];W[jg]
+(;B[le];W[he];B[ge];W[hd])
+(;B[jh];W[ih];B[kg];W[ig];B[kh];W[ji];B[ki];W[jj];B[kj];W[le]
+;B[ld];W[me];B[he];W[ne])))
+(;W[qf];B[qe];W[rg];B[qg];W[sf];B[ra];W[qf];B[sb];W[sc];B[sh]
+;W[rh];B[ri];W[sg];B[si]))
+(;W[rf]
+(;B[rg];W[ra]
+(;B[sf];W[se])
+(;B[re];W[qe];B[sf];W[se])
+(;B[qf];W[re];B[sf];W[se]))
+(;B[ra];W[rh]
+(;B[re];W[qe])
+(;B[ri];W[rg];B[sh]
+(;W[qf];B[qe])
+(;W[qe];B[qf];W[sg];B[sb];W[se];B[sc]C[Seems to die, though]
+)))))
+(;W[pb];B[ob];W[rb];B[pa];W[qa]C[Ko is possible, I think]))
+(;W[ok]SQ[oj][pj]C[Bad shape (empty triangle.];B[pm];W[ql];B[qk]
+;W[pk];B[qm]SQ[pm][qn]C[Bad shape];W[rl];B[jl];W[ml];B[mm];W[nm]
+C[Desperate move.  Do not play moves that have no possibility of succeeding
+I have no further comments on this variation (given by the player).]
+;B[om];W[nn];B[oo];W[ln];B[kn];W[ko];B[jo];W[jn];B[km];W[jp]
+;B[io];W[lo];B[kp];W[jq];B[in];W[lq];B[lp];W[mp];B[lr];W[kr]
+;B[lq];W[np];B[mo];W[mn];B[no];W[on];B[pn]))
+(;B[mr];W[mq]
+(;B[mp]
+(;W[lq];B[lp];W[lr];B[kr]
+(;W[ms];B[rq];W[rr];B[jo];W[jp]
+(;B[ip]C[No need to play special moves.  Just connect.];W[kp]
+;B[ko];W[jq];B[iq];W[jr])
+(;B[kp];W[io];B[in];W[jn];B[ko];W[jm];B[hn];W[go];B[gn];W[fn]
+LB[hl:A]C[Jumping is better];B[fm];W[gm];B[hm];W[gl];B[hl];W[hk]
+;B[il]
+(;W[jl];B[ik];W[ij];B[jk];W[kk])
+(;W[ik];B[jl];W[jk]
+(;B[kl])
+(;B[kk];W[kl];B[km]
+(;W[kn]
+(;B[lm];W[ln];B[mn];W[ll];B[mm])
+(;B[ll];W[lm];B[kl]
+(;W[mm])
+(;W[mn];B[mm];W[ln];B[nm];W[nn];B[on];W[om];B[no];W[oo];B[pn]
+;W[op];B[np])))
+(;W[ho];B[ll];W[kj];B[lj])))))
+(;W[op];B[np];W[oo]LB[pn:B][rq:A]C[A and B are better here.]
+;B[ls]))
+(;W[lr];B[lq]))
+(;B[lr]C[Why not just cunnect like this?];W[mp];B[no];W[kp]
+;B[jp]C[Black is in no trouble on either side])))
+(;B[lc];W[je];B[le]C[Even this way, black gets more]))
+(;W[bq];B[dp];W[cq];B[do];W[ep]C[white is strong]))
+(;B[dk];W[bo];B[bn]C[Even if white makes this endgame move, black is in no trouble]
+))

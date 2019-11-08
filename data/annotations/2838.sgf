@@ -1,0 +1,66 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.14]
+
+GN[ vs]
+KM[0.5]
+DT[2003-09-05]
+RU[Japanese]
+US[LGC]
+
+C[My question:
+1st, how to compute the compound of the black and white places?
+2nd, how to know where is the biggest compound before the game comes to the end; and its following order (via places it can takes)
+3rd, how to play when the game process to the middle?
+Thanks any suggestions.
+Sincerely];B[qd];W[dp];B[qp]C[Hum! I don´t like to place both stones alined like this, it becomes too shifted to the right!]
+;W[dd];B[oc]C[Nice shimari!];W[jq];B[oq]C[Very good for black here! White cannot allow clack to make two shimaris like this!]
+;W[jc]
+(;B[cn]LB[qj:A]C[NO! The best place is A (R10 or Q10)];W[dk]
+;B[bp];W[cq];B[en];W[fp];B[gn];W[qj]C[Now white got to make the good move, it would be better for black of course!]
+;B[qm];W[qf];B[fl]LB[dh:C][qh:B][hp:A]C[Too slow!, it is better for you in A, B or C]
+;W[pl]C[This move was slow for withe too, imagine if white get to play G16 for example!]
+;B[qn]C[Slow, too slow!];W[on]C[White is getting to make a good center outline, time to invade the center, don´r you think?]
+;B[mq]C[too slow, why not at m3?];W[mo];B[kp];W[io];B[in];W[jn]
+;B[ho];W[im]
+(;B[jo];W[hn];B[ip];W[in];B[gp];W[jp];B[ko];W[iq]
+(;B[hp];W[gq];B[hq];W[hr];B[go];W[fr];B[kq];W[cf]C[Now white has a very good moyo in the top left!]
+;B[jr]C[Why  this move?];W[ir];B[kr]C[and you still finished in gote!]
+;W[fd]C[This are reaaly bad for black in the top left!];B[mc]
+C[Too slow! White has a very big lead here! Can you see what will happen if white gets to play K15?]
+
+(;W[ld];B[ne]C[This response is too weak!];W[of];B[ek]C[If you want to reduce the left you had to invade not attach! The result of this attachment is the strenthening of the white´s left side, so next time try not to attach!]
+;W[ej];B[dj];W[ck];B[fj];W[ei];B[cj];W[bm];B[bl];W[bk];B[cl]
+;W[bj];B[dl];W[ci]C[Much better for white!];B[eo]C[Weak move]
+;W[ep]C[Weak response!];B[hk]C[Too near to your wall! Of course you have to invade, but how about M6?]
+;W[ik];B[ij];W[jk];B[hl];W[lj];B[jh];W[lh];B[kf]TR[jh]SQ[lh]
+C[This two moves didn´t help you make any territory, and it induced whit to make the M12 and N14, which help white a lot to make territory in the center, you have to make something about the center and the left side territory or you will lose this game.]
+;W[mf];B[nf];W[ng];B[mg];W[lg];B[lf];W[mh];B[me];W[le];B[mg]
+;W[gh];B[mf]C[This move is weak!];W[ig]C[This move helps white to make a good territory!]
+;B[kg]C[Weak!];W[fi]C[Weak too];B[og];W[nh];B[pf];W[oh];B[oe]
+;W[pg];B[qg];W[of];B[pe];W[rf];B[og];W[ph];B[rg];W[qh];B[re]
+;W[rh];B[hh];W[gj]C[Mistake! You should now enter the white´s territory at H13]
+;B[fk];W[hj];B[ii];W[hg]C[You missed your chance!];B[ih]C[weak!]
+;W[jg];B[gk];W[gi];B[kh];W[je];B[jf];W[if]C[Ok, now white has a nice territory at the left, what will you do now?]
+;B[il];W[jl];B[kn];W[km];B[hm];W[jm];B[jj];W[lm];B[ln];W[mn]
+;B[kj];W[kk];B[lk];W[mk];B[ll];W[ml];B[li];W[mj];B[ki];W[qr]
+C[I dont think this is necessary, white is winning, why invade?]
+;B[pq];W[al];B[bn];W[cm];B[dm];W[am];B[do];W[em];B[fm];W[cc]
+C[Now white won the game!
+
+
+You cannot allow white to make territory like this, it was too easy!
+
+You try to save every single stone on the board, try not to do this, stones that should be saved are:
+ 1. Stones that cut two weak enemy groups
+ 2. A stone that links a weak group to a strong group or two weak groups
+ 3. Stones that make frontiers between your territory and the enemy´s territory.
+
+Try to correct this mistakes and you will have a better game indeed.
+
+Adalberto (KGS 5Kyu)])
+(;W[je]C[Like this? Now he has a Strong moyo, a the game is vary nice for him!]
+))
+(;B[fq]C[How about this?];W[hp];B[go];W[eq];B[gq]))
+(;B[hq]C[How about this?]))
+(;B[qj]C[Here is very good])
+(;B[pj]C[Here is good too! It helps to make a good moyo to the right together with your two shimaris.]
+))

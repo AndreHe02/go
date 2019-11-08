@@ -1,0 +1,111 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+PB[enigm4]
+BR[6k]
+PW[TheDon]
+WR[6k]
+KM[6.5]
+DT[2008-10-15]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[B+Resign]
+TM[300]
+OT[1x10 byo-yomi]
+RU[Japanese]
+
+C[Dear Reviewer,
+
+I was Black in this game. I think white many times overplayed and I haven't punished him in correct way. Am I right? If yes how should I punish him? Did I use my power/influence in correct way/direction?
+
+Regards,
+enigm4
+
+A: Hello, my name is Adam and I'll be doing your review. A few overall points:
+
+1) Punishing an overplay doesn't mean killing stones, although it can. Harassing the weak stones, making your opponent place more stones to save them while you make good moves facing the outside, is very often the best case.
+
+2) Life and death: In life and death situations, every move has incredible value. A very small change in move or even move order can have drastic results. You had a couple of occasions to strike more sharply in this game when White was weak, which are mentioned inside. Extra thinking time spent in a life and death sequence (and time spent in study of life and death!) is almost never a waste.
+
+3) Late in the game, you had a significant point lead and you attempted an invasion. You gave up on those stones and ended up reducing White's center, which was good, but doing a quick count in the mid/late midgame could save you some risk (Or point out that you need to take a risk to win!).]
+;B[pq];W[dd];B[dp];W[pd];B[qo];W[fq];B[hq];W[fo]LB[dn:A][ho:B]
+C[A: Just a note: Black's usual followup at A seems to me to be a good choice here. White ends that likely sequence (at least in my estimation) with a wall that is bracketed by solid black positions.
+
+Your move at B is, I think, a good pick too, so long as you remember that defending the H3 stone pushes White to go after the relatively weak corner stone.]
+;B[ho];W[cn]LB[dn:A]C[A: My gut reaction was that C6 should be at A, simply based on the nicer shape. I did a quick database search that found no matches for C6 in this position and several for A, so that seems to be 
+
+The issue is that the surrounding move provokes fighting, and the shape made by C6/F6 is very cuttable and a liability in the coming fight.]
+
+(;B[co]TR[cn][dp]C[A: Whenever you have this shape, your stone on the fourth line diagonally bumping a third line stone, it almost always induces a move like White D6. That move is such a great shape point for both players, I cannot think of a situation where one wouldn't play it.
+
+Knowing that, in this case it induces a move that connects White's more strongly, so playing it to live with a small corner should be a last resort. 
+
+Also, cutting and fighting feels more consistant with your pick of H5.]
+;W[dn];B[cq];W[lq]C[A: I assume this is one of the White overplays of which you spoke? Indeed, this feels very dangerous since it will strengthen Black while White still has a cut threat around E5.]
+;B[kp];W[jr];B[kq];W[kr];B[lp];W[mq];B[mp];W[nq];B[np];W[dg]
+C[A: You didn't kill White in that sequence, but as White I'd certainly feel punished. You are strong enough to cut with impunity now, White has a small (and not yet definitively alive) side group, and you got a great wall.
+
+Life is good.];B[dk]C[A: And this is a great way to use the cut threat! Instead of just cutting, and letting white potentially sacrifice some stones, you invade. The weakness of white's group is your ace in the hole in case your invasion gets in trouble.]
+;W[dj];B[ek];W[ej];B[fk];W[eo];B[gm]C[A: At first I thought that this move was worse than definitively cutting White with a move on the left side, but see the variations for some of the troubles White runs into trying to connect out.
+
+When you create more than one weak group, you get saddled with all kinds of problems like this, and your tactical choices are severely reduced.]
+
+(;W[cl];B[ck];W[cj]C[A: White invites more trouble by playing from the strong side.]
+;B[bl];W[bm];B[dl];W[cm];B[bj];W[bi];B[bo];W[dr];B[cr];W[eq]
+;B[gr];W[fr];B[gq];W[gn];B[hn];W[fm];B[gl];W[em]
+(;B[dm];W[do];B[go];W[fn];B[bq];W[es]
+(;B[qj];W[ql];B[oj];W[ol];B[qf];W[mc];B[qc]C[A: I'm not sure I'd invade here, but after White blocks at Q17 and lets you connect it ends up fine.]
+;W[pc];B[qd];W[jd];B[pe];W[gc];B[ml];W[pn];B[oq];W[or];B[pr]
+;W[nr];B[oo];W[nk];B[mj];W[nj];B[ni];W[mk];B[lj];W[lk];B[kj]
+;W[kk];B[jj];W[km];B[mm];W[mn];B[nn];W[ln];B[om];W[pm];B[pk]
+;W[on];B[nm];W[pl];B[pi];W[qn]
+(;B[po]C[A: Black loses a move here, and White takes advantage to live. Missing even half a step in a life or death fight can mean a huge swing in points.]
+;W[ro];B[rp];W[rm];B[so];W[rk];B[rj];W[sl];B[rn];W[qk];B[ok]
+;W[nl];B[ld]TR[pc][pd]C[A: White ignored Q15 earlier, which really hurt the shape of the triangled stones. Great way to take advantage and press down on them!]
+;W[lc];B[md];W[oe];B[od];W[oc];B[nd];W[pf];B[qe];W[mf];B[nc]
+;W[nb];B[mb];W[lb];B[ob];W[ma];B[pb]C[A: Again, great way to take advantage of White's ignoring a move.]
+;W[nf];B[kf];W[lh];B[jh];W[kg];B[jg];W[lf];B[ke];W[nh];B[kh]
+;W[pg];B[ne];W[of];B[oh];W[mh];B[mi];W[qg];B[rh];W[rg];B[rf]
+;W[kd]C[A: What is the situation on the board right now? See the variation for a quick count.]
+
+(;B[cc];W[cd];B[dc];W[ec];B[bd];W[be];B[ad];W[bb];B[bc];W[cb]
+;B[ed];W[fc];B[ee];W[ce];B[he];W[ie];B[ch];W[ci];B[eg];W[hf]
+;B[df];W[cf];B[cg];W[dh];B[bg];W[bh];B[eh];W[di];B[hh];W[gh]
+;B[gg];W[hg];B[gf];W[ge];B[hd];W[if];B[gd];W[fe];B[fd];W[ff]
+;B[fg];W[gi];B[hc];W[db];B[gb];W[eb];B[ib];W[ha];B[jb];W[ga]
+;B[hb];W[fa];B[fb];W[kb];B[ea];W[da];B[ab];W[ae];B[hi];W[gj]
+;B[id];W[je];B[jc];W[kc];B[ka];W[ja];B[ia];W[ea];B[hj];W[le]
+;B[lg];W[hk];B[gk];W[fj];B[ik];W[de];B[jn]C[White resigned here.]
+)
+(;B[tt]TR[ed][fd][hd][id][de][df][eh][ai][ei][js][os]SQ[oa]
+[ji][sj][ao][cs][ps]C[A: Some very rough White territory drawn with triangles, and Black territory with squares.
+
+Black has: 4 prisoners in hand, 8 points in the lower left, 14 in the lower right, and 60 in the upper right. Total: 86
+
+White has: 1 prisoner, 2 in the lower left, 6 on the lower side, 2 on the right, 51 in the upper left/upper side. Total: 62. 
+
+Given this, Black doesn't need to invade anywhere. Some safe endgame moves, for example reducing the lower group in sente, A11, etc. would make the game a lock. White is significantly behind. 
+
+This is my final comment.]))
+(;B[ro]C[A: Small change; Big difference. White is now limited to one eye on the side, and has few prospects making another in the middle. With this kill, even if White gets the whole upper side, Black is ahead.]
+))
+(;B[or]C[A: Again, no master of life and death here, but now that White cannot threaten to connect underneath along the bottom here I believe this kills.]
+;W[nr];B[ls];W[oq];B[pr];W[op];B[oo];W[pp];B[qp];W[po];B[pn]
+;W[qn];B[on];W[rn];B[rq];W[ir];B[is];W[hs];B[hr];W[js];B[gs]
+C[A: Looks to me like White can't cut and threaten the corner, nor push left to get another eye.]
+))
+(;B[do]C[A: This still threatens to destroy White's eye but adds a potentially useful stone on your weak side.]
+;W[go];B[es]C[A: Disclaimer: I'm terrible at life and death. That said, I don't see how White can either break out or kill Black's corner here.]
+;W[ds];B[fs];W[cs];B[br];W[gp];B[ep]))
+(;W[ck]C[A: At first, I didn't see how White could be stopped here.]
+
+(;B[cl];W[dl];B[bk];W[cj];B[bl];W[bn]C[A: Now the corner and cutting stones are under attack separately. If Black saves the cutting stones...]
+;B[dm];W[fr]C[A: ... this seems to threaten death for Black's corner or a connection out. But, now that I've seen it played out...]
+;B[hr]TR[lq][mq][nq][jr][kr]C[A: ... White runs into the weakness of the triangled stones. No matter which side White decides to play on, it looks to me like Black gets a sizeable kill.]
+)
+(;B[cj];W[bk])))
+(;B[dn]C[A: Is this the best way to fight? I don't know, but I don't see a way for White to make this back into an even result.]
+
+(;W[dm];B[en]C[A: White's push at D7 seems to strengthen you more than White.]
+)
+(;W[do];B[eo];W[co];B[ep]C[A: The cut looks worse in that regard, severely damaging the F3/F5 stones for White]
+)
+(;W[co];B[do]C[A: ditto.])))

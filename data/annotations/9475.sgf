@@ -1,0 +1,112 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.16]
+
+PB[akira69200]
+BR[7k]
+PW[larion2]
+WR[7k]
+KM[6.5]
+DT[2014-07-06]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[B+16.5]
+TM[600]
+OT[5x20 byo-yomi]
+RU[Japanese]
+
+C[Hello, I'm Julien, 1k on KGS. I will add comments and variations into this SGF file. Hope this will help you.]
+;B[pd];W[dd];B[dp];W[pp];B[nq];W[qn];B[pr];W[qq];B[kq]
+(;W[qf]TR[qn]C[Since there is the triangle stone on the right, the top side is more interesting. So O17 is better than R14.]
+;B[nc]
+(;W[rd];B[qc];W[qi]TR[qf][qn]C[All on the 3d line: that is a flat development.]
+;B[cf];W[df]C[Strange move. This joseki is usually good for white if white may develop a moyo on the top (in particular with stones around Q16 and K16). There is no such stones here.]
+;B[ce];W[cd];B[dg];W[de];B[dh];W[hc]C[Seem a bit close of the white wall. J17 or direcly M17 looks better.]
+;B[dk]C[I have to say that your fuseki was rather bad: you're late now. You have no prospect on the right because you're too low, and no prospect on the top neither, because your extension is too small.]
+
+(;W[no]C[maybe a 3-3 invasion would have made more sense?
+
+Yes, it would be. Or just F3 (see variations). Your move is slow here: since you're low on the right, you cannot expect to develop a moyo (that's why your fuseki here was bad).]
+;B[ok]C[I was not sure how to handle this stone
+
+You're right: handling this stone is uneasy, but... I think the only good way to handle it is tenuki :-). Indeed, this black move is really bad and has no clear significance: it does not destroy any white point, nor build anything for black. So, if black adds a move, it will only create a weak group, if he doesn't, he has just lost a move.
+
+So go to the bottom-left now.
+
+Hint: when you don't know how to handle a stone, tenuki is often a good variation.]
+;W[mp];B[mq];W[lp]C[(a missclick)];B[jq];W[lq];B[lr]C[This exchange was bad. You destroy only 1 point. Maybe there will be something better latter, At least, you lose a ko thread.]
+;W[qk]C[That's only few points. Still go to the bottom-left.]
+;B[gq];W[kc]TR[lc]SQ[cp][cq]C[maybe the triangled move is better to put pressure on the top right group?
+
+Yes it would. But you have to go to the bottom-left because black area becomes very big. C4 (or C3) is an easy point for invading.]
+;B[cq]C[Too late :-(.]
+(;W[of]C[S17 is definitly the only move if you want to attack the top-right group: it is big in itself and, if black plays S17 himself, he will be alive.]
+;B[em];W[md]TR[dg][dh]C[I have the feeling that I used up too many moves here for too little compensation. I perceived this as attacking a weak group and building my moyo in the process. Still I don't think that worked all too well. :)
+
+S17 is the only move in this area. You don't have a moyo here because of the D12-D13 stones and the black strengths on the left (and there is still P9).]
+;B[rc]C[Black easily lives.]
+(;W[qd]C[Bad. What is the purpose of this move? That is only yose...]
+;B[pe];W[pf];B[mk];W[nd];B[od];W[mc];B[nb];W[mb];B[fg];W[ob]
+;B[pb];W[oc];B[rb];W[na];B[qa];W[pc]C[this seems very small in hindsight
+
+Yes it is... But not that's much because of the remaining ko at Q19.]
+;B[ig];W[go]LB[kk:C][kn:D][jo:A][hp:B]C[I really didn't know how to decide here and I think I made one of the wrong moves.  I marked a couple of moves I considered but didn't play.  How should I reduce/invade white's center? Should I try to kill the N9 group?
+
+I thought the Q19 ko would be too small to play right away, then forgot to play it at all. :(
+
+You're right that reducing black moyo is urgent and bigger that playing Q19. But your move is far too deep with all these black stones around. The limit is A here. Any point further you will certainly die. I would play C here: attacking when invading is a good strategy: either you will capture some black stones, or you will destroy a large part of the black moyo.]
+;B[jo];W[kn];B[jn];W[km];B[jm];W[kl];B[kj]
+(;W[jl];B[il];W[ik];B[hl];W[jj];B[ki];W[jh];B[kh];W[jg];B[nh]
+;W[mg]C[I usually don"t know how to handle these situations well. (Defending inside my moyo or territory)
+
+Your moves are almost ok here. The usual strategy is: first enclose your opponent and force him to leave as small as possible in gote (or kill him :-)).]
+;B[mh];W[if];B[pj];W[qj];B[pi];W[ph];B[oh];W[ih]LB[pa:4][bd:1]
+[gf:3][gj:A][qr:2]C[I don't think this move makes much sense. What would be a large move here locally?
+
+Yes, this move is small. Locally, A is the best I think. That is the beginning of the yose now. I think the biggest yose move are 1, 2, 3, 4 and A.]
+;B[gj];W[hk];B[gk];W[gf];B[ff];W[fe];B[gg];W[hf];B[om];W[pm]
+C[Playing here is pretty small.];B[on];W[oo];B[lh];W[nl];B[ol]
+;W[ml];B[nk];W[lk];B[lj];W[pk];B[pl];W[ql];B[pn];W[qm];B[lg]
+
+(;W[kf];B[lf];W[le];B[ji];W[ii];B[kk];W[ll]TR[pa][bd][qr]C[Don't answer to each opponent moves. B16, R2 and Q19 are far bigger that M8.]
+;B[ng];W[mf];B[nf];W[me];B[ne];W[oe];B[pg];W[qh];B[og];W[oi]
+;B[oj];W[kp];B[jp]
+(;W[be]C[B16 is better I think.];B[bf];W[bd]C[Gote :-(.];B[qg]
+C[I missed this.]
+(;W[rg]LB[rf:A]C["A" is better right?
+
+Right.];B[rf];W[qe];B[rh];W[ri];B[sg];W[af];B[bg];W[ag];B[ah]
+;W[ae];B[bh]
+(;W[oq]C[R2 better.];B[or];W[np]C[I lost attention in the endgame.]
+;B[qr];W[rr];B[pq];W[qp];B[op];W[po];B[oq];W[hg];B[sc];W[pa]
+;B[oa];W[gi];B[fi]C[Why don't you play the ko at Q19?];W[gh]
+;B[fh];W[re];B[pa];W[hj];B[ko];W[lo];B[ef];W[ee];B[jk];W[ij]
+;B[gl];W[qs];B[ps];W[rs];B[ni]C[Summary:
+- fuseki: play more dynamically and not that flat.
+- chuban: 
+    * be careful of your opponent moyo: invade it before that becomes too late. 
+    * do not invade too deeply, try to choose an invading point that also stresses your opponent on its weaknesses.
+- yose: try to keep sente; do not always answer to your opponent moves.
+
+I hope that this review will be useful for you. Do not hesitate to ask me additional questions.
+Julien])
+(;W[qr];B[pa]C[If black tenuki...];W[or]C[You get this move.]
+;B[oq];W[pq];B[nr];W[ps];B[ns]))
+(;W[rf];B[rg];W[rh]))
+(;W[bd]
+(;B[bf]C[Sente!])
+(;B[qr]C[If black tenuki (and he should tenuki to play R2)...]
+;W[bf]C[You get this move.];B[bg];W[be];B[cg];W[ag];B[ah];W[af]
+;B[bi]C[You get more points than in your sequence.])))
+(;W[lf]C[Better here.];B[kf];W[kg];B[mf];W[le]))
+(;W[lj];B[lk];W[kk]C[The cut seems good for white here.];B[li]
+;W[mj];B[mi];W[nj];B[oi];W[nk];B[nl];W[ml];B[ni];W[ll];B[jj]
+C[Maybe the expected sequence: black consolidates its moyo, while white makes points. That is ok for white since black has still weaknesses.]
+))
+(;W[qe]C[... And the best local yose move would be here.]))
+(;W[rc];B[gg]C[If black tenuki once more...];W[pb]C[This move destroys the black base (it works better with M17 instead of L17 yet).]
+))
+(;W[fq]
+(;B[hq]C[If black pincer...];W[cp]C[This looks promising.])
+(;B[eq]C[If defending...];W[fp];B[dn];W[iq]C[That's easy to establish a base (and it will be still possible to destroy the left side later).]
+)))
+(;W[pj]C[Would be better to play a stone on the 4th line here.]
+))
+(;W[nc];B[qf]))

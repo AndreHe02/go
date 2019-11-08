@@ -1,0 +1,162 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.16]
+
+PB[Minjask]
+BR[23k]
+PW[HelloBot]
+KM[7.5]
+DT[2015-11-21]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[B+R]
+RU[Chinese]
+
+C[M: I decided to play below my estimated skill level as I have not played in a couple of years. Ultimately the game was won  because my opponent was not as skilled, but I got the feeling that luck played a large part, and that this game could have been played much more efficiently. I have made a few comments where I felt I might have played better had I thought longer, but would appreciate your feedback nonetheless, especially with moves I may not have noticed at all. I want to be able to challenge higher players eventually so I know I need to nip these bad habits in the bud before they become solid. Thank you in advance for looking at this.]
+;B[qd]TR[ar][br][cr][dr][er][fr][gr][sq][rq][qq][pq][oq][dl]
+[dk][dj][di][dh][dg][df]C[H: Welcome back to this wonderful game! Yes, you won because you are stronger than HelloBot (who is 27k). I will give you a few ideas about what you could improve.
+
+The main thing to improve for you right now is that you should play further away from the border. If you make a chain of stones on the second line, as shown with triangles on the bottom left, you will win one point per stone you place. On the third line (bottom right), two points per stone. On the fourth line (left), three points per stone. However, it is still possible to push under that fourth line, so those points are not safe as such and may need defence later.
+
+These lines have names in Go folklore: the second line is the line of defeat, the third line the line of territory, and the fourth line the line of victory.
+
+You were often playing on the line of defeat in this game, and I will show you a few alternatives where you could have played higher, gaining more territory, influence, or both.
+
+In summary: NEVER push on the line of defeat unless it is absolutely necessary, which it will mostly become in the end game.]
+;W[dp];B[pq];W[dd]C[H: Up to here, you (almost) own both corners, whereas white's corners can still be invaded. White, however, makes more claim on centre influence than you.]
+;B[oc]C[H: Now the corner is yours to keep.];W[qf]TR[po][qo]
+[qn][dj]C[H: Bad move by white. Any of the marked moves would have been better! You do not need to react to it, your corner is safe. Look what happens if you fo nothing:]
+
+(;B[re];W[ch];B[qo]C[H: Good, both corners are yours now.];W[cm]
+
+(;B[rg]TR[jd][jp][qj]C[H: and now you crawl on the line of defeat. At this point in the opening, you should claim space for yourself or attack that white stone; e.g., with one of the triangle moves. I would prefer k4.]
+;W[rf];B[fc];W[se];B[sd];W[sf]C[H: good defense. Now your stone s13 is lost. Give it up!]
+;B[ri]TR[jd][jp]C[H: here again you crawl on the second line. The triangle moves would give you much more influence. At this point I would still play k4.]
+;W[eq];B[db];W[lc];B[ic]TR[jd][cc]C[M: I realize now that I should have played j17 before playing d18. I think it would have helped discourage white from playing at m17
+
+H: Yes; but k16 would have been even better to prevent m17. However, here you could just have played c17 to take the corner instead of playing j17.]
+;W[cj];B[mb]TR[le][jp]C[H: If you want to hunt that stone, try to press it against the border with m15. And still, k4 would be very nice ...]
+;W[mq]C[H: ... and now it is too late for k4]
+(;B[nr]SQ[os][pr][ps][rm][sm][rn][sn][ro][so][sl][sk][sj]TR[ql]
+C[H: Your corner is safe. This move potentially adds three points to it (the squares). r8 would add 9 points to it. Still, I would attack n3 from the other side as shown in the variations.]
+;W[iq]
+(;B[kr]TR[pl]C[M: I was nervous about white responding with n2, but I guess I got lucky.
+
+H: Yes, but you are again crawling on the second line! Look for example in the alternative how playing q8 might have increased you territory.]
+;W[cf]C[H: and HelloBot just plays on the line of territory :)]
+;B[pf]TR[oh]C[H: The triangle would have been a better place to play to hunt the white stones.]
+;W[qg];B[qh];W[pg];B[me];W[pe];B[of];W[qe]
+(;B[od]C[H: And this move loses you the corner.];W[rd];B[rc]
+;W[sc]
+(;B[sb]C[M: I wonder if I got too greedy here. I wanted to keep the corner and kill white, but I could tell as soon as I played t18 that I had been sloppy. I am unsure how I could have cleaned it up, however. Perhaps r18?]
+;W[sd];B[qb];W[pd];B[pc]C[M: This was stupid. As soon as I made it I realized r17 would have been better.
+
+H: Yes :)];W[qc];B[rb];W[qd];B[oe];W[rh]TR[pl][ql]C[M: I feel that I could have prevented this had I been more efficient earlier.
+
+H: No, s13, the single stone close to a white three-stone wall, was essentially lost. But playing more efficient would have meant that you would now have had a stone at one of the triangle positions, and r11 would have made your r12 and s11 strong and connected (loosely) to the bottom right corner.]
+;B[ph];W[sg];B[og];W[sh];B[qi];W[si]
+(;B[rj];W[sj]C[M: I wonder if I should have played at t10. I decided not to to avoid being run down by white, but perhaps I did not look far enough into it.]
+;B[rl];W[sk];B[sl];W[rk];B[qk]C[H: This is now good! If white wants to crawl on the first line, which gives NO POINTS, and let's you build a thick wall towards the centre, then by all means build that wonderful wall!]
+;W[cn]C[H: You notice how HelloBot keeps on playing on the third line, the line of territory, when he has no better ideas? :)]
+;B[je];W[ck]
+(;B[ir]TR[js][ks]C[H: Again, you crawl on the second line. This move gives you two points. Look at the alternatives.]
+;W[hq];B[hr];W[cq];B[jq];W[gq];B[gr];W[qm]C[H: compare the variation, move 77 ...]
+
+(;B[rm];W[pm];B[rn]TR[sn][sm][ro][so]C[Here you have 4 points of territory.]
+;W[ql];B[pk];W[cc];B[ec]C[I particularly enjoyed this play because I am just beginning to learn how shapes can affect play, and this seemed to go well. I don't know if there was a better response but e17 felt right when I played it, and allowed a strong response at h17 two moves later.
+
+H: Yes, this is a good shape!];W[gb]
+(;B[gc];W[hb];B[hc]C[H: ... and you have caught the stones. Good! Here you have a wall on the THIRD line, the line of territory. g18 had no escape, though. You could even have stopped it by playing on the fourth line, the line of victory, as I show in the alternative.]
+;W[bg];B[er]SQ[fd][fe][nk][ok][jp]TR[ff][nl][mk][jo]C[H: Playing on the line of defeat :)  Use your tremendous new third-line wall on the top to claim centre influence with one of the triangle moves. They extend from the stones as I show with squares ...]
+;W[dq];B[fr];W[op];B[pp];W[oo];B[pn];W[om];B[nk];W[pl];B[ok]
+;W[po];B[qn];W[on];B[qp];W[kc]
+(;B[lb];W[jd];B[id];W[ke]
+(;B[kd]C[M: I think I stopped paying attention for a moment there, but I don't think my attempt to salvage this went much better.]
+;W[ld];B[md];W[le];B[mc];W[jc];B[jb];W[ie]
+(;B[lf]C[M: I considered playing at k14 but I decided I had done enough damage and that it would be better to simply contain white and focus on influence in the middle.
+
+H: Very bad move. Your k15 cuts the square white group off. You must not abandon a cutting stone so readily!]
+;W[jf];B[kg];W[if];B[jg];W[kf]C[H: and now the white group lives.]
+;B[mg];W[kb];B[ib];W[ia];B[ja];W[ha];B[fb];W[bb];B[cb];W[bc]
+;B[ba];W[bp];B[ig];W[bl];B[kj]TR[jj][kk][ij][jk]C[H: Good! Claiming territory at last! Not many white threats are nearby. Any of the triangle moves would have worked too.]
+;W[qr]C[H: hopeless ...];B[pr]C[H: Well caught!];W[rr];B[rq]
+;W[sq];B[sp];W[sr];B[qs];W[ce];B[hf];W[di];B[fe];W[br];B[he]
+;W[ka];B[fh];W[la];B[ma];W[eh];B[mm];W[ff];B[gf];W[ee];B[fg]
+;W[ef];B[ed];W[eg];B[fj]C[H: Good!];W[fi];B[gi];W[ei]
+(;B[gh]C[H: Wrong side. Just play g10, your two stones on f12, f13 are not in danger]
+;W[de];B[gk];W[ge];B[gd];W[kp];B[jo]C[H: Good move, threatens to cut off the white group on the right.]
+;W[co];B[lo];W[es];B[ds];W[dr];B[fs];W[cs];B[es];W[aa];B[ca]
+;W[ab];B[np];W[kq];B[jp];W[lp];B[mp];W[lq];B[lr];W[mn];B[ln]
+;W[nn];B[nm];W[nq];B[oq];W[mo];B[ko];W[no];B[ll];W[fp];B[mr]
+;W[ol];B[nl]C[M: I felt that this could have waited, because n8 was still available, but didn't want to chance being a move behind later on.
+
+H: You are right, it could have waited.];W[bi];B[hn]C[H: Good! Claim territory! If you do such moves already at the beginning of the game, you will be considerably stronger.]
+;W[dl];B[fm];W[ej];B[fk];W[ek];B[el];W[be];B[en];W[eo];B[go]
+;W[em]
+(;B[fl]C[M: I wonder if d7 might have been better. It doesn't save a turn but I believe it saves a moku
+
+H: You are right with this :)];W[dm];B[fn];W[ip];B[io];W[gp]
+;B[fo];W[do];B[pb]TR[fa]C[H: That was not necessary. The corner is already safe. f19, for example, would have been 1 moku better.]
+;W[oi];B[ni];W[oj];B[pj];W[oh];B[nh];W[pi];B[nj]C[H: well done.]
+;W[km];B[jl];W[kl];B[kk];W[jm];B[im];W[jn];B[lm];W[jk]
+(;B[ik];W[il];B[jj];W[jl];B[hl];W[hm];B[kn];W[in];B[gm];W[ij]
+;B[im];W[ji];B[ii];W[hj];B[ki];W[jh];B[kh];W[hi];B[ih];W[hh]
+;B[hg];W[bn];B[tt];W[tt]TB[da][ea][fa][ga][ha][ia][na][oa][pa]
+[qa][ra][sa][eb][gb][hb][nb][ob][nc][fd][hd][nd][ge][ne][mf]
+[nf][gg][lg][ng][hh][jh][lh][mh][oh][hi][ji][li][mi][oi][pi]
+[gj][hj][ij][lj][mj][oj][qj][hk][jk][lk][mk][gl][il][jl][kl]
+[ml][ol][pl][ql][hm][jm][km][om][pm][qm][sm][gn][in][jn][mn]
+[nn][on][sn][mo][no][oo][po][ro][so][kp][lp][mp][np][op][rp]
+[kq][lq][mq][nq][qq][sq][jr][or][qr][rr][sr][gs][hs][is][js]
+[ks][ls][ms][ns][os][ps][rs][ss]TW[ac][ad][bd][cd][kd][ae][je]
+[re][af][bf][df][ag][cg][dg][rg][ah][bh][dh][ai][ci][aj][bj]
+[dj][ak][bk][dk][al][cl][am][bm][an][ao][bo][ap][cp][ep][aq]
+[bq][ar][cr][as][bs]C[M: Clearly black has won, but I feel that white's two groups around L16 and around s13 should never have survived.
+
+H: with L16 you are right, as I showed. You could also have killed s13 somehow. This is, however, not the point of Go. The winner is the one with more territory. You will never be able to kill all of white's groups, sometimes your efforts are spent better on other places of the board. Here, letting the group around s13 survive gave you the wonderful wall that made it possible to gain so much in the centre and to kill the group around o5 later. I'd say this is a good tradeoff.]
+)
+(;B[il]C[H: This one is better.]))
+(;B[dm];W[dn];B[em]))
+(;B[gj]
+(;W[gh];B[gg];W[hh];B[ii];W[ih];B[jh];W[hi];B[hj];W[ij];B[hg]
+)
+(;W[gg];B[gh];W[hg];B[hh])
+(;W[hg];B[gh];W[hh];B[ii];W[hi];B[hj];W[ih];B[jh];W[ij];B[gg]
+)))
+(;B[jf]C[H: If you had played k14, ...]
+(;W[kf]C[... white could not have pushed with his right group towards the centre, he would have lost j15.]
+;B[jg];W[kg];B[hf];W[if];B[ig];W[he];B[ge];W[hd];B[gd])
+(;W[if]C[... and the alternative might have cost him the right group.]
+;B[jg];W[ih];B[ji];W[jh];B[kh];W[ii];B[ki];W[kg];B[kf];W[lf]
+;B[lg];W[mf];B[mg];W[ig];B[kg])))
+(;B[ld]C[M: I would have played here had I paid better attention.]
+;W[kd];B[kf];W[jf];B[ie];W[le];B[md];W[lf];B[kg];W[lg]C[H: This would have worked better, yes.]
+))
+(;B[ke]C[H: This would have been better!];W[jb];B[ib];W[ia]
+;B[jc];W[ja];B[la];W[mc];B[nb];W[lb];B[ma];W[ka];B[ha];W[ga]
+;B[fb];W[fa];B[ea];W[ha]C[H: See: not enough space for white to make two eyes and live.]
+))
+(;B[gd];W[hb];B[jb];W[hd];B[hc];W[gc];B[he];W[id];B[jd];W[ie]
+;B[if]))
+(;B[ql];W[pm];B[ol]TR[oh][oi][pi][oj][pj][qj]C[Here six, and better influence towards the centre.]
+))
+(;B[fe]TR[gc][hc][gd][hd][id]C[... five points])
+(;B[no]TR[on][om][pm][pn][pl][ol][pk][pj][pi][ok][nn]C[... big influence]
+))
+(;B[sj];W[rj];B[rk];W[sk];B[qj];W[sj];B[sl];W[rl]))
+(;B[qb]C[H: Perhaps r18? ...];W[pd];B[qc];W[pc];B[pb];W[ph]
+C[H: ... doesn't look so good.])
+(;B[qc];W[rb];B[qb];W[ph];B[nh]C[H: ... a bit better];W[oe]
+;B[ne];W[og];B[nf];W[ng];B[mg]))
+(;B[rd];W[pd];B[pc]C[H: now your corner is safer.];W[qc];B[rc]
+;W[qb];B[rb];W[pb];B[ob];W[ra];B[pa]C[H: safe.]))
+(;B[pl];W[mr];B[oh]C[H: and now white needs to run towards the centre with the stones around s14.]
+))
+(;B[kq]
+(;W[hq];B[ko]
+(;W[mo];B[ho])
+(;W[ho];B[mo]))
+(;W[mo];B[hq])))
+(;B[jp];W[qi];B[qk];W[oi];B[jd]C[H: Look a this powerful black position :)]
+))
+(;B[tt]C[H: if you do nothing ...];W[re]C[H: ... and white attacks ...]
+;B[rd];W[of];B[ld]C[H: you get a lot of territory on top.])
+(;B[qo]C[H: This would be better than doing nothing, of course]
+;W[re];B[rd];W[of];B[qk];W[qi];B[jp]))

@@ -1,0 +1,157 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+PB[kerugin]
+BR[11k]
+PW[gausoi]
+WR[9k]
+KM[0.5]
+DT[2008-12-02]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[W+Resign]
+TM[1800]
+OT[1x60 byo-yomi]
+RU[Chinese]
+
+C[The requestor wrote:  My questions are all in the SGF file. Would you mind just giving me some general Fuseki ( opening ) tips in my game?
+
+s: Hi, I'm siegoman, writing a review for black.  My comments are marked with s:
+
+On move one I list the top 10 change to make with specific moves.
+
+On move two I list the top high level changes to make for the game overall.
+
+Thank you for the chance to review this game.
+Tom Coleman];B[pd]C[s: top 10 move suggestions ( press shift + move location, then back one move to see other choices. )
+
+8 : D6 : squeeze opponent while taking profit.
+20 : P5 : keep some low stones on the edge.
+22 : H7 : extend into corner to secure life.
+26 : R15 : give white small life while you attack outside.
+32 : S13 : build up walls to fight with.
+34 : R17 : seal in white before trying to kill.
+36 : O14 : once white is on the run, secure your group.
+38 : O16 : attack from a distance.
+40 : N15 : attack from a distance.
+68 : Q11 : threaten stuff while taking profit.
+110 : S12 : use dead stones to fight with in KO];W[dp];B[pq]
+C[s: top game suggestions, this is high level philosophy to apply to the whole game in general.
+
+- Focus more on making territory, less on killing.
+
+- Threaten to do something while making your area stronger.
+
+- Sacrifice some stones while making more space for yourself.]
+;W[dd];B[pk];W[cj];B[fp];W[hp]LB[dn:A][jq:B]C[s: squeeze the opponent while building territory.
+
+A = game play
+B = build from Q3 stone while squeezing with F4]
+(;B[dn];W[eo];B[ho];W[gp];B[fo];W[en];B[fn];W[em];B[fc];W[db]
+;B[ic];W[mq]LB[oo:A][qo:B]C[s: with Q stones so high, defend a bit lower.
+
+A = game play, lean into N3 stone
+
+B = secure the corner, prepare to attack N3]
+(;B[oo];W[jp]LB[hm:A][dq:B]C[s: corner is better than center
+
+A = game play, secure H5 stone with F5 stones while reaching into center.
+
+B = build life in corner, prepare to attack K4 group or E7 group later on.]
+
+(;B[hm];W[qf];B[qh];W[rc]LB[qc:C][rd:B][qe:A]C[s: try pushing white into corner, while you build up a wall to attack the outside of board.
+
+A = game play, cut R14 from S17
+
+B = sacrifice a stone and build up black wall
+
+C = push white into corner, take big space around N17]
+(;B[qe];W[re];B[rd];W[sd];B[qd];W[sf]LB[pf:B][rg:A]C[s: threten to do stuff while building up a wall.
+
+A = game play, threten to cut R14 stone.
+
+B = put pressure on S17 group while building up wall.]
+(;B[rg];W[rf]LB[qc:A][pf:B]C[s: build a wall.
+
+A = game play, directly attacking the group, taking away eyes.
+B = seal in S14 while building up large wall connecting Q16, R12 and Q9.]
+
+(;B[qc];W[pf]LB[mc:B][nf:A]C[s: build up territory
+
+A = game play, blocking in white
+
+B = build up territory, make R16 group stronger, indirectly attacking S14 white stones.]
+
+(;B[nf];W[oe]LB[mc:B][nd:A]C[s: attack from a distance, defend up close.
+
+A: game play, too close, gives white stones to climb on.
+
+B: attack from a distance, more secure.]
+(;B[nd];W[ne]LB[mc:B][me:A]
+(;B[me];W[od];B[oc];W[nc];B[md];W[ob]
+(;B[rb];W[pc];B[sc];W[kc];B[mc];W[mb];B[lb];W[kb];B[ma];W[nb]
+;B[lc];W[ng];B[mf]C[kerugin [11k\]: slip];W[of];B[og];W[pg]
+;B[oh];W[ph];B[oi];W[qi];B[ri];W[qj]LB[pi:A][qk:B]C[s: threaten something while taking profit.
+
+A = game play, directly cut the white stones
+
+B = block white from R6 area, taking profit, threaten to capture R10 stones if he doesn't respond.]
+
+(;B[pi];W[rj];B[sh];W[sj];B[qk];W[rl];B[rk];W[sk];B[sm];W[rm]
+;B[rn];W[pm];B[qn];W[qm];B[nm];W[nn];B[on];W[pn];B[po];W[qo]
+;B[ro];W[qp];B[rp];W[qq];B[rq];W[qr];B[rr];W[pr];B[oq];W[or]
+;B[nr];W[nq];B[mr];W[op];B[pp];W[om];B[np];W[no]C[fairgo1 [5k\]: >_<]
+;B[sn];W[lr];B[sl];W[qg]LB[rh:A][pj:B]TR[mp]C[s: use your dead stones to fight with in KO.
+
+A = game play, connect stone in atari
+
+B = place white group in atari, capture after KO fight.]
+(;B[rh];W[sg];B[pb];W[oc];B[nl];W[pj];B[ok];W[oj];B[nj];W[si]
+;B[ni];W[rh];B[jj]C[Cookies [7k\]: o.o..];W[rs]C[Cookies [7k\]: how did p3 die :S]
+;B[dg];W[fe];B[ee];W[de];B[ef];W[ed];B[fd];W[ge];B[gg]C[Shinato [-\]: q2 at s2 looked ok]
+;W[ie];B[jd];W[id];B[jc];W[gc];B[gb];W[hb];B[hc]C[Cookies [7k\]: ><]
+;W[gd]C[Cookies [7k\]: lol];B[fb]C[Cookies [7k\]: wasn't f18 better?]
+;W[ib];B[jb];W[kd];B[ke];W[je]C[HeiKuroi [15k\]: ><
+HeiKuroi [15k\]: this is getting dangerous];B[ld];W[mh];B[kg]
+;W[hd];B[ka]C[Cookies [7k\]: w dead >.>];W[hf];B[ig];W[hg];B[hh]
+;W[gf];B[gh];W[fg];B[eh];W[eg];B[df]C[Shinato [-\]: unless something unexpected happens]
+;W[ff]C[Cookies [7k\]: e11 i think?
+Cookies [7k\]: d11*];B[dh];W[jh];B[jg];W[kh];B[dl];W[dm];B[cl]
+;W[ek];B[dj];W[dk];B[ck];W[di];B[ej];W[ei];B[fj]C[Helicopter [8k\]: hi everyone
+Cookies [7k\]: hi puffin];W[fh];B[ci];W[bj];B[bi];W[fi]C[fairgo1 [5k\]: hi
+Helicopter [8k\]: NEGNET >:DDDDDDDD
+Helicopter [8k\]: o_o];B[gi];W[ch];B[bh]C[negnet42:                hi puffy]
+;W[cf]C[Helicopter [8k\]:                   ?];B[cg];W[bg]C[negnet42: puffy*
+Cookies [7k\]: ...
+fairgo1 [5k\]:
+negnet42: ?
+Cookies [7k\]: *resign*
+fairgo1 [5k\]: there goes the game :S
+kerugin [11k\]: Thanks
+Helicopter [8k\]: hi kerugin
+negnet42: gg both
+gausoi [9k\]: thx
+kerugin [11k\]: Hello
+fairgo1 [5k\]: gg
+kerugin [11k\]: Who are you Heli?
+Helicopter [8k\]: puffy :D
+fairgo1 [5k\]: lol
+negnet42: hi])
+(;B[pj];W[rh];B[mp];W[op];B[qh]))
+(;B[qk]))
+(;B[pc];W[qb];B[rb]
+(;W[sb];B[pb];W[ra];B[nb];W[mc];B[mb];W[lc];B[oa])
+(;W[pb];B[sc])))
+(;B[mc]))
+(;B[mc]))
+(;B[mc]))
+(;B[pf];W[qg];B[pg];W[rh]))
+(;B[pf]))
+(;B[rd];W[qd]
+(;B[qc];W[qe];B[pc];W[rb];B[mc])
+(;B[qe];W[qc];B[pe];W[re];B[rf];W[sd];B[pc];W[rg];B[pf];W[sf]
+;B[ld]))
+(;B[qc];W[qb];B[pb];W[qd];B[pc];W[rb];B[pe]C[s: take it easy, threten fun stuff like moving to R15 next, while building up a strong wall to attack from.]
+))
+(;B[dq];W[ep];B[eq];W[fq]C[s: with the two stones of D3 and E3 white cannot cut.]
+;B[gq];W[fr];B[gr];W[hr];B[er];W[hq];B[fs]))
+(;B[qo]))
+(;B[jq];W[hq];B[jo];W[hn];B[dq]))

@@ -1,0 +1,147 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.16]
+
+PB[Rodeo]
+BR[5k]
+PW[kbwuno]
+WR[5k]
+KM[6.5]
+DT[2014-04-05]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[B+5.5]
+TM[1500]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+C[I was experimenting with a sansan opening in this game (I typically play mini or micro Chinese).  My opponent made a mistake in joseki at move 10 that gave me a huge lead.  I made a few mistakes throughout the game that gave the lead back, and should have lost the game by 2.5.  However, a last minute mistake by my opponent swapped the result.
+
+I think this is an important game to review, as I feel I should have done much better with the lead I had.  In particular, I managed to make very little out of the massive wall facing W's bottom left.  I tried to identify all the mistakes I could, but I would love to know how you would have approached certain important decision points.]
+;B[qc];W[dp];B[qp];W[op];B[dc];W[de];B[mq];W[qq];B[qm];W[rp]
+C[Mistake by W.];B[pq];W[pp];B[qo]
+(;W[rq];B[oq];W[ro];B[rn];W[pr]
+(;B[np]C[Mistake by me.  Correct variation shown.
+
+See alternate variation.];W[or];B[nq];W[po];B[qn];W[no];B[mo]
+;W[nn];B[pn];W[oo]
+(;B[lm]TR[or]C[Given that I have two weak groups I thought he could probably live.  Since the bottom group can be invaded from P2 I decided to push from that side.  How would you attack these stones?]
+;W[mn];B[ln];W[lo];B[lp];W[mp];B[ko];W[mo];B[kp];W[ml]C[After the previous exchange I thought I could probably kill him, since my bottom group is much more solid.  Perhaps my push-through-cut was too early?]
+;B[mm];W[nm];B[nl];W[ol];B[nk];W[om];B[ok]SQ[qj]C[I played through some variations on this move, and this seems to be a mistake.  R10 allows me to keep fighting for much longer while gaining territory.]
+;W[pl]
+(;B[ql]C[I'm sure you know that pushing from behind is bad. Whenever you find yourself looking at a move that does this you should spend a bit of time to see if an alternate exists. The jump to R9 should be easy for someone of your strength to find.]
+;W[pk]
+(;B[qk];W[pj]
+(;B[qj]C[and again]
+(;W[pi]TR[mk]C[It looks like N9 here instead could have made things very messy for me.]
+
+(;B[lk]C[Since I was alive on the right I played honte here.  I probably didn't get as much as I could have out of W's weak group, but I do have a lot of influence toward the left.]
+;W[qi];B[ri];W[rh];B[sj];W[sn];B[sm];W[so];B[rl];W[qe];B[od]
+SQ[pf]C[This move aims at Q14.];W[oe];B[ne];W[pd];B[pc];W[nf]
+C[Surprising non-atari here.];B[me];W[mf];B[of];W[pe]
+(;B[lf];W[og]
+(;B[mg]C[A bad atari. Just makes W stronger.
+
+There are actually 3 questions you should ask to determine if  you should play atari. 
+1. Can you capture the stones (here you cannot)
+2. Would it prevent your oppenent from playing a large move at that point (in this case who cares if W plays here)
+3. Do you have to come back and connect (here you need to connect at M13 to keep N13 so best not to play it.]
+;W[ng];B[ld];W[lg];B[kf]C[Good! You didn't give atari.];W[mh]
+C[A very good result for B.  I think this makes up for what I failed to gain in the initial fight.
+
+Here personally I would focus on the left side.]
+(;B[ee];W[dd];B[ed];W[cc];B[ec];W[cb]C[I feel it was strange for W to allow me this wall.  Now how does he deal with my territory at top?]
+;B[df];W[ef];B[cf];W[cd]
+(;B[ff]C[Wrong side. Also more or less violates the 3 laws and after W extends your weakest stones (on the left) are even weaker.]
+;W[eg];B[ci]SQ[cn][fq]C[Looking back this seems like a big mistake.  Now I have to defend this group rather than use it as aji.  If I had played around the hoshi stone I think I would have been much better off.  This perhaps gave W the opening to get back in.]
+;W[fg];B[gf];W[gg];B[hf];W[ck]
+(;B[ej]LB[di:A]C[Now you have always to read so carefully on the aji of the cut at A.]
+;W[di]C[Ha, like for example now.];B[dj];W[cj];B[dh];W[ei];B[eh]
+;W[fi];B[fh];W[gh];B[gi];W[fj];B[gj];W[fk];B[hh]C[Good reading, but wrong direction. W played well by sacrificing his weak stones to gain the lower left side.]
+;W[gk]
+(;B[hi]C[I thought this was enough to keep me ahead, but now how to I deal with W's moyo?  This is probably the best result I can expect after playing C11 though..]
+;W[kr];B[jq];W[jr];B[lq];W[iq];B[fq]SQ[io][cq]C[Another mistake.  I didn't see that J4 is sente for W (or verrry risky for B), so I was aiming either at the corner or J5.  Obviously I should have just played J5 directly since he shouldn't give me the corner anyway.]
+;W[ip]C[Ugh.. a deceptively powerful move.  I think I would have missed this if I were playing as W.]
+;B[jn];W[er]
+(;B[hn]
+(;W[go];B[fm];W[en];B[em];W[dn];B[ho];W[hp];B[dl]C[This is a slap in the face isn't it.]
+;W[cl];B[el];W[ch];B[dg]C[Remember long ago when I said I would have played something like this?]
+
+(;W[dm]C[small];B[hl];W[hk];B[ik];W[gl];B[gm];W[il];B[hm];W[ij]
+;B[jk];W[hj]C[Now I have sente for the endgame.  I counted the game here and thought it was 66-76 in favor of W.  So I needed to make up ~10 points.  Taking sente into the endgame I thought I could do it.]
+;B[rd];W[re];B[sh];W[sg];B[si];W[qg];B[bg];W[bi]
+(;B[db];W[be];B[ca];W[ba];B[da];W[ab]C[At this point I thought I was already ahead.]
+;B[jh];W[kg];B[jg];W[sd];B[sc];W[se];B[oc];W[qd];B[rc];W[nj]
+;B[mj];W[oj];B[mk];W[mi];B[fn];W[fo];B[nr];W[lr];B[os];W[qs]
+;B[jo];W[ki]SQ[lh][ci]C[This was a nice move to get M12 and C11.]
+;B[ji];W[kj];B[kk];W[ii];B[ih];W[jj];B[kh];W[lh];B[lj];W[bh]
+;B[bf];W[li];B[io]C[I suddenly got worried about this group's life and was in byo-yomi, so I made a quick decision to take this point.  Looking back I was totally safe, but I thought I was a couple points ahead so it was better to be sure.]
+;W[ce];B[ae];W[ad];B[af];W[ms];B[mr];W[ah];B[ns];W[ls];B[rs]
+C[I saw the possibility for a double-ko fight here.];W[rr];B[ps]
+;W[qr];B[sr];W[ss]TR[lb][jc][ek][sk][kl][sl]SQ[bc][rg][qh][bp]
+[aq][cq][dq][br][cr][cs]C[I tried to count the ko threats.. it really depends on how he plays inside my area at the top.  He could easily have more.]
+;B[rg];W[sq]C[Shocking!  He could surely have fought the first ko and given up on the second one.  W would have won by 2.5 if I lost the ko.]
+;B[qh];W[pg];B[sf];W[rf];B[sg];W[ph];B[rh];W[gp];B[hg];W[dk]
+;B[ek];W[kq];B[jp];W[gn];B[tt];W[tt]TW[aa][bb][ac][bc][bd][of]
+[pf][qf][mg][nh][oh][ai][ci][ni][oi][aj][bj][ak][bk][al][bl]
+[am][bm][cm][an][bn][cn][ao][bo][co][do][eo][ap][bp][cp][ep]
+[fp][sp][aq][bq][cq][dq][eq][fq][gq][hq][ar][br][cr][dr][fr]
+[gr][hr][ir][sr][as][bs][cs][ds][es][fs][gs][hs][is][js][ks]
+[rs]TB[ea][fa][ga][ha][ia][ja][ka][la][ma][na][oa][pa][qa][ra]
+[sa][eb][fb][gb][hb][ib][jb][kb][lb][mb][nb][ob][pb][qb][rb]
+[sb][fc][gc][hc][ic][jc][kc][lc][mc][nc][fd][gd][hd][id][jd]
+[kd][md][nd][fe][ge][he][ie][je][ke][le][ef][if][jf][eg][fg]
+[gg][ig][gh][rj][rk][sk][il][jl][kl][ll][ml][sl][im][jm][km]
+[rm][in][kn]C[Instead of losing by 2.5 I win by 2.5.  However, if you look at certain points in the game (e.g. after moves 44 and 86) it seems to be a crushing win for B.  I'm surprised how much I lost after just a few mistakes.  But W did seem to play very well after his early mistake in joseki and the odd choice at 82.  I look forward to your thoughts.]
+)
+(;B[be];W[db];B[eb];W[bd];B[da];W[ab];B[ba];W[ca];B[ad]C[Last comment.]
+))
+(;W[gn];B[gm];W[hm]
+(;B[im];W[hl];B[hk];W[gl];B[il];W[bi])
+(;B[hl];W[im];B[gl];W[hk])))
+(;W[fn]))
+(;B[cq]C[The game is very close. I would probably try to live in the corner. Not sure if you can or not.]
+
+(;W[eq];B[bo];W[cn];B[bn];W[bm];B[br])
+(;W[dq];B[cp];W[bn];B[cn];W[bo];B[co];W[cm];B[eo];W[cr];B[dm]
+;W[dl]C[complicated but if he makes a mistake you are good]
+)
+(;W[cp];B[dq];W[eq];B[ep];W[bq];B[fr];W[cr];B[ho])))
+(;B[dg]C[I would handle it this way. Better for killing the corner]
+))
+(;B[dj]TR[ef][eg][fg][gg]C[Just answer calmly. W's marked group is too weak to give you any problems and if he doesn't respond in the top left the corner is dead.]
+))
+(;B[be];W[bd]C[If you have concerns about your left side stones then let W live in gote.]
+
+(;B[db]C[W corner is dead.])
+(;B[cj];W[db];B[eb];W[bb];B[cn])))
+(;B[cg];W[cc];B[cb];W[cd];B[gc]
+(;W[bb];B[db])
+(;W[eb];B[db];W[ec];B[ed];W[dd];B[ea];W[fd];B[fb]LB[cj:A]C[Something along these lines. You are looking to be able to move down at A.]
+)))
+(;B[ke]LB[le:A]C[I would just connect like this to keep the top strong.
+
+If you are concerned about aji with cuts on the top R then connect solidly at A.]
+))
+(;B[le];W[lf];B[ke]C[I would just keep extending. You are exchanging 5th line territtory for dame moves.]
+;W[nh];B[fd]))
+(;B[qh];W[ni];B[mj]C[I think you can squeeze more out of the position for two reasons:
+
+You have no real weaknesses. Mabye the W stone at N8 but it will be hard for W to activate it being as it is so weak itself.
+
+W has a too big to fail group. He has to run and you should be able to wrap up the right side and come away with sente.
+
+Its time to kick him while he's down.]))
+(;W[mk];B[oi];W[pi];B[mj];W[qi];B[ri];W[rh];B[si];W[qg];B[sk]
+C[Your game is OK.]))
+(;B[qi]))
+(;B[qj]C[And again]))
+(;B[qk];W[pk];B[pj];W[ql];B[rl];W[rk];B[qj];W[sl];B[rm];W[sn]
+;B[on]))
+(;B[mm];W[nm];B[nl];W[mn];B[ln]
+(;W[lo];B[om];W[mp];B[on];W[mo];B[ko])
+(;W[lm];B[kn];W[ml];B[ol])
+(;W[ml];B[lm];W[ol];B[nk];W[om];B[pk];W[ok];B[oj];W[nj];B[mk]
+;W[pj];B[oi];W[pl];B[qk];W[ql];B[rl])))
+(;B[or];W[qs]C[W must reinforce.]
+(;B[np])
+(;B[jq]LB[pj:A]TR[op][pp]C[I would think to play like this or at A. The marked W stones are so week they shouldn't need to be captured tightly. The best you could hope for at this pooint is that W would try to save them.]
+;W[pn];B[qn];W[nn];B[pj]C[For exammple like this])))
+(;W[pr]))

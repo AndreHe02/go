@@ -1,0 +1,133 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.17]
+
+PB[goCoder42]
+BR[14k]
+PW[Thunkd]
+WR[14k]
+KM[6.5]
+DT[2011-03-10]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[W+Resign]
+TM[600]
+OT[5x20 byo-yomi]
+RU[Japanese]
+
+C[Thunkd [14k\]: Hi
+goCoder42 [14k?\]: hi];B[pp];W[pc];B[dp];W[dd];B[fc];W[cf];B[ee]
+CR[ic][jc][kc]C[Right off the bat I'd say this is the first mistake.  White has a lot of good ways to respond that weaken your group at F17]
+;W[ic]
+(;B[kp]LB[qe:A][dj:H][pj:G][cn:C][qn:E][jp:F][fq:B][nq:D]C[Even worse, I don't think you should have tenuki'd here.  You set up the threat to invade the corner, at least follow through on it!  The attacking white stone is also very weak.  See variation starting from previous move.
+
+Additionally, if you had to tenuki here, there are better options, marked A through H]
+;W[qn];B[pn];W[pm]
+(;B[qo];W[rm]
+(;B[rn]C[Already we see a lot of weak points for your black stones.  White has lots of opprotunities to attack, while your threat to capture results in a solid shape for white, leaving your weak diagonals.  Consider how your opponent's shape will be changed by your attack.]
+;W[qm]LB[qm:A][pn:B][rn:D][qo:C]TR[on][sn][ro]C[White now has one strong group against three weak black groups.]
+(;B[ro]C[You might be defending the wrong side here, consider this variation]
+;W[on]
+(;B[po]C[Is this shape bad? If so how could i avoid it?
+
+P:  The best way to avoid this shape is not to end up here in the first place.  See variation here and at move 17.]
+;W[oo];B[om];W[ol];B[nm];W[op];B[oq];W[mo]
+(;B[pq];W[lm]
+(;B[lc];W[ie]
+(;B[nc]CR[ic][ie]TR[lc]C[Attacking the northeast corner doesn't look like it will be very profitable to for you.  White can easily slide south along the fourth-line and get tons of territory.  By keeping the pressure on the marked white stones, you can build a better space for your running attack.]
+;W[le];B[ne]LB[pe:A]C[Playing here just lets white take territory on the white without doing anything to secure your stones.  White A is obvious.]
+;W[pe];B[ke]LB[ng:A][pg:B]TR[le]C[In the position you're in, all you can do is run at A, which provokes a white response at B, which isn't to your benefit.  Keep in mind that the marked attachment strengthens white.]
+;W[kd]
+(;B[kf];W[ld];B[mc];W[md];B[nd];W[jd]
+(;B[mf]CR[pc][pe]TR[ic][jd][kd][ld][md][ie][le]C[This is problematic.  Breaking into white's eastern fortress is more urgent than containing the triangle-marked white group.  It isn't settled yet, whereas the white stones marked with circles are the true local threat.]
+;W[lf];B[lg];W[kg];B[jg];W[kh]C[Again we see weak diagonal relationships between your stones.  Contrast this with the strong, connected look white has.]
+;B[jf]LB[ph:C][dm:A][gp:B][mp:D]C[The life or death of those two stones are not worth as much as the moves labled A through D.  Play the most urgent moves first.]
+;W[jh]
+(;B[di]TR[dp][kp]C[You've got the right idea, but the marked black stones are weak.  You've created more opprotunities for white to attack.]
+;W[ig];B[mg];W[dl];B[ph]LB[cc:D][cn:A][gp:B][fq:C]TR[dp]C[Would a move at D6 be better? Why?
+
+P- your move is a good invasion that threatens to steal from white's territory while strengthening your fleeing stones, but a move that attacks white while expanding your own territory has higher urgency. Aside from D6 there are other moves that might be more profitable, labled A-D.  Keep in mind the Southwest corner is still vulnerable to a 3x3 invasion.]
+;W[qg];B[nh]LB[of:A]C[A looks better to me];W[nl]
+(;B[mn];W[mm];B[nn];W[ln];B[pl];W[no];B[pk];W[co]
+(;B[cm]C[I don't see what you were going for here.  See variations]
+;W[cl];B[bl];W[dm]
+(;B[bm];W[cp];B[do];W[dn];B[cn];W[dq];B[cq];W[bq];B[cr];W[dr]
+;B[bp]C[This isn't going to get you anywhere, I'm getting the impression that at this point in the game you aren't thinking too much about your moves and playing reactionary.]
+;W[bo];B[bn];W[ap]CR[bl][bm][cm][bn][cn]C[This shape is horrible, egregiously so.  Classic dumpling.  You ended up here because you were trying to defend instead of attacking and defending with the same move.  Keep in mind that sometimes you can give up a stone to gain tempo elsewhere instead of trying to save every group.]
+;B[hp];W[ep]C[goCoder42 [14k?\]: misclick*
+goCoder42 [14k?\]: thanks]
+(;B[lo]LB[fq:B][mq:A]C[This move makes no sense to me.  You placed a stone that only has two liberties, and can't cut white apart.  The space marked spaces lend themselves as obvious alternatives.]
+;W[ko];B[lp];W[nq];B[kn]CR[qp][rp][sp][hq][iq][jq][kq][lq][qq]
+[rq][sq][gr][hr][ir][jr][kr][lr][pr][qr][rr][sr][gs][hs][is]
+[js][ks][qs][rs][ss]C[You're fighting over the middle of the board, but there are more points to be claimed along the side]
+;W[jo];B[jn]TR[kn]C[Here it looks like you've given up on saving the southern central black group.  The marked stones don't have many options where to run.]
+;W[jp];B[jq];W[iq];B[ip];W[hq];B[io]C[Thunkd [14k\]: doh
+
+P-  a 6 point capture, but the life of your southern central group is still unsettled.]
+;W[eo];B[jo]LB[hn:A][gq:C][mq:D][lr:B]TR[kq]SQ[jp]C[Too soon.  Before you fill in your own liberties, look at your shape and see how you could have made more eyes.  Options marked A through D.  Note that if white can get a stone in the triangled space, the eye becomes false.]
+;W[gp];B[gq];W[gr];B[fq];W[fp]
+(;B[hr]LB[ir:A]C[This should be obvious to you at the 14k level.  If you put a stone on the second line and it only has two liberties, it can be captured in 2 moves.  If you had a plan for this it only had to happen in one move.  As it is, white's reply at "A" should always be considered before a move like this.  See variation.]
+;W[ir]C[goCoder42 [14k?\]: touche];B[dg];W[cg];B[ch];W[bh];B[ce]
+LB[de:A]C[You just attempted to cut a knight's move.  White's move at A should be considered carefully before cutting the knights move.  Keep in mind a 3x3 invasion is still possible.]
+;W[de];B[df];W[cd];B[be]LB[ed:A][bi:B][nj:C][jr:D]C[Your move at A is a sacrifice move.  Attempting to save sacrifice stones increases your opponent's score.  You should use this opprotunity to strike elsewhere, A through D are good candidates.  D is probably the most urgent, at it at least provokes a predictable response from your opponent while strengthening your position.  Play these moves first, otherwise your opponent can wrest control and dictate the direction of play.]
+;W[bf];B[bd];W[bc];B[cc];W[dc];B[cb];W[bb]
+(;B[ba];W[ad]C[goCoder42 [14k?\]: dam
+Thunkd [14k\]: thanks
+goCoder42 [14k?\]: thanks for the game
+
+
+P:  I would have resigned here as well, there's no way for black to catch up at this point.    Your last moves in the northwest corner seemed hurried and your cuts appeared to be blind.  There were many urgent moves that you overlooked, this could have turned out to be a fairly close game if you played more calmly.  I see the timer for this match is set to 10 minutes, I'm not sure if that's accurate or not, but you might get a lot out of playing matches with 30-40 minute time limits and taking more time considering your moves.  A lot of the time, simply imagining where -you- would play if you were white would have allowed you to sidestep some of the pitfalls that came up in this game.  An adage that's repeated often is "Play where your weak stones are strengthened and your enemy's weakest stones are weakened further" (paraphrased).  Considering the urgency of the move your making is also very important, try to make moves that you think will force the enemy to respond in a way that benefits you.  This is harder to see earlier in the game because of the wide open expanse.  Corners, sides, center.  That's the order of urgency.  Combine that with remembering to make moves that force the enemy to respond in a beneficial or neutral way -first- and you'll be playing at the 10k level like a boss.  GG!]
+)
+(;B[db];W[ae];B[ec];W[ad];B[ed]C[This is a possibility also, but it's not clear how black lives.]
+))
+(;B[ir];W[hr]
+(;B[is];W[lr];B[fr];W[fs];B[gs];W[hs];B[gs])
+(;B[kr];W[lq];B[lr];W[mq];B[os])))
+(;B[eo];W[fo]C[goCoder42 [14k?\]: miscliock])
+(;B[fq];W[eo];B[mq]))
+(;B[cp];W[bm];B[bo];W[cn];B[gp];W[bk];B[hi];W[ih];B[fi];W[eg]
+;B[fg];W[ff];B[ef];W[fh];B[gg];W[eh];B[ge];W[ei];B[fj];W[ej]
+;B[dc]))
+(;B[gp];W[cp];B[ck];W[cl];B[dq];W[cq];B[dk];W[ek];B[ej];W[fk]
+;B[em])
+(;B[cp]C[Remember, the corner is worth more in points and urgency]
+)
+(;B[do];W[cp];B[cq];W[bq];B[dq];W[dn];B[gp];W[cj];B[fi]))
+(;B[mp];W[np];B[mq];W[nq];B[nr];W[mm];B[gp])
+(;B[np];W[mp];B[mq];W[no];B[lp];W[nq];B[nr];W[lq];B[np];W[kq]
+;B[jq];W[nq];B[mr];W[jp];B[kr]))
+(;B[gp];W[ip];B[io];W[ho];B[hp];W[jo];B[jp];W[in];B[iq];W[io]
+)
+(;B[dl];W[dn];B[en];W[em];B[dm];W[eo];B[do]
+(;W[cn];B[fn];W[ep];B[dq];W[el];B[dk])
+(;W[fn];B[cn];W[en];B[di]))
+(;B[dm];W[di];B[ck];W[gp];B[fq]))
+(;B[pg]
+(;W[pi];B[of])
+(;W[of];B[pj];W[nf];B[ob];W[pb];B[jb]C[You might be able to make something happen this way.]
+)))
+(;B[ld];W[kf];B[lf];W[je];B[me]LB[md:A]C[The eye at A is -almost- garunteed.]
+;W[lg];B[of];W[mf];B[pf];W[oe];B[nf]))
+(;B[le];W[pf];B[od];W[pd];B[oe];W[of];B[pe];W[qe];B[nf];W[ng]
+;B[mg];W[mf];B[ne];W[mh];B[lg];W[oh];B[lh])
+(;B[lf];W[ld];B[md];W[kd];B[me];W[kc];B[pe];W[mc];B[nc];W[lb]
+;B[ph];W[pj]C[Another possibility.])
+(;B[qe];W[le];B[qh]
+(;W[nd];B[qk])
+(;W[qj]
+(;B[qb])
+(;B[od];W[nc];B[qb]))))
+(;B[no];W[nn];B[np];W[mn];B[mp];W[nl]))
+(;B[mp];W[mn];B[np];W[ml];B[gp])
+(;B[no];W[nn];B[np];W[mn];B[mp];W[ml];B[gp]))
+(;B[oo];W[po];B[no];W[nn];B[mn]C[This is alright for black, but acting sooner would have had a better result for black.  See variation at move 17.]
+))
+(;B[on];W[ro];B[rp];W[sn];B[om]C[This looks much better for black.]
+))
+(;B[oo];W[ro];B[rp]))
+(;B[po];W[qm];B[nm];W[qo];B[qp];W[on];B[om];W[nn];B[mn])
+(;B[on];W[qp];B[qq];W[qo];B[om];W[pq];B[oq];W[pr];B[or];W[qr]
+(;B[cn])
+(;B[km])
+(;B[gq])))
+(;B[cc];W[dc];B[cd];W[ce];B[be];W[bf];B[db];W[bd];B[bc];W[ae]
+;B[ec];W[ed];B[fd];W[de];B[ef])
+(;B[kc]LB[ic:A]C[Alternatively consider pincering the white stone like this.  The threat in the corner is still there, and now you've put pressure on the isolated white stone at A]
+))

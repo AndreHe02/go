@@ -1,0 +1,154 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.17]
+
+EV[Tournoi Principal]
+RO[1]
+PB[Fr�d�ric Verrier]
+BR[11k]
+PW[Julien Gavard]
+WR[11k]
+KM[7.5]
+DT[2011-07-24]
+PC[EGC 2011]
+RE[W+Resign]
+TM[5400]
+RU[Japanese]
+GC[Noir a abandonn� bien apr�s le coup 116.
+
+A la fin, le groupe J15 est mort
+
+La partie a dur� trois heures.]
+
+C[I'm interested to have some commentaries about the beginning of
+the game (1 - 21) because I have the impression that something
+is wrong.
+
+I want to reduce his very big moyo with the stone 22 but I think
+my invasion wasn't very good.
+
+
+A: Hello. My name is Alexander, i'm 4k KGS and i will be reviewing this game.
+
+i've added comments throughout the game, concentrating mainly on the fuseki as the game quickly turned into a large capturing race.
+
+also see the last move for the conclusion.];B[dp];W[pd];B[dc]
+;W[pp];B[cj]LB[ch:C][ci:A][di:B]C[A: usually b plays at A, B or sometimes at C.]
+;W[fq]LB[gd:C][de:A][pj:B]C[generally early in fuseki moves should be prioritized more or less in the following order:
+1. play in empty corners.
+2. approach or enclose 3-4, 4-5 or 3-5 stones
+3. play out an unfinished joseki.
+4. approach or enclose 3-3 or 4-4 stone
+5. play an ideal 5-point extension (basically -- play in the middle of unoccupied side)
+6. play normal 2- or 3-point extensions
+
+following these rules should be enough to get you out to the middle game with an acceptable position.
+
+so in this case A is better, i think, especially since black C10 stone is too far from D17.
+you could also consider B or C.];B[dn];W[dr];B[cq]
+(;W[ip]LB[hp:A][iq:B]C[A: not good. only A or B is playable in such situation. see variation for explanation when this move is playable.]
+(;B[jd]LB[de:A]C[A: good move from b, though you can still play at A. then it would be a completely different game.]
+;W[qj]LB[pj:A]C[game turns out to be a moyo game. in such case it's better to play at A, i think.
+generally, third line moves are for territory, foruth line -- for influence. in this game you want your influence to be be bigger then that of your opponent.]
+(;B[nc]C[A: not the best move here, but now black gives you a chance to come ahead.]
+(;W[pf]
+(;B[pb]
+(;W[qc]C[A: too slow.];B[qb]LB[ij:A]C[A: now b plays a slow move. no need to answer. A is still much more important.]
+;W[rb]C[A: thats purely end-game move and what's more important it's a gote move.
+in the beginning, keeping sente as much as possible is crucial.]
+;B[de]LB[jj:A]C[A: still A is the point to play at];W[np]LB[jj:A]
+C[A: still A!];B[jj]C[A: now b is ahead by a lot. his moyo is much bigger than w's]
+;W[hc]LB[hd:C][cg:B][ej:A][hj:D]TR[dc][de]C[A: not a good invasion. b' marked stones are strong and high. b' attack will be severe and profitable. i would consider A, B, C or D as points for invasion. though now it's a tough game for w.]
+(;B[hd]C[not a good attack. there is a saying "attack from a distance". this way w can make a light form and escape.]
+;W[ic]
+(;B[jc];W[fc];B[gd];W[fd];B[fe];W[id];B[ie];W[ee];B[ff];W[ed]
+;B[dd];W[ef];B[dg];W[eg];B[gc];W[gb];B[hb];W[ib];B[ha];W[ia]
+;B[fb];W[ga];B[eb];W[he];B[ge];W[hf];B[gg]C[hard now for w -- everything under attack.]
+(;W[fg];B[gf];W[hg]C[not a good idea to try to save these stones -- you have to sacrifice something to get other groups out.]
+;B[gh];W[hh];B[hi];W[gi];B[fh];W[ii];B[jg];W[hj];B[fi]
+(;W[je];B[if];W[jf];B[ig];W[kg];B[jh];W[ji];B[kh];W[ke];B[lc]
+TR[ic][jf][eg]C[now w marked groups are dead or extremely weak. game is good for b]
+;W[kb];B[ld];W[jb]
+(;B[lf];W[le];B[me];W[lg];B[mg];W[lh];B[ki];W[mi];B[lj];W[li]
+;B[lb];W[ka];B[ph];W[qh];B[qg];W[pg];B[qi];W[rh];B[pi];W[ri]
+;B[nh];W[nj];B[pj];W[qk];B[ok];W[nk]C[b attacks, though not getting profit. the purpose of attack is not the killing, but rather making profit elsewhere.]
+;B[nl];W[ml];B[mk]C[a mistake by b];W[lk];B[kj];W[mj];B[il]
+(;W[ik];B[kl];W[jl]
+(;B[ll];W[ol];B[nm];W[pk]C[to sum things up:
+
+- follow the proper move order in the beginning
+- try to keep sente (while not overplaying at the same time)
+- know your joseki
+- in moyo game play in the point between two moyos
+- when opponent has a larger moyo do not invade deep, consider mild reduction instead.
+
+hope that helps.
+
+Regards,
+Alexander.])
+(;B[kk])
+(;B[jm]TR[mi][hj]C[much better for b. one of w marked groups will probably die now.]
+(;W[kk];B[jk]C[left group is about to die])
+(;W[jk];B[kk];W[km];B[lm];W[kn];B[mm];W[mk]
+(;B[ll];W[nm];B[ol];W[mn];B[nn];W[om];B[ln];W[lo];B[mo];W[ko]
+;B[kd];W[kf];B[mh];W[mf];B[nf];W[ne];B[md];W[of];B[ng];W[oh]
+;B[oi]
+(;W[og];B[ni];W[pk];B[lf]C[ko for everything. b will likely ignore any threat.]
+)
+(;W[ni];B[lf]C[ko]))
+(;B[kd];W[kf];B[oj];W[ll];B[mh];W[mf];B[ni]))))
+(;W[jk];B[ik];W[ij];B[kk];W[kl];B[jl];W[ih];B[jk];W[fj];B[ei]
+;W[ej];B[di];W[gl];B[km];W[lm]C[now b is in danger. he overexterted himself trying to kill a group and got in trouble.]
+))
+(;B[mg]C[w cant kill these stones]
+(;W[lg];B[lh];W[mh];B[lf];W[kf];B[le])
+(;W[lh];B[lg];W[lf];B[ki];W[mf]
+(;B[ng];W[nf];B[of])
+(;B[mh];W[li];B[lj];W[mi];B[ni];W[mj];B[mk];W[nj];B[oj];W[nk]
+;B[nl];W[ok];B[pk];W[ol];B[om];W[pl];B[ql];W[pm];B[pn]))))
+(;W[fj]C[better];B[ei];W[ej];B[di]
+(;W[ck];B[dk];W[dj];B[ci];W[dl])
+(;W[gm])))
+(;W[gh]
+(;B[hh];W[fg])
+(;B[fg];W[fh];B[hg];W[hh];B[if];W[dh];B[cg];W[jb]C[w can probably get both groups out this way, but this is terrible result.]
+)))
+(;B[id];W[jc];B[kc];W[kb];B[lc];W[lb];B[gc];W[gb];B[fb];W[ga]
+;B[fd]C[b can choose to enclose white]))
+(;B[jc]C[now white is have a hard time running away]
+(;W[he];B[gd];W[hd];B[jf];W[hg];B[if];W[hf];B[fg]C[b is making left side into territory and gathering thicknes to invade w right side, while w is running away with no points.]
+)
+(;W[ec];B[ed];W[fd];B[fe];W[db];B[fc];W[eb];B[gd];W[cc];B[dd]
+;W[bd];B[fj])))
+(;W[jj]C[A: middle-point between two moyos.]))
+(;B[ne]C[A: better for b i think.]))
+(;W[ne]C[take note of this move -- it is often played in moyo games]
+(;B[ld];W[jj]C[now w moyo is bigger
+
+in the moyo game you want to expand your moyo, while reducing your opponent's at the same time. so you have to play in-between your moyos. so this is the move]
+)
+(;B[qc];W[qd];B[pc];W[lf];B[ld];W[jg]C[b cant protect the side.]
+)))
+(;B[oj]C[A: a good counter for your move]
+(;W[pl];B[qi];W[pi];B[pj];W[qh];B[qk];W[ri];B[rj];W[qi];B[pk]
+;W[nl]C[A: lower right is not w territory. b can inavade almost anywhere in the bottom and live without a problem.]
+;B[nq];W[oq];B[np];W[qn];B[kq];W[iq];B[po];W[qo];B[oo];W[ko]
+;B[or];W[pr];B[om];W[ol]
+(;B[ln])
+(;B[pm];W[qm];B[ql];W[ll]))
+(;W[ph];B[qk];W[pk];B[pj];W[ql];B[qi];W[rk];B[rj];W[qk];B[pi]
+C[w moyo is greatly reduced. if w defends bottom (and w can't do it completely with one move), b will attack Q16 stone]
+)))
+(;B[kq];W[iq]C[A: w has to protect its territory. so b can approach the corner from either side.]
+(;B[nq];W[oq];B[np];W[pn]C[a possible follow up])
+(;B[qn]TR[kq]C[A: marked B stone is not captured at all and can create all kind of complications for w later.]
+))
+(;AE[dn][ip][cq][dr]C[A:];B[dn];W[ip]LB[fo:C][cq:B][dr:A]C[A: marked move is playable without w A - b B exchange. now w has C3 move in case of danger outside or just as huge endgame move. if black plays at A himself, white just plays C.]
+(;B[hq];W[cq];B[dq];W[dr];B[er];W[cr];B[eq];W[bo])
+(;B[dr];W[fo]C[A: also possible contuation]))
+(;B[hq]C[A: or B can invade here later.];W[iq];B[hp];W[ho];B[gp]
+C[A: empty triangle is good in such situations.]
+(;W[go];B[fp];W[ep];B[fo];W[eo];B[en])
+(;W[fp];B[go];W[fo];B[hn];W[io];B[fn])))
+(;W[iq]LB[cl:A][cr:B]C[A: a joseki. w gets a small territory and a stable group. later with appropriate support outside w can invade at A or just play a big endgame move at B]
+)
+(;W[hp]LB[np:B][mq:A]C[A: another joseki. A or B are good continuations for w.]
+))

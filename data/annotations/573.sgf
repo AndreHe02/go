@@ -1,0 +1,65 @@
+(;FF[4]GM[1]SZ[19]AP[SGFC:1.13b]
+
+GN[sugime-cgeraud(B)]
+PB[cgeraud]
+BR[2k*]
+HA[0]
+PW[sugime]
+WR[1k*]
+KM[0.5]
+DT[1998-04-04]
+RE[W+R]
+
+;B[pd];W[dp];B[pq];W[dd];B[pk];W[mp];B[po];W[jp];B[jd];W[hc]
+;B[dj]LB[cj:A]C[When playing a splitting move it's usually played low (at A).
+The reason is that it will be easier to settle the stone.];W[cl]
+;B[fq]LB[cf:A]TR[dj][fq]C[Black is too busy: both marked stones are weak and will need attention.
+The normal move would have been at A to settle the group on the left.]
+;W[hq]LB[dq:A]TR[fq]C[Wrong, better is white A to prevent black's next move
+and thus to keep the marked stone weak.];B[cq]C[Good.];W[cp]
+C[Wrong side: the bottom has more potential.];B[dq];W[ep];B[fr]
+;W[go];B[dl]LB[cf:A]C[Black is moving towards white's thickness, normal would be A.]
+;W[ck];B[fp];W[fo]LB[gp:A]C[A bad exchange since it removed other options like A.
+It strengthened white on the outside as well (an inside
+move versus an outside move).];B[fl]LB[fj:A]TR[dl]C[Better A since the marked stone is a small loss when it's cut off
+considering white's strength locally.];W[dk];B[ek];W[dm]LB[ej:A]
+C[Too passive, better cut with A.];B[el]LB[ej:A]C[Small, better to prevent the cut with A.]
+;W[ej];B[di];W[fj]C[Now black has two weak groups inside a white sea of stones.
+White is clearly better here.];B[bj]LB[cm:A][gk:B]C[Would be a good move when it would treaten to cut at A.
+But in this case moving out the marked stones (with B)
+is more urgent.];W[gk]TR[ek][dl][el][fl]C[Good, virtually capturing black's marked stones.]
+;B[cm];W[bm];B[cn];W[bn];B[dn];W[en];B[em];W[gl]LB[bq:A][br:B]
+[bp:C][eh:D]C[Not really necessary, A, B, C is big and thick.
+To attack white could play D.];B[bo];W[co]LB[bp:A]C[A is much bigger.]
+;B[bp];W[do]C[Not necessary.];B[cf]C[Good.];W[ce];B[df];W[ee]
+LB[fd:A]C[Bad shape leaving too many weaknesses at the top.
+Better shape is A.];B[cc];W[be];B[fc]LB[dc:A][de:B][cd:C][ed:D]
+C[Better just play A to make this stone alive. Black A
+would treaten B, C, D to cut next.];W[fd];B[gc];W[ef];B[eg]
+;W[fg];B[eh];W[hd];B[ec];W[de];B[bh];W[qf];B[qe]LB[nc:A][gd:B]
+C[Strengthens white. Better just A to prepare the cut at B.]
+;W[pf];B[nd];W[qi];B[rj]C[Good.];W[ri];B[qk]LB[qj:A]C[Better is A since it takes a liberty from the white stones.]
+;W[oi];B[gd];W[ge];B[he]LB[nk:A][rf:B]C[Too soon, better to play A or B.]
+;W[ie];B[hf];W[id]LB[jc:A]TR[he][hf]C[In this position black wants to play A (big and shape)
+but the marked stones are too weak. This is the reason
+that the cut was too soon.];B[if];W[je];B[gg];W[fh];B[ff];W[cb]
+;B[dc]LB[bb:A]C[Wrong, better at A.];W[bc];B[bb]LB[bd:A]C[Better technique locally is A. The move
+played strengthens white.];W[ab];B[ba];W[ca];B[bd];W[aa];B[cd]
+;W[ad]C[Black is dead, the game is over. The loss in the lower-left and
+upper-left together are too much.];B[hb];W[ib];B[gb];W[fe];B[gf]
+;W[jf];B[ih];W[gh];B[jg];W[ig];B[hg];W[hh];B[ig];W[kg];B[kh]
+;W[ii];B[jh];W[db]LB[fa:A]C[White A is simpler: black doesn't have an eye in that case
+while white does.];B[eb];W[fa];B[ea];W[ha];B[ga];W[ia];B[jc]
+;W[ic];B[bb];W[ba];B[kf];W[ke];B[lg];W[me];B[nf];W[ne];B[oe]
+;W[mf];B[mg];W[ng];B[of];W[md];B[nc];W[mc];B[mb];W[lb];B[nb]
+;W[kc];B[ph];W[nh];B[pi];W[oj];B[pj];W[jj];B[kj];W[kk];B[lk]
+;W[lj];B[ki];W[kl];B[mj];W[mk];B[ll];W[nk];B[mm];W[nm];B[mn]
+;W[nn];B[km];W[ml];B[li];W[no];B[ol];W[nl];B[nj];W[ok];B[ni]
+;W[oh];B[mh];W[bg];B[bf];W[cg];B[af];W[ae];B[dg];W[ch];B[bi]
+;W[bk];B[aj];W[re];B[qd];W[rd];B[rc];W[rg];B[sd];W[se];B[sc]
+;W[pg];B[qh];W[pe];B[lq];W[nr];B[lp];W[lo];B[mo];W[mq];B[op]
+;W[np];B[ko];W[qc];B[qb];W[pc];B[od];W[rb];B[pb];W[sb];B[oc]
+;W[oa];B[rc];W[qc];B[og];W[rh];B[lr];W[pm];B[qm];W[qn];B[pn]
+;W[ql];B[rm];W[pl];B[rl];W[pr];B[oq];W[or];B[mr];W[nq];B[qq]
+;W[qr];B[rr];W[rq];B[rp];W[om];B[qs];W[ps];B[ns];W[rs];B[sr]
+;W[qa];B[pa];W[ra];B[sq];W[ma];B[im];W[gm];B[hp];W[gp])

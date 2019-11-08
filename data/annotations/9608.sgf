@@ -1,0 +1,346 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.16]
+
+PB[jarstar]
+BR[2k]
+PW[jrhoak]
+WR[1d]
+KM[6.5]
+DT[2014-11-16]
+PC[OGS: http://online-go.com/game/1103979]
+RE[B+Resign]
+RU[Japanese]
+
+C[Hi!  My name is Jared and I play black in this game that I played with my friend on OGS (a correspondence server).  I'm a 3k on KGS and I seem to have hit some sort of wall in terms of my understanding of Go.
+
+I wouldn't mind some comments about joseki choice, positional judgment, and the opening in general.  I've tried some variations in this .sgf file, but it's still not exactly clear to me what is considered "good" or "favorable" just by looking at the opening.
+
+What it comes down to is that I don't have a good feel for the opening, and I'd like to refine my intuition.
+
+Thanks for any comments!
+
+Hello, Jared!
+
+I am Bernd, HonFu in the GTL and other go places. 
+
+When I first looked at this game, I thought: "Wow, what's going on here?" 
+
+We all share this fuzziness about the fuseki, it is not easy to judge. But I will try to share what I "know". And then it's suddenly all about the big fighting anyway, right? ;-)
+
+Let's go!];B[oc];W[pp];B[dp];W[cd];B[ed]C[Hon: I think, this approach is good. 
+
+According to conventional fuseki theory, we play first in the corners where there is an assymetrical situation - a 3-4, 4-5 or 4-5 stone, either by making a shimari or by preventing one. (Especially this is true for 3-4 - with the other points we have to ponder a bit, if we are giving away too much influence, so it also becomes a matter of timing.) Main reason for this: only one move more would take the corner territory for good. Either you prevent that now - or maybe never.
+
+Direction also plays a role. Your stone at P17 stresses the upper side, so by approaching C16, you kill two birds with one stone - preventing a shimari AND extending where you want to go.]
+;W[ec]
+(;B[dd]C[Dubious, maybe.
+
+Hon: I agree. It is a bit hard to say if it's really bad, but ... well, from what we said about your upper right, a block at F17 (like in your variation) seems more logical.]
+;W[dc];B[ce]C[jrhoak: avalanche!];W[fc]C[jarstar: The large avalanche, too.  Let the record show that this was *your* choice :D
+
+Hon: Your opponent makes an important point here!
+
+The avalanche is a complicated, dangerous joseki; you should only play it after you studied it thoroughly! (At least in a serious game, which you want to win.]
+
+(;B[fd]C[jrhoak: guh];W[gd]
+(;B[ge]C[jrhoak: hm
+jrhoak: I don't know this variation-
+jrhoak: fwiw
+jrhoak: ...
+jrhoak: This is the most common variation now-adays in this position
+jrhoak: var. From move 10: B16 C17 D14];W[be]C[jarstar: Hmm.  I actually... didn't mean to do that
+
+Hon. So ... why did you? :-)];B[cc];W[bd]C[jarstar: This is interesting though]
+;B[gc];W[hd];B[he];W[id];B[cf];W[cb];B[ie];W[jd]C[Hon: Okay, this sequence turned out really bad for you.
+
+You not only gave White the corner, but also the upper edge - and on the 4th line! This alone is already disagreeable, but this also harms the potential of your 5-3 stone. You almost have to make a shimari now so that your corner still makes sense.
+
+And what have you got? A wall with a certain liberty problem, which is "open at the bottom" (B14), making it hard to use.]
+
+(;B[nq];W[jp]
+(;B[qn]C[Wrong direction?
+
+Hon: You have no other direction really, unless you want to enter the corner directly.]
+
+(;W[np]C[Hon: I don't agree with this move.];B[mp];W[no]
+(;B[pq]C[Hon: In this situation, the attachment looks right.]
+;W[oq];B[or];W[op];B[mr]
+(;W[mo];B[lp];W[lo];B[qq];W[qp]C[Hon: This choice of joseki was not good for White. He gets a wall in gote towards an empty side.
+
+So what will you do? Neutralize this influence directly!]
+(;B[qd];W[qj]C[Hon: White's Wall saves face.];B[qh]
+(;W[ph]C[Hon: This does not look good. White strengthens Black, before defending himself. 
+
+Good technique is strengthen yourself, while threatening the opponent.]
+
+(;B[qk]C[jrhoak: huh
+jrhoak: didn't expcet th
+jrhoak: didn't expect that
+
+Hon: Surprising for me as well - but I see what you want to do. Live here anyway, since White didn't kill rightaway, and make the wall useless.]
+
+(;W[pj]C[jarstar: Hm.  I feel kinda behind in territory after the upper left
+
+Hon: You were earlier. If you can live away White's potential here, you seem to be in the game again - but usually, living in front of a wall like this has consequences.]
+;B[rj];W[ri];B[rk];W[qi];B[om];W[fq]C[Hon: I am not sure about this move ...
+
+I would rather approach from the other side or split the left side. 
+
+I suppose White wanted to defend his wall which suddenly became weakish ... it may be the right impulse ... but even after this approach there is bad aji (e. g. cut at L5).
+
+The situation in the lower right was just too bad for White (like the situation in the upper left was just too bad for Black before).]
+
+(;B[cn];W[ef]C[jarstar: The vital point!
+jrhoak: thar point!
+jarstar: This is very galling
+
+Hon: I think, this is maybe a bit too direct. Black has lots of space still. But it is a good spot shapewise ...]
+
+(;B[fe];W[cg]C[jarstar: Good move.  I wanted C13, but the F15 cut seemed more important
+jarstar: C12, even];B[bf];W[eg]C[jarstar: This is probably dangerous]
+
+(;B[bg]C[jrhoak: not yet, I think
+
+Hon: Pushes like that are very nice towards the opponent.
+
+What do you get by pushing? To be sure of an eye at the edge, you'd have to push again and again, making White stronger in the process.]
+;W[ch];B[ae];W[bc]C[jarstar: Hm.];B[ci]
+(;W[di]
+(;B[dh]C[jarstar: Hm.  Hm.
+
+Hon: This looks like a present.];W[dg];B[bh];W[cj];B[bi]
+(;W[ej];B[de];W[kp]C[Hon: Important spot ... White can't allow to be cut left and right.]
+;B[dk];W[dj];B[fh];W[eh]
+(;B[nl]C[Perhaps slow.  I wanted to get into the center and protect my weak group at the same time.
+
+Hon: Generally I will not criticize a honteish move too harshly. ;-)]
+
+(;W[qe];B[kn]C[Hon: I sense a dream of power here. ;-)];W[ko]
+;B[rd];W[mc];B[dr]C[Hon: Now you still got it. I think, N17 was a mistake, since there was only a few points, no life and death matter, at stake.]
+;W[fo]
+(;B[rh]TR[ph][qi][ri]C[Hon: Black runs right into bad shape - hane at the end of two stones.]
+;W[qg];B[si];W[rg]C[jrhoak: I choose: shape!
+jrhoak: What a peaceful josh and jared game
+jarstar: lol.  So true.];B[sh];W[sj]C[jrhoak: t10 means: I'm still hoping someday to kill your group =)
+jarstar: Fair enough.  Not much eye space :)];B[sk];W[sg];B[sj]
+
+(;W[oi]C[Hon: Do you see, how Black P9 would look better now? It would even threaten White's eyeshape! Instead now, White can aim at D8.]
+;B[pg];W[og];B[pf]C[Hon: In hindsight, White would be better off just throwing away these stones now.]
+
+(;W[pe];B[of];W[oe];B[nf]C[jarstar: There will be no peace
+jrhoak: hahaha
+
+Hon: White compromises his stones in the center by running out here.]
+;W[re]C[jrhoak: I regret 199 now
+jrhoak: P11
+jrhoak: this was my plan
+jrhoak: But I don't like it as much as when I thought of it]
+;B[qf]
+(;W[rf];B[ne]C[jrhoak: doh
+jrhoak: =(
+jrhoak: I've been losing hella go recently
+jrhoak: sigh
+
+Hon: Okay, and now this game just explodes around White.];W[nd]
+;B[od];W[me];B[mf];W[lf]C[jarstar: Hmm
+jrhoak: no hope for those stones
+jrhoak: after you played r14
+jarstar: Yes
+jarstar: I thought you'd sac those three];B[nh];W[mh]C[jarstar: You know
+jarstar: I feel like I learned a lot from our first three games
+jrhoak: =)];B[le]C[jarstar: Like I mentioned, I've been trying to play more calmly and solidly]
+
+(;W[md];B[lg];W[kf];B[mg];W[kg];B[lh];W[bj]C[Hon: A desperate dream now, killing the black worm.]
+;B[ih];W[ji];B[ii];W[jj];B[hk];W[mi]
+(;B[pd];W[li];B[se];W[kh];B[sf];W[gj];B[fi]C[jarstar: I've gotta be careful here...]
+;W[fj];B[hj];W[gi]C[Hon: You are not out of danger and should defend now.]
+;B[ni]C[Hon: White should ignore this.]
+(;W[nj];B[mj];W[mk];B[lj]C[jrhoak: guh. this game...];W[nk]
+;B[ki];W[kl];B[jh];W[kj];B[li];W[je];B[jf];W[jg]
+(;B[hg];W[if];B[gg];W[fl]TR[ji][jj][kj]C[jarstar: hrm
+
+Hon: By first aimlessly running with the little group on the right and after that going on with the attack, White has created a lack of liberties, which Black can try to exploit now.]
+;B[jl];W[lk];B[gm]C[jrhoak: a bloody fight to the end]
+(;W[jm]C[Hon: A tenuki like this ... how can it work ...];B[fm]
+C[jarstar: And I quote: "What a peaceful josh and jared game"  Lol
+
+Hon: Now I see no chances that Black dies here. And then he is ahead.]
+;W[gl];B[hl];W[em];B[en];W[fn];B[dm];W[el];B[im];W[gn];B[km]
+;W[lm];B[jn];W[ln];B[jk]
+(;W[kk];B[hm];W[ij];B[hi]C[jrhoak: nothing now
+
+White resigned here.  I think it's because black is now alive, and there is the threat at G4 to worry about.  Then black will have sente to begin the big endgame points (N18 and L3).  Black has a 10(ish) point lead.
+
+Hon: Are the two of you alive? You probably read out all of this ...]
+;W[dl];B[cl];W[ck];B[bl];W[gh];B[fg];W[gk];B[ik];W[io]C[Hon: Okay, both sides live.]
+;B[fr];W[gr];B[er];W[hq];B[nb];W[mb];B[rp];W[ro];B[rq];W[rn]
+;B[qm];W[qo];B[kq];W[jq];B[kr];W[jr];B[ma];W[la];B[na];W[lb]
+;B[js];W[is];B[ks];W[eq];B[dq];W[eo];B[dn];W[fs];B[es];W[gs]
+C[Hon: Seems to be a lot more than ten points.
+
+Well ... this was a fighty game, I really am not sure if I have got everything right. I hope, my views on this helped anyway. 
+
+The fuseki on the other hand was just characterized by two big joseki mistakes - Black in the upper left and White in the lower right. After that, the game was probably about even again.
+
+Alright, see you next time! :)])
+(;W[hm]C[Hon: So if you make a deal ...];B[kk]C[Hon: ... what's the score?
+
+Black's ahead by about fifteen.]))
+(;W[fm]C[Hon: White has to block.
+
+And now the question would be if White can be cut off on the right. If not, then Black may die here.]
+))
+(;B[if];W[ke];B[ig]))
+(;W[gl];B[hl];W[gm];B[jl];W[ll]C[Hon: Go on and try to crush this worm somehow. Which is bigger, the stones at Q10, or a kill like this? This looks dangerous!]
+))
+(;B[li]C[Hon: Can you push once?
+
+It would be nice if White didn't get all those forcing moves.]
+))
+(;W[ng]C[Hon: White should probably accept this.];B[md];W[mg]
+;B[nc];W[mj]C[Hon: With something like this, White can evade trouble in the center. But of course now he is losing ...]
+))
+(;W[nd];B[rf]C[Sacrifice];W[sd]C[Hon: Is it really one though?]
+;B[sc];W[se]C[Hon: Or will White yet connect instead?]))
+(;W[of];B[pe];W[pl];B[pk];W[ok];B[ql];W[pm];B[pn];W[ol];B[ro]
+;W[on];B[rp];W[ih]C[Hon: Huge. :-)]))
+(;W[pg];B[oi];W[pi]C[Hon: The shapes are so sad in this area. ^^]
+;B[ne]C[Huge liability for white.
+
+Hon: Yeah, White needs to play more flexibly.];W[pl]C[Hon: Ask here now?]
+)
+(;W[of]C[Hon: White should defend his cutting point.]))
+(;B[qg]C[Hon: Probably this attacks harder.]))
+(;W[cq]C[Hon: After this invasion, the black group here might get into eye trouble, which might have consequences for the upper left.
+
+Even if not - pointwise too, this makes a huge difference.]
+))
+(;B[dr]C[Hon: Personally, I might have preferred this one. It makes a lot of points and also ensures safety in the lower left.
+
+Principle at work would be "after your opponent gets thick, you need to get thick as well".]
+)
+(;B[ok]C[Hon: But to me, this looks like the shape point.])
+(;B[bk]C[Hon: Or should you connect? But on the 2nd/1st line ... ugh!]
+))
+(;W[dj]C[Hon: If White now just connects, what have you accomplished with your cut first? it has only given your opponent a bit more shape.]
+))
+(;B[bh]C[Hon: Just connect.];W[cj];B[bi];W[dj];B[df]C[Hon: At some point you need to connect ...]
+))
+(;W[bh]C[Hon: Why not cut?]))
+(;B[dh]C[Hon: How about this? Try to make him heavy.]
+(;W[dg]C[Hon: If he connects ...];B[bh]C[Hon: ... you have this move to work with.]
+)
+(;W[de]C[Hon: If he cuts ...];B[df]
+(;W[dg];B[ee]C[Hon: ... he will have heavy shape. (Like you. ^^ Well, but that was an earlier mistake.)]
+)
+(;W[ee]C[Hon: If he connects ...];B[dg]C[Hon: ... you make good shape at the left ...]
+;W[gg];B[ae];W[bc];B[ig];W[fi];B[dj]C[Hon: ... and can probably fight well enough.]
+))))
+(;B[dh]C[Hon: This move would be too thin.];W[de]
+(;B[fe];W[cg];B[df];W[dg];B[ee];W[bf];B[de];W[eh]C[Hon: This would suck for Black.]
+)
+(;B[df];W[fe];B[ff];W[ee];B[fg];W[eg];B[eh];W[fh]C[Hon: Even after a sacrifice, Black is full of holes.]
+))
+(;B[ch]C[Hon: Maybe something careful like this.];W[fe];B[de]
+;W[gf];B[ig]C[Hon: Maybe this fight is acceptable for Black (at least considering how bad his shape was to begin with.]
+))
+(;B[kp];W[ko];B[jq];W[iq];B[jr];W[ip]C[Hon: What has White accomplished by approaching from the lower side? The space is so small!]
+))
+(;W[pk]
+(;B[ql];W[rj];B[om]
+(;W[nk];B[mm])
+(;W[nl]C[Hon: Does this work?]
+(;B[ok];W[oj])
+(;B[pj]C[Hon: Probably too early for O8.]))
+(;W[qg]C[Hon: Now after White defends, your group looks like it needs another move (because now O8 looks like it's working).]
+))
+(;B[rj]C[Hon: I think, Black would play here to make sabaki!]
+
+(;W[pj];B[rl])
+(;W[rk];B[ql];W[ri];B[pj];W[qi];B[ok];W[pl];B[rl];W[sj];B[om]
+;W[oj];B[pm];W[pi];B[nk]))))
+(;B[qg]C[Hon: If it was me, I would be lazy (maybe too lazy) and just pull back. White still has to defend, but ...]
+;W[oj]C[Hon: ... like this, White has destroyed the possibility of a later invasion, while I doubt that Q12 contributes enough to justify this loss.]
+))
+(;W[oj]C[Hon: Just jumping is enough - R6 dies a natural death, and White, while defending, also threatens an invasion.]
+))
+(;B[pj]C[Perhaps this?
+
+Hon: I agree. This is the point White would like to have. If he still gets this, good for him.
+
+Anyway, you probably see, that this move would fit better, if your P17 stone was a hoshi instead (or the 5-3 on the other side of the corner, if you like). So here we get another example for why P17 is biased and should be developed early according to his inherent "desires".]
+))
+(;W[qq]C[Hon: Again, this move is important.]))
+(;B[qq]C[Hon: If you had played here ...];W[oq];B[qp];W[mo]
+C[Hon: ... White's stone at K4 would save honor.]))
+(;W[pn]C[Hon: I think you're right - this would have been better.]
+;B[pm];W[on]
+(;B[qp]C[Hon: Not here, this is friendly towards White.];W[qo]
+;B[ro];W[po];B[rm]
+(;W[om];B[pl];W[fq])
+(;W[qq]C[Hon: This move is important - you can't leave it out!
+
+Now you see the difference to my suggestion of 3-3 at move 31.]
+))
+(;B[qq]C[Hon: Black enters here.]
+(;W[qo]C[Hon: Shapewise, White would want to go here, but ...]
+;B[pq]C[Hon: ... then Black lives and K4 does not make sense anymore. It is sitting right in front of a living group, having no job.]
+)
+(;W[pq]C[Hon: But if White blocks here ...];B[qp];W[qo];B[ro]
+;W[po];B[rm];W[om];B[pl]C[Hon: ... then Black got the corner for free, while in your variation (attaching at R4) White would get an atari at 3-3. 
+
+Locally this is considered a bit better for Black.];W[fq]C[Hon: But still, it makes sense with K4, so I would still do this as White.]
+
+(;B[qd]C[Hon: The right side is not so easy to develop.];W[qe]
+C[Hon: White can still enter.];B[pe];W[qf];B[rd];W[pf];B[oe]
+)
+(;B[pg];W[qd]C[Hon: If Black takes some move on the side first, White can still enter the corner.]
+)))))
+(;B[no]C[Hon: This idea of yours here is not joseki.];W[pn]
+;B[pr];W[qq]
+(;B[lq]
+(;W[qj]C[Hon: Something like this looks good for White. Your extension to M3 is too tight, your jump to O5 is almost like passing. (Take it off the board - what have you lost really?)]
+)
+(;W[fq];B[cn];W[fo];B[ql]))
+(;B[kr]C[Hon: With the two-space pincer you play here, but in this case ...]
+;W[jr]C[Hon: ... it is just an invitation for White to make strong shape on the outside.]
+)
+(;B[jr]C[Hon: On the other hand, this is too far.];W[mp];B[np]
+;W[mq]C[Hon: Black is cut.]))
+(;B[qq];W[pq];B[qp];W[po];B[pr];W[or];B[qr];W[oq];B[qn];W[fq]
+C[Hon: Entering the corner directly would lead to something like this - White's extension to K4 turns out to be in the right place.
+
+For you, it is hard to decide what to do with the right side ... you are already in a flat position in the lower right, so after a shimari in the upper right it would not be easy to develop.]
+))
+(;B[qd]C[Hon: I am not sure how this will go on, but I see problems on the left side. It is hard to build a moyo there, because from B15 White can enter anytime. 
+
+If you block at that point, though, it is not sente, so it will be just the signal for White to invade the left side and easily live - right in front of your then useless wall.
+
+Territorially, I see White ahead by more than ten points, maybe twenty.]
+))
+(;B[cc];W[bd];B[cb]C[Hon: This is the way to play the avalanche.
+
+But from here you better know what you're doing!!!];W[bc]C[Hon: You show one possible sequence, as if it was the only one; but White can choose other variations - at this and other points - which you would have to anticipate before choosing the avalanche.]
+;B[gc];W[hc];B[bb];W[be];B[gb];W[fb];B[hb];W[db];B[ic];W[hd]
+;B[id];W[gf];B[ef];W[cf];B[eh];W[ie];B[je];W[if];B[kd];W[ch]
+;B[ej]C[Seems good for white.
+
+Hon: I'm not so sure about that. White has the corner, but he is cut off from the center totally, and has a weak group there. This doesn't seem to agree with the lower right, because that stone wants to be part of a whole-board development strategy. 
+
+Your 5-3 in the upper right has made territory in the direction where he wanted to go.]
+))
+(;B[bd]C[Hon: This is played rather often right now.];W[cc]
+;B[cj]C[Hon: With a sequence like this you treat your stones up there rather lightly and use them to increase your moyo potential on the left side.
+
+Of course there are a lot of variations which you can check yourself, for example at www.eidogo.com, but I think, this is one logical way to go, since your hoshi down left wants to develop towards the sides.
+
+Anyway, your hoshi would be fine to take the lower side instead - he is rather flexible! (This is by the way one reason why we don't hurry to approach a hoshi stone - we first want to know which side is better. The other reason is that a hoshi stone can't enclose territory directly anyway.)
+
+But now look at your stone in the upper right! While your hoshi down left didn't mind taking either the left or the lower side, your 5-3 had a "clear preference" - the upper side. But there, the potential of growth is limited now, because White has a solid, stable, low, living, unattackable group in the upper left.
+
+(Again: It's hard to say - at least for me - that it is "bad" - but maybe you understand my doubts and the reasoning.)]
+))
+(;B[fc];W[dc];B[fd];W[cf];B[jd]
+(;W[qd];B[pe];W[qe];B[pf];W[qg]C[Hon: Yes, this would make more sense for black!]
+)
+(;W[pe]C[Hon: White would not approach at R16 though, but here - he doesn't want to help Black build up his position more than he has to.]
+)))

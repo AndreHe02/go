@@ -1,0 +1,139 @@
+(;FF[4]GM[1]SZ[19]ST[1]AP[SGFC:1.15]VW[]
+
+PB[Bu]
+BR[30k]
+HA[9]
+PW[The Many Faces of Go]
+KM[0]
+DT[2007-05-06]
+RE[W+12]
+
+AB[jp][jd][pj][dj][jj][pp][dd][pd][dp]C[I am black, playing the Many Faces of Go v.11 engine with 9 stones handicap.
+
+Thank you for any comments you may have.];W[mp]MA[mq]C[I want to comment on this computer move right away.  This is not bad,  but "lower" (closer to the edge) on X would be better. Remember it's easiest to make territory in the corner, followed by the edge, followed by the middle.  In this case I think edge is better than corner because if W invades the corner and black defends, W will make only a very small territory while B's stones will become powerful.  The advantage of playing on the third line (X):
+
+1. Easier for W to make territory.
+
+2. Also easier for B to make territory if he plays on the 3rd line first, even with W stone already there.
+
+Because of this you should play at X at an early opportunity.]
+;B[gd];W[mn];B[dg]MA[cg]C[>Trying to secure some territory
+
+OK, but again I say lower would be better (X).];W[cc];B[dc]
+;W[cd];B[ce];W[db];B[eb];W[be];B[cb]LB[cd:A]MA[eb][dc][dd][gd]
+[dg][jd]C[This sequence demonstrates what I was saying about the corner in my first comment (move 1).  
+W will probably live, but small, and the marked B stones are strong.  So W's invasion at A was not very productive.  B has done all the right things.]
+;W[ql]C[I really like the computer's move here, and its follow-up as well.]
+;B[qj];W[rn];B[qg];W[qf]LB[bb:A]MA[cn][gq][cq][qc][mc][qq][dn]
+[gp][nq]C[Contact moves start fights and in this case will probably strengthen B in this area, so I wonder what the computer was thinking. 
+
+I would look at any of the X's as reasonable alternatives.  I marked these after maybe one minute's thought, so they are not profound, but better than the actual move.  
+
+The move marked A is not very big but may be necessary at some point to secure the upper left corner where W is not yet alive.]
+;B[pf];W[bb];B[da];W[bg]C[Good, as far as the corner is concerned.  W will live there but so far it's small, only about 10 points of territory.  Overall B (because of the handicap stones) still has a huge lead.]
+;B[bh];W[ba];B[cf];W[qe]LB[rc:A]MA[bf]C[Maybe W is aiming at A, but I think W should have played at X.]
+;B[pe]LB[bf:A][bd:C]MA[qd]C[B's 26 move is probably "wrong way".  You should have extended to block horizontally at X, preserving the corner.
+
+Also, B can (at his leisure) play at A, which W omitted.  W must immediately reply at C to live, which settles the corner and B keeps sente.]
+;W[rc];B[qd];W[rd];B[re];W[rf];B[rg];W[se];B[sg];W[pb]MA[sf]
+C[Not bad, but X was necessary.];B[sf];W[ol]MA[qq]C[One of those strange computer moves... Not bad, but I still like a move closer to the edge (there are many, but X is probably best because of its potential to link with W's nearby stones + the value of the corner.]
+;B[re]MA[sb]C[This is a conterproductive move.  B captures three stones but allows W a chance to live.  I think a B move at X would kill W in the corner.]
+;W[nc];B[qc];W[qb];B[sd];W[lc];B[kc]LB[rb:A][kb:B]MA[jc]C[So far your continuation has been good.  I might have played this move at X, because your contact play invites W B next.  Contact moves are tricky in this respect.
+
+B should also think about playing at A, killing two stones.  But if you do that immediately, W will just continue spreading across the top and gain more than he lost.]
+;W[ra];B[sc];W[ch];B[cg];W[bd];B[bf];W[nk];B[nj]LB[nq:A][qq:A]
+[rj:C][sj:C][ri:C][si:C][sh:C][rh:C][qi:C][qh:C][pi:C][ph:C]
+[oh:C][og:C][pg:C][rk:C][sk:C]MA[rd][rc][rb][sb][sa][qa][pa]
+[pc][pb][qb][oc][ob][oa]C[>I thought I had the upper right corner here, I guess I was wrong...
+
+As a matter of terminology, "corner" means where I put the X's. W's stones are there and will live, but not have much territory. What B has is the upper part of the right side, which is different.
+
+>So I tried to stop white from advancing too much on lower right.
+
+Then a move at A would have been better.  B would almost surely win the corner.  W would push upwards, possibly connecting with its other group, but by living on the side (marked C), B would have an acceptable result.
+
+If you did this, you'd be forcing W to live in the center, which is less efficient than corner or edge.  All things being equal, this is good for you.  By connecting to your handicap stones you can reduce W's potential territory while securing your own. This is an acceptable trade.]
+;W[rk];B[rj];W[me]C[Bingo!  You will see how important it was for you to block this when you had the chance.  Quite possibly your failure to block here was the losing move.]
+;B[rb]MA[mg]C[Not big enough.  You should think of something like X to blunt W's extension.]
+;W[qa];B[oc];W[ob];B[nb]C[Pointless, as you later realize.]
+;W[mb];B[na]C[In retrospect, this was pointless.];W[jn]C[>I should have seen this coming...
+
+Yes, it's a threat.  You should respond, but your next move was something different.]
+;B[nd];W[mc];B[md];W[ld];B[od]LB[le:A]MA[ne]C[If you are determined to play around here, X would be better (because it makes more territory for you and allows less for W; in this situation each point has double value, one more for you and one less for your opponent).
+
+A would also be good, cutting off the B stone.];W[kb];B[jb]
+;W[le]C[Now W is not only alive but can readily extend into what should have been B's territory.]
+;B[ka];W[oa];B[lb]C[Playing for too little territory when there are big moves left to make :(]
+;W[gq];B[gp];W[fq];B[eq];W[fp];B[fo];W[hn];B[gn];W[ho];B[hp]
+;W[cn];B[em];W[go];B[fn];W[ip];B[hm];W[im];B[il];W[bp];B[co]
+;W[bo];B[ep];W[cl];B[cm];W[bm];B[dm];W[cr]C[This is a pretty big move for white (10-15 points, I guess).]
+;B[cq];W[bq];B[dn];W[bn];B[cp];W[jl];B[hl];W[hq];B[dr];W[ar]
+;B[cs];W[mg]MA[qq]C[>About here I started to worry about losing the center too, in addition to white's huge lower right corner.
+
+Again, you could live in the lower right corner with proper play at X (I think).  So I would call that an urgent move.]
+;B[lh];W[br]MA[kf]C[??
+
+X would be bigger.];B[es];W[oq]C[Now W has the corner.];B[fr]
+;W[pq];B[lk]MA[jf]C[>Again trying to keep white top/bottom separated.
+
+Maybe not necessary.  Better to block W's westward move by playing a B stone at X.]
+;W[gr]CR[jp]MA[is]C[Why did W do this?   If B had played the monkey jump at X on the previous move, it would be worth at least 10 points (of W territory reduction) and would have potential to connect with the "lost" K4 stone.
+
+So W's move was a good defense.];B[gs]MA[jf]C[Not important.  Again, I think X would help you more.]
+;W[hs];B[fs]LB[er:A]MA[jf]C[After all these B stones played in a heavy clump on the bottom edge, B gains only one point of territory at A.  This is not efficient.  You *need* to play at X.]
+;W[jf]C[Bingo!
+
+Remember the proverb, "Opponent's best move is usually my best move."   W knows this.]
+;B[if];W[jg];B[cj]MA[ig]C[I would have preferred X, keeping W out of your largest territory, but your move is not bad.]
+;W[qp]C[Not necessary for W, who can kill B any time.];B[lm]
+LB[ll:A][ml:B]MA[ig]C[>Here I thought i could stop white right and left from connecting too high. I should maybe have concentrated on separating top/bottom instead?
+
+W can cut off this stone by playing at A.  If you played at B it would be slightly better.  I still like X.]
+;W[jq]C[Stupid computer move.];B[ln];W[jk];B[ik];W[ki];B[li]
+;W[kj];B[kh]C[Sorry to say this, but this is a BAD move!   It allows weakness that guarantees W's ability to push westward into your biggest territory.
+
+In my opinion this move puts W ahead.];W[ji];B[ij];W[lj];B[jh]
+;W[mk];B[mj];W[ii];B[ig];W[ke];B[je]MA[hi][gi]C[Your move only blocks one point.  If W can move next at X, B will see a huge reduction in territory.
+
+By this time B has clearly lost.];W[lg]C[Good for W; this has a similar effect but on the other side (strong base for reducing B's territory, but on the right side this time).]
+;B[mi];W[gi];B[hi]C[>Doubt this helped at all.];W[kk];B[ih]
+;W[gk];B[dl];W[sj];B[si];W[bl];B[ck];W[sk];B[rh];W[nh];B[oh]
+C[>I see white eating away at what I thought was my territory
+
+Yes, I feared this when commenting on move 56.  But don't feel bad; this is how you learn.]
+;W[og];B[oi]C[Correct, under the circumstances.];W[af]LB[ma:A]
+[la:B]MA[nb][na]C[>Here I realized I don't have the upper right corner :( Had I moved there first I feel I would have had a chance at it though. Am I right?
+
+No, W has held the upper right corner.  W can capture the two marked stones at any time.  If you play at A to connect to your stones on the left, which at first glance might seem to isolate the six W stones, W simply plays at B and captures three B stones (variation).]
+
+(;B[ag];W[ae];B[ac]C[>Too late for that now since white can easily make the eye at A18
+
+Yes, or if you played at A18 then W would play here and be alive. Such points in equivalent pairs are called miai.]
+;W[ab];B[ca];W[aj];B[bi];W[ne];B[oe];W[nf];B[ok];W[nm];B[pl]
+;W[pm];B[qk];W[rl];B[pk];W[jo];B[bk];W[ak];B[ai];W[bs];B[ds]
+;W[gg];B[hh];W[gh]MA[kg]C[??? Hard to see how W could possibly survive here, but the game is mainly settled anyway.
+
+W has a potential point at X that you should think of blocking.]
+;B[gj];W[fj];B[hj];W[fi];B[eh]C[This would be the vital point for W to make an eye, so it was prudent to play here.  But I'm not 100% sure it was really necessary.]
+;W[kg];B[gf]MA[sb]C[>I don't see anywhere white can make an eye, so I try to stop it, and here I realized it was maybe trying to surround?
+
+You can preserve a point of territory by playing at X.  W can't make eyes where you played anyway, so your move 200 accomplishes nothing.]
+;W[sa];B[sb];W[ma];B[la];W[pg];B[ph];W[of];B[ni];W[mh]MA[ng]
+C[Go back one move!   Had you played 208 here, W would have one less eye because he would be forced to fill at X.]
+;B[bc]C[>Pointless try...];W[ad];B[bj];W[al];B[gm]C[>Connecting down..
+
+Not necessary;  just filling your own territory.];W[kd];B[ie]
+C[Not necessary.];W[ic]C[I was curious why white insists on playing in what I considered my territory...]
+;B[jc]C[It was a poke, forcing you to do this.];W[pc];B[eo]
+MA[do][en]C[Not necessary to connect, because if W played there you could play at either X and have no worries.  Although I didn't count, you made about 4 moves filling your own territory towards the end, so the loss didn't have to be so great.
+
+I was glad to review this game for you and hope it helped.  Keep playing, and good luck.
+
+>This connected my chain of stones which seemed to be what white was trying to surround (though I don't see how it could) to my lower chain. I still am not sure if it is what convinced white to play in my territory, but it passed here, I passed, and game ended with an 11 point win for white :(
+
+Again thank you for taking the time to review this. I tried to explain my moves as best as I could.]
+;W[tt];B[tt])
+(;B[ma];W[la];B[ma];W[na]LB[ka:3][lb:2][ma:1]C[W not only lives in the corner but can also wage ko against B, initially at the stone marked 1, but maybe later also at 2 and 3 if B can not reply with strong ko threats of his own.
+
+So playing this way would not have been good for B.  W was already alive in the corner.]
+))

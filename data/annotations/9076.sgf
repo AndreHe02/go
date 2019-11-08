@@ -1,0 +1,57 @@
+(;FF[4]GM[1]SZ[19]ST[0]CA[UTF-8]AP[SGFC:1.16]VW[]
+
+PB[SnakeTong]
+BR[5k]
+HA[0]
+PW[UGr]
+WR[4k]
+KM[0.5]
+DT[2012-05-31]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[B+Resign]
+TM[300]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+;B[pd];W[qq];B[dc];W[dp];B[ci];W[de];B[fd];W[cc];B[cb];W[cd]
+;B[eb];W[bb];B[ba];W[cg];B[dn];W[cl];B[dl];W[dm];B[cm];W[em]
+;B[bl];W[cn];B[bm];W[co];B[ck];W[jp];B[pp];W[qp];B[po];W[qn]
+;B[qo]LB[pn:A]C[Better to omit this move and play at A directly. This move costs a liberty and a ko threat.]
+;W[ro];B[pn];W[qm];B[lp];W[jn];B[ko];W[jo]TR[ko]C[I think that the exchange of the marked stones strengthens white more than it strengthens black.]
+;B[lm];W[pg];B[gm];W[fn];B[gn];W[el];B[gp];W[dk]
+(;B[cl]LB[dj:A]TR[dl]C[It would be better for black to play at A. The marked black stone is not that important. Putting it into atari is also a bad move by white I think.]
+;W[jl];B[im];W[jm];B[hk];W[fo];B[go];W[pj];B[lk];W[jj];B[hq]
+LB[kq:B][hi:A]C[This move induces a white move at B which weakens black's others group. It would be better for black to move out his group at A. That would also improve possibilities to attack the white group in the upper left.]
+;W[kq];B[lq];W[oq];B[eq];W[dq];B[ej];W[ek];B[fj];W[dj];B[di]
+;W[cj];B[bj];W[bh]TR[cj][bj]C[It would have been better for white to play this move directly and leave out the marked exchange. This would leave white for example the possibility to play at the position where the marked black stone is placed now.]
+;B[bi];W[nc]LB[ki:A]C[White should play something like A instead to reinforce his weak group and at the same time weaken the black group.]
+;B[jd];W[kb];B[jb]LB[ki:A]C[I think black should ignore white's last move and attack the white group at A.]
+;W[jc];B[ic];W[kc];B[id];W[pb];B[qc];W[qe];B[qb]
+(;W[ib]LB[pc:A]C[White should play at A instead and attack the black corner group.]
+;B[hb];W[ja];B[ob]LB[ki:A]TR[jd][id][ic]C[Good move locally, making life for the corner group. Maybe A would also be an idea. The marked stones have increased black's strength and the fight will not be that easy for white if he does not want his group in the upper left to die.
+In any case black should end in sente and be able to play the move he just played.]
+;W[nb];B[oa];W[hj];B[ik];W[jk];B[ij];W[lj];B[mj];W[li];B[pq]
+;W[pr];B[op];W[or];B[pm];W[ql];B[ld];W[ml];B[ll];W[mk];B[nj]
+;W[ol];B[mm];W[ok];B[nh];W[ne];B[mh];W[oc];B[lh];W[ji];B[kh]
+;W[ii];B[gj];W[hi];B[gg];W[fh];B[gh];W[gi];B[fi];W[eh];B[ei]
+;W[ig];B[jh];W[hg];B[gf];W[kd];B[jf];W[jg];B[lf];W[kg];B[lg]
+;W[kf];B[ke];W[he];B[fe];W[lr];B[mr];W[ks];B[ms]LB[nq:A]C[This move should be at A. Now white should play there (see var).]
+
+(;W[mq];B[nq];W[mp];B[mo];W[ir];B[hr];W[kp];B[np];W[hs];B[iq]
+;W[gs];B[fr];W[jq];B[jr];W[js];B[ls];W[kr];B[kn];W[pc]C[White does not have enough points and can resign here.
+
+Attacking the white group was a good idea I think. White should have strengthened his group instead of starting an invasion at the upper side.]
+;B[ph];W[qh];B[pi];W[qi];B[oj];W[pl];B[og];W[pf];B[of];W[oe]
+;B[lc];W[me];B[le];W[lb];B[dr];W[cr];B[ep];W[eo];B[cs];W[br]
+
+(;B[bc];W[bd];B[ab];W[bf]C[SnakeTong [5k\]: th missclick];B[dh]
+;W[dg];B[eg];W[bs];B[ds];W[hc];B[hd];W[gb];B[gc];W[ha];B[fb]
+;W[hc];B[ap];W[bp];B[ao];W[aq];B[an];W[hb];B[ef])
+(;B[sp]))
+(;W[nq];B[mq]C[If black defends...];W[np]
+(;B[mo];W[no]C[...black cannot make eyes and white probably wins the capturing race.]
+)
+(;B[no];W[mo];B[mp];W[nn])))
+(;W[pc];B[qd];W[re]C[Now black has to run.]))
+(;B[dj];W[cl]C[If white would capture...];B[ek];W[dl];B[fl]
+C[...black could play this for example.]))

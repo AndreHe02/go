@@ -1,0 +1,140 @@
+(;FF[4]GM[1]SZ[13]ST[2]CA[UTF-8]AP[SGFC:1.16]
+
+GN[White error at 60?]
+PB[A]
+BR[20k]
+PW[GnuGo 3.8]
+KM[6.5]
+DT[2015-10-28]
+RE[B+20.5]
+RU[Japanese]
+
+C[A game I played against GnuGo 3.8 the other day. I am still learning the game and to me it is not always obvious why I lost (or in rare cases won).
+
+This is a typical example. It puzzles me why White decided to ignore the top-left corner after move 58. This allowed Black (me) to capture a number of white stones and take control of the corner. On moves 59 and 61 I kept pushing at the corner but getting no response got me really worried that I was overplaying, and I got really passive and only defended until the end.
+
+Comments are most welcome. You can also comment other moves as well. Please point it out for me, if you find some obvious mistakes, bad playes or really big moves that were decisive.
+
+I have also written a few questions along the way (moves 14, 35, 53).]
+;B[kd]C[First stones...];W[dj]C[First stones...];B[jk]C[First stones...]
+;W[dc]C[First stones...];B[fk]C[Starting to build moyo and put some pressure on white]
+;W[ki]LB[gc:A][kg:B]C[white fights fire with fire
+
+placoderm: you can also consider the pincer here. It's not easy for white to jump in the corner since you have a stone at 3-4 rather than 4-4.]
+
+(;B[gc]C[still moyoing];W[ij];B[ik]C[ok time to defend];W[kf]
+C[placoderm:
+
+compare this with what could have happened if you pincered]
+;B[dk]C[worming in];W[ck];B[dl]C[defending D3 and threatening the corner]
+
+(;W[di]C[Question:
+Isn't this a little bit of a slow play for white? Wouldn't D6 have been better for taking control over the whole left side of the board and supporting the stone at D11, while still helping in defending the bottom-left?
+
+placoderm: see some of the variations I listed];B[de]C[I think, white stone at D6 would've made me more hesitant to play this]
+;W[lk]C[White uses its sente]
+(;B[kk]C[And I have to defend
+
+placoderm: what's the point of this bump?
+you can play at L2 instead (see variation)];W[ll];B[kl];W[ed]
+C[White threatens to isolate D9...];B[bd]C[... so I try to get behind white]
+;W[bf]C[Black getting surrounded...];B[cg]C[But now it's White that is getting surrounded. However, I am worried about the shape of the three black stones at B10, C7 and D9.]
+;W[bb]C[White gets the corner];B[bg]C[I decide to isolate the lone white at B8]
+
+(;W[cl]LB[el:A]C[Ok, this was a surprise. Defend against peep at D2 instead of attacking at C10
+
+
+placoderm: consider what happens if white doesn't play here (see variation)
+
+also, if black doesn't respond, later white can play at E2, destroying black's territory and possibly threatening life]
+
+(;B[cd]LB[bc:A]C[Better to block that attack route
+
+placoderm:
+B11 might be better here];W[fi]C[White decides to play at center, maybe aiming at connecting the stones at top-left]
+;B[ff]C[So, I respond by blocking the way. This conveniently supports the five black stones on the left and makes it possible to connect the two at the top-right.]
+;W[gd]C[White tries to block the connection and worm in into the corner]
+;B[hd]C[block and hane];W[fc];B[gb];W[fb]
+(;B[ge]C[Question:
+Was this an unnecessary aji-keshi?
+I deemed it better to build a blockade and possibly connect the left side with the top-right.
+
+p: i don't think it's bad, otherwise, white can come out to the center
+
+however you shouldn't be worrying about connecting the left side with the top right, what is the point of that when you can easily live with B5? try to make territory or attack your opponent instead
+
+you could also consider pushing up from the bottom  instead of this move (see variation)]
+;W[fd];B[hc];W[hi]C[White threatens the bottom and enforces the right]
+;B[bi]C[Answer threat with threat];W[bj]
+(;B[bh]LB[ci:A]C[have to defend
+
+P: what's the point of this move? B5 can't be captured anyway (see variation), so you essentially gave white a free move here
+
+if you must defend, defend at A instead. white has to connect at C4 and you still get sente]
+;W[hk]C[in comes the white];B[hl]C[defend];W[dm];B[em];W[cm]
+;B[fl];W[le];B[ld];W[md];B[mc];W[me];B[lb]C[I do not know whether this is a good practice, in a similar situation I almost always play M12 instead of M11.]
+;W[gk];B[gl];W[gj];B[cc]C[Ok, after this we get into the interesting stuff I cannot figure out.
+So here I am pushing at the corner.];W[cb]C[white defends];B[dd]
+C[connecting my black stones...];W[hg]C[... and to my big surprise, White plays at the center.
+
+In my opinion, White play at E12, would've secured the corner. However, I got worried, whether the corner already is settled to White's favour]
+;B[db]C[Since White didn't play, I will.
+I guess this was enough for Black to take the corner...
+
+
+
+p: yes, this is usually why you shouldn't play computers. they tenuki at the wrong time and you end up killing everything. horrible move by white.]
+;W[ke]C[Especially since white plays yet another mysterious move of no obvious benefit except defending]
+
+(;B[ec]C[However, feeling insecure, I decide to nail the coffin.
+
+p: no no no, you've essentially just wasted an entire move. you should never do this lol, you've already killed the entire thing]
+;W[eg]C[From now on I will only defend...];B[ef];W[ie];B[id]
+;W[je]C[p: right here is a good opportunity for you to take sente, don't passively defend here, at most you'll lose a point
+
+you can take M1 or D7 or E4];B[jd];W[ej];B[ek];W[dh];B[dg];W[fg]
+;B[gf];W[lm];B[km];W[gg];B[he]C[Maybe H8 would have been better, but wanted to connect the two groups just to make sure I hadn't missed any vital points]
+;W[kj];B[il];W[jj];B[aj];W[ak];B[ai];W[hf];B[ci];W[cj];B[ch]
+;W[fj];B[tt]C[Pass];W[tt]TW[if][jf][lf][mf][ig][jg][kg][lg]
+[mg][eh][fh][gh][hh][ih][jh][kh][lh][mh][ei][gi][ii][ji][li]
+[mi][hj][lj][mj][bk][mk][al][bl][ml][am][bm][mm]TB[aa][ba][ca]
+[da][ea][fa][ga][ha][ia][ja][ka][la][ma][ab][bb][cb][eb][fb]
+[hb][ib][jb][kb][mb][ac][bc][dc][fc][ic][jc][kc][lc][ad][ed]
+[fd][gd][ae][be][ce][ee][fe][af][bf][cf][df][ag][ah][el][jl]
+[fm][gm][hm][im][jm]C[White: 35 territory + 0 captures + 6.5 komi = 41.5
+Black: 53 territory + 9 captures = 62.0
+
+Black wins by 20.5])
+(;B[lm];W[ec];B[fa];W[da];B[ea];W[eb];B[ga];W[bc];B[ac]C[white is dead]
+))
+(;B[gj];W[bh]C[if white plays anywhere else, simply play B6]
+;B[ch];W[ci];B[ah]))
+(;B[hj];W[hi];B[ii];W[jj];B[gi];W[hh];B[gj];W[gh];B[fh]))
+(;B[bc];W[cd];B[ce];W[be];B[cf];W[cc];B[ae]))
+(;W[cd];B[bi]
+(;W[bj];B[fh];W[dg];B[cf];W[be];B[ce];W[bc];B[ef]TR[dg][di]
+[bj][dj][ck])
+(;W[ce];B[cf];W[be];B[fh];W[eg];B[eh];W[dh];B[dg];W[ff];B[cj]
+TR[dh][di][dj][ck])))
+(;B[kl]C[placoderm:
+now, if white decides to M2, you don't have to answer and white loses sente. 
+
+Later, if you have the chance, you can take M2.]))
+(;W[dh];B[ci]
+(;W[cj];B[di];W[ei];B[ch];W[cg];B[dg];W[eh];B[bg];W[cf];B[bf]
+;W[ce];B[bj];W[bk];B[ai];W[be];B[bh])
+(;W[di];B[bk]
+(;W[cj];B[bj];W[bi];B[cl])
+(;W[cl];B[cj];W[bl];B[bj];W[ch];B[cm]TR[ck][bl][cl]C[white is captured]
+))))
+(;B[kg];W[ii];B[hj];W[hi]LB[hg:B][gi:A]
+(;B[gi];W[jf]C[placoderm:
+
+white will play somewhere to escape, but...];B[jg];W[ig];B[if]
+;W[hf];B[ie];W[he];B[id];W[gh];B[fh];W[fi];B[gj];W[fg];B[eh]
+;W[gg];B[ei];W[df]C[placoderm:
+
+this is just one possible variation of many, but even though white escaped here, black got a huge amount of thickness and territory. great result for black.]
+)
+(;B[hg];W[fi];B[gc]C[maybe a better way of building a moyo?]
+)))

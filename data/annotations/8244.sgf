@@ -1,0 +1,265 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.17]
+
+PB[LibraryEx]
+BR[2k]
+PW[Saiph]
+WR[2k]
+KM[6.5]
+DT[2011-02-19]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[B+Resign]
+TM[900]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+C[Hi! Thanks for reviewing my game. This is one of those rare games where I actually play seriously, as opposed to my usual games where I just "go with the flow". As such, even though it was a win by resignation, I feel that most of the game is still in need of a review.
+
+I was playing as Black [B\] is this game
+
+Please try and comment as much as possible. Even though I am rated 2k, I learnt Go mainly on KGS by myself and so it's very likely that there are some "basic things" that I don't know. Any advice, no matter how trivial, will be very helpful to me!
+
+
+*****
+
+GP: Hi, I'm Graham Lamburn (johndoe69 on KGS), currently around KGS 2d. I hope to give useful comments and insights where I can (marked with GL:) and have tried to answer your questions, and I've summarised the key points at the end of the sgf. Where I'm offering or annotating variations that deviate from the game, I mark the game move with a square and the deviation with a triangle. If I'm simply offering alternative moves as a comment, I normally mark each with a triangle, and most variations have a comment at the end.]
+;B[pd];W[dq];B[cd];W[qp];B[do];W[cm];B[cq];W[cr];B[cp];W[er]
+;B[en];W[fp]SQ[gp]C[slow move by white here, should be G4 instead
+
+GL: As I understand both this and G4 are joseki. This is a more solid shape, but is also slower.]
+;B[dl];W[ck];B[cl];W[bl];B[bm]C[according to the joseki dictionary, this whould be playable, but the outcome was strange.
+
+Comments on this?
+
+GL: Yeah, this is playable, as is D7. Here Black opts to allow more group weakness but create a strong position to develop the upper left side. It seems a reasonable idea with a stone at C16, I'd have done it. D7 is a good way of forcing White to live rather low on the left edge - both are fine I think.]
+;W[bn];B[bk];W[am];B[cj];W[dm];B[dk];W[em];B[gn];W[fm];B[ho]
+TR[eo]SQ[gp]C[Is F6 better? It felt slow.
+
+GL: F6 is much better. Here you create large weaknesses in your shape. One of which (White playing at E5) is very severe now.]
+(;W[gp];B[go]TR[eo]SQ[fj]C[empty triangle. is Black F6 better?
+
+GL: Yes, much :) That wedge still works!]
+(;W[fj]TR[fk]SQ[ei]C[GL: White leaves a chance to be cut.]
+(;B[ei];W[hl];B[hp]C[GL: Good! This is vital.];W[hq];B[iq];W[hr]
+TR[jp][ir]SQ[op]
+(;B[op]C[Premature?
+
+*** Don't be frightened of playing honte ***
+
+GL: Aside from the E5 wedge (which you can interestingly defend with J2) I would always play K4 here. As White has so much potential presence and the Black group in the lower left is still not yet settled, this is an ideal time to take honte - either securing the group in sente, or getting to followup with this move and not have to worry about counter-attacks.]
+;W[jp];B[ip];W[mp]C[When W played this, it felt difficult for me.
+
+Any comments?
+
+GL: Agreed, the K4 peep is annoying aji. If the lower left Black group was settled I'd feel ok with this position as Black has nothing to fear. As it is, you now really want to settle it at the same time as helping P4.]
+;B[qq]SQ[on]C[Is this a good choice of joseki for B? Or is P6 better? or other josekis?
+
+GL: I much prefer this to P6. The goal here is to settle quickly without compromising the H5 group.]
+;W[pq];B[pp];W[oq]TR[qr]SQ[nq]C[No idea what to do with this. I don't think it's joseki.
+
+Any advice on this?
+
+GL: It's a trick play I think. R2 springs to mind, making miai of both O3 and R5.]
+(;B[nq]TR[qr]SQ[np]
+(;W[np]C[is W  R2 better? If so, how should B have played the earlier sequence?
+
+GL: I certainly think White should play R2 here. However, Black has nothing to complain about with connecting at O4. As in the previous variation, black O3 @ R2 seems perfectly good enough, settling Black completely. Black must turn to the lower left corner soon though.]
+;B[or];W[mq];B[pr]C[GL: Black is very happy with this :)];W[ep]
+;B[eo]C[empty triangle again...
+
+GL: Not to complain, at least you can't be cut in half now!]
+;W[nr];B[jo]C[GL: Good, much more important than defending.]
+;W[ko]TR[jn][kn]SQ[oq]
+(;B[oq]C[I think this was too early. K6 might be better instead?
+
+*** If you have a group you really don't want to die, then make sure it has two eyes ***
+
+GL: P3 is very small. It's really endgame. If you have to worry about the lower left group still (you do) then I would even be tempted with L6. That or K6, depending on reading. If you don't, most of the rest of the board (particularly K17 or Q10) is bigger.]
+;W[kn]SQ[jn]C[Maybe W should have played K6 instead?
+
+GL: It looks more severe certainly. Black is quickly in trouble.]
+;B[ir]SQ[jn]C[bad move? I was hoping to make eyes at the bottom and threaten the W M3 group, but K6 will still be the vital point?
+
+GL: Yes. White should play K6 then fix, and Black still has no eyes.]
+;W[kq];B[jn]C[finally.];W[jm];B[in]TR[hm]SQ[jr]
+(;W[jr]SQ[hm]C[W H7 would have been better?
+
+GL: Yes. wH7 looks like it kills to me. Either way, this is a local blunder almost. L2 is much less risky.]
+;B[im];W[il];B[hm]C[GL: Phew :)];W[gm]C[alive now. lucky me, W didn't spot all those mistakes along the line of play.
+
+GL: And, alive in sente! Double good.];B[km]C[Bad?
+
+*** Opening / Midgame Big move 101 ***
+
+GL: Only good if you are threatening to kill one side or the other. Otherwise this is tiny. J17 and Q10 much bigger. 
+
+You have sente and can pick anything you like. So, checklist time:
+
+1) Do I have any weak groups needing defending? No.
+2) Does my opponent have any weak groups to usefully attack? Not really
+3) Are there empty corner points left? No.
+4a) Are there 3-4,3-5 or 4-5 corner stones left without a second stone? Yes, in the top left.
+4b) Are there empty sides that both corners want to develop*? Yes, two of them.
+5a) Are there 3-3 or 4-4 corner stones without a second stone? Yes, in the top right.
+5b) Are there empty sides that only one corner wants to develop? No.
+
+This is generally my midgame move priority order, with a couple of adjustments. It's a reasonably good rule of thumb good to finding a good spot for that "big move". 4a and 4b are roughly equivalent, as are 5a and 5b.
+
+* "Wants to develop" is a term I use to describe when a corner stone is orientated towards developing a particular side. This is almost always when the stone is on the 4th line with respect to that edge. So C16 is interested in the top (it's 4th line out from the top edge) and not so interested in the left (it's 3rd line there). Q16 is interested in both the top and the right etc. In general, thick / influential positions want to develop those sides with even greater urgency - so the thick position Black has in the lower right, coupled with Q16, makes Q10 feel like the biggest point on the board to me.]
+;W[jl];B[jq];W[kp];B[nn];W[mm];B[ol]C[B wanted a big move.
+
+any comments?
+
+I need help with the balance between security and big moves. I'm not vey good at this yet.
+
+GL: Your groups are very secure, and you have a very influential position all across the top and right hand side. It is little exaggeration to say Black has already won. However, This is a reasonable area to play. I'd probably choose J17 or J16, and locally O6 feels rather a wasted move - it doesn't do enough securely for you, and you can't develop it much further. It's also greatly reduced the aji from L7.]
+;W[nc];B[pf]C[comments on this move?
+
+GL: I like it lots. You want the right side, this threatens to develop it in a big way.]
+;W[qh]TR[qj]SQ[kd]C[I seldom see this being played, hence I forgot about this joseki.
+
+Very painful for B now.
+
+What should B do now? Is the top left side bigger than the right side? which should I focus on? Thus what should B play next?
+
+GL: Black should don his group-killing sunglasses and start fighting. White is clearly completely desperate (and rightly so). First call is to prevent R12 making a base. As it runs out, build an attack against the top. Interestingly, you can feel already how much nicer it would have been for O6 to be at Q10 :)]
+(;B[kd]C[Comments?
+
+GL: Nice idea. As long as White can't seal Black into the corner, this is another perfectly sensible way to attack. I prefer R10 because the right hand side has had so much investment, and feels like the more painful area to allow White to settle.]
+;W[ql]TR[oc]SQ[qj]C[Comments?
+
+GL: A bit loose of White, but awkward, as R5 is suddenly dangerous. As before, I prefer R10 to L16, and again the misplaced-ness of O6 is being felt.]
+(;B[qj]C[Bad move?
+
+GL: No, not really. At the very least it is kikashi, but stopping White in his tracks is very hard now. I would choose to finish what you started in the top right.]
+;W[rj];B[ec]C[This move felt good. But is it the right time to play it?
+
+*** Don't tenuki in the middle of a fight ***
+
+GL: No! It's huge, and is a good candidate for those big tenuki points at the time you played P8 and O6. I mean, it's really big, but you must finish what you started, either in the top right corner or the right side.]
+;W[ne]C[GL: Now Black is getting painful in the corner.];B[md]
+C[GL: Aji-keshi. The corner is scared, and making White thicker doesn't help you enough. It's already very hard to deprive this White group of eyespace.]
+;W[nd];B[qi];W[ri];B[ph];W[qg];B[pg]C[GL: At least you have locally fixed your group issues. Now you can attack again!]
+;W[ic]TR[lb]SQ[hd]C[GL: Craziness. White has problems, this is not the time to make another weak group]
+(;B[hd]C[GL: Definitely the wrong direction. All of a sudden you start threatening your own group at L16 and make it easier for him to link up.]
+;W[id];B[he];W[jf]TR[ie]SQ[lf]C[GL: Apparently White is happy being cut in half...]
+(;B[lf];W[hc];B[gc];W[gb];B[fc];W[je]SQ[kd][md][lf]C[This move by W felt very slow. I think I gave the M16 group a much better chance of survival.
+
+GL: It is very slow, but he also has to mind the cut (see variation at 95). The fact you are talking about the survival of the marked group is a sign of just how much White got away with.]
+;B[mf]C[Is this OK? I didn't know what to play
+
+GL: Also slow, but uber secure and strong. Attacking this White group seems very sensible, and this prevents it from getting out. Sadly, it seems like it should make easy life at the top.]
+;W[lb]TR[kb]SQ[ic][nc][fi]C[Good move by W. Is there a way to still seperate the J17 and O17 groups?
+
+GL: Yes (see next var)]
+(;B[fi];W[hg]SQ[gg]C[Is W G13 better?
+
+GL: Probably, but as L18 threatens to separate J17 off, White needs to be slightly careful allowing Black to seal it in. This is a safer way to play.]
+;B[gg];W[gh];B[fg];W[nf];B[mh]TR[ng]SQ[nh]
+(;W[nh]C[Any better moves by W?
+
+GL: Yes, although playing to separate like this is excellent. O13 (key shape point) here creates interesting problems for Black.]
+;B[ng]C[is this move by B good?
+
+GL: Normally better at O12, but the thickness of the Q13 wall seems to make this very playable.]
+;W[og];B[mg]
+(;W[oh]C[GL: The other side looks hard too.];B[of]TR[nj]SQ[oj]
+(;W[oj]C[W's losing move?
+
+is W O10 better? If so, can B still play on?
+
+GL: P10 is just a disaster. O10 is certainly better, but it's still a very complicated read. It's beyond my pay grade, but my gut feeling is whoever wins the fight will win the game as it's likely to start taking into account a lot of groups.]
+;B[nj]C[B's winning move?
+
+GL: A powerful tesuji. Black has an easy game from here.];W[oi]
+;B[ok]C[W resigns.
+
+Comments and advice on the overall play? Am I too aggressive / defensive / reckless?
+
+Do I need to focus more on my fuseki / joseki / fighting / analysis of big points?
+
+Thank you so much once again for reviewing my game!
+Cheers!
+Lib
+
+*** Summary ***
+
+I think Black actually played really well in the fuseki, and developed a good lead. Black was slightly fortunate a couple of times in the lower left not to be punished severely, but came out of them ok. One thing you seem a bit reluctant to do is to take honte. Often when there are running group fights and you can't afford to lose yours, a move that simply fixes your group completely and has interesting followups (such as K4 earlier that would also have threatened to approach the lower right strongly) are not as slow as they initially appear. Making sure you can't have important groups cut in half is very important, as is cutting them when your opponent leaves you the opportunity.
+
+If there's one thing you struggled with it was the top right fight, where you weren't anywhere near as severe as you could have been in pushing those White groups around. Taking your big sente points on one of the edges would have helped a lot, but even without that a) deprive opponent of base, b) chase where the thickness you get can be used, c) repeat should be your attacking mantra. Make sure those groups can't connect, and make sure they can't make a base, and you can chase and attack for good profit.
+
+I've also included some relatively important ideas on move 67 for developing thought processes over the late opening and early midgame.
+
+*** Important Points ***
+
+Move 37 - Don't be frightened of playing honte
+Move 55 - If you have a group you really don't want to die, then make sure it has two eyes
+Move 67 - Opening / Midgame Big move 101
+Move 82 - Don't tenuki in the middle of a fight
+
+*** Recommendations ***
+
+The suggestions and commentaries at move 67 are useful pointers for midgame thought, and you can get more insight into these thought processes from Yilun Yang's fundamental principles of Go, which is probably a particularly useful book through most of the SDK ranks. I'd also strongly recommend Kato's Attack and Kill if you can get it as it gives really good discussion about how to strongly attack weak groups effectively. Both of these cover techniques and principles that will help your game.
+
+I hope these comments are in some way helpful. If you have any responses / queries / comments or would like further input on specific moves or areas, do feel free to ask!]
+)
+(;W[nj];B[mk];W[mj];B[lj];W[nk];B[nl];W[lk];B[ml];W[li];B[ni]
+;W[oi];B[mi];W[oj];B[kj];W[pk];B[kh]C[GL: What a mess. Black now is possibly alive locally , but wR17 looks devastating.]
+))
+(;W[of];B[oh];W[ni];B[mj]))
+(;W[ng];B[li]C[GL: Protecting the cut.];W[nh];B[ni];W[oi];B[oh]
+;W[nj];B[mi];W[oj]C[GL: This actually looks pretty hard for Black.]
+))
+(;B[kb]TR[pb][lc]
+(;W[lc];B[kc];W[ld];B[ke];W[me];B[ob]C[GL: Looks very hard for White. However, White should first escape this mess by sliding at 104.]
+)
+(;W[pb]
+(;B[mb];W[qc];B[qd];W[rd];B[re];W[rc];B[nb];W[oc];B[pc];W[ob]
+;B[jb]C[GL: White now has no eyes for the J16 group, but it will escape easily enough, so Black is being unreasonable trying to kill. Also, White can play at N15 very painfully.]
+)
+(;B[qb];W[lc];B[kc];W[ld];B[ke];W[me];B[ob];W[pc];B[oc];W[qc]
+;B[od];W[qd]C[GL: It's a trade.]))))
+(;B[ie];W[je];B[jd]
+(;W[le];B[hc];W[kb];B[jc];W[ib];B[jb];W[ja];B[hb];W[ia];B[ha]
+;W[ka];B[lb])
+(;W[hc];B[lf])))
+(;B[lb]C[GL: Now neither White group is happy.]))
+(;B[oc];W[nd];B[nf]C[GL: Now moves like R10 become more appealing :)]
+))
+(;B[qj];W[oh];B[me]C[GL: White gets to pick.];W[lc];B[mh]C[GL: This fight will never get easy for White as he has to juggle everything at once.]
+))
+(;W[hm];B[kr];W[lr];B[jq];W[kp];B[js];W[hn]C[GL: Black still has only one eye, and now cannot escape. This looks dead?]
+;B[br];W[bs];B[bp];W[aq]
+(;B[ar];W[ap];B[ao];W[bo])
+(;B[ap];W[ar];B[bq];W[cs])
+(;B[bo];W[bq];B[cn];W[dp])))
+(;B[kn]TR[jn][kp]
+(;W[kp];B[ln];W[jn];B[jm]
+(;W[io];B[im]C[GL: Now Black escapes and can't be cut anywhere. White's shape is beginning to look heavy.]
+)
+(;W[in];B[im];W[io];B[hm]C[GL: Same as the last line, except White has hade his shape a bit worse regarding the H8 stone.]
+))
+(;W[jn];B[jm]C[GL: Tesuji for sabaki];W[io];B[in];W[jo];B[hm]
+;W[km];B[il]
+(;W[hk];B[ik]
+(;W[hj];B[ln]C[GL: Black resists strongly.])
+(;W[ln];B[hj];W[gj];B[ij]))
+(;W[ln];B[hk];W[gl];B[kl])))
+(;B[jn];W[kn];B[jm];W[jk];B[km];W[mn];B[lm];W[nm];B[lk]C[GL: It's hard to know how much this chase will help White, but there's a fair amount of aji. Black doesn't yet have two internal eyes]
+))
+(;W[qr];B[np];W[qo]C[GL: Black has two still unsettled groups and White has a decent corner.]
+))
+(;B[qr]TR[qo][np]C[GL: In both of these variations Black settles.]
+(;W[np];B[qo];W[rp];B[ro])
+(;W[qo];B[nq])))
+(;B[ir];W[eo];B[fn];W[dn]C[GL: White can still play D4 and just capture less though :)]
+;B[ep];W[fo];B[fq];W[gq];B[gr])
+(;B[jp]C[GL: Now Black has nothing to fear for his group. White feels behind already.]
+))
+(;B[fk];W[gk];B[fl];W[gl];B[gm]C[GL: Obviously you can't play this with the E5 wedge sitting there, but that's another matter ;)]
+))
+(;W[eo];B[dn];W[fn];B[fo];W[ep]))
+(;W[eo]TR[fo][ep]
+(;B[ep];W[fo];B[eq];W[fq]TR[dn][fn]C[GL: Black cannot fix both of these cutting points, and will therefore die in the corner.]
+)
+(;B[fo];W[ep]TR[dn][fn]C[GL: Black cannot fix both of these cutting points, and will therefore die in the corner.]
+)))

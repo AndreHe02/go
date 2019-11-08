@@ -1,0 +1,190 @@
+(;FF[4]GM[1]SZ[19]ST[0]AP[SGFC:1.17]VW[]
+
+EV[go19.mc.2008.aug.1.17]
+PB[Zag]
+HA[2]
+PW[Radu Ux D.]
+WR[11k]
+KM[0.5]
+RE[B+0.5]
+SO[http://www.littlegolem.com]
+
+AB[pd][dp]C[Hi
+
+I played White in this game with 2 stones handicap.
+The result of this game was that I lost with 0.5 points after apx 250 moves. Altough it was a handicap game and I was White, I think the game was somehow quite even. And I can learn even if the opp. was a little weaker.
+Please tell me where I went wrong, esp. thinking that I played against 2 handicap stones.
+
+Thx, Radu
+p.s. And also, please evaluate my rank (maybe as related to European Rank  http://www.europeangodatabase.eu/EGD/ or any other system you might find suitable for you)
+
+M:  Hi, I'm Mark Smith (SaurusDNA), 6-7 kyu on KGS. I have commented up to move 167. I have also put some general strategy errors and summarized the key points at the end of the sgf.
+
+I have marked my comments with an M:.
+
+I hope you find the sgf useful.];W[pq];B[dd];W[fp]C[M: The high approach to the 4-4 stone is actually extremely rare in professional play.
+
+Although many dictionaries regard it as joseki, it is in reality very difficult to actually gain an equal position from  this opening, and it is generally considered a specialized move for specific board conditions.  (More here: http://senseis.xmp.net/?44PointHighApproach)
+
+W-f3 is the usual approach.];B[dn]
+(;W[pf]C[M: I would prefer to finish the joseki first, since a black pincer would cause trouble for white.
+(See variation)];B[po];W[np]C[I was thinking of pincer also, but I tried to make some strong position first.
+
+M: I agree. I think the pincer would have been effective if q14 was low, but much less effective with q14 high.]
+;B[qq]
+(;W[qm]C[Is it too soon?
+
+M: Yes, I think it makes life too easy for black to live after b-q2, so the attack is innefective. Better to play w-r2 first.
+(See variation)]
+(;B[qp]
+(;W[qj]C[M: W-r10 was perhaps a little slow, especially because this is a handicap game.
+
+I think you could have played w-q11 here, because if black invades at b-r9, then w-p7 attacks both weak black groups at once, and it will be difficult for black to save both.
+(See variation)];B[mc]
+(;W[dj]C[M: W-d10 is a big move for both sides, but I feel that w-k3 was urgent. 
+
+B-k3 is devastating for white, and white will struggle to catch up. On the other hand, w-k3 secures the bottom for white, and makes a base to attack r4 from.  If then b-c10, w-j17, and white is in a good position.
+(See variation)];B[ck];W[cj]C[M: W-c10 is the best response locally, but k3 is still urgent.]
+;B[dk];W[cf]C[M: Good!];B[gc];W[jq]C[Would be more important to make a base in upper side?
+
+M: No, w-k3 is the only move. You were lucky to get away with it.   :)]
+;B[hq]
+(;W[gq]C[M: This is the type of move you should avoid. W-g3 is inconsistent with playing w-f4 high. I don't think you should use it to try and make territory. If you had wanted territory there, then rather play f3 low in the first place.
+
+Try tewari here - if you had a stone at g3 and black played b-h3, you would not have played w-f4. I think you could have treated f4 lightly here, since a 3-3 invasion is still possible.
+
+Alternatively , attack the black stone with w-g5. Tenuki was also a good option.
+
+(See variations)];B[hp];W[dq];B[cq]
+(;W[cp]C[Kind of risky, but I tried playing on two heads.
+
+M: I think going for the corner here is a little greedy. The black h4 group and the r4 group ar both weak. Better to give up the risky bottom left corner to make profit from attacking black's weaknesses, not his strengths.
+
+(See variations)];B[co];W[bp];B[bq];W[ep];B[do];W[dr]C[Single development remaining.
+
+M: Bad shape; W-e2 was better, and guarantees life.];B[bo];W[fn]
+;B[jp];W[kp];B[jo]
+(;W[ln]C[M: Your group has too many weaknesses to be attacking here. B-L5 hurts a lot now.
+
+Sometimes being patient has big rewards. For example, after white simply connects at w-L3, b-L5, w-o6, white is attacking two weak groups strongly.
+
+Furthermore, by securing whites territory at the bottom with w-L3, white has equalized in terms of territory.  White should be thrilled with this result. No need to try and win at this stage of the game. Be patient!
+
+(See variation)];B[ko];W[lp];B[lo];W[mo];B[iq];W[jr];B[ir];W[lr]
+;B[jm];W[fl];B[qe]
+(;W[qf]C[M: Again, you have used your 4th line stone for territory, which is inconsistent with the purpose of a fourth line stone. If the order had been reversed, and you had played at r14 earlier, you would have had the option of pincering the r7 stone, or alternatively, r10 could have been played at q10.
+
+The way it has turned out now has left your position a little flat.
+
+I would suggest w-q12 here. (See variation)];B[jd]C[He took it.]
+;W[cc];B[dc];W[cd];B[df];W[dg]C[M: Good!];B[ef];W[eg];B[ph]
+;W[qh];B[pj];W[pk];B[oj];W[ok];B[nj]
+(;W[ro]C[Trying to kill, or at least to gain some points
+
+M: Locally I prefer the hane at w-r2. The problem with this move is that you need to follow up with a defensive move, since black can cut the stone at s6. (See variation)
+
+Still, I think it is way too small. There are still huge sente moves like w-f14 and w-b9 which must be played before black gets a chance to play b-f13 and b-b10 in sente. Furthermore, this move has no effect on your opponent, and does not change the status of his group in any way.  This should have been left for yose.]
+;B[rp];W[qo]C[M: This forces black to connect and weakens the q3 stone, forcing you to take gote in exchange for maybe two points at s6. 
+
+W-s6 was much better.];B[pp];W[pr];B[qr];W[op];B[sr]
+(;W[rs]C[Too early, right?
+
+M: This move I don't get at all.  You don't need to kill everything to win! Besides, you shouldn't be trying to kill unless you can read out the entire kill sequence. Remember the proverb:
+"Attack to make profit. Killing should always be plan B."
+
+Have a look at the variation here. You could have won at this point.
+
+(See variation)];B[qs];W[rr];B[sp];W[rq]C[Would be kill, if I cap completely.]
+;B[pm];W[ql];B[nn];W[mm]C[Mistake?
+
+M: Yes, huge mistake. Allowing black to cut means that the b-k5 group cannot be attacked effectively anymore. 
+
+W-n6 was the only move.];B[mn];W[oc]C[M: Why play w-n7 if you don't defend the cut?
+
+This move is inconsistent with w-n7.
+
+W-m7 is the only move.
+
+W-m7 also probably kills black's corner.];B[pc];W[od];B[ob]
+;W[nb];B[pb];W[nc];B[nm];W[ml];B[lm]C[Or now?
+
+M: This connects black two groups. Before this, both groups were not alive, and you could have possibly killed either one or both. Now black is connected and alive.
+
+NEVER allow your opponent to capture your cutting stones if you can avoid it. This is more important than any other move on the board.
+
+Allowing b-m7 lost you the game. From this point on, your game was lost.]
+;W[on]C[M: The black group is alive. Why are you still attacking it? You should never approach or attack strong groups.]
+;B[oo];W[pn];B[no];W[mp];B[nl];W[nk];B[ll];W[mk];B[ng];W[of]
+;B[nf];W[ne];B[og];W[pg];B[pi];W[qi];B[me];W[li];B[lf];W[mj]
+;B[ni];W[kg];B[kf];W[jg];B[jf];W[ik]C[Looking for points.];B[fg]
+;W[ff];B[gf];W[fe];B[ce];W[be];B[de];W[bg];B[gg];W[db];B[ec]
+;W[rc];B[rb];W[re];B[pe];W[oe]C[Can I kill?
+
+M: No.];B[qc];W[rd]
+(;B[qa]C[M: You were lucky.
+
+B-t18 lives. (See variation)];W[sb];B[oa];W[ra];B[sa];W[fb]
+;B[eb];W[ra];B[mb];W[na];B[ma];W[qb]C[Yes.];B[rn];W[rb];B[qn]
+;W[rm];B[sn];W[ek];B[bk];W[bj];B[fi];W[ei];B[fj];W[ej];B[em]
+;W[fm];B[el];W[en]C[M: This is the same as passing. F6 is connected to f4.
+
+On the other hand, f9 was a vital connection.];B[fk];W[dl]C[M: Why are you trying to kill everything. You are already ahead. Simply protect your weaknesses and you will win.]
+;B[dm];W[bl]C[Small, I think. Where else?];B[cl];W[ak];B[bm]
+;W[al];B[am];W[aj];B[ig];W[ii];B[ih];W[jh];B[hi];W[ij];B[hj]
+;W[hl];B[jl];W[cb];B[ea];W[pl];B[ol];W[br];B[cr];W[cs];B[aq]
+;W[ar];B[ap];W[bs]C[Again small? Where else?];B[gp];W[gr];B[hn]
+;W[lg];B[kj];W[ki];B[jj];W[ji];B[or];W[oq];B[ps];W[nr];B[os]
+;W[mg];B[mf];W[ge];B[fc];W[hm];B[gn];W[kk];B[jk];W[lk];B[ns]
+;W[ms];B[md];W[is];B[hs];W[js];B[hr];W[gs];B[im];W[mh];B[hk]
+;W[nh];B[oh];W[kl];B[km];W[gk];B[gm];W[gl];B[il];W[gj];B[gi]
+;W[er];B[go];W[sm];B[so];W[fh];B[gh];W[eh];B[da];W[ca];B[tt]
+;W[tt]C[Probably I've could won but I am sure I did major mistakes I didn't see.
+Thx again.
+
+M: Summary of key points in this game:
+
+You don't need to kill everything to win. If you are ahead, you should fix your own weaknesses first, even if there is an opponent's group that can be killed. What is the point of risking everything so that you can win by a bigger margin? If you are ahead, fixing your own weaknesses should be you ONLY thought. Do not even consider anything else! This alone will move you up by at least 5 stones.
+The best advice I ever received was: "The difference between a dan player and a kyu player is that a dan players understands that it only takes one point extra to win."
+
+Summary of general strategies to consider:
+
+The legendary Takemiya Masaki said:
+"There are really only four reasons why amateurs don't get stronger:
+1) Playing inconsistent moves,
+2) Playing moves which have no effect on the opponent,
+3) Playing moves which approach strong groups, and
+4) Playing moves which build inefficient shapes."
+
+ Perhaps you could have improved on these points at the following moves 
+(Also see comments at those moves):
+1) Inconsistent moves:  21. w-g3;  49. w-r14;  83. w-p17
+2) Moves with no effect on your opponent:  65. w-s5;  165. w-e6
+3) Moves which approach strong groups: Moves 93-97
+4) Moves which build inefficient shapes:  31. w-d2;])
+(;B[sb];W[qa];B[ra]))
+(;W[db];B[eb];W[bk];B[bl];W[ff]C[M: W-d18 and  w-b9 are to prevent black playing hane underneath the stones in sente. W-f14 is devastating for black's shape, and prevents black from making any territory in the center.
+
+After this variation, white is ahead. Besides, the black k5 group will struggle to live.]
+))
+(;W[qr];B[rr];W[pr]))
+(;W[ph];B[rg];W[bk]))
+(;W[kq];B[ko];W[nn]C[M: Excellent for white!
+
+White has 40 points of probable territoryon the board.
+Black also has 40 points of probable territory.
+
+Furthermore, white is attacking two weak black groups and also has sente!]
+))
+(;W[hr];B[ir];W[gs];B[iq];W[nn];B[pr];W[eq]C[What about something like this? Now the white group is alive and in an excellent position to attack black's h4 group.]
+))
+(;W[go]C[M: Much better for white.])
+(;W[ek]C[M: What about something like this, leaving the option for 3-3 open?]
+))
+(;W[jq];B[cj];W[ic]))
+(;W[pi];B[qk];W[om]))
+(;B[pr];W[oq];B[or]C[M: Good for black.]))
+(;W[qr];B[qp];W[or]C[M: Now, if b-r9, then w-o17 or w-o16.
+
+If black protects top right, then white can attack the bottom right group effectively.]
+))
+(;W[dq];B[cq];W[eq];B[cr];W[iq]))

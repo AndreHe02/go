@@ -1,0 +1,187 @@
+(;FF[4]GM[1]SZ[19]ST[1]AP[SGFC:1.17]
+
+GN[OGS Alan Turing 2012 (Main Class), Round 1 Group 29]
+PB[kartal382]
+BR[20k]
+HA[0]
+PW[VipassanaMan]
+WR[19k]
+KM[6.5]
+DT[2012-12-01,2012-12-25]
+PC[Online Go.com: http://www.online-go.com]
+RE[B+12.5]
+
+C[Hi,
+    My name is Anand and I will be reviewing for the White side. I am about 9kyu on IGS, though I haven't played for quite a while.
+
+Only professionals know the truth, so take my comments with a big grain of salt :)
+
+*** Some general info***
+Firstly, if you do not know, you should check out Sensei's Library. It is a wealth of information on Go: http://senseis.xmp.net
+
+I use many terms in the review (like hane, semeai, basic instinct). I indicate their meaning, but if you need more info, you can look at Sensei's Library.
+
+I will indicate some variations. Please use an sgf viewer which can handle variations. I used qGo, but almost all clients can handle variations, like CGoban, glGo, etc.
+
+***** End General Info ***
+
+The MOST IMPORTANT PRINCIPLE at your (and my) level is to:
+
+Connect and cut (on large and small scale). Connect your own groups, cut your opponent's.
+
+Learning openings, joseki etc. are not that important, as long as you keep in mind the above principle.
+
+My general impression is you tend to play timidly often. You should try to fight a bit more.
+
+Let's begin :)];B[pq]C[In choosing a move, you should go through three steps:
+
+a) If you have a weak group, strengthen it.
+
+b) If opponent has a weak group, attack it.
+
+c) If neither, play on a big point.];W[dd];B[cp];W[pd];B[cf]
+;W[fc];B[dj]C[The black formation on the left is called Kobayashi opening (just for your information)]
+;W[pj]LB[po:A][qo:B]C[This is ok, but keep in mind the principle, corner, then side, then center. 
+
+Approaching the corner at A or B is better.
+
+I like A because it works with your stone at Q16, but it is a matter of style.]
+;B[qf]LB[qe:A]C[Black is jealous. He should make a shimari (corner enclosure) with Q5.
+
+If black wanted to approach, he should approach from the open side (O17)]
+(;W[nc]C[This is ok, but when you have the stone Q10, you should attack R14.
+
+(see variation)];B[qi]
+(;W[pm]C[This is not good. You should never ignore a contact move like this (diagonal move R11 is also a contact move)
+
+See variation.];B[qo]C[Black should strengthen his upper right hand side group.]
+(;W[pi]C[Not good, since it allows the right hand side black group to settle easily on the side.
+
+Play R10 (see variation)];B[qj];W[qk];B[rk];W[ql];B[rl];W[rm]
+C[This is not good, both the top and the bottom group are alive, there is no point in cutting two live groups.]
+;B[nn]C[This is a vague move which does nothing. This is your chance to get back into the game!]
+;W[ep]C[Yes! Approaching corner is good.];B[dn]
+(;W[hq]C[Too timid, play C3 (see variation)];B[jq]LB[bq:B][cq:A]
+(;W[dq]C[Too timid, play C3 (see variation)];B[cq]C[Now black has much more of the corner and your group is still uncomfortable]
+;W[ho];B[in]C[A do-nothing move by black.];W[io]C[Not good (see next move for the reason)]
+;B[jo]C[If you push (J5), you MUST cut (at K6). Otherwise do not push. You have just strengthened black's position by pushing.
+
+In this situation, cutting at K6 does nothing, hence pushing was not good. Just play K16 without pushing.
+
+Or if you were worried about the bottom group, push up at H6 and if black plays G7, cut at J7.]
+;W[jd];B[ol];W[pl]C[This is not good, play Q9 directly.];B[ok]
+;W[pk];B[ni]C[Now it is very hard to catch up with black.];W[qh]
+;B[rh];W[ri];B[rj];W[rg];B[si];W[qg];B[pf];W[ph];B[ng];W[re]
+;B[ne];W[rf];B[ld];W[lb]C[Timid, what is it protecting? Play L17 if you must.
+
+A better move is to do something about black's center.];B[ee]
+;W[de]C[Again, if you push, you MUST cut (at E14).
+
+Otherwise don't push, you have just strengthened black.];B[df]
+;W[bd];B[gm];W[ge];B[fg];W[fj]C[This is somewhat dangerous, but you get away with it.]
+;B[el];W[hj];B[hf];W[eh];B[ch];W[eg];B[ef];W[ff]C[Yes! Cut your opponent.]
+;B[gg];W[jf]C[Correct! Cut your opponent.];B[ih];W[hh];B[hg]
+;W[ig];B[hi];W[gh];B[gi];W[fh];B[if];W[jg];B[ie];W[id];B[fe]
+;W[he];B[gf];W[je];B[ff];W[ji];B[ej];W[ii];B[fk];W[gj];B[jk]
+;W[le];B[gp]
+(;W[gq]C[Again timid, cut at G5 (see variation)];B[go]C[Now the only other comment I will make is on the fight which developed on the bottom.
+
+You still had a chance to win right till the end.];W[iq];B[jr]
+;W[ir];B[fq];W[fr];B[fp];W[dr];B[eq];W[er];B[cr];W[ds];B[dp]
+;W[md];B[cs];W[is];B[js];W[li];B[lk];W[lg];B[hl];W[hn];B[im]
+;W[eo];B[gn];W[jp];B[kp];W[ip];B[kq];W[oo]C[A desperate attempt which almost works.]
+;B[on];W[no];B[po];W[mo];B[kn]C[L5 was better. A solid connection is mostly better than a hanging connection.]
+;W[nq];B[or]C[Black can finish the game by playing Q6, which will connect his groups.
+
+White's group is surrounded and cannot make 2 eyes (check for yourself)]
+;W[nr];B[mn];W[lo];B[ko];W[ln];B[lm]C[Q6 is still better. White's group cannot go anywhere.]
+;W[pn]C[Good!];B[om]C[Useless move, white cannot cut (see for yourself)]
+;W[rq];B[ro];W[so];B[sn];W[sp];B[rp];W[sq]
+(;B[sm]C[Error by black. S6 was correct. (see variation)];W[rn]
+;B[sl];W[qq]C[good!];B[pp];W[qr]C[The rule for capturing races (semeai) is that 
+
+"Eyes win semeais"
+
+Once white has played R1, he has one (big) eye. And black has none, so black will lose.]
+;B[pr]
+(;W[os]C[(see variation)];B[ps];W[qs]C[Mistake (play O1, black has no eyes, he'll die)]
+;B[rs]
+(;W[op];B[rr];W[qn];B[ns]C[Now both black and white have one eye, so it is more difficult.]
+(;W[oq]C[Final mistake, white must prevent connection! (see variation)]
+;B[ms]C[Now, white dies and it is over. (see end of game for last comments)]
+;W[mj];B[nj];W[mk];B[ml];W[ik];B[il];W[of];B[og];W[nf];B[pg]
+;W[mf];B[nk];W[kj];B[kk];W[lj];B[jj];W[bf];B[bg];W[be];B[fd]
+;W[gc];B[ed];W[ec];B[dg];W[ce];B[dh];W[nh];B[oh];W[mh];B[oi]
+;W[bi];B[ei];W[fi];B[bj];W[bk];B[cj];W[bn];B[bo];W[cn];B[co]
+;W[ck];B[cl];W[dl];B[dm];W[bl];B[cm];W[ag];B[ah];W[qe];B[hk]
+;W[hi];B[ij];W[gk];B[gl];W[af];B[bh];W[pe];B[mg];W[mi];B[lr]
+;W[sg];B[sh];W[gd];B[hm];W[hp];B[oj];W[tt];B[tt];TB[ah][ai]
+[aj][ak][al][am][an][ao][ap][aq][ar][as][bg][bh][bi][bj][bk]
+[bl][bm][bn][bo][bp][bq][br][bs][cf][cg][ch][ci][cj][ck][cl]
+[cm][cn][co][cp][cq][cr][cs][df][dg][dh][di][dj][dk][dl][dm]
+[dn][do][dp][ed][ee][ef][ei][ej][ek][el][em][en][eo][ep][eq]
+[fd][fe][ff][fg][fk][fl][fm][fn][fo][fp][fq][gf][gg][gl][gm]
+[gn][go][gp][hf][hg][hk][hl][hm][ie][if][ij][ik][il][im][in]
+[jj][jk][jl][jm][jn][jo][jq][jr][js][kk][kl][km][kn][ko][kp]
+[kq][kr][ks][lk][ll][lm][ln][lo][lp][lq][lr][ls][mg][ml][mm]
+[mn][mo][mp][mq][mr][ms][ng][ni][nj][nk][nl][nm][nn][no][np]
+[nq][nr][ns][og][oh][oi][oj][ok][ol][om][on][oo][op][oq][or]
+[os][pf][pg][po][pp][pq][pr][ps][qf][qi][qj][qo][qp][qq][qr]
+[qs][rh][ri][rj][rk][rl][ro][rp][rq][rr][rs][sh][si][sj][sk]
+[sl][sm][sn][so][sp][sq][sr][ss]TW[aa][ab][ac][ad][ae][af][ag]
+[ba][bb][bc][bd][be][bf][ca][cb][cc][cd][ce][da][db][dc][dd]
+[de][dq][dr][ds][ea][eb][ec][eg][eh][er][es][fa][fb][fc][fh]
+[fi][fj][fr][fs][ga][gb][gc][gd][ge][gh][gi][gj][gk][gq][gr]
+[gs][ha][hb][hc][hd][he][hh][hi][hj][hn][ho][hp][hq][hr][hs]
+[ia][ib][ic][id][ig][ih][ii][io][ip][iq][ir][is][ja][jb][jc]
+[jd][je][jf][jg][jh][ji][jp][ka][kb][kc][kd][ke][kf][kg][kh]
+[ki][kj][la][lb][lc][ld][le][lf][lg][lh][li][lj][ma][mb][mc]
+[md][me][mf][mh][mi][mj][mk][na][nb][nc][nd][ne][nf][nh][oa]
+[ob][oc][od][oe][of][pa][pb][pc][pd][pe][ph][pi][pj][pk][pl]
+[pm][pn][qa][qb][qc][qd][qe][qg][qh][qk][ql][qm][qn][ra][rb]
+[rc][rd][re][rf][rg][rm][rn][sa][sb][sc][sd][se][sf][sg]N[RESULT]
+C[Result: B+12.5
+
+******
+
+In this game, white played very timidly. You should try to play more aggressively, and try to cut opponent's groups. Even if you lose, you will learn fighting. And it is also more fun :)
+
+The fight which developed on the bottom was very interesting. You should try to study the variations which I gave. Fighting and Life and death is the essence of Go.
+
+Hope you found my review useful.
+
+-- Anand])
+(;W[ms];B[mr]C[Ko.
+
+This is a very big ko, since whoever wins, will perhaps win the game. So, basically you should ignore almost anything black plays to win the ko.]
+;W[os];B[sr]C[Forced];W[ss]C[Forced];B[ns];W[ls];B[lr];W[os]
+;B[gr];W[ns];B[fs]C[I haven't counted, but this seems pretty close.]
+))
+(;W[ns]))
+(;W[qs];B[rr];W[qn]C[Always start by filling outside liberties, not shared liberty (like R4 or Q1)]
+;B[rs];W[oq]
+(;B[ps];W[ns];B[sr];W[ss];B[rr];W[op];B[rs];W[os];B[sr];W[qp]
+)
+(;B[sr];W[ss];B[rr];W[op];B[rs];W[os];B[sr];W[ps]C[and black dies.]
+)))
+(;B[rn];W[sm];B[qq]C[And white dies on the right, which means he also dies on the other group on the left.]
+(;W[qr])
+(;W[rr];B[qr])))
+(;W[go]
+(;B[hp];W[ip];B[iq];W[gq];B[fp];W[fo])
+(;B[fp];W[fo];B[hp];W[ip];B[iq];W[gq]C[And black dies.])))
+(;W[cq];B[bq];W[dq];B[bo]C[Again, your group is settled, so you can now do something else.]
+))
+(;W[cq];B[bq];W[dq];B[br]LB[hq:A][iq:B];W[iq]C[This is one possible joseki (corner sequence).
+
+Your group is settled, so you can do something else.]))
+(;W[qj];B[pi];W[oi];B[oh];W[nh];B[ni];W[oj];B[ng];W[mh];B[og]
+;W[mg]C[For example]))
+(;W[qj];B[pi];W[oi]C[Hane at head of two stones is mostly a good move. (basic instinct)]
+;B[oh];W[nh]
+(;B[og];W[nj];B[qd];W[qc];B[pe];W[od];B[oe])
+(;B[ni];W[oj];B[ng];W[mh];B[og];W[mj]C[Just one variation.]
+;B[qd];W[qc];B[pe]C[Just one variation])))
+(;W[qe]TR[pj]C[First kick R14 to make stone heavy.];B[pf];W[nd]
+C[Attack from a distance. Note that stone Q10 is also attacking from a distance.]
+;B[ph]C[Just one possible continuation.]))

@@ -1,0 +1,178 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+PB[jepper]
+BR[7k]
+HA[9]
+PW[wadmn]
+WR[9d]
+KM[0.5]
+DT[2008-01-12]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[W+27.50]
+TM[1800]
+OT[3x30 byo-yomi]
+RU[Japanese]
+AN[W (John Raymond Wold)]
+GC[Game submitted through GTL, reviewed by Raymond Wold.]
+
+AB[dd][jd][pd][dj][jj][pj][dp][jp][pp]C[Hi, I am Raymond Wold reviewing this game, AKA W, or Woldsom on KGS. I hope this review is helpful, and am open to any questions you might have.]
+;W[fq];B[eq];W[fp]
+(;B[dn]LB[dn:A][co:B];W[nq]
+(;B[oq]LB[lq:B][oq:A];W[np];B[pn]C[This seems like very passive play. Yes, in a normal game, this would be useful for black, but in a handicap game, a slightly different play style is prefered. Either use the handicap stones to always attack, forcing white to live small everywhere (can be very scary when playing someone so much stronger) or play solid, slightly slow moves that can't be made useless by clever play, being careful to parsel out the advantage throughout the game so you are still leading when it's over.
+
+This fuseki leaves the 3-3 points open (white can at any point play C3 or R3 and gain), which can exploit later in the game. I've outlined some alternatives I feel might better suit the strength difference in the game tree.]
+;W[hp];B[lp];W[nn];B[jm];W[ql]
+(;B[qj]LB[qj:A][qn:B]C[R8 is a strong attack on your corner, putting all your stones there in jeopardy; here a solid move from the outside is very risky. R6 would be my choice, securing the corner and becomming solid in preparation for splitting white's surrounding stones,.]
+;W[qo];B[po];W[qn];B[qp];W[pm]C[You practically have to cut here. Handicap stones are tremendous influence, and any attack which doesn't cost you a lot if it fails should be tried, and are likely to be successful.]
+
+(;B[qg]LB[qg:A][om:B];W[nl];B[hq]C[Much too close, make sure your stones are connected. J3  or E2 here to cancel any chance of a white base.]
+;W[iq];B[ip];W[hr]
+(;B[jq]LB[ho:B][jq:A]C[This sequence is only really useful if you block white from the center. If A was your planned move, play it without J4, or even without H3]
+;W[gq];B[ro];W[rn];B[rp]C[Small endgame gote move. Gains you nothing at this stage. If you're worried about corner life, play a shape move, like Q2 or R2, which won't in the process solidify your opponent.]
+;W[cl];B[cm];W[dl];B[cg]C[Again you leave your corner group very vulnerable.]
+;W[co];B[cp]
+(;W[bm];B[cn]C[Seems like white made a mistake here.];W[fl]
+;B[gn];W[fj]
+(;B[ei]TR[ek]SQ[fj][dl][fl]C[This shape (square marked) should always be recognized as weak. The triangle marked cutting point is the achilles heel. A move like E11 then is quite counterproductive, as you can see that you are creating a weak spot for yourself at E10.]
+;W[fi]
+(;B[cj]C[Imagine if this was the stone played first here, would you then answer F11 with E11? This move makes E11 even more useless, as you are no longer cutting white off from crawling further.]
+;W[eh];B[dh];W[eg];B[fd];W[cd];B[ce];W[dc];B[cc];W[bd]
+(;B[ec]LB[ec:A][be:B]C[The more common move is to press once more.]
+;W[de];B[df];W[ed];B[ee];W[dd]
+(;B[fe]LB[fe:A][ef:B]C[D14 is the heavier group, and the one you should try to connect out with.]
+;W[fc];B[gc];W[eb];B[jg]C[I'd favor connecting at E14. Solid and slow wins handicap games.]
+;W[ef]C[Cut at once here.]
+(;B[be]LB[be:A][fh:B];W[nc];B[lc];W[pc];B[qc];W[qd];B[oc];W[pb]
+;B[qe];W[od];B[rd];W[pe];B[qd]C[This is well played (from M17 to here). White gained very little here, and you became solid.]
+;W[gb];B[hc];W[he]
+(;B[hd]C[Much too cautious, while also leaving open the peep at G15.]
+;W[dg];B[cf];W[ch];B[bh];W[di];B[ci];W[ej];B[qb];W[ob];B[nj]
+C[This is tenuki for the situation at the left, which is much bigger.]
+;W[bk];B[bj];W[af];B[ag];W[ae]
+(;B[oe]C[The left hand side is VERY complicated; I would suggest that unless you've read it out to the end, that you try to play (just making sure you don't die in gote.) It's at least 30 points if you die, the clearly biggest play on the board. See variations in the game tree.]
+;W[ne];B[of];W[lb];B[kb];W[ld];B[kd];W[mc];B[kc];W[le];B[ie]
+;W[dh]C[This is what wins the game. White kills you, and at the same time secures his last weak group. You might have a few points lead here in an even game, but in a handicap game, it's game over.]
+;B[ho];W[or];B[pr];W[lm];B[ln];W[mn];B[lo];W[lk];B[gl];W[gk]
+;B[hl];W[rk];B[rj];W[km];B[kn];W[jl];B[il];W[jk];B[ij];W[mg]
+;B[gg];W[bo];B[bp];W[do];B[en];W[eo];B[fm]C[Not needed, white can't cut.]
+;W[og];B[pg];W[nf];B[pf];W[nr];B[er]C[Both groups need defending, a hard choice. I would probably feel most secure playing on the right.]
+;W[hg];B[hh];W[gf];B[ge];W[hf]
+(;B[hb]C[You're letting white connect in sente. Even if the cut don't work, it forces white to add a move here.]
+;W[ff];B[gd];W[ha];B[ia];W[ga];B[jb]C[Risky. I would feel much more secure with the stone at J18.]
+;W[ao];B[ap];W[fr];B[oh];W[so];B[sp];W[ps]C[You can now play R2 and live.]
+
+(;B[qs];W[qr];B[os];W[rs]C[You can play ko here, by moving at S2]
+
+(;B[ps];W[ns];B[pq];W[sr];B[rq]
+(;W[ss]C[Yes, it is a missclick. S2 kills.];B[rr];W[cr];B[br]
+;W[ep];B[dr];W[fs];B[cs];W[hi];B[ih];W[gh];B[lh];W[ng];B[lj]
+;W[mk];B[mj];W[sj];B[si];W[sk];B[ri];W[sn];B[el];W[ek];B[lg]
+;W[mb];B[nh];W[qa];B[ra];W[pa];B[rb];W[jf];B[ka];W[jr];B[kr]
+;W[js];B[lr];W[ok];B[qk];W[rm];B[oj];W[bg]C[Not needed, I guess white is just ensuring there's not a lot of ko threats around.]
+
+(;B[la]C[F9 is worth more, and just as sente.];W[em];B[kf];W[ke]
+;B[hj];W[pk];B[bn];W[an];B[fo]C[This is nothing. If you wish to connect, G5 is the move.]
+;W[dm];B[fn];W[kk];B[kj];W[lf];B[kg];W[ii];B[ji];W[gi];B[if]
+C[Since white connects all his stones anyway, K15 is better.]
+;W[ig];B[jh];W[je];B[id];W[mh];B[mi];W[es];B[ds];W[on];B[ma]
+;W[na];B[mq];W[mp];B[mr];W[gj];B[go];W[gp]
+(;B[tt]C[You pass here, but there is one more point to be gained by playing at O9. See variation for how the weakness might be exploited.]
+;W[tt]TW[aa][ba][ca][da][ea][fa][oa][ab][bb][cb][db][fb][nb]
+[ac][bc][cc][ec][oc][ad][md][nd][be][ce][me][bf][cf][df][mf]
+[ag][cg][fg][gg][ah][bh][fh][ai][bi][ci][ei][aj][bj][cj][dj]
+[ak][ck][dk][fk][al][bl][el][kl][ll][ml][ol][pl][rl][sl][am]
+[mm][nm][om][qm][sm][hq][gr][ir][gs][hs][is]TB[ja][sa][ib][sb]
+[ic][jc][rc][sc][sd][pe][re][se][qf][rf][sf][rg][sg][kh][ph]
+[qh][rh][sh][ki][li][ni][oi][pi][qi][gm][hm][im][hn][in][jn]
+[io][jo][ko][kp][aq][bq][cq][dq][kq][lq][qq][sq][ar][cr][qr]
+[sr][as][bs][rs][ss])
+(;B[nk]
+(;W[tt];B[ik];W[tt];B[ol];W[pl];B[ml];W[nm];B[ll])
+(;W[ml])))
+(;B[fk];W[dk];B[fl];W[hk];B[ik];W[kk];B[hj];W[gj];B[la]))
+(;W[rr]
+(;B[sq];W[ss];B[qq];W[rr]C[Vital point of dead shape.];B[rs]
+;W[sr])
+(;B[tt]C[If you do not fill, you are just the same dead, because white has an eye and you don't]
+;W[sn];B[tt];W[on];B[tt];W[oo];B[tt];W[op];B[tt];W[sq])))
+(;B[rr];W[ps];B[qm];W[rm];B[qs];W[es]C[Etc. White is likely to win this ko, but he will use up ko threats doing so, while you have a few internal threats.]
+;B[dr];W[ps];B[om]
+(;W[ol];B[qs];W[ds];B[cs];W[fs];B[cr];W[ps];B[pl]
+(;W[pk];B[qs])
+(;W[pq];B[qm];W[pk];B[pm];W[qk];B[ok];W[sl];B[sn]))
+(;W[pq];B[ol];W[on];B[pl];W[qm];B[sl];W[sk];B[sn];W[sm];B[qk]
+C[White has no out, and can't win a ko five times.])))
+(;B[qr];W[qs];B[rs];W[os];B[rr];W[op];B[pq]))
+(;B[ff];W[fg];B[gd];W[gh];B[hb]C[Position is the same, except you can later draw out H12 and force white to connect at G13]
+))
+(;B[ai];W[bg];B[dh];W[ah];B[ad];W[ac];B[ag];W[ch]C[Does not work, the double ko is in favor of white.]
+)
+(;B[dh];W[ai];B[aj];W[ch];B[ad]TR[ai]C[The best threat is an internal one.]
+;W[ac];B[dh];W[ah];B[bi];W[bf]C[White would play in the ko first here, this is just to illustrate. You need one ko threat extra here.]
+
+(;B[bg]TR[ad]C[This is a mutual threat, so play it _before_ capturing a ko.]
+;W[ad];B[ei]C[Looks to me like you could win this ko, and if so, white is in trouble on the outside. It's certainly better than to leave the position alone.]
+)
+(;B[ei];W[ad];B[bg];W[di]C[Now you are the one who have to find the first threat.]
+)))
+(;B[gd]C[If you wish to connect, this is the way, leaves no potential for further white forcing moves.]
+)
+(;B[gf]C[White cannot now sensibly cut];W[gd];B[ge];W[hd];B[ic]
+;W[hf];B[gg];W[hg];B[gh]C[White gets nowhere here, and you can whenever you wish finish up with F12, securing seki for your group (and protecting against the atari at D13 as well.) White then has to live on the outside.]
+)
+(;B[id]C[Now cutting would mean ladder for white];W[hg];B[gd]
+C[White has gained nothing.]))
+(;B[fh]LB[be:A][fh:B]))
+(;B[ef]LB[fe:A][ef:B];W[fc];B[gc];W[fb];B[ge]C[You should be happy to let white have some territory in exchange for strengthening your own group and having outward-facing solid stones.]
+))
+(;B[be]LB[ec:A][be:B]
+(;W[de];B[ed]C[White has nothing here now.])
+(;W[ed];B[de];W[bc];B[ec];W[db];B[eb];W[cb]C[Incredibly small life for white.]
+)
+(;W[ec];B[bc];W[ed];B[de];W[ee];B[fc]C[White still has the curtting point at F12 to worry about, and has little to no base.]
+)))
+(;B[ek];W[ej]
+(;B[dk];W[di]C[Now the cut is worthless, as you either die, or fall back even more.]
+)
+(;B[di];W[dk]C[Defend the attack, lose the cut.])))
+(;B[di]
+(;W[ek];B[fi]LB[fi:2][ek:1]C[White has to defend (1) the cutting point, and you can press that much harder]
+)
+(;W[fi]C[If white ignores the vital point...];B[ek];W[el];B[fk]
+C[White is cut.])))
+(;W[cn];B[dm];W[bm]C[practically the same outward potential (answering D5 not by defending, but by again playing out, and E8 by cutting), but with some territory and a more stable base.]
+
+(;B[do];W[fl])
+(;B[el];W[do];B[eo];W[en];B[em];W[ep])))
+(;B[ho]LB[ho:B][jq:A];W[gp];B[gn];W[jq];B[kq]))
+(;B[om]LB[qg:A][om:B]
+(;W[on];B[pl];W[qm];B[ok];W[qk];B[pk];W[rp];B[rq];W[ro];B[qr]
+;W[rj];B[ri];W[sk];B[qh]C[White lives small on the right side, you solidify both your groups, and can now attack white's other group mercilessly]
+)
+(;W[ol];B[nm];W[nl];B[mm]C[White would more likely play something like this, then leave the position for later. Your potential for territory here is enormous, if you're careful about surrounding complications.]
+)))
+(;B[qn]LB[qj:A][qn:B]
+(;W[ol];B[om];W[nm];B[pl];W[pk];B[pm]
+(;W[ok];B[nl]C[Ladders are always in your favor in a handicap game.]
+
+(;W[ml];B[nk];W[nj];B[mk];W[lk];B[mj];W[mi];B[lj];W[kj];B[li]
+;W[lh];B[ki])
+(;W[mk];B[ml];W[ll];B[mm]
+(;W[lm];B[mn];W[mo];B[ln];W[lo];B[kn]
+(;W[kq];B[kp];W[lq];B[nk])
+(;W[nk]))
+(;W[ln];B[lm];W[km];B[lk];W[kl];B[nk];W[mj];B[nj])))
+(;W[nk];B[qk];W[ok];B[qj]C[Solid side territory, and white is still floating.]
+))
+(;W[qq];B[or]C[This is now possible because of R6 blocking white's escape route and eye space along the right edge.]
+;W[rp];B[ro]
+(;W[pr];B[rr]C[White has nothing])
+(;W[rr];B[sq];W[sp];B[qs]))))
+(;B[lq]LB[lq:B][oq:A]C[This leaves white in a pinch, since he might be loath to run with this stone, making it heavy, but at the same time might expect you to play correctly if he invades the corner, leaving you with strength and him with little territory.]
+;W[qq];B[pq]
+(;W[pr];B[or];W[qr];B[oq];W[ro];B[np]C[This last move is very cautious, but considering the balance (you having a rock solid position at the bottom, with more potential territory than white) it's a good choice for handicap.]
+)
+(;W[qp];B[po];W[pr];B[or];W[qr];B[oq];W[qn];B[er]C[White is unlikely to run with O3 (at least without more complications around) and securing a large lower left corner, at the same time as attacking white's heavy two stones, is quite a gain.]
+)))
+(;B[co]LB[dn:A][co:B]C[Safe and sound, this takes a big corner, and leaves you ready to answer whatever white does next confidently.]
+))

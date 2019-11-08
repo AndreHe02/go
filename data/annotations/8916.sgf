@@ -1,0 +1,117 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.17]
+
+PB[Monwhea]
+BR[7k]
+PW[unknown]
+KM[6.5]
+RE[B+17.5]
+RU[Japanese]
+
+;B[dp]C[This was an even game, with 6.5 komi for White. Both me and my opponent were ranked 9 kyu at AGA at the time. Despite the fact that I (black) won by 17.5 points, my impression was that the game was fairly close throughout, and that I didn't get a clear lead until the endgame (see comments at move 142). I don't have any overarching questions, just looking for any general suggestions or comments, particularly in the fuseki. I've put in a few comments or variations indicating what I was thinking at the time.
+
+[[I wouldn't worry too much about your impression on this or that. Unless you can count and get a concrete idea of what the score is, feeling that a game is close is good - it means you're focused, attuned to what can go wrong. Feeling that you're winning, without a count and a strategy, is just overconfidence. -------------- Having looked at the games, I have no special overall comments. You seem to be a fairly balanced player, and there was no special way you got pushed around in this game that suggests an obvious direction for improvement.  If pushed to give a suggestion, I would say you don't have a strong sense for good -- that is to say, efficient -- shape.  Are you familiar with the basic ideas of broken shapes, ripped shapes, dumplings? Attachments, hane, hitting the nose? Has anyone ever explained to you why they're considered good or bad, and what follow-ups you are looking for or guarding against?  I think if you look into this you'll be much less concerned about pointless stones, much more concerned with keeping your stones connected and healthy... Good luck!\]\]]
+;W[dd];B[pp];W[pc];B[pe];W[cn];B[fp]C[[[I don't think you can screw up with a basic move like this, but the high extension seems slightly bad. The temperature in the upper right is high. Getting sente to add a move there is big for either side. High moves call for low follow-ups to establish a clear base. If you add K3 (joseki), W gets sente to return to the upper right.\]\]]
+;W[cj]C[This white extension seems too far too me - the joseki that I usually see is just a 2-point extension. I wasn't sure if I should jump in a C8 immediately, or try to make nearby plays that would use the threat of C8.
+
+[[D10 (harder to cut) and C11 (emphasizing upper left) are both more normal than this, but this is fine for W.\]\]]
+;B[pj]C[It was a bit surprising that white tenuki'd after I approached his stone at Q17, I'm not sure if I should have played a second approoach move in that area at this point.
+
+[[Yes, of course you should have. Study some 4-5 joseki to see what outcomes you might expect. K3 might be more normal, though. In general, if you expect a certain move and the opponent tenukis, you *must* try to follow up on your originally threat as quickly as you can - even if your originally move was bad, trying to exploit the situation will teach you a great deal.\]\]]
+;W[nq]
+(;B[pn]C[I thought this made a nice big moyo on the right side, but maybe I should have pincered as in the variation?
+
+[[The problem here is that Q6, Q10, and Q15 are all high.  They don't control the areas around R12 and R8 as well as you might like, so W can still invade and live on the side. If Q10 were low, this would be fine. Your pincer looks good - I would also consider the loose pincer at K3 or L3, which works nicely with F4.\]\]]
+;W[hq]C[[[See? This is why you wanted K3!\]\]];B[lq]C[I found this,]
+;W[lr]C[I wasn't prepared for this white response, I found myself confused for the next 5-6 moves.]
+;B[mq];W[mr]C[[[My gut reaction is, this isn't so awful for Black. W is on the second line.\]\]]
+;B[np];W[oq];B[hp]TR[op][kq]C[[[Huge weakness at marked points. You can deal with one such weak point, but not both of them. H4 isn't a horrible idea, but here it has two problems: 1. W has a stable position at C6/C10... can you use thickness around H5 to attack it? If not, this is a bad trade. 2. By strengthening H3, you weaken M3.\]\]]
+;W[kq]
+(;B[op]C[Maybe this is too passive? I didn't feel that I could play in the more central area closer to M3-N3 with this gap left in the back, but maybe this was too conservative.
+
+[[No, there's no choice here, I think. (Unless you want to ignore completely and take profit with G3.) You're right to find this painful, but the problem was ignoring P3 earlier.\]\]]
+;W[kp];B[gq];W[iq]
+(;B[ne]TR[qc][lo]C[I felt uncomfortable leaving the group at the bottom, and the two stones at M3-N3 free for white to capture, but this side looked more important to me.
+
+[[M3 and N3 are meaningless now. W is connected and has plenty of eye space, and has decent access to the center. If M3-N3 was a wall, or cutting stones, or anything, they would be valuable. If you play M5, the meaning is not to save the stones but to expand your moyo on the right. Moving to the upper right corner is right direction, but you can play R17 first... see variation for one possibility.\]\]]
+;W[qd]TR[qe]C[[[Not very aggressive from W.\]\]];B[qe];W[nc]
+;B[fc];W[ic];B[cc];W[cd];B[dc];W[ed]
+(;B[gb]C[Maybe something more central, like G17, is better here, I think my group is alive either way, but G17 stops white from walling off towards the center? I know in the joseki where white has pincered at H17, black at F18 is standard, but I'm not sure why, or how it's affected by white being at J17 instead of H17.
+
+[[No, protecting your group is important. Slow but steady. With low stones at C10, reducing this wall shouldn't be too painful.\]\]]
+;W[ec];B[eb];W[ld];B[bp];W[fd]
+(;B[gc]C[[[No no no! The lovely thing about a hanging connection is that you can roll over and hit the nose when your enemy pushes, making good shape.  See variation.\]\]]
+;W[mp]TR[gd][he][re][lf][qh][ej][ql][en][kn][qr]C[[[This is an absurd move. Really incomprehensible. Better moves highlighted.\]\]]
+;B[mo];W[lo]TR[ln]C[[[Stones insignificant - M6 is better, to preserve the connection.\]\]]
+;B[mn];W[kg];B[cl];W[dl];B[dm];W[cm];B[el];W[dk];B[ek];W[ej]
+;B[fk]C[[[Empty triangle, bad news.\]\]];W[dn];B[fm]C[[[Nooooooooooooooooooooooooooooooooooooooooooooooooo.\]\]
+
+[[Seriously, you can't give up the cutting stone that easily. Sure, he can still capture C8, but now he's under no obligation to capture either...\]\]]
+;W[em];B[fj];W[ei];B[fi];W[fh];B[pq];W[nj]
+(;B[oi];W[fn];B[gm];W[gn];B[hm];W[hn];B[gh];W[gg];B[fg];W[eh]
+;B[hg];W[gf];B[hi];W[li]
+(;B[bc]C[[[This isn't the best you can do, in my humble opinion, although that's partly because you waited for a long time to resolve this corner. See variation.\]\]]
+;W[bd];B[ql];W[cq];B[cp];W[eq]
+(;B[dq]C[Hm, seems like E4 would have been better, let me keep the corner territory.]
+;W[gr];B[fq];W[fr];B[er];W[dr];B[ep];W[es];B[cr];W[eq];B[ad]
+;W[cs];B[br];W[bs]
+(;B[bn]C[[[Take the ko once first.\]\]];W[bm];B[an];W[am];B[co]
+;W[ae];B[ac];W[bf];B[jm]C[[[Who was going to make territory here? I would much rather try to cut off L13 from M16. If W escapes in the other direction, then invade L18.\]\]]
+;W[og];B[pg];W[mg];B[oh];W[ng];B[jj];W[re];B[rf];W[rd];B[rg]
+C[[[This looks painful, but I can't find anything better.\]\]]
+;W[ln];B[mm];W[ib];B[hd];W[me];B[pr]C[Whoops, this was a phony threat - luckily white responded anyway :o
+
+[[Not phony exactly -- you have a nice follow-up at this point. However, it's not a great threat.\]\]]
+(;W[nr];B[ge];W[gd];B[ff];W[fe];B[hf]C[[[See hypothetical variation\]\]]
+(;W[ef];B[eg];W[dg]
+(;B[je];W[kd];B[jd];W[jc];B[ok];W[nk];B[nl];W[kk];B[nd]
+(;W[of]C[If white just blocks at N16, as in the variation, I don't think black has much follow through here. As it is, the white peeps made it possible for black to drive into white's upper territory, and split white into two so that white has too spend a lot of time ensuring two eyes for his center group. I think the turning point in the game was around here.]
+;B[od];W[pf];B[qf];W[pd];B[oe];W[oc];B[md]
+(;W[le];B[mc];W[mb];B[lc];W[kc];B[lb];W[na];B[kf];W[lf];B[ll]
+;W[hc];B[id];W[lm];B[lk];W[kl];B[kj];W[nf];B[kh];W[lh];B[ni]
+;W[mi];B[mj];W[lj];B[oj];W[kb];B[km]C[[[Good reading, W can't die, so you profit.\]\]]
+;W[la];B[mk];W[sf];B[qh];W[hb];B[ga];W[ha];B[fa];W[jf];B[jg]
+;W[ke];B[ig];W[os];B[ps];W[ip];B[er];W[ds]C[[[No real sense in connecting the ko.\]\]]
+;B[eq];W[ho];B[ar];W[hr];B[ki];W[if];B[he];W[sg];B[sh];W[se]
+;B[nh];W[gp];B[mh];W[lg];B[jn];W[jo];B[or];W[ns];B[kn];W[in]
+;B[im];W[eo];B[ko];W[lp];B[fo];W[go];B[do];W[en];B[ap];W[fs]
+;B[ie];W[kf];B[as];W[tt];B[tt]C[Black wins by 17.5 points (including 6.5 point komi for white).]
+)
+(;W[mc];B[le];W[ke];B[mf];W[lf]C[[[Not a problem for W. B's shape is ugly around R13.\]\]]
+))
+(;W[md];B[oc];W[ob];B[od];W[mb]))
+(;B[df]C[Doesn't seem like this goes anywhere.
+
+[[Yeah, I agree.\]\]];W[ee];B[cg];W[dh];B[cf];W[bg];B[ch];W[ci]
+;B[bh];W[bi]))
+(;AW[be]AB[bd]AE[ac][ad][ae][bf]C[[[Now do you see why after B16 it is so hard for W to take sente?\]\]]
+))
+(;W[os]C[[[White's correct followup\]\]])
+(;W[nl];B[nr];W[lp];B[or]))
+(;B[er]))
+(;B[ep];W[dq];B[fr]))
+(;B[bd];W[be];B[bc]
+(;W[cf]C[[[Variation 1: four points better, still sente.\]\]]
+)
+(;W[pk]
+(;B[bf];W[ae]TR[ce][cf][df][eh][fh][ei][ej]C[[[The moves at C14, D14, and C15 can be complex for W to deal with - bad aji. As it stands, W is pretty safe because he is strong around E11. That's why B normally wants to try to come in here before reducing from the center.\]\]]
+)
+(;B[ae];W[bf];B[af];W[ag];B[ad];W[bg]C[[[Sometimes this ends up happening. This is a large reduction, but not worth giving up sente.\]\]]
+))))
+(;B[fn]C[Maybe this is better? Not really sure.]))
+(;B[gd];W[ge];B[he];W[hd];B[gc]TR[ic][hd][ge]C[[[W can't make defensive moves on both sides.\]\]]
+))
+(;B[gc];W[ec];B[eb];W[fb];B[da]C[I think this is OK for black?
+
+[[No. See continuation.\]\]];W[gb];B[hb];W[hc];B[ga];W[gd];B[fa]
+;W[fd]C[[[Funny how that works, huh? You thought you were aggressively moving out into the center, but by leaving weaknesses you end up sealed into the side.\]\]]
+)
+(;B[fd]LB[da:F][cb:D][db:C][eb:B][fb:E][ec:A][fe:G][ge:H]C[Hm, is this playable?
+
+[[Sort of. I won't bore you with variations, you can look them up yourself is you want. It's considered a joseki. The key point is that if W is anxious to emphasize the left, this makes it much more painful for him. I encourage you to play it and find out more about how it works.]
+))
+(;B[qc];W[qb];B[qd];W[ob];B[ne]TR[rc][rd][qe][re][qf][rf]C[[[Same basic idea, but large swing in corner territory.\]\]]
+))
+(;B[mo]C[Is this better?]))
+(;B[lq];W[qq];B[qp];W[pq];B[op];W[nr];B[mo]C[Hm, the results of the pincer look better to me in retrospect.
+
+[[I agree!\]\]]))

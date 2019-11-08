@@ -1,0 +1,155 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+PB[mineteaser]
+PW[ialwmgs67]
+WR[14k]
+KM[-5.5]
+DT[2008-06-23]
+PC[IGS-PandaNet]
+RE[W+18.50]
+TM[600]
+RU[Japanese]
+
+C[ialwmgs67: Hi!
+mineteaser: hello
+
+-- Hello, my name is Sven and I´m about 8 kyu at Dragon Go Server and around 13 kyu on KGS. All my comments are preceded by "--", so you can more easily spot them.
+If something remains unclear or you have additional questions, do not hesitate to write me! I hope I can help a bit.
+
+-- In fact, I could not make out many serious mistakes. As concerns your reading skills and fighting, I daresay the game was well balanced! Only at some important points you played too defensively and should have put more pressure on White. From time to time during the game, you should keep in mind that the whole board is important and you should take account of your and your opponent's spheres of influence resp. future territory.]
+;B[pd];W[dp];B[pq];W[cd];B[jc];W[dj];B[pj]C[-- in my view, all the moves are ok so far]
+;W[jp]
+(;B[gc];W[ed];B[eb];W[dc];B[db];W[eg];B[ge];W[np]
+(;B[po]LB[cn:A][cq:C][fq:B]TR[eg][jp][np]C[-- This might be a bit too defensive. By now, White has gained substantial influence not only towards the left and lower edge, but also towards the centre by the marked stones. Black could invade at A or B, for example, thus reducing White's influence or future territory.]
+;W[pe]
+(;B[qe]C[Should I have pushed white toward the side, or continued pushing him toward the center?
+
+-- closing the corner with this move (R15) is correct. White's stone on the forth line aims at the center.]
+
+(;W[pf];B[qf]C[-- bad shape for White];W[qg]
+(;B[rg]LB[pg:A]TR[pd]C[--This move should be on A!
+White is not in a position to hane here, since the 2-Stone-Group has a Black stone at its head.]
+;W[qh];B[rh];W[qi];B[qj];W[pi];B[ri];W[ni];B[oi];W[oh];B[oj]
+;W[ne]
+(;B[nd];W[le]
+(;B[ld]LB[oe:A]C[-- this is too defensive a move! Better attack White, at A for example,
+or tenuki and play in the lower left];W[li]SQ[hd][id][jd][kd]
+C[-- Compare with the variant starting at move 37];B[gg];W[dm]
+;B[ke];W[lf];B[kf];W[kg];B[jg];W[kh];B[jh];W[ji];B[ii];W[jj]
+
+(;B[jk]LB[gk:C][cq:A][gq:B]C[-- what is this move meant to do? Black cannot surround White. Instead, you should try an reduce the White territory on the left and on the lower edge. 
+What about A, B or C?];W[ij];B[hj];W[hk];B[jd];W[hi];B[ih];W[gj]
+;B[hh];W[gh];B[fh];W[gi];B[fg];W[eh];B[lk];W[gp]C[-- the only thing left to do is to jump into the corner now!
+If Black cannot establish a position in the lower left quadrant of the board, he won't be able to win.]
+
+(;B[nk];W[nn];B[om];W[jn];B[lm];W[ln];B[nq];W[mq];B[mr]LB[oq:A]
+[nr:B]TR[nq]C[-- If you want to play a double hane (diagonal move), you should beforehand know what you do, especially how to deal with the atari White will be giving on A or B!]
+;W[oq];B[nr];W[or]
+(;B[pr]C[-- i would rather play on A, in order to strengthen the three black stones on the left..]
+;W[lq];B[op];W[lr];B[os];W[no];B[oo];W[jl];B[kl];W[ik];B[kk]
+;W[km];B[mm];W[mn];B[me];W[mf];B[md];W[oe]
+(;B[od]LB[cb:B][cq:A]C[-- no need to cover the gap.Instead, play at A finally, or B]
+;W[cb];B[ec];W[fi];B[ef];W[df];B[ee];W[de];B[fd];W[dd];B[ca]
+;W[bb];B[ba];W[ab];B[ls];W[ks];B[ms];W[jr]
+(;B[ql]LB[cq:A]C[Could I have made a better move? I tryed to discourage white from playing in my territory with that move. It evidently worked, but I'm not sure if it work against a more skilled player.
+
+-- I cannot imagine how to create a living white group here, so I think there was no need for playing here.
+As mentioned before, jumping into the corner at A is crucial, and could have turned this game to black victory!]
+;W[cq]C[-- as White did guess correctly...];B[qc]C[Same as move 115.
+
+-- yes; here I am not quite sure, but probably White could not have come to live here either (see variations for move 97)]
+;W[kj];B[mj];W[mi];B[lj];W[nm];B[nl];W[nj];B[ml];W[on];B[pn]
+;W[aa];B[da];W[tt];B[pg]C[Should I have passed instead, or was there a better move?
+
+-- no, there was no better move here]
+(;W[ph]
+(;B[nf]LB[og:A]C[-- no, this stone should be on A!];W[og];B[tt]
+C[At this point, I relized all the attempts in my head would fail.]
+;W[tt]C[You can check your score with the score command, type 'done' when finished.
+Click on a group of stones to mark it dead and remove it from the board.]
+;B[tt]TW[ac][bc][cc][ad][bd][ae][be][ce][af][bf][cf][nf][of]
+[ag][bg][cg][dg][lg][mg][ng][pg][ah][bh][ch][dh][lh][mh][nh]
+[ai][bi][ci][di][ei][ki][aj][bj][cj][ej][fj][hj][ak][bk][ck]
+[dk][ek][fk][gk][al][bl][cl][dl][el][fl][gl][hl][il][am][bm]
+[cm][em][fm][gm][hm][im][jm][an][bn][cn][dn][en][fn][gn][hn]
+[in][kn][ao][bo][co][do][eo][fo][go][ho][io][jo][ko][lo][mo]
+[ap][bp][cp][ep][fp][hp][ip][kp][lp][mp][aq][bq][dq][eq][fq]
+[gq][hq][iq][jq][kq][ar][br][cr][dr][er][fr][gr][hr][ir][kr]
+[as][bs][cs][ds][es][fs][gs][hs][is][js]TB[ea][fa][ga][ha][ia]
+[ja][ka][la][ma][na][oa][pa][qa][ra][sa][fb][gb][hb][ib][jb]
+[kb][lb][mb][nb][ob][pb][qb][rb][sb][fc][hc][ic][kc][lc][mc]
+[nc][oc][pc][rc][sc][gd][hd][id][kd][qd][rd][sd][fe][he][ie]
+[je][re][se][ff][gf][hf][if][jf][rf][sf][hg][ig][sg][sh][si]
+[rj][sj][mk][ok][pk][qk][rk][sk][ll][ol][pl][rl][sl][pm][qm]
+[rm][sm][qn][rn][sn][qo][ro][so][pp][qp][rp][sp][oq][qq][rq]
+[sq][or][qr][rr][sr][ns][ps][qs][rs][ss]C[Game 44 ialwmgs67 is removing @ O14
+You have typed done.
+ialwmgs67: 125.5 to mineteaser: 107.0])
+(;B[og];W[nh];B[nf]TR[ne][oe][pe][pf]C[-- now 4 White stones are captured, and White wins by mere 0.5 points!]
+))
+(;W[og];B[ph]))
+(;B[cq];W[cp];B[dq];W[eq];B[er];W[fr];B[bp];W[bo];B[bq];W[dr]
+;B[ep];W[es];B[co];W[do];B[cn];W[bn];B[dn];W[eo];B[en];W[fo]
+;B[bm]))
+(;B[cb];W[od];B[oc]
+(;W[qd];B[pc];W[re];B[rf])
+(;W[pc];B[qd];W[nc];B[ob];W[pb];B[nb])
+(;W[qc];B[pc];W[qb];B[qd];W[rd];B[re];W[pb];B[ob];W[ra];B[rc]
+;W[rb])))
+(;B[op];W[pr]
+(;B[mp];W[no];B[lq];W[qq];B[pp];W[qp];B[qo];W[rr]C[-- White gets the corner, but Black earns a position on the lower edge.]
+)
+(;B[qq];W[lq];B[lr];W[kr];B[qr])))
+(;B[cq];W[dq];B[cp];W[co];B[bo];W[cn];B[bn];W[bm];B[dr];W[er]
+;B[cr]))
+(;B[gk];W[ij];B[hi];W[hj];B[gj];W[gi];B[fi];W[gh];B[fh];W[ih]
+;B[ig];W[hh];B[fg];W[fj];B[ej];W[fk];B[ek];W[fl];B[di])
+(;B[cq];W[dq];B[cp];W[co];B[bo];W[cn];B[bn];W[bm];B[dr];W[er]
+;B[cr];W[fq];B[gk])
+(;B[gq];W[iq];B[eq];W[dq];B[dr]))
+(;B[oe];W[of];B[od]LB[me:A][mf:B]TR[pe][of][pf][qg][qh][pi]
+[qi]C[-- White must strengthen his position on A or B here, lest Black captures 7 stones on the right]
+
+(;W[md]C[-- If White plays too offensive, he suffers a great loss]
+;B[nf];W[ng];B[mf];W[me];B[og]
+(;W[ph];B[mg];W[pg];B[mh];W[nh];B[mi];W[nj];B[mk];W[nk];B[nl]
+
+(;W[ok];B[ol];W[mj];B[lj])
+(;W[mj];B[lj];W[lk];B[ml];W[li];B[kj];W[ok]
+(;B[ol];W[pk];B[qk];W[pl];B[ql];W[pm];B[kh])
+(;B[pk];W[ol];B[om];W[pl];B[ql];W[pm];B[pn];W[nm];B[on];W[mm]
+;B[ll];W[lm];B[kl])))
+(;W[mg];B[lf];W[ph];B[pg];W[nh];B[lg];W[nj];B[nk];W[lj];B[ke]
+))
+(;W[me];B[nf];W[og];B[nh];W[ng];B[mh];W[mj];B[mf];W[mg];B[lf]
+;W[lg];B[kf];W[lh]SQ[hf][if][jf]C[-- Compare this with the original move 38]
+)))
+(;B[pg]TR[qg][qh][pi][qi]C[-- Black captures the white stones.
+If White tries to save them...]
+(;W[ph];B[og];W[nh];B[oe];W[of];B[nf]C[-- very bad result for White: Black has been strengthened on the upper and right side, and the white stone haven't any eye-shape either.]
+)
+(;W[og]C[-- White should sacrifice the 4 stones];B[ph])))
+(;B[pg]
+(;W[og];B[ph]TR[qg]C[-- now White's stone is isolated on the right]
+)
+(;W[ph];B[og]
+(;W[qi]TR[pe][pf]SQ[lb][mb][nb][ob][pb][qb][rb][lc][mc][nc]
+[rc][id][ld][md][nd][rd][ie][je][ke][le][me][ne][if][jf][kf]
+[lf][mf][hg][ig][jg][kg][lg][mg][ih][jh][kh][lh][mh]C[-- If White tries to live on the side, the two marked stones are dead and Black wins great influence on the upper half of the board.]
+)
+(;W[oe];B[od];W[ne];B[qh]C[-- a narrow escape but still a hard life for the marked stones, but a solid position for Black at the right]
+))))
+(;W[qd]C[-- White can cut here, but Black will get a large corner territory anyway]
+;B[qc];W[rd];B[re];W[od];B[pc];W[of]))
+(;B[oe];W[qd];B[qe];W[pf];B[qc];W[rd];B[oc];W[rf]C[-- pushing White from above helps him to establish a position on the board's right edge]
+))
+(;B[cn]
+(;W[co]
+(;B[ck])
+(;B[dn];W[cl];B[fn]))
+(;W[dn];B[dm];W[co];B[en];W[do];B[em]))
+(;B[cq];W[dq];B[cp];W[co];B[bo];W[cn];B[bn];W[cm];B[dr];W[er]
+;B[cr]C[-- not optimal, but at least the corner is black now]
+))
+(;B[jj]TR[gc]C[-- this could be an interesting move, too, but I cannot say that G17 is wrong]
+))

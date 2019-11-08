@@ -1,0 +1,198 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]VW[]
+
+PB[Butta]
+BR[10k]
+PW[jhistoire]
+WR[10k]
+KM[6.5]
+DT[2006-08-24]
+PC[The Kiseido Go Server (KGS) at http://kgs.kiseido.com/]
+RE[W+14.50]
+TM[1500]
+OT[20x20 byo-yomi]
+RU[Japanese]
+
+C[
+Simon Woronoff wrote:
+> Hi,
+>
+> Thanks for your time.
+>
+> This review may be relatively short.  I won this game so I am happy
+> but have just a few naging questions about the early middle game
+> (see comments).
+>
+>Thanks
+
+
+R OK. 
+
+This is what you will find.
+
+Move 64 contains a rather long analysis / explanation, I hope it helps.
+
+I did some comments on fuseki, even if you didn't request them.]
+;B[qd];W[dd];B[pq];W[oc];B[cp];W[qo];B[np]LB[pe:A][pf:B][pg:C]
+C[R: it's usually better to play on the east (right) side. "A" marks tye famous Shusaku formation. The reason why Black likes "A", is that otherwise White can flatten him, by playing "A" himself,  or go taisha, playing "B". I guess White "C" also is possible (different story).]
+;W[ql]C[R: This is a little bit heavy, but ok.];B[qp]
+(;W[ep]LB[pe:A]C[I couldn't see any serious consequence of not responding to R4. Is this an okay tenuki?
+
+R: Yes. But still, I'd play "A". Now you have a stone that puts even more pressure on black if he decides to crawl. Entering the lower left corner still very good though.]
+;B[eq];W[dp];B[dq];W[co];B[cq];W[fp];B[gq];W[ho];B[hq];W[dj]
+C[I later found out D6 was joseki.
+
+R: So what? Your play was better.]
+(;B[do];W[cn]C[Despite me not following joseki, D5 does not seem very severe, is there another way he could of punished me?
+
+R: Oh yes. See var.s];B[mc];W[oe];B[qg];W[jc];B[me]LB[qf:A]
+[qg:B]C[Kind of bizarre to jump after leaving thin position on the right... if he wanted to play this, then he need simple tobi (A) instead of B.]
+;W[og];B[pc]
+(;W[pe];B[qe];W[ob]C[R: Yes, but you end in gote. What's the point if you can't attack the 2 stones? The shape looks bad.]
+;B[jd];W[id]
+(;B[je];W[kc];B[ld]C[R Forced Black to make a bad move, grats ^ ^]
+;W[mg]
+(;B[ie];W[hd];B[cc];W[cd];B[dc];W[ec];B[eb];W[fc];B[bd];W[be]
+;B[bc];W[cf];B[fj]C[R Seems suicidal to leave the weak group unguarded... Now split the two, and game over!]
+
+(;W[el]C[ R This is slow, weak, etc - in one word, "slack" (although people tend to overuse the word without getting what it means)
+
+See how I would have attacked.];B[di]C[R Still, tenuki now]
+;W[ci];B[ej];W[dh]C[I didn't really see the ko coming, I expected E11 from black.
+
+R ...];B[dk];W[ei];B[cj]
+(;W[ek]C[Is it right to start a ko?  I thought I had lots of threats in upper left.
+
+R You must consider, B gets to capture first - that is a bonus for him.]
+;B[di]
+(;W[fb];B[dj];W[db]C[This is my big question: who got the better result of this ko?
+
+R: Black.
+
+No, seriously - long analysis following.
+
+Let's see how we can evaluate who is ahead here.
+
+The criterion is, if you can find a sequence that results in something better for you, then, you had a bad exchange.
+
+Another thing.
+
+Stop right here. I see the tendency, typical in beginners, to lean on the opponent's building/stones, so as to maximize the "territory" you "get" on your side.
+
+This idea is WRONG.
+
+The reason that you sometimes want to lean, is that, where it works, it is MOST POWERFUL.
+
+(In the same way that splitting is a fundamental principle. The cut, which is the splitting that causes most damage, because it is most close to the opponent stones)
+
+This does not mean that you always need to (or can) do so, though.
+
+Especially in cases (like this one) where doing so, you get a WEAK SHAPE.
+
+The typical example where this happens, is when you crawl on a wall. Typical 20k mistake.
+
+If you always lean on your opponent, your stones are weak.
+
+Do so, when it's most forceful.
+
+Do not, when it results in a weak position.
+
+It is a bit like the metaphor: you need to be able to STAND ON YOUR OWN.
+
+Lean, through choice.
+
+Through choice, stand upright.
+
+Do not be afraid to leave "dame points" around.
+
+Only power is important.]
+(;B[ch]SQ[eb][bc][cc][dc][bd]C[R This move is really honte, but...
+
+Let's count the result:
+ - black corner died - + 25 points for you
+ - black succesful invasion in white moyo - i'd estimate at around + 40 for black
+ - the problem being, the invading group is now strong, and cannot be weakened by leaning to the weak J15 group. Otherwise you'd get some points attacking it. Like this, you're worse off.]
+;W[dl]C[R: You still have to split black to hope to win. The move is big and a nice feeling to it, but is not the point to play now (and if need be, you just sacrifice 2 stones, E8 E9, and save the rest, F4 and friends)]
+;B[po]C[Still don't see any reason to respond to this.
+
+R You are right.];W[he]C[R: Don't push what you wish to attack, says the proverb...]
+;B[kg];W[kd];B[ke];W[lf];B[le];W[pg]C[R Bad move.
+Don't try to take sente and play forcing moves, when the attack to a large group is ongoing.]
+;B[hf]C[Was tenuki from black a good move, seems like I did okay on the right side.
+
+R You didn't do OK, b/c you should get gote.
+Black did the correct thing, defend the large group. You cannot take sente in situations like this one.]
+;W[qh];B[rg];W[rh];B[pb]
+(;W[pd];B[rb]C[I don't think black needed to play S18
+
+R Why did you play that move then? Look: var];W[gf];B[nd];W[od]
+;B[nf];W[ng];B[hg];W[kq]LB[jp:A]C[R - This is too deep, you're playing with fire here. I'd attack you full-force at A.]
+;B[mq]C[R - Black gives in like butter. He is playing from the strong side, do you see?]
+;W[jo];B[qn];W[ol]C[At this point I counted myself ahead so tried to play calmly
+
+R: Yes Black lost his chance. Good win. No more comments.];B[gg]
+;W[ff];B[ip];W[io];B[jp];W[kp];B[ko];W[lo];B[kn];W[ln];B[jn]
+;W[mp];B[lq];W[lp];B[lm];W[mm];B[go];W[gp];B[hp];W[gn];B[hn]
+;W[fo];B[in];W[go];B[ll];W[ml];B[nn];W[mn];B[gm];W[fm];B[gl]
+;W[lk];B[en];W[dn];B[eo];W[cl];B[fq];W[fn];B[kk];W[kl];B[km]
+;W[kj];B[jl];W[li];B[jj];W[ji];B[rl];W[rk];B[rm];W[qk];B[ij]
+;W[cg];B[bi];W[eg];B[fi];W[ii];B[hi];W[kr];B[lr];W[hs];B[hr]
+;W[gs];B[is];W[ir];B[fs];W[js];B[gr];W[ls];B[nr];W[qm];B[pm]
+;W[rn];B[ro];W[sl];B[sn];W[sg];B[rf];W[om];B[on];W[bo];B[bp]
+;W[bk];B[lb];W[kb];B[ka];W[ja];B[la];W[sf];B[se];W[sh];B[ib]
+;W[ic];B[jb];W[hb];B[ia];W[ha];B[ja];W[lc];B[mb];W[eh];B[kh]
+;W[ki];B[lg];W[mh];B[mf];W[bg];B[ao];W[an];B[ap];W[bj];B[nm]
+;W[nl];B[ih];W[pa];B[qb];W[fh];B[gh];W[fk];B[gk];W[bh];B[ai]
+;W[ci];B[cb];W[ea];B[ch];W[sd];B[re];W[ci];B[mk];W[lj];B[ch]
+;W[jh];B[jg];W[ci];B[pl];W[pk];B[ch];W[ms];B[ns];W[ci];B[ba]
+;W[ab];B[ch];W[fl];B[ci];W[qa];B[ra];W[oa];B[rc];W[pn];B[pm]
+;W[is];B[aj];W[ak];B[ck];W[bm];B[ah];W[ag];B[mr];W[ks];B[no]
+;W[fg];B[pn];W[lh];B[jq];W[ne];B[pl];W[es];B[fr];W[nc];B[md]
+;W[tt];B[sm];W[sk];B[mo];W[nk];B[tt];W[tt]TW[aa][ba][ca][da]
+[fa][ga][bb][cb][eb][gb][ac][bc][cc][dc][gc][hc][ad][bd][ed]
+[fd][gd][ae][ce][de][ee][fe][ge][af][bf][df][ef][dg][nh][oh]
+[ph][mi][ni][oi][pi][qi][ri][si][mj][nj][oj][pj][qj][rj][sj]
+[mk][ok][al][bl][am][cm][dm][em][bn][en][do][eo]TB[sa][sb][qc]
+[sc][rd][sd][if][jf][kf][lf][ig][hh][gi][gj][hj][hk][ik][jk]
+[hl][il][kl][hm][im][jm][rn][oo][qo][so][op][pp][rp][sp][aq]
+[bq][nq][oq][qq][rq][sq][ar][br][cr][dr][er][or][pr][qr][rr]
+[sr][as][bs][cs][ds][es][os][ps][qs][rs][ss]C[Butta [10k\]: thank you
+jhistoire [10k\]: thanks])
+(;W[gf];B[od];W[nd];B[pd];W[nc];B[ne];W[mb]C[R And White is connected. Thus, your concern that you may lose your cutting stones, is not reasonable.]
+))
+(;B[ii]LB[og:1][ql:2]C[R This is even worse for White. Game over
+
+W ~ 21 p2
+B ~ 17 p2, chance to attack 2 weak White groups (marked 1  and 2)
+
+(p2 is double-points. count the point couples, it's faster. e.g. 21 p2 is equal 42 points)
+
+I vote Black wins.]))
+(;W[rf]C[R Better Ko threat : here (bigger ?)];B[dj];W[qf]LB[po:A]
+[lq:B][nq:C]TR[np][qp][pq]C[R Now A - threatening B follow- up, is an almost sente way to reinforce the right side.
+
+Problem of triangle formation - O4 group - is good for attacking, has B weakness exposed when white A is there though. Go is a game of balance - you can't have everything.
+
+In fact, when you play that kind of R4 kosumi from the hoshi, not 3-4, the shape next is C, you almost never play like this !]
+))
+(;W[ck]C[R This is the way to play]
+(;B[dl];W[ek])
+(;B[di])))
+(;W[hj]SQ[fh][gi]C[R Personally,  I'd play here :D
+
+Need reading,  though.
+
+Anywhere near the Squares seems OK, because it splits black...]
+))
+(;B[hf])
+(;B[ig])
+(;B[jg]))
+(;B[kd]LB[ic:B][ie:A]C[R = Correct answer?]))
+(;W[ob];B[od];W[nd];B[pd];W[nc];B[ne];W[md];B[of]C[R This looks  reasonable for White.]
+
+(;W[qi])
+(;W[le])))
+(;B[cn]C[R: This is the usual probe.];W[bo];B[dn];W[do];B[ek]
+C[R This has to be played when Black is ready, i.e. strong eough to make it reasonable to attack the wall.]
+))
+(;W[pe];B[qe];W[pf];B[qf];W[pg];B[qh])
+(;W[pf];B[qe];W[oe];B[qg];W[ph];B[qh];W[pi]))

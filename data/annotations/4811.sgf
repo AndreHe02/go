@@ -1,0 +1,124 @@
+(;FF[4]GM[1]SZ[19]CA[UTF-8]AP[SGFC:1.15]
+
+GN[REVIEW14]
+PB[lysyss]
+BR[13k]
+PW[Lebertran]
+WR[13k]
+KM[6.5]
+DT[2006-01-05]
+PC[The Kiseido Go Server (KGS) at http://kgs.kiseido.com/]
+RE[B+Resign]
+TM[1800]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+C[Hi,
+
+I found it difficult to make useful comments, because I didn't know what you were thinking about (especially at move 42).  When you send a game in for review, it is best if you can review the game yourself first, and put some comments and questions in the SGF file.
+
+In the fuseki, you need to think about making your stones work well together across the whole board.  This is a difficult thing to learn!  The best way to study is to observe games by stronger players, and to read through professional games.
+
+What will help you most of all is to improve your reading, so that you don't fall into simple traps and allow your stones to be captured.  You should practise life and death problems and tesuji.  If you don't have a good book of problems, then use the web site goproblems.com
+
+I hope my suggestions in this review are useful to you.
+
+Alex];B[pd];W[dd];B[pq];W[dp];B[qk];W[nc];B[pf]
+(;W[kc]C[See the variation for a better move.];B[jp]
+(;W[gq]C[Black's stones are coordinated, making a large moyo.  The white stones make three separate groups--they are not working well together.  Compare the variations.]
+;B[fc]
+(;W[hc]TR[kc][nc]C[This is overconcentrated.  The marked stones (H17, L17, O17) are too close together.  Compare the variation.]
+;B[cc];W[dc]C[Good.];B[db];W[eb];B[cb];W[ec];B[cd]
+(;W[ce]C[This is a mistake--black can attack strongly here (see the variation to the next move).  You should play D15 instead.]
+
+(;B[be];W[cf];B[bf];W[cg];B[cn]TR[bi][ci][cj][bj][bk][ck][cl]
+[bl]C[Now here, it is difficult for either side to turn the triangled area (B11 to C8) into territory.  Black can't make territory because of white's strong position at C13.  White can't make territory because of the gap at B13.
+
+This idea should help you find the next move for white.]
+(;W[cl]C[C4 is better.];B[cq];W[cp];B[bp];W[bo];B[br]
+(;W[co]C[Best to play A4 first.];B[er];W[eq];B[fr]
+(;W[hp]C[F3 is better here, because it takes a liberty away from black's stones.  See the variation.]
+;B[jj]
+(;W[mp]C[Right idea: you must invade black's area before it is too late!  But N4 is not so good, because it is easy for black to attack this stone and make territory on the right.  Better moves would be R5 or P9.]
+;B[op];W[ko]C[Good.];B[jo]
+(;W[in]C[This is a terrible move!
+
+I think L7 is best here; L6 or K6 is also good.];B[jn];W[kn]
+;B[jm];W[im];B[km];W[mn];B[on];W[nq];B[or]C[See how black's territory around R4 is growing.]
+;W[lm];B[ll];W[ml]C[Good.];B[lk];W[nr]C[This doesn't work, so it is better to save this move in case you need a ko threat later.  Same for the next few moves.]
+;B[kp];W[lp];B[nm];W[mm];B[lr];W[lq];B[mr];W[oq];B[pr];W[kr]
+;B[jr];W[ks];B[kq];W[ns];B[js];W[np];B[oo]C[Now you have exactly one eye, at M5.  It is important to run into the centre to try and get a second eye.  At the moment you have sente...]
+
+(;W[lo]C[This is bad because it doesn't make a second eye for you, and it loses sente.]
+;B[no];W[mo]C[You haven't gained anything since three moves ago, and now it's black's turn.]
+
+(;B[mk]C[This is a mistake.  If black plays O10 instead, the white stones are all dead.]
+;W[nl]
+(;B[oj]C[Another mistake by black.];W[om]C[Good.];B[pm];W[ol]
+;B[nn];W[pl];B[qm];W[ql];B[rm];W[rl];B[qj];W[qo];B[po];W[sm]
+;B[qp]
+(;W[qn]C[S6 is better.]
+(;B[ro]C[Black should play S6 instead.];W[rn];B[rq];W[so];B[pp]
+;W[pn];B[ob];W[nb];B[oc];W[ik]C[Good move.  Since black made so many mistakes and didn't kill your stones, the game is still close.]
+;B[ij];W[jk];B[kk];W[hj];B[hk];W[hl];B[gk];W[hi]TR[gk][hk]C[Good.  You should be able to capture the two stones (G9).]
+;B[cj]C[It's important to make sure that this stone can't escape easily.]
+
+(;W[ek]C[B13 is better.];B[bh];W[ch];B[bi]
+(;W[ci]C[This is a wasted move: it doesn't threaten black at all.  Maybe you should try P13 instead--see variation.]
+;B[dj];W[bk];B[bj];W[bg]C[Again, save this for a ko threat.]
+;B[ag]
+(;W[ej]C[This is bad, because it pushes black into your territory.  It's better to defend from a distance--F11.]
+;B[di];W[dh];B[ei];W[eh];B[fi];W[fh];B[fj];W[fk];B[gj];W[gl]
+;B[dl];W[dk];B[ck];W[dm];B[bl];W[cm];B[bm]
+(;W[bn]C[This is a mistake!  Play D6 instead.];B[em]C[Now it is very difficult for white to win.]
+;W[dn];B[fl];W[fm];B[el];W[en];B[gm];W[fn];B[ho];W[io];B[ip]
+;W[hn];B[gh];W[hh];B[gg];W[gi];B[hg]
+(;W[ji]C[You can escape by playing J12--see variation.];B[ki]
+;W[jh];B[kh]
+(;W[ig]C[K13 could be interesting--see variation.];B[jg])
+(;W[jg]
+(;B[fb];W[ea];B[ge];W[gd];B[ie]C[A difficult fight for both sides.]
+)
+(;B[lf]C[This is the simple way for black to play--even if H13 gets captured, black still wins the game.]
+)))
+(;W[ih];B[jg];W[jh];B[kh];W[ig];B[if];W[jf];B[kg];W[hf]))
+(;W[dn]))
+(;W[fi];B[ei];W[fh];B[eh];W[eg]))
+(;W[og];B[of];W[ng];B[nf];W[mg];B[mf];W[lf];B[le];W[kf];B[md]
+;W[kh]))
+(;W[bg];B[ek];W[fm]C[This starts a difficult fight.  If you can capture the black stones, you will win the game.]
+))
+(;B[rn];W[ro];B[pp];W[sn];B[pn];W[rp];B[rq];W[sl];B[sq]))
+(;W[rn]TR[pm][rm][qm]C[Now there is no way for the marked stones (R7) to escape.  White is alive.]
+
+(;B[pn]C[This way, black dies.];W[rp];B[rq];W[sq]
+(;B[so];W[rr]
+(;B[qq];W[qr])
+(;B[sn];W[sl];B[qq];W[qr]))
+(;B[rr];W[sr];B[qs];W[os]))
+(;B[pp]C[Black must play here (or S4) to live.];W[pn];B[ro]
+;W[qn];B[rp])))
+(;B[ol]))
+(;B[nj];W[nk];B[oj];W[ok];B[pk];W[pl];B[ol];W[mj];B[mk];W[nl]
+;B[om]))
+(;W[nk]))
+(;W[km];B[jn];W[kn];B[jm];W[jl]))
+(;W[qo];B[qp];W[pl])
+(;W[ok]
+(;B[pm];W[pi])
+(;B[pi];W[pm])))
+(;W[fq]C[Later in the game, white can play D2 in sente...];W[dr]
+;B[dq];W[gr];B[cr];W[fs];B[ds]))
+(;W[ap];B[bq];W[co]))
+(;W[cp];B[ck];W[ok]))
+(;B[de]TR[eb][ec][dc][dd][ce]C[One of white's two groups (E18, C15) will probably be captured.]
+))
+(;W[de];B[cf];W[eg];B[cg];W[ok]))
+(;W[df];B[db];W[cc];B[ic];W[cj]))
+(;W[dj]C[This is the most natural move.])
+(;AW[jd][dj]AE[kc]C[If you had played K16 earlier, your shape would be even better!]
+)
+(;W[ok]C[This is another possibility, to try to keep black's moyo small.]
+))
+(;W[jd]TR[dp][dd]C[The three marked stones (D4, D16, K16) make a good shape.]
+))

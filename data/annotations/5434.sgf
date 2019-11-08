@@ -1,0 +1,77 @@
+(;FF[4]GM[1]SZ[13]ST[1]AP[SGFC:1.15]
+
+GN[Tara-xmiyux-248169-20061013]
+PB[Ryan (xmiyux)]
+BR[30 kyu]
+PW[Maria (Tara)]
+WR[29 kyu]
+KM[6.5]
+DT[2006-09-27,2006-10-13]
+PC[Dragon Go Server: http://www.dragongoserver.net/]
+RE[W+Resign]
+
+C[Zander: Hi.  Thanks for the opportunity to review this game.  Hopefully I can give you some helpful comments.  I'm rated 18-19k on IGS and this is my first review for GTL.]
+;B[jd];W[dd];B[jj];W[dj];B[hc];W[hj];B[hh];W[gf];B[fi];W[gi]
+;B[gh];W[gj];B[fj];W[fk];B[ii];W[jk];B[ik]C[Zander: Black is being perhaps too aggressive.  It will be hard to connect the disjointed stones.]
+
+(;W[kk]C[Zander: I think White can cut at J4.];B[hk];W[gk];B[ek]
+C[Zander: Black needs to make a more defensive move.  White can cut this at E4 and still can cut at J4 threatening both groups at J3 and K4.]
+
+(;W[el];B[ej];W[hl];B[ij];W[il];B[dk];W[dl];B[di];W[cj];B[ck]
+;W[ci]
+(;B[cl]C[Zander: At this point there is very little for Black to gain at the bottom.  A lot of territory in the upper half of the board is not decided yet.  Black can play something like the variants on the right to establish a claim to the right side and/or top right corner.  The group at F5 isn't safe yet, so Black could start invading the mid-to-upper left at D7 (aggressive) or F7 (achieving a safe connection).]
+;W[dh]
+(;B[ei]C[Zander: This is not achieving a good shape, so Black can (should) sacrifice the stone at D5 to make something better (see variant).]
+;W[bk];B[fh];W[kj];B[ki];W[jh];B[if];W[kh];B[ih];W[li];B[kg]
+;W[ji];B[mg];W[lg];B[lf];W[lh]
+(;B[me]C[Zander: I don't really understand this move for Black.  The threat to the upper right that I see is for White to push its strength a K7.  K7 also makes a very nice shape for Black, so is much preferable.]
+;W[jg];B[kf];W[jf];B[je];W[mh]
+(;B[mf]C[Zander: Once again Black can make a small sacrifice for tempo.  There is still a lot of territory at the top.  The potential loss at N8 is at most two points, whereas a play like E11 can claim maybe six or more.]
+;W[fl];B[df];W[ig];B[hg];W[hf];B[fe];W[ie];B[id];W[ce];B[fc]
+;W[eb];B[ec];W[dc];B[cf];W[bf];B[bd]C[Zander: This move doesn't have much hope as an invasion at this point.]
+;W[be]
+(;B[cg]C[Zander: The cut at C6 works to win at least one of the adjoining white groups.]
+;W[ch];B[bg];W[ag];B[bh];W[eg]C[Zander: At this point white needs to connect the weak stones in the lower left to the strong group at the lower right.  Black needs to prevent exactly that.  F7 and F8 are key for either player.]
+;B[de];W[cd];B[ah];W[af];B[bi];W[bj];B[aj];W[ak];B[ai]LB[ai:3]
+[ak:2][aj:1]C[Zander: The sequence A4-A3-A5 removes one liberty from the white group, but also removes one liberty from the black group, gives control (sente) to White, and, provided the black groups at B5 and C3 both live, likely does not gain points on the scoreboard, since after e.g. Black plays at B2, there is no room for White to create territory.  White's response to A4 should be fairly easy to predict, so Black should try to read ahead this sequence of moves, consider what it gains and loses, and, in my opinion, reject it for now and play elsewhere.]
+;W[ee];B[ef];W[ed];B[ff]C[Zander: It took a while, but black takes F8 and can separate the white groups.]
+;W[fg]
+(;B[fd]C[Zander: The black group at the bottom is already in trouble.  The only hope is to cut the white groups at G7.  It leads to a precarious capturing race, but I believe Black wins.]
+;W[he];B[bl];W[gg];B[eh];W[dg];B[gd];W[al];B[ge];W[cm];B[bm]
+;W[dm];N[RESULT]C[Result: W+Resign
+Zander: I'd say the play already looks quite strong for 29-30k.  As a general comment I'd say try to think about what will gain in the final score.  After the 8th move, there were 32 consecutive moves in the lower half of the board while all of the territory at the top was waiting to be claimed.  Be willing to sacrifice one stone or a small group for a greater gain elsewhere, or even for an equal trade if it allows you to gain sente.  The comments are my own opinions and read on the game.  Some of them likely reach beyond my own knowledge of go, and a stronger player may point out blunders in my variants, but I hope you can find something helpful in them.]
+)
+(;B[gg]
+(;W[bl];B[cm];W[bm];B[eh];W[dg];B[al])
+(;W[cm];B[bl];W[al];B[bm];W[dm];B[dg])
+(;W[fd];B[ge]
+(;W[gd];B[he]
+(;W[hd];B[if])
+(;W[if];B[hd]))
+(;W[he];B[gd]))))
+(;B[ch]
+(;W[cg];B[bh]
+(;W[dg];B[bj]C[Zander: I'm not sure if this is the best line, because it loses the group at D8, but it takes four white prisoners, gets some territory in the corner, and grants life to the big group at E5.]
+;W[ef])
+(;W[bi];B[dg]))
+(;W[bh];B[cg])))
+(;B[ec];W[mf];B[le]))
+(;B[jg]C[Zander: This shuts of the white group and strengthens the upper corner territory.]
+))
+(;B[eh];W[ei];B[eg]C[Zander: If White fills D5 it is at a loss of tempo.  If not, Black can retake at D5 (start a ko fight).  There's no rush for Black, and it's only directly worth one point.  Here Black is building towards the top and has created a safe connection through (or around) F6.]
+))
+(;B[fg])
+(;B[dg])
+(;B[if])
+(;B[li]))
+(;W[ej]
+(;B[el];W[fh];B[ei];W[eh];B[di];W[ci];B[dh];W[dg];B[ch];W[bh]
+C[Zander: Black is caught in the ladder.])
+(;B[eh];W[el];B[dk];W[ck];B[dl];W[cl])))
+(;W[ij]
+(;B[jl];W[kk]
+(;B[il];W[ji];B[kj];W[ki];B[lj];W[lk];B[li];W[lh]C[Zander: And Black is in trouble.]
+)
+(;B[kj];W[il]))
+(;B[kk];W[jl];B[il];W[kl]C[Zander: And Black will lose something.]
+)))

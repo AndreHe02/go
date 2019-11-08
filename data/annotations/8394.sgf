@@ -1,0 +1,68 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.17]
+
+PB[TMYM131805]
+PW[rtgreen]
+WR[30k]
+KM[6.5]
+DT[2011-07-05]
+PC[IGS-PandaNet]
+RE[B+Resign]
+RU[Japanese]
+
+C[*TMYM131805*: Hi!
+rtgreen: Hi];B[dd];W[cq];B[pp];W[pc];B[fc];W[qe];B[qn];W[fq]
+LB[jc:B][jq:A]C[The corner is already secure with C3, maybe jump out a bit more like K3, or extend your Q17 group's moyo to about K17 or so.]
+;B[co];W[bo];B[cn];W[bn];B[cm];W[bm];B[ep];W[dp];B[do];W[cp]
+;B[fp];W[eq];B[hp];W[cl];B[dl];W[bk];B[dj];W[nc];B[lc];W[qh]
+;B[qj];W[ci];B[di];W[dk];B[ck];W[cj];B[ek];W[ck];B[fl];W[hq]
+;B[iq]LB[hr:A]C[Maybe H2 instead];W[gq];B[jp];W[gp];B[go]
+(;W[bp]C[I don't understand this move (See variation)];B[mp]
+;W[ld];B[kd];W[mc];B[lb];W[md];B[kf]LB[dd:C][jj:D][cn:A][pp:B]
+C[Black is starting to try and surround the middle, plenty of influence from C6 group (Marked A), Q4 group (Marked B) and D16 group (Marked C). Maybe jumping straight into the middle at K10 (Marked D)?]
+;W[ke];B[je];W[le];B[jc];W[mb];B[lf];W[oc]LB[mf:A][nh:B]C[This makes no sense, maybe N14 instead (Marked A). Or even O12 (Marked B).]
+;B[nf];W[mf];B[mg];W[ng];B[me];W[ne]LB[ni:A]C[You're going to get very little territory here with this move (O15), maybe try and jump out more near O11 (Marked A) to eat away at black's territory.]
+;B[mf];W[oh];B[oe];W[nd]LB[ne:A][nj:B]SQ[od][pd][pe][of][pf]
+[og][pg]C[Stone A isn't worth saving, it's better to jump out into black's territory, maybe around O10 (Marked B). The area marked with squares is already killed by black (More or less).]
+;B[of];W[og];B[pe]LB[qf:A]
+(;W[pd]LB[qf:A]C[Maybe A is more efficient (See variation).]
+;B[qf];W[pg];B[qd]TR[re]SQ[qc][rd]C[Shapes denote liberties (circles are shared).]
+;W[re]CR[rd]TR[se][rf]SQ[qc];B[rd]TR[se][rf]SQ[qc][rc][sd];W[se]
+CR[sd]TR[rf][sf]SQ[qc][rc];B[sd]TR[rf][sf]SQ[qc][rc][sc]C[Obviously 1 liberty behind.]
+;W[rc];B[rf]LB[qc:A][sc:B]C[Maybe A better than B, can then ignore filling at T17 (Marked B). More important moves elsewhere.]
+;W[sc];B[sf];W[qc];B[mj];W[rb]C[Pointless, that is alive.];B[oj]
+;W[ra];B[rh];W[ma]LB[ma:3][ra:2][rb:1];B[la]LB[la:3][rh:2][oj:1]
+C[3 wasted moves for white, 3 fairly good moves for black. Black is controlling the middle very much, white has 2 corners.]
+;W[pi];B[pj]LB[ph:A]C[Where are the eyes? Maybe one at A if black is nice enough...]
+;W[qg];B[rg];W[qi]LB[oi:B][qi:A]C[Pointless move, A and B are miai (On a dead shape already).]
+;B[ri];W[mh];B[lh];W[ni];B[mi]LB[oh:A]C[Dead (Marked A).];W[oi]
+C[?! It's dead.];B[nj];W[li];B[ki];W[lj];B[lk];W[kj]C[Lookup ladders (You're caught in one).]
+;B[jj];W[ji];B[kk];W[ih];B[gh];W[jh];B[kh];W[ho];B[ip];W[ir]
+;B[hn];W[io];B[jo];W[in];B[im];W[gn];B[jn];W[fo];B[eo];W[ho]
+;B[gm];W[go];B[fn];W[hr];B[jr];W[is];B[js];W[bl];B[io]LB[cf:A]
+C[A is possible.];W[bi];B[dg];W[ai];B[ig];W[rr];B[rq];W[sq]
+;B[sp];W[qs];B[qr];W[rs];B[pr];W[qq];B[sr];W[rp];B[pq];W[sq]
+;B[ro];W[ss];B[qp];W[rq];B[ps];W[so];B[sn];W[sm];B[sp];W[po]
+;B[sr];W[dh];B[eh];W[ch];B[cg];W[eg];B[fg];W[ef];B[ff];W[df]
+;B[cf];W[ce];B[de];W[bf];B[ee];W[bg];B[be];W[af];B[cd];W[bh]
+;B[rl];W[bd];B[bc];W[ae];B[ad]C[To begin with, you should always go through your games and review yourself. Look at possible other moves, try out variations. Second of all, you should look up the following topics:
+  Miai
+  Ladders
+  Invasions
+  Shape (Dead shapes specifically and how to make living shapes)
+
+
+I highly recommend life and death problems (They can be found in books or online easily enough).
+
+Good luck.])
+(;W[qf];B[qd]LB[qc:A][pd:B]C[A for success, B for failure (From what I saw).]
+(;W[pd];B[qc];W[qb];B[rb]
+(;W[rc];B[rd];W[ra];B[sc]
+(;W[re];B[pb];W[ob])
+(;W[pb];B[re];W[rf];B[se]))
+(;W[rd];B[rc]
+(;W[re];B[pb];W[ob];B[qa];W[na])
+(;W[pa];B[re];W[rf];B[sd];W[sf];B[se];W[ra];B[sb])))
+(;W[qc];B[rd];W[pd];B[rc];W[rb];B[re];W[rf];B[pg];W[pf];B[qg]
+;W[rg]C[This seems a lot better.])))
+(;W[ho];B[ip];W[fo];B[gn];W[eo];B[dm]C[Maybe something like this (if playing at all in this area).]
+))

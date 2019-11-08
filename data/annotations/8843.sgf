@@ -1,0 +1,126 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.17]
+
+PB[jmertz]
+BR[11k]
+HA[2]
+PW[TarKouli]
+WR[9k]
+KM[0.5]
+DT[2012-07-08]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[B+Time]
+TM[600]
+OT[5x15 byo-yomi]
+RU[Japanese]
+
+AB[pd][dp]C[**My comments in asterisks like so**
+
+**Summative comments -- focus on making good shape and basic tactical goals in the opening and middle game. (Cut the enemy's stones, connect your stones, focus on multipurpose moves.) Try to think critically about where the biggest move on the board is.  Corners are big, approaching corners is big, longggg extensions are big (especially extension from the 4th line to the 3rd line, or extensions facing a corner enclosure), taking a base away from stones to make them weak... Later in the game you began playing atari-atari go, often getting yourself into dubious positions. Try to pay attention to what you hope to gain by playing atari, and make sure not to create weaknesses or strengthen the enemy unnecessarily.  Good luck!**]
+;W[pq];B[dd];W[fc]C[**Experiment with the high response, especially in handicap games.**]
+(;B[cf];W[db];B[cc];W[ic];B[ci]LB[cb:A][ci:B]C[**Not horrible, but in generally you want to treat A and B as miai - don't take one until White takes the other. A two-space extension on the third line isn't as big as a corner approach. Furthermore, if you want to end in gote, you could definitely play D14 (high, leaves room for a big expansion in gote) --- C14 (low, takes sente) and C11 are inconsistent.**]
+;W[qo]
+(;B[qj]
+(;W[cn]
+(;B[cl]C[**Too close to C11, I think.**];W[fq]
+(;B[bp];W[cq];B[dq];W[cp];B[co];W[bo];B[do];W[cr]
+(;B[dn]C[**No, just capture B5**];W[bn]
+(;B[hp]C[**No sense in pincering before cutting.**];W[dr]
+(;B[kq];W[mq];B[fo];W[hq];B[iq];W[gq]
+(;B[gp]TR[go][ip]C[**There is no cut at g5. The j4 cut is bad, though.**]
+;W[eq];B[bl]LB[kc:B][nc:C][jj:D][oj:E][qm:A]C[**This is a big move in a different position, because it is sente. Here, it is gote, and therefore small endgame on the second line. Points like A, B, C, D, and E are all bigger. See variation.**]
+(;W[nc];B[lc];W[ne];B[pf];W[pb];B[qc];W[qb];B[rb]C[**Too small, in my opinion. W's defense at P17 is premature - W can kill M17 instead.**]
+;W[oc];B[le];W[ng];B[ph];W[fe];B[jb];W[ib];B[jd];W[id];B[ie]
+;W[je];B[jf]C[**Excellent**];W[jc];B[kd];W[kb];B[lg];W[he];B[if]
+;W[hf]
+(;B[ih];W[eg];B[ei];W[dh]
+(;B[di]
+(;W[ni];B[li];W[oe];B[pe];W[qk]
+(;B[qm]LB[pj:C][pk:A][rk:B]C[**Strange move. Basic ideas are A (for central fighting) or B (for territory). Hane keeps pressure on W by lowering his liberties.  C is a situational move that works hever because P17 is so weak. A pincer like this only works when B is very strong on both sides, so that neither side can come under attack.**]
+;W[pj];B[qi]
+(;W[pl]LB[pk:C][rl:B][qm:A]TR[ph][qi][pj][qj][qk]C[**This is a very common shape. W's hanging connection has a weakness at A - black can always play there as a peep, forcing W to connect (usually at B). Since the peeping stone is *already in place*, W needs to connect solidly at C.**]
+;B[rk];W[pm];B[ql];W[pk];B[gl]LB[cb:C][ch:B][jl:D][ll:A]TR[ih]
+[ci][di][ei][li][cl][dn][do][fo][gp][hp][iq][kq]C[**A, B, and C are all bigger. G8 is too modest. B's stones on both sides create a deep canyon - how far in does W dare to leap? If W plays "A" first, B can happily reply at "D", which gives him more territory than this silly move at G8.  If W plays around "D", black caps at "A" and then hopes to kill W.**]
+;W[gh];B[gj]TR[hi]C[**The elephant jump leaves a horrible weakness at h11! H11, H10, or even G11 are all better.**]
+;W[hi];B[ij];W[mk];B[lk];W[ll];B[km]LB[mj:B][kk:D][kl:C][ml:A]
+C[**Strange. Make W stronger, than switch directions? A, B, C, and D are all possible. The key question is whether, after B's move, W connects at "A", or presses forward. If he presses forward, B looks for an opportunity to cut; if W falls back to connect, B continues to fence in territory.]
+;W[kl];B[jl];W[kk];B[jm];W[lm];B[lo];W[mo];B[mp];W[lp];B[mn]
+;W[np];B[ln];W[nn];B[mm];W[nm];B[ml];W[lj]
+(;B[nl];W[kp];B[jp];W[nk];B[ol];W[om];B[eh];W[dg];B[fh];W[fg]
+;B[hg];W[gg];B[gi];W[hh];B[ig];W[cg]LB[bg:A]C[**W has a better move at A, which cuts B in good shape.*]
+;B[df];W[bf];B[be];W[bh];B[ed];W[fd];B[cb];W[dc];B[ec];W[eb]
+;B[ca];W[ef];B[de];W[ir];B[jr];W[is];B[js];W[gr];B[ms];W[lr]
+;B[ls];W[nr];B[ns];W[or];B[os];W[ps];B[lq]C[**You keep forcing W to strengthen himself!**]
+;W[mr];B[ko];W[mp];B[ks];W[kr];B[jq];W[ok];B[jo];W[qn]
+(;B[sn];W[rn];B[rm];W[pi];B[qh];W[sl];B[rl];W[so];B[sk];W[oh]
+;B[qs];W[pr];B[sp];W[ro];B[rp];W[qr];B[sm];W[rq];B[jk];W[ki]
+;B[kh];W[ji];B[ii];W[mi];B[lh]LB[fb:B][mb:A][bi:C]C[**Tiny! A, B, and C are the biggish moves you should be thinking about.**]
+;W[mg];B[jh];W[kj];B[mf];W[nf];B[me];W[lb];B[kc];W[bi];B[bj]
+;W[bk];B[ck];W[aj];B[ak];W[ai];B[ch]C[**Gote.**];W[bg]C[**??**]
+(;B[da]C[**B got a good result, but only by luck - to get the same final result, F18 first is necessary.**]
+(;W[fa];B[ea];W[fb];B[af];W[ad];B[ae];W[ag];B[bd];W[ee];B[mc]
+;W[pc];B[rd];W[mb];B[qa];W[pa];B[ra];W[sc];B[sd];W[od];B[md]
+;W[pg];B[qg];W[og];B[mh];W[cm];B[dm];W[am];B[bm];W[ap];B[al]
+;W[bq];B[an];W[ao];B[am];W[hj];B[hk];W[fp];B[ep];W[ek];B[el]
+;W[fk];B[fl]C[jmertz [11k\]: :(
+TarKouli [9k\]: ?
+jmertz [11k\]: your out of time
+TarKouli [9k\]: tx
+jmertz [11k\]: gg])
+(;W[fb]C[**This is fine.**];B[ea]C[**Now this is gote.**];W[ra]
+;B[fa];W[ga];B[gb];W[ha]))
+(;B[fb];W[gb];B[ea];W[fa];B[da];W[fb]C[**Same result, but a forced sequence. Start by cutting.*]
+))
+(;B[rn]C[**Better.**]))
+(;B[kp]C[**Much bigger**]))
+(;W[pk]))
+(;B[pk]C[**];W[rj];B[pj];W[ri];B[ql];W[rk];B[mb];W[nb];B[pm]
+;W[rm];B[rl];W[sl];B[qn];W[qm];B[pl];W[rn];B[mj]C[**Not clear how W expects to survive.**]
+)
+(;B[rk];W[pk];B[rl]C[**B is far ahead in terms of territory... Sees no need for anything fancy to win**]
+)
+(;B[pj];W[pk];B[oj]C[**W can wriggle around, but he can't keep his group alive and make lots of territory here.**]
+;W[ok];B[nj];W[mb];B[lb];W[la];B[pn];W[qn];B[pm];W[qm];B[mm]
+))
+(;W[ch];B[bh];W[bg];B[bi];W[cg]C[**Cutting like this seems to be rather big. Is B's corner alive?**]
+))
+(;B[ch]C[**Better. Letting W cut off E11 is no big deal... with K14 planted firmly in his face, W cannot profit here, while B can expand his H4 moyo.**]
+;W[di];B[dj];W[ej];B[ek];W[fj];B[fk];W[gj];B[gk];W[hj];B[il]
+))
+(;B[hg]C[**Hane seems fine -- B is getting strong on both sides, W is running on dame (i.e., not making any points)**]
+))
+(;AE[bo][co][fo][bp][gp][hp][eq][fq][gq][hq][kq][cr][dr]TR[bl]
+C[**Here, b8 is sente.**]
+(;W[jj]C[**If W tenukis...**];B[cr];W[br];B[bs];W[dr];B[ds]
+;W[er];B[bq]C[**Ko for all the marbles.**])
+(;W[dr]C[**W defends**])))
+(;B[ip]
+(;W[gp];B[go];W[ho];B[hn]C[**Ladder, makes B thick**])
+(;W[go];B[gp];W[fp];B[gn]C[**Still a ladder**])))
+(;B[eq];W[er];B[fp];W[gq];B[gp]C[**This is ugly, but it's better than nothing, right?**]
+))
+(;B[dr];W[jp]LB[bl:A]))
+(;B[bn]))
+(;B[dn]C[**This is good. You can look at joseki books or josekipedia.com for ideas to respond to the double approach.**]
+))
+(;B[fp];W[bp]LB[cl:A]C[**W can play this way if he's not afraid of A.**]
+(;B[cq];W[ck];B[jq]C[**B can be very happy with this. C9 is meaningless - no big possibilities for B or W here, so not a valuable point. K3 denies W's moyo an expansion on both sides - huge.**]
+)
+(;B[cl];W[cq];B[co];W[bo];B[dn];W[bn]
+(;B[dq])
+(;B[dm];W[er]C[**B can play this way. Interesting if you like influence.**]
+))))
+(;W[jq]LB[jo:A]C[**More normal. Next A expands W's moyo further.]
+)
+(;W[fq]
+(;B[dn];W[jp]C[**A good way to combine the big point with an approach move.]
+)
+(;B[hq];W[fo];B[dn]C[**B can try to pincer, but H3 is in trouble.**]
+)))
+(;B[jq];W[pj]C[**K3 is a bigger point than Q10, because it's easier for W to build a big moyo**]
+))
+(;B[df]
+(;W[po]C[**W often plays the 4-4 approach as a forcing move, to see how you respond. If so, ....**]
+;B[ec];W[fd];B[jd]TR[df]C[**... your high stone is much better positioned for attack than it would be if you had played low.**]
+)
+(;W[jd];B[cj]TR[df][dp]C[**Ending on C10 in gote may seem slow, but W's shape has weaknesses and C10 is perfectly positioned with respect to D13 and D4.**]
+)))

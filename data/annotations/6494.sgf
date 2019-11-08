@@ -1,0 +1,93 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+PB[Utilisateur]
+BR[20k]
+HA[5]
+PW[GNU Go 3.6:level 1]
+KM[0.5]
+DT[2008-02-06]
+RE[B+13.50]
+RU[Japanese]
+
+AB[dd][pd][jj][dp][pp]C[I'm about 20k, playing black.
+Starting a 5 stone handicap game against gnuGo lvl 1...];W[cn]
+;B[co];W[dn]C[Here I feel like protecting the corner
+and then he does quite the same thing to each corner in turn]
+;B[bo];W[cf];B[ce];W[df];B[be];W[nc];B[oc];W[nd];B[ob];W[pn]
+;B[qo];W[qn];B[ro];W[rn]C[Depending on how you like to play, you can either attack weaker W groups, or you can very solidly.]
+
+(;B[qg]TR[rn]C[Not really threatened by the last move I try extending my corner, maybe a better choice would have been to work on the bottom side ? Trying to link my corners that are not separated by white's stones ?]
+;W[nb];B[gc];W[nf];B[of]C[Here I tried to prevent him from reducing too much my corner]
+;W[ng]C[Reducing white's space:
+-go along the 3rd/4th line. these lines are important and contain a lot of points in them.]
+
+(;B[ge]C[Here the idea of going over him on the left side came to mind thus reducing his space]
+;W[kd];B[fg];W[bf];B[gq];W[di];B[fi];W[nn];B[np]C[Trying not to be splitted in two small corners]
+;W[ln];B[gn];W[lp];B[mq]C[Down right corner seems closed now...]
+;W[lq];B[mr];W[qi];B[ph]C[Trying to find a way out of up right corner]
+;W[bn];B[en];W[em];B[fn];W[ek];B[fk]C[Here I feel like left side is good for me, closed him in this space]
+;W[io];B[hp];W[ic];B[ni]C[Still trying to get a link out of this up right corner]
+;W[eh];B[fh];W[rh];B[rg];W[ok];B[nj]C[This was probably too close, too heavy
+
+It's fine. Heavy means it is hard to make it live, but you can't sacrifice it because it's survival is important to you. Your group is alive.]
+;W[lr];B[jf]TR[he][ie][ff][fg][jg][jh][gi][ji][gj][ij]C[Also trying to reduce white's upper space
+
+Good place to play. Makes a 'box'. Boxes are good.];W[ie];B[if]
+;W[ej];B[fj];W[hb];B[gb];W[so]C[Here he starts a long sequence of border closing... Where I can only follow his moves]
+;B[sp];W[sn];B[rp];W[oa];B[pa];W[na];B[pb];W[ao];B[ap];W[an]
+;B[bp];W[ae];B[ad];W[af];B[bd];W[im];B[il]C[Pushing a bit to get some space in the middle]
+;W[hm];B[hn];W[hl];B[hk];W[in];B[jl];W[jq];B[hq];W[fl];B[gl]
+;W[gm];B[gk];W[fm];B[ef];W[ir];B[hr];W[ms];B[ns];W[ls];B[nr]
+;W[sg];B[sf];W[sh];B[rf];W[ga];B[fa];W[ha];B[fb];W[lg];B[kh]
+;W[lh];B[li];W[kg];B[jh];W[oe];B[pe];W[og];B[pf];W[ll];B[lk]
+;W[jm];B[eg];W[dg];B[hd];W[id];B[pi];W[qj];B[pj];W[pk];B[qh]
+;W[rj];B[ri]C[That was stupid... I should have thought it more before playing there]
+;W[si];B[qk]C[And I keep playing what I begun...];W[ql];B[rk]
+C[Here I see I made a mistake];W[mk];B[mj];W[kk];B[lj];W[kl]
+;B[jk];W[nk];B[oo];W[mh];B[jg];W[is];B[hs];W[ei];B[on]C[Taking a bit of space in his territory...]
+;W[om];B[mo];W[rl]C[I don't see why he played here...
+
+Bots don't actually think. They play by pattern. There has been no evaluation that the little dead black group is not dangerous.]
+;B[mn];W[mm];B[no];W[nm];B[lo];W[ko];B[kn]C[This too I tried it but that was a mistake...]
+;W[lm];B[kp];W[jo];B[jp];W[ip];B[iq];W[jr];B[ho];W[od]C[Closing borders...]
+;B[pg];W[he];B[gf];W[hc];B[gd];W[de];B[ee];W[do];B[eo];W[kf]
+;B[po]C[No threat here. play somewhere else. 
+eg: h14, other border closing.];W[je];B[hf];W[kj];B[ki];W[mp]
+;B[nq];W[oj];B[oi];W[nh];B[oh];W[mi];B[kq]C[This one, I thought it was noone territory and once I played realized it was already his terriotry :(]
+;TW[ia][ja][ka][la][ma][ib][jb][kb][lb][mb][jc][kc][lc][mc]
+[jd][ld][md][ke][le][me][ne][lf][mf][ag][bg][cg][mg][ah][bh]
+[ch][dh][ai][bi][ci][ri][aj][bj][cj][dj][sj][ak][bk][ck][dk]
+[qk][rk][sk][al][bl][cl][dl][el][ml][nl][ol][pl][sl][am][bm]
+[cm][dm][km][pm][qm][rm][sm][jn][kn][jp][kp][kq][kr][js][ks]
+TB[aa][ba][ca][da][ea][qa][ra][sa][ab][bb][cb][db][eb][qb][rb]
+[sb][ac][bc][cc][dc][ec][fc][pc][qc][rc][sc][cd][ed][fd][qd]
+[rd][sd][fe][qe][re][se][ff][qf][gg][hg][ig][gh][hh][ih][gi]
+[hi][ii][ji][gj][hj][ij][ik][fo][go][cp][ep][fp][gp][op][qp]
+[aq][bq][cq][dq][eq][fq][oq][pq][qq][rq][sq][ar][br][cr][dr]
+[er][fr][gr][or][pr][qr][rr][sr][as][bs][cs][ds][es][fs][gs]
+[os][ps][qs][rs][ss]C[The end... I won but felt like there was many mistakes in there...
+
+Thanks for the time you spent !
+
+Good game. It was good to see you concentrate on setting a base in the corner, then spreading out. 
+Thinking about which groups are weak (both yours and your opponent's) and how to attack their weakness (and of course, defending your own) will be useful. It will definitely help you in further games.]
+)
+(;B[jc]C[Even if white extends from his line, points made in the centre are hard to make, and easy to lose.]
+)
+(;B[dj]C[Here, B could become a very big threat. W could be separated, and leave one group much weaker than the other. Even if W defends well, B can easily run.]
+;W[cj]
+(;B[ci];W[di];B[ck];W[bj];B[bk];W[dk];B[ej];W[dl];B[bi];W[dh]
+;B[aj]C[separated. two weak groups.])
+(;B[di];W[ci];B[ck];W[dk];B[cl];W[bn];B[dl];W[ek];B[el];W[fj]
+;B[fn]C[B leaves d10, d11 and takes a chunk out of W. exchange. Lots of things can happen in this fight.]
+)))
+(;B[jp]C[K4 is a good move. Joins groups together and makes it even MORE daunting for W to invade.]
+)
+(;B[jd]C[k16 extends your group on the top left, and attacks W at the same time. W must make a base and/or run. Both of which are not a threat to B, W's gain is small compared to B's gain.]
+)
+(;B[pf]C[Any sort of move like this (extends from top right) can be dangerous to W groups on the top and on the right. W can only protect one, leaving the other at B's mercy. >=D]
+
+(;W[jd];B[qj]SQ[pn][qn][rn]C[Now W is cramped. r10 took a good spot for both players.]
+)
+(;W[qj];B[jd]SQ[nc][nd]C[W is still troubled. W can still manage to make a base , but B gains more influence.]
+;W[kc])))

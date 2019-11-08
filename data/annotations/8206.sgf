@@ -1,0 +1,81 @@
+(;FF[4]GM[1]SZ[19]CA[utf-8]AP[SGFC:1.17]
+
+GN[zgtl3]
+PB[EyrikGo]
+BR[15k]
+PW[go-king]
+WR[15k]
+KM[6.5]
+DT[2011-01-06]
+PC[GoShrine - http://goshrine.com]
+RE[W+R]
+TM[1800]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+C[Aziya Sanders wrote:
+I'm not sure why black resigned. Is my fuseki any good? Was there
+any moves that i should not have done? And as there any moves i
+should have done?
+
+
+pz- i'm pzykr 10 kyu; i'll be commenting for both w and b on this rather extraordinary game.  it's funny, just yesterday a friend of mine in germany wrote she'd played the "grosse mauer" --great wall-- three times as black in a tournament this weekend. that sent me to sensei's library so i had already read up on this fuseki (opening) before i even got this review request :) 
+
+when yang yilun 7p was asked about the great wall he simply remarked that b was over-concentrated
+
+the only time you'll see me use a capital letter (aside from emphasis once in a while) is when i refer to a point on the board using its coordinates (eg, A1..T19). usually i will refer to move numbers, b1, w2, b3... i suggest you turn "show all move numbers" on in your sgf viewer, at least for this review.
+
+note: smartgo does really funny things to the sgf files---this looks ok in multigo 4.4.4, which is the editor i used to do the review. just be aware that different editors/viewers seem to interpret sgf files differently...]
+N[GTL game review]
+(;B[pp];W[dd];B[dp];W[pe]C[pz- i guess you have a specific strategy in mind when you play this rather unusual opening move? emphasis on the right side? willing to give up the upper right corner?]
+;B[jd]C[pz- better played on the third line. that way if w approaches from either side b can jump two spaces on the other side and establish a base. the fourth line b played on is the line of influence or power, but with w presence in both upper corners that one stone's influence isn't very imposing... the third line is the line of territory. if b is to invade w's territory, b needs first to establish a base. play on the line of territory.]
+;W[eb]C[pz- i've never seen this move played before. i do not understand its purpose. it does not secure the corner--the corner can still be invaded-- it does not build territory, it does not put pressure on b5, it does not profitably extend from w2...
+
+always--ALWAYS!! have a reason for each and every move!];B[hf]
+C[pz- this is a strange move. the usual order of play is often remembered using this go proverb: corners are golden, sides silvery, the center is as a useless piece of straw. 
+
+to make the great wall one would place all stones near the center line and black already played nirensei (two-star) opening on the bottom. maybe i was seeing a great wall where there really wasn't one...]
+;W[fh]LB[pc:A][jq:B]C[pz- so if b7 was a strange move why did w feel compelled to follow his direction of play? white could play at A or K3]
+;B[dj]C[pz- looks big...];W[dg]C[pz- good answer to b9];B[hi]
+C[pz- one point too far: ikken-tobi (one-point jump) to H12 better. with w8 where it is w can easily cut b7 and b11.]
+(;W[gf]C[pz- not sure what w's intention is with this move? if w intends to attack b7 then it's not a good move. the proverb to remember there is one almost never touches a stone one is attacking. G15 or F 14/15 would be ideas to think about attacking. on the other hand, it is said "attach to make shape." if w really intended to make shape with this move, it is a good move; with quite a bit of (unintended) help from b, white makes really good shape over the next several moves.]
+;B[gh];W[gg];B[hg];W[gi];B[hh];W[gj];B[hm]C[pz- b seemingly flings stones into empty spaces with abandon... any particular reason this particular point, one wonders?]
+;W[lh]LB[nh:A][nf:B][of:C]C[pz- this is played too near b's thickness, in my judgement.  w's corner is still open, w has no base on the right side from which to launch operations. b can use his big wall by extending past w20, somewhere around A, B, or C. a wall like that should be used for fighting! not too much should be counted on in the short run in terms of territory. that's why b19 seems almost like a pass--it doesn't attack anything, doesn't make territory, doesn't make thickness, doesn't make connection... what's its purpose?]
+;B[kj];W[nj];B[pj];W[pi];B[oj];W[oi];B[ok]C[px- this shape is called an empty triangle: it is the first example of "bad shape" taught in go books. w, on the other hand, has a wall w 24, w26, from which w4 is the perfect distance: "from two, extend three; from three, extend four"]
+;W[qj];B[pk];W[ni];B[nk]C[pz- when we say b's shape on the right side is bad--what makes it bad?  almost always the answer will be "inefficiency."
+
+for example, the formation of b and w stones clustered around the right side star point: count the liberties...
+
+w=8
+b=5
+
+they played the same number of stones in the same area, but w's stones have half again as many liberties. that's one way of quantifying efficiency.]
+;W[qk];B[pl]C[pz- another empty triangle, b added a stone and still has five liberties! w added a stone, added a liberty.]
+;W[ql]C[pz- correct for w to continue collecting terri, even "pusing from behind," because w's pushing on the third line, the line of territory.]
+;B[ld]LB[oc:A][mc:B][qd:C]C[pz- it is not a good idea to try to surround center territory directly, if that's the point to b's move here... w just built a powerful position in the upper right and it will be easy to reduce whatever territory b might try to make between his wall on the left, b5 and b35 at the top, and b21 in the center. b has no clearly defined territory anywhere on the board, whereas w has a nice chunk on the right side, lots of thickness facing the upper right side, and some thickness facing the left edge of the board, which should turn into his territory at least up top.. there is a large moyo (potential territorial framework) on the bottom side, particularly on the right: the word to keep in mind is "potential." 
+
+a way to use the nice black wall on the left would be to play, carefully! somewhere around A. if w tried to pincer at B b could take the corner with C. instead of this, though, w would probably protect the corner at Q17, leaving b an opportunity finally to extend two spaces to the left and establish something of a base, though usually one doesn't start with a two-point extension that already is in contact with enemy stones...]
+;W[md]C[pz- attach to build thickness? maybe we would have known w's intentions if b had not tennukied (played elsewhere).]
+;B[fk]C[pz- bad move];W[fi]C[pz- good move-fixed a defect in w's shape. the apparent defect at E13 is already protected by w10.]
+;B[gk]C[pz- it's common amonst beginners to play too closely to opponents' stones while attacking and also while defending.]
+;W[hj]C[pz- driving solidlly through b's position--good];B[ij]
+;W[hk];B[ik];W[hl];B[gl]LB[il:A]C[px- warning--empty triange! b45 at A only move!]
+;W[il]C[pz- the opponent's vital point is my vital point.];B[jl]
+C[pz- b still playing in contact with w...];W[im]C[pz- ...w still driving solidly through b's position.]
+;B[jm];W[in];B[jn];W[io];B[jp]C[pz- move 53 and b still doesn't have a single stone lower than the fourth line...  extraordinary!  every fuseki (opening) and joseki (corner openings) book i've ever read stresses that one should keep a balance between third and fourth line stones early in the game. 
+
+the idea is that there is a balance between influence or power, which usually faces the center from the fourth line (a little oversimplified) and territory, which is usually made first in the corners and then along the edges of the board, from the third line.]
+;W[gm];B[hn];W[gn];B[hp];W[ho];B[fl]C[pz- bad shape. just one point to the left, E8, would have made a nice tiger eye shape... even creeping out one more stone to E9 would have made connection with b9. but the stone played just makes a lump. and it can be cut.]
+;W[em];B[fm];W[fn];B[el];W[dk];B[dl];W[dm];B[cm]C[pz- b poking through with 67 at C8 would have made it much more difficult to kill this group. this move says "kill me."]
+;W[cl];B[en];W[dn];B[eo];W[cn]C[pz- w72 at E9 kills immediately--and certainly
+playing through games by some of the greatest master players of all time, shusaku, go seigen, etc, one notices that they almost invariably choose the simplest variation; their moves are simple, strong, but deep! and when i say simple---i don't mean easy for me as a 10 kyu to see without professional guidance: i read the commentary!  [the proverb says to review a thousand professional games to become a shodan (1 dan)... but imho they need to be `commented` games.\]]
+;B[co];W[bm];B[cj]C[pz- b must be dispirited by now, not even looking one move ahead at what could happen. there's still time to escape with the group, at least temporarily... although, after that, there's nowhere to go. w is so thick through the middle and now has the group with at least one eye around C7, b has no chance to survive this group, should switch elsewhere.]
+;W[ek]C[pz- b's decision to resign seems proper and reasonable. w has an overwhelming lead in territory, according to my reckoning and the game analysis engine in smartgo ;)   while there are areas left open where one side or the other could gain territory, and b maybe could make a fight out of it, all the fight seemed to go out of b over the past several moves...
+
+anyway, one doesn't comment past the end of the game, so i'll just take this opportunity to thank you for giving me a chance to further my own go studies by making this review--i hope it does you as much good as it has me! good luck in all your games :)]
+)
+(;W[hh];B[ih];W[ig];B[hg];W[gh];B[jg];W[ii];B[if];W[ij]C[b is cut. would you rather play with the w or b stones from here?]
+))
+(;B[jj];W[cd];B[jd];W[dp];B[jp];W[qp];B[lm];W[pc];B[hg]C[pz- this is one version of the great wall. there is a strong resemblence in this game, don't you think?
+
+eh, maybe not so much...]))

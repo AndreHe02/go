@@ -1,0 +1,103 @@
+(;FF[4]GM[1]SZ[9]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+PB[Enfors]
+BR[30k]
+PW[GNUGo]
+KM[5.5]
+DT[2009-04-16]
+RE[W+Resign]
+RU[Japanese]
+
+C[Enfors: Hi, my name is Christer Enfors, I'm a Swedish go beginner. I've only rarely played against human opponents. I've added my own thoughts about some moves in the comments.
+
+svb: Hi Christer, thank you for requesting a review. My Name is Simon Van Bockstal (I also go by the name "Hushfield" on KGS). The following are my thoughts on this game. Keep in mind that I am currently around 9k KGS, and 16k-15k according to the belgian go federation. I will talk about moves and strategies in your game that strike me, and explain to you why I think other moves might be a better choice. Keep in mind that everybody who plays go is at some level a student, so I make mistakes, have views on the game that stronger players would see as bad habits, or wrong. What I'm trying to say is, try to keep an open mind, and do not hesitate to question my words. In fact, I encourage you to do so! Only through questioning can you really improve.
+
+Also, I can really encourage you to play against live opponents. There are numerous go servers around where you can play with opponents from all over the globe. Perhaps there's a go-club somewhere close by to where you live? I have found that not only did playing with people make me improve faster, it also was a real stimulus to keep playing.
+
+In order to get the most out of this review, I encourage you to view it in an sgf-editor which shows variation clearly. The one that I use and recommend for game analysis and reviews is Cgoban3 (the default editor and client for KGS) , because it keeps the variation tree really clean.]
+;B[cf]LB[ee:A]C[Enfors: I've heard somewhere that in 9x9 it is a good idea to start on the middle point, but I prefer to start near a corner. I feel safer that way.
+
+svb: You are right to feel safer this way, because it is safer. Because you're closer to the corner/edge of the board, your stone has a much more solid grounding. Putting a stone on the middlepoint A (also called tengen) is a fighting choice. It is a floating stone, which will influence everything else that happens afterwards, but has no solid grounding yet. All in all, your move is a solid opening move. (I also like opening this way on 9x9)]
+;W[gd]C[svb: GNU Go also seems to like this move.];B[ff]LB[dc:B]
+[fg:A]SQ[gb][fc][gc]C[svb: a two point extension is certainly a good idea, for it uses your previous stone and chalks up a lot of the board as area under your influence. I don't have too much experience with 9x9 games, but now both of your stones are on the 4th line (start counting from the bottom line), which seems a bit high and therefore not as secure as they might be. If you want to play in that direction, A might be a better choice. (because it is closer to the edge and a therefore a little bit more secure) However, I would probably opt for B here, for a couple of reasons: I think it works a little better with your previously played stone, it makes your area of influence larger, and it threatens to strike in a place where the white stone is rather vulnerable. (the squares).]
+;W[dc]C[svb: Again, GNU Go seems to confirm this: it plays the same move you did, but one line lower for added security.]
+
+(;B[cd]LB[ed:C][he:A][hf:B]SQ[ff]C[Enfors: I'm not sure about this move. It feels risky playing so close to D7, but it's a one point jump from C4 and it gains some territory.
+
+svb: Your intuition serves you well, I too think there are better moves to play at this point. Imagine that last black stone had not been played, what options would you have? You could try to agressively enhance your own sphere of influence by playing somewhere like A, but I don't like this move because the marked black stone is a little too high, and white might see enough room for a succesful invasion. A move like B seems too territorially-minded. and white will probably use this to start an attack on the left side.
+I think your best option here is to attack the two white stones that are already on the board. Try to divide them into two separate groups. If that works, you can probably kill one of those groups and win the game. If that doesn't work, you will probably have gained quite a bit of strength through leaning on your opponents stones, and might have enough momentum to win the game. A move that springs to mind is C, for which I've added a few options in variation. These are more hypothetical game situations, because i wouldn't really know how your opponents might react. Anyway, because 9x9 are really fast-paced games (the first 6-8 moves can already decide a game), I think the important thing to remember is to not settle for a slower method like putting stones around what you would like to be your territory, but to actively attack the opponent. Whether a move like C works or not is only secondary. Once you gain more experience you will see all kinds of ways to exploit your opponents' weaknesses.]
+;W[hf]LB[ge:A]C[Enfors: This move scares me, because it threatens to invade the bottom right corner (which I was hoping would be mine).
+
+svb: This is part of the excitement of the middle game of go. Areas that seemed like they would be your territory at the end of the game shift to the opponents side, but there's always a catch. It means you now have opportunities elsewhere on the board. I've added another hypothetical continuation to show you how the board can completely change. The important thing is to rememeber to take a deep breath and let go of your expectations of what would be yours. If you jealously defend "your territory" the opponent will be able to lean on your stones enough to get ahead. Just look around for opportunities to gain in some other part of the board what you've lost here.]
+
+(;B[gg]LB[hg:A]SQ[ff]C[Enfors: I wasn't sure if this move was the best defense. I considered  A as an alternative, but I feared it would be cut off.
+
+svb: A would indeed have been cut off (see variation). I don't really know what to think of this move. It is a bit of a result of your playing the marked black stone on the 4th instead of the 3rd line. Now you need to come back and invest another stone to defend that which you think should be your territory. That is not very efficient, and leaves the initiative with your opponent. But if you do start a counterattack on your opponent now, it would leave the whole bottom area wide open, and you might end up with a shortage of territory at the end of the game. This move is a bit passive, but that's mostly fallout from your earlier move at F4. An alternative I would consider here is to play at A anyway, sacrifice that stone, and cut off white in the bottom from white at the top, and then start an agressive attack on the top. Some continuations have been added in variation. This is also a good example of how the middlegame completely changes the outlines of territory set in the opening. The top would then belong to black, while the bottom would be white.]
+;W[cc];B[bc]LB[bd:A][fd:D][ee:E][ge:C][hg:B]C[Enfors: This move felt risky, and in retrospect I think it may have been what lost me the game. I think A would have been better.
+
+svb: there is nothing wrong with this move, it is a standard push on the second line. There are some other moves which you could play at this point, like B, C, D or E depending on what strategy you are going for. But a white play at A would be unbearable, and I think you chose one of the most urging points. Not a bad move at all.]
+;W[bb];B[ad]LB[ac:A][bd:B]C[Enfors: My immediate thought here was to play A instead, but then it could have been cut at B. So I opted for a Tiger's mouth instead which would protect B.
+
+svb: I absolutely understand your preference for the tigers mouth here, because it protects the first line. But when looking at the situation a bit higher up, the tiger's mouth connection will produce some very bad shape (more on this later). I think a solid connection would have been much better here. If anything might have cost you the game, it is this choice. I used to play the tiger's mouth connection all the time, but I have been punished many times for that, because it leaves the opponent many opportunities in way of ko-fights or -as happened in this game- endgame tesuji. If you want to make the connection, make a solid connection at B6 instead of the hanging connection at A6.]
+;W[hg]
+(;B[gh]LB[gf:B][fh:C][hh:A]C[Enfors: Here, my first thought was to play A, but it felt too risky. I think this move was better.
+
+svb: A good move indeed. Not because white can capture immediately, but playing at A would allow white to play B in sente. (meaning, that if white played B, you would have to play another move at C and white would keep the initiative: see variation)]
+;W[dd];B[de]LB[be:1][ce:A]TR[bc][ad][cd][cf]C[Enfors: This move seemed OK, because the Tiger's mouth protected the cutting point at A.
+
+svb: This is the reason why the first tiger's mouth connection should have been a solid connection. Now the marked back stones have a shape with a lot of cutting points that can easily be exploited. This is mostly done be a play at the critical point, 1. Now if you want to prevent this, you should have played at A instead, but that would give white a much bigger bite out of the center. So you see, playing a solid connection is much sturdier, and this sturdiness allows you to push hard against white in the center part of the board. Beacause now the foundation of the entire group is somewhat unstable, you cannot play this agressive move. This whole range of problems is a direct result of the choice between tiger's mouth and solid connection earlier in the game. This is what is meant with bad shape: shape which doens't allow your stones to work to their full potential.]
+;W[hh];B[ge]LB[ee:A]C[Enfors: Another risky move, I think. It would have felt safer to play closer to A, but I needed to push back the boundary to White's territory a bit.]
+;W[he];B[fd]LB[ee:B][ge:A]C[Enfors: The "risky" move at A seems to have paid off, because White still hasn't invaded near B.]
+;W[fc];B[ed];W[ec]C[svb: indeed: this whole exchange is exactly as I would have played it. It's good to see you feel that these moves are a good way to take advantage of the white stones on the right side. However, I think you waited too long during the game, so white could easily block the black stones, and connect all of her own stones. The last sequence of moves by black was good, but played too late in the game.]
+
+(;B[ef]LB[ee:A]C[Enfors: A felt insecure here, so I made a Tiger's mouth to protect it.
+
+svb: it is always good to doubt the security of walls you have made. Where are the cutting points? What can the opponent do to eploit my weaknesses? This should become a second nature to you as keep playing go. But think about this particular move again. Is it really necessary? I've added a lot of variations of what could happen, but take a moment to think for yourself whether this move was required or not.]
+;W[gi];B[fi];W[hi];B[fh]LB[eh:A]C[svb: good standard exchange. Again, A is possible, but leaves the opponent more possibilities later on.]
+;W[ab];B[ac]LB[bd:A][be:1]TR[bc][ad][cd][de][cf]C[Enfors: I think I should have played at A here instead. I didn't, because it's a Tiger's mouth so it seemed safe. I didn't consider the security of the marked group.
+
+svb: Indeed. With this move, the inherent weakness in this shape now fully springs to life, and allows white to play the tesuji at 1.]
+;W[be]C[Enfors: This is where I realised that I was going to lose.
+
+svb: endgame tesuji always ruin one's day. I've had my share of losses because of them. Don't worry about it too much though, you will learn to spot these quickly enough. Doing a lot of tsumego really helps, and I highly recommend doing a lot of them. In this game however, even if you had played B6 instead of A7 earlier, I think you would still have been a little bit behind (or quite a lot, depending on komi). But you didn't play bad at all.
+
+I noticed two parts in your game that I think lost you this game, and if you keep those in mind, your game will improve.
+
+1) Don't hesitate to take the fight to the opponent. Offense is the best defense, and certainly so in go. If you look back at what white did in this game, is that your opponent kept leaning on your stones, attacking, pushing, and little by little got ahead. You showed good insight in your attack on the right side, but it was a little late in the game at that point to make much of a difference.
+
+2) Don't jealously defend "territory" outlined in the opening stages of the game. The stones on the board during the opening show where you have influence, but as long as the opponent can put living stones in your sphere of influence, it's not territory. So the outline set in the opening can and probably will change quite a bit during the middle game. Do not  be afraid to accept a white invasion in your influence, but welcome it, and use it to gain advantages in another part of the board.
+
+Well played, and I hope this review can help you (even if only a little) on your path.
+Simon
+
+*end of review*];B[ae]TR[ac][bc][ad]C[Enfors: Trying desperately to save the marked group and kill the invader.]
+;W[bd];B[af];W[bf];B[bg]C[Enfors: At this point I didn't even realise that the marked group was in atari. Not that I could have saved it anyway, but... Instead, I tried to put the white invader in atari.]
+;W[ag]TW[aa][ba][ca][da][ea][fa][ga][ha][ia][cb][db][eb][fb]
+[gb][hb][ib][ac][bc][gc][hc][ic][ad][hd][id][ae][ie][if][ig]
+[ih][ii]C[Enfors: *Sigh*. Time to resign. :-)])
+(;B[be]C[svb: so suppose you spent the move defending your actual weakness, what could white do in the other part of the board?]
+
+(;W[ee];B[fe];W[ef];B[eg];W[gf];B[df]C[svb: this cut doesn't work]
+)
+(;W[fe];B[ee];W[gf];B[fe];W[fg];B[fh];W[eg];B[eh];W[dg];B[dh]
+;W[cg];B[ch];W[bf];B[bg];W[df];B[af])
+(;W[gf];B[fe];W[fg];B[fh];W[eg];B[eh]
+(;W[ee];B[ef];W[dg];B[dh];W[cg];B[ch];W[df];B[bg])
+(;W[dg];B[dh];W[ee];B[ef];W[df];B[cg]))))
+(;B[hh];W[gf];B[fh];W[fe]))
+(;B[ge];W[he];B[fd];W[gf];B[fc];W[fe];B[ee];W[fg];B[ef];W[eg]
+;B[dg];W[dh];B[ch];W[ei];B[hc];W[gc];B[gb];W[fb];B[ge];W[hd]
+;B[eb]TR[dc]C[svb: now the marked stone will die and you will definately have more points than your opponent.]
+)
+(;B[hg];W[gg];B[gf];W[hh]C[svb: A would indeed have been cut off.]
+;B[he];W[if];B[ie];W[ig];B[ge];W[eh];B[fd]
+(;W[gc];B[fc];W[eb];B[fb];W[cc];B[bc];W[bb];B[bd];W[ab];B[ea]
+;W[da];B[fa];W[ec];B[ca];W[cb];B[db])
+(;W[fc];B[gc];W[ec];B[fb];W[cc];B[bc];W[bb];B[bd])))
+(;B[ed]
+(;W[ec];B[fd];W[fc];B[ge]
+(;W[he];B[hd];W[gc];B[hf];W[hc];B[ie])
+(;W[hd];B[he];W[dd];B[de];W[ee];B[fe];W[ce];B[ef];W[be];B[bf]
+))
+(;W[cd];B[ec];W[hf];B[gg];W[hg];B[gc];W[eb];B[fb];W[db];B[hd]
+;W[gh];B[fh])))

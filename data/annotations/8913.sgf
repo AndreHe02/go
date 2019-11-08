@@ -1,0 +1,145 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.17]
+
+PB[tom111]
+BR[7k]
+PW[kotatuneko]
+WR[6k]
+KM[0.5]
+DT[2012-10-12]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[W+8.5]
+TM[1800]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+C[tom111 [7k\]: Hi
+kotatuneko [6k\]: hi
+
+I think I had a firm lead in this game in early/middle game, but then I am not sure how w turned things around.  My main question is after move 107.
+
+N: Hi, I play as Numsgil (2k) on KGS.  I've prefixed all my comments with N.  If there's one take-away lesson from this game, it's to check your one point jumps to see if they can be cut.  Don't just assume that a one point jump is always safe, or that old jumps that were safe are still safe.  There are something like 4 different ways you can react to a cut, so the flexibility usually favors you.  But it's definitely possible for all 4 possible reactions to be unfavorable, especially if there are other stones in the area.]
+;B[qp];W[dd];B[dp];W[pd];B[kq];W[jd];B[qf]
+(;W[qh];B[qc]TR[qh]CR[qf]C[generally, is entering 3-3 the right choice here? or instead of r14, go something like r10/r11 to continue build a large frame work?
+
+N: Entering 3-3 is fine.  r10/r11 is probably bad.  If you played r10/r11 first, and then white played at triangle, would you jump in at circle?  You'd be invading a moyo prematuraly.  This is like that, with the order reversed.]
+;W[qd]
+(;B[rd]TR[pc]CR[oc]C[N: The proper move is at triangle.  If white tries to hane at circle, black has a refuation (see my deviation).]
+(;W[re];B[rc];W[qe];B[oc]TR[ob]C[N: you can't do this one space jump here.  You need 6 liberties on your base group, or else you end up with a shortage of liberties.  You should either push once more or slide to triangle (sliding is better, I think).]
+;W[pc]C[N: White shouldn't do this yet.  As soon as the ladder works in the bottom left corner, he can either lock black in to the corner or take the corner.]
+;B[pb];W[od];B[nc];W[nd];B[mc];W[dj];B[qk]C[N: This might be too close to wrhite's wall, because there isn't room for you to make any sort of base, even a small one.  One or two closer to your position might be better.]
+;W[qm];B[ok];W[om];B[op]C[N: I'm not sure you have time to do this.  Now black is on the defensive.  You should have kept on jumping with your two stones.]
+;W[mm];B[mk];W[oi];B[pg]C[N: You're creating a large multigroup battle now, but you're doing it next to white's thickness.  I'm not sure this is a good idea.]
+;W[pi]C[N: White is being overly defensive, which gives you some temp.]
+;B[mi];W[nj];B[nk];W[mj];B[kk]TR[lj]C[N: Don't get fancy.  Even with all the cutting points, this needs to be at triangle.]
+;W[lk];B[ll];W[lj];B[ml];W[mp];B[mq];W[lq]C[i think this is a quite sophisticated move. is my answer correct?]
+;B[lp]TR[nq]C[N: You could also consider pulling back to triangle.  Then there's miai for either connecting underneath or cutting above.]
+;W[nq];B[lr];W[np];B[pr]C[q2? p3?
+
+N: This is probably fine.]
+(;W[oo];B[po]TR[pp][oq][or][qo]C[N: I think you're too thin for this.  Any of the triangles would be worth considering.]
+;W[pn];B[no];W[mo];B[on];W[nn];B[oo];W[qo];B[ro];W[qn];B[oq]
+TR[pl]C[N: Considering poking at triangle first.  Even if white gives you atari and you connect, you should still get sente from this exchange, which protects your cutting point.]
+;W[mr]
+(;B[lq]C[N: consider letting white take.];W[or];B[qq];W[ql]
+;B[rk]TR[pk]C[N: This doesn't protect against the cut, as you found out.  Be sure to read out all the different cut variations when your opponent plays stones near your one point jumps.  Soildily connecting at triangle is probably best, as it leaves white the fewest forcing moves.]
+;W[rn];B[ln];W[mn]
+(;B[rp];W[pk];B[pj];W[pl];B[qj]TR[ni]C[N: The other side threatens the cut at triangle.  This side lets white protect that cut and cut off the stone you _just_ played.]
+;W[oj];B[rf];W[se];B[sh];W[ri];B[si];W[rg];B[md];W[sf]C[N: White didn't need this.  He gives you temp again.]
+;B[mf]C[N: Another good example.  You need to read out the cut variations before you make a one point jump.  Maybe it works and maybe it doesn't, but you should be sure before you play it.]
+;W[me];B[le];W[ne];B[lf]C[N: Were you sure you could handle the cut before playing this?  If not, you shouldn't play with fire.]
+;W[ld]TR[cn][lm]C[based on what happened next, this cut seems premature. what would be a good anwser for w now?
+
+N: As white I'd either approach black's bottom or try and break the contain, so either triangle look good.]
+;B[kd];W[lc];B[kc];W[lb];B[nb]TR[qb][ob]CR[kb]C[N: This doesn't do anything for you.  Consider just connecting solidly at either triangle.  Or sacrifice the corner by playing at circle.  This corner is starting to feel a bit awkward now isn't it?  That's beacuse the  stones in the corner only have 4 liberties.]
+;W[kb];B[jc]C[N: Good.  Let white crawl.];W[jb];B[ic];W[ib]
+;B[hc];W[hb];B[gc];W[gb];B[fc];W[fb];B[je]TR[ec]C[shall i keep pushing at e17, jump to d17 or 3-3, or bane at e18? i feel catch k 16 is pretty big, but seems let w get e17 is not good either?
+
+N Yes, keep pushing.  Whoever gets triangle either secures or destroyes the corner.  If white tries to eat your 3 black stones by cutting, let him.  They aren't doing anything useful anyway.]
+;W[ec];B[fe]TR[cn][lm][lo]C[N: Not necessary. black's stones are in a pretty good position.  Take the opportunity to expand the bottom or finish the contain on the bottom right.]
+;W[fd];B[gd];W[ge];B[ed];W[db];B[de]
+(;W[cd];B[ce]C[can w avoid being shut in here?
+
+N: I don't think so.];W[na];B[ma]C[N: Being greedy here.  There's a LOT of weakness in this corner.  Were you sure you could live when you made this move?  You're in a good spot on the board; there's no need to be playing risky.]
+;W[oa];B[pa];W[mb]C[N: Oops, looks bad for you now.];B[rb];W[ob]
+C[N: You're not done yet.  See the variation]
+(;B[dl]C[Up to this point I feel I have a big lead, as although I only have a few points in top left and bottom left corner, I have more potential with my framework. However the game seems turnsover from the next move]
+;W[ef]C[shall I anwser this peep by connecting or something like c12? if I go c12, then I let w divide me into two, and I am facing a fight; but if I just connect seems I am only following w's plan and let him settle quickly.
+
+N: Solidly connecting is your best bet.];B[ee];W[cg];B[be]TR[lm]
+[lo][kn]C[N: You're going for points, but your contain on the right still needs to be shored up by playing at any of the triangles.  This would have been the perfect opportunity.]
+;W[ck];B[cl];W[he];B[ff];W[hg];B[eg];W[gg]
+(;B[dh];W[ei]TR[fh]C[N: If you play at triangle, you force white to choose which stone to cut off and you can take the other group.]
+;B[ch]C[N: This lets white connect his two weak groups, which is bad, even if you do take his base away.]
+;W[fh];B[dq]TR[fj]C[N: White's group is still weak.  Consider continuing the attack.  At the very least you should get sente.  Triangle is a shape point.]
+;W[gl];B[gn];W[fm];B[en]C[N:];W[lo]C[I think my biggest mistake is let w out at L5, divede me into 2. When and how shall I plug this leak is my main question for this game.
+
+N: This was always something white could do.  You have to be okay with white ruining some points in order to make your top weak group safe.  Or sacrifice the top to make some points.]
+(;B[kn]TR[ko]C[N: You've decided to let white in to your territory in exchange for saving your group.]
+;W[ko];B[jn];W[jo]
+(;B[iq];W[in];B[im];W[hm];B[hn];W[io];B[hl];W[gm];B[jl];W[hk]
+(;B[il];W[km];B[lm];W[ik];B[gk];W[fk];B[gj];W[jj];B[kj];W[ji]
+;B[ki];W[kh];B[ij]C[N: Your pushing at a diagonal joint.  That's not a good idea unless you see the kill in a shortage of liberties.]
+;W[jk];B[jh];W[kl];B[jm];W[kl];B[li];W[ih];B[jg];W[ii]C[i barely lived, but w lived too with some territory
+
+N: Yep, it sucks.];B[hp];W[ip];B[hq]TR[gq]CR[fn][ho]C[N: Triangle protects against white pushing in at circles.]
+;W[jq];B[jr];W[fn];B[fo];W[em];B[ek]TR[dn]C[N: You don't have time for this, you're super short on liberties.  You need to play triangle, which lets you connect your stones and prevent white from doing clever things.]
+(;W[eo];B[dn];W[go];B[fp];W[ho];B[dm];W[gp];B[gq];W[ls];B[ks]
+;W[ms];B[jp];W[fq];B[ep];W[fr];B[gr];W[kp];B[jq];W[ej];B[ng]
+;W[id];B[ie];W[hd];B[bk];W[bj];B[dk]TR[bl]C[N: Atari feels good but this doesn't get you anything.  You need to defend at triangle still.]
+;W[cj];B[bh];W[bl];B[bm];W[bd];B[ad];W[ac];B[ae];W[bc];B[qa]
+C[N: Now you see it :)];W[mh]C[nice move..];B[lh];W[nl];B[km]
+;W[ni];B[lg];W[nh]
+(;B[qg]C[N: Again, you need to check your one point jumps for weaknesses.  This is the third one you've let white cut.]
+;W[og]
+(;B[ph];W[pf];B[of];W[oh];B[nf];W[ig];B[if];W[ak];B[os];W[nr]
+;B[am];W[bi];B[ai];W[aj];B[ah];W[qs];B[ps];W[rr];B[qr];W[so]
+;B[sp];W[pq];B[pp];W[sn];B[rl];W[ss];B[kl];W[ol];B[fl]C[N: You're just giving white a stone here.]
+;W[el];B[fj];W[fl];B[sq];W[ns];B[sr]C[N: This is entirely unnecessary.  White can't kill you, and there's a ko to kill white that you can start whenever you want.  Like at the end of the game when you've removed all the ko threats.  So white is just dead here.]
+;W[al];B[sd];W[is];B[js];W[gs];B[er];W[fg];B[eh];W[fi];B[tt]
+;W[oe];B[tt];W[mg];B[qi];W[rh];B[tt];W[hf];B[kg];W[hr];B[eq]
+;W[tt];B[tt]TW[aa][ba][ca][da][ea][fa][ga][ha][ia][ja][ka][la]
+[ma][ab][bb][cb][eb][nb][cc][dc][mc][nc][oc][md][pe][qf][rf]
+[pg][qg][sg][gh][hh][ph][sh][gi][hi][qi][si][fj][gj][hj][ij]
+[pj][qj][rj][sj][bk][gk][qk][rk][sk][rl][sl][nm][pm][rm][sm]
+[gn][hn]TB[ra][sa][qb][sb][sc][fd][ke][af][bf][cf][df][ef][jf]
+[kf][ag][bg][cg][dg][kh][cm][an][bn][cn][ao][bo][co][do][eo]
+[ap][bp][cp][aq][bq][cq][fq][pq][rq][ar][br][cr][dr][fr][hr]
+[ir][kr][rr][as][bs][cs][ds][es][fs][gs][hs][is][qs][rs][ss]
+C[tom111 [7k\]: ty
+kotatuneko [6k\]: thx
+
+
+yeah, mainly the drastic down trun in the latter part of the game got me a little confusing. Thank you for your time!]
+)
+(;B[of];W[oh];B[nf]C[N: This still works.]))
+(;B[og]C[i should definitely go here I guess...]))
+(;B[dn];W[dm];B[cn];W[cm];B[bm];W[bl];B[bk];W[bn];B[al];W[go]
+;B[ho];W[eo];B[fp];W[co];B[do];W[bp];B[ej];W[fj];B[fl]C[N:]
+;W[el];B[fl]C[N: Maybe something like this is possible.]))
+(;B[km];W[il];B[ik];W[jm]C[i dont think I can win the ko]))
+(;B[in];W[jq];B[jr];W[iq]))
+(;B[ko];W[kn]
+(;B[lm];W[km];B[kl];W[jo];B[kp];W[jp])
+(;B[jn];W[km];B[jm];W[kl];B[jl];W[lm];B[ng];W[jh]C[maybe this is an simple anwser, but my lead shrink to something within reach. I kinda feel I shall do this and give up the 5 stone just to be safe.]
+)))
+(;B[ch]C[maybe a more severe move here is playable?];W[dg];B[dh]
+;W[eh];B[fg];W[ci];B[bh]))
+(;W[ra]C[N: White can kill this whole corner if you let him.]
+;B[qb];W[sb];B[sd]C[N: Bent 4 in the corner.  Black is dead.]
+))
+(;W[ce];B[cd]
+(;W[df])
+(;W[dc];B[cf];W[be];B[bf])))
+(;B[pk];W[rp];B[rq];W[so];B[rl];W[pl];B[ol]
+(;W[nm])
+(;W[lo];B[ko];W[lm];B[km];W[kn];B[jn]C[seems this sequence can actually kill w?]
+)))
+(;B[nr];W[lq];B[ms];W[mq];B[kp];W[kr];B[ls];W[ks];B[ns];W[jr]
+C[N: doesn't work out well for white, does it?]))
+(;W[oq];B[pq];W[oo];B[pp];W[po];B[rn]))
+(;W[pc]C[I should probably exchange q17 for q16 first, this bane on the head is kinda uncomfortable]
+))
+(;B[pc];W[oc];B[rc];W[rd];B[od];W[oe];B[nd];W[nc];B[pe];W[ne]
+;B[md];W[rf];B[re];W[se];B[qe];W[sd];B[sc];W[sf];B[rg]C[N: no matter what white tries black should be able to capture something or get a large corner.]
+))
+(;W[nd];B[pi]))

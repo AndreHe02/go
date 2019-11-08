@@ -1,0 +1,222 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.13b]
+
+PB[Scott Thompson]
+HA[9]
+PW[GNU Go]
+WR[13k]
+KM[0]
+DT[2002-09-28]
+RE[B+88.00]
+RU[Japanese]
+US[Scott Thompson]
+
+AB[dd][jd][pd][dj][jj][pj][dp][jp][pp]C[<tomjk> Hi, my comments will be peceeded by the name I use on IGS and KGS (tomjk). I hope my comments will be useful.
+
+This is my first time using the Go Teaching Ladder.
+
+I'm a rank beginner whose read too many books and not played enough games :-).  The game for review is a high handicap game against Gnu Go...  I apologize if this is not the most interesting game to review.
+
+The guidelines said not to send in games that you "easily won"... Though I won by a healthy margin, I suspect that was more because of the simplicity of Gnu Go than any real skill on my part.  I didn't consider it "easy" by any means. :-)
+
+I commented the game as I went along, then went back and added some more comments afterward.
+
+Could you please critique my strategy and logic (commented or otherwise) and offer suggestions for improvement where I missed plays that were more important than the ones I made?
+
+I appreciate your expertise and help!];W[cn]
+(;B[dm]LB[co:A]TR[dj][dp]C[Gnu Go likes to start in each of the corners one by one.  The series of moves I played are aimed at attacking those stones as soon as they are placed.
+
+<tomjk> The approach at the 6-3 point is one of the standard approaches to the 4-4 stone.
+<tomjk> The "strongest" response with the D10 stone in place for black is at "A" which presses White in between the marked stones. See variation.]
+;W[pm];B[qn]C[<tomjk> good];W[dg];B[ef];W[ci];B[cj]TR[cn]C[<tomjk> good, keeps the white marked stone separated from the other two white stones.]
+;W[md];B[le];W[gp];B[fo]C[<tomjk> the last two black moves a played towards the center. They don't look very efficient to me. Remember that it would be more efficient for Black in a 9 handicap game to play on the 3rd line and rob white of his base and chase him towards the center where the black stone waits. If white settles on the sides, Black can not expect to get much territory in the center.]
+;W[bp];B[cq];W[gd];B[jc]C[<tomjk> good, keeps the white stones separated.]
+;W[oc];B[pc];W[nm]LB[cf:A][of:C][bq:B]C[<tomjk> gnu go plays very strange. Leaves all his groups unfinished on the board. Also plays now a move which Black does not need to respond locally. Black should now attack at "A", "B"or "C".]
+;B[np];W[nk];B[nj];W[kl];B[jm]LB[of:A]TR[pc][pd][nj][pj]C[I couldn't decide how to attack this "horse face" formation.  In the end I opted to contain the stones so I used a rather non-agressive shoulder hit.  Could/Should I have been more agressive and if so... how?
+
+<tomjk> I think best is to leave this white group for the time being and attack the other white groups which are much weaker than this group. the best move seems now "A". Bulds a nice framework with the marked stones and if white does not reply his stones on the top are likely to die.]
+;W[kj]C[After the shoulder hit, white begins a bunch of running moves.  I chose to cap at every opportunity, but this also seems a bit too defensive somehow.]
+;B[ki];W[jk];B[ij];W[lj];B[li];W[bq];B[br];W[cm];B[dn];W[cp]
+;B[dr];W[aq];B[co];W[bo];B[bn]C[I played a stone to capture before thinking it through.  Luckily I realized it was a stupid thing to do (on many levels) before I carried it too far]
+;W[bm];B[do]LB[of:A]C[I really, really thought hard about this connection for a while.  On one hand it seemed very defensive and after the mistake I made, I felt I had the opportunity to play elsewhere.  At the same time, I didn't want to leave a hole for white to connect through to G4.  Looking at it now, I think I might have been better off playing somewhere else (perhaps around M6)?
+
+<tomjk> It's not urgent to connect here, but is a good move (considering the 9 stone handicap) as black gets a rock solid wall and lots of prospective territory left of it. The lone white stone should have a hard time to survive there now. If you want to play elsewhere a good move would be "A" now. M6 also looks good.]
+;W[il];B[hm];W[iq];B[jq]
+(;W[me];B[mf]LB[of:A]C[Here I was trying to protect the hole at N11.  Is there, perhaps, a more effective play that I could have made?
+
+<tomjk> there is no cut at N11 right now. The ladder works for Black, see variation. Maybe better to play at P14 "A" instead and make territory on the right side.]
+;W[od];B[oe];W[pb];B[qb];W[qk]C[The fact that I didn't connect at R17 gave me the willies.  I guess this is the lingering "potential" I've read about?
+
+<tomjk> indeed, there are a lot of cuts in the black line now. Maybe you should have played P15 at Q15 instead.]
+;B[qj];W[qm];B[rm]C[Which would be better S7 (as Played) or Q6.  I couldn't decide so I experimented.
+
+<tomjk> experimenting is very good :) it's the best way to improve :)
+S6 looks better to me. White does not get a free move at S10.]
+;W[rl];B[rn];W[rj];B[ri];W[ie]C[I was tired of playing follow the leader so I decide to try for a forcing move.]
+;B[ob];W[nb]C[OK... white didn't inore me.  Forcing move accomplished... now what?
+
+<tomjk> of course white responds --- now black takes the white stone :)]
+;B[pa];W[qq]TR[qn][rn][pp]C[Crumb.   White invaded the corner.  At this point I'm gonna try to let white have the corner while keeping him from connecting to the group on the middle left side.
+
+ <tomjk> I suggest to play human opponents on KGS or IGS. This Gnu Go seems to play random go.... white should have not responded on the top if he does not continue now to try to live there ...
+<tomjk> I would think that this white invasion is dead because of the marked black stones. White can't connect there. See variation.]
+
+(;B[qp]LB[pq:A]C[<tomjk> better block at "A" - see variations.]
+;W[rp]
+(;B[pn]LB[pq:A]C[<tomjk> still better to block at "A", see variation.]
+;W[pq];B[oq];W[hl]C[<tomjk> again white seems to make random moves.]
+;B[im];W[mo]TR[dd][ef][cj][dj]C[AAARGH!!! white just leaks out everywhere.
+
+<tomjk> Look at it this way: White just moves through "no mans land". Black makes nice territory on the bottom.
+<tomjk> Black must be caredul about his marked stones in the near future..]
+;B[lm]TR[rm][pn][qn][rn][np][pp][qp][oq]C[Should this have been lower (to help bring O4 out of the corner?
+
+<tomjk> P2 looks like the proper move to kill off the lower right corner. This also makes the marked black stones secure. Blacks move is threatening to cut next at "A", so white will likely respond at O5 (which hurts the marked black stones. So it is better to play P2.]
+;W[no]C[<tomjk> as expected ...];B[mp]C[<tomjk> good. Black keeps his stones connected. Now White must make life with his center group ...]
+;W[mj];B[mi]C[<tomjk> good.];W[ll]C[OK... Now GnuGo is playing the eye-making game.  Sometimes it's disappointing playing against the computer.
+
+<tomjk> also a human would play like this in this situation. If you don't make eyes your group will die ;-)]
+;B[lo]LB[lc:A][cf:B][or:C]C[<tomjk> "A", "B" or "C" looks bigger. Each of these moves threatens to kill a white group.]
+;W[bg]C[Whoops... This makes me realize the tenuous position of D16
+
+<tomjk> yes :)];B[eg]C[<tomjk> good.];W[ig]C[It strikes me that white is shooting to the center from a weak group with no base.  I'm going to try to cut off the possibility of making a base
+
+<tomjk> very good thinking :)];B[gc];W[fc];B[fb];W[hh]LB[gj:A]
+C[The cut at K11 is starting to worry me more and more.
+
+<tomjk> in fact, now the cut is possible. Now a move at "A" looks good.]
+;B[jh];W[ed]C[Looks like Gnu go is trying to make eyes again... seems like a weak group.  Could be trying to make a base by aiming for the corner as well?]
+;B[ec];W[fd]C[Why is this space so important for white?
+
+<tomjk> White must try to live and can't give the white stone to Black here.]
+;B[db]LB[cc:A]C[I've had a lot of trouble with three stones connected in a diagonal line so I like the double tiger's mouth thingy.
+
+<tomjk> the disadvantage is, that white can later play at "A" now. See variation. I think protecting at D17 was better.]
+
+(;W[gf];B[gj];W[hf];B[jf];W[hd];B[hc];W[ce]C[<tomjk> not the best move for white here.]
+;B[cd];W[pr];B[or];W[rr]C[<tomjk> a success for white.];B[mc]
+C[This stone was supposed to keep white from finding it easy to create an eye over here.  GnuGo seems to have forgotten about this white group anyway as it doesn't do much with it for the rest of the game.  I suspect a real oppoonent would be all over the rich real-estate on the upper right side.
+
+<tomjk> Actually it would need some errors by Black to get this white group back to life. So I think Gnu-Go is correct to assume that this white group is dead.]
+;W[gl];B[gm]C[More follow the leader.  I'm trhing to keep this tendril of white from connecting to anything as well as keeping a narrow corridor that is not friendly to eye formation.
+
+<tomjk> A good move by Black. Black gets huge territory on the bottom and white gains nothing. Also Black has a huge lead in the game. Black can now afford to play very conservative protecting and connecting his groups.]
+;W[si];B[sh];W[df]LB[ei:A]C[Those two black stones (E14 and E13) are looking pretty isolated and lonely :-(
+
+<tomjk> then connect them with a move at "A". :)];B[sj]C[<tomjk> no need to throw away the two marked black stones. But by capturing this white stone and the next white stone black does not loose much.]
+;W[eh];B[cl]C[At this point I realized that the white wall at B and C 7 had been there for a while.  Since the lower left white group was alive I wanted to keep it from connecting to the upper group on that side.
+
+<tomjk> makes not much sense to try to separate two living groups. Here white will though respond in order to make some territory on the let side.]
+;W[bl];B[cf]TR[ce]C[I don't remember what this stone was for.
+
+<tomjk> it looks as if black thought he could capture the marked white stone (which is not possible).]
+;W[be];B[bd]C[<tomjk> good];W[bk];B[bj]C[<tomjk> good.];W[de]
+;B[fh]C[OK... those E13, E14 stones are really looking lonely so I start trying (vainly) to connect them to something
+
+<tomjk< too late now. But is still a good move to reduce white's territory.]
+;W[fl]LB[ej:B][dl:A]C[<tomjk> I do't understand this move. Perhaps white is aiming to cut at "A" and then "B"?]
+
+(;B[fj]LB[ei:A]C[<tomjk> could have been at "A". See variation.]
+;W[ei]C[Crumb... white's peeping at two holes... which to fill...
+
+<tomjk> White played the "vital" point where black should have played before :) No need to worry about the cut at "A".]
+;B[ej];W[fi];B[gi];W[gh]C[<tomjk> this is a good result for white.]
+;B[dl]LB[fm:A][km:B][ps:C]C[<tomjk> no need to connect here. A play at "A", "B" or "C" looks bigger now.]
+;W[di];B[fm]C[<tomjk> good!];W[rk];B[ok];W[ol];B[oi]C[This seemed like a good way to protect a lot of cutting points at once.
+
+<tomjk> yes it does.];W[ad];B[ac];W[ae];B[bb];W[os];B[ns];W[ps]
+;B[mr];W[pk];B[oj];W[km];B[kn];W[ar];B[bs];W[mn];B[oo]LB[ln:A]
+TR[lm]C[The set of Black stones on the far lower left wasnt' conneced to anything... this stone was supposed to help that problem
+
+<tomjk> the stones were connected. anyway. The move is good nonetheless as it gains 2 points for black. Now white will play at "A" and capture the marked black stone and gain back 2 points.]
+;W[ln]C[Whoops!  looks like I let white fill both my tiger mouths!
+
+<tomjk> as to be expected ;-)];B[jo]LB[ko:A][lp:B]C[Old tiger... new mouths.  Also should keep the two white stones from leaking out... I hope.
+
+<tomjk> this works here in this position. But sometimes the protection at "A" is better. This leaves a move for white at "B" which in some case can be used (in any case as ko threat - try to eliminate ko threats where possible).
+<tomjk> the two white stones are dead since a long time. Though a slightly stronger player than GnuGo might have used much earlier in the game to great effect ;-)]
+;W[jg];B[kg];W[ro];B[qo]LB[op:A]C[This turned the stones on th eleft into an eye, but that eye is still not connected to the big space on the bottom
+
+<tomjk> is in fact connected through "A".];W[on]
+(;B[op]C[I was worried that white was getting ready to take this point so I took it myself.
+
+<tomjk> will never be able to play there, because of the eye black made at "A". See variation.]
+;W[el];B[em];W[bi]C[At this point, it would seem that white is connected underneath at A10 and there's not much for me to do about it either way.  Is that the case?
+
+<tomjk> no, it is not the case. Black can now play at "A", "B" or "C" to prevent white from connecting. "A" and "B" are "gote" for black (means black looses the initiative), "C" is "sente" for black (means black keeps the initiative) if white responds locally.]
+
+(;B[je];W[aj]TR[ah][ai][ak]C[<tomjk> This move is worth 3 points for white (marked points). See also variation from move 161.]
+;B[id]C[Going here seemed to be one more point of territory than J17.
+
+<tomjk> yes correct.];W[if];B[ih]TR[ck][dk]C[Still connecting the long black spike in the center left.
+
+<tomjk> already connected through the marked points. But this moves gives another point of territory for Black.]
+;W[hi]LB[ii:A]TR[ck][dk]C[<tomjk> Black must now play at "A" to gain one point of territory. Black is connected through the marked points.]
+;B[hj];W[ii];B[ji];W[jl];B[sk]LB[sl:A]TR[si][sm]C[Experiment to see how far I could drive a spike toward the group on the bottom
+
+<tomjk> white will play at "A" to deny Black two points of territory at the marked points.]
+;W[sn]C[<tomjk> strange move...];B[sm];W[so]LB[sl:A]C[<tomjk> now white can play at "A" and gain 1 point of territory.]
+;B[mm]C[OK.. I was trying to attack the four stones underneath this one without playing the attack out in my mind.]
+;W[nn];B[nl];W[ml]C[And that's what I get.  Bad me... Bad me...
+
+<tomjk> go is a thinking game, remember :)];B[fg]C[Not realizing those stones were dead, I try to connect the black spike to the top group.
+
+<tomjk> happens also to me some times.];W[ck]C[White starts testing my connections.
+
+<tomjk> No need to repspond. The black stones are already connected.
+<tomjk> Anyway the game is over. Only "dame" (which means "neutral points" are to be played.
+
+<tomjk> I don't know how much experience you have with the game of go, but it is evident that you are much stronger than the suggested 24k (9 handicap with 13k GnuGo). If you just started, you sure have a lot of talent for playing go.
+<tomjk> Try to play humans to avoid developing "bad habits" by playing computers. I find computers only useful to play in life and death problems in localized positions. There the computer is likely to play the strongest move and something can be learned.
+<tomjk> I wish you all the best for your future development and I hope my comments are of some use.]
+;B[dk];W[sl];B[si];W[as];B[cr];W[am]C[I don't know why the computer felt it necessary to pick up this point.  Four or more in a row on the edge are alive are they not?]
+;B[ee]C[Still connecting to the dead...];W[hk];B[ik];W[ek];B[fk]
+;W[gk];B[og]C[This stone went here in case Gnu Go decided to try and invade the side.  It was misplaced as Gnu Go is too simplistic to realize there's wide open spaces over there.]
+;W[tt];B[tt]C[The end.];W[tt])
+(;B[ai]CR[ai];W[ah]CR[ah];B[aj]CR[aj];W[ak]TR[ah][ai][ak]C[<tomjk> white has 0 points (below marked stones).]
+))
+(;B[sn]CR[sn];W[sl]CR[sl];B[so]CR[so];W[sp]CR[sp];B[sm]LB[po:B]
+[op:A]CR[sm]C[<tomjk> we assume this side is played out like this. Now think about it: can white play at "A" or "B"?]
+))
+(;B[ei]CR[ei];W[gi]CR[gi];B[fj]CR[fj];W[hj]CR[hj];B[hk]CR[hk]
+;W[hi]CR[hi];B[ik]CR[ik];W[jl]CR[jl];B[dl]CR[dl]C[<tomjk> white must now connect to live.]
+
+(;W[fi]CR[fi];B[dh]CR[dh])
+(;W[ee]CR[ee];B[dh]CR[dh];W[ch]CR[ch])))
+(;W[cc]CR[cc]
+(;B[cd]CR[cd]
+(;W[dc]CR[dc];B[eb]CR[eb])
+(;W[bd]CR[bd]
+(;B[bc]CR[bc];W[bb]CR[bb];B[be]CR[be];W[ac]CR[ac]
+(;B[cf]CR[cf]
+(;W[cb]CR[cb])
+(;W[dc]CR[dc];B[eb]CR[eb]
+(;W[cb]CR[cb])
+(;W[de]CR[de];B[ce]CR[ce];W[df]CR[df];B[cb]CR[cb];W[bc]CR[bc]
+;B[ba]CR[ba];W[cg]CR[cg]C[<tomjk> Black looses ...];B[af]CR[af]
+)))
+(;B[dc]CR[dc];W[ce]CR[ce];B[de]CR[de];W[cf]CR[cf]C[<tomjk> good result for white.]
+))
+(;B[dc]CR[dc];W[bc]CR[bc]C[<tomjk> good result for white.])))
+(;B[dc]CR[dc];W[bd]CR[bd]C[<tomjk> good for white.])))
+(;B[pq]CR[pq];W[rr]CR[rr];B[qr]CR[qr];W[rq]CR[rq];B[pr]CR[pr]
+;W[rs]CR[rs];B[so]CR[so]C[<tomjk> white is dead.];W[sp]CR[sp]
+;B[sr]CR[sr];W[ro]CR[ro];B[qo]CR[qo];W[sn]CR[sn];B[sm]CR[sm]
+))
+(;B[pq]CR[pq]
+(;W[qp]CR[qp];B[qr]CR[qr]
+(;W[qo]CR[qo];B[po]CR[po];W[pn]CR[pn];B[ro]CR[ro]C[<tomjk> white can't connect his stones to the middle group.]
+)
+(;W[po]CR[po];B[qo]CR[qo]C[<tomjk> where can white connect here?]
+))
+(;W[pr]CR[pr];B[or]CR[or];W[qr]CR[qr];B[nq]CR[nq];W[ro]CR[ro]
+;B[rp]CR[rp]
+(;W[qp]CR[qp];B[rq]CR[rq]C[<tomjk> dead])
+(;W[rq]CR[rq];B[qp]CR[qp];W[sr]CR[sr];B[rs]CR[rs]C[<tomjk> dead as dead can be ...]
+))))
+(;W[ji]CR[ji]C[<tomjk> if white cuts here ...];B[jh]CR[jh];W[ii]
+CR[ii];B[hi]CR[hi];W[ih]CR[ih];B[ig]CR[ig];W[hh]CR[hh];B[gh]
+CR[gh];W[hg]CR[hg];B[hf]CR[hf];W[gg]CR[gg];B[fg]CR[fg];W[gf]
+CR[gf];B[ge]CR[ge];W[ff]CR[ff];B[fe]CR[fe]C[<tomjk> ... black captures white in a ladder.]
+))
+(;B[co]CR[co];W[dn]CR[dn];B[fp]CR[fp];W[ck]CR[ck]C[<tomjk> White gets a cramped form (too many stones in a given place) and also white is heavily under attack. Black can now continue to attack or play elsewhere a big move.]
+))

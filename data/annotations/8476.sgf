@@ -1,0 +1,95 @@
+(;FF[4]GM[1]SZ[19]ST[0]AP[SGFC:1.17]VW[]
+
+GN[beco-jirasuonna-656625-20110804]
+PB[jirasuonna (jirasuonna)]
+BR[23k]
+HA[3]
+PW[beco (beco)]
+WR[27k]
+KM[-6]
+DT[2011-06-10,2011-08-04]
+PC[Dragon Go Server: http://www.dragongoserver.net/]
+RE[B+7]
+OT[Fischer time: 10 days with 1 day extra per move]
+RU[Japanese]
+AN[steve@carderfamily.net]
+GC[Game ID: 656625, rated]
+
+AB[pp][dp][pd]PL[W];W[dd];B[nc];W[jc]TR[cn][fq][nq][qn]SQ[nc]
+C[This isn't a great opening move at this point.  A good rule of thumb for the opening is to look for the biggest gap between stones and play somewhere in it.  Currently, both sides and the bottom all have the same size gap between stones and all are larger than the top, due to the marked black stone at O17.  So, this move ought to go anywhere but on the top.  A good idea would be to approach one of black's lower corners since there is only one stone in each.  The marked spots are all reasonable choices.]
+;B[qh];W[di]C[This is also rather small for this point in the opening.  Notice how black has stones in 3 corners and white has stones in only one corner.  This isn't a great start for white even when giving a handicap.]
+;B[cl];W[jj]TR[jq][nq]C[It is very hard to make territory in the center so you should focus on corners and sides early in the game.  I think that O3 is a good choice since that corner has the least stones near it.  K3 is also reasonable.]
+;B[jm];W[qq]TR[nq]C[A 3x3 point invasion normally gets you a few points in the corner in exchange for your opponent getting a large wall.  Black already has a strong position in the lower and right sides.  Adding a wall would make black even stronger there and should give black more than enough points to make up for the loss of the corner.
+
+All of that means that I think O3 is still a better move at this point.]
+;B[pq];W[qp];B[qo];W[ro];B[rn]C[Black makes an error];W[qn]
+C[White does a good job of taking advantage of black's error.]
+;B[po];W[rm];B[rp];W[sn];B[qr];W[rq];B[pr];W[rr];B[pn];W[rs]
+TR[iq][fq]C[This is an end game move and should be saved until much later in the game.  White doesn't need this move to live in the corner and it is only worth about 2 points.
+
+F3 and J3 are better choices.];B[qs];W[pm];B[om];W[ol]TR[pl]
+[fq][iq]C[This should be at Q8.
+
+White could also play around F3 or J3 now.  Playing closer to black's wall is dangerous.]
+;B[pl];W[qm];B[ql];W[rl]C[This move isn't worth much.  White is secure in the lower right corner and should move to the lower side now.]
+;B[rk];W[pk];B[qk];W[nm];B[on];W[nk];B[pj];W[ok];B[pi];W[sk]
+;B[sj];W[sl];B[ri]TR[qj][sh]SQ[rl]C[White doesn't have any more points of territory now than at move 33 (the marked stone).  So, white has played 6 stones and not gotten any territory to show for it.  Black, meanwhile, has 3 points of territory around R10 and probably another 3 around T12.]
+;W[cq]TR[fq][iq]C[This should give black a second wall facing the lower side and secure a large amount of territory for black, from the 7th line down.  Meanwhile, white will get a small handful of points in the corner.  This is not a good trade off for white.
+
+F3 and J3 are still better moves.];B[dq];W[cp];B[co];W[bo];B[cn]
+C[Black doesn't make the same error again.];W[bn];B[bm];W[dr]
+;B[er];W[cr];B[fq]SQ[nm]C[Now, black should have the lower side other than what white can reduce starting from the stone O7.]
+;W[ng]TR[mo][ln]C[Reducing black's lower side is a priority now.  I think that either small knight's move from O7 would be a good start.]
+;B[qf];W[lq]C[This is a risky, deep invasion.  Since white is giving a handicap, white should be better at making life than black is at killing, so this could work.  In an even game, this invastion would most likely fail.]
+;B[nq]TR[mo][jq]C[Black should respond at one of the triangles.]
+;W[jq]TR[iq]C[This is a small extension and doesn't do much to make eye space. J3 is better.]
+;B[mo]SQ[nm]C[This blocks white from escaping out to the stones at O7.  This means that white should focus on making 2 eyes along the side.]
+;W[mr]TR[hq][hr]C[Expanding white's base for more potential eye space is better. Either H2 or H3 would be good.]
+;B[nr];W[hq]C[Good.];B[go];W[gl]TR[gr]C[If you are confident that your lower side invasion is alive, then this is a reasonable reduction move.
+
+If you are not confident that your lower side stones are alive then you should keep playing there until they are clearly alive or clearly dead.
+
+I am not convinced that the white stones on the bottom are alive. I think that G2 would be good here]
+;B[ni];W[mi]TR[nk][nm][ol][ok][pk]SQ[lk][lh]C[Black is trying to push into the center and/or cut off the 5 white stones around P8.
+
+M12 does a better job of keeping black out of the center and M9 does a better job of connecting the 5 stones around P8 into the center.
+
+In general, when blocking or surrounding it is better to play 1 or two spaces away from your opponent's stones rather than in contact with them.]
+;B[mj];W[mk];B[mh];W[li];B[mg];W[lj];B[nj];W[ll];B[nn];W[lo]
+C[Trying to connect out to the center is a good idea, and this move is a good start towards that.]
+;B[mm];W[lm]SQ[nm]C[Good.  White sacrifices 1 stone to connect the bottom side group out to the center.  This is a good exchange for white.]
+;B[nl];W[ml]TR[ln]C[This doesn't accomplish much.
+
+Black could still cut white off by playing at M6, so white should play there first.
+
+See the variation starting next move.]
+(;B[nm]C[See Variation];W[ln]C[White's lower side invasion is now connected out into the center.]
+;B[mp];W[lp];B[ms];W[ls];B[ns];W[jn]TR[cc][ci][jg][ek]C[White has a large amount of potential territory in the top left but it isn't secure yet.  White should now focus on securing the upper left territory.  The marked spots are all good choices but K13 and D11 are the most important.]
+;B[im];W[in];B[hn]
+(;W[ho]TR[hm]SQ[jm][im]C[H7 would cut off and kill the two marked black stones.
+
+See Variation];B[gm];W[il];B[fl];W[hl];B[hm];W[lf];B[mf];W[lc]
+;B[md];W[ld];B[mb];W[lb];B[qc];W[bj];B[cc];W[dc];B[cd];W[ce]
+;B[be];W[bf]C[This is the same error black made in the lower right corner. Don't repeat your opponent's errors.]
+;B[cf];W[de];B[bg];W[bh];B[cg];W[dh];B[ch];W[ci];B[ah];W[bi]
+;B[af];W[ai]TR[df][dg]C[Closing the gap at D14-D15 is more important than this move.]
+;B[ag];W[df];B[bd];W[cb];B[bb];W[ca];B[ba];W[db];B[fj];W[gi]
+;B[gg]C[White should be able to kill this invasion.];W[fh];B[hg]
+;W[ig]TR[lg]C[It will be nearly impossible for black to make 2 eyes in this area while surrounded by white stones.  So, black needs to escape. A better move here is to cut off black's escape at M13.]
+;B[if];W[je];B[ie];W[he];B[jg];W[ih];B[hf];W[ge];B[lg];W[jf]
+SQ[gg][hg][hf][if][ie]C[Good, this cuts off 5 black stones.  They should be dead now.]
+;B[kf];W[le];B[me];W[jh];B[kg];W[id]TR[ke][gj]C[You don't need to do this now.  The five black stones are already dead.  L15 and G10 are both worth more.]
+;B[ke];W[jd];B[kd];W[kc];B[la];W[ka];B[ma];W[fg]TR[dg][gj]C[Again, the 5 black stones are dead.  G10 is still a better move. If you really want to play in this area, then D13 is better than the current move.]
+;B[ej];W[dj];B[dk];W[dg]TR[gj]C[This is worth only 1 point.  Playing at G10 secures territory around J10 so is worth more.]
+;B[gq];W[gp];B[fp];W[hp];B[eo];W[km];B[hr];W[ir];B[hs];W[is]
+;B[gr];W[es];B[fs];W[ds];B[an];W[ao];B[am];W[bp];B[jl];W[jk]
+;B[gk];W[hk];B[gj];W[hj];B[ck];W[kh];B[nh];W[oj];B[oi];W[bk]
+;B[bl];W[ak];B[ei];W[eh];B[mq];W[lr];B[kl];W[kk];B[fm];W[gf]
+C[Those 5 stones are already dead so this isn't necessary.]
+;B[mc];W[fi]C[The final score, with the -6 komi, is very close with black winning. White's error in dealing with black's upper left corner invasion at move 117 was probably worth enough to tip the balance, if you like trying to pin-point a so called "losing move".]
+)
+(;W[hm];B[gm];W[hl]SQ[im][jm]C[The two black stones are dead.]
+))
+(;B[ln]C[Black cuts.];W[kn];B[mn];W[km]C[White could also play this stone at L5, but then black would play L7 and still cut white off.]
+;B[ko];W[lp];B[jo]C[The white stones on the bottom are cut off from the center and will need to make 2 eyes to live.  The black stones around P5 also need to make 2 eyes, but they have plenty of space to do so.]
+))

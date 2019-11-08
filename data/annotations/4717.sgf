@@ -1,0 +1,254 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+PB[postneo]
+BR[13k]
+PW[schokonick]
+WR[15k]
+KM[0.5]
+DT[2005-11-01]
+PC[The Kiseido Go Server (KGS) at http://kgs.kiseido.com/]
+RE[W+5.50]
+TM[600]
+OT[25/600 Canadian]
+RU[AGA]
+
+C[This is a game played against "GNU Go version 3.6", which I won close with just 5.5 moku.
+I am white, 0.5 komi.
+
+I'm especially interessted in the opening and the middle game, how to place the stones so that they work good together. When to invade, when to make territory, when to take gote so save a group, when to ignore a move to take sente and attack.
+In other word, at any time, which was the biggest move :-)
+
+Thank you,
+
+Markus];B[pd]C[First of all I'll have to inform you that my english spelling isn't what it should be. 
+Secondly some of my comments are hard, some harder then they need to be but I don't want you to follow them as a law. Rather use them as guidelines.  The hardest comments are based on the danger I see with your moves, that doesn't necessarily mean an opponent at your lvl would know have to use them. Implementing my exampels move by move into your game might not be a vise move, because you might defend against an attack that never comes regardless of if you defend or not and then it's an "lost" move that could be better spent elsewhere.
+3:rd I've only looked for the most natural play I could find, I haven't readout every possibility so it might be some unforseen alt. ways of play that one would find if one spend hours and hours reading out the problems. In exampels about move 72 and 120 there a big possibility of missreading. I've rather like that you take the ide of the move and implementing into you game, then pointing out that it does work or not.
+
+
+
+
+I'll give you a small list of books that will help you improve your opening, when to attack, gote&sente.
+
+Books:
+1: In the beginning. Opening thery meda easy.(both coverabout the same part of the game. I've only read in the beginning.)
+2: Attack and defence. Life and death.(these 2 together with somewhat confusing Crosscut workshop, will amke you a feard fighter)
+3: 38 basic josekis or Essential Joseki. (these will explain the importans of choseing the right joseki. They will perhaps not cover how josekis work together.)The books "Dictionary of basic Joseki 1-3" by Ishida should be used in cases when one think "what the F*** went wrong in this joseki" but never the less they should be in every clubs libary, or even better in your own libary. Personally I think they cover every meaningful joseki there is...
+4: any knid of problembook will do.(solving problems will improve your reading ability.)
+5 :Sabaki.(how to handle weak stones)The smallest book I have ever seen about go(think it was 7x10 cm or so)But overpacked with knowledge. The drawback is that is expects you to be darn good at reading... I think it aims at 3-4 dan and up players.
+
+If you read, learned and understud these 5 books I would say that in a game between you and me I think the odds would be 60/40 in your favor, I've still have to finnish the Essential joseki book.
+
+I know recomending books make me look like I don't want to help you and just to take the easy way out. I only hope my comments proves othervise :)
+And also if I wrote down every uns of info these books can give you it would take up to a year and your game would be so megapacked with comments you problably wouldn't bother reading it...
+
+
+
+About GnuGO, you should not play to much against it because you might pick up some bad habbits as attacking from the wrong side or getting away with moves that IRL-player would kick your but for(repetedly...). As long as you are avare of these dangers have fun playing GnuGO.
+My experience with GnuGO is based on earlier version, the later versions might have redused the dangers but I don't think they eliminated them.]
+;W[pp];B[dd];W[dp];B[qn];W[nq];B[pj];W[qf]TR[kc][nc][dg][dj]
+[hp][ip][jp]SQ[di]C[R14 is a big fightermove. You telling B that he will only get small groups where ever he trys to live.
+Some other big moyo-moves here are  D10,H-K4, or the somewhat counterprodutive D13(as in if B counterattacks at D11)Even O17 is good moyo move, but it helps B to get his edge.
+
+If you're a fighter you should read my tip, if not skipp it.
+
+So you like to fight?? ok, I recomend you to download a client for the Dash-server. 
+http://english.dashn.com/english/
+
+It's an korean server and they sure know how to fight. As an stronger player told me, japanese play by solid strong form, chinese by fast lose moves and the korean just play anythings that goes...
+Be warned though, you might pick up some bad habbits against the worst(as in slafsihafsi-game style=ignore any kind of form and reasonal play and rather do the opposit) of the korean fighters, I did... Took me 6 months to get rid of them...]
+
+(;B[qe]C[If you start this sequence you better finish it...
+You could make a run for it down and under Q10 while W push down from the 4:th line but giving B that kind chinese superwall is no,... I'am not even gonna bother with that.... or to put it short : GAME OVER.]
+
+(;W[qi]C[If there ever was a move that I would like to have undone it's this one, sorry for beeing so hard but it's just to erly for it now. This gives B an weak groups to attack and if B makes a kill you have to give up more or less. When you have to start running at move 10 in the game you know you done someting wrong....]
+
+(;B[qj]
+(;W[nc]C[better first save the right side stones?
+
+You should have done that 3 moves ago...now we just have to hope you'll make it anyway.]
+;B[rp]
+(;W[qq];B[pf];W[pg];B[qg];W[qh];B[rf];W[oh]C[Well you got it out but the cost was like going to moon or something...As I see it, this group will crippel your play for the rest of the game. With the result in hand the group became 100% safe wery late in the game forceing you to spend alot of move defending it, moves that could have been used to attack and make life painfull for B.]
+;B[cn]
+(;W[fq];B[bp];W[cq];B[ck];W[jp]C[Slow but good for territory :)
+
+I just might play it if I gave handcap.
+
+An ivasion to the top left corner instead of K4 might be the right attack, extending the O17 with L17 might also be a good base to attack from.
+Personally I would attack at F17, just to see what happens.]
+;B[ne]
+(;W[pb];B[ni];W[nh]TR[jq]SQ[en][on]C[The E6 and P6 together with K3 for W would make B consider giving up. Even if that right side W groups dies, B is so far behind it scary... ;-)
+If W get all 3 it's close to 100 points.
+And I've found in games with few or no casulties 65-70 point the "break even" point. If you got more the 80 usally np, but count just in case.]
+
+(;B[on];W[mh]C[Here I think I was lucky ... black's alternate move and my stones are gone
+
+Perhaps not gone, but you'll have to make one hell of a fight to save them... I'v read a little and found that wioth some hard fighting you can break out if you lucky. Won't go in to more detail but it involves killing L12 or cuting true some how. To put it short, if this was an 1 hour game I'd spend 35-45 min on fighting my way out. Not because I just wanna get out that would problably be solved in 10-15 min but to getout and not giving B alot of influence toward the upper left corner.
+
+Right now B is leading and your in troubble. You got a weak (no eyeshape) group to the right and you upper group will live but most likly in gote. The good news though is that B left edge is extraordinary weak, so there is no need to panic.]
+;B[le];W[lc];B[kh];W[li];B[jc]
+(;W[lk]C[took gote to be reasonably safe with this stones
+
+Sure saves your (already almost safe)stones...BUT man is it slow... An almost fossil-slow move]
+;B[gc];W[cf];B[nk]C[Slow but strong move from B here, it does 2 things. first makes territory around Q8 and saves O11 stone, or rather makes it gote to take it for you. The bad side of this move B gets overconsentrated, but thats just good for you :)
+
+I wouldn't play it because it's just to slow.];W[bd];B[ef];W[ci]
+;B[en];W[kd];B[rh];W[of]C[This move should have been played at S11 by principle. If for no other reason just the possibilty of a monkeyjump should be enough. This P14 only helps B get stronger at your cost. B's problably celebrating in secret. B at P13 is got for B but if left by you a possible ko of 6 points or so.
+
+After about 20 mives I thought that you might not want to be fighter anyway, but it looks more like you fight cautiously. Almost abit to defensive]
+;B[oe];W[je];B[ri];W[go]C[Way to slow. I've seen fossils move faster...(Nae, just jokig, but it's sure is slow) I'll explain why.
+This move influence G4 to J4 with a possibility to reach out to J-K7 a total of (12 points(G4-J4)+ 4-8point(J-K7))=16 to 20 points.
+All in gote for you. The biggest weakness this move has is that it doesn't treaten B in any way and if B play K3 you better know how to answer. With B at K3 alot of those 16-20 points are danger and in the end G5 move maybe costed way more then it gave you. Better moves would have been C17, R17, H15 or E11.
+I'll show how I would count the value of C17.
+
+If W play K3 the form is called an Iron pillar, it's extraordinarily strong but slow as an fossil. But it can be usefull if one wants scar/force your opponent to invade so that he can be killed. Invasion are alwas weak but should be approced with caution.]
+
+(;B[cc];W[bc];B[bq];W[br];B[rq];W[rr];B[gm];W[ei];B[bb]C[Since your attack at R14 in the begining this has been a fighters game. So an attack now would only be natrual. Se the exampels.]
+
+(;W[bj];B[ek];W[qc];B[kb];W[lb];B[ab]C[W j18 is an attractive "endgame" move, but a bit early to play now. I'll show it anyway.]
+
+(;W[am];B[im];W[jn];B[gk]C[Perhaps O5 is better but it leaves an uggly cuting possibility for B, but I would take my chances on O5 because M6 leaves an highway strait down int my territory more or less. W still have the wery weak L12 stone to attack and if/when it run connect either across the board or down.]
+
+(;W[ln];B[jj];W[he];B[dg];W[cg];B[df];W[ic];B[ib];W[hc];B[hb]
+;W[kc];B[nf];W[og];B[jd];W[id];B[jb];W[ke];B[rd];W[rc];B[sr]
+;W[qr];B[ar];W[cr];B[bl];W[al];B[bk];W[ak];B[bn]C["the highway...  (from move 72)]
+
+(;W[no];B[fh];W[ml];B[ih];W[hg];B[if];W[ie];B[hf];W[gd];B[fc]
+;W[gf];B[ig];W[gg];B[nm];W[mm];B[oi];W[ph];B[sc];W[sb];B[sd]
+;W[ra];B[dh]C[Perhaps W should try to cut B and maybe get a center.]
+
+(;W[di];B[in];W[io];B[jm];W[km];B[oc];W[ob];B[nn];W[mn];B[hn]
+;W[lg];B[nl];W[gi];B[fi];W[hi];B[ho];W[hp];B[jl];W[fn];B[fm]
+;W[eo];B[dn];W[co];B[do];W[ep];B[cp];W[ii];B[ji];W[hk];B[hl]
+;W[ik];B[jk];W[mj];B[gj];W[qo];B[ro];W[po];B[pn];W[ch];B[md]
+;W[mc];B[gn];W[fo];B[ce];W[be];B[cd];W[ac];B[oo];W[op];B[nj]
+;W[mi];B[bm];W[cj];B[ej];W[eh];B[an];W[aj];B[la];W[ma];B[ka]
+;W[nd];B[od];W[ld];B[me];W[kg];B[dj];W[fd];B[ed];W[fe];B[ee]
+;W[kl];B[qd];W[pc];B[ff];W[kj];B[kk];W[ki];B[jg];W[lh];B[jh]
+;W[lf];B[jf];W[fg];B[eg];W[gh];B[fj];W[rs];B[mk];W[qp];B[sq]
+;W[bs];B[kf];W[ll];B[aq];W[ij];B[il];W[mg];B[pi];W[ng];B[mf]
+;W[lj];B[hj];W[ge];B[hh];W[ss];B[as];W[tt];B[tt]TW[na][oa][pa]
+[qa][sa][mb][nb][qb][rb][ad][hd][ae][af][bf][ag][bg][ah][bh]
+[ai][bi][lm][kn][jo][ko][lo][mo][fp][gp][ip][kp][lp][mp][np]
+[dq][eq][gq][hq][iq][jq][kq][lq][mq][oq][pq][dr][er][fr][gr]
+[hr][ir][jr][kr][lr][mr][nr][or][pr][cs][ds][es][fs][gs][hs]
+[is][js][ks][ls][ms][ns][os][ps][qs]TB[aa][ba][ca][da][ea][fa]
+[ga][ha][ia][ja][cb][db][eb][fb][gb][dc][ec][de][pe][re][se]
+[qf][sf][rg][sg][sh][si][oj][rj][sj][dk][fk][ok][pk][qk][rk]
+[sk][cl][dl][el][fl][gl][ol][pl][ql][rl][sl][cm][dm][em][hm]
+[om][pm][qm][rm][sm][rn][sn][ao][bo][co][so][ap][sp])
+(;W[gi];B[di];W[ik];B[ij];W[il];B[jm];W[jl];B[kl];W[km];B[kk]
+;W[hm];B[in];W[hn];B[io];W[hl];B[hj];W[gl]C[and so on...]))
+(;W[tt]C[just some good and bad exampels :)]
+(;B[no];W[mp];B[mo];W[lo];B[np];W[mq])
+(;B[mo];W[lp];B[mp];W[mq];B[lo];W[ko];B[op];W[oq];B[oo])
+(;B[lq];W[mp];B[jq];W[iq];B[kp]
+(;W[jr];B[jo];W[kq];B[lp];W[ko];B[lo];W[kn];B[mo])
+(;W[ko];B[jr];W[ir];B[mr];W[lp];B[nr];W[kq];B[kr];W[kp];B[mq]
+;W[ls];B[oq];W[op];B[np];W[no];B[pr];W[nq];B[or];W[lr];B[ms]
+;W[js];B[ks];W[ps];B[os]))))
+(;W[no];B[nn];W[mn];B[ll];W[jj]
+(;B[kk];W[kj];B[hi];W[jg];B[lg];W[jh];B[ji];W[lf];B[kf];W[ii]
+;B[jf];W[kg];B[mf];W[lh];B[ih];W[ij]C[opps... Life without cutting...  :)  Bad exampel of how to live with cut...  hehe]
+)
+(;B[kl];W[hi];B[gi];W[gh];B[fi];W[fh];B[eh];W[eg];B[dh];W[ej]
+;B[gj];W[dg];B[ch];W[bh];B[hh];W[ih];B[hg];W[cg];B[ig];W[kg]
+;B[lg];W[jh];B[jg];W[kf];B[lh];W[lf];B[mg];W[mf];B[nf];W[ng]
+C[connection with top.])
+(;B[ii];W[kl];B[ij];W[lm];B[ml];W[jm]C[connection to bottomgroup.]
+)))
+(;W[ib];B[ic];W[ka];B[jb];W[ja];B[hb];W[ia];B[ha];W[la]))
+(;W[dm];B[dn];W[dk];B[dl];W[el];B[cl];W[ek];B[bj];W[bi];B[em]
+)
+(;W[dk];B[dl];W[ek];B[cj];W[bi];B[bj];W[el];B[em]C[Here W might wanna play D10 to be safe, but as long as C8 is atari W has better things to do. If you leave it look at it every 5 move though, it will be costly if B manage to kill your 3 stones or invades the egde. I'll give some exampels. (the longest one you shouldn't pay to much attention to)]
+;W[mc];B[dj]
+(;W[di];B[ej]
+(;W[fj];B[fk];W[fl];B[gk];W[gl])
+(;W[fk]
+(;B[fj];W[gk];B[gj];W[hk])
+(;B[gk];W[fj];B[fi];W[gj];B[gi];W[gl];B[hk];W[hj];B[hl];W[cl]
+;B[bl];W[dm];B[cm];W[dn];B[do];W[dl];B[eo]
+(;W[fm];B[fn])
+(;W[hh];B[fg];W[hi];B[gg];W[fm];B[fn];W[fl];B[gn];W[hm];B[hn]
+;W[im];B[ip];W[io];B[ho];W[hp];B[gp];W[hq];B[gq];W[fp];B[fo]
+;W[gr];B[go];W[iq]C[I just played a little for fun. nothing to read to this deep about :)]
+))))
+(;W[ej];B[di];W[dh];B[ch]
+(;W[bh];B[eh];W[dg];B[fi];W[gk];B[fj];W[gl];B[gh];W[eg];B[fh]
+)
+(;W[cg];B[bh];W[bg];B[ai];W[eg]))))
+(;B[bo]
+(;W[tt];B[cc]C[This is a huge differens in points. If W or b play here.]
+;W[bc];B[bb];W[ab];B[cb];W[ac];B[ce];W[be];B[df];W[cg];B[ge]
+;W[id];B[ic];W[hd];B[gd];W[hc];B[hb];W[cd];B[de]CR[aa][ba][ca]
+[da][ea][fa][ga][ha][ia][ja][db][eb][fb][gb][ib][jb][dc][ec]
+[fc][ad][ed][fd][ae][ee][fe][af][bf][ag][bg][ah][bh][ai][bi]
+SQ[ab][bb][cb][ac][bc][cc]C[In this exampel called "A"  W gets 10 points and B gets 23 points.]
+)
+(;W[cc];B[dc];W[db];B[eb];W[cb];B[ce];W[be];B[df];W[cg]C[most likely this will happen or should happen]
+;B[id];W[ie];B[he];W[hf];B[ge];W[gf];B[ff];W[cd];B[de];W[ea]
+;B[fb];W[fa];B[ga]
+(;W[gb])
+(;W[da]CR[aa][ba][ca][ha][ia][ja][ab][bb][gb][hb][ib][jb][ac]
+[bc][ec][fc][hc][ic][ad][ed][fd][gd][hd][ae][ee][fe][af][bf]
+[ag][bg][ah][bh][ai][bi]SQ[ea][fa][ga][cb][db][eb][fb][cc][dc]
+C[B here got 17 points W got 17 poinys to. This is exampel "B".
+
+The calculation of value is rarly this sipmle (if you can call this simple...) but usally an somewhat extraordily difficult, not to say almost impossible task when the clock is ticking...
+
+To get the value of this C17 move one have to look at the differens betveen ex. A and B.
+1a: W got 10 points
+1b: W got 17 points
+2a: B got 23 points
+2b: B got 17 points
+3: sum W: 10+17=27
+     sum B: 23+17=30
+The value of C17 is 30+27/2 = 28,5 points . 
+1: count W territory 2: count b territory 3: sum it all up and split in 2 and you got the value. 4: the higher rank you get the more accurate you evaluation vill be. (point 4 goes without saying a suppse)
+
+And for the sake of "keeping it simple" W and B played only like this. It might be that in IRL this might not at all happen but the value of the C17 move still would valued around 25-30 points. Using this metod of evaluation a 3-3 invasion(W played the 4-4 move and B invads by playing the 3-3 move)is valued aruond 20-30 points depending on stones around the corner. you could play it out on a board just to see if I'm right. 
+
+The easyest way to get a lose grip on value is to calculate some common plays as 3-3, starpoints(with the 3-step extension(B : C6-C9), corner(5-3,3-5,4-3,3-4)attacks and so on. And use the results as guidelines.]
+))))
+(;W[kd]C[just a "what if" exampel];B[lk];W[kj];B[kk];W[jj];B[mn]
+;W[nk];B[mj];W[nj];B[oj];W[oi];B[mi];W[lh];B[nl];W[ke]C[And you might be able to connect]
+))
+(;B[mh]))
+(;W[kc]C[A good form to make groups with.]))
+(;W[dn]C[Joseki exampels.
+At the end though I not sure about the moves];B[dm]
+(;W[en];B[co];W[cp];B[bp]
+(;W[fp];B[cl])
+(;W[bq];B[cm];W[fp]))
+(;W[co];B[en];W[do];B[em];W[gp]C[Not sure if the is a joseki but I like it. Big corner and a G4 for territory.]
+)))
+(;W[of]C[perhaps better because R3 for B is worth about 10-15 points(the points he can get plus the points you'll lose) And if B leaves his upper right corner(play elsewhere now), pop up the campagne and celibrate  ;-)]
+
+(;B[pf];W[pg];B[pe];W[qg];B[og];W[oh];B[ng];W[oi]C[And you'll have to run...]
+)
+(;B[qq];W[qc]TR[nd][pd][ke][le][me][qe]SQ[kc][mc][nc][pc][of]
+[qf][kg][mg]C[B if 80% dead. And if he make a fight for it let B live BUT squeezzzzee him as hard as you can. The ide should be some like the sqares and triangles.]
+)))
+(;W[of];B[nd]))
+(;B[pf];W[qg];B[pg];W[qj];B[pi];W[ql];B[pk]C[hrmf, I wasn't gonna bother, I sad.... ;-)
+If I had a big W group in the entire middle then maybe, but If not   :  GAME OVER]
+))
+(;W[pf];B[nd];W[qi];B[qj];W[pi]C[This is better because you still have 3-3 and your group is "safe", meaning if B try to kill it now he will fail. And this might be a joseki-play but I'm not sure]
+;B[dj]C[The 3-3 secquence...
+(Some exampels.)];W[qc]
+(;B[re]
+(;W[ob];B[pc];W[pb];B[rc];W[rb];B[qd];W[qb];B[mb];W[sc];B[rd]
+;W[nb];B[na];W[oa];B[qa];W[ra];B[sb];W[mc])
+(;W[oc];B[pc];W[pb];B[ob];W[nb];B[qb];W[oa];B[rc];W[lc]))
+(;B[pc]
+(;W[re];B[qd];W[rd];B[rc];W[rb];B[qb];W[sc];B[qc])
+(;W[qd];B[pe];W[re];B[rd];W[rc];B[rf];W[sd];B[rg];W[ri];B[qb]
+;W[rb];B[pb];W[ra]C[Played S19 to make the possibillty of a ko at T15 go away. If B plays T18 now he hasn't got a clue on life and death...]
+;B[sb];W[sf];B[sg];W[rj];B[se]C[Now it's a "life and death" ko and 7 stones(14 points) + 3 points on the board makes it worth about 17 points.
+quite devastating ko I'd say.]))))
+(;B[nd]
+(;W[dg];B[di];W[fg];B[dl])
+(;W[dj];B[jp];W[hp];B[mp];W[qo];B[pn])
+(;W[jp];B[gp])
+(;W[hp];B[kp];W[lp];B[ko];W[lo])
+(;W[fc];B[hc];W[fe];B[df];W[id];B[ic];W[jd];B[hd];W[he];B[jc]
+;W[kd];B[lc];W[gd];B[ie];W[kf];B[if];W[db];B[cc];W[cb])))

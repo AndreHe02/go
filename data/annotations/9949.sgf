@@ -1,0 +1,328 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.16]
+
+PB[huxian22]
+BR[8k]
+PW[adomasu]
+WR[8k]
+KM[6.5]
+DT[2016-01-23]
+RE[B+Resign]
+RU[Japanese]
+
+;B[pd]C[Hello dear reviewer,
+
+thank you very much for looking over my game. It was a complicated and reasonably close game until the very end, involving quite a lot of ko; I hope you don't find it too complicated to review. Sure enaugh I didn't quite know what was going on for most of the game. In the opening my opponent played very agressively and I didn't manage to punish his overplays. Later in the game this pattern continued, with both of us fighting over the life of basically every group on the board. The main points I want to ask about, as well as my thoughts on most of the moves will be included as comments. Please try to validate or correct those thoughts, since that is the way I would improve, while avoiding long complicated variations, except in the opening. Also please try to point out typical shapes and the plans, ideas or expectations attached to each suggested move. I'm very much looking forward to learn from your experience.
+
+
+--- Hi. I will be your reviewer. In this game, white makes a few mistakes to fall behind black: 1) the dead white group on the lower-right; 2) allow black to capture the big group in the middle and get strong influence (move 89); 3) lose ko and part of the groups on move 273.
+
+However, black also plays with inefficiency and mistakes. So, you had a chance to win the game until black 273. 
+
+To improve your middle game, I suggest the book "Attack and Defence". 
+     http://senseis.xmp.net/?AttackAndDefence
+
+You may practice tsumego to improve your reading, not just in live and death situation.
+     http://senseis.xmp.net/?BenjaminTeuber%2FGuideToBecomeStrong#toc3
+
+Hopefully, my review is helpful for you.];W[dp];B[qp];W[op]
+C[This is what I've been trying recently. Might be slightly fancy, but I don't like playing against orthodox (or any other fuseki), I guess. Shouldn't be too unreasonable. Usually (variation) black would attach underneath, I would play hane on the outside and then when black responds tenuki to take the remaining corner. Not sure how good that exchange is but it has been played by pros (albeit not many...)
+Maybe approaching low instead is more fitting to this kind of idea?
+
+
+--- This move is OK if you play the corner lightly and switch to occupy your another corner first before black.
+
+However, it is a bit risky if you have gote and black can take the empty corner first. 
+
+In this game I think it works out pretty well for you.]
+(;B[pn]C[I don't really understand this move. Is it more certain to get sente than the other choices? I try to play normal.
+
+--- In this joseki, black concede parts of corner to white for ability to play higher stone on the 4th line at Q6.
+
+It is also possible that it is more difficult for white to tenuki and take the empty corner than black P3. So, it might be correct for black.]
+;W[qq]
+(;B[pp]C[But this move I've never seen before.
+
+
+--- This is not joseki and it should be inferior to the actual joseki.
+
+See variation.];W[pq];B[oq]C[And here I start reading for a while what happens after I play O4, decide that I would die and let black trick me by sealing me in in exchange for that one stone.
+
+
+--- Capturing at O3 is correct. Black let white form a good shape by capturing the stone.
+
+I am not sure what you mean by "sealing". Maybe do you mean black gets to play S3 and R2? These are forcing moves to take some parts of the corner. They do not really worth that many points.
+
+"Sealing" usually means preventing opponent from breaking into the center. That would be quite damaging for the opponent.]
+
+(;W[nq];B[or];W[nr];B[oo];W[np];B[rq];W[pr];B[qr];W[os];B[rr]
+C[This move is slow I think. Black should take the open corner.
+
+--- Yes, this is an end game move. Too early to play now.];W[dd]
+C[Which I do instead of him. Locally it's still an amazing result for black though, which means I let myself get tricked.
+
+--- Locally, the lower right corner is not that good for black. White gets a strong shape. Black ends in gote.
+
+If black plays standard joseki, he would get much better result as shown in the variation in move 7.]
+;B[fq]C[Black's style is to have a lot of fighting and dying rather than large moyos. Here I decide to pincer him to make a few points on the bottom but maybe that's not a good idea. Not sure what to do.
+
+
+--- Pincer is good since lower-right white group is quite strong.]
+;W[hq]
+(;B[fo]C[Didn't expect black to do this.];W[dn];B[jq]C[Never seen this before. It seems like an overplay, but hard to deal with.]
+
+(;W[ip]C[I play the most severe move I can think of to split and attack both groups.
+
+--- Perhaps leaning into K3 is a bit too aggressive since it forces your opponent into a move around M3 later.
+
+Jumping out at H5 looks OK to me. If black tries to connect under at H2, it would give white more influence. See variation.]
+;B[ko]TR[jq]C[Black plays lightly, again unexpected. Wonder what I should do if he just extends up.
+
+
+--- The connection between knight move is quite thin since white has stone at J4.
+
+The correct move is threathen at cut at M3 to prevent him from creating a base while making your right-sided group safe. See variation.]
+
+(;W[in];B[mo];W[no];B[nn];W[mn]C[I'm not actually trying to kill black, but I want him to be running up the board, so I cut here.]
+;B[lo];W[nm];B[on]LB[lq:A]TR[mn]C[Not sure what the best shape here would be.
+
+
+--- The shape in your game was OK.
+
+However, the most urgent move is the move at A. You should play it now to secure the life of white group. It also threathen the cut at K4 to capture the single black stone at K3.
+
+The cutting stone at N6 cannot be captured yet at this moment. So, it is not as urgent as the move at A.
+
+The other white stone at O7 can be captured but it is not a cutting stone. So, you can leave it for now.]
+;W[lm];B[km];W[ll];B[kl];W[jn];B[kn]LB[lq:A]C[--- Still one last chance to play at A.]
+;W[lk];B[lr]C[Here comes an unpleasant surprise. I hadn't considered the possibility of my poor tricked group dying after capturing a stone. Right now there is a way to save it thought, which is what I do.]
+;W[mr]C[Low and behold, black is very honest and actually plays N1 to take away the eye. I think this is a mistake. He should play some different move forcing me to go back and make the eye instead.]
+;B[ms];W[lq]C[Black sees that he can't kill me outright and plays another move that's very hard to deal with.]
+
+(;B[hr]TR[kl][km][kn][ko][lo][mo]C[Here I make a mistake. Somewhat upset that I don't get to separate black, which means already that the game is pretty much lost, I try to have everything and end up dying. In fact this might even be the correct way to play though, I'm not sure. Just living seems awfull.
+
+
+--- You should think about keeping white group on the right safe first. Do not let it die just because you didn't get to separate black. The game is still early and you will have a chance to win later on. However, if white group is dead you will fall behind a lot more and more difficult to win.
+
+One way to play is white L3 which will connect your group while isolate marked black group. See variation.]
+
+(;W[gr]C[So I play this then, not actually thinking that I have to sacrifice the P1 group. As I said, even so this might be the right idea...]
+;B[gq];W[ir]
+(;B[iq]C[I didn't expect this move. Thought black would play H4 as in the variation...]
+;W[hp];B[jr]C[Now I realize that I'm about to die in both places... L2 right now leads to ko, which is a terrible result. So I play H1 instead.
+
+--- L2 is not a ko. You should play L2 to make your group safe first.]
+
+(;W[hs];B[kq]C[And I'm dead. Now I hope to kill black on the left taking a big corner as compensation. Still, black has a big lead.]
+;W[fm];B[gn];W[gm];B[dq]C[black will try to live. I was slightly surprised.]
+;W[cq];B[cr]C[Here I made a mistake. I should just connect everything solidly, since black can't start a capturing race with my middle group which is out and has an eye. However I try to end this nonsense right away.
+
+--- Yes D2 is not good for white. It creates weakness in your position.
+
+To minimize black's space, try B3 instead. Next, E4 is a vital point to destroy black's potential.]
+;W[dr]
+(;B[ep]C[--- Big mistake by black. See variation.];W[eq];B[do]
+;W[co];B[en]C[Black thinks he can ge a ko. I don't think this is one.]
+;W[em];B[hm];W[hn];B[bp]C[Here I was seriously considering tenuki, since I thought black was just dead and that's that... maybe I'm underestimating the aji black has here. In any case, in the game I did respond by taking the ko.
+
+--- You should connect at C4 instead of capturing. Then, no more ko potential.]
+;W[eo];B[ml]C[This is actually meant as a ko threat by black, which I only realized when he took back the ko. In the game I thought this was a really strange move and turned in the center, basically claiming that this is too slow for black and not a good way to attack my weak group there.]
+;W[kk]TR[kl][km][kn][ko][lo][mo][iq][jq][kq][jr][lr][ms]C[--- This is actually a very good move. it give you influence over the center.
+
+Also, if you look carefully, the below black group does not even have one eye yet!
+
+You never know what will happen if black gets careless and starts losing a few outside liberties. White can start a capturing race at K8 and may actually being end up a winner!]
+;B[do]C[I was really surprised here. Maybe I blundered on this move now: I played D7 hoping to fix the aji in the most efficient way. That might be too greedy though.
+
+--- You should still connect at C4 and nothing black can do.]
+;W[dm];B[cp]C[Now I get slightly scared. Black is about to make life, it seems.]
+;W[eo];B[mm]TR[mn]C[Here however, when I definetly shouldn't connect M6, I decide that even if this is ko, I have so many threats that Capturing the N7 stones in a ladder later would be helpfull to secure my weak stick in the center. This is most likely another blunder.]
+;W[ln];B[do];W[dq]C[I somewhat still don't believe this is actually ko...]
+;B[cn]C[But after this move it seems to be. In any case, I couldn't read out the life and death situation after I play F2 here. In retrospect that doesn't seem to work.]
+
+(;W[eo];B[jk]C[And after becoming rather scared of black living in my corner after all I just capture the ko without even making use of my threats that I can get by threatening to live with my bottom right group.]
+;W[fn];B[mk]TR[kl][km][kn][ko][lo][mo][iq][jq][kq][jr][lr][ms]
+SQ[ml][mm]C[Now I wonder what I should do here. In the game trying to run out that stick didn't seem reasonable to me.I wonder if it is? During the game I was expecting to get some free moves in the middle by threatening to start a capturing race between black's middle group and my right group. Here I give up on that hope.
+
+--- You cannot give up this middle group. Especially, after you have invested so many stones on it already. 
+
+Capturing the white group will make black extremely strong. The black group on both sides of the white group is not as strong as it looks yet. There was a go proverb that "A ponnuki is worth thirty points". Your group is much larger than a ponnuki.
+
+Giving up this group is the main reason that you have struggled so much in the later stage of the game.
+
+See variation.]
+(;W[qj]C[I wonder if this is a mistake. In any case, I'm in a very desperate position here.
+
+--- You need to save the middle white group. See variation.]
+;B[kj]C[Black really wants those stones right now.
+
+--- Of course. This is a major coup for black.];W[qf]C[This might be an overplay? Luckily black thought this was a ladderbreaker. I wasn't actually going to run those stones out... maybe I could try that?
+
+--- R13 might be a bit better.
+
+However, going back earlier,white starts at R11, then R14 would be even better.]
+;B[lj];W[rd]C[This move is wrong. I was hoping for black to respond with 3-3 and make the "good" invasion shape with Q12, however this move is still wrong. I don't know what would be better. Maybe Q12 right away?
+
+--- Q12 right away is better since you have no plan to counter black invasion.
+
+Instead of R14, white might also play R13 to give more stable base.]
+;B[qh]C[Absolutely no idea what to do here.
+
+--- Black is extremely strong from the capturing large white group. So, he can invade everywhere.
+
+Normally when you play S16, you should think about the plan if black invades here. In this case, white is too weak to put up resistance. It is possibly better if white plays R13 instead of R14.]
+;W[rh];B[rg];W[qg];B[ri];W[ph];B[qi];W[pi];B[rf]C[Again here, no idea what to do. This seems like a really terrible position for white.]
+;W[rj];B[sh];W[re];B[sf];W[pk]C[I defend this side rather than the top because I'm afraid black will get a lot of points after capturing my R10 stones... in any case it's a very bad result.]
+;B[qe];W[of]C[another bad move. Doesn't actually defend the cut at Q13, as I'm about to find out...
+
+--- You should play R17 instead to live in the corner.];B[pc]
+C[Slow move by black.
+
+--- This move is good. It prevents white living in the corner at R17.]
+;W[pe];B[qd];W[jc]C[Shouln't have done that... I was desperate to make up the big lead that black had and didn't consider the cut...
+
+--- Your play is OK. The cutting stones at R13 are not very important. You can sacrifice them.]
+;B[pg]TR[pc][pd][qd][qe][rf][sf][rg][qh][sh][qi][ri]C[It seems like I have to sacrifice.
+
+
+--- Yes, and it is not a bad thing. Both sides of these cutting stones are pretty strong. So, no need to keep it here.]
+;W[og];B[pf]C[Now I'm worried about life again... However I play the wrong move to try and live.
+
+--- The first thing is to keep connection. O12 is necesary.]
+;W[rm]C[--- This move was a bit greedy. It tries to destroy black's area, but the cutting at P12 is very difficult for white.]
+;B[oh]C[black cuts me again and I have to sacrifice once more.]
+
+(;W[oi]CR[pj]C[--- This move doesn't gain much for white. Black gets more influence in the center. The only use would be trying to create an eye at Q10. But you will need another play at O9 or P9.
+
+You should aim to live locally starting at S5. See variation.]
+;B[nh];W[ni];B[oe]C[not a good move, lets me come out.
+
+--- Agreed. Black needs to continue at N12.];W[mh];B[ng];W[mg]
+;B[nf];W[mi]C[This is fairly resignable...];B[fc]C[black plays on in the same style.]
+;W[ec];B[fd];W[df];B[ch];W[cj];B[di]
+(;W[hd]C[bad move by me. Maybe taking N17 or Playing something like F14 is good?
+
+--- Before F14, you should take black's base away.
+
+H17 is a better move. See variation.
+
+N17 is also OK but it would be quite close to black's thickness.]
+;B[lc];W[fb]C[again wrong move. I need to split and attack, not secure my corner.
+
+--- Agreed. H14 should be better (jumping our from the weak group.]
+;B[gb];W[eb];B[hc];W[je]C[Now it's me who's getting attacked, as always in this game.]
+;B[ic]
+(;W[id]C[--- White K16 has better shape. See variation.];B[jb]
+;W[gd];B[gc];W[kc];B[kb];W[fe]C[--- A move around K13 is better.
+
+F15 is too close to black. It cannot seal off black since surrounding white group is not too strong.]
+;B[ee]C[Didn't expect this move. Once again, I'm fairly sure my reaction was wrong.]
+;W[ff];B[ef];W[eg];B[de]C[Wonder if I can cut here... couldn't quite read that in the game.
+
+--- Cutting is risky since your corner is not alive yet.];W[ce]
+;B[ed]C[Now the big question where to fix...];W[cc]C[I want my corner to live...]
+;B[dg]C[Unexpected. I think black should cut at F13.];W[cf]
+;B[eh]C[once again, I think this is a mistake by black.];W[fg]
+;B[dk];W[ck];B[gh];W[fh];B[fi]C[Here the cut is probably an overplay but I thought I had to kill black to win.]
+;W[gi];B[gj];W[hi];B[fj];W[hj];B[hk]C[Here I realize that I can't kill him and go back to fixing my shape in the middle in the most greedy ("efficient") way possible.]
+;W[jh];B[kh];W[kg]C[the hane was a bad idea... I was afraid of my right group getting disconnected and dying though, not sure how justified that fear is.]
+;B[ih]C[Didn't expect this move at all. Here I get short on time (the 20 minutes are gone, I spend 2 of my 3*30 seconds byoyomi reading this position...
+
+--- You should play H13 to cut off black.];W[hf];B[jg];W[ji]
+;B[ii];W[ki];B[li];W[lh];B[jj];W[kh];B[ij];W[hg];B[hh];W[ig]
+;B[ke];W[kf];B[ld];W[jd];B[cg]C[No idea what that's supposed to do.]
+;W[ro];B[rp]C[Now I'm trying to play endgame and make back a million points somehow.]
+;W[me];B[mf];W[le];B[kd];W[lf];B[ql];W[qm];B[pl];W[rl];B[qk]
+C[Here I once again decide that I can't win by responding here.]
+;W[nd];B[nc];W[mc];B[mb];W[md];B[lb];W[oc];B[nb];W[od];B[rk]
+;W[sk];B[sj];W[si];B[cd]C[This seems like a threat... by bad shape comes back to bite me.]
+;W[bd];B[sj];W[kr]C[my plan is to use all the aji in this area to win the ko.]
+;B[ks];W[si];B[sl];W[sm];B[sj];W[lp];B[mp];W[si];B[pj];W[oj]
+;B[sj];W[kp];B[jp];W[si];B[cl];W[dl];B[sj];W[jo];B[mq];W[si]
+;B[bo]C[Here I decide that this is not a threat, after reading for 30 seconds... in any case I don't have that many threats left. Not sure who wins if I respond, too. Black seems to have a lot of threats in the bottom left after all?]
+;W[sj];B[do];W[fp];B[cm]C[here comes the variation I was hoping to be my last chance.]
+;W[dj];B[ek];W[ej];B[fk]C[--- Mistake by black. Should just play E11 to avoid ko since he is leading.]
+;W[ei]
+(;B[bj]C[Totally unexpected.];W[dh]C[black didn't even try to play ko here.]
+;B[ci]C[here I once again decide that I have to play the ko and try to kill.]
+;W[bk];B[ak]C[No idea what this move is trying to do.];W[eh]
+;B[bl];W[bi];B[ai]C[again no idea what black is doing.];W[aj]
+;B[ok];W[al];B[pj]C[I got confused about this life and death status of the bottom left corner. (had I only fixed it properly when I chose to play D7 instead)]
+;W[ga];B[ib];W[pk];B[db]C[Here I should ignore the ko threat most definetly. However, I responded. This might have been my last chance to win the game.]
+;W[dc];B[pj]C[--- You still have one more ko threat at H19. If black ignores, you play at P18 and kill the large top group.]
+
+(;W[bq];B[sl];W[nk];B[nl];W[ob];B[ha];W[pb]C[black isn't playing good endgame. I guess he wins most of his games before it gets to that...]
+;B[qb];W[qa];B[ra];W[pa];B[rc]C[Now I should come back and prevent the bottom left from living, however even if I do so it's not enaugh to win. I resign shortly after.
+Please tell me what you think about this game. I'm mostly curious about the opening where the nonsense started. How could I avoid getting into such a bad fight?
+
+
+--- The score difference is not as big as you think. The break through on top reduce some points from black. 
+
+If you can kill the lower left black group, the game would be pretty close. Though you still lose a bit.
+
+The opening was fine for you until you missed the chance to live. See my comments on move 35, 41, 47.]
+;W[fa];B[am]LB[bn:B][ap:A]C[--- Black group is still not alive.
+
+White can play A4 or B6 to kill black.];W[nj];B[ak];W[bj];B[bn]
+C[White resigns.])
+(;W[ha];B[sl];W[ob];B[na];W[ia]C[--- Black dies.]))
+(;B[dh]
+(;W[bi]C[--- You should play here first. White should win the capturing race.]
+)
+(;W[ci];B[bi]C[This doesn't work though - my reading was wrong.]
+;W[bh];B[bg];W[bj];B[ah];W[bl];B[aj];W[bk];B[bm])))
+(;W[jd];B[jb];W[kb];B[ib];W[kc];B[id];W[ie];B[he];W[hf];B[ge]
+;W[ig]C[--- Better than in the game.]))
+(;W[hc]TR[ff]C[--- White aims at F14 next for the splitting attack.]
+))
+(;W[ro];B[rp];W[ql]C[--- You should be able to live with this shape.]
+))
+(;W[mj];B[ol];W[ok];B[nl];W[li]C[--- This is one way to help this group.]
+))
+(;W[fr];B[bo]
+(;W[bq];B[cm])
+(;W[cm];B[bm];W[bl];B[bq];W[br];B[ar];W[cs];B[an]C[black lives.]
+)))
+(;B[eq];W[br];B[cp];W[bq];B[do]C[--- Now, black may not live yet. But he has a lot more chance than before if white is not careful.]
+))
+(;W[kr];B[ks]C[Maybe it's not ko... this position is quite complicated.]
+;W[jp];B[kp];W[kq];B[is]
+(;W[ls]C[--- White should play O1. See variation.])
+(;W[ns]C[--- Now white group is safe.])))
+(;B[hp];W[iq];B[fr];W[hs];B[kr];W[jp]C[The cut still works, which is what I read before playing G2.]
+))
+(;W[kr];B[kq];W[gr];B[gq];W[ir];B[jr];W[ls];B[iq];W[hs];B[hp]
+;W[js];B[hr]C[Ends in ko which black will certainly win, the game should be basically over.
+
+--- Even if white wins ko, black groups are still connected together. So, no gain for white here.]
+)
+(;W[kq];B[kr];W[jp];B[ir];W[kp]C[--- White is safe.]))
+(;B[kr];W[jp];B[kp];W[kq];B[ir];W[iq];B[jr];W[hr];B[lp];W[mq]
+C[I win by two liberties.];B[qs];W[is];B[ps];W[js];B[or];W[oq]
+;B[mp];W[ks]))
+(;W[lq];B[kq];W[lp];B[jo];W[hn];B[fm];W[gp];B[fp];W[dl]C[--- This is one way to play.]
+)
+(;W[jp];B[kp];W[kq]C[maybe this is called for?
+
+--- Seems to early to cut. Black can sacrifice the stone to wrap white up. 
+
+See continuation.];B[lq];W[kr];B[lr];W[jr];B[mo];W[mr];B[ms]
+C[--- White group is dead.]))
+(;W[ho];B[hr];W[gr];B[gq];W[ir];B[hp];W[iq];B[ip];W[jp];B[jr]
+C[--- If black tries to kill white, then...];W[hs];B[fr];W[kp]
+LB[gp:A][kr:B]C[--- White threatens both G4 and L2.]))
+(;B[cq];W[dq];B[cp];W[do];B[dr];W[er];B[cr];W[eq];B[cn];W[em]
+C[I think this is reasonable for white? Not sure if black should consider coming in at say K4 to reduce. I assume my opponent would have done that. Not sure how to react.]
+;B[jp]TR[em]C[Also I'm not sure what the followup against the left corner is if black ignores E7
+
+--- White E7 expands your framework. If black hasn't played K4 yet, you should aim to further expand it such as N6.
+
+For the lower left corner, you may play C8 later to try to seal them.]
+))
+(;W[np];B[or]C[This is complicated and I have no idea how it will turn out. Tried a few variations with S4  or N2 for white here but it didn't seem to work out.]
+))
+(;B[rq];W[pq];B[ro];W[lq]C[--- White at L3 or M3 is a usual joseki.
+
+Now black can take empty corner.]))
+(;B[oq];W[nq];B[pq]
+(;W[dc])
+(;W[dd];B[np];W[mq];B[no];W[jq])))

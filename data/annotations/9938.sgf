@@ -1,0 +1,160 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.16]
+
+PB[smedberg]
+BR[13k]
+HA[0]
+PW[marsmoon]
+WR[13k]
+KM[6.5]
+DT[2016-01-05]
+RE[B+5.5]
+RU[Japanese]
+
+C[Review by rhubarb (6k?).
+
+One-point review: Have a plan, and stick to it.
+
+I wouldn't say you need to study the opening any more than other phases of the game, but I would say that in both the opening and middle game, you need to have a reason for your moves, and you need to avoid changing reasons from move to move. For example, if you play so as to secure some group, you're committing to the idea that the group is valuable or important--maybe it's cutting or connecting important stones, or it's giving you lots of points. Once you've committed to that idea, you're shooting yourself in the foot if you play as if those stones are dispensable. See especially around move 24 & following.
+
+Anyway, I hope this is helpful! Thanks for letting me review your game.
+
+Best regards,
+Roger (rhubarb)
+
+
+
+Questions from marsmoon:
+
+> After the pincer when I first approached, I thought about doing a
+> one space jump but it seemed too tame. Was pincering the stone with
+> an extension from the white an option?
+>
+> Could I consider the group in the corner as safe after the knights
+> move?
+>
+> Was O14 too deep of an invasion?
+>
+> Any suggestions? Was I being too aggressive? Should I work on my
+> opening more? How do you rate my reading?
+>
+> Thanks.
+
+I answer each of the specific questions at the relevant points in the sgf.]
+;B[pd];W[dd];B[dq];W[pp];B[co];W[nc];B[lc]
+(;W[qf];B[nd]
+(;W[qc]LB[nc:a][qf:b]C[Why this? White lets black build a lovely wall along line 16, and can only expect a fairly small corner given how stone A has been attacked. Black will get a wall facing down the right side, and if Black gets sente, stone B will be in trouble. Jumping into the corner concedes too much to Black.]
+;B[qd];W[rd];B[re];W[rc];B[qe];W[ob]C[This is one point you might mean when you ask:
+
+> Could I consider the group in the corner as safe after the knights
+> move?
+
+If this is what you mean, then yes, I think this corner is safe. I'll try attacking it in the variations.]
+
+(;B[qh]C[Too close. Black has a nice wall and should build a bigger moyo. I'd play at Q11 or Q10.]
+;W[qm]LB[qn:a][qo:b][pj:c][qk:d][pk:e]C[White's plan is presumably to check black's influence on the right side. But this doesn't go far enough to stop black comfortably extending (as in fact happens), nor close enough to help secure the corner. Any of the marked spots would be better, I think.
+
+This is the other point you might be referring to with this question:
+
+> Could I consider the group in the corner as safe after the [large\] knights
+> move?
+
+In which case, the answer is just no.];B[qk];W[jp];B[oq]LB[qq:a]
+C[This seems like a weird invasion to me. Why not A instead?]
+;W[pq]C[Good response.];B[np]LB[lq:a][lp:b][jp:c]C[Also confusing. Too slow, too solid. Better to extend around A/and make trouble for white A.]
+
+(;W[lq]LB[np:a]C[What's the plan here? I figure this is either an attack on black's A group, or an attempt to create a base for white's group. Maybe it's a little bit of both--but whichever it is, it needs to be followed up with moves consistent with the plan!
+
+If the plan is indeed to attack black, better to start the other way. That is, prior to this move, there are two ways for black to help the stones here: create a base & live locally, or run away to safety. Black would much prefer to run away! When you attack, you can only take away one of these options (at most), so take away the one black wants more: fence black in before trying to take away the stones' base.]
+;B[nn];W[om]LB[hq:a][gq:b][pk:c]C[This isn't too effective at stopping black's escape. Therefore, better to play at A or B, consistent with the plan of securing white's middle group.
+
+This doesn't work so well at stopping black's escape because (1) it's a (diagonal) contact play, which gives black a chance to push back and solidify the invading group, and (2) because white's stones on the other side are still precarious.
+
+Better to play something like C, forcing a black response & hopefully building some thickness to make black's life more difficult here.]
+;B[iq]C[Here's part of the problem: black wanted to play around here all along! (This is too close, actually--black shouldn't make contact in attacking. This should be one space to the left.) Black wants to extend from the corner enclosure: this move is attacking and creating a pretty solid moyo at once.]
+;W[oo]LB[nm:a]C[I'm not sure what this is trying to achieve, to be honest. Better to play at A, if you wanted to stop black's stones running away.]
+;B[no]
+(;W[lo]LB[ip:a]C[Makes shape, but it's probably better to run away. Push back on black's attacking stone (it's too close!) and use that to flee.]
+;B[mm];W[lm];B[mk];W[ip];B[hq];W[jr]C[It's still better to run than to make eyespace locally, and this doesn't work so well at making eyespace.]
+;B[qo];W[po]LB[qn:a]C[Ugly shape. Not sure what you're protecting against. Try A instead (probably not the only option).]
+;B[rm];W[qn];B[rn];W[ro];B[rp];W[qp];B[so];W[rl];B[ql];W[sm]
+;B[qo]LB[dr:a][rf:b][md:c][oe:d][eq:e][od:f][cq:g][dp:h][ok:i]
+C[White ko threats. I think white has more than black. Fight the ko! (Or tenuki. There are bigger areas on the board.) Suppose you tenuki and black extends into your corner--then fight the ko!]
+;W[rq];B[rk];W[ro];B[sl];W[sp];B[sn];W[ok];B[oj]
+(;W[nf]LB[qf:a]C[> Was O14 too deep of an invasion?
+
+I think a better question is about the timing. There are huge areas of the board still open--play there instead. Black is going to get something out of this invasion, even if it succeeds: either black will enclose white's stone and get influence over the rest of the board, or white will escape and black will build influence and/or territory along the way. Influence is still (potentially) worth a lot at this point.
+
+But once it's time to invade here, I'd go deeper, actually. This move doesn't take enough advantage of the A stone's aji. See variation for one way of proceeding.]
+;B[og];W[of];B[pf];W[pg]C[Skip this. Go straight to O13.];B[pe]
+;W[ng];B[oh];W[lf]C[Slow. Jump farther.];B[fd];W[id];B[ic];W[ec]
+C[Probably unwise to ignore contact, especially since the J16 stone had a purpose--helping white's invading stones to escape.]
+;B[hd];W[gc];B[hc];W[if];B[ff];W[df];B[ch]LB[cc:a]C[Black is conceding a really big corner to white here. I think the 3-3 invasion at A is still viable, and a better plan than this..]
+;W[cg];B[di];W[dl];B[ck]LB[fl:a][dn:b][go:c]C[Too easy for white. Better to attack from a different direction, and without making contact. Any of A, B, C are reasonable, I'd say.]
+;W[cl];B[bk];W[dk];B[bl];W[hp];B[fp];W[gp];B[gq];W[fo];B[ep]
+;W[fl];B[ll];W[km];B[kl];W[jl];B[jk];W[il];B[bh];W[bg];B[fi]
+;W[ik];B[jj];W[ij];B[ji];W[ii];B[jh];W[ih];B[kf];W[jg]C[Don't push on a connection you can't cut. The 110-111 exchange doesn't help white.]
+;B[kg]
+(;W[mc];B[md];W[ld];B[le];W[kd];B[kc];W[jc];B[jb];W[me];B[ke]
+;W[od];B[jd];W[ne]C[Just connect at P15. Save this for a small ko threat later.
+
+No further comments after this.];B[ld];W[oe];B[pc];W[pb];B[qg]
+;W[oc];B[mh];W[se];B[rf];W[lb];B[fc];W[fb];B[gb];W[eb];B[gd]
+;W[hs];B[gs];W[is];B[hr];W[jq];B[cn];W[dn];B[nk];W[ir];B[fr]
+;W[cm];B[bm];W[do];B[or];W[pr];B[ls];W[ks];B[mr];W[lr];B[mq]
+;W[ms];B[on];W[pn];B[pl];W[pm];B[ol];W[os];B[nr];W[ns];B[lg]
+;W[nh];B[ni];W[dj];B[cj];W[gj];B[fj];W[fk];B[gh];W[hh];B[hg]
+;W[ig];B[hf];W[ie];B[ee];W[de];B[eg];W[dg];B[dh];W[gi];B[fh]
+;W[he];B[ge];W[dp];B[cp];W[eo];B[ag];W[af];B[ah];W[be];B[kb]
+;W[ma];B[ka];W[fa];B[ga];W[ed];B[la];W[mb];B[ef];W[sf];B[sg]
+;W[sd];B[lp];W[kp];B[mp];W[ln];B[nm];W[ej];B[ei];W[mg];B[mf]
+;W[eq];B[fq];W[lf];B[ps];W[qs];B[mf];W[cq];B[dr];W[cr];B[cs]
+;W[lf];B[qb];W[rb];B[mf];W[bs];B[ds];W[bp];B[bo];W[ao];B[bn]
+;W[ar];B[bq];W[tt];B[lf];W[tt];B[tt];W[tt];B[tt]TB[aq][cq][eh]
+[fe][gc][gf][gr][jc][kd][nq][qf][rg][rl][sk][sm][ai][bi][ci]
+[aj][bj][ak][al][am][an][ao][ap][bp][ar][br][cr][as][bs][eq]
+[er][es][fs][fg][gg][ha][ia][ja][hb][ib][kh][lh][ki][li][mi]
+[kj][lj][mj][nj][kk][lk][ml][nl][oi][pi][qi][ri][si][ok][pk]
+[pg][ph][pj][qj][rj][sj][rh][sh]TW[ae][ce][js][ls][nb][ps][qb]
+[qo][qq][rp][sq][aa][ba][ca][da][ea][ab][ac][bb][bc][cb][cc]
+[db][dc][ad][bd][cd][bf][cf][dm][em][fm][gm][hm][im][jm][ek]
+[el][en][fn][gn][hn][in][jn][kn][gk][gl][hk][hl][go][ho][io]
+[jo][ko][hi][hj][kq][kr][na][oa][pa][qa][ra][sa][qr][rr][sr]
+[rs][ss][sb][sc])
+(;PM[2]FG[259:];W[md]C[Better.]
+(;B[od];W[mc])
+(;PM[2]FG[259:];B[mc];W[od])))
+(;PM[2]FG[259:];W[rf];B[se];W[of];B[mf];W[ph];B[pi];W[nh];B[lh]
+;W[nj];B[nk];W[oi];B[pj];W[mi];B[li];W[mj];B[lj];W[mh]C[This is probably not the best sequence for either side, but it's possible. White's stones are nearly alive, black has some cutting points, but black's got some nice influence pointing at a big empty area of the board.]
+))
+(;PM[2]FG[259:];W[ip];B[hq];W[kn]C[Even this is probably better. Black's invading group now needs to worry about running away, and that gives white time to run away with his own group.]
+))
+(;PM[2]FG[259:];W[nn];B[lq];W[jr];B[lo];W[jn];B[lm];W[fq]C[Painful for black. The invading stones get away, but white gets ample compensation.]
+))
+(;PM[2]FG[259:];B[oc];W[pc];B[od];W[nb]C[Safe!])
+(;PM[2]FG[259:];B[pc];W[pb];B[sd];W[sc];B[ra];W[rb];B[qa];W[pa]
+;B[sa];W[na]C[Two eyes.])
+(;PM[2]FG[259:];B[mb];W[pc];B[na];W[oa]C[Lots of eyespace.]
+))
+(;PM[2]FG[259:];W[md];B[mc];W[od];B[ne];W[oe];B[oc];W[pc];B[nb]
+;W[ob];B[nc];W[qc]C[Another option (credit: Josekipedia).
+
+Black's got a very thick wall, but white's got a nice big corner (though not as big as it might look), and isn't closed in. I think this looks definitely better for white than the game sequence.]
+))
+(;PM[2]FG[259:];W[jc]LB[fc:a]C[Question:
+
+> After the pincer when I first approached, I thought about doing a
+> one space jump but it seemed too tame. Was pincering the stone with
+> an extension from the white an option?
+
+I'm not a joseki expert, but Josekipedia says this sort of move is "Often played with stones around [A\]"...]
+;B[nd]LB[jc:a][hc:b]C[...but here begins a standard response. This looks like it'll result in a black wall facing down the right side, with white getting a small corner. Not so different from the actual game, as far as that side of the board goes. On the other hand, white gets the stone at A--what should we think of this? For my money, it's too close to (what will be) a fairly strong black position, too far from the 4-4 stone in the upper left. Black invasions around B are a worry.]
+)
+(;PM[2]FG[259:];W[ne];B[qf];W[kd];B[ld];W[le];B[kc];W[jd];B[jc]
+;W[id];B[hc]C[Is this "too tame"? It looks OK to me. White has options, and neither of black's groups in the area are huge.]
+)
+(;PM[2]FG[259:];W[qc]C[If you're going to jump into the corner, maybe do it right away.]
+
+(;B[pc];W[qd];B[pe];W[pb];B[ob];W[qb];B[oc];W[qf]LB[lc:a]C[Black A is overconcentrated, and white's corner isn't closed in. Black has sente, though.]
+)
+(;PM[2]FG[259:];B[qd]C[Another option.];W[pc];B[od];W[nb];B[me]
+C[White gets sente, can spoil black's wall.])))

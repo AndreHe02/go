@@ -1,0 +1,117 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+GN[2005, PANDA-NET,]
+PB[su37269]
+BR[3k]
+PW[abennun]
+WR[3k]
+KM[6.5]
+DT[2005-08-05]
+PC[PANDA-NET]
+RE[B+Resign]
+RU[Japanese]
+
+C[Dear Reviewer,
+I played White in this game, and I resigned because Black was leading by a big margin.
+Bascially he managed to enclose large territories in the corners, and I did not find an effective way to attack and enclose bigger territory.
+Could you help me find where I went wrong?
+Thanks!];B[pd];W[dp];B[pp];W[dc];B[de];W[fd];B[cc];W[cb];B[cd]
+;W[eb];B[dh];W[nc]C[Is this approach correct? I did not like the end result...
+
+CG:This approach move looks perfectly ok.];B[ob]C[Black used this move effectively more time in this game - how would you answer it? May be R14?
+
+CG: This move looks strange, doesn't it?
+It is a kind of move you play when you are strong and have already a stone around K16 in place. Of course you can answer at R14, but O18 should also lead to a reasonable result.]
+;W[nb];B[oc];W[jc]C[CG: This looks strange. You must not give your opponent the hane at O16 - never ever. Don't be afraid of a pincer - you are strong at the top and should welcome a fight there! I think black will answer around Q14 if you play O16 - the follow up at Q15 would be severe!]
+;B[nd];W[md]C[CG: What would happen if black cuts? I don't think you could handle this - N16 does not workl!]
+
+(;B[me]
+(;W[ld]LB[ld:A][ne:B]C[Shoud I have cut on O15?
+CG: I don' think so.];B[le];W[ke]C[CG: Again this looks too thin. White should play L16 instead.]
+
+(;B[kf]
+(;W[lb]LB[lb:A][je:B]C[Was M18 too submissive? May be K15 better?
+ CG: No, K15 does not work because of N17.Maybe you should still play L16, although this looks very slow.]
+;B[je];W[kd];B[mf]C[Now Black has strong thickness and his territory in the corner is even bigger than what I have on the top.
+
+CG: Yes, because you missed the vital point O16! 
+BTW: N14 is bad shape - O14 looks better.];W[pj]C[Too close to Black's thickness?
+
+CG: No, I think dividing the right side is ok. However, I would rather play R10 - it's easier to get a base on the third line.]
+;B[ph];W[qn];B[ro]C[Here it comes again...]
+(;W[ql]C[CG: This no shape at all! Since you played Q10, you should continue at P6!!
+Just compare the variation with the game after black 35 ...]
+;B[qi];W[cj]C[Too close to Black group?
+
+CG: No, but I would rather move with the eyeless group on the right.]
+;B[np]C[CG: Black just takes territory and while threatening your stones on the right.]
+;W[on];B[bi]C[...and again...];W[cm];B[cp]
+(;W[co]C[I select to give up the corner - I am not sure if this was right
+
+CG: This way C7 ends up too close to your thickness. I think C3 would have been better.]
+;B[dq]
+(;W[do];B[bq];W[eq];B[dr]
+(;W[er]C[CG: I would atari at B4 first - this way B5 will be gote.]
+;B[bo];W[lq];B[bn];W[gm];B[lp];W[kp];B[lo];W[oq];B[op];W[nq]
+;B[ko];W[jp];B[pq];W[rj];B[jo];W[ip];B[io];W[ho];B[hn];W[gn]
+TR[lb][ql][cm]C[I guess G5 is better
+
+CG: Yes, black can cut now. 
+However, the game is already very difficult for white. Just look at the three marked stones - the are placed not very well.]
+;B[hp];W[go];B[kq];W[kr];B[mq];W[jq];B[mr]C[This was big...
+Now Black is leading by far:
+bottom right - 20 points
+bottom left - 10
+top right - 30
+top left -20 = 80 points + komi
+
+White:
+Top - 20 points
+Bottom - 25
+Right - 10 = 55 points
+
+I assume neither Black nor White will gain too many points in the center.
+In the rest of the game I trying to fight back, but did not really gain much...
+What was wrong?
+Thanks!
+
+CG: I hope I pointed out some bad moves.
+Don't be afraid of moves on the second row. If your opponent clinges on territory like this, you can build up influence and a large moyo. However, if you answer S5 at R8, black has gained an advantage. And more important: Don't let your opponent take points like O16!!!]
+;W[mm];B[id];W[hc];B[jh];W[ni];B[ri];W[qj];B[rn];W[rm];B[cn]
+;W[en];B[dm];W[cl];B[el];W[dk];B[fk];W[ei];B[gj];W[hi];B[gi]
+;W[eh];B[di];W[ej];B[eg];W[fh];B[gh];W[fg];B[ef];W[ff];B[ge]
+;W[fe];B[gf];W[jj];B[gg];W[km];B[lj];W[ki];B[li];W[kh];B[mh]
+;W[lg];B[mg];W[jg];B[jf];W[ih];B[ik];W[jk];B[il];W[jl];B[im]
+;W[mk];B[oi];W[nj];B[nh];W[bb];B[bc];W[oa];B[pa];W[na];B[qb]
+;W[si];B[sh];W[sj];B[rg];W[pi];B[qo];W[qh];B[rh];W[qg];B[rf]
+;W[qf];B[re];W[ne];B[od];W[og];B[oh];W[lf];B[qe];W[hm];B[in]
+;W[hk];B[hj];W[gk];B[ij];W[fj];B[dn];W[ii];B[es];W[fs];B[ds]
+;W[fq];B[em];W[fo];B[hl];W[gl];B[pn];W[pm];B[qm];W[pl];B[lk]
+;W[ll];B[oj];W[ok];B[nf];W[dd];B[cf];W[bj];B[ci];W[bm];B[ee]
+;W[an];B[ao];W[am];B[ic];W[ib];B[hd];W[gc];B[jd];W[kb];B[nn]
+;W[nm];B[oo];W[om];B[rl];W[qn];B[mc];W[mb];B[qm];W[cr];B[br]
+;W[qn];B[ep];W[eo];B[qm];W[ai];B[ah];W[aj];B[bg];W[lr];B[sm]
+;W[ms];B[ns];W[ls];B[mn])
+(;W[bp];B[cq];W[er];B[bo];W[bn];B[ap];W[lq]))
+(;W[eq]
+(;B[do];W[ep];B[cn];W[bo])
+(;B[cq];W[do])))
+(;W[cq];B[co];W[bq];B[do];W[ep]))
+(;W[on];B[np];W[qi]))
+(;W[je]LB[lb:A][je:B]
+(;B[kd]C[CG: No, black won't cut here!]
+(;W[kc];B[mc];W[lc];B[mb];W[ne];B[na];W[nf];B[lf])
+(;W[lc]C[CG: white answers here - black doesn't get anything!]
+))
+(;B[mc]C[CG: But this cut works!];W[mb];B[lc];W[kd];B[lb])))
+(;B[mc];W[mb];B[lc];W[kd];B[lb];W[ne];B[od];W[mf])
+(;B[kd];W[lc];B[jd];W[kc];B[id]
+(;W[ic];B[kf])
+(;W[ne];B[od];W[kf];B[nf];W[if];B[ic];W[ib];B[hb];W[ia];B[he]
+LB[mb:A]C[CG: Since white still has a weakness at A, this fight looks difficult.]
+)))
+(;W[ne]LB[ld:A][ne:B];B[od];W[le]
+(;B[mc]LB[mc:A][mf:B])
+(;B[mf]LB[mc:A][mf:B];W[lc])))
+(;B[mc];W[mb];B[lc];W[lb];B[kc];W[ld];B[kd];W[ne];B[od];W[ke]
+;B[jd];W[jb];B[id]))

@@ -1,0 +1,92 @@
+(;FF[4]GM[1]SZ[19]ST[1]CA[UTF-8]AP[SGFC:1.17]
+
+GN[Challenge from jasond]
+PB[cheezopath]
+BR[20k]
+HA[0]
+PW[jasond]
+WR[25k]
+KM[6.5]
+DT[2011-11-18,2011-12-24]
+PC[Online Go.com: http://www.online-go.com]
+RE[B+Resign]
+OT[1 days / move]
+RU[Japanese]
+GC[Game ID: 317035]
+
+C[jasond: I'm looking for any suggestions to help me improve.  Thanks for your review!
+
+Overall, you played very well, especially for 25k!  The flow of your game looks more like a 15k game.
+
+There are two tips that I'd like to give.  If you understand and incorporate these two tips into your game, I think you'll improve a lot, very quickly.
+
+1.  There is no territory in the center.  The openning is about defining the corners and edges, where the real territory and structural foundations of your empire lie.  Do well here and the center matters very little.
+
+2.  He who counts wins.  I read an excellent book about this a while ago; if you're interested, email me and I'll look up the title/author.  For the advanced Go player, the main idea is that your plays should be guided by the score.  If you're far ahead, you should play conservatively, so as to ensure you maintain a lead.  If you're far behind, play aggressive, higher-risk moves that give you a chance at a huge come-back.  For the beginner, the main idea is that if you know the score, you won't resign while winning.
+
+Now lets go through the game and see how these two proverbs apply to your game.]
+;B[cp];W[dc];B[pq];W[qd];B[ce];W[cg];B[ci];W[de];B[eh]C[jasond: I thought it was interesting that he sacrificed C15 to make territory in the center so early in the game.  In retrospect, it seems to have been an effective strategy.]
+;W[dg];B[eg]C[At this point, he has chosen "influence" towards the center, while giving you solid territory in the corner.  Your corner is very big; this is a great trade for you!]
+;W[ef];B[ff];W[fe];B[gf];W[ge];B[he];W[hd];B[ie];W[id];B[jd]
+MA[gd]CR[hd][id]C[jasond: I thought this exchange was good for me at the time, but now I'm not so sure.  Could I have played better here?
+
+This actually worked out very well for you.  You have a weakness at G16, which he can use to kill your two marked stones, but this seems small compared to other corner/edge moves on the board.  Enclosing at P17 was a great idea.]
+;W[oc];B[jc];W[qj]C[Also very wise!  This was a big move.   One has to keep a careful eye on that bottom edge so your opponent cannot easily claim the whole edge.]
+;B[qn]CR[ci][jc][jd][he][ie][ff][gf][eg][eh]SQ[oj][iq][jq]C[I question the value of your next move.  If his wall (marked) were not there, this move would have lots of potential in the center.
+
+The massive unclaimed edge at the bottom seems much bigger to me.  I might play at J3 or K3 instead.
+
+What's the score at this point?  I count at least 40 points in the top left, and probably another 40 in the top right.  For him... not nearly as much.  He has to make that wall work, or he'll be crushed.]
+;W[oj]CR[ci][jc][jd][he][ie][ff][gf][eg][eh]SQ[iq][jq]C[jasond: Trying to start making territory in the center.  Should I have played more aggressively here?]
+;B[mq];W[eq]C[Absolutely!  Playing somewhere on this edge seems essential at this point.  Great job!]
+;B[gq];W[eo];B[dn];W[hp]C[jasond: I thought I might try to enclose G3, but it turns out this was too weak of a shape.]
+;B[fp];W[ep];B[hq];W[fq];B[ip];W[ho];B[fn];W[fo];B[gn];W[io]
+;B[go];W[gp];B[jp];W[cq];B[bp];W[bq];B[jn]C[At this point, it looks like you can live in the corner.  That'll be worth another 10 points for you.  But more importantly, you've completely denied him that corner, where he should have gotten lots of points.  Black is in serious trouble!]
+;W[lc];B[ic];W[gc];B[jj];W[lh];B[jf];W[ke];B[kf];W[lf];B[kd]
+;W[ld];B[hc];W[gd];B[je];W[le];B[mj];W[nh];B[mg];W[ng];B[lg]
+;W[mh];B[kh];W[mf];B[kg];W[nf];B[nk];W[ql];B[om]C[jasond: I was feeling pretty hopeless at this point.  Were there any opportunities for invasion/reduction that I was overlooking?]
+;W[ck]C[jasond: My last ditch effort to make territory on the side.]
+;B[cm];W[di];B[dh];W[ch];B[dj];W[ei];B[fi];W[cj];B[bi];W[bh]
+MA[di][ei][cj][ck]C[Take a minute and count the score, assuming your marked stones die.  I'll give you my answer on Move 89.]
+;B[ej]SQ[hd][id][la][lb][lc][ld][ma][mb][mc][md][na][nb][nc]
+[nd][oa][ob][oc][od][pa][pb][pc][pd][qa][qb][qc][qd][ra][rb]
+[rc][rd][sa][sb][sc][sd][aa][ab][ac][ad][ae][ba][bb][bc][bd]
+[be][ca][cb][cc][cd][ce][da][db][dc][dd][de][ea][eb][ec][ed]
+[ee][fa][fb][fc][fd][fe][ga][gb][gc][gd][ge][ke][le][me][ne]
+[oe][pe][qe][re][se][af][bf][cf][df][ef][lf][mf][nf][of][pf]
+[qf][rf][sf][ag][bg][cg][dg][ng][og][pg][qg][rg][sg][ah][bh]
+[ch][lh][mh][nh][oh][ph][qh][rh][sh][oi][oj][pi][pj][qi][qj]
+[ri][rj][si][sj][qk][ql][rk][rl][sk][sl][ho][io][eo][ep][fo]
+[fp][gp][hp][aq][ar][as][bq][br][bs][cq][cr][cs][dq][dr][ds]
+[eq][er][es][fq][fr][fs]C[For me, it's easier to count with Chinese scoring, which works always comes within one point of Japanese scoring, but seems much faster to count.  I've marked your points.  There are 361 points total on the board; you need only 181 to win.
+
+You have 49 on the top left.
+You have 79 on the top right.
+You have 26 on the bottom left.
+Your total is 154 of *solid* points.  All you need is to grab at least 27 points and the game is yours.  Where can you get these?
+
+There are two big sources of points for you, because there are two boundaries which are far from decided: the bottom left corner and the right edge.
+
+I've shown a few variations on the bottom left corner.
+
+As for the right edge, I'm sure that by playing creatively, you would gain a lot, because of the threat to connect with J5.  His four stones are far from a secure wall.
+
+Overall, you've played a very strong game.  Keep up the good work.]
+(;W[in]C[0];B[im];W[jm];B[km];W[jl];B[kl];W[jo];B[kn];W[ko]
+C[Extend a snake into his territory.  And when he eventually contains it, ...]
+;B[tt];W[hm];B[il];W[hl];B[jk];W[hn]C[Get another snake into his territory.
+
+He loses so many points this way, you surely win!])
+(;W[hn];B[hm]C[If he doesn't play here, you can dig into his "territory"]
+;W[im];B[in]C[If he doesn't cut here, J7 will dig into his territory.]
+;W[gm];B[hl]C[If he doesn't escape here, you capture and dig into his territory.]
+;W[en];B[fm]C[If he doesn't defend here, you capture his three and cut into his territory.]
+;W[em];B[fl]C[Again, he keeps his four stones alive.  And you connect, probably killing his whole left side.]
+;W[dl])
+(;W[jo]C[11 extra points];B[ko];W[in];B[im];W[kn];B[jm];W[kp]
+;B[lo];W[iq];B[jq];W[ir];B[jr];W[hr]SQ[in][jo][ir][gq][hq][iq]
+[gr][gs][hs][is]C[This is much simpler than the others, but leaves openings for you on the left edge.]
+;B[tt];W[co];B[do];W[bo]
+(;B[dp];W[ap];B[bn];W[an];B[am];W[ao];B[cn];W[aq]SQ[bo][co]
+[an][ao][ap])
+(;B[ao];W[dp];B[ap];W[an])))

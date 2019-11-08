@@ -1,0 +1,176 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+PB[holden]
+BR[9k]
+PW[barakameek]
+WR[8k]
+KM[6.5]
+DT[2009-10-03]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[W+Resign]
+TM[1500]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+C[Hi barakameek, my name's Josh.  I'll be the reviewer for your game.  I am 2 kyu on KGS and play as Kashomon.  I'll mostly focus on your (that is white's) game, but I'll supply some comments for black as well.  Since you submitted the review, I'll refer to you as 'you' and Holden as 'black'
+
+In general, I think most of the improvements I suggest making concern shape.  Also, I identified some moves I thought were slow, which could be improved by tenuki-ing.  Lastly, I would suggest spending some time to think about when to attack and whether specific attacks work before the attacks are made.  For example, the white stones in the top-middle could have been abandoned much sooner.]
+;B[pp];W[dd];B[dp];W[qd];B[od];W[pf];B[qc];W[rc];B[pc];W[re]
+;B[kc];W[ic];B[jq];W[mc];B[ld];W[md]
+(;B[ne]C[Josh: Yikes!  Not good for black at all.  It's as if black is forcing you to separate.]
+;W[me];B[le];W[mf];B[nb]
+(;W[nc]C[Josh:  This isn't the right way.  Just moving down to separate is -much- better (see variation).  This let's black solidify.]
+;B[mb];W[oc];B[ob];W[pd];B[og];W[of];B[lf];W[qn];B[qk]C[Josh:  A little bit of an overplay for black, I think -- especially with all your thickness.]
+
+(;W[qi]LB[qn:A]C[Josh:  This extension is too cramped.  You want to push toward your thickness.  By playing this way, you hurt (A).]
+;B[ok];W[qq]LB[on:A]C[Josh: Looks like a good choice.  Neither of black's options look particularly appetizing.  On the other hand, Black has the chance to make a vast moyo.  Perhaps going at A would have been better?]
+
+(;B[pq];W[qp]
+(;B[on];W[ng]C[Josh: Seems like the right way to get rid of that aji, but this move is way too slow. Black has a chance for an epic moyo on the bottom side.]
+
+(;B[mq]C[Josh: Ack.  Rather cramped for black.]
+(;W[pl];B[pk];W[po];B[oo]LB[ol:A][qm:B]SQ[pl][po]C[Josh: These two marked moves are aji-keshi.  They remove black's weakesses and get you very little.  The cut at (A) would be nice for you, but doesn't work very well since black has a follow up at (B).]
+
+(;W[pr]
+(;B[oq];W[cn];B[fq]LB[en:A]C[Josh: I think you have the chance to really inhibit black's moyo by playing at A, but it's a rather new joseki and I can't speak to it's merits.]
+
+(;W[bp];B[cq];W[ck];B[gc]
+(;W[fc]LB[ec:A]SQ[ic]C[Josh: This is not a good move.  Contacting only makes stones stronger -- and in this case making black stronger is not very good!  It both leaves the corner open and hurts the marked stone.  There are several better variations.  (A) defends the corner much better
+
+In any case, this sort of move should be avoided.];B[gd];W[df]
+;B[ch];W[cg];B[dh]
+(;W[cc]LB[ff:A]SQ[gc][gd][ch][dh]C[Josh: I'm not sure if this move is needed.  It looks like black has several good moves for reducing the corner, though.  Don't worry about the variations too much -- they were mostly because I was curious.  A better move might have been to go at A and attack the two marked groups of stones.   At the very least, your move looks a little bit slow.]
+;B[fm]
+(;W[hq]LB[fk:A][jm:B]C[Josh: This is really dangerous for you.  The space could be more adequately reduced with (A) or (B).  (A) is nice because it attacks the two black stones on the left, but it might induce black to build a bigger moyo.]
+
+(;B[ir]LB[ho:C][io:B][ip:A]C[Josh:  This isn't a very good move for black.  It's purpose is seemingly to protect the territory on the bottom side, but black is so strong that the variations at A, B, and C would have been much bigger dangers.]
+
+(;W[ho];B[hm];W[in];B[im]
+(;W[ko];B[ip]C[Josh: This is a good shape killing move.  I like it.]
+;W[io]
+(;B[jm];W[jp]
+(;B[kp]C[Josh: This doesn't help black very much];W[jo];B[kq]
+;W[iq]
+(;B[gp];W[hp];B[mm];W[hr]
+(;B[jr];W[fr];B[er];W[gq]
+(;B[fs];W[fp];B[gr];W[fo];B[lo];W[eq];B[fr];W[do];B[ep];W[cp]
+;B[eo];W[en];B[dq];W[oh]
+(;B[ph];W[pi];B[oi];W[nh];B[qh];W[oj];B[ni];W[nj];B[mi];W[rh]
+;B[pj];W[qg]
+(;B[gg];W[lg]C[Good move.];B[kg];W[lh];B[kh];W[li];B[mj];W[fd]
+
+(;B[fe];W[lc]C[Josh: A reasonable idea, but black has some better follow ups.]
+
+(;B[lb];W[kd];B[kf];W[kb];B[jc]LB[kb:A]C[Josh: Sacrifice (A)!  You can connect underneath.]
+
+(;W[jb];B[jd];W[id];B[ke];W[je];B[kd];W[gb];B[hb];W[fb];B[hc]
+;W[ha]C[Josh: After here, the your moves on the top don't help very much.]
+;B[ia];W[ge];B[he];W[ee];B[gf];W[lj];B[jj];W[ib];B[ga];W[ki]
+;B[ji];W[jh];B[jf];W[ql];B[or]C[Josh: very small.];W[rk];B[bq]
+LB[dm:B][fn:A]C[Josh: This is a pretty big move and pretty threatening, although it may not seem like it.  There is the cut at (A) that's been hanging around, as well as the forcing move at (B), both of which help black to get some center points.]
+;W[nk]
+(;B[mk];W[nl]
+(;B[dm];W[dn]
+(;B[cl]C[Really bad shape!  It's too bad, because it's a really nice idea for black]
+
+(;W[cm]LB[bl:A]C[Josh: Looks dangerous.  (A) would have been a simpler.]
+
+(;B[bl];W[em]
+(;B[el];W[dl];B[dk]
+(;W[bk];B[dm];W[if];B[ie];W[dl];B[mh];W[ml];B[dm];W[jg];B[je]
+;W[dl];B[gn];W[go];B[dm];W[bm];B[al];W[dl];B[ol];W[om];B[dm]
+;W[ff];B[dl];W[ge];B[fn];W[hf];B[fe];W[fg]
+(;B[lk]C[Josh: Whoops. Black should have connected, of course. The score would have been quite close otherwise.]
+;W[ge];B[nm];W[hd];B[bo];W[qj];B[ll];W[qb];B[bg];W[bf])
+(;B[ge]
+(;W[lk])
+(;W[fh];B[lk];W[mg];B[ll];W[nm];B[nn];W[pm];B[gi])))
+(;W[fl];B[dm];W[gm];B[fk];W[gl]C[Josh: Seems better.]))
+(;B[dl])
+(;B[fn];W[go];B[dl];W[el]))
+(;B[dl];W[bl];B[fn];W[go];B[bk];W[bj];B[bm];W[ak];B[bn]C[Other problems with the move.]
+))
+(;W[bl]
+(;B[bn];W[bo];B[ao];W[bm])
+(;B[bm];W[cm];B[dl];W[bn])))
+(;B[cm]
+(;W[em];B[fn];W[go];B[el];W[bm];B[bn];W[co];B[ap])
+(;W[fn];B[em];W[bm];B[bl];W[bn];B[cl])))
+(;B[em];W[dm]
+(;B[fn];W[go];B[dn];W[co];B[dl];W[cm];B[cl];W[bl])
+(;B[go];W[gn];B[fn];W[go];B[dl];W[cl];B[dn];W[cm];B[co];W[bo]
+)))
+(;B[em];W[fn];B[dm];W[dn];B[cm];W[bm];B[bl];W[bn];B[cl];W[nl]
+))
+(;W[jd];B[jb];W[ib];B[ka];W[gb]C[Success!];B[id];W[hd];B[ie]
+;W[ge]))
+(;B[kb]C[This would have better avoided the cut.]))
+(;B[ff]))
+(;B[lh]C[Seems like a good move.];W[ff];B[qm]))
+(;B[em]C[It might be a good idea for black to pursue this now.]
+))
+(;B[fp]))
+(;B[js]C[Good for a ko.];W[fr];B[er];W[gq];B[fp];W[gs];B[hs]
+))
+(;B[hr]C[Better.  Now there's no way to get eyes on the bottom]
+;W[gp];B[fp];W[fo];B[gn];W[go];B[eo];W[en];B[fn]))
+(;B[kq]C[Looks like a lot better shape];W[iq];B[fo];W[hr];B[js]
+;W[fr];B[er];W[gq];B[gp];W[hp];B[fs]))
+(;B[km]C[Better.  Black encloses faster]))
+(;W[kn]C[Here looks promising]))
+(;W[hm]C[I think this would be better.  The fight is crazy hard to try to live down there.]
+)
+(;W[hn]C[Perhaps this?]))
+(;B[io])
+(;B[ip]))
+(;W[fk];B[gl]))
+(;W[tt]
+(;B[cd]
+(;W[ce];B[dc];W[ec];B[ed];W[de];B[fd];W[cc];B[db];W[cb];B[fb]
+)
+(;W[cc]C[I have no idea what the best move here is for black.]
+))
+(;B[cc]
+(;W[dc];B[ce]
+(;W[cd];B[bg])
+(;W[de];B[bg];W[cf];B[bf];W[cd];B[be];W[bd];B[fb];W[eb];B[gb]
+;W[cb]))
+(;W[cd]
+(;B[dc];W[ec]
+(;B[ed];W[fd];B[ee];W[db])
+(;B[eb];W[fb];B[ed];W[db];B[cb];W[ea];B[fd]))
+(;B[fb]
+(;W[ec];B[eb];W[db];B[dc])
+(;W[dc];B[db];W[cb];B[eb])))))
+(;W[ff]C[One idea]))
+(;W[ec]C[Much better.]))
+(;W[en];B[bp];W[dj]))
+(;B[or]C[Josh:  Here is better than that ugly empty triangle for black, but it's just a side note.]
+))
+(;W[ol];B[qm];W[ql];B[pn];W[qo];B[rm];W[pm]
+(;B[nl];W[rl];B[rk];W[rn];B[om];W[sm];B[nj])
+(;B[rl];W[nl]C[Black could fight this way, but it's not necessary]
+)))
+(;W[cn]C[Might as well play this now.])
+(;W[qm]LB[ol:A][om:B]C[This is a nice move to consider (perhaps for later) because now you can think about cutting at A or B]
+))
+(;B[cj]C[Really good for black.])
+(;B[cf]C[Or this even.]))
+(;B[po];W[qm];B[om]C[Josh: Looks like better shape for Black.]
+))
+(;B[qp];W[pq];B[op];W[rp];B[ro];W[rq];B[qo];W[nq]LB[qn:A]SQ[ok]
+[qk][qo][ro][op][pp][qp]C[Now, the space between the stones is cramped and your stone at (A) certainly has lots of nasty aji]
+))
+(;W[on];B[np];W[ok];B[qh]C[Something like this might work]))
+(;W[mb]LB[nc:A][nf:B]C[Josh: Much better than in the game (A) -- keeps black totally separated.  Now you can attack either group or simply turn at (B) and worry about killing later.]
+
+(;B[nc];W[rb]C[Josh: Black can only get one eye here])
+(;B[rb];W[ob]C[Josh:  If you wanted to try to kill, there's only one eye here.]
+
+(;B[pb];W[nc]
+(;B[qa];W[sb])
+(;B[sb];W[pa];B[qa];W[oa]))
+(;B[nc];W[sb];B[pb];W[na]))))
+(;B[me];W[ne];B[nd];W[le];B[mf];W[kb]
+(;B[lb];W[lc];B[kd])
+(;B[lc];W[mb];B[lb];W[la];B[jb];W[jc];B[ka];W[ma])))

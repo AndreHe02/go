@@ -1,0 +1,228 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+PB[doctorx]
+BR[3k]
+PW[Eranorn]
+WR[3k]
+KM[6.5]
+DT[2007-11-10]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[B+0.50]
+TM[1800]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+C[Hi, I'm Dieter Verhofstadt, 2-3d on KGS. My comments will be preceded by dv.
+
+General comments:
+
+- Although I'm not an advocate of focussing too much on joseki (root learning), you can surely learn something from doing so.
+- The most interesting part of this game is the beginning sequence in the lower left.
+- The sequence in the lower right gave an early disadvantage
+- You have a good sense of global balance.
+- You can improve by playing the hane more often instead of the straight stretch.
+
+-------------
+Hello,
+in this game, I'm Eranorn (White).
+I lost from 0,5 points, but I think I made many mistakes in the yose, and perhaps I should have kill the black invasion in the top left that made me lose a lot of points.
+Finally, there was a 1 point ko... I lost it, and then, the game :)
+
+I put a lot of questions in the game, I'll be happy if you can answer them.
+
+Thanks a lot !
+
+Eranorn];B[pc];W[cp];B[pp];W[dc];B[ep];W[gq];B[cq];W[dp]LB[bq:A]
+[dq:B]C[dv: This move deserves some comments.
+
+1) It allows for a "hane at the head of two stones" (see senseis.xmp.net/?HaneAtTheHeadOfTwo) and therefore an alarm must go off: can this be really good?
+
+2) But, as it happens, the move is possible, with many difficult variations. You'll find Kogo's joseki dictionary at http://waterfire.us/joseki.htm, where he elaborates on this joseki.
+
+My comment is: if you want to keep things simple, the outside hane (at A) is often technically the best solution. Rarely is the outside hane a bad response to a supported contact play.
+
+The inside hane (at B) leads to a standard joseki with many variations, so I refer to Kogo's for that one too.]
+;B[dq]C[dv: Hane at the head. Usually very bad to allow this but due to it being in the corner and a backup stone at G3, it happens to be possible.]
+;W[eq];B[eo]LB[bq:A]C[dv: As Kogo goes on to explain, this leads to either
+
+- a disadvantageous fight for Black
+- or White taking a big corner and Black outside thickness
+
+See variation.]
+(;W[er]C[White chooses the fight.];B[bp];W[co];B[bo];W[cn]LB[br:A]
+C[dv: Surprisingly so, this is still joseki.]
+(;B[bn]C[dv: But here, Black deviates from joseki and crawls one more time. This is bad. The theory behind crawling is:
+
+- if you do not crawl and it allows for a sente move by the opponent next on the same spot, then you should crawl
+- if you do not crawl and there is no sente move on the second line for the opponent next, then you should indeed omit the crawling
+
+See variation.]
+(;W[br]C[Was it the best thing to do ?
+
+dv: No. See variation, combined with earlier variations.];B[cm]
+C[dv: White has failed to extend and now suffers a couple of forcing moves.]
+;W[dn]
+(;B[bq]LB[em:A]C[dv: I think Black should sacrifice the corner now. See var.]
+;W[dm];B[cl]C[I'm forced to push, right ?]
+(;W[dl];B[lq]LB[ck:B][dk:C][go:A]C[dv: This is a lukewarm move. I would locally continue the ffight with A, B or even C.]
+
+(;W[qq]LB[ck:C][gn:A][jq:B]C[The timing isn't good no ?
+
+dv: I think White can catch the cutting stones at A. See var. That should be good enough. But the fight is very difficult. Therefore, it might be better to play at B or C]
+;B[pq]
+(;W[pr]LB[qp:A]C[dv: Now this is a big mistake. Rule of thumb: when you can choose between a move on the second line and one on the third, most of the time the one on the 3rd is better.]
+;B[or];W[qr];B[qp];W[rp];B[ro];W[sq];B[qn]LB[so:3][sp:4][rr:2]
+[sr:5][rs:1]C[dv: You will agree that this result is very very bad for White. It is even not yet alive. There is a ko, starting at Black 1. Both players seem not to have been aware of this throughout the game.]
+;W[ck];B[iq];W[go];B[bk];W[bj]C[dv: Very good! The double hane is strong.]
+;B[cj];W[dk];B[bl];W[ci];B[jd]C[Ladder breaker.];W[qe]LB[dj:A]
+C[Is it ok to approach here now ? What is the best ?
+
+dv: Just catch the stone at A. Yes, Black will make a big moyo on the right, but you'll have free hands to reduce it.]
+;B[qg];W[qc];B[pd];W[qd];B[qj]LB[pe:A]C[dv: Nonsensical move by Black.
+
+1. The top right screams for A, enclosing White and connecting the Black stones.
+2. The played move is way too close to the Black strength at the bottom.]
+;W[gd]LB[pe:A][dj:B]C[dv: I would play at A. Immobilizing two Black stones and moving out of the corner. Or still capture the ladder.]
+;B[dj];W[di];B[ej];W[ei];B[bi];W[bh];B[aj];W[fi];B[fj];W[jp]
+LB[fm:A]C[Isn't it an abuse ?
+
+dv: Yes. I see no reason not to connect and capture at A.];B[jq]
+;W[ip];B[hq];W[hp]
+(;B[fm]LB[fn:A]C[dv: Black could have made life very complicated for White by moving at A.]
+;W[fn];B[en];W[em]
+(;B[fl];W[fp];B[gi];W[fg];B[pe];W[qf];B[pf];W[rg];B[qh];W[rh]
+C[dv Good moves];B[ri]CR[jf][ig][jg]LB[pb:B][if:A][pi:C]C[Where should I play at this point ?
+
+dv: Yes, it is time to think about that. Clearly, a move at A would be huge for Black. White has big endgame at B and a forcing move at C. But where to play exactly to reduce? Let's count.
+
+You have three corners, of value 35, 10, 3 respectively, and about 10 points at the bottom. That's about 65 points, including komi, but taking into account the big corner is not 100% safe.
+
+Black has about 10 points at each side. So his centre must grow over 35 points
+
+I really can't say what is best here, but I give a try in the var.]
+
+(;W[gh];B[jf];W[hi]C[dv: this stone is worthless]
+(;B[kp]C[dv: See var.];W[os];B[nr]
+(;W[mg]C[Is it ok ? Too close to black's moyo ?
+
+dv: Yes,I think the invasion is too deep. See var.];B[jh];W[mi]
+;B[jj];W[mk];B[ln]LB[kl:B][km:A]C[dv: too gentle. A or B are severe.]
+;W[kl]C[Can be cut... How should I make shape ?];B[hm];W[jm]
+;B[jo];W[in];B[gn];W[fo];B[lj]
+(;W[oj]C[It take me a long time to play this move ? Is it right ?
+
+dv: I mentioned the forcing move a few times. See var.];B[mj]
+;W[nj];B[lk];W[ml];B[ll];W[oh]C[Better to play N7 now ?];B[ph]
+LB[og:A]C[dv:  A is better here, if at all necesssary.
+
+From here on White manages to live, but I'm pretty sure it shouldn't have happened.]
+;W[og];B[nf];W[mm];B[lm];W[mf];B[me];W[le];B[md];W[kf];B[ke]
+;W[ld];B[kg];W[pl]LB[ni:A][oi:1][pi:2][pj:3]C[I prefered making my second eyes, but was it needed ?
+
+dv: Yes even small life is a big success now. Also, A is not yet an eye. Black has 1,2,3]
+;B[lf];W[ic];B[jc];W[ib];B[jb];W[qb];B[pb]TR[ib][qb]C[dve: In both cases the hane was better;]
+;W[ja];B[ka];W[ia];B[lb];W[of];B[oe]LB[pi:A]C[What is the biggest here ? What should I play ?
+
+dv: A. It lives 100% and threatens a cut.];W[gr];B[pj];W[oi]
+;B[lg];W[ng];B[li];W[mh];B[pm];W[om];B[ql];W[pk]LB[ol:A]C[dv: A is good shape]
+;B[on];W[nm];B[bc]LB[bg:A]C[Here was the critical invasion... Black lived, but was it normal ? Could I kill this stone ?
+
+dv: It seems very hard for Black to live here. But there is the aji at A of course.]
+;W[cc];B[be];W[bb];B[cd]
+(;W[ac]C[dv: inviting the ko is trouble.];B[ad];W[ab];B[dd]
+;W[ec];B[bg];W[ah];B[cg];W[ch];B[ef];W[ed];B[bd];W[af];B[ag]
+;W[dg];B[df];W[ee];B[ff]C[Is it an abuse ? Don't you think I should D15 now ? (Is the variation right ?)
+
+dv: I agree it is abuse.]
+(;W[gf];B[fe];W[ge];B[eg]
+(;W[eh]C[dv: missing a chance];B[de]C[I think I lost a lost of points here I shouldn't lose... Even if it's not over yet, I think I lost the game with this successful invasion.]
+;W[ns];B[ms];W[ps];B[mr];W[mo]C[dv: the corner is still ko.]
+;B[sh];W[sf];B[no];W[mn];B[mp];W[lo];B[ko]C[Perhaps capturing the black stone at G11 ?]
+;W[hn];B[gj];W[js];B[is];W[ir];B[hr];W[hs];B[jr];W[is];B[ks]
+;W[gs];B[kr];W[cr];B[dr];W[ds];B[ar]C[I should B1 ? I didn't read it in the game, that's why I didn't play it... But it's worth 6 points here, it's big I think.]
+;W[gm];B[id];W[hc]LB[hd:A]C[dv: A possible];B[hd];W[fd]C[dv: not necessary]
+;B[hj];W[hh];B[qa]C[dv: very big endgame];W[ra];B[pa];W[sb]
+;B[ii];W[qk];B[rk];W[pi];B[qi];W[rl];B[pg]C[I don't think I could do something but perhaps was black thinking that he was ahead enough...
+
+dv: agree];W[sk];B[rj];W[qm];B[pn];W[hl];B[gl];W[im];B[rm];W[ql]
+;B[sm]C[B1 was 3 points bigger...];W[sl];B[so]C[dv :B loses the chance for ko]
+;W[ne]C[dv: dangerous: B can kill the corner and this is not a big threat.]
+;B[nd];W[rs];B[bs];W[kk];B[jk];W[kj];B[ki];W[if];B[ie];W[ig]
+;B[hk];W[ek];B[il];W[hm];B[jl];W[km]C[I lost points in here, right ?]
+;B[cs];W[es];B[io];W[ho];B[he];W[fk];B[gk];W[hf];B[ai];W[fh]
+;B[sp];W[rq];B[lh];W[sg];B[si];W[dh];B[nf]C[dv: Black will win this ko, because he has more threats.
+
+The half pointer is a nice ending to a swinging game.
+
+End of comments/];W[ak];B[al];W[ne];B[el];W[do];B[nf];W[rn]
+;B[sn];W[ne];B[rc];W[rd];B[nf];W[qo];B[po];W[ne];B[se];W[rf]
+;B[nf];W[kb];B[kc];W[ne];B[ol];W[ok];B[nf];W[la];B[ma];W[ne]
+;B[gc];W[gb];B[nf];W[bf];B[cf];W[ne];B[ha];W[fc];B[nf];W[lp]
+;B[kn];W[ne];B[hb];W[ga];B[nf];W[np];B[mq];W[ne];B[cb];W[ca]
+;B[nf];W[nn];B[oo];W[ne];B[ba];W[db];B[nf];W[ih];B[ne];W[tt]
+;B[tt]TW[aa][ba][da][ea][fa][ha][sa][cb][eb][fb][hb][rb][gc]
+[rc][sc][sd][re][se][gg][hg][nh][ni][nk][nl][ol][en][gn][eo]
+[ep][gp][fq][fr][rr][sr][fs][qs][ss]TB[la][na][oa][kb][mb][nb]
+[ob][lc][mc][nc][oc][kd][ld][od][ae][ce][je][le][af][bf][kf]
+[kh][ji][bj][ij][ak][ik][am][bm][an][rn][ao][qo][ap][np][op]
+[aq][kq][nq][oq][br][cr][lr][as][ls]C[Finally, I lost from 0,5 points ! Because of that last ko :(
+Could I have handled the ko better ?
+
+Thanks for commenting !
+Eranorn])
+(;W[de];B[dh];W[ce];B[eh];W[cf];B[fh];W[gj];B[gg];W[hg]))
+(;W[de]
+(;B[bf];W[ce];B[cf];W[gf];B[eg];W[dh])
+(;B[eg];W[cf];B[dh];W[bf];B[dg];W[gf];B[fe])
+(;B[gf];W[cf];B[bf];W[ce])))
+(;W[cg]C[dv: I see no way for B to live now.]
+(;B[bf];W[ag];B[ad];W[af];B[dd];W[ec];B[df];W[cf];B[ee];W[ge]
+)
+(;B[af];W[ag];B[ad];W[bf];B[cf];W[bg];B[de];W[dd])))
+(;W[pi];B[qi];W[nl];B[mj];W[nj];B[ni];W[oj];B[oh];W[pb];B[ob]
+;W[qb];B[nc];W[ic];B[jc];W[jb];B[kb];W[ib]LB[ah:A]C[dv: The endgame has started, with a big sente at A, but the game seems even.]
+))
+(;W[ki];B[lg];W[pb];B[ob];W[qb];B[nc];W[pi];B[qi];W[lh];B[mg]
+;W[ll]C[dv: This reducing tactic looks attractive]))
+(;B[ji]C[dv:  B is happy]))
+(;W[ig];B[kg];W[pb];B[ob];W[qb];B[nc];W[ic];B[jc];W[id];B[je]
+;W[pi];B[qi];W[kq];B[kr];W[kp];B[lr];W[ki];B[jh];W[kl]LB[nc:A]
+[je:B][lr:C]C[You can only hope of course that Black plays the submissive A,B,C]
+))
+(;B[el];W[fl];B[gm];W[ek];B[gl];W[fp];B[fk];W[fo]))
+(;B[fn];W[fl];B[gn];W[hl];B[in];W[jl];B[kn]))
+(;W[qp];B[qo];W[ro];B[qn];W[rn];B[qm];W[pr];B[or];W[qr]LB[dk:B]
+[oq:A]C[dv: Two issues here: Black may choose not to defend at A, leaving a weakness. Strategically, giving Black influence towards the "hot" position left, is not desirable.]
+))
+(;W[gn]
+(;B[gp];W[hp];B[go];W[ho];B[fn];W[fm];B[hn];W[gm];B[hq];W[fp]
+;B[fo];W[fq])
+(;B[fn];W[gm];B[fm];W[fl];B[go];W[ho];B[gp];W[hp];B[gl]
+(;W[fk];B[hq];W[in];B[fq];W[gr];B[fr];W[fs];B[fp];W[hr];B[iq]
+;W[ir];B[jq];W[em];B[dr];W[es];B[gs];W[hs];B[ds];W[gs];B[jr]
+)
+(;W[fp];B[fo];W[fq];B[el];W[fk];B[ek];W[em];B[fj];W[gk];B[hl]
+;W[ej];B[dk];W[hm];B[im];W[hn];B[il]))))
+(;W[gn];B[gp];W[hp];B[go];W[ho];B[fn]))
+(;B[em];W[bq];B[dm];W[cr];B[de]TR[cn][dn][co][cp][dp][cq][dq]
+C[dv: Black can take sente here. All the marked stones have no function but their 2 point value.]
+))
+(;W[cm]LB[em:A][br:B]C[dv: The best thing to do here is to walk along on the third line. If your opponent crawls (on the second) and you walk ahead of him on the third, then you are acquiring third line influence. We know the balance in Go lies on 3rd line territory versus 4th line influence. The balance 2nd - 3rd is clearly in favour of the influence.
+
+See continuations.]
+(;B[br];W[em]C[If Black comes back to live, then White has an ideal attack & defense move.]
+;B[go];W[ip]C[This fight is rather difficult for Black])
+(;B[em]LB[bq:A][br:B]C[If Black defends his centre stones, the corner can be attacked severely.
+
+A is gentle but safe. B is fierce and severe.]
+(;W[bq];B[br];W[cr];B[aq];W[dr];B[bq];W[bm];B[bs];W[dk]C[Black lives in a miserable fashion and floats in the center, while White nicely develops along two sides.]
+)
+(;W[br];B[bq];W[cr];B[dr];W[ds];B[ar];W[cs];B[bm];W[cl]C[Black's stones are crawling miserably.]
+))))
+(;B[br]LB[bn:A]C[dv: This is how the joseki continues. White A is not sente against the life of the Black group, so it is good for Black not to crawl there.]
+;W[dm];B[go];W[ip]C[Kogo goes on to tell that this fight favors White.]
+))
+(;W[bq];B[fq];W[er];B[fr];W[cr];B[gp];W[dn]C[dv: White has a big corner and pokes his head out to left side and centre.
+
+Black has strong influence towards bottom and centre AND keeps the initiative (sente).]
+))

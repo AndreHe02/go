@@ -1,0 +1,146 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+PB[bbastoss]
+BR[16k]
+PW[jepper]
+WR[15k]
+KM[-5.5]
+DT[2007-10-21]
+PC[IGS-PandaNet]
+RE[B+36.50]
+TM[600]
+RU[Japanese]
+
+C[Hi!
+
+I don't think there is good or bad in go. Maybe on higher levels, but I cannot call most moves "bad" without the possibility that I'm wrong.
+
+I'll be showing some ideas and I hope some of them will be useful to you in the future.
+
+As for your questions:
+- at move99 white has a serious weakness that has to be protected first
+- after move 214 the game is lost for white. Damage can be reduced (as I show in variation) but black still wins. Silly mistakes happen to everyone. Then again, awareness is also part of the game!]
+;B[pp];W[cp];B[pd];W[dc];B[kj]TR[pi][pj][qj][pk]C[Black has chosen an unusual opening. Probably I'd have answered somewhere around Q10, but that's just intuition.]
+;W[nc];B[eq];W[do];B[ce];W[ed]C[Though black's groups are weaker I think I'd prefer black here.]
+;B[ch];W[fp]
+(;B[gq];W[df];B[cf];W[pf]
+(;B[ic]C[It's too early to invade. This creates one more weak group for black while leaves the Q16 stone alone. Basically this is trading the corner for nothing.]
+
+(;W[gc]C[This secures the D17 group but I think white should aim for the upper right corner first.]
+;B[lc];W[qc]C[Good!]
+(;B[ij]C[This is meaningless. Black should either put up a fight at the corner and gain some territory meanwhile (on the right side or at the top), or go directly for territory. I think I'd attack the corner.]
+;W[qm];B[rp]TR[nq]C[This leaves weakness.];W[fq];B[fr];W[mp]
+TR[nq]C[Too high. O3 is better.];B[nq];W[iq];B[cq];W[cd]TR[qi]
+[ck]C[I think it's overplay a bit. The D17 group lives already and there are still big points on the board (marked).]
+;B[qi]TR[pd][kj][pp][rp]C[Indeed! Good one. This move works well with the marked stones.]
+;W[qd];B[qg]
+(;W[nm]TR[qm][mp][iq]C[This is too loose. The marked stones are very weak.
+
+Also black has managed to get use of the center stones. J10 and L10 are working good now.]
+
+(;B[cn]C[Too aggressive.];W[ck];B[bl];W[qo];B[qp];W[np];B[oq]
+;W[qj]TR[nm][qm][qo][mp][np]C[This white group is still weak.]
+
+(;B[ok]TR[qi][pj]C[The diagonal jump always has weakness in the middle. Especially with a touching stone like R10.
+Better to just hane.];W[pj];B[nj];W[pg];B[rj];W[rk];B[sj];W[sk]
+;B[rh];W[oi]TR[pj][qj][rk][sk]C[I don't like white's shape. It has weakness at R9.]
+
+(;B[re];W[qe];B[qf];W[ld]C[Good!];B[kd];W[md];B[bp];W[dq];B[dr]
+TR[do][cp][fp][dq][fq]C[This white group is almost dead. You shouldn't leave it that way.]
+;W[jk]
+(;B[gl]C[This doesn't really do anything.];W[hp];B[mg];W[di]
+;B[bj];W[cl];B[bm];W[mh];B[lh];W[mi];B[ll];W[jj];B[jm];W[kk]
+;B[lj];W[ik];B[gf];W[lg];B[kg];W[lf];B[li];W[lk];B[ji];W[mj]
+;B[kf]
+(;W[ii];B[jh]
+(;W[dn];B[lo];W[mq];B[mr];W[lr];B[ms];W[ls];B[or]TR[lq]C[Again, the weakness at M3 is similar to the R9 shape.]
+;W[po]
+(;B[io]
+(;W[jo];B[jp];W[ko];B[kp];W[hm];B[im];W[ml];B[lm];W[ho];B[kn]
+;W[he];B[if];W[hi];B[hn];W[in];B[jn];W[dp];B[br];W[gm];B[gn]
+;W[hl];B[fh];W[hf];B[hg];W[gg];B[fg];W[gh];B[gi];W[hh];B[ig]
+;W[gj];B[fi];W[dh];B[ci];W[fn];B[le];W[mf];B[me];W[nf];B[ne]
+;W[nd];B[oe];W[pc];B[ej];W[cj];B[bk];W[cg];B[bg];W[dg];B[be]
+;W[od];B[pe];W[of];B[mn];W[nn];B[ke];W[hr];B[gr];W[jq];B[lq]
+;W[kq];B[lp];W[kr];B[rn];W[ro];B[so];W[rm];B[oo];W[no];B[on]
+;W[pn];B[op];W[om];B[hq];W[gp];B[ip];W[is];B[jr];W[js];B[mb]
+;W[nb];B[hb];W[gb];B[ie];W[hd];B[de];W[ee];B[ef];W[dj];B[rd]
+;W[bd];B[ph];W[oh];B[pi];W[oj];B[rc];W[rb];B[sb];W[qb];B[co]
+;W[cm];B[fm];W[go];B[in];W[em];B[na];W[oa];B[ma];W[ob];B[fl]
+;W[eo];B[kl];W[sm];B[hk];W[gk];B[il]
+(;W[hj];B[ek];W[el];B[fk];W[id];B[jd];W[hc];B[ib];W[ae];B[bf]
+;W[af];B[ag];W[bh];B[bi];W[ah];B[ad];W[ae];B[ac];W[dd];B[ai]
+;W[bc];B[ab];W[bb];B[af];W[mc];B[kb];W[ge];B[ff];W[sn];B[sp]
+;W[dk];B[hl];W[fe];B[er];W[ep];B[ga];W[fa];B[ha];W[fb];B[sc]
+;W[ra];B[ae];W[ba];B[fj];W[ij];B[ih];W[mm];B[jl];W[mk];B[mo]
+;W[gs];B[fs];W[hs];B[tt];W[tt];B[tt]TW[ca][da][ea][pa][qa][cb]
+[db][eb][pb][cc][ec][fc][oc][fd][gd][mg][ng][og][nh][ni][nj]
+[nk][ok][pk][qk][dl][nl][ol][pl][ql][rl][sl][dm][pm][en][fo]
+[ir][jr][ks]TB[ia][ja][ka][la][jb][lb][jc][kc][sd][je][se][jf]
+[rf][sf][jg][rg][sg][ah][bh][kh][qh][sh][ki][ri][si][aj][ak]
+[al][am][gm][hm][km][an][bn][ln][ao][bo][jo][ko][ap][aq][bq]
+[pq][qq][rq][sq][ar][cr][nr][pr][qr][rr][sr][as][bs][cs][ds]
+[es][ns][os][ps][qs][rs][ss])
+(;W[fj]C[This reduces damage by a fair amount (see variations) but black still wins.
+
+This is the last comment.]
+(;B[fk];W[hj]
+(;B[ek];W[ei])
+(;B[ei];W[ek];B[el];W[dk];B[dl];W[dm];B[ih];W[hl];B[gm];W[mk]
+)
+(;B[ih];W[hl];B[ei];W[ek];B[el];W[dk];B[dl];W[dm];B[gm]))
+(;B[ek];W[ei])
+(;B[hj];W[hl])
+(;B[ei];W[ek];B[fk];W[hj];B[el];W[dk];B[dl];W[dm];B[ih];W[hl]
+;B[gm];W[mk])))
+(;W[kq]))
+(;B[lq];W[lp];B[kq]))
+(;W[kh];B[ki];W[ih];B[jg];W[hj]))
+(;W[kh];B[ki];W[ii];B[jh];W[ih]
+(;B[hj];W[jg];B[kh];W[ke];B[jf];W[je]
+(;B[ig];W[if])
+(;B[if];W[ml]))
+(;B[jg];W[hj])))
+(;B[dp]))
+(;B[ql]
+(;W[pl];B[qk];W[rl];B[pk];W[rm];B[pn];W[qn];B[om];W[pm];B[ol]
+;W[po];B[oo];W[on];B[nn];W[ro];B[sn];W[sm];B[so];W[no];B[pn]
+C[A ko to live.])
+(;W[qk]
+(;B[pl];W[rl];B[pm];W[rn]C[This is OK for white.])
+(;B[rl];W[pl];B[rm];W[rn];B[pm];W[qn];B[om];W[ol];B[nl];W[pk]
+;B[nn];W[mm];B[oo]C[This does not work for black...])))
+(;B[qk]
+(;W[ql];B[pk];W[rm]
+(;B[on];W[om];B[pm];W[pn];B[pl];W[oo]C[Not good for black.]
+)
+(;B[ph];W[oh];B[og];W[ng];B[of]
+(;W[oe]C[The ladder doesn't work here.];B[nf];W[mf];B[ne];W[nd]
+;B[me];W[le];B[md])
+(;W[nf];B[oe]
+(;W[nh];B[qe])
+(;W[pi];B[qh];W[qe];B[nh];W[ni];B[mh];W[mi];B[lh];W[ne];B[nd]
+;W[md];B[od];W[me];B[mj]))
+(;W[pe];B[pi];W[oj];B[nh])))
+(;W[pk];B[ql];W[rl];B[pl];W[ol];B[pm];W[pn];B[om];W[on]C[Luckily the leadder works for white.]
+)))
+(;B[pn]
+(;W[po];B[qn]
+(;W[rn];B[ro];W[oo];B[rm])
+(;W[ro];B[rn]
+(;W[sn];B[sm];W[rm];B[oo]
+(;W[so];B[sp])
+(;W[sl];B[so]))
+(;W[so];B[oo];W[sn];B[sm])))
+(;W[qn];B[po]))
+(;B[pj]))
+(;B[mq])
+(;B[cl]))
+(;W[mq])
+(;W[qk]C[Maybe. But white has little space to live here.]))
+(;B[nd])
+(;B[qh]C[This is risky...];W[qj];B[qf]))
+(;W[qc]))
+(;B[oe]C[This strengthens the Q16 group while weakens and separates white's stones.]
+))
+(;B[pj]C[This is better for black I think.]))

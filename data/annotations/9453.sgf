@@ -1,0 +1,127 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.16]
+
+GN[2014-05-31a]
+PB[dse]
+BR[5k]
+PW[Kalgan]
+WR[4k]
+KM[0.5]
+DT[2014-05-31]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[W+4.5]
+TM[1800]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+C[Thank you for the review! In this game I didn't feel I made any big mistakes, so I am interested in hearing your thoughts on the key moves that lost the game for me. I added some notes on my reasoning for certain moves.
+
+H: I've reviewed the game, doing my best to point out the biggest areas where a different choice would have made the game easier for black.]
+;B[pc];W[dd];B[qp];W[oq]
+(;B[lp]C[H: This pincer looks strange here.  I'm not sure what you expected the result to be.]
+;W[on]
+(;B[dp]C[I felt compelled to take the last corner instead of continuing in the bottom right, maybe a mistake but I think it turned out OK?
+
+H: At this point black may end up buried, which is bad for black.]
+;W[qo];B[pq];W[rp];B[rq];W[pp];B[qq];W[op];B[ro];W[rn];B[sp]
+;W[qm]LB[lp:A]C[H: A is now weak, and the right looks promising for white.  This can't be considered a good result for black.]
+;B[qe]
+(;W[fq];B[hq];W[fo];B[dn];W[dr]
+(;B[jd]LB[cq:A]C[This seemed like the bigger move?
+
+H: This was big, but A is urgent.];W[cg]
+(;B[ho]LB[cq:A][hq:B]C[H: This direction doesn't make many points, and your shape is still weak.  White gets to gain safety with A, and can still attack the B group later.]
+;W[cq];B[ck]LB[bo:A]C[H: This move doesn't accomplish much; white can still gut your territory with A]
+;W[co];B[cn];W[do];B[eo];W[ep];B[bo];W[cp];B[en];W[gn];B[pi]
+C[H: Good plan.  Be careful though--white has lots of options to invade, still, and r7 is thick.]
+;W[qj]C[H: This is a thank you move.  Black solidifies and is under no pressure here.]
+;B[qi]C[H: Black is happy for this.];W[hc]C[H: This induces more solidification for black.]
+
+(;B[pj]LB[hc:A]C[H: Ignoring the move at A lets white invade with impunity.]
+;W[ld];B[jf];W[oe]
+(;B[nc]C[H: This is passive.];W[ke];B[je];W[og]
+(;B[pf];W[nh];B[kd];W[le];B[lc];W[pd]
+(;B[qc];W[qd];B[rd];W[oc];B[ob];W[od];B[of];W[rc];B[rb];W[nf]
+;B[sc];W[rj];B[ne]C[H: This is a ko threat.];W[nd]C[This was a mistake, I misread it as be sente.]
+;B[md];W[me];B[mc];W[lg]
+(;B[fn];W[go];B[fk];W[dj];B[cj];W[ip];B[hp];W[kp];B[mr];W[or]
+;B[kq];W[sn];B[so];W[sr];B[rr]
+(;W[ko];B[jq];W[lo];B[fc]LB[cc:A]C[H: Just invade at A]
+(;W[gd];B[cc];W[dc]
+(;B[db];W[cd];B[bc];W[eb];B[ca]
+(;W[fb];B[bb];W[jb];B[kb];W[jc];B[kc];W[di];B[be];W[bd];B[ad]
+;W[bf];B[ce];W[de];B[gf]C[I was unsure where to move here. Maybe somethin around M10 would have been better?
+
+H: This prevents white from creating any more of a framework with this group.  I can't fault this move.]
+;W[ff];B[gg];W[fg];B[ri];W[pk];B[ok];W[pl]LB[aa:4][ga:19][pa:15]
+[mg:3][sg:12][al:9][sl:12][as:15][ks:8][ss:6]SQ[ea][ia][ja]
+[ka][ac][ic][fe][cf][lf][pg][ah][bh][eh][mh][ph][ci][si][aj]
+[bj][sj][dl][dm][om][bn][ao][oo][ap][bp][iq][lq][fr][hr][qr]
+[fs][hs][ms][qs]C[H: If we count now:
+Black: 54
+White: 49
+
+We can decide that for black to win, the advantage just needs to be maintained.]
+;B[nj];W[li]
+(;B[jp];W[jo];B[io];W[mp];B[jh];W[mk]TR[ll][nl][ol][lm][ln]
+C[H: white aims to carve out territory here]
+(;B[im];W[gl];B[fl];W[dk];B[dl];W[jm];B[jl];W[km];B[kl];W[ll]
+;B[ol];W[om];B[bh];W[cf];B[gk];W[il];B[ik];W[hl];B[hk];W[in]
+;B[fh];W[eh];B[fi];W[ji];B[ii];W[jk];B[jj];W[kk];B[rk];W[qk]
+;B[sj];W[rl];B[sk];W[sl];B[si];W[ae]
+(;B[ac]C[H: This was worth two points in gote.];W[pg];B[qg]
+;W[lq];B[lr];W[ps];B[qs];W[bp]
+(;B[ib]C[Had trouble deciding between this and G2.
+
+H: G2 might end sente.  This is guaranteed not to.];W[ic];B[ja]
+;W[hb];B[ia];W[ea];B[da];W[ha];B[ka];W[gr];B[hr];W[oi];B[oj]
+;W[ph];B[qh];W[nl];B[ge];W[fe];B[gq];W[fs];B[fp]C[Miscounted the liberties on this play.]
+;W[gp];B[hn];W[hm];B[ki];W[mi];B[ei];W[ch];B[ci];W[bn];B[bm]
+;W[ao];B[am];W[hs];B[ir];W[he];B[hf];W[bg];B[ah];W[ag];B[bi]
+;W[kg];B[ie];W[hd];B[pr];W[mq];B[os];W[ns];B[nr];W[ps];B[pm]
+;W[pn];B[os];W[sq];B[ss];W[ps];B[ms]C[I probably should have continued this fight but was short on time and mistakenly thought I was in the lead, so I played it safe.
+
+H: Yes, this ko was big.];W[os];B[is];W[nq];B[kr];W[ni];B[mj]
+;W[lj];B[kh];W[jg];B[ig];W[lh];B[kf];W[lf];B[ek];W[ej];B[fj]
+;W[dh];B[an];W[bo];B[gs];W[ba];B[aa];W[hs];B[ec];W[gb];B[gs]
+;W[sq];B[sr];W[hs];B[eq];W[dq];B[gs];W[fr];B[hs];W[fm];B[em]
+;W[gm];B[pe];W[ne];B[tt];W[tt]TW[fa][ga][ec][fc][gc][ed][fd]
+[be][ce][ee][af][df][ef][mf][dg][eg][mg][ng][mh][oh][lk][jl]
+[kl][ml][ql][im][lm][mm][nm][pm][rm][sm][jn][kn][ln][mn][nn]
+[qn][mo][no][oo][po][ap][dp][fp][lp][np][aq][bq][eq][ar][br]
+[cr][er][as][bs][cs][ds][es]TB[ba][la][ma][na][oa][pa][qa][ra]
+[sa][ab][cb][lb][mb][nb][pb][qb][sb][rc][sd][re][se][if][qf]
+[rf][sf][hg][rg][sg][gh][hh][ih][rh][sh][ai][gi][hi][ji][aj]
+[bj][gj][hj][ij][ak][bk][al][bl][cl][el][cm][dm][ip][rp][iq]
+[sq][jr][qr][js][ks][ls][rs]C[H: White won by a slim margin, largely after a few misplays in direction.  Spending moves to build a moyo in the top-right and failing to use the stones to attack white's invasion were the biggest problems in this game.
+
+I'd recommend books covering topics such as direction of play and invasions for further study.]
+)
+(;B[gr];W[fr];B[ib]C[H: This looks better.]))
+(;B[ap]C[H: Much larger.]
+(;W[br])
+(;W[bp]C[H: This is a mistake.];B[aq];W[bn];B[ao];W[bm];B[bl]
+;W[bq];B[ar];W[br];B[cm];W[bs];B[am];W[as];B[an])))
+(;B[nl];W[mm]LB[mp:A]C[H: We can see how big A was, now.]))
+(;B[mp]C[H: This is bigger];W[mo];B[nm]C[H: White can no longer create a framework here.]
+))
+(;W[bd];B[bb];W[fb]C[H: Better for white.]))
+(;B[cd];W[ce];B[db];W[eb];B[be];W[cf];B[cb];W[ec];B[bd]))
+(;W[dc];B[fe];W[fb]C[H: This is worse for black.]))
+(;W[jq];B[ko];W[jo]C[H: Hanami ko for white.]))
+(;B[cc]C[H: This is huge.]))
+(;B[qd]C[H: Why not here?]))
+(;B[nf]C[H: Peeping from this direction allows black to fight.]
+
+(;W[of];B[me])
+(;W[ne];B[mf];W[me];B[of];W[pf];B[pe];W[lf];B[nh])))
+(;B[nd]C[H: Consider splitting this way.];W[ne];B[md];W[me]
+;B[le]C[White will have a difficult fight.]))
+(;B[jc]))
+(;B[cq]))
+(;B[cq]LB[jq:A]C[H: Immediately prevent white from making an easy life.  Fighting at A is hard for white at this moment.]
+))
+(;W[jp]C[H: I worry about this];B[ln];W[jn];B[ll];W[fq]))
+(;B[qm]C[H: Have to avoid getting buried here.];W[ip]C[H: Joseki, but it doesn't seem to work well with the whole board for black.]
+))
+(;B[dp]LB[pc:1][dd:2][dp:3][qp:5][oq:4]C[H: With tewari, this opening looks fine for black.]
+))

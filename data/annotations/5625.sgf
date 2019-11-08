@@ -1,0 +1,154 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+PB[chessking]
+BR[5k]
+PW[Alak]
+KM[6.5]
+DT[2007-01-14]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[B+14.50]
+TM[2400]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+C[A_ Dear reviewer, thanks for taking a look at my game!!  I will comment on what I was thinking about throughout, so please tell me where I could have done better
+
+
+BA: I've done my best to do what you've asked for - hopefully the review is helpful.]
+;B[dp];W[pc];B[po]C[A_ My opponent is going for influence... So I decide to claim some territory first and then break down his position]
+;W[cd];B[ed];W[ec]C[A_ Taking quick and easy territory];B[fc]
+;W[dc];B[fd];W[cf];B[jc];W[qe]C[A_ Again, building a solid position]
+;B[jp];W[pq];B[qq];W[qr];B[qp];W[nq]LB[mq:A]C[
+BA: A little too close, perhaps. 'A' would be my choice of move.]
+;B[qk]C[A_ Here I was trying to get a foot in, but without settling the position too much...]
+;W[cl]LB[cj:A][ck:B][cn:C]C[A_ Limiting his framework potential
+
+
+BA: I would stop the extension at 'A' or 'B'. There's nothing very obviously wrong with this move, at the moment, but keep in mind that the Black position below can be considered strong. A splitting move at A might be possible later.
+
+Besides, a White move at B would make an ideal extension to C later on.]
+;B[cn];W[el]C[A_ Again, trying to counter his influence...]
+;B[cj]C[A_ I was really happy with this move. Now I can attack this stone and build strong influence towards the center. My game plan from here on out - I already have territory, so I build influence and reduce his as much as possible
+
+BA: I'd be happy as well.];W[ej];B[ch];W[eg];B[ck];W[dl];B[ei]
+;W[fi];B[eh];W[fh];B[dg];W[di];B[dh];W[df];B[dj];W[fj];B[bi]
+;W[bg]TR[eg]LB[bk:A]C[A_ Taking sente moves to contain him as much as possible while building my own strength... I am not very happy with the marked stone though, any better way of blocking there?
+
+
+BA: Sente moves don't necessarily translate into good moves. They might take points, but they also strengthen the opponent. A lot of sente moves that aren't very big (especially at this early point of the game) should be reserved, e.g. for ko threats.
+
+Another thing is that this move and 'A' are miai right now. Since White doesn't have to play here right now, I'd keep this move in reserve for later, in case you need A more than this.
+
+About the blocking part, I'd say White had no choice.];B[bk]
+;W[bl];B[bm];W[fp]TR[al]C[A_ I regretted not playing the marked move instead, as it was still sente]
+;B[al];W[dq];B[cq];W[eq];B[cr];W[fn]TR[fh][fi][fj][fp]C[A_ This is pretty much exactly what I wanted, strength towards the center to counter the influence that my opponent had been counting on]
+;B[lq]
+(;W[pr]TR[rr]C[A_ Any better moves? Perhaps S2?
+
+BA: I'd say S2 is better. See variation.];B[gq];W[no]TR[jp]
+[gq][lq]SQ[hc][qm]C[A_ His marked stones do not have a solid base yet. Here I am trying to separate them from the group at right, and run them against my wall.
+
+Both of his other "territorial" groups still have weaknesses I plan to exploit]
+;B[pm]
+(;W[jn]LB[iq:A]C[
+BA: I don't think this is the correct way to go about attacking the Black group (unless you want the central area, but that's hard to defend).
+
+I would try something at 'A' instead to remove his base, and send him running. See variation.]
+;B[ho];W[gp];B[hp]TR[gp]C[A_ I regretted making this move as it solidifies his position more.. Any ideas on how to better handle the whole situation at bottom?
+
+BA: The initial move at L6 was a mistake, according to me.]
+;W[he];B[hd];W[lc];B[ie];W[le];B[qh];W[oh];B[hm];W[nm];B[nl]
+;W[ol];B[nk];W[om];B[pl];W[ok];B[lk];W[ln];B[mi];W[mg];B[ki]
+TR[fg]C[A_ The cut is starting to get me very worried as there isn't much space left to run. If he attacks me he can profit, so I defend]
+;W[ff];B[gg];W[fg];B[hf];W[qg]C[A_ At this point I consider myself ahead, so I make safety moves to solidify  as much territory as possible]
+;B[ph];W[pg];B[oi];W[nh];B[ni];W[mr];B[lr];W[rr];B[rq]
+(;W[rg]LB[rh:A]C[
+BA: I'd play S12 instead of this move. It's not sente, but leaves a clamp. See variation.]
+;B[rh];W[kb];B[sg]LB[ib:A][sf:B]C[A_ This exchange confuses me... Is invading at A worth more than defending at B? My endgame is still not very good...
+
+BA: Neither is mine :) I, however, would follow your line of play.]
+;W[sf];B[sh];W[rf]C[
+BA: I wouldn't defend here];B[jb];W[fr];B[gr];W[gs];B[hs];W[fs]
+;B[hq];W[ep];B[do];W[gn];B[hn];W[ls]LB[eb:A]C[A_ Bad timing to do this?
+
+BA: Bigger moves around, if that's what you mean. I would play at 'A'.]
+;B[ks];W[ms];B[mq];W[nr];B[ko];W[kn];B[mp];W[np];B[lo];W[mo]
+;B[kc]TR[mo][kr]C[A_ I was considering my move as sente. He ignores it and the cut now works because of damezumari... But he obviously doesn't see it yet so I play along a little while longer]
+;W[lb];B[hi];W[jl];B[ik];W[kr];B[js]C[A_ Sorry, guy :-D];W[jr]
+;B[is];W[kq];B[lp];W[jo];B[gl];W[fl]C[A_ I believe I am winning by 20 or so points now?
+
+BA: I count about 86 points for White, and Black about 58 points. I'm terrible at counting, however, and as the central Black area is difficult to evaluate, don't trust my judgement :)]
+;B[gm];W[en];B[ge];W[fb];B[gb];W[eb];B[kf];W[lg];B[lf];W[mf]
+;B[ke];W[ld];B[kg];W[jk];B[jj];W[hh];B[gh];W[hj];B[ij];W[gi]
+;B[ii];W[hk];B[il];W[ha];B[ga];W[ja];B[hb];W[ia];B[ib];W[ka]
+;B[fa];W[pj];B[qj];W[pi];B[qi];W[pp];B[ro];W[oo];B[on]LB[mn:B]
+[qn:A]C[A_ I wanted to try A, but the cut at B had me worried]
+
+(;W[nn]C[A_ From here on out, it's pretty much endgame... Any comments appreciated.]
+;B[pn];W[ml];B[mk];W[ll];B[oj];W[pk];B[ea];W[da];B[dd];W[cb]
+;B[de]
+(;W[ce]LB[gk:A][sq:B][kk:C]C[
+BA: You don't need to respond - It's not sente, I can see bigger moves around, such as A, B or C.]
+;B[kk];W[kl];B[gk];W[iq];B[hr];W[gj];B[lh];W[gf];B[hg];W[ip]
+;B[io];W[kp];B[ir];W[jq];B[kd];W[im];B[hl];W[sr];B[dr];W[sq]
+;B[sp];W[bh];B[in];W[jm];B[fe];W[ef];B[mh];W[es];B[ds];W[ah]
+;B[ai];W[cm];B[dn];W[cg];B[ci];W[fk];B[dk];W[fm];B[dm];W[go]
+;B[eo];W[tt];B[me]C[A_ I am really annoyed at my opponent for playing this. There is no reason this should work. I try to play as solid as I can, but I mess it up and end up losing a won game
+
+BA: Don't be annoyed - it'll just ruin your concentration. Take it as a joke and humour your opponent a bit.]
+;W[og];B[nc]
+(;W[nb];B[oc];W[ob];B[pd]LB[qc:B][qd:A]C[A_ Here it is, folks...]
+;W[qd];B[pb];W[qc];B[mb]C[A_ I think there is still a way to salvage this?
+
+BA: Yes - see variation.]
+(;W[ma];B[mc];W[ne];B[md];W[od];B[la];W[qb];B[na];W[pa];B[nd]
+
+(;W[pe]C[
+BA: Your mistake seems to have ruined your entire mood. Simply defending at P15 here works well. Black still wins, but the game is closer.]
+;B[nf];W[ng];B[oe];W[of];B[ne];W[oa];B[ma];W[ql]C[A_ I let my opponent know what I think of his tactics :-D
+
+BA: I'd do it in words, not the game. If you adopt his tactics, it just shows you're just as bad as he is -- don't sink to his level! Just end the game, don't give your opponent the pleasure of knowing he got you annoyed.]
+;B[rl];W[qm];B[qn];W[rm];B[rn];W[sm];B[sn];W[rk];B[sl];W[bn]
+;B[am];W[fo];B[cp];W[tt];B[tt]TB[kj][bj][aj][si][ri][li][ji]
+[di][kh][jh][ih][hh][jg][ig][jf][if][le][je][he][ld][jd][id]
+[gd][lc][ic][hc][gc][cs][bs][as][br][ar][bq][aq][rp][bp][ap]
+[so][qo][co][bo][ao][bn][an][sm][ha][lj][rm][qm][ql][sk][rk]
+[ak][sj][ia][ja][ka][kb][rj][nj][lb][mj]TW[bb][re][be][ae][sd]
+[rd][bd][ad][sc][rc][cc][pb][ab][sa][ra][qa][ca][ba][aa][ss]
+[mp][lp][jp][lo][ko][mn][rs][qs][ps][os][ns][or][lr][oq][mq]
+[lq][op][mm][lm][km][ag][qf][pf][bf][af][bc][ac][sb][rb][se]
+[db]C[
+BA: Overall, I'd say you need to be able to see what method of attacking is the most profitable. Don't get too hooked up on sente - it is overrated. Finally, don't lose your composure. If you make a mistake due to an opponent's bad tactics, don't emulate his style, just go on with the game as usual - resign when appropriate. That's all I have to say.]
+)
+(;W[oe];B[ma];W[oa];B[bn]C[
+BA: B+8.5 - a 6-point difference. Had the game been more in your favour before the initial mistake, the second might have been your undoing.]
+))
+(;W[md];B[ne];W[nd];B[od];W[oe];B[nf];W[ng];B[qb];W[rb];B[oa]
+;W[qa])
+(;W[mc];B[ma];W[nd];B[od];W[oe]C[
+BA: Black is dead.]))
+(;W[md];B[ne];W[nd]C[
+BA: Simple, solid, and works.]))
+(;W[sq];B[sp];W[sr];B[ce];W[be];B[bd];W[cc];B[ae];W[bf];B[bc]
+;W[bb]C[
+BA: Nothing to worry about.]))
+(;W[qn];B[pn];W[qo]TR[sq];B[sq]TR[pi][pj][mn]C[A_ The idea is to try to play T3, but because of the cut, black can grab the marked stones
+
+BA: Losing the two stones would be worth the gain. Besides, I don't see how the two stones can be captured.]
+;W[rn]
+(;B[rm];W[so];B[sp]C[
+BA: The best Black can get here is a ko.])
+(;B[so];W[sn];B[qm];W[rp];B[sp];W[sr])
+(;B[sn];W[sm];B[so];W[rp];B[sp];W[sr])
+(;B[sp];W[sn];B[rm];W[so];B[qm];W[rp])
+(;B[mn];W[nn]C[
+BA: If Black cuts, White can simply defend here and remain connected.]
+;B[mm];W[ml];B[lm];W[ll];B[km];W[kl])))
+(;W[rh];B[ri];W[rg]LB[rj:A]C[
+BA: White can later play at A.]))
+(;W[iq];B[ip];W[hq];B[hp];W[gr];B[gp];W[fr];B[ep];W[fq];B[fo]
+;W[eo];B[go];W[do];B[cp];W[kr]C[
+BA: Black can't cut off the group.]))
+(;W[rr];B[or];W[nr];B[oq];W[op]C[
+BA: There's nothing to worry about yet. S2 also undermines the Black position to the right, might be a big endgame move later on.]
+))

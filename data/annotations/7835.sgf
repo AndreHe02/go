@@ -1,0 +1,66 @@
+(;FF[4]GM[1]SZ[13]ST[2]CA[UTF-8]AP[SGFC:1.17]
+
+GN[13x13 Even game with no time limit.]
+PB[Ares23]
+BR[30k]
+PW[LeeMorikawa]
+WR[30k]
+KM[6.5]
+DT[2010-04-22,2010-04-25]
+PC[Online Go.com: http://www.online-go.com]
+RE[W+2.5]
+RU[Japanese]
+GC[Game ID: 216633]
+
+C[<Ares23>: Hello!
+I'm a beginner. I don't know my rank but estimate somewhere around 25k. This game is a 13x13 i played on ogs (online-go.com). I (black) lost really close by 2.5 points. What i want to know are my biggest failures and how i can do it better as well as some general improvement tipps for my gameplay.
+Thanks in advance to the reviewer.];B[jd]C[Hello! I'm going to use a few Japanese terms that you may not know. A good resource for learning Go terms is Sensei's Library at  http://senseis.xmp.net/]
+;W[dc];B[kk];W[dj];B[hc];W[gc];B[gd];W[fc]
+(;B[jg]C[It's harder to say on a 13x13, but this move is little weak. In the early game you want to look for the big points. The variation shows an example of what I mean. Here you're connecting your groups but giving white the opportunity to get gain a much better position as the white variation shows.]
+(;W[ff];B[gf];W[fd]C[At this point, I think you have the problem of being bullied by White. White has taken sente and makes the most of it.]
+;B[ge];W[fe];B[fg];W[hb]
+(;B[id]C[Here you let White invade the corner. You were defending the cutting point at H10 which is good, but J12 would put you in a stronger position while doing the same thing. (Though I see later you did pretty well for yourself)]
+;W[ic];B[hd];W[jc];B[ke];W[dg];B[fi];W[fk];B[gj];W[ej];B[gk]
+;W[eh];B[fh];W[gl];B[fj];W[fl];B[kc];W[kb];B[lc];W[lb];B[mb]
+;W[la];B[be]C[You took sente here, which is good! It can be hard to invade on a 13x13 sometimes due to the small size of the board. You don't have a lot of eye space here so it will be tricky to survive but it's do able. Closer to the corner, might be a little easier in this case, but be careful not to touch the D11 stone immediately, as you'll only make it stronger by doing so.]
+;W[cd];B[bg];W[cf];B[bf];W[bd];B[ae];W[ad];B[ch];W[ci];B[bi]
+;W[bj];B[aj];W[ak];B[ai];W[ah]
+(;B[hl]C[Your left group there was very much alive! It is, however, a very complex situation but I'm 95% certain you can survive no mater what White does. See the variation for just one example. I came up with about 7 or so but including them all would be a bit much I think.]
+;W[gm];B[hm];W[bk]
+(;B[gg]C[Here I think you're a little over protective of this cut, white can't really get anywhere by playing it.]
+;W[ei];B[eg];W[ef]
+(;B[hk]C[I think this is the same as move 59. It looks a little more vulnerable but I don't think white can get anything here.]
+;W[ce];B[mc];W[ma];B[jb];W[ja];B[ib];W[ia];B[ka];W[gb];B[kb]
+;W[ha]
+(;B[ic]C[This is unnecessary. You've done very well for yourself in the corner and white would only lose stones by trying to take it back again.]
+;W[tt];B[tt];TW[aa][ba][ca][da][ea][fa][ga][ab][bb][cb][db]
+[eb][fb][ac][bc][cc][ec][dd][ed][ae][be][de][ee][af][bf][df]
+[ag][bg][cg][bh][ch][dh][ai][bi][di][aj][cj][ck][dk][ek][al]
+[bl][cl][dl][el][am][bm][cm][dm][em][fm]TB[la][ma][lb][jc][kd]
+[ld][md][he][ie][je][le][me][hf][if][jf][kf][lf][mf][hg][ig]
+[kg][lg][mg][gh][hh][ih][jh][kh][lh][mh][gi][hi][ii][ji][ki]
+[li][mi][hj][ij][jj][kj][lj][mj][ik][jk][lk][mk][il][jl][kl]
+[ll][ml][im][jm][km][lm][mm]C[Result: W+2.5
+
+All in all, I don't think you did badly for a beginner. My recommendation is to try to discover which cutting points are important to defend and which are not. Basically all you really need to do is keep playing and these will be come more obvious. I'd strongly recommend you work up to playing 19x19 if you aren't doing so already. While a quick 13x13 or 9x9 can be fun, they are in some ways, more difficult to play than a 19x19. The small board size means when you begin to have trouble in one area there isn't much space to run away to. I think what will help you the most is just to play and play and play! Eventually you'll learn to see a couple of moves down the road and that will greatly help you rule out potentially disastrous moves and what you need to defend and what is OK to leave. Thanks for submitting this game for review! I found your invasion of the left side to be a particularly interesting situation to examine!]
+N[RESULT])
+(;B[ek]C[This point _might_ be worth attacking. If white plays properly you'll die, but it may be worth a few stones to see what happens.]
+(;W[el]C[Correct for white. This is where you should stop. I've played a bit more to make it obvious but it actually doesn't hurt you to do this. White takes one stone but also has to fill in his own territory with one so the net value is 0.]
+;B[dk];W[dl];B[ck])
+(;W[dk]C[This is what I would be hoping for.];B[el])))
+(;B[mc];W[hk];B[ik];W[hj];B[hi]C[This ends in a ladder.]))
+(;B[mc];W[gg];B[hg];W[gh];B[hh];W[gi];B[hi]))
+(;B[bh]
+(;W[ag]C[White has to crawl here to keep you from making two eyes.]
+;B[bk]C[Double atari! White's on the run now!];W[cj];B[ck];W[dk]
+;B[cl];W[dl];B[cm];W[dm]C[You've struck a hard blow against white AND got sente! You can also cause white a huge headache by doing something like the following...]
+;B[dh];W[cg];B[ce];W[ei];B[eg];W[df];B[ef];W[de];B[ee];W[dd]
+;B[ed];W[ec])
+(;W[bl];B[ag]C[Life!])))
+(;B[ic]
+(;W[ib];B[jb];W[ja];B[ka];W[ia];B[lb]C[This is a much better outcome with a very weak point for white at G12. It will probably be defended with the next move but it's still a possibility.]
+)
+(;W[hd];B[he]C[This shows that the cutting point isn't much to be feared at this point. It is good that you saw it though. Often times beginners, and even advanced players, miss cutting points and get burned.]
+)))
+(;W[hk]))
+(;B[fk]))

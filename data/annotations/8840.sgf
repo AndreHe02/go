@@ -1,0 +1,70 @@
+(;FF[4]GM[1]SZ[19]ST[1]AP[SGFC:1.17]
+
+PB[opt]
+BR[4k]
+PW[unknown]
+WR[2k]
+KM[0.5]
+DT[2012-07-04,10]
+RE[W+Resign]
+
+C[In this game I played my favourite fuseki, Kobayashi fuseki. However my opponent basically just ignored it and won the game elsewhere. This is very upsetting game in that sense but should also be good learning material.
+
+
+
+I felt I was lagging behind and placed a stone that proved to be overplay. I resigned soon after.
+
+J: Hi, my name is Jay and I will be reviewing your game.  My comments will begin with "J:".]
+;B[pd];W[dp];B[pq];W[dd];B[fq];W[cn];B[jp]C[This is Kobayashi fuseki  and according to the theory the hotspot of the game should be in the bottom right corner and white approach to Q3.]
+;W[nc];B[qf];W[jd]
+(;B[qo]CR[po][cf]C[Looking at the board setup is almost symmetrical. The only difference is between white hoshi stone D16 and black corner enclosure  at Q3. Is the speed of D16 actually giving white winning position already? If so how should black have reacted to this plan?
+
+J: if both players were to just build up frameworks, then black should definately have the lead.  see variation.
+
+J: Playing Q5 would make for faster development.  It threatens to make large areas on both the bottom and the right. whereas the low move only solidifies the corner and influences the bottom.
+
+J: Another option is to just approach white's top corner, leaving the invitation for white to approach Q3.]
+;W[ne];B[fo]CR[cf][pb]C[I know that the point of F3 and K4 is speed and flexibility. The idea being that after someone invades between them you can jump into the corner. One-point jump like this defeats that purpose a bit. Now that I go through the game I think I would play this stone elsewhere. Perhaps P13 or somewhere to the left side.
+
+J: right, approaching the top is much bigger.  Another option is to calmly defend Q18.  With O15 played, white can do a lot of damage with R17.]
+;W[og]
+(;B[df]MA[cn][dn][en][fn][gn][hn]C[This tenuki feels now very bad idea. But I was getting scared about the white framework.
+
+J: The high D14 approach should really only be used in the special circumstances (such as if black has a large wall at the X's).  The result isn't favorable for black locally.  See variations.
+
+J: another option is to play E7 yourself.]
+(;W[dj]C[J: white's pincer is an interesting idea, but it leave the corner a little weak.]
+(;B[cd]C[J: the attachment of C16 helps white to settle the corner.  Should consider the double approach at F15. See variation.]
+;W[cc];B[ce]CR[dc]C[J: can think about the crosscut.];W[bc]
+(;B[ch]CR[ed]C[J: Black should force white down with something like E16 first.  See variations.]
+;W[cj]C[This result looks very bad. Was there a mistake somewhere earlier? How can black utilize the open formation that white has in the upper left corner?
+
+J: it's not that bad if black sees white's weakness around E16.  White should play F16 himself.]
+;B[eh]C[J: black can still play E16.];W[qg];B[oc];W[nb];B[rg]
+;W[qh];B[pf];W[rh];B[ob];W[qm]C[White got some big points here. Black upper right corner loses for white lower left corner. Black right side group loses for white right side group. Black bottom group is smaller but more solid than white upper group.
+
+
+
+Here black still has a game, but now the question is how to play the upper side and low left corner.]
+(;B[qk]MA[pm][fd][fe][ec]C[This I consider the losing move. It aims to separate and weaken two white groups.
+
+J: R9 is certainly too envious of every little of white's points.  F15/F16/E17 and Q7 jump out at me as interesting points.  See variations.]
+;W[pl];B[pk]C[J: too early to try to save this stone.  playing in the top left is biggest now.  Use R9 for aji later.]
+;W[nl];B[rm];W[rn];B[tt]C[Looking at the board black has four formations, three can be called failed and even the fourth one has suffered from last few moves.
+
+J: I think without R9 the game was still pretty even.  I think the main problem in this game was the slow move of F5 and the locally inferior high approach at D14.  Thanks for showing me this game.]
+)
+(;B[fe];W[fc];B[gc];W[gb];B[gd];W[hb];B[pm];W[pl];B[om];W[qn]
+;B[po];W[ol];B[nl];W[nk];B[ml];W[mk];B[ll]C[J: This would be how i'd plan the game.]
+))
+(;B[ed]
+(;W[dc];B[ee];W[fc];B[hd];W[gd];B[ge];W[hc];B[fd];W[gc];B[fj]
+)
+(;W[ec];B[de];W[dc];B[fd];W[gc];B[he];W[hc];B[fj])))
+(;B[fd];W[ee];B[cc];W[cd];B[dc];W[ef];B[ed];W[dg]C[J: joseki.]
+))
+(;W[fd];B[cd];W[cc];B[ce];W[bc];B[cj]C[J: this is the normal joseki after D14.  white is pretty settled in the corner, and black's base is ruined.]
+))
+(;B[cf];W[df];B[dg];W[ef];B[ce];W[cd];B[cj];W[fd];B[ph]C[J: this is still an even game]
+))
+(;B[pk];W[dj];B[jj]))

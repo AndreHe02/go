@@ -1,0 +1,94 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.17]
+
+PB[NOBUM]
+BR[6k]
+PW[Nostromo]
+WR[5k]
+KM[0.5]
+DT[2010-01-17]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[B+Resign]
+TM[1500]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+C[Hi,
+
+I'm german 1st kyu. I hope I can help you improve your game, especially your opening. I will mark my comments with a [R\].
+As you mentioned, the opening is the interesting part of this game. A fight started early in the game, that spread over the board. I will not comment on this fight.
+
+best
+Thomas
+P.S.: feel free to contact me on KGS (schwing) or write an e-mail in case of questions.]
+;B[pd]C[[R\]
+Let me stick with some Notes on opening:
+
+Nostromo didn't want you to play the chinese opening. I'm sure, you do know how that special opening works (and so did w) - if not, you should consult http://senseis.xmp.net/?ChineseFuseki. 
+However, I don't want you to practice a single well known Fuseki, but Fuseki-Theory itself. The question is, why is the Chinese Fuseki constantly played? First of all, it is easy to understand. 
+
+It aims at building a moyo and weak groups at you opponents, respectively. 
+
+Weak groups is a main part of Fuseki-theory. A group without a base, or with a single-eyed bayes is a burden on your game, as the opponent gets to chase the group around and thereby gets multipurpose moves whereas you run and search for a base. Coherent a weak group of your opponents is a burden on him. 
+
+as a proverb sais: Don't touch weak stones. The more liberties a stone/group has, the stronger it gets.
+
+A second aspect to keep in mind is the overall context (continuity, relation) of your groups. Make your groups work together. (this is what the move at j17 or j16 would do for the trade of weakeness of your upper-left corner)
+
+You may want to read:
+"The Direction of Play" by Kajiwara Takeo 
+"501 Opening Problems" by Richard Bozulich (Mastering The Basics Series)
+
+[Question1\] I like Chinese style opner, however in this game I couldn't.
+How should I played as black (around 20 moves).];W[pp];B[cd]
+;W[ec]LB[ic:E][hd:D][de:A][df:B][cg:C]C[[R\] D17 is the move, I was talking about. You did this in the lower left too. It strengthens your opponent. Moves, I constantly play are A to E. Obviously those are two groups. An extension (A,B and C) or a pincer (D,E) - High (4th row) for influence and flexible, low (3rd row for territory). A pincer is played whenever 1) you don't want your opponent to extend to a base and 2) it works together with stones already played. I like D here. Plus try to get sente, as the third corner remains open.]
+;B[dc];W[ed];B[cf];W[ic]SQ[dc][ed]C[[R\] in context of tewari - D17 and E16 is a bad trade for you - w gets stronger, gets a wider extention and so on...]
+;B[dp];W[qj];B[mc]LB[jp:A]C[[R\] K4 is most important here. Plus N17 doesn't threaten white very much. Maybe R13 better than N17, as it threatens to split R10 and Q5.]
+;W[fq]LB[cn:A][ip:C][hq:B]C[[R\] Here again are the possibilities: extending (A) or pincering (B,C). A is not the best choice, imo as you're low at the top, too. Maybe B and C are ok here. Refer to Joseki-Books for continuations.]
+;B[eq];W[fp];B[dn];W[jq]LB[pk:2][kp:1][qq:3]C[[R\] It's hard to judge where a good move would be.]
+(;B[mp]C[[R\] see earlier remarks. You shouldn't have been forced to play such a light move. This exactly is what the chinese opening should have been there for: producing a weak group at your opponents.
+[Question 2\] Is this too late?]
+(;W[nq]C[[R\] This is the first bad opening move by w. A shoulder hit is practicaly the same as a touchment.]
+(;B[lq];W[jo];B[pm];W[on];B[mn];W[pn];B[qm];W[qn];B[nl];W[om]
+;B[ol];W[pl];B[pk];W[ql];B[qk];W[rm]
+(;B[rk];W[nm];B[mm];W[ml];B[km];W[ok];B[nk];W[oj];B[pj];W[mk]
+;B[nj];W[oi];B[mj];W[lj];B[nh];W[ni];B[mi];W[mh];B[li];W[oh]
+;B[ng];W[lh];B[ki];W[og];B[nf];W[pi];B[qi];W[qh];B[ri];W[rh]
+;B[pg];W[of];B[pf];W[oe];B[ph];W[pe];B[rg];W[od];B[qd];W[me]
+;B[lg];W[nc];B[kh];W[qe];B[qg];W[rd];B[kd];W[cl];B[cj];W[el]
+;B[fn];W[dj];B[ci];W[bn];B[bp];W[ej];B[ef];W[ie];B[ne];W[nd]
+;B[md];W[eo];B[en];W[do];B[co];W[cn];B[hn];W[cq];B[ep];W[fo]
+;B[cp];W[dr];B[er];W[br];B[ip];W[gr];B[hr];W[hq];B[iq];W[ir]
+;B[jr];W[hs];B[jp];W[gn];B[gm];W[go];B[fl];W[fm];B[em];W[dm]
+;B[fm];W[hm];B[hl];W[im];B[il];W[in];B[ho];W[hp];B[kq];W[io]
+;B[jl];W[fk];B[gl];W[db];B[cb];W[dd];B[cc];W[ge];B[gi];W[fi]
+;B[gh];W[ig];B[ih];W[hg];B[fg];W[gj];B[hj];W[kf];B[lf];W[ke]
+;B[le];W[kb];B[mb];W[hh];B[hi];W[ck];B[pb];W[ob];B[rb];W[qc]
+;B[pc];W[rc];B[qb];W[rf];B[nb]C[Nostromo [5k\]: thanks
+NOBUM [6k\]: thanks
+NOBUM [6k\]: gg];W[jd];B[kc];W[jc];B[lb];W[jb];B[eb];W[fb];B[da]
+;W[fa];B[mr];W[nr];B[mq];W[js];B[ks];W[ms];B[ls];W[ns];B[no]
+;W[op];B[oo];W[po];B[ko];W[kn];B[ln];W[jn];B[hk]
+(;W[ii])
+(;W[jh];B[ii];W[ji];B[jj];W[jg];B[eh];W[ei];B[dh];W[bj];B[bi]
+;W[bk];B[ai];W[aj];B[de];W[ee];B[ff];W[fe];B[gf];W[gg];B[hf]
+;W[he];B[if];W[jf];B[la];W[ka];B[oc];W[oa];B[na];W[sf];B[sh]
+;W[sl];B[sk]TW[ga][ha][ia][ja][gb][hb][ib][fc][gc][hc][fd][gd]
+[hd][id][fj][ak][dk][ek][al][bl][dl][am][bm][cm][pm][qm][sm]
+[an][hn][rn][sn][ao][bo][co][ho][qo][ro][so][ap][bp][cp][dp]
+[ep][gp][qp][rp][sp][aq][bq][dq][eq][gq][oq][pq][qq][rq][sq]
+[ar][cr][er][fr][hr][or][pr][qr][rr][sr][as][bs][cs][ds][es]
+[fs][gs][os][ps][qs][rs][ss]TB[aa][ba][ca][ma][oa][pa][qa][ra]
+[sa][ab][bb][db][ob][sb][ac][bc][lc][nc][qc][rc][sc][ad][bd]
+[ld][nd][od][rd][sd][ae][be][ce][me][oe][pe][qe][re][se][af]
+[bf][df][mf][of][qf][rf][sf][ag][bg][cg][dg][eg][mg][og][sg]
+[ah][bh][ch][lh][mh][oh][qh][rh][ni][oi][pi][si][ij][kj][lj]
+[oj][qj][rj][sj][ik][jk][kk][lk][mk][ok][kl][ll][ml][lm][lo]
+[mo][kp][lp][jq][kr][lr]))
+(;B[mk]C[[R\] this would have been a good result for b. B succeeded in invading w's sphere of influence. B's group is technically save now.]
+))
+(;B[mq]LB[mp:3][mq:1][nq:2]C[[R\] From the point of view of tewari, w 2 was a bad move.]
+))
+(;W[pn]C[[R\] hard for b here!]))
+(;B[qq];W[pq];B[qp];W[qo];B[ro];W[qn];B[rn];W[qm];B[pr];W[or]
+;B[qr];W[nq];B[fn];W[jo]C[[R\] nice result for w..])
+(;B[kp];W[kq];B[mp];W[lp];B[lo];W[lq];B[ml]))

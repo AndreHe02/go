@@ -1,0 +1,107 @@
+(;FF[4]GM[1]SZ[19]CA[UTF-8]AP[SGFC:1.15]
+
+PB[mr_tenuki]
+BR[15k]
+PW[cook777]
+WR[5k]
+KM[4.5]
+DT[2008-09-07,2008-09-22]
+PC[Online Go.com: http://online-go.nainwak.org]
+RE[W+Resign]
+RU[Japanese]
+GC[Game ID: 120537]
+
+C[z -- hello cook777, I am Bill, "zinger" on internet Go servers.  My comments are marked with " z -- ".   But remember to check my comments critically.  After all, I am only a weak amatuer - almost certainly, I have made a few mistakes.
+
+z -- I prefer to reference board markings and move numbers in my comments, rather than grid coordinates.  Hopefully, you have a SGF reader which displays these correctly.  I recommed Drago, which I used to make the review.
+
+z -- per your request, I made several comments in the endgame.  However, I think both players need to work on the fundamentals of cutting and connecting.  For example at moves 28-36 both players failed to connect or cut several times.]
+;B[pd];W[dp];B[cd];W[pp];B[ic]C[Cook777: I have a lot of trouble with this kinds of openings. I usily play in a way to provent it in most games by playing E16 or E17 before taking the other courner.
+
+z -- I like to play into things that I have trouble with.  It helps me learn.]
+;W[qf];B[qh];W[qc];B[pc];W[qd];B[pe];W[rf];B[og];W[jd]
+(;B[fc]LB[id:a]C[z -- 15 is not good.  Black should play at A instead.]
+
+(;W[jc]LB[id:a]C[z -- I also think 16 at A would be better.  16 as played is biased towards the right, where black is already strong.]
+;B[id]C[z -- this is why.];W[je];B[if]LB[ie:a]C[z -- 19 leaves a weakness at A ...]
+
+(;W[kg]C[z -- ... which 20 does not exploit.  See variation.]
+;B[qn];W[nq];B[cn];W[dk];B[en];W[fp];B[ci];W[dm]
+(;B[cp]LB[dn:a]C[z -- 29 should protect the cut by playing at A.  This is basics, cutting and connecting.]
+
+(;W[do]LB[dn:a]C[z -- 30 should be at A.  White peeped, black ignored; go ahead and cut!]
+
+(;B[co]LB[dn:a]C[z -- 31 must be at A. More basics of cutting and connecting.]
+;W[dn]C[z -- this result is much better for white.];B[cl];W[cm]
+;B[bk]LB[bm:a]C[z -- 35 must be at A.  Black must stay connected.]
+;W[cq]LB[bm:a]C[z -- 36 must be at A.];B[bm];W[md]LB[ie:a]C[z -- if white wants to help this group, pushing and cutting at A is better as previously shown.  Maybe white thought 38 is sente, but it isn't.]
+
+(;B[ne]C[z -- black does not need to protect here.];W[pk];B[nk]
+;W[nl];B[ol];W[ok];B[nj]
+(;W[pl]LB[om:a]C[z -- white should probably play A instead.  This 46 doesn't really get out.]
+;B[om];W[pm];B[pn];W[on];B[nm];W[oo];B[rp];W[qq];B[rq];W[rr]
+;B[qp];W[pq];B[rl]C[z -- it looks like white should get captured now.]
+;W[rk]
+(;B[qk]LB[rm:a]C[z -- but 61 doesn't work.  I would play A.]
+;W[ql];B[rm];W[qj];B[ro];W[rh];B[ml]C[z -- this capture makes black very strong in the center.]
+
+(;W[qi]C[z -- 68 is a wasted move.  White is already connected.]
+;B[jp];W[hq]LB[ei:a]C[z -- 70 is too close to white's thickness to be effective.  Perhaps white should think about playing at A.  Look at the difference between a white stone there and a black one.]
+;B[jq];W[lo];B[hp];W[gq];B[lp];W[mp];B[ko];W[lq];B[ln];W[kp]
+;B[jo];W[gn]LB[ei:a][ie:b][bp:c]C[z -- 82 is very bad.  It attacks nothing, defends nothing, and is gote - basically another wasted move.  I like A, but any of the marked points would be better than 82.]
+;B[dl];W[el];B[ek];W[fk];B[ej];W[fl];B[fj]C[z-- good];W[ie]
+C[z -- good];B[he];W[ib]LB[hf:a]C[z -- but 92 lets black off the hook.  It should be at A.]
+;B[hf]C[z -- very good.];W[hb];B[gc];W[nc];B[le];W[ld];B[jf]
+;W[ke];B[kf];W[hk];B[hi]C[z -- black has the lead now and should win.  White needed to reduce the top left area sooner.]
+;W[gj];B[gi];W[me]C[z -- black needs to be careful here.]
+(;B[lf]LB[mg:a]C[z -- saving one stone isn't important.  Black needs to stay connected .  107 at A is one way that is safer.]
+;W[mf];B[mg];W[nf];B[pf];W[ng];B[qg]
+(;W[rg]LB[oh:a]C[z -- hmm, could white kill black with 114 at A?]
+;B[oh];W[nh];B[oi];W[ni];B[oj]C[z -- I estimate black ahead by about 10 points now.  White could still catch up with a good endgame.  Since you asked about that specifically, I will do my best to comment on it.  However the endgame is very technical and I cannot claim to know the best move.  The best I can hope for is that the moves I suggest are better than the ones played - but not necessarily the best moves on the board.]
+;W[jm];B[km];W[jl]C[z -- 122 is small and gote.  See next move for bigger places.]
+
+(;B[hn]LB[bq:a][qb:b][ob:c][kr:d][ir:e][gb:f]C[z -- 123 is also small and gote.  Several bigger moves are marked.  I like A best.]
+
+(;W[hm]LB[bp:a]C[z -- White should ignore 123.  Again, I think A is biggest.]
+;B[cc]C[z -- not needed.  This is the same as a pass.];W[bp]
+C[z -- good]
+(;B[bn]LB[ao:a]C[z -- 127 at A is the correct response.];W[ob]
+;B[kl]LB[pb:a]C[z -- small and gote again.  Should be at A.]
+;W[ea]LB[pb:a]C[z -- this is not bad, but I still think A is bigger.]
+;B[fa];W[fb];B[eb];W[ga];B[gb];W[fa];B[da];W[ha];B[db];W[ir]
+LB[pb:a]C[z -- still A.];B[jr];W[lr];B[jj];W[li];B[pb]C[z -- finally :)]
+;W[qb];B[pa];W[qa];B[oa];W[na];B[hc];W[jb];B[hj];W[ik];B[kh]
+;W[lh];B[ki];W[lg];B[jg];W[kk];B[lk];W[ij];B[ii];W[jn];B[kn]
+;N[RESULT]C[Result: W+R
+
+z -- black resigned ?  I count this as almost dead even.  Definitely not a time to resign.
+
+z -- Thanks for the game to review.  I hope my comments were useful to you.]
+)
+(;B[ao]LB[bq:a]C[z -- this threatens to cut at A, so black either gets sente now or gets the cut later.]
+))
+(;W[bp]))
+(;B[bq]C[z -- I like this.]))
+(;W[oh];B[rg];W[pb];B[ob];W[qb];B[ri];W[rj];B[sh];W[ni]C[z -- it looks like white connects, and black only has one eye.]
+))
+(;B[mg];W[lf];B[lg]))
+(;W[jp]C[z -- for example ...];B[ri];W[qi];B[rg];W[ph];B[qg]
+;W[pg];B[sh];W[pf]))
+(;B[rm]C[z -- now white seems in trouble.]))
+(;W[om];B[pl];W[pm];B[ql];W[qm];B[nm];W[ml];B[rm];W[rl];B[qk]
+;W[rk];B[qj];W[rn]C[z -- I think this trade is better for white.]
+))
+(;B[nh]C[z -- for example ...];W[pf];B[of];W[oe];B[ne];W[od]
+;B[nd];W[oc];B[ob];W[nc];B[mc];W[nb];B[mb]C[z -- white cannot cut.]
+))
+(;B[dn]C[z -- very important.]))
+(;W[dn];B[do];W[eo];B[co];W[cq];B[dq];W[ep];B[cr];W[bq];B[br]
+;W[dr];B[eq];W[fq];B[er];W[fr];B[ds];W[cm];B[bp];W[fn];B[em]
+;W[fl]C[z -- white's thickness is worth more than black's territory.  Of course this variation is not absolute, and there are many possibilities.  The idea is that white seals black in with forcing moves and makes a strong shape on the outside.]
+))
+(;B[dn]C[z -- this keeps the two white stones above weak.]))
+(;W[ie];B[he];W[hf]LB[hd:a]C[z -- now white can either capture 19 in a ladder,  or cut at A.  Either way his group becomes safe and strong.]
+))
+(;W[id];B[hc];W[ig]C[z -- for example.  Black's position in the top left is low.  Meanwhile white is building a stable group which will make black's stones to the right ineffective.]
+))
+(;B[id];W[je];B[hf]C[z -- for example.]))

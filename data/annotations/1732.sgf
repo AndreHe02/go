@@ -1,0 +1,138 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.13b]
+
+PB[no2k]
+BR[3k]
+PW[reddog]
+WR[3k]
+KM[5.5]
+DT[2001-12-07]
+PC[The Kiseido Go Server (KGS) at http://kgs.kiseido.com/]
+RE[W+Resign]
+TM[300]
+OT[25/600 Canadian]
+RU[Japanese]
+
+C[Dear reviewer,
+This game I played on KGS as black. My nickname there is no2k.
+I would be very pleased to get some advice regarding my style of playing.
+In the beginning I thought to play a good game. But the more stones appeared, the worse I felt. Is this due to a mistake in mind in the beginning.
+Or is it because of bad play afterwards.
+I am mainly inetrested in advice regarding the opening and the middle game, but of course every comment is welcome.
+Thank you very much in advance,
+Peter (as no2k)
+
+* I would say the main thing you have to work on is tactics. I don't think you played so badly strategically, but your attacking let white off the hook multiple times.  You have a few chances to capture white groups just by making slightly different moves. I have tried to point these out in the review, I hope it will be useful.]
+;B[pc];W[dp];B[qp];W[dd];B[fq];W[hq];B[cq];W[dq];B[cp];W[do]
+;B[dr];W[er];B[cr];W[eq];B[cn];W[oq]
+(;B[lp]C[* Pincering from this direction is definitely not very interesting. It looks like the pincer stone might come under attack. But more importantly, even if you manage
+to attack properly, you will never make any territory out of it. I can see why you played it, you are probably afraid that white will make too much territory,
+but there is nothing to be afraid about. See the variations for other ideas.]
+;W[oo];B[pn];W[on]TR[lp]C[* This is a move that is normally taboo, it gives black too much territory. White must be confident about capturing the black stone to play this way.]
+;B[pm];W[om]
+(;B[km]LB[pl:A]C[* This is certainly a big move, but A is also very big. See variation.]
+;W[po];B[qo];W[pl];B[ql];W[qk];B[pk];W[ol];B[qm];W[qj];B[fc]
+LB[qe:A]TR[pk]C[* This is big, A is a good alternative, because it threatens to pull the stone out, which would be very dangerous for white!]
+;W[cf];B[db];W[cc];B[ic];W[qe]
+(;B[oe]C[* Interesting move, although not quite standard.. See variations for other ideas.]
+;W[nc];B[oc];W[nd];B[pe];W[qg]
+(;B[kc]C[* I'm not sure this is the right attacking point. Attacks must be played very carefully, otherwise your opponent just plays simple moves and is gone. See variations.]
+;W[ld];B[og]
+(;W[ph]C[* This is a mistake by white. It is not necessary.]
+;B[lf]C[* This is an excellent move for black. White must be very careful.]
+;W[kd];B[jd];W[ke]
+(;B[lh]C[* This is the first big mistake. You have a chance to severely attack white here, M12 is in the wrong direction. You want to squeeze white against your good shape  at the top. See variations.]
+;W[je];B[ie];W[jg];B[fo]LB[fr:A]C[* Better test white at A first.]
+;W[fr];B[jq];W[dn];B[cm];W[if];B[he];W[ci]C[* Now if black had played the other attack variation, white would not be able to play C11 because black would have been too thick.. Even so, black is in the game here]
+;B[gq]C[* This is a very heavy move..];W[gr];B[ir];W[hp];B[go]
+;W[hr]
+(;B[fm]C[* Maybe you could play an 'inducing move', i.e. a move that forces white to force you to play a jump like this? In this way you gain efficiency. See variation]
+;W[dm];B[cl];W[dl];B[dk];W[el];B[hm];W[ek];B[dj];W[gl]C[*];B[kf]
+;W[jf]
+(;B[gm]C[* It is not neccesary to connect here. You lose a move by playing this way.]
+;W[gg];B[hh];W[hg];B[fi];W[ih];B[hj];W[ii]
+(;B[hl]C[* This is also an unnecessary move. White cannot escape there. You really cannot afford unnecessary moves when you are attacking. In fact, you could have
+captured white :) See variation.];W[gj];B[gi];W[hk];B[ik];W[gk]
+
+(;B[ij]C[* Again, you do not have to connect.. you have another chance to capture white. See variation.]
+;W[ej]C[mo2k: This move I have overseen.];B[di];W[ei];B[ch]
+C[no2k: So i decided to tkae some profit. Is it ok
+* Yes, you can't really do anything else here. It's a shame though :)]
+
+(;W[hi]LB[dh:A]C[* White should play A first. variation.];B[qd]
+C[* This is big.];W[re];B[pq];W[or];B[cb];W[ko]C[* This doesn't look like it should work.]
+
+(;B[jo]C[* Maybe you can play a simpler move..];W[kp];B[kq]
+;W[jp];B[lo];W[jn]
+(;B[kn]C[* A bit thin, leaves a cutting point (as you saw a few moves on). Not necessary to play there just because it is atari. Variation.]
+;W[ip];B[jm]LB[ll:A][np:B]C[* Not important. Better to protect the cutting point!]
+;W[ln]C[* This cut is very severe and it shows that L6 was a mistake.]
+;B[mn];W[lm];B[mm];W[ll];B[ml];W[lk];B[mk];W[lj];B[mj];W[li]
+;B[mi];W[jj]C[* White can still capture the stones at the bottom after this sequence..]
+;B[jk];W[kj];B[in];W[pp];B[qr];W[mo];B[mp]C[no2k: I thought I could bring my bottom group to life.]
+;W[no]
+(;B[np];W[mr];B[lr];W[mq];B[lq];W[op];B[ok];W[pr];B[qq];W[ls]
+;B[ks];W[ms];B[qi];W[ri];B[pi];W[rh];B[kh];W[ji];B[eh];W[fh]
+;B[fg];W[gh];B[eg];W[bh];B[bg]C[no2k: Totally blunder.];W[cg]
+;B[bi];W[dh];B[cj];W[ch];B[fe]C[* F15 is smaller than B10 because B10 captures in sente! Black makes some endgame mistake from here on (including the Ko), but comments end here because
+it's not so  important. In my opinion, if you play B10 instead of F15, and then play a good endgame, you will still win.]
+;W[bj];B[ck];W[bk];B[bl];W[gf];B[de];W[ce];B[rd];W[od];B[pd]
+;W[pj];B[oi];W[oj];B[nk];W[rl];B[rm];W[rk];B[lc];W[ne];B[pg]
+;W[mb];B[lb];W[ob];B[ma];W[mc];B[pb];W[ge];B[gd];W[ed];B[fd]
+;W[ff];B[ee];W[ef];B[bc];W[bd];B[dc];W[cd];B[rf];W[qf];B[se]
+;W[rg];B[sf];W[sg];B[sd];W[qh];B[me];W[md];B[oh];W[bb];B[ba]
+;W[ac];B[oa];W[nb];B[nf];W[na];B[pa];W[la];B[kb];W[ka];B[ja]
+;W[ma];B[jb];W[ec];B[eb];W[ca];B[da];W[co];B[bo];W[ds];B[cs]
+C[no2k: The last blunder.];W[bp];B[bn];W[bq];B[br];W[ar];B[es]
+;W[bs];B[as];W[ib];B[hb];W[bs];B[is];W[jr];B[as];W[ia];B[ha]
+;W[bs];B[ps];W[ds];B[os];W[ns];B[qs];W[iq];B[le];W[pf];B[of]
+C[no2k [3k\]: too big KO];W[kg];B[lg];W[hf];B[hd];W[nj];B[ni]
+;W[sm];B[sn];W[sl])
+(;B[mr]))
+(;B[ln]C[* After this, there is no problem, for example];W[jm]
+;B[jl];W[kl];B[kn];W[io];B[lk];W[jk];B[il];W[kk];B[ll];W[kj]
+;B[ki]C[* No chance for white.]))
+(;B[lo]C[* I don't think white can do anything after this.]
+))
+(;W[dh];B[bi];W[cg];B[cj];W[hi]C[* More points for white this way..]
+))
+(;B[ej];W[ij];B[hi];W[il];B[jk];W[im];B[in]C[* White has nothing]
+))
+(;B[ej]C[* this fixes up all your weaknesses..];W[hl];B[il]
+;W[ik];B[hk];W[im];B[jl];W[in];B[jo];W[io];B[fl]C[* sayonara]
+))
+(;B[hl]C[* This looks much tougher. White cannot cut];W[gm]
+;B[gn];W[jp];B[kp];W[hn];B[ho];W[in];B[io]C[* it's nothing..]
+))
+(;B[dm]C[* This is big, and white will have trouble answering.]
+
+(;W[in];B[fm]C[* Black is connected and white is running. White will probably get into a splitting attack between the top and bottom groups.]
+)
+(;W[en]C[* If here..];B[gm]C[* White cannot escape here. White is starting to look dead..]
+)))
+(;B[jg]C[* This looks like a good move. Can you see how white will escape ? Let's try something.]
+;W[jf]C[* This seems to be the only move that works.]
+(;B[if]C[* If black here it gets a bit hairy...];W[kg];B[kf]
+;W[je];B[ie];W[mf]TR[oc][pc][oe][pe][og]C[* White gets out this way. You can look at the variations from here yourself. The problem is that the black stones get weak..]
+)
+(;B[ig]C[* Maybe black can try this..];W[if];B[hf];W[he];B[ie]
+;W[hg];B[gf];W[kg]LB[mf:A]C[* If black cuts, there will be trouble, same as before (White gets out with A after connecting).. so..]
+;B[hh]C[* Black takes big profit by capturing this stone];W[kf]
+;B[mh]C[* This looks very good for black.];W[ki];B[gg]C[* Black is thick. White will not make much territory.]
+)))
+(;W[mf]C[* White should play around here. There is no problem on the right.]
+))
+(;B[ld];W[ne];B[nf];W[me]C[* White has to make bad shape];B[og]
+;W[lf];B[re]C[* Now black can make some eyes in the corner to prepare for the attack]
+;W[rf];B[qd];W[qf];B[lh]C[* And chase white over the neutral points between the top territory and the capping moves..]
+;W[jf];B[jh];W[hf];B[ke];W[kf];B[ff];W[ih]C[* The pressure is on white.]
+;B[ii];W[hh];B[fh];W[hi];B[ch]C[* Black would be satisfied with this kind of outcome. In fact, the game is as good as won.]
+))
+(;B[od]C[* This is a bit more solid. Black will not be able to invade the top, otherwise white will invade the right and pull his cutting stone out.]
+)
+(;B[md]C[* This is a bit thin, and not a standard move, but it makes a nice balance at the top.]
+))
+(;B[pl]C[* Now the burden is on white. Can you see a way for white to capture the stone cleanly?]
+;W[ko]LB[fr:A]C[* Even if this captures, and I'm not sure, black still has A to reduce white's territory. Meanwhile, black has taken a lot of points on the right. I think this is more
+interesting than the game.]))
+(;B[pn]C[* Black can simply play here];W[lp];B[qq]LB[qe:A]C[* This is good enough for black. Black has territory on the left and on the right, white gets territory at the bottom. Nothing to be afraid of. You can even
+pincer white effectively if he approaches at A now.]))

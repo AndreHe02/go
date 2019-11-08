@@ -1,0 +1,94 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+PB[Elessar]
+BR[17k]
+HA[2]
+PW[M2910]
+WR[16k]
+KM[0.5]
+DT[2008-01-17]
+PC[IGS-PandaNet]
+RE[W+21.50]
+TM[600]
+RU[Japanese]
+
+AB[pd][dp]C[Thank you for taking the time to review my game.]
+;W[dd];B[qj]C[CZR: This is not a standard move (corner would be), but neither is it a *bad* move.  I would still prefer the corner to the side though.]
+;W[pp]C[CZR: White takes advantage of the open corner.];B[mc]
+;W[ic];B[gp]TR[cm][cn][dn]C[CZR: I think you chose the wrong side of the corner to play on simply because both black and white now face the left hand side and it is white's turn.  Moving in the marked area looks better to me because a move at the bottom of the board is then a natural follow-up.]
+;W[dj]C[CZR: White is the first to move, and naturally stakes out the larger portion of the side.]
+;B[cl]C[CZR: And you are left with the smaller portion.];W[cj]
+;B[bk];W[bj];B[ak]C[CZR: This exchange is bad.]
+(;W[aj]C[CZR: White should simply ignore you and play elsewhere (see branch).]
+
+(;B[ck]C[Was this a wasted move?
+
+CZR: Yes, you have too many stones all doing the same thing (which is not good in the opening).  See branch.]
+;W[fj];B[oj]C[CZR: This move looks to make a moyo in the upper right.  I'm not qualified to say where the best move is at this point, but this one has a good idea motivating it.]
+;W[cd]TR[aj][bj][cj][dj][fj]C[CZR: White secures his corner.]
+;B[pg]TR[np][mq][nq][qq]C[You should be more agressive here and approach q4.]
+;W[jj];B[fm]C[CZR: Same commend as last time.];W[mq];B[jq]TR[pn]
+C[CZR: I like q6 better.  It is a natural distance from both black stones above and the white stone below, and it flattens white out.  Now white can take a large corner with a play around r6.]
+;W[qn]C[CZR: I made my last comment without looking at this move :)  Really.]
+
+(;B[qm]C[CZR: Usually, don't touch (attack) your opponents stone if you want to contain them --- especially when you are not playing from strength.  White takes advantage and pushes out over you.]
+;W[pm];B[ql];W[pl];B[pk];W[om]C[CZR: I don't understand this move.]
+;B[hm]TR[kd][kf][kg]SQ[mc][pd][pg][oj]C[CZR: There are bigger moves, but you have the right idea in that you are trying to take more than your opponent.  Something along L appeals to me, it takes more advantage of your other stones.]
+;W[mm];B[gk]TR[gj]C[CZR: White says "thank you" after this move, because he gets to make a move he wants to make anyway.]
+;W[gj];B[ek];W[ej]C[CZR: If there was some possibility of invading the upper left, it is much smaller after the last two exchanges.]
+;B[dl]C[CZR: This move doesn't accomplish anything that nearby stones are not already doing.]
+;W[fk];B[fl];W[hk];B[gl];W[jl];B[kb];W[ib];B[mi]C[CZR: This move shows the right intent, it is just too little too late.]
+;W[kd];B[lc];W[ld];B[me];W[md];B[nd];W[lf];B[mg];W[lg];B[jn]
+;W[cq];B[dq]C[What is the best way for this fight to go? (56-75)]
+;W[cp]
+(;B[cr]C[Did I hane on the wrong side? I thought it would be better to push white to the top were I was strong.
+
+CZR: In the opening, C5 is correct.  It will be hard to kill white, a defensive move would have been in order to pre-empt this (think of a move to defend the corner instead of d8).
+
+I don't think you can keep white out of the corner, so I think it is correct to play c5.]
+;W[br];B[bs]C[CZR: This is too much.  See branch.]
+(;W[aq];B[co];W[dr];B[bp];W[bq];B[ap];W[cs];B[er];W[as];B[es]
+C[Would C5 have been better?
+
+CZR: See earlier variations.  I'll end the comments here as this was the last major exchange and the game looks to be lost.]
+;W[bo];B[bn];W[ao];B[an];W[ds];B[dn];W[kr];B[jr];W[kq];B[kp]
+;W[lp];B[ko];W[lo];B[ks];W[lr];B[ln];W[mn];B[kl];W[kk];B[ll]
+;W[lm];B[km];W[kn];B[lj];W[ls];B[js];W[ki];B[lh];W[kh];B[le]
+;W[ke];B[mf];W[lk];B[mk];W[ml];B[jm];W[kj];B[il];W[jk];B[ik]
+;W[ij];B[hl];W[hj];B[ja];W[ia];B[jc];W[jd];B[la];W[jb];B[kc]
+;W[ka];B[ol];W[nl];B[nk];W[li];B[mh];W[mj];B[nj];W[lj];B[rn]
+;W[qo];B[ro];W[rp];B[so];W[sp];B[sm];W[qp];B[ja];W[ln];B[em]
+;W[dk];B[el];W[ok];B[kg];W[kf];B[ol];W[jg];B[ip];W[tt];B[tt]
+C[You can check your score with the score command, type 'done' when finished.
+Click on a group of stones to mark it dead and remove it from the board.]
+;W[tt]TW[aa][ba][ca][da][ea][fa][ga][ha][ab][bb][cb][db][eb]
+[fb][gb][hb][ac][bc][cc][dc][ec][fc][gc][hc][ad][bd][ed][fd]
+[gd][hd][id][ae][be][ce][de][ee][fe][ge][he][ie][je][af][bf]
+[cf][df][ef][ff][gf][hf][if][jf][ag][bg][cg][dg][eg][fg][gg]
+[hg][ig][kg][ah][bh][ch][dh][eh][fh][gh][hh][ih][jh][ai][bi]
+[ci][di][ei][fi][gi][hi][ii][ji][nm][nn][on][pn][mo][no][oo]
+[po][ap][bp][mp][np][op][lq][nq][oq][pq][qq][rq][sq][ar][cr]
+[mr][nr][or][pr][qr][rr][sr][bs][ms][ns][os][ps][qs][rs][ss]
+TB[ma][na][oa][pa][qa][ra][sa][lb][mb][nb][ob][pb][qb][rb][sb]
+[nc][oc][pc][qc][rc][sc][od][qd][rd][sd][ne][oe][pe][qe][re]
+[se][nf][of][pf][qf][rf][sf][ng][og][qg][rg][sg][nh][oh][ph]
+[qh][rh][sh][ni][oi][pi][qi][ri][si][pj][rj][sj][qk][rk][sk]
+[al][bl][rl][sl][am][bm][cm][dm][gm][im][rm][cn][en][fn][gn]
+[hn][in][sn][do][eo][fo][go][ho][io][jo][ep][fp][hp][jp][eq]
+[fq][gq][hq][iq][fr][gr][hr][ir][fs][gs][hs][is]C[You have typed done.
+M2910: 127.5 to Elessar: 106.0])
+(;W[dr]C[CZR: Black is hurting after this cut.]))
+(;B[co];W[bo];B[bn]C[CZR: Now, the double hane.]
+(;W[cn]C[CZR: If white continues like this (thinking you are playing too weak), take back the corner.]
+;B[do];W[bm];B[bp];W[an];B[bq]C[CZR: White will die.])
+(;W[dr]C[CZR: White should now just try for the corner.];B[er]
+;W[br];B[bp];W[bq];B[ao];W[cs]C[CZR: Looks like white lives, however small.]
+)))
+(;B[pm]C[CZR: The shoulder hit looks better to me.]
+(;W[qm];B[ql];W[rl];B[qk])
+(;W[pn];B[om];W[qm];B[ql];W[rl];B[rk])))
+(;B[mq]C[CZR: Black plays elsewhere.];W[ck]C[CZR: If white attacks...]
+;B[bm]C[CZR: Black can still easily defend.  Now white is the one with to many stones in the area.]
+))
+(;W[nq]C[CZR: White ignores.];B[aj];W[bh]C[CZR: If black follows up, white can still respond losing a little portion on the side, but gaining much more elsewhere (around Q4 in this example).]
+))

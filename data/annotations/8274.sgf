@@ -1,0 +1,189 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.17]
+
+GN[schEkkEr-Bugzaren-627309-20110303]
+PB[Mikael Kardell (Bugzaren)]
+BR[11k]
+PW[Stefan (schEkkEr)]
+WR[11k]
+KM[1.5]
+DT[2011-02-03,2011-03-03]
+PC[Dragon Go Server: http://www.dragongoserver.net/]
+RE[B+8.5]
+RU[Japanese]
+GC[Game ID: 627309, rated]
+
+C[Hi,
+
+I played White and lost by some points in the end. My questions:
+- What could I have done better in the fuseki?
+- Would there be a way to turn this around in the endgame?
+- Of course I appreciate pointers to other obvious mistakes.
+
+Thanks!
+
+
+Hey Stefan,
+I'm Max, a 6kyu from Berlin, Germany.
+
+I will add alternatives by marking your game move with A and showing alternatives with the following letters.
+
+I will prefix all my comments in the main game line with "Max-" and try to address all the questions you added.
+
+I'll also give a summary of the review at the end of the game.]
+;B[qd];W[dd];B[dp];W[pp];B[oc]LB[qi:B][pj:C][qj:A]
+(;W[qj]C[Max- A good move, limiting the shimari's potential and somewhat working with white's 4-4 on the bottom, though I prefer one of the two alternatives.]
+;B[jp]LB[dj:A][cn:B]
+(;W[dj]C[Max- D10 works well with D16, but this move looks a little to slow/passive to me. See C6 alternative.]
+;B[jc]LB[fc:C][qg:A][cn:B]
+(;W[qg]C[Max- A slow move. This is purely a point move that limits the shimari's potential. R10 is in no danger and doesn't need to be defended. See alternatives.]
+;B[np]LB[pn:A][nq:B]
+(;W[pn]C[I guess there was nothing special up to here.
+
+Max- Although Q6 works well for white, she missed an opportunity for getting the better part of this exchange, see alternative.]
+;B[dl]LB[dg:A][cq:B]
+(;W[dg]C[Max- Too passive, black is expanding his potential at the bottom left nicely and white is not getting enough in return. The three high stones at the top do not make good shape.]
+;B[fc]C[Max- White's three stones at the top have been effectively neutralized. C3 would have been even better for B though, as the top white stones' potential is limited anyway.]
+;W[lq]LB[lp:B][mq:A]C[Max- The wrong direction. If white wants to destroy black's potential C3 invasion would be easiest. White is basically offering a stone to be attacked and not gaining anything in return.]
+(;B[mq]C[Max- A horrible blunder by black];W[lp];B[nn]LB[ln:B]
+[fp:A]
+(;W[fp]C[In retrospection this seems dubious to me. I create a weak group and leave it to create another. Should I have continued with m6 or so?
+
+Max- Yes, M6 is urgent for both.];B[eq];W[fq];B[iq];W[do];B[co]
+LB[dn:B][ep:A]
+(;W[ep];B[dq];W[fn]C[Max- Bad shape, see alternative];B[jn]
+;W[ln];B[lr]LB[mp:A][kr:B]
+(;W[mp]C[I think it would have been more consistent to try l2, and to isolate the black k4 stones.
+
+Max- Yes, L2 is urgent, seperating black and completely destroying the K4 group's base]
+;B[nr];W[ll]C[At least I get to jump out.
+
+Max- This is very bad for white. Black is connected and strong everywhere, whereas white has the weak M4 and F4 groups to worry about. Both have bad shape and can be attacked by one seperating group. Black plays K8 to win the game.]
+(;B[kq]C[Now I don't have a base and he's connected and strong.]
+;W[mn];B[on];W[oq];B[nq]LB[ol:A][dn:B]
+(;W[ol]C[His next move shows this is too loose. q8?
+
+Max- Besides being too loose as you noted, this is the wrong direction. The right is not important, it's only points. White needs to worry about both of his weak groups and try to defend them as quickly as possible. See alternative.]
+;B[pm];W[qn];B[om]LB[nl:A][dn:C][or:B]C[Max- Now white's bottom right is also getting weak. The P8 stone is of no importance, white needs to start defending all her weak groups.]
+(;W[nl];B[pr];W[qq];B[qr]LB[dn:B][rr:A]
+(;W[rr]C[Max- Very small, D6 is urgent.];B[or]LB[pl:A][qm:B]
+(;W[pl]C[Is r7 better here?
+
+Max- Perhaps, see alternative];B[qm];W[rn];B[rm];W[db]C[Max- Weak groups have priority to points]
+;B[fe];W[hc]C[Max- White is invading where there are hardly any points to destroy. Simply playing P15 or K15 to limit black's potential would be better alternatives.]
+;B[id];W[fb];B[hd];W[gc];B[gd];W[ec];B[dn];W[fl]LB[ek:A][eo:B]
+(;B[ek]C[This shows I make it too easy for him. Two weak groups on the bottom to chase for him.
+
+Max- Exactly, this has been neglected far too long. Taking at E5 would have been even better for black, see variation.]
+;W[fk]
+(;B[ej]C[Max- Very weak by black, see variation.];W[ei];B[fj]
+;W[hk]
+(;B[pf]LB[pg:A][jl:B]
+(;W[pg]C[Max- K8 is urgent, Q13 is only points.];B[of];W[nh]
+C[I use my thickness to make territory here and make him stronger by the way. How could I have played this better?
+
+Max- White is not making territory as black has undercut her with S7. She is overconcentrated on the right and is in danger of being cut again at K9.]
+;B[mg]LB[ih:B][mh:A]
+(;W[mh]C[Max- Answering here is just helping black make more points. White has nothing to defend, there are no points for her here.]
+;B[lg];W[ck];B[cl];W[bk];B[bl];W[dk]C[aji keshi
+
+Max- Yes.];B[el];W[hm];B[ki];W[lj];B[hh];W[ib];B[jb];W[re];B[rd]
+;W[qe];B[pe];W[fg];B[gf]LB[ja:B][ee:A][al:C][fr:D];W[ee]C[Max- Small and gote, see alternatives for larger sente moves.]
+;B[ak];W[aj];B[al];W[bj];B[fi];W[eh];B[gh];W[jo];B[io];W[ko]
+;B[im];W[il];B[jl];W[jk];B[hn];W[gn];B[rk];W[rj];B[qk];W[pk]
+;B[og];W[oh];B[li];W[mi];B[kj];W[kk]C[He plays this really well, using his sente to fix the shape.]
+;B[hp];W[op];B[pq];W[qp];B[oo]
+(;W[er]C[Max- Large, but gote. K18 would have been bigger.]
+;B[dr];W[fr];B[eo];W[go];B[ho];W[ji];B[jh];W[ii];B[ih];W[hr]
+;B[ir];W[hq];B[sn];W[so];B[sm];W[ro]C[Max- S4 is much better for eye shape.]
+;B[po];W[rs];B[sj];W[si];B[sk];W[ri];B[qf];W[rf];B[ic];W[hb]
+;B[ff];W[ef];B[en];W[ja];B[ka];W[ia];B[kb];W[rg];B[gm];W[fm]
+;B[hl];W[ik];B[hs];W[gs];B[is];W[gp];B[hm];W[sd];B[gk];W[es]
+;B[sc];W[se];B[rb];W[ds];B[br];W[bs];B[cr];W[cs];B[ar];W[gj]
+;B[gl];W[hi];B[gi];W[hj];B[fd];W[jj]C[Max- 1 point double-gote.]
+;B[km];W[kl];B[jm];W[nm];B[qo];W[rp];B[ng];W[lh];B[kh];W[gg]
+;B[hg];W[fh];B[lm];W[mm];B[mo];W[lo];B[no];W[qs];B[ps];W[ql]
+;B[rl];W[tt]N[W PASS];B[em];TW[aa][ba][ca][da][ea][fa][ga][ha]
+[ab][bb][cb][eb][gb][ac][bc][cc][dc][ad][bd][cd][ae][be][ce]
+[de][af][bf][cf][df][sf][ag][bg][cg][eg][sg][ah][bh][ch][dh]
+[ph][qh][rh][sh][ai][bi][ci][di][ni][oi][pi][qi][cj][ij][mj]
+[nj][oj][pj][lk][mk][nk][ok][ml][sp][gq][rq][sq][gr][sr][fs]
+[ss]TB[la][ma][na][oa][pa][qa][ra][sa][lb][mb][nb][ob][pb][qb]
+[sb][kc][lc][mc][nc][pc][qc][rc][jd][kd][ld][md][nd][od][pd]
+[ge][he][ie][je][ke][le][me][ne][oe][hf][if][jf][kf][lf][mf]
+[nf][ig][jg][kg][sl][am][bm][cm][dm][an][bn][cn][in][ao][bo]
+[do][ap][bp][cp][ip][aq][bq][cq][jq][jr][kr][mr][js][ks][ls]
+[ms][ns][os]C[White: 69 territories + 0 prisoner + 1.5 komi = 70.5
+Black: 77 territories + 2 prisoners = 79
+Result: B+8.5
+
+Summary
+In general I would say you played quite well, your reading and tactics seem sound enough. The main thing you need to work at the moment is your strategic analysis.
+
+In fuseki, don't concentrate on making or taking points, instead focus on the relative strength of positions and how strength/influence is developing. Always ask yourself "where are there weak groups?" first, before considering any alternative moves.
+
+In the mid-game, pay closer attention to which groups can be cut and which have no base and/or bad shape. Keeping your own groups strong while hurting the opponents' weakish ones should always be your top priority. Don't worry about points as much, instead worry about eye space and staying connected.
+
+In the end-game, you should always keep an eye out for the obvious sente moves, which are usually on the 2nd and 1st line. Try to get as many as those before your opponnent and limit gote moves to when you are making a lot of points and/or you are forestalling an opponnent's large sente move.
+
+I hope you enjoyed this review and could take one or two ideas from it. Let me know if there is anything you are in disagreement about or if you have any questions!
+
+All the best,
+Max]N[RESULT])
+(;W[ja];B[ka];W[ia];B[lb]))
+(;W[ih]C[Max- Something like this might work to limit black's top potential and help the F4 group. K9 is still a very good if perhaps too slow move.]
+))
+(;W[jl]C[Max- White can now connect and again has hope.]))
+(;B[jk]))
+(;B[fj]C[Max- The only move.]
+(;W[ej];B[gj])
+(;W[gj];B[gk]C[Max- Black can just cut here.])
+(;W[hk];B[jk];W[gj];B[fi]C[Max- Possible continuation, white must keep running and black will be able to destroy white's left later.]
+)))
+(;B[eo];W[fo];B[ek]C[Max- F4's shape is ruined and it is very weak.]
+))
+(;W[qm];B[pl];W[oj]C[Max- Viable option]))
+(;W[dn]C[Max- Still most urgent, white doesn't have to worry about S3, S4 is a good enough response.]
+))
+(;W[or]C[Max- The bottom right is secure (with points even).]
+)
+(;W[dn]C[Max- Still the best move.]))
+(;W[dn]C[Max- Because black never ataried at D6, white can strengthen the F4 group here and try to make good shape]
+;B[cn];W[el];B[ek];W[dk];B[cl];W[fl];B[fj]C[Max- One possible way how white could strengthen the F4 while not hurting the M4 group]
+))
+(;B[jl];W[kr];B[kq]C[Max- There was no base after O2]))
+(;W[kr];B[mr];W[kq]))
+(;W[dn];B[cn];W[fn]C[Max- How white makes shape]))
+(;W[ln]C[Max- By far the strongest move, puts pressure on blacks weak O4 group and strengthens white's weak M4 group.]
+))
+(;B[lp]C[Max- The only move, connecting his stones and putting pressure on white.]
+))
+(;W[cq];B[dq];W[cp];B[co];W[bo];B[cn];W[bn];B[cm];W[dr];B[er]
+;W[cr];B[fq];W[nq];B[mq];W[oq];B[mp];W[fj]C[Max- Black is overconcentrated at the bottom and white has effectively neutralized his influence.]
+))
+(;W[nq];B[mq];W[oq];B[mp];W[pn]LB[dl:A][cn:B]C[Max- White has gottom Q6 as before, but now black is overconcentrated at the bottom. He can't utilize the strength gained in the exchange because D4 hasn't been strenghtened yet.]
+(;B[dl]TR[cq];W[cq]
+(;B[dq];W[cp];B[co];W[bo];B[cn];W[bn];B[cm];W[dr];B[er];W[cr]
+;B[fq]C[Max- Now black is severly overconcentrated at the bottom.]
+)
+(;B[cp];W[dq];B[eq];W[er];B[fq];W[fr];B[gq];W[bp];B[bo];W[bq]
+;B[cn]C[Max- Black's strength at the right is wasted and limited on the left by D10 (which white will now secure)]
+))
+(;B[cn]TR[hp][cq][fq][dr]C[Max- Black hasn't gained enough from the exchange, the bottom is still open and feels overconcentrated.]
+)))
+(;W[cn]LB[qh:A]C[Max- Where white wants to be! Limiting black at the bottom severely and maximizing her potential for the D16 / D10 stones]
+;B[qh];W[oe]C[Max- White doesn't have to worry about the shimari as it's potential can be neutralized later in the game.]
+)
+(;W[fc]C[Max- The next interesting point after C6.]))
+(;W[cn]LB[cl:A][fq:B]C[Max- A more direct approach seems like the better alternative here. White does not have to be afraid of getting pincered.]
+(;B[cl];W[cq]
+(;B[dq];W[cp];B[do];W[bn];B[em];W[nq]C[Max- Black gets some influence, but it is hampered by white securing the bottom right. Black can't "expand from strength" as the approach at O3 is not possible.]
+)
+(;B[cp];W[dq];B[ep];W[bp];B[bo];W[bq];B[co];W[fq]TR[cf][go]
+C[Max- Black has lost all potential at the bottom and hasn't gained enough on the left]
+))
+(;B[fq];W[dj]C[Max- C6 minimizes black's potential on the bottom and D10 works very well with white's D16 hoshi]
+)))
+(;W[qi]TR[qf]C[Max- Limiting the shimari's potential stronger and still leaving room to make a base]
+)
+(;W[pj]C[Max- Not limiting the shimari as strongly, but working better with the hoshi to build influence]
+))

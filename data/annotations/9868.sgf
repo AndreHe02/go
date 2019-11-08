@@ -1,0 +1,126 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.16]
+
+PB[tamingo]
+BR[3k]
+PW[coba]
+WR[3k]
+KM[6.5]
+DT[2015-10-21]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[W+Resign]
+TM[1500]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+C[Hi Tamingo
+
+I offered you 7 questions to think about
+
+Q1 - 150-151 - look for cutting points in close combat
+Q2 - 100-101 - how to win fights: count liberties
+Q3 - 88-89 - think big in a fight (strategic evaluation)
+Q4 - 76-77 - another haengma: the one space jump instead of the empty triangle 
+Q5 - 72-73 - haengma: avoid "hane at the head" or "ja choong soo"
+Q6 - 64-65 - understanding the size of a ko and the impact of a threat (this is the most interesting but also the hardest evaluation in the game)
+Q7 - 20-21 - diagonals and keimas, a "haengma" to remember
+
+The reason why I ask them backwards is that I believe games are decided near the end, not the beginning. So, it makes sense to invest in improving end game, or fighting that occurs when liberties become scarce.
+
+Based on this game alone, but also in general I would recommend the following reads:
+
+Haengma tutorial for beginners - by Kang U Min, at Sensei's Library
+Counting Liberties and Winning Capturing Races - a book by Richard Hunter, some material also present in Second book of Go by Richard Bozulich
+
+This will equip you with basic technique and basic tactics in fighting.
+Good luck and enjoy the game of Go.];B[qd];W[dp];B[oc];W[pq]
+;B[dd];W[po];B[qj];W[jp];B[jc];W[di];B[cn];W[co];B[dn];W[fp]
+;B[ck];W[bo]
+(;B[ek]C[dv: the opening is much better for Black. White is overconcentrated at the bottom.]
+;W[cf];B[bd]C[dv: your opening skills are fine];W[fc]C[Q7: can you find the proper technical move here to separate White?]
+
+(;B[fe];W[cc];B[cd];W[dc];B[ed]C[dv: Good shape];W[gc];B[fi]
+C[dv: good capping attack];W[fg]
+(;B[he]LB[id:A]C[dv: this move leaves a gap];W[hg];B[eh];W[eg]
+;B[dh];W[dg];B[ch];W[id];B[if];W[jd];B[kd];W[ic];B[ke]C[dv: good]
+;W[ih];B[jf];W[kh];B[lg];W[pl];B[oj];W[nh]C[dv: greedy by White. He's ahead in territory so he should not invade in the vicinity of his big weak group]
+;B[lh];W[mi];B[li]C[dv: this hurts white a lot];W[mk];B[nk]
+;W[nl];B[mj];W[pj];B[pk];W[pi];B[ql];W[oi];B[lk];W[nj]C[did not see this ko
+
+dv: it IS hard to see];B[ni]C[dv: fortunately you are the first to capture]
+;W[gd]C[Q6: can you resist this threat?]
+(;B[ge];W[nj];B[ml]C[Couldn't find any big enough ko threats. Big loss. Maybe there is still a chance to win if We13 gets captured and black invades the lower side?]
+;W[ok];B[mp];W[ik];B[im]C[dv: good attack];W[hm]
+(;B[il]C[Q5: consider 2 alternatives];W[hl];B[hk];W[in]
+(;B[jm]C[Played like this, so the H9 stone is not weakened (see variations).
+
+Q4: there is yet another alternative];W[jn]
+(;B[km];W[gk];B[hj];W[gj];B[gi];W[kj];B[hi];W[lj];B[mk]C[This is bad, but letting white capture H10 is not an option.
+
+dv: it is not bad];W[kk]C[Q3: how to win the fight. Hint: think big]
+
+(;B[jk];W[ll];B[mm];W[lm];B[ln];W[kl]
+(;B[kn];W[mn];B[nm];W[ol];B[nn];W[mo]LB[ki:1][jj:2][jl:3][om:A]
+[on:B][no:C]C[dv: count liberties]
+(;B[ji]C[doesn't work - N9 gets captured
+
+Q2 how to do better? Try to calculate 5 moves deep. Count liberties.]
+;W[no]C[game seems to be lost now];B[jj];W[ki];B[jh];W[kg];B[kf]
+;W[on];B[hn];W[ho];B[gn];W[go];B[fn];W[ko];B[rn];W[lo];B[jl]
+;W[om];B[pg];W[qk];B[rk];W[rl];B[pk];W[mf];B[mg];W[ng];B[lf]
+;W[qk];B[jr];W[qm];B[nf];W[of];B[ne];W[pf];B[qf];W[og];B[qh]
+;W[kc];B[lc];W[jb];B[gr];W[fr];B[fq];W[gq];B[eq];W[hr];B[er]
+;W[gs];B[ep]C[dv: good];W[eo]C[Q1: Black to play next and do better. Consider at least two white answers.]
+
+(;B[cr]C[dv: this misses the opportunity to cut and now the game is really over]
+;W[do];B[fo];W[gp];B[bn];W[en];B[fm];W[em];B[gl];W[cq];B[bq]
+;W[dr];B[ds];W[dq]C[tamingo [5k?\]: thx
+
+dv: As said, your opening skills and middle game strategy are very good. You will increase your winning percentage by paying attention to basic technique and counting liberties when fighting.
+
+I hope you enjoyed the review and feel free to come back any time.
+
+Dieter])
+(;B[fo]C[this cut would give you a chance to come back]
+(;W[gp];B[do]C[Now Black has a game again.])
+(;W[do];B[gp];W[en];B[em])
+(;W[en];B[do];W[em];B[gp]LB[dl:A][cp:B])))
+(;B[ki]C[dv: reduce liberties when the count is equal];W[jj]
+;B[ji];W[jl]LB[ij:1][jk:2][ko:A][lo:B]C[Black is still fine]
+;B[ij]C[dv: this kind of calculation should be possible]))
+(;B[mn]))
+(;B[mm]C[This move increases the liberties of your cutting group. It is not easy for White to capture it.]
+;W[ki]C[If white resists here]
+(;B[gg]C[black can cut here if needed])
+(;B[kn]LB[hn:A]C[but here is probably enough, aiming at A. Black's shape becomes strong, with eyespace]
+)))
+(;B[jk];W[ij];B[gj]C[better?]))
+(;B[km];W[jm];B[jl];W[jk];B[kl];W[gk];B[hj];W[gj];B[hi];W[gi]
+;B[jj];W[fl];B[gh];W[hh];B[ij];W[fh]C[white connects to the outside]
+)
+(;B[jk];W[ij];B[gk];W[kj];B[lj];W[jl];B[jm];W[kl];B[km];W[kk]
+C[White may get second eye and live.])
+(;B[kl]C[dv this is the shape];W[gk];B[hj];W[gj];B[gi];W[hi]
+;B[ij];W[kj];B[jk];W[lj];B[mk]))
+(;B[hl]C[inside hane];W[il]C[this makes it hard for Black]
+(;B[jm];W[gl];B[hk];W[gk];B[hj];W[gj];B[hi];W[gi])
+(;B[gl];W[jm];B[in];W[jn];B[io];W[jo]))
+(;B[hn]C[outside hane];W[hl];B[gn]C[think big!];W[in];B[jm]
+C[this is hard for white
+
+The outside hane is best and it is the basic move, so this kind of analysis should be possible.]
+))
+(;B[ml]C[dv: capturing gives you a dominant position in the centre and captures the right side on a large scale.
+
+Now, how bad was white's threat, compared to that?];W[ge];B[gf]
+;W[gg]C[best move, leaving two places to cut];B[cg]LB[bf:A]
+[df:B]C[But ... It is hard for White to cut off Black];W[bf]
+;B[df];W[ff];B[ce];W[hf]C[White can connect, but winning the ko on the right side was a big gain
+
+This is not an easy thing to calculate or visualize. So I understand you decided to answer the threat]
+;B[hp]))
+(;B[hd]C[dv: again, this move uses the relationship between keima opposition and diagonal development.]
+))
+(;B[ee]LB[gd:A]SQ[fc][cf]C[there's an intrinsic relationship between a diagonal move and a keima opposition of stones; the triangled move separates the white stones perfectly; next Black can aim at A for another such relationship of diagonal and keima, in order to gain more influence
+
+see Haengma tutorial for beginners]))
+(;B[dg]C[dv: you could also choose to attack here]))

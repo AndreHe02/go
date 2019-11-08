@@ -1,0 +1,153 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.15]
+
+PB[cerisara]
+BR[10k]
+HA[2]
+PW[XapD]
+WR[8k]
+KM[0.5]
+DT[2009-06-09]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[W+57.50]
+TM[600]
+OT[5x20 byo-yomi]
+RU[Japanese]
+
+AB[dp][pd]C[Cerisara:
+I am B - I asked for a game review because I felt very uncomfortable about
+failing to make a safe base at stone 136 - which I think made me loose.
+
+This is important for me because I read
+everywhere that a 3-point exntension
+makes a safe base... and I lost it.
+
+So what did I miss ?
+
+Peter : Hi Ceri, my name is Peter, 5k on kgs. I think this is a very interesting game with a lot to look at. I appreciate that you have a specific concern around stone 136, and I'll spend some time on that, and. I'd also like to make some comments on the strategy leading up to that point that made the invasion necessary. My comments will be marked with P 
+
+As for notation, I often use w for white and b for black, particularly when talking about a stone, for instance bq16 is the black stone at q16.]
+;W[pp];B[dd];W[qf];B[nc];W[rd];B[qc];W[of];B[cj]TR[of][qf][rd]
+C[P : Kageyama writes in his book on handicap go, that the player with black is forced by the position of the handicap stones to play an influence oriented game. He says that a common mistake is to try and use the advantage to play tightly and create an early territorial lead, forcing white to invade,. However, this often fails because it gives teh stronger player the intiative. He argues that it's best for black to take the offensive and use influence to attack and expand rapidly on a large scale, as one would in a non-handicap game.
+Playing the chinese opening here gives the initiative to white, when perhaps it is black who should be seeking ways to attack. wp14 is a departure from the standard joseki, indicating a special strategy by white. The three marked w stones aim to create a moyo with the q4 stone, but they are  without a base, making them good candidates for attack, not right away, but in the next few moves.
+I personally prefer an approach around O4 for black rather than c10.]
+;W[fq];B[hq];W[cq];B[dq];W[cp]
+(;B[co]C[P : The joseki move here is d5, because of the presence of the approach stone at f3. the weakness at d5 is too dangerous when there's a w stone around f3. Consider the variation.]
+;W[bo];B[cn];W[bn];B[cm];W[dr];B[er];W[cr];B[eq];W[fr];B[es]
+;W[eo]
+(;B[do]C[P : Check out the variation on this move for another way of handling this.]
+;W[go];B[kq];W[mq];B[io];W[hp];B[ip];W[gq];B[hr];W[gm];B[im]
+;W[gk];B[ik];W[jn];B[in];W[gi]
+(;B[lo]C[P : I think this is the right idea, letting the white g3 group run if it wants while black uses the j6 wall to press in the other direction -- w will probably responed, and you can go back to attacking the wg3 group later. However, I think m5 is too small. The proverb 'play  away from thickness' applies to your own thickness too. I would prefer a move around q6, to build up strength towards threatening the w stones in the top right.
+
+The invasion that failed towards the end could have been avoided by using thickness to attack earlier in the game. Invasions like that should be avoided wherever possible, so disrupt the moyo before it forrms, especially when you have a fine wall to help you.
+
+Here's a variation.];W[lr];B[kr]C[P : there is a proverb that says run before living. W m2 is not a threat - defending it is worth only two points of territory, so best to take sente elsewhere to invade the right side.]
+;W[mn];B[ln]C[P : This sequence is very very good for white. White builds a strong wall and seals off (almost) territory, while black gets nothing in exchange. Blackbuilds a wall facing a wall s/he already has, while white's wall faces untouched area. Pushing through at n5 then jumping into the right side is better.]
+;W[mo];B[mm];W[nm];B[ml];W[nl];B[gg];W[mk];B[ll]C[P : this is kindof a depressing move, being forced into an empty triangle where there is little for you to gain. It would have been better to ignore wn9 and continue surrounding the fleeing white stones at h12. 
+
+Playing a tenuki like g13  away from the pushing battle at n8 means you've read ahead and don't fear your opponent making a second move against your n8 stones, so there's no need to reply when s/he does.]
+;W[lk];B[kl];W[ii]C[P : This way, w gets everything s/he wants, getting to wrap around the m9 stones and also reply to bg13.]
+;B[hj];W[gj];B[hi];W[hh];B[gh];W[ij];B[hk];W[hl];B[il];W[di]
+;B[ci]SQ[bm]C[P : unfortunately, these responses are just what w wants. White forces black into letting him live, making life in sente, and b gets nothing in return because the left side is still open at the squared point. It's better to resist at d10 or f11. You don't need to worry about the life of the d5 group because you can still connect underneath at f1.
+
+Often in handicap games, w gets to set the agenda for both players, and we can really see that here. W has been telling black where and how to play for the last fifteen moves and black has gone along with it.]
+;W[dj];B[dk];W[ek];B[dl];W[el];B[em];W[fm];B[ih];W[en];B[ji]
+;W[jj];B[kj];W[dm];B[cl];W[ch]
+(;B[bh]C[P : This is very bad for black. The left side is still open at b7, and b is being forced to crawl along the 2nd line, also known as the line of defeat. 
+
+Check out the variation here.];W[bk];B[bj];W[bl];B[ck];W[bm]
+;B[cg];W[dh];B[dg];W[bf];B[bg];W[cc];B[dc];W[cd];B[ce];W[be]
+;B[cf];W[db];B[eb];W[cb];B[fc];W[jc]C[P : wk17 is a gift for black. W is far ahead on territory and has no need to launch a risky unsupported invasion. This is a bad move that deserves to be punished.]
+;B[lc];W[hg];B[ie];W[ig];B[jk];W[jg];B[je]C[P : Black has handled this pretty cooly up til now. white's 3x3 invasion in the top left was, in my opinion, too early because it gave black an excellent position. White trying to run with the h13 stones is silly and desperate and he deserves to be punished for burdening himself with a weak heavy group drifting in the middle of the board.
+However, bk15 doesnt do that. It's too easy for w to run at both m13 and l16. N14 is much better, as it's also a reducing move on the white moyo. No need to worry about k17 linking up with k13 -- they'd be equally weak together.]
+;W[gf];B[fg];W[ff];B[ef];W[he]
+(;B[hd]C[P : Check out the variation here.];W[gd];B[gc];W[id]
+;B[hc];W[lf]C[P : This is a vital point, the same one that black took in the variation on move 118. It is on the line between the black adn white moyos, and it is also the connection point for w.]
+
+(;B[kf]C[P: This is too early. The black stones there are too weak, and it forces w to strengthen his/her position at b's expense. See the variation.]
+;W[kg];B[lg];W[ke];B[kd];W[jf];B[jd];W[lh];B[mg];W[mf];B[qk]
+;W[qn];B[qh]C[Cerisara: Here we are : I thought there is
+enough space to succesfully invade.
+Making the 3-point extension...
+
+P : this black invasion comes much too late, although it's still possible to succeed. You ask why the two point extension on the 3rd line failed you when everywhere on the internet it's called solid. Well, it's very solid, but it's not alive on it's own. It has a lot of potential for making life or for escaping, and the two stones are firmly linked, but it can still be killed, especially when its all boxed up inside strong opponent positions and is being made in gote, allowing w the first move against it...
+
+Consider invading at r3 first, or at any point in the next several moves.]
+;W[pi]C[.]
+(;B[qi]C[P : You ask a question on move 145 about how black could have lived here. Because the extension was made in gote, b is going to have to ignore one of white's forcing moves , If black doesn't, it's guaranteed death because white is getting all the important points. check out the variation here.
+
+However, I believe that white still wins, even if this invasion succeeds.]
+;W[rl]
+(;B[rk]C[P : Black is completely dead now. It's important to not respond to every white move here so complacently. Check out the variation for another possibility.]
+;W[rg];B[rh]C[From there on, I feel unseasy: I see
+that my shape is too small !
+How could I have made it bigger ?
+
+Nevertheless, I still insist, because
+I hope it will be possible to either link
+it with the two stones at M13, or
+cut at O9];W[pj];B[ql]C[my goal there is to prepare the cut
+at O9...];W[rm];B[qg]C[... and/or prepare the connection
+
+P : these are all good things to think about, but it's urgent to invade at r3 now.]
+;W[rf];B[ng]C[I was actually thinking about Q13,
+but it felt dangerous.
+I should have aknowledged it was
+hopeless...];W[og]
+(;B[nf];W[ne];B[me];W[nh];B[le];W[mh];B[kf];W[qq];B[sg]C[I saw it was dead: I was just trying
+to force some kind of ko to get something out of it, but I even failed
+doing this !
+
+P : Ya, there's no ko around there, just a dead group. w doesnt even need to respond to that.]
+;W[sf];B[si];W[rj];B[qj];W[nk];B[oe]C[From there on, I gave up the shape - and the game was over.
+All the rest is about defining frontiers
+just to get the final score.
+
+P : There are a few lessons to take from this game -- Do not simply follow your opponents moves, they are leading you to your doom. -- Establish a foothold in your opponents sphere or influence as early as possible, to avoid the necessity of risky invasions later on. -- Use thickness to attack, not to try and build territory. -- Look for double purpose moves, ones that for instance attack a weak group while building a moyo. Remember that the purpose of attacking is not to kill (it's much easier to live than to kill), but to build up strength to use elsewhere. You could have one the game if you'd used the wall on line j to build strength on the right side earlier, and you had a strong chance of winning if you had given white's weak group at h13 a harder time. 
+
+This is the last comment. Good luck in the future cerisara! I play on kgs as petition, feel free to message me if you want a game or if you have other questions about this. Be well!]
+;W[rc];B[rb];W[qd];B[pc];W[pe];B[od];W[sb];B[ra];W[mp];B[lp]
+;W[lq];B[hm];W[gl];B[dn];W[eh];B[eg];W[em];B[gr];W[fs];B[gs]
+;W[ks];B[js];W[ls];B[ir];W[fd];B[ed];W[fe];B[ho];W[gp];B[if]
+;W[hf];B[kh];W[da];B[ea];W[ad];B[ki];W[li];B[lj];W[mj];B[qb]
+;W[ds];B[sa];W[sc];B[nd];W[nf];B[jh];W[ee];B[de];W[ep];B[fi]
+;W[fj];B[fh];W[ej];B[gn];W[fn];B[hn];W[ag];B[ah];W[af];B[ak]
+;W[al];B[aj];W[ke];B[fo];W[fp];B[kf];W[ai];B[bi];W[ke];B[tt]
+;W[kf];B[tt];W[tt]TB[ai][df][ec][fa][fb][ga][gb][ha][hb][hs]
+[ia][ib][ic][id][ii][ij][iq][is][ja][jb][jc][jj][jl][jm][jn]
+[jo][jp][jq][jr][ka][kb][kc][km][kn][ko][kp][la][lb][ld][lm]
+[ma][mb][mc][md][na][nb][oa][ob][oc][pa][pb][qa]TW[aa][ab][ac]
+[ae][am][an][ao][ap][aq][ar][as][ba][bb][bc][bd][bp][bq][br]
+[bs][ca][cs][fk][fl][fo][ge][lg][mg][mi][mr][ms][ng][ni][nj]
+[nn][no][np][nq][nr][ns][oh][oi][oj][ok][ol][om][on][oo][op]
+[oq][or][os][pf][pg][ph][pk][pl][pm][pn][po][pq][pr][ps][qe]
+[qg][qh][qi][qj][qk][ql][qm][qo][qp][qr][qs][re][rh][ri][rk]
+[rn][ro][rp][rq][rr][rs][sd][se][sg][sh][si][sj][sk][sl][sm]
+[sn][so][sp][sq][sr][ss]C[cerisara [10k\]: thank you
+XapD [8k\]: thanks])
+(;B[oh];W[ph];B[mh]))
+(;B[pg];W[pf]
+(;B[ng];W[og];B[ni]
+(;W[oh])
+(;W[oi];B[nj];W[nk]
+(;B[oj])
+(;B[kh];W[jh];B[ki];W[oj])))
+(;B[oi];W[pj];B[oj];W[pk];B[ok];W[pl];B[nk];W[ph];B[ng];W[nf]
+;B[kh];W[jh];B[ki]C[P : This is one possibility.])))
+(;B[rg]C[P : white can't permit the cut at s14];W[rf];B[rm]
+C[P : White has to respond to this at s6. cutting through at r11 doesn't work.]
+;W[rn];B[ok];W[nk];B[ph];W[oi];B[oj];W[nj];B[ni];W[nh];B[mi]
+;W[oh];B[qm];W[pm];B[sn];W[so];B[sm];W[ro];B[qi];W[pj];B[qj]
+C[P : Black lives.]))
+(;B[mg];W[mf];B[ng];W[nf];B[pg];W[pf];B[oj];W[nk];B[qg]C[P: very dangerous for w.]
+))
+(;B[if];W[hf];B[lf];W[hc];B[gb]C[P : Not much chance for white here. Again, beware of just following what white is doing -- resist wherever possible!]
+))
+(;B[nj];W[nk];B[pg];W[pf];B[qj]C[P : If white extends from his top right group, black can jump to peep at p6, then approach at r6, however, w will probably block the other way. variation continues.]
+;W[ql];B[rg];W[rc];B[rb];W[rf];B[mf];W[ng];B[ni]C[P : Black gets a huge moyo at the top and a successful invasion on the right.]
+))
+(;B[qn];W[ql];B[on];W[qo];B[rn];W[ol];B[pk];W[pl];B[pi]C[w is left with a weak group fleeing towards your wall, and the wn3 q4 r5 stones are quite weak now too.]
+))
+(;B[fp];W[ep];B[gq]))
+(;B[do];W[dr];B[er];W[cr];B[eq];W[cn]C[Now, either bd7 restricting white, or bf4, firmly capturing wf3]
+;B[dm];W[cm];B[fp]))

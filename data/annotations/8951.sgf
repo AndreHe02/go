@@ -1,0 +1,176 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.17]
+
+PB[littlejohn]
+BR[10k]
+PW[xubpcl]
+WR[10k]
+KM[0.5]
+DT[2012-11-13]
+PC[IGS-PandaNet]
+RE[B+2.5]
+RU[Japanese]
+
+C[To my reviewer:
+
+I played the white. This was a close game. I felt like I could win even when we were scoring! Maybe I forgot the komi was 0.5, not 6.5!
+
+I made several obvious mistakes, and afterwards, I tried to minimize the damage. I tried to write down some of my thoughts during the game.
+
+Here are two things I need for help. First, I tried to make my white stones alive in three places. Each of them got only 2 to 3 points. I thought I was surrounded by the black, so I was hurrying saving those stones. Should I have any other way to fight back? Second, did I miss any chance to win in the final stage?
+
+Thanks for your help!];B[pd];W[dp];B[pq];W[dd];B[fc];W[cf]C[I want to go slower but stronger. I don't want to fight too early when I play white.
+
+-That's a perfectly good move. A common weakness at the 10k level (well, at all levels really) is to play overcomplicated moves rather than sensible, safe moves like C 14 that are just as good.]
+;B[id]
+(;W[ec];B[fd]TR[fc][id]C[I want to get sente here, and the story goes as I thought. But I'm not sure if #8 and #9 are good for the white or not.
+
+-Yes, you're thinking along the right lines in defending the corner, but see the variation at move 7. This shape is strong for black.]
+(;W[qf]C[I don't like the black to have a big moyo, so I played #10, not the right down corner.
+
+-This is OK, but allows black to secure territory on the top. As hinted at in the variations, black's moyo along the top as not as intimidating as it looks. If you are concerned about reducing it, why not directly play a low move along the top such as N17?]
+;B[qe];W[pf];B[md];W[qj]LB[qc:A][kd:B][od:C]TR[fc][fd][id][md]
+[pd][qe]C[I'm waiting for a chance to invade at A.
+
+-This is now very good for black, though there are certainly reducing moves at A, B and C for later on.]
+;B[qk]C[A pesky move.];W[pk];B[ql];W[pj];B[pl];W[mq]C[Very good.]
+;B[nq];W[np];B[nr]
+(;W[mp];B[lr]C[I regret when I see #25. So I decided to get something back in the right down corner. But I'm afraid this is the first mistake I made.
+
+-Not the end of the world.]
+(;W[mr];B[ms];W[pp];B[qp]
+(;W[qq]C[Mistake, need to take some time playing it out to be certain that it works to play an aggressive movve like this.]
+;B[op];W[po];B[oo];W[pn];B[qr]
+(;W[rq];B[ro]
+(;W[pr]LB[qo:B][pr:A];B[oq];W[rr];B[on];W[qo];B[rp];W[rn];B[qn]
+C[I didn't notice the tactic.];W[qs]C[You've done well to live in the corner.]
+;B[os];W[ps];B[kp]C[This is a nice move from Black.];W[mn]C[White stones are running away. It's a hard time for the white.]
+;B[mo];W[lo];B[lp];W[no];B[nn]
+(;W[mo]C[Waste of a move.];B[mm];W[lm];B[ko];W[ll]C[The whites are safe now, I think.
+
+-They're safeish, but black is now strong here.];B[ml];W[lk]
+;B[mk];W[mj];B[lj];W[ol];B[pm];W[nm];B[nj];W[mi];B[ni];W[nk]
+;B[mh];W[li];B[kj];W[ki]C[As your white group is safe, I'd play away somewhere else now. The top side is a concern (if you want to reduce it just invade) but there is also a huge amount of space on the left hand side.]
+;B[jj]
+(;W[ji];B[ij]C[Black had a wall in the upper area, so I tried to decrease their value. But I also feel that the three moves(#74,#76,and #78) are not efficient. Are there any better moves?
+
+-Yes, see move 76.];W[jm];B[kn];W[ln]C[Again this is a wasted move.]
+;B[km];W[kl];B[jl];W[im];B[oh];W[fq]LB[qh:A]C[After #88, I was worried about point A.
+
+-Yes, point A is devestating. Not only does it pretty much kill Q14, it threatens the life of the whole group of white stones ranging from r10 to k11.]
+;B[hq];W[qh]C[Phew!];B[ii];W[qc]C[I thought #91 was too slow.
+
+-I think r17 is a little slow :) The left hand side of the board is huge now.]
+;B[re];W[ob];B[rc];W[rb];B[rd];W[sb];B[nc];W[nb];B[mb];W[jg]
+LB[lc:A]C[Slow, left hand side! 
+
+As an aside, if you want to reduce the top, a peep at A may be a nice start.]
+;B[ig];W[ih];B[hh];W[jh];B[hg]C[All very slow.];W[hi];B[gi]
+;W[hj];B[hk];W[gj];B[fj];W[gk]
+(;B[hl];W[gl];B[hm];W[fi];B[gh]
+(;W[ej];B[gm];W[fl];B[fm];W[el];B[em];W[dm];B[dn];W[dl]C[I was trying to make the left to be my territory.
+
+-Yes, that has turned out well];B[cn]C[Good move by black.]
+;W[fo]C[Leave you a bit squased.];B[eo];W[ep];B[bp]C[#133 is much bigger than #132. Maybe I should go #133.]
+;W[il];B[ik];W[jk];B[in]LB[cq:A]C[OK, I'd be more concerned about playing  A here.]
+;W[jn];B[jo];W[jl];B[ho]C[Silly moves for white.];W[ip];B[hp]
+;W[io];B[hn];W[jq];B[lq];W[nl];B[hr]C[The white got nothing.]
+;W[cq]C[Good.];B[bq];W[br];B[dr]C[Ouch. Not sure how you can live here, it would be a good exercise to play out the variations.]
+;W[er];B[cr];W[ar];B[bs];W[dq];B[aq];W[gr];B[as];W[fs]C[White was alive, but very small.
+
+-Yes, I think it is the best you could do.];B[bl];W[bj];B[ck]
+;W[cj];B[dk];W[dj];B[ek];W[fk]
+(;B[cm]C[Approaching the end game now.];W[ng]C[I tried to invade into the black. Is that a good way? Or, is there any other place I should go first?
+
+-Yes this is excellent, perfect timing and a big move as we approach the end game.]
+(;B[nh];W[mg];B[og];W[of];B[lg];W[lf];B[kf];W[kg];B[lh]
+(;W[jf]LB[mf:A]C[My mistake. I should go A to protect those two white stones.
+
+-Ah that's a shame, killing o12 would have been the game winner and you'd done well to get there!]
+;B[mf];W[ke];B[nf];W[he];B[ge];W[hd];B[hc];W[gf];B[ff];W[fg]
+;B[hf]
+(;W[gg];B[ie];W[fh];B[gd];W[ef];B[ed];W[dc];B[fb];W[eb];B[oc]
+;W[lc]C[Good, though black could have punished you at Q18.]
+;B[mc];W[pb];B[ld];W[kd];B[kb]
+(;W[jc];B[jb]C[As a general rule for endgame, sente is crucial. Moves such as B9 are basically 'free' so play them first.]
+(;W[he];B[if];W[kc];B[lb];W[rj]C[Cover the other side f];B[rk]
+;W[rf]C[Good.];B[oj];W[ok];B[pi];W[qi];B[le];W[fa];B[ga];W[ea]
+;B[hb];W[hs];B[is];W[gs];B[jr];W[do];B[en];W[sk];B[sl];W[sj]
+;B[go];W[oe];B[ne];W[od];B[pc];W[se];B[sd];W[sf];B[gq];W[fp]
+;B[ds];W[es];B[kf];W[bk]
+(;B[cl];W[fj];B[je];W[lf];B[de];W[kf];B[ee];W[ce];B[df];W[dg]
+;B[eg];W[eh];B[cg];W[ef];B[cd];W[bd];B[eg];W[dh];B[bg];W[cc]
+;B[ak];W[aj];B[al];W[ef];B[qd];W[qb];B[eg];W[sm];B[rl];W[ef]
+;B[na];W[oa];B[eg];W[br];B[ar];W[ef];B[qa];W[ra];B[eg];W[ma]
+;B[ef];W[ph];B[ch];W[bf];B[ci];W[ah];B[ag];W[di];B[pg];W[qg]
+;B[la];W[na];B[oi];W[fn];B[ic];W[sp];B[so];W[sq];B[co];W[or]
+;B[ns];W[cp];B[om];W[mk];B[tt];W[tt]C[I'm not good at the yose, the endgame. Maybe I lost some points during the yose.
+
+Thanks for your help!
+
+-Yose seems fine. Maintaing sente is the key in the endgame. You should actually 'calculate' the value of each move (a sente moves is worth twice as much as a gote move)
+
+Overall:
+-You played well generally.
+-There were some big moves down the left hand side that you missed.
+-I get the impession that you are overintimidated by developing moyos. I used to be quite similar and would make silly/risky invading moves. Watch some high-dan games to see how top players deal with them by reduction and carefully planned invasions.
+-Perhaps start looking at some joseki after each game you play. For example, the move you should have played at the very start D18 only comes from experience (I had to look up the joseki too, as black played an odd move)
+-Practice some life/death problems. To get stronger, you have to be able to think through sequences in your head rather than just going for what looks intuitively right. 
+-To contradict myself a bit, the best experince is still actually playing games rather than substantial study (at least until dan-level). 
+
+(sorry, I usually do reviews a bit more detailed than this- I haven't actually played Go for a few months so am a littly rusty. Feel free to email me if you have any questions/want anything clarifying: steven.donlon@new.ox.ac.uk )]
+;B[tt]TW[aa][ba][ca][da][pa][qa][sa][ab][bb][cb][db][ac][bc]
+[ad][cd][ae][be][af][ag][bg][cg][rg][sg][bh][ch][rh][sh][ai]
+[bi][ci][ei][ri][si][ml][mm][eq][fr][qr][sr][rs][ss]TB[ha][ia]
+[ja][ka][gb][ib][gc][hd][fe][he][me][mg][ng][am][bm][qm][rm]
+[sm][an][bn][pn][rn][sn][ao][bo][io][po][qo][ap][ip][jp][pp]
+[iq][jq][kq][br][ir][kr][cs][js][ks][ls]C[You can check your score with the score command, type 'done' when finished.
+Click on a group of stones to mark it dead and remove it from the board.
+littlejohn is removing @ T7
+littlejohn is removing @ S6
+xubpcl is removing @ J4
+xubpcl is removing @ K3
+littlejohn is removing @ H15
+xubpcl is removing @ B13
+xubpcl is removing @ R19
+littlejohn has typed done.
+xubpcl: 62.5 to littlejohn: 65.0])
+(;B[je]C[Ko fight!]))
+(;W[rf]C[This is the biggest move though.]))
+(;W[kc]C[Just connect.]))
+(;W[ie]))
+(;W[mf]))
+(;B[mg]C[Black should have done this.]))
+(;B[pb];W[pc];B[oc]))
+(;W[ik];B[il];W[jk];B[kk]C[Almost!]))
+(;B[gl];W[fk]
+(;B[fl])
+(;B[ek];W[fl];B[fm];W[el];B[dl];W[em];B[en];W[dm];B[cm];W[dn]
+;B[do];W[cn];B[bn];W[co];B[cp]C[Just checking :)])))
+(;W[dj])
+(;W[mf])
+(;W[qc])
+(;W[pb]))
+(;W[ml]))
+(;W[qo]LB[qo:B][pr:A];B[rp];W[rn]TR[qk][pl][ql][pn][po][qo]
+[pp]C[Is this variation better? Maybe I can threat the three black stones after this variation.
+
+-I don't think so, black will always jump out and kill these stones in time.]
+(;B[sq])
+(;B[nl])))
+(;W[om]C[I'd be inclined to let e3 go and see if you can escape through here.]
+))
+(;W[po]))
+(;W[kq]C[L3 just leaves black creeping along the second line which is almost always bad.]
+;B[lq];W[lp];B[kr];W[jq];B[jr];W[iq];B[hr];W[hq]C[Etc.]))
+(;W[lp])
+(;W[op]C[If you want a fight, this may have some interesting variations, but you're probably right yo play it safe.]
+))
+(;AB[kc]))
+(;W[db]TR[jc][kc][lc][mc][nc][oc]C[D18 is the joseki, and a good position for White. 
+
+J16 is an unusual move that is good for you. It aims to gain territory in the triangular area but it is not very efficient or effective. Black needs 2-3 moves to actually secure territory here (none of the black variations underneath actually add much) and a low white move along the top side ruins black's position, leading to a squashed or undercut black shape on the left hand side, and no secure corner on the right hand side. 
+
+For this reason I would not be concerned about Sente here as you suggest- black does not have a devestating move to secure the top side that you must immediately prevent.]
+(;B[md])
+(;B[ld])
+(;B[mc])))

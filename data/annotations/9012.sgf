@@ -1,0 +1,123 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[utf-8]AP[SGFC:1.17]
+
+GN[jender-garcillan-746730-20121021]
+PB[Jorge Rodriguez (garcillan)]
+PW[Alejandro Menéndez Engra (jender)]
+WR[7k]
+KM[6.5]
+DT[2012-07-28,2012-10-21]
+PC[Dragon Go Server: http://www.dragongoserver.net/]
+RE[B+Resign]
+RU[Japanese]
+SO[http://www.dragongoserver.net/game.php?gid=746730]
+GC[Game ID: 746730
+Game Type: GO (1:1)
+Rated: N
+
+White Start Rating: 7k (-46%) - ELO 1354
+Black Start Rating: ?
+White End Rating: 7k (-34%) - ELO 1365
+Black End Rating: ?]
+
+;B[qd];W[dp];B[pq];W[dc];B[fq]LB[oc:A][od:B][nc:C]C[A, B or C is normal.]
+;W[cn];B[dr];W[oc]C[This is good for white.];B[pf];W[qc];B[rc]
+;W[pd];B[qe];W[qb];B[qj]LB[rb:A][lc:B]C[For this shape, white has A and B miai, so is very secure.]
+;W[po];B[np];W[qq];B[qr];W[qp]LB[rr:A]C[Black A is a stronger move.]
+;B[or];W[ql]LB[qh:A]C[White has invasion at A later.];B[ce]
+;W[dh]
+(;B[ch]C[How should I respond?]
+(;W[ci]
+(;B[dg]
+(;W[bh]C[This is a crude move.];B[cg];W[dj]C[White is gote after B12 atari.
+
+Looking at the result, B12 is simply an end-game move.];B[fc]
+LB[eh:A][di:B]C[Black can also exchange A for B first.]
+(;W[hc]C[This is big mistake, giving away corner is too huge a loss.]
+;B[fe];W[kd]LB[bc:A][iq:B][jp:C][jq:D][hq:E][cq:F]C[Black A is very big later.
+
+In this situation, if black play B, white can shoulder hit at C to reduce the moyo.
+
+If black play D, white can invade at E.
+
+In fact there is no one good move which is satisfactory, so it is better for black to take corner at F and let white invade and black respond with a pincer.]
+;B[jq]LB[cq:A][hp:B][qh:C]C[Normal for white to play A, black B then white C.]
+;W[eq]C[This is crude move again.];B[er];W[fp];B[gp];W[go];B[hp]
+;W[fo]LB[in:A]C[Black A better, to avoid double hane.];B[ho]
+(;W[eb]C[jender: Is it OK? I damage the upper side
+
+This is a OK move if corner can stay alive.];B[fb]
+(;W[cb];B[bc];W[bb]LB[cc:A]C[If black A, white is dead.
+
+White got lucky here.]
+(;B[bd];W[ab]
+(;B[hm]C[Good move by black.];W[nn];B[mn];W[mm];B[ln]
+(;W[nl]LB[nd:A]C[Rather slow move.
+
+If I were black, I will play A.
+
+If it is possible to restrict white territory to the 3rd line and get C3, black can win.]
+;B[ld]
+(;W[kc]C[jender: This was bad, wasn't it?
+
+Still Ok.];B[md];W[ne];B[lf];W[ng];B[ph];W[ke];B[mf];W[nf];B[jg]
+;W[hf];B[gg];W[hg];B[hh]
+(;W[lb];B[mb];W[hb];B[jb];W[lc];B[mc];W[jf];B[kg]LB[gh:A]
+(;W[eh]C[Not big now, even if black atari it is possible for white to ignore.]
+;B[gh]C[Now black is thick, white lose a chance here.]
+(;W[ed];B[fd];W[gf];B[ff];W[fg];B[eg];W[fh];B[bg];W[ig];B[ih]
+;W[jh]LB[ni:A]C[jender: I think I should have jumped to A first, threatening to cut here
+
+Yes.];B[kh];W[ji];B[hj];W[ij]LB[hk:A]C[Black A is correct shape.]
+;B[gj];W[lj];B[mi]
+(;W[tt]TR[qb][oc][qc][pd][ne][nf][ng][jh][ji][ij][lj]C[Result: B+Resign
+
+jender: I thought one of these groups would die so I resigned]
+)
+(;W[rb];B[rd];W[nb];B[ma];W[sb];B[la];W[ka];B[kb];W[jc];B[ib]
+;W[ic];B[ja];W[ie]LB[hk:A][gk:B][gl:C][hl:D][ik:E]C[White still in game, too early to resign.
+
+M10 is more or less connected to N7, so it won't die that easy.
+
+There is white A, black B and white C cut here so white J15 can even be omitted...
+
+Anyway, hope you enjoy this review. Sorry to keep you waiting.
+
+Best regards,
+Jimmy Koh]))
+(;W[ih];B[ig];W[ii];B[if]C[White collapsed, just to show you white cannot cut like this.]
+))
+(;W[gh]C[Cut and fight better.]))
+(;W[ih];B[ig];W[hi];B[gh];W[mb]SQ[ih]C[Black cannot capture the marked stone with one hand, so white is Ok.]
+))
+(;W[lc]C[jender: I think this would had been better.
+
+Yes.]))
+(;W[no];B[mp];W[qh];B[ph];W[qi];B[pi];W[rj];B[pj];W[qk];B[qg]
+C[This is better.]))
+(;B[ea];W[da];B[fa];W[ba];B[ib]C[E19/F19 is sente, black can play J18 later.]
+))
+(;B[cc]
+(;W[ab];B[ec]
+(;W[ea];B[db];W[da];B[ba])
+(;W[db];B[ea];W[da];B[ba];W[fa];B[gb]))
+(;W[ec];B[ab]LB[da:A][ba:B]C[A or B miai, dead shape.])))
+(;W[cd]
+(;B[bd];W[bc];B[dd];W[cc];B[be];W[ed];B[de];W[ec];B[fd]C[White alive in sente.]
+)
+(;B[be];W[bd];B[cb];W[db]C[White is alive.];B[bc]LB[ad:A][ae:B]
+C[If black try to kill...
+
+White descend at A is sente (B to connect), white is alive.]
+)))
+(;W[hn];B[in];W[im];B[hm];W[gn];B[jn];W[il]C[This is very big for white.]
+))
+(;W[cd];B[de];W[ed];B[dd];W[ec];B[cc];W[cb];B[bd];W[hc]C[White is happy with this.]
+))
+(;W[di]LB[bh:A][cg:B][cd:C][gc:D]C[This move is better.
+
+Let black decide over A and B, white can choose to play C or D afterwhich.]
+))
+(;B[cg];W[di];B[bc];W[gc]C[White is happy with this.]))
+(;W[cg]C[What about this?];B[bg];W[ci];B[bh];W[dg];B[cj]C[Black get territory, not good for white.]
+))
+(;B[df];W[fd];B[bc];W[ic]C[Normal joseki.]))

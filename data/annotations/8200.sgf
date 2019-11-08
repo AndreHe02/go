@@ -1,0 +1,104 @@
+(;FF[4]GM[1]SZ[19]ST[2]CA[UTF-8]AP[SGFC:1.17]
+
+PB[Stable]
+BR[1k]
+PW[mimikaki]
+WR[1k]
+KM[6.5]
+DT[2011-01-10]
+PC[The KGS Go Server at http://www.gokgs.com/]
+RE[W+5.5]
+TM[1200]
+OT[5x30 byo-yomi]
+RU[Japanese]
+
+;B[pd]C[Stable [1k\]: hi
+mimikaki [1k\]: hi];W[dp];B[pq];W[dd];B[fq];W[dn];B[pk];W[eq]
+;B[jp]LB[fp:A]C[reid: This is the first problem.  Black should almost always extend to A (F4).
+
+After black F4, the corner invasion at C3 is still possible for black, but if white gets F4, it is white's corner.]
+;W[fp]C[reid: this is a good result for white.];B[fc]LB[jd:A]
+C[reid: Black is building a moyo in this game.  I would want to continue building it up with A (K16).]
+;W[id];B[cc];W[dc];B[cd];W[de];B[db];W[eb];B[cb];W[ec];B[cf]
+;W[fd]C[reid: This is joseki, which means it's equal in the corner, but it seems to be a good whole-board result for white: the strong shape for white will be effective to help reduce black's moyo.]
+;B[mc]LB[lc:B][nc:A][nd:C][le:D]C[reid: I understand the desire to reduce white's potential on the upper side, but the two-space extension to N17 is not good for securing the R17 corner for black.  A (O17) is much stronger and would take the corner better.  It makes it difficult for white to extend to B - the proverb says to play away from strength.
+
+Black could also consider C (O16) which works better with the rest of the existing black moyo.  Of course white will play B, so black will need a plan to deal with that.  Black D might be one way.]
+;W[gq]C[reid: This corner is very strong now, but it feels a bit slow for white.]
+;B[mp]LB[po:A][op:B]C[reid: this is a little difficult:  black wants to reinforce his position in this area in response to whites now very strong corner, but the shape created by N4 is not entirely satisfactory, mostly because the corner is still vulnerable.
+
+Playing N4 at A (Q5) would be a familiar shape, but with Q9 instead of Q10, perhaps B (P4) would be even better.]
+;W[qf];B[qh]LB[qe:A][pf:B][ph:C]C[reid: Let's go back to move N17 for a moment.  Note that if that move had been at O17 or O16, black could respond to white R14 with the A through C sequence which means white can't really make this attack.]
+;W[qd];B[qc];W[rc];B[pc];W[re];B[ib];W[pn];B[qo];W[pl];B[ql]
+;W[ol];B[qm];W[nn];B[ck]LB[cl:A]C[I wasn't sure about this move, but I didn't want w extending here and was pretty sure it could live
+
+reid: OK, here's a way to look at it that should help:  The C14 stone is completely alive, which makes the whole left side small.  White can play at C12 to try to seal it off, but it's gote.  So if black still wants to play here, he can be confident in going all the way to A (C8).]
+;W[ch];B[cg];W[dh]C[reid: exchanging C13 for D12 hurts the D9 stone pretty significantly - better to not make this exchange.]
+;B[bn];W[cn];B[bm];W[bo];B[ek]C[reid: this seems to be where white establishes his winning position.  By chasing this group, he builds territory in the middle (around G13).  Note that if black was at C8 instead of C9, then he could make a better base by playing C10 now (and white would not have been able to seal his corner quite as well either).]
+;W[dj];B[dk];W[fi];B[gk];W[hi];B[ik];W[ji];B[ok]C[reid:  black wants to attack the P8 stones, but it's not easy to do]
+;W[nk];B[nj];W[mk];B[mj];W[lk];B[mm]LB[kk:A]C[in retrospect this was pointless and just gave him more stones facing my n4
+
+reid: true.  M9 also is a long range threat to the J9 group.  And sadly, the black O10 and P9 stones cannot take territory effectively, so this attack has not helped black.
+
+Perhaps after all black should have just played at A (L9) instead of P9.  White would probably play at P9, inducing black Q10 which helps black take territory.  Black would hope to be able use this attack to reduce white's G13 area.
+
+The important lesson here is that is is difficult to make an effective attack if you have weak stones on the board.]
+;W[mn];B[lm];W[nm];B[hm]C[reid: black has to come back to defend his weak group.]
+;W[nq];B[np];W[mq];B[oq];W[kq];B[lp];W[jq];B[lq]C[reid: black should not push here.  white's response takes a black liberty which could be critical.  You can leave moves like this for the endgame when you know whether you need the liberty or not.]
+;W[lr];B[iq];W[jr];B[ip];W[ir];B[hd]LB[lj:A]C[reid: Hmm, black may have missed a chance here.  If black pushes up at A (M10), it looks like he can cut off some white stones.  The fighting is complicated, and difficult to predict, but black doesn't have much to lose.]
+;W[he];B[hc];W[ie];B[rb];W[sd];B[jc];W[sb];B[jg];W[lj];B[ih]
+;W[ii];B[fg];W[hg];B[ef];W[ge];B[fb];W[da];B[hh];W[gh];B[gg]
+;W[df];B[dg];W[eh];B[eg];W[ca];B[ba];W[ea];B[ee];W[ed];B[bc]
+;W[kg];B[jf];W[kd];B[kc];W[kf];B[hf];W[jh];B[ig]C[reid: black eliminated the white G14 territory, but now white has new thickness at L14.]
+;W[ke];B[kp]C[I was pretty sure I was well ahead at this point so where did it go wrong?
+
+reid: OK, let's count:  black's upper side is about 12 points.  Upper left corner is 8.  The lower right corner is about 25.  Total is 45.
+
+White's upper right side is 5.  The lower left corner is about 30.  Komi is 6.5, total is 41.5.
+
+So how can white win?  Well, the problem is that black has some weaknesses.  The cutting points at P10/R9 are one problem.  Losing just the N10/O10 stones would be enough to make the game a half-pointer.
+
+The G9 group is also not solidly connected to safety.
+
+And finally, we counted after black connected at L4, so black has an extra stone on the board.  We really should either count with the L4 weakness still there (before black's move) or after white gets his next move:  S13 (sente) followed by either A5 or P2 (reverse sente) might be enough to turn the count to white's favor.  R18 is also big - at least six points in gote.]
+;W[ln];B[jm];W[kn];B[ra]C[reid: This is fairly big, but it's gote.  Better to take A5 and P2 sente and S13 reverse sente first.]
+;W[po];B[qp];W[nd];B[md];W[me];B[nc];W[pi];B[oh]C[I didn't spot the double atari in this sequence
+
+reid: Hmm, I don't spot it either.  See variations a few moves later.
+
+It looks to me like white can do better by cutting directly at P10.  But I still prefer the straightforward S13.]
+;W[ph];B[pg];W[qg];B[qi];W[og];B[pf];W[oi];B[nh];W[ni]
+(;B[pj];W[mi];B[ng];W[pe];B[ne]LB[nf:A]C[reid: Hmm, this looks dangerous.
+
+What if white plays A next?];W[of];B[nf];W[oj];B[qk];W[rg];B[op]
+C[reid: yes, white could have cut here forcing black spend moves to make two eyes for the H7 stones.  That might have given white more significant win.
+
+I will end the commentary here.
+
+I don't think there were any huge mistakes in the early game, but white managed to establish a position with strong shapes by the middle game, while black still had some debts to pay.  White was able to use black's weaknesses effectively to get a narrow win.  This game is a good example of how to turn strength into territory.]
+;W[si];B[rj];W[fa];B[gj];W[gi];B[ao];W[bp];B[or];W[mr];B[cm]
+;W[km];B[ap];W[aq];B[an];W[bq];B[hq];W[hr];B[gp];W[fr];B[gb]
+;W[bh];B[bg];W[ag];B[af];W[ah];B[ce];W[go];B[in];W[jl];B[im]
+;W[jk];B[bj];W[oe];B[od];W[fl];B[ej];W[gl];B[hk];W[cj];B[em]
+;W[fn];B[pm];W[qn];B[rn];W[om];B[hp];W[ga];B[gd];W[fe];B[ha]
+;W[bi];B[bk];W[mh];B[ei];W[fh];B[di];W[ci];B[mf];W[le];B[sj]
+;W[rh];B[en];W[eo];B[dm];W[ri];B[qj];W[ns];B[nr];W[os];B[ps]
+;W[ms];B[lg];W[lh];B[lf];W[el];B[dl];W[aj];B[ak];W[ij];B[ho]
+;W[gn];B[jn];W[ld];B[lc];W[ko];B[jo];W[pp];B[no];W[on];B[qb]
+;W[ro];B[rm];W[rp];B[qq];W[rq];B[rr];W[sr];B[rs];W[ai];B[nd]
+;W[sc];B[ic];W[kh];B[tt];W[tt]TW[rd][qe][se][pf][rf][sf][pg]
+[sg][sh][ki][li][jj][kj][mj][nj][kk][kl][ll][ml][nl][lm][mm]
+[co][do][fo][cp][ep][cq][dq][fq][ar][br][cr][dr][er][gr][kr]
+[as][bs][cs][ds][es][fs][gs][hs][is][js][ks][ls]TB[aa][ia][ja]
+[ka][la][ma][na][oa][pa][qa][ab][bb][hb][jb][kb][lb][mb][nb]
+[ob][pb][ac][gc][oc][ad][bd][ae][be][bf][hg][rk][sk][al][bl]
+[cl][rl][sl][am][sm][sn][io][ro][so][rp][sp][rq][sq][pr][qr]
+[sr][qs][ss]C[mimikaki [1k\]: ty
+Stable [1k\]: thx
+
+Thanks to the reviewer as well. ;)])
+(;AB[mi]
+(;W[mh]LB[oj:A]C[white can't play at A because of shortage of liberties.]
+;B[ng];W[of];B[pe]C[white can't capture in time])
+(;W[pe];B[of];W[ng];B[mh];W[nf];B[oe];W[od]C[this ko looks like a bigger risk to white than to black: white could lose the S15 stones.  So ko threats like white F8 might not be big enough.]
+)))
